@@ -18,7 +18,7 @@ Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
 # ---------------------------------------------------------------------------
-# YAML parser  (hand-rolled – no powershell-yaml module required)
+# YAML parser (hand-rolled – no powershell-yaml module required)
 # ---------------------------------------------------------------------------
 
 function ConvertFrom-CheatsYaml {
@@ -374,7 +374,7 @@ function Build-ConsolesReadme {
 function Write-ReadmeIfChanged {
     param([string]$Path, [string]$Content)
 
-    # Normalise to LF for comparison and storage
+    # Normalize to LF for comparison and storage
     $normalised = $Content -replace '\r\n', "`n" -replace '\r', "`n"
 
     if (Test-Path $Path) {
