@@ -32,8 +32,9 @@ Options
 
 Troubleshooting HTTP 403 Errors
 --------------------------------
-If you encounter "403 Forbidden" errors, the site is blocking your requests.
-Try these solutions:
+This script uses cloudscraper to automatically bypass Cloudflare protection by
+handling JavaScript challenges and mimicking real browser behavior. If you still
+encounter "403 Forbidden" errors, try these solutions:
 
   1. Increase delay between requests:
      python Scrape-GameHacking.py --delay 2.0 --system "NES"
@@ -46,6 +47,10 @@ Try these solutions:
 
   4. Retry with more attempts:
      python Scrape-GameHacking.py --retries 5 --delay 2.0
+
+  Note: cloudscraper handles most Cloudflare challenges automatically, but some
+  advanced protections may still block automated requests. In such cases, using
+  a proxy or VPN may be necessary.
 
 Cheat-type detection
 --------------------
@@ -71,12 +76,13 @@ from pathlib import Path
 from urllib.parse import urljoin, urlencode, quote
 
 try:
-    import requests
+    import cloudscraper
+    import requests  # Still needed for exception types
     from bs4 import BeautifulSoup
 except ImportError:
     sys.exit(
         "Required packages not found.\n"
-        "Install them with:  pip install requests beautifulsoup4"
+        "Install them with:  pip install cloudscraper beautifulsoup4"
     )
 
 BASE_URL = "https://gamehacking.org"
@@ -211,7 +217,7 @@ def random_delay(base_delay: float) -> None:
 
 
 def get_soup(
-    session: requests.Session,
+    session: cloudscraper.CloudScraper,
     url: str,
     delay: float,
     retries: int = 3,
@@ -222,7 +228,7 @@ def get_soup(
     Retries up to *retries* times on transient network or server errors,
     with exponential back-off.  Raises the last exception if all attempts fail.
     """
-    verbose = getattr(session, 'verbose', False)
+    verbose = getattr(session, '_scraper_verbose', False)
     
     if verbose:
         print(f"  [DEBUG] Fetching {url}")
@@ -249,6 +255,13 @@ def get_soup(
             
             random_delay(delay)  # Use random delay instead of fixed delay
             return BeautifulSoup(resp.text, "html.parser")
+        except cloudscraper.exceptions.CloudflareChallengeError as exc:
+            # Cloudflare challenge could not be solved automatically
+            last_exc = exc
+            print(
+                f"  [WARN] Cloudflare challenge on attempt {attempt}/{retries} for {url}: {exc}",
+                flush=True,
+            )
         except requests.exceptions.SSLError as exc:
             raise requests.exceptions.SSLError(
                 f"SSL certificate verification failed for {url}.\n"
@@ -287,6 +300,13 @@ def get_soup(
                 f"  [WARN] HTTP {status} on attempt {attempt}/{retries} for {url}: {exc}",
                 flush=True,
             )
+        except requests.exceptions.RequestException as exc:
+            # Catch any other requests-related exceptions
+            last_exc = exc
+            print(
+                f"  [WARN] Request error on attempt {attempt}/{retries} for {url}: {exc}",
+                flush=True,
+            )
         if attempt < retries:
             backoff = delay * (2 ** attempt)
             print(f"  [WARN] Retrying in {backoff:.1f}s …", flush=True)
@@ -300,7 +320,7 @@ def get_soup(
 # gamehacking.org scraping logic
 # ---------------------------------------------------------------------------
 
-def scrape_systems(session: requests.Session, delay: float, retries: int = 3) -> list:
+def scrape_systems(session: cloudscraper.CloudScraper, delay: float, retries: int = 3) -> list:
     """Return a list of {id, name} dicts for all systems on the search page."""
     # Use BASE_URL as referer to simulate navigation from homepage
     soup = get_soup(session, f"{BASE_URL}/search", delay, retries=retries, referer=BASE_URL)
@@ -329,7 +349,7 @@ def scrape_systems(session: requests.Session, delay: float, retries: int = 3) ->
 
 
 def scrape_game_list(
-    session: requests.Session,
+    session: cloudscraper.CloudScraper,
     system_id: str,
     delay: float,
     retries: int = 3,
@@ -367,7 +387,7 @@ def scrape_game_list(
 
 
 def scrape_game(
-    session: requests.Session,
+    session: cloudscraper.CloudScraper,
     game_url: str,
     delay: float,
     retries: int = 3,
@@ -559,10 +579,18 @@ def main():
         "DNT": "1",
         "Priority": "u=0, i",
     }
-    session = requests.Session()
+    # Use cloudscraper instead of requests to bypass Cloudflare protection
+    # cloudscraper automatically handles JavaScript challenges and mimics browser behavior
+    session = cloudscraper.create_scraper(
+        browser={
+            'browser': 'chrome',
+            'platform': 'windows',
+            'desktop': True
+        }
+    )
     session.headers.update(headers)
     session.verify = not args.no_verify_ssl
-    session.verbose = args.verbose  # Store verbose flag on session object
+    session._scraper_verbose = args.verbose  # Store verbose flag on session object (using custom attribute to avoid conflicts)
     
     # Configure proxy if provided
     if args.proxy:
