@@ -11,6 +11,8 @@ Usage
 -----
     python Scrape-GameHacking.py [--out-dir /path/to/CheatArchiver]
                                   [--system <system_id_or_name>]
+                                  [--game-url <url>]
+                                  [--game-id <id>]
                                   [--delay 1.0]
                                   [--dry-run]
                                   [--verbose]
@@ -22,6 +24,14 @@ Options
 --out-dir        Root of the CheatArchiver repo.  Defaults to the directory
                  that contains this script.
 --system         Filter to a single system by numeric ID or partial name.
+--game-url       Scrape a single game page by its full URL and write its
+                 cheats.yaml.  Example:
+                   python Scrape-GameHacking.py --game-url https://gamehacking.org/game/104978
+                 Skips the system/game-list discovery step entirely.
+--game-id        Scrape a single game by its numeric ID on gamehacking.org.
+                 Equivalent to --game-url https://gamehacking.org/game/<id>.
+                 Example:
+                   python Scrape-GameHacking.py --game-id 104978
 --delay          Seconds to wait between HTTP requests (default 1.0).
                  A random jitter of +/- 30% is applied to avoid detection.
 --dry-run        Print what would be written without creating any files.
@@ -590,6 +600,26 @@ def main():
         action="store_true",
         help="Dump HTML pages to files for debugging (useful when selectors fail).",
     )
+    parser.add_argument(
+        "--game-url",
+        default=None,
+        metavar="URL",
+        help=(
+            "Scrape a single game page by its full URL and write its cheats.yaml. "
+            "Skips system/game-list discovery. "
+            "Example: --game-url https://gamehacking.org/game/104978"
+        ),
+    )
+    parser.add_argument(
+        "--game-id",
+        default=None,
+        metavar="ID",
+        help=(
+            "Scrape a single game by its numeric ID on gamehacking.org. "
+            "Equivalent to --game-url https://gamehacking.org/game/<id>. "
+            "Example: --game-id 104978"
+        ),
+    )
     args = parser.parse_args()
 
     out_dir      = Path(args.out_dir)
@@ -660,6 +690,55 @@ def main():
     except requests.exceptions.RequestException as exc:
         print(f"  [WARN] Could not initialize session: {exc}")
         print("  Continuing anyway...")
+
+    # ------------------------------------------------------------------
+    # Single-game fast-path: --game-url or --game-id
+    # ------------------------------------------------------------------
+    single_game_url: str | None = None
+    if args.game_id:
+        single_game_url = f"{BASE_URL}/game/{args.game_id.strip()}"
+    elif args.game_url:
+        single_game_url = args.game_url.strip()
+
+    if single_game_url:
+        print(f"Scraping single game: {single_game_url} …")
+        try:
+            data = scrape_game(session, single_game_url, args.delay, retries=args.retries)
+        except Exception as exc:
+            sys.exit(f"ERROR: Could not scrape game page.\n  {exc}")
+
+        cheat_type = data["cheat_type"] or "RAW"
+
+        # Derive path components, falling back to sensible defaults.
+        # safe_name() strips filesystem-illegal characters; if that leaves an
+        # empty string (all-invalid input), substitute a safe literal instead.
+        console    = safe_name(data["console"]) or "Unknown"
+        region     = safe_name(data["region"])  or "Unknown"
+        raw_title  = data["title"] or ""
+        if raw_title:
+            game_title = safe_name(raw_title)
+        else:
+            game_title = ""
+        if not game_title:
+            # Fall back to the numeric ID extracted from the URL
+            m = re.search(r"/game/(\d+)", single_game_url)
+            game_title = f"game_{m.group(1)}" if m else "game_unknown"
+            raw_title  = game_title
+
+        yaml_content = build_cheats_yaml(
+            game       = raw_title,
+            console    = console,
+            region     = region,
+            serial     = data["serial"],
+            cheat_type = cheat_type,
+            source_url = data["source_url"],
+            cheats     = data["cheats"],
+        )
+
+        yaml_path = consoles_dir / console / region / game_title / "cheats.yaml"
+        ensure_yaml(yaml_path, yaml_content, args.dry_run)
+        print(f"Done. 1 game processed ({len(data['cheats'])} cheats, type={cheat_type}).")
+        return
 
     print(f"Fetching system list from {BASE_URL}/search …")
     try:
