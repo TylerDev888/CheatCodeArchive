@@ -6,23 +6,52 @@
 
 ## Table of Contents
 
-1. [Goals](#goals)
-2. [Why GitHub?](#why-github)
-3. [Repository Strategy — One Repo or Many?](#repository-strategy--one-repo-or-many)
-4. [Folder Hierarchy](#folder-hierarchy)
-5. [File Formats](#file-formats)
-6. [Cheat Entry Structure](#cheat-entry-structure)
-7. [Pointer and Offset Structure](#pointer-and-offset-structure)
-8. [README Index Pages](#readme-index-pages)
-9. [Naming Conventions](#naming-conventions)
-10. [Workflow for Adding Cheats](#workflow-for-adding-cheats)
-11. [Scraping Source Data](#scraping-source-data)
-12. [GitHub Pages (Future)](#github-pages-future)
-13. [Contributing](#contributing)
+1. [Live Example](#live-example)
+2. [Goals](#goals)
+3. [Why GitHub?](#why-github)
+4. [Repository Strategy — One Repo or Many?](#repository-strategy--one-repo-or-many)
+5. [Folder Hierarchy](#folder-hierarchy)
+6. [File Formats](#file-formats)
+7. [Cheat Entry Structure](#cheat-entry-structure)
+8. [Pointer and Offset Structure](#pointer-and-offset-structure)
+9. [README Index Pages](#readme-index-pages)
+10. [Naming Conventions](#naming-conventions)
+11. [Workflow for Adding Cheats](#workflow-for-adding-cheats)
+12. [Scraping Source Data](#scraping-source-data)
+13. [GitHub Pages (Future)](#github-pages-future)
+14. [Contributing](#contributing)
 
 ---
 
-## Goals
+## Live Example
+
+A working example of the full structure is already in this repository. Follow the links to browse each level:
+
+```
+consoles/
+└── PlayStation 2/
+    └── NTSC-U/
+        └── Grand Theft Auto - San Andreas/
+            ├── README.md        ← game index page with all cheats
+            ├── cheats.yaml      ← machine-readable cheat data
+            └── patches/
+                └── NTSC-U-Patch-v1.0/
+                    ├── README.md    ← patch-specific cheat page
+                    └── cheats.yaml
+```
+
+| Level | Link |
+|---|---|
+| All consoles | [consoles/](./consoles/) |
+| PlayStation 2 | [consoles/PlayStation 2/](./consoles/PlayStation%202/) |
+| NTSC-U region | [consoles/PlayStation 2/NTSC-U/](./consoles/PlayStation%202/NTSC-U/) |
+| GTA San Andreas (game) | [consoles/PlayStation 2/NTSC-U/Grand Theft Auto - San Andreas/](./consoles/PlayStation%202/NTSC-U/Grand%20Theft%20Auto%20-%20San%20Andreas/) |
+| GTA SA cheats (YAML) | [cheats.yaml](./consoles/PlayStation%202/NTSC-U/Grand%20Theft%20Auto%20-%20San%20Andreas/cheats.yaml) |
+| Fan patch cheats | [patches/NTSC-U-Patch-v1.0/](./consoles/PlayStation%202/NTSC-U/Grand%20Theft%20Auto%20-%20San%20Andreas/patches/NTSC-U-Patch-v1.0/) |
+
+---
+
+
 
 - **Preserve** cheat codes from disappearing websites (e.g., gamehacking.org).
 - **Organise** codes by Console → Region → Game → Patch (optional) → Cheat → Pointer/Offset.

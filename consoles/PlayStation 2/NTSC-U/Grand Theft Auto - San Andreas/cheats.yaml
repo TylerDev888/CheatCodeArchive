@@ -1,0 +1,44 @@
+# Grand Theft Auto - San Andreas cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20946
+# Source:  https://gamehacking.org/game/44
+
+game: "Grand Theft Auto - San Andreas"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20946"
+source: "https://gamehacking.org/game/44"
+
+cheats:
+  - name: "Master Code"
+    author: "ReallyCoolName"
+    notes: "Must be active for all other codes to work."
+    codes:
+      - "F0100008 0000000E"
+
+  - name: "Infinite Health"
+    author: "GodModeGuy"
+    codes:
+      - "2A456B10 000000C8"
+
+  - name: "Infinite Ammo"
+    author: "GodModeGuy"
+    codes:
+      - "2058B650 05F5E0FF"
+      - "2058B654 05F5E0FF"
+
+  - name: "All Weapons (Pointer-based)"
+    author: "PointerPro"
+    notes: "Follows a pointer chain to the player weapon slot."
+    pointers:
+      - base: "203F8A00 00000000"
+        offsets:
+          - "0x10"
+          - "0x3C"
+        final_code: "1058B600 00000009"
+
+  - name: "Wanted Level - Never Wanted"
+    author: "LawlessCoder"
+    codes:
+      - "204A5680 00000000"
