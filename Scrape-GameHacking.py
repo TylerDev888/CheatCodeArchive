@@ -245,7 +245,8 @@ def get_soup(
 
 def scrape_systems(session: requests.Session, delay: float, retries: int = 3) -> list:
     """Return a list of {id, name} dicts for all systems on the search page."""
-    soup = get_soup(session, f"{BASE_URL}/search", delay, retries=retries)
+    # Use BASE_URL as referer to simulate navigation from homepage
+    soup = get_soup(session, f"{BASE_URL}/search", delay, retries=retries, referer=BASE_URL)
     systems = []
     # The system select box is typically id="system" or name="system"
     select = (
@@ -491,6 +492,16 @@ def main():
     session = requests.Session()
     session.headers.update(headers)
     session.verify = not args.no_verify_ssl
+
+    # First, visit the homepage to establish session cookies and look more legitimate
+    try:
+        print(f"Initializing session with {BASE_URL} …")
+        resp = session.get(BASE_URL, timeout=30)
+        resp.raise_for_status()
+        time.sleep(args.delay)
+    except requests.exceptions.RequestException as exc:
+        print(f"  [WARN] Could not initialize session: {exc}")
+        print("  Continuing anyway...")
 
     print(f"Fetching system list from {BASE_URL}/search …")
     try:
