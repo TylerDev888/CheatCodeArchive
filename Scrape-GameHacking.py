@@ -32,8 +32,9 @@ Options
 
 Troubleshooting HTTP 403 Errors
 --------------------------------
-If you encounter "403 Forbidden" errors, the site is blocking your requests.
-Try these solutions:
+This script uses cloudscraper to automatically bypass Cloudflare protection by
+handling JavaScript challenges and mimicking real browser behavior. If you still
+encounter "403 Forbidden" errors, try these solutions:
 
   1. Increase delay between requests:
      python Scrape-GameHacking.py --delay 2.0 --system "NES"
@@ -46,6 +47,10 @@ Try these solutions:
 
   4. Retry with more attempts:
      python Scrape-GameHacking.py --retries 5 --delay 2.0
+
+  Note: cloudscraper handles most Cloudflare challenges automatically, but some
+  advanced protections may still block automated requests. In such cases, using
+  a proxy or VPN may be necessary.
 
 Cheat-type detection
 --------------------
@@ -71,12 +76,12 @@ from pathlib import Path
 from urllib.parse import urljoin, urlencode, quote
 
 try:
-    import requests
+    import cloudscraper
     from bs4 import BeautifulSoup
 except ImportError:
     sys.exit(
         "Required packages not found.\n"
-        "Install them with:  pip install requests beautifulsoup4"
+        "Install them with:  pip install cloudscraper beautifulsoup4"
     )
 
 BASE_URL = "https://gamehacking.org"
@@ -211,7 +216,7 @@ def random_delay(base_delay: float) -> None:
 
 
 def get_soup(
-    session: requests.Session,
+    session: cloudscraper.CloudScraper,
     url: str,
     delay: float,
     retries: int = 3,
@@ -249,49 +254,68 @@ def get_soup(
             
             random_delay(delay)  # Use random delay instead of fixed delay
             return BeautifulSoup(resp.text, "html.parser")
-        except requests.exceptions.SSLError as exc:
-            raise requests.exceptions.SSLError(
-                f"SSL certificate verification failed for {url}.\n"
-                "Try running with --no-verify-ssl to skip verification."
-            ) from exc
-        except requests.exceptions.ConnectionError as exc:
+        except cloudscraper.exceptions.CloudflareChallengeError as exc:
+            # Cloudflare challenge could not be solved automatically
             last_exc = exc
             print(
-                f"  [WARN] Connection error on attempt {attempt}/{retries} for {url}: {exc}",
+                f"  [WARN] Cloudflare challenge on attempt {attempt}/{retries} for {url}: {exc}",
                 flush=True,
             )
-        except requests.exceptions.Timeout as exc:
-            last_exc = exc
-            print(
-                f"  [WARN] Timeout on attempt {attempt}/{retries} for {url}: {exc}",
-                flush=True,
-            )
-        except requests.exceptions.HTTPError as exc:
-            # Non-transient HTTP errors (4xx) are not worth retrying.
-            status = exc.response.status_code if exc.response is not None else "?"
-            if exc.response is not None and exc.response.status_code < 500:
-                error_msg = f"HTTP {status} error fetching {url}."
-                if status == 403:
-                    error_msg += (
-                        "\n  The site is actively blocking this request. This could be due to:"
-                        "\n  - Anti-bot protection (e.g., Cloudflare, Imperva)"
-                        "\n  - Rate limiting (try increasing --delay)"
-                        "\n  - IP blocking (try using a VPN or proxy)"
-                        "\n  - User-Agent detection (headers may need updating)"
-                    )
-                else:
-                    error_msg += " The site may be blocking requests or the URL has changed."
-                raise requests.exceptions.HTTPError(error_msg) from exc
-            last_exc = exc
-            print(
-                f"  [WARN] HTTP {status} on attempt {attempt}/{retries} for {url}: {exc}",
-                flush=True,
-            )
+        except Exception as exc:
+            # Check if it's an SSL error
+            if "SSL" in str(type(exc).__name__) or "ssl" in str(exc).lower():
+                raise Exception(
+                    f"SSL certificate verification failed for {url}.\n"
+                    "Try running with --no-verify-ssl to skip verification."
+                ) from exc
+            # Check if it's a connection error
+            if "ConnectionError" in str(type(exc).__name__) or "connection" in str(exc).lower():
+                last_exc = exc
+                print(
+                    f"  [WARN] Connection error on attempt {attempt}/{retries} for {url}: {exc}",
+                    flush=True,
+                )
+            # Check if it's a timeout error
+            elif "Timeout" in str(type(exc).__name__) or "timeout" in str(exc).lower():
+                last_exc = exc
+                print(
+                    f"  [WARN] Timeout on attempt {attempt}/{retries} for {url}: {exc}",
+                    flush=True,
+                )
+            # Check if it's an HTTP error
+            elif "HTTPError" in str(type(exc).__name__) or hasattr(exc, 'response'):
+                # Non-transient HTTP errors (4xx) are not worth retrying.
+                status = exc.response.status_code if hasattr(exc, 'response') and exc.response is not None else "?"
+                if hasattr(exc, 'response') and exc.response is not None and exc.response.status_code < 500:
+                    error_msg = f"HTTP {status} error fetching {url}."
+                    if status == 403:
+                        error_msg += (
+                            "\n  The site is actively blocking this request. This could be due to:"
+                            "\n  - Anti-bot protection (e.g., Cloudflare, Imperva)"
+                            "\n  - Rate limiting (try increasing --delay)"
+                            "\n  - IP blocking (try using a VPN or proxy)"
+                            "\n  - User-Agent detection (headers may need updating)"
+                        )
+                    else:
+                        error_msg += " The site may be blocking requests or the URL has changed."
+                    raise Exception(error_msg) from exc
+                last_exc = exc
+                print(
+                    f"  [WARN] HTTP {status} on attempt {attempt}/{retries} for {url}: {exc}",
+                    flush=True,
+                )
+            else:
+                # Unknown error type
+                last_exc = exc
+                print(
+                    f"  [WARN] Error on attempt {attempt}/{retries} for {url}: {exc}",
+                    flush=True,
+                )
         if attempt < retries:
             backoff = delay * (2 ** attempt)
             print(f"  [WARN] Retrying in {backoff:.1f}s …", flush=True)
             random_delay(backoff)  # Use random delay for retries too
-    raise requests.exceptions.RequestException(
+    raise Exception(
         f"Failed to fetch {url} after {retries} attempt(s)."
     ) from last_exc
 
@@ -300,7 +324,7 @@ def get_soup(
 # gamehacking.org scraping logic
 # ---------------------------------------------------------------------------
 
-def scrape_systems(session: requests.Session, delay: float, retries: int = 3) -> list:
+def scrape_systems(session: cloudscraper.CloudScraper, delay: float, retries: int = 3) -> list:
     """Return a list of {id, name} dicts for all systems on the search page."""
     # Use BASE_URL as referer to simulate navigation from homepage
     soup = get_soup(session, f"{BASE_URL}/search", delay, retries=retries, referer=BASE_URL)
@@ -329,7 +353,7 @@ def scrape_systems(session: requests.Session, delay: float, retries: int = 3) ->
 
 
 def scrape_game_list(
-    session: requests.Session,
+    session: cloudscraper.CloudScraper,
     system_id: str,
     delay: float,
     retries: int = 3,
@@ -367,7 +391,7 @@ def scrape_game_list(
 
 
 def scrape_game(
-    session: requests.Session,
+    session: cloudscraper.CloudScraper,
     game_url: str,
     delay: float,
     retries: int = 3,
@@ -559,7 +583,15 @@ def main():
         "DNT": "1",
         "Priority": "u=0, i",
     }
-    session = requests.Session()
+    # Use cloudscraper instead of requests to bypass Cloudflare protection
+    # cloudscraper automatically handles JavaScript challenges and mimics browser behavior
+    session = cloudscraper.create_scraper(
+        browser={
+            'browser': 'chrome',
+            'platform': 'windows',
+            'desktop': True
+        }
+    )
     session.headers.update(headers)
     session.verify = not args.no_verify_ssl
     session.verbose = args.verbose  # Store verbose flag on session object
@@ -586,14 +618,14 @@ def main():
         resp = session.get(BASE_URL, timeout=30)
         resp.raise_for_status()
         random_delay(args.delay)  # Use random delay after homepage visit
-    except requests.exceptions.RequestException as exc:
+    except Exception as exc:
         print(f"  [WARN] Could not initialize session: {exc}")
         print("  Continuing anyway...")
 
     print(f"Fetching system list from {BASE_URL}/search …")
     try:
         systems = scrape_systems(session, args.delay, retries=args.retries)
-    except requests.exceptions.RequestException as exc:
+    except Exception as exc:
         sys.exit(f"ERROR: Could not fetch the system list.\n  {exc}")
 
     if not systems:
@@ -621,7 +653,7 @@ def main():
 
         try:
             games = scrape_game_list(session, sys_id, args.delay, retries=args.retries)
-        except requests.exceptions.RequestException as exc:
+        except Exception as exc:
             print(f"  ERROR fetching game list: {exc}  Skipping system.")
             continue
         print(f"  {len(games)} game(s) found.")
