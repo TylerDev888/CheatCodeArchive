@@ -15,6 +15,7 @@ Usage
                                   [--dry-run]
                                   [--verbose]
                                   [--proxy <proxy_url>]
+                                  [--dump-html]
 
 Options
 -------
@@ -29,6 +30,8 @@ Options
 --verbose        Enable verbose debug output for HTTP requests.
 --proxy          HTTP/HTTPS proxy URL (e.g., http://127.0.0.1:8080 or
                  socks5://127.0.0.1:9050). Useful if your IP is blocked.
+--dump-html      Dump HTML pages to files for debugging (useful when selectors fail).
+                 Creates debug_search_page.html with the raw HTML from the search page.
 
 Troubleshooting HTTP 403 Errors
 --------------------------------
@@ -51,6 +54,17 @@ encounter "403 Forbidden" errors, try these solutions:
   Note: cloudscraper handles most Cloudflare challenges automatically, but some
   advanced protections may still block automated requests. In such cases, using
   a proxy or VPN may be necessary.
+
+Troubleshooting Selector Issues
+--------------------------------
+If you see "[WARN] Could not find system selector on search page", the page
+structure may have changed. Use the --dump-html flag to save the HTML:
+
+  python Scrape-GameHacking.py --dump-html --system "PlayStation 2"
+
+This will create a file named "debug_search_page.html" in the current directory
+containing the exact HTML received from the server. You can inspect this file to
+understand the page structure and identify the correct selectors.
 
 Cheat-type detection
 --------------------
