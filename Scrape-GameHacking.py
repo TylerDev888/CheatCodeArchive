@@ -228,7 +228,7 @@ def get_soup(
     Retries up to *retries* times on transient network or server errors,
     with exponential back-off.  Raises the last exception if all attempts fail.
     """
-    verbose = getattr(session, 'verbose', False)
+    verbose = getattr(session, '_scraper_verbose', False)
     
     if verbose:
         print(f"  [DEBUG] Fetching {url}")
@@ -590,7 +590,7 @@ def main():
     )
     session.headers.update(headers)
     session.verify = not args.no_verify_ssl
-    session.verbose = args.verbose  # Store verbose flag on session object
+    session._scraper_verbose = args.verbose  # Store verbose flag on session object (using custom attribute to avoid conflicts)
     
     # Configure proxy if provided
     if args.proxy:
