@@ -77,6 +77,7 @@ from urllib.parse import urljoin, urlencode, quote
 
 try:
     import cloudscraper
+    import requests  # Still needed for exception types
     from bs4 import BeautifulSoup
 except ImportError:
     sys.exit(
@@ -261,61 +262,56 @@ def get_soup(
                 f"  [WARN] Cloudflare challenge on attempt {attempt}/{retries} for {url}: {exc}",
                 flush=True,
             )
-        except Exception as exc:
-            # Check if it's an SSL error
-            if "SSL" in str(type(exc).__name__) or "ssl" in str(exc).lower():
-                raise Exception(
-                    f"SSL certificate verification failed for {url}.\n"
-                    "Try running with --no-verify-ssl to skip verification."
-                ) from exc
-            # Check if it's a connection error
-            if "ConnectionError" in str(type(exc).__name__) or "connection" in str(exc).lower():
-                last_exc = exc
-                print(
-                    f"  [WARN] Connection error on attempt {attempt}/{retries} for {url}: {exc}",
-                    flush=True,
-                )
-            # Check if it's a timeout error
-            elif "Timeout" in str(type(exc).__name__) or "timeout" in str(exc).lower():
-                last_exc = exc
-                print(
-                    f"  [WARN] Timeout on attempt {attempt}/{retries} for {url}: {exc}",
-                    flush=True,
-                )
-            # Check if it's an HTTP error
-            elif "HTTPError" in str(type(exc).__name__) or hasattr(exc, 'response'):
-                # Non-transient HTTP errors (4xx) are not worth retrying.
-                status = exc.response.status_code if hasattr(exc, 'response') and exc.response is not None else "?"
-                if hasattr(exc, 'response') and exc.response is not None and exc.response.status_code < 500:
-                    error_msg = f"HTTP {status} error fetching {url}."
-                    if status == 403:
-                        error_msg += (
-                            "\n  The site is actively blocking this request. This could be due to:"
-                            "\n  - Anti-bot protection (e.g., Cloudflare, Imperva)"
-                            "\n  - Rate limiting (try increasing --delay)"
-                            "\n  - IP blocking (try using a VPN or proxy)"
-                            "\n  - User-Agent detection (headers may need updating)"
-                        )
-                    else:
-                        error_msg += " The site may be blocking requests or the URL has changed."
-                    raise Exception(error_msg) from exc
-                last_exc = exc
-                print(
-                    f"  [WARN] HTTP {status} on attempt {attempt}/{retries} for {url}: {exc}",
-                    flush=True,
-                )
-            else:
-                # Unknown error type
-                last_exc = exc
-                print(
-                    f"  [WARN] Error on attempt {attempt}/{retries} for {url}: {exc}",
-                    flush=True,
-                )
+        except requests.exceptions.SSLError as exc:
+            raise requests.exceptions.SSLError(
+                f"SSL certificate verification failed for {url}.\n"
+                "Try running with --no-verify-ssl to skip verification."
+            ) from exc
+        except requests.exceptions.ConnectionError as exc:
+            last_exc = exc
+            print(
+                f"  [WARN] Connection error on attempt {attempt}/{retries} for {url}: {exc}",
+                flush=True,
+            )
+        except requests.exceptions.Timeout as exc:
+            last_exc = exc
+            print(
+                f"  [WARN] Timeout on attempt {attempt}/{retries} for {url}: {exc}",
+                flush=True,
+            )
+        except requests.exceptions.HTTPError as exc:
+            # Non-transient HTTP errors (4xx) are not worth retrying.
+            status = exc.response.status_code if exc.response is not None else "?"
+            if exc.response is not None and exc.response.status_code < 500:
+                error_msg = f"HTTP {status} error fetching {url}."
+                if status == 403:
+                    error_msg += (
+                        "\n  The site is actively blocking this request. This could be due to:"
+                        "\n  - Anti-bot protection (e.g., Cloudflare, Imperva)"
+                        "\n  - Rate limiting (try increasing --delay)"
+                        "\n  - IP blocking (try using a VPN or proxy)"
+                        "\n  - User-Agent detection (headers may need updating)"
+                    )
+                else:
+                    error_msg += " The site may be blocking requests or the URL has changed."
+                raise requests.exceptions.HTTPError(error_msg) from exc
+            last_exc = exc
+            print(
+                f"  [WARN] HTTP {status} on attempt {attempt}/{retries} for {url}: {exc}",
+                flush=True,
+            )
+        except requests.exceptions.RequestException as exc:
+            # Catch any other requests-related exceptions
+            last_exc = exc
+            print(
+                f"  [WARN] Request error on attempt {attempt}/{retries} for {url}: {exc}",
+                flush=True,
+            )
         if attempt < retries:
             backoff = delay * (2 ** attempt)
             print(f"  [WARN] Retrying in {backoff:.1f}s …", flush=True)
             random_delay(backoff)  # Use random delay for retries too
-    raise Exception(
+    raise requests.exceptions.RequestException(
         f"Failed to fetch {url} after {retries} attempt(s)."
     ) from last_exc
 
@@ -618,14 +614,14 @@ def main():
         resp = session.get(BASE_URL, timeout=30)
         resp.raise_for_status()
         random_delay(args.delay)  # Use random delay after homepage visit
-    except Exception as exc:
+    except requests.exceptions.RequestException as exc:
         print(f"  [WARN] Could not initialize session: {exc}")
         print("  Continuing anyway...")
 
     print(f"Fetching system list from {BASE_URL}/search …")
     try:
         systems = scrape_systems(session, args.delay, retries=args.retries)
-    except Exception as exc:
+    except requests.exceptions.RequestException as exc:
         sys.exit(f"ERROR: Could not fetch the system list.\n  {exc}")
 
     if not systems:
@@ -653,7 +649,7 @@ def main():
 
         try:
             games = scrape_game_list(session, sys_id, args.delay, retries=args.retries)
-        except Exception as exc:
+        except requests.exceptions.RequestException as exc:
             print(f"  ERROR fetching game list: {exc}  Skipping system.")
             continue
         print(f"  {len(games)} game(s) found.")
