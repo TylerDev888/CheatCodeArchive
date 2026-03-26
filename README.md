@@ -362,6 +362,23 @@ The initial dataset will be bootstrapped from [gamehacking.org](https://gamehack
 4. Commit in batches by console to keep pull requests reviewable.
 5. Record the source URL in each `cheats.yaml` for attribution and future re-scraping.
 
+### Using the Scraper
+
+The repository includes `Scrape-GameHacking.py` to automate data collection:
+
+```bash
+# Install dependencies
+pip install cloudscraper beautifulsoup4
+
+# Scrape a specific system
+python Scrape-GameHacking.py --system "PlayStation 2" --delay 2.0
+
+# See all options
+python Scrape-GameHacking.py --help
+```
+
+The scraper uses **cloudscraper** to automatically bypass Cloudflare protection by handling JavaScript challenges and mimicking real browser behavior. This ensures reliable access even when the site uses anti-bot protections.
+
 ---
 
 ## GitHub Pages (Future)
