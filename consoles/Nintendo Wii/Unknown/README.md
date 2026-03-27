@@ -1,4 +1,4 @@
-# Nintendo Wii — Unknown
+# Nintendo Wii  -  Unknown
 
 ## Games (A-Z)
 

@@ -1,4 +1,4 @@
-# Nintendo Wii — NTSC-J
+# Nintendo Wii  -  NTSC-J
 
 ## Games (A-Z)
 
