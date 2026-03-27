@@ -11,7 +11,7 @@
 
 ### Hammer & Chisel
 **Author:** Almighty  
-**Notes:** [Weapons +20:{<div Class=\
+**Notes:** The weapon must be equipped and upgraded to at least +1. You can experiment with the upgrade value, but setting it too high (e.g., +99) may cause much lower damage.
 
 ```
 80010010 43617468
@@ -24,7 +24,7 @@
 
 ### Hallowed Sword
 **Author:** Almighty  
-**Notes:** [Weapons +20:{<div Class=\
+**Notes:** The weapon must be equipped and upgraded to at least +1. You can experiment with the upgrade value, but setting it too high (e.g., +99) may cause much lower damage.
 
 ```
 8001000E 44656661
@@ -37,7 +37,7 @@
 
 ### Smoldering Mace
 **Author:** Almighty  
-**Notes:** [Weapons +20:{<div Class=\
+**Notes:** The weapon must be equipped and upgraded to at least +1. You can experiment with the upgrade value, but setting it too high (e.g., +99) may cause much lower damage.
 
 ```
 8001000C 46697265
@@ -49,7 +49,7 @@
 
 ### Martyrs Blade
 **Author:** Almighty  
-**Notes:** [Weapons +20:{<div Class=\
+**Notes:** The weapon must be equipped and upgraded to at least +1. You can experiment with the upgrade value, but setting it too high (e.g., +99) may cause much lower damage.
 
 ```
 8001000D 43727970

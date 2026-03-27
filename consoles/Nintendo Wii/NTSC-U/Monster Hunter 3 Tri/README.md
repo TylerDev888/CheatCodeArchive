@@ -11,7 +11,7 @@
 
 ### Player 1 - Wiimote
 **Author:**   
-**Notes:** [Jokers: {<div Class=\
+**Notes:** xxxx = Button Value(s), replace each x with the hex for the buttons you want. mmmm = Mask, replace each m with the computed mask value.
 
 ```
 006593E8 0000[Joker:WII]
@@ -21,7 +21,7 @@
 
 ### Player 1 - Classic
 **Author:**   
-**Notes:** [Jokers: {<div Class=\
+**Notes:** xxxx = Button Value(s), replace each x with the hex for the buttons you want. mmmm = Mask, replace each m with the computed mask value.
 
 ```
 006593DC 0000[Joker:WII]
@@ -31,7 +31,7 @@
 
 ### Player 2 - Wiimote
 **Author:**   
-**Notes:** [Jokers: {<div Class=\
+**Notes:** xxxx = Button Value(s), replace each x with the hex for the buttons you want. mmmm = Mask, replace each m with the computed mask value.
 
 ```
 00659738 0000[Joker:WII]
@@ -41,7 +41,7 @@
 
 ### Player 2 - Classic
 **Author:**   
-**Notes:** [Jokers: {<div Class=\
+**Notes:** xxxx = Button Value(s), replace each x with the hex for the buttons you want. mmmm = Mask, replace each m with the computed mask value.
 
 ```
 0065972C 0000[Joker:WII]
