@@ -1,4 +1,4 @@
-# PlayStation 1 — NTSC-U
+# PlayStation 1  -  NTSC-U
 
 ## Games (A-Z)
 

@@ -69,7 +69,7 @@ function ConvertFrom-CheatsYaml {
                 }
             }
             2 {
-                # Start of a new cheat item — flush whatever was being built
+                # Start of a new cheat item  -  flush whatever was being built
                 if ($currentOffset  -ne $null) {
                     $currentPointer.offsets.Add($currentOffset)
                     $currentOffset = $null
@@ -108,7 +108,7 @@ function ConvertFrom-CheatsYaml {
                         $currentCheat.codes.Add($Matches[1])
                     }
                 } elseif ($context -eq 'pointers') {
-                    # Start of a new pointer item — flush the previous one
+                    # Start of a new pointer item  -  flush the previous one
                     if ($currentOffset -ne $null) {
                         $currentPointer.offsets.Add($currentOffset)
                         $currentOffset = $null
@@ -135,7 +135,7 @@ function ConvertFrom-CheatsYaml {
                 }
             }
             10 {
-                # Start of a new offset item — flush the previous one
+                # Start of a new offset item  -  flush the previous one
                 if ($currentOffset -ne $null) {
                     $currentPointer.offsets.Add($currentOffset)
                 }
@@ -248,7 +248,7 @@ function Build-GameReadme {
         $null = $sb.Append((Build-CheatSection $cheat))
     }
 
-    # Patches section — list any patch sub-folders
+    # Patches section  -  list any patch sub-folders
     $patchesDir = Join-Path $gameDir 'patches'
     if (Test-Path -LiteralPath $patchesDir) {
         $patches = @(Get-ChildItem -LiteralPath $patchesDir -Directory | Sort-Object Name)
@@ -276,7 +276,7 @@ function Build-PatchReadme {
     param($data)
     $sb = [System.Text.StringBuilder]::new()
 
-    $null = $sb.AppendLine("# $($data.game) — $($data.patch)")
+    $null = $sb.AppendLine("# $($data.game)  -  $($data.patch)")
     $null = $sb.AppendLine("")
     $null = $sb.AppendLine("**Console:** $($data.console)  ")
     $null = $sb.AppendLine("**Region:** $($data.region)  ")
@@ -306,7 +306,7 @@ function Build-RegionReadme {
     param([string]$console, [string]$region, [object[]]$games)
     $sb = [System.Text.StringBuilder]::new()
 
-    $null = $sb.AppendLine("# $console — $region")
+    $null = $sb.AppendLine("# $console  -  $region")
     $null = $sb.AppendLine("")
     $null = $sb.AppendLine("## Games (A-Z)")
     $null = $sb.AppendLine("")
@@ -355,6 +355,9 @@ function Build-ConsolesReadme {
     param([object[]]$consoles)
     $sb = [System.Text.StringBuilder]::new()
 
+    # Logo
+    $null = $sb.AppendLine('<img src="https://github.com/user-attachments/assets/8ee4c634-b164-4d50-af31-20f28f42a889" alt="CheatCode Archive Logo" width="400"/>')
+    $null = $sb.AppendLine("")
     $null = $sb.AppendLine("# Consoles")
     $null = $sb.AppendLine("")
     $null = $sb.AppendLine("Browse cheats by hardware platform. Each console folder contains one sub-folder per region.")
@@ -375,7 +378,7 @@ function Build-ConsolesReadme {
 }
 
 # ---------------------------------------------------------------------------
-# File writer — skips the write if content is identical
+# File writer  -  skips the write if content is identical
 # ---------------------------------------------------------------------------
 
 function Write-ReadmeIfChanged {

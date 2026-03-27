@@ -1,4 +1,4 @@
-# Game Boy Advance — NTSC-U
+# Game Boy Advance  -  NTSC-U
 
 ## Games (A-Z)
 
@@ -10,9 +10,9 @@
 | [Dragon Ball_ Advance Adventure](./Dragon%20Ball_%20Advance%20Adventure/) | 2 |
 | [Sega Arcade Gallery](./Sega%20Arcade%20Gallery/) | 5 |
 | [Sigma Star Saga](./Sigma%20Star%20Saga/) | 13 |
-| [That's So Raven 2_ Supernatural Style](./That%27s%20So%20Raven%202_%20Supernatural%20Style/) | 9 |
+| [That's So Raven 2_ Supernatural Style](./That's%20So%20Raven%202_%20Supernatural%20Style/) | 9 |
 | [Van Hellsing](./Van%20Hellsing/) | 9 |
-| [Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005](./Yu-Gi-Oh%21%20-%207%20Trials%20to%20Glory%20-%20World%20Championship%20Tournament%202005/) | 7 |
+| [Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005](./Yu-Gi-Oh!%20-%207%20Trials%20to%20Glory%20-%20World%20Championship%20Tournament%202005/) | 7 |
 
 ---
 

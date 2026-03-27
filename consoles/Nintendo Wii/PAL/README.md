@@ -1,4 +1,4 @@
-# Nintendo Wii — PAL
+# Nintendo Wii  -  PAL
 
 ## Games (A-Z)
 

@@ -1,4 +1,4 @@
-# Nintendo DS — NTSC-U
+# Nintendo DS  -  NTSC-U
 
 ## Games (A-Z)
 
