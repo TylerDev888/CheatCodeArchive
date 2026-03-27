@@ -1,0 +1,1392 @@
+^1 = HASH: F7 FB AC 5F 61 36 68 91 22 C9 49 34 C4 4E 6A E2 32 7B 20 12
+^2 = GameID: SLUS_209.11
+^3 = NAME: Shin Megami Tensei: Nocturne
+!Master:
++Enable Code (MUST BE ON)
+$902DE2D8 0C0B785E
++Enable Code (MUST BE ON)
+$F02CA6B4 002CA6B7
++Enable Code (MUST BE ON)
+$0E3C7DF2 1456E7A5
+$F02CA6B4 002CA6B7
+!!
+!Joker:
++Player 1
+$0058F0C2 0000[Joker:PS2]
+!!
+!Misc:
++Max Money
+$20244258 00A01021
+Money Mod
+$21248F48 [Amount:05F5E0FF:HEX:BIG]
++No Random Battles
+$0124A1F8 00000000
++Random Battles Every Step
+$1124A1F8 00000201
+!Movie Viewer:{Look In Digit Section}
++Main Intro
+$20343E10 [MOVIE]
++2 Intro (after Wating At Start Menu)
+$20343E28 [MOVIE]
++Click On The Special To Play Movie
+$20343BE8 [MOVIE]
+!!
+!After Battle Codes:
+HP/MP 999{For any character after 1 level up}
+$20242AD8 240203E7
+$20242B58 240203E7
++EXP Modifier
+$2026A86C 0004[EXP]
++Money Multiplter
+$2026A89C 0004[EXP]
+!!
+!Game Items:
++Magatama(25 In Total) All In Possession
+$0124A1FB 00000001
+$2124A1FC 05040302
+$2124A200 09080706
+$2124A204 0D0C0B0A
+$2124A208 11100F0E
+$2124A20C 15141312
+$2124A210 19181716
+$0124A27B 00000019
++All Items 99 In Inventory{Code Works After U Use The Item Once}
+$20243F58 34050063
++All Items
+$21249E28 63636300
+$41249E2C 00070001
+$63636363 00000000
+$21249E48 63630063
+$21249E4C 00636363
+$21249E50 63636363
+$21249E54 00636363
+$21249E5C 63636363
+$21249E60 00630063
+$21249E64 00006300
+!Jewels:
++Diamond
+$01249E88 00000063
++Pearl
+$01249E89 00000063
++Sapphire
+$01249E8A 00000063
++Emerald
+$01249E8B 00000063
++Ruby
+$01249E8C 00000063
++Jade
+$01249E8D 00000063
++Opal
+$01249E8E 00000063
++Amethyst
+$01249E8F 00000063
++Agate
+$01249E90 00000063
++Turquoise
+$01249E91 00000063
++Garnet
+$01249E92 00000063
++Onyx
+$01249E94 00000063
++Coral
+$01249E96 00000063
++Aquamarine
+$01249E97 00000063
++99 Jewels
+$21249E88 63636363
+$21249E8C 63636363
+$21249E90 63636363
+$01249E96 00000063
+$01249E97 00000063
+!!
+!!
+!Characters:
+!Hero:
++Total Accumulated EXP Mod
+$21248F64 [Amount:05F5E0FF:HEX:BIG]
++Status Always Good
+$11248F62 00000000
++Heros Magatama Selecter{This Will Set The Magatama To The One U Asked For (only 1 At A Time)}
+$0124A1FA 0000[Maga]
++Race Mods
+$11248F58 0000[RM]
++Current MP/HP 999
+$11248F5E 000003E7
+$11248F5A 000003E7
++Inf HP/MP 999
+$11248F5C 000003E7
+$11248F60 000003E7
++Max Lvl 99
+$01248F68 00000063
++Max At 50
+$01248F6A 00000032
++Max Ma 50
+$01248F6C 00000032
++Max Vit 50
+$01248F6D 00000032
++Max Ag 50
+$01248F6E 00000032
++Max Lu 40
+$01248F6F 00000028
++Max All Stats
+$01248F6A 00000032
+$21248F6C 28323232
+!Skill Mod Codes:{If Your Goin To Use Less Then 8 Skills Set The Activator To How Many Slots U Need Activated}
++Skill Activator
+$11248F8C 00000008
+!Skill Mod:
++Slot 1
+$11248F8E 0000[SKIL]
++Slot 2
+$11248F90 0000[SKIL]
++Slot 3
+$11248F92 0000[SKIL]
++Slot 4
+$11248F94 0000[SKIL]
++Slot 5
+$11248F96 0000[SKIL]
++Slot 6
+$11248F98 0000[SKIL]
++Slot 7
+$11248F9A 0000[SKIL]
++Slot 8
+$11248F9C 0000[SKIL]
+!!
+!!
+!!
+!Reserve Monster 1:
++Total Accumulated EXP Mod
+$21249314 [Amount:05F5E0FF:HEX:BIG]
++Status Always Good
+$11249312 00000000
++Race Mods
+$11249308 0000[RM]
++Max HP/MP
+$1124930C 000003E7
+$11249310 000003E7
++Infinite HP/MP
+$1124930A 000003E7
+$1124930E 000003E7
++Max Lvl 99
+$01249318 00000063
++Max St 40
+$0124931A 00000028
++Max Ma 40
+$0124931C 00000028
++Max Vit 40
+$0124931D 00000028
++Max Ag 40
+$0124931E 00000028
++Max Lu 40
+$0124931F 00000028
++Max All Stats
+$0124931A 00000028
+$2124931C 28282828
+!Skill Mod Codes:{If Your Goin To Use Less Then 8 Skills Set The Activator To How Many Slots U Need Activated}
++Skill Activator
+$1124933C 00000008
+!Skill Mod:
++Slot 1
+$1124933E 0000[SKIL]
++Slot 2
+$11249340 0000[SKIL]
++Slot 3
+$11249342 0000[SKIL]
++Slot 4
+$11249344 0000[SKIL]
++Slot 5
+$11249346 0000[SKIL]
++Slot 6
+$11249348 0000[SKIL]
++Slot 7
+$1124934A 0000[SKIL]
++Slot 8
+$1124934C 0000[SKIL]
+!!
+!!
+!!
+!Reserve Monster 2:
++Total Accumulated EXP Mod
+$21249400 [Amount:05F5E0FF:HEX:BIG]
++Status Always Good
+$112493FE 00000000
++Race Mods
+$112493F4 0000[RM]
++Max HP/MP
+$112493F8 000003E7
+$112493FC 000003E7
++Infinite HP/MP
+$112493F6 000003E7
+$112493FA 000003E7
++Max Lvl 99
+$01249404 00000063
++Max St 40
+$01249406 00000028
++Max Ma 40
+$01249408 00000028
++Max Vit 40
+$01249409 00000028
++Max Ag 40
+$0124940A 00000028
++Max Lu 40
+$0124940B 00000028
++Max All Stats
+$01249406 00000028
+$21249408 28282828
+!Skill Mod Codes:{If Your Goin To Use Less Then 8 Skills Set The Activator To How Many Slots U Need Activated}
++Skill Activator
+$11249428 00000008
+!Skill Mod:
++Slot 1
+$1124942A 0000[SKIL]
++Slot 2
+$1124942C 0000[SKIL]
++Slot 3
+$1124942E 0000[SKIL]
++Slot 4
+$11249430 0000[SKIL]
++Slot 5
+$11249432 0000[SKIL]
++Slot 6
+$11249434 0000[SKIL]
++Slot 7
+$11249436 0000[SKIL]
++Slot 8
+$11249438 0000[SKIL]
+!!
+!!
+!!
+!Reserve Monster 3:
++Total Accumulated EXP Mod
+$212494EC [Amount:05F5E0FF:HEX:BIG]
++Status Always Good
+$112494EA 00000000
++Race Mods
+$112494E0 0000[RM]
++Max HP/MP
+$112494E4 000003E7
+$112494E8 000003E7
++Infinite HP/MP
+$112494E2 000003E7
+$112494E6 000003E7
++Max Lvl 99
+$012494F0 00000063
++Max St 40
+$012494F2 00000028
++Max Ma 40
+$012494F4 00000028
++Max Vit 40
+$012494F5 00000028
++Max Ag 40
+$012494F6 00000028
++Max Lu 40
+$012494F7 00000028
++Max All Stats
+$012494F2 00000028
+$212494F4 28282828
+!Skill Mod Codes:{If Your Goin To Use Less Then 8 Skills Set The Activator To How Many Slots U Need Activated}
++Skill Activator
+$11249514 00000008
+!Skill Mod:
++Slot 1
+$11249516 0000[SKIL]
++Slot 2
+$11249518 0000[SKIL]
++Slot 3
+$1124951A 0000[SKIL]
++Slot 4
+$1124951C 0000[SKIL]
++Slot 5
+$1124951E 0000[SKIL]
++Slot 6
+$11249520 0000[SKIL]
++Slot 7
+$11249522 0000[SKIL]
++Slot 8
+$11249524 0000[SKIL]
+!!
+!!
+!!
+!Reserve Monster 4:
++Total Accumulated EXP Mod
+$212495D8 [Amount:05F5E0FF:HEX:BIG]
++Status Always Good
+$112495D6 00000000
++Race Mods
+$112495CC 0000[RM]
++Max HP/MP 999
+$112495D0 000003E7
+$112495D4 000003E7
++Infinite HP/MP 999
+$112495CE 000003E7
+$112495D2 000003E7
++Max Lvl 99
+$012495DC 00000063
++Max St 40
+$012495DE 00000028
++Max Ma 40
+$012495E0 00000028
++Max Vit 40
+$012495E1 00000028
++Max Ag 40
+$012495E2 00000028
++Max Lu 40
+$012495E3 00000028
++Max Stats 40
+$012495DE 00000028
+$212495E0 28282828
+!Skill Mod Codes:{If Your Goin To Use Less Then 8 Skills Set The Activator To How Many Slots U Need Activated}
++Skill Activator
+$11249600 00000008
+!Skill Mod:
++Slot 1
+$11249602 0000[SKIL]
++Slot 2
+$11249604 0000[SKIL]
++Slot 3
+$11249606 0000[SKIL]
++Slot 4
+$11249608 0000[SKIL]
++Slot 5
+$1124960A 0000[SKIL]
++Slot 6
+$1124960C 0000[SKIL]
++Slot 7
+$1124960E 0000[SKIL]
++Slot 8
+$11249610 0000[SKIL]
+!!
+!!
+!!
+!Reserve Monster 5:
++Total Accumulated EXP Mod
+$212496C4 [Amount:05F5E0FF:HEX:BIG]
++Status Always Good
+$112496C2 00000000
++Race Mods
+$112496B8 0000[RM]
++Max HP/MP 999
+$112496BC 000003E7
+$112496C0 000003E7
++Infinite HP/MP 999
+$112496BA 000003E7
+$112496BE 000003E7
++Max Lvl 99
+$012496C8 00000063
++Max St 40
+$012496CA 00000028
++Max Ma 40
+$012496CC 00000028
++Max Vit 40
+$012496CD 00000028
++Max Ag 40
+$012496CE 00000028
++Max Lu 40
+$012496CF 00000028
++Max Stats 40
+$012496CA 00000028
+$212496CC 28282828
+!Skill Mod Codes:{If Your Goin To Use Less Then 8 Skills Set The Activator To How Many Slots U Need Activated}
++Skill Activator
+$112496EC 00000008
+!Skill Mod:
++Slot 1
+$112496EE 0000[SKIL]
++Slot 2
+$112496F0 0000[SKIL]
++Slot 3
+$112496F2 0000[SKIL]
++Slot 4
+$112496F4 0000[SKIL]
++Slot 5
+$112496F6 0000[SKIL]
++Slot 6
+$112496F8 0000[SKIL]
++Slot 7
+$112496FA 0000[SKIL]
++Slot 8
+$112496FC 0000[SKIL]
+!!
+!!
+!!
+!Reserve Monster 6:
++Total Accumulated EXP Mod
+$212497B0 [Amount:05F5E0FF:HEX:BIG]
++Status Always Good
+$112497AE 00000000
++Race Mods
+$112497A4 0000[RM]
++Max HP/MP 999
+$112497A8 000003E7
+$112497AC 000003E7
++Infinite HP/MP 999
+$112497A6 000003E7
+$112497AA 000003E7
++Max Lvl 99
+$012497B4 00000063
++Max St 40
+$012497B6 00000028
++Max Ma 40
+$012497B8 00000028
++Max Vit 40
+$012497B9 00000028
++Max Ag 40
+$012497BA 00000028
++Max Lu 40
+$012497BB 00000028
++Max Stats 40
+$012497B6 00000028
+$212497B8 28282828
+!Skill Mod Codes:{If Your Goin To Use Less Then 8 Skills Set The Activator To How Many Slots U Need Activated}
++Skill Activator
+$112497D8 00000008
+!Skill Mod:
++Slot 1
+$112497DA 0000[SKIL]
++Slot 2
+$112497DC 0000[SKIL]
++Slot 3
+$112497DE 0000[SKIL]
++Slot 4
+$112497E0 0000[SKIL]
++Slot 5
+$112497E2 0000[SKIL]
++Slot 6
+$112497E4 0000[SKIL]
++Slot 7
+$112497E6 0000[SKIL]
++Slot 8
+$112497E8 0000[SKIL]
+!!
+!!
+!!
+!Reserve Monster 7:
++Total Accumulated EXP Mod
+$2124989C [Amount:05F5E0FF:HEX:BIG]
++Status Always Good
+$1124989A 00000000
++Race Mods
+$11249890 0000[RM]
++Max HP/MP 999
+$11249894 000003E7
+$11249898 000003E7
++Infinite HP/MP 999
+$11249892 000003E7
+$11249896 000003E7
++Max Lvl 99
+$012498A0 00000063
++Max St 40
+$012498A2 00000028
++Max Ma 40
+$012498A4 00000028
++Max Vit 40
+$012498A5 00000028
++Max Ag 40
+$012498A6 00000028
++Max Lu 40
+$012498A7 00000028
++Max Stats 40
+$012498A2 00000028
+$212498A5 28282828
+!Skill Mod Codes:{If Your Goin To Use Less Then 8 Skills Set The Activator To How Many Slots U Need Activated}
++Skill Activator
+$112498C4 00000008
+!Skill Mod:
++Slot 1
+$112498C6 0000[SKIL]
++Slot 2
+$112498C8 0000[SKIL]
++Slot 3
+$112498CA 0000[SKIL]
++Slot 4
+$112498CC 0000[SKIL]
++Slot 5
+$112498CE 0000[SKIL]
++Slot 6
+$112498D0 0000[SKIL]
++Slot 7
+$112498D2 0000[SKIL]
++Slot 8
+$112498D4 0000[SKIL]
++Slot
+!!
+!!
+!!
+!Reserve Monster 8:
++Total Accumulated EXP Mod
+$21249988 [Amount:05F5E0FF:HEX:BIG]
++Status Always Good
+$11249986 00000000
++Race Mods
+$1124997C 0000[RM]
++Max HP/MP 999
+$11249980 000003E7
+$11249984 000003E7
++Infinite HP/MP 999
+$1124997E 000003E7
+$11249982 000003E7
++Max Lvl 99
+$0124998C 00000063
++Max St 40
+$0124998E 00000028
++Max Ma 40
+$01249990 00000028
++Max Vit 40
+$01249991 00000028
++Max Ag 40
+$01249992 00000028
++Max Lu 40
+$01249933 00000028
++Max Stats 40
+$0124998E 00000028
+$21249990 28282828
+!Skill Mod Codes:{If Your Goin To Use Less Then 8 Skills Set The Activator To How Many Slots U Need Activated}
++Skill Activator
+$112499B0 00000008
+!Skill Mod:
++Slot 1
+$112499B2 0000[SKIL]
++Slot 2
+$112499B4 0000[SKIL]
++Slot 3
+$112499B6 0000[SKIL]
++Slot 4
+$112499B8 0000[SKIL]
++Slot 5
+$112499BA 0000[SKIL]
++Slot 6
+$112499BC 0000[SKIL]
++Slot 7
+$112499BE 0000[SKIL]
++Slot 8
+$112499C0 0000[SKIL]
+!!
+!!
+!!
+!Reserve Monster 9:
++Total Accumulated EXP Mod
+$21249A74 [Amount:05F5E0FF:HEX:BIG]
++Status Always Good
+$11249A72 00000000
++Race Mods
+$11249A68 0000[RM]
++Max HP/MP 999
+$11249A6C 000003E7
+$11249A70 000003E7
++Inf HP/MP 999
+$11249A6A 000003E7
+$11249A6E 000003E7
++Max Lvl 99
+$01249A78 00000063
++Max St 40
+$01249A7A 00000028
++Max Ma 40
+$01249A7C 00000028
++Max Vit 40
+$01249A7D 00000028
++Max Ag 40
+$01249A7E 00000028
++Max Lu 40
+$01249A7F 00000028
++Max Stats 40
+$01249A7A 00000028
+$21249A7C 28282828
+!Skill Mod Codes:{If Your Goin To Use Less Then 8 Skills Set The Activator To How Many Slots U Need Activated}
++Skill Activator
+$11249A9C 00000008
+!Skill Mod:
++Slot 1
+$11249A9E 0000[SKIL]
++Slot 2
+$11249AA0 0000[SKIL]
++Slot 3
+$11249AA2 0000[SKIL]
++Slot 4
+$11249AA4 0000[SKIL]
++Slot 5
+$11249AA6 0000[SKIL]
++Slot 6
+$11249AA8 0000[SKIL]
++Slot 7
+$11249AAA 0000[SKIL]
++Slot 8
+$11249AAC 0000[SKIL]
+!!
+!!
+!!
+!Reserve Monster 10:
++Total Accumulated EXP Mod
+$21249B60 [Amount:05F5E0FF:HEX:BIG]
++Status Always Good
+$11249B5E 00000000
++Race Mods
+$11249B54 0000[RM]
++Max HP/MP 999
+$11249B58 000003E7
+$11249B5C 000003E7
++Inf HP/MP 999
+$11249B56 000003E7
+$11249B5A 000003E7
++Max Lvl 99
+$01249B64 00000063
++Max St 40
+$01249B66 00000028
++Max Ma 40
+$01249B68 00000028
++Max Vit 40
+$01249B69 00000028
++Max Ag 40
+$01249B6A 00000028
++Max Lu 40
+$01249B6B 00000028
++Max Stats 40
+$01249B66 00000028
+$21249B68 28282828
+!Skill Mod Codes:{If Your Goin To Use Less Then 8 Skills Set The Activator To How Many Slots U Need Activated}
++Skill Activator
+$11249B88 00000008
+!Skill Mod:
++Slot 1
+$11249B8A 0000[SKIL]
++Slot 2
+$11249B8C 0000[SKIL]
++Slot 3
+$11249B8E 0000[SKIL]
++Slot 4
+$11249B90 0000[SKIL]
++Slot 5
+$11249B92 0000[SKIL]
++Slot 6
+$11249B94 0000[SKIL]
++Slot 7
+$11249B96 0000[SKIL]
++Slot 8
+$11249B98 0000[SKIL]
+!!
+!!
+!!
+!!reserve Monster 11:
++Total Accumulated EXP Mod
+$21249C4C [Amount:05F5E0FF:HEX:BIG]
++Status Always Good
+$11249C4A 00000000
++Race Mods
+$11249C40 0000[RM]
++Max HP/MP 999
+$11249C44 000003E7
+$11249C48 000003E7
++Inf HP/MP 999
+$11249C42 000003E7
+$11249C46 000003E7
++Max Lvl 99
+$01249C50 00000063
++Max St 40
+$01249C52 00000028
++Max Ma 40
+$01249C54 00000028
++Max Vit 40
+$01249C55 00000028
++Max Ag 40
+$01249C56 00000028
++Max Lu 40
+$01249C57 00000028
++Max Stats 40
+$01249C52 00000028
+$21249C54 28282828
+!Skill Mod Codes:{If Your Goin To Use Less Then 8 Skills Set The Activator To How Many Slots U Need Activated}
++Skill Activator
+$11249C74 00000008
+!Skill Mod:
++Slot 1
+$11249C76 0000[SKIL]
++Slot 2
+$11249C78 0000[SKIL]
++Slot 3
+$11249C7A 0000[SKIL]
++Slot 4
+$11249C7C 0000[SKIL]
++Slot 5
+$11249C7E 0000[SKIL]
++Slot 6
+$11249C80 0000[SKIL]
++Slot 7
+$11249C82 0000[SKIL]
++Slot 8
+$11249C84 0000[SKIL]
+!!
+!!
+!Reserve Monster 12:
++Total Accumulated EXP Mod
+$21249D38 [Amount:05F5E0FF:HEX:BIG]
++Status Always Good
+$11249D36 00000000
++Race Mods
+$11249D2C 0000[RM]
++Max HP/MP 999
+$10249D30 000003E7
+$10249D34 000003E7
++Inf HP/MP 999
+$10249D2E 000003E7
+$10249D32 000003E7
++Max Lvl 99
+$01249D3C 00000063
++Max St 40
+$01249D3E 00000028
++Max Ma 40
+$01249D40 00000028
++Max Vit 40
+$01249D41 00000028
++Max Ag 40
+$01249D42 00000028
++Max Lu 40
+$01249D43 00000028
++Max Stats 40
+$01249D3E 00000028
+$21249D40 28282828
+!Skill Mod Codes:{If Your Goin To Use Less Then 8 Skills Set The Activator To How Many Slots U Need Activated}
++Skill Activator
+$11249D60 00000008
+!Skill Mod:
++Slot 1
+$11249D62 0000[SKIL]
++Slot 2
+$11249D64 0000[SKIL]
++Slot 3
+$11249D66 0000[SKIL]
++Slot 4
+$11249D68 0000[SKIL]
++Slot 5
+$11249D6A 0000[SKIL]
++Slot 6
+$11249D6C 0000[SKIL]
++Slot 7
+$11249D6E 0000[SKIL]
++Slot 8
+$11249D70 0000[SKIL]
+!!
+!!
+!!
+!!
+^6 = MODS:
+[Maga]
+Value>NAME
+0001	Marogareh
+0002	Wadatsumi
+0003	Ankh
+0004	Lyomante
+0005	Shitanui
+0006	Hifumi
+0007	Kamudo
+0008	Narukami
+0009	Anathema
+000A	Miasma
+000B	Nirvana
+000C	Mutakumo
+000D	Geis
+000E	Djed
+000F	Muspell
+0010	Gehenna
+0011	Kamurogi
+0012	Satan
+0013	Adama
+0014	Vimana
+0015	Gundari
+0016	Sophia
+0017	Gaea
+0018	Kailash
+0019	Masakados
+[/Maga]
+[RM]
+VALUE>NAME
+0000	Hero
+0001	Vishnu
+0002	Mithra
+0003	Amaterasu
+0004	Odin
+0005	Atavaka
+0006	Horus
+0007	Rakshasa
+0008	Scathach
+0009	Sarasvati
+000A	Sati
+000B	Uzume
+000C	Siva
+000D	Beiji-Weng
+000E	Wu-Kong
+000F	Dionysus
+0010	Kali
+0011	Skadi
+0012	Parvati
+0013	Kushinada
+0014	Kikuri-Hime
+0015	Bishamon
+0016	Thor
+0017	Jikoku
+0018	Mikazuchi
+0019	Okuninushi
+001A	Koumoka
+001B	Ganesha
+001C	Minakata
+001D	Chimera
+001E	Baihu
+001F	Senri
+0020	Feng Huang
+0021	Shiisaa
+0022	KAICHI
+0023	Unicorn
+0024	Flaemis
+0025	Aquans
+0026	Aeros
+0027	Erthys
+0028	Saki Mitama
+0029	Kusi Mitama
+002A	Nigi Mitama
+002B	Ara Mitama
+002C	Efreet
+002D	Purski
+002E	Onkot
+002F	Gin
+0030	Karasu
+0031	Dis
+0032	Isora
+0033	Apsaras
+0034	Koppa
+0035	Titania
+0036	Oberon
+0037	Troll
+0038	Setanta
+0039	Kelpie
+003A	Pyro Jack 
+003B	High pixie
+003C	Jack Frost
+003D	Pixie
+003E	Throne
+003F	Dominion
+0040	Virtue
+0041	Power
+0042	Principality
+0043	Archangel
+0044	Angel
+0045	Flauros
+0046	Decarabia
+0047	Ose
+0048	Berith
+0049	Eligor
+004A	Forneus
+004B	Yurlungur
+004C	Quetzalcoatl
+004D	Raja Naga
+004E	Mizuchi
+004F	Naga
+0050	Nozuchi
+0051	Cerberus
+0052	Orthrus
+0053	Spama
+0054	Badb Catha
+0055	Inugami
+0056	Nekomata
+0057	Gogmagog
+0058	Titan
+0059	Sarutahiko
+005A	Sudama
+005B	Koumoku
+005C	Kodama
+005D	Skiki Ouji
+005E	Oni
+005F	Ikusa
+0060	Momnofu
+0061	Shikigami
+0062	Rangda
+0063	Dakini
+0064	Yaksini
+0065	Shikome
+0066	Taraka
+0067	Datsue-ba
+0068	Mada
+0069	Girimehkala
+006A	Tao Tie
+006B	Pazuzu
+006C	Baphomet
+006D	Mot
+006E	Aciel
+006F	Surt
+0070	Abaddon
+0071	Loki
+0072	Lilith
+0073	Nyx
+0074	Queen Mab
+0075	Succubus
+0076	Incubus
+0077	Fomor
+0078	Lilim
+0079	Hresvelgr
+007A	MothMan
+007B	Raiju
+007C	Nue
+007D	Bicorn
+007E	Zhen
+007F	Rakshasa
+0080	Leagion
+0081	Yaka
+0082	Choronzon
+0083	Preta
+0084	Shadow
+0085	Black Ooze
+0086	Blob
+0087	Slim
+0088	Mou-Ryo
+0089	Will o' Wisp
+008A	Michael
+008B	Gabriel
+008C	Raphael
+008D	Uriel
+008E	Ganesha
+008F	Valkyrie
+0090	Arahabaki
+0091	Kutama
+0092	Hanuman
+0093	Cu Chulainn
+0094	Long
+0095	Gui Xian
+0096	Barong
+0097	Makami
+0098	Garuda
+0099	Yatagarasu
+009A	Gurr
+009B	Albion
+00A1	Samael
+00A7	Pisaca
+00A8	Kaiwan
+00A9	Kin ki
+00AA	Sui-ki
+00AB	Fuu-ki
+00AC	Ongyo-Ki
+00AD	Clotho
+00AE	Lachesis
+00AF	Atropos
+00B0	Loa
+00B1	Chatterskull
+00B2	Phantom
+00C0	Dante
+00C1	Metatron
+00C2	Beelzebub (fly)
+00C3	Pale rider
+00C4	White rider
+00C5	Red rider
+00C6	Black rider
+00C7	Matador
+00C8	Hell Biker
+00C9	Daisoujou
+00CA	The Harlot
+00CB	Trumpeter
+00CC	Futamimi
+00CD	Sakahagi
+00CE	Black Frost
+00CF	Beelzebub (human)
+0102	Ahrima
+0108	Kagutsuchi
+0117	Urthona
+0118	Urizen
+0119	Luvah
+011A	Tharmus
+011B	Futomimi
+0120	Baal Avatar
+0121	Ose Hallel
+0122	Flauros Hellis
+0123	Ahriman
+0124	Noah
+0125	Kagutsuchi
+0126	Specter 1
+0127	Specter 2
+0128	Specter 3
+0139	("Succubus")Normal(You already have this character MOD as well)
+013C	("Nekomata")Normal(You already have this character MOD as well)
+013F	("Preta")(Does not show up on Status menu screen
+0141	Mara
+0145	("Zouchou")Normal(You already have this character MOD as well)
+0149	("Mithra") Normal(You already have this character MOD as well)
+014A	("Masakado")(Crashes)
+014B	("Station Hand")(Shows up, but freezes the game when you enter into battle)
+014C	LokiNormal(You already have this character MOD as well)
+014D	Mada
+014E	Mot
+014F	Surt(Crashes)
+0151	Thor{ Looks like Black Frost)
+0158	("Lucifer"(Crashes)
+0164	Seven Eye(Sprite shows up)
+0166	loa
+0167	("Virtue")
+0168	("Power")
+0169	("Legion")
+0182	Race
+0183	Deity
+0184	Megami
+0185	Fury Race
+0186	Lady Race
+0187	Kishin(Crashes)
+0188	Holy
+0189	Element
+018A	Yoma
+018B	Fairy
+018C	Divine
+018D	Fallen
+018E	Snake
+018F	Beast
+0190	Jinrae
+0191	Brute
+0192	Femme
+0193	Femme
+0194	Vile
+0195	Tyrant
+0196	Night
+0197	Wilder
+0198	Haunt
+0199	Foul
+019A	Seraph
+019B	Wargod
+019C	Genma
+019D	Dragon
+[/RM]
+[SKIL]
+VALUE>NAME>INFO
+0019	Megido	Almighty Skills
+001A	Megidola	Almighty Skills
+001B	Megidolaon	Almighty Skills
+00BE	Deathtouch	Almighty Skills
+00BF	Mana Drain	Almighty Skills
+00C0	Life Drain	Almighty Skills
+0104	Death Flies	Almighty Skills
+00EB	Fire of Sinai	Almighty Skills
+010A	Stinger	Almighty Skills
+010D	Showtime	Almighty Skills
+011E	Beast Roar	Almighty Skills
+004F	Pestilence	Almighty Skills
+0117	Meditation	Almighty Skills
+0093	Freikugel	Almighty Skills
+00D0	Sol Niger	Almighty Skills
+00F2	God's Curse	Almighty Skills
+00F3	Hells Call	Almighty Skills
+00F1	Vast Light	Almighty Skills
+00DD	Infinite Light	Almighty Skills
+0111	High King	Almighty Skills
+0110	Root of Evil	Almighty Skills
+0183	Seduce	Conversation Skills - Recruit
+0181	Scout	Conversation Skills - Recruit
+0188	Beseech	Conversation Skills - Recruit
+0187	Wooing	Conversation Skills - Recruit
+0184	Brainwash	Conversation Skills - Recruit
+0186	Dark Pledge	Conversation Skills - Recruit
+0182	Kidnap	Conversation Skills - Recruit
+0189	Soul Recruit	Conversation Skills - Recruit
+018A	Mischief	Conversation Skills - Recruit
+018B	Death Pact	Conversation Skills - Recruit
+01A5	Jive talk	Conversation Skills - Recruit
+018D	Begging	Conversation Skills ? Request Items & Money
+018C	Pester	Conversation Skills ? Request Items & Money
+0190	Trade	Conversation Skills ? Request Items & Money
+018E	Threaten	Conversation Skills ? Request Items & Money
+0191	Loan	Conversation Skills ? Request Items & Money
+018F	Stone hunt	Conversation Skills ? Request Items & Money
+0199	Haggle	Conversation Skills ? Support
+01A4	Flatter	Conversation Skills ? Support
+019D	Persuade	Conversation Skills ? Support
+019A	Arbitration	Conversation Skills ? Support
+019C	Gonnection	Conversation Skills ? Support
+019B	Detain	Conversation Skills ? Support
+0163	Charisma	Conversation Skills ? Support
+019E	Intimidate	Conversation Skills ? Support
+019F	Nag	Conversation Skills ? Support
+01A2	Maiden Plea	Conversation Skills ? Support
+01A3	Wine Party	Conversation Skills ? Support
+0037	Makakajam	Curse Skills
+0038	Makajamon	Curse Skills
+00C6	Mute Gaze	Curse Skills
+00CF	Dismal Tune	Curse Skills
+00CA	Toxic Cloud	Curse Skills
+0105	Soul Divide	Curse Skills
+0140	Anti Curse	Curse Skills
+014A	Void Curse	Curse Skills
+00C9	Bael's Bane	Curse Skills
+0020	Mudo	Death Skills
+0021	Mudoon	Death Skills
+0022	Mamudo	Death Skills
+0023	Mamudoon	Death Skills
+00C5	Stone Gaze	Death Skills
+00C7	Evil Gaze	Death Skills
+00C4	Hell Gaze	Death Skills
+013F	Anti Death	Death Skills
+0149	Void Death	Death Skills
+000D	Zio	Elec Skills
+000E	Zionga	Elec Skills
+000F	Ziodyn	Elec Skills
+0010	MaZio	Elec Skills
+0011	MaZionga	Elec Skills
+0012	MaZiodyne	Elec Skills
+00B6	Shock	Elec Skills
+00B7	Bolt Storm	Elec Skills
+010B	Round trip	Elec Skills
+0137	Elec Boost	Elec Skills
+013C	Anti Elec	Elec Skills
+0146	Void Elec	Elec Skills
+0150	Elec Drain	Elec Skills
+0155	Elec Repel	Elec Skills
+001C	Hama	Expel Skills
+001D	Hamaon	Expel Skills
+001E	Mahama	Expel Skills
+001F	Mahamaon	Expel Skills
+00C1	Violet Flash	Expel Skills
+00BC	Thunder clap	Expel Skills
+00C3	Radiance	Expel Skills
+00BD	Holy Wrath	Expel Skills
+00C2	Starlight	Expel Skills
+007F	Godly Light	Expel Skills
+011F	God’s Bow	Expel Skills
+013E	Anti Expel	Expel Skills
+0148	Void Expel	Expel Skills
+0073	Sacrifice	Explode Skills
+0098	Last Resort	Explode Skills
+0074	Kamikaze	Explode Skills
+0001	Agi	Fire Skills
+0002	Agilao	Fire Skills
+0003	Agidyne	Fire Skills
+0004	Maragi	Fire Skills
+0005	Maragion	Fire Skills
+0006	Maragidyne	Fire Skills
+00B0	Fire breath	Fire Skills
+00B1	Hellfire	Fire Skills
+00B2	Prominence	Fire Skills
+00B3	Ragnarok	Fire Skills
+011B	Hell Burner	Fire Skills
+00A1	Magma axis	Fire Skills
+0135	Fire Boost	Fire Skills
+013A	Anti Fire	Fire Skills
+0144	Void Fire	Fire Skills
+014E	Fire Drain	Fire Skills
+0153	Fire Repel	Fire Skills
+0013	Zan	Force Skills
+0014	Zanma	Force Skills
+0015	Zandyne	Force Skills
+0016	Mazan	Force Skills
+0017	Mazanma	Force Skills
+0018	Mazandyne	Force Skills
+00B8	Wing Buffet 	Force Skills
+00B9	Tornado	Force Skills
+00BA	Wind Cutter	Force Skills
+00BB	Wet Wind	Force Skills
+010C	WhirlWind	Force Skills
+011A	Hell Exhaust	Force Skills
+0138	Force Boost	Force Skills
+013D	Anti Force	Force Skills
+0147	Void Force	Force Skills
+0151	Force Drain	Force Skills
+0156	Force Repel	Force Skills
+0024	Dia	Healing Skills
+0025	Diarama	Healing Skills
+0026	Diarahan	Healing Skills
+0027	Media	Healing Skills
+0028	Mediarama	Healing Skills
+0029	Mediarahan	Healing Skills
+00DA	Prayer	Healing Skills
+0031	Recarm	Healing Skills
+0032	Samrecarm	Healing Skills
+002B	Patra	Healing Skills
+002C	Mepatra	Healing Skills
+002D	Mutudi 	Healing Skills
+002E	Posumudi	Healing Skills
+002F	Paraladi	Healing Skills
+0030	Petradi	Healing Skills
+0033	Recarmdra	Healing Skills
+015A	Life Aid	Healing Skills
+015D	Life Refill	Healing Skills
+015B	Mana Aid	Healing Skills
+015E	Mana Refill	Healing Skills
+015C	Victory Cry	Healing Skills
+0007	Bufu	Ice Skills
+0008	Bufula	Ice Skills
+0009	Bufudyne	Ice Skills
+000A	Mabufu	Ice Skills
+000B	Mabufula	Ice Skills
+000C	Mabufudyne	Ice Skills
+00B4	Ice breath	Ice Skills
+00B5	Glacial Blast	Ice Skills
+00F4	Icy Death	Ice Skills
+0136	Ice Boost	Ice Skills
+013B	Anti Ice	Ice Skills
+0145	Void Ice	Ice Skills
+014F	Ice Drain	Ice Skills
+0154	Ice Repel	Ice Skills
+00D2	Lullaby	Mind Skills
+003C	Dormina	Mind Skills
+00D4	Eternal Rest	Mind Skills
+003D	Pulinpa	Mind Skills
+00D5	Sonic Wave	Mind Skills
+00D8	Panic voice	Mind Skills
+003F	Tentarafoo	Mind Skills
+00D6	Sexy Gaze	Mind Skills
+003E	Marin Karin	Mind Skills
+00D7	Allure	Mind Skills
+00D9	Intoxicate	Mind Skills
+011D	Death Lust	Mind Skills
+0116	Preach 	Mind Skills
+00F9	Wild Dance	Mind Skills
+0142	Anti mind	Mind Skills
+014C	Void Mind	Mind Skills
+010F	Evil Gleam	Mind Skills
+003B	Shibaboo	Nerve Skills
+00D3	Binding Cry	Nerve Skills
+00D1	Stun Gaze	Nerve Skills
+0141	Anti nerve	Nerve Skills
+014B	Void Nerve	Nerve Skills
+0075	Feral Bite	Physical Skills
+0076	Venom Bite	Physical Skills
+0077	Charm Bite	Physical Skills
+0079	Stun Bite	Physical Skills
+0078	Stone bite	Physical Skills
+007A	Hell fang	Physical Skills
+007B	Feral Claw	Physical Skills
+007C	Venom Claw	Physical Skills
+007D	Stun Claw	Physical Skills
+007E	Iron Claw	Physical Skills
+006F	Needle Rush	Physical Skills
+0071	Toxic Sting	Physical Skills
+0070	Stun Needle	Physical Skills
+0072	Arid Needle	Physical Skills
+0060	Lunge	Physical Skills
+0061	Hell thrust	Physical Skills
+0063	Tempest	Physical Skills
+0064	Hades Blast	Physical Skills
+0062	Berserk	Physical Skills
+006B	Mighty Gust	Physical Skills
+0067	Brutal Slash	Physical Skills
+006D	Guillotine	Physical Skills
+0069	Dark sword	Physical Skills
+006A	Stasis Blade	Physical Skills
+0065	Heat Wave	Physical Skills
+0066	Blight 	Physical Skills
+0068	Hassohappa	Physical Skills
+006E	Chaos Blade	Physical Skills
+006C	Death bound	Physical Skills
+009B	Earthquake	Physical Skills
+0106	E&I	Physical Skills
+0107	Rebellion	Physical Skills
+0108	Bullet-Time	Physical Skills
+0118	Terror Blade	Physical Skills
+0119	Hell Spin	Physical Skills
+0113	Andalucia	Physical Skills
+0088	Divine Shot	Physical Skills
+00A0	Spiral Viper	Physical Skills
+0090	Oni-Kagura	Physical Skills
+0083	Deadly Fury	Physical Skills
+008F	Javelin Rain	Physical Skills
+0085	Xeros-Beat	Physical Skills
+00A3	Gaea Rage	Physical Skills
+0139	Anti phys	Physical Skills
+0143	Void Phys	Physical Skills
+014D	Phys Drain	Physical Skills
+0152	Phys Repel	Physical Skills
+0099	Foul Havoc	Physical Skills
+00F5	Mirage	Physical Skills
+00A8	Tentacle	Physical Skills
+0047	Analyze	Special Skills
+00E0	Focus	Special Skills
+0048	Trafuri	Special Skills
+00DF	Beckon Call	Special Skills
+004A	Riberama	Special Skills
+004C	Lightoma	Special Skills
+004B	Liftoma	Special Skills
+0049	Estoma	Special Skills
+009E	Holy Melody	Special Skills
+009F	Evil Melody	Special Skills
+012C	Bright Might	Special Skills
+012D	Dark Might	Special Skills
+012B	Might	Special Skills
+0131	Counter	Special Skills
+0132	Retaliate	Special Skills
+0133	Avenge	Special Skills
+0159	Endure	Special Skills
+012E	Drain Attack	Special Skills
+0130	Attack All	Special Skills
+0165	Pierce	Special Skills
+0122	Life Bonus	Special Skills
+0125	Mana Bonus	Special Skills
+0123	Life Gain	Special Skills
+0126	Mana Gain	Special Skills
+0124	Life Surge	Special Skills
+0127	Mana Surge	Special Skills
+0161	Lucky Find	Special Skills
+0162	Watchful	Special Skills
+012A	Mind's Eye	Special Skills
+0128	Fast Retreat	Special Skills
+0168	Never Yield	Special Skills
+0169	Son's Oath	Special Skills
+00E1	Retreat	Special Skills
+00E2	Gathering	Special Skills
+00E5	Laughter	Special Skills
+00E3	Dark Howl	Special Skills
+00E8	Foul Union	Special Skills
+00E9	Replicate	Special Skills
+00EC	Conjutation	Special Skills
+00EA	Aurora	Special Skills
+0100	Domination	Special Skills
+00E6	Divine Will	Special Skills
+0035	Sukunda	Support Skills
+0034	Tarunda	Support Skills
+0036	Rakunda	Support Skills
+0039	Dekaja	Support Skills
+00CC	Fog breath	Support Skills
+00CB	War cry	Support Skills
+00CD	Taunt	Support Skills
+00CE	Debilitate	Support Skills
+004D	Dekunda	Support Skills
+0041	Sukukaja	Support Skills
+0040	Tarukaja	Support Skills
+0043	Makakaja	Support Skills
+0042	Rakukaja	Support Skills
+0044	Tetraja	Support Skills
+0046	Tetrakarn	Support Skills
+0045	Makarakarn	Support Skills
+002A	Makatora	Support Skills
+0109	Provoke	Support Skills
+0112	Holy Star	Support Skills
+0114	Red Capote	Support Skills
+00DC	Dragon Eye	Support Skills
+00DB	Beast Eye	Support Skills
+0115	Startle	Support Skills
+011C	Hell Throttle	Support Skills
+[/SKIL]
+[MOVIE]
+0053F3B0	Digital Devil Trailer
+0053F130	qMain Intro
+0053F110	2 Intro
+0053F248	Loading Screen
+0053F1C0	Start menu Title
+0053F150	Entering The Void
+0053F378	Entering The Void2?
+0053F190	Danta Stabs Hero (No sound)
+0053F260	Connection of the pillers
+0053F278	Take over
+0053F2B0	Assending
+0053F170	peephole
+0053F1E0	Town Riseing
+0053F1F8	Girl Town Rizeing 2
+0053F210	Wall Town Rizeing 3
+0053F390	Snake Lady Entrying room(No sound)
+0053F308	Ellifint boss battle
+0053F2C8	Final Battle ???
+0053F2E8	Game Over
+0053F320	????
+0053F340	????
+0053F360	????
+[/MOVIE]
+[EXP]
+1040	x2
+1080	x4
+10C0	x8
+1100	x16
+1140	x32
+1180	x64
+11C0	x128
+1200	x256
+1240	x512
+1280	x1024
+[/EXP]

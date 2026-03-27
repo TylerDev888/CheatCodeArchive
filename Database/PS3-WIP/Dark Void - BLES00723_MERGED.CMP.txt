@@ -1,0 +1,32 @@
+^2 = GameID: BLES00723
+^3 = NAME: Dark Void
+^5 = APCRED: From zeick
+^4 = FILE: PROFILE.DVP
++Decompress Profile.dvp (required)
+$Decompress(0x00000020, 15)
+^4 = FILE: ~extracted\00000020.dat
++999999 Points
+$write at 0x0000004C:0x000F423F
+^4 = FILE: BLES00723_PROFILE\PROFILE.DVP
++Fix Compression
+$delete at 0x30:0x4FF
++Compress Profile.dvp (required)
+$Compress(0x00000020)
+^4 = FILE: BLES00723_PROFILE\PROFILE.DVP
++Update Sha1 For Profile.dvp (required)
+$set pointer:eof+1
+$set range:0x00001C,pointer
+$set [hash]:SHA1
+$write at 0x000008:[hash]
++Update Crc32big For Profile.dvp (required)
+$set pointer:eof+1
+$set range:0x000008,pointer
+$set [hash]:CRC32Big
+$write at 0x000004:[hash]
+^4 = FILE: BLES00723_SAVE_AUTOSAVE\CHKPT.SAV
++Update Crc32big For Chkpt.sav (required)
+(set range:0x000008,0x009743)
+$set pointer:eof+1
+$set range:0x000008,pointer
+$set [hash]:CRC32Big
+$write at 0x000004:[hash]

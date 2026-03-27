@@ -1,0 +1,2099 @@
+^3 = NAME: Air Force - Delta Strike (NTSC-U)
+^2 = GameID: SLUS-20703
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F0145714 00145717
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00145717
++[M] Must Be On
+%Credits: MadCatz
+$90145714 0C04A048
+!!
+!Aircraft/Weapons:
++6
+%Credits: Codejunkies
+$104D1B08 00000101
++7
+%Credits: Codejunkies
+$104D1B98 00000101
++7MG
+%Credits: Codejunkies
+$104D1C34 00000101
++8
+%Credits: Codejunkies
+$104D1C58 00000101
++8 IIM
+%Credits: Codejunkies
+$104D17D8 00000101
++11
+%Credits: Codejunkies
+$104D1850 00000101
++12
+%Credits: Codejunkies
+$104D1820 00000101
++A-4M
+%Credits: Codejunkies
+$104D1E44 00000101
++A-5A
+%Credits: Codejunkies
+$104D1C4C 00000101
++A-6E
+%Credits: Codejunkies
+$104D1E5C 00000101
++A-7E
+%Credits: Codejunkies
+$104D1E38 00000101
++A-10A
+%Credits: Codejunkies
+$104D1D48 00000101
++AV-88
+%Credits: Codejunkies
+$104D1C64 00000101
++Buccaneer
+%Credits: Codejunkies
+$104D1E50 00000101
++F4D-1
+%Credits: Codejunkies
+$104D1E74 00000101
++F5d-1
+%Credits: Codejunkies
+$104D17CC 00000101
++F-1
+%Credits: Codejunkies
+$104D1E80 00000101
++F-2A
+%Credits: Codejunkies
+$104D1700 00000101
++F-4E
+%Credits: Codejunkies
+$104D18EC 00000101
++F-5A
+%Credits: Codejunkies
+$104D1C40 00000101
++F-5E
+%Credits: Codejunkies
+$104D16AC 00000101
++F-14D
+%Credits: Codejunkies
+$104D17FC 00000101
++F-15C
+%Credits: Codejunkies
+$104D1934 00000101
++F-15E
+%Credits: Codejunkies
+$104D182C 00000101
++F-15U Plus
+%Credits: Codejunkies
+$104D1D84 00000101
++F-16C
+%Credits: Codejunkies
+$104D1928 00000101
++F-16XL
+%Credits: Codejunkies
+$104D1D6C 00000101
++F-20
+%Credits: Codejunkies
+$104D17E4 00000101
++F-86L
+%Credits: Codejunkies
+$104D1A18 00000101
++F-100D
+%Credits: Codejunkies
+$104D1964 00000101
++F-101B
+%Credits: Codejunkies
+$104D1D9C 00000101
++F-102A
+%Credits: Codejunkies
+$104D185C 00000101
++F-104G
+%Credits: Codejunkies
+$104D1B20 00000101
++F-105D
+%Credits: Codejunkies
+$104D1D24 00000101
++F-106A
+%Credits: Codejunkies
+$104D18E0 00000101
++F-108
+%Credits: Codejunkies
+$104D1B2C 00000101
++F-111F
+%Credits: Codejunkies
+$104D1B50 00000101
++F-117A
+%Credits: Codejunkies
+$104D1D54 00000101
++F-155/MTD
+%Credits: Codejunkies
+$104D1B80 00000101
++F/A-18C
+%Credits: Codejunkies
+$104D1808 00000101
++F/A-18E
+%Credits: Codejunkies
+$104D1EA4 00000101
++F/A-22
+%Credits: Codejunkies
+$104D1730 00000101
++F/A-32B
+%Credits: Codejunkies
+$104D1C94 00000101
++Himat
+%Credits: Codejunkies
+$104D17F0 00000101
++Hunter
+%Credits: Codejunkies
+$104D173C 00000101
++IL-2M3
+%Credits: Codejunkies
+$104D1A00 00000101
++Jaguar
+%Credits: Codejunkies
+$104D1D60 00000101
++Lightning
+%Credits: Codejunkies
+$104D1AFC 00000101
++Mig-1.44 Mfi
+%Credits: Codejunkies
+$104D170C 00000101
++Mig-17F
+%Credits: Codejunkies
+$104D1CA0 00000101
++Mig-19Pfm
+%Credits: Codejunkies
+$104D1C28 00000101
++Mig-21Bis
+%Credits: Codejunkies
+$104D16B8 00000101
++Mig-23ML
+%Credits: Codejunkies
+$104D1904 00000101
++Mig-25Pds
+%Credits: Codejunkies
+$104D1B5C 00000101
++Mig-27K
+%Credits: Codejunkies
+$104D1B44 00000101
++Mig-29Smt
+%Credits: Codejunkies
+$104D16DC 00000101
++Mig-31BM
+%Credits: Codejunkies
+$104D1B68 00000101
++Mig-33
+%Credits: Codejunkies
+$104D1910 00000101
++P-38L
+%Credits: Codejunkies
+$104D19E8 00000101
++P-51D
+%Credits: Codejunkies
+$104D19F4 00000101
++S-37
+%Credits: Codejunkies
+$104D1958 00000101
++S-55 Lfs
+%Credits: Codejunkies
+$104D1724 00000101
++Seaharrier
+%Credits: Codejunkies
+$104D1C70 00000101
++Seavixen
+%Credits: Codejunkies
+$104D1E68 00000101
++Spitfire
+%Credits: Codejunkies
+$104D1A0C 00000101
++Su35
+%Credits: Codejunkies
+$104D1838 00000101
++Su-7BM Bis
+%Credits: Codejunkies
+$104D18D4 00000101
++Su-15TM
+%Credits: Codejunkies
+$104D1B8C 00000101
++Su-17M
+%Credits: Codejunkies
+$104D1748 00000101
++Su-20
+%Credits: Codejunkies
+$104D16C4 00000101
++Su-22M-4
+%Credits: Codejunkies
+$104D1CAC 00000101
++Su-24M
+%Credits: Codejunkies
+$104D17C0 00000101
++Su-25A
+%Credits: Codejunkies
+$104D1D30 00000101
++Su-27Lluv(Ps)
+%Credits: Codejunkies
+$104D16E8 00000101
++Su-27Smk
+%Credits: Codejunkies
+$104D1940 00000101
++Su-30Mki
+%Credits: Codejunkies
+$104D1814 00000101
++Su-32FN
+%Credits: Codejunkies
+$104D1EB0 00000101
++Su-34
+%Credits: Codejunkies
+$104D1E98 00000101
++Su-37
+%Credits: Codejunkies
+$104D1B74 00000101
++Su-39
+%Credits: Codejunkies
+$104D1E8C 00000101
++T
+%Credits: Codejunkies
+$104D18F8 00000101
++T6-1
+%Credits: Codejunkies
+$104D1970 00000101
++T-58VD
+%Credits: Codejunkies
+$104D1C10 00000101
++Tornado GR1
+%Credits: Codejunkies
+$104D1D78 00000101
++TSR2
+%Credits: Codejunkies
+$104D1B38 00000101
++Typhoon
+%Credits: Codejunkies
+$104D194C 00000101
++X-29A
+%Credits: Codejunkies
+$104D16D0 00000101
++X-31A
+%Credits: Codejunkies
+$104D191C 00000101
++X-32A
+%Credits: Codejunkies
+$104D1718 00000101
++X-32B
+%Credits: Codejunkies
+$104D1C88 00000101
++X-44
+%Credits: Codejunkies
+$104D1D90 00000101
++Yak-28L
+%Credits: Codejunkies
+$104D1D3C 00000101
++Yak-38
+%Credits: Codejunkies
+$104D1C1C 00000101
++Yak-141
+%Credits: Codejunkies
+$104D1C7C 00000101
++YF-12A
+%Credits: Codejunkies
+$104D1B14 00000101
++Yf-17
+%Credits: Codejunkies
+$104D16F4 00000101
++YF-23A
+%Credits: Codejunkies
+$104D1844 00000101
+!!
+!Alex Codes:
++Infinite Cash
+%Credits: MadCatz
+$204D1BF0 0098967F
++Infinite Credits
+%Credits: Codejunkies
+$204D1BF0 000F423F
++Max Kills
+%Credits: Codejunkies
+$104D1BFC 0000270F
+!!
+!Alex Levine Codes:
++7 MG (Jian-Ji 7 MG)
+%Credits: Code Master
+$004D1564 00000001
++8 (Jian-Ji 8) 'Finback A'
+%Credits: Code Master
+$004D1567 00000001
++# Of Aces Downed Modifier
+%Credits: Code Master
+$204D1C0C 00??????
++# Of Aircrafts Downed Modifier
+%Credits: Code Master
+$204D1C00 00??????
++# Of Grounds Objects Destroyed Modifier
+%Credits: Code Master
+$204D1C08 00??????
++# Of Planes Downed Modifier
+%Credits: Code Master
+$204D1C04 00??????
++A-5A Vigilante
+%Credits: Code Master
+$004D1566 00000001
++Always Low Total Time Played
+%Credits: Code Master
+$204D1BE8 00000000
++AV-8B Harrier II
+%Credits: Code Master
+$004D1568 00000001
++F-5A Freedom Fighter
+%Credits: Code Master
+$004D1565 00000001
++F/A-35B
+%Credits: Code Master
+$004D156C 00000001
++Max Total Reward Acquired
+%Credits: Code Master
+$204D1BEC 000F423F
++Mig-17F 'Fresco C'
+%Credits: Code Master
+$004D156D 00000001
++Mig-19Pfm 'Farmer'
+%Credits: Code Master
+$004D1563 00000001
++Seaharrier F/A2
+%Credits: Code Master
+$004D1569 00000001
++Su-22M-4 'Fitter K'
+%Credits: Code Master
+$004D156E 00000001
++T-58VD 'Flagon B'
+%Credits: Code Master
+$004D1561 00000001
++Total # Of Enemy Downed Modifier
+%Credits: Code Master
+$204D1BFC 00??????
++Total # Of Take Offs Modifier
+%Credits: Code Master
+$204D1BF4 00??????
++Total # Of Times Downed Modifier
+%Credits: Code Master
+$204D1BF8 00??????
++X-32B
+%Credits: Code Master
+$004D156B 00000001
++Yak-38 'Forger A'
+%Credits: Code Master
+$004D1562 00000001
++Yak-141 'Freestyle'
+%Credits: Code Master
+$004D156A 00000001
+!!
+!Brian Codes:
++Infinite Cash
+%Credits: MadCatz
+$204D1E18 0098967F
++Infinite Credits
+%Credits: Codejunkies
+$204D1E18 000F423F
++Max Kills
+%Credits: Codejunkies
+$104D1E24 0000270F
+!!
+!Brian Douglas Codes:
++# Of Aces Downed Modifier
+%Credits: Code Master
+$204D1E34 00??????
++# Of Aircrafts Downed Modifier
+%Credits: Code Master
+$204D1E28 00??????
++# Of Grounds Objects Destroyed Modifier
+%Credits: Code Master
+$204D1E30 00??????
++# Of Planes Downed Modifier
+%Credits: Code Master
+$204D1E2C 00??????
++A-4M Skyhawk
+%Credits: Code Master
+$004D1584 00000001
++A-6E Intruder
+%Credits: Code Master
+$004D1586 00000001
++A-7E Corsair II
+%Credits: Code Master
+$004D1583 00000001
++Always Low Total Time Played
+%Credits: Code Master
+$204D1E10 00000000
++Buccaneer S2D
+%Credits: Code Master
+$004D1585 00000001
++F4D-1 Skyray
+%Credits: Code Master
+$004D1588 00000001
++F-1
+%Credits: Code Master
+$004D1589 00000001
++F/A-18E Super Hornet
+%Credits: Code Master
+$004D158C 00000001
++Max Total Reward Acquired
+%Credits: Code Master
+$204D1E14 000F423F
++Seavixen FAW2
+%Credits: Code Master
+$004D1587 00000001
++Su-32FN
+%Credits: Code Master
+$004D158D 00000001
++Su-34
+%Credits: Code Master
+$004D158B 00000001
++Su-39 'Frogfoot'
+%Credits: Code Master
+$004D158A 00000001
++Total # Of Enemy Downed Modifier
+%Credits: Code Master
+$204D1E24 00??????
++Total # Of Take Offs Modifier
+%Credits: Code Master
+$204D1E1C 00??????
++Total # Of Times Downed Modifier
+%Credits: Code Master
+$204D1E20 00??????
+!!
+!Ellen McNichol Codes:
++# Of Aces Downed Modifier
+%Credits: Code Master
+$204D1F48 00??????
++# Of Aircrafts Downed Modifier
+%Credits: Code Master
+$204D1F3C 00??????
++# Of Grounds Objects Destroyed Modifier
+%Credits: Code Master
+$204D1F44 00??????
++# Of Planes Downed Modifier
+%Credits: Code Master
+$204D1F40 00??????
++Always Low Total Time Played
+%Credits: Code Master
+$204D1F24 00000000
++Aura-Wing
+%Credits: Code Master
+$004D15B0 00000001
++Axelay
+%Credits: Code Master
+$004D15B1 00000001
++Block Shooter
+%Credits: Code Master
+$004D15AC 00000001
++Blue Thunder M-45
+%Credits: Code Master
+$004D15AA 00000001
++Falsion
+%Credits: Code Master
+$004D15A9 00000001
++Flint-Rock
+%Credits: Code Master
+$004D15AE 00000001
++Infinite Money
+%Credits: Code Master
+$204D1F2C 000F423F
++Jerry Mouse
+%Credits: Code Master
+$004D15A8 00000001
++Manbou-J
+%Credits: Code Master
+$004D15AB 00000001
++Max Total Reward Acquired
+%Credits: Code Master
+$204D1F28 000F423F
++Mx5000
+%Credits: Code Master
+$004D15A7 00000001
++Penta
+%Credits: Code Master
+$004D15AF 00000001
++Poly
+%Credits: Code Master
+$004D15B2 00000001
++Super Fighter
+%Credits: Code Master
+$004D15AD 00000001
++Total # Of Enemy Downed Modifier
+%Credits: Code Master
+$204D1F38 00??????
++Total # Of Take Offs Modifier
+%Credits: Code Master
+$204D1F30 00??????
++Total # Of Times Downed Modifier
+%Credits: Code Master
+$204D1F34 00??????
++Twinbee
+%Credits: Code Master
+$004D15A6 00000001
++VIC Viper
+%Credits: Code Master
+$004D15A5 00000001
+!!
+!Holst Codes:
++Infinite Cash
+%Credits: MadCatz
+$204D1D04 0098967F
++Infinite Credits
+%Credits: Codejunkies
+$204D1D04 000F423F
++Max Kills
+%Credits: Codejunkies
+$104D1D10 0000270F
+!!
+!Holst Prendre Codes:
++# Of Aces Downed Modifier
+%Credits: Code Master
+$204D1D20 00??????
++# Of Aircrafts Downed Modifier
+%Credits: Code Master
+$204D1D14 00??????
++# Of Grounds Objects Destroyed Modifier
+%Credits: Code Master
+$204D1D1C 00??????
++# Of Planes Downed Modifier
+%Credits: Code Master
+$204D1D18 00??????
++A-10A Thunderbolt II
+%Credits: Code Master
+$004D1575 00000001
++Always Low Total Time Played
+%Credits: Code Master
+$204D1CFC 00000000
++F-15U Plus
+%Credits: Code Master
+$004D157A 00000001
++F-16XL
+%Credits: Code Master
+$004D1578 00000001
++F-101B Voodoo
+%Credits: Code Master
+$004D157C 00000001
++F-105D Thunderchief
+%Credits: Code Master
+$004D1572 00000001
++F-117A Nighthawk
+%Credits: Code Master
+$004D1576 00000001
++Jaguar GR1
+%Credits: Code Master
+$004D1577 00000001
++Max Total Reward Acquired
+%Credits: Code Master
+$204D1D00 000F423F
++Su-25A 'Frogfoot'
+%Credits: Code Master
+$004D1573 00000001
++Tornado GR1
+%Credits: Code Master
+$004D1579 00000001
++Total # Of Enemy Downed Modifier
+%Credits: Code Master
+$204D1D10 00??????
++Total # Of Take Offs Modifier
+%Credits: Code Master
+$204D1D08 00??????
++Total # Of Times Downed Modifier
+%Credits: Code Master
+$204D1D0C 00??????
++X-44
+%Credits: Code Master
+$004D157B 00000001
++Yak-28L 'Brewer B'
+%Credits: Code Master
+$004D1574 00000001
+!!
++Infinite Ammo
+%Credits: Codejunkies
+$11BF8A60 000003E7
+$11BF8AD0 000003E7
++Infinite Armor
+%Credits: Codejunkies
+$11BF8A24 00000640
++Infinite Health
+%Credits: MadCatz
+$200C2000 8C610058
+$200C2004 A44101A4
+$200C2008 03E00008
+$200C200C 00011020
+$202FDDDC 0C030800
++Infinite Missiles
+%Credits: MadCatz
+$201CC170 24013634
++Infinite Mission Timer
+%Credits: MadCatz
+$202C20F0 2401C9CC
++Infinite Special Weapons
+%Credits: MadCatz
+$201D06DC 00000000
+$201D0744 00000000
+!Jamie Codes:
++Infinite Cash
+%Credits: MadCatz
+$204D19C8 0098967F
++Infinite Credits
+%Credits: Codejunkies
+$204D19C8 000F423F
++Max Kills
+%Credits: Codejunkies
+$104D19D4 0000270F
+!!
+!Jamie Jones Codes:
++# Of Aces Downed Modifier
+%Credits: Code Master
+$204D19E4 00??????
++# Of Aircrafts Downed Modifier
+%Credits: Code Master
+$204D19D8 00??????
++# Of Grounds Objects Destroyed Modifier
+%Credits: Code Master
+$204D19E0 00??????
++# Of Planes Downed Modifier
+%Credits: Code Master
+$204D19DC 00??????
++Always Low Total Time Played
+%Credits: Code Master
+$204D19C0 00000000
++F-86L Sabre Jet
+%Credits: Code Master
+$004D1543 00000001
++II-2M3 Shturmovik
+%Credits: Code Master
+$004D1541 00000001
++Max Total Reward Acquired
+%Credits: Code Master
+$204D19C4 000F423F
++P-38L Lightning
+%Credits: Code Master
+$004D153F 00000001
++P-51D Mustang
+%Credits: Code Master
+$004D1540 00000001
++Spitfire Mk24
+%Credits: Code Master
+$004D1542 00000001
++Total # Of Enemy Downed Modifier
+%Credits: Code Master
+$204D19D4 00??????
++Total # Of Take Offs Modifier
+%Credits: Code Master
+$204D19CC 00??????
++Total # Of Times Downed Modifier
+%Credits: Code Master
+$204D19D0 00??????
+!!
+!John Codes:
++Infinite Cash
+%Credits: MadCatz
+$204D18B4 0098967F
++Infinite Credits
+%Credits: Codejunkies
+$204D18B4 000F423F
++Max Kills
+%Credits: Codejunkies
+$104D18C0 0000270F
+!!
+!John Rundal Codes:
++# Of Aces Downed Modifier
+%Credits: Code Master
+$204D18D0 00??????
++# Of Aircrafts Downed Modifier
+%Credits: Code Master
+$204D18C4 00??????
++# Of Grounds Objects Destroyed Modifier
+%Credits: Code Master
+$204D18CC 00??????
++# Of Planes Downed Modifier
+%Credits: Code Master
+$204D18C8 00??????
++(FC-1 Fighter China)
+%Credits: Code Master
+$004D1531 00000001
++Always Low Total Time Played
+%Credits: Code Master
+$204D18AC 00000000
++Eurofighter Typhoon
+%Credits: Code Master
+$004D1538 00000001
++F-4E Phantom II
+%Credits: Code Master
+$004D1530 00000001
++F-15C Eagle
+%Credits: Code Master
+$004D1536 00000001
++F-16C Block 50 Fighting Falcon
+%Credits: Code Master
+$004D1535 00000001
++F-100D Super Sabre
+%Credits: Code Master
+$004D153A 00000001
++F-106A Delta Dark
+%Credits: Code Master
+$004D152F 00000001
++Max Total Reward Acquired
+%Credits: Code Master
+$204D18B0 000F423F
++Mig-23ML 'Flogger G'
+%Credits: Code Master
+$004D1532 00000001
++Mig-33 'Fulcrum'
+%Credits: Code Master
+$004D1533 00000001
++S-37 Berkut
+%Credits: Code Master
+$004D1539 00000001
++Su-7BM Bis 'Fitter A'
+%Credits: Code Master
+$004D152E 00000001
++Su-27Smk 'Flanker B'
+%Credits: Code Master
+$004D1537 00000001
++T6-1 (Modified Prototype)
+%Credits: Code Master
+$004D153B 00000001
++Total # Of Enemy Downed Modifier
+%Credits: Code Master
+$204D18C0 00??????
++Total # Of Take Offs Modifier
+%Credits: Code Master
+$204D18B8 00??????
++Total # Of Times Downed Modifier
+%Credits: Code Master
+$204D18BC 00??????
++X-31A
+%Credits: Code Master
+$004D1534 00000001
+!!
+!Ken Codes:
++Infinite Cash
+%Credits: MadCatz
+$204D1680 0098967F
++Infinite Credits
+%Credits: Codejunkies
+$204D168C 000F423F
++Max Kills
+%Credits: Codejunkies
+$104D1698 0000270F
+!!
+!Ken Thomas Codes:
++# Of Aces Downed Modifier
+%Credits: Code Master
+$204D16A8 00??????
++# Of Aircrafts Downed Modifier
+%Credits: Code Master
+$204D169C 00??????
++# Of Grounds Objects Destroyed Modifier
+%Credits: Code Master
+$204D16A4 00??????
++# Of Planes Downed Modifier
+%Credits: Code Master
+$204D16A0 00??????
++Always Low Total Time Played
+%Credits: Code Master
+$204D1684 00000000
++F-2A
+%Credits: Code Master
+$004D1513 00000001
++F-5E Tiger II
+%Credits: Code Master
+$004D150C 00000001
++F/A-22 Raptor(Tm)
+%Credits: Code Master
+$004D1517 00000001
++Hunter FGA9
+%Credits: Code Master
+$004D1518 00000001
++Max Total Reward Acquired
+%Credits: Code Master
+$204D1688 000F423F
++Mig-1.44 MFI
+%Credits: Code Master
+$004D1514 00000001
++Mig-21 Bis 'Fishbed N'
+%Credits: Code Master
+$004D150D 00000001
++Mig-29Smt 'Fulcrum C'
+%Credits: Code Master
+$004D1510 00000001
++S-55 LFS
+%Credits: Code Master
+$004D1516 00000001
++Su-17M 'Fitter D'
+%Credits: Code Master
+$004D1519 00000001
++Su-20 'Fitter C'
+%Credits: Code Master
+$004D150E 00000001
++Su-27LL-UV(PS)
+%Credits: Code Master
+$004D1511 00000001
++Total # Of Enemy Downed Modifier
+%Credits: Code Master
+$204D1698 00??????
++Total # Of Take Offs Modifier
+%Credits: Code Master
+$204D1690 00??????
++Total # Of Times Downed Modifier
+%Credits: Code Master
+$204D1694 00??????
++X-29A
+%Credits: Code Master
+$004D150F 00000001
++X-32A
+%Credits: Code Master
+$004D1515 00000001
++YF-17 Cobra
+%Credits: Code Master
+$004D1512 00000001
+!!
+!Miscellaneous Codes:
++Character Modifier
+%Credits: Code Master
+$004D1607 000000??
++Extra Missiles
+%Credits: Code Master
+$101CC170 00000001
++Extra Special Weapons
+%Credits: Code Master
+$101D06DC 00000001
+$101D0744 00000001
++Infinite Health
+%Credits: Code Master
+$202FE3CC 24040640
+$202FE3D0 A44401A4
+$202FE3D4 10000011
++Infinite Missiles
+%Credits: Code Master
+$201CC174 00000000
++Infinite Mission Time
+%Credits: Code Master
+$202C20F8 00000000
++Infinite Special Weapons
+%Credits: Code Master
+$201D06E0 00000000
+$201D0748 00000000
+!!
+!Rick Campbell Codes:
++6 (Jian-Ji 6Jin)
+%Credits: Code Master
+$004D1551 00000001
++7 (Jian-Ji/Honyzhaji-7)
+%Credits: Code Master
+$004D155D 00000001
++# Of Aces Downed Modifier
+%Credits: Code Master
+$204D1AF8 00??????
++# Of Aircrafts Downed Modifier
+%Credits: Code Master
+$204D1AEC 00??????
++# Of Grounds Objects Destroyed Modifier
+%Credits: Code Master
+$204D1AF4 00??????
++# Of Planes Downed Modifier
+%Credits: Code Master
+$204D1AF0 00??????
++Always Low Total Time Played
+%Credits: Code Master
+$204D1AD4 00000000
++F-104G Starfighter
+%Credits: Code Master
+$004D1553 00000001
++F-108 Rapier (Early Plan)
+%Credits: Code Master
+$004D1554 00000001
++F-111F
+%Credits: Code Master
+$004D1557 00000001
++F-155/MTD Active
+%Credits: Code Master
+$004D155B 00000001
++Infinite Money
+%Credits: Code Master
+$204D1ADC 000F423F
++Lightning F6
+%Credits: Code Master
+$004D1550 00000001
++Max Total Reward Acquired
+%Credits: Code Master
+$204D1AD8 000F423F
++Mig-25Pds 'Foxbat E'
+%Credits: Code Master
+$004D1558 00000001
++Mig-27K 'Flogger J'
+%Credits: Code Master
+$004D1556 00000001
++Mig-31BM 'Foxhound'
+%Credits: Code Master
+$004D1559 00000001
++Su-15TM 'Flagon F'
+%Credits: Code Master
+$004D155C 00000001
++Su-37
+%Credits: Code Master
+$004D155A 00000001
++Total # Of Enemy Downed Modifier
+%Credits: Code Master
+$204D1AE8 00??????
++Total # Of Take Offs Modifier
+%Credits: Code Master
+$204D1AE0 00??????
++Total # Of Times Downed Modifier
+%Credits: Code Master
+$204D1AE4 00??????
++TSR2
+%Credits: Code Master
+$004D1555 00000001
++YF-12A
+%Credits: Code Master
+$004D1552 00000001
+!!
+!Rick Codes:
++Infinite Cash
+%Credits: MadCatz
+$204D1ADC 0098967F
++Max Kills
+%Credits: Codejunkies
+$104D1AE8 0000270F
+!!
+!Ruth Codes:
++Infinite Cash
+%Credits: MadCatz
+$204D17A0 0098967F
++Infinite Credits
+%Credits: Codejunkies
+$204D17A0 000F423F
++Max Kills
+%Credits: Codejunkies
+$104D17AC 0000270F
+!!
+!Ruth Valentine Codes:
++8IIM(Jian-Ji 8IIM) 'Finback B'
+%Credits: Code Master
+$004D151F 00000001
++11 (Jian-Ji 11)
+%Credits: Code Master
+$004D1529 00000001
++12 (Jian-Ji 12)
+%Credits: Code Master
+$004D1525 00000001
++# Of Aces Downed Modifier
+%Credits: Code Master
+$204D17BC 00??????
++# Of Aircrafts Downed Modifier
+%Credits: Code Master
+$204D17B0 00??????
++# Of Grounds Objects Destroyed Modifier
+%Credits: Code Master
+$204D17B8 00??????
++# Of Planes Downed Modifier
+%Credits: Code Master
+$204D17B4 00??????
++Always Low Total Time Played
+%Credits: Code Master
+$204D1798 00000000
++F5D-1 Skylancer
+%Credits: Code Master
+$004D151E 00000001
++F-14D Tomcat
+%Credits: Code Master
+$004D1522 00000001
++F-15E Strike Eagle
+%Credits: Code Master
+$004D1526 00000001
++F-20 Tigershark
+%Credits: Code Master
+$004D1520 00000001
++F-102A Delta Dagger
+%Credits: Code Master
+$004D152A 00000001
++F/A-18C Hornet
+%Credits: Code Master
+$004D1523 00000001
++Himat
+%Credits: Code Master
+$004D1521 00000001
++Max Total Reward Acquired
+%Credits: Code Master
+$204D179C 000F423F
++Su-24M 'Fencer D'
+%Credits: Code Master
+$004D151D 00000001
++Su-30Mki
+%Credits: Code Master
+$004D1524 00000001
++Su-35 'Flanker E'
+%Credits: Code Master
+$004D1527 00000001
++Total # Of Enemy Downed Modifier
+%Credits: Code Master
+$204D17AC 00??????
++Total # Of Take Offs Modifier
+%Credits: Code Master
+$204D17A4 00??????
++Total # Of Times Downed Modifier
+%Credits: Code Master
+$204D17A8 00??????
++YF-23A Black Widow II
+%Credits: Code Master
+$004D1528 00000001
+!!
+!Unlock Aircraft & Special Weapon Codes:
++6 (Jian-Ji 6Jin)
+%Credits: Code Master
+$104D1B08 00000001
++7 (Jian-Ji/Honyzhaji-7)
+%Credits: Code Master
+$104D1B98 00000001
++7 MG (Jian-Ji 7 MG)
+%Credits: Code Master
+$104D1C34 00000001
++8 (Jian-Ji 8) 'Finback A'
+%Credits: Code Master
+$104D1C58 00000001
++8IIM(Jian-Ji 8IIM) 'Finback B'
+%Credits: Code Master
+$104D17D8 00000001
++11 (Jian-Ji 11)
+%Credits: Code Master
+$104D1850 00000001
++12 (Jian-Ji 12)
+%Credits: Code Master
+$104D1820 00000001
++(FC-1 Fighter China)
+%Credits: Code Master
+$104D18F8 00000001
++A-4M Skyhawk
+%Credits: Code Master
+$104D1E44 00000001
++A-5A Vigilante
+%Credits: Code Master
+$104D1C4C 00000001
++A-6E Intruder
+%Credits: Code Master
+$104D1E5C 00000001
++A-7E Corsair II
+%Credits: Code Master
+$104D1E38 00000001
++A-10A Thunderbolt II
+%Credits: Code Master
+$104D1D48 00000001
++Aura-Wing
+%Credits: Code Master
+$104D1FD0 00000001
++AV-8B Harrier II
+%Credits: Code Master
+$104D1C64 00000001
++Axelay
+%Credits: Code Master
+$104D1FDC 00000001
++Block Shooter
+%Credits: Code Master
+$104D1FA0 00000001
++Blue Thunder M-45
+%Credits: Code Master
+$104D1F88 00000001
++Buccaneer S2D
+%Credits: Code Master
+$104D1E50 00000001
++Eurofighter Typhoon
+%Credits: Code Master
+$104D194C 00000001
++F4D-1 Skyray
+%Credits: Code Master
+$104D1E74 00000001
++F5D-1 Skylancer
+%Credits: Code Master
+$104D17CC 00000001
++F-1
+%Credits: Code Master
+$104D1E80 00000001
++F-2A
+%Credits: Code Master
+$104D1700 00000001
++F-4E Phantom II
+%Credits: Code Master
+$104D18EC 00000001
++F-5A Freedom Fighter
+%Credits: Code Master
+$104D1C40 00000001
++F-5E Tiger II
+%Credits: Code Master
+$104D16AC 00000001
++F-14D Tomcat
+%Credits: Code Master
+$104D17FC 00000001
++F-15C Eagle
+%Credits: Code Master
+$104D1934 00000001
++F-15E Strike Eagle
+%Credits: Code Master
+$104D182C 00000001
++F-15U Plus
+%Credits: Code Master
+$104D1D84 00000001
++F-16C Block 50 Fighting Falcon
+%Credits: Code Master
+$104D1928 00000001
++F-16XL
+%Credits: Code Master
+$104D1D6C 00000001
++F-20 Tigershark
+%Credits: Code Master
+$104D17E4 00000001
++F-86L Sabre Jet
+%Credits: Code Master
+$104D1A18 00000001
++F-100D Super Sabre
+%Credits: Code Master
+$104D1964 00000001
++F-101B Voodoo
+%Credits: Code Master
+$104D1D9C 00000001
++F-102A Delta Dagger
+%Credits: Code Master
+$104D185C 00000001
++F-104G Starfighter
+%Credits: Code Master
+$104D1B20 00000001
++F-105D Thunderchief
+%Credits: Code Master
+$104D1D24 00000001
++F-106A Delta Dark
+%Credits: Code Master
+$104D18E0 00000001
++F-108 Rapier (Early Plan)
+%Credits: Code Master
+$104D1B2C 00000001
++F-111F
+%Credits: Code Master
+$104D1B50 00000001
++F-117A Nighthawk
+%Credits: Code Master
+$104D1D54 00000001
++F-155/MTD Active
+%Credits: Code Master
+$104D1B80 00000001
++F/A-18C Hornet
+%Credits: Code Master
+$104D1808 00000001
++F/A-18E Super Hornet
+%Credits: Code Master
+$104D1EA4 00000001
++F/A-22 Raptor(Tm)
+%Credits: Code Master
+$104D1730 00000001
++F/A-35B
+%Credits: Code Master
+$104D1C94 00000001
++Falsion
+%Credits: Code Master
+$104D1F7C 00000001
++Flint-Rock
+%Credits: Code Master
+$104D1FB8 00000001
++Himat
+%Credits: Code Master
+$104D17F0 00000001
++Hunter FGA9
+%Credits: Code Master
+$104D173C 00000001
++II-2M3 Shturmovik
+%Credits: Code Master
+$104D1A00 00000001
++Jaguar GR1
+%Credits: Code Master
+$104D1D60 00000001
++Jerry Mouse
+%Credits: Code Master
+$104D1F70 00000001
++Lightning F6
+%Credits: Code Master
+$104D1AFC 00000001
++Manbou-J
+%Credits: Code Master
+$104D1F94 00000001
++Mig-1.44 MFI
+%Credits: Code Master
+$104D170C 00000001
++Mig-17F 'Fresco C'
+%Credits: Code Master
+$104D1CA0 00000001
++Mig-19Pfm 'Farmer'
+%Credits: Code Master
+$104D1C28 00000001
++Mig-21 Bis 'Fishbed N'
+%Credits: Code Master
+$104D16B8 00000001
++Mig-23ML 'Flogger G'
+%Credits: Code Master
+$104D1904 00000001
++Mig-25Pds 'Foxbat E'
+%Credits: Code Master
+$104D1B5C 00000001
++Mig-27K 'Flogger J'
+%Credits: Code Master
+$104D1B44 00000001
++Mig-29Smt 'Fulcrum C'
+%Credits: Code Master
+$104D16DC 00000001
++Mig-31BM 'Foxhound'
+%Credits: Code Master
+$104D1B68 00000001
++Mig-33 'Fulcrum'
+%Credits: Code Master
+$104D1910 00000001
++Mx5000
+%Credits: Code Master
+$104D1F64 00000001
++P-38L Lightning
+%Credits: Code Master
+$104D19E8 00000001
++P-51D Mustang
+%Credits: Code Master
+$104D19F4 00000001
++Penta
+%Credits: Code Master
+$104D1FC4 00000001
++Poly
+%Credits: Code Master
+$104D1FE8 00000001
++S-37 Berkut
+%Credits: Code Master
+$104D1958 00000001
++S-55 LFS
+%Credits: Code Master
+$104D1724 00000001
++Seaharrier F/A2
+%Credits: Code Master
+$104D1C70 00000001
++Seavixen FAW2
+%Credits: Code Master
+$104D1E68 00000001
++Spitfire Mk24
+%Credits: Code Master
+$104D1A0C 00000001
++Su-7BM Bis 'Fitter A'
+%Credits: Code Master
+$104D18D4 00000001
++Su-15TM 'Flagon F'
+%Credits: Code Master
+$104D1B8C 00000001
++Su-17M 'Fitter D'
+%Credits: Code Master
+$104D1748 00000001
++Su-20 'Fitter C'
+%Credits: Code Master
+$104D16C4 00000001
++Su-22M-4 'Fitter K'
+%Credits: Code Master
+$104D1CAC 00000001
++Su-24M 'Fencer D'
+%Credits: Code Master
+$104D17C0 00000001
++Su-25A 'Frogfoot'
+%Credits: Code Master
+$104D1D30 00000001
++Su-27LL-UV(PS)
+%Credits: Code Master
+$104D16E8 00000001
++Su-27Smk 'Flanker B'
+%Credits: Code Master
+$104D1940 00000001
++Su-30Mki
+%Credits: Code Master
+$104D1814 00000001
++Su-32FN
+%Credits: Code Master
+$104D1EB0 00000001
++Su-34
+%Credits: Code Master
+$104D1E98 00000001
++Su-35 'Flanker E'
+%Credits: Code Master
+$104D1838 00000001
++Su-37
+%Credits: Code Master
+$104D1B74 00000001
++Su-39 'Frogfoot'
+%Credits: Code Master
+$104D1E8C 00000001
++Super Fighter
+%Credits: Code Master
+$104D1FAC 00000001
++T6-1 (Modified Prototype)
+%Credits: Code Master
+$104D1970 00000001
++T-58VD 'Flagon B'
+%Credits: Code Master
+$104D1C10 00000001
++Tornado GR1
+%Credits: Code Master
+$104D1D78 00000001
++TSR2
+%Credits: Code Master
+$104D1B38 00000001
++Twinbee
+%Credits: Code Master
+$104D1F58 00000001
++VIC Viper
+%Credits: Code Master
+$104D1F4C 00000001
++X-29A
+%Credits: Code Master
+$104D16D0 00000001
++X-31A
+%Credits: Code Master
+$104D191C 00000001
++X-32A
+%Credits: Code Master
+$104D1718 00000001
++X-32B
+%Credits: Code Master
+$104D1C88 00000001
++X-44
+%Credits: Code Master
+$104D1D90 00000001
++Yak-28L 'Brewer B'
+%Credits: Code Master
+$104D1D3C 00000001
++Yak-38 'Forger A'
+%Credits: Code Master
+$104D1C1C 00000001
++Yak-141 'Freestyle'
+%Credits: Code Master
+$104D1C7C 00000001
++YF-12A
+%Credits: Code Master
+$104D1B14 00000001
++YF-17 Cobra
+%Credits: Code Master
+$104D16F4 00000001
++YF-23A Black Widow II
+%Credits: Code Master
+$104D1844 00000001
+!!
+!Unlock Aircraft Codes:
++6 (Jian-Ji 6Jin)
+%Credits: Code Master
+$004D1B08 00000001
++7 (Jian-Ji/Honyzhaji-7)
+%Credits: Code Master
+$004D1B98 00000001
++7 MG (Jian-Ji 7 MG)
+%Credits: Code Master
+$004D1C34 00000001
++8 (Jian-Ji 8) 'Finback A'
+%Credits: Code Master
+$004D1C58 00000001
++8IIM(Jian-Ji 8IIM) 'Finback B'
+%Credits: Code Master
+$004D17D8 00000001
++11 (Jian-Ji 11)
+%Credits: Code Master
+$004D1850 00000001
++12 (Jian-Ji 12)
+%Credits: Code Master
+$004D1820 00000001
++(FC-1 Fighter China)
+%Credits: Code Master
+$004D18F8 00000001
++A-4M Skyhawk
+%Credits: Code Master
+$004D1E44 00000001
++A-5A Vigilante
+%Credits: Code Master
+$004D1C4C 00000001
++A-6E Intruder
+%Credits: Code Master
+$004D1E5C 00000001
++A-7E Corsair II
+%Credits: Code Master
+$004D1E38 00000001
++A-10A Thunderbolt II
+%Credits: Code Master
+$004D1D48 00000001
++Aura-Wing
+%Credits: Code Master
+$004D1FD0 00000001
++AV-8B Harrier II
+%Credits: Code Master
+$004D1C64 00000001
++Axelay
+%Credits: Code Master
+$004D1FDC 00000001
++Block Shooter
+%Credits: Code Master
+$004D1FA0 00000001
++Blue Thunder M-45
+%Credits: Code Master
+$004D1F88 00000001
++Buccaneer S2D
+%Credits: Code Master
+$004D1E50 00000001
++Eurofighter Typhoon
+%Credits: Code Master
+$004D194C 00000001
++F4D-1 Skyray
+%Credits: Code Master
+$004D1E74 00000001
++F5D-1 Skylancer
+%Credits: Code Master
+$004D17CC 00000001
++F-1
+%Credits: Code Master
+$004D1E80 00000001
++F-2A
+%Credits: Code Master
+$004D1700 00000001
++F-4E Phantom II
+%Credits: Code Master
+$004D18EC 00000001
++F-5A Freedom Fighter
+%Credits: Code Master
+$004D1C40 00000001
++F-5E Tiger II
+%Credits: Code Master
+$004D16AC 00000001
++F-14D Tomcat
+%Credits: Code Master
+$004D17FC 00000001
++F-15C Eagle
+%Credits: Code Master
+$004D1934 00000001
++F-15E Strike Eagle
+%Credits: Code Master
+$004D182C 00000001
++F-15U Plus
+%Credits: Code Master
+$004D1D84 00000001
++F-16C Block 50 Fighting Falcon
+%Credits: Code Master
+$004D1928 00000001
++F-16XL
+%Credits: Code Master
+$004D1D6C 00000001
++F-20 Tigershark
+%Credits: Code Master
+$004D17E4 00000001
++F-86L Sabre Jet
+%Credits: Code Master
+$004D1A18 00000001
++F-100D Super Sabre
+%Credits: Code Master
+$004D1964 00000001
++F-101B Voodoo
+%Credits: Code Master
+$004D1D9C 00000001
++F-102A Delta Dagger
+%Credits: Code Master
+$004D185C 00000001
++F-104G Starfighter
+%Credits: Code Master
+$004D1B20 00000001
++F-105D Thunderchief
+%Credits: Code Master
+$004D1D24 00000001
++F-106A Delta Dark
+%Credits: Code Master
+$004D18E0 00000001
++F-108 Rapier (Early Plan)
+%Credits: Code Master
+$004D1B2C 00000001
++F-111F
+%Credits: Code Master
+$004D1B50 00000001
++F-117A Nighthawk
+%Credits: Code Master
+$004D1D54 00000001
++F-155/MTD Active
+%Credits: Code Master
+$004D1B80 00000001
++F/A-18C Hornet
+%Credits: Code Master
+$004D1808 00000001
++F/A-18E Super Hornet
+%Credits: Code Master
+$004D1EA4 00000001
++F/A-22 Raptor(Tm)
+%Credits: Code Master
+$004D1730 00000001
++F/A-35B
+%Credits: Code Master
+$004D1C94 00000001
++Falsion
+%Credits: Code Master
+$004D1F7C 00000001
++Flint-Rock
+%Credits: Code Master
+$004D1FB8 00000001
++Himat
+%Credits: Code Master
+$004D17F0 00000001
++Hunter FGA9
+%Credits: Code Master
+$004D173C 00000001
++II-2M3 Shturmovik
+%Credits: Code Master
+$004D1A00 00000001
++Jaguar GR1
+%Credits: Code Master
+$004D1D60 00000001
++Jerry Mouse
+%Credits: Code Master
+$004D1F70 00000001
++Lightning F6
+%Credits: Code Master
+$004D1AFC 00000001
++Manbou-J
+%Credits: Code Master
+$004D1F94 00000001
++Mig-1.44 MFI
+%Credits: Code Master
+$004D170C 00000001
++Mig-17F 'Fresco C'
+%Credits: Code Master
+$004D1CA0 00000001
++Mig-19Pfm 'Farmer'
+%Credits: Code Master
+$004D1C28 00000001
++Mig-21 Bis 'Fishbed N'
+%Credits: Code Master
+$004D16B8 00000001
++Mig-23ML 'Flogger G'
+%Credits: Code Master
+$004D1904 00000001
++Mig-25Pds 'Foxbat E'
+%Credits: Code Master
+$004D1B5C 00000001
++Mig-27K 'Flogger J'
+%Credits: Code Master
+$004D1B44 00000001
++Mig-29Smt 'Fulcrum C'
+%Credits: Code Master
+$004D16DC 00000001
++Mig-31BM 'Foxhound'
+%Credits: Code Master
+$004D1B68 00000001
++Mig-33 'Fulcrum'
+%Credits: Code Master
+$004D1910 00000001
++Mx5000
+%Credits: Code Master
+$004D1F64 00000001
++P-38L Lightning
+%Credits: Code Master
+$004D19E8 00000001
++P-51D Mustang
+%Credits: Code Master
+$004D19F4 00000001
++Penta
+%Credits: Code Master
+$004D1FC4 00000001
++Poly
+%Credits: Code Master
+$004D1FE8 00000001
++S-37 Berkut
+%Credits: Code Master
+$004D1958 00000001
++S-55 LFS
+%Credits: Code Master
+$004D1724 00000001
++Seaharrier F/A2
+%Credits: Code Master
+$004D1C70 00000001
++Seavixen FAW2
+%Credits: Code Master
+$004D1E68 00000001
++Spitfire Mk24
+%Credits: Code Master
+$004D1A0C 00000001
++Su-7BM Bis 'Fitter A'
+%Credits: Code Master
+$004D18D4 00000001
++Su-15TM 'Flagon F'
+%Credits: Code Master
+$004D1B8C 00000001
++Su-17M 'Fitter D'
+%Credits: Code Master
+$004D1748 00000001
++Su-20 'Fitter C'
+%Credits: Code Master
+$004D16C4 00000001
++Su-22M-4 'Fitter K'
+%Credits: Code Master
+$004D1CAC 00000001
++Su-24M 'Fencer D'
+%Credits: Code Master
+$004D17C0 00000001
++Su-25A 'Frogfoot'
+%Credits: Code Master
+$004D1D30 00000001
++Su-27LL-UV(PS)
+%Credits: Code Master
+$004D16E8 00000001
++Su-27Smk 'Flanker B'
+%Credits: Code Master
+$004D1940 00000001
++Su-30Mki
+%Credits: Code Master
+$004D1814 00000001
++Su-32FN
+%Credits: Code Master
+$004D1EB0 00000001
++Su-34
+%Credits: Code Master
+$004D1E98 00000001
++Su-35 'Flanker E'
+%Credits: Code Master
+$004D1838 00000001
++Su-37
+%Credits: Code Master
+$004D1B74 00000001
++Su-39 'Frogfoot'
+%Credits: Code Master
+$004D1E8C 00000001
++Super Fighter
+%Credits: Code Master
+$004D1FAC 00000001
++T6-1 (Modified Prototype)
+%Credits: Code Master
+$004D1970 00000001
++T-58VD 'Flagon B'
+%Credits: Code Master
+$004D1C10 00000001
++Tornado GR1
+%Credits: Code Master
+$004D1D78 00000001
++TSR2
+%Credits: Code Master
+$004D1B38 00000001
++Twinbee
+%Credits: Code Master
+$004D1F58 00000001
++VIC Viper
+%Credits: Code Master
+$004D1F4C 00000001
++X-29A
+%Credits: Code Master
+$004D16D0 00000001
++X-31A
+%Credits: Code Master
+$004D191C 00000001
++X-32A
+%Credits: Code Master
+$004D1718 00000001
++X-32B
+%Credits: Code Master
+$004D1C88 00000001
++X-44
+%Credits: Code Master
+$004D1D90 00000001
++Yak-28L 'Brewer B'
+%Credits: Code Master
+$004D1D3C 00000001
++Yak-38 'Forger A'
+%Credits: Code Master
+$004D1C1C 00000001
++Yak-141 'Freestyle'
+%Credits: Code Master
+$004D1C7C 00000001
++YF-12A
+%Credits: Code Master
+$004D1B14 00000001
++YF-17 Cobra
+%Credits: Code Master
+$004D16F4 00000001
++YF-23A Black Widow II
+%Credits: Code Master
+$004D1844 00000001
+!!
+!Unlock Movie Viewer Codes:
++After The Festival
+%Credits: Code Master
+$004D15EC 00000001
++All Movies
+%Credits: Code Master
+$104D15E2 00000101
+$204D15E4 01010101
+$204D15E8 01010101
+$104D15EC 00000101
+$004D15EE 00000001
++Broken Wings
+%Credits: Code Master
+$004D15E6 00000001
++Corruption
+%Credits: Code Master
+$004D15E5 00000001
++Decision
+%Credits: Code Master
+$004D15ED 00000001
++Departure
+%Credits: Code Master
+$004D15E7 00000001
++Fake Ground
+%Credits: Code Master
+$004D15EA 00000001
++Huge Wind Wall
+%Credits: Code Master
+$004D15E3 00000001
++In The Dark
+%Credits: Code Master
+$004D15E9 00000001
++Invisible Attack
+%Credits: Code Master
+$004D15E4 00000001
++Quiet Front
+%Credits: Code Master
+$004D15E8 00000001
++The Answer
+%Credits: Code Master
+$004D15EB 00000001
++Title
+%Credits: Code Master
+$004D15E2 00000001
++To The End Of Battle
+%Credits: Code Master
+$004D15EE 00000001
+!!
+!Unlock Special Weapon:
++A-4M
+%Credits: MadCatz
+$004D1E45 00000001
++A-5A
+%Credits: MadCatz
+$004D1C4D 00000001
++A-6E
+%Credits: MadCatz
+$004D1E5D 00000001
++A-7E
+%Credits: MadCatz
+$004D1E39 00000001
++A-10A
+%Credits: MadCatz
+$004D1D49 00000001
++AV-8B
+%Credits: MadCatz
+$004D1C65 00000001
++Buccaneer
+%Credits: MadCatz
+$004D1E51 00000001
++F4D-1
+%Credits: MadCatz
+$004D1E75 00000001
++F5D-1
+%Credits: MadCatz
+$004D17CD 00000001
++F-1
+%Credits: MadCatz
+$004D1E81 00000001
++F-2A
+%Credits: MadCatz
+$004D1701 00000001
++F-4E
+%Credits: MadCatz
+$004D18ED 00000001
++F-5A
+%Credits: MadCatz
+$004D1C41 00000001
++F-5E
+%Credits: MadCatz
+$004D16AD 00000001
++F-14D
+%Credits: MadCatz
+$004D17FD 00000001
++F-15C
+%Credits: MadCatz
+$004D1935 00000001
++F-15E
+%Credits: MadCatz
+$004D182D 00000001
++F-15U Plus
+%Credits: MadCatz
+$004D1D85 00000001
++F-16C
+%Credits: MadCatz
+$004D1929 00000001
++F-16XL
+%Credits: MadCatz
+$004D1D6D 00000001
++F-20
+%Credits: MadCatz
+$004D17E5 00000001
++F-86L
+%Credits: MadCatz
+$004D1A19 00000001
++F-100D
+%Credits: MadCatz
+$004D1965 00000001
++F-101B
+%Credits: MadCatz
+$004D1D9D 00000001
++F-102A
+%Credits: MadCatz
+$004D185D 00000001
++F-104G
+%Credits: MadCatz
+$004D1B21 00000001
++F-105D
+%Credits: MadCatz
+$004D1D25 00000001
++F-106A
+%Credits: MadCatz
+$004D18E1 00000001
++F-108
+%Credits: MadCatz
+$004D1B2D 00000001
++F-111F
+%Credits: MadCatz
+$004D1B51 00000001
++F-117A
+%Credits: MadCatz
+$004D1D55 00000001
++F-155/MTD
+%Credits: MadCatz
+$004D1B81 00000001
++F/A-18C
+%Credits: MadCatz
+$004D1809 00000001
++F/A-18E
+%Credits: MadCatz
+$004D1EA5 00000001
++F/A-22
+%Credits: MadCatz
+$004D1731 00000001
++F/A-35B
+%Credits: MadCatz
+$004D1C95 00000001
++FC-1
+%Credits: MadCatz
+$004D18F9 00000001
++Himat
+%Credits: MadCatz
+$004D17F1 00000001
++Honyzhaji-7
+%Credits: MadCatz
+$004D1B99 00000001
++Hunter
+%Credits: MadCatz
+$004D173D 00000001
++IL-2M3
+%Credits: MadCatz
+$004D1A01 00000001
++Jaguar
+%Credits: MadCatz
+$004D1D61 00000001
++JIAN-Ji6jin
+%Credits: MadCatz
+$004D1B09 00000001
++JIAN-JI7 MG
+%Credits: MadCatz
+$004D1C35 00000001
++JIAN-JI8
+%Credits: MadCatz
+$004D1C59 00000001
++JIAN-JI11
+%Credits: MadCatz
+$004D1851 00000001
++JIAN-JI 8IIM
+%Credits: MadCatz
+$004D17D9 00000001
++JIAN-JI 12
+%Credits: MadCatz
+$004D1821 00000001
++Lightning
+%Credits: MadCatz
+$004D1AFD 00000001
++Mig-1.44 MFI
+%Credits: MadCatz
+$004D170D 00000001
++Mig-17F
+%Credits: MadCatz
+$004D1CA1 00000001
++Mig-19Pfm
+%Credits: MadCatz
+$004D1C29 00000001
++Mig-21
+%Credits: MadCatz
+$004D16B9 00000001
++Mig-23ML
+%Credits: MadCatz
+$004D1905 00000001
++Mig-25Pds
+%Credits: MadCatz
+$004D1B5D 00000001
++Mig-27K
+%Credits: MadCatz
+$004D1B45 00000001
++Mig-29Smt
+%Credits: MadCatz
+$004D16DD 00000001
++Mig-31BM
+%Credits: MadCatz
+$004D1B69 00000001
++Mig-33
+%Credits: MadCatz
+$004D1911 00000001
++P-38L
+%Credits: MadCatz
+$004D19E9 00000001
++P-51D
+%Credits: MadCatz
+$004D19F5 00000001
++S-37
+%Credits: MadCatz
+$004D1959 00000001
++S-55 LFS
+%Credits: MadCatz
+$004D1725 00000001
++Seaharrier
+%Credits: MadCatz
+$004D1C71 00000001
++Seavixen
+%Credits: MadCatz
+$004D1E69 00000001
++Spitfire
+%Credits: MadCatz
+$004D1A0D 00000001
++Su-7BM Bis
+%Credits: MadCatz
+$004D18D5 00000001
++Su-15TM
+%Credits: MadCatz
+$004D1B8D 00000001
++Su-17M
+%Credits: MadCatz
+$004D1749 00000001
++Su-20
+%Credits: MadCatz
+$004D16C5 00000001
++Su-22M-4
+%Credits: MadCatz
+$004D1CAD 00000001
++Su-24M
+%Credits: MadCatz
+$004D17C1 00000001
++Su-25A
+%Credits: MadCatz
+$004D1D31 00000001
++Su-27LL-UV(PS)
+%Credits: MadCatz
+$004D16E9 00000001
++Su-27Smk
+%Credits: MadCatz
+$004D1941 00000001
++Su-30Mk1
+%Credits: MadCatz
+$004D1815 00000001
++Su-32FN
+%Credits: MadCatz
+$004D1EB1 00000001
++Su-34
+%Credits: MadCatz
+$004D1E99 00000001
++Su-35
+%Credits: MadCatz
+$004D1839 00000001
++Su-37
+%Credits: MadCatz
+$004D1B75 00000001
++Su-39
+%Credits: MadCatz
+$004D1E8D 00000001
++T6-1
+%Credits: MadCatz
+$004D1971 00000001
++T-58VD
+%Credits: MadCatz
+$004D1C11 00000001
++Tornado GR1
+%Credits: MadCatz
+$004D1D79 00000001
++TSR2
+%Credits: MadCatz
+$004D1B39 00000001
++Typhoon
+%Credits: MadCatz
+$004D194D 00000001
++X-29A
+%Credits: MadCatz
+$004D16D1 00000001
++X-31A
+%Credits: MadCatz
+$004D191D 00000001
++X-32A
+%Credits: MadCatz
+$004D1719 00000001
++X-32B
+%Credits: MadCatz
+$004D1C89 00000001
++X-44
+%Credits: MadCatz
+$004D1D91 00000001
++Yak-28L
+%Credits: MadCatz
+$004D1D3D 00000001
++Yak-38
+%Credits: MadCatz
+$004D1C1D 00000001
++Yak-141
+%Credits: MadCatz
+$004D1C7D 00000001
++YF-12A
+%Credits: MadCatz
+$004D1B15 00000001
++YF-17
+%Credits: MadCatz
+$004D16F5 00000001
++YF-23A
+%Credits: MadCatz
+$004D1845 00000001
+!!
+!Unlock Special Weapon Codes:
++Aura-Wing
+%Credits: Code Master
+$004D1FD1 00000001
++Axelay
+%Credits: Code Master
+$004D1FDD 00000001
++Block Shooter
+%Credits: Code Master
+$004D1FA1 00000001
++Blue Thunder M-45
+%Credits: Code Master
+$004D1F89 00000001
++Falsion
+%Credits: Code Master
+$004D1F7D 00000001
++Flint-Rock
+%Credits: Code Master
+$004D1FB9 00000001
++Jerry Mouse
+%Credits: Code Master
+$004D1F71 00000001
++Manbou-J
+%Credits: Code Master
+$004D1F95 00000001
++Mx5000
+%Credits: Code Master
+$004D1F65 00000001
++Penta
+%Credits: Code Master
+$004D1FC5 00000001
++Poly
+%Credits: Code Master
+$004D1FE9 00000001
++Super Fighter
+%Credits: Code Master
+$004D1FAD 00000001
++Twinbee
+%Credits: Code Master
+$004D1F59 00000001
++VIC Viper
+%Credits: Code Master
+$004D1F4D 00000001
+!!
+!!
+

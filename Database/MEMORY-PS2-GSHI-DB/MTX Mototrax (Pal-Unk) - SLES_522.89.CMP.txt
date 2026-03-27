@@ -1,0 +1,120 @@
+^3 = NAME: MTX Mototrax (Pal-Unk)
+^2 = GameID: SLES-52289
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F02C3610 002C3613
+$40348DA4 000D0001
+$00000000 00000000
+$20396570 080D2369
+$20348DD0 080E595D
+$20348DD4 8E020060
++(M) Must Be On
+%Credits: Codejunkies
+$F02C36B8 002C36BB
+$40348E6C 000D0001
+$00000000 00000000
+$20396670 080D239B
+$20348E9C 080E599D
+$20348EA0 8E020060
++Alt. Mastercode
+%Credits: RyTheHexer
+$F0110120 0000000E
+!!
++1-Lap Races
+%Credits: RyTheHexer
+$003021C7 000000AC
++Add MTXP (L1+Tri) {<I>Hold L1 And Only Quickly Tap Tri To Add Some MTXP. Pause And Resume The Game Each Time To Check Amount.</I>}
+%Credits: RyTheHexer
+$E002EBFF 00AC6302
+$30500000 007AD218
+$FFFFFF00 00000000
++Always 1St (Races)
+%Credits: RyTheHexer
+$00305EC7 00000014
++AR Max Below 3.14 Fix {<I>You MUST Set This Code ON For The Game To Boot On Version Of AR Max Prior To 3.14.</I>}
+%Credits: Codejunkies
+$2039C340 3C03200F
+$2039C348 8C65FFF8
+$2039C34C 24040079
+$2039C350 24030074
+$2039C354 0000000C
++AR Max Below 3.14 Fix {<I>You MUST Set This Code ON For The Game To Boot On Version Of AR Max Prior To 3.14.</I>}
+%Credits: Codejunkies
+$2039C440 3C03200F
+$2039C448 8C65FFF8
+$2039C44C 24040079
+$2039C450 24030074
+$2039C454 0000000C
++Freeze Lap Timer
+%Credits: RyTheHexer
+$103021F6 00000000
++Freeze Timer (Race)
+%Credits: Codejunkies
+$203021F0 00000000
++Freeze Timer (Race)
+%Credits: Codejunkies
+$20302298 00000000
++Freeze Trick Timer (Off) [L1+Squ]
+%Credits: RyTheHexer
+$D0AC6302 00007BFF
+$00247123 000000AE
++Freeze Trick Timer (ON) [L1+X]
+%Credits: RyTheHexer
+$D0AC6302 0000BBFF
+$00247123 0000008E
++Improved Widescreen {<I>Default WS Implementation Cuts Off Some Top/Bottom Areas. This Works Better.</I>}
+%Credits: RyTheHexer
+$203CB2FC 3FE38E39
++Lap Race
+%Credits: Codejunkies
+$203021C4 AC820034
++Lap Race
+%Credits: Codejunkies
+$2030226C AC820034
++Massive Money (Buy Puma Hoodie #1)
+%Credits: RyTheHexer
+$206220F8 FFF0E4D1
++Massive Trick Points
+%Credits: RyTheHexer
+$0033F376 0000009F
++Max Freestyle
+%Credits: Codejunkies
+$20348E78 3C01000E
+$20348E7C 3C02009C
+$20348E80 AC419AB4
++Max Mtx
+%Credits: Codejunkies
+$20348DA4 3C01000E
+$20348DA8 3C02007B
+$20348DAC AC41D218
++Max Mtx
+%Credits: Codejunkies
+$20348E6C 3C01000E
+$20348E70 3C02007B
+$20348E74 AC41D42C
++Max Score (Freestyle)
+%Credits: Codejunkies
+$20348DB0 3C01000E
+$20348DB4 3C02009C
+$20348DB8 AC4198B4
++No Opponent Races
+%Credits: Codejunkies
+$10305ED0 00000002
++No Opponent Races
+%Credits: Codejunkies
+$10305F78 00000002
++Shocks Always Loaded {<I>Makes It Easier To Do Races And Freestyle Without Having To Load Each Time.</I>}
+%Credits: RyTheHexer
+$202F6BE8 00000000
+$202F6B3C 20030002
+$202F6B40 AE030018
+$002F6C9E 00000004
++Ultra Slow Timer (Freestyle)
+%Credits: Codejunkies
+$20247118 2463FFFF
++Ultra Slow Timer (Freestyle)
+%Credits: Codejunkies
+$20247158 2463FFFF
+!!
+

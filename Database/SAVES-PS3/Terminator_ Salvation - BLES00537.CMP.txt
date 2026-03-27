@@ -1,0 +1,12 @@
+^2 = GameID: BLES00537
+^3 = NAME: Terminator: Salvation
+^4 = FILE: HEADER.BIN
++Update Md5 (required)
+$set range:0x000004,0x00050C
+$set [hash]:MD5
+$write at 0x00050D:[hash]
+^4 = FILE: INFO.BIN
++Update Md5 (required)
+$set range:0x000004,0x0270F5
+$set [hash]:MD5
+$write at 0x0270F6:[hash]

@@ -1,0 +1,13 @@
+^2 = GameID: NPEB00986
+^3 = NAME: Spec Ops: The Line
+^4 = FILE: PAYLOAD0
++Decompress Save (required)
+$Decompress(*, 15)
++Compress Save (required)
+$Compress(*)
++Update Sha1 For Payload0 (required)
+(set range:0x000014,0x0004DB)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

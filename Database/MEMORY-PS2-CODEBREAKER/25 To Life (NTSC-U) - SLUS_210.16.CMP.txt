@@ -1,0 +1,92 @@
+^1 = HASH: C1B141D6
+^3 = NAME: 25 To Life
+^2 = GameID: SLUS_210.16
+!Masters:
++Enable Code (Must Be On) [Read Note]
+%Credits: Code Master>Lajos Szalay
+$905111F8 00832021
+!!
+!Codes:
++Infinite Health
+%Credits: Code Master>Lajos Szalay
+$200C0220 3C0142C8
+$200C0224 54400001
+$200C0228 AC410000
+$200C022C 08040918
+$200C0230 460000C6
+$2010245C 08030088
++Infinite Ammo
+%Credits: Code Master>Lajos Szalay
+$201A4200 00000000
++Max Infinite Ammo
+%Credits: Code Master>Lajos Szalay
+$201A41F8 240203E7
++Extra Ammo
+%Credits: Code Master>Lajos Szalay
+$201A41F8 00451023
++Never Reload
+%Credits: Code Master>Lajos Szalay
+$201A462C 00000000
++Infinite Grenades
+%Credits: Code Master>Lajos Szalay
+$201A7844 00000000
++Always Low Game Time
+%Credits: Code Master>Lajos Szalay
+$2010651C AC800038
++P1 Rapid Fire (All Weapons)
+%Credits: Code Master>Lajos Szalay
+$D070DBC2 0000F7FF
+$201A45DC 00000000
+$D070DBC2 0000FFFF
+$201A45DC AE22042C
++P1 Press R3+Up To Enable Buster Mode
+%Credits: Code Master>Lajos Szalay
+$D070DBC2 0000FFEB
+$2057C08C 00000001
++P1 Press R3+Down To Disable Buster Mode
+%Credits: Code Master>Lajos Szalay
+$D070DBC2 0000FFBB
+$2057C08C 00000000
+!!
+!Unlock Level Codes:
++01-Warehouse
+%Credits: Code Master>Lajos Szalay
+$206CEFF4 00000001
++02-Apartment
+%Credits: Code Master>Lajos Szalay
+$206CEFF8 00000001
++03-Downtown
+%Credits: Code Master>Lajos Szalay
+$206CEFFC 00000001
++04-Culdesac
+%Credits: Code Master>Lajos Szalay
+$206CF000 00000001
++05-Club
+%Credits: Code Master>Lajos Szalay
+$206CF004 00000001
++06-Subway
+%Credits: Code Master>Lajos Szalay
+$206CF008 00000001
++07-Tijuana
+%Credits: Code Master>Lajos Szalay
+$206CF00C 00000001
++08-Casino
+%Credits: Code Master>Lajos Szalay
+$206CF010 00000001
++09-Penthouse
+%Credits: Code Master>Lajos Szalay
+$206CF014 00000001
++10-Prison
+%Credits: Code Master>Lajos Szalay
+$206CF018 00000001
++11-Mall
+%Credits: Code Master>Lajos Szalay
+$206CF01C 00000001
++12-Hacienda/Bonus-Beatdown
+%Credits: Code Master>Lajos Szalay
+$206CF020 00000001
++All Levels
+%Credits: Code Master>Lajos Szalay
+$406CEFF4 000C0001
+$00000001 00000000
+!!

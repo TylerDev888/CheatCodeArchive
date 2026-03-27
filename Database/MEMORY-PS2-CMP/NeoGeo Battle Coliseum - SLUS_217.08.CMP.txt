@@ -1,0 +1,75 @@
+^1 = Hash: B1 59 4A 8E B5 C9 C4 63 B5 44 5F 3B 08 CD 51 FC E0 85 AC C0
+^2 = GameID: SLUS_217.08
+^3 = NAME: NeoGeo Battle Coliseum
+!Masters:
++Enable Code (MUST BE ON)
+$90109258 0C04243E
+Enable Code (MUST BE ON)
+$F0112948 0011294B
+Enable Code (MUST BE ON)
+$0E3C7DF2 1456E7A5
+$F0112948 0011294B
+!!
+!Jokers:
++Player 1 Controller
+$018270C2 0000[Joker:PS2]
+!!
++Shrink Screen
+%Credits: Lee4
+$00385918 00000001
++Infinite Time
+%Credits: Lee4
+$00385CD8 0000002C
++Unlock All Characters
+%Credits: Lee4
+$20385904 FFFFFFFF
+$20385908 FFFFFFFF
++100% Complete
+%Credits: Lee4
+$403928C0 00200001
+$FFFFFFFF 00000000
+!Player:
+!Player 1:
++Inf Power Gauge (both Character)
+%Credits: Lee4
+$00439A36 000000FF
+!Character 1:
++Inf HP
+%Credits: Lee4
+$20439AE8 00E000E0
++Inf Guard
+%Credits: Lee4
+$00439AEE 000000E0
+!!
+!Character 2:
++Inf HP
+%Credits: Lee4
+$20439B04 00E000E0
++Inf Guard
+%Credits: Lee4
+$00439B0A 000000E0
+!!
+!!
+!Player 2:
++No Power Gauge (both Character)
+%Credits: Lee4
+$00439BEA 00000000
+!Character 1:
++No HP
+%Credits: Lee4
+$D0439C9C 000000E0
+$20439C9C 00010001
++P2 No Guard
+%Credits: Lee4
+$00439CA2 00000000
+!Character 2:
++No HP
+%Credits: Lee4
+$D0439CB8 000000E0
+$20439CB8 00010001
++No Guard
+%Credits: Lee4
+$00439CBE 00000000
+!!
+!!
+!!

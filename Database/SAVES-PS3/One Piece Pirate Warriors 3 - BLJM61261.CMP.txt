@@ -1,0 +1,38 @@
+^2 = GameID: BLJM61261
+^3 = NAME: One Piece Pirate Warriors 3
+^5 = APCRED: From savedata.jp and made by JorgeFFC
+^4 = FILE: DATA.BIN
+!Basic Or Miscelaneous Codes:
++Max Beli
+$2000C074 3B9AC9FF
+$2000C078 0292753C
++Rare Medals-get Some Of The Gold
+$41006CB0 00000101
+$40B10030 00000000
++99 Of All Standart Medals
+$41005BA0 00006363
+$40410030 00000000
++Max Exp All Chars
+$420000F0 0098967F
+$402F01F0 00000000
+!Character Related Codes:
++Max Hp All Chars-resets To Normal On Level Up
+$410000F4 00002710
+$402F01F0 00000000
++Max Attack All Chars-resets To Normal On Level Up
+$410000F6 000003E8
+$402F01F0 00000000
++Max Def All Chars-resets To Normal On Level Up
+$410000F8 000003E8
+$402F01F0 00000000
++Max Special Bars All Chars-resets To Normal On Level Up
+$400000FA 00000004
+$402F01F0 00000000
++All Characters Lv. 100-non Changes On Their Stats
+$400000FB 00000063
+$402F01F0 00000000
++All Chars 6 Skill Slots Opened
+$400000FC 00000006
+$402F01F0 00000000
+!!
+!!

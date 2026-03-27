@@ -1,0 +1,19 @@
+^2 = GameID: CUSA03274
+^3 = NAME: Fate/Extella: The Umbral Star
+^SECONDLAYER: YES(CRC32)
+^4 = FILE: FESAVSYSTEM.bin\FESAVSYSTEM.bin
++Max Bond Level For All Characters
+%Credits:Zeraf3000 	
+$420115D0 0000001E
+$401F0104 00000000
+$420115D4 000004C1
+$401F0104 00000000
++Max Upgrade Parts
+%Credits:Zeraf3000 		
+$20009398 0000270F
+$2000939C 0000270F
+$200093A0 0000270F
++Super Level For Skills In Inventory{<p>{<strong>note</Strong>:</P><div Class="note"><p>this One Will Turn Any Skill You Have In Inventory Into A Level +99 Skill, Which In Theory Should Give Your Skills Super Effects. Honestly, Some Effects Kick In Better Than Others, And Not All Effects Are Worth It. Will Have To Re Apply The Code When Getting New Skills </P></Div>}
+%Credits:Zeraf3000 
+$410093AC 00000063
+$405C0010 00000000

@@ -1,0 +1,54 @@
+^3 = NAME: Charlie's Angels (Pal-Unk)
+^2 = GameID: SLES-51750
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01B5704 001B5707
+!!
++Infinite Health
+%Credits: Codejunkies
+$201674B0 00000000
++Infinite Lives
+%Credits: Codejunkies
+$10208748 00000063
+$1020874C 00000063
+!Lives Codes:
++Infinite Angel Enhanced Time
+%Credits: Codejunkies
+$1020873A 00002000
++Never Have More Than 1 Life
+%Credits: Codejunkies
+$E0010001 30208748
+$10208748 00000001
+$E0010001 3020874C
+$1020874C 00000001
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E0010002 30208748
+$10208748 00000002
+$E0010002 3020874C
+$1020874C 00000002
++Never Have More Than 5 Lives
+%Credits: Codejunkies
+$E0010005 30208748
+$10208748 00000005
+$E0010005 3020874C
+$1020874C 00000005
++Never Have More Than 10 Lives
+%Credits: Codejunkies
+$E001000A 30208748
+$10208748 0000000A
+$E001000A 3020874C
+$1020874C 0000000A
++Unlock All Game Videos
+%Credits: Codejunkies
+$2017A040 2413007F
++Unlock All Movie Videos
+%Credits: Codejunkies
+$20179CDC 2407007F
++Unlock All Photos
+%Credits: Codejunkies
+$2017A66C 2414007F
+!!
+!!
+

@@ -1,0 +1,16 @@
+^3 = NAME: Sanyo Pachinko Paradise 10 (Ntsc-J)
+^2 = GameID: SLPS-20375
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$901DF060 0C077BC0
+!!
++Unlock Secret Menu And Options
+%Credits: punk7890
+$202D2038 FFFFFFFF
+$202D203C FFFFFFFF
+$202D2048 FFFFFFFF
+$402D2048 00030001
+$FFFFFFFF 00000000
+!!
+

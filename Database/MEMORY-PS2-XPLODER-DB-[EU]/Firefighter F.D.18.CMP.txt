@@ -1,0 +1,69 @@
+^3 = NAME: Firefighter F.D.18
+!Masters:
++Mastercode
+%Credits: Xploder
+$902AD4E8 0C0A93C6
+$200C2000 00000000
+$200C2004 00000000
+$200C2008 03E00008
+$200C200C 24040005
+$20183454 0C030800
+!!
+!Unlimited:
++HP
+%Credits: Xploder
+$200C2004 ACA30028
++Stamina
+%Credits: Xploder
+$200C2000 ACA30024
++Survivor HP
+%Credits: Xploder
+$201B6D14 00000000
++Firefighting Support
+%Credits: Xploder
+$2012FE24 24020003
+$2012FE28 AC620054
+!!
+!Unlimited Items:
++First Aid Kits SP
+%Credits: Xploder
+$005A52F9 00000063
++First Aid Kits
+%Credits: Xploder
+$005A52FA 00000063
++Impulse Tanks
+%Credits: Xploder
+$005A52FC 00000063
++Bombs
+%Credits: Xploder
+$005A52FD 00000063
++Fire Extinguishers
+%Credits: Xploder
+$005A52FE 00000063
++Keys
+%Credits: Xploder
+$005A52FF 00000063
++Keycards
+%Credits: Xploder
+$005A5300 00000063
++Drinks
+%Credits: Xploder
+$005A5301 00000063
+!!
+!Have:
++Hose
+%Credits: Xploder
+$005A5302 00000001
++Impulse Gun
+%Credits: Xploder
+$005A5303 00000001
++Axe
+%Credits: Xploder
+$005A5304 00000001
++Easy Giant Fires
+%Credits: Xploder
+$2017E7A8 00421023
++Stopped Timer
+%Credits: Xploder
+$2011E008 24003634
+!!

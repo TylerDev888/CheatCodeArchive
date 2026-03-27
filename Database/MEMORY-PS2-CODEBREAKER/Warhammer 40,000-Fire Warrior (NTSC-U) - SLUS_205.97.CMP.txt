@@ -1,0 +1,75 @@
+^1 = HASH: 2253465E
+^3 = NAME: Warhammer 40,000-Fire Warrior
+^2 = GameID: SLUS_205.97
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: CMX>GMO>Lajos Szalay
+$F0100008 001306DF
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: CMX>GMO>Lajos Szalay
+$901306DC 0C048A96
+!!
+!Codes:
++NTSC 2 PAL
+%Credits: CMX>GMO>Lajos Szalay
+$20102650 24120003
++Y Fix2
+%Credits: CMX>GMO>Lajos Szalay
+$00102A14 000000??
+$00102AC8 000000??
++X Fix2
+%Credits: CMX>GMO>Lajos Szalay
+$10102A18 00000???
+$10102ACC 00000???
++Disable FMV
+%Credits: CMX>GMO>Lajos Szalay
+$2010C880 24020001
++Infinite Health
+%Credits: CMX>GMO>Lajos Szalay
+$2018B23C 8E010000
+$2018B240 24020063
+$2018B250 AC2201C8
++Max Ammo Clips
+%Credits: CMX>GMO>Lajos Szalay
+$2018E34C 240203E7
++Activate Cheat Modifier
+%Credits: CMX>GMO>Lajos Szalay
+$20406990 000000??
+!!
+!Activate Cheat Codes:
++Invulnerable
+%Credits: CMX>GMO>Lajos Szalay
+$10189D26 00001000
+$1018F7FA 00001000
++1-Hit Kills
+%Credits: CMX>GMO>Lajos Szalay
+$1018F596 00001000
++Infinite Ammo
+%Credits: CMX>GMO>Lajos Szalay
+$101E5A32 00001000
+$101E5C9A 00001000
+$1020229E 00001000
++Flipy (Inverted Controller)
+%Credits: CMX>GMO>Lajos Szalay
+$20198A08 00000000
+!!
+!Alternate Activate Cheat Codes (Version 7.0 Or Higher Needed!):
++Infinite Ammo
+%Credits: CMX>GMO>Lajos Szalay
+$70406990 00000002
++Invunerable
+%Credits: CMX>GMO>Lajos Szalay
+$70406990 00000004
++1 Hit Kill
+%Credits: CMX>GMO>Lajos Szalay
+$70406990 00000008
++Flipy
+%Credits: CMX>GMO>Lajos Szalay
+$70406990 00000020
+!!
+^6 = MODS:
+Quantity Digits to Accompany Activate Cheat Modifier Code
+02 - Infinite Ammo
+04 - Invunerable
+08 - 1 Hit Kill
+20 - Flipy

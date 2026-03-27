@@ -1,0 +1,13 @@
+^3 = NAME: Monochrome Factor: Cross Road (Ntsc-J)
+^2 = GameID: SLPM-55103
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9010FD98 0C043F0E
+!!
++Replace New Game With Debug Menu
+%Credits: punk7890
+$D0C1D6E4 00000001
+$10C1D6E4 00000004
+!!
+

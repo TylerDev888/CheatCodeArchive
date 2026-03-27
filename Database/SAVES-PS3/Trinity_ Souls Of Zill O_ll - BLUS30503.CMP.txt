@@ -1,0 +1,41 @@
+^2 = GameID: BLUS30503
+^3 = NAME: Trinity: Souls Of Zill O'll
+^5 = APCRED: Patch created by haxxxen - 2013-02-18
+(From CodeMastersProject GameGenie save hack thread and Cheats created by krustytoe)
+(It works fine for BLUS30503/BLES01184/BLJM60212)
+(Path: BLES01184-PLAY01)
+^4 = FILE: PLAY.DAT
++Max Money
+$20000058 0098967F
++Max Sp
+$2000006C 0001869F
++Areus - Hp
+$10000072 0000270F
++Areus - Atk
+$10000076 000003E7
++Areus - Def
+$1000007A 000003E7
++Areus - Spr
+$1000007E 000003E7
++Areus - Mag
+$10000082 000003E7
++Dagda - Hp
+$1000024A 0000270F
++Dagda - Atk
+$1000024E 000003E7
++Areus - Def
+$10000252 000003E7
++Dagda - Spr
+$10000256 000003E7
++Dagda - Mag
+$1000025A 000003E7
++Selene - Hp
+$10000422 0000270F
++Selene - Atk
+$10000426 000003E7
++Selene - Def
+$1000042A 000003E7
++Selene - Spr
+$1000042E 000003E7
++Selene - Mag
+$10000432 000003E7

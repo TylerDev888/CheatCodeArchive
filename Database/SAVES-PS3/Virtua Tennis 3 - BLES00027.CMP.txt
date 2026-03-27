@@ -1,0 +1,11 @@
+^2 = GameID: BLES00027
+^3 = NAME: Virtua Tennis 3
+^4 = FILE: SYSTEM_L.DAT
++Update Dwadd For System_l.dat (required)
+$set [csum]:0
+(set [csum]:dwadd(0x000000,0x01CEEF))
+$set pointer:eof-4
+$set [csum]:dwadd(0x000000,pointer)
+(write at 0x01CEF0:[csum])
+$set pointer:eof-3
+$write next (0):[csum]

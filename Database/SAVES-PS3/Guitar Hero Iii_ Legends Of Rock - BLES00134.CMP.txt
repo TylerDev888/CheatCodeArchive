@@ -1,0 +1,11 @@
+^2 = GameID: BLES00134
+^3 = NAME: Guitar Hero III: Legends of Rock
+^4 = FILE: TOC.DAT
++Update Crc32 For Toc.dat (required)
+(set range:0x000004,0x002137)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$set [hash]:xor:FFFFFFFF
+$write at 0x000000:[hash]
+^4 = FILE: S000.D

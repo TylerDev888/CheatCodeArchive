@@ -1,0 +1,168 @@
+^3 = NAME: Sonic Gems Collection (Ntsc-J)
+^2 = GameID: SLPM-66074
+!Master Codes:
++(M) Enable Code
+%Credits: lee4
+$9010F744 00832021
++Enable Code (Must Be On)
+%Credits: Skiller
+$9010F950 0C043DFC
+$200A0000 3C010032
+$200A0004 8C21C2E0
+$200A0008 10200022
+$200A0010 24026EE0
+$200A0014 00220822
+$200A0098 03E00008
+$2010FE24 08028000
++Master Code {<I>For The Unlock Codes, Mega Drive And Game Gear Codes</I>}
+%Credits: lee4
+$902AFC58 0C0ABEBE
++Master Code
+%Credits: lee4
+$901BA1B8 0C06E816
+!!
+!Sonic CD Codes:
++Inf Rings
+%Credits: 47iscool
+$21043F90 000003E7
++Inf Time
+%Credits: 47iscool
+$2104A939 00000000
++0 Ufo's Remaining (Instant Win UFO Mini-Game)
+%Credits: 47iscool
+$21020060 00000000
++Inf HP/Coins
+%Credits: Skiller
+$200A001C 24020099
+$200A0020 AC2200A0
++Inf Lives
+%Credits: Skiller
+$200A0024 24020003
+$200A0028 A0220058
++Inf Time UFO Mini-Game
+%Credits: 47iscool
+$21020070 000003E7
+!!
+!Sonic R Codes:
++Always Have 999 Rings
+%Credits: lee4
+$104EFFD0 00000999
++Jump In Mid-Air Sonic {<I>Not Tested On Any Other Characters</I>}
+%Credits: 47iscool
+$204F004C 000A0000
++Place 1St (In Grand Prix Race)
+%Credits: lee4
+$004F0014 00000001
++Stop Timer On Race Start
+%Credits: 47iscool
+$D04F0008 0000000A
+$2014D3D4 00000000
+$D04F0050 00000006
+$2014D3D4 0C04E560
++Walk Through All Walls And Barriers And On Air (Hold Circle) {<I>The Outside Barriers Are The Also The Same Ones That Effect If The Character Drops Or Not</I>}
+%Credits: 47iscool
+$201541DC 860200A0
+$20153D90 00C99021
+$E002DFFF 00BBDF02
+$20153D90 1000008F
+$201541DC 10000014
++Walk Through Walls (Hold Circle) {<I>This Code Let&#39;S You Go Through All Walls Except The Barriers Way Out That Keep You Inside The Course.</I>}
+%Credits: 47iscool
+$20153D90 00C99021
+$D0BBDF02 0000DFFF
+$20153D90 1000008F
+!!
+!Sonic the Fighters:
++P1 Character Modifier {<I>Playable Characters 0000=Sonic 0101=Tails 0202=Amy 0404=Fang 0505=Bark 0606=Knuckles 0707=Espio 0A0A=Bean 1010=Super Sonic Unstable Characters 0303=Metal Sonic 0B0B=Eggman</I>}
+%Credits: lee4
+$613F42E8 00000?0?
+$00010001 00010EB0
++P1 Character Modifier
+%Credits: lee4
+$0188BE70 00000?0?
++P1 Inf Barrier
+%Credits: lee4
+$0188C930 00000005
+$0188C934 00000005
++P1 Inf Barrier
+%Credits: lee4
+$613F42E8 00000009
+$00000001 00011970
+$613F42E8 00000009
+$00000001 00011974
++P1 Inf HP
+%Credits: lee4
+$0188BE6C 0000008C
+$0188C392 0000008C
++P1 Inf HP
+%Credits: lee4
+$613F42E8 0000008C
+$00000001 00010EAC
+$613F42E8 0000008C
+$00000001 000113D2
++P1 Joker
+%Credits: lee4
+$E002???? 01FA1F42
++P2 Character Modifier {<I>Playable Characters 0000=Sonic 0101=Tails 0202=Amy 0404=Fang 0505=Bark 0606=Knuckles 0707=Espio 0A0A=Bean 1010=Super Sonic Unstable Characters 0303=Metal Sonic 0B0B=Eggman</I>}
+%Credits: lee4
+$613F42E8 00000?0?
+$00010001 000142B0
++P2 Character Modifier
+%Credits: lee4
+$0188F270 00000?0?
++P2 Joker
+%Credits: lee4
+$E002???? 01FA2042
++P2 No Barrier
+%Credits: lee4
+$0188FD30 00000000
+$0188FD34 00000000
++P2 No Barrier
+%Credits: lee4
+$613F42E8 00000000
+$00020001 00014D70
+$613F42E8 00000000
+$00000001 00014D74
++P2 No HP
+%Credits: lee4
+$0188F26C 00000000
+$0188F792 00000000
++P2 No HP
+%Credits: lee4
+$613F42E8 00000000
+$00000001 000142AC
+$613F42E8 00000000
+$00000001 000147D2
++Sonic The Fighters Sega Model 2 Pointer {<I>?????=Sega Model 2 Emulator Code<Br>??=Value</I>}
+%Credits: lee4
+$613F42E8 000000??
+$00000001 000?????
+!!
+!Unlock Game codes:
++Unlock Bare Knuckle
+%Credits: lee4
+$01FC5D74 00000001
++Unlock Bare Knuckle II
+%Credits: lee4
+$01FC5D78 00000001
++Unlock Bare Knuckle III
+%Credits: lee4
+$01FC5D7C 00000001
++Unlock Bonanza Bros.
+%Credits: lee4
+$01FC5D70 00000001
++Unlock Vectorman
+%Credits: lee4
+$01FC5D68 00000001
++Unlock Vectorman 2
+%Credits: lee4
+$01FC5D6C 00000001
+!!
++Boot Megadrive In Fullscreen
+%Credits: lee4
+$21ED8104 00000000
++Enable English Mode
+%Credits: lee4
+$20103AA0 24020001
+!!
+

@@ -1,0 +1,237 @@
+^2 = GameID: CUSA34384, CUSA34386, CUSA34388, CUSA34390, CUSA34392, CUSA34394
+^3 = NAME: God Of War Ragnarok
+^4 = FILE: GOWRSAVE[0-9]+
++Item Replace
+$80010008 [Item<Item you Have>] 00000000
+$A8000000 00000008
+$[Item<Item You Want>]
++Item Quantity
+$80010008 [Item] 00000000
+$28000008 [AMOUNT:05F5E0FF:HEX:BIG<Quantity>]
++Item Replace and Quantity (Can use this to move Things from Base Game to DLC to)
+$80010008 [Item<Item you Have>] 00000000
+$A8000000 00000008 
+$[Item<Item You Want>]
+$28000008 [AMOUNT:05F5E0FF:HEX:BIG<Quantity>]
++Increase Dew Stats (Need to have one Dew for code to work)
+$80010008 [Dew] 00000000
+$28000008 [AMOUNT:05F5E0FF:HEX:BIG<1 Equal 2 so 500 in save is 1000 in game>]
++Add Item To Blacksmith Chest(Need to have got at least 1 item from it before)
+$80010008 B0BDD5E2
+$372DB672 00000000
+$D8000008 03020000
+$A8000014 0000000C
+$[Item<Item You Want>]
+$[AMOUNT:05F5E0FF:HEX:BIG<Quantity>] 00000000
++Change Difficulty (Re-save to see change) provided by xxunkn0wnxx$0001
+$95000000 0002F440
+$D8000000 01000002
+$18000002 0000[Diff]
+^6 = MODS:
+[Item]
+Value>Item Name>Type
+5D3C85E35690430B	Kvasir's Poems	Artifacts
+DB37054F27122953	Things Left Behind	Artifacts
+C69E9317E4D7C5D9	Tributes to Freyr	Artifacts
+3BEE50B4ECB3621E	Divine Ashes	Currency
+9E5240D27406E85A	Hacksilver	Currency
+FC3109608971D048	Chaos Crest	Currency - DLC Valhalla
+74356ADC98B45166	Divine Triumph	Currency - DLC Valhalla
+BF6CA471D73D0B11	Draupnir Crest	Currency - DLC Valhalla
+27D402DDDEBD7993	Fleeting Echoes 	Currency - DLC Valhalla
+43638B838E5D35F5	Leviathan Crest	Currency - DLC Valhalla
+C72D3884CDCD71E3	Mastery Seal	Currency - DLC Valhalla
+3BD4A8D01459A2C6	Sanctuary Barrier Key	Currency - DLC Valhalla
+F75BFB21932F9E55	Simple Resurrect Stone 	Resources - DLC Valhalla
+AC284417EB53989C	Spirit Seal	Currency - DLC Valhalla
+1E42A141FB1AF06C	Horn Of Blood Mead	Hero Upgrade
+4956A141FB1AF06C	Horn Of Blood Mead	Hero Upgrade
+6F5EA141FB1AF06C	Horn Of Blood Mead	Hero Upgrade
+785AA141FB1AF06C	Horn Of Blood Mead	Hero Upgrade
+24F422E8C7768E63	Iðunn Apples	Hero Upgrade
+35F022E8C7768E63	Iðunn Apples	Hero Upgrade
+C20F22E8C7768E63	Iðunn Apples	Hero Upgrade
+D30B22E8C7768E63	Iðunn Apples	Hero Upgrade
+D6833365C3296802	Maximum Health Increased	Hero Upgrade
+1AEEE86352596537	Maximum Rage Increased	Hero Upgrade
+D309D7D9FF6A3227	Maximum Health Upgrade	Hero Upgrade - DLC Valhalla
+22C08977652BDFC5	Maximum Rage Upgrade	Hero Upgrade - DLC Valhalla
+CB8B5CCFC17F4E15	Alfheim Barrens Key Half	Key Item
+3832900B4A8A614B	Beserkers Rage Stone	Key Item
+0F293CEC4D3EDEEE	Consul's Journal	Key Item
+28D9B3C5D702057B	Inert Hilt Of Skofnung	Key Item
+3363EA24D97F3F10	Jotunheim Fruit	Key Item
+BF433D5C70CAD2D5	Jötunheim Fruit	Key Item
+B0DF6FD3E1E802C1	Lindwyrm Trap	Key Item
+200CF7F34D47ACFA	Lúnda's Broken Belt	Key Item
+E4DE88F21BE3C5B0	Lúnda's Broken Bracers	Key Item
+54AF6282A1E240A8	Lúnda's Broken Cuirass	Key Item
+B7F497AD9D6D81E6	Muspelheim Seed half MAY CAUSE ISSUES	Key Item
+D72ACD689A563B23	Mysterious Orb	Key Item
+DA0A900B4A8A614B	Simple Resurrection Stone	Key Item
+68E507E71AB00187	Watchtower Key	Key Item
+5CE267B4F928D0A1	Atreus XP	Player
+43524FDA04D077E5	Guest XP	Player
+8A9A9B831CF67C9C	Kratos XP	Player
+B284CBA62198212D	Asgardian Ingot	Resources
+970DC382A06A48A2	Beast Bone	Resources
+475EF730B4F1A41E	Beastscraps	Resources
+DEC3BBB81220DFEA	Blazing Embers	Resources
+3645A69502105B4F	Bonded Leather	Resources
+78CFDA8AABBC42F6	Crystalline Fragment MAY CAUSE ISSUES	Resources
+02E9133367C064DB	Crystalline Shard MAY CAUSE ISSUES	Resources
+8FE2D3A5AD8D212D	Dwarven Steel	Resources
+B3CAAF0786CD1280	Forged Iron	Resources
+9196C7D1154E0234	Fortified Remnant	Resources
+3E5F347E19054B1F	Gilded Coin	Resources
+E156ACCBD959C3FA	Gleaming Crystal	Resources
+007DC2CC319D3981	Glowing Embers	Resources
+6E71A12DA8C86401	Hardened Remnants	Resources
+7BDAC9C20211CB56	Honed Metal	Resources
+9BAAA724E1465DC6	Hunters Brand	Resources
+B0EE497425BACA56	Luminous Alloy	Resources
+8030774CEFD65A11	Meal of Comfort	Resources
+2A48E02008676B08	Nars Cup	Resources
+C392C00CF0C97CD3	Petrified Bone	Resources
+06FF55FB8A80D52D	Purified Crystalline	Resources
+7E3FBE3EB167B14F	Rawhide	Resources
+6BE8504558A8924E	Shining Crystal	Resources
+A2E1FC842BC88DD4	Skap Slags	Resources
+08B0896D5022C3DB	Slag Deposits	Resources
+EC0760E38454AF49	Slumbering Stone	Resources
+BDAA90B980EFB4E2	Smoldering Embers	Resources
+49DE76FCFC44ED35	Sparkling Crystal	Resources
+341A27856DF97DD3	Stonewood	Resources
+3B3EC315FC23837F	Tempered Remnants	Resources
+C3069F213E123374	Whispering Slab	Resources
+17120296DA8C2375	Celestial Fossil	Unique Resources
+5602C80740A65E0F	Crackle of Bilskirnir	Unique Resources
+CB6BDCBDE7D26967	Dragon Claw	Unique Resources
+5E691E6892AFA3F9	Dragon Tooth	Unique Resources
+25F2E8A649EC34CA	Dust Of Realms	Unique Resources
+96E4BC8E52D632CA	Essence of Hel	Unique Resources
+A0D272E258881094	Forsaken Breath	Unique Resources
+78A361973C477EC8	Lindwyrm Scales	Unique Resources
+D934B539A09EE810	Mountain Root	Unique Resources
+C7074EF212C2E464	Nidavellir Ore	Unique Resources
+44DCEE2E9DF4ADBC	Shattered Rune	Unique Resources
+CB21104C960A99A3	Skirnir's Gambanteinn	Unique Resources
+C0295F83141566F7	Sovereign Coals	Unique Resources
+CB0E900B4A8A614B	Superior Resurrection Stone	Unique Resources
+BAC82A7FF4FF0D60	Svefnthorn	Unique Resources
+6A13DB1C163C952D	Yggdrasil's Dew of Cooldown	Unique Resources
+418F903C792C6B9C	Yggdrasil's Dew of Defense	Unique Resources
+F3CBC3D285BFB35D	Yggdrasil's Dew of Luck	Unique Resources
+623486F325B97A3A	Yggdrasil's Dew of Runic Power	Unique Resources
+CC1B3E5C878842B3	Yggdrasil's Dew of Strength	Unique Resources
+6D92A12B3DC4A427	Yggdrasil's Dew of Vitality	Unique Resources
+888DE11A0DA6CFDC	Chaos Flame	Weapon Upgrades
+FA7488E6BE52650B	Chaos Spark	Weapon Upgrades
+FEABDABCB76821BB	Folkvangr Whetstone	Weapon Upgrades
+EDB4476E71735CC3	Frozen Flame	Weapon Upgrades
+A61FF062F9E51FEB	Frozen Spark	Weapon Upgrades
+29AD79C2750B0E71	Gale Flame	Weapon Upgrades
+2F9A0C7119836727	Gale Spark	Weapon Upgrades
+4A6D4AF7E1AB5EFE	Jewel Of Yggdrasil	Weapon Upgrades
+1C580952E9B2F632	Primordial Flame	Weapon Upgrades
+15128A3232613657	Ydalir Timber	Weapon Upgrades
+001528B6945D46D5	Hilt of Hofud	Key Item
+17C21B5C755E08B8	Guiding Light Armour	(Progress the Story)
+2A1AFB9F8EC2D0D8	Lower Realm Tablets	Key Item
+2A6991B987CAD8A7	Axe	LAMS ID nil Not Found! (Progress the story)
+2BD0858D8FA926AC	Health Looter Upraded	Key Items
+37558E101B5BA540	Hilt of Gram	Key Item
+3A530264A0B4E0EE	Talisman of Meign	ZUnknown - DLC Valhalla
+3B6D91B987CAD8A7	Axe	LAMS ID nil Not Found! (Progress the story)
+3CFED15F1234CCB3	Gullinbursti's Armour	LAMS ID nil Not Found! (Complete Rage Mastery II)
+4002C4385C1ECDF9	Light Runic Upgrade +5	Key Items
+4092CEA3142D0E96	Pot Breaker	Key Item
+46E8653420CDBCD3	Huldra Project #9	Key Item
+487191B987CAD8A7	Axe	LAMS ID nil Not Found! (Progress the story)
+4F559D61B074C8F2	Critical Health Regen Upgrade	Key Items
+520E4F4AF9A6A58F	Lunda's Lost Armour	(Complete Mastery Tasks)
+57B44305A0458FF5	Black Bear Armour	(Found in a chest within the Midgard Sanctuary)
+597591B987CAD8A7	Axe	LAMS ID nil Not Found! (Progress the story)
+5A7C11F3BFB3E1B3	Zeus Armour	(Progress the Story)
+5F22E09E0001E4E6	Upper Realm Tablets	Key Item
+6670FAA11266C7EC	Lustrous Armour	LAMS ID nil Not Found! (Found in a chest within the Jotunheim Sanctuary)
+66874E137F5A49E3	broken	ZUnknown - DLC Valhalla
+6DB76E4051B19926	Spear Attunement	Key Item
+700EF1BB4AD3D8ED	Reroll Token	Key Item
+70E24EE52E300A11	Blades Attunement	Key Items
+7206CBF647C6DEF1	Offerings	Key Items
+767991B987CAD8A7	Axe	LAMS ID nil Not Found! (Progress the story)
+812A62C0F7FB54D5	Wild Howl Armour	LAMS ID nil Not Found! (Purchased with a Draupnir Crest)
+8452F792FA0689A1	Twilight Stone Armour	LAMS ID nil Not Found! (Purchased with a Leviathan Crest)
+8B0237B46FE2111B	Spartan Armour	(Complete Rage Mastery I)
+935AB9ACFAE6B6A1	Starting Resurrection Stones	Key Items
+972A3E5D75B2893C	broken	ZUnknown - DLC Valhalla
+A97ED300FB4F6BD9	Starting Reroll Tokens	Key Items
+B2C60FA764DF14D8	Hilt of Dainsleif	Key Item
+B3D69E6FE7C3CAA8	Axe Attunement	Key Item
+B4B976DA5892D856	Raven Tears Armour	(Purchased with a Leviathan Crest)
+B78AB75E2FF4F4C1	Glyph Reward Offerings	Key Items
+BB118CA46E14A150	Drake Wrapped Armour	LAMS ID nil Not Found! (Found in a chest within the Alfheim Sanctuary)
+BCC137008A2562B9	Mótsognir's Call	ZUnknown - DLC Valhalla
+C0529F37D308254A	Dagr Armour	LAMS ID nil Not Found! (Complete Health and Rage Mastery)
+C1C6F66A1C4BB6AF	Heavy Runic Upgrade +5	Key Items
+C55AC4A31F2E19A6	broken	ZUnknown - DLC Valhalla
+C8093A35088864B7	broken	ZUnknown - DLC Valhalla
+C95AD13CC71DDCBC	Chest Breaker	Key Item
+D12440847A7A792D	Nidavellir's Finest Armour	(Found in a chest within the Svartelheim Sanctuary)
+D36E010F530C1DED	Hilt of Hrotti	Key Item
+D462E79F4430DF5A	Dreki Braided Armour	LAMS ID nil Not Found! (Complete Stat Mastery I)
+D6B045636968DA11	Valhalla's Chosen Slain	Key Item
+D798366B0F2148E9	Hilt of Ridill	Key Item
+D8B113CA35FE9AB2	Radiance Armour	(Found in a chest within the Alfheim Sanctuary)
+DA1153E30C91BACA	Glaive of Dodher	Key Item
+DCC2B7FB0A2D5667	Hilt of Tyrfing	Key Item
+EAFEA14BE154BB20	Hilt of Angrvadall	Key Item
+EF72C06F32CA1D78	broken	ZUnknown - DLC Valhalla
+F1992038E07D2B44	Echoes	Key Item
+F1C8C35A78489614	Andvari's Majestic Armour	LAMS ID nil Not Found! (Complete Permanent Upgrade Mastery)
+F3955C9049635FD7	Mastery Seals	Key Items
+F43385A13B93E8CE	Spirit Seals	Key Items
+FD740DB486683AF5	Hunter's Armour	(???)
+FF34F2FCC11BE9BB	Hilt of Forsbrandor	Key Item
+FFF8EF4696246C94	Fate Breaker Armour	(Found in a chest within the Asgard Sanctuary)
+337012BC0B6D444F	Lore Scroll	ZUnknown - Main Game
+3539893C4CE354CE	broken	ZUnknown - Main Game
+3AD9A471B103AB1B	Lore Entry/Marker	ZUnknown - Main Game
+446C12BC0B6D444F	Lore Scroll	ZUnknown - Main Game
+51E7DAEDC4E55846	broken	ZUnknown - Main Game
+5A52A141FB1AF06C	Horns of Blood Mead	ZUnknown - Main Game
+6045102A8E175CE0	East Desert Key	Key Item
+71FD1A862A39135A	Hammer of the Revolution	Key Item
+732C5F15B5E898AC	Atreus XP	Use If you play as Kratos
+888BC1E96F369A24	broken	ZUnknown - Main Game
+8B47085D5573FB28	The Eyes of Odin?	ZUnknown - Main Game
+8E0A06AAE66DDA61	Lore Scroll	ZUnknown - Main Game
+B31B6B0CCD396B77	Yggrasil Leaves	Key Item
+B94BD388D691C0CA	broken	ZUnknown - Main Game
+BCB647FB8D3961E6	Mystical Heirloom	Key Item
+BF0606AAE66DDA61	Lore Scroll	ZUnknown - Main Game
+C700EF05F08CAB7B	broken	ZUnknown - Main Game
+C80BD32AAF935F46	broken	ZUnknown - Main Game
+F10322E8C7768E63	Idunn Apple	ZUnknown - Main Game
+F1A8CB4E7A6F6EDC	Norn Thread	Key Item
+F54355FA3AB3C7FF	Aegir's Gold	Crafting Component
+F59B4F2298E60565	Pouch of Yggdrasil Seeds	Key Item
+[/Item]
+[Diff]
+Value>Difficulty
+0100	give me story
+0000	grace
+0001	balance
+0002	no mercy
+0003	give me god of war
+[/Diff]
+[Dew]
+Value>Dew
+6A13DB1C163C952D	Yggdrasil's Dew of Cooldown
+418F903C792C6B9C	Yggdrasil's Dew of Defense
+F3CBC3D285BFB35D	Yggdrasil's Dew of Luck
+623486F325B97A3A	Yggdrasil's Dew of Runic Power
+CC1B3E5C878842B3	Yggdrasil's Dew of Strength
+6D92A12B3DC4A427	Yggdrasil's Dew of Vitality
+[/Dew]

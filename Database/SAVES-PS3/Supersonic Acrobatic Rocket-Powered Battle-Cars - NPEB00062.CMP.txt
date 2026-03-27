@@ -1,0 +1,1707 @@
+^2 = GameID: NPEB00062
+^3 = NAME: Supersonic Acrobatic Rocket-Powered Battle-Cars (PSN)
+^5 = APCRED: By DarkOverlord
+^4 = FILE: PAYLOAD
+!Yellow:green = Profile, Red = Category, Blue = Level:
+!Green:---profile 1---:
+!!
+!Red:challenges (p1):
+!!
+!Blue:scavenger (1-1) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-180):19
++2 Stars
+$search 0x01470CA000:6
+$write next (-180):23
++3 Stars
+$search 0x01470CA000:6
+$write next (-180):28
++4 Stars
+$search 0x01470CA000:6
+$write next (-180):31
++5 Stars
+$search 0x01470CA000:6
+$write next (-180):32
+!!
+!Blue:striker (1-2) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-176):0A
++2 Stars
+$search 0x01470CA000:6
+$write next (-176):0E
++3 Stars
+$search 0x01470CA000:6
+$write next (-176):0F
++4 Stars
+$search 0x01470CA000:6
+$write next (-176):14
++5 Stars
+$search 0x01470CA000:6
+$write next (-176):16
+!!
+!Blue:powerslide (1-3) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-172):08
++2 Stars
+$search 0x01470CA000:6
+$write next (-172):0A
++3 Stars
+$search 0x01470CA000:6
+$write next (-172):0C
++4 Stars
+$search 0x01470CA000:6
+$write next (-172):0E
++5 Stars
+$search 0x01470CA000:6
+$write next (-172):0F
+!!
+!Blue:sweeper (1-4) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-168):05
++2 Stars
+$search 0x01470CA000:6
+$write next (-168):0A
++3 Stars
+$search 0x01470CA000:6
+$write next (-168):0D
++4 Stars
+$search 0x01470CA000:6
+$write next (-168):0F
++5 Stars
+$search 0x01470CA000:6
+$write next (-168):10
+!!
+!Blue:combustible (2-1) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-160):0A
++2 Stars
+$search 0x01470CA000:6
+$write next (-160):0D
++3 Stars
+$search 0x01470CA000:6
+$write next (-160):0F
++4 Stars
+$search 0x01470CA000:6
+$write next (-160):13
++5 Stars
+$search 0x01470CA000:6
+$write next (-160):14
+!!
+!Blue:multiball (2-2) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-156):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-156):2B
++3 Stars
+$search 0x01470CA000:6
+$write next (-156):36
++4 Stars
+$search 0x01470CA000:6
+$write next (-156):3C
++5 Stars
+$search 0x01470CA000:6
+$write next (-156):41
+!!
+!Blue:volley (2-3) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-152):0A
++2 Stars
+$search 0x01470CA000:6
+$write next (-152):0D
++3 Stars
+$search 0x01470CA000:6
+$write next (-152):10
++4 Stars
+$search 0x01470CA000:6
+$write next (-152):13
++5 Stars
+$search 0x01470CA000:6
+$write next (-152):14
+!!
+!Blue:stalkers (2-4) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-148):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-148):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-148):03
++4 Stars
+$search 0x01470CA000:6
+$write next (-148):04
++5 Stars
+$search 0x01470CA000:6
+$write next (-148):05
+!!
+!Blue:unbalanced (3-1) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-140):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-140):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-140):03
++4 Stars
+$search 0x01470CA000:6
+$write next (-140):06
++5 Stars
+$search 0x01470CA000:6
+$write next (-140):07
+!!
+!Blue:breakaway (3-2) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-136):0A
++2 Stars
+$search 0x01470CA000:6
+$write next (-136):0D
++3 Stars
+$search 0x01470CA000:6
+$write next (-136):10
++4 Stars
+$search 0x01470CA000:6
+$write next (-136):14
++5 Stars
+$search 0x01470CA000:6
+$write next (-136):18
+!!
+!Blue:colorblind (3-3) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-132):05
++2 Stars
+$search 0x01470CA000:6
+$write next (-132):07
++3 Stars
+$search 0x01470CA000:6
+$write next (-132):0C
++4 Stars
+$search 0x01470CA000:6
+$write next (-132):12
++5 Stars
+$search 0x01470CA000:6
+$write next (-132):13
+!!
+!Blue:cubic (3-4) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-128):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-128):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-128):03
++4 Stars
+$search 0x01470CA000:6
+$write next (-128):04
++5 Stars
+$search 0x01470CA000:6
+$write next (-128):05
+!!
+!Blue:timewarp (4-1) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-120):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-120):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-120):03
++4 Stars
+$search 0x01470CA000:6
+$write next (-120):04
++5 Stars
+$search 0x01470CA000:6
+$write next (-120):06
+!!
+!Blue:8 Ball (4-2) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-116):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-116):31
++3 Stars
+$search 0x01470CA000:6
+$write next (-116):4A
++4 Stars
+$search 0x01470CA000:6
+$write next (-116):63
++5 Stars
+$search 0x01470CA000:6
+$write next (-116):64
+!!
+!Blue:unfair (4-3) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-112):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-112):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-112):03
++4 Stars
+$search 0x01470CA000:6
+$write next (-112):04
++5 Stars
+$search 0x01470CA000:6
+$write next (-112):06
+!!
+!Blue:keeper (4-4) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-108):05
++2 Stars
+$search 0x01470CA000:6
+$write next (-108):07
++3 Stars
+$search 0x01470CA000:6
+$write next (-108):0A
++4 Stars
+$search 0x01470CA000:6
+$write next (-108):0E
++5 Stars
+$search 0x01470CA000:6
+$write next (-108):16
+!!
+!Blue:domination (5-1) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-100):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-100):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-100):03
++4 Stars
+$search 0x01470CA000:6
+$write next (-100):04
++5 Stars
+$search 0x01470CA000:6
+$write next (-100):05
+!!
+!Blue:territory (5-2) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-96):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-96):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-96):03
++4 Stars
+$search 0x01470CA000:6
+$write next (-96):04
++5 Stars
+$search 0x01470CA000:6
+$write next (-96):05
+!!
+!Blue:sandstorm (5-3) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-92):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-92):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-92):03
++4 Stars
+$search 0x01470CA000:6
+$write next (-92):04
++5 Stars
+$search 0x01470CA000:6
+$write next (-92):05
+!!
+!Blue:airborne (5-4) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-88):0F
++2 Stars
+$search 0x01470CA000:6
+$write next (-88):13
++3 Stars
+$search 0x01470CA000:6
+$write next (-88):18
++4 Stars
+$search 0x01470CA000:6
+$write next (-88):1E
++5 Stars
+$search 0x01470CA000:6
+$write next (-88):26
+!!
+!Red:tournaments (p1):
+!!
+!Blue:easy (1st) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-236):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-236):03
++3 Stars
+$search 0x01470CA000:6
+$write next (-236):05
++4 Stars
+$search 0x01470CA000:6
+$write next (-236):07
++5 Stars
+$search 0x01470CA000:6
+$write next (-236):08
+!!
+!Blue:confronter (2nd) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-232):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-232):03
++3 Stars
+$search 0x01470CA000:6
+$write next (-232):05
++4 Stars
+$search 0x01470CA000:6
+$write next (-232):07
++5 Stars
+$search 0x01470CA000:6
+$write next (-232):08
+!!
+!Blue:triple (3rd) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-228):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-228):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-228):04
++4 Stars
+$search 0x01470CA000:6
+$write next (-228):06
++5 Stars
+$search 0x01470CA000:6
+$write next (-228):07
+!!
+!Blue:pair (4th) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-224):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-224):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-224):04
++4 Stars
+$search 0x01470CA000:6
+$write next (-224):06
++5 Stars
+$search 0x01470CA000:6
+$write next (-224):07
+!!
+!Blue:ringer (5th) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-220):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-220):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-220):04
++4 Stars
+$search 0x01470CA000:6
+$write next (-220):06
++5 Stars
+$search 0x01470CA000:6
+$write next (-220):07
+!!
+!Blue:loaded (6th) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-216):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-216):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-216):04
++4 Stars
+$search 0x01470CA000:6
+$write next (-216):06
++5 Stars
+$search 0x01470CA000:6
+$write next (-216):07
+!!
+!Blue:faceoff (7th) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-212):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-212):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-212):04
++4 Stars
+$search 0x01470CA000:6
+$write next (-212):06
++5 Stars
+$search 0x01470CA000:6
+$write next (-212):07
+!!
+!Blue:triplet (8th) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-208):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-208):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-208):03
++4 Stars
+$search 0x01470CA000:6
+$write next (-208):04
++5 Stars
+$search 0x01470CA000:6
+$write next (-208):05
+!!
+!Blue:overflow (9th) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-204):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-204):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-204):03
++4 Stars
+$search 0x01470CA000:6
+$write next (-204):04
++5 Stars
+$search 0x01470CA000:6
+$write next (-204):05
+!!
+!Blue:duo (10th) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-200):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-200):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-200):03
++4 Stars
+$search 0x01470CA000:6
+$write next (-200):04
++5 Stars
+$search 0x01470CA000:6
+$write next (-200):05
+!!
+!Blue:rival (11th) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-196):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-196):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-196):03
++4 Stars
+$search 0x01470CA000:6
+$write next (-196):04
++5 Stars
+$search 0x01470CA000:6
+$write next (-196):05
+!!
+!Blue:trio (12th) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-192):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-192):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-192):03
++4 Stars
+$search 0x01470CA000:6
+$write next (-192):04
++5 Stars
+$search 0x01470CA000:6
+$write next (-192):05
+!!
+!Blue:finale (13th) Stars Modifier (p1):
++1 Star
+$search 0x01470CA000:6
+$write next (-188):01
++2 Stars
+$search 0x01470CA000:6
+$write next (-188):02
++3 Stars
+$search 0x01470CA000:6
+$write next (-188):03
++4 Stars
+$search 0x01470CA000:6
+$write next (-188):04
++5 Stars
+$search 0x01470CA000:6
+$write next (-188):05
+!!
+!Green:---profile 2---:
+!!
+!Red:challenges (p2):
+!!
+!Blue:scavenger (1-1) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-180):19
++2 Stars
+$search 0x01470CA000:7
+$write next (-180):23
++3 Stars
+$search 0x01470CA000:7
+$write next (-180):28
++4 Stars
+$search 0x01470CA000:7
+$write next (-180):31
++5 Stars
+$search 0x01470CA000:7
+$write next (-180):32
+!!
+!Blue:striker (1-2) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-176):0A
++2 Stars
+$search 0x01470CA000:7
+$write next (-176):0E
++3 Stars
+$search 0x01470CA000:7
+$write next (-176):0F
++4 Stars
+$search 0x01470CA000:7
+$write next (-176):14
++5 Stars
+$search 0x01470CA000:7
+$write next (-176):16
+!!
+!Blue:powerslide (1-3) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-172):08
++2 Stars
+$search 0x01470CA000:7
+$write next (-172):0A
++3 Stars
+$search 0x01470CA000:7
+$write next (-172):0C
++4 Stars
+$search 0x01470CA000:7
+$write next (-172):0E
++5 Stars
+$search 0x01470CA000:7
+$write next (-172):0F
+!!
+!Blue:sweeper (1-4) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-168):05
++2 Stars
+$search 0x01470CA000:7
+$write next (-168):0A
++3 Stars
+$search 0x01470CA000:7
+$write next (-168):0D
++4 Stars
+$search 0x01470CA000:7
+$write next (-168):0F
++5 Stars
+$search 0x01470CA000:7
+$write next (-168):10
+!!
+!Blue:combustible (2-1) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-160):0A
++2 Stars
+$search 0x01470CA000:7
+$write next (-160):0D
++3 Stars
+$search 0x01470CA000:7
+$write next (-160):0F
++4 Stars
+$search 0x01470CA000:7
+$write next (-160):13
++5 Stars
+$search 0x01470CA000:7
+$write next (-160):14
+!!
+!Blue:multiball (2-2) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-156):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-156):2B
++3 Stars
+$search 0x01470CA000:7
+$write next (-156):36
++4 Stars
+$search 0x01470CA000:7
+$write next (-156):3C
++5 Stars
+$search 0x01470CA000:7
+$write next (-156):41
+!!
+!Blue:volley (2-3) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-152):0A
++2 Stars
+$search 0x01470CA000:7
+$write next (-152):0D
++3 Stars
+$search 0x01470CA000:7
+$write next (-152):10
++4 Stars
+$search 0x01470CA000:7
+$write next (-152):13
++5 Stars
+$search 0x01470CA000:7
+$write next (-152):14
+!!
+!Blue:stalkers (2-4) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-148):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-148):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-148):03
++4 Stars
+$search 0x01470CA000:7
+$write next (-148):04
++5 Stars
+$search 0x01470CA000:7
+$write next (-148):05
+!!
+!Blue:unbalanced (3-1) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-140):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-140):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-140):03
++4 Stars
+$search 0x01470CA000:7
+$write next (-140):06
++5 Stars
+$search 0x01470CA000:7
+$write next (-140):07
+!!
+!Blue:breakaway (3-2) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-136):0A
++2 Stars
+$search 0x01470CA000:7
+$write next (-136):0D
++3 Stars
+$search 0x01470CA000:7
+$write next (-136):10
++4 Stars
+$search 0x01470CA000:7
+$write next (-136):14
++5 Stars
+$search 0x01470CA000:7
+$write next (-136):18
+!!
+!Blue:colorblind (3-3) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-132):05
++2 Stars
+$search 0x01470CA000:7
+$write next (-132):07
++3 Stars
+$search 0x01470CA000:7
+$write next (-132):0C
++4 Stars
+$search 0x01470CA000:7
+$write next (-132):12
++5 Stars
+$search 0x01470CA000:7
+$write next (-132):13
+!!
+!Blue:cubic (3-4) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-128):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-128):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-128):03
++4 Stars
+$search 0x01470CA000:7
+$write next (-128):04
++5 Stars
+$search 0x01470CA000:7
+$write next (-128):05
+!!
+!Blue:timewarp (4-1) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-120):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-120):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-120):03
++4 Stars
+$search 0x01470CA000:7
+$write next (-120):04
++5 Stars
+$search 0x01470CA000:7
+$write next (-120):06
+!!
+!Blue:8 Ball (4-2) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-116):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-116):31
++3 Stars
+$search 0x01470CA000:7
+$write next (-116):4A
++4 Stars
+$search 0x01470CA000:7
+$write next (-116):63
++5 Stars
+$search 0x01470CA000:7
+$write next (-116):64
+!!
+!Blue:unfair (4-3) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-112):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-112):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-112):03
++4 Stars
+$search 0x01470CA000:7
+$write next (-112):04
++5 Stars
+$search 0x01470CA000:7
+$write next (-112):06
+!!
+!Blue:keeper (4-4) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-108):05
++2 Stars
+$search 0x01470CA000:7
+$write next (-108):07
++3 Stars
+$search 0x01470CA000:7
+$write next (-108):0A
++4 Stars
+$search 0x01470CA000:7
+$write next (-108):0E
++5 Stars
+$search 0x01470CA000:7
+$write next (-108):16
+!!
+!Blue:domination (5-1) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-100):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-100):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-100):03
++4 Stars
+$search 0x01470CA000:7
+$write next (-100):04
++5 Stars
+$search 0x01470CA000:7
+$write next (-100):05
+!!
+!Blue:territory (5-2) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-96):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-96):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-96):03
++4 Stars
+$search 0x01470CA000:7
+$write next (-96):04
++5 Stars
+$search 0x01470CA000:7
+$write next (-96):05
+!!
+!Blue:sandstorm (5-3) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-92):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-92):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-92):03
++4 Stars
+$search 0x01470CA000:7
+$write next (-92):04
++5 Stars
+$search 0x01470CA000:7
+$write next (-92):05
+!!
+!Blue:airborne (5-4) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-88):0F
++2 Stars
+$search 0x01470CA000:7
+$write next (-88):13
++3 Stars
+$search 0x01470CA000:7
+$write next (-88):18
++4 Stars
+$search 0x01470CA000:7
+$write next (-88):1E
++5 Stars
+$search 0x01470CA000:7
+$write next (-88):26
+!!
+!Red:tournaments (p2):
+!!
+!Blue:easy (1st) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-236):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-236):03
++3 Stars
+$search 0x01470CA000:7
+$write next (-236):05
++4 Stars
+$search 0x01470CA000:7
+$write next (-236):07
++5 Stars
+$search 0x01470CA000:7
+$write next (-236):08
+!!
+!Blue:confronter (2nd) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-232):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-232):03
++3 Stars
+$search 0x01470CA000:7
+$write next (-232):05
++4 Stars
+$search 0x01470CA000:7
+$write next (-232):07
++5 Stars
+$search 0x01470CA000:7
+$write next (-232):08
+!!
+!Blue:triple (3rd) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-228):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-228):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-228):04
++4 Stars
+$search 0x01470CA000:7
+$write next (-228):06
++5 Stars
+$search 0x01470CA000:7
+$write next (-228):07
+!!
+!Blue:pair (4th) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-224):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-224):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-224):04
++4 Stars
+$search 0x01470CA000:7
+$write next (-224):06
++5 Stars
+$search 0x01470CA000:7
+$write next (-224):07
+!!
+!Blue:ringer (5th) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-220):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-220):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-220):04
++4 Stars
+$search 0x01470CA000:7
+$write next (-220):06
++5 Stars
+$search 0x01470CA000:7
+$write next (-220):07
+!!
+!Blue:loaded (6th) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-216):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-216):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-216):04
++4 Stars
+$search 0x01470CA000:7
+$write next (-216):06
++5 Stars
+$search 0x01470CA000:7
+$write next (-216):07
+!!
+!Blue:faceoff (7th) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-212):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-212):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-212):04
++4 Stars
+$search 0x01470CA000:7
+$write next (-212):06
++5 Stars
+$search 0x01470CA000:7
+$write next (-212):07
+!!
+!Blue:triplet (8th) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-208):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-208):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-208):03
++4 Stars
+$search 0x01470CA000:7
+$write next (-208):04
++5 Stars
+$search 0x01470CA000:7
+$write next (-208):05
+!!
+!Blue:overflow (9th) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-204):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-204):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-204):03
++4 Stars
+$search 0x01470CA000:7
+$write next (-204):04
++5 Stars
+$search 0x01470CA000:7
+$write next (-204):05
+!!
+!Blue:duo (10th) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-200):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-200):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-200):03
++4 Stars
+$search 0x01470CA000:7
+$write next (-200):04
++5 Stars
+$search 0x01470CA000:7
+$write next (-200):05
+!!
+!Blue:rival (11th) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-196):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-196):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-196):03
++4 Stars
+$search 0x01470CA000:7
+$write next (-196):04
++5 Stars
+$search 0x01470CA000:7
+$write next (-196):05
+!!
+!Blue:trio (12th) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-192):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-192):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-192):03
++4 Stars
+$search 0x01470CA000:7
+$write next (-192):04
++5 Stars
+$search 0x01470CA000:7
+$write next (-192):05
+!!
+!Blue:finale (13th) Stars Modifier (p2):
++1 Star
+$search 0x01470CA000:7
+$write next (-188):01
++2 Stars
+$search 0x01470CA000:7
+$write next (-188):02
++3 Stars
+$search 0x01470CA000:7
+$write next (-188):03
++4 Stars
+$search 0x01470CA000:7
+$write next (-188):04
++5 Stars
+$search 0x01470CA000:7
+$write next (-188):05
+!!
+!Green:---profile 3---:
+!!
+!Red:challenges (p3):
+!!
+!Blue:scavenger (1-1) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-180):19
++2 Stars
+$search 0x01470CA000:8
+$write next (-180):23
++3 Stars
+$search 0x01470CA000:8
+$write next (-180):28
++4 Stars
+$search 0x01470CA000:8
+$write next (-180):31
++5 Stars
+$search 0x01470CA000:8
+$write next (-180):32
+!!
+!Blue:striker (1-2) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-176):0A
++2 Stars
+$search 0x01470CA000:8
+$write next (-176):0E
++3 Stars
+$search 0x01470CA000:8
+$write next (-176):0F
++4 Stars
+$search 0x01470CA000:8
+$write next (-176):14
++5 Stars
+$search 0x01470CA000:8
+$write next (-176):16
+!!
+!Blue:powerslide (1-3) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-172):08
++2 Stars
+$search 0x01470CA000:8
+$write next (-172):0A
++3 Stars
+$search 0x01470CA000:8
+$write next (-172):0C
++4 Stars
+$search 0x01470CA000:8
+$write next (-172):0E
++5 Stars
+$search 0x01470CA000:8
+$write next (-172):0F
+!!
+!Blue:sweeper (1-4) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-168):05
++2 Stars
+$search 0x01470CA000:8
+$write next (-168):0A
++3 Stars
+$search 0x01470CA000:8
+$write next (-168):0D
++4 Stars
+$search 0x01470CA000:8
+$write next (-168):0F
++5 Stars
+$search 0x01470CA000:8
+$write next (-168):10
+!!
+!Blue:combustible (2-1) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-160):0A
++2 Stars
+$search 0x01470CA000:8
+$write next (-160):0D
++3 Stars
+$search 0x01470CA000:8
+$write next (-160):0F
++4 Stars
+$search 0x01470CA000:8
+$write next (-160):13
++5 Stars
+$search 0x01470CA000:8
+$write next (-160):14
+!!
+!Blue:multiball (2-2) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-156):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-156):2B
++3 Stars
+$search 0x01470CA000:8
+$write next (-156):36
++4 Stars
+$search 0x01470CA000:8
+$write next (-156):3C
++5 Stars
+$search 0x01470CA000:8
+$write next (-156):41
+!!
+!Blue:volley (2-3) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-152):0A
++2 Stars
+$search 0x01470CA000:8
+$write next (-152):0D
++3 Stars
+$search 0x01470CA000:8
+$write next (-152):10
++4 Stars
+$search 0x01470CA000:8
+$write next (-152):13
++5 Stars
+$search 0x01470CA000:8
+$write next (-152):14
+!!
+!Blue:stalkers (2-4) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-148):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-148):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-148):03
++4 Stars
+$search 0x01470CA000:8
+$write next (-148):04
++5 Stars
+$search 0x01470CA000:8
+$write next (-148):05
+!!
+!Blue:unbalanced (3-1) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-140):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-140):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-140):03
++4 Stars
+$search 0x01470CA000:8
+$write next (-140):06
++5 Stars
+$search 0x01470CA000:8
+$write next (-140):07
+!!
+!Blue:breakaway (3-2) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-136):0A
++2 Stars
+$search 0x01470CA000:8
+$write next (-136):0D
++3 Stars
+$search 0x01470CA000:8
+$write next (-136):10
++4 Stars
+$search 0x01470CA000:8
+$write next (-136):14
++5 Stars
+$search 0x01470CA000:8
+$write next (-136):18
+!!
+!Blue:colorblind (3-3) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-132):05
++2 Stars
+$search 0x01470CA000:8
+$write next (-132):07
++3 Stars
+$search 0x01470CA000:8
+$write next (-132):0C
++4 Stars
+$search 0x01470CA000:8
+$write next (-132):12
++5 Stars
+$search 0x01470CA000:8
+$write next (-132):13
+!!
+!Blue:cubic (3-4) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-128):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-128):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-128):03
++4 Stars
+$search 0x01470CA000:8
+$write next (-128):04
++5 Stars
+$search 0x01470CA000:8
+$write next (-128):05
+!!
+!Blue:timewarp (4-1) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-120):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-120):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-120):03
++4 Stars
+$search 0x01470CA000:8
+$write next (-120):04
++5 Stars
+$search 0x01470CA000:8
+$write next (-120):06
+!!
+!Blue:8 Ball (4-2) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-116):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-116):31
++3 Stars
+$search 0x01470CA000:8
+$write next (-116):4A
++4 Stars
+$search 0x01470CA000:8
+$write next (-116):63
++5 Stars
+$search 0x01470CA000:8
+$write next (-116):64
+!!
+!Blue:unfair (4-3) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-112):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-112):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-112):03
++4 Stars
+$search 0x01470CA000:8
+$write next (-112):04
++5 Stars
+$search 0x01470CA000:8
+$write next (-112):06
+!!
+!Blue:keeper (4-4) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-108):05
++2 Stars
+$search 0x01470CA000:8
+$write next (-108):07
++3 Stars
+$search 0x01470CA000:8
+$write next (-108):0A
++4 Stars
+$search 0x01470CA000:8
+$write next (-108):0E
++5 Stars
+$search 0x01470CA000:8
+$write next (-108):16
+!!
+!Blue:domination (5-1) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-100):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-100):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-100):03
++4 Stars
+$search 0x01470CA000:8
+$write next (-100):04
++5 Stars
+$search 0x01470CA000:8
+$write next (-100):05
+!!
+!Blue:territory (5-2) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-96):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-96):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-96):03
++4 Stars
+$search 0x01470CA000:8
+$write next (-96):04
++5 Stars
+$search 0x01470CA000:8
+$write next (-96):05
+!!
+!Blue:sandstorm (5-3) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-92):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-92):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-92):03
++4 Stars
+$search 0x01470CA000:8
+$write next (-92):04
++5 Stars
+$search 0x01470CA000:8
+$write next (-92):05
+!!
+!Blue:airborne (5-4) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-88):0F
++2 Stars
+$search 0x01470CA000:8
+$write next (-88):13
++3 Stars
+$search 0x01470CA000:8
+$write next (-88):18
++4 Stars
+$search 0x01470CA000:8
+$write next (-88):1E
++5 Stars
+$search 0x01470CA000:8
+$write next (-88):26
+!!
+!Red:tournaments (p3):
+!!
+!Blue:easy (1st) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-236):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-236):03
++3 Stars
+$search 0x01470CA000:8
+$write next (-236):05
++4 Stars
+$search 0x01470CA000:8
+$write next (-236):07
++5 Stars
+$search 0x01470CA000:8
+$write next (-236):08
+!!
+!Blue:confronter (2nd) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-232):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-232):03
++3 Stars
+$search 0x01470CA000:8
+$write next (-232):05
++4 Stars
+$search 0x01470CA000:8
+$write next (-232):07
++5 Stars
+$search 0x01470CA000:8
+$write next (-232):08
+!!
+!Blue:triple (3rd) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-228):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-228):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-228):04
++4 Stars
+$search 0x01470CA000:8
+$write next (-228):06
++5 Stars
+$search 0x01470CA000:8
+$write next (-228):07
+!!
+!Blue:pair (4th) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-224):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-224):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-224):04
++4 Stars
+$search 0x01470CA000:8
+$write next (-224):06
++5 Stars
+$search 0x01470CA000:8
+$write next (-224):07
+!!
+!Blue:ringer (5th) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-220):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-220):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-220):04
++4 Stars
+$search 0x01470CA000:8
+$write next (-220):06
++5 Stars
+$search 0x01470CA000:8
+$write next (-220):07
+!!
+!Blue:loaded (6th) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-216):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-216):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-216):04
++4 Stars
+$search 0x01470CA000:8
+$write next (-216):06
++5 Stars
+$search 0x01470CA000:8
+$write next (-216):07
+!!
+!Blue:faceoff (7th) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-212):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-212):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-212):04
++4 Stars
+$search 0x01470CA000:8
+$write next (-212):06
++5 Stars
+$search 0x01470CA000:8
+$write next (-212):07
+!!
+!Blue:triplet (8th) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-208):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-208):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-208):03
++4 Stars
+$search 0x01470CA000:8
+$write next (-208):04
++5 Stars
+$search 0x01470CA000:8
+$write next (-208):05
+!!
+!Blue:overflow (9th) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-204):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-204):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-204):03
++4 Stars
+$search 0x01470CA000:8
+$write next (-204):04
++5 Stars
+$search 0x01470CA000:8
+$write next (-204):05
+!!
+!Blue:duo (10th) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-200):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-200):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-200):03
++4 Stars
+$search 0x01470CA000:8
+$write next (-200):04
++5 Stars
+$search 0x01470CA000:8
+$write next (-200):05
+!!
+!Blue:rival (11th) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-196):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-196):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-196):03
++4 Stars
+$search 0x01470CA000:8
+$write next (-196):04
++5 Stars
+$search 0x01470CA000:8
+$write next (-196):05
+!!
+!Blue:trio (12th) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-192):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-192):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-192):03
++4 Stars
+$search 0x01470CA000:8
+$write next (-192):04
++5 Stars
+$search 0x01470CA000:8
+$write next (-192):05
+!!
+!Blue:finale (13th) Stars Modifier (p3):
++1 Star
+$search 0x01470CA000:8
+$write next (-188):01
++2 Stars
+$search 0x01470CA000:8
+$write next (-188):02
++3 Stars
+$search 0x01470CA000:8
+$write next (-188):03
++4 Stars
+$search 0x01470CA000:8
+$write next (-188):04
++5 Stars
+$search 0x01470CA000:8
+$write next (-188):05
+!!
+!!

@@ -1,0 +1,34 @@
+^2 = GameID: CUSA02320
+^3 = NAME: Uncharted: Drake's Fortune Remastered
+^5 = APCRED: by bucanero
+^4 = FILE: USR-DATA
++Decrypt Usr-data (required)
+$set [end]:read(EOF-3, 4)
+$set [end]:endian_swap
+$set range:0x00000C,[end]+0x0B
+\\endian_swap(4)
+$DECRYPT blowfish_ecb("(SH[@2>r62%5+QKpy|g6")
+\\endian_swap(4)
+()
+(cheat codes go here)
+()
++Update Crc32 Checksum For Usr-data (required)
+$set [block_length]:read(0x590,4)
+$set [block_length]:endian_swap
+$set [block_length]:[block_length]+0x58B
+$set range:0x590,[block_length]
+$set [hash]:crc32
+$set [hash]:endian_swap
+$write at 0x58C:[hash]
++Update Hmac Sha1 Checksum For Usr-data (required)
+$set pointer:EOF-0x23
+$set range:0x00000C,pointer
+$set [hash]:hmac_sha1("xM;6X%/p^L/:}-5QoA+K8:F*M!~sb(WK<E%6sW_un0a[7Gm6,()kHoXY+yI/s;Ba")
+$write next (0):[hash]
++Encrypt Usr-data (required)
+$set [end]:read(EOF-3, 4)
+$set [end]:endian_swap
+$set range:0x00000C,[end]+0x0B
+\\endian_swap(4)
+$ENCRYPT blowfish_ecb("(SH[@2>r62%5+QKpy|g6")
+\\endian_swap(4)

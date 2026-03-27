@@ -1,0 +1,181 @@
+^1 = HASH: 3EF4376C
+^3 = NAME: Red Faction (Version 1.1)
+^2 = GameID: SLUS_200.73
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master>Lajos Szalay
+$F0100008 002669AF
+!!
+!With this game, if these codes dont work, Try These!:
++Infinite Grenades
+%Credits: Code Master>Lajos Szalay
+$201A2064 00000000
++Extra Grenades
+%Credits: Code Master>Lajos Szalay
+$201A205C 00000001
++Infinite Ammo (All Guns)
+%Credits: Code Master>Lajos Szalay
+$201549A8 00000000
+$201549E4 00000000
++Extra Ammo (All Guns)
+%Credits: Code Master>Lajos Szalay
+$101549A4 00000001
+$101549E0 00000001
++Infinite Health
+%Credits: Code Master>Lajos Szalay
+$200C0220 3C0142C8
+$200C0224 44810000
+$200C0228 03E00008
+$200C022C E6000034
+$20169B9C 0C030088
++Infinite Envirosuit Protection
+%Credits: Code Master>Lajos Szalay
+$200C0230 3C0142C8
+$200C0234 44811000
+$200C0238 03E00008
+$200C023C E6020038
+$20169C00 0C03008C
++Have All Items/Weapons
+%Credits: Code Master>Lajos Szalay
+$20132A38 24020001
++Start With Infinite Ammo (All Guns)
+%Credits: Code Master>Lajos Szalay
+$2016A9A0 24030064
+$2016A9A4 AC4302BC
++Start With Infinite Ammo (Flamethrower & Control Baton)
+%Credits: Code Master>Lajos Szalay
+$2016AF18 24030064
+$2016AF1C AC4302BC
++Start With Infinite Grenades
+%Credits: Code Master>Lajos Szalay
+$2016B580 24100064
+$2016B590 AC50027C
+$2016B7CC 2410000B
++Max Infinite Ammo/No Reload (All Guns)
+%Credits: Code Master>Lajos Szalay
+$201549A4 240303E7
+$201549E0 240303E7
++Max Infinite Grenades
+%Credits: Code Master>Lajos Szalay
+$201A205C 240203E7
++Invulnerable
+%Credits: Code Master>Lajos Szalay
+$201A50C8 8E03007C
+$201A50E8 34630004
++P1 Press L3+Triangle To Activate Walk Thru Walls
+%Credits: Code Master>Lajos Szalay
+$E002EFFD 00AA3A82
+$201A1CD4 24020000
+$201A1CDC A2020031
++P1 Press L3+X To Deactivate Walk Thru Walls
+%Credits: Code Master>Lajos Szalay
+$E002BFFD 00AA3A82
+$201A1CD4 24020001
+$201A1CDC A2020031
++P1 Press R3+Up To Display Gameplay Stats
+%Credits: Code Master>Lajos Szalay
+$D0AA3A82 0000FFEB
+$202AC07C 00000001
++P1 Press R3+Down To Not Display Gameplay Stats
+%Credits: Code Master>Lajos Szalay
+$D0AA3A82 0000FFBB
+$202AC07C 00000000
++Display FPS
+%Credits: Code Master>Lajos Szalay
+$202ABFE8 00000001
++Display FPS Graph{With This Code, You Need To Enable Display FPS To See The Graph.}
+%Credits: Code Master>Lajos Szalay
+$202ABFEC 00000001
++P1 Press L3+Up To Disable HUD
+%Credits: Code Master>Lajos Szalay
+$D0AA3702 0000FFED
+$202ABDA8 00000001
++P1 Press L3+Down To Enable HUD
+%Credits: Code Master>Lajos Szalay
+$D0AA3702 0000FFBD
+$202ABDA8 00000000
++Disable Sky Drawing
+%Credits: Code Master>Lajos Szalay
+$202AB724 00000000
++Enable Sky Drawing
+%Credits: Code Master>Lajos Szalay
+$202AB724 00000001
++Disable Portals
+%Credits: Code Master>Lajos Szalay
+$202AB728 00000000
++Enable Portals
+%Credits: Code Master>Lajos Szalay
+$202AB728 00000001
++Disable Cull To Portals
+%Credits: Code Master>Lajos Szalay
+$202AB72C 00000000
++Enable Cull To Portals
+%Credits: Code Master>Lajos Szalay
+$202AB72C 00000001
++Disable Draw Portal Objects
+%Credits: Code Master>Lajos Szalay
+$202AB730 00000000
++Enable Draw Portal Objects
+%Credits: Code Master>Lajos Szalay
+$202AB730 00000001
++Disable Particles
+%Credits: Code Master>Lajos Szalay
+$202AB89C 00000000
++Enable Particles
+%Credits: Code Master>Lajos Szalay
+$202AB89C 00000001
++Disable Vsync
+%Credits: Code Master>Lajos Szalay
+$202ABB14 00000000
++Disable Two Circuit Anti-Aliasing
+%Credits: Code Master>Lajos Szalay
+$202ABB18 00000000
++Disable Shadows
+%Credits: Code Master>Lajos Szalay
+$202ABB48 00000000
++Disable Lighting
+%Credits: Code Master>Lajos Szalay
+$202ABBE4 00000000
++Transparent Faces
+%Credits: Code Master>Lajos Szalay
+$202ABDF4 00000001
++Display Portals
+%Credits: Code Master>Lajos Szalay
+$202ABDFC 00000001
++Full Brightness
+%Credits: Code Master>Lajos Szalay
+$202ABE08 00000001
++Display Portal Objects
+%Credits: Code Master>Lajos Szalay
+$202ABE0C 00000001
++Disable Glares
+%Credits: Code Master>Lajos Szalay
+$202ABF38 00000001
++Disable Entity Render As Spheres
+%Credits: Code Master>Lajos Szalay
+$202ABF74 00000000
++Enable Entity Render As Spheres
+%Credits: Code Master>Lajos Szalay
+$202ABF74 00000001
++Display Glass Web
+%Credits: Code Master>Lajos Szalay
+$202ABFD8 00000001
++Display Mover Info
+%Credits: Code Master>Lajos Szalay
+$202ABFDC 00000001
++Display Entity Fire Info
+%Credits: Code Master>Lajos Szalay
+$202ABFE0 00000001
++Display Fog Level
+%Credits: Code Master>Lajos Szalay
+$202ABFE4 00000001
++Display Version Info (Main Menu)
+%Credits: Code Master>Lajos Szalay
+$202AC604 00000001
++Enable High Lod
+%Credits: Code Master>Lajos Szalay
+$202ACB68 00000001
++Unlock All Hidden Character
+%Credits: Code Master>Lajos Szalay
+$202ACC78 00000001
+!!

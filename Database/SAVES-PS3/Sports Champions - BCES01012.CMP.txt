@@ -1,0 +1,30 @@
+^2 = GameID: BCES01012
+^3 = NAME: Sports Champions
+^4 = FILE: STATS.BIN
++Update Crc32 For Stats.bin (required)
+(set range:0x000004,0x000BFE)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]
+^4 = FILE: RESUME.BIN
++Update Crc32 For Resume.bin (required)
+(set range:0x000004,0x00330F)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]
+^4 = FILE: USER0.BIN
++Update Crc32 For User0.bin (required)
+(set range:0x000004,0x00FC97)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]
+^4 = FILE: VP_GD_BC.BIN
++Update Crc32 For Vp_gd_bc.bin (required)
+(set range:0x000004,0x09607F)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

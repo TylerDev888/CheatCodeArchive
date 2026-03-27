@@ -1,0 +1,15 @@
+^2 = GameID: ULJS00217
+^3 = NAME: Samurai Dou 2 Portable
+^5 = APCRED: PSP
+(http://web.save-editor.com/bbs/patchcode/psp/bbs.cgi?list=pickup&num=2957#)
+^4 = FILE: *
++Money 9999 Sentence
+$1000010A 0000270F
++Physical Strength 2000
+$10000112 000007D0
+$10000114 000007D0
++Ki 20
+$0000010C 00000014
+$0000010E 00000014
++Hardness 6
+$000001E4 00000006

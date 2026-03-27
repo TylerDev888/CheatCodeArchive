@@ -1,0 +1,57 @@
+^1 = HASH: 40372109
+^3 = NAME: Fantavision
+^2 = GameID: SCUS_971.05
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master>The GFCC
+$F0100008 001B2C7B
+!!
+!Codes:
++Infinite Time
+%Credits: Code Master>The GFCC
+$2048AC38 00002710
++Infinite Health
+%Credits: Code Master>The GFCC
+$2048AC40 00002710
++Quick Score Gain
+%Credits: Code Master>The GFCC
+$10664EF8 0000FFFF
++Max Score
+%Credits: Code Master>The GFCC
+$20664EF8 3B9AC9FF
++E3 Mode
+%Credits: Code Master>The GFCC
+$2048A5B0 00000001
++Hold L1 To Open Extra/Extra 2 Menus (Main Menu)
+%Credits: Code Master>The GFCC
+$2048A5DC 00000001
++Enable Debug Mode{With This Code, Pause The Game & Play Around With The Controls For Various Effects.}
+%Credits: Code Master>The GFCC
+$2048A5E0 00000001
+!!
+!Versus Mode Codes:
++P1 Starts With Score Modifier
+%Credits: Code Master>The GFCC
+$D048A340 00000000
+$2048A340 0000????
++P2 Starts With Score Modifier
+%Credits: Code Master>The GFCC
+$D048A344 00000000
+$2048A344 0000????
++P1 Press L1+Select For Instant Win
+%Credits: Code Master>The GFCC
+$D0855882 0000FBFE
+$2048A340 00000258
++P1 Press L2+Select For P2 Scores 0
+%Credits: Code Master>The GFCC
+$D0855882 0000FEFE
+$2048A344 00000000
++P2 Press L1+Select For Instant Win
+%Credits: Code Master>The GFCC
+$D0855982 0000FBFE
+$2048A344 00000258
++P2 Press L2+Select For P2 Scores 0
+%Credits: Code Master>The GFCC
+$D0855982 0000FEFE
+$2048A340 00000000
+!!

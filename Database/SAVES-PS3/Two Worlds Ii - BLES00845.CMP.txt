@@ -1,0 +1,31 @@
+^2 = GameID: BLES00845
+^3 = NAME: Two Worlds II
+^4 = FILE: BLES00845_SAVE_*\SAVE
++Decompress Save (required)
+$Decompress(0x00000000, 15)
+^4 = FILE: ~extracted\00000000.dat
+!Codes By Shaka:
++Max Money(aura)
+$search "CHero_Store_2"
+$write next 0x35:0xFFE0F505
++Attribute Points& Skills
+$search "CHero_Store_2"
+$write next 0x23:0xFF7FFF7F
+!Level(choose One):
++Level 19 For Trophy
+$search "CHero_Store_2"
+$write next 0x13:0x31
++Level 39 For Trophy
+$search "CHero_Store_2"
+$write next 0x13:0x72
++Level 32767
+$search "CHero_Store_2"
+$write next 0x13:0xFF7F
++Max Aura(by Gg)
+$search "CHero_Store_2"
+$write next 0x35:0xFFE0F505
+^4 = FILE: SAVE
++Compress Save (required)
+$Compress(0x00000000)
+!!
+!!

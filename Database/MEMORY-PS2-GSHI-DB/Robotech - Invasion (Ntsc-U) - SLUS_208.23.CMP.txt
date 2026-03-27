@@ -1,0 +1,97 @@
+^3 = NAME: Robotech - Invasion (Ntsc-U)
+^2 = GameID: SLUS-20823
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$E00E0CEC 0020EA94
+$E00D0C09 0020EA96
+$201D60B8 080D73C4
+$2035CF10 3C040100
+$2035CF14 3C050008
+$2035CF18 0C0D249F
+$2035CF1C 3C060008
+$2035CF20 0C0D64B6
+$2035CF24 26309728
+$2035CF28 3C050100
+$2035CF2C 3C040008
+$2035CF30 0C0D249F
+$2035CF34 3C060008
+$2035CF38 08075830
+$2035CF3C 00000000
+$F020EA94 0020EA97
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00291163
++[M] Must Be On {<I>Enable/Disable Cheats In The Extras Menu.</I>}
+%Credits: MadCatz
+$901D7130 0C0A446C
+!!
+!Activate Cheat Codes:
++1-Hit Kills
+%Credits: Code Master
+$2085A648 3F800000
++Access To All Levels
+%Credits: Code Master
+$2085A64C 3F800000
++Invincibility {<I>Enable/Disable Cheats In The Extras Menu.</I>}
+%Credits: Code Master
+$2085A640 3F800000
++Lancer's Multiplayer Skin
+%Credits: Code Master
+$2085A650 3F800000
++Rand's Multiplayer Skin
+%Credits: Code Master
+$2085A658 3F800000
++Rock's Multiplayer Skin
+%Credits: Code Master
+$2085A65C 3F800000
++Scott Bernard's Multiplayer Skin
+%Credits: Code Master
+$2085A654 3F800000
++Unlimited Ammo
+%Credits: Code Master
+$2085A644 3F800000
+!!
++AR Below 3.14 Fix
+%Credits: Codejunkies
+$2035E558 3C03200F
+$2035E560 8C65FFF8
+$2035E564 24040079
+$2035E568 24030074
+$2035E56C 0000000C
+!Unlock Extras:
++1 Hit Kills
+%Credits: MadCatz
+$D085A64A 0000BF80
+$2085A648 00000000
++Access To All Levels
+%Credits: MadCatz
+$D085A64E 0000BF80
+$2085A64C 00000000
++Infinite Ammo
+%Credits: MadCatz
+$D085A646 0000BF80
+$2085A644 00000000
++Invincibility {<I>Enable/Disable Cheats In The Extras Menu.</I>}
+%Credits: MadCatz
+$D085A642 0000BF80
+$2085A640 00000000
++Lancer's Multiplayer Skin
+%Credits: MadCatz
+$D085A652 0000BF80
+$2085A650 00000000
++Rand's Multiplayer Skin
+%Credits: MadCatz
+$D085A65A 0000BF80
+$2085A658 00000000
++Rook's Multiplayer Skin
+%Credits: MadCatz
+$D085A65E 0000BF80
+$2085A65C 00000000
++Scott Bernard's Multiplayer Skin
+%Credits: MadCatz
+$D085A656 0000BF80
+$2085A654 00000000
+!!
+!!
+

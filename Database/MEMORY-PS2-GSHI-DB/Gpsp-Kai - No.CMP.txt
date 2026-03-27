@@ -1,0 +1,21 @@
+^3 = NAME: Gpsp-Kai
+^2 = GameID: No
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: lee4
+$901FF900 0C07FDEA
+!!
++GBA WRAM Pointer {<I>+ ?0000Hex (?=1 To 8 Depends On Game) Only RAM Codes Starts With 020Yyyyy:Xx Will Work.  Warning: This An Experimental Code. Working In Progress  CB 830064C2-00B4 ---Yyyyy --Xx AR 003064C2-000000B4 ---Yyyyy ------Xx</I>}
+%Credits: lee4
+$60206F04 000000??
++Goomba Color (3-31-2008) GB RAM Pointer {<I>Only PAR RAM Codes Starts With Czyy:Xx Will Work.</I>}
+%Credits: lee4
+$60207940 000000??
++Ngpadvance 0.3 NGPC RAM Pointer {<I>+ 2000Hex Only RAM Codes Starts With 00Yyyy:Xx Will Work.</I>}
+%Credits: lee4
+$60203DDC 000000??
++Pocketnes V9.98 NES RAM Pointer {<I>Only PAR RAM Codes Starts With 000Yyy:Xx Will Work.</I>}
+%Credits: lee4
+$6020795C 000000??
+!!
+

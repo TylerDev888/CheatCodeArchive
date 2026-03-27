@@ -1,0 +1,48 @@
+^3 = NAME: Dragonball Z - Budokai Tenkaichi 3 (NTSC) (Print Preview)
+^2 = GameID: No
++Change COM Difficulty {<I>Recommended Values For YY:<Br>00 -&Gt; Very Weak (Default)<Br>06 -&Gt; Weak<Br>0D -&Gt; Average<Br>15 -&Gt; Strong<Br>1F -&Gt; Very Strong<Br>Higher Values Can Be Used, But Preferably Until 64, Which Is The Most Reasonable Difficulty Level.</I>}
+%Credits: ViveTheModder
+$D17F4C38 009D95C0
+$017F4C28 000000??
++Change Match Type {<I>Recommended Values For YY:<Br>00 -&Gt; Very Weak (Default)<Br>06 -&Gt; Weak<Br>0D -&Gt; Average<Br>15 -&Gt; Strong<Br>1F -&Gt; Very Strong<Br>Higher Values Can Be Used, But Preferably Until 64, Which Is The Most Reasonable Difficulty Level.</I>}
+%Credits: ViveTheModder
+$D0B6C35C 00000080
+$00B6C358 000000??
++Press L3 To Change Current & MAX Health For Player 1 (See Note) {<I>Regarding The Health Codes, It Is Best For The Value To Be A Multiple Of 10000.<Br>For Example, 000Aae60 Is 700000 In Decimal, Which Translates To 7 Health Bars.</I>}
+%Credits: ViveTheModder
+$D03020DC 0000FFFD
+$217F2B30 ????????
+$217F2B34 ????????
++Press L3 To Change Current & MAX Health For Player 2 (See Note) {<I>Regarding The Health Codes, It Is Best For The Value To Be A Multiple Of 10000.<Br>For Example, 000Aae60 Is 700000 In Decimal, Which Translates To 7 Health Bars.</I>}
+%Credits: ViveTheModder
+$D03020DC 0000FFFD
+$217F3E70 ????????
+$217F3E74 ????????
++Press L3 To Change Current & MAX Ki For Player 1 (See Note) {<I>Regarding The Health Codes, It Is Best For The Value To Be A Multiple Of 10000.<Br>For Example, 000Aae60 Is 700000 In Decimal, Which Translates To 7 Health Bars.</I>}
+%Credits: ViveTheModder
+$D03020DC 0000FFFD
+$217F2B3C ????????
+$217F2B40 ????????
++Press L3 To Change Current & MAX Ki For Player 2 (See Note) {<I>Regarding The Ki Codes, It Is Best For The Value To Be A Multiple Of 20000.<Br>For Example, 000186A0 Is 100000 In Decimal, Which Translates To 5 Ki Bars.</I>}
+%Credits: ViveTheModder
+$D03020DC 0000FFFD
+$217F3E7C ????????
+$217F3E80 ????????
++Press L3 To Get MAX Blast Stocks For Player 1
+%Credits: ViveTheModder
+$D03020DC 0000FFFD
+$217F2B44 000AAE60
++Press L3 To Get MAX Blast Stocks For Player 2
+%Credits: ViveTheModder
+$D03020DC 0000FFFD
+$217F3E84 000AAE60
++Press L3 To Get MAX Power Ki For Player 1
+%Credits: ViveTheModder
+$D03020DC 0000FFFD
+$217F2B4C 00007530
++Press L3 To Get MAX Power Ki For Player 2
+%Credits: ViveTheModder
+$D03020DC 0000FFFD
+$217F3E8C 00007530
+!!
+

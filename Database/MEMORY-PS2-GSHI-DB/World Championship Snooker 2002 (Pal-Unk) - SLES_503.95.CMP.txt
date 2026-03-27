@@ -1,0 +1,32 @@
+^3 = NAME: World Championship Snooker 2002 (Pal-Unk)
+^2 = GameID: SLES-50395
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0100358 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0100358 0010035B
+!!
++Computer Player 'Ghost'
+%Credits: InterAct
+$1039A5D8 00001001
+$1039A7D0 00001001
++P1 No Score Press L1
+%Credits: InterAct
+$102CB4C2 0000FBFF
+$102F3458 00000000
++P1 Scores 200 Press L2
+%Credits: InterAct
+$102CB4C2 0000FEFF
+$102F3458 000000C8
++P2 No Score Press R1
+%Credits: InterAct
+$102CB4C2 0000F7FF
+$102F34A4 00000000
++P2 Scores 200 Press R2
+%Credits: InterAct
+$102CB4C2 0000FDFF
+$102F34A4 000000C8
+!!
+

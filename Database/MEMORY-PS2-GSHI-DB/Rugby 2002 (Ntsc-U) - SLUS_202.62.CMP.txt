@@ -1,0 +1,71 @@
+^3 = NAME: Rugby 2002 (Ntsc-U)
+^2 = GameID: SLUS-20262
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F012B964 0012B967
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0012B967
+!!
++All Goal's Score Modifier
+%Credits: Code Master
+$201AAA38 24630063
++Away Team Score Modifier
+%Credits: Code Master
+$10537D78 0000????
++Away Team Start With Score Modifier
+%Credits: Code Master
+$D0537D78 00000000
+$10537D78 0000????
++Home Team Score Modifier
+%Credits: Code Master
+$10537A2C 0000????
++Home Team Start With Score Modifier
+%Credits: Code Master
+$D0537A2C 00000000
+$10537A2C 0000????
++P1 Press L1+L2 For More Time
+%Credits: Code Master
+$D040CB82 0000FAFF
+$20417034 00000000
++P1 Press R1+R2 To End Half
+%Credits: Code Master
+$D040CB82 0000F5FF
+$20417034 43B40000
++P2 Press L1+L2 For More Time
+%Credits: Code Master
+$D040CC82 0000FAFF
+$20417034 00000000
++P2 Press R1+R2 To End Half
+%Credits: Code Master
+$D040CC82 0000F5FF
+$20417034 43B40000
+!Team A Codes:
++Team A Always Scores 0
+%Credits: Codejunkies
+$00537A2C 00000000
++Team A Always Scores 99
+%Credits: Codejunkies
+$00537A2C 00000063
+!!
+!Team B Codes:
++Team B Always Scores 0
+%Credits: Codejunkies
+$00537D78 00000000
++Team B Always Scores 99
+%Credits: Codejunkies
+$00537D78 00000063
+!!
+!Timer Codes:
++Have More Time (Press L2+Up To Activate)
+%Credits: Codejunkies
+$D040CB82 0000FEEF
+$10417036 00000000
++Skip To The End Of The Half (Press L2+Down To Activate)
+%Credits: Codejunkies
+$D040CB82 0000FEBF
+$10417036 000043B2
+!!
+!!
+

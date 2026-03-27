@@ -1,0 +1,19 @@
+^3 = NAME: Kikou Heidan - J-Phoenix 2 (Ntsc-J)
+^2 = GameID: SLPM-65343
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9030AC58 0C0C2ABE
+!!
++Debug Camera Mode [View Note] {<I>Ress L2 + R2 In Game To Enable, L3 To Disable. With It Active, Press Select In Game.</I>}
+%Credits: punk7890
+$D0830DC2 0000FCFF
+$20466E54 00000004
+$D0830DC2 0000FFFD
+$20466E54 00000001
++Debug Info Display
+%Credits: punk7890
+$201AD7A4 1000020C
+$201ADFE8 00000000
+!!
+

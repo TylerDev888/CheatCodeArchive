@@ -1,0 +1,90 @@
+^2 = GameID: AGB-BBKE-USA
+^3 = NAME: DK: King of Swing
+^4 = FILE: NTSC
+!Jokers:
++0000 type
+$02022004 ????
+$03000040 ????
+$03000044 ????
+$03000060 ????
+$03000064 ????
+$03000100 ????
+$0300036C ????
++FFFF type
+$03000046 ????
+!!
++Inf Health
+%Credits: SkillerCMP
+$3300002C 0003
++Inf/Max Bannanas
+%Credits: SkillerCMP
+$83000030 012C
++All Missions Compleat(Note You have to Beat Main boss one time to unlock everything ..You must win - this does not inclues the Jungle jam)
+%Credits: SkillerCMP
+$43000200 0101
+$00000033 0002
+$430002E0 0101
+$00000003 0002
+$430002E8 0101
+$00000008 0002
+$43000390 0101
+$0000000A 0002
+$43000280 7f05
+$00000005 0002
+$330002E6 0001
+$33000268 0001
+$83000290 0101
+$83000292 0101
+$83000294 1401
+!Player Mods:
+!Character:
++Player MOD (Story)
+%Credits: SkillerCMP
+$3300014E 000[NAME]
++Player Red
+%Credits: SkillerCMP
+$330002A0 000[NAME]
++Player Blue
+%Credits: SkillerCMP
+$330002A1 000[NAME]
++Player Yellow
+%Credits: SkillerCMP
+$330002A2 000[NAME]
++Player Green
+%Credits: SkillerCMP
+$330002A3 000[NAME]
+!!
+!Color Mod:
++Player Red
+%Credits: SkillerCMP
+$330002A4 00[COLOR]
++Player Blue
+%Credits: SkillerCMP
+$330002A5 00[COLOR]
++Player Yellow
+%Credits: SkillerCMP
+$330002A6 00[COLOR]
++Player Green
+%Credits: SkillerCMP
+$330002A7 00[COLOR]
+!!
+!!
+^6 = MODS:
+[COLOR]
+00	Normal
+01	Blue
+02	Red
+03	Green
+[/COLOR]
+[NAME]
+0 = Donkey Kong
+1 = Diddy Kong
+2 = Dixie Kong
+3 = Funky Kong
+4 = King K. Rool
+5 = Kremling
+6 = Wrinkly Kong
+7 = Bubbles
+8 = Wrinkly Kong
+9 = Kremling
+[/NAME]

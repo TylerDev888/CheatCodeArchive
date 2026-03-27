@@ -1,0 +1,138 @@
+^2 = GameID: CUSA33151
+^3 = NAME: Assassin's Creed: Mirage
+^SECONDLAYER: YES
+^4 = FILE: (Manual|Auto|Quick)Save[0-9]+\(Manual|Auto|Quick)Save[0-9]+.sav
++Item Swap
+$80010026 1C000B01
+$[Main<Item Replacing>]
+$16000000 B8D11793
+$B8D11793 00001C00
+$0B01[Secondary<Item Replacing>]
+$A8000004 00000008
+$[Main<Item Want>]
+$A800001E 00000008
+$[Secondary]
++Item Amount
+$80010026 1C000B01
+$[Main<Main ID of Item>]
+$16000000 B8D11793
+$B8D11793 00001C00
+$0B01[Secondary<Secondary ID of Item>]
+$8801000D 60748566
+$00000000 00000700
+$0B000000 00000000
+$2800000D [Amount:0000270F:HEX:BIG<Quantity>]
++Skill Points
+$80010004 C80A5A6E
+$2800000D 000000[Amount:3D:HEX:BIG]
+$80020004 C80A5A6E
+$2800000D 000000[Amount:3D:HEX:BIG]
+$80030004 C80A5A6E
+$2800000D 000000[Amount:3D:HEX:BIG]
+^6 = MODS:
+[Main]
+Main ID>Name>Type
+2D2DC54DEF010000	Blow Darts	Consumables
+E7DF614BEA010000	Elixir	Consumables
+592EC54DEF010000	Noisemaker   	Consumables
+612EC54DEF010000	Smoke Bombs	Consumables
+0492114DEB010000	Throwing Knife	Consumables
+692EC54DEF010000	Traps	Consumables
+F5DD5CECFC010000	Mysterious Shards	Quest items
+07E0614BEA010000	Dirhams	Resources
+485BCB4DEF010000	Merchant Favor Token	Resources
+F458CB4DEF010000	Power Favor Token	Resources
+425BCB4DEF010000	Scholar Favor Token	Resources
+1E5676C3EE010000	Anthropomorphic Pendant	Trade Goods
+AE5676C3EE010000	Babylonian Jewelry	Trade Goods
+125676C3EE010000	Bone Button	Trade Goods
+905276C3EE010000	Bone Dice	Trade Goods
+305676C3EE010000	Bone Toy Statuette	Trade Goods
+245676C3EE010000	Bone Whistle	Trade Goods
+9C5676C3EE010000	Emerald Ring	Trade Goods
+B45676C3EE010000	Faravahar	Trade Goods
+065676C3EE010000	Flamingo Feather	Trade Goods
+0C5676C3EE010000	Hare Foot	Trade Goods
+185676C3EE010000	Horse Harness	Trade Goods
+905676C3EE010000	Iron Brooch	Trade Goods
+A85676C3EE010000	Jade Medallion	Trade Goods
+2A5676C3EE010000	Oil Lamp	Trade Goods
+DC5476C3EE010000	Peacock Feather	Trade Goods
+545676C3EE010000	Tang Dynasty Coin	Trade Goods
+5A5676C3EE010000	Jade Coin	Trade Goods
+E4C6777DED010000	Components	Upgrade Materials
+B8AE614BEA010000	Leather	Upgrade Materials
+C7AE614BEA010000	Steel Ingot	Upgrade Materials
+DA9DCC4DEF010000	Abbasid Knight Dagger Upgrade Schematic	Upgrade Schematic
+4C87CC4DEF010000	Abbasid Knight Outfit Upgrade Schematic	Upgrade Schematic
+F89DCC4DEF010000	Abbasid Knight Sword Upgrade Schematic	Upgrade Schematic
+5D89727DED010000	Dagger of Time Upgrade Schematic	Upgrade Schematic
+DF9DCC4DEF010000	Hidden One Dagger Upgrade Schematic	Upgrade Schematic
+5187CC4DEF010000	Hidden One Outfit Upgrade Schematic	Upgrade Schematic
+FD9DCC4DEF010000	Hidden One Sword Upgrade Schematic	Upgrade Schematic
+1A9CCC4DEF010000	Initiate Of Alamut Dagger Upgrade Schematic	Upgrade Schematic
+0339CC4DEF010000	Initiate of Alamut Outfit Upgrade Schematic	Upgrade Schematic
+EE9DCC4DEF010000	Initiate of Alamut Sword Upgrade Schematic	Upgrade Schematic
+E49DCC4DEF010000	Rostam Dagger Upgrade Schematic	Upgrade Schematic
+5687CC4DEF010000	Rostam Outfit Upgrade Schematic	Upgrade Schematic
+029ECC4DEF010000	Rostam Sword Upgrade Schematic	Upgrade Schematic
+5789727DED010000	Sand Outfit Upgrade Schematic	Upgrade Schematic
+6389727DED010000	Sand Sword Upgrade Schematic	Upgrade Schematic
+D59DCC4DEF010000	Zanj Uprising Dagger Upgrade Schematic	Upgrade Schematic
+4787CC4DEF010000	Zanj Uprising Outfit Upgrade Schematic	Upgrade Schematic
+F39DCC4DEF010000	Zanj Uprising Sword Upgrade Schematic	Upgrade Schematic
+6989727DED010000	Basims Valhalla Sword Upgrade Schematic	Upgrade Schematic
+[/Main]
+[Secondary]
+Secondary ID>Name>Type
+DD31C54DEF010000	Blow Darts	Consumables
+E8DF614BEA010000	Elixir	Consumables
+DF31C54DEF010000	Noisemaker   	Consumables
+E031C54DEF010000	Smoke Bombs	Consumables
+7EC3114DEB010000	Throwing Knife	Consumables
+DE31C54DEF010000	Traps	Consumables
+06DE5CECFC010000	Mysterious Shards	Quest items
+08E0614BEA010000	Dirhams	Resources
+7164CB4DEF010000	Merchant Favor Token	Resources
+7264CB4DEF010000	Power Favor Token	Resources
+7364CB4DEF010000	Scholar Favor Token	Resources
+8EAD76C3EE010000	Anthropomorphic Pendant	Trade Goods
+AFC376C3EE010000	Babylonian Jewelry	Trade Goods
+C4A776C3EE010000	Bone Button	Trade Goods
+E8A176C3EE010000	Bone Dice	Trade Goods
+89B076C3EE010000	Bone Toy Statuette	Trade Goods
+BDAE76C3EE010000	Bone Whistle	Trade Goods
+22C076C3EE010000	Emerald Ring	Trade Goods
+DEC476C3EE010000	Faravahar	Trade Goods
+42A476C3EE010000	Flamingo Feather	Trade Goods
+95A676C3EE010000	Hare Foot	Trade Goods
+CDAB76C3EE010000	Horse Harness	Trade Goods
+C4BD76C3EE010000	Iron Brooch	Trade Goods
+12C376C3EE010000	Jade Medallion	Trade Goods
+5AAF76C3EE010000	Oil Lamp	Trade Goods
+17A376C3EE010000	Peacock Feather	Trade Goods
+A3B776C3EE010000	Tang Dynasty Coin	Trade Goods
+64B976C3EE010000	Jade Coin	Trade Goods
+7BCB777DED010000	Components	Upgrade Materials
+B9AE614BEA010000	Leather	Upgrade Materials
+C8AE614BEA010000	Steel Ingot	Upgrade Materials
+238E727DED010000	Abbasid Knight Dagger Upgrade Schematic	Upgrade Schematic
+158DCC4DEF010000	Abbasid Knight Outfit Upgrade Schematic	Upgrade Schematic
+658E727DED010000	Abbasid Knight Sword Upgrade Schematic	Upgrade Schematic
+448E727DED010000	Dagger of Time Upgrade Schematic	Upgrade Schematic
+2E8E727DED010000	Hidden One Dagger Upgrade Schematic	Upgrade Schematic
+168DCC4DEF010000	Hidden One Outfit Upgrade Schematic	Upgrade Schematic
+708E727DED010000	Hidden One Sword Upgrade Schematic	Upgrade Schematic
+0D8E727DED010000	Initiate Of Alamut Dagger Upgrade Schematic	Upgrade Schematic
+5E71CC4DEF010000	Initiate of Alamut Outfit Upgrade Schematic	Upgrade Schematic
+4F8E727DED010000	Initiate of Alamut Sword Upgrade Schematic	Upgrade Schematic
+398E727DED010000	Rostam Dagger Upgrade Schematic	Upgrade Schematic
+178DCC4DEF010000	Rostam Outfit Upgrade Schematic	Upgrade Schematic
+7B8E727DED010000	Rostam Sword Upgrade Schematic	Upgrade Schematic
+938A727DED010000	Sand Outfit Upgrade Schematic	Upgrade Schematic
+868E727DED010000	Sand Sword Upgrade Schematic	Upgrade Schematic
+188E727DED010000	Zanj Uprising Dagger Upgrade Schematic	Upgrade Schematic
+148DCC4DEF010000	Zanj Uprising Outfit Upgrade Schematic	Upgrade Schematic
+5A8E727DED010000	Zanj Uprising Sword Upgrade Schematic	Upgrade Schematic
+918E727DED010000	Basims Valhalla Sword Upgrade Schematic	Upgrade Schematic
+[/Secondary]

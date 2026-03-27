@@ -1,0 +1,24 @@
+^3 = NAME: Indiana Jones And The Emperor's Tomb (Pal-Unk)
+^2 = GameID: SLES-50840
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01001B8 0000000E
++(M) Must Be On
+%Credits: Codejunkies
+$F01001B8 001001BB
+!!
++Infinite Health
+%Credits: Codejunkies
+$D034C368 0000010C
+$2034C378 3C017F00
+$D034C368 0000010C
+$2034C388 AC41010C
++Infinite Health
+%Credits: Codejunkies
+$D034C2B8 0000010C
+$2034C2C8 3C017F00
+$D034C2B8 0000010C
+$2034C2D8 AC41010C
+!!
+

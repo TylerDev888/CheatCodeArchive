@@ -1,0 +1,256 @@
+^1 = HASH: 10BB2872
+^3 = NAME: Defender
+^2 = GameID: SLUS_201.91
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002398D7
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$902398D4 0C098105
+!!
+!Codes:
++Infinite Lives
+%Credits: Code Master
+$105653C4 00000009
++Infinite Credits
+%Credits: Code Master
+$105653C8 0000FFFF
++Max Credits
+%Credits: Code Master
+$205653C8 05F5E0FF
++Infinite Ammo
+%Credits: Code Master
+$201DFB54 00000000
+$201E02BC 00000000
+$201E02C8 00000000
++Infinite Health
+%Credits: Code Master
+$20186DB4 8E01020C
+$20186DB8 AE010208
++Unlock All Ships
+%Credits: Code Master
+$20565360 000000FF
+!!
+!Mission Completion Screen Codes:
++Max Total
+%Credits: Code Master
+$215E8BE0 3B9AC9FF
++Max Kill Bonus
+%Credits: Code Master
+$215E8BE4 3B9AC9FF
++Max Colonists Rescued
+%Credits: Code Master
+$215E8BF8 000003E7
++No Colonists Mutated
+%Credits: Code Master
+$215E8C04 00000000
++No Colonists Killed
+%Credits: Code Master
+$215E8C10 00000000
+!!
+!Access Mission Codes:
++Triton-Stage 1 & 2
+%Credits: Code Master
+$20565364 00000003
++Prometheus-Stage 1 & 2
+%Credits: Code Master
+$20565368 00000003
++Rhea-Stage 1
+%Credits: Code Master
+$2056536C 00000001
++Titan-Stage 1 & 2
+%Credits: Code Master
+$20565370 00000003
++Europa-Stage 1 & 2
+%Credits: Code Master
+$20565374 00000003
++Phobos-Stage 1 & 2
+%Credits: Code Master
+$20565378 00000003
++Mars-Stage 1-4
+%Credits: Code Master
+$2056537C 0000000F
++Asteroid Belt-Stage 1
+%Credits: Code Master
+$20565380 00000001
++Moon-Stage 1-3
+%Credits: Code Master
+$20565384 00000007
++Earth-Stage 1 & 2
+%Credits: Code Master
+$20565388 00000003
+!!
+!Defender Weapon Modifier Codes:
++Weapon 1
+%Credits: Code Master
+$204C644C ????????
++Weapon 2
+%Credits: Code Master
+$204C6450 ????????
++Weapon 3
+%Credits: Code Master
+$204C6454 ????????
++Weapon 4
+%Credits: Code Master
+$204C6458 ????????
++Weapon 5
+%Credits: Code Master
+$204C645C ????????
+!!
+!Guardian Weapon Modifier Codes:
++Weapon 1
+%Credits: Code Master
+$204C654C ????????
++Weapon 2
+%Credits: Code Master
+$204C6550 ????????
++Weapon 3
+%Credits: Code Master
+$204C6554 ????????
++Weapon 4
+%Credits: Code Master
+$204C6558 ????????
++Weapon 5
+%Credits: Code Master
+$204C655C ????????
+!!
+!Nemesis Weapon Modifier Codes:
++Weapon 1
+%Credits: Code Master
+$204C664C ????????
++Weapon 2
+%Credits: Code Master
+$204C6650 ????????
++Weapon 3
+%Credits: Code Master
+$204C6654 ????????
++Weapon 4
+%Credits: Code Master
+$204C6658 ????????
++Weapon 5
+%Credits: Code Master
+$204C665C ????????
+!!
+!Defiance Weapon Modifier Codes:
++Weapon 1
+%Credits: Code Master
+$204C674C ????????
++Weapon 2
+%Credits: Code Master
+$204C6750 ????????
++Weapon 3
+%Credits: Code Master
+$204C6754 ????????
++Weapon 4
+%Credits: Code Master
+$204C6758 ????????
++Weapon 5
+%Credits: Code Master
+$204C675C ????????
+!!
+!Judgment Weapon Modifier Codes:
++Weapon 1
+%Credits: Code Master
+$204C684C ????????
++Weapon 2
+%Credits: Code Master
+$204C6850 ????????
++Weapon 3
+%Credits: Code Master
+$204C6854 ????????
++Weapon 4
+%Credits: Code Master
+$204C6858 ????????
++Weapon 5
+%Credits: Code Master
+$204C685C ????????
+!!
+!Retribution Weapon Modifier Codes:
++Weapon 1
+%Credits: Code Master
+$204C694C ????????
++Weapon 2
+%Credits: Code Master
+$204C6950 ????????
++Weapon 3
+%Credits: Code Master
+$204C6954 ????????
++Weapon 4
+%Credits: Code Master
+$204C6958 ????????
++Weapon 5
+%Credits: Code Master
+$204C695C ????????
+!!
+^6 = MODS:
+Quantity Digits to Accompany Defender Weapon Digits
+1F1F1F1F 0000000-
+00000000 0000000-
+00000001 0000000-
+00000002 0000000-
+00000003 0000000-
+00000004 0000000-
+00000005 0000000-
+00000006 0000000-
+00000007 0000000-
+00000008 0000000-
+00000010 0000000-
+00000011 0000000-
+Quantity Digits to Accompany Guardian Weapon Digits
+1F1F1F1F 0000000-
+00000000 0000000-
+00000001 0000000-
+00000002 0000000-
+00000003 0000000-
+00000004 0000000-
+00000005 0000000-
+00000006 0000000-
+00000007 0000000-
+00000008 0000000-
+00000010 0000000-
+00000011 0000000-
+Quantity Digits to Accompany Nemesis Weapon Digits
+1F1F1F1F 0000000-
+00000000 0000000-
+00000001 0000000-
+00000002 0000000-
+00000003 0000000-
+00000004 0000000-
+00000005 0000000-
+00000006 0000000-
+00000010 0000000-
+00000011 0000000-
+Quantity Digits to Accompany Defiance Weapon Digits
+1F1F1F1F 0000000-
+00000000 0000000-
+00000001 0000000-
+00000002 0000000-
+00000003 0000000-
+00000004 0000000-
+00000005 0000000-
+00000006 0000000-
+00000010 0000000-
+00000011 0000000-
+Quantity Digits to Accompany Judgment Weapon Digits
+1F1F1F1F 0000000-
+00000000 0000000-
+00000001 0000000-
+00000002 0000000-
+00000003 0000000-
+00000004 0000000-
+00000005 0000000-
+00000006 0000000-
+00000007 0000000-
+00000010 0000000-
+00000011 0000000-
+Quantity Digits to Accompany Retribution Weapon Digits
+1F1F1F1F 0000000-
+00000000 0000000-
+00000001 0000000-
+00000002 0000000-
+00000003 0000000-
+00000004 0000000-
+00000005 0000000-
+00000010 0000000-
+00000011 0000000-

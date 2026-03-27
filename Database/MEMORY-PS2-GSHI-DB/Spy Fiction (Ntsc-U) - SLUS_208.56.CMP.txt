@@ -1,0 +1,298 @@
+^3 = NAME: Spy Fiction (Ntsc-U)
+^2 = GameID: SLUS-20856
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01209F4 001209F7
++Enable Code (Must Be On)
+%Credits: Code Master
+$901209F4 0C04983A
++[M] Must Be On
+%Credits: MadCatz
+$90136D5C 0C048234
+!!
+!Data Item Codes:
++File Screen
+%Credits: Codejunkies
+$1021FBFE 00000001
++Map
+%Credits: Codejunkies
+$1021FBFC 00000001
++Ultimatum Video
+%Credits: Codejunkies
+$1021FC00 00000001
+!!
+!Equipment Codes:
++3DA Cam
+%Credits: Codejunkies
+$1021FBAE 00000001
++Bio Sensor
+%Credits: Codejunkies
+$1021FBBA 00000001
++Body Armor
+%Credits: Codejunkies
+$1021FBB4 00000001
++Mine Detector
+%Credits: Codejunkies
+$1021FBB8 00000001
++Rappelling Kit
+%Credits: Codejunkies
+$1021FBB0 00000001
++Rebound Armor
+%Credits: Codejunkies
+$1021FBB6 00000001
++Recovery L
+%Credits: Codejunkies
+$1021FBC2 00000063
++Recovery M
+%Credits: Codejunkies
+$1021FBC0 00000063
++Recovery S
+%Credits: Codejunkies
+$1021FBBE 00000063
++Spider Grip
+%Credits: Codejunkies
+$1021FBB2 00000001
++Toe Blade
+%Credits: Codejunkies
+$1021FBBC 00000001
+!!
+!Event Item Codes:
++Cooling Spray
+%Credits: Codejunkies
+$1021FBDA 00000001
++Current Lottery Ticket
+%Credits: Codejunkies
+$1021FBC6 00000001
++Expired Lotto Ticket
+%Credits: Codejunkies
+$1021FBC8 00000001
++Level 1 Card
+%Credits: Codejunkies
+$1021FBD4 00000001
++Level 2 Card
+%Credits: Codejunkies
+$1021FBD6 00000001
++Message Card And Cocktail
+%Credits: Codejunkies
+$1021FBDE 00000001
++Old Lotto Ticket
+%Credits: Codejunkies
+$1021FBCA 00000001
++Optical Disc
+%Credits: Codejunkies
+$1021FBDC 00000001
++Password Memo
+%Credits: Codejunkies
+$1021FBE2 00000001
++Retina Goggles
+%Credits: Codejunkies
+$1021FBD0 00000001
++Retina Scanner
+%Credits: Codejunkies
+$1021FBD8 00000001
++Security Tags
+%Credits: Codejunkies
+$1021FBE0 00000063
++Sports Weekly
+%Credits: Codejunkies
+$1021FBD2 00000001
++Tattered Lottery Ticket
+%Credits: Codejunkies
+$1021FBCE 00000001
++Very Old Lotto Ticket
+%Credits: Codejunkies
+$1021FBCC 00000001
+!!
+!Have Event Item Codes:
++Message Card And Cocktail
+%Credits: Code Master
+$1021FBE0 00000001
++Scanning Switch
+%Credits: Code Master
+$1021FBE4 00000001
+!!
+!Have Item Codes:
++All Garbology {<I>They&#39;Ll All Be Viewed As Well.</I>}
+%Credits: MadCatz
+$4021F780 00090001
+$FFFFFFFF 00000000
++Bandage Bomb
+%Credits: MadCatz
+$1021FBA4 00000063
++Bomb Switch
+%Credits: MadCatz
+$1021FBA6 00000001
++Boomerang Card
+%Credits: MadCatz
+$1021FB9C 00000063
++Button Transmitter
+%Credits: MadCatz
+$1021FBA8 00000063
++Cig-Torch
+%Credits: MadCatz
+$1021FB9E 00000063
++ERS .40
+%Credits: MadCatz
+$1021FB7E 00000001
++Flash Pencil
+%Credits: MadCatz
+$1021FB96 00000063
++G-Butterfly
+%Credits: MadCatz
+$1021FB8E 00000001
++Galeili MAR
+%Credits: MadCatz
+$1021FB8A 00000001
++Grenade
+%Credits: MadCatz
+$1021FB90 00000063
++Handley 17G
+%Credits: MadCatz
+$1021FB80 00000001
++Hekloch P9
+%Credits: MadCatz
+$1021FB82 00000001
++Jammer
+%Credits: MadCatz
+$1021FBA2 00000063
++Mini Cam
+%Credits: MadCatz
+$1021FBAA 00000001
++O5K
+%Credits: MadCatz
+$1021FB8C 00000001
++Orion 44Mag
+%Credits: MadCatz
+$1021FB84 00000001
++Stink Bomb
+%Credits: MadCatz
+$1021FB94 00000063
++Stun Grenade
+%Credits: MadCatz
+$1021FB92 00000063
++Stun Shaver
+%Credits: MadCatz
+$1021FB9A 00000063
++T17 Carbine
+%Credits: MadCatz
+$1021FB88 00000001
++Tragerri M1I
+%Credits: MadCatz
+$1021FB86 00000001
+!!
+!Have Spy Tool Codes:
++G.N.Ring
+%Credits: Code Master
+$1021FB98 00000001
++Stun Shaver
+%Credits: Code Master
+$1021FB9A 00000001
+!!
+!Infinite Ammo Codes:
++Ers .40
+%Credits: Codejunkies
+$1021FBE6 00000063
++G-Butterfly
+%Credits: Code Master
+$1021FBF6 00000063
++G.N Ring
+%Credits: Codejunkies
+$1021FBF8 00000063
++Galeili MAR
+%Credits: Code Master
+$1021FBF2 00000063
++Handley 17G
+%Credits: Code Master
+$1021FBE8 00000063
++Heckloch P9
+%Credits: Codejunkies
+$1021FBEA 00000063
++O5K Ammo
+%Credits: MadCatz
+$1021FBF4 00000063
++Orion 44Mag
+%Credits: Code Master
+$1021FBEC 00000063
++Stun Shaver
+%Credits: Code Master
+$1021FC30 00000064
++T17 Carbine
+%Credits: Code Master
+$1021FBF0 00000063
++Tragerri M11
+%Credits: Code Master
+$1021FBEE 00000063
+!!
+!Max Ammo Codes:
++Ers .40
+%Credits: Codejunkies
+$1021FC06 00000063
++G-Butterfly
+%Credits: Code Master
+$1021FC16 00000063
++G.N Ring
+%Credits: Codejunkies
+$1021FC18 00000063
++Galeili MAR
+%Credits: Code Master
+$1021FC12 00000063
++Handley 17G
+%Credits: Code Master
+$1021FC08 00000063
++Heckloch P9
+%Credits: Codejunkies
+$1021FC0A 00000063
++O5K Ammo
+%Credits: MadCatz
+$1021FC14 00000063
++Orion 44Mag
+%Credits: Code Master
+$1021FC0C 00000063
++T17 Carbine
+%Credits: Code Master
+$1021FC10 00000063
++Tragerri M11
+%Credits: Code Master
+$1021FC0E 00000063
+!!
+!Max Equip Item Codes:
++Recovery (L)
+%Credits: Code Master
+$1021FBC2 00000001
++Recovery (M)
+%Credits: Code Master
+$1021FBC0 00000001
++Recovery (S)
+%Credits: Code Master
+$1021FBBE 00000001
+!!
+!Max Spy Tool Codes:
++Mini Cam
+%Credits: Code Master
+$1021FBAA 00000063
+!!
+!Miscellaneous:
++Never Spotted
+%Credits: MadCatz
+$2021FF48 00000000
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Extra Ammo (All Weapons)
+%Credits: Code Master
+$102E5878 00000001
++Infinite Ammo (All Weapons)
+%Credits: Code Master
+$202E587C 00000000
+!!
++Gain Ammo As You Fire {<I>Don&#39;T Use With Any Other Ammo Code!</I>}
+%Credits: MadCatz
+$202E5878 24420001
++Infinite Health
+%Credits: Codejunkies
+$105AA038 00000088
++Infinite Life {<I>In A Fist Fight You Can Be Knocked Out.</I>}
+%Credits: MadCatz
+$202C8004 00000000
+!!
+

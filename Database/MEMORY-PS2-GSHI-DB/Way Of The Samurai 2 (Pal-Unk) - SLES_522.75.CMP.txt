@@ -1,0 +1,379 @@
+^3 = NAME: Way Of The Samurai 2 (Pal-Unk)
+^2 = GameID: SLES-52275
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F011DC3C 0011DC3F
+!!
++Check Status For Max Mon
+%Credits: Codejunkies
+$200FFF00 27A40050
+$200FFF04 2406270F
+$200FFF08 A4460106
+$200FFF0C 0808AB47
+$2022AD14 0803FFC0
++Check Sword Moves For All Moves
+%Credits: Codejunkies
+$202336BC 24010001
+$202336C0 A0610000
+$202336CC A0610000
+!Equipped Sword 1 Codes:
++Have All Moves
+%Credits: Codejunkies
+$409EA860 00050001
+$01010101 00000000
++Max Attack
+%Credits: Codejunkies
+$209EA828 00000063
++Max Defence
+%Credits: Codejunkies
+$209EA82C 00000063
++Max Durability
+%Credits: Codejunkies
+$209EA830 00000009
++Max Quality
+%Credits: Codejunkies
+$209EA834 00640064
+!!
+!Equipped Sword 2 Codes:
++Have All Moves
+%Credits: Codejunkies
+$409EA960 00050001
+$01010101 00000000
++Max Attack
+%Credits: Codejunkies
+$209EA928 00000063
++Max Defence
+%Credits: Codejunkies
+$209EA92C 00000063
++Max Durability
+%Credits: Codejunkies
+$209EA930 00000009
++Max Quality
+%Credits: Codejunkies
+$209EA934 00640064
+!!
+!Equipped Sword 3 Codes:
++All Difficulties
+%Credits: Codejunkies
+$109EA65A 00000064
++Have All Consumable Items
+%Credits: Codejunkies
+$209EA7A0 04030201
+$209EA7A4 08070609
++Have All Decorative Items
+%Credits: Codejunkies
+$209F1338 22210101
+$209F133C 26252423
+$209F1340 2A292827
+$209F1344 2E2D2C2B
+$209F1348 3231302F
+$209F134C 36353433
+$209F1350 3A393837
+$109F1354 00003C3B
++Have All Heads/Costumes
+%Credits: Codejunkies
+$109EA658 000000FF
++Have All Moves
+%Credits: Codejunkies
+$409EAA60 00050001
+$01010101 00000000
++Max Attack
+%Credits: Codejunkies
+$209EAA28 00000063
++Max Defence
+%Credits: Codejunkies
+$209EAA2C 00000063
++Max Durability
+%Credits: Codejunkies
+$209EAA30 00000009
++Max Quality
+%Credits: Codejunkies
+$209EAA34 00640064
+!!
++Infinite EP
+%Credits: Codejunkies
+$201DACC0 8492010A
+$201DADC0 A4D20108
+$201DADC4 ACB20090
++Infinite Health
+%Credits: Codejunkies
+$200FFF40 86830042
+$200FFF44 A6830040
+$200FFF48 AFA3008C
+$200FFF4C 03E00008
+$201DADB8 0C03FFD0
+!Special Item Slot 1 Codes:
++100 Ryo Box
+%Credits: Codejunkies
+$009EA7A8 0000001E
++Amagalsa Doll
+%Credits: Codejunkies
+$009EA7A8 00000015
++Baby
+%Credits: Codejunkies
+$009EA7A8 0000001C
++Buddhist Beads
+%Credits: Codejunkies
+$009EA7A8 00000010
++Charm
+%Credits: Codejunkies
+$009EA7A8 0000000C
++Devil Mushroom
+%Credits: Codejunkies
+$009EA7A8 00000016
++Hair Ornament
+%Credits: Codejunkies
+$009EA7A8 00000019
++Kitten
+%Credits: Codejunkies
+$009EA7A8 0000001A
++Letter
+%Credits: Codejunkies
+$009EA7A8 0000001F
++Longevity Powder
+%Credits: Codejunkies
+$009EA7A8 00000013
++Magic Bead
+%Credits: Codejunkies
+$009EA7A8 00000012
++Money Box
+%Credits: Codejunkies
+$009EA7A8 0000001D
++Parcel
+%Credits: Codejunkies
+$009EA7A8 00000017
++Parcel 2
+%Credits: Codejunkies
+$009EA7A8 00000018
++Scroll
+%Credits: Codejunkies
+$009EA7A8 0000000D
++Secret Papers
+%Credits: Codejunkies
+$009EA7A8 0000001B
++Secret Scroll
+%Credits: Codejunkies
+$009EA7A8 0000000F
++Small Bottle
+%Credits: Codejunkies
+$009EA7A8 00000020
++Special Scroll
+%Credits: Codejunkies
+$009EA7A8 0000000E
++Sword Oil
+%Credits: Codejunkies
+$009EA7A8 00000014
++Sword Powder
+%Credits: Codejunkies
+$009EA7A8 0000000B
++Talisman
+%Credits: Codejunkies
+$009EA7A8 00000011
+!!
+!Special Item Slot 2 Codes:
++100 Ryo Box
+%Credits: Codejunkies
+$009EA7A9 0000001E
++Amagalsa Doll
+%Credits: Codejunkies
+$009EA7A9 00000015
++Baby
+%Credits: Codejunkies
+$009EA7A9 0000001C
++Buddhist Beads
+%Credits: Codejunkies
+$009EA7A9 00000010
++Charm
+%Credits: Codejunkies
+$009EA7A9 0000000C
++Devil Mushroom
+%Credits: Codejunkies
+$009EA7A9 00000016
++Hair Ornament
+%Credits: Codejunkies
+$009EA7A9 00000019
++Kitten
+%Credits: Codejunkies
+$009EA7A9 0000001A
++Letter
+%Credits: Codejunkies
+$009EA7A9 0000001F
++Longevity Powder
+%Credits: Codejunkies
+$009EA7A9 00000013
++Magic Bead
+%Credits: Codejunkies
+$009EA7A9 00000012
++Money Box
+%Credits: Codejunkies
+$009EA7A9 0000001D
++Parcel
+%Credits: Codejunkies
+$009EA7A9 00000017
++Parcel 2
+%Credits: Codejunkies
+$009EA7A9 00000018
++Scroll
+%Credits: Codejunkies
+$009EA7A9 0000000D
++Secret Papers
+%Credits: Codejunkies
+$009EA7A9 0000001B
++Secret Scroll
+%Credits: Codejunkies
+$009EA7A9 0000000F
++Small Bottle
+%Credits: Codejunkies
+$009EA7A9 00000020
++Special Scroll
+%Credits: Codejunkies
+$009EA7A9 0000000E
++Sword Oil
+%Credits: Codejunkies
+$009EA7A9 00000014
++Sword Powder
+%Credits: Codejunkies
+$009EA7A9 0000000B
++Talisman
+%Credits: Codejunkies
+$009EA7A9 00000011
+!!
+!Special Item Slot 3 Codes:
++100 Ryo Box
+%Credits: Codejunkies
+$009EA7AA 0000001E
++Amagalsa Doll
+%Credits: Codejunkies
+$009EA7AA 00000015
++Baby
+%Credits: Codejunkies
+$009EA7AA 0000001C
++Buddhist Beads
+%Credits: Codejunkies
+$009EA7AA 00000010
++Charm
+%Credits: Codejunkies
+$009EA7AA 0000000C
++Devil Mushroom
+%Credits: Codejunkies
+$009EA7AA 00000016
++Hair Ornament
+%Credits: Codejunkies
+$009EA7AA 00000019
++Kitten
+%Credits: Codejunkies
+$009EA7AA 0000001A
++Letter
+%Credits: Codejunkies
+$009EA7AA 0000001F
++Longevity Powder
+%Credits: Codejunkies
+$009EA7AA 00000013
++Magic Bead
+%Credits: Codejunkies
+$009EA7AA 00000012
++Money Box
+%Credits: Codejunkies
+$009EA7AA 0000001D
++Parcel
+%Credits: Codejunkies
+$009EA7AA 00000017
++Parcel 2
+%Credits: Codejunkies
+$009EA7AA 00000018
++Scroll
+%Credits: Codejunkies
+$009EA7AA 0000000D
++Secret Papers
+%Credits: Codejunkies
+$009EA7AA 0000001B
++Secret Scroll
+%Credits: Codejunkies
+$009EA7AA 0000000F
++Small Bottle
+%Credits: Codejunkies
+$009EA7AA 00000020
++Special Scroll
+%Credits: Codejunkies
+$009EA7AA 0000000E
++Sword Oil
+%Credits: Codejunkies
+$009EA7AA 00000014
++Sword Powder
+%Credits: Codejunkies
+$009EA7AA 0000000B
++Talisman
+%Credits: Codejunkies
+$009EA7AA 00000011
+!!
+!Special Item Slot 4 Codes:
++100 Ryo Box
+%Credits: Codejunkies
+$009EA7AB 0000001E
++Amagalsa Doll
+%Credits: Codejunkies
+$009EA7AB 00000015
++Baby
+%Credits: Codejunkies
+$009EA7AB 0000001C
++Buddhist Beads
+%Credits: Codejunkies
+$009EA7AB 00000010
++Charm
+%Credits: Codejunkies
+$009EA7AB 0000000C
++Devil Mushroom
+%Credits: Codejunkies
+$009EA7AB 00000016
++Hair Ornament
+%Credits: Codejunkies
+$009EA7AB 00000019
++Kitten
+%Credits: Codejunkies
+$009EA7AB 0000001A
++Letter
+%Credits: Codejunkies
+$009EA7AB 0000001F
++Longevity Powder
+%Credits: Codejunkies
+$009EA7AB 00000013
++Magic Bead
+%Credits: Codejunkies
+$009EA7AB 00000012
++Money Box
+%Credits: Codejunkies
+$009EA7AB 0000001D
++Parcel
+%Credits: Codejunkies
+$009EA7AB 00000017
++Parcel 2
+%Credits: Codejunkies
+$009EA7AB 00000018
++Scroll
+%Credits: Codejunkies
+$009EA7AB 0000000D
++Secret Papers
+%Credits: Codejunkies
+$009EA7AB 0000001B
++Secret Scroll
+%Credits: Codejunkies
+$009EA7AB 0000000F
++Small Bottle
+%Credits: Codejunkies
+$009EA7AB 00000020
++Special Scroll
+%Credits: Codejunkies
+$009EA7AB 0000000E
++Sword Oil
+%Credits: Codejunkies
+$009EA7AB 00000014
++Sword Powder
+%Credits: Codejunkies
+$009EA7AB 0000000B
++Talisman
+%Credits: Codejunkies
+$009EA7AB 00000011
+!!
+!!
+

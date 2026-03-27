@@ -1,0 +1,560 @@
+^3 = NAME: Pirates - Legend Of Black Kat (Ntsc-U)
+^2 = GameID: SLUS-20365
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F010130C 002C944F
++(M) Must Be On
+%Credits: Codejunkies
+$F02C944C 002C944F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F02A7B70 002C944F
+!!
+!Chain Shot Codes:
++Infinite Chain Shot
+%Credits: Codejunkies
+$10411D48 000003E7
++Never Have More Than 5 Chain Shot
+%Credits: Codejunkies
+$E0010005 30411D48
+$10411D48 00000005
++Never Have More Than 10 Chain Shot
+%Credits: Codejunkies
+$E001000A 30411D48
+$10411D48 0000000A
++Never Have More Than 20 Chain Shot
+%Credits: Codejunkies
+$E0010014 30411D48
+$10411D48 00000014
+!!
++Costume Modifier {<I>00 - Costume 1 01 - Costume 2 02 - Costume 3 03 - Costume 4 04 - Costume 5 05 - Costume 6 06 - Costume 7 07 - Costume 8 08 - Costume 9 09 - Costume 10</I>}
+%Credits: Code Master
+$203A585C 00000001
+$203A5860 000000??
+!Dart Codes:
++Infinite Darts
+%Credits: Codejunkies
+$10411D18 000003E7
++Never Have More Than 5 Darts
+%Credits: Codejunkies
+$E0010005 30411D18
+$10411D18 00000005
++Never Have More Than 10 Darts
+%Credits: Codejunkies
+$E001000A 30411D18
+$10411D18 0000000A
++Never Have More Than 20 Darts
+%Credits: Codejunkies
+$E0010014 30411D18
+$10411D18 00000014
+!!
+!Firepot Codes:
++Dolphin Figurehead
+%Credits: Codejunkies
+$10411DC0 00000001
++High-Pitched Voices
+%Credits: Codejunkies
+$104159D8 00000001
++Infinite Firepots
+%Credits: Codejunkies
+$10411D54 000003E7
++Infinite Gust
+%Credits: Codejunkies
+$104159E0 00000001
++Infinite Items
+%Credits: Codejunkies
+$104159EC 00000001
++Infinite Magic Harps
+%Credits: Codejunkies
+$10411DA8 000003E7
++Infinite Scarecrows
+%Credits: Codejunkies
+$10411DA4 000003E7
++Kat Is Invincible
+%Credits: Codejunkies
+$104159E4 00000001
++Lion Figurehead
+%Credits: Codejunkies
+$10411DB0 00000001
++Max Cannons
+%Credits: Codejunkies
+$10411D04 00000005
++Max Cannons Aboard
+%Credits: Codejunkies
+$10411D70 00000009
++Never Have More Than 5 Firepots
+%Credits: Codejunkies
+$E0010005 30411D54
+$10411D54 00000005
++Never Have More Than 10 Firepots
+%Credits: Codejunkies
+$E001000A 30411D54
+$10411D54 0000000A
++Never Have More Than 20 Firepots
+%Credits: Codejunkies
+$E0010014 30411D54
+$10411D54 00000014
++Poseidon Figurehead
+%Credits: Codejunkies
+$10411DAC 00000001
++Ram Figurehead
+%Credits: Codejunkies
+$10411DBC 00000001
++Scrapbook Complete
+%Credits: Codejunkies
+$103A41F0 000000C8
++Sea Serpent Figurehead
+%Credits: Codejunkies
+$10411DB4 00000001
++The Ship Is Invincible
+%Credits: Codejunkies
+$104159E8 00000001
++Wolf Figurehead
+%Credits: Codejunkies
+$10411DB8 00000001
+!!
+!Flask Bomb Codes:
++Infinite Flask Bombs
+%Credits: Codejunkies
+$10411D28 000003E7
++Never Have More Than 5 Flask Bombs
+%Credits: Codejunkies
+$E0010005 30411D28
+$10411D28 00000005
++Never Have More Than 10 Flask Bombs
+%Credits: Codejunkies
+$E001000A 30411D28
+$10411D28 0000000A
++Never Have More Than 20 Flask Bombs
+%Credits: Codejunkies
+$E0010014 30411D28
+$10411D28 00000014
+!!
++Have Brass Key
+%Credits: Code Master
+$10411DEC 00000001
++Have Brigantine Upgrade
+%Credits: Code Master
+$10411D60 00000001
++Have Carrack Upgrade
+%Credits: Code Master
+$10411D64 00000001
++Have Compass
+%Credits: Code Master
+$10411D88 00000001
++Have Copper Key
+%Credits: Code Master
+$10411DE8 00000001
++Have Haunted Chart Stone
+%Credits: Code Master
+$10411D74 00000001
++Have Iron Key
+%Credits: Code Master
+$10411DE4 00000001
++Have Privateer Upgrade
+%Credits: Code Master
+$10411D5C 00000001
++Have Ship In A Bottle
+%Credits: Code Master
+$10411DD0 00000001
++Have Skeleton Key
+%Credits: Code Master
+$10411DF0 00000001
++Have Skull Cove Chart Stone
+%Credits: Code Master
+$10411D84 00000001
++Have Sloop Upgrade
+%Credits: Code Master
+$10411D58 00000001
++Have Sword 1
+%Credits: Code Master
+$10411D34 00000001
++Have Sword 2
+%Credits: Code Master
+$10411D38 00000001
++Have Sword 3
+%Credits: Code Master
+$10411D3C 00000001
++Have Sword 4
+%Credits: Code Master
+$10411D40 00000001
++Have Sword 5
+%Credits: Code Master
+$10411D44 00000001
++Have Volcanic Chart Stone
+%Credits: Code Master
+$10411D80 00000001
++Have Voodoo Chart Stone
+%Credits: Code Master
+$10411D78 00000001
++Have Winter Chart Stone
+%Credits: Code Master
+$10411D7C 00000001
++Infinite Black Powder
+%Credits: Code Master
+$10411D94 00000063
++Infinite Chain Shot
+%Credits: Code Master
+$10411D48 00000063
++Infinite Crystal Tiki
+%Credits: Code Master
+$10411E0C 00000063
++Infinite Earth Tiki
+%Credits: Code Master
+$10411E10 00000063
++Infinite Fire Bombs
+%Credits: Code Master
+$10411D28 00000063
++Infinite Fire Tiki
+%Credits: Code Master
+$10411E14 00000063
++Infinite Firepots
+%Credits: Code Master
+$10411D54 00000063
++Infinite Fruit
+%Credits: Code Master
+$10411DD4 00000063
++Infinite Ghost Bombs
+%Credits: Code Master
+$10411D14 00000063
++Infinite Gold Doubloons
+%Credits: Code Master
+$10411D68 0000FFFF
++Infinite Golden Harp
+%Credits: Code Master
+$10411DA8 00000063
++Infinite Grape Shot
+%Credits: Code Master
+$10411D4C 00000063
++Infinite Grog Full
+%Credits: Code Master
+$10411DDC 00000063
++Infinite Grog Half
+%Credits: Code Master
+$10411DD8 00000063
++Infinite Health
+%Credits: Code Master
+$10411CE4 000000E1
++Infinite Ice Tiki
+%Credits: Code Master
+$10411E18 00000063
+!Infinite Items:
++Infinite Earth Tiki
+%Credits: InterAct
+$10411E10 000003E7
++Infinite Fire Tiki
+%Credits: InterAct
+$10411E14 000003E7
++Infinite Gust
+%Credits: InterAct
+$104121EE 00003F80
++Infinite Ice Tiki
+%Credits: InterAct
+$10411E18 000003E7
++Infinite Invis. Potion
+%Credits: InterAct
+$10411E0C 000003E7
++Infinite Lightning Tiki
+%Credits: InterAct
+$10411E1C 000003E7
++Infinite Lumber
+%Credits: InterAct
+$10411D8C 000003E7
++Infinite Magic Sand
+%Credits: InterAct
+$10411E08 000003E7
++Infinite Mines
+%Credits: InterAct
+$10411D94 000003E7
++Infinite Mini Kegs
+%Credits: InterAct
+$10411D10 000003E7
++Infinite Sail Cloth
+%Credits: InterAct
+$10411D90 000003E7
++Infinite Scatter Shot
+%Credits: InterAct
+$10411D4C 000003E7
++Infinite Skull Grenades
+%Credits: InterAct
+$10411D20 000003E7
++Infinite Special Cannon Attack
+%Credits: InterAct
+$104121E2 00003F80
++Infinite Spirit Bottles
+%Credits: InterAct
+$10411D14 000003E7
++Infinite Stinkbombs
+%Credits: InterAct
+$10411D50 000003E7
++Infinite Throwing Axes
+%Credits: InterAct
+$10411D24 000003E7
++Infinite Throwing Hammers
+%Credits: InterAct
+$10411D2C 000003E7
++Infinite Throwing Knives
+%Credits: InterAct
+$10411D0C 000003E7
++Infinite Triple Daggers
+%Credits: InterAct
+$10411D1C 000003E7
++Infinite Triple Kegs
+%Credits: InterAct
+$10411D30 000003E7
+!!
++Infinite Lumber
+%Credits: Code Master
+$10411D8C 00000063
++Infinite Magic Sand
+%Credits: Code Master
+$10411E08 00000063
++Infinite Megakegs
+%Credits: Code Master
+$10411D30 00000063
++Infinite Minikegs
+%Credits: Code Master
+$10411D10 00000063
++Infinite Poisoned Darts
+%Credits: Code Master
+$10411D18 00000063
++Infinite Sail Cloth
+%Credits: Code Master
+$10411D90 00000063
++Infinite Small Hearts
+%Credits: Code Master
+$10411D98 00000063
++Infinite Stinkbombs
+%Credits: Code Master
+$10411D50 00000063
++Infinite Storm Tiki
+%Credits: Code Master
+$10411E1C 00000063
++Infinite Throwing Axes
+%Credits: Code Master
+$10411D24 00000063
++Infinite Throwing Hammers
+%Credits: Code Master
+$10411D2C 00000063
++Infinite Throwing Knives
+%Credits: Code Master
+$10411D0C 00000063
++Infinite Vampire Skulls
+%Credits: Code Master
+$10411D20 00000063
++Infinite Voodoo Daggers
+%Credits: Code Master
+$10411D1C 00000063
++Infinite Voodoo Doll
+%Credits: Code Master
+$10411DA4 00000063
+!Kat Health Codes:
++Harmless Enemies When On Foot
+%Credits: Codejunkies
+$2025ABF8 03E00008
+$2025ABFC 00000000
++Infinite Health
+%Credits: Codejunkies
+$10411CE4 000000E1
+$10411CE8 000000E1
++Max Hearts For Kat
+%Credits: Codejunkies
+$10411CE0 00000007
++Never Have More Than 10% Health
+%Credits: Codejunkies
+$E001000F 30411CE4
+$10411CE4 0000000F
+$E001000F 30411CE8
+$10411CE8 0000000F
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E0010038 30411CE4
+$10411CE4 00000038
+$E0010038 30411CE8
+$10411CE8 00000038
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0010070 30411CE4
+$10411CE4 00000070
+$E0010070 30411CE8
+$10411CE8 00000070
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E00100A8 30411CE4
+$10411CE4 000000A8
+$E00100A8 30411CE8
+$10411CE8 000000A8
++Special Attack Full For Kat
+%Credits: Codejunkies
+$10411CCA 00003F80
+$10411CCC 00000003
+!!
+!Knife Codes:
++Never Have More Than 5 Knives
+%Credits: Codejunkies
+$E0010005 30411D0C
+$10411D0C 00000005
++Never Have More Than 10 Knives
+%Credits: Codejunkies
+$E001000A 30411D0C
+$10411D0C 0000000A
++Never Have More Than 20 Knives
+%Credits: Codejunkies
+$E0010014 30411D0C
+$10411D0C 00000014
+!!
++Max Cash
+%Credits: InterAct
+$20411D68 05F5E0FF
++Max Health
+%Credits: Code Master
+$10411CE0 00000007
+$10411CE8 000000E1
++Max Scrapbook Shells Found
+%Credits: Code Master
+$10411D6C 000003E7
++Max Special
+%Credits: Code Master
+$20411CC8 3F800000
++Max Special (Ship)
+%Credits: Code Master
+$204121E0 3F800000
++Max Wind (Ship)
+%Credits: Code Master
+$204121EC 3F800000
+!Mini Keg Codes:
++Never Have More Than 5 Mini Kegs
+%Credits: Codejunkies
+$E0010005 30411D10
+$10411D10 00000005
++Never Have More Than 10 Mini Kegs
+%Credits: Codejunkies
+$E001000A 30411D10
+$10411D10 0000000A
++Never Have More Than 20 Mini Kegs
+%Credits: Codejunkies
+$E0010014 30411D10
+$10411D10 00000014
+!!
++No Npc's
+%Credits: Code Master
+$20258E88 03E00008
+$20258E8C 00000000
+!Scatter Shot Codes:
++Never Have More Than 5 Scatter Shot
+%Credits: Codejunkies
+$E0010005 30411D4C
+$10411D4C 00000005
++Never Have More Than 10 Scatter Shot
+%Credits: Codejunkies
+$E001000A 30411D4C
+$10411D4C 0000000A
++Never Have More Than 20 Scatter Shot
+%Credits: Codejunkies
+$E0010014 30411D4C
+$10411D4C 00000014
+!!
+!Skull Grenade Codes:
++Never Have More Than 5 Skull Grenades
+%Credits: Codejunkies
+$E0010005 30411D20
+$10411D20 00000005
++Never Have More Than 10 Skull Grenades
+%Credits: Codejunkies
+$E001000A 30411D20
+$10411D20 0000000A
++Never Have More Than 20 Skull Grenades
+%Credits: Codejunkies
+$E0010014 30411D20
+$10411D20 00000014
+!!
+!Spirit Bottle Codes:
++Never Have More Than 5 Spirit Bottles
+%Credits: Codejunkies
+$E0010005 30411D14
+$10411D14 00000005
++Never Have More Than 10 Spirit Bottles
+%Credits: Codejunkies
+$E001000A 30411D14
+$10411D14 0000000A
++Never Have More Than 20 Spirit Bottles
+%Credits: Codejunkies
+$E0010014 30411D14
+$10411D14 00000014
+!!
+!Stinkbomb Codes:
++Never Have More Than 5 Stinkbombs
+%Credits: Codejunkies
+$E0010005 30411D50
+$10411D50 00000005
++Never Have More Than 10 Stinkbombs
+%Credits: Codejunkies
+$E001000A 30411D50
+$10411D50 0000000A
++Never Have More Than 20 Stinkbombs
+%Credits: Codejunkies
+$E0010014 30411D50
+$10411D50 00000014
+!!
+!Throwing Axe Codes:
++Never Have More Than 5 Throwing Axes
+%Credits: Codejunkies
+$E0010005 30411D24
+$10411D24 00000005
++Never Have More Than 10 Throwing Axes
+%Credits: Codejunkies
+$E001000A 30411D24
+$10411D24 0000000A
++Never Have More Than 20 Throwing Axes
+%Credits: Codejunkies
+$E0010014 30411D24
+$10411D24 00000014
+!!
+!Throwing Hammer Codes:
++Never Have More Than 5 Throwing Hammers
+%Credits: Codejunkies
+$E0010005 30411D2C
+$10411D2C 00000005
++Never Have More Than 10 Throwing Hammers
+%Credits: Codejunkies
+$E001000A 30411D2C
+$10411D2C 0000000A
++Never Have More Than 20 Throwing Hammers
+%Credits: Codejunkies
+$E0010014 30411D2C
+$10411D2C 00000014
+!!
+!Triple Dagger Codes:
++Never Have More Than 5 Triple Daggers
+%Credits: Codejunkies
+$E0010005 30411D1C
+$10411D1C 00000005
++Never Have More Than 10 Triple Daggers
+%Credits: Codejunkies
+$E001000A 30411D1C
+$10411D1C 0000000A
++Never Have More Than 20 Triple Daggers
+%Credits: Codejunkies
+$E0010014 30411D1C
+$10411D1C 00000014
+!!
+!Triple Keg Codes:
++Never Have More Than 5 Triple Kegs
+%Credits: Codejunkies
+$E0010005 30411D30
+$10411D30 00000005
++Never Have More Than 10 Triple Kegs
+%Credits: Codejunkies
+$E001000A 30411D30
+$10411D30 0000000A
++Never Have More Than 20 Triple Kegs
+%Credits: Codejunkies
+$E0010014 30411D30
+$10411D30 00000014
+!!
++Wind Dancer Ship Type Modifier {<I>01 - Buss<Br>02 - Sloop<Br>03 - Merchant Trader<Br>04 - Schooner<Br>05 - Privateer<Br>06 - Caravel<Br>07 - Brigantine<Br>08 - Carrack<Br>09 - Galleon<Br>0A - Frigate<Br>0B - Man O&#39; War</I>}
+%Credits: Code Master
+$10411D04 000000??
+!!
+

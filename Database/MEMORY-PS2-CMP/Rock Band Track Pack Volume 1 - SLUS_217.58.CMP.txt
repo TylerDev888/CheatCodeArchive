@@ -1,0 +1,21 @@
+^1 = Hash: 33 97 2C BA A4 93 E8 F9 31 C7 52 C1 0D 75 3F 27 95 AB 49 BE 
+^2 = GameID: SLUS_217.58
+^3 = NAME: Rock Band Track Pack Volume 1
+%Credits: FNG:Codes>SkillerCMP:Porting
+!Masters:
++Enable Code (MUST BE ON)
+$903721E0 0C0DC820
+!!
+!Misc Codes:
++Entire Band - Infinite Overdrive
+$2019CC5C 460C0000
++Instrument Rock Meter Never Fail
+$201B56D8 46001840
++Strum To Gain & Never Lose{Does Not Work For Vocalist.}
+$201C0C70 0C07075E
++Vocal Rock Meter Never Fail
+$201B5748 46001840
+!Note Multiplier:{Warning: Note Streak Will Always Be 0 Instrument Note Streak Codes: Does Not Work For Vocalist.}
++1 Note Hit = "amount" Notes
+$101C1D7C 0000[Amount:2710:HEX:BIG]
+!!

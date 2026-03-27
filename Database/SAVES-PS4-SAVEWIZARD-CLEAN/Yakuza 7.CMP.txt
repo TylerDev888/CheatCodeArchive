@@ -1,0 +1,1606 @@
+^2 = GameID: CUSA15444, CUSA16734
+^3 = NAME: Yakuza 7 Like A Dragon
+^SECONDLAYER: NO
+^4 = FILE: data.sav
++Add Item
+$search 0x22706C61796572223A
+$search next 0x2263617272795F6974656D22
+$search next 0x226D5F6C69737422
+$Insert Next A: "{".ver":1,"m_count":[Amount:99999999:UTF08:TXT],"m_item_id":{"puid":[ID]}},"
+^6 = MODS:
+[ID]
+VALUE>ITEM>Type
+3669	Staminan X	Recovery Items
+3670	Staminan XX	Recovery Items
+3671	Staminan Royale	Recovery Items
+3672	Staminan Spark	Recovery Items
+3673	Staminan Light	Recovery Items
+3674	Tauriner	Recovery Items
+3675	Tauriner +	Recovery Items
+3676	Tauriner ++	Recovery Items
+3677	Tauriner Maximum	Recovery Items
+3678	Toughness Infinity	Recovery Items
+3679	Toughness Z	Recovery Items
+3680	Toughness ZZ	Recovery Items
+3682	Platinum Plate	Other
+3683	Gold Plate	Other
+3684	Silver Plate	Other
+3685	Bronze Plate	Other
+3686	Iron Plate	Other
+3687	Trash	Other
+3688	Pocket Tissues	Other
+3716	Bento Lunch Set	Recovery Items
+3717	Chicken Karaage Bento	Recovery Items
+3718	Pork Tonkatsu Bento	Recovery Items
+3719	Luxury Yakiniku Bento	Recovery Items
+3721	Lettuce Sandwich	Recovery Items
+3722	Tuna & Egg Sandwich	Recovery Items
+3724	Club Sandwich	Recovery Items
+3726	Seaweed Onigiri	Recovery Items
+3727	Salmon Onigiri	Recovery Items
+3728	Tuna Onigiri	Recovery Items
+3732	Premium Sushi Set	Recovery Items
+3738	Frankfurter	Recovery Items
+3741	Gold Safe Key	Other
+3743	Half-eaten Bento	Recovery Items
+3744	Half-empty Drink	Recovery Items
+3745	Disposed Bento	Recovery Items
+3746	Cockroach	Materials
+3747	Soup Kitchen Pork Soup	Recovery Items
+3749	10 Chips	Other
+3750	100 Chips	Other
+3751	1,000 Chips	Other
+3752	10 Wooden Tags	Other
+3753	100 Wooden Tags	Other
+3754	1,000 Wooden Tags	Other
+3808	Toughness Light	Recovery Items
+3811	BOSS Rainbow Mountain	Recovery Items
+3812	Iyemon Tokucha Green Tea	Recovery Items
+3813	C.C. Lemon	Recovery Items
+3815	Cup Sake	Recovery Items
+3816	Bottle of Sake	Recovery Items
+3817	The Premium Malt's Bottle	Recovery Items
+3818	Kakubin	Recovery Items
+3819	Test Cappuccino	Other
+3820	Test Espresso	Other
+3821	Test Earl Grey Tea	Other
+3822	Test Iced Lemon Tea	Other
+3823	Test Orange Juice	Other
+3824	Test Carbonara	Other
+3825	Test Omurice	Other
+3826	Test Healthy Salad	Other
+3827	Test Honey Toast	Other
+3828	Test Specialty Baguette	Other
+3829	Test Seasonal Cake	Other
+3830	Test Baked Cheesecake	Other
+3831	Test Golden Montblanc	Other
+3832	Test Vanilla Ice Cream	Other
+3833	Test Special Hayashi Rice	Other
+3874	Special Chinese Buns	Recovery Items
+3876	High-end Kimchi	Recovery Items
+3877	Mishmash Lunch Box	Recovery Items
+3878	Packed Lunch Box	Recovery Items
+3879	Chilled Noodles Lunch Box	Recovery Items
+3880	Homestyle Lunch Box	Recovery Items
+3881	Special Lunch Box	Recovery Items
+3882	Luxury Kiwami Lunch Box	Recovery Items
+3883	Omit: Clear Marine	Status Items
+3884	Poseidon Power	Status Items
+3885	Omit: Tropical Ultra Melon	Status Items
+3886	Muscle Soda	Status Items
+3887	Guardian Water	Status Items
+3888	Quickness Lemon	Status Items
+3889	Sengoku Coffee	Status Items
+3890	Kiwami Drink	Status Items
+3891	Burn Ointment	Status Items
+3892	Cold Medicine	Status Items
+3893	Paralytics Poultice	Status Items
+3894	Chinese Detoxers	Status Items
+3897	Mental Supplements	Status Items
+3898	All-Purpose Remedy	Status Items
+3899	Restorative Medicine	Status Items
+3900	Comforting Medicine	Status Items
+3901	Full Recovery Medicine	Status Items
+3902	First Aid Kit	Status Items
+3903	Premium First Aid Kit	Status Items
+3904	Restorative Bolus	Status Items
+3905	Revival Bolus	Status Items
+3906	Resurrection Bolus	Status Items
+3907	Hardball	Battle Items
+3908	Lamp Stand	Battle Items
+3909	Throwing Knife	Battle Items
+3910	Kunai	Battle Items
+3911	Modded Model Gun	Battle Items
+3912	Antique Pistol	Battle Items
+3913	Hand Grenade	Battle Items
+3914	Rocket Launcher	Battle Items
+3921	Alcoholic Gas Ball	Battle Items
+3922	Sleeping Gas Ball	Battle Items
+3923	Fear Gas Ball	Battle Items
+3924	Charm Gas Ball	Battle Items
+3925	Brainwash Gas Ball	Battle Items
+3926	Rage Gas Ball	Battle Items
+3927	Daunt Gas Ball	Battle Items
+3928	Omit: Curse Gas Ball	Battle Items
+3929	Smoke Bomb	Battle Items
+3930	Omit: Salt Shaker	Battle Items
+3931	Omit: Paper Fan	Battle Items
+3933	Omit: Plunger	Battle Items
+3934	Omit: Traffic Wand	Battle Items
+3935	Omit: Bowling Ball	Battle Items
+3936	Omit: Golf Club	Battle Items
+3937	Omit: Modded Iron	Battle Items
+3938	Omit: Modded Stove	Battle Items
+3939	Daikon Seeds	Other
+3940	Tomato Seeds	Other
+3941	Hot Pepper Seeds	Other
+3942	Potato Seedlings	Other
+3943	Onion Seedlings	Other
+3944	Garlic Seedlings	Other
+3945	Pansy Seeds	Other
+3946	Lily Seeds	Other
+3947	Pine Seedlings	Other
+3948	Rose Seeds	Other
+3949	Mysterious Compost	Other
+3950	Mysterious Bulb	Other
+3951	Mysterious Seeds	Other
+3952	Carrot Seedlings	Other
+3953	Daikon	Recovery Items
+3954	Tomato	Recovery Items
+3955	Hot Pepper	Recovery Items
+3956	Potato	Recovery Items
+3957	Onion	Recovery Items
+3958	Garlic	Recovery Items
+3959	Pansy	Other
+3960	Lily	Other
+3961	Pine Tree	Other
+3962	Rose	Other
+3963	Mysterious Mushroom	Recovery Items
+3964	Mysterious Leaf	Recovery Items
+3965	Mysterious Fruit	Recovery Items
+3966	Mysterious Carrot	Other
+3967	Plant Growth Stimulant	Other
+3968	Plant Nutrient	Other
+3969	Plant Staminan	Other
+3970	Plant Staminan Spark	Other
+3971	Bouquet of Pansies	Other
+3972	Bouquet of Lilies	Other
+3973	Bouquet of Roses	Other
+3974	Bonsai	Other
+3975	Attack Booster	Growth Items
+3976	Magic Booster	Growth Items
+3977	Guard Booster	Growth Items
+3978	Speed Booster	Growth Items
+3979	Technique Booster	Growth Items
+3980	Healing Booster	Growth Items
+3981	Ultra Booster	Growth Items
+3982	Between Thrill and Passion	Growth Items
+3983	Think and Grow Confident	Growth Items
+3984	The Poor Zoo	Growth Items
+3985	You, Unleashed	Growth Items
+3987	Special Theory of Relative Brutality	Growth Items
+3989	Street Dandy	Growth Items
+3990	Rise Up!	Growth Items
+3991	Versatility Manual	Growth Items
+3992	Bravery Manual	Growth Items
+3993	Wanderer Manual	Growth Items
+3994	Justice Manual	Growth Items
+3995	Assassin Manual	Growth Items
+3996	Underworld Manual	Growth Items
+3997	Food Service Manual	Growth Items
+3998	Gallantry Manual	Growth Items
+3999	Bureaucracy Manual	Growth Items
+4000	Intimidation Manual	Growth Items
+4001	Smooth Talker Manual	Growth Items
+4002	Demo Manual	Growth Items
+4003	Guitar Manual	Growth Items
+4004	Tactical Manual	Growth Items
+4005	Dancing Manual	Growth Items
+4006	Divination Manual	Growth Items
+4007	Smile Manual	Growth Items
+4008	Gambler Manual	Growth Items
+4009	Sweet Talker Manual	Growth Items
+4010	Darkness Manual	Growth Items
+4021	Paper Plate	Other
+4022	Italian Ring	Other
+4023	Swiss Watch	Other
+4024	Worn-out TV	Other
+4026	Worn-out Microwave	Other
+4049	Moth	Materials
+4050	Butterfly	Materials
+4052	Rhinoceros Beetle	Materials
+4053	Mantis	Materials
+4054	Spider	Materials
+4055	Scorpion	Materials
+4056	Empty Cicada Shell	Materials
+4057	Dragonfly	Materials
+4058	Stag Beetle	Materials
+4059	Beehive	Materials
+4063	Silver Moth	Materials
+4064	Silver Butterfly	Materials
+4066	Silver Rhinoceros Beetle	Materials
+4067	Silver Mantis	Materials
+4068	Silver Spider	Materials
+4069	Silver Scorpion	Materials
+4071	Silver Dragonfly	Materials
+4072	Silver Stag Beetle	Materials
+4075	Golden Moth	Materials
+4076	Golden Butterfly	Materials
+4078	Golden Rhinoceros Beetle	Materials
+4079	Golden Mantis	Materials
+4080	Golden Spider	Materials
+4081	Golden Scorpion	Materials
+4083	Golden Dragonfly	Materials
+4084	Golden Stag Beetle	Materials
+4115	AiAi	Other
+4116	GonGon	Other
+4117	MeeMee	Other
+4118	Baby	Other
+4119	Bun-chan the Java Sparrow (White)	Other
+4120	Bun-chan the Java Sparrow (Pink)	Other
+4121	Jumbo Bun-chan	Other
+4122	Kitty Kat (Red)	Other
+4123	Kitty Kat (Tiger)	Other
+4124	Kitty Kat (Blue)	Other
+4125	Kitty Kat (American Short Hair)	Other
+4126	Kitty Kat (Calico)	Other
+4127	Robo Chief	Other
+4128	Robo Manager	Other
+4129	Pillow Pups (Golden Retriever)	Other
+4130	Pillow Pups (French Bulldog)	Other
+4163	Blended Coffee	Other
+4164	Blue Mountain	Other
+4165	Mocha	Other
+4166	Earl Grey Tea	Other
+4167	Straberry Parfait	Other
+4168	Chocolate Parfait	Other
+4169	Special Shortcake	Other
+4170	Sandwich Set	Other
+4171	Original Beef Curry	Other
+4172	Napolitan	Other
+4173	Smile Burger	Other
+4174	Teriyaki Smile Burger	Other
+4175	King Smile Burger	Other
+4176	Tuna Burger	Other
+4177	Braised Pork Burger	Other
+4178	Smile Fries	Other
+4179	Smile Shake	Other
+4180	Smile Salad	Other
+4181	Wild Burger	Other
+4182	Wild Avocado Burger	Other
+4183	Wild Chicken Sandwich	Other
+4184	Wild Fried Chicken	Other
+4186	Oolong Tea	Other
+4187	Wette Burger	Other
+4188	Wette Egg Burger	Other
+4189	Tomato Onion Soup	Other
+4190	Wette House Coffee	Other
+4191	Iced Lemon Tea	Other
+4192	Kyushu Tonkotsu Ramen	Other
+4193	Stewed Pork Tonkotsu Ramen	Other
+4194	Chasu Tonkotsu Ramen	Other
+4195	Chashu Rice Bowl	Other
+4196	Fried Rice	Other
+4197	Gyoza	Other
+4198	Salted Beef Tongue	Other
+4199	Grade-A Salted Beef Tongue	Other
+4200	Kalbi	Other
+4201	Grade-A Kalbi	Other
+4202	Sirloin	Other
+4203	Grade-A Sirloin	Other
+4204	Harami	Other
+4205	Grade-A Harami	Other
+4206	Tripe BBQ	Other
+4207	Seafood Platter	Other
+4208	Kimchi Combo	Other
+4209	Stone-cooked Bibimbap	Other
+4210	Spicy Beef Soup	Other
+4211	Grilled Garlic	Other
+4212	Nishiki Set	Other
+4213	Miyabi Set	Other
+4214	Kiwami Set	Other
+4215	Flower Chirashi	Other
+4216	Kiwami Chirashi	Other
+4217	Tuna Rice Bowl	Other
+4218	Kiwami Seafood Rice Bowl	Other
+4219	Osuimono	Other
+4220	Lobster Miso Soup	Other
+4221	Beef Bowl (Standard)	Other
+4222	Beef Bowl (Large)	Other
+4223	Beef Bowl (Extra Large)	Other
+4224	Beer	Other
+4225	Miso Soup	Other
+4226	Absolutey Tasty Takoyaki	Other
+4227	Cheese and Spicy Fish Roe	Other
+4228	Welsh Onion Takoyaki	Other
+4229	Teriyaki and Egg	Other
+4231	Saucy Yakisoba	Other
+4232	Spicy Deep-fried Octopus	Other
+4234	Cucumber Pot	Other
+4235	The Premium Malt's Draft	Other
+4236	The Kaku Highball	Other
+4237	Blood Orange Highball	Other
+4238	Jim Beam Highball	Other
+4239	Fresh Cassis and Orange	Other
+4240	Hot Soba	Other
+4241	Chilled Soba	Other
+4242	Chilled Tanuki Soba	Other
+4243	Chilled Kitsune Soba	Other
+4244	Egg & Tempura Soba	Other
+4245	Special Fuji Soba	Other
+4246	Katsudon	Other
+4247	Curry & Rice	Other
+4248	Small Sashimi Platter (3 pcs)	Other
+4249	Handpicked Vinegar Mackerel	Other
+4250	Kotchori Salad	Other
+4251	Edamame	Other
+4252	Skewer Platter	Other
+4253	Smelt Fish with Roe	Other
+4255	Stir-fried Bean Sprouts	Other
+4256	Draft Beer (Medium)	Other
+4257	Oolong Tea	Other
+4258	Kyoho Grape Sour	Other
+4259	Fresh Grapefruit Sour (Medium)	Other
+4260	Bahuhai (Whisky & Beer)	Other
+4261	Gyokuro Green Tea Shochu	Other
+4262	Kaku Highball	Other
+4263	Cassis Oolong	Other
+4264	Nagasaki Champon	Other
+4265	Vegetable Champon	Other
+4266	Spicy Champon	Other
+4267	Nagasaki Saraudon	Other
+4268	Vetetable Saraudon	Other
+4269	Thick Saraudon	Other
+4270	Light Saraudon	Other
+4271	Spicy Mazemen	Other
+4272	Extra Beef Mazemen	Other
+4273	Veggie-filled Soup	Other
+4274	Half-order Fried Rice	Other
+4275	Gyoza (5 pcs)	Other
+4276	Special Tuna Bowl	Other
+4277	Seafood Chirashi Bowl	Other
+4278	Special Sushi Zanmai	Other
+4279	Tuna Zanmai	Other
+4280	Kokoroiki	Other
+4281	Tenderloin Steak 200g	Other
+4282	Rib-eye Steak 300g	Other
+4283	Sirloin Steak 200g	Other
+4284	Wild Steak 300g	Other
+4285	Wild Hamburg Steak 300g	Other
+4286	Salad	Other
+4287	Consomme	Other
+4288	Yamazaki 25 Years Old	Other
+4289	Yamazaki 18 Years Old	Other
+4290	Yamazaki 12 Years Old	Other
+4291	Hakushu 18 Years Old	Other
+4293	Hakushu	Other
+4294	Hibiki 30 Years Old	Other
+4296	Hibiki 21 Years Old	Other
+4297	Suntory Old Whisky	Other
+4298	Suntory Brandy V.S.O.P.	Other
+4299	The Premium Malt's	Other
+4300	The Macallan 30 Years Old	Other
+4301	The Macallan 25 Years Old	Other
+4302	The Macallan 12 Years Old	Other
+4303	Laphroaig 10 Years Old	Other
+4304	Bowmore 12 Years Old	Other
+4305	Glenfiddich 12 Years Old	Other
+4306	Ballantine's 30 Years Old	Other
+4307	Ballantine's 17 Years Old	Other
+4308	Ballantine's 12 Years Old	Other
+4309	X.O. Deluxe	Other
+4310	V.O.	Other
+4311	Courvaisier X.O.	Other
+4312	The Malt's	Other
+4313	Carlsberg	Other
+4314	Kyogetsu Green	Other
+4315	Beefeater	Other
+4316	Original Fried Gyoza	Other
+4317	Tenshinhan	Other
+4318	Mixed Fried Rice	Other
+4319	Chinese Soba	Other
+4320	Sichuan Dandan Noodles	Other
+4321	Chinese Yakisoba	Other
+4322	Shrimp in Chili Sauce	Other
+4323	Pork Pepper Steak	Other
+4324	Stir-fried Liver and Onion	Other
+4325	Sweet and Sour Pork	Other
+4326	Twice-cooked Pork	Other
+4327	Mapo Tofu	Other
+4328	Banbanji Chicken Salad	Other
+4329	Sesame Dumplings	Other
+4330	Ramen	Other
+4331	Chasu-men	Other
+4332	Tecchiri	Other
+4333	Opulent Tecchiri	Other
+4334	Tessa	Other
+4335	Fugu Tempura	Other
+4336	Deep-fried Fugu	Other
+4337	The Fuku Fugu Kaiseki	Other
+4338	The Kotobuki Fugu Kaiseki	Other
+4339	Benten's Tecchiri Set	Other
+4340	Daikoku's Tecchiri Set	Other
+4341	Ebisu's Natural Tecchiri Set	Other
+4342	Hotei's Natural Tecchiri Set	Other
+4343	Sushi Balzen	Other
+4344	Sushu Chikuzen	Other
+4345	Nigirizen	Other
+4346	Trop-grade Nigirizen	Other
+4347	Relaxing Bento	Other
+4348	Kamizushi Bento	Other
+4349	Mini Kaiseki Flower	Other
+4350	Sushi Kaiseki Chotose Course "Moon"	Other
+4351	Kaiseki Nishiki Course	Other
+4352	Gyu-Kaku Beef Ribs	Other
+4353	Japanese Beef Ribs	Other
+4354	Salted Tongue	Other
+4355	Luxury Marbled Salted Tongue	Other
+4356	Handpicked Beef Course	Other
+4357	Harami King	Other
+4360	Cheese Fondue de Chicken Basil	Other
+4361	Plum Shiso Chilled Noodles	Other
+4362	Kalbi Rice	Other
+4363	Gyu-Kabu Ice Cream	Other
+4364	Crab Nabe	Other
+4365	Crab Shabu Shabu	Other
+4366	Crab Amiyaki	Other
+4367	Crab Nigiri	Other
+4368	Deep-fried Crab	Other
+4369	Crab Sushi Platter	Other
+4371	Crab Nabe Course: Yunagi	Other
+4372	Crab Nabe Course: Shiosai	Other
+4373	Crab Kaiseki: Kobai	Other
+4374	Crab Kaiseki: Watake	Other
+4375	Crab Kaiseki: Shoro	Other
+4376	Crab Kaiseki: Fugetsu	Other
+4377	Takoyaki with Large Octopus	Recovery Items
+4378	Renowned Akashiyaki	Recovery Items
+4379	Green Onion Akashiyaki	Recovery Items
+4380	Shockin' Takoyaki	Recovery Items
+4381	Master's Takoyaki	Recovery Items
+4382	Soup du Jour	Other
+4383	Sashimi Platter	Other
+4384	Kyoto Sukiyaki	Other
+4385	Mattari Kaiseki	Other
+4386	Hokkori Kaiseki	Other
+4387	Hannari Kaiseki	Other
+4388	Snow Crab Course	Other
+4389	Kyoto Vegetable Tempura	Other
+4390	Grilled Marbled Wagyu	Other
+4391	Original Kushikatsu	Other
+4392	Quail	Other
+4393	Asparagus	Other
+4394	Onion	Other
+4395	Octopus	Other
+4396	Whiting	Other
+4397	Lotus Root	Other
+4398	Garlic Chicken	Other
+4399	Tsukune	Other
+4400	Smelt Fish with Roe	Other
+4401	Cheese	Other
+4402	Shrimp	Other
+4403	Scallop	Other
+4404	Sotenbori Set	Other
+4405	Hoganji Set	Other
+4407	Potato Wedges	Other
+4408	Pasta Sticks	Other
+4409	Chikuwa Isobeage	Other
+4410	Yakitori Platter	Other
+4412	Spicy Cucumber Tataki	Other
+4415	Matsutake Rice	Other
+4416	Shokado Bento	Other
+4417	Bonito Tataki	Other
+4418	Sweets du Jour	Other
+4419	Seasonal Stewed Dish	Other
+4420	Yellowtail Daikon	Other
+4421	Course du Jour	Other
+4422	Sashimi Platter	Other
+4423	Blended Coffee	Other
+4424	Blue Mountain	Other
+4425	Cream Latte	Other
+4426	Strawberry Parfait	Other
+4430	Bulgogi	Other
+4431	Samgyeop-sal	Other
+4433	Samgye-tang	Other
+4434	Dak-galbi	Other
+4436	Oi Kimchi	Other
+4437	Kkakdugi	Other
+4439	Perilla Leaves	Other
+4440	Sangchu	Other
+4443	Chinese Sticky Rice	Other
+4444	Stir-fried Greens	Other
+4445	Fried Rice	Other
+4446	Half-order Fried Rice	Other
+4447	Mixed Fried Rice	Other
+4448	Mixed Noodles	Other
+4451	Shumai	Other
+4452	Har Gow	Other
+4454	Almond Jelly	Other
+4455	Mango Pudding	Other
+4456	Handmade Meat Bun	Other
+4457	Bean Paste Bun	Other
+4458	Shark Fin Bun	Other
+4459	Shrimp in Chili Sauce	Other
+4460	Shark Fin Soup	Other
+4462	Shaoxing Wine	Other
+4463	Tournedos Rossini	Other
+4464	Grilled Lobster	Other
+4465	Roasted Duck	Other
+4466	Homemade Baguette	Other
+4467	Red Wine	Other
+4468	White Wine	Other
+4469	Dessert du Jour	Other
+4470	Lamb Chops with Basil Sauce	Other
+4471	Shrimp and Urchin Appetizer (with Caviar)	Other
+4472	Seafood Tartare	Other
+4473	Addicting Bite-size Karaage	Recovery Items
+4474	French Fries	Recovery Items
+4475	Special Frankfurter	Recovery Items
+4476	Super Spicy Frankfurter	Recovery Items
+4477	Fluffy Croquettes	Recovery Items
+4478	Suntory Mineral Water	Recovery Items
+4479	Suntory Black Oolong Tea	Recovery Items
+4480	GREEN DAKARA	Recovery Items
+4481	Apple Defense	Status Items
+4482	Peach Step	Status Items
+4483	Astringent Gauze	Status Items
+4484	Incendiary Grenade	Battle Items
+4485	Liquid Nitrogen Spray	Battle Items
+4486	Lightning Bomb	Battle Items
+4487	Physical Booster	Growth Items
+4488	Mental Booster	Growth Items
+4508	Worn Out Bat	Weapons
+4509	Wooden Bat	Weapons
+4510	Iron Pipe	Weapons
+4511	Nail Bat	Weapons
+4512	Metal Bat	Weapons
+4513	Massive Massage Machine	Weapons
+4514	Barbed Wire Bat	Weapons
+4515	Rough Lumber	Weapons
+4516	Classy Golf Club	Weapons
+4517	Flaming Lumber	Weapons
+4518	Hero's Bat	Weapons
+4519	Superalloy Bat	Weapons
+4520	Thundercrack Bat	Weapons
+4521	Steel Frame	Weapons
+4522	Iron Club	Weapons
+4523	Fortified Steel Frame	Weapons
+4524	Heroic Soul Bat	Weapons
+4525	Tranquility Bat	Weapons
+4526	Legendary Hero's Bat	Weapons
+4527	Dragon Soul Bat	Weapons
+4528	Plastic Umbrella	Weapons
+4529	Rugged Cane	Weapons
+4530	Bamboo Broom	Weapons
+4531	Dice Cane	Weapons
+4532	Near-broken Cane	Weapons
+4533	Dandy Umbrella	Weapons
+4534	Poison Cane	Weapons
+4535	Metal Broom	Weapons
+4536	Gentleman's Cane	Weapons
+4537	Steel Broom	Weapons
+4538	Red Cane	Weapons
+4539	Fortified Battle Cane	Weapons
+4540	Crimson Rod	Weapons
+4541	Sacred Branch	Weapons
+4542	Snake Stick	Weapons
+4543	Sacred Wood Rod	Weapons
+4544	Treasure Cane	Weapons
+4545	Intoxicane	Weapons
+4546	Staff of the Five Wisdoms	Weapons
+4547	Amenohoakari No Mikoto	Weapons
+4548	Faded Police Baton	Weapons
+4549	Wood Jitte	Weapons
+4550	Long Shoehorn	Weapons
+4551	Warrior's Jitte	Weapons
+4552	Carbon Police Baton	Weapons
+4553	Ascender No. 19	Weapons
+4554	Neo Police Baton	Weapons
+4555	Traffic Wand	Weapons
+4556	Artisan's Jitte	Weapons
+4557	Icy Traffic Wand	Weapons
+4558	Slapjack	Weapons
+4559	Electric Police Baton	Weapons
+4560	Knockout Slapjack	Weapons
+4561	Crowbar	Weapons
+4562	Rock-hard Kolbasa	Weapons
+4563	Megaton Crowbar	Weapons
+4564	Meteoric Iron Club	Weapons
+4565	Shaolin Club	Weapons
+4566	Club of Holy Might	Weapons
+4567	Chromium Alloy Club	Weapons
+4568	Handbag	Weapons
+4569	Tailored Bag	Weapons
+4570	Casual Bag	Weapons
+4571	Technical Bag	Weapons
+4572	Battle Bag	Weapons
+4573	Imitation Bag	Weapons
+4574	Couture Bag	Weapons
+4575	Fascination Bag	Weapons
+4576	Unique Bag	Weapons
+4577	Hard Leather Bag	Weapons
+4578	Soothing Bag	Weapons
+4579	Tough Bag	Weapons
+4580	Leather Tote Bag	Weapons
+4581	Metallic Bag	Weapons
+4582	Germanium Bag	Weapons
+4583	Oriental Bag	Weapons
+4584	Leaden Bag	Weapons
+4585	Jewled Bag	Weapons
+4586	Jeweled Bag EX	Weapons
+4587	Brass Knuckles	Weapons
+4588	Heat Knuckles	Weapons
+4589	Tactical Knuckles	Weapons
+4590	Inlaid Gloves	Weapons
+4591	Stun Gloves	Weapons
+4592	Sanguine Bandages	Weapons
+4593	Titanium Knuckles	Weapons
+4594	Lightning Bandages	Weapons
+4595	The Black Fists	Weapons
+4596	Iron Gloves	Weapons
+4597	Dragon Knuckles	Weapons
+4598	Chinese Saber	Weapons
+4599	Drunken Saber	Weapons
+4600	Master's Saber	Weapons
+4601	Custom Saber	Weapons
+4602	Hefty Chinese Saber	Weapons
+4603	Prized Chinese Saber	Weapons
+4604	Chinese Style Liuyedao	Weapons
+4605	Liu Chinese Saber	Weapons
+4606	Curved Crystal Saber	Weapons
+4607	Boxcutter	Weapons
+4608	Adult's Ruler	Weapons
+4609	Anti-corrosion Boxcutter	Weapons
+4610	Craftsman's Boxcutter	Weapons
+4611	Fancy Boxcutter	Weapons
+4612	Slashing Boxcutter	Weapons
+4613	Office Boxcutter	Weapons
+4614	Military Boxcutter	Weapons
+4615	Large Combat Boxcutter	Weapons
+4616	Special Blade Boxcutter	Weapons
+4617	Steel Ruler	Weapons
+4618	Poison Boxcutter	Weapons
+4619	Metal Ruler	Weapons
+4620	Nine-mount Boxcutter	Weapons
+4621	Ceramic Boxcutter	Weapons
+4622	Super High Frequency Ruler	Weapons
+4623	Wooden Gift Katana	Weapons
+4624	Ouchigatana	Weapons
+4625	Nameless Katana	Weapons
+4626	Mail-order Katana	Weapons
+4627	Weathered Katana	Weapons
+4628	Nodachi	Weapons
+4629	Sacred Wood Katana	Weapons
+4630	Red Hot Blade	Weapons
+4631	Cane Blade	Weapons
+4632	Dawning Daybreaker	Weapons
+4633	Poison Cane Sword	Weapons
+4634	Silhouette Katana	Weapons
+4635	Royal Sword Replica	Weapons
+4636	Restored Silhouette Katana	Weapons
+4637	Kiwami Demon Blade	Weapons
+4638	Taiji Dao	Weapons
+4639	Sakura Storm	Weapons
+4640	Demon Blade Muramasa	Weapons
+4641	Sparkling Wine	Weapons
+4642	Magnum Bottle	Weapons
+4643	Table Sparkling	Weapons
+4644	Hot Sparkling	Weapons
+4645	Original Sparkling	Weapons
+4646	Country Sparkling	Weapons
+4647	Vintage Cava	Weapons
+4648	Dead Drunk Sparkling	Weapons
+4649	Crianza Sparkling	Weapons
+4650	Officer's Sparkling Wine	Weapons
+4651	Passionate Sparkling	Weapons
+4652	Reserva Magnum	Weapons
+4653	Sparkling Rosé	Weapons
+4654	Voltaic Yellow Wine	Weapons
+4655	Gran Reserva	Weapons
+4656	Special Grade Xiang Bin Jiu	Weapons
+4657	Prestige	Weapons
+4658	Snow Sapphire Wine	Weapons
+4659	Anklet	Weapons
+4660	Red Anklet	Weapons
+4661	Leather Anklet	Weapons
+4662	Pearl Anklet	Weapons
+4663	Hard Leather Anklet	Weapons
+4664	Light Anklet	Weapons
+4665	Gold Anklet	Weapons
+4666	Feather Anklet	Weapons
+4667	Silver Anklet	Weapons
+4668	Titanium Anklet	Weapons
+4669	Hard Silver Anklet	Weapons
+4670	Metal Anklet	Weapons
+4671	Cotton Anklet	Weapons
+4672	Blue Metal Anklet	Weapons
+4673	Platinum Anklet	Weapons
+4674	Black Jade Anklet	Weapons
+4675	Beat Anklet	Weapons
+4676	Soul Anklet	Weapons
+4677	Rubber Hammer	Weapons
+4678	Wooden Hammer	Weapons
+4679	100t Hammer	Weapons
+4680	Nailed Hammer	Weapons
+4681	Rusted Hammer	Weapons
+4682	Designer Hammer	Weapons
+4683	Steel Hammer	Weapons
+4684	Wonky Hammer	Weapons
+4685	Tactical Hammer	Weapons
+4686	Spiky Hammer	Weapons
+4687	Massive Hammer	Weapons
+4688	Iron Hammer	Weapons
+4689	Coma Hammer	Weapons
+4690	Thrashing Hammer	Weapons
+4691	Mallet of Fortune	Weapons
+4692	Starcrusher	Weapons
+4693	Heaven And Earth Hammer	Weapons
+4694	Acoustic Guitar	Weapons
+4695	Vintage Guitar	Weapons
+4696	Mod Guitar	Weapons
+4697	Performer's Guitar	Weapons
+4698	Reinforced Guitar	Weapons
+4699	Beatdown Guitar	Weapons
+4700	Electric Acoustic Guitar	Weapons
+4701	Mood Guitar	Weapons
+4702	Howling Guitar	Weapons
+4703	Bass Guitar	Weapons
+4704	Mood Guitar	Weapons
+4705	Violence Guitar	Weapons
+4706	The Symphonic	Weapons
+4707	Ladle	Weapons
+4708	Wooden Flipper	Weapons
+4709	All-Purpose Spatula	Weapons
+4710	Armament Spatula	Weapons
+4711	Professional's Whisk	Weapons
+4712	Stainless Ladle	Weapons
+4713	Killer Whisk	Weapons
+4714	Steel Flipper	Weapons
+4715	Chinese Ladle	Weapons
+4716	Damascus Ladle	Weapons
+4717	Scorching Spatula	Weapons
+4718	All-Purpose Shield	Weapons
+4719	Bulletproof Shield	Weapons
+4720	Western Shield	Weapons
+4721	Impervious Shield	Weapons
+4722	Golden Shield	Weapons
+4723	Absolute Shield	Weapons
+4724	Special Ops Riot Shield	Weapons
+4725	Crystal Ball	Weapons
+4726	20-Pound Ball	Weapons
+4727	Steel Ball	Weapons
+4728	Stone Orb	Weapons
+4729	Jade Sphere	Weapons
+4730	Pure Gold Ball	Weapons
+4731	Diamond Orbuculum	Weapons
+4732	Lovely Microphone	Weapons
+4733	Floral Microphone	Weapons
+4734	Pretty Microphone	Weapons
+4735	Jeweled Microphone	Weapons
+4736	Psychedelic Microphone	Weapons
+4737	Fancy Microphone	Weapons
+4738	Gothic Microphone	Weapons
+4739	Broken Microphone	Weapons
+4740	Twinkle Microphone	Weapons
+4741	Sexy Microphone	Weapons
+4742	Galactic Microphone	Weapons
+4743	Winged Microphone	Weapons
+4744	Bastard Soda	Weapons
+4745	Revival Microphone	Weapons
+4746	Celestial Microphone	Weapons
+4747	Simple Pouch	Weapons
+4748	Brand Pouch	Weapons
+4749	Omnipouch	Weapons
+4750	Cotton Pouch	Weapons
+4751	Genuine Leather Pouch	Weapons
+4752	Aromatic Pouch	Weapons
+4753	Makeup Pouch	Weapons
+4754	Pink Pouch	Weapons
+4755	Hard Makeup Pouch	Weapons
+4756	Dressy Pouch	Weapons
+4757	Satin Pouch	Weapons
+4758	Elegant Pouch	Weapons
+4759	Shining Pouch	Weapons
+4760	Playing Cards	Weapons
+4761	ESP Cards	Weapons
+4762	Metallic Cards	Weapons
+4763	Throwing Cards	Weapons
+4764	Tarot Cards	Weapons
+4765	Killing Cards	Weapons
+4766	True Ace	Weapons
+4767	I Ching Tarot	Weapons
+4768	Royal Joker Card	Weapons
+4769	Fake Ace	Weapons
+4770	S&M Whip	Weapons
+4771	Riding Crop	Weapons
+4772	Sadistic Whip	Weapons
+4773	Whip of Anguish	Weapons
+4774	Thorny Whip	Weapons
+4775	Electric Whip	Weapons
+4776	Whip of Pleasure	Weapons
+4777	Modded Axe	Weapons
+4778	Thrallmaster's Axe	Weapons
+4779	Infernal Crasher	Weapons
+4780	Dirty Tenugui	Equipment Head
+4781	Holey Straw Hat	Equipment Head
+4782	Helmet	Equipment Head
+4783	Knitted Cap	Equipment Head
+4784	Baseball Cap	Equipment Head
+4785	Half Helmet	Equipment Head
+4786	Soft Hat	Equipment Head
+4787	Hunting Cap	Equipment Head
+4788	Straw Hat	Equipment Head
+4789	Full Face Helmet	Equipment Head
+4790	Felt Hat	Equipment Head
+4791	Pirate Hat	Equipment Head
+4792	Expert's Helmet	Equipment Head
+4793	Fluffy Knitted Cap	Equipment Head
+4794	Ops-core Helmet	Equipment Head
+4795	Trick Hat	Equipment Head
+4796	Commander Hat	Equipment Head
+4797	Tactical Helmet	Equipment Head
+4798	Technical Hat	Equipment Head
+4799	Sacred Steel Helmet	Equipment Head
+4800	Minister Hat	Equipment Head
+4801	Cyber Helmet	Equipment Head
+4802	Rainbow Hat	Equipment Head
+4803	Strange Helmet	Equipment Head
+4804	Quixotic Helmet	Equipment Head
+4805	Fable Hat	Equipment Head
+4806	Dragonhelm	Equipment Head
+4807	Hassaku Face	Equipment Head
+4808	Nouveau Riche Crown	Equipment Head
+4809	Thief's Mask	Equipment Head
+4810	Pink Ribbon	Equipment Head
+4811	Viking Helmet	Equipment Head
+4812	Passion Bandanna	Equipment Head
+4813	Supression Helmet	Equipment Head
+4814	Stretched Shirt	Equipment Chest
+4815	Sooty Work Clothes	Equipment Chest
+4816	Work Overalls	Equipment Chest
+4817	Parka	Equipment Chest
+4818	Jacket	Equipment Chest
+4819	Military Armor	Equipment Chest
+4820	Longcoat	Equipment Chest
+4821	Embroidered Jacket	Equipment Chest
+4822	Work Clothes	Equipment Chest
+4823	Protector	Equipment Chest
+4824	Smart Robe	Equipment Chest
+4825	Down Jacket	Equipment Chest
+4826	Professional Overalls	Equipment Chest
+4827	Thick Parka	Equipment Chest
+4828	Military Bulletproof Vest	Equipment Chest
+4829	Wonder Gown	Equipment Chest
+4830	Security Clothes	Equipment Chest
+4831	Tactical Vest	Equipment Chest
+4832	Mirage Coat	Equipment Chest
+4833	Blesswood Armor	Equipment Chest
+4834	Minister Robe	Equipment Chest
+4835	Cyber Armor	Equipment Chest
+4836	Spectrum Gown	Equipment Chest
+4837	Aberrant Jacket	Equipment Chest
+4838	Quixotic Armor	Equipment Chest
+4839	Fable Robe	Equipment Chest
+4840	Dragon Kinagashi	Equipment Chest
+4841	Queen's Bondage	Equipment Chest
+4842	Protective Wear	Equipment Chest
+4843	Hellish Cape	Equipment Chest
+4844	Scuffed Sandals	Equipment Legs
+4845	Worn-out Leather Shoes	Equipment Legs
+4846	Safety Shoes	Equipment Legs
+4847	Sneakers	Equipment Legs
+4848	Loafers	Equipment Legs
+4849	Hard Leather Boots	Equipment Legs
+4850	High Cut Shoes	Equipment Legs
+4851	Gore Boots	Equipment Legs
+4852	Leather Shoes	Equipment Legs
+4853	Metal Shin Guards	Equipment Legs
+4854	Pointed Toes	Equipment Legs
+4855	Boxing Shoes	Equipment Legs
+4856	Absolute Safety Shoes	Equipment Legs
+4857	Wind Sneakers	Equipment Legs
+4858	Survival Boots	Equipment Legs
+4859	Magical Sandals	Equipment Legs
+4860	Battle Boots	Equipment Legs
+4861	Tactical Boots	Equipment Legs
+4862	Reverie Shoes	Equipment Legs
+4863	Sacred Leather Socks	Equipment Legs
+4864	Mysticism Shoes	Equipment Legs
+4865	Cyber Boots	Equipment Legs
+4866	Mage's Crakows	Equipment Legs
+4867	Illegal Boots	Equipment Legs
+4868	Quixotic Greaves	Equipment Legs
+4869	Fable Boots	Equipment Legs
+4870	Dragon Boots	Equipment Legs
+4871	Iron Geta	Equipment Legs
+4872	Office Pumps	Equipment Legs
+4873	Binding	Equipment Accessories
+4874	Fighter's Binding	Equipment Accessories
+4875	Gallant Binding	Equipment Accessories
+4876	Dragon's Binding	Equipment Accessories
+4877	Luxurious Belt	Equipment Accessories
+4878	Fighter's Belt	Equipment Accessories
+4879	Military Belt	Equipment Accessories
+4880	Tiger Belt	Equipment Accessories
+4881	Health Ring	Equipment Accessories
+4882	Power Ring	Equipment Accessories
+4883	Superpower Ring	Equipment Accessories
+4884	Champion's ring	Equipment Accessories
+4885	Toy Bracelet	Equipment Accessories
+4886	Fluorite Bracelet	Equipment Accessories
+4887	Silver Bracelet	Equipment Accessories
+4888	Jeweled Bracelet	Equipment Accessories
+4889	Simple Earrings	Equipment Accessories
+4890	Designer Earrings	Equipment Accessories
+4891	Pearl Earrings	Equipment Accessories
+4892	Diamond Earrings	Equipment Accessories
+4893	Rusted Chainmail	Equipment Accessories
+4894	Chainmail	Equipment Accessories
+4895	Sengoku Armor	Equipment Accessories
+4896	Kongo Chainmail	Equipment Accessories
+4897	Economy Insoles	Equipment Accessories
+4898	Athletic Insoles	Equipment Accessories
+4899	Military Insoles	Equipment Accessories
+4900	Transcendent Insoles	Equipment Accessories
+4901	Cotton Gloves	Equipment Accessories
+4902	Work Gloves	Equipment Accessories
+4903	Expert Gloves	Equipment Accessories
+4904	Komaki Gloves	Equipment Accessories
+4905	Black Belt	Equipment Accessories
+4906	War God's Keystone	Equipment Accessories
+4907	Eye of the Dragon	Equipment Accessories
+4908	Flame Amulet	Equipment Accessories
+4909	Fire God's Amulet	Equipment Accessories
+4910	Rime Amulet	Equipment Accessories
+4911	Water God's Amulet	Equipment Accessories
+4912	Raiden Amulet	Equipment Accessories
+4913	Thunder God's Amulet	Equipment Accessories
+4914	Awakened Misanga	Equipment Accessories
+4915	Maximum Mittens	Equipment Accessories
+4916	Absolute Prevention Mask	Equipment Accessories
+4917	Insulated Innerwear	Equipment Accessories
+4918	Gas Mask	Equipment Accessories
+4919	Mr. Mind Cooler	Equipment Accessories
+4920	Motivational Headband	Equipment Accessories
+4921	Courage Pendant	Equipment Accessories
+4922	Stoic Sunglasses	Equipment Accessories
+4923	Sanity Badge	Equipment Accessories
+4924	Comedy Masquerade	Equipment Accessories
+4925	Poetry Unbound	Equipment Accessories
+4926	Curse Substitute	Equipment Accessories
+4927	Soulshield Bracelet	Equipment Accessories
+4928	Bracelet Of The Four Gods	Equipment Accessories
+4929	Tranquil Tenugui	Equipment Accessories
+4930	Yakuza Training Gear	Equipment Accessories
+4931	Dragonfish Tenugui	Equipment Accessories
+4932	Old Fountain Pen	Equipment Accessories
+4933	Vintage Notebook	Equipment Accessories
+4934	Bullet of Memory	Equipment Accessories
+4935	Worldly Cigar	Equipment Accessories
+4936	Mysterious Blush	Equipment Accessories
+4937	Rising Dragon Belt	Equipment Accessories
+4938	Maiden's Perfume	Equipment Accessories
+4939	Swordsman's Sash	Equipment Accessories
+4940	Fancy Business Card	Equipment Accessories
+4941	Chief's Towel	Equipment Accessories
+4942	Weathered Music Score	Equipment Accessories
+4943	Def Boom Box	Equipment Accessories
+4944	Medal of Honor	Equipment Accessories
+4945	Court Tongs	Equipment Accessories
+4946	Dice of Disaster	Equipment Accessories
+4947	Dreamy Signature	Equipment Accessories
+4948	Magic Lighter	Equipment Accessories
+4949	Gambler's Tie	Equipment Accessories
+4950	Ecstasy Rope	Equipment Accessories
+4951	Doll of Torment	Equipment Accessories
+4952	Profane Wristband	Equipment Accessories
+4953	Diabolic Wristband	Equipment Accessories
+4954	Kiwami Mouthgard	Equipment Accessories
+4955	Brawler God's Mouthguard	Equipment Accessories
+4956	War God's Talisman	Equipment Accessories
+4957	Sacrifice Stone	Equipment Accessories
+4958	Wagesa of Fortune	Equipment Accessories
+4959	Fortune Dice	Equipment Accessories
+4960	Hariti's Amulet	Equipment Accessories
+4962	Roasted Chestnuts	Recovery Items
+4963	Grandma's Cookies	Recovery Items
+4964	High Payout Token	Other
+4965	Hades Token - God	Other
+4966	Hades Token - Dark Lord	Other
+4967	Hades Token - Purple 7	Other
+4968	Return Token - God	Other
+4969	Return Token - Red 7	Other
+4970	Souten Token - Deathmatch	Other
+4971	Souten Token - Passing Heavens Ritual	Other
+4972	Beast King Token - Savanna Chance	Other
+4973	Wood Block	Materials
+4974	Sturdy Lumber	Materials
+4975	Quality Lumber	Materials
+4976	High-quality Lumber	Materials
+4977	Highest-quality Lumber	Materials
+4978	Ragged Cloth	Materials
+4979	Thick Cloth	Materials
+4980	Beautiful Cloth	Materials
+4981	High-quality Cloth	Materials
+4982	Dirty Iron	Materials
+4983	Sturdy Iron	Materials
+4984	Refined Iron	Materials
+4985	Reinforced Alloy	Materials
+4986	Tempered Steel	Materials
+4987	Superalloy Steel	Materials
+4988	Cloudy Pane	Materials
+4989	Clear Pane	Materials
+4990	Immaculate Pane	Materials
+4991	Tempered Glass	Materials
+4992	Tempered Safety Glass	Materials
+4993	Cheap Plastic	Materials
+4994	Sturdy Plastic	Materials
+4995	Dull Aluminum	Materials
+4996	Gleaming Aluminum	Materials
+4997	Rough Hide	Materials
+4998	Thick Hide	Materials
+4999	Smooth Hide	Materials
+5000	High-end Leather	Materials
+5001	Full-grain Leather	Materials
+5002	Odd Stone	Materials
+5003	Mysterious Stone	Materials
+5004	Impure Lead	Materials
+5005	High-purity Lead	Materials
+5006	High-density Metal	Materials
+5007	Tungsten	Materials
+5008	Nail	Materials
+5009	Metal Wire	Materials
+5010	Pearl	Materials
+5011	Silver Ingot	Materials
+5012	Gold Ingot	Materials
+5013	Raw Platinum Ore	Materials
+5014	Raw Ruby Ore	Materials
+5015	Raw Sapphire Ore	Materials
+5016	Raw Diamond Ore	Materials
+5033	Handmade Meat Bun	Recovery Items
+5034	Bean Paste Bun	Recovery Items
+5035	Shark Fin Bun	Recovery Items
+5036	Chinese Sticky Rice	Recovery Items
+5038	Chili Bean Paste	Other
+5042	Fresh Milk	Other
+5043	Hot Milk	Other
+5044	Soft Serve Ice Cream	Recovery Items
+5048	Chilled Tomatoes	Other
+5049	Caesar Salad	Other
+5050	Scone	Other
+5051	Pain d'épi	Other
+5052	Special Pancakes	Other
+5053	Eomeoni's Kimchi	Other
+5054	Kanitama	Other
+5055	Mapo Tofu	Other
+5056	Sweet and Sour Pork	Other
+5057	Pork Pepper Steak	Other
+5058	Water	Other
+5059	Cooking Manual	Growth Items
+5060	Dominance Manual	Growth Items
+5061	Turmeric Tablets	Status Items
+5064	Thug's Nail Bat	Weapons
+5067	Shrimp Karaage	Other
+5068	Crunchy-fried Chicken Skin	Other
+5070	Development Kit (Beginner)	Materials
+5071	Development Kit (Intermediate)	Materials
+5072	Development Kit (Advanced)	Materials
+5074	Chocolate Parfait	Other
+5075	Napolitan	Other
+5076	Chashu Tonkotsu Ramen	Other
+5077	Chashu Rice Bowl	Other
+5078	Pasta Sticks	Other
+5079	Tournedos Rossini	Other
+5080	Crunchy-fried Chicken Skin	Other
+5081	Fruit Platter	Other
+5082	Strawberry Parfait	Other
+5083	Beer	Other
+5084	Red Wine	Other
+5085	Water	Other
+5086	Kanitama	Other
+5087	Mapo Tofu	Other
+5088	Chinese Sticky Rice	Other
+5089	Mixed Fried Rice	Other
+5090	Mixed Noodles	Other
+5091	Sweet and Sour Pork	Other
+5092	Har Gow	Other
+5093	Almond Jelly	Other
+5094	Oolong Tea	Other
+5095	Shaoxing Wine	Other
+5166	Darksilver Fists	Weapons
+5168	Pickles	Other
+5169	Rice	Other
+5170	Naginata	Weapons
+5171	Lady's Naginata	Weapons
+5172	Green Dragon Crescent Blade	Weapons
+5173	Special Job: Devil Rocker	Other
+5174	Special Job: Matriarch	Other
+5175	Iconic Characters Costume Set	Other
+5176	Talented Staff Pack 1 (Legends)	Other
+5177	Talented Staff Pack 2 (Reliable Allies)	Other
+5178	Talented Staff Pack 3 (Hostess Legends)	Other
+5179	Materials Pack - Matsu	Other
+5180	Materials Pack - Take	Other
+5181	Materials Pack - Ume	Other
+5182	Costume Head (All) & Gear Set	Other
+5190	Personality Enhancement Pack	Other
+5191	Main Job Assistance Pack	Other
+5192	Majima Construction Set	Other
+5194	Job Change Assistance Pack 1	Other
+5195	Job Change Assistance Pack 2	Other
+5196	Battle Assistance Pack	Other
+5197	Pachislot Machines 4 Pack	Other
+5198	Upstart Assistance Pack 1	Other
+5199	Upstart Assistance Pack 2	Other
+5200	Upstart Assistance Pack 3	Other
+5201	Upstart Assistance Pack 4	Other
+5202	Upstart Assistance Pack 5	Other
+5203	Upstart Assistance Pack 6	Other
+5204	Upstart Assistance Pack 7	Other
+5205	Bare-Handed	Weapons
+5206	Edamame	Other
+5208	Complimentary Rice	Other
+5209	Yamazaki Highball	Other
+5210	Citrus Lemon Highball	Other
+5211	Oolong Tea	Other
+5212	Yuzu Chicken & Spinach Soba	Other
+5213	Sashimi Platter (5 pcs)	Other
+5214	Salted Yakisoba (with Sichuan Chili Oil)	Other
+5215	Japanese Black Mince Cutlet	Other
+5216	Ice Brûlée	Other
+5217	Lemon Sour	Other
+5218	The Premium Malt's Draft	Other
+5219	Honey Pepper Dwaeji Kalbi	Other
+5220	Crab Nabe Course: Hiyori	Other
+5221	Fried Pasta	Other
+5222	Mixed Nuts	Other
+5223	Tomato & Mozzarella Caprese	Other
+5224	Pickled Vegetable Sticks	Other
+5225	Hot Nachos in Meat Sauce	Other
+5226	Prosciutto Platter	Other
+5227	Caesar Salad	Other
+5228	Chicken Basket	Other
+5229	Onion Rings	Other
+5230	Bee Garlic Chicken Rice	Other
+5231	Oolong Tea	Other
+5232	Beer	Other
+5233	Red Wine	Other
+5234	White Wine	Other
+5235	Crème Brûlée Ice Cake	Other
+5236	Ichiban Senbei (Shoyu)	Recovery Items
+5237	Ichiban Senbei (Salt)	Recovery Items
+5238	Ichiban Fried Senbei	Recovery Items
+5239	Nozaki's Corned Beef	Recovery Items
+5240	Pine Candy	Recovery Items
+5241	Empty Cough Drop Tin	Materials
+5242	Kao Attack ZERO	Materials
+5243	Cemedine Super X	Materials
+5244	SEGA Taiyaki	Recovery Items
+5245	Oragamachi Natto	Recovery Items
+5246	Scalp D	Growth Items
+5247	Twist Fragrance	Growth Items
+5248	Miracle Kimchi	Status Items
+5250	Self-proclaimed Hero's Bat	Weapons
+5251	Self-proclaimed Hero's Bat +1	Weapons
+5252	Self-proclaimed Hero's Bat +2	Weapons
+5253	Hero's Bat +1	Weapons
+5254	Hero's Bat +2	Weapons
+5255	Heroic Soul Bat +1	Weapons
+5256	Heroic Soul Bat +2	Weapons
+5257	Legendary Hero's Bat +1	Weapons
+5258	Legendary Hero's Bat +2	Weapons
+5259	Legendary Hero's Bat EX	Weapons
+5260	Legendary Hero's Bat EX +1	Weapons
+5261	Legendary Hero's Bat EX +2	Weapons
+5262	Legendary Hero's Bat EX +3	Weapons
+5263	Legendary Hero's Bat EX +4	Weapons
+5264	Legendary Hero's Bat EX +5	Weapons
+5265	Legendary Hero's Bat EX +6	Weapons
+5266	Legendary Hero's Bat EX +7	Weapons
+5267	Legendary Hero's Bat EX +8	Weapons
+5268	Legendary Hero's Bat EX EX	Weapons
+5269	Majima Construction Bat	Weapons
+5270	Rugged Cane +1	Weapons
+5271	Rugged Cane +2	Weapons
+5272	Red Cane +1	Weapons
+5273	Red Cane +2	Weapons
+5274	Crimson Rod +1	Weapons
+5275	Crimson Rod +2	Weapons
+5276	Amenohoakari no Mikoto +1	Weapons
+5277	Amenohoakari no Mikoto +2	Weapons
+5278	Amenohoakari no Mikoto EX	Weapons
+5279	Amenohoakari no Mikoto EX +1	Weapons
+5280	Amenohoakari no Mikoto EX +2	Weapons
+5281	Amenohoakari no Mikoto EX +3	Weapons
+5282	Amenohoakari no Mikoto EX +4	Weapons
+5283	Amenohoakari no Mikoto EX +5	Weapons
+5284	Amenohoakari no Mikoto EX +6	Weapons
+5285	Amenohoakari no Mikoto EX +7	Weapons
+5286	Amenohoakari no Mikoto EX +8	Weapons
+5287	Amenohoakari no Mikoto EX EX	Weapons
+5288	Carbon Police Baton +1	Weapons
+5289	Carbon Police Baton +2	Weapons
+5290	Neo Police Baton +1	Weapons
+5291	Neo Police Baton +2	Weapons
+5292	Meteoric Iron Club +1	Weapons
+5293	Meteoric Iron Club +2	Weapons
+5294	Chromium Alloy Club +1	Weapons
+5295	Chromium Alloy Club +2	Weapons
+5296	Chromium Alloy Club EX	Weapons
+5297	Chromium Alloy Club EX +1	Weapons
+5298	Chromium Alloy Club EX +2	Weapons
+5299	Chromium Alloy Club EX +3	Weapons
+5300	Chromium Alloy Club EX +4	Weapons
+5301	Chromium Alloy Club EX +5	Weapons
+5302	Chromium Alloy Club EX +6	Weapons
+5303	Chromium Alloy Club EX +7	Weapons
+5304	Chromium Alloy Club EX +8	Weapons
+5305	Chromium Alloy Club EX EX	Weapons
+5306	Casual Bag +1	Weapons
+5307	Casual Bag +2	Weapons
+5308	Tailored Bag +1	Weapons
+5309	Tailored Bag +2	Weapons
+5310	Metallic Bag +1	Weapons
+5311	Metallic Bag +2	Weapons
+5312	Jeweled Bag +1	Weapons
+5313	Jeweled Bag +2	Weapons
+5314	Jeweled Bag EX +1	Weapons
+5315	Jeweled Bag EX +2	Weapons
+5316	Jeweled Bag EX +3	Weapons
+5317	Jeweled Bag EX +4	Weapons
+5318	Jeweled Bag EX +5	Weapons
+5319	Jeweled Bag EX +6	Weapons
+5320	Jeweled Bag EX +7	Weapons
+5321	Jeweled Bag EX +8	Weapons
+5322	Jeweled Bag EX EX	Weapons
+5323	Inlaid Gloves +1	Weapons
+5324	Inlaid Gloves +2	Weapons
+5325	The Black Fists +1	Weapons
+5326	The Black Fists +2	Weapons
+5327	Darksilver Fists +1	Weapons
+5328	Darksilver Fists +2	Weapons
+5329	Darksilver Fists EX	Weapons
+5330	Darksilver Fists EX +1	Weapons
+5331	Darksilver Fists EX +2	Weapons
+5332	Darksilver Fists EX +3	Weapons
+5333	Darksilver Fists EX +4	Weapons
+5334	Darksilver Fists EX +5	Weapons
+5335	Darksilver Fists EX +6	Weapons
+5336	Darksilver Fists EX +7	Weapons
+5337	Darksilver Fists EX +8	Weapons
+5338	Darksilver Fists EX EX	Weapons
+5339	Master's Saber +1	Weapons
+5340	Master's Saber +2	Weapons
+5341	Chinese Style Liuyedao +1	Weapons
+5342	Chinese Style Liuyedao +2	Weapons
+5343	Curved Crystal Saber +1	Weapons
+5344	Curved Crystal Saber +2	Weapons
+5345	Curved Crystal Saber EX	Weapons
+5346	Curved Crystal Saber EX +1	Weapons
+5347	Curved Crystal Saber EX +2	Weapons
+5348	Curved Crystal Saber EX +3	Weapons
+5349	Curved Crystal Saber EX +4	Weapons
+5350	Curved Crystal Saber EX +5	Weapons
+5351	Curved Crystal Saber EX +6	Weapons
+5352	Curved Crystal Saber EX +7	Weapons
+5353	Curved Crystal Saber EX +8	Weapons
+5354	Curved Crystal Saber EX EX	Weapons
+5355	Anti-corrosion Boxcutter +1	Weapons
+5356	Anti-corrosion Boxcutter +2	Weapons
+5357	Craftsman's Boxcutter +1	Weapons
+5358	Craftsman's Boxcutter +2	Weapons
+5359	Special Blade Boxcutter +1	Weapons
+5360	Special Blade Boxcutter +2	Weapons
+5361	Super High-frequency Ruler +1	Weapons
+5362	Super High-frequency Ruler +2	Weapons
+5363	Super High Frequency Ruler EX	Weapons
+5364	Super High Frequency Ruler EX +1	Weapons
+5365	Super High Frequency Ruler EX +2	Weapons
+5366	Super High Frequency Ruler EX +3	Weapons
+5367	Super High Frequency Ruler EX +4	Weapons
+5368	Super High Frequency Ruler EX +5	Weapons
+5369	Super High Frequency Ruler EX +6	Weapons
+5370	Super High Frequency Ruler EX +7	Weapons
+5371	Super High Frequency Ruler EX +8	Weapons
+5372	Super High Frequency Ruler EX EX	Weapons
+5373	Nameless Katana +1	Weapons
+5374	Nameless Katana +2	Weapons
+5375	Weathered Katana +1	Weapons
+5376	Weathered Katana +2	Weapons
+5377	Kiwami Demon Blade +1	Weapons
+5378	Kiwami Demon Blade +2	Weapons
+5379	Demon Blade Muramasa +1	Weapons
+5380	Demon Blade Muramasa +2	Weapons
+5381	Demon Blade Muramasa EX	Weapons
+5382	Demon Blade Muramasa EX +1	Weapons
+5383	Demon Blade Muramasa EX +2	Weapons
+5384	Demon Blade Muramasa EX +3	Weapons
+5385	Demon Blade Muramasa EX +4	Weapons
+5386	Demon Blade Muramasa EX +5	Weapons
+5387	Demon Blade Muramasa EX +6	Weapons
+5388	Demon Blade Muramasa EX +7	Weapons
+5389	Demon Blade Muramasa EX +8	Weapons
+5390	Demon Blade Muramasa EX EX	Weapons
+5391	Table Sparkling +1	Weapons
+5392	Table Sparkling +2	Weapons
+5393	Reserva Magnum +1	Weapons
+5394	Reserva Magnum +2	Weapons
+5395	Gran Reserva +1	Weapons
+5396	Gran Reserva +2	Weapons
+5397	Snow Sapphire Wine +1	Weapons
+5398	Snow Sapphire Wine +2	Weapons
+5399	Snow Sapphire Wine EX	Weapons
+5400	Snow Sapphire Wine EX +1	Weapons
+5401	Snow Sapphire Wine EX +2	Weapons
+5402	Snow Sapphire Wine EX +3	Weapons
+5403	Snow Sapphire Wine EX +4	Weapons
+5404	Snow Sapphire Wine EX +5	Weapons
+5405	Snow Sapphire Wine EX +6	Weapons
+5406	Snow Sapphire Wine EX +7	Weapons
+5407	Snow Sapphire Wine EX +8	Weapons
+5408	Snow Sapphire Wine EX EX	Weapons
+5409	Red Anklet +1	Weapons
+5410	Red Anklet +2	Weapons
+5411	Metal Anklet +1	Weapons
+5412	Metal Anklet +2	Weapons
+5413	Platinum Anklet +1	Weapons
+5414	Platinum Anklet +2	Weapons
+5415	Soul Anklet +1	Weapons
+5416	Soul Anklet +2	Weapons
+5417	Soul Anklet EX	Weapons
+5418	Soul Anklet EX +1	Weapons
+5419	Soul Anklet EX +2	Weapons
+5420	Soul Anklet EX +3	Weapons
+5421	Soul Anklet EX +4	Weapons
+5422	Soul Anklet EX +5	Weapons
+5423	Soul Anklet EX +6	Weapons
+5424	Soul Anklet EX +7	Weapons
+5425	Soul Anklet EX +8	Weapons
+5426	Soul Anklet EX EX	Weapons
+5427	Rusted Hammer +1	Weapons
+5428	Rusted Hammer +2	Weapons
+5429	Massive Hammer +1	Weapons
+5430	Massive Hammer +2	Weapons
+5431	Thrashing Hammer +1	Weapons
+5432	Thrashing Hammer +2	Weapons
+5433	Heaven and Earth Hammer +1	Weapons
+5434	Heaven and Earth Hammer +2	Weapons
+5435	Heaven and Earth Hammer EX	Weapons
+5436	Heaven and Earth Hammer EX +1	Weapons
+5437	Heaven and Earth Hammer EX +2	Weapons
+5438	Heaven and Earth Hammer EX +3	Weapons
+5439	Heaven and Earth Hammer EX +4	Weapons
+5440	Heaven and Earth Hammer EX +5	Weapons
+5441	Heaven and Earth Hammer EX +6	Weapons
+5442	Heaven and Earth Hammer EX +7	Weapons
+5443	Heaven and Earth Hammer EX +8	Weapons
+5444	Heaven and Earth Hammer EX EX	Weapons
+5445	Vintage Guitar +1	Weapons
+5446	Vintage Guitar +2	Weapons
+5447	Mood Guitar +1	Weapons
+5448	Mood Guitar +2	Weapons
+5449	The Symphonic +1	Weapons
+5450	The Symphonic +2	Weapons
+5451	The Symphonic EX	Weapons
+5452	The Symphonic EX +1	Weapons
+5453	The Symphonic EX +2	Weapons
+5454	The Symphonic EX +3	Weapons
+5455	The Symphonic EX +4	Weapons
+5456	The Symphonic EX +5	Weapons
+5457	The Symphonic EX +6	Weapons
+5458	The Symphonic EX +7	Weapons
+5459	The Symphonic EX +8	Weapons
+5460	The Symphonic EX EX	Weapons
+5461	Wooden Flipper +1	Weapons
+5462	Wooden Flipper +2	Weapons
+5463	Steel Flipper +1	Weapons
+5464	Steel Flipper +2	Weapons
+5465	Scorching Spatula +1	Weapons
+5466	Scorching Spatula +2	Weapons
+5467	Scorching Spatula EX	Weapons
+5468	Scorching Spatula EX +1	Weapons
+5469	Scorching Spatula EX +2	Weapons
+5470	Scorching Spatula EX +3	Weapons
+5471	Scorching Spatula EX +4	Weapons
+5472	Scorching Spatula EX +5	Weapons
+5473	Scorching Spatula EX +6	Weapons
+5474	Scorching Spatula EX +7	Weapons
+5475	Scorching Spatula EX +8	Weapons
+5476	Scorching Spatula EX EX	Weapons
+5477	Bulletproof Shield +1	Weapons
+5478	Bulletproof Shield +2	Weapons
+5479	Impervious Shield +1	Weapons
+5480	Impervious Shield +2	Weapons
+5481	Special Ops Riot Shield +1	Weapons
+5482	Special Ops Riot Shield +2	Weapons
+5483	Special Ops Riot Shield EX	Weapons
+5484	Special Ops Riot Shield EX +1	Weapons
+5485	Special Ops Riot Shield EX +2	Weapons
+5486	Special Ops Riot Shield EX +3	Weapons
+5487	Special Ops Riot Shield EX +4	Weapons
+5488	Special Ops Riot Shield EX +5	Weapons
+5489	Special Ops Riot Shield EX +6	Weapons
+5490	Special Ops Riot Shield EX +7	Weapons
+5491	Special Ops Riot Shield EX +8	Weapons
+5492	Special Ops Riot Shield EX EX	Weapons
+5493	Stone Orb +1	Weapons
+5494	Stone Orb +2	Weapons
+5495	Jade Sphere +1	Weapons
+5496	Jade Sphere +2	Weapons
+5497	Diamond Orbaculum +1	Weapons
+5498	Diamond Orbaculum +2	Weapons
+5499	Diamond Orbaculum EX	Weapons
+5500	Diamond Orbaculum EX +1	Weapons
+5501	Diamond Orbaculum EX +2	Weapons
+5502	Diamond Orbaculum EX +3	Weapons
+5503	Diamond Orbaculum EX +4	Weapons
+5504	Diamond Orbaculum EX +5	Weapons
+5505	Diamond Orbaculum EX +6	Weapons
+5506	Diamond Orbaculum EX +7	Weapons
+5507	Diamond Orbaculum EX +8	Weapons
+5508	Diamond Orbaculum EX EX	Weapons
+5509	Pretty Microphone +1	Weapons
+5510	Pretty Microphone +2	Weapons
+5511	Twinkle Microphone +1	Weapons
+5512	Twinkle Microphone +2	Weapons
+5513	Winged Microphone +1	Weapons
+5514	Winged Microphone +2	Weapons
+5515	Celestial Microphone +1	Weapons
+5516	Celestial Microphone +2	Weapons
+5517	Celestial Microphone EX	Weapons
+5518	Celestial Microphone EX +1	Weapons
+5519	Celestial Microphone EX +2	Weapons
+5520	Celestial Microphone EX +3	Weapons
+5521	Celestial Microphone EX +4	Weapons
+5522	Celestial Microphone EX +5	Weapons
+5523	Celestial Microphone EX +6	Weapons
+5524	Celestial Microphone EX +7	Weapons
+5525	Celestial Microphone EX +8	Weapons
+5526	Celestial Microphone EX EX	Weapons
+5527	Cotton Pouch +1	Weapons
+5528	Cotton Pouch +2	Weapons
+5529	Dressy Pouch +1	Weapons
+5530	Dressy Pouch +2	Weapons
+5531	Shining Pouch +1	Weapons
+5532	Shining Pouch +2	Weapons
+5533	Shining Pouch EX	Weapons
+5534	Shining Pouch EX +1	Weapons
+5535	Shining Pouch EX +2	Weapons
+5536	Shining Pouch EX +3	Weapons
+5537	Shining Pouch EX +4	Weapons
+5538	Shining Pouch EX +5	Weapons
+5539	Shining Pouch EX +6	Weapons
+5540	Shining Pouch EX +7	Weapons
+5541	Shining Pouch EX +8	Weapons
+5542	Shining Pouch EX EX	Weapons
+5543	Tarot Cards +1	Weapons
+5544	Tarot Cards +2	Weapons
+5545	True Ace +1	Weapons
+5546	True Ace +2	Weapons
+5547	Fake Ace +1	Weapons
+5548	Fake Ace +2	Weapons
+5549	Fake Ace EX	Weapons
+5550	Fake Ace EX +1	Weapons
+5551	Fake Ace EX +2	Weapons
+5552	Fake Ace EX +3	Weapons
+5553	Fake Ace EX +4	Weapons
+5554	Fake Ace EX +5	Weapons
+5555	Fake Ace EX +6	Weapons
+5556	Fake Ace EX +7	Weapons
+5557	Fake Ace EX +8	Weapons
+5558	Fake Ace EX EX	Weapons
+5559	Sadistic Whip +1	Weapons
+5560	Sadistic Whip +2	Weapons
+5561	Whip of Anguish +1	Weapons
+5562	Whip of Anguish +2	Weapons
+5563	Whip of Pleasure +1	Weapons
+5564	Whip of Pleasure +2	Weapons
+5565	Whip of Pleasure EX	Weapons
+5566	Whip of Pleasure EX +1	Weapons
+5567	Whip of Pleasure EX +2	Weapons
+5568	Whip of Pleasure EX +3	Weapons
+5569	Whip of Pleasure EX +4	Weapons
+5570	Whip of Pleasure EX +5	Weapons
+5571	Whip of Pleasure EX +6	Weapons
+5572	Whip of Pleasure EX +7	Weapons
+5573	Whip of Pleasure EX +8	Weapons
+5574	Whip of Pleasure EX EX	Weapons
+5575	Thrallmaster's Axe +1	Weapons
+5576	Thrallmaster's Axe +2	Weapons
+5577	Infernal Crasher +1	Weapons
+5578	Infernal Crasher +2	Weapons
+5579	Infernal Crasher EX	Weapons
+5580	Infernal Crasher EX +1	Weapons
+5581	Infernal Crasher EX +2	Weapons
+5582	Infernal Crasher EX +3	Weapons
+5583	Infernal Crasher EX +4	Weapons
+5584	Infernal Crasher EX +5	Weapons
+5585	Infernal Crasher EX +6	Weapons
+5586	Infernal Crasher EX +7	Weapons
+5587	Infernal Crasher EX +8	Weapons
+5588	Infernal Crasher EX EX	Weapons
+5589	Lady's Naginata +1	Weapons
+5590	Lady's Naginata +2	Weapons
+5591	Green Dragon Crescent Blade +1	Weapons
+5592	Green Dragon Crescent Blade +2	Weapons
+5593	Green Dragon Crescent Blade EX	Weapons
+5594	Green Dragon Crescent Blade EX +1	Weapons
+5595	Green Dragon Crescent Blade EX +2	Weapons
+5596	Green Dragon Crescent Blade EX +3	Weapons
+5597	Green Dragon Crescent Blade EX +4	Weapons
+5598	Green Dragon Crescent Blade EX +5	Weapons
+5599	Green Dragon Crescent Blade EX +6	Weapons
+5600	Green Dragon Crescent Blade EX +7	Weapons
+5601	Green Dragon Crescent Blade EX +8	Weapons
+5602	Green Dragon Crescent Blade EX EX	Weapons
+5603	Majima Helmet	Equipment Head
+5605	New Karaoke (Soundtrack & CD Set)	Other
+5606	Kiryu's Greatest Hits (Full & CD Set)	Other
+5607	Majima's Great Hits (Full & CD Set)	Other
+5608	Karaoke Classics (Full & CD Set)	Other
+5609	Legendary First Aid Kit	Status Items
+5610	ONO Shirt	Equipment Chest
+5611	Cool Boots	Equipment Legs
+5612	Fish Pouch	Equipment Accessories
+5613	Almond Jelly	Recovery Items
+5614	Mango Pudding	Recovery Items
+5628	Gold Champagne	Other
+5629	Rosé Champagne	Other
+5630	Black Champagne	Other
+5631	Egg	Recovery Items
+5632	Quality Egg	Recovery Items
+5633	Golden Egg	Recovery Items
+5635	10 yen	Other
+5636	100 yen	Other
+5637	500 yen	Other
+5639	Special Costume: Kazuma Kiryu Yakuza 0 Ver. (Kasuga)	Other
+5640	Special Costume: Goro Majima Yakuza 0 Ver. (Kasuga)	Other
+5641	Special Costume: Ryuji Goda (Kasuga)	Other
+5642	Special Costume: Daigo Dojima (Kasuga)	Other
+5643	Special Costume: Kaoru Sayama (Saeko)	Other
+5644	Special Costume: Haruka Sawamura (Eri)	Other
+5645	Special Costume: Taiga Saejima (Kasuga)	Other
+5646	1,000 yen	Other
+5647	5,000 yen	Other
+5648	10,000 yen	Other
+5649	100,000 yen	Other
+5650	Special Costume: Makoto Date (Kasuga)	Other
+5651	Low Sodium Champon	Other
+5654	Ultimate Pork Bun	Recovery Items
+5655	Imuraya Steamed Bun	Recovery Items
+5656	Imuraya Yokan	Recovery Items
+5657	Imuraya Castella	Recovery Items
+5658	Flaming Lumber +1	Weapons
+5659	Flaming Lumber +2	Weapons
+5661	Thundercrack Bat +1	Weapons
+5662	Thundercrack Bat +2	Weapons
+5664	Icy Traffic Wand +1	Weapons
+5665	Icy Traffic Wand +2	Weapons
+5667	Lightning Bandages +1	Weapons
+5668	Lightning Bandages +2	Weapons
+5670	Red Hot Blade +1	Weapons
+5671	Red Hot Blade +2	Weapons
+5673	Voltaic Yellow Wine +1	Weapons
+5674	Voltaic Yellow Wine +2	Weapons
+5676	Blue Metal Anklet +1	Weapons
+5677	Blue Metal Anklet +2	Weapons
+5679	Bastard Soda +1	Weapons
+5680	Bastard Soda +2	Weapons
+5682	Flaming Lumber EX	Weapons
+5683	Thundercrack Bat EX	Weapons
+5684	Icy Traffic Wand EX	Weapons
+5685	Lightning Bandages EX	Weapons
+5686	Red Hot Blade EX	Weapons
+5687	Voltaic Yellow Wine EX	Weapons
+5688	Blue Metal Anklet EX	Weapons
+5689	Bastard Soda EX	Weapons
+5692	Yakuza: Like A Dragon Expansion Kit	Other
+5693	Bleach Japan Outfit Set	Other
+5694	Double Heroine Outfit Set	Other
+5695	Premium Item Set	Other
+5696	Premium Outfit Set	Other
+5697	Level Up Pack	Other
+5698	Level Booster	Growth Items
+5699	Crafting Materials Bundle	Other
+5700	Stat Boost Bundle	Other
+[/ID]

@@ -1,0 +1,143 @@
+^1 = HASH: 9184AAF1
+^3 = NAME: Jak II
+^2 = GameID: SCUS_972.65
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0011F49B
+$200FF000 3C012000
+$200FF004 03212025
+$200FF008 3C053C04
+$200FF00C 34A50008
+$200FF010 24062000
+$200FF014 8C830000
+$200FF018 14650002
+$200FF01C 34630004
+$200FF020 AC830000
+$200FF024 24C6FFFC
+$200FF028 1CC0FFFA
+$200FF02C 24840004
+$200FF030 03200008
+$200FF034 00000000
+$201085A8 0C03FC00
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$9011F498 0C047CCE
+$200FF000 3C012000
+$200FF004 03212025
+$200FF008 3C053C04
+$200FF00C 34A50008
+$200FF010 24062000
+$200FF014 8C830000
+$200FF018 14650002
+$200FF01C 34630004
+$200FF020 AC830000
+$200FF024 24C6FFFC
+$200FF028 1CC0FFFA
+$200FF02C 24840004
+$200FF030 03200008
+$200FF034 00000000
+$201085A8 0C03FC00
+!!
+!With this game, yes, I know the Enable Code is extra long, but it's necessary because this is the second game that crashes Code Breaker PS2 when you have codes active. This long enable code fixes the crash so the game boots up properly and the cheats will be active.:
++Infinite Health
+%Credits: Code Master
+$2019C5C0 41000000
++Max Metal Head Skull Gems (Current)
+%Credits: Code Master
+$20622F14 4479C000
++Max Precursor Orbs (Current)
+%Credits: Code Master
+$20622F1C 43480000
++Max Precursor Orbs (Overall)
+%Credits: Code Master
+$20622F20 43480000
++Unlock All Secrets
+%Credits: Code Master
+$20622F48 FFFFFFFF
+$2080A704 FFFFFFFF
+$2080C894 FFFFFFFF
+$2080EDD4 FFFFFFFF
+$2080F624 FFFFFFFF
+$20813964 FFFFFFFF
+$20819214 FFFFFFFF
++Max Score (Scatter Gun Course)
+%Credits: Code Master
+$D01C01B2 0000001C
+$201C01E0 0001869F
++P1 Press L1+Select To Stop Race Timer
+%Credits: Code Master
+$D0128182 0000FBFE
+$20357144 00000000
++P1 Press L2+Select To Restart Race Timer
+%Credits: Code Master
+$D0128182 0000FEFE
+$20357144 FF830014
+!!
+!Infinite Ammo Codes:
++Blaster Weapon
+%Credits: Code Master
+$20622F54 43480000
++Scatter Gun
+%Credits: Code Master
+$20622F58 42C80000
++Vulcan Fury
+%Credits: Code Master
+$20622F5C 43480000
++Peace Maker
+%Credits: Code Master
+$20622F60 41200000
+!!
+!Language Modifier Codes:
++Japanese
+%Credits: Code Master
+$A01108B0 03E00008
+$A01108B4 24020000
++English
+%Credits: Code Master
+$A01108B0 03E00008
+$A01108B4 24020001
++French
+%Credits: Code Master
+$A01108B0 03E00008
+$A01108B4 24020002
++Spanish
+%Credits: Code Master
+$A01108B0 03E00008
+$A01108B4 24020003
++German
+%Credits: Code Master
+$A01108B0 03E00008
+$A01108B4 24020004
++Italian
+%Credits: Code Master
+$A01108B0 03E00008
+$A01108B4 24020005
++Portuguese
+%Credits: Code Master
+$A01108B0 03E00008
+$A01108B4 24020007
+!!
+!Activate Single Cheat Modifier Codes(CB V7.0 Or Higher Needed!) [Note 1]:
++Toggle Jak's Goatee
+%Credits: Code Master
+$70622F40 00000001
++Mirror World
+%Credits: Code Master
+$70622F40 00000002
++Unlimited Ammo
+%Credits: Code Master
+$70622F40 00000004
++Invulnerability
+%Credits: Code Master
+$70622F40 00000008
++Unlimited Dark Jak
+%Credits: Code Master
+$70622F40 00000010
++Big Head Mode
+%Credits: Code Master
+$70622F42 00000001
++Small Head Mode
+%Credits: Code Master
+$70622F42 00000002
+!!

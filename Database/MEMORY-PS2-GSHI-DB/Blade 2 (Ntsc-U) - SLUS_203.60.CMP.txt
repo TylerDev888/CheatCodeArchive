@@ -1,0 +1,137 @@
+^3 = NAME: Blade 2 (Ntsc-U)
+^2 = GameID: SLUS-20360
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F012A514 0012A517
++(M) Must Be On
+%Credits: InterAct
+$F0100084 0012A517
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0012A517
++[M] Must Be On
+%Credits: MadCatz
+$902355F4 0C04A92E
+!!
++30,000 Points
+%Credits: InterAct
+$1075BD1C 00007530
++All Missions
+%Credits: InterAct
+$1048C562 00000101
++All Weapons
+%Credits: InterAct
+$1048C572 00000101
++Always Rage
+%Credits: InterAct
+$1048C532 00000101
++Blend Strafe Time Modifier (Default 3F99999a)
+%Credits: Code Master
+$2049DA58 ????????
+!Built-In Cheats:
++Infinite Ammo
+%Credits: MadCatz
+$0048C552 00000001
++Infinite Health
+%Credits: MadCatz
+$0048C522 00000001
++Invulnerability
+%Credits: MadCatz
+$0048C542 00000001
++Maximum Score
+%Credits: MadCatz
+$2075BD1C 3B9AC9FF
++Rage Always On
+%Credits: MadCatz
+$0048C532 00000001
++Unlock All Campaign Levels
+%Credits: MadCatz
+$0075BD6E 00000013
++Unlock Daywalker
+%Credits: MadCatz
+$0048C582 00000001
++Unlock Missions
+%Credits: MadCatz
+$0048C562 00000001
++Unlock Weapons
+%Credits: MadCatz
+$0048C572 00000001
+!!
++Burn Speed Modifier (Default 40000000)
+%Credits: Code Master
+$2049DA44 ????????
++Dangle Speed Modifier (Default 3E99999a)
+%Credits: Code Master
+$2049DA5C ????????
+!Enemies' Burn Speed:
++Enemies Burn Slowly
+%Credits: Codejunkies
+$2049DA44 3E000000
++Enemies Evaporate
+%Credits: Codejunkies
+$2049DA44 44000000
+!!
+!Enemies' Levitation:
++Enemies Hover
+%Credits: Codejunkies
+$2049DA88 43000000
++Hi Flyin' Enemies
+%Credits: Codejunkies
+$2049DA88 46000000
+!!
++Evaporate Enemies
+%Credits: InterAct
+$CDF3A453 44000000
++Flyback Speed Modifier (Default 44960000)
+%Credits: Code Master
+$2049DA88 ????????
++Fog Density Modifier (Default 348637Bd)
+%Credits: Code Master
+$2049DAD8 ????????
++Infinite Ammo
+%Credits: InterAct
+$1048C552 00000101
++Infinite Health
+%Credits: InterAct
+$1048C522 00000101
++Invulnerability
+%Credits: InterAct
+$1048C542 00000101
++Laser Width Modifier (Default 41000000)
+%Credits: Code Master
+$2049DAB0 ????????
++Max Score
+%Credits: Code Master
+$2075BD1C 05F5E0FF
++Player Roll Scale Modifier (Default Bca3d70a)
+%Credits: Code Master
+$2049DA50 ????????
++Quick Score Gain
+%Credits: Code Master
+$1075BD1C 0000FFFF
++Scale Speed Modifier (Default 3F333333)
+%Credits: Code Master
+$2049DA80 ????????
+!Shotgun Choke Size:
++Open
+%Credits: Codejunkies
+$2049DA74 3F500000
++Tight
+%Credits: Codejunkies
+$2049DA74 3D000000
+!!
++Shotgun Scale Modifier (Default 3E4ccccd)
+%Credits: Code Master
+$2049DA74 ????????
++Sidestep Speed Modifier (Default 41F00000)
+%Credits: Code Master
+$2049DA8C ????????
++Sidestep Time Modifier (Default 000001F4)
+%Credits: Code Master
+$2049DA6C ????????
++Unlock Daywalker
+%Credits: InterAct
+$1048C582 00000101
+!!
+

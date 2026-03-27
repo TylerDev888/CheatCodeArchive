@@ -1,0 +1,35 @@
+^2 = GameID: SLPM_662.78
+^3 = NAME: Shin Gouketuji Ichizoku Bonnou Kaihou
+!Masters:
++Enable Code(MUST BE ON)
+$9010DDD0 0C04371C
+!!
++Quick Score Gain (single)
+$104DE7EC 0000FFFF
++Pause Menus Options{Offscreen Pick Is Return To Game Type}
+$004D0D3C 000000004
++Character Select Mod{Single - Enables U To Play As Who U Set}
+$004D0AC4 000000[CM]
+^6 = MODS:
+[CM]
+VALUE>NAME
+00	UME
+01	KANJI
+02	CLARA
+03	REIJI
+04	KEATH\\
+05	ANNY
+06	CHINNEN
+07	ANGELA
+08	TANE
+09	SAIZO
+0A	WHITE
+0B	KINTARO
+0C	BUNTARO
+0D	SHINTARO
+0C	OLOF
+0F	HIKARU
+10	SISY -- Hidden
+11	BOBBY -- Hidden
+12	RANDOM
+[\CM]

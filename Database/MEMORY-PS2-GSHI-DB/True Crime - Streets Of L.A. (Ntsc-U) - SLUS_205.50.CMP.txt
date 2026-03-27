@@ -1,0 +1,1145 @@
+^3 = NAME: True Crime - Streets Of L.A. (Ntsc-U)
+^2 = GameID: SLUS-20550
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F038AE5C 0038AE5F
++[M] Must Be On
+%Credits: MadCatz
+$9038AE5C 0C0E12CC
++Code Breaker Version 1-4 Enable Code (Must Be On)
+%Credits: Code Master
+$F03867E0 0038AE5F
+$D0080234 0000003D
+$20080234 00000000
++Code Breaker Version 5 Enable Code (Must Be On)
+%Credits: Code Master
+$F03867E0 0038AE5F
+$D00802AC 0000003D
+$200802AC 00000000
++Code Breaker Version 6 & Higher Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0010B5B7
+$9038AE5C 0C0E12CC
+!!
+!Character Modifiers:
++Play As Asian Worker
+%Credits: Codejunkies
+$1075DA28 0000000B
++Play As Dirty Cook
+%Credits: Codejunkies
+$1075DA28 00000011
++Play As Dropdead Fred
+%Credits: Codejunkies
+$1075DA28 0000000F
++Play As George
+%Credits: Codejunkies
+$1075DA28 00000001
++Play As Heavyweight Champ
+%Credits: Codejunkies
+$1075DA28 00000008
++Play As Jackass Jay
+%Credits: Codejunkies
+$1075DA28 0000000D
++Play As Jimmy
+%Credits: Codejunkies
+$1075DA28 00000010
++Play As Naked Tattoo Lady
+%Credits: Codejunkies
+$1075DA28 00000013
++Play As Officer Johnson
+%Credits: Codejunkies
+$1075DA28 00000003
++Play As Ollie The Magic Bum
+%Credits: Codejunkies
+$1075DA28 00000007
++Play As Pink Chick
+%Credits: Codejunkies
+$1075DA28 00000006
++Play As Puma Punk
+%Credits: Codejunkies
+$1075DA28 0000000E
++Play As Rosie
+%Credits: Codejunkies
+$1075DA28 0000000C
++Play As S&M Rosie
+%Credits: Codejunkies
+$1075DA28 00000014
++Play As Sniper: Commando
+%Credits: Codejunkies
+$1075DA28 00000005
++Play As Soopafly
+%Credits: Codejunkies
+$1075DA28 00000012
++Play As Street Thug: Corn Rows
+%Credits: Codejunkies
+$1075DA28 00000009
++Play As Swat: Ball Cap
+%Credits: Codejunkies
+$1075DA28 00000004
++Play As The Chief
+%Credits: Codejunkies
+$1075DA28 00000002
++Play As Vato Loco
+%Credits: Codejunkies
+$1075DA28 0000000A
+!!
+!Combat Stat Codes:
++Max Attacks Connected
+%Credits: Codejunkies
+$2075D504 05F5E0FF
++Max Defeats
+%Credits: Codejunkies
+$2075D42C 05F5E0FF
++Max Grapples Performed
+%Credits: Codejunkies
+$2075D4FC 05F5E0FF
++Max Hits Blocked
+%Credits: Codejunkies
+$2075D514 05F5E0FF
++Max Hits Received
+%Credits: Codejunkies
+$2075D510 05F5E0FF
++Max Jump-Kicks/Combos
+%Credits: Codejunkies
+$2075D500 05F5E0FF
++Max Kicks Performed
+%Credits: Codejunkies
+$2075D4F8 05F5E0FF
++Max Punches Performed
+%Credits: Codejunkies
+$2075D4F4 05F5E0FF
++No Attacks Connected
+%Credits: Codejunkies
+$2075D504 00000000
++No Defeats
+%Credits: Codejunkies
+$2075D42C 00000000
++No Grapples Performed
+%Credits: Codejunkies
+$2075D4FC 00000000
++No Hits Blocked
+%Credits: Codejunkies
+$2075D514 00000000
++No Hits Received
+%Credits: Codejunkies
+$2075D510 00000000
++No Jump-Kicks/Combos
+%Credits: Codejunkies
+$2075D500 00000000
++No Kicks Performed
+%Credits: Codejunkies
+$2075D4F8 00000000
++No Punches Performed
+%Credits: Codejunkies
+$2075D4F4 00000000
+!!
+!Combat Stats Codes:
++Combat Log-Grapples Performed Modifier
+%Credits: Code Master
+$2075D4FC ????????
++Combat Log-Jump-Kicks Performed Modifier
+%Credits: Code Master
+$2075D500 ????????
++Combat Log-Kicks Performed Modifier
+%Credits: Code Master
+$2075D4F8 ????????
++Combat Log-Punches Performed Modifier
+%Credits: Code Master
+$2075D4F4 ????????
++Strategy-Attacks Connected Modifier
+%Credits: Code Master
+$2075D504 ????????
++Strategy-Hits Blocked Modifier
+%Credits: Code Master
+$2075D514 ????????
++Strategy-Hits Received Modifier
+%Credits: Code Master
+$2075D510 ????????
++Whup-Ass Rating-Defeats Modifier
+%Credits: Code Master
+$2075D42C ????????
+!!
+!Cop Stat Codes:
++Max Bad Deeds
+%Credits: Codejunkies
+$2075D428 05F5E0FF
++Max Citizens Guilty
+%Credits: Codejunkies
+$2075D43C 05F5E0FF
++Max Citizens Innocent
+%Credits: Codejunkies
+$2075D440 05F5E0FF
++Max Citizens Inspected
+%Credits: Codejunkies
+$2075D438 05F5E0FF
++Max Crime Alerts
+%Credits: Codejunkies
+$2075D464 05F5E0FF
++Max Crimes Pursued
+%Credits: Codejunkies
+$2075D46C 05F5E0FF
++Max Good Deeds
+%Credits: Codejunkies
+$2075D424 05F5E0FF
++Max Perps Apprehended
+%Credits: Codejunkies
+$2075D434 05F5E0FF
++Max Perps Engaged
+%Credits: Codejunkies
+$2075D430 05F5E0FF
++Max Points Charged
+%Credits: Codejunkies
+$2075D41C 05F5E0FF
++Max Points Earned
+%Credits: Codejunkies
+$2075D418 05F5E0FF
++Max Total Points
+%Credits: Codejunkies
+$2075D414 05F5E0FF
++No Bad Deeds
+%Credits: Codejunkies
+$2075D428 00000000
++No Citizens Guilty
+%Credits: Codejunkies
+$2075D43C 00000000
++No Citizens Innocent
+%Credits: Codejunkies
+$2075D440 00000000
++No Citizens Inspected
+%Credits: Codejunkies
+$2075D438 00000000
++No Crime Alerts
+%Credits: Codejunkies
+$2075D464 00000000
++No Crimes Pursued
+%Credits: Codejunkies
+$2075D46C 00000000
++No Good Deeds
+%Credits: Codejunkies
+$2075D424 00000000
++No Perps Engaged
+%Credits: Codejunkies
+$2075D430 00000000
++No Points Charged
+%Credits: Codejunkies
+$2075D41C 00000000
++No Points Earned
+%Credits: Codejunkies
+$2075D418 00000000
++No Total Points
+%Credits: Codejunkies
+$2075D414 00000000
+!!
+!Cop Stats Codes:
++Cop Instinct-Citizens Guilty Modifier
+%Credits: Code Master
+$2075D43C ????????
++Cop Instinct-Citizens Innocent Modifier
+%Credits: Code Master
+$2075D440 ????????
++Cop Instinct-Citizens Inspected Modifier
+%Credits: Code Master
+$2075D438 ????????
++Good/Bad Cop-Bad Deeds Modifier
+%Credits: Code Master
+$2075D428 ????????
++Good/Bad Cop-Good Deeds Modifier
+%Credits: Code Master
+$2075D424 ????????
++Initiative-Crime Alerts Modifier
+%Credits: Code Master
+$2075D464 ????????
++Initiative-Crimes Pursued Modifier
+%Credits: Code Master
+$2075D46C ????????
++Reward Points-24-7 Visits Modifier
+%Credits: Code Master
+$2075D460 ????????
++Reward Points-Points Charged Modifier
+%Credits: Code Master
+$2075D41C ????????
++Reward Points-Points Earned Modifier
+%Credits: Code Master
+$2075D418 ????????
++Reward Points-Total Points Modifier
+%Credits: Code Master
+$2075D414 ????????
++Success Rate-Perps Apprehended Modifier
+%Credits: Code Master
+$2075D434 ????????
++Success Rate-Perps Engaged Modifier
+%Credits: Code Master
+$2075D430 ????????
+!!
+!Driving Stat Codes:
++Low Driving Time/Speed
+%Credits: Codejunkies
+$2075D53C 00000000
++Low Miles Driven
+%Credits: Codejunkies
+$2075D540 00000000
++Max Citizens Run Over
+%Credits: Codejunkies
+$2075D550 05F5E0FF
++Max Driving Time/Speed
+%Credits: Codejunkies
+$2075D53C F0000000
++Max Maneuvers Performed
+%Credits: Codejunkies
+$2075D554 05F5E0FF
++Max Miles Driven
+%Credits: Codejunkies
+$2075D540 51000006
++Max Vehicles Totaled
+%Credits: Codejunkies
+$2075D528 05F5E0FF
++No Citizens Run Over
+%Credits: Codejunkies
+$2075D550 00000000
++No Maneuvers Performed
+%Credits: Codejunkies
+$2075D554 00000000
++No Vehicles Totaled
+%Credits: Codejunkies
+$2075D528 00000000
+!!
+!Driving Stats Codes:
++Driving Log-Miles Driven Modifier (3F800000-58000000)
+%Credits: Code Master
+$2075D540 ????????
++Driving Log-Total Driving Time Modifier
+%Credits: Code Master
+$2075D53C ????????
++Master Driver-Maneuvers Performed Modifier
+%Credits: Code Master
+$2075D554 ????????
++Recklessness-Citizens Run Over Modifier
+%Credits: Code Master
+$2075D550 ????????
++Recklessness-Vehicles Totaled Modifier
+%Credits: Code Master
+$2075D528 ????????
+!!
+!Gunplay Stat Coddes:
++Max Bullets Fired
+%Credits: Codejunkies
+$2075D4B0 05F5E0FF
++Max Bullets Hit
+%Credits: Codejunkies
+$2075D4B8 05F5E0FF
++Max Citizens Shot
+%Credits: Codejunkies
+$2075D448 05F5E0FF
++Max Gas Tank Shots
+%Credits: Codejunkies
+$2075D4E0 05F5E0FF
++Max Head Shots
+%Credits: Codejunkies
+$2075D4C8 05F5E0FF
++Max Limb Hits
+%Credits: Codejunkies
+$2075D4CC 05F5E0FF
++Max Perps Shot
+%Credits: Codejunkies
+$2075D444 05F5E0FF
++Max Precision Shots
+%Credits: Codejunkies
+$2075D4C4 05F5E0FF
++Max Tire Hits
+%Credits: Codejunkies
+$2075D4DC 05F5E0FF
++No Bullets Fired
+%Credits: Codejunkies
+$2075D4B0 00000000
++No Bullets Hit
+%Credits: Codejunkies
+$2075D4B8 00000000
++No Citizens Shot
+%Credits: Codejunkies
+$2075D448 00000000
++No Gas Tank Shots
+%Credits: Codejunkies
+$2075D4E0 00000000
++No Head Shots
+%Credits: Codejunkies
+$2075D4C8 00000000
++No Limb Hits
+%Credits: Codejunkies
+$2075D4CC 00000000
++No Perps Shot
+%Credits: Codejunkies
+$2075D444 00000000
++No Precision Shots
+%Credits: Codejunkies
+$2075D4C4 00000000
++No Tire Hits
+%Credits: Codejunkies
+$2075D4DC 00000000
+!!
+!Gunplay Stats Codes:
++Accuracy-Bullets Fired Modifier
+%Credits: Code Master
+$2075D4B0 ????????
++Accuracy-Bullets Hit Modifier
+%Credits: Code Master
+$2075D4B8 ????????
++Loose Cannon-Citizens Shot Modifier
+%Credits: Code Master
+$2075D448 ????????
++Loose Cannon-Perps Shot Modifier
+%Credits: Code Master
+$2075D444 ????????
++Precision Shots-Gas Tank Hits Modifier
+%Credits: Code Master
+$2075D4E0 ????????
++Precision Shots-Head Hits Modifier
+%Credits: Code Master
+$2075D4C8 ????????
++Precision Shots-Limb Hits Modifier
+%Credits: Code Master
+$2075D4CC ????????
++Precision Shots-Precision Shots Fired Modifier
+%Credits: Code Master
+$2075D4C4 ????????
++Precision Shots-Tire Hits Modifier
+%Credits: Code Master
+$2075D4DC ????????
+!!
+!Have Mission Solved Codes:
++Blood Money-All Missions
+%Credits: Code Master
+$2075D5B8 00000003
+$4075D828 00080001
+$00000002 00000000
++Blood Money-Chinatown Showdown
+%Credits: Code Master
+$2075D83C 00000002
++Blood Money-Ending Movie
+%Credits: Code Master
+$2075D844 00000002
++Blood Money-Escaping Masterson
+%Credits: Code Master
+$2075D838 00000002
++Blood Money-Finale-Last Stand
+%Credits: Code Master
+$2075D840 00000002
++Blood Money-Freak Show
+%Credits: Code Master
+$2075D830 00000002
++Blood Money-Kinks In The Path
+%Credits: Code Master
+$2075D82C 00000002
++Blood Money-Overall
+%Credits: Code Master
+$2075D5B8 00000003
++Blood Money-Race To Rocky's Lair
+%Credits: Code Master
+$2075D828 00000002
++Blood Money-Rosie's Ransom
+%Credits: Code Master
+$2075D834 00000002
++Con Girls-All Missions
+%Credits: Code Master
+$2075D5A0 00000003
+$4075D780 00090001
+$00000002 00000000
++Con Girls-Busting Lola
+%Credits: Code Master
+$2075D794 00000002
++Con Girls-Cat Fight
+%Credits: Code Master
+$2075D784 00000002
++Con Girls-Cruising For Lola
+%Credits: Code Master
+$2075D788 00000002
++Con Girls-Finale-Sniper Redux
+%Credits: Code Master
+$2075D798 00000002
++Con Girls-Five Laps
+%Credits: Code Master
+$2075D7A0 00000002
++Con Girls-Lola Rush
+%Credits: Code Master
+$2075D79C 00000002
++Con Girls-Overall
+%Credits: Code Master
+$2075D5A0 00000003
++Con Girls-Police Getaway
+%Credits: Code Master
+$2075D790 00000002
++Con Girls-Strip Club Detour
+%Credits: Code Master
+$2075D780 00000002
++Con Girls-The Driving Test
+%Credits: Code Master
+$2075D78C 00000002
++Finding Rocky-All Missions
+%Credits: Code Master
+$2075D590 00000003
+$4075D710 00090001
+$00000002 00000000
++Finding Rocky-Bonus Cruisin'
+%Credits: Code Master
+$2075D730 00000002
++Finding Rocky-Eavesdropping
+%Credits: Code Master
+$2075D724 00000002
++Finding Rocky-Escaping The Feds
+%Credits: Code Master
+$2075D71C 00000002
++Finding Rocky-Fbi Goons
+%Credits: Code Master
+$2075D72C 00000002
++Finding Rocky-Finale-Father's Killer
+%Credits: Code Master
+$2075D728 00000002
++Finding Rocky-In The Driver's Seat
+%Credits: Code Master
+$2075D710 00000002
++Finding Rocky-On Rafferty's Tail
+%Credits: Code Master
+$2075D718 00000002
++Finding Rocky-Overall
+%Credits: Code Master
+$2075D590 00000003
++Finding Rocky-Pressing Rafferty
+%Credits: Code Master
+$2075D714 00000002
++Finding Rocky-Rafferty's Date
+%Credits: Code Master
+$2075D720 00000002
++High-Rise Terror-A Race Downtown
+%Credits: Code Master
+$2075D7C0 00000002
++High-Rise Terror-All Missions
+%Credits: Code Master
+$2075D5A8 00000003
+$4075D7B8 00090001
+$00000002 00000000
++High-Rise Terror-Bank Standoff
+%Credits: Code Master
+$2075D7C4 00000002
++High-Rise Terror-Chasing Assassins
+%Credits: Code Master
+$2075D7BC 00000002
++High-Rise Terror-Ending Movie
+%Credits: Code Master
+$2075D7D8 00000002
++High-Rise Terror-Finale-Bad Politics
+%Credits: Code Master
+$2075D7D0 00000002
++High-Rise Terror-Going Up
+%Credits: Code Master
+$2075D7D4 00000002
++High-Rise Terror-Hostage Crisis
+%Credits: Code Master
+$2075D7CC 00000002
++High-Rise Terror-Lobby Firefight
+%Credits: Code Master
+$2075D7C8 00000002
++High-Rise Terror-Overall
+%Credits: Code Master
+$2075D5A8 00000003
++High-Rise Terror-The Airport Lead
+%Credits: Code Master
+$2075D7B8 00000002
++House Of Wu-All Missions
+%Credits: Code Master
+$2075D588 00000003
+$4075D6D8 00080001
+$00000002 00000000
++House Of Wu-Die Die My Concubine
+%Credits: Code Master
+$2075D6EC 00000002
++House Of Wu-Finale-Nightmare
+%Credits: Code Master
+$2075D6F0 00000002
++House Of Wu-Inner Demons
+%Credits: Code Master
+$2075D6E8 00000002
++House Of Wu-Kitchen Inspection
+%Credits: Code Master
+$2075D6E0 00000002
++House Of Wu-Off To Wu's Place
+%Credits: Code Master
+$2075D6D8 00000002
++House Of Wu-Overall
+%Credits: Code Master
+$2075D588 00000003
++House Of Wu-Seeking Ancient Wu
+%Credits: Code Master
+$2075D6E4 00000002
++House Of Wu-Tunnel Vision
+%Credits: Code Master
+$2075D6F4 00000002
++House Of Wu-Up The Food Chain
+%Credits: Code Master
+$2075D6DC 00000002
++International Ties-A Stakeout Gone Bad
+%Credits: Code Master
+$2075D638 00000002
++International Ties-All Missions
+%Credits: Code Master
+$2075D570 00000003
+$4075D630 00080001
+$00000002 00000001
++International Ties-Driving To Spa
+%Credits: Code Master
+$2075D63C 00000002
++International Ties-Finale-The Accomplice
+%Credits: Code Master
+$2075D648 00000002
++International Ties-Off To Chong's
+%Credits: Code Master
+$2075D630 00000002
++International Ties-Overall
+%Credits: Code Master
+$2075D570 00000003
++International Ties-Russkie Trouble
+%Credits: Code Master
+$2075D64C 00000002
++International Ties-Shower Room Antics
+%Credits: Code Master
+$2075D644 00000002
++International Ties-Spa Infiltration
+%Credits: Code Master
+$2075D640 00000002
++International Ties-Tailing Chong's Limo
+%Credits: Code Master
+$2075D634 00000002
++Mean Streets-All Missions
+%Credits: Code Master
+$2075D568 00000003
+$4075D5F8 000B0001
+$00000002 00000000
++Mean Streets-Bar Brawl
+%Credits: Code Master
+$2075D604 00000002
++Mean Streets-Bonus Cruisin'
+%Credits: Code Master
+$2075D620 00000002
++Mean Streets-Chasing Triad Thug
+%Credits: Code Master
+$2075D608 00000002
++Mean Streets-Cruising For Leads
+%Credits: Code Master
+$2075D5F8 00000002
++Mean Streets-Dojo Attacker
+%Credits: Code Master
+$2075D5FC 00000002
++Mean Streets-Driving To Jimmy's
+%Credits: Code Master
+$2075D60C 00000002
++Mean Streets-Finale-Sniper Assassin
+%Credits: Code Master
+$2075D618 00000002
++Mean Streets-Jimmy's Ambush
+%Credits: Code Master
+$2075D614 00000002
++Mean Streets-Overall
+%Credits: Code Master
+$2075D568 00000003
++Mean Streets-Red Lantern Rush
+%Credits: Code Master
+$2075D600 00000002
++Mean Streets-Sneaking In
+%Credits: Code Master
+$2075D610 00000002
++Mean Streets-The Arsonist
+%Credits: Code Master
+$2075D61C 00000002
++Rampage-All Missions
+%Credits: Code Master
+$2075D5B0 00000003
+$4075D7F0 00080001
+$00000002 00000000
++Rampage-Finale-Rocky's Loot
+%Credits: Code Master
+$2075D808 00000002
++Rampage-Gulag Goons
+%Credits: Code Master
+$2075D80C 00000002
++Rampage-Off To The Airport
+%Credits: Code Master
+$2075D804 00000002
++Rampage-Overall
+%Credits: Code Master
+$2075D5B0 00000003
++Rampage-Payback
+%Credits: Code Master
+$2075D800 00000002
++Rampage-Revenge Rush
+%Credits: Code Master
+$2075D7F0 00000002
++Rampage-Rocky's Getaway
+%Credits: Code Master
+$2075D7F4 00000002
++Rampage-The Bodyguard
+%Credits: Code Master
+$2075D7F8 00000002
++Rampage-Wu's Turn
+%Credits: Code Master
+$2075D7FC 00000002
++Retribution-All Missions
+%Credits: Code Master
+$2075D598 00000003
+$4075D748 00090001
+$00000002 00000000
++Retribution-Back To The Gulag
+%Credits: Code Master
+$2075D74C 00000002
++Retribution-Chopper Ambush
+%Credits: Code Master
+$2075D764 00000002
++Retribution-Driving To Airport
+%Credits: Code Master
+$2075D754 00000002
++Retribution-Ending Movie
+%Credits: Code Master
+$2075D768 00000002
++Retribution-Finale-Puppet Master
+%Credits: Code Master
+$2075D760 00000002
++Retribution-Hangar Showdown
+%Credits: Code Master
+$2075D758 00000002
++Retribution-Jetting Away
+%Credits: Code Master
+$2075D75C 00000002
++Retribution-Overall
+%Credits: Code Master
+$2075D598 00000003
++Retribution-Rocky's Trap
+%Credits: Code Master
+$2075D750 00000002
++Retribution-The Girlfriend Angle
+%Credits: Code Master
+$2075D748 00000002
++Russian Face-Off-All Missions
+%Credits: Code Master
+$2075D578 00000003
+$4075D668 00090001
+$00000002 00000000
++Russian Face-Off-Alley Brawl
+%Credits: Code Master
+$2075D688 00000002
++Russian Face-Off-Another Way In
+%Credits: Code Master
+$2075D678 00000002
++Russian Face-Off-Cary In Trouble
+%Credits: Code Master
+$2075D680 00000002
++Russian Face-Off-Chasing Francis
+%Credits: Code Master
+$2075D670 00000002
++Russian Face-Off-Disco Inferno
+%Credits: Code Master
+$2075D67C 00000002
++Russian Face-Off-En Route To Autoshop
+%Credits: Code Master
+$2075D668 00000002
++Russian Face-Off-Finale-Vandal Wrath
+%Credits: Code Master
+$2075D684 00000002
++Russian Face-Off-Grease Monkeys
+%Credits: Code Master
+$2075D66C 00000002
++Russian Face-Off-Off To The Gulag
+%Credits: Code Master
+$2075D674 00000002
++Russian Face-Off-Overall
+%Credits: Code Master
+$2075D578 00000003
++The Rescue-All Missions
+%Credits: Code Master
+$2075D580 00000003
+$4075D6A0 00080001
+$00000002 00000000
++The Rescue-Bum Encounter
+%Credits: Code Master
+$2075D6A4 00000002
++The Rescue-Butcher Shop Rush
+%Credits: Code Master
+$2075D6AC 00000002
++The Rescue-Finale-The Great Escape
+%Credits: Code Master
+$2075D6B8 00000002
++The Rescue-Meeting Rafferty
+%Credits: Code Master
+$2075D6A8 00000002
++The Rescue-On The Chopping Block
+%Credits: Code Master
+$2075D6B0 00000002
++The Rescue-Overall
+%Credits: Code Master
+$2075D580 00000003
++The Rescue-Slaughterhouse
+%Credits: Code Master
+$2075D6B4 00000002
++The Rescue-Tailing Suspect Cop
+%Credits: Code Master
+$2075D6A0 00000002
++The Rescue-The Peking Duck
+%Credits: Code Master
+$2075D6BC 00000002
++Triad Violence-All Missions
+%Credits: Code Master
+$2075D560 00000003
+$4075D5C4 00050001
+$00000002 00000000
++Triad Violence-Driving For Chow
+%Credits: Code Master
+$2075D5CC 00000002
++Triad Violence-Finale-Rosie Trouble
+%Credits: Code Master
+$2075D5D4 00000002
++Triad Violence-Overall
+%Credits: Code Master
+$2075D560 00000003
++Triad Violence-Rushing To Eod
+%Credits: Code Master
+$2075D5C8 00000002
++Triad Violence-Shooting Practice
+%Credits: Code Master
+$2075D5C4 00000002
++Triad Violence-Triad Muscle
+%Credits: Code Master
+$2075D5D0 00000002
+!!
++All Cars In Impound Lot
+%Credits: Codejunkies
+$0075D524 00000003
++All Combat Moves
+%Credits: Codejunkies
+$1075D4E4 0000FFFF
++All Driving Upgrades
+%Credits: Codejunkies
+$1075D51C 0000FFFF
++All Guns & Gun Upgrades
+%Credits: Codejunkies
+$1075D488 0000FFFF
++Change Player Character Model Asian Guy
+%Credits: MadCatz
+$2075DA28 0000000B
++Change Player Character Model Bondage Girl
+%Credits: MadCatz
+$2075DA28 00000014
++Change Player Character Model Boxer
+%Credits: MadCatz
+$2075DA28 00000008
++Change Player Character Model Commando (Cop)
+%Credits: MadCatz
+$2075DA28 00000005
++Change Player Character Model Cook
+%Credits: MadCatz
+$2075DA28 00000011
++Change Player Character Model Donkey
+%Credits: MadCatz
+$2075DA28 0000000D
++Change Player Character Model George (Cop)
+%Credits: MadCatz
+$2075DA28 00000001
++Change Player Character Model Glowing Tattoo Woman
+%Credits: MadCatz
+$2075DA28 00000013
++Change Player Character Model Johnson (Cop)
+%Credits: MadCatz
+$2075DA28 00000003
++Change Player Character Model Pimp
+%Credits: MadCatz
+$2075DA28 00000012
++Change Player Character Model Puma Punk
+%Credits: MadCatz
+$2075DA28 0000000E
++Change Player Character Model Rich Asian
+%Credits: MadCatz
+$2075DA28 00000010
++Change Player Character Model Rosie
+%Credits: MadCatz
+$2075DA28 0000000C
++Change Player Character Model S.W.A.T. (Cop)
+%Credits: MadCatz
+$2075DA28 00000004
++Change Player Character Model Street Bum
+%Credits: MadCatz
+$2075DA28 00000007
++Change Player Character Model Tattooed Punk
+%Credits: MadCatz
+$2075DA28 0000000A
++Change Player Character Model The Chief (Cop)
+%Credits: MadCatz
+$2075DA28 00000002
++Change Player Character Model Topless Dancing Girl
+%Credits: MadCatz
+$2075DA28 00000006
++Change Player Character Model True Crime Punk
+%Credits: MadCatz
+$2075DA28 00000009
++Change Player Character Model Zombie
+%Credits: MadCatz
+$2075DA28 0000000F
++Character Modifier (00-14) {<I>00 - Normal Costume 01 - Officer Johnson 02 - Police Chief 03 - Police Officer 04 - SWAT Guy 05 - Commando 06 - Lola 07 - Bum 08 - Boxer 09 - Gangster 0A - Biker Guy 0B - Nick&#39;S Brother 0C - Your Partner 0D - Blindfolded Donkey 0E - Bald Guy In Tanktop 0F - Vampire/Corpse 10 - Chinese Guy 11 - Chef 12 - Pimp 13 - Glowing Chinese Lady With Tattoo&#39;S 14 - Your Partner In Lingerie</I>}
+%Credits: Code Master
+$2075DA28 000000??
++Combat Stats: Unlock All Grapples & Attacks
+%Credits: MadCatz
+$2075D4E4 00007FFF
++Display Position Info
+%Credits: Code Master
+$20479788 00000001
++Driving Stats: All Cars Unlocked
+%Credits: MadCatz
+$2075D524 00000003
++Driving Stats: All Maneuvers Unlocked
+%Credits: MadCatz
+$2075D51C 0000FFFF
++Enemy Damage Multiplier: X 10
+%Credits: MadCatz
+$200C201C 3C014120
+$200C2020 4481F800
+$200C2024 461F0842
+$200C2028 46010501
+$200C202C 080A482F
+$200C2030 46020032
+$202920B8 08030807
++Enemy Damage Multiplier: X 2
+%Credits: MadCatz
+$200C201C 3C014000
+$200C2020 4481F800
+$200C2024 461F0842
+$200C2028 46010501
+$200C202C 080A482F
+$200C2030 46020032
+$202920B8 08030807
++Enemy Damage Multiplier: X 3
+%Credits: MadCatz
+$200C201C 3C014040
+$200C2020 4481F800
+$200C2024 461F0842
+$200C2028 46010501
+$200C202C 080A482F
+$200C2030 46020032
+$202920B8 08030807
++Enemy Damage Multiplier: X 4
+%Credits: MadCatz
+$200C201C 3C014080
+$200C2020 4481F800
+$200C2024 461F0842
+$200C2028 46010501
+$200C202C 080A482F
+$200C2030 46020032
+$202920B8 08030807
++Enemy Damage Multiplier: X 5
+%Credits: MadCatz
+$200C201C 3C0140A0
+$200C2020 4481F800
+$200C2024 461F0842
+$200C2028 46010501
+$200C202C 080A482F
+$200C2030 46020032
+$202920B8 08030807
++Episode Unlocks: Episode 1 Triad Violence
+%Credits: MadCatz
+$2075D560 00000003
+$4075D5C4 00060001
+$00000002 00000000
++Episode Unlocks: Episode 3 International Ties
+%Credits: MadCatz
+$2075D570 00000003
+$4075D630 00090001
+$00000002 00000000
++Episode Unlocks: Episode 4 Russian Face-Off
+%Credits: MadCatz
+$2075D578 00000003
+$4075D668 000A0001
+$00000002 00000000
++Episode Unlocks: Episode 4B Con Girls
+%Credits: MadCatz
+$2075D5A0 00000003
+$4075D780 000A0001
+$00000002 00000000
++Episode Unlocks: Episode 5 The Rescue
+%Credits: MadCatz
+$2075D580 00000003
+$4075D6A0 00090001
+$00000002 00000000
++Episode Unlocks: Episode 6 House Of Wu
+%Credits: MadCatz
+$2075D588 00000003
+$4075D6D8 00090001
+$00000002 00000000
++Episode Unlocks: Episode 6B Rampage
+%Credits: MadCatz
+$2075D5B0 00000003
+$4075D7F0 00090001
+$00000002 00000000
++Gunplay Stats: All Guns & Upgrades Unlocked
+%Credits: MadCatz
+$1075D488 000071FF
++Have All Attacks & Grapples Unlocked
+%Credits: Code Master
+$2075D4E4 FFFFFFFF
++Have All Guns & Upgrades Unlocked
+%Credits: Code Master
+$2075D488 FFFFFFFF
++Have All Maneuvers Unlocked
+%Credits: Code Master
+$2075D51C FFFFFFFF
++Infinite Ammo
+%Credits: MadCatz
+$2023AC3C 3C013634
++Infinite Health
+%Credits: MadCatz
+$20228C1C E4CC01D0
++Infinite Health
+%Credits: Code Master
+$20228C18 ACC101D0
++Infinite Time On Timed Missions
+%Credits: MadCatz
+$201FC0B4 3C013634
++L1+Select For More Time
+%Credits: Code Master
+$D0497102 0000FBFE
+$2075D260 00033DB0
++L2+Select For No Time
+%Credits: Code Master
+$D0497102 0000FEFE
+$2075D260 00000000
++L3 = More Mission Time
+%Credits: Codejunkies
+$D0497222 0000FFFD
+$2075D260 000AF4DC
+$D0497222 0000FFFD
+$2075D268 000AF4DC
++Limit Max Health To: 10%
+%Credits: MadCatz
+$200C2000 3C014120
+$200C2004 4481F800
+$200C2008 461F6329
+$200C200C 3C0142C8
+$200C2010 E4CC01D0
+$200C2014 0808A305
+$200C2018 44816000
+$20228C0C 08030800
+$20228C10 C4CC01D0
++Limit Max Health To: 20%
+%Credits: MadCatz
+$200C2000 3C0142B4
+$200C2004 4481F800
+$200C2008 461F6329
+$200C200C 3C0142C8
+$200C2010 E4CC01D0
+$200C2014 0808A305
+$200C2018 44816000
+$20228C0C 08030800
+$20228C10 C4CC01D0
++Limit Max Health To: 30%
+%Credits: MadCatz
+$200C2000 3C0141F0
+$200C2004 4481F800
+$200C2008 461F6329
+$200C200C 3C0142C8
+$200C2010 E4CC01D0
+$200C2014 0808A305
+$200C2018 44816000
+$20228C0C 08030800
+$20228C10 C4CC01D0
++Limit Max Health To: 40%
+%Credits: MadCatz
+$200C2000 3C014220
+$200C2004 4481F800
+$200C2008 461F6329
+$200C200C 3C0142C8
+$200C2010 E4CC01D0
+$200C2014 0808A305
+$200C2018 44816000
+$20228C0C 08030800
+$20228C10 C4CC01D0
++Limit Max Health To: 50%
+%Credits: MadCatz
+$200C2000 3C014248
+$200C2004 4481F800
+$200C2008 461F6329
+$200C200C 3C0142C8
+$200C2010 E4CC01D0
+$200C2014 0808A305
+$200C2018 44816000
+$20228C0C 08030800
+$20228C10 C4CC01D0
++Limit Max Health To: 60%
+%Credits: MadCatz
+$200C2000 3C014270
+$200C2004 4481F800
+$200C2008 461F6329
+$200C200C 3C0142C8
+$200C2010 E4CC01D0
+$200C2014 0808A305
+$200C2018 44816000
+$20228C0C 08030800
+$20228C10 C4CC01D0
++Limit Max Health To: 80%
+%Credits: MadCatz
+$200C2000 3C0142A0
+$200C2004 4481F800
+$200C2008 461F6329
+$200C200C 3C0142C8
+$200C2010 E4CC01D0
+$200C2014 0808A305
+$200C2018 44816000
+$20228C0C 08030800
+$20228C10 C4CC01D0
++Max Bad Deeds
+%Credits: MadCatz
+$2075D428 3B9AC9FF
++Max Badges
+%Credits: Code Master
+$2049F484 000003E7
++Max Badges
+%Credits: Codejunkies
+$1049F484 0000270F
++Max Good Deeds
+%Credits: MadCatz
+$2075D424 3B9AC9FF
++Max Yin Yang
+%Credits: Code Master
+$2049F488 00000063
++Never Reload
+%Credits: Code Master
+$2023AC48 00000000
+$2023B274 00000000
++One Hit Kill (Shooting)
+%Credits: MadCatz
+$2012C420 10000061
+$20131E94 AE0001D0
++Population Modifier {<I>It Turns Every Character You Come Across In The Game To Whoever You Want Them To Be.<Br>40 - NICK<Br>41 - Nickgym<Br>42 - Nickspf<Br>43 - Oldwu<Br>44 - Asiabgrl<Br>45 - Asiacook<Br>46 - Acookund<Br>47 - Asianmbs<Br>48 - Asianmom<Br>49 - Amomwhte<Br>4A - Asianpop<Br>4B - Apopcoac<Br>4C - Apopold<Br>4D - Asiapunk<Br>4E - Asianthg<Br>4F - Asianwkr<Br>50 - Awrkrund<Br>51 - Bcbanker<Br>52 - Bather<Br>53 - Bchvendr<Br>54 - Bigchong<Br>55 - Biker<Br>56 - Biknigrl<Br>57 - Bikiblck<Br>58 - Boxer<Br>59 - Boxbeach<Br>5A - Bumblack<Br>5B - BUM<Br>5C - Bsnsman<Br>5D - Bsnmnblk<Br>5E - Bsnmnfed<Br>5F - CARY<Br>60 - Chief<Br>61 - Chbbycop<Br>62 - Chcphndy<Br>63 - Commando<Br>64 - Cncubine<Br>65 - Convict<Br>66 - Demon<Br>67 - Dmnatrix<Br>68 - Dragon<Br>69 - Fireman<Br>6A - Gangsta<Br>6B - Gangalt<Br>6C - Gardener<Br>6D - Garddlvr<Br>6E - General<Br>6F - Girlfrnd<Br>70 - Grlfhook<Br>71 - Grandpa<Br>72 - Grapablk<Br>73 - Hipster<Br>74 - Hipbeach<Br>75 - Hooker<Br>76 - Hooklatn<Br>77 - Jimmyfu<Br>78 - Karateka<Br>79 - LOLA<Br>7A - Lolabike<Br>7B - Mrktnggy<Br>7C - Mkgyhisp<Br>7D - Mastrson<Br>7E - Mechanic<Br>7F - Mechhisp<Br>80 - Mexican<Br>81 - Misha<Br>82 - Mishaspa<Br>83 - Mshaperv<Br>84 - Mutant<Br>85 - Paramedc<Br>86 - PIMP<Br>87 - Pmpbmwmn<Br>88 - Policemn<Br>89 - Plcmnhis<Br>8A - Plcmnpst<Br>8B - Ponytlmn<Br>8C - Rafferty<Br>8D - Rocker<Br>8E - Rocky<Br>8F - Rockyspa<Br>90 - Rosiecst<Br>91 - Rosie<Br>92 - Strtfgtr<Br>93 - Sfcaltrn<Br>94 - Stretpnk<Br>95 - Stpnkblk<Br>96 - Stripper<Br>97 - Strprgyp<Br>98 - Supermdl<Br>99 - SWAT<Br>9A - Swatmlta<Br>9B - Toughguy<Br>9C - Tguyblck<Br>9D - Upsclwmn<Br>9E - Usclhisp<Br>9F - Wrestler<Br>A0 - Karamast<Br>A1 - Boxrchmp<Br>A2 - Boxerglv<Br>A3 - Snoop<Br>A4 - Girlfrnh<Br>A5 - Asiapnkh<Br>A6 - Nickh<Br>A7 - Nickspfh<Br>A8 - Rosiebdg</I>}
+%Credits: Code Master>ModsteR
+$201F7ED8 240400??
++Press R3 For No Mission Time
+%Credits: Codejunkies
+$D0497222 0000FFFB
+$2075D260 00000000
+$D0497222 0000FFFB
+$2075D268 00000000
++Quick Badge Gain
+%Credits: Code Master
+$2049F480 00000063
++Quick Badge Increase
+%Credits: Codejunkies
+$1049F480 00000063
++R1+Select To Stop Timer
+%Credits: Code Master
+$D0497102 0000F7FE
+$201FC0C4 00000000
++R2+Select To Start Timer
+%Credits: Code Master
+$D0497102 0000FDFE
+$201FC0C4 AC8201D0
++Show Coordinates
+%Credits: Codejunkies
+$00479788 00000001
++Show Coordinates Off
+%Credits: Codejunkies
+$00479788 00000000
+!!
+

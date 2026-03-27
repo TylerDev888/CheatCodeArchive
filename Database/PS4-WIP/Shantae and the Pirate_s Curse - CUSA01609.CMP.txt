@@ -1,0 +1,15 @@
+^2 = GameID: CUSA01609,CUSA03199
+^3 = NAME: Shantae and the Pirate's Curse
+^5 = APCRED: checksum by Zhaxxy
+(magic value PC saves (Steam): 0x20D4ACC1)
+^4 = FILE: *
++Decompress Save (required)
+\\Decompress(*, -15)
++Compress Save (required)
+\\Compress(*)
++Update Jhash (required)
+$set range:0x0004,EOF+1
+$set [csum]:jhash
+$set [csum]:[csum]+0x4900DC7C
+$set [csum]:endian_swap
+$write at 0x0000:[csum]

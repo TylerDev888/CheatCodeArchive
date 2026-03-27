@@ -1,0 +1,68 @@
+^3 = NAME: Gradius V (Ntsc-U)
+^2 = GameID: SLUS-20712
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F010EAF4 0010EAF7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0010EAF7
+!!
++Hit Anywhere For Regular Enemies {<I>Hold L1 And Press X</I>}
+%Credits: nolberto82
+$200A0000 3C02204A
+$200A0004 94420690
+$200A0008 30430400
+$200A000C 10600005
+$200A0014 30434000
+$200A0018 10600002
+$200A001C 8E62005C
+$200A0020 E4400010
+$200A0024 080AA928
+$200A0028 8E62005C
+$202AA498 08028000
+!MISC:
++Extra Credits
+%Credits: Code Master
+$102885B0 00000001
++Extra Lives (Both Players)
+%Credits: Code Master
+$10287C34 00000001
++Hella Quick Score Gain
+%Credits: Code Master
+$20287A6C 24637FFF
++Infinite Credits
+%Credits: Code Master
+$202885BC 00000000
++Infinite Lives (Both Players)
+%Credits: Code Master
+$20287C3C 00000000
++Invincible (Both Players)
+%Credits: Code Master
+$91B378C7 361D098C
++Kill 1 Enemy For Max Score (Both Players)
+%Credits: Code Master
+$20287A68 3C0305F5
+$20287A6C 3463E0FF
++Max Infinite Credits
+%Credits: Code Master
+$202885B0 24030063
++Max Infinite Lives (Die Once For Max)
+%Credits: Code Master
+$20287C34 24030063
++Quick Score Gain
+%Credits: Code Master
+$20287A6C 246303E7
++Super Quick Score Gain
+%Credits: Code Master
+$20287A6C 2463270F
++Unlock All Stage Select Levels
+%Credits: Code Master
+$103C2938 0000FFFF
+$003C293A 000000FF
+!!
++Ships-Regular Mode
+%Credits: Codejunkies
+$004A0B21 00000063
+!!
+

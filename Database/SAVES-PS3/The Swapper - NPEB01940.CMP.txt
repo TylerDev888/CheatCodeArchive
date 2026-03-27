@@ -1,0 +1,13 @@
+^2 = GameID: NPEB01940
+^3 = NAME: The Swapper
+^5 = APCRED: from aldotools
+^4 = FILE: DATA_0.BIN
++Update Crc32big:0 For Data_0.bin (required)
+(set range:0x000000,0x00002F)
+$set pointer:eof-3
+$set range:0x000000,pointer
+$set [hash]:CRC32Big:0
+$set [hash]:xor:FFFFFFFF
+(write at 0x000030:[hash])
+$set pointer:eof-3
+$write next (0):[hash]

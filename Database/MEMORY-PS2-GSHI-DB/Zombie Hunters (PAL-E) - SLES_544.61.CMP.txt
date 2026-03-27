@@ -1,0 +1,112 @@
+^3 = NAME: Zombie Hunters (PAL-E)
+^2 = GameID: SLES-54461
+!Master Codes:
++Enable Code
+%Credits: lee4
+$0E3C7DF2 1456E7A5
+$F01EE774 001EE777
++Enable Code
+%Credits: lee4
+$901EE774 0C082CF0
++Enable Code
+%Credits: lee4
+$F01EE774 0000000E
++Enable Code
+%Credits: lee4
+$F01EE774 001EE777
++Enable Code
+%Credits: Skiller
+$902147D8 0C08519E
+!!
+!Jokers:
++Player 1 Controller
+%Credits: lee4
+$D03706C2 0000????
+!!
++3X Length Of Sword
+%Credits: lee4
+$202242C0 40400000
++Always Goddess Statue Mode
+%Credits: Harry62
+$2022EC40 00000078
+$2022EC44 00000008
++Always Jewel Necklace Mode
+%Credits: Harry62
+$2022EC30 00000708
++Always Power Mode
+%Credits: Harry62
+$2022EC2C 00000708
++Always Rapid Mode
+%Credits: Harry62
+$2022EC28 00000708
++Enemies Can Not Hit You
+%Credits: Harry62
+$20136060 03E00008
+$20136064 00000000
++Freeze Zombies {<I>[Hold Any Button, Including D-Pad]</I>}
+%Credits: Harry62
+$20106EB4 50620021
+$D03706C2 0010FFFF
+$20106EB4 00000000
++Have All Costumes
+%Credits: lee4
+$40223D30 00040001
+$0000000F 00000000
++Have All Stages Selectable In Story Mode
+%Credits: lee4
+$20223D1C 00000005
++Have All Wallpapers
+%Credits: lee4
+$00223DBC 0000000F
++Inf & Max HP
+%Credits: lee4
+$202242AC 00002710
+$202242B0 00002710
++Infinite Cure Gem
+%Credits: Harry62
+$2022ECD8 0000000A
++Infinite Goddess Statue
+%Credits: Harry62
+$2022ECE8 0000000A
++Infinite Jewel Necklace
+%Credits: Harry62
+$2022ECE4 0000000A
++Infinite Power Gem
+%Credits: Harry62
+$2022ECE0 0000000A
++Infinite Rapid Gem
+%Credits: Harry62
+$2022ECDC 0000000A
++Max Attack Power
+%Credits: lee4
+$202242B4 0001869F
++No Sword Degradation
+%Credits: lee4
+$2022EC64 00000000
++Speed Movement {<I>4140 = 2X<Br>4190 = 2X<Br>41C0 = 4X<Br>4240 = 8X</I>}
+%Credits: lee4
+$202242BC ????0000
++Super Jump
+%Credits: Harry62
+$200A2000 3C080022
+$200A2004 C5004254
+$200A2008 3C0A4100
+$200A200C 448A0800
+$200A2010 46010001
+$200A2014 03E00008
+$200A2018 E5004254
+$D03706C2 0000BFFF
+$20107F04 08028800
+$D03706C2 0000FFFF
+$20107F04 03E00008
++Unlock Violent Difficulty
+%Credits: lee4
+$00223DB0 00000004
++Walk Through Barrier Objects
+%Credits: Harry62
+$20113B38 10000005
++Walk Through Zombies
+%Credits: Harry62
+$201133B0 00000000
+!!
+

@@ -1,0 +1,127 @@
+^3 = NAME: Ford Racing 2 (Ntsc-U)
+^2 = GameID: SLUS-20788
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01F5FCC 001F5FCF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001F5FCF
++Master Code
+%Credits: MadCatz
+$901F5FCC 0C0831D3
+!!
++Always Low Lap Time
+%Credits: Code Master
+$2019DCA8 00000000
+!Enable Tracks:
++Bay Bridge
+%Credits: Codejunkies
+$20474C78 00010000
++Black Ridge Speedway
+%Credits: Codejunkies
+$20474CF0 00010000
++Club Raceway
+%Credits: Codejunkies
+$20474D04 00010000
++Deer Creek
+%Credits: Codejunkies
+$20474CAC 00000001
++Ghost Town
+%Credits: Codejunkies
+$20474C98 00000001
++Great Falls
+%Credits: Codejunkies
+$20474CDC 00010000
++International Raceway
+%Credits: Codejunkies
+$20474CFC 00000001
++Military Base
+%Credits: Codejunkies
+$20474C8C 00010000
++Ocean Drive
+%Credits: Codejunkies
+$20474CC0 00000001
++Old Railroad
+%Credits: Codejunkies
+$20474CA0 00010000
++Palm View
+%Credits: Codejunkies
+$20474CB4 00010000
++Port Side
+%Credits: Codejunkies
+$20474C84 00000001
++Rock City Raceway
+%Credits: Codejunkies
+$20474CE8 00000001
++Route 50
+%Credits: Codejunkies
+$20474C70 00000001
++Temple Ruins
+%Credits: Codejunkies
+$20474CC8 00010000
++Volcano
+%Credits: Codejunkies
+$20474CD4 00000001
+!!
+!Ford Collection:
++Unlock All Classic Cars
+%Credits: Codejunkies
+$20474C30 03030303
+$20474C34 03030303
++Unlock All Modern Cars
+%Credits: Codejunkies
+$20474C38 03030303
+$20474C3C 03030303
++Unlock All Offroad Cars
+%Credits: Codejunkies
+$20474C40 03030303
+$20474C44 03030303
++Unlock All Perf./Stock Cars
+%Credits: Codejunkies
+$20474C48 03030303
+$20474C4C 03030303
+$20474C50 03030303
++Unlock All Race Types
+%Credits: Codejunkies
+$20474BD0 01010101
+$20474BD4 01010101
+!!
++Have Collected All Cars
+%Credits: MadCatz
+$40474C30 00090001
+$03030303 00000000
++Unlock All Cars
+%Credits: MadCatz
+$40474BF0 00090001
+$01010101 00000000
++Unlock All Collection Events
+%Credits: MadCatz
+$40474BD0 00020001
+$01010101 00000000
++Unlock All Ford Challenge Cars
+%Credits: Code Master
+$201E8058 24020001
+$201E805C A0620000
+$201E8060 03E00008
+$201E8064 27BD0010
++Unlock All Ford Collection Cars
+%Credits: Code Master
+$201E8120 24020003
+$201E8124 A0620000
+$201E8128 03E00008
+$201E812C 27BD0010
++Unlock All Ford Collection Race Types
+%Credits: Code Master
+$201E80E0 24020001
+$201E80E4 A0620000
+$201E80E8 03E00008
+$201E80EC 27BD0010
++Unlock All Ford Collection Tracks
+%Credits: Code Master
+$200C0220 03E00008
+$200C0224 A0620000
+$201E80A4 24020001
+$201E80A8 08030088
+!!
+

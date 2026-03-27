@@ -1,0 +1,49 @@
+^3 = NAME: Motogp (Pal-Unk)
+^2 = GameID: SCES-50034
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0100350 002AE627
++(M) Must Be On
+%Credits: Codejunkies
+$F02AE624 002AE627
+!!
++Drive Anywhere (Read Notes) {<I>Don&#39;T Go Too Far Off The Map Or The Game Crashes</I>}
+%Credits: luc-ita
+$202731C8 00000000
+!Freeze Time Codes:
++All Challenges Complete
+%Credits: Codejunkies
+$20309420 02020202
+$20309424 02020202
+$20309428 02020202
+$2030942C 02020202
+$20309430 02020202
+$20309434 02020202
+$20309438 02020202
+$2030943C 02020202
+$20309440 02020202
+$20309444 02020202
+$20309448 02020202
+$2030944C 02020202
+$20309450 02020202
+$20309454 02020202
++Arcade
+%Credits: Codejunkies
+$21D0BC68 00000000
+$21D0BCFC 00000000
+$21D0BD00 00000000
++Time Attack
+%Credits: Codejunkies
+$21D3C298 00000000
+!!
++No Loss Of Speed If You Go Off The Road Or Collide With Walls
+%Credits: luc-ita
+$2027EED0 00000000
+$20271320 00000000
+$2027DB2C 00000000
++Opponents Don't Move
+%Credits: luc-ita
+$20272708 00000000
+!!
+

@@ -1,0 +1,31 @@
+^1 = HASH: 03 4F 3A A9 C1 0F EA 4E A7 CD 1D 06 AF EE DC 73 45 4D 64 F6
+^2 = GameID: SLES_551.98
+^3 = NAME: Iron Man
+!Masters:
++Enable Code(MUST BE ON)
+$9011ED50 0C047AFC
+!!
+!MISC Codes
++Inf Grenade Launcher Ammo
+$10EDF098 00000000
++Inf Basic Ammo
+$10ED5750 00000000
++Inf Launcher Ammo
+$10E73CD8 00000000
++Gain Grenade Launcher Ammo
+$10EDF098 00000001
++Gain Basic Ammo
+$10ED5750 00000001
++Gain Launcher Ammo
+$10E73CD8 00000001
++Inf Weapon Power
+$20E95AA0 00000000
++Inf Propulsion
+$20E95A5C 00000000
++Inf Armor
+$20E95260 C620000C
++Max EXP One Use
+$00E5A944 00000001
++Gain Xamount Enemies Killed Per 1
+$10ECC658 0000[Amount:2710:HEX:BIG]
+!!

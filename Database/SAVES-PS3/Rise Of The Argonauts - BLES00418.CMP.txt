@@ -1,0 +1,12 @@
+^2 = GameID: BLES00418
+^3 = NAME: Rise of the Argonauts
+^4 = FILE: PAYLOAD
++Update Crc32big For Payload (required)
+(Checksum offset is located within the checksum range.)
+$write at 0x000000:00000000
+(Initializing checksum with null bytes)
+(set range:0x0,0x011C52)
+$set pointer:eof+1
+$set range:0x0,pointer
+$set [hash]:CRC32Big
+$write at 0x000000:[hash]

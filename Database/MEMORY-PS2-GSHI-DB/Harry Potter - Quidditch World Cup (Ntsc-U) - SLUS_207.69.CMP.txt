@@ -1,0 +1,238 @@
+^3 = NAME: Harry Potter - Quidditch World Cup (Ntsc-U)
+^2 = GameID: SLUS-20769
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$0034A224 0034A224
++Enable Code (Must Be On)
+%Credits: Code Master>tab
+$F0100008 0034A227
++[M] Must Be On
+%Credits: MadCatz
+$902B1468 0C0D283E
+!!
++Always Low Time (Challenge Mode)
+%Credits: Code Master>tab
+$20462C98 00000000
++Away Team Score Modifier
+%Credits: Code Master>tab
+$2039960C 0000????
++Away Team Start With Score Modifier
+%Credits: Code Master>tab
+$D039960C 00000000
+$2039960C 0000????
++Have All Cards
+%Credits: Code Master>tab
+$21DF3D80 FFFFFFFF
+$21DF3D84 FFFFFFFF
+$21DF3D88 FFFFFFFF
+$21DF3D8C FFFFFFFF
+$21DF3D90 FFFFFFFF
+$21DF3D94 FFFFFFFF
+$21DF3D98 FFFFFFFF
+$11DF3D9C 0000FFFF
++Have All Wizard Cards
+%Credits: MadCatz
+$41DF3D80 00080004
+$FFFFFFFF 00000000
+!Have Challenge Finished Codes:
++Gryffindor-Beaters And Bludgers
+%Credits: Code Master>tab
+$21DF81B4 00000001
++Gryffindor-Combos
+%Credits: Code Master>tab
+$21DF81EC 00000001
++Gryffindor-Passing
+%Credits: Code Master>tab
+$21DF8160 00000001
++Gryffindor-Seeker
+%Credits: Code Master>tab
+$21DF8198 00000001
++Gryffindor-Special Moves
+%Credits: Code Master>tab
+$21DF81D0 00000001
++Gryffindor-Tackle And Shoot
+%Credits: Code Master>tab
+$21DF817C 00000001
++Hufflepuff-Beaters And Bludgers
+%Credits: Code Master>tab
+$21DF842C 00000001
++Hufflepuff-Combos
+%Credits: Code Master>tab
+$21DF8464 00000001
++Hufflepuff-Passing
+%Credits: Code Master>tab
+$21DF83D8 00000001
++Hufflepuff-Seeker
+%Credits: Code Master>tab
+$21DF8410 00000001
++Hufflepuff-Special Moves
+%Credits: Code Master>tab
+$21DF8448 00000001
++Hufflepuff-Tackle And Shoot
+%Credits: Code Master>tab
+$21DF83F4 00000001
++Ravenclaw-Beaters And Bludgers
+%Credits: Code Master>tab
+$21DF8568 00000001
++Ravenclaw-Combos
+%Credits: Code Master>tab
+$21DF85A0 00000001
++Ravenclaw-Passing
+%Credits: Code Master>tab
+$21DF8514 00000001
++Ravenclaw-Seeker
+%Credits: Code Master>tab
+$21DF854C 00000001
++Ravenclaw-Special Moves
+%Credits: Code Master>tab
+$21DF8584 00000001
++Ravenclaw-Tackle And Shoot
+%Credits: Code Master>tab
+$21DF8530 00000001
++Slytherin-Beaters And Bludgers
+%Credits: Code Master>tab
+$21DF82F0 00000001
++Slytherin-Combos
+%Credits: Code Master>tab
+$21DF8328 00000001
++Slytherin-Passing
+%Credits: Code Master>tab
+$21DF829C 00000001
++Slytherin-Seeker
+%Credits: Code Master>tab
+$21DF82D4 00000001
++Slytherin-Special Moves
+%Credits: Code Master>tab
+$21DF830C 00000001
++Slytherin-Tackle And Shoot
+%Credits: Code Master>tab
+$21DF82B8 00000001
+!!
++Home Team Score Modifier
+%Credits: Code Master>tab
+$20399608 0000????
++Home Team Start With Score Modifier
+%Credits: Code Master>tab
+$D0399608 00000000
+$20399608 0000????
++Infinite Boost
+%Credits: nolberto82
+$200A0000 3C083F80
+$200A0004 AC8811C8
+$200A0008 03E00008
+$20191FE8 08028000
+!Low Challenge Player Time Codes:
++Gryffindor-Beaters And Bludgers
+%Credits: Code Master>tab
+$21DF81B8 3C000000
++Gryffindor-Combos
+%Credits: Code Master>tab
+$21DF81F0 3C000000
++Gryffindor-Passing
+%Credits: Code Master>tab
+$21DF8164 3C000000
++Gryffindor-Seeker
+%Credits: Code Master>tab
+$21DF819C 3C000000
++Gryffindor-Special Moves
+%Credits: Code Master>tab
+$21DF81D4 3C000000
++Gryffindor-Tackle And Shoot
+%Credits: Code Master>tab
+$21DF8180 3C000000
++Hufflepuff-Beaters And Bludgers
+%Credits: Code Master>tab
+$21DF8430 3C000000
++Hufflepuff-Combos
+%Credits: Code Master>tab
+$21DF8468 3C000000
++Hufflepuff-Passing
+%Credits: Code Master>tab
+$21DF83DC 3C000000
++Hufflepuff-Seeker
+%Credits: Code Master>tab
+$21DF8414 3C000000
++Hufflepuff-Special Moves
+%Credits: Code Master>tab
+$21DF844C 3C000000
++Hufflepuff-Tackle And Shoot
+%Credits: Code Master>tab
+$21DF83F8 3C000000
++Ravenclaw-Beaters And Bludgers
+%Credits: Code Master>tab
+$21DF856C 3C000000
++Ravenclaw-Combos
+%Credits: Code Master>tab
+$21DF85A4 3C000000
++Ravenclaw-Passing
+%Credits: Code Master>tab
+$21DF8518 3C000000
++Ravenclaw-Seeker
+%Credits: Code Master>tab
+$21DF8550 3C000000
++Ravenclaw-Special Moves
+%Credits: Code Master>tab
+$21DF8588 3C000000
++Ravenclaw-Tackle And Shoot
+%Credits: Code Master>tab
+$21DF8534 3C000000
++Slytherin-Beaters And Bludgers
+%Credits: Code Master>tab
+$21DF82F4 3C000000
++Slytherin-Combos
+%Credits: Code Master>tab
+$21DF832C 3C000000
++Slytherin-Passing
+%Credits: Code Master>tab
+$21DF82A0 3C000000
++Slytherin-Seeker
+%Credits: Code Master>tab
+$21DF82D8 3C000000
++Slytherin-Special Moves
+%Credits: Code Master>tab
+$21DF8310 3C000000
++Slytherin-Tackle And Shoot
+%Credits: Code Master>tab
+$21DF82BC 3C000000
+!!
++P1 Press L1+Select To Stop Timer (Challenge Mode)
+%Credits: Code Master>tab
+$E004FBFE 0054C2C2
+$2018BD74 00000000
+$2018D95C 00000000
+$2018D9C4 00000000
+$2018DA2C 00000000
++P1 Press L2+Select To Start Timer (Challenge Mode)
+%Credits: Code Master>tab
+$E004FEFE 0054C2C2
+$2018BD74 ACC30038
+$2018D95C AD030038
+$2018D9C4 AD030038
+$2018DA2C AD030038
++P2 Press L1+Select To Stop Timer (Challenge Mode)
+%Credits: Code Master>tab
+$E004FBFE 0054C7C2
+$2018BD74 00000000
+$2018D95C 00000000
+$2018D9C4 00000000
+$2018DA2C 00000000
++P2 Press L2+Select To Start Timer (Challenge Mode)
+%Credits: Code Master>tab
+$E004FEFE 0054C7C2
+$2018BD74 ACC30038
+$2018D95C AD030038
+$2018D9C4 AD030038
+$2018DA2C AD030038
++Unlock All Quidditch Cards
+%Credits: Codejunkies
+$21DF3D80 FFFFFFFF
+$21DF3D84 FFFFFFFF
+$21DF3D88 FFFFFFFF
+$21DF3D8C FFFFFFFF
+$21DF3D90 FFFFFFFF
+$21DF3D94 FFFFFFFF
+$21DF3D98 FFFFFFFF
+$21DF3D9C FFFFFFFF
+!!
+

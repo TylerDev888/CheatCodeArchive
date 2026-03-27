@@ -1,0 +1,6 @@
+^2 = GameID: BLES01936
+^3 = NAME: Saint Seiya: Brave Soldiers
+^5 = APCRED: From let_die
+^4 = FILE: SAVEDATA.DAT
++Max Points
+$write at 0x000000E8:0x0098967F

@@ -1,0 +1,223 @@
+^3 = NAME: World Soccer - Winning Eleven 9 International (Ntsc-U)
+^2 = GameID: SLUS-21220
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$E00E1726 00111DDC
+$E00D0C04 00111DDE
+$201203E8 08043BAE
+$2010EEB8 3C040100
+$2010EEBC 3C050008
+$2010EEC0 0C071104
+$2010EEC4 3C060008
+$2010EEC8 0C042258
+$2010EECC 0000202D
+$2010EED0 3C050100
+$2010EED4 3C040008
+$2010EED8 0C071104
+$2010EEDC 3C060008
+$2010EEE0 080480FC
+$2010EEE4 00000000
+$F0111DDC 00111DDF
++Enable Code (Must Be On)
+%Credits: Code Master
+$90111F60 00832021
++Master Code
+%Credits: MadCatz
+$90154BAC 0C0447EC
+!!
+!Away Team:
++Have Enter Stoppage Time (Press L3+R3 To Activate)
+%Credits: MadCatz
+$D04D0EC2 0000FFF9
+$2055EFD4 00000000
++Max Wen
+%Credits: MadCatz
+$218201E8 05F5E100
++Start With 5 Goals
+%Credits: MadCatz
+$D0CA3018 00000000
+$10CA3018 00000005
++Start With 10 Goals
+%Credits: MadCatz
+$D0CA3018 00000000
+$10CA3018 0000000A
++Start With 20 Goals
+%Credits: MadCatz
+$D0CA3018 00000000
+$10CA3018 00000014
+!!
+!Home Team:
++Start With 5 Goals
+%Credits: MadCatz
+$D0CA28D4 00000000
+$10CA28D4 00000005
++Start With 10 Goals
+%Credits: MadCatz
+$D0CA28D4 00000000
+$10CA28D4 0000000A
++Start With 20 Goals
+%Credits: MadCatz
+$D0CA28D4 00000000
+$10CA28D4 00000014
+!!
++Max Cash After A Save
+%Credits: Codejunkies
+$E0020034 00AD9640
+$D0AD9642 00008C46
+$20AD9640 0C03FFC0
+$200FFF00 3C0605F0
+$200FFF04 AC460034
+$200FFF08 03E00008
++Max Wen
+%Credits: Codejunkies
+$E002002C 008F837C
+$D08F837E 00008C46
+$208F837C 0C03FFD0
+$200FFF40 3C0605F0
+$200FFF44 AC46002C
+$200FFF48 03E00008
++Player 1 Scores 0 (Press Select+L2)
+%Credits: Codejunkies
+$D04D0EC2 0000FEFE
+$20CA28D4 00000000
++Player 1 Scores 99 (Press Select+L1)
+%Credits: Codejunkies
+$D04D0EC2 0000FBFE
+$20CA28D4 00630063
++Player 2 Scores 0 (Press Select+R2)
+%Credits: Codejunkies
+$D04D0EC2 0000FDFE
+$20CA3018 00000000
++Player 2 Scores 99 (Press Select+R1)
+%Credits: Codejunkies
+$D04D0EC2 0000F7FE
+$20CA3018 00630063
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Away Team Scores 0
+%Credits: Code Master
+$10CA3018 00000000
++Away Team Scores 20
+%Credits: Code Master
+$10CA3018 00000014
++Away Team Scores 50
+%Credits: Code Master
+$10CA3018 00000032
++Away Team Starts With 50
+%Credits: Code Master
+$D0CA3018 00000000
+$10CA3018 00000032
++Home Team Scores 0
+%Credits: Code Master
+$10CA28D4 00000000
++Home Team Scores 20
+%Credits: Code Master
+$10CA28D4 00000014
++Home Team Scores 50
+%Credits: Code Master
+$10CA28D4 00000032
++Home Team Starts With 50
+%Credits: Code Master
+$D0CA28D4 00000000
+$10CA28D4 00000032
++Infinite Funds (Master League)
+%Credits: Code Master
+$10812244 0000FFFF
++Max Funds (Master League)
+%Credits: Code Master
+$20812244 05F5E0FF
+!!
+!Time Manipulation Codes (Don't Use When Paused):
++Buying Items Doesn't Decrease WEN
+%Credits: Code Master
+$D08FA7BC 00003021
+$208FA7C8 00000000
++Buying Items Increases WEN
+%Credits: Code Master
+$D08FA7BC 00003021
+$208FA7C4 00862021
++Max Master League Funds
+%Credits: Code Master
+$200C0230 10400003
+$200C0234 3421967F
+$200C0238 AC410034
+$200C023C 8C420034
+$200C0240 03E00008
+$200C0244 00000000
+$20AC3910 0C03008C
+$20AC3914 3C010098
++Max WEN
+%Credits: Code Master
+$E005802D 008F8384
+$200C0220 3C0605F5
+$200C0224 34C6E0FF
+$200C0228 03E00008
+$200C022C AC46002C
+$208F837C 0C030088
++P1 Press L1+Select For More Time
+%Credits: Code Master
+$D04D0EC2 0000FBFE
+$2055EFD4 00004650
++P1 Press L2+Select For Low Time
+%Credits: Code Master
+$D04D0EC2 0000FEFE
+$2055EFD4 00000001
++P2 Press L1+Select For More Time
+%Credits: Code Master
+$D04D1002 0000FBFE
+$2055EFD4 00004650
++P2 Press L2+Select For Low Time
+%Credits: Code Master
+$D04D1002 0000FEFE
+$2055EFD4 00000001
++P3 Press L1+Select For More Time
+%Credits: Code Master
+$D04D1142 0000FBFE
+$2055EFD4 00004650
++P3 Press L2+Select For Low Time
+%Credits: Code Master
+$D04D1142 0000FEFE
+$2055EFD4 00000001
++P4 Press L1+Select For More Time
+%Credits: Code Master
+$D04D1282 0000FBFE
+$2055EFD4 00004650
++P4 Press L2+Select For Low Time
+%Credits: Code Master
+$D04D1282 0000FEFE
+$2055EFD4 00000001
++P5 Press L1+Select For More Time
+%Credits: Code Master
+$D04D13C2 0000FBFE
+$2055EFD4 00004650
++P5 Press L2+Select For Low Time
+%Credits: Code Master
+$D04D13C2 0000FEFE
+$2055EFD4 00000001
++P6 Press L1+Select For More Time
+%Credits: Code Master
+$D04D1502 0000FBFE
+$2055EFD4 00004650
++P6 Press L2+Select For Low Time
+%Credits: Code Master
+$D04D1502 0000FEFE
+$2055EFD4 00000001
++P7 Press L1+Select For More Time
+%Credits: Code Master
+$D04D1642 0000FBFE
+$2055EFD4 00004650
++P7 Press L2+Select For Low Time
+%Credits: Code Master
+$D04D1642 0000FEFE
+$2055EFD4 00000001
++P8 Press L1+Select For More Time
+%Credits: Code Master
+$D04D1782 0000FBFE
+$2055EFD4 00004650
++P8 Press L2+Select For Low Time
+%Credits: Code Master
+$D04D1782 0000FEFE
+$2055EFD4 00000001
+!!
+!!
+

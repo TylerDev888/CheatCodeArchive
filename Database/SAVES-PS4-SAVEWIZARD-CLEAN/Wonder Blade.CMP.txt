@@ -1,0 +1,23 @@
+^2 = GameID: CUSA18590,CUSA19481
+^3 = NAME: Wonder Blade
+^SECONDLAYER: YES
+^4 = FILE: sce_sdmemory\memory.dat
+{{Must be at Least level 2 or above to use these}}
++Super Stats(spend At Least 1 Point On Each Stat Before Use.)
+%Credits: Zeraf3000
+$80010004 781FE1C4
+$28000008 0000270A
+$80010004 368664B1
+$28000008 0000270A
+$80010004 AD9A5E79
+$28000008 0000270A
+$80010004 88FC9877
+$28000008 0000270A
++Set Level At 40 (max)
+%Credits: Zeraf3000
+$80010004 285EEBAD
+$28000008 00000028
++Super Max Healing Potions (16 Mill){Must Have At Least 5 First. Can Easily Purchase Them At Any Vendor. Screen Will Show 1 Only But, You'll Have 16+ Mill. You Can Actualy See The Amount At Vendors}
+%Credits: Zeraf3000
+$80010004 A44F274B
+$28000008 00FFFFFF

@@ -1,0 +1,34 @@
+^2 = GameID: BLES01495
+^3 = NAME: INVERSION
+^5 = APCRED: From chaoszage
+^4 = FILE: SAVES.CFG
++219999 Xp(by Chaoszage)
+$search 0x56657273696F6E:1
+$set pointer:pointer+31
+$write next (0):0x00035B5F
+(Earn 1 xp to gain xp trophy)
++429999 Xp
+$search 0x56657273696F6E:1
+$set pointer:pointer+31
+$write next (0):0x00068FAF
+(Earn 1 xp to gain xp trophy)
++799999 Xp
+$search 0x56657273696F6E:1
+$set pointer:pointer+31
+$write next (0):0x000C34FF
+(Earn 1 xp to gain xp trophy)
++Update Crc32 For Saves.cfg (required)
+$set range:0x00000C,0x01F
+$set [hash]:CRC32
+$write at 0x8:[hash]
+$search 0x56657273696F6E:1
+$set [offset]:pointer+18
+$set range:0x0024,[offset]
+$set [hash]:CRC32
+$write at 0x0020:[hash]
+$set [start]:pointer+23
+$set [end]:pointer+389
+$set range:[start],[end]
+$set [hash]:CRC32
+$set pointer:pointer+19
+$write next (0):[hash]

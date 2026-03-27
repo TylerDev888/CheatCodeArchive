@@ -1,0 +1,59 @@
+^3 = NAME: Return To Castle Wolfenstein - Operation Resurrection (Pal-Unk)
+^2 = GameID: SLES-51449
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01EDC84 001EDC87
+!!
++1 Hit Kill
+%Credits: Codejunkies
+$200FFF00 3C010023
+$200FFF04 8C216974
+$200FFF08 10310002
+$200FFF10 AE2002BC
+$200FFF18 8E2202BC
+$200FFF1C 080712D8
+$201C4B5C 0803FFC0
++All Weapons
+%Credits: Codejunkies
+$205C6CF8 FFFFFFFF
+$205C6CFC FFFFFFFF
++Big Jumps
+%Credits: Codejunkies
+$201BE9EC 3C014000
++Infinite Ammo No Reload
+%Credits: Codejunkies
+$201BC4C8 00000000
++Infinite Ammo/No Reload
+%Credits: Codejunkies
+$201BC4D8 00000000
++Infinite Health
+%Credits: Codejunkies
+$201B1034 24010064
+$201B1038 AE2102BC
++Infinite Health
+%Credits: Codejunkies
+$201B1024 24010064
+$201B1028 AE2102BC
++Invisible
+%Credits: Codejunkies
+$201B2774 00000000
++Invisible
+%Credits: Codejunkies
+$201B2764 00000000
+!Jump Codes:
++Big Jumps
+%Credits: Codejunkies
+$201BE9FC 3C014000
++Really Big Jumps
+%Credits: Codejunkies
+$201BE9FC 3C014080
+!!
++Max Bonus Award Points
+%Credits: Codejunkies
+$205C6AD4 000003E7
++Really Big Jumps
+%Credits: Codejunkies
+$201BE9EC 3C014080
+!!
+

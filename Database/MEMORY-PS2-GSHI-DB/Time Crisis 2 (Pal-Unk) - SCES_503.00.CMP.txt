@@ -1,0 +1,80 @@
+^3 = NAME: Time Crisis 2 (Pal-Unk)
+^2 = GameID: SCES-50300
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01003D0 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F01003D0 001003D3
+!!
+!Choose Only One:
++Player 1: Machine Gun
+%Credits: Codejunkies
+$10661A00 0000000A
++Player 1: No Infinite Ammo With This Shotgun
+%Credits: Codejunkies
+$10661A00 00000004
++Player 2: Infinite Lives
+%Credits: Codejunkies
+$10661900 00000004
++Player 2: Infinite Time
+%Credits: Codejunkies
+$10661904 00002EE0
++Player 2: Machine Gun
+%Credits: Codejunkies
+$10661A30 00000009
++Player 2: No Infinite Ammo With This Shotgun
+%Credits: Codejunkies
+$10661A30 00000007
++Player 2: No Re-Load
+%Credits: Codejunkies
+$10661A34 00000009
+!!
+!Lives Codes:
++Infinite Lives
+%Credits: Codejunkies
+$106618A0 00000004
++Infinite Time
+%Credits: Codejunkies
+$106618A4 00002EE0
++Never Have Any Lives
+%Credits: Codejunkies
+$E0010000 306618A0
+$106618A0 00000000
++Never Have Any Lives
+%Credits: Codejunkies
+$E0010000 30661900
+$10661900 00000000
++Never Have More Than 1 Life
+%Credits: Codejunkies
+$E0010001 306618A0
+$106618A0 00000001
++Never Have More Than 1 Life
+%Credits: Codejunkies
+$E0010001 30661900
+$10661900 00000001
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E0010002 306618A0
+$106618A0 00000002
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E0010002 30661900
+$10661900 00000002
++Never Have More Than 3 Lives
+%Credits: Codejunkies
+$E0010003 306618A0
+$106618A0 00000003
++Never Have More Than 3 Lives
+%Credits: Codejunkies
+$E0010003 30661900
+$10661900 00000003
+!!
+!Player 1 Codes - Arcade Story Mode Only:
++No Reload
+%Credits: Codejunkies
+$10661A04 00000009
+!!
+!!
+

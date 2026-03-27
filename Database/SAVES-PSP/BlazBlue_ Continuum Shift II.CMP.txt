@@ -1,0 +1,16 @@
+^2 = GameID: NPJH50401,ULES01526,ULUS10579
+^3 = NAME: BlazBlue: Continuum Shift II
+^5 = APCRED: PSP
+^4 = FILE: SYSTEM.DAT
++Unlock All Gallery(by bucanero)
+$41000160 00000101
+$40AD0002 00000000
++9999999 P$ Credits
+$2002E378 0098967F
++Update Wadd For System.dat (required)
+$set [csum]:0
+$carry(2)
+$set pointer:eof+1
+$set [csum]:wadd(0x000004,pointer)
+$set [csum]:xor:FFFF
+$write at 0x000000:[csum]

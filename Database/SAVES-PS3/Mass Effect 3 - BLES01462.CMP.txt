@@ -1,0 +1,48 @@
+^2 = GameID: BLES01462
+^3 = NAME: Mass Effect 3
+^5 = APCRED: From zeick
+^4 = FILE: QUICK
+^4 = FILE: SAVE*
++Renegade
+$search 0x000027B0
+$write next (4):00000063
++Paragon
+$search 0x000027AF
+$write next (4):00000063
++Reputation
+$search 0x0000288C
+$write next (4):00000063
++Medi Gel 9999999
+$search "hench_anderson"
+$write next (-64):0098967F
++Money 9999999
+$search "hench_anderson"
+$write next (-68):0098967F
+^4 = FILE: EXPORT
++Export - Update Crc32big (required)
+$set pointer:eof-3
+$set range:0x0, pointer
+$set [crc]:crc32big
+$set pointer:eof-3
+$write next (0):[crc]
+^4 = FILE: QUICK
++Quick - Update Crc32big (required)
+$set pointer:eof-3
+$set range:0x0, pointer
+$set [crc]:crc32big
+$set pointer:eof-3
+$write next (0):[crc]
+^4 = FILE: LEGEND
++Legend - Update Crc32big (required)
+$set pointer:eof-3
+$set range:0x0, pointer
+$set [crc]:crc32big
+$set pointer:eof-3
+$write next (0):[crc]
+^4 = FILE: SAVE*
++Save - Update Crc32big (required)
+$set pointer:eof-3
+$set range:0x0, pointer
+$set [crc]:crc32big
+$set pointer:eof-3
+$write next (0):[crc]

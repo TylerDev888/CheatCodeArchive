@@ -1,0 +1,17 @@
+^2 = GameID: NPEB00469
+^3 = NAME: Spelunker Black (PSN)
+^5 = APCRED: From SHAkA
+^4 = FILE: SYSTEM.SAV
++Life 9999
+$write at 0x000005EE:0x270F
++Bomb 9999
+$write at 0x000005F2:0x270F
++Capsule 9999
+$write at 0x0000060E:0x270F
++All Keys
+$write at 0x000005F7:0x63
+$write at 0x00000607:0x63
+$write at 0x000005FF:0x63
+$write at 0x0000060B:0x63
+$write at 0x000005FB:0x63
+$write at 0x00000603:0x63

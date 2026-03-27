@@ -1,0 +1,327 @@
+^1 = HASH: F6D977AE
+^3 = NAME: MLB Slugfest 2006
+^2 = GameID: SLUS_213.42
+!Masters:
++Enable Code (Must Be On) [Read Note]
+%Credits: Code Master
+$901B2024 0C06DCD6
+!!
+!Codes:
++Home Team Scores 50
+%Credits: Code Master
+$2051AC08 00000032
++Home Team Scores 20
+%Credits: Code Master
+$2051AC08 00000014
++Home Team Scores 0
+%Credits: Code Master
+$2051AC08 00000000
++Home Team Starts With 50
+%Credits: Code Master
+$D051AC08 00000000
+$2051AC08 00000032
++Home Team Starts With 20
+%Credits: Code Master
+$D051AC08 00000000
+$2051AC08 00000014
++Home Team Starts With 10
+%Credits: Code Master
+$D051AC08 00000000
+$2051AC08 0000000A
++Home Team Starts With 5
+%Credits: Code Master
+$D051AC08 00000000
+$2051AC08 00000005
++Away Team Scores 50
+%Credits: Code Master
+$2051AC3C 00000032
++Away Team Scores 20
+%Credits: Code Master
+$2051AC3C 00000014
++Away Team Scores 0
+%Credits: Code Master
+$2051AC3C 00000000
++Away Team Starts With 50
+%Credits: Code Master
+$D051AC3C 00000000
+$2051AC3C 00000032
++Away Team Starts With 20
+%Credits: Code Master
+$D051AC3C 00000000
+$2051AC3C 00000014
++Away Team Starts With 10
+%Credits: Code Master
+$D051AC3C 00000000
+$2051AC3C 0000000A
++Away Team Starts With 5
+%Credits: Code Master
+$D051AC3C 00000000
+$2051AC3C 00000005
++Home Team Infinite Turbo
+%Credits: Code Master
+$20517928 42C80000
++Home Team No Turbo
+%Credits: Code Master
+$20517928 00000000
++Away Team Infinite Turbo
+%Credits: Code Master
+$2051792C 42C80000
++Away Team No Turbo
+%Credits: Code Master
+$2051792C 00000000
++All Runs Score For Home Team
+%Credits: Code Master
+$20105AE0 24630000
++All Runs Score For Away Team
+%Credits: Code Master
+$20105AE0 24630034
++Runs Score 10
+%Credits: Code Master
+$10105AEC 0000000A
++Runs Score 5
+%Credits: Code Master
+$10105AEC 00000005
++Runs Score 2
+%Credits: Code Master
+$10105AEC 00000002
+!!
+!Both Team Codes:
++Infinite Strikes
+%Credits: Code Master
+$1051AAE4 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$D051AAE4 00000000
+$1051AAE4 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$D051AAE4 00000000
+$1051AAE4 00000001
++Infinite Balls
+%Credits: Code Master
+$1051AAF0 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$D051AAF0 00000000
+$1051AAF0 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$D051AAF0 00000000
+$1051AAF0 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$D051AAF0 00000000
+$1051AAF0 00000001
++Infinite Outs
+%Credits: Code Master
+$1051AAF4 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$D051AAF4 00000000
+$1051AAF4 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$D051AAF4 00000000
+$1051AAF4 00000001
++Always Full Count
+%Credits: Code Master
+$1051AAE4 00000002
+$1051AAF0 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$1051AAE4 00000002
+$1051AAF0 00000003
+$1051AAF4 00000002
+!!
+!Home Team Only Codes:
++Infinite Strikes
+%Credits: Code Master
+$E0010001 0051AA98
+$1051AAE4 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020001 0051AA98
+$D051AAE4 00000000
+$1051AAE4 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020001 0051AA98
+$D051AAE4 00000000
+$1051AAE4 00000001
++Infinite Balls
+%Credits: Code Master
+$E0010001 0051AA98
+$1051AAF0 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0020001 0051AA98
+$D051AAF0 00000000
+$1051AAF0 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$E0020001 0051AA98
+$D051AAF0 00000000
+$1051AAF0 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$E0020001 0051AA98
+$D051AAF0 00000000
+$1051AAF0 00000001
++Infinite Outs
+%Credits: Code Master
+$E0010001 0051AA98
+$1051AAF4 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$E0020001 0051AA98
+$D051AAF4 00000000
+$1051AAF4 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020001 0051AA98
+$D051AAF4 00000000
+$1051AAF4 00000001
++Always Full Count
+%Credits: Code Master
+$E0020001 0051AA98
+$1051AAE4 00000002
+$1051AAF0 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030001 0051AA98
+$1051AAE4 00000002
+$1051AAF0 00000003
+$1051AAF4 00000002
+!!
+!Away Team Only Codes:
++Infinite Strikes
+%Credits: Code Master
+$E0010000 0051AA98
+$1051AAE4 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020000 0051AA98
+$D051AAE4 00000000
+$1051AAE4 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020000 0051AA98
+$D051AAE4 00000000
+$1051AAE4 00000001
++Infinite Balls
+%Credits: Code Master
+$E0010000 0051AA98
+$1051AAF0 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0020000 0051AA98
+$D051AAF0 00000000
+$1051AAF0 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$E0020000 0051AA98
+$D051AAF0 00000000
+$1051AAF0 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$E0020000 0051AA98
+$D051AAF0 00000000
+$1051AAF0 00000001
++Infinite Outs
+%Credits: Code Master
+$E0010000 0051AA98
+$1051AAF4 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$E0020000 0051AA98
+$D051AAF4 00000000
+$1051AAF4 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020000 0051AA98
+$D051AAF4 00000000
+$1051AAF4 00000001
++Always Full Count
+%Credits: Code Master
+$E0020000 0051AA98
+$1051AAE4 00000002
+$1051AAF0 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030000 0051AA98
+$1051AAE4 00000002
+$1051AAF0 00000003
+$1051AAF4 00000002
+!!
+!Unlock Team Codes:
++Horse
+%Credits: Code Master
+$005D1A87 00000001
++Pinto
+%Credits: Code Master
+$005D1A88 00000001
++Lions
+%Credits: Code Master
+$005D1A89 00000001
++Eagles
+%Credits: Code Master
+$005D1A8A 00000001
++Rodeo Clown
+%Credits: Code Master
+$005D1A8D 00000001
++Gladiator
+%Credits: Code Master
+$005D1A8E 00000001
++Bobble Head
+%Credits: Code Master
+$005D1A90 00000001
++Dolphins
+%Credits: Code Master
+$005D1A91 00000001
++Minotaur
+%Credits: Code Master
+$005D1A95 00000001
++Evil Clowns
+%Credits: Code Master
+$005D1A96 00000001
++Martians
+%Credits: Code Master
+$005D1A97 00000001
++Casey
+%Credits: Code Master
+$005D1A98 00000001
++All Teams
+%Credits: Code Master
+$005D1A87 00000001
+$405D1A88 00040001
+$01010101 00000000
+$005D1A98 00000001
+!!
+!Unlock Stadium Codes:
++Coliseum
+%Credits: Code Master
+$005D1A80 00000001
++Rocket Park
+%Credits: Code Master
+$005D1A81 00000001
++Monument Stadium
+%Credits: Code Master
+$005D1A82 00000001
++Midway Park
+%Credits: Code Master
+$005D1A83 00000001
++Empire Park
+%Credits: Code Master
+$005D1A84 00000001
++Forbidden City
+%Credits: Code Master
+$005D1A85 00000001
++Atlantis
+%Credits: Code Master
+$005D1A86 00000001
++All Stadiums
+%Credits: Code Master
+$205D1A80 01010101
+$105D1A84 00000101
+$005D1A86 00000001
+!!

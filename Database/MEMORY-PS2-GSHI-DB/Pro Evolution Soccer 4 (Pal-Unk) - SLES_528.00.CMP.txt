@@ -1,0 +1,38 @@
+^3 = NAME: Pro Evolution Soccer 4 (Pal-Unk)
+^2 = GameID: SLES-52800
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F014CDD0 0014CDD3
+!!
++Score Anywhere On The Goal Line : Hold L1
+%Credits: nolberto82
+$2094A6CC 0000182D
+$D04661E2 02310000
+$2094A6CC 24030001
+!Score Codes:
++Lots Of Funds
+%Credits: Codejunkies
+$204DA9D4 05F5E0FF
++Lots Of PES Points
+%Credits: Codejunkies
+$10D99F64 00007FFF
++Press Select+L1 Away Team Score 0
+%Credits: Codejunkies
+$D04661D4 0000FBFE
+$00BEC2C0 00000000
++Press Select+L2 Away Team Score 50
+%Credits: Codejunkies
+$D04661D4 0000FEFE
+$00BEC2C0 00000032
++Press Select+R1 For Home Team Score 0
+%Credits: Codejunkies
+$D04661D4 0000F7FE
+$00BEC128 00000000
++Press Select+R2 For Home Team Score 50
+%Credits: Codejunkies
+$D04661D4 0000FDFE
+$00BEC128 00000032
+!!
+!!
+

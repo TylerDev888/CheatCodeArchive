@@ -1,0 +1,1968 @@
+^1 = Hash: 695D96D9A534A308F382C9DFAD284438548D0442 
+^2 = GameID: SCUS_971.11
+^3 = NAME: Dark Cloud
+!Masters:
++Enable Code (MUST BE ON)
+$90116A20 0C045A30
+!!
+!Jokers:
++Joker
+$D1C749C2 0000[JOKER:PS2]
+!!
++Inf HP
+%Credits: SkillerCMP>bungholio
+$1020DF2C 00000006
++Alt) Infinite Health & Water (everyone)
+%Credits: SkillerCMP>bungholio
+$101AF996 00001000
++Inf Water
+%Credits: SkillerCMP>bungholio
+$201BEB64 461F0001
++Inf Weapon HP
+%Credits: SkillerCMP>bungholio
+$201B5F08 461FA041
++Have Dungeon Map
+%Credits: SkillerCMP>bungholio
+$201C3224 24020001
++Alt) Always Have Dungeon Map
+%Credits: SkillerCMP>bungholio
+$002A359C 00000001
++Have Dungeon Magical Crystal
+%Credits: SkillerCMP>bungholio
+$201C322C 24020001
++Alt) Always Have Dungeon Magical Crystal
+%Credits: SkillerCMP>bungholio
+$002A35A0 00000001
++Toan Status Always Stamina
+%Credits: SkillerCMP>bungholio
+$01CDD814 00000008
++Xiao Status Always Stamina
+%Credits: SkillerCMP>bungholio
+$01CDD818 00000008
++Goro Status Always Stamina
+%Credits: SkillerCMP>bungholio
+$01CDD81C 00000008
++Ruby Status Always Stamina
+%Credits: SkillerCMP>bungholio
+$01CDD820 00000008
++Ungaga Status Always Stamina
+%Credits: SkillerCMP>bungholio
+$01CDD824 00000008
++Osmond Status Always Stamina
+%Credits: SkillerCMP>bungholio
+$01CDD828 00000008
++Have All Characters
+%Credits: SkillerCMP>bungholio
+$01CD9551 00000006
++Have 100 Item Slots
+%Credits: SkillerCMP>bungholio
+$01CDD8AC 00000064
++Attachment 40 Is Always A Synth Sphere With All Special Abilities And All Stats Maxed Out
+%Credits: SkillerCMP>bungholio
+$21CE1F28 0020005A
+$11CE1F2C 00003AEA
+$21CE1F30 01000100
+$21CE1F34 01000100
+$21CE1F38 63636363
+$21CE1F3C 63636363
+$21CE1F40 63636363
+$11CE1F44 00006363
+$01CE1F46 00000063
+!Unlock All:
++Unlock All Divine Beast Cave Dungeon Levels
+%Credits: SkillerCMP>bungholio
+$01CDD80B 0000000E
++Unlock All Wise Owl Forest Dungeon Levels
+%Credits: SkillerCMP>bungholio
+$01CDD80C 00000010
++Unlock All Shipwreck Dungeon Levels
+%Credits: SkillerCMP>bungholio
+$01CDD80D 00000011
++Unlock All Sun And Moon Temple Dungeon Levels
+%Credits: SkillerCMP>bungholio
+$01CDD80E 00000011
++Unlock All Moon Sea Dungeon Levels
+%Credits: SkillerCMP>bungholio
+$01CDD80F 0000000E
++Unlock All Gallery Of Time Dungeon Levels
+%Credits: SkillerCMP>bungholio
+$01CDD810 00000017
++Demon Shaft Dungeon Levels
+%Credits: SkillerCMP>bungholio
+$01CDD811 00000063
+!!
+!Debug Menu Codes:
++Show Debug Menu In Dungeon
+%Credits: SkillerCMP>bungholio
+$01D56460 00000001
++Complete Minimap
+%Credits: SkillerCMP>bungholio
+$01D5646C 00000001
++Walk Through Everything & Run With Square{R2 + Right = Off, R2 + Up = On}
+%Credits: SkillerCMP>bungholio
+$D1C749C2 0000FDEF
+$01D56474 00000000
+$D1C749C2 0000FDDF
+$01D56474 00000001
++Ultraman Setting
+%Credits: SkillerCMP>bungholio
+$01D564B0 0000000[MOD1]
++Dran's Feather Is Always Active
+%Credits: SkillerCMP>bungholio
+$002A35C0 00000001
++Disable Motion
+%Credits: SkillerCMP>bungholio
+$002A2478 00000001
++Destination Area Modifier (set On Joker)
+%Credits: SkillerCMP>bungholio
+$01CDD86C 00000001
+$002A1E90 0000000?
+!!
+!Attachment Slot:
+!Slot 1 Codes:
++Type
+$11CE1A48 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1A4A 0000????
++Special Abilities Modifier
+$11CE1A4C 0000????
++Attack +256
+$11CE1A50 00000100
++Endurance +256
+$11CE1A52 00000100
++Speed +256
+$11CE1A54 00000100
++Magical Power +256
+$11CE1A56 00000100
++Fire +99
+$01CE1A58 00000063
++Ice +99
+$01CE1A59 00000063
++Thunder +99
+$01CE1A5A 00000063
++Wind +99
+$01CE1A5B 00000063
++Holy +99
+$01CE1A5C 00000063
++Anti-Dragon +99
+$01CE1A5D 00000063
++Anti-Undead +99
+$01CE1A5E 00000063
++Anti-Marine +99
+$01CE1A5F 00000063
++Anti-Rock +99
+$01CE1A60 00000063
++Anti-Plant +99
+$01CE1A61 00000063
++Anti-Beast +99
+$01CE1A62 00000063
++Anti-Sky +99
+$01CE1A63 00000063
++Anti-Metal +99
+$01CE1A64 00000063
++Anti-Mimic +99
+$01CE1A65 00000063
++Anti-Mage +99
+$01CE1A66 00000063
+!!
+!Slot 2 Codes:
++Type
+$11CE1A68 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1A6A 0000????
++Special Abilities Modifier
+$11CE1A6C 0000????
++Attack +256
+$11CE1A70 00000100
++Endurance +256
+$11CE1A72 00000100
++Speed +256
+$11CE1A74 00000100
++Magical Power +256
+$11CE1A76 00000100
++Fire +99
+$01CE1A78 00000063
++Ice +99
+$01CE1A79 00000063
++Thunder +99
+$01CE1A7A 00000063
++Wind +99
+$01CE1A7B 00000063
++Holy +99
+$01CE1A7C 00000063
++Anti-Dragon +99
+$01CE1A7D 00000063
++Anti-Undead +99
+$01CE1A7E 00000063
++Anti-Marine +99
+$01CE1A7F 00000063
++Anti-Rock +99
+$01CE1A80 00000063
++Anti-Plant +99
+$01CE1A81 00000063
++Anti-Beast +99
+$01CE1A82 00000063
++Anti-Sky +99
+$01CE1A83 00000063
++Anti-Metal +99
+$01CE1A84 00000063
++Anti-Mimic +99
+$01CE1A85 00000063
++Anti-Mage +99
+$01CE1A86 00000063
+!!
+!Slot 3 Codes:
++Type
+$11CE1A88 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1A8A 0000????
++Special Abilities Modifier
+$11CE1A8C 0000????
++Attack +256
+$11CE1A90 00000100
++Endurance +256
+$11CE1A92 00000100
++Speed +256
+$11CE1A94 00000100
++Magical Power +256
+$11CE1A96 00000100
++Fire +99
+$01CE1A98 00000063
++Ice +99
+$01CE1A99 00000063
++Thunder +99
+$01CE1A9A 00000063
++Wind +99
+$01CE1A9B 00000063
++Holy +99
+$01CE1A9C 00000063
++Anti-Dragon +99
+$01CE1A9D 00000063
++Anti-Undead +99
+$01CE1A9E 00000063
++Anti-Marine +99
+$01CE1A9F 00000063
++Anti-Rock +99
+$01CE1AA0 00000063
++Anti-Plant +99
+$01CE1AA1 00000063
++Anti-Beast +99
+$01CE1AA2 00000063
++Anti-Sky +99
+$01CE1AA3 00000063
++Anti-Metal +99
+$01CE1AA4 00000063
++Anti-Mimic +99
+$01CE1AA5 00000063
++Anti-Mage +99
+$01CE1AA6 00000063
+!!
+!Slot 4 Codes:
++Type
+$11CE1AA8 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1AAA 0000????
++Special Abilities Modifier
+$11CE1AAC 0000????
++Attack +256
+$11CE1AB0 00000100
++Endurance +256
+$11CE1AB2 00000100
++Speed +256
+$11CE1AB4 00000100
++Magical Power +256
+$11CE1AB6 00000100
++Fire +99
+$01CE1AB8 00000063
++Ice +99
+$01CE1AB9 00000063
++Thunder +99
+$01CE1ABA 00000063
++Wind +99
+$01CE1ABB 00000063
++Holy +99
+$01CE1ABC 00000063
++Anti-Dragon +99
+$01CE1ABD 00000063
++Anti-Undead +99
+$01CE1ABE 00000063
++Anti-Marine +99
+$01CE1ABF 00000063
++Anti-Rock +99
+$01CE1AC0 00000063
++Anti-Plant +99
+$01CE1AC1 00000063
++Anti-Beast +99
+$01CE1AC2 00000063
++Anti-Sky +99
+$01CE1AC3 00000063
++Anti-Metal +99
+$01CE1AC4 00000063
++Anti-Mimic +99
+$01CE1AC5 00000063
++Anti-Mage +99
+$01CE1AC6 00000063
+!!
+!Slot 5 Codes:
++Type
+$11CE1AC8 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1ACA 0000????
++Special Abilities Modifier
+$11CE1ACC 0000????
++Attack +256
+$11CE1AD0 00000100
++Endurance +256
+$11CE1AD2 00000100
++Speed +256
+$11CE1AD4 00000100
++Magical Power +256
+$11CE1AD6 00000100
++Fire +99
+$01CE1AD8 00000063
++Ice +99
+$01CE1AD9 00000063
++Thunder +99
+$01CE1ADA 00000063
++Wind +99
+$01CE1ADB 00000063
++Holy +99
+$01CE1ADC 00000063
++Anti-Dragon +99
+$01CE1ADD 00000063
++Anti-Undead +99
+$01CE1ADE 00000063
++Anti-Marine +99
+$01CE1ADF 00000063
++Anti-Rock +99
+$01CE1AE0 00000063
++Anti-Plant +99
+$01CE1AE1 00000063
++Anti-Beast +99
+$01CE1AE2 00000063
++Anti-Sky +99
+$01CE1AE3 00000063
++Anti-Metal +99
+$01CE1AE4 00000063
++Anti-Mimic +99
+$01CE1AE5 00000063
++Anti-Mage +99
+$01CE1AE6 00000063
+!!
+!Slot 6 Codes:
++Type
+$11CE1AE8 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1AEA 0000????
++Special Abilities Modifier
+$11CE1AEC 0000????
++Attack +256
+$11CE1AF0 00000100
++Endurance +256
+$11CE1AF2 00000100
++Speed +256
+$11CE1AF4 00000100
++Magical Power +256
+$11CE1AF6 00000100
++Fire +99
+$01CE1AF8 00000063
++Ice +99
+$01CE1AF9 00000063
++Thunder +99
+$01CE1AFA 00000063
++Wind +99
+$01CE1AFB 00000063
++Holy +99
+$01CE1AFC 00000063
++Anti-Dragon +99
+$01CE1AFD 00000063
++Anti-Undead +99
+$01CE1AFE 00000063
++Anti-Marine +99
+$01CE1AFF 00000063
++Anti-Rock +99
+$01CE1B00 00000063
++Anti-Plant +99
+$01CE1B01 00000063
++Anti-Beast +99
+$01CE1B02 00000063
++Anti-Sky +99
+$01CE1B03 00000063
++Anti-Metal +99
+$01CE1B04 00000063
++Anti-Mimic +99
+$01CE1B05 00000063
++Anti-Mage +99
+$01CE1B06 00000063
+!!
+!Slot 7 Codes:
++Type
+$11CE1B08 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1B0A 0000????
++Special Abilities Modifier
+$11CE1B0C 0000????
++Attack +256
+$11CE1B10 00000100
++Endurance +256
+$11CE1B12 00000100
++Speed +256
+$11CE1B14 00000100
++Magical Power +256
+$11CE1B16 00000100
++Fire +99
+$01CE1B18 00000063
++Ice +99
+$01CE1B19 00000063
++Thunder +99
+$01CE1B1A 00000063
++Wind +99
+$01CE1B1B 00000063
++Holy +99
+$01CE1B1C 00000063
++Anti-Dragon +99
+$01CE1B1D 00000063
++Anti-Undead +99
+$01CE1B1E 00000063
++Anti-Marine +99
+$01CE1B1F 00000063
++Anti-Rock +99
+$01CE1B20 00000063
++Anti-Plant +99
+$01CE1B21 00000063
++Anti-Beast +99
+$01CE1B22 00000063
++Anti-Sky +99
+$01CE1B23 00000063
++Anti-Metal +99
+$01CE1B24 00000063
++Anti-Mimic +99
+$01CE1B25 00000063
++Anti-Mage +99
+$01CE1B26 00000063
+!!
+!Slot 8 Codes:
++Type
+$11CE1B28 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1B2A 0000????
++Special Abilities Modifier
+$11CE1B2C 0000????
++Attack +256
+$11CE1B30 00000100
++Endurance +256
+$11CE1B32 00000100
++Speed +256
+$11CE1B34 00000100
++Magical Power +256
+$11CE1B36 00000100
++Fire +99
+$01CE1B38 00000063
++Ice +99
+$01CE1B39 00000063
++Thunder +99
+$01CE1B3A 00000063
++Wind +99
+$01CE1B3B 00000063
++Holy +99
+$01CE1B3C 00000063
++Anti-Dragon +99
+$01CE1B3D 00000063
++Anti-Undead +99
+$01CE1B3E 00000063
++Anti-Marine +99
+$01CE1B3F 00000063
++Anti-Rock +99
+$01CE1B40 00000063
++Anti-Plant +99
+$01CE1B41 00000063
++Anti-Beast +99
+$01CE1B42 00000063
++Anti-Sky +99
+$01CE1B43 00000063
++Anti-Metal +99
+$01CE1B44 00000063
++Anti-Mimic +99
+$01CE1B45 00000063
++Anti-Mage +99
+$01CE1B46 00000063
+!!
+!Slot 9 Codes:
++Type
+$11CE1B48 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1B4A 0000????
++Special Abilities Modifier
+$11CE1B4C 0000????
++Attack +256
+$11CE1B50 00000100
++Endurance +256
+$11CE1B52 00000100
++Speed +256
+$11CE1B54 00000100
++Magical Power +256
+$11CE1B56 00000100
++Fire +99
+$01CE1B58 00000063
++Ice +99
+$01CE1B59 00000063
++Thunder +99
+$01CE1B5A 00000063
++Wind +99
+$01CE1B5B 00000063
++Holy +99
+$01CE1B5C 00000063
++Anti-Dragon +99
+$01CE1B5D 00000063
++Anti-Undead +99
+$01CE1B5E 00000063
++Anti-Marine +99
+$01CE1B5F 00000063
++Anti-Rock +99
+$01CE1B60 00000063
++Anti-Plant +99
+$01CE1B61 00000063
++Anti-Beast +99
+$01CE1B62 00000063
++Anti-Sky +99
+$01CE1B63 00000063
++Anti-Metal +99
+$01CE1B64 00000063
++Anti-Mimic +99
+$01CE1B65 00000063
++Anti-Mage +99
+$01CE1B66 00000063
+!!
+!Slot 10 Codes:
++Type
+$11CE1B68 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1B6A 0000????
++Special Abilities Modifier
+$11CE1B6C 0000????
++Attack +256
+$11CE1B70 00000100
++Endurance +256
+$11CE1B72 00000100
++Speed +256
+$11CE1B74 00000100
++Magical Power +256
+$11CE1B76 00000100
++Fire +99
+$01CE1B78 00000063
++Ice +99
+$01CE1B79 00000063
++Thunder +99
+$01CE1B7A 00000063
++Wind +99
+$01CE1B7B 00000063
++Holy +99
+$01CE1B7C 00000063
++Anti-Dragon +99
+$01CE1B7D 00000063
++Anti-Undead +99
+$01CE1B7E 00000063
++Anti-Marine +99
+$01CE1B7F 00000063
++Anti-Rock +99
+$01CE1B80 00000063
++Anti-Plant +99
+$01CE1B81 00000063
++Anti-Beast +99
+$01CE1B82 00000063
++Anti-Sky +99
+$01CE1B83 00000063
++Anti-Metal +99
+$01CE1B84 00000063
++Anti-Mimic +99
+$01CE1B85 00000063
++Anti-Mage +99
+$01CE1B86 00000063
+!!
+!Slot 11 Codes:
++Type
+$11CE1B88 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1B8A 0000????
++Special Abilities Modifier
+$11CE1B8C 0000????
++Attack +256
+$11CE1B90 00000100
++Endurance +256
+$11CE1B92 00000100
++Speed +256
+$11CE1B94 00000100
++Magical Power +256
+$11CE1B96 00000100
++Fire +99
+$01CE1B98 00000063
++Ice +99
+$01CE1B99 00000063
++Thunder +99
+$01CE1B9A 00000063
++Wind +99
+$01CE1B9B 00000063
++Holy +99
+$01CE1B9C 00000063
++Anti-Dragon +99
+$01CE1B9D 00000063
++Anti-Undead +99
+$01CE1B9E 00000063
++Anti-Marine +99
+$01CE1B9F 00000063
++Anti-Rock +99
+$01CE1BA0 00000063
++Anti-Plant +99
+$01CE1BA1 00000063
++Anti-Beast +99
+$01CE1BA2 00000063
++Anti-Sky +99
+$01CE1BA3 00000063
++Anti-Metal +99
+$01CE1BA4 00000063
++Anti-Mimic +99
+$01CE1BA5 00000063
++Anti-Mage +99
+$01CE1BA6 00000063
+!!
+!Slot 12 Codes:
++Type
+$11CE1BA8 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1BAA 0000????
++Special Abilities Modifier
+$11CE1BAC 0000????
++Attack +256
+$11CE1BB0 00000100
++Endurance +256
+$11CE1BB2 00000100
++Speed +256
+$11CE1BB4 00000100
++Magical Power +256
+$11CE1BB6 00000100
++Fire +99
+$01CE1BB8 00000063
++Ice +99
+$01CE1BB9 00000063
++Thunder +99
+$01CE1BBA 00000063
++Wind +99
+$01CE1BBB 00000063
++Holy +99
+$01CE1BBC 00000063
++Anti-Dragon +99
+$01CE1BBD 00000063
++Anti-Undead +99
+$01CE1BBE 00000063
++Anti-Marine +99
+$01CE1BBF 00000063
++Anti-Rock +99
+$01CE1BC0 00000063
++Anti-Plant +99
+$01CE1BC1 00000063
++Anti-Beast +99
+$01CE1BC2 00000063
++Anti-Sky +99
+$01CE1BC3 00000063
++Anti-Metal +99
+$01CE1BC4 00000063
++Anti-Mimic +99
+$01CE1BC5 00000063
++Anti-Mage +99
+$01CE1BC6 00000063
+!!
+!Slot 13 Codes:
++Type
+$11CE1BC8 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1BCA 0000????
++Special Abilities Modifier
+$11CE1BCC 0000????
++Attack +256
+$11CE1BD0 00000100
++Endurance +256
+$11CE1BD2 00000100
++Speed +256
+$11CE1BD4 00000100
++Magical Power +256
+$11CE1BD6 00000100
++Fire +99
+$01CE1BD8 00000063
++Ice +99
+$01CE1BD9 00000063
++Thunder +99
+$01CE1BDA 00000063
++Wind +99
+$01CE1BDB 00000063
++Holy +99
+$01CE1BDC 00000063
++Anti-Dragon +99
+$01CE1BDD 00000063
++Anti-Undead +99
+$01CE1BDE 00000063
++Anti-Marine +99
+$01CE1BDF 00000063
++Anti-Rock +99
+$01CE1BE0 00000063
++Anti-Plant +99
+$01CE1BE1 00000063
++Anti-Beast +99
+$01CE1BE2 00000063
++Anti-Sky +99
+$01CE1BE3 00000063
++Anti-Metal +99
+$01CE1BE4 00000063
++Anti-Mimic +99
+$01CE1BE5 00000063
++Anti-Mage +99
+$01CE1BE6 00000063
+!!
+!Slot 14 Codes:
++Type
+$11CE1BE8 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1BEA 0000????
++Special Abilities Modifier
+$11CE1BEC 0000????
++Attack +256
+$11CE1BF0 00000100
++Endurance +256
+$11CE1BF2 00000100
++Speed +256
+$11CE1BF4 00000100
++Magical Power +256
+$11CE1BF6 00000100
++Fire +99
+$01CE1BF8 00000063
++Ice +99
+$01CE1BF9 00000063
++Thunder +99
+$01CE1BFA 00000063
++Wind +99
+$01CE1BFB 00000063
++Holy +99
+$01CE1BFC 00000063
++Anti-Dragon +99
+$01CE1BFD 00000063
++Anti-Undead +99
+$01CE1BFE 00000063
++Anti-Marine +99
+$01CE1BFF 00000063
++Anti-Rock +99
+$01CE1C00 00000063
++Anti-Plant +99
+$01CE1C01 00000063
++Anti-Beast +99
+$01CE1C02 00000063
++Anti-Sky +99
+$01CE1C03 00000063
++Anti-Metal +99
+$01CE1C04 00000063
++Anti-Mimic +99
+$01CE1C05 00000063
++Anti-Mage +99
+$01CE1C06 00000063
+!!
+!Slot 15 Codes:
++Type
+$11CE1C08 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1C0A 0000????
++Special Abilities Modifier
+$11CE1C0C 0000????
++Attack +256
+$11CE1C10 00000100
++Endurance +256
+$11CE1C12 00000100
++Speed +256
+$11CE1C14 00000100
++Magical Power +256
+$11CE1C16 00000100
++Fire +99
+$01CE1C18 00000063
++Ice +99
+$01CE1C19 00000063
++Thunder +99
+$01CE1C1A 00000063
++Wind +99
+$01CE1C1B 00000063
++Holy +99
+$01CE1C1C 00000063
++Anti-Dragon +99
+$01CE1C1D 00000063
++Anti-Undead +99
+$01CE1C1E 00000063
++Anti-Marine +99
+$01CE1C1F 00000063
++Anti-Rock +99
+$01CE1C20 00000063
++Anti-Plant +99
+$01CE1C21 00000063
++Anti-Beast +99
+$01CE1C22 00000063
++Anti-Sky +99
+$01CE1C23 00000063
++Anti-Metal +99
+$01CE1C24 00000063
++Anti-Mimic +99
+$01CE1C25 00000063
++Anti-Mage +99
+$01CE1C26 00000063
+!!
+!Slot 16 Codes:
++Type
+$11CE1C28 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1C2A 0000????
++Special Abilities Modifier
+$11CE1C2C 0000????
++Attack +256
+$11CE1C30 00000100
++Endurance +256
+$11CE1C32 00000100
++Speed +256
+$11CE1C34 00000100
++Magical Power +256
+$11CE1C36 00000100
++Fire +99
+$01CE1C38 00000063
++Ice +99
+$01CE1C39 00000063
++Thunder +99
+$01CE1C3A 00000063
++Wind +99
+$01CE1C3B 00000063
++Holy +99
+$01CE1C3C 00000063
++Anti-Dragon +99
+$01CE1C3D 00000063
++Anti-Undead +99
+$01CE1C3E 00000063
++Anti-Marine +99
+$01CE1C3F 00000063
++Anti-Rock +99
+$01CE1C40 00000063
++Anti-Plant +99
+$01CE1C41 00000063
++Anti-Beast +99
+$01CE1C42 00000063
++Anti-Sky +99
+$01CE1C43 00000063
++Anti-Metal +99
+$01CE1C44 00000063
++Anti-Mimic +99
+$01CE1C45 00000063
++Anti-Mage +99
+$01CE1C46 00000063
+!!
+!Slot 17 Codes:
++Type
+$11CE1C48 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1C4A 0000????
++Special Abilities Modifier
+$11CE1C4C 0000????
++Attack +256
+$11CE1C50 00000100
++Endurance +256
+$11CE1C52 00000100
++Speed +256
+$11CE1C54 00000100
++Magical Power +256
+$11CE1C56 00000100
++Fire +99
+$01CE1C58 00000063
++Ice +99
+$01CE1C59 00000063
++Thunder +99
+$01CE1C5A 00000063
++Wind +99
+$01CE1C5B 00000063
++Holy +99
+$01CE1C5C 00000063
++Anti-Dragon +99
+$01CE1C5D 00000063
++Anti-Undead +99
+$01CE1C5E 00000063
++Anti-Marine +99
+$01CE1C5F 00000063
++Anti-Rock +99
+$01CE1C60 00000063
++Anti-Plant +99
+$01CE1C61 00000063
++Anti-Beast +99
+$01CE1C62 00000063
++Anti-Sky +99
+$01CE1C63 00000063
++Anti-Metal +99
+$01CE1C64 00000063
++Anti-Mimic +99
+$01CE1C65 00000063
++Anti-Mage +99
+$01CE1C66 00000063
+!!
+!Slot 18 Codes:
++Type
+$11CE1C68 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1C6A 0000????
++Special Abilities Modifier
+$11CE1C6C 0000????
++Attack +256
+$11CE1C70 00000100
++Endurance +256
+$11CE1C72 00000100
++Speed +256
+$11CE1C74 00000100
++Magical Power +256
+$11CE1C76 00000100
++Fire +99
+$01CE1C78 00000063
++Ice +99
+$01CE1C79 00000063
++Thunder +99
+$01CE1C7A 00000063
++Wind +99
+$01CE1C7B 00000063
++Holy +99
+$01CE1C7C 00000063
++Anti-Dragon +99
+$01CE1C7D 00000063
++Anti-Undead +99
+$01CE1C7E 00000063
++Anti-Marine +99
+$01CE1C7F 00000063
++Anti-Rock +99
+$01CE1C80 00000063
++Anti-Plant +99
+$01CE1C81 00000063
++Anti-Beast +99
+$01CE1C82 00000063
++Anti-Sky +99
+$01CE1C83 00000063
++Anti-Metal +99
+$01CE1C84 00000063
++Anti-Mimic +99
+$01CE1C85 00000063
++Anti-Mage +99
+$01CE1C86 00000063
+!!
+!Slot 19 Codes:
++Type
+$11CE1C88 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1C8A 0000????
++Special Abilities Modifier
+$11CE1C8C 0000????
++Attack +256
+$11CE1C90 00000100
++Endurance +256
+$11CE1C92 00000100
++Speed +256
+$11CE1C94 00000100
++Magical Power +256
+$11CE1C96 00000100
++Fire +99
+$01CE1C98 00000063
++Ice +99
+$01CE1C99 00000063
++Thunder +99
+$01CE1C9A 00000063
++Wind +99
+$01CE1C9B 00000063
++Holy +99
+$01CE1C9C 00000063
++Anti-Dragon +99
+$01CE1C9D 00000063
++Anti-Undead +99
+$01CE1C9E 00000063
++Anti-Marine +99
+$01CE1C9F 00000063
++Anti-Rock +99
+$01CE1CA0 00000063
++Anti-Plant +99
+$01CE1CA1 00000063
++Anti-Beast +99
+$01CE1CA2 00000063
++Anti-Sky +99
+$01CE1CA3 00000063
++Anti-Metal +99
+$01CE1CA4 00000063
++Anti-Mimic +99
+$01CE1CA5 00000063
++Anti-Mage +99
+$01CE1CA6 00000063
+!!
+!Slot 20 Codes:
++Type
+$11CE1CA8 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1CAA 0000????
++Special Abilities Modifier
+$11CE1CAC 0000????
++Attack +256
+$11CE1CB0 00000100
++Endurance +256
+$11CE1CB2 00000100
++Speed +256
+$11CE1CB4 00000100
++Magical Power +256
+$11CE1CB6 00000100
++Fire +99
+$01CE1CB8 00000063
++Ice +99
+$01CE1CB9 00000063
++Thunder +99
+$01CE1CBA 00000063
++Wind +99
+$01CE1CBB 00000063
++Holy +99
+$01CE1CBC 00000063
++Anti-Dragon +99
+$01CE1CBD 00000063
++Anti-Undead +99
+$01CE1CBE 00000063
++Anti-Marine +99
+$01CE1CBF 00000063
++Anti-Rock +99
+$01CE1CC0 00000063
++Anti-Plant +99
+$01CE1CC1 00000063
++Anti-Beast +99
+$01CE1CC2 00000063
++Anti-Sky +99
+$01CE1CC3 00000063
++Anti-Metal +99
+$01CE1CC4 00000063
++Anti-Mimic +99
+$01CE1CC5 00000063
++Anti-Mage +99
+$01CE1CC6 00000063
+!!
+!Slot 21 Codes:
++Type
+$11CE1CC8 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1CCA 0000????
++Special Abilities Modifier
+$11CE1CCC 0000????
++Attack +256
+$11CE1CD0 00000100
++Endurance +256
+$11CE1CD2 00000100
++Speed +256
+$11CE1CD4 00000100
++Magical Power +256
+$11CE1CD6 00000100
++Fire +99
+$01CE1CD8 00000063
++Ice +99
+$01CE1CD9 00000063
++Thunder +99
+$01CE1CDA 00000063
++Wind +99
+$01CE1CDB 00000063
++Holy +99
+$01CE1CDC 00000063
++Anti-Dragon +99
+$01CE1CDD 00000063
++Anti-Undead +99
+$01CE1CDE 00000063
++Anti-Marine +99
+$01CE1CDF 00000063
++Anti-Rock +99
+$01CE1CE0 00000063
++Anti-Plant +99
+$01CE1CE1 00000063
++Anti-Beast +99
+$01CE1CE2 00000063
++Anti-Sky +99
+$01CE1CE3 00000063
++Anti-Metal +99
+$01CE1CE4 00000063
++Anti-Mimic +99
+$01CE1CE5 00000063
++Anti-Mage +99
+$01CE1CE6 00000063
+!!
+!Slot 22 Codes:
++Type
+$11CE1CE8 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1CEA 0000????
++Special Abilities Modifier
+$11CE1CEC 0000????
++Attack +256
+$11CE1CF0 00000100
++Endurance +256
+$11CE1CF2 00000100
++Speed +256
+$11CE1CF4 00000100
++Magical Power +256
+$11CE1CF6 00000100
++Fire +99
+$01CE1CF8 00000063
++Ice +99
+$01CE1CF9 00000063
++Thunder +99
+$01CE1CFA 00000063
++Wind +99
+$01CE1CFB 00000063
++Holy +99
+$01CE1CFC 00000063
++Anti-Dragon +99
+$01CE1CFD 00000063
++Anti-Undead +99
+$01CE1CFE 00000063
++Anti-Marine +99
+$01CE1CFF 00000063
++Anti-Rock +99
+$01CE1D00 00000063
++Anti-Plant +99
+$01CE1D01 00000063
++Anti-Beast +99
+$01CE1D02 00000063
++Anti-Sky +99
+$01CE1D03 00000063
++Anti-Metal +99
+$01CE1D04 00000063
++Anti-Mimic +99
+$01CE1D05 00000063
++Anti-Mage +99
+$01CE1D06 00000063
+!!
+!Slot 23 Codes:
++Type
+$11CE1D08 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1D0A 0000????
++Special Abilities Modifier
+$11CE1D0C 0000????
++Attack +256
+$11CE1D10 00000100
++Endurance +256
+$11CE1D12 00000100
++Speed +256
+$11CE1D14 00000100
++Magical Power +256
+$11CE1D16 00000100
++Fire +99
+$01CE1D18 00000063
++Ice +99
+$01CE1D19 00000063
++Thunder +99
+$01CE1D1A 00000063
++Wind +99
+$01CE1D1B 00000063
++Holy +99
+$01CE1D1C 00000063
++Anti-Dragon +99
+$01CE1D1D 00000063
++Anti-Undead +99
+$01CE1D1E 00000063
++Anti-Marine +99
+$01CE1D1F 00000063
++Anti-Rock +99
+$01CE1D20 00000063
++Anti-Plant +99
+$01CE1D21 00000063
++Anti-Beast +99
+$01CE1D22 00000063
++Anti-Sky +99
+$01CE1D23 00000063
++Anti-Metal +99
+$01CE1D24 00000063
++Anti-Mimic +99
+$01CE1D25 00000063
++Anti-Mage +99
+$01CE1D26 00000063
+!!
+!Slot 24 Codes:
++Type
+$11CE1D28 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1D2A 0000????
++Special Abilities Modifier
+$11CE1D2C 0000????
++Attack +256
+$11CE1D30 00000100
++Endurance +256
+$11CE1D32 00000100
++Speed +256
+$11CE1D34 00000100
++Magical Power +256
+$11CE1D36 00000100
++Fire +99
+$01CE1D38 00000063
++Ice +99
+$01CE1D39 00000063
++Thunder +99
+$01CE1D3A 00000063
++Wind +99
+$01CE1D3B 00000063
++Holy +99
+$01CE1D3C 00000063
++Anti-Dragon +99
+$01CE1D3D 00000063
++Anti-Undead +99
+$01CE1D3E 00000063
++Anti-Marine +99
+$01CE1D3F 00000063
++Anti-Rock +99
+$01CE1D40 00000063
++Anti-Plant +99
+$01CE1D41 00000063
++Anti-Beast +99
+$01CE1D42 00000063
++Anti-Sky +99
+$01CE1D43 00000063
++Anti-Metal +99
+$01CE1D44 00000063
++Anti-Mimic +99
+$01CE1D45 00000063
++Anti-Mage +99
+$01CE1D46 00000063
+!!
+!Slot 25 Codes:
++Type
+$11CE1D48 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1D4A 0000????
++Special Abilities Modifier
+$11CE1D4C 0000????
++Attack +256
+$11CE1D50 00000100
++Endurance +256
+$11CE1D52 00000100
++Speed +256
+$11CE1D54 00000100
++Magical Power +256
+$11CE1D56 00000100
++Fire +99
+$01CE1D58 00000063
++Ice +99
+$01CE1D59 00000063
++Thunder +99
+$01CE1D5A 00000063
++Wind +99
+$01CE1D5B 00000063
++Holy +99
+$01CE1D5C 00000063
++Anti-Dragon +99
+$01CE1D5D 00000063
++Anti-Undead +99
+$01CE1D5E 00000063
++Anti-Marine +99
+$01CE1D5F 00000063
++Anti-Rock +99
+$01CE1D60 00000063
++Anti-Plant +99
+$01CE1D61 00000063
++Anti-Beast +99
+$01CE1D62 00000063
++Anti-Sky +99
+$01CE1D63 00000063
++Anti-Metal +99
+$01CE1D64 00000063
++Anti-Mimic +99
+$01CE1D65 00000063
++Anti-Mage +99
+$01CE1D66 00000063
+!!
+!Slot 26 Codes:
++Type
+$11CE1D68 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1D6A 0000????
++Special Abilities Modifier
+$11CE1D6C 0000????
++Attack +256
+$11CE1D70 00000100
++Endurance +256
+$11CE1D72 00000100
++Speed +256
+$11CE1D74 00000100
++Magical Power +256
+$11CE1D76 00000100
++Fire +99
+$01CE1D78 00000063
++Ice +99
+$01CE1D79 00000063
++Thunder +99
+$01CE1D7A 00000063
++Wind +99
+$01CE1D7B 00000063
++Holy +99
+$01CE1D7C 00000063
++Anti-Dragon +99
+$01CE1D7D 00000063
++Anti-Undead +99
+$01CE1D7E 00000063
++Anti-Marine +99
+$01CE1D7F 00000063
++Anti-Rock +99
+$01CE1D80 00000063
++Anti-Plant +99
+$01CE1D81 00000063
++Anti-Beast +99
+$01CE1D82 00000063
++Anti-Sky +99
+$01CE1D83 00000063
++Anti-Metal +99
+$01CE1D84 00000063
++Anti-Mimic +99
+$01CE1D85 00000063
++Anti-Mage +99
+$01CE1D86 00000063
+!!
+!Slot 27 Codes:
++Type
+$11CE1D88 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1D8A 0000????
++Special Abilities Modifier
+$11CE1D8C 0000????
++Attack +256
+$11CE1D90 00000100
++Endurance +256
+$11CE1D92 00000100
++Speed +256
+$11CE1D94 00000100
++Magical Power +256
+$11CE1D96 00000100
++Fire +99
+$01CE1D98 00000063
++Ice +99
+$01CE1D99 00000063
++Thunder +99
+$01CE1D9A 00000063
++Wind +99
+$01CE1D9B 00000063
++Holy +99
+$01CE1D9C 00000063
++Anti-Dragon +99
+$01CE1D9D 00000063
++Anti-Undead +99
+$01CE1D9E 00000063
++Anti-Marine +99
+$01CE1D9F 00000063
++Anti-Rock +99
+$01CE1DA0 00000063
++Anti-Plant +99
+$01CE1DA1 00000063
++Anti-Beast +99
+$01CE1DA2 00000063
++Anti-Sky +99
+$01CE1DA3 00000063
++Anti-Metal +99
+$01CE1DA4 00000063
++Anti-Mimic +99
+$01CE1DA5 00000063
++Anti-Mage +99
+$01CE1DA6 00000063
+!!
+!Slot 28 Codes:
++Type
+$11CE1DA8 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1DAA 0000????
++Special Abilities Modifier
+$11CE1DAC 0000????
++Attack +256
+$11CE1DB0 00000100
++Endurance +256
+$11CE1DB2 00000100
++Speed +256
+$11CE1DB4 00000100
++Magical Power +256
+$11CE1DB6 00000100
++Fire +99
+$01CE1DB8 00000063
++Ice +99
+$01CE1DB9 00000063
++Thunder +99
+$01CE1DBA 00000063
++Wind +99
+$01CE1DBB 00000063
++Holy +99
+$01CE1DBC 00000063
++Anti-Dragon +99
+$01CE1DBD 00000063
++Anti-Undead +99
+$01CE1DBE 00000063
++Anti-Marine +99
+$01CE1DBF 00000063
++Anti-Rock +99
+$01CE1DC0 00000063
++Anti-Plant +99
+$01CE1DC1 00000063
++Anti-Beast +99
+$01CE1DC2 00000063
++Anti-Sky +99
+$01CE1DC3 00000063
++Anti-Metal +99
+$01CE1DC4 00000063
++Anti-Mimic +99
+$01CE1DC5 00000063
++Anti-Mage +99
+$01CE1DC6 00000063
+!!
+!Slot 29 Codes:
++Type
+$11CE1DC8 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1DCA 0000????
++Special Abilities Modifier
+$11CE1DCC 0000????
++Attack +256
+$11CE1DD0 00000100
++Endurance +256
+$11CE1DD2 00000100
++Speed +256
+$11CE1DD4 00000100
++Magical Power +256
+$11CE1DD6 00000100
++Fire +99
+$01CE1DD8 00000063
++Ice +99
+$01CE1DD9 00000063
++Thunder +99
+$01CE1DDA 00000063
++Wind +99
+$01CE1DDB 00000063
++Holy +99
+$01CE1DDC 00000063
++Anti-Dragon +99
+$01CE1DDD 00000063
++Anti-Undead +99
+$01CE1DDE 00000063
++Anti-Marine +99
+$01CE1DDF 00000063
++Anti-Rock +99
+$01CE1DE0 00000063
++Anti-Plant +99
+$01CE1DE1 00000063
++Anti-Beast +99
+$01CE1DE2 00000063
++Anti-Sky +99
+$01CE1DE3 00000063
++Anti-Metal +99
+$01CE1DE4 00000063
++Anti-Mimic +99
+$01CE1DE5 00000063
++Anti-Mage +99
+$01CE1DE6 00000063
+!!
+!Slot 30 Codes:
++Type
+$11CE1DE8 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1DEA 0000????
++Special Abilities Modifier
+$11CE1DEC 0000????
++Attack +256
+$11CE1DF0 00000100
++Endurance +256
+$11CE1DF2 00000100
++Speed +256
+$11CE1DF4 00000100
++Magical Power +256
+$11CE1DF6 00000100
++Fire +99
+$01CE1DF8 00000063
++Ice +99
+$01CE1DF9 00000063
++Thunder +99
+$01CE1DFA 00000063
++Wind +99
+$01CE1DFB 00000063
++Holy +99
+$01CE1DFC 00000063
++Anti-Dragon +99
+$01CE1DFD 00000063
++Anti-Undead +99
+$01CE1DFE 00000063
++Anti-Marine +99
+$01CE1DFF 00000063
++Anti-Rock +99
+$01CE1E00 00000063
++Anti-Plant +99
+$01CE1E01 00000063
++Anti-Beast +99
+$01CE1E02 00000063
++Anti-Sky +99
+$01CE1E03 00000063
++Anti-Metal +99
+$01CE1E04 00000063
++Anti-Mimic +99
+$01CE1E05 00000063
++Anti-Mage +99
+$01CE1E06 00000063
+!!
+!Slot 31 Codes:
++Type
+$11CE1E08 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1E0A 0000????
++Special Abilities Modifier
+$11CE1E0C 0000????
++Attack +256
+$11CE1E10 00000100
++Endurance +256
+$11CE1E12 00000100
++Speed +256
+$11CE1E14 00000100
++Magical Power +256
+$11CE1E16 00000100
++Fire +99
+$01CE1E18 00000063
++Ice +99
+$01CE1E19 00000063
++Thunder +99
+$01CE1E1A 00000063
++Wind +99
+$01CE1E1B 00000063
++Holy +99
+$01CE1E1C 00000063
++Anti-Dragon +99
+$01CE1E1D 00000063
++Anti-Undead +99
+$01CE1E1E 00000063
++Anti-Marine +99
+$01CE1E1F 00000063
++Anti-Rock +99
+$01CE1E20 00000063
++Anti-Plant +99
+$01CE1E21 00000063
++Anti-Beast +99
+$01CE1E22 00000063
++Anti-Sky +99
+$01CE1E23 00000063
++Anti-Metal +99
+$01CE1E24 00000063
++Anti-Mimic +99
+$01CE1E25 00000063
++Anti-Mage +99
+$01CE1E26 00000063
+!!
+!Slot 32 Codes:
++Type
+$11CE1E28 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1E2A 0000????
++Special Abilities Modifier
+$11CE1E2C 0000????
++Attack +256
+$11CE1E30 00000100
++Endurance +256
+$11CE1E32 00000100
++Speed +256
+$11CE1E34 00000100
++Magical Power +256
+$11CE1E36 00000100
++Fire +99
+$01CE1E38 00000063
++Ice +99
+$01CE1E39 00000063
++Thunder +99
+$01CE1E3A 00000063
++Wind +99
+$01CE1E3B 00000063
++Holy +99
+$01CE1E3C 00000063
++Anti-Dragon +99
+$01CE1E3D 00000063
++Anti-Undead +99
+$01CE1E3E 00000063
++Anti-Marine +99
+$01CE1E3F 00000063
++Anti-Rock +99
+$01CE1E40 00000063
++Anti-Plant +99
+$01CE1E41 00000063
++Anti-Beast +99
+$01CE1E42 00000063
++Anti-Sky +99
+$01CE1E43 00000063
++Anti-Metal +99
+$01CE1E44 00000063
++Anti-Mimic +99
+$01CE1E45 00000063
++Anti-Mage +99
+$01CE1E46 00000063
+!!
+!Slot 33 Codes:
++Type
+$11CE1E48 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1E4A 0000????
++Special Abilities Modifier
+$11CE1E4C 0000????
++Attack +256
+$11CE1E50 00000100
++Endurance +256
+$11CE1E52 00000100
++Speed +256
+$11CE1E54 00000100
++Magical Power +256
+$11CE1E56 00000100
++Fire +99
+$01CE1E58 00000063
++Ice +99
+$01CE1E59 00000063
++Thunder +99
+$01CE1E5A 00000063
++Wind +99
+$01CE1E5B 00000063
++Holy +99
+$01CE1E5C 00000063
++Anti-Dragon +99
+$01CE1E5D 00000063
++Anti-Undead +99
+$01CE1E5E 00000063
++Anti-Marine +99
+$01CE1E5F 00000063
++Anti-Rock +99
+$01CE1E60 00000063
++Anti-Plant +99
+$01CE1E61 00000063
++Anti-Beast +99
+$01CE1E62 00000063
++Anti-Sky +99
+$01CE1E63 00000063
++Anti-Metal +99
+$01CE1E64 00000063
++Anti-Mimic +99
+$01CE1E65 00000063
++Anti-Mage +99
+$01CE1E66 00000063
+!!
+!Slot 34 Codes:
++Type
+$11CE1E68 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1E6A 0000????
++Special Abilities Modifier
+$11CE1E6C 0000????
++Attack +256
+$11CE1E70 00000100
++Endurance +256
+$11CE1E72 00000100
++Speed +256
+$11CE1E74 00000100
++Magical Power +256
+$11CE1E76 00000100
++Fire +99
+$01CE1E78 00000063
++Ice +99
+$01CE1E79 00000063
++Thunder +99
+$01CE1E7A 00000063
++Wind +99
+$01CE1E7B 00000063
++Holy +99
+$01CE1E7C 00000063
++Anti-Dragon +99
+$01CE1E7D 00000063
++Anti-Undead +99
+$01CE1E7E 00000063
++Anti-Marine +99
+$01CE1E7F 00000063
++Anti-Rock +99
+$01CE1E80 00000063
++Anti-Plant +99
+$01CE1E81 00000063
++Anti-Beast +99
+$01CE1E82 00000063
++Anti-Sky +99
+$01CE1E83 00000063
++Anti-Metal +99
+$01CE1E84 00000063
++Anti-Mimic +99
+$01CE1E85 00000063
++Anti-Mage +99
+$01CE1E86 00000063
+!!
+!Slot 35 Codes:
++Type
+$11CE1E88 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1E8A 0000????
++Special Abilities Modifier
+$11CE1E8C 0000????
++Attack +256
+$11CE1E90 00000100
++Endurance +256
+$11CE1E92 00000100
++Speed +256
+$11CE1E94 00000100
++Magical Power +256
+$11CE1E96 00000100
++Fire +99
+$01CE1E98 00000063
++Ice +99
+$01CE1E99 00000063
++Thunder +99
+$01CE1E9A 00000063
++Wind +99
+$01CE1E9B 00000063
++Holy +99
+$01CE1E9C 00000063
++Anti-Dragon +99
+$01CE1E9D 00000063
++Anti-Undead +99
+$01CE1E9E 00000063
++Anti-Marine +99
+$01CE1E9F 00000063
++Anti-Rock +99
+$01CE1EA0 00000063
++Anti-Plant +99
+$01CE1EA1 00000063
++Anti-Beast +99
+$01CE1EA2 00000063
++Anti-Sky +99
+$01CE1EA3 00000063
++Anti-Metal +99
+$01CE1EA4 00000063
++Anti-Mimic +99
+$01CE1EA5 00000063
++Anti-Mage +99
+$01CE1EA6 00000063
+!!
+!Slot 36 Codes:
++Type
+$11CE1EA8 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1EAA 0000????
++Special Abilities Modifier
+$11CE1EAC 0000????
++Attack +256
+$11CE1EB0 00000100
++Endurance +256
+$11CE1EB2 00000100
++Speed +256
+$11CE1EB4 00000100
++Magical Power +256
+$11CE1EB6 00000100
++Fire +99
+$01CE1EB8 00000063
++Ice +99
+$01CE1EB9 00000063
++Thunder +99
+$01CE1EBA 00000063
++Wind +99
+$01CE1EBB 00000063
++Holy +99
+$01CE1EBC 00000063
++Anti-Dragon +99
+$01CE1EBD 00000063
++Anti-Undead +99
+$01CE1EBE 00000063
++Anti-Marine +99
+$01CE1EBF 00000063
++Anti-Rock +99
+$01CE1EC0 00000063
++Anti-Plant +99
+$01CE1EC1 00000063
++Anti-Beast +99
+$01CE1EC2 00000063
++Anti-Sky +99
+$01CE1EC3 00000063
++Anti-Metal +99
+$01CE1EC4 00000063
++Anti-Mimic +99
+$01CE1EC5 00000063
++Anti-Mage +99
+$01CE1EC6 00000063
+!!
+!Slot 37 Codes:
++Type
+$11CE1EC8 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1ECA 0000????
++Special Abilities Modifier
+$11CE1ECC 0000????
++Attack +256
+$11CE1ED0 00000100
++Endurance +256
+$11CE1ED2 00000100
++Speed +256
+$11CE1ED4 00000100
++Magical Power +256
+$11CE1ED6 00000100
++Fire +99
+$01CE1ED8 00000063
++Ice +99
+$01CE1ED9 00000063
++Thunder +99
+$01CE1EDA 00000063
++Wind +99
+$01CE1EDB 00000063
++Holy +99
+$01CE1EDC 00000063
++Anti-Dragon +99
+$01CE1EDD 00000063
++Anti-Undead +99
+$01CE1EDE 00000063
++Anti-Marine +99
+$01CE1EDF 00000063
++Anti-Rock +99
+$01CE1EE0 00000063
++Anti-Plant +99
+$01CE1EE1 00000063
++Anti-Beast +99
+$01CE1EE2 00000063
++Anti-Sky +99
+$01CE1EE3 00000063
++Anti-Metal +99
+$01CE1EE4 00000063
++Anti-Mimic +99
+$01CE1EE5 00000063
++Anti-Mage +99
+$01CE1EE6 00000063
+!!
+!Slot 38 Codes:
++Type
+$11CE1EE8 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1EEA 0000????
++Special Abilities Modifier
+$11CE1EEC 0000????
++Attack +256
+$11CE1EF0 00000100
++Endurance +256
+$11CE1EF2 00000100
++Speed +256
+$11CE1EF4 00000100
++Magical Power +256
+$11CE1EF6 00000100
++Fire +99
+$01CE1EF8 00000063
++Ice +99
+$01CE1EF9 00000063
++Thunder +99
+$01CE1EFA 00000063
++Wind +99
+$01CE1EFB 00000063
++Holy +99
+$01CE1EFC 00000063
++Anti-Dragon +99
+$01CE1EFD 00000063
++Anti-Undead +99
+$01CE1EFE 00000063
++Anti-Marine +99
+$01CE1EFF 00000063
++Anti-Rock +99
+$01CE1F00 00000063
++Anti-Plant +99
+$01CE1F01 00000063
++Anti-Beast +99
+$01CE1F02 00000063
++Anti-Sky +99
+$01CE1F03 00000063
++Anti-Metal +99
+$01CE1F04 00000063
++Anti-Mimic +99
+$01CE1F05 00000063
++Anti-Mage +99
+$01CE1F06 00000063
+!!
+!Slot 39 Codes:
++Type
+$11CE1F08 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1F0A 0000????
++Special Abilities Modifier
+$11CE1F0C 0000????
++Attack +256
+$11CE1F10 00000100
++Endurance +256
+$11CE1F12 00000100
++Speed +256
+$11CE1F14 00000100
++Magical Power +256
+$11CE1F16 00000100
++Fire +99
+$01CE1F18 00000063
++Ice +99
+$01CE1F19 00000063
++Thunder +99
+$01CE1F1A 00000063
++Wind +99
+$01CE1F1B 00000063
++Holy +99
+$01CE1F1C 00000063
++Anti-Dragon +99
+$01CE1F1D 00000063
++Anti-Undead +99
+$01CE1F1E 00000063
++Anti-Marine +99
+$01CE1F1F 00000063
++Anti-Rock +99
+$01CE1F20 00000063
++Anti-Plant +99
+$01CE1F21 00000063
++Anti-Beast +99
+$01CE1F22 00000063
++Anti-Sky +99
+$01CE1F23 00000063
++Anti-Metal +99
+$01CE1F24 00000063
++Anti-Mimic +99
+$01CE1F25 00000063
++Anti-Mage +99
+$01CE1F26 00000063
+!!
+!Slot 40 Codes:
++Type
+$11CE1F28 0000????
++Synth Sphere Weapon Type{Only Works For Synthspheres}
+$11CE1F2A 0000????
++Special Abilities Modifier
+$11CE1F2C 0000????
++Attack +256
+$11CE1F30 00000100
++Endurance +256
+$11CE1F32 00000100
++Speed +256
+$11CE1F34 00000100
++Magical Power +256
+$11CE1F36 00000100
++Fire +99
+$01CE1F38 00000063
++Ice +99
+$01CE1F39 00000063
++Thunder +99
+$01CE1F3A 00000063
++Wind +99
+$01CE1F3B 00000063
++Holy +99
+$01CE1F3C 00000063
++Anti-Dragon +99
+$01CE1F3D 00000063
++Anti-Undead +99
+$01CE1F3E 00000063
++Anti-Marine +99
+$01CE1F3F 00000063
++Anti-Rock +99
+$01CE1F40 00000063
++Anti-Plant +99
+$01CE1F41 00000063
++Anti-Beast +99
+$01CE1F42 00000063
++Anti-Sky +99
+$01CE1F43 00000063
++Anti-Metal +99
+$01CE1F44 00000063
++Anti-Mimic +99
+$01CE1F45 00000063
++Anti-Mage +99
+$01CE1F46 00000063
+!!
+!!
+^6 = MODS:
+[MOD1]
+0	Human (default). You take damage like you normally do.
+1	Superman. All of your characters take no damage from anything.
+2	Ultraman. All of your characters take no damage from anything, and are invincible. All attacks go through you and nothing can interrupt you in any way. Use this.
+[/MOD1]

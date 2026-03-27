@@ -1,0 +1,564 @@
+^3 = NAME: Robot Warlords (PAL-E)
+^2 = GameID: SLES-50136
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F028FEF4 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F028FE90 002B6AF7
++(M) Must Be On
+%Credits: Codejunkies
+$F02B6AF4 002B6AF7
+!!
+!Akira Kawashima:
++Body
+%Credits: InterAct
+$30B1A4EB 64DA2ADB
++Left Arm
+%Credits: InterAct
+$30B1A4F3 64DA2ADB
++Legs
+%Credits: InterAct
+$30B1A4F7 64DA2ADB
++Max Move
+%Credits: InterAct
+$30B1A4FB 64DA2ADB
++Right Arm
+%Credits: InterAct
+$30B1A4EF 64DA2ADB
+!!
+!Akira Kawashima Codes:
++Body
+%Credits: Codejunkies
+$102EF940 000001F4
++Left Arm
+%Credits: Codejunkies
+$102EF948 000001F4
++Legs
+%Credits: Codejunkies
+$102EF94C 000001F4
++Max Level
+%Credits: Codejunkies
+$102EF8A4 0000001E
++Max Move
+%Credits: Codejunkies
+$102EF950 000001F4
++Right Arm
+%Credits: Codejunkies
+$102EF944 000001F4
+!!
++Akira Kawashima: Body
+%Credits: Codejunkies
+$30B1A4EB 64DA2AC5
++Akira Kawashima: Left Arm
+%Credits: Codejunkies
+$30B1A4F3 64DA2AC5
++Akira Kawashima: Legs
+%Credits: Codejunkies
+$30B1A4F7 64DA2AC5
++Akira Kawashima: Max Level
+%Credits: Codejunkies
+$30B1A54F 64DA298F
++Akira Kawashima: Max Move
+%Credits: Codejunkies
+$30B1A4FB 64DA2AC5
++Akira Kawashima: Right Arm
+%Credits: Codejunkies
+$30B1A4EF 64DA2AC5
++Always Turn 1
+%Credits: InterAct
+$3130A56F 64D929D4
++Always Turn 2
+%Credits: Codejunkies
+$D03A3108 00000002
+$103A3108 00000001
++Always Turn 2
+%Credits: Codejunkies
+$F0A6DCB3 64DA29DB
+$30A5DCB3 64DA29D4
+!Enemy 1 Codes:
++0 HP Body
+%Credits: Codejunkies
+$102F7C08 00000000
++0 HP L Arm
+%Credits: Codejunkies
+$102F7C10 00000000
++0 HP Legs
+%Credits: Codejunkies
+$102F7C14 00000000
++0 HP R Arm
+%Credits: Codejunkies
+$102F7C0C 00000000
+!!
++Enemy 1-0Hp Body
+%Credits: Codejunkies
+$30B229B3 64DA29E9
++Enemy 1-0Hp L Arm
+%Credits: Codejunkies
+$30B229BB 64DA29E9
++Enemy 1-0Hp R Arm
+%Credits: Codejunkies
+$30B229B7 64DA29E9
++Enemy 1-1Hp Legs
+%Credits: Codejunkies
+$30B229BF 64DA29E9
+!Enemy 2 Codes:
++0 HP Body
+%Credits: Codejunkies
+$102F7B30 00000000
++0 HP L Arm
+%Credits: Codejunkies
+$102F7B38 00000000
++0 HP Legs
+%Credits: Codejunkies
+$102F7B3C 00000000
++0 HP R Arm
+%Credits: Codejunkies
+$102F7B34 00000000
+!!
++Enemy 2-0Hp Body
+%Credits: Codejunkies
+$30B226DB 64DA29E9
++Enemy 2-0Hp L.Arm
+%Credits: Codejunkies
+$30B226E3 64DA29E9
++Enemy 2-0Hp Legs
+%Credits: Codejunkies
+$30B226E7 64DA29E9
++Enemy 2-0Hp R.Arm
+%Credits: Codejunkies
+$30B226DF 64DA29E9
+!Enemy 3 Codes:
++0 HP Body
+%Credits: Codejunkies
+$102F7A58 00000000
++0 HP L Arm
+%Credits: Codejunkies
+$102F7A60 00000000
++0 HP Legs
+%Credits: Codejunkies
+$102F7A64 00000000
++0 HP R Arm
+%Credits: Codejunkies
+$102F7A5C 00000000
+!!
++Enemy 3-0Hp Body
+%Credits: Codejunkies
+$30B22703 64DA29E9
++Enemy 3-0Hp L Arm
+%Credits: Codejunkies
+$30B2270B 64DA29E9
++Enemy 3-0Hp Legs
+%Credits: Codejunkies
+$30B2270F 64DA29E9
++Enemy 3-0Hp R Arm
+%Credits: Codejunkies
+$30B22707 64DA29E9
+!Enemy 4 Codes:
++0 HP Body
+%Credits: Codejunkies
+$102F7980 00000000
++0 HP L Arm
+%Credits: Codejunkies
+$102F7988 00000000
++0 HP Legs
+%Credits: Codejunkies
+$102F798C 00000000
++0 HP R Arm
+%Credits: Codejunkies
+$102F7984 00000000
+!!
++Enemy 4-0Hp Body
+%Credits: Codejunkies
+$30B2242B 64DA29E9
++Enemy 4-0Hp Larm
+%Credits: Codejunkies
+$30B22433 64DA29E9
++Enemy 4-0Hp Legs
+%Credits: Codejunkies
+$30B22437 64DA29E9
++Enemy 4-0Hp R Arm
+%Credits: Codejunkies
+$30B2242F 64DA29E9
+!Enemy 5 Codes:
++0 HP Body
+%Credits: Codejunkies
+$102F7CE0 00000000
++0 HP L Arm
+%Credits: Codejunkies
+$102F7CE8 00000000
++0 HP Legs
+%Credits: Codejunkies
+$102F7CEC 00000000
++0 HP R Arm
+%Credits: Codejunkies
+$102F7CE4 00000000
+!!
++Enemy 5-0Hp Body
+%Credits: Codejunkies
+$30B2298B 64DA29E9
++Enemy 5-0Hp L Arm
+%Credits: Codejunkies
+$30B22993 64DA29E9
++Enemy 5-0Hp Legs
+%Credits: Codejunkies
+$30B22997 64DA29E9
++Enemy 5-0Hp R Arm
+%Credits: Codejunkies
+$30B2298F 64DA29E9
+!Enemy 6 Codes:
++0 HP Body
+%Credits: Codejunkies
+$102F7DB8 00000000
++0 HP L Arm
+%Credits: Codejunkies
+$102F7DC0 00000000
++0 HP Legs
+%Credits: Codejunkies
+$102F7DC4 00000000
++0 HP R Arm
+%Credits: Codejunkies
+$102F7DBC 00000000
+!!
++Enemy 6-0Hp Body
+%Credits: Codejunkies
+$30B22863 64DA29E9
++Enemy 6-0Hp L Arm
+%Credits: Codejunkies
+$30B2286B 64DA29E9
++Enemy 6-0Hp Legs
+%Credits: Codejunkies
+$30B2286F 64DA29E9
++Enemy 6-0Hp R Arm
+%Credits: Codejunkies
+$30B22867 64DA29E9
+!Haoki Mori:
++Body
+%Credits: InterAct
+$30B1A7C3 64DA2ADB
++Left Arm
+%Credits: InterAct
+$30B1A7CB 64DA2ADB
++Legs
+%Credits: InterAct
+$30B1A7CF 64DA2ADB
++Max Move
+%Credits: InterAct
+$30B1A7D3 64DA29EA
++Right Arm
+%Credits: InterAct
+$30B1A7C7 64DA2ADB
+!!
++Hyper Mode (Press Select+R2 To Activate)
+%Credits: Codejunkies
+$D031EAA8 00000102
+$10371AE4 00000064
++Increase Game Speed
+%Credits: Codejunkies
+$D0371AE4 00000032
+$10371AE4 00000064
++Increase Game Speed
+%Credits: Codejunkies
+$F0B0AE3B 3C53639D
+$B0B0AE3B 3C5363CF
+!Kasumi Jonouchi:
++Body
+%Credits: InterAct
+$30B1A363 64DA2AC5
++Left Arm
+%Credits: InterAct
+$30B1A36B 64DA2AC5
++Legs
+%Credits: InterAct
+$30B1A36F 64DA2AC5
++Max Move
+%Credits: InterAct
+$30B1A373 64DA29EA
++Right Arm
+%Credits: InterAct
+$30B1A367 64DA2AC5
+!!
+!Kasumi Jonouchi Codes:
++Body
+%Credits: Codejunkies
+$102EF6B8 000001F4
++Left Arm
+%Credits: Codejunkies
+$102EF6C0 000001F4
++Legs
+%Credits: Codejunkies
+$102EF6C4 000001F4
++Max Level
+%Credits: Codejunkies
+$102EF61C 0000001E
++Max Move
+%Credits: Codejunkies
+$102EF6C8 000000FF
++Right Arm
+%Credits: Codejunkies
+$102EF6BC 000001F4
+!!
++Kasumi Jonouchi: Max Level
+%Credits: Codejunkies
+$30B1A3C7 64DA298F
+!Kazuma Saeki Codes:
++Body
+%Credits: Codejunkies
+$102EFBC8 000001F4
++Left Arm
+%Credits: Codejunkies
+$102EFBD0 000001F4
++Legs
+%Credits: Codejunkies
+$102EFBD4 000001F4
++Max Level
+%Credits: Codejunkies
+$102EFB2C 0000001E
++Max Move
+%Credits: Codejunkies
+$102EFBD8 000000FF
++Right Arm
+%Credits: Codejunkies
+$102EFBCC 000001F4
+!!
++Kazuma Saeki: Body
+%Credits: Codejunkies
+$30B1A673 64DA2AC5
++Kazuma Saeki: Left Arm
+%Credits: Codejunkies
+$30B1A67B 64DA2AC5
++Kazuma Saeki: Legs
+%Credits: Codejunkies
+$30B1A67F 64DA2AC5
++Kazuma Saeki: Max Level
+%Credits: Codejunkies
+$30B1A6D7 64DA298F
++Kazuma Saeki: Max Move
+%Credits: Codejunkies
+$30B1A683 64DA29EA
++Kazuma Saeki: Right Arm
+%Credits: Codejunkies
+$30B1A677 64DA2AC5
+!Masami Honda Codes:
++Body
+%Credits: Codejunkies
+$102EFAF0 000001F4
++Left Arm
+%Credits: Codejunkies
+$102EFAF8 000001F4
++Legs
+%Credits: Codejunkies
+$102EFAFC 000001F4
++Max Level
+%Credits: Codejunkies
+$102EFA54 0000001E
++Max Move
+%Credits: Codejunkies
+$102EFB00 000000FF
++Right Arm
+%Credits: Codejunkies
+$102EFAF4 000001F4
+!!
++Masami Honda: Body
+%Credits: Codejunkies
+$30B1A79B 64DA2AC5
++Masami Honda: Left Arm
+%Credits: Codejunkies
+$30B1A7A3 64DA2AC5
++Masami Honda: Legs
+%Credits: Codejunkies
+$30B1A7A7 64DA2AC5
++Masami Honda: Max Level
+%Credits: Codejunkies
+$30B1A7FF 64DA298F
++Masami Honda: Max Move
+%Credits: Codejunkies
+$30B1A6AB 64DA29EA
++Masami Honda: Right Arm
+%Credits: Codejunkies
+$30B1A79F 64DA2AC5
+!Naoki Mori Codes:
++Body
+%Credits: Codejunkies
+$102EFA18 000001F4
++Left Arm
+%Credits: Codejunkies
+$102EFA20 000001F4
++Legs
+%Credits: Codejunkies
+$102EFA24 000001F4
++Max Level
+%Credits: Codejunkies
+$102EF97C 0000001E
++Max Move
+%Credits: Codejunkies
+$102EFA28 000000FF
++Right Arm
+%Credits: Codejunkies
+$102EFA1C 000001F4
+!!
++Naoki Mori: Body
+%Credits: Codejunkies
+$30B1A7C3 64DA2AC5
++Naoki Mori: Left Arm
+%Credits: Codejunkies
+$30B1A7CB 64DA2AC5
++Naoki Mori: Legs
+%Credits: Codejunkies
+$30B1A7CF 64DA2AC5
++Naoki Mori: Max Level
+%Credits: Codejunkies
+$30B1A427 64DA298F
++Naoki Mori: Right Arm
+%Credits: Codejunkies
+$30B1A7C7 64DA2AC5
++Press Select+L2 For Slow Motion
+%Credits: Codejunkies
+$F0B19753 64DA2AD4
+$3EBAC78F 64DA29F9
++Press Select+R2 For Hyper Mode
+%Credits: Codejunkies
+$F0B19753 64DA2ADB
+$3EBAC78F 64DA29B5
+!Shuji Kamiyama Codes:
++Body
+%Credits: Codejunkies
+$102EF5E0 000001F4
++Left Arm
+%Credits: Codejunkies
+$102EF5E8 000001F4
++Legs
+%Credits: Codejunkies
+$102EF5EC 000001F4
++Max Level
+%Credits: Codejunkies
+$102EF544 0000001E
++Max Move
+%Credits: Codejunkies
+$102EF5F0 000000FF
++Right Arm
+%Credits: Codejunkies
+$102EF5E4 000001F4
++Weight
+%Credits: Codejunkies
+$102EF5F8 00000004
+!!
+!Shuji Karniyama:
++Body
+%Credits: InterAct
+$30B1A08B 64DA2AC5
++EXP
+%Credits: InterAct
+$30B1A0F3 64DA28EA
++Left Arm
+%Credits: InterAct
+$30B1A093 64DA2AC5
++Legs
+%Credits: InterAct
+$30B1A097 64DA2AC5
++Max Level
+%Credits: InterAct
+$30B1A0EF 64DA298F
++Max Move
+%Credits: InterAct
+$30B1A09B 64DA29EA
++Max TP
+%Credits: InterAct
+$30B1A0F7 64DA29B5
++Max TP
+%Credits: InterAct
+$30B1A0FB 64DA29B5
++Right Arm
+%Credits: InterAct
+$30B1A08F 64DA2AC5
++Weight
+%Credits: InterAct
+$30B1A0A3 64DA29D5
+!!
++Slow Motion (Press Select+L2 To Activate)
+%Credits: Codejunkies
+$D031EAA8 00000101
+$10371AE4 00000010
+!Yoko Nakatani:
++Body
+%Credits: InterAct
+$30B1A513 64DA2AC5
++Left Arm
+%Credits: InterAct
+$30B1A51B 64DA2AC5
++Legs
+%Credits: InterAct
+$30B1A51F 64DA2AC5
++Max Move
+%Credits: InterAct
+$30B1A523 64DA29EA
++Right Arm
+%Credits: InterAct
+$30B1A517 64DA2AC5
+!!
+!Yoko Nakatani Codes:
++Body
+%Credits: Codejunkies
+$102EF868 000001F4
++Left Arm
+%Credits: Codejunkies
+$102EF870 000001F4
++Legs
+%Credits: Codejunkies
+$102EF874 000001F4
++Max Level
+%Credits: Codejunkies
+$102EF7CC 0000001E
++Max Move
+%Credits: Codejunkies
+$102EF878 000000FF
++Right Arm
+%Credits: Codejunkies
+$102EF86C 000001F4
+!!
++Yoko Nakatani: Max Level
+%Credits: Codejunkies
+$30B1A277 64DA298F
+!Yuso Tokunaga:
++Body
+%Credits: InterAct
+$30B1A23B 64DA2AC5
++Left Arm
+%Credits: InterAct
+$30B1A243 64DA2AC5
++Legs
+%Credits: InterAct
+$30B1A247 64DA2AC5
++Max Move
+%Credits: InterAct
+$30B1A24B 64DA29EA
++Right Arm
+%Credits: InterAct
+$30B1A23F 64DA2AC5
+!!
+!Yuso Tokunaga Codes:
++Body
+%Credits: Codejunkies
+$102EF790 000001F4
++Left Arm
+%Credits: Codejunkies
+$102EF798 000001F4
++Legs
+%Credits: Codejunkies
+$102EF79C 000001F4
++Max Level
+%Credits: Codejunkies
+$102EF6F4 0000001E
++Max Move
+%Credits: Codejunkies
+$102EF7A0 000000FF
++Right Arm
+%Credits: Codejunkies
+$102EF794 000001F4
+!!
++Yuso Tokunaga: Max Level
+%Credits: Codejunkies
+$30B1A39F 64DA298F
+!!
+

@@ -1,0 +1,392 @@
+^1 = Hash: E1 1E E9 9B A4 35 A5 B4 92 C8 6E CB BA A6 B5 37 DD 2A BE 41
+^2 = GameID: SLUS_211.52
+^3 = NAME: Shin Megami Tensei:Digital Devil Saga II
+!Masters:
++Enable Code (MUST BE ON)
+$903680D8 0C0D9FDE
++Enable Code (MUST BE ON)
+$F034B02C 0034B02F
++Enable Code (MUST BE ON)
+$0E3C7DF2 1456E7A5
+$F034B02C 0034B02F
+!!
+!Jokers:
++Player 1 Controller
+$00476282 0000[Joker:PS22]
+!!
+!Misc Codes
+Walk On Map {Set design ?? - with this code goto config will load u to the world map where u can walk around but your like 100X your norm size .. this is just for Fun to see what the Programmers had at one point .}
+%Credits: SkillerCMP
+$2038486C 0010A438
++Save Game To Make Game Extra
+%Credits: SkillerCMP
+$0117430C 00000001
++Save Game To Make New Cycle
+%Credits: SkillerCMP
+$0117430E 00000001
++Inf Money
+%Credits: SkillerCMP
+$2117433C 0098967F
++Shop Points Max
+%Credits: SkillerCMP
+$21192954 000F423F
++Inf/All Items
+%Credits: SkillerCMP
+$41175640 001C0001
+$63636363 00000000
++Inf/All Ammo
+%Credits: SkillerCMP
+$411756E0 00050001
+$63636363 00000000
+$011756F4 00000063
+Solar Noise MOD{0 - Min, 8 - Max(Full)}
+%Credits: SkillerCMP
+$01174D41 000000[Amount:08:HEX:BIG}
++All Combos
+%Credits: SkillerCMP
+$2118B200 FFFFFFF0
+$2118B204 FFFFFFFF
+$2118B208 FFFFFFFF
+$0118B20C 000000FF
++Have All Rings
+%Credits: SkillerCMP
+$41175700 000E0001
+$05050505 00000000
+!Characters:
+!Party Leader
++Character Mod
+%Credits: SkillerCMP
+$01174D64 000000[CH]
++Inf/Max HP
+%Credits: SkillerCMP
+$11174D66 000003E7
+$11174D68 000003E7
++Inf/Max MP
+%Credits: SkillerCMP
+$11174D6A 000003E7
+$11174D6C 000003E7
++Max EXP
+%Credits: SkillerCMP
+$21174D70 0098967F
++Max Lvl
+%Credits: SkillerCMP
+$01174D74 00000063
++Max Strength
+%Credits: SkillerCMP
+$01174D76 00000063
++Max Vitality
+%Credits: SkillerCMP
+$01174D77 00000063
++Max Magic
+%Credits: SkillerCMP
+$01174D78 00000063
++Max Agility
+%Credits: SkillerCMP
+$01174D79 00000063
++Max Luck
+%Credits: SkillerCMP
+$01174D7A 00000063
+!!
+!Reserve 1:
++Character Mod
+%Credits: SkillerCMP
+$01174F28 000000[CH]
++Inf/Max HP
+%Credits: SkillerCMP
+$11174F2A 000003E7
+$11174F2C 000003E7
++Inf/Max MP
+%Credits: SkillerCMP
+$11174F2E 000003E7
+$11174F30 000003E7
++Max Exped
+%Credits: SkillerCMP
+$21174F34 0098967F
++Max Lvl
+%Credits: SkillerCMP
+$01174F38 00000063
++Max Strength
+%Credits: SkillerCMP
+$01174F3A 00000063
++Max Vitality
+%Credits: SkillerCMP
+$01174F3B 00000063
++Max Magic
+%Credits: SkillerCMP
+$01174F3C 00000063
++Max Agility
+%Credits: SkillerCMP
+$01174F3D 00000063
++Max Luck
+%Credits: SkillerCMP
+$01174F3E 00000063
+!!
+!Reserve 2:
++Character Mod
+%Credits: SkillerCMP
+$011750EC 000000[CH]
++Inf/Max HP
+%Credits: SkillerCMP
+$111751EE 000003E7
+$111751F0 000003E7
++Inf/Max MP
+%Credits: SkillerCMP
+$111751F2 000003E7
+$111751F4 000003E7
++Max Exped
+%Credits: SkillerCMP
+$211750F8 0098967F
++Max Lvl
+%Credits: SkillerCMP
+$011751FC 00000063
++Max Strength
+%Credits: SkillerCMP
+$011751FE 00000063
++Max Vitality
+%Credits: SkillerCMP
+$011751FF 00000063
++Max Magic
+%Credits: SkillerCMP
+$01175200 00000063
++Max Agility
+%Credits: SkillerCMP
+$01175201 00000063
++Max Luck
+%Credits: SkillerCMP
+$01175202 00000063
+!!
+!Reserve 3:
++Character Mod
+%Credits: SkillerCMP
+$011752B0 000000[CH]
++Inf/Max HP
+%Credits: SkillerCMP
+$111753B2 000003E7
+$111753B4 000003E7
++Inf/Max MP
+%Credits: SkillerCMP
+$111753B6 000003E7
+$111753B8 000003E7
++Max Exped
+%Credits: SkillerCMP
+$211753BC 0098967F
++Max Lvl
+%Credits: SkillerCMP
+$011753C0 00000063
++Max Strength
+%Credits: SkillerCMP
+$011753C2 00000063
++Max Vitality
+%Credits: SkillerCMP
+$011753C3 00000063
++Max Magic
+%Credits: SkillerCMP
+$011753C4 00000063
++Max Agility
+%Credits: SkillerCMP
+$011753C5 00000063
++Max Luck
+%Credits: SkillerCMP
+$011753C6 00000063
+!!
+!Reserve 4:
++Character Mod
+%Credits: SkillerCMP
+$01175474 000000[CH]
++Inf/Max HP
+%Credits: SkillerCMP
+$11175576 000003E7
+$11175578 000003E7
++Inf/Max MP
+%Credits: SkillerCMP
+$1117557A 000003E7
+$1117557C 000003E7
++Max Exped
+%Credits: SkillerCMP
+$2117557C 0098967F
++Max Lvl
+%Credits: SkillerCMP
+$01175584 00000063
++Max Strength
+%Credits: SkillerCMP
+$01175586 00000063
++Max Vitality
+%Credits: SkillerCMP
+$01175587 00000063
++Max Magic
+%Credits: SkillerCMP
+$01175588 00000063
++Max Agility
+%Credits: SkillerCMP
+$01175589 00000063
++Max Luck
+%Credits: SkillerCMP
+$0117558A 00000063
+!!
+!!
+!Battle Codes:
+!Random Battles Occur:
++Twice As Much
+%Credits: CMX
+$1011EA0C 0000000C
+$1011EA24 00000004
++3 Times As Much
+%Credits: CMX
+$1011EA0C 00000012
+$1011EA24 00000006
++4 Times As Much
+%Credits: CMX
+$1011EA0C 00000018
+$1011EA24 00000008
++5 Times As Much
+%Credits: CMX
+$1011EA0C 0000001E
+$1011EA24 0000000A
++Random Battles(l1+select To Disable, L2+select To Enable)
+%Credits: CMX
+$D0476282 0000FBFE
+$2011EA28 00000000
+$D0476282 0000FEFE
+$2011EA28 A4831444
+!!
+!In Battle Codes:
++Inf/Max MP/HP (player)
+%Credits: SkillerCMP
+$201C76B0 2406270F
+$201C76C0 A6660126
+$201C76F4 2406270F
+$201C7704 A666012A
++1hit Kills Monsters (hp1/Mp0)
+%Credits: Japan Hackers
+$201AA9D8 24030001
+$201AA9E0 24040001
+$201AA9E8 24030000
+$201AA9F0 24040000
++Never Abnormal Statis
+%Credits: Japan Hackers
+$201C7490 A660012E
+$201C749C 30047FFF
+!!
+!After Battle Codes
++Quick Money Gain After Battle
+%Credits: SkillerCMP
+$201B2244 0010[GAIN]
++Quick EXP Gain After Battle
+%Credits: SkillerCMP
+$201AD798 0011[GAIN]
++Quick Atma Gain After Battle
+%Credits: SkillerCMP
+$201B2040 0011[GAIN]
+!!
+!!
+!Movie Mod:
++Main Starting Video To ??
+%Credits: SkillerCMP
+$203E54E8 [MOVIE]
+!!
+[CH]
+VALUE>NAME
+01	Serph
+02	Sera
+03	Heat
+04	Gale
+05	Cielo
+06	Argilla
+07	Roland
+08	Seraph (secret character?)
+[/CH]
+[MOVIE]
+VALUE>NAME
+00429978	cdrom0:/movie2/e645_002.IPS
+00429998	cdrom0:/movie2/e670_001.IPS
+004299B8	cdrom0:/movie3/title.IPS(Main Starting)
+004299D8	cdrom0:/movie3/sun_all1.ipu
+004299F8	cdrom0:/movie3/ds2_logo.ipu
+00429A18	cdrom0:/movie2/dammy.ipu
+00429A38	cdrom0:/movie3/end19.ipu
+00429A58	cdrom0:/movie3/end18.ipu
+00429A78	cdrom0:/movie3/end17.ipu
+00429A98	cdrom0:/movie3/end16.ipu
+00429AB8	cdrom0:/movie/e653_003.IPS
+00429AD8	cdrom0:/movie/e653_002.IPS
+00429AF8	cdrom0:/movie/e654_001.IPS
+00429B18	cdrom0:/movie/e653_001.IPS
+00429B38	cdrom0:/movie/e652_002.IPS
+00429B58	cdrom0:/movie/e652_001.IPS
+00429B78	cdrom0:/movie/e650_003.IPS
+00429B98	cdrom0:/movie/e650_002.IPS
+00429BB8	cdrom0:/movie/e650_001.IPS
+00429BD8	cdrom0:/movie2/e619_002.IPS
+00429BF8	cdrom0:/movie/e633_001.IPS
+00429C18	cdrom0:/movie/e647_001.IPS
+00429C38	cdrom0:/movie/e631_001.IPS
+00429C58	cdrom0:/movie/e615_002.IPS
+00429C78	cdrom0:/movie/e615_001.IPS
+00429C98	cdrom0:/movie2/e616_004.IPS
+00429CB8	cdrom0:/movie/e606_002.IPS
+00429CD8	cdrom0:/movie/e606_001.IPS
+00429CF8	cdrom0:/movie/e606_001.IPS
+00429D18	cdrom0:/movie/e602_001.IPS
+00429D38	cdrom0:/movie/e636_001.IPS
+00429D58	cdrom0:/movie/e620_002.IPS
+00429D78	cdrom0:/movie/e620_001.IPS
+00429D98	cdrom0:/movie/e602_002.IPS
+00429DB8	cdrom0:/movie/e646_001.IPS
+00429DD8	cdrom0:/movie/e640_002.IPS
+00429DF8	cdrom0:/movie/e640_001.IPS
+00429E18	cdrom0:/movie2/e601_001.IPS
+00429E38	cdrom0:/movie3/g_over.IPS
+00429E58	cdrom0:/movie3/end15.ipu
+00429E78	cdrom0:/movie3/end14.ipu
+00429E98	cdrom0:/movie3/end12.ipu
+00429EB8	cdrom0:/movie3/end11.ipu
+00429ED8	cdrom0:/movie3/end10.ipu
+00429EF8	cdrom0:/movie3/end09.ipu
+00429F18	cdrom0:/movie3/end08.ipu
+00429F38	cdrom0:/movie3/end07.ipu
+00429F58	cdrom0:/movie3/end06.ipu
+00429F78	cdrom0:/movie3/end05.ipu
+00429F98	cdrom0:/movie3/end04.ipu
+00429FB8	cdrom0:/movie3/end03.ipu
+00429FD8	cdrom0:/movie3/end02.ipu
+00429FF8	cdrom0:/movie3/end01.ipu
+0042A018	cdrom0:/movie2/e651_009.IPS
+0042A038	cdrom0:/movie2/e651_008.IPS
+0042A058	cdrom0:/movie2/e651_007.IPS
+0042A078	cdrom0:/movie2/e651_006.IPS
+0042A098	cdrom0:/movie2/e651_005.IPS
+0042A0B8	cdrom0:/movie2/e651_004.IPS
+0042A0D8	cdrom0:/movie2/e651_003.IPS
+0042A0F8	cdrom0:/movie2/e651_002.IPS
+0042A118	cdrom0:/movie2/e651_001.IPS
+0042A138	cdrom0:/movie2/e642_001.ipu
+0042A158	cdrom0:/movie2/e641_003.ipu
+0042A178	cdrom0:/movie2/e641_002.ipu
+0042A198	cdrom0:/movie2/e641_001.ipu
+0042A1B8	cdrom0:/movie2/e616_002.ipu
+0042A1D8	cdrom0:/movie2/e611_002.IPS
+0042A1F8	cdrom0:/movie/e649_001.IPS
+0042A218	cdrom0:/movie/e648_001.IPS
+0042A238	cdrom0:/movie/e642_001.IPS
+0042A258	cdrom0:/movie/e641_003.IPS
+0042A278	cdrom0:/movie/e641_002.IPS
+0042A298	cdrom0:/movie/e641_001.IPS
+0042A2B8	cdrom0:/movie2/e638_001.IPS
+0042A2D8	cdrom0:/movie2/e637_001.IPS
+0042A2F8	cdrom0:/movie2/e635_001.IPS
+0042A318	cdrom0:/movie2/e619_001.IPS
+[/MOVIE]
+[GAIN]
+VALUE>NAME
+8840	X2
+8880	X4
+88C0	x8
+8900	x16
+8940	x32
+8A00	X256
+8A40	X512
+8A80	X1024
+8AC0	X2048
+8B00	X4096
+8B40	X8192
+[/GAIN]

@@ -1,0 +1,13 @@
+^2 = GameID: BLES01622
+^3 = NAME: Cartoon Network: Punch Time Explosion XL
+^5 = APCRED: From Game Genie PS3
+^4 = FILE: GDATA
++Max Points
+$2000001C 47C35000
+^4 = FILE: GAME
++Update Crc32 For Game (required)
+(set range:0x000024,0x001043)
+$set pointer:eof+1
+$set range:0x000024,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

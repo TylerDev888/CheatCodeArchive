@@ -1,0 +1,47 @@
+^2 = GameID: BLES00669
+^3 = NAME: Assassin's Creed II
+^5 = APCRED: crc checksum by Devildwarf
+^4 = FILE: OPTIONS
++Enable Auditore Crypt Uplay Map
+$00000498 00000001
++Enable Uplay Altairs Outfit
+$00000486 00000001
++Enable Uplay Knives Upgrade
+$00000474 00000001
++Enable Verizon App Store Bonus Skin
+$0000041A 00000001
++Enable Maria Thorpe Longsword
+$0000056B 00000001
++Enable Fredricks Hammer
+$0000056C 00000001
++Enable Mace Of The Bull
+$0000056D 00000001
++Enable Dark Oracle Bone Dagger
+$0000056E 00000001
++Enable Twins Rapier
+$0000056F 00000001
++Enable Boucharts Blade
+$00000570 00000001
++Update Custom Crc32 Options (required)
+$set crc_bandwidth:32
+$set crc_polynomial:0x4C11DB7
+$set crc_initial_value:0
+$set crc_output_xor:0x1BF3278A
+$set crc_reflection_input:1
+$set crc_reflection_output:1
+$set [size]:read(0x00,4)
+$set range:0x0008,[size]+7
+$set [hash]:crc
+$write at 0x0004:[hash]
+^4 = FILE: AC2_0.SAV
++Update Custom Crc32 Ac2_0.sav (required)
+$set crc_bandwidth:32
+$set crc_polynomial:0x4C11DB7
+$set crc_initial_value:0xBAE23CD0
+$set crc_output_xor:0xFFFFFFFF
+$set crc_reflection_input:1
+$set crc_reflection_output:1
+$set [size]:read(0x00,4)
+$set range:0x0008,[size]+7
+$set [hash]:crc
+$write at 0x0004:[hash]

@@ -1,0 +1,51 @@
+^1 = HASH: 2BDA8ADB
+^3 = NAME: Project-Snowblind
+^2 = GameID: SLUS_210.37
+!Masters:
++Enable Code (Must Be On) [Read Note]
+%Credits: Code Master
+$90404FD0 0C1048DB
+!!
+!Codes:
++Infinite Health
+%Credits: Code Master
+$200C0220 C6410498
+$200C0224 03E00008
+$200C0228 E6410490
+$20129F20 0C030088
++Infinite Bio-Energy
+%Credits: Code Master
+$20129F60 8E010018
+$20129F64 AE01000C
++Infinite Ammo
+%Credits: Code Master
+$2024CCDC 00000000
++Max Infinite Ammo
+%Credits: Code Master
+$2024CCD8 240503E7
++Extra Ammo
+%Credits: Code Master
+$2024CCD8 00A42821
++Never Reload-Primary Ammo
+%Credits: Code Master
+$20274234 00000000
++Never Reload-Secondary Ammo
+%Credits: Code Master
+$20275C24 00000000
++Infinite Grenades
+%Credits: Code Master
+$20266F74 00000000
++Max Infinite Grenades
+%Credits: Code Master
+$20266F70 24030063
++Extra Grenades
+%Credits: Code Master
+$10266F70 00000001
++1-Hit Death (Enemies)
+%Credits: Code Master
+$201A1380 44800000
++Halo-Legacy Controls Mode
+%Credits: Code Master
+$003FADD0 00000010
+$003FAEB4 00000012
+!!

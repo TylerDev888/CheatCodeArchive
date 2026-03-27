@@ -1,0 +1,126 @@
+^1 = HASH: D10945CE
+^3 = NAME: Reign Of Fire
+^2 = GameID: SLUS_205.56
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0012911F
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$9012911C 0C047EE0
+!!
+!Codes:
++Unlock All Levels (Unlock Dragon)
+%Credits: Code Master
+$20275AF0 FFFFFFFF
+!!
+!Human Codes:
++Always Max Primary Ammo
+%Credits: Code Master
+$201AF2E0 24060063
+$201AF2E8 AC660328
++Always Max Secondary Ammo
+%Credits: Code Master
+$201AF358 24060063
+$201AF360 AC66032C
++Infinite Primary Ammo (On-Pickup)
+%Credits: Code Master
+$201DC194 00000000
++Extra Primary Ammo (On-Pickup)
+%Credits: Code Master
+$101DC18C 00000001
++Infinite Secondary Ammo (On-Pickup)
+%Credits: Code Master
+$201DC514 00000000
++Extra Secondary Ammo (On-Pickup)
+%Credits: Code Master
+$101DC510 00000001
++Infinite Health
+%Credits: Code Master
+$201D6FB4 3C014448
+$201D6FB8 03E00008
+$201D6FBC AC81008C
+!!
+!Dragon Codes:
++Infinite Napalm Breath
+%Credits: Code Master
+$201CFC48 00000000
++Infinite Fireball
+%Credits: Code Master
+$201CFDB4 00000000
+$201CFF64 00000000
++Infinite Stamina
+%Credits: Code Master
+$201D2B0C 00000000
+$201D462C 00000000
++Infinite Health
+%Credits: Code Master
+$201CD210 3C014516
+$201CD214 03E00008
+$201CD218 AC81008C
+!!
+!Have Human Award Modifier Codes:
++Basic Training
+%Credits: Code Master
+$00275BFD 000000??
++Into The Breach
+%Credits: Code Master
+$00275BFE 000000??
++Fallen Angels
+%Credits: Code Master
+$00275BFF 000000??
++Firefight
+%Credits: Code Master
+$00275C00 000000??
++Storm Front
+%Credits: Code Master
+$00275C01 000000??
++Origin Of Species
+%Credits: Code Master
+$00275C02 000000??
++London's Burning
+%Credits: Code Master
+$00275C03 000000??
++Bullfight
+%Credits: Code Master
+$00275C04 000000??
++Ashes To Ashes
+%Credits: Code Master
+$00275C06 000000??
+!!
+!Have Dragon Award Modifier Codes:
++Proving Grounds
+%Credits: Code Master
+$00275C07 000000??
++The Tower
+%Credits: Code Master
+$00275C08 000000??
++Terminus
+%Credits: Code Master
+$00275C09 000000??
++Retribution
+%Credits: Code Master
+$00275C0A 000000??
++Slipping The Net
+%Credits: Code Master
+$00275C0B 000000??
++Bitter Harvest
+%Credits: Code Master
+$00275C0C 000000??
++Apocalypse
+%Credits: Code Master
+$00275C0D 000000??
+!!
+^6 = MODS:
+Quantity Digits to Accompany Human Award Modifier Codes
+00 - No Award
+01 - Bronze
+02 - Silver
+03 - Gold
+04 - Platinum
+Quantity Digits to Accompany Dragon Award Modifier Codes
+00 - No Award
+01 - Flame
+02 - Blaze
+03 - Inferno
+04 - Firestorm

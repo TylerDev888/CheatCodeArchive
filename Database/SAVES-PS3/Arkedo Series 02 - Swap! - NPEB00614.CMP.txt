@@ -1,0 +1,7 @@
+^2 = GameID: NPEB00614
+^3 = NAME: ARKEDO SERIES - 02 SWAP!
+^4 = FILE: DATA0
++Eary Highscore 65535(by Me)
+$write at 0x0000000E:0xFFFF
++Eary Highscore 65535(new Code By Dark_nacho_xd)
+$1000000E 0000FFFF

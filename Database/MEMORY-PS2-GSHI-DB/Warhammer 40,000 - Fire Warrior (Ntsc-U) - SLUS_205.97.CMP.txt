@@ -1,0 +1,130 @@
+^3 = NAME: Warhammer 40,000 - Fire Warrior (Ntsc-U)
+^2 = GameID: SLUS-20597
+!Master Codes:
++(M) Must Be On {<I>Use This (M) Code To Start The Game With Infinite Health And Ammo.</I>}
+%Credits: Codejunkies
+$40110258 017D0001
+$00000000 00000000
+$1011084C 00000000
+$0011084E 00000000
+$20110258 03E00008
+$40116D40 00060001
+$00000000 00000000
+$10116D58 00000000
+$00116D5A 00000000
+$20116D4C 0C044098
+$20110260 3C03200F
+$20110264 8C65FFF8
+$20110268 24040079
+$2011026C 24030074
+$20110270 0000000C
+$20110274 3C030011
+$20110278 03E00008
+$2011027C AC606D4C
+$20110844 08048A96
+$201306DC 0C0440A0
+$2011025C 00000000
+$20110848 00000000
+$2018F7EC 24050004
+$201E5C8C 24040002
+$201E5A24 24040002
++Enable Code (Must Be On)
+%Credits: Code Master
+$901A1364 0C06B5A6
++Enable Code (Must Be On)
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$F0100008 001306DF
+!!
+!Activate Cheat Codes:
++1-Hit Kills
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$1018F596 00001000
++Flipy (Inverted Controller)
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$20198A08 00000000
++Infinite Ammo
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$101E5A32 00001000
+$101E5C9A 00001000
+$1020229E 00001000
++Invulnerable
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$10189D26 00001000
+$1018F7FA 00001000
+!!
++Activate Cheat Modifier {<I>02 - Infinite Ammo<Br>04 - Invunerable<Br>08 - 1 Hit Kill<Br>20 - Flipy</I>}
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$20406990 000000??
+!Alternate Activate Cheat Codes (Version 7.0 Or Higher Needed!):
++1 Hit Kill
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$70406990 00000008
++Flipy
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$70406990 00000020
++Infinite Ammo
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$70406990 00000002
++Invunerable
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$70406990 00000004
+!!
++Disable FMV
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$2010C880 24020001
++Infinite Ammo (No Reload)
+%Credits: MadCatz
+$200C2020 AC8301A0
+$200C2024 24010063
+$200C2028 03E00008
+$200C202C AC810164
+$201E5260 0C030808
++Infinite Grenades
+%Credits: MadCatz
+$200C2030 24020008
+$200C2034 AC6201D8
+$200C2038 03E00008
+$200C203C AE020024
+$2028F914 0C03080C
++Infinite Health
+%Credits: MadCatz
+$200C2000 8C6401CC
+$200C2004 03E00008
+$200C2008 AC6401C8
+$2018B21C 0C030800
++Infinite Health
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$2018B23C 8E010000
+$2018B240 24020063
+$2018B250 AC2201C8
++Infinite Night Vision
+%Credits: MadCatz
+$202379A0 24003634
++Infinite Shield
+%Credits: MadCatz
+$2018B348 E60100C0
+$2018B34C 46011043
++Max Ammo (All Weapons)
+%Credits: MadCatz
+$2018E348 00620821
+$2018E34C 240203E7
+$2018E350 AC220000
++Max Ammo Clips
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$2018E34C 240203E7
++M] Must Be On
+%Credits: MadCatz
+$90133DD0 0C05D770
++NTSC 2 PAL
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$20102650 24120003
++X Fix2
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$10102A18 00000???
+$10102ACC 00000???
++Y Fix2
+%Credits: GameMasterZer0>CMX>Lajos Szalay
+$00102A14 000000??
+$00102AC8 000000??
+!!
+

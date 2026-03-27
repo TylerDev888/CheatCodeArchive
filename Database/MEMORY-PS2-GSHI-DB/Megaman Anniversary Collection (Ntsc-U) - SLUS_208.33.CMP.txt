@@ -1,0 +1,814 @@
+^3 = NAME: Megaman Anniversary Collection (Ntsc-U)
+^2 = GameID: SLUS-20833
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0148DC0 00148DC3
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00148DC3
++[M] Must Be On {<I>If You Have The Invincibility And Infinite Health Codes On For Megaman 7 In The Megaman Anniversary Collection PS2 Game, There Are Some Things You Should Know:   1. It Makes Megaman Blink (Of Course), So You Need To Watch Yourself, Especially As You Jump.   2. For Some Reason (With My Version Of The Game, Anyway) Having Either The Invincibility And/Or Infinite Health Codes Enabled Causes Unusual Effects With The Rush Adaptors.   Here&#39;S The Bad News: The Codes Together (Or Maybe Just The Invincibility Code by itself) causes the Rush Coil to not work properly. Rush will teleport down, but when you jump on his back, the spring part doesn&#39;t work, so you don&#39;t bounce up. You can still use him as a stepstool of sorts. When he teleports down, just jump on his back and then jump up to where you&#39;re trying to get to from there, but since the spring part doesn&#39;t work, the jumps are much lower, but the upside of this is that the Rush Coil energy doesn&#39;t get used up at all. That&#39;s the bad news.   Here&#39;s the good news: Though the Rush Coil adaptor doesn&#39;t work properly, the Rush Jet and Rush Search adaptors seem to be invincible (If you don&#39;t know why I&#39;m bringing this up, here&#39;s why: For those of us who have the original SNES Mega Man 7 game, you know that if you try to use Rush Jet or Rush Search in any spot in the game, if Rush gets hit by a bullet or any other projectile, Rush will recoil in pain and he will disappear, which if you&#39;re using the Jet can leave you to die if you&#39;re over a pit.) Anyway, either because of the codes (or maybe Capcom changed this for the Megaman Anniversary Collection disc, I don&#39;t know.), the Rush Jet and Search adaptors don&#39;t seem to either get hit by projectiles at all, or if they are, they don&#39;t recoil. This is a very cool side effect, and makes it a LOT easier to get over that stupid pit in the first Wily castle level with all those &quot;cars&quot; on the broken tracks (for lack of a better term) that spin around when the track becomes empty (those of you who play this know exactly what I&#39;m talking about!). Just position the Jet at the last platform before the pit, jump on Rush, navigate towards the top of the screen, and fly across. This, to me, is worth losing the Coil for, and you can use the Jet (once you get it) to get to those high-up places.   Another thing: If you use the Invincibility code for MM7 in the MMAC game, there are some things you should know:   1. The good news: You CAN walk on both spikes and the lava (and not fall in) in Junk Man&#39;s level (that&#39;s right, I said LAVA!!) and not die.   2. The bad news: Since you are invincible, there are certain areas that you must be careful in, or you will get stuck (it&#39;s happened to me twice between 2 playings of MM7).   The first area is in Turboman&#39;s level. Once you get to the area where the fire beams shoot across the screen (similar to Quickman&#39;s level in MM2), you must get down to the bottom quickly and not get stuck between the fire beams, because (at least in my game), you will get stuck on top of the beam and won&#39;t be able to go down any further, and you must get to the bottom to get to the next part of the level, so you won&#39;t be able to complete it and will have to go back to the title screen and restart from the password that&#39;s saved on the memory card (As for me, I got stuck on top of the first beam, which goes across but doesn&#39;t retract, as do all of them, I think) and just ended up walking back and forth (because of the invincibility code) on top of the beam, unable to finish the level, and I had to exit and restart Turboman&#39;s level.   The second area I ran into this problem is in the third Wily castle level, the one where you have 2 paths you can take to get to the boss. I took the upper path the first time, and I got through it with no problems at all, so I decided to take the lower path the second time - Big Mistake!! This is because after you fight the sea creature in the midboss room, after he dies you rise up in the water, just like in Burstman&#39;s level. Anyway, there are sets of spikes ahead of you as you go up. There is one set on the left hand side of the screen that looks like an inverted U. Usually, without the invincibility code, if you hit the spikes you just die, but with it on, you get stuck in that set of spikes, and I couldn&#39;t get back down lower in the water to navigate around it (and believe me, I tried everything I could think of, but to no avail, so I again had to exit and restart at the first castle level, which greatly frustrated me.) So the point of this one is, if you take the bottom path, you need to know how the spiked rows are arranged before you go in, so you don&#39;t end up getting stuck like I did.   One last thing: I entered the codes for both MM7 and MM8 into the &quot;GS&quot;/memory card setup and had them both on at the same time, and I was playing Megaman 8, and the game froze up a few times, but when I went in and deactivated the MM7 codes, the game worked fine. So, you may need to have only the codes for the specific Megaman game you want to play at that time activated, or the game may freeze, or for you it may not, it could be just with my copy.   Thanks to voltcatfish for his valuable code notes!</i>}
+%Credits: MadCatz
+$90148DE4 0C0524C2
+!!
++Classic Mode {<I>NES Version Mega Man 1-6</I>}
+%Credits: lee4
+$00196388 00000000
++Difficulty Mode {<I>0=Normal 1=Easy</I>}
+%Credits: lee4
+$0019638C 0000000?
++Game Indicator {<I>Digits 0 = Megaman 1 1 = Megaman 2 2 = Megaman 3 3 = Megaman 4 4 = Megaman 5 5 = Megaman 6 6 = Megaman 7 7 = Megaman 8 8 = Mega Man The Power Battle 9 = Mega Man 2 The Power Fighters A = Main Menu</I>}
+%Credits: lee4
+$E002000? 00495060
+!Have Rush Item Codes:
++Item 1
+%Credits: Code Master
+$0075EA0A 00000001
++Item 2
+%Credits: Code Master
+$0075EA0B 00000001
++Item 3
+%Credits: Code Master
+$0075EA0C 00000001
++Item 4
+%Credits: Code Master
+$0075EA0D 00000001
+!!
+!Have Secret Codes:
++Enable Secrets
+%Credits: MadCatz
+$202097B8 0000000D
++Have Atomic Planet Ent. Credits
+%Credits: MadCatz
+$202097F0 0000000D
++Have Homage To Mega Man
+%Credits: MadCatz
+$202097CC 00000004
++Have Mega Man Radio Cut
+%Credits: MadCatz
+$202097E0 00000009
++Have Mega Man's Drum And Bass
+%Credits: MadCatz
+$202097D0 00000005
++Have Megaman Anime Episode
+%Credits: MadCatz
+$202097EC 0000000C
++Have Picture Set 1
+%Credits: MadCatz
+$202097C0 00000001
++Have Picture Set 2
+%Credits: MadCatz
+$202097C4 00000002
++Have Picture Set 3
+%Credits: MadCatz
+$202097C8 00000003
++Have Plantman
+%Credits: MadCatz
+$202097E4 0000000A
++Have Proto Man
+%Credits: MadCatz
+$202097D4 00000006
++Have Select Jungle
+%Credits: MadCatz
+$202097DC 00000008
++Have Wily Vs Bass
+%Credits: MadCatz
+$202097E8 0000000B
++Have Wily's Revenge
+%Credits: MadCatz
+$202097D8 00000007
++Unlock Megaman 2: The Power Fighters
+%Credits: MadCatz
+$00209409 00000001
++Unlock Megaman: The Power Battle
+%Credits: MadCatz
+$00209408 00000001
+!!
+!Have Weapon Codes:
++Astro Crush
+%Credits: Code Master
+$0075E9DC 00000001
++Flame Sword
+%Credits: Code Master
+$0075E9D4 00000001
++Flash Bomb
+%Credits: Code Master
+$0075E9C0 00000001
++Homing Sniper
+%Credits: Code Master
+$0075E9D8 00000001
++Ice Wave
+%Credits: Code Master
+$0075E9C8 00000001
++Mega Ball
+%Credits: Code Master
+$0075E9BC 00000001
++Thunder Claw
+%Credits: Code Master
+$0075E9C4 00000001
++Tornado Hold
+%Credits: Code Master
+$0075E9CC 00000001
++Water Balloon
+%Credits: Code Master
+$0075E9D0 00000001
+!!
+!Infinite Ammo Codes:
++Infinite Astro Crush
+%Credits: Codejunkies
+$0075E9DF 00000001
++Infinite Flame Sword
+%Credits: Codejunkies
+$0075E9D7 00000001
++Infinite Flash Bombs
+%Credits: Codejunkies
+$0075E9C3 00000028
++Infinite Homing Sniper
+%Credits: Codejunkies
+$0075E9DB 00000001
++Infinite Ice Wave
+%Credits: Codejunkies
+$0075E9CB 00000001
++Infinite Mega Balls
+%Credits: Codejunkies
+$0075E9BF 00000028
++Infinite Thunder Claw
+%Credits: Codejunkies
+$0075E9C7 00000001
++Infinite Tornado Hold
+%Credits: Codejunkies
+$0075E9CF 00000001
++Infinite Water Balloon
+%Credits: Codejunkies
+$0075E9D3 00000001
+!!
+!Infinite Weapon Codes:
++All Weapons
+%Credits: Code Master
+$20B621E0 1B1B1B1B
+$20B621E4 1B1B1B1B
+$10B621E8 00001B1B
++Astro Crush
+%Credits: Code Master
+$0075E9DF 00000028
++B. Attack
+%Credits: Code Master
+$00B621E3 0000001B
++Beat
+%Credits: Code Master
+$00B621E9 0000001B
++Beat?
+%Credits: Code Master
+$00EC133D 0000009C
++C. Flash
+%Credits: Code Master
+$00B621E8 0000001B
++D. Wrap
+%Credits: Code Master
+$00EC1331 0000009C
++F. Blast
+%Credits: Code Master
+$00B621E4 0000001B
++Flame Sword
+%Credits: Code Master
+$0075E9D7 00000028
++Flash Bomb
+%Credits: Code Master
+$C0A67C78 A78230FE
++Freeze. C
+%Credits: Code Master
+$00EC1325 0000009C
++Homing Sniper
+%Credits: Code Master
+$0075E9DB 00000028
++Ice Wave
+%Credits: Code Master
+$0075E9CB 00000028
++J. Shield
+%Credits: Code Master
+$00EC1329 0000009C
++Knight. C
+%Credits: Code Master
+$00B621E6 0000001B
++Noise. C
+%Credits: Code Master
+$00EC132F 0000009C
++P. Shield
+%Credits: Code Master
+$00EC1335 0000009C
++Plant. B
+%Credits: Code Master
+$00B621E5 0000001B
++R. Coil
+%Credits: Code Master
+$00EC133B 0000009C
++R. Jet
+%Credits: Code Master
+$00EC1339 0000009C
++R. Search
+%Credits: Code Master
+$00EC1337 0000009C
++S. Adapt
+%Credits: Code Master
+$00EC133F 0000009C
++S. Claw
+%Credits: Code Master
+$00EC132D 0000009C
++S. Wheel
+%Credits: Code Master
+$00EC132B 0000009C
++Silver. T
+%Credits: Code Master
+$00B621E7 0000001B
++T. Bolt
+%Credits: Code Master
+$00EC1327 0000009C
++Thunder Claw
+%Credits: Code Master
+$0075E9C7 00000028
++Tornado Hold
+%Credits: Code Master
+$0075E9CF 00000028
++W. Coil
+%Credits: Code Master
+$00EC1333 0000009C
++W. Storm
+%Credits: Code Master
+$00B621E2 0000001B
++Water Balloon
+%Credits: Code Master
+$0075E9D3 00000028
++Y. Spear
+%Credits: Code Master
+$00B621E1 0000001B
+!!
+!Mega Man:
++1 Hit Kill-Boss
+%Credits: Codejunkies
+$10B62218 00000000
+!!
+!Mega Man 6:
++Infinite Health
+%Credits: Codejunkies
+$00B61F3D 0000001B
+!!
++Mega Man 6 Pointer
+%Credits: lee4
+$E0020005 00495060
+$6109F5A4 000000??
+$00000001 0000????
+!Mega Man 7:
++999 Bo
+%Credits: Codejunkies
+$10EC1346 000003E7
++Have RUSH & Exit
+%Credits: Code Master
+$10EC1344 0000FFFF
++Infinite EN
+%Credits: Code Master
+$00EC1340 00000004
++Infinite Health
+%Credits: Code Master
+$00EC13D3 0000001C
++Infinite Lives
+%Credits: Code Master
+$00EC1321 00000009
++Infinite SP
+%Credits: Code Master
+$00EC1342 00000001
++Infinite WP
+%Credits: Code Master
+$00EC1341 00000004
++Rush Complete
+%Credits: Codejunkies
+$00EC1344 000000FF
+!!
+!Mega Man 8:
++99 Bolts
+%Credits: Codejunkies
+$0075E9A0 00000063
++Have EX
+%Credits: Code Master
+$0075E9FC 00000001
++Infinite Health
+%Credits: Code Master
+$0075EA8F 00000028
++Infinite Lives
+%Credits: Code Master
+$0075E96C 00000009
+!!
+!Megaman 2 Codes:
++Infinite Health
+%Credits: MadCatz
+$00B62218 0000001C
++Infinite Lives
+%Credits: Code Master
+$E005F038 006E0B84
+$200C0100 3C037000
+$200C0104 24010064
+$200C0108 08046B72
+$200C010C A0610B40
+$206E0BB4 0C030040
++Press L1 For 1 Hit Boss Kills
+%Credits: MadCatz
+$D01A471C 0000FBFF
+$00B62219 00000001
+!!
++Megaman 2 Mega Jump
+%Credits: lee4
+$E0020001 00495060
+$60B724CC 00000008
+$00000001 00038AB5
+!Megaman 2-The Power Fighters Codes:
++1-Hit Death (Enemies)
+%Credits: Code Master
+$112953E0 00000000
+$112954E0 00000000
+$112955E0 00000000
+$112956E0 00000000
++1-Hit Death P1
+%Credits: Code Master
+$D1290BE0 00000020
+$11290BE0 00000001
++25% Health P1
+%Credits: Code Master
+$D1290BE0 00000020
+$11290BE0 00000008
++50% Health P1
+%Credits: Code Master
+$D1290BE0 00000020
+$11290BE0 00000010
++75% Health P1
+%Credits: Code Master
+$D1290BE0 00000020
+$11290BE0 00000018
++Infinite Health P1
+%Credits: Code Master
+$11290BE0 00000020
++Mega Jump
+%Credits: MadCatz
+$D01A471C 0000BFFF
+$01290BA4 000000A0
++No Health P1
+%Credits: Code Master
+$11290BE0 00000000
++Press L2 To Warp Left
+%Credits: MadCatz
+$D01A471C 0000FEFF
+$11290BA0 00000050
++Press L3 For 1 Hit Boss Kills
+%Credits: MadCatz
+$D01A471C 0000FFFD
+$012955E0 00000001
++Press R1 For Massive Score
+%Credits: MadCatz
+$D01A471C 0000F7FF
+$21290C20 09090909
++Press R2 To Warp Right
+%Credits: MadCatz
+$D01A471C 0000FDFF
+$11290BA0 000001A7
++Press R3 To Refill Health
+%Credits: MadCatz
+$D01A471C 0000FFFB
+$01290BE0 00000020
++Press Triangle To Refill Dog Health
+%Credits: MadCatz
+$D01A471C 0000EFFF
+$012909E4 00000010
+!!
++Megaman 2-The Power Fighters Pointer
+%Credits: lee4
+$E0020009 00495060
+$6069C548 000000??
+$00000001 0000????
+!Megaman 3 Codes:
++Infinite Health
+%Credits: Code Master
+$E005882D 007EEA00
+$200C0200 3C037000
+$200C0204 2401009C
+$200C0208 08046B72
+$200C020C A0610B3A
+$207EEA04 0C030080
++Infinite Lives
+%Credits: Code Master
+$E005802D 007EEA0C
+$200C0210 3C037000
+$200C0214 24010099
+$200C0218 08046B72
+$200C021C A0610B46
+$207EEA10 0C030084
+!!
+!Megaman 4 Codes:
++Infinite Health
+%Credits: Code Master
+$E005882D 008E2E8C
+$200C0300 3C037000
+$200C0304 2401009C
+$200C0308 08046B72
+$200C030C A0610B48
+$208E2E90 0C0300C0
++Infinite Lives
+%Credits: Code Master
+$E005802D 008E2E98
+$200C0310 3C037000
+$200C0314 24010009
+$200C0318 08046B72
+$200C031C A0610B39
+$208E2E9C 0C0300C4
+!!
+!Megaman 5 Codes:
++Infinite Health
+%Credits: Code Master
+$E005882D 009A91E0
+$200C0400 3C037000
+$200C0404 2401009C
+$200C0408 08046B72
+$200C040C A0610B48
+$209A91E4 0C030100
++Infinite Lives
+%Credits: Code Master
+$E005802D 009A91EC
+$200C0410 3C037000
+$200C0414 24010009
+$200C0418 08046B72
+$200C041C A0610B57
+$209A91F0 0C030104
+!!
+!Megaman 6 Codes:
++Infinite Health
+%Credits: MadCatz
+$00B61F3D 0000001A
+!!
++Megaman 6 Mega Jump
+%Credits: lee4
+$E0020005 00495060
+$60AC3200 00000008
+$00000001 0000054B
++Megaman 6 Pointer (Alt)
+%Credits: lee4
+$E0020005 00495060
+$60AC3200 000000??
+$00000001 0000????
+!Megaman 7 Codes:
++Invincibility
+%Credits: MadCatz
+$00EC13D4 0000001B
+!!
++Megaman 7 Mega Jump
+%Credits: lee4
+$E0020006 00495060
+$6048F724 00000010
+$00000001 0007F3BF
+!Megaman 8 Codes:
++Invincibility
+%Credits: MadCatz
+$0075EA8E 00000001
+!!
++Megaman 8 Mega Jump (Press X) {<I>Ported From PS1 To PS2 by lee4</i>}
+%Credits: lee4
+$E0020007 00495060
+$D075EAA0 00000040
+$1075EA60 00004000
+!Megaman Codes:
++Infinite Health
+%Credits: Code Master
+$E005EC18 00648A14
+$200C0000 3C037000
+$200C0004 2401001C
+$200C0008 081B4A8C
+$200C000C A0610B02
+$20648A18 0C030000
++Infinite Lives
+%Credits: Code Master
+$E005B424 00648A48
+$200C0010 3C037000
+$200C0014 24010063
+$200C0018 081B4AAE
+$200C001C A0610B3E
+$20648A4C 0C030004
+!!
+!Megaman-The Power Battle Codes:
++1 Hit Boss Kills
+%Credits: MadCatz
+$D11962B0 00300000
+$011962B0 00000001
++1-Hit Death (Enemies)
+%Credits: Code Master
+$11195FB0 00000000
+$111960B0 00000000
+$111961B0 00000000
+$111962B0 00000000
++1-Hit Death P1
+%Credits: Code Master
+$D1190BB0 00000010
+$11190BB0 00000001
++25% Health P1
+%Credits: Code Master
+$D1190BB0 00000010
+$11190BB0 00000004
++50% Health P1
+%Credits: Code Master
+$D1190BB0 00000010
+$11190BB0 00000008
++75% Health P1
+%Credits: Code Master
+$D1190BB0 00000010
+$11190BB0 0000000C
++Infinite Health
+%Credits: MadCatz
+$21190BB0 00000010
++Infinite Health
+%Credits: Codejunkies
+$11190BB0 00000010
++Infinite Time
+%Credits: MadCatz
+$11190978 0000FFFF
++Invincibility
+%Credits: MadCatz
+$01190BB3 00000056
++Low Health
+%Credits: Codejunkies
+$11190BB0 00000001
++Massive Score
+%Credits: MadCatz
+$21190BF0 09090909
++Mega Jump
+%Credits: MadCatz
+$D01A471C 0000BFFF
+$01190B74 000000A0
++Press L2 To Warp Left
+%Credits: MadCatz
+$D01A471C 0000FEFF
+$11190B74 00000050
++Press R2 To Warp Right
+%Credits: MadCatz
+$D01A471C 0000FBFF
+$11190B74 000001A7
+!!
++Megaman-The Power Battle Pointer
+%Credits: lee4
+$E0020008 00495060
+$6069C548 000000??
+$00000001 0000????
++Navi Mode {<I>Newbie Mode Mega Man 1-6</I>}
+%Credits: lee4
+$00196388 00000001
+!new codes:
++Mega Man 1 Activator
+%Credits: Skiller
+$200A0000 3C017000
+$200A0004 34210000
+$200A0008 2402001C
+$200A002C 24020063
+$200A0034 24020909
+$200A0048 240200FF
+$200A0068 03E00008
+$D0648A14 0000EC18
+$2067B294 08028000
++Mega Man 1 Have All Weapons
+%Credits: Skiller
+$200A004C A0220AF5
++Mega Man 1 Inf Fire Storm
+%Credits: Skiller
+$200A001C A0220B06
++Mega Man 1 Inf Health
+%Credits: Skiller
+$200A000C A0220B02
++Mega Man 1 Inf Hyper Bomb
+%Credits: Skiller
+$200A0018 A0220B05
++Mega Man 1 Inf Ice Slasher
+%Credits: Skiller
+$200A0014 A0220B04
++Mega Man 1 Inf Magnet Beam
+%Credits: Skiller
+$200A0028 A0220B09
++Mega Man 1 Inf Rolling Cutter
+%Credits: Skiller
+$200A0010 A0220B03
++Mega Man 1 Inf Super Arm
+%Credits: Skiller
+$200A0024 A0220B08
++Mega Man 1 Inf Thunder Beam
+%Credits: Skiller
+$200A0020 A0220B07
++Mega Man 1 Inf/Max Lives
+%Credits: Skiller
+$200A0030 A0220B3E
++Mega Man 1 Score 9999999
+%Credits: Skiller
+$200A0038 A4220B0A
+$200A003C A4220B0C
+$200A0040 A4220B0E
+$200A0044 A0220B10
++Mega Man 2 Activator
+%Credits: Skiller
+$200A0070 3C017000
+$200A0074 34210000
+$200A0078 2402001C
+$200A00A8 24020063
+$200A00B4 240207FF
+$200A00C8 03E00008
+$D06E0B84 0000F038
+$206D5058 0802801C
++Mega Man 2 All Weapons
+%Credits: Skiller
+$200A00B8 A4220B32
++Mega Man 2 Inf Air Shooter
+%Credits: Skiller
+$200A0080 A0220B35
++Mega Man 2 Inf Atomic Fire
+%Credits: Skiller
+$200A007C A0220B34
++Mega Man 2 Inf Bubble Lead
+%Credits: Skiller
+$200A0088 A0220B37
++Mega Man 2 Inf Crash Bomb
+%Credits: Skiller
+$200A0098 A0220B3B
++Mega Man 2 Inf Energy Tanks
+%Credits: Skiller
+$200A00AC A0220B3F
++Mega Man 2 Inf Item-1
+%Credits: Skiller
+$200A009C A0220B3C
++Mega Man 2 Inf Item-2
+%Credits: Skiller
+$200A00A0 A0220B3D
++Mega Man 2 Inf Item-3
+%Credits: Skiller
+$200A00A4 A0220B3E
++Mega Man 2 Inf Lives
+%Credits: Skiller
+$200A00B0 A0220B40
++Mega Man 2 Inf Metal Blade
+%Credits: Skiller
+$200A0094 A0220B3A
++Mega Man 2 Inf Quick Boomerang
+%Credits: Skiller
+$200A008C A0220B38
++Mega Man 2 Inf Time Stoper
+%Credits: Skiller
+$200A0090 A0220B39
++Mega Man 2 Leaf Shield
+%Credits: Skiller
+$200A0084 A0220B36
++Mega Man 3 All Weapons (Leaving Menu)
+%Credits: Skiller
+$D07EEA00 0000882D
+$208349B0 2405009C
++Mega Man 3 Inf Ammo
+%Credits: Skiller
+$D07EEA00 0000882D
+$2080A5F8 2405009C
++Mega Man 3 Inf HP
+%Credits: Skiller
+$D07EEA00 0000882D
+$20770D1C 2403001C
++Mega Man 3 Inf Lives
+%Credits: Skiller
+$D07EEA00 0000882D
+$207D4B2C 24040099
++Mega Man 3 Refill HP (When Leaving Menu)
+%Credits: Skiller
+$D07EEA00 0000882D
+$208349A8 2405009C
++Mega Man 3 Start With 99 Lives
+%Credits: Skiller
+$D07EEA00 0000882D
+$2081335C 24060099
++Mega Man 4 Have All Weapons (Goto Menu)
+%Credits: Skiller
+$200A00D0 3C017000
+$200A00D4 34210B56
+$200A00D8 90220000
+$200A00DC 10400007
+$200A00E0 2021FFFF
+$200A00E4 90220000
+$200A00E8 14400004
+$200A00EC 2402009C
+$200A00F0 A0220000
+$200A00F4 1000FFFA
+$200A00FC 03E00008
+$D08E2E98 0000802D
+$206D5058 08028034
++Mega Man 4 Inf Ammo
+%Credits: Skiller
+$D08E2E98 0000802D
+$208DE60C 2404001C
++Mega Man 4 Inf Energy Tanks
+%Credits: Skiller
+$D08E2E98 0000802D
+$2090B420 24040063
++Mega Man 4 Inf HP
+%Credits: Skiller
+$D08E2E98 0000802D
+$2084F4F0 2403001C
++Mega Man 4 Inf Lives
+%Credits: Skiller
+$D08E2E98 0000802D
+$208C86E0 00000000
++Mega Man 4 Start With 99 Lives
+%Credits: Skiller
+$D08E2E98 0000802D
+$008CD4B0 00000099
++Mega Man 5 Have All Weapons +INF
+%Credits: Skiller
+$200A0104 3C017000
+$200A0108 34210B49
+$200A010C 2402009C
+$200A0110 24030000
+$200A0114 A0220000
+$200A0118 20210001
+$200A011C 20630001
+$200A0120 2404000C
+$200A0124 1464FFFB
+$200A012C 03E00008
+$D09A91E0 0000882D
+$206D5228 08028041
++Mega Man 5 INF HP
+%Credits: Skiller
+$D09A91E0 0000882D
+$20929FA8 2403001C
++Mega Man 5 Inf Lives
+%Credits: Skiller
+$D09A91E0 0000882D
+$209C2580 24030099
++Mega Man 5 Start With 99 Lives
+%Credits: Skiller
+$D09A91E0 0000882D
+$0098A150 00000099
+!!
+!Opponent Codes:
++Infinite Health
+%Credits: Codejunkies
+$111962B0 00000050
+$111960B0 00000060
++Infinite Health
+%Credits: Codejunkies
+$112955E0 00000020
+$112956E0 00000020
++Infinite Health-Boss
+%Credits: Codejunkies
+$11195FB0 00000060
+$111961B0 00000060
++Low Health
+%Credits: Codejunkies
+$111962B0 00000001
+$111960B0 00000001
++Low Health
+%Credits: Codejunkies
+$112955E0 00000001
+$112956E0 00000001
++Low Health-Boss
+%Credits: Codejunkies
+$11195FB0 00000001
+$111961B0 00000001
+!!
++P1 Joker
+%Credits: lee4
+$D01A471C 0000????
++P2 Joker
+%Credits: lee4
+$D01A481C 0000????
+!Player 1 Codes:
++Low Health
+%Credits: Codejunkies
+$11290BE0 00000001
+!!
++Skip FMV
+%Credits: lee4
+$2014E548 24020001
++Start Lives {<I>0=3 Lives<Br>1=5 Lives</I>}
+%Credits: lee4
+$00196390 0000000?
+!Unlock Game Codes:
++Mega Man
+%Credits: Codejunkies
+$00209400 00000001
++Mega Man 2
+%Credits: Codejunkies
+$00209401 00000001
++Mega Man 3
+%Credits: Codejunkies
+$00209402 00000001
++Mega Man 4
+%Credits: Codejunkies
+$00209403 00000001
++Mega Man 5
+%Credits: Codejunkies
+$00209404 00000001
++Mega Man 6
+%Credits: Codejunkies
+$00209405 00000001
++Mega Man 7
+%Credits: Codejunkies
+$00209406 00000001
++Mega Man 8
+%Credits: Codejunkies
+$00209407 00000001
+!!
+!!
+

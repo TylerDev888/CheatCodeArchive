@@ -1,0 +1,22 @@
+^2 = GameID: CUSA32167,CUSA32182,CUSA31661
+^3 = NAME: No More Heroes III
+^SECONDLAYER: NO
+^4 = FILE: 	JCTSaveSlot\ue4savegame.ps4.sav
++Unlock ALL Chips{Must unlock THE LAB first and create 1 chip of any kind. NO NEED to create one of each, only 1 chip, any chip; will do the trick}
+%Credits: Zeraf3000
+$80[SLOT]0019 44656174
+$68476C6F 62654368
+$69705265 77617264
+$41727261 79000000
+$8801000D 496E7431
+$3650726F 70657274
+$79000000 00000000
+$48000013 00000003
+$40340002 00000000
+^6 = MODS:
+[SLOT]
+VALUE>SLOT
+01	Slot 1
+02	Slot 2
+03	Slot 3
+[/SLOT]

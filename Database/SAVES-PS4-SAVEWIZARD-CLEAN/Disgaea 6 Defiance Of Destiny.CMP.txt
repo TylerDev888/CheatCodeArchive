@@ -1,0 +1,375 @@
+^2 = GameID: CUSA31825,CUSA19649,CUSA26813,CUSA31826
+^3 = NAME: Disgaea 6: Defiance Of Destiny
+^SECONDLAYER: YES
+^4 = FILE: save[0-9]+\save
+%Credits:Method
+!Items{Need select how many times to search for item then need to select item length then item name then item length again then the value you want}
++Health
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A8000157 00000008
+$[Amount:80F0FA0200000000:HEX:LITTLE]
++Sp
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A8000179 00000008
+$[Amount:80F0FA0200000000:HEX:LITTLE]
++Attack
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A800019B 00000008
+$[Amount:6300000000000000:HEX:LITTLE]0000 00000000
++Defense
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A80001BD 00000008
+$[Amount:6300000000000000:HEX:LITTLE]0000 00000000
++Int
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A80001DF 00000008
+$[Amount:6300000000000000:HEX:LITTLE]0000 00000000
++Res
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A8000201 00000008
+$[Amount:6300000000000000:HEX:LITTLE]0000 00000000
++Hit
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A8000223 00000008
+$[Amount:6300000000000000:HEX:LITTLE]0000 00000000
++Spd
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A8000245 00000008
+$[Amount:6300000000000000:HEX:LITTLE]0000 00000000
++Move
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A800027D 00000002
+$[Amount:6300000000000000:HEX:LITTLE]0000 00000000
++Jump
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A8000291 00000002
+$[Amount:6300000000000000:HEX:LITTLE]0000 00000000
++Throw
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A80002A5 00000002
+$[Amount:6300000000000000:HEX:LITTLE]0000 00000000
++Counter
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A80002B9 00000002
+$[Amount:6300000000000000:HEX:LITTLE]0000 00000000
++Critical
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A80002CD 00000002
+$[Amount:6300000000000000:HEX:LITTLE]0000 00000000
++Range
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A80002E1 00000002
+$[Amount:6300000000000000:HEX:LITTLE]0000 00000000
++Item Level
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A8000267 00000002
+$[Amount:6300000000000000:HEX:LITTLE]0000 00000000
++Item Rarity
+$80[Amount:00:HEX:BIG]00[ItemLength] [ItemName]
+$92000000 000000[ItemLength]
+$A80002F5 00000002
+$[Amount:6300000000000000:HEX:LITTLE]0000 00000000
+!!
+!Character Zed needs to be top character in game{need to select region, need to enter number based on character order. characters order is 0 is zed, 1 is next ,2 character after them and so on. You then enter value you want}
++Level(cannot Exceed 9999 Until You Beat The Game And Unlock It)
+$[Header]
+$C8[Amount:00:HEX:LITTLE]0010 00000000
+$28000CED [Amount:0000270F:HEX:BIG]
++Health
+$[Header]
+$C8[Amount:00:HEX:LITTLE]0010 00000000
+$A8000099 00000008
+$[Amount:80F0FA0200000000:HEX:LITTLE]
++Sp
+$[Header]
+$C8[Amount:00:HEX:LITTLE]0010 00000000
+$A80000ED 00000008
+$[Amount:80F0FA0200000000:HEX:LITTLE]
++Attack
+$[Header]
+$C8[Amount:00:HEX:LITTLE]0010 00000000
+$A8000141 00000008
+$[Amount:80F0FA0200000000:HEX:LITTLE]
++Defense
+$[Header]
+$C8[Amount:00:HEX:LITTLE]0010 00000000
+$A8000195 00000008
+$[Amount:80F0FA0200000000:HEX:LITTLE]
++Int
+$A80001E9 00000008
+$[Amount:80F0FA0200000000:HEX:LITTLE]
++Res
+$[Header]
+$C8[Amount:00:HEX:LITTLE]0010 00000000
+$A800023D 00000008
+$[Amount:80F0FA0200000000:HEX:LITTLE]
++Hit
+$[Header]
+$C8[Amount:00:HEX:LITTLE]0010 00000000
+$A8000291 00000008
+$[Amount:80F0FA0200000000:HEX:LITTLE]
++Spd
+$[Header]
+$C8[Amount:00:HEX:LITTLE]0010 00000000
+$A80002E5 00000008
+$[Amount:80F0FA0200000000:HEX:LITTLE]
++Mana
+$[Header]
+$C8[Amount:00:HEX:LITTLE]0010 00000000
+$C8[ItemLength]0010 00000000
+$A8000DA1 00000008
+$[Amount:80F0FA0200000000:HEX:LITTLE]
+!!
++Karma Need To Know Current Amount
+$[Header]
+$C8[Amount:00:HEX:BIG]0010 00000000
+$88010015 10000000
+$[Amount:000063:HEX:BIG] 00000000
+$00000000 00000000
+$00000000 00000000
+$A800001D 00000008
+$[Amount:FFE0F50500000000:HEX:LITTLE]
++Max Karma Stackable
+$80[Amount:00:HEX:BIG]000A 027D0600
+$000D0000 00000000
+$93000000 00000010
+$A8000000 00000008
+$FF0FA5D4 E8000000
+^6 = MODS:
+[Header]
+Value>Region
+8001000C 07000000 5A6F6D62 69650000 92000000 0000000C	USA/EU
+8001000F 0A000000 E382BEE3 83B3E383 93000000 00000000 92000000 0000000F	JPN
+[/Header]
+[ItemLength]
+10	Black Dragon Orb
+0C	Camo-Clothes
+12	Cherry Blossom Bow
+0D	Clown Clothes
+0C	Clown Staff
+0E	Cotton Bandana
+09	Cute Wand
+0D	Cutting Board
+12	Demonblade Itsafox
+0D	Driftwood Bow
+11	Dualwing De-spear
+10	Duralumin Shield
+09	EM Cannon
+0C	Floral Spear
+0E	Fluffy Furball
+0E	Golden Hatchet
+11	Hidden Yoshitsuna
+0B	Homura Suit
+0C	Imperial Sea
+0E	Innocent Armor
+0C	Innocent Bow
+0E	Innocent Spear
+0E	Innocent Sword
+0B	Kaiser Belt
+10	Kintsuba Railgun
+14	Leader-Killing Grass
+0B	Life Jacket
+0C	Light Shield
+0B	Lordly Belt
+0C	Lordly Spear
+0C	Lump of Iron
+0C	Magimage Orb
+0D	Magimage Wand
+0D	Mark of Death
+0D	Master Hunter
+12	Match-Like Hairpin
+10	Mysterious Blade
+11	Necromancer Dress
+08	Oruyanke
+07	Pot Lid
+10	Prinnical Legacy
+0B	Prinny Wand
+11	Rainbow Thumbnail
+09	Regal Axe
+0D	Replica Sword
+0C	Royal Muscle
+0C	Sentai Armor
+0C	Sentai Sword
+0C	Shell Shield
+10	Shirakami Outfit
+0C	Skanda Shoes
+08	Slippers
+0E	Songstress Bow
+12	Songstress Glasses
+0F	Sophia's Mirror
+0E	Spartan Shield
+10	Staff of Revenge
+0C	Swordbreaker
+09	The Abyss
+0F	The Dreadnaught
+07	Thimble
+12	Tsunomaki Scissors
+0E	Ultimate Armor
+0F	Ultimate Helmet
+0F	Ultimate Shield
+0E	Ultimate Sword
+0A	Wave Spear
+0E	Weeding Sickle
+0F	Wrinkly Clothes
+0F	Zombie Knuckles
+[ItemLength]
+Length>Item Name
+10	Black Dragon Orb
+0C	Camo-Clothes
+12	Cherry Blossom Bow
+0D	Clown Clothes
+0C	Clown Staff
+0E	Cotton Bandana
+09	Cute Wand
+0D	Cutting Board
+12	Demonblade Itsafox
+0D	Driftwood Bow
+11	Dualwing De-spear
+10	Duralumin Shield
+09	EM Cannon
+0C	Floral Spear
+0E	Fluffy Furball
+0E	Golden Hatchet
+11	Hidden Yoshitsuna
+0B	Homura Suit
+0C	Imperial Sea
+0E	Innocent Armor
+0C	Innocent Bow
+0E	Innocent Spear
+0E	Innocent Sword
+0B	Kaiser Belt
+10	Kintsuba Railgun
+14	Leader-Killing Grass
+0B	Life Jacket
+0C	Light Shield
+0B	Lordly Belt
+0C	Lordly Spear
+0C	Lump of Iron
+0C	Magimage Orb
+0D	Magimage Wand
+0D	Mark of Death
+0D	Master Hunter
+12	Match-Like Hairpin
+10	Mysterious Blade
+11	Necromancer Dress
+08	Oruyanke
+07	Pot Lid
+10	Prinnical Legacy
+0B	Prinny Wand
+11	Rainbow Thumbnail
+09	Regal Axe
+0D	Replica Sword
+0C	Royal Muscle
+0C	Sentai Armor
+0C	Sentai Sword
+0C	Shell Shield
+10	Shirakami Outfit
+0C	Skanda Shoes
+08	Slippers
+0E	Songstress Bow
+12	Songstress Glasses
+0F	Sophia's Mirror
+0E	Spartan Shield
+10	Staff of Revenge
+0C	Swordbreaker
+09	The Abyss
+0F	The Dreadnaught
+07	Thimble
+12	Tsunomaki Scissors
+0E	Ultimate Armor
+0F	Ultimate Helmet
+0F	Ultimate Shield
+0E	Ultimate Sword
+0A	Wave Spear
+0E	Weeding Sickle
+0F	Wrinkly Clothes
+0F	Zombie Knuckles
+[/ItemLength]
+[ItemName]
+ID>Item Name
+42 6C 61 63 6B 20 44 72 61 67 6F 6E 20 4F 72 62	Black Dragon Orb
+43 61 6D 6F 2D 43 6C 6F 74 68 65 73	Camo-Clothes
+43 68 65 72 72 79 20 42 6C 6F 73 73 6F 6D 20 42 6F 77	Cherry Blossom Bow
+43 6C 6F 77 6E 20 43 6C 6F 74 68 65 73	Clown Clothes
+0C 43 6C 6F 77 6E 20 53 74 61 66 66	Clown Staff
+43 6F 74 74 6F 6E 20 42 61 6E 64 61 6E 61	Cotton Bandana
+43 75 74 65 20 57 61 6E 64	Cute Wand
+43 75 74 74 69 6E 67 20 42 6F 61 72 64	Cutting Board
+44 65 6D 6F 6E 62 6C 61 64 65 20 49 74 73 61 66 6F 78	Demonblade Itsafox
+44 72 69 66 74 77 6F 6F 64 20 42 6F 77	Driftwood Bow
+44 75 61 6C 77 69 6E 67 20 44 65 2D 73 70 65 61 72	Dualwing De-spear
+44 75 72 61 6C 75 6D 69 6E 20 53 68 69 65 6C 64	Duralumin Shield
+45 4D 20 43 61 6E 6E 6F 6E	EM Cannon
+46 6C 6F 72 61 6C 20 53 70 65 61 72	Floral Spear
+46 6C 75 66 66 79 20 46 75 72 62 61 6C 6C	Fluffy Furball
+47 6F 6C 64 65 6E 20 48 61 74 63 68 65 74	Golden Hatchet
+48 69 64 64 65 6E 20 59 6F 73 68 69 74 73 75 6E 61	Hidden Yoshitsuna
+48 6F 6D 75 72 61 20 53 75 69 74	Homura Suit
+49 6D 70 65 72 69 61 6C 20 53 65 61	Imperial Sea
+49 6E 6E 6F 63 65 6E 74 20 41 72 6D 6F 72	Innocent Armor
+49 6E 6E 6F 63 65 6E 74 20 42 6F 77	Innocent Bow
+49 6E 6E 6F 63 65 6E 74 20 53 70 65 61 72	Innocent Spear
+49 6E 6E 6F 63 65 6E 74 20 53 77 6F 72 64	Innocent Sword
+4B 61 69 73 65 72 20 42 65 6C 74	Kaiser Belt
+4B 69 6E 74 73 75 62 61 20 52 61 69 6C 67 75 6E	Kintsuba Railgun
+4C 65 61 64 65 72 2D 4B 69 6C 6C 69 6E 67 20 47 72 61 73 73	Leader-Killing Grass
+4C 69 66 65 20 4A 61 63 6B 65 74	Life Jacket
+4C 69 67 68 74 20 53 68 69 65 6C 64	Light Shield
+4C 6F 72 64 6C 79 20 42 65 6C 74	Lordly Belt
+4C 6F 72 64 6C 79 20 53 70 65 61 72	Lordly Spear
+4C 75 6D 70 20 6F 66 20 49 72 6F 6E	Lump of Iron
+4D 61 67 69 6D 61 67 65 20 4F 72 62	Magimage Orb
+4D 61 67 69 6D 61 67 65 20 57 61 6E 64	Magimage Wand
+4D 61 72 6B 20 6F 66 20 44 65 61 74 68	Mark of Death
+4D 61 73 74 65 72 20 48 75 6E 74 65 72	Master Hunter
+4D 61 74 63 68 2D 4C 69 6B 65 20 48 61 69 72 70 69 6E	Match-Like Hairpin
+4D 79 73 74 65 72 69 6F 75 73 20 42 6C 61 64 65	Mysterious Blade
+4E 65 63 72 6F 6D 61 6E 63 65 72 20 44 72 65 73 73	Necromancer Dress
+4F 72 75 79 61 6E 6B 65	Oruyanke
+50 6F 74 20 4C 69 64	Pot Lid
+50 72 69 6E 6E 69 63 61 6C 20 4C 65 67 61 63 79	Prinnical Legacy
+50 72 69 6E 6E 79 20 57 61 6E 64	Prinny Wand
+52 61 69 6E 62 6F 77 20 54 68 75 6D 62 6E 61 69 6C	Rainbow Thumbnail
+52 65 67 61 6C 20 41 78 65	Regal Axe
+52 65 70 6C 69 63 61 20 53 77 6F 72 64	Replica Sword
+52 6F 79 61 6C 20 4D 75 73 63 6C 65	Royal Muscle
+53 65 6E 74 61 69 20 41 72 6D 6F 72	Sentai Armor
+53 65 6E 74 61 69 20 53 77 6F 72 64	Sentai Sword
+53 68 65 6C 6C 20 53 68 69 65 6C 64	Shell Shield
+53 68 69 72 61 6B 61 6D 69 20 4F 75 74 66 69 74	Shirakami Outfit
+53 6B 61 6E 64 61 20 53 68 6F 65 73	Skanda Shoes
+53 6C 69 70 70 65 72 73	Slippers
+53 6F 6E 67 73 74 72 65 73 73 20 42 6F 77	Songstress Bow
+53 6F 6E 67 73 74 72 65 73 73 20 47 6C 61 73 73 65 73	Songstress Glasses
+53 6F 70 68 69 61 27 73 20 4D 69 72 72 6F 72	Sophia's Mirror
+53 70 61 72 74 61 6E 20 53 68 69 65 6C 64	Spartan Shield
+53 74 61 66 66 20 6F 66 20 52 65 76 65 6E 67 65	Staff of Revenge
+53 77 6F 72 64 62 72 65 61 6B 65 72	Swordbreaker
+54 68 65 20 41 62 79 73 73	The Abyss
+54 68 65 20 44 72 65 61 64 6E 61 75 67 68 74	The Dreadnaught
+54 68 69 6D 62 6C 65	Thimble
+54 73 75 6E 6F 6D 61 6B 69 20 53 63 69 73 73 6F 72 73	Tsunomaki Scissors
+55 6C 74 69 6D 61 74 65 20 41 72 6D 6F 72	Ultimate Armor
+55 6C 74 69 6D 61 74 65 20 48 65 6C 6D 65 74	Ultimate Helmet
+55 6C 74 69 6D 61 74 65 20 53 68 69 65 6C 64	Ultimate Shield
+55 6C 74 69 6D 61 74 65 20 53 77 6F 72 64	Ultimate Sword
+57 61 76 65 20 53 70 65 61 72	Wave Spear
+57 65 65 64 69 6E 67 20 53 69 63 6B 6C 65	Weeding Sickle
+57 72 69 6E 6B 6C 79 20 43 6C 6F 74 68 65 73	Wrinkly Clothes
+5A 6F 6D 62 69 65 20 4B 6E 75 63 6B 6C 65 73	Zombie Knuckles
+[/ItemName]

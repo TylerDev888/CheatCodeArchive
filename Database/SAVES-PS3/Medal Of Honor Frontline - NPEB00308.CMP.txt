@@ -1,0 +1,11 @@
+^2 = GameID: NPEB00308
+^3 = NAME: Medal of Honor Frontline (PSN)
+^4 = FILE: NPEB00308-00\SYS-DATA
++Update Crc32 (required)
+(set range:0x000000,0x001447)
+$set pointer:eof-3
+$set range:0x000000,pointer
+$set [hash]:CRC32
+(write at 0x001448:[hash])
+$set pointer:eof-3
+$write next (0):[hash]

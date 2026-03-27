@@ -1,0 +1,26 @@
+^2 = GameID: CUSA00628,CUSA00627
+^3 = NAME: Shadow Warrior
+^SECONDLAYER: YES{ZIP}
+^4 = FILE: (quicksave|[0-9a-f]{16})x[0-9a-z]x[0-9a-z]x[0-9a-z]x[0-9a-z]\[0-9a-zA-Z_-]{3,16}\save_(quicksave|[0-9a-f]{16})x[0-9a-z]x[0-9a-z]x[0-9a-z]x[0-9a-z].bin
+{<div class="other-info"><h4>Other INFO</h4><ul class="bullet-list"><li><strong>Money</strong> — <code>4D6F6E6579</code> <small>5/7</small></li><li><strong>HP</strong> <small>(HP_max_mult)</small> — <code>48505F6D61785F6D756C74</code> <small>B/D</small></li><li><strong>Armor</strong> — <code>41726D6F72</code> <small>5/7</small></li><li><strong>Stamina_mult</strong> — <code>5374616D696E615F6D756C74</code> <small>C/E</small></li><li><strong>Stamina regain</strong> <small>(StaminaRegenPerSec_mult)</small> — <code>5374616D696E61526567656E5065725365635F6D756C74</code> <small>17/19</small></li><li><strong>crystals</strong> <small>(SkillPoints)</small> — <code>536B696C6C506F696E7473</code> <small>B/D</small></li><li><strong>Karma</strong> <small>(PowerPoints)</small> — <code>506F776572506F696E7473</code> <small>B/D</small></li><li><strong>Armor_max_mult</strong> — <code>41726D6F725F6D61785F6D756C74</code> <small>E/10</small></li><li><strong>Reflex_mult</strong> — <code>5265666C65785F6D756C74</code> <small>B/D</small></li><li><strong>Damage_mult</strong> — <code>44616D6167655F6D756C74</code> <small>B/D</small></li><li><strong>Melee_mult</strong> — <code>4D656C65655F6D756C74</code> <small>A/C</small></li><li><strong>EP_max</strong> — <code>45505F6D6178</code> <small>6/8</small></li><li><strong>EP_max_mult</strong> — <code>45505F6D61785F6D756C74</code> <small>B/D</small></li><li><strong>resist_pain_mult</strong> — <code>7265736973745F7061696E5F6D756C74</code> <small>10/12</small></li><li><strong>Force_mult</strong> — <code>466F7263655F6D756C74</code> <small>A/C</small></li></ul></div>}
++Max Crystals
+$8001000C 536B696C
+$6C506F69 6E747302
+$2800000D [AMOUNT:1:FLOAT:BIG]
+$8002000C 536B696C
+$6C506F69 6E747302
+$2800000D [AMOUNT:1:FLOAT:BIG]
++Max Karma
+$8001000C 506F7765
+$72506F69 6E747302
+$2800000D [AMOUNT:1:FLOAT:BIG]
+$8002000C 506F7765
+$72506F69 6E747302
+$2800000D [AMOUNT:1:FLOAT:BIG]
++Max Health{This Code Needs To Be More Precise As There Too Many Results If You Search Without Current Value}
+$80010008 48500200
+$[AMOUNT:1:FLOAT:LITTLE<CURRENT-HP>] 00000000
+$28000004 [AMOUNT:1:FLOAT:BIG<HP>] 
+$80020008 48500200
+$[AMOUNT:1:FLOAT:LITTLE<CURRENT-HP>] 00000000
+$28000004 [AMOUNT:1:FLOAT:BIG<HP>] 

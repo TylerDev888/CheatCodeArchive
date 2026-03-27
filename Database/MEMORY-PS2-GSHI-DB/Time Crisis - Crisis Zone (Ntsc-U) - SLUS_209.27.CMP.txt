@@ -1,0 +1,88 @@
+^3 = NAME: Time Crisis - Crisis Zone (Ntsc-U)
+^2 = GameID: SLUS-20927
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F010ECEC 0010ECEF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0010ECEF
++[M] Must Be On
+%Credits: MadCatz
+$9010ECEC 0C046ADC
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++1-Hit Death (Non-Boss Enemies)
+%Credits: Code Master
+$2017837C AC800020
++Infinite Ammo
+%Credits: Code Master
+$2015F2C0 00000000
++Infinite Health
+%Credits: Code Master
+$2012ED80 00000000
++Infinite Time
+%Credits: Code Master
+$2012EA14 00000000
++Max Hit (Crisis Missions)
+%Credits: Code Master
+$2079C680 000003E7
+$2079C684 000003E7
++P1 Press L1+Select To Stop Timer
+%Credits: Code Master
+$D07B5882 0000FBFE
+$2012EA14 00000000
++P1 Press L2+Select To Restart Timer
+%Credits: Code Master
+$D07B5882 0000FEFE
+$2012EA14 E422C678
++Quick Max Score
+%Credits: Code Master
+$2020CCD4 3C020098
+$2020CCD8 3442967F
++Quick Score Gain
+%Credits: Code Master
+$2020CCD4 240203E7
++Quicker Score Gain
+%Credits: Code Master
+$2020CCD4 2402270F
++Unlock Everything
+%Credits: Code Master
+$408DDA80 00040001
+$FFFFFFFF 00000000
+$208DDAA0 00000009
+$208DDAA4 00000009
+!!
++100% Achievement (This Unlocks Everything)
+%Credits: MadCatz
+$408DDA80 00040001
+$FFFFFFFF 00000000
+$408DDAA0 00020001
+$00000009 00000000
++Boot To Debug Menu
+%Credits: punk7890
+$00101414 00000000
++Easy Mission Qualify
+%Credits: Codejunkies
+$2079C6BC 000003E7
++Have 1-Hit Kills (Not Bosses)
+%Credits: MadCatz
+$2017836C 4600001D
++Infinite Ammo-Machine Gun 1
+%Credits: Codejunkies
+$207D1394 00000028
++Infinite Health
+%Credits: Codejunkies
+$2079C69C 00000009
++Infinite Lives
+%Credits: Codejunkies
+$208DCF28 00000009
++Infinite Time
+%Credits: MadCatz
+$2012EA5C 00000000
+$2012EA10 00000000
++Massive Score Multiplier
+%Credits: MadCatz
+$2020CCD8 2462270F
+!!
+

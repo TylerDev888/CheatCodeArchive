@@ -1,0 +1,60 @@
+^3 = NAME: Pride Fighting Championship
+^2 = GameID: SLUS_204.06
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001134BF
+!!
+!Codes:
++Infinite Health P1
+%Credits: Code Master
+$202A54DC 43200000
+$202A54E0 43200000
++No Health P1
+%Credits: Code Master
+$202A54DC 43200000
+$202A54E0 00000000
++Max Health Regeneration P1
+%Credits: Code Master
+$202A54E4 43200000
++No Health Regeneration P1
+%Credits: Code Master
+$202A54E4 00000000
++Infinite Health P2
+%Credits: Code Master
+$202A6FDC 43200000
+$202A6FE0 43200000
++No Health P2
+%Credits: Code Master
+$202A6FDC 43200000
+$202A6FE0 00000000
++Max Health Regeneration P2
+%Credits: Code Master
+$202A6FE4 43200000
++No Health Regeneration P2
+%Credits: Code Master
+$202A6FE4 00000000
+!!
+!Create A Fighter Codes:
++Infinite Skill Points
+%Credits: Code Master
+$107FA71A 00002828
++Max Stand Punch
+%Credits: Code Master
+$007FA714 0000000A
++Max Stand Kick
+%Credits: Code Master
+$007FA715 0000000A
++Max Mount Pounding
+%Credits: Code Master
+$007FA716 0000000A
++Max Takedown
+%Credits: Code Master
+$007FA717 0000000A
++Max Submission
+%Credits: Code Master
+$007FA718 0000000A
++Max Endurance
+%Credits: Code Master
+$007FA719 0000000A
+!!

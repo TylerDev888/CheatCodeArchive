@@ -1,0 +1,225 @@
+^3 = NAME: NHL 2005 (Ntsc-U)
+^2 = GameID: SLUS-21001
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002BAB27
++[M] Must Be On
+%Credits: MadCatz
+$9025EF6C 0C097AD6
+!!
+!Away Team Codes:
++Never Score
+%Credits: MadCatz
+$10713322 00000000
++Score 25
+%Credits: MadCatz
+$10713322 00000019
++Score 50
+%Credits: MadCatz
+$10713322 00000032
++Score 100
+%Credits: MadCatz
+$10713322 00000064
+!!
+!Home Team Codes:
++Never Score
+%Credits: MadCatz
+$107132C6 00000000
++Score 25
+%Credits: MadCatz
+$107132C6 00000019
++Score 50
+%Credits: MadCatz
+$107132C6 00000032
++Score 100
+%Credits: MadCatz
+$107132C6 00000064
+!!
++Press L3 For No Quarter Time
+%Credits: MadCatz
+$D0F7BCC2 0000FFFE
+$10707054 00000000
++Press Select For More Quarter Time
+%Credits: MadCatz
+$D0F7BCC2 0000FFFE
+$10707054 00000385
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Away Team Scores 20
+%Credits: Code Master
+$10713322 00000014
++Away Team Start With Score 5
+%Credits: Code Master
+$D0713322 00000000
+$10713322 00000005
++Away Team Start With Score 10
+%Credits: Code Master
+$D0713322 00000000
+$10713322 0000000A
++Away Team Start With Score 20
+%Credits: Code Master
+$D0713322 00000000
+$10713322 00000014
++Away Team Start With Score 50
+%Credits: Code Master
+$D0713322 00000000
+$10713322 00000032
++Goal's Score 2
+%Credits: Code Master
+$102F59E0 00000002
++Goal's Score 5
+%Credits: Code Master
+$102F59E0 00000005
++Goal's Score 10
+%Credits: Code Master
+$102F59E0 0000000A
++Home Team Scores 20
+%Credits: Code Master
+$107132C6 00000014
++Home Team Start With Score 5
+%Credits: Code Master
+$D07132C6 00000000
+$107132C6 00000005
++Home Team Start With Score 10
+%Credits: Code Master
+$D07132C6 00000000
+$107132C6 0000000A
++Home Team Start With Score 20
+%Credits: Code Master
+$D07132C6 00000000
+$107132C6 00000014
++Home Team Start With Score 50
+%Credits: Code Master
+$D07132C6 00000000
+$107132C6 00000032
++P1 Press L1+L2 For More Time
+%Credits: Code Master
+$D0F7BCC2 0000FAFF
+$10707054 000004B0
++P1 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D0F7BCC2 0000FBFE
+$20707058 00010001
++P1 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D0F7BCC2 0000FEFE
+$20707058 00020002
++P1 Press R1+R2 To End Period
+%Credits: Code Master
+$D0F7BCC2 0000F5FF
+$10707054 00000001
++P2 Press L1+L2 For More Time
+%Credits: Code Master
+$D0F7BFC2 0000FAFF
+$10707054 000004B0
++P2 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D0F7BFC2 0000FBFE
+$20707058 00010001
++P2 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D0F7BFC2 0000FEFE
+$20707058 00020002
++P2 Press R1+R2 To End Period
+%Credits: Code Master
+$D0F7BFC2 0000F5FF
+$10707054 00000001
++P3 Press L1+L2 For More Time
+%Credits: Code Master
+$D0F7C2C2 0000FAFF
+$10707054 000004B0
++P3 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D0F7C2C2 0000FBFE
+$20707058 00010001
++P3 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D0F7C2C2 0000FEFE
+$20707058 00020002
++P3 Press R1+R2 To End Period
+%Credits: Code Master
+$D0F7C2C2 0000F5FF
+$10707054 00000001
++P4 Press L1+L2 For More Time
+%Credits: Code Master
+$D0F7C5C2 0000FAFF
+$10707054 000004B0
++P4 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D0F7C5C2 0000FBFE
+$20707058 00010001
++P4 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D0F7C5C2 0000FEFE
+$20707058 00020002
++P4 Press R1+R2 To End Period
+%Credits: Code Master
+$D0F7C5C2 0000F5FF
+$10707054 00000001
++P5 Press L1+L2 For More Time
+%Credits: Code Master
+$D0F7C8C2 0000FAFF
+$10707054 000004B0
++P5 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D0F7C8C2 0000FBFE
+$20707058 00010001
++P5 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D0F7C8C2 0000FEFE
+$20707058 00020002
++P5 Press R1+R2 To End Period
+%Credits: Code Master
+$D0F7C8C2 0000F5FF
+$10707054 00000001
++P6 Press L1+L2 For More Time
+%Credits: Code Master
+$D0F7CBC2 0000FAFF
+$10707054 000004B0
++P6 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D0F7CBC2 0000FBFE
+$20707058 00010001
++P6 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D0F7CBC2 0000FEFE
+$20707058 00020002
++P6 Press R1+R2 To End Period
+%Credits: Code Master
+$D0F7CBC2 0000F5FF
+$10707054 00000001
++P7 Press L1+L2 For More Time
+%Credits: Code Master
+$D0F7CEC2 0000FAFF
+$10707054 000004B0
++P7 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D0F7CEC2 0000FBFE
+$20707058 00010001
++P7 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D0F7CEC2 0000FEFE
+$20707058 00020002
++P7 Press R1+R2 To End Period
+%Credits: Code Master
+$D0F7CEC2 0000F5FF
+$10707054 00000001
++P8 Press L1+L2 For More Time
+%Credits: Code Master
+$D0F7D1C2 0000FAFF
+$10707054 000004B0
++P8 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D0F7D1C2 0000FBFE
+$20707058 00010001
++P8 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D0F7D1C2 0000FEFE
+$20707058 00020002
++P8 Press R1+R2 To End Period
+%Credits: Code Master
+$D0F7D1C2 0000F5FF
+$10707054 00000001
+!!
+!!
+

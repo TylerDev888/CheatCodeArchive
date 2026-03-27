@@ -1,0 +1,812 @@
+^3 = NAME: Ribbit King (Ntsc-U)
+^2 = GameID: SLUS-20837
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01DC080 001DC083
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001DC083
++[M] Must Be On
+%Credits: MadCatz
+$901DC094 0C07FE1E
++[M] Must Be On
+%Credits: MadCatz
+$90129530 0C04A39E
+!!
++Characters Always Have Full Power Swing Bar
+%Credits: MadCatz
+$200C2000 3C1B3F80
+$200C2004 449B0000
+$200C2008 E6800008
+$200C200C 08052B96
+$2014AE54 08030800
+!Frog Modifier Codes:
++Slot 1 {<I>00 - Nothing<Br>01 - Frog-Fuel<Br>02 - Power-Fuel<Br>03 - Beta-Ribbotin<Br>04 - Jump-Pump<Br>05 - Wing<Br>06 - Flydar<Br>07 - Frog-Guard<Br>08 - Slo-Mo Maker<Br>09 - Super-Spring<Br>0A - Insta-Ice<Br>0B - Fly-Bye<Br>0C - Frocket<Br>0D - Scuba-Frog<Br>0E - De-Bouncer<Br>0F - Power-Star<Br>10 - Rock<Br>11 - Lucky Plaque<Br>12 - Big 10 Bang</I>}
+%Credits: Code Master
+$00218A16 000000??
++Slot 2
+%Credits: Code Master
+$00218A17 000000??
++Slot 3
+%Credits: Code Master
+$00218A18 000000??
+!!
+!Frog Slot 1 Modifier:
++Atom
+%Credits: Codejunkies
+$00218A16 0000000A
++Binky
+%Credits: Codejunkies
+$00218A16 00000007
++Dipsy
+%Credits: Codejunkies
+$00218A16 00000005
++Flippy
+%Credits: Codejunkies
+$00218A16 0000000B
++Fly Guy
+%Credits: Codejunkies
+$00218A16 0000000C
++Li'l Lunk
+%Credits: Codejunkies
+$00218A16 00000006
++Pouncer
+%Credits: Codejunkies
+$00218A16 00000004
++Scrappy
+%Credits: Codejunkies
+$00218A16 0000000D
++Sebastian
+%Credits: Codejunkies
+$00218A16 00000002
++Shakey
+%Credits: Codejunkies
+$00218A16 00000009
++Skitter
+%Credits: Codejunkies
+$00218A16 00000001
++Slugger
+%Credits: Codejunkies
+$00218A16 00000003
++Wadsworth
+%Credits: Codejunkies
+$00218A16 00000008
+!!
+!Frog Slot 2 Modifier:
++Atom
+%Credits: Codejunkies
+$00218A17 0000000A
++Binky
+%Credits: Codejunkies
+$00218A17 00000007
++Dipsy
+%Credits: Codejunkies
+$00218A17 00000005
++Flippy
+%Credits: Codejunkies
+$00218A17 0000000B
++Fly Guy
+%Credits: Codejunkies
+$00218A17 0000000C
++Li'l Lunk
+%Credits: Codejunkies
+$00218A17 00000006
++Pouncer
+%Credits: Codejunkies
+$00218A17 00000004
++Scrappy
+%Credits: Codejunkies
+$00218A17 0000000D
++Sebastian
+%Credits: Codejunkies
+$00218A17 00000002
++Shakey
+%Credits: Codejunkies
+$00218A17 00000009
++Skitter
+%Credits: Codejunkies
+$00218A17 00000001
++Slugger
+%Credits: Codejunkies
+$00218A17 00000003
++Wadsworth
+%Credits: Codejunkies
+$00218A17 00000008
+!!
+!Frog Slot 3 Modifier:
++Atom
+%Credits: Codejunkies
+$00218A18 0000000A
++Binky
+%Credits: Codejunkies
+$00218A18 00000007
++Dipsy
+%Credits: Codejunkies
+$00218A18 00000005
++Flippy
+%Credits: Codejunkies
+$00218A18 0000000B
++Fly Guy
+%Credits: Codejunkies
+$00218A18 0000000C
++Li'l Lunk
+%Credits: Codejunkies
+$00218A18 00000006
++Pouncer
+%Credits: Codejunkies
+$00218A18 00000004
++Scrappy
+%Credits: Codejunkies
+$00218A18 0000000D
++Sebastian
+%Credits: Codejunkies
+$00218A18 00000002
++Shakey
+%Credits: Codejunkies
+$00218A18 00000009
++Skitter
+%Credits: Codejunkies
+$00218A18 00000001
++Slugger
+%Credits: Codejunkies
+$00218A18 00000003
++Wadsworth
+%Credits: Codejunkies
+$00218A18 00000008
+!!
+!Frogs In Stock:
++Atom
+%Credits: Codejunkies
+$00218A22 0000000A
++Binky
+%Credits: Codejunkies
+$00218A1F 00000007
++Dipsy
+%Credits: Codejunkies
+$00218A1D 00000005
++Flippy
+%Credits: Codejunkies
+$00218A23 0000000B
++Fly Guy
+%Credits: Codejunkies
+$00218A24 0000000C
++Li'l Lunk
+%Credits: Codejunkies
+$00218A1E 00000006
++Pouncer
+%Credits: Codejunkies
+$00218A1C 00000004
++Scrappy
+%Credits: Codejunkies
+$00218A25 0000000D
++Sebastian
+%Credits: Codejunkies
+$00218A1A 00000002
++Shakey
+%Credits: Codejunkies
+$00218A21 00000009
++Skitter
+%Credits: Codejunkies
+$00218A19 00000001
++Slugger
+%Credits: Codejunkies
+$00218A1B 00000003
++Wadsworth
+%Credits: Codejunkies
+$00218A20 00000008
+!!
+!Have Frogs In Stock Codes:
++Atom
+%Credits: Code Master
+$00218A22 00000003
++Binky
+%Credits: Code Master
+$00218A1F 00000003
++Dipsy
+%Credits: Code Master
+$00218A1D 00000003
++Flippy
+%Credits: Code Master
+$00218A23 00000003
++Fly Guy
+%Credits: Code Master
+$00218A24 00000003
++Li'l Lunk
+%Credits: Code Master
+$00218A1E 00000003
++Pouncer
+%Credits: Code Master
+$00218A1C 00000003
++Scrappy
+%Credits: Code Master
+$00218A25 00000003
++Sebastion
+%Credits: Code Master
+$00218A1A 00000003
++Snakey
+%Credits: Code Master
+$00218A21 00000003
++Wadsworth
+%Credits: Code Master
+$00218A20 00000003
+!!
+!Have Item Codes:
++Beta-Ribbotin
+%Credits: MadCatz
+$00218A30 00000063
++Big 10 Bang
+%Credits: MadCatz
+$00218A3F 00000001
++De-Bouncer
+%Credits: MadCatz
+$00218A3B 00000063
++Fly-Bye
+%Credits: MadCatz
+$00218A38 00000063
++Flydar
+%Credits: MadCatz
+$00218A33 00000063
++Frocket
+%Credits: MadCatz
+$00218A39 00000063
++Frog-Fuel
+%Credits: MadCatz
+$00218A2E 00000063
++Frog-Guard
+%Credits: MadCatz
+$00218A34 00000063
++Insta-Ice
+%Credits: MadCatz
+$00218A37 00000063
++Jump-Pump
+%Credits: MadCatz
+$00218A31 00000063
++Lucky Plaque
+%Credits: MadCatz
+$00218A3E 00000063
++Power-Fuel
+%Credits: MadCatz
+$00218A2F 00000063
++Power-Star
+%Credits: MadCatz
+$00218A3C 00000063
++Rock
+%Credits: MadCatz
+$00218A3D 00000063
++Scuba-Frog
+%Credits: MadCatz
+$00218A3A 00000063
++Skitter
+%Credits: MadCatz
+$00218A19 00000003
++Slo-Mo Maker
+%Credits: MadCatz
+$00218A35 00000063
++Super-Spring
+%Credits: MadCatz
+$00218A36 00000063
++Wing
+%Credits: MadCatz
+$00218A32 00000063
+!!
+!Item Modifier Codes:
++CPU Max Score
+%Credits: Code Master
+$2043D5F8 0098967F
++CPU No Score
+%Credits: Code Master
+$2043D5F8 00000000
++CPU Only One Shot Recorded
+%Credits: Code Master
+$2043D590 00000000
++CPU Start On 2Nd Shot Recorded
+%Credits: Code Master
+$D043D590 00000000
+$2043D590 00000101
++CPU Start On 3Rd Shot Recorded
+%Credits: Code Master
+$D043D590 00000000
+$2043D590 00000202
++CPU Start On 4Th Shot Recorded
+%Credits: Code Master
+$D043D590 00000000
+$2043D590 00000303
++CPU Start On 5Th Shot Recorded
+%Credits: Code Master
+$D043D590 00000000
+$2043D590 00000404
++CPU Start On 6Th Shot Recorded
+%Credits: Code Master
+$D043D590 00000000
+$2043D590 00000505
++CPU Start On 7Th Shot Recorded
+%Credits: Code Master
+$D043D590 00000000
+$2043D590 00000606
++CPU Start On 8Th Shot Recorded
+%Credits: Code Master
+$D043D590 00000000
+$2043D590 00000707
++P1 Only One Shot Recorded
+%Credits: Code Master
+$2043D670 00000000
++P1 Start On 2Nd Shot Recorded
+%Credits: Code Master
+$D043D670 00000000
+$2043D670 00000101
++P1 Start On 3Rd Shot Recorded
+%Credits: Code Master
+$D043D670 00000000
+$2043D670 00000202
++P1 Start On 4Th Shot Recorded
+%Credits: Code Master
+$D043D670 00000000
+$2043D670 00000303
++P1 Start On 5Th Shot Recorded
+%Credits: Code Master
+$D043D670 00000000
+$2043D670 00000404
++P1 Start On 6Th Shot Recorded
+%Credits: Code Master
+$D043D670 00000000
+$2043D670 00000505
++P1 Start On 7Th Shot Recorded
+%Credits: Code Master
+$D043D670 00000000
+$2043D670 00000606
++P1 Start On 8Th Shot Recorded
+%Credits: Code Master
+$D043D670 00000000
+$2043D670 00000707
++Slot 1 {<I>00 - Nothing<Br>01 - Frog-Fuel<Br>02 - Power-Fuel<Br>03 - Beta-Ribbotin<Br>04 - Jump-Pump<Br>05 - Wing<Br>06 - Flydar<Br>07 - Frog-Guard<Br>08 - Slo-Mo Maker<Br>09 - Super-Spring<Br>0A - Insta-Ice<Br>0B - Fly-Bye<Br>0C - Frocket<Br>0D - Scuba-Frog<Br>0E - De-Bouncer<Br>0F - Power-Star<Br>10 - Rock<Br>11 - Lucky Plaque<Br>12 - Big 10 Bang</I>}
+%Credits: Code Master
+$00218A29 000000??
++Slot 2
+%Credits: Code Master
+$00218A2A 000000??
++Slot 3
+%Credits: Code Master
+$00218A2B 000000??
++Slot 4
+%Credits: Code Master
+$00218A2C 000000??
++Slot 5
+%Credits: Code Master
+$00218A2D 000000??
+!!
+!Item Slot 1 Modifier:
++Beta-Ribbotin
+%Credits: Codejunkies
+$00218A29 00000003
++Big 10 Bang
+%Credits: Codejunkies
+$00218A29 00000012
++De-Bouncer
+%Credits: Codejunkies
+$00218A29 0000000E
++Empty
+%Credits: Codejunkies
+$00218A29 00000000
++Fly-Bye
+%Credits: Codejunkies
+$00218A29 0000000B
++Flydar
+%Credits: Codejunkies
+$00218A29 00000006
++Frocket
+%Credits: Codejunkies
+$00218A29 0000000C
++Frog Fuel
+%Credits: Codejunkies
+$00218A29 00000001
++Frog-Guard
+%Credits: Codejunkies
+$00218A29 00000007
++Insta-Ice
+%Credits: Codejunkies
+$00218A29 0000000A
++Jump-Pump
+%Credits: Codejunkies
+$00218A29 00000004
++Lucky Plaque
+%Credits: Codejunkies
+$00218A29 00000011
++Power-Fuel
+%Credits: Codejunkies
+$00218A29 00000002
++Power-Star
+%Credits: Codejunkies
+$00218A29 0000000F
++Rock
+%Credits: Codejunkies
+$00218A29 00000010
++Scuba-Frog
+%Credits: Codejunkies
+$00218A29 0000000D
++Slo-Mo Maker
+%Credits: Codejunkies
+$00218A29 00000008
++Super-Spring
+%Credits: Codejunkies
+$00218A29 00000009
++Wing
+%Credits: Codejunkies
+$00218A29 00000005
+!!
+!Item Slot 2 Modifier:
++Beta-Ribbotin
+%Credits: Codejunkies
+$00218A2A 00000003
++Big 10 Bang
+%Credits: Codejunkies
+$00218A2A 00000012
++De-Bouncer
+%Credits: Codejunkies
+$00218A2A 0000000E
++Fly-Bye
+%Credits: Codejunkies
+$00218A2A 0000000B
++Flydar
+%Credits: Codejunkies
+$00218A2A 00000006
++Frocket
+%Credits: Codejunkies
+$00218A2A 0000000C
++Frog Fuel
+%Credits: Codejunkies
+$00218A2A 00000001
++Frog-Guard
+%Credits: Codejunkies
+$00218A2A 00000007
++Insta-Ice
+%Credits: Codejunkies
+$00218A2A 0000000A
++Jump-Pump
+%Credits: Codejunkies
+$00218A2A 00000004
++Lucky Plaque
+%Credits: Codejunkies
+$00218A2A 00000011
++Power-Fuel
+%Credits: Codejunkies
+$00218A2A 00000002
++Power-Star
+%Credits: Codejunkies
+$00218A2A 0000000F
++Rock
+%Credits: Codejunkies
+$00218A2A 00000010
++Scuba-Frog
+%Credits: Codejunkies
+$00218A2A 0000000D
++Slo-Mo Maker
+%Credits: Codejunkies
+$00218A2A 00000008
++Super-Spring
+%Credits: Codejunkies
+$00218A2A 00000009
++Wing
+%Credits: Codejunkies
+$00218A2A 00000005
+!!
+!Item Slot 3 Modifier:
++Beta-Ribbotin
+%Credits: Codejunkies
+$00218A2B 00000003
++Big 10 Bang
+%Credits: Codejunkies
+$00218A2B 00000012
++De-Bouncer
+%Credits: Codejunkies
+$00218A2B 0000000E
++Empty
+%Credits: Codejunkies
+$00218A2B 00000000
++Fly-Bye
+%Credits: Codejunkies
+$00218A2B 0000000B
++Flydar
+%Credits: Codejunkies
+$00218A2B 00000006
++Frocket
+%Credits: Codejunkies
+$00218A2B 0000000C
++Frog Fuel
+%Credits: Codejunkies
+$00218A2B 00000001
++Frog-Guard
+%Credits: Codejunkies
+$00218A2B 00000007
++Insta-Ice
+%Credits: Codejunkies
+$00218A2B 0000000A
++Jump-Pump
+%Credits: Codejunkies
+$00218A2B 00000004
++Lucky Plaque
+%Credits: Codejunkies
+$00218A2B 00000011
++Power-Fuel
+%Credits: Codejunkies
+$00218A2B 00000002
++Power-Star
+%Credits: Codejunkies
+$00218A2B 0000000F
++Rock
+%Credits: Codejunkies
+$00218A2B 00000010
++Scuba-Frog
+%Credits: Codejunkies
+$00218A2B 0000000D
++Slo-Mo Maker
+%Credits: Codejunkies
+$00218A2B 00000008
++Super-Spring
+%Credits: Codejunkies
+$00218A2B 00000009
++Wing
+%Credits: Codejunkies
+$00218A2B 00000005
+!!
+!Item Slot 4 Modifier:
++Beta-Ribbotin
+%Credits: Codejunkies
+$00218A2C 00000003
++Big 10 Bang
+%Credits: Codejunkies
+$00218A2C 00000012
++De-Bouncer
+%Credits: Codejunkies
+$00218A2C 0000000E
++Empty
+%Credits: Codejunkies
+$00218A2C 00000000
++Fly-Bye
+%Credits: Codejunkies
+$00218A2C 0000000B
++Flydar
+%Credits: Codejunkies
+$00218A2C 00000006
++Frocket
+%Credits: Codejunkies
+$00218A2C 0000000C
++Frog Fuel
+%Credits: Codejunkies
+$00218A2C 00000001
++Frog-Guard
+%Credits: Codejunkies
+$00218A2C 00000007
++Insta-Ice
+%Credits: Codejunkies
+$00218A2C 0000000A
++Jump-Pump
+%Credits: Codejunkies
+$00218A2C 00000004
++Lucky Plaque
+%Credits: Codejunkies
+$00218A2C 00000011
++Power-Fuel
+%Credits: Codejunkies
+$00218A2C 00000002
++Power-Star
+%Credits: Codejunkies
+$00218A2C 0000000F
++Rock
+%Credits: Codejunkies
+$00218A2C 00000010
++Scuba-Frog
+%Credits: Codejunkies
+$00218A2C 0000000D
++Slo-Mo Maker
+%Credits: Codejunkies
+$00218A2C 00000008
++Super-Spring
+%Credits: Codejunkies
+$00218A2C 00000009
++Wing
+%Credits: Codejunkies
+$00218A2C 00000005
+!!
+!Item Slot 5 Modifier:
++Beta-Ribbotin
+%Credits: Codejunkies
+$00218A2D 00000003
++Big 10 Bang
+%Credits: Codejunkies
+$00218A2D 00000012
++De-Bouncer
+%Credits: Codejunkies
+$00218A2D 0000000E
++Empty
+%Credits: Codejunkies
+$00218A2D 00000000
++Fly-Bye
+%Credits: Codejunkies
+$00218A2D 0000000B
++Flydar
+%Credits: Codejunkies
+$00218A2D 00000006
++Frocket
+%Credits: Codejunkies
+$00218A2D 0000000C
++Frog Fuel
+%Credits: Codejunkies
+$00218A2D 00000001
++Frog-Guard
+%Credits: Codejunkies
+$00218A2D 00000007
++Insta-Ice
+%Credits: Codejunkies
+$00218A2D 0000000A
++Jump-Pump
+%Credits: Codejunkies
+$00218A2D 00000004
++Lucky Plaque
+%Credits: Codejunkies
+$00218A2D 00000011
++Power-Fuel
+%Credits: Codejunkies
+$00218A2D 00000002
++Power-Star
+%Credits: Codejunkies
+$00218A2D 0000000F
++Rock
+%Credits: Codejunkies
+$00218A2D 00000010
++Scuba-Frog
+%Credits: Codejunkies
+$00218A2D 0000000D
++Slo-Mo Maker
+%Credits: Codejunkies
+$00218A2D 00000008
++Super-Spring
+%Credits: Codejunkies
+$00218A2D 00000009
++Wing
+%Credits: Codejunkies
+$00218A2D 00000005
+!!
+!Items In Stock:
++99 All Items
+%Credits: Codejunkies
+$10218A2E 00006363
+$40218A30 00040001
+$63636363 00000000
++99 Big 10 Bang
+%Credits: Codejunkies
+$00218A3F 00000063
+!!
+!Player 1 Codes:
++Infinite C's
+%Credits: MadCatz
+$20218A80 05F5E0FF
++Press L1 Reset Score
+%Credits: MadCatz
+$D03AF1C2 0000FBFF
+$2043D6D8 00000000
++Press L2 For 99999 Score
+%Credits: MadCatz
+$D03AF1C2 0000FEFF
+$2043D6D8 000F423F
++Press L2 For Opponent 99999 Score
+%Credits: MadCatz
+$D03AF1C2 0000F7FF
+$2043D5F8 000F423F
++Press R1 To Reset Opponent's Score
+%Credits: MadCatz
+$D03AF1C2 0000F7FF
+$2043D5F8 00000000
+!!
++Press L3 For Always 1St Move
+%Credits: MadCatz
+$D03AF1C2 0000FFFD
+$1043D670 00000000
++Press R3 For Opponent Always 1St Move Opponent
+%Credits: MadCatz
+$D03AF1C2 0000FFFB
+$1043D590 00000000
+!Story Mode Codes:
++Infinite Money
+%Credits: Code Master
+$10218A80 0000FFFF
++Max Money
+%Credits: Code Master
+$20218A80 000F423F
++Opponent Always Eighth Stroke
+%Credits: Codejunkies
+$2043D590 00000707
++Opponent Max Score
+%Credits: Codejunkies
+$2043D5F8 0001869F
++P1 Always Eighth Stroke
+%Credits: Codejunkies
+$2043D670 00000707
++P1 Max Score
+%Credits: Code Master
+$2043D6D8 0098967F
++P1 Max Score
+%Credits: Codejunkies
+$2043D6D8 0001869F
++P1 No Score
+%Credits: Code Master
+$2043D6D8 00000000
+!!
+!Vs. Mode Codes:
++P3 Max Score
+%Credits: Code Master
+$2043D7B8 0098967F
++P3 No Score
+%Credits: Code Master
+$2043D7B8 00000000
++P3 Only One Shot Recorded
+%Credits: Code Master
+$2043D750 00000000
++P3 Start On 2Nd Shot Recorded
+%Credits: Code Master
+$D043D750 00000000
+$2043D750 00000101
++P3 Start On 3Rd Shot Recorded
+%Credits: Code Master
+$D043D750 00000000
+$2043D750 00000202
++P3 Start On 4Th Shot Recorded
+%Credits: Code Master
+$D043D750 00000000
+$2043D750 00000303
++P3 Start On 5Th Shot Recorded
+%Credits: Code Master
+$D043D750 00000000
+$2043D750 00000404
++P3 Start On 6Th Shot Recorded
+%Credits: Code Master
+$D043D750 00000000
+$2043D750 00000505
++P3 Start On 7Th Shot Recorded
+%Credits: Code Master
+$D043D750 00000000
+$2043D750 00000606
++P3 Start On 8Th Shot Recorded
+%Credits: Code Master
+$D043D750 00000000
+$2043D750 00000707
++P4 Max Score
+%Credits: Code Master
+$2043D898 0098967F
++P4 No Score
+%Credits: Code Master
+$2043D898 00000000
++P4 Only One Shot Recorded
+%Credits: Code Master
+$2043D830 00000000
++P4 Start On 2Nd Shot Recorded
+%Credits: Code Master
+$D043D830 00000000
+$2043D830 00000101
++P4 Start On 3Rd Shot Recorded
+%Credits: Code Master
+$D043D830 00000000
+$2043D830 00000202
++P4 Start On 4Th Shot Recorded
+%Credits: Code Master
+$D043D830 00000000
+$2043D830 00000303
++P4 Start On 5Th Shot Recorded
+%Credits: Code Master
+$D043D830 00000000
+$2043D830 00000404
++P4 Start On 6Th Shot Recorded
+%Credits: Code Master
+$D043D830 00000000
+$2043D830 00000505
++P4 Start On 7Th Shot Recorded
+%Credits: Code Master
+$D043D830 00000000
+$2043D830 00000606
++P4 Start On 8Th Shot Recorded
+%Credits: Code Master
+$D043D830 00000000
+$2043D830 00000707
+!!
+!!
+

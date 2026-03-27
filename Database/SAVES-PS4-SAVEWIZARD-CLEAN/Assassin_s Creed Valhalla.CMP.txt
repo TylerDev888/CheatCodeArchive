@@ -1,0 +1,281 @@
+^2 = GameID: CUSA18534
+^3 = NAME: Assassin's Creed: Valhalla
+^SECONDLAYER: YES
+^4 = FILE: (Auto|Manual|Quick)Save\d+\(Auto|Manual|Quick)Save[0-9]+.sav
++Weapon Swap Mod{All Weapon Tiers Must Match In Order For Swap To Work}
+$80010008 BFE232C3
+$BFE232C3 00000000
+$8801000C 1C000B01
+$[Weapon]
+$93000000 00000012
+$28000000 0000000A
+$A8000016 00000008
+$[Weapon]
++Varins Axe To Mjolnir
+$80010008 BFE232C3
+$BFE232C3 00000000
+$8801000C 1C000B01
+$0CBB7518 B5010000
+$93000000 00000012
+$28000000 0000000A
+$A8000016 00000008
+$ACD07518 B5010000
++Housecarl’s Axe To Mjolnir
+$80010008 BFE232C3
+$BFE232C3 00000000
+$8801000C 1C000B01
+$A14D670E 7E010000
+$93000000 00000012
+$28000000 0000000A
+$A8000016 00000008
+$ACD07518 B5010000
++Mjolnir To Excalibur
+$80010008 BFE232C3
+$BFE232C3 00000000
+$8801000C 1C000B01
+$ACD07518 B5010000
+$93000000 00000012
+$28000000 0000000A
+$A8000016 00000008
+$95AB7418 B5010000
++Excalibur To Mjolnir
+$80010008 BFE232C3
+$BFE232C3 00000000
+$8801000C 1C000B01
+$95AB7418 B5010000
+$93000000 00000012
+$28000000 0000000A
+$A8000016 00000008
+$ACD07518 B5010000
+^6 = MODS:
+[Weapon]
+Value>Name>Catagory>Sub-Catagory
+04C2CC19 C5010000		Weapon	W_Default
+C13B6A8A B2010000	Unarmed	Weapon	W_Fist
+BDC4DB95 A2010000		Weapon	Tool_Harpoon
+E5240873 BD010000		Weapon	W_Mammen_Axe
+63FB1163 BE010000	Torch	Weapon	W_Great_Torch
+EC532C02 4B010000	Torch	Weapon	W_Torch
+20D4B60B 48010000		Weapon	W_Torch
+3E4480DF B3010000		Weapon	W_Torch
+912B40F4 71000000		Weapon	W_Torch
+3E0D40F4 71000000		Weapon	W_Torch
+2A74D210 AB010000		Weapon	W_Bearded_Axe
+F6BC7518 B5010000	Tusk Axe	Weapon	W_Bearded_Axe
+58CC7F1B B9010000	Einherjar Bow	Weapon	Ranged_Bow_Hunter
+18CE7F1B B9010000	Spartan Bow	Weapon	Ranged_Bow_Light
+B6CA7F1B B9010000	Moonlight	Weapon	W_Dane_Axe
+28DB7518 B5010000	Royal Sword	Weapon	W_Great_Sword
+CECF7F1B B9010000	Kraken Shield	Weapon	Group_Shields
+33D07F1B B9010000	Rune Shield	Weapon	Group_Shields
+2974D210 AB010000		Weapon	W_Dane_Axe
+4373D910 AB010000		Weapon	W_Mace
+76D66A77 B6010000	Raider Axe	Weapon	W_Bearded_Axe
+A14D670E 7E010000	Housecarl's Axe	Weapon	W_Bearded_Axe
+0CBB7518 B5010000	Varin's Axe	Weapon	W_Bearded_Axe
+7A0DB2E1 C5010000	Fyrd Axe	Weapon	W_Bearded_Axe
+4AD77718 B5010000	Hunnish Bow	Weapon	Ranged_Bow_Hunter
+60B17E1B B9010000	Death-Speaker	Weapon	Ranged_Bow_Hunter
+C6B17E1B B9010000	Sagittarius Bow	Weapon	Ranged_Bow_Hunter
+2CB27E1B B9010000	Magyar Hunting Bow	Weapon	Ranged_Bow_Hunter
+92B27E1B B9010000	Onà:kara Bow	Weapon	Ranged_Bow_Hunter
+8ACD7F1B B9010000	Arc of Elan	Weapon	Ranged_Bow_Hunter
+BE0FB2E1 C5010000	Nodens' Arc	Weapon	Ranged_Bow_Hunter
+18DA6A77 B6010000	Skadi's Wrath	Weapon	Ranged_Bow_Light
+CABD7E1B B9010000	Viper Bow	Weapon	Ranged_Bow_Light
+31BE7E1B B9010000	Iron-Cloud	Weapon	Ranged_Bow_Light
+2F10B2E1 C5010000	Hunbeorht's Bow	Weapon	Ranged_Bow_Light
+9710B2E1 C5010000	Death-Skald	Weapon	Ranged_Bow_Light
+D099E8CD BE010000	Recurve Bow	Weapon	Ranged_Bow_Predator
+ACBE7E1B B9010000	Longbow	Weapon	Ranged_Bow_Predator
+12BF7E1B B9010000	Needler	Weapon	Ranged_Bow_Predator
+1311B2E1 C5010000	The Mark of Sol	Weapon	Ranged_Bow_Predator
+7A11B2E1 C5010000	Bullseye	Weapon	Ranged_Bow_Predator
+E111B2E1 C5010000	Petra's Arc	Weapon	Ranged_Bow_Predator
+E2D86A77 B6010000	Bone-Biter	Weapon	W_Dane_Axe
+92DB7718 B5010000	Aella's Bardiche	Weapon	W_Dane_Axe
+48C37518 B5010000	Battle Sparth	Weapon	W_Dane_Axe
+438FB0E1 C5010000	Lagertha's Axe	Weapon	W_Dane_Axe
+A98FB0E1 C5010000	Sepulcher Axe	Weapon	W_Dane_Axe
+0F90B0E1 C5010000	Vordr's Bite	Weapon	W_Dane_Axe
+7590B0E1 C5010000	Hemming's Axe	Weapon	W_Dane_Axe
+6DD9C5ED C6010000	Sharp Stick	Weapon	W_Dane_Axe
+1AC97518 B5010000	Iron-Star	Weapon	W_Flail
+8DBF7E1B B9010000	Spinning-Death	Weapon	W_Flail
+0EC97518 B5010000	Soldier's Flail	Weapon	W_Flail
+3C346D81 AC010000	Carolingian Longsword	Weapon	W_Great_Sword
+06B77518 B5010000	Doppelhander	Weapon	W_Great_Sword
+95AB7418 B5010000	Excalibur	Weapon	W_Great_Sword
+DD8EB0E1 C5010000	Swordfish	Weapon	W_Great_Sword
+A0D07518 B5010000	Blacksmith's Hammer	Weapon	W_Hammer
+A7BF7E1B B9010000	War Hammer	Weapon	W_Hammer
+ACD07518 B5010000	Mjolnir	Weapon	W_Hammer
+0537301B C4010000	Ohkwá:ri Club	Weapon	W_Hammer
+4BC07E1B B9010000	Kite Shield	Weapon	Group_Shields
+B0C07E1B B9010000	Oaken Kite Shield	Weapon	Group_Shields
+15C17E1B B9010000	Sarcophagus Shield	Weapon	Group_Shields
+7AC17E1B B9010000	Plank and Buckler	Weapon	Group_Shields
+DFC17E1B B9010000	Royal Guard	Weapon	Group_Shields
+19F16A77 B6010000	Drekar Shield	Weapon	Group_Shields
+0D9D64C6 B3010000	Hrafn Guard	Weapon	Group_Shields
+16E2313F B9010000	Briton Shield	Weapon	Group_Shields
+9AC37718 B5010000	Blodwulf	Weapon	Group_Shields
+DABF7E1B B9010000	The Morrigan's Guard	Weapon	Group_Shields
+6612B2E1 C5010000	Spartan Shield	Weapon	Group_Shields
+CD12B2E1 C5010000	Shishi Guard	Weapon	Group_Melee_Weapons
+3413B2E1 C5010000	Gorgon Shield	Weapon	Group_Shields
+A2744E22 D0010000	Raven Clan Shield	Weapon	Group_Shields
+06386D81 AC010000	Yngling Seax	Weapon	W_Seax
+B51BBFC4 BC010000		Weapon	W_Hammer
+EC6FBCC4 BC010000		Weapon	W_Spear
+57ADC539 D3010000		Weapon	Shield_Heavy_Shield
+C7BBBAC4 BC010000		Weapon	Shield_Heavy_Shield
+0EBEBFC4 BC010000		Weapon	W_Sword
+F16FBCC4 BC010000		Weapon	W_Sword
+898C6D81 AC010000		Weapon	W_Atgeir
+08260908 8B010000		Weapon	W_Bearded_Axe
+BE0BC6ED C6010000		Weapon	W_Bearded_Axe
+CFFC1063 BE010000		Weapon	W_BillHook
+748236E8 6A010000		Weapon	Ranged_Bow_Hunter
+C2906D81 AC010000		Weapon	W_Chain
+9E41B3EA BF010000		Weapon	W_Seax
+E7B96D81 AC010000		Weapon	Ranged_Crossbow
+1F250908 8B010000		Weapon	W_Dane_Axe
+1CC77518 B5010000		Weapon	W_Dane_Axe
+F7D0FFB0 C6010000		Weapon	W_Dane_Axe
+8CE511FC B0010000		Weapon	Tool_Fire_Bomb
+181DED04 B6010000		Weapon	
+B18E6D81 AC010000		Weapon	W_Flail
+19AC480A AE010000		Weapon	W_Seax
+94ADA509 C4010000		Weapon	W_Seax
+3EB1D452 B3010000		Weapon	Tool_Throwing_Knife
+D2BB6D81 AC010000		Weapon	Group_Shields
+04AA7F1B B9010000		Weapon	W_Great_Sword
+89AB7418 B5010000		Weapon	W_Great_Sword
+FC366D81 AC010000		Weapon	W_Hammer
+3457B2EA BF010000		Weapon	W_Hammer
+6DBB6D81 AC010000		Weapon	Group_Shields
+F1BA6D81 AC010000		Weapon	Ranged_Javelin
+3C7C77D0 CE010000		Weapon	Group_Shields
+3B576D81 AC010000		Weapon	W_Mace
+70D37518 B5010000		Weapon	W_Mace
+DDEB948A A5010000		Weapon	W_Sword
+A241B3EA BF010000		Weapon	W_Seax
+99ADA509 C4010000		Weapon	W_Seax
+821E16E9 21010000		Weapon	Group_Shields
+BCACA3A1 A9010000		Weapon	Group_Shields
+ED926F8A B2010000		Weapon	Group_Shields
+16C87818 B5010000		Weapon	Group_Shields
+A2406E7F C5010000		Weapon	Group_Shields
+B0A6ADD2 C1010000		Weapon	W_Scepter
+5531D245 B1010000		Weapon	W_Scourge
+05E66C81 AC010000		Weapon	W_Scythe
+26B01378 D5010000		Weapon	W_Seax
+19C9FFB0 C6010000		Weapon	W_Sword
+B7BA6D81 AC010000		Weapon	Ranged_Sling
+9BF7A9D3 BA010000		Weapon	Tool_Smoke_Bomb
+06ACA3A1 A9010000		Weapon	W_Spear
+4B79FD9F D5010000		Weapon	W_Spear
+1F702467 B6010000		Weapon	W_Club
+BF37F7F9 D1010000		Weapon	W_Double_Headed_Axe
+6C8C6D81 AC010000		Weapon	W_Standard
+7DF2C40C D9010000	Connacht Hoard Map	Collectibles	Manuscripts
+45317218 B5010000		Weapon	W_Sword
+ECA7B8D4 69010000		Weapon	W_Sword
+786BA6D2 C1010000		Weapon	W_Sword
+C1C74F53 D4010000		Weapon	W_Sword
+4EBA6D81 AC010000		Weapon	W_Whip
+18CA7718 B5010000	Bear-Claw	Weapon	W_Bearded_Axe
+BECC7F1B B9010000	Dreka Bow	Weapon	Ranged_Bow_Hunter
+24CD7F1B B9010000	Dokkalfar Bow	Weapon	Ranged_Bow_Hunter
+89CE7F1B B9010000	Shadow-Strike	Weapon	Ranged_Bow_Predator
+F9CE7F1B B9010000	Holmegaard Bow	Weapon	Ranged_Bow_Predator
+32C57518 B5010000	Bone-Maul	Weapon	W_Dane_Axe
+D0C97F1B B9010000	Skadi's Blade	Weapon	W_Dane_Axe
+25CB7F1B B9010000	Hag's Bite	Weapon	W_Flail
+A1AB7418 B5010000	Scimitar	Weapon	W_Great_Sword
+34CB7F1B B9010000	Ukonvasara	Weapon	W_Hammer
+80D17F1B B9010000	Celtic Cross Shield	Weapon	Group_Shields
+E5D17F1B B9010000	Ursine Guard	Weapon	Group_Shields
+AFD27F1B B9010000	Sleipnir Shield	Weapon	Group_Shields
+57CB7F1B B9010000	Ljosalfar Blade	Weapon	W_Seax
+7ACB7F1B B9010000	Areadbhair	Weapon	W_Spear
+2B74D210 AB010000		Weapon	W_Sword
+C78DB0E1 C5010000		Weapon	Group_Weapons_Regular
+2C74D210 AB010000		Weapon	W_Spear
+8894DA6A D2010000		Weapon	W_Bearded_Axe
+5194DA6A D2010000		Weapon	W_Bearded_Axe
+FF986468 CC010000		Weapon	W_Bearded_Axe
+F269DB6A D2010000		Weapon	Ranged_Bow_Hunter
+4D6DDB6A D2010000		Weapon	Ranged_Bow_Hunter
+46996468 CC010000		Weapon	Ranged_Bow_Hunter
+4185DB6A D2010000		Weapon	Ranged_Bow_Light
+7885DB6A D2010000		Weapon	Ranged_Bow_Light
+8A996468 CC010000		Weapon	Ranged_Bow_Light
+0696DB6A D2010000		Weapon	Ranged_Bow_Predator
+3D96DB6A D2010000		Weapon	Ranged_Bow_Predator
+CE996468 CC010000		Weapon	Ranged_Bow_Predator
+2FAEDA6A D2010000		Weapon	W_Dane_Axe
+66AEDA6A D2010000		Weapon	W_Dane_Axe
+129A6468 CC010000		Weapon	W_Dane_Axe
+67B3DA6A D2010000		Weapon	W_Flail
+9EB3DA6A D2010000		Weapon	W_Flail
+599A6468 CC010000		Weapon	W_Flail
+C535DB6A D2010000		Weapon	W_Great_Sword
+8236DB6A D2010000		Weapon	W_Great_Sword
+A19A6468 CC010000		Weapon	W_Great_Sword
+4E41DB6A D2010000		Weapon	W_Hammer
+8541DB6A D2010000		Weapon	W_Hammer
+E89A6468 CC010000		Weapon	W_Hammer
+CD83F085 D6010000		Weapon	Group_Shields
+A185F085 D6010000		Weapon	Group_Shields
+2F9B6468 CC010000		Weapon	Group_Shields
+D38CF085 D6010000		Weapon	Group_Shields
+A78EF085 D6010000		Weapon	Group_Shields
+7B9B6468 CC010000		Weapon	Group_Shields
+1B48DB6A D2010000		Weapon	W_Seax
+5248DB6A D2010000		Weapon	W_Seax
+C79B6468 CC010000		Weapon	W_Seax
+9361DB6A D2010000		Weapon	W_Spear
+CA61DB6A D2010000		Weapon	W_Spear
+0E9C6468 CC010000		Weapon	W_Spear
+1980F0F2 C2010000		Weapon	Ranged_Bow_Hunter
+EC86F0F2 C2010000		Weapon	W_Spear
+25250908 8B010000		Weapon	W_Sword
+26250908 8B010000		Weapon	W_Sword
+27250908 8B010000		Weapon	W_Sword
+28250908 8B010000		Weapon	W_Sword
+20250908 8B010000		Weapon	W_Sword
+23250908 8B010000		Weapon	W_Sword
+24250908 8B010000		Weapon	W_Sword
+21250908 8B010000		Weapon	W_Sword
+15E5FFB6 81010000		Weapon	W_Sword
+C8F7702F CD010000		Weapon	W_Spear
+76F7702F CD010000		Weapon	W_Great_Sword
+7E26FA50 89010000		Weapon	W_Default
+CD0FC235 AE010000		Weapon	W_Default
+0884C4F9 90010000		Weapon	Ranged_Bow_Hunter
+B1AF7875 C3010000		Weapon	
+2F3064A7 C4010000		Weapon	W_Bearded_Axe
+505828D5 BD010000		Weapon	W_Great_Flail
+B525A4D2 C1010000		Weapon	W_Double_Headed_Axe
+A24849F4 D7010000		Weapon	W_Great_Sword
+725F5D50 DF010000		Weapon	W_Great_Sword
+BF02D6EE DE010000		Weapon	W_Bearded_Axe
+2B9FB3F0 D9010000		Weapon	W_Seax
+8F4904EB DF010000		Weapon	W_Club
+39FC5FEC D8010000		Weapon	W_Great_Sword
+02DED6EE DE010000		Weapon	W_Sickle
+6DC0BE61 D1010000	Bone Sickle	Weapon	Group_Weapons_Light
+D7DA948D C7010000	Norse Gael Bow	Weapon	Ranged_Bow_Light
+C3AE8452 D7010000	Ceremonial Sickle	Weapon	Group_Weapons_Light
+472E9C8D C7010000	Egyptian Khopesh	Weapon	W_Great_Sword
+236A8752 D7010000	Cú Chulainn Shield	Weapon	Group_Shields
+9BDA948D C7010000	Thorgest's Shield	Weapon	Group_Shields
+B32E9C8D C7010000	Rus' Shield	Weapon	Group_Shields
+112E9C8D C7010000	Iberian Seax	Weapon	W_Seax
+64DA948D C7010000	Gae Bolg	Weapon	W_Spear
+7D2E9C8D C7010000	Byzantine Spear	Weapon	W_Spear
+2035C842 D8010000	Saint George's Holy Sword	Weapon	W_Great_Sword
+627BC942 D8010000	Saint George's Tower Shield	Weapon	Group_Shields
+[/Weapon]

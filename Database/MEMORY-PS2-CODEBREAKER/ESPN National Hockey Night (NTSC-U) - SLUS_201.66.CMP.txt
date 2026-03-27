@@ -1,0 +1,34 @@
+^1 = HASH: 0414648B
+^3 = NAME: ESPN National Hockey Night
+^2 = GameID: SLUS_201.66
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00120D1F
+!!
+!Codes:
++Start On 2Nd Period
+%Credits: Code Master
+$D068ADB4 00000000
+$1068ADB4 00000001
++Start On 3Rd Period
+%Credits: Code Master
+$D068ADB4 00000000
+$1068ADB4 00000002
++P1 Press L1+L2 For More Time
+%Credits: Code Master
+$D0683480 0000FAFF
+$2068ADA8 463B8000
++P1 Press R1+R2 To End Period
+%Credits: Code Master
+$D0683480 0000F5FF
+$2068ADA8 3F800000
++P2 Press L1+L2 For More Time
+%Credits: Code Master
+$D0683A80 0000FAFF
+$2068ADA8 463B8000
++P2 Press R1+R2 To End Period
+%Credits: Code Master
+$D0683A80 0000F5FF
+$2068ADA8 3F800000
+!!

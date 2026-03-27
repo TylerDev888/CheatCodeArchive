@@ -1,0 +1,213 @@
+^1 = Hash: 50 90 B8 3A ED F5 DA 6A 1A DE 25 48 99 04 2B 89 42 B3 29 35
+^2 = GameID: SLUS_206.95
+^3 = NAME: Chaos Legion
+%Credits: CMX>GodShin>lee4:Porting
+!Master:
++Enable Code (MUST BE ON)
+$F0200008 002155F7
+Enable Code (MUST BE ON)
+$902155F4 0C08802C
+!!
+!Misc:
++Disable Fmv
+$2020A310 24020001
++Access All Extras
+$205C1050 FFFFFFFF
+$205C1054 FFFFFFFF
++Quick EXP Gain
+$105C1444 0000FFFF
++Max EXP
+$205C1444 3B9AC9FF
++Max Smash
+$205C1448 0000270F
++Always Low Stage Time
+$205C1468 00000000
++Always Low Boss Time
+$205C146C 00000000
++Max Smash Count
+$105C1478 0000270F
++Max Special Monster
+$105C147A 0000270F
++Infinite Life
+$105A99C4 000003E7
++Max Life
+$105C143A 000003E7
++Infinite Soul
+$105C13F4 000003E7
++Max Soul
+$105C13F6 000003E7
++Have All Legions
+$005C13E5 000000FF
++P1 Press X For Moon Jump
+$D05C6482 0000BFFF
+$205A7E74 BFC00000
+!Sieg Codes:
+!Player Status Codes:
++Max Life
+$105C1438 000003E8
++Max Soul
+$105C13F8 000005DC
++Max Attack
+$105C143C 00005000
++Max Defense
+$105C1440 00000000
+!Max Item Codes(sieg):
++EXP Gem (s)
+$005C14C1 00000063
++EXP Gem (m)
+$005C14C2 00000063
++Life Recovery (s)
+$005C14C3 00000063
++Soul Recovery (s)
+$005C14C4 00000063
++Life Max Up (s)
+$005C14C5 00000001
++Soul Max Up (s)
+$005C14C6 00000001
++Attack Up (s)
+$005C14C7 00000001
++EXP Gem (l)
+$005C14C8 00000063
++Life Recovery (l)
+$005C14C9 00000063
++Soul Recovery (l)
+$005C14CA 00000063
++EXP Gem (xl)
+$005C14CB 00000063
++Sword Crest
+$005C14CC 00000001
++Power Crest
+$005C14CD 00000001
++Arrow Crest
+$005C14CE 00000001
++Shield Crest
+$005C14D0 00000001
++Claw Crest
+$005C14D1 00000001
++Bomb Crest
+$005C14D2 00000001
++Thanatos Chip
+$005C14D3 00000009
++Ultimate Crest
+$005C14D4 00000001
++Life Max Up (l)
+$005C14D5 00000001
++Soul Max Up (l)
+$005C14D6 00000001
++Attack Up (l)
+$005C14D7 00000001
++Defense Up (s)
+$005C14D8 00000001
++Defense Up (l)
+$005C14D9 00000001
++Spiritual Gem
+$005C14DB 00000063
+!!
+!Legion Codes:
++Legion 1 Modifier
+$005C13E4 00000001
+$005C13E6 0000[MOD1]
++Legion 2 Modifier
+$005C13E5 00000001
+$005C13E7 0000[MOD1]
++Max Legion Attack
+$205C1400 77777777
++Max Legion Defense
+$205C1404 77777777
++Max Enchant
+$205C1408 22222222
++Max Assist
+$205C140C 22222222
++Max Force
+$205C1410 22222222
+!!
+!Max Legion EXP Codes:
++Guilt
+$205C1418 3B9AC9FF
++Hatred
+$205C141C 3B9AC9FF
++Malice
+$205C1420 3B9AC9FF
++Arrogance
+$205C1428 3B9AC9FF
++Flawed
+$205C142C 3B9AC9FF
++Blasphemy
+$205C1430 3B9AC9FF
++Thanatos
+$205C1434 3B9AC9FF
+!!
+!Arcia Codes:
++Inf Bullets
+202c4660 00000000
+!Player Status Codes:
++Current Life
+$105C1450 000003E8
++Max Life
+$105C1452 000003E8
++Max EXP
+$205C145C 000F423F
++Max Smash Count
+$205C1460 000F423F
++Max Attack
+$105C1454 00004444
++Max Defense
+$105C1458 000001F4
+!!
+!Max Item Codes (arcia):
++Life Recovery (s)
+$005C14E3 00000063
++Energy Bullet (s)
+$005C14E4 00000063
++Life Max Up (s)
+$005C14E5 00000063
++Magazine Case (s)
+$005C14E6 00000063
++Attack Up (s)
+$005C14E7 00000063
++Life Recovery (l)
+$005C14E9 00000063
++Energy Bullet (l)
+$005C14EA 00000063
++Map Selector
+$005C14EF 00000063
++Life Max Up (l)
+$005C14F5 00000063
++Magazine Case (l)
+$005C14F6 00000063
++Attack Up (l)
+$005C14F7 00000063
++Defense Up (s)
+$005C14F8 00000063
++Defense Up (l)
+$005C14F9 00000063
+!!
+!!
+!Condensed Codes:
++All Items (sieg)
+$405C14C0 00070001
+$63636363 00000000
++All Items (arcia)
+$405C14E0 00080001
+$63636363 00000000
++Max EXP For All Legion
+$405C1418 00080001
+$05F5E0FF 00000000
++Legion Have Max. Status
+$405C1400 00050001
+$88880888 00000000
++Super Legion (combined Of Legion Have Max. Status & Max EXP For All Legion)
+$405C1400 000D0001
+$88880888 00000000
+!!
+^6 = MODS:
+[MOD1]
+0000	Guilt
+0001	Hatred
+0002	Malice
+0003	Guilt
+0004	Arrogance
+0005	Flawed
+0006	Blasphemy
+0007	Thanatos
+[\MOD1]

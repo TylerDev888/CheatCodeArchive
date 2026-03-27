@@ -1,0 +1,74 @@
+^2 = GameID: BLES01419
+^3 = NAME: Metal Gear Solid 2 HD
+^5 = APCRED: Metal Gear Solid 3 HD
+(by bucanero)
+!-- Metal Gear Solid 2 Hd --:
+!Decrypt:
+^4 = FILE: MASTER.BIN
++Decode Master.bin (required)
+$set range:0x0000,eof+1
+$DECRYPT mgs_base64
+^4 = FILE: DATA.BIN
++Decrypt Data.bin (required)
+$set range:0x000004,0x0071A9
+$DECRYPT mgs("2MetalOfSolidSonsLibertyGear")
+(decrypt 2nd layer)
+$set range:0x000004,0x00159B
+$DECRYPT mgs(0x00)
+$set range:0x0015AA,0x0031A9
+$DECRYPT mgs(0x00)
+$set range:0x0031AA,0x0071A9
+$DECRYPT mgs(0x00)
+(cheats should go here)
+!!
+!Encrypt:
++Update Custom Checksum (required)
+$set range:0x000004,0x00159B
+$set [crc1]:mgs2_checksum
+$set range:0x0015AA,0x0031A9
+$set [crc2]:mgs2_checksum
+$set [crc1]:xor:[crc2]
+$write at 0x0015A6:[crc1]
++Encrypt Data.bin (required)
+(encrypt 2nd layer)
+$set range:0x000004,0x00159B
+$ENCRYPT mgs(0x00)
+$set range:0x0015AA,0x0031A9
+$ENCRYPT mgs(0x00)
+$set range:0x0031AA,0x0071A9
+$ENCRYPT mgs(0x00)
+$set range:0x000004,0x0071A9
+$set [master_hash]:CRC32
+$ENCRYPT mgs("2MetalOfSolidSonsLibertyGear")
+^4 = FILE: MASTER.BIN
++Encode Master.bin (required)
+$write at 0x0010:[master_hash]
+$set range:0x0000,eof+1
+$ENCRYPT mgs_base64
+!!
+!-- Metal Gear Solid 3 Hd --:
+!!
+!Decrypt:
+^4 = FILE: MASTER.BIN
++Decode Master.bin (required)
+$set range:0x0000,eof+1
+$DECRYPT mgs_base64
+^4 = FILE: DATA.BIN
++Decrypt Data.bin (required)
+$set range:0x000000,0x00497B
+$DECRYPT mgs("3MetalSolidSnakeEaterGear")
+(cheats should go here)
+!!
+!Encrypt:
++Encrypt Data.bin (required)
+$set range:0x000000,0x00497B
+$set [master_hash]:CRC32
+$ENCRYPT mgs("3MetalSolidSnakeEaterGear")
+^4 = FILE: MASTER.BIN
++Encode Master.bin (required)
+$write at 0x0008:[master_hash]
+$write at 0x0010:[master_hash]
+$set range:0x0000,eof+1
+$ENCRYPT mgs_base64
+!!
+!!

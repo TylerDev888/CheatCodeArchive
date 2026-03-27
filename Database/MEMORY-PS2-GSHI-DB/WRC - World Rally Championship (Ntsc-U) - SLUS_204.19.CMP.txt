@@ -1,0 +1,46 @@
+^3 = NAME: WRC - World Rally Championship (Ntsc-U)
+^2 = GameID: SLUS-20419
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001A1127
++[M] Must Be On
+%Credits: MadCatz
+$F0100270 001A1127
+!!
++Acid Mode
+%Credits: MadCatz
+$00B959E3 00000001
++All Bonus Stages Unlocked
+%Credits: Code Master
+$00B959E4 00000001
++Classic Grand Theft Auto Rally Mode
+%Credits: InterAct
+$00B959E0 00000001
++Drive Underwater
+%Credits: MadCatz
+$00B959DF 00000001
++Everything Unlocked
+%Credits: Code Master
+$00B959E5 00000001
++Flying Car In Relpay
+%Credits: InterAct
+$00B959E2 00000001
++Helium Voice
+%Credits: MadCatz
+$00B959DE 00000001
++Higher Max Speed
+%Credits: MadCatz
+$00B959DD 00000001
++Low Rally Time {<I>Time Will Remain Low Unless You Let Off Of The Accelerator. (Default=X Button) If You Drive Off Course Or Finish The Race, Release &Quot;Accelerate&Quot; To Continue.</I>}
+%Credits: MadCatz
+$D0B4AE12 0000BFFF
+$20B95AE4 00000000
++No Car Shell
+%Credits: MadCatz
+$00B959E1 00000001
++Upside Down Cameras
+%Credits: Code Master
+$00B959DC 00000001
+!!
+

@@ -1,0 +1,32 @@
+^3 = NAME: Twisted Metal - Head-On: Extra Twisted Edition (Ntsc-U)
+^2 = GameID: SCUS-97621
+![ASM]:
++Freeze Attacks Cannot Freeze [ASM]
+%Credits: Josh_7774
+$D012090C AE226308
+$2012090C 00000000
++Infinite Weapons [ASM]
+%Credits: Josh_7774
+$D01487A4 2442FFFF
+$201487A4 00000000
+$D01487AC ACA20038
+$201487AC 00000000
+!!
++Infinite Lives [5] {<I>Combined With The Infinite Health Code, You Are Truly Invincible. Now You Can Fall Off Roofs, Drive In Water, And Get Crushed by that thing in Transylvania and you won&#39;t run out of lives. The instant your lives are reduced to 2, they instantly increase back to 5. You&#39;ll never run out of lives. This was necessary because otherwise the game would stop if you quit endurance mode or maybe other modes that aren&#39;t story mode.</i>}
+%Credits: bungholio
+$D0BE94C0 00000002
+$10BE94C0 00000005
++Infinite Special Energy {<I>You Can Shoot Freeze Missiles And Drop Mines Like Crazy Now.</I>}
+%Credits: bungholio
+$2011BDCC 00000000
++Joker
+%Credits: bungholio
+$D04ED602 0000????
++Kill 1 Opponent To Advance To The Next Stage
+%Credits: bungholio
+$00BE94B8 00000000
++Player 1 - Default Vehicle Gravity (Default Value Is 3Fb47ae1)
+%Credits: Josh_7774
+$21EA6C98 ????????
+!!
+

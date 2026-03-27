@@ -1,0 +1,44 @@
+^1 = HASH: B6 E3 C5 05 74 77 25 CD 83 92 ED D2 DB C0 50 53 E4 37 07 C9 
+^2 = GameID: SLUS_208.85
+^3 = NAME: The Red Star
+!Masters:
++Enable Code (MUST BE ON)
+$9010E5C0 0C043918
+!!
++Inf HP (both Players)
+%Credits: SkillerCMP
+$200A0000 E4610014
+$200A0004 08084551
+$200A0008 C4600014
+$20211540 08028000
++Free Upgrades (buy Them Even With No Money)
+%Credits: SkillerCMP
+$201856D8 24030000
+$201826F4 24030000
++Gun Never Overheating
+%Credits: SkillerCMP
+$2020F2D0 E61F0408
++Shield Never Overheats
+%Credits: SkillerCMP
+$20211038 E61F08E0
++Quick Power Up
+%Credits: SkillerCMP
+$20212410 3C02447A
+$2021241C 3C820884
++Unlock Serects
+%Credits: Lee4
+$4082AE64 000F0002
+$00000001 00000000
+$4082B004 000F0002
+$00000001 00000000
++Max Points To Buy Upgrades
+%Credits: Robby23
+$10822B84 0000270F
++Enemies Off Screen Instanlty Die (doesnt Apply To Bosses)
+%Credits: Robby23
+$201E0700 3C0342C8
+$201E0704 AC830434
+$201E0710 AC83043C
++Max Protocol Attacks
+%Credits: Robby23
+$00822CEC 00000005

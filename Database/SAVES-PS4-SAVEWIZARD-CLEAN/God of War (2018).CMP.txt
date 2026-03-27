@@ -1,0 +1,114 @@
+^2 = GameID: CUSA07408,CUSA07413,CUSA07410,CUSA07412,CUSA07411,CUSA07435
+^3 = NAME: God Of War
+^SECONDLAYER: YES
+^4 = FILE: sce_sdmemory\memory.dat
+{INFO:Slots are in order as seen on screen}
++Change Difficulty{Info:slots Are In Order As Seen On Screen}
+$[Slot]
+$88010008 5F2243C6
+$95480000 00000000
+$93000000 00000002
+$08000000 000000[Diff]
++Find Armour Mod Runes Equipped Only Mod Runes Armor Has{Info:slots Are In Order As Seen On Screen}
+$[Slot]
+$88[RSlot]0008 [Equipment]
+$[Rune]
+$28000008 [AMOUNT:42c60000:FLOAT:BIG]
+^6 = MODS:
+[Slot]
+Value>Save Slot
+90000000 00000200	Slot 1
+90000000 00000208	Slot 2
+90000000 00000210	Slot 3
+90000000 00000218	Slot 4
+90000000 00000220	Slot 5
+90000000 00000228	Slot 6
+90000000 00000230	Slot 7
+90000000 00000238	Slot 8
+90000000 00000240	Slot 9
+90000000 00000248	Slot 10
+90000000 00000250	Slot 11
+90000000 00000258	Slot 12
+90000000 00000260	Slot 13
+90000000 00000268	Slot 14
+90000000 00000270	Slot 15
+90000000 00000278	Slot 16
+90000000 00000280	Slot 17
+90000000 00000288	Slot 18
+90000000 00000290	Slot 19
+90000000 00000298	Slot 20
+[/Slot]
+[Diff]
+Value>Difficulty
+00	Story
+01	Balanced
+02	Challenge
+03	God of War
+[/Diff]
+[RSlot]
+Value>Rune Slot
+01	Slot 1
+02	Slot 2
+03	Slot 3
+[/RSlot]
+[Equipment]
+Value>Armour
+BCB44F41 C8303BEF	Arcane Bracers
+D6E45934 4F03170F	Arcane Bracers Lv2
+C7E05934 4F03170F	Arcane Bracers Lv3
+E6C0860B 783953B8	Arcane Shoulder Wraps
+78CD1853 48F0B82F	Arcane Shoulder Wraps Lv2
+0BD11853 48F0B82F	Arcane Shoulder Wraps Lv3
+E9CC8DD7 8159E2E9	Arcane Waist Guard
+EB0A0F21 7E651246	Arcane Waist Guard Lv2
+FA0E0F21 7E651246	Arcane Waist Guard Lv3
+BBE241E6 B9F903EC	Aspis of Spartan Fury
+84A036FF DBBF522C	Blazing Magma Pauldrons +
+0EC693CA FBFF3A1D	Boar Hide Belt
+EA45EAAB 74B20760	Boar Hide Belt Lv2
+1B79EAAB 74B20760	Boar Hide Belt Lv3
+65B1B048 DC097627	Boar Hide Bracers
+45B26DC6 65DB30C6	Boar Hide Bracers Lv2
+B68E6DC6 65DB30C6	Boar Hide Bracers Lv3
+7FC99E30 CAE5761D	Boar Hide Shoulder Guards
+0688A2A2 CDE929C9	Boar Hide Shoulder Guards Lv2
+3584A2A2 CDE929C9	Boar Hide Shoulder Guards Lv3
+3A18A40C 83CD028D	Breastplate of Fallen Ash +
+8D6E8A6B 455995DE	Breastplate of the Traveler +
+E98DAFCF 68C32489	Brok's Royal Dwarven Breastplate +
+503DAAC6 C42CC83D	Cuirass of Ares
+B74F7BCF 35641B8F	Cuirass of the Valkyrie
+AFF2BFC2 A5CA57B4	Cuirass of the Valkyrie +
+4339AAC6 C42CC83D	Cuirass of Zeus
+17DB6815 F553A0E4	Gauntlets of the Valkyrie
+BD6FCA03 02FD7F8C	Ivaldi's Cuirass of Endless Mist +
+68D6F7F7 0AC45EAF	Ivaldi's Pauldron of Deadly Mist +
+470E9626 72ED11FB	Ivaldi's Pauldron of Deadly Mist + Lvl2
+FC4A6863 C5CF12FB	Ivaldi's Pauldron of Deadly Mist + Lvl3
+19389742 E43908AD	Ivaldi's Spaulders of Cursed Mist +
+7146293F 025D7B0D	Pauldron of the Ancients +
+1F3451A0 EC0D5A2E	Reaver Belt
+1F809064 86DF5D22	Reaver Belt Lv2
+00849064 86DF5D22	Reaver Belt Lv3
+A2758B8C 9BE22666	Reaver Forearm Bands
+0912F93A BF6ADC52	Reaver Forearm Bands Lv2
+1E16F93A BF6ADC52	Reaver Forearm Bands Lv3
+3058E212 01646AAF	Reaver Tunic
+143CFA2C 08F5C3E8	Reaver Tunic Lv2
+0538FA2C 08F5C3E8	Reaver Tunic Lv3
+BBA761DD CA1716E0	Sindri's Royal Dwarven Breastplate +
+E665EB2F 70E2B243	Smoldering Brimstone Pauldron +
+0E2F9E9A 69FB61A5	Smoldering Brimstone Pauldron + Lvl2
+9B293CAA A215AAAA	Smoldering Brimstone Pauldron + Lvl3
+0FD03F4A BE9A21AE	Tyr's Lost Unity Cuirass +
+645AF4F1 BD48FCEA	Waist Guard of the Valkyrie
+[/Equipment]
+[Rune]
+Value>Rune Type
+88010008 0B72D37F 6DC3F0F0 00000000	Defense
+88010008 CBC51FB7 7C16F8F3 00000000	Vitality
+88010008 93E62C7A 854C0000 00000000	Luck
+88010008 48B6FD1A C0CB4E01 00000000	Runic
+88010008 57B8D16A F17D1E01 00000000	CoolDown
+88010008 7A00D0F0 1CCEAB3A 00000000	Strength
+[/Rune]

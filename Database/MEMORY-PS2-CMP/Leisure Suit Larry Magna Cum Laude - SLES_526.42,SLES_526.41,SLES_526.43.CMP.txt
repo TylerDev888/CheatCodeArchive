@@ -1,0 +1,527 @@
+^2 = GameID: SLES_526.42,SLES_526.41,SLES_526.43
+^3 = NAME: Leisure Suit Larry: Magna Cum Laude
+!Masters:
++Enable Code (MUST BE ON)
+$F011C3B4 0011C3B7
++Enable Code (MUST BE ON)
+$9010A9F0 0C042A24
+!!
+!Bonus Option Codes:
++Naughty Mode
+%Credits: CodeJunkies
+$4094AB2C 00070004
+$00000001 00000000
++Nude Mode
+%Credits: CodeJunkies
+$2094AB9C 00000001
+!!
+!Character Viewer Codes:
++All Girls
+%Credits: CodeJunkies
+$40416FF8 00280010
+$00000000 00000000
++All Larry Costumes
+%Credits: CodeJunkies
+$40416E78 00060010
+$00000000 00000000
++No Censorship-Character Viewer
+%Credits: CodeJunkies
+$20C98878 00000000
+!!
+!Girl Codes:
++Always Drunk
+%Credits: MadCatz
+$2097866C 00000064
++Never Drunk
+%Credits: MadCatz
+$2097866C 00000000
+!!
+!Lerry Codes:
++Always Drunk
+%Credits: MadCatz
+$2097851C 00000063
++Never Drunk
+%Credits: MadCatz
+$2097851C 00000000
+!!
+!Misc:
++Always Confident
+%Credit: MadCatz
+$209798EC 42C80000
++Always Low Play Time
+%Credit: Code Master
+$2094D3FC 00000000
++Always Max Heart (talking To Ladies)
+%Credit: Code Master
+$201A2550 2403000A
+$201A25BC 2403000A
++Infinite Health
+%Credit: CodeJunkies
+$201A25BC 2403000A
++Infinite Lives
+%Credit: CodeJunkies
+$20243F98 00000000
++Never Drunk(asm)
+%Credit: CodeJunkies
+$201BD9A8 24020000
+!Max:
++Max Action Heart Meter
+%Credit: CodeJunkies
+$20CFC7B0 00000064
++Max Alcohol Consumed
+%Credit: Code Master
+$2094D38C 0000270F
++Max Cash
+%Credit: CodeJunkies
+$2097853C 0000270F
++Max Confidence
+%Credit: Code Master
+$209798EC 42C80000
++Max Fame
+%Credit: CodeJunkies
+$201A1F58 3C0142C8
+$201A1F5C 44810000
++Max Farts
+%Credit: Code Master
+$2094D40C 0000270F
++Max Gallons Peed
+%Credit: Code Master
+$2094D3DC 0032DCB0
++Max Hackeys Ruined
+%Credit: Code Master
+$2094D3EC 0000270F
++Max Mixing Drink Meter
+%Credit: MadCatz
+$209286B4 00000063
++Max Money
+%Credit: Code Master
+$2097853C 0000270F
++Max Money Spent
+%Credit: Code Master
+$2094D39C 0000270F
++Max Objects Examined
+%Credit: Code Master
+$2094D37C 0000270F
++Max Secret Tokens
+%Credit: Code Master
+$1097852C 0000270F
++Max Stuff Kicked
+%Credit: Code Master
+$2094D3CC 0000270F
++Max Talk Heart Meter
+%Credit: MadCatz
+$20CF6C34 0000000A
++Max Token Victory/Money
+%Credit: CodeJunkies
+$200FFF00 240103E7
+$200FFF04 AC410000
+$200FFF08 080853A0
+$20214F58 0803FFC0
+!!
+!No:
++No Alcohol Consumed
+%Credit: Code Master
+$2094D38C 00000000
++No Confidence
+%Credit: Code Master
+$209798EC 00000000
++No Farts
+%Credit: Code Master
+$2094D40C 00000000
++No Gallons Peed
+%Credit: Code Master
+$2094D3DC 00000000
++No Hackeys Ruined
+%Credit: Code Master
+$2094D3EC 00000000
++No Money
+%Credit: Code Master
+$2097853C 00000000
++No Money Spent
+%Credit: Code Master
+$2094D39C 00000000
++No Objects Examined
+%Credit: Code Master
+$2094D37C 00000000
++No Secret Tokens
+%Credit: Code Master
+$1097852C 00000000
++No Stuff Kicked
+%Credit: Code Master
+$2094D3CC 00000000
+!!
++Remove Censored Bar (character Viewer)
+%Credit: Code Master
+$10181F04 00001000
++Super Nude Mode
+%Credit: Code Master
+$20476F70 00000000
+$20476F74 00000000
+$2094D7EC 00000001
++The Greatest Code In The Known Universe (all Nude! All The Time!)
+%Credit: CodeJunkies
+$201D7B24 00000000
+$201D7B48 00000000
+$201D7888 00000000
+$201D7CE0 00000000
+$201D7AA8 00000000
+$201D7DF4 00000000
+$201D7E18 00000000
+$20225948 00000000
+$201B190C 00000000
+$201B1A94 00000000
+$201B1AFC 00000000
+$201B1B0C 00000000
+$2094D7EC 00000001
++Unlock Naughty Mode (bonus Options)
+%Credit: Code Master
+$2094AB8C 00000001
++Unlock Nude Mode (bonus Options)
+%Credit: Code Master
+$2094AB9C 00000001
+!!
+!Unlock Character Viewer Codes:
++All Character Models
+%Credit: Code Master
+$40416E38 002F0010
+$00000000 00000000
++Girl 1 (maid)
+%Credit: Code Master
+$20416FF8 00000000
++Girl 1 (nude)
+%Credit: Code Master
+$20417038 00000000
++Girl 2 (cheerleader)
+%Credit: Code Master
+$20417078 00000000
++Girl 2 (nude)
+%Credit: Code Master
+$204170F8 00000000
++Girl 2 (white Dress)
+%Credit: Code Master
+$204170B8 00000000
++Girl 3 (casual)
+%Credit: Code Master
+$20417138 00000000
++Girl 3 (nude)
+%Credit: Code Master
+$20417178 00000000
++Girl 4 (all Black)
+%Credit: Code Master
+$204171B8 00000000
++Girl 4 (clown)
+%Credit: Code Master
+$204171F8 00000000
++Girl 4 (nude)
+%Credit: Code Master
+$20417238 00000000
++Girl 5 (dirndl Dress)
+%Credit: Code Master
+$20417278 00000000
++Girl 5 (nude)
+%Credit: Code Master
+$204172B8 00000000
++Girl 6 (cowgirl)
+%Credit: Code Master
+$204172F8 00000000
++Girl 6 (nude)
+%Credit: Code Master
+$20417338 00000000
++Girl 7 (dressed)
+%Credit: Code Master
+$20417378 00000000
++Girl 7 (nude)
+%Credit: Code Master
+$204173B8 00000000
++Girl 8 (marching)
+%Credit: Code Master
+$204173F8 00000000
++Girl 8 (nude)
+%Credit: Code Master
+$20417438 00000000
++Girl 9 (casual)
+%Credit: Code Master
+$20417478 00000000
++Girl 9 (nude)
+%Credit: Code Master
+$204174B8 00000000
++Girl 10 (casual)
+%Credit: Code Master
+$204174F8 00000000
++Girl 10 (nude)
+%Credit: Code Master
+$20417538 00000000
++Girl 11 (black Skirt)
+%Credit: Code Master
+$20417578 00000000
++Girl 11 (nude)
+%Credit: Code Master
+$204175B8 00000000
++Girl 12 (nude)
+%Credit: Code Master
+$20417638 00000000
++Girl 12 (office)
+%Credit: Code Master
+$204175F8 00000000
++Girl 13 (lingerie)
+%Credit: Code Master
+$204176B8 00000000
++Girl 13 (nerd)
+%Credit: Code Master
+$20417678 00000000
++Girl 13 (nude)
+%Credit: Code Master
+$204176F8 00000000
++Girl 14 (casual)
+%Credit: Code Master
+$20417738 00000000
++Girl 14 (nude)
+%Credit: Code Master
+$20417778 00000000
++Girl 15 (casual)
+%Credit: Code Master
+$204177B8 00000000
++Girl 15 (nude)
+%Credit: Code Master
+$204177F8 00000000
++Girl 16 (biker)
+%Credit: Code Master
+$20417838 00000000
++Girl 16 (lingerie)
+%Credit: Code Master
+$20417878 00000000
++Girl 16 (nude)
+%Credit: Code Master
+$204178B8 00000000
++Girl 17 (casual)
+%Credit: Code Master
+$204178F8 00000000
++Girl 17 (nude)
+%Credit: Code Master
+$20417938 00000000
++Girl 18 (casual)
+%Credit: Code Master
+$20417978 00000000
++Girl 18 (nude)
+%Credit: Code Master
+$204179B8 00000000
++Larry (cool)
+%Credit: Code Master
+$20416E78 00000000
++Larry (geek)
+%Credit: Code Master
+$20416EB8 00000000
++Larry (main)
+%Credit: Code Master
+$20416E38 00000000
++Larry (mascot)
+%Credit: Code Master
+$20416F38 00000000
++Larry (mime)
+%Credit: Code Master
+$20416EF8 00000000
++Larry (prep)
+%Credit: Code Master
+$20416F78 00000000
++Larry (suit)
+%Credit: Code Master
+$20416FB8 00000000
+!!
+!Unlock Concept Art Codes:
++All Concept Art
+%Credit: CodeJunkies
+$409528D0 003F0001
+$00000001 00000000
++Pic 1
+%Credit: Code Master
+$209528D0 00000001
++Pic 2
+%Credit: Code Master
+$209528D4 00000001
++Pic 3
+%Credit: Code Master
+$209528D8 00000001
++Pic 4
+%Credit: Code Master
+$209528DC 00000001
++Pic 5
+%Credit: Code Master
+$209528E0 00000001
++Pic 6
+%Credit: Code Master
+$209528E4 00000001
++Pic 7
+%Credit: Code Master
+$209528E8 00000001
++Pic 8
+%Credit: Code Master
+$209528EC 00000001
++Pic 9
+%Credit: Code Master
+$209528F0 00000001
++Pic 10
+%Credit: Code Master
+$209528F4 00000001
++Pic 11
+%Credit: Code Master
+$209528F8 00000001
++Pic 12
+%Credit: Code Master
+$209528FC 00000001
++Pic 13
+%Credit: Code Master
+$20952900 00000001
++Pic 14
+%Credit: Code Master
+$20952904 00000001
++Pic 15
+%Credit: Code Master
+$20952908 00000001
++Pic 16
+%Credit: Code Master
+$2095290C 00000001
++Pic 17
+%Credit: Code Master
+$20952910 00000001
++Pic 18
+%Credit: Code Master
+$20952914 00000001
++Pic 19
+%Credit: Code Master
+$20952918 00000001
++Pic 20
+%Credit: Code Master
+$2095291C 00000001
++Pic 21
+%Credit: Code Master
+$20952920 00000001
++Pic 22
+%Credit: Code Master
+$20952924 00000001
++Pic 23
+%Credit: Code Master
+$20952928 00000001
++Pic 24
+%Credit: Code Master
+$2095292C 00000001
++Pic 25
+%Credit: Code Master
+$20952930 00000001
++Pic 26
+%Credit: Code Master
+$20952934 00000001
++Pic 27
+%Credit: Code Master
+$20952938 00000001
++Pic 28
+%Credit: Code Master
+$2095293C 00000001
++Pic 29
+%Credit: Code Master
+$20952940 00000001
++Pic 30
+%Credit: Code Master
+$20952944 00000001
++Pic 31
+%Credit: Code Master
+$20952948 00000001
++Pic 32
+%Credit: Code Master
+$2095294C 00000001
++Pic 33
+%Credit: Code Master
+$20952950 00000001
++Pic 34
+%Credit: Code Master
+$20952954 00000001
++Pic 35
+%Credit: Code Master
+$20952958 00000001
++Pic 36
+%Credit: Code Master
+$2095295C 00000001
++Pic 37
+%Credit: Code Master
+$20952960 00000001
++Pic 38
+%Credit: Code Master
+$20952964 00000001
++Pic 39
+%Credit: Code Master
+$20952968 00000001
++Pic 40
+%Credit: Code Master
+$2095296C 00000001
++Pic 41
+%Credit: Code Master
+$20952970 00000001
++Pic 42
+%Credit: Code Master
+$20952974 00000001
++Pic 43
+%Credit: Code Master
+$20952978 00000001
++Pic 44
+%Credit: Code Master
+$2095297C 00000001
++Pic 45
+%Credit: Code Master
+$20952980 00000001
++Pic 46
+%Credit: Code Master
+$20952984 00000001
++Pic 47
+%Credit: Code Master
+$20952988 00000001
++Pic 48
+%Credit: Code Master
+$2095298C 00000001
++Pic 49
+%Credit: Code Master
+$20952990 00000001
++Pic 50
+%Credit: Code Master
+$20952994 00000001
++Pic 51
+%Credit: Code Master
+$20952998 00000001
++Pic 52
+%Credit: Code Master
+$2095299C 00000001
++Pic 53
+%Credit: Code Master
+$209529A0 00000001
++Pic 54
+%Credit: Code Master
+$209529A4 00000001
++Pic 55
+%Credit: Code Master
+$209529A8 00000001
++Pic 56
+%Credit: Code Master
+$209529AC 00000001
++Pic 57
+%Credit: Code Master
+$209529B0 00000001
++Pic 58
+%Credit: Code Master
+$209529B4 00000001
++Pic 59
+%Credit: Code Master
+$209529B8 00000001
++Pic 60
+%Credit: Code Master
+$209529BC 00000001
++Pic 61
+%Credit: Code Master
+$209529C0 00000001
++Pic 62
+%Credit: Code Master
+$209529C4 00000001
++Pic 63
+%Credit: Code Master
+$209529C8 00000001
++Pic 64
+%Credit: Code Master
+$209529CC 00000001
+!!

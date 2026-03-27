@@ -1,0 +1,34 @@
+^3 = NAME: Uchuu No Stellvia (Ntsc-J)
+^2 = GameID: SLPS-25294
+!Master Codes:
++Master Code
+%Credits: punk7890
+$9016DE38 0C05B736
+!!
+!Miscellaneous:
++Debug Scene Select Menu {<I>With This On, Highlight The Main Menu Option &Quot;Extra&Quot;, Then Press Down Twice Then Circle Once To Access This Menu.</I>}
+%Credits: punk7890
+$201E8064 24020004
+$001E806A 00000022
++Unlock All Cards
+%Credits: punk7890
+$407B8D90 00230001
+$01010101 00000000
+$107B8E1C 00000101
++Unlock All Gallery
+%Credits: punk7890
+$007B8E73 00000001
+$407B8E74 00200001
+$01010101 00000000
++Unlock All Movies
+%Credits: punk7890
+$107B8E1E 00000101
+$407B8E20 00140001
+$01010101 00000000
+$107B8E70 00000101
+$007B8E72 00000001
++Unlock Voice Previewer & Simulator Room
+%Credits: punk7890
+$107B8F0C 0000FFFF
+!!
+

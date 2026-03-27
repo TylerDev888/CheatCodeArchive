@@ -1,0 +1,325 @@
+^3 = NAME: State Of Emergency (Ntsc-U)
+^2 = GameID: SLUS-20214
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01755FC 001B31CF
++(M) Must Be On
+%Credits: Codejunkies
+$F01B31CC 001B31CF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001B31CF
+!!
+!Chaos Low Stage Target Codes:
++Stage 0
+%Credits: Code Master
+$201DB87C 00000001
++Stage 1
+%Credits: Code Master
+$201DB880 00000001
++Stage 10
+%Credits: Code Master
+$201DB8A4 00000001
++Stage 11
+%Credits: Code Master
+$201DB8A8 00000001
++Stage 12
+%Credits: Code Master
+$201DB8AC 00000001
++Stage 14
+%Credits: Code Master
+$201DB8B4 00000001
++Stage 15
+%Credits: Code Master
+$201DB8B8 00000001
++Stage 16
+%Credits: Code Master
+$201DB8BC 00000001
++Stage 17
+%Credits: Code Master
+$201DB8C0 00000001
++Stage 18
+%Credits: Code Master
+$201DB8C4 00000001
++Stage 19
+%Credits: Code Master
+$201DB8C8 00000001
++Stage 2
+%Credits: Code Master
+$201DB884 00000001
++Stage 3
+%Credits: Code Master
+$201DB888 00000001
++Stage 4
+%Credits: Code Master
+$201DB88C 00000001
++Stage 5
+%Credits: Code Master
+$201DB890 00000001
++Stage 6
+%Credits: Code Master
+$201DB894 00000001
++Stage 7
+%Credits: Code Master
+$201DB898 00000001
++Stage 8
+%Credits: Code Master
+$201DB89C 00000001
++Stage 9
+%Credits: Code Master
+$201DB8A0 00000001
+!!
+!Have All Revolution Levels Complete Codes:
++Save Slot 1
+%Credits: Code Master
+$101DBF88 00000009
++Save Slot 2
+%Credits: Code Master
+$101DBFA0 00000009
++Save Slot 3
+%Credits: Code Master
+$101DBFB8 00000009
++Save Slot 4
+%Credits: Code Master
+$101DBFD0 00000009
++Save Slot 5
+%Credits: Code Master
+$101DBFE8 00000009
+!!
+!Have Kaos & Fixed Time Complete Codes (Chaos Mode):
++Save Slot 1
+%Credits: Code Master
+$101DC000 0000FFFF
++Save Slot 2
+%Credits: Code Master
+$101DC018 0000FFFF
++Save Slot 3
+%Credits: Code Master
+$101DC030 0000FFFF
++Save Slot 4
+%Credits: Code Master
+$101DC048 0000FFFF
++Save Slot 5
+%Credits: Code Master
+$101DC060 0000FFFF
+!!
+!Low Chaos Codes:
++Low Chaos Stage 1
+%Credits: InterAct
+$201DB880 00000064
++Low Chaos Stage 10
+%Credits: InterAct
+$201DB8A4 00000064
++Low Chaos Stage 11
+%Credits: InterAct
+$201DB8A8 00000064
++Low Chaos Stage 12
+%Credits: InterAct
+$201DB8AC 00000064
++Low Chaos Stage 13
+%Credits: InterAct
+$201DB8B0 00000064
++Low Chaos Stage 14
+%Credits: InterAct
+$201DB8B4 00000064
++Low Chaos Stage 15
+%Credits: InterAct
+$201DB8B8 00000064
++Low Chaos Stage 16
+%Credits: InterAct
+$201DB8BC 00000064
++Low Chaos Stage 17
+%Credits: InterAct
+$201DB8C0 00000064
++Low Chaos Stage 18
+%Credits: InterAct
+$201DB8C4 00000064
++Low Chaos Stage 19
+%Credits: InterAct
+$201DB8C8 00000064
++Low Chaos Stage 2
+%Credits: InterAct
+$201DB884 00000064
++Low Chaos Stage 20
+%Credits: InterAct
+$201DB8CC 00000064
++Low Chaos Stage 3
+%Credits: InterAct
+$201DB888 00000064
++Low Chaos Stage 4
+%Credits: InterAct
+$201DB88C 00000064
++Low Chaos Stage 5
+%Credits: InterAct
+$201DB890 00000064
++Low Chaos Stage 6
+%Credits: InterAct
+$201DB894 00000064
++Low Chaos Stage 7
+%Credits: InterAct
+$201DB898 00000064
++Low Chaos Stage 8
+%Credits: InterAct
+$201DB89C 00000064
++Low Chaos Stage 9
+%Credits: InterAct
+$201DB8A0 00000064
+!!
+!Size Modifier:
++Always In Huge Mode
+%Credits: Codejunkies
+$101DBC90 00000001
++Always In Tiny Mode
+%Credits: Codejunkies
+$10219350 00000004
++Chaos Mode Is Complete
+%Credits: Codejunkies
+$101DCFF8 0000071F
+$101DC000 00005FF9
++Huge Mode (Press R3 To Activate)
+%Credits: Codejunkies
+$D01DFAC2 0000FFFB
+$101DBC90 00000002
++Low Civilian Penalty
+%Credits: Codejunkies
+$201DBB84 000F423F
++Low Total Time
+%Credits: Codejunkies
+$101DB800 0000270F
++Massive Building Score
+%Credits: Codejunkies
+$201DBB8C 00000000
++Massive Corporation Score
+%Credits: Codejunkies
+$201DB6D0 05F5E0FF
++Massive Gang Socre
+%Credits: Codejunkies
+$201DBB88 000F423F
++Massive Objective Bonus
+%Credits: Codejunkies
+$201DBB74 000F423F
++Massive Score
+%Credits: Codejunkies
+$201DD040 000F423F
+$201DB6CC 05F5E0FF
++Massive Vehicle Score
+%Credits: Codejunkies
+$201DBB7C 000F423F
++Mega Corporation Kills
+%Credits: Codejunkies
+$101DBC90 00000002
++Mega Gang Kills
+%Credits: Codejunkies
+$201DD038 000F423F
++Normal Mode (Press L3+R3 To Activate)
+%Credits: Codejunkies
+$D01DFAC2 0000FFF9
+$101DBC90 00000000
++Revolution Mode Is Complete
+%Credits: Codejunkies
+$101DD000 00005FF9
++Tiny Mode (Press L3 To Activate)
+%Credits: Codejunkies
+$D01DFAC2 0000FFFD
+$101DBC90 00000001
++Unlock Chaos (Super Stage Level)
+%Credits: Codejunkies
+$201DBB90 000F423F
++Unlock The Extra Characters
+%Credits: Codejunkies
+$201DB6EC 3F3BBBB8
+!!
++Always Low Overall Time
+%Credits: Code Master
+$201DB6EC 00000000
++Chaos Complete (All Chaos Levels & Modes Available)
+%Credits: InterAct
+$101DC000 00005FF9
+$101DD000 00005FF9
++Chaos Stage Modifier (0000-7FFF)
+%Credits: Code Master
+$201DB800 0000????
++Debug Menu (Press L3 To Enable, R3 To Disable While In Game)
+%Credits: punk7890
+$D01DFA42 0000FFFD
+$201532B0 00000000
+$D01DFA42 0000FFFD
+$101532D4 0000C6FE
+$D01DFA42 0000FFFB
+$201532B0 1040000B
+$D01DFA42 0000FFFB
+$101532D4 0000934A
+$D01DFA42 0000FFFB
+$201DD014 00000000
+$D01DFA42 0000FFFB
+$0021DB60 00000000
++Extra Characters
+%Credits: InterAct
+$101DCFF8 0000071F
++Have All Characters
+%Credits: Code Master
+$201DCFF8 FFFFFFFF
++High Score
+%Credits: InterAct
+$201DB6CC 05F5E0FF
+$201DB6D0 05F5E0FF
++Infinite Ammo
+%Credits: Code Master
+$201DBC80 00000001
++Infinite Gun Ammo
+%Credits: InterAct
+$101DBC80 00000001
++Infinite Health
+%Credits: InterAct
+$101DBC78 00000001
++Infinite Health
+%Credits: Code Master
+$201DBC78 00000001
++Infinite Time
+%Credits: InterAct
+$101DBC7C 00000001
++Infinite Time
+%Credits: Code Master
+$201DBC7C 00000001
++Looting On The Rise
+%Credits: Code Master
+$201DBC8C 00000001
++Max Corporation Kills
+%Credits: Code Master
+$201DD038 0098967F
++Max Gang Member Kills
+%Credits: Code Master
+$201DD040 0098967F
++Max Score
+%Credits: Code Master
+$201DB6CC 05F5E0FF
++Mega Gang Kills
+%Credits: InterAct
+$201DD040 000F423F
++More Looting
+%Credits: InterAct
+$101DBC8C 00000001
++Press L1+L2 For Huge Player
+%Credits: Code Master
+$D01DFA42 0000FAFF
+$201DBC90 00000002
++Press L1+R1 For Normal Player
+%Credits: Code Master
+$D01DFA42 0000F3FF
+$201DBC90 00000000
++Press R1+R2 For Tiny Player
+%Credits: Code Master
+$D01DFA42 0000F5FF
+$201DBC90 00000001
++Punch Off Heads
+%Credits: InterAct
+$101DBC88 00000001
++Punches Decapitate
+%Credits: Code Master
+$201DBC88 00000001
++Quick Score Gain
+%Credits: Code Master
+$101DB6CC 0000FFFF
+!!
+

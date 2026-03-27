@@ -1,0 +1,562 @@
+^3 = NAME: Riding Spirits (Ntsc-U)
+^2 = GameID: SLUS-20429
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0020BA77
+!!
++Access All Riding Spirit Races
+%Credits: Code Master
+$20247A78 FFFFFFFF
+$20247A7C FFFFFFFF
++Always Low Lap 1 Total Time
+%Credits: Code Master
+$202A0254 00000000
++Always Low Lap 2 Total Time
+%Credits: Code Master
+$202A0258 00000000
++Always Low Lap 3 Total Time
+%Credits: Code Master
+$202A025C 00000000
++Always Low Total Time
+%Credits: Code Master
+$202A023C 00000000
+!Have Battle Duel Complete Codes:
++All Bikes
+%Credits: Code Master
+$40247790 00050001
+$01010101 00000000
++Cbr600f Sport VR Special
+%Credits: Code Master
+$00247794 00000001
++Cbr954rr
+%Credits: Code Master
+$0024779B 00000001
++Cbr1100xx Super Blackbird
+%Credits: Code Master
+$0024779D 00000001
++Fz400r
+%Credits: Code Master
+$00247791 00000001
++Gpz400r
+%Credits: Code Master
+$00247793 00000001
++GSX-R600
+%Credits: Code Master
+$00247797 00000001
++GSX-R750
+%Credits: Code Master
+$0024779A 00000001
++Kr250
+%Credits: Code Master
+$00247790 00000001
++Rs250r
+%Credits: Code Master
+$002477A1 00000001
++Tl1000s
+%Credits: Code Master
+$0024779C 00000001
++Tz250
+%Credits: Code Master
+$002477A0 00000001
++Tzr250spr
+%Credits: Code Master
+$00247792 00000001
++Vfr750r(RC30)
+%Credits: Code Master
+$00247799 00000001
++Vtr1000sp-1 Complete Racer
+%Credits: Code Master
+$002477A2 00000001
++Yoshimura Hayabusa X-1
+%Credits: Code Master
+$002477A3 00000001
++YZF-R6
+%Credits: Code Master
+$00247796 00000001
++YZF-R6 Champions Limited Edition
+%Credits: Code Master
+$00247795 00000001
++ZX-6R
+%Credits: Code Master
+$00247798 00000001
++ZX-12R
+%Credits: Code Master
+$0024779F 00000001
++ZZ-R1100
+%Credits: Code Master
+$0024779E 00000001
+!!
+!Have Circuit Riding Master Codes:
++CR-01
+%Credits: Code Master
+$00247758 00000004
++CR-02
+%Credits: Code Master
+$00247759 00000004
++CR-03
+%Credits: Code Master
+$0024775A 00000004
++CR-04
+%Credits: Code Master
+$0024775B 00000004
++CR-05
+%Credits: Code Master
+$0024775C 00000004
++CR-06
+%Credits: Code Master
+$0024775D 00000004
++CR-07
+%Credits: Code Master
+$0024775E 00000004
++CR-08
+%Credits: Code Master
+$0024775F 00000004
++CR-09
+%Credits: Code Master
+$00247760 00000004
++CR-10
+%Credits: Code Master
+$00247761 00000004
++CR-11
+%Credits: Code Master
+$00247762 00000004
++CR-12
+%Credits: Code Master
+$00247763 00000004
++CR-13
+%Credits: Code Master
+$00247764 00000004
++CR-14
+%Credits: Code Master
+$00247765 00000004
++CR-15
+%Credits: Code Master
+$00247766 00000004
++CR-16
+%Credits: Code Master
+$00247767 00000004
++CR-17
+%Credits: Code Master
+$00247768 00000004
++CR-18
+%Credits: Code Master
+$00247769 00000004
++CR-19
+%Credits: Code Master
+$0024776A 00000004
++CR-20
+%Credits: Code Master
+$0024776B 00000004
+!!
+!Have Class A Medal Modifier Codes:
++Battle From Zero-Battle From Zero Naked
+%Credits: Code Master
+$002477FD 000000??
++Battle From Zero-Battle From Zero Open
+%Credits: Code Master
+$002477FE 000000??
++Battle From Zero-Battle From Zero Sports {<I>00 - None<Br>01 - Placed 1St<Br>02 - Placed 2Nd<Br>03 - Placed 3Rd<Br>04 - Placed 4Th<Br>05 - Placed 5Th<Br>06 - Placed 6Th</I>}
+%Credits: Code Master
+$002477FC 000000??
++Class Race-250 CC
+%Credits: Code Master
+$002477E4 000000??
++Class Race-400 CC
+%Credits: Code Master
+$002477E5 000000??
++Class Race-600 CC
+%Credits: Code Master
+$002477E6 000000??
++Class Race-750 CC
+%Credits: Code Master
+$002477E7 000000??
++Class Race-Open
+%Credits: Code Master
+$002477E8 000000??
++King Of Rs-King Of RS Heat 1
+%Credits: Code Master
+$00247804 000000??
++King Of Rs-King Of RS Heat 2
+%Credits: Code Master
+$00247805 000000??
++King Of Rs-King Of RS Heat 3
+%Credits: Code Master
+$00247806 000000??
++King Of Rs-King Of RS Heat 4
+%Credits: Code Master
+$00247807 000000??
++King Of Rs-King Of RS Heat 5
+%Credits: Code Master
+$00247808 000000??
++King Of Rs-King Of RS Heat 6
+%Credits: Code Master
+$00247809 000000??
++King Of Rs-King Of RS Heat 7
+%Credits: Code Master
+$0024780A 000000??
++Speed Master-Maximum
+%Credits: Code Master
+$002477F5 000000??
++Speed Master-Power Wars
+%Credits: Code Master
+$002477F4 000000??
++Speed Master-Time Tunnel~70'S
+%Credits: Code Master
+$002477F7 000000??
++Speed Master-Time Tunnel~80'S
+%Credits: Code Master
+$002477F8 000000??
++Speed Master-Unlimited
+%Credits: Code Master
+$002477F6 000000??
++The Super Machine-Super Naked
+%Credits: Code Master
+$002477ED 000000??
++The Super Machine-Super Sports
+%Credits: Code Master
+$002477EC 000000??
++The Super Machine-Super Street
+%Credits: Code Master
+$002477EE 000000??
++The Super Machine-Super Twin
+%Credits: Code Master
+$002477EF 000000??
+!!
+!Have Class B Medal Modifier Codes:
++Battle From Zero-Battle From Zero 600
+%Credits: Code Master
+$002477DE 000000??
++Battle From Zero-Battle From Zero Naked
+%Credits: Code Master
+$002477DD 000000??
++Battle From Zero-Battle From Zero Sports {<I>00 - None<Br>01 - Placed 1St<Br>02 - Placed 2Nd<Br>03 - Placed 3Rd<Br>04 - Placed 4Th<Br>05 - Placed 5Th<Br>06 - Placed 6Th</I>}
+%Credits: Code Master
+$002477DC 000000??
++Battle Of The Kings-Honda Meeting
+%Credits: Code Master
+$002477C4 000000??
++Battle Of The Kings-Kawasaki Meeting
+%Credits: Code Master
+$002477C5 000000??
++Battle Of The Kings-Suzuki Meeting
+%Credits: Code Master
+$002477C6 000000??
++Battle Of The Kings-Yamaha Meeting
+%Credits: Code Master
+$002477C7 000000??
++Class Race-250 CC
+%Credits: Code Master
+$002477BC 000000??
++Class Race-400 CC
+%Credits: Code Master
+$002477BD 000000??
++Class Race-600 CC
+%Credits: Code Master
+$002477BE 000000??
++Power Of Heart-Four-Cycle
+%Credits: Code Master
+$002477D5 000000??
++Power Of Heart-Inline Four
+%Credits: Code Master
+$002477D6 000000??
++Power Of Heart-Two-Cycle
+%Credits: Code Master
+$002477D4 000000??
++Power Of Heart-V-Four
+%Credits: Code Master
+$002477D7 000000??
++Power Of Heart-V-Twin
+%Credits: Code Master
+$002477D8 000000??
++The One-Make Memorial-750Rs
+%Credits: Code Master
+$002477D1 000000??
++The One-Make Memorial-Cb750f
+%Credits: Code Master
+$002477D0 000000??
++The One-Make Memorial-Cb750four
+%Credits: Code Master
+$002477CF 000000??
++The One-Make Memorial-Gsx1100s
+%Credits: Code Master
+$002477D3 000000??
++The One-Make Memorial-Rgv-R 250Sp
+%Credits: Code Master
+$002477CC 000000??
++The One-Make Memorial-Rz250r
+%Credits: Code Master
+$002477CD 000000??
++The One-Make Memorial-Tzr250
+%Credits: Code Master
+$002477CE 000000??
++The One-Make Memorial-Z900super4
+%Credits: Code Master
+$002477D2 000000??
+!!
+!Have Class C Medal Modifier Codes:
++Battle From Zero-Battle From Zero Naked
+%Credits: Code Master
+$002477B5 000000??
++Battle From Zero-Battle From Zero Sports {<I>00 - None<Br>01 - Placed 1St<Br>02 - Placed 2Nd<Br>03 - Placed 3Rd<Br>04 - Placed 4Th<Br>05 - Placed 5Th<Br>06 - Placed 6Th</I>}
+%Credits: Code Master
+$002477B6 000000??
++Battle From Zero-Battle From Zero Sports {<I>00 - None<Br>01 - Placed 1St<Br>02 - Placed 2Nd<Br>03 - Placed 3Rd<Br>04 - Placed 4Th<Br>05 - Placed 5Th<Br>06 - Placed 6Th</I>}
+%Credits: Code Master
+$002477B4 000000??
++Beginner-Rs Beginner's Meeting
+%Credits: Code Master
+$002477A5 000000??
++Beginner-Step UP Meeting
+%Credits: Code Master
+$002477A6 000000??
++Beginner-Welcome To RS Meeting
+%Credits: Code Master
+$002477A4 000000??
++Free Race-Freshman Meeting
+%Credits: Code Master
+$002477AD 000000??
++Free Race-Sunday Meeting
+%Credits: Code Master
+$002477AC 000000??
+!!
+!Have Class S Medal Modifier Codes:
++Battle From Zero-Battle From Zero Extreme
+%Credits: Code Master
+$00247826 000000??
++Battle From Zero-Battle From Zero Naked
+%Credits: Code Master
+$00247825 000000??
++Battle From Zero-Battle From Zero Sports {<I>00 - None<Br>01 - Placed 1St<Br>02 - Placed 2Nd<Br>03 - Placed 3Rd<Br>04 - Placed 4Th<Br>05 - Placed 5Th<Br>06 - Placed 6Th</I>}
+%Credits: Code Master
+$00247824 000000??
++Class Race-250 CC
+%Credits: Code Master
+$0024780C 000000??
++Class Race-400 CC
+%Credits: Code Master
+$0024780D 000000??
++Class Race-600 CC
+%Credits: Code Master
+$0024780E 000000??
++Class Race-750 CC
+%Credits: Code Master
+$0024780F 000000??
++Class Race-Extreme
+%Credits: Code Master
+$00247811 000000??
++Class Race-Open
+%Credits: Code Master
+$00247810 000000??
++King Of Night-King Of Night Heat 1
+%Credits: Code Master
+$0024782C 000000??
++King Of Night-King Of Night Heat 2
+%Credits: Code Master
+$0024782D 000000??
++King Of Night-King Of Night Heat 3
+%Credits: Code Master
+$0024782E 000000??
++King Of Night-King Of Night Heat 4
+%Credits: Code Master
+$0024782F 000000??
++King Of Night-King Of Night Heat 5
+%Credits: Code Master
+$00247830 000000??
++King Of Night-King Of Night Heat 6
+%Credits: Code Master
+$00247831 000000??
++King Of Night-King Of Night Heat 7
+%Credits: Code Master
+$00247832 000000??
++Riding Spirits-Down Hill
+%Credits: Code Master
+$0024781D 000000??
++Riding Spirits-Down Hill 2Nd
+%Credits: Code Master
+$0024781F 000000??
++Riding Spirits-Up Hill
+%Credits: Code Master
+$0024781C 000000??
++Riding Spirits-Up Hill 2Nd
+%Credits: Code Master
+$0024781E 000000??
++Time Tunnel-Over The Ton
+%Credits: Code Master
+$00247818 000000??
++Time Tunnel-Time Tunnel 500
+%Credits: Code Master
+$00247814 000000??
++Time Tunnel-Time Tunnel Maximum
+%Credits: Code Master
+$00247815 000000??
++Time Tunnel-Time Tunnel Speed Master
+%Credits: Code Master
+$00247816 000000??
++Time Tunnel-Vs New Generations
+%Credits: Code Master
+$00247817 000000??
+!!
+!Have Saftey Riding Mastered Codes:
++SR-01
+%Credits: Code Master
+$0024776C 00000004
++SR-02
+%Credits: Code Master
+$0024776D 00000004
++SR-03
+%Credits: Code Master
+$0024776E 00000004
++SR-04
+%Credits: Code Master
+$0024776F 00000004
++SR-05
+%Credits: Code Master
+$00247770 00000004
++SR-06
+%Credits: Code Master
+$00247771 00000004
++SR-07
+%Credits: Code Master
+$00247772 00000004
++SR-08
+%Credits: Code Master
+$00247773 00000004
++SR-09
+%Credits: Code Master
+$00247774 00000004
++SR-10
+%Credits: Code Master
+$00247775 00000004
++SR-11
+%Credits: Code Master
+$00247776 00000004
++SR-12
+%Credits: Code Master
+$00247777 00000004
++SR-13
+%Credits: Code Master
+$00247778 00000004
++SR-14
+%Credits: Code Master
+$00247779 00000004
++SR-15
+%Credits: Code Master
+$0024777A 00000004
++SR-16
+%Credits: Code Master
+$0024777B 00000004
++SR-17
+%Credits: Code Master
+$0024777C 00000004
++SR-18
+%Credits: Code Master
+$0024777D 00000004
++SR-19
+%Credits: Code Master
+$0024777E 00000004
++SR-20
+%Credits: Code Master
+$0024777F 00000004
+!!
+!Have Time Attack Mastered Codes:
++Black Forest Raceway
+%Credits: Code Master
+$00247783 00000004
++Black Forest Raceway (Reverse)
+%Credits: Code Master
+$0024778A 00000004
++Grassy Hillside
+%Credits: Code Master
+$00247785 00000004
++Grassy Hillside (Reverse)
+%Credits: Code Master
+$0024778C 00000004
++Queen's Backyard
+%Credits: Code Master
+$00247786 00000004
++Queen's Backyard (Reverse)
+%Credits: Code Master
+$0024778D 00000004
++Rampart Raceway
+%Credits: Code Master
+$00247780 00000004
++Rampart Raceway (Reverse)
+%Credits: Code Master
+$00247787 00000004
++Red-Hot Valley
+%Credits: Code Master
+$00247781 00000004
++Red-Hot Valley (Reverse)
+%Credits: Code Master
+$00247788 00000004
++Rich Table
+%Credits: Code Master
+$00247784 00000004
++Rich Table (Reverse)
+%Credits: Code Master
+$0024778B 00000004
++Stone Maxe (Reverse)
+%Credits: Code Master
+$00247789 00000004
++Stone Maze
+%Credits: Code Master
+$00247782 00000004
+!!
++Infinite Money
+%Credits: Code Master
+$10236B20 0000FFFF
++Max Money
+%Credits: Code Master
+$20236B20 05F5E0FF
+!Opponent Always On Lap 1 Codes:
++Opponent 1
+%Credits: Code Master
+$002A05DD 00000000
++Opponent 2
+%Credits: Code Master
+$002A05DE 00000000
++Opponent 3
+%Credits: Code Master
+$002A05DF 00000000
++Opponent 4
+%Credits: Code Master
+$002A05E0 00000000
++Opponent 5
+%Credits: Code Master
+$002A05E1 00000000
+!!
++Press R1+R2+X For Hella Speed P1
+%Credits: Code Master
+$D0236882 0000B5FF
+$20296524 42C80000
++Press R1+R2+X For Hella Speed P2
+%Credits: Code Master
+$D0236982 0000B5FF
+$202966A0 42C80000
++Press R1+X For Turbo Speed P1
+%Credits: Code Master
+$D0236882 0000B7FF
+$20296524 42480000
++Press R1+X For Turbo Speed P2
+%Credits: Code Master
+$D0236982 0000B7FF
+$202966A0 42480000
++Press R2+X For Super Speed P1
+%Credits: Code Master
+$D0236882 0000BDFF
+$20296524 42800000
++Press R2+X For Super Speed P2
+%Credits: Code Master
+$D0236982 0000BDFF
+$202966A0 42800000
++Start On Lap 2
+%Credits: Code Master
+$D02A05DC 00000000
+$002A05DC 00000001
++Start On Lap 3
+%Credits: Code Master
+$D02A05DC 00000000
+$002A05DC 00000002
+!!
+

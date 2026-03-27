@@ -1,0 +1,86 @@
+^1 = HASH: 5920CED6
+^3 = NAME: MTX Mototrax
+^2 = GameID: SLUS_203.99
+!Masters:
++Enable Code (Must Be On) [Read Note]
+%Credits: Code Master
+$9039535C 0C0EB089
+!!
+!Codes:
++Disable Vsync
+%Credits: Code Master
+$203C1944 00000000
++Constant Nosedive
+%Credits: Code Master
+$10117830 00003800
++Constant Wheelie Mode
+%Credits: Code Master
+$10117830 000038A8
++Tiny Mode
+%Credits: Code Master
+$10117838 00004300
++Stretched Character
+%Credits: Code Master
+$10117838 000041C0
++Stretch Armstrong
+%Credits: Code Master
+$10117838 00004180
++Max MXTP (Free Ride Mode)
+%Credits: Code Master
+$207ABA88 000F423F
+!!
+!Freestyle Mode Codes:
++P1 Press L1+Select To Stop Timer
+%Credits: Code Master
+$D0AC4F00 0000FBFE
+$20246E98 00000000
++P1 Press L1+Select To Restart Timer
+%Credits: Code Master
+$D0AC4F00 0000FEFE
+$20246E98 AE030054
++Quick Score Gain
+%Credits: Code Master
+$109B8534 0000FFFF
++Max Score
+%Credits: Code Master
+$209B8534 05F5E0FF
+!!
+!Race Mode Codes:
++Only Race 1 Lap
+%Credits: Code Master
+$20301E1C AC820034
++Always Low Lap Timer
+%Credits: Code Master
+$20301E4C AC400000
++No Opponents
+%Credits: Code Master
+$20305A4C 00000000
++Always Only 1 Opponent
+%Credits: Code Master
+$20305A4C 00000000
+$10305A54 00000002
++Always Only 2 Opponents
+%Credits: Code Master
+$20305A4C 00000000
+$10305A54 00000003
++Always Only 3 Opponents
+%Credits: Code Master
+$20305A4C 00000000
+$10305A54 00000004
++Always Only 4 Opponents
+%Credits: Code Master
+$20305A4C 00000000
+$10305A54 00000005
++Always Only 5 Opponents
+%Credits: Code Master
+$20305A4C 00000000
+$10305A54 00000006
++Always Only 6 Opponents
+%Credits: Code Master
+$20305A4C 00000000
+$10305A54 00000007
++Always Only 7 Opponents
+%Credits: Code Master
+$20305A4C 00000000
+$10305A54 00000008
+!!

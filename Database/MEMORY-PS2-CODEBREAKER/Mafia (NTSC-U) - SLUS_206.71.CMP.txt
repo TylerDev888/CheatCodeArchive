@@ -1,0 +1,49 @@
+^1 = HASH: B67F4F9E
+^3 = NAME: Mafia
+^2 = GameID: SLUS_206.71
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 003CE39F
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$903CE39C 0C0F502E
+!!
+!Codes:
++Display Debug Info
+%Credits: Code Master
+$202F11CC 00000000
++Infinite Ammo
+%Credits: Code Master
+$2047D718 00000000
++Extra Ammo
+%Credits: Code Master
+$1047D708 00000001
++Max Infinite Ammo
+%Credits: Code Master
+$2047D708 8C830008
++Infinite Health
+%Credits: Code Master
+$201B3B70 03E00008
+$201B3B74 00000000
++No Traffic
+%Credits: Code Master
+$20219400 03E00008
+$20219404 00000000
++Unlock All Cars
+%Credits: Code Master
+$204F6254 FFFFFFFF
+$204F6258 FFFFFFFF
++Unlock All Cars (Championship Mode){With This Code, You Might Have To View The Thor Manufacturers First, Exit To The Main Menu, Then Go Back To Championship To Have Them Unlocked.}
+%Credits: Code Master
+$202DA8E0 2413FFFF
+$202DA8E4 AC53003C
++Disable Police Spawn
+%Credits: Code Master
+$20341140 03E00008
+$20341144 00000000
++Lesser Cop AI
+%Credits: Code Master
+$20370370 03E00008
+$20370374 00000000
+!!

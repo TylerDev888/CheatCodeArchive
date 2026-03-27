@@ -1,0 +1,52 @@
+^3 = NAME: Psychonauts (Pal-Unk)
+^2 = GameID: SLES-53830
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F02E3AC4 002E3AC7
+!!
++Infinite Double Jumps
+%Credits: Codejunkies
+$2032066C 24010001
+$20320670 A221000E
+$20221C70 24010100
+$20221C74 A6410294
+$20221C88 AE400290
++Invincible
+%Credits: Codejunkies
+$202C8F68 240E0001
++Quick Level Up
+%Credits: Codejunkies
+$20249358 240E0032
+!Speed Modifier Codes:
++Press L1+Down For Quicker Game
+%Credits: Codejunkies
+$E004FBBF 003723A2
+$E0030000 1036CD60
+$E0020000 1036CD62
+$6036CD60 00003FC0
+$00010001 00000019
++Press L1+Up For Hyper Mode
+%Credits: Codejunkies
+$E004FBEF 003723A2
+$E0030000 1036CD60
+$E0020000 1036CD62
+$6036CD60 00004000
+$00010001 00000019
++Press L3+Down For Normal Speed
+%Credits: Codejunkies
+$E004FFBD 003723A2
+$E0030000 1036CD60
+$E0020000 1036CD62
+$6036CD60 00003F80
+$00010001 00000019
++Press L3+Up For Slow Motion
+%Credits: Codejunkies
+$E004FFED 003723A2
+$E0030000 1036CD60
+$E0020000 1036CD62
+$6036CD60 00003F00
+$00010001 00000019
+!!
+!!
+

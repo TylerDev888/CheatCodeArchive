@@ -1,0 +1,6 @@
+^2 = GameID: NPEB00831
+^3 = NAME: Hell Yeah! Wrath of the Dead Rabbit (PSN)
+^5 = APCRED: From zeick
+^4 = FILE: DATA18
++$99999 Money
+$write at 0x00000010:0001869F

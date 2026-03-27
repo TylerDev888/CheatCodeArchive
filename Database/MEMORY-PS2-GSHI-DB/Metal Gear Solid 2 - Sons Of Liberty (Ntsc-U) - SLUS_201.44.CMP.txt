@@ -1,0 +1,695 @@
+^3 = NAME: Metal Gear Solid 2 - Sons Of Liberty (Ntsc-U)
+^2 = GameID: SLUS-20144
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F010008C 00167387
++Enable Code (Must Be On)
+%Credits: Code Master>Viper187
+$F0100010 00167387
+!!
++1St Person Mode {<I>Press R1 To Activate In Any Room. This Code Allows You To Run Around, Fire Your Weapons, Drag Enemies, Etc, In 1St-Person Mode. It Takes A Little Getting Used To, But It&#39;S An Entertaining Code.</I>}
+%Credits: Lazy Bastard
+$001ECD40 00000000
++Detection Status Mod (No One Sees You) {<I>Effectively, This Code Makes You Invisible To Enemies And Only Visible For A Split Second To Cameras (Your Detection Status Will Immediately Return To Normal After Being Seen by a camera, and no one will come after you). Technically, this code modifies what state of detection you are in, placing you in Evasion, Caution, normal, etc. With the value provided, enemies will never see you, and cameras will only see you for a split second. The code seems to place you in some sort of &quot;Jamming&quot; mode, but your radar still works. This is different from the Invisible code hacked by szalay, in that his code requires you to have Stealth in your inventory, and must be re-activated if you walk through an enemy, etc (this code will allow you to remain &quot;invisible&quot; whether you have Stealth or not, and even after walking through enemies).  There are still times in which the enemy can see you, such as boss battles, etc (which is a good thing in some cases, because it allows the game to progress without having to be deactivated).  The second 16 bytes of this code (the first four digits you see, 0004) control the detection status of your character, and the first 16 (0001) are still a bit of a mystery to me. Modifying them seems to affect detection as well, but I haven&#39;t gotten around to mapping it all out yet.  00040001 - Radar Jammed (invisible) 00030001 - Caution (Yellow) 00010006 - Evasion (Orange) 00000001 - Normal</i>}
+%Credits: Lazy Bastard
+$201E6DA8 00040001
+!Have Item Codes:
++AK Suppressor
+%Credits: Code Master>Viper187
+$101E6EB8 00000001
++AK Suppressor
+%Credits: Code Master>Viper187
+$101E7008 00000001
++Bandana
+%Credits: Code Master>Viper187
+$101E6EBC 00000001
++Bandana
+%Credits: Code Master>Viper187
+$101E700C 00000001
++Binoculars
+%Credits: Code Master>Viper187
+$101E6E80 00000001
++Binoculars
+%Credits: Code Master>Viper187
+$101E6FD0 00000001
++Body Armor
+%Credits: Code Master>Viper187
+$101E6E8A 00000001
++Body Armor
+%Credits: Code Master>Viper187
+$101E6FDA 00000001
++Book
+%Credits: Code Master>Viper187
+$101E6F66 00000001
++Box 2
+%Credits: Code Master>Viper187
+$101E6FF8 00000001
++Box 3
+%Credits: Code Master>Viper187
+$101E6FFA 00000001
++Box 4
+%Credits: Code Master>Viper187
+$101E7000 00000001
++Box 5
+%Credits: Code Master>Viper187
+$101E7002 00000001
++Cigs
+%Credits: Code Master>Viper187
+$101E6E9E 00000001
++Cigs
+%Credits: Code Master>Viper187
+$101E6FEE 00000001
++D Microphone
+%Credits: Code Master>Viper187
+$101E6F64 00000001
++Digital Camera
+%Credits: Code Master>Viper187
+$101E6E9A 00000001
++Digital Camera
+%Credits: Code Master>Viper187
+$101E6FEA 00000001
++Dog Tags
+%Credits: Code Master>Viper187
+$101E6EBE 00000063
++Dog Tags
+%Credits: Code Master>Viper187
+$101E700E 00000063
++Field Uniform
+%Credits: Code Master>Viper187
+$101E6FD8 00000001
++Medicine
+%Credits: Code Master>Viper187
+$101E6E82 00000001
++Medicine
+%Credits: Code Master>Viper187
+$101E6FD2 00000001
++Mine Detector
+%Credits: Code Master>Viper187
+$101E6E8E 00000001
++Mine Detector
+%Credits: Code Master>Viper187
+$101E6FDE 00000001
++MO Disc
+%Credits: Code Master>Viper187
+$101E6EC0 00000001
++MO Disc
+%Credits: Code Master>Viper187
+$101E7010 00000001
++NVG
+%Credits: Code Master>Viper187
+$101E6FE4 00000001
++Pentazemin
+%Credits: Code Master>Viper187
+$101E6E86 00000001
++Pentazemin
+%Credits: Code Master>Viper187
+$101E6FD6 00000001
++Phone
+%Credits: Code Master>Viper187
+$101E6EA4 00000001
++Phone
+%Credits: Code Master>Viper187
+$101E6FF4 00000001
++Security Card (Level Modifier 00-FF)
+%Credits: Code Master>Viper187
+$101E6FF0 000000??
++Sensor A
+%Credits: Code Master>Viper187
+$101E6E90 00000001
++Sensor A
+%Credits: Code Master>Viper187
+$101E6FE0 00000001
++Sensor B
+%Credits: Code Master>Viper187
+$101E6E92 00000001
++Sensor B
+%Credits: Code Master>Viper187
+$101E6FE2 00000001
++Shaver
+%Credits: Code Master>Viper187
+$101E6EA2 00000001
++Shaver
+%Credits: Code Master>Viper187
+$101E6FF2 00000001
++Socom Suppressor
+%Credits: Code Master>Viper187
+$101E6EB6 00000001
++Socom Suppressor
+%Credits: Code Master>Viper187
+$101E7006 00000001
++Stealth
+%Credits: Code Master>Viper187
+$101E6E8C 00000001
++Stealth
+%Credits: Code Master>Viper187
+$101E6FDC 00000001
++Thermal Goggles
+%Credits: Code Master>Viper187
+$101E6E96 00000001
++Thermal Goggles
+%Credits: Code Master>Viper187
+$101E6FE6 00000001
++Wet Box
+%Credits: Code Master>Viper187
+$101E6FFC 00000001
++Wig A
+%Credits: Code Master>Viper187
+$101E7016 00000001
++Wig B
+%Credits: Code Master>Viper187
+$101E7018 00000001
++Wig C
+%Credits: Code Master>Viper187
+$101E701A 00000001
++Wig D
+%Credits: Code Master>Viper187
+$101E701C 00000001
+!!
+!Infinite Ammo Codes:
++AKS-74U
+%Credits: Code Master>Viper187
+$101E6F5A 0000270F
++C4
+%Credits: Code Master>Viper187
+$101E6F4E 0000270F
++Chaff Grenades
+%Credits: Code Master>Viper187
+$101E6E00 0000270F
++Chaff Grenades
+%Credits: Code Master>Viper187
+$101E6F50 0000270F
++Claymores
+%Credits: Code Master>Viper187
+$101E6F4C 0000270F
++Frag Grenades
+%Credits: Code Master>Viper187
+$101E6E0E 0000270F
++Frag Grenades
+%Credits: Code Master>Viper187
+$101E6F5E 0000270F
++M4
+%Credits: Code Master>Viper187
+$101E6F60 0000270F
++M9
+%Credits: Code Master>Viper187
+$101E6DEE 0000270F
++M9
+%Credits: Code Master>Viper187
+$101E6F3E 0000270F
++Magazines
+%Credits: Code Master>Viper187
+$101E6E0C 0000270F
++Magazines
+%Credits: Code Master>Viper187
+$101E6F5C 0000270F
++Nikita
+%Credits: Code Master>Viper187
+$101E6F48 0000270F
++PSG1
+%Credits: Code Master>Viper187
+$101E6F44 0000270F
++PSG1-T
+%Credits: Code Master>Viper187
+$101E6F62 0000270F
++RGB6
+%Credits: Code Master>Viper187
+$101E6F46 0000270F
++Socom
+%Credits: Code Master>Viper187
+$101E6F42 0000270F
++Stinger
+%Credits: Code Master>Viper187
+$101E6F4A 0000270F
++Stun Grenades
+%Credits: Code Master>Viper187
+$101E6E02 0000270F
++Stun Grenades
+%Credits: Code Master>Viper187
+$101E6F52 0000270F
++USP
+%Credits: Code Master>Viper187
+$101E6DF0 0000270F
++USP
+%Credits: Code Master>Viper187
+$101E6F40 0000270F
+!!
++Infinite Health
+%Credits: Code Master>Viper187
+$E0020782 0026B660
+$2026B664 24020096
+$2026B668 A6020782
+!Infinite Items/Ammo Codes:
++1St Pullup Increases Grip To Level 2 - Plant Level
+%Credits: InterAct
+$D01E6DC0 00200063
+$101E6DC0 00000063
++1St Pullup Increases Grip To Level 2 - Tanker Level
+%Credits: InterAct
+$D01E6DBE 00200063
+$101E6DBE 00000063
++2Nd Pullup Increases Grip To Level 3 - Plant Level
+%Credits: InterAct
+$D01E6DC0 00300063
+$D01E6DC0 002000C7
+$101E6DC0 000000C7
++2Nd Pullup Increases Grip To Level 3 - Tanker Level
+%Credits: InterAct
+$D01E6DBE 00300063
+$D01E6DBE 002000C7
+$101E6DBE 000000C7
++All Dog Tags Found
+%Credits: InterAct
+$201E825C FFFFFFFF
+$201E8260 FFFFFFFF
+$201E8264 FFFFFFFF
+$201E8268 FFFFFFFF
+$201E826C FFFFFFFF
+$201E8270 FFFFFFFF
+$201E8274 FFFFFFFF
+$201E8278 FFFFFFFF
+$201E827C FFFFFFFF
+$201E8280 FFFFFFFF
+$201E8284 FFFFFFFF
+$101E8288 0000FFFF
++Infininte AKS-74U Ammo - Plant Level
+%Credits: InterAct
+$101E6F5A 000000FF
++Infinite Bandages - Plant Level
+%Credits: InterAct
+$001E6FD4 00000063
++Infinite Bandages - Tanker Level
+%Credits: InterAct
+$101E6E84 00000063
++Infinite Books-Plant
+%Credits: InterAct
+$101E6F66 00000063
++Infinite C4 - Plant Level
+%Credits: InterAct
+$101E6F4E 00000063
++Infinite Chaff Grenades - Plant Level
+%Credits: InterAct
+$101E6F50 00000063
++Infinite Chaff Grenades - Tanker Level
+%Credits: InterAct
+$101E6E00 00000063
++Infinite Claymores - Plant Level
+%Credits: InterAct
+$101E6F4C 00000063
++Infinite Grenades - Plant Level
+%Credits: InterAct
+$101E6F5E 00000014
++Infinite Grenades - Tanker Level
+%Credits: InterAct
+$101E6E0E 00000063
++Infinite M4 Ammo - Plant Level
+%Credits: InterAct
+$101E6F60 000000FF
++Infinite M9 Ammo - Plant Level
+%Credits: InterAct
+$101E6F3E 00000063
++Infinite M9 Ammo - Tanker Level
+%Credits: InterAct
+$101E6DEE 00000063
++Infinite Magazines - Plant Level
+%Credits: InterAct
+$101E6F5C 00000063
++Infinite Magazines - Tanker Level
+%Credits: InterAct
+$101E6E0C 00000063
++Infinite Nikita Ammo - Plant Level
+%Credits: InterAct
+$101E6F48 00000063
++Infinite O2 - Plant Level
+%Credits: InterAct
+$201E6D8C 0FA0004B
++Infinite Pentazemin - Tanker Level
+%Credits: InterAct
+$101E6E86 00000063
++Infinite PSG1 Ammo - Plant Level
+%Credits: InterAct
+$101E6F44 00000063
++Infinite PSG1-T Ammo - Plant Level
+%Credits: InterAct
+$101E6F62 00000063
++Infinite Rations - Plant Level
+%Credits: InterAct
+$001E6FCE 00000063
++Infinite Rations - Tanker Level
+%Credits: InterAct
+$101E6E7E 00000063
++Infinite RGB6 Ammo - Plant Level
+%Credits: InterAct
+$101E6F46 00000063
++Infinite Socom Ammo - Plant Level
+%Credits: InterAct
+$101E6F42 00000063
++Infinite Stinger Ammo - Plant Level
+%Credits: InterAct
+$101E6F4A 00000063
++Infinite Stun Grenades - Plant Level
+%Credits: InterAct
+$101E6F52 00000014
++Infinite Stun Grenades - Tanker Level
+%Credits: InterAct
+$101E6E02 00000063
++Infinite USP Ammo - Tanker Level
+%Credits: InterAct
+$101E6DF0 00000063
++Pentazemin-Plant
+%Credits: InterAct
+$101E6FD6 00000005
+!!
++Infinite O2 - Emma Emmerich {<I>Infinite Oxygen While Underwater, For Emma (Rescue Mission).</I>}
+%Credits: Lazy Bastard
+$21623F60 44AF0000
+$21689160 44AFC000
++Low Game Time
+%Credits: InterAct
+$201E6DC8 00000001
+!Max Ammo Codes:
++Frag Grenades
+%Credits: Code Master>Viper187
+$31D2A8C9 1EF770FA
+!!
+!Max Items Codes:
++Max AKS-74U Ammo - Plant Level
+%Credits: InterAct
+$001E6FA2 000000FF
++Max Bandages - Plant Level
+%Credits: InterAct
+$001E7034 00000063
++Max Bandages - Tanker Level
+%Credits: InterAct
+$001E6EE4 00000063
++Max C4 - Plant Level
+%Credits: InterAct
+$001E6F96 00000063
++Max Chaff Grenades - Plant Level
+%Credits: InterAct
+$001E6F98 00000063
++Max Chaff Grenades - Tanker Level
+%Credits: InterAct
+$001E6E48 00000063
++Max Claymores - Plant Level
+%Credits: InterAct
+$001E6F94 00000063
++Max Grenades - Plant Level
+%Credits: InterAct
+$001E6FA6 00000063
++Max Grenades - Tanker Level
+%Credits: InterAct
+$001E6E56 00000063
++Max M4 Ammo - Plant Level
+%Credits: InterAct
+$001E6FA8 000000FF
++Max M9 Ammo - Plant Level
+%Credits: InterAct
+$001E6F86 00000063
++Max M9 Ammo - Tanker Level
+%Credits: InterAct
+$001E6E36 00000063
++Max Magazines - Plant Level
+%Credits: InterAct
+$001E6FA4 00000063
++Max Magazines - Tanker Level
+%Credits: InterAct
+$001E6E54 00000063
++Max Nikita Ammo - Plant Level
+%Credits: InterAct
+$001E6F90 00000063
++Max Pentazemin - Tanker Level
+%Credits: InterAct
+$001E6EE6 00000063
++Max PSG1 Ammo - Plant Level
+%Credits: InterAct
+$001E6F8C 00000063
++Max PSG1-T Ammo - Plant Level
+%Credits: InterAct
+$001E6FAA 00000063
++Max Rations - Plant Level
+%Credits: InterAct
+$001E702E 00000063
++Max Rations - Tanker Level
+%Credits: InterAct
+$001E6EDE 00000063
++Max RGB6 Ammo - Plant Level
+%Credits: InterAct
+$001E6F8E 00000063
++Max Socom Ammo - Plant Level
+%Credits: InterAct
+$001E6F8A 00000063
++Max Stinger Ammo - Plant Level
+%Credits: InterAct
+$001E6F92 00000063
++Max Stun Grenades - Plant Level
+%Credits: InterAct
+$001E6F9A 00000063
++Max Stun Grenades - Tanker Level
+%Credits: InterAct
+$001E6E4A 00000063
++Max USP Ammo - Tanker Level
+%Credits: InterAct
+$001E6E38 00000063
++Press And Hold L3 For More Time During Speech - Tanker Level
+%Credits: InterAct
+$C06AAAA4 64B88DFB
+$00A7172F 64DA4B09
+$00A6704F 64DA4B09
+$00A6A667 64DA4B09
++Press And Hold L3 For More Time To Reach Emma In The Computer Room - Plant Level
+%Credits: InterAct
+$C06AAAA4 64B88DFB
+$00A86ABB 64514029
+$00AAE0CF 64514029
+$00D6570F 64514029
+!!
++Never Reload
+%Credits: Code Master>Viper187
+$D028DF86 0000AC62
+$2028DF84 00000000
++No Alerts
+%Credits: InterAct
+$001E6DD2 00000000
+$001E8224 00000000
++No Continues
+%Credits: InterAct
+$001E6DC2 00000000
+$001E8352 00000000
++No Enemies Killed
+%Credits: InterAct
+$001E6DD4 00000000
++No Movement Animation (Pointless "Ice-Skate" Code) {<I>Again, I&#39;M Mapping Things For Further Use Here.</I>}
+%Credits: Lazy Bastard
+$01392438 0000004F
++No Rations Used
+%Credits: InterAct
+$001E8220 00000000
++No Reload
+%Credits: InterAct
+$001919EC 00000019
++No Saves Used
+%Credits: InterAct
+$001E6DC6 00000000
+!Plant Level Codes:
++Plant Level: Increase Completion Time (Press L3 To Activate)
+%Credits: InterAct
+$E006FFFD 001E6C22
+$2048BF10 000927C0
+$20463524 000927C0
+$204AAA64 000927C0
+!!
+!Snake Codes:
++Infinite Bandages
+%Credits: Code Master>Viper187
+$101E6E84 0000270F
++Infinite Rations {<I>Some Of These Weapons/Items They Will Crash The System When Playing As Snake. These Were Thought To Have Been Able To Be Used After Beating Olga, But This Has Been Proven False.  If You Have Snake Codes For The Following Weapons: Socom, PSG1, RGB6, Nikita, Stinger, Claymores, C4, AKS-74U, M4 &Amp; PSG1-T  And The Following Items: D Microphone, Book, Field Uniform &Amp; NVG  DO NOT USE THEM, THEY WILL Crash THE GAME. (NO Permanent Damage Is Done.)</I>}
+%Credits: Code Master>Viper187
+$101E6E7E 0000270F
+!!
++Snake Is Invisible (But Not To Enemies) {<I>Rather A Useless Code, It At Least Stands To Map Where Such Things Are In Memory, I Suppose. Setting The Value To 00000001 Does Something Weird To The 1St Person Mode (The Natural 1St Person Mode, Not My 1St Person Mode Code), Which Allows You To See Through The Back Of Snake&#39;S Head, And To The Inside Of The Back Of His Face, Heh.</I>}
+%Credits: Lazy Bastard
+$001CCC50 00000000
+!Tanker Level Codes:
++Tanker Level: Longer Speech Time (Press L3 To Activate)
+%Credits: InterAct
+$E006FFFD 001E6C22
+$203B6A84 000062A0
+$203AC5A4 000062A0
+$203AFBBC 000062A0
++Tanker Level: Stealth Mode
+%Credits: InterAct
+$101ECD46 00004000
+!!
++Turbo Mode (Snake) {<I>This Code Makes Snake Run Like The Flash, While Everything Else Is Normal Speed. Unfortunately, I Haven&#39;T Found A Pointer For This Yet (If One Exists), So These Codes Only Work Per Room, As Much Else In MGS2: Sol Does. Feel Free To Hack Around For An Improved Version Of The Code. I Also Didn&#39;T Hack Anything For Raiden, As The Value Scheme Seems To Be Different, And It Isn&#39;T Exactly Intuitive.</I>}
+%Credits: Lazy Bastard
+$2126B738 00000000
+$2127DA58 00000000
+$21290688 00000000
+$213965A8 00000000
+$213C7268 00000000
+$213C9A98 00000000
+$21449D88 00000000
+$21491C78 00000000
+$214B33D8 00000000
+$215812A8 00000000
+$215D5A88 00000000
+$215E59B8 00000000
+$216993A8 00000000
++Vamp's Health (One Hit Until Death)
+%Credits: Lazy Bastard
+$2137AB60 00630000
+!Weapon And Items Codes:
++Weapons And Items: Infinite AKS-74U Ammo
+%Credits: InterAct
+$101E6F5A 000003E7
++Weapons And Items: Infinite Bandages
+%Credits: InterAct
+$101E6FD4 00000063
++Weapons And Items: Infinite C4
+%Credits: InterAct
+$101E6F4E 000003E7
++Weapons And Items: Infinite Chaff Grenades
+%Credits: InterAct
+$101E6E00 000003E7
++Weapons And Items: Infinite Chaff Grenades
+%Credits: InterAct
+$101E6F50 000003E7
++Weapons And Items: Infinite Claymores
+%Credits: InterAct
+$101E6F4C 000003E7
++Weapons And Items: Infinite Grenades
+%Credits: InterAct
+$101E6E0E 000003E7
++Weapons And Items: Infinite Grenades
+%Credits: InterAct
+$101E6F5E 000003E7
++Weapons And Items: Infinite M4 Ammo
+%Credits: InterAct
+$101E6F60 000003E7
++Weapons And Items: Infinite M9 Ammo
+%Credits: InterAct
+$101E6DEE 000003E7
++Weapons And Items: Infinite M9 Ammo
+%Credits: InterAct
+$101E6F3E 000003E7
++Weapons And Items: Infinite Magazines
+%Credits: InterAct
+$101E6E0C 000003E7
++Weapons And Items: Infinite Magazines
+%Credits: InterAct
+$101E6F5C 000003E7
++Weapons And Items: Infinite Nikita Ammo
+%Credits: InterAct
+$101E6F48 000003E7
++Weapons And Items: Infinite Pentazemin
+%Credits: InterAct
+$101E6E86 000003E7
++Weapons And Items: Infinite PSG1 Ammo
+%Credits: InterAct
+$101E6F44 000003E7
++Weapons And Items: Infinite PSG1-T Ammo
+%Credits: InterAct
+$101E6F62 000003E7
++Weapons And Items: Infinite Rations
+%Credits: InterAct
+$101E6E7E 000003E7
++Weapons And Items: Infinite Rations
+%Credits: InterAct
+$101E6FCE 000003E7
++Weapons And Items: Infinite RGB6 Ammo
+%Credits: InterAct
+$101E6F46 000003E7
++Weapons And Items: Infinite Socom Ammo
+%Credits: InterAct
+$101E6F42 000003E7
++Weapons And Items: Infinite Stinger Ammo
+%Credits: InterAct
+$101E6F4A 000003E7
++Weapons And Items: Infinite Stun Grenades
+%Credits: InterAct
+$101E6E02 000003E7
++Weapons And Items: Infinite Stun Grenades
+%Credits: InterAct
+$101E6F52 000003E7
++Weapons And Items: Infinite USP Ammo
+%Credits: InterAct
+$101E6DF0 000003E7
++Weapons And Items: Max AKS-74U Ammo
+%Credits: InterAct
+$101E6FA2 000003E7
++Weapons And Items: Max Books
+%Credits: InterAct
+$001E6FAE 00000063
++Weapons And Items: Max C4
+%Credits: InterAct
+$101E6F96 000003E7
++Weapons And Items: Max Chaff Grenades
+%Credits: InterAct
+$101E6E48 000003E7
++Weapons And Items: Max Chaff Grenades
+%Credits: InterAct
+$101E6F98 000003E7
++Weapons And Items: Max Claymores
+%Credits: InterAct
+$101E6F94 000003E7
++Weapons And Items: Max Grenades
+%Credits: InterAct
+$101E6E56 000003E7
++Weapons And Items: Max Grenades
+%Credits: InterAct
+$101E6FA6 000003E7
++Weapons And Items: Max M4 Ammo
+%Credits: InterAct
+$101E6FA8 000003E7
++Weapons And Items: Max M9 Ammo
+%Credits: InterAct
+$101E6E36 000003E7
++Weapons And Items: Max M9 Ammo
+%Credits: InterAct
+$101E6F86 000003E7
++Weapons And Items: Max Magazines
+%Credits: InterAct
+$101E6E54 000003E7
++Weapons And Items: Max Magazines
+%Credits: InterAct
+$101E6FA4 000003E7
++Weapons And Items: Max Nikita Ammo
+%Credits: InterAct
+$101E6F90 000003E7
++Weapons And Items: Max Pentazemin
+%Credits: InterAct
+$101E6EE6 000003E7
++Weapons And Items: Max PSG1 Ammo
+%Credits: InterAct
+$101E6F8C 000003E7
++Weapons And Items: Max PSG-1 Ammo
+%Credits: InterAct
+$101E6FAA 000003E7
++Weapons And Items: Max Rations
+%Credits: InterAct
+$101E6EDE 000003E7
++Weapons And Items: Max Rations
+%Credits: InterAct
+$101E702E 000003E7
++Weapons And Items: Max RGB6 Ammo
+%Credits: InterAct
+$101E6F8E 000003E7
++Weapons And Items: Max Socom Ammo
+%Credits: InterAct
+$101E6F8A 000003E7
++Weapons And Items: Max Stinger Ammo
+%Credits: InterAct
+$101E6F92 000003E7
++Weapons And Items: Max Stun Grenades
+%Credits: InterAct
+$101E6E4A 000003E7
++Weapons And Items: Max Stun Grenades
+%Credits: InterAct
+$101E6F9A 000003E7
++Weapons And Items: Max USP Ammo
+%Credits: InterAct
+$101E6E38 000003E7
+!!
+!!
+

@@ -1,0 +1,142 @@
+^2 = GameID: NPEA00143
+^3 = NAME: DEAD NATION Road Of Devastation
+^5 = APCRED: From startuga (Using BSD's Patch Creator)
+^4 = FILE: SAVEDATA.DAT
+!Unlimited Ammo And Max Items Single Player:
++999999999 Money
+$write at 0x005D07:3B9AC9FF
+$write at 0x001816:3B9AC9FF
++Unlimited Ammo Assault Rifle
+$write at 0x005D5B:03E7FFFF
+$write at 0x00186A:03E7FFFF
++Unlimited Ammo Smg
+$write at 0x005D7B:03E7FFFF
+$write at 0x00188A:03E7FFFF
++Unlimited Ammo Shotgun
+$write at 0x005D9B:03E7FFFF
+$write at 0x0018AA:03E7FFFF
++Unlimited Ammo Flamethrower
+$write at 0x005DBB:03E7FFFF
+$write at 0x0018CA:03E7FFFF
++Unlimited Ammo Blade Cannon
+$write at 0x005DDB:03E7FFFF
+$write at 0x0018EA:03E7FFFF
++Unlimited Ammo Launcher
+$write at 0x005DFB:03E7FFFF
+$write at 0x00190A:03E7FFFF
++Unlimited Ammo Shocker
+$write at 0x005E1B:03E7FFFF
+$write at 0x00192A:03E7FFFF
++999 Ammo Flare
+$write at 0x005E3B:03E7
+$write at 0x00194A:03E7
++999 Ammo Grenade
+$write at 0x005E5B:03E7
+$write at 0x00196A:03E7
++999 Ammo Mine
+$write at 0x005E7B:03E7
+$write at 0x00198A:03E7
++999 Ammo Molotov
+$write at 0x005E9B:03E7
+$write at 0x0019AA:03E7
++999 Ammo Dynamite
+$write at 0x005EBB:03E7
+$write at 0x0019CA:03E7
+!Local Local Co-op Player 1:
++999999999 Money
+$write at 0x00002556:3B9AC9FF
+$write at 0x00004E90:3B9AC9FF
++Unlimited Ammo Assault Rifle
+$write at 0x0025AA:03E7FFFF
+$write at 0x004EE4:03E7FFFF
++Unlimited Ammo Smg
+$write at 0x0025CA:03E7FFFF
+$write at 0x004F04:03E7FFFF
++Unlimited Ammo Shotgun
+$write at 0x0025EA:03E7FFFF
+$write at 0x004F24:03E7FFFF
++Unlimited Ammo Flamethrower
+$write at 0x00260A:03E7FFFF
+$write at 0x004F44:03E7FFFF
++Unlimited Ammo Blade Cannon
+$write at 0x00262A:03E7FFFF
+$write at 0x004F64:03E7FFFF
++Unlimited Ammo Launcher
+$write at 0x00264A:03E7FFFF
+$write at 0x004F84:03E7FFFF
++Unlimited Ammo Shocker
+$write at 0x00266A:03E7FFFF
+$write at 0x004FA4:03E7FFFF
++999 Ammo Flare
+$write at 0x00268A:03E7
+$write at 0x004FC4:03E7
++999 Ammo Grenade
+$write at 0x0026AA:03E7
+$write at 0x004FE4:03E7
++999 Ammo Mine
+$write at 0x0026CA:03E7
+$write at 0x005004:03E7
++999 Ammo Molotov
+$write at 0x0026EA:03E7
+$write at 0x005024:03E7
++999 Ammo Dynamite
+$write at 0x00270A:03E7
+$write at 0x005044:03E7
+!!
+!Local Local Co-op Player 2:
++999999999 Money
+$write at 0x00002756:3B9AC9FF
+$write at 0x00005090:3B9AC9FF
++Unlimited Ammo Assault Rifle
+$write at 0x0027AA:03E7FFFF
+$write at 0x0050E4:03E7FFFF
++Unlimited Ammo Smg
+$write at 0x0027CA:03E7FFFF
+$write at 0x005104:03E7FFFF
++Unlimited Ammo Shotgun
+$write at 0x0027EA:03E7FFFF
+$write at 0x005124:03E7FFFF
++Unlimited Ammo Flamethrower
+$write at 0x00280A:03E7FFFF
+$write at 0x005144:03E7FFFF
++Unlimited Ammo Blade Cannon
+$write at 0x00282A:03E7FFFF
+$write at 0x005164:03E7FFFF
++Unlimited Ammo Launcher
+$write at 0x00284A:03E7FFFF
+$write at 0x005184:03E7FFFF
++Unlimited Ammo Shocker
+$write at 0x00286A:03E7FFFF
+$write at 0x0051A4:03E7FFFF
++999 Ammo Flare
+$write at 0x00288A:03E7
+$write at 0x0051C4:03E7
++999 Ammo Grenade
+$write at 0x0028AA:03E7
+$write at 0x0051E4:03E7
++999 Ammo Mine
+$write at 0x0028CA:03E7
+$write at 0x005204:03E7
++999 Ammo Molotov
+$write at 0x0028EA:03E7
+$write at 0x005224:03E7
++999 Ammo Dynamite
+$write at 0x00290A:03E7
+$write at 0x005244:03E7
+!!
+!Dlc Only:
++Max Money
+%Credits: chaoszage
+$20004004 7FFFFFFF
++All Ammo Max
+$41004058 00007FFF
+$400C0020 00000000
+!!
+!Others:
+%Credits: wishie
++16777215 Money For Local Co-op Player 1
+$write at 0x00002556:00FFFFFF
++16777215 Money For Local Co-op Player 2
+$write at 0x00002756:00FFFFFF
+!!
+!!

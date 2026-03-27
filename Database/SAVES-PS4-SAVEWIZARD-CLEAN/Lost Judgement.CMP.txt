@@ -1,0 +1,488 @@
+^2 = GameID: CUSA28183
+^3 = NAME: Lost Judgement
+^SECONDLAYER: NO
+^4 = FILE: data.sav
++Search and replace item
+$8001000C 7B227075
+$6964223A [ID]
+$A8000008 00000004
+$[ID] 00000000
++Add Item
+$search 0x22706C61796572223A
+$search next 0x2263617272795F6974656D22
+$search next 0x226D5F6C69737422
+$Insert Next A: "{".ver":1,"m_count":[Amount:99999999:UTF08:TXT],"m_item_id":{"puid":[ID]}},"
+^6 = MODS:
+[ID]
+VALUE>ITEM
+3248	Batting Gloves	
+3504	Toughness Light	
+3505	Toughness Z	
+3506	Tauriner	
+3507	Staminan Light	
+3508	Staminan X	
+3509	Hug Bomb	
+3510	Hug Bomb Alpha	
+3511	Hug Bomb Beta	
+3512	Hug Bomb Omega	
+3536	Seven Stars	
+3537	Processed Wire	
+3538	Pocket Tissues	
+3539	Platinum Plate	
+3540	Gold Plate	
+3541	Sliver Plate	
+3542	Bronze Plate	
+3543	Iron Plate	
+3544	Paper Plate	
+3545	Homestyle Chicken Cat Food	
+3546	Miso Crispy Beef Cat Food	
+3547	Fresh Tuna Cat Food	
+3548	Cheese Salmon Pate Cat Food	
+3549	White Fish And Sardines Cat Food	
+3550	Bonito Flake Cat Food	
+3551	Gold Tuna Cat Food	
+3554	Meemee	
+3555	Baby	
+3556	Bun-Chan The Java Sparrow (White)	
+3557	Bun-Chan The Java Sparrow (Pink)	
+3558	Jumbo Bun-Chan	
+3559	Kitty Kat (Red)	
+3560	Kitty Kat (Tiger)	
+3561	Kitty Kat (Blue)	
+3562	Kitty Kat (American Short Hair)	
+3563	Kitty Kat (Calico)	
+3564	Robo Chef	
+3565	Robo Manger	
+3566	Pillow Pups Golden Retriever	
+3567	Pillow Pups French Bulldog	
+3568	Kon-Nyan White	
+3569	Kon-Nyan Blue	
+3570	Kon-Nyan Pink	
+3571	Kon-Nyan Cream	
+3572	Kon-Nyan Black	
+3573	Teardrop Earrings	
+3574	Trinity Circle Earrings	
+3575	Heart Earrings	
+3576	Gold Cross Earrings	
+3577	White Pearl Earrings	
+3578	Prima Heart Earrings	
+3579	Star Crossed Earrings	
+3580	Twinkle Heart Ring	
+3581	Midnight Ring	
+3582	Shiny Flower Ring	
+3583	Luxury Timepiece	
+3584	High End Timepiece	
+3585	Standard Timepiece	
+3586	Play Pass	
+3588	Triple Yokan	
+3589	10-10-1 Charm	
+3590	Lucky Handfuda Card	
+3591	Blackjack Amulet	
+3592	Bust Amulet	
+3593	Royal Joker Card	
+3594	The Basics Of Shogi	
+3595	Nine Gates Tile	
+3601	Small Screw	
+3602	Exquisite Scre	
+3603	To Shelf Screw	
+3604	Cheap Plastic	
+3605	Sturdy Plastic	
+3606	High-Grade Plastic	
+3607	Shabby Wire	
+3608	Quyality Wire	
+3609	High-End Wire	
+3610	Dull Aluminum	
+3611	Gleaming Aluminum	
+3612	Dented Carbon	
+3613	Flexible Carbon	
+3614	Rusted Electrical Wire	
+3615	Clean Electrical Wire	
+3616	Dirty Iron	
+3617	Sturdy Iron	
+3618	Old Circuit	
+3619	Precise Circuit	
+3620	Worn Magnet	
+3621	Strong Magnet	
+3622	Stretched Coil	
+3623	Sturdy Coil	
+3624	Abundant Oil	
+3625	Clear Resin	
+3626	Solid Paint White	
+3627	Solid Paint Black	
+3628	Solid Paint Blue	
+3629	Solid Paint Red	
+3630	Striped Paint	
+3631	Checkered Paint	
+3632	Cute Paint	
+3633	Floral Paint	
+3634	Colorful Paint	
+3635	Elegant Paint	
+3636	Camo Paint Green	
+3637	Camo Paint Brown	
+3638	Camo Paint Blue	
+3639	Natural Paint	
+3640	Anime Paint	
+3641	Dragon Paint	
+3642	Master Frame Blueprints	
+3643	Master Propeller Blueprints	
+3644	Master Motor Blueprints	
+3645	Master Turbo Blueprints	
+3646	Master Esc Blueprints	
+3647	Pebble	
+3648	Twig	
+3649	Earthworm	
+3650	Mugwort	
+3651	Four Leaf Clover	
+3652	Pachinko Ball	
+3653	Prize Medal	
+3654	Empty Bottle	
+3655	Stretchy Rubber	
+3657	Cigarette Buty	
+3658	Bullet	
+3659	Small Metal Plate	
+3660	Well Used Rubber	
+3661	Dirty Cloth	
+3662	Sacred Rot	
+3663	Sacred Wood	
+3664	Sacred Tree	
+3665	Mysterious Stone	
+3666	Beautiful Seashell	
+3667	Eye Of The Dragon	
+3668	Red Pyroxene	
+3669	Blue Pyroxene	
+3670	Yellow Pyroxene	
+3671	Rainbow Pyroxene	
+3672	Potted Plant	
+3673	Tuna	
+3674	Fugu	
+3675	Red Snapper	
+3676	Salmon	
+3677	Blowfish	
+3678	Megalodon	
+3679	Flounder	
+3680	Marin	
+3681	Crab	
+3682	Goby	
+3683	Squid	
+3684	Coalacanth	
+3685	Pawn	
+3686	Rook 1	
+3687	Knight	
+3688	Silver General	
+3689	Gold General	
+3690	Bishop	
+3691	Rook 2	
+3692	Champion King	
+3693	Challenger King	
+3694	Horse Figurine	
+3695	Ebisu Figurine	
+3696	Desktop Houseplant	
+3697	Artificial Houseplant	
+3698	Pine Tree Bonsai	
+3699	Chinese Vase	
+3700	Decorative Plate	
+3701	Painting Autumn Avenue	
+3702	Painting Mountain Reflection	
+3703	Daruma Red	
+3704	Daruma White	
+3705	Daruma Blue	
+3706	Rubber Baseball	
+3707	Soccer Ball	
+3708	Fishing Float	
+3709	Seaweed Onigiri	
+3710	Tuna Onigiri	
+3711	Salmon Onigiri	
+3712	Fresh Lettuce Sandwich	
+3713	Tuna & Egg Sandwich	
+3714	Oden	
+3715	Bento Lunch Set	
+3717	Pork Tonkatsu Bento	
+3718	Healthy Balanced Bento	
+3719	Luxury Yakiniku Beno	
+3720	Sushi Set	
+3721	Imuraya Steamed Bun	
+3722	Imuraya Bean Paste Bun	
+3723	Imuraya Pizza Bun	
+3724	Imuraya Gold Steamed Bun	
+3725	Imuraya Gold Pizza Bun	
+3726	Super Cup 1.5x Pork Kimchi Ramen	
+3728	Yakisoba Mochichi	
+3729	Wakame Ramen	
+3730	Wonton Ramen	
+3731	Drink To Last Drop Dandanan Noodles	
+3732	Takemitsu's Yokan	
+3733	Takemitsu's Sakuramochi	
+3734	Sake	
+4060	Addicting Bite Sized Karage	
+4061	Potato Wedges	
+4062	Special Frankfurter	
+4063	Super Spicy Frankfurter	
+4064	Fluffy Croquettes	
+4065	Soft Serve Ice Cream	
+4066	Almond Jelly	
+4067	Mango Pudding	
+4068	Ichiban Rice Crackers (Shoyu)	
+4069	Ichiban Rice Crackers (Salt)	
+4070	Ichiban Fried Rice Crackers	
+4071	Chinese Sticky Rice	
+4072	Bean Paste Bun	
+4073	Handmade Meat Bun	
+4074	Ultimate Pork Bun	
+4075	Special Chinese Bun	
+4076	Shark Fin Bun	
+4077	Broiled Chestnuts	
+4078	Club Sandwich	
+4082	Home Run King Amulet	
+4083	1/8 Haruka Sawamura "So Much More"	
+4084	1/8 Haruka Sawamura Dream Line	
+4085	1/8 Ono Michio	
+4086	1/8 Bram Sylvania Iii	
+4087	King Koro-Nyan	
+4090	Imuraya Yokan	
+4091	Imuraya Castella	
+4092	Melon Pan	
+4095	Paper Milk Carton	
+4096	Smile Burger	
+4097	Taiyaki Smile Burger	
+4098	Smile Fries	
+4099	Smile Shakes	
+4100	Smile Salad	
+4139	Divine Water	
+4140	Shot Data +	
+4141	Rapid Data +	
+4142	Frame Data+	
+4143	Additional Mission Data	
+4144	Additional Mission Data Ex	
+4152	Shot Data	
+4153	Rapid Chip	
+4154	Repair Chip	
+4157	Battle Innerwear	
+4158	Battle Innerwear S	
+4159	Battle Innerwear Ss	
+4160	Motivator Shirt	
+4161	Motivator Shirt S	
+4162	Motivator Shirt Ss	
+4163	Motivator Shirt Sss	
+4164	Fighter Innerwear	
+4165	Fighter Innerwear S	
+4166	Fighter Innerwear	
+4167	Battle Boxers	
+4168	Battle Boxers S	
+4169	Battle Boxers Ss	
+4170	Fighter Boxers	
+4171	Fighter Boxers S	
+4172	Fighter Boxers Ss	
+4173	Lucky Boxers 1	
+4174	Lucky Boxers 2	
+4175	Lucky Boxers 3	
+4176	Homeostasis Booster 1	
+4177	Homeostasis Booster 2	
+4178	Full Shin Guards	
+4179	High Tech Shin Guards	
+4180	Back Protector	
+4181	Extinguisher Protector	
+4182	Wristband	
+4183	Safety Belt	
+4184	Ankle Booster	
+4185	Enhancement Contacts 1	
+4186	Enhancement Contacts 2	
+4187	Guard Shirt	
+4188	Guard Shirt S	
+4189	Guard Shirt Ss	
+4190	Ex-1	
+4191	Ex-2	
+4192	Ex-3	
+4193	Ex-4	
+4194	Arm Support 1	
+4195	Arm Support 2	
+4196	Arm Support 3	
+4197	Lucky Shirt 1	
+4198	Lucky Shirt 2	
+4199	Lucky Shirt 3	
+4200	Battle Support	
+4201	Battle Support S	
+4202	Battle Support Ss	
+4203	Multi-Top 1	
+4204	Multi-Top 2	
+4205	Multi-Top 3	
+4206	Training Innerwear	
+4207	Resistance Shirt	
+4208	Assist Boxers 1	
+4209	Assist Boxers 2	
+4210	Guard Pants	
+4211	Guard Pants S	
+4212	Guard Pants Ss	
+4213	Multi Leggings 1	
+4214	Multi Leggings 2	
+4215	Multi Leggings 3	
+4216	Training Long Pants	
+4217	High Pressure Bottoms 1	
+4218	High Pressure Bottoms 2	
+4219	Resistance Pants	
+4220	Rebar Belt 1	
+4221	Rebar Belt 2	
+4222	Anti Stun Contacts 1	
+4223	Anti Stun Contacts 2	
+4224	Grip Booster	
+4225	Contacts Of Worldly Desires	
+4226	Contacts Of Supreme Worldly Desires	
+4227	Ex Power Booster	
+4228	Ex Defense Booster	
+4229	Multi Booster 1	
+4230	Multi Booster 2	
+4231	Attack & Defense Booster 1	
+4232	Attack & Defense Booster 2	
+4233	Training Band	
+4234	Fireproof Protector 1	
+4235	Fireproof Protector 2	
+4236	Elbow Protectors 1	
+4237	Elbow Protectors	
+4238	Knee Protectors 1	
+4239	Knee Protectors 2	
+4240	Ex Power Belt	
+4242	Near Death Belt	
+4243	Ex Enhancement Belt	
+4244	Ex Maintainer Belt	
+4245	Secret Contacts	
+4246	Paint Seekers	
+4257	Beehive	
+4258	Scopion	
+4260	Mysterious Fruit	
+4266	Rose	
+4267	Lily	
+4268	Daikon	
+4269	Tomato	
+4270	Hot Pepper	
+4271	Potato	
+4272	Onion	
+4273	Garlic	
+4274	Mysterious Bulb	
+4275	Mysterious Mushroom	
+4276	Mysterious Seeds	
+4277	Recover Now	
+4284	Provocateur Extract	
+4338	Blue Tribal Skateboard	
+4339	Yellow Lizard Skateboard	
+4340	Green Lizard Skateboard	
+4341	Skull Bass Skateboard	
+4342	White Horse Skateboard	
+4361	Super Strength Extract	
+4363	Savage Slam Extract	
+4364	Warriors Onslaught Extract	
+4365	Snap Counter Extract	
+4366	Die Hard Extract	
+4367	Willow Snake Extract	
+4368	Versatility Extract	
+4369	Diplomatic Solution Extract	
+4370	Vital Spirit Extract	
+4371	Lubrication Tactic Extract	
+4371	Temporal Zen Extract	
+4372	Deceptive Mist Tactic Extarct	
+4372	Deceptive Must Tactic	
+4373	Super Grip Extract	
+4373	Super Grip Extract	
+4374	Tree Trunk Legs Extract	
+4374	Tree Trunk Legs Extract	
+4375	Stealth Extract	
+4375	Stealth Extract	
+4376	Lightning Blade Extract	
+4377	Telekinesis Extract	
+4378	Insta-Flux Extract	
+4379	Unyielding Extract	
+4380	Guardian Spirit Extract	
+4381	Temporal Zen Extract	
+4382	Energy Ball Extract	
+4383	Energy Burst Extract	
+4384	Instant Stun Extract	
+4385	Boon Of Fire Extract	
+4386	Boon Of Lightning Extract	
+4387	Spirit Dance Extract	
+4388	Spirit Dance Extract	
+4389	Dance Of Life Extract	
+4390	Mystic Dance Extract	
+4391	Kamulop Pixel Figure	
+4392	Ono Michio Pixel Figure	
+4393	Fake Ono Michio Pixel Figure	
+4398	Speed Bow Mini	
+4399	Lambda 250 Mini	
+4400	Drift Army Mini	
+4401	Cocta Mini	
+4403	Kumami (Blue)	
+4404	Kumami (Red)	
+4405	Kumami (Green)	
+4406	Kumami (Black)	
+4407	Penmi Green	
+4408	Penmi Blue	
+4409	Penmi Red	
+4410	Penmi Yellow	
+4411	Penmi Black	
+4412	Boomi Yellow	
+4413	Boomi Blue	
+4414	Boomi Red	
+4415	Boomi Green	
+4416	Boomi Black	
+4417	Speed Bow Custom Mini	
+4418	Lambda 250 Custom Mini	
+4419	Drift Army Custom Mini	
+4420	Cocta Custom Mini	
+4425	Refined Iron	
+4426	Impure Lead	
+4427	High-Purity Lead	
+4428	Tempered Steel	
+4429	Cloudy Pane	
+4430	Clear Pane	
+4431	Immaculate Pane	
+4432	Worn-Out Rubber	
+4433	Passable Rubber	
+4434	Super-Durable Rubber	
+4435	Mobile Basic Report	
+4436	Mobile Application Report	
+4437	Mobile Combination Report	
+4438	Assault Basic Report	
+4439	Assault Application Report	
+4440	Assault Combination Report	
+4441	Fortress Basic Report	
+4442	Fortress Application Report	
+4443	Fortress Combination Report	
+4444	M-Weapon Basic Report	
+4445	M-Weapon Application Report	
+4446	M-Weapon Combination Report	
+4447	R-Weapon Basic Report	
+4448	R-Weapon Application Report	
+4449	R-Weapon Combination Report	
+4450	Ip1 Data	
+4451	Ip2 Data	
+4452	Ip3 Data	
+4453	Ai1 Data	
+4454	Ai2 Data	
+4455	Ai2 Data	
+4456	Cf1 Data	
+4457	Cf2 Data	
+4458	Cf3 Data	
+4459	Sp1 Data	
+4460	Sp2 Data	
+4461	Sp3 Data	
+4471	Pine Candy	
+4472	Oragamchi Natto	
+4473	Sega Taiyaki	
+4474	Nozaki's Corned Beef	
+4503	Dog Food	
+4504	Premium Boss	
+4505	Boss Light Sugar	
+4506	Suntory Oolong Tea	
+4507	Suntory Green Tea Lyemon	
+4508	Suntory Goma Mugicha	
+4509	Pepsi J-Cola	
+4510	C.C. Lemon	
+4512	Mountain Dew	
+4514	Natchan! Orange	
+4515	Natchan! Apple	
+4516	Suntory Mineral Water	
+4517	Suntory Sparkling Lemon Mineral Water	
+4518	Vitamin Water	
+4520	Red Horse Skateboard	
+4521	Purple Drop Skateboard	
+4522	Black Drop Skateboard	
+4581	Zone	
+4584	Staminan Spark
+[/ID]

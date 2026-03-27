@@ -1,0 +1,38 @@
+^1 = HASH: 0CD3C2F6
+^3 = NAME: MX Superfly
+^2 = GameID: SLUS_203.81
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0012C6A7
+!!
+!Codes:
++Max Race Points
+%Credits: Code Master
+$1041FEE4 000003E7
++Infinite Money
+%Credits: Code Master
+$104204A8 0000FFFF
++Max Money
+%Credits: Code Master
+$204204A8 05F5E0FF
++Idiot AI
+%Credits: Code Master
+$201E0C10 03E00008
+$201E0C14 00000000
++Number Of Opponents Modifier
+%Credits: Code Master
+$1041232C 000000??
++Total Laps Modifier
+%Credits: Code Master
+$10412340 000000??
++Have All Riders
+%Credits: Code Master
+$20412D20 00000000
++Have All Bikes
+%Credits: Code Master
+$20412D24 0000FFFF
++Have All Mini-Games
+%Credits: Code Master
+$20412D28 0000FFFF
+!!

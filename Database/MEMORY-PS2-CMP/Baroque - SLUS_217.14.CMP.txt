@@ -1,0 +1,117 @@
+^1 = Hash: 71 66 D0 1D 37 C9 A2 47 F4 AE BB 6B 0F 4A BD BD 13 DA FE 69
+^2 = GameID: SLUS_217.14
+^3 = NAME: Baroque
+!Masters:
++Enable Code (MUST BE ON)
+$902252D8 0C08945E
+!!
+!Misc Codes:
++Inf Current Vt
+%Credits: SkillerCMP
+$20134B74 8CC30008
++Inf Ammo
+%Credits: SkillerCMP
+$101C4124 00000000
++Gain Ammo
+%Credits: SkillerCMP
+$101C4124 00000001
++1 Hit Kills (enemy)
+%Credits: SkillerCMP
+$200A0000 24081002
+$200A0004 15070004
+$200A000C AC600004
+$200A0010 0804D280
+$200A0018 00451021
+$200A001C AC620004
+$200A0020 0804D280
+$201349FC 08028000
+$20134A00 00000000
++EXP Multiplier
+%Credits: SkillerCMP
+$200A00D0 00052[EXP]
+$200A00D4 00451021
+$200A00D8 0804E39A
+$200A00DC AC62004C
+$20138E64 08028034
+!!
+!Stat Codes:
++Inf HP{Press "select"+ "r3" To Die}
+%Credits: SkillerCMP
+$D04E6342 0010FFFA
+$20BD8F84 000003E7
+$D04E6342 0000FFFA
+$20BD8F84 00000000
++Inf Vt
+%Credits: SkillerCMP
+$20BD8F8C 000003E7
++Current Attack
+%Credits: SkillerCMP
+$20BD8F94 000003E7
++Current Def
+%Credits: SkillerCMP
+$20BD8FA0 000003E7
+!Level Reset Codes:
++Max HP
+%Credits: SkillerCMP
+$20AC744C 000003E8
++Max Vt
+%Credits: SkillerCMP
+$20AC7450 000003E8
++Max Attack
+%Credits: SkillerCMP
+$20AC7454 000003E8
++Max Def
+%Credits: SkillerCMP
+$20AC7458 000003E8
+!!
+!!
+!Database Codes:
++Compleate Database{This Code Might Affect Alot Mote Then Just The Database Might Give U Alot Of Stuff Iv Only Gone Ingame One Time To Make Sure It Loaded On A Save It Does . Need U Guys To Tell Me If It Gives U Anything In The Main Game Play Or Does Stuff Difftent .}
+%Credits: SkillerCMP
+$4053C3B0 00790001
+$FFFFFFFF 00000000
+!Individual Database Sections ..:
++All Items List (database)
+%Credits: SkillerCMP
+$0053C3D5 000000F0
+$1053C3D6 0000FFFF
+$4053C3D8 000A0001
+$FFFFFFFF 00000000
+$1053C400 0000FFFF
++All Event List
+%Credits: SkillerCMP
+$1053C402 0000FFFF
+$0053C404 0000007F
++All Character List/Voice List
+%Credits: SkillerCMP
+$4053C4FC 001A0001
+$FFFFFFFF 00000000
+$1053C564 0000FFFF
++All Sound Test
+%Credits: SkillerCMP
+$0053C423 000000F0
+$1053C424 01FFFFFF
++All Baroque List
+%Credits: SkillerCMP
+$2053C440 FFFFFFF8
+$2053C444 FFFFFFFF
+$0053C448 00000007
+!!
+!!
+^6 = MODS:
+[EXP]
+VALUE>NAME
+800	Normal
+840	2x
+880	4x
+8C0	8x
+900	16x
+940	32x
+980	64x
+9C0	128x
+A00	256x
+A40	512x
+A80	1024x
+AC0	2048x
+B00	4096x
+[/EXP]

@@ -1,0 +1,6 @@
+^2 = GameID: NPEB00631
+^3 = NAME: DeathSpank: The Baconing (PSN)
+^5 = APCRED: From SHAkA
+^4 = FILE: SLOT1.SAV
++Max Money
+$write at 0x0000395C:0x3B9AC9FF

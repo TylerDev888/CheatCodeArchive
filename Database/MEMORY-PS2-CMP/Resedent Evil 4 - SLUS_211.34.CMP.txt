@@ -1,0 +1,1126 @@
+^1 = Hash: 02 A7 B2 98 D5 BB B8 80 E5 EA 3C 21 D5 DE 79 54 BC FB 04 12
+^2 = GameID: SLUS_211.34
+^3 = NAME: Resedent Evil 4
+%Credits: SkillerCMP>GMO>Szalay>FloydFan>Hiei-YYH
+!Masters:
++Enable Code (MUST BE ON)
+$902A6E88 00832021
++Enable Code (MUST BE ON)
+$F02A6D5C 002A6D5F
++Enable Code (MUST BE ON)
+$0E3C7DF2 1456E7A5
+$F02A6D5C 002A6D5F
+!!
+!Jokers:
++Player 1 Controller
+$D0451402 0000[Joker:PS2]
++Player 1 Controller
+$D0451482 0000[Joker:PS2]
++Player 2 Controller
+$D0451502 0000[Joker:PS2]
++Player 2 Controller
+$D0451582 0000[Joker:PS2]
+!!
+!Dump Codes:
+!Live Dump:
++Memcard Sub{This Is The Main Section That Never Changes Once This Part Is In It Is Always The Same}
+$200A0000 27BDFFC0
+$200A0004 3C06000A
+$200A0008 FFB20020
+$200A0010 FFB10010
+$200A0014 24C60104
+$200A0018 FFB00000
+$200A0020 FFBF0030
+$200A0028 24070203
+$200A002C 0040802D
+$200A0030 0220282D
+$200A0034 0240302D
+$200A003C 0200202D
+$200A0040 3C050010
+$200A0044 0200202D
+$200A004C 3C060070
+$200A0050 0220282D
+$200A0054 0240302D
+$200A005C 0200202D
+$200A0064 0200202D
+$200A0068 0200282D
+$200A006C 0200302D
+$200A0074 0200202D
+$200A0078 DFBF0030
+$200A007C DFB20020
+$200A0080 DFB10010
+$200A0084 DFB00000
+$200A0088 03E00008
+$200A008C 27BD0040
++Memcardport-Multitap 1-4{This Is For Multitap Port}
+$200A000C 24040000
++Memcardslot-Slot 1-2{Witch Memslot U Saving To}
+$200A001C 24050000
++Start And Stop
+$200A0040 3C050010
+$200A004C 3C060070
++Dump L3
+$200A0038 0C0AA4E0
+$200A0070 0C0AA4E0
+$200A0058 0C0AA4E0
+$200A0024 0C0AA412
+$200A0048 0C0AA7F0
+$200A0060 0C0AA46C
+$D0451402 0000FFFD
+$202A6ECC 08028000
+$D0451402 0010FFFD
+$202A6ECC 03E00008
+!!
+!!
++Ntsc2pal
+$202A5B08 24020002
++Have All Bottle Caps Need Atleast 1 First)
+$410F66D4 000C0007
+$00DC0000 00020000
+$410F66E4 000C0007
+$000100DD 00000002
+$410F66D8 000C0007
+$00010001 00000000
+$410F66E8 000C0007
+$00000001 00000000
++Invincible (l1+up=on/L1+down=off)
+$E0020410 0045160A
+$201C2C18 03E00008
+$201C2C1C 00000000
+$E0020440 0045160A
+$201C2C18 27BDFF90
+$201C2C1C 7FB00060
++Inf "x Command"(l3 : On R3 : Off){<div Class="notes"><h4>note</H4><ul Class="bullet-List"><li>disable This Code When You’re Not Picking Up Items — If A Cutscene Triggers While It’s Active, The Game Can Crash.</Li><li>the Code Keeps The Last “x Take” Prompt On Screen So You Can Press <strong>x</Strong> Repeatedly To Keep Getting That Same Item.</Li><li>this Applies To Anything That Shows “x &lt;action&gt;”.</Li></Ul><h4>what It Is:</H4><p>“inf X Command” Makes The Game Never Clear The “x Take”/“x To Look” Prompt. That Means If An Item Says “x Take,” The Prompt Stays There And You Can Take It Over And Over. It Also Works On Other X-Based Actions (like “x To Look”) So You Can Repeat Them Until You Turn The Code Off With <strong>r3</Strong>. Be Sure To Follow The Note Above.</P></Div>}
+$D0451402 0000FFFD
+$20221738 00000000
+$D0451402 0000FFFB
+$20221738 AC820004
++Warp To/Room Mod (hold Select When Games Loading)
+$D0451402 0000FFFE
+$1042DA58 0000[WAP]
++Weapon Mod{<div Class="note"><h4>note</H4><ul Class="bullet-List"><li>when You View Your Items, The Gun Image May Return To The Normal/Default Icon.</Li><li>this Is Only Visual — The Game Still Keeps The Same Gun Type You Selected.</Li><li>your Firing Rate And Other Modified Stats Stay The Same.</Li></Ul></Div>}
+$0042DA82 000000[WEP]
++Max/Inf Health (main)
+$1042DA76 00000960
+$1042DA78 00000960
++Max/Inf Health (partners)
+$1042DA7A 000004B0
+$1042DA7C 000004B0
++Max/Inf Ptas (money)
+$2042DA6C 3B9AC9FF
++Save Game To Reset Game Time
+$2042DA54 00000000
++Save Times Amount 0
+$0042DA5A 00000000
++Never Reload
+$2012009C 24420000
++Unlock Modes
+$10430F66 0000FFFF
++Have All Ada Reports
+$00430F6D 00000004
++Mercs Score
+$203CFA6C 05F5E0FF
++Mercs Time Stop
+$1041B668 00000DD0
++Mercs Max Kills
+$203CFA84 0000270F
++Mercs Max Kills In A Row
+$203CFA70 0000270F
++Main Character Mod
+$0042DA8A 0000000[CH]
+Player's (You) Clothing
+$0042DA88 0000000[PL]
+$0042DA8B 0000000[PL]
+Ashley's Clothing
+$0042DA89 0000000[PL]
+$0042DA8D 0000000[PL]
+Toggle Auto Aim {R1+Up=On,R1+Down=Off}
+$D0451402 0000F7EF
+$00430F63 000000[A1][A2] 
+$D0451402 0000F7BF
+$00430F63 000000[A1][A2] 
+!Results Codes:
++Times Killed
+$00430F34 00000000
++????
+$00430F36 00000000
++Max Enemies Killed
+$20430F38 000003E7
+$20430F3C 0000270F
++Perfect Hit Ratio
+$20430F40 00000064
+$20430F44 0000270F
+$20430F48 00000064
+$20430F4C 0000270F
+!!
+!Merchent:
+!Slots Max Items/Item Mod:{<div Class="note"><h4>note</H4><ul Class="bullet-List"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}
++Slot 1
+$210F4FE0 03E700[MER]
++Slot 2
+$210F4FE8 03E700[MER]
++Slot 3
+$210F4FF0 03E700[MER]
++Slot 4
+$210F4FF8 03E700[MER]
++Slot 5
+$210F5000 03E700[MER]
++Slot 6
+$210F5008 03E700[MER]
++Slot 7
+$210F5010 03E700[MER]
++Slot 8
+$210F5018 03E700[MER]
++Slot 9
+$210F5020 03E700[MER]
++Slot 10
+$210F5028 03E700[MER]
++Slot 11
+$210F5030 03E700[MER]
++Slot 12
+$210F5038 03E700[MER]
++Slot 13
+$210F5040 03E700[MER]
++Slot 14
+$210F5048 03E700[MER]
++Slot 15
+$210F5050 03E700[MER]
++Slot 16
+$210F5058 03E700[MER]
++Slot 17
+$210F5060 03E700[MER]
++Slot 18
+$210F5068 03E700[MER]
++Slot 19
+$210F5070 03E700[MER]
++Slot 20
+$210F5078 03E700[MER]
++Slot 21
+$210F5080 03E700[MER]
++Slot 22
+$210F5088 03E700[MER]
++Slot 23
+$210F5090 03E700[MER]
++Slot 24
+$210F5098 03E700[MER]
++Slot 25
+$210F50A0 03E700[MER]
++Slot 26
+$210F50A8 03E700[MER]
++Slot 27
+$210F50B0 03E700[MER]
++Slot 28
+$210F50B8 03E700[MER]
++Slot 29
+$210F50C0 03E700[MER]
++Slot 30
+$210F50C8 03E700[MER]
++Slot 31
+$210F50D0 03E700[MER]
++Slot 32
+$210F50D8 03E700[MER]
++Slot 33
+$210F50E0 03E700[MER]
++Slot 34
+$210F50E8 03E700[MER]
++Slot 35
+$210F50F0 03E700[MER]
++Slot 36
+$210F50F8 03E700[MER]
++Slot 37
+$210F5100 03E700[MER]
++Slot 38
+$210F5108 03E700[MER]
++Slot 39
+$210F5110 03E700[MER]
++Slot 40
+$210F5118 03E700[MER]
++Slot 41
+$210F5120 03E700[MER]
++Slot 42
+$210F5128 03E700[MER]
++Slot 43
+$210F5130 03E700[MER]
++Slot 44
+$210F5138 03E700[MER]
++Slot 45
+$210F5140 03E700[MER]
++Slot 46
+$210F5148 03E700[MER]
++Slot 47
+$210F5150 03E700[MER]
++Slot 48
+$210F5158 03E700[MER]
++Slot 49
+$210F5160 03E700[MER]
++Slot 50
+$210F5168 03E700[MER]
++Slot 51
+$210F5170 03E700[MER]
++Slot 52
+$210F5178 03E700[MER]
++Slot 53
+$210F5180 03E700[MER]
++Slot 54
+$210F5188 03E700[MER]
++Slot 55
+$210F5190 03E700[MER]
++Slot 56
+$210F5198 03E700[MER]
++Slot 57
+$210F51A0 03E700[MER]
++Slot 58
+$210F51A8 03E700[MER]
++Slot 59
+$210F51B0 03E700[MER]
++Slot 60
+$210F51B8 03E700[MER]
++Slot 61
+$210F51C0 03E700[MER]
++Slot 62
+$210F51C8 03E700[MER]
++Slot 63
+$210F51D0 03E700[MER]
++Slot 64
+$210F51D8 03E700[MER]
+!!
+!Merchent Max Upgrades:
++Handgun
+$210F51E0 03070023
+$110F51E4 00000603
++Shotgun
+$210F51E8 0107002C
+$110F51EC 00000603
++Rifle
+$210F51F0 0107002E
+$110F51F4 00000603
++Tmp
+$210F51F8 01070030
+$110F51FC 00000603
++Punisher
+$210F5200 03070021
+$110F5204 00000603
++Red9
+$210F5208 03070025
+$110F520C 00000603
++Blacktail
+$210F5210 03070027
+$110F5214 00000603
++Broken Butterfly
+$210F5218 01070029
+$110F521C 00000403
++Rifle (semi-Auto)
+$210F5220 0206002F
+$110F5224 00000603
++Riot Gun
+$210F5228 01070094
+$110F522C 00000603
++Mine Thrower
+$210F5230 01040036
+$110F5234 00000302
++Striker
+$210F5238 0106002D
+$110F523C 00000703
++Killer7
+$210F5240 0103002A
+$110F5244 00000303
++Chicago Typewriter
+$210F5248 01070034
+$110F524C 00000701
++Matilda
+$210F5250 01070003
+$110F5254 00000703
++Hand Cannon
+$210F5258 01070037
+$110F525C 00000703
+!!
+!!
++Stop Most Animations Of Enemies{Their Bodies Still Come At You & Still Attack,you Just Dont See Most Of The Animations.a Useless Code But Neat To Watch The Oddities This Code Causes By Fighting With Them}
+%Credits: FloydFan
+$2023053C 00000000
+!Characters:
+!Character 1:
++Enemies Cant Grab{Also Bear Traps Wont Hold You(you Still Get Damaged - Code Is Problematic,as In May Freeze Game,in Some Later Boss Fights,so Dont Use The Code In The Later Parts Of The Game,like During Fights With Verduga,u3 & The Bosses Beyond.}
+%Credits: FloydFan
+$201C3E70 03E00008
+$201C3E74 00000000
++Cant Be Hit By Explosions
+%Credits: FloydFan
+$201C1678 00000000
++Immune To Some Fire Damage{Mostly Stuff Your Character Causes}
+%Credits: FloydFan
+$20166E98 00000000
++Walk Thru Walls(r3+up=on/R3+down=off){If You're Aware Of The Farm Area Glitch,that You Could Get Behind The Scenery And Access To Some Hidden Items In A Pile.this Code Will Allow You To Get Behind The Scenery And Walls In Any Area Of The Game And A Lot Have Basically The Same Hidden Items,one Of Those Items Will Freeze The Game If You Take It,its Called The Shotgun,but It Looks Like An Old Ammo Box,unlike Any Other Ammo Box In The Game,donft Say Yes To It,it Will Freeze Your Game One Way Or The Other.you Can Skip Past Some Difficult Parts Of The Game,like The gkrauser Conversationh By Running Around The Area Of The Floor That Triggers It,the Code Only Affects Walls So You Will Walk On Air If You Are Off The Games Programmed Paths,so Make Sure You Have A Way To Get Back On The Path,since You Cant Drop Down Or Go Up When Youfre Off The Path.if You Cant Get Back,then Choose Retry From Last Continue Point From The Options Menu.}
+%Credits: FloydFan
+$D0430FA4 00004008
+$201A206C 00000000
+$D0430FA4 00004004
+$201A206C 0C0688C2
+!!
++Ashley Cant Be Grabbed At All By Enemies,she's Also Immune To Bear Traps
+%Credits: FloydFan
+$201C3AF8 03E00008
+$201C3AFC 00000000
+!Enemies:
++Enemies Cant Throw Scythes
+%Credits: FloydFan
+$20115B18 03E00008
+$20115B1C 00000000
++Enemies Cant Throw Axes
+%Credits: FloydFan
+$201158E8 03E00008
+$201158EC 00000000
++Enemies Cant Shoot Arrows
+%Credits: FloydFan
+$20115CF0 03E00008
+$20115CF4 00000000
++Enemies Cant Shoot Rockets
+%Credits: FloydFan
+$20116180 03E00008
+$20116184 00000000
+!!
+!!
++Toggle Auto Aim V1 On/Off (r1+up=on/R1+down=off)
+%Credits: FloydFan
+$D0430FA4 00000028
+$70430F63 00000030
+$D0430FA4 00000024
+$70430F63 00000040
++Toggle Auto Aim V2 On/Off (r1+up=on/R1+down=off)
+%Credits: FloydFan
+$D0451402 0000F7EF
+$20430F63 00000030
+$D0451402 0000F7BF
+$20430F63 00000040
++Ada Can Buy Weapons That Are Fully Upgraded And Has Fully Upgraded Start With Weapons
+%Credits: FloydFan
+$102F01CE 00000030
+$202F01D0 06030107
+$202F01D4 0206002F
+$102F01D8 00000603
+$002F01DA 00000047
+$202F01DC 06010106
+$202F01EC 03070027
+$102F01F0 00000603
+!Random Codes:
++No Get Floor/Ground Changes/Can Go Thru Some Ground & Floors(r3+right=on/R3+left=off){Be Careful With This Code It Can Get You In Trouble,like The Wtws Code Can.}
+%Credits: FloydFan
+$D045160A 00000024
+$201A20DC 00000000
+$D045160A 00000084
+$201A20DC 0C0689B4
++Turn Some Effects On/Off(r2+up=some Effects On/R2+down=some Effects Off)
+%Credits: FloydFan
+$D045160A 00000210
+$0042DAF4 000000FD
+$D045160A 00000240
+$0042DAF4 00000002
++Invincible (l1+up=on/L1+down=off){Warning! Any Head Specific Attack Seems To Freeze The Game,like Chainsaw Guys And Las Plagas.i Also Donft Know If This Code Has Been Made Already Or Not.did The Gc Version Of This Code(disable Hit Detection) Have The Same Problem? I Cant Remember Its Been Awhile Since I Played Re4 On My Gc.}
+%Credits: FloydFan
+$D045160A 00000410
+$201C2C48 00000000
+$D045160A 00000440
+$201C2C48 0C070B46
++Have Access To All Pick-Ups In An Area & Can Open,save,climb If That Area Has Those Options(r1+right=on/R1+left=off){Warning! Dangerous Code.dont Use This Code Often And Dont Leave It On For Extended Periods Of Time.it Makes Item And Other Screen Prompts Appear Onscreen No Matter Where You Are And You Can Choose Them,sometimes Getting A Different Prompt Than The One That Initially Shows Up Can Be Hard Or Impossible,moving Around In An Area And Activating The Code At Different Times Can Help.this Code Will Also Will Activate gfoot Cuesh That Start Cutscenes And Areafs With No Real Door But Just An Opening This Code When Activated In Those Areas Will Make You Go Thru That Opening.dont Use This Code Unless Youfre Prepared To Get In Trouble In Someway,like Freezing The Game Up Or Ending Up In Some Weird Place And No Way To Get Back To The Normal Playing Area.there Are Hidden/Invisible Ladders That Ifve Found With This Code Like In The Gondola Area And In The Lower Elevator Area Before You Take It Up To The Krauser Conversation/Fight.}
+%Credits: FloydFan
+$E0020820 0045160A
+$2019DC90 03E00008
+$2019DC94 00000000
+$E0020880 0045160A
+$2019DC90 27BDFFF0
+$2019DC94 FFBF0000
+!!
+!Size Of Weapons & Items In Attache Case Modifiers:{<div Class="item-Size-Note"><h4>warning</H4><ul Class="bullet-List"><li>you <strong>cannot</Strong> Buy Size-Modified Items/Weapons From The Merchant — The Game Will <strong>freeze</Strong>.</Li><li>to Avoid This, First Place The Item In Your Case, Then Activate The Size-Mod Code (ideally On A <strong>different Joker</Strong>).</Li><li>if You Save With Size-Modified Items In The Case And Later Load Without The Codes On, The Game Will Restore Their <strong>default Size</Strong> And This Can <strong>break Your Case Layout</Strong> (items Can Vanish Or Overlap).</Li><li>codes Must Stay On For Items To Stay In Their Modified Size — The Game Does <strong>not</Strong> Permanently Save The New Shape.</Li></Ul><h4>example</H4><ul Class="bullet-List"><li><strong>p.r.l.</Strong> Default: <code>203281dc 00000307</Code> ? <code>3</Code> = Vertical (3 High), <code>7</Code> = Horizontal (7 Long) ? 21 Slots.</Li><li>p.r.l. 1×1: <code>203281dc 00000101</Code> ? Takes 1 Box, Like Eggs.</Li><li>p.r.l. 0×0: <code>203281dc 00000000</Code> ? Takes No Space, But <strong>not Usable/Equippable</Strong>, Only Sellable.</Li></Ul><h4>what To Know</H4><ul Class="bullet-List"><li>you Can Make Items Take <strong>no Space</Strong>, But They Won’t Equip — They’ll Just Sit In Inventory And Can Still Be Sold.</Li><li>these Codes Do <strong>not</Strong> Shrink The On-Screen Icon, So Multiple Items Can Visually <strong>overlap</Strong>; That’s Normal.</Li><li>“all Below Codes Have Default Size Digits” = Each One Shows The Game’s Original Height/Width So You Know What To Change.</Li></Ul></Div>}
+!Weapons:
++Matilda
+%Credits: FloydFan
+$20326DEC 00000205
++Punisher
+%Credits: FloydFan
+$20326E44 00000203
++Handgun
+%Credits: FloydFan
+$20326EF4 00000203
++Red9
+%Credits: FloydFan
+$20326F4C 00000204
++Blacktail
+%Credits: FloydFan
+$20326FA4 00000203
++Broken Butterfly
+%Credits: FloydFan
+$20326FFC 00000204
++Killer7
+%Credits: FloydFan
+$20327054 00000204
++Shotgun
+%Credits: FloydFan
+$203270AC 00000208
++Striker
+%Credits: FloydFan
+$20327104 00000205
++Rifle
+%Credits: FloydFan
+$2032715C 00000109
++Rifle (semi-Auto)
+%Credits: FloydFan
+$203271B4 00000207
++Tmp
+%Credits: FloydFan
+$2032720C 00000203
++Chicago Typewriter
+%Credits: FloydFan
+$20327264 00000307
++Rocket Launcher
+%Credits: FloydFan
+$203272BC 00000208
++Mine Thrower
+%Credits: FloydFan
+$20327314 00000205
++Hand Cannon
+%Credits: FloydFan
+$2032736C 00000204
++Riot Shotgun
+%Credits: FloydFan
+$2032741C 00000208
++Rocket Launcher (special)
+%Credits: FloydFan
+$20327474 00000208
++Infinite Rocket Launcher
+%Credits: FloydFan
+$203274CC 00000208
++Custom Tmp (hunks)
+%Credits: FloydFan
+$20327524 00000204
++Krausers Bow
+%Credits: FloydFan
+$2032757C 00000307
++Grenade
+%Credits: FloydFan
+$20327B54 00000201
++Incendiary Grenade
+%Credits: FloydFan
+$20327BAC 00000201
++Flash Grenade
+%Credits: FloydFan
+$20327C04 00000201
++P.r.l.
+%Credits: FloydFan
+$203281DC 00000307
++Bowgun (adafs)
+%Credits: FloydFan
+$20328234 00000305
++Shotgun (adafs)
+%Credits: FloydFan
+$203282E4 00000206
++Chicago Typewriter (adafs)
+%Credits: FloydFan
+$2032833C 00000307
+!!
+!Weapon Gear:
++Silencer
+%Credits: FloydFan
+$203278EC 00000102
++Red9 Stock
+%Credits: FloydFan
+$20327944 00000103
++Tmp Stock
+%Credits: FloydFan
+$2032799C 00000202
++Scope (rifle)
+%Credits: FloydFan
+$203279F4 00000103
++Scope (rifle Semi-Auto)
+%Credits: FloydFan
+$20327A4C 00000103
++Scope (mine Thrower)
+%Credits: FloydFan
+$20327AA4 00000202
++Infra-Red Scope
+%Credits: FloydFan
+$20327AFC 00000103
+!!
+!Ammo:
++Handgun Bullets
+%Credits: FloydFan
+$203275D4 00000102
++Tmp Bullets
+%Credits: FloydFan
+$2032762C 00000102
++Shotgun Shells
+%Credits: FloydFan
+$20327684 00000102
++Rifle Ammo
+%Credits: FloydFan
+$203276DC 00000102
++Chicago Typewriter Ammo?
+%Credits: FloydFan
+$20327734 00000102
++Hand Cannon Bullets
+%Credits: FloydFan
+$2032778C 00000102
++Magnum Ammo
+%Credits: FloydFan
+$203277E4 00000102
++Mine Darts
+%Credits: FloydFan
+$2032783C 00000102
++Arrows
+%Credits: FloydFan
+$20327894 00000104
++Bowgun Bolts (ada)
+%Credits: FloydFan
+$2032828C 00000104
++All Ammo Takes Up No Space Code{<div Class="note"><h4>special Code</H4><ul Class="bullet-List"><li>use This If You Are Using An Infinite Ammo Code And Do Not Want Ammo Boxes Taking Up Space In Your Case.</Li><li>works Even If You Picked Them Up By Accident.</Li><li>helpful When Items Are Hard To Avoid Picking Up.</Li></Ul></Div>}
+%Credits: FloydFan
+$403275D4 00090016
+$00000000 00000000
+$2032828C 00000000
+!!
+!Health/Weapon Items:
++Egg
+%Credits: FloydFan
+$20327CB4 00000101
++Brown Egg
+%Credits: FloydFan
+$20327D0C 00000101
++Golden Egg
+%Credits: FloydFan
+$20327D64 00000101
+!!
+!Health Items:
++1st Aid Spray
+%Credits: FloydFan
+$20327C5C 00000201
++Black Bass
+%Credits: FloydFan
+$20327DBC 00000301
++Black Bass (large)
+%Credits: FloydFan
+$20327E14 00000602
++Green Herb
+%Credits: FloydFan
+$20327E6C 00000201
++Red Herb
+%Credits: FloydFan
+$20327EC4 00000201
++Yellow Herb
+%Credits: FloydFan
+$20327F1C 00000201
++Green+red Herb Mix
+%Credits: FloydFan
+$20327F74 00000201
++Green+yellow Herb Mix
+%Credits: FloydFan
+$20327FCC 00000201
++Red+yellow Herb Mix
+%Credits: FloydFan
+$20328024 00000201
++Green Herb X2 Mix
+%Credits: FloydFan
+$2032807C 00000201
++Green Herb X3 Mix
+%Credits: FloydFan
+$203280D4 00000201
++Green+red+yellow Herb Mix
+%Credits: FloydFan
+$2032812C 00000201
++All Health Items Take Up No Space Except Eggs Code{<div Class="note"><h4>special Code</H4><ul Class="bullet-List"><li>use This When You Are Using An Infinite Health &amp; Max Health Code.</Li><li>this Also Covers Yellow Herbs And Herb Mixes.</Li><li>prevents Extra Health Items From Cluttering Your Case.</Li></Ul></Div><div Class="info"><h4>info</H4><ul Class="bullet-List"><li>eggs Will Still Take Up Space.</Li><li>eggs Remain Usable As Weapons With This Version Of The Code.</Li></Ul></Div>}
+%Credits: FloydFan
+$40327DBC 000B0016
+$00000000 00000000
+$20327C5C 00000000
++All Health Items Takes Up No Space Including Eggs Code{<div Class="note"><h4>special Code</H4><ul Class="bullet-List"><li>use This When You Are Using An Infinite Health &amp; Max Health Code.</Li><li>this Also Covers Yellow Herbs And Herb Mixes.</Li><li>prevents Extra Health Items From Cluttering Your Case.</Li></Ul></Div><div Class="info"><h4>info</H4><ul Class="bullet-List"><li>eggs Will Not Take Up Space.</Li><li>eggs Are Unusable As Weapons With This Version Of The Code.</Li></Ul></Div>}
+%Credits: FloydFan
+$40327C5C 000F0016
+$00000000 00000000
+!!
+!Misc. Item:
++Plaga Sample(assignment Ada Item)
+%Credits: FloydFan
+$20328184 00000201
+!!
+!!
+^6 = MODS:
+[CH]
+VALUE>NAME
+0	Leon
+1	Ashley
+2	Ada
+3	Hunk
+4	Krauser
+5	Wesker
+[/CH]
+[PL]
+VALUE>NAME
+0	Bomber Jacket	Leon
+1	No Jacket (too bad it got stolen)	Leon
+2	No Jacket	Leon
+3	RPD uniform	Leon
+4	Mafia outfit	Leon
+0	Hooded sweater top, green mini skirt (looks like dirty panties)	Ashley
+1	Pop sensation (No bounce on PS2)	Ashley
+2	Knight Armor Suit (bullet proof plus anti carry away)	Ashley
+3	Hooded sweater top, green mini skir	Ashley
+4	Hooded sweater top, green mini skirt	Ashley
+0	Red Mini Skirt (Gun holster ruins the looks of the dress)	Ada
+1	Infiltrate outfit	Ada
+2	Red Mini Skirt	Ada
+3	Chinese Red Dress (long red dress)	Ada
+4	Red Mini Skirt	Ada
+[/PL]
+[WEP]
+VALUE>NAME
+01	Punisher (Circle)
+02	Handgun (Square)
+03	Red9
+04	Blacktail
+05	Broken Butterfly
+06	Killer7
+07	Shotgun
+08	Striker
+09	Rifle
+0A	Auto Rifle
+0B	TMP
+0C	Chicago Typewriter
+0D	Rocket Launcher
+0E	Mine Thrower
+0F	Hand Cannon
+10	Knife 
+11	Matilda 
+12	Beta? (Looks Like A Red9) (Damages you)
+13	Grenades (Unlimited!) 
+14	Beta TMP (Kills Enemies At Your Sides)
+15	Beta Rifle (Beta Scope) 
+16	Incendary Grenades
+17	Flash Grenades
+18	Beta Rifle 
+19	White Eggs
+1A	Super Power Bullets (Kill most enemies with 1 hit)
+1C	Removes Laser Sight
+1E	Beta Rocket Launcher (Beta Scope)
+1F	Pink Eggs
+20	Gold Eggs
+21	Riot Shotgun
+22	Riot Shotgun Ammo (Does no damage)
+27	Rapid Fire (Only works with Handguns)
+2D	Beta Chicago Typewriter
+2E	P.R.L. 412 (PS2 Exclusive)
+2F	P.R.L. 412 (Different sound)
+35	Beta Handgun?
+38	Beta Shotgun (Do not fire)
+3B	Beta Auto-Rifle (No sound)
+3C	TMP (I don't see many differences, except the laser sight)
+44	Beta Grenades? (They work, and Leon's hand turns into the grenade)
+[/WEP]
+[MER]
+VALUE>NAME>TYPE
+00	Magnum Ammo	Ammo
+01	Hand Grenade	Weapons
+02	Incendiary Grenade	Weapons
+03	Matilda	Weapons
+04	Handgun Ammo	Ammo
+05	First Aid Spray	Items
+06	Green Herb	Items
+07	Rifle Ammo	Ammo
+08	Chicken Egg	Items
+09	Brown Chicken Egg	Items
+0A	Gold Chicken Egg	Items
+0B	aaa [Examine: "aaa" Graphic: Bottle of pills]	unknown
+0C	Plaga Sample	Items
+0D	Krauser's Knife	unknown
+0E	Flash Grenade	Weapons
+0F	Salazar Family Insignia	Key Items
+10	aaa	unknown
+11	aaa Examine: "aaa" with a graphic that looks like a knife/letter opener. maybe the knife Ada stabs Leon with?	unknown
+12	Green Herb (x2)	Items
+13	Green Herb (x3)	Items
+14	Mixed Herbs (G+R)	Items
+15	Mixed Herbs (G+R+Y)	Items
+16	Mixed Herbs (G+Y)	Items
+17	Rocket Launcher(Special)	Weapons
+18	Shotgun Shells	Ammo
+19	Red Herb	Items
+1A	Handcannon Ammo	Ammo
+1B	Wristwatch(1) (has an examine graphic)	unknown
+1C	Yellow Herb	Items
+1D	Stone Tablet	Key Items
+1E	Lion Ornament	Key Items
+1F	Goat Ornament	Key Items
+20	TMP Ammo	Ammo
+21	Punisher	Weapons
+22	Punisher w/ Silencer	Weapons
+23	Handgun	Weapons
+24	Handgun w/ Silencer	Weapons
+25	Red9	Weapons
+26	Red9 w/ Stock	Weapons
+27	Blacktail	Weapons
+28	Blacktail w/ Silencer	Weapons
+29	Broken Butterfly	Weapons
+2A	Killer7	Weapons
+2B	Killer7 w/ Silencer	Weapons
+2C	Shotgun	Weapons
+2D	Striker	Weapons
+2E	Rifle	Weapons
+2F	Rifle(semi-auto)	Weapons
+30	TMP	Weapons
+31	TMP w/ Silencer	Weapons
+32	TMP w/ Stock	Weapons
+33	TMP w/ Silencer & Stock	Weapons
+34	Chicago Typewriter	Weapons
+35	Rocket Launcher	Weapons
+36	Mine Thrower	Weapons
+37	Handcannon	Weapons
+38	Combat Knife [1x3 graphic]	Weapons
+39	Serpent Ornament	Key Items
+3A	Moonstone(right half)	Key Items
+3B	Insignia Key	Key Items
+3C	Round Insignia	Key Items
+3D	False Eye	Key Items
+3E	Custom TMP	Weapons
+3F	Silencer(Handgun) [size 2x1]	Weapons
+40	Red 9	Weapons
+41	P.R.L 412 (Extra weapon)	Weapons
+42	Stock (Red 9)	Weapons
+43	Stock (Tmp)	Weapons
+44	Scope (Rifle)	Weapons
+45	Scope (semi-auto rifle)	Weapons
+46	Mine-Darts	Weapons
+47	Mine-Darts(homing)	Weapons
+48	Capture Luis Sera	Notes
+49	Target Practice	Notes
+4A	Luis' Memo	Notes
+4B	Castellan Memo	Notes
+4C	Female Intruder	Notes
+4D	Butler's Memo	Notes
+4E	Sample Retrieved	Notes
+4F	Ritual Preparation	Notes
+50	Luis Memo 2	Notes
+51	Rifle(semi-auto) w/ Infrared scope	Weapons
+52	Krauser's Bow	Weapons
+53	aaa	unknown
+54	Treasure Map(Castle)	Maps
+55	Treasure Map(Island)	Maps
+56	Velvet Blue	Treasures
+57	Spinal	Treasures
+58	Pearl Pendant	Treasures
+59	Brass Pocket Watch	Treasures
+5A	Elegant Headdress	Treasures
+5B	Antique Pipe	Treasures
+5C	Gold Bangle w/ Pearls	Treasures
+5D	Amber Ring	Treasures
+5E	Beerstein	Treasures
+5F	Green Catseye	Treasures
+60	Red Catseye	Treasures
+61	Yellow Catseye	Treasures
+62	Beerstein w/ (G)	Treasures
+63	Beerstein w/ (R)	Treasures
+64	Beerstein w/ (Y)	Treasures
+65	Beerstein w/ (G,R)	Treasures
+66	Beerstein w/ (G,Y)	Treasures
+67	Beerstein w/ (R,Y)	Treasures
+68	Beerstein w/ (G,R,Y)	Treasures
+69	Moonstone(Left Half)	Key Items
+6A	Chicago Typewriter Ammo	Ammo
+6B	Rifle + Scope	Weapons
+6C	Rifle (semi-auto) w/ Scope	Weapons
+6D	Infinite Launcher	Weapons
+6E	King's Grail	Treasures
+6F	Queen's Grail	Treasures
+70	Staff of Royalty	Treasures
+71	Gold Bars	unknown
+72	Arrows(size 4x1)	unknown
+73	Bonus Time	unknown
+74	Emergency Lock Card Key	Key Items
+75	Bonus Points	unknown
+76	aaa	unknown
+77	Ruby	Treasures
+78	Treasure Box(S)	unknown
+79	Treasure Box(L)	unknown
+7A	Blue Moonstone	Key Items
+7B	Key to the Mine	Key Items
+7C	Attache Case S	Special
+7D	Attache Case M	Special
+7E	Attache Case L	Special
+7F	Attache Case XL	Special
+80	Golden Sword	Key Items
+81	Guitar Case	Key Items
+82	Stone of Sacrifice	Key Items
+83	Storage Room Card Key	Key Items
+84	Freezer Card Key	Key Items
+85	Piece of the Holy Beast, Panther	Key Items
+86	Piece of the Holy Beast, Serpent	Key Items
+87	Piece of the Holy Beast, Eagle	Key Items
+88	Jet-ski Key	Key Items
+89	Dirty Pearl Pendant	Treasures
+8A	Dirty Brass Pocket Watch	Treasures
+8B	Old Key	Key Items
+8C	Camp Key	Key Items
+8D	Dynamite	Key Items
+8E	aaa	unknown
+8F	Gold Bangle	Treasures
+90	Elegant Perfume Bottle	Treasures
+91	Mirror w/ Pearls & Rubies	Treasures
+92	Waste Disposal Card Key	Key Items
+93	Elegant Chessboard	Treasures
+94	Riot Gun	Weapons
+95	Black Bass	Items
+96	Hourglass w/ gold decor	Treasures
+97	Black Bass(L)	Items
+98	Illuminados Pendant	Treasures
+99	Rifle w/ Infrared Scope	Weapons
+9A	Crown	Treasures
+9B	Crown Jewel	Treasures
+9C	Royal Insignia	Treasures
+9D	Crown with Jewels	Treasures
+9E	Crown with an insignia	Treasures
+9F	Salazar Family Crown	Treasures
+A0	Rife Ammo (Infrared)	Ammo
+A1	Emerald	Treasures
+A2	Bottle Caps	Treasures
+A3	Gallery Key	Key Items
+A4	Emblem (Right galf)	Key Items
+A5	Emblem (Left half)	Key Items
+A6	Hexagonal Emblem	Key Items
+A7	Castle Gate Key	Key Items
+A8	Mixed Herbs (R+Y)	Items
+A9	Treasure Map (Village)	Maps
+AA	Scope (Mine Thrower)	Weapons
+AB	Mine Thrower + Scope	Weapons
+AC	Playing Manual 1	Notes
+AD	Info on Ashley	Notes
+AE	Playing Manual 2	Notes
+AF	Alert Order	Notes
+B0	About the Blue Medallions	Notes
+B1	Chief's Note	Notes
+B2	Closure of the Church	Notes
+B3	Anonymous Letter	Notes
+B4	Playing Manual 3	Notes
+B5	Sera and the 3rd Party	Notes
+B6	Two Routes	Notes
+B7	Village's Last Defense	Notes
+B8	Butterfly Lamp	Treasures
+B9	Green Eye	Treasures
+BA	Red Eye	Treasures
+BB	Blue Eye	Treasures
+BC	Butterfly Lamp w/ (G)	Treasures
+BD	Butterfly Lamp w/ (R)	Treasures
+BE	Butterfly Lamp w/ (B)	Treasures
+BF	Butterfly Lamp w/ (G,R)	Treasures
+C0	Butterfly Lamp w/ (G,B)	Treasures
+C1	Butterfly Lamp w/ (R,B)	Treasures
+C2	Butterfly Lamp w/ (R,G,B)	Treasures
+C3	Prison Key	Key Items
+C4	Platinum Sword	Key Items
+C5	Infrared Scope	Weapons
+C6	Elegant Mask	Treasures
+C7	Green Gem	Treasures
+C8	Red Gem	Treasures
+C9	Purple Gem	Treasures
+CA	Elegant Mask w/ (G)	Treasures
+CB	Elegant Mask w/ (R)	Treasures
+CC	Elegant Mask w/ (P)	Treasures
+CD	Elegant Mask w/ (G,R)	Treasures
+CE	Elegant Mask w/ (G,P)	Treasures
+CF	Elegant Mask w/ (R,P)	Treasures
+D0	Elegant Mask w/ (R,G,P)	Treasures
+D1	Golden Lynx	Treasures
+D2	Green Stone of Judgement	Treasures
+D3	Red Stone of Faith	Treasures
+D4	Blue Stone of Treason	Treasures
+D5	Golden Lynx w/ (G)	Treasures
+D6	Golden Lynx w/ (R)	Treasures
+D7	Golden Lynx w/ (B)	Treasures
+D8	Golden Lynx w/ (G,R)	Treasures
+D9	Golden Lynx w/ (G,B)	Treasures
+DA	Golden Lynx w/ (R,B)	Treasures
+DB	Golden Lynx w/ (G,R,B)	Treasures
+DC	Leon w/ rocket launcher	BottleCap
+DD	Leon w/ shotgun	BottleCap
+DE	Leon w/ handgun	BottleCap
+DF	Ashley Graham	BottleCap
+E0	Luis Sera	BottleCap
+E1	Don Jose	BottleCap
+E2	Don Diego	BottleCap
+E3	Don Esteban	BottleCap
+E4	Don Manuel	BottleCap
+E5	Dr. Salvador	BottleCap
+E6	Merchant	BottleCap
+E7	Zealot w/ scythe	BottleCap
+E8	Zealot w/ shield	BottleCap
+E9	Zealot w/ bowgun	BottleCap
+EA	Leader zealot	BottleCap
+EB	Soldier w/ dynamite	BottleCap
+EC	Soldier w/ stun-rod	BottleCap
+ED	Soldier w/ hammer	BottleCap
+EE	Isabel	BottleCap
+EF	Maria	BottleCap
+F0	Ada Wong	BottleCap
+F1	Bella Sisters	BottleCap
+F2	Don Pedro	BottleCap
+F3	J.J.	BottleCap
+F4	Letter from Ada	Notes
+F5	Luis' Memo 3	Notes
+F6	Paper Airplane	Notes
+F7	Our Plan	Notes
+F8	Luis' Memo 4	Notes
+F9	Krauser's Note	Notes
+FA	Luis' Memo 5	Notes
+FB	Our Mission	Notes
+FC	aaa	unknown
+FD	aaa	unknown
+FE	Tactical Vest	Special
+FF	aaa	unknown
+[/MER]
+[WAP]
+VALUE>NAME
+0100	FOREST 	
+0101	VILLAGE 	
+0102	TUNNEL 	 
+0103	FARM 	 
+0104	KANKIN 	 
+0105	VILLAGE HEADS HOUSE
+0106	FLOODED VILLAGE 	
+0108	TOMB 	
+0109	COLLOSSEUM 	 
+010a	SWAMP 	
+010b	LAKE 
+010c	WATERFALL(night
+010d	GUN MERCHANT(night) 	 
+010f	Zip Carriage area FURNACE(night)
+0110	Unknown 1
+0111	VILLAGE(night) 	 
+0112	TUNNEL(night) 	 
+0113	FARM (night) 
+0114	Unknown 2
+0115	Unknown 3
+0116	Unknown 4
+0117	CHURCH(night)
+0118	TOMB(night) 
+0119	COLLOSSEUM(night) 	 
+011a	SWAMP(night) 
+011b	Leon waking up after Del Lagos battle LAKE (night) 
+011c	Pathway to Cabin ROY's CASTLE(night) 	 
+011d	Ganados Route BARRIER(night) 	 
+011e	El Gigante Route SHRINE(night) 
+011f	Pathway to Bitores Mendez battle SLAUGHTER BOSS(night) 	
+0120	OPENING
+0200	WAY TO THE CASTLE  	
+0201	HALL 	
+0202	BATTLE AREA 
+0203	FARM CASTLE GATE 	 
+0204	MAIN CORRIDOR 
+0205	PRISON AREA 	
+0206	MAIN HALL 	
+0207	castle_07 	 
+0208	castle_08 	
+0209	castle_09 	
+020a	CORRIDOR
+020b	castle_11 	 
+020c	castle_12 	
+020d	BUTLER'S QUARTERS (conrtolling Ashley in castle part)	 
+020e	UN-USING AREA 	 
+020f	castle_15 	 
+0210	castle_16 	 
+0211	Main Corridor/Hall 	
+0212	Weapon Exhibit 
+0213	castle_19
+0214	Clock Tower 	
+0215	Pathway to Salazar's Pit 	 
+0216	ARMOR 	 
+0217	castle_23 	 
+0218	castle_24 	
+0219	castle_25 	 
+021a	castle_26 	 
+021b	castle_27 	 
+021c	castle_28 	 
+021d	HELL & TOMB 
+021e	castle_30 	 
+021f	castle_31 	 
+0220	Mining Area 	 
+0221	castle_in 	 
+0222	Dragon's Inferno	 
+0223	MINE 	 
+0224	FURNACE 	 
+0225	forest 	 
+0226	castle_38 	 
+0227	SYMBOL TOWER 	 
+0228	SYMBOL TOWER	BOSS 	 
+0229	DRAINAGE TUNNEL 	 
+022a	castle_42 	 
+022b	castle_43 	 
+022c	Shooting range "Has a wierd cutout flashing between Ashley and Don Diego near the exit door that scared the shit out me the first time I saw it." 	 
+0300	INFILTRATION_1 	
+0301	INFILTRATION_2 	
+0302	CRANE 	 
+0303	corridor_01 	 
+0304	monitor_room 	 
+0305	dustbox 	
+0306	stairs 	
+0307	surgery 	
+0308	freezer 	 
+0309	r309 	
+030a	r30a 	
+030b	r30b 	 
+030c	r30c 	 
+030d	r30d 	
+030e	r30e 	 
+030f	r30f 
+0310	Unknown 5
+0311	Unknown 6
+0312	Unknown 7
+0313	Unknown 8
+0314	Unknown 9
+0315	Crashed Truck Area 	 
+0316	at factory (before Knife fight) 	 
+0317	Knife fight 	
+0318	bigchair/laser hallway 
+0319	Unknown 10
+031a	cave savepoint 	 
+031b	U3_BOSS 	
+031c	KLAUZAR_LAND 
+031d	Unknown 10
+031e	Unknown 11
+031f	Unknown 12
+0320	AIR STRIKE_1 	 
+0321	AIR STRIKE_2 
+0322	Unknown 13
+0323	Unknown 14
+0324	Unknown 15
+0325	1 	
+0326	2 	 
+0327	3 	 
+0328	4 	 
+0329	5 	 
+0330	6 	 
+0331	BEFORE FINAL BOSS (last savepoint of the game)	 
+0332	FAINAL_BOSS 	 
+0333	LAST 	 
+[/WAP]
+Toggle Auto Aim Digits
+[A1]
+VALUE>NAME
+0	Always Ratio 4:3 TV (letterbox) Auto Aim Off
+1	Always Ratio 4:3 TV (letterbox) Auto Aim Off
+2	Auto Center Nearest Target on Screen / Aim For Ratio 4:3 TV (letterbox)
+3	Auto Center Nearest Target on Screen / Aim For Ratio 4:3 TV (letterbox)
+4	Always Ratio 16:9 TV (fullscreen / stretched) Auto Aim Off
+5	Always Ratio 16:9 TV (fullscreen / stretched) Auto Aim Off
+6	Auto Center Nearest Target on Screen / Aim For Ratio 16:9 TV (fullscreen / stretched)
+7	Auto Center Nearest Target on Screen / Aim For Ratio 16:9 TV (fullscreen / stretched)
+8	Inverted Aim / For Ratio 4:3 TV (letterbox)
+9	Inverted Aim / For Ratio 4:3 TV (letterbox)
+A	Inverted Aim / Center Target on Screen /Auto Aim For Ratio 4:3 TV (letterbox)
+B	Inverted Aim / Center Target on Screen /Auto Aim For Ratio 4:3 TV (letterbox)
+C	Inverted Aim / For Ratio 16:9 TV (fullscreen / stretched)
+D	Inverted Aim / For Ratio 16:9 TV (fullscreen / stretched)
+E	Inverted Aim / Center Target on Screen /Auto Aim For Ratio 16:9 TV (fullscreen / stretched)
+F	Inverted Aim / Center Target on Screen /Auto Aim For Ratio 16:9 TV (fullscreen / stretched)
+[/A1]
+[A2]
+VALUE>NAME
+0	Vibration Off / Knife hold
+4	Vibration Off / Knife toggle
+8	Vibration ON / Knife hold
+C	Vibration ON / Knife toggle
+[/A2]

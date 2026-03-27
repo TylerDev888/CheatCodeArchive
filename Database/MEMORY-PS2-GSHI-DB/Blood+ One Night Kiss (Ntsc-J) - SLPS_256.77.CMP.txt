@@ -1,0 +1,24 @@
+^3 = NAME: Blood+ One Night Kiss (Ntsc-J)
+^2 = GameID: SLPS-25677
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$90110958 0C0441FE
+!!
++L3 + R3 For Stage Select (While In A Map)
+%Credits: punk7890
+$201F8C60 0C096092
+$20258248 3C020045
+$2025824C 84427742
+$20258250 2403FFF9
+$20258254 14430002
+$20258258 2402FFFE
+$2025825C ACC23D7C
+$20258260 8CC33D7C
+$20258264 03E00008
+$20258268 2402FFFE
++Replace Ç¿¼Æ‰‹Å›³É‘‘ With Main Debug Menu
+%Credits: punk7890
+$0024A874 00000008
+!!
+

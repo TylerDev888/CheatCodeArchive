@@ -1,0 +1,53 @@
+^2 = GameID: S3BEWR
+^3 = NAME: Batman: The Brave and the Bold
++Gain "amount" Coins On Pick Up
+%Credits: Skiller
+$C202EFB0 00000002
+$3880[Amount:2710:HEX:BIG] 7C002214
+$60000000 00000000
++Max Coins On Pickup
+%Credits: Skiller
+$C202EFB0 00000002
+$3C000001 6000869F
+$60000000 00000000
++Have Max Cash In Batcave
+%Credits: Skiller
+$0483A768 0001869F
++Upgrades Dont Use Points
+%Credits: Skiller
+$0424D66C 7C170050
++Unlock Medieval Batman Costume
+%Credits: Skiller
+$0083A6CF 00000001
++All Gadgets Unlocked And Upgraded
+%Credits: Skiller
+$0283A6DE 00000404
+$0483A6E0 04040404
+$0483A6E4 04040404
+$0483A6E8 04040404
+$0483A6EC 04040404
+$0283A6F0 00000404
+$0083A6F2 00000004
++All Jump-In Characters Unlocked
+%Credits: Skiller
+$0483A75C 01010101
+$0483A760 01010101
+$0483A764 00000101
+$0083A766 00000001
++Unlock All Levels
+%Credits: Skiller
+$0483A6F4 2C2CFF00
+!Allow Locked In Game Cheats:
++Lets Clean Up Crime!
+%Credits: Skiller
+$0452994C 00000000
++Gadgets Unlocked And Upgraded!
+%Credits: Skiller
+$0452995C 00000000
++All Levels Unlocked!
+%Credits: Skiller
+$0452996C 00000000
++Jumpins Unlocked
+%Credits: Skiller
+$0452997C 00000000
+!!

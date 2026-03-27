@@ -1,0 +1,230 @@
+^3 = NAME: Monster Rancher 3 (Ntsc-U)
+^2 = GameID: SLUS-20190
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F02D1E24 002DD9CF
++(M) Must Be On
+%Credits: Codejunkies
+$F02DD9CC 002DD9CF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002DD9CF
++[M] Must Be On
+%Credits: InterAct
+$F02D1D8C 002DD937
+!!
+!Def Codes:
++Low Def
+%Credits: Codejunkies
+$10374E80 00000001
++Max Def
+%Credits: Codejunkies
+$10374E80 000003E7
+!!
+!Guts Codes:
++Max Guts
+%Credits: Codejunkies
+$00374BAC 00000063
++Max Guts
+%Credits: Codejunkies
+$00374E84 00000063
++No Guts
+%Credits: Codejunkies
+$00374BAC 00000000
++No Guts
+%Credits: Codejunkies
+$00374E84 00000000
+!!
+!Hit Point Codes:
++Infinite Hit Points
+%Credits: Codejunkies
+$10374BA0 000003E7
+$10374BAA 000003E7
++Infinite Hit Points
+%Credits: Codejunkies
+$10374E78 000003E7
+$10374E82 000003E7
++Max Def
+%Credits: Codejunkies
+$10374BA8 000003E7
++Max Int
+%Credits: Codejunkies
+$10374BA4 000003E7
++Max Pow
+%Credits: Codejunkies
+$10374BA2 000003E7
++Max Spd
+%Credits: Codejunkies
+$10374BA6 000003E7
++No Hit Points
+%Credits: Codejunkies
+$10374BA0 00000032
+$10374BAA 00000000
++No Hit Points
+%Credits: Codejunkies
+$10374E78 00000032
+$10374E82 00000000
+!!
+!In-Battle Codes:
++Infinite HP P1
+%Credits: Code Master
+$10374BAA 000003E7
++Infinite HP P2
+%Credits: Code Master
+$10374E82 000003E7
++Low Max HP P1
+%Credits: Code Master
+$10374BA0 0000000A
++Low Max HP P2
+%Credits: Code Master
+$10374E78 0000000A
++Max Gauge P1
+%Credits: Code Master
+$10374BAC 00000064
++Max Gauge P2
+%Credits: Code Master
+$10374E84 00000064
++Max HP P1
+%Credits: Code Master
+$10374BA0 000003E7
++Max HP P2
+%Credits: Code Master
+$10374E78 000003E7
++Max Int P2
+%Credits: Code Master
+$10374E7C 000003E7
++Max Pow P2
+%Credits: Code Master
+$10374E7A 000003E7
++Max Spd P2
+%Credits: Code Master
+$10374E7E 000003E7
++No Def P1
+%Credits: Code Master
+$10374BA8 00000000
++No Def P2
+%Credits: Code Master
+$10374E80 00000000
++No Gauge P1
+%Credits: Code Master
+$10374BAC 00000000
++No Gauge P2
+%Credits: Code Master
+$10374E84 00000000
++No HP P1
+%Credits: Code Master
+$10374BAA 00000000
++No HP P2
+%Credits: Code Master
+$10374E82 00000000
++No Int P1
+%Credits: Code Master
+$10374BA4 00000000
++No Int P2
+%Credits: Code Master
+$10374E7C 00000000
++No Pow P1
+%Credits: Code Master
+$10374BA2 00000000
++No Pow P2
+%Credits: Code Master
+$10374E7A 00000000
++No Spd P1
+%Credits: Code Master
+$10374BA6 00000000
++No Spd P2
+%Credits: Code Master
+$10374E7E 00000000
+!!
++Infinite Money
+%Credits: InterAct
+$2037BEAC 000F423F
++Infinite Money
+%Credits: InterAct
+$2037BF2C 000F423F
+!Int Codes:
++Low Int
+%Credits: Codejunkies
+$10374E7C 00000001
+!!
+!P1 Codes:
++Player 1 Infinite HP
+%Credits: InterAct
+$10374B20 000003E7
+$10374B2A 000003E7
++Player 1 Max Def
+%Credits: InterAct
+$10374B28 000003E7
++Player 1 Max Guts
+%Credits: InterAct
+$10374B2C 00000063
++Player 1 Max Int
+%Credits: InterAct
+$10374B24 000003E7
++Player 1 Max Pow
+%Credits: InterAct
+$10374B22 000003E7
++Player 1 Max Spd
+%Credits: InterAct
+$10374B26 000003E7
++Player 1 No Guts
+%Credits: InterAct
+$10374B2C 00000000
++Player 1 No HP
+%Credits: InterAct
+$10374B20 00000032
+$10374B2A 00000000
+!!
+!P2 Codes:
++Player 2 Infinite HP
+%Credits: InterAct
+$10374DF8 000003E7
+$10374E02 000003E7
++Player 2 Low Def
+%Credits: InterAct
+$10374E00 00000001
++Player 2 Low Int
+%Credits: InterAct
+$10374DFC 00000001
++Player 2 Low Pow
+%Credits: InterAct
+$10374DFA 00000001
++Player 2 Low Spd
+%Credits: InterAct
+$10374DFE 00000001
++Player 2 Max Def
+%Credits: InterAct
+$10374E00 000003E7
++Player 2 Max Guts
+%Credits: InterAct
+$10374E04 00000063
++Player 2 Max Int
+%Credits: InterAct
+$10374DFC 000003E7
++Player 2 Max Pow
+%Credits: InterAct
+$10374DFA 000003E7
++Player 2 Max Spd
+%Credits: InterAct
+$10374DFE 000003E7
++Player 2 No Guts
+%Credits: InterAct
+$10374E04 00000000
++Player 2 No HP
+%Credits: InterAct
+$10374DF8 00000032
+$10374E02 00000000
+!!
+!Pow Codes:
++Low Pow
+%Credits: Codejunkies
+$10374E7A 00000001
+!!
+!Spd Codes:
++Low Spd
+%Credits: Codejunkies
+$10374E7E 00000001
+!!
+!!
+

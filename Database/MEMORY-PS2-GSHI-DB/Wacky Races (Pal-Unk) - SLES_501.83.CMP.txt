@@ -1,0 +1,75 @@
+^3 = NAME: Wacky Races (Pal-Unk)
+^2 = GameID: SLES-50183
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0226964 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0226964 00226967
+!!
++Auto Drive
+%Credits: luc-ita
+$201D8F08 8E230624
+$201D8F0C 10600007
+$E002000B 002D3C5C
+$201D8F08 24030001
+$201D8F0C AE230624
++Can Choose Any Character Even If It's Written Not Available
+%Credits: luc-ita
+$201909A8 10000005
++Can Use Powers Even Without Coins (Read Notes) {<I>Works For A Limited Amount Of Times Per Race</I>}
+%Credits: luc-ita
+$2020E438 10000003
++One Lap To Finish Races
+%Credits: luc-ita
+$201E0D00 00000000
++Opponents Don't Move And Drive Through Them
+%Credits: luc-ita
+$201ECA2C 24160001
++Skip Intro Video
+%Credits: luc-ita
+$201161B4 00000000
++Skip Warner Bros Logo
+%Credits: luc-ita
+$20113D68 03E00008
++Take Wacky Tokens Anywhere
+%Credits: luc-ita
+$2020ED38 00000000
+$2020ED44 00000000
+$2020ED60 00000000
+!Wacky Token Codes:
++Always 10 Wacky Tokens
+%Credits: Codejunkies
+$10434DEC 0000000A
++Freeze Timer
+%Credits: Codejunkies
+$202C4524 00000007
++Moon Gravity
+%Credits: Codejunkies
+$202CD578 3A00126F
++Never Have More Than 2 Wacky Tokens
+%Credits: Codejunkies
+$E0010002 30434DEC
+$10434DEC 00000002
++Never Have More Than 4 Wacky Tokens
+%Credits: Codejunkies
+$E0010004 30434DEC
+$10434DEC 00000004
++Never Have More Than 6 Wacky Tokens
+%Credits: Codejunkies
+$E0010006 30434DEC
+$10434DEC 00000006
++Never Have More Than 8 Wacky Tokens
+%Credits: Codejunkies
+$E0010008 30434DEC
+$10434DEC 00000008
++Start On Last Lap
+%Credits: Codejunkies
+$10434DD0 00000007
+!!
++Water Effect/Floatcar {<I>Use With Caution!</I>}
+%Credits: luc-ita
+$2016DAA0 00000000
+!!
+

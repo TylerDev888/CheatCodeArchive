@@ -1,0 +1,6 @@
+^2 = GameID: NPEB01926
+^3 = NAME: Ragnarok Odyssey ACE
++Update Md2 For Ply-mirr (required)
+$set range:0x000100,0x0000F6
+$set [hash]:MD2
+$write at 0x0000F7:[hash]

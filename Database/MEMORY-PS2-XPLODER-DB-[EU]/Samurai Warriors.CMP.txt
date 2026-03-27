@@ -1,0 +1,674 @@
+^3 = NAME: Samurai Warriors
+!Masters:
++Mastercode
+%Credits: Xploder
+$9012B5F0 0C040E00
+$200C2000 240101B0
+$200C2024 03E00008
+$200C2028 3C010051
+$20228398 0C030800
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$200C2014 84430270
+$200C2018 00031900
+$200C201C A4430272
++Musou
+%Credits: Xploder
+$200C2004 84430276
+$200C2008 00031900
+$D0354D4C 0000FFFD
+$200C200C A4430278
+$D0354D4C 0000FFFB
+$200C200C 00000000
++Horse Health
+%Credits: Xploder
+$20169CCC 24010020
+$20169CD0 A4410008
+$20169CD4 03E00008
+$20169CD8 00011021
+!!
+!Max:
++Health
+%Credits: Xploder
+$200C2020 A4410270
++Musou
+%Credits: Xploder
+$200C2010 A4410276
++KO
+%Credits: Xploder
+$200C2030 2401270F
+$200C2034 A441002C
+$200C2038 AE0116D8
+$200C203C 03E00008
+$200C2040 00011021
+$2026F1EC 0C03080C
+$2026F1F0 00431021
++Rank
+%Credits: Xploder
+$004F666D 00000063
++Skill Points
+%Credits: Xploder
+$204F6674 0098967F
++Attack
+%Credits: Xploder
+$004F6632 000000C8
++Defense
+%Credits: Xploder
+$004F6633 000000C8
++Ranged Atk
+%Credits: Xploder
+$004F6634 000000C8
++Ranged Def
+%Credits: Xploder
+$004F6635 000000C8
++Horse Atk
+%Credits: Xploder
+$004F6636 000000C8
++Horse Def
+%Credits: Xploder
+$004F6637 000000C8
++Agility
+%Credits: Xploder
+$004F6638 000000C8
++Jump
+%Credits: Xploder
+$004F6639 000000C8
++Speed
+%Credits: Xploder
+$004F663A 000000C8
++Rank
+%Credits: Xploder
+$004F6A15 00000063
++Skill Points
+%Credits: Xploder
+$204F6A1C 0098967F
++Attack
+%Credits: Xploder
+$004F69DA 000000C8
++Defense
+%Credits: Xploder
+$004F69DB 000000C8
++Ranged Atk
+%Credits: Xploder
+$004F69DC 000000C8
++Ranged Def
+%Credits: Xploder
+$004F69DD 000000C8
++Horse Atk
+%Credits: Xploder
+$004F69DE 000000C8
++Horse Def
+%Credits: Xploder
+$004F69DF 000000C8
++Agility
+%Credits: Xploder
+$004F69E0 000000C8
++Jump
+%Credits: Xploder
+$004F69E1 000000C8
++Speed
+%Credits: Xploder
+$004F69E2 000000C8
++Rank
+%Credits: Xploder
+$004F681D 00000063
++Skill Points
+%Credits: Xploder
+$204F6824 0098967F
++Attack
+%Credits: Xploder
+$004F67E2 000000C8
++Defense
+%Credits: Xploder
+$004F67E3 000000C8
++Ranged Atk
+%Credits: Xploder
+$004F67E4 000000C8
++Ranged Def
+%Credits: Xploder
+$004F67E5 000000C8
++Horse Atk
+%Credits: Xploder
+$004F67E6 000000C8
++Horse Def
+%Credits: Xploder
+$004F67E7 000000C8
++Agility
+%Credits: Xploder
+$004F67E8 000000C8
++Jump
+%Credits: Xploder
+$004F67E9 000000C8
++Speed
+%Credits: Xploder
+$004F67EA 000000C8
++Rank
+%Credits: Xploder
+$004F67D5 00000063
++Skill Points
+%Credits: Xploder
+$204F67DC 0098967F
++Attack
+%Credits: Xploder
+$004F679A 000000C8
++Defense
+%Credits: Xploder
+$004F679B 000000C8
++Ranged Atk
+%Credits: Xploder
+$004F679C 000000C8
++Ranged Def
+%Credits: Xploder
+$004F679D 000000C8
++Horse Atk
+%Credits: Xploder
+$004F679E 000000C8
++Horse Def
+%Credits: Xploder
+$004F679F 000000C8
++Agility
+%Credits: Xploder
+$004F67A0 000000C8
++Jump
+%Credits: Xploder
+$004F67A1 000000C8
++Speed
+%Credits: Xploder
+$004F67A2 000000C8
++Rank
+%Credits: Xploder
+$004F6745 00000063
++Skill Points
+%Credits: Xploder
+$204F674C 0098967F
++Attack
+%Credits: Xploder
+$004F670A 000000C8
++Defense
+%Credits: Xploder
+$004F670B 000000C8
++Ranged Atk
+%Credits: Xploder
+$004F670C 000000C8
++Ranged Def
+%Credits: Xploder
+$004F670D 000000C8
++Horse Atk
+%Credits: Xploder
+$004F670E 000000C8
++Horse Def
+%Credits: Xploder
+$004F670F 000000C8
++Agility
+%Credits: Xploder
+$004F6710 000000C8
++Jump
+%Credits: Xploder
+$004F6711 000000C8
++Speed
+%Credits: Xploder
+$004F6712 000000C8
++Rank
+%Credits: Xploder
+$004F66B5 00000063
++Skill Points
+%Credits: Xploder
+$204F66BC 0098967F
++Attack
+%Credits: Xploder
+$004F667A 000000C8
++Defense
+%Credits: Xploder
+$004F667B 000000C8
++Ranged Atk
+%Credits: Xploder
+$004F667C 000000C8
++Ranged Def
+%Credits: Xploder
+$004F667D 000000C8
++Horse Atk
+%Credits: Xploder
+$004F667E 000000C8
++Horse Def
+%Credits: Xploder
+$004F667F 000000C8
++Agility
+%Credits: Xploder
+$004F6680 000000C8
++Jump
+%Credits: Xploder
+$004F6681 000000C8
++Speed
+%Credits: Xploder
+$004F6682 000000C8
++Rank
+%Credits: Xploder
+$004F66FD 00000063
++Skill Points
+%Credits: Xploder
+$204F6704 0098967F
++Attack
+%Credits: Xploder
+$004F66C2 000000C8
++Defense
+%Credits: Xploder
+$004F66C3 000000C8
++Ranged Atk
+%Credits: Xploder
+$004F66C4 000000C8
++Ranged Def
+%Credits: Xploder
+$004F66C5 000000C8
++Horse Atk
+%Credits: Xploder
+$004F66C6 000000C8
++Horse Def
+%Credits: Xploder
+$004F66C7 000000C8
++Agility
+%Credits: Xploder
+$004F66C8 000000C8
++Jump
+%Credits: Xploder
+$004F66C9 000000C8
++Speed
+%Credits: Xploder
+$004F66CA 000000C8
++Rank
+%Credits: Xploder
+$004F678D 00000063
++Skill Points
+%Credits: Xploder
+$204F6794 0098967F
++Attack
+%Credits: Xploder
+$004F6752 000000C8
++Defense
+%Credits: Xploder
+$004F6753 000000C8
++Ranged Atk
+%Credits: Xploder
+$004F6754 000000C8
++Ranged Def
+%Credits: Xploder
+$004F6755 000000C8
++Horse Atk
+%Credits: Xploder
+$004F6756 000000C8
++Horse Def
+%Credits: Xploder
+$004F6757 000000C8
++Agility
+%Credits: Xploder
+$004F6758 000000C8
++Jump
+%Credits: Xploder
+$004F6759 000000C8
++Speed
+%Credits: Xploder
+$004F675A 000000C8
++Rank
+%Credits: Xploder
+$004F6865 00000063
++Skill Points
+%Credits: Xploder
+$204F686C 0098967F
++Attack
+%Credits: Xploder
+$004F682A 000000C8
++Defense
+%Credits: Xploder
+$004F682B 000000C8
++Ranged Atk
+%Credits: Xploder
+$004F682C 000000C8
++Ranged Def
+%Credits: Xploder
+$004F682D 000000C8
++Horse Atk
+%Credits: Xploder
+$004F682E 000000C8
++Horse Def
+%Credits: Xploder
+$004F682F 000000C8
++Agility
+%Credits: Xploder
+$004F6830 000000C8
++Jump
+%Credits: Xploder
+$004F6831 000000C8
++Speed
+%Credits: Xploder
+$004F6832 000000C8
++Rank
+%Credits: Xploder
+$004F68AD 00000063
++Skill Points
+%Credits: Xploder
+$204F68B4 0098967F
++Attack
+%Credits: Xploder
+$004F6872 000000C8
++Defense
+%Credits: Xploder
+$004F6873 000000C8
++Ranged Atk
+%Credits: Xploder
+$004F6874 000000C8
++Ranged Def
+%Credits: Xploder
+$004F6875 000000C8
++Horse Atk
+%Credits: Xploder
+$004F6876 000000C8
++Horse Def
+%Credits: Xploder
+$004F6877 000000C8
++Agility
+%Credits: Xploder
+$004F6878 000000C8
++Jump
+%Credits: Xploder
+$004F6879 000000C8
++Speed
+%Credits: Xploder
+$004F687A 000000C8
++Rank
+%Credits: Xploder
+$004F68F5 00000063
++Skill Points
+%Credits: Xploder
+$204F68FC 0098967F
++Attack
+%Credits: Xploder
+$004F68BA 000000C8
++Defense
+%Credits: Xploder
+$004F68BB 000000C8
++Ranged Atk
+%Credits: Xploder
+$004F68BC 000000C8
++Ranged Def
+%Credits: Xploder
+$004F68BD 000000C8
++Horse Atk
+%Credits: Xploder
+$004F68BE 000000C8
++Horse Def
+%Credits: Xploder
+$004F68BF 000000C8
++Agility
+%Credits: Xploder
+$004F68C0 000000C8
++Jump
+%Credits: Xploder
+$004F68C1 000000C8
++Speed
+%Credits: Xploder
+$004F68C2 000000C8
++Rank
+%Credits: Xploder
+$004F693D 00000063
++Skill Points
+%Credits: Xploder
+$204F6944 0098967F
++Attack
+%Credits: Xploder
+$004F6902 000000C8
++Defense
+%Credits: Xploder
+$004F6903 000000C8
++Ranged Atk
+%Credits: Xploder
+$004F6904 000000C8
++Ranged Def
+%Credits: Xploder
+$004F6905 000000C8
++Horse Atk
+%Credits: Xploder
+$004F6906 000000C8
++Horse Def
+%Credits: Xploder
+$004F6907 000000C8
++Agility
+%Credits: Xploder
+$004F6908 000000C8
++Jump
+%Credits: Xploder
+$004F6909 000000C8
++Speed
+%Credits: Xploder
+$004F690A 000000C8
++Rank
+%Credits: Xploder
+$004F6985 00000063
++Skill Points
+%Credits: Xploder
+$204F698C 0098967F
++Attack
+%Credits: Xploder
+$004F694A 000000C8
++Defense
+%Credits: Xploder
+$004F694B 000000C8
++Ranged Atk
+%Credits: Xploder
+$004F694C 000000C8
++Ranged Def
+%Credits: Xploder
+$004F694D 000000C8
++Horse Atk
+%Credits: Xploder
+$004F694E 000000C8
++Horse Def
+%Credits: Xploder
+$004F694F 000000C8
++Agility
+%Credits: Xploder
+$004F6950 000000C8
++Jump
+%Credits: Xploder
+$004F6951 000000C8
++Speed
+%Credits: Xploder
+$004F6952 000000C8
++Rank
+%Credits: Xploder
+$004F69CD 00000063
++Skill Points
+%Credits: Xploder
+$204F69D4 0098967F
++Attack
+%Credits: Xploder
+$004F6992 000000C8
++Defense
+%Credits: Xploder
+$004F6993 000000C8
++Ranged Atk
+%Credits: Xploder
+$004F6994 000000C8
++Ranged Def
+%Credits: Xploder
+$004F6995 000000C8
++Horse Atk
+%Credits: Xploder
+$004F6996 000000C8
++Horse Def
+%Credits: Xploder
+$004F6997 000000C8
++Agility
+%Credits: Xploder
+$004F6998 000000C8
++Jump
+%Credits: Xploder
+$004F6999 000000C8
++Speed
+%Credits: Xploder
+$004F699A 000000C8
++Rank
+%Credits: Xploder
+$004F6A5D 00000063
++Skill Points
+%Credits: Xploder
+$204F6A64 0098967F
++Attack
+%Credits: Xploder
+$004F6A22 000000C8
++Defense
+%Credits: Xploder
+$004F6A23 000000C8
++Ranged Atk
+%Credits: Xploder
+$004F6A24 000000C8
++Ranged Def
+%Credits: Xploder
+$004F6A25 000000C8
++Horse Atk
+%Credits: Xploder
+$004F6A26 000000C8
++Horse Def
+%Credits: Xploder
+$004F6A27 000000C8
++Agility
+%Credits: Xploder
+$004F6A28 000000C8
++Jump
+%Credits: Xploder
+$004F6A29 000000C8
++Speed
+%Credits: Xploder
+$004F6A2A 000000C8
+!!
+!Unlock:
++All Characters{(NOTE: Go To Character Select To Unlock)}
+%Credits: Xploder
+$201D2F48 240C000F
+$201D2F4C A02C7480
+$201D2F74 14660003
+$201D2F78 00075021
+$201D2F84 A02A2121
++All Tales
+%Credits: Xploder
+$201DD078 2407FFFF
+$201DD09C A0272130
++All Items +50
+%Credits: Xploder
+$004F7469 363400FF
+$104F746A 0000FFFF
+$004F746C 000000FF
+$404F7390 00030001
+$32323232 00000000
+$104F739C 00003232
+$004F739E 00000032
++All Movies
+%Credits: Xploder
+$204F744C FFFFFFFF
+$204F7450 FFFFFFFF
+$204F7454 FFFFFFFF
+$204F7458 FFFFFFFF
+!!
+!Have:
++One Hit Kill
+%Credits: Xploder
+$200F1110 3C09004E
+$200F1114 2529FEE0
+$200F1118 8D2A0010
+$200F111C 11440003
+$200F1120 24003634
+$200F1124 84850272
+$200F1128 00052822
+$200F112C 08050E18
+$201588D4 0C03C444
++All Skills Maxed
+%Credits: Xploder
+$104F6646 00000303
+$404F6648 00090001
+$03030303 00000000
+$004F666C 00000003
++All Skills Maxed
+%Credits: Xploder
+$104F69EE 00000303
+$404F69F0 00090001
+$03030303 00000000
+$004F6A14 00000003
++All Skills Maxed
+%Credits: Xploder
+$104F67F6 00000303
+$404F67F8 00090001
+$03030303 00000000
+$004F681C 00000003
++All Skills Maxed
+%Credits: Xploder
+$104F67AE 00000303
+$404F67B0 00090001
+$03030303 00000000
+$004F67D4 00000003
++All Skills Maxed
+%Credits: Xploder
+$104F671E 00000303
+$404F6720 00090001
+$03030303 00000000
+$004F6744 00000003
++All Skills Maxed
+%Credits: Xploder
+$104F668E 00000303
+$404F6690 00090001
+$03030303 00000000
+$004F66B4 00000003
++All Skills Maxed
+%Credits: Xploder
+$104F66D6 00000303
+$404F66D8 00090001
+$03030303 00000000
+$004F66FC 00000003
++All Skills Maxed
+%Credits: Xploder
+$104F6766 00000303
+$404F6768 00090001
+$03030303 00000000
+$004F678C 00000003
++All Skills Maxed
+%Credits: Xploder
+$104F683E 00000303
+$404F6840 00090001
+$03030303 00000000
+$004F6864 00000003
++All Skills Maxed
+%Credits: Xploder
+$104F6886 00000303
+$404F6888 00090001
+$03030303 00000000
+$004F68AC 00000003
++All Skills Maxed
+%Credits: Xploder
+$104F68CE 00000303
+$404F68D0 00090001
+$03030303 00000000
+$004F68F4 00000003
++All Skills Maxed
+%Credits: Xploder
+$104F6916 00000303
+$404F6918 00090001
+$03030303 00000000
+$004F693C 00000003
++All Skills Maxed
+%Credits: Xploder
+$104F695E 00000303
+$404F6960 00090001
+$03030303 00000000
+$004F6984 00000003
++All Skills Maxed
+%Credits: Xploder
+$104F69A6 00000303
+$404F69A8 00090001
+$03030303 00000000
+$004F69CC 00000003
++All Skills Maxed
+%Credits: Xploder
+$104F6A36 00000303
+$404F6A38 00090001
+$03030303 00000000
+$004F6A5C 00000003
+!!

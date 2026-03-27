@@ -1,0 +1,17 @@
+^3 = NAME: 7 Blades (NTSC-J)
+^2 = GameID: SLPM-65008
+!Master Codes:
++Enabler Code (Must Be On)
+%Credits: punk7890
+$903DE360 0C0F7880
+!!
++Ammo Doesn't Decrease
+%Credits: punk7890
+$102D1F94 00000000
++Hold Start + Select For Debug Menu When Starting The Game
+%Credits: punk7890
+$D05326C2 0000FFF6
+$203B2198 03E00008
+$D05326C2 0000FFFF
+$203B2198 080EC868
+

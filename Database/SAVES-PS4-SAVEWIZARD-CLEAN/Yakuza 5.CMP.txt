@@ -1,0 +1,1423 @@
+^2 = GameID: CUSA15327,CUSA12726
+^3 = NAME: Yakuza 5
+^SECONDLAYER: NO
+^4 = FILE: data.saveps4\data.saveps4
+!Characters
++¥ 999,999,999 Kiryu money in hand
+$2000C638 3B9AC9FF
++Kiryu Lv.19 / experience value 162 599
+$00006A90 00000013
+$20006A94 00027B27
+$20006A98 00005559
++Kiryu skill Seoul 99
+$00006A9C 00000063
++Kiryu taxi mission pt99000
+$2000C778 000182B8
++¥ 999,999,999 Saejima money in hand
+$2000C640 3B9AC9FF
++Saejima Lv.19 / experience value 162 599
+$00006D90 00000013
+$20006D94 00027B27
+$20006D98 00005559
++Saejima skill Seoul 99
+$00006D9C 00000063
++¥ 999,999,999 much money in hand
+$2000C648 3B9AC9FF
++much Lv.19 / experience value 162 599
+$0000C4E0 00000013
+$2000C4E4 00027B27
+$2000C4E8 00005559
++much skill Seoul 99
+$0000C4EC 00000063
++much skill as a singer / expressive / MAX charm
+$2002B1C4 0000D674
+$2002B1CC 0000D674
+$2002B1D0 0000D674
++basic skills is dependent Lv much fan number 15000
+$100067DE 00003A98
++¥ 999,999,999 Akiyama money in hand
+$2000C63C 3B9AC9FF
++Akiyama Lv.19 / experience value 162 599
+$00006C10 00000013
+$20006C14 00027B27
+$20006C18 00005559
++Akiyama skill Seoul 99
+$00006C1C 00000063
+$¥ 999,999,999 Shinada money in hand
+$2000C644 3B9AC9FF
++Shinada Lv.19 / experience value 162 599
+$00006F10 00000013
+$20006F14 00027B27
+$20006F18 00005559
++Shinada skill Seoul 99
+$00006F1C 00000063
++Shinada batting ability ALL MAX
+$41018386 000003E8
+$40380002 00000000
++difficulty change
+$1000000C 0000[DIFF]
++ MAX Kiryu physical strength and (over limit)
+$20006A76 FFFFFFFF
++Kiryu weapon proficiency all MAX
+$41006AA6 0000FFFF
+$400C0004 00000000
++MAX Akiyama physical strength and (over limit)
+$20006BF6 FFFFFFFF
++Akiyama weapon proficiency all MAX
+$41006C26 0000FFFF
+$400C0004 00000000
++MAX Saejima physical strength and (over limit)
+$20006D76 FFFFFFFF
++Saejima weapon proficiency all MAX
+$41006DA6 0000FFFF
+$400C0004 00000000
++MAX Shinada physical strength and (over limit)
+$20006EF6 FFFFFFFF
++Shinada weapon proficiency all MAX
+$41006F26 0000FFFF
+$400C0004 00000000
++much physical strength and MAX (over limit)
+$2000C4C6 FFFFFFFF
+!!
+!Clear Activities
++GUNRHEIN clear
+$00018B13 00000001
+$00018B17 00000005
++Mahjong clear
+$10013086 0000C350
++Heat action CLEAR
+$40002160 000000FF
+$40200001 00000000
++Meal CLEAR
+$4000DDD0 000000FF
+$41000001 00000000
++Golf CLEAR
+$41018F82 000005DC
+$40040004 00000000
++VF2 CLEAR
+$1001827E 00000A0A
++UFO CLEAR
+$40012F03 00000001
+$40230004 00000000
++Drum master CLEAR
+$4001407B 00000001
+$40240004 00000000
++KARAOKE CLEAR
+$42012A7C 3E83E802
+$40090004 00000000
++Daiatamaha CLEAR
+$40002C48 000000FF
+$400A0001 00000000
++Kawatsuri
+$1001847C 0000FFFE
+$40018481 000000FF
+$400E0004 00000000
+$400184BA 00000001
+$400E0001 00000000
++4 animals Kawatsuri
+$000184B9 00000004
++DARTS CLEAR wait for confirmation
+$000125F0 00000004
+$40012603 00000003
+$40040004 00000000
+$41012616 000001C0
+$40050004 00000000
+$2001267C 00010001
+$400126AF 00000001
+$40060004 00000000
+$410126D2 000001C0
+$40050004 00000000
+$100126E8 0000FFFE
+$400126EF 00000001
+$400F0004 00000000
++DARTS ALL PARTS
+$41009584 0000057A
+$40280008 00000001
+$4000958B 00000001
+$40280008 00000000
++Meal CLEAR
+$4000DDD0 000000FF
+$41000001 00000000
++Shogi CLEAR
+$1000666A 00000005
++Heat action CLEAR
+$40002160 000000FF
+$40200001 00000000
++Bowling CLEAR
+$00012B7C 00000001
+$00012B83 00000032
+$00012B87 0000012C
+$00012B8B 00000003
+$00012B8F 00000002
++Koikoi CLEAR
+$00012CFF 00000001
+$10012D07 0000FFFF
+!!
+!Misc
+$Heat Action
+$20002168 FFFFFFFF
+$2000216C FFFFEFFF
+$20002170 FFFFFFFF
+$20002174 FFFFFF3F
++Arena
+$10002249 00001FF8
+$1000224D 00007FE0
+$2000225C 7FFFF804
++Snow combat sports
+$20002B28 037DF800
++ Tsukkomi Master
+$20002B88 000F6CB8
++Cochin Cup Classic
+$20002BCC 7FFFFF80
++Mendokoro Tatsuya
+$00002C09 00000001
++ Pre-Circle
+$20002C4A F01FFFFE
+$20002C4E 0F20FFFF
++Shogi
+$0000666A 00000005
+!!
+!Points:
++Haruka Sawamura has 15,000 fans
+$100067DE 00003A98
++ 99,999 casino chips
+$2000C654 0001869F
+$2000C6F4 0001869F
++ 9,999,999 wooden plaques
+$2000C668 0098967F
++Mahjong points 9,999,999
+$2000C67C 0098967F
++ Arena 9,999,999 points
+$2000C68C 0098967F
++ 99,999 pachinko balls
+$2000C714 0001869F
++ 99,999 Pachislot medals
+$2000C730 0001869F
++Taxi Driver (99,000 points)
+$2000C778 000182B8
+$2000C78C 000182B8
+!!
+!Achievements
++Meals
+$4200DDDC FFFFFFFF
+$40110004 00000000
+$2000DE20 00FFFFFF
+$4200DE5C FFFFFFFF
+$40110004 00000000
+$2000DEA0 00FFFFFF
++Weapons
+$4200DEDC FFFFFFFF
+$40030004 00000000
+$2000DEE8 07FFFFFF
++Coin lockers
+$420120F4 FFFFFFFF
+$40030004 00000000
+$20012100 F0000000
++Darts
+$400125FC 00000003
+$40050004 00000000
+$40012614 000001C0
+$40050004 00000000
+$40012720 000001C0
+$40050004 00000000
+$1001273A 0000FFFE
+$4001273C 00000001
+$400F0004 00000000
++Billiards
+$200129FD FFFFFFFF
+$10012A34 00000101
+$00012A36 00000018
+$00012A38 000000FF
+$00012A3C 000000FF
++Karaoke
+$00012A78 00000001
+$42012ADE 38438401
+$40150004 00000000
++ Bowling
+$00012B7C 00000001
+$00012B84 000000C8
+$40012B88 00000001
+$40020004 00000000
++ Chinchirorin
+$40012BF8 00000001
+$40020004 00000000
+$20012C00 00004E20
++ Dice and Odds
+$00012C78 00000001
+$00012C7C 00000002
+$00012C80 0000001A
+$20012C84 00004E20
+$42012C94 000000F4
+$40040004 00000000
++Come Come
+$00012CF8 00000001
+$40012CFC 00000005
+$40020004 00000000
+$20012D04 00004E20
++ Roulette
+$20012D80 00004E20
+$00012D88 00000001
++ Poker
+$20012DFC 00004E20
+$00012E00 00000001
++Black Jack
+$20012E7C 00004E20
+$40012E80 00000001
+$40030004 00000000
++UFO Catcher
+$40012F00 00000001
+$40230004 00000000
++Mahjong
+$20013084 0000C350
+$00013088 00000001
++Oicho Kabu
+$000132F800000001
+$000132F8 00000001
+$200132FC 00002710
++Sea fishing
+$2001337C FFFFF000
+$40013380 0000270F
+$40140004 00000000
+$200133D0 00000014
++ Pachinko
+$40013ED0 00001E61
+$40020004 00000000
+$40013EE4 00000001
+$40020004 00000000
++ Pachislot
+$40013ED8 00000309
+$40030004 00000000
+$40013EEC 00000003
+$40030004 00000000
++Baccarat
+$20013FFC 00004E20
+$40014000 00000001
+$40030004 00000000
++ Taiko Master
+$2001407C 00000001
+$20014080 00000001
+$2001408C 00000001
+$20014090 00000001
+$200140AC 00000001
+$200140B0 00000001
+$200140BC 00000001
+$200140C0 00000001
+$200140EC 00000001
+$200140F0 00000001
+$200140FC 00000001
+$20014100 00000001
++Virtua Fighter 2
+$1001827E 00000A0A
++ Batting Center Kamurocho
+$10013284 000005DC
+$10013288 0000076C
+$10018382 0000FFFC
+$10018404 000007D0
++ Shinada batting ability ALL MAX
+$41018386 000003E8
+$40380002 00000000
++River fishing
+$1001847E 0000FFFC
+$40018480 0000270F
+$400E0004 00000000
+$400184B800000001
+$400184B8 00000001
+$400E0001 00000000
++GUNRHEIN
+$20018780 000F4240
+$20018794 5952494B
+$20018798 00000055
+$20018B00 000F4240
+$00018B10 00000001
+$00018B14 00000005
++Air hockey
+$40018F40 00000007
+$40020002 00000000
+$00018F44 00000003
++ Golf driving range
+$10018F80 000003E8
+$10018F84 000003E8
+$10018F88 00000230
+$10018F8C 000005DC
+$10018F94 00000004
++Taxi Driver (Level 25)
+$1001B1B4 00002710
+$0001B1B6 00000019
++ Arena fame/rank maximum
+$4202ADC4 FFFFFFFF
+$4004000400000000
+$40040004 00000000
+$4102ADD4 000003E7
+$40040002 00000000
++All arena opponents won one match.
+$4202AEC0 01010101
+$40120004 00000000
+$4202B080 01010101
+$40060004 00000000
+$4202AF30 01010101
+$40120004 00000000
+$4202B0A8 01010101
+$40060004 00000000
+$4202AFA0 01010101
+$40120004 00000000
+$4202B0D0 01010101
+$40060004 00000000
+$4202B010 01010101
+$40120004 00000000
+$4202B0F8 01010101
+$40060004 00000000
++ Arena fully open
+$2002B190 00000000
++Haruka Sawamura's singing ability/expressiveness/charm MAX
+$2002B1C4 0000D674
+$2002B1CC 0000D674
+$2002B1D0 0000D674
++ Sawamura Haruka Office Level MAX
+$2002B1D8 00005DC0
+!!
++Add Items To Individual Characters Storage Box
+$92000000 0000[CHAR]
+$92000000 0000[SLOT]
+$18000000 0000[ITEM]
+$28000002 [TYPE]
+$28000006 000000[AMOUNT:63:HEX:BIG]
+
+^6 = MODS:
+[CHAR]
+Value>Name
+7564	Kiryu
+81E4	Saejima
+8E64	Haruka
+7BA4	Akiyama
+8824	Shinada
+[/CHAR]
+[TYPE]
+Value>Type
+FFFFFFFF	Gun 
+FFFEFFFE	Melee
+00000000	Other
+[/TYPE]
+[DIFF]
+Value>Difficulty
+0000	EASY
+0101	NORMAL
+0202	HARD
+0303	EX-HARD
+[/DIFF]
+[ITEM]
+Value>Name>Type
+0002	Toughness Light	Recovery
+0003	Toughness Z	Recovery
+0004	Toughness ZZ	Recovery
+0005	Toughness Emperor	Recovery
+0006	Toughness Infinity	Recovery
+0007	Tauriner	Recovery
+0008	Tauriner +	Recovery
+0009	Tauriner ++	Recovery
+000A	Tauriner Maximum	Recovery
+000B	Staminan Light	Recovery
+000C	Staminan X	Recovery
+000D	Staminan XX	Recovery
+000E	Staminan Royale	Recovery
+000F	Staminan Spark	Recovery
+0010	AppStim RX	Recovery
+0011	Ointment	Recovery
+0012	Diehard Drink	Recovery
+0013	Diehard MAX	Recovery
+0014	Super Turmeric No. 1	Recovery
+0015	Daikoku Black Sesame Kinako	Recovery
+0016	Daikoku Okinawan Black Sugar Candy	Recovery
+0017	Ginger Quince	Recovery
+0018	Extreme Lemon	Recovery
+0019	Extreme Lemon Sticks	Recovery
+001A	Haruka's Candy	Recovery
+001B	Haruka's Chocolate	Recovery
+001C	Haruka's Lunch	Recovery
+001D	Haruka's First-Aid Kit	Recovery
+001E	Shoyu Ramen	Recovery
+001F	Miso Ramen	Recovery
+0020	Tonkotsu Ramen	Recovery
+0021	Shio Ramen	Recovery
+0022	Squid Yakisoba	Recovery
+0023	Extra Large Sauce Yakisoba	Recovery
+0024	Soup Harusame: Wonton	Recovery
+0025	Soup Harusame: Egg	Recovery
+0026	Soup Harusame: Tan Tan Noodles	Recovery
+0027	Soup Harusame: Jjigae	Recovery
+0028	Soup Harusame: Seaweed Veggie	Recovery
+0029	Soup Harusame: Chinese Chicken	Recovery
+002A	Soup Harusame: Hot & Sour	Recovery
+002B	Soup Harusame: Champon	Recovery
+002C	Kaori Ajiwau Kun Salt Ramen	Recovery
+002D	JANJAN Yakisoba Koku Sauce	Recovery
+002E	Wakame Ramen Sesame Soy Sauce	Recovery
+002F	Wonton Ramen	Recovery
+0030	Sparkling Cola	Recovery
+0031	Jasmine Tea	Recovery
+0032	Soy Sauce Noodles	Recovery
+0033	Curry Noodles	Recovery
+0034	Seafood Noodles	Recovery
+0035	Kizamiage Udon	Recovery
+0036	Seicofresh 1L Hokkaido Milk	Recovery
+0037	Kita no Yutaka	Recovery
+0038	Pocket Tissues	Others
+0039	Oden Soup	Recovery
+003A	Seaweed Onigiri	Recovery
+003B	Tuna Onigiri	Recovery
+003C	Salmon Onigiri	Recovery
+003D	Grilled Onigiri with Butter	Recovery
+003E	Grilled Onigiri with Miso	Recovery
+003F	Tonkotsu Onigiri	Recovery
+0040	Sauce Onigiri	Recovery
+0041	Bento Lunch Set	Recovery
+0042	Bento Lunch Set (Pork)	Recovery
+0043	Zangi Lunch Set	Recovery
+0044	Miso Katsu Lunch Set	Recovery
+0045	Okonomiyaki Lunch Set	Recovery
+0046	Pan-fried Gyoza Lunch Set	Recovery
+0047	Club Sandwich	Recovery
+0048	Tuna & Egg Sandwich	Recovery
+0049	Special Yakisoba	Recovery
+004A	Steamed Bun	Recovery
+004B	Bean Paste Bun	Recovery
+004C	Yakisoba Bun	Recovery
+004D	Buttery Potato Bun	Recovery
+004E	Eel Bun	Recovery
+004F	Takoyaki Bun	Recovery
+0050	Mentaiko Bun	Recovery
+0051	Sake	Recovery
+0052	Milk	Recovery
+0053	Dog Food	Recovery
+0054	Sushi Set	Recovery
+0055	Wormwood	Recovery
+0056	Catnip Stick	Recovery
+0057	Miso Paste Cucumber	Recovery
+0058	Yakitori	Recovery
+0059	Makeup Remover	Others
+005A	Legendary Drinker of Ryukyu	Recovery
+005B	BOSS Rainbow Mountain Blend	Recovery
+005C	BOSS Light Sugar	Recovery
+005D	BOSS Black	Recovery
+005E	Suntory Oolong Tea	Recovery
+005F	Suntory Black Oolong Tea	Recovery
+0060	Suntory Mineral Water (S. Alps)	Recovery
+0061	Suntory Mineral Water (Okudaisen)	Recovery
+0062	Suntory Mineral Water (Aso)	Recovery
+0063	lyemon Cha (Green Tea)	Recovery
+0064	lyemon Rich (Green Tea)	Recovery
+0065	C.C. Lemon	Recovery
+0066	GREEN DAKARA	Recovery
+0067	Dekavita C	Recovery
+0068	Vitamin Water	Recovery
+0069	Orangina	Recovery
+006A	Gomamugi Cha	Recovery
+006B	The Premium Malt's	Recovery
+006C	Kinmugi	Recovery
+006D	Kaku Highball (Can)	Recovery
+006E	Calori (Mediterranean Lemon)	Recovery
+006F	Expired Lunch Set	Recovery
+0070	Monogrammed Bag	Others
+0071	French Cologne	Equipment
+0072	French Perfume	Others
+0073	Italian Cologne	Equipment
+0074	Italian Perfome	Others
+0075	French Scarf	Others
+0076	French Wallet	Others
+0077	Italian Scarf	Others
+0078	Italian Wallet	Others
+0079	French Handbag	Others
+007A	Italian Shoulder Bag	Others
+007B	Swiss Watch	Equipment
+007C	Asian Digital Watch	Equipment
+007D	Japanese Diver's Watch	Equipment
+007E	French Haute Couture Dress	Others
+007F	French Prêt-à-Porter Dress	Others
+0080	Italian Women's Suit	Others
+0081	Italian Woman's Watch	Others
+0082	Italian Necklace	Others
+0083	Caviar Skin Bag	Others
+0084	Italian Ring	Others
+0085	Italian Men's Necklace	Equipment
+0086	Gold Bracelet	Others
+0087	Silver Bracelet	Others
+0088	Jeweled Earrings	Others
+0089	Gold Earrings	Others
+008A	Leather Strap	Others
+008B	Silver Strap	Others
+008C	Italian Boots	Others
+008D	French Sandals	Others
+008E	Italian Belt	Others
+008F	British Women's Coat	Others
+0090	Pink Blouse	Others
+0091	Leopard Print Coat	Others
+0092	White Sweater	Others
+0093	Black Pants	Others
+0094	Leopard Print Miniskirt	Others
+0095	Gray Flared Skirt	Others
+0096	Handbag	Others
+0097	Leopard Print Pumps	Others
+0098	Short Black Boots	Others
+0099	Long Camel-colored Boots	Others
+00B3	Beef Rice Lunch Set	Recovery
+00B4	Beef Rice Lunch Set (L)	Recovery
+00B5	Bibimbap	Recovery
+00B6	Bibimbap (L)	Recovery
+00B7	Original Spicy Curry	Recovery
+00B8	Original Spicy Curry (L)	Recovery
+00B9	Beef Curry	Recovery
+00BA	Grilled Chicken Bowl	Recovery
+00BB	Grilled Chicken Bowl (L)	Recovery
+00BC	Beef Yakiniku Meal	Recovery
+00BD	Kalbi Yakiniku Meal	Recovery
+00BE	Demitama Hamburg Steak Meal	Recovery
+00BF	Pork Yakiniku Meal	Recovery
+00C0	Ginger Pork Meal	Recovery
+00C1	Grilled Chicken Meal	Recovery
+00D0	Smile Burger Set	Recovery
+00D1	Smile Cheeseburger Set	Recovery
+00D2	Teriyaki Smile Burger Set	Recovery
+00D3	King Smile Burger Set	Recovery
+00D4	Tuna Burger Set	Recovery
+00D5	Braised Pork Burger Set	Recovery
+00D6	Smile Shake	Recovery
+00D7	Limited Millennium Tower Burger	Recovery
+015E	Cutie Girl Figure	Others
+015F	SR Love Shine Figure	Others
+0160	Pretty Girl Figure	Others
+0161	SR Love Master Figure	Others
+0162	Cutie Girl NEO	Others
+0163	Chestnut the Squirrel (Blue)	Others
+0164	Bun-chan the Java Sparrow (White)	Others
+0165	Chestnut the Squirrel (Red)	Others
+0166	Bun-chan the Java Sparrow (Pink)	Others
+0167	Jumbo Chestnut	Others
+0168	Jumbo Bun-chan	Others
+0169	Hito-nyan (Happy)	Others
+016A	Hito-nyan (Normal)	Others
+016B	Hito-nyan (Disappointed)	Others
+016C	AiAi	Others
+016D	MeeMee	Others
+016E	Baby	Others
+016F	GonGon	Others
+0170	Donpen-kun Stuffed Toy	Others
+0171	Don-chan Stuffed Toy	Others
+0172	Nico Nico TV-chan	Others
+0173	Hatsune Miku Figure	Others
+0175	Opa-Opa Figure	Others
+0176	Robo Figure	Others
+0177	Mobo Figure	Others
+0178	Ulala Figure	Others
+0179	Morolian Figure (Yellow)	Others
+017A	Morolian Figure (Red)	Others
+017B	Morolian Figure (Pink)	Others
+017C	Morolian Figure (Blue)	Others
+017D	Morolian Figure (Green)	Others
+017E	Morolian Figure (Purple)	Others
+017F	NiGHTS Figure	Others
+0180	Dragon Figure	Others
+0181	Kamaitachi Utility Knife	Others
+0182	Seal of the Dragon	Others
+0183	Super Resilient Resin	Others
+0184	Durable Cloth	Others
+0185	Fitness Gear	Others
+0186	High-grade Platinum	Others
+0187	Magnetized Metal	Others
+0188	Battery	Others
+0189	Lighter Oil	Others
+018A	Eye of the Dragon	Others
+018B	Chili Pepper	Others
+018C	Sacred Wood	Others
+018D	Mystery Stone	Others
+018E	Large Blow-up Doll	Others
+018F	Rubber Ball	Others
+0190	Block of Brass	Others
+0191	SSS Gunpowder	Others
+0192	Gravity Converter	Others
+0193	Super High-voltage Battery	Others
+0194	Mystery Liquid	Others
+0195	Chunk of Wood (Ash)	Others
+0196	Small Motor	Others
+0197	Cherry Tree Branch	Others
+0198	Dragon Fang	Others
+0199	Dragon Scale	Others
+019A	Dragon Tail	Others
+019B	Dragon Talon	Others
+019C	Pearl	Others
+019D	Aji Mentaiko 240 g (Regular)	Recovery
+019E	Aji Mentaiko 240 g (Mild)	Recovery
+019F	Hot Emperor 230 g	Recovery
+01A0	Aji Mentaiko "Fukkoku" 240 g	Recovery
+01A1	Hakata Burabura 12 pcs.	Recovery
+01A2	Meika Tsurunoko 11 pcs.	Recovery
+01A3	Niwaka Senbei	Recovery
+01A4	Hanamidori Mentaiko Mustard Greens	Recovery
+01A5	Chocolate Potato Chips	Recovery
+01A6	Shiroi Koibito 18 pcs.	Recovery
+01A7	Corn Chocolate 28 Pcs.	Recovery
+01A8	Sapporo Agricultural College Cookies	Recovery
+01A9	KariKari Mada Aru?	Recovery
+01AA	Juice Tebasaki Senbei	Recovery
+01AB	Yamamotoya Honten Miso Udon Stew	Recovery
+01AC	Ryoguchiya Korekiyo Sennari 8 pcs.	Recovery
+01AD	Yukari Golden Rounds 10 pcs.	Recovery
+01AE	Aoyagi Sweet Rice Cake 5 pcs.	Recovery
+01AF	Kushikatsu Daruma Deep-fried Squid	Recovery
+01B0	551 Horai Pork Buns 4 pcs.	Recovery
+01B1	Secret Soy Sauce-flavored Takoyaki	Recovery
+01B2	Tsuruhashi Fugetsu Pork Okonomiyaki	Recovery
+01B3	Osaka no Aji Honpo Okonomiyaki	Recovery
+0279	Takoyaki 8 pcs.	Recovery
+027A	Takoyaki 16 pcs.	Recovery
+027B	Cheese Takoyaki 8 pcs.	Recovery
+02C6	Tebasaki Chicken Wings	Recovery
+02C7	Shrimp Tempura Musubi	Recovery
+02C8	Kishimen	Recovery
+02C9	Spaghetti with Ankake Sauce	Recovery
+030E	Madame Teruka's Egg Baumkuchen	Recovery
+0310	All 1's Charm	Others
+0311	1-2-3 Gum	Others
+0312	Trips Yokan	Others
+0313	Piss Mountain Stone	Others
+0314	Even Goro's Beads	Others
+0315	Lopsided Cigarette	Others
+0316	Banker's Piece	Others
+0317	Player's Piece	Others
+0318	Blackjack Amulet	Others
+0319	Bust Amulet	Others
+031A	Black Jewel	Others
+031B	Red Jewel	Others
+031C	Zero Jewel	Others
+031D	Royal Joker Card	Others
+031E	Lucky Hanafuda Card	Others
+031F	10-10-1 Charm	Others
+0320	Get-Rich-Quick Charm	Others
+0321	Chance Stone	Others
+0322	Gambler's Amulet	Others
+0323	Give-up Piece	Others
+0324	Lucky Tile	Others
+0325	High Payout Token	Others
+0326	High Win Rate Token	Others
+0327	Auto Token	Others
+0328	The Hedgeball	Others
+0329	Hyper Turmeric	Others
+032A	Horse Mackerel (Bait)	Others
+032B	Squid (Bait)	Others
+032C	Shrimp (Bait)	Others
+032D	Vinegar Squid (Bait)	Others
+032E	Worm	Others
+032F	Manila Clam	Others
+0330	Cobicula Clam	Others
+0331	Prawn	Others
+0332	Lobster	Others
+0333	Special Worm	Others
+0334	Maguro	Others
+0335	Gurukun	Others
+0336	Porcupinefish	Others
+0337	Mibai	Others
+0338	Irabucha	Others
+0339	Sea Snail	Others
+033A	Coral Branch	Others
+033B	Umbrella	Others
+033C	Marlin	Others
+033D	Coelacanth	Others
+033E	Squid	Others
+033F	Flounder	Others
+0340	Sea Bream	Others
+0341	Devil Scorpionfish	Others
+0342	Thread-sail Filefish	Others
+0343	Prawn	Others
+0344	Conger Eel	Others
+0345	Goby	Others
+0346	Oil Drum	Others
+0347	Bag	Others
+0348	Ito	Others
+0349	Oarfish	Others
+034A	Great White Shark	Others
+034B	Giant Crab	Others
+034C	Octopus	Others
+034D	Carp	Others
+034E	Koi	Others
+034F	Nishikigoi	Others
+0350	Ghost Koi	Others
+0351	Catfish	Others
+0352	Black Bass	Others
+0353	Rainbow Trout	Others
+0354	Salmon	Others
+0355	Pond Turtle	Others
+0356	Silver Arowana	Others
+0357	Snakehead	Others
+0358	Platinum Plate	Others
+0359	Gold Plate	Others
+035A	Silver Plate	Others
+035B	Bronze Plate	Others
+035C	Iron Plate	Others
+035D	Fight Provisions 01	Others
+035E	Fight Provisions 02	Others
+035F	Fight Provisions 03	Others
+0360	Fight Provisions 04	Others
+0361	Fight Provisions 05	Others
+0362	Fight Provisions 06	Others
+0363	Fight Provisions 07	Others
+0364	Fight Provisions 08	Others
+0365	Kamurocho Fun Pack 01	Others
+0366	Kamurocho Fun Pack 02	Others
+0367	Kamurocho Fun Pack 03	Others
+0368	Kamurocho Fun Pack 04	Others
+0369	Kamurocho Fun Pack 05	Others
+036A	Kamurocho Fun Pack 06	Others
+036B	Kamurocho Fun Pack 07	Others
+036C	Kamurocho Fun Pack 08	Others
+036D	Snare	Others
+036E	Leghold Trap	Others
+036F	Cage Trap	Others
+0370	Trap Mod Kit	Others
+0371	Trap Repair Kit	Others
+0372	Hut Repair Kit	Others
+0373	Bear Meat	Recovery
+0374	Bear Fat	Recovery
+0375	Bear Bile	Recovery
+0376	Bear Skin	Others
+0377	Deer Meat	Recovery
+0378	Deer Hide	Others
+0379	Antler	Others
+037A	Fox Meat	Recovery
+037B	Fox Skin	Others
+037C	Marten Meat	Recovery
+037D	Marten Pelt	Others
+037E	Rabbit Meat	Recovery
+037F	Rabbit Pelt	Others
+0380	Gold Stag Meat	Recovery
+0381	Gold Stag Antler	Others
+0382	Gold Stag Hide	Others
+0383	Mushroom	Recovery
+0384	Toxic Mushroom	Recovery
+0385	Rare Mushroom	Recovery
+0386	Wild Wasabi	Recovery
+0387	Japanese Parsley	Recovery
+0388	Bear Ward Bell	Others
+0389	Bear Bait	Others
+038A	Deer Feed	Others
+038B	Winter Provisions	Recovery
+038C	Cold Weather Rations	Recovery
+038E	Carrot	Recovery
+038F	Carved Wooden Doll	Others
+0390	Wood	Others
+0391	Chisel	Others
+0392	Pin-up Girl Magazine	Others
+0394	Pursuit Recovery Medicine (L)	Recovery
+0395	Pursuit Recovery Medicine (S)	Recovery
+0396	Repair Kit	Others
+0398	German Teacup	Others
+0399	Gold Pass	Others
+039A	Modern Mahjong Cup Trophy	Others
+039C	Hokkaido Walker	Others
+039D	Tokyo Walker	Others
+039E	Tokai Walker	Others
+039F	Kansai Walker	Others
+03A0	Fukuoka Walker	Others
+03A1	Daddy Papa's Autograph	Others
+03A2	Mini Shrimp Tempura Soba	Recovery
+03A2	Rifle Ammo	Others
+03A3	Grandia Dark Roast Bitter	Recovery
+03A4	Grandia Black	Recovery
+03A5	Handmade Seaweed Onigiri	Recovery
+03A6	Handmade Tuna Mayo Onigiri	Recovery
+03A7	Handmade Salmon Onigiri	Recovery
+03A8	Handmade Plum Onigiri	Recovery
+03A9	Hot Chef Deep-fried Pork Cutlet Bowl	Recovery
+03AA	Daily Special Lunch Set	Recovery
+03AB	Tricolor Ham Sandwiches	Recovery
+03AC	Assorted Sandwiches	Recovery
+03AD	Juicy Meat Yakisoba	Recovery
+03AE	Natto Roll	Recovery
+03AF	Yakitori	Recovery
+03B0	Kyogoku no Meisui Nautral Mineral Water	Recovery
+03B1	Green Tea 500 ml	Recovery
+03B2	Suhi Kaiseki Chitose Course "Snow"	Recovery
+0407	Nameless Short Sword	Equipment
+0408	Shortsword with Nicked Blade	Equipment
+0409	Dagger with Nicked Blade	Equipment
+040A	New Dagger	Equipment
+040B	Army Knife	Equipment
+040C	Stun Gun	Equipment
+040D	Old Stun Gun	Equipment
+040E	Hyper Stun Gun	Equipment
+040F	Spicy Knife	Equipment
+0410	Chinese Broadsword	Equipment
+0411	Lotus Clan Chinese Saber	Equipment
+0412	Divine Dragon Short Sword	Equipment
+0413	Modified Divine Dragon Short Sword	Equipment
+0414	Coliseum Short Sword	Equipment
+0415	Sonic Knife	Equipment
+0416	Crab Scissors	Equipment
+0417	Sturdy Knife	Equipment
+0418	Extremely Sturdy Knife	Equipment
+0419	Wooden Katana	Equipment
+041A	Fragile Wooden Katana	Equipment
+041B	Nameless Katana	Equipment
+041C	Katana with Nicked Blade	Equipment
+041D	Spatula Blade	Equipment
+041E	Sakura Storm	Equipment
+041F	Photon Blade MG	Equipment
+0420	Photon Blade PG	Equipment
+0421	Muramasa Blade	Equipment
+0422	Sturdy Katana	Equipment
+0423	Extremely Sturdy Katana	Equipment
+0424	Dragon Slayer	Equipment
+0425	Modified Dragon Slayer	Equipment
+0426	Coliseum Katana	Equipment
+0427	Sledgehammer	Equipment
+0428	Big Festival Fan	Equipment
+0429	Warning Sign	Equipment
+042A	Toy Hammer	Equipment
+042B	Frozen Tuna	Equipment
+042C	Ragin Dragon Hammer	Equipment
+042D	Modified Ragin Dragon Hammer	Equipment
+042E	Coliseum Hammer	Equipment
+042F	Fortune Mallet	Equipment
+0430	Snowman Hammer	Equipment
+0431	Extendable Staff	Equipment
+0432	Long Iron Pipe	Equipment
+0433	Assassin's Spear	Equipment
+0434	Photon Blade WG	Equipment
+0435	Squid Spear	Equipment
+0436	Uirou Pole	Equipment
+0437	Great Marlin	Equipment
+0438	Mighty Dragon Spear	Equipment
+0439	Modified Mighty Dragon Spear	Equipment
+043A	Coliseum Spear	Equipment
+043B	Sturdy Pole	Equipment
+043C	Extremely Sturdy Pole	Equipment
+043D	Purgatory Rod	Equipment
+043E	Penguin Spear	Equipment
+043F	Brass Knuckles	Equipment
+0440	Steel Gloves	Equipment
+0441	Thorn Knuckles	Equipment
+0442	Demon Gauntlets	Equipment
+0443	Dragon Grudge Gloves	Equipment
+0444	Modified Dragon Grudge Gloves	Equipment
+0445	Coliseum Knuckles	Equipment
+0446	Hungry Wolf Gloves	Equipment
+0447	Pepper Spray	Equipment
+0448	Slime Spray	Equipment
+0449	Modified Lighter	Equipment
+044A	Modified Stun Lighter	Equipment
+044B	Bottomless Lighter	Equipment
+044C	Salt	Equipment
+044D	Pepper	Equipment
+044E	Habanero Powder	Equipment
+044F	Superglue	Equipment
+0450	Skyrocket	Equipment
+0451	Iron Tonfa	Equipment
+0452	Steel Tonfa	Equipment
+0453	Slashing Tonfa	Equipment
+0454	Self-defense Ruler	Equipment
+0455	Platinum Triangle Ruler	Equipment
+0456	Dragon Horn	Equipment
+0457	Modified Dragon Horn	Equipment
+0458	Coliseum Tonfa	Equipment
+0459	Wooden Nunchaku	Equipment
+045A	Twin Hangers	Equipment
+045B	Steel Ninchaku	Equipment
+045C	Dragon Nunchaku	Equipment
+045D	Modified Dragon Nunchaku	Equipment
+045E	Coliseum Ninchaku	Equipment
+045F	SPARK 20,000V	Equipment
+0460	Frozen Banana	Equipment
+0461	Double Slats	Equipment
+0462	Wooden Kali Sticks	Equipment
+0463	Spiked Taiko Sticks	Equipment
+0464	Cutie Girl Sticks	Equipment
+0465	Twin Dragon Sticks	Equipment
+0466	Modified Twin Dragon Sticks	Equipment
+0467	Coliseum Kali Sticks	Equipment
+0468	Love Shine Sticks	Equipment
+0469	Love Shine Sticks (IF8)	Equipment
+046A	Love Shine Leeks	Equipment
+046B	Double Leeks	Equipment
+046C	Black Umbrella	Equipment
+046D	Gentleman's Umbrella	Equipment
+046E	Elegant Umbrella	Equipment
+046F	Blackjack	Equipment
+0470	Superalloy Pipe	Equipment
+0471	Ballbuster	Equipment
+0472	Cod Roe Blackjack	Equipment
+0473	Special Police Baton	Equipment
+0474	Kamiyama Police Baton	Equipment
+0475	Colorful Parasol	Equipment
+0476	Master Ball	Equipment
+0477	Brickshitter Beer	Equipment
+0478	Iron Pipe	Equipment
+0479	Shachihoko	Equipment
+047A	Fragile 9-iron	Equipment
+047B	9-iron	Equipment
+047C	Wooden Driver	Equipment
+047D	Damaged Metal Bat	Equipment
+047E	Metal Bat	Equipment
+047F	Titanium Driver	Equipment
+0480	Cracked Spiked Bat	Equipment
+0481	Spiked Bat	Equipment
+0482	Patriarch's Driver	Equipment
+0483	Patriarch's Bat	Equipment
+0484	Golden Dragon Bat	Equipment
+0485	Modified Golden Dragon Bat	Equipment
+0486	Dragon-drive 99	Equipment
+0487	9mm Automatic Pistol	Equipment
+0488	Double Action Revolver	Equipment
+0489	Drow-Z 55	Equipment
+048A	Mr. Random	Equipment
+048B	Golden Pistol	Equipment
+048C	Replica Gun	Equipment
+048D	Silver Bullet Gun	Equipment
+048E	Broken M1985	Equipment
+048F	Slime Gun	Equipment
+0490	Zap Gun	Equipment
+0491	Smoking Gun	Equipment
+0492	Expulsion S-12	Equipment
+0493	Sturdy Iron Pipe	Equipment
+0494	Extremely Sturdy Iron Pipe	Equipment
+0495	Fire Extinguisher	Equipment
+0496	Hazy Moon	Equipment
+0497	Lv. 1 Rifle	Equipment
+0498	Lv. 2 Rifle	Equipment
+0499	Lv. 3 Rifle	Equipment
+049A	Special Rifle	Equipment
+049B	Golden Rifle	Equipment
+049C	Cheap 9-iron	Equipment
+049D	Fire Extinguisher	Equipment
+04C9	Binding	Equipment
+04CA	Fighter's Binding	Equipment
+04CB	Fearless Binding	Equipment
+04CC	Gambler's Binding	Equipment
+04CD	Dragon's Binding	Equipment
+04CE	Bloody Binding	Equipment
+04CF	Lucky Binding	Equipment
+04D0	Yellow Dragon's Binding	Equipment
+04D1	Strong Training Gear	Equipment
+04D2	Chain Mail	Equipment
+04D3	Battle Mail	Equipment
+04D4	Steel Mail	Equipment
+04D5	Antique Chain Mail	Equipment
+04D6	Dragon Mail	Equipment
+04D7	Fireproof Shirt	Equipment
+04D8	Insulated Shirt	Equipment
+04D9	Special Alloy Shirt	Equipment
+04DA	Jet Black Jacket	Equipment
+04DB	Dragon Shirt	Equipment
+04DC	Low-resilience Jacket	Equipment
+04DD	Yakuza Training Gear	Equipment
+04DE	Morning Glory Belly Warmer	Equipment
+04DF	Handmade Bracelet	Equipment
+04E0	Dance Fever Scrunchie	Equipment
+04E1	Night Black Gallant	Equipment
+04E2	Night Black Savage	Equipment
+04E3	Night Black Legend	Equipment
+04E4	Tiger Mail	Equipment
+0502	Locker Key Radar	Equipment
+0503	Ebisu Socks	Equipment
+0504	Gion Bell	Equipment
+0505	Mew Shoes	Equipment
+0506	Silent Shoes	Equipment
+0507	Beads of Good Fortune	Equipment
+0508	Charismatic Photo	Equipment
+0509	Leech Gloves	Equipment
+050A	War God Talisman	Equipment
+050B	Calming Towel	Equipment
+050C	Rescue Card	Equipment
+050D	Haruka's Necklace	Equipment
+050E	Haruka's Amulet	Equipment
+050F	Tourmaline Bracelet	Equipment
+0510	Southpaw Bracelet	Equipment
+0511	Amon's Sunglasses	Equipment
+0512	Black Belt	Equipment
+0513	Payback Ring	Equipment
+0514	Springy Arm Guards	Equipment
+0515	High-tech Arm Guards	Equipment
+0516	High-tech Shin Guards	Equipment
+0517	Tattered Scarf	Equipment
+0518	Protective Amulet	Equipment
+0519	Bulletproof Glass Amulet	Equipment
+051A	Godess of Children Amulet	Equipment
+051B	Champion's Ring	Equipment
+051C	Gauntlets	Equipment
+051D	Steel Shin Guards	Equipment
+051E	Morning Glory Scarf	Equipment
+051F	Fat Stacks Amulet	Equipment
+0520	Nishikigoi Amulet	Equipment
+0521	Hercules Gloves	Equipment
+0522	Immovable Belt	Equipment
+0523	Balance Bracelet	Equipment
+0524	Pitcher's Amulet	Equipment
+0525	Sacrifice Stone	Equipment
+0526	Comfy Soles	Equipment
+0527	Contact Lenses	Equipment
+0528	Rescue Radar	Equipment
+0529	Encounter Finder	Equipment
+052A	Tourist Spot Pointer	Equipment
+052B	Hunger Belt	Equipment
+052C	Tiger Skin Belt	Equipment
+052D	Alertness Hood	Equipment
+052E	Rage Ring	Equipment
+052F	Collateral Damage Belt	Equipment
+0530	Headgear	Equipment
+0531	Celebrity Perfume	Equipment
+0532	Platinum Membership Card	Equipment
+0533	Angler's Hook	Equipment
+0534	High-grade Cigarettes	Equipment
+0535	MP3 Player	Equipment
+0536	Fan Letter	Equipment
+0537	Messages from Fans	Equipment
+0538	Eager Earrings	Equipment
+0539	Toughness Pin	Equipment
+053A	Gold Ring	Equipment
+055F	Locally Brewed Sake	Valuables
+0560	Deer Meat	Valuables
+0561	Kazuma's Cell Phone	Valuables
+0562	Saejima's Cell Phone	Valuables
+0563	Saejima's Cell Phone	Valuables
+0564	Haruka's Cell Phone	Valuables
+0565	Akiyama's Cell Phone	Valuables
+0566	Shinada's Cell Phone	Valuables
+0567	Coin	Valuables
+0568	Wooden Tags	Valuables
+0569	Mahjong Sticks	Valuables
+056A	Casino Chips	Valuables
+056B	Pachinko Balls	Valuables
+056C	Slot Tokens	Valuables
+056D	Shogi Points	Valuables
+056E	Prize Tickets	Valuables
+056F	Trophy	Valuables
+0572	Kamurocho Locker Key	Valuables
+0573	Sotenbori Locker Key	Valuables
+0574	Snowball Pouch	Valuables
+057A	DARTSLIVE Membership Card	Valuables
+057B	DARTSLIVE Membership Card	Valuables
+057C	DARTSLIVE Membership Card	Valuables
+057D	DARTSLIVE Membership Card	Valuables
+057E	DARTSLIVE Membership Card	Valuables
+057F	DARTSLIVE Membership Card	Valuables
+0580	DARTSLIVE Membership Card	Valuables
+0581	DARTSLIVE Membership Card	Valuables
+0582	DARTSLIVE Membership Card	Valuables
+0583	DARTSLIVE Membership Card	Valuables
+0584	DARTSLIVE Membership Card	Valuables
+0585	DARTSLIVE Membership Card	Valuables
+0586	DARTSLIVE Membership Card	Valuables
+0587	DARTSLIVE Membership Card	Valuables
+0588	DARTSLIVE Membership Card	Valuables
+0589	DARTSLIVE Membership Card	Valuables
+058A	House Darts	Valuables
+058B	Brass Barrel and Point	Valuables
+058C	Brass Straight Barrel and Point	Valuables
+058D	Brass Torpedo Barrel and Point	Valuables
+058E	Tungsten Barrel and Point	Valuables
+058F	Tungsten Straight Barrel and Point	Valuables
+0590	Tungsten Torpedo Barrel and Point	Valuables
+0591	Limited-edition Color Barrel and Point	Valuables
+0592	Limited-ed. Color Torpedo Barrel and Point	Valuables
+0593	Mini-standard Flight and Shaft	Valuables
+0594	Kite Flight and Shaft	Valuables
+0595	Slim Flight and Shaft	Valuables
+0596	Bristol X Flight and Shaft	Valuables
+0597	Teardrop Flight and Shaft	Valuables
+0598	Standard Flight and Shaft	Valuables
+0599	Hito-nyan Flight and Shaft	Valuables
+059A	Beware of Bears Flight and Shaft	Valuables
+059B	Flashy Butterfly Flight and Shaft	Valuables
+059C	Grandpa's Handmade Flight and Shaft	Valuables
+059D	Rocket Shot Flight and Shaft	Valuables
+059E	Sweet Flight and Shaft	Valuables
+059F	Ousaka Enterprises Office Key	Valuables
+05A0	Riku's Business Card	Valuables
+05A1	Riku's Fancy Business Card	Valuables
+05A2	Kaguya's Business Card	Valuables
+05A3	Kaguya's Fancy Business Card	Valuables
+05A4	Honoka's Business Card	Valuables
+05A5	Honoka's Fancy Business Card	Valuables
+05A6	Shion's Business Card	Valuables
+05A7	Shion's Fancy Business Card	Valuables
+05A8	Hinata Osaki's Business Card	Valuables
+05A9	Hinata Osaki's Fancy Business Card	Valuables
+05D3	Time Capsule	Valuables
+05D6	Old Map Scrap A	Valuables
+05D7	Old Map Scrap B	Valuables
+05D8	Old Map Scrap C	Valuables
+05D9	Old Map Scrap D	Valuables
+05DA	Old Map Scrap E	Valuables
+05DB	Old Map	Valuables
+05DC	Questionable Map Scrap A	Valuables
+05DD	Questionable Map Scrap B	Valuables
+05DE	Questionable Map Scrap C	Valuables
+05DF	Questionable Map Scrap D	Valuables
+05E0	Questionable Map Scrap E	Valuables
+05E1	Questionable Map	Valuables
+05E2	Profound Map Scrap A	Valuables
+05E3	Profound Map Scrap B	Valuables
+05E4	Profound Map Scrap C	Valuables
+05E5	Profound Map Scrap D	Valuables
+05E6	Profound Map Scrap E	Valuables
+05E7	Profound Map	Valuables
+05E8	Suspicious Map Scrap A	Valuables
+05E9	Suspicious Map Scrap B	Valuables
+05EA	Suspicious Map Scrap C	Valuables
+05EB	Suspicious Map Scrap D	Valuables
+05EC	Suspicious Map Scrap E	Valuables
+05ED	Suspicious Map	Valuables
+05EE	Impressive Map Scrap A	Valuables
+05EF	Impressive Map Scrap B	Valuables
+05F0	Impressive Map Scrap C	Valuables
+05F1	Impressive Map Scrap D	Valuables
+05F2	Impressive Map Scrap E	Valuables
+05F3	Impressive Map	Valuables
+05F4	Pin-up Girl Photo 1	Valuables
+05F5	Pin-up Girl Photo 7	Valuables
+05F6	Pin-up Girl Photo 2	Valuables
+05F7	Pin-up Girl Photo 8	Valuables
+05F8	Pin-up Girl Photo 3	Valuables
+05F9	Pin-up Girl Photo 4	Valuables
+05FA	Pin-up Girl Photo 5	Valuables
+05FB	Pin-up Girl Photo 6	Valuables
+05FC	Pin-up Girl Photo 9	Valuables
+05FD	Pin-up Girl Photo 10	Valuables
+05FE	Pin-up Girl Photo 11	Valuables
+05FF	PrintCircle Book	Valuables
+0600	Decleration of Dissolution	Valuables
+0601	Mystery Item	Valuables
+0602	Mystery Envelope	Valuables
+0603	Southwest Gate Key	Valuables
+0604	Phone Booth Photo	Valuables
+0605	Underground Casino Pass	Valuables
+0606	Majima's Letter	Valuables
+0607	Lots of Liquor	Valuables
+0608	Park's Fountain Pen	Valuables
+0609	Intelligent-looking Cochin Chicken	Valuables
+060A	Strong-looking Cochin Chicken	Valuables
+060B	Cochin Chicken with Piercing Eyes	Valuables
+060C	Dragon Mask	Valuables
+060D	Photo of Michiru Yamazaki	Valuables
+060E	Cheat Wooden Bat	Valuables
+060F	Expensive Wooden Bat	Valuables
+0610	Ash Wood Bat	Valuables
+0611	Sacred Wood Bat	Valuables
+0612	Crimson Bat	Valuables
+0613	Fried Shrimp Bat	Valuables
+0614	Cheap Batting Gloves	Valuables
+0615	Expensive Leather Batting Gloves	Valuables
+0616	High-grip Batting Gloves	Valuables
+0617	Tenacious Batting Gloves	Valuables
+0618	Neural Batting Gloves	Valuables
+0619	Cheap Cleats	Valuables
+061A	Luxury Cleats	Valuables
+061B	High-performance Cleats	Valuables
+061C	High-adhersion Cleats	Valuables
+061D	Hall-of-Fame Cleats	Valuables
+061E	Detergent	Valuables
+061F	Letter to Masao	Valuables
+0620	Ghost Pine Photo	Valuables
+0621	Borrowed Single-lens Reflex Camera	Valuables
+0622	PrintCircle Photo with Friends	Valuables
+0623	Dance Battle Summit Leaflet	Valuables
+[/ITEM]
+[SLOT]
+Value>Slot
+0000	Slot 1
+0008	Slot 2
+0010	Slot 3
+0018	Slot 4
+0020	Slot 5
+0028	Slot 6
+0030	Slot 7
+0038	Slot 8
+0040	Slot 9
+0048	Slot 10
+0050	Slot 11
+0058	Slot 12
+0060	Slot 13
+0068	Slot 14
+0070	Slot 15
+0078	Slot 16
+0080	Slot 17
+0088	Slot 18
+0090	Slot 19
+0098	Slot 20
+00A0	Slot 21
+00A8	Slot 22
+00B0	Slot 23
+00B8	Slot 24
+00C0	Slot 25
+00C8	Slot 26
+00D0	Slot 27
+00D8	Slot 28
+00E0	Slot 29
+00E8	Slot 30
+00F0	Slot 31
+00F8	Slot 32
+0100	Slot 33
+0108	Slot 34
+0110	Slot 35
+0118	Slot 36
+0120	Slot 37
+0128	Slot 38
+0130	Slot 39
+0138	Slot 40
+0140	Slot 41
+0148	Slot 42
+0150	Slot 43
+0158	Slot 44
+0160	Slot 45
+0168	Slot 46
+0170	Slot 47
+0178	Slot 48
+0180	Slot 49
+0188	Slot 50
+0190	Slot 51
+0198	Slot 52
+01A0	Slot 53
+01A8	Slot 54
+01B0	Slot 55
+01B8	Slot 56
+01C0	Slot 57
+01C8	Slot 58
+01D0	Slot 59
+01D8	Slot 60
+01E0	Slot 61
+01E8	Slot 62
+01F0	Slot 63
+01F8	Slot 64
+0200	Slot 65
+0208	Slot 66
+0210	Slot 67
+0218	Slot 68
+0220	Slot 69
+0228	Slot 70
+0230	Slot 71
+0238	Slot 72
+0240	Slot 73
+0248	Slot 74
+0250	Slot 75
+0258	Slot 76
+0260	Slot 77
+0268	Slot 78
+0270	Slot 79
+0278	Slot 80
+0280	Slot 81
+0288	Slot 82
+0290	Slot 83
+0298	Slot 84
+02A0	Slot 85
+02A8	Slot 86
+02B0	Slot 87
+02B8	Slot 88
+02C0	Slot 89
+02C8	Slot 90
+02D0	Slot 91
+02D8	Slot 92
+02E0	Slot 93
+02E8	Slot 94
+02F0	Slot 95
+02F8	Slot 96
+0300	Slot 97
+0308	Slot 98
+0310	Slot 99
+0318	Slot 100
+0320	Slot 101
+0328	Slot 102
+0330	Slot 103
+0338	Slot 104
+0340	Slot 105
+0348	Slot 106
+0350	Slot 107
+0358	Slot 108
+0360	Slot 109
+0368	Slot 110
+0370	Slot 111
+0378	Slot 112
+0380	Slot 113
+0388	Slot 114
+0390	Slot 115
+0398	Slot 116
+03A0	Slot 117
+03A8	Slot 118
+03B0	Slot 119
+03B8	Slot 120
+03C0	Slot 121
+03C8	Slot 122
+03D0	Slot 123
+03D8	Slot 124
+03E0	Slot 125
+03E8	Slot 126
+03F0	Slot 127
+03F8	Slot 128
+0400	Slot 129
+0408	Slot 130
+0410	Slot 131
+0418	Slot 132
+0420	Slot 133
+0428	Slot 134
+0430	Slot 135
+0438	Slot 136
+0440	Slot 137
+0448	Slot 138
+0450	Slot 139
+0458	Slot 140
+0460	Slot 141
+0468	Slot 142
+0470	Slot 143
+0478	Slot 144
+0480	Slot 145
+0488	Slot 146
+0490	Slot 147
+0498	Slot 148
+04A0	Slot 149
+04A8	Slot 150
+04B0	Slot 151
+04B8	Slot 152
+04C0	Slot 153
+04C8	Slot 154
+04D0	Slot 155
+04D8	Slot 156
+04E0	Slot 157
+04E8	Slot 158
+04F0	Slot 159
+04F8	Slot 160
+0500	Slot 161
+0508	Slot 162
+0510	Slot 163
+0518	Slot 164
+0520	Slot 165
+0528	Slot 166
+0530	Slot 167
+0538	Slot 168
+0540	Slot 169
+0548	Slot 170
+0550	Slot 171
+0558	Slot 172
+0560	Slot 173
+0568	Slot 174
+0570	Slot 175
+0578	Slot 176
+0580	Slot 177
+0588	Slot 178
+0590	Slot 179
+0598	Slot 180
+05A0	Slot 181
+05A8	Slot 182
+05B0	Slot 183
+05B8	Slot 184
+05C0	Slot 185
+05C8	Slot 186
+05D0	Slot 187
+05D8	Slot 188
+05E0	Slot 189
+05E8	Slot 190
+05F0	Slot 191
+05F8	Slot 192
+0600	Slot 193
+0608	Slot 194
+0610	Slot 195
+0618	Slot 196
+0620	Slot 197
+0628	Slot 198
+0630	Slot 199
+0638	Slot 200
+[/SLOT]

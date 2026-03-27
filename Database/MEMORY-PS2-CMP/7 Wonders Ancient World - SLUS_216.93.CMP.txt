@@ -1,0 +1,34 @@
+^1 = Hash: F0DA487A
+^2 = GameID: SLUS_216.93
+^3 = NAME: 7 Wonders Ancient World
+!Masters:
++Enable Code (MUST BE ON)
+$901C3498 0C070CCE
++Enable Code (MUST BE ON)
+$F01D5B98 001D5B9B
++Enable Code (MUST BE ON)
+$0E3C7DF2 1456E7A5
+$F01D5B98 001D5B9B
+!!
+!Jokers:
++Player 1 Controller
+$0023EC82 0000[Joker:PS2]
+!!
+!Misc Codes:
++Gain 1000 Points Per Break
+%Credit: Skiller
+$2010DE30 34842710
++Gain 32000 Points Per Break
+%Credit: Skiller
+$2010DE30 34847D00
++Always Have Hints
+%Credit: Skiller
+$20118188 E6030398
++Inf Time
+%Credit: Skiller
+$20118148 00000000
++Always Give Stones
+%Credit: Skiller
+$2011A1B4 AC440000
+$2011A138 AC460000
+!!

@@ -1,0 +1,172 @@
+^2 = GameID: CUSA33393,CUSA33396,CUSA33394,CUSA33395,CUSA46200,CUSA46201,CUSA46202,CUSA46203
+^3 = NAME: Fate/Samurai Remnant
+^SECONDLAYER: NO
+^4 = FILE: SAVEDATA\DATA.BIN
+%Credits:Skiller>Zeraf3000
+{NOTE: IF you have more than 1 mount of the same, and want to mod them with diff skills and values; change the search instance}		
++Mod Scabbard
+$[SaveSlot]	
+$92000000 [Gameversionscabbard]	
+$88[Amount:01:HEX:BIG<Search Instance>]0002 [Scabbard]020000		
+$28000002 [Amount:0000270F:HEX:BIG<Main Stat>]		
+$A8000006 00000003
+$[Skill<Skill 1>][Skill<Skill 2>][Skill<Skill 3>]00 00000000		
+$28000009 [Amount:0000270F:HEX:BIG<Skill 1 Value>]		
+$2800000D [Amount:0000270F:HEX:BIG<Skill 2 Value>]		
+$28000011 [Amount:0000270F:HEX:BIG<Skill 2 Value>]		
++Mod Guard
+$[SaveSlot]	
+$92000000 [GameversionGuard]	
+$88[Amount:01:HEX:BIG<Search Instance>]0002 [Guard]030000		
+$28000002 [Amount:0000270F:HEX:BIG<Main Stat>]		
+$A8000006 00000003
+$[Skill<Skill 1>][Skill<Skill 2>][Skill<Skill 3>]00 00000000		
+$28000009 [Amount:0000270F:HEX:BIG<Skill 1 Value>]		
+$2800000D [Amount:0000270F:HEX:BIG<Skill 2 Value>]		
+$28000011 [Amount:0000270F:HEX:BIG<Skill 2 Value>]
++Mod Handle Wrap
+$[SaveSlot]	
+$92000000 [GameversionWrap]	
+$88[Amount:01:HEX:BIG<Search Instance>]0002 [Wrap]050000		
+$28000002 [Amount:0000270F:HEX:BIG<Main Stat>]		
+$A8000006 00000003
+$[Skill<Skill 1>][Skill<Skill 2>][Skill<Skill 3>]00 00000000		
+$28000009 [Amount:0000270F:HEX:BIG<Skill 1 Value>]		
+$2800000D [Amount:0000270F:HEX:BIG<Skill 2 Value>]		
+$28000011 [Amount:0000270F:HEX:BIG<Skill 2 Value>]
++Mod Handle Decoration
+$[SaveSlot]	
+$92000000 [GameversionDecorations]	
+$88[Amount:01:HEX:BIG<Search Instance>]0002 [Decoration]040000		
+$28000002 [Amount:0000270F:HEX:BIG<Main Stat>]		
+$A8000006 00000003
+$[Skill<Skill 1>][Skill<Skill 2>][Skill<Skill 3>]00 00000000		
+$28000009 [Amount:0000270F:HEX:BIG<Skill 1 Value>]		
+$2800000D [Amount:0000270F:HEX:BIG<Skill 2 Value>]		
+$28000011 [Amount:0000270F:HEX:BIG<Skill 2 Value>]
+^6 = MODS:
+[SaveSlot]
+Value>Save Slot
+95000000 08D00000	Auto Save 
+95000000 00100000	Save Slot 01
+95000000 00800000	Save Slot 02
+95000000 00F00000	Save Slot 03
+95000000 01600000	Save Slot 04
+95000000 01D00000	Save Slot 05
+95000000 02400000	Save Slot 06
+95000000 02B00000	Save Slot 07
+95000000 03200000	Save Slot 08
+95000000 03900000	Save Slot 09
+95000000 04000000	Save Slot 10
+95000000 04700000	Save Slot 11
+95000000 04E00000	Save Slot 12
+95000000 05500000	Save Slot 13
+95000000 05C00000	Save Slot 14
+95000000 06300000	Save Slot 15
+95000000 06A00000	Save Slot 16
+95000000 07100000	Save Slot 17
+95000000 07800000	Save Slot 18
+95000000 07F00000	Save Slot 19
+95000000 08600000	Save Slot 20
+[/SaveSlot]
+[Gameversionscabbard]
+Value>Game Version	
+005A82E8	V1.00 Offsets
+005A860F	V1,02 Offsets
+005A8B92	V1.03 Offsets
+005A8DCB	V1.07 Offsets
+005A8E9B	V1.10 / V1.12 / 1.13 Offset
+[/Gameversionscabbard]	
+[GameversionWrap]
+Value>Game Version
+005A9990	V1.00 Offsets
+005A9CB7	V1,02 Offsets
+005AA23A	V1.03 Offsets
+005AA473	V1.07 Offsets
+005AA543	V1.10 / V1.12 / 1.13 Offsets
+[/GameversionWrap]
+[GameversionGuard]
+Value>Game Version
+005A8E3C	V1.00 Offsets
+005A9163	V1,02 Offsets
+005A96E6	V1.03 Offsets
+005A991F	V1.07 Offsets
+005A99EF	V1.10 / V1.12 / 1.13 Offsets
+[/GameversionGuard]
+[GameversionDecorations]
+Value>Game Version
+005AA4E4	V1.00 Offsets
+005AA80B	V1,02 Offsets
+005AAD8E	V1.03 Offsets
+005AAFC7	V1.07 Offsets
+005AB097	V1.10 / V1.12 / 1.13 Offsets
+[GameversionDecorations]
+[Skill]
+Value>Skill Name
+00	NONE
+02	ATK Up
+03	DEF Up
+04	MAT Up
+05	TEC Up
+0B	Damage UP vs Humans
+0C	Damage UP vs Monsters
+0D	Damage UP vs Servants
+15	Normal Attack Up
+16	Heavy Attack Up
+17	Valor Strike Up
+18	Valor Gauge Up
+19	Affinity Gauge Up
+1A	Critical Valor
+1B	Critical Affinity
+1C	HP Restoration Damage Dealt
+1D	HP Restoration Enemy Defeated
+1E	Blinding Reflexes
+1F	Damage Dampening
+21	One with the Earth
+22	One with the Water
+23	One with the Fire
+24	One with the Wind
+25	One with the Void
+26	Loot Up
+2A	Afterglow Time Extension
+2D	HP Restoration Critical Hit
+2E	Smash Shell
+2F	Substitution Gauge Charge
+[/Skill]
+[Scabbard]
+Value>Scabbard Name
+01	Red and Blue Scabbards
+02	Glowing Cloud Scabbards
+03	Thousand Leaves Scabbards
+04	Misty Pearl Scabbards
+05	Ruby Daybreak Scabbards
+06	Strewn Stars Scabbards
+07	Lone Wolf Scabbards
+[/Scabbard]
+[Guard]
+Value>Guard Name
+0B	Open Iron Guard
+0C	Twining Tendrils Guard
+0D	Falling Petals Guard
+0E	Cloud Dragon Guard
+0F	Sea Cucumber Guard
+[/Guard]
+[Wrap]
+Value>Wrap Name
+15	Red ad Blue Braid
+16	Black Ink Braid
+17	Jasmine Braid
+18	Turquoise Braid
+19	Raven Wrap
+1A	Purple Wrap
+1B	White Wrap
+[/Wrap]
+[Decoration]
+Value>Decoration Name
+1F	Limitless Sky
+20	Triumphant Courage
+21	Beastly Ferocity
+22	Alpha and Omega
+23	Birds Aloft
+24	Pure Moon
+[/Decoration]

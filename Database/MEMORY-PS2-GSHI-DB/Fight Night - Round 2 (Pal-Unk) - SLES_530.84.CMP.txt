@@ -1,0 +1,74 @@
+^3 = NAME: Fight Night - Round 2 (Pal-Unk)
+^2 = GameID: SLES-53084
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F047C4DC 0047C4DF
+$200FFF00 8C4102B8
+$200FFF04 3C0442C8
+$200FFF08 14050006
+$200FFF24 10050006
+$200FFF40 03E00008
+$204B0CC4 0803FFC0
+!!
+!Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$200FFF10 AC240004
+$200FFF14 AC240000
++Infinite Health
+%Credits: Codejunkies
+$200FFF2C AC240000
+$200FFF30 AC240004
++No Health
+%Credits: Codejunkies
+$200FFF10 AC200004
+$200FFF14 AC200000
++No Health
+%Credits: Codejunkies
+$200FFF2C AC200000
+$200FFF30 AC200004
+!!
+!Speed Codes:
++End Round Instantly (Press R1+R2+L1+L2 To Activate)
+%Credits: Codejunkies
+$D05D4B02 0000F0FF
+$2011B1A8 00000000
+$E001F0FF 105D4B02
+$2011B1A8 45000002
++Hyper Mode (Press Select+Left To Activate)
+%Credits: Codejunkies
+$D05D4B02 0000FF7E
+$2056E6C8 41800000
++Normal Speed (Press Select+Down To Activate)
+%Credits: Codejunkies
+$D05D4B02 0000FFBE
+$2056E6C8 42480000
++Quicker Game (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D05D4B02 0000FFDE
+$2056E6C8 42000000
++Slow Motion (Press Select+Up To Activate)
+%Credits: Codejunkies
+$D05D4B02 0000FFEE
+$2056E6C8 43480000
+!!
+!Stamina Codes:
++Infinite Stamina
+%Credits: Codejunkies
+$200FFF18 AC240008
+$200FFF1C AC24000C
++Infinite Stamina
+%Credits: Codejunkies
+$200FFF34 AC240008
+$200FFF38 AC24000C
++No Stamina
+%Credits: Codejunkies
+$200FFF18 AC200008
+$200FFF1C AC20000C
++No Stamina
+%Credits: Codejunkies
+$200FFF34 AC200008
+$200FFF38 AC20000C
+!!
+

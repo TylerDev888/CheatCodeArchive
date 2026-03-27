@@ -1,0 +1,15 @@
+^3 = NAME: Lucian Bee's: Resurrection Supernova (Ntsc-J)
+^2 = GameID: SLPM-55194
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$90110C30 0C0442B4
+!!
++Enable Debug Menu (Triangle + Circle While Returning To The Title Screen)
+%Credits: punk7890
+$D05819BE 0000CFFF
+$001A5868 00000017
+$D05819BE 0000FFFF
+$001A5868 00000008
+!!
+

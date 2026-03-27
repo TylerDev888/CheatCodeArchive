@@ -1,0 +1,142 @@
+^3 = NAME: Thunderstrike Operation Phoenix [Greatest Hits] (Ntsc-U)
+^2 = GameID: No
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0100158 00152D87
++(M) Must Be On
+%Credits: Codejunkies
+$F0152D84 00152D87
++Code Breaker Version 1-5 Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00152D87
++Code Breaker Version 6+ Enable Code (Must Be On)
+%Credits: Code Master
+$90152D84 0C05A651
+!!
+!Armor Codes:
++Armor Never Go Above 10%
+%Credits: Codejunkies
+$E00141C8 30567C0A
+$10567C0A 000041C8
++Armor Never Go Above 25%
+%Credits: Codejunkies
+$E0014248 30567C0A
+$10567C0A 00004248
++Armor Never Go Above 50%
+%Credits: Codejunkies
+$E00142FA 30567C0A
+$10567C0A 000042FA
++Armor Never Go Above 75%
+%Credits: Codejunkies
+$E0014348 30567C0A
+$10567C0A 00004348
++Infinite Armor
+%Credits: Codejunkies
+$10567C0A 0000437A
++Rapid Fire Missiles
+%Credits: Codejunkies
+$10567BF4 00000000
++Weapons Never Overheat
+%Credits: Codejunkies
+$10567BF8 00000000
+!!
+!Infinite Ammo Codes:
++Weapon 1
+%Credits: MadCatz
+$10425AC0 00000063
++Weapon 2
+%Credits: MadCatz
+$10425AC4 00000063
++Weapon 3
+%Credits: MadCatz
+$10425AC8 00000063
+!!
+!View Codes:
++3Rd Person View
+%Credits: MadCatz
+$1056777C 00000001
++Awacs View
+%Credits: MadCatz
+$1056777C 00000004
++Bomb View
+%Credits: MadCatz
+$1056777C 00000008
++Cockpit View
+%Credits: MadCatz
+$1056777C 00000002
++Cockpit View 2
+%Credits: MadCatz
+$1056777C 00000003
++Refreshable View
+%Credits: MadCatz
+$1056777C 0000000D
++Rotating Pause View
+%Credits: MadCatz
+$1056777C 00000005
++Stationary Min.Hud View
+%Credits: MadCatz
+$1056777C 00000000
+!!
+!Weapon 1 Ammo Codes:
++Never Have More Than 10 Bullets
+%Credits: Codejunkies
+$E001000A 30425AC0
+$10425AC0 0000000A
++Never Have More Than 20 Bullets
+%Credits: Codejunkies
+$E0010014 30425AC0
+$10425AC0 00000014
++Never Have More Than 5 Bullets
+%Credits: Codejunkies
+$E0010005 30425AC0
+$10425AC0 00000005
+!!
+!Weapon 2 Ammo Codes:
++Never Have More Than 10 Bullets
+%Credits: Codejunkies
+$E001000A 30425AC4
+$10425AC4 0000000A
++Never Have More Than 20 Bullets
+%Credits: Codejunkies
+$E0010014 30425AC4
+$10425AC4 00000014
++Never Have More Than 5 Bullets
+%Credits: Codejunkies
+$E0010005 30425AC4
+$10425AC4 00000005
+!!
+!Weapon 3 Ammo Codes:
++Never Have More Than 10 Bullets
+%Credits: Codejunkies
+$E001000A 30425AC8
+$10425AC8 0000000A
++Never Have More Than 20 Bullets
+%Credits: Codejunkies
+$E0010014 30425AC8
+$10425AC8 00000014
++Never Have More Than 5 Bullets
+%Credits: Codejunkies
+$E0010005 30425AC8
+$10425AC8 00000005
+!!
++Extra Ammo (All Weapons)
+%Credits: Code Master
+$1013E974 00000001
++Infinite Ammo (All Weapons)
+%Credits: Code Master
+$2013E97C 00000000
++Infinite Armor
+%Credits: Code Master
+$20567C08 437A0000
++Max Infinite Ammo (All Weapons)
+%Credits: Code Master
+$2013E974 24020063
++Never Overheat
+%Credits: Code Master
+$20567BF8 00000000
++View Modifier (00-0D)
+%Credits: Code Master
+$1056777C 000000??
+!!
+

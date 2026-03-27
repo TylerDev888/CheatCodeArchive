@@ -1,0 +1,13 @@
+^2 = GameID: WM8E
+^3 = NAME: Bomberman Blast
++Inf Bomb Placement (inviso){Does Not Count Your Bombs As Placed But Will Make Invisible Bombs If U Place To Many}
+%Credits: Skiller
+$0405CAFC 00000001
++Max Bombs On Pickup (8)
+%Credits: Skiller
+$04054394 38000008
+!Only Your Player:
++Your Wins Xx
+%Credits: Skiller
+$004F8131 000000[Amount:FF:HEX:BIG]
+!!

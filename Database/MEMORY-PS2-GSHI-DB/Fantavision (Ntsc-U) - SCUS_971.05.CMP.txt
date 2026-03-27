@@ -1,0 +1,69 @@
+^3 = NAME: Fantavision (Ntsc-U)
+^2 = GameID: SCUS-97105
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F019AB84 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F019AB84 0019AB87
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001B2C7B
+!!
++99,999,999 Points
+%Credits: InterAct
+$20664EF8 3B9AC9FF
++E3 Mode
+%Credits: The GFCC
+$2048A5B0 00000001
++Enable Debug Mode {<I>Pause The Game &Amp; Play Around With The Controls For Various Effects.</I>}
+%Credits: The GFCC
+$2048A5E0 00000001
++Hold L1 To Open Extra/Extra 2 Menus (Main Menu)
+%Credits: The GFCC
+$2048A5DC 00000001
++Infinite Health
+%Credits: InterAct
+$1048AC38 00002710
+$1048AC40 00002710
++Infinite Health
+%Credits: Code Master
+$2048AC40 00002710
++Infinite Time
+%Credits: InterAct
+$1048AC38 00002810
++Infinite Time
+%Credits: Code Master
+$2048AC38 00002710
++Quick Score Gain
+%Credits: Code Master
+$10664EF8 0000FFFF
+!Versus Mode Codes:
++P1 Press L1+Select For Instant Win
+%Credits: Code Master
+$D0855882 0000FBFE
+$2048A340 00000258
++P1 Press L2+Select For P2 Scores 0
+%Credits: Code Master
+$D0855882 0000FEFE
+$2048A344 00000000
++P1 Starts With Score Modifier
+%Credits: Code Master
+$D048A340 00000000
+$2048A340 0000????
++P2 Press L1+Select For Instant Win
+%Credits: Code Master
+$D0855982 0000FBFE
+$2048A344 00000258
++P2 Press L2+Select For P2 Scores 0
+%Credits: Code Master
+$D0855982 0000FEFE
+$2048A340 00000000
++P2 Starts With Score Modifier
+%Credits: Code Master
+$D048A344 00000000
+$2048A344 0000????
+!!
+!!
+

@@ -1,0 +1,17 @@
+^2 = GameID: CUSA15109,CUSA15091,CUSA15101
+^3 = NAME: Castlevania Anniversary Collection
+^SECONDLAYER: YES
+^4 = FILE: Castlevania: (0012-(\d+)\SAVEDATA\.BIN)
+^4 = FILE: Castlevania II: Simon's Quest: (0014-(\d+)\SAVEDATA\.BIN)
+^4 = FILE: Castlevania III: Dracula's Curse: (0016-(\d+)\SAVEDATA\.BIN)
++Super HP{Will Revert From Fall Deaths, Quick Save As You're Playing. Re-Load From Quick Save From Fall Death To Resume Super Hp] May Wear Off, Quick Save Then Re-Apply Cheat Within Save Wizard}
+%Credits:Doomguy
+$20000269 FFFFFF7F
+^4 = FILE: Kid Dracula: (0018-(\d+)\SAVEDATA\.BIN)
+^4 = FILE: Castlevania: Bloodlines: (0020-(\d+)\SAVEDATA\.BIN)
+^4 = FILE: Super Castlevania IV: (0022-(\d+)\SAVEDATA\.BIN)
++Health Points (65,535){Will Revert From Fall Deaths, Quick Save As You're Playing. Re-Load From Quick Save From Fall Death To Resume Super HP May Wear Off, Quick Save Then Re-Apply Cheat Within Save Wizard}
+%Credits:Doomguy
+$1028A02E 0000FFFF
+^4 = FILE: Castlevania: The Adventure: (0024-(\d+)\SAVEDATA\.BIN)
+^4 = FILE: Castlevania II: Belmont's Revenge: (0026-(\d+)\SAVEDATA\.BIN)

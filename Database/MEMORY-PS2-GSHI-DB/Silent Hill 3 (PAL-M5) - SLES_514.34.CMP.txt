@@ -1,0 +1,264 @@
+^3 = NAME: Silent Hill 3 (PAL-M5)
+^2 = GameID: SLES-51434
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F012CB74 0012CC3F
++(M) Must Be On
+%Credits: Codejunkies
+$F012CC3C 0012CC3F
+!!
+!Action Modes Available:
++Extreme 1
+%Credits: Codejunkies
+$11CFB920 0000000A
++Extreme 2
+%Credits: Codejunkies
+$11CFB920 0000001A
++Extreme 3
+%Credits: Codejunkies
+$11CFB920 0000003A
++Extreme 4
+%Credits: Codejunkies
+$11CFB920 0000007A
++Extreme 5
+%Credits: Codejunkies
+$11CFB920 000000FA
++Extreme 6
+%Credits: Codejunkies
+$11CFB920 000001FA
++Extreme 7
+%Credits: Codejunkies
+$11CFB920 000003FA
++Extreme 8
+%Credits: Codejunkies
+$11CFB920 000007FA
++Extreme 9
+%Credits: Codejunkies
+$11CFB920 00000FFA
++Extreme X
+%Credits: Codejunkies
+$11CFB920 00001FFA
++Have All Items And Shirts
+%Credits: Codejunkies
+$21CA5464 FFFFFFFF
+$21CA5468 FFFFFFFF
+$21CA546C FFFFFFFF
++Have All Weapons
+%Credits: Codejunkies
+$21CA5460 FFFFFFFE
++Replace Intro FMV Into Aliens Ending
+%Credits: Codejunkies
+$204113A4 00411360
+!!
+!Have Action Modes Available:
++2D Heather
+%Credits: Codejunkies
+$200FFF00 3C010045
+$200FFF04 3C0F3C80
+$200FFF10 AC2F81EC
+$200FFF14 03E00008
+$20130714 0803FFC0
++Ampoules
+%Credits: Codejunkies
+$11CA5496 0000270F
++Big Heather
+%Credits: Codejunkies
+$200FFF00 3C010045
+$200FFF04 3C0F3FC0
+$200FFF08 AC2F81E4
+$200FFF0C AC2F81E8
+$200FFF10 AC2F81EC
+$200FFF14 03E00008
+$20130714 0803FFC0
++First Aid Kit
+%Credits: Codejunkies
+$11CA5494 0000270F
++Giant Heather
+%Credits: Codejunkies
+$200FFF00 3C010045
+$200FFF04 3C0F4000
+$200FFF08 AC2F81E4
+$200FFF0C AC2F81E8
+$200FFF10 AC2F81EC
+$200FFF14 03E00008
+$20130714 0803FFC0
++Handgun Bullets
+%Credits: Codejunkies
+$11CA548C 0000270F
++Health Drinks
+%Credits: Codejunkies
+$11CA5492 0000270F
++Heather Beam
+%Credits: Codejunkies
+$11CFB83A 00000001
++Quick Characters/Fmvs - Press L3 To Activate And R3 To Deactivate
+%Credits: Codejunkies
+$D0355CC4 00000004
+$2019AC64 0803FFD0
+$D0355CC4 00000008
+$2019AC64 03E00008
+$200FFF40 3C013DC0
+$200FFF44 44810000
+$200FFF48 03E00008
++Shotgun Shells
+%Credits: Codejunkies
+$11CA548E 0000270F
++Submachine Gun Bullets
+%Credits: Codejunkies
+$11CA5490 0000270F
++Tiny Heather
+%Credits: Codejunkies
+$200FFF00 3C010045
+$200FFF04 3C0F3F40
+$200FFF08 AC2F81E4
+$200FFF0C AC2F81E8
+$200FFF10 AC2F81EC
+$200FFF14 03E00008
+$20130714 0803FFC0
++Variable Size - Press L2+Right To Grow; L2+Left To Shrink; L1+R1+L2+R2 For Normal Size
+%Credits: Codejunkies
+$200FFE04 3C010035
++Very Tiny Heather
+%Credits: Codejunkies
+$200FFF00 3C010045
+$200FFF04 3C0F3F00
+$200FFF08 AC2F81E4
+$200FFF0C AC2F81E8
+$200FFF10 AC2F81EC
+$200FFF14 03E00008
+$20130714 0803FFC0
+!!
+!Have Beam Codes:
++Sexxy Beam
+%Credits: Codejunkies
+$11CFB83A 00000002
+!!
+!Results Statistic:
++Clear Number
+%Credits: Codejunkies
+$01CFB850 00000063
++Clear Time
+%Credits: Codejunkies
+$21CFB86C 00000000
++Enemy Defeated By Fighting 0
+%Credits: Codejunkies
+$11CFB864 00000000
++Enemy Defeated By Fighting Max
+%Credits: Codejunkies
+$11CFB864 0000270F
++Enemy Defeated By Shooting 0
+%Credits: Codejunkies
+$11CFB862 00000000
++Enemy Defeated By Shooting Max
+%Credits: Codejunkies
+$11CFB862 0000270F
++Item Number
+%Credits: Codejunkies
+$11CFB860 0000270F
++Leoanard Kill Time
+%Credits: Codejunkies
+$21CFB884 00000000
++Memory Of Alessa Kill Time
+%Credits: Codejunkies
+$21CFB888 00000000
++Missionary Kill Time
+%Credits: Codejunkies
+$21CFB880 00000000
++Save And Continues
+%Credits: Codejunkies
+$11CFB85C 00000000
++Split Worm Kill Time
+%Credits: Codejunkies
+$21CFB87C 00000000
++The God Kill Time
+%Credits: Codejunkies
+$21CFB88C 00000000
++Total Damage
+%Credits: Codejunkies
+$21CFB878 48000000
+!!
+!Size Modifier Codes:
++Size Modifier (Press R2+Right To Grow; R2+Left To Shrink; L1+L2+R1+R2 To Return To Normal Size)
+%Credits: Codejunkies
+$200FFE04 3C010035
+$200FFE08 8C215CC4
+$200FFE0C 3C030010
+$200FFE10 8C63FFFC
+$200FFE14 34078020
+$200FFE18 14270002
+$200FFE28 24074020
+$200FFE2C 14270002
+$200FFE3C 3C010045
+$200FFE40 AC2381E4
+$200FFE44 AC2381E8
+$200FFE48 AC2381EC
+$200FFE50 3C010010
+$200FFE54 AC23FFFC
+$200FFE58 03E00008
+$200FFE34 24637000
+$200FFE20 24638000
+$20130714 0803FF80
+$D00FFFFE 00000000
+$100FFFFE 00003F80
+$D0355CC4 000000F0
+$200FFFFC 3F800000
+!!
+!You Must Have At Least One Of The Items Or The All Items Code On For This Code To Activate:
++Hyper Mode (Press L3 To Activate And R3 To De-Activate)
+%Credits: Codejunkies
+$D0355CC4 00000004
+$2019AC64 0803FFD0
+$D0355CC4 00000008
+$2019AC64 03E00008
+$200FFF40 3C013DC0
+$200FFF44 44810000
+$200FFF48 03E00008
+$D0355CC4 00000004
+$20148A00 3C024010
+$D0355CC4 00000008
+$20148A00 3C023F80
+!!
++All Maps Available
+%Credits: Codejunkies
+$202D1E40 24030001
+$202D1E68 24020001
++Always First Save
+%Credits: Codejunkies
+$20199C24 24040001
++Display Life And Fatigue Gauge
+%Credits: Codejunkies
+$01CFB89C 00000001
++Infinite Ammo/Item Usage
+%Credits: Codejunkies
+$2016DB88 00000000
++Infinite Ammo/No Reload
+%Credits: Codejunkies
+$201E0000 00000000
++Infinite Health
+%Credits: Codejunkies
+$2044836C 42C80000
+$20448374 42C80000
++Low Total Time
+%Credits: Codejunkies
+$20191AEC 44800000
++Max Ammo/Item After 1 Use
+%Credits: Codejunkies
+$2016DB88 240203E7
++Never Exhausted
+%Credits: Codejunkies
+$20196E00 00000000
+$20198420 00000000
+$20196CD0 00000000
++One Hit Kill
+%Credits: Codejunkies
+$2022F39C AC8001A4
+$2022F3A0 AC80019C
++Play In Japanese {<I>Select English As Language To Activate The Code.</I>}
+%Credits: Codejunkies
+$203D13A4 003D1360
++Unlock Extra Options And Bullets X5
+%Credits: Codejunkies
+$01CFB924 00000005
+!!
+

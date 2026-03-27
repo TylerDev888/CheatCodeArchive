@@ -1,0 +1,28 @@
+^3 = NAME: This Is Football 2005 (Pal-Unk)
+^2 = GameID: SCES-52432
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0100198 0010019B
+!!
++All Competitions Opened
+%Credits: Codejunkies
+$2052B68C 24020001
++All Stadiums Opened
+%Credits: Codejunkies
+$2052DC60 00000000
++All Teams Opened {<I>You Must Turn This Code ON If You Have An AR Max Prior 3.14.</I>}
+%Credits: Codejunkies
+$2052BB44 24020001
++AR Max Below 3.14 Fix
+%Credits: Codejunkies
+$204F7128 3C03200F
+$204F7130 8C65FFF8
+$204F7134 24040079
+$204F7138 24030074
+$204F713C 0000000C
++Max Funds After Buying 1 Player
+%Credits: Codejunkies
+$20419218 3C023B9A
+!!
+

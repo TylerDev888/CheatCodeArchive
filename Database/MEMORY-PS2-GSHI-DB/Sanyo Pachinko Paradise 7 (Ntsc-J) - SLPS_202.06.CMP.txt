@@ -1,0 +1,15 @@
+^3 = NAME: Sanyo Pachinko Paradise 7 (Ntsc-J)
+^2 = GameID: SLPS-20206
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9010E710 0C04396C
+!!
++Hold Start At Press Start Screen For Debug Menu
+%Credits: punk7890
+$D0A63242 0000FFF7
+$0014BDD8 0000000C
+$D0A63242 0000FFFF
+$0014BDD8 00000007
+!!
+

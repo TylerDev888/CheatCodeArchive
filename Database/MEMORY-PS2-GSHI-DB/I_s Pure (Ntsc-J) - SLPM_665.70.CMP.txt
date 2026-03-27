@@ -1,0 +1,13 @@
+^3 = NAME: I's Pure (Ntsc-J)
+^2 = GameID: SLPM-66570
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$90208C60 0C0822C0
+!!
++Enable Debug Menu [View Note] {<I>With The Code On, Press And Hold Circle + L1 Buttons While Entering Another Screen (Such As Starting A New Game).</I>}
+%Credits: punk7890
+$D047B202 0000DBFF
+$20270C54 00000000
+!!
+

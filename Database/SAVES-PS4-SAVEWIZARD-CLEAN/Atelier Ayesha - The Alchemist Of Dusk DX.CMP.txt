@@ -1,0 +1,1246 @@
+^2 = GameID: CUSA16921,CUSA16897,CUSA16828,CUSA16875
+^3 = NAME: Atelier Ayesha: The Alchemist Of Dusk DX
+^SECONDLAYER: NO
+^4 = FILE: GAMEDATA[0-9]{2}\USR-DATA.dat
+!ITEMS:
+Set Quality To 120 All Items [1-2000]{Doesn't work on materials?/ needs more tests}
+$80010008 A4FD0400
+$78000000 00000000
+$92000000 00000F0C
+$4A000004 42F00000
+$47CE0020 00000000
++Add/Mod Items To Section{{Make Sure to Never Put Slot Nummber Higher then  Max Slot for Section}}
+%Credits: Lotus
+$80010008 A4FD0400
+$78000000 00000000
+$92000000 [SECTION]
+$6C080001 00000000
+$6C200002 00000020
+$6C120002 0000[AMOUNT:0077:HEX:BIG<SLOT NUMBER>]
+$6C030002 00000000
+$6C020102 00000000
+$6C300002 00000000
+$18000000 00000002
+$18000002 0000[IIII<*ITEMID>]
+$28000004 [AMOUNT:3E80000:FLOAT:BIG<Quality>]
+$18000008 0000[PPPP<*Property1>]
+$1800000A 0000[PPPP<*Property2>]
+$1800000C 0000[PPPP<*Property3>]
+$1800000E 0000[PPPP<*Property4>]
+$18000010 0000[PPPP<*Property5>]
+$18000014 0000[EEEE<*Effects1>]
+$18000016 0000[EEEE<*Effects2>]
+$18000018 0000[EEEE<*Effects3>]
+$1800001A 0000[EEEE<*Effects4>]
+$0800001C 000000[AMOUNT:63:HEX:BIG]
+
+^6 = MODS:
+[SECTION]
+VALUE>NAME
+0000000C	Basket (Max 120 Slots)
+00000F14	Container (Max 10000 Slots)
+0004F11C	Unknown (Max 100 Slots)
+[/SECTION]
+[IIII]
+VALUE>ITEMS
+0000	Spiky Fruit
+0100	Blue Spiky Fruit
+0200	Gold Spiky Fruit
+0300	Taun
+0400	Big Taun
+0500	Mutated Taun
+0600	Trio Taun
+0700	Baby's Breath
+0800	Luminous Grass
+0900	Moss Grass
+0A00	Bitter Moss Grass
+0B00	Dried Moss Grass
+0C00	Taro
+0D00	Hard Taro
+0E00	Decade Taro
+0F00	Bear's Best
+1000	Glasses Beans
+1100	Red Devil Seed
+1200	Green Seed
+1300	Salat
+1400	Fresh Salat
+1500	White Salat
+1600	Stump Mushroom
+1700	Smoke Mushroom
+1800	Darkness Shoot
+1900	Jagged Leaf
+1A00	Metal Leaf
+1B00	Hard Jagged
+1C00	Moon Leaf
+1D00	Bitter Leaf
+1E00	Soft Leaf
+1F00	Awakening Herb
+2000	Dried Root
+2100	Rich Root
+2200	Flame Root
+2300	Earth Root
+2400	Cure Fruit
+2500	Ripe Cure Fruit
+2600	North Wind Fruit
+2700	Beast Meat
+2800	Dangerous Meat
+2900	Fresh Meat
+2A00	Gold Meat
+2B00	Lump of Fat
+2C00	Marsh Slime
+2D00	Ether Bubble
+2E00	Big Bone
+2F00	Bone Fossil
+3000	Black Bone
+3100	Dragon Bone
+3200	Mtn. Bird Egg
+3300	Seabird Egg
+3400	Extinct Bird Egg
+3500	Egg Stone
+3600	Phlogiston
+3700	Aqua Light
+3800	Wind Core
+3900	Earth Stone
+3A00	Soft Stone
+3B00	Peat
+3C00	Pale Clay
+3D00	Living Clay
+3E00	Iron Mixed Stone
+3F00	Bronze Ore
+4000	Pyrite Stone
+4100	Star Stone
+4200	Green Gemstone
+4300	Blue Gemstone
+4400	Rouge Gemstone
+4500	Pretty Ore
+4600	Big Gemstone
+4700	Shining Crystal
+4800	Eternal Crystal
+4900	Prisma Crystal
+4A00	Crystal Stone
+4B00	Amethyst Stone
+4C00	Night Crystal
+4D00	Corundum Stone
+4E00	Aurora Stone
+4F00	Glass Core
+5000	Luminous Gemstone
+5100	Bright Ore
+5200	Scorching Ore
+5300	Diamond Gemstone
+5400	Moon's Gold Vein
+5500	Beehive
+5600	Queen Bee Hive
+5700	Silver Hive
+5800	Gold Hive
+5900	Bitter Melon
+5A00	Old Melon
+5B00	Honey Melon
+5C00	Sugar Tree Sap
+5D00	Fermented Syrup
+5E00	Natural Syrup
+5F00	Milch Bean
+6000	Jewel Beans
+6100	Big Milch Bean
+6200	Small Milch Bean
+6300	Red Devil
+6400	Blue Devil
+6500	Sharp Pepper
+6600	Bitter Tree Seed
+6700	Spice Fruit
+6800	Epicure Nut
+6900	Anti-Bug Grass
+6A00	Medicinal Leaf
+6B00	Reaper Herb
+6C00	Wood Fragments
+6D00	Charcoal Pieces
+6E00	Purification Block
+6F00	Mud Ball
+7000	Ash Ball
+7100	Gold Ball
+7200	Lady's Beard
+7300	Golden Yarn
+7400	Mysterious Silk
+7500	Round Moss
+7600	Antique Moss
+7700	Fresh Water Moss
+7800	Mtn. Bird Feather
+7900	Eagle Feather
+7A00	Paradise Feather
+7B00	Word Stone-Star
+7C00	Word Stone-Moon
+7D00	Word Stone-Sun
+7E00	Word Stone-Sea
+7F00	Word Stone-Man
+8000	Verdure Grass
+8100	Lucky Clover
+8200	Oblivion Clover
+8300	Honey Poppy
+8400	Moonlight Grass
+8500	Dunkelheit
+8600	White Flower
+8700	Red Flower
+8800	Purple Flower
+8900	Water
+8A00	Clean Water
+8B00	Muddy Water
+8C00	Salty Water
+8D00	Spring Water
+8E00	Cow Milk
+8F00	Rich Cow Milk
+9000	Aged Cow Milk
+9100	Crowned Cow Milk
+9200	Liquid Crystal
+9300	Element Core
+9400	Crystalline Ether
+9500	Water Crystal
+9600	Fossile Oil
+9700	Genesis Capsule
+9800	Eiche
+9900	Rock Tree
+9A00	Piece of Wood
+9B00	River Wood
+9C00	Mossy Driftwood
+9D00	Ancient Root
+9E00	Thin Fruit
+9F00	Ripe Fruit
+A000	Fully Ripe Fruit
+A100	Golden Fruit
+A200	Cow Dropping
+A300	Gold Object
+A400	Fire Stone
+A500	Fluorite
+A600	Lava Stone
+A700	Dried Fat
+A800	Ghost Cloth
+A900	Fire Spirit Breath
+AA00	Pixie Breath
+AB00	Night Fog Bottle
+AC00	Black Spring
+AD00	Silver Liquid
+AE00	Nectar Water
+AF00	Junk
+B000	Ancient Trash
+B100	Broken Item
+B200	Never-Melting Ice
+B300	Aqua Spider Thread
+B400	Slag Stone
+B500	Red Slag Stone
+B600	Green Slag Stone
+B700	Slag Gem
+B800	Fire Slag Stone
+B900	Ice Slag Stone
+BA00	Soul Slag Stone
+BB00	Sky Slag Stone
+BC00	Earth Slag Stone
+BD00	Hard Claw
+BE00	Big Claw
+BF00	Ruler's Claw
+C000	Crystal Claw
+C100	Fur
+C200	Soft Fur
+C300	Cryptid Fur
+C400	Quality Fur
+C500	Silver Fur
+C600	Dragon Tail
+C700	Living Tail
+C800	Fairy Tail
+C900	Dragon Scale
+CA00	Land Dragon Scale
+CB00	Shining Scale
+CC00	Dragon Fang
+CD00	Great Beast Fang
+CE00	Black Fang
+CF00	Spirit Magnet
+D000	TIme Guard Flower
+D100	Scent Bag
+D200	Craft
+D300	Bright Craft
+D400	Bomb
+D500	Zeit Bomb
+D600	Ice Bomb
+D700	Eis Ice Bomb
+D800	Lightning Bomb
+D900	Lightning Storm
+DA00	Exa-Bomb
+DB00	Himmel Schenk
+DC00	Divine Oracle
+DD00	Flame Aqua
+DE00	Ice Aqua
+DF00	Poison Aqua
+E000	Black Eclipse
+E100	Magic Square
+E200	Riesen Ointment
+E300	Powerful Ointment
+E400	Wonder Cream
+E500	Squash Tea
+E600	Clearing Decoction
+E700	Disease Ward
+E800	Anti-Sick Powder
+E900	Body Energy Powder
+EA00	Mineral Powder
+EB00	Worker Compress
+EC00	Body Compress
+ED00	Medical Patch
+EE00	Secret Remedy
+EF00	Silent Pill
+F000	One Drop Recovery
+F100	Mental Extract
+F200	Forbidden Capsule
+F300	Aroma Mist
+F400	Sprayer Talisman
+F500	Passion Perfume
+F600	God's Miracle Drug
+F700	Baguette
+F800	Royal Baguette
+F900	Hot Baguette
+FA00	Black Baguette
+FB00	Danish
+FC00	Crisp Danish
+FD00	Caramel Danish
+FE00	Flower Muffin
+FF00	Bitter Muffin
+0001	Soft Muffin
+0101	Bread Stars
+0201	Venus Bread Stars
+0301	Ocean Stars
+0401	Bun
+0501	Meat Bun
+0601	Veggie Bun
+0701	Country Bread
+0801	Traditional Bread
+0901	Stone Bread
+0A01	Veggie Soup
+0B01	Bean Soup
+0C01	Sunset Broth
+0D01	Hell Soup
+0E01	Genug Water Pot
+0F01	Mirage Mirror
+1001	Weird Talisman
+1101	Power Totem
+1201	Crystal Charm
+1301	Needleless Shot
+1401	Portable Container
+1501	Basket
+1601	Speculator Die
+1701	Nomadic Shoes
+1801	Corrective Glasses
+1901	Metastasis Wing
+1A01	Artisan Whetstone
+1B01	Expert Whetstone
+1C01	Soul Whetstone
+1D01	Blade Whetstone
+1E01	Polish Dye
+1F01	Training Dye
+2001	Magic Dye
+2101	Reflection Dye
+2201	Zettel
+2301	Pulp Paper
+2401	Half Paper
+2501	Magisha Sheet
+2601	Leather
+2701	Beast Leather
+2801	Hard Skin
+2901	Fortified Leather
+2A01	Polish Powder
+2B01	Grain Powder
+2C01	Bone Powder
+2D01	Clean Pollen
+2E01	Glass Powder
+2F01	Black Powder
+3001	Secret Spice
+3101	Coarse Salt
+3201	Handmade Pot
+3301	Preserve Pot
+3401	Genug Blessing Pot
+3501	Bottomless Pot
+3601	Goddess Pot
+3701	Pressed Oil
+3801	Liquid Butter
+3901	White Oil
+3A01	Distilled Water
+3B01	Everpure Water
+3C01	Memory Ink
+3D01	Glass Rod
+3E01	Wax
+3F01	Bean Milk
+4001	Gelatinous Oil
+4101	Corundum Stone
+4201	White Obsidian
+4301	Diamond Ball
+4401	Gold
+4501	Soft Metal Rod
+4601	Dried Medical Herb
+4701	Dry Herb
+4801	Tea Leaf
+4901	Honey
+4A01	Golden Nectar
+4B01	Cheese
+4C01	Aged Cheese
+4D01	Fermented Cheese
+4E01	Strong Yarn
+4F01	Steel Yarn Ball
+5001	Cow Cream
+5101	Fluffy Whip
+5201	Detergent
+5301	Adhesion Jelly
+5401	Melt Steel
+5501	Scorching Drink
+5601	Polished Crystal
+5701	Flan Charcoal
+5801	Medical Solution
+5901	Rich Fertilizer
+5A01	Tonic
+5B01	Supplement-Red
+5C01	Supplement-Blue
+5D01	Supplement-Green
+5E01	Supplement-Gold
+5F01	Flower Tree Staff
+6001	Fragrant Staff
+6101	Ebony Staff
+6201	Floral Staff
+6301	Fairy Queen Staff
+6401	Magic Broom
+6501	Fancy Broom
+6601	Charm Broom
+6701	Maiden Broom
+6801	Spirit Broom
+6901	Iron Pickaxe
+6A01	Twisted Pickaxe
+6B01	Alloy Pickaxe
+6C01	Strong Pickax
+6D01	Diamond Pickax
+6E01	Single-Edge Sword
+6F01	Protector Sword
+7001	Glass Blade
+7101	Magic Sword
+7201	Angel Sword
+7301	Hunter Knife
+7401	Ancient Blade
+7501	Bloody Splinter
+7601	Blade of Light
+7701	Whtie Fang
+7801	Glass Ring
+7901	Crystal Ring
+7A01	Star Ring
+7B01	Magic Ring
+7C01	Rainbow Ring
+7D01	Measuring Ladle
+7E01	Metal Stirrer
+7F01	Single Mixer
+8001	Cotton Shirt
+8101	Sturdy Shirt
+8201	Knitted Shirt
+8301	Leather Shirt
+8401	Fur Shirt
+8501	Chain Shirt
+8601	Gold Shirt
+8701	Rainbow Shirt
+8801	Cuirass
+8901	Alloy Plate
+8A01	Magic Plate
+8B01	Crystal Plate
+8C01	Ebony Plate
+8D01	Scale Plate
+8E01	Meteor Plate
+8F01	Success Ring
+9001	Mystery Talisman
+9101	Phoenix Bracelet
+9201	Medical Earring
+9301	Unglazed Charm
+9401	Feather Pin
+9501	Potpourri
+9601	Fur Gloves
+9701	Dragon Scale Icon
+9801	Shadow Cloak
+9901	Soul Trap Chain
+9A01	Silent Shoes
+9B01	Fortune Card
+9C01	Resonance Bell
+9D01	Glass Tiara
+9E01	Grandpa's Notebook
+9F01	General Goods
+A001	Traditional Meds
+A101	Medicinal Cooking
+A201	Alchemy Perfection
+A301	Alchemy Basics
+A401	Useful Bombs
+A501	Elementalors
+A601	Causality of Dusk
+A701	Synthesis Origins
+A801	Life Necessities
+A901	Huntsmen's Life
+AA01	Legendary Witches
+AB01	Noble's Synthesis
+AC01	History of Water
+AD01	Intro to Baking
+AE01	Baking at Home
+AF01	Festive Baking
+B001	Grain Miracles
+B101	World Travels
+B201	Nomadic Life
+B301	Shining Jewels
+B401	Dirty Alchemist
+B501	Amuletopedia
+B601	Forbidden Nocturne
+B701	Life with Cows
+B801	World Treasures
+B901	Original Crafts
+BA01	Glass Factory Info
+BB01	Fragrance Guide
+BC01	Fred's Goodies
+BD01	Craft Book
+BE01	Craft Book
+BF01	Craft Book
+C001	Craft Book
+C101	Old Map
+C201	Delivery Goods
+C301	Candy Pouch
+C401	Flower Oil
+C501	White Petal
+C601	Equinox Petal
+C701	Glass Petal
+C801	Water Lily Petal
+C901	Insectivora Petal
+CA01	Soulsoother Petals
+CB01	Marsh Petal
+CC01	Eclipse Petal
+CD01	Darkness Petal
+CE01	Nimbus Stone
+CF01	Slag Transmitter
+D001	Super Junk
+D101	Flower Crystal
+D201	Caterpillar
+D301	Dragon Talisman
+D401	Flaky Bread
+D501	Conventional Cloth
+D601	Salt Flower
+D701	Handkerchief
+D801	Madder Iron
+D901	Frayed Book
+DA01	Mellow Animal
+DB01	Animal Bread
+DC01	Kitty Bread
+DD01	Stuffed Animal
+DE01	War Trophy
+DF01	Lunch Box
+E001	Cooked Meat
+E101	Cooked Stew
+E201	Used Charcoal
+E301	Flag
+E401	Documents
+E501	Hair Pin
+E601	Glass Vessel
+E701	Weird Rod
+E801	Teddy+Kitty Bread
+E901	Thought Bread
+EA01	Handgun
+EB01	Mini-Magnum
+EC01	Star Magnum
+ED01	Old Gears
+EE01	Polished Gears
+EF01	Shining Gears
+[/IIII]
+
+[PPPP]
+VALUE>PROPERTY
+0000	Force +10%
+0100	Force +20%
+0200	Force +30%
+0300	Recovery +10%
+0400	Recovery +20%
+0500	Recovery +30%
+0600	Critical Lv 1
+0700	Critical Lv 2
+0800	Critical Lv 3
+0900	Auto Activate 20%
+0A00	Auto Activate 30%
+0B00	Auto Activate 50%
+0C00	Stable Effect 20%
+0D00	Stable Effect 30%
+0E00	Stable Effect 50%
+0F00	Stable Rate 20%
+1000	Stable Rate 30%
+1100	Stable Rate 50%
+1200	Amount Created +1
+1300	Price+5%
+1400	Price+10%
+1500	Price+15%
+1600	Price -10%
+1700	Price -20%
+1800	Price -30%
+1900	HP +10
+1A00	HP +15
+1B00	HP +25
+1C00	MP +10
+1D00	MP +15
+1E00	MP +25
+1F00	ATK +3
+2000	ATK +5
+2100	ATK +8
+2200	SPD +5
+2300	SPD +7
+2400	SPD +12
+2500	Stats +2
+2600	Stats +4
+2700	Stats +6
+2800	PH RES +5
+2900	PH RES +7
+2A00	PH RES +12
+2B00	F RES +10
+2C00	F RES +15
+2D00	F RES +25
+2E00	I RES +10
+2F00	I RES +15
+3000	I RES +25
+3100	L RES +10
+3200	L RES +15
+3300	L RES +25
+3400	AIL RES +20
+3500	AIL RES +33
+3600	AIL RES +50
+3700	Skill Power +5%
+3800	Skill Power +7%
+3900	Skill Power +12%
+3A00	Skill Usage -10%
+3B00	Skill Usage -15%
+3C00	Skill Usage -25%
+3D00	Skill Enhance LV1
+3E00	Skill Enhance LV2
+3F00	Skill Enhance LV3
+4000	High Speed LV1
+4100	High Speed LV2
+4200	High Speed LV3
+4300	Continuation LV1
+4400	Continuation LV2
+4500	Continuation LV3
+4600	Big
+4700	Huge
+4800	Monster Size
+4900	Small
+4A00	Tiny
+4B00	Flea Size
+4C00	Cute
+4D00	Loveable
+4E00	Ultimate Cuteness
+4F00	Weird Shape
+5000	Strange Shape
+5100	Avant-Garde Form
+5200	Regular Form
+5300	Beautiful Form
+5400	Geometrical Form
+5500	Hard
+5600	Really Hard
+5700	Super Hard Body
+5800	Soft
+5900	Perky
+5A00	Super Elastic
+5B00	Stinky
+5C00	Really Stinky
+5D00	Fainting in Agony
+5E00	Nice Smell
+5F00	Very Nice Smell
+6000	Superior Smell
+6100	Simple Taste
+6200	Homemade Taste
+6300	Comfort Taste
+6400	Sweet
+6500	Really Sweet
+6600	Super Sweet
+6700	Heavenly Sweet
+6800	Spicy
+6900	Really Spicy
+6A00	Burns Your Tongue
+6B00	Hellish Spicy
+6C00	Some Nutrition
+6D00	Full Nutrition
+6E00	Perfect Nutrition
+6F00	Bitter
+7000	Very Bitter
+7100	Bitter-Spicy
+7200	Very Bitter-Spicy
+7300	Ultimate Bitter
+7400	Sour
+7500	Salty
+7600	Juicy
+7700	Exquisite Taste
+7800	Tasteless
+7900	Slag Specific
+7A00	Spirit Specific
+7B00	Beast Specific
+7C00	Dragon Specific
+7D00	Spark Fruit
+7E00	Burst Fruit
+7F00	Fix Slight Wound
+8000	Fix Wound
+8100	Fix Major Wound
+8200	Fix Fatal Wound
+8300	Stimulant
+8400	Revival
+8500	Recovery
+8600	Unparalyze
+8700	Detoxify
+8800	Rewind Time
+8900	Normalize Body
+8A00	Dark Vision
+8B00	Purification
+8C00	Full of Power
+8D00	Great Vitality
+8E00	Lightweight
+8F00	Sturdy
+9000	Faster
+9100	Explosiveness
+9200	Reinforce Body
+9300	Save Predicament
+9400	Keen Sense
+9500	Monster Calling
+9600	Repel Monster
+9700	Light of Life
+9800	Mythic Potency
+9900	Spirit Blessing
+9A00	Prevent Ailment
+9B00	Death Odor
+9C00	Ancient Taste
+9D00	Healing Water
+9E00	Water Blessing
+9F00	Fire Guard
+A000	Ice Guard
+A100	Lightning Guard
+A200	North Wind Guard
+A300	Mystic Guard
+A400	Earth Guard
+A500	Silver Honey
+A600	Gold Honey
+A700	Fire Power
+A800	Ice Power
+A900	Lightning Power
+AA00	Regenerative
+AB00	Gold Power
+AC00	Mystic Power
+AD00	Oblivion Power
+AE00	Life Power
+AF00	Spirit Power
+B000	Fairy Power
+B100	Light Power
+B200	Time Power
+B300	Diamond Power
+B400	Moon Power
+B500	High Power
+B600	Red Power
+B700	Glass Power
+B800	Ancient Power
+B900	Green Power
+BA00	Power Pour
+BB00	All Power Pour
+BC00	All Soul Pour
+BD00	Hide
+BE00	Show Illusion
+BF00	Virtual Image
+C000	Bean Brightness
+C100	Temperature RES
+C200	Restrain Poison
+C300	Harmful Poison
+C400	Neural Poison
+C500	Weakening Poison
+C600	Visual Poison
+C700	Complex Poison
+C800	Compound Poison
+C900	Lose Power
+CA00	Heavy Body
+CB00	Brittle
+CC00	Exhaustion
+CD00	Scrape Off Life
+CE00	Ability Decline
+CF00	Resonate Alchemy
+D000	Amplify Pain
+D100	Blow Away
+D200	Spirit's Anger
+D300	Burn Easily
+D400	Burn Furiously
+D500	Scorching Flame
+D600	Life Capture
+D700	Sharp Spike
+D800	Dragon Wave
+D900	Suppress Movement
+DA00	Rainbow Light
+DB00	Power Words
+DC00	Protection Words
+DD00	Speed Words
+DE00	Life Words
+DF00	Mind Words
+E000	Soul Words
+E100	Wind Words
+E200	Gale Words
+E300	Acoustic Resonance
+E400	Amplification
+E500	Good Quality
+E600	Quality Change
+E700	Evolve Materials
+[/PPPP]
+[EEEE]
+VALUE>EFFECTS
+0000	PH Damage XS
+0100	PH DamageS
+0200	PH Damage M
+0300	PH Damage L
+0400	F Damage S
+0500	F Damage M
+0600	F Damage L
+0700	I Damage S
+0800	I Damage M
+0900	I Damage L
+0A00	L Damage S
+0B00	L Damage M
+0C00	L Damage L
+0D00	Drop Wood
+0E00	Drop Barrel
+0F00	Drop Slag Statue
+1000	Flammable Liquid
+1100	Poisonous Liquid
+1200	Icy Liquid
+1300	Spark
+1400	Bomb Damage L
+1500	Bomb Damage XL
+1600	Words of Magic
+1700	Mantra of Magic
+1800	Illusion
+1900	Blade of Light
+1A00	Sword of Light
+1B00	Sun Explosion
+1C00	Galaxy Explosion
+1D00	Wall of Magic
+1E00	Beast Hater Odor
+1F00	Hunger Odor
+2000	Beast Down Odor
+2100	Bad Odor
+2200	Irritating Odor
+2300	Freedom Odor
+2400	Stop Movement
+2500	Seal Movement
+2600	Intertwine Foot
+2700	Weaken Foot
+2800	Pose Poison
+2900	Pose Poison+
+2A00	Blind
+2B00	Weak
+2C00	Combined Effect
+2D00	Inflict Burns
+2E00	Widen Wounds
+2F00	Frostbite
+3000	Oily
+3100	Powerless Words
+3200	Fire Words
+3300	Ice Words
+3400	Lightning Words
+3500	Piercing DMG S
+3600	Piercing DMG M
+3700	Piercing DMG L
+3800	Knock Back S
+3900	Knock Back M
+3A00	Knock Back L
+3B00	F RES Decrease
+3C00	I RES Decrease
+3D00	L RES Decrease
+3E00	Mass Produce UP
+3F00	Critical Slow
+4000	Effective Far
+4100	Effective Near
+4200	Soul Shutter
+4300	Burn Away
+4400	Spiritual Shne
+4500	Pure Shine
+4600	Drop of Healing
+4700	Rain of Healing
+4800	Storm of Healing
+4900	HP Recovery XS
+4A00	HP Recovery S
+4B00	HP Recovery M
+4C00	HP Recovery L
+4D00	HP Recovery XL
+4E00	HP Recovery XXL
+4F00	MP Recovery S
+5000	MP Recovery M
+5100	MP Recovery L
+5200	HPMP Recovery S
+5300	HPMP Recovery M
+5400	HPMP Recovery L
+5500	Yummy Heal XS
+5600	Yummy Heal S
+5700	Yummy Heal M
+5800	Yummy Heal L
+5900	Yummy Heal XL
+5A00	Yummy Heal XXL
+5B00	HP Regen S
+5C00	HP Regen M
+5D00	HP Regen L
+5E00	Regen Recovery S
+5F00	Regen Recovery M
+6000	Regen Recovery L
+6100	Major Recovery S
+6200	Major Recovery M
+6300	Major Recovery L
+6400	Heal Blessing S
+6500	Heal Blessing M
+6600	Heal Blessing L
+6700	KO Recovery S
+6800	KO Recovery M
+6900	KO Recovery L
+6A00	KO Recovery XL
+6B00	KO Recovery XXL
+6C00	Recovery Bonus XS
+6D00	Recovery Bonus S
+6E00	Recovery Bonus M
+6F00	Recovery Bonus L
+7000	Max HP Expand S
+7100	Max HP Expand M
+7200	Max HP Expand L
+7300	Refresh
+7400	Clear-Headed
+7500	Awake
+7600	Encouraging
+7700	Energize
+7800	Recover
+7900	Get Warm
+7A00	Get Hot
+7B00	Get Cold
+7C00	Get Sturdy
+7D00	Get Energized
+7E00	Lighter Body
+7F00	Double Speed S
+8000	Double Speed M
+8100	Double Speed L
+8200	Unsavory
+8300	Effect Block
+8400	Force Backup
+8500	Side Effect S
+8600	Side Effect M
+8700	Side Effect L
+8800	Fill Stomach
+8900	Full Stomach
+8A00	Delicious
+8B00	Power of Milk
+8C00	Immunity+
+8D00	Vitality Mold
+8E00	Enhances Power
+8F00	Enhances SPD
+9000	Enhances DEF
+9100	Enhances All
+9200	Enhances Sense
+9300	Boosts Strength
+9400	Boosts Accuracy
+9500	Boosts Sense
+9600	Heat RES Patch
+9700	Cold RES Patch
+9800	Elec. RES Patch
+9900	Cure-Hold
+9A00	Cure-Poison
+9B00	Cure-Ail
+9C00	Cure-Blind
+9D00	Cure-Weak
+9E00	Cure-Slow
+9F00	Cure Ills
+A000	Cure All Ills
+A100	AIL RES S
+A200	AIL RES L
+A300	Stable Mind S
+A400	Stable Mind M
+A500	Stable Mind L
+A600	Improve Body
+A700	Improve Mind
+A800	Improve Sense
+A900	Poison Odor
+AA00	Restraint Odor
+AB00	Exhausting Odor
+AC00	Forbidden Drug
+AD00	Dispersion Drug
+AE00	Devotion Drug
+AF00	Endurance Drug
+B000	Body Protection
+B100	Body Blessing
+B200	Mind Protection
+B300	Mind Blessing
+B400	Power Spell
+B500	Speed Spell
+B600	Protection Spell
+B700	Mind Wall
+B800	PH Wall
+B900	F Wall
+BA00	I Wall
+BB00	L Wall
+BC00	MP Usage XS
+BD00	MP Usage S
+BE00	MP Usage M
+BF00	MP Usage L
+C000	MP Usage XL
+C100	Travel Container
+C200	Fast Walk
+C300	Run
+C400	Like the Wind
+C500	Gather Rate UP
+C600	Gather Rate MAX
+C700	Gather Material+
+C800	Big Basket
+C900	Super Basket
+CA00	Exterme Basket
+CB00	Hard to Take Out
+CC00	Easy to Take Out
+CD00	Phantasmagoric
+CE00	Bring Misfortune
+CF00	Bring Fortune
+D000	Bring Luck
+D100	Avoid Danger
+D200	Obstruction
+D300	Possesses Magic
+D400	Amplify Power
+D500	See Props
+D600	See All Props
+D700	Copy All Props
+D800	Property Copy 1
+D900	Property Copy 2
+DA00	Property Copy 3
+DB00	Property Copy 4
+DC00	Combine Prop
+DD00	Combine All Prop
+DE00	Light Speed
+DF00	Celerity
+E000	Resonance Bell
+E100	Harmony Bell
+E200	Shadow Bell
+E300	Wise Wisdom
+E400	Sage Wisdom
+E500	Fool Wisdom
+E600	Witch's Guard
+E700	Ethereal Shift
+E800	Spirit Conqueror
+E900	Attack Knowledge
+EA00	Attack Secret
+EB00	Harmony Wish
+EC00	Strength Wish
+ED00	Robust Wish
+EE00	Quickness Wish
+EF00	Fast Run
+F000	Lightning Walk
+F100	Dimension Walk
+F200	Draw Out Wit
+F300	Wit Overflow
+F400	Hero Possession
+F500	Ruler Possession
+F600	Slag Specific
+F700	Beast Specific
+F800	Spirit Specific
+F900	Dragon Specific
+FA00	Train Body
+FB00	Train Heart
+FC00	Give Power
+FD00	Give Protection
+FE00	Give Speed
+FF00	Gather Attention
+0001	Unnoticeable
+0101	Muting
+0201	Reduce Soul
+0301	Heal Fragrance
+0401	Regen Speed Up
+0501	Super Regen
+0601	Good Luck Card
+0701	Discovery Card
+0801	Wealthy Card
+0901	Golden Card
+0A01	Scholar Card
+0B01	Wise Man Card
+0C01	Spirit Guard
+0D01	Temperature RES
+0E01	Burning Sand
+0F01	Lightning RES
+1001	Handful of Life
+1101	Dragon Vein
+1201	No Slip
+1301	Power Fill
+1401	View Vital Spot
+1501	Block S
+1601	Block M
+1701	Block L
+1801	Alleviate AIL
+1901	Weaken AIL
+1A01	Cyclic Chain
+1B01	Genesis Power
+1C01	Dragon Aura
+1D01	Damage Chain
+1E01	Absorption Power
+1F01	Power Charge S
+2001	Power Charge M
+2101	Power Charge L
+2201	Call In Success
+2301	F Pursuit
+2401	I Pursuit
+2501	L Pursuit
+2601	Predicament RES
+2701	Team Up Info
+2801	Team Up Secret
+2901	Stand-in Enhance
+2A01	Powerful RES
+2B01	Giant RES
+2C01	Acrobatic
+2D01	Illusional Ghost
+2E01	Evasion Rate UP
+2F01	Weaken Shock
+3001	Protection Aura
+3101	Wall of Chains
+3201	Null Poison
+3301	Null Hold
+3401	Null Weak
+3501	Null Blind
+3601	Null Instant KO
+3701	Null All
+3801	Return to Base
+3901	Move Speed UP
+3A01	Move Speed MAX
+3B01	Damage + 1
+3C01	Damage + 2
+3D01	Damage + 3
+3E01	ATK Down 1
+3F01	ATK Down 2
+4001	ATK Down 3
+4101	PH RES Down 1
+4201	PH RES Down 2
+4301	PH RES Down 3
+4401	SPD Down 1
+4501	SPD Down 2
+4601	SPD Down 3
+4701	Combo Damage 1
+4801	Combo Damage 2
+4901	Combo Damage 3
+4A01	Hold+
+4B01	Poison+
+4C01	Slow+
+4D01	Weak+
+4E01	Blind+
+4F01	Triple Distress+
+5001	Random+
+5101	ATK UP 1
+5201	ATK UP 2
+5301	ATK UP 3
+5401	MP Damage 1
+5501	MP Damage 2
+5601	ATK/DEF/SPD+
+5701	HP Regen S
+5801	HP Regen M
+5901	HP Regen L
+5A01	HP Regen XL
+5B01	HP Regen XXL
+5C01	Critical S
+5D01	Critical M
+5E01	Critical L
+5F01	Critical XL
+6001	Critical XXL
+6101	Evade+ S
+6201	Evade+ M
+6301	Evade+ L
+6401	Evade+ XL
+6501	Evade+ XXL
+6601	Hit+ S
+6701	Hit+ M
+6801	Hit+ L
+6901	Hit+ XL
+6A01	Hit+ XXL
+6B01	Guts S
+6C01	Guts M
+6D01	Guts L
+6E01	Guts XL
+6F01	Guts XXL
+7001	Resist S
+7101	Resist M
+7201	Resist L
+7301	Resist XL
+7401	Resist XXL
+7501	PH Reduce S
+7601	PH Reduce M
+7701	PH Reduce L
+7801	PH Reduce XL
+7901	PH Reduce XXL
+7A01	Fall Back
+7B01	Assist+
+7C01	Transference
+7D01	Null Buff
+7E01	Novice Illusion
+7F01	Skilled Illusion
+8001	Damage Bonus
+8101	Convert Damage
+8201	Power Adjust+
+8301	Rate Adjust+
+8401	Damage+ F
+8501	Damage+ I
+8601	Damage+ L
+8701	Burning Body
+8801	Hunt Knowledge
+8901	Dragon Soul
+8A01	Fix Slight Wound
+8B01	Fix Wound
+8C01	Fix Major Wound
+8D01	Fix Fatal Wound
+8E01	Stimulant
+8F01	Revival
+9001	Recovery
+9101	Unparalyze
+9201	Detoxify
+9301	Rewind Time
+9401	Normalize Body
+9501	Dark Vision
+9601	Purification
+9701	Restrain Poison
+9801	Harmful Poison
+9901	Nueral Poison
+9A01	Weakening Poison
+9B01	Visual Poison
+9C01	Complex Poison
+9D01	Full of Power
+9E01	Great Vitality
+9F01	Lightweight
+A001	Sturdy
+A101	Lose Power
+A201	Heavy Body
+A301	Brittle
+A401	Great Vitality
+A501	Regenerative
+A601	Keen Sense
+A701	Light of Life
+A801	Monster Calling
+A901	Repel Monster
+AA01	Faster
+AB01	Explosiveness
+AC01	Exhaustion
+AD01	Scrape Off Life
+AE01	Reinforce Body
+AF01	Ability Decline
+B001	Mythic Potency
+B101	Hide
+B201	Show Illusion
+B301	Virtual Image
+B401	Resonate Alchemy
+B501	Amplify Pain
+B601	Blow Away
+B701	Spirit's Anger
+B801	Burn Easily
+B901	Burn Furiously
+BA01	Scorching Flame
+BB01	Spirit Blessing
+BC01	Compound Poison
+BD01	Convert Damage
+BE01	Death Odor
+BF01	Power Pour
+C001	All Power Pour
+C101	All Soul Power
+C201	Spirit Power
+C301	Fairy Power
+C401	Light Power
+C501	Time Power
+C601	Diamond Power
+C701	Moon Power
+C801	High Power
+C901	Red Power
+CA01	Glass Power
+CB01	Ancient Power
+CC01	Green Power
+CD01	Red Power 2
+CE01	Spike Blow
+CF01	Blue Spike Blow
+D001	Gold Spike Blow
+[/EEEE]

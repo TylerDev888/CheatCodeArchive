@@ -1,0 +1,822 @@
+^1 = Hash: E0 A8 38 BE D4 35 D6 D5 D6 A5 E5 4B 11 9E 09 CB 2E BA 20 15
+^2 = GameID: SLUS_217.24
+^3 = NAME: SNK Arcade Classics Vol .1
+!Masters:
++Enable Code (MUST BE ON)
+$902B0598 0C0AC10E
+!!
+!Jokers:
++Player 1 Controller
+$003D1742 0000[Joker:PS2]
++Player 2 Controller
+$003D1B42 0000[Joker:PS2]
+!!
+^4 = FILE: Art Of Fighting
++Inf Select Time
+%Credits: lee4
+$013960BD 00000009
+!Player:
+!Player 1:
++Vs Mode - Character Mod
+%Credits: lee4
+$013954CA 000000[CHA]
++Inf HP
+%Credits: lee4
+$013954D4 00000080
++Inf Power
+%Credits: lee4
+$013956AD 00000080
++Invincible
+%Credits: lee4
+$013954D9 00000001
++P2 No HP (p1 Press Start)
+%Credits: lee4
+$D03D1742 0000FFF7
+$013955D4 00000001
+!!
+!Player 2:
++Vs Mode - Character Mod
+%Credits: lee4
+$013955CA 000000[CHA]
++Inf HP
+%Credits: lee4
+$013955D4 00000080
++Inf Power
+%Credits: lee4
+$013957AD 00000080
++No Power
+%Credits: lee4
+$013957AD 00000000
+!!
+!!
+^4 = FILE: Burning Fight
++Inf Time
+%Credits: lee4
+$00F8D00A 00000099
+!Player:
+!Player 1:
++Inf Lives
+%Credits: lee4
+$00F80239 00000009
++Inf HP
+%Credits: lee4
+$00F80228 000000FF
+!!
+!Player 2:
++Inf Lives
+%Credits: lee4
+$00F802B9 00000009
++Inf HP
+%Credits: lee4
+$00F802A8 000000FF
+!!
+!!
+^4 = FILE: Baseball Stars 2
++Inf Time
+%Credits: lee4
+$10F83FE0 0000272F
++Inf Pitches
+%Credits: lee4
+$10F817AC 00000000
+!Players:
+!Player 1:
++Max Pow (player 1 Press L2+r2)
+%Credits: lee4
+$D03D1742 0000FCFF
+$00F8422B 00000063
++Has Score 99 (player 1 Press L2+r2)
+%Credits: lee4
+$D03D1742 0000FCFF
+$00F841FB 00000099
++Player 2 Has No Pow (player 1 Press L2+r2)
+%Credits: lee4
+$D03D1742 0000FCFF
+$00F8422A 00000000
++Player 2 Has No Score (player 1 Press L2+r2)
+%Credits: lee4
+$D03D1742 0000FCFF
+$00F841FA 00000000
+!Pitching:
++3 Balls (player 1 Press Start+up)
+%Credits: lee4
+$D03D1742 0000FFE7
+$00F84234 00000003
++2 Strikes (player 1 Press Start+up)
+%Credits: lee4
+$D03D1742 0000FFE7
+$00F84235 00000002
++2 Outs (player 1 Press Start+up)
+%Credits: lee4
+$D03D1742 0000FFE7
+$00F84232 00000002
+!!
+!Batting:
++No Ball (player 1 Press Start)
+%Credits: lee4
+$D03D1742 0000FFF7
+$00F84234 00000000
++No Strikes (player 1 Press Start)
+%Credits: lee4
+$D03D1742 0000FFF7
+$00F84235 00000000
++No Outs (player 1 Press Start)
+%Credits: lee4
+$D03D1742 0000FFF7
+$00F84232 00000000
+!!
+!!
+*Player 2:
++Max Pow (player 2 Press L2+r2)
+%Credits: lee4
+$D03D1B42 0000FCFF
+$00F8422A 00000063
++Has Score 99 (player 2 Press L2+r2)
+%Credits: lee4
+$D03D1B42 0000FCFF
+$00F841FA 00000099
++Player 1 Has No Pow (player 2 Press L2+r2)
+%Credits: lee4
+$D03D1B42 0000FCFF
+$00F8422B 00000000
++Player 1 Has No Score (player 2 Press L2+r2)
+%Credits: lee4
+$D03D1B42 0000FCFF
+$00F841FB 00000000
+!Pitching:
++3 Balls For P1 (player 2 Press Start+up)
+%Credits: lee4
+$D03D1B42 0000FFE7
+$00F84234 00000003
++2 Strikes (player 2 Press Start+up)
+%Credits: lee4
+$D03D1B42 0000FFE7
+$00F84235 00000002
++2 Outs (player 2 Press Start+up)
+%Credits: lee4
+$D03D1B42 0000FFE7
+$00F84232 00000002
+!!
+!Batting:
++No Ball (player 2 Press Start)
+%Credits: lee4
+$D03D1B42 0000FFF7
+$00F84234 00000000
++No Strikes (player 2 Press Start)
+%Credits: lee4
+$D03D1B42 0000FFF7
+$00F84235 00000000
++No Outs (player 2 Press Start)
+%Credits: lee4
+$D03D1B42 0000FFF7
+$00F84232 00000000
+!!
+!!
+!!
+^4 = FILE: Fatal Fury
+!Player:
+!Player 1:
++Character Mod
+%Credits: lee4
+$00F80338 000000[CH1]
++Inf HP
+%Credits: lee4
+$10F803C0 00006060
++Player 2 No HP (player 1 Press Start)
+%Credits: lee4
+$D03D1742 0000FFF7
+$10F805C0 00000000
+!!
+!Player 2:
++Character Mod
+%Credits: lee4
+$00F80438 000000[CH1]
++Inf HP
+%Credits: lee4
+$10F805C0 00006060
+!!
+!!
+^4 = FILE: King of Fighters '94
+!Player:
+!Player 1:
++Play As Rugal (p1 Press L2+r2)
+%Credits: lee4
+$D03D1742 0000FCFF
+$01807BB8 00000008
++Inf HP
+%Credits: lee4
+$21807BA8 00CF00CF
++Inf Pow
+%Credits: lee4
+$01807BA0 0000007F
+Player 2 No HP (Player 1 Press Start)
+%Credits: lee4
+$D03D1742 0000FFF7
+$21807DA8 00000000
+!!
+!Player 2:
++Play As Rugal (p2 Press L2+r2)
+%Credits: lee4
+$D03D1B42 0000FCFF
+$01807DB8 00000008
++Inf HP
+%Credits: lee4
+$21807DA8 00CF00CF
++Inf Pow
+%Credits: lee4
+$21807DA0 0000007F
++No Pow
+%Credits: lee4
+$01807DA0 00000000
++Player 1 No HP (player 2 Press Start)
+%Credits: lee4
+$D03D1B42 0000FFF7
+$21807BA8 00000000
+!!
+!!
+^4 = FILE: King of the Monsters
++Inf Time
+%Credits: lee4
+$10F817BE 00003F83
+!Player:
+!Player 1:
++Inf HP
+%Credits: lee4
+$00F81872 0000003C
++Max Power
+%Credits: lee4
+$00F818C8 0000000A
+!!
+!Player 2:
++Inf HP
+%Credits: lee4
+$00F81972 0000003C
++Max Power
+%Credits: lee4
+$00F819C8 0000000A
+!!
+!!
+!Enemy Codes
+!Enemy 1:
++No HP (player 1 Press Start)
+%Credits: lee4
+$D03D1742 0000FFF7
+$00F81A72 00000001
+!!
+!Enemy 2:
++No HP (player 1 Press Start)
+%Credits: lee4
+$D03D1742 0000FFF7
+$00F81B72 00000001
+!!
+!!
+^4 = FILE: Last Resort
+!Player:
+!Player 1:
++Inf Lives
+%Credits: lee4
+$00E84939 00000063
++Invincibility
+%Credits: lee4
+$00E80B30 0000007D
++Max Power Ups
+%Credits: lee4
+$00E80B6C 00000004
++Max Speed
+%Credits: lee4
+$00E80B6E 00000005
++Inf Shot
+%Credits: lee4
+$10E80B66 00000000
++Inf Pod Shot
+%Credits: lee4
+$10E80B68 00000000
++Inf Laser
+%Credits: lee4
+$10E80B60 00000000
++Inf Homing (buggy)
+%Credits: lee4
+$10E80B54 00000000
++Inf Grenade
+%Credits: lee4
+$10E80B64 00000000
+!!
+!Player 2:
++Inf Lives
+%Credits: lee4
+$00E84938 00000063
++Invincibility
+%Credits: lee4
+$00E80BB0 0000007D
++Max Power Ups
+%Credits: lee4
+$00E80BEC 00000004
++Max Speed
+%Credits: lee4
+$00E80BEE 00000005
++Inf Shot
+%Credits: lee4
+$10E80BE6 00000000
++Inf Pod Shot
+%Credits: lee4
+$10E80BE8 00000000
++Inf Laser
+%Credits: lee4
+$10E80BE0 00000000
++Inf Homing (buggy)
+%Credits: lee4
+$10E80BD4 00000000
++Inf Grenade
+%Credits: lee4
+$10E80BE4 00000000
+!!
+!!
+^4 = FILE: Magician Lord
++Inf Time
+%Credits: lee4
+$10E80306 00002548
+!Player:
+!Player 1:
++Inf Lives
+%Credits: lee4
+$00E80409 00000009
++Inf HP
+%Credits: lee4
+$00E8040E 00000005
++Inf Power
+%Credits: lee4
+$00E8040D 00000002
++Invincibility
+%Credits: lee4
+$00E80410 0000009F
++Chartacter Type Mod
+%Credits: lee4
+$00E8040C 0000[MOD1]
+!!
+*Player 2
++Inf Lives
+%Credits: lee4
+$00E80509 00000009
++Inf HP
+%Credits: lee4
+$00E8050E 00000005
++Inf Power
+%Credits: lee4
+$00E8050D 00000002
++Invincibility
+%Credits: lee4
+$00E80510 0000009F
++Chartacter Type Mod
+%Credits: lee4
+$00E8050C 0000[MOD1]
+!!
+!!
+^4 = FILE: Metal Slug
+!Player:
+!Player 1:
++Weapon Modifier
+%Credits: lee4
+$01CA4AB8 000000[WE1]
++Infinite Lives
+%Credits: lee4
+$01CA497E 00000065
++Infinite Arms
+%Credits: lee4
+$11CA4ACA 0000FFFF
++Infinite Bombs
+%Credits: lee4
+$01CA4AC9 00000063
++Invincibility
+%Credits: lee4
+$01CA4A8C 000000FF
++Infinite Metal Slug Energy
+%Credits: lee4
+$01CA4BEE 00000030
++Infinite Metal Slug Cannon
+%Credits: lee4
+$01CA4C19 00000063
++Invincibility (metal Slug)
+%Credits: lee4
+$01CA4BCC 000000FF
+!!
+!Player 2:
++Weapon Modifier
+%Credits: lee4
+$01CA4B58 000000[WE1]
++Infinite Lives
+%Credits: lee4
+$01CA4A1E 00000065
++Infinite Arms
+%Credits: lee4
+$11CA4B6A 0000FFFF
++Infinite Bombs
+%Credits: lee4
+$01CA4B69 00000063
++Invincibility
+%Credits: lee4
+$01CA4B2C 000000FF
++Infinite Metal Slug Energy
+%Credits: lee4
+$01CA4C8E 00000030
++Infinite Metal Slug Cannon
+%Credits: lee4
+$01CA4CB9 00000063
++Invincibility (metal Slug)
+%Credits: lee4
+$01CA4C6C 000000FF
+!!
+!!
+^4 = FILE: Neo Turf Masters
++No Wind
+%Credits: lee4
+$114945EA 00000000
+!Player:
+!Player 1:
++Infinite Time
+%Credits: lee4
+$0148E85E 0000001E
++Infinite Strokes
+%Credits: lee4
+$0149460F 00000001
++Infinite Holes
+%Credits: lee4
+$0149AB7B 00000063
+!!
+!Player 1:
++Infinite Time
+%Credits: lee4
+$0148DBFE 0000001E
++Infinite Strokes
+%Credits: lee4
+$01494635 00000001
++Infinite Holes
+%Credits: lee4
+$0149ABDB 00000063
+!!
+!!
+^4 = FILE: Sengoku
+!Player:
+!Player 1:
++Inf Lives
+%Credits: lee4
+$00F7FEBA 00000009
++Inf HP
+%Credits: lee4
+$00F8010C 00000006
++Invincibility
+%Credits: lee4
+$00F80186 00000050
++Enable Transformations
+%Credits: lee4
+$00F8013F 0000000F
++Inf Time Ninja
+%Credits: lee4
+$00F8016C 00000060
++Inf Time Samourai
+%Credits: lee4
+$00F8016E 00000060
++Inf Time Dog
+%Credits: lee4
+$00F80170 00000060
++Permanent Weapons
+%Credits: lee4
+$00F80189 00000004
++Weapons Mod
+%Credits: lee4
+$00F80100 0000[WE2]
+!!
+!Player 2:
++Inf Lives
+%Credits: lee4
+$00F7FEBC 00000009
++Inf HP
+%Credits: lee4
+$00F8020C 00000006
++Invincibility
+%Credits: lee4
+$00F80286 00000050
++Enable Transformations
+%Credits: lee4
+$00F8023F 0000000F
++Inf Time Ninja
+%Credits: lee4
+$00F8026C 00000060
++Inf Time Samourai
+%Credits: lee4
+$00F8026E 00000060
++Inf Time Dog
+%Credits: lee4
+$00F80270 00000060
++Permanent Weapons
+%Credits: lee4
+$00F80289 00000004
++Weapons Mod
+%Credits: lee4
+$00F80200 0000[WE2]
+!!
+!!
+^4 = FILE: Samurai Shodown
++Super Fast Timer
+%Credits: SkillerCMP
+$01590390 00000099
++Stop/Max Timer
+%Credits: SkillerCMP
+$11590390 00009910
+!Players:
+!Player 1:
++Play As Amakusa (press L2+r2)
+%Credits: Lee4
+$D03D1742 0000FCFF
+$01590992 0000000C
++Inf HP Player 1{Only Vs Computer , Does Not Work In 2 Player Mode Gives Both Inf Hp.. Will Look Into It In A Bit}
+%Credits: SkillerCMP
+$200A0000 84440000
+$200A0004 24010080
+$200A0008 14810007
+$200A0010 24440049
+$200A0014 90840000
+$200A0018 14800003
+$200A0020 03E00008
+$200A0024 A4410000
+$200A0028 03E00008
+$200A002C A4480000
+$2017E58C 08028000
+$2017E590 00000000
+!!
+!Player 2:
++Play As Amakusa (press L2+r2)
+%Credits: Lee4
+$D03D1B42 0000FCFF
+$015909B2 0000000C
+!!
+!!
+^4 = FILE: Super Sidekicks 3 The Next Glory
+!Timer:
++Inf Timer (player 1 Hold L2+r2 To End Game)
+%Credits: lee4
+$1189FD82 00000000
+$D03D1742 0000FCFF
+$1189FD82 00000030
+!!
+!Score:
+!Player 1:
++Has Score 99 (player 1 Press Start)
+%Credits: lee4
+$D03D1742 0000FFF7
+$0189FDF3 00000063
++Player 2 Has No Score (player 1 Press Start)
+%Credits: lee4
+$D03D1742 0000FFF7
+$0189FDF7 00000000
+!!
+!Player 2:
++Has Score 99 (player 2 Press Start)
+%Credits: lee4
+$D03D1B42 0000FFF7
+$0189FDF7 00000063
++Player 1 Has No Score (player 2 Press Start)
+%Credits: lee4
+$D03D1B42 0000FFF7
+$0189FDF3 00000000
+!!
+!!
+^4 = FILE: Shock Troopers
+Infinite Time
+%Credits: lee4
+$016B2308 00000099
+!Players:
+!Player 1:
++Infinite Energy
+%Credits: lee4
+$016A97BC 00000080
++Invincibility
+%Credits: lee4
+$016A972E 000000FF
++Infinite Gun Ammo
+%Credits: lee4
+$016B23C2 000000D0
++Infinite Special Ammo Tm1
+%Credits: lee4
+$016B23CA 00000063
++Infinite Special Ammo Tm2
+%Credits: lee4
+$016B23CE 00000063
++Infinite Special Ammo Tm3
+%Credits: lee4
+$016B23D2 00000063
++Always Have Weapons Mod
+%Credits: lee4
+$016B23C0 0000[WE3]
+!Team Member Mods:
+!Team Member 1:
++Special Weapons Mod
+%Credits: lee4
+$016B23C8 0000[WE4]
+!!
+!Team Member 2:
++Special Weapons Mod
+%Credits: lee4
+$016B23CC 0000[WE4]
+!!
+!Team Member 3:
++Special Weapons Mod
+%Credits: lee4
+$016B23D0 0000[WE4]
+!!
+!!
+!!
+!Player 2
++Infinite Energy
+%Credits: lee4
+$016AB7BC 00000080
++Invincibility
+%Credits: lee4
+$016AB72E 000000FF
++Infinite Gun Ammo
+%Credits: lee4
+$016B25C2 000000D0
++Infinite Special Ammo Tm1
+%Credits: lee4
+$016B25CA 00000063
++Infinite Special Ammo Tm2
+%Credits: lee4
+$016B25CE 00000063
++Infinite Special Ammo Tm3
+%Credits: lee4
+$016B25D2 00000063
++Always Have Weapons Mod
+%Credits: lee4
+$016B25C0 0000[WE3]
+!Team Member Mods:
+!Team Member 1:
++Special Weapons Mod
+%Credits: lee4
+$016B25C8 0000[WE4]
+!!
+!Team Member 2:
++Special Weapons Mod
+%Credits: lee4
+$016B25CC 0000[WE4]
+!!
+!Team Member 3:
++Special Weapons Mod
+%Credits: lee4
+$016B25D0 0000[WE4]
+!!
+!!
+!!
+!!
+^4 = FILE: Top Hunter
++Inf Time
+%Credits: lee4
+$014962C8 00000009
+$014962CB 00000099
++Inf HP Player 1 N' 2
+%Credits: SkillerCMP
+$200A0030 80440000
+$200A0034 24010040
+$200A0038 14810005
+$200A0048 03E00008
+$200A004C A0410000
+$200A0050 03E00008
+$200A0054 A0480000
+$2017DC30 0802800C
+$2017DC34 00000000
+!Players:
+!Player 1:
++Inf Lives
+%Credits: lee4
+$01496324 00000064
++Inf Power Ups
+%Credits: lee4
+$01496314 00000005
++Inf HP (stage 1 Only)
+%Credits: lee4
+$0148DB08 00000040
+!!
+!Player 2:
++Inf Lives
+%Credits: lee4
+$01496328 00000064
++Inf Power Ups
+%Credits: lee4
+$01496318 00000005
++Inf HP (stage 1 Only)
+%Credits: lee4
+$0148E708 00000040
+!!
+!!
+^4 = FILE: World Heroes
+!Players:
+!Player 1:
++Play As Geegus (press L2+r2)
+%Credits: lee4
+$D03D1742 0000FCFF
+$0118BC15 00000009
++Infinite Health
+%Credits: lee4
+$0118BC13 00000068
+$0118BC37 00000068
++Player 2 - No Health (player 1 Press Start)
+%Credits: lee4
+$E002FFF7 003D1742
+$0118BD13 00000001
+$0118BD37 00000001
+!!
+!Player 2:
++Play As Geegus (press L2+r2)
+%Credits: lee4
+$D03D1B42 0000FCFF
+$0118BD15 00000009
++Infinite Health
+%Credits: lee4
+$0118BD13 00000068
+$0118BD37 00000068
++Player 1 - No Health (player 2 Press Start)
+%Credits: lee4
+$E002FFF7 003D1B42
+$0118BC13 00000001
+$0118BC37 00000001
+!!
+!!
+^6 = MODS:
+[CHA]
+VALUE>NAME
+00	Ryo Sakazaki 
+01	Robert Garcia 
+02	Ryuhaku Todo 
+03	Jack Turner 
+04	Lee Pai Long 
+05	King 
+06	Micky Rodgers 
+07	John Crawley 
+08	Mr. Big 
+09	Mr. Karate
+[/CHA]
+[CH1]
+VALUE>NAME
+01	Terry Bogard
+02	Andy Bogard
+03	Joe Higashi
+04	Duck King
+05	Richard Myer
+06	Michael Max
+07	Tung Fu Rue
+08	Hwa Jai
+09	Raiden
+0A	Billy Kane
+0B	Geese Howard
+0C	"Reverse" Myer
+0D	"Beast" Tung Fu Rue
+0E	"Drunk" Hwa Jai
+[/CH1]
+[MOD1]
+VALUE>NAME
+000D	Ninja
+0009	Triton
+000E	Samurai
+0005	Dragon
+000A	Atlant
+000F	Mutant
+[/MOD1]
+[WE1]
+VALUE>NAME
+00	Pistol
+01	[S]Shot Gun
+02	[F]Flame Shot
+03	[R]Rocket Launcher
+04	[H]Heavy Machinegun
+[/WE1]
+[WE2]
+VALUE>NAME
+0000	No Weapons
+0001	Red Sphere
+0002	Blue Sphere
+0003	Purple Sphere
+0004	Yellow Sphere
+0005	Unknown Power 1
+0006	Unknown Power 2
+0007	Unknown Power 3
+[/WE2]
+[WE3]
+VALUE>NAME
+0000	Normal Gun 
+0004	Heavy Gun 
+0008	Vulcan Gun 
+000C	3-Way Gun
+0010	Buster Gun 
+0014	Flame Gun 
+0018	Rocket Gun 
+001C	Missile Gun
+0020	Hyper Gun
+[/WE3]
+[WE4]
+VALUE>NAME
+0000	Grenade
+0004	Smoke Can
+0008	Can Gun 
+000C	Boomerang
+0010	Missile L.
+0014	Bow&Arrow
+0018	Chemical
+001C	Bazooka
+[/WE4]

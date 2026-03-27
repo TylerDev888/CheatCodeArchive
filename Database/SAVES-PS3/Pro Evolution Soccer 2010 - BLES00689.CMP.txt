@@ -1,0 +1,12 @@
+^2 = GameID: BLES00689
+^3 = NAME: Pro Evolution Soccer 2010
+^4 = FILE: DATA.BIN
++Update Crc32 For Data.bin (required)
+(Checksum offset is located within the checksum range.)
+$write at 0x000008:00000000
+(Initializing checksum with null bytes)
+(set range:0x000000,0x44DEF7)
+$set pointer:eof+1
+$set range:0x000000,pointer
+$set [hash]:CRC32
+$write at 0x000008:[hash]

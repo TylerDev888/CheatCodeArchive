@@ -1,0 +1,73 @@
+^3 = NAME: Enter The Matrix
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 003CA5EF
+$200C0000 27BDFFF0
+$200C0004 AFA40000
+$200C0008 3C040058
+$200C000C 34845604
+$200C0010 8C810000
+$400C0014 00100001
+$00000000 00000000
+$200C0054 AC810000
+$200C0058 8FA40000
+$200C005C 03E00008
+$200C0060 27BD0010
+$203D3D38 08030000
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$200C0014 34210800
++Ammunition
+%Credits: Xploder
+$200C0018 34210001
++Focus
+%Credits: Xploder
+$200C001C 34210020
+!!
+!Unlock:
++All Weapons
+%Credits: Xploder
+$200C0020 34210002
++Bonus Test Level
+%Credits: Xploder
+$200C0024 34212000
++Multiplayer Fighting
+%Credits: Xploder
+$200C0028 34210280
++Fast Logos
+%Credits: Xploder
+$200C002C 34211000
++Invisibility
+%Credits: Xploder
+$200C0030 34210008
++Silent Movement
+%Credits: Xploder
+$200C0034 34210010
++Fast Focus Refill
+%Credits: Xploder
+$200C0038 34210004
++Turbo Mode
+%Credits: Xploder
+$200C003C 34210040
++Low Gravity
+%Credits: Xploder
+$200C0040 34210400
+$2051EB28 3E4CCCCD
+!!
+!Game Speed:
++1/4 Speed
+%Credits: Xploder
+$204B1104 3E800000
++1/2 Speed
+%Credits: Xploder
+$204B1104 3F000000
++2X Speed
+%Credits: Xploder
+$204B1104 40000000
++4X Speed
+%Credits: Xploder
+$204B1104 40800000
+!!

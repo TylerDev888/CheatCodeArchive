@@ -1,0 +1,53 @@
+^3 = NAME: Garfield - Lasagna World Tour (PAL-M5)
+^2 = GameID: SLES-54817
+!Master Codes:
++Enable Code
+%Credits: lee4
+$90113910 0C044DEC
+!!
++Control The Distance Between Enemy And Garfield During Pursuits {<I>Default: 44BB | The Higher The Value, The Greater The Distance | Side Effect: Garfield Is Never Smashed</I>}
+%Credits: luc-ita
+$20183108 3C1B44BB
+$20183114 449B0800
++Every Teddy Gives 99 Lives {<I>Activate Either &Quot;Every Teddy Gives A Life&Quot; Or &Quot;Every Teddy Gives 99 Lives&Quot;</I>}
+%Credits: luc-ita
+$2017A044 10000003
+$2017A024 00000000
++Every Teddy Gives A Life {<I>Activate Either &Quot;Every Teddy Gives A Life&Quot; Or &Quot;Every Teddy Gives 99 Lives&Quot;</I>}
+%Credits: luc-ita
+$2017A024 00000000
++Garfield Invulnerable {<I>Enemies Hit Garfield Without Causing Damage, Then Stand Still</I>}
+%Credits: luc-ita
+$201595EC 00000000
+$201595F4 00000000
++Inf HP
+%Credits: lee4
+$6026B960 42C80000
+$00020001 00000294
++Inf Lives
+%Credits: lee4
+$6026B960 0000FFFF
+$00010001 00000298
++Inf Teddy Bear
+%Credits: lee4
+$6026B960 0000FFFF
+$00010001 0000029C
++Jump In Mid-Air {<I>Continuously Press X To Jump Or Hold The Button To Levitate</I>}
+%Credits: luc-ita
+$E008BFFF 002EB382
+$60673170 00000000
+$00020001 00000270
+$60673170 00000001
+$00020001 00000274
+$60673170 00000002
+$00020001 00000448
+$60673170 00000001
+$00020001 0000047C
++No Damage Falling From Very High
+%Credits: luc-ita
+$20178718 10000036
++When Dogs Are Hit, They Don't Get Up Again, They Remain Dazed
+%Credits: luc-ita
+$2015A9BC 00000000
+!!
+

@@ -1,0 +1,37 @@
+^3 = NAME: Gradius III & IV (Pal-Unk)
+^2 = GameID: SLES-50038
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0100AA4 0023EDE3
++(M) Must Be On
+%Credits: Codejunkies
+$F023EDE0 0023EDE3
+!!
+!Gradius III:
++Infinite Lives (Alternate)
+%Credits: Codejunkies
+$2012CFD8 24070003
++Infinite Lives (G-III)
+%Credits: Codejunkies
+$11001056 00001000
++Invincible
+%Credits: Codejunkies
+$2013CC70 24100003
++Super Speed (G-III)
+%Credits: Codejunkies
+$1100102C 00000900
+!!
+!Gradius IV:
++Infinite Lives
+%Credits: Codejunkies
+$20185ED4 24020009
++Invincible
+%Credits: Codejunkies
+$201A7CD4 24020020
++Super Speed (G-IV)
+%Credits: Codejunkies
+$108ACD42 00000005
+!!
+!!
+

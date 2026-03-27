@@ -1,0 +1,54 @@
+^3 = NAME: Champions - Return To Arms (Pal-Unk)
+^2 = GameID: SLES-53039
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0354C1C 00354C1F
+$205370B0 52504F49
+$205370B4 30303350
+$205370B8 474D492E
+$205370BC 0000313B
+!!
+!Allocating Abilities Codes:
++Allocate 100 Abilities Points
+%Credits: Codejunkies
+$20227F68 24020064
++Allocate 200 Ability Points
+%Credits: Codejunkies
+$20227F68 240200C8
+!!
++Debug Menu
+%Credits: Codejunkies
+$2041D8E0 00000803
+$004FA7E0 00000001
+$00451380 00000001
+!Quick Level Codes:
++1000 XP Per Kill
+%Credits: Codejunkies
+$201D3EC8 244203E8
++5000 XP Per Kill
+%Credits: Codejunkies
+$201D3EC8 24421388
++10000 XP Per Kill
+%Credits: Codejunkies
+$201D3EC8 24422710
++25000 XP Per Kill
+%Credits: Codejunkies
+$201D3EC8 244261A8
++Max Lvl After 1 Hit
+%Credits: Codejunkies
+$201D3ED0 00000000
+!!
+!To Access The Variables Menu, Select 'Warp' Option After Pausing The Game. Then Press Circle To Go Back To Main Menu this Will Enable The Vars.../options Menus;:
++Infinite Gold
+%Credits: Codejunkies
+$204DA4D4 05F5E0FF
++Infinite Item Use
+%Credits: Codejunkies
+$201C53C8 00000000
++Invulnerability On
+%Credits: Codejunkies
+$00450B0C 00000001
+!!
+!!
+

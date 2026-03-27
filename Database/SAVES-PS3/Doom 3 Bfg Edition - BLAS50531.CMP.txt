@@ -1,0 +1,20 @@
+^2 = GameID: BLAS50531
+^3 = NAME: Doom 3 BFG Edition
+^4 = FILE: _CHECKPT
++Update Md5_xor For _checkpt (required)
+(set range:0x000000,0x0738E6)
+$set pointer:eof-3
+$set range:0x000000,pointer
+$set [hash]:MD5_XOR
+(write at 0x0738E7:[hash])
+$set pointer:eof-3
+$write next (0):[hash]
+^4 = FILE: _STRINGS
++Update Md5_xor For _strings (required)
+(set range:0x000000,0x028005)
+$set pointer:eof-3
+$set range:0x000000,pointer
+$set [hash]:MD5_XOR
+(write at 0x028006:[hash])
+$set pointer:eof-3
+$write next (0):[hash]

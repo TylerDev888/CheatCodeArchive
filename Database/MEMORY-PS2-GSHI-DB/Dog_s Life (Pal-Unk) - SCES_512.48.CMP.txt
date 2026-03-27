@@ -1,0 +1,41 @@
+^3 = NAME: Dog's Life (Pal-Unk)
+^2 = GameID: SCES-51248
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F032CF74 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F032CF74 0032CF77
+!!
+!Debug Codes:
++Character Model Parameters
+%Credits: Codejunkies
+$20791830 00000001
++Display Actors Name
+%Credits: Codejunkies
+$20791824 00000001
++Display Centre Of Entity
+%Credits: Codejunkies
+$2079182C 00000001
++Display Front & Rear Entity
+%Credits: Codejunkies
+$20791828 00000001
++Edge Of Movement Spheres
+%Credits: Codejunkies
+$20791820 00000001
+!!
++Hyper Mode (Press R3)
+%Credits: Codejunkies
+$D0494482 0000FFFB
+$20791504 40000000
++Normal Speed (Press L3+R3)
+%Credits: Codejunkies
+$D0494482 0000FFFA
+$20791504 3F800000
++Slow Motion (Press L3)
+%Credits: Codejunkies
+$D0494482 0000FFFD
+$20791504 3E000000
+!!
+

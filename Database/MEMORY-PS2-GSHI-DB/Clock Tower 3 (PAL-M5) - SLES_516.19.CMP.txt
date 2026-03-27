@@ -1,0 +1,106 @@
+^3 = NAME: Clock Tower 3 (PAL-M5)
+^2 = GameID: SLES-51619
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F1839F00 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F1839F00 01839F03
+!!
+!Boss Battle Codes:
++Infinite Health During Boss Fights
+%Credits: Codejunkies
+$11A57C24 00000320
++Quick Boss Kills
+%Credits: Codejunkies
+$11A58724 00000001
+!!
+!Holy Water Codes:
++Max Holy Water
+%Credits: Codejunkies
+$11943B08 00000008
++Never Have More Than 1 Holy Water Use
+%Credits: Codejunkies
+$E0010001 31943B08
+$11943B08 00000001
++Never Have More Than 2 Holy Water Uses
+%Credits: Codejunkies
+$E0010002 31943B08
+$11943B08 00000002
++Never Have More Than 4 Holy Water Uses
+%Credits: Codejunkies
+$E0010004 31943B08
+$11943B08 00000004
++Never Have More Than 6 Holy Water Uses
+%Credits: Codejunkies
+$E0010006 31943B08
+$11943B08 00000006
+!!
+!Item Codes:
++99 Items Slot 1
+%Credits: Codejunkies
+$0192F8A9 00000063
++99 Items Slot 2
+%Credits: Codejunkies
+$0192F8C1 00000063
++99 Items Slot 3
+%Credits: Codejunkies
+$0192F8D9 00000063
++99 Items Slot 4
+%Credits: Codejunkies
+$0192F8F1 00000063
++99 Items Slot 5
+%Credits: Codejunkies
+$0192F909 00000063
++99 Items Slot 6
+%Credits: Codejunkies
+$0192F921 00000063
++99 Items Slot 7
+%Credits: Codejunkies
+$0192F939 00000063
++99 Items Slot 8
+%Credits: Codejunkies
+$0192F951 00000063
++99 Items Slot 9
+%Credits: Codejunkies
+$0192F969 00000063
++99 Items Slot 10
+%Credits: Codejunkies
+$0192F981 00000063
++99 Items Slot 11
+%Credits: Codejunkies
+$0192F999 00000063
++99 Items Slot 12
+%Credits: Codejunkies
+$0192F9B1 00000063
++Disable Enemy AI
+%Credits: Codejunkies
+$21863D70 03E00008
+$21863D74 00000000
++Pogo Mode
+%Credits: Codejunkies
+$218F6480 03E00008
+$218F6484 00000000
++Walk Through Walls
+%Credits: Codejunkies
+$218B1F40 03E00008
+$218B1F44 00000000
+!!
++Panic Meter Is Always Zero
+%Credits: Codejunkies
+$119436F6 00000000
+!Speed Modifier:
++Hyper Mode
+%Credits: Codejunkies
+$21939980 00000150
++Super Slow Motion
+%Credits: Codejunkies
+$21939980 00000010
+!!
++Stop The Timer
+%Credits: Codejunkies
+$218F2A10 03E00008
+$218F2A14 00000000
+!!
+

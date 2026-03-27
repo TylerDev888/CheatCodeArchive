@@ -1,0 +1,7 @@
+^2 = GameID: BLUS30543
+^3 = NAME: VANQUISH
+^4 = FILE: SAVE2
++Update Xor For Save2 (required)
+$set [hash]:0
+$set [hash]:xor(0x000000,0x0000CB,4)
+$write at 0x0023AC:[hash]

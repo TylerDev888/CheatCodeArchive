@@ -1,0 +1,33 @@
+^2 = GameID: BLES00909
+^3 = NAME: Assassin's Creed: Brotherhood
+^5 = APCRED: GameGenie EU Codes
+(Currently BSD is not compatible with this title. This title has 2nd layer encryption.)
+^4 = FILE: BLUS30537AC2AC2_*\AC2_*.SAV
++Max Money
+$80010004 9141EBAA
+$28000097 FFE0F505
+$80010004 29942444
+$28000097 FFE0F505
++Update Custom Crc32 Ac2_0.sav (required)
+$set crc_bandwidth:32
+$set crc_polynomial:0x4C11DB7
+$set crc_initial_value:0xBAE23CD0
+$set crc_output_xor:0xFFFFFFFF
+$set crc_reflection_input:1
+$set crc_reflection_output:1
+$set [size]:read(0x00,4)
+$set range:0x0008,[size]+7
+$set [hash]:crc
+$write at 0x0004:[hash]
+^4 = FILE: OPTIONS
++Update Custom Crc32 Options (required)
+$set crc_bandwidth:32
+$set crc_polynomial:0x4C11DB7
+$set crc_initial_value:0xBAE23CD0
+$set crc_output_xor:0xFFFFFFFF
+$set crc_reflection_input:1
+$set crc_reflection_output:1
+$set [size]:read(0x00,4)
+$set range:0x0008,[size]+7
+$set [hash]:crc
+$write at 0x0004:[hash]

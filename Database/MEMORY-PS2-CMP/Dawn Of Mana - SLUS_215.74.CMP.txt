@@ -1,0 +1,40 @@
+^1 = Hash: 9DC6EE5A
+^2 = GameID: SLUS_215.74
+^3 = NAME: Dawn Of Mana
+!Masters:
++Enable Code (MUST BE ON){Cb6+/Gs3+/Xp4+}
+$90528218 0C14A02E
+!!
+!Jokers:
++Player 1 Controller (reverse)
+$D0A03F02 0000????
++Player 2 Controller (reverse)
+$D0A03F82 0000????
++Player ? Controller (reverse)
+$D0A04002 0000????
++Player 1 Controller (normal)
+$D0A04070 0000????
++Player 2 Controller (normal)
+$D0A0407C 0000????
++Player ? Controller (normal)
+$D0A04080 0000????
+!!
++Max HP Bar (gain 1 HP Pickup)
+$20111290 24029C40
++Max HP Bar (memory)
+$106C5350 00009C40
++Max Str (memory)
+$106C5354 000061A8
++Max Lucre (when Picked Up)
+$202C0D14 AE04023C
++Max/Inf Lucre
+$206C538C 3B9AC9FF
++Max Lucre Alternative (this Seems To Add To The One Above)
+$206C5414 3B9AC9FF
++Inf HP (fixed)
+$2025E460 08028000
+$200A0000 3C1B42C8
+$200A0004 103B0003
+$200A000C 03E00008
+$200A0014 03E00008
+$200A0018 AEA10178

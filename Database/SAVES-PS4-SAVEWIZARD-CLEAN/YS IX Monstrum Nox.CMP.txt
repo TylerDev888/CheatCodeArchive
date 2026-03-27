@@ -1,0 +1,14 @@
+^2 = GameID: CUSA20414,CUSA15696,CUSA20413,CUSA25482
+^3 = NAME: Ys IX: Monstrum Nox
+^SECONDLAYER: YES
+^4 = FILE: save[0-9]+\user.dat
++Max EXP For All Characters{<div Class="note"><h4>note</H4><ul Class="bullet-List"><li>sw’s Max Level Code Sets Your Character To <strong>level 999</Strong> (above The Legit In-Game Cap Of <strong>99</Strong>).</Li><li>if You Prefer To Level Naturally First And Then Max Out, Use The Alternative Max-Level Code After You’ve Progressed As Desired.</Li><li>you’ll Need To <strong>reapply</Strong> The Code Each Time A New Character Joins The Party.</Li></Ul></Div>}
+%Credits: Zeraf3000
+$95000000 00000118
+$4A000000 4E6E6B28
+$4007004C 00000000
++Max Nox{<div Class="note"><h4>note — Nox Level Boost</H4><ul Class="bullet-List"><li>sets Your Current <strong>nox Level To 200</Strong>.</Li><li>after Activating, Complete <strong>one Side Quest</Strong> Or Defeat A <strong>node</Strong> Scattered Around The City To Unlock The Portal To The Next Area.</Li><li>handy If You Want To Bypass Late-Game Grinding.</Li></Ul></Div>}
+%Credits: Zeraf3000
+$80020004 6D61702F
+$93000000 00000010
+$28000000 43480000

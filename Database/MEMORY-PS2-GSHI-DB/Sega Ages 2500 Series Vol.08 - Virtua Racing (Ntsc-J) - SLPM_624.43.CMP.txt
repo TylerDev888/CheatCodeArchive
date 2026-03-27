@@ -1,0 +1,25 @@
+^3 = NAME: Sega Ages 2500 Series Vol.08 - Virtua Racing (Ntsc-J)
+^2 = GameID: SLPM-62443
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$901B2EAC 44800800
+!!
++Infinite Time
+%Credits: Codejunkies
+$E0020800 001B2EAC
+$D01B2EAE 00004480
+$201B2F94 E4625F88
++Low Lap Time
+%Credits: Codejunkies
+$E0020800 001B2EAC
+$D01B2EAE 00004480
+$201B2FD0 E622016C
++Opponents Don't Move
+%Credits: luc-ita
+$2014A1AC 00000000
++Time Freezed
+%Credits: luc-ita
+$201AF4C0 1000005C
+!!
+

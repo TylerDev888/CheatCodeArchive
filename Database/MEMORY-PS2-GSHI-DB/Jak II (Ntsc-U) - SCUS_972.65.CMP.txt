@@ -1,0 +1,258 @@
+^3 = NAME: Jak II (Ntsc-U)
+^2 = GameID: SCUS-97265
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$40116F0C 00180001
+$00000000 00000000
+$10116F6C 00000000
+$00116F6E 00000000
+$00108E00 00000000
+$F0100020 00100023
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0011F49B
+$200FF000 3C012000
+$200FF004 03212025
+$200FF008 3C053C04
+$200FF00C 34A50008
+$200FF010 24062000
+$200FF014 8C830000
+$200FF018 14650002
+$200FF01C 34630004
+$200FF020 AC830000
+$200FF024 24C6FFFC
+$200FF028 1CC0FFFA
+$200FF02C 24840004
+$200FF030 03200008
+$200FF034 00000000
+$201085A8 0C03FC00
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$9011F498 0C047CCE
+$200FF000 3C012000
+$200FF004 03212025
+$200FF008 3C053C04
+$200FF00C 34A50008
+$200FF010 24062000
+$200FF014 8C830000
+$200FF018 14650002
+$200FF01C 34630004
+$200FF020 AC830000
+$200FF024 24C6FFFC
+$200FF028 1CC0FFFA
+$200FF02C 24840004
+$200FF030 03200008
+$200FF034 00000000
+$201085A8 0C03FC00
++[M] Must Be On
+%Credits: MadCatz
+$F0100008 0012002B
+$200FFFF0 3C032008
+$200FFFF4 3C028D0C
+$200FFFF8 03E00008
+$200FFFFC AC620040
+$201034A4 0803FFFC
+!!
++Activate Cheat Modifier {<I>0007001 - Toggle Jak&#39;S Goatee 00007002 - Mirror World 00007004 - Unlimited Ammo 00007008 - Invulnerability 00007010 - Unlimited Dark Jak 0000701C - Kix Ass Jak 00017000 - Big Head Mode 00027000 - Small Head Mode</I>}
+%Credits: Code Master
+$20622F40 ????????
+!Activate Single Cheat Modifier Codes (CB V7.0 Or Higher Needed!):
++Activate Single Cheat Modifier Codes (CB V7.0 Or Higher Needed!) Note {<I>With These Codes, You Can Activate More Than One At A Time, And You Must Have Code Breaker V7.0 Or Higher To Use Them.</I>}
+%Credits: NA
+N/A
++Big Head Mode
+%Credits: Code Master
+$70622F42 00000001
++Invulnerability
+%Credits: Code Master
+$70622F40 00000008
++Mirror World
+%Credits: Code Master
+$70622F40 00000002
++Small Head Mode
+%Credits: Code Master
+$70622F42 00000002
++Toggle Jak's Goatee
+%Credits: Code Master
+$70622F40 00000001
++Unlimited Ammo
+%Credits: Code Master
+$70622F40 00000004
++Unlimited Dark Jak
+%Credits: Code Master
+$70622F40 00000010
+!!
++Have All Items, Daxter, Dark Jak And All Dark Jak Moves, All Guns, Hoverboard, And Whatever Else [Saveable]
+%Credits: bungholio
+$20622F30 07DDF7E0
++Infinite Ammo (Scatter Gun)
+%Credits: Code Master
+$20622F58 42480000
++Infinite Double Jumps
+%Credits: bungholio
+$D0128182 0000BFFF
+$101978A0 00001007
++Infinite Health
+%Credits: Code Master
+$2019C5C0 41000000
++Infinite Health
+%Credits: Codejunkies
+$20116F0C 3C03201A
+$20116F10 3C024100
+$20116F14 AC62C5C0
++Infinite: Air (3Rd Titan Suit)
+%Credits: MadCatz
+$200FFFA0 3C013F80
+$200FFFA4 44810800
+$200FFFA8 44830000
+$200FFFAC 086A8267
+$200FFFB0 E6C100A0
+$21AA0994 0803FFE8
++Infinite: Ammo
+%Credits: MadCatz
+$207F0120 00000000
++Infinite: Dark Eco
+%Credits: MadCatz
+$20622F28 42C80000
++Infinite: Health
+%Credits: MadCatz
+$207EE590 00000000
++Infinite: Health (1St Titan Suit)
+%Credits: MadCatz
+$200FFF80 C46100CC
+$200FFF84 46000806
+$200FFF88 0838C78B
+$200FFF8C E46000C8
+$20E31E24 0803FFE0
++Infinite: Health (2Nd Titan Suit)
+%Credits: MadCatz
+$200FFF90 C46100CC
+$200FFF94 46000806
+$200FFF98 0868EC8B
+$200FFF9C E46000C8
+$21A3B224 0803FFE4
++Infinite: Health (3Rd Titan Suit)
+%Credits: MadCatz
+$200FFF60 C46100CC
+$200FFF64 46000806
+$200FFF68 086A1CFF
+$200FFF6C E46000C8
+$21A873FA 0803FFD8
++Infinite: Health (Drill Platform)
+%Credits: MadCatz
+$200FFF70 3C014180
+$200FFF74 44810000
+$200FFF78 084F6909
+$200FFF7C E6C001FC
++Infinite: Health (Gun Turret)
+%Credits: MadCatz
+$2013DB10 3C01CFCD
++Infinite: Metal Head Skull Gems
+%Credits: MadCatz
+$20622F14 4B18967F
+$20622F18 4B18967F
++Infinite: Precursor Orbs
+%Credits: MadCatz
+$20622F1C 4B18967F
+$20622F20 4B18967F
+!Language Modifier Codes:
++English
+%Credits: Code Master
+$A01108B0 03E00008
+$A01108B4 24020001
++French
+%Credits: Code Master
+$A01108B0 03E00008
+$A01108B4 24020002
++German
+%Credits: Code Master
+$A01108B0 03E00008
+$A01108B4 24020004
++Italian
+%Credits: Code Master
+$A01108B0 03E00008
+$A01108B4 24020005
++Japanese
+%Credits: Code Master
+$A01108B0 03E00008
+$A01108B4 24020000
++Portuguese
+%Credits: Code Master
+$A01108B0 03E00008
+$A01108B4 24020007
++Spanish
+%Credits: Code Master
+$A01108B0 03E00008
+$A01108B4 24020003
+!!
+!Limit Max Health:
++25%
+%Credits: MadCatz
+$200FFFB4 3C014000
++50%
+%Credits: MadCatz
+$200FFFB4 3C014080
++75%
+%Credits: MadCatz
+$200FFFB4 3C0140C0
++Health Limit Enable Code (Must Be On For The Following 3 Codes)
+%Credits: MadCatz
+$200FFFB0 C461004C
+$200FFFB8 4481B800
+$200FFFBC 4601B834
+$200FFFC0 45030001
+$200FFFC4 4600B846
+$200FFFC8 E461004C
+$200FFFCC 0827F485
+$200FFFD0 46010002
+$209FD10C 0803FFEC
+$209FD110 3C014100
+!!
++Max Gems
+%Credits: Codejunkies
+$20116F18 3C032062
+$20116F1C 3C024461
+$20116F20 AC622F14
++Max Metal Head Skull Gems (Current)
+%Credits: Code Master
+$20622F14 4479C000
++Max Orbs
+%Credits: Codejunkies
+$20116F28 3C032062
+$20116F2C 3C024461
+$20116F30 AC622F20
++Max Precursor Orbs (Current)
+%Credits: Code Master
+$20622F1C 43480000
++Max Precursor Orbs (Overall)
+%Credits: Code Master
+$20622F20 43480000
++Max Score (Scatter Gun Course)
+%Credits: Code Master
+$201C01E0 0001869F
++No Clipping - L3 + Up To Enable, L3 + Down To Disable {<I>You Can Go Through Almost Anything, Including Floors, Which Is Why You&#39;Ll Want To Turn It Off And Use It With Infinite Double Jumps Or You&#39;Ll Just Fall Through The Floor.</I>}
+%Credits: bungholio
+$D0128182 0000FFED
+$10197814 0000FFFF
+$D0128182 0000FFBD
+$10197814 00000011
+!Protect Sig at Pumping Station:
++Infinite Health(Sig) Press Select On, L3 Off {<I>Global Pointer(Just For Show) 006230B8</I>}
+%Credits: Azagthoth
+$D0128180 0000FFFE
+$20DC3AAC 00000000
+$D0128180 0000FFFD
+$20DC3AAC E4600204
+!!
++Unlock All Secrets
+%Credits: Code Master
+$20622F48 FFFFFFFF
+$2080A704 FFFFFFFF
+$2080C894 FFFFFFFF
+$2080EDD4 FFFFFFFF
+$2080F624 FFFFFFFF
+$20813964 FFFFFFFF
+$20819214 FFFFFFFF
+!!
+

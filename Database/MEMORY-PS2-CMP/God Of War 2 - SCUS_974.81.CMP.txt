@@ -1,0 +1,681 @@
+^2 = GameID: SCUS_974.81
+^3 = NAME: God Of War 2
+!Master Code:
++Enable Code{<span Class="note">MUST BE ON Cb6+/Gs3+/Xp4+</Span>}
+$902B7B60 0C0B1AB3
++Enable Code{<span Class="note">MUST BE ON Cb6+/Gs3+/Xp4+</Span>}
+$902D2560 0C0B4900
++Enable Code{<span Class="note">MUST BE ON Cb/Gs/Xp</Span>}
+$F02B7B60 002B7B63
++Enable Code{<span Class="note">MUST BE ON Ar Max Game Id: 0a07</Span>}
+$F018890C 0018890F
++Enable Code{<span Class="note">MUST BE ON Cb/Gs/Xp</Span>}
+$F01463CC 0000000E
++Enable Code{<span Class="note">MUST BE ON Ar2v2/Gs2v2</Span>}
+$0E3C7DF2 1456E7A5
+$F02B7B60 002B7B63
++Enable Code{<span Class="note">MUST BE ON Ar2v2/Gs2v2</Span>}
+$0E3C7DF2 1456E7A5
+$F018890C 0018890F
+!!
+!Jokers:
++Max Reverse Joker Command For Controller 1
+%Credits: SkillerCMP
+$D032F45C 0000[Joker:PS2]
++Max Reverse Joker Command For Controller 2
+$D032F61C 0000[Joker:PS2]
+!!
+Thou Shall Die{<span Class="note">hold L3 To Kill Enemys Around U) (not Seeming To Work On Bosses Needs More Testing - Do Not Press Button When Picking Up Hp Your Self</span>}
+$D032F45C 0000FFFD
+$2021BEA8 08028000
+$D032F45C 0010FFFD
+$2021BEA8 03E00008
+$200A0000 102F0002
+$200A0004 00000000
+$200A0008 AC800178
+$200A000C 03E00008
++Power Up Mod
+$00335870 000000[PUP]
++Infinite Amulet Of The Fates Power{<span Class="note">press Up On D-Pad</Span>}
+%Credits: Codejunkies:Original-Code>Lee4:FIXED
+$D032F45C 0000FFEF
+$20335844 42C80000
++Unlock Everything In Treasure Room{<div Class="includes"><h4>includes:</H4><ul Class="bullet-List"><li>all Cyclops Eyes (to Unlock Treasure Room)</Li><li>enable Bonus Play In All Difficulty Levels</Li><li>all Costumes</Li><li>all Gorgon Eyes (max Health Bar)</Li><li>all Phoenix Feathers (max Magic Bar)</Li><li>all Weapons, All Magics, And All Urns</Li></Ul><h5>about The Unlock Everything In Treasure Room Code</H5><ul Class="bullet-List"><li>load Your Save, Re-Save It, Then Quit The Game.</Li><li>start New Game; A Sword Icon Should Appear Beside The Difficulty Levels.</Li></Ul></Div>}
+%Credits: Codejunkies:Original-Code>Lee4:FIXED
+$102D90BC 0000FFFF
++Always Low Total Play Time
+%Credits: SkillerCMP
+$202D86E8 00000000
++Max/Inf Redorbs
+%Credits: SkillerCMP
+$20335850 000F423F
++Have All Magic/Moves
+%Credits: SkillerCMP
+$20335834 FFFFFFFF
++Infinite Magic
+%Credits: SkillerCMP
+$20335840 43480000
+$2033583C 43C80000
++Run Speed Mods
+%Credits: SkillerCMP
+20AEE0D0 [Amount:40F00000:FLOAT:BIG]
++Infinite Health
+%Credits: CMX
+$20213760 C440017C
+$20213768 E4400178
++Infinite Magic Usage
+%Credits: CMX
+$20216514 00000000
++Game Speed Modifier{<span Class="note">p1 Press L1+up For ?????</Span>}
+%Credits: CMX
+$D032F45C 0000FBEF
+$202D80BC [Amount:40800000:FLOAT:BIG]
+!Max Power-Up Level Codes
++Athena's Blade
+%Credits: CMX
+$2071C3E4 000000[BLADE]
++Atlas Quake
+%Credits: CMX
+$2071C3E8 00000002
++Poseidon's Rage
+%Credits: CMX
+$2071C3F0 00000002
++Head Of Euryale
+%Credits: CMX
+$2071C3F4 00000002
++Typhon's Bane
+%Credits: CMX
+$2071C3F8 00000002
++Spear Of Destiny
+%Credits: CMX
+$2071C3FC 00000004
++Barbarian Hammer
+%Credits: CMX
+$2071C400 00000002
++Blade Of Olympus
+%Credits: CMX
+$2071C404 00000002
+!!
++Infinite Rage Of The Titans
+%Credits: Codejunkies
+$20335848 42C80000
++Weapons Can Turn Enemies To Stone
+%Credits: Codejunkies
+$002D86B0 00000001
++10x Orb Multiplier
+%Credits: Codejunkies
+$002D86B8 00000001
++Extend Combo Time
+%Credits: Codejunkies
+$002D86BC 00000001
++Replace Chrono' Rage With Posedion's Rage
+%Credits: Codejunkies
+$002D86B4 00000001
++Have All Gorgon Eyes
+%Credits: Codejunkies
+$00335876 00000012
++Have All Phoenix Feathers
+%Credits: Codejunkies
+$00335877 00000012
++Have All Cyclops Eyes
+%Credits: Codejunkies
+$0033587C 00000014
+!Hyper Mode Codes:
++Hyper Mode{<span Class="note">r3+right</Span>}
+%Credits: Codejunkies
+$D032F45C 0000FFDB
+$2018A238 3C0141E0
++Quicker Game{<span Class="note">r3+up</Span>}
+%Credits: Codejunkies
+$D032F45C 0000FFEB
+$2018A238 3C014230
++Slow Motion{<span Class="note">r3+down</Span>}
+%Credits: Codejunkies
+$D032F45C 0000FFBB
+$2018A238 3C014300
++Normal Speed{<span Class="note">r3+left</Span>}
+%Credits: Codejunkies
+$D032F45C 0000FF7B
+$2018A238 3C014270
+!!
+!Game Difficulty Modifier:{<span Class="note">activating These Codes Will Also Allow You To Save The Difficulty Changes!</Span>}
+L3 + DOWN: Mortal - Easy
+%Credits: Codejunkies
+$D032F45C 0000FFBD
+$002D86E0 00000000
+L3 + LEFT: Spartan - Normal
+%Credits: Codejunkies
+$D032F45C 0000FF7D
+$002D86E0 00000001
+L3 + RIGHT: God - Hard
+%Credits: Codejunkies
+$D032F45C 0000FFDD
+$002D86E0 00000002
+L3 + UP: Titan - Very Hard
+%Credits: Codejunkies
+$D032F45C 0000FFED
+$002D86E0 00000003
+!!
+!Player Status Codes:
+!Total Play Time:
++Max Total Play Time
+%Credits: Codejunkies
+$202D86E8 0003CA50
++Low Total Play Time
+%Credits: Codejunkies
+$202D86E8 00000000
+!!
+!Total Deaths:
++Max Total Deaths
+%Credits: Codejunkies
+$2036B0C8 3B9AC9FF
++No Total Deaths
+%Credits: Codejunkies
+$2036B0C8 00000000
+!!
+!Total Kills:
++Max Total Kills
+%Credits: Codejunkies
+$2036B108 3B9AC9FF
++No Total Kills
+%Credits: Codejunkies
+$2036B108 00000000
+!!
+!Total Saves:
++Max Total Saves
+%Credits: Codejunkies
+$2036B0CC 3B9AC9FF
++No Total Saves
+%Credits: Codejunkies
+$2036B0CC 00000000
+!!
+!TOTAL BRUTAL KILLS
++Max Brutal Kills
+%Credits: Codejunkies
+$2036B10C 3B9AC9FF
++No Brutal Kills
+%Credits: Codejunkies
+$2036B10C 00000000
+!!
+!Max Combo:
++Max Maximum Combo
+%Credits: Codejunkies
+$2036B0F4 3B9AC9FF
++No Maximum Combo
+%Credits: Codejunkies
+$2036B0F4 00000000
+!!
+!Dismember Kills:
++Max Dismember Kills
+%Credits: Codejunkies
+$2036B114 3B9AC9FF
++No Dismember Kills
+%Credits: Codejunkies
+$2036B114 00000000
+!!
+!Red Orbs Collected:
++Max Red Orbs Collected
+%Credits: Codejunkies
+$2036B0D8 3B9AC9FF
++No Red Orbs Collected
+%Credits: Codejunkies
+$2036B0D8 00000000
+!!
+!Shatter Kills:
++Max Shatter Kills
+%Credits: Codejunkies
+$2036B118 3B9AC9FF
++No Shatter Kills
+%Credits: Codejunkies
+$2036B118 00000000
+!!
+!!
++Costume Modifier{<span Class="note">only Seems To Work On A New Game,not Sure Though.</Span>}
+%Credits: FloydFan
+$0071C3AC 000000[COST]
++Unlock All Costumes{<span Class="note">code Doesnt Save,but The Costume You Chose Will As Far As Playing Thru The Game,but It Wont Be Unlocked Without The Code Or Unlocking It Thru Normal Means</Span>}
+%Credits: FloydFan
+$4071C36C 00070001
+$00000001 00000000
++All Challenges Unlocked
+%Credits: FloydFan
+$2071C2E0 00000007
++Sub Weapon Modifier
+%Credits: FloydFan
+$2071C420 000000[SUB]
++Infinite Double Jumps{<span Class="note">r2+x=on/R2+triangle=off- Also They Infinite Double Jumps Code Caused Problems In The Original Game Too,i Think Problems Begin When You Dont Activate The Games Programmed Camera Angles By Jumping Past Or Over Them With The Code,try To Use It Only When You Need It,or Use It Wisely,like Jumping To All Three Platforms On The Bog Instead Of Jumps Straight Across,if You Notice The Camera Has "lost" You Go Back And Try To Get It To "find" You Again By Jumping To Normal Gameplay Areas.</Span>}
+%Credits: FloydFan
+$D032F45C 0000BDFF
+$2022662C 00000000
+$D032F45C 0000EDFF
+$2022662C ACC20378
++Skip Fmvs{<span Class="note">press Select</Span>}
+%Credits: FloydFan
+$D032F45C 0010FFFE
+$202AC060 8C620000
+$D032F45C 0000FFFE
+$202AC060 24020001
++Enemies Die Instantly{<span Class="note">r2+right=on/R2+left=off - Dont Know If It Works On Bosses Or Higher Difficulty Levels,also I Believe This Code Is Very Similiar To Skillers,but I Posted It Anyway,i Made A Code Like This For The Original And It Didnt Work On High Difficulties,but It Made The Enemies Always Stuck In Their Injured Animation.</Span>}
+%Credits: FloydFan
+$D032F45C 0000FDDF
+$2036B5C0 00000000
+$D032F45C 0000FD7F
+$2036B5C0 0000003C
++Combo Milestone For Every Hit{<span Class="note">every Successive Hit Will Activate The Combo Message Progression,1 Hit=vicious!/2 Hits=sadistic! Etc.,you Should Start Seeing The Secrets Messages At About 21 Hits With This Code</Span>}
+%Credits: FloydFan
+$E002000A 0068FD2C
+$4068FD2C 00280001
+$00000001 00000001
++Get Max Orb Bonus For All Combo Milestones
+%Credits: FloydFan
+$E0020002 0068FBEC
+$4068FBEC 00140002
+$000A270F 00010000
++Kratos Does Most Context Sensitive Button Moves Automatically{<span Class="note">after You Enter Into One In Battle By Pressing Circle -Note:most Button Symbols Dont Even Appear On Screen,just Sit Back And Watch Kratos Perform Them.the Rapid Button Press Does Appear On Screen But You Dont Have To Do It,kratos Will Always Win.i Havent Tested This In All Situations So Problems May Occur,i Have Tested It Against A Few Enemies And The Barbarian Boss And It Worked Flawlessly. The Code Doesnt Seem To Work On Doors Though.</Span>}
+%Credits: FloydFan
+$201AA470 03E00008
+$201AA474 00000000
+$201A9F00 03E00008
+$201A9F04 00000000
++Infinite Combo Time{<span Class="note">r2+up=on/R2+down=off - Even If You Get Hit</Span>}
+%Credits: FloydFan
+$D032F45C 0000FDEF
+$202137CC 2402FFC3
+$D032F45C 0000FDBF
+$202137CC 2402FFFD
++Refill Health By Getting Hit{<span Class="note">hold R3 While Getting Hit</Span>}
+%Credits: FloydFan
+$D032F45C 0000FFFB
+$2021BEA4 46016328
+$D032F45C 0010FFFB
+$2021BEA4 46016329
++Enemies Spawn & Attack In Larger Numbers
+%Credits: FloydFan
+$202D80F4 000000FF
++Infinite Health{<span Class="note">l3=on/R3=off</Span>}
+%Credits: FloydFan
+$D032F45C 0000FFFD
+$202D86A4 00000001
+$D032F45C 0000FFFB
+$202D86A4 00000000
++Infinite Health{<span Class="note">always On</Span>}
+%Credits: FloydFan
+$202D86A4 00000001
++Cant Be Killed By Being Turned To Stone{<span Class="note">r1+l1+up=on/R1+l1+down=off - You Still Have To Wiggle Out Of The Frozen State But If You Get Hit Before You Can You Wont Die.you Also Visually Wont Turn To Stone. Enemies Too When On</Span>}
+%Credits: FloydFan
+$D032F45C 0000F3EF
+$201BC300 03E00008
+$201BC304 00000000
+$D032F45C 0000F3BF
+$201BC300 27BDFF90
+$201BC304 7FB40020
++Have 19 Cyclops Eyes{<span Class="note">press L1+r1+l2+r2+up - Also About The Cyclops Eye Code I Know The Problem Is Having All Of Them,meaning The Game Takes Notice Of Your 20th Eye The Moment It Happens And Asks If You Want To Save.the Problem Is That Having 20 Eyes With A Code Doesnt Seem To Truly Trigger The Games Costume Unlocking For It,its Already Done And The Event Didnt Happen With The Code For 20 Eyes,theres Probably Another Code Needed To Trigger The Event.but You Can Fix This By Giving Yourself 19 Eyes With The Code And You Need To Collect Just 1 More.ill Post That Code To Do That And Add To Skillers Code Another Code Address For Cyclops Eyes,thats What I Used When I Tried It.here It Is And It Must Have The Joker Command I Will Include,after You Activate The Joker Command Dont Press That Combination Of Buttons Again After You Collect The 20th Eye.</Span>}
+%Credits: FloydFan>SkillerCMP
+$E002F0EF 0032F45C
+$0033587C 00000013
+$0071C200 00000013
++Kratos Does Most Context Sensitive Button Moves Automatically{<span Class="note">r1+l1+right=on/R1+l1+left=off - After You Enter Into One In Battle By Pressing Circle</Span>}
+%Credits: FloydFan
+$E004F3DF 0032F45C
+$201AA470 03E00008
+$201AA474 00000000
+$201A9F00 03E00008
+$201A9F04 00000000
+$E004F37F 0032F45C
+$201AA470 27BDFFD0
+$201AA474 7FB10010
+$201A9F00 27BDFF80
+$201A9F04 7FB50010
++Unlock All Difficulties & Bonus Plays{<span Class="note">also Have All Urns,gorgon Eyes & Phoenix Feathers When You Select Bonus Play - Again This Code Doesn't Save Except For The Save You Make It Will Be What You Chose</Span>}
+%Credits: FloydFan
+$0071C388 00000003
+!Various Speed Modifiers:{<span Class="note">note: If Advice Using The Codes With Joker Commands And With All The Codes The Game Will Automatically Give Back The Default Speed Of The Different Modifiers,you Dont Have To Use A Separate Joker Command To Return The Default Speed To Any Of The Codes,as Long As The Buttons Are Being Held The Speed Youve Chose Will Be In Effect,when You Let Go The Speed Will Return To Normal.</Span>}
++Enemy Speed{<span Class="note">gameplay Can Get Screwed Up If You Reverse Or Use Stop Too Often Or For Too Long,also Making Enemies Always Move Slow May Prevent Certain Things From Happening When They Need Too,use With Joker Commands.</Span>}
+%Credits: FloydFan
+$202D80CC [Amount:40000000:FLOAT:BIG]
++Kratos{<span Class="note">can Go In Reverse But Very Soon After Youll Get Into Trouble,this Isnt A Prince Of Persia Game,kratos Previous Actions Dont Have A Long Memory Bank,a Very,very Short Memory Actually.</Span>}
+%Credits: FloydFan
+$202D80D0 [Amount:40000000:FLOAT:BIG]
+Speed Of Events & Some Effects {<span Class="note">this Code Can Cause Trouble,like Other Events Can Get Screwed Up If You Use It Thru A Series Of Events.you Can Also Stop Or Reverse Effects When You Use With A Joker Command,but This Is Even More Likely To Cause Problems,stopping Isnt So Bad,you Can Stop Doors From Closing Or Other Things That Have A Timed Nature.again Be Careful And Dont Use This Code Often Or Without A Joker And Id Stay Away From Reversing Unless Youre Just Messing Around And Not Trying To Get Thru The Game.</span>}
+%Credits: FloydFan
+$202D80C8 [Amount:40000000:FLOAT:BIG]
+!!
+!Difficulty Attribute Modifiers:
+!Easy Difficulty Mods:
++Power
+%Credits: FloydFan
+$2068FA6C [Amount:40000000:FLOAT:BIG]
++Armor
+%Credits: FloydFan
+$2068FA70 [Amount:3F000000:FLOAT:BIG]
++Enemy Pressure
+%Credits: FloydFan
+$2068FAA0 [Amount:3F800000:FLOAT:BIG]
++Enemy Recovery
+%Credits: FloydFan
+$2068FA9C [Amount:40000000:FLOAT:BIG]
+!Orb Worth Codes:
++Health
+%Credits: FloydFan
+$2068FA78 [Amount:40000000:FLOAT:BIG]
++Magic
+%Credits: FloydFan
+$2068FA7C [Amount:40000000:FLOAT:BIG]
++Titan
+%Credits: FloydFan
+$2068FA80 [Amount:3FC00000:FLOAT:BIG]
++Red Orbs Worth
+%Credits: FloydFan
+$2068FA84 [Amount:40000000:FLOAT:BIG]
++Rage Of Titans Meter Drain
+%Credits: FloydFan
+$2068FA88 [Amount:3F400000:FLOAT:BIG]
+!!
+!!
+!Normal Difficulty Mods:
++Power
+%Credits: FloydFan
+$2068FAA4 [Amount:3F800000:FLOAT:BIG]
++Armor
+%Credits: FloydFan
+$2068FAA8 [Amount:3F800000:FLOAT:BIG]
++Enemy Pressure
+%Credits: FloydFan
+$2068FAD8 [Amount:3F800000:FLOAT:BIG]
++Enemy Recovery
+%Credits: FloydFan
+$2068FAD4 [Amount:3F800000:FLOAT:BIG]
+!Orb Worth Codes:
++Health
+%Credits: FloydFan
+$2068FAB0 [Amount:40000000:FLOAT:BIG]
++Magic
+%Credits: FloydFan
+$2068FAB4 [Amount:40000000:FLOAT:BIG]
++Titan
+%Credits: FloydFan
+$2068FAB8 [Amount:3F800000:FLOAT:BIG]
++Red Orbs Worth
+%Credits: FloydFan
+$2068FABC [Amount:3F800000:FLOAT:BIG]
++Rage Of Titans Meter Drain
+%Credits: FloydFan
+$2068FAC0 [Amount:3F800000:FLOAT:BIG]
+!!
+!!
+!Hard Difficulty Mods:
++Power
+%Credits: FloydFan
+$2068FADC [Amount:3F800000:FLOAT:BIG]
++Armor
+%Credits: FloydFan
+$2068FAE0 [Amount:40200000:FLOAT:BIG]
++Enemy Pressure
+%Credits: FloydFan
+$2068FB10 [Amount:3F000000:FLOAT:BIG]
++Enemy Recovery
+%Credits: FloydFan
+$2068FB0C [Amount:3F000000:FLOAT:BIG]
+!Orb Worth Codes:
++Health
+%Credits: FloydFan
+$2068FAE8 [Amount:40000000:FLOAT:BIG]
++Magic
+%Credits: FloydFan
+$2068FAEC [Amount:40000000:FLOAT:BIG]
++Titan
+%Credits: FloydFan
+$2068FAF0 [Amount:3F400000:FLOAT:BIG]
++Red Orbs Worth
+%Credits: FloydFan
+$2068FAF4 [Amount:3F800000:FLOAT:BIG]
++Rage Of Titans Meter Drain
+%Credits: FloydFan
+$2068FAF8 [Amount:3F800000:FLOAT:BIG]
+!!
+!!
+!Very Hard Difficulty Mods:
++Power
+%Credits: FloydFan
+$2068FB14 [Amount:3F400000:FLOAT:BIG]
++Armor
+%Credits: FloydFan
+$2068FB18 [Amount:40A00000:FLOAT:BIG]
++Enemy Pressure
+%Credits: FloydFan
+$2068FB48 [Amount:00000000:FLOAT:BIG]
++Enemy Recovery
+%Credits: FloydFan
+$2068FB44 [Amount:00000000:FLOAT:BIG]
+!Orb Worth Codes:
++Health
+%Credits: FloydFan
+$2068FB20 [Amount:40000000:FLOAT:BIG]
++Magic
+%Credits: FloydFan
+$2068FB24 [Amount:40000000:FLOAT:BIG]
++Titan
+%Credits: FloydFan
+$2068FB28 [Amount:3E800000:FLOAT:BIG]
++Red Orbs Worth
+%Credits: FloydFan
+$2068FB2C [Amount:3F400000:FLOAT:BIG]
++Rage Of Titans Meter Drain
+%Credits: FloydFan
+$2068FB30 [Amount:3F800000:FLOAT:BIG]
+!!
+!!
+!!
+!Costume Stat Modifiers:
+!Cod Of War Costume Stat Mods:
++Power
+%Credits: FloydFan
+$2068F970 [Amount:40000000:FLOAT:BIG]
++Armor
+%Credits: FloydFan
+$2068F974 [Amount:3F800000:FLOAT:BIG]
++Health Orb Worth
+%Credits: FloydFan
+$2068F978 [Amount:40000000:FLOAT:BIG]
++Magic Orb Worth
+%Credits: FloydFan
+$2068F97C [Amount:40000000:FLOAT:BIG]
++Titan Orb Worth
+%Credits: FloydFan
+$2068F980 [Amount:40000000:FLOAT:BIG]
++Red Orb Worth
+%Credits: FloydFan
+$2068F984 [Amount:40000000:FLOAT:BIG]
+!!
+!Hydra Armor:
++Power
+%Credits: FloydFan
+$2068F994 [Amount:3F000000:FLOAT:BIG]
++Armor
+%Credits: FloydFan
+$2068F998 [Amount:3F000000:FLOAT:BIG]
++Health Orb Worth
+%Credits: FloydFan
+$2068F99C [Amount:40000000:FLOAT:BIG]
++Magic Orb Worth
+%Credits: FloydFan
+$2068F9A0 [Amount:40000000:FLOAT:BIG]
++Titan Orb Worth
+%Credits: FloydFan
+$2068F9A4 [Amount:40000000:FLOAT:BIG]
++Red Orb Worth}
+%Credits: FloydFan
+$2068F9A8 [Amount:3F800000:FLOAT:BIG]
+!!
+!Dark Odyssey:
++Power
+%Credits: FloydFan
+$2068F9B8 [Amount:40000000:FLOAT:BIG]
++Armor
+%Credits: FloydFan
+$2068F9BC [Amount:40000000:FLOAT:BIG]
++Health Orb Worth
+%Credits: FloydFan
+$2068F9C0 [Amount:3F800000:FLOAT:BIG]
++Magic Orb Worth
+%Credits: FloydFan
+$2068F9C4 [Amount:3F800000:FLOAT:BIG]
++Titan Orb Worth
+%Credits: FloydFan
+$2068F9C8 [Amount:40A00000:FLOAT:BIG]
++Red Orb Worth
+%Credits: FloydFan
+$2068F9CC [Amount:3F800000:FLOAT:BIG]
+!!
+!Athena:
++Power
+%Credits: FloydFan
+$2068F9DC [Amount:3F800000:FLOAT:BIG]
++Armor
+%Credits: FloydFan
+$2068F9E0 [Amount:3FC00000:FLOAT:BIG]
++Health Orb Worth
+%Credits: FloydFan
+$2068F9E4 [Amount:40A00000:FLOAT:BIG]
++Magic Orb Worth
+%Credits: FloydFan
+$2068F9E8 [Amount:40A00000:FLOAT:BIG]
++Titan Orb Worth
+%Credits: FloydFan
+$2068F9EC [Amount:3F800000:FLOAT:BIG]
++Red Orb Worth
+%Credits: FloydFan
+$2068F9F0 [Amount:40000000:FLOAT:BIG]
+!!
+!Hercules:
++Power
+%Credits: FloydFan
+$2068FA00 [Amount:40000000:FLOAT:BIG]
++Armor
+%Credits: FloydFan
+$2068FA04 [Amount:40000000:FLOAT:BIG]
++Health Orb Worth
+%Credits: FloydFan
+$2068FA08 [Amount:3F800000:FLOAT:BIG]
++Magic Orb Worth
+%Credits: FloydFan
+$2068FA0C [Amount:3F800000:FLOAT:BIG]
++Titan Orb Worth
+%Credits: FloydFan
+$2068FA10 [Amount:3F800000:FLOAT:BIG]
++Red Orb Worth
+%Credits: FloydFan
+$2068FA14 [Amount:3F800000:FLOAT:BIG]
+!!
+!General Kratos:
++Power
+%Credits: FloydFan
+$2068FA24 [Amount:3F000000:FLOAT:BIG]
++Armor
+%Credits: FloydFan
+$2068FA28 [Amount:40000000:FLOAT:BIG]
++Health Orb Worth
+%Credits: FloydFan
+$2068FA2C [Amount:3E800000:FLOAT:BIG]
++Magic Orb Worth
+%Credits: FloydFan
+$2068FA30 [Amount:3E800000:FLOAT:BIG]
++Titan Orb Worth
+%Credits: FloydFan
+$2068FA34 [Amount:3E800000:FLOAT:BIG]
++Red Orb Worth
+%Credits: FloydFan
+$2068FA38 [Amount:40A00000:FLOAT:BIG]
+!!
+!God Armor:
++Power
+%Credits: FloydFan
+$2068FA48 [Amount:40000000:FLOAT:BIG]
++Armor
+%Credits: FloydFan
+$2068FA4C [Amount:3F000000:FLOAT:BIG]
++Health Orb Worth
+%Credits: FloydFan
+$2068FA50 [Amount:40000000:FLOAT:BIG]
++Magic Orb Worth
+%Credits: FloydFan
+$2068FA54 [Amount:40000000:FLOAT:BIG]
++Titan Orb
+%Credits: FloydFan
+$2068FA58 [Amount:40000000:FLOAT:BIG]
++Red Orb Worth
+%Credits: FloydFan
+$2068FA5C [Amount:40000000:FLOAT:BIG]
+!!
+!!
++Most Gorgons Cant Shoot Eye Beam At You{<span Class="note">ones Who Can Do A Gorgon Blast Can Still Stone You With That Attack,a Gorgon Blast Is The Bomb That Hits The Ground,also The Boss Euryale Has Some Attacks That Can Stone You.</Span>}
+%Credits: FloydFan
+$201A9928 03E00008
+$201A992C 00000000
+!Blood Effects Modifier Codes:
++Blood Effect - Example{<span Class="note">a Good Blood Code For Those Who May Not Understand How All The Modifiers Play Off Each Other,like Me (not Too Bloody That It Affects Framerate Or To See What You're Doing,just Some More Blood And Bleeding Time.</Span>}
+%Credits: FloydFan
+$2068F398 40400000
+$2068F3A4 437A0000
+$2068F3B0 3FC9999A
++Impulse
+%Credits: FloydFan
+$2068F398 [Amount:3F800000:FLOAT:BIG]
++Emit Time
+%Credits: FloydFan
+$2068F3B0 [Amount:3E99999A:FLOAT:BIG]
++Clamp Spread Size
+%Credits: FloydFan
+$2068F3B4 [Amount:3FA66666:FLOAT:BIG]
++Clamp Part Size
+%Credits: FloydFan
+$2068F3B8 [Amount:3F266666:FLOAT:BIG]
++Gravity
+%Credits: FloydFan
+$2068F39C [Amount:41900000:FLOAT:BIG]
++Fall Time
+%Credits: FloydFan
+$2068F3AC [Amount:3FA66666:FLOAT:BIG]
++Nominal Distance
+%Credits: FloydFan
+$2068F3A0 [Amount:41000000:FLOAT:BIG]
++Nominal Particles
+%Credits: FloydFan
+$2068F3A4 [Amount:42100000:FLOAT:BIG]
++Nominal Size
+%Credits: FloydFan
+$2068F3A8 [Amount:40400000:FLOAT:BIG]
+!!
+^6 = MODS:
+[COST]
+VALUE>NAME>INFO
+00	Default?	Does not look like the Kratos you begin the game with normally with the golden Athena Blades,every thing else is though.
+01	Default?	It seems the same as above
+02	Kratos 	After Zeus Betrayal)(I dont think its normally possible to begin a new game looking like this.
+0A	Cod Of War
+0B	Hydra Armor
+0C	Dark Odyssey
+0D	Athena
+0E	Hercules
+0F	General Kratos
+10	God Armor
+[/COST]
+[BLADE]
+Value>Name
+04	Athena's Blade
+05	Golden Athena's Blade
+[/BLADE]
+[PUP]
+Value>Name
+01	Poseidon's Rage
+02	Lightning
+03	Air Bow - Wind
+06	Rocks Smash - Earth
+10	Gorgon Stare - Medusa
+[/PUP]
+[SUB]
+Value>Name
+0E	Spear Of Destiny
+0F	Barbarian Hammer
+11	Blade Of Olympus
+[/SUB]

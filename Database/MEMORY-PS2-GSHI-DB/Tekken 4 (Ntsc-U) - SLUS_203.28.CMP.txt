@@ -1,0 +1,532 @@
+^3 = NAME: Tekken 4 (Ntsc-U)
+^2 = GameID: SLUS-20328
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0286FC8 002937CF
++(M) Must Be On
+%Credits: Codejunkies
+$F02937CC 002937CF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0180088 002937CF
+!!
+!Always Play Background Version Codes [Special Note 2]:
++Always Play Background B (If Available)
+%Credits: Code Master
+$2036C494 00000001
++Always Play Background C (If Available)
+%Credits: Code Master
+$2036C494 00000002
++Background Type A (If Available)
+%Credits: Code Master
+$2036C494 00000000
++Special Note 2 {<I>With These Codes, It Will Only Work If The Background Has This Version Available.</I>}
+%Credits: NA
+N/A
+!!
+!Enable Character Codes:
++All Characters
+%Credits: Code Master
+$2036C318 FFFFFFFF
+$2036C31C FFFFFFFF
+$2036C320 FFFFFFFF
+$2036C324 FFFFFFFF
+$2036C328 FFFFFFFF
++Bryan
+%Credits: Code Master
+$0036C324 000000FF
++Christie/Eddy
+%Credits: Code Master
+$0036C320 000000FF
++Combot
+%Credits: Code Master
+$0036C32A 000000FF
++Heihachi
+%Credits: Code Master
+$0036C325 000000FF
++Jin
+%Credits: Code Master
+$0036C321 000000FF
++Julia
+%Credits: Code Master
+$0036C322 000000FF
++Kuma/Panda
+%Credits: Code Master
+$0036C323 000000FF
++Lee/Violet
+%Credits: Code Master
+$0036C327 000000FF
++Lei
+%Credits: Code Master
+$0036C31A 000000FF
++Nina
+%Credits: Code Master
+$0036C31D 000000FF
++Xiaoyu/Mihara
+%Credits: Code Master
+$0036C31F 000000FF
+!!
+!Fight At Codes:
++Fight At Hon Maru
+%Credits: Codejunkies
+$20357D5C 00000010
++Fight At The 'No Walls' Arena
+%Credits: Codejunkies
+$20357D5C 0000000B
++Fight At The Airport
+%Credits: Codejunkies
+$20357D5C 00000000
++Fight At The Arena
+%Credits: Codejunkies
+$20357D5C 00000009
++Fight At The Beach
+%Credits: Codejunkies
+$20357D5C 00000005
++Fight At The Laboratory
+%Credits: Codejunkies
+$20357D5C 00000006
++Fight At The Mall
+%Credits: Codejunkies
+$20357D5C 00000002
++Fight At The Statue
+%Credits: Codejunkies
+$20357D5C 0000000A
++Fight At The Underground
+%Credits: Codejunkies
+$20357D5C 00000008
++Fight In Shunjuku
+%Credits: Codejunkies
+$20357D5C 00000004
++Fight In The Jungle
+%Credits: Codejunkies
+$20357D5C 00000003
++Fight In The Parking Area
+%Credits: Codejunkies
+$20357D5C 00000007
++Fight On The Building
+%Credits: Codejunkies
+$20357D5C 00000001
+!!
+!Force Mode Codes:
++Have A Huge Score
+%Credits: Codejunkies
+$214755C0 23071978
++Infinite Time
+%Credits: Codejunkies
+$20356064 0000FFFF
+!!
+!Fun Mode Codes:
++Air Walk Mode
+%Credits: Codejunkies
+$201828B8 3C014080
++Characters Look Like Mules
+%Credits: Codejunkies
+$20183BC0 3C014080
++Clown Feet
+%Credits: Codejunkies
+$201871F8 3C013FC0
++Raised Character And Clown Feet
+%Credits: Codejunkies
+$201871F8 3C013FC0
+$201828B8 3C014000
+!!
+!Head And Torso Modifier Codes:
++Big Feet
+%Credits: Code Master
+$1018726C 00003FA0
++Big Head And Torso
+%Credits: Codejunkies
+$2018D9E0 3C013F00
++Big Head/Torso
+%Credits: Code Master
+$1018D9E0 00003F40
++Big Legs
+%Credits: Code Master
+$10186EE0 00003FA0
++Camera Modifier (Press L3 To Zoom In; R3 To Zoom Out)
+%Credits: Codejunkies
+$200FFEFC 3C010035
+$200FFF00 34226020
+$200FFF04 80420001
+$200FFF08 8C245530
+$200FFF0C 24030002
+$200FFF10 14620002
+$200FFF18 24847000
+$200FFF1C 24030004
+$200FFF20 14620002
+$200FFF28 24848000
+$200FFF2C AC245530
+$200FFF30 24030070
+$200FFF34 080A4DDE
+$20293774 0803FFBF
++Massive Head And Torso
+%Credits: Codejunkies
+$2018D9E0 3C013E80
++Tiny Head And Torso
+%Credits: Codejunkies
+$2018D9E0 3C014000
++Xiayou And Miharu Have No Skirts
+%Credits: Codejunkies
+$201925E4 3C017FFF
+!!
+!Player 1 Charge Codes:
++Always 'Jin's Charge'
+%Credits: Codejunkies
+$102A9878 00000100
++Always Charged Up
+%Credits: Codejunkies
+$102A987A 00000250
+!!
+!Player 1 Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$102A9C6E 000000A5
++One Hit For KO
+%Credits: Codejunkies
+$102A9C6E 00000001
+!!
+!Player 2 Charge Codes:
++Always 'Jin's Charge'
+%Credits: Codejunkies
+$102AA798 00000100
++Always Charged Up
+%Credits: Codejunkies
+$102AA79A 00000250
+!!
+!Player 2 Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$102AAB8E 000000A5
++One Hit For KO
+%Credits: Codejunkies
+$102AAB8E 00000001
+!!
++1-Hit Death P1
+%Credits: Code Master
+$D02A9C6E 000000A5
+$102A9C6E 00000001
++1-Hit Death P2
+%Credits: Code Master
+$D02AAB8E 000000A5
+$102AAB8E 00000001
++25% Health P1
+%Credits: Code Master
+$D02A9C6E 000000A5
+$102A9C6E 00000029
++25% Health P2
+%Credits: Code Master
+$D02AAB8E 000000A5
+$102AAB8E 00000029
++50% Health P1
+%Credits: Code Master
+$D02A9C6E 000000A5
+$102A9C6E 00000052
++50% Health P2
+%Credits: Code Master
+$D02AAB8E 000000A5
+$102AAB8E 00000052
++75% Health P1
+%Credits: Code Master
+$D02A9C6E 000000A5
+$102A9C6E 0000007B
++75% Health P2
+%Credits: Code Master
+$D02AAB8E 000000A5
+$102AAB8E 0000007B
++999 Wins Survival Mode
+%Credits: Codejunkies
+$102A8C48 000003E7
++Always Low Total Time
+%Credits: Code Master
+$202A8C30 00000000
++Always Play On Background Modifier {<I>00 - Airport 01 - Building 02 - Mall 03 - Jungle 04 - Shinjuku 05 - Beach 06 - Laboratory 07 - Parking Area 08 - Underground 09 - Arena 0A - Statue 0B - Statue 2 10 - Non-Maru</I>}
+%Credits: Code Master
+$10357D5C 000000??
++Camera Always Close Up
+%Credits: Code Master
+$20355530 40000000
++Camera Always Far Back
+%Credits: Code Master
+$20355530 41000000
++Disable All Blocking (Both Players)
+%Credits: Code Master
+$201A4894 1000000C
++Display Health Percentage
+%Credits: HackFreak
+$20357838 00000001
++Enable All Movies
+%Credits: Code Master
+$2036C300 FFFFFFFF
++Enable Bryan
+%Credits: InterAct
+$0036C324 00000003
++Enable Combot
+%Credits: InterAct
+$0036C32A 00000003
++Enable Heihachi
+%Credits: InterAct
+$0036C325 00000003
++Enable Jin
+%Credits: InterAct
+$0036C321 00000003
++Enable Julia
+%Credits: InterAct
+$0036C322 00000003
++Enable Kuma
+%Credits: InterAct
+$0036C323 00000003
++Enable Lei
+%Credits: InterAct
+$0036C31A 00000003
++Enable Nina
+%Credits: InterAct
+$0036C31D 00000003
++Enable Non-Maru Stage
+%Credits: Code Master
+$0036C312 000000FF
++Enable Statue Stage
+%Credits: Code Master
+$0036C311 000000FF
++Enable Theater
+%Credits: InterAct
+$0036C32D 00000001
++Enable Violet
+%Credits: InterAct
+$0036C327 00000003
++F.Mode-High Score
+%Credits: InterAct
+$214755C0 000F423F
++F.Mode-Infinite Health
+%Credits: InterAct
+$102A9C6E 00000106
++Fighters Speed Modifier {<I>Note: Activate On P1 Controller. Press L3 To Decrease Speed And R3 To Increase Speed. Press L3 To Switch Through Decrease Speeds. Press R3 To Switch Through Increase Speeds. If Your Fighter Stops Moving While Decreasing His Or Her Speed,Just Exit And Choose Again. Your Fighters Speed Will Go Back On Default.</I>}
+%Credits: HackFreak
+$D1CC9B02 0000FFFD
+$303F0100 0035609C
+$D1CC9B02 0000FFFB
+$302F0100 0035609C
++Game Speed Modifier {<I>Note: Activate On P1 Controller. Press Select+UP To Give Slow Motion. Press Select+Down For Normal Speed.</I>}
+%Credits: HackFreak
+$D1CC9B02 0000FFEE
+$20357438 40000000
+$D1CC9B02 0000FFBE
+$20357438 45480000
++Hit Anywhere (Both Players)
+%Credits: Code Master
+$201A5C30 00000000
++Hit Anywhere P1 & P2 Can't Hit P1
+%Credits: Code Master
+$201A5C30 12130024
++Hit Anywhere P2 & P1 Can't Hit P2
+%Credits: Code Master
+$201A5C30 16130024
++Huge Legs
+%Credits: Code Master
+$10186EE0 00003FB0
++Infinite Health (Tekken Force Mode)
+%Credits: Code Master
+$102A9C6E 00000108
++Infinite Health P1
+%Credits: MadCatz
+$9057657D D6E60DB9
++Infinite Health P2
+%Credits: MadCatz
+$9057657D D6262CB9
++Infinite Time
+%Credits: InterAct
+$10356064 000016E0
++Infinite Time
+%Credits: Code Master
+$10356064 00001788
++Invisible Head/Torso
+%Credits: Code Master
+$1018D9E0 00004060
++Invisible Legs
+%Credits: Code Master
+$10186EE0 00000000
++Invisible Lower Legs (About Knees Down)
+%Credits: Code Master
+$1018726C 00000000
++Invisible Players
+%Credits: Code Master
+$101824BC 00000000
++Joker Address by bungholio
+$01CC9A82 0000????
++Low Timer
+%Credits: Codejunkies
+$102A8C30 00000000
++Max Score (Tekken Force Mode)
+%Credits: Code Master
+$20260920 3C03000F
+$20260924 3463423F
+$20260928 AE631780
++Max Wins (Survival Mode)
+%Credits: Code Master
+$202A8C48 000003E7
++No Health P1
+%Credits: Code Master
+$102A9C6E 00000000
++No Health P2
+%Credits: Code Master
+$102AAB8E 00000000
++No Life Bars
+%Credits: HackFreak
+$20357D58 00000000
++P1 1 Round Won
+%Credits: InterAct
+$D02A963E 00000000
+$102A963E 00000001
++P1 1-Hit Wins
+%Credits: InterAct
+$D02AAB8E 000000A5
+$102AAB8E 00000005
++P1 Always Have Gold Charged Up Fists
+%Credits: Code Master
+$102A9878 000003E7
++P1 Always Have Normal Charged Up Fists
+%Credits: Code Master
+$102A987A 000003E7
++P1 Block (Invisible Character) Move Modifier {<I>83 - Paul 84 - Law 85 - Lei 86 - King 87 - Yoshimitsu 88 - Nina 89 - Hwoarang 8A - Xiaoyu 8B - Christie 8C - Jin 8D - Julia 8E - Kuma/Panda 8F - Bryan 90 - Heihachi 91 - Kazuya 92 - Lee/Violet 93 - Steve 94 - Marduk 95 - Miharu 96 - Eddy</I>}
+%Credits: Hacc
+$202A95F0 001200??
+$002A95F8 0000005D
++P1 Command List Dummy Move Modifier {<I>Don&#39;T Use The Following Codes In Story Mode.</I>}
+%Credits: Hacc
+$202A95F0 001200??
+$002A95F8 0000005C
++P1 Never Has Golden Charged Up Fists
+%Credits: Code Master
+$102A9878 00000000
++P1 Never Has Normal Charged Up Fists
+%Credits: Code Master
+$102A987A 00000000
++P1 Never Win
+%Credits: InterAct
+$102A963E 00000000
++P1 Press L1+L2 For Death Blow On P2
+%Credits: Code Master
+$D0356020 00000005
+$102AAB8E 00000000
++P1 Speed Modifier (Default: 1000 Hex)
+%Credits: Hacc
+$102A967C 0000????
++P1: Infinite Health
+%Credits: InterAct
+$002A9C6E 13027380
++P2 1 Round Won
+%Credits: InterAct
+$D02AA55E 00000000
+$102AA55E 00000001
++P2 1-Hit Wins
+%Credits: InterAct
+$D02A9C6E 000000A5
+$102A9C6E 00000005
++P2 Always Have Gold Charged Up Fists
+%Credits: Code Master
+$102AA798 000003E7
++P2 Always Have Normal Charged Up Fists
+%Credits: Code Master
+$102AA79A 000003E7
++P2 Block (Invisible Character) Move Modifier
+%Credits: Hacc
+$202AA510 001200??
+$002AA518 0000005D
++P2 Command List Dummy Move Modifier
+%Credits: Hacc
+$202AA510 001200??
+$002AA518 0000005C
++P2 Never Has Golden Charged Up Fists
+%Credits: Code Master
+$102AA798 00000000
++P2 Never Has Normal Charged Up Fists
+%Credits: Code Master
+$102AA79A 00000000
++P2 Never Win
+%Credits: InterAct
+$102AA55E 00000000
++P2 Press L1+L2 For Death Blow On P1
+%Credits: Code Master
+$D0356020 00000005
+$102A9C6E 00000000
++P2 Speed Modifier (Default: 1000 Hex)
+%Credits: Hacc
+$102AA59C 0000????
++P2: Infinite Health
+%Credits: InterAct
+$002AAB8E 13027380
++Players Fight High Above The Ground
+%Credits: Code Master
+$101828B8 00004000
++Players Fight Off Above The Ground
+%Credits: Code Master
+$101828B8 00003FC0
++Players Fight Super High Above The Ground
+%Credits: Code Master
+$101828B8 00004080
++Quick Score Gain (Tekken Force Mode)
+%Credits: Code Master
+$2025CD34 2442270F
+$2025CE84 2442270F
++Quick Story Mode
+%Credits: InterAct
+$D02A8C28 00000001
+$102A8C28 00000007
++Small Feet
+%Credits: Code Master
+$1018726C 00003F40
++Small Head/Torso
+%Credits: Code Master
+$1018D9E0 00003FC0
++Small Legs
+%Credits: Code Master
+$10186EE0 00003F60
++Start On 2Nd To Last Stage (Story Mode)
+%Credits: Code Master
+$D02A8C28 00000000
+$102A8C28 00000007
++Start On Last Stage (Story Mode)
+%Credits: Code Master
+$D02A8C28 00000000
+$102A8C28 00000008
++Sudden Death Mode
+%Credits: InterAct
+$D0356064 00000500
+$102A9C6E 0000000A
+$D0356064 00000500
+$102AAB8E 0000000A
++Super Huge Feet
+%Credits: Code Master
+$1018726C 00003FC0
++Super Huge Head/Torso
+%Credits: Code Master
+$1018D9E0 00003F20
++Super Small Feet
+%Credits: Code Master
+$1018726C 00003F00
++Super Small Head/Torso
+%Credits: Code Master
+$1018D9E0 00004020
++Super Small Legs
+%Credits: Code Master
+$10186EE0 00003F40
++Unlock All Characters
+%Credits: MadCatz
+$4036C318 00050001
+$00000000 00000000
++Unlock All Characters
+%Credits: InterAct
+$4036C318 00050001
+$FFFFFFFF 00000000
++Unlock All Stages
+%Credits: Codejunkies
+$2036C310 FFFFFFFF
+$2036C314 FFFFFFFF
++Unlock Theatre Mode
+%Credits: Codejunkies
+$2036C32C 00000100
++Xiaoyu/Miharu Have No Skirt {<I>With This Code, Do Not Use The &#39;X&#39; Costume, Press Square On Xiaoyu For Skirtless Xiaoyu, Press Circle On Xiaoyu For Skirtless Miharu. You Must Also Have Miharu Enabled To Use Her.</I>}
+%Credits: Code Master
+$101925E4 00007FFF
+!!
+

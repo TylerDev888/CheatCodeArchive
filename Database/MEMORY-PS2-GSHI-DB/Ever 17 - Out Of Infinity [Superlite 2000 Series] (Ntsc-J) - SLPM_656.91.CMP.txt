@@ -1,0 +1,19 @@
+^3 = NAME: Ever 17 - Out Of Infinity [Superlite 2000 Series] (Ntsc-J)
+^2 = GameID: SLPM-65691
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$901D5078 0C0753C6
+!!
++Enable Debug Menus [View Note] {<I>With The Code On, Press And Hold One Of The Following Buttons While Entering Another Screen (Such As Starting A New Game):<Br>*Press And Hold Circle + L1 For Start Debug Menu.<Br>*Press And Hold Circle + R1 For Shortcut01 Debug Menu.<Br>*Press And Hold Circle + R2 For Shortcut02 Debug Menu.<Br>*Press And Hold Circle + Select For Filer Debug Menu.</I>}
+%Credits: punk7890
+$D03D2402 0000DBFF
+$2023AD30 00000000
+$D03D2402 0000D7FF
+$2023AD30 0000000C
+$D03D2402 0000DDFF
+$2023AD30 0000000D
+$D03D2402 0000DFFE
+$2023AD30 00000016
+!!
+

@@ -1,0 +1,140 @@
+^3 = NAME: Rygar
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 0020F787
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$204BBF40 00002706
+$204BBF44 00002706
++Icol
+%Credits: Xploder
+$204BBF48 00002706
+$204BBF4C 00002706
++Points
+%Credits: Xploder
+$204BBF68 0000270F
++Attack
+%Credits: Xploder
+$204BBF54 000003E7
++Defence
+%Credits: Xploder
+$204BBF58 000003E7
+!!
+!Have:
++High Jump
+%Credits: Xploder
+$203FDB20 409DC28F
++Super High Jump
+%Credits: Xploder
+$203FDB20 403B851E
++Moon Gravity
+%Credits: Xploder
+$203FDB20 3F6E1478
+!!
+!Hades Diskarmour:
++Unlock
+%Credits: Xploder
+$004BBF70 00000001
++Maximum Level
+%Credits: Xploder
+$004BBF71 00000002
+$004BBF7C 00000002
+!!
+!Heavenly Diskarmour:
++Unlock
+%Credits: Xploder
+$004BBFB4 00000001
++Maximum Level
+%Credits: Xploder
+$004BBFB5 00000002
+$004BBFC0 00000002
+!!
+!Sea Diskarmour:
++Unlock
+%Credits: Xploder
+$004BBFF8 00000001
++Maximum Level
+%Credits: Xploder
+$004BBFF9 00000002
+$004BC004 00000002
+!!
+!Have Mystic Stones:
++Ares +99
+%Credits: Xploder
+$104BC080 00006301
++Athena +99
+%Credits: Xploder
+$104BC082 00006301
++Demeter
+%Credits: Xploder
+$104BC084 00000001
++Aphrodite
+%Credits: Xploder
+$104BC086 00000001
++Apollon
+%Credits: Xploder
+$104BC088 00000001
++Artemis
+%Credits: Xploder
+$104BC08A 00000001
++Hephaestus
+%Credits: Xploder
+$104BC08C 00000001
++Dionysus
+%Credits: Xploder
+$104BC08E 00000001
++Hestia
+%Credits: Xploder
+$104BC090 00000001
++Hera
+%Credits: Xploder
+$104BC092 00000001
++Persephone
+%Credits: Xploder
+$104BC094 00000001
++Hermes
+%Credits: Xploder
+$104BC096 00000001
++Zephyrus
+%Credits: Xploder
+$104BC098 00000001
++Boreas
+%Credits: Xploder
+$104BC09A 00000001
++Notus
+%Credits: Xploder
+$104BC09C 00000001
++Eurus
+%Credits: Xploder
+$104BC09E 00000001
++Clotho
+%Credits: Xploder
+$104BC0A0 00000001
++Lachesis
+%Credits: Xploder
+$104BC0A2 00000001
++Atoropos
+%Credits: Xploder
+$104BC0A4 00000001
++Nike
+%Credits: Xploder
+$104BC0A6 00000001
++Nemesis
+%Credits: Xploder
+$104BC0A8 00000001
++Eirene
+%Credits: Xploder
+$104BC0AA 00000001
++Hypnos
+%Credits: Xploder
+$104BC0AC 00000001
++Tanatos
+%Credits: Xploder
+$104BC0AE 00000001
++Morpheus
+%Credits: Xploder
+$104BC0B0 00000001
+!!

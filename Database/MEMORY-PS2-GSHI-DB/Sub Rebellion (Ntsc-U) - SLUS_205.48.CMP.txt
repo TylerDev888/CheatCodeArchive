@@ -1,0 +1,55 @@
+^3 = NAME: Sub Rebellion (Ntsc-U)
+^2 = GameID: SLUS-20548
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01E7E9C 001E7E9F
++Enable Code(Must Be On)
+%Credits: Azagthoth
+$901E7E9C 0C080524
+!!
++Alt Infinite Shield(Health)
+%Credits: Azagthoth
+$2013E618 03E00008
+$2013E61C 00000000
++Go Through Walls
+%Credits: Codejunkies
+$20139E48 03E00008
+$20139E4C 00000000
++Have Quick Reload
+%Credits: Codejunkies
+$2013EB4C 2463000F
++Infinite Decoy {<I>Will Show 1 , But You Have Infinite.</I>}
+%Credits: Azagthoth
+$201E0B1C 00000000
++Infinite Shield
+%Credits: Azagthoth
+$200C0200 3C010026
+$200C0204 8C2178D8
+$200C0208 10200004
+$200C0210 8C2300F8
+$200C0214 AC2300FC
+$200C021C 03E00008
+$2020AAA4 08030080
++Infinite Torpedos/No Reload
+%Credits: Azagthoth
+$2013EB3C A09204BC
++Kill All Enemies Cheat
+%Credits: Azagthoth
+$00268AEC 00000001
++Super Turbo
+%Credits: InterAct
+$200FFF00 3C010026
+$200FFF04 8C2178D8
+$200FFF08 1010000A
+$200FFF0C 3C0243C8
+$200FFF10 24420000
+$200FFF18 3C0340A0
+$200FFF1C 24630000
+$200FFF24 AC22035C
+$200FFF28 AC230360
+$200FFF30 24020070
+$200FFF34 08079F92
+$201E7E44 0803FFC0
+!!
+

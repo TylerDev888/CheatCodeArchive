@@ -1,0 +1,12 @@
+^3 = NAME: Separate Hearts (Ntsc-J)
+^2 = GameID: SLPM-66298
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9010FA90 0C043E4C
+!!
++Replace New Game With Debug Menu
+%Credits: punk7890
+$21EC4CD0 00000003
+!!
+

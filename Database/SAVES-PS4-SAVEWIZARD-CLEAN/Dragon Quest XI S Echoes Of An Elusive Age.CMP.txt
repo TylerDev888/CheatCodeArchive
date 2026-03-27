@@ -1,0 +1,2530 @@
+^2 = GameID: CUSA18600,CUSA18180,CUSA19120,CUSA19282
+^3 = NAME: Dragon Quest XI S: Echoes Of An Elusive Age
+^SECONDLAYER: YES
+^4 = FILE: Book\(data00[0-8]sav|00[0-8]|data255sav|255).dat
+%Credits: SkillerCMP>salarian1817>pj1980
++Edit Item Amount(3d)
+$8001000C 0000[Item]
+$2800000C [Amount:000003E7:HEX:BIG]	
++Replace Item(3d)
+$8001000C 0000[Item]
+$A8000000 0000000C
+$0000[Item] 00000000
++Replace Item And Edit Amount(3d)
+$8001000C 0000[Item]
+$A8000000 0000000C
+$0000[Item] 00000000
+$2800000C [Amount:000003E7:HEX:BIG]	
+^6 = MODS:
+[Item]
+IDS>TYPE>NAME>Level
+415F4641435F30303031	Accessories - Eye & Earwear	Slime Earrings	Base
+415F4641435F31303031	Accessories - Eye & Earwear	Slime Earrings	"+1
+415F4641435F32303031	Accessories - Eye & Earwear	Slime Earrings	"+2
+415F4641435F33303031	Accessories - Eye & Earwear	Slime Earrings	"+3
+415F4641435F30303032	Accessories - Eye & Earwear	Safety Goggles	Base
+415F4641435F31303032	Accessories - Eye & Earwear	Safety Goggles	"+1
+415F4641435F32303032	Accessories - Eye & Earwear	Safety Goggles	"+2
+415F4641435F33303032	Accessories - Eye & Earwear	Safety Goggles	"+3
+415F4641435F30303033	Accessories - Eye & Earwear	Asbestos Earrings	Base
+415F4641435F31303033	Accessories - Eye & Earwear	Asbestos Earrings	"+1
+415F4641435F32303033	Accessories - Eye & Earwear	Asbestos Earrings	"+2
+415F4641435F33303033	Accessories - Eye & Earwear	Asbestos Earrings	"+3
+415F4641435F30303034	Accessories - Eye & Earwear	Antifreeze Earrings	Base
+415F4641435F31303034	Accessories - Eye & Earwear	Antifreeze Earrings	"+1
+415F4641435F32303034	Accessories - Eye & Earwear	Antifreeze Earrings	"+2
+415F4641435F33303034	Accessories - Eye & Earwear	Antifreeze Earrings	"+3
+415F4641435F30303035	Accessories - Eye & Earwear	Rubber Earrings	Base
+415F4641435F31303035	Accessories - Eye & Earwear	Rubber Earrings	"+1
+415F4641435F32303035	Accessories - Eye & Earwear	Rubber Earrings	"+2
+415F4641435F33303035	Accessories - Eye & Earwear	Rubber Earrings	"+3
+415F4641435F30303036	Accessories - Eye & Earwear	Aerofoil Earrings	Base
+415F4641435F31303036	Accessories - Eye & Earwear	Aerofoil Earrings	"+1
+415F4641435F32303036	Accessories - Eye & Earwear	Aerofoil Earrings	"+2
+415F4641435F33303036	Accessories - Eye & Earwear	Aerofoil Earrings	"+3
+415F4641435F30303037	Accessories - Eye & Earwear	Concrete Earrings	Base
+415F4641435F31303037	Accessories - Eye & Earwear	Concrete Earrings	"+1
+415F4641435F32303037	Accessories - Eye & Earwear	Concrete Earrings	"+2
+415F4641435F33303037	Accessories - Eye & Earwear	Concrete Earrings	"+3
+415F4641435F30303038	Accessories - Eye & Earwear	Mirror Earrings	Base
+415F4641435F31303038	Accessories - Eye & Earwear	Mirror Earrings	"+1
+415F4641435F32303038	Accessories - Eye & Earwear	Mirror Earrings	"+2
+415F4641435F33303038	Accessories - Eye & Earwear	Mirror Earrings	"+3
+415F4641435F30303039	Accessories - Eye & Earwear	Cinderblock Earrings	Base
+415F4641435F31303039	Accessories - Eye & Earwear	Cinderblock Earrings	"+1
+415F4641435F32303039	Accessories - Eye & Earwear	Cinderblock Earrings	"+2
+415F4641435F33303039	Accessories - Eye & Earwear	Cinderblock Earrings	"+3
+415F4641435F30303130	Accessories - Eye & Earwear	All-Weather Earrings	Base
+415F4641435F31303130	Accessories - Eye & Earwear	All-Weather Earrings	"+1
+415F4641435F32303130	Accessories - Eye & Earwear	All-Weather Earrings	"+2
+415F4641435F33303130	Accessories - Eye & Earwear	All-Weather Earrings	"+3
+415F4641435F30303131	Accessories - Eye & Earwear	Blackout Earrings	Base
+415F4641435F31303131	Accessories - Eye & Earwear	Blackout Earrings	"+1
+415F4641435F32303131	Accessories - Eye & Earwear	Blackout Earrings	"+2
+415F4641435F33303131	Accessories - Eye & Earwear	Blackout Earrings	"+3
+415F4641435F30303132	Accessories - Eye & Earwear	Scholar's Specs	Base
+415F4641435F31303132	Accessories - Eye & Earwear	Scholar's Specs	"+1
+415F4641435F32303132	Accessories - Eye & Earwear	Scholar's Specs	"+2
+415F4641435F33303132	Accessories - Eye & Earwear	Scholar's Specs	"+3
+415F4E45435F30303031	Accessories - Neckwear	Wings Of Serendipty	Base
+415F4E45435F31303031	Accessories - Neckwear	Wings Of Serendipty	"+1
+415F4E45435F32303031	Accessories - Neckwear	Wings Of Serendipty	"+2
+415F4E45435F33303031	Accessories - Neckwear	Wings Of Serendipty	"+3
+415F4E45435F30303032	Accessories - Neckwear	Gold Rosary	Base
+415F4E45435F31303032	Accessories - Neckwear	Gold Rosary	"+1
+415F4E45435F32303032	Accessories - Neckwear	Gold Rosary	"+2
+415F4E45435F33303032	Accessories - Neckwear	Gold Rosary	"+3
+415F4E45435F30303034	Accessories - Neckwear	Necklace Of Immunity	Base
+415F4E45435F31303034	Accessories - Neckwear	Necklace Of Immunity	"+1
+415F4E45435F32303034	Accessories - Neckwear	Necklace Of Immunity	"+2
+415F4E45435F33303034	Accessories - Neckwear	Necklace Of Immunity	"+3
+415F4E45435F30303035	Accessories - Neckwear	Full Moon Colar	Base
+415F4E45435F31303035	Accessories - Neckwear	Full Moon Colar	"+1
+415F4E45435F32303035	Accessories - Neckwear	Full Moon Colar	"+2
+415F4E45435F33303035	Accessories - Neckwear	Full Moon Colar	"+3
+415F4E45435F30303036	Accessories - Neckwear	Rousing Rose Collar	Base
+415F4E45435F31303036	Accessories - Neckwear	Rousing Rose Collar	"+1
+415F4E45435F32303036	Accessories - Neckwear	Rousing Rose Collar	"+2
+415F4E45435F33303036	Accessories - Neckwear	Rousing Rose Collar	"+3
+415F4E45435F30303037	Accessories - Neckwear	Star Of Clarity	Base
+415F4E45435F31303037	Accessories - Neckwear	Star Of Clarity	"+1
+415F4E45435F32303037	Accessories - Neckwear	Star Of Clarity	"+2
+415F4E45435F33303037	Accessories - Neckwear	Star Of Clarity	"+3
+415F4E45435F30303038	Accessories - Neckwear	Care Riviere	Base
+415F4E45435F31303038	Accessories - Neckwear	Care Riviere	"+1
+415F4E45435F32303038	Accessories - Neckwear	Care Riviere	"+2
+415F4E45435F33303038	Accessories - Neckwear	Care Riviere	"+3
+415F4E45435F30303039	Accessories - Neckwear	Torc Of Truth	Base
+415F4E45435F31303039	Accessories - Neckwear	Torc Of Truth	"+1
+415F4E45435F32303039	Accessories - Neckwear	Torc Of Truth	"+2
+415F4E45435F33303039	Accessories - Neckwear	Torc Of Truth	"+3
+415F4E45435F30303130	Accessories - Neckwear	Protective Pendant	Base
+415F4E45435F31303130	Accessories - Neckwear	Protective Pendant	"+1
+415F4E45435F32303130	Accessories - Neckwear	Protective Pendant	"+2
+415F4E45435F33303130	Accessories - Neckwear	Protective Pendant	"+3
+415F4E45435F30303131	Accessories - Neckwear	Choker Of Riddance	Base
+415F4E45435F31303131	Accessories - Neckwear	Choker Of Riddance	"+1
+415F4E45435F32303131	Accessories - Neckwear	Choker Of Riddance	"+2
+415F4E45435F33303131	Accessories - Neckwear	Choker Of Riddance	"+3
+415F4E45435F30303132	Accessories - Neckwear	Gold Chain	Base
+415F4E45435F31303132	Accessories - Neckwear	Gold Chain	"+1
+415F4E45435F32303132	Accessories - Neckwear	Gold Chain	"+2
+415F4E45435F33303132	Accessories - Neckwear	Gold Chain	"+3
+415F4E45435F30303133	Accessories - Neckwear	Token Of Fealty	Base
+415F4E45435F31303133	Accessories - Neckwear	Token Of Fealty	"+1
+415F4E45435F32303133	Accessories - Neckwear	Token Of Fealty	"+2
+415F4E45435F33303133	Accessories - Neckwear	Token Of Fealty	"+3
+415F4E45435F30303134	Accessories - Neckwear	Dogged Colar	Base
+415F4E45435F31303134	Accessories - Neckwear	Dogged Colar	"+1
+415F4E45435F32303134	Accessories - Neckwear	Dogged Colar	"+2
+415F4E45435F33303134	Accessories - Neckwear	Dogged Colar	"+3
+415F4E45435F30303135	Accessories - Neckwear	Bow Tie	Base
+415F4E45435F31303135	Accessories - Neckwear	Bow Tie	"+1
+415F4E45435F32303135	Accessories - Neckwear	Bow Tie	"+2
+415F4E45435F33303135	Accessories - Neckwear	Bow Tie	"+3
+415F4E45435F30303136	Accessories - Neckwear	Papillon Pendant	Base
+415F4E45435F31303136	Accessories - Neckwear	Papillon Pendant	"+1
+415F4E45435F32303136	Accessories - Neckwear	Papillon Pendant	"+2
+415F4E45435F33303136	Accessories - Neckwear	Papillon Pendant	"+3
+415F4E45435F30303137	Accessories - Neckwear	Pirate King's Pendant	Base
+415F4E45435F31303137	Accessories - Neckwear	Pirate King's Pendant	"+1
+415F4E45435F32303137	Accessories - Neckwear	Pirate King's Pendant	"+2
+415F4E45435F33303137	Accessories - Neckwear	Pirate King's Pendant	"+3
+415F4E45435F30393938	Accessories - Neckwear	Rainbow Drop	Base
+415F4E45435F31393938	Accessories - Neckwear	Rainbow Drop	"+1
+415F4E45435F32393938	Accessories - Neckwear	Rainbow Drop	"+2
+415F4E45435F33393938	Accessories - Neckwear	Rainbow Drop	"+3
+415F46494E5F30303031	Accessories - Rings	Circle Of Serendipity	Base
+415F46494E5F31303031	Accessories - Rings	Circle Of Serendipity	"+1
+415F46494E5F32303031	Accessories - Rings	Circle Of Serendipity	"+2
+415F46494E5F33303031	Accessories - Rings	Circle Of Serendipity	"+3
+415F46494E5F30303032	Accessories - Rings	Strength Ring	Base
+415F46494E5F31303032	Accessories - Rings	Strength Ring	"+1
+415F46494E5F32303032	Accessories - Rings	Strength Ring	"+2
+415F46494E5F33303032	Accessories - Rings	Strength Ring	"+3
+415F46494E5F30303033	Accessories - Rings	Pink Pearl Ring	Base
+415F46494E5F31303033	Accessories - Rings	Pink Pearl Ring	"+1
+415F46494E5F32303033	Accessories - Rings	Pink Pearl Ring	"+2
+415F46494E5F33303033	Accessories - Rings	Pink Pearl Ring	"+3
+415F46494E5F30303034	Accessories - Rings	Prayer Ring	Base
+415F46494E5F31303034	Accessories - Rings	Prayer Ring	"+1
+415F46494E5F32303034	Accessories - Rings	Prayer Ring	"+2
+415F46494E5F33303034	Accessories - Rings	Prayer Ring	"+3
+415F46494E5F30303035	Accessories - Rings	Care Ring	Base
+415F46494E5F31303035	Accessories - Rings	Care Ring	"+1
+415F46494E5F32303035	Accessories - Rings	Care Ring	"+2
+415F46494E5F33303035	Accessories - Rings	Care Ring	"+3
+415F46494E5F30303036	Accessories - Rings	Ring Of Riddance	Base
+415F46494E5F31303036	Accessories - Rings	Ring Of Riddance	"+1
+415F46494E5F32303036	Accessories - Rings	Ring Of Riddance	"+2
+415F46494E5F33303036	Accessories - Rings	Ring Of Riddance	"+3
+415F46494E5F30303037	Accessories - Rings	Gold Ring	Base
+415F46494E5F31303037	Accessories - Rings	Gold Ring	"+1
+415F46494E5F32303037	Accessories - Rings	Gold Ring	"+2
+415F46494E5F33303037	Accessories - Rings	Gold Ring	"+3
+415F46494E5F30303038	Accessories - Rings	Ring Of Immunity	Base
+415F46494E5F31303038	Accessories - Rings	Ring Of Immunity	"+1
+415F46494E5F32303038	Accessories - Rings	Ring Of Immunity	"+2
+415F46494E5F33303038	Accessories - Rings	Ring Of Immunity	"+3
+415F46494E5F30303039	Accessories - Rings	Ring Of Truth	Base
+415F46494E5F31303039	Accessories - Rings	Ring Of Truth	"+1
+415F46494E5F32303039	Accessories - Rings	Ring Of Truth	"+2
+415F46494E5F33303039	Accessories - Rings	Ring Of Truth	"+3
+415F46494E5F30303130	Accessories - Rings	Full Mon Ring	Base
+415F46494E5F31303130	Accessories - Rings	Full Mon Ring	"+1
+415F46494E5F32303130	Accessories - Rings	Full Mon Ring	"+2
+415F46494E5F33303130	Accessories - Rings	Full Mon Ring	"+3
+415F46494E5F30303131	Accessories - Rings	Rouding Ring	Base
+415F46494E5F31303131	Accessories - Rings	Rouding Ring	"+1
+415F46494E5F32303131	Accessories - Rings	Rouding Ring	"+2
+415F46494E5F33303131	Accessories - Rings	Rouding Ring	"+3
+415F46494E5F30303132	Accessories - Rings	Ring Of Clarity	Base
+415F46494E5F31303132	Accessories - Rings	Ring Of Clarity	"+1
+415F46494E5F32303132	Accessories - Rings	Ring Of Clarity	"+2
+415F46494E5F33303132	Accessories - Rings	Ring Of Clarity	"+3
+415F46494E5F30303133	Accessories - Rings	Sorcerer's Ring	Base
+415F46494E5F31303133	Accessories - Rings	Sorcerer's Ring	"+1
+415F46494E5F32303133	Accessories - Rings	Sorcerer's Ring	"+2
+415F46494E5F33303133	Accessories - Rings	Sorcerer's Ring	"+3
+415F46494E5F30303134	Accessories - Rings	Agility Ring	Base
+415F46494E5F31303134	Accessories - Rings	Agility Ring	"+1
+415F46494E5F32303134	Accessories - Rings	Agility Ring	"+2
+415F46494E5F33303134	Accessories - Rings	Agility Ring	"+3
+415F46494E5F30303135	Accessories - Rings	Skull Ring	Base
+415F46494E5F31303135	Accessories - Rings	Skull Ring	"+1
+415F46494E5F32303135	Accessories - Rings	Skull Ring	"+2
+415F46494E5F33303135	Accessories - Rings	Skull Ring	"+3
+415F46494E5F30303136	Accessories - Rings	Life Ring	Base
+415F46494E5F31303136	Accessories - Rings	Life Ring	"+1
+415F46494E5F32303136	Accessories - Rings	Life Ring	"+2
+415F46494E5F33303136	Accessories - Rings	Life Ring	"+3
+415F46494E5F30303137	Accessories - Rings	Catholicon Ring	Base
+415F46494E5F31303137	Accessories - Rings	Catholicon Ring	"+1
+415F46494E5F32303137	Accessories - Rings	Catholicon Ring	"+2
+415F46494E5F33303137	Accessories - Rings	Catholicon Ring	"+3
+415F46494E5F30303138	Accessories - Rings	Godess Ring	Base
+415F46494E5F31303138	Accessories - Rings	Godess Ring	"+1
+415F46494E5F32303138	Accessories - Rings	Godess Ring	"+2
+415F46494E5F33303138	Accessories - Rings	Godess Ring	"+3
+415F48414E5F30303031	Accessories - Gloves	Robber's Gloves	Base
+415F48414E5F31303031	Accessories - Gloves	Robber's Gloves	"+1
+415F48414E5F32303031	Accessories - Gloves	Robber's Gloves	"+2
+415F48414E5F33303031	Accessories - Gloves	Robber's Gloves	"+3
+415F48414E5F30303032	Accessories - Gloves	Mayoress's Mittens	Base
+415F48414E5F31303032	Accessories - Gloves	Mayoress's Mittens	"+1
+415F48414E5F32303032	Accessories - Gloves	Mayoress's Mittens	"+2
+415F48414E5F33303032	Accessories - Gloves	Mayoress's Mittens	"+3
+415F48414E5F30303033	Accessories - Gloves	Gloomy Gloves	Base
+415F48414E5F31303033	Accessories - Gloves	Gloomy Gloves	"+1
+415F48414E5F32303033	Accessories - Gloves	Gloomy Gloves	"+2
+415F48414E5F33303033	Accessories - Gloves	Gloomy Gloves	"+3
+415F48414E5F30303035	Accessories - Gloves	Murky Mittens	Base
+415F48414E5F31303035	Accessories - Gloves	Murky Mittens	"+1
+415F48414E5F32303035	Accessories - Gloves	Murky Mittens	"+2
+415F48414E5F33303035	Accessories - Gloves	Murky Mittens	"+3
+415F48414E5F30303036	Accessories - Gloves	Brigand's Mitts	Base
+415F48414E5F31303036	Accessories - Gloves	Brigand's Mitts	"+1
+415F48414E5F32303036	Accessories - Gloves	Brigand's Mitts	"+2
+415F48414E5F33303036	Accessories - Gloves	Brigand's Mitts	"+3
+415F48414E5F30303037	Accessories - Gloves	Guru's Gloves	Base
+415F48414E5F31303037	Accessories - Gloves	Guru's Gloves	"+1
+415F48414E5F32303037	Accessories - Gloves	Guru's Gloves	"+2
+415F48414E5F33303037	Accessories - Gloves	Guru's Gloves	"+3
+415F48414E5F30303038	Accessories - Gloves	Marquess's Mittens	Base
+415F48414E5F31303038	Accessories - Gloves	Marquess's Mittens	"+1
+415F48414E5F32303038	Accessories - Gloves	Marquess's Mittens	"+2
+415F48414E5F33303038	Accessories - Gloves	Marquess's Mittens	"+3
+415F48414E5F30303039	Accessories - Gloves	Freebooter's Gloves	Base
+415F48414E5F31303039	Accessories - Gloves	Freebooter's Gloves	"+1
+415F48414E5F32303039	Accessories - Gloves	Freebooter's Gloves	"+2
+415F48414E5F33303039	Accessories - Gloves	Freebooter's Gloves	"+3
+415F48414E5F30303130	Accessories - Gloves	Enchantress's Gloves	Base
+415F48414E5F31303130	Accessories - Gloves	Enchantress's Gloves	"+1
+415F48414E5F32303130	Accessories - Gloves	Enchantress's Gloves	"+2
+415F48414E5F33303130	Accessories - Gloves	Enchantress's Gloves	"+3
+415F48414E5F30303131	Accessories - Gloves	Minister's Mitts	Base
+415F48414E5F31303131	Accessories - Gloves	Minister's Mitts	"+1
+415F48414E5F32303131	Accessories - Gloves	Minister's Mitts	"+2
+415F48414E5F33303131	Accessories - Gloves	Minister's Mitts	"+3
+415F48414E5F30303132	Accessories - Gloves	Monarch's Mittens	Base
+415F48414E5F31303132	Accessories - Gloves	Monarch's Mittens	"+1
+415F48414E5F32303132	Accessories - Gloves	Monarch's Mittens	"+2
+415F48414E5F33303132	Accessories - Gloves	Monarch's Mittens	"+3
+415F41524D5F30303031	Accessories - Wristwear	Gold Bracer	Base
+415F41524D5F31303031	Accessories - Wristwear	Gold Bracer	"+1
+415F41524D5F32303031	Accessories - Wristwear	Gold Bracer	"+2
+415F41524D5F33303031	Accessories - Wristwear	Gold Bracer	"+3
+415F41524D5F30303032	Accessories - Wristwear	Life Bracer	Base
+415F41524D5F31303032	Accessories - Wristwear	Life Bracer	"+1
+415F41524D5F32303032	Accessories - Wristwear	Life Bracer	"+2
+415F41524D5F33303032	Accessories - Wristwear	Life Bracer	"+3
+415F41524D5F30303033	Accessories - Wristwear	Wristorative	Base
+415F41524D5F31303033	Accessories - Wristwear	Wristorative	"+1
+415F41524D5F32303033	Accessories - Wristwear	Wristorative	"+2
+415F41524D5F33303033	Accessories - Wristwear	Wristorative	"+3
+415F41524D5F30303034	Accessories - Wristwear	Mighty Armlet	Base
+415F41524D5F31303034	Accessories - Wristwear	Mighty Armlet	"+1
+415F41524D5F32303034	Accessories - Wristwear	Mighty Armlet	"+2
+415F41524D5F33303034	Accessories - Wristwear	Mighty Armlet	"+3
+415F41524D5F30303035	Accessories - Wristwear	Spirit Bracer	Base
+415F41524D5F31303035	Accessories - Wristwear	Spirit Bracer	"+1
+415F41524D5F32303035	Accessories - Wristwear	Spirit Bracer	"+2
+415F41524D5F33303035	Accessories - Wristwear	Spirit Bracer	"+3
+415F41524D5F30303036	Accessories - Wristwear	Brainy Bracer	Base
+415F41524D5F31303036	Accessories - Wristwear	Brainy Bracer	"+1
+415F41524D5F32303036	Accessories - Wristwear	Brainy Bracer	"+2
+415F41524D5F33303036	Accessories - Wristwear	Brainy Bracer	"+3
+415F41524D5F30303037	Accessories - Wristwear	Meteorite Bracer	Base
+415F41524D5F31303037	Accessories - Wristwear	Meteorite Bracer	"+1
+415F41524D5F32303037	Accessories - Wristwear	Meteorite Bracer	"+2
+415F41524D5F33303037	Accessories - Wristwear	Meteorite Bracer	"+3
+415F53484F5F30303031	Accessories - Footwear	Springheel Boots	Base
+415F53484F5F31303031	Accessories - Footwear	Springheel Boots	"+1
+415F53484F5F32303031	Accessories - Footwear	Springheel Boots	"+2
+415F53484F5F33303031	Accessories - Footwear	Springheel Boots	"+3
+415F53484F5F30303032	Accessories - Footwear	Caligae Of Clarity	Base
+415F53484F5F31303032	Accessories - Footwear	Caligae Of Clarity	"+1
+415F53484F5F32303032	Accessories - Footwear	Caligae Of Clarity	"+2
+415F53484F5F33303032	Accessories - Footwear	Caligae Of Clarity	"+3
+415F53484F5F30303033	Accessories - Footwear	Angel's Sandals	Base
+415F53484F5F31303033	Accessories - Footwear	Angel's Sandals	"+1
+415F53484F5F32303033	Accessories - Footwear	Angel's Sandals	"+2
+415F53484F5F33303033	Accessories - Footwear	Angel's Sandals	"+3
+415F53484F5F30303034	Accessories - Footwear	Archangel's Boots	Base
+415F53484F5F31303034	Accessories - Footwear	Archangel's Boots	"+1
+415F53484F5F32303034	Accessories - Footwear	Archangel's Boots	"+2
+415F53484F5F33303034	Accessories - Footwear	Archangel's Boots	"+3
+415F53484F5F30303035	Accessories - Footwear	General's Boots	Base
+415F53484F5F31303035	Accessories - Footwear	General's Boots	"+1
+415F53484F5F32303035	Accessories - Footwear	General's Boots	"+2
+415F53484F5F33303035	Accessories - Footwear	General's Boots	"+3
+415F53484F5F30303036	Accessories - Footwear	Field Marshal's Footwear	Base
+415F53484F5F31303036	Accessories - Footwear	Field Marshal's Footwear	"+1
+415F53484F5F32303036	Accessories - Footwear	Field Marshal's Footwear	"+2
+415F53484F5F33303036	Accessories - Footwear	Field Marshal's Footwear	"+3
+415F53484F5F30393938	Accessories - Footwear	Elevating ShoesBase
+415F53484F5F31393938	Accessories - Footwear	Elevating Shoes"+1
+415F53484F5F32393938	Accessories - Footwear	Elevating Shoes"+2
+415F53484F5F33393938	Accessories - Footwear	Elevating Shoes"+3
+415F464F4F5F30303031	Accessories - Footwear	Fishnet Stockings	Base
+415F464F4F5F31303031	Accessories - Footwear	Fishnet Stockings	"+1
+415F464F4F5F32303031	Accessories - Footwear	Fishnet Stockings	"+2
+415F464F4F5F33303031	Accessories - Footwear	Fishnet Stockings	"+3
+415F4F54485F30303031	Accessories - Other	Gemma's Charm	Base
+415F4F54485F30303032	Accessories - Other	Bunny Tail	Base
+415F4F54485F31303032	Accessories - Other	Bunny Tail	"+1
+415F4F54485F32303032	Accessories - Other	Bunny Tail	"+2
+415F4F54485F33303032	Accessories - Other	Bunny Tail	"+3
+415F4F54485F30303033	Accessories - Other	Dragon Scale	Base
+415F4F54485F31303033	Accessories - Other	Dragon Scale	"+1
+415F4F54485F32303033	Accessories - Other	Dragon Scale	"+2
+415F4F54485F33303033	Accessories - Other	Dragon Scale	"+3
+415F4F54485F30303034	Accessories - Other	Garter	Base
+415F4F54485F31303034	Accessories - Other	Garter	"+1
+415F4F54485F32303034	Accessories - Other	Garter	"+2
+415F4F54485F33303034	Accessories - Other	Garter	"+3
+415F4F54485F30303035	Accessories - Other	Tough Guy Tattoo	Base
+415F4F54485F31303035	Accessories - Other	Tough Guy Tattoo	"+1
+415F4F54485F32303035	Accessories - Other	Tough Guy Tattoo	"+2
+415F4F54485F33303035	Accessories - Other	Tough Guy Tattoo	"+3
+415F4F54485F30303036	Accessories - Other	Utility Belt	Base
+415F4F54485F31303036	Accessories - Other	Utility Belt	"+1
+415F4F54485F32303036	Accessories - Other	Utility Belt	"+2
+415F4F54485F33303036	Accessories - Other	Utility Belt	"+3
+415F4F54485F30303037	Accessories - Other	Rosary	Base
+415F4F54485F31303037	Accessories - Other	Rosary	"+1
+415F4F54485F32303037	Accessories - Other	Rosary	"+2
+415F4F54485F33303037	Accessories - Other	Rosary	"+3
+415F4F54485F30303038	Accessories - Other	Bling-Bling Belt	Base
+415F4F54485F31303038	Accessories - Other	Bling-Bling Belt	"+1
+415F4F54485F32303038	Accessories - Other	Bling-Bling Belt	"+2
+415F4F54485F33303038	Accessories - Other	Bling-Bling Belt	"+3
+415F4F54485F30303039	Accessories - Other	Titan Belt	Base
+415F4F54485F31303039	Accessories - Other	Titan Belt	"+1
+415F4F54485F32303039	Accessories - Other	Titan Belt	"+2
+415F4F54485F33303039	Accessories - Other	Titan Belt	"+3
+415F4F54485F30303130	Accessories - Other	Sorcerer's Stone	Base
+415F4F54485F31303130	Accessories - Other	Sorcerer's Stone	"+1
+415F4F54485F32303130	Accessories - Other	Sorcerer's Stone	"+2
+415F4F54485F33303130	Accessories - Other	Sorcerer's Stone	"+3
+415F4F54485F30303131	Accessories - Other	Holy Talisman	Base
+415F4F54485F31303131	Accessories - Other	Holy Talisman	"+1
+415F4F54485F32303131	Accessories - Other	Holy Talisman	"+2
+415F4F54485F33303131	Accessories - Other	Holy Talisman	"+3
+415F4F54485F30303132	Accessories - Other	Devil's Tail	Base
+415F4F54485F31303132	Accessories - Other	Devil's Tail	"+1
+415F4F54485F32303132	Accessories - Other	Devil's Tail	"+2
+415F4F54485F33303132	Accessories - Other	Devil's Tail	"+3
+415F4F54485F30303133	Accessories - Other	Ruby Of Protection	Base
+415F4F54485F31303133	Accessories - Other	Ruby Of Protection	"+1
+415F4F54485F32303133	Accessories - Other	Ruby Of Protection	"+2
+415F4F54485F33303133	Accessories - Other	Ruby Of Protection	"+3
+415F4F54485F30303134	Accessories - Other	Earthwyrm's Eye	Base
+415F4F54485F31303134	Accessories - Other	Earthwyrm's Eye	"+1
+415F4F54485F32303134	Accessories - Other	Earthwyrm's Eye	"+2
+415F4F54485F33303134	Accessories - Other	Earthwyrm's Eye	"+3
+415F4F54485F30303135	Accessories - Other	Lucky Dragon's Wing	Base
+415F4F54485F31303135	Accessories - Other	Lucky Dragon's Wing	"+1
+415F4F54485F32303135	Accessories - Other	Lucky Dragon's Wing	"+2
+415F4F54485F33303135	Accessories - Other	Lucky Dragon's Wing	"+3
+415F4F54485F30303136	Accessories - Other	Sovereign Seal	Base
+415F4F54485F31303136	Accessories - Other	Sovereign Seal	"+1
+415F4F54485F32303136	Accessories - Other	Sovereign Seal	"+2
+415F4F54485F33303136	Accessories - Other	Sovereign Seal	"+3
+415F4F54485F30303137	Accessories - Other	Venus'tear	Base
+415F4F54485F31303137	Accessories - Other	Venus'tear	"+1
+415F4F54485F32303137	Accessories - Other	Venus'tear	"+2
+415F4F54485F33303137	Accessories - Other	Venus'tear	"+3
+415F4F54485F30303138	Accessories - Other	Monarchic Mark	Base
+415F4F54485F31303138	Accessories - Other	Monarchic Mark	"+1
+415F4F54485F32303138	Accessories - Other	Monarchic Mark	"+2
+415F4F54485F33303138	Accessories - Other	Monarchic Mark	"+3
+415F4F54485F30303139	Accessories - Other	Elfin Charm	Base
+415F4F54485F31303139	Accessories - Other	Elfin Charm	"+1
+415F4F54485F32303139	Accessories - Other	Elfin Charm	"+2
+415F4F54485F33303139	Accessories - Other	Elfin Charm	"+3
+415F4F54485F30303232	Accessories - Other	Natty Cravat	Base
+415F4F54485F31303232	Accessories - Other	Natty Cravat	"+1
+415F4F54485F32303232	Accessories - Other	Natty Cravat	"+2
+415F4F54485F33303232	Accessories - Other	Natty Cravat	"+3
+415F4F54485F30303233	Accessories - Other	Suave Scarf	Base
+415F4F54485F31303233	Accessories - Other	Suave Scarf	"+1
+415F4F54485F32303233	Accessories - Other	Suave Scarf	"+2
+415F4F54485F33303233	Accessories - Other	Suave Scarf	"+3
+415F4F54485F30303234	Accessories - Other	Gemma's Eternal Charm	Base
+415F4F54485F30303235	Accessories - Other	Ogler's Digest	Base
+415F4F54485F31303235	Accessories - Other	Ogler's Digest	"+1
+415F4F54485F32303235	Accessories - Other	Ogler's Digest	"+2
+415F4F54485F33303235	Accessories - Other	Ogler's Digest	"+3
+415F4F54485F30303237	Accessories - Other	Healer	Base
+415F4F54485F31303237	Accessories - Other	Healer	"+1
+415F4F54485F32303237	Accessories - Other	Healer	"+2
+415F4F54485F33303237	Accessories - Other	Healer	"+3
+415F4F54485F30303238	Accessories - Other	Supplicant	Base
+415F4F54485F31303238	Accessories - Other	Supplicant	"+1
+415F4F54485F32303238	Accessories - Other	Supplicant	"+2
+415F4F54485F33303238	Accessories - Other	Supplicant	"+3
+415F4F54485F30303239	Accessories - Other	Assassin	Base
+415F4F54485F31303239	Accessories - Other	Assassin	"+1
+415F4F54485F32303239	Accessories - Other	Assassin	"+2
+415F4F54485F33303239	Accessories - Other	Assassin	"+3
+415F4F54485F30303330	Accessories - Other	Mystic	Base
+415F4F54485F31303330	Accessories - Other	Mystic	"+1
+415F4F54485F32303330	Accessories - Other	Mystic	"+2
+415F4F54485F33303330	Accessories - Other	Mystic	"+3
+415F4F54485F30303331	Accessories - Other	Vanguard	Base
+415F4F54485F31303331	Accessories - Other	Vanguard	"+1
+415F4F54485F32303331	Accessories - Other	Vanguard	"+2
+415F4F54485F33303331	Accessories - Other	Vanguard	"+3
+415F4F54485F30303332	Accessories - Other	Shield-Bearer	Base
+415F4F54485F31303332	Accessories - Other	Shield-Bearer	"+1
+415F4F54485F32303332	Accessories - Other	Shield-Bearer	"+2
+415F4F54485F33303332	Accessories - Other	Shield-Bearer	"+3
+415F4F54485F30303333	Accessories - Other	Warlock	Base
+415F4F54485F31303333	Accessories - Other	Warlock	"+1
+415F4F54485F32303333	Accessories - Other	Warlock	"+2
+415F4F54485F33303333	Accessories - Other	Warlock	"+3
+415F4F54485F30303334	Accessories - Other	Trickster	Base
+415F4F54485F31303334	Accessories - Other	Trickster	"+1
+415F4F54485F32303334	Accessories - Other	Trickster	"+2
+415F4F54485F33303334	Accessories - Other	Trickster	"+3
+415F4F54485F30303335	Accessories - Other	Traveller's Hood	Base
+415F4F54485F31303335	Accessories - Other	Traveller's Hood	"+1
+415F4F54485F32303335	Accessories - Other	Traveller's Hood	"+2
+415F4F54485F33303335	Accessories - Other	Traveller's Hood	"+3
+415F4F54485F30303336	Accessories - Other	Bell's Bow	Base
+415F4F54485F31303336	Accessories - Other	Bell's Bow	"+1
+415F4F54485F32303336	Accessories - Other	Bell's Bow	"+2
+415F4F54485F33303336	Accessories - Other	Bell's Bow	"+3
+455F5348495F30303031	Equipment - Shields	Pot Lid	Base
+455F5348495F31303031	Equipment - Shields	Pot Lid	"+1
+455F5348495F32303031	Equipment - Shields	Pot Lid	"+2
+455F5348495F33303031	Equipment - Shields	Pot Lid	"+3
+455F5348495F30303032	Equipment - Shields	Leather Shield	Base
+455F5348495F31303032	Equipment - Shields	Leather Shield	"+1
+455F5348495F32303032	Equipment - Shields	Leather Shield	"+2
+455F5348495F33303032	Equipment - Shields	Leather Shield	"+3
+455F5348495F30303033	Equipment - Shields	Scale Shield	Base
+455F5348495F31303033	Equipment - Shields	Scale Shield	"+1
+455F5348495F32303033	Equipment - Shields	Scale Shield	"+2
+455F5348495F33303033	Equipment - Shields	Scale Shield	"+3
+455F5348495F30303034	Equipment - Shields	Silver Platter	Base
+455F5348495F31303034	Equipment - Shields	Silver Platter	"+1
+455F5348495F32303034	Equipment - Shields	Silver Platter	"+2
+455F5348495F33303034	Equipment - Shields	Silver Platter	"+3
+455F5348495F30303035	Equipment - Shields	Gold Platter	Base
+455F5348495F31303035	Equipment - Shields	Gold Platter	"+1
+455F5348495F32303035	Equipment - Shields	Gold Platter	"+2
+455F5348495F33303035	Equipment - Shields	Gold Platter	"+3
+455F5348495F30303036	Equipment - Shields	Light Shield	Base
+455F5348495F31303036	Equipment - Shields	Light Shield	"+1
+455F5348495F32303036	Equipment - Shields	Light Shield	"+2
+455F5348495F33303036	Equipment - Shields	Light Shield	"+3
+455F5348495F30303037	Equipment - Shields	Platinum Platter	Base
+455F5348495F31303037	Equipment - Shields	Platinum Platter	"+1
+455F5348495F32303037	Equipment - Shields	Platinum Platter	"+2
+455F5348495F33303037	Equipment - Shields	Platinum Platter	"+3
+455F5348495F30303038	Equipment - Shields	Magic Shield	Base
+455F5348495F31303038	Equipment - Shields	Magic Shield	"+1
+455F5348495F32303038	Equipment - Shields	Magic Shield	"+2
+455F5348495F33303038	Equipment - Shields	Magic Shield	"+3
+455F5348495F30303039	Equipment - Shields	Flame Shield	Base
+455F5348495F31303039	Equipment - Shields	Flame Shield	"+1
+455F5348495F32303039	Equipment - Shields	Flame Shield	"+2
+455F5348495F33303039	Equipment - Shields	Flame Shield	"+3
+455F5348495F30303130	Equipment - Shields	Flame Shield	Base
+455F5348495F31303130	Equipment - Shields	Flame Shield	"+1
+455F5348495F32303130	Equipment - Shields	Flame Shield	"+2
+455F5348495F33303130	Equipment - Shields	Flame Shield	"+3
+455F5348495F30303131	Equipment - Shields	Ice Shield	Base
+455F5348495F31303131	Equipment - Shields	Ice Shield	"+1
+455F5348495F32303131	Equipment - Shields	Ice Shield	"+2
+455F5348495F33303131	Equipment - Shields	Ice Shield	"+3
+455F5348495F30303132	Equipment - Shields	White Shield	Base
+455F5348495F31303132	Equipment - Shields	White Shield	"+1
+455F5348495F32303132	Equipment - Shields	White Shield	"+2
+455F5348495F33303132	Equipment - Shields	White Shield	"+3
+455F5348495F30303133	Equipment - Shields	Enchanted Shield	Base
+455F5348495F31303133	Equipment - Shields	Enchanted Shield	"+1
+455F5348495F32303133	Equipment - Shields	Enchanted Shield	"+2
+455F5348495F33303133	Equipment - Shields	Enchanted Shield	"+3
+455F5348495F30303134	Equipment - Shields	Metal Slime Shield	Base
+455F5348495F31303134	Equipment - Shields	Metal Slime Shield	"+1
+455F5348495F32303134	Equipment - Shields	Metal Slime Shield	"+2
+455F5348495F33303134	Equipment - Shields	Metal Slime Shield	"+3
+455F5348495F30303135	Equipment - Shields	Ethereal Shield	Base
+455F5348495F31303135	Equipment - Shields	Ethereal Shield	"+1
+455F5348495F32303135	Equipment - Shields	Ethereal Shield	"+2
+455F5348495F33303135	Equipment - Shields	Ethereal Shield	"+3
+455F5348495F30303136	Equipment - Shields	Silver Shield	Base
+455F5348495F31303136	Equipment - Shields	Silver Shield	"+1
+455F5348495F32303136	Equipment - Shields	Silver Shield	"+2
+455F5348495F33303136	Equipment - Shields	Silver Shield	"+3
+455F5348495F30303137	Equipment - Shields	Liquid Metal Slime Shield	Base
+455F5348495F31303137	Equipment - Shields	Liquid Metal Slime Shield	"+1
+455F5348495F32303137	Equipment - Shields	Liquid Metal Slime Shield	"+2
+455F5348495F33303137	Equipment - Shields	Liquid Metal Slime Shield	"+3
+455F5348495F30303138	Equipment - Shields	Psyche Swiper	Base
+455F5348495F31303138	Equipment - Shields	Psyche Swiper	"+1
+455F5348495F32303138	Equipment - Shields	Psyche Swiper	"+2
+455F5348495F33303138	Equipment - Shields	Psyche Swiper	"+3
+455F5348495F30303139	Equipment - Shields	Devilry Drinker	Base
+455F5348495F31303139	Equipment - Shields	Devilry Drinker	"+1
+455F5348495F32303139	Equipment - Shields	Devilry Drinker	"+2
+455F5348495F33303139	Equipment - Shields	Devilry Drinker	"+3
+455F5348495F30303230	Equipment - Shields	Erdwin's Shield	Base
+455F5348495F31303230	Equipment - Shields	Erdwin's Shield	"+1
+455F5348495F32303230	Equipment - Shields	Erdwin's Shield	"+2
+455F5348495F33303230	Equipment - Shields	Erdwin's Shield	"+3
+455F5348495F30303231	Equipment - Shields	Metal King Shield	Base
+455F5348495F31303231	Equipment - Shields	Metal King Shield	"+1
+455F5348495F32303231	Equipment - Shields	Metal King Shield	"+2
+455F5348495F33303231	Equipment - Shields	Metal King Shield	"+3
+455F5348495F30303232	Equipment - Shields	Soul Sucker	Base
+455F5348495F31303232	Equipment - Shields	Soul Sucker	"+1
+455F5348495F32303232	Equipment - Shields	Soul Sucker	"+2
+455F5348495F33303232	Equipment - Shields	Soul Sucker	"+3
+455F5348495F30393938	Equipment - Shields	Soul Sucker	Base
+455F4C53485F30303031	Equipment - Greatshields	Bronze Shield	Base
+455F4C53485F31303031	Equipment - Greatshields	Bronze Shield	"+1
+455F4C53485F32303031	Equipment - Greatshields	Bronze Shield	"+2
+455F4C53485F33303031	Equipment - Greatshields	Bronze Shield	"+3
+455F4C53485F30303032	Equipment - Greatshields	Iron Shield	Base
+455F4C53485F31303032	Equipment - Greatshields	Iron Shield	"+1
+455F4C53485F32303032	Equipment - Greatshields	Iron Shield	"+2
+455F4C53485F33303032	Equipment - Greatshields	Iron Shield	"+3
+455F4C53485F30303033	Equipment - Greatshields	Steel Shield	Base
+455F4C53485F31303033	Equipment - Greatshields	Steel Shield	"+1
+455F4C53485F32303033	Equipment - Greatshields	Steel Shield	"+2
+455F4C53485F33303033	Equipment - Greatshields	Steel Shield	"+3
+455F4C53485F30303034	Equipment - Greatshields	Shield Od Heliodor	Base
+455F4C53485F31303034	Equipment - Greatshields	Shield Od Heliodor	"+1
+455F4C53485F32303034	Equipment - Greatshields	Shield Od Heliodor	"+2
+455F4C53485F33303034	Equipment - Greatshields	Shield Od Heliodor	"+3
+455F4C53485F30303035	Equipment - Greatshields	Platinum Shield	Base
+455F4C53485F31303035	Equipment - Greatshields	Platinum Shield	"+1
+455F4C53485F32303035	Equipment - Greatshields	Platinum Shield	"+2
+455F4C53485F33303035	Equipment - Greatshields	Platinum Shield	"+3
+455F4C53485F30303036	Equipment - Greatshields	Warrior's Shield	Base
+455F4C53485F31303036	Equipment - Greatshields	Warrior's Shield	"+1
+455F4C53485F32303036	Equipment - Greatshields	Warrior's Shield	"+2
+455F4C53485F33303036	Equipment - Greatshields	Warrior's Shield	"+3
+455F4C53485F30303037	Equipment - Greatshields	Dragon Shield	Base
+455F4C53485F31303037	Equipment - Greatshields	Dragon Shield	"+1
+455F4C53485F32303037	Equipment - Greatshields	Dragon Shield	"+2
+455F4C53485F33303037	Equipment - Greatshields	Dragon Shield	"+3
+455F4C53485F30303038	Equipment - Greatshields	Dark Shield	Base
+455F4C53485F31303038	Equipment - Greatshields	Dark Shield	"+1
+455F4C53485F32303038	Equipment - Greatshields	Dark Shield	"+2
+455F4C53485F33303038	Equipment - Greatshields	Dark Shield	"+3
+455F4C53485F30303039	Equipment - Greatshields	Saintess Shield	Base
+455F4C53485F31303039	Equipment - Greatshields	Saintess Shield	"+1
+455F4C53485F32303039	Equipment - Greatshields	Saintess Shield	"+2
+455F4C53485F33303039	Equipment - Greatshields	Saintess Shield	"+3
+455F4C53485F30303130	Equipment - Greatshields	Ogre Shield	Base
+455F4C53485F31303130	Equipment - Greatshields	Ogre Shield	"+1
+455F4C53485F32303130	Equipment - Greatshields	Ogre Shield	"+2
+455F4C53485F33303130	Equipment - Greatshields	Ogre Shield	"+3
+455F4C53485F30303131	Equipment - Greatshields	Ruinous Shield	Base
+455F4C53485F31303131	Equipment - Greatshields	Ruinous Shield	"+1
+455F4C53485F32303131	Equipment - Greatshields	Ruinous Shield	"+2
+455F4C53485F33303131	Equipment - Greatshields	Ruinous Shield	"+3
+455F4C53485F30303132	Equipment - Greatshields	Goddess Shield	Base
+455F4C53485F31303132	Equipment - Greatshields	Goddess Shield	"+1
+455F4C53485F32303132	Equipment - Greatshields	Goddess Shield	"+2
+455F4C53485F33303132	Equipment - Greatshields	Goddess Shield	"+3
+455F4C53485F30303133	Equipment - Greatshields	Drustan's Shield	Base
+455F4C53485F31303133	Equipment - Greatshields	Drustan's Shield	"+1
+455F4C53485F32303133	Equipment - Greatshields	Drustan's Shield	"+2
+455F4C53485F33303133	Equipment - Greatshields	Drustan's Shield	"+3
+455F434C4F5F30303031	Equipment - Clothes	Mardi Garb	Base
+455F434C4F5F31303031	Equipment - Clothes	Mardi Garb	"+1
+455F434C4F5F32303031	Equipment - Clothes	Mardi Garb	"+2
+455F434C4F5F33303031	Equipment - Clothes	Mardi Garb	"+3
+455F434C4F5F30303032	Equipment - Clothes	Plain Clothes	Base
+455F434C4F5F31303032	Equipment - Clothes	Plain Clothes	"+1
+455F434C4F5F32303032	Equipment - Clothes	Plain Clothes	"+2
+455F434C4F5F33303032	Equipment - Clothes	Plain Clothes	"+3
+455F434C4F5F30303033	Equipment - Clothes	Wayfarer’s Clothes	Base
+455F434C4F5F31303033	Equipment - Clothes	Wayfarer’s Clothes	"+1
+455F434C4F5F32303033	Equipment - Clothes	Wayfarer’s Clothes	"+2
+455F434C4F5F33303033	Equipment - Clothes	Wayfarer’s Clothes	"+3
+455F434C4F5F30303034	Equipment - Clothes	Boxer Shorts	Base
+455F434C4F5F31303034	Equipment - Clothes	Boxer Shorts	"+1
+455F434C4F5F32303034	Equipment - Clothes	Boxer Shorts	"+2
+455F434C4F5F33303034	Equipment - Clothes	Boxer Shorts	"+3
+455F434C4F5F30303035	Equipment - Clothes	Templar’s Uniform	Base
+455F434C4F5F31303035	Equipment - Clothes	Templar’s Uniform	"+1
+455F434C4F5F32303035	Equipment - Clothes	Templar’s Uniform	"+2
+455F434C4F5F33303035	Equipment - Clothes	Templar’s Uniform	"+3
+455F434C4F5F30303036	Equipment - Clothes	Leather Dress	Base
+455F434C4F5F31303036	Equipment - Clothes	Leather Dress	"+1
+455F434C4F5F32303036	Equipment - Clothes	Leather Dress	"+2
+455F434C4F5F33303036	Equipment - Clothes	Leather Dress	"+3
+455F434C4F5F30303037	Equipment - Clothes	Leather Cape	Base
+455F434C4F5F31303037	Equipment - Clothes	Leather Cape	"+1
+455F434C4F5F32303037	Equipment - Clothes	Leather Cape	"+2
+455F434C4F5F33303037	Equipment - Clothes	Leather Cape	"+3
+455F434C4F5F30303039	Equipment - Clothes	Fur Poncho	Base
+455F434C4F5F31303039	Equipment - Clothes	Fur Poncho	"+1
+455F434C4F5F32303039	Equipment - Clothes	Fur Poncho	"+2
+455F434C4F5F33303039	Equipment - Clothes	Fur Poncho	"+3
+455F434C4F5F30303130	Equipment - Clothes	Cloak of Evasion	Base
+455F434C4F5F31303130	Equipment - Clothes	Cloak of Evasion	"+1
+455F434C4F5F32303130	Equipment - Clothes	Cloak of Evasion	"+2
+455F434C4F5F33303130	Equipment - Clothes	Cloak of Evasion	"+3
+455F434C4F5F30303131	Equipment - Clothes	Posh Waiscoat	Base
+455F434C4F5F31303131	Equipment - Clothes	Posh Waiscoat	"+1
+455F434C4F5F32303131	Equipment - Clothes	Posh Waiscoat	"+2
+455F434C4F5F33303131	Equipment - Clothes	Posh Waiscoat	"+3
+455F434C4F5F30303132	Equipment - Clothes	Pretty Pinny	Base
+455F434C4F5F31303132	Equipment - Clothes	Pretty Pinny	"+1
+455F434C4F5F32303132	Equipment - Clothes	Pretty Pinny	"+2
+455F434C4F5F33303132	Equipment - Clothes	Pretty Pinny	"+3
+455F434C4F5F30303133	Equipment - Clothes	Dainty Dress	Base
+455F434C4F5F31303133	Equipment - Clothes	Dainty Dress	"+1
+455F434C4F5F32303133	Equipment - Clothes	Dainty Dress	"+2
+455F434C4F5F33303133	Equipment - Clothes	Dainty Dress	"+3
+455F434C4F5F30303134	Equipment - Clothes	Smart Suit	Base
+455F434C4F5F31303134	Equipment - Clothes	Smart Suit	"+1
+455F434C4F5F32303134	Equipment - Clothes	Smart Suit	"+2
+455F434C4F5F33303134	Equipment - Clothes	Smart Suit	"+3
+455F434C4F5F30303135	Equipment - Clothes	Silk Bustier	Base
+455F434C4F5F31303135	Equipment - Clothes	Silk Bustier	"+1
+455F434C4F5F32303135	Equipment - Clothes	Silk Bustier	"+2
+455F434C4F5F33303135	Equipment - Clothes	Silk Bustier	"+3
+455F434C4F5F30303136	Equipment - Clothes	Sprangled Dress	Base
+455F434C4F5F31303136	Equipment - Clothes	Sprangled Dress	"+1
+455F434C4F5F32303136	Equipment - Clothes	Sprangled Dress	"+2
+455F434C4F5F33303136	Equipment - Clothes	Sprangled Dress	"+3
+455F434C4F5F30303137	Equipment - Clothes	Magical Skirt	Base
+455F434C4F5F31303137	Equipment - Clothes	Magical Skirt	"+1
+455F434C4F5F32303137	Equipment - Clothes	Magical Skirt	"+2
+455F434C4F5F33303137	Equipment - Clothes	Magical Skirt	"+3
+455F434C4F5F30303138	Equipment - Clothes	Velvet Cape	Base
+455F434C4F5F31303138	Equipment - Clothes	Velvet Cape	"+1
+455F434C4F5F32303138	Equipment - Clothes	Velvet Cape	"+2
+455F434C4F5F33303138	Equipment - Clothes	Velvet Cape	"+3
+455F434C4F5F30303139	Equipment - Clothes	Dragon Dojo Duds	Base
+455F434C4F5F31303139	Equipment - Clothes	Dragon Dojo Duds	"+1
+455F434C4F5F32303139	Equipment - Clothes	Dragon Dojo Duds	"+2
+455F434C4F5F33303139	Equipment - Clothes	Dragon Dojo Duds	"+3
+455F434C4F5F30303230	Equipment - Clothes	Uniform de l’Academie	Base
+455F434C4F5F31303230	Equipment - Clothes	Uniform de l’Academie	"+1
+455F434C4F5F32303230	Equipment - Clothes	Uniform de l’Academie	"+2
+455F434C4F5F33303230	Equipment - Clothes	Uniform de l’Academie	"+3
+455F434C4F5F30303231	Equipment - Clothes	Hairy Vest	Base
+455F434C4F5F31303231	Equipment - Clothes	Hairy Vest	"+1
+455F434C4F5F32303231	Equipment - Clothes	Hairy Vest	"+2
+455F434C4F5F33303231	Equipment - Clothes	Hairy Vest	"+3
+455F434C4F5F30303232	Equipment - Clothes	Strongsam	Base
+455F434C4F5F31303232	Equipment - Clothes	Strongsam	"+1
+455F434C4F5F32303232	Equipment - Clothes	Strongsam	"+2
+455F434C4F5F33303232	Equipment - Clothes	Strongsam	"+3
+455F434C4F5F30303233	Equipment - Clothes	Shimmering Dress	Base
+455F434C4F5F31303233	Equipment - Clothes	Shimmering Dress	"+1
+455F434C4F5F32303233	Equipment - Clothes	Shimmering Dress	"+2
+455F434C4F5F33303233	Equipment - Clothes	Shimmering Dress	"+3
+455F434C4F5F30303234	Equipment - Clothes	Twinkling Tuxedo	Base
+455F434C4F5F31303234	Equipment - Clothes	Twinkling Tuxedo	"+1
+455F434C4F5F32303234	Equipment - Clothes	Twinkling Tuxedo	"+2
+455F434C4F5F33303234	Equipment - Clothes	Twinkling Tuxedo	"+3
+455F434C4F5F30303235	Equipment - Clothes	Rogue’s Robes	Base
+455F434C4F5F31303235	Equipment - Clothes	Rogue’s Robes	"+1
+455F434C4F5F32303235	Equipment - Clothes	Rogue’s Robes	"+2
+455F434C4F5F33303235	Equipment - Clothes	Rogue’s Robes	"+3
+455F434C4F5F30303236	Equipment - Clothes	Macabre Mantle	Base
+455F434C4F5F31303236	Equipment - Clothes	Macabre Mantle	"+1
+455F434C4F5F32303236	Equipment - Clothes	Macabre Mantle	"+2
+455F434C4F5F33303236	Equipment - Clothes	Macabre Mantle	"+3
+455F434C4F5F30303237	Equipment - Clothes	Saintess Dress	Base
+455F434C4F5F31303237	Equipment - Clothes	Saintess Dress	"+1
+455F434C4F5F32303237	Equipment - Clothes	Saintess Dress	"+2
+455F434C4F5F33303237	Equipment - Clothes	Saintess Dress	"+3
+455F434C4F5F30303238	Equipment - Clothes	Dancer’s Costume	Base
+455F434C4F5F31303238	Equipment - Clothes	Dancer’s Costume	"+1
+455F434C4F5F32303238	Equipment - Clothes	Dancer’s Costume	"+2
+455F434C4F5F33303238	Equipment - Clothes	Dancer’s Costume	"+3
+455F434C4F5F30303239	Equipment - Clothes	Divine Bustier	Base
+455F434C4F5F31303239	Equipment - Clothes	Divine Bustier	"+1
+455F434C4F5F32303239	Equipment - Clothes	Divine Bustier	"+2
+455F434C4F5F33303239	Equipment - Clothes	Divine Bustier	"+3
+455F434C4F5F30303333	Equipment - Clothes	Scandalous Swimsuit	Base
+455F434C4F5F31303333	Equipment - Clothes	Scandalous Swimsuit	"+1
+455F434C4F5F32303333	Equipment - Clothes	Scandalous Swimsuit	"+2
+455F434C4F5F33303333	Equipment - Clothes	Scandalous Swimsuit	"+3
+455F434C4F5F30303334	Equipment - Clothes	Agility Gilet	Base
+455F434C4F5F31303334	Equipment - Clothes	Agility Gilet	"+1
+455F434C4F5F32303334	Equipment - Clothes	Agility Gilet	"+2
+455F434C4F5F33303334	Equipment - Clothes	Agility Gilet	"+3
+455F434C4F5F30303335	Equipment - Clothes	Swindler’s Stole	Base
+455F434C4F5F31303335	Equipment - Clothes	Swindler’s Stole	"+1
+455F434C4F5F32303335	Equipment - Clothes	Swindler’s Stole	"+2
+455F434C4F5F33303335	Equipment - Clothes	Swindler’s Stole	"+3
+455F434C4F5F30303336	Equipment - Clothes	Cat Suit	Base
+455F434C4F5F31303336	Equipment - Clothes	Cat Suit	"+1
+455F434C4F5F32303336	Equipment - Clothes	Cat Suit	"+2
+455F434C4F5F33303336	Equipment - Clothes	Cat Suit	"+3
+455F434C4F5F30303337	Equipment - Clothes	Dapper Doublet	Base
+455F434C4F5F31303337	Equipment - Clothes	Dapper Doublet	"+1
+455F434C4F5F32303337	Equipment - Clothes	Dapper Doublet	"+2
+455F434C4F5F33303337	Equipment - Clothes	Dapper Doublet	"+3
+455F434C4F5F30303338	Equipment - Clothes	Drasilian Dress Coat	Base
+455F434C4F5F31303338	Equipment - Clothes	Drasilian Dress Coat	"+1
+455F434C4F5F32303338	Equipment - Clothes	Drasilian Dress Coat	"+2
+455F434C4F5F33303338	Equipment - Clothes	Drasilian Dress Coat	"+3
+455F434C4F5F30303339	Equipment - Clothes	General’s Jacket	Base
+455F434C4F5F31303339	Equipment - Clothes	General’s Jacket	"+1
+455F434C4F5F32303339	Equipment - Clothes	General’s Jacket	"+2
+455F434C4F5F33303339	Equipment - Clothes	General’s Jacket	"+3
+455F434C4F5F30303430	Equipment - Clothes	Star’s Suit	Base
+455F434C4F5F31303430	Equipment - Clothes	Star’s Suit	"+1
+455F434C4F5F32303430	Equipment - Clothes	Star’s Suit	"+2
+455F434C4F5F33303430	Equipment - Clothes	Star’s Suit	"+3
+455F434C4F5F30303432	Equipment - Clothes	Combat Costume	Base
+455F434C4F5F31303432	Equipment - Clothes	Combat Costume	"+1
+455F434C4F5F32303432	Equipment - Clothes	Combat Costume	"+2
+455F434C4F5F33303432	Equipment - Clothes	Combat Costume	"+3
+455F434C4F5F30303433	Equipment - Clothes	Brigandine	Base
+455F434C4F5F31303433	Equipment - Clothes	Brigandine	"+1
+455F434C4F5F32303433	Equipment - Clothes	Brigandine	"+2
+455F434C4F5F33303433	Equipment - Clothes	Brigandine	"+3
+455F434C4F5F30303434	Equipment - Clothes	Liquid Metal Jacket	Base
+455F434C4F5F31303434	Equipment - Clothes	Liquid Metal Jacket	"+1
+455F434C4F5F32303434	Equipment - Clothes	Liquid Metal Jacket	"+2
+455F434C4F5F33303434	Equipment - Clothes	Liquid Metal Jacket	"+3
+455F434C4F5F30303435	Equipment - Clothes	Superstar’s Suit	Base
+455F434C4F5F31303435	Equipment - Clothes	Superstar’s Suit	"+1
+455F434C4F5F32303435	Equipment - Clothes	Superstar’s Suit	"+2
+455F434C4F5F33303435	Equipment - Clothes	Superstar’s Suit	"+3
+455F434C4F5F30303436	Equipment - Clothes	Freebooter’s Bolero	Base
+455F434C4F5F31303436	Equipment - Clothes	Freebooter’s Bolero	"+1
+455F434C4F5F32303436	Equipment - Clothes	Freebooter’s Bolero	"+2
+455F434C4F5F33303436	Equipment - Clothes	Freebooter’s Bolero	"+3
+455F434C4F5F30303438	Equipment - Clothes	Dragonskin Jacket	Base
+455F434C4F5F31303438	Equipment - Clothes	Dragonskin Jacket	"+1
+455F434C4F5F32303438	Equipment - Clothes	Dragonskin Jacket	"+2
+455F434C4F5F33303438	Equipment - Clothes	Dragonskin Jacket	"+3
+455F434C4F5F30303439	Equipment - Clothes	Stellar Suit	Base
+455F434C4F5F31303439	Equipment - Clothes	Stellar Suit	"+1
+455F434C4F5F32303439	Equipment - Clothes	Stellar Suit	"+2
+455F434C4F5F33303439	Equipment - Clothes	Stellar Suit	"+3
+455F434C4F5F30303530	Equipment - Clothes	Metal King Jacket	Base
+455F434C4F5F31303530	Equipment - Clothes	Metal King Jacket	"+1
+455F434C4F5F32303530	Equipment - Clothes	Metal King Jacket	"+2
+455F434C4F5F33303530	Equipment - Clothes	Metal King Jacket	"+3
+455F434C4F5F30303531	Equipment - Clothes	Exotoga	Base
+455F434C4F5F31303531	Equipment - Clothes	Exotoga	"+1
+455F434C4F5F32303531	Equipment - Clothes	Exotoga	"+2
+455F434C4F5F33303531	Equipment - Clothes	Exotoga	"+3
+455F434C4F5F30303532	Equipment - Clothes	Erdwin’s Tunic	Base
+455F434C4F5F31303532	Equipment - Clothes	Erdwin’s Tunic	"+1
+455F434C4F5F32303532	Equipment - Clothes	Erdwin’s Tunic	"+2
+455F434C4F5F33303532	Equipment - Clothes	Erdwin’s Tunic	"+3
+455F434C4F5F30303533	Equipment - Clothes	Pirate King’s Coat	Base
+455F434C4F5F31303533	Equipment - Clothes	Pirate King’s Coat	"+1
+455F434C4F5F32303533	Equipment - Clothes	Pirate King’s Coat	"+2
+455F434C4F5F33303533	Equipment - Clothes	Pirate King’s Coat	"+3
+455F434C4F5F30303534	Equipment - Clothes	Swindler King’s Stole	Base
+455F434C4F5F31303534	Equipment - Clothes	Swindler King’s Stole	"+1
+455F434C4F5F32303534	Equipment - Clothes	Swindler King’s Stole	"+2
+455F434C4F5F33303534	Equipment - Clothes	Swindler King’s Stole	"+3
+455F434C4F5F30303535	Equipment - Clothes	Serenica’s Surplice	Base
+455F434C4F5F31303535	Equipment - Clothes	Serenica’s Surplice	"+1
+455F434C4F5F32303535	Equipment - Clothes	Serenica’s Surplice	"+2
+455F434C4F5F33303535	Equipment - Clothes	Serenica’s Surplice	"+3
+455F434C4F5F30303536	Equipment - Clothes	Sacred Raiment	Base
+455F434C4F5F31303536	Equipment - Clothes	Sacred Raiment	"+1
+455F434C4F5F32303536	Equipment - Clothes	Sacred Raiment	"+2
+455F434C4F5F33303536	Equipment - Clothes	Sacred Raiment	"+3
+455F434C4F5F30303537	Equipment - Clothes	Glad Rags	Base
+455F434C4F5F31303537	Equipment - Clothes	Glad Rags	"+1
+455F434C4F5F32303537	Equipment - Clothes	Glad Rags	"+2
+455F434C4F5F33303537	Equipment - Clothes	Glad Rags	"+3
+455F434C4F5F30303538	Equipment - Clothes	Dashing Doublet	Base
+455F434C4F5F31303538	Equipment - Clothes	Dashing Doublet	"+1
+455F434C4F5F32303538	Equipment - Clothes	Dashing Doublet	"+2
+455F434C4F5F33303538	Equipment - Clothes	Dashing Doublet	"+3
+455F434C4F5F30303539	Equipment - Clothes	Xenlon Gown	Base
+455F434C4F5F31303539	Equipment - Clothes	Xenlon Gown	"+1
+455F434C4F5F32303539	Equipment - Clothes	Xenlon Gown	"+2
+455F434C4F5F33303539	Equipment - Clothes	Xenlon Gown	"+3
+455F434C4F5F30303630	Equipment - Clothes	Pallium Regale	Base
+455F434C4F5F31303630	Equipment - Clothes	Pallium Regale	"+1
+455F434C4F5F32303630	Equipment - Clothes	Pallium Regale	"+2
+455F434C4F5F33303630	Equipment - Clothes	Pallium Regale	"+3
+455F434C4F5F30303631	Equipment - Clothes	Yggdrasil Dress Coat	Base
+455F434C4F5F31303631	Equipment - Clothes	Yggdrasil Dress Coat	"+1
+455F434C4F5F32303631	Equipment - Clothes	Yggdrasil Dress Coat	"+2
+455F434C4F5F33303631	Equipment - Clothes	Yggdrasil Dress Coat	"+3
+455F434C4F5F30303632	Equipment - Clothes	Field Marshal’s Finery	Base
+455F434C4F5F31303632	Equipment - Clothes	Field Marshal’s Finery	"+1
+455F434C4F5F32303632	Equipment - Clothes	Field Marshal’s Finery	"+2
+455F434C4F5F33303632	Equipment - Clothes	Field Marshal’s Finery	"+3
+455F434C4F5F30303633	Equipment - Clothes	Cobblestone Clobber	Base
+455F434C4F5F31303633	Equipment - Clothes	Cobblestone Clobber	"+1
+455F434C4F5F32303633	Equipment - Clothes	Cobblestone Clobber	"+2
+455F434C4F5F33303633	Equipment - Clothes	Cobblestone Clobber	"+3
+455F434C4F5F30303634	Equipment - Clothes	Bunny Suit	Base
+455F434C4F5F31303634	Equipment - Clothes	Bunny Suit	"+1
+455F434C4F5F32303634	Equipment - Clothes	Bunny Suit	"+2
+455F434C4F5F33303634	Equipment - Clothes	Bunny Suit	"+3
+455F434C4F5F30303635	Equipment - Clothes	Corsair’s Coat	Base
+455F434C4F5F31303635	Equipment - Clothes	Corsair’s Coat	"+1
+455F434C4F5F32303635	Equipment - Clothes	Corsair’s Coat	"+2
+455F434C4F5F33303635	Equipment - Clothes	Corsair’s Coat	"+3
+455F434C4F5F30303636	Equipment - Clothes	Potentate’s Pallium	Base
+455F434C4F5F31303636	Equipment - Clothes	Potentate’s Pallium	"+1
+455F434C4F5F32303636	Equipment - Clothes	Potentate’s Pallium	"+2
+455F434C4F5F33303636	Equipment - Clothes	Potentate’s Pallium	"+3
+455F434C4F5F30303637	Equipment - Clothes	Gladder Rags	Base
+455F434C4F5F31303637	Equipment - Clothes	Gladder Rags	"+1
+455F434C4F5F32303637	Equipment - Clothes	Gladder Rags	"+2
+455F434C4F5F33303637	Equipment - Clothes	Gladder Rags	"+3
+455F434C4F5F30303638	Equipment - Clothes	Hot Bikini	Base
+455F434C4F5F31303638	Equipment - Clothes	Hot Bikini	"+1
+455F434C4F5F32303638	Equipment - Clothes	Hot Bikini	"+2
+455F434C4F5F33303638	Equipment - Clothes	Hot Bikini	"+3
+455F434C4F5F30303639	Equipment - Clothes	Arriviste’s Vest	Base
+455F434C4F5F31303639	Equipment - Clothes	Arriviste’s Vest	"+1
+455F434C4F5F32303639	Equipment - Clothes	Arriviste’s Vest	"+2
+455F434C4F5F33303639	Equipment - Clothes	Arriviste’s Vest	"+3
+455F434C4F5F30303730	Equipment - Clothes	Elevating Vest	Base
+455F434C4F5F31303730	Equipment - Clothes	Elevating Vest	"+1
+455F434C4F5F32303730	Equipment - Clothes	Elevating Vest	"+2
+455F434C4F5F33303730	Equipment - Clothes	Elevating Vest	"+3
+455F434C4F5F30303731	Equipment - Clothes	Vest for Success	Base
+455F434C4F5F31303731	Equipment - Clothes	Vest for Success	"+1
+455F434C4F5F32303731	Equipment - Clothes	Vest for Success	"+2
+455F434C4F5F33303731	Equipment - Clothes	Vest for Success	"+3
+455F434C4F5F30393938	Equipment - Clothes	Crimson Catsuit	Base
+455F434C4F5F31393938	Equipment - Clothes	Crimson Catsuit	"+1
+455F434C4F5F32393938	Equipment - Clothes	Crimson Catsuit	"+2
+455F434C4F5F33393938	Equipment - Clothes	Crimson Catsuit	"+3
+455F434C4F5F30393935	Equipment - Clothes	Black Cat Costume	Base
+455F434C4F5F31393935	Equipment - Clothes	Black Cat Costume	"+1
+455F434C4F5F32393935	Equipment - Clothes	Black Cat Costume	"+2
+455F434C4F5F33393935	Equipment - Clothes	Black Cat Costume	"+3
+455F434C4F5F30393936	Equipment - Clothes	Divine Dancer’s Costume	Base
+455F434C4F5F31393936	Equipment - Clothes	Divine Dancer’s Costume	"+1
+455F434C4F5F32393936	Equipment - Clothes	Divine Dancer’s Costume	"+2
+455F434C4F5F33393936	Equipment - Clothes	Divine Dancer’s Costume	"+3
+455F434C4F5F30393937	Equipment - Clothes	Uniforum Chic de l’Academie	Base
+455F434C4F5F31393937	Equipment - Clothes	Uniforum Chic de l’Academie	"+1
+455F434C4F5F32393937	Equipment - Clothes	Uniforum Chic de l’Academie	"+2
+455F434C4F5F33393937	Equipment - Clothes	Uniforum Chic de l’Academie	"+3
+455F434C4F5F30303732	Equipment - Clothes	Trodain Trogs	Base
+455F434C4F5F30333031	Equipment - Clothes	Peerless Parade Costume	
+455F434C4F5F30333032	Equipment - Clothes	Assassin’s Atire	
+455F434C4F5F30333033	Equipment - Clothes	Scarlet Suit	
+455F434C4F5F30333034	Equipment - Clothes	Hare-raising Suit	
+455F434C4F5F30333035	Equipment - Clothes	Grandest Master Garment	
+455F434C4F5F30333036	Equipment - Clothes	Wolf Wear	
+455F434C4F5F30333037	Equipment - Clothes	Baby Boar Costume	
+455F41524D5F30303031	Equipment - Armour	Leather Armour	Base
+455F41524D5F31303031	Equipment - Armour	Leather Armour	"+1
+455F41524D5F32303031	Equipment - Armour	Leather Armour	"+2
+455F41524D5F33303031	Equipment - Armour	Leather Armour	"+3
+455F41524D5F30303032	Equipment - Armour	Scale Armour	Base
+455F41524D5F31303032	Equipment - Armour	Scale Armour	"+1
+455F41524D5F32303032	Equipment - Armour	Scale Armour	"+2
+455F41524D5F33303032	Equipment - Armour	Scale Armour	"+3
+455F41524D5F30303033	Equipment - Armour	Chain Mail	Base
+455F41524D5F31303033	Equipment - Armour	Chain Mail	"+1
+455F41524D5F32303033	Equipment - Armour	Chain Mail	"+2
+455F41524D5F33303033	Equipment - Armour	Chain Mail	"+3
+455F41524D5F30303034	Equipment - Armour	Bronze Armour	Base
+455F41524D5F31303034	Equipment - Armour	Bronze Armour	"+1
+455F41524D5F32303034	Equipment - Armour	Bronze Armour	"+2
+455F41524D5F33303034	Equipment - Armour	Bronze Armour	"+3
+455F41524D5F30303035	Equipment - Armour	Iron Cuirass	Base
+455F41524D5F31303035	Equipment - Armour	Iron Cuirass	"+1
+455F41524D5F32303035	Equipment - Armour	Iron Cuirass	"+2
+455F41524D5F33303035	Equipment - Armour	Iron Cuirass	"+3
+455F41524D5F30303036	Equipment - Armour	Iron Armour	Base
+455F41524D5F31303036	Equipment - Armour	Iron Armour	"+1
+455F41524D5F32303036	Equipment - Armour	Iron Armour	"+2
+455F41524D5F33303036	Equipment - Armour	Iron Armour	"+3
+455F41524D5F30303037	Equipment - Armour	Tortoise Shell	Base
+455F41524D5F31303037	Equipment - Armour	Tortoise Shell	"+1
+455F41524D5F32303037	Equipment - Armour	Tortoise Shell	"+2
+455F41524D5F33303037	Equipment - Armour	Tortoise Shell	"+3
+455F41524D5F30303038	Equipment - Armour	Full Plate Armour	Base
+455F41524D5F31303038	Equipment - Armour	Full Plate Armour	"+1
+455F41524D5F32303038	Equipment - Armour	Full Plate Armour	"+2
+455F41524D5F33303038	Equipment - Armour	Full Plate Armour	"+3
+455F41524D5F30303039	Equipment - Armour	Zombie Mail	Base
+455F41524D5F31303039	Equipment - Armour	Zombie Mail	"+1
+455F41524D5F32303039	Equipment - Armour	Zombie Mail	"+2
+455F41524D5F33303039	Equipment - Armour	Zombie Mail	"+3
+455F41524D5F30303130	Equipment - Armour	Silver Cuirass	Base
+455F41524D5F31303130	Equipment - Armour	Silver Cuirass	"+1
+455F41524D5F32303130	Equipment - Armour	Silver Cuirass	"+2
+455F41524D5F33303130	Equipment - Armour	Silver Cuirass	"+3
+455F41524D5F30303131	Equipment - Armour	Silver Mail	Base
+455F41524D5F31303131	Equipment - Armour	Silver Mail	"+1
+455F41524D5F32303131	Equipment - Armour	Silver Mail	"+2
+455F41524D5F33303131	Equipment - Armour	Silver Mail	"+3
+455F41524D5F30303132	Equipment - Armour	Heavy Armour	Base
+455F41524D5F31303132	Equipment - Armour	Heavy Armour	"+1
+455F41524D5F32303132	Equipment - Armour	Heavy Armour	"+2
+455F41524D5F33303132	Equipment - Armour	Heavy Armour	"+3
+455F41524D5F30303133	Equipment - Armour	Magic Armour	Base
+455F41524D5F31303133	Equipment - Armour	Magic Armour	"+1
+455F41524D5F32303133	Equipment - Armour	Magic Armour	"+2
+455F41524D5F33303133	Equipment - Armour	Magic Armour	"+3
+455F41524D5F30303134	Equipment - Armour	Dancer's Mail	Base
+455F41524D5F31303134	Equipment - Armour	Dancer's Mail	"+1
+455F41524D5F32303134	Equipment - Armour	Dancer's Mail	"+2
+455F41524D5F33303134	Equipment - Armour	Dancer's Mail	"+3
+455F41524D5F30303135	Equipment - Armour	Dragon Mail	Base
+455F41524D5F31303135	Equipment - Armour	Dragon Mail	"+1
+455F41524D5F32303135	Equipment - Armour	Dragon Mail	"+2
+455F41524D5F33303135	Equipment - Armour	Dragon Mail	"+3
+455F41524D5F30303136	Equipment - Armour	Spiked Mail	Base
+455F41524D5F31303136	Equipment - Armour	Spiked Mail	"+1
+455F41524D5F32303136	Equipment - Armour	Spiked Mail	"+2
+455F41524D5F33303136	Equipment - Armour	Spiked Mail	"+3
+455F41524D5F30303137	Equipment - Armour	Platinum Mail	Base
+455F41524D5F31303137	Equipment - Armour	Platinum Mail	"+1
+455F41524D5F32303137	Equipment - Armour	Platinum Mail	"+2
+455F41524D5F33303137	Equipment - Armour	Platinum Mail	"+3
+455F41524D5F30303138	Equipment - Armour	Bandit Mail	Base
+455F41524D5F31303138	Equipment - Armour	Bandit Mail	"+1
+455F41524D5F32303138	Equipment - Armour	Bandit Mail	"+2
+455F41524D5F33303138	Equipment - Armour	Bandit Mail	"+3
+455F41524D5F30303139	Equipment - Armour	Mirror Armour	Base
+455F41524D5F31303139	Equipment - Armour	Mirror Armour	"+1
+455F41524D5F32303139	Equipment - Armour	Mirror Armour	"+2
+455F41524D5F33303139	Equipment - Armour	Mirror Armour	"+3
+455F41524D5F30303230	Equipment - Armour	Metal Slime Armour	Base
+455F41524D5F31303230	Equipment - Armour	Metal Slime Armour	"+1
+455F41524D5F32303230	Equipment - Armour	Metal Slime Armour	"+2
+455F41524D5F33303230	Equipment - Armour	Metal Slime Armour	"+3
+455F41524D5F30303231	Equipment - Armour	Drasilian Armour	Base
+455F41524D5F31303231	Equipment - Armour	Drasilian Armour	"+1
+455F41524D5F32303231	Equipment - Armour	Drasilian Armour	"+2
+455F41524D5F33303231	Equipment - Armour	Drasilian Armour	"+3
+455F41524D5F30303232	Equipment - Armour	Hendrik's Armour	Base
+455F41524D5F31303232	Equipment - Armour	Hendrik's Armour	"+1
+455F41524D5F32303232	Equipment - Armour	Hendrik's Armour	"+2
+455F41524D5F33303232	Equipment - Armour	Hendrik's Armour	"+3
+455F41524D5F30303233	Equipment - Armour	Gigant Armour	Base
+455F41524D5F31303233	Equipment - Armour	Gigant Armour	"+1
+455F41524D5F32303233	Equipment - Armour	Gigant Armour	"+2
+455F41524D5F33303233	Equipment - Armour	Gigant Armour	"+3
+455F41524D5F30303234	Equipment - Armour	Liquid Metal Armour	Base
+455F41524D5F31303234	Equipment - Armour	Liquid Metal Armour	"+1
+455F41524D5F32303234	Equipment - Armour	Liquid Metal Armour	"+2
+455F41524D5F33303234	Equipment - Armour	Liquid Metal Armour	"+3
+455F41524D5F30303235	Equipment - Armour	Sacred Armour	Base
+455F41524D5F31303235	Equipment - Armour	Sacred Armour	"+1
+455F41524D5F32303235	Equipment - Armour	Sacred Armour	"+2
+455F41524D5F33303235	Equipment - Armour	Sacred Armour	"+3
+455F41524D5F30303236	Equipment - Armour	Metal King Armour	Base
+455F41524D5F31303236	Equipment - Armour	Metal King Armour	"+1
+455F41524D5F32303236	Equipment - Armour	Metal King Armour	"+2
+455F41524D5F33303236	Equipment - Armour	Metal King Armour	"+3
+455F41524D5F30303237	Equipment - Armour	Legendary Armour	Base
+455F41524D5F31303237	Equipment - Armour	Legendary Armour	"+1
+455F41524D5F32303237	Equipment - Armour	Legendary Armour	"+2
+455F41524D5F33303237	Equipment - Armour	Legendary Armour	"+3
+455F41524D5F30303238	Equipment - Armour	Irwin's Armour	Base
+455F41524D5F31303238	Equipment - Armour	Irwin's Armour	"+1
+455F41524D5F32303238	Equipment - Armour	Irwin's Armour	"+2
+455F41524D5F33303238	Equipment - Armour	Irwin's Armour	"+3
+455F41524D5F30303239	Equipment - Armour	Drustan's Armour	Base
+455F41524D5F31303239	Equipment - Armour	Drustan's Armour	"+1
+455F41524D5F32303239	Equipment - Armour	Drustan's Armour	"+2
+455F41524D5F33303239	Equipment - Armour	Drustan's Armour	"+3
+455F41524D5F30303330	Equipment - Armour	Gallopolitan Armour	Base
+455F41524D5F31303330	Equipment - Armour	Gallopolitan Armour	"+1
+455F41524D5F32303330	Equipment - Armour	Gallopolitan Armour	"+2
+455F41524D5F33303330	Equipment - Armour	Gallopolitan Armour	"+3
+455F41524D5F30393938	Equipment - Armour	Tectonic Plate	Base
+455F41524D5F31393938	Equipment - Armour	Tectonic Plate	"+1
+455F41524D5F32393938	Equipment - Armour	Tectonic Plate	"+2
+455F41524D5F33393938	Equipment - Armour	Tectonic Plate	"+3
+455F41524D5F30333031	Equipment - Armour	Wolf Dragon Amour	Base
+455F41524D5F30333032	Equipment - Armour	Coraza de Caballero	Base
+455F41524D5F30333033	Equipment - Armour	Twin Eagle Armour	Base
+455F524F425F30303031	Equipment - Robes	Silk Robe	Base
+455F524F425F31303031	Equipment - Robes	Silk Robe	"+1
+455F524F425F32303031	Equipment - Robes	Silk Robe	"+2
+455F524F425F33303031	Equipment - Robes	Silk Robe	"+3
+455F524F425F30303032	Equipment - Robes	Fizzle-Retardant Suit	Base
+455F524F425F31303032	Equipment - Robes	Fizzle-Retardant Suit	"+1
+455F524F425F32303032	Equipment - Robes	Fizzle-Retardant Suit	"+2
+455F524F425F33303032	Equipment - Robes	Fizzle-Retardant Suit	"+3
+455F524F425F30303033	Equipment - Robes	Fizzle-Retardant Blouse	Base
+455F524F425F31303033	Equipment - Robes	Fizzle-Retardant Blouse	"+1
+455F524F425F32303033	Equipment - Robes	Fizzle-Retardant Blouse	"+2
+455F524F425F33303033	Equipment - Robes	Fizzle-Retardant Blouse	"+3
+455F524F425F30303034	Equipment - Robes	Robe Of Serenity	Base
+455F524F425F31303034	Equipment - Robes	Robe Of Serenity	"+1
+455F524F425F32303034	Equipment - Robes	Robe Of Serenity	"+2
+455F524F425F33303034	Equipment - Robes	Robe Of Serenity	"+3
+455F524F425F30303035	Equipment - Robes	Magic Vestment	Base
+455F524F425F31303035	Equipment - Robes	Magic Vestment	"+1
+455F524F425F32303035	Equipment - Robes	Magic Vestment	"+2
+455F524F425F33303035	Equipment - Robes	Magic Vestment	"+3
+455F524F425F30303036	Equipment - Robes	Glombolero	Base
+455F524F425F31303036	Equipment - Robes	Glombolero	"+1
+455F524F425F32303036	Equipment - Robes	Glombolero	"+2
+455F524F425F33303036	Equipment - Robes	Glombolero	"+3
+455F524F425F30303037	Equipment - Robes	Sage's Robe	Base
+455F524F425F31303037	Equipment - Robes	Sage's Robe	"+1
+455F524F425F32303037	Equipment - Robes	Sage's Robe	"+2
+455F524F425F33303037	Equipment - Robes	Sage's Robe	"+3
+455F524F425F30303038	Equipment - Robes	Wizard's Robe	Base
+455F524F425F31303038	Equipment - Robes	Wizard's Robe	"+1
+455F524F425F32303038	Equipment - Robes	Wizard's Robe	"+2
+455F524F425F33303038	Equipment - Robes	Wizard's Robe	"+3
+455F524F425F30303039	Equipment - Robes	Witch's Robe	Base
+455F524F425F31303039	Equipment - Robes	Witch's Robe	"+1
+455F524F425F32303039	Equipment - Robes	Witch's Robe	"+2
+455F524F425F33303039	Equipment - Robes	Witch's Robe	"+3
+455F524F425F30303130	Equipment - Robes	Prince's Pea Coat	Base
+455F524F425F31303130	Equipment - Robes	Prince's Pea Coat	"+1
+455F524F425F32303130	Equipment - Robes	Prince's Pea Coat	"+2
+455F524F425F33303130	Equipment - Robes	Prince's Pea Coat	"+3
+455F524F425F30303131	Equipment - Robes	King's Coat	Base
+455F524F425F31303131	Equipment - Robes	King's Coat	"+1
+455F524F425F32303131	Equipment - Robes	King's Coat	"+2
+455F524F425F33303131	Equipment - Robes	King's Coat	"+3
+455F524F425F30303132	Equipment - Robes	Queen's Robe	Base
+455F524F425F31303132	Equipment - Robes	Queen's Robe	"+1
+455F524F425F32303132	Equipment - Robes	Queen's Robe	"+2
+455F524F425F33303132	Equipment - Robes	Queen's Robe	"+3
+455F524F425F30303133	Equipment - Robes	Emperor's Attire	Base
+455F524F425F31303133	Equipment - Robes	Emperor's Attire	"+1
+455F524F425F32303133	Equipment - Robes	Emperor's Attire	"+2
+455F524F425F33303133	Equipment - Robes	Emperor's Attire	"+3
+455F524F425F30303134	Equipment - Robes	Empress's Robe	Base
+455F524F425F31303134	Equipment - Robes	Empress's Robe	"+1
+455F524F425F32303134	Equipment - Robes	Empress's Robe	"+2
+455F524F425F33303134	Equipment - Robes	Empress's Robe	"+3
+455F524F425F30303135	Equipment - Robes	Warrior'princess's Dress	Base
+455F524F425F31303135	Equipment - Robes	Warrior'princess's Dress	"+1
+455F524F425F32303135	Equipment - Robes	Warrior'princess's Dress	"+2
+455F524F425F33303135	Equipment - Robes	Warrior'princess's Dress	"+3
+455F524F425F30303136	Equipment - Robes	Angel's Robe	Base
+455F524F425F31303136	Equipment - Robes	Angel's Robe	"+1
+455F524F425F32303136	Equipment - Robes	Angel's Robe	"+2
+455F524F425F33303136	Equipment - Robes	Angel's Robe	"+3
+455F524F425F30303137	Equipment - Robes	Crimson Robe	Base
+455F524F425F31303137	Equipment - Robes	Crimson Robe	"+1
+455F524F425F32303137	Equipment - Robes	Crimson Robe	"+2
+455F524F425F33303137	Equipment - Robes	Crimson Robe	"+3
+455F524F425F30303138	Equipment - Robes	Flowing Dress	Base
+455F524F425F31303138	Equipment - Robes	Flowing Dress	"+1
+455F524F425F32303138	Equipment - Robes	Flowing Dress	"+2
+455F524F425F33303138	Equipment - Robes	Flowing Dress	"+3
+455F524F425F30303139	Equipment - Robes	Dark Robe	Base
+455F524F425F31303139	Equipment - Robes	Dark Robe	"+1
+455F524F425F32303139	Equipment - Robes	Dark Robe	"+2
+455F524F425F33303139	Equipment - Robes	Dark Robe	"+3
+455F524F425F30303230	Equipment - Robes	Dragon Robe	Base
+455F524F425F31303230	Equipment - Robes	Dragon Robe	"+1
+455F524F425F32303230	Equipment - Robes	Dragon Robe	"+2
+455F524F425F33303230	Equipment - Robes	Dragon Robe	"+3
+455F524F425F30303231	Equipment - Robes	Seraph's Robe	Base
+455F524F425F31303231	Equipment - Robes	Seraph's Robe	"+1
+455F524F425F32303231	Equipment - Robes	Seraph's Robe	"+2
+455F524F425F33303231	Equipment - Robes	Seraph's Robe	"+3
+455F524F425F30303232	Equipment - Robes	Gown Of Eternity	Base
+455F524F425F31303232	Equipment - Robes	Gown Of Eternity	"+1
+455F524F425F32303232	Equipment - Robes	Gown Of Eternity	"+2
+455F524F425F33303232	Equipment - Robes	Gown Of Eternity	"+3
+455F524F425F30303233	Equipment - Robes	Minerva's Raiment	Base
+455F524F425F31303233	Equipment - Robes	Minerva's Raiment	"+1
+455F524F425F32303233	Equipment - Robes	Minerva's Raiment	"+2
+455F524F425F33303233	Equipment - Robes	Minerva's Raiment	"+3
+455F524F425F30303234	Equipment - Robes	Princess's Robe	Base
+455F524F425F31303234	Equipment - Robes	Princess's Robe	"+1
+455F524F425F32303234	Equipment - Robes	Princess's Robe	"+2
+455F524F425F33303234	Equipment - Robes	Princess's Robe	"+3
+455F524F425F30333031	Equipment - Robes	Good Girl Costume	Base
+455F524F425F30333032	Equipment - Robes	Devilish Diva Costume	Base
+455F4841545F30303031	Equipment - Hats	Bandana	Base
+455F4841545F31303031	Equipment - Hats	Bandana	"+1
+455F4841545F32303031	Equipment - Hats	Bandana	"+2
+455F4841545F33303031	Equipment - Hats	Bandana	"+3
+455F4841545F30303032	Equipment - Hats	Leather Hat	Base
+455F4841545F31303032	Equipment - Hats	Leather Hat	"+1
+455F4841545F32303032	Equipment - Hats	Leather Hat	"+2
+455F4841545F33303032	Equipment - Hats	Leather Hat	"+3
+455F4841545F30303033	Equipment - Hats	Hairband	Base
+455F4841545F31303033	Equipment - Hats	Hairband	"+1
+455F4841545F32303033	Equipment - Hats	Hairband	"+2
+455F4841545F33303033	Equipment - Hats	Hairband	"+3
+455F4841545F30303034	Equipment - Hats	Pointy Hat	Base
+455F4841545F31303034	Equipment - Hats	Pointy Hat	"+1
+455F4841545F32303034	Equipment - Hats	Pointy Hat	"+2
+455F4841545F33303034	Equipment - Hats	Pointy Hat	"+3
+455F4841545F30303035	Equipment - Hats	Turban	Base
+455F4841545F31303035	Equipment - Hats	Turban	"+1
+455F4841545F32303035	Equipment - Hats	Turban	"+2
+455F4841545F33303035	Equipment - Hats	Turban	"+3
+455F4841545F30303036	Equipment - Hats	Feathered Cap	Base
+455F4841545F31303036	Equipment - Hats	Feathered Cap	"+1
+455F4841545F32303036	Equipment - Hats	Feathered Cap	"+2
+455F4841545F33303036	Equipment - Hats	Feathered Cap	"+3
+455F4841545F30303037	Equipment - Hats	Bunny Ears	Base
+455F4841545F31303037	Equipment - Hats	Bunny Ears	"+1
+455F4841545F32303037	Equipment - Hats	Bunny Ears	"+2
+455F4841545F33303037	Equipment - Hats	Bunny Ears	"+3
+455F4841545F30303038	Equipment - Hats	Stone Hardhat	Base
+455F4841545F31303038	Equipment - Hats	Stone Hardhat	"+1
+455F4841545F32303038	Equipment - Hats	Stone Hardhat	"+2
+455F4841545F33303038	Equipment - Hats	Stone Hardhat	"+3
+455F4841545F30303039	Equipment - Hats	Fur Hood	Base
+455F4841545F31303039	Equipment - Hats	Fur Hood	"+1
+455F4841545F32303039	Equipment - Hats	Fur Hood	"+2
+455F4841545F33303039	Equipment - Hats	Fur Hood	"+3
+455F4841545F30303130	Equipment - Hats	Hermes' Hat	Base
+455F4841545F31303130	Equipment - Hats	Hermes' Hat	"+1
+455F4841545F32303130	Equipment - Hats	Hermes' Hat	"+2
+455F4841545F33303130	Equipment - Hats	Hermes' Hat	"+3
+455F4841545F30303131	Equipment - Hats	Coral Hairpin	Base
+455F4841545F31303131	Equipment - Hats	Coral Hairpin	"+1
+455F4841545F32303131	Equipment - Hats	Coral Hairpin	"+2
+455F4841545F33303131	Equipment - Hats	Coral Hairpin	"+3
+455F4841545F30303132	Equipment - Hats	Bronze Helmet	Base
+455F4841545F31303132	Equipment - Hats	Bronze Helmet	"+1
+455F4841545F32303132	Equipment - Hats	Bronze Helmet	"+2
+455F4841545F33303132	Equipment - Hats	Bronze Helmet	"+3
+455F4841545F30303133	Equipment - Hats	Mercury's Bandana	Base
+455F4841545F31303133	Equipment - Hats	Mercury's Bandana	"+1
+455F4841545F32303133	Equipment - Hats	Mercury's Bandana	"+2
+455F4841545F33303133	Equipment - Hats	Mercury's Bandana	"+3
+455F4841545F30303134	Equipment - Hats	Silver Tiara	Base
+455F4841545F31303134	Equipment - Hats	Silver Tiara	"+1
+455F4841545F32303134	Equipment - Hats	Silver Tiara	"+2
+455F4841545F33303134	Equipment - Hats	Silver Tiara	"+3
+455F4841545F30303135	Equipment - Hats	Magical Hat	Base
+455F4841545F31303135	Equipment - Hats	Magical Hat	"+1
+455F4841545F32303135	Equipment - Hats	Magical Hat	"+2
+455F4841545F33303135	Equipment - Hats	Magical Hat	"+3
+455F4841545F30303136	Equipment - Hats	Pirate's Hat	Base
+455F4841545F31303136	Equipment - Hats	Pirate's Hat	"+1
+455F4841545F32303136	Equipment - Hats	Pirate's Hat	"+2
+455F4841545F33303136	Equipment - Hats	Pirate's Hat	"+3
+455F4841545F30303137	Equipment - Hats	Gold Circlet	Base
+455F4841545F31303137	Equipment - Hats	Gold Circlet	"+1
+455F4841545F32303137	Equipment - Hats	Gold Circlet	"+2
+455F4841545F33303137	Equipment - Hats	Gold Circlet	"+3
+455F4841545F30303138	Equipment - Hats	Thief's Turban	Base
+455F4841545F31303138	Equipment - Hats	Thief's Turban	"+1
+455F4841545F32303138	Equipment - Hats	Thief's Turban	"+2
+455F4841545F33303138	Equipment - Hats	Thief's Turban	"+3
+455F4841545F30303139	Equipment - Hats	Feather Headband	Base
+455F4841545F31303139	Equipment - Hats	Feather Headband	"+1
+455F4841545F32303139	Equipment - Hats	Feather Headband	"+2
+455F4841545F33303139	Equipment - Hats	Feather Headband	"+3
+455F4841545F30303230	Equipment - Hats	Tricky Turban	Base
+455F4841545F31303230	Equipment - Hats	Tricky Turban	"+1
+455F4841545F32303230	Equipment - Hats	Tricky Turban	"+2
+455F4841545F33303230	Equipment - Hats	Tricky Turban	"+3
+455F4841545F30303231	Equipment - Hats	Hocus Hat	Base
+455F4841545F31303231	Equipment - Hats	Hocus Hat	"+1
+455F4841545F32303231	Equipment - Hats	Hocus Hat	"+2
+455F4841545F33303231	Equipment - Hats	Hocus Hat	"+3
+455F4841545F30303232	Equipment - Hats	Happy Hat	Base
+455F4841545F31303232	Equipment - Hats	Happy Hat	"+1
+455F4841545F32303232	Equipment - Hats	Happy Hat	"+2
+455F4841545F33303232	Equipment - Hats	Happy Hat	"+3
+455F4841545F30303233	Equipment - Hats	Scholar's Cap	Base
+455F4841545F31303233	Equipment - Hats	Scholar's Cap	"+1
+455F4841545F32303233	Equipment - Hats	Scholar's Cap	"+2
+455F4841545F33303233	Equipment - Hats	Scholar's Cap	"+3
+455F4841545F30303234	Equipment - Hats	Disturbin' Turban	Base
+455F4841545F31303234	Equipment - Hats	Disturbin' Turban	"+1
+455F4841545F32303234	Equipment - Hats	Disturbin' Turban	"+2
+455F4841545F33303234	Equipment - Hats	Disturbin' Turban	"+3
+455F4841545F30303235	Equipment - Hats	Malleable Mask	Base
+455F4841545F31303235	Equipment - Hats	Malleable Mask	"+1
+455F4841545F32303235	Equipment - Hats	Malleable Mask	"+2
+455F4841545F33303235	Equipment - Hats	Malleable Mask	"+3
+455F4841545F30303236	Equipment - Hats	Star Circlet	Base
+455F4841545F31303236	Equipment - Hats	Star Circlet	"+1
+455F4841545F32303236	Equipment - Hats	Star Circlet	"+2
+455F4841545F33303236	Equipment - Hats	Star Circlet	"+3
+455F4841545F30303237	Equipment - Hats	Papillon Mask	Base
+455F4841545F31303237	Equipment - Hats	Papillon Mask	"+1
+455F4841545F32303237	Equipment - Hats	Papillon Mask	"+2
+455F4841545F33303237	Equipment - Hats	Papillon Mask	"+3
+455F4841545F30303238	Equipment - Hats	Swindler's Scarf	Base
+455F4841545F31303238	Equipment - Hats	Swindler's Scarf	"+1
+455F4841545F32303238	Equipment - Hats	Swindler's Scarf	"+2
+455F4841545F33303238	Equipment - Hats	Swindler's Scarf	"+3
+455F4841545F30303239	Equipment - Hats	Cat Hat	Base
+455F4841545F31303239	Equipment - Hats	Cat Hat	"+1
+455F4841545F32303239	Equipment - Hats	Cat Hat	"+2
+455F4841545F33303239	Equipment - Hats	Cat Hat	"+3
+455F4841545F30303332	Equipment - Hats	Minister's Mitre	Base
+455F4841545F31303332	Equipment - Hats	Minister's Mitre	"+1
+455F4841545F32303332	Equipment - Hats	Minister's Mitre	"+2
+455F4841545F33303332	Equipment - Hats	Minister's Mitre	"+3
+455F4841545F30303333	Equipment - Hats	Cavalier Hat	Base
+455F4841545F31303333	Equipment - Hats	Cavalier Hat	"+1
+455F4841545F32303333	Equipment - Hats	Cavalier Hat	"+2
+455F4841545F33303333	Equipment - Hats	Cavalier Hat	"+3
+455F4841545F30303334	Equipment - Hats	Witch's Hat	Base
+455F4841545F31303334	Equipment - Hats	Witch's Hat	"+1
+455F4841545F32303334	Equipment - Hats	Witch's Hat	"+2
+455F4841545F33303334	Equipment - Hats	Witch's Hat	"+3
+455F4841545F30303335	Equipment - Hats	Golden Tiara	Base
+455F4841545F31303335	Equipment - Hats	Golden Tiara	"+1
+455F4841545F32303335	Equipment - Hats	Golden Tiara	"+2
+455F4841545F33303335	Equipment - Hats	Golden Tiara	"+3
+455F4841545F30303336	Equipment - Hats	Phantom Mask	Base
+455F4841545F31303336	Equipment - Hats	Phantom Mask	"+1
+455F4841545F32303336	Equipment - Hats	Phantom Mask	"+2
+455F4841545F33303336	Equipment - Hats	Phantom Mask	"+3
+455F4841545F30303337	Equipment - Hats	Freebooter's Bandana	Base
+455F4841545F31303337	Equipment - Hats	Freebooter's Bandana	"+1
+455F4841545F32303337	Equipment - Hats	Freebooter's Bandana	"+2
+455F4841545F33303337	Equipment - Hats	Freebooter's Bandana	"+3
+455F4841545F30303339	Equipment - Hats	Stellar Starflower	Base
+455F4841545F31303339	Equipment - Hats	Stellar Starflower	"+1
+455F4841545F32303339	Equipment - Hats	Stellar Starflower	"+2
+455F4841545F33303339	Equipment - Hats	Stellar Starflower	"+3
+455F4841545F30303430	Equipment - Hats	Dragon Bandana	Base
+455F4841545F31303430	Equipment - Hats	Dragon Bandana	"+1
+455F4841545F32303430	Equipment - Hats	Dragon Bandana	"+2
+455F4841545F33303430	Equipment - Hats	Dragon Bandana	"+3
+455F4841545F30303431	Equipment - Hats	Spring Breeze Hat	Base
+455F4841545F31303431	Equipment - Hats	Spring Breeze Hat	"+1
+455F4841545F32303431	Equipment - Hats	Spring Breeze Hat	"+2
+455F4841545F33303431	Equipment - Hats	Spring Breeze Hat	"+3
+455F4841545F30303432	Equipment - Hats	Summer Cloud Hat	Base
+455F4841545F31303432	Equipment - Hats	Summer Cloud Hat	"+1
+455F4841545F32303432	Equipment - Hats	Summer Cloud Hat	"+2
+455F4841545F33303432	Equipment - Hats	Summer Cloud Hat	"+3
+455F4841545F30303433	Equipment - Hats	Autumn Shower Hat	Base
+455F4841545F31303433	Equipment - Hats	Autumn Shower Hat	"+1
+455F4841545F32303433	Equipment - Hats	Autumn Shower Hat	"+2
+455F4841545F33303433	Equipment - Hats	Autumn Shower Hat	"+3
+455F4841545F30303434	Equipment - Hats	Winter Sky Hat	Base
+455F4841545F31303434	Equipment - Hats	Winter Sky Hat	"+1
+455F4841545F32303434	Equipment - Hats	Winter Sky Hat	"+2
+455F4841545F33303434	Equipment - Hats	Winter Sky Hat	"+3
+455F4841545F30303435	Equipment - Hats	Pirate King's Hat	Base
+455F4841545F31303435	Equipment - Hats	Pirate King's Hat	"+1
+455F4841545F32303435	Equipment - Hats	Pirate King's Hat	"+2
+455F4841545F33303435	Equipment - Hats	Pirate King's Hat	"+3
+455F4841545F30303436	Equipment - Hats	Swindler King's Scarf	Base
+455F4841545F31303436	Equipment - Hats	Swindler King's Scarf	"+1
+455F4841545F32303436	Equipment - Hats	Swindler King's Scarf	"+2
+455F4841545F33303436	Equipment - Hats	Swindler King's Scarf	"+3
+455F4841545F30303437	Equipment - Hats	Crown Of Eternity	Base
+455F4841545F31303437	Equipment - Hats	Crown Of Eternity	"+1
+455F4841545F32303437	Equipment - Hats	Crown Of Eternity	"+2
+455F4841545F33303437	Equipment - Hats	Crown Of Eternity	"+3
+455F4841545F30303438	Equipment - Hats	Crown Of Eternity	Base
+455F4841545F31303438	Equipment - Hats	Crown Of Eternity	"+1
+455F4841545F32303438	Equipment - Hats	Crown Of Eternity	"+2
+455F4841545F33303438	Equipment - Hats	Crown Of Eternity	"+3
+455F4841545F30303530	Equipment - Hats	Xenlon Hair Ring	Base
+455F4841545F31303530	Equipment - Hats	Xenlon Hair Ring	"+1
+455F4841545F32303530	Equipment - Hats	Xenlon Hair Ring	"+2
+455F4841545F33303530	Equipment - Hats	Xenlon Hair Ring	"+3
+455F4841545F30303531	Equipment - Hats	Serenica's Circlet	Base
+455F4841545F31303531	Equipment - Hats	Serenica's Circlet	"+1
+455F4841545F32303531	Equipment - Hats	Serenica's Circlet	"+2
+455F4841545F33303531	Equipment - Hats	Serenica's Circlet	"+3
+455F4841545F30303532	Equipment - Hats	Cute Cap	Base
+455F4841545F31303532	Equipment - Hats	Cute Cap	"+1
+455F4841545F32303532	Equipment - Hats	Cute Cap	"+2
+455F4841545F33303532	Equipment - Hats	Cute Cap	"+3
+455F4841545F30303533	Equipment - Hats	Bonny Band	Base
+455F4841545F31303533	Equipment - Hats	Bonny Band	"+1
+455F4841545F32303533	Equipment - Hats	Bonny Band	"+2
+455F4841545F33303533	Equipment - Hats	Bonny Band	"+3
+455F4841545F30303534	Equipment - Hats	Tiara Tremendisima	Base
+455F4841545F31303534	Equipment - Hats	Tiara Tremendisima	"+1
+455F4841545F32303534	Equipment - Hats	Tiara Tremendisima	"+2
+455F4841545F33303534	Equipment - Hats	Tiara Tremendisima	"+3
+455F4841545F30303536	Equipment - Hats	Corsair's Cap	Base
+455F4841545F31303536	Equipment - Hats	Corsair's Cap	"+1
+455F4841545F32303536	Equipment - Hats	Corsair's Cap	"+2
+455F4841545F33303536	Equipment - Hats	Corsair's Cap	"+3
+455F4841545F30393939	Equipment - Hats	Black Cat Hat	Base
+455F4841545F31393939	Equipment - Hats	Black Cat Hat	"+1
+455F4841545F32393939	Equipment - Hats	Black Cat Hat	"+2
+455F4841545F33393939	Equipment - Hats	Black Cat Hat	"+3
+455F4841545F30303537	Equipment - Hats	Trodain Bandana	Base
+455F4841545F30333031	Equipment - Hats	Baby Boar Hat	Base
+455F48454C5F30303031	Equipment - Helmets	Iron Helmet	Base
+455F48454C5F31303031	Equipment - Helmets	Iron Helmet	"+1
+455F48454C5F32303031	Equipment - Helmets	Iron Helmet	"+2
+455F48454C5F33303031	Equipment - Helmets	Iron Helmet	"+3
+455F48454C5F30303033	Equipment - Helmets	Iron Mask	Base
+455F48454C5F31303033	Equipment - Helmets	Iron Mask	"+1
+455F48454C5F32303033	Equipment - Helmets	Iron Mask	"+2
+455F48454C5F33303033	Equipment - Helmets	Iron Mask	"+3
+455F48454C5F30303034	Equipment - Helmets	Steel Helmet	Base
+455F48454C5F31303034	Equipment - Helmets	Steel Helmet	"+1
+455F48454C5F32303034	Equipment - Helmets	Steel Helmet	"+2
+455F48454C5F33303034	Equipment - Helmets	Steel Helmet	"+3
+455F48454C5F30303035	Equipment - Helmets	Warrior's Helm	Base
+455F48454C5F31303035	Equipment - Helmets	Warrior's Helm	"+1
+455F48454C5F32303035	Equipment - Helmets	Warrior's Helm	"+2
+455F48454C5F33303035	Equipment - Helmets	Warrior's Helm	"+3
+455F48454C5F30303037	Equipment - Helmets	Platinum Headgear	Base
+455F48454C5F31303037	Equipment - Helmets	Platinum Headgear	"+1
+455F48454C5F32303037	Equipment - Helmets	Platinum Headgear	"+2
+455F48454C5F33303037	Equipment - Helmets	Platinum Headgear	"+3
+455F48454C5F30303038	Equipment - Helmets	Iron Headgear	Base
+455F48454C5F31303038	Equipment - Helmets	Iron Headgear	"+1
+455F48454C5F32303038	Equipment - Helmets	Iron Headgear	"+2
+455F48454C5F33303038	Equipment - Helmets	Iron Headgear	"+3
+455F48454C5F30303039	Equipment - Helmets	Hade's Helm	Base
+455F48454C5F31303039	Equipment - Helmets	Hade's Helm	"+1
+455F48454C5F32303039	Equipment - Helmets	Hade's Helm	"+2
+455F48454C5F33303039	Equipment - Helmets	Hade's Helm	"+3
+455F48454C5F30303130	Equipment - Helmets	Mythril Helm	Base
+455F48454C5F31303130	Equipment - Helmets	Mythril Helm	"+1
+455F48454C5F32303130	Equipment - Helmets	Mythril Helm	"+2
+455F48454C5F33303130	Equipment - Helmets	Mythril Helm	"+3
+455F48454C5F30303131	Equipment - Helmets	Thinking Cap	Base
+455F48454C5F31303131	Equipment - Helmets	Thinking Cap	"+1
+455F48454C5F32303131	Equipment - Helmets	Thinking Cap	"+2
+455F48454C5F33303131	Equipment - Helmets	Thinking Cap	"+3
+455F48454C5F30303132	Equipment - Helmets	Raging Bull Helm	Base
+455F48454C5F31303132	Equipment - Helmets	Raging Bull Helm	"+1
+455F48454C5F32303132	Equipment - Helmets	Raging Bull Helm	"+2
+455F48454C5F33303132	Equipment - Helmets	Raging Bull Helm	"+3
+455F48454C5F30303133	Equipment - Helmets	Great Helm	Base
+455F48454C5F31303133	Equipment - Helmets	Great Helm	"+1
+455F48454C5F32303133	Equipment - Helmets	Great Helm	"+2
+455F48454C5F33303133	Equipment - Helmets	Great Helm	"+3
+455F48454C5F30303134	Equipment - Helmets	Metal Slime Helm	Base
+455F48454C5F31303134	Equipment - Helmets	Metal Slime Helm	"+1
+455F48454C5F32303134	Equipment - Helmets	Metal Slime Helm	"+2
+455F48454C5F33303134	Equipment - Helmets	Metal Slime Helm	"+3
+455F48454C5F30303135	Equipment - Helmets	Drasilian Helm	Base
+455F48454C5F31303135	Equipment - Helmets	Drasilian Helm	"+1
+455F48454C5F32303135	Equipment - Helmets	Drasilian Helm	"+2
+455F48454C5F33303135	Equipment - Helmets	Drasilian Helm	"+3
+455F48454C5F30303136	Equipment - Helmets	Goddess's Tiara	Base
+455F48454C5F31303136	Equipment - Helmets	Goddess's Tiara	"+1
+455F48454C5F32303136	Equipment - Helmets	Goddess's Tiara	"+2
+455F48454C5F33303136	Equipment - Helmets	Goddess's Tiara	"+3
+455F48454C5F30303137	Equipment - Helmets	Warrior Princess's Headdress	Base
+455F48454C5F31303137	Equipment - Helmets	Warrior Princess's Headdress	"+1
+455F48454C5F32303137	Equipment - Helmets	Warrior Princess's Headdress	"+2
+455F48454C5F33303137	Equipment - Helmets	Warrior Princess's Headdress	"+3
+455F48454C5F30303138	Equipment - Helmets	Crown Of Dundrasil	Base
+455F48454C5F31303138	Equipment - Helmets	Crown Of Dundrasil	"+1
+455F48454C5F32303138	Equipment - Helmets	Crown Of Dundrasil	"+2
+455F48454C5F33303138	Equipment - Helmets	Crown Of Dundrasil	"+3
+455F48454C5F30303139	Equipment - Helmets	Skull Helm	Base
+455F48454C5F31303139	Equipment - Helmets	Skull Helm	"+1
+455F48454C5F32303139	Equipment - Helmets	Skull Helm	"+2
+455F48454C5F33303139	Equipment - Helmets	Skull Helm	"+3
+455F48454C5F30303230	Equipment - Helmets	Liquid Metal Helm	Base
+455F48454C5F31303230	Equipment - Helmets	Liquid Metal Helm	"+1
+455F48454C5F32303230	Equipment - Helmets	Liquid Metal Helm	"+2
+455F48454C5F33303230	Equipment - Helmets	Liquid Metal Helm	"+3
+455F48454C5F30303232	Equipment - Helmets	Metal King Helm	Base
+455F48454C5F31303232	Equipment - Helmets	Metal King Helm	"+1
+455F48454C5F32303232	Equipment - Helmets	Metal King Helm	"+2
+455F48454C5F33303232	Equipment - Helmets	Metal King Helm	"+3
+455F48454C5F30303233	Equipment - Helmets	Heavenly Helm	Base
+455F48454C5F31303233	Equipment - Helmets	Heavenly Helm	"+1
+455F48454C5F32303233	Equipment - Helmets	Heavenly Helm	"+2
+455F48454C5F33303233	Equipment - Helmets	Heavenly Helm	"+3
+455F48454C5F30303234	Equipment - Helmets	Erdwin's Coronet	Base
+455F48454C5F31303234	Equipment - Helmets	Erdwin's Coronet	"+1
+455F48454C5F32303234	Equipment - Helmets	Erdwin's Coronet	"+2
+455F48454C5F33303234	Equipment - Helmets	Erdwin's Coronet	"+3
+455F48454C5F30303235	Equipment - Helmets	Irwin's Helm	Base
+455F48454C5F31303235	Equipment - Helmets	Irwin's Helm	"+1
+455F48454C5F32303235	Equipment - Helmets	Irwin's Helm	"+2
+455F48454C5F33303235	Equipment - Helmets	Irwin's Helm	"+3
+455F48454C5F30303236	Equipment - Helmets	Sacred Circlet	Base
+455F48454C5F31303236	Equipment - Helmets	Sacred Circlet	"+1
+455F48454C5F32303236	Equipment - Helmets	Sacred Circlet	"+2
+455F48454C5F33303236	Equipment - Helmets	Sacred Circlet	"+3
+455F48454C5F30303237	Equipment - Helmets	Minerva's Tiara	Base
+455F48454C5F31303237	Equipment - Helmets	Minerva's Tiara	"+1
+455F48454C5F32303237	Equipment - Helmets	Minerva's Tiara	"+2
+455F48454C5F33303237	Equipment - Helmets	Minerva's Tiara	"+3
+455F48454C5F30303238	Equipment - Helmets	Sun Crown	Base
+455F48454C5F31303238	Equipment - Helmets	Sun Crown	"+1
+455F48454C5F32303238	Equipment - Helmets	Sun Crown	"+2
+455F48454C5F33303238	Equipment - Helmets	Sun Crown	"+3
+455F48454C5F30303239	Equipment - Helmets	Yggdrasil Crown	Base
+455F48454C5F31303239	Equipment - Helmets	Yggdrasil Crown	"+1
+455F48454C5F32303239	Equipment - Helmets	Yggdrasil Crown	"+2
+455F48454C5F33303239	Equipment - Helmets	Yggdrasil Crown	"+3
+455F48454C5F30303330	Equipment - Helmets	Drustan's Helm	Base
+455F48454C5F31303330	Equipment - Helmets	Drustan's Helm	"+1
+455F48454C5F32303330	Equipment - Helmets	Drustan's Helm	"+2
+455F48454C5F33303330	Equipment - Helmets	Drustan's Helm	"+3
+455F48454C5F30303331	Equipment - Helmets	Apollo's Crown	Base
+455F48454C5F31303331	Equipment - Helmets	Apollo's Crown	"+1
+455F48454C5F32303331	Equipment - Helmets	Apollo's Crown	"+2
+455F48454C5F33303331	Equipment - Helmets	Apollo's Crown	"+3
+575F5357445F30303031	Weapons - Sword	Cobblestone Sword	Base
+575F5357445F31303031	Weapons - Sword	Cobblestone Sword	"+1
+575F5357445F32303031	Weapons - Sword	Cobblestone Sword	"+2
+575F5357445F33303031	Weapons - Sword	Cobblestone Sword	"+3
+575F5357445F30303032	Weapons - Sword	Copper Sword	Base
+575F5357445F31303032	Weapons - Sword	Copper Sword	"+1
+575F5357445F32303032	Weapons - Sword	Copper Sword	"+2
+575F5357445F33303032	Weapons - Sword	Copper Sword	"+3
+575F5357445F30303033	Weapons - Sword	Soldier's Sword	Base
+575F5357445F31303033	Weapons - Sword	Soldier's Sword	"+1
+575F5357445F32303033	Weapons - Sword	Soldier's Sword	"+2
+575F5357445F33303033	Weapons - Sword	Soldier's Sword	"+3
+575F5357445F30303034	Weapons - Sword	Bronze Sword	Base
+575F5357445F31303034	Weapons - Sword	Bronze Sword	"+1
+575F5357445F32303034	Weapons - Sword	Bronze Sword	"+2
+575F5357445F33303034	Weapons - Sword	Bronze Sword	"+3
+575F5357445F30303035	Weapons - Sword	Rapier	Base
+575F5357445F31303035	Weapons - Sword	Rapier	"+1
+575F5357445F32303035	Weapons - Sword	Rapier	"+2
+575F5357445F33303035	Weapons - Sword	Rapier	"+3
+575F5357445F30303036	Weapons - Sword	Iron Broadsword	Base
+575F5357445F31303036	Weapons - Sword	Iron Broadsword	"+1
+575F5357445F32303036	Weapons - Sword	Iron Broadsword	"+2
+575F5357445F33303036	Weapons - Sword	Iron Broadsword	"+3
+575F5357445F30303037	Weapons - Sword	Sylvando's Sword	Base
+575F5357445F31303037	Weapons - Sword	Sylvando's Sword	"+1
+575F5357445F32303037	Weapons - Sword	Sylvando's Sword	"+2
+575F5357445F33303037	Weapons - Sword	Sylvando's Sword	"+3
+575F5357445F30303038	Weapons - Sword	Cautery Sword	Base
+575F5357445F31303038	Weapons - Sword	Cautery Sword	"+1
+575F5357445F32303038	Weapons - Sword	Cautery Sword	"+2
+575F5357445F33303038	Weapons - Sword	Cautery Sword	"+3
+575F5357445F30303039	Weapons - Sword	Silver Rapier	Base
+575F5357445F31303039	Weapons - Sword	Silver Rapier	"+1
+575F5357445F32303039	Weapons - Sword	Silver Rapier	"+2
+575F5357445F33303039	Weapons - Sword	Silver Rapier	"+3
+575F5357445F30303130	Weapons - Sword	Steel Broadsword	Base
+575F5357445F31303130	Weapons - Sword	Steel Broadsword	"+1
+575F5357445F32303130	Weapons - Sword	Steel Broadsword	"+2
+575F5357445F33303130	Weapons - Sword	Steel Broadsword	"+3
+575F5357445F30303131	Weapons - Sword	Bastard Sword	Base
+575F5357445F31303131	Weapons - Sword	Bastard Sword	"+1
+575F5357445F32303131	Weapons - Sword	Bastard Sword	"+2
+575F5357445F33303131	Weapons - Sword	Bastard Sword	"+3
+575F5357445F30303132	Weapons - Sword	Bandit Blade	Base
+575F5357445F31303132	Weapons - Sword	Bandit Blade	"+1
+575F5357445F32303132	Weapons - Sword	Bandit Blade	"+2
+575F5357445F33303132	Weapons - Sword	Bandit Blade	"+3
+575F5357445F30303133	Weapons - Sword	Falcon Blade	Base
+575F5357445F31303133	Weapons - Sword	Falcon Blade	"+1
+575F5357445F32303133	Weapons - Sword	Falcon Blade	"+2
+575F5357445F33303133	Weapons - Sword	Falcon Blade	"+3
+575F5357445F30303134	Weapons - Sword	Zombiesbane	Base
+575F5357445F31303134	Weapons - Sword	Zombiesbane	"+1
+575F5357445F32303134	Weapons - Sword	Zombiesbane	"+2
+575F5357445F33303134	Weapons - Sword	Zombiesbane	"+3
+575F5357445F30303135	Weapons - Sword	Platinum Sword	Base
+575F5357445F31303135	Weapons - Sword	Platinum Sword	"+1
+575F5357445F32303135	Weapons - Sword	Platinum Sword	"+2
+575F5357445F33303135	Weapons - Sword	Platinum Sword	"+3
+575F5357445F30303136	Weapons - Sword	Zombie Slayer	Base
+575F5357445F31303136	Weapons - Sword	Zombie Slayer	"+1
+575F5357445F32303136	Weapons - Sword	Zombie Slayer	"+2
+575F5357445F33303136	Weapons - Sword	Zombie Slayer	"+3
+575F5357445F30303137	Weapons - Sword	Aurora Blade	Base
+575F5357445F31303137	Weapons - Sword	Aurora Blade	"+1
+575F5357445F32303137	Weapons - Sword	Aurora Blade	"+2
+575F5357445F33303137	Weapons - Sword	Aurora Blade	"+3
+575F5357445F30303138	Weapons - Sword	Fizzle Foil	Base
+575F5357445F31303138	Weapons - Sword	Fizzle Foil	"+1
+575F5357445F32303138	Weapons - Sword	Fizzle Foil	"+2
+575F5357445F33303138	Weapons - Sword	Fizzle Foil	"+3
+575F5357445F30303139	Weapons - Sword	Dragonsbane	Base
+575F5357445F31303139	Weapons - Sword	Dragonsbane	"+1
+575F5357445F32303139	Weapons - Sword	Dragonsbane	"+2
+575F5357445F33303139	Weapons - Sword	Dragonsbane	"+3
+575F5357445F30303230	Weapons - Sword	Miracle Sword	Base
+575F5357445F31303230	Weapons - Sword	Miracle Sword	"+1
+575F5357445F32303230	Weapons - Sword	Miracle Sword	"+2
+575F5357445F33303230	Weapons - Sword	Miracle Sword	"+3
+575F5357445F30303231	Weapons - Sword	Fire Blade	Base
+575F5357445F31303231	Weapons - Sword	Fire Blade	"+1
+575F5357445F32303231	Weapons - Sword	Fire Blade	"+2
+575F5357445F33303231	Weapons - Sword	Fire Blade	"+3
+575F5357445F30303232	Weapons - Sword	Sword Of Light	Base
+575F5357445F30303234	Weapons - Sword	Metal Slime Sword	Base
+575F5357445F31303234	Weapons - Sword	Metal Slime Sword	"+1
+575F5357445F32303234	Weapons - Sword	Metal Slime Sword	"+2
+575F5357445F33303234	Weapons - Sword	Metal Slime Sword	"+3
+575F5357445F30303235	Weapons - Sword	Stardust Sword	Base
+575F5357445F30303236	Weapons - Sword	Uber Miracle Sword	Base
+575F5357445F31303236	Weapons - Sword	Uber Miracle Sword	"+1
+575F5357445F32303236	Weapons - Sword	Uber Miracle Sword	"+2
+575F5357445F33303236	Weapons - Sword	Uber Miracle Sword	"+3
+575F5357445F30303237	Weapons - Sword	Uber Falcon Blade	Base
+575F5357445F31303237	Weapons - Sword	Uber Falcon Blade	"+1
+575F5357445F32303237	Weapons - Sword	Uber Falcon Blade	"+2
+575F5357445F33303237	Weapons - Sword	Uber Falcon Blade	"+3
+575F5357445F30303238	Weapons - Sword	Inferno Blade	Base
+575F5357445F31303238	Weapons - Sword	Inferno Blade	"+1
+575F5357445F32303238	Weapons - Sword	Inferno Blade	"+2
+575F5357445F33303238	Weapons - Sword	Inferno Blade	"+3
+575F5357445F30303239	Weapons - Sword	Nebula Sword	Base
+575F5357445F30303330	Weapons - Sword	Dragon Slayer	Base
+575F5357445F31303330	Weapons - Sword	Dragon Slayer	"+1
+575F5357445F32303330	Weapons - Sword	Dragon Slayer	"+2
+575F5357445F33303330	Weapons - Sword	Dragon Slayer	"+3
+575F5357445F30303331	Weapons - Sword	Liquid Metal Sword	Base
+575F5357445F31303331	Weapons - Sword	Liquid Metal Sword	"+1
+575F5357445F32303331	Weapons - Sword	Liquid Metal Sword	"+2
+575F5357445F33303331	Weapons - Sword	Liquid Metal Sword	"+3
+575F5357445F30303332	Weapons - Sword	Supernova Sword	Base
+575F5357445F30303333	Weapons - Sword	Thunderstorm Sword	Base
+575F5357445F31303333	Weapons - Sword	Thunderstorm Sword	"+1
+575F5357445F32303333	Weapons - Sword	Thunderstorm Sword	"+2
+575F5357445F33303333	Weapons - Sword	Thunderstorm Sword	"+3
+575F5357445F30303334	Weapons - Sword	Thousand-Fold Katana	Base
+575F5357445F31303334	Weapons - Sword	Thousand-Fold Katana	"+1
+575F5357445F32303334	Weapons - Sword	Thousand-Fold Katana	"+2
+575F5357445F33303334	Weapons - Sword	Thousand-Fold Katana	"+3
+575F5357445F30303335	Weapons - Sword	Sword Of Judgment	Base
+575F5357445F31303335	Weapons - Sword	Sword Of Judgment	"+1
+575F5357445F32303335	Weapons - Sword	Sword Of Judgment	"+2
+575F5357445F33303335	Weapons - Sword	Sword Of Judgment	"+3
+575F5357445F30303336	Weapons - Sword	Super Sword Of Light	Base
+575F5357445F30303337	Weapons - Sword	Drustan's Sword	Base
+575F5357445F31303337	Weapons - Sword	Drustan's Sword	"+1
+575F5357445F32303337	Weapons - Sword	Drustan's Sword	"+2
+575F5357445F33303337	Weapons - Sword	Drustan's Sword	"+3
+575F5357445F30303338	Weapons - Sword	Shamshir Of Light	Base
+575F5357445F31303338	Weapons - Sword	Shamshir Of Light	"+1
+575F5357445F32303338	Weapons - Sword	Shamshir Of Light	"+2
+575F5357445F33303338	Weapons - Sword	Shamshir Of Light	"+3
+575F5357445F30303339	Weapons - Sword	Hell Sabre	Base
+575F5357445F31303339	Weapons - Sword	Hell Sabre	"+1
+575F5357445F32303339	Weapons - Sword	Hell Sabre	"+2
+575F5357445F33303339	Weapons - Sword	Hell Sabre	"+3
+575F5357445F30303430	Weapons - Sword	Metal King Sword	Base
+575F5357445F31303430	Weapons - Sword	Metal King Sword	"+1
+575F5357445F32303430	Weapons - Sword	Metal King Sword	"+2
+575F5357445F33303430	Weapons - Sword	Metal King Sword	"+3
+575F5357445F30303431	Weapons - Sword	Hypernova Sword	Base
+575F5357445F31303431	Weapons - Sword	Hypernova Sword	"+1
+575F5357445F32303431	Weapons - Sword	Hypernova Sword	"+2
+575F5357445F33303431	Weapons - Sword	Hypernova Sword	"+3
+575F5357445F30303432	Weapons - Sword	Heliodorian Sword	Base
+575F5357445F31303432	Weapons - Sword	Heliodorian Sword	"+1
+575F5357445F32303432	Weapons - Sword	Heliodorian Sword	"+2
+575F5357445F33303432	Weapons - Sword	Heliodorian Sword	"+3
+575F5357445F30303433	Weapons - Sword	NULL	Base
+575F5357445F30303434	Weapons - Sword	Supreme Sword Of Light	Base
+575F5357445F31303434	Weapons - Sword	Supreme Sword Of Light	"+1
+575F5357445F32303434	Weapons - Sword	Supreme Sword Of Light	"+2
+575F5357445F33303434	Weapons - Sword	Supreme Sword Of Light	"+3
+575F5357445F30303435	Weapons - Sword	Cypress Stick	Base
+575F5357445F31303435	Weapons - Sword	Cypress Stick	"+1
+575F5357445F32303435	Weapons - Sword	Cypress Stick	"+2
+575F5357445F33303435	Weapons - Sword	Cypress Stick	"+3
+575F4447525F30303031	Weapons - Daggers	Erik's Dagger	Base
+575F4447525F31303031	Weapons - Daggers	Erik's Dagger	"+1
+575F4447525F32303031	Weapons - Daggers	Erik's Dagger	"+2
+575F4447525F33303031	Weapons - Daggers	Erik's Dagger	"+3
+575F4447525F30303032	Weapons - Daggers	Bronze Knife	Base
+575F4447525F31303032	Weapons - Daggers	Bronze Knife	"+1
+575F4447525F32303032	Weapons - Daggers	Bronze Knife	"+2
+575F4447525F33303032	Weapons - Daggers	Bronze Knife	"+3
+575F4447525F30303033	Weapons - Daggers	Poison Needle	Base
+575F4447525F31303033	Weapons - Daggers	Poison Needle	"+1
+575F4447525F32303033	Weapons - Daggers	Poison Needle	"+2
+575F4447525F33303033	Weapons - Daggers	Poison Needle	"+3
+575F4447525F30303034	Weapons - Daggers	Divine Dagger	Base
+575F4447525F31303034	Weapons - Daggers	Divine Dagger	"+1
+575F4447525F32303034	Weapons - Daggers	Divine Dagger	"+2
+575F4447525F33303034	Weapons - Daggers	Divine Dagger	"+3
+575F4447525F30303035	Weapons - Daggers	Poison Moth Knife	Base
+575F4447525F31303035	Weapons - Daggers	Poison Moth Knife	"+1
+575F4447525F32303035	Weapons - Daggers	Poison Moth Knife	"+2
+575F4447525F33303035	Weapons - Daggers	Poison Moth Knife	"+3
+575F4447525F30303036	Weapons - Daggers	Butterfly Knife	Base
+575F4447525F31303036	Weapons - Daggers	Butterfly Knife	"+1
+575F4447525F32303036	Weapons - Daggers	Butterfly Knife	"+2
+575F4447525F33303036	Weapons - Daggers	Butterfly Knife	"+3
+575F4447525F30303037	Weapons - Daggers	Assassin's Dagger	Base
+575F4447525F31303037	Weapons - Daggers	Assassin's Dagger	"+1
+575F4447525F32303037	Weapons - Daggers	Assassin's Dagger	"+2
+575F4447525F33303037	Weapons - Daggers	Assassin's Dagger	"+3
+575F4447525F30303038	Weapons - Daggers	Dread Dagger	Base
+575F4447525F31303038	Weapons - Daggers	Dread Dagger	"+1
+575F4447525F32303038	Weapons - Daggers	Dread Dagger	"+2
+575F4447525F33303038	Weapons - Daggers	Dread Dagger	"+3
+575F4447525F30303039	Weapons - Daggers	Eagle Dagger	Base
+575F4447525F31303039	Weapons - Daggers	Eagle Dagger	"+1
+575F4447525F32303039	Weapons - Daggers	Eagle Dagger	"+2
+575F4447525F33303039	Weapons - Daggers	Eagle Dagger	"+3
+575F4447525F30303130	Weapons - Daggers	Nobleman's Knife	Base
+575F4447525F31303130	Weapons - Daggers	Nobleman's Knife	"+1
+575F4447525F32303130	Weapons - Daggers	Nobleman's Knife	"+2
+575F4447525F33303130	Weapons - Daggers	Nobleman's Knife	"+3
+575F4447525F30303131	Weapons - Daggers	Bloodletter	Base
+575F4447525F31303131	Weapons - Daggers	Bloodletter	"+1
+575F4447525F32303131	Weapons - Daggers	Bloodletter	"+2
+575F4447525F33303131	Weapons - Daggers	Bloodletter	"+3
+575F4447525F30303132	Weapons - Daggers	Sword Breaker	Base
+575F4447525F31303132	Weapons - Daggers	Sword Breaker	"+1
+575F4447525F32303132	Weapons - Daggers	Sword Breaker	"+2
+575F4447525F33303132	Weapons - Daggers	Sword Breaker	"+3
+575F4447525F30303133	Weapons - Daggers	Fenrir Fang	Base
+575F4447525F31303133	Weapons - Daggers	Fenrir Fang	"+1
+575F4447525F32303133	Weapons - Daggers	Fenrir Fang	"+2
+575F4447525F33303133	Weapons - Daggers	Fenrir Fang	"+3
+575F4447525F30303134	Weapons - Daggers	Soul Breaker	Base
+575F4447525F31303134	Weapons - Daggers	Soul Breaker	"+1
+575F4447525F32303134	Weapons - Daggers	Soul Breaker	"+2
+575F4447525F33303134	Weapons - Daggers	Soul Breaker	"+3
+575F4447525F30303135	Weapons - Daggers	Icicle Dirk	Base
+575F4447525F31303135	Weapons - Daggers	Icicle Dirk	"+1
+575F4447525F32303135	Weapons - Daggers	Icicle Dirk	"+2
+575F4447525F33303135	Weapons - Daggers	Icicle Dirk	"+3
+575F4447525F30303136	Weapons - Daggers	Serpentscale Skean	Base
+575F4447525F31303136	Weapons - Daggers	Serpentscale Skean	"+1
+575F4447525F32303136	Weapons - Daggers	Serpentscale Skean	"+2
+575F4447525F33303136	Weapons - Daggers	Serpentscale Skean	"+3
+575F4447525F30303137	Weapons - Daggers	Imp Knife	Base
+575F4447525F31303137	Weapons - Daggers	Imp Knife	"+1
+575F4447525F32303137	Weapons - Daggers	Imp Knife	"+2
+575F4447525F33303137	Weapons - Daggers	Imp Knife	"+3
+575F4447525F30303138	Weapons - Daggers	Gladius	Base
+575F4447525F31303138	Weapons - Daggers	Gladius	"+1
+575F4447525F32303138	Weapons - Daggers	Gladius	"+2
+575F4447525F33303138	Weapons - Daggers	Gladius	"+3
+575F4447525F30303139	Weapons - Daggers	Falcon Knife Earring	Base
+575F4447525F31303139	Weapons - Daggers	Falcon Knife Earring	"+1
+575F4447525F32303139	Weapons - Daggers	Falcon Knife Earring	"+2
+575F4447525F33303139	Weapons - Daggers	Falcon Knife Earring	"+3
+575F4447525F30303230	Weapons - Daggers	Flame Tang	Base
+575F4447525F31303230	Weapons - Daggers	Flame Tang	"+1
+575F4447525F32303230	Weapons - Daggers	Flame Tang	"+2
+575F4447525F33303230	Weapons - Daggers	Flame Tang	"+3
+575F4447525F30303231	Weapons - Daggers	Deft Dagger	Base
+575F4447525F30303232	Weapons - Daggers	High-Born Blade	Base
+575F4447525F31303232	Weapons - Daggers	High-Born Blade	"+1
+575F4447525F32303232	Weapons - Daggers	High-Born Blade	"+2
+575F4447525F33303232	Weapons - Daggers	High-Born Blade	"+3
+575F4447525F30303233	Weapons - Daggers	Knife Of Strife	Base
+575F4447525F31303233	Weapons - Daggers	Knife Of Strife	"+1
+575F4447525F32303233	Weapons - Daggers	Knife Of Strife	"+2
+575F4447525F33303233	Weapons - Daggers	Knife Of Strife	"+3
+575F4447525F30303234	Weapons - Daggers	Darting Dagger	Base
+575F4447525F30303235	Weapons - Daggers	Gryphon's Wing	Base
+575F4447525F31303235	Weapons - Daggers	Gryphon's Wing	"+1
+575F4447525F32303235	Weapons - Daggers	Gryphon's Wing	"+2
+575F4447525F33303235	Weapons - Daggers	Gryphon's Wing	"+3
+575F4447525F30303236	Weapons - Daggers	NULL	Base
+575F4447525F30303237	Weapons - Daggers	Thunderstorm Skean	Base
+575F4447525F31303237	Weapons - Daggers	Thunderstorm Skean	"+1
+575F4447525F32303237	Weapons - Daggers	Thunderstorm Skean	"+2
+575F4447525F33303237	Weapons - Daggers	Thunderstorm Skean	"+3
+575F4447525F30303238	Weapons - Daggers	El Stupendo	Base
+575F4447525F31303238	Weapons - Daggers	El Stupendo	"+1
+575F4447525F32303238	Weapons - Daggers	El Stupendo	"+2
+575F4447525F33303238	Weapons - Daggers	El Stupendo	"+3
+575F4447525F30303239	Weapons - Daggers	Timeshear	Base
+575F4447525F31303239	Weapons - Daggers	Timeshear	"+1
+575F4447525F32303239	Weapons - Daggers	Timeshear	"+2
+575F4447525F33303239	Weapons - Daggers	Timeshear	"+3
+575F4447525F30303330	Weapons - Daggers	Dynamo Dagger	Base
+575F4447525F31303330	Weapons - Daggers	Dynamo Dagger	"+1
+575F4447525F32303330	Weapons - Daggers	Dynamo Dagger	"+2
+575F4447525F33303330	Weapons - Daggers	Dynamo Dagger	"+3
+575F4158455F30303031	Weapons - Axes	Cavalier Cleaver	Base
+575F4158455F31303031	Weapons - Axes	Cavalier Cleaver	"+1
+575F4158455F32303031	Weapons - Axes	Cavalier Cleaver	"+2
+575F4158455F33303031	Weapons - Axes	Cavalier Cleaver	"+3
+575F4158455F30303032	Weapons - Axes	King Axe	Base
+575F4158455F31303032	Weapons - Axes	King Axe	"+1
+575F4158455F32303032	Weapons - Axes	King Axe	"+2
+575F4158455F33303032	Weapons - Axes	King Axe	"+3
+575F4158455F30303033	Weapons - Axes	Ice Axe	Base
+575F4158455F31303033	Weapons - Axes	Ice Axe	"+1
+575F4158455F32303033	Weapons - Axes	Ice Axe	"+2
+575F4158455F33303033	Weapons - Axes	Ice Axe	"+3
+575F4158455F30303034	Weapons - Axes	Kaiser Axe	Base
+575F4158455F31303034	Weapons - Axes	Kaiser Axe	"+1
+575F4158455F32303034	Weapons - Axes	Kaiser Axe	"+2
+575F4158455F33303034	Weapons - Axes	Kaiser Axe	"+3
+575F4158455F30303035	Weapons - Axes	Obliteratoriser	Base
+575F4158455F31303035	Weapons - Axes	Obliteratoriser	"+1
+575F4158455F32303035	Weapons - Axes	Obliteratoriser	"+2
+575F4158455F33303035	Weapons - Axes	Obliteratoriser	"+3
+575F4158455F30303036	Weapons - Axes	Overlord's Axe	Base
+575F4158455F31303036	Weapons - Axes	Overlord's Axe	"+1
+575F4158455F32303036	Weapons - Axes	Overlord's Axe	"+2
+575F4158455F33303036	Weapons - Axes	Overlord's Axe	"+3
+575F4158455F30303037	Weapons - Axes	Bad Axe	Base
+575F4158455F30303038	Weapons - Axes	Conqueror's Axe	Base
+575F4158455F31303038	Weapons - Axes	Conqueror's Axe	"+1
+575F4158455F32303038	Weapons - Axes	Conqueror's Axe	"+2
+575F4158455F33303038	Weapons - Axes	Conqueror's Axe	"+3
+575F4158455F30303039	Weapons - Axes	Avalanche Axe	Base
+575F4158455F31303039	Weapons - Axes	Avalanche Axe	"+1
+575F4158455F32303039	Weapons - Axes	Avalanche Axe	"+2
+575F4158455F33303039	Weapons - Axes	Avalanche Axe	"+3
+575F4158455F30303130	Weapons - Axes	Maxi Axe	Base
+575F4158455F30303131	Weapons - Axes	Apollo's Axe	Base
+575F4158455F31303131	Weapons - Axes	Apollo's Axe	"+1
+575F4158455F32303131	Weapons - Axes	Apollo's Axe	"+2
+575F4158455F33303131	Weapons - Axes	Apollo's Axe	"+3
+575F4158455F30303132	Weapons - Axes	Climaxe	Base
+575F4158455F30303133	Weapons - Axes	Aristocrat's Axe	Base
+575F4158455F31303133	Weapons - Axes	Aristocrat's Axe	"+1
+575F4158455F32303133	Weapons - Axes	Aristocrat's Axe	"+2
+575F4158455F33303133	Weapons - Axes	Aristocrat's Axe	"+3
+575F4158455F30303134	Weapons - Axes	Kairos Cleaver	Base
+575F4158455F31303134	Weapons - Axes	Kairos Cleaver	"+1
+575F4158455F32303134	Weapons - Axes	Kairos Cleaver	"+2
+575F4158455F33303134	Weapons - Axes	Kairos Cleaver	"+3
+575F4158455F30303135	Weapons - Axes	Galaxy Axe	Base
+575F4158455F31303135	Weapons - Axes	Galaxy Axe	"+1
+575F4158455F32303135	Weapons - Axes	Galaxy Axe	"+2
+575F4158455F33303135	Weapons - Axes	Galaxy Axe	"+3
+575F53544B5F30303031	Weapons - Wands	Serena's Wand	Base
+575F53544B5F31303031	Weapons - Wands	Serena's Wand	"+1
+575F53544B5F32303031	Weapons - Wands	Serena's Wand	"+2
+575F53544B5F33303031	Weapons - Wands	Serena's Wand	"+3
+575F53544B5F30303032	Weapons - Wands	Lamp Post	Base
+575F53544B5F31303032	Weapons - Wands	Lamp Post	"+1
+575F53544B5F32303032	Weapons - Wands	Lamp Post	"+2
+575F53544B5F33303032	Weapons - Wands	Lamp Post	"+3
+575F53544B5F30303033	Weapons - Wands	Posey Pole	Base
+575F53544B5F31303033	Weapons - Wands	Posey Pole	"+1
+575F53544B5F32303033	Weapons - Wands	Posey Pole	"+2
+575F53544B5F33303033	Weapons - Wands	Posey Pole	"+3
+575F53544B5F30303034	Weapons - Wands	Lolly Stick	Base
+575F53544B5F31303034	Weapons - Wands	Lolly Stick	"+1
+575F53544B5F32303034	Weapons - Wands	Lolly Stick	"+2
+575F53544B5F33303034	Weapons - Wands	Lolly Stick	"+3
+575F53544B5F30303035	Weapons - Wands	Jolly Brolly	Base
+575F53544B5F31303035	Weapons - Wands	Jolly Brolly	"+1
+575F53544B5F32303035	Weapons - Wands	Jolly Brolly	"+2
+575F53544B5F33303035	Weapons - Wands	Jolly Brolly	"+3
+575F53544B5F30303036	Weapons - Wands	Wyvern Wand	Base
+575F53544B5F31303036	Weapons - Wands	Wyvern Wand	"+1
+575F53544B5F32303036	Weapons - Wands	Wyvern Wand	"+2
+575F53544B5F33303036	Weapons - Wands	Wyvern Wand	"+3
+575F53544B5F30303037	Weapons - Wands	Seraphic Sceptre	Base
+575F53544B5F31303037	Weapons - Wands	Seraphic Sceptre	"+1
+575F53544B5F32303037	Weapons - Wands	Seraphic Sceptre	"+2
+575F53544B5F33303037	Weapons - Wands	Seraphic Sceptre	"+3
+575F53544B5F30303038	Weapons - Wands	Spryggdrasil	Base
+575F53544B5F31303038	Weapons - Wands	Spryggdrasil	"+1
+575F53544B5F32303038	Weapons - Wands	Spryggdrasil	"+2
+575F53544B5F33303038	Weapons - Wands	Spryggdrasil	"+3
+575F53544B5F30303039	Weapons - Wands	Glumbrella	Base
+575F53544B5F31303039	Weapons - Wands	Glumbrella	"+1
+575F53544B5F32303039	Weapons - Wands	Glumbrella	"+2
+575F53544B5F33303039	Weapons - Wands	Glumbrella	"+3
+575F53544B5F30303130	Weapons - Wands	Bonbon Baton	Base
+575F53544B5F31303130	Weapons - Wands	Bonbon Baton	"+1
+575F53544B5F32303130	Weapons - Wands	Bonbon Baton	"+2
+575F53544B5F33303130	Weapons - Wands	Bonbon Baton	"+3
+575F53544B5F30303131	Weapons - Wands	Red Dragon Rod	Base
+575F53544B5F31303131	Weapons - Wands	Red Dragon Rod	"+1
+575F53544B5F32303131	Weapons - Wands	Red Dragon Rod	"+2
+575F53544B5F33303131	Weapons - Wands	Red Dragon Rod	"+3
+575F53544B5F30303132	Weapons - Wands	Seraph's Stick	Base
+575F53544B5F31303132	Weapons - Wands	Seraph's Stick	"+1
+575F53544B5F32303132	Weapons - Wands	Seraph's Stick	"+2
+575F53544B5F33303132	Weapons - Wands	Seraph's Stick	"+3
+575F53544B5F30303133	Weapons - Wands	Butterfly Baton	Base
+575F53544B5F31303133	Weapons - Wands	Butterfly Baton	"+1
+575F53544B5F32303133	Weapons - Wands	Butterfly Baton	"+2
+575F53544B5F33303133	Weapons - Wands	Butterfly Baton	"+3
+575F53544B5F30303134	Weapons - Wands	Glow Stick	Base
+575F53544B5F31303134	Weapons - Wands	Glow Stick	"+1
+575F53544B5F32303134	Weapons - Wands	Glow Stick	"+2
+575F53544B5F33303134	Weapons - Wands	Glow Stick	"+3
+575F53544B5F30303135	Weapons - Wands	Get-Up-And-Glow Stick	Base
+575F53544B5F31303135	Weapons - Wands	Get-Up-And-Glow Stick	"+1
+575F53544B5F32303135	Weapons - Wands	Get-Up-And-Glow Stick	"+2
+575F53544B5F33303135	Weapons - Wands	Get-Up-And-Glow Stick	"+3
+575F53544B5F30303136	Weapons - Wands	Pixie Pole	Base
+575F53544B5F31303136	Weapons - Wands	Pixie Pole	"+1
+575F53544B5F32303136	Weapons - Wands	Pixie Pole	"+2
+575F53544B5F33303136	Weapons - Wands	Pixie Pole	"+3
+575F53544B5F30303137	Weapons - Wands	Fantastick	Base
+575F53544B5F31303137	Weapons - Wands	Fantastick	"+1
+575F53544B5F32303137	Weapons - Wands	Fantastick	"+2
+575F53544B5F33303137	Weapons - Wands	Fantastick	"+3
+575F53544B5F30303138	Weapons - Wands	Cane Of Compassion	Base
+575F53544B5F31303138	Weapons - Wands	Cane Of Compassion	"+1
+575F53544B5F32303138	Weapons - Wands	Cane Of Compassion	"+2
+575F53544B5F33303138	Weapons - Wands	Cane Of Compassion	"+3
+575F53544B5F30303139	Weapons - Wands	Sceptre Of Time	Base
+575F53544B5F31303139	Weapons - Wands	Sceptre Of Time	"+1
+575F53544B5F32303139	Weapons - Wands	Sceptre Of Time	"+2
+575F53544B5F33303139	Weapons - Wands	Sceptre Of Time	"+3
+575F53544B5F30303230	Weapons - Wands	Faerie King's Cane	Base
+575F53544B5F31303230	Weapons - Wands	Faerie King's Cane	"+1
+575F53544B5F32303230	Weapons - Wands	Faerie King's Cane	"+2
+575F53544B5F33303230	Weapons - Wands	Faerie King's Cane	"+3
+575F53544B5F30303231	Weapons - Wands	Rusty Sceptre	Base
+575F53544B5F30303232	Weapons - Wands	Naughty Stick	Base
+575F53544B5F31303232	Weapons - Wands	Naughty Stick	"+1
+575F53544B5F32303232	Weapons - Wands	Naughty Stick	"+2
+575F53544B5F33303232	Weapons - Wands	Naughty Stick	"+3
+575F424F4F5F30303031	Weapons - Boomerangs	Edged Boomerang	Base
+575F424F4F5F31303031	Weapons - Boomerangs	Edged Boomerang	"+1
+575F424F4F5F32303031	Weapons - Boomerangs	Edged Boomerang	"+2
+575F424F4F5F33303031	Weapons - Boomerangs	Edged Boomerang	"+3
+575F424F4F5F30303033	Weapons - Boomerangs	Crucerang	Base
+575F424F4F5F31303032	Weapons - Boomerangs	Crucerang	"+1
+575F424F4F5F32303032	Weapons - Boomerangs	Crucerang	"+2
+575F424F4F5F33303032	Weapons - Boomerangs	Crucerang	"+3
+575F424F4F5F30303035	Weapons - Boomerangs	Soarin' Steel	Base
+575F424F4F5F31303035	Weapons - Boomerangs	Soarin' Steel	"+1
+575F424F4F5F32303035	Weapons - Boomerangs	Soarin' Steel	"+2
+575F424F4F5F33303035	Weapons - Boomerangs	Soarin' Steel	"+3
+575F424F4F5F30303036	Weapons - Boomerangs	Flametang Boomerang	Base
+575F424F4F5F31303036	Weapons - Boomerangs	Flametang Boomerang	"+1
+575F424F4F5F32303036	Weapons - Boomerangs	Flametang Boomerang	"+2
+575F424F4F5F33303036	Weapons - Boomerangs	Flametang Boomerang	"+3
+575F424F4F5F30303037	Weapons - Boomerangs	Winter's Wing	Base
+575F424F4F5F31303037	Weapons - Boomerangs	Winter's Wing	"+1
+575F424F4F5F32303037	Weapons - Boomerangs	Winter's Wing	"+2
+575F424F4F5F33303037	Weapons - Boomerangs	Winter's Wing	"+3
+575F424F4F5F30303038	Weapons - Boomerangs	Magic Circle	Base
+575F424F4F5F31303038	Weapons - Boomerangs	Magic Circle	"+1
+575F424F4F5F32303038	Weapons - Boomerangs	Magic Circle	"+2
+575F424F4F5F33303038	Weapons - Boomerangs	Magic Circle	"+3
+575F424F4F5F30303039	Weapons - Boomerangs	Banefire Boomerang	Base
+575F424F4F5F31303039	Weapons - Boomerangs	Banefire Boomerang	"+1
+575F424F4F5F32303039	Weapons - Boomerangs	Banefire Boomerang	"+2
+575F424F4F5F33303039	Weapons - Boomerangs	Banefire Boomerang	"+3
+575F424F4F5F30303130	Weapons - Boomerangs	Star Cross	Base
+575F424F4F5F31303130	Weapons - Boomerangs	Star Cross	"+1
+575F424F4F5F32303130	Weapons - Boomerangs	Star Cross	"+2
+575F424F4F5F33303130	Weapons - Boomerangs	Star Cross	"+3
+575F424F4F5F30303131	Weapons - Boomerangs	Pentarang	Base
+575F424F4F5F31303131	Weapons - Boomerangs	Pentarang	"+1
+575F424F4F5F32303131	Weapons - Boomerangs	Pentarang	"+2
+575F424F4F5F33303131	Weapons - Boomerangs	Pentarang	"+3
+575F424F4F5F30303132	Weapons - Boomerangs	Metal Goomerang	Base
+575F424F4F5F31303132	Weapons - Boomerangs	Metal Goomerang	"+1
+575F424F4F5F32303132	Weapons - Boomerangs	Metal Goomerang	"+2
+575F424F4F5F33303132	Weapons - Boomerangs	Metal Goomerang	"+3
+575F424F4F5F30303133	Weapons - Boomerangs	Meteorang	Base
+575F424F4F5F30303134	Weapons - Boomerangs	Asterang	Base
+575F424F4F5F30303135	Weapons - Boomerangs	Null	Base
+575F424F4F5F30303136	Weapons - Boomerangs	Liquid Metal Goomerang	Base
+575F424F4F5F31303136	Weapons - Boomerangs	Liquid Metal Goomerang	"+1
+575F424F4F5F32303136	Weapons - Boomerangs	Liquid Metal Goomerang	"+2
+575F424F4F5F33303136	Weapons - Boomerangs	Liquid Metal Goomerang	"+3
+575F424F4F5F30303137	Weapons - Boomerangs	Dark Star	Base
+575F424F4F5F31303137	Weapons - Boomerangs	Dark Star	"+1
+575F424F4F5F32303137	Weapons - Boomerangs	Dark Star	"+2
+575F424F4F5F33303137	Weapons - Boomerangs	Dark Star	"+3
+575F424F4F5F30303138	Weapons - Boomerangs	Hunter's Moon	Base
+575F424F4F5F31303138	Weapons - Boomerangs	Hunter's Moon	"+1
+575F424F4F5F32303138	Weapons - Boomerangs	Hunter's Moon	"+2
+575F424F4F5F33303138	Weapons - Boomerangs	Hunter's Moon	"+3
+575F424F4F5F30303139	Weapons - Boomerangs	Galaxarang	Base
+575F424F4F5F31303139	Weapons - Boomerangs	Galaxarang	"+1
+575F424F4F5F32303139	Weapons - Boomerangs	Galaxarang	"+2
+575F424F4F5F33303139	Weapons - Boomerangs	Galaxarang	"+3
+575F424F4F5F30303230	Weapons - Boomerangs	Metal King Goomerang	Base
+575F424F4F5F31303230	Weapons - Boomerangs	Metal King Goomerang	"+1
+575F424F4F5F32303230	Weapons - Boomerangs	Metal King Goomerang	"+2
+575F424F4F5F33303230	Weapons - Boomerangs	Metal King Goomerang	"+3
+575F424F4F5F30303231	Weapons - Boomerangs	Birchwood Boomerang	Base
+575F424F4F5F31303231	Weapons - Boomerangs	Birchwood Boomerang	"+1
+575F424F4F5F32303231	Weapons - Boomerangs	Birchwood Boomerang	"+2
+575F424F4F5F33303231	Weapons - Boomerangs	Birchwood Boomerang	"+3
+575F424F4F5F30303232	Weapons - Boomerangs	Boomerang	Base
+575F424F4F5F31303232	Weapons - Boomerangs	Boomerang	"+1
+575F424F4F5F32303232	Weapons - Boomerangs	Boomerang	"+2
+575F424F4F5F33303232	Weapons - Boomerangs	Boomerang	"+3
+575F5453575F31303031	Weapons - Great Swords 	Copper Chopper	Base
+575F5453575F31303031	Weapons - Great Swords 	Copper Chopper	"+1
+575F5453575F32303031	Weapons - Great Swords 	Copper Chopper	"+2
+575F5453575F33303031	Weapons - Great Swords 	Copper Chopper	"+3
+575F5453575F30303032	Weapons - Great Swords 	Broad Sword	Base
+575F5453575F31303032	Weapons - Great Swords 	Broad Sword	"+1
+575F5453575F32303032	Weapons - Great Swords 	Broad Sword	"+2
+575F5453575F33303032	Weapons - Great Swords 	Broad Sword	"+3
+575F5453575F30303033	Weapons - Great Swords 	Cast-Iron Claymore	Base
+575F5453575F31303033	Weapons - Great Swords 	Cast-Iron Claymore	"+1
+575F5453575F32303033	Weapons - Great Swords 	Cast-Iron Claymore	"+2
+575F5453575F33303033	Weapons - Great Swords 	Cast-Iron Claymore	"+3
+575F5453575F30303034	Weapons - Great Swords 	Broader Sword	Base
+575F5453575F31303034	Weapons - Great Swords 	Broader Sword	"+1
+575F5453575F32303034	Weapons - Great Swords 	Broader Sword	"+2
+575F5453575F33303034	Weapons - Great Swords 	Broader Sword	"+3
+575F5453575F30303035	Weapons - Great Swords 	Black Blade	Base
+575F5453575F31303035	Weapons - Great Swords 	Black Blade	"+1
+575F5453575F32303035	Weapons - Great Swords 	Black Blade	"+2
+575F5453575F33303035	Weapons - Great Swords 	Black Blade	"+3
+575F5453575F30303036	Weapons - Great Swords 	Carbon Steel Claymore	Base
+575F5453575F31303036	Weapons - Great Swords 	Carbon Steel Claymore	"+1
+575F5453575F32303036	Weapons - Great Swords 	Carbon Steel Claymore	"+2
+575F5453575F33303036	Weapons - Great Swords 	Carbon Steel Claymore	"+3
+575F5453575F30303037	Weapons - Great Swords 	Banishing Blade	Base
+575F5453575F31303037	Weapons - Great Swords 	Banishing Blade	"+1
+575F5453575F32303037	Weapons - Great Swords 	Banishing Blade	"+2
+575F5453575F33303037	Weapons - Great Swords 	Banishing Blade	"+3
+575F5453575F30303038	Weapons - Great Swords 	Razer-Wing	Base
+575F5453575F31303038	Weapons - Great Swords 	Razer-Wing	"+1
+575F5453575F32303038	Weapons - Great Swords 	Razer-Wing	"+2
+575F5453575F33303038	Weapons - Great Swords 	Razer-Wing	"+3
+575F5453575F30303039	Weapons - Great Swords 	Night Cleaver	Base
+575F5453575F31303039	Weapons - Great Swords 	Night Cleaver	"+1
+575F5453575F32303039	Weapons - Great Swords 	Night Cleaver	"+2
+575F5453575F33303039	Weapons - Great Swords 	Night Cleaver	"+3
+575F5453575F30303130	Weapons - Great Swords 	Platinum Powersword	Base
+575F5453575F31303130	Weapons - Great Swords 	Platinum Powersword	"+1
+575F5453575F32303130	Weapons - Great Swords 	Platinum Powersword	"+2
+575F5453575F33303130	Weapons - Great Swords 	Platinum Powersword	"+3
+575F5453575F30303131	Weapons - Great Swords 	Hendrik's Greatsword	Base
+575F5453575F31303131	Weapons - Great Swords 	Hendrik's Greatsword	"+1
+575F5453575F32303131	Weapons - Great Swords 	Hendrik's Greatsword	"+2
+575F5453575F33303131	Weapons - Great Swords 	Hendrik's Greatsword	"+3
+575F5453575F30303132	Weapons - Great Swords 	Demonsbane	Base
+575F5453575F31303132	Weapons - Great Swords 	Demonsbane	"+1
+575F5453575F32303132	Weapons - Great Swords 	Demonsbane	"+2
+575F5453575F33303132	Weapons - Great Swords 	Demonsbane	"+3
+575F5453575F30303133	Weapons - Great Swords 	Brimstone Blade	Base
+575F5453575F31303133	Weapons - Great Swords 	Brimstone Blade	"+1
+575F5453575F32303133	Weapons - Great Swords 	Brimstone Blade	"+2
+575F5453575F33303133	Weapons - Great Swords 	Brimstone Blade	"+3
+575F5453575F30303134	Weapons - Great Swords 	Wyrmfang	Base
+575F5453575F31303134	Weapons - Great Swords 	Wyrmfang	"+1
+575F5453575F32303134	Weapons - Great Swords 	Wyrmfang	"+2
+575F5453575F33303134	Weapons - Great Swords 	Wyrmfang	"+3
+575F5453575F30303135	Weapons - Great Swords 	Metal Gooreatsword	Base
+575F5453575F31303135	Weapons - Great Swords 	Metal Gooreatsword	"+1
+575F5453575F32303135	Weapons - Great Swords 	Metal Gooreatsword	"+2
+575F5453575F33303135	Weapons - Great Swords 	Metal Gooreatsword	"+3
+575F5453575F30303136	Weapons - Great Swords 	Lord's Sword	Base
+575F5453575F31303136	Weapons - Great Swords 	Lord's Sword	"+1
+575F5453575F32303136	Weapons - Great Swords 	Lord's Sword	"+2
+575F5453575F33303136	Weapons - Great Swords 	Lord's Sword	"+3
+575F5453575F30303137	Weapons - Great Swords 	Skysteel Sword	Base
+575F5453575F31303137	Weapons - Great Swords 	Skysteel Sword	"+1
+575F5453575F32303137	Weapons - Great Swords 	Skysteel Sword	"+2
+575F5453575F33303137	Weapons - Great Swords 	Skysteel Sword	"+3
+575F5453575F30303138	Weapons - Great Swords 	Liquid Metal Gooreatsword	Base
+575F5453575F31303138	Weapons - Great Swords 	Liquid Metal Gooreatsword	"+1
+575F5453575F32303138	Weapons - Great Swords 	Liquid Metal Gooreatsword	"+2
+575F5453575F33303138	Weapons - Great Swords 	Liquid Metal Gooreatsword	"+3
+575F5453575F30303139	Weapons - Great Swords 	Legate's Blade	Base
+575F5453575F31303139	Weapons - Great Swords 	Legate's Blade	"+1
+575F5453575F32303139	Weapons - Great Swords 	Legate's Blade	"+2
+575F5453575F33303139	Weapons - Great Swords 	Legate's Blade	"+3
+575F5453575F30303230	Weapons - Great Swords 	Berserker's Blade	Base
+575F5453575F31303230	Weapons - Great Swords 	Berserker's Blade	"+1
+575F5453575F32303230	Weapons - Great Swords 	Berserker's Blade	"+2
+575F5453575F33303230	Weapons - Great Swords 	Berserker's Blade	"+3
+575F5453575F30303231	Weapons - Great Swords 	Brilliant Blade	Base
+575F5453575F31303231	Weapons - Great Swords 	Brilliant Blade	"+1
+575F5453575F32303231	Weapons - Great Swords 	Brilliant Blade	"+2
+575F5453575F33303231	Weapons - Great Swords 	Brilliant Blade	"+3
+575F5453575F30303232	Weapons - Great Swords 	Metal King Gooreatsword	Base
+575F5453575F31303232	Weapons - Great Swords 	Metal King Gooreatsword	"+1
+575F5453575F32303232	Weapons - Great Swords 	Metal King Gooreatsword	"+2
+575F5453575F33303232	Weapons - Great Swords 	Metal King Gooreatsword	"+3
+575F5453575F30303233	Weapons - Great Swords 	Cobblestone Greatsword	Base
+575F5453575F31303233	Weapons - Great Swords 	Cobblestone Greatsword	"+1
+575F5453575F32303233	Weapons - Great Swords 	Cobblestone Greatsword	"+2
+575F5453575F33303233	Weapons - Great Swords 	Cobblestone Greatsword	"+3
+575F5453575F30303234	Weapons - Great Swords 	Sword Of Shadows	Base
+575F5350525F30303031	Weapons - Spears	Bronze Lance	Base
+575F5350525F31303031	Weapons - Spears	Bronze Lance	"+1
+575F5350525F32303031	Weapons - Spears	Bronze Lance	"+2
+575F5350525F33303031	Weapons - Spears	Bronze Lance	"+3
+575F5350525F30303032	Weapons - Spears	Iron Lance	Base
+575F5350525F31303032	Weapons - Spears	Iron Lance	"+1
+575F5350525F32303032	Weapons - Spears	Iron Lance	"+2
+575F5350525F33303032	Weapons - Spears	Iron Lance	"+3
+575F5350525F30303033	Weapons - Spears	Battle Fork	Base
+575F5350525F31303033	Weapons - Spears	Battle Fork	"+1
+575F5350525F32303033	Weapons - Spears	Battle Fork	"+2
+575F5350525F33303033	Weapons - Spears	Battle Fork	"+3
+575F5350525F30303034	Weapons - Spears	Steel Lance	Base
+575F5350525F31303034	Weapons - Spears	Steel Lance	"+1
+575F5350525F32303034	Weapons - Spears	Steel Lance	"+2
+575F5350525F33303034	Weapons - Spears	Steel Lance	"+3
+575F5350525F30303035	Weapons - Spears	Jade's Glave	Base
+575F5350525F31303035	Weapons - Spears	Jade's Glave	"+1
+575F5350525F32303035	Weapons - Spears	Jade's Glave	"+2
+575F5350525F33303035	Weapons - Spears	Jade's Glave	"+3
+575F5350525F30303036	Weapons - Spears	Trident	Base
+575F5350525F31303036	Weapons - Spears	Trident	"+1
+575F5350525F32303036	Weapons - Spears	Trident	"+2
+575F5350525F33303036	Weapons - Spears	Trident	"+3
+575F5350525F30303037	Weapons - Spears	Lightning Lance	Base
+575F5350525F31303037	Weapons - Spears	Lightning Lance	"+1
+575F5350525F32303037	Weapons - Spears	Lightning Lance	"+2
+575F5350525F33303037	Weapons - Spears	Lightning Lance	"+3
+575F5350525F30303038	Weapons - Spears	Platinum Lance	Base
+575F5350525F31303038	Weapons - Spears	Platinum Lance	"+1
+575F5350525F32303038	Weapons - Spears	Platinum Lance	"+2
+575F5350525F33303038	Weapons - Spears	Platinum Lance	"+3
+575F5350525F30303039	Weapons - Spears	Gracos's Fork	Base
+575F5350525F31303039	Weapons - Spears	Gracos's Fork	"+1
+575F5350525F32303039	Weapons - Spears	Gracos's Fork	"+2
+575F5350525F33303039	Weapons - Spears	Gracos's Fork	"+3
+575F5350525F30303130	Weapons - Spears	Demon Spear	Base
+575F5350525F31303130	Weapons - Spears	Demon Spear	"+1
+575F5350525F32303130	Weapons - Spears	Demon Spear	"+2
+575F5350525F33303130	Weapons - Spears	Demon Spear	"+3
+575F5350525F30303131	Weapons - Spears	Storm Spear	Base
+575F5350525F31303131	Weapons - Spears	Storm Spear	"+1
+575F5350525F32303131	Weapons - Spears	Storm Spear	"+2
+575F5350525F33303131	Weapons - Spears	Storm Spear	"+3
+575F5350525F30303132	Weapons - Spears	Full Fathom Fork	Base
+575F5350525F31303132	Weapons - Spears	Full Fathom Fork	"+1
+575F5350525F32303132	Weapons - Spears	Full Fathom Fork	"+2
+575F5350525F33303132	Weapons - Spears	Full Fathom Fork	"+3
+575F5350525F30303133	Weapons - Spears	Paladin's Lance	Base
+575F5350525F31303133	Weapons - Spears	Paladin's Lance	"+1
+575F5350525F32303133	Weapons - Spears	Paladin's Lance	"+2
+575F5350525F33303133	Weapons - Spears	Paladin's Lance	"+3
+575F5350525F30303134	Weapons - Spears	Metal Slime Spear	Base
+575F5350525F31303134	Weapons - Spears	Metal Slime Spear	"+1
+575F5350525F32303134	Weapons - Spears	Metal Slime Spear	"+2
+575F5350525F33303134	Weapons - Spears	Metal Slime Spear	"+3
+575F5350525F30303135	Weapons - Spears	Null	Base
+575F5350525F30303136	Weapons - Spears	Seraph's Spear	Base
+575F5350525F31303136	Weapons - Spears	Seraph's Spear	"+1
+575F5350525F32303136	Weapons - Spears	Seraph's Spear	"+2
+575F5350525F33303136	Weapons - Spears	Seraph's Spear	"+3
+575F5350525F30303137	Weapons - Spears	Null	Base
+575F5350525F30303138	Weapons - Spears	Liquid Metal Spear	Base
+575F5350525F31303138	Weapons - Spears	Liquid Metal Spear	"+1
+575F5350525F32303138	Weapons - Spears	Liquid Metal Spear	"+2
+575F5350525F33303138	Weapons - Spears	Liquid Metal Spear	"+3
+575F5350525F30303139	Weapons - Spears	Null	Base
+575F5350525F30303230	Weapons - Spears	Barbarous Pole	Base
+575F5350525F31303230	Weapons - Spears	Barbarous Pole	"+1
+575F5350525F32303230	Weapons - Spears	Barbarous Pole	"+2
+575F5350525F33303230	Weapons - Spears	Barbarous Pole	"+3
+575F5350525F30303231	Weapons - Spears	Sacred Spear	Base
+575F5350525F31303231	Weapons - Spears	Sacred Spear	"+1
+575F5350525F32303231	Weapons - Spears	Sacred Spear	"+2
+575F5350525F33303231	Weapons - Spears	Sacred Spear	"+3
+575F5350525F30303232	Weapons - Spears	Heaven's Talon	Base
+575F5350525F31303232	Weapons - Spears	Heaven's Talon	"+1
+575F5350525F32303232	Weapons - Spears	Heaven's Talon	"+2
+575F5350525F33303232	Weapons - Spears	Heaven's Talon	"+3
+575F5350525F30303233	Weapons - Spears	Metal King Spear	Base
+575F5350525F31303233	Weapons - Spears	Metal King Spear	"+1
+575F5350525F32303233	Weapons - Spears	Metal King Spear	"+2
+575F5350525F33303233	Weapons - Spears	Metal King Spear	"+3
+575F5350525F30303234	Weapons - Spears	Split-Pot Poker	Base
+575F5350525F31303234	Weapons - Spears	Split-Pot Poker	"+1
+575F5350525F32303234	Weapons - Spears	Split-Pot Poker	"+2
+575F5350525F33303234	Weapons - Spears	Split-Pot Poker	"+3
+575F524F445F30303031	Weapons - Heavy Wands	Faerie Staff	Base
+575F524F445F31303031	Weapons - Heavy Wands	Faerie Staff	"+1
+575F524F445F32303031	Weapons - Heavy Wands	Faerie Staff	"+2
+575F524F445F33303031	Weapons - Heavy Wands	Faerie Staff	"+3
+575F524F445F30303032	Weapons - Heavy Wands	Veronica's Staff	Base
+575F524F445F31303032	Weapons - Heavy Wands	Veronica's Staff	"+1
+575F524F445F32303032	Weapons - Heavy Wands	Veronica's Staff	"+2
+575F524F445F33303032	Weapons - Heavy Wands	Veronica's Staff	"+3
+575F524F445F30303033	Weapons - Heavy Wands	Wizard's Staff	Base
+575F524F445F31303033	Weapons - Heavy Wands	Wizard's Staff	"+1
+575F524F445F32303033	Weapons - Heavy Wands	Wizard's Staff	"+2
+575F524F445F33303033	Weapons - Heavy Wands	Wizard's Staff	"+3
+575F524F445F30303034	Weapons - Heavy Wands	Staff Of Sentencing	Base
+575F524F445F31303034	Weapons - Heavy Wands	Staff Of Sentencing	"+1
+575F524F445F32303034	Weapons - Heavy Wands	Staff Of Sentencing	"+2
+575F524F445F33303034	Weapons - Heavy Wands	Staff Of Sentencing	"+3
+575F524F445F30303035	Weapons - Heavy Wands	Shiverstick	Base
+575F524F445F31303035	Weapons - Heavy Wands	Shiverstick	"+1
+575F524F445F32303035	Weapons - Heavy Wands	Shiverstick	"+2
+575F524F445F33303035	Weapons - Heavy Wands	Shiverstick	"+3
+575F524F445F30303036	Weapons - Heavy Wands	Staff Of Divine Wrath	Base
+575F524F445F31303036	Weapons - Heavy Wands	Staff Of Divine Wrath	"+1
+575F524F445F32303036	Weapons - Heavy Wands	Staff Of Divine Wrath	"+2
+575F524F445F33303036	Weapons - Heavy Wands	Staff Of Divine Wrath	"+3
+575F524F445F30303037	Weapons - Heavy Wands	Rab's Cane	Base
+575F524F445F31303037	Weapons - Heavy Wands	Rab's Cane	"+1
+575F524F445F32303037	Weapons - Heavy Wands	Rab's Cane	"+2
+575F524F445F33303037	Weapons - Heavy Wands	Rab's Cane	"+3
+575F524F445F30303038	Weapons - Heavy Wands	Watermaul Wand	Base
+575F524F445F31303038	Weapons - Heavy Wands	Watermaul Wand	"+1
+575F524F445F32303038	Weapons - Heavy Wands	Watermaul Wand	"+2
+575F524F445F33303038	Weapons - Heavy Wands	Watermaul Wand	"+3
+575F524F445F30303039	Weapons - Heavy Wands	Lightning Staff	Base
+575F524F445F31303039	Weapons - Heavy Wands	Lightning Staff	"+1
+575F524F445F32303039	Weapons - Heavy Wands	Lightning Staff	"+2
+575F524F445F33303039	Weapons - Heavy Wands	Lightning Staff	"+3
+575F524F445F30303130	Weapons - Heavy Wands	Rod Of Rapidty	Base
+575F524F445F31303130	Weapons - Heavy Wands	Rod Of Rapidty	"+1
+575F524F445F32303130	Weapons - Heavy Wands	Rod Of Rapidty	"+2
+575F524F445F33303130	Weapons - Heavy Wands	Rod Of Rapidty	"+3
+575F524F445F30303131	Weapons - Heavy Wands	Tsunami Staff	Base
+575F524F445F31303131	Weapons - Heavy Wands	Tsunami Staff	"+1
+575F524F445F32303131	Weapons - Heavy Wands	Tsunami Staff	"+2
+575F524F445F33303131	Weapons - Heavy Wands	Tsunami Staff	"+3
+575F524F445F30303132	Weapons - Heavy Wands	Magma Staff	Base
+575F524F445F31303132	Weapons - Heavy Wands	Magma Staff	"+1
+575F524F445F32303132	Weapons - Heavy Wands	Magma Staff	"+2
+575F524F445F33303132	Weapons - Heavy Wands	Magma Staff	"+3
+575F524F445F30303133	Weapons - Heavy Wands	Staff Of Antimagic	Base
+575F524F445F31303133	Weapons - Heavy Wands	Staff Of Antimagic	"+1
+575F524F445F32303133	Weapons - Heavy Wands	Staff Of Antimagic	"+2
+575F524F445F33303133	Weapons - Heavy Wands	Staff Of Antimagic	"+3
+575F524F445F30303134	Weapons - Heavy Wands	Lightning Conductor	Base
+575F524F445F31303134	Weapons - Heavy Wands	Lightning Conductor	"+1
+575F524F445F32303134	Weapons - Heavy Wands	Lightning Conductor	"+2
+575F524F445F33303134	Weapons - Heavy Wands	Lightning Conductor	"+3
+575F524F445F30303135	Weapons - Heavy Wands	Rune Staff	Base
+575F524F445F31303135	Weapons - Heavy Wands	Rune Staff	"+1
+575F524F445F32303135	Weapons - Heavy Wands	Rune Staff	"+2
+575F524F445F33303135	Weapons - Heavy Wands	Rune Staff	"+3
+575F524F445F30303136	Weapons - Heavy Wands	Hieroglyph Staff	Base
+575F524F445F31303136	Weapons - Heavy Wands	Hieroglyph Staff	"+1
+575F524F445F32303136	Weapons - Heavy Wands	Hieroglyph Staff	"+2
+575F524F445F33303136	Weapons - Heavy Wands	Hieroglyph Staff	"+3
+575F524F445F30303137	Weapons - Heavy Wands	Hocus Locus	Base
+575F524F445F31303137	Weapons - Heavy Wands	Hocus Locus	"+1
+575F524F445F32303137	Weapons - Heavy Wands	Hocus Locus	"+2
+575F524F445F33303137	Weapons - Heavy Wands	Hocus Locus	"+3
+575F524F445F30303138	Weapons - Heavy Wands	Staff Of Resurrection	Base
+575F524F445F31303138	Weapons - Heavy Wands	Staff Of Resurrection	"+1
+575F524F445F32303138	Weapons - Heavy Wands	Staff Of Resurrection	"+2
+575F524F445F33303138	Weapons - Heavy Wands	Staff Of Resurrection	"+3
+575F524F445F30303139	Weapons - Heavy Wands	Celestial Sceptre	Base
+575F524F445F31303139	Weapons - Heavy Wands	Celestial Sceptre	"+1
+575F524F445F32303139	Weapons - Heavy Wands	Celestial Sceptre	"+2
+575F524F445F33303139	Weapons - Heavy Wands	Celestial Sceptre	"+3
+575F524F445F30303230	Weapons - Heavy Wands	Spirit Staff	Base
+575F524F445F31303230	Weapons - Heavy Wands	Spirit Staff	"+1
+575F524F445F32303230	Weapons - Heavy Wands	Spirit Staff	"+2
+575F524F445F33303230	Weapons - Heavy Wands	Spirit Staff	"+3
+575F524F445F30303231	Weapons - Heavy Wands	Sage's Staff	Base
+575F524F445F31303231	Weapons - Heavy Wands	Sage's Staff	"+1
+575F524F445F32303231	Weapons - Heavy Wands	Sage's Staff	"+2
+575F524F445F33303231	Weapons - Heavy Wands	Sage's Staff	"+3
+575F524F445F30303232	Weapons - Heavy Wands	Siren's Staff	Base
+575F524F445F31303232	Weapons - Heavy Wands	Siren's Staff	"+1
+575F524F445F32303232	Weapons - Heavy Wands	Siren's Staff	"+2
+575F524F445F33303232	Weapons - Heavy Wands	Siren's Staff	"+3
+575F524F445F30303233	Weapons - Heavy Wands	Bright Staff	Base
+575F524F445F30303234	Weapons - Heavy Wands	Sacrosanct Staff	Base
+575F524F445F31303234	Weapons - Heavy Wands	Sacrosanct Staff	"+1
+575F524F445F32303234	Weapons - Heavy Wands	Sacrosanct Staff	"+2
+575F524F445F33303234	Weapons - Heavy Wands	Sacrosanct Staff	"+3
+575F524F445F30303235	Weapons - Heavy Wands	Wyrmwand	Base
+575F524F445F31303235	Weapons - Heavy Wands	Wyrmwand	"+1
+575F524F445F32303235	Weapons - Heavy Wands	Wyrmwand	"+2
+575F524F445F33303235	Weapons - Heavy Wands	Wyrmwand	"+3
+575F524F445F30303236	Weapons - Heavy Wands	Supreme Sage's Staff	Base
+575F524F445F31303236	Weapons - Heavy Wands	Supreme Sage's Staff	"+1
+575F524F445F32303236	Weapons - Heavy Wands	Supreme Sage's Staff	"+2
+575F524F445F33303236	Weapons - Heavy Wands	Supreme Sage's Staff	"+3
+575F524F445F30303237	Weapons - Heavy Wands	Null	Base
+575F524F445F30303238	Weapons - Heavy Wands	Null	Base
+575F524F445F30303239	Weapons - Heavy Wands	Rod Of Paradise	Base
+575F524F445F31303239	Weapons - Heavy Wands	Rod Of Paradise	"+1
+575F524F445F32303239	Weapons - Heavy Wands	Rod Of Paradise	"+2
+575F524F445F33303239	Weapons - Heavy Wands	Rod Of Paradise	"+3
+575F524F445F30303330	Weapons - Heavy Wands	Staff Of Eternity	Base
+575F524F445F31303330	Weapons - Heavy Wands	Staff Of Eternity	"+1
+575F524F445F32303330	Weapons - Heavy Wands	Staff Of Eternity	"+2
+575F524F445F33303330	Weapons - Heavy Wands	Staff Of Eternity	"+3
+575F524F445F30303331	Weapons - Heavy Wands	Aurora Staff	Base
+575F524F445F31303331	Weapons - Heavy Wands	Aurora Staff	"+1
+575F524F445F32303331	Weapons - Heavy Wands	Aurora Staff	"+2
+575F524F445F33303331	Weapons - Heavy Wands	Aurora Staff	"+3
+575F524F445F30393938	Weapons - Heavy Wands	Godbird Sceptre
+	Base
+575F524F445F31393938	Weapons - Heavy Wands	Godbird Sceptre
+	"+1
+575F524F445F32393938	Weapons - Heavy Wands	Godbird Sceptre
+	"+2
+575F524F445F33393938	Weapons - Heavy Wands	Godbird Sceptre
+	"+3
+575F434C575F30303031	Weapons - Claws	Iron Claws	Base
+575F434C575F31303031	Weapons - Claws	Iron Claws	"+1
+575F434C575F32303031	Weapons - Claws	Iron Claws	"+2
+575F434C575F33303031	Weapons - Claws	Iron Claws	"+3
+575F434C575F30303032	Weapons - Claws	Silver Claws	Base
+575F434C575F31303032	Weapons - Claws	Silver Claws	"+1
+575F434C575F32303032	Weapons - Claws	Silver Claws	"+2
+575F434C575F33303032	Weapons - Claws	Silver Claws	"+3
+575F434C575F30303033	Weapons - Claws	Infernails	Base
+575F434C575F31303033	Weapons - Claws	Infernails	"+1
+575F434C575F32303033	Weapons - Claws	Infernails	"+2
+575F434C575F33303033	Weapons - Claws	Infernails	"+3
+575F434C575F30303034	Weapons - Claws	Steel Claws	Base
+575F434C575F31303034	Weapons - Claws	Steel Claws	"+1
+575F434C575F32303034	Weapons - Claws	Steel Claws	"+2
+575F434C575F33303034	Weapons - Claws	Steel Claws	"+3
+575F434C575F30303035	Weapons - Claws	Crow's Claws	Base
+575F434C575F31303035	Weapons - Claws	Crow's Claws	"+1
+575F434C575F32303035	Weapons - Claws	Crow's Claws	"+2
+575F434C575F33303035	Weapons - Claws	Crow's Claws	"+3
+575F434C575F30303036	Weapons - Claws	Platinum Claws	Base
+575F434C575F31303036	Weapons - Claws	Platinum Claws	"+1
+575F434C575F32303036	Weapons - Claws	Platinum Claws	"+2
+575F434C575F33303036	Weapons - Claws	Platinum Claws	"+3
+575F434C575F30303037	Weapons - Claws	Kestrel Claws	Base
+575F434C575F31303037	Weapons - Claws	Kestrel Claws	"+1
+575F434C575F32303037	Weapons - Claws	Kestrel Claws	"+2
+575F434C575F33303037	Weapons - Claws	Kestrel Claws	"+3
+575F434C575F30303038	Weapons - Claws	Fire Claws	Base
+575F434C575F31303038	Weapons - Claws	Fire Claws	"+1
+575F434C575F32303038	Weapons - Claws	Fire Claws	"+2
+575F434C575F33303038	Weapons - Claws	Fire Claws	"+3
+575F434C575F30303039	Weapons - Claws	Ice Claws	Base
+575F434C575F31303039	Weapons - Claws	Ice Claws	"+1
+575F434C575F32303039	Weapons - Claws	Ice Claws	"+2
+575F434C575F33303039	Weapons - Claws	Ice Claws	"+3
+575F434C575F30303130	Weapons - Claws	Kite Claws	Base
+575F434C575F31303130	Weapons - Claws	Kite Claws	"+1
+575F434C575F32303130	Weapons - Claws	Kite Claws	"+2
+575F434C575F33303130	Weapons - Claws	Kite Claws	"+3
+575F434C575F30303131	Weapons - Claws	Cobra Claws	Base
+575F434C575F31303131	Weapons - Claws	Cobra Claws	"+1
+575F434C575F32303131	Weapons - Claws	Cobra Claws	"+2
+575F434C575F33303131	Weapons - Claws	Cobra Claws	"+3
+575F434C575F30303132	Weapons - Claws	Dragon Claws	Base
+575F434C575F31303132	Weapons - Claws	Dragon Claws	"+1
+575F434C575F32303132	Weapons - Claws	Dragon Claws	"+2
+575F434C575F33303132	Weapons - Claws	Dragon Claws	"+3
+575F434C575F30303133	Weapons - Claws	Crimson Claws	Base
+575F434C575F31303133	Weapons - Claws	Crimson Claws	"+1
+575F434C575F32303133	Weapons - Claws	Crimson Claws	"+2
+575F434C575F33303133	Weapons - Claws	Crimson Claws	"+3
+575F434C575F30303134	Weapons - Claws	Beast Claws	Base
+575F434C575F31303134	Weapons - Claws	Beast Claws	"+1
+575F434C575F32303134	Weapons - Claws	Beast Claws	"+2
+575F434C575F33303134	Weapons - Claws	Beast Claws	"+3
+575F434C575F30303135	Weapons - Claws	Null	Base
+575F434C575F30303136	Weapons - Claws	Combusticlaws	Base
+575F434C575F31303136	Weapons - Claws	Combusticlaws	"+1
+575F434C575F32303136	Weapons - Claws	Combusticlaws	"+2
+575F434C575F33303136	Weapons - Claws	Combusticlaws	"+3
+575F434C575F30303137	Weapons - Claws	King Cobra Claws	Base
+575F434C575F31303137	Weapons - Claws	King Cobra Claws	"+1
+575F434C575F32303137	Weapons - Claws	King Cobra Claws	"+2
+575F434C575F33303137	Weapons - Claws	King Cobra Claws	"+3
+575F434C575F30303138	Weapons - Claws	Monster Slashers	Base
+575F434C575F31303138	Weapons - Claws	Monster Slashers	"+1
+575F434C575F32303138	Weapons - Claws	Monster Slashers	"+2
+575F434C575F33303138	Weapons - Claws	Monster Slashers	"+3
+575F434C575F30303139	Weapons - Claws	Null	Base
+575F434C575F30303230	Weapons - Claws	Crystal Claws	Base
+575F434C575F31303230	Weapons - Claws	Crystal Claws	"+1
+575F434C575F32303230	Weapons - Claws	Crystal Claws	"+2
+575F434C575F33303230	Weapons - Claws	Crystal Claws	"+3
+575F434C575F30303231	Weapons - Claws	Dragovian Lord Claws	Base
+575F434C575F30303232	Weapons - Claws	Orichalcum Claws	Base
+575F434C575F31303232	Weapons - Claws	Orichalcum Claws	"+1
+575F434C575F32303232	Weapons - Claws	Orichalcum Claws	"+2
+575F434C575F33303232	Weapons - Claws	Orichalcum Claws	"+3
+575F434C575F30303233	Weapons - Claws	Deicimators	Base
+575F434C575F31303233	Weapons - Claws	Deicimators	"+1
+575F434C575F32303233	Weapons - Claws	Deicimators	"+2
+575F434C575F33303233	Weapons - Claws	Deicimators	"+3
+575F434C575F30303234	Weapons - Claws	Xenlon Claws	Base
+575F434C575F31303234	Weapons - Claws	Xenlon Claws	"+1
+575F434C575F32303234	Weapons - Claws	Xenlon Claws	"+2
+575F434C575F33303234	Weapons - Claws	Xenlon Claws	"+3
+575F434C575F30303235	Weapons - Claws	Frostfire Fingers	Base
+575F434C575F31303235	Weapons - Claws	Frostfire Fingers	"+1
+575F434C575F32303235	Weapons - Claws	Frostfire Fingers	"+2
+575F434C575F33303235	Weapons - Claws	Frostfire Fingers	"+3
+575F434C575F30393938	Weapons - Claws	Golden Claws	Base
+575F434C575F31393938	Weapons - Claws	Golden Claws	"+1
+575F434C575F32393938	Weapons - Claws	Golden Claws	"+2
+575F434C575F33393938	Weapons - Claws	Golden Claws	"+3
+575F5748505F30303031	Weapons - Whips	Thorn Whip	Base
+575F5748505F31303031	Weapons - Whips	Thorn Whip	"+1
+575F5748505F32303031	Weapons - Whips	Thorn Whip	"+2
+575F5748505F33303031	Weapons - Whips	Thorn Whip	"+3
+575F5748505F30303032	Weapons - Whips	Battle Whip	Base
+575F5748505F31303032	Weapons - Whips	Battle Whip	"+1
+575F5748505F32303032	Weapons - Whips	Battle Whip	"+2
+575F5748505F33303032	Weapons - Whips	Battle Whip	"+3
+575F5748505F30303033	Weapons - Whips	Hypno Whip	Base
+575F5748505F31303033	Weapons - Whips	Hypno Whip	"+1
+575F5748505F32303033	Weapons - Whips	Hypno Whip	"+2
+575F5748505F33303033	Weapons - Whips	Hypno Whip	"+3
+575F5748505F30303034	Weapons - Whips	Rose Whip	Base
+575F5748505F31303034	Weapons - Whips	Rose Whip	"+1
+575F5748505F32303034	Weapons - Whips	Rose Whip	"+2
+575F5748505F33303034	Weapons - Whips	Rose Whip	"+3
+575F5748505F30303035	Weapons - Whips	Beastly Bullwhip	Base
+575F5748505F31303035	Weapons - Whips	Beastly Bullwhip	"+1
+575F5748505F32303035	Weapons - Whips	Beastly Bullwhip	"+2
+575F5748505F33303035	Weapons - Whips	Beastly Bullwhip	"+3
+575F5748505F30303036	Weapons - Whips	Scorpion Tail	Base
+575F5748505F31303036	Weapons - Whips	Scorpion Tail	"+1
+575F5748505F32303036	Weapons - Whips	Scorpion Tail	"+2
+575F5748505F33303036	Weapons - Whips	Scorpion Tail	"+3
+575F5748505F30303037	Weapons - Whips	Dragontail Whip	Base
+575F5748505F31303037	Weapons - Whips	Dragontail Whip	"+1
+575F5748505F32303037	Weapons - Whips	Dragontail Whip	"+2
+575F5748505F33303037	Weapons - Whips	Dragontail Whip	"+3
+575F5748505F30303038	Weapons - Whips	Demon Whip	Base
+575F5748505F31303038	Weapons - Whips	Demon Whip	"+1
+575F5748505F32303038	Weapons - Whips	Demon Whip	"+2
+575F5748505F33303038	Weapons - Whips	Demon Whip	"+3
+575F5748505F30303039	Weapons - Whips	Queen's Whip	Base
+575F5748505F31303039	Weapons - Whips	Queen's Whip	"+1
+575F5748505F32303039	Weapons - Whips	Queen's Whip	"+2
+575F5748505F33303039	Weapons - Whips	Queen's Whip	"+3
+575F5748505F30303130	Weapons - Whips	Archdemon Whip	Base
+575F5748505F31303130	Weapons - Whips	Archdemon Whip	"+1
+575F5748505F32303130	Weapons - Whips	Archdemon Whip	"+2
+575F5748505F33303130	Weapons - Whips	Archdemon Whip	"+3
+575F5748505F30303131	Weapons - Whips	Empress's Whip	Base
+575F5748505F31303131	Weapons - Whips	Empress's Whip	"+1
+575F5748505F32303131	Weapons - Whips	Empress's Whip	"+2
+575F5748505F33303131	Weapons - Whips	Empress's Whip	"+3
+575F5748505F30303132	Weapons - Whips	Beelzebarb	Base
+575F5748505F31303132	Weapons - Whips	Beelzebarb	"+1
+575F5748505F32303132	Weapons - Whips	Beelzebarb	"+2
+575F5748505F33303132	Weapons - Whips	Beelzebarb	"+3
+575F5748505F30303133	Weapons - Whips	Gringham Whip	Base
+575F5748505F30303134	Weapons - Whips	Godess Whip	Base
+575F5748505F31303134	Weapons - Whips	Godess Whip	"+1
+575F5748505F32303134	Weapons - Whips	Godess Whip	"+2
+575F5748505F33303134	Weapons - Whips	Godess Whip	"+3
+575F5748505F30303135	Weapons - Whips	Null	Base
+575F5748505F30303136	Weapons - Whips	Triple-Tine Whip	Base
+575F5748505F31303136	Weapons - Whips	Triple-Tine Whip	"+1
+575F5748505F32303136	Weapons - Whips	Triple-Tine Whip	"+2
+575F5748505F33303136	Weapons - Whips	Triple-Tine Whip	"+3
+575F5748505F30303137	Weapons - Whips	Null	Base
+575F5748505F30303138	Weapons - Whips	Malevolash	Base
+575F5748505F31303138	Weapons - Whips	Malevolash	"+1
+575F5748505F32303138	Weapons - Whips	Malevolash	"+2
+575F5748505F33303138	Weapons - Whips	Malevolash	"+3
+575F5748505F30303139	Weapons - Whips	Anchor Or Rancour	Base
+575F5748505F31303139	Weapons - Whips	Anchor Or Rancour	"+1
+575F5748505F32303139	Weapons - Whips	Anchor Or Rancour	"+2
+575F5748505F33303139	Weapons - Whips	Anchor Or Rancour	"+3
+575F5748505F30303230	Weapons - Whips	Hellbeast's Leash	Base
+575F5748505F31303230	Weapons - Whips	Hellbeast's Leash	"+1
+575F5748505F32303230	Weapons - Whips	Hellbeast's Leash	"+2
+575F5748505F33303230	Weapons - Whips	Hellbeast's Leash	"+3
+575F5748505F30303231	Weapons - Whips	Uber Gringham Whip	Base
+575F5748505F31303231	Weapons - Whips	Uber Gringham Whip	"+1
+575F5748505F32303231	Weapons - Whips	Uber Gringham Whip	"+2
+575F5748505F33303231	Weapons - Whips	Uber Gringham Whip	"+3
+495F5553455F30303100	Usable Item	Medicinal Herb	
+495F5553455F30303200	Usable Item	Strong Medicine	
+495F5553455F30303300	Usable Item	Special Medicine	
+495F5553455F30303400	Usable Item	Superior Medicine	
+495F5553455F30303500	Usable Item	Antidotal Herb	
+495F5553455F30303600	Usable Item	Strong Antidote	
+495F5553455F30303700	Usable Item	Special Antidote	
+495F5553455F30303800	Usable Item	Moonwart Bulb	
+495F5553455F30303900	Usable Item	Softwort	
+495F5553455F30313000	Usable Item	Lunaria	
+495F5553455F30313100	Usable Item	Angel Bell	
+495F5553455F30313200	Usable Item	Panacea	
+495F5553455F30313300	Usable Item	Perfect Panacea	
+495F5553455F30313400	Usable Item	Yggdrasil Leaf	
+495F5553455F30313500	Usable Item	Yggdrasil Dew	
+495F5553455F30313600	Usable Item	Single Phial	
+495F5553455F30313700	Usable Item	Magic Water	
+495F5553455F30313800	Usable Item	Sage's Elixir	
+495F5553455F30313900	Usable Item	Elfin Elxir	
+495F5553455F30323000	Usable Item	Holy Water	
+495F5553455F30323100	Usable Item	Chimaera Wing	
+495F5553455F30323200	Usable Item	Null	
+495F5553455F30323300	Usable Item	Coagulant	
+495F5553455F30323400	Usable Item	Tangleweb	
+495F5553455F30323500	Usable Item	Sleeping Hibiscus	
+495F5553455F30323600	Usable Item	Wakerobin	
+495F5553455F30323700	Usable Item	Mystifying Mixture	
+495F5553455F30323800	Usable Item	Rockbomb Shard	
+495F5553455F30323900	Usable Item	Sage's Stone	
+495F5553455F30333000	Usable Item	Seed Of Life	
+495F5553455F30333100	Usable Item	Seed Of Magic	
+495F5553455F30333200	Usable Item	Seed Of Strength	
+495F5553455F30333300	Usable Item	Seed Of Deftness	
+495F5553455F30333400	Usable Item	Seed Of Agility	
+495F5553455F30333500	Usable Item	Seed Of Defence	
+495F5553455F30333600	Usable Item	Seed Of Sorcery	
+495F5553455F30333700	Usable Item	Seed Of Therapeusis	
+495F5553455F30333800	Usable Item	Seed Of Skill	
+495F5553455F30333900	Usable Item	Preety Betsy	
+495F5553455F30343000	Usable Item	Pep Pip	
+495F5553455F30343100	Usable Item	Pep Pop	
+495F5553455F30343200	Usable Item	Drasilian Shilling	
+495F5553455F30343300	Usable Item	Drasilian Guinea	
+495F5553455F30343400	Usable Item	Drasilian Sovereign	
+495F5553455F30343500	Usable Item	Mini Medal	
+495F5553455F30343600	Usable Item	Perfectionist Pearl	
+495F5553455F30343700	Usable Item	Love Potion	
+495F5553455F30343800	Usable Item	Casino Token	
+495F5553455F30343900	Usable Item	Serpents Soul	
+495F5553455F30353000	Usable Item	Cheat Sheet	
+495F5553455F33303100	Usable Item	Super Seed of Def	
+495F5553455F33303200	Usable Item	Super Seed of Strength	
+495F5553455F33303300	Usable Item	Super Seed of Magic	
+495F5553455F33303400	Usable Item	Super Seed of Life 	
+495F5553455F39393800	Usable Item	Wardrum 	
+495F5553455F39393900	Usable Item	Benevolence 	
+495F4D494E5F30303100	Materials - Minerial/Ore	Copper Ore	
+495F4D494E5F30303200	Materials - Minerial/Ore	Iron Ore	
+495F4D494E5F30303300	Materials - Minerial/Ore	Silver Ore	
+495F4D494E5F30303400	Materials - Minerial/Ore	Gold Ore	
+495F4D494E5F30303600	Materials - Minerial/Ore	Platinum Ore	
+495F4D494E5F30303700	Materials - Minerial/Ore	Densinium	
+495F4D494E5F30303800	Materials - Minerial/Ore	Gold Nuglet	
+495F4D494E5F30303900	Materials - Minerial/Ore	Gold Bar	
+495F4D494E5F30313000	Materials - Minerial/Ore	Molten Globules	
+495F4D494E5F30313100	Materials - Minerial/Ore	Orichalcum	
+495F4D494E5F30313200	Materials - Minerial/Ore	Dracolyte	
+495F4D494E5F30313300	Materials - Minerial/Ore	Crimsonite	
+495F4D494E5F30313400	Materials - Minerial/Ore	Uber Agate Of Evolution	
+495F4D494E5F30313700	Materials - Minerial/Ore	Mythril Ore	
+495F574F4F5F30303200	Materials - Wood	Pink Pine	
+495F574F4F5F30303500	Materials - Wood	Fatalistick	
+495F574F4F5F30303600	Materials - Wood	Fire Wood	
+495F574F4F5F30303700	Materials - Wood	Avabranche	
+495F574F4F5F30303800	Materials - Wood	Spellbound Bough	
+495F574F4F5F30303900	Materials - Wood	Wyrmwood	
+495F574F4F5F30313000	Materials - Wood	Witherwood	
+495F574F4F5F30313100	Materials - Wood	Red Wood	
+495F574F4F5F30313200	Materials - Wood	Cumulonimbough	
+495F574F4F5F30313300	Materials - Wood	Nightstick	
+495F434C4F5F30303200	Materials - Clothing	Flaxen Thread	
+495F434C4F5F30303300	Materials - Clothing	Evencloth	
+495F434C4F5F30303400	Materials - Clothing	Celestial Skein	
+495F434C4F5F30303500	Materials - Clothing	Faerie Fluff	
+495F434C4F5F30303600	Materials - Clothing	Thinkincense	
+495F434C4F5F30303700	Materials - Clothing	Cherry Blossom Petal	
+495F434C4F5F30303800	Materials - Clothing	Buzzberries	
+495F434C4F5F30303900	Materials - Clothing	Glimmergrass	
+495F434C4F5F30313000	Materials - Clothing	Colourful Cocoon	
+495F434C4F5F30313100	Materials - Clothing	Technicolour Dreamcloth	
+495F434C4F5F30313200	Materials - Clothing	Kaleidcloth	
+495F434C4F5F30313500	Materials - Clothing	Narspicious	
+495F434C4F5F30313600	Materials - Clothing	Cottontop	
+495F434C4F5F30313700	Materials - Clothing	Silkblossom	
+495F434C4F5F30313800	Materials - Clothing	Flurry Feather	
+495F434C4F5F30313900	Materials - Clothing	Butterfly Wing	
+495F434C4F5F30323000	Materials - Clothing	Waveweed	
+495F434C4F5F30323100	Materials - Clothing	Slipweed	
+495F4A45575F30303100	Materials - Jewel	Red Eye	
+495F4A45575F30303200	Materials - Jewel	Blue Eye	
+495F4A45575F30303300	Materials - Jewel	Yellow Eye	
+495F4A45575F30303400	Materials - Jewel	Green Eye	
+495F4A45575F30303500	Materials - Jewel	Purple Eye	
+495F4A45575F30303600	Materials - Jewel	Pink Pearl	
+495F4A45575F30303700	Materials - Jewel	Pale Pearl	
+495F4A45575F30303800	Materials - Jewel	Pitch Pearl	
+495F4A45575F30303900	Materials - Jewel	Royal Ruby	
+495F4A45575F30313000	Materials - Jewel	Savvy Sapphire	
+495F4A45575F30313200	Materials - Jewel	Sunny Citrine	
+495F4A45575F30313300	Materials - Jewel	Equable Emerald	
+495F4A45575F30313400	Materials - Jewel	Artful Amethyst	
+495F4A45575F30313600	Materials - Jewel	Black Tear	
+495F4A45575F30313700	Materials - Jewel	Spectralite	
+495F4C45415F30303100	Materials - Leather	Hardy Hide	
+495F4C45415F30303200	Materials - Leather	Fine Fur	
+495F4C45415F30303300	Materials - Leather	Magic Beast Hide	
+495F4C45415F30303400	Materials - Leather	Lambswool	
+495F4C45415F30303600	Materials - Leather	Serpent Skin	
+495F4C45415F30303900	Materials - Leather	Dragon Hide	
+495F424F4E5F30303100	Materials - Bones/Shells	Beast Bone	
+495F424F4E5F30303300	Materials - Bones/Shells	Small Scale	
+495F424F4E5F30303400	Materials - Bones/Shells	Tiny Tortoise Shell	
+495F424F4E5F30303500	Materials - Bones/Shells	Large Scale	
+495F424F4E5F30303600	Materials - Bones/Shells	Dragon Horn	
+495F424F4E5F30303700	Materials - Bones/Shells	Crimson Coral	
+495F424F4E5F30313000	Materials - Bones/Shells	Maiden's Favor	
+495F424F4E5F30313100	Materials - Bones/Shells	Big Bone	
+495F424F4E5F30313400	Materials - Bones/Shells	Twisted Talons	
+495F424F4E5F30313600	Materials - Bones/Shells	Serpent Bone	
+495F424F4E5F30323000	Materials - Bones/Shells	Magic Beast Horn	
+495F424F4E5F30323200	Materials - Bones/Shells	Sun-Bleached Seashell	
+495F53544F5F30303100	Materials - Stone	Flintstone	
+495F53544F5F30303200	Materials - Stone	Agate Of Evolution	
+495F53544F5F30303300	Materials - Stone	Warmaline	
+495F53544F5F30303400	Materials - Stone	Lamplight	
+495F53544F5F30303500	Materials - Stone	Enchanted Stone	
+495F53544F5F30303600	Materials - Stone	Lava Lump	
+495F53544F5F30303900	Materials - Stone	Fire Ball	
+495F53544F5F30313000	Materials - Stone	Brighten Rock	
+495F53544F5F30313100	Materials - Stone	Glass Frit	
+495F53544F5F30313200	Materials - Stone	Lucida Shard	
+495F53544F5F30313300	Materials - Stone	Kitty Litter	
+495F53544F5F30313400	Materials - Stone	Ice Crystal	
+495F53544F5F30313500	Materials - Stone	Mirrorstone	
+495F53544F5F30313600	Materials - Stone	Ethereal Stone	
+495F53544F5F30313700	Materials - Stone	Dieamend	
+495F4F54485F30303100	Materials - Other	Cowpat	
+495F4F54485F30303200	Materials - Other	Horse Manure	
+495F4F54485F30303300	Materials - Other	Permasnow	
+495F4F54485F30303400	Materials - Other	Oasis Water	
+495F4F54485F30303600	Materials - Other	Freash Water	
+495F4F54485F30303700	Materials - Other	Thunderball	
+495F4F54485F30303800	Materials - Other	Saint's Ashes	
+495F4F54485F30303900	Materials - Other	Belle Cap	
+495F4F54485F30313000	Materials - Other	Sparkly Sap	
+495F4F54485F30313100	Materials - Other	Chronocrystal	
+495F4F54485F30313200	Materials - Other	Null	
+495F4F54485F30313300	Materials - Other	Wing Of Bat	
+495F4F54485F30313400	Materials - Other	Slimedrop	
+495F4F54485F30313500	Materials - Other	Sainted Soma	
+495F4F54485F30313600	Materials - Other	Grubby Bandage	
+495F4F54485F30313700	Materials - Other	Toad Oil	
+495F4F54485F30313800	Materials - Other	Snakeskin	
+495F4F54485F30313900	Materials - Other	Rippledrops	
+495F4F54485F30323000	Materials - Other	Royal Soil	
+495F4F54485F30323300	Materials - Other	Finessence	
+495F4F54485F30323800	Materials - Other	Water Sedge	
+495F4F54485F30323900	Materials - Other	Duneberry	
+495F4F54485F30333000	Materials - Other	Extra Mural	
+495F4F54485F30333100	Materials - Other	Slime Crown	
+[/Item]

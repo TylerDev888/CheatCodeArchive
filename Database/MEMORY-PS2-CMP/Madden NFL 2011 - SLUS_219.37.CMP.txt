@@ -1,0 +1,62 @@
+^1 = Hash: 65 A9 7F 0B 71 29 B6 65 FC 3D 0D E3 29 64 AD E3 F5 28 22 08 
+^2 = GameID: SLUS_219.37 
+^3 = NAME: Madden NFL 2011
+%Credits: Azagthoth:Codes
+%Credits: Azagthoth:Porting
+!Masters:
++Enable Code (MUST BE ON)
+$906B71A0 0C1ADC10
+!!
+!Jokers:
++Player 1 Controller
+$D0807002 0000[Joker:PS2]
+!!
++Home Team Score Mod
+$2048EE14 2402[Amount:2710:HEX:BIG]
++Away Team Score Mod
+$2048EE1C 2402[Amount:2710:HEX:BIG]
++Infinite Play Clock
+$2084C2AC 00000019
++More Time
+$2084C2C4 0000012C
++Infinite Play Time
+$2084C2C4 00000028
++Quarter Mod
+$2084C2A0 000000[Amount:04:HEX:BIG]
++Down Mod
+$2084DE60 000000[Amount:04:HEX:BIG]
++Press L3 For First Down
+$D0807002 0000FFFD
+$2084DE60 00000001
++Infinite Challenges (home)
+$2040208C 00000000
++Infinite Challenges (away)
+$20402104 00000000
++Infinite Time-Outs (home)
+$2084DF7C 00000003
++Infinite Time-Outs (away)
+$2084DF80 00000003
+!Drill Codes:
++Point Gain Mod
+$20303FEC 2004[Amount:2710:HEX:BIG]
++Infinite Time
+$20304998 46010001
++Infinite Attribute Points Available
+$207BA28C 0000270F
+!Superstar Codes:
+!Individual Workout Codes:
+!40 Yard Dash:
++Max Power{Note:keep Pushing X}
+$202E4E2C AC610004
++Alt.max Power{Note:press X Once, Your Player Will Automatically Run}
+$202E51DC AE010004
+$202E51E0 3C013FC0
++Infinite Tokens Remaining
+$11DD3F58 0000FFFF
++Max Tokens Remaining
+$21DD3F58 05F5E0FF
++Have All Cards
+$21DD4044 000000DC
+$41DD40B0 00DC0001
+$00FFE01F 00000010
+!!

@@ -1,0 +1,56 @@
+^1 = HASH: E3BC4CEE
+^3 = NAME: ESPN MLS Extra Time
+^2 = GameID: SLUS_201.28
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001DFD37
+!!
+!Codes:
++Home Team Score Modifier
+%Credits: Code Master
+$0035606B 000000??
++Home Team Start With Score Modifier
+%Credits: Code Master
+$D035606A 00000000
+$0035606B 000000??
++Away Team Score Modifier
+%Credits: Code Master
+$0035606C 000000??
++Away Team Start With Score Modifier
+%Credits: Code Master
+$D035606C 00000000
+$0035606C 000000??
++P1 Press R1+R2 For More Time
+%Credits: Code Master
+$D03062C2 0000F5FF
+$20356280 00002328
++P1 Press L1+L2 To End The Half
+%Credits: Code Master
+$D03062C2 0000FAFF
+$20356280 00000000
++P2 Press R1+R2 For More Time
+%Credits: Code Master
+$D0306442 0000F5FF
+$20356280 00002328
++P2 Press L1+L2 To End The Half
+%Credits: Code Master
+$D0306442 0000FAFF
+$20356280 00000000
++P3 Press R1+R2 For More Time
+%Credits: Code Master
+$D03065C2 0000F5FF
+$20356280 00002328
++P3 Press L1+L2 To End The Half
+%Credits: Code Master
+$D03065C2 0000FAFF
+$20356280 00000000
++P4 Press R1+R2 For More Time
+%Credits: Code Master
+$D0306742 0000F5FF
+$20356280 00002328
++P4 Press L1+L2 To End The Half
+%Credits: Code Master
+$D0306742 0000FAFF
+$20356280 00000000
+!!

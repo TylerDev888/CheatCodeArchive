@@ -1,0 +1,14 @@
+^2 = GameID: NPEB01088,NPUB30863
+^3 = NAME: Alien Rage (PSN)
+^5 = APCRED: From SHAkA
+^4 = FILE: PAYLOAD2
++Max Perks Points(will Unlock Trophy And All Perks!)
+$write at 0x00000003:0x1A3B9AC9
+^4 = FILE: PAYLOAD1
++Change Dificulty Easy
+$20000017 01010000
++Change Dificulty Normal
+$20000017 02020000
++Change Dificulty Extreme
+$20000017 03030000
+

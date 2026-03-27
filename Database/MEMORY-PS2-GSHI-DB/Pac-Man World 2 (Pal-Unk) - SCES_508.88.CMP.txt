@@ -1,0 +1,144 @@
+^3 = NAME: Pac-Man World 2 (Pal-Unk)
+^2 = GameID: SCES-50888
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F02F05D4 002F05D7
+!!
++Ghosts Frozen
+%Credits: Codejunkies
+$005F6810 00000001
++Health Counter Always On
+%Credits: Codejunkies
+$005F68B4 00000001
++No Timer Invulnerable
+%Credits: Codejunkies
+$005F68B0 00000001
++Pac Man Invulnerable
+%Credits: Codejunkies
+$005F68A8 00000001
+!Pac-man Hypermode:
++Bounce To Relocate (Invisible Pac-Man)
+%Credits: Codejunkies
+$005F7C7C 00000001
++Can't Use With Rev Control
+%Credits: Codejunkies
+$205F7500 40600000
++Fast Yet Slow ..
+%Credits: Codejunkies
+$205F56B8 40400000
++Game Engine Hyper Mode
+%Credits: Codejunkies
+$205F56CC 40200000
++Improved Traction On Ice
+%Credits: Codejunkies
+$20259E68 03E00008
+$20259E6C 00000000
++Pac Mac Wees!
+%Credits: Codejunkies
+$201F2F30 03E00008
+$201F2F34 00000000
++Picking Up Dots (Different Sound Effect For)
+%Credits: Codejunkies
+$005F826C 00000009
++Pidgeon Sound For Butt-Bounce (Different Sound Effect For)
+%Credits: Codejunkies
+$005F825C 00000015
++Rev-Up (Different Sound Effect For)
+%Credits: Codejunkies
+$005F81E8 00000024
++Reversed Controls
+%Credits: Codejunkies
+$205F7500 C0000000
++Water Is Super Cloudy!
+%Credits: Codejunkies
+$205F9A90 40000000
+!!
+!Replace 1st Level (bear Basics) Into...:
++Forest1e
+%Credits: Codejunkies
+$2037B4E0 005BE9E8
++Forest2e
+%Credits: Codejunkies
+$2037B4E0 005BE9C8
++Forest3e
+%Credits: Codejunkies
+$2037B4E0 005BE9A8
++Forest4e
+%Credits: Codejunkies
+$2037B4E0 005BE988
++Ghostisland1e
+%Credits: Codejunkies
+$2037B4E0 005F6BC8
++Ghostisland2e
+%Credits: Codejunkies
+$2037B4E0 005F6BC0
++Ghostisland3e
+%Credits: Codejunkies
+$2037B4E0 005F6BB8
++Ghostisland4e (Last Boss)
+%Credits: Codejunkies
+$2037B4E0 005F6BB0
++Lava1e
+%Credits: Codejunkies
+$2037B4E0 005F6C20
++Lava2e
+%Credits: Codejunkies
+$2037B4E0 005F6C10
++Lava3e
+%Credits: Codejunkies
+$2037B4E0 005F6C00
++Lava3e
+%Credits: Codejunkies
+$2037B4E0 005F6BF0
++Ocean1e
+%Credits: Codejunkies
+$2037B4E0 005F6BE8
++Ocean2e
+%Credits: Codejunkies
+$2037B4E0 005F6BE0
++Ocean3ae
+%Credits: Codejunkies
+$2037B4E0 005BEA28
++Ocean3e_0
+%Credits: Codejunkies
+$2037B4E0 005F6BD8
++Ocean4ae
+%Credits: Codejunkies
+$2037B4E0 005BEA08
++Ocean4e_0
+%Credits: Codejunkies
+$2037B4E0 005F6BD0
++Snowmountain1a
+%Credits: Codejunkies
+$2037B4E0 005F6C78
++Snowmountain1e
+%Credits: Codejunkies
+$2037B4E0 005F6C48
++Snowmountain2e
+%Credits: Codejunkies
+$2037B4E0 005F6C40
++Snowmountain3a
+%Credits: Codejunkies
+$2037B4E0 005F6C70
++Snowmountain3e
+%Credits: Codejunkies
+$2037B4E0 005F6C38
++Snowmountain3e
+%Credits: Codejunkies
+$2037B4E0 005F6C30
++Treetops1e
+%Credits: Codejunkies
+$2037B4E0 005F6C68
++Treetops2e
+%Credits: Codejunkies
+$2037B4E0 005F6C60
++Treetops3e
+%Credits: Codejunkies
+$2037B4E0 005F6C58
++Treetops4e
+%Credits: Codejunkies
+$2037B4E0 005F6C50
+!!
+!!
+

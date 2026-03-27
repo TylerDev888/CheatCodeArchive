@@ -1,0 +1,9 @@
+^2 = GameID: BLES00149
+^3 = NAME: Call of Duty 4: Modern Warfare
+^4 = FILE: SAVEGAME.SVG
++Update Crc32 For Savegame.svg (required)
+(set range:0x454,0x02AE6D)
+$set pointer:eof+1
+$set range:0x454,pointer
+$set [hash]:CRC32
+$write at 0x000008:[hash]

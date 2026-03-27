@@ -1,0 +1,815 @@
+^2 = GameID: CUSA30305,CUSA27746,CUSA30304,CUSA30306
+^3 = NAME: Demon Gaze Extra
+^SECONDLAYER: YES
+^4 = FILE: DemonGaze\(DGAZ_[0-9]+|DGAUTO).SAV
++Max Current Items
+$40001D76 00000063
+$40630020 00000000
+
+^6 = MODS:
+
+[/ITEM]
+VALUE>NAME
+0100	Rusted Sword
+0200	Battle Dagger
+0300	Main Gaunche
+0400	Thief Dagger
+0500	Wind Dagger
+0600	Raider Knife
+0700	Mythryl Dagger
+0800	Holy Knife
+0900	Midgard Tooth
+0A00	Elder Kris
+0B00	Drake Tooth
+0C00	Mom's Cleaver
+0D00	Flash Edge
+0E00	Short-Sword
+0F00	Longsword
+1000	Broadsword
+1100	Estoc
+1200	Two-Handed Sword
+1300	Fire Brand
+1400	Ice Brand
+1500	Berserk Sword
+1600	Enhanced Sword
+1700	Demon Slayer
+1800	True Demon Slayer
+1900	Escallion
+1A00	Lord Enhancer
+1B00	Dark Angel Sword
+1C00	Drakalibur
+1D00	X-Brand
+1E00	Scarlet Sword
+1F00	Dry Hander
+2000	Rotten Hammer
+2100	Wood Cutter
+2200	Bandit Axe
+2300	Light Axe
+2400	Battle Axe
+2500	Broad Axe
+2600	Dwarf Axe
+2700	Axe of the Dead
+2800	Mythryl Axe
+2900	Elder Mattock
+2A00	Death Axe
+2B00	Butterfly Range
+2C00	Diamond Slasher
+2D00	Dark Angel Axe
+2E00	Dragon Slayer
+2F00	Feather Axe
+3000	Dinosaur Axe
+3100	Big Hammer
+3200	Ancient Mattock
+3300	Mace
+3400	Work Hammer
+3500	War Hammer
+3600	Cult Mace
+3700	Morning Star
+3800	Hammer of the Dead
+3900	Pico Hammer
+3A00	Saint Mace
+3B00	Mythryl Hammer
+3C00	Dark Angel's Mace
+3D00	Picopico Hammer
+3E00	Bloody Trophy
+3F00	Good Morning
+4000	Bamboo Sword
+4100	Wooden Sword
+4200	Katana
+4300	Murderer Katana
+4400	Long Katana
+4500	Wakizashi
+4600	Tachi
+4700	Samurai Katana
+4800	Seasoned Katana(S)
+4900	Seasoned Katana(L)
+4A00	Kenkyaku Katana
+4B00	Dragon Katana
+4C00	Kunimitsu
+4D00	White Dragon
+4E00	Masamune
+4F00	Majin Katana
+5000	Komuramasa
+5100	Sky Dragon Katana
+5200	Moon Katana
+5300	Murasame
+5400	Muramasa
+5500	Big Muramasa
+5600	Muratome
+5700	Gishi's Wakizashi
+5800	Mineuchi
+5900	Katana
+5A00	Bent Spear
+5B00	Bamboo Spear
+5C00	Spear
+5D00	Wind Spear
+5E00	Lance
+5F00	White Lance
+6000	Hunter Spear
+6100	Halberd
+6200	Magic Spear
+6300	Lance of the Dead
+6400	Elven Spear
+6500	Kenkyaku Spear
+6600	Dar Lance
+6700	Mythryl Spear
+6800	Star Tree Javelin
+6900	Demon Halberd
+6A00	Majestic Lance
+6B00	Dark Angel Spear
+6C00	Legendary Spear
+6D00	Valkyrius
+6E00	Poinirius
+6F00	Devil Fork
+7000	Wyvern Tail
+7100	Gate Keeper
+7200	Gale Javelin
+7300	Pebble
+7400	Boomerang
+7500	Dart
+7600	Throwing Knife
+7700	Copper Katar
+7800	Steel Katar
+7900	Heavy Boomerang
+7A00	Silver Katar
+7B00	Shuriken
+7C00	Moon Jamadhar
+7D00	Charkam
+7E00	Mythryl Katar
+7F00	Fuma Shuriken
+8000	Death Jamadhar
+8100	Holy Jamadhar
+8200	Angry Chakram
+8300	Enhanced Katar
+8400	Evil Chakram
+8500	Heavenly Jamadhar
+8600	Eden's White Ring
+8700	Drake Katar
+8800	Foo Fighter
+8900	Red Shuriken
+8A00	Eclipse
+8B00	Cat Claw
+8C00	Bunny Tooth
+8D00	Broken Staff
+8E00	Magic Staff
+8F00	Forest Broom
+9000	Healing Staff
+9100	Fog Staff
+9200	Treant Broom
+9300	Battle Staff
+9400	Magician Staff
+9500	Dyrad Broom
+9600	Wisp Rod
+9700	Spirit Staff
+9800	Millennium Broom
+9900	Saint Staff
+9A00	Crystal Rod
+9B00	Billennium Broom
+9C00	Dark Angel Staff
+9D00	Legendary Rod
+9E00	Fran's Broom
+9F00	Feminine Rod
+A000	Platinum Rod
+A100	Stack Staff
+A200	Comet Halley
+A300	Broken Arrow
+A400	War Sling
+A500	Short Bow
+A600	Blow Dart
+A700	Medium Bow
+A800	Fire Sling
+A900	Longbow
+AA00	Spirit Bow
+AB00	Heavy Sling
+AC00	Raider Bow
+AD00	Bow of the Dead
+AE00	Crossbow
+AF00	Mythryl Bow
+B000	Magic Sling
+B100	Thunder Crossbow
+B200	Silver Piercer
+B300	Evil King Bow
+B400	Dark Angel Bow
+B500	Golden Piercer
+B600	Eden Bow
+B700	Drake Sniper
+B800	Wide Sling
+B900	Eagle Eye
+BA00	Fairy Ballista
+BB00	Pot Lid
+BC00	Leather Buckler
+BD00	Buckler
+BE00	Leather Shield
+BF00	Kite Shield
+C000	Round Shield
+C100	Scale Shield
+C200	Mythryl Shield
+C300	Tower Shield
+C400	King Shield
+C500	Dark Angel Shield
+C600	Aegis Mirror
+C700	Legendary Shield
+C800	Poineerden
+C900	Shield Book
+CA00	Strong Shield Book
+CB00	Evil Shield Book
+CC00	Big Shield Book
+CD00	Dark Shield Book
+CE00	Legendary Book
+CF00	Dragon Shield Book
+D000	Fresh Meat Shield
+D100	Angel Shield Book
+D200	Crappy Armor
+D300	Leather Chest
+D400	Leather Armor
+D500	Wooden Armor
+D600	Ashigaru Armor
+D700	Chainmail
+D800	Breastplate
+D900	Magic Breast
+DA00	Saint Breast
+DB00	High Leather Armor
+DC00	Samurai Armor
+DD00	Plate Armor
+DE00	Dar Breast
+DF00	Mythryl Armor
+E000	Shinobi Armor
+E100	Captain Armor
+E200	Majestic Mail
+E300	General Armor
+E400	Dark Angel Armor
+E500	Crystal Shadow
+E600	Legendary Mail
+E700	Drake Shell
+E800	Crumby CLothes
+E900	Traveler Clothes
+EA00	Battle Clothes
+EB00	Battle Tunic
+EC00	Forest Robe
+ED00	Thief Clothes
+EE00	Healing Tunic
+EF00	Assassin Clothes
+F000	Magical Tunic
+F100	Foreign Clothes
+F200	Raider Clothes
+F300	Elven Robe
+F400	Beast Garb
+F500	Shinobi Clothes
+F600	Saint Robe
+F700	Harakiri CLothes
+F800	Fairy Robe
+F900	Wizard Robe
+FA00	Falcon Clothes
+FB00	Holy Robe
+FC00	Big Spirit Robe
+FD00	Moonless Garb
+FE00	King Robe
+FF00	Prometh's Dress
+0001	Kensei Clothes
+0101	Clover Garb
+0201	Eden Tunic
+0301	Fran's Dress
+0401	Muramasa CLothes
+0501	Hole-y Pot
+0601	Leather Helm
+0701	Wood Helm
+0801	Ashigaru Helm
+0901	Chain Helm
+0A01	Wing Helm
+0B01	Magic Helm
+0C01	Samurai Helm
+0D01	High Leather Helm
+0E01	Plate Helm
+0F01	Dar Helm
+1001	Mythryl Helm
+1101	Shinobi Helm
+1201	Captain Helm
+1301	Majestic Helm
+1401	General Helm
+1501	Dark Angel Helm
+1601	Crystal Guard
+1701	Legendary Helm
+1801	Drake Head
+1901	Ripped Bandana
+1A01	Headband
+1B01	Circlet
+1C01	Leather Cap
+1D01	Forester Hat
+1E01	Steel Hairband
+1F01	Thied Feather
+2001	Healing Hat
+2101	Magic Hat
+2201	Assassin Mask
+2301	Samurai Band
+2401	Raider Cap
+2501	High Leather Cap
+2601	Elven Ribbon
+2701	Shinobi Cloth
+2801	Beast Mask
+2901	Kenkyaku Clip
+2A01	Saint Cap
+2B01	Spirit Cap
+2C01	Wizard Cone
+2D01	Eagle Mask
+2E01	Holy Crown
+2F01	Moonlight Mask
+3001	Big Spirit Cap
+3101	King Crown
+3201	Lucky Feather
+3301	Kensei Clip
+3401	Prometh's Veil
+3501	Eden Ribbon
+3601	Fran's Clip
+3701	Dirty Undies
+3801	Linen Undies
+3901	Leather Undies
+3A01	Wind Undies
+3B01	Water Undies
+3C01	Chain Undies
+3D01	Magic Tights
+3E01	Healing Undies
+3F01	Samurai Undies
+4001	Pinay's Undies
+4101	Elven Tights
+4201	Scale Undies
+4301	High Leather Undies
+4401	Quality Undies
+4501	Tiger Undies
+4601	Shinobi Undies
+4701	Knight Chain Undies
+4801	Lorna's Undies
+4901	Mythryl Undies
+4A01	Spirit Undies
+4B01	King Undies
+4C01	Angel Undies
+4D01	Demon Undies
+4E01	Lulu's Tights
+4F01	Top Quality Undies
+5001	Prometh's Undies
+5101	Legendary Undies
+5201	Eden Undies
+5301	Fran's Bra
+5401	Drake Tights
+5501	Towel
+5601	Patched Cape
+5701	Battle Cape
+5801	Thief Hat
+5901	Gazer Chain
+5A01	Warrior Charm
+5B01	Healing Ankh
+5C01	Magic Stole
+5D01	Hunter Feather
+5E01	Knight Cape
+5F01	Elven Stole
+6001	Assassin Scarf
+6101	Knight Tie
+6201	Shark Badge
+6301	King Dar's Ring
+6401	Rabbit Badge
+6501	Samurai Sash
+6601	Butterfly Charm
+6701	Illusion Scarf
+6801	Fairy Stole
+6901	Eagle Feather
+6A01	Dark Angel Cape
+6B01	King's Ring
+6C01	Holy Ankh
+6D01	Crimson Scarf
+6E01	Star Ankh
+6F01	Legendary Cape
+7001	Dragon Scale
+7101	Kensei Band
+7201	Prometh's Hairband
+7301	7-Leaf Clover
+7401	Eden Stole
+7501	Crystal Fur
+7601	Muramasa Band
+7701	Terra Key
+7801	Fran's Necklace
+7901	Dragon King Scale
+7A01	God's Wing
+7B01	God's Frame
+7C01	God's Skill
+7D01	Terra Bane
+7E01	Mars Bane
+7F01	Gazer Heart
+8001	Jupiter Bane
+8101	Astro Force
+8201	Rush Attack
+8301	Counter
+8401	Wild Swing
+8501	Rising Hit
+8601	Final Guts
+8701	Cyclone
+8801	Divine Body
+8901	Front Guard
+8A01	Holy Charge
+8B01	Devotion
+8C01	Holy Guard
+8D01	Providence
+8E01	Dual-Wield
+8F01	Slash 1
+9001	Slash 2
+9101	Carnage
+9201	Slash 3
+9301	Carnage EX
+9401	God's Arms
+9501	Magic Weapon
+9601	Wizard Bolt
+9701	Boost Magic
+9801	Enhance Magic
+9901	Fast Cast
+9A01	Holy Weapon
+9B01	Mana Heal 1
+9C01	Convert Mana
+9D01	Holy Shield
+9E01	Enhance Heal
+9F01	Mana Heal 2
+A001	Snipe
+A101	Hunte's Eye
+A201	Pierce
+A301	Ballista Shot
+A401	True Snipe
+A501	Shadow Step
+A601	Parry
+A701	Mirage
+A801	Killer Edge
+A901	Sneak Attack
+AA01	Cross Fix
+AB01	Shadow Assault
+AC01	Item Training 1
+AD01	Item Training 2
+AE01	Item Training 3
+AF01	Bolst Set
+B001	Support Set W
+B101	Blast Set
+B201	Force Set W
+B301	Evil Set
+B401	Omega Set
+B501	Cure Set
+B601	Support Set H
+B701	High Cure Set
+B801	Force Set H
+B901	Holy Set
+BA01	Final Set
+BB01	Gazer Sense
+BC01	Gazer Brave
+BD01	Nameless Gem
+BE01	Sword Gem
+BF01	Katana Gem
+C001	Heavy Gem
+C101	Spear Gem
+C201	Special Gem
+C301	Staff Gem
+C401	Bow Gem
+C501	Shield Gem
+C601	Hat Gem
+C701	Helm Gem
+C801	Light-Armor Gem
+C901	Heavy-Armor Gem
+CA01	Undies Gem
+CB01	Accessory Gem
+CC01	Artifact Gem
+CD01	Bronze Gem
+CE01	Silver Gem
+CF01	Gold Gem
+D001	Increase 1 Gem
+D101	Increase 2 Gem
+D201	Strengthen Gem
+D301	Brave Warrior
+D401	Grounded Sword
+D501	Old Dynasty Battle
+D601	Light and Darkness
+D701	Ruthless Angel
+D801	Evil King Ohma
+D901	Dragon Princess
+DA01	Dragon King
+DB01	Obless
+DC01	Century Shelf
+DD01	Millennium Shelf
+DE01	Treant Shelf
+DF01	Arlen Shelf
+E001	Dryad Shelf
+E101	Elven Shelf
+E201	Billennium Shelf
+E301	Fairy King Shelf
+E401	Word Tree Shelf
+E501	Small Manta Statue
+E601	Big Manta Statue
+E701	Water Demon Statue
+E801	Moon Demon Statue
+E901	Light Demon Statue
+EA01	Fran Figure
+EB01	Prometh Figure
+EC01	Gold Dragon Statue
+ED01	Phoenix Statue
+EE01	Fluffy Bed
+EF01	Noble Bed
+F001	Grom Castle Bed
+F101	Elven Bed
+F201	Fairy Bed
+F301	Pinay Pillow
+F401	Lorna Pillow
+F501	Prometh Pillow
+F601	Fran Pillow
+F701	Duvet
+F801	Duck Duvet
+F901	Raven Duvet
+FA01	Harpy Duvet
+FB01	Cockatrice Duvet
+FC01	Grom Castle Duvet
+FD01	High Raven Duvet
+FE01	Roc Duvet
+FF01	Phoenix Duvet
+0002	Ugly Cat
+0102	Alda Cat
+0202	Tri-Color Cat
+0302	Witch's Cat
+0402	Fairy Cat
+0502	Lost War Cat
+0602	Lost War Tiger
+0702	Grimodar Cat
+0802	God Cat
+0902	Pot of Happiness
+0A02	Pot of Yelling
+0B02	Pot of Singing
+0C02	Blue Fire Lamp
+0D02	Pink Lamp
+0E02	Phoenix Lamp
+0F02	Busty Mannequin
+1002	Kumite Mannequin
+1102	Stuffed Succubus
+1202	Vase of Happiness
+1302	Holy Water Vase
+1402	God Liquor Barrel
+1502	Rabbit Carpet
+1602	Wolf Carpet
+1702	Pixy Carpet
+1802	Sylph Curtains
+1902	Fran's Curtains
+1A02	Fairy God Curtains
+1B02	Magic Chalk
+1C02	Gun Powder
+1D02	Rainbow Vial
+1E02	Fire Vial
+1F02	Wind Vial
+2002	Ice Vial
+2102	Earth Vial
+2202	Demon Vial
+2302	Script of the Dead
+2402	Holy Vial
+2502	Fire Bottle
+2602	Wind Bottle
+2702	Ice Bottle
+2802	Earth Bottle
+2902	Demon Bottle
+2A02	Script of Judgement
+2B02	Holy Bottle
+2C02	Super Gun Powder
+2D02	Rainbow Bottle
+2E02	Salve
+2F02	Antidote
+3002	Fairy Balm
+3102	Paralysis Balm
+3202	High Salve
+3302	Cure-All
+3402	Fairy Balm
+3502	Full Healer
+3602	Elixir
+3702	Phoenix Wing
+3802	Phoenix Tear
+3902	Smoke Ball
+3A02	Magic Water
+3B02	Demon Vase
+3C02	Angel Mirror
+3D02	God Mirror
+3E02	God Hand
+3F02	Mirror of Return
+4002	Door of Travel
+4102	Fake Doll
+4202	Poinee Doll
+4302	Demon Doll
+4402	Jerky
+4502	Small Meat
+4602	Meat
+4702	Big Meat
+4802	Marbled Meat
+4902	Chicken Skewer
+4A02	Chicken Leg
+4B02	Chicken Steak
+4C02	Whole Chicken
+4D02	Dar Foie Gras
+4E02	Small Fish
+4F02	Smoked Fish
+5002	Skewered Fish
+5102	Sashimi Fish
+5202	Dar Caviar
+5302	Edible Grass
+5402	Root Veggies
+5502	Fresh Veggies
+5602	Sweet Roots
+5702	Dar Truffles
+5802	Cheap Bread
+5902	Soldier Bread
+5A02	Misrid Bread
+5B02	Orange
+5C02	Apple
+5D02	Grapes
+5E02	Beer
+5F02	Whiskey
+6002	Wine
+6102	God Liquor
+6202	Milk
+6302	Cheese
+6402	Aged Cheese
+6502	Honey
+6602	Cookie
+6702	Chocolate
+6802	Assorted Donuts
+6902	Magic Vanilla
+6A02	Magic Basil
+6B02	Magic Pepper
+6C02	Magic Herb
+6D02	Cat Powder
+6E02	Star Tree Seed
+6F02	Star Tree Leaf
+7002	Star Tree Fruit
+7102	Dragon Pot Pie
+7202	Red 1 Loot Map
+7302	Red 2 Loot Map
+7402	Red 3 Loot Map
+7502	Red 4 Loot Map
+7602	Red 5 Loot Map
+7702	Red 6 Loot Map
+7802	Red 7 Loot Map
+7902	Red 8 Loot Map
+7A02	Red 9 Loot Map
+7B02	Blue 1 Loot Map
+7C02	Blue 2 Loot Map
+7D02	Blue 3 Loot Map
+7E02	Blue 4 Loot Map
+7F02	Blue 5 Loot Map
+8002	Blue 6 Loot Map
+8102	Blue 7 Loot Map
+8202	Blue 8 Loot Map
+8302	Blue 9 Loot Map
+8402	Green 1 Loot Map
+8502	Green 2 Loot Map
+8602	Green 3 Loot Map
+8702	Green 4 Loot Map
+8802	Green 5 Loot Map
+8902	Green 6 Loot Map
+8A02	Green 7 Loot Map
+8B02	Green 8 Loot Map
+8C02	Green 9 Loot Map
+8D02	Yellow 1 Loot Map
+8E02	Yellow 2 Loot Map
+8F02	Yellow 3 Loot Map
+9002	Yellow 4 Loot Map
+9102	Yellow 5 Loot Map
+9202	Yellow 6 Loot Map
+9302	Yellow 7 Loot Map
+9402	Yellow 8 Loot Map
+9502	Yellow 9 Loot Map
+9602	Brown 1 Loot Map
+9702	Brown 2 Loot Map
+9802	Brown 3 Loot Map
+9902	Brown 4 Loot Map
+9A02	Brown 5 Loot Map
+9B02	Brown 6 Loot Map
+9C02	Brown 7 Loot Map
+9D02	Brown 8 Loot Map
+9E02	Brown 9 Loot Map
+9F02	Purple 1 Loot Map
+A002	Purple 2 Loot Map
+A102	Purple 3 Loot Map
+A202	Purple 4 Loot Map
+A302	Purple 5 Loot Map
+A402	Purple 6 Loot Map
+A502	Purple 7 Loot Map
+A602	Purple 8 Loot Map
+A702	Purple 9 Loot Map
+A802	Gray 1 Loot Map
+A902	Gray 2 Loot Map
+AA02	Gray 3 Loot Map
+AB02	Gray 4 Loot Map
+AC02	Gray 5 Loot Map
+AD02	Gray 6 Loot Map
+AE02	Gray 7 Loot Map
+AF02	Gray 8 Loot Map
+B002	Gray 9 Loot Map
+B102	White 1 Loot Map
+B202	White 2 Loot Map
+B302	White 3 Loot Map
+B402	White 4 Loot Map
+B502	White 5 Loot Map
+B602	White 6 Loot Map
+B702	White 7 Loot Map
+B802	White 8 Loot Map
+B902	White 9 Loot Map
+BA02	Black 1 Loot Map
+BB02	Black 2 Loot Map
+BC02	Black 3 Loot Map
+BD02	Black 4 Loot Map
+BE02	Black 5 Loot Map
+BF02	Black 6 Loot Map
+C002	Black 7 Loot Map
+C102	Black 8 Loot Map
+C202	Black 9 Loot Map
+C302	Silver 1 Loot Map
+C402	Silver 2 Loot Map
+C502	Silver 3 Loot Map
+C602	Silver 4 Loot Map
+C702	Silver 5 Loot Map
+C802	Silver 6 Loot Map
+C902	Silver 7 Loot Map
+CA02	Silver 8 Loot Map
+CB02	Silver 9 Loot Map
+CC02	Gold 1 Loot Map
+CD02	Gold 2 Loot Map
+CE02	Gold 3 Loot Map
+CF02	Gold 4 Loot Map
+D002	Gold 5 Loot Map
+D102	Gold 6 Loot Map
+D202	Gold 7 Loot Map
+D302	Gold 8 Loot Map
+D402	Gold 9 Loot Map
+D502	Rainbow Loot Map
+D602	Mythryl Ball
+D702	Junk
+D802	Big Jewel
+D902	Small Jewel
+DA02	Rough Jewel
+DB02	Gold Bar
+DC02	GOld Piece
+DD02	Silver Bar
+DE02	Silver Piece
+DF02	Copper Bar
+E002	Copper Piece
+E102	Steel Bar
+E202	Steel Piece
+E302	God Gold Coin
+E402	God Silver Coin
+E502	God Copper Coin
+E602	Holy Gold Coin
+E702	Holy Silver Coin
+E802	Holy Copper Coin
+E902	Scaly Skin
+EA02	Comfy Fur
+EB02	Soft Skin
+EC02	Pretty Wings
+ED02	Fluffy Feather
+EE02	Soft Whisker
+EF02	Shiny Husk
+F002	Transparent Shell
+F102	Rare Claw
+F202	Grand Claw
+F302	Elastic Bone
+F402	Pale Bone
+F502	Beautiful Hair
+F602	Fresh Intestine
+F702	Luxurious Horn
+F802	Scalier Skin
+F902	Comfier Fur
+FA02	Softer Skin
+FB02	Prettier Wings
+FC02	Fluffier Feather
+FD02	Softer Whisker
+FE02	Shinier Husk
+FF02	Transparenter Shell
+0003	Rarer Claw
+0103	Grander Claw
+0203	Elastier Bone
+0303	Bigger Pale Bone
+0403	Long Beautiful Hair
+0503	Magic Intestine
+0603	Big Luxurious Horn
+0703	Soul Skull
+0803	Obsidian Mushroom
+0903	Magic Telephone
+0A03	Super Weed-Killer
+0B03	Crumby Charm
+0C03	Veil of Breath
+0D03	Mythryl Light Stone
+0E03	Dungeon Key
+0F03	Heath's IOU
+1003	Spirit God's Letter
+1103	Elevator Lever
+1203	Magicure
+1303	Golden Hourglass
+1403	Wedding Gift
+1503	Wedding Invite
+1603	Clover Key
+1703	4-Leaf Clover Key
+1803	Emerald Bead
+1903	Topaz Bead
+1A03	Aquamarine Bead
+1B03	Amethyst Bead
+1C03	Diamond Bead
+1D03	Combat Tome
+1E03	Spider Tome
+1F03	Acrobatics Tome
+2003	Repaired Dolls
+2103	Broken Dolls	
+0000	None
+[/ITEM]

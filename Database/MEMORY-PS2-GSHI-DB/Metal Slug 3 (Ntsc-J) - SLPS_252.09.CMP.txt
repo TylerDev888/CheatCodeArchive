@@ -1,0 +1,87 @@
+^3 = NAME: Metal Slug 3 (Ntsc-J)
+^2 = GameID: SLPS-25209
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master>StalkerX
+$F0100008 0010D62F
+!!
+!Both Player Codes:
++Don't Lose Arms When Dying
+%Credits: Code Master>StalkerX
+$200C0220 54600001
+$200C0224 A0430003
+$200C0228 03E00008
+$200C022C 00000000
+$203A66D8 0C030088
+$200C0230 50200001
+$200C0234 A443000A
+$200C0238 080E99A2
+$200C023C 00000000
+$203A65DC 0803008C
+$203A65E0 30618000
+$203A4B1C 00000000
+$203A4B28 00000000
++Infinite Arms
+%Credits: Code Master>StalkerX
+$203A8290 00000000
++Infinite Bombs
+%Credits: Code Master>StalkerX
+$203C23EC 00000000
++Infinite Lives
+%Credits: Code Master>StalkerX
+$203E2680 00000000
++Infinite Zombie Bombs
+%Credits: Code Master>StalkerX
+$203A59B4 00000000
+!!
++Infinite Arms P1
+%Credits: Code Master>StalkerX
+$1068CDCA 0000000A
++Infinite Arms P2
+%Credits: Code Master>StalkerX
+$1068CDD8 0000000A
++Infinite Bombs P1
+%Credits: Code Master>StalkerX
+$0068CDC5 0000000A
++Infinite Bombs P2
+%Credits: Code Master>StalkerX
+$0068CDD3 0000000A
++Infinite Lives P1
+%Credits: Code Master>StalkerX
+$0067E567 0000000A
++Infinite Lives P2
+%Credits: Code Master>StalkerX
+$0067E617 0000000A
++Infinite Time
+%Credits: Code Master>StalkerX
+$0068CE95 00000099
++Max Score P1
+%Credits: Code Master>StalkerX
+$1068CEEA 00009999
+$1068CEEC 00009999
++Max Score P2
+%Credits: Code Master>StalkerX
+$1068CEF2 00009999
+$1068CEF4 00009999
++Quick Score Gain P1
+%Credits: Code Master>StalkerX
+$1068CEEC 00009999
++Quick Score Gain P2
+%Credits: Code Master>StalkerX
+$1068CEF4 00009999
++Rapid Fire P1
+%Credits: Code Master>StalkerX
+$D05D4920 00100000
+$105D4920 00000000
++Rapid Fire P2
+%Credits: Code Master>StalkerX
+$D05D4928 00100000
+$105D4928 00000000
++Weapon Modifier P1 {<I>00 - Normal<Br>01 - Explosive Rounds<Br>02 - Shotgun<Br>03 - Missiles<Br>04 - Flamethrower<Br>05 - Machine Gun<Br>07 - Super Shotgun<Br>08 - Super Missiles<Br>09 - Super Flamethrower<Br>0A - Super Maching Gun<Br>0C - Homing Missile<Br>0D - Remote Missile<Br>0E - Bouncing Explosive Rounds<Br>0F - Huge Explosive Bullet</I>}
+%Credits: Code Master>StalkerX
+$0068CDC3 000000??
++Weapon Modifier P2
+%Credits: Code Master>StalkerX
+$0068CDD1 000000??
+!!
+

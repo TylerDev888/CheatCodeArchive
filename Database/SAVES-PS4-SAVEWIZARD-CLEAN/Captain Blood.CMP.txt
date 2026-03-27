@@ -1,0 +1,40 @@
+^2 = GameID: CUSA50160,CUSA54405
+^3 = NAME: Captain Blood
+^SECONDLAYER: YES
+^4 = FILE: sce_sdmemory\memory.dat
+{<div class="game-note"><h4>Game Note</h4><ul class="bullet-list"><li>Make sure you buy all upgrades from the shop before using these codes. If you use them too soon, you’ll be locked out of buying any upgrades related to HP or pistols.</li><li>Main player (Capt Blood) codes (don’t work on the side character sections).</li></ul></div>}
++Super Max HP{(health Bar Will Shrink To It's Original Size As If No Upgrades Were Purchased, But You'll See The Effect During Gameplay)}
+%Credits: Zeraf3000
+$80010006 506C6179
+$65720000 00000000
+$88010004 6C697665
+$28000005 47C34F80
+$92000000 00000001
+$88010006 506C6179
+$65720000 00000000
+$88010004 6C697665
+$28000005 47C34F80
+$92000000 00000001
+$88010006 506C6179
+$65720000 00000000
+$88010004 6C697665
+$28000005 47C34F80
++Infinite Pistol Use (no Cooldown)
+%Credits: Zeraf3000
+$80010006 506C6179
+$65720000 00000000
+$88010008 72656368
+$61726765 00000000
+$28000009 00000000
+$92000000 00000001
+$88010006 506C6179
+$65720000 00000000
+$88010008 72656368
+$61726765 00000000
+$28000009 00000000
+$92000000 00000001
+$88010006 506C6179
+$65720000 00000000
+$88010008 72656368
+$61726765 00000000
+$28000009 00000000

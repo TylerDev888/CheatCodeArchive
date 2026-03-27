@@ -1,0 +1,565 @@
+^3 = NAME: Psi-Ops - The Mindgate Conspiracy (Ntsc-U)
+^2 = GameID: SLUS-20688
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F057CEA0 0057CEA3
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0057CEA3
++[M] Must Be On
+%Credits: MadCatz
+$9057CEC4 0C15F4FA
+!!
++Enable Cheat Mode [Read Note] {<I>*Hold Square To Refill Ammo. *Hold Circle To Refill TK. *Hold X To Enable Unlimited Ammo.</I>}
+%Credits: punk7890
+$00C96530 00000001
++Gain Ammo As You Fire {<I>Don&#39;T Use With Any Other Ammo Code!</I>}
+%Credits: MadCatz
+$20551168 24420001
++Hold R1 For Rapid Fire
+%Credits: punk7890
+$D1BC86DC 0000F7FF
+$20219614 00000000
+$D1BC86DC 0000FFFF
+$20219614 10400152
++Infinite Ammo
+%Credits: Codejunkies
+$10551168 00000000
++Infinite Health
+%Credits: MadCatz
+$200C2000 3C1B43E1
+$200C2004 449B0800
+$200C2008 E6010008
+$200C200C 08089BF1
+$20226FC0 08030800
++Never Reload {<I>Don&#39;T Use With Any Other Ammo Code!</I>}
+%Credits: MadCatz
+$20551168 24420000
++Press Select For Debug Modes
+%Credits: punk7890
+$00C96531 00000001
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++1-Hit Kills (Enemies & Bosses) {<I>You Can&#39;T TK Or Mind Control Them.</I>}
+%Credits: Code Master>floydfan
+$2010E300 03E00008
+$2010E304 00000000
++Bosses Can't Move {<I>Barret Can&#39;T Be Hurt, Leonov Doesn&#39;T Attack, Which Makes Them Impossible To Beat.</I>}
+%Credits: Code Master>floydfan
+$20104310 03E00008
+$20104314 00000000
++Can't Be Hit By Most Gunfire Or Energy Beams
+%Credits: Code Master>floydfan
+$20101DF4 24020000
++Enemies Can't Move {<I>Mind Control Is Useless, Since You&#39;Ll Be Returned To Your Body Immediately.</I>}
+%Credits: Code Master>floydfan
+$201110F0 03E00008
+$201110F4 00000000
++Infinite Health
+%Credits: Code Master
+$20226FC0 C601000C
+$20226FD0 E6010008
++Infinite PSI
+%Credits: Code Master
+$20227914 00000000
++Never Reload {<I>Don&#39;T Use With Any Other Ammo Code!</I>}
+%Credits: Code Master
+$2055116C 00000000
++Unlock Everything
+%Credits: Code Master
+$40C96630 00260001
+$01010101 00000000
+!!
++Unlock All Extra Content
+%Credits: MadCatz
+$40C96620 002E0001
+$01010101 00000000
+!Unlock Boss Fights:
++All Boss Fights
+%Credits: Codejunkies
+$00C96673 00000001
+$20C96674 01010101
++All Extra Content Missions
+%Credits: Codejunkies
+$10C9666A 00000101
+$20C9666C 01010101
+$00C96670 00000001
++Edgar Barret
+%Credits: Codejunkies
+$00C96673 00000001
++Marlena Kessler
+%Credits: Codejunkies
+$00C96675 00000001
++Nicolas Wrightson
+%Credits: Codejunkies
+$00C96676 00000001
++The General
+%Credits: Codejunkies
+$00C96677 00000001
++Wei Lu
+%Credits: Codejunkies
+$00C96674 00000001
+!!
+!Unlock Character Codes:
++All Characters
+%Credits: Codejunkies
+$40C96644 00090001
+$01010101 00000000
++Crispy Soldier
+%Credits: Codejunkies
+$00C96663 00000001
++Dockworker
+%Credits: Codejunkies
+$00C96665 00000001
++Dr Kimiko Jones
+%Credits: Codejunkies
+$00C96666 00000001
++Edgar Barret (70'S Style)
+%Credits: Codejunkies
+$00C96654 00000001
++Edgar Barret (Default)
+%Credits: Codejunkies
+$00C96653 00000001
++Edgar Barret (Training 2)
+%Credits: Codejunkies
+$00C96655 00000001
++Edgar Barret (Training 3)
+%Credits: Codejunkies
+$00C96656 00000001
++Edgar Barret (Training 4)
+%Credits: Codejunkies
+$00C96657 00000001
++Edgar Barret (Training 5)
+%Credits: Codejunkies
+$00C96658 00000001
++Edgar Barret (Training 6)
+%Credits: Codejunkies
+$00C96659 00000001
++Jack
+%Credits: Codejunkies
+$00C96661 00000001
++Jov Leonov
+%Credits: Codejunkies
+$00C9665A 00000001
++Labcoat
+%Credits: Codejunkies
+$00C96664 00000001
++Marlena Kessler (Bikini)
+%Credits: Codejunkies
+$00C9664F 00000001
++Marlena Kessler (Default)
+%Credits: Codejunkies
+$00C9664D 00000001
++Marlena Kessler (Leather)
+%Credits: Codejunkies
+$00C9664E 00000001
++Marlena Kessler (Saranae)
+%Credits: Codejunkies
+$00C96650 00000001
++MP1
+%Credits: Codejunkies
+$00C9665E 00000001
++MP2
+%Credits: Codejunkies
+$00C9665F 00000001
++MP3
+%Credits: Codejunkies
+$00C96660 00000001
++Nick Scryer (Stealth)
+%Credits: Codejunkies
+$00C96648 00000001
++Nick Scryer (Training)
+%Credits: Codejunkies
+$00C96645 00000001
++Nick Scryer (Urban)
+%Credits: Codejunkies
+$00C96646 00000001
++Nick Scryer (Wasteland)
+%Credits: Codejunkies
+$00C96647 00000001
++Sara Blake (Default)
+%Credits: Codejunkies
+$00C96649 00000001
++Sara Blake (Psi)
+%Credits: Codejunkies
+$00C9664A 00000001
++Sara Blake (Suicide)
+%Credits: Codejunkies
+$00C9664C 00000001
++Scorpion
+%Credits: Codejunkies
+$00C96667 00000001
++The General (Clown)
+%Credits: Codejunkies
+$00C96652 00000001
++The General (Default)
+%Credits: Codejunkies
+$00C96651 00000001
++Tonya Blake
+%Credits: Codejunkies
+$00C9664B 00000001
++UN Soldier
+%Credits: Codejunkies
+$00C96662 00000001
++Wei Lu (Default)
+%Credits: Codejunkies
+$00C9665B 00000001
++Wei Lu (Dragon)
+%Credits: Codejunkies
+$00C9665C 00000001
++Wei Lu (Tranquility)
+%Credits: Codejunkies
+$00C9665D 00000001
+!!
+!Unlock Extra Content Boss Fight Codes:
++All Boss Fights
+%Credits: Code Master
+$10C96672 00000101
+$20C96674 01010101
++Jov Leonov
+%Credits: Code Master
+$00C96672 00000001
+!!
+!Unlock Extra Content Boss Rush Cheat Codes:
++All Cheats
+%Credits: Code Master
+$20C96630 01010101
+$00C96635 00000001
++All Powers
+%Credits: Code Master
+$00C96632 00000001
++Bullet Resistant
+%Credits: Code Master
+$00C96630 00000001
++No Head
+%Credits: Code Master
+$00C96635 00000001
++Super PSI
+%Credits: Code Master
+$00C96631 00000001
++Unlimited Ammo
+%Credits: Code Master
+$00C96633 00000001
+!!
+!Unlock Extra Content Extra Mission Codes:
++-Aura Pool-
+%Credits: Code Master
+$00C96689 00000001
++-Bottomless Pit-
+%Credits: Code Master
+$00C9667F 00000001
++-Bouncy, Bouncy-
+%Credits: Code Master
+$00C9668C 00000001
++-Floor Of Death-
+%Credits: Code Master
+$00C96679 00000001
++-Gasoline-
+%Credits: Code Master
+$00C9667E 00000001
++-Gearshift-
+%Credits: Code Master
+$00C96682 00000001
++-Gnomotron-
+%Credits: Code Master
+$00C9668D 00000001
++-Panic Room-
+%Credits: Code Master
+$00C9667A 00000001
++-PSI Pool
+%Credits: Code Master
+$00C96688 00000001
++-Stoplights-
+%Credits: Code Master
+$00C9667D 00000001
++-Survival-
+%Credits: Code Master
+$00C9668E 00000001
++-Tip The Idol-
+%Credits: Code Master
+$00C96685 00000001
++-TK Alley-
+%Credits: Code Master
+$00C96680 00000001
++-Up & Over-
+%Credits: Code Master
+$00C9667B 00000001
++All Extra Missions
+%Credits: Code Master
+$00C96679 00000001
+$10C9667A 00000101
+$00C9667D 00000001
+$10C9667E 00000101
+$00C96680 00000001
+$00C96682 00000001
+$00C96685 00000001
+$10C96688 00000101
+$10C9668C 00000101
+$00C9668E 00000001
+!!
+!Unlock Extra Content Mission Codes:
++All Missions
+%Credits: Code Master
+$00C96669 00000001
+$10C9666A 00000101
+$20C9666C 01010101
+$00C96670 00000001
++Assembling The Pieces
+%Credits: Code Master
+$00C9666C 00000001
++Everything We've Worked For
+%Credits: Code Master
+$00C9666E 00000001
++Fears Don't Lie
+%Credits: Code Master
+$00C9666D 00000001
++From The Ether And Beyond
+%Credits: Code Master
+$00C9666F 00000001
++Something's Gone Wrong
+%Credits: Code Master
+$00C9666A 00000001
++The Ultimate Power
+%Credits: Code Master
+$00C96670 00000001
++Unfinished Business
+%Credits: Code Master
+$C18556B4 87091A06
++Welcome To The Movement
+%Credits: Code Master
+$00C96669 00000001
+!!
+!Unlock Extra Content Missions:
++Unfinished Business
+%Credits: Codejunkies
+$00C9666B 00000001
+!!
+!Unlock Extra Content Mode Codes:
++All Modes
+%Credits: Code Master
+$00C96639 00000001
+$10C9663A 00000101
+$20C9663C 01010101
++Arcade Mode
+%Credits: Code Master
+$00C9663A 00000001
++Boss Fight
+%Credits: Code Master
+$00C9663E 00000001
++Boss Rush
+%Credits: Code Master
+$00C9663F 00000001
++Cooperative Play
+%Credits: Code Master
+$00C9663B 00000001
++Dark Mode
+%Credits: Code Master
+$00C9663C 00000001
++Mission Select
+%Credits: Code Master
+$00C96639 00000001
++Training
+%Credits: Code Master
+$00C9663D 00000001
+!!
+!Unlock Extra Content Training Mission Codes:
++All Training Missions
+%Credits: Code Master
+$20C96690 01010101
+$10C96694 00000101
+$00C96696 00000001
++Aura View Training
+%Credits: Code Master
+$00C96696 00000001
++Mind Control Training
+%Credits: Code Master
+$00C96694 00000001
++Mind Drain Training
+%Credits: Code Master
+$00C96693 00000001
++PSI Practice Room
+%Credits: Code Master
+$00C96690 00000001
++Pyrokinesis Training
+%Credits: Code Master
+$00C96695 00000001
++Remote Viewing Training
+%Credits: Code Master
+$00C96692 00000001
++Telekinesis Training
+%Credits: Code Master
+$00C96691 00000001
+!!
+!Unlock Extra Mission Codes:
++All Extra Missions
+%Credits: Codejunkies
+$40C96678 00060001
+$01010101 00000000
+!!
+!Unlock Extra Mode Codes:
++All Extra Modes
+%Credits: Codejunkies
+$00C9663A 00000001
+$20C9663C 01010001
+!!
+!Unlock Movie Codes:
++A Download Of History
+%Credits: Code Master
+$00C966AF 00000001
++A Shot In The Arm
+%Credits: Code Master
+$00C9669E 00000001
++A True God Of The Ether
+%Credits: Code Master
+$00C966BC 00000001
++A Warning From The General
+%Credits: Code Master
+$00C966A9 00000001
++All Movies
+%Credits: Codejunkies
+$40C9669C 000A0001
+$01010101 00000000
++All Movies
+%Credits: Code Master
+$00C96699 00000001
+$10C9669A 00000101
+$40C9669C 000A0001
+$01010101 00000000
+$00C966C4 00000001
++An Explosive Situation
+%Credits: Code Master
+$00C966A1 00000001
++Arrival At The Black Sea
+%Credits: Code Master
+$00C966A5 00000001
++Arrival In Hong Kong
+%Credits: Code Master
+$00C966AD 00000001
++Arrival In The Himalayas
+%Credits: Code Master
+$00C966B8 00000001
++Closed-Door Meeting
+%Credits: Code Master
+$00C966A0 00000001
++Disconnected
+%Credits: Code Master
+$00C966A7 00000001
++Do You Like Playing With Fire?
+%Credits: Code Master
+$00C966B4 00000001
++Dr. Kimiko Jones
+%Credits: Code Master
+$00C966AE 00000001
++Escape From Hong Kong
+%Credits: Code Master
+$00C966B7 00000001
++Escape From The Black Sea
+%Credits: Code Master
+$00C966AC 00000001
++Escape From The Silo
+%Credits: Code Master
+$00C966A4 00000001
++Fading Illusions
+%Credits: Code Master
+$00C966B3 00000001
++Family Reunion
+%Credits: Code Master
+$00C966BE 00000001
++Fighting The Past
+%Credits: Code Master
+$00C966B1 00000001
++Game Credits
+%Credits: Code Master
+$00C966C4 00000001
++Held Hostage
+%Credits: Code Master
+$00C966B9 00000001
++I Have Your Mind
+%Credits: Code Master
+$00C966A3 00000001
++I'll Keep This Safe
+%Credits: Code Master
+$00C966AA 00000001
++Insider Information
+%Credits: Code Master
+$00C966A6 00000001
++Leonov's Puppets
+%Credits: Code Master
+$00C966A2 00000001
++Luna-1
+%Credits: Code Master
+$00C966A8 00000001
++Old Friends-New Enemies
+%Credits: Code Master
+$00C966AB 00000001
++Prisoner Transfer
+%Credits: Code Master
+$00C9669D 00000001
++Rendezvou On The Terrace
+%Credits: Code Master
+$00C966BB 00000001
++The Abduction
+%Credits: Code Master
+$00C9669A 00000001
++The Culmination Of Power
+%Credits: Code Master
+$00C966C2 00000001
++The Fall From Power
+%Credits: Code Master
+$00C966C3 00000001
++The Fusion Of The Monolith
+%Credits: Code Master
+$00C966B6 00000001
++The General's Welcome
+%Credits: Code Master
+$00C9669B 00000001
++The Horrors Of War
+%Credits: Code Master
+$00C966B0 00000001
++The Mindgate Process
+%Credits: Code Master
+$00C96699 00000001
++The Passing Of Wrightson
+%Credits: Code Master
+$00C966C0 00000001
++The Psychotronic Device
+%Credits: Code Master
+$00C966BD 00000001
++The Struggle For Power
+%Credits: Code Master
+$00C966C1 00000001
++Trust This
+%Credits: Code Master
+$00C9669C 00000001
++Wei Lu's Transformation
+%Credits: Code Master
+$00C966B2 00000001
++Whose Side Are You On?
+%Credits: Code Master
+$00C966B5 00000001
++Wrightson's Hostile Take-Over
+%Credits: Code Master
+$00C966BA 00000001
++You're Not Dead?
+%Credits: Code Master
+$00C9669F 00000001
++You-Re Insane!
+%Credits: Code Master
+$00C966BF 00000001
+!!
+!Unlock Skin Codes (Start A New Game To Use These Codes!):
++Marlena Kessler (Saranae)
+%Credits: Code Master
+$818A2EB0 1A67F38D
++Nick Scryer (Default)
+%Credits: Code Master
+$00C96644 00000001
+!!
+!Unlock Training Mission Codes:
++All Training Missions
+%Credits: Codejunkies
+$20C96690 01010100
+$20C96694 00010101
+!!
+!!
+

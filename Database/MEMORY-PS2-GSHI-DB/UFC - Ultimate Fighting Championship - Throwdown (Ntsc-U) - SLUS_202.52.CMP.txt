@@ -1,0 +1,115 @@
+^3 = NAME: UFC - Ultimate Fighting Championship - Throwdown (Ntsc-U)
+^2 = GameID: SLUS-20252
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F020C1F0 0020341F
++(M) Must Be On
+%Credits: Codejunkies
+$F020341C 0020341F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0020341F
+!!
+!Challenge Points Codes:
++Current Level Skill Up Learned
+%Credits: Codejunkies
+$204AC414 00000002
+$204AC478 00000002
+$204AC4DC 00000002
+$204AC540 00000002
+$204AC5A4 00000002
+$204AC608 00000002
+$204AC66C 00000002
+$204AC6D0 00000002
+$204AC734 00000002
+$204AC798 00000002
+$204AC7FC 00000002
+$204AC860 00000002
+$204AC8C4 00000002
+$204AC928 00000002
+$204AC98C 00000002
++Infinite Challenge Points
+%Credits: Codejunkies
+$004AA98C 00000064
++Max Endurance
+%Credits: Codejunkies
+$204AA974 00000040
++Max Grappling Skill
+%Credits: Codejunkies
+$204AA984 00000040
++Max Kick Skill
+%Credits: Codejunkies
+$204AA980 00000040
++Max Punch Skill
+%Credits: Codejunkies
+$204AA97C 00000040
++Max Speed
+%Credits: Codejunkies
+$204AA988 00000040
++Max Stamina
+%Credits: Codejunkies
+$204AA978 00000040
++No More Than 10 Challenge Points
+%Credits: Codejunkies
+$E101000A 304AA98C
+$004AA98C 0000000A
++No More Than 25 Challenge Points
+%Credits: Codejunkies
+$E1010019 304AA98C
+$004AA98C 00000019
++No More Than 50 Challenge Points
+%Credits: Codejunkies
+$E1010032 304AA98C
+$004AA98C 00000032
++Player 2 Controls CPU
+%Credits: Codejunkies
+$004AA7C8 00000000
++Super Career Fighter {<I>If You Save With This Code On And Later Decide The Game Is Too Easy, Use The Max Stats Code To Make The Game Normal Again.</I>}
+%Credits: Codejunkies
+$204AA974 0000FFFF
+$204AA978 0000FFFF
+$204AA97C 0000FFFF
+$204AA980 0000FFFF
+$204AA984 0000FFFF
+$204AA988 0000FFFF
+!!
+!New Fighter Creation Codes:
++Ass Kickin' Machine
+%Credits: Code Master
+$404AA974 00060001
+$0000270F 00000000
++Complete Skill Challenges Easier
+%Credits: Code Master
+$404AC414 000F0019
+$00000002 00000000
++Max Endurance
+%Credits: Code Master
+$204AA974 00000024
++Max Grappling Skill
+%Credits: Code Master
+$204AA984 00000024
++Max Kick Skill
+%Credits: Code Master
+$204AA980 00000024
++Max Punch Skill
+%Credits: Code Master
+$204AA97C 00000024
++Max Speed
+%Credits: Code Master
+$204AA988 00000024
++Max Stamina
+%Credits: Code Master
+$204AA978 00000024
+!!
++Player 1 Controlled By CPU
+%Credits: BigBossman
+$004AA718 00000001
++Player 1 Modifier {<I>If You Use Value &Quot;23&Quot;, It Will Bring Up A Weird Character Face Plate For Vitor Belfort During The Loading Screen &Amp; After The Match Loads, It Will Produce A Frozen Model With His Arms Spread Out. Once The Frozen Model Is Hit by the opponent, the game will freeze. Values - 00 - Mark Coleman 01 - Gary Goodridge 02 - Jeremy Horn 03 - Tsuyoshi Kosaka 04 - Guy Mezger 05 - Pat Miletich 06 - Tito Ortiz 07 - Kevin Randleman 08 - Marco Ruas 09 - Bas Rutten 0A - Pedro Rizzo 0B - Frank Shamrock 0C - Maurice Smith 0D - Pete Williams 0E - Mikey Burnett 0F - Eugene Jackson 10 - Chuck Liddell 11 - Evan Tanner 12 - B.J. Penn 13 - Jens Pulver 14 - Dan Severn 15 - Mark Kerr 16 - Caol Uno 17 - Josh Barnett 18 - Carlos Newton 19 - Elvis Sinosic 1A - John Lewis 1B - Vitor Belfort 1C - Cardgirl A 1D - Bruce Buffer 1E - John McCarthy 1F - Dana White 20 - Cardgirl B 21 - Mario Yamasaki 22 - Lorenzo Fertitta 23 - Vitor Belfort (Frozen Model) 24 - Created Fighter 25 - FROZE</i>}
+%Credits: BigBossman
+$004AA71C 000000??
++Player 2 Modifier
+%Credits: BigBossman
+$004AA7CC 000000??
+!!
+

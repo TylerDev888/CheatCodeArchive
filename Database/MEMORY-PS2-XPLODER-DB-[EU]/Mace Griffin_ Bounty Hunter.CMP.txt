@@ -1,0 +1,42 @@
+^3 = NAME: Mace Griffin: Bounty Hunter
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 00108EF7
+$A00C0000 C48001F4
+$A00C0004 3C014348
+$A00C000C E48001F4
+$A00C0010 3C014448
+$A00C0014 03E00008
+$2020FD7C 0C030000
+$A00C0020 C48001F4
+$A00C0028 E48001F4
+$A00C002C 8C8101FC
+$A00C0030 03E00008
+$201DEC50 0C030008
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$200C0008 44810000
++Shield
+%Credits: Xploder
+$200C0018 AC8101F8
++Ammunition
+%Credits: Xploder
+$203458F0 340303E7
+$203458F4 AE03018C
++Secondary Ammunition
+%Credits: Xploder
+$20345940 341103E7
+$20345944 AE110198
++Armour
+%Credits: Xploder
+$200C0024 C4800200
++Shield
+%Credits: Xploder
+$200C0034 AC8101F8
++Missiles & Lasers
+%Credits: Xploder
+$2031063C 340303E8
+!!

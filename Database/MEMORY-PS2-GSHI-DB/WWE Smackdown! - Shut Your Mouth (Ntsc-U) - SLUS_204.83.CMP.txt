@@ -1,0 +1,1613 @@
+^3 = NAME: WWE Smackdown! - Shut Your Mouth (Ntsc-U)
+^2 = GameID: SLUS-20483
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0114BC8 001155B7
++(M) Must Be On
+%Credits: Codejunkies
+$F01155B4 001155B7
++Enable Code (Must Be On)
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$F0100008 001155B7
+!!
++All Movies
+%Credits: InterAct
+$0043076A 0000001F
+!All Players:
++Infinite Smackdowns
+%Credits: Codejunkies
+$20152EA4 00000000
++Quick Smackdown Gain
+%Credits: Codejunkies
+$20223AB8 00000000
+!!
++Always Tornado Tag Instead Of Regular
+%Credits: VisitntX
+$004549D2 00000001
+$004549D5 00000000
++Disable Dual Shock Message
+%Credits: BigBossman
+$00454976 00000000
++Elimination On/Off Modifier {<I>0 - Off 1 - On  This Only Affects Applicable Matches, Unfortunately (All Tag Types). I Was Hoping To Make Triple Threat And Fatal 4-Way Require Pinning All Opponents. Works On Handicap Matches Too, It Seems.</I>}
+%Credits: VisitntX
+$004549E7 0000000?
++Last Man Standing Off/On Modifier {<I>0/1</I>}
+%Credits: VisitntX
+$004549E4 0000000?
+!Lower Left P3 Codes:
++Can Hold 0 Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$2085ACD0 00000000
++Can Hold 5 Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$2085ACD0 00000005
++Infinite Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$2085ACCC 00000005
++No Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$2085ACCC 00000000
++Quick Special Gain
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E0020000 103CDD90
+$D085ACD4 00200063
+$2085ACD4 00000063
+!!
+!Lower Right P4 Codes:
++Can Hold 0 Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$208C2CD0 00000000
++Can Hold 5 Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$208C2CD0 00000005
++Infinite Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$208C2CCC 00000005
++No Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$208C2CCC 00000000
++Quick Special Gain
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E0020000 103CDD90
+$D08C2DD4 00200063
+$208C2CD4 00000063
+!!
+!Match Rules Codes:
++'I Quit' Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004579D6 00000000
++'I Quit' Always On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004579D6 00000001
++After Match Sequence Modifier {<I>When Turned On, When The Match Ends, You&#39;Ll See The Winner Doing A Post Match Celebration, Attacking The Loser Of The Match, Or See Some Other Post Match Sequence. When It Is Turned Off, After The Match Ends, It Will Cut Directly To The Next Screen. In An Exhibition Match, It Will Go To The Title Screen. If Turned Off During Season Mode, It Will Either Cut To A Storyline Build Up Or Go To The Match Result Screen. Values -&#160; 00 - After Match Sequence Is On ​​​​​​​01 - After Match Sequence Is Off</I>}
+%Credits: BigBossman
+$004549BA 000000??
++Cage Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549CF 00000000
++Cage Always On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549CF 00000001
++Can Always Leave Ring (Even In Slobberknocker)
+%Credits: Viper187
+$004549D0 00000000
++Dq's Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549E5 00000000
++Dq's Always On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549E5 00000001
++Entrance Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549B8 00000000
++Entrance Always On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549B8 00000001
++Give Up Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549CD 00000000
++Give Up Always On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549CD 00000001
++Hardcore Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549D9 00000000
++Hardcore Always On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549D9 00000001
++HIAC Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549DD 00000000
++HIAC Always On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549DD 00000001
++Iron Man Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549D3 00000000
++Iron Man Always On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549D3 00000001
++KO Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549C9 00000000
++KO Always On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549C9 00000001
++Ladder Match Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549DB 00000000
++Ladder Match Always On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549DB 00000001
++Pins Always Off
+%Credits: Viper187
+$004549C8 00000000
++Pins Always On
+%Credits: Viper187
+$004549C8 00000001
++Ring Out Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549D0 00000001
++Ring Out Count Always 10
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549CB 00000001
++Ring Out Count Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549CB 00000000
++Rope Break Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549CA 00000000
++Rope Break Always On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549CA 00000001
++Royal Rumble Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549CC 00000000
++Royal Rumble Always On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549CC 00000001
++Slobberknocker Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549E0 00000000
++Slobberknocker Always On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549E0 00000001
++Table Match Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549DA 00000000
++Table Match Always On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549DA 00000001
++TLC Always Off
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549E1 00000000
++TLC Always On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$004549E1 00000001
+!!
++Match Selection Modifier {<I>Values - 0000 - Single No Manager 0001 - Single No Manager Vs. W/ Manager 0002 - Single No Manager Vs. W/ 2 Managers 0003 - Single W/ Manager Vs. W/ Manager 0004 - Normal Tag 0005 - Normal Tag No Manager Vs. Tag W/ Manager 0006 - Normal Tag W/ Manager Vs. Tag W/ Manager 0007 - Torndao Tag 0008 - Normal 6-Man Tag 0009 - Tornado 6-Man Tag 000A - Handicap One On Two 000B - Handicap One On Tag 000C - Handicap One On Three 000D - Royal Rumble 000E - King Of The Ring Single Tournament 000F - King Of The Ring Special Tournament 0010 - Hardcore Single 0011 - Hardcore Tornado Tag 0012 - Hardcore Tornado 6-Man Tag 0013 - Hardcore Triple Threat Tornado Tag 0014 - Hardcore Triple Threat 0015 - Hardcore Fatal 4 Way 0016 - Hardcore Time Limit 0017 - Survival Triple Threat 0018 - Survival Fatal 4 Way 0019 - 4-Man Battle Royal 001A - 5-Man Battle Royal 001B - 6-Man Battle Royal 001C - Cage Single 001D - Cage Tornado Tag 001E - Cage Triple Threat 001F - Cage Fatal 4 Way 0020 - Cage Single Pin &Amp; Give Up 0021 - Cage Triple Threat Pin &Amp; Give Up 0022 - Cage Fatal 4 Way Pin &Amp; Give Up 0023 - Hell In A Cell Single 0024 - Hell In A Cell Tornado Tag 0025 - Hell In A Cell Triple Threat 0026 - Hell In A Cell Fatal 4 Way 0027 - Hell In A Cell Armageddon 0028 - I Quit 0029 - Special Referee One Referee Single 002A - Special Referee One Referee Tag 002B - Special Referee One Referee Ironman 002C - Special Referee Two Referees Single 002D - Special Referee Two Referees Normal Tag 002E - Special Referee Two Referees Ironman 002F - Ladder Single 0030 - Ladder Tornado Tag 0031 - Ladder Triple Threat Tornado Tag 0032 - Ladder Triple Threat 0033 - Ladder Fatal 4 Way 0034 - Table Single 0035 - Table Tornado Tag 0036 - Table Triple Threat 0037 - Table Fatal 4 Way 0038 - Table Tornado 6-Man Tag 0039 - Ironman 003A - Slobber Knocker Time Limit 003B - Slobber Knocker No Limit 003C - Slobber Knocker Anywhere 003D - TLC Single 003E - TLC Tornado Tag 003F - TLC Triple Threat 0040 - TLC Fatal 4 Way 0041 - TLC Title 0042 - TLC Title Tornado Tag 0043 - TLC Title Triple Threat 0044 - TLC Title Fatal 4 Way 0045 - Lumber Jack 0046 - Last Man Standing 0047 - Three Stages Of Hell 0048 - Street Fight 0049 - Submission Single 004A - Ultimate Submission 004B - Elimination Normal Tag 004C - Elimination Tornado Tag 004D - Elimination Captain Fall Tornado 6-Man Tag 004E - Elimination Normal 6-Man Tag 004F - Elimination Tornado 6-Man Tag 0050 - Elimination Table Tornado 6-Man Tag</I>}
+%Credits: BigBossman
+$103CDF48 0000????
+!Misc Options:
++10 Tables (Need Always Tlc And Always I Quit Match Codes On)
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$2013DDB0 0C04F1E8
+$2013FB64 0C04F1E8
+$2013FB6C 0C04D434
+$2013DD6A 0C04F1E8
+$2013DD65 0C04F1E8
+$2013DD67 0C04F1E8
+$2013DD66 0C04F1E8
+$2013DD73 0C04F1E8
+$2013DD71 0C04F1E8
+$2013DD6B 0C04F1E8
++100 Wins
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$20454A64 00000064
++After 5 People Come Out In R.R. You Win
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$004549CE 00000001
++Alien Wrestlers
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$00102EC8 00000000
++All Players Can Hold 5 Specials
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$20223A60 24030005
++Always Anywhere Falls
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$004549D4 00000001
++Always Low Ring Time
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$203CDE38 00000000
++Always Slobber Knocker (Timed)
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$0045A9E0 00000001
++Black Stage
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$20149500 03E00008
+$20149504 00000000
++Disable A.I. Screwy
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$20236340 03E00008
+$20236344 00000000
++Infinite Creation Points
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$202B14BC 24020001
++Infinite Time Out Of Ring
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$202283F0 00000000
++Infinite Weapons In The Bottom Apron (Hardcore Match)
+%Credits: Dol>Kid Minus
+$003CDDE8 000003E8
++Invisible Cage
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$DE8ACEAA BCA99B83
+$00DE8AFA BCA99B83
++Invisible Ring
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$20142650 03E00008
+$20142654 00000000
++Invisible Ropes
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$20140C50 03E00008
+$20140C54 00000000
+$DE87A5AA BCA99B83
++Last Man Standing
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$004549E4 00000001
++P1 Instant 3 Count
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$2013AD18 14850017
+$2013AD18 00000000
++Paper Wrestlers
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$00102EE4 00000000
++Top Part Of Ring Is On Angle
+%Credits: FIBER OPTIKZ>Midget Kongz>SSJBuu619>Dol
+$001032B0 00000000
+!!
+!Miscellaneous Codes:
++Allow Editing Design-Body For Females
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$102A72EA 00001000
++Always Have 1 Mic
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$2013DDA8 00000000
++Always Have 2 Mics
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$2013DDA4 0C04F198
+$2013DDA8 00000000
++Always Have 2 Tables
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$2013DD6C 00000000
++Always Have 3 Mics
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$2013DD9C 0C04F198
+$2013DDA4 0C04F198
+$2013DDA8 00000000
++Always Have 4 Tables
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$2013DD64 0C04F1E8
+$2013DD6C 00000000
++Always Have 6 Tables
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$2013DD64 0C04F1E8
+$2013DD6C 0C04F1E8
+$2013DD70 00000000
++Always Have 8 Tables
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$2013DD64 0C04F1E8
+$2013DD6C 0C04F1E8
+$2013DD70 00000000
+$2013DD8C 00000000
+$2013DD94 0C04F1E8
++Always Have 10 Tables
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$2013DD64 0C04F1E8
+$2013DD6C 0C04F1E8
+$2013DD70 00000000
+$2013DD88 0C04F1E8
+$2013DD8C 00000000
+$2013DD94 0C04F1E8
++Always Have 12 Tables
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$2013DD64 0C04F1E8
+$2013DD6C 0C04F1E8
+$2013DD70 00000000
+$2013DD80 0C04F1E8
+$2013DD88 0C04F1E8
+$2013DD8C 00000000
+$2013DD94 0C04F1E8
++Both Players Can Climb The Same Side Of The Ladder
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$0016AB40 00000000
++Can't Move With A Weapon In Your Hand
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$2016A790 03E00008
+$2016A794 00000000
++CPU Can't Counter
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$201F6D20 03E00008
+$201F6D24 00000000
++CPU Can't Exit Ring
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20238D00 03E00008
+$20238D04 00000000
++CPU Can't Tag
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$201F44D0 03E00008
+$201F44D4 00000000
++CPU Just Sits There
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$201F1070 03E00008
+$201F1074 00000000
++Disabled Weapons
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$0016A780 00000000
++Door On Hiac Already Opened
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$2016B4D0 03E00008
+$2016B4D4 00000000
++DQ Never Set
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$2015BE40 03E00008
+$2015BE44 00000000
++Idiot AI
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$101F7B26 00001000
++Invisible Cage
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20143030 03E00008
+$20143034 00000000
++Invisible Weapons
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20175930 03E00008
+$20175934 00000000
++Press L3 For Matrix On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D04EBEC2 0000FFFD
+$003CDE8C 00000001
++Press R3 For Replay Cam On
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D04EBEC2 0000FFFB
+$003CDE94 00000001
++Ref Just Sits There
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$201F4AB0 03E00008
+$201F4AB4 00000000
++Super Game Speed {<I>With This Code, P1 Press Select+R1 To Activate It, And Select+R2 To Deactivate It.</I>}
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D04EBEC2 0000F7FE
+$20100B2C 00000000
+$D04EBEC2 0000FDFE
+$20100B2C 0C04310C
++Unlock Almost Everything
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$2042CCA8 FFFFFFFF
+$2042CCAC FFFFFFFF
+$2042CCB0 FFFFFFFF
++Unlock Theatre Mode/All Movies
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$0043076A 000000FF
+!!
+!Music Modifier Codes:
++Al Snow
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFEA10 00??????
++Albert
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE1A0 00??????
++Albert (X-Factor)
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFF160 00??????
++Big Show
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFDB70 00??????
++Billy
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE110 00??????
++Billy Kidman
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE980 00??????
++Booker T.
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD300 00??????
++Bradshaw
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFDA50 00??????
++Brock Lesnar
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE590 00??????
++Bubba Ray Dudley
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD660 00??????
++Chris Benoit
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD390 00??????
++Chris Jericho
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD1E0 00??????
++Chris Jericho
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFF040 00??????
++Christian1
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD4B0 00??????
++Christian2
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFCBB0 00??????
++Chuck
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE080 00??????
++Create
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFB380 00??????
++D-Von
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD6F0 00??????
++Debra
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFEE90 00??????
++Diamond Dallas Page
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD8A0 00??????
++Eddie Guerrero
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE8F0 00??????
++Edge
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD420 00??????
++Edge1
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFF310 00??????
++Edge2
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFF4C0 00??????
++Edit Original 1
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFBAD0 00??????
++Edit Original 2
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFBB60 00??????
++Edit Original 3
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFBBF0 00??????
++Edit Original 4
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFBC80 00??????
++Edit Original 5
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFBD10 00??????
++Edit Original 6
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFBDA0 00??????
++Edit Original 7
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFBE30 00??????
++Edit Original 8
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFBEC0 00??????
++Edit Original 9
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFBF50 00??????
++Edit Original 10
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFBFE0 00??????
++Edit Original 11
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFC070 00??????
++Edit Original 12
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFC100 00??????
++Edit Original 13
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFC190 00??????
++Edit Original 14
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFC220 00??????
++Edit Original 15
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFC2B0 00??????
++Edit Original 16
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFC340 00??????
++Edit Original 17
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFC3D0 00??????
++Edit Original 18
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFC460 00??????
++Ending Wave
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFB4A0 00??????
++Exhibition
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFB2F0 00??????
++Faarooq
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFF550 00??????
++Goldust
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFF430 00??????
++Hardcore Holly
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFECE0 00??????
++Hollywood Hulk Hogan
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFDED0 00??????
++Hollywood Hulk Hogand
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFF3A0 00??????
++Ivory
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFEB30 00??????
++Jazz
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE860 00??????
++Kane
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD270 00??????
++Kurt Angle
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD150 00??????
++Kurt Angle
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFF0D0 00??????
++Lance Storm
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD810 00??????
++Linda Mcmahon
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFEF20 00??????
++Lita
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD5D0 00??????
++Main Menu {<I>084C10 - Ending Wave (Real American) 0Feec4 - Create 0Ffa7d - Season 100646 - Mutch BGM 1(E3) 101B1d - Match BGM 2 102Fb7 - Match BGM 3 1041Ab - Match BGM 4 105340 - Match BGM 5 10664A - Match BGM 6 1077Fc - Match BGM 7 1089C5 - PPV Image 1 108D32 - PPV Image 2 108F70 - PPV Image 3 1092Aa - Edit Original 1 109592 - Edit Original 2 109871 - Edit Original 3 109C3c - Edit Original 4 109F26 - Edit Original 5 10A21b - Edit Original 6 10A504 - Edit Original 7 10A818 - Edit Original 8 10Aafe - Edit Original 9 10Adf5 - Edit Original 10 10B0ee - Edit Original 11 10B470 - Edit Original 12 10B784 - Edit Original 13 10Bb21 - Edit Original 14 10Be8a - Edit Original 15 10C1cc - Rob Van Dam 10Cdcd - Booker T. 10D392 - Edit Original 16 10D60f - Edit Original 17 10Dbf7 - Edit Original 18 10Dfb1 - Raw OP 10F100 - Raw Season 10F1d5 - Smackdown OP 1106Ee - Christian2 110Cb4 - Smack Season 110Ddf - WWE TV Title 110F88 - Ric Flair 11154D - The Rock 1120D7 - Steve Austin 11269C - Triple H 113226 - Undertaker 113Db0 - Kurt Angle 11493A - Chris Jericho 1154C4 - Kane 115A89 - Chris Benoit 11604E - The Hardy Boyz(Matt &Amp;D 116604 - Stacy Keibler 116F0d - Edge 1174D2 - Christian1 117A97 - Lita 11805D - Bubba Ray Dudley 118622 - D-Von 118Be7 - William Regal 1191Ac - Lance Storm 119771 - Diamond Dallas Page 119D36 - Stephanie Mcmahon 11A2fb - Vince Mcmahon 11A8c0 - Bradshaw 11Ae85 - Test 11B44a - Big Show 11Ba0f - Trish Stratus 11Bfd4 - Tajiri 11C599 - Rikishi 11Cb5e - Ric Flair 11D123 - Hollywood Hulk Hogan 11D649 - Nwo(Kevin Nash‘&#188;) 11Dc0e - Riko 11E1d3 - Chuck 11E798 - Billy 11Ed5d - Albert 11F322 - Scotty 2 Hotty 11F8e7 - Tazz 11Feac - The Hurricane 120471 - Molly Holly 120A36 - Torrie Wilson 120Ffb - Spike Dudley 1215C0 - Brock Lesnar 121B88 - Rhyno 12214D - Raven 122712 - Maven 122Cd8 - X-Pac 12329D - Jazz 123862 - Eddie Guerrero 123E27 - Billy Kidman 1243Eb - Al Snow 1249B0 - Mark Henry 124F75 - Ivory 12553A - Randy Orton 125Aff - The Big Valbowski 1260C4 - Hardcore Holly 126689 - Shawn Stasiak 126C4e - Shawn Michaels 127213 - Debra 1277D8 - Linda Mcmahon 127D9c - Triple H 128361 - Chris Jericho 128926 - Kurt Angle 1294B0 - Albert (X-Factor) 129A75 - T &Amp; A (Trish And Albd 12A039 - Tazz 12Abc3 - Edge1 12B74d - Hollywood Hulk Hogand 12Bd12 - Goldust 12C2d4 - Edge2 12C926 - Faarooq 12Cf20 - Season Smack 1 12Dc0c - Season Smack 2 12E0a3 - Season RAW 1 12Ebbd - Season RAW 2 19Eacc - Main Menu 1A212a - Exhibition</I>}
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFB260 00??????
++Mark Henry
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFEAA0 00??????
++Match BGM 2
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFB5C0 00??????
++Match BGM 3
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFB650 00??????
++Match BGM 4
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFB6E0 00??????
++Match BGM 5
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFB770 00??????
++Match BGM 6
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFB800 00??????
++Match BGM 7
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFB890 00??????
++Maven
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE740 00??????
++Molly Holly
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE3E0 00??????
++Mutch BGM 1(E3)
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFB530 00??????
++Nwo(Kevin Nash`¼)
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFDF60 00??????
++PPV Image 1
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFB920 00??????
++PPV Image 2
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFB9B0 00??????
++PPV Image 3
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFBA40 00??????
++Randy Orton
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFEBC0 00??????
++Raven
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE6B0 00??????
++Raw OP
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFC850 00??????
++Raw Season
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFC8E0 00??????
++Rhyno
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE620 00??????
++Ric Flair
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFCDF0 00??????
++Ric Flair
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFDDB0 00??????
++Rikishi
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFDD20 00??????
++Riko
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFDFF0 00??????
++Rob Van Dam
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD0C0 00??????
++Scotty 2 Hotty
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE230 00??????
++Season
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFB410 00??????
++Season RAW 1
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFF700 00??????
++Season RAW 2
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFF790 00??????
++Season Smack 1
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFF5E0 00??????
++Season Smack 2
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFF670 00??????
++Shawn Michaels
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFEE00 00??????
++Shawn Stasiak
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFED70 00??????
++Smack Season
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFCC40 00??????
++Smackdown OP
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFCA00 00??????
++Spike Dudley
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE500 00??????
++Stacy Keibler
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFDE40 00??????
++Stephanie Mcmahon
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD930 00??????
++Steve Austin
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFCF10 00??????
++T & A (Trish And Albd
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFF1F0 00??????
++Tajiri
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFDC90 00??????
++Tazz
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE2C0 00??????
++Tazz
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFF280 00??????
++Test
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFDAE0 00??????
++The Big Valbowski
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFEC50 00??????
++The Hardy Boyz(Matt &D
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD540 00??????
++The Hurricane
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE350 00??????
++The Rock
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFCE80 00??????
++Torrie Wilson
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE470 00??????
++Triple H
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFCFA0 00??????
++Triple H
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFEFB0 00??????
++Trish Stratus
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFDC00 00??????
++Undertaker
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD030 00??????
++Vince Mcmahon
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD9C0 00??????
++William Regal
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFD780 00??????
++WWE TV Title
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFCCD0 00??????
++X-Pac
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$20EFE7D0 00??????
+!!
+!Other:
+DE8B1962C8AD8C6B
+DE8B196EBCA99B83
+DE8B197EC8AD8C6B
+DE8B1906C8AD8C6B
+DE8B1902BCA99B83
+DE8B190AC8AD8C6B
+DE8B1912C8AD8C6B
+DE8B191AC8AD8C6B
+DE8B1926BCA99B83
+DE8B192EC8AD8C6B
+DE8B195AC8AD8C6B
+DE8B1962C8AD8C6B
+DE8B196EBCA99B83
+DE8B197EC8AD8C6B
+DE8B1906C8AD8C6B
+DE8B1902BCA99B83
+DE8B190AC8AD8C6B
+DE8B1912C8AD8C6B
+DE8B191AC8AD8C6B
+DE8B1926BCA99B83
+DE8B192EC8AD8C6B
+DE8B195AC8AD8C6B
+DE8B1962C8AD8C6B
+DE8B196EBCA99B83
+DE8B197EC8AD8C6B
+DE8B1906C8AD8C6B
+DE8B1902BCA99B83
+DE8B190AC8AD8C6B
+DE8B1912C8AD8C6B
+DE8B191AC8AD8C6B
+DE8B1926BCA99B83
+DE8B192EC8AD8C6B
++Edit Original 15
+%Credits: SSJBuu619
+$20EFC2B0 4F1?????
+!!
+!P1 Codes:
++Can't Smackdown
+%Credits: InterAct
+$D078ACCC 00000001
+$1078ACCC 00000000
+$D078ACD0 00200006
+$1078ACD0 00000000
++Infinite Smackdowns
+%Credits: InterAct
+$D078ACCC 00000000
+$1078ACCC 00000005
++Max Smackdowns
+%Credits: InterAct
+$D078ACD0 00200005
+$1078ACD0 00000005
++Smackdown Meter Full
+%Credits: InterAct
+$D078ACD4 00000000
+$2078ACD4 00000063
+!!
+!P2 Codes:
++Can't Smackdown
+%Credits: InterAct
+$D07F2CCC 00000001
+$107F2CCC 00000000
+$D07F2CD0 00200006
+$107F2CD0 00000000
++Infinite Smackdowns
+%Credits: InterAct
+$D07F2CCC 00000000
+$107F2CCC 00000005
++Max Smackdowns
+%Credits: InterAct
+$D07F2CD0 00200005
+$107F2CD0 00000005
++Smackdown Meter Full
+%Credits: InterAct
+$D07F2CD4 00000000
+$107F2CD4 00000064
+!!
++P3 Smackdown Meter Full
+%Credits: Codejunkies
+$D085ACD4 00000000
+$1085ACD4 00000063
++P4 Smackdown Meter Full
+%Credits: Codejunkies
+$D085ACD4 00000000
+$1085ACD4 00000064
+!Pinning Codes:
++P1 Press L1+Select While Pinning For Instant 3 Count
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E001FBFE 104EBEC2
+$2013AD18 14850017
+$D04EBEC2 0000FBFE
+$2013AD18 00000000
++P1 Press L2+Select While Pinning To Reset Pin Count
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E002FEFE 104EBEC2
+$2013AD18 14850017
+$2013AD1C 00000000
+$E002FEFE 004EBEC2
+$2013AD18 10000017
+$2013AD1C AE20002C
++P2 Press L1+Select While Pinning For Instant 3 Count
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E001FBFE 104EBFC2
+$2013AD18 14850017
+$D04EBFC2 0000FBFE
+$2013AD18 00000000
++P2 Press L2+Select While Pinning To Reset Pin Count
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E002FEFE 104EBFC2
+$2013AD18 14850017
+$2013AD1C 00000000
+$E002FEFE 004EBFC2
+$2013AD18 10000017
+$2013AD1C AE20002C
++P3 Press L1+Select While Pinning For Instant 3 Count
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E001FBFE 104EC1C2
+$2013AD18 14850017
+$D04EC1C2 0000FBFE
+$2013AD18 00000000
++P3 Press L2+Select While Pinning To Reset Pin Count
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E002FEFE 104EC1C2
+$2013AD18 14850017
+$2013AD1C 00000000
+$E002FEFE 004EC1C2
+$2013AD18 10000017
+$2013AD1C AE20002C
++P4 Press L1+Select While Pinning For Instant 3 Count
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E001FBFE 104EC2C2
+$2013AD18 14850017
+$D04EC2C2 0000FBFE
+$2013AD18 00000000
++P4 Press L2+Select While Pinning To Reset Pin Count
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E002FEFE 104EC2C2
+$2013AD18 14850017
+$2013AD1C 00000000
+$E002FEFE 004EC2C2
+$2013AD18 10000017
+$2013AD1C AE20002C
++P5 Press L1+Select While Pinning For Instant 3 Count
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E001FBFE 104EC4C2
+$2013AD18 14850017
+$D04EC4C2 0000FBFE
+$2013AD18 00000000
++P5 Press L2+Select While Pinning To Reset Pin Count
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E002FEFE 104EC4C2
+$2013AD18 14850017
+$2013AD1C 00000000
+$E002FEFE 004EC4C2
+$2013AD18 10000017
+$2013AD1C AE20002C
++P6 Press L1+Select While Pinning For Instant 3 Count
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E001FBFE 104EC5C2
+$2013AD18 14850017
+$D04EC5C2 0000FBFE
+$2013AD18 00000000
++P6 Press L2+Select While Pinning To Reset Pin Count
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E002FEFE 104EC5C2
+$2013AD18 14850017
+$2013AD1C 00000000
+$E002FEFE 004EC5C2
+$2013AD18 10000017
+$2013AD1C AE20002C
+!!
+!Play as Referee Codes:
++Hold L1 & Down To Play As The Referee In A Four Character Match {<I>Hold L1 &Amp; Down While The Match Is Loading Just After The Entrances. Once The Match Begins, You Can Release The Buttons. Again, Make Sure That Interference Is Turned Off Or That Characters Involved In The Match Aren&#39;T Part Of A Stable.  With These Codes, You Need To Hold The Appropriate Button Combinations While The Match Is Loading. Once The Match Has Started, You Can Release The Buttons. Essentially The Breakdown Of Codes Does The Following: 1. Allows The CPU To Take Control Over The Character In The Player 1 Slot. 2. Allows The Referee&#39;S Slot To Be Controlled by a human player. 3. Allows the Controller 1 to to control the referee. 4. Disables the Dual Shock Message. Without this code, the game would lock up with the Dual Shock Message saying that the controller has been unplugged.  The fun thing is being able to control the outcome of a match, without getting penalized for it. After all, who&#39;s going to disqualify the referee? Its especially funny playing as the referee in a steel cage match. When you climb out of the ring, the referee is declared the winner. Unfortunately, when playing in a Ladder or TLC match as the ref, it won&#39;t let you grab hold of the title.</i>}
+%Credits: BigBossman
+$E004FBBF 004EBEC2
+$00454976 00000000
+$00454878 00000001
+$004548F8 00000000
+$004548F0 00000000
++Hold L1 & Left To Play As The Referee In A Five Character Match {<I>Hold L1 &Amp; Left While The Match Is Loading Just After The Entrances. Once The Match Begins, You Can Release The Buttons.</I>}
+%Credits: BigBossman
+$E004FB7F 004EBEC2
+$00454976 00000000
+$00454878 00000001
+$00454918 00000000
+$00454910 00000000
++Hold L1 & Right To Play As The Referee In A Three Character Match {<I>Hold L1 &Amp; Right While The Match Is Loading Just After The Entrances. Once The Match Begins, You Can Release The Buttons.</I>}
+%Credits: BigBossman
+$E004FBDF 004EBEC2
+$00454976 00000000
+$00454878 00000001
+$004548D8 00000000
+$004548D0 00000000
++Hold L1 & Select To Play As The Referee In A Two Character Match {<I>Hold L1 &Amp; Select While The Match Is Loading Just After The Entrances. Once The Match Begins, You Can Release The Buttons. Make Sure That Interference Is Turned Off Or That The Characters Involved In The Match Aren&#39;T In A Stable, Or Else The Code Won&#39;T Work Properly.</I>}
+%Credits: BigBossman
+$E004FBFE 004EBEC2
+$00454976 00000000
+$00454878 00000001
+$004548B8 00000000
+$004548B0 00000000
++Hold L1 & Up To Play As The Referee In A Six Character Match {<I>Hold L1 &Amp; Up While The Match Is Loading Just After The Entrances. Once The Match Begins, You Can Release The Buttons.</I>}
+%Credits: BigBossman
+$E004FBEF 004EBEC2
+$00454976 00000000
+$00454878 00000001
+$00454938 00000000
+$00454930 00000000
+!!
++Player 1 Can't Smackdown
+%Credits: Codejunkies
+$D078ACCC 00000001
+$1078ACCC 00000000
+$E0010006 2078ACD0
+$1078ACD0 00000000
++Player 1 Character Status Modifier {<I>This Can Modify What Each Player&#39;S Role Is In A Particular Match. Values -  00 - Wrestler Competing In The Match 01 - Referee 02 - Manager 03 - Backstage Interference 04 - Illegal Wrestler Like In A Tag Match (Not Able To Be Tagged In &Amp; Camera Doesn&#39;T Focus On The Character) 05 - Eliminated Wrestler (Almost Like They&#39;Ve Been Eliminated From A Battle Royal. Players Can Grab Opponent&#39;S Legs In The Ring &Amp; Beat On Others Outside The Ring. Can&#39;T Pick Up Any Weapons.)</I>}
+%Credits: BigBossman
+$00454874 000000??
++Player 1 Controller Modifier {<I>The Player 1 Position Is The Upper Left Part Of The Screen. Values - 00 - Controller 1 01 - Controller 2 02 - Controller 3 03 - Controller 4 04 - Controller 5 05 - Controller 6</I>}
+%Credits: BigBossman
+$00454870 000000??
++Player 1 Human / CPU Modifier {<I>This Simply Modifies Whether The Player Or The Computer Is In Control Of A Character. Values -  00 - Player Is In Control 01 - Computer Is In Control</I>}
+%Credits: BigBossman
+$00454878 000000??
++Player 1 Is Removed From The Match
+%Credits: BigBossman
+$00454883 00000001
++Player 1 Max Smackdowns
+%Credits: Codejunkies
+$E0010005 2078ACD0
+$1078ACD0 00000005
++Player 1 Modifier {<I>I Found Tons More Of Unselectable Characters Than I Expected To Find. Some Of The Alternate Attires I Believe Are Unlockable, But There Are Some That I Believe Aren&#39;T Normally Ever Enabled. The Characters That Have A Series Of Letters For A Name Appear As The Green Moves Model With Different Movesets Unless Otherwise Stated. Values - 0000 - The Rock 0002 - The Rock (Track Pants &Amp; Sleeveless T-Shirt) 0004 - The Rock (Leather Vest &Amp; Leather Pants) 000A - Steve Austin 000C - Steve Austin (T-Shirt &Amp; Shorts) 000F - Steve Austin (Red Trimmed Knee Braces) 0010 - Steve Austin&#39;S Vest 0014 - Triple H 0019 - Triple H (T-Shirt &Amp; Jeans) 001E - Undertaker (Attire A) 0020 - Undertaker (Attire B) 0028 - Rob Van Dam 002A - Rob Van Dam (Dark Attire With Neon Green) 0032 - Kurt Angle (Bald) 0037 - Kurt Angle (With Hair) 003C - Chris Jericho 0041 - Chris Jericho (Black Tights, No Facial Hair) 0046 - Kane 0050 - Booker T 0055 - Booker T (White Trunks &Amp; Boots) 005A - Chris Benoit 0064 - Edge 0069 - Edge (Red Tights) 006E - Christian 0078 - Matt Hardy 007D - Matt Hardy (3 Xtreme Attire) 0082 - Jeff Hardy 0087 - Jeff Hardy (Greenish Shirt &Amp; Braided Hair) 008C - Lita 0096 - Bubba Ray Dudley 009B - Bubba Ray Dudley (Team 3D Attire) 00A0 - D-Von Dudley 00AA - William Regal 00B4 - Lance Storm 00BE - DDP 00C8 - Stephanie Mcmahon 00CD - Stephanie Mcmahon (Wrestling Attire) 00D2 - Vince Mcmahon 00D4 - Vince Mcmahon (Wrestling Attire) 00DC - WSM (Green Moves Model) 00E6 - Faarooq 00F0 - Bradshaw 00FA - Test 0104 - Big Show 010E - Trish Stratus 0113 - Trish Stratus (Red Pants &Amp; Black Tank Top) 0118 - Tajiri 0122 - Rikishi 012C - Ric Flair 012E - Ric Flair (Suit) 0131 - Ric Flair (Red Trunks &Amp; Boots) 0136 - Stacy Kiebler 0138 - Stacy Kiebler (Red Camo Skirt &Amp; Short Shirt) 0140 - Hollywood Hulk Hogan 0142 - Hollywood Hulk Hogan (NWO Attire) 0145 - Hollywood Hulk Hogan (Red Bandana) 014A - Kevin Nash 014C - Kevin Nash (Jeans &Amp; Tank Top) 0154 - Rico 015E - Chuck 0168 - Billy 016D - Billy (Darker Hair) 0172 - Albert 017C - Scotty 2 Hotty 0186 - Tazz 0190 - The Hurricane 019A - Molly Holly 019C - Molly Holly (Dark Clothing, Long Brown Hair) 01A4 - Torrie Wilson 01A6 - Torrie Wilson (Blue Attire) 01AE - Spike Dudley 01B8 - Brock Lesnar 01BA - Brock Lesnar (Smaller Design On Trunks) 01C2 - Rhyno 01CC - Raven 01CE - Raven (&Quot;FATE&Quot; Written On Chest) 01D6 - Maven 01E0 - X-Pac 01EA - Jazz 01F4 - Michael Cole 01FE - Earl Hebner 0208 - Jim Ross 0212 - Jerry Lawler 021C - Debra 0226 - Linda Mcmahon 0230 - Eddie Guerrero 0232 - Eddie Guerrero (Black Tights) 023A - Billy Kidman 023C - Billy Kidman (Black Shorts) 0244 - Al Snow 024E - Mark Henry 0258 - Ivory 0262 - Randy Orton 026C - The Big Valbowski 026E - The Big Valbowski (Red Trunks With Black &Quot;V&Quot; Design) 0276 - Hardcore Holly 0278 - Hardcore Holly (Black With Purple) 0280 - Shawn Stasiak 028A - Shawn Michaels 028C - Shawn Michaels (White T-Shirt) 0294 - Goldust 029E - Froze 02A8 - Froze 02B2 - Froze 02BC - Average 02C6 - Powerful 02D0 - Speedy 02DA - Technical 02E4 - Rough Neck 02EE - WDB (Green Moves Model) 02F8 - WSR 0302 - ZDM 030C - WTD 0316 - WDL 0320 - WCR 032A - WRM 0334 - WCG 033E - WJC 0348 - WBM 0352 - WPS 035C - WGF 0366 - WKY 0370 - WMA 037A - WFU 0384 - OJL (Create-An-Animation Guy) 038E - KTM (Red Moves Model) 0398 - OMP 03A2 - ZMF 03AC - WHM 03B6 - WNI 03C0 - WSB 03CA - OJL 03D4 - WSO 03DE - MS 03E8 - OGM 03F2 - OKK 03FC - OER 0406 - OGG 0410 - ZAG 041A - ZSS 0424 - ZBB 042E - ORD 0438 - CSH 0442 - CBG 044C - CST 0456 - CRF 0460 - CJJ 046A - CSS 0474 - JIDA 047E - JIDB 0488 - MEX 0492 - NJKS 049C - ZOSH 04A6 - NJMC 04B0 - NJHT 04BA - AJKM 04C4 - NJMN 04CE - NJYN 04D8 - NJJL 04E2 - MGS 04EC - AJKK 04F6 - NOVD 0500 - NOMM 050A - NOKK 0514 - NOJA 051E - AJTK 0528 - AJGT 0532 - JAO 053C - PAI 0546 - ZONO 0550 - PAT 055A - PGP 0564 - LKS 056E - DLTF 0578 - CHKF 07D0 - CAW 1 07D1 - CAW 2 07D2 - CAW 3 07D3 - CAW 4 07D4 - CAW 5 07D5 - CAW 6 07D6 - CAW 7 07D7 - CAW 8 07D8 - CAW 9 07D9 - CAW 10 07DA - CAW 11 07DB - CAW 12 07DC - CAW 13 07DD - CAW 14 07DE - CAW 15 07DF - CAW 16 07E0 - CAW 17 07E1 - CAW 18 07E2 - CAW 19 07E3 - CAW 20 07E4 - CAW 21 07E5 - CAW 22 07E6 - CAW 23 07E8 - CAW 24 07E9 - CAW 25 07EA - CAW 26 07EB - CAW 27 07EC - CAW 28 07ED - CAW 29 07EE - CAW 30 07EF - CAW 31 07F0 - CAW 32 09F6 - Vacant</I>}
+%Credits: BigBossman
+$1045487A 0000????
++Player 1 Side Modifier {<I>These Can Create Different Match Type Variations &Amp; Determine Which Players Are Enemies &Amp; Which Players They Are Teamed Up With. You Can Also Create Various Match Types That Aren&#39;T Normally Selectable. If A Player &Amp; The Referee Are On The Same Team, The Referee Will Not Likely Count When That Player(S) Is Being Pinned. In Order To Make Sure That Two Or More Players Are On The Same Team, They Must Have The Same Values (00, 01, 02, Etc.) If Players Have Different Values, They Will Be Enemies.</I>}
+%Credits: BigBossman
+$00454879 000000??
++Player 2 Can't Smackdown
+%Credits: Codejunkies
+$D07F2CCC 00000001
+$107F2CCC 00000000
+$E0010006 207F2CD0
+$107F2CD0 00000000
++Player 2 Character Status Modifier
+%Credits: BigBossman
+$00454894 000000??
++Player 2 Controller Modifier {<I>The Player 2 Position Is The Upper Right Part Of The Screen.</I>}
+%Credits: BigBossman
+$00454890 000000??
++Player 2 Human / CPU Modifier
+%Credits: BigBossman
+$00454898 000000??
++Player 2 Is Removed From The Match
+%Credits: BigBossman
+$004548A3 00000001
++Player 2 Max Smackdowns
+%Credits: Codejunkies
+$E0010005 207F2CD0
+$107F2CD0 00000005
++Player 2 Modifier
+%Credits: BigBossman
+$1045489A 0000????
++Player 2 Side Modifier
+%Credits: BigBossman
+$00454899 000000??
++Player 3 Character Status Modifier
+%Credits: BigBossman
+$004548B4 000000??
++Player 3 Controller Modifier {<I>The Player 3 Position Is The Lower Left Part Of The Screen.</I>}
+%Credits: BigBossman
+$004548B0 000000??
++Player 3 Human / CPU Modifier
+%Credits: BigBossman
+$004548B8 000000??
++Player 3 Is Removed From The Match
+%Credits: BigBossman
+$004548C3 00000001
++Player 3 Modifier
+%Credits: BigBossman
+$104548BA 0000????
++Player 3 Side Modifier
+%Credits: BigBossman
+$004548B9 000000??
++Player 4 Character Status Modifier
+%Credits: BigBossman
+$004548D4 000000??
++Player 4 Controller Modifier {<I>The Player 4 Position Is The Lower Right Part Of The Screen.</I>}
+%Credits: BigBossman
+$004548D0 000000??
++Player 4 Human / CPU Modifier
+%Credits: BigBossman
+$004548D8 000000??
++Player 4 Is Removed From The Match
+%Credits: BigBossman
+$004548E3 00000001
++Player 4 Modifier
+%Credits: BigBossman
+$104548DA 0000????
++Player 4 Side Modifier
+%Credits: BigBossman
+$004548D9 000000??
++Player 5 Character Status Modifier
+%Credits: BigBossman
+$004548F4 000000??
++Player 5 Controller Modifier {<I>The Player 5 Position Is The Bottom Left Part Of The Screen.</I>}
+%Credits: BigBossman
+$004548F0 000000??
++Player 5 Human / CPU Modifier
+%Credits: BigBossman
+$004548F8 000000??
++Player 5 Is Removed From The Match
+%Credits: BigBossman
+$00454903 00000001
++Player 5 Modifier
+%Credits: BigBossman
+$104548FA 0000????
++Player 5 Side Modifier
+%Credits: BigBossman
+$004548F9 000000??
++Player 6 Character Status Modifier
+%Credits: BigBossman
+$00454914 000000??
++Player 6 Controller Modifier {<I>The Player 6 Position Is The Bottom Right Part Of The Screen.</I>}
+%Credits: BigBossman
+$00454910 000000??
++Player 6 Human / CPU Modifier
+%Credits: BigBossman
+$00454918 000000??
++Player 6 Is Removed From The Match
+%Credits: BigBossman
+$00454923 00000001
++Player 6 Modifier
+%Credits: BigBossman
+$1045491A 0000????
++Player 6 Side Modifier
+%Credits: BigBossman
+$00454919 000000??
++Quick Slobber-Knocker
+%Credits: InterAct
+$D0454A64 00000000
+$10454A64 00000063
++Referee Is Removed From The Match {<I>This Will Only Work In Matches Involving 6 Wrestlers. Even Without A Physical Referee, You&#39;Ll Still Be Able To Win Or Lose by pinfall, submission, count out, or DQ.</i>}
+%Credits: BigBossman
+$00454943 00000001
++Referee Side Modifier {<I>Only Works In Matches Involving 6 Characters.</I>}
+%Credits: BigBossman
+$00454939 000000??
++Referee Status Modifier {<I>This Will Only Work In Matches Involving 6 Wrestlers. The Referee&#39;S Player Position Changes Based On The Number Of Wrestler&#39;S Involved In A Match. If There Are 2 Characters (With No Interference), The Referee&#39;S Position Is Player 3. If There Are 3 Characters, The Referee&#39;S Position Is Player 4, ETC. The Best Way To Think Of This Code Is Like A Player 7 Character Status Modifier. Setting The Value At &Quot;00&Quot; Will Make The Referee Attack Everyone. Even If There Referee Is Classified As A Wrestler, There Will Be An Invisible Referee Counting Pinfalls, Doing Out Of The Ring Counts, Submissions, &Amp; Even To Call DQ&#39;S. With The Referee Classified As A Wrestler, He Can Pin Others &Amp; Be Pinned. See The Notes Posted For The Values Under The &Quot;Player 1 Character Status Modifier&Quot; Code.</I>}
+%Credits: BigBossman
+$00454934 000000??
+!Season Championship Modifiers:
++Cruiserweight Champion Modifier {<I>These Codes Will Modify Who The Champions Are. This Will Also Be Reflected In The Roster Menu. These Codes Are Best Used Prior To Starting Season Mode. After Beginning Season Mode, Save The Game &Amp; Turn The Codes Off. This Will Affect How The CPU Will Draft Characters In The Game As They Mostly Look For Characters With Higher Superstar Points (SP) &Amp; Championship Holders. Please Note That Whoever The Undisputed Champion Is, Doesn&#39;T Appear In The Draft. During The Draft, The Tag Team Champions Will Be Be Drafted To The Same Show Together. It Is Possible To Have One Tag Team Champion On One Show &Amp; The Other Tag Team Champion On The Other If You Modify Them After The Draft.If Michael Cole, Earl Hebner, Jim Ross, Jerry Lawler, Debra, Or Linda Mcmahon Are Designated As Champions, It Could Freeze The Game If You View The Roster Screen While They Are A Title Holder. Values -  0000 The Rock 0001 Steve Austin 0002 Triple H 0003 Undertaker 0004 Rob Van Dam 0005 Kurt Angle 0006 Chris Jericho 0007 Kane 0008 Booker T 0009 Chris Benoit 000A Edge 000B Christian 000C Matt Hardy 000D Jeff Hardy 000E Lita 000F Bubba Ray Dudley 0010 D-Von Dudley 0011 William Regal 0012 Lance Storm 0013 DDP 0014 Stephanie Mcmahon 0015 Vince Mcmahon 0016 Shane Mcmahon 0017 Faarooq 0018 Bradshaw 0019 Test 001A Big Show 001B Trish Stratus 001C Tajiri 001D Rikishi 001E Ric Flair 001F Stacy Kiebler 0020 Hulk Hogan 0021 Kevin Nash 0022 Rico 0023 Chuck 0024 Billy 0025 Albert 0026 Scotty 2 Hotty 0027 Tazz 0028 The Hurricane 0029 Molly Holly 002A Torrie Wilson 002B Spike Dudley 002C Brock Lesnar 002D Rhyno 002E Raven 002F Maven 0030 X-Pac 0031 Jazz 0032 Michael Cole 0033 Earl Hebner 0034 Jim Ross 0035 Jerry Lawler 0036 Debra 0037 Linda Mcmahon 0038 Eddie Guerrero 0039 Billy Kidman 003A Al Snow 003B Mark Henry 003C Ivory 003D Randy Orton 003E The Big Valbowski 003F Hardcore Holly 0040 Shawn Stasiak 0041 Shawn Michaels 0042 Goldust 07D0 CAW 1 07D1 CAW 2 07D2 CAW 3 07D3 CAW 4 07D4 CAW 5 07D5 CAW 6 07D6 CAW 7 07D7 CAW 8 07D8 CAW 9 07D9 CAW 10 07DA CAW 11 07DB CAW 12 07DC CAW 13 07DD CAW 14 07DE CAW 15 07DF CAW 16 07E0 CAW 17 07E1 CAW 18 07E2 CAW 19 07E3 CAW 20 07E4 CAW 21 07E5 CAW 22 07E6 CAW 23 07E7 CAW 24 07E8 CAW 25 07E9 CAW 26 07EA CAW 27 07EB CAW 28 07EC CAW 29 07ED CAW 30 07EE CAW 31 07EF CAW 32</I>}
+%Credits: tokidoim
+$1042FBE2 0000????
++European Champion Modifier
+%Credits: tokidoim
+$1042FBE0 0000????
++Hardcore Champion Modifier
+%Credits: tokidoim
+$1042FBDE 0000????
++Intercontinental Champion Modifier
+%Credits: tokidoim
+$1042FBDC 0000????
++Tag Team Champion 1 Modifier
+%Credits: tokidoim
+$1042FBD8 0000????
++Tag Team Champion 2 Modifier
+%Credits: tokidoim
+$1042FBDA 0000????
++Undisputed Champion Modifier
+%Credits: tokidoim
+$1042FBD6 0000????
+!!
+!Season Mode Codes:
++Add Debra To Season Mode {<I>The Characters That Are &Quot;Added To Season Mode&Quot; Won&#39;T Be Eligible For The Draft Or Selectable To Play As, But Will Be Seen Fighting In Various Matches While Playing Season Mode. They Also Don&#39;T Appear In The Roster Screen, So Its Hard To Tell Which Shows They&#39;Ll Appear On.</I>}
+%Credits: BigBossman
+$10424406 00000001
++Add Earl Hebner To Season Mode
+%Credits: BigBossman
+$1042402E 00000001
++Add Jerry Lawler To Season Mode
+%Credits: BigBossman
+$104242BE 00000001
++Add Jim Ross To Season Mode
+%Credits: BigBossman
+$10424176 00000001
++Add Linda Mcmahon To Season Mode
+%Credits: BigBossman
+$1042454E 00000001
++Add Michael Cole To Season Mode
+%Credits: BigBossman
+$10423EE6 00000001
++Main Character Modifier Season {<I>This Lets You Modify The Main Character In Season, Letting You Play As A Diva, Non-Unlockable, Shawn Michaels, Ric Flair, Vince Mcmahon Or Another Playable Character. The Main Character Modifier Is Able To Be Used At Any Time. Please Note That Viewing Roster While Playing As A Non-Unlockable Will Freeze The Game. The Main Character Modifier Is Savable. Values: 0000 (The Rock) 0001 (Steve Austin) 0002 (Triple H) 0003 (Undertaker) 0004 (Rob Van Dam) 0005 (Kurt Angle) 0006 (Chris Jericho) 0007 (Kane) 0008 (Booker T) 0009 (Chris Benoit) 000A (Edge) 000B (Christian) 000C (Matt Hardy) 000D (Jeff Hardy) 000E (Lita) 000F (Bubba Ray Dudley) 0010 (D-Von Dudley) 0011 (William Regal) 0012 (Lance Storm) 0013 (DDP) 0014 (Stephanie Mcmahon) 0015 (Vince Mcmahon) 0016 (Shane Mcmahon) 0017 (Faarooq) 0018 (Bradshaw) 0019 (Test) 001A (Big Show) 001B (Trish Stratus) 001C (Tajiri) 001D (Rikishi) 001E (Ric Flair) 001F (Stacy Kiebler) 0020 (Hulk Hogan) 0021 (Kevin Nash) 0022 (Rico) 0023 (Chuck) 0024 (Billy) 0025 (Albert) 0026 (Scotty 2 Hotty) 0027 (Tazz) 0028 (The Hurricane) 0029 (Molly Holly) 002A (Torrie Wilson) 002B (Spike Dudley) 002C (Brock Lesnar) 002D (Rhyno) 002E (Raven) 002F (Maven) 0030 (X-Pac) 0031 (Jazz) 0032 (Michael Cole) 0033 (Earl Hebner) 0034 (Jim Ross) 0035 (Jerry Lawler) 0036 (Debra) 0037 (Linda Mcmahon) 0038 (Eddie Guerrero) 0039 (Billy Kidman) 003A (Al Snow) 003B (Mark Henry) 003C (Ivory) 003D (Randy Orton) 003E (The Big Valbowski) 003F (Hardcore Holly) 0040 (Shawn Stasiak) 0041 (Shawn Michaels) 0042 (Goldust) 07D0 (CAW 1) 07D1 (CAW 2) 07D2 (CAW 3) 07D3 (CAW 4) 07D4 (CAW 5) 07D5 (CAW 6) 07D6 (CAW 7) 07D7 (CAW 8) 07D8 (CAW 9) 07D9 (CAW 10) 07DA (CAW 11) 07DB (CAW 12) 07DC (CAW 13) 07DD (CAW 14) 07DE (CAW 15) 07DF (CAW 16) 07E0 (CAW 17) 07E1 (CAW 18) 07E2 (CAW 19) 07E3 (CAW 20) 07E4 (CAW 21) 07E5 (CAW 22) 07E6 (CAW 23) 07E7 (CAW 24) 07E8 (CAW 25) 07E9 (CAW 26) 07EA (CAW 27) 07EB (CAW 28) 07EC (CAW 29) 07ED (CAW 30) 07EE (CAW 31) 07EF (CAW 32)</I>}
+%Credits: tokidoim
+$1042C244 0000????
++Make Hollywood Hulk Hogan Playable & Appear In The Draft
+%Credits: BigBossman
+$0042278B 00000001
+$104227D6 00000101
++Make Ivory Playable & Appear In The Draft {<I>Before Putting The Codes That Affect The Divas In, Make Sure That You At Least Have 4 Of Them That Aren&#39;T In The Draft, Otherwise The Game Will Lock Up. For Some Reason, It Will Allow You To Play As A Diva &Amp; Fight The Male Characters, But It Places Them With The Males In The Roster Screen.</I>}
+%Credits: BigBossman
+$00424B6B 00000001
+$10424BB6 00000101
++Make Jazz Playable & Appear In The Draft
+%Credits: BigBossman
+$00423D53 00000001
+$10423D9E 00000101
++Make Kevin Nash Playable & Appear In The Draft
+%Credits: BigBossman
+$004228D3 00000001
+$1042291E 00000101
++Make Lita Playable & Appear In The Draft
+%Credits: BigBossman
+$0042107B 00000001
+$104210C6 00000101
++Make Molly Holly Playable & Appear In The Draft
+%Credits: BigBossman
+$00423313 00000001
+$1042335E 00000101
++Make Ric Flair Playable & Appear In The Draft
+%Credits: BigBossman
+$004224FB 00000001
+$10422546 00000101
++Make Shawn Michaels Playable & Appear In The Draft
+%Credits: BigBossman
+$004251D3 00000001
+$1042521E 00000101
++Make Stacy Keibler Playable & Appear In The Draft
+%Credits: BigBossman
+$00422643 00000001
+$1042268E 00000101
++Make Stephanie Mcmahon Playable & Appear In The Draft
+%Credits: BigBossman
+$0042182B 00000001
+$10421876 00000101
++Make Steve Austin Playable & Appear In The Draft
+%Credits: BigBossman
+$0041FFD3 00000001
+$1042001E 00000101
++Make Torrie Wilson Playable & Appear In The Draft
+%Credits: BigBossman
+$0042345B 00000001
+$104234A6 00000101
++Make Triple H Playable & Appear In The Draft
+%Credits: BigBossman
+$0042011B 00000001
+$10420166 00000101
++Make Trish Stratus Playable & Appear In The Draft
+%Credits: BigBossman
+$00422123 00000001
+$1042216E 00000101
++Make Undertaker Playable & Appear In The Draft
+%Credits: BigBossman
+$00420263 00000001
+$104202AE 00000101
++Make Vince Mcmahon Playable & Appear In The Draft
+%Credits: BigBossman
+$00421973 00000001
+$104219BE 00000101
++Make X-Pac Playable & Appear In The Draft
+%Credits: BigBossman
+$00423C0B 00000001
+$10423C56 00000101
++Match 1 - Character Modifier - Lower Left {<I>These Modify The Characters Involved In A Match In Season Mode. If Your Character Isn&#39;T In That Match, It Will Give You The Chance To Play, Skip, Watch, Or Depending On The Match, Interfere. The Positions Noted Will Also Change According To The Match Type. For Example: The Middle Left Character Modifier Will Be On The Right In A 1 On 1 Match. Values -  0000 The Rock 0001 Steve Austin 0002 Triple H 0003 Undertaker 0004 Rob Van Dam 0005 Kurt Angle 0006 Chris Jericho 0007 Kane 0008 Booker T 0009 Chris Benoit 000A Edge 000B Christian 000C Matt Hardy 000D Jeff Hardy 000E Lita 000F Bubba Ray Dudley 0010 D-Von Dudley 0011 William Regal 0012 Lance Storm 0013 DDP 0014 Stephanie Mcmahon 0015 Vince Mcmahon 0016 Shane Mcmahon 0017 Faarooq 0018 Bradshaw 0019 Test 001A Big Show 001B Trish Stratus 001C Tajiri 001D Rikishi 001E Ric Flair 001F Stacy Kiebler 0020 Hulk Hogan 0021 Kevin Nash 0022 Rico 0023 Chuck 0024 Billy 0025 Albert 0026 Scotty 2 Hotty 0027 Tazz 0028 The Hurricane 0029 Molly Holly 002A Torrie Wilson 002B Spike Dudley 002C Brock Lesnar 002D Rhyno 002E Raven 002F Maven 0030 X-Pac 0031 Jazz 0032 Michael Cole 0033 Earl Hebner 0034 Jim Ross 0035 Jerry Lawler 0036 Debra 0037 Linda Mcmahon 0038 Eddie Guerrero 0039 Billy Kidman 003A Al Snow 003B Mark Henry 003C Ivory 003D Randy Orton 003E The Big Valbowski 003F Hardcore Holly 0040 Shawn Stasiak 0041 Shawn Michaels 0042 Goldust 07D0 CAW 1 07D1 CAW 2 07D2 CAW 3 07D3 CAW 4 07D4 CAW 5 07D5 CAW 6 07D6 CAW 7 07D7 CAW 8 07D8 CAW 9 07D9 CAW 10 07DA CAW 11 07DB CAW 12 07DC CAW 13 07DD CAW 14 07DE CAW 15 07DF CAW 16 07E0 CAW 17 07E1 CAW 18 07E2 CAW 19 07E3 CAW 20 07E4 CAW 21 07E5 CAW 22 07E6 CAW 23 07E7 CAW 24 07E8 CAW 25 07E9 CAW 26 07EA CAW 27 07EB CAW 28 07EC CAW 29 07ED CAW 30 07EE CAW 31 07EF CAW 32</I>}
+%Credits: BigBossman
+$1042C30A 0000????
++Match 1 - Character Modifier - Lower Right
+%Credits: BigBossman
+$1042C36A 0000????
++Match 1 - Character Modifier - Middle Left
+%Credits: BigBossman
+$1042C2EA 0000????
++Match 1 - Character Modifier - Middle Right
+%Credits: BigBossman
+$1042C34A 0000????
++Match 1 - Character Modifier - Upper Left
+%Credits: BigBossman
+$1042C2CA 0000????
++Match 1 - Character Modifier - Upper Right
+%Credits: BigBossman
+$1042C32A 0000????
++Match 1 - Player 1 Starts At The Stage {<I>Actually They Start Inside The Stage, But Just Move Away From The Stage Area To Fix It.</I>}
+%Credits: BigBossman
+$0042C2D9 00000001
++Match 1 - Player 2 Starts At The Stage
+%Credits: BigBossman
+$0042C2F9 00000001
++Match 1 - Player 3 Starts At The Stage
+%Credits: BigBossman
+$0042C319 00000001
++Match 1 - Player 4 Starts At The Stage
+%Credits: BigBossman
+$0042C339 00000001
++Match 1 - Player 5 Starts At The Stage
+%Credits: BigBossman
+$0042C359 00000001
++Match 1 - Player 6 Starts At The Stage
+%Credits: BigBossman
+$0042C379 00000001
++Match 1 - Title Modifier {<I>This Will Put Whichever Title You Want On The Line In This Match Even If The Title Holder Isn&#39;T Involved. A Word Of Warning: Tag Team Titles Should Only Be Defended When In Matches Involving Tag Teams. If A Single Character Wins The Tag Team Titles, It Will Cause The Game To Freeze. However, A Tag Team Can Fight For An Individual Title. Whoever Gets The Win, Wins The Title. Values -  00 - Undisputed Championship 01 - Tag Team Championship 02 - Intercontinental Championship 03 - Hardcore Championship 04 - European Championship 05 - Cruiserweight Championship 06 - No Title On The Line</I>}
+%Credits: BigBossman
+$1042C2B4 000000??
++Match 2 - Character Modifier - Lower Left
+%Credits: BigBossman
+$1042C3DA 0000????
++Match 2 - Character Modifier - Lower Right
+%Credits: BigBossman
+$1042C43A 0000????
++Match 2 - Character Modifier - Middle Left
+%Credits: BigBossman
+$1042C3BA 0000????
++Match 2 - Character Modifier - Middle Right
+%Credits: BigBossman
+$1042C41A 0000????
++Match 2 - Character Modifier - Upper Left
+%Credits: BigBossman
+$1042C39A 0000????
++Match 2 - Character Modifier - Upper Right
+%Credits: BigBossman
+$1042C3FA 0000????
++Match 2 - Player 1 Starts At The Stage
+%Credits: BigBossman
+$0042C3A9 00000001
++Match 2 - Player 2 Starts At The Stage
+%Credits: BigBossman
+$0042C3C9 00000001
++Match 2 - Player 3 Starts At The Stage
+%Credits: BigBossman
+$0042C3E9 00000001
++Match 2 - Player 4 Starts At The Stage
+%Credits: BigBossman
+$0042C409 00000001
++Match 2 - Player 5 Starts At The Stage
+%Credits: BigBossman
+$0042C229 00000001
++Match 2 - Player 6 Starts At The Stage
+%Credits: BigBossman
+$0042C249 00000001
++Match 2 - Title Modifier
+%Credits: BigBossman
+$1042C384 000000??
++Match 3 - Character Modifier - Lower Left
+%Credits: BigBossman
+$1042C4AA 0000????
++Match 3 - Character Modifier - Lower Right
+%Credits: BigBossman
+$1042C50A 0000????
++Match 3 - Character Modifier - Middle Left
+%Credits: BigBossman
+$1042C48A 0000????
++Match 3 - Character Modifier - Middle Right
+%Credits: BigBossman
+$1042C4EA 0000????
++Match 3 - Character Modifier - Upper Left
+%Credits: BigBossman
+$1042C46A 0000????
++Match 3 - Character Modifier - Upper Right
+%Credits: BigBossman
+$1042C4CA 0000????
++Match 3 - Title Modifier
+%Credits: BigBossman
+$1042C454 000000??
++Skip Through Season Text Faster {<I>Normally, You Have To Wait During Cutscenes &Amp; Dialogues Before You Can Hit The X Button To Skip Ahead. This Codes Allows You To Hit X &Amp; Skip Ahead Immediately Without Having To Wait. This Works During The Draft &Amp; Any Instance Where Text Is Used In Season Mode.</I>}
+%Credits: BigBossman
+$0042C29C 00000001
++Starting SP Superstar Points Modifier - (WSM) Shane Mcmahon {<I>Superstar Points Or SP Is What&#39;S Used To Rate Your Popularity In Season Mode. These Codes Will Modify The Starting Amount Of SP That You Have For Each Character. These Aren&#39;T The Same As Infinite SP Because The Rating Will Go Up Or Down According To Matches Won Or Lost. A Character That Has A Higher SP Rating Will Get Drafted Quicker &Amp; Will Have More Chances For Championship &Amp; Main Event Matches. Non-Unlockables Aren&#39;T Seen In The Roster Screens, But The Codes Listed For Them Will Affect Their Starting SP Rating. Values - 00 - 0 SP 0A - 10 SP 32 - 50 SP 55 - 85 SP 63 - 99 SP 64 - 100 SP</I>}
+%Credits: BigBossman
+$0042C26E 000000??
++Starting SP Superstar Points Modifier - Al Snow
+%Credits: BigBossman
+$0042C292 000000??
++Starting SP Superstar Points Modifier - Albert
+%Credits: BigBossman
+$0042C27D 000000??
++Starting SP Superstar Points Modifier - Big Show
+%Credits: BigBossman
+$0042C272 000000??
++Starting SP Superstar Points Modifier - Billy
+%Credits: BigBossman
+$0042C27C 000000??
++Starting SP Superstar Points Modifier - Billy Kidman
+%Credits: BigBossman
+$0042C291 000000??
++Starting SP Superstar Points Modifier - Booker T
+%Credits: BigBossman
+$0042C260 000000??
++Starting SP Superstar Points Modifier - Bradshaw
+%Credits: BigBossman
+$0042C270 000000??
++Starting SP Superstar Points Modifier - Brock Lesnar
+%Credits: BigBossman
+$0042C284 000000??
++Starting SP Superstar Points Modifier - Bubba Ray Dudley
+%Credits: BigBossman
+$0042C267 000000??
++Starting SP Superstar Points Modifier - Chris Benoit
+%Credits: BigBossman
+$0042C261 000000??
++Starting SP Superstar Points Modifier - Chris Jericho
+%Credits: BigBossman
+$0042C25E 000000??
++Starting SP Superstar Points Modifier - Christian
+%Credits: BigBossman
+$0042C263 000000??
++Starting SP Superstar Points Modifier - Chuck
+%Credits: BigBossman
+$0042C27B 000000??
++Starting SP Superstar Points Modifier - D-Von
+%Credits: BigBossman
+$0042C268 000000??
++Starting SP Superstar Points Modifier - DDP
+%Credits: BigBossman
+$0042C26B 000000??
++Starting SP Superstar Points Modifier - Debra
+%Credits: BigBossman
+$0042C28E 000000??
++Starting SP Superstar Points Modifier - Earl Hebner
+%Credits: BigBossman
+$0042C28B 000000??
++Starting SP Superstar Points Modifier - Eddie Guerrero
+%Credits: BigBossman
+$0042C290 000000??
++Starting SP Superstar Points Modifier - Edge
+%Credits: BigBossman
+$0042C262 000000??
++Starting SP Superstar Points Modifier - Faarooq
+%Credits: BigBossman
+$0042C26F 000000??
++Starting SP Superstar Points Modifier - Goldust
+%Credits: BigBossman
+$0042C29A 000000??
++Starting SP Superstar Points Modifier - Hardcore Holly
+%Credits: BigBossman
+$0042C297 000000??
++Starting SP Superstar Points Modifier - Hollywood Hulk Hogan
+%Credits: BigBossman
+$0042C278 000000??
++Starting SP Superstar Points Modifier - Ivory
+%Credits: BigBossman
+$0042C294 000000??
++Starting SP Superstar Points Modifier - Jazz
+%Credits: BigBossman
+$0042C289 000000??
++Starting SP Superstar Points Modifier - Jeff Hardy
+%Credits: BigBossman
+$0042C265 000000??
++Starting SP Superstar Points Modifier - Jerry Lawler
+%Credits: BigBossman
+$0042C28D 000000??
++Starting SP Superstar Points Modifier - Jim Ross
+%Credits: BigBossman
+$0042C28C 000000??
++Starting SP Superstar Points Modifier - Kane
+%Credits: BigBossman
+$0042C25F 000000??
++Starting SP Superstar Points Modifier - Kevin Nash
+%Credits: BigBossman
+$0042C279 000000??
++Starting SP Superstar Points Modifier - Kurt Angle
+%Credits: BigBossman
+$0042C25D 000000??
++Starting SP Superstar Points Modifier - Lance Storm
+%Credits: BigBossman
+$0042C26A 000000??
++Starting SP Superstar Points Modifier - Linda Mcmahon
+%Credits: BigBossman
+$0042C28F 000000??
++Starting SP Superstar Points Modifier - Lita
+%Credits: BigBossman
+$0042C266 000000??
++Starting SP Superstar Points Modifier - Mark Henry
+%Credits: BigBossman
+$0042C293 000000??
++Starting SP Superstar Points Modifier - Matt Hardy
+%Credits: BigBossman
+$0042C264 000000??
++Starting SP Superstar Points Modifier - Maven
+%Credits: BigBossman
+$0042C287 000000??
++Starting SP Superstar Points Modifier - Michael Cole
+%Credits: BigBossman
+$0042C28A 000000??
++Starting SP Superstar Points Modifier - Molly Holly
+%Credits: BigBossman
+$0042C281 000000??
++Starting SP Superstar Points Modifier - Randy Orton
+%Credits: BigBossman
+$0042C295 000000??
++Starting SP Superstar Points Modifier - Raven
+%Credits: BigBossman
+$0042C286 000000??
++Starting SP Superstar Points Modifier - Rhyno
+%Credits: BigBossman
+$0042C285 000000??
++Starting SP Superstar Points Modifier - Ric Flair
+%Credits: BigBossman
+$0042C276 000000??
++Starting SP Superstar Points Modifier - Rico
+%Credits: BigBossman
+$0042C27A 000000??
++Starting SP Superstar Points Modifier - Rikishi
+%Credits: BigBossman
+$0042C275 000000??
++Starting SP Superstar Points Modifier - Rob Van Dam
+%Credits: BigBossman
+$0042C25C 000000??
++Starting SP Superstar Points Modifier - Scotty 2 Hotty
+%Credits: BigBossman
+$0042C27E 000000??
++Starting SP Superstar Points Modifier - Shawn Michaels
+%Credits: BigBossman
+$0042C299 000000??
++Starting SP Superstar Points Modifier - Shawn Stasiak
+%Credits: BigBossman
+$0042C298 000000??
++Starting SP Superstar Points Modifier - Spike Dudley
+%Credits: BigBossman
+$0042C283 000000??
++Starting SP Superstar Points Modifier - Stacy Keibler
+%Credits: BigBossman
+$0042C277 000000??
++Starting SP Superstar Points Modifier - Stephanie Mcmahon
+%Credits: BigBossman
+$0042C26C 000000??
++Starting SP Superstar Points Modifier - Steve Austin
+%Credits: BigBossman
+$0042C259 000000??
++Starting SP Superstar Points Modifier - Tajiri
+%Credits: BigBossman
+$0042C274 000000??
++Starting SP Superstar Points Modifier - Tazz
+%Credits: BigBossman
+$0042C27F 000000??
++Starting SP Superstar Points Modifier - Test
+%Credits: BigBossman
+$0042C271 000000??
++Starting SP Superstar Points Modifier - The Big Valbowski
+%Credits: BigBossman
+$0042C296 000000??
++Starting SP Superstar Points Modifier - The Hurricane
+%Credits: BigBossman
+$0042C280 000000??
++Starting SP Superstar Points Modifier - The Rock
+%Credits: BigBossman
+$0042C258 000000??
++Starting SP Superstar Points Modifier - Torrie Wilson
+%Credits: BigBossman
+$0042C282 000000??
++Starting SP Superstar Points Modifier - Triple H
+%Credits: BigBossman
+$0042C25A 000000??
++Starting SP Superstar Points Modifier - Trish Stratus
+%Credits: BigBossman
+$0042C273 000000??
++Starting SP Superstar Points Modifier - Undertaker
+%Credits: BigBossman
+$0042C25B 000000??
++Starting SP Superstar Points Modifier - Vince Mcmahon
+%Credits: BigBossman
+$0042C26D 000000??
++Starting SP Superstar Points Modifier - William Regal
+%Credits: BigBossman
+$0042C269 000000??
++Starting SP Superstar Points Modifier - X-Pac
+%Credits: BigBossman
+$0042C288 000000??
+!!
+!Special Codes:
++Infinite Specials (P1)
+%Credits: InterAct
+$D03CDD90 00100000
+$2078ACCC 00000005
++Infinite Specials (P2)
+%Credits: InterAct
+$D03CDD90 00100000
+$207F2CCC 00000005
++Infinite Specials (P5)
+%Credits: InterAct
+$D03CDD90 00100000
+$2092ACCC 00000005
++Infinite Specials (P6)
+%Credits: InterAct
+$D03CDD90 00100000
+$2097CCCC 00000005
++No Specials (P1)
+%Credits: InterAct
+$D03CDD90 00100000
+$2078ACCC 00000000
++No Specials (P2)
+%Credits: InterAct
+$D03CDD90 00100000
+$207F2CCC 00000000
++No Specials (P5)
+%Credits: InterAct
+$D03CDD90 00100000
+$2092ACCC 00000000
++No Specials (P6)
+%Credits: InterAct
+$D03CDD90 00100000
+$2097CCCC 00000000
+!!
++Unlock Everything
+%Credits: InterAct
+$2042CCA8 FFFFFFFF
+$2042CCAC FFFFFFFF
+$2042CCB0 FFFFFFFF
+$0043076A 000000FF
+!Upper Left P1 Codes:
++Can Hold 0 Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$2078ACD0 00000000
++Can Hold 5 Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$2078ACD0 00000005
++Quick Special Gain
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E0020000 103CDD90
+$D078ACD4 00200063
+$2078ACD4 00000063
+!!
+!Upper Lower Left P5 Codes:
++Can Hold 0 Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$2092ACD0 00000000
++Can Hold 5 Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$2092ACD0 00000005
++Quick Special Gain
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E0020000 103CDD90
+$D092ACD4 00200063
+$2092ACD4 00000063
+!!
+!Upper Lower Right P6 Codes:
++Can Hold 0 Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$2097CCD0 00000000
++Can Hold 5 Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$2097CCD0 00000005
++Quick Special Gain
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E0020000 103CDD90
+$D097CCD4 00200063
+$2097CCD4 00000063
+!!
+!Upper Right P2 Codes:
++Can Hold 0 Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$207F2CD0 00000000
++Can Hold 5 Specials
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$D03CDD90 00100000
+$207F2CD0 00000005
++Quick Special Gain
+%Credits: Code Master>Nick Hammond>dc_night_ryder>the5staranklelock
+$E0020000 103CDD90
+$D07F2CD4 00200063
+$207F2CD4 00000063
+!!
+!!
+

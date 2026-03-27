@@ -1,0 +1,36 @@
+^2 = GameID: BLES01705
+^3 = NAME: BioShock Infinite
+^5 = APCRED: From zeick
+(BLES01705*\)
+^4 = FILE: PAYLOAD
++Decompress Save (required)
+$Decompress(*, 15)
+^4 = FILE: ~extracted\*.dat
++Money $9999
+$search 0xC12581B2
+$write next (4):0000270F
++Lockpicks 30
+$search 0xC12581B2
+$write next (34):001E
++Red:info:cheats Below May Stop Story Trophies
++Money 90000
+$search 0xC12581B2
+$write next (4):00015F90
++Lockpicks $900
+$search 0xC12581B2
+$write next (34):0384
+(From Keha World)
++Silver Eagle 99999 *uses For Extracted Files List 1
+$search C12581B2
+$write next 4: 0001869F
+(*You must have at least one Silver Eagle)
++Lockpick 999 *uses For Extracted Files List 1
+$search C12581B2
+$write next 34: 000003E7
+(*You must have at least one Lockpick)
++Infinity Health (normal Mode) *uses For Extracted Files List 1
+$search C12581B2
+$write next 97: 7FFFFF7FFFFF
+^4 = FILE: PAYLOAD
++Compress Save (required)
+$Compress(*)

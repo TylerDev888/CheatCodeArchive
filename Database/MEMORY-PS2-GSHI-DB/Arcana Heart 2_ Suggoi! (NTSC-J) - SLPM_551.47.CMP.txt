@@ -1,0 +1,109 @@
+^3 = NAME: Arcana Heart 2: Suggoi! (NTSC-J)
+^2 = GameID: SLPM-55147
+!Master Codes:
++Enable Code
+%Credits: Skiller
+$90116918 0C0459EE
++Enable Code (Alternate)
+%Credits: BigBossman
+$9010FAE8 0C0493E2
++Enable Code (Alternate)
+%Credits: BigBossman
+$901B7410 0C0B6804
+!!
++P1 Arcana Mod[MOD1]
+%Credits: lee4
+$00794238 000000??
++P1 Character Mod[MOD2]
+%Credits: lee4
+$00794220 000000??
++P1 Inf Homing
+%Credits: lee4
+$10795F00 00001068
+$10795F04 00001068
+$10795F08 00001068
++P1 Inf HP
+%Credits: lee4
+$1079614C 00007000
+$10796150 00007000
++P1 Inf Super
+%Credits: lee4
+$20795EFC 00026000
++P1 No HP (P2 Press Select)
+%Credits: lee4
+$D09F511C 0000FFFE
+$1079614C 00000000
++P2 Arcana Mod[MOD1]
+%Credits: lee4
+$0079423C 000000??
++P2 Character Mod[MOD2]
+%Credits: lee4
+$00794224 000000??
++P2 Inf Homing
+%Credits: lee4
+$10797FD4 00001068
+$10797FD8 00001068
+$10797FDC 00001068
++P2 Inf HP
+%Credits: lee4
+$10798220 00007000
+$10798224 00007000
++P2 Inf Super
+%Credits: lee4
+$20797FD0 00026000
++P2 No HP (P1 Press Select)
+%Credits: lee4
+^6 = MODS:
+[MOD1]
+00	Partinias, Arcana of Love
+01	Bhanri, Arcana of Thunder
+02	Anutpada, Arcana of Time
+03	Moriomoto, Arcana of Wood
+04	Ohtsuchi, Arcana of Earth
+05	Lang-gong, Arcana of Fire
+06	Gier, Arcana of Darkness
+07	Tempestas, Arcana of Wind
+08	Dieu mort, Arcana of Evil
+09	Niptra, Arcana of Water
+0A	Oreichalkos
+0B	Mildred Avallone
+0c	Zilrael (Unicorn)
+0d	Almacia (ice)
+0e	Angelia Avallone
+0f	Koshmar
+10	Sorwat
+11	Medain
+12	Heliogabalus
+13	Boss
+14	Fenecs (Sound)
+15	Kayatsu-Hime (Flower)
+16	Parace L'sia (Life)
+[/MOD1]
+[MOD2]
+00	Heart Aino
+01	Saki Tsuzura
+02	Kamui Tokinomiya
+03	Konoha
+04	Maori Kasuga
+05	Mei-Fang
+06	Lilica Felchenerow
+07	Lieselotte Achenbach
+08	Yoriko Yasuzumi
+09	Kira Daidohji
+0a	Fiona Mayfield
+0b	Mildred Avallone
+0c	Petra Johanna Lagerkvist
+0d	Zenia Valov
+0e	Angelia Avallone
+0f	Elsa La Conti
+10	Clarice Di Lanza
+11	Catherine Kyohbashi
+12	Dorothy Albright
+13	Boss
+14	Akane Inuwaka
+15	Nazuna Inuwaka
+16	Parace L'Sia.
+[/MOD2]
+$D09F501C 0000FFFE
+$10798220 00000000
+

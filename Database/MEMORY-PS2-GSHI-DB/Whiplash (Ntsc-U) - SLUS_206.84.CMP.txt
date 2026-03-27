@@ -1,0 +1,146 @@
+^3 = NAME: Whiplash (Ntsc-U)
+^2 = GameID: SLUS-20684
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F03548BC 003548BF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 003548BF
+!!
+!Have Abilities & Powerups Codes:
++Air Smash
+%Credits: Code Master
+$20868C60 00000002
++All Abilities & Powerups
+%Credits: Code Master
+$40868C44 00090001
+$00000002 00000000
++Chain Charge
+%Credits: Code Master
+$20868C5C 00000002
++Continuous Sweep
+%Credits: Code Master
+$20868C4C 00000002
++Glide
+%Credits: Code Master
+$20868C44 00000002
++High Voltage Grapple
+%Credits: Code Master
+$20868C48 00000002
++Hyper Dash
+%Credits: Code Master
+$20868C58 00000002
++Juggle Finish
+%Credits: Code Master
+$20868C54 00000002
++Level Maps
+%Credits: Code Master
+$20868C64 00000002
++Sweep Finish
+%Credits: Code Master
+$20868C50 00000002
+!!
++Infinite Health
+%Credits: Codejunkies
+$20868DE8 44000000
++Infinite Health (Spanx)
+%Credits: Code Master
+$20868DE8 42DC0000
++Infinite Hypersnacks Reserve Points
+%Credits: Code Master
+$20868C7C 461C3C00
++Infinite Running
+%Credits: Code Master
+$20868E70 40C00000
++Infinite: Health
+%Credits: MadCatz
+$201723A0 E4410000
++Infinite: Keys
+%Credits: MadCatz
+$10868DEC 00000063
++Infinite: Robomice
+%Credits: MadCatz
+$00868E7C 00000009
++Infinite: Scurry
+%Credits: MadCatz
+$201289D8 00000000
++Max Animals Collected
+%Credits: MadCatz
+$10864820 00000063
++Max Health
+%Credits: Codejunkies
+$20868DE4 44000000
++Max Health (Spanx)
+%Credits: Code Master
+$20868DE4 42DC0000
++Max Level-Redmond {<I>Abilities</I>}
+%Credits: Codejunkies
+$20868C8C 00000063
++Max Level-Spanx
+%Credits: Codejunkies
+$20868C84 00000063
++Max Mice Collected
+%Credits: Code Master
+$20868E78 00000035
++Max Power
+%Credits: Codejunkies
+$20868C04 44000000
++Max Power (Redmond)
+%Credits: Code Master
+$20868C04 41F00000
++Max Robo Mice
+%Credits: Code Master
+$20868E7C 00000063
++P1 Press X For Huge Jump
+%Credits: Code Master
+$200C0220 3C010057
+$200C0224 94215902
+$200C0228 30214000
+$200C022C 14200002
+$200C0230 3C014400
+$200C0234 AC410018
+$200C0238 C4400018
+$200C023C 03E00008
+$200C0240 46000834
+$20171E9C 0C030088
++P1 Press X For Super Jump
+%Credits: Code Master
+$200C0220 3C010057
+$200C0224 94215902
+$200C0228 30214000
+$200C022C 14200002
+$200C0230 3C014440
+$200C0234 AC410018
+$200C0238 C4400018
+$200C023C 03E00008
+$200C0240 46000834
+$20171E9C 0C030088
++P1 Press X For Ultra Jump
+%Credits: Code Master
+$200C0220 3C010057
+$200C0224 94215902
+$200C0228 30214000
+$200C022C 14200002
+$200C0230 3C014480
+$200C0234 AC410018
+$200C0238 C4400018
+$200C023C 03E00008
+$200C0240 46000834
+$20171E9C 0C030088
++Redmond-Level 20
+%Credits: Code Master
+$20868C88 45898000
+$20868C8C 00000014
++Redmond: Max Level
+%Credits: MadCatz
+$00868C8C 0000000F
++Spanx-Level 20
+%Credits: Code Master
+$20868C80 45898000
+$20868C84 00000014
++Spanx: Max Level
+%Credits: MadCatz
+$00868C84 0000000F
+!!
+

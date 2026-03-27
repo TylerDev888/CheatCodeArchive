@@ -1,0 +1,373 @@
+^3 = NAME: Spider-Man 2 (Pal-Unk)
+^2 = GameID: SLES-52493
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F03F1244 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$90100198 0C166F34
+$90579D28 0C162E8B
++(M) Must Be On
+%Credits: Codejunkies
+$90100198 0C166F74
+$90579E48 0C162ED3
+!!
+!Combat Upgrades:
++Air Jump Off Kick
+%Credits: Codejunkies
+$20A5FB64 3F800000
++Air Pile Driver
+%Credits: Codejunkies
+$20A5FC00 3F800000
++Air Web Slam
+%Credits: Codejunkies
+$20A5FC3C 3F800000
++Cannonball Kick
+%Credits: Codejunkies
+$20A5FB70 3F800000
++Dizzy Strike
+%Credits: Codejunkies
+$20A5FBB8 3F800000
++Double Heel Kick
+%Credits: Codejunkies
+$20A5FC0C 3F800000
++Earth Breaker Punch
+%Credits: Codejunkies
+$20A5FB94 3F800000
++Freeze Challenge Timer (Press R1+L2 To Activate, R2+L2 To Stop)
+%Credits: Codejunkies
+$D0608482 0000F6FF
+$20378170 24020000
+$D0608482 0000FCFF
+$20378170 82220045
++Grapple
+%Credits: Codejunkies
+$20A5FB40 3F800000
++Infinite Spider Reflexes Use
+%Credits: Codejunkies
+$202B0C1C 00000000
++Interceptor Kick
+%Credits: Codejunkies
+$20A5FBDC 3F800000
++Jaw Launcher
+%Credits: Codejunkies
+$20A5FBF4 3F800000
++Launch Kick
+%Credits: Codejunkies
+$20A5FBAC 3F800000
++Level 3 Air Combo
+%Credits: Codejunkies
+$20A5FBA0 3F800000
++Level 4 Air Combo
+%Credits: Codejunkies
+$20A5FBE8 3F800000
++Max Hero Points (After Getting Some)
+%Credits: Codejunkies
+$2043EDA8 3C0605F1
++Max Trap Webs
+%Credits: Codejunkies
+$20A5FD74 40800000
++Moon Gravity (Press L3 To Activate, R3 To Stop)
+%Credits: Codejunkies
+$D0608482 0000FFFD
+$205E5824 3F800000
+$D0608482 0000FFFB
+$205E5824 41CCCCCD
++Multi Web Hammer
+%Credits: Codejunkies
+$20A5FBC4 3F800000
++Rising Knee Kick
+%Credits: Codejunkies
+$20A5FB7C 3F800000
++Rising Shoulder Charge
+%Credits: Codejunkies
+$20A5FC30 3F800000
++Spider Missile
+%Credits: Codejunkies
+$20A5FC48 3F800000
++Stair Step Kicks Combo
+%Credits: Codejunkies
+$20A5FC18 3F800000
++Super Web
+%Credits: Codejunkies
+$20A5FC60 3F800000
++The Hero Punch
+%Credits: Codejunkies
+$20A5FBD0 3F800000
++Web Hanger
+%Credits: Codejunkies
+$20A5FC54 3F800000
++Whirlwind Kick
+%Credits: Codejunkies
+$20A5FC24 3F800000
++Yank Behind
+%Credits: Codejunkies
+$20A5FB88 3F800000
++Freeze Challenge Timer (Press R1+L2 To Activate, R2+L2 To Stop)
+%Credits: Codejunkies
+$D0608382 0000F6FF
+$203781B4 24020000
+$D0608382 0000FCFF
+$203781B4 82220045
++Max Hero Points (After Getting Some)
+%Credits: Codejunkies
+$2043EDF8 3C0605F1
++Moon Gravity (Press L3 To Activate, R3 To Stop)
+%Credits: Codejunkies
+$D0608382 0000FFFD
+$205E5724 3F800000
+$D0608382 0000FFFB
+$205E5724 41CCCCCD
+!!
+!Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$20B31B98 00000200
++Max/Infinite Health
+%Credits: Codejunkies
+$20B31B98 000003E8
+$20B31BA0 000003E8
+!!
+!Locomotion Upgrades:
++Max Swing Speed
+%Credits: Codejunkies
+$20A5FDBC 41000000
++Slingshot Jump
+%Credits: Codejunkies
+$20A5FB34 3F800000
++Web Zip
+%Credits: Codejunkies
+$20A5FE24 3F800000
+!!
+!Screen Fix Codes:
++X & Y Fix
+%Credits: Codejunkies
+$200FFF00 3C010003
+$200FFF04 0081202F
+$200FFF08 01A1682F
+$200FFF0C 24010060
+$200FFF10 0081202D
+$200FFF14 01A1682D
+$200FFF18 FCE40000
+$200FFF1C 0814118D
+$2050462C 0803FFC0
++X Fix
+%Credits: Codejunkies
+$200FFF00 24010060
+$200FFF04 0081202D
+$200FFF08 01A1682D
+$200FFF0C FCE40000
+$200FFF10 0814118D
+$2050462C 0803FFC0
++Y Fix
+%Credits: Codejunkies
+$200FFF00 3C010003
+$200FFF04 0081202F
+$200FFF08 01A1682F
+$200FFF0C FCE40000
+$200FFF10 0814118D
+$2050462C 0803FFC0
++X & Y Fix
+%Credits: Codejunkies
+$200FFF00 3C010003
+$200FFF04 0081202F
+$200FFF08 01A1682F
+$200FFF0C 24010060
+$200FFF10 0081202D
+$200FFF14 01A1682D
+$200FFF18 FCE40000
+$200FFF1C 081411D5
+$20504750 0803FFC0
++X Fix
+%Credits: Codejunkies
+$200FFF00 24010060
+$200FFF04 0081202D
+$200FFF08 01A1682D
+$200FFF0C FCE40000
+$200FFF10 081411D5
+$20504750 0803FFC0
++Y Fix
+%Credits: Codejunkies
+$200FFF00 3C010003
+$200FFF04 0081202F
+$200FFF08 01A1682F
+$200FFF0C FCE40000
+$200FFF10 081411D5
+$20504750 0803FFC0
+!!
+!Unlock Levels & Most FMVs; Production Art & Costumes:
++Attaque Toile
+%Credits: Codejunkies
+$1194A04C 00000001
++Attaque Toile Basse
+%Credits: Codejunkies
+$1194A07C 00000001
++Attaque Tolie H
+%Credits: Codejunkies
+$1194A05C 00000001
++Bombe Plong
+%Credits: Codejunkies
+$1194A060 00000001
++Ciseaux
+%Credits: Codejunkies
+$1194A084 00000001
++Coup De Marteau
+%Credits: Codejunkies
+$1194A064 00000001
++Coup De Pied Retourne
+%Credits: Codejunkies
+$1194A078 00000001
++Dard
+%Credits: Codejunkies
+$1194A054 00000001
++Easy Setting
+%Credits: Codejunkies
+$11949FD0 00000019
++Hero Setting
+%Credits: Codejunkies
+$11949FD8 00000019
++Lacher Fatal
+%Credits: Codejunkies
+$1194A088 00000001
++Normal Setting
+%Credits: Codejunkies
+$11949FD4 00000019
++Paume
+%Credits: Codejunkies
+$1194A058 00000001
++Pied Arriere Retourne
+%Credits: Codejunkies
+$1194A050 00000001
++Pied Plongeant
+%Credits: Codejunkies
+$1194A068 00000001
++Placage
+%Credits: Codejunkies
+$1194A090 00000001
++Poing Fatal
+%Credits: Codejunkies
+$1194A098 00000001
++Saut De L'ange
+%Credits: Codejunkies
+$1194A048 00000001
++Saut De Mains
+%Credits: Codejunkies
+$1194A094 00000001
++Super Hero Setting
+%Credits: Codejunkies
+$11949FDC 00000019
++Transformation
+%Credits: Codejunkies
+$1194A044 00000001
++Uppercut
+%Credits: Codejunkies
+$1194A074 00000001
++X2 Adv Dome De Toile
+%Credits: Codejunkies
+$1194A0A8 00000001
++X2 Adv Impact Web
+%Credits: Codejunkies
+$1194A0B8 00000001
++X2 Adv Poing De Toile
+%Credits: Codejunkies
+$1194A0B0 00000001
+!!
++60 Hertz Mode
+%Credits: Codejunkies
+$20578768 24120002
++60 Hertz Mode
+%Credits: Codejunkies
+$20578888 24120002
++Big Head Enemies
+%Credits: Codejunkies
+$0194A340 00000001
++Big Head Spidey
+%Credits: Codejunkies
+$0194A348 00000001
++Display FPS
+%Credits: Codejunkies
+$20395380 00000000
++Display Hero Position
+%Credits: Codejunkies
+$203952B4 00000000
++Display Style Points
+%Credits: Codejunkies
+$2194A258 00000001
++FPS Cam
+%Credits: Codejunkies
+$0194A34C 00000001
++God Mode
+%Credits: Codejunkies
+$00509018 00000001
++Infinite Web
+%Credits: Codejunkies
+$1194A32C 00000001
++Matrix Attacks
+%Credits: Codejunkies
+$0194A33C 00000001
++Play As A.Ross
+%Credits: Codejunkies
+$1194A300 00000001
++Play As Cpt Stacey
+%Credits: Codejunkies
+$1194A320 00000001
++Play As Green Goblin
+%Credits: Codejunkies
+$1194A304 00000001
++Play As Maryjane
+%Credits: Codejunkies
+$1194A308 00000001
++Play As Matrix Guy
+%Credits: Codejunkies
+$1194A324 00000001
++Play As Peter Parker
+%Credits: Codejunkies
+$1194A2F8 00000001
++Play As Police Officer
+%Credits: Codejunkies
+$1194A328 00000001
++Play As Scientist
+%Credits: Codejunkies
+$1194A310 00000001
++Play As The Shocker
+%Credits: Codejunkies
+$1194A30C 00000001
++Play As Thug A
+%Credits: Codejunkies
+$1194A314 00000001
++Play As Thug B
+%Credits: Codejunkies
+$1194A318 00000001
++Play As Thug C
+%Credits: Codejunkies
+$1194A31C 00000001
++Play With Wrestling Cost
+%Credits: Codejunkies
+$1194A2FC 00000001
++Skip Fmvs
+%Credits: Codejunkies
+$202D9ADC 00000000
++Small Spidey
+%Credits: Codejunkies
+$0194A344 00000001
++Unlock All Moves
+%Credits: Codejunkies
+$1194A330 00000001
++Unlock Fmvs - Movie Art
+%Credits: Codejunkies
+$2194A338 00000001
++Unlock Pinhead Bowling
+%Credits: Codejunkies
+$1194A2EC 00000001
++Unlock Shocker FMV
+%Credits: Codejunkies
+$1194A2F4 00000001
++Unlock Skip Level Option
+%Credits: Codejunkies
+$2194A334 00000001
++Unlock Vulture FMV
+%Credits: Codejunkies
+$1194A2F0 00000001
+!!
+

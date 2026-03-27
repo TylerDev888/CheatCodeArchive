@@ -1,0 +1,304 @@
+^1 = HASH: D6 FD 4A 63 47 45 7E 6C C5 ED 3C 96 41 6F 48 6A 5A 5B 24 4B
+^2 = GameID: SLUS_209.34
+^3 = NAME: Tekken's Nina Williams in: Death By Degrees
+!Masters:
++Enable Code (MUST BE ON)
+$901174A4 0C048BBC
+$200C2034 03E00008
+$200C2038 3C024120
+$2012E16C 0C030800
+!!
+!Misc Codes:
++Quick EXP Gain
+$D0535F10 00006900
+$10ED693C 0000270F
++Max Skill Points
+$D0535F10 00006900
+$20ED6940 000F423F
++Disable Fmv
+$20109C80 8C620000
+$D056DBC2 0000FFF7
+$20109C80 24020001
++Infinite Health
+$200C2000 8C610000
+$200C2004 AC610004
++Infinite Focus
+$200C2008 8C610008
+$200C200C AC61000C
++Infinite Air
+$200C2010 8C610010
+$200C2014 AC610014
++Infinite Max HP
+$E0026900 00535F10
+$20ED691C 00000F00
+$20ED6920 00000F00
++Infinite Max Focus
+$E0026900 00535F10
+$20ED6924 00000B40
+$20ED6928 00000B40
++Infinite Max Air
+$E0026900 00535F10
+$20ED692C 00000B40
+$20ED6930 00000B40
++1-Hit Death (enemies And Partner)
+$2015DD04 3402C350
+!!
+!End Results Codes:
++Max Total Points
+$D0535F10 00006900
+$20ED6944 000F423F
++Max Combo
+$D0535F10 00006900
+$10ED6948 000003E7
++Always 1st Save
+$2042E388 24020001
++Always Low Game Time
+$D0535F10 00006900
+$20ED6904 00000000
++Difficulty Level
+$D0535F10 00006900
+$00ED6908 000000[DL]
++Number Times Played
+$D0535F10 00006900
+$00ED6909 000000[NT]
++No Continues
+$D0535F10 00006900
+$10ED690A 00000000
+!!
+!Unlock Codes (save & Turn Off):
++Unlock All Movies
+$105AD3A4 0000FFFF
++Unlock All Pictures
+$205AD3A8 FFFFFFFF
++Unlock All Main Menu Items
+$105AD3AC 0000FFFF
+!!
+!Mini-Game Codes:
++Always Low Mission Timer
+$20465D58 00000000
+!!
+!Challenge Codes:
++Infinite Time
+$203EC010 00000000
+$203EC2D0 00000000
+!!
+!Sniper Codes:
++Infinite Health (sniper)
+$20253B54 8E8104D0
+$20253B58 AE8104D8
++Infinite Health (partner)
+$200C0220 24010064
+$200C0224 0808B2D4
+$200C0228 AC41095C
+$20253B8C 0C030088
++Never Reload/Infinite Ammo
+$20251B14 00000000
++Infinite Time (sniper)
+$20251144 00000000
+!!
+!Stingray Codes:
++Infinite Damage
+$202871C8 00000000
++Infinite Battery
+$20286324 00000000
++No Power No Problem (alt Battery Code)
+$20286328 00000000
++Get 1 Green Cyrstal Finish Level
+$20286EC0 8E422454
+!!
+!Item Codes:
++Have All Health Items
+$E0026900 00535F10
+$40ED6978 00060001
+$62626262 00000000
++Have All Key Items
+$E0026900 00535F10
+$00ED69A8 00000001
+$40ED6990 00060001
+$01010101 00000000
++Have Data Card (anna Game)
+$D0535F10 00006900
+$00ED69A9 00000062
++Have Defibrillator
+$D0535F10 00006900
+$00ED69B3 00000062
++Have Gold Coin
+$D0535F10 00006900
+$00ED69B4 00000062
++Have Garment Bag & All Costumes (nina Game)
+$E0046900 00535F10
+$00ED69AB 00000001
+$20ED69AC 01010101
+$10ED69B0 00000101
+$00ED69B2 00000001
++Have All Skills
+$E0036900 00535F10
+$00EDB5F4 00000001
+$40EDB5C4 000C0001
+$01010101 00000000
++Have All Finger Prints
+$E0036900 00535F10
+$10ED69EA 0000FFFF
+$40ED69EC 00030001
+$FFFFFFFF 00000000
++Have 8 Firearm Slots
+$D0535F10 00006900
+$20EDB4D0 00000008
++Have 8 Melee Weapon Slots
+$D0535F10 00006900
+$20EDB514 00000008
++Infinite-Ammo Firearm Slots
+$E0026900 00535F10
+$40EDB4D8 00080002
+$00[INF]00 00000000
++Infinite-Durability Melee Weapon Slots
+$E0026900 00535F10
+$40EDB51C 00080002
+$00[INF]00 00000000
+!!
+!Weapon Slot Modifier Codes
++Weapon Slot 1
+$D0535F10 00006900
+$00EDB4D4 000000[WM]
++Weapon Slot 2
+$D0535F10 00006900
+$00EDB4DC 000000[WM]
++Weapon Slot 3
+$D0535F10 00006900
+$00EDB4E4 000000[WM]
++Weapon Slot 4
+$D0535F10 00006900
+$00EDB4EC 000000[WM]
++Weapon Slot 5
+$D0535F10 00006900
+$00EDB4F4 000000[WM]
++Weapon Slot 6
+$D0535F10 00006900
+$00EDB4FC 000000[WM]
++Weapon Slot 7
+$D0535F10 00006900
+$00EDB504 000000[WM]
++Weapon Slot 8
+$D0535F10 00006900
+$00EDB50C 000000[WM]
+!!
+!Melee Weapon Slot Modifier Codes:
++Melee Weapon Slot 1
+$D0535F10 00006900
+$00EDB518 000000[MW]
++Melee Weapon Slot 2
+$D0535F10 00006900
+$00EDB520 000000[MW]
++Melee Weapon Slot 3
+$D0535F10 00006900
+$00EDB528 000000[MW]
++Melee Weapon Slot 4
+$D0535F10 00006900
+$00EDB530 000000[MW]
++Melee Weapon Slot 5
+$D0535F10 00006900
+$00EDB538 000000[MW]
++Melee Weapon Slot 6
+$D0535F10 00006900
+$00EDB540 000000[MW]
++Melee Weapon Slot 7
+$D0535F10 00006900
+$00EDB548 000000[MW]
++Melee Weapon Slot 8
+$D0535F10 00006900
+$00EDB550 000000[MW]
+!!
+^6 = MODS:
+[WM]
+Value>NAME
+00 = 9mm Handgun
+01 = 9mm 3rd Handgun
+02 = .44 Magnum
+03 = Stun Pistol
+04 = 9mm Sub-machinegun
+05 = 5.56mm Assault Rifle
+06 = 12-Gauge Shotgun
+07 = 40mm Grenade Launcher
+08 = Railgun
+09 = Hand Grenade
+0A = Stun Grenade
+0B = Suitcase Gun
+0C = 9mm Handgun+
+0D = 9mm 3rb Handgun+
+0E = .44 Magnum+
+0F = Stun Pistol+
+10 = 9mm Sub-machinegun+
+11 = 5.56mm Assault Rifle+
+12 = 12-Gauge Shotgun+
+13 = 40mm Grenade Launcher+
+14 = Railgun+
+15 = Hand Grenade+
+16 = Stun Grenade+
+17 = Suitcase Gun+
+18 = 9mm Handgun (Infinity)
+19 = 9mm 3rb Handgun (Infinity)
+1A = .44 Magnum (Infinity)
+1B = Stun Pistol (Infinity)
+1C = 9mm Sub-machinegun (Infinity)
+1D = 5.56mm Assault Rifle (Infinity)
+1E = 12-Gauge Shotgun (Infinity)
+1F = 40mm Grenade Launcher (Infinity)
+20 = Railgun (Infinity)
+21 = Hand Grenade (Infinity)
+22 = Stun Grenade (Infinity)
+23 = Suitcase Gun (Infinity)
+[/WM]
+[MW]
+Value>NAME
+00 = Katana
+01 = Dotanuki
+02 = Ripper Blade
+03 = Manji Sword
+04 = Tonfa
+05 = Stun Baton
+06 = Throwing Knife
+07 = Needle Knife
+08 = Kunai
+09 = Poison Ampule
+0A = Katana+
+0B = Dotanuki+
+0C = Ripper Blade+
+0D = Manji Sword+
+0E = Tonfa+
+0F = Stun Baton+
+10 = Throwing Knife+
+11 = Needle Knife+
+12 = Kunai+
+13 = Poison Ampule+
+14 = Katana (Infinity)
+15 = Dotanuki (Infinity)
+16 = Ripper Blade (Infinity)
+17 = Manji Sword (Infinity)
+18 = Tonfa (Infinity)
+19 = Stun Baton (Infinity)
+1A = Throwing Knife (Infinity)
+1B = Needle Knife (Infinity)
+1C = Kunai (Infinity)
+1D = Poison Ampule (Infinity)
+[/MW]
+[DL]
+Value>NAME
+00 = Beginner
+01 = Normal
+02 = Hard
+03 = Expert
+[/DL]
+[NT]
+Value>NAME
+01 = 1st Times
+02 = 2nd Times
+03 = 3rd Times
+[/NT]
+[INF]
+Value>NAME
+003 = Normal one hand
+083 = Normal two hands
+203 = Infinite one hand 
+283 = Infinite two hands
+[/INF]
+Hack By: Azagthoth, CMX, Datel, lee4, Skiller, Xploder

@@ -1,0 +1,85 @@
+^3 = NAME: Teenage Mutant Ninja Turtles - Mutant Melee (Pal-Unk)
+^2 = GameID: SLES-53127
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01958D0 001958D3
+!!
+!Player 1:
++Player 1 1 Hit Kill
+%Credits: Codejunkies
+$E0020002 3178E300
+$E0010000 3178E302
+$2178E300 00000001
++Player 1 Empty Special Meter
+%Credits: Codejunkies
+$2178E0BC 00000000
++Player 1 Full Special Meter
+%Credits: Codejunkies
+$2178E0BC 00000096
++Player 1 Infinite Health
+%Credits: Codejunkies
+$2178E300 000001C2
+!!
+!Player 2:
++Player 2 1 Hit Kill
+%Credits: Codejunkies
+$E0020002 3178FF00
+$E0010000 3178FF02
+$2178FF00 00000001
++Player 2 Empty Special Meter
+%Credits: Codejunkies
+$2178FCBC 00000000
++Player 2 Full Special Meter
+%Credits: Codejunkies
+$2178FCBC 00000096
++Player 2 Infinite Health
+%Credits: Codejunkies
+$2178FF00 000001C2
+!!
+!Player 3:
++Player 3 1 Hit Kill
+%Credits: Codejunkies
+$E0020002 31790460
+$E0010000 31790462
+$21790460 00000001
++Player 3 Empty Special Meter
+%Credits: Codejunkies
+$2179021C 00000000
++Player 3 Full Special Meter
+%Credits: Codejunkies
+$2179021C 00000096
++Player 3 Infinite Health
+%Credits: Codejunkies
+$21790460 000001C2
+!!
+!Player 4:
++Player 4 1 Hit Kill
+%Credits: Codejunkies
+$E0020002 317909C0
+$E0010000 317909C2
+$217909C0 00000001
++Player 4 Empty Special Meter
+%Credits: Codejunkies
+$2179077C 00000000
++Player 4 Full Special Meter
+%Credits: Codejunkies
+$2179077C 00000096
++Player 4 Infinite Health
+%Credits: Codejunkies
+$217909C0 000001C2
+!!
+!Timer Codes:
++L2 Sets Timer To 5 Minutes
+%Credits: Codejunkies
+$D044E002 0000FEFF
+$204B56A4 43960000
++Max Tokens
+%Credits: Codejunkies
+$2044BD34 0098967F
++R2 Sets Timer To 10 Seconds
+%Credits: Codejunkies
+$D044E002 0000FDFF
+$204B56A4 41200000
+!!
+

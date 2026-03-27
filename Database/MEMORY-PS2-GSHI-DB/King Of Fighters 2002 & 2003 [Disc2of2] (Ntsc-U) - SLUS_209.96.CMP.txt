@@ -1,0 +1,309 @@
+^3 = NAME: King Of Fighters 2002 & 2003 [Disc2of2] (Ntsc-U)
+^2 = GameID: SLUS-20996
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F010E2B4 0010E2B7
++Enable Code (Must Be On)
+%Credits: Code Master
+$9010E2B4 0C046424
++[M] Must Be On
+%Credits: MadCatz
+$9010E2C8 0C0434BA
+!!
+!Character 1:
++Infinite Health
+%Credits: Codejunkies
+$109D6F5C 00000070
++Infinite Health
+%Credits: Codejunkies
+$109D6B5C 00000070
++Low Health
+%Credits: Codejunkies
+$109D6F5C 00000001
++Low Health
+%Credits: Codejunkies
+$109D6B5C 00000001
++No Health
+%Credits: Codejunkies
+$109D6F5C 00000000
++No Health
+%Credits: Codejunkies
+$109D6B5C 00000000
+!!
+!Character 1 Codes:
++1-Hit Death
+%Credits: Code Master
+$D09D6F5C 00000070
+$109D6F5C 00000001
++1-Hit Death
+%Credits: Code Master
+$D09D6B5C 00000070
+$109D6B5C 00000001
++25% Health
+%Credits: Code Master
+$D09D6F5C 00000070
+$109D6F5C 0000001C
++25% Health
+%Credits: Code Master
+$D09D6B5C 00000070
+$109D6B5C 0000001C
++50% Health
+%Credits: Code Master
+$D09D6F5C 00000070
+$109D6F5C 00000038
++50% Health
+%Credits: Code Master
+$D09D6B5C 00000070
+$109D6B5C 00000038
++75% Health
+%Credits: Code Master
+$D09D6F5C 00000070
+$109D6F5C 00000054
++75% Health
+%Credits: Code Master
+$D09D6B5C 00000070
+$109D6B5C 00000054
++Have 1-Hit Kills
+%Credits: MadCatz
+$D09D6F5C 00300000
+$109D6F5C 00000001
++Have 1-Hit Kills
+%Credits: MadCatz
+$D09D6B5C 00300000
+$109D6B5C 00000001
+!!
+!Character 2:
++Infinite Health
+%Credits: Codejunkies
+$109D6E5C 00000070
++Infinite Health
+%Credits: Codejunkies
+$109D6A5C 00000070
++Low Health
+%Credits: Codejunkies
+$109D6E5C 00000001
++Low Health
+%Credits: Codejunkies
+$109D6A5C 00000001
++No Health
+%Credits: Codejunkies
+$109D6E5C 00000000
++No Health
+%Credits: Codejunkies
+$109D6A5C 00000000
+!!
+!Character 2 Codes:
++1-Hit Death
+%Credits: Code Master
+$D09D6E5C 00000070
+$109D6E5C 00000001
++1-Hit Death
+%Credits: Code Master
+$D09D6A5C 00000070
+$109D6A5C 00000001
++25% Health
+%Credits: Code Master
+$D09D6E5C 00000070
+$109D6E5C 0000001C
++25% Health
+%Credits: Code Master
+$D09D6A5C 00000070
+$109D6A5C 0000001C
++50% Health
+%Credits: Code Master
+$D09D6E5C 00000070
+$109D6E5C 00000038
++50% Health
+%Credits: Code Master
+$D09D6A5C 00000070
+$109D6A5C 00000038
++75% Health
+%Credits: Code Master
+$D09D6E5C 00000070
+$109D6E5C 00000054
++75% Health
+%Credits: Code Master
+$D09D6A5C 00000070
+$109D6A5C 00000054
++Have 1-Hit Kills
+%Credits: MadCatz
+$D09D6E5C 00300000
+$109D6E5C 00000001
++Have 1-Hit Kills
+%Credits: MadCatz
+$D09D6A5C 00300000
+$109D6A5C 00000001
+!!
+!Character 3:
++Infinite Health
+%Credits: Codejunkies
+$109D6D5C 00000070
++Infinite Health
+%Credits: Codejunkies
+$109D695C 00000070
++Low Health
+%Credits: Codejunkies
+$109D6D5C 00000001
++Low Health
+%Credits: Codejunkies
+$109D695C 00000001
++No Health
+%Credits: Codejunkies
+$109D6D5C 00000000
++No Health
+%Credits: Codejunkies
+$109D695C 00000000
+!!
+!Character 3 Codes:
++1-Hit Death
+%Credits: Code Master
+$D09D6D5C 00000070
+$109D6D5C 00000001
++1-Hit Death
+%Credits: Code Master
+$D09D695C 00000070
+$109D695C 00000001
++25% Health
+%Credits: Code Master
+$D09D6D5C 00000070
+$109D6D5C 0000001C
++25% Health
+%Credits: Code Master
+$D09D695C 00000070
+$109D695C 0000001C
++50% Health
+%Credits: Code Master
+$D09D6D5C 00000070
+$109D6D5C 00000038
++50% Health
+%Credits: Code Master
+$D09D695C 00000070
+$109D695C 00000038
++75% Health
+%Credits: Code Master
+$D09D6D5C 00000070
+$109D6D5C 00000054
++75% Health
+%Credits: Code Master
+$D09D695C 00000070
+$109D695C 00000054
++Have 1-Hit Kills
+%Credits: MadCatz
+$D09D6D5C 00300000
+$109D6D5C 00000001
++Have 1-Hit Kills
+%Credits: MadCatz
+$D09D695C 00300000
+$109D695C 00000001
++Unlock All Gallery
+%Credits: MadCatz
+$209EDA10 FFFFFFFF
+$209EDA14 FFFFFFFF
+!!
+!P1 Codes:
++Always Level 0 Power Gauge
+%Credits: Code Master
+$009D7044 00000000
++Always Level 1 Power Gauge
+%Credits: Code Master
+$009D7044 00000001
++Always Level 2 Power Gauge
+%Credits: Code Master
+$009D7044 00000002
++Always Level 3 Power Gauge
+%Credits: Code Master
+$009D7044 00000003
++Always Level 4 Power Gauge
+%Credits: Code Master
+$009D7044 00000004
++Always Level 5 Power Gauge
+%Credits: Code Master
+$009D7044 00000005
++Max Score
+%Credits: Code Master
+$209D68A0 99999999
++No Power Gauge Gaining
+%Credits: Code Master
+$009D7041 00000000
++Quick Power Gauge Gaining
+%Credits: Code Master
+$009D7041 00000048
++Quick Score Gain
+%Credits: Code Master
+$109D68A2 00009999
+!!
+!P2 Codes:
++Always Level 0 Power Gauge
+%Credits: Code Master
+$009D6C44 00000000
++Always Level 1 Power Gauge
+%Credits: Code Master
+$009D6C44 00000001
++Always Level 2 Power Gauge
+%Credits: Code Master
+$009D6C44 00000002
++Always Level 3 Power Gauge
+%Credits: Code Master
+$009D6C44 00000003
++Always Level 4 Power Gauge
+%Credits: Code Master
+$009D6C44 00000004
++Always Level 5 Power Gauge
+%Credits: Code Master
+$009D6C44 00000005
++Max Score
+%Credits: Code Master
+$209D6898 99999999
++No Power Gauge Gaining
+%Credits: Code Master
+$009D6C41 00000000
++Quick Power Gauge Gaining
+%Credits: Code Master
+$009D6C41 00000048
++Quick Score Gain
+%Credits: Code Master
+$109D689A 00009999
+!!
+!Player 1 Codes:
++Infinite Power Gauge
+%Credits: MadCatz
+$109D7040 0000FFFF
++Max Power Gauge Level
+%Credits: MadCatz
+$109D7044 00000005
++No Power Gauge
+%Credits: MadCatz
+$109D7040 00000000
++No Power Gauge Level
+%Credits: MadCatz
+$109D7044 00000000
+!!
+!Player 2 Codes:
++Infinite Power Gauge
+%Credits: MadCatz
+$109D6C40 0000FFFF
++Max Power Gauge Level
+%Credits: MadCatz
+$109D6C44 00000005
++No Power Gauge
+%Credits: MadCatz
+$109D6C40 00000000
++No Power Gauge Level
+%Credits: MadCatz
+$109D6C44 00000000
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Hit Anywhere (Both Players)
+%Credits: Code Master
+$202AABCC 00000000
++Infinite Time
+%Credits: Code Master
+$009E5808 00000099
++Unlock All Art Gallery
+%Credits: Code Master
+$209EDA10 FFFFFFFF
+$009EDA14 FFFFFFFF
+!!
+!!
+

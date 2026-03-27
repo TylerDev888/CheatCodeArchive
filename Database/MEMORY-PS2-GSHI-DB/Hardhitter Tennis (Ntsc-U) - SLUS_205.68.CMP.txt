@@ -1,0 +1,105 @@
+^3 = NAME: Hardhitter Tennis (Ntsc-U)
+^2 = GameID: SLUS-20568
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0131B10 002AF867
++(M) Must Be On
+%Credits: Codejunkies
+$F02AF864 002AF867
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002AF867
+!!
+!Alphabet Codes:
++Max Score
+%Credits: Codejunkies
+$103912F4 0000FFFF
++More Balls (Press Select To Activate)
+%Credits: Codejunkies
+$D0317202 0000FFFE
+$10390FF8 00000020
++P1 0 Points
+%Credits: Codejunkies
+$1037C718 00000000
+$1037C720 00000000
++P1 7 Points
+%Credits: Codejunkies
+$1037C718 00000007
+$1037C720 00000007
++P2 0 Points
+%Credits: Codejunkies
+$1037C71C 00000000
+$1037C724 00000000
++P2 7 Points
+%Credits: Codejunkies
+$1037C71C 00000007
+$1037C724 00000007
+!!
+!Alphabet Tennis Mini Game Codes:
++Max Score
+%Credits: Code Master
+$203912F4 0001869F
++P1 Press Select For More Balls
+%Credits: Code Master
+$D03172C2 0000FFFE
+$20390FF8 0000001E
+!!
++P1 Never Scores
+%Credits: Code Master
+$2037C718 00000000
++P1 Start With 15 Points
+%Credits: Code Master
+$D037C718 00000000
+$2037C718 00000001
++P1 Start With 30 Points
+%Credits: Code Master
+$D037C718 00000000
+$2037C718 00000002
++P1 Start With 40 Points
+%Credits: Code Master
+$D037C718 00000000
+$2037C718 00000003
++P1 Start With Win Modifier (01-09)
+%Credits: Code Master
+$D037C720 00000000
+$2037C720 000000??
++P2 Never Scores
+%Credits: Code Master
+$2037C71C 00000000
++P2 Start With 15 Points
+%Credits: Code Master
+$D037C71C 00000000
+$2037C71C 00000001
++P2 Start With 30 Points
+%Credits: Code Master
+$D037C71C 00000000
+$2037C71C 00000002
++P2 Start With 40 Points
+%Credits: Code Master
+$D037C71C 00000000
+$2037C71C 00000003
++P2 Start With Win Modifier (01-09)
+%Credits: Code Master
+$D037C724 00000000
+$2037C724 000000??
+!Shooting Codes:
++Max Score
+%Credits: Codejunkies
+$1039371C 0000FFFF
++More Balls (Press Select To Activate)
+%Credits: Codejunkies
+$D0317202 0000FFFE
+$10393720 0000000A
+!!
+!Shooting Tennis Mini Game Codes:
++Max Score
+%Credits: Code Master
+$2039371C 0001869F
++P1 Press Select For More Balls
+%Credits: Code Master
+$D03172C2 0000FFFE
+$20393720 00000005
+!!
+!!
+

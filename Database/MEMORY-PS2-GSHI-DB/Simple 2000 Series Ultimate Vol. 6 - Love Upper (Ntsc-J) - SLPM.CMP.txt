@@ -1,0 +1,57 @@
+^3 = NAME: Simple 2000 Series Ultimate Vol. 6 - Love Upper (Ntsc-J)
+^2 = GameID: SLPM 62296
+!Master Codes:
++Master Code
+%Credits: BigBossman
+$901A8960 0C06A200
++Master Code (Alternate)
+%Credits: BigBossman
+$90181174 0C067C1E
++Master Code (Alternate)
+%Credits: BigBossman
+$90100170 0C065B1C
+!!
++Camera Angle Modifier {<I>Use Values &Quot;00&Quot; To &Quot;04&Quot;.</I>}
+%Credits: BigBossman
+$001B5202 000000??
++Infinite Time {<I>Keep On Between Rounds To Recover Health &Amp; Stamina. Turn Off In Order To Advance To The Next Round. For A Full 180 Second Round, Use Value &Quot;2A5F&Quot;.</I>}
+%Credits: BigBossman
+$101B51D8 0000027F
++Player 1 Always Has 0 Knockdowns {<I>Player 1 Can Never Be Tkoed.</I>}
+%Credits: BigBossman
+$001B51F6 00000000
++Player 1 Has Max Points From Judge 1
+%Credits: BigBossman
+$001B51F8 00000063
++Player 1 Has Max Points From Judge 2
+%Credits: BigBossman
+$001B51F9 00000063
++Player 1 Has Max Points From Judge 3
+%Credits: BigBossman
+$001B51FA 00000063
++Player 1 Has Maximum Total Points
+%Credits: BigBossman
+$101B51DC 000003E7
++Player 1 Modifier {<I>Use Values &Quot;00&Quot; To &Quot;13&Quot;.</I>}
+%Credits: BigBossman
+$001B51F0 000000??
++Player 2 Always Has 3 Knockdowns {<I>If Player 2 Is Knocked Down Once, It&#39;S A TKO Win For Player 1.</I>}
+%Credits: BigBossman
+$001B51F7 00000003
++Player 2 Has No Points From Judge 1
+%Credits: BigBossman
+$001B51FB 00000000
++Player 2 Has No Points From Judge 2
+%Credits: BigBossman
+$001B51FC 00000000
++Player 2 Has No Total Points
+%Credits: BigBossman
+$101B51DE 00000000
++Player 2 Modifier
+%Credits: BigBossman
+$001B51F1 000000??
++Stage Modifier {<I>Values -<Br>00 - Angel-Heart<Br>01 - Rose-Garden<Br>02 - Dog-Fight<Br>03 - Cat-Fight<Br>04 - Zoo<Br>05 - Froze</I>}
+%Credits: BigBossman
+$001B56D8 000000??
+!!
+

@@ -1,0 +1,93 @@
+^3 = NAME: Vampire Night (Pal-Unk)
+^2 = GameID: SCES-50411
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01E2350 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F01E2350 001E2353
+!!
+!Continues Codes:
++Infinite Continues
+%Credits: Codejunkies
+$10308728 000001CE
++Never Have Any Continues
+%Credits: Codejunkies
+$E0010000 30308728
+$10308728 00000000
++Never Have More Than 1 Continues
+%Credits: Codejunkies
+$E0010001 30308728
+$10308728 00000001
++Never Have More Than 2 Continues
+%Credits: Codejunkies
+$E0010002 30308728
+$10308728 00000002
++Never Have More Than 3 Continues
+%Credits: Codejunkies
+$E0010003 30308728
+$10308728 00000003
+!!
++P1 Invincible
+%Credits: InterAct
+$10500740 00000005
+!Player 1 Ammo Codes:
++Infinite Ammo/No Reload
+%Credits: Codejunkies
+$1050077C 00000009
++Never Have More Than 1 Ammo
+%Credits: Codejunkies
+$E0010001 3050077C
+$1050077C 00000001
++Never Have More Than 2 Ammo
+%Credits: Codejunkies
+$E0010002 3050077C
+$1050077C 00000002
++Never Have More Than 3 Ammo
+%Credits: Codejunkies
+$E0010003 3050077C
+$1050077C 00000003
++Never Have More Than 4 Ammo
+%Credits: Codejunkies
+$E0010004 3050077C
+$1050077C 00000004
++Never Have More Than 5 Ammo
+%Credits: Codejunkies
+$E0010005 3050077C
+$1050077C 00000005
++Player 2 Invincible
+%Credits: Codejunkies
+$10500AC4 00000005
+$10500A88 00000005
+!!
+!Player 2 Ammo Codes:
++Easy Bosses
+%Credits: Codejunkies
+$102D8D6C 00000000
++Infinite Ammo/No Reload
+%Credits: Codejunkies
+$10500AC4 00000009
++Never Have More Than 1 Ammo
+%Credits: Codejunkies
+$E0010001 30500AC4
+$10500AC4 00000001
++Never Have More Than 2 Ammo
+%Credits: Codejunkies
+$E0010002 30500AC4
+$10500AC4 00000002
++Never Have More Than 3 Ammo
+%Credits: Codejunkies
+$E0010003 30500AC4
+$10500AC4 00000003
++Never Have More Than 4 Ammo
+%Credits: Codejunkies
+$E0010004 30500AC4
+$10500AC4 00000004
++Never Have More Than 5 Ammo
+%Credits: Codejunkies
+$E0010005 30500AC4
+$10500AC4 00000005
+!!
+!!
+

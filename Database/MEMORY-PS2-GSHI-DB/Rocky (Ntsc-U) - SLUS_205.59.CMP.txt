@@ -1,0 +1,331 @@
+^3 = NAME: Rocky (Ntsc-U)
+^2 = GameID: SLUS-20559
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0194E64 001257FF
++(M) Must Be On
+%Credits: Codejunkies
+$F01257FC 001257FF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001257FF
+!!
++25% Health P1
+%Credits: Code Master
+$D0279042 00003F80
+$20279040 3E800000
++25% Health P2
+%Credits: Code Master
+$D0279902 00003F80
+$20279900 3E800000
++50% Health P1
+%Credits: Code Master
+$D0279042 00003F80
+$20279040 3F000000
++50% Health P2
+%Credits: Code Master
+$D0279902 00003F80
+$20279900 3F000000
++75% Health P1
+%Credits: Code Master
+$D0279042 00003F80
+$20279040 3F400000
++75% Health P2
+%Credits: Code Master
+$D0279902 00003F80
+$20279900 3F400000
++Always 0 Knockdowns P1
+%Credits: Code Master
+$20278EC4 00000000
++Always 0 Knockdowns P2
+%Credits: Code Master
+$20279784 00000000
+!Attribute Codes:
++Stats: Max Determination
+%Credits: InterAct
+$102DD11C 00000064
++Stats: Max Movement
+%Credits: InterAct
+$102DD124 00000064
++Stats: Max Speed
+%Credits: InterAct
+$102DD118 00000064
++Stats: Max Stamina
+%Credits: InterAct
+$102DD120 00000064
++Stats: Max Strength
+%Credits: InterAct
+$102DD114 00000064
+!!
+!Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$20279040 3F800000
+$20279044 3F800000
++Infinite Health
+%Credits: Codejunkies
+$20279900 3F800000
+$20279904 3F800000
++Low Health
+%Credits: Codejunkies
+$20279044 3E000000
++Low Health
+%Credits: Codejunkies
+$20279904 3E000000
++Never Go Above 25% Health
+%Credits: Codejunkies
+$E0020000 30279040
+$E0013E80 30279042
+$20279040 3E800000
+$E0020000 30279044
+$E0013E80 30279046
+$20279040 3E800000
++Never Go Above 25% Health
+%Credits: Codejunkies
+$E0020000 30279900
+$E0013E80 30279902
+$20279900 3E800000
+$E0020000 30279904
+$E0013E80 30279906
+$20279904 3E800000
++Never Go Above 50% Health
+%Credits: Codejunkies
+$E0020000 30279040
+$E0013F00 30279042
+$20279040 3F000000
+$E0020000 30279044
+$E0013F00 30279046
+$20279040 3F000000
++Never Go Above 50% Health
+%Credits: Codejunkies
+$E0020000 30279900
+$E0013F40 30279902
+$20279900 3F000000
+$E0020000 30279904
+$E0013F00 30279906
+$20279904 3F000000
++Never Go Above 75% Health
+%Credits: Codejunkies
+$E0020000 30279040
+$E0013F40 30279042
+$20279040 3F400000
+$E0020000 30279044
+$E0013F40 30279046
+$20279040 3F400000
++Never Go Above 75% Health
+%Credits: Codejunkies
+$E0020000 30279900
+$E0013F40 30279902
+$20279900 3F400000
+$E0020000 30279904
+$E0013F40 30279906
+$20279904 3F400000
++P1: Easily Tko'd
+%Credits: InterAct
+$10278EC4 00000003
++P1: Infinite Stamina
+%Credits: InterAct
+$20279048 3F800000
+$2027904C 3F800000
++P1: Low Stamina
+%Credits: InterAct
+$2027904C 3E000000
++P1: Never Tko'd
+%Credits: InterAct
+$10278EC4 00000000
++P2: Easily Tko'd
+%Credits: InterAct
+$10279784 00000003
++P2: Infinite Stamina
+%Credits: InterAct
+$20279908 3F800000
+$2027990C 3F800000
++P2: Low Stamina
+%Credits: InterAct
+$2027990C 3E000000
++P2: Never Tko'd
+%Credits: InterAct
+$10279784 00000000
+!!
++Infinite Health P1
+%Credits: Code Master
+$20279040 3F800000
++Infinite Health P2
+%Credits: Code Master
+$20279900 3F800000
++Infinite Stamina P1
+%Credits: Code Master
+$20279048 3F800000
++Infinite Stamina P2
+%Credits: Code Master
+$20279908 3F800000
++Infinite Time
+%Credits: InterAct
+$20244580 43346F06
++Infinite Time
+%Credits: Code Master
+$20244580 43340000
++Max Health Rebuild P1
+%Credits: Code Master
+$20279044 3F800000
++Max Health Rebuild P2
+%Credits: Code Master
+$20279904 3F800000
++Max Stamina Rebuild P1
+%Credits: Code Master
+$2027904C 3F800000
++Max Stamina Rebuild P2
+%Credits: Code Master
+$2027990C 3F800000
+!Movie Mode Codes:
++Max Determination
+%Credits: Code Master
+$202DD11C 00000064
++Max Movement
+%Credits: Code Master
+$202DD124 00000064
++Max Speed
+%Credits: Code Master
+$202DD118 00000064
++Max Stamina
+%Credits: Code Master
+$202DD120 00000064
++Max Strength
+%Credits: Code Master
+$202DD114 00000064
+!!
++No Health P1
+%Credits: Code Master
+$20279040 00000000
++No Health P2
+%Credits: Code Master
+$20279900 00000000
++No Health Rebuild P1
+%Credits: Code Master
+$20279044 00000000
++No Health Rebuild P2
+%Credits: Code Master
+$20279904 00000000
++No Stamina Rebuild P1
+%Credits: Code Master
+$2027904C 00000000
++No Stamina Rebuild P2
+%Credits: Code Master
+$2027990C 00000000
+!Start On:
++2Nd Round
+%Credits: InterAct
+$D024457C 00000000
+$1024457C 00000001
++3Rd Round
+%Credits: InterAct
+$D024457C 00000000
+$1024457C 00000002
++4Th Round
+%Credits: InterAct
+$D024457C 00000000
+$1024457C 00000003
++5Th Round
+%Credits: InterAct
+$D024457C 00000000
+$1024457C 00000004
++6Th Round
+%Credits: InterAct
+$D024457C 00000000
+$1024457C 00000005
++7Th Round
+%Credits: InterAct
+$D024457C 00000000
+$1024457C 00000006
++8Th Round
+%Credits: InterAct
+$D024457C 00000000
+$1024457C 00000007
++9Th Round
+%Credits: InterAct
+$D024457C 00000000
+$1024457C 00000008
++10Th Round
+%Credits: InterAct
+$D024457C 00000000
+$1024457C 00000009
+!!
+!Start On Fight Codes:
++Fight 2
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000001
++Fight 3
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000002
++Fight 4
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000003
++Fight 5
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000004
++Fight 6
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000005
++Fight 7
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000006
++Fight 8
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000007
++Fight 9
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000008
++Fight 10
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000009
+!!
+!Start On Round Codes:
+!!
+!Start On Round Codes [Special Note 1]:
++Special Note 1 {<I>With These Codes, Do Not Use The Code To Start On A Round That Is Higher Than The Total Rounds To Fight That Boxer. For Example, In Movie Mode, The First Fighter Is A 4 Round Fight, So Start On Round 4 Is The Highest You Can Use For That Fight.</I>}
+%Credits: NA
+!!
++Start With 1 Knockdown P1
+%Credits: Code Master
+$D0278EC4 00000000
+$20278EC4 00000001
++Start With 1 Knockdown P2
+%Credits: Code Master
+$D0279784 00000000
+$20279784 00000001
++Start With 2 Knockdowns P1
+%Credits: Code Master
+$D0278EC4 00000000
+$20278EC4 00000002
++Start With 2 Knockdowns P2
+%Credits: Code Master
+$D0279784 00000000
+$20279784 00000002
++Start With 3 Knockdowns P1
+%Credits: Code Master
+$D0278EC4 00000000
+$20278EC4 00000003
++Start With 3 Knockdowns P2
+%Credits: Code Master
+$D0279784 00000000
+$20279784 00000003
+!Statistics Codes:
++Unlock All Boxers And Movies
+%Credits: Codejunkies
+$1022DFF4 00000016
+!!
++Unlock All Characters
+%Credits: Code Master
+$2022DFF4 000000FF
+!!
+

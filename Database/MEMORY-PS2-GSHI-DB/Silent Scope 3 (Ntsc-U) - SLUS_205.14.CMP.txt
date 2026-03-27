@@ -1,0 +1,175 @@
+^3 = NAME: Silent Scope 3 (Ntsc-U)
+^2 = GameID: SLUS-20514
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F010C18C 0010C18F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0010C18F
+!!
+!All Mode Codes:
++Always Low Mission Time
+%Credits: Code Master
+$20530CB8 00000000
++Better Rank
+%Credits: Code Master
+$10530D0E 00000001
++Infinite Bullets
+%Credits: Code Master
+$10530D86 00000006
++Infinite Critical Time {<I>It Will Give You Infinite Time To Defuse Bombs Or What Not.</I>}
+%Credits: Code Master
+$10530D9C 00000016
++Infinite Health
+%Credits: Code Master
+$20530D60 3F800000
++Instant Death (All Enemies)
+%Credits: Code Master
+$201C1EB8 24030000
+$201C1EC0 A603000A
++Max Score
+%Credits: Code Master
+$20530CD4 05F5E0FF
++Press Select To Kill Any Enemy
+%Credits: Code Master
+$201C1EC0 A603000A
+$D05803C6 0010FFFE
+$201C1EB8 8603000A
+$D05803C6 0000FFFE
+$201C1EB8 24030000
++Quick Score Gain
+%Credits: Code Master
+$10530CD4 0000FFFF
+!!
+!Canal:
++Low Cleared Time
+%Credits: MadCatz
+$20597374 00000000
++Max Score
+%Credits: MadCatz
+$20597370 05F5E0FF
+!!
+!Canal Codes:
++Have Finished
+%Credits: Code Master
+$2059737C 000000FF
+!!
+!Casino:
++Low Cleared Time
+%Credits: MadCatz
+$20597344 00000000
++Max Score
+%Credits: MadCatz
+$20597340 05F5E0FF
+!!
+!Casino Codes:
++Have Finished
+%Credits: Code Master
+$2059734C 000000FF
+!!
+!Dam:
++Low Cleared Time
+%Credits: MadCatz
+$20597354 00000000
++Max Score
+%Credits: MadCatz
+$20597350 05F5E0FF
+!!
+!Dam Codes:
++Have Finished
+%Credits: Code Master
+$2059735C 000000FF
+!!
+!Harbor Stage Codes:
++Always Low Cleared Time
+%Credits: Code Master
+$20597324 00000000
++Have Finished
+%Credits: Code Master
+$2059732C 000000FF
++Max Cleared Score
+%Credits: Code Master
+$20597320 05F5E0FF
+!!
+!Have Credits Codes:
++Infinite Credits
+%Credits: Codejunkies
+$1056BD50 00000009
++Never Have More Than 1 Credit
+%Credits: Codejunkies
+$E0010001 3056BD50
+$1056BD50 00000001
++Never Have More Than 2 Credits
+%Credits: Codejunkies
+$E0010002 3056BD50
+$1056BD50 00000002
++Never Have More Than 5 Credits
+%Credits: Codejunkies
+$E0010005 3056BD50
+$1056BD50 00000005
+!!
+!Iron Works:
++Low Cleared Time
+%Credits: MadCatz
+$20597394 00000000
++Max Score
+%Credits: MadCatz
+$20597390 05F5E0FF
+!!
+!Ironworks Codes:
++Have Finished
+%Credits: Code Master
+$2059739C 000000FF
+!!
+!Oil Rig:
++Low Cleared Time
+%Credits: MadCatz
+$20597384 00000000
++Max Score
+%Credits: MadCatz
+$20597380 05F5E0FF
+!!
+!Oil Rig Codes:
++Have Finished
+%Credits: Code Master
+$2059738C 000000FF
+!!
+!Quick Kill Codes:
++Bull
+%Credits: Codejunkies
+$11EFE486 00000000
++Cobra
+%Credits: Codejunkies
+$11EF978A 00000000
++Mosquito
+%Credits: Codejunkies
+$11EF85C6 00000000
++Shaker
+%Credits: Codejunkies
+$11EE98E6 00000000
+!!
+!Research Lab:
++Low Cleared Time
+%Credits: MadCatz
+$20597334 00000000
++Max Score
+%Credits: MadCatz
+$20597330 05F5E0FF
+!!
+!Research Lab Codes:
++Have Finished
+%Credits: Code Master
+$2059733C 000000FF
+!!
++Extra Credits (Silent Scope Ex-Story Mode)
+%Credits: Code Master
+$101F3908 00000001
++Infinite Credits
+%Credits: MadCatz
+$1056BD50 00000063
++Infinite Time Dam
+%Credits: Codejunkies
+$10530D9C 0000001C
+!!
+

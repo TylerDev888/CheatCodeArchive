@@ -1,0 +1,52 @@
+^3 = NAME: Tom Clancy's Splinter Cell
+!Masters:
++Mastercode
+%Credits: Xploder
+$90129A84 0C048534
+!!
+!Unlimited:
++Pistol Ammunition
+%Credits: Xploder
+$200C0000 24020063
+$200C0004 080C486C
+$200C0008 AC820470
+$20479C00 000C0000
++SC-20K Ammunition
+%Credits: Xploder
+$200C0000 24020063
+$200C0004 080C486C
+$200C0008 AC820470
+$20479D70 000C0000
+!!
+!Unlock:
++All Levels
+%Credits: Xploder
+$20383A30 00000000
++Ninja Mode{(Start New Game)}
+%Credits: Xploder
+$203839DC 00000000
+$20387CE0 00000000
+!!
+!Enemies Cannot:
++Activate Alarms
+%Credits: Xploder
+$20305E40 03E00008
+$20305E44 00000000
++Shoot
+%Credits: Xploder
+$202F6ED0 03E00008
+$202F6ED4 00000000
++Move
+%Credits: Xploder
+$202EDA00 03E00008
+$202EDA04 00000000
+!!
+!Always:
++Silent
+%Credits: Xploder
+$203AD720 03E00008
+$203AD724 00000000
++In The Shadows
+%Credits: Xploder
+$203AE4B8 44800000
+!!

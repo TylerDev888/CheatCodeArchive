@@ -1,0 +1,359 @@
+^3 = NAME: Bouncer, The (Ntsc-J)
+^2 = GameID: SLPS-25023
+!Master Codes:
++Enable Code
+%Credits: lee4
+$902EDD84 0C0BFBFF
+!!
+!Jokers:
++Player 1 Controller
+%Credits: lee4
+$D1D80C82 0000????
++Player 1 Controller
+%Credits: lee4
+$D1D80C02 0000????
++Player 2 Controller
+%Credits: lee4
+$D1D80F02 0000????
++Player 2 Controller
+%Credits: lee4
+$D1D80E82 0000????
+!!
+!End Of Stage Codes:
++Always Gain Extra Skill 1
+%Credits: lee4
+$20346BCC 00000001
++Always Gain Extra Skill 2
+%Credits: lee4
+$20346BD0 00000001
++Always Gain Extra Skill 3
+%Credits: lee4
+$20346BD4 00000001
++Always Gain Extra Skill 4
+%Credits: lee4
+$20346BD8 00000001
++Always Gain Extra Skill 5
+%Credits: lee4
+$20346BDC 00000001
++Always Gain Extra Skill 6
+%Credits: lee4
+$20346BE0 00000001
++Always Gain Extra Skill 7
+%Credits: lee4
+$20346BE4 00000001
++Infinite Bouncer Points
+%Credits: lee4
+$203DB6E8 0001869F
++Max Defense Up
+%Credits: lee4
+$20346BC8 00000007
++Max Life Up
+%Credits: lee4
+$20346BC0 00000007
++Max Power Up
+%Credits: lee4
+$20346BC4 00000007
+!!
++English Menu
+%Credits: lee4
+$203DA144 00000005
+!In-battle Story Mode Codes:
++Kou Leifoh Infinite Defense
+%Credits: lee4
+$E0020002 01D8B514
+$603DB2C0 00001EE4
+$00020001 00002414
++Kou Leifoh Infinite Life
+%Credits: lee4
+$E0020002 01D8B514
+$603DB2C0 0000270F
+$00020001 00002408
++Kou Leifoh Max Defense
+%Credits: lee4
+$E0020002 01D8B514
+$603DB2C0 00001EE4
+$00020001 0000241C
++Kou Leifoh Max Life
+%Credits: lee4
+$E0020002 01D8B514
+$603DB2C0 00001EE4
+$00020001 00002410
++Kou Leifoh Max Power
+%Credits: lee4
+$E0020002 01D8B514
+$603DB2C0 00001EE4
+$00020001 00002420
++Sion Barzahd Infinite Defense
+%Credits: lee4
+$E0020000 01D8B434
+$603DB2C0 00001EE4
+$00020001 00002334
++Sion Barzahd Infinite Life
+%Credits: lee4
+$E0020000 01D8B434
+$603DB2C0 00001EE4
+$00020001 00002328
++Sion Barzahd Max Defense
+%Credits: lee4
+$E0020000 01D8B434
+$603DB2C0 00001EE4
+$00020001 0000233C
++Sion Barzahd Max Life
+%Credits: lee4
+$E0020000 01D8B434
+$603DB2C0 00001EE4
+$00020001 00002330
++Sion Barzahd Max Power
+%Credits: lee4
+$E0020000 01D8B434
+$603DB2C0 00001EE4
+$00020001 00002340
++Volt Krueger Infinite Defense
+%Credits: lee4
+$E0020001 01D8B4A4
+$603DB2C0 00001EE4
+$00020001 000023A4
++Volt Krueger Infinite Life
+%Credits: lee4
+$E0020001 01D8B4A4
+$603DB2C0 00001EE4
+$00020001 00002398
++Volt Krueger Max Defense
+%Credits: lee4
+$E0020001 01D8B4A4
+$603DB2C0 00001EE4
+$00020001 000023AC
++Volt Krueger Max Life
+%Credits: lee4
+$E0020001 01D8B4A4
+$603DB2C0 00001EE4
+$00020001 000023A0
++Volt Krueger Max Power
+%Credits: lee4
+$E0020001 01D8B4A4
+$603DB2C0 00001EE4
+$00020001 000023B0
+!!
+!Protecting Dominique Codes:
++Dominique Infinite Defense
+%Credits: lee4
+$E002000B 01D8B584
+$603DB2C0 00001EE4
+$00020001 00002484
++Dominique Infinite Life
+%Credits: lee4
+$E002000B 01D8B584
+$603DB2C0 00001EE4
+$00020001 00002478
++Dominique Max Defense
+%Credits: lee4
+$E002000B 01D8B584
+$603DB2C0 00001EE4
+$00020001 0000248C
++Dominique Max Life
+%Credits: lee4
+$E002000B 01D8B584
+$603DB2C0 00001EE4
+$00020001 00002480
++Dominique Max Power
+%Credits: lee4
+$E002000B 01D8B584
+$603DB2C0 00001EE4
+$00020001 00002490
++Player 1 Infinite Defense
+%Credits: lee4
+$E0020003 21D8B5F4
+$603DB2C0 00001EE4
+$00020001 000024F4
++Player 1 Infinite Life
+%Credits: lee4
+$E0020003 21D8B5F4
+$603DB2C0 00001EE4
+$00020001 000024E8
++Player 1 Max Defense
+%Credits: lee4
+$E0020003 21D8B5F4
+$603DB2C0 00001EE4
+$00020001 000024FC
++Player 1 Max Life
+%Credits: lee4
+$E0020003 21D8B5F4
+$603DB2C0 00001EE4
+$00020001 000024F0
++Player 1 Max Power
+%Credits: lee4
+$E0020003 21D8B5F4
+$603DB2C0 00001EE4
+$00020001 00002500
+!!
+!Status Codes:
++Kou Leifoh Current Defense
+%Credits: lee4
+$E0020002 01D89700
+$603DB2C0 00001EE4
+$00020001 00000600
++Kou Leifoh Current Life
+%Credits: lee4
+$E0020002 01D89700
+$603DB2C0 00001EE4
+$00020001 000005F4
++Kou Leifoh Have All Extra Skills
+%Credits: lee4
+$E0020002 01D89700
+$603DB2C0 000000FF
+$00020001 00000610
++Kou Leifoh Have S Rank
+%Credits: lee4
+$E0020002 01D89700
+$603DB2C0 00000007
+$00020001 00000614
++Kou Leifoh Max Bouncer Points
+%Credits: lee4
+$E0020002 01D89700
+$603DB2C0 0001869F
+$00020001 00000650
++Kou Leifoh Max Defense
+%Credits: lee4
+$E0020002 01D89700
+$603DB2C0 00001EE4
+$00020001 00000608
++Kou Leifoh Max Life
+%Credits: lee4
+$E0020002 01D89700
+$603DB2C0 00001EE4
+$00020001 000005FC
++Kou Leifoh Max Power
+%Credits: lee4
+$E0020002 01D89700
+$603DB2C0 00001EE4
+$00020001 0000060C
++Sion Barzahd Current Defense
+%Credits: lee4
+$E0020000 01D895E0
+$603DB2C0 00001EE4
+$00020001 000004E0
++Sion Barzahd Current Life
+%Credits: lee4
+$E0020000 01D895E0
+$603DB2C0 00001EE4
+$00020001 000004D4
++Sion Barzahd Have All Extra Skills
+%Credits: lee4
+$E0020000 01D895E0
+$603DB2C0 000000FF
+$00020001 000004F0
++Sion Barzahd Have S Rank
+%Credits: lee4
+$E0020000 01D895E0
+$603DB2C0 00000007
+$00020001 000004F4
++Sion Barzahd Max Bouncer Points
+%Credits: lee4
+$E0020000 01D895E0
+$603DB2C0 0001869F
+$00020001 00000530
++Sion Barzahd Max Defense
+%Credits: lee4
+$E0020000 01D895E0
+$603DB2C0 00001EE4
+$00020001 000004E8
++Sion Barzahd Max Life
+%Credits: lee4
+$E0020000 01D895E0
+$603DB2C0 00001EE4
+$00020001 000004DC
++Sion Barzahd Max Power
+%Credits: lee4
+$E0020000 01D895E0
+$603DB2C0 00001EE4
+$00020001 000004EC
++Volt Krueger Current Defense
+%Credits: lee4
+$E0020001 01D89670
+$603DB2C0 00001EE4
+$00020001 00000570
++Volt Krueger Current Life
+%Credits: lee4
+$E0020001 01D89670
+$603DB2C0 00001EE4
+$00020001 00000564
++Volt Krueger Have All Extra Skills
+%Credits: lee4
+$E0020001 01D89670
+$603DB2C0 000000FF
+$00020001 00000580
++Volt Krueger Have S Rank
+%Credits: lee4
+$E0020001 01D89670
+$603DB2C0 00000007
+$00020001 00000584
++Volt Krueger Max Bouncer Points
+%Credits: lee4
+$E0020001 01D89670
+$603DB2C0 0001869F
+$00020001 000005C0
++Volt Krueger Max Defense
+%Credits: lee4
+$E0020001 01D89670
+$603DB2C0 00001EE4
+$00020001 00000578
++Volt Krueger Max Life
+%Credits: lee4
+$E0020001 01D89670
+$603DB2C0 00001EE4
+$00020001 0000056C
++Volt Krueger Max Power
+%Credits: lee4
+$E0020001 01D89670
+$603DB2C0 00001EE4
+$00020001 0000057C
+!!
+!Vs Mode Codes:
++Dauragon Have S Rank
+%Credits: lee4
+$E0021111 01D8C1BE
+$603DB2C0 07070707
+$00020001 00000714
++Dominique Have S Rank
+%Credits: lee4
+$E0021111 01D8C1BE
+$603DB2C0 00000007
+$00000001 0000071B
++Echidna Have S Rank
+%Credits: lee4
+$E0021111 01D8C1BE
+$603DB2C0 00000007
+$00000001 00000713
++Have All Characters
+%Credits: lee4
+$E0021111 01D8C1BE
+$603DB2C0 FFFFFFFF
+$00020001 000030B0
++Kaldea Have S Rank
+%Credits: lee4
+$E0021111 01D8C1BE
+$603DB2C0 00000007
+$00000001 0000071C
++Leann Have S Rank
+%Credits: lee4
+$E0021111 01D8C1BE
+$603DB2C0 00000007
+$00000001 0000071E
++Mugetsu Have S Rank
+%Credits: lee4
+$E0021111 01D8C1BE
+$603DB2C0 00000707
+$00010001 00000718
++PD-4 Have S Rank
+%Credits: lee4
+$E0021111 01D8C1BE
+$603DB2C0 00000007
+$00000001 0000071A
++Wong Have S Rank
+%Credits: lee4
+$E0021111 01D8C1BE
+$603DB2C0 00000007
+$00000001 0000071D
+!!
+!!
+

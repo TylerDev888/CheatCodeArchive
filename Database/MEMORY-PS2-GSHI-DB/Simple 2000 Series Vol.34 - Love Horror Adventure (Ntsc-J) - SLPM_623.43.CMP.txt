@@ -1,0 +1,16 @@
+^3 = NAME: Simple 2000 Series Vol.34 - Love Horror Adventure (Ntsc-J)
+^2 = GameID: SLPM-62343
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$90144058 0C050FBE
+!!
++Replace CG Mode With Invisible Debug Menu
+%Credits: punk7890
+$201003A0 0C0474F4
++Unlock All CG
+%Credits: punk7890
+$21FAB5E0 FFFFFFFF
+$21FAB5E4 FFFFFFFF
+!!
+

@@ -1,0 +1,17 @@
+^2 = GameID: BLUS30591
+^3 = NAME: Call of Duty® Black Ops
+^5 = APCRED: by bucanero
+^4 = FILE: GPAD0_CM.PRF
++Decrypt Gpad0_cm.prf (required)
+$set range:0x000000,eof+1
+$DECRYPT des3_cbc("Md8ea20lPcftYwsl496q63x9", "0Peyx825")
++Encrypt Gpad0_cm.prf (required)
+$set range:0x000000,eof+1
+$ENCRYPT des3_cbc("Md8ea20lPcftYwsl496q63x9", "0Peyx825")
+^4 = FILE: GPAD0_SP.PRF
++Decrypt Gpad0_sp.prf (required)
+$set range:0x000000,eof+1
+$DECRYPT des3_cbc("Md8ea20lPcftYwsl496q63x9", "0Peyx825")
++Encrypt Gpad0_sp.prf (required)
+$set range:0x000000,eof+1
+$ENCRYPT des3_cbc("Md8ea20lPcftYwsl496q63x9", "0Peyx825")

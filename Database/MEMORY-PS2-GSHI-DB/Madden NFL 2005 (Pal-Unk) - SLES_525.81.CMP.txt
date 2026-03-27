@@ -1,0 +1,58 @@
+^3 = NAME: Madden NFL 2005 (Pal-Unk)
+^2 = GameID: SLES-52581
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F05989D4 005989D7
+!!
+!Constant Down Codes:
++Always 1St Down
+%Credits: Codejunkies
+$107051D0 00000001
++Always 4Th Down
+%Credits: Codejunkies
+$107051D0 00000004
++Always Start On 2Nd Down
+%Credits: Codejunkies
+$D07051D0 00000001
+$107051D0 00000002
++Always Start On 3Rd Down
+%Credits: Codejunkies
+$D07051D0 00000001
+$107051D0 00000003
+!!
+!Controller 1 Down Codes:
++Press L2+Select For 1St Down
+%Credits: Codejunkies
+$D06D8382 0000FEFE
+$107051D0 00000001
++Press R2+Select For 4Th Down
+%Credits: Codejunkies
+$D06D8382 0000FDFE
+$107051D0 00000004
+!!
+!Controller 2 Down Codes:
++Controller 1: Press L1 For More Time To Pick Plays
+%Credits: Codejunkies
+$D06D8382 0000FBFF
+$20704E0C 00000063
++Have All Cards
+%Credits: Codejunkies
+$21E30434 00000119
+$41E304A0 00FF0001
+$00FFE01F 00000010
+$41E3089C 001A0001
+$00FFF00F 00000010
++Infinite Tokens
+%Credits: Codejunkies
+$21E30348 05F5E0FF
++Press L2+Select For 1St Down
+%Credits: Codejunkies
+$D06D8482 0000FEFE
+$107051D0 00000001
++Press R2+Select For 4Th Down
+%Credits: Codejunkies
+$D06D8482 0000FDFE
+$107051D0 00000004
+!!
+

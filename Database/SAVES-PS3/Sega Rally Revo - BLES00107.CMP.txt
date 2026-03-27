@@ -1,0 +1,7 @@
+^2 = GameID: BLES00107
+^3 = NAME: SEGA Rally Revo
+^4 = FILE: SR.DAT
++Update Crc32 (required)
+$set range:0x000008,0x005C8F
+$set [hash]:CRC32
+$write at 0x000004:[hash]

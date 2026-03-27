@@ -1,0 +1,12 @@
+^3 = NAME: Gokujou Seitokai (Ntsc-J)
+^2 = GameID: SLPM-66086
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9010FC10 0C043EAC
+!!
++Replace New Game With Debug Menu
+%Credits: punk7890
+$10D0274A 00000004
+!!
+

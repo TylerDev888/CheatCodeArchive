@@ -1,0 +1,37 @@
+^3 = NAME: Thing, The (Ntsc-U)
+^2 = GameID: SLUS-20371
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0129A88 00133867
++(M) Must Be On
+%Credits: Codejunkies
+$F0133864 00133867
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00133867
+!!
++Infinite Ammo
+%Credits: InterAct
+$2050A564 24030032
++Infinite Ammo
+%Credits: Code Master
+$20798BF0 2401000A
+$20798BF4 00310818
+$20798C04 AD210010
++Infinite Health
+%Credits: InterAct
+$2041901C 3C0142C8
+$20419024 AE01009C
++Never Freeze
+%Credits: Codejunkies
+$204194D4 AE0104A4
+$204194DC AE0104A4
+$204194E0 AE0104A4
++Never Freeze To Death
+%Credits: Code Master
+$204194D4 AE0004A4
+$204194DC AE0004A4
+$204194E0 AE0004A4
+!!
+

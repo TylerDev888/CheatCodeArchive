@@ -1,0 +1,9 @@
+^2 = GameID: BLES01644
+^3 = NAME: Castlevania: Lords Of Shadow 2
+^5 = APCRED: checksum by bucanero
+^4 = FILE: DATA.DAT
++Update Data.dat Checksum (required)
+$set pointer:EOF-3
+$set range:0x0,pointer
+$set [csum]:castlevania_checksum
+$write next (0):[csum]

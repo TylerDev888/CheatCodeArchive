@@ -1,0 +1,19 @@
+^2 = GameID: CUSA01401
+^3 = NAME: Borderlands 2
+^5 = APCRED: source: xdgmods
+(Automated & simplified file by @officialahmed0)
+^4 = FILE: *
+(Untested - Make sure to backup your save data first)
+(requires character level 5+)
+++max Money
+$80010003 28003200
+$28000004 2FD7C1FF
+++max Eridium
+$80010003 28003200
+$08000008 00000063
+++max Seraph Crystals
+$80010003 28003200
+$08000009 0000007F
++Level 80
+$80010001 10000000
+$08000001 00000080

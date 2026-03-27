@@ -1,0 +1,389 @@
+^3 = NAME: Katamari Damacy (Ntsc-U)
+^2 = GameID: SLUS-21008
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0189E80 00189E83
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100000 00189E83
++[M] Must Be On
+%Credits: MadCatz
+$90189E80 0C066841
+!!
++Alternative Unlock & Complete All Levels {<I>The Last Line Is There So The Game Doesn&#39;T Freeze When You Fly Over Ursa Major.  I Think It Also Unlocks All The Movies In The Moon Gallery.</I>}
+%Credits: bungholio
+$0055FF9F 00000001
+$0055FFD3 00000001
+$00560007 00000001
+$0056003B 00000001
+$0056006F 00000001
+$005600A3 00000001
+$005600D7 00000001
+$0056010B 00000001
+$0056013F 00000001
+$00560173 00000001
+$005601A7 00000001
+$005601DB 00000001
+$00560243 00000001
+$00560277 00000001
+$005602AB 00000001
+$005602DF 00000001
+$00560310 00000001
+$00560347 00000001
+$005603AF 00000001
+$20560308 03070000
++Bounce Player 1 {<I>Just Set Whatever Button You Want.  The Bigger You Get, The Less You Bounce, But Then It Will Make You Move A Lot Faster, And Then That Will Slow Down Too.  Just Got To Keep Increasing It, You&#39;Ll Bounce High In The Air.</I>}
+%Credits: bungholio
+$D101BE82 0000????
+$20988C14 ????????
++Bounce Player 2 {<I>Just Set Whatever Button You Want.  The Bigger You Get, The Less You Bounce, But Then It Will Make You Move A Lot Faster, And Then That Will Slow Down Too.  Just Got To Keep Increasing It, You&#39;Ll Bounce High In The Air.</I>}
+%Credits: bungholio
+$D101BF82 0000????
+$2098C734 ????????
++Freeze / Unfreeze Time {<I>R2+Up = Freeze R2+Down = Unfreeze</I>}
+%Credits: bungholio
+$D101BE82 0000FDEF
+$0054EAA4 00000000
+$D101BE82 0000FDBF
+$0054EAA4 00000001
++Freeze Time
+%Credits: bungholio
+$0054EAA4 00000000
++Go Through Objects Player 1 {<I>00000000 Turns It Off.  You Can Only Go Through Any Object You Can Pick Up.  I Don&#39;T Know Why You&#39;D Want This, But It&#39;S There.</I>}
+%Credits: bungholio
+$20989214 FFFFFFFF
++Go Through Objects Player 2 {<I>00000000 Turns It Off.  You Can Only Go Through Any Object You Can Pick Up.  I Don&#39;T Know Why You&#39;D Want This, But It&#39;S There.</I>}
+%Credits: bungholio
+$2098CD34 FFFFFFFF
++Have All Collectibles {<I>It Also Gives You The Other Cousins For VS I Think.</I>}
+%Credits: bungholio
+$4055F664 01AE0001
+$01010101 00000000
+!Have Present Found Codes:
++All Presents
+%Credits: Code Master
+$4055F608 00030001
+$01010101 00000000
+$1055F614 00000101
+$0055F616 00000001
++Aloha Set
+%Credits: Code Master
+$0055F610 00000001
++Apron
+%Credits: Code Master
+$0055F608 00000001
++Camera (Take Photos In Look Mode)
+%Credits: Code Master
+$0055F614 00000001
++Champion's Belt
+%Credits: Code Master
+$0055F60E 00000001
++Chef's Hat
+%Credits: Code Master
+$0055F60C 00000001
++Cool Mask
+%Credits: Code Master
+$0055F60B 00000001
++Crown
+%Credits: Code Master
+$0055F612 00000001
++Ducky
+%Credits: Code Master
+$0055F615 00000001
++Headphones
+%Credits: Code Master
+$0055F60D 00000001
++Mawashi
+%Credits: Code Master
+$0055F60A 00000001
++Running Top
+%Credits: Code Master
+$0055F609 00000001
++Superhero Scarf
+%Credits: Code Master
+$0055F611 00000001
++White Guitar
+%Credits: Code Master
+$0055F60F 00000001
++White Scarf
+%Credits: Code Master
+$0055F616 00000001
++Wig
+%Credits: Code Master
+$0055F613 00000001
+!!
++Joker For Player 1
+%Credits: nobody
+$D101BE82 0000????
++Joker For Player 2
+%Credits: nobody
+$D101BF82 0000????
++Katamari Ball Appearance Size Modifier Player 1 {<I>It Only Makes It Look Bigger Or Smaller, Uses Floats So Take A Guess From 3F000000 And Keep Adding 1000000.  Set It To Ffffffff To Make The Ball Invisible While Objects Stick To Nothing.</I>}
+%Credits: bungholio
+$209889D0 ????????
++Katamari Ball Appearance Size Modifier Player 2 {<I>It Only Makes It Look Bigger Or Smaller, Uses Floats So Take A Guess From 3F000000 And Keep Adding 1000000.  Set It To Ffffffff To Make The Ball Invisible While Objects Stick To Nothing.</I>}
+%Credits: bungholio
+$2098C4F0 ????????
++Level Select {<I>00 - Unused Level?  It Looks Like Winter.  No Ground, You Just Fall And Warp Over And Over Again. 01 - Make A Star 1 02 - Make A Star 2 03 - Make A Star 4 04 - Make A Star 3 (I Didn&#39;T Mix It Up With Make A Star 4) 05 - Make A Star 5 06 - Make A Star 6 07 - Make A Star 7 08 - Make A Star 8 09 - Make A Star 9 0A - Make The Moon 0B - Make Cancer 0C - Make Cygnus 0D - Unknown Level, Access by selecting Corona Borealis or the game will freeze while loading. 0e - Make Corona Borealis 0f - Make Pisces 10 - Make Virgo 11 - Make Ursa Major 12 - Make Gemini 13 - Make Taurus 14 - Unused, works fine if you pick a Make A Star level. 15 - Make The North Star 16 - Eternal #1 (Make A Star 4) 17 - Eternal #2 (Make A Star 8) 18 - Eternal #3 (Make The Moon) 19 - Unused level, works fine if you pick a Make A Star level. 1a - empty level where you are very small and incredibly slow, pick a Make A Star level. 1b - almost loaded with a Make A Star level. 1c - didn&#39;t load 1d - nowhere, you just fall and warp.  game stopped after I quit 1e - same as 00?  game stopped after I quit 1f - the 2 player VS level, the game freezes after your size increases because the king decides to interrupt but probably wasn&#39;t programmed with something to say.  Most load in 2 player VS mode, but you&#39;ll get messed up levels that aren&#39;t very fun.  You shouldn&#39;t pick level types that don&#39;t match the one you select, the game likes to freeze when you do that.  By that, I mean don&#39;t set the code to Make Ursa Major and then select a Make A Star level, don&#39;t set Make Pisces and then go to Make Taurus (all the constellations seemed different?).  You can select same level types though, use Make A Star 2 with the level select code and select any other Make A Star level (or Make The Moon) and it&#39;ll work fine, with maybe a few graphical problems.  It&#39;s only useful for those few unused levels that are kind of interesting.  &quot;1b&quot; and &quot;1c&quot; probably work if you pick the right level type, I just quickly got sick of trying.   I&#39;ve got individual level record stuff too, but it&#39;s worthless.  This is for Make A Star 1, and it&#39;s the same thing in the same order for all of them, except I think only Make A Star levels get comets even though they have a place in the other constellations too. 2055ffa0 ???????? - star size when viewed in constellations 2055ffa4 ???????? - comet type 2055ffa8 ???????? - the time, gives you the comet 2055ffac ???????? - the star&#39;s size 2055ffb0 ???????? - total amount of things in the star 2055ffb4 ???????? - time it took to complete reach the right size 2055ffb8 ???????? - 1st place item type amount 2055ffbc ???????? - 2nd place item type amount 2055ffc0 ???????? - 3rd place item type amount 0055ffc4 000000?? - star type 0055ffc5 000000?? - 3rd place type 0055ffc6 000000?? - 2nd place type 0055ffc7 000000?? - 1st place type The item types go in order in the item list in the collection.  The top left type on page 1 is &quot;00&quot;, the next 4 are &quot;01&quot;, &quot;02&quot;, &quot;03&quot;, &quot;04&quot;, then it goes down one row starting from the left the next 5 are &quot;05&quot;, &quot;06&quot;, &quot;07&quot;, &quot;08&quot;, &quot;09&quot;, next row down &quot;0a&quot; and repeat.  I can&#39;t remember if there were 3 or 4 rows per page.  I think there&#39;s 6 pages.</i>}
+%Credits: bungholio
+$0054EA94 000000??
+!Object Codes (Have...):
++Advertising
+%Credits: MadCatz
+$0055F682 00000001
++Animals
+%Credits: MadCatz
+$0055F791 00000001
++Aquarium
+%Credits: MadCatz
+$0055F784 00000001
++Art
+%Credits: MadCatz
+$0055F6C5 00000001
++Celebration
+%Credits: MadCatz
+$0055F7B2 00000001
++Communication
+%Credits: MadCatz
+$0055F670 00000001
++Control
+%Credits: MadCatz
+$0055F69A 00000001
++Cute
+%Credits: MadCatz
+$0055F73B 00000001
++Drinks
+%Credits: MadCatz
+$0055F694 00000001
++Entrances & Exits
+%Credits: MadCatz
+$0055F713 00000001
++Evil
+%Credits: MadCatz
+$0055F6A4 00000001
++Facilities
+%Credits: MadCatz
+$0055F71F 00000001
++Farming
+%Credits: MadCatz
+$0055F6CB 00000001
++Festival
+%Credits: MadCatz
+$0055F687 00000001
++Fierce
+%Credits: MadCatz
+$0055F7D4 00000001
++Flowers
+%Credits: MadCatz
+$0055F74E 00000001
++Food
+%Credits: MadCatz
+$0055F674 00000001
++Gardening
+%Credits: MadCatz
+$0055F68B 00000001
++Heroes
+%Credits: MadCatz
+$0055F69F 00000001
++Hot
+%Credits: MadCatz
+$0055F703 00000001
++Houses
+%Credits: MadCatz
+$0055F75A 00000001
++Industry
+%Credits: MadCatz
+$0055F7E2 00000001
++Japan
+%Credits: MadCatz
+$0055F6A2 00000001
++Japanese Food
+%Credits: MadCatz
+$0055F69C 00000001
++Lighting
+%Credits: MadCatz
+$0055F67A 00000001
++Luggage
+%Credits: MadCatz
+$0055F6C8 00000001
++Measuring
+%Credits: MadCatz
+$0055F726 00000001
++Nature
+%Credits: MadCatz
+$0055F7E0 00000001
++Partitions
+%Credits: MadCatz
+$0055F680 00000001
++Plants
+%Credits: MadCatz
+$0055F6B9 00000001
++Playground
+%Credits: MadCatz
+$0055F7A3 00000001
++Police
+%Credits: MadCatz
+$0055F6A7 00000001
++Post
+%Credits: MadCatz
+$0055F67E 00000001
++Powerful
+%Credits: MadCatz
+$0055F7C2 00000001
++Reading
+%Credits: MadCatz
+$0055F67C 00000001
++Roadways
+%Credits: MadCatz
+$0055F70B 00000001
++Romance
+%Credits: MadCatz
+$0055F76C 00000001
++Seating
+%Credits: MadCatz
+$0055F681 00000001
++Sound
+%Credits: MadCatz
+$0055F6D0 00000001
++Stores
+%Credits: MadCatz
+$0055F67F 00000001
++Summer
+%Credits: MadCatz
+$0055F690 00000001
++Symbols
+%Credits: MadCatz
+$0055F705 00000001
++Transport
+%Credits: MadCatz
+$0055F6F5 00000001
++Trash
+%Credits: MadCatz
+$0055F678 00000001
++Vegetables
+%Credits: MadCatz
+$0055F704 00000001
++Weapons
+%Credits: MadCatz
+$0055F6AE 00000001
++Wheels
+%Credits: MadCatz
+$0055F6C7 00000001
++Wings
+%Credits: MadCatz
+$0055F7DD 00000001
++Work Vehicles
+%Credits: MadCatz
+$0055F6F9 00000001
+!!
++Player 1 Katamari Ball Size Modifier {<I>Don&#39;T Increase Too Much At A Time Or The Game Will Stop.  You Can Get To Any Big Size On Any Level, Just Don&#39;T Do A Sudden Jump From 10Cm To 50M.  Use Jokers To Set Them.  You Will Be Able To Roll Up Anything Very Fast.  It Uses Floats, But They Seem Unpredictable.  I Have A Big List. 36000000 - 1Cm 5Mm 37000000 - 2Cm 4Mm 38000000 - 3Cm 9Mm 39000000 - 6Cm 1Mm 3A000000 - 9Cm 7Mm 3B000000 - 15Cm 5Mm 3C000000 - 24Cm 6Mm 3D000000 - 39Cm 3E000000 - 62Cm 3F000000 - 98Cm 4Mm 3F800000 - 1M 24Cm 40000000 - 1M 56Cm 3Mm 40400000 - 1M 78Cm 9Mm 40800000 - 1M 96Cm 9Mm 41000000 - 2M 48Cm 1Mm 41800000 - 3M 12Cm 6Mm 42000000 - 3M 93Cm 9Mm 42800000 - 4M 96Cm 3Mm 43000000 - 6M 25Cm 2Mm 43800000 - 7M 87Cm 8Mm 44000000 - 9M 92Cm 5Mm 44800000 - 12M 50Cm 5Mm 45000000 - 15M 75Cm 6Mm 45800000 - 19M 85Cm 1Mm 46000000 - 25M 01Cm 1Mm 46800000 - 31M 51Cm 1Mm 47000000 - 39M 70Cm 2Mm 47800000 - 50M 02Cm 2Mm 48000000 - 63M 02Cm 3Mm 48800000 - 79M 40Cm 4Mm 49000000 - 100M 04Cm 3Mm 49800000 - 126M 04Cm 7Mm 4A000000 - 158M 80Cm 9Mm 4A800000 - 200M 08Cm 7Mm 4B000000 - 252M 09Cm 4Mm 4B800000 - 317M 61Cm 8Mm 4C000000 - 400M 17Cm 4Mm 4C800000 - 504M 18Cm 7Mm 4D000000 - 635M 23Cm 6Mm 4D800000 - 800M 34Cm 7Mm</I>}
+%Credits: bungholio
+$209889BC ????????
++Player 1 Size Modifier {<I>L2 + Up = Increase Size, L2 + Down = Decrease Size</I>}
+%Credits: bungholio
+$D101BE82 0000FEEF
+$30200004 009889BE
+$D101BE82 0000FEBF
+$30300004 009889BE
++Player 1 Speed Modifier {<I>It&#39;S Floats.  Just Give It Something Like 3F000000, 40000000, 41000000, And Just Keep Increasing It Like That Or Maybe More At A Time.  It Determines How Far Away The Prince Is From The Katamari Ball, Which Can Make You Very Fast.  The Game Usually Adjusts This For You As You Grow. As You Grow You Will Start Slowing Down So Keep Setting It With The Jokers If You Want.  I Could Barely Move If I Set It Too Fast Too Soon.</I>}
+%Credits: bungholio
+$209889C8 ????????
++Player 1 Speed Modifier {<I>L2 + Right = Increase Speed, L2 + Left = Decrease Speed</I>}
+%Credits: bungholio
+$D101BE82 0000FEDF
+$30200004 009889CA
+$D101BE82 0000FE7F
+$30300004 009889CA
++Player 2 Katamari Ball Size Modifier {<I>Don&#39;T Increase Too Much At A Time Or The Game Will Stop.  You Can Get To Any Big Size On Any Level, Just Don&#39;T Do A Sudden Jump From 10Cm To 50M.  Use Jokers To Set Them.  You Will Be Able To Roll Up Anything Very Fast.  It Uses Floats, But They Seem Unpredictable.  I Have A Big List. 36000000 - 1Cm 5Mm 37000000 - 2Cm 4Mm 38000000 - 3Cm 9Mm 39000000 - 6Cm 1Mm 3A000000 - 9Cm 7Mm 3B000000 - 15Cm 5Mm 3C000000 - 24Cm 6Mm 3D000000 - 39Cm 3E000000 - 62Cm 3F000000 - 98Cm 4Mm 3F800000 - 1M 24Cm 40000000 - 1M 56Cm 3Mm 40400000 - 1M 78Cm 9Mm 40800000 - 1M 96Cm 9Mm 41000000 - 2M 48Cm 1Mm 41800000 - 3M 12Cm 6Mm 42000000 - 3M 93Cm 9Mm 42800000 - 4M 96Cm 3Mm 43000000 - 6M 25Cm 2Mm 43800000 - 7M 87Cm 8Mm 44000000 - 9M 92Cm 5Mm 44800000 - 12M 50Cm 5Mm 45000000 - 15M 75Cm 6Mm 45800000 - 19M 85Cm 1Mm 46000000 - 25M 01Cm 1Mm 46800000 - 31M 51Cm 1Mm 47000000 - 39M 70Cm 2Mm 47800000 - 50M 02Cm 2Mm 48000000 - 63M 02Cm 3Mm 48800000 - 79M 40Cm 4Mm 49000000 - 100M 04Cm 3Mm 49800000 - 126M 04Cm 7Mm 4A000000 - 158M 80Cm 9Mm 4A800000 - 200M 08Cm 7Mm 4B000000 - 252M 09Cm 4Mm 4B800000 - 317M 61Cm 8Mm 4C000000 - 400M 17Cm 4Mm 4C800000 - 504M 18Cm 7Mm 4D000000 - 635M 23Cm 6Mm 4D800000 - 800M 34Cm 7Mm</I>}
+%Credits: bungholio
+$2098C4DC ????????
++Player 2 Size Modifier {<I>L2 + Up = Increase Size, L2 + Down = Decrease Size</I>}
+%Credits: bungholio
+$D101BF82 0000FEEF
+$30200004 0098C4DE
+$D101BF82 0000FEBF
+$30300004 0098C4DE
++Player 2 Speed Modifier {<I>It&#39;S Floats. Just Give It Something Like 3F000000, 40000000, 41000000, And Just Keep Increasing It Like That Or Maybe More At A Time. It Determines How Far Away The Prince Is From The Katamari Ball, Which Can Make You Very Fast. The Game Usually Adjusts This For You As You Grow. As You Grow You Will Start Slowing Down So Keep Setting It With The Jokers If You Want. I Could Barely Move If I Set It Too Fast Too Soon.</I>}
+%Credits: bungholio
+$2098C4E8 ????????
++Player 2 Speed Modifier {<I>L2 + Right = Increase Speed, L2 + Left = Decrease Speed</I>}
+%Credits: bungholio
+$D101BF82 0000FEDF
+$30200004 0098C4EA
+$D101BF82 0000FE7F
+$30200004 0098C4EA
++Resume Time
+%Credits: bungholio
+$0054EAA4 00000001
++Sink Halfway Under The Ground Player 1 {<I>I&#39;M Not Sure What Type Of Value Works, It Doesn&#39;T Seem To Be A Float. Not Too Useful, But I Combined It With The Move Through Objects Code And Got Through A Few Walls.  It Might Help You Reach Places That You Would Be Too Big For.</I>}
+%Credits: bungholio
+$209892C8 FFFFFFFF
++Sink Halfway Under The Ground Player 2 {<I>I&#39;M Not Sure What Type Of Value Works, It Doesn&#39;T Seem To Be A Float. Not Too Useful, But I Combined It With The Move Through Objects Code And Got Through A Few Walls.  It Might Help You Reach Places That You Would Be Too Big For.</I>}
+%Credits: bungholio
+$2098CDE8 FFFFFFFF
++Slide Around Things Instead Of Collide Against Them Player 1 {<I>You&#39;Ll Never Crash, Except For Things That Hit You.</I>}
+%Credits: bungholio
+$20988B18 FFFFFFFF
++Slide Around Things Instead Of Collide Against Them Player 2 {<I>You&#39;Ll Never Crash, Except For Things That Hit You.</I>}
+%Credits: bungholio
+$2098C638 FFFFFFFF
++Slowly Lower To A Lower Elevation Player 1 {<I>You&#39;Ll See What I Mean.  Wherever You Slide Down Or Fall, You Will Just Slowly Float To The Ground So You Can Fly For A While.</I>}
+%Credits: bungholio
+$20989A10 00000000
++Slowly Lower To A Lower Elevation Player 2 {<I>You&#39;Ll See What I Mean.  Wherever You Slide Down Or Fall, You Will Just Slowly Float To The Ground So You Can Fly For A While.</I>}
+%Credits: bungholio
+$2098C530 00000000
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Have All Objects Collected
+%Credits: Code Master
+$200C0220 3C030101
+$200C0224 34630101
+$200C0228 3C040056
+$200C022C 24050700
+$200C0230 AC83F664
+$200C0234 24840004
+$200C0238 14A0FFFD
+$200C023C 24A5FFFC
+$200C0240 03E00008
+$200C0244 00000000
+$20189EB4 08030088
++Infinite Time
+%Credits: Code Master
+$201022C4 00000000
+!!
++Time Modifier {<I>The Game Counts by 1/10ths of a second.  1 second is &quot;A&quot; hex, so multiply seconds by A.  I know 3 minutes is 708 hex.  708 hex = 1800 decimal.  3 minutes is 180 seconds.  1800 / 180 = 10 = &quot;A&quot; hex.</i>}
+%Credits: bungholio
+$2054EAA8 ????????
++Timer Counts Up (Only Use One Time Code At Any Time)
+%Credits: MadCatz
+$201022C0 24420001
++Unlock & Complete All Levels {<I>That 3Rd Line Is There So The Game Doesn&#39;T Freeze When You Fly Over Ursa Major.  I Think It Also Unlocks All The Movies In The Moon Gallery.</I>}
+%Credits: bungholio
+$4055FF9C 0016000D
+$01000001 00000000
+$20560308 03070000
++Unlock Eternal #1 (Make A Star 4)
+%Credits: bungholio
+$00561150 00000003
++Unlock Eternal #2 (Make A Star 8)
+%Credits: bungholio
+$00561151 00000003
++Unlock Eternal #3 (Make The Moon)
+%Credits: bungholio
+$00561152 00000003
++Unlock Moon Memorial
+%Credits: bungholio
+$0055F658 00000001
+!Unlock Presents:
++Massive Collection (A)
+%Credits: Codejunkies
+$4055F664 00FF0001
+$01010101 00000000
++Massive Collection (B)
+%Credits: Codejunkies
+$4055FA60 00730001
+$01010101 00000000
+!!
+!!
+

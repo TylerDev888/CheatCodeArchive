@@ -1,0 +1,17 @@
+^2 = GameID: BLES01952
+^3 = NAME: Bound by Flame
+^4 = FILE: SAVEDATA
++Decompress Save (required)
+$Decompress(0x000000AA, -15)
+^4 = FILE: ~extracted\000000aa.dat
+(Gold must have 1 (Working))
++Gold
+$search "gold###"
+$write next (108):0xF423F0
+((Apply on 000000aa.dat only))
++Godmode
+$search "GOD_MODE"
+$write next (62):0x07554E4B4E4F574E
+^4 = FILE: SAVEDATA
++Compress Save (required)
+$Compress(0x000000AA)

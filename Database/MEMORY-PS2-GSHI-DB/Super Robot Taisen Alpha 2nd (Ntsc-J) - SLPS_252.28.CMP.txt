@@ -1,0 +1,12 @@
+^3 = NAME: Super Robot Taisen Alpha 2Nd (Ntsc-J)
+^2 = GameID: SLPS-25228
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9010E778 0C043986
+!!
++Enable Debug Menu At Main Menu [Read Note] {<I>With The Code On, Press Right When The Main Menu Option, Option Is Highlighted. This Will Move Your Cursor Over Start Then, Press Circle To Enter This Menu.</I>}
+%Credits: punk7890
+$00136930 00000004
+!!
+

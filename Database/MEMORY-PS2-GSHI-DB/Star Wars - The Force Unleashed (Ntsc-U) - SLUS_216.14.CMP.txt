@@ -1,0 +1,28 @@
+^3 = NAME: Star Wars - The Force Unleashed (Ntsc-U)
+^2 = GameID: SLUS-21614
+!Master Codes:
++Master Code
+%Credits: BigBossman
+$9018EF50 0C063B7C
+!!
+![ASM]:
++Don't Take Damage [ASM]
+%Credits: Josh_7774
+$D02B2668 E6810470
+$202B2668 00000000
++Dying Doesn't Take Force Points Away [ASM]
+%Credits: Josh_7774
+$D02F1480 AE240030
+$202F1480 00000000
++Force Points Don't Decrease When Upgrading Force Powers [ASM]
+%Credits: Josh_7774
+$D03ED478 AE130030
+$203ED478 00000000
++Force Powers Don't Deplete Force Meter [ASM]
+%Credits: Josh_7774
+$D02BB4B0 E60017D0
+$202BB4B0 00000000
+$D02BB5A8 E60117D0
+$202BB5A8 00000000
+!!
+

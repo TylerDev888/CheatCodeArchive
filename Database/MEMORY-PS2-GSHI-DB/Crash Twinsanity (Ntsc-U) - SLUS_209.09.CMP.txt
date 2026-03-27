@@ -1,0 +1,44 @@
+^3 = NAME: Crash Twinsanity (Ntsc-U)
+^2 = GameID: SLUS-20909
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002C2573
++[M] Must Be On
+%Credits: MadCatz
+$902B2180 0C0B0970
+$200C2000 3402FFFF
+$200C2004 0805A588
+$200C2008 AC820000
+!!
+!Have All Gems/Extras Codes:
++All Gems/Extras
+%Credits: Code Master
+$4098C064 00040001
+$FFFFFFFF 00000000
++Cavern Catastrophe
+%Credits: Code Master
+$2098C06C FFFFFFFF
++Jungle Bungle
+%Credits: Code Master
+$2098C068 FFFFFFFF
++Nsanity Isle
+%Credits: Code Master
+$2098C064 FFFFFFFF
++Totem Kokum
+%Credits: Code Master
+$2098C070 FFFFFFFF
+!!
++Max Fruit & Lives
+%Credits: MadCatz
+$2016961C 08030800
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Infinite Lives/Gems
+%Credits: Code Master
+$200C0220 24023263
+$200C0224 03E00008
+$200C0228 A4820000
+$2016961C 0C030088
+!!
+!!
+

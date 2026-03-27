@@ -1,0 +1,16 @@
+^2 = GameID: NPUB31780
+^3 = NAME: NASCAR '15: VICTORY EDITION
+^4 = FILE: SYS-DATA
++Update Add For Sys-data (required)
+$set [csum]:0
+(set [csum]:add(0x00000C,0x07FFFF))
+$set pointer:eof+1
+$set [csum]:add(0x00000C,pointer)
+$write at 0x000008:[csum]
+^4 = FILE: SYS-TU1.001
++Update Add For Sys-tu1.001 (required)
+$set [csum]:0
+(set [csum]:add(0x00000C,0x07FFFF))
+$set pointer:eof+1
+$set [csum]:add(0x00000C,pointer)
+$write at 0x000008:[csum]

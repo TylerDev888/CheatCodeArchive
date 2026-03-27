@@ -1,0 +1,9 @@
+^2 = GameID: BLES00987
+^3 = NAME: EA SPORTS MMA
+^4 = FILE: SYS-DATA
++Update Crc32 For Sys-data (required)
+(set range:0x00001C,0x30001B)
+$set pointer:eof+1
+$set range:0x00001C,pointer
+$set [hash]:CRC32
+$write at 0x000010:[hash]

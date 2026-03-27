@@ -1,0 +1,11 @@
+^2 = GameID: NPEB00162
+^3 = NAME: Frogger Returns (PSN)
+^4 = FILE: SAVEDATA
++Update Dwadd (required)
+$set [csum]:0
+(set [csum]:dwadd(0x000000,0x000437))
+$set pointer:eof-4
+$set [csum]:dwadd(0x000000,pointer)
+(write at 0x000438:[csum])
+$set pointer:eof-3
+$write next (0):[csum]

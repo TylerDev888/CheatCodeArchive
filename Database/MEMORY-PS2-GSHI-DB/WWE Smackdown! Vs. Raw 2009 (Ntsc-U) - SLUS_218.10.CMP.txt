@@ -1,0 +1,87 @@
+^3 = NAME: WWE Smackdown! Vs. Raw 2009 (Ntsc-U)
+^2 = GameID: SLUS-21810
++Idiot A.I. L1+L2 Enable/R1+R2 Disable {<I>Hold L1+L2 Before Starting A Match For It To Work, Original Codes Made by Codejunkies for the PAL version, ported to NTSC by 47iscool.</i>}
+%Credits: 47iscool
+$D1CAA102 0000FAFF
+$205D3360 24020000
+$D1CAA102 0000F5FF
+$205D3360 2C420001
+!Match Rules Modifiers:
++Captain Falls Modifier {<I>If Player 1 Or 2 Is Eliminated In A Tag Team Match, The Match Ends. However, If Players 3, 4, 5, &Amp; 6 Are Eliminated, The Match Continues. 00 - Off 01 - On</I>}
+%Credits: BigBossman
+$004642FE 000000??
++Crowd Fighting Area Modifier {<I>Allows You To Access The Crowd Fighting Area That Was Left Over From WWE SVR 2007. It&#39;S Located In The Upper Right Corner Of The Arena. The Camera Angle In A 1 On 1 Match Makes It Hard To See. Its Recommended To Use With 3 Or More Characters In A Match. However, It Might Slow The Game Down. Values - 00 - Off 01 - On</I>}
+%Credits: BigBossman
+$00464315 000000??
++Disqualification Modifier {<I>Values -  00 - Disqualifications Are Off 01 - Disqualifications Are On</I>}
+%Credits: BigBossman
+$004642FB 000000??
++Elimination Chamber Modifier {<I>Values - 00 - Off 01 - On</I>}
+%Credits: BigBossman
+$00464309 000000??
++Elimination Tag Modifier {<I>Values - 00 - Off 01 - On</I>}
+%Credits: BigBossman
+$004642FD 000000??
++Escape From Steel Cage Door Modifier {<I>Only Applies To Steel Cage Matches. This Will Allow You To Escape Through The Cage Door Even If There Are More Than Two Players In A Match Values -  00 - Escape From Steel Cage Door Is On 01 - Escape From Steel Cage Door Is Off</I>}
+%Credits: BigBossman
+$0046430C 000000??
++Exreme Rules Match Modifier {<I>Values -  00 - Exreme Rules Match Is On 01 - Exreme Rules Match Is Off</I>}
+%Credits: BigBossman
+$00464318 000000??
++First Blood Match Modifier {<I>Values -  00 - First Blood Match Is Off 01 - First Blood Match Is On</I>}
+%Credits: BigBossman
+$00464308 000000??
++Hardcore Modifier {<I>All This Does Is Have A Couple Of Weapons Laying Out At Ringside. Values -  00 - Hardcore Is Off 01 - Hardcore Is On</I>}
+%Credits: BigBossman
+$004642F1 000000??
++Hell In A Cell Modifier {<I>Values - 00 - Off 01 - On</I>}
+%Credits: BigBossman
+$004642F4 000000??
++Inferno Match Modifier {<I>Doesn&#39;T Work With More Than 4 Characters. Also Freezes When Used In A Tag Match. It Also Won&#39;T Allow You To Exit The Ring. Values - 00 - Off 01 - On</I>}
+%Credits: BigBossman
+$0046431B 000000??
++Iron Man Match Modifier {<I>Values -  00 - Iron Man Matches Are Off 01 - Iron Man Matches Are On</I>}
+%Credits: BigBossman
+$004642EC 000000??
++KO Modifier {<I>Values -  00 - Kos Are Off 01 - Kos Are On</I>}
+%Credits: BigBossman
+$004642E2 000000??
++Ladder Match Modifier {<I>Values -  00 - Ladder Match Is Off 01 - Ladder Match Is On</I>}
+%Credits: BigBossman
+$004642F3 000000??
++Last Man Standing Match Modifier {<I>Values -  00 - Last Man Standing Match Is Off 01 - Last Man Standing Match Is On</I>}
+%Credits: BigBossman
+$004642FA 000000??
++Over The Top Rope Elimination Modifier {<I>Sometimes Called Royal Rumble Match Modifier. Values - 00 - Over The Top Rope Eliminations Are Off 01 - Over The Top Rope Eliminations Are On</I>}
+%Credits: BigBossman
+$004642E6 000000??
++Pinfalls Modifier {<I>Values - 00 - Pinfalls Are Off 01 - Pinfalls Are On 02 - Pinfalls Count Anywhere</I>}
+%Credits: BigBossman
+$004642E1 000000??
++Ring Exit Modifier {<I>Values -  00 - Exiting The Ring Is Allowed 01 - Exiting The Ring Is Prohibited</I>}
+%Credits: BigBossman
+$004642E4 000000??
++Ring Out Count Modifier {<I>Values -  00 - Ring Out Counts Are Off 01 - Ring Out Counts Are On</I>}
+%Credits: BigBossman
+$004642E5 000000??
++Rope Break Modifier {<I>Values - 00 - Rope Breaks Are Off 01 - Rope Breaks Are On</I>}
+%Credits: BigBossman
+$004642E3 000000??
++Steel Cage Modifier {<I>May Freeze With Certain Match Type Combinations. Values - 00 - Steel Cage Is Off 01 - Steel Cage Is On</I>}
+%Credits: BigBossman
+$004642E9 000000??
++Submission Modifier {<I>Values - 00 - Submissions Are Off 01 - Submissions Are On</I>}
+%Credits: BigBossman
+$004642E7 000000??
++Table Match Modifier {<I>Values -  00 - Table Match Is Off 01 - Table Match Is On</I>}
+%Credits: BigBossman
+$004642F2 000000??
++Tag Team / Tornado Tag Team Modifier {<I>Values -  00 - Tornado Tag Team Rules Are On 01 - Tag Team Rules Are On</I>}
+%Credits: BigBossman
+$004642EE 000000??
++TLC Match Modifier {<I>Values - 00 - TLC Match Is Off 01 - TLC Match Is On</I>}
+%Credits: BigBossman
+$004642F8 000000??
+!!
+!!
+

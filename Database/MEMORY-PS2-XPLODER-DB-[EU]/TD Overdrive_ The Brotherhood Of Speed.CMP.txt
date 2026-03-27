@@ -1,0 +1,29 @@
+^3 = NAME: TD Overdrive: The Brotherhood Of Speed
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 001C1B07
+!!
+!Unlock:
++Super Cars
+%Credits: Xploder
+$2024D6AC 01010101
+$2024D6B4 01010101
+$2024D6B8 01010101
+$2024D6BC 01010101
+$2024D6C0 00010101
++All Levels
+%Credits: Xploder
+$4024D6DC 00090001
+$01010101 00000000
+!!
+!Stupid AI:
++Opponents
+%Credits: Xploder
+$20108C60 03E00008
+$10108C64 28090000
++Cops
+%Credits: Xploder
+$2014F4A8 03E00008
+$2014F4AC 00000000
+!!

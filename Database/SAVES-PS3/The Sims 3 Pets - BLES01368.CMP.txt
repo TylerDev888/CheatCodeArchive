@@ -1,0 +1,31 @@
+^2 = GameID: BLES01368
+^3 = NAME: The Sims 3 Pets
+(checksum fixer by chaoszage)
+^4 = FILE: BAKED
++Get Md5 Baked (required)
+$set [MD5_BAKED]:md5
+(dependency: BAKED.MD5)
+^4 = FILE: BAKED.MD5
++Update Md5 On Baked.md5 (required)
+$write at 0x0:[MD5_BAKED]
+^4 = FILE: PERSIST
++Get Md5 Persist (required)
+$set [MD5_PERSIST]:md5
+(dependency: PERSIST.MD5)
+^4 = FILE: PERSIST.MD5
++Update Md5 On Persist.md5 (required)
+$write at 0x0:[MD5_PERSIST]
+^4 = FILE: SCRIPT
++Get Md5 Script (required)
+$set [MD5_SCRIPT]:md5
+(dependency: SCRIPT.MD5)
+^4 = FILE: SCRIPT.MD5
++Update Md5 On Cript.md5 (required)
+$write at 0x0:[MD5_SCRIPT]
+^4 = FILE: SIMS3
++Get Md5 Sims3 (required)
+$set [MD5_SIMS3T]:md5
+(dependency: SIMS3.MD5)
+^4 = FILE: SIMS3.MD5
++Update Md5 On Sims3.md5 (required)
+$write at 0x0:[MD5_SIMS3]

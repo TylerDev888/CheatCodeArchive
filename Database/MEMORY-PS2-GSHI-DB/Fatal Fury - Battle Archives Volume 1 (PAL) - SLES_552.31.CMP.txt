@@ -1,0 +1,14 @@
+^3 = NAME: Fatal Fury - Battle Archives Volume 1 (PAL)
+^2 = GameID: SLES-55231
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: lee4
+$901D1E60 0C074740
+!!
++Force Videout To 480I Instead Of 240P
+%Credits: lee4
+$2019B654 24110001
+$2019B658 24120002
+$2019B664 24130001
+!!
+

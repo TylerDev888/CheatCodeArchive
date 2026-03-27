@@ -1,0 +1,9 @@
+^2 = GameID: NPJB00512
+^3 = NAME: Mobile Suit Gundam: Extreme VS Full Boost
+^4 = FILE: SAVE.DAT
++Update Sha1 For Save.dat (required)
+(set range:0x000020,0x025A4F)
+$set pointer:eof+1
+$set range:0x000020,pointer
+$set [hash]:SHA1
+$write at 0x00000C:[hash]

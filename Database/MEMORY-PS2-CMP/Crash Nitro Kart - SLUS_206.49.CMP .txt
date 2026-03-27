@@ -1,0 +1,59 @@
+^1 = HASH: 86 2D 34 68 3D 5D 9B 49 63 7D 40 27 D4 F8 23 C7 B0 10 A4 6F  
+^2 = GameID: SLUS_206.49 
+^3 = NAME: Crash Nitro Kart
+{These codes will also work on the Crash Bandicoot Action Pack version of the game.}
+%Credits: Hacc
+!Masters:
++Enable Code (MUST BE ON)
+$9043F0F8 0C10FBE6
++Enable Code (MUST BE ON)
+$90447474 0C10A1F8
++Enable Code (MUST BE ON)
+$90108F78 0C08DF4C
+!!
+!Jokers:
++P1 Max Reverse Joker Commands
+$D1864082 0000[Joker:PS2]
++P2 Max Reverse Joker Commands
+$D1864102 0000[Joker:PS2]
+!!
++Skip Videos
+$20343258 00000000
++All Cutscenes & Extra Tracks Unlocked
+$2079B880 DFFFBFFF
++All Characters & Ghosts Unlocked (time Trial)
+$2079B884 FFFFFFFF
+$2079B888 FFFFFFFF
++100% (adventure Mode)
+$20793570 640D040C
+$10793574 00000101
+$207937E0 44239085
+$207937E4 50912809
+$207937E8 1C013804
+$207937EC 25008A02
+$207937F0 11C04280
+$207937F4 000004A0
+$207937F8 00000000
+$207937FC 00000000
+$20793800 00050000
+$20793804 00100020
+$20793808 00040008
+$2079380C 00000000
+$20793810 00000000
+$2079C7A4 45141500
++One Lap Races
+$007CC0DC 00000001
++Amount Mod Opponent Races
+$007CC0EC 000000[Amount:04:HEX:BIG]
++Language Modifier Codes:
+$00749958 0000[LANG]
+^6 = MODS:
+[LANG]
+VALUE>NAME
+0000	English
+0001	French
+0002	German
+0003	Italian
+0004	Dutch
+0005	Spanish
+[\LANG]

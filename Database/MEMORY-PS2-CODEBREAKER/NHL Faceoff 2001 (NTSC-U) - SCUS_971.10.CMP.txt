@@ -1,0 +1,86 @@
+^1 = HASH: 8008AED1
+^3 = NAME: NHL Faceoff 2001
+^2 = GameID: SCUS_971.10
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0136270 00221DAB
+!!
+!Codes:
++Home Team Score Modifier
+%Credits: Code Master
+$1081722E 0000????
++Away Team Score Modifier
+%Credits: Code Master
+$10817230 0000????
++Start On 2Nd Period
+%Credits: Code Master
+$D0313868 00000000
+$10313868 00000001
++Start On 3Rd Period
+%Credits: Code Master
+$D0313868 00000000
+$10313868 00000002
++P1 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 0081D3C2
+$10313870 0000000A
+$10313874 00000000
++P1 Press R1+R2 To End Period
+%Credits: Code Master
+$E002F5FF 0081D3C2
+$10313870 00000000
+$10313874 00000001
++P2 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 0081D562
+$10313870 0000000A
+$10313874 00000000
++P2 Press R1+R2 To End Period
+%Credits: Code Master
+$E002F5FF 0081D562
+$10313870 00000000
+$10313874 00000001
+!!
+!Character Creation Codes:
++Infinite Creation Points
+%Credits: Code Master
+$10289F8C 000001F4
++Max Skating
+%Credits: Code Master
+$10289F10 00000063
++Max Speed
+%Credits: Code Master
+$10289F14 00000063
++Max Slap Shot Power
+%Credits: Code Master
+$10289F18 00000063
++Max Shot Accuracy
+%Credits: Code Master
+$10289F1C 00000063
++Max Passing Ability
+%Credits: Code Master
+$10289F20 00000063
++Max Puck Handling
+%Credits: Code Master
+$10289F24 00000063
++Max Endurance
+%Credits: Code Master
+$10289F28 00000063
++Max Aggression
+%Credits: Code Master
+$10289F2C 00000063
++Max Checking
+%Credits: Code Master
+$10289F30 00000063
++Max Wrist Shot Power
+%Credits: Code Master
+$10289F34 00000063
++Max Fighting
+%Credits: Code Master
+$10289F38 00000063
++Max All Stats
+%Credits: Code Master
+$40289F10 000B0001
+$00000063 00000000
+!!

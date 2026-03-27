@@ -1,0 +1,71 @@
+^1 = HASH: DAE89120
+^3 = NAME: Rogue Ops
+^2 = GameID: SLUS_207.46
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$F0100008 0035A94F
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$9035A94C 0C0D977F
+!!
+!Codes:
++Display FPS
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$2043C9DC 00000001
++Infinite Battery
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$203BD20C 00000000
++Infinite Health
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$201C57BC C4800014
+$201C57C0 E4800018
++Invincible (Cant Be Shot)
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$201C3B80 03E00008
+$201C3B84 00000000
++Half Damage Taken
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$201C3CD0 00000000
+$201C3CD4 00000000
++Max Infinite Ammo
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$201AACB0 24020063
++Infinite Ammo
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$201AACB4 00000000
++Extra Ammo
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$201AACB0 00451021
++Never Reload
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$201AACC8 00000000
++Big Weapons
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$201B89E0 00000000
++Blue Enemies
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$1016E962 00001000
++Max Ammo Upon Reload
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$201AAB14 00000000
++Activate All Cheats
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$2043ECD8 0000FFFF
++Disable FMV
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$20350C18 24020001
++Language Modifier
+%Credits: Code Master>Lajos Szalay>tab>GMO
+$202B68A0 240200??
+!!
+^6 = MODS:
+Quantity Digits to Accompany Language Modifier Code
+00 - Japanese
+01 - English
+02 - French
+03 - Italian
+04 - German
+05 - Spanish
+06 - Dutch
+07 - Portuguese

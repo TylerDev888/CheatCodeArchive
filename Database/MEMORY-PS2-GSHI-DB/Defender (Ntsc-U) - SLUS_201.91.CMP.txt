@@ -1,0 +1,240 @@
+^3 = NAME: Defender (Ntsc-U)
+^2 = GameID: SLUS-20191
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F02398D4 002398D7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002398D7
+!!
+!Access Mission Codes:
++Asteroid Belt-Stage 1
+%Credits: Code Master
+$20565380 00000001
++Earth-Stage 1 & 2
+%Credits: Code Master
+$20565388 00000003
++Europa-Stage 1 & 2
+%Credits: Code Master
+$20565374 00000003
++Mars-Stage 1-4
+%Credits: Code Master
+$2056537C 0000000F
++Moon-Stage 1-3
+%Credits: Code Master
+$20565384 00000007
++Phobos-Stage 1 & 2
+%Credits: Code Master
+$20565378 00000003
++Prometheus-Stage 1 & 2
+%Credits: Code Master
+$20565368 00000003
++Rhea-Stage 1
+%Credits: Code Master
+$2056536C 00000001
++Titan-Stage 1 & 2
+%Credits: Code Master
+$20565370 00000003
++Triton-Stage 1 & 2
+%Credits: Code Master
+$20565364 00000003
+!!
+!Credit Codes:
++Max Credits
+%Credits: Codejunkies
+$205653C8 05F5E0FF
++Never Have Any Credits
+%Credits: Codejunkies
+$E0020000 305653C8
+$E0010000 305653CA
+$205653C8 00000000
++Never Have More Than 1 Credit
+%Credits: Codejunkies
+$E0020001 305653C8
+$E0010000 305653CA
+$205653C8 00000001
++Never Have More Than 2 Credits
+%Credits: Codejunkies
+$E0020002 305653C8
+$E0010000 305653CA
+$205653C8 00000002
++Never Have More Than 3 Credits
+%Credits: Codejunkies
+$E0020003 305653C8
+$E0010000 305653CA
+$205653C8 00000003
+!!
+!Defender Weapon Modifier Codes:
++Weapon 1 {<I>1F1f1f1f - Nothing<Br>00000000 - Pulse Cannon<Br>00000001 - Fast-Lock Missile<Br>00000002 - Railgun<Br>00000003 - Firebolt<Br>00000004 - Volley Missile<Br>00000005 - Plasma Bomb<Br>00000006 - Razor Gun<Br>00000007 - Laser Harpoon<Br>00000008 - Detonator<Br>00000010 - Energy Shield<Br>00000011 - Smart Bomb</I>}
+%Credits: Code Master
+$204C644C ????????
++Weapon 2
+%Credits: Code Master
+$204C6450 ????????
++Weapon 3
+%Credits: Code Master
+$204C6454 ????????
++Weapon 4
+%Credits: Code Master
+$204C6458 ????????
++Weapon 5 {<I>1F1f1f1f - Nothing<Br>00000000 - Pulse Array<Br>00000001 - Volley Missile<Br>00000002 - Lobber Grenade<Br>00000003 - Chain Bazooka<Br>00000004 - Buzzsaw Missile<Br>00000005 - Detonator<Br>00000010 - Hyperspace<Br>00000011 - Pulse Mine</I>}
+%Credits: Code Master
+$204C645C ????????
+!!
+!Defiance Weapon Modifier Codes:
++Weapon 1 {<I>1F1f1f1f - Nothing<Br>00000000 - Pulse Cannon<Br>00000001 - Fast-Lock Missile<Br>00000002 - Railgun<Br>00000003 - Firebolt<Br>00000004 - Volley Missile<Br>00000005 - Plasma Bomb<Br>00000006 - Razor Gun<Br>00000007 - Laser Harpoon<Br>00000008 - Detonator<Br>00000010 - Energy Shield<Br>00000011 - Smart Bomb</I>}
+%Credits: Code Master
+$204C674C ????????
++Weapon 2
+%Credits: Code Master
+$204C6750 ????????
++Weapon 3
+%Credits: Code Master
+$204C6754 ????????
++Weapon 4
+%Credits: Code Master
+$204C6758 ????????
++Weapon 5 {<I>1F1f1f1f - Nothing<Br>00000000 - Pulse Array<Br>00000001 - Volley Missile<Br>00000002 - Lobber Grenade<Br>00000003 - Chain Bazooka<Br>00000004 - Buzzsaw Missile<Br>00000005 - Detonator<Br>00000010 - Hyperspace<Br>00000011 - Pulse Mine</I>}
+%Credits: Code Master
+$204C675C ????????
+!!
+!Guardian Weapon Modifier Codes:
++Weapon 1 {<I>1F1f1f1f - Nothing<Br>00000000 - Firebolt<Br>00000001 - Autoseek&#39;S Missile<Br>00000002 - Lobber Grenade<Br>00000003 - Swingfire Missile<Br>00000004 - Plasma Bomb<Br>00000005 - Chain Bazooka<Br>00000006 - Buzzsaw Missile<Br>00000007 - Firehammer<Br>00000008 - Detonator<Br>00000010 - Hyperspace<Br>00000011 - Energy Shield</I>}
+%Credits: Code Master
+$204C654C ????????
++Weapon 2
+%Credits: Code Master
+$204C6550 ????????
++Weapon 3
+%Credits: Code Master
+$204C6554 ????????
++Weapon 4
+%Credits: Code Master
+$204C6558 ????????
++Weapon 5 {<I>1F1f1f1f - Nothing<Br>00000000 - Pulse Array<Br>00000001 - Volley Missile<Br>00000002 - Lobber Grenade<Br>00000003 - Chain Bazooka<Br>00000004 - Buzzsaw Missile<Br>00000005 - Detonator<Br>00000010 - Hyperspace<Br>00000011 - Pulse Mine</I>}
+%Credits: Code Master
+$204C655C ????????
+!!
++Infinite Ammo
+%Credits: Code Master
+$201DFB54 00000000
+$201E02BC 00000000
+$201E02C8 00000000
++Infinite Credits
+%Credits: Code Master
+$105653C8 0000FFFF
++Infinite Health
+%Credits: Code Master
+$20186DB4 8E01020C
+$20186DB8 AE010208
++Infinite Lives
+%Credits: Code Master
+$105653C4 00000009
+!Judgment Weapon Modifier Codes:
++Weapon 1 {<I>1F1f1f1f - Nothing<Br>00000000 - Firebolt<Br>00000001 - Autoseek&#39;S Missile<Br>00000002 - Lobber Grenade<Br>00000003 - Swingfire Missile<Br>00000004 - Plasma Bomb<Br>00000005 - Chain Bazooka<Br>00000006 - Buzzsaw Missile<Br>00000007 - Firehammer<Br>00000008 - Detonator<Br>00000010 - Hyperspace<Br>00000011 - Energy Shield</I>}
+%Credits: Code Master
+$204C684C ????????
++Weapon 2
+%Credits: Code Master
+$204C6850 ????????
++Weapon 3
+%Credits: Code Master
+$204C6854 ????????
++Weapon 4
+%Credits: Code Master
+$204C6858 ????????
++Weapon 5 {<I>1F1f1f1f - Nothing<Br>00000000 - Pulse Array<Br>00000001 - Volley Missile<Br>00000002 - Lobber Grenade<Br>00000003 - Chain Bazooka<Br>00000004 - Buzzsaw Missile<Br>00000005 - Detonator<Br>00000010 - Hyperspace<Br>00000011 - Pulse Mine</I>}
+%Credits: Code Master
+$204C685C ????????
+!!
+!Lives Codes:
++Infinite Lives
+%Credits: Codejunkies
+$105653C4 0000270F
++Never Have Any Lives
+%Credits: Codejunkies
+$105653C4 00000000
++Never Have More Than 1 Life
+%Credits: Codejunkies
+$E0010001 305653C4
+$105653C4 00000001
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E0010002 305653C4
+$105653C4 00000002
++Never Have More Than 3 Lives
+%Credits: Codejunkies
+$E0010003 305653C4
+$105653C4 00000003
+!!
++Max Lives
+%Credits: InterAct
+$105653C4 00000006
+!Mission Completion Screen Codes:
++Max Colonists Rescued
+%Credits: Code Master
+$215E8BF8 000003E7
++Max Kill Bonus
+%Credits: Code Master
+$215E8BE4 3B9AC9FF
++Max Total
+%Credits: Code Master
+$215E8BE0 3B9AC9FF
++No Colonists Killed
+%Credits: Code Master
+$215E8C10 00000000
++No Colonists Mutated
+%Credits: Code Master
+$215E8C04 00000000
+!!
+!Nemesis Weapon Modifier Codes:
++Weapon 1 {<I>1F1f1f1f - Nothing<Br>00000000 - Pulse Array<Br>00000001 - Hive Gun<Br>00000002 - Scatter Gun<Br>00000003 - Plasma Bomb<Br>00000004 - Swingfire Misile<Br>00000005 - Detonator<Br>00000006 - Ratchet Cannon<Br>00000007 - Laser Lance<Br>00000010 - Energy Shield<Br>00000011 - Pulse Mine</I>}
+%Credits: Code Master
+$204C664C ????????
++Weapon 2
+%Credits: Code Master
+$204C6650 ????????
++Weapon 3
+%Credits: Code Master
+$204C6654 ????????
++Weapon 4
+%Credits: Code Master
+$204C6658 ????????
++Weapon 5 {<I>1F1f1f1f - Nothing<Br>00000000 - Pulse Array<Br>00000001 - Volley Missile<Br>00000002 - Lobber Grenade<Br>00000003 - Chain Bazooka<Br>00000004 - Buzzsaw Missile<Br>00000005 - Detonator<Br>00000010 - Hyperspace<Br>00000011 - Pulse Mine</I>}
+%Credits: Code Master
+$204C665C ????????
+!!
+!Retribution Weapon Modifier Codes:
++Weapon 1
+%Credits: Code Master
+$204C694C ????????
++Weapon 2
+%Credits: Code Master
+$204C6950 ????????
++Weapon 3
+%Credits: Code Master
+$204C6954 ????????
++Weapon 4
+%Credits: Code Master
+$204C6958 ????????
++Weapon 5 {<I>1F1f1f1f - Nothing<Br>00000000 - Pulse Array<Br>00000001 - Volley Missile<Br>00000002 - Lobber Grenade<Br>00000003 - Chain Bazooka<Br>00000004 - Buzzsaw Missile<Br>00000005 - Detonator<Br>00000010 - Hyperspace<Br>00000011 - Pulse Mine</I>}
+%Credits: Code Master
+$204C695C ????????
+!!
+!Statistic Codes:
++Maximum Number Of Colonists Are Saved
+%Credits: Codejunkies
+$115E8BF8 0000270F
++No Colonists Are Killed
+%Credits: Codejunkies
+$115E8C10 00000000
++No Mutations
+%Credits: Codejunkies
+$115E8C04 00000000
+!!
++Unlock All Ships
+%Credits: Code Master
+$20565360 000000FF
+!!
+

@@ -1,0 +1,76 @@
+^3 = NAME: Dynasty Warriors 2 (PAL-E)
+^2 = GameID: SLES-50057
++1Hitkill {<I>Hold R2 While Hitting Enemies To Activate The Effect | Use With &Quot;Player 1 Invulnerable&Quot;</I>}
+%Credits: luc-ita
+$2022E244 A4C7000C
+$D034110A 0000FDFF
+$2022E244 A4C0000C
+$D034110A 00007DFF
+$2022E244 A4C0000C
+$D034110A 0000DDFF
+$2022E244 A4C0000C
+$D034110A 0000EDFF
+$2022E244 A4C0000C
++Always Have Full X2 Powers
+%Credits: luc-ita
+$20287DC4 0802800C
+$200A0030 3C010033
+$200A0034 3421A810
+$200A0038 8C210000
+$200A003C 1481000A
+$200A0040 00000000
+$200A0044 2401001C
+$200A0048 A08101E8
+$200A004C 240105DC
+$200A0050 A4810240
+$200A0054 A4810244
+$200A0058 A4810248
+$200A005C A4800242
+$200A0060 A4800246
+$200A0064 A480024A
+$200A0068 03E00008
++Joker Commands
+%Credits: luc-ita
+$D034110A 0000????
+$D034118A 0000????
++Player 1 Invulnerable
+%Credits: luc-ita
+$2022E238 08028000
+$2022E23C 00000000
+$200A0000 00A7182A
+$200A0004 3C010033
+$200A0008 3421A810
+$200A000C 8C210000
+$200A0010 10C10003
+$200A0014 00000000
+$200A0018 0808B890
+$200A001C 00A3380B
+$200A0020 0808B89A
+$200A0024 00A3380B
++Skip All Game Movies
+%Credits: luc-ita
+$2029BB18 03E00008
+$2029BB1C 00000000
++Skip Dynasty Warriors Logo {<I>Hold R2 While Hitting Enemies To Activate The Effect | Use With &Quot;Player 1 Invulnerable&Quot;</I>}
+%Credits: luc-ita
+$202008B0 00000000
++Skip Initial Movie
+%Credits: luc-ita
+$2020080C 00000000
++Skip Koei Logo
+%Credits: luc-ita
+$20200798 00000000
++Skip Koei Logo {<I>Video Starts After A Few Minutes That You Do Not Press Start</I>}
+%Credits: luc-ita
+$202007C0 00000000
++Skip Midas Logo {<I>Video Starts After A Few Minutes That You Do Not Press Start</I>}
+%Credits: luc-ita
+$202007A8 00000000
++Skip Midas Logo {<I>Video Starts After A Few Minutes That You Do Not Press Start</I>}
+%Credits: luc-ita
+$202007D8 00000000
++Skip Omega Logo
+%Credits: luc-ita
+$202007F4 00000000
+!!
+

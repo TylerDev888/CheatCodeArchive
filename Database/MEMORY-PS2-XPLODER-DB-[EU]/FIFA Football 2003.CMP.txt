@@ -1,0 +1,29 @@
+^3 = NAME: FIFA Football 2003
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 003BF1AF
+!!
+!Home Team:
++Scores 9 Goals
+%Credits: Xploder
+$D05DCA02 28097FFE
+$003DB7F0 28096809
++Scores No Goals
+%Credits: Xploder
+$D05DCA02 2809BFFE
+$003DB7F0 28096800
+!!
+!Away Team:
++Scores 9 Goals
+%Credits: Xploder
+$D05DCA02 2809DFFE
+$003DB7F4 28096809
++Scores No Goal
+%Credits: Xploder
+$D05DCA02 2809EFFE
+$003DB7F4 28096800
++Start Season With 99 Points
+%Credits: Xploder
+$20D772E4 00000063
+!!

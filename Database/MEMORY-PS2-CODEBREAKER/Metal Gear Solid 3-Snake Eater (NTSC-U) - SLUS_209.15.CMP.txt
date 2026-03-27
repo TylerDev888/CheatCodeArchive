@@ -1,0 +1,636 @@
+^1 = HASH: AA31B5BF
+^3 = NAME: Metal Gear Solid 3-Snake Eater
+^2 = GameID: SLUS_209.15
+!Masters:
++Enable Code (Must Be On) [Read Note]
+%Credits: Code Master
+$90175B28 0C061A24
+$E0072882 000802CC
+$200802CC 8C860000
+$200802D0 10C00033
+$200802D4 00050C02
+$200802D8 00C13021
+$200802DC 10000030
+$200802E0 A4C50000
+$100800BC 00000083
+$200C0220 3C01000C
+$200C0224 25CF0158
+$200C0228 03E00008
+$200C022C AC2F0000
+$200C0230 3C01000C
+$200C0234 3C040025
+$200C0238 8C841D90
+$200C023C 50800008
+$200C0240 AC200000
+$200C0244 8C8536C4
+$200C0248 8C260260
+$200C024C 54A60004
+$200C0250 AC200000
+$200C0254 3C050803
+$200C0258 34A50088
+$200C025C AC8536C4
+$200C0260 03E00008
+$200C0264 00000000
+$20175B74 0803008C
++Enable Code (Must Be On) [Read Note]
+%Credits: Code Master
+$90182408 0C0649C4
+$E0038C86 000802E6
+$200802E8 00050C02
+$200802EC 00C13021
+$200802F4 A4C50000
+!!
+!HELLO ENABLE CODE! Sorry, but this game moves its memory around A LOT. I have solved this in an extremely long Enable Code. It might be able to have a shorter Enable Code, but the method I have done below seems to handle all situations. So, in closing, if you dont have one, GET AN USB FLASH DEVICE :):
++Infinite Health
+%Credits: Code Master
+$C01D30A8 064C03E8
+$C01D30A8 064E03E8
++Infinite Stamina
+%Credits: Code Master
+$C01D30A8 0A127530
+$C01D30A8 0A147530
+!!
+!Ending Result Codes:
++No Times Continued
+%Credits: Code Master
+$C01D30A8 00340000
++No Times Saved
+%Credits: Code Master
+$C01D30A8 00360000
++No Times Alerted
+%Credits: Code Master
+$C01D30A8 00380000
++No Times Seriously Injured
+%Credits: Code Master
+$C01D30A8 003A0000
++No Total Damage Life Bars
+%Credits: Code Master
+$C01D30A8 00440000
++No Meals Eaten
+%Credits: Code Master
+$C01D30A8 00460000
++Always Low Play Time
+%Credits: Code Master
+$C01D30A8 004C0000
+$C01D30A8 004E0000
+!!
+!Infinite Ammo Codes:
++Cigar Gas-Spray
+%Credits: Code Master
+$C00C0000 00C003E7
++Handkerchief
+%Credits: Code Master
+$C00C0000 00F803E7
++MK-22
+%Credits: Code Master
+$C00C0000 013003E7
++M1911a1
+%Credits: Code Master
+$C00C0000 016803E7
++Single Action Army
+%Credits: Code Master
+$C00C0000 01D803E7
++Scorpion
+%Credits: Code Master
+$C00C0000 024803E7
++Xm16e1
+%Credits: Code Master
+$C00C0000 028003E7
++AK-47
+%Credits: Code Master
+$C00C0000 02B803E7
++M63
+%Credits: Code Master
+$C00C0000 02F003E7
++M37
+%Credits: Code Master
+$C00C0000 032803E7
++SVD
+%Credits: Code Master
+$C00C0000 036003E7
++Mosin Nagant
+%Credits: Code Master
+$C00C0000 039803E7
++RPG-7
+%Credits: Code Master
+$C00C0000 03D003E7
++Grenade
+%Credits: Code Master
+$C00C0000 044003E7
++WP Grenade
+%Credits: Code Master
+$C00C0000 047803E7
++Stun Grenade
+%Credits: Code Master
+$C00C0000 04B003E7
++Chaff Grenade
+%Credits: Code Master
+$C00C0000 04E803E7
++Smoke Grenade
+%Credits: Code Master
+$C00C0000 052003E7
++Magazine
+%Credits: Code Master
+$C00C0000 055803E7
++TNT
+%Credits: Code Master
+$C00C0000 059003E7
++C3
+%Credits: Code Master
+$C00C0000 05C803E7
++Claymore
+%Credits: Code Master
+$C00C0000 060003E7
++Book
+%Credits: Code Master
+$C00C0000 063803E7
++Mousetrap
+%Credits: Code Master
+$C00C0000 067003E7
++MK-22
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 227803E7
++M1911a1
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 22B003E7
++Patriot
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 235803E7
++M16a1
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 23C803E7
++AK-47
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 240003E7
++M37
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 247003E7
++SVD
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 24A803E7
++Frag Grenade
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 258803E7
++Stun Grenade
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 25F803E7
++Magazines
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 26A003E7
+!!
+!Max Ammo Codes:
++Cigar Gas-Spray
+%Credits: Code Master
+$C00C0000 00C203E7
++Handkerchief
+%Credits: Code Master
+$C00C0000 00FA03E7
++MK-22
+%Credits: Code Master
+$C00C0000 013203E7
++M1911a1
+%Credits: Code Master
+$C00C0000 016A03E7
++Single Action Army
+%Credits: Code Master
+$C00C0000 01DA03E7
++Scorpion
+%Credits: Code Master
+$C00C0000 024A03E7
++Xm16e1
+%Credits: Code Master
+$C00C0000 028203E7
++AK-47
+%Credits: Code Master
+$C00C0000 02BA03E7
++M63
+%Credits: Code Master
+$C00C0000 02F203E7
++M37
+%Credits: Code Master
+$C00C0000 032A03E7
++SVD
+%Credits: Code Master
+$C00C0000 036203E7
++Mosin Nagant
+%Credits: Code Master
+$C00C0000 039A03E7
++RPG-7
+%Credits: Code Master
+$C00C0000 03D203E7
++Grenade
+%Credits: Code Master
+$C00C0000 044203E7
++WP Grenade
+%Credits: Code Master
+$C00C0000 047A03E7
++Stun Grenade
+%Credits: Code Master
+$C00C0000 04B203E7
++Chaff Grenade
+%Credits: Code Master
+$C00C0000 04EA03E7
++Smoke Grenade
+%Credits: Code Master
+$C00C0000 052203E7
++Magazine
+%Credits: Code Master
+$C00C0000 055A03E7
++TNT
+%Credits: Code Master
+$C00C0000 059203E7
++C3
+%Credits: Code Master
+$C00C0000 05CA03E7
++Claymore
+%Credits: Code Master
+$C00C0000 060203E7
++Book
+%Credits: Code Master
+$C00C0000 063A03E7
++Mousetrap
+%Credits: Code Master
+$C00C0000 067203E7
++MK-22
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 227A03E7
++M1911a1
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 22B203E7
++Patriot
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 235A03E7
++M16a1
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 23CA03E7
++AK-47
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 240203E7
++M37
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 247203E7
++SVD
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 24AA03E7
++Frag Grenade
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 258A03E7
++Stun Grenade
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 25FA03E7
++Magazines
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 26A203E7
+!!
+!Never Reload Codes:
++Cigar Gas-Spray
+%Credits: Code Master
+$C00C0000 00C20005
++Handkerchief
+%Credits: Code Master
+$C00C0000 00FC0005
++MK-22
+%Credits: Code Master
+$C00C0000 01340008
++M1911a1
+%Credits: Code Master
+$C00C0000 016C0007
++Single Action Army
+%Credits: Code Master
+$C00C0000 01DC0006
++Scorpion
+%Credits: Code Master
+$C00C0000 024C001E
++Xm16e1
+%Credits: Code Master
+$C00C0000 02840014
++AK-47
+%Credits: Code Master
+$C00C0000 02BC001E
++M63
+%Credits: Code Master
+$C00C0000 02F40064
++M37
+%Credits: Code Master
+$C00C0000 032C0004
++SVD
+%Credits: Code Master
+$C00C0000 0364000A
++Mosin Nagant
+%Credits: Code Master
+$C00C0000 039C0005
++RPG-7
+%Credits: Code Master
+$C00C0000 03D40001
++Grenade
+%Credits: Code Master
+$C00C0000 04440005
++MK-22
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 227C0008
++M1911a1
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 22B40007
++Patriot
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 235C0007
++M16a1
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 23CC0014
++AK-47
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 2404001E
++M37
+%Credits: Code Master
+$E0010000 10252206
+$C0252204 24740004
+!!
+!Have Backpack Item Codes:
++Survival Knife
+%Credits: Code Master
+$C00C0000 00500001
++Fork
+%Credits: Code Master
+$C00C0000 00880001
++EZ Gun
+%Credits: Code Master
+$C00C0000 01A00001
++Patriot
+%Credits: Code Master
+$C00C0000 02100001
++Torch
+%Credits: Code Master
+$C00C0000 04080001
++Life Medicine
+%Credits: Code Master
+$C00C0000 1CF8000A
++Pentazemin
+%Credits: Code Master
+$C00C0000 1D30000A
++Fake Death Pill
+%Credits: Code Master
+$C00C0000 1D680005
++Revival Pill
+%Credits: Code Master
+$C00C0000 1DA00001
++Cigar
+%Credits: Code Master
+$C00C0000 1DD80001
++Binoculars
+%Credits: Code Master
+$C00C0000 1E100001
++Thermal Goggles
+%Credits: Code Master
+$C00C0000 1E480001
++Night Vision Goggles
+%Credits: Code Master
+$C00C0000 1E800001
++Camera
+%Credits: Code Master
+$C00C0000 1EB80001
++Motion Detector
+%Credits: Code Master
+$C00C0000 1EF00001
++Active Sonar
+%Credits: Code Master
+$C00C0000 1F280001
++Mine Detector
+%Credits: Code Master
+$C00C0000 1F600001
++Anti-Personnel Sensor
+%Credits: Code Master
+$C00C0000 1F980001
++Cardboard Box A
+%Credits: Code Master
+$C00C0000 1FD00019
++Cardboard Box B
+%Credits: Code Master
+$C00C0000 20080019
++Cardboard Box C
+%Credits: Code Master
+$C00C0000 20400019
++Cardboard Box D
+%Credits: Code Master
+$C00C0000 20780001
++Crocodile Cap
+%Credits: Code Master
+$C00C0000 20B00001
++Key A
+%Credits: Code Master
+$C00C0000 20E80001
++Key B
+%Credits: Code Master
+$C00C0000 21200001
++Key C
+%Credits: Code Master
+$C00C0000 21580001
++Bandana
+%Credits: Code Master
+$C00C0000 21900001
++Stealth Camouflage
+%Credits: Code Master
+$C00C0000 21C80001
++Bug Juice
+%Credits: Code Master
+$C00C0000 22000019
++Monkey Mask
+%Credits: Code Master
+$C00C0000 22380001
+!!
+!Have Camouflage Uniform Codes:
++Olive Drab
+%Credits: Code Master
+$C00C0000 25B80001
++Tiger Stripe
+%Credits: Code Master
+$C00C0000 25F00001
++Leaf
+%Credits: Code Master
+$C00C0000 26280001
++Tree Bark
+%Credits: Code Master
+$C00C0000 26600001
++Choco Chip
+%Credits: Code Master
+$C00C0000 26980001
++Splitter
+%Credits: Code Master
+$C00C0000 26D00001
++Raindrop
+%Credits: Code Master
+$C00C0000 27080001
++Squares
+%Credits: Code Master
+$C00C0000 27400001
++Water
+%Credits: Code Master
+$C00C0000 27780001
++Black
+%Credits: Code Master
+$C00C0000 27B00001
++Snow
+%Credits: Code Master
+$C00C0000 27E80001
++Naked
+%Credits: Code Master
+$C00C0000 28200001
++Sneaking
+%Credits: Code Master
+$C00C0000 28580001
++Scientist
+%Credits: Code Master
+$C00C0000 28900001
++Officer
+%Credits: Code Master
+$C00C0000 28C80001
++Maintenance
+%Credits: Code Master
+$C00C0000 29000001
++Tuxedo
+%Credits: Code Master
+$C00C0000 29380001
++Hornet Stripe
+%Credits: Code Master
+$C00C0000 29700001
++Spider
+%Credits: Code Master
+$C00C0000 29A80001
++Moss
+%Credits: Code Master
+$C00C0000 29E00001
++Fire
+%Credits: Code Master
+$C00C0000 2A180001
++Spirit
+%Credits: Code Master
+$C00C0000 2A500001
++Cold War
+%Credits: Code Master
+$C00C0000 2A880001
++Snake
+%Credits: Code Master
+$C00C0000 2AC00001
++GA-KO
+%Credits: Code Master
+$C00C0000 2AF80001
++Desert Tiger
+%Credits: Code Master
+$C00C0000 2B300001
++DPM
+%Credits: Code Master
+$C00C0000 2B680001
++Flecktarn
+%Credits: Code Master
+$C00C0000 2BA00001
++Auscam
+%Credits: Code Master
+$C00C0000 2BD80001
++Animals
+%Credits: Code Master
+$C00C0000 2C100001
++Fly
+%Credits: Code Master
+$C00C0000 2C480001
++Banana
+%Credits: Code Master
+$C00C0000 2C800001
+!!
+!Have Camouflage Face Codes:
++No Paint
+%Credits: Code Master
+$C00C0000 2CF00001
++Woodland
+%Credits: Code Master
+$C00C0000 2D280001
++Black
+%Credits: Code Master
+$C00C0000 2D600001
++Water
+%Credits: Code Master
+$C00C0000 2D980001
++Desert
+%Credits: Code Master
+$C00C0000 2DD00001
++Splitter
+%Credits: Code Master
+$C00C0000 2E080001
++Snow
+%Credits: Code Master
+$C00C0000 2E400001
++Kabuki
+%Credits: Code Master
+$C00C0000 2E780001
++Zombie
+%Credits: Code Master
+$C00C0000 2EB00001
++Oyama
+%Credits: Code Master
+$C00C0000 2EE80001
++Mask
+%Credits: Code Master
+$C00C0000 2F200001
++Green
+%Credits: Code Master
+$C00C0000 2F580001
++Brown
+%Credits: Code Master
+$C00C0000 2F900001
++Infinity
+%Credits: Code Master
+$C00C0000 2FC80001
+!!
+!Snake Vs. Monkey Codes:
++Press L1+Up For All Monkeys-Stage 1
+%Credits: Code Master
+$D0210E5C 0000FBEF
+$214F3CB0 00090009
++Press L1+Right For All Monkeys-Stage 2
+%Credits: Code Master
+$D0210E5C 0000FBDF
+$21616EB0 000F000F
++Press L1+Down For All Monkeys-Stage 3
+%Credits: Code Master
+$D0210E5C 0000FBBF
+$21650200 00150015
++Press L1+Left For All Monkeys-Stage 4
+%Credits: Code Master
+$D0210E5C 0000FB7F
+$21621830 00120012
++Press L2+Up For All Monkeys-Stage 5
+%Credits: Code Master
+$D0210E5C 0000FEEF
+$21533160 00120012
+!!
+!OPM November 2004-Issue 86 Codes:
++Infinite Time To Play
+%Credits: Code Master
+$10104266 00001000
++Infinite Health
+%Credits: Code Master
+$202413C8 00C800C8
+!!

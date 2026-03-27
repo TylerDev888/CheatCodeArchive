@@ -1,0 +1,32 @@
+^3 = NAME: David Beckham Soccer (Pal-Unk)
+^2 = GameID: SLES-50243
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01C6DC8 001EC187
++(M) Must Be On
+%Credits: Codejunkies
+$F01EC184 001EC187
+!!
++Away Team Score 0 (Press Select+Left To Activate)
+%Credits: Codejunkies
+$D0288240 0000FF7E
+$002281EC 00000000
++Away Team Score 99 (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D0288240 0000FFDE
+$002281EC 00000063
++Glitchy Characters
+%Credits: Codejunkies
+$20282400 3C800000
+$20282404 3C800000
++Home Team Score 0 (Press Select+Down To Activate)
+%Credits: Codejunkies
+$D0288240 0000FFBE
+$002281E8 00000000
++Home Team Score 99 (Press Select+Up To Activate)
+%Credits: Codejunkies
+$D0288240 0000FFEE
+$002281E8 00000063
+!!
+

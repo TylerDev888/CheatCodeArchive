@@ -1,0 +1,44 @@
+^3 = NAME: Ultraman Nexus (Ntsc-J)
+^2 = GameID: SLPS-20420
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Hacc
+$9031A1D8 0C0C681E
+!!
++Arena Modifier {<I>00 - Dark 1<Br>01 - Dark 2<Br>02 - Stage 3<Br>03 - Stage 4<Br>04 - Stage 5<Br>05 - Stage 6<Br>06 - Stage 7<Br>07 - Stage 8<Br>08 - Stage 9<Br>09 - Stage A<Br>0A - Command Room<Br>0B - Ending</I>}
+%Credits: Hacc
+$004438FC 000000??
++P1 Max Reverse Joker Commands
+%Credits: Hacc
+$D04475C2 0000????
+$D0447642 0000????
++P2 Max Reverse Joker Commands
+%Credits: Hacc
+$D04476C2 0000????
+$D0447742 0000????
++Skip FMV
+%Credits: Hacc
+$202CF488 24020001
+!Special Level Modifier (Both Players) Codes:
++P1 Press L1 + L2 For Special Level 2
+%Credits: Hacc
+$D04475C2 0000FAFF
+$2017D414 24020002
++P1 Press L1 + R1 For Special Level 1
+%Credits: Hacc
+$D04475C2 0000F3FF
+$2017D414 24020001
++P1 Press R1 + R2 For Special Level 3
+%Credits: Hacc
+$D04475C2 0000F5FF
+$2017D414 24020003
+!!
++Sudden Death Mode (Both Players)
+%Credits: Hacc
+$200FFF00 3C010000
+$200FFF04 44810000
+$200FFF08 E480033C
+$200FFF0C 03E00008
+$2017D3F8 0803FFC0
+!!
+

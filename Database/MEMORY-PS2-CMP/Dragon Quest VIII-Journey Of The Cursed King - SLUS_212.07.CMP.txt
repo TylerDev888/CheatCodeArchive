@@ -1,0 +1,5709 @@
+^1 = Hash: 21 FD 4B F2 54 64 1F C2 22 34 59 C0 DE 2C B5 4A 0B C9 7B 83
+^2 = GameID: SLUS_212.07
+^3 = NAME: Dragon Quest VIII: Journey Of The Cursed King
+!Masters:
++Enable Code (MUST BE ON)
+$9012C510 00832021
++Enable Code (MUST BE ON)
+$F012C358 0012C35B
++Enable Code (MUST BE ON)
+$0E3C7DF2 1456E7A5
+$F034539C 0034539F
+!!
+!Misc:
++Infinite Gold
+%Credits: SkillerCMP>Pyriel
+$10409840 0000FFFF
++Max Gold
+%Credits: SkillerCMP>Pyriel
+$20409840 05F5E0FF
++Max All Main Items In Bag
+%Credits: SkillerCMP>Pyriel
+$40409AD0 01510001
+$03E00001 00000001
++Have All Main & Key Items In Bag)
+%Credits: SkillerCMP>Pyriel
+$40409AD0 01800001
+$03E00001 00000001
++Full Teleport List
+%Credits: SkillerCMP>Pyriel
+$20409090 FFFFFFFF
+$00409094 000000FF
++Chance Of (rare) Drops Greatly Increased
+%Credits: SkillerCMP>Pyriel
+$20297014 3C020001
++Enemies Always Drop Rare Items
+%Credits: SkillerCMP>Pyriel
+$20296FB4 10000027
+$20297058 0280102D
++Enemies Always Drop Normal Items
+%Credits: SkillerCMP>Pyriel
+$20296FB0 9454004A
+$20296FB4 10000027
+$20297058 0280102D
++50/50 Chance Of Normal Or Rare Drop
+%Credits: SkillerCMP>Pyriel
+$20296FAC 0C04D0FE
+$20296FB0 00000000
+$20296FB4 30420001
+$20296FB8 00021040
+$20296FBC 02221021
+$20296FC0 1000002A
+$20296FC4 94420048
++Susceptible Enemies Always Enthralled
+%Credits: SkillerCMP>Pyriel
+$20295D0C 00000000
++Enemy Party Status Modifier
+%Credits: SkillerCMP>Pyriel
+$20295C50 03E00008
+$20295C54 3402[STU]
++Have All 4 Characters
+%Credits: SkillerCMP>Pyriel
+$00409844 0000000F
++Level Up Once For Max Strength/Attack
+%Credits: SkillerCMP>Pyriel
+$10203F1E 00001000
++Level Up Once For Max Agility
+%Credits: SkillerCMP>Pyriel
+$10203F2E 00001000
++Level Up Once For Max Resilience/Defence
+%Credits: SkillerCMP>Pyriel
+$10203F3E 00001000
++Level Up Once For Max Wisdom
+%Credits: SkillerCMP>Pyriel
+$10203F4E 00001000
++Level Up Once For Max HP
+%Credits: SkillerCMP>Pyriel
+$10203F6E 00001000
++Level Up Once For Max MP
+%Credits: SkillerCMP>Pyriel
+$10203F7E 00001000
++Level Up Once For Level 99
+%Credits: SkillerCMP>Pyriel
+$20207004 00000000
++Quick Max Tension Gain
+%Credits: SkillerCMP>Pyriel
+$202FCFCC 00000000
++No Random Battles
+%Credits: SkillerCMP>Pyriel
+$202FA8DC 00000000
++Super Less Often Random Battles
+%Credits: SkillerCMP>Pyriel
+$102FA89C 00004596
++Less Often Random Battles
+%Credits: SkillerCMP>Pyriel
+$102FA89C 0000447A
++More Often Random Battles
+%Credits: SkillerCMP>Pyriel
+$102FA89C 00004080
++Super Often Random Battles
+%Credits: SkillerCMP>Pyriel
+$102FA89C 00004000
++Casino Max Coin 99999999
+%Credits: SkillerCMP>Pyriel
+$2040EA50 05F5E0FF
++Bank Max Money 99999000
+%Credits: SkillerCMP>Pyriel
+$2040A294 05F5DD18
+!!
+!Alchemy Codes:
++Alchemy Pot Upgrade Modifier
+%Credits: SkillerCMP>Pyriel
+$00408F9E 000000[POT]
++Unlock All Alchemy Recipes
+%Credits: SkillerCMP>Pyriel
+$4040E880 00320001
+$FFFFFFFF 00000000
+!!
+!Quick Gain Codes:
++Gain ???? Skill Points Per Level
+%Credits: SkillerCMP>Pyriel
+$104618B2 0000[Amount:2710:HEX:BIG]
++Gain ???? Extra Skill Points Per Level
+%Credits: SkillerCMP>Pyriel
+$203778D4 24A5[Amount:2710:HEX:BIG]
++Skill Points Per Level Multiplier
+%Credits: SkillerCMP>Pyriel
+$203778D4 0005[XX]
++Each Skill Gains ?? Points Per Level Up (note 1 & 3)
+%Credits: SkillerCMP>Pyriel
+$20206C70 2443[Amount:2710:HEX:BIG]
++Allocated Skill Points Multiplier (note 1 & 2)
+%Credits: SkillerCMP>Pyriel
+$20206C60 0006[YXX]
++Quick Experience Gain
+%Credits: SkillerCMP>Pyriel
+$203609D8 3402[Amount:2710:HEX:BIG]
+$203609DC AFA2319C
++Quick Experience Gain{Value Not Shown In Messages}
+%Credits: SkillerCMP>Pyriel
+$203609D8 3402[Amount:2710:HEX:BIG]
++Super Quick Experience Gain{0001 = 65,536 And 0002 = 131,072.}
+%Credits: SkillerCMP>Pyriel
+$203609D8 3C02[Amount:2710:HEX:BIG]
+$203609DC AFA2319C
++Super Quick Experience Gain{0001 = 65,536 And 0002 = 131,072. - Value Not Shown In Messages}
+%Credits: SkillerCMP>Pyriel
+$203609D8 3C02[Amount:2710:HEX:BIG]
++Experience Multiplier
+%Credits: SkillerCMP>Pyriel
+$203609D4 8FA2319C
+$203609D8 0002[EXP]
+$203609DC AFA2319C
++Experience Multiplier (value Not Shown In Messages)
+%Credits: SkillerCMP>Pyriel
+$203609D4 8FA2319C
+$203609D8 0002[EXP]
+!!
+!Battle Log Codes:
++Always Low Time Spent Adventuring
+%Credits: SkillerCMP>Pyriel
+$203D2768 00000000
++Max Battles
+%Credits: SkillerCMP>Pyriel
+$2040A540 05F5E0FF
++No Battles
+%Credits: SkillerCMP>Pyriel
+$2040A540 00000000
++Max Monsters Defeated
+%Credits: SkillerCMP>Pyriel
+$2040A544 05F5E0FF
++No Monsters Defeated
+%Credits: SkillerCMP>Pyriel
+$2040A544 00000000
++Max Victories
+%Credits: SkillerCMP>Pyriel
+$2040A54C 05F5E0FF
++No Victories
+%Credits: SkillerCMP>Pyriel
+$2040A54C 00000000
++Max Times Fled
+%Credits: SkillerCMP>Pyriel
+$2040A554 05F5E0FF
++No Times Fled
+%Credits: SkillerCMP>Pyriel
+$2040A554 00000000
++Max Times Wiped Out
+%Credits: SkillerCMP>Pyriel
+$2040A558 05F5E0FF
++No Times Wiped Out
+%Credits: SkillerCMP>Pyriel
+$2040A558 00000000
++Max Total Gold Obtained
+%Credits: SkillerCMP>Pyriel
+$2040A55C 05F5E0FF
++No Total Gold Obtained
+%Credits: SkillerCMP>Pyriel
+$2040A55C 00000000
++Max Distance Travelled
+%Credits: SkillerCMP>Pyriel
+$2040A564 4CBEBC20
++No Distance Travelled
+%Credits: SkillerCMP>Pyriel
+$2040A564 00000000
++Max Maximum Damage In A Turn
+%Credits: SkillerCMP>Pyriel
+$2040A574 05F5E0FF
++No Maximum Damage In A Turn
+%Credits: SkillerCMP>Pyriel
+$2040A574 00000000
++Have All Collected Items List
+%Credits: SkillerCMP>Pyriel
+$4040A2A8 000D0001
+$FFFFFFFF 00000000
++Have All Defeated Monster List
+%Credits: SkillerCMP>Pyriel
+$4040A5A0 01250008
+$00000001 00000000
+!!
+!In-Battle Codes:
++Infinite HP + Hud Fix
+%Credits: SkillerCMP>Pyriel
+$20207170 00000000
+$20355CF8 0041280B
+$20355CFC 90810010
+$20355D00 0041280A
++Infinite MP
+%Credits: SkillerCMP>Pyriel
+$20353F08 0041280B
+$20353F0C 90810010
+$20353F10 0041280A
++Money On Hand Does Not Decrease
+%Credits: SkillerCMP>Pyriel
+$202028C4 5CA00001
+$202028C8 00451021
+$202028CC 00000000
++Quick Max Tension Gain (enemy's Gain At Normal Rate)
+%Credits: SkillerCMP>Pyriel
+$200C0200 92410010
+$200C0204 00641821
+$200C0208 080D5607
+$200C020C 0041180A
+$20355818 08030080
++Quick Max Tension Gain & Enemies Always Zero Tension
+%Credits: SkillerCMP>Pyriel
+$200C0200 92410010
+$200C0204 0000182D
+$200C0208 080D5607
+$200C020C 0041180A
+$20355818 08030080
++Enemies Always Zero Tension (party Gains At Normal Rate)
+%Credits: SkillerCMP>Pyriel
+$200C0200 92410010
+$200C0204 00641821
+$200C0208 080D5607
+$200C020C 0001180B
+$20355818 08030080
++Enemies Always Asleep
+%Credits: SkillerCMP>Pyriel
+$200C2000 54400002
+$200C2004 90410010
+$200C2008 03E00008
+$200C200C 3C080000
+$200C2010 35080010
+$200C2014 8C490158
+$200C2018 01284025
+$200C201C 0121400A
+$200C2020 03E00008
+$200C2024 AC480158
+$20351EBC 08030800
++Infinite MP
+%Credits: SkillerCMP>Pyriel
+$20207040 00000000
++Refill MP After Battle To Max
+%Credits: SkillerCMP>Pyriel
+$20207034 00000000
++Infinite HP
+%Credits: SkillerCMP>Pyriel
+$20207170 00000000
++Refill HP After Battle To Max
+%Credits: SkillerCMP>Pyriel
+$20207164 00000000
++Quick Money Gain
+%Credits: SkillerCMP>Pyriel
+$202028C4 244201F4
++Quicker Money Gain
+%Credits: SkillerCMP>Pyriel
+$202028C4 244203E8
++Super Quick Money Gain
+%Credits: SkillerCMP>Pyriel
+$202028C4 24422710
++Ultra Quick Money Gain
+%Credits: SkillerCMP>Pyriel
+$202028C4 244261A8
++Quick Max Money Gain
+%Credits: SkillerCMP>Pyriel
+$202028DC 00000000
+!!
+!In- Batttle Hero Codes:
++Infinite HP
+%Credits: SkillerCMP>Pyriel
+$203AC424 000003E7
++Max HP
+%Credits: SkillerCMP>Pyriel
+$203AC444 000003E7
++Infinite MP
+%Credits: SkillerCMP>Pyriel
+$203AC604 000003E7
++Max MP
+%Credits: SkillerCMP>Pyriel
+$203AC624 000003E7
+!!
+!In- Batttle Yangus Codes:
++Infinite HP
+%Credits: SkillerCMP>Pyriel
+$203AC484 000003E7
++Max HP
+%Credits: SkillerCMP>Pyriel
+$203AC4A4 000003E7
++Infinite MP
+%Credits: SkillerCMP>Pyriel
+$203AC664 000003E7
++Max MP
+%Credits: SkillerCMP>Pyriel
+$203AC684 000003E7
+!!
+!In- Batttle Jessica Codes:
++Infinite HP
+%Credits: SkillerCMP>Pyriel
+$203AC4E4 000003E7
++Max HP
+%Credits: SkillerCMP>Pyriel
+$203AC504 000003E7
++Infinite MP
+%Credits: SkillerCMP>Pyriel
+$203AC6C4 000003E7
++Max MP
+%Credits: SkillerCMP>Pyriel
+$203AC6E4 000003E7
+!!
+!In- Batttle Angelo Codes:
++Infinite HP
+%Credits: SkillerCMP>Pyriel
+$203AC544 000003E7
++Max HP
+%Credits: SkillerCMP>Pyriel
+$203AC564 000003E7
++Infinite MP
+%Credits: SkillerCMP>Pyriel
+$203AC724 000003E7
++Max MP
+%Credits: SkillerCMP>Pyriel
+$203AC744 000003E7
+!!
+!!
+!Characters:
+!Hero Codes:
++Max HP
+%Credits: SkillerCMP>Pyriel
+$20409870 000003E7
++Infinite HP
+%Credits: SkillerCMP>Pyriel
+$20409874 000003E7
++Max MP
+%Credits: SkillerCMP>Pyriel
+$20409878 000003E7
++Infinite MP
+%Credits: SkillerCMP>Pyriel
+$2040987C 000003E7
++Level 99
+%Credits: SkillerCMP>Pyriel
+$20409880 00000062
++Quick EXP Gain
+%Credits: SkillerCMP>Pyriel
+$10409888 0000FFFF
++Max EXP
+%Credits: SkillerCMP>Pyriel
+$20409888 05F5E0FF
++Never Sick
+%Credits: SkillerCMP>Pyriel
+$20409890 00000000
++Have All Magic
+%Credits: SkillerCMP>Pyriel
+$20409898 FFFFFFFF
++Max Strength/Attack
+%Credits: SkillerCMP>Pyriel
+$104098A0 000003E7
++Max Agility
+%Credits: SkillerCMP>Pyriel
+$104098A2 000003E7
++Max Resilience/Defence
+%Credits: SkillerCMP>Pyriel
+$104098A4 000003E7
++Max Wisdom
+%Credits: SkillerCMP>Pyriel
+$104098A6 000003E7
++Max Swords
+%Credits: SkillerCMP>Pyriel
+$104098AA 000003E7
++Max Spears
+%Credits: SkillerCMP>Pyriel
+$104098AC 000003E7
++Max Boomerangs
+%Credits: SkillerCMP>Pyriel
+$104098AE 000003E7
++Max Fisticuffs
+%Credits: SkillerCMP>Pyriel
+$104098B0 000003E7
++Max Courage
+%Credits: SkillerCMP>Pyriel
+$104098B2 000003E7
+!Hero Have Item Modifier Codes:
++Slot 1
+%Credits: SkillerCMP>Pyriel
+$2ABB1C67 0000[ITEM]
++Slot 2
+%Credits: SkillerCMP>Pyriel
+$2AA71C67 0000[ITEM]
++Slot 3
+%Credits: SkillerCMP>Pyriel
+$2AA31C67 0000[ITEM]
++Slot 4
+%Credits: SkillerCMP>Pyriel
+$2AAF1C67 0000[ITEM]
++Slot 5
+%Credits: SkillerCMP>Pyriel
+$2AAB1C67 0000[ITEM]
++Slot 6
+%Credits: SkillerCMP>Pyriel
+$2A971C67 0000[ITEM]
++Slot 7
+%Credits: SkillerCMP>Pyriel
+$2A931C67 0000[ITEM]
++Slot 8
+%Credits: SkillerCMP>Pyriel
+$2A9F1C67 0000[ITEM]
++Slot 9
+%Credits: SkillerCMP>Pyriel
+$2A9B1C67 0000[ITEM]
++Slot 10
+%Credits: SkillerCMP>Pyriel
+$2A871C67 0000[ITEM]
++Slot 11
+%Credits: SkillerCMP>Pyriel
+$2A831C67 0000[ITEM]
++Slot 12
+%Credits: SkillerCMP>Pyriel
+$2A8F1C67 0000[ITEM]
+!!
+!Yangus Codes:
++Max HP
+%Credits: SkillerCMP>Pyriel
+$204098D8 000003E7
++Infinite HP
+%Credits: SkillerCMP>Pyriel
+$204098DC 000003E7
++Max MP
+%Credits: SkillerCMP>Pyriel
+$204098E0 000003E7
++Infinite MP
+%Credits: SkillerCMP>Pyriel
+$204098E4 000003E7
++Level 99
+%Credits: SkillerCMP>Pyriel
+$204098E8 00000062
++Quick EXP Gain
+%Credits: SkillerCMP>Pyriel
+$104098F0 0000FFFF
++Max EXP
+%Credits: SkillerCMP>Pyriel
+$204098F0 05F5E0FF
++Never Sick
+%Credits: SkillerCMP>Pyriel
+$204098F8 00000000
++Have All Magic
+%Credits: SkillerCMP>Pyriel
+$20409900 FFFFFFFF
++Max Strength/Attack
+%Credits: SkillerCMP>Pyriel
+$10409908 000003E7
++Max Agility
+%Credits: SkillerCMP>Pyriel
+$1040990A 000003E7
++Max Resilience/Defence
+%Credits: SkillerCMP>Pyriel
+$1040990C 000003E7
++Max Wisdom
+%Credits: SkillerCMP>Pyriel
+$1040990E 000003E7
++Max Swords
+%Credits: SkillerCMP>Pyriel
+$10409912 000003E7
++Max Spears
+%Credits: SkillerCMP>Pyriel
+$10409914 000003E7
++Max Boomerangs
+%Credits: SkillerCMP>Pyriel
+$10409916 000003E7
++Max Fisticuffs
+%Credits: SkillerCMP>Pyriel
+$10409918 000003E7
++Max Courage
+%Credits: SkillerCMP>Pyriel
+$1040991A 000003E7
+!!
+!Jessica Codes:
++Max HP
+%Credits: SkillerCMP>Pyriel
+$20409940 000003E7
++Infinite HP
+%Credits: SkillerCMP>Pyriel
+$20409944 000003E7
++Max MP
+%Credits: SkillerCMP>Pyriel
+$20409948 000003E7
++Infinite MP
+%Credits: SkillerCMP>Pyriel
+$2040994C 000003E7
++Level 99
+%Credits: SkillerCMP>Pyriel
+$20409950 00000062
++Quick EXP Gain
+%Credits: SkillerCMP>Pyriel
+$10409958 0000FFFF
++Max EXP
+%Credits: SkillerCMP>Pyriel
+$20409958 05F5E0FF
++Never Sick
+%Credits: SkillerCMP>Pyriel
+$20409960 00000000
++Have All Magic
+%Credits: SkillerCMP>Pyriel
+$20409968 FFFFFFFF
++Max Strength/Attack
+%Credits: SkillerCMP>Pyriel
+$10409970 000003E7
++Max Agility
+%Credits: SkillerCMP>Pyriel
+$10409972 000003E7
++Max Resilience/Defence
+%Credits: SkillerCMP>Pyriel
+$10409974 000003E7
++Max Wisdom
+%Credits: SkillerCMP>Pyriel
+$10409976 000003E7
++Max Swords
+%Credits: SkillerCMP>Pyriel
+$1040997A 000003E7
++Max Spears
+%Credits: SkillerCMP>Pyriel
+$1040997C 000003E7
++Max Boomerangs
+%Credits: SkillerCMP>Pyriel
+$1040997E 000003E7
++Max Fisticuffs
+%Credits: SkillerCMP>Pyriel
+$10409980 000003E7
++Max Courage
+%Credits: SkillerCMP>Pyriel
+$10409982 000003E7
+!!
+!Angelo Codes:
++Max HP
+%Credits: SkillerCMP>Pyriel
+$204099A8 000003E7
++Infinite HP
+%Credits: SkillerCMP>Pyriel
+$204099AC 000003E7
++Max MP
+%Credits: SkillerCMP>Pyriel
+$204099B0 000003E7
++Infinite MP
+%Credits: SkillerCMP>Pyriel
+$204099B4 000003E7
++Level 99
+%Credits: SkillerCMP>Pyriel
+$204099B8 00000062
++Quick EXP Gain
+%Credits: SkillerCMP>Pyriel
+$104099C0 0000FFFF
++Max EXP
+%Credits: SkillerCMP>Pyriel
+$204099C0 05F5E0FF
++Never Sick
+%Credits: SkillerCMP>Pyriel
+$204099C8 00000000
++Have All Magic
+%Credits: SkillerCMP>Pyriel
+$204099D0 FFFFFFFF
++Max Strength/Attack
+%Credits: SkillerCMP>Pyriel
+$104099D8 000003E7
++Max Agility
+%Credits: SkillerCMP>Pyriel
+$104099DA 000003E7
++Max Resilience/Defence
+%Credits: SkillerCMP>Pyriel
+$104099DC 000003E7
++Max Wisdom
+%Credits: SkillerCMP>Pyriel
+$104099DE 000003E7
++Max Swords
+%Credits: SkillerCMP>Pyriel
+$104099E2 000003E7
++Max Spears
+%Credits: SkillerCMP>Pyriel
+$104099E4 000003E7
++Max Boomerangs
+%Credits: SkillerCMP>Pyriel
+$104099E6 000003E7
++Max Fisticuffs
+%Credits: SkillerCMP>Pyriel
+$104099E8 000003E7
++Max Courage
+%Credits: SkillerCMP>Pyriel
+$104099EA 000003E7
+!!
+!!
+!Max Bag Item Codes:
++Slot 1
+%Credits: SkillerCMP>Pyriel
+$10409AD2 000003E7
++Slot 2
+%Credits: SkillerCMP>Pyriel
+$10409AD6 000003E7
++Slot 3
+%Credits: SkillerCMP>Pyriel
+$10409ADA 000003E7
++Slot 4
+%Credits: SkillerCMP>Pyriel
+$10409ADE 000003E7
++Slot 5
+%Credits: SkillerCMP>Pyriel
+$10409AE2 000003E7
++Slot 6
+%Credits: SkillerCMP>Pyriel
+$10409AE6 000003E7
++Slot 7
+%Credits: SkillerCMP>Pyriel
+$10409AEA 000003E7
++Slot 8
+%Credits: SkillerCMP>Pyriel
+$10409AEE 000003E7
++Slot 9
+%Credits: SkillerCMP>Pyriel
+$10409AF2 000003E7
++Slot 10
+%Credits: SkillerCMP>Pyriel
+$10409AF6 000003E7
++Slot 11
+%Credits: SkillerCMP>Pyriel
+$10409AFA 000003E7
++Slot 12
+%Credits: SkillerCMP>Pyriel
+$10409AFE 000003E7
++Slot 13
+%Credits: SkillerCMP>Pyriel
+$10409B02 000003E7
++Slot 14
+%Credits: SkillerCMP>Pyriel
+$10409B06 000003E7
++Slot 15
+%Credits: SkillerCMP>Pyriel
+$10409B0A 000003E7
++Slot 16
+%Credits: SkillerCMP>Pyriel
+$10409B0E 000003E7
++Slot 17
+%Credits: SkillerCMP>Pyriel
+$10409B12 000003E7
++Slot 18
+%Credits: SkillerCMP>Pyriel
+$10409B16 000003E7
++Slot 19
+%Credits: SkillerCMP>Pyriel
+$10409B1A 000003E7
++Slot 20
+%Credits: SkillerCMP>Pyriel
+$10409B1E 000003E7
++Slot 21
+%Credits: SkillerCMP>Pyriel
+$10409B22 000003E7
++Slot 22
+%Credits: SkillerCMP>Pyriel
+$10409B26 000003E7
++Slot 23
+%Credits: SkillerCMP>Pyriel
+$10409B2A 000003E7
++Slot 24
+%Credits: SkillerCMP>Pyriel
+$10409B2E 000003E7
++Slot 25
+%Credits: SkillerCMP>Pyriel
+$10409B32 000003E7
++Slot 26
+%Credits: SkillerCMP>Pyriel
+$10409B36 000003E7
++Slot 27
+%Credits: SkillerCMP>Pyriel
+$10409B3A 000003E7
++Slot 28
+%Credits: SkillerCMP>Pyriel
+$10409B3E 000003E7
++Slot 29
+%Credits: SkillerCMP>Pyriel
+$10409B42 000003E7
++Slot 30
+%Credits: SkillerCMP>Pyriel
+$10409B46 000003E7
++Slot 31
+%Credits: SkillerCMP>Pyriel
+$10409B4A 000003E7
++Slot 32
+%Credits: SkillerCMP>Pyriel
+$10409B4E 000003E7
++Slot 33
+%Credits: SkillerCMP>Pyriel
+$10409B52 000003E7
++Slot 34
+%Credits: SkillerCMP>Pyriel
+$10409B56 000003E7
++Slot 35
+%Credits: SkillerCMP>Pyriel
+$10409B5A 000003E7
++Slot 36
+%Credits: SkillerCMP>Pyriel
+$10409B5E 000003E7
++Slot 37
+%Credits: SkillerCMP>Pyriel
+$10409B62 000003E7
++Slot 38
+%Credits: SkillerCMP>Pyriel
+$10409B66 000003E7
++Slot 39
+%Credits: SkillerCMP>Pyriel
+$10409B6A 000003E7
++Slot 40
+%Credits: SkillerCMP>Pyriel
+$10409B6E 000003E7
++Slot 41
+%Credits: SkillerCMP>Pyriel
+$10409B72 000003E7
++Slot 42
+%Credits: SkillerCMP>Pyriel
+$10409B76 000003E7
++Slot 43
+%Credits: SkillerCMP>Pyriel
+$10409B7A 000003E7
++Slot 44
+%Credits: SkillerCMP>Pyriel
+$10409B7E 000003E7
++Slot 45
+%Credits: SkillerCMP>Pyriel
+$10409B82 000003E7
++Slot 46
+%Credits: SkillerCMP>Pyriel
+$10409B86 000003E7
++Slot 47
+%Credits: SkillerCMP>Pyriel
+$10409B8A 000003E7
++Slot 48
+%Credits: SkillerCMP>Pyriel
+$10409B8E 000003E7
++Slot 49
+%Credits: SkillerCMP>Pyriel
+$10409B92 000003E7
++Slot 50
+%Credits: SkillerCMP>Pyriel
+$10409B96 000003E7
++Slot 51
+%Credits: SkillerCMP>Pyriel
+$10409B9A 000003E7
++Slot 52
+%Credits: SkillerCMP>Pyriel
+$10409B9E 000003E7
++Slot 53
+%Credits: SkillerCMP>Pyriel
+$10409BA2 000003E7
++Slot 54
+%Credits: SkillerCMP>Pyriel
+$10409BA6 000003E7
++Slot 55
+%Credits: SkillerCMP>Pyriel
+$10409BAA 000003E7
++Slot 56
+%Credits: SkillerCMP>Pyriel
+$10409BAE 000003E7
++Slot 57
+%Credits: SkillerCMP>Pyriel
+$10409BB2 000003E7
++Slot 58
+%Credits: SkillerCMP>Pyriel
+$10409BB6 000003E7
++Slot 59
+%Credits: SkillerCMP>Pyriel
+$10409BBA 000003E7
++Slot 60
+%Credits: SkillerCMP>Pyriel
+$10409BBE 000003E7
++Slot 61
+%Credits: SkillerCMP>Pyriel
+$10409BC2 000003E7
++Slot 62
+%Credits: SkillerCMP>Pyriel
+$10409BC6 000003E7
++Slot 63
+%Credits: SkillerCMP>Pyriel
+$10409BCA 000003E7
++Slot 64
+%Credits: SkillerCMP>Pyriel
+$10409BCE 000003E7
++Slot 65
+%Credits: SkillerCMP>Pyriel
+$10409BD2 000003E7
++Slot 66
+%Credits: SkillerCMP>Pyriel
+$10409BD6 000003E7
++Slot 67
+%Credits: SkillerCMP>Pyriel
+$10409BDA 000003E7
++Slot 68
+%Credits: SkillerCMP>Pyriel
+$10409BDE 000003E7
++Slot 69
+%Credits: SkillerCMP>Pyriel
+$10409BE2 000003E7
++Slot 70
+%Credits: SkillerCMP>Pyriel
+$10409BE6 000003E7
++Slot 71
+%Credits: SkillerCMP>Pyriel
+$10409BEA 000003E7
++Slot 72
+%Credits: SkillerCMP>Pyriel
+$10409BEE 000003E7
++Slot 73
+%Credits: SkillerCMP>Pyriel
+$10409BF2 000003E7
++Slot 74
+%Credits: SkillerCMP>Pyriel
+$10409BF6 000003E7
++Slot 75
+%Credits: SkillerCMP>Pyriel
+$10409BFA 000003E7
++Slot 76
+%Credits: SkillerCMP>Pyriel
+$10409BFE 000003E7
++Slot 77
+%Credits: SkillerCMP>Pyriel
+$10409C02 000003E7
++Slot 78
+%Credits: SkillerCMP>Pyriel
+$10409C06 000003E7
++Slot 79
+%Credits: SkillerCMP>Pyriel
+$10409C0A 000003E7
++Slot 80
+%Credits: SkillerCMP>Pyriel
+$10409C0E 000003E7
++Slot 81
+%Credits: SkillerCMP>Pyriel
+$10409C12 000003E7
++Slot 82
+%Credits: SkillerCMP>Pyriel
+$10409C16 000003E7
++Slot 83
+%Credits: SkillerCMP>Pyriel
+$10409C1A 000003E7
++Slot 84
+%Credits: SkillerCMP>Pyriel
+$10409C1E 000003E7
++Slot 85
+%Credits: SkillerCMP>Pyriel
+$10409C22 000003E7
++Slot 86
+%Credits: SkillerCMP>Pyriel
+$10409C26 000003E7
++Slot 87
+%Credits: SkillerCMP>Pyriel
+$10409C2A 000003E7
++Slot 88
+%Credits: SkillerCMP>Pyriel
+$10409C2E 000003E7
++Slot 89
+%Credits: SkillerCMP>Pyriel
+$10409C32 000003E7
++Slot 90
+%Credits: SkillerCMP>Pyriel
+$10409C36 000003E7
++Slot 91
+%Credits: SkillerCMP>Pyriel
+$10409C3A 000003E7
++Slot 92
+%Credits: SkillerCMP>Pyriel
+$10409C3E 000003E7
++Slot 93
+%Credits: SkillerCMP>Pyriel
+$10409C42 000003E7
++Slot 94
+%Credits: SkillerCMP>Pyriel
+$10409C46 000003E7
++Slot 95
+%Credits: SkillerCMP>Pyriel
+$10409C4A 000003E7
++Slot 96
+%Credits: SkillerCMP>Pyriel
+$10409C4E 000003E7
++Slot 97
+%Credits: SkillerCMP>Pyriel
+$10409C52 000003E7
++Slot 98
+%Credits: SkillerCMP>Pyriel
+$10409C56 000003E7
++Slot 99
+%Credits: SkillerCMP>Pyriel
+$10409C5A 000003E7
++Slot 100
+%Credits: SkillerCMP>Pyriel
+$10409C5E 000003E7
++Slot 101
+%Credits: SkillerCMP>Pyriel
+$10409C62 000003E7
++Slot 102
+%Credits: SkillerCMP>Pyriel
+$10409C66 000003E7
++Slot 103
+%Credits: SkillerCMP>Pyriel
+$10409C6A 000003E7
++Slot 104
+%Credits: SkillerCMP>Pyriel
+$10409C6E 000003E7
++Slot 105
+%Credits: SkillerCMP>Pyriel
+$10409C72 000003E7
++Slot 106
+%Credits: SkillerCMP>Pyriel
+$10409C76 000003E7
++Slot 107
+%Credits: SkillerCMP>Pyriel
+$10409C7A 000003E7
++Slot 108
+%Credits: SkillerCMP>Pyriel
+$10409C7E 000003E7
++Slot 109
+%Credits: SkillerCMP>Pyriel
+$10409C82 000003E7
++Slot 110
+%Credits: SkillerCMP>Pyriel
+$10409C86 000003E7
++Slot 111
+%Credits: SkillerCMP>Pyriel
+$10409C8A 000003E7
++Slot 112
+%Credits: SkillerCMP>Pyriel
+$10409C8E 000003E7
++Slot 113
+%Credits: SkillerCMP>Pyriel
+$10409C92 000003E7
++Slot 114
+%Credits: SkillerCMP>Pyriel
+$10409C96 000003E7
++Slot 115
+%Credits: SkillerCMP>Pyriel
+$10409C9A 000003E7
++Slot 116
+%Credits: SkillerCMP>Pyriel
+$10409C9E 000003E7
++Slot 117
+%Credits: SkillerCMP>Pyriel
+$10409CA2 000003E7
++Slot 118
+%Credits: SkillerCMP>Pyriel
+$10409CA6 000003E7
++Slot 119
+%Credits: SkillerCMP>Pyriel
+$10409CAA 000003E7
++Slot 120
+%Credits: SkillerCMP>Pyriel
+$10409CAE 000003E7
++Slot 121
+%Credits: SkillerCMP>Pyriel
+$10409CB2 000003E7
++Slot 122
+%Credits: SkillerCMP>Pyriel
+$10409CB6 000003E7
++Slot 123
+%Credits: SkillerCMP>Pyriel
+$10409CBA 000003E7
++Slot 124
+%Credits: SkillerCMP>Pyriel
+$10409CBE 000003E7
++Slot 125
+%Credits: SkillerCMP>Pyriel
+$10409CC2 000003E7
++Slot 126
+%Credits: SkillerCMP>Pyriel
+$10409CC6 000003E7
++Slot 127
+%Credits: SkillerCMP>Pyriel
+$10409CCA 000003E7
++Slot 128
+%Credits: SkillerCMP>Pyriel
+$10409CCE 000003E7
++Slot 129
+%Credits: SkillerCMP>Pyriel
+$10409CD2 000003E7
++Slot 130
+%Credits: SkillerCMP>Pyriel
+$10409CD6 000003E7
++Slot 131
+%Credits: SkillerCMP>Pyriel
+$10409CDA 000003E7
++Slot 132
+%Credits: SkillerCMP>Pyriel
+$10409CDE 000003E7
++Slot 133
+%Credits: SkillerCMP>Pyriel
+$10409CE2 000003E7
++Slot 134
+%Credits: SkillerCMP>Pyriel
+$10409CE6 000003E7
++Slot 135
+%Credits: SkillerCMP>Pyriel
+$10409CEA 000003E7
++Slot 136
+%Credits: SkillerCMP>Pyriel
+$10409CEE 000003E7
++Slot 137
+%Credits: SkillerCMP>Pyriel
+$10409CF2 000003E7
++Slot 138
+%Credits: SkillerCMP>Pyriel
+$10409CF6 000003E7
++Slot 139
+%Credits: SkillerCMP>Pyriel
+$10409CFA 000003E7
++Slot 140
+%Credits: SkillerCMP>Pyriel
+$10409CFE 000003E7
++Slot 141
+%Credits: SkillerCMP>Pyriel
+$10409D02 000003E7
++Slot 142
+%Credits: SkillerCMP>Pyriel
+$10409D06 000003E7
++Slot 143
+%Credits: SkillerCMP>Pyriel
+$10409D0A 000003E7
++Slot 144
+%Credits: SkillerCMP>Pyriel
+$10409D0E 000003E7
++Slot 145
+%Credits: SkillerCMP>Pyriel
+$10409D12 000003E7
++Slot 146
+%Credits: SkillerCMP>Pyriel
+$10409D16 000003E7
++Slot 147
+%Credits: SkillerCMP>Pyriel
+$10409D1A 000003E7
++Slot 148
+%Credits: SkillerCMP>Pyriel
+$10409D1E 000003E7
++Slot 149
+%Credits: SkillerCMP>Pyriel
+$10409D22 000003E7
++Slot 150
+%Credits: SkillerCMP>Pyriel
+$10409D26 000003E7
++Slot 151
+%Credits: SkillerCMP>Pyriel
+$10409D2A 000003E7
++Slot 152
+%Credits: SkillerCMP>Pyriel
+$10409D2E 000003E7
++Slot 153
+%Credits: SkillerCMP>Pyriel
+$10409D32 000003E7
++Slot 154
+%Credits: SkillerCMP>Pyriel
+$10409D36 000003E7
++Slot 155
+%Credits: SkillerCMP>Pyriel
+$10409D3A 000003E7
++Slot 156
+%Credits: SkillerCMP>Pyriel
+$10409D3E 000003E7
++Slot 157
+%Credits: SkillerCMP>Pyriel
+$10409D42 000003E7
++Slot 158
+%Credits: SkillerCMP>Pyriel
+$10409D46 000003E7
++Slot 159
+%Credits: SkillerCMP>Pyriel
+$10409D4A 000003E7
++Slot 160
+%Credits: SkillerCMP>Pyriel
+$10409D4E 000003E7
++Slot 161
+%Credits: SkillerCMP>Pyriel
+$10409D52 000003E7
++Slot 162
+%Credits: SkillerCMP>Pyriel
+$10409D56 000003E7
++Slot 163
+%Credits: SkillerCMP>Pyriel
+$10409D5A 000003E7
++Slot 164
+%Credits: SkillerCMP>Pyriel
+$10409D5E 000003E7
++Slot 165
+%Credits: SkillerCMP>Pyriel
+$10409D62 000003E7
++Slot 166
+%Credits: SkillerCMP>Pyriel
+$10409D66 000003E7
++Slot 167
+%Credits: SkillerCMP>Pyriel
+$10409D6A 000003E7
++Slot 168
+%Credits: SkillerCMP>Pyriel
+$10409D6E 000003E7
++Slot 169
+%Credits: SkillerCMP>Pyriel
+$10409D72 000003E7
++Slot 170
+%Credits: SkillerCMP>Pyriel
+$10409D76 000003E7
++Slot 171
+%Credits: SkillerCMP>Pyriel
+$10409D7A 000003E7
++Slot 172
+%Credits: SkillerCMP>Pyriel
+$10409D7E 000003E7
++Slot 173
+%Credits: SkillerCMP>Pyriel
+$10409D82 000003E7
++Slot 174
+%Credits: SkillerCMP>Pyriel
+$10409D86 000003E7
++Slot 175
+%Credits: SkillerCMP>Pyriel
+$10409D8A 000003E7
++Slot 176
+%Credits: SkillerCMP>Pyriel
+$10409D8E 000003E7
++Slot 177
+%Credits: SkillerCMP>Pyriel
+$10409D92 000003E7
++Slot 178
+%Credits: SkillerCMP>Pyriel
+$10409D96 000003E7
++Slot 179
+%Credits: SkillerCMP>Pyriel
+$10409D9A 000003E7
++Slot 180
+%Credits: SkillerCMP>Pyriel
+$10409D9E 000003E7
++Slot 181
+%Credits: SkillerCMP>Pyriel
+$10409DA2 000003E7
++Slot 182
+%Credits: SkillerCMP>Pyriel
+$10409DA6 000003E7
++Slot 183
+%Credits: SkillerCMP>Pyriel
+$10409DAA 000003E7
++Slot 184
+%Credits: SkillerCMP>Pyriel
+$10409DAE 000003E7
++Slot 185
+%Credits: SkillerCMP>Pyriel
+$10409DB2 000003E7
++Slot 186
+%Credits: SkillerCMP>Pyriel
+$10409DB6 000003E7
++Slot 187
+%Credits: SkillerCMP>Pyriel
+$10409DBA 000003E7
++Slot 188
+%Credits: SkillerCMP>Pyriel
+$10409DBE 000003E7
++Slot 189
+%Credits: SkillerCMP>Pyriel
+$10409DC2 000003E7
++Slot 190
+%Credits: SkillerCMP>Pyriel
+$10409DC6 000003E7
++Slot 191
+%Credits: SkillerCMP>Pyriel
+$10409DCA 000003E7
++Slot 192
+%Credits: SkillerCMP>Pyriel
+$10409DCE 000003E7
++Slot 193
+%Credits: SkillerCMP>Pyriel
+$10409DD2 000003E7
++Slot 194
+%Credits: SkillerCMP>Pyriel
+$10409DD6 000003E7
++Slot 195
+%Credits: SkillerCMP>Pyriel
+$10409DDA 000003E7
++Slot 196
+%Credits: SkillerCMP>Pyriel
+$10409DDE 000003E7
++Slot 197
+%Credits: SkillerCMP>Pyriel
+$10409DE2 000003E7
++Slot 198
+%Credits: SkillerCMP>Pyriel
+$10409DE6 000003E7
++Slot 199
+%Credits: SkillerCMP>Pyriel
+$10409DEA 000003E7
++Slot 200
+%Credits: SkillerCMP>Pyriel
+$10409DEE 000003E7
++Slot 201
+%Credits: SkillerCMP>Pyriel
+$10409DF2 000003E7
++Slot 202
+%Credits: SkillerCMP>Pyriel
+$10409DF6 000003E7
++Slot 203
+%Credits: SkillerCMP>Pyriel
+$10409DFA 000003E7
++Slot 204
+%Credits: SkillerCMP>Pyriel
+$10409DFE 000003E7
++Slot 205
+%Credits: SkillerCMP>Pyriel
+$10409E02 000003E7
++Slot 206
+%Credits: SkillerCMP>Pyriel
+$10409E06 000003E7
++Slot 207
+%Credits: SkillerCMP>Pyriel
+$10409E0A 000003E7
++Slot 208
+%Credits: SkillerCMP>Pyriel
+$10409E0E 000003E7
++Slot 209
+%Credits: SkillerCMP>Pyriel
+$10409E12 000003E7
++Slot 210
+%Credits: SkillerCMP>Pyriel
+$10409E16 000003E7
++Slot 211
+%Credits: SkillerCMP>Pyriel
+$10409E1A 000003E7
++Slot 212
+%Credits: SkillerCMP>Pyriel
+$10409E1E 000003E7
++Slot 213
+%Credits: SkillerCMP>Pyriel
+$10409E22 000003E7
++Slot 214
+%Credits: SkillerCMP>Pyriel
+$10409E26 000003E7
++Slot 215
+%Credits: SkillerCMP>Pyriel
+$10409E2A 000003E7
++Slot 216
+%Credits: SkillerCMP>Pyriel
+$10409E2E 000003E7
++Slot 217
+%Credits: SkillerCMP>Pyriel
+$10409E32 000003E7
++Slot 218
+%Credits: SkillerCMP>Pyriel
+$10409E36 000003E7
++Slot 219
+%Credits: SkillerCMP>Pyriel
+$10409E3A 000003E7
++Slot 220
+%Credits: SkillerCMP>Pyriel
+$10409E3E 000003E7
++Slot 221
+%Credits: SkillerCMP>Pyriel
+$10409E42 000003E7
++Slot 222
+%Credits: SkillerCMP>Pyriel
+$10409E46 000003E7
++Slot 223
+%Credits: SkillerCMP>Pyriel
+$10409E4A 000003E7
++Slot 224
+%Credits: SkillerCMP>Pyriel
+$10409E4E 000003E7
++Slot 225
+%Credits: SkillerCMP>Pyriel
+$10409E52 000003E7
++Slot 226
+%Credits: SkillerCMP>Pyriel
+$10409E56 000003E7
++Slot 227
+%Credits: SkillerCMP>Pyriel
+$10409E5A 000003E7
++Slot 228
+%Credits: SkillerCMP>Pyriel
+$10409E5E 000003E7
++Slot 229
+%Credits: SkillerCMP>Pyriel
+$10409E62 000003E7
++Slot 230
+%Credits: SkillerCMP>Pyriel
+$10409E66 000003E7
++Slot 231
+%Credits: SkillerCMP>Pyriel
+$10409E6A 000003E7
++Slot 232
+%Credits: SkillerCMP>Pyriel
+$10409E6E 000003E7
++Slot 233
+%Credits: SkillerCMP>Pyriel
+$10409E72 000003E7
++Slot 234
+%Credits: SkillerCMP>Pyriel
+$10409E76 000003E7
++Slot 235
+%Credits: SkillerCMP>Pyriel
+$10409E7A 000003E7
++Slot 236
+%Credits: SkillerCMP>Pyriel
+$10409E7E 000003E7
++Slot 237
+%Credits: SkillerCMP>Pyriel
+$10409E82 000003E7
++Slot 238
+%Credits: SkillerCMP>Pyriel
+$10409E86 000003E7
++Slot 239
+%Credits: SkillerCMP>Pyriel
+$10409E8A 000003E7
++Slot 240
+%Credits: SkillerCMP>Pyriel
+$10409E8E 000003E7
++Slot 241
+%Credits: SkillerCMP>Pyriel
+$10409E92 000003E7
++Slot 242
+%Credits: SkillerCMP>Pyriel
+$10409E96 000003E7
++Slot 243
+%Credits: SkillerCMP>Pyriel
+$10409E9A 000003E7
++Slot 244
+%Credits: SkillerCMP>Pyriel
+$10409E9E 000003E7
++Slot 245
+%Credits: SkillerCMP>Pyriel
+$10409EA2 000003E7
++Slot 246
+%Credits: SkillerCMP>Pyriel
+$10409EA6 000003E7
++Slot 247
+%Credits: SkillerCMP>Pyriel
+$10409EAA 000003E7
++Slot 248
+%Credits: SkillerCMP>Pyriel
+$10409EAE 000003E7
++Slot 249
+%Credits: SkillerCMP>Pyriel
+$10409EB2 000003E7
++Slot 250
+%Credits: SkillerCMP>Pyriel
+$10409EB6 000003E7
++Slot 251
+%Credits: SkillerCMP>Pyriel
+$10409EBA 000003E7
++Slot 252
+%Credits: SkillerCMP>Pyriel
+$10409EBE 000003E7
++Slot 253
+%Credits: SkillerCMP>Pyriel
+$10409EC2 000003E7
++Slot 254
+%Credits: SkillerCMP>Pyriel
+$10409EC6 000003E7
++Slot 255
+%Credits: SkillerCMP>Pyriel
+$10409ECA 000003E7
++Slot 256
+%Credits: SkillerCMP>Pyriel
+$10409ECE 000003E7
++Slot 257
+%Credits: SkillerCMP>Pyriel
+$10409ED2 000003E7
++Slot 258
+%Credits: SkillerCMP>Pyriel
+$10409ED6 000003E7
++Slot 259
+%Credits: SkillerCMP>Pyriel
+$10409EDA 000003E7
++Slot 260
+%Credits: SkillerCMP>Pyriel
+$10409EDE 000003E7
++Slot 261
+%Credits: SkillerCMP>Pyriel
+$10409EE2 000003E7
++Slot 262
+%Credits: SkillerCMP>Pyriel
+$10409EE6 000003E7
++Slot 263
+%Credits: SkillerCMP>Pyriel
+$10409EEA 000003E7
++Slot 264
+%Credits: SkillerCMP>Pyriel
+$10409EEE 000003E7
++Slot 265
+%Credits: SkillerCMP>Pyriel
+$10409EF2 000003E7
++Slot 266
+%Credits: SkillerCMP>Pyriel
+$10409EF6 000003E7
++Slot 267
+%Credits: SkillerCMP>Pyriel
+$10409EFA 000003E7
++Slot 268
+%Credits: SkillerCMP>Pyriel
+$10409EFE 000003E7
++Slot 269
+%Credits: SkillerCMP>Pyriel
+$10409F02 000003E7
++Slot 270
+%Credits: SkillerCMP>Pyriel
+$10409F06 000003E7
++Slot 271
+%Credits: SkillerCMP>Pyriel
+$10409F0A 000003E7
++Slot 272
+%Credits: SkillerCMP>Pyriel
+$10409F0E 000003E7
++Slot 273
+%Credits: SkillerCMP>Pyriel
+$10409F12 000003E7
++Slot 274
+%Credits: SkillerCMP>Pyriel
+$10409F16 000003E7
++Slot 275
+%Credits: SkillerCMP>Pyriel
+$10409F1A 000003E7
++Slot 276
+%Credits: SkillerCMP>Pyriel
+$10409F1E 000003E7
++Slot 277
+%Credits: SkillerCMP>Pyriel
+$10409F22 000003E7
++Slot 278
+%Credits: SkillerCMP>Pyriel
+$10409F26 000003E7
++Slot 279
+%Credits: SkillerCMP>Pyriel
+$10409F2A 000003E7
++Slot 280
+%Credits: SkillerCMP>Pyriel
+$10409F2E 000003E7
++Slot 281
+%Credits: SkillerCMP>Pyriel
+$10409F32 000003E7
++Slot 282
+%Credits: SkillerCMP>Pyriel
+$10409F36 000003E7
++Slot 283
+%Credits: SkillerCMP>Pyriel
+$10409F3A 000003E7
++Slot 284
+%Credits: SkillerCMP>Pyriel
+$10409F3E 000003E7
++Slot 285
+%Credits: SkillerCMP>Pyriel
+$10409F42 000003E7
++Slot 286
+%Credits: SkillerCMP>Pyriel
+$10409F46 000003E7
++Slot 287
+%Credits: SkillerCMP>Pyriel
+$10409F4A 000003E7
++Slot 288
+%Credits: SkillerCMP>Pyriel
+$10409F4E 000003E7
++Slot 289
+%Credits: SkillerCMP>Pyriel
+$10409F52 000003E7
++Slot 290
+%Credits: SkillerCMP>Pyriel
+$10409F56 000003E7
++Slot 291
+%Credits: SkillerCMP>Pyriel
+$10409F5A 000003E7
++Slot 292
+%Credits: SkillerCMP>Pyriel
+$10409F5E 000003E7
++Slot 293
+%Credits: SkillerCMP>Pyriel
+$10409F62 000003E7
++Slot 294
+%Credits: SkillerCMP>Pyriel
+$10409F66 000003E7
++Slot 295
+%Credits: SkillerCMP>Pyriel
+$10409F6A 000003E7
++Slot 296
+%Credits: SkillerCMP>Pyriel
+$10409F6E 000003E7
++Slot 297
+%Credits: SkillerCMP>Pyriel
+$10409F72 000003E7
++Slot 298
+%Credits: SkillerCMP>Pyriel
+$10409F76 000003E7
++Slot 299
+%Credits: SkillerCMP>Pyriel
+$10409F7A 000003E7
++Slot 300
+%Credits: SkillerCMP>Pyriel
+$10409F7E 000003E7
++Slot 301
+%Credits: SkillerCMP>Pyriel
+$10409F82 000003E7
++Slot 302
+%Credits: SkillerCMP>Pyriel
+$10409F86 000003E7
++Slot 303
+%Credits: SkillerCMP>Pyriel
+$10409F8A 000003E7
++Slot 304
+%Credits: SkillerCMP>Pyriel
+$10409F8E 000003E7
++Slot 305
+%Credits: SkillerCMP>Pyriel
+$10409F92 000003E7
++Slot 306
+%Credits: SkillerCMP>Pyriel
+$10409F96 000003E7
++Slot 307
+%Credits: SkillerCMP>Pyriel
+$10409F9A 000003E7
++Slot 308
+%Credits: SkillerCMP>Pyriel
+$10409F9E 000003E7
++Slot 309
+%Credits: SkillerCMP>Pyriel
+$10409FA2 000003E7
++Slot 310
+%Credits: SkillerCMP>Pyriel
+$10409FA6 000003E7
++Slot 311
+%Credits: SkillerCMP>Pyriel
+$10409FAA 000003E7
++Slot 312
+%Credits: SkillerCMP>Pyriel
+$10409FAE 000003E7
++Slot 313
+%Credits: SkillerCMP>Pyriel
+$10409FB2 000003E7
++Slot 314
+%Credits: SkillerCMP>Pyriel
+$10409FB6 000003E7
++Slot 315
+%Credits: SkillerCMP>Pyriel
+$10409FBA 000003E7
++Slot 316
+%Credits: SkillerCMP>Pyriel
+$10409FBE 000003E7
++Slot 317
+%Credits: SkillerCMP>Pyriel
+$10409FC2 000003E7
++Slot 318
+%Credits: SkillerCMP>Pyriel
+$10409FC6 000003E7
++Slot 319
+%Credits: SkillerCMP>Pyriel
+$10409FCA 000003E7
++Slot 320
+%Credits: SkillerCMP>Pyriel
+$10409FCE 000003E7
++Slot 321
+%Credits: SkillerCMP>Pyriel
+$10409FD2 000003E7
++Slot 322
+%Credits: SkillerCMP>Pyriel
+$10409FD6 000003E7
++Slot 323
+%Credits: SkillerCMP>Pyriel
+$10409FDA 000003E7
++Slot 324
+%Credits: SkillerCMP>Pyriel
+$10409FDE 000003E7
++Slot 325
+%Credits: SkillerCMP>Pyriel
+$10409FE2 000003E7
++Slot 326
+%Credits: SkillerCMP>Pyriel
+$10409FE6 000003E7
++Slot 327
+%Credits: SkillerCMP>Pyriel
+$10409FEA 000003E7
++Slot 328
+%Credits: SkillerCMP>Pyriel
+$10409FEE 000003E7
++Slot 329
+%Credits: SkillerCMP>Pyriel
+$10409FF2 000003E7
++Slot 330
+%Credits: SkillerCMP>Pyriel
+$10409FF6 000003E7
++Slot 331
+%Credits: SkillerCMP>Pyriel
+$10409FFA 000003E7
++Slot 332
+%Credits: SkillerCMP>Pyriel
+$10409FFE 000003E7
++Slot 333
+%Credits: SkillerCMP>Pyriel
+$1040A002 000003E7
++Slot 334
+%Credits: SkillerCMP>Pyriel
+$1040A006 000003E7
++Slot 335
+%Credits: SkillerCMP>Pyriel
+$1040A00A 000003E7
++Slot 336
+%Credits: SkillerCMP>Pyriel
+$1040A00E 000003E7
++Slot 337
+%Credits: SkillerCMP>Pyriel
+$1040A012 000003E7
++Slot 338
+%Credits: SkillerCMP>Pyriel
+$1040A016 000003E7
++Slot 339
+%Credits: SkillerCMP>Pyriel
+$1040A01A 000003E7
++Slot 340
+%Credits: SkillerCMP>Pyriel
+$1040A01E 000003E7
++Slot 341
+%Credits: SkillerCMP>Pyriel
+$1040A022 000003E7
++Slot 342
+%Credits: SkillerCMP>Pyriel
+$1040A026 000003E7
++Slot 343
+%Credits: SkillerCMP>Pyriel
+$1040A02A 000003E7
++Slot 344
+%Credits: SkillerCMP>Pyriel
+$1040A02E 000003E7
++Slot 345
+%Credits: SkillerCMP>Pyriel
+$1040A032 000003E7
++Slot 346
+%Credits: SkillerCMP>Pyriel
+$1040A036 000003E7
++Slot 347
+%Credits: SkillerCMP>Pyriel
+$1040A03A 000003E7
++Slot 348
+%Credits: SkillerCMP>Pyriel
+$1040A03E 000003E7
++Slot 349
+%Credits: SkillerCMP>Pyriel
+$1040A042 000003E7
++Slot 350
+%Credits: SkillerCMP>Pyriel
+$1040A046 000003E7
++Slot 351
+%Credits: SkillerCMP>Pyriel
+$1040A04A 000003E7
++Slot 352
+%Credits: SkillerCMP>Pyriel
+$1040A04E 000003E7
++Slot 353
+%Credits: SkillerCMP>Pyriel
+$1040A052 000003E7
++Slot 354
+%Credits: SkillerCMP>Pyriel
+$1040A056 000003E7
++Slot 355
+%Credits: SkillerCMP>Pyriel
+$1040A05A 000003E7
++Slot 356
+%Credits: SkillerCMP>Pyriel
+$1040A05E 000003E7
++Slot 357
+%Credits: SkillerCMP>Pyriel
+$1040A062 000003E7
++Slot 358
+%Credits: SkillerCMP>Pyriel
+$1040A066 000003E7
++Slot 359
+%Credits: SkillerCMP>Pyriel
+$1040A06A 000003E7
++Slot 360
+%Credits: SkillerCMP>Pyriel
+$1040A06E 000003E7
++Slot 361
+%Credits: SkillerCMP>Pyriel
+$1040A072 000003E7
++Slot 362
+%Credits: SkillerCMP>Pyriel
+$1040A076 000003E7
++Slot 363
+%Credits: SkillerCMP>Pyriel
+$1040A07A 000003E7
++Slot 364
+%Credits: SkillerCMP>Pyriel
+$1040A07E 000003E7
++Slot 365
+%Credits: SkillerCMP>Pyriel
+$1040A082 000003E7
++Slot 366
+%Credits: SkillerCMP>Pyriel
+$1040A086 000003E7
++Slot 367
+%Credits: SkillerCMP>Pyriel
+$1040A08A 000003E7
++Slot 368
+%Credits: SkillerCMP>Pyriel
+$1040A08E 000003E7
++Slot 369
+%Credits: SkillerCMP>Pyriel
+$1040A092 000003E7
++Slot 370
+%Credits: SkillerCMP>Pyriel
+$1040A096 000003E7
++Slot 371
+%Credits: SkillerCMP>Pyriel
+$1040A09A 000003E7
++Slot 372
+%Credits: SkillerCMP>Pyriel
+$1040A09E 000003E7
++Slot 373
+%Credits: SkillerCMP>Pyriel
+$1040A0A2 000003E7
++Slot 374
+%Credits: SkillerCMP>Pyriel
+$1040A0A6 000003E7
++Slot 375
+%Credits: SkillerCMP>Pyriel
+$1040A0AA 000003E7
++Slot 376
+%Credits: SkillerCMP>Pyriel
+$1040A0AE 000003E7
++Slot 377
+%Credits: SkillerCMP>Pyriel
+$1040A0B2 000003E7
++Slot 378
+%Credits: SkillerCMP>Pyriel
+$1040A0B6 000003E7
++Slot 379
+%Credits: SkillerCMP>Pyriel
+$1040A0BA 000003E7
++Slot 380
+%Credits: SkillerCMP>Pyriel
+$1040A0BE 000003E7
++Slot 381
+%Credits: SkillerCMP>Pyriel
+$1040A0C2 000003E7
++Slot 382
+%Credits: SkillerCMP>Pyriel
+$1040A0C6 000003E7
++Slot 383
+%Credits: SkillerCMP>Pyriel
+$1040A0CA 000003E7
++Slot 384
+%Credits: SkillerCMP>Pyriel
+$1040A0CE 000003E7
++Slot 385
+%Credits: SkillerCMP>Pyriel
+$1040A0D2 000003E7
++Slot 386
+%Credits: SkillerCMP>Pyriel
+$1040A0D6 000003E7
++Slot 387
+%Credits: SkillerCMP>Pyriel
+$1040A0DA 000003E7
++Slot 388
+%Credits: SkillerCMP>Pyriel
+$1040A0DE 000003E7
++Slot 389
+%Credits: SkillerCMP>Pyriel
+$1040A0E2 000003E7
++Slot 390
+%Credits: SkillerCMP>Pyriel
+$1040A0E6 000003E7
++Slot 391
+%Credits: SkillerCMP>Pyriel
+$1040A0EA 000003E7
++Slot 392
+%Credits: SkillerCMP>Pyriel
+$1040A0EE 000003E7
++Slot 393
+%Credits: SkillerCMP>Pyriel
+$1040A0F2 000003E7
++Slot 394
+%Credits: SkillerCMP>Pyriel
+$1040A0F6 000003E7
++Slot 395
+%Credits: SkillerCMP>Pyriel
+$1040A0FA 000003E7
++Slot 396
+%Credits: SkillerCMP>Pyriel
+$1040A0FE 000003E7
+!!
+!Monster Party Mod:
++Majin Breakers(name Mod)(for Advanced Cheaters)
+%Credits: SkillerCMP>Pyriel
+$2040E6D0 ????????
+$2040E6D4 ????????
+$2040E6D8 ????????
+$2040E6DC ????????
++Belly Bruisers(name Mod)(for Advanced Cheaters)
+%Credits: SkillerCMP>Pyriel
+$2040E6F0 ????????
+$2040E6F4 ????????
+$2040E6F8 ????????
+$2040E6FC ????????
++Party Slot 1
+%Credits: SkillerCMP>Pyriel
+$1040E770 0000{MON]
+$2040E710 00FF{MON]
++Party Slot 2
+%Credits: SkillerCMP>Pyriel
+$1040E772 0000{MON]
+$2040E718 00FF{MON]
++Party Slot 3
+%Credits: SkillerCMP>Pyriel
+$1040E774 0000{MON]
+$2040E720 00FF{MON]
++Party 2 Slot 1
+%Credits: SkillerCMP>Pyriel
+$1040E776 0000{MON]
+$2040E728 00FF{MON]
++Party 2 Slot 2
+%Credits: SkillerCMP>Pyriel
+$1040E778 0000{MON]
+$2040E730 00FF{MON]
++Party 2 Slot 3
+%Credits: SkillerCMP>Pyriel
+$1040E77A 0000{MON]
+$2040E738 00FF{MON]
++Reserve 1
+%Credits: SkillerCMP>Pyriel
+$2040E740 00FF{MON]
++Reserve 2
+%Credits: SkillerCMP>Pyriel
+$2040E748 00FF{MON]
++Reserve 3
+%Credits: SkillerCMP>Pyriel
+$2040E750 00FF{MON]
++Reserve 4
+%Credits: SkillerCMP>Pyriel
+$2040E758 00FF{MON]
++Reserve 5
+%Credits: SkillerCMP>Pyriel
+$2040E760 00FF{MON]
++Reserve 6
+%Credits: SkillerCMP>Pyriel
+$2040E768 00FF{MON]
+!!
+!Monster Battle Codes:
+!Player:
+!Monster 1:
++Max HP
+%Credits: SkillerCMP>Pyriel
+$10421D34 000003E7
+$10421D38 000003E7
++Max MP
+%Credits: SkillerCMP>Pyriel
+$00421D3C 000000FF
+$00421D3E 000000FF
+!!
+!Monster 2:
++Max HP
+%Credits: SkillerCMP>Pyriel
+$104222C4 000003E7
+$104222C8 000003E7
++Max MP
+%Credits: SkillerCMP>Pyriel
+$004222CC 000000FF
+$004222CE 000000FF
+!!
+!Monster 3:
++Max HP
+%Credits: SkillerCMP>Pyriel
+$10422854 000003E7
+$10422858 000003E7
++Max MP
+%Credits: SkillerCMP>Pyriel
+$0042285C 000003E7
+$0042285E 000003E7
+!!
+!!
+!Enemy Codes:
+!Monster 1:
++Max HP
+%Credits: SkillerCMP>Pyriel
+$10422DE4 000003E7
+$10422DE8 000003E7
++Max MP
+%Credits: SkillerCMP>Pyriel
+$00422DEC 000000FF
+$00422DEE 000000FF
+!!
+!Monster 2:
++Max HP
+%Credits: SkillerCMP>Pyriel
+$10423374 000003E7
+$10423378 000003E7
++Max MP
+%Credits: SkillerCMP>Pyriel
+$0042337C 000000FF
+$0042337E 000000FF
+!!
+!Monster 3:
++Max HP
+%Credits: SkillerCMP>Pyriel
+$10423904 000003E7
+$10423908 000003E7
++Max MP
+%Credits: SkillerCMP>Pyriel
+$0042390C 000003E7
+$0042390E 000003E7
+!!
+!!
+!!
+!Monster List:
++All Monsters Defeated
+%Credits: SkillerCMP>Pyriel
+$4040A5A0 01270008
+$000003E7 00000000
++All Max Monsters Drops
+%Credits: SkillerCMP>Pyriel
+$4040A5A8 01270008
+$00630063 00000000
+!Individual Monster Codes:
+!Slime Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A5A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A5A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A5AA 00000063
+!!
+!Candy Cat Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A5C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A5C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A5CA 00000063
+!!
+!Lips Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A5E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A5E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A5EA 00000063
+!!
+!Dracky Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A600 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A608 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A60A 00000063
+!!
+!Satyr Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A620 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A628 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A62A 00000063
+!!
+!Capsichum Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A640 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A648 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A64A 00000063
+!!
+!Bunicorn Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A660 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A668 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A66A 00000063
+!!
+!She-Slime Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A680 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A688 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A68A 00000063
+!!
+!Firespirit Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A6A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A6A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A6AA 00000063
+!!
+!Mischievous Mole Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A6C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A6C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A6CA 00000063
+!!
+!Mecha-Mynah Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A6E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A6E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A6EA 00000063
+!!
+!Bubble Slime Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A700 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A708 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A70A 00000063
+!!
+!Dancing Devil Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A720 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A728 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A72A 00000063
+!!
+!Bodkin Archer Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A740 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A748 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A74A 00000063
+!!
+!Skipper Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A760 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A768 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A76A 00000063
+!!
+!Drackmage Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A780 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A788 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A78A 00000063
+!!
+!Beetleboy Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A7A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A7A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A7AA 00000063
+!!
+!Imp Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A7C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A7C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A7CA 00000063
+!!
+!Funghoul Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A7E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A7E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A7EA 00000063
+!!
+!Fencing Fox Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A800 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A808 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A80A 00000063
+!!
+!Healslime Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A820 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A828 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A82A 00000063
+!!
+!Hammerhood Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A840 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A848 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A84A 00000063
+!!
+!Jailcat Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A860 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A868 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A86A 00000063
+!!
+!Frogface Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A880 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A888 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A88A 00000063
+!!
+!Lump Mage Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A8A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A8A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A8AA 00000063
+!!
+!Winky Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A8C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A8C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A8CA 00000063
+!!
+!Spiked Hare Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A8E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A8E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A8EA 00000063
+!!
+!Chainine Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A900 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A908 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A90A 00000063
+!!
+!Giant Moth Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A920 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A928 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A92A 00000063
+!!
+!Dingaling Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A940 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A948 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A94A 00000063
+!!
+!Jargon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A960 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A968 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A96A 00000063
+!!
+!Drackyma Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A980 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A988 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A98A 00000063
+!!
+!Bullfinch Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A9A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A9A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A9AA 00000063
+!!
+!Bag O' Laughs Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A9C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A9C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A9CA 00000063
+!!
+!Skeleton Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040A9E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A9E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040A9EA 00000063
+!!
+!Metal Slime Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AA00 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AA08 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AA0A 00000063
+!!
+!Scorpion Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AA20 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AA28 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AA2A 00000063
+!!
+!Morphean Mushroom Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AA40 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AA48 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AA4A 00000063
+!!
+!Brownie Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AA60 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AA68 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AA6A 00000063
+!!
+!Flyguy Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AA80 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AA88 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AA8A 00000063
+!!
+!Puppeteer Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AAA0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AAA8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AAAA 00000063
+!!
+!Bodkin Bowyer Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AAC0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AAC8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AACA 00000063
+!!
+!Night Sneaker Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AAE0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AAE8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AAEA 00000063
+!!
+!Mummy Boy Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AB00 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AB08 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AB0A 00000063
+!!
+!Hell Hornet Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AB20 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AB28 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AB2A 00000063
+!!
+!Pan Piper Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AB40 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AB48 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AB4A 00000063
+!!
+!Slime Knight Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AB60 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AB68 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AB6A 00000063
+!!
+!Clockwork Cuckoo Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AB80 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AB88 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AB8A 00000063
+!!
+!Treeface Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040ABA0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ABA8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ABAA 00000063
+!!
+!Kisser Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040ABC0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ABC8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ABCA 00000063
+!!
+!Diemon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040ABE0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ABE8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ABEA 00000063
+!!
+!Walking Corpse Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AC00 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AC08 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AC0A 00000063
+!!
+!Fat Bat Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AC20 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AC28 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AC2A 00000063
+!!
+!Night Fox Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AC40 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AC48 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AC4A 00000063
+!!
+!Paprikan Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AC60 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AC68 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AC6A 00000063
+!!
+!Chimaera Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AC80 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AC88 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AC8A 00000063
+!!
+!Hood Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040ACA0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ACA8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ACAA 00000063
+!!
+!Headhunter Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040ACC0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ACC8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ACCA 00000063
+!!
+!Minidemon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040ACE0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ACE8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ACEA 00000063
+!!
+!Gorerilla Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AD00 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AD08 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AD0A 00000063
+!!
+!Mud Mannequin Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AD20 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AD28 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AD2A 00000063
+!!
+!Cannibox Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AD40 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AD48 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AD4A 00000063
+!!
+!Goodybag Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AD60 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AD68 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AD6A 00000063
+!!
+!Witch Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AD80 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AD88 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AD8A 00000063
+!!
+!Mummy Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040ADA0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ADA8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ADAA 00000063
+!!
+!Cureslime Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040ADC0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ADC8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ADCA 00000063
+!!
+!Restless Armour Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040ADE0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ADE8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040ADEA 00000063
+!!
+!Lost Soul Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AE00 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AE08 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AE0A 00000063
+!!
+!Phantom Fencer Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AE20 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AE28 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AE2A 00000063
+!!
+!Hipster Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AE40 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AE48 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AE4A 00000063
+!!
+!Rockbomb Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AE60 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AE68 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AE6A 00000063
+!!
+!Dieablo Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AE80 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AE88 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AE8A 00000063
+!!
+!Muddy Hand Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AEA0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AEA8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AEAA 00000063
+!!
+!Terror Tabby Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AEC0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AEC8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AECA 00000063
+!!
+!Devilmoth Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AEE0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AEE8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AEEA 00000063
+!!
+!Buffalo Wing Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AF00 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AF08 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AF0A 00000063
+!!
+!Mumboh-Jumboe Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AF20 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AF28 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AF2A 00000063
+!!
+!Mum Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AF40 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AF48 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AF4A 00000063
+!!
+!Boh Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AF60 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AF68 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AF6A 00000063
+!!
+!Jum Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AF80 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AF88 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AF8A 00000063
+!!
+!Boe Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AFA0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AFA8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AFAA 00000063
+!!
+!Hunter Mech Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AFC0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AFC8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AFCA 00000063
+!!
+!Pink Pongo Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040AFE0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AFE8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040AFEA 00000063
+!!
+!Liquid Metal Slime Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B000 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B008 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B00A 00000063
+!!
+!Mad Mole Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B020 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B028 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B02A 00000063
+!!
+!Wailin' Weed Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B040 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B048 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B04A 00000063
+!!
+!Garuda Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B060 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B068 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B06A 00000063
+!!
+!Infernal Armour Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B080 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B088 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B08A 00000063
+!!
+!Dragonthorn Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B0A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B0A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B0AA 00000063
+!!
+!Mars Rover Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B0C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B0C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B0CA 00000063
+!!
+!Peeper Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B0E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B0E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B0EA 00000063
+!!
+!Cockateer Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B100 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B108 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B10A 00000063
+!!
+!Great Sabrecat Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B120 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B128 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B12A 00000063
+!!
+!Metal Slime Knight Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B140 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B148 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B14A 00000063
+!!
+!Puppet Player Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B160 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B168 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B16A 00000063
+!!
+!Spitnik Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B180 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B188 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B18A 00000063
+!!
+!Bodkin Fletcher Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B1A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B1A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B1AA 00000063
+!!
+!Venom Wasp Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B1C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B1C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B1CA 00000063
+!!
+!Orc Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B1E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B1E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B1EA 00000063
+!!
+!Night Emperor Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B200 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B208 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B20A 00000063
+!!
+!Treevil Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B220 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B228 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B22A 00000063
+!!
+!Battle Beetle Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B240 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B248 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B24A 00000063
+!!
+!Lump Shaman Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B260 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B268 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B26A 00000063
+!!
+!Skeleton Soldier Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B280 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B288 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B28A 00000063
+!!
+!Hawk Man Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B2A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B2A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B2AA 00000063
+!!
+!Tap Devil Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B2C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B2C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B2CA 00000063
+!!
+!Mushroom Mage Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B2E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B2E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B2EA 00000063
+!!
+!Redtail Hipster Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B300 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B308 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B30A 00000063
+!!
+!Jumping Jackal Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B320 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B328 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B32A 00000063
+!!
+!Gold Golem Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B340 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B348 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B34A 00000063
+!!
+!King Slime Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B360 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B368 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B36A 00000063
+!!
+!Iron Scorpion Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B380 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B388 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B38A 00000063
+!!
+!Toxic Zombie Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B3A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B3A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B3AA 00000063
+!!
+!Lesser Demon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B3C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B3C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B3CA 00000063
+!!
+!Volpone Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B3E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B3E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B3EA 00000063
+!!
+!Bomboulder Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B400 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B408 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B40A 00000063
+!!
+!Skullrider Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B420 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B428 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B42A 00000063
+!!
+!Hades Condor Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B440 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B448 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B44A 00000063
+!!
+!Frogman Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B460 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B468 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B46A 00000063
+!!
+!Mimic Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B480 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B488 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B48A 00000063
+!!
+!Magic Dumbbell Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B4A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B4A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B4AA 00000063
+!!
+!Gargoyle Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B4C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B4C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B4CA 00000063
+!!
+!Magic Marionette Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B4E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B4E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B4EA 00000063
+!!
+!Notso Macho Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B500 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B508 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B50A 00000063
+!!
+!Lump Wizard Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B520 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B528 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B52A 00000063
+!!
+!Berserker Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B540 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B548 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B54A 00000063
+!!
+!Bulldozer Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B560 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B568 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B56A 00000063
+!!
+!Ghoul Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B580 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B588 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B58A 00000063
+!!
+!Shade Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B5A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B5A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B5AA 00000063
+!!
+!Lethal Armour Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B5C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B5C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B5CA 00000063
+!!
+!King Cureslime Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B5E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B5E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B5EA 00000063
+!!
+!Hoodlum Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B600 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B608 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B60A 00000063
+!!
+!Hocus Chimaera Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B620 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B628 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B62A 00000063
+!!
+!Demonrider Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B640 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B648 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B64A 00000063
+!!
+!Killer Moth Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B660 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B668 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B66A 00000063
+!!
+!Jabberwockee Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B680 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B688 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B68A 00000063
+!!
+!Jab Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B6A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B6A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B6AA 00000063
+!!
+!Ber Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B6C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B6C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B6CA 00000063
+!!
+!Kee Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B6E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B6E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B6EA 00000063
+!!
+!Woc Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B700 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B708 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B70A 00000063
+!!
+!Silenus Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B720 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B728 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B72A 00000063
+!!
+!Robo-Robin Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B740 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B748 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B74A 00000063
+!!
+!Puppet Master Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B760 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B768 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B76A 00000063
+!!
+!Death Scorpion Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B780 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B788 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B78A 00000063
+!!
+!Jackal Ripper Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B7A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B7A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B7AA 00000063
+!!
+!Iron Rhino Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B7C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B7C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B7CA 00000063
+!!
+!Dancing Flame Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B7E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B7E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B7EA 00000063
+!!
+!Blood Mummy Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B800 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B808 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B80A 00000063
+!!
+!Phantom Swordsman Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B820 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B828 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B82A 00000063
+!!
+!Hacksaurus Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B840 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B848 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B84A 00000063
+!!
+!Bone Baron Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B860 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B868 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B86A 00000063
+!!
+!Swingin' Hipster Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B880 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B888 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B88A 00000063
+!!
+!Orc King Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B8A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B8A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B8AA 00000063
+!!
+!Soulspawn Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B8C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B8C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B8CA 00000063
+!!
+!Gryphon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B8E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B8E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B8EA 00000063
+!!
+!Golem Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B900 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B908 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B90A 00000063
+!!
+!Fallen Priest Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B920 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B928 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B92A 00000063
+!!
+!Dead Ringer Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B940 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B948 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B94A 00000063
+!!
+!Living Statue Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B960 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B968 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B96A 00000063
+!!
+!Freeze Fly Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B980 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B988 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B98A 00000063
+!!
+!Dark Slime Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B9A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B9A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B9AA 00000063
+!!
+!Frostburn Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B9C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B9C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B9CA 00000063
+!!
+!Hellhound Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040B9E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B9E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040B9EA 00000063
+!!
+!Troll Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BA00 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BA08 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BA0A 00000063
+!!
+!Ice Queen Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BA20 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BA28 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BA2A 00000063
+!!
+!Abominape Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BA40 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BA48 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BA4A 00000063
+!!
+!Beelzebuzz Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BA60 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BA68 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BA6A 00000063
+!!
+!Killing Machine Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BA80 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BA88 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BA8A 00000063
+!!
+!Icikiller Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BAA0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BAA8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BAAA 00000063
+!!
+!Shadow Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BAC0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BAC8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BACA 00000063
+!!
+!Metal King Slime Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BAE0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BAE8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BAEA 00000063
+!!
+!Frost Wyvine Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BB00 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BB08 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BB0A 00000063
+!!
+!Elysium Bird Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BB20 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BB28 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BB2A 00000063
+!!
+!Dragurn Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BB40 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BB48 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BB4A 00000063
+!!
+!Smacker Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BB60 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BB68 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BB6A 00000063
+!!
+!Zombie Gladiator Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BB80 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BB88 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BB8A 00000063
+!!
+!Stone Golem Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BBA0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BBA8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BBAA 00000063
+!!
+!Dark Condor Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BBC0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BBC8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BBCA 00000063
+!!
+!Mucho Macho Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BBE0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BBE8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BBEA 00000063
+!!
+!Dark Skeleton Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BC00 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BC08 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BC0A 00000063
+!!
+!Dark Macarbour Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BC20 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BC28 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BC2A 00000063
+!!
+!Tyrantosaurus Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BC40 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BC48 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BC4A 00000063
+!!
+!Demon Thunderer Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BC60 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BC68 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BC6A 00000063
+!!
+!Dark Star Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BC80 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BC88 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BC8A 00000063
+!!
+!Dark Minister Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BCA0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BCA8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BCAA 00000063
+!!
+!Grim Rider Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BCC0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BCC8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BCCA 00000063
+!!
+!Dark Sea-Diva Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BCE0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BCE8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BCEA 00000063
+!!
+!War Gryphon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BD00 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BD08 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BD0A 00000063
+!!
+!Dark Turkey Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BD20 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BD28 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BD2A 00000063
+!!
+!Heligator Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BD40 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BD48 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BD4A 00000063
+!!
+!Dark Dullahan Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BD60 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BD68 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BD6A 00000063
+!!
+!Killer Croaker Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BD80 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BD88 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BD8A 00000063
+!!
+!High Roller Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BDA0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BDA8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BDAA 00000063
+!!
+!Darkodile Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BDC0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BDC8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BDCA 00000063
+!!
+!Cyclops Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BDE0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BDE8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BDEA 00000063
+!!
+!Bloody Hand Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BE00 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BE08 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BE0A 00000063
+!!
+!Snapdragon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BE20 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BE28 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BE2A 00000063
+!!
+!Buffalogre Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BE40 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BE48 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BE4A 00000063
+!!
+!Mohawker Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BE60 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BE68 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BE6A 00000063
+!!
+!Archdemon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BE80 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BE88 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BE8A 00000063
+!!
+!Bobonga Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BEA0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BEA8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BEAA 00000063
+!!
+!Caped Caperer Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BEC0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BEC8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BECA 00000063
+!!
+!Claws Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BEE0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BEE8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BEEA 00000063
+!!
+!Boss Troll Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BF00 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BF08 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BF0A 00000063
+!!
+!Mimic King Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BF20 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BF28 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BF2A 00000063
+!!
+!Fowlfighter Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BF40 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BF48 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BF4A 00000063
+!!
+!Dullahan Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BF60 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BF68 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BF6A 00000063
+!!
+!Gigantes Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BF80 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BF88 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BF8A 00000063
+!!
+!Frou-Frou Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BFA0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BFA8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BFAA 00000063
+!!
+!Stone Guardian Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BFC0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BFC8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BFCA 00000063
+!!
+!Wight Priest Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040BFE0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BFE8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040BFEA 00000063
+!!
+!Hell Gladiator Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C000 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C008 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C00A 00000063
+!!
+!Dark Moth Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C020 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C028 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C02A 00000063
+!!
+!Dark Gryphon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C040 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C048 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C04A 00000063
+!!
+!Dark Sabrecat Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C060 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C068 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C06A 00000063
+!!
+!Hell Hopper Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C080 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C088 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C08A 00000063
+!!
+!Dark Devildog Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C0A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C0A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C0AA 00000063
+!!
+!Heavy Hood Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C0C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C0C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C0CA 00000063
+!!
+!Hellstalker Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C0E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C0E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C0EA 00000063
+!!
+!Silhouette Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C100 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C108 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C10A 00000063
+!!
+!Democrobot Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C120 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C128 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C12A 00000063
+!!
+!Head Of State Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C140 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C148 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C14A 00000063
+!!
+!Body Politic Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+2040C160 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C168 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C16A 00000063
+!!
+!Right Wing Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C180 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C188 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C18A 00000063
+!!
+!Left Wing Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C1A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C1A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C1AA 00000063
+!!
+!Pandora's Box Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C1C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C1C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C1CA 00000063
+!!
+!Wight King Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C1E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C1E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C1EA 00000063
+!!
+!Invisible Swordsman Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C200 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C208 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C20A 00000063
+!!
+!Hellspawn Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C220 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C228 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C22A 00000063
+!!
+!Belial Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C240 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C248 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C24A 00000063
+!!
+!Solaris Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C260 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C268 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C26A 00000063
+!!
+!Great Troll Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C280 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C288 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C28A 00000063
+!!
+!Unholy Bishop Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C2A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C2A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C2AA 00000063
+!!
+!Hell's Gatekeeper Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C2C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C2C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C2CA 00000063
+!!
+!Crocodog Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C2E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C2E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C2EA 00000063
+!!
+!Khalamari Kid Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C300 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C308 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C30A 00000063
+!!
+!See Urchin Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C320 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C328 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C32A 00000063
+!!
+!Man O' War Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C340 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C348 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C34A 00000063
+!!
+!Yabby Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C360 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C368 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C36A 00000063
+!!
+!King Kelp Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C380 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C388 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C38A 00000063
+!!
+!Wild Boarfish Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C3A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C3A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C3AA 00000063
+!!
+!Anchorman Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C3C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C3C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C3CA 00000063
+!!
+!See Angel Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C3E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C3E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C3EA 00000063
+!!
+!Squid Kid Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C400 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C408 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C40A 00000063
+!!
+!Crayzee Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C420 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C428 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C42A 00000063
+!!
+!Eveel Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C440 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C448 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C44A 00000063
+!!
+!Merman Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C460 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C468 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C46A 00000063
+!!
+!King Squid Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C480 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C488 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C48A 00000063
+!!
+!Octavian Sentry Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C4A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C4A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C4AA 00000063
+!!
+!Pigmalion Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C4C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C4C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C4CA 00000063
+!!
+!Sea Dragon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C4E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C4E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C4EA 00000063
+!!
+!Foul Anchor Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C500 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C508 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C50A 00000063
+!!
+!Poison Eveel Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C520 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C528 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C52A 00000063
+!!
+!Siren Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C540 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C548 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C54A 00000063
+!!
+!Merking Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C560 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C568 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C56A 00000063
+!!
+!Seasaur Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C580 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C588 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C58A 00000063
+!!
+!Octavian Pirate Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C5A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C5A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C5AA 00000063
+!!
+!Riptide Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C5C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C5C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C5CA 00000063
+!!
+!Tentacular Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C5E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C5E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C5EA 00000063
+!!
+!Abyss Diver Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C600 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C608 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C60A 00000063
+!!
+!Geyzer Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C620 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C628 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C62A 00000063
+!!
+!Khalamari Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C640 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C648 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C64A 00000063
+!!
+!Tortured Soul Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C660 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C668 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C66A 00000063
+!!
+!Trap Box Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C680 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C688 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C68A 00000063
+!!
+!Don Mole Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C6A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C6A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C6AA 00000063
+!!
+!Soul Mole Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C6C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C6C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C6CA 00000063
+!!
+!Argon Lizard Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C6E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C6E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C6EA 00000063
+!!
+!Great Argon Lizard Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C700 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C708 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C70A 00000063
+!!
+!Dhoulmagus Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C720 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C728 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C72A 00000063
+!!
+!Dhoulmagus Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C740 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C748 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C74A 00000063
+!!
+!Evil Jessica Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C760 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C768 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C76A 00000063
+!!
+!Captain Crow Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C780 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C788 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C78A 00000063
+!!
+!Red Horn Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C7A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C7A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C7AA 00000063
+!!
+!Blue Fang Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C7C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C7C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C7CA 00000063
+!!
+!Empyrea Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C7E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C7E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C7EA 00000063
+!!
+!Gemon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C800 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C808 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C80A 00000063
+!!
+!Evil Sir Leopold Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C820 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C828 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C82A 00000063
+!!
+!Marcello Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C840 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C848 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C84A 00000063
+!!
+!Servant Of Darkness Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C860 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C868 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C86A 00000063
+!!
+!Statue Of %hero% Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C880 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C888 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C88A 00000063
+!!
+!Statue Of Yangus Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C8A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C8A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C8AA 00000063
+!!
+!Statue Of Jessica Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C8C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C8C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C8CA 00000063
+!!
+!Statue Of Angelo Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C8E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C8E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C8EA 00000063
+!!
+!Megalodon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C900 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C908 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C90A 00000063
+!!
+!Ruin Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C920 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C928 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C92A 00000063
+!!
+!Rhapthorne Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C940 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C948 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C94A 00000063
+!!
+!Rhapthorne Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C960 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C968 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C96A 00000063
+!!
+!Lord Of The Dragovians Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C980 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C988 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C98A 00000063
+!!
+!Vermillion Dragon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C9A0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C9A8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C9AA 00000063
+!!
+!Emerald Dragon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C9C0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C9C8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C9CA 00000063
+!!
+!Silver Dragon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040C9E0 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C9E8 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040C9EA 00000063
+!!
+!Golden Dragon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040CA00 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040CA08 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040CA0A 00000063
+!!
+!Darksteel Dragon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040CA20 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040CA28 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040CA2A 00000063
+!!
+!Divine Dragon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040CA40 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040CA48 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040CA4A 00000063
+!!
+!Ultimate Dragon Codes:
++Max Number Killed
+%Credits: SkillerCMP>Pyriel
+$2040CA60 000003E7
++Max Item 1 Drops
+%Credits: SkillerCMP>Pyriel
+$1040CA68 00000063
++Max Item 2 Drops
+%Credits: SkillerCMP>Pyriel
+$1040CA6A 00000063
+!!
+!!
+!!
+^6 = MODS:
+[POT]
+VALUE>NAME
+0001	Regular (2 slots, normal time)
+0002	Improved (3 slots, normal time)
+0003	Ultimate (3 slots, instantaneous)
+[/POT]
+[EXP]
+VALUE>NAME
+1040	2x
+1080	4x
+10C0	8x
+1100	16x
+1140	32x
+1180	64x
+11C0	128x
+1200	256x
+1240	512x
+1280	1,024x
+12C0	2,048x
+1300	4,096x
+1340	8,192x
+1380	16,384x
+[/EXP]
+[STU]
+VALUE>NAME
+00	Surprised (Too stunned.../Doesn't Notice...)
+01	Surprised (Too stunned.../Doesn't Notice...)
+02	Normal
+[/STU]
+[XX]
+VALUE>NAME
+2840	2x
+2880	4x
+28C0	8x
+2900	16x
+2940	32x
+2980	64x
+29C0	128x
+2A00	256x
+[/XX]
+[YXX]
+VALUE>NAME
+3040	2x
+3080	4x
+30C0	8x
+3100	16x
+3140	32x
+3180	64x
+31C0	128x
+3200	256x
+[/YXX]
+{MON]
+VALUE>NAME
+01F4	Smiles
+01F5	Slime Shady
+01F6	Tori
+01F7	Metaly
+01F8	Healer
+01F9	Curer
+01FA	Metababble
+01FB	Slimehopper
+01FC	Hori
+01FD	Hev
+01FE	HackZilla
+01FF	Potbelly
+0200	Orcus
+0201	Klub Kong
+0202	Dumbking
+0203	Faunus
+0204	Nightwing
+0205	Orrid
+0206	Spike
+0207	Fat Cat
+0208	Mechabubo
+0209	Sippy
+020A	Slurpy
+020B	Sugi
+020C	Twiggy
+020D	Archfiend
+020E	Archer
+020F	Sagittari
+0210	Fletch
+0211	Hazel
+0212	Brontes
+0213	Steropes
+0214	Arges
+0215	Pa Troll
+0216	Capers
+0217	Hork
+0218	Deadnoble
+0219	Jockey
+021A	Bones
+021B	Skeledoid
+021C	Jewelbag
+021D	Talos
+021E	Roborg
+021F	Cybot
+0220	Nohi
+0221	Goldman
+0222	Brickman
+0223	Stoneman
+0224	Blizag Jr.
+0225	Jack Frost
+0226	Flameman
+0227	Torchman
+0228	Moppet
+0229	Dolldrums
+022A	Seasaw
+022B	Hoodwink
+022C	Lonely Joe
+022D	Bush-W.
+022E	Robster
+022F	Squiggles
+0230	Octurion
+0231	Big Al
+0232	Cowboy
+0233	McHammer
+0234	Salsa
+0235	Foul Fowl
+0236	Bladewolf 
+0237	Mornstar
+0238	Bishop
+0239	Frillsaur
+023A	Gryphus
+023B	Spot
+023C	Snap Case
+023D	Scorpius
+023E	Trick Bag
+023F	Doug
+0240	Clio
+[ITEM]
+VALUE>NAME
+0000	Nothing
+0001	Cypress Stick
+0002	Soldier's Sword
+0003	Copper Sword
+0004	Steel Broadsword
+0005	Platinum Sword
+0006	Dream Blade
+0007	Falcon Blade
+0008	Uber Falcon Blade
+0009	Zombiesbane
+000A	Zombie Slayer
+000B	Dragonsbane
+000C	Dragon Slayer
+000D	Blizzard Blade
+000E	Miracle Sword
+000F	Uber Miracle Sword
+0010	Bastard Sword
+0011	Liquid Metal Sword
+0012	Double-edged Sword
+0013	Uber Double-edge
+0014	Rusty Old Sword
+0015	Dragovian Sword
+0016	Dragovian King Sword
+0017	Rapier
+0018	Templar's Sword
+0019	Hell Sabre
+001A	Holy Silver Rapier
+001B	Fallen Angel Rapier
+001C	Shamshir of Light
+001D	Mercury's Rapier
+001E	Bronze Knife
+001F	Dagger
+0020	Poison Moth Knife
+0021	Assassin's Dagger
+0022	Icicle Dirk
+0023	Poison Needle
+0024	Falcon Knife
+0025	Imp Knife
+0026	Sword Breaker
+0027	Eagle Dagger
+0028	Iron Lance
+0029	Holy Lance
+002A	Long Spear
+002B	Partisan
+002C	Battle Fork
+002D	Sandstorm Spear
+002E	Demon Spear
+002F	Hero Spear
+0030	Metal King Spear
+0031	Boomerang
+0032	Reinforced Boomerang
+0033	Edged Boomerang
+0034	Metal Wing Boomerang
+0035	Razor Wing Boomerang
+0036	Swallowtail
+0037	Flametang Boomerang
+0038	Stone Axe
+0039	Iron Axe
+003A	King Axe
+003B	Moon Axe
+003C	Bandit Axe
+003D	Golden Axe
+003E	Battle-axe
+003F	Conqueror's Axe
+0040	Oaken Club
+0041	Giant Mallet
+0042	Sledgehammer
+0043	War Hammer
+0044	Uber War Hammer
+0045	DUMMY HAMMER
+0046	Megaton Hammer
+0047	Flail of Fury
+0048	Flail of Destruction
+0049	Thorn Whip
+004A	Leather Whip
+004B	Snakeskin Whip
+004C	Chain Whip
+004D	Dragontail Whip
+004E	Spiked Steel Whip
+004F	Demon Whip
+0050	Scourge Whip
+0051	Gringham Whip
+0052	Farmer's Scythe
+0053	DUMMY SICKLE
+0054	Heavy Hatchet
+0055	Bardiche of Binding
+0056	Hell Scythe
+0057	Steel Scythe
+0058	Wizard's Staff
+0059	Lightning Staff
+005A	Staff of Divine Wrath
+005B	Magma Staff
+005C	DUMMY WAND
+005D	Staff of Antimagic
+005E	Rune Staff
+005F	Staff of Resurrection
+0060	Magical Mace
+0061	DUMMY STAFF
+0062	Hunter's Bow
+0063	Great Bow
+0064	Short Bow
+0065	Odin's Bow
+0066	Cheiron's Bow
+0067	Eros' Bow
+0068	Plain Clothes
+0069	Bandit's Grass Skirt
+006A	Wayfarer's Clothes
+006B	Boxer shorts
+006C	Dancer's Costume
+006D	Leather Kilt
+006E	Leather Dress
+006F	Templar's Uniform
+0070	Fur Poncho
+0071	Cloak of Evasion
+0072	Bunny Suit
+0073	Silk Bustier
+0074	Magic Bikini
+0075	Spangled Dress
+0076	Posh Waistcoat
+0077	Magical Skirt
+0078	Shimmering Dress
+0079	Dark Robe
+007A	DUMMY DRESS
+007B	Dangerous Bustier
+007C	Divine Bustier
+007D	Jessica's Outfit
+007E	Leather Armour
+007F	Scale Armour
+0080	Chain Mail
+0081	Bronze Armour
+0082	Iron Cuirass
+0083	Iron Armour
+0084	Turtle Shell
+0085	Full Plate Armour
+0086	Silver Cuirass
+0087	Dancer's Mail
+0088	Silver Mail
+0089	Dragon Mail
+008A	Magic Armour
+008B	Zombie Mail
+008C	Heavy Armour
+008D	Spiked Armour
+008E	Platinum Mail
+008F	Bandit Mail
+0090	Sacred Armour
+0091	DUMMY ARMOUR
+0092	Gigant Armour
+0093	Mirror Armour
+0094	Liquid Metal Armour
+0095	Dragovian Armour
+0096	Metal King Armour
+0097	Silk Robe
+0098	Leather Cape
+0099	Robe of Serenity
+009A	Magic Vestment
+009B	Flowing Dress
+009C	Sage's Robe
+009D	Angel's Robe
+009E	Velvet Cape
+009F	Crimson Robe
+00A0	Princess's Robe
+00A1	Dragon Robe
+00A2	Pot Lid
+00A3	Leather Shield
+00A4	Scale Shield
+00A5	Silver Platter
+00A6	Kitty Shield
+00A7	Bronze Shield
+00A8	Templar's Shield
+00A9	Iron Shield
+00AA	Light Shield
+00AB	White Shield
+00AC	Steel Shield
+00AD	Magic Shield
+00AE	Dragon Shield
+00AF	DUMMY SHIELD
+00B0	Power Shield
+00B1	Saintess Shield
+00B2	Bone Shield
+00B3	Mirror Shield
+00B4	Ogre Shield
+00B5	Silver Shield
+00B6	Big Boss Shield
+00B7	Ruinous Shield
+00B8	Thanatos' Shield
+00B9	Goddess Shield
+00BA	Dragovian Shield
+00BB	Metal King Shield
+00BC	Bandana
+00BD	Leather Hat
+00BE	Hairband
+00BF	Pointy Hat
+00C0	Feathered Cap
+00C1	Turban
+00C2	Silver Tiara
+00C3	Bunny Ears
+00C4	Stone Hardhat
+00C5	Iron Helmet
+00C6	Fur Hood
+00C7	Bronze Helmet
+00C8	Coral Hairpin
+00C9	Pirate's Hat
+00CA	Iron Mask
+00CB	Hermes' Hat
+00CC	Platinum Headgear
+00CD	Magical Hat
+00CE	Happy Hat
+00CF	Hades' Helm
+00D0	Slime Crown
+00D1	Mythril Helm
+00D2	Mercury's Bandana
+00D3	Scholar's Cap
+00D4	DUMMY CAP
+00D5	Thinking Cap
+00D6	Iron Headgear
+00D7	Raging Bull Helm
+00D8	Golden Tiara
+00D9	Great Helm
+00DA	Phantom Mask
+00DB	Skull Helm
+00DC	Dragovian Helm
+00DD	Sun Crown
+00DE	Metal King Helm
+00DF	DUMMY FLEE RING
+00E0	Agility Ring
+00E1	Meteorite Bracer
+00E2	Strength Ring
+00E3	Gold Ring
+00E4	Prayer Ring
+00E5	Recovery Ring
+00E6	Goddess Ring
+00E7	Gospel Ring
+00E8	Life Bracer
+00E9	Mighty Armlet
+00EA	Gold Bracer
+00EB	DUMMY BRACELET
+00EC	DUMMY BRACER
+00ED	Ruby of Protection
+00EE	Titan Belt
+00EF	Scholar's Specs
+00F0	Tough Guy Tattoo
+00F1	Slime Earrings
+00F2	Devil's Tail
+00F3	Fishnet Stockings
+00F4	Garter
+00F5	Lady's Ring
+00F6	Gold Rosary
+00F7	DUMMY BOOTS
+00F8	Sorcerer's Ring
+00F9	Skull Ring
+00FA	Holy Talisman
+00FB	Ring of Awakening
+00FC	Full Moon Ring
+00FD	Ring of Clarity
+00FE	Ring of Truth
+00FF	Ring of Immunity
+0100	Catholicon Ring
+0101	DUMMY SANDGLASS
+0102	DUMMY HOURGLASS
+0103	Dragon Scale
+0104	Elevating Shoes
+0105	Medicinal Herb
+0106	Antidotal Herb
+0107	Moonwort Bulb
+0108	Strong Medicine
+0109	Special Medicine
+010A	Lesser Panacea
+010B	Greater Panacea
+010C	Rose-root
+010D	Rose-wort
+010E	Strong Antidote
+010F	Special Antidote
+0110	Moon's Mercy
+0111	Mystifying Mixture
+0112	Yggdrasil Leaf
+0113	Yggdrasil Dew
+0114	Amor Seco Essence
+0115	Chimaera Wing
+0116	Holy Water
+0117	Magic Water
+0118	Elfin Elixir
+0119	Rockbomb Shard
+011A	Sage's Stone
+011B	DUMMY SAND OF TIME
+011C	Seed of Strength
+011D	Seed of Agility
+011E	Seed of Defence
+011F	Seed of Wisdom
+0120	Seed of Skill
+0121	Seed of Life
+0122	Seed of Magic
+0123	Mini Medal
+0124	DUMMY BESTIARY
+0125	Thief's Key
+0126	Magic Key
+0127	Ultimate Key
+0128	Orichalcum
+0129	Bunny Tail
+012A	Timbrel of Tension
+012B	DUMMY CYMBAL
+012C	DUMMY CONCH
+012D	Baumren's Bell
+012E	Gold Nugget
+012F	Iron Nail
+0130	Cowpat
+0131	Dragon Dung
+0132	Rock Salt
+0133	DUMMY LIZARD DUNG
+0134	Saint's Ashes
+0135	Wing of Bat
+0136	Magic Beast Hide
+0137	Fresh Milk
+0138	Rennet Powder
+0139	Red Mould
+013A	Waterweed Mould
+013B	Premium Mould
+013C	Plain Cheese
+013D	DUMMY CHEESE #1
+013E	Spicy Cheese
+013F	Super Spicy Cheese
+0140	Scorching Cheese
+0141	DUMMY CHEESE #2
+0142	Cool Cheese
+0143	Chilly Cheese
+0144	Cold Cheese
+0145	C-C-Cold Cheese
+0146	DUMMY CHEESE #3
+0147	DUMMY CHEESE #4
+0148	DUMMY CHEESE #5
+0149	DUMMY CHEESE #6
+014A	DUMMY CHEESE #7
+014B	Mild Cheese
+014C	Cured Cheese
+014D	Angel Cheese
+014E	Hard Cheese
+014F	Soft Cheese
+0150	Chunky Cheese
+0151	Highly-strung Cheese
+0152	DUMMY CHEESE #8
+0153	Crystal Ball
+0154	Tool Bag
+0155	Jessica's Letter
+0156	Templar's Ring
+0157	World Map
+0158	Venus' Tear
+0159	Moonshadow Harp
+015A	Sand of Serenity
+015B	Lizard Humour
+015C	DUMMY BAG
+015D	Argon Heart
+015E	Great Big Argon Heart
+015F	Magic Mirror
+0160	Sun Mirror
+0161	Stone Sword
+0162	Kran Spinels
+0163	The Big Book of Barriers
+0164	Marta's Bag
+0165	Illuminated Sea Chart
+0166	Nook Grass
+0167	Godbird's Soulstone
+0168	Darktree Leaf
+0169	Templar Captain's Ring
+016A	DUMMY RING
+016B	Argon Ring
+016C	Echo Flute
+016D	Eros' Bow Recipe
+016E	Imp Knife Recipe
+016F	Dragon Slayer Recipe
+0170	Thief's Key Recipe
+0171	Morrie's Memo #1
+0172	Morrie's Memo #2
+0173	Morrie's Memo #3
+0174	Monster Arena Key
+0175	Godbird Sceptre
+0176	DUMMY CARD
+0177	Gold Orb
+0178	Silver Orb
+0179	Red Orb
+017A	Blue Orb
+017B	Green Orb
+017C	Yellow Orb
+017D	Purple Orb
+017E	Copper Monster Coin
+017F	Silver Monster Coin
+0180	Gold Monster Coin
+0181	Flame Shield
+0182	Ice Shield
+0183	MIMIC STONE
+0184	BLARNEY STONE
+[/ITEM]

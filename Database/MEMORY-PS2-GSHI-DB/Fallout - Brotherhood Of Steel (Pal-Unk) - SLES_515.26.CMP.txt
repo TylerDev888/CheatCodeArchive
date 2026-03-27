@@ -1,0 +1,69 @@
+^3 = NAME: Fallout - Brotherhood Of Steel (Pal-Unk)
+^2 = GameID: SLES-51526
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0100198 0010019B
+!!
++60 Hertz
+%Credits: Codejunkies
+$201B8170 24120002
++Disable A.I. (Ignore Enemy)
+%Credits: Codejunkies
+$20109AEC 24020001
+!Experience Codes:
++1000 XP Per Kill
+%Credits: Codejunkies
+$200FFF00 3C01447A
+$200FFF04 44816000
+$200FFF08 460C0000
+$200FFF0C 08053DCC
+$2014F72C 0803FFC0
++10000 XP Per Kill
+%Credits: Codejunkies
+$200FFF00 3C01461C
+$200FFF04 44816000
+$200FFF08 460C0000
+$200FFF0C 08053DCC
+$2014F72C 0803FFC0
++100000 XP Per Kill
+%Credits: Codejunkies
+$200FFF00 3C0147C3
+$200FFF04 44816000
+$200FFF08 460C0000
+$200FFF0C 08053DCC
+$2014F72C 0803FFC0
++Over 2,000,000,000 XP After 1 Kill
+%Credits: Codejunkies
+$2014F728 3C014F00
+$2014F72C 44810000
+!!
++Infinite Ammo
+%Credits: Codejunkies
+$201A9534 00000000
++Infinite Caps
+%Credits: Codejunkies
+$201685CC 0C03FFD0
+$201685D0 3C060090
+$200FFF40 AC660824
+$200FFF44 08071D42
++Infinite Health
+%Credits: Codejunkies
+$2015AB78 E6620054
+!Skill Pts Codes:
++Infinite Skill Pts Use
+%Credits: Codejunkies
+$2016C370 00000000
++Skill Pts Increase When Used
+%Credits: Codejunkies
+$2016C370 46010000
+!!
++Y Fix {<I>Use This Code To Center The Screen With The 60 Hertz Mode On.</I>}
+%Credits: Codejunkies
+$201B87A8 0803FFE0
+$200FFF80 3C010003
+$200FFF84 0061182F
+$200FFF88 FCA30000
+$200FFF8C 0806E1EB
+!!
+

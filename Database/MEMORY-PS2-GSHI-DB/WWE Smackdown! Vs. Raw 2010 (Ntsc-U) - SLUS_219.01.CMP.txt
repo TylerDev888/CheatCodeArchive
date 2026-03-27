@@ -1,0 +1,261 @@
+^3 = NAME: WWE Smackdown! Vs. Raw 2010 (Ntsc-U)
+^2 = GameID: SLUS-21901
+!Master Codes:
++Enable Code(Must Be On)
+%Credits: Skiller
+$901BBF18 0C06EF6E
+!!
++Access Blanked-Out Move Categories
+%Credits: 47iscool
+$D068B294 00000038
+$2068B294 24020001
++Arena Modifier {<I>Values -  00 - Smackdown 01 - Raw 02 - ECW 04 - Summerslam 05 - Unforgiven 06 - No Mercy 07 - Survivor Series 08 - Armageddon 09 - Royal Rumble 0A - No Way Out 0B - Wrestlemania 25 0C - Backlash 0D - Judgement Day 0E - Night Of Champions 0F - The Bash 12 - Cyber Sunday 14 - No Way Out Arena With Invisible Elimination Chamber 16 - Royal Rumble (Alt) 17 - Create A Move-Set Arena (Smackdown) 18 - Create A Move-Set Arena (Raw) 19 - Empty Smackdown Arena With A Grey Wall Around It 35 - Raw Interview Area 36 - The Dirt Sheet Interview Area 37 - GM Office 38 - Backstage Brawl Area 39 - Locker Room 3A - Raw Interview Area W/ Chairs In Background 3B - Office &Amp; Hallway (No Boundaries) 3C - Office &Amp; Hallway (No Boundaries) 3D - Office &Amp; Hallway (No Boundaries) 3E - The Dirt Sheet Interview Area (No Boundaries) 3F - Hospital Room (No Boundaries) 40 - Back Stage Area (No Boundaries) 41 - Locker Room &Amp; Hallway (No Boundaries) 42 - Locker Room &Amp; Hallway (No Boundaries) 43 - Dining Area (No Boundaries) 44 - Parking Garage (No Boundaries) 45 - Interview Area (No Boundaries) 46 - Interview Area (No Boundaries) 47 - Locker Room &Amp; Hallway (No Boundaries) 48 - Locker Room &Amp; Hallway (No Boundaries) 49 - Office &Amp; Hallway (No Boundaries) 4A - Locker Room &Amp; Hallway (No Boundaries) 4B - Locker Room &Amp; Hallway (No Boundaries) 4C - Pitch Black Arena (Invisible Ring, No Boundaries) 4D - Pitch Black Arena (Invisible Ring, No Boundaries)</I>}
+%Credits: BigBossman
+$004D4ED0 000000??
++Attribute Points Can Go To 100
+%Credits: 47iscool
+$2026075C 24030064
++Can Zoom In More On CAW {<I>Doesn&#39;T Always Work</I>}
+%Credits: 47iscool
+$D067D3B8 0000001D
+$20679878 3C0240A0
++CAW 1 BGM Modifier {<I>*These Are Songs The Devs Block You From Using* *They Are Not The List Of Selectable Songs And Only Play In The Menu* *They Are Saveable But Changing Anything If The Code Is Not Active Will Remove The Song, No Worries Though, Simply Enable The Code And Save The Game To Have It Back*</I>}
+%Credits: 47iscool
+$104E514C 0000????
++Counts Out Always Off
+%Credits: 47iscool
+$004D4E95 00000000
++Disable BGM (Faster Loading) {<I>*Good For Users Of Open PS2 Loader Because Running Games From USB On PS2 Is Slower Than CD/DVD And This Will Help Speed Things Up A Bit*</I>}
+%Credits: 47iscool
+$2029EEDC 24020000
++DQ Always Off
+%Credits: 47iscool
+$004D4EAB 00000000
++Elimination Chamber Always On
+%Credits: 47iscool
+$004D4EB9 00000001
++Elimination Tag Team Rules Modifier {<I>Values - 00 - Off  01 - On</I>}
+%Credits: BigBossman
+$004D4EAD 000000??
++Escape By Cage Door Modifier {<i>Only in Steel Cage matches. Values - 00 - Off  01 - On</i>}
+%Credits: BigBossman
+$004D4EBC 000000??
++Everyone Unlocked (Temporary) {<I>*Not Saveable*</I>}
+%Credits: 47iscool
+$D01E107C 000000DD
+$201E107C 24030001
++Extreme Rules Always On
+%Credits: 47iscool
+$004D4EC8 00000001
++First Blood Always On
+%Credits: 47iscool
+$004D4EB8 00000001
++Hardcore Rules Modifier {<I>Hardcore Matches Were Replaced With Extreme Rules Matches. About All This Will Do Is Have It To Where A Chair &Amp; A Sledge Hammer Are Laying Outside The Ring Like In The Previous Games That Featured Hardcore Matches. You Still Can&#39;T Go From One Place To The Next In Mid-Match. In Order To Change The Other Rules, You&#39;D Have To Use The Codes That Affect Pinfalls, DQ&#39;S, &Amp; Ringout Counts. Values - 00 - Off  01 - On</I>}
+%Credits: BigBossman
+$004D4EA1 000000??
++Hell In A Cell Always On
+%Credits: 47iscool
+$004D4EA4 00000001
++Idiot AI (L1+L2 On/R1+R2 Off) {<I>Not Perfect As They Can Sometimes Reverse</I>}
+%Credits: 47iscool
+$E002FAFF 01C63802
+$206FF648 00000000
+$206FFA58 00000000
+$E002F5FF 01C63802
+$206FF648 2C420001
+$206FFA58 2C420001
++Inf Weapon Usage
+%Credits: 47iscool
+$D0342F4C 00000001
+$20342F4C 24420000
++Inferno Always On (Useless) {<I>*It&#39;S Useless Because The Flames Aren&#39;T There And You Can&#39;T Set Your Opponent On Fire Wthout It*</I>}
+%Credits: 47iscool
+$004D4ECB 00000001
++Interference Always Off
+%Credits: 47iscool
+$004D4EB0 00000000
++Iron Man Always On {<I>0A:10 Minutes 14:20 Minutes 1E:30 Minutes 28:40 Minutes 32:50 Minutes 3C:60 Minutes 5A:90 Minutes</I>}
+%Credits: 47iscool
+$004D4EA6 00000001
+$004D4E98 000000??
++K.O. Modifier {<I>Values - 00 - Off  01 - On</I>}
+%Credits: BigBossman
+$004D4E92 000000??
++Ladder Rules Modifier {<I>Values - 00 - Off  01 - On</I>}
+%Credits: BigBossman
+$004D4EA3 000000??
++Last Man Standing Rules Modifier {<I>Values - 00 - Off  01 - On</I>}
+%Credits: BigBossman
+$004D4EAA 000000??
++Levitate (Everyone) (Press L3)
+%Credits: 47iscool
+$D05E0DE0 00000004
+$205E0DE0 C4410004
+$D1C63802 0000FFFD
+$205E0DE0 E4410004
++Max/Inf Attribute Points After One Match
+%Credits: 47iscool
+$203B5CD0 240203E7
++Menu BGM Modifier {<I>*The Song You Pick Will Always Play In The Menu* *Does Not Affect Entrances*</I>}
+%Credits: 47iscool
+$2029EEDC 2402????
++Pin/Submit Anywhere Always On
+%Credits: 47iscool
+$004D4E91 00000002
+$004D4E97 00000002
+!Play as Modifiers:
++Player 1 Play As Modifier {<I>The Top Code Affects Which Character Is Chosen Regardless Of Who You Choose. The Bottom Code Modifies The Move-Set Of The Character Chosen. In Order To Have The Right Character With The Correct Move-Set, Make Sure The Values Match. Of Course It Is Possible To Play As John Cena With Trish Stratus&#39; Moves. You Can Also Remove Characters From Matches by using Value &quot;C800&quot;. Values - 2711 - The Rock 27D9 - Triple H 27E3 - Triple H (DX Attire) 283D - Undertaker 28A1 - Chris Jericho 28AB - Chris Jericho (Sport Coat) 29CD - Kane 2AF9 - Edge 2B03 - Edge (Referee Shirt) 2B5D - Jeff Hardy 2BC1 - Matt Hardy 2C89 - JBL 2C93 - JBL (Suit) 2CED - Mr. McMahon (Suit) 2CF7 - Mr. McMahon (Chicken Head) 2D01 - John Cena W/ Glitched Head  2DB5 - William Regal 2E19 - Carlito 30D5 - Big Show 319D - Maria 332D - CM Punk 34BD - MVP 3521 - The Million Dollar Man 3585 - Chavo Guerrero 364D - John Cena 3657 - John Cena (T-Shirt) 37DD - Mickie James 37E7 - Mickie James (Jeans) 38A5 - Shawn Michaels 38AF - Shawn Michaels (DX Attire) 38B9 - Shawn Michaels (T-Shirt) 3A99 - Michael Cole 3B61 - Shane McMahon 3BC5 - Jerry Lawler 3C8D - Tazz 3D55 - Umaga 3DB9 - Finlay 3E81 - Batista 3EE5 - Randy Orton 3EEF - Randy Orton (Referee Shirt) 3F49 - Mr. Kennedy 3F53 - Mr. Kennedy (T-Shirt) 4011 - Kelly Kelly 4075 - JTG 40D9 - The Great Khali 41A1 - Tommy Dreamer 4331 - Jim Ross 43F9 - Melina 445D - John Morrison 4467 - John Morrison (Pants, Open Shirt, &amp; Shades) 44C1 - Kofi Kingston 4589 - Shad 45ED - Mark Henry 4719 - Michelle McCool 490D - Justin Roberts 4971 - Tony Chimmel 49D5 - Lillian Garcia 4A39 - Green Model 4A9D - Red Model 4C2D - Hornswoggle 4E85 - Santino Marella 4E8F - Santino Marella (T-Shirt) 5015 - Cody Rhodes 50DD - The Brian Kendrick 50E7 - The Brian Kendrick (T-Shirt &amp; Shorts) 5141 - Shelton Benjamin 51A5 - Dusty Rhodes 5335 - Jesse 5399 - Festus 5529 - The Miz 5533 - The Miz (Chick Magnet T-Shirt) 5781 - Beth Phoenix 58AD - Matt Stryker 5A3D - Doctor 639D - Referee 65F5 - Ted DiBiase 6659 - Vladimir Kozlov 66BC - Mike Knox 6785 - Evan Bourne 684D - Jack Swagger 68B1 - Ezekiel Jackson 69DD - Primo 6A41 - R-Truth 6B6D - Dolph Ziggler 6BD1 - Christian 6C35 - Goldust 7149 - Natalya 7153 - Natalya (Mickie James Attire) 71AD - Maryse 7211 - Eve Torres 7275 - Gail Kim 72D9 - Brie Bella 733D - Nikki Bella 7595 - Todd Grisham 75F9 - Trish Stratus 765D - Bob Orton C800 - Vacant</i>}
+%Credits: BigBossman
+$21C1E92C 0000????
+$21EF3690 0000????
++Player 2 Play As Modifier
+%Credits: BigBossman
+$21C1E960 0000????
+$21EF96C4 0000????
++Player 3 Play As Modifier
+%Credits: BigBossman
+$21C1E994 0000????
+$21EF96F8 0000????
++Player 4 Play As Modifier
+%Credits: BigBossman
+$21C1E9C8 0000????
+$21EF972C 0000????
++Player 5 Play As Modifier
+%Credits: BigBossman
+$21C1E9FC 0000????
+$21EF9760 0000????
++Player 6 Play As Modifier
+%Credits: BigBossman
+$21C1EA30 0000????
+$21EF9794 0000????
+!!
++Ring Out Always On
+%Credits: 47iscool
+$004D4E94 00000000
++Rope Break Always Off
+%Credits: 47iscool
+$004D4E93 00000000
++Royal Rumble Rules Modifier {<I>Values - 00 - Off  01 - On</I>}
+%Credits: BigBossman
+$004D4E96 000000??
++Steel Cage Always On
+%Credits: 47iscool
+$004D4E99 00000001
++Super Inf Attribute Points {<I>*One Upgrade On Each Stat Type Will Max It Out*</I>}
+%Credits: 47iscool
+$203B5CC0 24060064
++Table Match Always On
+%Credits: 47iscool
+$004D4EA2 00000001
++Tag Team / Tornado Tag Rules Modifier {<I>Tornado Rules Are Where Two Members Of A Tag Team Are In A Match &Amp; Don&#39;T Have To Be Tagged In To Be Legal. Tag Team Rules Are Where Tag Team Members Have To Be Tagged In In Order To Be Legal In The Ring. Values - 00 - Tornado Tag Rules 01 - Tag Team Rules</I>}
+%Credits: BigBossman
+$004D4E9E 000000??
++TLC Always On
+%Credits: 47iscool
+$004D4EA8 00000001
++Ultimate Submission Rules / Alternate Ironman Rules {<I>Needs To Be Used With A Time Limit Code &Amp; Submission Rules Modifier. Beyond That, The Number Of Points Just Appears On The Participants In The Match At The Start.<Br>Values -<Br>00 - Off<Br>01 - On</I>}
+%Credits: BigBossman
+$004D4E9C 000000??
+!Unlock Cheats:
++Unlock Bob Orton
+%Credits: BigBossman
+$005BF9A3 00000001
++Unlock Champion Of Champions Belt
+%Credits: BigBossman
+$005BF99B 00000001
++Unlock Chris Jericho Street Clothes
+%Credits: BigBossman
+$005BF989 00000001
++Unlock Dirt Sheet Brawl
+%Credits: BigBossman
+$005BF998 00000001
++Unlock Dusty Rhodes
+%Credits: BigBossman
+$005BF9A4 00000001
++Unlock Edge Special Referee & Street Clothes
+%Credits: BigBossman
+$005BF986 00000001
++Unlock Eve Torres
+%Credits: BigBossman
+$005BF99D 00000001
++Unlock Ezekiel Jackson
+%Credits: BigBossman
+$005BF99F 00000001
++Unlock Green
+%Credits: BigBossman
+$005BF9A6 00000001
++Unlock Interview Space Brawl
+%Credits: BigBossman
+$005BF997 00000001
++Unlock JBL Suit
+%Credits: BigBossman
+$005BF98A 00000001
++Unlock John Cena With T-Shirt
+%Credits: BigBossman
+$005BF98D 00000001
++Unlock Locker Room Brawl
+%Credits: BigBossman
+$005BF996 00000001
++Unlock Mickie James Street Clothes
+%Credits: BigBossman
+$005BF980 00000001
++Unlock Million Dollar Man
+%Credits: BigBossman
+$005BF9A5 00000001
++Unlock Mr. Kennedy Street Clothes
+%Credits: BigBossman
+$005BF985 00000001
++Unlock Mr. Mcmahon
+%Credits: BigBossman
+$005BF9A0 00000001
++Unlock Mr. Mcmahon Suit
+%Credits: BigBossman
+$005BF987 00000001
++Unlock Mr. Mcmahon With Chicken Head
+%Credits: BigBossman
+$005BF984 00000001
++Unlock Natalya Mickie James Stalker Attire
+%Credits: BigBossman
+$005BF981 00000001
++Unlock Office Stage Brawl
+%Credits: BigBossman
+$005BF995 00000001
++Unlock Randy Orton Special Referee
+%Credits: BigBossman
+$005BF98C 00000001
++Unlock Red
+%Credits: BigBossman
+$005BF9A7 00000001
++Unlock Santino Marella Street Clothes
+%Credits: BigBossman
+$005BF983 00000001
++Unlock Shawn Michaels D-X Gear
+%Credits: BigBossman
+$005BF98B 00000001
++Unlock Shawn Michaels With T-Shirt
+%Credits: BigBossman
+$005BF988 00000001
++Unlock The Brian Kendrick Street Clothes
+%Credits: BigBossman
+$005BF982 00000001
++Unlock The Miz With T-Shirt
+%Credits: BigBossman
+$005BF98F 00000001
++Unlock The Rock
+%Credits: BigBossman
+$005BF9A2 00000001
++Unlock Triple H D-X Gear
+%Credits: BigBossman
+$005BF98E 00000001
++Unlock Trish Stratus
+%Credits: BigBossman
+$005BF99E 00000001
+!!
++Unlock Referee
+%Credits: 47iscool
+$004E1319 00000001
++Use 1 Point For 99 (Stats)
+%Credits: Skiller
+$10260754 00000001
+!!
+

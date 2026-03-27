@@ -1,0 +1,77 @@
+^3 = NAME: UEFA Champions League 2004-2005 (Pal-E-G)
+^2 = GameID: SLES-52909
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01B2B14 0022E78F
++(M) Must Be On
+%Credits: Codejunkies
+$E00EFF27 0052A2BC
+$E00D0C0E 0052A2BE
+$203BD778 080F48F4
+$203D23D0 3C0401F0
+$203D23D4 3C050008
+$203D23D8 0C0EFF27
+$203D23DC 3C060008
+$203D23E0 0C0F32E6
+$203D23E4 0000202D
+$203D23E8 3C0501F0
+$203D23EC 3C040008
+$203D23F0 0C0EFF27
+$203D23F4 3C060008
+$203D23F8 080EF5E0
+$203D23FC 00000000
+$F052A2BC 0052A2BF
+!!
++All Unlockables
+%Credits: Codejunkies
+$20182F34 00000000
++AR Below 3.14 Fix
+%Credits: Codejunkies
+$203CF9F0 3C03200F
+$203CF9F8 8C65FFF8
+$203CF9FC 24040079
+$203CFA00 24030074
+$203CFA04 0000000C
++Away Team Score 0
+%Credits: Codejunkies
+$10573B5C 00000000
++Away Team Score 99
+%Credits: Codejunkies
+$10573B5C 00000063
++Home Team Score 0
+%Credits: Codejunkies
+$1046E73C 00000000
++Home Team Score 99
+%Credits: Codejunkies
+$1046E73C 00000063
++Low Gravity Ball
+%Credits: Codejunkies
+$2067A644 BD99999A
++Max Friction With Ball
+%Credits: Codejunkies
+$2067A634 C0000000
++P1 Score 99 Goals (Press Select+Down)
+%Credits: Codejunkies
+$D0739E82 0000FFBE
+$00680CA0 00000063
++P1 Scores 0 Goals (Press Select+Up)
+%Credits: Codejunkies
+$D0739E82 0000FFEE
+$00680CA0 00000000
++P2 Scores 0 Goals (Press Select+Left)
+%Credits: Codejunkies
+$D0739E82 0000FF7E
+$00680CA4 00000000
++P2 Scores 99 Goals (Press Select+Right)
+%Credits: Codejunkies
+$D0739E82 0000FFDE
+$00680CA4 00000063
++Spot The Ball Mode
+%Credits: Codejunkies
+$20106CC4 00000000
++Super Fast Football
+%Credits: Codejunkies
+$202B3610 000000FA
+!!
+

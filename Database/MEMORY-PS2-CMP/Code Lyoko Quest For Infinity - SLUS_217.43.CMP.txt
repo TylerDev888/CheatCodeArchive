@@ -1,0 +1,39 @@
+^2 = GameID: SLUS_217.43
+^3 = NAME: Code Lyoko Quest For Infinity
+!Masters:
++Enable Code (MUST BE ON)
+$904112B0 0C104454
+!!
+!Misc Codes:
++Max Pts On Pickup
+%Credits: SkillerCMP
+$004FC392 00000081
++Max Pts On Pickup (alt)
+%Credits: SkillerCMP
+$004FC39C 00000001
++Max/Inf Pts
+%Credits: SkillerCMP
+$205E9034 000F423F
++Buying Upgrades Dont Decrease Pts
+%Credits: SkillerCMP
+$204F332C 00000000
++Buying Upgrades Increase Pts
+%Credits: SkillerCMP
+$004F332C 00000021
++Power Upgrades Cost Nothing
+%Credits: SkillerCMP
+$204FC49C AC400578
+$204FC4A0 03E00008
+$204FC4A4 8C420578
++Weapon Upgrades Cost Nothing
+%Credits: SkillerCMP
+$204FC464 AC4002F8
+$204FC468 03E00008
+$204FC46C 8C4202F8
++Inf HP (characters)
+%Credits: SkillerCMP
+$204FC25C 00000000
++Inf Power (characters)
+%Credits: SkillerCMP
+$204FC334 00000000
+!!

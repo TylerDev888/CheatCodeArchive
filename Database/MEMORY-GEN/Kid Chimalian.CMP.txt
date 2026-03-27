@@ -1,0 +1,108 @@
+^3 = NAME: Kid Chimalian
+^4 = FILE: NTSC
++99 Lives
+%Credits: HF*, Skiller
+$FFFC3F:63
++Inf Health
+%Credits: HF*, Skiller
+$FFFC41:05
++Dimonds 99
+%Credits: HF*, Skiller
+$FFFC43:63
++Inf Cuntinues P1
+%Credits: HF*, Skiller
+$FFFC5E:0063
++Inf Cuntinues P2
+%Credits: HF*, Skiller
+$FFFC74:0063
++Player 1 Score
+%Credits: HF*, Skiller
+$FF0FD2:869F
+$FFFC4E:869F
+$FFFC7A:869F
++Player 2 score
+%Credits: HF*, Skiller
+$FF1046:869F
+$FFFC4E:869F
+$FFFC64:869F
++Inf Time or time mod 9:87
+%Credits: HF*, Skiller
+$FFFC23:09
+$FFFC21:08
+$FFFC1F:07
++Freeze Enemys
+%Credits: HF*, Skiller
+$FF2593:5A
++Costume Modifier
+%Credits: HF*, Skiller
+$FFFC47:[COST]
++Moon Jump 
+%Credits: HF*, Skiller
+$FF250C:C8
++1-Hit to be Invincible
+%Credits: HF*, Skiller
+$FF0EAD:08 
++1-Hit to be Invincible (White Version)
+%Credits: HF*, Skiller
+$FF0EA9:03
++Shadow Kid Chameleon
+%Credits: HF*, Skiller
+$FF4EBA:[TYPE]
+$FF4EBB:[TYPE]
+$FF4EBC:[TYPE]
+$FF4EBD:[TYPE]
+$FF4EBE:[TYPE]
+$FF4EBF:[TYPE]
+$FF4EC0:[TYPE]
+$FF4EC1:[TYPE]
+$FF4EC2:[TYPE]
+$FF4EC3:[TYPE]
+$FF4EC4:[TYPE]
+$FF4EC5:[TYPE]
+$FF4EC6:[TYPE]
+$FF4EC7:[TYPE]
+$FF4EC8:[TYPE]
+$FF4EC9:[TYPE]
+$FF4ECA:[TYPE]
+$FF4ECB:[TYPE]
+$FF4ECC:[TYPE]
+$FF4ECD:[TYPE]
+$FF4ECE:[TYPE]
+$FF4ECF:[TYPE]
+$FF4ED0:[TYPE]
+$FF4ED1:[TYPE]
+Hyper Mode (Dragon - Stage 1)
+%Credits: HF*, Skiller
+$FF25AB:01
++Start on Stage Modifier 
+%Credits: HF*, Skiller
+$FFFC45:[STAGE]
++Animation Mod
+%Credits: HF*, Skiller
+$FF2502:??
+$FF2503:??
+^6 = MODS:
+[TYPE]
+Value>Name
+00	Shadow
+FF	White
+[/TYPE]
+[STAGE]
+Value>Name
+32 - The Final Marathon
+33 - Plethora
+34 - The Pinnacle
+[/STAGE]
+[COST]
+Value>Name
+00	Kid Chameleon
+01	Skycutter
+02	Cyclone
+03	Red Stealth
+04	Eyeclops
+05	Juggernaut
+06	Iron Knight
+07	Berzerker
+08	Miniaxe
+09	Fly
+[/COST]

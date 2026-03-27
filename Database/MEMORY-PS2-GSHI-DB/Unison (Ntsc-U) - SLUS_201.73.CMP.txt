@@ -1,0 +1,165 @@
+^3 = NAME: Unison (Ntsc-U)
+^2 = GameID: SLUS-20173
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F010061C 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F01E5264 001E5267
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001E5267
+!!
++100% Broadcast
+%Credits: InterAct
+$10985018 00000064
++Always Have Broadcast
+%Credits: Code Master
+$0028ECA4 00000001
++Always Rank A - Cella
+%Credits: InterAct
+$20281308 FFFFFFFF
+$20281310 00000000
+$2028132C 00000000
+$20281334 00000000
+$20281738 00000000
++Always Rank A - Chily
+%Credits: InterAct
+$20281B78 FFFFFFFF
+$20281B80 00000000
+$20281B9C 00000000
+$20281BA4 00000000
+$20281FA8 00000000
++Always Rank A - Trill
+%Credits: InterAct
+$20281740 FFFFFFFF
+$20281748 00000000
+$20281764 00000000
+$2028176C 00000000
+$20281B70 00000000
+!Cela Codes:
++Always Rank A
+%Credits: Code Master
+$20281738 00000000
++Max Bads
+%Credits: Code Master
+$109840F4 000003E7
++Max Cools
+%Credits: Code Master
+$109840EC 000003E7
++Max Goods
+%Credits: Code Master
+$109840F0 000003E7
++Max Misses
+%Credits: Code Master
+$109840F8 000003E7
++Max Perfects
+%Credits: Code Master
+$109840E8 000003E7
++No Bads
+%Credits: Code Master
+$109840F4 00000000
++No Cools
+%Credits: Code Master
+$109840EC 00000000
++No Goods
+%Credits: Code Master
+$109840F0 00000000
++No Misses
+%Credits: Code Master
+$109840F8 00000000
++No Perfects
+%Credits: Code Master
+$109840E8 00000000
+!!
+!Chilly Codes:
++Always Rank A
+%Credits: Code Master
+$20281FA8 00000000
++Max Bads
+%Credits: Code Master
+$1098413C 000003E7
++Max Cools
+%Credits: Code Master
+$10984134 000003E7
++Max Goods
+%Credits: Code Master
+$10984138 000003E7
++Max Misses
+%Credits: Code Master
+$10984140 000003E7
++Max Perfects
+%Credits: Code Master
+$10984130 000003E7
++No Bads
+%Credits: Code Master
+$1098413C 00000000
++No Cools
+%Credits: Code Master
+$10984134 00000000
++No Goods
+%Credits: Code Master
+$10984138 00000000
++No Misses
+%Credits: Code Master
+$10984140 00000000
++No Perfects
+%Credits: Code Master
+$10984130 00000000
+!!
++Have 0 Miss
+%Credits: Codejunkies
+$10984140 00000000
+$201094AC 24020000
++Have Max Combo
+%Credits: Codejunkies
+$10984148 000003E7
+$201093D8 240303E7
++Have Max Perfects
+%Credits: Codejunkies
+$10984130 000003E7
+$20109330 240203E7
++Max Combo
+%Credits: InterAct
+$10984148 000003E7
++Miss
+%Credits: Codejunkies
+!Trill Codes:
++Always Rank A
+%Credits: Code Master
+$20281B70 00000000
++Max Bads
+%Credits: Code Master
+$10984118 000003E7
++Max Cools
+%Credits: Code Master
+$10984110 000003E7
++Max Goods
+%Credits: Code Master
+$10984114 000003E7
++Max Misses
+%Credits: Code Master
+$1098411C 000003E7
++Max Perfects
+%Credits: Code Master
+$1098410C 000003E7
++No Bads
+%Credits: Code Master
+$10984118 00000000
++No Cools
+%Credits: Code Master
+$10984110 00000000
++No Goods
+%Credits: Code Master
+$10984114 00000000
++No Misses
+%Credits: Code Master
+$1098411C 00000000
++No Perfects
+%Credits: Code Master
+$1098410C 00000000
+!!
+4C0FC264 1456E7A5
+!!
+

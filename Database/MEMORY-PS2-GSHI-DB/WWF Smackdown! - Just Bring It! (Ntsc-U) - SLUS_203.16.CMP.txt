@@ -1,0 +1,520 @@
+^3 = NAME: WWF Smackdown! - Just Bring It! (Ntsc-U)
+^2 = GameID: SLUS-20316
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01D18B8 001115EF
++(M) Must Be On
+%Credits: Codejunkies
+$F01115EC 001115EF
++Enable Code (Must Be On)
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$F0100008 001115EF
+!!
++5 Smackdowns - P1:
+%Credits: InterAct
+$D02F5982 0000FBFF
+$11B4250C 00000005
++99 Wins (Slobber Knocker)
+%Credits: InterAct
+$10725C84 00000063
++Always Have Specials
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$201C0760 24020005
+$201C0768 AE2201AC
++Always Low Match Timer
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$002E2FC9 00000000
+!Always Matches & Stipulation Codes:
++10 Minute Time Limit Match {<I>Match Continues Even If A A Count Out, DQ, Pinfall, Or Submission Occurs. The Match Ends After The Time Limit Expires.</I>}
+%Credits: BigBossman
+$00725C1A 00000001
++Always Cage Match
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725C0A 00000E84
++Always Extreme Death Match
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$20725C14 0E840E84
+$10725C1A 00000E84
++Always Falls Count Anywhere {<I>With This Code, It Does Not Work On All Match Types, Anything With Extra Weapons Or Cell / Cage Will Freeze The Game If You Try To Go Back.</I>}
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725C0E 00000E84
++Always Hell In A Cell & Crown By Name Match
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725C18 00000E84
++Always I Quit Match (With Microphone)
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725C10 00000E84
++Always Ladder Match (Title)
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725C16 00000E84
++Always Last Man Standing Match
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725C1E 00000E84
++Always Slobber Knocker
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725C1A 00000E84
++Always Table Match (With 2 Tables, 2 Chairs & Microphone)
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725C14 00000E84
++Always TLC Match
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725C1C 00000E84
++DQ Modifier {<I>Values - 00 - Dqs Are Off 01 - Dqs Are On</I>}
+%Credits: BigBossman
+$00725C20 000000??
++Entrance Modifier {<I>Values -&#160; 00 - Entrances Are Off 01 - Entrances Are On</I>}
+%Credits: BigBossman
+$00725BFC 000000??
++Give Up Always On
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725C08 00000E84
++Pinfalls Modifier {<I>Values -&#160; 00 - Pinfalls Off 01 - Pinfalls On 02 - Pinfalls Count Anywhere</I>}
+%Credits: BigBossman
+$00725C03 000000??
++Ring Out Count Modifier {<I>Values -&#160; 00 - Ring Out Count Is Off 01 - Ring Out Count Is On</I>}
+%Credits: BigBossman
+$00725C06 000000??
++Ring Out Modifier {<I>Values - 00 - Allowed To Exit The Ring 01 - Not Allowed To Exit The Ring</I>}
+%Credits: BigBossman
+$00725C0B 000000??
++Rope Break Always On
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725C04 00000E84
++Table Match Modifier {<I>Values -&#160; 00 - Table Match Rules Are Off 01 - Table Match Rules Are On</I>}
+%Credits: BigBossman
+$00725C15 000000??
++Tag Team Rules Modifier {<I>Values -&#160; 00 - Tornado Rules (All Memebers Of A Tag Team Are Allowed In The Ring) 01 - Tag Team Rules (Only One Member Of A Tag Team Is Allowed In The Ring At A Time)</I>}
+%Credits: BigBossman
+$00725C10 000000??
++Time Limit Modifier {<I>Values -&#160; 00 - Infinite Time 01 - 1 Minute 02 - 2 Minutes 03 - 3 Minutes 0A - 10 Minutes 1E - Time Counts Upwards</I>}
+%Credits: BigBossman
+$00725C09 000000??
+!!
++Always Max Smack Down Meters
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$2027EA88 24020064
+$2027EA90 24020064
++Camera Always Overhead View
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$2010293C 00000000
++Extra Specials
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$101AE5E8 00000001
++Have All Movies
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$0072B018 000000FF
++In WWF New York All Extra Visuals Dissapear {<I>With This Code, It Affects Videos On Tvs, Crowd, Weapons, Railing by dinner tables, but weapons can still be used. Theres just a shadow of them.</i>}
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10E59378 00000FEB
++Infinite Ability Points
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$20217E90 240203E7
+$20218580 00000000
++Infinite Creation Points
+%Credits: Codejunkies
+$D1A6AF40 00000090
+$11A6AF40 000003E7
++Infinite Match Time {<I>With This Code, Your Opponent &Amp; The Ref Don&#39;T Even Move.</I>}
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$202E2FC8 00000000
++Infinite Specials
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$201AE5EC 00000000
++Match Selection Modifier {<I>Some Match Selections May Freeze Or Cause Undesirable Effects When Combined With Other Match Types. There Are Some Unselectable Match Types That Work. The Values That Have &Quot;??&Quot; I&#39;M Not Sure What Match Type These Are. If More Characters Are Selected Than A Normal Match Type, Then Those Selected Characters Will Be In The Match. The Best Values To Use Are &Quot;24&Quot; &Amp; &Quot;3B&Quot;. Values &Quot;10&Quot; To &Quot;13&Quot; Activate A Royal Rumble That Causes The Rock To Always Come Out After The Countdown. Values &Quot;65&Quot;, &Quot;66&Quot;, &Quot;69&Quot;, &Amp; &Quot;6A&Quot; Are A Type Of Special Referee Two Referee Match For Triple Threat &Amp; Fatal 4 Way Matches Both Normal &Amp; Hell In A Cell. However, The Characters That Are Designated As Referees Don&#39;T Act Like Referees. Values - 00 - Single No Manager 01 - Single No Manager Vs. W/ Manager 02 - Single No Manager Vs. W/ Two Managers 03 - Single W/ Manager Vs. W/ Manager 04 - Single W/ Manager Vs. W/ Two Managers 05 - Single W/ Two Managers Vs. W/ Two Managers 06 - Normal Tag 07 - Tag Vs. Tag W/ Manager 08 - Tag W/ Manager Vs. Tag W/ Manager 09 - Tornado Tag 0A - Normal 6-Man Tag 0B - Tornado 6-Man Tag 0C - Handicap One On Two 0D - Handicap One On Tag 0E - Handicap One On Three 0F - Royal Rumble 10 - ***Royal Rumble (The Rock Keeps Entering)*** 11 - ***Royal Rumble (The Rock Keeps Entering)*** 12 - ***Royal Rumble (The Rock Keeps Entering)*** 13 - ***Royal Rumble (The Rock Keeps Entering)*** 14 - King Of The Ring Single Tournament 15 - ?? 16 - ?? 17 - ?? 18 - King Of The Ring Special Tournament 19 - ?? 1A - ?? 1B - ?? 1C - Hardcore Single 1D - Hardcore Tornado Tag 1E - Hardcore Tornado 6-Man Tag 1F - Hardcore Triple Threat Tornado Tag 20 - Hardcore One On Two 21 - Hardcore One On Three 22 - Hardcore Triple Threat 23 - Hardcore Fatal 4 Way 24 - ***Time Limit Hardcore Match*** 25 - Falls Count Anywhere Single 26 - Falls Count Anywhere Tornado Tag 27 - Falls Count Anywhere 6-Man Tag 28 - Falls Count Anywhere Triple Threat Tornado Tag 29 - Falls Count Anywhere One On Two 2A - Falls Count Anywhere One On Three 2B - Falls Count Anywhere Triple Threat 2C - Falls Count Anywhere Fatal 4 Way 2D - Survival Triple Threat 2E - Survival Fatal 4 Way 2F - Survival 4-Man Battle Royal 30 - Survival 6-Man Battle Royal 31 - Survival 8-Man Battle Royal 32 - Cage Single 33 - Cage Tornado Tag 34 - Cage Triple Threat 35 - Cage Fatal 4 Way 36 - Hell In A Cell Single 37 - Hell In A Cell Tornado Tag 38 - Hell In A Cell Triple Threat 39 - Hell In A Cell Fatal 4 Way 3A - Armageddon Hell In A Cell 3B - ***Lumber Jack Match*** 3C - TLC Single 3D - TLC Tornado Tag 3E - TLC TLC Triple Threat 3F - TLC Fatal 4 Way 40 - TLC Title 41 - TLC Title Tornado Tag 42 - TLC Title Triple Threat 43 - TLC Title Fatal 4 Way 44 - I Quit 45 - Ironman 46 - Table Single 47 - Table Tornado Tag 48 - Table Triple Threat 49 - Table Fatal 4 Way 4A - 3 Stages Of Hell 4B - Ladder Single 4C - Ladder Tornado Tag 4D - Ladder Triple Threat 4E - Ladder Fatal 4 Way 4F - Last Man Standing 50 - Special Referee One Referee Single 51 - Special Referee One Referee Normal Tag 52 - Special Referee One Referee Tornado Tag 53 - Special Referee One Referee Falls Count Anywhere Single 54 - Special Referee One Referee Falls Count Anywhere Tornado Tag 55 - Special Referee One Referee Falls Count Anywhere One On Two 56 - Special Referee One Referee Falls Count Anywhere One On Three 57 - Special Referee One Referee Falls Count Anywhere Triple Threat 58 - Special Referee One Referee Falls Count Anywhere Fatal 4 Way 59 - Special Referee One Referee Hell In A Cell Single 5A - Special Referee One Referee Hell In A Cell Tornado Tag 5B - Special Referee One Referee Hell In A Cell Triple Threat 5C - Special Referee One Referee Hell In A Cell Fatal 4 Way 5D - Special Referee One Referee Ironman 5E - Special Referee Two Referees Single 5F - Special Referee Two Referees Normal Tag 60 - Special Referee Two Referees Tornado Tag 61 - Special Referee Two Referees Falls Count Anywhere Single 62 - Special Referee Two Referees Falls Count Anywhere Tornado Tag 63 - Special Referee Two Referees Falls Count Anywhere One On Two 64 - Special Referee Two Referees Falls Count Anywhere One On Three 65 - ***Special Referee Two Referees Falls Count Anywhere Triple Threat*** 66 - ***Special Referee Two Referees Falls Count Anywhere Fatal 4 Way*** 67 - Special Referee Two Referees Hell In A Cell Single 68 - Special Referee Two Referees Hell In A Cell Tornado Tag 69 - ***Special Referee Two Referees Hell In A Cell Triple Threat*** 6A - ***Special Referee Two Referees Hell In A Cell Fatal 4 Way*** 6B - Special Referee Two Referees Ironman 6C - Slobber Knocker 6D - Street Fight 6E - Submission Single 6F - Ultimate Submission</I>}
+%Credits: BigBossman
+$002F1BE0 000000??
++P2 Can't Move
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725B14 00000E84
++P2 Can't Use Specials (Counter Is Blank)
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725B08 00000E84
++P2 Is Eliminated {<I>With This Code, You Can&#39;T See P2; In A Tag, It Turns Into A Handicap.</I>}
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725B0E 00000E84
++Player 1 (Top Left) Is Absent / Eliminated From The Match
+%Credits: BigBossman
+$006C4BFD 00000001
++Player 1 - Press L1 For Max Smack Down Meter
+%Credits: InterAct
+$D02F5982 0000FBFF
+$21B28C4C 00630000
+$D02F5982 0000FBFF
+$21B42544 00000063
+$D02F5982 0000FBFF
+$21B434B4 00000063
+$D02F5982 0000FBFF
+$21B406D4 00000063
+$D02F5982 0000FBFF
+$21B42514 00000063
+$D02F5982 0000FBFF
+$21B51804 00000063
+$D02F5982 0000FBFF
+$21B28C7C 00630000
++Player 1 Always Starts With 5 Finishers {<I>This Is Mostly Handy For Matches That Don&#39;T Allow You To Select The Number Of Finishers You Start With, Such As A Royal Rumble Match Or Slobber Knocker. It Is Possible To Start With More Than 5 Finishers by adjusting the value. You&#39;ll start with the number of finishers you designate regardless of how many you select to start with. The game won&#39;t display more than 5 specials, but will keep track of the number you have.</i>}
+%Credits: BigBossman
+$002F1BEA 00000005
++Player 1 Character Modifier {<I>These Codes Will Also Add Players To A Match. For Example, If You Have All 8 Character Modifiers Active &Amp; You Select A Singles Match, You Will Have 8 Characters In The Ring. In Addition, If You Have More Characters In A Singles Match, You&#39;Ll Control Three Of Them At The Same Time. The Values That Have Characters In Referee Shirts Are Normally Used In Special Referee Matches. When Using A Character With A Referee Shirt, You Can&#39;T Build Up A Special &Amp; The Referee Is Gone, But You&#39;Ll Still Be Able To Pin Your Opponent(S), Get Counted Out, Or Submit An Opponent. To Remove Characters From A Match, Simply Use The Value &Quot;FF&Quot;, But Don&#39;T Use It In A Singles Match, Leaving Only One Wrestler In The Match, Or The Game Will Freeze. These Codes Won&#39;T Affect Career Mode&#39;S Cut Scenes Or Storylines, But When The Match Begins, Your Designated Character(S) Will Appear. Specials When Using The Characters With T-Shirts With Logos, Won&#39;T Build Either.   Values - 00 - The Rock 1 01 - Steve Austin 1 02 - Triple H 1 03 - Undertaker 1 04 - Kurt Angle 1 05 - Kane 06 - Chris Jericho 1 07 - Big Show 1 08 - Rikishi 09 - Chris Benoit 0A - Edge 0B - Christian 1 0C - Bubba Ray Dudley 1 0D - D-Von Dudley 1 0E - Matt Hardy 0F - Jeff Hardy 10 - Lita 11 - Billy Gunn 12 - Kurt Angle 2 13 - William Regal 1 14 - Tazz 1 15 - Raven 16 - Steven Richards 17 - Big Show 2 18 - Ivory 19 - Chris Jericho 2 1A - Steve Austin 2 1B - Hardcore Holly 1 1C - Crash 1 1D - Molly Holly 1E - Dean Malenko 1F - Perry Saturn 20 - Eddie Guerrero 21 - Faarooq 22 - Bradshaw 23 - Test 24 - Albert 25 - Trish Stratus 1 26 - Michael Cole 27 - Vince Mcmahon 28 - Stephanie Mcmahon 29 - Shane Mcmahon 2A - Earl Hebner 2B - Mick Foley 1 2C - Hardcore Holly 2 2D - Crash 2 2E - Trish Stratus 2 2F - Steve Blackman 30 - Rhyno 31 - Spike Dudley 1 32 - Steve Austin 3 33 - William Regal 2 34 - Mick Foley 2 37 - Tajiri 39 - Jerry Lynn 3A - Fred Durst 64 – The Rock (Referee Shirt) 65 – Steve Austin (Referee Shirt) 66 – Triple H (Referee Shirt) 67 – Undertaker (Referee Shirt) 68 – Kurt Angle (Referee Shirt) 69 – Kane (Referee Shirt) 6A – Chris Jericho (Referee Shirt) 6B – Big Show (Referee Shirt) 6C – Rikishi (Referee Shirt) 6D – Chris Benoit (Referee Shirt) 6E – Edge (Referee Shirt) 6F – Christian (Referee Shirt) 70 – Bubba Ray Dudley (Referee Shirt) 71 – D-Von Dudley (Referee Shirt) 72 – Matt Hardy (Referee Shirt) 73 – Jeff Hardy (Referee Shirt) 74 – Lita (Referee Shirt) 75 – Billy Gunn (Referee Shirt) 76 – Green Create-A-Moveset Model (With Kurt Angle’S Name &Amp; Moves) 77 – William Regal (Referee Shirt) 78 – Tazz (Referee Shirt) 79 – Raven (Referee Shirt) 7A – Steven Richards (Referee Shirt) 7B – Red Create-A-Moveset Model (With Big Show’S Name &Amp; Moves) 7C – Ivory (Referee Shirt) 7D – Blue Create-A-Moveset Model (With Chris Jericho’S Name &Amp; Moves) 7E – Yellow Create-A-Moveset Model (With Steve Austin’S Name &Amp; Moves) 7F – Hardcore Holly (Referee Shirt) 80 – Crash (Referee Shirt) 81 – Molly Holly (Referee Shirt) 82 – Dean Malenko (Referee Shirt) 83 – Perry Saturn (Referee Shirt) 84 – Eddie Guerrero (Referee Shirt) 85 – Faarooq (Referee Shirt) 86 – Bradshaw (Referee Shirt) 87 – Test (Referee Shirt) 88 – Albert (Referee Shirt) 89 – Trish Stratus (Referee Shirt) 8B – Vince Mcmahon (Referee Shirt) 8C – Stephanie Mcmahon (Referee Shirt) 8D – Shane Mcmahon (Referee Shirt) 8F – Mick Foley (Referee Shirt) 90 – Create-A-Taunt Guy 93 – Steve Blackman (Referee Shirt) 94 – Rhyno (Referee Shirt) 95 – Spike Dudley (Referee Shirt) 9B – Tajiri (Referee Shirt) 9D – Jerry Lynn (Referee Shirt) 9E – Fred Durst (Referee Shirt) A0 – Undertaker 2 A1 – The Rock 2 A2 – Christian 2 A3 – Bubba Ray Dudley 2 A4 – D-Von Dudley 2 A5 – Tazz 2 A6 – Spike Dudley 2 AA – The Rock (T-Shirt With Logos) AB – Steve Austin (T-Shirt With Logos) AC – Triple H (T-Shirt With Logos) AD – Undertaker (T-Shirt With Logos) AE – Kurt Angle (T-Shirt With Logos) AF – Chris Jericho (T-Shirt With Logos) B0 – Chris Benoit (T-Shirt With Logos) B1 – Edge (Red T-Shirt With Logos) B2 – Christian (Red T-Shirt With Logos) B3 - Bubba Ray Dudley (T-Shirt With Logos) B4 - D-Von Dudley (T-Shirt With Logos) B5 - Matt Hardy (T-Shirt With Logos) B6 - Jeff Hardy (T-Shirt With Logos) B7 - Lita - (T-Shirt With Logos) B8 - Billy Gunn (T-Shirt With Logos) B9 - Tazz (T-Shirt With Logos) BA - Raven (T-Shirt With Logos) BB - Eddie Guerrero (T-Shirt With Logos) BC - Faarooq (T-Shirt With Logos) BD - Bradshaw (T-Shirt With Logos) BE - Stephanie Mcmahon (T-Shirt With Logos) BF - Shane Mcmahon (T-Shirt With Logos) C0 - Mick Foley (T-Shirt With Logos) C1 - Edge (Yellow T-Shirt With Logos) C2 - Christian (Yellow T-Shirt With Logos) C3 - Steve Austin (T-Shirt With Different Logos) C4 - Kurt Angle (Wearing A Hat) C8 - CAW 1 C9 - CAW 2 CA - CAW 3 CB - CAW 4 CC - CAW 5 CD - CAW 6 CE - CAW 7 CF - CAW 8 D0 - CAW 9 D1 - CAW 10 D2 - CAW 11 D3 - CAW 12 FF - Remove Player</I>}
+%Credits: BigBossman
+$00725AEE 000000??
++Player 1 Entrance Champion Label Modifier {<I>This Has Your Character Labeled As Whichever Championship You Wish To Have. This Is Only Cosmetic As It Only Affects The Entrance Label As You Are Making Your Way To The Ring. Your Character Won&#39;T Actually Appear With The Belt. Values -  00 - None 01 - WWF Champion 02 - Intercontinental Champion 03 - Hardcore Champion 04 - European Champion 05 - Light Heavyweight Champion 06 - Women&#39;S Champion</I>}
+%Credits: BigBossman
+$00725AF5 000000??
++Player 1 Is In 1St Person Mode {<I>This Is Probably Best Used In Match That Starts Backstage With The Arrows That Allow You To Go From Area To Area. Its Only Good For Allowing You To Explore The Arena &Amp; Other Places. In Order For This Code To Work, Players 2 - 8 Must Be Either Absent Or Eliminated. If Its Used When There Is An Active Opponent, It Will Freeze.</I>}
+%Credits: BigBossman
+$006C4BFC 00000001
++Player 1 Maximum Number Of Finishers Modifier {<I>It Is Possible For You To Store More Than 5 Finishers. Again, The Game Won&#39;T Display More Than 5, But Will Allow You To Build Up More Finishers, Beyond 5.</I>}
+%Credits: BigBossman
+$002F1BE8 000000??
++Player 1 Maximum Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725AF0 000000??
++Player 1 Role Modifier {<I>This Will Determine The Type Of Participant That Each Player Will Be In A Match. It Is Possible To Have More Than Two Referees In A Single Match. If Your Selected Character Is Designated As Interference, The Character Will Appear In The Match At A Later Point. If Your Selected Character Is Designated As Eliminated, You&#39;Ll Be At Ringside, But Won&#39;T Be Able To Enter The Ring. The Camera Won&#39;T Focus On You Either. You Will Be Able To Pick Up Weapons, Throw Them Into The Ring, Pull The Legs Of Other Wrestlers Or Referees, Or Attack Others On The Outside Of The Ring. If Your Character Is Designated As An Illegal Wrestler, You Can Enter The Ring &Amp; Attack Others. Values - 00 - Wrestler 01 - Referee 02 - Manager 03 - Interference 04 - Illegal Wrestler 05 - Eliminated, At Ringside</I>}
+%Credits: BigBossman
+$00725AEB 000000??
++Player 1 Side Modifier {<I>These Determine Which Side A Player Is On. In Order For Two Or More Players To Be On The Same Side Or Team, They Will Need To Have The Same Value. If They Have A Different Value, They Will Be Opponents &Amp; Can Pin Or Submit Each Other. For Example: Normally You Can Play A 1-On-3 Handicapped Match, But It Won&#39;T Let You Play A 1-On-3 Handicapped Tag Match. You Would Take Player 1&#39;S Value &Amp; Set It At &Quot;00&Quot;. Player 2, 3, &Amp; 4&#39;S Value Would Be Set At &Quot;01&Quot;. Then When You Start A Tag Team Match, You&#39;Ll Notice That Player 1&#39;S Partner (Player 3) Is Siding With The Other Tag Team. Instead Of All Three Of Them Ganging Up On You At Once, They Have To Be Tagged In. You Can Also Set The Values To Create Other Match Type Combinations. Be Careful When Using It In An 8-Man Battle Royal, Its A Little Bit Buggy. I Played A 1-On-7 Battle Royal. It Seemed As If The CPU&#39;S Movements Were All Synchronized For The Other Seven Players. This Can Also Affect The Referee. If You Are Playing A 1-On-1 Match With No Interference, The Referee Is Player 3. If There Are 3 Players In A Match, The Referee Is Player 4. If There Are 5 Wrestlers, The Ref Is Player 6. ETC. Setting The Referee To Be An Opponent Or As Someone&#39;S Teammate May Make It To Where He Doesn&#39;T Count Pinfalls Or Counts Slowly.</I>}
+%Credits: BigBossman
+$00725AEC 000000??
++Player 1 Starting Damage Modifier {<I>These Codes Will Determine The Amount Of Damage You Start A Match With. Values -  00 - Start With No Damage 80 - Badly Damaged / Can Easily Be Pinned Or Submitted</I>}
+%Credits: BigBossman
+$00725AF1 000000??
+$00725AF2 000000??
+$00725AF3 000000??
+$00725AF4 000000??
++Player 1 Starts With Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725AEF 000000??
++Player 2 Always Starts With 5 Finishers
+%Credits: BigBossman
+$002F1BFA 00000005
++Player 2 Character Modifier
+%Credits: BigBossman
+$00725B06 000000??
++Player 2 Entrance Champion Label Modifier
+%Credits: BigBossman
+$00725B0D 000000??
++Player 2 Maximum Number Of Finishers Modifier
+%Credits: BigBossman
+$002F1BF8 000000??
++Player 2 Maximum Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725B08 000000??
++Player 2 Role Modifier
+%Credits: BigBossman
+$00725B03 000000??
++Player 2 Side Modifier
+%Credits: BigBossman
+$00725B04 000000??
++Player 2 Starting Damage Modifier
+%Credits: BigBossman
+$00725B09 000000??
+$00725B0A 000000??
+$00725B0B 000000??
+$00725B0C 000000??
++Player 2 Starts With Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725B07 000000??
++Player 3 (Bottom Left) Is Absent / Eliminated From The Match
+%Credits: BigBossman
+$006C4A2C 00000001
++Player 3 Always Starts With 5 Finishers
+%Credits: BigBossman
+$002F1C0A 00000005
++Player 3 Character Modifier
+%Credits: BigBossman
+$00725B1E 000000??
++Player 3 Entrance Champion Label Modifier
+%Credits: BigBossman
+$00725B25 000000??
++Player 3 Maximum Number Of Finishers Modifier
+%Credits: BigBossman
+$002F1C08 000000??
++Player 3 Maximum Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725B20 000000??
++Player 3 Role Modifier
+%Credits: BigBossman
+$00725B1B 000000??
++Player 3 Side Modifier
+%Credits: BigBossman
+$00725B1C 000000??
++Player 3 Starting Damage Modifier
+%Credits: BigBossman
+$00725B21 000000??
+$00725B22 000000??
+$00725B23 000000??
+$00725B24 000000??
++Player 3 Starts With Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725B1F 000000??
++Player 4 (Bottom Right) Is Absent / Eliminated From The Match
+%Credits: BigBossman
+$006C4A54 00000001
++Player 4 Always Starts With 5 Finishers
+%Credits: BigBossman
+$002F1C1A 00000005
++Player 4 Character Modifier
+%Credits: BigBossman
+$00725B36 000000??
++Player 4 Entrance Champion Label Modifier
+%Credits: BigBossman
+$00725B3D 000000??
++Player 4 Maximum Number Of Finishers Modifier
+%Credits: BigBossman
+$002F1C18 000000??
++Player 4 Maximum Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725B38 000000??
++Player 4 Role Modifier
+%Credits: BigBossman
+$00725B33 000000??
++Player 4 Side Modifier
+%Credits: BigBossman
+$00725B34 000000??
++Player 4 Starting Damage Modifier
+%Credits: BigBossman
+$00725B39 000000??
+$00725B3A 000000??
+$00725B3B 000000??
+$00725B3C 000000??
++Player 4 Starts With Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725B37 000000??
++Player 5 (Upper Left) Is Absent / Eliminated From The Match
+%Credits: BigBossman
+$006C4A5C 00000001
++Player 5 Always Starts With 5 Finishers
+%Credits: BigBossman
+$002F1C2A 00000005
++Player 5 Character Modifier
+%Credits: BigBossman
+$00725B4E 000000??
++Player 5 Entrance Champion Label Modifier
+%Credits: BigBossman
+$00725B55 000000??
++Player 5 Maximum Number Of Finishers Modifier
+%Credits: BigBossman
+$002F1C28 000000??
++Player 5 Maximum Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725B50 000000??
++Player 5 Role Modifier
+%Credits: BigBossman
+$00725B4B 000000??
++Player 5 Side Modifier
+%Credits: BigBossman
+$00725B4C 000000??
++Player 5 Starting Damage Modifier
+%Credits: BigBossman
+$00725B51 000000??
+$00725B52 000000??
+$00725B53 000000??
+$00725B54 000000??
++Player 5 Starts With Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725B4F 000000??
++Player 6 (Upper Right) Is Absent / Eliminated From The Match
+%Credits: BigBossman
+$006C4A84 00000001
++Player 6 Always Starts With 5 Finishers
+%Credits: BigBossman
+$002F1C3A 00000005
++Player 6 Character Modifier
+%Credits: BigBossman
+$00725B66 000000??
++Player 6 Entrance Champion Label Modifier
+%Credits: BigBossman
+$00725B6D 000000??
++Player 6 Maximum Number Of Finishers Modifier
+%Credits: BigBossman
+$002F1C38 000000??
++Player 6 Maximum Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725B68 000000??
++Player 6 Role Modifier
+%Credits: BigBossman
+$00725B63 000000??
++Player 6 Side Modifier
+%Credits: BigBossman
+$00725B64 000000??
++Player 6 Starting Damage Modifier
+%Credits: BigBossman
+$00725B69 000000??
+$00725B6A 000000??
+$00725B6B 000000??
+$00725B6C 000000??
++Player 6 Starts With Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725B67 000000??
++Player 7 (Lower Left) Is Absent / Eliminated From The Match
+%Credits: BigBossman
+$006C4A8C 00000001
++Player 7 Always Starts With 5 Finishers
+%Credits: BigBossman
+$002F1C4A 00000005
++Player 7 Character Modifier
+%Credits: BigBossman
+$00725B7E 000000??
++Player 7 Entrance Champion Label Modifier
+%Credits: BigBossman
+$00725B85 000000??
++Player 7 Maximum Number Of Finishers Modifier
+%Credits: BigBossman
+$002F1C48 000000??
++Player 7 Maximum Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725B80 000000??
++Player 7 Role Modifier
+%Credits: BigBossman
+$00725B7B 000000??
++Player 7 Side Modifier
+%Credits: BigBossman
+$00725B7C 000000??
++Player 7 Starting Damage Modifier
+%Credits: BigBossman
+$00725B81 000000??
+$00725B82 000000??
+$00725B83 000000??
+$00725B84 000000??
++Player 7 Starts With Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725B7F 000000??
++Player 8 (Lower Right) Is Absent / Eliminated From The Match
+%Credits: BigBossman
+$006C4AB4 00000001
++Player 8 Always Starts With 5 Finishers
+%Credits: BigBossman
+$002F1C5A 00000005
++Player 8 Character Modifier
+%Credits: BigBossman
+$00725B96 000000??
++Player 8 Entrance Champion Label Modifier
+%Credits: BigBossman
+$00725B9D 000000??
++Player 8 Maximum Number Of Finishers Modifier
+%Credits: BigBossman
+$002F1C58 000000??
++Player 8 Maximum Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725B98 000000??
++Player 8 Role Modifier
+%Credits: BigBossman
+$00725B93 000000??
++Player 8 Side Modifier
+%Credits: BigBossman
+$00725B94 000000??
++Player 8 Starting Damage Modifier
+%Credits: BigBossman
+$00725B99 000000??
+$00725B9A 000000??
+$00725B9B 000000??
+$00725B9C 000000??
++Player 8 Starts With Number Of Specials Modifier (ALT)
+%Credits: BigBossman
+$00725B97 000000??
+!Royal Rumble Entrant Modifiers:
++Royal Rumble Entrant #5
+%Credits: BigBossman
+$00725BDE 000000??
++Royal Rumble Entrant #6
+%Credits: BigBossman
+$00725BDF 000000??
++Royal Rumble Entrant #7
+%Credits: BigBossman
+$00725BE0 000000??
++Royal Rumble Entrant #8
+%Credits: BigBossman
+$00725BE1 000000??
++Royal Rumble Entrant #9
+%Credits: BigBossman
+$00725BE2 000000??
++Royal Rumble Entrant #10 {<I>Values - 00 - The Rock 01 - Steve Austin 02 - Triple H 03 - Undertaker 04 - Kurt Angle 1 05 - Kane 06 - Chris Jericho 1 07 - Big Show 1 08 - Rikishi 09 - Chris Benoit 0A - Edge 0B - Christian 0C - Bubba Ray Dudley 0D - D-Von Dudley 0E - Matt Hardy 0F - Jeff Hardy 10 - Lita 11 - Billy Gunn 12 - Kurt Angle 2 13 - William Regal 1 14 - Tazz 15 - Raven 16 - Steven Richards 17 - Big Show 2 18 - Ivory 19 - Chris Jericho 2 1A - Steve Austin 2 1B - Hardcore Holly 1C - Crash 1D - Molly Holly 1E - Dean Malenko 1F - Perry Saturn 20 - Eddie Guerrero 21 - Faarooq 22 - Bradshaw 23 - Test 24 - Albert 25 - Trish Stratus 26 - Michael Cole 27 - Vince Mcmahon 28 - Stephanie Mcmahon 29 - Shane Mcmahon 2A - Earl Hebner 32 - Steve Austin 3 33 - William Regal 2 34 - Mick Foley 2 37 - Tajiri 39 - Jerry Lynn 3A - Fred Durst 64 - The Rock (Referee Shirt) 65 - Steve Austin (Referee Shirt) 66 - Triple H (Referee Shirt) 67 - Undertaker (Referee Shirt) 68 - Kurt Angle (Referee Shirt) 69 - Kane (Referee Shirt) 6A - Chris Jericho (Referee Shirt) 6B - Big Show (Referee Shirt) 6C - Rikishi (Referee Shirt) 6D - Chris Benoit (Referee Shirt) 6E - Edge (Referee Shirt) 6F - Christian (Referee Shirt) 70 - Bubba Ray Dudley (Referee Shirt) 71 - D-Von Dudley (Referee Shirt) 72 - Matt Hardy (Referee Shirt) 73 - Jeff Hardy (Referee Shirt) 74 - Lita (Referee Shirt) 75 - Billy Gunn (Referee Shirt) 76 - Green Create-A-Moveset Model (With Kurt Angle&#39;S Name &Amp; Moves) 77 - William Regal (Referee Shirt) 78 - Tazz (Referee Shirt) 79 - Raven (Referee Shirt) 7A - Steven Richards (Referee Shirt) 7B - Red Create-A-Moveset Model (With Big Show&#39;S Name &Amp; Moves) 7C - Ivory (Referee Shirt) 7D - Blue Create-A-Moveset Model (With Chris Jericho&#39;S Name &Amp; Moves) 7E - Yellow Create-A-Moveset Model (With Steve Austin&#39;S Name &Amp; Moves) 7F - Hardcore Holly (Referee Shirt) 80 - Crash (Referee Shirt) 81 - Molly Holly (Referee Shirt) 82 - Dean Malenko (Referee Shirt) 83 - Perry Saturn (Referee Shirt) 84 - Eddie Guerrero (Referee Shirt) 85 - Faarooq (Referee Shirt) 86 - Bradshaw (Referee Shirt) 87 - Test (Referee Shirt) 88 - Albert (Referee Shirt) 89 - Trish Stratus (Referee Shirt) 8B - Vince Mcmahon (Referee Shirt) 8C - Stephanie Mcmahon (Referee Shirt) 8D - Shane Mcmahon (Referee Shirt) 8F - Mick Foley (Referee Shirt) 90 - Create-A-Taunt Guy 93 - Steve Blackman (Referee Shirt) 94 - Rhyno (Referee Shirt) 95 - Spike Dudley (Referee Shirt) 9B - Tajiri (Referee Shirt) 9D - Jerry Lynn (Referee Shirt) 9E - Fred Durst (Referee Shirt) A0 - Undertaker 2 A1 - The Rock 2 A2 - Christian 2 A3 - Bubba Ray Dudley 2 A4 - D-Von Dudley 2 A5 - Tazz 2 A6 - Spike Dudley 2 AA - The Rock (T-Shirt With Logos) AB - Steve Austin (T-Shirt With Logos) AC - Triple H (T-Shirt With Logos) AD - Undertaker (T-Shirt With Logos) AE - Kurt Angle (T-Shirt With Logos) AF - Chris Jericho (T-Shirt With Logos) B0 - Chris Benoit (T-Shirt With Logos) B1 - Edge (Red T-Shirt With Logos) B2 - Christian (Red T-Shirt With Logos) B3 - Bubba Ray Dudley (T-Shirt With Logos) B4 - D-Von Dudley (T-Shirt With Logos) B5 - Matt Hardy (T-Shirt With Logos) B6 - Jeff Hardy (T-Shirt With Logos) B7 - Lita - (T-Shirt With Logos) B8 - Billy Gunn (T-Shirt With Logos) B9 - Tazz (T-Shirt With Logos) BA - Raven (T-Shirt With Logos) BB - Eddie Guerrero (T-Shirt With Logos) BC - Faarooq (T-Shirt With Logos) BD - Bradshaw (T-Shirt With Logos) BE - Stephanie Mcmahon (T-Shirt With Logos) BF - Shane Mcmahon (T-Shirt With Logos) C0 - Mick Foley (T-Shirt With Logos) C1 - Edge (Yellow T-Shirt With Logos) C2 - Christian (Yellow T-Shirt With Logos) C3 - Steve Austin (T-Shirt With Different Logos) C4 - Kurt Angle (Wearing A Hat) C8 - CAW 1 C9 - CAW 2 CA - CAW 3 CB - CAW 4 CC - CAW 5 CD - CAW 6 CE - CAW 7 CF - CAW 8 D0 - CAW 9 D1 - CAW 10 D2 - CAW 11 D3 - CAW 12</I>}
+%Credits: BigBossman
+$00725BE3 000000??
++Royal Rumble Entrant #11
+%Credits: BigBossman
+$00725BE4 000000??
++Royal Rumble Entrant #12
+%Credits: BigBossman
+$00725BE5 000000??
++Royal Rumble Entrant #13
+%Credits: BigBossman
+$00725BE6 000000??
++Royal Rumble Entrant #14
+%Credits: BigBossman
+$00725BE7 000000??
++Royal Rumble Entrant #15
+%Credits: BigBossman
+$00725BE8 000000??
++Royal Rumble Entrant #16
+%Credits: BigBossman
+$00725BE9 000000??
++Royal Rumble Entrant #17
+%Credits: BigBossman
+$00725BEA 000000??
++Royal Rumble Entrant #18
+%Credits: BigBossman
+$00725BEB 000000??
++Royal Rumble Entrant #19
+%Credits: BigBossman
+$00725BEC 000000??
++Royal Rumble Entrant #20
+%Credits: BigBossman
+$00725BED 000000??
++Royal Rumble Entrant #21
+%Credits: BigBossman
+$00725BEE 000000??
++Royal Rumble Entrant #22
+%Credits: BigBossman
+$00725BEF 000000??
++Royal Rumble Entrant #23
+%Credits: BigBossman
+$00725BF0 000000??
++Royal Rumble Entrant #24
+%Credits: BigBossman
+$00725BF1 000000??
++Royal Rumble Entrant #25
+%Credits: BigBossman
+$00725BF2 000000??
++Royal Rumble Entrant #26
+%Credits: BigBossman
+$00725BF3 000000??
++Royal Rumble Entrant #27
+%Credits: BigBossman
+$00725BF4 000000??
++Royal Rumble Entrant #28
+%Credits: BigBossman
+$00725BF5 000000??
++Royal Rumble Entrant #29
+%Credits: BigBossman
+$00725BF6 000000??
++Royal Rumble Entrant #30
+%Credits: BigBossman
+$00725BF7 000000??
+!!
++Specials Build Extremely Fast (2-3 Good Hits)
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725BFC 000039EA
++Specials Build Real Slow
+%Credits: Code Master>CHOKE ON THAT SLAPNUTS
+$10725BFC 00000EEB
++Starting Location Modifier {<I>If You Fight In An Area Other Than An Arena (With A Ring), You&#39;Ll Want To Make Sure That Pinfalls Count Anywhere Or Have The Last Man Standing Rules On. If You Select The Match &Quot;Falls Count Anywhere&Quot; Or &Quot;Hardcore&Quot;, You&#39;Ll Still Be Able To Move From One Area To The Next. This Just Determines Where You Start Out At.<Br>Values -<Br>0000 - Smackdown Arena<Br>0001 - Raw Is War Arena<Br>0002 - Wrestlemania X7 Arena<Br>0003 - Lobby<Br>0004 - Plaza<Br>0005 - Parking Lot<Br>0006 - Boiler Room<Br>0007 - WWF New York<Br>0008 - VIP Room<Br>0009 - Corridor A<Br>000A - Corridor B<Br>000B - Dressing Room A<Br>000C - APA Office<Br>000D - Storage Area<Br>000E - Sunday Night Heat In A Smackdown Arena<Br>000F - PPV Arena<Br>0010 - Sunday Night Heat Arena<Br>0011 - Commissioner&#39;S Office<Br>0012 - Dressing Room B<Br>0013 - Times Square<Br>0014 - Smackdown B Arena (With The Fist)</I>}
+%Credits: BigBossman
+$10725BDA 0000????
+!These Codes Will Become Active After You Make A Save:
++All Characters
+%Credits: Codejunkies
+$007245A6 000000FF
++All Movies
+%Credits: Codejunkies
+$0072B018 0000003F
++All Special Modes
+%Credits: Codejunkies
+$007245A8 000000FF
++Easy Matches
+%Credits: Codejunkies
+$102E2FC8 00000000
+!!
+!!
+

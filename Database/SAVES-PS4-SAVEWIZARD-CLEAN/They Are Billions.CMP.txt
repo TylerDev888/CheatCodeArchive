@@ -1,0 +1,34 @@
+^2 = GameID: CUSA13463,CUSA13330,CUSA20147,CUSA23634
+^3 = NAME: They Are Billions
+^SECONDLAYER: YES[ZIP]
+^4 = FILE: save\[0-9A-Za-z]{1,16}.zxsav
+[value is always 5000 at default i've tested this on several saves & playthroughs (& its the only value of 5000) and the current one you have there that starts with 80010017 54726169 thats Campaign only...& both the template & B0010004 F00A0000 any mode since its just a value search.]
++Sets Resources To Max Cap
+%Credits: XxUnkn0wnxX
+$80010017 54726169
+$6E20746F 20436F6D
+$6D616E64 2043656E
+$74657200 00000000
+$4A0001C0 0098967F
+$40050004 00000000
++Template
+%Credits: XxUnkn0wnxX
+$B0010004 [AMOUINT:00000000:HEX:LITTLE<CurrentMoneyAmount>]
+$93000000 00000010
+$4A000000 [AMOUINT:00000000:HEX:BIG<ResourcesAmountWanted>]
+$40050004 00000000
++Sets Resources To Max Cap - Using Money Value Offset{looks for money with a value of 2800}
+%Credits: XxUnkn0wnxX
+$B0010004 F00A0000
+$93000000 00000010
+$4A000000 0098967F
+$40050004 00000000
++Sets Resources To Max Cap - Survival Only{Using -Header Info- v2.0 [Safest] Usage: Works anytime, load into survival, save & exit.}
+%Credits: XxUnkn0wnxX
+$C0020008 0000034A
+$4A000051 0098967F
+$40050004 00000000
++Set Command Center Health to 9999999{Notes: Must be at full health 1st, command center will ask for repair on load, don't as it will reset it.}
+%Credits: XxUnkn0wnxX
+$80010004 88130000
+$28000000 0098967F

@@ -1,0 +1,55 @@
+^2 = GameID: CUSA10421
+^3 = NAME: Dynasty Warriors 9
+^5 = APCRED: source: krustytoe@hackinformer
+^4 = FILE: APP\.BIN
+(Untested - Make sure to backup your save data first.)
+!+Below Version 1.16:
++Total Kills - 99,999 Kills
+$20082FE5 0001869F
+$2039DB0D 0001869F
++All Animals - Speed 250/stamina 500/impact 999
+$413ABD88 000000FA
+$40320021 00000000
+$413ABD8E 000001F4
+$40320021 00000000
+$413ABD90 000003E7
+$40320021 00000000
++Accessory Mod - Slot 01 (infinite Health)
+$003BDC47 0000001B
+$103BDC49 000003E7
++Accessory Mod - Slot 02 (infinite Musou)
+$003BDC59 00000019
+$103BDC5B 000003E7
++Accessory Mod - Slot 03 (exp +999%)
+$003BDC6B 00000005
+$103BDC6D 000003E7
++Accessory Mod - Slot 04 (gold Drop Rate +999%)
+$003BDC7D 0000000A
+$103BDC7F 000003E7
+!!
+!+Version 1.16+:
++Total Kills - 99,999 Kills
+$20082FE5 0001869F
+$2039DB0D 0001869F
++All Animals - Speed 250/stamina 500/impact 999
+$413ABD88 000000FA
+$40320021 00000000
+$413ABD8E 000001F4
+$40320021 00000000
+$413ABD90 000003E7
+$40320021 00000000
++Accessory Mod - Slot 01 (infinite Health)
+$00411126 0000001B
+$10411128 000003E7
++Accessory Mod - Slot 02 (infinite Musou)
+$00411138 00000019
+$1041113A 000003E7
++Accessory Mod - Slot 03 (exp +999%)
+$0041114A 00000005
+$1041114C 000003E7
++Accessory Mod - Slot 04 (gold Drop Rate +999%)
+$0041115C 0000000A
+$1041115E 000003E7
++Total Kills - 99,999 Kills
+$203F035D 0001869F
+!!

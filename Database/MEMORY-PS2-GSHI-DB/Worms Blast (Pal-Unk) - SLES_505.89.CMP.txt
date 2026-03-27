@@ -1,0 +1,37 @@
+^3 = NAME: Worms Blast (Pal-Unk)
+^2 = GameID: SLES-50589
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0200100 002FC537
++(M) Must Be On
+%Credits: Codejunkies
+$F02FC534 002FC537
+!!
+!Change Boggy B Into...:
++Duck
+%Credits: Codejunkies
+$D1959368 000004B1
+$01959368 000000B9
++King
+%Credits: Codejunkies
+$D1959368 000004B1
+$01959368 000000B7
++Maul
+%Credits: Codejunkies
+$D1959368 000004B1
+$01959368 000000B3
+!!
++Dumb A.I In Vs Mode
+%Credits: Codejunkies
+$201C2084 00000000
++Infinite Lives
+%Credits: InterAct
+$10179384 0000007F
++No Timer
+%Credits: InterAct
+$1017A5E8 000059E5
+!Replace Boogy B With::
+!!
+!!
+

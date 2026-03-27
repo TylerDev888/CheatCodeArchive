@@ -1,0 +1,2469 @@
+^1 = Hash: 4A EC 66 9E 18 7B A1 89 A0 10 4D FB F5 CB 82 6A 50 CE D4 58
+^2 = GameID: SLUS_216.31
+^3 = NAME: Phantasy Star Universe Ambition of the Illuminous
+!Masters:
+Enable Code (MUST BE ON)
+$90140CD8 0C0502DE
+!!
+!Jokers:
++Player 1 Controller
+$D08B3F5C 0000[JOKER:PS2]
+!!
++Max Money After Buy/Sell
+$D0299AFC 000000B8
+$20299AFC AC8600B8
++Gain Max Items U Hold{Ways To Gain Exit/Enter A Room Buy/Sell Them The Only Ones I Seen So Far}
+$D02E8B30 00001025
+$202E8B30 9222000C
++Inf Pp
+$D02E8664 00001C3F
+$202E8664 9603000E
++Inf HP{Seems To Be One Boss That Gets Inf HP Need Save So I Can Fix ..}
+$E00203E0 003FAAFA
+$203FAAF8 08030080
+$203FAAFC 00000000
+$200C0200 8C450024
+$200C0204 AC450020
+$200C0208 03E00008
+$200C020C 8C420024
++Quick Photon Art Level Up{For Every 2 Enemys/Hits Gain Level}
+$D04D5A2E 0000AE83
+$204D5A2C AE860000
+!EXP Codes:{Do Not Use At The Same Time .. Pick One To Use}
++Max EXP 1 Level Up (lvl 200){This Will Give U Max Level}
+$E00200B0 0029BD8C
+$2029BD8C 08030084
+$2029BD90 00000000
+$200C0210 3C1405F5
+$200C0214 3694E0FF
+$200C0218 AE7400B0
+$200C021C 080A6F64
+$200C0220 02829823
++EXP Gain Mod{Set "amount" To Amount Wanted}
+$E00200B0 0029BD8C
+$2029BD8C 08030084
+$2029BD90 00000000
+$200C0210 2694[Amount:2710:HEX:BIG]
+$200C0218 AE7400B0
+$200C021C 080A6F64
+$200C0220 02829823
++EXP Multiplyer{Gain ?x The Amount Of EXP}
+$E00200B0 0029BD8C
+$2029BD8C 08030084
+$2029BD90 00000000
+$200C0210 0014[EMP]
+$200C0218 AE7400B0
+$200C021C 080A6F64
+$200C0220 02829823
+!!
+!Item Mods Codes:{Jokers Are Set ..select = Activate. Clear Slot Is Using L3, Code Set Up .. Put Everything In That U Need For Your Code .. Go Into The Game Press Select To Activate The Code Then Walk Into Another Room In Thegame So The Screen Changes .. Check Your Items And U Will See The One U Want .. As For Adding Your Own Items Into The List. Activate The Slot U Need Set The Item Slot Activator To The Slot U Are Using So Slot 10 U Would Put 0a In The [amount:ff:hex:big]u Will Also Need The Clear Slot Code For The Slot U Are Doin Once U Have All The Section U Need Set Up Go Into The Game Press L3 To Clear That Slots Section Then Press Select And Enter Anothe Room In The Game}
++Item Slot Activator{Only Set This If U Are Adding To Your Item List No Need To Set If Only Modding Remmeber Us Windows Calculator To Convert The Dec Slot To Hex .. Slot 60dec = 3c Hex}
+$D08B3F5C 0000FFFE
+$01B49368 000000[Amount:6C:HEX:BIG]
+!Individual Item Slots:
+!Item 1:
++Placement{Only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30B04 00000001
++Clear Slot{Must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30B04 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30B08 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30B0C 0000[Amount:2710:HEX:BIG]
+$11F30B10 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30B10 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30B12 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30B16 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30B1A 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30B18 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30B19 000000[Amount:FF:HEX:BIG]
+!!
+!Item 2:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30B28 00000002
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30B28 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30B2C [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30B30 0000[Amount:2710:HEX:BIG]
+$11F30B34 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30B34 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30B36 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30B3A 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30B3E 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30B3C 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30B3D 000000[Amount:FF:HEX:BIG]
+!!
+!Item 3:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30B4C 00000003
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30B4C 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30B50 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30B54 0000[Amount:2710:HEX:BIG]
+$11F30B58 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30B58 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30B5A 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30B5E 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30B62 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30B60 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30B61 000000[Amount:FF:HEX:BIG]
+!!
+!Item 4:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30B70 00000004
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30B70 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30B74 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30B78 0000[Amount:2710:HEX:BIG]
+$11F30B7C 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30B7C 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30B7E 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30B82 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30B86 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30B84 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30B85 000000[Amount:FF:HEX:BIG]
+!!
+!Item 5:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30B94 00000005
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30B94 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30B98 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30B9C 0000[Amount:2710:HEX:BIG]
+$11F30BA0 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30BA0 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30BA2 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30BA6 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30BAA 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30BA8 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30BA9 000000[Amount:FF:HEX:BIG]
+!!
+!Item 6:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30BB8 00000006
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30BB8 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30BBC [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30BC0 0000[Amount:2710:HEX:BIG]
+$11F30BC4 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30BC4 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30BC6 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30BCA 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30BCE 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30BCC 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30BCD 000000[Amount:FF:HEX:BIG]
+!!
+!Item 7:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30BDC 00000007
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30BDC 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30BE0 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30BE4 0000[Amount:2710:HEX:BIG]
+$11F30BE8 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30BE8 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30BEA 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30BEE 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30BF2 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30BF0 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30BF1 000000[Amount:FF:HEX:BIG]
+!!
+!Item 8:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30C00 00000008
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30C00 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30C04 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30C08 0000[Amount:2710:HEX:BIG]
+$11F30C0C 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30C0C 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30C0E 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30C12 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30C16 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30C14 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30C15 000000[Amount:FF:HEX:BIG]
+!!
+!Item 9:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30C24 00000009
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30C24 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30C28 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30C2C 0000[Amount:2710:HEX:BIG]
+$11F30C30 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30C30 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30C32 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30C36 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30C3A 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30C38 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30C39 000000[Amount:FF:HEX:BIG]
+!!
+!Item 10:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30C48 0000000A
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30C48 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30C4C [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30C50 0000[Amount:2710:HEX:BIG]
+$11F30C54 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30C54 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30C56 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30C5A 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30C5E 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30C5C 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30C5D 000000[Amount:FF:HEX:BIG]
+!!
+!Item 11:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30C6C 0000000B
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30C6C 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30C70 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30C74 0000[Amount:2710:HEX:BIG]
+$11F30C78 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30C78 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30C7A 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30C7E 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30C82 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30C80 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30C81 000000[Amount:FF:HEX:BIG]
+!!
+!Item 12:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30C90 0000000C
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30C90 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30C94 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30C98 0000[Amount:2710:HEX:BIG]
+$11F30C9C 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30C9C 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30C9E 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30CA2 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30CA6 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30CA4 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30CA5 000000[Amount:FF:HEX:BIG]
+!!
+!Item 13:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30CB4 0000000D
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30CB4 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30CB8 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30CBC 0000[Amount:2710:HEX:BIG]
+$11F30CC0 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30CC0 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30CC2 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30CC6 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30CCA 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30CC8 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30CC9 000000[Amount:FF:HEX:BIG]
+!!
+!Item 14:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30CD8 0000000E
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30CD8 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30CDC [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30CE0 0000[Amount:2710:HEX:BIG]
+$11F30CE4 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30CE4 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30CE6 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30CEA 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30CEE 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30CEC 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30CED 000000[Amount:FF:HEX:BIG]
+!!
+!Item 15:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30CFC 0000000F
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30CFC 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30D00 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30D04 0000[Amount:2710:HEX:BIG]
+$11F30D08 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30D08 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30D0A 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30D0E 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30D12 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30D10 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30D11 000000[Amount:FF:HEX:BIG]
+!!
+!Item 16:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30D20 00000010
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30D20 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30D24 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30D28 0000[Amount:2710:HEX:BIG]
+$11F30D2C 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30D2C 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30D2E 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30D32 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30D36 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30D34 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30D35 000000[Amount:FF:HEX:BIG]
+!!
+!Item 17:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30D44 00000011
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30D44 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30D48 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30D4C 0000[Amount:2710:HEX:BIG]
+$11F30D50 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30D50 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30D52 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30D56 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30D5A 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30D58 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30D59 000000[Amount:FF:HEX:BIG]
+!!
+!Item 18:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30D68 00000012
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30D68 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30D6C [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30D70 0000[Amount:2710:HEX:BIG]
+$11F30D74 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30D74 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30D76 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30D7A 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30D7E 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30D7C 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30D7D 000000[Amount:FF:HEX:BIG]
+!!
+!Item 19:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30D8C 00000013
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30D8C 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30D90 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30D94 0000[Amount:2710:HEX:BIG]
+$11F30D98 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30D98 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30D9A 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30D9E 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30DA2 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30DA0 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30DA1 000000[Amount:FF:HEX:BIG]
+!!
+!Item 20:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30DB0 00000014
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30DB0 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30DB4 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30DB8 0000[Amount:2710:HEX:BIG]
+$11F30DBC 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30DBC 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30DBE 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30DC2 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30DC6 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30DC4 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30DC5 000000[Amount:FF:HEX:BIG]
+!!
+!Item 21:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30DD4 00000015
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30DD4 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30DD8 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30DDC 0000[Amount:2710:HEX:BIG]
+$11F30DE0 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30DE0 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30DE2 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30DE6 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30DEA 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30DE8 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30DE9 000000[Amount:FF:HEX:BIG]
+!!
+!Item 22:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30DF8 00000016
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30DF8 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30DFC [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30E00 0000[Amount:2710:HEX:BIG]
+$11F30E04 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30E04 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30E06 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30E0A 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30E0E 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30E0C 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30E0D 000000[Amount:FF:HEX:BIG]
+!!
+!Item 23:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30E1C 00000017
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30E1C 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30E20 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30E24 0000[Amount:2710:HEX:BIG]
+$11F30E28 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30E28 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30E2A 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30E2E 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30E32 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30E30 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30E31 000000[Amount:FF:HEX:BIG]
+!!
+!Item 24:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30E40 00000018
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30E40 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30E44 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30E48 0000[Amount:2710:HEX:BIG]
+$11F30E4C 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30E4C 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30E4E 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30E52 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30E56 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30E54 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30E55 000000[Amount:FF:HEX:BIG]
+!!
+!Item 25:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30E64 00000019
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30E64 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30E68 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30E6C 0000[Amount:2710:HEX:BIG]
+$11F30E70 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30E70 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30E72 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30E76 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30E7A 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30E78 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30E79 000000[Amount:FF:HEX:BIG]
+!!
+!Item 26:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30E88 0000001A
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30E88 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30E8C [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30E90 0000[Amount:2710:HEX:BIG]
+$11F30E94 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30E94 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30E96 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30E9A 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30E9E 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30E9C 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30E9D 000000[Amount:FF:HEX:BIG]
+!!
+!Item 27:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30EAC 0000001B
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30EAC 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30EB0 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30EB4 0000[Amount:2710:HEX:BIG]
+$11F30EB8 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30EB8 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30EBA 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30EBE 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30EC2 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30EC0 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30EC1 000000[Amount:FF:HEX:BIG]
+!!
+!Item 28:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30ED0 0000001C
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30ED0 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30ED4 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30ED8 0000[Amount:2710:HEX:BIG]
+$11F30EDC 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30EDC 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30EDE 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30EE2 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30EE6 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30EE4 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30EE5 000000[Amount:FF:HEX:BIG]
+!!
+!Item 29:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30EF4 0000001D
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30EF4 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30EF8 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30EFC 0000[Amount:2710:HEX:BIG]
+$11F30F00 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30F00 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30F02 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30F06 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30F0A 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30F08 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30F09 000000[Amount:FF:HEX:BIG]
+!!
+!Item 30:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30F18 0000001E
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30F18 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30F1C [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30F20 0000[Amount:2710:HEX:BIG]
+$11F30F24 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30F24 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30F26 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30F2A 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30F2E 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30F2C 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30F2D 000000[Amount:FF:HEX:BIG]
+!!
+!Item 31:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30F3C 0000001F
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30F3C 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30F40 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30F44 0000[Amount:2710:HEX:BIG]
+$11F30F48 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30F48 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30F4A 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30F4E 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30F52 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30F50 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30F51 000000[Amount:FF:HEX:BIG]
+!!
+!Item 32:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30F60 00000020
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30F60 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30F64 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30F68 0000[Amount:2710:HEX:BIG]
+$11F30F6C 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30F6C 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30F6E 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30F72 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30F76 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30F74 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30F75 000000[Amount:FF:HEX:BIG]
+!!
+!Item 33:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30F84 00000021
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30F84 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30F88 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30F8C 0000[Amount:2710:HEX:BIG]
+$11F30F90 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30F90 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30F92 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30F96 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30F9A 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30F98 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30F99 000000[Amount:FF:HEX:BIG]
+!!
+!Item 34:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30FA8 00000022
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30FA8 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30FAC [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30FB0 0000[Amount:2710:HEX:BIG]
+$11F30FB4 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30FB4 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30FB6 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30FBA 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30FBE 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30FBC 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30FBD 000000[Amount:FF:HEX:BIG]
+!!
+!Item 35:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30FCC 00000023
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30FCC 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30FD0 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30FD4 0000[Amount:2710:HEX:BIG]
+$11F30FD8 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30FD8 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30FDA 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F30FDE 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30FE2 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F30FE0 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F30FE1 000000[Amount:FF:HEX:BIG]
+!!
+!Item 36:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F30FF0 00000024
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F30FF0 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F30FF4 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F30FF8 0000[Amount:2710:HEX:BIG]
+$11F30FFC 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30FFC 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F30FFE 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F31002 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31006 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F31004 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F31005 000000[Amount:FF:HEX:BIG]
+!!
+!Item 37:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F31014 00000025
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F31014 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F31018 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F3101C 0000[Amount:2710:HEX:BIG]
+$11F31020 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31020 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31022 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F31026 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3102A 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F31028 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F31029 000000[Amount:FF:HEX:BIG]
+!!
+!Item 38:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F31038 00000026
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F31038 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F3103C [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F31040 0000[Amount:2710:HEX:BIG]
+$11F31044 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31044 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31046 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F3104A 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3104E 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F3104C 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F3104D 000000[Amount:FF:HEX:BIG]
+!!
+!Item 39:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F3105C 00000027
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F3105C 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F31060 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F31064 0000[Amount:2710:HEX:BIG]
+$11F31068 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31068 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3106A 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F3106E 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31072 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F31070 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F31071 000000[Amount:FF:HEX:BIG]
+!!
+!Item 40:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F31080 00000028
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F31080 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F31084 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F31088 0000[Amount:2710:HEX:BIG]
+$11F3108C 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3108C 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3108E 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F31092 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31096 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F31094 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F31095 000000[Amount:FF:HEX:BIG]
+!!
+!Item 41:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F310A4 00000029
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F310A4 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F310A8 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F310AC 0000[Amount:2710:HEX:BIG]
+$11F310B0 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F310B0 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F310B2 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F310B6 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F310BA 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F310B8 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F310B9 000000[Amount:FF:HEX:BIG]
+!!
+!Item 42:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F310C8 0000002A
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F310C8 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F310CC [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F310D0 0000[Amount:2710:HEX:BIG]
+$11F310D4 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F310D4 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F310D6 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F310DA 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F310DE 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F310DC 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F310DD 000000[Amount:FF:HEX:BIG]
+!!
+!Item 43:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F310EC 0000002B
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F310EC 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F310F0 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F310F4 0000[Amount:2710:HEX:BIG]
+$11F310F8 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F310F8 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F310FA 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F310FE 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31102 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F31100 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F31101 000000[Amount:FF:HEX:BIG]
+!!
+!Item 44:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F31110 0000002C
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F31110 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F31114 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F31118 0000[Amount:2710:HEX:BIG]
+$11F3111C 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3111C 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3111E 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F31122 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31126 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F31124 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F31125 000000[Amount:FF:HEX:BIG]
+!!
+!Item 45:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F31134 0000002D
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F31134 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F31138 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F3113C 0000[Amount:2710:HEX:BIG]
+$11F31140 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31140 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31142 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F31146 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3114A 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F31148 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F31149 000000[Amount:FF:HEX:BIG]
+!!
+!Item 46:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F31158 0000002E
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F31158 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F3115C [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F31160 0000[Amount:2710:HEX:BIG]
+$11F31164 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31164 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31166 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F3116A 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3116E 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F3116C 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F3116D 000000[Amount:FF:HEX:BIG]
+!!
+!Item 47:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F3117C 0000002F
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F3117C 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F31180 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F31184 0000[Amount:2710:HEX:BIG]
+$11F31188 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31188 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3118A 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F3118E 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31192 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F31190 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F31191 000000[Amount:FF:HEX:BIG]
+!!
+!Item 48:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F311A0 00000030
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F311A0 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F311A4 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F311A8 0000[Amount:2710:HEX:BIG]
+$11F311AC 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F311AC 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F311AE 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F311B2 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F311B6 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F311B4 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F311B5 000000[Amount:FF:HEX:BIG]
+!!
+!Item 49:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F311C4 00000031
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F311C4 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F311C8 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F311CC 0000[Amount:2710:HEX:BIG]
+$11F311D0 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F311D0 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F311D2 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F311D6 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F311DA 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F311D8 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F311D9 000000[Amount:FF:HEX:BIG]
+!!
+!Item 50:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F311E8 00000032
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F311E8 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F311EC [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F311F0 0000[Amount:2710:HEX:BIG]
+$11F311F4 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F311F4 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F311F6 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F311FA 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F311FE 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F311FC 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F311FD 000000[Amount:FF:HEX:BIG]
+!!
+!Item 51:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F3120C 00000033
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F3120C 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F31210 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F31214 0000[Amount:2710:HEX:BIG]
+$11F31218 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31218 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3121A 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F3121E 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31222 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F31220 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F31221 000000[Amount:FF:HEX:BIG]
+!!
+!Item 52:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F31230 00000034
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F31230 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F31234 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F31238 0000[Amount:2710:HEX:BIG]
+$11F3123C 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3123C 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3123E 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F31242 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31246 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F31244 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F31245 000000[Amount:FF:HEX:BIG]
+!!
+!Item 53:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F31254 00000035
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F31254 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F31258 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F3125C 0000[Amount:2710:HEX:BIG]
+$11F31260 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31260 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31262 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F31266 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3126A 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F31268 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F31269 000000[Amount:FF:HEX:BIG]
+!!
+!Item 54:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F31278 00000036
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F31278 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F3127C [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F31280 0000[Amount:2710:HEX:BIG]
+$11F31284 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31284 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31286 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F3128A 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3128E 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F3128C 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F3128D 000000[Amount:FF:HEX:BIG]
+!!
+!Item 55:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F3129C 00000037
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F3129C 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F312A0 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F312A4 0000[Amount:2710:HEX:BIG]
+$11F312A8 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F312A8 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F312AA 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F312AE 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F312B2 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F312B0 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F312B1 000000[Amount:FF:HEX:BIG]
+!!
+!Item 56:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F312C0 00000038
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F312C0 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F312C4 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F312C8 0000[Amount:2710:HEX:BIG]
+$11F312CC 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F312CC 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F312CE 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F312D2 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F312D6 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F312D4 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F312D5 000000[Amount:FF:HEX:BIG]
+!!
+!Item 57:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F312E4 00000039
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F312E4 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F312E8 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F312EC 0000[Amount:2710:HEX:BIG]
+$11F312F0 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F312F0 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F312F2 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F312F6 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F312FA 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F312F8 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F312F9 000000[Amount:FF:HEX:BIG]
+!!
+!Item 58:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F31308 0000003A
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F31308 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F3130C [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F31310 0000[Amount:2710:HEX:BIG]
+$11F31314 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31314 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31316 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F3131A 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3131E 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F3131C 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F3131D 000000[Amount:FF:HEX:BIG]
+!!
+!Item 59:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F3132C 0000003B
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F3132C 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F31330 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F31334 0000[Amount:2710:HEX:BIG]
+$11F31338 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31338 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3133A 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F3133E 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31342 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F31340 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F31341 000000[Amount:FF:HEX:BIG]
+!!
+!Item 60:
++Placement{#only Turn On If Adding In Your Own Items}
+$D08B3F5C 0000FFFE
+$21F31350 0000003C
++Clear Slot{#must Use If Adding Your Own Into The Item List, This Means If U Have Say 30 Items And U Want To Mod Something Into Slot 31 And Above U Will Need To Use This For Them Other Slots .}
+$E002FFFD 008B3F5C
+$41F31350 00080001
+$00000000 00000000
++Mod
+$D08B3F5C 0000FFFE
+$21F31354 [ITEMM]
++Value{#only Use If Its Items/Synth/Room Items}
+$D08B3F5C 0000FFFE
+$11F31358 0000[Amount:2710:HEX:BIG]
+$11F3135C 0000[Amount:2710:HEX:BIG]
++Pp Max Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3135C 0000[Amount:2710:HEX:BIG]
++Pp Current Value{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F3135E 0000[Amount:2710:HEX:BIG]
++Letter Beside Icon
+$D08B3F5C 0000FFFE
+$01F31362 000000[Amount:FF:HEX:BIG]
++Left Or Right Hand{#only Set If Ur Making A Weapon}
+$D08B3F5C 0000FFFE
+$11F31366 0000[Amount:01:HEX:BIG<Weapon 0 = Left - 1 = Right>]00
++Attributes
+$D08B3F5C 0000FFFE
+$01F31364 000000[Amount:FF:HEX:BIG]
++Attributes Percent
+$D08B3F5C 0000FFFE
+$01F31365 000000[Amount:FF:HEX:BIG]
+!!
+!!
+!!
+^6	MODS:
+[EMP]
+VALUE>AMOUNT
+A040	2x
+A080	4x
+A0C0	8X
+A100	16x
+A140	32x
+A180	64x
+A1C0	128X
+A200	256x
+A300	512x
+A340	1024x
+[/EMP]
+[ITEMM]
+VALUE>AMOUNT>TYPE
+00000111	Goggles	Weapons
+10210001	Compadri	Weapons
+00000101	Sword	Weapons
+02000101	Sodad	Weapons
+00010101	Gigush	Weapons
+00020101	Breaker	Weapons
+01020101	Brekaud	Weapons
+02020101	Soda Brekka	Weapons
+01030101	Claymaud	Weapons
+00040101	Calibur	Weapons
+02040101	Soda Calibur	Weapons
+00050101	Ascalor	Weapons
+00000201	Knuckles	Weapons
+02020201	Gudda Brana	Weapons
+02030201	Gudda Waya	Weapons
+02040201	Gudda Ribat	Weapons
+02050201	Gudda Greta	Weapons
+00010301	Pike	Weapons
+00000601	Twin Saber	Weapons
+00000701	Twin Dagger	Weapons
+00000901	Saber	Weapons
+00000A01	Dagger	Weapons
+00000E01	Rifle	Weapons
+00001301	Twin Handgun	Weapons
+00001401	Handgun	Weapons
+02021701	Magea Gres	Weapons
+01021801	Raymarod	Weapons
+01021901	Batnara	Weapons
+00001A01	Pit	Weapons
+00010104	Gravity Break	Weapons
+00000103	Monomate	Items
+00010103	Dimate	Items
+00020103	Trimate	Items
+00030103	Star Atomizer	Items
+00050103	(No name) Cures All status Abnormalities	Items
+00060103	Soi atomizer	Items
+00070103	Moon Atomizer	Items
+00080103	Moon Atomizer X	Items
+00090103	Scape Doll	Items
+000A0103	Agtaride	Items
+000B0103	Detbaride	Items
+000C0103	Retaride	Items
+000D0103	Zodiaride	Items
+000E0103	Megistaride	Items
+0000010C	Damage Trap	Items
+0001010C	Burn Trap	Items
+0002010C	Freeze Trap	Items
+0003010C	Poison Trap	Items
+0004010C	Confusion Trap	Items
+0005010C	Sleep Trap	Items
+0006010C	Virus Trap	Items
+0007010C	Shock Trap	Items
+0008010C	Silence Trap	Items
+0009010C	De Regan's Breath	Items
+000A010C	Fireworks	Items
+0000020C	Damage Trap G	Items
+0001020C	Burn Trap G	Items
+0002020C	Freeze Trap G	Items
+0003020C	Poison Trap G	Items
+0004020C	Confusion Trap G	Items
+0005020C	Sleep Trap G	Items
+0006020C	Virus Trap G	Items
+0007020C	Shock Trap G	Items
+0008020C	Silence Trap G	Items
+0009020C	Burn Trap EX	Items
+000A020C	Freeze Trap EX	Items
+000B020C	Stun Trap EX 	Items
+00000203	Photon Charge	Items
+00000102	Carline	Clothes/Parts
+00010102	Perpaline	Clothes/Parts
+00020102	Stellaline	Clothes/Parts
+00030102	Megaline	Clothes/Parts
+00040102	Gigaline	Clothes/Parts
+00050102	Teroline	Clothes/Parts
+00060102	Hardline	Clothes/Parts
+00070102	Cresline	Clothes/Parts
+00080102	Catiline	Clothes/Parts
+00090102	Orpaline	Clothes/Parts
+000A0102	Lightline	Clothes/Parts
+000B0102	Brandline	Clothes/Parts
+000C0102	Busterline	Clothes/Parts
+000D0102		Clothes/Parts
+00260102		Clothes/Parts
+01010102	Hel-Senba	Clothes/Parts
+02010102	Rabol Perpa	Clothes/Parts
+01230102	Gera-Senba	Clothes/Parts
+01240102	Feri-Senba	Clothes/Parts
+01250102	Viel-Senba	Clothes/Parts
+00020109	Gojhoh Vest	Clothes/Parts
+00020209	Gojhoh Shorts	Clothes/Parts
+00020209	Innocent Slacks	Clothes/Parts
+00010309	Seyagya Shoes	Clothes/Parts
+00020309	Gojhoj Boots	Clothes/Parts
+00040104	Tornado Break	Skills
+00000604	Splendor Crush	Skills
+00000804	Bukuu Rensen-ga	Skills
+00010904	Spinning Strike	Skills
+00060904	Rising Strike	Skills
+00060A04	Shunbu Shouren-zan	Skills
+00020B04	Senten Kanzan-ga	Skills
+00040C04	Visshi Grudda	Skills
+00010D04	Chikki Kyoren-jin	Skills
+00000105	Burning Shot	Skills
+00000205	Barada Banga	Skills
+00000305	Ensei-Sou	Skills
+00000405	Boma Banga	Skills
+00000505	Burning Prism	Skills
+00000605	Twin Burn	Skills
+00000705	Burning Hit	Skills
+00000805	Yak Banga	Skills
+00000905	Ensei-Shiki	Skills
+00000A05	Burning Fury	Skills
+00000106	Foie	Skills
+00000206	Barta	Skills
+00000306	Zonde	Skills
+00000406	Diga	Skills
+00000506	Resta	Skills
+00000606	Megid	Skills
+00000108	Cara/Force	Units
+00000208	Car/Power	Units
+00000308	Car/Guard	Units
+00000408	Mega/Stamina	Units
+000D010D	Hanzo	Machinery
+00000107	Photon	Materials
+00010107	El-photon	Materials
+00020107	Im-photon	Materials
+00030107	Ban-photon	Materials
+00040107	Ray-Photon	Materials
+00050107	Zon-Photon	Materials
+00060107	Di-Photon	Materials
+00070107	Gra-photon	Materials
+00080107	Megi-Photon	Materials
+00000207	Carlian	Materials
+00010207	Peparian	Materials
+00020207	Slaterian	Materials
+00030207	Cladorian	Materials
+00040207	Barlian	Materials
+00000307	Meganite	Materials
+00010307	Giganite	Materials
+00020307	Teranite	Materials
+00030307	Petanite	Materials
+00040307	Exanite	Materials
+00000407	Harnium	Materials
+00010407	Soldonium	Materials
+00020407	Stelnium	Materials
+00030407	Catilium	Materials
+00040407	Gachnium	Materials
+00000507	Gamotite	Materials
+00010507	Zepotite	Materials
+00020507	Chicotite	Materials
+00030507	Hapotite	Materials
+00040507	Gurtite	Materials
+00000607	Soural	Materials
+00010607	Speral	Materials
+00020607	Cyral	Materials
+00030607	Ydral	Materials
+00040607	Paural	Materials
+00000707	Neta Note	Materials
+00010707	White Glove	Materials
+00020707	Inverter Circuit	Materials
+00030707	Vahra Nail	Materials
+00040707	Jaggo Delma	Materials
+00050707	Svaltus Edge	Materials
+00060707	Koltova gras	Materials
+00070707	Puyopuypo jelly	Materials
+00080707	Altium Crim	Materials
+00090707	Rappy Feather	Materials
+000A0707	Lapucha Shell	Materials
+000B0707	Pannon Jelly	Materials
+000C0707	Bel pannon Jelly	Materials
+000D0707	Vanda Derma	Materials
+000E0707	De ragan tail	Materials
+000F0707	De Ragnus Dorso	Materials
+00100707	Bul buna Lung	Materials
+00110707	Dulk Fakis Cor	Materials
+00120707	Onmagoug auge	Materials
+00130707	Bil de Vear Horn	Materials
+00140707	Carriguine Blade	Materials
+00150707	Deljaban Blade	Materials
+00160707	Tengohg ala	Materials
+00170707	Gaozoran Rod	Materials
+00180707	Adahna Cannon	Materials
+00190707	Adahna Cannon	Materials
+001A0707	Bukra Code	Materials
+001B0707	Pumpki	Materials
+001C0707	Agito Edge	Materials
+001D0707	Ice Bar Mix	Materials
+001E0707	Super Drill	Materials
+001F0707	Brand Reactor	Materials
+00200707	Chef's Oil	Materials
+00210707	Art Flowers	Materials
+00220707	Serati Feather	Materials
+00230707	Meow Mustache	Materials
+00240707	Relic Edge	Materials
+00250707	Base Bail	Materials
+00260707	Bloody Score	Materials
+00270707	Love Letter	Materials
+00280707	Meteoric Metal	Materials
+00290707	Unknown Meat	Materials
+002A0707	Koltova Milk	Materials
+002B0707	Nagaraki Syrup	Materials
+002C0707	Ollaka Meat	Materials
+002D0707	Something Sweet	Materials
+002E0707	Lunga Egg	Materials
+002F0707	Kakwane Tail	Materials
+00300707		Materials
+00310707		Materials
+00320707		Materials
+00330707	Melan Fist	Materials
+00340707	Alteraz Kauda	Materials
+00350707	Chain Edge	Materials
+00360707		Materials
+00370707	Chevalier Edge	Materials
+00380707		Materials
+00390707		Materials
+003A0707	Nel Soul	Materials
+003B0707	Holy Mark	Materials
+003C0707	Spread Barrel	Materials
+003D0707	Varista Grip	Materials
+003E0707	Star Amp	Materials
+003F0707	Guild Grip	Materials
+00400707	Milla Grip	Materials
+00410707	Bunbun Fur	Materials
+00420707	Pakupaku Branch	Materials
+00430707		Materials
+00440707		Materials
+00450707	Arti Diga	Materials
+00460707	Brella Shaft	Materials
+00470707	Madam's Spirit	Materials
+00480707	Dallgun Snapshot	Materials
+00490707	Shato Heart	Materials
+004A0707		Materials
+004B0707	Preta Heart	Materials
+004C0707	Sonichi Heart	Materials
+004D0707	Dancing Sebora	Materials
+004E0707	Blue Pi	Materials
+004F0707	Papta Frame	Materials
+00500707	Booma Claw	Materials
+00510707	De Rol Le Carapace	Materials
+00520707	Note Seed	Materials
+00000807	Acenaline	Materials
+00010807	Wenceline	Materials
+00020807	Aporaline	Materials
+00030807	Dianaline	Materials
+00040807	Marseline	Materials
+00050807	Upteline	Materials
+00060807	Kerseline	Materials
+00070807	Vestaline	Materials
+00080807	Vulcanline	Materials
+00090807	Junaline	Materials
+000A0807	Merculine	Materials
+000B0807	Neptuline	Materials
+000C0807	Terseline	Materials
+000D0807	Uranseline	Materials
+000E0807	Chronoseline	Materials
+00000907	Nanocilica	Materials
+00010907	Nanocarbon	Materials
+00020907	MetaSilica	Materials
+00030907	Metacarbon	Materials
+00040907	Ortasilica	Materials
+00050907	Ortacarbon	Materials
+00060907	Nanoresin	Materials
+00070907	Metaresin	Materials
+00080907	Ortaresin	Materials
+00090907	Nanopolymer	Materials
+000A0907	Nanoceran	Materials
+000B0907	Metapolymer	Materials
+000C0907	Metaceran	Materials
+000D0907	Ortapolymer	Materials
+000E0907	Ortaceran	Materials
+00000A07	Hot Berry	Materials
+00010A07	Cold Berry	Materials
+00020A07	Sweet Berry	Materials
+00030A07	Bitter Berry	Materials
+00040A07	Stamina Berry	Materials
+00050A07	Moatoob Truffle	Materials
+00060A07	Poison Truffle	Materials
+00070A07	Mad Truffle	Materials
+00080A07	Rotten Truffle	Materials
+00090A07	Balji Truffle	Materials
+000A0A07	Love Berry	Materials
+000B0A07	Huslte Berry	Materials
+00000B07	Trans Acid	Materials
+00010B07	Metamor Acid	Materials
+00020B07	Ether Acid	Materials
+00030B07	Lambda Acid	Materials
+00040B07	Omega Acid	Materials
+00050B07	Trans Gel	Materials
+00060B07	Metamor Gel	Materials
+00070B07	Ether Gel	Materials
+00080B07	Lambda Gel	Materials
+00090B07	Omega Gel	Materials
+00000C07	Grinder Base C	Materials
+00010C07	Grinder Base B	Materials
+00020C07	Grinder Base A	Materials
+00030C07	Grinder Base S	Materials
+00000D07	(No name) Low Cost CHip Cheap	Materials
+00010D07	(No name) High-end Consumer Chip	Materials
+00020D07	(No name) High-end Consumer Chip	Materials
+00000E07	Copernia	Materials
+00010E07	Silvenia	Materials
+00020E07	Armania	Materials
+00030E07	Goldania	Materials
+00040E07	Morbinia	Materials
+00050E07	Titania	Materials
+00060E07	Olpad	Materials
+00070E07	Garnad	Materials
+00080E07	Rubinad	Materials
+00090E07	Tormad	Materials
+000A0E07	Berilad	Materials
+000B0E07	Sattiad	Materials
+000C0E07	Citrad	Materials
+000D0E07	Amethad	Materials
+000E0E07	Diad	Materials
+000F0E07	Recnad	Materials
+00100E07	Motrad	Materials
+00110E07	Coltad	Materials
+00120E07	Suttad	Materials
+00130E07	Spined	Materials
+00140E07	Camhad	Materials
+00150E07	Lithnia	Materials
+00160E07	Obdania	Materials
+00170E07	Platnia	Materials
+00000F07	Brahde	Materials
+00010F07	Hibrahde	Materials
+00020F07	Durahde	Materials
+00030F07	Hidrahde	Materials
+00040F07	Balera	Materials
+00050F07	Hibalera	Materials
+00060F07	Dulera	Materials
+00001007	Par Wood	Materials
+00011007	Par Ash	Materials
+00021007	Par Ebon	Materials
+00031007	Mot Wood	Materials
+00041007	Mot Ash	Materials
+00051007	Mot Ebon	Materials
+00061007	Neu wood	Materials
+00071007	Neu Ash	Materials
+00081007	Neu Ebon	Materials
+00091007	Kubara Wood	Materials
+000A1007	Mot Walna	Materials
+000B1007	Mot Ork	Materials
+000C1007	Neu Walna	Materials
+000D1007	Neu Ork	Materials
+000E1007	Par Walna	Materials
+000F1007	Par Ork	Materials
+00000000	None	Materials
+[/ITEMM]

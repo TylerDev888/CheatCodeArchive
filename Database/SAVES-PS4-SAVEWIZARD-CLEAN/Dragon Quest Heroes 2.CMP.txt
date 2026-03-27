@@ -1,0 +1,806 @@
+^2 = GameID: CUSA06769,CUSA03967,CUSA05915,CUSA06740
+^3 = NAME: Dragon Quest Heroes II
+^SECONDLAYER: NO
+^4 = FILE: SAVEDATA00\APP.BIN
++Materials 99
+%Credits:web-save.editor.com
+$[SaveSlot]
+$480122D0 00000000
+$408C001C 00000001
+$480122D1 00000000
+$408C001C 00000000
+$480122D2 00000003
+$408C001C 00000000
+$480122D3 00000063
+$408C001C 00000000
+$480122D4 00000002
+$408C001C 00000000
+$490122D6 00000002
+$408C001C 00000001
++Hero Skill Points
+%Credits:web-save.editor.com
+$[SaveSlot]
+$1800CDD0 0000270F
+$1800CDD2 0000270F
+$1800CDD4 0000270F
+$1800CDD6 0000270F
+$1800CDD8 0000270F
+$1800CDDA 0000270F
+$1800CDDC 0000270F
++Heroine Skill Points
+%Credits:web-save.editor.com
+$[SaveSlot]
+$1800D620 0000270F
+$1800D622 0000270F
+$1800D624 0000270F
+$1800D626 0000270F
+$1800D628 0000270F
+$1800D62A 0000270F
+$1800D62C 0000270F
++Others Skill Points
+%Credits:web-save.editor.com
+$[SaveSlot]
+$1800D620 0000270F
+$1800D622 0000270F
+$1800D624 0000270F
+$1800D626 0000270F
+$1800D628 0000270F
+$1800D62A 0000270F
+$1800D62C 0000270F
++Max Mini Medals
+%Credits:web-save.editor.com
+$[SaveSlot]
+$18022964 000003E7
++Edit Orb Effects{Only Select Orb}
+$[SaveSlot]
+$92000000 000122C0
+$88010004 [Item]0101
+$93000000 00000010
+$18000000 0000[Amount:2710:HEX:BIG]
+$18000002 0000[Effect]
+$18000004 0000[Amount:2710:HEX:BIG]
+$18000006 0000[Effect]
+$18000008 0000[Amount:2710:HEX:BIG]
+$1800000A 0000[Effect]
++Change Item Mod
+$[SaveSlot]
+$92000000 000122C0
+$88010004 [Item<*Item To Replace>][ItemType<Item To Replace>]01
+$93000000 00000010
+$18000010 0000[Item<Item You Want>]
+$08000012 000000[ItemType<Item You Want>]
++Item Amount
+$[SaveSlot]
+$92000000 000122C0
+$88010004 [Item<*Current Item>][ItemType<Current Item>]01
+$93000000 00000010
+$18000010 0000[Item]
+$08000013 000000[Amount:63:HEX:BIG]
+^6 = MODS:
+[SaveSlot]
+Offset>Save Slot>Region
+95000000 0015CB16	Auto	US/EU
+95000000 00000010	Slot 1	US/EU
+95000000 00022DF7	Slot 2	US/EU
+95000000 00045BDE	Slot 3	US/EU
+95000000 000689C5	Slot 4	US/EU
+95000000 0008B7AC	Slot 5	US/EU
+95000000 000AE593	Slot 6	US/EU
+95000000 000D137A	Slot 7	US/EU
+95000000 000F4161	Slot 8	US/EU
+95000000 00116F48	Slot 9	US/EU
+95000000 00139D2F	Slot 10	US/EU
+95000000 0015C6DE	Auto	JPN
+95000000 00000010	Slot 1	JPN
+95000000 00022D8B	Slot 2	JPN
+95000000 00045B06	Slot 3	JPN
+95000000 00068881	Slot 4	JPN
+95000000 0008B5FC	Slot 5	JPN
+95000000 000AE377	Slot 6	JPN
+95000000 000D10F2	Slot 7	JPN
+95000000 000F3E6D	Slot 8	JPN
+95000000 00116BE8	Slot 9	JPN
+95000000 00139963	Slot 10	JPN
+[/SaveSlot]
+[Item]
+ID>Item>Item Type
+0000	Horse Manure	Material
+0001	Salt Of The Earth	Material
+0002	Iron Nails	Material
+0003	Butterfly Wing	Material
+0004	Cruel Claw	Material
+0005	Nectar	Material
+0006	Manky Mud	Material
+0007	Kitty Litter	Material
+0008	Narspicious	Material
+0009	Lava Lump	Material
+000A	Thinkincense	Material
+000B	Flintstone	Material
+000C	Glass Frit	Material
+000D	Fresh Milk	Material
+000E	Sturdy Stick	Material
+000F	Wing Of Bat	Material
+0010	Grubby Bandage	Material
+0011	Iron Ore	Material
+0012	Slipweed	Material
+0013	Mirrorstone	Material
+0014	Sizeable Seashell	Material
+0015	Emerald Moss	Material
+0016	Magic Beast Bone	Material
+0017	Fisticup	Material
+0018	Slimedrop	Material
+0019	Fresh Water	Material
+001A	Snakeskin	Material
+001B	Royal Soil	Material
+001C	Belle Cap	Material
+001D	Flurry Feather	Material
+001E	Ice Crystal	Material
+001F	Toad Oil	Material
+0020	Magic Beast Hide	Material
+0021	Magic Beast Horn	Material
+0022	Evencloth	Material
+0023	Lambswool	Material
+0024	Dragon Hide	Material
+0025	Thunderball	Material
+0026	Giant Tortoise Shell	Material
+0027	Warmaline	Material
+0028	Birdsong Nectar	Material
+0029	Faerie Flame	Material
+002A	Technicolour Dreamcloth	Material
+002B	Saint's Ashes	Material
+002C	Royal Ruby	Material
+002D	Faerie Fluff	Material
+002E	Finessence	Material
+002F	Dragon Horn	Material
+0030	Not-Colossal Fossil	Material
+0031	Ethereal Stone	Material
+0032	Platinum Ore	Material
+0033	Pitch Pearl	Material
+0034	Gold Bar	Material
+0035	Celestial Skein	Material
+0036	Pale Pearl	Material
+0037	Lucida Shard	Material
+0038	Molten Globules	Material
+0039	Sainted Soma	Material
+003A	Densinium	Material
+003B	Sparkly Sap	Material
+003C	Enchanted Stone	Material
+003D	Spellbound Bough	Material
+003E	Chronocrystal	Material
+003F	Kaleidoskin	Material
+0040	Gold Nuglet	Material
+0041	Silver Nugget	Material
+0042	Gold Nugget	Material
+0043	Silver Bar	Material
+0044	Hardy Hide	Material
+0045	Twisted Talons	Material
+0046	Itty-Bitty Bone	Material
+0047	Small Scale	Material
+0048	Permasnow	Material
+0049	Colossal Cactus	Material
+004A	Waveweed	Material
+004B	Bendy Branch	Material
+004C	Deadwood	Material
+004D	Malicite	Material
+004E	Flaxen Thread	Material
+004F	Cottontop	Material
+0050	Silkblossom	Material
+0051	Glimmergrass	Material
+0052	Colourful Cocoon	Material
+0053	Silver Ore	Material
+0054	Darkonium	Material
+0055	Orichalcum	Material
+0056	Fine Fur	Material
+0057	Odd Clod	Material
+0058	Red Eye	Material
+0059	Blue Eye	Material
+005A	Savvy Sapphire	Material
+005B	Large Scale	Material
+005C	Big Bone	Material
+005D	Colossal Fossil	Material
+005E	Mythic Beast Bone	Material
+005F	Powdered Slime Earrings	Material
+0060	Powdered Restless Heart	Material
+0061	Powdered Monocle	Material
+0062	Powdered Gold Ring	Material
+0063	Powdered Bunny Tail	Material
+0064	Powdered Mechanical Monocle	Material
+0065	Powdered Gold Bracer	Material
+0066	Powdered Champion's Choker	Material
+0067	Powdered Earthwyrm's Eye	Material
+0068	Powdered Scholar's Specs	Material
+0069	Powdered Kamikazee Bracer	Material
+006A	Powdered Ring Of Riddance	Material
+006B	Powdered Tough Guy Tattoo	Material
+006C	Powdered Strength Ring	Material
+006D	Powdered Meteorite Bracer	Material
+006E	Powdered Agility Ring	Material
+006F	Powdered Raging Ruby	Material
+0070	Powdered Ruby Of Protection	Material
+0071	Powdered Prayer Ring	Material
+0072	Powdered Gold Rosary	Material
+0073	Powdered Beckoning Bell	Material
+0074	Powdered Titan Belt	Material
+0075	Powdered Life Ring	Material
+0076	Powdered Elevating Shoes	Material
+0077	Powdered Über Ace Of Spoils	Material
+0078	Powdered Sorcerer's Ring	Material
+0079	Powdered Lucky Dragon's Wing	Material
+007A	Powdered Ace Of Spoils	Material
+007B	Powdered Catholicon Ring	Material
+007C	Powdered Wrecklace	Material
+007D	Powdered Loin-Girder	Material
+007E	Powdered Care Ring	Material
+007F	Powdered Dogged Collar	Material
+0080	Powdered Venus' Tear	Material
+0081	Powdered Adamant Pendant	Material
+0082	Powdered Rousing Ring	Material
+0083	Powdered Papillon Pendant	Material
+0084	Powdered Allure Ring	Material
+0085	Powdered Monarchic Mark	Material
+0086	Powdered Endure Ring	Material
+0087	Powdered Ring Of Truth	Material
+0088	Powdered Ring Of Immunity	Material
+0089	Powdered Sock-It Locket	Material
+008A	Powdered Block-It Locket	Material
+008B	Powdered Nacreous Necromonocle	Material
+008C	Twin Sword Shards	Material
+008D	Sword Shards	Material
+008E	Broadsword Shards	Material
+008F	Greatsword Shards	Material
+0090	Axe Shards	Material
+0091	Boomerang Shards	Material
+0092	Glove Shards	Material
+0093	Gauntlet Shards	Material
+0094	Claw Shards	Material
+0095	Abacus Shards	Material
+0096	Card Shards	Material
+0097	Spear Shards	Material
+0098	Whip Shards	Material
+0099	Bow Shards	Material
+009A	Fan Shards	Material
+009B	Wand Shards	Material
+009C	Staff Shards	Material
+009D	Heavy Wand Shards	Material
+009E	Twin Sword Essence	Material
+009F	Sword Essence	Material
+00A0	Broadsword Essence	Material
+00A1	Greatsword Essence	Material
+00A2	Axe Essence	Material
+00A3	Boomerang Essence	Material
+00A4	Glove Essence	Material
+00A5	Gauntlet Essence	Material
+00A6	Claw Essence	Material
+00A7	Abacus Essence	Material
+00A8	Card Essence	Material
+00A9	Spear Essence	Material
+00AA	Whip Essence	Material
+00AB	Bow Essence	Material
+00AC	Fan Essence	Material
+00AD	Wand Essence	Material
+00AE	Staff Essence	Material
+00AF	Heavy Wand Essence	Material
+00B0	Bondstone	Material
+00B1	Remedial Rock	Material
+00B2	Walking Stick	Material
+00B3	Monsterium Ore	Material
+00B4	Cracking Egg	Material
+00B5	True Lovage	Material
+00B6	Curative Crystal	Material
+00B7	Monsterium Nugget	Material
+00B8	Frozen Fire	Material
+00B9	Rejuvenating Jewel	Material
+00BA	Monsterium Ingot	Material
+00BB	Broadsword Fragments	Material
+00BC	Rapier Fragments	Material
+00BD	Staff Fragments	Material
+00BE	Boomerang Fragments	Material
+00BF	Bow Fragments	Material
+00C0	Wand Fragments	Material
+00C1	Axe Fragments	Material
+00C2	Greatsword Fragments	Material
+00C3	Broadsword Extract	Material
+00C4	Rapier Extract	Material
+00C5	Staff Extract	Material
+00C6	Boomerang Extract	Material
+00C7	Bow Extract	Material
+00C8	Wand Extract	Material
+00C9	Axe Extract	Material
+00CA	Greatsword Extract	Material
+00CB	Victory's Secret	Material
+00CC	Would-Be Weapon	Material
+00CD	Would-Be Weapon Of Worth	Material
+00CE	Would-Be Weapon Of Wonder	Material
+0000	Iron Broadsword	Weapon/Shields
+0001	Steel Broadsword	Weapon/Shields
+0002	Hero's Twin Swords	Weapon/Shields
+0003	Bronze Blades	Weapon/Shields
+0004	Iron Axe	Weapon/Shields
+0005	Battle-Axe	Weapon/Shields
+0006	Iron Lance	Weapon/Shields
+0007	Holy Lance	Weapon/Shields
+0008	Iron Fans	Weapon/Shields
+0009	Lunar Fans	Weapon/Shields
+000A	Blessed Blades	Weapon/Shields
+000B	Bastard Sword	Weapon/Shields
+000C	Champion's Swords	Weapon/Shields
+000D	Twin Knight's Swords	Weapon/Shields
+000E	Short Bow	Weapon/Shields
+000F	Eros' Bow	Weapon/Shields
+0010	Iron Gauntlets	Weapon/Shields
+0011	Talismains	Weapon/Shields
+0012	Slicicles	Weapon/Shields
+0013	Bolt Cutters	Weapon/Shields
+0014	Swish Buckler	Weapon/Shields
+0015	Twin Stardust Swords	Weapon/Shields
+0016	Twin Metal King Swords	Weapon/Shields
+0017	Gryphon's Talon	Weapon/Shields
+0018	Über Twin Knight's Swords	Weapon/Shields
+0019	Chain Whip	Weapon/Shields
+001A	Morning Star	Weapon/Shields
+001B	Bronze Boomerang	Weapon/Shields
+001C	Gusterang	Weapon/Shields
+001D	Peafowl Fans	Weapon/Shields
+001E	Potshot Bow	Weapon/Shields
+001F	Cautery Sword	Weapon/Shields
+0020	Dragonsbane	Weapon/Shields
+0021	Miracle Sword	Weapon/Shields
+0022	Knight's Sword	Weapon/Shields
+0023	Broad Sword	Weapon/Shields
+0024	Zombiesbane	Weapon/Shields
+0025	Über Knight's Sword	Weapon/Shields
+0026	Sunderbolt Blade	Weapon/Shields
+0027	Über Gryphon's Talon	Weapon/Shields
+0028	Warsword	Weapon/Shields
+0029	Bloodletter	Weapon/Shields
+002A	Battle Fork	Weapon/Shields
+002B	Demon Spear	Weapon/Shields
+002C	Storm Spear	Weapon/Shields
+002D	Blue Blood's Blade	Weapon/Shields
+002E	King Axe	Weapon/Shields
+002F	Obliteratoriser	Weapon/Shields
+0030	Legate's Blade	Weapon/Shields
+0031	Über Blue Blood's Blade	Weapon/Shields
+0032	Accordian Axe	Weapon/Shields
+0033	Orichalcum Gauntlets	Weapon/Shields
+0034	Devil's Dukes	Weapon/Shields
+0035	Cypress Sticks	Weapon/Shields
+0036	Hypnowhip	Weapon/Shields
+0037	Sidewinder	Weapon/Shields
+0038	Dragontail Whip	Weapon/Shields
+0039	Stellar Fans	Weapon/Shields
+003A	Solar Fans	Weapon/Shields
+003B	Magic Circle	Weapon/Shields
+003C	Pro's Axe	Weapon/Shields
+003D	Cypress Stick	Weapon/Shields
+003E	Great Axe	Weapon/Shields
+003F	Cheiron's Bow	Weapon/Shields
+0040	Über Queen Axe	Weapon/Shields
+0041	Bonny Boomerang	Weapon/Shields
+0042	Flametang Boomerang	Weapon/Shields
+0043	Falcon Blade	Weapon/Shields
+0044	Nightcleaver	Weapon/Shields
+0045	Crimson Crescent	Weapon/Shields
+0046	Thunderbolt Blade	Weapon/Shields
+0047	Hero Spear	Weapon/Shields
+0048	Bad Axe	Weapon/Shields
+0049	Dark Star	Weapon/Shields
+004A	Beast Paws	Weapon/Shields
+004B	Queen's Whip	Weapon/Shields
+004C	Über Crimson Crescent	Weapon/Shields
+004D	Meteorang	Weapon/Shields
+004E	Great Bow	Weapon/Shields
+004F	Platinum Gauntlets	Weapon/Shields
+0050	Metal King Sword	Weapon/Shields
+0051	Godly Gauntlets	Weapon/Shields
+0052	Crystal Fists	Weapon/Shields
+0053	Heroine's Sword	Weapon/Shields
+0054	Metal King Spear	Weapon/Shields
+0055	Über Majestic Mitts	Weapon/Shields
+0056	Sparring Gloves	Weapon/Shields
+0057	Golden Claws	Weapon/Shields
+0058	Gringham Whip	Weapon/Shields
+0059	Critical Fans	Weapon/Shields
+005A	Metal Wing Boomerang	Weapon/Shields
+005B	Odin's Bow	Weapon/Shields
+005C	Dauntless Gauntlets	Weapon/Shields
+005D	Wyrmfang	Weapon/Shields
+005E	Grandmaster's Gauntlets	Weapon/Shields
+005F	Monster Mashers	Weapon/Shields
+0060	Saint's Spear	Weapon/Shields
+0061	Frostfire Fists	Weapon/Shields
+0062	Über Dauntless Gauntlets	Weapon/Shields
+0063	Majestic Mitts	Weapon/Shields
+0064	Sage's Scourge	Weapon/Shields
+0065	Fancy Fans	Weapon/Shields
+0066	Wolf Claws	Weapon/Shields
+0067	Iron Claws	Weapon/Shields
+0068	Steel Claws	Weapon/Shields
+0069	Panther Claws	Weapon/Shields
+006A	White Wolf Claws	Weapon/Shields
+006B	Lord's Sword	Weapon/Shields
+006C	Erdrick's Sword	Weapon/Shields
+006D	Zenithian Sword	Weapon/Shields
+006E	Wanderer's Sword	Weapon/Shields
+006F	Dragon Claws	Weapon/Shields
+0070	Captain's Hooks	Weapon/Shields
+0071	Dragonlord Claws	Weapon/Shields
+0072	Über White Wolf Claws	Weapon/Shields
+0073	Entrepreneur's Abacus	Weapon/Shields
+0074	Iron Abacus	Weapon/Shields
+0075	Parson's Partisan	Weapon/Shields
+0076	Stainless Steel Abacus	Weapon/Shields
+0077	Rich Man's Paw	Weapon/Shields
+0078	Gutsy Gloves	Weapon/Shields
+0079	Lady's Lash	Weapon/Shields
+007A	Fans Fatale	Weapon/Shields
+007B	Abracadabracus	Weapon/Shields
+007C	Astraea's Abacus	Weapon/Shields
+007D	Energising Abacus	Weapon/Shields
+007E	Metal King Greatsword	Weapon/Shields
+007F	Builder's Mallet	Weapon/Shields
+0080	Jade Adder	Weapon/Shields
+0081	House Of Payin'	Weapon/Shields
+0082	Über Astraea's Abacus	Weapon/Shields
+0083	Diviner's Deck	Weapon/Shields
+0084	Time-Worn Tarot Cards	Weapon/Shields
+0085	Puck's Pack	Weapon/Shields
+0086	Pack Of Truths	Weapon/Shields
+0087	Deck Of Destiny	Weapon/Shields
+0088	Silver Tarot Cards	Weapon/Shields
+0089	Oberon's Tarot	Weapon/Shields
+008A	Lodestar Tarot	Weapon/Shields
+008B	Hand Of Fate	Weapon/Shields
+008C	Über Silver Tarot Cards	Weapon/Shields
+008D	Über Saint's Spear	Weapon/Shields
+008E	Über Sage's Scourge	Weapon/Shields
+008F	Ebony Bow	Weapon/Shields
+0090	Feather Bow	Weapon/Shields
+0091	Lyre Of Legend	Weapon/Shields
+0092	Über Feather Bow	Weapon/Shields
+0093	Rose-Tinted Spectaculars	Weapon/Shields
+0094	Über Fancy Fans	Weapon/Shields
+0095	Queen Axe	Weapon/Shields
+0096	Hero's Shield	Weapon/Shields
+0097	Wanderer's Shield	Weapon/Shields
+0098	Magic Shield	Weapon/Shields
+0099	Power Shield	Weapon/Shields
+009A	Saintess Shield	Weapon/Shields
+009B	Erdrick's Shield	Weapon/Shields
+009C	Zenithian Shield	Weapon/Shields
+009D	Ogre Shield	Weapon/Shields
+009E	Metal King Shield	Weapon/Shields
+009F	Slime Shield	Weapon/Shields
+00A0	Pocus Pin	Weapon/Shields
+00A1	Twinkle Twinkle Little Staff	Weapon/Shields
+00A2	Winged Wand	Weapon/Shields
+00A3	Fond Wand	Weapon/Shields
+00A4	Pixie Stick	Weapon/Shields
+00A5	Wyvern Wand	Weapon/Shields
+00A6	Seraphic Sceptre	Weapon/Shields
+00A7	Butterfly Baton	Weapon/Shields
+00A8	Olde-Worlde Wande	Weapon/Shields
+00A9	Über Scirocco Sceptre	Weapon/Shields
+00AA	Hero's Staff	Weapon/Shields
+00AB	Driller Pillar	Weapon/Shields
+00AC	Barbed Bludgeon	Weapon/Shields
+00AD	Mistick	Weapon/Shields
+00AE	Diabolicane	Weapon/Shields
+00AF	Dragon Rod	Weapon/Shields
+00B0	Sunburst Staff	Weapon/Shields
+00B1	Knockout Rod	Weapon/Shields
+00B2	Pole Of Opposites	Weapon/Shields
+00B3	Über King's Cudgel	Weapon/Shields
+00B4	Oak Staff	Weapon/Shields
+00B5	Wizard's Staff	Weapon/Shields
+00B6	Faerie Staff	Weapon/Shields
+00B7	Staff Of Sentencing	Weapon/Shields
+00B8	Spirit Staff	Weapon/Shields
+00B9	Lightning Staff	Weapon/Shields
+00BA	Rune Staff	Weapon/Shields
+00BB	Magma Staff	Weapon/Shields
+00BC	Wyrmwand	Weapon/Shields
+00BD	Staff Of Night	Weapon/Shields
+00BE	Pot Lid	Weapon/Shields
+00BF	Heroine's Shield	Weapon/Shields
+00C0	Hero's Claws	Weapon/Shields
+00C1	Hero's Wand	Weapon/Shields
+00C2	Hero's Spear	Weapon/Shields
+00C3	Knight's Shield	Weapon/Shields
+00C4	Hero's Axe	Weapon/Shields
+00C5	Hero's Heavy Wand	Weapon/Shields
+00C6	Heroine's Claws	Weapon/Shields
+00C7	Heroine's Wand	Weapon/Shields
+00C8	Heroine's Spear	Weapon/Shields
+00C9	Dragonlord's Sceptre	Weapon/Shields
+00CA	Heroine's Axe	Weapon/Shields
+00CB	Heroine's Heavy Wand	Weapon/Shields
+00CC	Heroine's Twin Swords	Weapon/Shields
+00CD	Hero's Sword	Weapon/Shields
+00CE	Heroine's Staff	Weapon/Shields
+00CF	Estark's Sabres	Weapon/Shields
+00D0	Slime Sword	Weapon/Shields
+00D1	Gooreat Sword	Weapon/Shields
+00D2	Slime-On-A-Stick	Weapon/Shields
+00D3	Jelly Caster	Weapon/Shields
+00D4	Gungenir	Weapon/Shields
+00D5	Goolden Axe	Weapon/Shields
+00D6	Squishing Rod	Weapon/Shields
+00D7	Gooey Gloves	Weapon/Shields
+00D8	Splat O' Nine Tails	Weapon/Shields
+00D9	Fandangoos	Weapon/Shields
+00DA	Goomerang	Weapon/Shields
+00DB	Goopid's Bow	Weapon/Shields
+00DC	Goosome Twosome	Weapon/Shields
+00DD	Blobacus	Weapon/Shields
+00DE	Gloop Deck	Weapon/Shields
+00DF	Gel-O-Tines	Weapon/Shields
+00E0	Captain's Sword	Weapon/Shields
+00E1	Captain's Rapier	Weapon/Shields
+00E2	Luceus's Shield	Weapon/Shields
+00E3	King's Cudgel	Weapon/Shields
+00E4	Razer-Wing Boomerang	Weapon/Shields
+00E5	Emerald Bow	Weapon/Shields
+00E6	Scirocco Sceptre	Weapon/Shields
+00E7	Almighty Axe	Weapon/Shields
+00E8	Conqueror's Sword	Weapon/Shields
+00E9	Giga Captain's Sword	Weapon/Shields
+00EA	Giga Captain's Rapier	Weapon/Shields
+00EB	Giga King's Cudgel	Weapon/Shields
+00EC	Giga Razer-Wing Boomerang	Weapon/Shields
+00ED	Giga Emerald Bow	Weapon/Shields
+00EE	Giga Scirocco Sceptre	Weapon/Shields
+00EF	Giga Almighty Axe	Weapon/Shields
+00F0	Giga Conqueror's Sword	Weapon/Shields
+00F1	Aurora's Shield	Weapon/Shields
+00F2	Goodybag Abacus	Weapon/Shields
+00F3	Gem Slime Sword	Weapon/Shields
+00F4	Night Club	Weapon/Shields
+00F5	Slime Knight's Shield	Weapon/Shields
+00F6	Imp's Fork	Weapon/Shields
+00F7	Robo-Bow	Weapon/Shields
+00F8	Plat O' One Tails	Weapon/Shields
+00F9	Slime Stack Stick	Weapon/Shields
+00FA	Great Sabreclaws	Weapon/Shields
+00FB	Drackerang	Weapon/Shields
+00FC	Golem Gauntlets	Weapon/Shields
+00FD	Shadowblade	Weapon/Shields
+00FE	Robo-Razor	Weapon/Shields
+00FF	Royal Flush	Weapon/Shields
+0100	Archdemon Arcs	Weapon/Shields
+0000	Plain Orb	Orb
+0001	Wayfarer's Orb	Orb
+0002	Leather Orb	Orb
+0003	Scale Orb	Orb
+0004	Metathra Orbs	Orb
+0005	Bronze Orbs	Orb
+0006	Iron Orb	Orb
+0007	Steel Orb	Orb
+0008	Orb Of Evasion	Orb
+0009	Silver Orbs	Orb
+000A	Orb Of Serenity	Orb
+000B	Magic Orb	Orb
+000C	Orbolero	Orb
+000D	Illusionist's Orb	Orb
+000E	Platinum Orb	Orb
+000F	Witch's Orb	Orb
+0010	Heavy Orb	Orb
+0011	Flowing Orb	Orb
+0012	Exorcist's Orb	Orb
+0013	Shinobi Orbs	Orb
+0014	Dragon Orb	Orb
+0015	Enchanted Orb	Orb
+0016	Dark Orb	Orb
+0017	Tectonic Orb	Orb
+0018	Wizard's Orb	Orb
+0019	Gigant Orb	Orb
+001A	Orbus Regale	Orb
+001B	Orb Of Enlightenment	Orb
+001C	Princess's Orb	Orb
+001D	Sacred Orb	Orb
+001E	Metal King Orb	Orb
+001F	Angel's Orb	Orb
+0020	Elevating Orb	Orb
+0021	Stray Orbs	Orb
+0022	Erdrick's Orb	Orb
+0023	Zenithian Orb	Orb
+0024	Dragovian Orb	Orb
+0025	Gaia Orb	Orb
+0026	Orb Of Implacability	Orb
+0027	Ominous Orb	Orb
+0028	Ill-Omened Orb	Orb
+0000	Slime Earrings	Accessory
+0001	Restless Heart	Accessory
+0002	Monocle	Accessory
+0003	Gold Ring	Accessory
+0004	Bunny Tail	Accessory
+0005	Mechanical Monocle	Accessory
+0006	Gold Bracer	Accessory
+0007	Champion's Choker	Accessory
+0008	Earthwyrm's Eye	Accessory
+0009	Scholar's Specs	Accessory
+000A	Kamikazee Bracer	Accessory
+000B	Ring Of Riddance	Accessory
+000C	Tough Guy Tattoo	Accessory
+000D	Strength Ring	Accessory
+000E	Meteorite Bracer	Accessory
+000F	Agility Ring	Accessory
+0010	Raging Ruby	Accessory
+0011	Ruby Of Protection	Accessory
+0012	Prayer Ring	Accessory
+0013	Gold Rosary	Accessory
+0014	Beckoning Bell	Accessory
+0015	Titan Belt	Accessory
+0016	Life Ring	Accessory
+0017	Über Ace Of Spoils	Accessory
+0018	Elevating Shoes	Accessory
+0019	Gospel Ring	Accessory
+001A	Sorcerer's Ring	Accessory
+001B	Lucky Dragon's Wing	Accessory
+001C		Accessory
+001D		Accessory
+001E	Ace Of Spoils	Accessory
+001F	Catholicon Ring	Accessory
+0020	Wrecklace	Accessory
+0021		Accessory
+0022	Loin-Girder	Accessory
+0023	Care Ring	Accessory
+0024	Dogged Collar	Accessory
+0025	Venus' Tear	Accessory
+0026		Accessory
+0027	Adamant Pendant	Accessory
+0028	Rousing Ring	Accessory
+0029	Papillon Pendant	Accessory
+002A	Allure Ring	Accessory
+002B	Monarchic Mark	Accessory
+002C	Endure Ring	Accessory
+002D	Ring Of Truth	Accessory
+002E	Ring Of Immunity	Accessory
+002F	Sock-It Locket	Accessory
+0030	Block-It Locket	Accessory
+0031		Accessory
+0032		Accessory
+0033	Nacreous Necromonocle	Accessory
+[/Item]
+[ItemType]
+ID>Item Type
+00	Weapons
+01	Orbs
+02	Accessories
+03	Materials
+[/ItemType]
+[Effect]
+ID>Effect
+0000	Maximum HP
+0001	Maximum MP
+0002	Strength
+0003	Resistance
+0004	Magical Might
+0005	Deftness
+0006	Attack Power
+0007	Defensive Strength
+0008	Critical Hit Chance
+0009	Tension Build Rate
+000A	Magical Resistance
+000B	Instant Death Resistance
+000C	More Yggdrasil Leaves
+000D	Mini Medal Drop Rate
+000E	Tension Up When Damaged
+000F	Chance Of No MP Cost
+0010	Longer High-Tension Period
+0011	Chance To Instantly Revive On Death
+0012	Quake/Roar Resistance
+0013	Coup De Grace Damage
+0014	Damage To Weak Points
+0015	360 Degree Block
+0016	Gold Earned
+0017	Experience Earned
+0018	Lower Damage, More Criticals
+0019	Cast Kamikazee On Death
+001A	Atk/Def Increases Last Longer
+001B	Death Blow Survival Chance
+001C	Roar Resistance
+001D	Reduced Damage When Frozen
+001E	Reduced Damage When Blocking
+001F	Defense Increases Boosted
+0020	Attack Increases Boosted
+0021	Damage Up, MP Regeneration Down
+0022	MP Cost Up, Skill Charge Time Down
+0023	Resist Slowing
+0024	Damage Occasionally Ignored
+0025	Mild MP Regeneration
+0026	Mild HP Regeneration
+0027	Shorter Quake Stumble Duration
+0028	Shorter Seal Duration
+0029	Shorter Sleep Duration
+002A	Shorter Poison Duration
+002B	Shorter Bedazzle Duration
+002C	Shorter Curse Duration
+002D	Ability Damage
+002E	Spell Damage
+002F	Breath Resistance
+0030	Tension Up When Foes Beaten
+0031	Critical Spell Rate
+0032	Reduced Dance Effect
+0033	Chance Of Free Revival
+0034	Improved Dodging
+0035	More Item Drops
+0036	Attack Up When Low On HP
+0037	Defense Up When Low On HP
+0038	Criticals Up When Low On HP
+0039	Damage To Flying Monsters
+003A	Strength Of Monster Minions
+003B	Status Effect Resistance
+003C	Helping Hand From Healix
+003D	HP Of Person/Object Defended
+003E	Chance Of Poisoning Upon Attack
+003F	Chance To Bedazzle Upon Attack
+0040	Chance To InstaDeath Upon Attack
+0041	Chance To Divide Upon Attack
+0042	Attacks Can Reduce Defense
+0043	Metal Monster Encounters Up
+0044	Ignore Enemy Block
+0045	Blast Resistance
+0046	No Recoil When Attacked
+0047	Ingredient Drop Rate
+0048	Medicinal Herb Drop Rate
+0049	Status Ailment Resistance
+004A	HP Down, Spell Resistance Up
+004B	Magical Might
+004C	Recover HP On Attack
+004D	Chance To Stun
+004E	Critical Hits On Weak Points
+004F	Occasionally Can't Stop Dancing
+0050	Occasionally Cursed
+0051	Status Ailments Last Longer
+0052	Gain Tension When Dancing
+0053	Can Pass On Own Ailments When Hit
+0054	Regenerate HP While Sleeping
+0055	Reduced Tag Trick MP Cost
+0056	Increased Tag Trick Damage
+0057	Substitution Medals Last Longer
+0058	Substitution Medals Are Stronger
+0059	More Magic Water
+005A	Critical Hits Occasionally Ignored
+005B	Attack Up When Ally Slain
+005C	Defense Up When Ally Slain
+005D	Tension UP When Ally Slain
+005E	Increased Status Ailment Chance
+005F	HP Regen When Damaged At Full MP
+0060	Gold Up, Experience Down
+0061	Experience Up, Proficiency Down
+0062	Proficiency Up, Gold Down
+0063	Damage Up With Status Ailments
+0064	Increased Critical Damage
+0065	Increased Critical Spell Damage
+0066	Magical Might Up, Max HP Down
+0067	Max MP Up, Max HP Down
+0068	Sometimes Resist Status Ailments
+0069	Fire Damage Up With Heavy Wands
+006A	Wind Damage Up With Heavy Wands
+006B	Lightning Damage Up With Heavy Wands
+006C	Explosion Damage Up With Heavy Wands
+006D	Darkness Damage Up With Heavy Wands
+006E	Sometimes Attract Enemies Attention
+006F	Get Targeted More
+0070	Avoid Some Monster Battles
+0071	Chance To Auto Defend
+0072	Damage Up With Small Party
+0073	MP Recovers When Low On HP
+0074	Tension Up When Low On HP
+0075	Reduced Freeze Time
+0076	Reduce Damage From Poison
+0077	Increase Kamikazee Power
+0078	Bedazzlement Resistance
+0079	Seal Resistance
+007A	Healstone Power
+007B	HP/MP Up At Max Tension
+007C	Recover MP On Critical Hit
+007D	Movement Speed
+007E	Bigger Arrows
+007F	Absorb More MP From Slimes
+0080	More Gold Nuglets From Slimes
+0081	Hit Metal Slimes More Easily
+0082	Quick Tension Gained When Fired Up
+FFFF	Nothing
+[/Effect]

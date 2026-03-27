@@ -1,0 +1,596 @@
+^3 = NAME: Super Bust-A-Move 2 (Ntsc-U)
+^2 = GameID: SLUS-20460
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0206A80 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0206A80 00206A83
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001E2F9F
++[M] Must Be On
+%Credits: InterAct
+$F0112A18 001E2F9F
+!!
+!Next Bubble 1:
++Black
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000000
++Blue
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000001
++Bomb Bubble
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000029
++Giant Black
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000010
++Giant Blue
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000011
++Giant Green
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000012
++Giant Orange
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000013
++Giant Purple
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000017
++Giant Red
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000014
++Giant White
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000015
++Giant Yellow
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000016
++Green
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000002
++Mini Black
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000008
++Mini Blue
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000009
++Mini Green
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 0000000A
++Mini Orange
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 0000000B
++Mini Purple
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 0000000F
++Mini Red
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 0000000C
++Mini White
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 0000000D
++Mini Yellow
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 0000000E
++Orange
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000003
++Purple
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000007
++Red
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000004
++Super Bubble
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000020
++White
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000005
++Yellow
+%Credits: Codejunkies
+$D02088F2 0000FEFF
+$103E2580 00000006
+!!
+!Next Bubble 1 (press L2 To Activate):
++Black
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000000
++Blue
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000001
++Bomb Bubble
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000029
++Giant Black
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000010
++Giant Blue
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000011
++Giant Green
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000012
++Giant Orange
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000013
++Giant Purple
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000017
++Giant Red
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000014
++Giant White
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000015
++Giant Yellow
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000016
++Green
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000002
++Mini Black
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000008
++Mini Blue
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000009
++Mini Green
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 0000000A
++Mini Orange
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 0000000B
++Mini Purple
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 0000000F
++Mini Red
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 0000000C
++Mini White
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 0000000D
++Mini Yellow
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 0000000E
++Orange
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000003
++Purple
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000007
++Red
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000004
++Super Bubble
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000020
++White
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000005
++Yellow
+%Credits: Codejunkies
+$D0208836 0000FEFF
+$10352F40 00000006
+!!
+!Next Bubble 2:
++Black
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000000
++Blue
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000001
++Bomb Bubble
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000029
++Giant Black
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000010
++Giant Blue
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000011
++Giant Green
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000012
++Giant Orange
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000013
++Giant Purple
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000017
++Giant Red
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000014
++Giant White
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000015
++Giant Yellow
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000016
++Green
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000002
++Mini Black
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000008
++Mini Blue
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000009
++Mini Green
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 0000000A
++Mini Orange
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 0000000B
++Mini Purple
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 0000000F
++Mini Red
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 0000000C
++Mini White
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 0000000D
++Mini Yellow
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 0000000E
++Orange
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000003
++Purple
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000007
++Red
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000004
++Super Bubble
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000020
++White
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000005
++Yellow
+%Credits: Codejunkies
+$D02088F2 0000FDFF
+$103E2580 00000006
+!!
+!Next Bubble 2 (press R2 To Activate):
++Black
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000000
++Blue
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000001
++Bomb Bubble
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000029
++Giant Black
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000010
++Giant Blue
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000011
++Giant Green
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000012
++Giant Orange
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000013
++Giant Purple
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000017
++Giant Red
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000014
++Giant White
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000015
++Giant Yellow
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000016
++Green
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000002
++Mini Black
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000008
++Mini Blue
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000009
++Mini Green
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 0000000A
++Mini Orange
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 0000000B
++Mini Purple
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 0000000F
++Mini Red
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 0000000C
++Mini White
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 0000000D
++Mini Yellow
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 0000000E
++Orange
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000003
++Purple
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000007
++Red
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000004
++Super Bubble
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000020
++White
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000005
++Yellow
+%Credits: Codejunkies
+$D0208836 0000FDFF
+$10352F40 00000006
+!!
+!Player 1 Codes:
++Bubbles Always Added
+%Credits: Codejunkies
+$10360BB4 00000230
++Bubbles Never Added
+%Credits: Codejunkies
+$10360BB4 00000000
++Have Bomb Bubble (Press R3 To Activate)
+%Credits: Codejunkies
+$D0208836 0000FFFB
+$103520E0 00000029
++Have Super Bubble (Press L3 To Activate)
+%Credits: Codejunkies
+$D0208836 0000FFFD
+$103520E0 00000020
++Infinite Bubble Shot Time
+%Credits: Codejunkies
+$10350538 00000000
++L2+R2=Quick P2 Ceiling Drop
+%Credits: Codejunkies
+$D0208836 0000FCFF
+$10507E50 00000008
++Max Score
+%Credits: Codejunkies
+$20350510 05F5E0FF
++Select=Stop Ceiling Drop
+%Credits: Codejunkies
+$D0208836 0000FFFE
+$10470600 00000000
+!!
+!Player 2 Codes:
++Bubbles Always Added
+%Credits: Codejunkies
+$103F01F4 00000230
++Bubbles Never Added
+%Credits: Codejunkies
+$103F01F4 00000000
++Have Bomb Bubble (Press R3 To Activate)
+%Credits: Codejunkies
+$D02088F2 0000FFFB
+$103E1720 00000029
++Have Super Bubble (Press L3 To Activate)
+%Credits: Codejunkies
+$D02088F2 0000FFFD
+$103E1720 00000020
++Infinite Bubble Shot Time
+%Credits: Codejunkies
+$103DFB78 00000000
++L2+R2=Quick P1 Ceiling Drop
+%Credits: Codejunkies
+$D02088F2 0000FCFF
+$10470600 00000008
++Max Score
+%Credits: Codejunkies
+$203DFB50 05F5E0FF
++No Bubble Shot Time
+%Credits: Codejunkies
+$D03DFB78 00000000
+$103DFB78 000001E8
++Select=Stop Ceiling Drop
+%Credits: Codejunkies
+$D02088F2 0000FFFE
+$10507E50 00000000
+!!
++Always Have Guide Line (All Modes)
+%Credits: Code Master
+$10146AFE 00001000
+$1033E1D8 00000001
++Always Have Guide Line (Puzzle Mode Only)
+%Credits: Code Master
+$1033E1D8 00000001
++Always Have Piece Modifier P1 {<I>0 - Black?<Br>01 - Blue<Br>02 - Green<Br>03 - Orange<Br>04 - Red<Br>05 - White<Br>06 - Yellow<Br>07 - Purple<Br>08 - Little Black?<Br>09 - Little Blue<Br>0A - Little Green<Br>0B - Little Orange<Br>0C - Little Red<Br>0D - Little White<Br>0E - Little Yellow<Br>0F - Little Purple<Br>10 - Huge Black?<Br>11 - Huge Blue<Br>12 - Huge Green<Br>13 - Huge Orange<Br>14 - Huge Red<Br>15 - Huge White<Br>16 - Huge Yellow<Br>17 - Huge Purple<Br>20 - Super Bubble<Br>29 - Bomb Bubble</I>}
+%Credits: Code Master
+$103520E0 000000??
++Always Have Piece Modifier P2
+%Credits: Code Master
+$103E1720 000000??
++Always Low Time (Puzzle Mode)
+%Credits: Code Master
+$2033E0D8 00000000
++Ceiling Always Closes In P1
+%Credits: Code Master
+$D0470600 00000000
+$10470600 00000008
++Ceiling Always Closes In P2
+%Credits: Code Master
+$D0507E50 00000000
+$10507E50 00000008
++Ceiling Never Closes In (Both Players)
+%Credits: Code Master
+$201501E0 00000000
++Ceiling Never Closes In P1
+%Credits: Code Master
+$10470600 00000000
++Ceiling Never Closes In P2
+%Credits: Code Master
+$10507E50 00000000
++Infinite Time To Shoot Bubble Out (Both Players)
+%Credits: Code Master
+$20138AE4 00000000
++Next Piece Modifier P1
+%Credits: Code Master
+$10352F40 000000??
++Next Piece Modifier P2
+%Credits: Code Master
+$103E2580 000000??
++P1 Needs 1 Win To Win
+%Credits: Code Master
+$D033E114 00000000
+$1033E114 00000001
++P1 Needs 1 Win To Win
+%Credits: Code Master
+$D033E116 00000000
+$1033E116 00000001
++P1 Never Wins
+%Credits: Code Master
+$1033E114 00000000
++P1 Never Wins
+%Credits: Code Master
+$1033E116 00000000
++P1 No Ammo
+%Credits: InterAct
+$103520E0 00000010
++P1 Press L3 For Super Bubble
+%Credits: Code Master
+$D0627A02 0000FFFD
+$103520E0 00000020
++P1 Press R3 For Bomb Bubble
+%Credits: Code Master
+$D0627A02 0000FFFB
+$103520E0 00000029
++P1 Score 0
+%Credits: InterAct
+$20350510 00000000
++P2 No Ammo
+%Credits: InterAct
+$103E1720 00000010
++P2 Press L3 For Super Bubble
+%Credits: Code Master
+$D0627C02 0000FFFD
+$103E1720 00000020
++P2 Press R3 For Bomb Bubble
+%Credits: Code Master
+$D0627C02 0000FFFB
+$103E1720 00000029
++P2 Score 0
+%Credits: InterAct
+$203DFB50 00000000
++Quick Score Gain P1
+%Credits: Code Master
+$10350510 0000FFFF
++Quick Score Gain P2
+%Credits: Code Master
+$103DFB50 0000FFFF
+!!
+

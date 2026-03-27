@@ -1,0 +1,9 @@
+^2 = GameID: BLES00159
+^3 = NAME: TimeShift
+^4 = FILE: SAVE.TSS
++Update Crc32 For Save.tss (required)
+(set range:0x000004,0x0C97FF)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

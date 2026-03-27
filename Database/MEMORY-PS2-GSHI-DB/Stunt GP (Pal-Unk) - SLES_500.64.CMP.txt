@@ -1,0 +1,50 @@
+^3 = NAME: Stunt GP (Pal-Unk)
+^2 = GameID: SLES-50064
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F02A771C 002A3767
++(M) Must Be On
+%Credits: Codejunkies
+$F02A3764 002A3767
+!!
++Comp Cars Dead On The Line
+%Credits: Codejunkies
+$20201F10 03E00008
+$20201F14 00000000
++Have All Cars
+%Credits: InterAct
+$20542B88 FFFFFFFF
+$20542B8C FFFFFFFF
+$20542B90 FFFFFFFF
+$20542B94 FFFFFFFF
+$20542B98 FFFFFFFF
+$20542B84 FFFFFFFF
+$20542B80 FFFFFFFF
++Low Fuel Consumption
+%Credits: Codejunkies
+$2020F4FC 03E00008
+$2020F500 00000000
++No Slow Down On Low Battery
+%Credits: Codejunkies
+$2020E218 03E00008
+$2020E21C 00000000
++Pots Of Cash (Championship Mode)
+%Credits: Codejunkies
+$1055C870 0000FFFF
+$1055C872 0000000A
++Stupid Opponents
+%Credits: Codejunkies
+$20202CA0 03E00008
+$20202CA4 00000000
++Ultra Grip Stat
+%Credits: Codejunkies
+$105BB118 00000070
++Ultra Power Stat
+%Credits: Codejunkies
+$105BB11C 00000070
++Ultra Stunt Stat
+%Credits: Codejunkies
+$105BB114 00000070
+!!
+

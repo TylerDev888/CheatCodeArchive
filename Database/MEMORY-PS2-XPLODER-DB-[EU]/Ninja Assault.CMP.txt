@@ -1,0 +1,30 @@
+^3 = NAME: Ninja Assault
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100000 0013C087
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$50A7E068 00000002
+$00A7E066 00000000
++Scrolls
+%Credits: Xploder
+$10A7E0A4 00000009
++Health
+%Credits: Xploder
+$50A7E0B8 00000002
+$00A7E0B6 00000000
++Scrolls
+%Credits: Xploder
+$10A7E0F4 00000009
+!!
+!Unlock:
++Shotgun
+%Credits: Xploder
+$00A847AA 00000001
++Magnum
+%Credits: Xploder
+$00A847A9 00000001
+!!

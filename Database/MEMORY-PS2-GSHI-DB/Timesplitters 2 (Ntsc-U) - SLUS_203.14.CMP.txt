@@ -1,0 +1,208 @@
+^3 = NAME: Timesplitters 2 (Ntsc-U)
+^2 = GameID: SLUS-20314
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F044D32C 0044D32F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0200008 0044D32F
+!!
+!Activate Individual Cheat Codes:
++All Characters Cloaked
+%Credits: Code Master
+$20323028 00000000
+$2032302C 00000000
++Big Hands
+%Credits: Code Master
+$202282F8 00000000
++Big Head Size
+%Credits: Code Master
+$20228220 00000000
++Cardboard Characters
+%Credits: Code Master
+$202281D4 00000000
++Fat Characters
+%Credits: Code Master
+$20228830 00000000
++Infinite Ammo
+%Credits: Code Master
+$202DA9A8 10000007
++Paintball
+%Credits: Code Master
+$20306670 00000000
+$20307AD4 00000000
++Rotating Heads
+%Credits: Code Master
+$20228950 00000000
++Silly Hats
+%Credits: Code Master
+$202C5470 00000000
++Slow Motion Deaths
+%Credits: Code Master
+$202C681C 00000000
++Small Head Size
+%Credits: Code Master
+$2022828C 00000000
+!!
+!The Following Codes Will Allow You To Save With The Built-In Cheats On.:
++Monster Big Head
+%Credits: InterAct
+$20228220 00000000
+$20228238 3C014100
++No Head
+%Credits: InterAct
+$20228220 00000000
+$20228238 3C013000
++Paintball Mode
+%Credits: InterAct
+$20306670 00000000
++Press L3+UP For Walk Through Walls {<I>L3+DOWN To Disable This Code.</I>}
+%Credits: InterAct
+$D04A04C2 0000FFED
+$20210708 00000000
+$D04A04C2 0000FFBD
+$20210708 4503008C
++Press R3+UP To Freeze Animation {<I>R3+DOWN To Disable This Code.</I>}
+%Credits: InterAct
+$D04A04C2 0000FFBB
+$2027E3F4 00A3100A
+$D04A04C2 0000FFEB
+$2027E3F4 24020000
++Press Square+Up Quick Animations {<I>Square+DOWN To Disable This Code.</I>}
+%Credits: InterAct
+$D04A04C2 00007FEF
+$2027E3F4 00A3100A
+$D04A04C2 00007FBF
+$2027E3F4 24020004
++Quick Death
+%Credits: InterAct
+$202C681C 00000000
+$202C6824 3C014080
++Quick Rotating Heads
+%Credits: InterAct
+$20228950 00000000
+$2022896C 3C014100
++Skinny Characters
+%Credits: InterAct
+$20228840 3C013F00
+$20228830 00000000
++Small Hands
+%Credits: InterAct
+$202282F8 00000000
+$20228310 3C013F00
++Super Fat Characters
+%Credits: InterAct
+$20228830 00000000
+$20228840 3C014040
++Super Massive Hands
+%Credits: InterAct
+$202282F8 00000000
+$20228310 3C014100
+!!
++Activate Cheat Modifier {<I>0001 - Unknown? 0002 - Big Head Size 0004 - Small Head Size 0008 - Big Hands 0010 - Infinite Ammo 0020 - Paintball 0040 - Fat Characters 0080 - Unknown 2? 0100 - All Characters Cloaked 0200 - Slow Motion Deaths 0400 - Cardboard Characters 0800 - Rotating Heads 1000 - Silly Hats</I>}
+%Credits: Code Master
+$1059D708 0000????
++All Cheats, Characters, Levels And Cutscenes Open
+%Credits: Codejunkies
+$2059D6FC FFFFFFFF
++Character Weight Modifier (Default 3FC0)
+%Credits: Code Master
+$20228830 00000000
+$10228840 0000????
++Death Speed Modifier (Default 3F80)
+%Credits: Code Master
+$202C681C 00000000
+$102C6824 0000????
++Extra Alternate Ammo
+%Credits: Code Master
+$202DA900 00471021
++Extra Ammo
+%Credits: InterAct
+$202DA91C 24420001
+$202DA900 24420001
++Extra Ammo
+%Credits: Code Master
+$202DBC9C 00671821
++Hand Size Modifier (Default 4000)
+%Credits: Code Master
+$202282F8 00000000
+$10228310 0000????
++Head Size Modifier (Default 3F80)
+%Credits: Code Master
+$20228220 00000000
+$10228238 0000????
++Infinite Alternate Ammo
+%Credits: Code Master
+$202DA908 00000000
++Infinite Ammo
+%Credits: InterAct
+$202DBC9C 34630000
++Infinite Ammo
+%Credits: InterAct
+$202DA9F0 00000000
++Infinite Ammo
+%Credits: Code Master
+$202DBCA0 00000000
++Infinite Armor
+%Credits: Code Master
+$203382FC C4620014
+$20338308 E4620010
++Infinite Armor
+%Credits: Codejunkies
+$200FFF00 3C044280
+$200FFF04 3C03004E
+$200FFF08 8C634140
+$200FFF10 10600003
+$200FFF18 AC640010
+$200FFF20 8F84D51C
+$200FFF24 0808A071
+$202281C0 0803FFC0
++Infinite Health
+%Credits: InterAct
+$2023FCA4 AC41019C
+$2023FBEC 3C014280
++Infinite Health
+%Credits: Code Master
+$2023FCA4 C44101A0
+$2023FCAC E441019C
++Never Reload
+%Credits: Code Master
+$202DA928 00000000
++Rotating Head Speed Modifier (Default 4000)
+%Credits: Code Master
+$20228950 00000000
+$1022896C 0000????
++Unlock All Arcade Custom Game Types
+%Credits: Code Master
+$105CC282 0000FFFF
+$105CC284 0000FFFF
++Unlock All Challenge Levels
+%Credits: Code Master
+$105CC280 0000FFFF
++Unlock All Characters
+%Credits: Code Master
+$105CC278 0000FFFF
+$205CC290 FFFFFFFF
+$205CC294 FFFFFFFF
+$105CC298 0000FFFF
+$105CC2A2 0000FFFF
+$205CC2A4 FFFFFFFF
++Unlock All Maps
+%Credits: InterAct
+$405CC268 00030001
+$FFFFFFFF 00000000
++Unlock All Single Player Easy Levels
+%Credits: Code Master
+$205CC268 FFFFFFFF
++Unlock All Single Player Hard Levels
+%Credits: Code Master
+$205CC270 FFFFFFFF
++Unlock All Single Player Normal Levels
+%Credits: Code Master
+$205CC26C FFFFFFFF
++Walk Thru Walls {<I>With This Code, Be Careful You Can Get Stuck Easily.</I>}
+%Credits: Code Master
+$20210708 00000000
+!!
+

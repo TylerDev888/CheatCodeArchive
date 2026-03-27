@@ -1,0 +1,205 @@
+^1 = HASH: 2DBC5095
+^3 = NAME: Rocky
+^2 = GameID: SLUS_205.59
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001257FF
+!!
+!Codes:
++Unlock All Characters
+%Credits: Code Master
+$2022DFF4 000000FF
++Infinite Time
+%Credits: Code Master
+$20244580 43340000
++Infinite Health P1
+%Credits: Code Master
+$20279040 3F800000
++75% Health P1
+%Credits: Code Master
+$D0279042 00003F80
+$20279040 3F400000
++50% Health P1
+%Credits: Code Master
+$D0279042 00003F80
+$20279040 3F000000
++25% Health P1
+%Credits: Code Master
+$D0279042 00003F80
+$20279040 3E800000
++No Health P1
+%Credits: Code Master
+$20279040 00000000
++Max Health Rebuild P1
+%Credits: Code Master
+$20279044 3F800000
++No Health Rebuild P1
+%Credits: Code Master
+$20279044 00000000
++Infinite Stamina P1
+%Credits: Code Master
+$20279048 3F800000
++Max Stamina Rebuild P1
+%Credits: Code Master
+$2027904C 3F800000
++No Stamina Rebuild P1
+%Credits: Code Master
+$2027904C 00000000
++Infinite Health P2
+%Credits: Code Master
+$20279900 3F800000
++75% Health P2
+%Credits: Code Master
+$D0279902 00003F80
+$20279900 3F400000
++50% Health P2
+%Credits: Code Master
+$D0279902 00003F80
+$20279900 3F000000
++25% Health P2
+%Credits: Code Master
+$D0279902 00003F80
+$20279900 3E800000
++No Health P2
+%Credits: Code Master
+$20279900 00000000
++Max Health Rebuild P2
+%Credits: Code Master
+$20279904 3F800000
++No Health Rebuild P2
+%Credits: Code Master
+$20279904 00000000
++Infinite Stamina P2
+%Credits: Code Master
+$20279908 3F800000
++Max Stamina Rebuild P2
+%Credits: Code Master
+$2027990C 3F800000
++No Stamina Rebuild P2
+%Credits: Code Master
+$2027990C 00000000
++Always 0 Knockdowns P1
+%Credits: Code Master
+$20278EC4 00000000
++Start With 1 Knockdown P1
+%Credits: Code Master
+$D0278EC4 00000000
+$20278EC4 00000001
++Start With 2 Knockdowns P1
+%Credits: Code Master
+$D0278EC4 00000000
+$20278EC4 00000002
++Start With 3 Knockdowns P1
+%Credits: Code Master
+$D0278EC4 00000000
+$20278EC4 00000003
++Always 0 Knockdowns P2
+%Credits: Code Master
+$20279784 00000000
++Start With 1 Knockdown P2
+%Credits: Code Master
+$D0279784 00000000
+$20279784 00000001
++Start With 2 Knockdowns P2
+%Credits: Code Master
+$D0279784 00000000
+$20279784 00000002
++Start With 3 Knockdowns P2
+%Credits: Code Master
+$D0279784 00000000
+$20279784 00000003
+!!
+!Start On Round Codes [Note 1]:
++Round 2
+%Credits: Code Master
+$D024457C 00000000
+$1024457C 00000001
++Round 3
+%Credits: Code Master
+$D024457C 00000000
+$1024457C 00000002
++Round 4
+%Credits: Code Master
+$D024457C 00000000
+$1024457C 00000003
++Round 5
+%Credits: Code Master
+$D024457C 00000000
+$1024457C 00000004
++Round 6
+%Credits: Code Master
+$D024457C 00000000
+$1024457C 00000005
++Round 7
+%Credits: Code Master
+$D024457C 00000000
+$1024457C 00000006
++Round 8
+%Credits: Code Master
+$D024457C 00000000
+$1024457C 00000007
++Round 9
+%Credits: Code Master
+$D024457C 00000000
+$1024457C 00000008
++Round 10
+%Credits: Code Master
+$D024457C 00000000
+$1024457C 00000009
+!!
+!Movie Mode Codes:
++Max Strength
+%Credits: Code Master
+$202DD114 00000064
++Max Speed
+%Credits: Code Master
+$202DD118 00000064
++Max Determination
+%Credits: Code Master
+$202DD11C 00000064
++Max Stamina
+%Credits: Code Master
+$202DD120 00000064
++Max Movement
+%Credits: Code Master
+$202DD124 00000064
+!!
+!Start On Fight Codes:
++Fight 2
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000001
++Fight 3
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000002
++Fight 4
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000003
++Fight 5
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000004
++Fight 6
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000005
++Fight 7
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000006
++Fight 8
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000007
++Fight 9
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000008
++Fight 10
+%Credits: Code Master
+$D02DD110 00000000
+$102DD110 00000009
+!!

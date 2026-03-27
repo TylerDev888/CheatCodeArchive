@@ -1,0 +1,20 @@
+^3 = NAME: Pool Master
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 002180CB
+!!
+!Score:
++Player 1 Always 50
+%Credits: Xploder
+$1022F62E 00000032
++Player 2 Always 0
+%Credits: Xploder
+$1022F658 00000000
++Player 1 Always 0
+%Credits: Xploder
+$1022F62E 00000000
++Player 2 Always 50
+%Credits: Xploder
+$1022F658 00000032
+!!

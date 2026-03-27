@@ -1,0 +1,9 @@
+^2 = GameID: BLES00660
+^3 = NAME: Vancouver 2010 - The Official Video Game of the Olympic Winter Games
+^4 = FILE: SAVE.BIN
++Update Crc32 For Save.bin (required)
+(set range:0x10,0x000407)
+$set pointer:eof+1
+$set range:0x10,pointer
+$set [hash]:CRC32
+$write at 0x000008:[hash]

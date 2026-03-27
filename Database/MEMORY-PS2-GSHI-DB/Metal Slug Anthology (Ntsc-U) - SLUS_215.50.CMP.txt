@@ -1,0 +1,373 @@
+^3 = NAME: Metal Slug Anthology (Ntsc-U)
+^2 = GameID: SLUS-21550
+!Master Codes:
++Enable Code
+%Credits: lee4
+$90219F44 0C08CA6D
++Enable Code
+%Credits: lee4
+$90240198 0C09000E
++Enable Code
+%Credits: lee4
+$F0187558 00219F47
++Enable Code
+%Credits: lee4
+$F0219F44 00219F47
+!!
++Game Indicator {<I>0:Metal Slug  1:Metal Slug 2 2:Metal Slug X 3:Metal Slug 3 4:Metal Slug 4 5:Metal Slug 5</I>}
+%Credits: lee4
+$D1FFCF9C 0000000?
++Language Mod {<I>0=Japanese<Br>1=English</I>}
+%Credits: lee4
+$20189D4C 2402000?
+!Metal Slug 1:
++Infinite Time
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 000000FF
+$00000001 00006E92
++P1 - Infinite Arms
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 0000FFFF
+$00010001 000004C2
++P1 - Infinite Bombs
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 00000063
+$00000001 000004C1
++P1 - Infinite Lives
+%Credits: lee4
+$D1FFCF9C 00000000
+$0182437E 00000065
++P1 - Infinite Lives
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 00000065
+$00000001 00000376
++P1 - Infinite Metal Slug Cannon
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 00000063
+$00000001 00000611
++P1 - Infinite Metal Slug Energy
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 00000030
+$00000001 000005E6
++P1 - Invincibility
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 000000FF
+$00000001 00000484
++P1 - Invincibility (Metal Slug)
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 000000FF
+$00000001 000005C4
++P1 - Weapon Modifier
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 00000004
+$00000001 000004B0
++P2 - Infinite Arms
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 0000FFFF
+$00010001 00000562
++P2 - Infinite Bombs
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 00000063
+$00000001 00000561
++P2 - Infinite Lives
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 00000065
+$00000001 00000416
++P2 - Infinite Metal Slug Cannon
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 00000063
+$00000001 000006B1
++P2 - Infinite Metal Slug Energy
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 00000030
+$00000001 00000686
++P2 - Invincibility
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 000000FF
+$00000001 00000524
++P2 - Invincibility (Metal Slug)
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 000000FF
+$00000001 00000664
++P2 - Weapon Modifier
+%Credits: lee4
+$E0020000 01FFCF9C
+$60256AF0 00000004
+$00000001 00000550
+!!
+!Metal Slug 2:
++P1 - Body Type Modifier {<I>00:Normal (Pistol) 01:Normal (Equiped Weapon) 02:Fat 03:Mummy</I>}
+%Credits: lee4
+$E0020001 01FFCF9C
+$60256AF0 000000??
+$00000001 00001524
++P1 - Body Type Modifier {<I>Body Type 00:Normal (Pistol) 01:Normal (Equiped Weapon) 02:Fat 03:Mummy</I>}
+%Credits: lee4
+$0192552C 000000??
++P1 - Infinite Arms
+%Credits: lee4
+$E0020001 01FFCF9C
+$60256AF0 0000FFFF
+$00010001 1000C34C
++P1 - Infinite Bombs
+%Credits: lee4
+$E0020001 01FFCF9C
+$60256AF0 00000063
+$00000001 0000C349
++P1 - Infinite Lives
+%Credits: lee4
+$D1FFCF9C 00000001
+$0192527F 00000063
++P1 - Infinite Lives
+%Credits: lee4
+$E0020001 01FFCF9C
+$60256AF0 00000063
+$00000001 00001277
++P1 - Invincibility
+%Credits: lee4
+$E0020001 01FFCF9C
+$60256AF0 000000FF
+$00000001 00001516
++P2 - Body Type Modifier {<I>00:Normal (Pistol) 01:Normal (Equiped Weapon) 02:Fat 03:Mummy</I>}
+%Credits: lee4
+$E0020001 01FFCF9C
+$60256AF0 000000??
+$00000001 000015CC
++P2 - Body Type Modifier {<I>Body Type 00:Normal (Pistol) 01:Normal (Equiped Weapon) 02:Fat 03:Mummy</I>}
+%Credits: lee4
+$019255D4 000000??
+!!
+!Metal Slug 3:
++P1 - Body Type *FAT*
+%Credits: lee4
+$E0040003 01FFCF9C
+$60256AF0 00000002
+$00000001 0000058E
+$60256AF0 000000FF
+$00000001 0000EAF6
++P1 - Body Type *FAT*
+%Credits: lee4
+$E0020003 01FFCF9C
+$01D84616 00000002
+$01D92B7E 000000FF
++P1 - Infinite Arms
+%Credits: lee4
+$E0020003 01FFCF9C
+$60256AF0 0000FFFF
+$00010001 0000EAFA
++P1 - Infinite Bombs
+%Credits: lee4
+$E0020003 01FFCF9C
+$60256AF0 00000063
+$00000001 0000EAF4
++P1 - Infinite Lives
+%Credits: lee4
+$D1FFCF9C 00000003
+$01D84342 00000064
++P1 - Infinite Lives
+%Credits: lee4
+$E0020003 01FFCF9C
+$60256AF0 00000064
+$00000001 000002BA
++P1 - Invincibility
+%Credits: lee4
+$E0020003 01FFCF9C
+$60256AF0 000000FF
+$00000001 00000580
++P2 - Body Type *FAT*
+%Credits: lee4
+$E0020003 01FFCF9C
+$01D846C6 00000002
+$01D92B8C 000000FF
++P2 - Body Type *FAT*
+%Credits: lee4
+$E0040003 01FFCF9C
+$60256AF0 00000002
+$00000001 0000063E
+$60256AF0 000000FF
+$00000001 0000EB04
+!!
+!Metal Slug 4:
++P1 - Infinite Arms
+%Credits: lee4
+$E0020004 01FFCF9C
+$60256AF0 0000FFFF
+$00010001 0000EDF2
++P1 - Infinite Bombs
+%Credits: lee4
+$E0020004 01FFCF9C
+$60256AF0 00000063
+$00000001 0000EDEC
++P1 - Infinite Lives
+%Credits: lee4
+$D1FFCF9C 00000004
+$01B84B10 00000064
++P1 - Infinite Lives
+%Credits: lee4
+$E0020004 01FFCF9C
+$60256AF0 00000064
+$00000001 00000A88
++P1 - Invincibility
+%Credits: lee4
+$E0040004 01FFCF9C
+$60256AF0 00000040
+$00000001 00000D16
+$60256AF0 00000057
+$00000001 00000D40
+!!
+!Metal Slug 5:
++P1 - Infinite Arms
+%Credits: lee4
+$E0020005 01FFCF9C
+$60256AF0 0000FFFF
+$00010001 0000D45C
++P1 - Infinite Bombs
+%Credits: lee4
+$E0020005 01FFCF9C
+$60256AF0 00000063
+$00000001 0000D456
++P1 - Infinite Lives
+%Credits: lee4
+$D1FFCF9C 00000005
+$01B24A48 00000064
++P1 - Infinite Lives
+%Credits: lee4
+$E0020005 01FFCF9C
+$60256AF0 00000064
+$00000001 00000A40
++P1 - Invincibility
+%Credits: lee4
+$E0020005 01FFCF9C
+$60256AF0 000000FF
+$00000001 00000D48
+!!
+!Metal Slug 6:
++(M) Ar2v2/Gs2v2
+%Credits: lee4
+$F01173D4 002E3347
++(M) CB6+/GS3+/XP4+
+%Credits: bfoos
+$902E3344 0C0BF04D
++(M) Cb/Gs/Xp
+%Credits: bfoos>lee4
+$903099D8 0C0C261E
++(M) Good For Armax
+%Credits: bfoos
+$F02E3344 002E3347
++Language Mod {<I>0=Japanese<Br>1=English</I>}
+%Credits: lee4
+$20117CD8 240200??
++P1 - Infinite Arms
+%Credits: lee4
+$112DA5C8 0000FFFF
++P1 - Infinite Bombs
+%Credits: lee4
+$012DA5C5 00000063
++P1 - Infinite Lives
+%Credits: lee4
+$012FB4FF 00000064
++P1 - Invincibility
+%Credits: lee4
+$012DA588 00000069
++P1 - Weapon Modifier (Block#1) {<I>00:Normal Gun 02:Shotgun 03:Rocket Launcher 04:Flame Shot 05:Heavy Machine Gun 06:Laser Gun 07:Big Shotgun 08:Big Rocket Launcher 09:Big Flame Shot 0A:Big Heavy Machine Gun 0B:Big Laser Gun 0C:Enemy Chaser 0D:Iron Lizard 0E:Drop Shot 0F:Super Grenade  12:Two Machine Gun 13:Z Sword</I>}
+%Credits: CMX
+$012DA5D0 000000??
+$012DA5D4 00000014
++P1 - Weapon Modifier (Block#2) {<I>00:Normal Gun 02:Shotgun 03:Rocket Launcher 04:Flame Shot 05:Heavy Machine Gun 06:Laser Gun 07:Big Shotgun 08:Big Rocket Launcher 09:Big Flame Shot 0A:Big Heavy Machine Gun 0B:Big Laser Gun 0C:Enemy Chaser 0D:Iron Lizard 0E:Drop Shot 0F:Super Grenade  12:Two Machine Gun 13:Z Sword</I>}
+%Credits: CMX
+$012DA5D1 000000??
+$012DA5D6 00000014
++P1 Joker
+%Credits: lee4
+$D0531642 0000????
++P2 - Infinite Arms
+%Credits: lee4
+$112FB1D0 0000FFFF
++P2 - Infinite Bombs
+%Credits: lee4
+$012FB1CD 00000063
++P2 - Infinite Lives
+%Credits: lee4
+$012DADB7 00000064
++P2 - Invincibility
+%Credits: lee4
+$012FB190 00000069
++P2 - Weapon Modifier (Block#1) {<I>00:Normal Gun 02:Shotgun 03:Rocket Launcher 04:Flame Shot 05:Heavy Machine Gun 06:Laser Gun 07:Big Shotgun 08:Big Rocket Launcher 09:Big Flame Shot 0A:Big Heavy Machine Gun 0B:Big Laser Gun 0C:Enemy Chaser 0D:Iron Lizard 0E:Drop Shot 0F:Super Grenade  12:Two Machine Gun 13:Z Sword</I>}
+%Credits: CMX
+$012FB1D8 000000??
+$012FB1DC 00000014
++P2 - Weapon Modifier (Block#2) {<I>00:Normal Gun 02:Shotgun 03:Rocket Launcher 04:Flame Shot 05:Heavy Machine Gun 06:Laser Gun 07:Big Shotgun 08:Big Rocket Launcher 09:Big Flame Shot 0A:Big Heavy Machine Gun 0B:Big Laser Gun 0C:Enemy Chaser 0D:Iron Lizard 0E:Drop Shot 0F:Super Grenade  12:Two Machine Gun 13:Z Sword</I>}
+%Credits: CMX
+$012FB1D9 000000??
+$012FB1DE 00000014
++P2 Joker
+%Credits: lee4
+$D0531A42 0000????
+!!
+!Metal Slug X:
++P1 - Body Type (FAT)
+%Credits: lee4
+$E0020002 01FFCF9C
+$0193072B 00000002
+$0193072C 000000FF
++P1 - Body Type (FAT)
+%Credits: lee4
+$E0040002 01FFCF9C
+$60256AF0 00000002
+$00000001 0000C723
+$60256AF0 000000FF
+$00000001 0000C724
++P1 - Infinite Arms
+%Credits: lee4
+$E0020002 01FFCF9C
+$60256AF0 0000FFFF
+$00010001 1000C724
++P1 - Infinite Bombs
+%Credits: lee4
+$E0020002 01FFCF9C
+$60256AF0 00000063
+$00000001 0000C721
++P1 - Infinite Lives
+%Credits: lee4
+$D1FFCF9C 00000002
+$01925291 00000063
++P1 - Infinite Lives
+%Credits: lee4
+$E0020002 01FFCF9C
+$60256AF0 00000063
+$00000001 00001289
++P1 - Invincibility (You Can Still Die In Vehicles)
+%Credits: lee4
+$E0040002 01FFCF9C
+$60256AF0 00000040
+$00000001 00001522
+$60256AF0 000000FF
+$00000001 00001548
+!!
++P1 Joker
+%Credits: lee4
+$D033EE02 0000????
++P2 Joker
+%Credits: lee4
+$D033F202 0000????
++RAM Pointer
+%Credits: lee4
+$E002000? 01FFCF9C
+!!
+

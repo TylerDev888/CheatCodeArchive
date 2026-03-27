@@ -1,0 +1,28 @@
+^3 = NAME: Virtua Fighter - 10Th Anniversary Edition (Ntsc-J)
+^2 = GameID: SLPM-68018
++Infinite Round Time
+%Credits: BigBossman
+$1073468A 00005050
++Infinite Time To Select Character {<I>Turn Off After Selecting Character.</I>}
+%Credits: BigBossman
+$0073401A 000000BA
++Player 1 Advances To Next Fight After Winning 1 Round
+%Credits: BigBossman
+$007346C0 00000002
++Player 1 Infinite Health
+%Credits: BigBossman
+$0072F890 000000C9
++Player 1 Modifier {<I>Characters At Values &Quot;10&Quot;, &Quot;11&Quot;, &Amp; &Quot;12&Quot; Can Only Perform Blocks &Amp; Jumping Attacks.<Br>Values -<Br>00 - Akira<Br>01 - Sarah<Br>02 - Lau<Br>03 - Shun<Br>04 - Jeffry<Br>05 - Pai<Br>06 - Jacky<Br>07 - Kage<Br>08 - Lion<Br>09 - Wolf<Br>0A - Aoi<Br>0B - Lei-Fei<Br>0C - Vanessa<Br>0D - Dural<Br>0E - Goh<Br>0F - Brad<Br>10 - Unnamed Female Character 1<Br>11 - Unnamed Female Character 2<Br>12 - Shun (Female Character With A Detached Head)<Br>13 - Froze</I>}
+%Credits: BigBossman
+$00734810 000000??
++Player 2 Modifier
+%Credits: BigBossman
+$00734814 000000??
++Player 2 Never Wins Rounds
+%Credits: BigBossman
+$007346C1 00000000
++Player 2 No Health
+%Credits: BigBossman
+$007300C0 00000000
+!!
+

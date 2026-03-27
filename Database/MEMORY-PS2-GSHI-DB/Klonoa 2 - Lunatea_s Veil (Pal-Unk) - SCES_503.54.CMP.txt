@@ -1,0 +1,87 @@
+^3 = NAME: Klonoa 2 - Lunatea's Veil (Pal-Unk)
+^2 = GameID: SCES-50354
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01A4090 0030520F
++(M) Must Be On
+%Credits: Codejunkies
+$F030520C 0030520F
++Enable Code (Must Be On) {<I>For 60Hz NTSC Mode</I>}
+%Credits: lee4
+$9030520C 0C0C86D4
++Enable Code (Must Be On) {<I>For 60Hz NTSC Mode</I>}
+%Credits: lee4
+$90305254 00832021
++Enable Code (Must Be On) {<I>For 60Hz NTSC Mode</I>}
+%Credits: lee4
+$90304BBC 0C0C8540
++Enable Code (Must Be On) {<I>For 60Hz NTSC Mode</I>}
+%Credits: lee4
+$90304C04 00832021
+!!
+!For 60Hz NTSC mode:
++Always Low Attack Time
+%Credits: lee4
+$D0377914 003001E0
+$20377914 00000001
++Infinite Air
+%Credits: lee4
+$1037790A 00003F80
++Infinite Health
+%Credits: lee4
+$003778E0 00000006
++Infinite Lives
+%Credits: lee4
+$003778E8 00000063
+!!
++Have 99 Gems
+%Credits: InterAct
+$309F9A7B 64DA29B6
+$309F9A7F 64DA29B6
+!Health Codes:
++All Momett Dolls
+%Credits: Codejunkies
+$003532E3 00000006
+$203532E4 06060606
+$203532E8 06060606
+$203532EC 06060606
+$203532F0 06060606
++All Visions Open
+%Credits: Codejunkies
+$203532C8 FFFFFFFF
+$203532F0 203532F4
+$203532F8 203532FC
+$20353300 20353304
+$20353308 2035330C
++Have 99 Gems
+%Credits: Codejunkies
+$1040EFD0 00000063
+$1040EFD4 00000063
++Infinite Health
+%Credits: Codejunkies
+$10377FE0 00000006
++Infinite Lives
+%Credits: Codejunkies
+$10377FE8 00000063
++Max Gems On All Levels
+%Credits: Codejunkies
+$203532D0 FFFFFFFF
+$203532D4 FFFFFFFF
+$203532D8 FFFFFFFF
+$203532DC FFFFFFFF
+$103532E0 0000FFFF
+$003532E2 000000FF
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$10377FE0 00000003
+$10377FE0 00000003
+!!
++Infinite Health
+%Credits: InterAct
+$30BA2A8B 64DA29D7
++Infinite Lives
+%Credits: InterAct
+$30BA2A93 64DA29B6
+!!
+

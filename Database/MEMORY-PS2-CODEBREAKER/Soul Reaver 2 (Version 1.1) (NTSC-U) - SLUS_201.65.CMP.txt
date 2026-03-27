@@ -1,0 +1,241 @@
+^1 = HASH: 230CB71D
+^3 = NAME: Soul Reaver 2 (Version 1.1)
+^2 = GameID: SLUS_201.65
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Lajos Szalay
+$F0100008 001EEDA7
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Lajos Szalay
+$901EEDA4 0C07D2AF
++Press X For Moon Jump (Dont Use With Fly Mode)
+%Credits: Lajos Szalay
+$D026D5C0 0000BFFF
+$2026DB88 42E00000
++Fly Mode (Press X Repeatedly To Fall Back To Normal)
+%Credits: Lajos Szalay
+$21FD4B90 00000003
++Invincibility (Press R3 To Activate, L3 To De-Activate)
+%Credits: Lajos Szalay
+$D026D5C0 0000FFFB
+$1023C5D4 00000000
+$D026D5C0 0000FFFD
+$1023C5D4 00000800
++Display Short Stats Debug Info
+%Credits: Lajos Szalay
+$2012858C 00000000
++16X9 Widescreen Mode Always On
+%Credits: Lajos Szalay
+$2023F420 00000001
++Disable HUD
+%Credits: Lajos Szalay
+$2013E494 00000000
++No Optional Signals
+%Credits: Lajos Szalay
+$2023C684 00000040
++Skip First Puppet Show
+%Credits: Lajos Szalay
+$1023C68A 000000A0
++Quick Movement{With This Code, Press L1+R1+Right To Activate It, And L1+R1+Left To Deactivate It.}
+%Credits: Lajos Szalay
+$D026D5C0 0000F3DF
+$0023C6EB 00000001
+$D026D5C0 0000F37F
+$0023C6EB 00000000
++All Face Attr/Flags Activated
+%Credits: Lajos Szalay
+$2023C6F8 FFFFFFFF
++Time Mult (Default 1000)
+%Credits: Lajos Szalay
+$2023C754 0000????
++Frame Rate Lock Modifier (01-03)
+%Credits: Lajos Szalay
+$2023C758 000000??
++Switch Camera Mode{With This Code, Press L1+R1+Up For Normal Camera, Press L1+R1+Down For New Free Camera.}
+%Credits: Lajos Szalay
+$D026D5C0 0000F3EF
+$2023F454 00000000
+$D026D5C0 0000F3BF
+$2023F454 00000007
++Projected Shadows
+%Credits: Lajos Szalay
+$2023FD14 00000001
++Disable Sun
+%Credits: Lajos Szalay
+$2023FD18 00000001
++Fog Far Modifier (Default 2CEC)
+%Credits: Lajos Szalay
+$2023FD50 0000????
++Fog Near Modifier (Default 2904)
+%Credits: Lajos Szalay
+$2023FD54 0000????
++Fog Red Modifier
+%Credits: Lajos Szalay
+$2023FD5C 000000??
++Fog Green Modifier
+%Credits: Lajos Szalay
+$2023FD60 000000??
++Fog Blue Modifier
+%Credits: Lajos Szalay
+$2023FD64 000000??
++Health Level Modifier (00-04)
+%Credits: Lajos Szalay
+$2023FD68 000000??
++Mana Level Modifier (00-0D)
+%Credits: Lajos Szalay
+$2023FD6C 000000??
++New Combat Camera
+%Credits: Lajos Szalay
+$2023FD70 00000001
++Have All Abilities
+%Credits: Lajos Szalay
+$20242764 3FFFFEFF
++Sunny Health Meter
+%Credits: Lajos Szalay
+$202E8AA8 00002800
++Activate Cheat Modifier 1
+%Credits: Lajos Szalay
+$20242770 000000??
++Activate Debug Cheat Modifier 1
+%Credits: Lajos Szalay
+$2023C5D0 ????????
++Activate Debug Cheat Modifier 2
+%Credits: Lajos Szalay
+$2023C5D4 ????????
++Activate Debug Cheat Modifier 3
+%Credits: Lajos Szalay
+$2023C5D8 ????????
++Character Width Modifier (Default 3F800000)
+%Credits: Lajos Szalay
+$2026DAF0 ????????
++Character Depth Modifier (Default 3F800000)
+%Credits: Lajos Szalay
+$2026DAF4 ????????
++Character Height Modifier (Default 3F800000)
+%Credits: Lajos Szalay
+$2026DAF8 ????????
++Invisible
+%Credits: Lajos Szalay
+$0026DBB9 0000000C
++Transparent
+%Credits: Lajos Szalay
+$0026DC59 0000000A
++Debug Menu{With This Code, Press L3 To Enter The Debug Menu, When You Are Finished In There, Press R3 To Resume Gameplay.}
+%Credits: Lajos Szalay
+$E001FFFD 0026D5C0
+$1023C6A6 00000004
+$E002FFFB 0026D5C0
+$1023C6A6 00000000
+$0026DBB5 00000006
+!!
+!Have More Debug Option Codes [Note 4]:
++Press Down+R2 For Print/PS2 Stats Debug Screen
+%Credits: Lajos Szalay
+$D026D5C0 0000FDBF
+$20242704 0023FE38
++Press Right+R2 For Save Debug Screen{With This Code, Does This Even Work?}
+%Credits: Lajos Szalay
+$D026D5C0 0000FDDF
+$20242704 0023FEC8
++Press Up+R1 For Event Debug Screen
+%Credits: Lajos Szalay
+$D026D5C0 0000F7EF
+$20242704 0023FF28
++Press Down+R1 For Fog Debug Screen
+%Credits: Lajos Szalay
+$D026D5C0 0000F7BF
+$20242704 0023FFD0
++Press Right+R1 For Misc. Debug Screen
+%Credits: Lajos Szalay
+$D026D5C0 0000F7DF
+$20242704 00240090
++Press Up+R2 For Face Attr/Flag Debug Screen
+%Credits: Lajos Szalay
+$D026D5C0 0000FDEF
+$20242704 002401F8
++Press Left+R1 For Misc. 2 Debug Screen
+%Credits: Lajos Szalay
+$D026D5C0 0000F77F
+$20242704 00240B40
++Press Up+R1+R2 For New Combat Debug Screen
+%Credits: Lajos Szalay
+$D026D5C0 0000F5EF
+$20242704 00240EA0
++Press Left+R2 For Monster Debug Screen
+%Credits: Lajos Szalay
+$D026D5C0 0000FD7F
+$20242704 00241020
+!!
+!Reaver Modifier Codes [Note 6]:
++Press Up+L2 For Spectral Reaver
+%Credits: Lajos Szalay
+$D026D5C0 0000FEEF
+$20242768 00000400
++Press Right+L2 For Material Reaver
+%Credits: Lajos Szalay
+$D026D5C0 0000FEDF
+$20242768 00000800
++Press Up+L1 For Dark Reaver
+%Credits: Lajos Szalay
+$D026D5C0 0000FBEF
+$20242768 00001000
++Press Right+L1 For Light Reaver
+%Credits: Lajos Szalay
+$D026D5C0 0000FBDF
+$20242768 00002000
++Press Down+L1 For Air Reaver
+%Credits: Lajos Szalay
+$D026D5C0 0000FBBF
+$20242768 00004000
++Press Left+L1 For Fire Reaver
+%Credits: Lajos Szalay
+$D026D5C0 0000FB7F
+$20242768 00008000
++Press Down+L2 For Water Reaver
+%Credits: Lajos Szalay
+$D026D5C0 0000FEBF
+$20242768 00010000
++Press Left+L2 For Earth Reaver
+%Credits: Lajos Szalay
+$D026D5C0 0000FEBF
+$20242768 00020000
++Press Up+L1+L2 For Spirit Reaver
+%Credits: Lajos Szalay
+$D026D5C0 0000FEBF
+$20242768 00040000
+!!
+^6 = MODS:
+Quantity Digits to Accompany Activate Cheat Modifier 1 Code
+01 - Draw Puzzle Cone
+02 - Autoface Toggle Mode
+04 - Show Tap And Hold
+08 - Show Autoface Trail
+10 - Show Collide Info
+20 - Does No Damage
+40 - Fast Puppet Shows
+Quantity Digits to Accompany Activate Debug Cheat Modifier 1 Code
+00000010 0000000-
+00004000 0000000-
+00080000 0000000-
+00200000 0000000-
+00800000 0000000-
+02000000 0000000-
+10000000 0000000-
+40000000 0000000-
+Quantity Digits to Accompany Activate Debug Cheat Modifier 2 Code
+00000001 0000000-
+00000002 0000000-
+00000004 0000000-
+00000008 0000000-
+00000010 0000000-
+00000020 0000000-
+00000040 0000000-
+00000100 0000000-
+00000800 0000000-
+00008000 0000000-
+00400000 0000000-
+00800000 0000000-
+Quantity Digits to Accompany Activate Debug Cheat Modifier 3 Code
+00000008 0000000-
+00000010 0000000-
+00000020 0000000-

@@ -1,0 +1,430 @@
+^3 = NAME: Baldur's Gate - Dark Alliance (Ntsc-U)
+^2 = GameID: SLUS-20035
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0202F7C 00205FC7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00205FC7
+!!
++Always Drizzt P1
+%Credits: Code Master
+$102979AC 00000003
+$102979B0 00000003
++Always Drizzt P2
+%Credits: Code Master
+$1029B28C 00000003
+$1029B290 00000003
++Always Dwarf P1
+%Credits: Code Master
+$102979AC 00000002
+$102979B0 00000002
++Always Dwarf P2
+%Credits: Code Master
+$1029B28C 00000002
+$1029B290 00000002
++Always Elf P1
+%Credits: Code Master
+$102979AC 00000001
+$102979B0 00000001
++Always Elf P2
+%Credits: Code Master
+$1029B28C 00000001
+$1029B290 00000001
++Always Human P1
+%Credits: Code Master
+$102979AC 00000000
+$102979B0 00000000
++Always Human P2
+%Credits: Code Master
+$1029B28C 00000000
+$1029B290 00000000
+!Attack Item Modifier Codes:
++Enable Attack Item Slots Modifier (01-16 Slots)
+%Credits: Code Master
+$20297E98 000000??
++Slot 1[MOD1]
+%Credits: Code Master
+$20297A98 00??????
++Slot 2
+%Credits: Code Master
+$20297AA8 00??????
++Slot 3
+%Credits: Code Master
+$20297AB8 00??????
++Slot 4
+%Credits: Code Master
+$20297AC8 00??????
++Slot 5
+%Credits: Code Master
+$20297AD8 00??????
++Slot 6
+%Credits: Code Master
+$20297AE8 00??????
++Slot 7
+%Credits: Code Master
+$20297AF8 00??????
++Slot 8
+%Credits: Code Master
+$20297B08 00??????
++Slot 9
+%Credits: Code Master
+$20297B18 00??????
++Slot 10
+%Credits: Code Master
+$20297B28 00??????
++Slot 11
+%Credits: Code Master
+$20297B38 00??????
++Slot 12
+%Credits: Code Master
+$20297B48 00??????
++Slot 13
+%Credits: Code Master
+$20297B58 00??????
++Slot 14
+%Credits: Code Master
+$20297B68 00??????
++Slot 15
+%Credits: Code Master
+$20297B78 00??????
++Slot 16
+%Credits: Code Master
+$20297B88 00??????
++Slot 17
+%Credits: Code Master
+$20297B98 00??????
++Slot 18
+%Credits: Code Master
+$20297BA8 00??????
++Slot 19
+%Credits: Code Master
+$20297BB8 00??????
++Slot 20
+%Credits: Code Master
+$20297BC8 00??????
++Slot 21
+%Credits: Code Master
+$20297BD8 00??????
++Slot 22
+%Credits: Code Master
+$20297BE8 00??????
+!!
+!Attack Item Type Modifier Codes (00-10):
++Slot 1
+%Credits: Code Master
+$00297AA1 000000??
++Slot 2
+%Credits: Code Master
+$00297AB1 000000??
++Slot 3
+%Credits: Code Master
+$00297AC1 000000??
++Slot 4
+%Credits: Code Master
+$00297AD1 000000??
++Slot 5
+%Credits: Code Master
+$00297AE1 000000??
++Slot 6
+%Credits: Code Master
+$00297AF1 000000??
++Slot 7
+%Credits: Code Master
+$00297B01 000000??
++Slot 8
+%Credits: Code Master
+$00297B11 000000??
++Slot 9
+%Credits: Code Master
+$00297B21 000000??
++Slot 10
+%Credits: Code Master
+$00297B31 000000??
++Slot 11
+%Credits: Code Master
+$00297B41 000000??
++Slot 12
+%Credits: Code Master
+$00297B51 000000??
++Slot 13
+%Credits: Code Master
+$00297B61 000000??
++Slot 14
+%Credits: Code Master
+$00297B71 000000??
++Slot 15
+%Credits: Code Master
+$00297B81 000000??
++Slot 16
+%Credits: Code Master
+$00297B91 000000??
++Slot 17
+%Credits: Code Master
+$00297BA1 000000??
++Slot 18
+%Credits: Code Master
+$00297BB1 000000??
++Slot 19
+%Credits: Code Master
+$00297BC1 000000??
++Slot 20
+%Credits: Code Master
+$00297BD1 000000??
++Slot 21
+%Credits: Code Master
+$00297BE1 000000??
++Slot 22
+%Credits: Code Master
+$00297BF1 000000??
+!!
++Can Attack, Jump, & Block Inside Safe Areas
+%Credits: Josh_7774
+$00323AC4 00000000
++Carry No Weight
+%Credits: InterAct
+$10297A86 00000000
+!Defense Item Modifier Codes:
++Enable Defense Item Slots Modifier (01-22 Slots)
+%Credits: Code Master
+$202982A0 000000??
++Slot 1[MOD2]
+%Credits: Code Master
+$20297EA0 00??????
++Slot 2
+%Credits: Code Master
+$20297EB0 00??????
++Slot 3
+%Credits: Code Master
+$20297EC0 00??????
++Slot 4
+%Credits: Code Master
+$20297ED0 00??????
++Slot 5
+%Credits: Code Master
+$20297EE0 00??????
++Slot 6
+%Credits: Code Master
+$20297EF0 00??????
++Slot 7
+%Credits: Code Master
+$20297F00 00??????
++Slot 8
+%Credits: Code Master
+$20297F10 00??????
++Slot 9
+%Credits: Code Master
+$20297F20 00??????
++Slot 10
+%Credits: Code Master
+$20297F30 00??????
++Slot 11
+%Credits: Code Master
+$20297F40 00??????
++Slot 12
+%Credits: Code Master
+$20297F50 00??????
++Slot 13
+%Credits: Code Master
+$20297F60 00??????
++Slot 14
+%Credits: Code Master
+$20297F70 00??????
++Slot 15
+%Credits: Code Master
+$20297F80 00??????
++Slot 16
+%Credits: Code Master
+$20297F90 00??????
++Slot 17
+%Credits: Code Master
+$20297FA0 00??????
++Slot 18
+%Credits: Code Master
+$20297FB0 00??????
++Slot 19
+%Credits: Code Master
+$20297FC0 00??????
++Slot 20
+%Credits: Code Master
+$20297FD0 00??????
++Slot 21
+%Credits: Code Master
+$20297FE0 00??????
++Slot 22
+%Credits: Code Master
+$20297FF0 00??????
++Slot 23
+%Credits: Code Master
+$20298000 00??????
++Slot 24
+%Credits: Code Master
+$20298010 00??????
++Slot 25
+%Credits: Code Master
+$20298020 00??????
++Slot 26
+%Credits: Code Master
+$20298030 00??????
++Slot 27
+%Credits: Code Master
+$20298040 00??????
++Slot 28
+%Credits: Code Master
+$20298050 00??????
++Slot 29
+%Credits: Code Master
+$20298060 00??????
++Slot 30
+%Credits: Code Master
+$20298070 00??????
++Slot 31
+%Credits: Code Master
+$20298080 00??????
++Slot 32
+%Credits: Code Master
+$20298090 00??????
++Slot 33
+%Credits: Code Master
+$202980A0 00??????
++Slot 34
+%Credits: Code Master
+$202980B0 00??????
+!!
++Infinite Gold - P1
+%Credits: Josh_7774
+$20297A3C 05F5E0FF
++Infinite Health
+%Credits: InterAct
+$20297A04 46C80000
++Infinite Magic
+%Credits: InterAct
+$20297A1C 46C80000
++Infinite Money P1
+%Credits: Code Master
+$10297A3C 0000FFFF
++Infinite Money P2
+%Credits: Code Master
+$1029B31C 0000FFFF
++Infinite Spell Points P1
+%Credits: Code Master
+$00297A40 00000063
++Infinite Spell Points P1
+%Credits: Code Master
+$0029B320 00000063
++Max Health
+%Credits: InterAct
+$20297A08 46C80000
++Max Magic
+%Credits: InterAct
+$20297A20 46C80000
++Max Money P2
+%Credits: Code Master
+$2029B31C 05F5E0FF
++Max/Infinite Money
+%Credits: InterAct
+$20297A3C 00989680
++P2 Inf Upgrade Pnts
+%Credits: Codejunkies
+$1029B320 00000063
+!Player 2 Codes:
++P2 Infinite Health
+%Credits: InterAct
+$2029B2E4 46C80000
++P2 Infinite Magic
+%Credits: InterAct
+$2029B2FC 46C80000
++P2 Infinite/Max Money
+%Credits: InterAct
+$2029B31C 00989680
++P2 Max Health
+%Credits: InterAct
+$2029B2E8 46C80000
++P2 Max Magic
+%Credits: InterAct
+$2029B300 46C80000
++P2 No Weight Carried
+%Credits: InterAct
+$1029B366 00000000
+!!
++Unrestricted Camera
+%Credits: Josh_7774
+$00323AC5 00000000
+![ASM]:
++Buying Stuff Doesn't Decrease Gold [ASM]
+%Credits: Josh_7774
+$20176868 00000000
++Carrying Capacity Never Gets Used Up [ASM]
+%Credits: Josh_7774
+$2016A77C 00000000
++Disable Character Flinching When Damaged [ASM]
+%Credits: Josh_7774
+$201648D0 24060000
++Enable Developer Cheat - Infinite Weight [ASM]
+%Credits: Josh_7774
+$2022D888 24020000
++Spell Use Timer Disabled [ASM]
+%Credits: Josh_7774
+$2015E348 00000000
+!!
+^6 = MODS
+[MOD1]
+002A7078 ShortBow
+002A70A8 00Arrows
+002A70D8 0000CluB
+002A7108 00DAggEr
+002A7138 000StAFF
+002A7168 00000Lt.
+002A7198 0Morning
+002A71C8 WArhAmmE
+002A71F8 0HAnDAxE
+002A7228 00BAttlE
+002A7258 000GrEAt
+002A7288 000Short
+002A72B8 0000Long
+002A7318 SCimitAr
+002A7348 0BAstArD
+002A7378 000GrEAt
+002A73A8 0000Onyx
+002A73D8 0HAlBErD
+002A7408 000SpEAr
+002A7438 ICingDEA
+002A7468 000Rusty
+[/MOD1]
+[MOD2]
+002A7498 00WooDEn
+002A74C8 0000Iron
+002A74F8 0ClothEs
+002A7528 000Cloth
+002A7558 000Cloth
+002A7588 00PADDED
+002A75B8 00PADDED
+002A75E8 00PADDED
+002A7618 00PADDED
+002A7648 0LEAthEr
+002A7678 0LEAthEr
+002A76A8 0LEAthEr
+002A76D8 0LEAthEr
+002A7708 0StuDDED
+002A7738 0StuDDED
+002A7768 0StuDDED
+002A7798 0StuDDED
+002A77C8 000SCAlE
+002A77F8 000SCAlE
+002A7828 000SCAlE
+002A7858 000SCAlE
+002A7888 ChAinmAi
+002A78B8 000ChAin
+002A78E8 000ChAin
+002A7918 000ChAin
+002A7948 0000HAlF
+002A7978 0000HAlF
+002A79A8 0000HAlF
+002A79D8 0000HAlF
+002A7A08 0000Full
+002A7A38 0000Full
+002A7A68 0000Full
+002A7A98 0000Full
+[/MOD2]
+

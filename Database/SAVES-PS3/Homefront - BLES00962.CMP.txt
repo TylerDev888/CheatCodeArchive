@@ -1,0 +1,9 @@
+^2 = GameID: BLES00962
+^3 = NAME: Homefront
+^4 = FILE: PAYLOAD
++Update Crc32big For Payload (required)
+(set range:0x000004,0x0004EE)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32Big
+$write at 0x000000:[hash]

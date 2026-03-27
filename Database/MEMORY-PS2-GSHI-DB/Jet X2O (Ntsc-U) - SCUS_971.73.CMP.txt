@@ -1,0 +1,876 @@
+^3 = NAME: Jet X2O (Ntsc-U)
+^2 = GameID: SCUS-97173
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01DE414 001DE417
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001DE417
+!!
+!Aftershock Craft Codes:
++Max Accel
+%Credits: Code Master
+$002ACF0A 0000007F
++Max Accel
+%Credits: Code Master
+$002ACF32 0000007F
++Max Accel
+%Credits: Code Master
+$002ACF5A 0000007F
++Max Accel
+%Credits: Code Master
+$002ACF82 0000007F
++Max Accel
+%Credits: Code Master
+$002ACEE2 0000007F
++Max Accel
+%Credits: Code Master
+$002ACFAA 0000007F
++Max Accel
+%Credits: Code Master
+$002ACFFA 0000007F
++Max Accel
+%Credits: Code Master
+$002ACFD2 0000007F
++Max All Stats
+%Credits: Code Master
+$202ACF80 7F7F7F7F
++Max All Stats
+%Credits: Code Master
+$202ACF08 7F7F7F7F
++Max All Stats
+%Credits: Code Master
+$202ACF58 7F7F7F7F
++Max All Stats
+%Credits: Code Master
+$202ACF30 7F7F7F7F
++Max All Stats
+%Credits: Code Master
+$202ACEE0 7F7F7F7F
++Max All Stats
+%Credits: Code Master
+$202ACFF8 7F7F7F7F
++Max All Stats
+%Credits: Code Master
+$202ACFD0 7F7F7F7F
++Max All Stats
+%Credits: Code Master
+$202ACFA8 7F7F7F7F
++Max Handling
+%Credits: Code Master
+$002ACF30 0000007F
++Max Handling
+%Credits: Code Master
+$002ACF58 0000007F
++Max Handling
+%Credits: Code Master
+$002ACF80 0000007F
++Max Handling
+%Credits: Code Master
+$002ACEE0 0000007F
++Max Handling
+%Credits: Code Master
+$002ACFA8 0000007F
++Max Handling
+%Credits: Code Master
+$002ACFF8 0000007F
++Max Handling
+%Credits: Code Master
+$002ACFD0 0000007F
++Max Speed
+%Credits: Code Master
+$002ACF31 0000007F
++Max Speed
+%Credits: Code Master
+$002ACF08 0000007F
++Max Speed
+%Credits: Code Master
+$002ACF09 0000007F
++Max Speed
+%Credits: Code Master
+$002ACFD1 0000007F
++Max Speed
+%Credits: Code Master
+$002ACF59 0000007F
++Max Speed
+%Credits: Code Master
+$002ACFA9 0000007F
++Max Speed
+%Credits: Code Master
+$002ACFF9 0000007F
++Max Speed
+%Credits: Code Master
+$002ACEE1 0000007F
++Max Speed
+%Credits: Code Master
+$002ACF81 0000007F
++Max Stability
+%Credits: Code Master
+$002ACF0B 0000007F
++Max Stability
+%Credits: Code Master
+$002ACF33 0000007F
++Max Stability
+%Credits: Code Master
+$002ACF5B 0000007F
++Max Stability
+%Credits: Code Master
+$002ACF83 0000007F
++Max Stability
+%Credits: Code Master
+$002ACEE3 0000007F
++Max Stability
+%Credits: Code Master
+$002ACFAB 0000007F
++Max Stability
+%Credits: Code Master
+$002ACFFB 0000007F
++Max Stability
+%Credits: Code Master
+$002ACFD3 0000007F
++Unlock Decal 1
+%Credits: Code Master
+$002ACE7C 00000001
++Unlock Decal 1
+%Credits: Code Master
+$002ACE6A 00000001
++Unlock Decal 1
+%Credits: Code Master
+$002ACE76 00000001
++Unlock Decal 1
+%Credits: Code Master
+$002ACE70 00000001
++Unlock Decal 1
+%Credits: Code Master
+$002ACE64 00000001
++Unlock Decal 1
+%Credits: Code Master
+$002ACE8E 00000001
++Unlock Decal 1
+%Credits: Code Master
+$002ACE88 00000001
++Unlock Decal 1
+%Credits: Code Master
+$002ACE82 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE7D 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE6B 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE77 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE71 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE65 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE8F 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE89 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE83 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE84 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE90 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE6C 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE72 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE78 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE7E 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE66 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE8A 00000001
+!!
++Boost Never Decreases
+%Credits: InterAct
+$20145AB8 03E00008
+$20145ABC 00000000
+$20145B38 03E00008
+$20145B3C 00000000
+!Counterforce Craft Codes:
++Max Accel
+%Credits: Code Master
+$002ACF9A 0000007F
++Max All Stats
+%Credits: Code Master
+$202ACF98 7F7F7F7F
++Max Handling
+%Credits: Code Master
+$002ACF98 0000007F
++Max Speed
+%Credits: Code Master
+$002ACF99 0000007F
++Max Stability
+%Credits: Code Master
+$002ACF9B 0000007F
+!!
+!Dark Thorne Craft Codes:
++Max Accel
+%Credits: Code Master
+$002ACF6E 0000007F
++Max All Stats
+%Credits: Code Master
+$202ACF6C 7F7F7F7F
++Max Handling
+%Credits: Code Master
+$002ACF6C 0000007F
++Max Speed
+%Credits: Code Master
+$002ACF6D 0000007F
++Max Stability
+%Credits: Code Master
+$002ACF6F 0000007F
+!!
+!Eva Del Toro Codes:
++Max Balance
+%Credits: Code Master
+$202839A8 3F800000
++Max Strength
+%Credits: Code Master
+$202839AC 3F800000
++Max Tricks
+%Credits: Code Master
+$202839B4 3F800000
++Max Weight
+%Credits: Code Master
+$202839B0 3F800000
+!!
+!Golden Tiger Craft Codes:
++Max Accel
+%Credits: Code Master
+$002ACFC6 0000007F
++Max All Stats
+%Credits: Code Master
+$202ACFC4 7F7F7F7F
++Max Handling
+%Credits: Code Master
+$002ACFC4 0000007F
++Max Speed
+%Credits: Code Master
+$002ACFC5 0000007F
++Max Stability
+%Credits: Code Master
+$002ACFC7 0000007F
+!!
++Have More Lift When Jumping
+%Credits: Codejunkies
+$202B6C64 54C80000
+!Karin Nielsen Codes:
++Max Balance
+%Credits: Code Master
+$20283994 3F800000
++Max Strength
+%Credits: Code Master
+$20283998 3F800000
++Max Tricks
+%Credits: Code Master
+$202839A0 3F800000
++Max Weight
+%Credits: Code Master
+$2028399C 3F800000
+!!
+!Kenji Tanaka Codes:
++Max Balance
+%Credits: Code Master
+$202839F8 3F800000
++Max Strength
+%Credits: Code Master
+$202839FC 3F800000
++Max Tricks
+%Credits: Code Master
+$20283A04 3F800000
++Max Weight
+%Credits: Code Master
+$20283A00 3F800000
+!!
+!Lia Cardoso Codes:
++Max Balance
+%Credits: Code Master
+$202839E4 3F800000
++Max Strength
+%Credits: Code Master
+$202839E8 3F800000
++Max Tricks
+%Credits: Code Master
+$202839F0 3F800000
++Max Weight
+%Credits: Code Master
+$202839EC 3F800000
+!!
+!Luc Lamouche Codes:
++Max Balance
+%Credits: Code Master
+$20283980 3F800000
++Max Strength
+%Credits: Code Master
+$20283984 3F800000
++Max Tricks
+%Credits: Code Master
+$2028398C 3F800000
++Max Weight
+%Credits: Code Master
+$20283988 3F800000
+!!
+!Mastermind Craft Codes:
++Max Accel
+%Credits: Code Master
+$002ACF16 0000007F
++Max All Stats
+%Credits: Code Master
+$202ACF14 7F7F7F7F
++Max Handling
+%Credits: Code Master
+$002ACF14 0000007F
++Max Speed
+%Credits: Code Master
+$002ACF15 0000007F
++Max Stability
+%Credits: Code Master
+$002ACF17 0000007F
+!!
+!Misc. Codes:
++Disable Collisions
+%Credits: Code Master
+$20165E90 03E00008
+$20165E94 00000000
++Fast Wave Speed
+%Credits: Code Master
+$202A5550 BFFF0000
++Hella Score Gain
+%Credits: Code Master
+$20114590 2407270F
++Infinite Boost (Upon Pickup)
+%Credits: Code Master
+$20145B10 00000000
+$20145B88 00000000
++Infinite Points Remaining
+%Credits: Code Master
+$D0269488 0010BFFF
+$202616E8 00000063
+$D0269488 0000BFFF
+$202616E8 00000000
++Infinite Turbo Boost
+%Credits: Code Master
+$20117A60 3C013FE8
+$20117A68 AE210000
++Max Speed Always 0-CPU Opponents
+%Credits: Code Master
+$2026446C 00000000
++Out Of Water Thrust Modifier (Default 3E8ccccd)
+%Credits: Code Master
+$202B6C64 ????????
++Unlock All Craft
+%Credits: Code Master
+$402ACE3C 00040001
+$01010101 00000000
++Unlock All Decals
+%Credits: Code Master
+$402ACE64 000C0001
+$01010101 00000000
++Unlock All Wetsuits
+%Credits: Code Master
+$402ACE4C 00060001
+$01010101 00000000
++Wave Height Modifier (Default 40A00000)
+%Credits: Code Master
+$202B6C14 ????????
++Waves Don't Move
+%Credits: Code Master
+$202A5550 00000000
+!!
+!Mixmaster Craft Codes:
++Max Accel
+%Credits: Code Master
+$002AD01E 0000007F
++Max All Stats
+%Credits: Code Master
+$202AD01C 7F7F7F7F
++Max Handling
+%Credits: Code Master
+$002AD01C 0000007F
++Max Speed
+%Credits: Code Master
+$002AD01D 0000007F
++Max Stability
+%Credits: Code Master
+$002AD01F 0000007F
+!!
+!Renegade Craft Codes:
++Max Accel
+%Credits: Code Master
+$002ACEEA 0000007F
++Max All Stats
+%Credits: Code Master
+$202ACEE8 7F7F7F7F
++Max Handling
+%Credits: Code Master
+$002ACEE8 0000007F
++Max Speed
+%Credits: Code Master
+$002ACEE9 0000007F
++Max Stability
+%Credits: Code Master
+$002ACEEB 0000007F
+!!
+!Sunburst Craft Codes:
++Max Accel
+%Credits: Code Master
+$002ACFF2 0000007F
++Max All Stats
+%Credits: Code Master
+$202ACFF0 7F7F7F7F
++Max Handling
+%Credits: Code Master
+$002ACFF0 0000007F
++Max Speed
+%Credits: Code Master
+$002ACFF1 0000007F
++Max Stability
+%Credits: Code Master
+$002ACFF3 0000007F
+!!
+!Taylor Jordan Codes:
++Max Balance
+%Credits: Code Master
+$2028396C 3F800000
++Max Strength
+%Credits: Code Master
+$20283970 3F800000
++Max Tricks
+%Credits: Code Master
+$20283978 3F800000
++Max Weight
+%Credits: Code Master
+$20283974 3F800000
+!!
+!Tsunami Craft Codes:
++Max Accel
+%Credits: Code Master
+$002ACF36 0000007F
++Max Accel
+%Credits: Code Master
+$002ACF5E 0000007F
++Max Accel
+%Credits: Code Master
+$002ACF86 0000007F
++Max Accel
+%Credits: Code Master
+$002ACEE6 0000007F
++Max Accel
+%Credits: Code Master
+$002ACFAE 0000007F
++Max Accel
+%Credits: Code Master
+$002ACFFE 0000007F
++Max Accel
+%Credits: Code Master
+$002ACFD6 0000007F
++Max All Stats
+%Credits: Code Master
+$202ACEE4 7F7F7F7F
++Max All Stats
+%Credits: Code Master
+$202ACF34 7F7F7F7F
++Max All Stats
+%Credits: Code Master
+$202ACF84 7F7F7F7F
++Max All Stats
+%Credits: Code Master
+$202ACFFC 7F7F7F7F
++Max All Stats
+%Credits: Code Master
+$202ACFAC 7F7F7F7F
++Max All Stats
+%Credits: Code Master
+$202ACFD4 7F7F7F7F
++Max All Stats
+%Credits: Code Master
+$202ACF5C 7F7F7F7F
++Max Handling
+%Credits: Code Master
+$002ACF34 0000007F
++Max Handling
+%Credits: Code Master
+$002ACEE4 0000007F
++Max Handling
+%Credits: Code Master
+$002ACF84 0000007F
++Max Handling
+%Credits: Code Master
+$002ACFD4 0000007F
++Max Handling
+%Credits: Code Master
+$002ACFAC 0000007F
++Max Handling
+%Credits: Code Master
+$002ACFFC 0000007F
++Max Handling
+%Credits: Code Master
+$002ACF5C 0000007F
++Max Speed
+%Credits: Code Master
+$002ACF35 0000007F
++Max Speed
+%Credits: Code Master
+$002ACF5D 0000007F
++Max Speed
+%Credits: Code Master
+$002ACF85 0000007F
++Max Speed
+%Credits: Code Master
+$002ACEE5 0000007F
++Max Speed
+%Credits: Code Master
+$002ACFAD 0000007F
++Max Speed
+%Credits: Code Master
+$002ACFFD 0000007F
++Max Speed
+%Credits: Code Master
+$002ACFD5 0000007F
++Max Stability
+%Credits: Code Master
+$002ACF37 0000007F
++Max Stability
+%Credits: Code Master
+$002ACEE7 0000007F
++Max Stability
+%Credits: Code Master
+$002ACF87 0000007F
++Max Stability
+%Credits: Code Master
+$002ACFD7 0000007F
++Max Stability
+%Credits: Code Master
+$002ACFAF 0000007F
++Max Stability
+%Credits: Code Master
+$002ACFFF 0000007F
++Max Stability
+%Credits: Code Master
+$002ACF5F 0000007F
++Unlock Decal 1
+%Credits: Code Master
+$002ACE6D 00000001
++Unlock Decal 1
+%Credits: Code Master
+$002ACE73 00000001
++Unlock Decal 1
+%Credits: Code Master
+$002ACE79 00000001
++Unlock Decal 1
+%Credits: Code Master
+$002ACE7F 00000001
++Unlock Decal 1
+%Credits: Code Master
+$002ACE67 00000001
++Unlock Decal 1
+%Credits: Code Master
+$002ACE85 00000001
++Unlock Decal 1
+%Credits: Code Master
+$002ACE91 00000001
++Unlock Decal 1
+%Credits: Code Master
+$002ACE8B 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE80 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE6E 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE74 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE7A 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE86 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE92 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE8C 00000001
++Unlock Decal 2
+%Credits: Code Master
+$002ACE68 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE87 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE93 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE6F 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE75 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE7B 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE81 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE69 00000001
++Unlock Decal 3
+%Credits: Code Master
+$002ACE8D 00000001
+!!
+!Unlock Craft Codes:
++Counterforce
+%Credits: Code Master
+$002ACE45 00000001
++Dark Thorne
+%Credits: Code Master
+$002ACE43 00000001
++Golden Tiger
+%Credits: Code Master
+$002ACE47 00000001
++Mastermind
+%Credits: Code Master
+$002ACE3F 00000001
++Mixmaster
+%Credits: Code Master
+$002ACE4B 00000001
++Renegade
+%Credits: Code Master
+$002ACE3D 00000001
++Sunburst
+%Credits: Code Master
+$002ACE49 00000001
++Tsunami
+%Credits: Code Master
+$002ACE3E 00000001
++Tsunami
+%Credits: Code Master
+$002ACE40 00000001
++Tsunami
+%Credits: Code Master
+$002ACE42 00000001
++Tsunami
+%Credits: Code Master
+$002ACE44 00000001
++Tsunami
+%Credits: Code Master
+$002ACE3C 00000001
++Tsunami
+%Credits: Code Master
+$002ACE46 00000001
++Tsunami
+%Credits: Code Master
+$002ACE4A 00000001
++Tsunami
+%Credits: Code Master
+$002ACE48 00000001
++Valkyrie
+%Credits: Code Master
+$002ACE41 00000001
+!!
+!Unlock Rider Codes:
++All Riders
+%Credits: Code Master
+$202ACE38 01010101
++All Riders
+%Credits: Code Master
+$20260A40 01010101
++Kenji Tanaka
+%Credits: Code Master
+$002ACE3B 00000001
++Kenji Tanaka
+%Credits: Code Master
+$00260A43 00000001
++Lia Cardoso
+%Credits: Code Master
+$002ACE3A 00000001
++Lia Cardoso
+%Credits: Code Master
+$00260A42 00000001
++Vittorio Calabria
+%Credits: Code Master
+$002ACE39 00000001
++Vittorio Calabria
+%Credits: Code Master
+$00260A41 00000001
++Vladi Zakharov
+%Credits: Code Master
+$002ACE38 00000001
++Vladi Zakharov
+%Credits: Code Master
+$00260A40 00000001
+!!
+!Unlock Track Codes:
++All Tracks
+%Credits: Code Master
+$202ACE94 01010101
++Aquatica
+%Credits: Code Master
+$002ACE96 00000001
++Metronox
+%Credits: Code Master
+$002ACE97 00000001
++Neotropic
+%Credits: Code Master
+$002ACE95 00000001
++Permafrost
+%Credits: Code Master
+$002ACE94 00000001
+!!
+!Unlock Wetsuit Codes:
++Wetsuit 1
+%Credits: Code Master
+$002ACE4F 00000001
++Wetsuit 1
+%Credits: Code Master
+$002ACE52 00000001
++Wetsuit 1
+%Credits: Code Master
+$002ACE55 00000001
++Wetsuit 1
+%Credits: Code Master
+$002ACE58 00000001
++Wetsuit 1
+%Credits: Code Master
+$002ACE4C 00000001
++Wetsuit 1
+%Credits: Code Master
+$002ACE5B 00000001
++Wetsuit 1
+%Credits: Code Master
+$002ACE61 00000001
++Wetsuit 1
+%Credits: Code Master
+$002ACE5E 00000001
++Wetsuit 2
+%Credits: Code Master
+$002ACE50 00000001
++Wetsuit 2
+%Credits: Code Master
+$002ACE53 00000001
++Wetsuit 2
+%Credits: Code Master
+$002ACE56 00000001
++Wetsuit 2
+%Credits: Code Master
+$002ACE59 00000001
++Wetsuit 2
+%Credits: Code Master
+$002ACE4D 00000001
++Wetsuit 2
+%Credits: Code Master
+$002ACE5C 00000001
++Wetsuit 2
+%Credits: Code Master
+$002ACE62 00000001
++Wetsuit 2
+%Credits: Code Master
+$002ACE5F 00000001
++Wetsuit 3
+%Credits: Code Master
+$002ACE51 00000001
++Wetsuit 3
+%Credits: Code Master
+$002ACE54 00000001
++Wetsuit 3
+%Credits: Code Master
+$002ACE57 00000001
++Wetsuit 3
+%Credits: Code Master
+$002ACE5A 00000001
++Wetsuit 3
+%Credits: Code Master
+$002ACE4E 00000001
++Wetsuit 3
+%Credits: Code Master
+$002ACE5D 00000001
++Wetsuit 3
+%Credits: Code Master
+$002ACE63 00000001
++Wetsuit 3
+%Credits: Code Master
+$002ACE60 00000001
+!!
+!Valkyrie Craft Codes:
++Max Accel
+%Credits: Code Master
+$002ACF42 0000007F
++Max All Stats
+%Credits: Code Master
+$202ACF40 7F7F7F7F
++Max Handling
+%Credits: Code Master
+$002ACF40 0000007F
++Max Speed
+%Credits: Code Master
+$002ACF41 0000007F
++Max Stability
+%Credits: Code Master
+$002ACF43 0000007F
+!!
+!Vittoria Calabria Codes:
++Max Balance
+%Credits: Code Master
+$202839D0 3F800000
++Max Strength
+%Credits: Code Master
+$202839D4 3F800000
++Max Tricks
+%Credits: Code Master
+$202839DC 3F800000
++Max Weight
+%Credits: Code Master
+$202839D8 3F800000
+!!
+!Vladi Zakharov Codes:
++Max Balance
+%Credits: Code Master
+$202839BC 3F800000
++Max Strength
+%Credits: Code Master
+$202839C0 3F800000
++Max Tricks
+%Credits: Code Master
+$202839C8 3F800000
++Max Weight
+%Credits: Code Master
+$202839C4 3F800000
+!!
+!Waves Codes:
++Big Waves
+%Credits: Codejunkies
+$202B6C14 41A00000
++No Waves
+%Credits: Codejunkies
+$202B6C14 00000000
++Turbo Waves
+%Credits: Codejunkies
+$202A5550 BFF00000
+!!
+!!
+

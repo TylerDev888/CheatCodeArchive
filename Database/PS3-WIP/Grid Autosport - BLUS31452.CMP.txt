@@ -1,0 +1,17 @@
+^2 = GameID: BLUS31452
+^3 = NAME: Grid Autosport
+(From aldotools)
+^4 = FILE: SECUINFO.BIN
++Update Crc32 For Secuinfo.bin (required)
+(set range:0x000004,0x000027)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]
+^4 = FILE: PROGRESS.DAT
++Update Sha256 For Progress.dat (required)
+(set range:0x000000,0x003EDE)
+$set pointer:eof-0x1F
+$set range:0x000000,pointer
+$set [hash]:sha256
+$write next (0):[hash]

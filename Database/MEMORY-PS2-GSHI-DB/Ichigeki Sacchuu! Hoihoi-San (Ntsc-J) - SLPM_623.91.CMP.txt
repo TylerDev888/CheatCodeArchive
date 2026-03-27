@@ -1,0 +1,21 @@
+^3 = NAME: Ichigeki Sacchuu! Hoihoi-San (Ntsc-J)
+^2 = GameID: SLPM-62391
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$901042F8 0C041066
+!!
++Enable Debug Menu [View Note] {<I>Press And Hold Start + Select Over The Option Main Menu Option To Enter This Screen.<Br>With The Code On You Can Also Access A Couple Of Extra Debug Options by pressing the following in the main debug screen:<br>*Pressing L2 + Circle will take you to Debug screen: Select BSV.<br>*Pressing L1 + Circle will take you to Debug screen: 2D Viewer.</i>}
+%Credits: punk7890
+$D038CBAE 0000DEFF
+$201440DC 24130017
+$D038CBAE 0000DBFF
+$201440DC 24130019
+$D038CBAE 0000FFFF
+$201440DC 00000000
+$D038CBAE 0000FFFF
+$001920EC 00000005
+$D038CBAE 0000FFF6
+$001920EC 0000001C
+!!
+

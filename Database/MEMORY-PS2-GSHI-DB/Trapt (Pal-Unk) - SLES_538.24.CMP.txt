@@ -1,0 +1,55 @@
+^3 = NAME: Trapt (Pal-Unk)
+^2 = GameID: SLES-53824
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F013E724 0013E727
+!!
+!Charge Time Codes:
++Charge Time Do Not Decrease Upon Use
+%Credits: Codejunkies
+$203182AC 00000000
++Instant Charge Time
+%Credits: Codejunkies
+$20256F34 A6230020
+$20256F38 00000000
+!!
+!Size Modifier Codes:
++Giant Allura
+%Credits: Codejunkies
+$200FFF00 3C010081
+$200FFF04 8C212330
+$200FFF08 3C043FF0
+$200FFF0C AC240134
+$200FFF10 AC240130
+$200FFF14 AC240138
+$200FFF18 0807F8BC
+$200FFF1C 3C043F80
+$201FE2E8 0803FFC0
++Mini Allura
+%Credits: Codejunkies
+$200FFF00 3C010081
+$200FFF04 8C212330
+$200FFF08 3C043F20
+$200FFF0C AC240134
+$200FFF10 AC240130
+$200FFF14 AC240138
+$200FFF18 0807F8BC
+$200FFF1C 3C043F80
+$201FE2E8 0803FFC0
+!!
++Infinite Health
+%Credits: Codejunkies
+$20176B58 00000000
++Infinite Time (Survival)
+%Credits: Codejunkies
+$201719B8 00000000
++Max Warl
+%Credits: Codejunkies
+$202BC510 3C0405F0
+$202BC514 AC440038
++One Hit Kills
+%Credits: Codejunkies
+$2016CD94 24030000
+!!
+

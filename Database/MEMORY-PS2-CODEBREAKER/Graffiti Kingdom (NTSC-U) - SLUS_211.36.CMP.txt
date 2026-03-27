@@ -1,0 +1,41 @@
+^1 = HASH: EF5B6AAD
+^3 = NAME: Graffiti Kingdom
+^2 = GameID: SLUS_211.36
+!Masters:
++Enable Code (Must Be On) [Read Note]
+%Credits: Code Master
+$90116124 0C0D6C8E
+$200C0298 03E00008
+$200C029C C6A30004
+$203F8C34 0C030088
+!!
+!Codes:
++Disable FMV
+%Credits: Code Master
+$20108590 24020001
++Max HP
+%Credits: Code Master
+$200C0220 2401270F
+$200C0224 AEA10008
++Infinite HP
+%Credits: Code Master
+$200C0228 2401270F
+$200C022C AEA10004
++Max AP
+%Credits: Code Master
+$200C0230 2401270F
+$200C0234 AEA10010
++Infinite AP
+%Credits: Code Master
+$200C0238 2401270F
+$200C023C AEA1000C
++P1 Press L1+Up For Level Gain
+%Credits: Code Master
+$D06EB042 0000FBEF
+$203F8C78 A6000036
+$D06EB042 0000FFFF
+$203F8C78 00000000
++Infinite Captures Remaining
+%Credits: Code Master
+$203A0194 00000000
+!!

@@ -1,0 +1,41 @@
+^3 = NAME: International Superstar Soccer 2 (Pal-Unk)
+^2 = GameID: SLES-50787
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0127008 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0127008 0012700B
+!!
+!Created Player Codes:
++Bigger Created Players
+%Credits: Codejunkies
+$102B9374 0000FFFF
++Opposition Goalie Cannot Move
+%Credits: Codejunkies
+$202DD870 0C00401D
++Small Created Players
+%Credits: Codejunkies
+$102B9374 00000000
+!!
++P1 Scores 0 (Press L2 To Activate)
+%Credits: Codejunkies
+$D02B5502 0000FEFF
+$102D9910 00000000
++P1 Scores 99 (Press L2 To Activate)
+%Credits: Codejunkies
+$D02B5502 0000FEFF
+$102D9910 00000063
++P2 Scores 0 (Press R2 To Activate)
+%Credits: Codejunkies
+$D02B5502 0000FDFF
+$102DAD88 00000000
++P2 Scores 99 (Press R2 To Activate)
+%Credits: Codejunkies
+$D02B5502 0000FDFF
+$102DAD88 00000063
+!Use Only One '...Created' Code At A Time:
+!!
+!!
+

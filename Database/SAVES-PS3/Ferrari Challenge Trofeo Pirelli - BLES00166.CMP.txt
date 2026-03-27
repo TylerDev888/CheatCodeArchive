@@ -1,0 +1,9 @@
+^2 = GameID: BLES00166
+^3 = NAME: Ferrari Challenge Trofeo Pirelli
+^4 = FILE: SYS-DATA
++Update Add For Sys-data (required)
+$set [csum]:0
+(set [csum]:add(0x14,0x112703))
+$set pointer:eof+1
+$set [csum]:add(0x14,pointer)
+$write at 0x000008:[csum]

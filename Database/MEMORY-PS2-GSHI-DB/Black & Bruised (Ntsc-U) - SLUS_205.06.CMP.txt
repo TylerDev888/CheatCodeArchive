@@ -1,0 +1,1022 @@
+^3 = NAME: Black & Bruised (Ntsc-U)
+^2 = GameID: SLUS-20506
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F010E76C 0010E76F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0010E76F
+!!
++1-Hit Knockdown P1
+%Credits: Code Master
+$D08DD476 10103F80
+$208DD474 3F800000
++1-Hit Knockdown P2
+%Credits: Code Master
+$D08E6192 10103F80
+$208E6190 3F800000
+!Activate Cheat Codes:
++All Boxer's Life Unlocked
+%Credits: Code Master
+$2099A95C 00000001
++All Boxers Are Unlocked
+%Credits: Code Master
+$2099A90C 00000001
++Constant Powerup For Boxer 1
+%Credits: Code Master
+$2099A97C 00000001
++Constant Powerup For Boxer 2
+%Credits: Code Master
+$2099A98C 00000001
++Conversation Mode Unlocked
+%Credits: Code Master
+$2099A92C 00000001
++Double Speed Active
+%Credits: Code Master
+$2099A96C 00000001
++Intercontinental Mode Unlocked
+%Credits: Code Master
+$2099A8EC 00000001
++Invulnerability For Boxer 1
+%Credits: Code Master
+$2099A93C 00000001
++Invulnerability For Boxer 2
+%Credits: Code Master
+$2099A94C 00000001
++Scrap Yard Scene Unlocked
+%Credits: Code Master
+$2099A91C 00000001
++Second Skin Unlocked
+%Credits: Code Master
+$2099A8FC 00000001
+!!
+!All Boxer's Life:
++Activator
+%Credits: Codejunkies
+$1099A95C 00000001
++Deactivator
+%Credits: Codejunkies
+$1099A95C 00000000
+!!
+!All Boxers Unlocked:
++Activator
+%Credits: Codejunkies
+$1099A90C 00000001
++Deactivator
+%Credits: Codejunkies
+$1099A90C 00000000
+!!
+!Boxer's Life Unlocked:
++Ally Gator
+%Credits: Codejunkies
+$1099A264 00000007
++Bronto Sore
+%Credits: Codejunkies
+$1099A23C 00000007
++El Luchador
+%Credits: Codejunkies
+$1099A25C 00000007
++Holly Vixen
+%Credits: Codejunkies
+$1099A24C 00000007
++Jackpot
+%Credits: Codejunkies
+$1099A244 00000007
++Jumping Janet
+%Credits: Codejunkies
+$1099A274 00000007
++Kid USA
+%Credits: Codejunkies
+$1099A22C 00000007
++King Kahn
+%Credits: Codejunkies
+$1099A27C 00000007
++Knuckles Nadine
+%Credits: Codejunkies
+$1099A214 00000007
++Maiagaru
+%Credits: Codejunkies
+$1099A284 00000007
++Major Flak
+%Credits: Codejunkies
+$1099A26C 00000007
++Matador
+%Credits: Codejunkies
+$1099A28C 00000007
++Mickey Mcfist
+%Credits: Codejunkies
+$1099A20C 00000007
++Odiva
+%Credits: Codejunkies
+$1099A254 00000007
++Old Master
+%Credits: Codejunkies
+$1099A294 00000007
++Pharaoh
+%Credits: Codejunkies
+$1099A224 00000007
++Royal Pain
+%Credits: Codejunkies
+$1099A234 00000007
++Tiny
+%Credits: Codejunkies
+$1099A21C 00000007
+!!
+!Constant Power Up Boxer 1:
++Activator
+%Credits: Codejunkies
+$1099A97C 00000001
++Deactivator
+%Credits: Codejunkies
+$1099A97C 00000000
+!!
+!Constant Power Up Boxer 2:
++Activator
+%Credits: Codejunkies
+$1099A98C 00000001
++Deactivator
+%Credits: Codejunkies
+$1099A98C 00000000
+!!
+!Conversation Mode:
++Activator
+%Credits: Codejunkies
+$1099A92C 00000001
++Deactivator
+%Credits: Codejunkies
+$1099A92C 00000000
+!!
+!Deactivate Cheat Codes:
++All Boxer's Life Unlocked
+%Credits: Code Master
+$2099A95C 00000000
++All Boxers Are Unlocked
+%Credits: Code Master
+$2099A90C 00000000
++Constant Powerup For Boxer 1
+%Credits: Code Master
+$2099A97C 00000000
++Constant Powerup For Boxer 2
+%Credits: Code Master
+$2099A98C 00000000
++Conversation Mode Unlocked
+%Credits: Code Master
+$2099A92C 00000000
++Double Speed Active
+%Credits: Code Master
+$2099A96C 00000000
++Intercontinental Mode Unlocked
+%Credits: Code Master
+$2099A8EC 00000000
++Invulnerability For Boxer 1
+%Credits: Code Master
+$2099A93C 00000000
++Invulnerability For Boxer 2
+%Credits: Code Master
+$2099A94C 00000000
++Scrap Yard Scene Unlocked
+%Credits: Code Master
+$2099A91C 00000000
++Second Skin Unlocked
+%Credits: Code Master
+$2099A8FC 00000000
+!!
+!Double Speed Active:
++Activator
+%Credits: Codejunkies
+$1099A96C 00000001
++Deactivator
+%Credits: Codejunkies
+$1099A96C 00000000
+!!
+!Enable Characters:
++King Kahn
+%Credits: Codejunkies
+$10999FE4 00000001
++Matador
+%Credits: Codejunkies
+$1099A004 00000001
++Odiva
+%Credits: Codejunkies
+$10999F94 00000001
++Old Master
+%Credits: Codejunkies
+$1099A014 00000001
++Trainer
+%Credits: Codejunkies
+$1099A024 00000001
+!!
+!Enable Skins:
++Ally Gator
+%Credits: Codejunkies
+$10999FBC 00000001
++Bronto Sore
+%Credits: Codejunkies
+$10999F6C 00000001
++El Luchador
+%Credits: Codejunkies
+$10999FAC 00000001
++Holly Vixen
+%Credits: Codejunkies
+$10999F8C 00000001
++Jackpot
+%Credits: Codejunkies
+$10999F7C 00000001
++Jumping Janet
+%Credits: Codejunkies
+$10999FDC 00000001
++Kid USA
+%Credits: Codejunkies
+$10999F4C 00000001
++King Kahn
+%Credits: Codejunkies
+$10999FEC 00000001
++Knuckles Nadine
+%Credits: Codejunkies
+$10999F1C 00000001
++Maiagaru
+%Credits: Codejunkies
+$10999FFC 00000001
++Major Flak
+%Credits: Codejunkies
+$10999FCC 00000001
++Matador
+%Credits: Codejunkies
+$1099A00C 00000001
++Mickey Mcfist
+%Credits: Codejunkies
+$10999F0C 00000001
++Odiva
+%Credits: Codejunkies
+$10999F9C 00000001
++Old Master
+%Credits: Codejunkies
+$1099A01C 00000001
++Pharaoh
+%Credits: Codejunkies
+$10999F3C 00000001
++Royal Pain
+%Credits: Codejunkies
+$10999F5C 00000001
++Tiny
+%Credits: Codejunkies
+$10999F2C 00000001
+!!
+!Have All Boxer's Life Codes:
++All Characters
+%Credits: Code Master
+$4099A20C 00120002
+$00000006 00000000
++Ally Gator
+%Credits: Code Master
+$2099A264 00000006
++Bronto Sore
+%Credits: Code Master
+$2099A23C 00000006
++El Luchador
+%Credits: Code Master
+$2099A25C 00000006
++Holly Vixen
+%Credits: Code Master
+$2099A24C 00000006
++Jackpot
+%Credits: Code Master
+$2099A244 00000006
++Jumping Janet
+%Credits: Code Master
+$2099A274 00000006
++Kid USA
+%Credits: Code Master
+$2099A22C 00000006
++King Kahn
+%Credits: Code Master
+$2099A27C 00000006
++Knuckles Nadine
+%Credits: Code Master
+$2099A214 00000006
++Maiagaru
+%Credits: Code Master
+$2099A284 00000006
++Major Flak
+%Credits: Code Master
+$2099A26C 00000006
++Matador
+%Credits: Code Master
+$2099A38C 00000006
++Mickey Mcfist
+%Credits: Code Master
+$2099A20C 00000006
++Odiva
+%Credits: Code Master
+$2099A254 00000006
++Old Master
+%Credits: Code Master
+$2099A394 00000006
++Pharaoh
+%Credits: Code Master
+$2099A224 00000006
++Royal Pain
+%Credits: Code Master
+$2099A234 00000006
++Tiny
+%Credits: Code Master
+$2099A21C 00000006
++Trainer
+%Credits: Code Master
+$2099A39C 00000006
+!!
++Have Powerup Modifier P1
+%Credits: Code Master
+$208E24BC 000000??
++Have Powerup Modifier P2
+%Credits: Code Master
+$208EB1D8 000000??
+!Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$208DD474 461C4000
++Infinite Health
+%Credits: Codejunkies
+$208E6190 461C4000
++Low Health
+%Credits: Codejunkies
+$E0020000 308DD474
+$E0014310 308DD476
+$208DD474 43100000
++Low Health
+%Credits: Codejunkies
+$E0020000 308E6190
+$E0014310 308E6192
+$208E6190 43100000
+!!
++Infinite Round Time
+%Credits: Codejunkies
+$20274D6C 000002F5
++Infinite Time
+%Credits: Code Master
+$20274D6C 00000000
+!Intercontinental Mode:
++Activator
+%Credits: Codejunkies
+$1099A8EC 00000001
++Deactivator
+%Credits: Codejunkies
+$1099A8EC 00000000
+!!
+!Invulnerable Boxer 1:
++Activator
+%Credits: Codejunkies
+$1099A93C 00000001
++Deactivator
+%Credits: Codejunkies
+$1099A93C 00000000
+!!
+!Invulnerable Boxer 2:
++Activator
+%Credits: Codejunkies
+$1099A94C 00000001
++Deactivator
+%Credits: Codejunkies
+$1099A94C 00000000
+!!
++Left Arm Powerup Modifier P1
+%Credits: Code Master
+$208DD16C 000000??
++Left Arm Powerup Modifier P2
+%Credits: Code Master
+$208E5E88 000000??
++Max Level 2 Special P1
+%Credits: Code Master
+$208E24D0 41200000
++Max Level 2 Special P2
+%Credits: Code Master
+$208EB1EC 41200000
++Max Level 3 Special P1
+%Credits: Code Master
+$208E24D4 41200000
++Max Level 3 Special P2
+%Credits: Code Master
+$208EB1F0 41200000
+!Next Power Up Is...:
++Armor
+%Credits: Codejunkies
+$108EB1D8 00000002
++Autocombo 1
+%Credits: Codejunkies
+$108EB1D8 0000000D
++Autocombo 2
+%Credits: Codejunkies
+$108EB1D8 0000000E
++Autocombo 3
+%Credits: Codejunkies
+$108EB1D8 0000000F
++Autoslip
+%Credits: Codejunkies
+$108EB1D8 00000001
++Bulldozer
+%Credits: Codejunkies
+$108EB1D8 00000005
++Damage Shield
+%Credits: Codejunkies
+$108EB1D8 00000003
++Fast
+%Credits: Codejunkies
+$108EB1D8 00000009
++Fire Damage
+%Credits: Codejunkies
+$108EB1D8 00000006
++Heavy Punch
+%Credits: Codejunkies
+$108EB1D8 00000004
++Juggernaut
+%Credits: Codejunkies
+$108EB1D8 0000000C
++Poison
+%Credits: Codejunkies
+$108EB1D8 0000000A
++Regenerate
+%Credits: Codejunkies
+$108EB1D8 00000007
++Stun
+%Credits: Codejunkies
+$108EB1D8 00000008
++Super Punch 1
+%Credits: Codejunkies
+$108EB1D8 00000010
++Super Punch 2
+%Credits: Codejunkies
+$108EB1D8 00000011
++Super Punch 3
+%Credits: Codejunkies
+$108EB1D8 00000012
++Vamp
+%Credits: Codejunkies
+$108EB1D8 0000000B
+!!
++Next Powerup Modifier
+%Credits: Code Master
+$208EE840 000000??
++No Health P1
+%Credits: Code Master
+$208DD474 00000000
++No Health P2
+%Credits: Code Master
+$208E6190 00000000
++No Level 2 Special P1
+%Credits: Code Master
+$208E24D0 00000000
++No Level 2 Special P2
+%Credits: Code Master
+$208EB1EC 00000000
+!P1 Arm P-U Assigns:
++L Arm Bulldozer
+%Credits: Codejunkies
+$108DD16C 00000005
++L Arm Damage Shield
+%Credits: Codejunkies
+$108DD16C 00000003
++L Arm Fire Damage
+%Credits: Codejunkies
+$108DD16C 00000006
++L Arm Heavy Punch
+%Credits: Codejunkies
+$108DD16C 00000004
++L Arm Regenerate
+%Credits: Codejunkies
+$108DD16C 00000007
++Left Arm Armor
+%Credits: Codejunkies
+$108DD16C 00000002
++Left Arm Autocombo1
+%Credits: Codejunkies
+$108DD16C 0000000D
++Left Arm Autocombo2
+%Credits: Codejunkies
+$108DD16C 0000000E
++Left Arm Autocombo3
+%Credits: Codejunkies
+$108DD16C 0000000F
++Left Arm Autoslip
+%Credits: Codejunkies
+$108DD16C 00000001
++Left Arm Fast
+%Credits: Codejunkies
+$108DD16C 00000009
++Left Arm Juggernaut
+%Credits: Codejunkies
+$108DD16C 0000000C
++Left Arm Nothing
+%Credits: Codejunkies
+$108DD16C 00000000
++Left Arm Poison
+%Credits: Codejunkies
+$108DD16C 0000000A
++Left Arm Spunch1
+%Credits: Codejunkies
+$108DD16C 00000010
++Left Arm Spunch2
+%Credits: Codejunkies
+$108DD16C 00000011
++Left Arm Spunch3
+%Credits: Codejunkies
+$108DD16C 00000012
++Left Arm Stun
+%Credits: Codejunkies
+$108DD16C 00000008
++Left Arm Vamp
+%Credits: Codejunkies
+$108DD16C 0000000B
++R Arm Bulldozer
+%Credits: Codejunkies
+$108DD0C8 00000005
++R Arm Damage Shield
+%Credits: Codejunkies
+$108DD0C8 00000003
++R Arm Fire Damage
+%Credits: Codejunkies
+$108DD0C8 00000006
++R Arm Heavy Punch
+%Credits: Codejunkies
+$108DD0C8 00000004
++R Arm Regenerate
+%Credits: Codejunkies
+$108DD0C8 00000007
++Right Arm Armor
+%Credits: Codejunkies
+$108DD0C8 00000002
++Right Arm Autocombo1
+%Credits: Codejunkies
+$108DD0C8 0000000D
++Right Arm Autocombo2
+%Credits: Codejunkies
+$108DD0C8 0000000E
++Right Arm Autocombo3
+%Credits: Codejunkies
+$108DD0C8 0000000F
++Right Arm Autoslip
+%Credits: Codejunkies
+$108DD0C8 00000001
++Right Arm Fast
+%Credits: Codejunkies
+$108DD0C8 00000009
++Right Arm Juggernaut
+%Credits: Codejunkies
+$108DD0C8 0000000C
++Right Arm Nothing
+%Credits: Codejunkies
+$108DD0C8 00000000
++Right Arm Poison
+%Credits: Codejunkies
+$108DD0C8 0000000A
++Right Arm Spunch1
+%Credits: Codejunkies
+$108DD0C8 00000010
++Right Arm Spunch2
+%Credits: Codejunkies
+$108DD0C8 00000011
++Right Arm Spunch3
+%Credits: Codejunkies
+$108DD0C8 00000012
++Right Arm Stun
+%Credits: Codejunkies
+$108DD0C8 00000008
++Right Arm Vamp
+%Credits: Codejunkies
+$108DD0C8 0000000B
+!!
++P1 Low Health
+%Credits: Codejunkies
+$208DD474 43100000
+!P2 Arm P-U Assigns:
++L Arm Bulldozer
+%Credits: Codejunkies
+$108E5E88 00000005
++L Arm Damage Shield
+%Credits: Codejunkies
+$108E5E88 00000003
++L Arm Fire Damage
+%Credits: Codejunkies
+$108E5E88 00000006
++L Arm Heavy Punch
+%Credits: Codejunkies
+$108E5E88 00000004
++L Arm Regenerate
+%Credits: Codejunkies
+$108E5E88 00000007
++Left Arm Armor
+%Credits: Codejunkies
+$108E5E88 00000002
++Left Arm Autocombo1
+%Credits: Codejunkies
+$108E5E88 0000000D
++Left Arm Autocombo2
+%Credits: Codejunkies
+$108E5E88 0000000E
++Left Arm Autocombo3
+%Credits: Codejunkies
+$108E5E88 0000000F
++Left Arm Autoslip
+%Credits: Codejunkies
+$108E5E88 00000001
++Left Arm Fast
+%Credits: Codejunkies
+$108E5E88 00000009
++Left Arm Juggernaut
+%Credits: Codejunkies
+$108E5E88 0000000C
++Left Arm Nothing
+%Credits: Codejunkies
+$108E5E88 00000000
++Left Arm Poison
+%Credits: Codejunkies
+$108E5E88 0000000A
++Left Arm Spunch1
+%Credits: Codejunkies
+$108E5E88 00000010
++Left Arm Spunch2
+%Credits: Codejunkies
+$108E5E88 00000011
++Left Arm Spunch3
+%Credits: Codejunkies
+$108E5E88 00000012
++Left Arm Stun
+%Credits: Codejunkies
+$108E5E88 00000008
++Left Arm Vamp
+%Credits: Codejunkies
+$108E5E88 0000000B
++R Arm Bulldozer
+%Credits: Codejunkies
+$108E5DE4 00000005
++R Arm Damage Shield
+%Credits: Codejunkies
+$108E5DE4 00000003
++R Arm Fire Damage
+%Credits: Codejunkies
+$108E5DE4 00000006
++R Arm Heavy Punch
+%Credits: Codejunkies
+$108E5DE4 00000004
++R Arm Regenerate
+%Credits: Codejunkies
+$108E5DE4 00000007
++Right Arm Armor
+%Credits: Codejunkies
+$108E5DE4 00000002
++Right Arm Autocombo1
+%Credits: Codejunkies
+$108E5DE4 0000000D
++Right Arm Autocombo2
+%Credits: Codejunkies
+$108E5DE4 0000000E
++Right Arm Autocombo3
+%Credits: Codejunkies
+$108E5DE4 0000000F
++Right Arm Autoslip
+%Credits: Codejunkies
+$108E5DE4 00000001
++Right Arm Fast
+%Credits: Codejunkies
+$108E5DE4 00000009
++Right Arm Juggernaut
+%Credits: Codejunkies
+$108E5DE4 0000000C
++Right Arm Nothing
+%Credits: Codejunkies
+$108E5DE4 00000000
++Right Arm Poison
+%Credits: Codejunkies
+$108E5DE4 0000000A
++Right Arm Spunch1
+%Credits: Codejunkies
+$108E5DE4 00000010
++Right Arm Spunch2
+%Credits: Codejunkies
+$108E5DE4 00000011
++Right Arm Spunch3
+%Credits: Codejunkies
+$108E5DE4 00000012
++Right Arm Stun
+%Credits: Codejunkies
+$108E5DE4 00000008
++Right Arm Vamp
+%Credits: Codejunkies
+$108E5DE4 0000000B
+!!
++P2 Low Health
+%Credits: Codejunkies
+$208E6190 43100000
+!Player 1 Body Mods:
++Body Energized
+%Credits: Codejunkies
+$108E5640 00000505
++Body Sparkling
+%Credits: Codejunkies
+$108E5640 00000808
++Body Spewing
+%Credits: Codejunkies
+$108E5640 00000A0A
++Gloves Energized
+%Credits: Codejunkies
+$108E5640 00000303
++Gloves Flaming
+%Credits: Codejunkies
+$108E5640 00000000
++Gloves Frosty
+%Credits: Codejunkies
+$108E5640 00000101
++Gloves Glowing
+%Credits: Codejunkies
+$108E5640 00000202
++Gloves Misty
+%Credits: Codejunkies
+$108E5640 00001111
++Gloves Radiant
+%Credits: Codejunkies
+$108E5640 00000707
++Gloves Smokey
+%Credits: Codejunkies
+$108E5640 00000909
++Gloves Steaming
+%Credits: Codejunkies
+$108E5640 00000E0E
++Gloves Swirling
+%Credits: Codejunkies
+$108E5640 00000606
++Red Body
+%Credits: Codejunkies
+$108E5640 00000C0C
++Shiny Body
+%Credits: Codejunkies
+$108E5640 00000B0B
+!!
+!Player 1 Has...:
++Armor
+%Credits: Codejunkies
+$208E24BC 00000002
++Autocombo 1
+%Credits: Codejunkies
+$208E24BC 0000000D
++Autocombo 2
+%Credits: Codejunkies
+$208E24BC 0000000E
++Autocombo 3
+%Credits: Codejunkies
+$208E24BC 0000000F
++Autoslip
+%Credits: Codejunkies
+$208E24BC 00000001
++Bulldozer
+%Credits: Codejunkies
+$208E24BC 00000005
++Damage Shield
+%Credits: Codejunkies
+$208E24BC 00000003
++Fast
+%Credits: Codejunkies
+$208E24BC 00000009
++Fire Damage
+%Credits: Codejunkies
+$208E24BC 00000006
++Heavy Punch
+%Credits: Codejunkies
+$208E24BC 00000004
++Juggernaut
+%Credits: Codejunkies
+$208E24BC 0000000C
++Nothing
+%Credits: Codejunkies
+$208E24BC 00000000
++Poison
+%Credits: Codejunkies
+$208E24BC 0000000A
++Regenerate
+%Credits: Codejunkies
+$208E24BC 00000007
++Stun
+%Credits: Codejunkies
+$208E24BC 00000008
++Super Punch 1
+%Credits: Codejunkies
+$208E24BC 00000010
++Super Punch 2
+%Credits: Codejunkies
+$208E24BC 00000011
++Super Punch 3
+%Credits: Codejunkies
+$208E24BC 00000012
++Vamp
+%Credits: Codejunkies
+$208E24BC 0000000B
+!!
++Player 1 Modifier[MOD1]
+%Credits: BigBossman
+$009976FC 000000??
+!Player 2 Has...:
++Nothing
+%Credits: Codejunkies
+$108EB1D8 00000000
+!!
++Player 2 Modifier[MOD1]
+%Credits: BigBossman
+$0099AF04 000000??
+!Power Up Codes:
++Always Have Power Up Level 1
+%Credits: Codejunkies
+$208E24CC 41200000
++Always Have Power Up Level 1
+%Credits: Codejunkies
+$208EB1E8 41200000
++Always Have Power Up Level 2
+%Credits: Codejunkies
+$208E24CC 41200000
+$208E24D0 41200000
++Always Have Power Up Level 2
+%Credits: Codejunkies
+$208EB1E8 41200000
+$208EB1EC 41200000
++Character Powers Up Automatically
+%Credits: Codejunkies
+$208E24CC 41200000
+$208E24D0 41200000
+$208E24D4 41200000
++Character Powers Up Automatically
+%Credits: Codejunkies
+$208EB1E8 41200000
+$208EB1EC 41200000
+$208EB1F0 41200000
++Never Have Any Power Ups
+%Credits: Codejunkies
+$208E24CC 00000000
++Never Have Any Power Ups
+%Credits: Codejunkies
+$208EB1E8 00000000
++Never Have Higher Than Level 1 Power Ups
+%Credits: Codejunkies
+$208E24D0 00000000
+$208E24D4 00000000
++Never Have Higher Than Level 1 Power Ups
+%Credits: Codejunkies
+$208EB1EC 00000000
+$208EB1F0 00000000
++Never Have Higher Than Level 2 Power Ups
+%Credits: Codejunkies
+$208E24D4 00000000
++Never Have Higher Than Level 2 Power Ups
+%Credits: Codejunkies
+$208EB1F0 00000000
+!!
++Right Arm Powerup Modifier P1
+%Credits: Code Master
+$208DD0C8 000000??
++Right Arm Powerup Modifier P2
+%Credits: Code Master
+$208E5DE4 000000??
+!Scrap Yard Scene:
++Activator
+%Credits: Codejunkies
+$1099A91C 00000001
++Deactivator
+%Credits: Codejunkies
+$1099A91C 00000000
+!!
+!Second Skin Unlocked:
++Activator
+%Credits: Codejunkies
+$1099A8FC 00000001
++Deactivator
+%Credits: Codejunkies
+$1099A8FC 00000000
+!!
++Stage Modifier[MOD2]
+%Credits: BigBossman
+$009AAA0C 000000??
+!Unlock Character Codes:
++King Kahn
+%Credits: Code Master
+$20999FE4 00000002
++Matador
+%Credits: Code Master
+$2099A004 00000002
++Odiva
+%Credits: Code Master
+$20999F94 00000002
++Old Master
+%Credits: Code Master
+$2099A014 00000002
++Trainer
+%Credits: Code Master
+$2099A024 00000002
+!!
+!Unlock Skin Codes:
++All Characters
+%Credits: Code Master
+$40999F0C 00130004
+$00000002 00000000
++Ally Gator
+%Credits: Code Master
+$20999FBC 00000002
++Bronto Sore
+%Credits: Code Master
+$20999F6C 00000002
++El Luchador
+%Credits: Code Master
+$20999FAC 00000002
++Holly Vixen
+%Credits: Code Master
+$20999F8C 00000002
++Jackpot
+%Credits: Code Master
+$20999F7C 00000002
++Jumping Janet
+%Credits: Code Master
+$20999FDC 00000002
++Kid USA
+%Credits: Code Master
+$20999F4C 00000002
++King Kahn
+%Credits: Code Master
+$20999FEC 00000002
++Knuckles Nadine
+%Credits: Code Master
+$20999F1C 00000002
++Maiagaru
+%Credits: Code Master
+$20999FFC 00000002
++Major Flak
+%Credits: Code Master
+$20999FCC 00000002
++Matador
+%Credits: Code Master
+$2099A00C 00000002
++Mickey Mcfist
+%Credits: Code Master
+$20999F0C 00000002
++Odiva
+%Credits: Code Master
+$20999F9C 00000002
++Old Master
+%Credits: Code Master
+$2099A01C 00000002
++Pharaoh
+%Credits: Code Master
+$20999F3C 00000002
++Royal Pain
+%Credits: Code Master
+$20999F5C 00000002
++Tiny
+%Credits: Code Master
+$20999F2C 00000002
++Trainer
+%Credits: Code Master
+$2099A02C 00000002
+!!
+^6 = MODS:
+[MOD1]
+Values -
+00 - Mickey McFist
+01 - Knuckles Nadine
+02 - Tiny
+03 - Pharaoh
+04 - Kid USA
+05 - Royal Pain
+06 - Bronto Sore
+07 - Jackpot
+08 - Holly Vixen
+09 - Odiva
+0A - El Luchador
+0B - Ally Gator
+0C - Major Flak
+0D - Jumping Janet
+0E - King Kahn
+0F - Maiagaru
+10 - Matador
+11 - Old Master
+12 - Trainer
+[/MOD1]
+[MOD2]
+00 - The Cage
+01 - O'Bruise's
+02 - Community Theater
+03 - The Sweatshop
+04 - Gator Pit
+05 - Junkyard
+06 - The Stadium
+07 - Carnabeat Hall
+08 - The Body Shop
+09 - El Pueblo Grande
+0A - The Back Alley
+0B - Boot Camp
+0C - The Campus
+0D - The Palace
+0E - The Bruise Cruise
+0F - The Coliseum
+10 - The Barn
+11 - The Dojo
+12 - The Sawmill
+13 - Mount Pain
+14 - The Temple
+15 - FROZE
+[/MOD2]
+

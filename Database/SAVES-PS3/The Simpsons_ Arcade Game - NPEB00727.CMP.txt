@@ -1,0 +1,6 @@
+^2 = GameID: NPEB00727
+^3 = NAME: The Simpsons: Arcade Game
++Update Crc32 (required)
+$set range:0x4,0x2BB
+$set [hash]:crc32
+$write at 0x0:[hash]

@@ -1,0 +1,27 @@
+^3 = NAME: Dirt Track Devils (Pal-Unk)
+^2 = GameID: SLES-51621
+!Master Codes:
++Enable Code
+%Credits: BigBossman
+$90179CF8 0C05E6E6
++Enable Code (Alternate)
+%Credits: BigBossman
+$9010B57C 0C04504C
++Enable Code (Alternate)
+%Credits: BigBossman
+$90126994 0C044CE6
+!!
++Opponents Don't Move {<I>Side Effect: The Player&#39;S Vehicle Already Moves From The Beginning Of The Race</I>}
+%Credits: luc-ita
+$2012C850 00000000
+$2012C858 8E83028C
+$2012C85C 24020002
+$2012C860 14620003
++Time Laps Races Always Zero
+%Credits: luc-ita
+$2013156C AC800000
++Total Time Races Always Zero
+%Credits: luc-ita
+$20131514 AE0000E8
+!!
+

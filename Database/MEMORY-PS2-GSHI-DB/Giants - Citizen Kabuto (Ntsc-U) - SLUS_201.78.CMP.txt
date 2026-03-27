@@ -1,0 +1,33 @@
+^3 = NAME: Giants - Citizen Kabuto (Ntsc-U)
+^2 = GameID: SLUS-20178
+!Master Codes:
++(M)Must Be On
+%Credits: InterAct
+$F019B700 00225F6F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00225F6F
+!!
++Enable Target Select
+%Credits: InterAct
+$103BC370 00000001
++Have All Missions {<I>Go To The &Quot;Load&Quot; Option.</I>}
+%Credits: InterAct
+$103BDAF0 00000001
++Have Mecc Team-Mates
+%Credits: InterAct
+$103BC6E8 00000001
++Infinite Ammo
+%Credits: InterAct
+$10306468 00000001
++Infinite Health
+%Credits: InterAct
+$10306458 00000001
++Infinite Jetpack
+%Credits: InterAct
+$10306464 00000001
++Infinite Mana
+%Credits: InterAct
+$1030645C 00000001
+!!
+

@@ -1,0 +1,123 @@
+^1 = HASH: 24280F22
+^3 = NAME: Batman-Rise Of Sin Tzu
+^2 = GameID: SLUS_207.09
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0011F447
+!!
+!Codes:
++Infinite Health
+%Credits: Code Master
+$200C0220 00A01821
+$200C0224 AC850034
+$200C0228 03E00008
+$200C022C AC850038
+$2028E14C 0C030088
+$2028E150 240503E8
++Infinite Continues
+%Credits: Code Master
+$20290B68 00000000
++Extra Continues
+%Credits: Code Master
+$1023999C 00000001
++Buying Upgrades Doesnt Decrease Upgrade Points
+%Credits: Code Master
+$202C84C0 00000000
++Buying Upgrades Increases Upgrade Points
+%Credits: Code Master
+$202C84BC 00661821
++Access All Upgrades
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B84 0000000F
++Infinite Green Tokens
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6AE8 000003E7
++Infinite Red Tokens
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6AEC 000003E7
++Infinite Silver Tokens
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6AF0 000003E7
++Infinite Gold Tokens
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6AF4 000003E7
++Infinite Bronze Tokens
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6AF8 000003E7
++Unlock All 3D Models (Heroes/Gadgets/Vehicles)
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6AFC FFFFFFFF
++Unlock All 3D Models (Villians)
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B00 FFFFFFFF
++Unlock All Graphic Novels
+%Credits: Code Master
+$E0026AD0 008C6ADC
+$208C6B04 FFFFFFFF
+$208C6B08 FFFFFFFF
++Unlock All Toys
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B0C FFFFFFFF
++Unlock All Cinematics
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B10 FFFFFFFF
++Unlock All Concept Art
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B14 FFFFFFFF
++Unlock All Extra Bonus Features
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B18 FFFFFFFF
+!!
+!Max Upgrade Points Codes:
++Batman
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B88 05F5E0FF
++Robin
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B8C 05F5E0FF
++Nightwing
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B90 05F5E0FF
++Batgirl
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B94 05F5E0FF
+!!
+!Unlock All Moves Codes:
++Batman
+%Credits: Code Master
+$E0026AD0 008C6ADC
+$208C6B98 FFFFFFFF
+$208C6BA8 FFFFFFFF
++Robin
+%Credits: Code Master
+$E0026AD0 008C6ADC
+$208C6B9C FFFFFFFF
+$208C6BAC FFFFFFFF
++Nightwing
+%Credits: Code Master
+$E0026AD0 008C6ADC
+$208C6BA0 FFFFFFFF
+$208C6BB0 FFFFFFFF
++Batgirl
+%Credits: Code Master
+$E0026AD0 008C6ADC
+$208C6BA4 FFFFFFFF
+$208C6BB4 FFFFFFFF
+!!

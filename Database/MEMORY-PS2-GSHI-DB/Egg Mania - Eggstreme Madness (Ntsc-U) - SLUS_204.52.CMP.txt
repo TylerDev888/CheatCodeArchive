@@ -1,0 +1,45 @@
+^3 = NAME: Egg Mania - Eggstreme Madness (Ntsc-U)
+^2 = GameID: SLUS-20452
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0015381F
+!!
++Always Low Time
+%Credits: Code Master
+$204C03B0 00000000
++Max Score P1
+%Credits: Code Master
+$204C05BC 05F5E0FF
++Max Score P2
+%Credits: Code Master
+$204C05C0 05F5E0FF
++Quick Score Gain P1
+%Credits: Code Master
+$104C05BC 0000FFFF
++Quick Score Gain P2
+%Credits: Code Master
+$104C05C0 0000FFFF
+!Unlock Character Codes:
++All Characters
+%Credits: Code Master
+$404C07EC 00050001
+$00000000 00000000
++Angelica
+%Credits: Code Master
+$204C07F0 00000000
++Poncho
+%Credits: Code Master
+$204C07F8 00000000
++Sir Eggalot
+%Credits: Code Master
+$204C07F4 00000000
++Spook
+%Credits: Code Master
+$204C07EC 00000000
++Yolkohama
+%Credits: Code Master
+$204C07FC 00000000
+!!
+!!
+

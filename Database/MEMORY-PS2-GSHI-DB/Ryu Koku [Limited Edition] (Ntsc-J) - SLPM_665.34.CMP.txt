@@ -1,0 +1,13 @@
+^3 = NAME: Ryu Koku [Limited Edition] (Ntsc-J)
+^2 = GameID: SLPM-66534
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9010FC58 0C043EBE
+!!
++Replace New Game With Debug Menu
+%Credits: punk7890
+$D10BBBD2 00000003
+$110BBBD2 00000004
+!!
+

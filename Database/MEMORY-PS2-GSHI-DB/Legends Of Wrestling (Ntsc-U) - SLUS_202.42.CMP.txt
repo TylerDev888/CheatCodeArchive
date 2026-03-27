@@ -1,0 +1,77 @@
+^3 = NAME: Legends Of Wrestling (Ntsc-U)
+^2 = GameID: SLUS-20242
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0312BA8 0022023F
++(M) Must Be On
+%Credits: Codejunkies
+$F022023C 0022023F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0200008 0022023F
+!!
++Arena Modifier {<I>Values - 00 - Pacific 01 - Midwest 02 - Southwest 03 - Northeast 04 - Southeast 05 - World 06 - Backlot 07 - Faber Gymnasium 08 - Iguana Hotel &Amp; Casino 09 - Acevado Beach Resort 0A - Pacific 0B - Froze</I>}
+%Credits: BigBossman
+$0047690C 000000??
+!Character Creation Codes:
++Infinite Ability Points
+%Credits: Code Master
+$2031F9D8 2402001E
+$2031FBB4 2407001E
++Infinite Attribute Points
+%Credits: Code Master
+$2032BBE4 2402001E
+$2032BE80 2402001E
+$2032C0C8 2407001E
+!!
++Enable All Wrestlers
+%Credits: InterAct
+$2074F834 0001FFFF
++Have Max Ability Points
+%Credits: Codejunkies
+$10972F60 0000001E
+$10973F60 0000001E
+$10945F60 0000001E
+$10946F60 0000001E
++Have Max Attribute Points
+%Credits: Codejunkies
+$10972F5E 0000001E
+$10973F5E 0000001E
+$10945F5E 0000001E
+$10946F5E 0000001E
++Max Ability Points
+%Credits: InterAct
+$301ADA0B 64DA298F
+$301AEA0B 64DA298F
+$301B0A0B 64DA298F
+$301B1A0B 64DA298F
++Max Attribute Points
+%Credits: InterAct
+$301ADA05 64DA298F
+$301AEA05 64DA298F
+$301B0A05 64DA298F
+$301B1A05 64DA298F
++Max Slot Keys Points
+%Credits: InterAct
+$10745D8C 00000037
++Player 1 Modifier {<I>You Can Also Play As The Referee As A Wrestler Or Modify The Referee In Case You Want A Special Referee In Your Match.<Br>Values -<Br>00 - Jimmy &Quot;Superfly&Quot; Snuka<Br>01 - Jimmy &Quot;Superfly&Quot; Snuka<Br>02 - Hulk Hogan<Br>03 - Hulk Hogan (Alt Attire)<Br>04 - Jimmy &Quot;Superfly&Quot; Snuka<Br>05 - Jimmy &Quot;Superfly&Quot; Snuka (Alt Attire)<Br>06 - Road Warrior Hawk<Br>07 - Road Warrior Hawk (Alt Attire)<Br>08 - Road Warrior Animal<Br>09 - Road Warrior Animal (Alt Attire)<Br>0A - Bret &Quot;Hitman&Quot; Hart<Br>0B - Bret &Quot;Hitman&Quot; Hart (Alt Attire)<Br>0C - The Iron Sheik<Br>0D - The Iron Sheik (Alt Attire)<Br>0E - Mr. Fuji<Br>0F - Mr. Fuji (Alt Attire)<Br>10 - Terry Funk<Br>11 - Terry Funk (Alt Attire)<Br>12 - Don Muraco<Br>13 - Don Muraco (Alt Attire)<Br>14 - Jerry &Quot;The King&Quot; Lawler<Br>15 - Jerry &Quot;The King&Quot; Lawler (Alt Attire)<Br>16 - George &Quot;The Animal&Quot; Steele<Br>17 - George &Quot;The Animal&Quot; Steele (Alt Attire)<Br>18 - &Quot;Mr. USA&Quot; Tony Atlas<Br>19 - &Quot;Mr. USA&Quot; Tony Atlas (Alt Attire)<Br>1A - Ricky &Quot;The Dragon&Quot; Steamboat<Br>1B - Ricky &Quot;The Dragon&Quot; Steamboat (Alt Attire)<Br>1C - Nikolai Volkoff<Br>1D - Nikolai Volkoff (Alt Attire)<Br>1E - Ted Dibiase<Br>1F - Ted Dibiase (Alt Attire)<Br>20 - Tito Santana<Br>21 - Tito Santana (Alt Attire)<Br>22 - King Kong Bundy<Br>23 - King Kong Bundy (Alt Attire)<Br>24 - Koko B Ware<Br>25 - Koko B Ware (Alt Attire)<Br>26 - One Man Gang<Br>27 - One Man Gang (Alt Attire)<Br>28 - Greg &Quot;The Hammer&Quot; Valentine<Br>29 - Greg &Quot;The Hammer&Quot; Valentine (Alt Attire)<Br>2A - Harley Race<Br>2B - Harley Race (Alt Attire)<Br>2C - Dynamite Kid<Br>2D - Dynamite Kid (Alt Attire)<Br>2E - Ricky Morton<Br>2F - Ricky Morton (Alt Attire)<Br>30 - Robert Gibson<Br>31 - Robert Gibson (Alt Attire)<Br>32 - &Quot;Flyin&#39;&Quot; Brian Pillman<Br>33 - &Quot;Flyin&#39;&Quot; Brian Pillman (Alt Attire)<Br>34 - &Quot;Superstar&Quot; Billy Graham<Br>35 - &Quot;Superstar&Quot; Billy Graham (Alt Attire)<Br>36 - &Quot;Hot Stuff&Quot; Eddie Gilbert<Br>37 - &Quot;Hot Stuff&Quot; Eddie Gilbert (Alt Attire)<Br>38 - Rick Martel<Br>39 - Rick Martel (Alt Attire)<Br>3A - Ivan Koloff<Br>3B - Ivan Koloff (Alt Attire)<Br>3C - Ivan Putski<Br>3D - Ivan Putski (Alt Attire)<Br>3E - &Quot;Cowboy&Quot; Bob Orton<Br>3F - &Quot;Cowboy&Quot; Bob Orton (Alt Attire)<Br>40 - The Sheik<Br>41 - The Sheik (Alt Attire)<Br>42 - Kerry Von Erich<Br>43 - Kerry Von Erich (Alt Attire)<Br>44 - Fritz Von Erich<Br>45 - Fritz Von Erich (Alt Attire)<Br>46 - Kevin Von Erich<Br>47 - Kevin Von Erich (Alt Attire)<Br>48 - Micahel Von Erich<Br>49 - Michael Von Erich (Alt Attire)<Br>4A - David Von Erich<Br>4B - David Von Erich (Alt Attire)<Br>4C - Dory Funk Jr.<Br>4D - Dory Funk Jr. (Alt Attire)<Br>4E - Rob Van Dam<Br>4F - Rob Van Dam (Alt Attire)<Br>50 - Sabu<Br>51 - Sabu (Alt Attire)<Br>52 - Captain Lou Albano<Br>53 - Captain Lou Albano (Alt Attire)<Br>54 - &Quot;Mouth Of The South&Quot; Jimmy Hart<Br>55 - &Quot;Mouth Of The South&Quot; Jimmy Hart (Alt Attire)<Br>56 - Jimmy &Quot;Superfly&Quot; Snuka<Br>57 - Jimmy &Quot;Superfly&Quot; Snuka<Br>58 - Jimmy &Quot;Superfly&Quot; Snuka<Br>59 - Jimmy &Quot;Superfly&Quot; Snuka<Br>5A - Jimmy &Quot;Superfly&Quot; Snuka<Br>5B - Jimmy &Quot;Superfly&Quot; Snuka<Br>5C - Jimmy &Quot;Superfly&Quot; Snuka<Br>5D - Jimmy &Quot;Superfly&Quot; Snuka<Br>5E - Jimmy &Quot;Superfly&Quot; Snuka<Br>5F - Jimmy &Quot;Superfly&Quot; Snuka<Br>60 - Jimmy &Quot;Superfly&Quot; Snuka<Br>61 - Jimmy &Quot;Superfly&Quot; Snuka<Br>62 - Jimmy &Quot;Superfly&Quot; Snuka<Br>63 - Jimmy &Quot;Superfly&Quot; Snuka<Br>64 - Referee<Br>65 - Jimmy &Quot;Superfly&Quot; Snuka<Br>66 - Jimmy &Quot;Superfly&Quot; Snuka<Br>67 - Jimmy &Quot;Superfly&Quot; Snuka<Br>68 - Jimmy &Quot;Superfly&Quot; Snuka<Br>69 - Jimmy &Quot;Superfly&Quot; Snuka<Br>6A - Jimmy &Quot;Superfly&Quot; Snuka<Br>6B - Jimmy &Quot;Superfly&Quot; Snuka<Br>6C - Jimmy &Quot;Superfly&Quot; Snuka<Br>6D - Jimmy &Quot;Superfly&Quot; Snuka<Br>6E - Jimmy &Quot;Superfly&Quot; Snuka<Br>6F - Froze<Br>70 - Jimmy &Quot;Superfly&Quot; Snuka (Froze)</I>}
+%Credits: BigBossman
+$004768B0 000000??
++Player 2 Modifier
+%Credits: BigBossman
+$004768B4 000000??
++Player 3 Modifier
+%Credits: BigBossman
+$004768B8 000000??
++Player 4 Modifier
+%Credits: BigBossman
+$004768BC 000000??
++Referee Modifier
+%Credits: BigBossman
+$004768D0 000000??
++Unlock All Characters
+%Credits: Code Master
+$2074F834 FFFFFFFF
+!!
+

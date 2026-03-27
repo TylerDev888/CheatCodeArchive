@@ -1,0 +1,39 @@
+^3 = NAME: Da Vinci Code, The (Pal-Unk)
+^2 = GameID: SLES-54031
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F011F710 0011F713
+!!
++Disable A.I. (Press L3 To Disable A.I.; R3 To Restart)
+%Credits: Codejunkies
+$E10100FD 00760902
+$01FD7024 00000001
+$E10100FB 00760902
+$01FD7024 00000000
++God Mode
+%Credits: Codejunkies
+$01FD7029 00000001
+!Speed Modifier Codes:
++Hyper Mode (Press Right)
+%Credits: Codejunkies
+$E10100DF 00760902
+$21FD7054 40400000
++Normal Speed (Press Left)
+%Credits: Codejunkies
+$E101007F 00760902
+$21FD7054 3F800000
++Quicker Game (Press Up)
+%Credits: Codejunkies
+$E10100EF 00760902
+$21FD7054 3FC00000
++Slow Motion (Press Down)
+%Credits: Codejunkies
+$E10100BF 00760902
+$21FD7054 3E800000
+!!
++Unlock All Levels {<I>Start A Game, Then Quit To Unlock All Missions.</I>}
+%Credits: Codejunkies
+$20401FA0 24020100
+!!
+

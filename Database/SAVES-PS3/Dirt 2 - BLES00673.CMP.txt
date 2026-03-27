@@ -1,0 +1,10 @@
+^2 = GameID: BLES00673
+^3 = NAME: DiRT 2
+^4 = FILE: SAVEDATA
++Update Dwadd For Savedata (required)
+$set [csum]:0
+(set [csum]:dwadd(0xC,0x01FFE7))
+$set pointer:eof+1
+$set [csum]:dwadd(0xC,pointer)
+$set [csum]:xor:FFFFFFFF
+$write at 0x000000:[csum]

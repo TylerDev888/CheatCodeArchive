@@ -1,0 +1,63 @@
+^3 = NAME: England International Football (Pal-Unk)
+^2 = GameID: SLES-52385
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F036E4BC 0036E4BF
+!!
++Big Ball
+%Credits: Codejunkies
+$203E3628 40000000
+!Create A Character Codes:
++Face Length
+%Credits: Codejunkies
+$0046CA9E 000000FF
++Face Width
+%Credits: Codejunkies
+$0046CA9F 000000FF
++Jumbo Mode
+%Credits: Codejunkies
+$1046CA98 0000FFFF
++Massive Nose
+%Credits: Codejunkies
+$1046CA9A 0000FFFF
++Max Chin Prof
+%Credits: Codejunkies
+$0046CAA0 000000FF
++Max Chin Width
+%Credits: Codejunkies
+$0046CAA1 000000FF
+!!
++Display Debug Info
+%Credits: Codejunkies
+$204CAD08 00000001
++Giant Ball
+%Credits: Codejunkies
+$203E3628 40800000
++Infinite Skill Points
+%Credits: Codejunkies
+$101D1520 00000000
++Press Select+Up For Fly Camera {<I>L3 Will Change Players&#39; Appearance, L1 Will Pause. Press Select+Down To Stop The Fly Cam Mode.</I>}
+%Credits: Codejunkies
+$D0506542 0000FFEE
+$003F99D8 00000001
+$D0506542 0000FFBE
+$003F99D8 00000001
++Team 1 Score 0 (Press L1+L2+Down)
+%Credits: Codejunkies
+$D0506542 0000FABF
+$004DB49C 00000000
++Team 1 Score 98 (Press L1+L2+Up)
+%Credits: Codejunkies
+$D0506542 0000FAEF
+$004DB49C 00000062
++Team 2 Score 0 (Press R1+R2+Up)
+%Credits: Codejunkies
+$D0506542 0000F5BF
+$004DC7A8 00000000
++Team 2 Score 98 (Press R1+R2+Up)
+%Credits: Codejunkies
+$D0506542 0000F5EF
+$004DC7A8 00000062
+!!
+

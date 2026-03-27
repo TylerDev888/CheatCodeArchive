@@ -1,0 +1,49 @@
+^3 = NAME: Gran Turismo 4: Prologue
+!Masters:
++Mastercode
+%Credits: Xploder
+$904946C0 0C12B0D1
+!!
+!Unlock:
++All Cars{(NOTE: This Also Passes All Lessons At Gold)}
+%Credits: Xploder
+$200C2000 24050003
+$200C2004 080AC1EE
+$200C2008 AC650004
+$2012FF78 0C030800
+!!
+!Timer:
++Half Speed
+%Credits: Xploder
+$2033C6B8 2442001E
++Quarter Speed
+%Credits: Xploder
+$2033C6B8 2442000F
++Frozen{(NOTE: Select Only One Timer Code)}
+%Credits: Xploder
+$2033C6B8 24020BB8
+!!
+!Have:
++No Crash Time Penalty
+%Credits: Xploder
+$20342A98 24050000
+!!
+!Unlock Tracks:
++Hong Kong
+%Credits: Xploder
+$20823E54 7400616E
+$20823E58 756B7573
+$20823E5C 00006162
++Grand Canyon North
+%Credits: Xploder
+$20823E3C 6B757374
+$20823E40 00616275
+$20823E44 00000000
+$20823E48 00000000
+$20823E4C 79670000
++Driving Park (Gymkhana){(NOTE: Select Tsukuba To Play Unlocked Track) (NOTE: Only Select One Unlocked Track)}
+%Credits: Xploder
+$10823E4E 00007374
+$20823E50 62756B75
+$20823E54 68000061
+!!

@@ -1,0 +1,69 @@
+^2 = GameID: BLES01876
+^3 = NAME: FIFA 14
+^4 = FILE: DATA0000
++Update Crc32 In Data0000
+$set pointer:eof+1
+$set range:0x1C,pointer
+$set [hash]:crc32
+$write at 0x10:[hash]
+^4 = FILE: DATA0000
++Get Crc32 For Data0000
+$set crc_bandwidth:32
+$set crc_polynomial:0x4C11DB7
+$set crc_initial_value:0xFFFFFFFF
+$set crc_output_xor:0
+$set crc_reflection_input:1
+$set crc_reflection_output:0
+$set pointer:eof+1
+$set range:0x1C,pointer
+$set [hash]:crc
+^4 = FILE: DATA0001
++Get Crc32 For Data0001
+$set crc_bandwidth:32
+$set crc_polynomial:0x4C11DB7
+$set crc_initial_value:[hash]
+$set crc_output_xor:0xFFFFFFFF
+$set crc_reflection_input:1
+$set crc_reflection_output:1
+$set pointer:eof+1
+$set range:0x0,pointer
+$set [hash]:crc
+^4 = FILE: DATA0000
++Update Crc32 In Data0000
+$write at 0x10:[hash]
+^4 = FILE: DATA0000
++Get Crc32 For Data0000
+$set crc_bandwidth:32
+$set crc_polynomial:0x4C11DB7
+$set crc_initial_value:0xFFFFFFFF
+$set crc_output_xor:0
+$set crc_reflection_input:1
+$set crc_reflection_output:0
+$set pointer:eof+1
+$set range:0x1C,pointer
+$set [hash]:crc
+^4 = FILE: DATA0001
++Get Crc32 For Data0001
+$set crc_bandwidth:32
+$set crc_polynomial:0x4C11DB7
+$set crc_initial_value:[hash]
+$set crc_output_xor:0
+$set crc_reflection_input:1
+$set crc_reflection_output:0
+$set pointer:eof+1
+$set range:0x0,pointer
+$set [hash]:crc
+^4 = FILE: DATA0002
++Get Crc32 For Data0002
+$set crc_bandwidth:32
+$set crc_polynomial:0x4C11DB7
+$set crc_initial_value:[hash]
+$set crc_output_xor:0xFFFFFFFF
+$set crc_reflection_input:1
+$set crc_reflection_output:1
+$set pointer:eof+1
+$set range:0x0,pointer
+$set [hash]:crc
+^4 = FILE: DATA0000
++Update Crc32 In Data0000
+$write at 0x10:[hash]

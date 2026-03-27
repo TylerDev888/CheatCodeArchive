@@ -1,0 +1,472 @@
+^3 = NAME: Max Payne 2 - Fall Of Max Payne (Ntsc-U)
+^2 = GameID: SLUS-20814
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F04487F0 004487F3
++Enable Code
+%Credits: punk7890
+$9010FDF0 0C043F24
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00133883
++[M] Must Be On
+%Credits: MadCatz
+$904DC2EC 0C04CEBA
+!!
+!Access Game Modes:
++All Game Modes
+%Credits: Code Master
+$207B71F0 01010101
++Dead On Arrival
+%Credits: Code Master
+$007B71F1 00000001
++Hard-Boiled
+%Credits: Code Master
+$007B71F0 00000001
++Jump To Chapter
+%Credits: Code Master
+$007B71F3 00000001
++New York Minute & Dead Man Walking
+%Credits: Code Master
+$007B71F2 00000001
+!!
++Auto Weapon Change Always Off
+%Credits: Code Master
+$005A2728 00000000
++Auto Weapon Change Always On
+%Credits: Code Master
+$005A2728 00000001
++Bullet Time
+%Credits: MadCatz
+$202957A0 E6401544
+$20295274 E6401544
+!Debug Codes:
++Enable Debug Level Select Menu In Main Menu
+%Credits: punk7890
+$005FC048 00000001
++Show Safe Area
+%Credits: punk7890
+$006B40A0 00000001
++Skip Logos
+%Credits: punk7890
+$005FC088 00000001
++View Lightmaps Only
+%Credits: punk7890
+$006B40A8 00000001
+!!
++Disable FMV
+%Credits: Code Master
+$2010B7E0 24020001
++Enable Auto Aiming Always Off
+%Credits: Code Master
+$005A2730 00000000
++Enable Auto Aiming Always On
+%Credits: Code Master
+$005A2730 00000001
++Enable Auto Lock Always Off
+%Credits: Code Master
+$005A2738 00000000
++Enable Auto Lock Always On
+%Credits: Code Master
+$005A2738 00000001
++Enable Bullet Time Aid Always Off
+%Credits: Code Master
+$005964F0 00000000
++Enable Bullet Time Aid Always On
+%Credits: Code Master
+$005964F0 00000001
++Enable Subtitles Always Off
+%Credits: Code Master
+$005964F8 00000000
++Enable Subtitles Always On
+%Credits: Code Master
+$005964F8 00000001
++Enable Vibration Always Off
+%Credits: Code Master
+$204416A4 24020000
++Enable Vibration Always On
+%Credits: Code Master
+$204416A4 24020001
++Fast Speed (Press R3+UP To Activate)
+%Credits: Codejunkies
+$D072E99C 0000FFEB
+$20291F04 3C023FC0
++Faster Speed (Press R3+Right To Activate)
+%Credits: Codejunkies
+$D072E99C 0000FFDB
+$20291F04 3C024040
++Fastest Speed (Press R3+DOWN To Activate)
+%Credits: Codejunkies
+$D072E99C 0000FFBB
+$20291F04 3C024100
++Have Idiot AI
+%Credits: MadCatz
+$20385430 03E00008
+$20385434 00000000
+!Have Weapon:
++9Mm Pistol
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000001
+$00000003 000000D8
+$00000074 00000010
++9Mm Pistol (Dual)
+%Credits: Josh_7774
+$D0567B10 04000001
+$6060A980 00000001
+$00000004 000000D8
+$00000074 00000004
+$00000010 00000000
++Desert Eagle
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000001
+$00000003 000000D8
+$0000009C 00000010
++Desert Eagle (Dual)
+%Credits: Josh_7774
+$D0567B10 04000001
+$6060A980 00000001
+$00000004 000000D8
+$0000009C 00000004
+$00000010 00000000
++Dragunov
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000001
+$00000003 000000D8
+$000001DC 00000010
++Grenade
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000001
+$00000003 000000D8
+$0000027C 00000010
++Ingram
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000001
+$00000003 000000D8
+$00000114 00000010
++Ingram (Dual)
+%Credits: Josh_7774
+$D0567B10 04000001
+$6060A980 00000001
+$00000004 000000D8
+$00000114 00000004
+$00000010 00000000
++Kalashnikov
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000001
+$00000003 000000D8
+$00000164 00000010
++M4 Carbine
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000001
+$00000003 000000D8
+$0000018C 00000010
++Melee Attack
+%Credits: Josh_7774
+$D0567B10 06000001
+$6060A980 00000001
+$00000003 000000D8
+$0000022C 00000010
+$6060A980 00000001
+$00010002 000000D8
+$00000220 00000000
++Molotov Cocktail
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000001
+$00000003 000000D8
+$00000254 00000010
++MP5
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000001
+$00000003 000000D8
+$0000013C 00000010
++Pump-Action Shotgun
+%Credits: Josh_7774
+$D0567B10 04000001
+$6060A980 00000001
+$00000004 000000D8
+$000000CC 00000004
+$00000010 00000000
++Sawed-Off Shotgun
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000001
+$00000003 000000D8
+$000000CC 00000010
++Sniper Rifle
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000001
+$00000003 000000D8
+$000001B4 00000010
++Striker
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000001
+$00000003 000000D8
+$000000EC 00000010
+!!
++Have: One Hit Kill
+%Credits: MadCatz
+$200C2000 90810003
+$200C2004 54200001
+$200C2008 AC8000DC
+$200C200C 080E150C
+$200C2010 00000000
+$20277940 0C030800
++Idiot AI
+%Credits: Code Master
+$1027785E 00001000
+!Infinite Ammo:
++9Mm Ammo
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 000000A0
+$00010002 000000D8
+$00000060 00000000
++Desert Eagle Ammo
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000064
+$00010002 000000D8
+$00000088 00000000
++Dragunov Ammo
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000064
+$00010002 000000D8
+$000001C8 00000000
++Grenades
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 0000000A
+$00010002 000000D8
+$00000268 00000000
++Ingram Ammo
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000140
+$00010002 000000D8
+$00000100 00000000
++Kalashnikov Ammo
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 0000012C
+$00010002 000000D8
+$00000150 00000000
++M4 Carbine Ammo
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 0000012C
+$00010002 000000D8
+$00000178 00000000
++Molotov Cocktails
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 0000000A
+$00010002 000000D8
+$00000240 00000000
++MP5 Ammo
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 0000012C
+$00010002 000000D8
+$00000128 00000000
++Shotgun Ammo
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 0000008C
+$00010002 000000D8
+$000000B0 00000000
++Sniper Rifle Ammo
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 00000032
+$00010002 000000D8
+$000001A0 00000000
++Striker Ammo
+%Credits: Josh_7774
+$D0567B10 03000001
+$6060A980 000000C8
+$00010002 000000D8
+$000000D8 00000000
+!!
++Infinite Ammo
+%Credits: MadCatz
+$203ED8AC 24013634
++Infinite Bullet Time
+%Credits: Code Master
+$20295270 00000000
+$202955A0 00000000
++Infinite Health For Max On Chapter 5 Part 2
+%Credits: punk7890
+$D106FAB6 00003F80
+$2106FAAC 437A0000
++Infinite Health For Max On Chapter 6 Part 2
+%Credits: punk7890
+$D1069886 00003F80
+$2106987C 437A0000
++Infinite Health {<I>Main Weapon Codes</I>}
+%Credits: Code Master
+$20365EEC 3C02447A
+$20365EF0 AC8200DC
++Infinite Health {<I>Main Weapon Codes</I>}
+%Credits: Codejunkies
+$20365EEC 3C01437A
+$20365EF0 AC8100DC
++Infinite Health {<I>Main Weapon Codes</I>}
+%Credits: MadCatz
+$20365EEC 3C02437A
+$20365EF0 AC8200DC
++Infinite Painkillers
+%Credits: MadCatz
+$203EC228 24010009
+$203EC23C AC810000
++Invert Aiming Always Off
+%Credits: Code Master
+$204416F4 24020000
++Invert Aiming Always On
+%Credits: Code Master
+$204416F4 24020001
++Invincibility
+%Credits: nolberto82
+$2036EDF0 0C03C000
+$200F0000 34020001
+$200F0004 A622035A
+$200F0008 03E00008
+$200F000C 27A20170
+!Item Usage/Clip Reload Codes (See Note):
++Extra Items/Ammo Usage
+%Credits: Code Master
+$203EC190 00651821
++Infinite Item/Ammo Usage {<I>These Codes Works For Items And Your Ammo Clip Upon Reloading.</I>}
+%Credits: Code Master
+$203EC190 00000000
++Max Items/Ammo Usage
+%Credits: Code Master
+$203EC190 24030063
+!!
+!Main:
++Cannot Be Hit With Bullets
+%Credits: Josh_7774
+$D0567B10 02000001
+$6060A980 00000000
+$00000000 00000191
++Game Mode Modifier {<I>01 - Detective 02 - Hard-Boiled 03 - Dead On Arrival 04 - New York Minute</I>}
+%Credits: Josh_7774
+$009D32BC 000000??
++Game Speed Modifier {<I>3F800000 - 100% (Default)</I>}
+%Credits: Josh_7774
+$D0567B10 03000001
+$20741774 ????????
++Hold L1 To Moon Jump
+%Credits: Josh_7774
+$D072E99C 0300FBFF
+$6060A980 40C00000
+$00020002 00000158
+$00000054 00000000
++Immortal Cheat On
+%Credits: Josh_7774
+$D0567B10 02000001
+$6060A980 00000001
+$00000000 00000358
++Infinite Health {<I>Main Weapon Codes</I>}
+%Credits: Josh_7774
+$D0567B10 02000001
+$6060A980 7F7FFFFF
+$00020000 0000027C
++Invulnerability Cheat On
+%Credits: Josh_7774
+$D0567B10 02000001
+$6060A980 00000001
+$00000000 0000035A
++No Clipping Cheat On
+%Credits: Josh_7774
+$D0567B10 02000001
+$6060A980 00000001
+$00000002 0000015C
+$00000016 00000000
++Rapid Fire
+%Credits: Josh_7774
+$D0567B10 02000001
+$6060A980 3B000000
+$00020000 0000070C
++Rapid Fire (Alternate)
+%Credits: Josh_7774
+$D072E99C 0000F7FF
+$6060A980 3B000000
+$00020000 0000070C
++Sneaking Stance On
+%Credits: Josh_7774
+$D0567B10 02000001
+$6060A980 00000001
+$00000000 000001AB
+!!
+!Main Weapon Codes:
++1 Hit Kills
+%Credits: Codejunkies
+$20385430 AC8000DC
++Disable Aggressive AI
+%Credits: Codejunkies
+$2027785C 10000036
++Extra Ammo
+%Credits: Codejunkies
+$103ED8AC 00000001
++Infinite Ammo
+%Credits: Codejunkies
+$203ED8AC 00000000
++Infinite Bullet Time
+%Credits: Codejunkies
+$20295270 00000000
++Infinite Painkillers
+%Credits: Codejunkies
+$203EC194 00000000
++Low Gravity/Double Jumps
+%Credits: Codejunkies
+$205BB250 00000000
+$205BB268 00000000
+$205BB258 40800000
+$205BB260 40800000
++Normal Speed
+%Credits: Codejunkies
+$D072E99C 0000FF7B
+$20291F04 3C023F80
+!!
++Moon Gravity/Infinite Double Jumps
+%Credits: Code Master
+$205BB258 41000000
+$205BB260 41000000
+$205BB268 00000000
++Never Reload
+%Credits: Code Master
+$203ED8B0 00000000
++P1 Press L1+Select For Super Speed
+%Credits: Code Master
+$D072E99C 0000FBFE
+$10291F04 00004000
++P1 Press L2+Select For Turbo Speed
+%Credits: Code Master
+$D072E99C 0000FEFE
+$10291F04 00004080
++P1 Press R1+Select For Ultra Speed
+%Credits: Code Master
+$D072E99C 0000F7FE
+$10291F04 00004100
++P1 Press R2+Select For Normal Speed
+%Credits: Code Master
+$D072E99C 0000FDFE
+$10291F04 00003F80
++Unlock All Difficulty / Level Select
+%Credits: MadCatz
+$20421454 24020001
+!!
+

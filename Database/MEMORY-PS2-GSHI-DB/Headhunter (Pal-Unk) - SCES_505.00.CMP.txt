@@ -1,0 +1,102 @@
+^3 = NAME: Headhunter (Pal-Unk)
+^2 = GameID: SCES-50500
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F019032C 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F019032C 0019032F
+$900F0094 00000001
+!!
+!Health Codes:
++Infinite Adrenaline
+%Credits: Codejunkies
+$2055B530 42C80000
++Infinite Ammo Machine Gun
+%Credits: Codejunkies
+$1055B9D8 0000001E
++Infinite Ammo Missile Launcher
+%Credits: Codejunkies
+$103FF758 0000000A
++Infinite Ammo Neurostunner
+%Credits: Codejunkies
+$103FF74C 0000000A
++Infinite Ammo Shotgun
+%Credits: Codejunkies
+$1055BA20 00000008
++Infinite Health
+%Credits: Codejunkies
+$2055B52C 42C80000
++Infinite Proximity Mines
+%Credits: Codejunkies
+$103FE77C 00000009
++Infinite Resonator Grenades
+%Credits: Codejunkies
+$103FE774 00000009
++Leila Building Always Access
+%Credits: Codejunkies
+$0058A704 00000001
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E0020000 3055B52C
+$E00141C8 3055B52E
+$2055B52C 41C80000
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0020000 3055B52C
+$E0014248 3055B52E
+$2055B52C 42480000
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E0020000 3055B52C
+$E0014296 3055B52E
+$2055B52C 42960000
++No Re-Load Stimulator Auto
+%Credits: Codejunkies
+$1055B900 0000000A
++Obtain AAA Licence {<I>Must Enter VR Training.</I>}
+%Credits: Codejunkies
+$202E6AD0 FFFFFFFF
+$202E6AD4 FFFFFFFF
+!!
+!Skill Points Codes:
++1500 Skill Points
+%Credits: Codejunkies
+$20587D14 44BB8000
+$2058A700 DCDCDCDC
+$0058A704 000000DC
++250 Skill Points
+%Credits: Codejunkies
+$20587D14 437A0000
+$0058A700 000000FA
++500 Skill Points
+%Credits: Codejunkies
+$20587D14 43FA0000
+$0058A700 000000F4
++800 Skill Points
+%Credits: Codejunkies
+$20587D14 44480000
+$1058A700 00002020
+$0058A702 00000020
+!!
++1500 Skill Points
+%Credits: InterAct
+$20587D14 44BB8000
+$0058A700 000005DC
++500 Skill Points
+%Credits: InterAct
+$20587D14 43FA0000
+$0058A700 000001F4
++800 Skill Points
+%Credits: InterAct
+$20587D14 44480000
+$0058A700 00000320
++Obtain AAA Licence {<I>Must Enter VR Training.</I>}
+%Credits: InterAct
+$202E6AD2 FFFFFFFF
++Obtain AAA Licence (Must Enter VR Training)
+%Credits: Codejunkies
+$202E6AD2 FFFFFFFF
+$202E6AD4 FFFFFFFF
+!!

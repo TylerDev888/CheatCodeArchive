@@ -1,0 +1,9 @@
+^2 = GameID: NPEB01163
+^3 = NAME: Virtua Fighter 2 (PSN)
+^4 = FILE: SYSTEM.DAT
++Update Crc32 For System.dat (required)
+(set range:0x000010,0x001073)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:CRC32
+$write at 0x000008:[hash]

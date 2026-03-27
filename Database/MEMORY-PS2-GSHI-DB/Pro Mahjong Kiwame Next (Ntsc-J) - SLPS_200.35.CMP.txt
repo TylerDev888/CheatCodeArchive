@@ -1,0 +1,15 @@
+^3 = NAME: Pro Mahjong Kiwame Next (Ntsc-J)
+^2 = GameID: SLPS-20035
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$901B5CB8 0C06D6D4
+!!
++L3 For Debug Menu, R3 To Disable
+%Credits: punk7890
+$D01F2F02 0000FFFD
+$201B8288 24110001
+$D01F2F02 0000FFFB
+$201B8288 70008E28
+!!
+

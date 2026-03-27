@@ -1,0 +1,36 @@
+^2 = GameID: BLUS30347
+^3 = NAME: Call of Juarez Bound in Blood
+^5 = APCRED: Created by startuga
+^4 = FILE: COJ2-DAT
++Decompress Coj2-dat (required)
+$Decompress(0x0000000A, -15)
+^4 = FILE: ~extracted\0000000a.dat
++Green:goldrush! And On The Rigat Track 1$ More(working)
+$search "AchGRush_G"
+$write next (25):0x00000F423F
+$search "AchOTRT_G"
+$write next (23):0x0000030D3F
++Green:unforgiven One More (working)
+$search "AchUnfor_G"
+$write next (25):0x0000000009
++Green:well Invested One More (working)
+$search "AchWellInv_G"
+$write next (29):0x0000090013
++Green:max Cash Thomas (working)
+$search "Cash1"
+$write next (5):0x0000FFFFFF
++Green:max Cash Ray (working)
+$search "Cash0"
+$write next (5):0x0000FFFFFF
++Green:max Cash Multiplayer (working)
+$search "Cash"
+$write next (4):0x0000FFFFFF
++Green:god Mode (working)
+$search "CheatGodMode"
+$write next (12):0x0000000001
++Green:magic Ammo (working)
+$search "CheatMagicAmmo"
+$write next (14):0x0000000001
+^4 = FILE: COJ2-DAT
++Compress Coj2-dat (required)
+$Compress(0x0000000A)

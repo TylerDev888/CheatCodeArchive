@@ -1,0 +1,123 @@
+^1 = HASH: F243A4C9
+^3 = NAME: Tom And Jerry-War Of The Whiskers
+^2 = GameID: SLUS_203.55
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0016B0D7
+!!
+!Codes:
++Infinite Health P1
+%Credits: Code Master
+$21D558FC 42C80000
++75% Health P1
+%Credits: Code Master
+$D1D558FE 000042C8
+$21D558FC 42960000
++50% Health P1
+%Credits: Code Master
+$D1D558FE 000042C8
+$21D558FC 42480000
++25% Health P1
+%Credits: Code Master
+$D1D558FE 000042C8
+$21D558FC 41C80000
++No Health P1
+%Credits: Code Master
+$21D558FC 00000000
++1-Hit Death P1
+%Credits: Code Master
+$D1D558FE 000042C8
+$21D558FC 3F800000
++Max Berserk P1
+%Credits: Code Master
+$21D558F0 42C80000
++No Berserk P1
+%Credits: Code Master
+$21D558F0 00000000
++P1 Needs 1 Win To Win
+%Credits: Code Master
+$D1D515E0 00000000
+$01D515E0 00000001
+$D1D515E0 00000100
+$01D515E0 00000001
++P1 Never Wins
+%Credits: Code Master
+$01D515E0 00000000
++Infinite Health P2
+%Credits: Code Master
+$21D5BD9C 42C80000
++75% Health P2
+%Credits: Code Master
+$D1D5BD9E 000042C8
+$21D5BD9C 42960000
++50% Health P2
+%Credits: Code Master
+$D1D5BD9E 000042C8
+$21D5BD9C 42480000
++25% Health P2
+%Credits: Code Master
+$D1D5BD9E 000042C8
+$21D5BD9C 41C80000
++No Health P2
+%Credits: Code Master
+$21D5BD9C 00000000
++1-Hit Death P2
+%Credits: Code Master
+$D1D5BD9E 000042C8
+$21D5BD9C 3F800000
++Max Berserk P2
+%Credits: Code Master
+$21D5BD90 42C80000
++No Berserk P2
+%Credits: Code Master
+$21D5BD90 00000000
++P2 Needs 1 Win To Win
+%Credits: Code Master
+$D1D515E0 00000000
+$01D515E1 00000001
+$D1D515E0 00000001
+$01D515E1 00000001
++P2 Never Wins
+%Credits: Code Master
+$01D515E1 00000000
+!!
+!Unlock Character Codes:
++Tom
+%Credits: Code Master
+$2021CEE4 00000001
++Jerry
+%Credits: Code Master
+$2021CEE8 00000001
++Spike
+%Credits: Code Master
+$2021CEEC 00000001
++Butch
+%Credits: Code Master
+$2021CEF0 00000001
++Nibbles
+%Credits: Code Master
+$2021CEF4 00000001
++Duckling
+%Credits: Code Master
+$2021CEF8 00000001
++Tyke
+%Credits: Code Master
+$2021CEFC 00000001
++Eagle
+%Credits: Code Master
+$2021CF00 00000001
++Monster Jerry
+%Credits: Code Master
+$2021CF04 00000001
++Robot Cat
+%Credits: Code Master
+$2021CF08 00000001
++Lion
+%Credits: Code Master
+$2021CF0C 00000001
++All Characters
+%Credits: Code Master
+$4021CEE4 000B0001
+$00000001 00000000
+!!

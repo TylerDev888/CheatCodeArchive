@@ -1,0 +1,41 @@
+^3 = NAME: Aqua Aqua - Wetrix 2 (PAL-Unk)
+^2 = GameID: SLES-50053
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F011760C 0011760F
++(M) Must Be On
+%Credits: Codejunkies
+$F0117654 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0156B08 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0117654 00117657
++(M) Must Be On
+%Credits: Codejunkies
+$F0156B08 00156B0B
+!!
++All Training Open
+%Credits: Codejunkies
+$101FF6A0 000023A0
+$1021673A 00004398
+$10C7E358 000000FF
+!Shield Codes:
++Shield Is Always Active
+%Credits: Codejunkies
+$102006D0 00000001
++Shield Is Never Active
+%Credits: Codejunkies
+$102006D0 00000000
+!!
++Training Complete
+%Credits: Codejunkies
+$10C7E358 000000FF
++Training Complete
+%Credits: Codejunkies
+$1021673A 00004398
+$10C7E358 000000FF
+!!
+

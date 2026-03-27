@@ -1,0 +1,119 @@
+^1 = HASH: EF 43 2E A1 85 7B 65 51 C3 19 3A C6 4F 70 7F EB 8B 17 4C EC  
+^2 = GameID: SLUS_202.73
+^3 = NAME: Namco Museum
+{Orignal None 50th Version it only has like 10 Games}
+!Masters:
++Enable Code (MUST BE ON)
+$90910BF8 0C2442A6
+!!
+!Joker:
++Joker 1
+$00A1C4C2 0000[Joker:PS2]
++Joker 2
+$00A1C542 0000[Joker:PS2]
+!!
+^4 = FILE: Ms. Pac-Man
++Inf Lives
+$001174C6 00000060
++Start With ?? Lives P1
+$20116108 240200[Amount:99:HEX:BIG]
++Start With ?? Lives P2
+$20116D74 240200[Amount:99:HEX:BIG]
+^4 = FILE: PacMan
++Inf Lives
+$0010A3EA 00000060
++Start With ?? Lives P1,p2
+$20109E74 240200[Amount:99:HEX:BIG]
+^4 = FILE: PacMan And Ms Pacman
++Player 1 Lives
+$00A608E0 00000004
++Player 2 Lives
+$00A608E4 00000004
+^4 = FILE: Pac-Man Arrangement
++Inf Lives
+$101E8CA4 00000000
+^4 = FILE: Galaga
++Inf Lives
+$1013BF0C 00000000
++Double Shot And Never Die (has A Bug)
+$20133304 24020001
++Jump To Stage ?? Hold X On Last Kill
+$2013A6A8 24630001
+$D0A1C4C2 0000BFFF
+$2013A6A8 240300[Amount:63:HEX:BIG]
+!Current Player Codes:
++Alt) Inf Lives
+$00A74050 00000003
++Alt) Stage Select
+$00A74051 000000[Amount:63:HEX:BIG]
++Alt) Double Shot And Never Die
+$00A74057 00000001
+$00A7405B 00000001
+!!
+!Player Not On Screen:
++Alt) Inf Lives
+$00A74090 00000003
++Alt) Stage Select
+$00A74091 000000[Amount:63:HEX:BIG]
++Alt) Double Shot And Never Die
+$00A74097 00000001
+$00A7409B 00000001
+!!
+^4 = FILE: Galaga Arrangement
+!Both Players Codes
++Inf Lives
+$207C0FF0 00000000
++Fire Power Mod On Pick Up ??
+$20837888 2403[FP]
+!Player 1 Codes:
++Inf Lives
+$00A67BC6 000000[Amount:99:HEX:BIG]
++Fire Power P1
+$00A637C4 0000[FP]
++Fire Power P2
+$00A63744 0000[FP]
+!!
+^4 = FILE: Galaxian
++Inf Lives
+$101474EC 00000000
+$101474F0 00000000
++Alt) Inf Lives P1
+$00A60B6C 00000003
+^4 = FILE: Dig Dug
+!Both Player Codes:
++Inf Lives
+$1017593C 00000009
++Jump To Stage ?? Hold X On Last Kill/Enemy Exit
+$20175434 24420001
+$D0A1C4C2 0000BFFF
+$20175434 2402[Amount:63:HEX:BIG]
+!!
+!Player 1 Codes:
++Alt)inf Lives P1
+$00A8B738 00000009
++Alt)start On Level ?? P1
+$00A8B73D 000000[Amount:63:HEX:BIG]
+!!
+!Player 2 Codes:
++Alt)inf Lives P2
+$00A8B7A8 00000009
++Alt)start On Level ?? P2
+$00A8B7AD 000000[Amount:63:HEX:BIG]
+!!
+^4 = FILE: DigDug Arrangement
++Inf Lives
+$20449FD8 00000000
+^4 = FILE: Pole Position 
++Infinite Time
+$00AE69DB 00000063
+^4 = FILE: Pole Position II 
++Infinite Time
+$00B1047B 00000063
+^6 = MODS:
+[FP]
+0000	Normal 
+0004	Wave
+0008	Norm Faster
+000C	3 Way Bounce Shot
+[\FP]
+Hacked By Skiller And VisitntX

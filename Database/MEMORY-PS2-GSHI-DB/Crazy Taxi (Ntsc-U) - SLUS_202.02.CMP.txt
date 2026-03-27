@@ -1,0 +1,88 @@
+^3 = NAME: Crazy Taxi (Ntsc-U)
+^2 = GameID: SLUS-20202
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F019FCB8 001A4297
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001A4297
+!!
+!Always Drive As:
++Axel
+%Credits: MadCatz
+$D047C798 00000150
+$002FCC98 00000001
++BD Joe
+%Credits: MadCatz
+$D047C798 00000150
+$002FCC98 00000002
++Gena
+%Credits: MadCatz
+$D047C798 00000150
+$002FCC98 00000003
++Gus
+%Credits: MadCatz
+$D047C798 00000150
+$002FCC98 00000004
+!!
++Character Modifier (Arcade Mode)
+%Credits: Code Master
+$D047C798 00000150
+$002FCC98 000000??
++Constant RNG
+%Credits: root670
+$2015B1E0 00601824
+$20175D28 00601824
+$20196668 00601824
++Press L1+L2 For Ultra Turbo Speed
+%Credits: Code Master
+$D047B408 00000005
+$1030A55A 00004800
++Press L1+R1 For More Time
+%Credits: Code Master
+$D047B408 0000000C
+$102F03CC 00001FFF
++Press L2+R2 For No Time
+%Credits: Code Master
+$D047B408 00000003
+$102F03CC 00000000
++Press R1+R2 For Turbo Speed
+%Credits: Code Master
+$D047B408 0000000A
+$1030A55A 00004600
+!Time Codes:
++1 Balloon Left
+%Credits: MadCatz
+$1047BB14 00000001
++Extra (Press Square)
+%Credits: MadCatz
+$D047B408 00000080
+$102F03CC 00001FFF
++Infinite Fare
+%Credits: MadCatz
+$102F0404 00000FFF
++Max Big Drift Combo
+%Credits: MadCatz
+$1047B950 000003E7
++Max Customers
+%Credits: MadCatz
+$1047BDE4 000003E7
++Max Money Earned
+%Credits: MadCatz
+$202F03E0 05F5E0FF
++None (Press Select)
+%Credits: MadCatz
+$D047B408 00000100
+$102F03CC 00000000
++Speed Burst (Press R1 & L3)
+%Credits: MadCatz
+$D047B408 00000208
+$1030A55A 00004600
++Super (Press L3)
+%Credits: MadCatz
+$D047B408 00000200
+$1030A55A 00004800
+!!
+!!
+

@@ -1,0 +1,44 @@
+^3 = NAME: Socom - U.S. Navy Seals [Demo] (Ntsc-U)
+^2 = GameID: SCUS-97205
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01643F0 001703FF
+$200FFF00 3C030047
+$200FFF04 8C635980
+$200FFF0C 10030008
+$200FFF14 24020063
+$200FFF34 24030070
+$200FFF38 0805C0EA
+$201703A4 0803FFC0
++(M) Must Be On
+%Credits: Codejunkies
+$F01703FC 001703FF
+$200FFF04 8C635980
+$200FFF0C 10030008
+$200FFF14 24020063
+$200FFF34 24030070
+$200FFF38 0805C0EA
+$201703A4 0803FFC0
+!!
++Infinite Ammo Item 1
+%Credits: InterAct
+$200FFF20 A0620730
++Infinite Ammo Item 2
+%Credits: InterAct
+$200FFF24 A0620758
++Infinite Ammo Item 3
+%Credits: InterAct
+$200FFF28 A0620780
++Infinite Primary Ammo
+%Credits: InterAct
+$200FFF18 A06206E0
++Infinite Secondary Ammo
+%Credits: InterAct
+$200FFF1C A0620708
++Only Rifle Butts Kill {<I>Works For All Characters, Even Enemies.</I>}
+%Credits: InterAct
+$2029B940 03E00008
+$2029B944 00000000
+!!
+

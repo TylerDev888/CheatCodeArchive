@@ -1,0 +1,19 @@
+^2 = GameID: BLJS10281
+^3 = NAME: Borderlands: The Pre-Sequel
+(from shaka and chaoszage)
+^4 = FILE: PAYLOAD
++Decompress Payload (required)
+$Decompress(0x00000018, 15)
+^4 = FILE: ~extracted\00000018.dat
++9999999 Token
+$write at 0x00000320:0x98967F00
+^4 = FILE: PAYLOAD
++Compress Payload (required)
+$Compress(0x00000018)
+^4 = FILE: PAYLOAD
++Update Sha1 For Payload (required)
+(set range:0x000014,0x000166)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

@@ -1,0 +1,32 @@
+^3 = NAME: Silent Hill 2
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 0020FA2F
+!!
+!Other:
++Unlimited Health
+%Credits: Xploder
+$203EDEF4 000000FF
+$203EDEF8 0000000F
+!!
+!Unlimited Ammunition:
++Pistol
+%Credits: Xploder
+$01125C74 6809280A
++Shotgun
+%Credits: Xploder
+$01125C78 68092806
++Rifle
+%Credits: Xploder
+$01125C7C 68092804
+!!
+!Have All:
++Weapons
+%Credits: Xploder
+$11125C60 0723FD50
++Items
+%Credits: Xploder
+$21125C62 FFFFFFFF
+$21125C66 FFFFFFFF
+!!

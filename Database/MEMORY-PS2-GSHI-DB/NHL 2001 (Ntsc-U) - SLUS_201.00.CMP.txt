@@ -1,0 +1,243 @@
+^3 = NAME: NHL 2001 (Ntsc-U)
+^2 = GameID: SLUS-20100
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F0294E20 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0294E20 00294E23
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002CF72B
+!!
++Away Team Score Modifier
+%Credits: Code Master
+$10369A62 0000????
+!Away Team Stats Modifier Codes:
++Breakaways
+%Credits: Code Master
+$10369A8A 0000????
++Empty Net Goals
+%Credits: Code Master
+$10369A6C 0000????
++Faceoffs
+%Credits: Code Master
+$10369A70 0000????
++Hits
+%Credits: Code Master
+$10369A90 0000????
++Max Breakaways
+%Credits: Code Master
+$10369A88 0000????
++Max One-Timers
+%Credits: Code Master
+$10369A82 0000????
++Max Passing
+%Credits: Code Master
+$10369A92 0000????
++Max Penalty Shots
+%Credits: Code Master
+$10369A8C 0000????
++Max Powerplays
+%Credits: Code Master
+$10369A74 0000????
++One-Timer Goals
+%Credits: Code Master
+$10369A86 0000????
++One-Timers
+%Credits: Code Master
+$10369A84 0000????
++Passing
+%Credits: Code Master
+$10369A94 0000????
++Penalties
+%Credits: Code Master
+$10369A7C 0000????
++Penalty Minutes
+%Credits: Code Master
+$10369A7E 0000????
++Penalty Shots
+%Credits: Code Master
+$10369A8E 0000????
++Powerplay Minutes
+%Credits: Code Master
+$10369A7A 0000????
++Powerplays
+%Credits: Code Master
+$10369A76 0000????
++Shorthanted Goals
+%Credits: Code Master
+$10369A68 0000????
++Shots
+%Credits: Code Master
+$10369A60 0000????
++Time On Attack
+%Credits: Code Master
+$10369A80 0000????
+!!
+!Bottom Team Codes:
++Score 0 Points
+%Credits: Codejunkies
+$10369A06 00000000
++Score 99 Points
+%Credits: Codejunkies
+$10369A06 00000063
+!!
+!Character Creation Codes [Special Note 1]:
++Max Acceleration
+%Credits: Code Master
+$1068F1C4 00000063
++Max Aggressiveness
+%Credits: Code Master
+$1068CFD4 00000063
++Max Agility
+%Credits: Code Master
+$10687814 00000063
++Max Balance
+%Credits: Code Master
+$10690FB4 00000063
++Max Checking
+%Credits: Code Master
+$1069AF54 00000063
++Max Def. Awareness
+%Credits: Code Master
+$1069FD24 00000063
++Max Deking
+%Credits: Code Master
+$10695984 00000063
++Max Endurance
+%Credits: Code Master
+$10688C04 00000063
++Max Faceoffs
+%Credits: Code Master
+$10699964 00000063
++Max Hand-Eye Coodination
+%Credits: Code Master
+$10696B74 00000063
++Max Intensity
+%Credits: Code Master
+$1068B7E4 00000063
++Max Off. Awareness
+%Credits: Code Master
+$1069DD34 00000063
++Max Passing
+%Credits: Code Master
+$1068A3F4 00000063
++Max Shot Accuracy
+%Credits: Code Master
+$10693B94 00000063
++Max Shot Power
+%Credits: Code Master
+$106923A4 00000063
++Max Speed
+%Credits: Code Master
+$10686824 00000063
++Max Toughness
+%Credits: Code Master
+$1069C544 00000063
++Special Note 1 {<I>With These Codes, The Stats Wont Show Up, But They Do Get Saved When You Save Your Created Character.</I>}
+%Credits: NA
+!!
++Home Team Score Modifier
+%Credits: Code Master
+$10369A06 0000????
+!Home Team Stats Modifier Codes:
++Breakaways
+%Credits: Code Master
+$10369A2E 0000????
++Empty Net Goals
+%Credits: Code Master
+$10369A10 0000????
++Faceoffs
+%Credits: Code Master
+$10369A14 0000????
++Hits
+%Credits: Code Master
+$10369A34 0000????
++Max Breakaways
+%Credits: Code Master
+$10369A2C 0000????
++Max One-Timers
+%Credits: Code Master
+$10369A26 0000????
++Max Passing
+%Credits: Code Master
+$10369A36 0000????
++Max Penalty Shots
+%Credits: Code Master
+$10369A30 0000????
++Max Powerplays
+%Credits: Code Master
+$10369A18 0000????
++One-Timer Goals
+%Credits: Code Master
+$10369A2A 0000????
++One-Timers
+%Credits: Code Master
+$10369A28 0000????
++Passing
+%Credits: Code Master
+$10369A38 0000????
++Penalties
+%Credits: Code Master
+$10369A20 0000????
++Penalty Minutes
+%Credits: Code Master
+$10369A22 0000????
++Penalty Shots
+%Credits: Code Master
+$10369A32 0000????
++Powerplay Minutes
+%Credits: Code Master
+$10369A1E 0000????
++Powerplays
+%Credits: Code Master
+$10369A1A 0000????
++Shorthanted Goals
+%Credits: Code Master
+$10369A0C 0000????
++Shots
+%Credits: Code Master
+$10369A04 0000????
++Time On Attack
+%Credits: Code Master
+$10369A24 0000????
+!!
++Infinite Creation Points
+%Credits: Code Master
+$106B7328 00000096
++P1 Press L1+L2 For More Time
+%Credits: Code Master
+$D041D5C2 0000FAFF
+$1030AF8C 000004B0
++P1 Press R1+R2 To End Period
+%Credits: Code Master
+$D041D5C2 0000F5FF
+$1030AF8C 00000001
++P2 Press L1+L2 For More Time
+%Credits: Code Master
+$D041D9C2 0000FAFF
+$1030AF8C 000004B0
++P2 Press R1+R2 To End Period
+%Credits: Code Master
+$D041D9C2 0000F5FF
+$1030AF8C 00000001
++Start On 2Nd Period
+%Credits: Code Master
+$D030AFA6 00000000
+$2030AFA4 00010001
++Start On 3Rd Period
+%Credits: Code Master
+$D030AFA6 00000000
+$2030AFA4 00020002
+!Top Team Codes:
++Score 0 Points
+%Credits: Codejunkies
+$10369A62 00000000
++Score 99 Points
+%Credits: Codejunkies
+$10369A62 00000063
+!!
+!!
+

@@ -1,0 +1,28 @@
+^3 = NAME: Champions Of Norrath - Realms Of Everquest (Pal-Unk)
+^2 = GameID: SLES-52325
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01001E8 001001EB
+$202E3140 00000000
+!!
++AR Below 3.14 Fix
+%Credits: Codejunkies
+$202F05C8 3C03200F
+$202F05D0 8C65FFF8
+$202F05D4 24040079
+$202F05D8 24030074
+$202F05DC 0000000C
+!Go To The Option Menu In Game Then Press Circle To Access The Debug Menu Which Features Level Select And Invincibility:
++Disable AI
+%Credits: Codejunkies
+$2010BCAC 24020001
++Quick Level Up
+%Credits: Codejunkies
+$201C424C 24820001
+!!
++Super Main Menu
+%Credits: Codejunkies
+$101825BC 000026F0
+!!
+

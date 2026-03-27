@@ -1,0 +1,9 @@
+^2 = GameID: BLUS30377
+^3 = NAME: Call of Duty: Modern Warfare 2
+^4 = FILE: SAVEGAME.SVG
++Update Adler32 For Savegame.svg (required)
+(set range:0x000480,0x06C277)
+$set pointer:eof+1
+$set range:0x000480,pointer
+$set [hash]:Adler32
+$write at 0x000008:[hash]

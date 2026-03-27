@@ -1,0 +1,10 @@
+^2 = GameID: BLES00580
+^3 = NAME: Overlord II
+^4 = FILE: SYS-DATA
++Update Crc32 For Sys-data (required)
+(set range:0x000004,0x01A781)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$set [hash]:xor:FFFFFFFF
+$write at 0x000000:[hash]

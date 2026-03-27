@@ -1,0 +1,61 @@
+^1 = HASH: F849BB63
+^3 = NAME: Army Men-Air Attack 2
+^2 = GameID: SLUS_200.04
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0014470F
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$9014470C 0C05BE5B
+!!
+!Codes:
++Have All Levels
+%Credits: Code Master
+$202E0D20 00000014
+$202E0E58 00000014
++Have All Co-Pilots
+%Credits: Code Master
+$202E0D0C 000000FF
+$202E0E44 000000FF
++Access All Helicopters
+%Credits: Code Master
+$2014FD54 2410000F
++Bee Mode
+%Credits: Code Master
+$10A86DB4 00000003
+!!
+!Single Player Mode Codes:
++Infinite Health
+%Credits: Code Master
+$D0A51AAE 000000A1
+$20A51A8C 000F5000
++Infinite Ammo (Helicopter)
+%Credits: Code Master
+$D0A46442 000000A1
+$00A4642A 00000063
++Infinite Ammo (Co-Pilot)
+%Credits: Code Master
+$D0A46522 000000A1
+$00A4650A 00000063
+!!
+!Multi Player Mode Codes:
++Infinite Health P1
+%Credits: Code Master
+$20A50E4C 000F5000
++Infinite Health P2
+%Credits: Code Master
+$20A512CC 000F5000
++Infinite Ammo P1 (Helicopter)
+%Credits: Code Master
+$00A457EA 00000063
++Infinite Ammo P2 (Helicopter)
+%Credits: Code Master
+$00A45B6A 00000063
++Infinite Ammo P1 (Co-Pilot)
+%Credits: Code Master
+$00A458CA 00000063
++Infinite Ammo P2 (Co-Pilot)
+%Credits: Code Master
+$00A45C4A 00000063
+!!

@@ -1,0 +1,2410 @@
+^2 = GameID: CUSA51533,CUSA48980,CUSA51534
+^3 = NAME: The Legend of Heroes: Trails Beyond The Horizon
+^SECONDLAYER: YES{CRC32 (EOF-0x0C Init)}
+^4 = FILE: save[0-9]+\user.dat
+{More Found @ https://docs.google.com/spreadsheets/d/1v0AO3SG7EoKeA0lH_KNMryIiTuNsJxKKENvaPDVRw5o}
+!Items:
++Have Individual Item (Set Amount)
+%Credits: Pj1980
+$00[ITEM] 000000[AMOUNT:63:HEX:BIG<VALUE>]
+!Have All Types:
+!Individual Types:
++Have All/MAX Recovery
+%Credits: Pj1980
+$411BB4B4 00000063
+$40080004 00000000
+$411BB4D8 00000063
+$40030004 00000000
+$411BB4EC 00000063
+$40020004 00000000
+$101BB500 00000063
++Have All/MAX Support
+%Credits: Pj1980
+$411BB504 00000063
+$40070004 00000000
+$411BB528 00000063
+$40030004 00000000
+$411BB53C 00000063
+$40030004 00000000
++Have All/MAX Droplet
+%Credits: Pj1980
+$411BB548 00000063
+$400C0004 00000000
++Have All/MAX Fish Bait
+%Credits: Pj1980
+$411BB578 00000063
+$40030004 00000000
+$411BB640 00000063
+$40030004 00000000
+$411BB654 00000063
+$40030004 00000000
++Have All/MAX Skill Stones
+%Credits: Pj1980
+$411BB58C 00000063
+$40180004 00000000
+$101BB5F0 00000063
+$411BB62C 00000063
+$40050004 00000000
++Have All/MAX BGM
+%Credits: Pj1980
+$411BB708 00000063
+$400B0004 00000000
+$411BFB00 00000063
+$400F0004 00000000
+$411BFB78 00000063
+$40120004 00000000
+$411BFBF0 00000063
+$40130004 00000000
+$101BFC68 00000063
+$411BFC90 00000063
+$402F0004 00000000
+$411BFDC8 00000063
+$40070004 00000000
+$411BFE3C 00000063
+$40310004 00000000
++Have All/MAX Recipe
+%Credits: Pj1980
+$411BB89C 00000063
+$402A0004 00000000
++Have All/MAX Documents
+%Credits: Pj1980
+$411BB9B0 00000063
+$40160004 00000000
++Have All/MAX Fishing
+%Credits: Pj1980
+$411BBA14 00000063
+$40060004 00000000
++Have All/MAX Analysis Support
+%Credits: Pj1980
+$411BBAC8 00000063
+$40070004 00000000
++Have All/MAX Weapons
+%Credits: Pj1980
+$411BBAF0 00000063
+$40140004 00000000
++Have All/MAX Weapons
+%Credits: Pj1980
+$411BBB44 00000063
+$400C0004 00000000
+$411BBB7C 00000063
+$40040004 00000000
+$411BBB90 00000063
+$40130004 00000000
+$411BBBE4 00000063
+$40120004 00000000
+$411BBC34 00000063
+$40120004 00000000
+$411BBC84 00000063
+$40120004 00000000
+$411BBCD4 00000063
+$40110004 00000000
+$411BBD20 00000063
+$40130004 00000000
+$411BBD7C 00000063
+$40100004 00000000
+$411BBDC8 00000063
+$400C0004 00000000
+$101BBE14 00000063
+$411BBE24 00000063
+$40090004 00000000
+$411BBE64 00000063
+$40020004 00000000
+$411BBE78 00000063
+$40150004 00000000
+$411BBED8 00000063
+$40100004 00000000
+$411BBF2C 00000063
+$400F0004 00000000
+$411BBF7C 00000063
+$400F0004 00000000
+$411BBFF0 00000063
+$40100004 00000000
+$411BC044 00000063
+$400F0004 00000000
+$411BC094 00000063
+$400F0004 00000000
+$411BC0E4 00000063
+$400F0004 00000000
+$411BC160 00000063
+$40050004 00000000
+$411BC178 00000063
+$40050004 00000000
+$101BC1AC 00000063
+$411BC1B4 00000063
+$40050004 00000000
+$411BC1CC 00000063
+$40050004 00000000
+$101BC1E8 00000063
+$411BC1F0 00000063
+$40090004 00000000
+$101BC224 00000063
+$411BC22C 00000063
+$40090004 00000000
+$411BC260 00000063
+$40020004 00000000
+$101BC2B0 00000063
++Have All/MAX Weapons-Sub
+%Credits: Pj1980
+$411BC310 00000063
+$40080004 00000000
+$411BC338 00000063
+$40090004 00000000
+$411BC388 00000063
+$40080004 00000000
+$411BC3B0 00000063
+$40080004 00000000
+$411BC3D8 00000063
+$40080004 00000000
+$411BC400 00000063
+$40080004 00000000
++Have All/MAX Armour
+%Credits: Pj1980
+$411BC450 00000063
+$40070004 00000000
+$411BC478 00000063
+$40050004 00000000
+$411BC4A0 00000063
+$40050004 00000000
+$411BC4C8 00000063
+$40080004 00000000
++Have All/MAX FootWear
+%Credits: Pj1980
+$411BC770 00000063
+$40070004 00000000
+$411BC798 00000063
+$40050004 00000000
+$411BC7C0 00000063
+$40050004 00000000
+$411BC7E8 00000063
+$40080004 00000000
++Have All/MAX Accessory
+%Credits: Pj1980
+$411BCDB0 00000063
+$402A0004 00000000
+$411BCF40 00000063
+$40360004 00000000
++Have All/MAX Gem Cards
+%Credits: Pj1980
+$411BD260 00000063
+$401A0004 00000000
++Have All/MAX Ingredients
+%Credits: Pj1980
+$411BD3F0 00000063
+$40060004 00000000)
+$411BD40C 00000063
+$40020004 00000000
+$411BD418 00000063
+$40040004 00000000
++Have All/MAX Fish
+%Credits: Pj1980
+$411BD4B8 00000063
+$401B0004 00000000
+$101BD52C 00000063
++Have All/MAX Meals
+%Credits: Pj1980
+$411BD580 00000063
+$402B0004 00000000
+$411BD648 00000063
+$402E0004 00000000
+$411BD710 00000063
+$40300004 00000000
+$411BD7D8 00000063
+$40360004 00000000
++Have All/MAX Costumes
+%Credits: Pj1980
+$411BD968 00000063
+$401E0004 00000000
+$411BDBC0 00000063
+$40070004 00000000
+$411BDBE8 00000063
+$40110004 00000000
+$411BDC38 00000063
+$40060004 00000000
+$411BDC60 00000063
+$40050004 00000000
+$411BDC88 00000063
+$40080004 00000000
+$411BDCB0 00000063
+$40080004 00000000
+$411BDCD8 00000063
+$40030004 00000000
+$411BDD00 00000063
+$40060004 00000000
+$411BDD28 00000063
+$40050004 00000000
+$411BDD50 00000063
+$40070004 00000000
+$411BDD78 00000063
+$40090004 00000000
+$411BDDA0 00000063
+$40090004 00000000
+$411BDDC8 00000063
+$40060004 00000000
+$411BDDF0 00000063
+$40070004 00000000
+$411BDE18 00000063
+$40070004 00000000
+$411BDE40 00000063
+$40070004 00000000
+$411BDE68 00000063
+$40050004 00000000
+$411BDE94 00000063
+$40040004 00000000
+$411BDEB8 00000063
+$40050004 00000000
+$411BDEE0 00000063
+$40080004 00000000
+$411BDF08 00000063
+$40080004 00000000
+$411BDF30 00000063
+$40090004 00000000
+$411BDF58 00000063
+$40030004 00000000
+$411BDF80 00000063
+$40050004 00000000
+$411BDFA8 00000063
+$40050004 00000000
+$411BDFD0 00000063
+$40040004 00000000
+$411BDFE4 00000063
+$40020004 00000000
+$411BDFF8 00000063
+$400E0004 00000000
+$411BE034 00000063
+$40040004 00000000
+$411BE048 00000063
+$40040004 00000000
+$411BE05C 00000063
+$40040004 00000000
+$411BE070 00000063
+$40040004 00000000
+$411BE084 00000063
+$401C0004 00000000
+$411BE110 00000063
+$40030004 00000000
+$411BE124 00000063
+$40030004 00000000
+$411BE138 00000063
+$40030004 00000000
+$411BE14C 00000063
+$40030004 00000000
+$411BE160 00000063
+$40020004 00000000
+$411BE174 00000063
+$40020004 00000000
+$411BE188 00000063
+$40020004 00000000
+$411BE19C 00000063
+$40020004 00000000
+$411BE1B0 00000063
+$40120004 00000000
+$411BE204 00000063
+$403D0004 00000000
+$411BE2FC 00000063
+$400C0004 00000000
+$411BE330 00000063
+$40170004 00000000
+$411BE390 00000063
+$400B0004 00000000
+$411BE3E0 00000063
+$400C0004 00000000
+$411BE434 00000063
+$40120004 00000000
+$411C0180 00000063
+$40060004 00000000
++Have All/MAX Gifts
+%Credits: Pj1980
+$411BE6B0 00000063
+$403D0004 00000000
++Have All/MAX Quartz
+%Credits: Pj1980
+$411BEE80 00000063
+$40030004 00000000
+$411BEEA8 00000063
+$40030004 00000000
+$101BEEBC 00000063
+$411BEED0 00000063
+$40020004 00000000
+$411BEEF8 00000063
+$40020004 00000000
+$411BEF20 00000063
+$40020004 00000000
+$411BEF48 00000063
+$40020004 00000000
+$411BEF70 00000063
+$40030004 00000000
+$411BF010 00000063
+$40030004 00000000
+$411BF038 00000063
+$40030004 00000000
+$101BF04C 00000063
+$411BF060 00000063
+$40020004 00000000
+$411BF088 00000063
+$40020004 00000000
+$411BF0B0 00000063
+$40020004 00000000
+$411BF0D8 00000063
+$40020004 00000000
+$411BF100 00000063
+$40030004 00000000
+$411BF1A0 00000063
+$40030004 00000000
+$411BF1C8 00000063
+$40030004 00000000
+$101BF1DC 00000063
+$411BF1F0 00000063
+$40020004 00000000
+$411BF218 00000063
+$40020004 00000000
+$411BF240 00000063
+$40020004 00000000
+$411BF268 00000063
+$40020004 00000000
+$411BF290 00000063
+$40030004 00000000
+$411BF330 00000063
+$40030004 00000000
+$411BF358 00000063
+$40030004 00000000
+$101BF36C 00000063
+$411BF380 00000063
+$40020004 00000000
+$411BF3A8 00000063
+$40020004 00000000
+$411BF3D0 00000063
+$40020004 00000000
+$411BF3F8 00000063
+$40020004 00000000
+$411BF420 00000063
+$40030004 00000000
+$411BF4C0 00000063
+$40030004 00000000
+$411BF4E8 00000063
+$40030004 00000000
+$101BF4FC 00000063
+$411BF510 00000063
+$40020004 00000000
+$411BF538 00000063
+$40020004 00000000
+$411BF560 00000063
+$40020004 00000000
+$411BF588 00000063
+$40020004 00000000
+$411BF5B0 00000063
+$40030004 00000000
+$411BF650 00000063
+$40030004 00000000
+$411BF678 00000063
+$40030004 00000000
+$101BF68C 00000063
+$411BF6A0 00000063
+$40020004 00000000
+$411BF6C8 00000063
+$40020004 00000000
+$411BF6F0 00000063
+$40020004 00000000
+$411BF718 00000063
+$40020004 00000000
+$411BF740 00000063
+$40030004 00000000
+$411BF7E0 00000063
+$40030004 00000000
+$411BF808 00000063
+$40030004 00000000
+$101BF81C 00000063
+$411BF830 00000063
+$40020004 00000000
+$411BF858 00000063
+$40020004 00000000
+$411BF880 00000063
+$40020004 00000000
+$411BF8A8 00000063
+$40020004 00000000
+$411BF8D0 00000063
+$40030004 00000000
++Have All/MAX Xipher Cover
+%Credits: Pj1980
+$411BFA38 00000063
+$402F0004 00000000
++Have All/MAX Holo Core Voice
+%Credits: Pj1980
+$411C0140 00000063
+$40050004 00000000
++Have All/MAX Miniature Orders
+%Credits: Pj1980
+$411C0168 00000063
+$40060004 00000000
+!!
+!!
+!!
+!Characters:
++EXP
+$95000000 [CHAR]
+$28000008 [AMOUNT:05F5E0FF:HEX:BIG]
++Refill HP
+$95000000 [CHAR]
+$2800000C [AMOUNT:05F5E0FF:HEX:BIG]
+$28000010 [AMOUNT:05F5E0FF:HEX:BIG]
++HP
+$95000000 [CHAR]
+$280000A0 [AMOUNT:05F5E0FF:HEX:BIG]
++Refill EP
+$95000000 [CHAR]
+$28000018 [AMOUNT:0000270F:HEX:BIG]
+$2800001C [AMOUNT:0000270F:HEX:BIG]
++Refill CP
+$95000000 [CHAR]
+$28000020 [AMOUNT:0000270F:HEX:BIG]
+$28000024 [AMOUNT:0000270F:HEX:BIG]
++STR
+$95000000 [CHAR]
+$280000A4 [AMOUNT:0001869F:HEX:BIG]
++DEF
+$95000000 [CHAR]
+$280000A8 [AMOUNT:0001869F:HEX:BIG]
++ATS
+$95000000 [CHAR]
+$280000AC [AMOUNT:0001869F:HEX:BIG]
++ADF
+$95000000 [CHAR]
+$280000B0 [AMOUNT:0001869F:HEX:BIG]
++AGL
+$95000000 [CHAR]
+$280000B4 [AMOUNT:0001869F:HEX:BIG]
++DEX
+$95000000 [CHAR]
+$280000B8 [AMOUNT:0001869F:HEX:BIG]
++SPD
+$95000000 [CHAR]
+$280000BC [AMOUNT:000003E7:HEX:BIG]
+!!
+^6 = MODS:
+[CHAR]
+VALUE>NAME>INFO
+00197394	Van Arkride	
+00197878	Agnes Claudel	
+00197D5C	Feri Al-Fayed	
+00198240	Aaron Wei	
+00198C08	Quatre Salision	
+001995D0	Bergard Zeman	
+00198724	Risette Twinings	
+0019F2BC	Walter Kron	
+00199F98	Zin Vathek	
+0019A960	Rene Kincaid	
+001990EC	Judith Ranster	
+0019A47C	Elaine Auclair	
+0019DF2C	Shizuna Rem Misurugi	
+	Kurogane	ID Not Seen
+0019FC84	Lucrezia Isselee	
+00199AB4	Grendel	
+0019AE44	Swin Abel	
+0019B328	Nadia Rayne	
+0019DA48	Renne Bright	
+0019B80C	Rean	
+0019BCF0	Altina	
+0019C1D4	Crow	
+0019CB9C	Kevin	
+0019C6B8	Rufus A	
+0019D564	Rixia Mao	
+0019D080	Fie Claussell	
+0019F7A0	Ellroy Harwood	
+001A2888	*Cao Lee	
+	Sherid Asvehl	ID Not Seen
+	Naje Berca	ID Not Seen
+001A0168	Kasim Al-Fayed	
+0019E8F4	Celis Ortesia	
+0019E410	Rion Balthazar	
+	Ixs	ID Not Seen
+0019EDD8	Jolda	
+001A0B30		No Stats
+001A1014		No Stats
+001A14F8		No Stats
+001A19DC		No Stats
+001A1EC0		No Stats
+001A23A4		No Stats
+001A2D6C		No Stats
+001A3250		No Stats
+001A3734		No Stats
+001A3C18		No Stats
+001A40FC		No Stats
+001A45E0		No Stats
+001A4AC4		No Stats
+001A4FA8		No Stats
+001A548C		No Stats
+001A5970		No Stats
+001A5E54		No Stats
+001A6338		No Stats
+001A681C		No Stats
+001A6D00		No Stats
+001A71E4		No Stats
+001A76C8		No Stats
+001A7BAC		No Stats
+001A8090		No Stats
+001A8574		No Stats
+001A8A58		No Stats
+001A8F3C		No Stats
+001A9420		No Stats
+001A9904		No Stats
+001A9DE8		No Stats
+001AA2CC		No Stats
+001AA7B0		No Stats
+001AAC94		No Stats
+001AB178		No Stats
+001AB65C		No Stats
+001ABB40		No Stats
+001AC024		No Stats
+001AC508		No Stats
+001AC9EC		No Stats
+001ACED0		No Stats
+001AD3B4		No Stats
+001AD898		No Stats
+001ADD7C		No Stats
+001AE260		No Stats
+001AE744		No Stats
+001AEC28		No Stats
+001AF10C		No Stats
+001AF5F0		No Stats
+001AFAD4		No Stats
+001AFFB8		No Stats
+001B049C		No Stats
+001B0980		No Stats
+001B0E64		No Stats
+001B1348		No Stats
+001B182C		No Stats
+001B1D10		No Stats
+001B21F4		No Stats
+001B26D8		No Stats
+001B2BBC		No Stats
+001B30A0		No Stats
+001B3584		No Stats
+001B3A68		No Stats
+001B3F4C		No Stats
+001B4430		No Stats
+001B4914		No Stats
+001B4DF8		No Stats
+001B52DC		No Stats
+[/CHAR]
+[ITEM]
+VALUE>NAME>TYPE
+1BB4B4	Tear Balm	Recovery
+1BB4B8	Teara Balm	Recovery
+1BB4BC	Tearal Balm	Recovery
+1BB4C0	Tear All Balm	Recovery
+1BB4C4	EP Charge I	Recovery
+1BB4C8	EP Charge II	Recovery
+1BB4CC	EP Charge III	Recovery
+1BB4D0	EP Charge IV	Recovery
+1BB4D8	Reviving Balm	Recovery
+1BB4DC	Celestial Balm	Recovery
+1BB4E0	Celestial Balm EX	Recovery
+1BB4EC	Zeram Powder	Recovery
+1BB4F0	Zeram Capsule	Recovery
+1BB500	Shining Pom Bait	Recovery
+1BB504	Antiseptic	Support
+1BB508	Relaxant	Support
+1BB50C	Insulating Tape	Support
+1BB510	Cooling Spray	Support
+1BB514	Warmer	Support
+1BB518	Eye Drop	Support
+1BB51C	Calming Potpourri	Support
+1BB528	S-Tablet	Support
+1BB52C	Curia Balm	Support
+1BB530	Purifying Spice	Support
+1BB53C	Power Tablet	Support
+1BB540	Shield Tablet	Support
+1BB544	Mind Tablet	Support
+1BB548	Daybreak Droplet	Droplet
+1BB54C	Daybreak Panacea	Droplet
+1BB550	Vitality Droplet	Droplet
+1BB554	Power Droplet	Droplet
+1BB558	Fortitude Droplet	Droplet
+1BB55C	Magic Droplet	Droplet
+1BB560	Spirit Droplet	Droplet
+1BB564	Vitality Panacea	Droplet
+1BB568	Power Panacea	Droplet
+1BB56C	Fortitude Panacea	Droplet
+1BB570	Magic Panacea	Droplet
+1BB574	Spirit Panacea	Droplet
+1BB578	Fishbait	Fish Bait
+1BB57C	Dumplings	Fish Bait
+1BB580	Deluxe Dumplings	Fish Bait
+1BB58C	Van	Skill Stones
+1BB590	Agnès	Skill Stones
+1BB594	Feri	Skill Stones
+1BB598	Aaron	Skill Stones
+1BB59C	Risette	Skill Stones
+1BB5A0	Quatre	Skill Stones
+1BB5A4	Judith	Skill Stones
+1BB5A8	Elain	Skill Stones
+1BB5AC	Kincaid	Skill Stones
+1BB5B0	Swin	Skill Stones
+1BB5B4	Nadia	Skill Stones
+1BB5B8	Celis	Skill Stones
+1BB5BC	Leon	Skill Stones
+1BB5C0	Renne	Skill Stones
+1BB5C4	Shizuna	Skill Stones
+1BB5C8	Zin	Skill Stones
+1BB5CC	Fie	Skill Stones
+1BB5D0	Rean	Skill Stones
+1BB5D4	Altina	Skill Stones
+1BB5D8	Crow	Skill Stones
+1BB5DC	Kevin	Skill Stones
+1BB5E0	Rufus	Skill Stones
+1BB5E4	Rixia	Skill Stones
+1BB5E8	Jorda	Skill Stones
+1BB5F0	Bergard	Skill Stones
+1BB62C	Grendel	Skill Stones
+1BB630	Red	Skill Stones
+1BB634	Blue	Skill Stones
+1BB638	Green	Skill Stones
+1BB63C	Gold	Skill Stones
+1BB640	U-Material (max 9,999)	Fish Bait
+1BB644	U-Material + (max 9,999)	Fish Bait
+1BB648	Onyx Steel (max 99)	Fish Bait
+1BB654	Casino Chips (?)	Fish Bait
+1BB658	Blacklight District Medal (?)	Fish Bait
+1BB65C	Workshop Points	Fish Bait
+1BB708	Memento Orb 1	BGM
+1BB70C	Memento Orb 2	BGM
+1BB710	Memento Orb 3	BGM
+1BB714	Memento Orb 4	BGM
+1BB718	Memento Orb 5	BGM
+1BB71C	Memento Orb 6	BGM
+1BB720	Memento Orb 7	BGM
+1BB724	Memento Orb 8	BGM
+1BB728	Memento Orb 9	BGM
+1BB72C	Memento Orb 10	BGM
+1BB730	Connection Piece	BGM
+1BB89C	Fruit	Recipe
+1BB8A0	Boullabaisse	Recipe
+1BB8A4	Pie	Recipe
+1BB8A8	Croquettes	Recipe
+1BB8AC	Baklava	Recipe
+1BB8B0	Tacos	Recipe
+1BB8B4	Noodle Dishes	Recipe
+1BB8B8	Herbal Teas	Recipe
+1BB8BC	Tiramisu	Recipe
+1BB8C0	Doria	Recipe
+1BB8C4	Pudding	Recipe
+1BB8C8	Pizza	Recipe
+1BB8CC	Pasta	Recipe
+1BB8D0	Dumplings	Recipe
+1BB8D4	Paella	Recipe
+1BB8D8	Cake	Recipe
+1BB8DC	Quiches	Recipe
+1BB8E0	Rice Balls	Recipe
+1BB8E4	Meat	Recipe
+1BB8E8	Medical Herbs	Recipe
+1BB8EC	Party Foods	Recipe
+1BB8F0	Congee	Recipe
+1BB8F4	Coffee	Recipe
+1BB8F8	Hot Pot	Recipe
+1BB8FC	Hamburger Steak	Recipe
+1BB900	Smoothies	Recipe
+1BB904	Food Provisions	Recipe
+1BB908	Cookies	Recipe
+1BB90C	Burgers	Recipe
+1BB910	Udon	Recipe
+1BB914	Health Foods	Recipe
+1BB918	Matcha	Recipe
+1BB91C	Turkey	Recipe
+1BB920	Egg Dishes	Recipe
+1BB924	Sausage	Recipe
+1BB928	Raisins	Recipe
+1BB92C	Ice Cream	Recipe
+1BB930	Stew	Recipe
+1BB934	Curry	Recipe
+1BB938	Chocolate	Recipe
+1BB93C	Skewers	Recipe
+1BB940	Bento	Recipe
+1BB9B0	Tyrell Times Issue 1	Documents
+1BB9B4	Tyrell Times Issue 2	Documents
+1BB9B8	Tyrell Times Extra Issue	Documents
+1BB9BC	Basel Tech Review, July Issue	Documents
+1BB9C0	Tyrell Times Issue 3	Documents
+1BB9C4	Daily Tharbad 1	Documents
+1BB9C8	Eaton Newsletter Issue 1	Documents
+1BB9CC	Daily Tharbad 2	Documents
+1BB9D0	Eaton Newsletter Issue 2	Documents
+1BB9D4	Tyrell Times Special Issue	Documents
+1BB9D8	Sacred Journey	Documents
+1BB9DC	Detective Scoirot	Documents
+1BB9E0	Bravely Legends: Awakeningn of the Flame	Documents
+1BB9E4	Crimson Fist	Documents
+1BB9E8	Shinobi Punk: Izayoi	Documents
+1BB9EC	Human Game	Documents
+1BB9F0	Cheer Star	Documents
+1BB9F4	Mishy in Boots	Documents
+1BB9F8	Golden Blood R-15 Ver.	Documents
+1BB9FC	Perfect Driver 2	Documents
+1BBA00	Gloria Dawn of the Revolution	Documents
+1BBA04	Wolves' Requiem	Documents
+1BBA14	Protostar	Fishing
+1BBA18	Dual Rod	Fishing
+1BBA1C	Aqua Striker	Fishing
+1BBA20	Blue Magician	Fishing
+1BBA24	Neptune Tackle	Fishing
+1BBA28	Taigongwang God-Rod	Fishing
+1BBAC8	Earth Orb	Analysis Support
+1BBACC	Water Orb	Analysis Support
+1BBAD0	Fire Orb	Analysis Support
+1BBAD4	Wind Orb	Analysis Support
+1BBAD8	Time Orb	Analysis Support
+1BBADC	Space Orb	Analysis Support
+1BBAE0	Mirage Orb	Analysis Support
+1BBAF0	Solid Edge	Weapons
+1BBAF4	Chrome Blade	Weapons
+1BBAF8	Chrome Blade +	Weapons
+1BBAFC	Dark Saber	Weapons
+1BBB00	Dark Saber +	Weapons
+1BBB04	Rustic Edge	Weapons
+1BBB08	Hard Smasher	Weapons
+1BBB0C	Hard Smasher +	Weapons
+1BBB10	Blue Steel Blade	Weapons
+1BBB14	Blue Steel Blade +	Weapons
+1BBB18	Magma Blade	Weapons
+1BBB1C	Magma Blade +	Weapons
+1BBB20	Eclipse Blade	Weapons
+1BBB24	Eclipse Blade +	Weapons
+1BBB28	Demolisher	Weapons
+1BBB2C	Demolisher +	Weapons
+1BBB30	Arc Breaker	Weapons
+1BBB34	Arc Breaker +	Weapons
+1BBB38	Daybreak Naegling	Weapons
+1BBB3C	Daybreak Naegling +	Weapons
+1BBB44	Edel Staff	Weapons
+1BBB48	Edel Staff +	Weapons
+1BBB4C	Ruby Wand	Weapons
+1BBB50	Ruby Wand +	Weapons
+1BBB54	Vector Rod	Weapons
+1BBB58	Vector Rod +	Weapons
+1BBB5C	Libra Staff	Weapons
+1BBB60	Libra Staff +	Weapons
+1BBB64	Aerial Scepter	Weapons
+1BBB68	Aerial Scepter +	Weapons
+1BBB6C	Mystic Cane	Weapons
+1BBB70	Mystic Cane +	Weapons
+1BBB7C	High Priestess	Weapons
+1BBB80	High Priestess +	Weapons
+1BBB84	Lovely Lia Fáil	Weapons
+1BBB88	Lovely Lia Fáil +	Weapons
+1BBB90	Salamander EX	Weapons
+1BBB94	Double Strider	Weapons
+1BBB98	Double Strider +	Weapons
+1BBB9C	Dragoon Edge	Weapons
+1BBBA0	Dragoon Edge +	Weapons
+1BBBA4	Fire Cracker	Weapons
+1BBBA8	Fire Cracker +	Weapons
+1BBBAC	Stinger AS	Weapons
+1BBBB0	Stinger AS +	Weapons
+1BBBB4	Carmine Sword	Weapons
+1BBBB8	Carmine Sword +	Weapons
+1BBBBC	Fomalhaut	Weapons
+1BBBC0	Fomalhaut +	Weapons
+1BBBC4	Strum ZZ	Weapons
+1BBBC8	Strum ZZ +	Weapons
+1BBBCC	Crimson Bolt	Weapons
+1BBBD0	Crimson Bolt +	Weapons
+1BBBD4	Blazing Blade Algieba	Weapons
+1BBBD8	Blazing Blade Algieba +	Weapons
+1BBBE4	Moonshade Blades	Weapons
+1BBBE8	Moonshade Blades +	Weapons
+1BBBEC	Yao's Bane	Weapons
+1BBBF0	Yao's Bane +	Weapons
+1BBBF4	Twin Forks	Weapons
+1BBBF8	Twin Forks +	Weapons
+1BBBFC	Jadeite Windcutters	Weapons
+1BBC00	Jadeite Windcutters +	Weapons
+1BBC04	Soaring Gleamswords	Weapons
+1BBC08	Soaring Gleamswords +	Weapons
+1BBC0C	Gemini Swords	Weapons
+1BBC10	Gemini Swords +	Weapons
+1BBC14	Amberl Twin Swords	Weapons
+1BBC18	Amberl Twin Swords +	Weapons
+1BBC1C	Dragonlord's Fangs	Weapons
+1BBC20	Dragonlord's Fangs +	Weapons
+1BBC24	Yitain &amp; Qinggang	Weapons
+1BBC28	Yitain &amp; Qinggang +	Weapons
+1BBC34	Noir Edge	Weapons
+1BBC38	Noir Edge+	Weapons
+1BBC3C	Rondel Dagger	Weapons
+1BBC40	Rondel Dagger +	Weapons
+1BBC44	Blue Kris	Weapons
+1BBC48	Blue Kris +	Weapons
+1BBC4C	Glaring Butterfly	Weapons
+1BBC50	Glaring Butterfly +	Weapons
+1BBC54	Schwarz Knife	Weapons
+1BBC58	Schwarz Knife +	Weapons
+1BBC5C	Cresent Gear	Weapons
+1BBC60	Cresent Gear +	Weapons
+1BBC64	Sirius Dagger	Weapons
+1BBC68	Sirius Dagger +	Weapons
+1BBC6C	Carnwennan	Weapons
+1BBC70	Carnwennan +	Weapons
+1BBC74	Blue Edge Lost Virche	Weapons
+1BBC78	Blue Edge Lost Virche +	Weapons
+1BBC84	Free Radical	Weapons
+1BBC88	Free Radical +	Weapons
+1BBC8C	Mirage Bolt	Weapons
+1BBC90	Mirage Bolt +	Weapons
+1BBC94	Integral	Weapons
+1BBC98	Integral +	Weapons
+1BBC9C	Lightning Core	Weapons
+1BBCA0	Lightning Core +	Weapons
+1BBCA4	Variable Unit	Weapons
+1BBCA8	Variable Unit +	Weapons
+1BBCAC	Photon Shooter	Weapons
+1BBCB0	Photon Shooter +	Weapons
+1BBCB4	Stellar Device	Weapons
+1BBCB8	Stellar Device +	Weapons
+1BBCBC	Lux Blaster	Weapons
+1BBCC0	Lux Blaster +	Weapons
+1BBCC4	Gleaming Supernova	Weapons
+1BBCC8	Gleaming Supernova +	Weapons
+1BBCD4	Swallow Tail EX	Weapons
+1BBCD8	Viper Fang	Weapons
+1BBCDC	Viper Fang +	Weapons
+1BBCE0	Silver Anchor	Weapons
+1BBCE4	Silver Anchor  +	Weapons
+1BBCE8	Ensemble	Weapons
+1BBCEC	Ensemble +	Weapons
+1BBCF0	Crystal Lash	Weapons
+1BBCF4	Crystal Lash +	Weapons
+1BBCF8	Balalaika	Weapons
+1BBCFC	Balalaika +	Weapons
+1BBD00	Nachtmusik	Weapons
+1BBD04	Nachtmusik +	Weapons
+1BBD08	Briar Rose	Weapons
+1BBD0C	Briar Rose +	Weapons
+1BBD10	Jingling Turandot	Weapons
+1BBD14	Jingling Turandot +	Weapons
+1BBD20	Power Grab	Weapons
+1BBD24	Metal Fist	Weapons
+1BBD28	Metal Fist +	Weapons
+1BBD2C	Pugilist's Gauntlets	Weapons
+1BBD30	Pugilist's Gauntlets +	Weapons
+1BBD34	Ogre Buster	Weapons
+1BBD38	Ogre Buster +	Weapons
+1BBD3C	Tiger Knuckles	Weapons
+1BBD40	Tiger Knuckles +	Weapons
+1BBD44	Platinum Gloves	Weapons
+1BBD48	Platinum Gloves +	Weapons
+1BBD4C	Baihu Gloves	Weapons
+1BBD50	Baihu Gloves +	Weapons
+1BBD54	Titus Arm	Weapons
+1BBD58	Titus Arm +	Weapons
+1BBD5C	Juggernaut	Weapons
+1BBD60	Juggernaut +	Weapons
+1BBD64	Sacred Járngreipr	Weapons
+1BBD68	Sacred Járngreipr +	Weapons
+1BBD7C	Rune Brand	Weapons
+1BBD80	Rune Brand +	Weapons
+1BBD84	Elder Blade	Weapons
+1BBD88	Elder Blade +	Weapons
+1BBD8C	Claymore	Weapons
+1BBD90	Claymore +	Weapons
+1BBD94	Esmelas Edge	Weapons
+1BBD98	Esmelas Edge +	Weapons
+1BBD9C	Lightbringer	Weapons
+1BBDA0	Lightbringer +	Weapons
+1BBDA4	Arondight	Weapons
+1BBDA8	Arondight +	Weapons
+1BBDAC	Pendragon	Weapons
+1BBDB0	Pendragon +	Weapons
+1BBDB4	Valiant Anduril	Weapons
+1BBDB8	Valiant Anduril +	Weapons
+1BBDC8	Ideal Scythe	Weapons
+1BBDCC	Ideal Scythe +	Weapons
+1BBDD0	Harvester	Weapons
+1BBDD4	Harvester +	Weapons
+1BBDD8	Illuminati	Weapons
+1BBDDC	Illuminati +	Weapons
+1BBDE0	Schrödinger	Weapons
+1BBDE4	Schrödinger +	Weapons
+1BBDE8	Arc en Rose	Weapons
+1BBDEC	Arc en Rose +	Weapons
+1BBDF0	Lesedi La Rona	Weapons
+1BBDF4	Lesedi La Rona +	Weapons
+1BBE14	Shizuka Blade	Weapons
+1BBE24	Shizuka Blade +	Weapons
+1BBE28	Murasame	Weapons
+1BBE2C	Murasame +	Weapons
+1BBE30	Ichigo Hitofuri	Weapons
+1BBE34	Ichigo Hitofuri +	Weapons
+1BBE38	Sode No Yuki	Weapons
+1BBE3C	Sode No Yuki +	Weapons
+1BBE40	Divine Ama No Habakiri	Weapons
+1BBE44	Divine Ama No Habakiri +	Weapons
+1BBE64	Dark Element	Weapons
+1BBE68	Dark Element +	Weapons
+1BBE78	Shadow Spell	Weapons
+1BBE7C	Black Piece	Weapons
+1BBE80	Black Piece +	Weapons
+1BBE84	Shrouded Anastasia	Weapons
+1BBE88	Shrouded Anastasia +	Weapons
+1BBE8C	Raikiri	Weapons
+1BBE90	Raikiri +	Weapons
+1BBE94	Kogarashi Ichimonji	Weapons
+1BBE98	Kogarashi Ichimonji +	Weapons
+1BBE9C	Hien Blade	Weapons
+1BBEA0	Hien Blade +	Weapons
+1BBEA4	Hizamaru	Weapons
+1BBEA8	Hizamaru +	Weapons
+1BBEAC	Gale Blade	Weapons
+1BBEB0	Gale Blade +	Weapons
+1BBEB4	Kokushitsuken	Weapons
+1BBEB8	Kokushitsuken +	Weapons
+1BBEBC	Yaezakura	Weapons
+1BBEC0	Yaezakura +	Weapons
+1BBEC4	Sharp-Edged Honori	Weapons
+1BBEC8	Sharp-Edged Honori +	Weapons
+1BBED8	Slash Gear	Weapons
+1BBEDC	Slash Gear +	Weapons
+1BBEE0	Silver Plate	Weapons
+1BBEE4	Silver Plate +	Weapons
+1BBEE8	Scholar Gear	Weapons
+1BBEEC	Scholar Gear +	Weapons
+1BBEF0	Round Shield	Weapons
+1BBEF4	Round Shield +	Weapons
+1BBEF8	Crystal Plate	Weapons
+1BBEFC	Crystal Plate +	Weapons
+1BBF00	Xuanwu Shield	Weapons
+1BBF04	Xuanwu Shield +	Weapons
+1BBF08	Dragon's Scale	Weapons
+1BBF0C	Dragon's Scale +	Weapons
+1BBF10	Radiant Pallas Athena	Weapons
+1BBF14	Radiant Pallas Athena +	Weapons
+1BBF2C	Sylphic Edge EX	Weapons
+1BBF30	Baselards	Weapons
+1BBF34	Baselards +	Weapons
+1BBF38	Sonic Tigers	Weapons
+1BBF3C	Sonic Tigers +	Weapons
+1BBF40	Odd Shooter	Weapons
+1BBF44	Odd Shooter +	Weapons
+1BBF48	Flare Wing	Weapons
+1BBF4C	Flare Wing +	Weapons
+1BBF50	Ipetam	Weapons
+1BBF54	Ipetam +	Weapons
+1BBF58	Lachesis Edge	Weapons
+1BBF5C	Lachesis Edge +	Weapons
+1BBF60	Wind Blade Hraesvelgr	Weapons
+1BBF64	Wind Blade Hraesvelgr +	Weapons
+1BBF7C	Raging Edge	Weapons
+1BBF80	Avenger	Weapons
+1BBF84	Avenger +	Weapons
+1BBF88	Devestator	Weapons
+1BBF8C	Devestator +	Weapons
+1BBF90	Calavera Edge	Weapons
+1BBF94	Calavera Edge +	Weapons
+1BBF98	Double Cypher	Weapons
+1BBF9C	Double Cypher +	Weapons
+1BBFA0	Twin Dragon Sovereigns	Weapons
+1BBFA4	Twin Dragon Sovereigns +	Weapons
+1BBFA8	Dáinsleif	Weapons
+1BBFAC	Dáinsleif +	Weapons
+1BBFB0	Kalpic Angband	Weapons
+1BBFB4	Kalpic Angband +	Weapons
+1BBFF0	Judgment	Weapons
+1BBFF4	Judgment +	Weapons
+1BBFF8	Arbalest	Weapons
+1BBFFC	Arbalest +	Weapons
+1BC000	Scorpius	Weapons
+1BC004	Scorpius +	Weapons
+1BC008	Windlass	Weapons
+1BC00C	Windlass +	Weapons
+1BC010	Sherwood	Weapons
+1BC014	Sherwood +	Weapons
+1BC018	Sagatarius	Weapons
+1BC01C	Sagatarius +	Weapons
+1BC020	Wind Bow Elixir	Weapons
+1BC024	Wind Bow Elixir +	Weapons
+1BC028	Divine Sandalphon	Weapons
+1BC02C	Divine Sandalphon +	Weapons
+1BC044	Blast Edge EX	Weapons
+1BC048	Gurkha Swords	Weapons
+1BC04C	Gurkha Swords +	Weapons
+1BC050	Raven Edge	Weapons
+1BC054	Raven Edge +	Weapons
+1BC058	Ram-Dao	Weapons
+1BC05C	Ram-Dao +	Weapons
+1BC060	Storm Sabers	Weapons
+1BC064	Storm Sabers +	Weapons
+1BC068	Libaration	Weapons
+1BC06C	Libaration +	Weapons
+1BC070	Altair Swords	Weapons
+1BC074	Altair Swords +	Weapons
+1BC078	Roaring Siegfried	Weapons
+1BC07C	Roaring Siegfried +	Weapons
+1BC094	Tri-Needles EX	Weapons
+1BC098	Gold Nail	Weapons
+1BC09C	Gold Nail +	Weapons
+1BC0A0	Woodpecker	Weapons
+1BC0A4	Woodpecker +	Weapons
+1BC0A8	Jambiya	Weapons
+1BC0AC	Jambiya +	Weapons
+1BC0B0	Platinum Needles	Weapons
+1BC0B4	Platinum Needles +	Weapons
+1BC0B8	Holy Pain	Weapons
+1BC0BC	Holy Pain +	Weapons
+1BC0C0	Milky Way	Weapons
+1BC0C4	Milky Way +	Weapons
+1BC0C8	Silent Needles Kriemhild	Weapons
+1BC0CC	Silent Needles Kriemhild +	Weapons
+1BC0E4	Lucid Edge	Weapons
+1BC0E8	Talwar	Weapons
+1BC0EC	Talwar +	Weapons
+1BC0F0	Damocles	Weapons
+1BC0F4	Damocles +	Weapons
+1BC0F8	Superior	Weapons
+1BC0FC	Superior +	Weapons
+1BC100	Caledfwlch	Weapons
+1BC104	Caledfwlch +	Weapons
+1BC108	Punisher Blade	Weapons
+1BC10C	Punisher Blade +	Weapons
+1BC110	Balmung	Weapons
+1BC114	Balmung +	Weapons
+1BC118	Black Sword Agravain	Weapons
+1BC11C	Black Sword Agravain +	Weapons
+1BC160	Steel Gauntlets	Weapons
+1BC164	Cestus	Weapons
+1BC168	Cestus +	Weapons
+1BC16C	Dragon Claw	Weapons
+1BC170	Dragon Claw +	Weapons
+1BC178	Dragon Fist	Weapons
+1BC17C	Briarios	Weapons
+1BC180	Briarios +	Weapons
+1BC184	Strong Fists Leizhenzi	Weapons
+1BC188	Strong Fists Leizhenzi +	Weapons
+1BC1AC	Beloved Mo Ye	Weapons
+1BC1B4	Beloved Mo Ye +	Weapons
+1BC1B8	Wind-Cleaving Blade	Weapons
+1BC1BC	Wind-Cleaving Blade +	Weapons
+1BC1C0	Ethereal Reflection	Weapons
+1BC1C4	Ethereal Reflection +	Weapons
+1BC1CC	Ryuhoken	Weapons
+1BC1D0	Magical Phosphorescence	Weapons
+1BC1D4	Magical Phosphorescence +	Weapons
+1BC1D8	Treasured Kaketsushinto	Weapons
+1BC1DC	Treasured Kaketsushinto +	Weapons
+1BC1E8	Flamberge	Weapons
+1BC1F0	Flamberge +	Weapons
+1BC1F4	Red Cyclone	Weapons
+1BC1F8	Red Cyclone +	Weapons
+1BC1FC	Zenobia	Weapons
+1BC200	Zenobia +	Weapons
+1BC204	Fiery Brilliante	Weapons
+1BC208	Fiery Brilliante +	Weapons
+1BC20C	Flaming Mikail	Weapons
+1BC210	Flaming Mikail +	Weapons
+1BC224	Misericorde	Weapons
+1BC22C	Misericorde +	Weapons
+1BC230	Cobalt Wind	Weapons
+1BC234	Cobalt Wind +	Weapons
+1BC238	Clemens	Weapons
+1BC23C	Clemens +	Weapons
+1BC240	Aqua Livart	Weapons
+1BC244	Aqua Livart +	Weapons
+1BC248	Blue Flame Gabriel	Weapons
+1BC24C	Blue Flame Gabriel +	Weapons
+1BC260	Gilgamesh Saber	Weapons
+1BC264	Gilgamesh Saber +	Weapons
+1BC2B0	Concorde M04	Weapons
+1BC310	Shielder α	Weapons-Sub
+1BC314	Shielder β	Weapons-Sub
+1BC318	Guardian α	Weapons-Sub
+1BC31C	Guardian γ	Weapons-Sub
+1BC320	Shielder γ	Weapons-Sub
+1BC324	Guardian β	Weapons-Sub
+1BC328	Aegis Ω	Weapons-Sub
+1BC32C	Armored Grip	Weapons-Sub
+1BC338	Braver α	Weapons-Sub
+1BC33C	Braver β	Weapons-Sub
+1BC340	Warrior α	Weapons-Sub
+1BC344	Warrior γ	Weapons-Sub
+1BC348	Braver γ	Weapons-Sub
+1BC34C	Warrior β	Weapons-Sub
+1BC350	Gae Bolg Ω	Weapons-Sub
+1BC354	Python X	Weapons-Sub
+1BC358	Python Z	Weapons-Sub
+1BC388	Scepter α	Weapons-Sub
+1BC38C	Scepter β	Weapons-Sub
+1BC390	Sorcerer α	Weapons-Sub
+1BC394	Sorcerer γ	Weapons-Sub
+1BC398	Scepter γ	Weapons-Sub
+1BC39C	Sorcerer β	Weapons-Sub
+1BC3A0	Gambanteinn Ώ	Weapons-Sub
+1BC3A4	Magic Booster	Weapons-Sub
+1BC3B0	Haze: Type 1	Weapons-Sub
+1BC3B4	Haze: Type 2	Weapons-Sub
+1BC3B8	Vajra: Type 1	Weapons-Sub
+1BC3BC	Vajra: Type 3	Weapons-Sub
+1BC3C0	Haze: Type 3	Weapons-Sub
+1BC3C4	Vajra: Type 2	Weapons-Sub
+1BC3C8	Flash Infinite	Weapons-Sub
+1BC3CC	Invisible 1000	Weapons-Sub
+1BC3D8	Suparna I	Weapons-Sub
+1BC3DC	Suparna II	Weapons-Sub
+1BC3E0	Rastaban I	Weapons-Sub
+1BC3E4	Rastaban III	Weapons-Sub
+1BC3E8	Suparna III	Weapons-Sub
+1BC3EC	Rastaban II	Weapons-Sub
+1BC3F0	Brahma 0	Weapons-Sub
+1BC3F4	Raiden Nil	Weapons-Sub
+1BC400	Spark Ver. A	Weapons-Sub
+1BC404	Spark Ver. B	Weapons-Sub
+1BC408	Lightning Ver. A	Weapons-Sub
+1BC40C	Lightning Ver. C	Weapons-Sub
+1BC410	Spark Ver. C	Weapons-Sub
+1BC414	Lightning Ver. B	Weapons-Sub
+1BC418	Vorpal Ver. AAA	Weapons-Sub
+1BC41C	Hermes SS	Weapons-Sub
+1BC450	Leather Vest	Armour
+1BC454	Rigid Coat	Armour
+1BC458	Survival West	Armour
+1BC45C	Military Jacket	Armour
+1BC460	Ceramic Coat	Armour
+1BC464	Battle Suit	Armour
+1BC468	Enchanting Jacket	Armour
+1BC478	Edel Vest	Armour
+1BC47C	Raven Suit	Armour
+1BC480	Golden Gown	Armour
+1BC484	Heavenly Haori	Armour
+1BC488	Helios' Coat	Armour
+1BC4A0	Sunny Blouse	Armour
+1BC4A4	Glare Coat	Armour
+1BC4A8	Silver Robe	Armour
+1BC4AC	Heavenly Water Rainment	Armour
+1BC4B0	Selene's Cloth	Armour
+1BC4C8	Ringmail	Armour
+1BC4CC	Mirage Robe	Armour
+1BC4D0	Genius Wear	Armour
+1BC4D4	Feather Cloak	Armour
+1BC4D8	Shadow Breastplate	Armour
+1BC4DC	Sacred Gown	Armour
+1BC4E0	Chronos' Jacket	Armour
+1BC4E4	Chronos' Jacket +	Armour
+1BC770	Leather Boots	FootWear
+1BC774	Rigid Spikes	FootWear
+1BC778	Hard Trek	FootWear
+1BC77C	Combat Boots	FootWear
+1BC780	Ceramic Cleats	FootWear
+1BC784	Battle Leg Guards	FootWear
+1BC788	Advanced Boots	FootWear
+1BC798	Noble Leather	FootWear
+1BC79C	Jagd Guarders	FootWear
+1BC7A0	Strega Black	FootWear
+1BC7A4	Steel-Thread Shoes	FootWear
+1BC7A8	Atlas Greaves	FootWear
+1BC7C0	Yellow Pumps	FootWear
+1BC7C4	Shining Heels	FootWear
+1BC7C8	Strega White	FootWear
+1BC7CC	Silver-Thread Shoes	FootWear
+1BC7D0	Gaia Greaves	FootWear
+1BC7E8	Light Greaves	FootWear
+1BC7EC	Fiber Gear	FootWear
+1BC7F0	Strega Light	FootWear
+1BC7F4	Feather Boots	FootWear
+1BC7F8	Dark Leg Guards	FootWear
+1BC7FC	Benediction Boots	FootWear
+1BC800	Strega Laguna	FootWear
+1BC804	Strega Laguna +	FootWear
+1BCDB0	Titanium Earring	Accessory
+1BCDB4	Titanium Wristband	Accessory
+1BCDB8	Titanium Charm	Accessory
+1BCDBC	Pearl Ring	Accessory
+1BCDC0	Pearl Bracelet	Accessory
+1BCDC4	Pearl Necklace	Accessory
+1BCDC8	Marbel Ring	Accessory
+1BCDCC	Marbel Bracelet	Accessory
+1BCDD0	Marbel Necklace	Accessory
+1BCDD4	Cooling Chocker	Accessory
+1BCDD8	Frost Charm	Accessory
+1BCDDC	Cobalt Cape	Accessory
+1BCDE0	Lighter	Accessory
+1BCDE4	Heat Brooch	Accessory
+1BCDE8	Cashmere Hood	Accessory
+1BCDEC	Twinkling Lenses	Accessory
+1BCDF0	Shining Goggles	Accessory
+1BCDF4	Kaleido Glasses	Accessory
+1BCDF8	Fancy Ring	Accessory
+1BCDFC	Fairy Earring	Accessory
+1BCE00	Unicorn Cameo	Accessory
+1BCE04	Angel Ring	Accessory
+1BCE08	Gold Rosary	Accessory
+1BCE0C	Gold Amulet	Accessory
+1BCE10	Force Emblem	Accessory
+1BCE14	Soldier's Medal	Accessory
+1BCE18	Knight's Crown	Accessory
+1BCE1C	Leather Watch	Accessory
+1BCE20	Military Watch	Accessory
+1BCE24	Platinum Watch	Accessory
+1BCE28	Yellow Pendelum	Accessory
+1BCE2C	Yellow Medal	Accessory
+1BCE30	Amber Heart	Accessory
+1BCE34	Blue Pendelum	Accessory
+1BCE38	Blue Medal	Accessory
+1BCE3C	Cobaltic Eyes	Accessory
+1BCE40	Red Pendelum	Accessory
+1BCE44	Red Medal	Accessory
+1BCE48	Burning Blood	Accessory
+1BCE4C	Green Pendelum	Accessory
+1BCE50	Green Medal	Accessory
+1BCE54	Mistral Star	Accessory
+1BCF40	Gunner's Belt	Accessory
+1BCF44	Queen Bee Belt	Accessory
+1BCF48	Sash Belt	Accessory
+1BCF4C	Shield Belt	Accessory
+1BCF50	Tyrant Belt	Accessory
+1BCF54	Cyber Goggles	Accessory
+1BCF58	Mechanics Goggles	Accessory
+1BCF5C	Dessert Goggles	Accessory
+1BCF60	Racing Goggles	Accessory
+1BCF64	Master Goggles	Accessory
+1BCF68	Antique Chain	Accessory
+1BCF6C	Vintage Ring	Accessory
+1BCF70	Githic Hat	Accessory
+1BCF74	Classic Scarf	Accessory
+1BCF78	Regalia Cloak	Accessory
+1BCF7C	Camel Leather Wallet	Accessory
+1BCF80	Rabbit Coin Purse	Accessory
+1BCF84	Moshette Coin Purse	Accessory
+1BCF88	Albino Snake Billfold	Accessory
+1BCF8C	Yellow Dragon Jinhua Wallet	Accessory
+1BCF90	Saints Earring	Accessory
+1BCF94	Blue Cross Lanyard	Accessory
+1BCF98	Banishing Prayer Beads	Accessory
+1BCF9C	Holy Bangle	Accessory
+1BCFA0	Stellar Bead Rosary	Accessory
+1BCFA4	Gorgeous Crown	Accessory
+1BCFA8	Amulet of Fate	Accessory
+1BCFAC	Platinum Dish	Accessory
+1BCFB0	Blue Star Earrings	Accessory
+1BCFB4	Moonlight Bracelet	Accessory
+1BCFB8	Rocket Charm	Accessory
+1BCFBC	Planet Ring	Accessory
+1BCFC0	Albion Charm	Accessory
+1BCFC4	Blade Crest	Accessory
+1BCFC8	Blade Crest +	Accessory
+1BCFCC	Shield Crest	Accessory
+1BCFD0	Shield Crest +	Accessory
+1BCFD4	Armor Crest	Accessory
+1BCFD8	Armor Crest +	Accessory
+1BCFDC	Staff Crest	Accessory
+1BCFE0	Staff Crest +	Accessory
+1BCFE4	Gladiator Headband	Accessory
+1BCFE8	True Gladiator Headband	Accessory
+1BCFEC	Macho Belt	Accessory
+1BCFF0	True Macho Belt	Accessory
+1BCFF4	Kulikaa Nagaraajaa's Seal	Accessory
+1BCFF8	Grail Ring	Accessory
+1BCFFC	Grail Locket	Accessory
+1BD000	Spriggan's Soul	Accessory
+1BD004	Horizon Jewl	Accessory
+1BD008	Rainbow Bracelet	Accessory
+1BD00C	Star and Moon Emblem	Accessory
+1BD010	Witche's Medallion	Accessory
+1BD014	Penguin Charm	Accessory
+1BD260	Van	Gem Cards
+1BD264	Agnès	Gem Cards
+1BD268	Feri	Gem Cards
+1BD26C	Aaron	Gem Cards
+1BD270	Risette	Gem Cards
+1BD274	Quatre	Gem Cards
+1BD278	Judith	Gem Cards
+1BD27C	Bergard	Gem Cards
+1BD280	Elaine	Gem Cards
+1BD284	Shizuna	Gem Cards
+1BD288	Renne	Gem Cards
+1BD28C	Jorda	Gem Cards
+1BD290	Zin	Gem Cards
+1BD294	Rixia	Gem Cards
+1BD298	Celis	Gem Cards
+1BD29C	Leon	Gem Cards
+1BD2A0	Rean	Gem Cards
+1BD2A4	Altina	Gem Cards
+1BD2A8	Fie	Gem Cards
+1BD2AC	Crow	Gem Cards
+1BD2B0	Towa	Gem Cards
+1BD2B4	Kevin	Gem Cards
+1BD2B8	Swin	Gem Cards
+1BD2BC	Nadia	Gem Cards
+1BD2C0	Rufus	Gem Cards
+1BD2C4	Lapis	Gem Cards
+1BD3F0	Fresh Egg	Ingredients
+1BD3F4	Honey Carrot	Ingredients
+1BD3F8	All-Purpose leaf	Ingredients
+1BD3FC	Rainbow Berry	Ingredients
+1BD400	Chameleon Spice	Ingredients
+1BD404	Assorted Grains	Ingredients
+1BD40C	Tender Whitefish	Ingredients
+1BD410	Healthy Liquor	Ingredients
+1BD418	Beast Flesh	Ingredients
+1BD41C	Prime Beast Flesh	Ingredients
+1BD420	Beast Essence	Ingredients
+1BD424	Prime Beast Essence	Ingredients
+1BD4B8	Kasagin	Fish
+1BD4BC	Sky Gill	Fish
+1BD4C0	Rainbow Trout	Fish
+1BD4C4	Carp	Fish
+1BD4C8	Snow Crab	Fish
+1BD4CC	Red Perch	Fish
+1BD4D0	Puffer	Fish
+1BD4D4	Azelfish	Fish
+1BD4D8	Rockeater	Fish
+1BD4DC	Tiger Arowana	Fish
+1BD4E0	Cangiru	Fish
+1BD4E4	Pink Azelfish	Fish
+1BD4E8	Quicksilver Carp	Fish
+1BD4EC	Forest Gill	Fish
+1BD4F0	Nobel Carp	Fish
+1BD4F4	Misericorde	Fish
+1BD4F8	Pearlglass	Fish
+1BD4FC	Gold Salmon	Fish
+1BD500	Moon White	Fish
+1BD504	Étincelle	Fish
+1BD508	Marbel Snakehead	Fish
+1BD50C	Grand Bream	Fish
+1BD510	Spiky Puffer	Fish
+1BD514	Glutton Shark	Fish
+1BD518	Blue Marlin	Fish
+1BD51C	Northern Arowana	Fish
+1BD520	Carmine Crab	Fish
+1BD52C	Lion King	Fish
+1BD580	Aromatic Bouillabaisse	Meals
+1BD584	Gran's White Doria	Meals
+1BD588	Deluxe Organic Platter	Meals
+1BD58C	Celebratory Roast Turkey	Meals
+1BD590	Golden Tea Party	Meals
+1BD594	Three Seasons Stew	Meals
+1BD598	Picnic for the Pals	Meals
+1BD59C	Persnickety Pancakes	Meals
+1BD5A0	Calming Chamomile Tea	Meals
+1BD5A4	Pleasent Pizza Toast	Meals
+1BD5A8	Chili Shrimp Taco	Meals
+1BD5AC	Bit-Sized Falafel	Meals
+1BD5B0	Fresh-Backed Chiboust	Meals
+1BD5B4	Kunlun Sesame Balls	Meals
+1BD5B8	Fond de Veau Curry	Meals
+1BD5BC	Handmade Hamburger Steak	Meals
+1BD5C0	Brothless Dandanmian	Meals
+1BD5C4	Full-to-Burstign Babecue	Meals
+1BD5C8	Off-the-Cuff Survival Stew	Meals
+1BD5CC	Grainy Seafood Onigiri	Meals
+1BD5D0	No-Frills Cheese Dog	Meals
+1BD5D4	Eisen Espresso	Meals
+1BD5D8	Fruit Carpaccio	Meals
+1BD5DC	Rich Strawberry Sundae	Meals
+1BD5E0	Elegant Herb Salad	Meals
+1BD5E4	Fragrant Basil Cookies	Meals
+1BD5E8	Break-Time Bavarois	Meals
+1BD5EC	Blanc Noir Smoothie	Meals
+1BD5F0	Piping-Hot Skillet Paella	Meals
+1BD5F4	Savory Fish Burger	Meals
+1BD5F8	Simply Satisfying Omurice	Meals
+1BD5FC	Sweet Tiramisu	Meals
+1BD600	Raisin Potato Salad	Meals
+1BD604	Deluxe Chausson aux Pommes	Meals
+1BD608	Noble Alexander	Meals
+1BD60C	Boarders' Penne Gratin	Meals
+1BD610	Supreme Beef Sukiyaki	Meals
+1BD614	Kruga-Style Baklava	Meals
+1BD618	Jurai-Style Pasta Soup	Meals
+1BD61C	Quiche d'Oración	Meals
+1BD620	Rich Matcha Mont Blanc	Meals
+1BD624	Dark Risotto	Meals
+1BD628	Besotted Beef Stroganoff	Meals
+1BD648	Lavender Jelly	Meals
+1BD64C	Parfait de Royale	Meals
+1BD650	Fig Canelé	Meals
+1BD654	Edel Mille-Feuille	Meals
+1BD658	Maximum Freeze	Meals
+1BD65C	Three-Citrus Yogurt Mousse	Meals
+1BD660	Blue Planet	Meals
+1BD664	Peach Tarte Tatin	Meals
+1BD668	Precious Mont Blanc	Meals
+1BD66C	Rich Butterscotch	Meals
+1BD670	Chocolat-Framboise	Meals
+1BD674	Cheese Baklava	Meals
+1BD678	Blissful Kirschtorte	Meals
+1BD67C	Sweet Potato Churros	Meals
+1BD680	Exquisite Basbousa	Meals
+1BD684	Willy's Café Jelly	Meals
+1BD688	Moulin Sorbet	Meals
+1BD68C	Kanza's Buckwheat Mantou	Meals
+1BD690	Qamar Knafeh	Meals
+1BD694	Cerise Chips	Meals
+1BD698	Chocolat d'Or Canelé	Meals
+1BD69C	Crispy Knafeh	Meals
+1BD6A0	White Fromage	Meals
+1BD6A4	Jewel Muscat Tart	Meals
+1BD6A8	Honey-Lemon Jelly	Meals
+1BD6AC	Acerbic Tomatorte	Meals
+1BD6B0	Gingerbread House	Meals
+1BD6B4	Cheese Foam Frappé	Meals
+1BD6B8	White Caramel Pudding	Meals
+1BD6BC	Rich Chai Pudding	Meals
+1BD6C0	Strawberry Dream Sandwich	Meals
+1BD6C4	Saffron Biscuit	Meals
+1BD6C8	Espoir Macarons	Meals
+1BD6CC	Rich Melfita	Meals
+1BD6D0	Supersweet Mango Gelato	Meals
+1BD6D4	Café de Tiramisu	Meals
+1BD6D8	Esmelas Mousse	Meals
+1BD6DC	Merceuil Chocolat	Meals
+1BD6E0	Gothic Stollen	Meals
+1BD6E4	Longlai Castella	Meals
+1BD6E8	Chat Noir's Affogato	Meals
+1BD6EC	Shun-Sui-Anmitsu	Meals
+1BD6F0	Deep-Steamed Hojicha Ice Pop	Meals
+1BD6F4	Jiggly Tofu Pudding	Meals
+1BD6F8	Fluffy Black Mantou	Meals
+1BD6FC	Blue Cheese Kuchen	Meals
+1BD710	Boarders' Hashed Beef	Meals
+1BD714	Boarders' Bread Pudding	Meals
+1BD718	Boarders' Hearty Consommé	Meals
+1BD71C	Luxurious Mixed Nuts	Meals
+1BD720	Fresh Green Salad	Meals
+1BD724	Spicy Salami	Meals
+1BD728	Piping-Hot Everything Pizza	Meals
+1BD72C	Lemon Mint Candy	Meals
+1BD730	Ripe Raisin Mix	Meals
+1BD734	Rich Pistachio Ice Cream	Meals
+1BD738	Refreshing Lemon Gelato	Meals
+1BD73C	Chocolate Cigarette	Meals
+1BD740	Specialty Bolognese	Meals
+1BD744	Custard Cookie	Meals
+1BD748	Ored Pickles	Meals
+1BD74C	Maserati Bread	Meals
+1BD750	Luxurious Tempura Soba	Meals
+1BD754	Pumpkin Chips	Meals
+1BD758	Dried Salmon	Meals
+1BD75C	Mutton Jerky	Meals
+1BD760	Potato Salad Sandwich	Meals
+1BD764	Anterose Sablé	Meals
+1BD768	Chicken Avocado Tacos	Meals
+1BD76C	Caiyun Xiaolongbao	Meals
+1BD770	Maple Popcorn	Meals
+1BD774	Salty Borscht	Meals
+1BD778	Cardamom Cookies	Meals
+1BD77C	Premium Doria	Meals
+1BD780	Stone-Baked Hamburger Steak	Meals
+1BD784	White Asparagus Potage	Meals
+1BD788	Spicy Shakshuka	Meals
+1BD78C	Camel Skewers	Meals
+1BD790	Extra Spicy Lamb Sausage	Meals
+1BD794	Sweet-'n'-Salty Turkey Leg	Meals
+1BD798	Caramel Cereal Bar	Meals
+1BD79C	College Burger	Meals
+1BD7A0	Quattro Formaggi Tacos	Meals
+1BD7A4	Beef Cutlet Sandwich	Meals
+1BD7A8	Mussel Vongole	Meals
+1BD7AC	Juicy Chicken Thigh Skewers	Meals
+1BD7B0	Juicy Pork Rib Skewers	Meals
+1BD7B4	Hot Spring Egg	Meals
+1BD7B8	Cool Breeze Chicken Soba	Meals
+1BD7BC	Longlai Mazesoba	Meals
+1BD7C0	Seafood Chimaki	Meals
+1BD7C4	Eddy's Special Bento	Meals
+1BD7C8	Junk Food Tacos	Meals
+1BD7CC	Brea(d)th of the Earth Tacos	Meals
+1BD7D8	Apple Cider	Meals
+1BD7DC	Peach Nectar	Meals
+1BD7E0	Lime Soda	Meals
+1BD7E4	Refreshing Barley Tea	Meals
+1BD7E8	Canned Corn Soup	Meals
+1BD7EC	Strawberry Au Lait	Meals
+1BD7F0	Bannana Au Lait	Meals
+1BD7F4	Ginger Lemonade	Meals
+1BD7F8	Watermelon Water	Meals
+1BD7FC	Fruit Au Lait	Meals
+1BD800	Neovita S	Meals
+1BD804	Lifeade	Meals
+1BD808	Neo-Lifeade	Meals
+1BD80C	Ultra-Sweet Canned Coffee	Meals
+1BD810	Unsweetened Canned Coffee	Meals
+1BD814	Sweetened Canned Coffee	Meals
+1BD818	Plum Soda	Meals
+1BD81C	Maximum Energy	Meals
+1BD820	Maximum Energy DX	Meals
+1BD824	Orange Juice	Meals
+1BD828	Grape Juice	Meals
+1BD82C	Blueberry Juice	Meals
+1BD830	Muscat Soda	Meals
+1BD834	Hot Milk Tea	Meals
+1BD838	Peppermint Tea	Meals
+1BD83C	Smoot Genmaicha	Meals
+1BD840	Slihtly-Bitter oolong Tea	Meals
+1BD844	Roasted Coffee	Meals
+1BD848	Supreme Mango Latte	Meals
+1BD84C	Waltham Blend	Meals
+1BD850	Tianfengquan	Meals
+1BD854	Fresh-Squeezed Melon Juice	Meals
+1BD858	Trion Squash	Meals
+1BD85C	Carmine Fizz	Meals
+1BD860	McMillan Blend	Meals
+1BD864	Frozen Cooler	Meals
+1BD868	Blues Tonic	Meals
+1BD86C	Viper Bite: Emperor	Meals
+1BD870	Golden Stout	Meals
+1BD874	Dynamite Lager	Meals
+1BD878	Salted Shot	Meals
+1BD87C	Special Fruit Punch	Meals
+1BD880	Grand Chardonnay Fizz	Meals
+1BD884	Willy's Latte	Meals
+1BD888	Shino's Sangria	Meals
+1BD88C	Northern Driver	Meals
+1BD890	Tharbad Mojito	Meals
+1BD894	Willy's Smoothie	Meals
+1BD898	Hazel Macchiato	Meals
+1BD89C	Azure Cooler	Meals
+1BD8A0	Trion Float	Meals
+1BD8A4	Silent Blue	Meals
+1BD8A8	Bloody Matthau	Meals
+1BD8AC	Tiramisu Royal	Meals
+1BD968	Van - A. Color Hair	Costumes
+1BD96C	Agnès - A. Color Hair	Costumes
+1BD970	Feri - A. Color Hair	Costumes
+1BD974	Aaron - A. Color Hair	Costumes
+1BD978	Risette - UNITED Hair	Costumes
+1BD97C	Risette - A. Color Hair	Costumes
+1BD980	Quatre - UNITED Hair	Costumes
+1BD984	Quatre - A. Color Hair	Costumes
+1BD988	Judith - UNITED Hair	Costumes
+1BD98C	Judith - A. Color Hair	Costumes
+1BD990	Bergard - UNITED Hair	Costumes
+1BD994	Bergard - A. Color Hair	Costumes
+1BD998	Jorda - A. Color Hair	Costumes
+1BD99C	Rean - A. Color Hair	Costumes
+1BD9A0	Altina - A. Color Hair	Costumes
+1BD9A4	Crow - A. Color Hair	Costumes
+1BD9A8	Fie - A. Color Hair	Costumes
+1BD9AC	Towa - A. Color Hair	Costumes
+1BD9B0	Shizuna - A. Color Hair	Costumes
+1BD9B4	Celis - A. Color Hair	Costumes
+1BD9B8	Leon - A. Color Hair	Costumes
+1BD9BC	Kevin - A. Color Hair	Costumes
+1BD9C0	Rufus - A. Color Hair	Costumes
+1BD9C4	Swin - A. Color Hair	Costumes
+1BD9C8	Nadia - A. Color Hair	Costumes
+1BD9CC	Lapis - A. Color Hair	Costumes
+1BD9D0	Elain - A. Color Hair	Costumes
+1BD9D4	Renne - A. Color Hair	Costumes
+1BD9D8	Zin - A. Color Hair	Costumes
+1BD9DC	Rixia - A. Color Hair	Costumes
+1BDBC0	Van's Old Outfit	Costumes
+1BDBC4	Van's Old Outfit Sans Coat	Costumes
+1BDBC8	Van's Towel	Costumes
+1BDBCC	Van's Samue Attire	Costumes
+1BDBD0	Van's Racing Suit	Costumes
+1BDBD4	Van's Outfit	Costumes
+1BDBD8	Van's Lightweight Outfit	Costumes
+1BDBE8	Agnès' Daybreak II Outfit A	Costumes
+1BDBEC	Agnès' Daybreak II Outfit B	Costumes
+1BDBF0	Agnès' Towel	Costumes
+1BDBF4	Agnès' Uniform	Costumes
+1BDBF8	Agnès' Sans Shoes	Costumes
+1BDBFC	Agnès' Samue Attire	Costumes
+1BDC00	Agnès' Daybreak I Outfit A	Costumes
+1BDC04	Agnès' Daybreak I Outfit B	Costumes
+1BDC08	Agnès' Tracksuit	Costumes
+1BDC0C	Agnès' Outfit	Costumes
+1BDC10	Feri's Old Outfit A	Costumes
+1BDC14	Feri's Old Hooded Outfit	Costumes
+1BDC18	Feri's Towel	Costumes
+1BDC1C	Feri's Old Outfit B	Costumes
+1BDC20	Feri's Samue Attire	Costumes
+1BDC24	Feri's Outfit	Costumes
+1BDC28	Feri's Lightweight Outfit	Costumes
+1BDC38	Aaron's Old Outfit A	Costumes
+1BDC3C	Aaron's Towel	Costumes
+1BDC40	Aaron's Old Outfit B	Costumes
+1BDC44	Aaron's Samue Attire	Costumes
+1BDC48	Aaron's Outfit	Costumes
+1BDC4C	Aaron's Lightweight Outfit	Costumes
+1BDC60	Risette's Old Concierge Outfit	Costumes
+1BDC64	Risette's Towel	Costumes
+1BDC68	Risette's Loungewear	Costumes
+1BDC6C	Risette's Samue Attire	Costumes
+1BDC70	Risette's Concierge Outfit	Costumes
+1BDC88	Quatre's Old Outfit A	Costumes
+1BDC8C	Quatre's Old Outfit B	Costumes
+1BDC90	Quatre's Towel	Costumes
+1BDC94	Quatre's Samue Attire	Costumes
+1BDC98	Quatre's Old Outfit C	Costumes
+1BDC9C	Quatre's Avatar Model	Costumes
+1BDCA0	Quatre's Outfit	Costumes
+1BDCA4	Quatre's Lightweight Outfit	Costumes
+1BDCB0	Judith's Old Outfit	Costumes
+1BDCB4	Judith's Bikini	Costumes
+1BDCB8	Judith's  Towel	Costumes
+1BDCBC	Judith's White Robe	Costumes
+1BDCC0	Judith's Disguise	Costumes
+1BDCC4	Judith's Samue Attire	Costumes
+1BDCC8	Judith's Bathrobe	Costumes
+1BDCCC	Judith's Outfit	Costumes
+1BDCD8	Bergard's Outfit	Costumes
+1BDCDC	Bergard's Lightweight Outfit	Costumes
+1BDCE0	Bergard's Towel	Costumes
+1BDD00	Elaine's Bracer Outfit	Costumes
+1BDD04	Elaine's Swimsuit	Costumes
+1BDD08	Elaine's Towel	Costumes
+1BDD0C	Elaine's Old Outfit A	Costumes
+1BDD10	Elaine's Old Outfit B	Costumes
+1BDD14	Elaine's Outfit	Costumes
+1BDD28	Shizuna's Combat Gear	Costumes
+1BDD2C	Shizuna's Swimsuit	Costumes
+1BDD30	Shizuna's Towel	Costumes
+1BDD34	Shizuna's Outfit	Costumes
+1BDD38	Shizuna's Lightweight Outfit	Costumes
+1BDD50	Van's Swimsuit With Top	Costumes
+1BDD54	Van's Swimsuit	Costumes
+1BDD58	Van's 4SPG UNITED Coat	Costumes
+1BDD5C	Van's Mishy Suit	Costumes
+1BDD60	Van's Suit	Costumes
+1BDD64	Van's Carcon Attire	Costumes
+1BDD68	Van's A. Color Outfit	Costumes
+1BDD78	Old Calvard KLingdom Dress	Costumes
+1BDD7C	Agnès' Swimsuit With Top	Costumes
+1BDD80	Agnès' Swimsuit	Costumes
+1BDD84	Agnès' 4SPG UNITED Attire	Costumes
+1BDD88	Agnès' Z1 Pit Girl Attire	Costumes
+1BDD8C	Agnès' Z1 Pit Girl Attire B	Costumes
+1BDD90	Agnès' Lapine Attire	Costumes
+1BDD94	Agnès' A. Color Outfit	Costumes
+1BDD98	Agnès' Pink Lapine Attire	Costumes
+1BDDA0	Kruga Priestess Garb	Costumes
+1BDDA4	Light Kruga Priestess Garb	Costumes
+1BDDA8	Feri's Swimsuit With Top	Costumes
+1BDDAC	Feri's Swimsuit	Costumes
+1BDDB0	Feri's Uniform	Costumes
+1BDDB4	Feri's 4SPG UNITED Attire	Costumes
+1BDDB8	Feri's Z1 Pit Girl Attire	Costumes
+1BDDBC	Feri's Lapine Attire	Costumes
+1BDDC0	Feri's A. Color Outfit	Costumes
+1BDDC8	Aaron's Swimsuit With Top	Costumes
+1BDDCC	Aaron's Swimsuit	Costumes
+1BDDD0	Aaron's 4SPG UNITED Attire	Costumes
+1BDDD4	Aaron's Suit	Costumes
+1BDDD8	Aaron's Garcon Attire	Costumes
+1BDDDC	Aaron's A. Color Outfit	Costumes
+1BDDF0	Marduke Battle Maid Suit	Costumes
+1BDDF4	Risette's Swimsuit With Top	Costumes
+1BDDF8	Risette's Swimsuit	Costumes
+1BDDFC	Risette's Z1 Pit Girl Attire	Costumes
+1BDE00	Risette's Lapine Attire	Costumes
+1BDE04	Risette's 4SPG UNITED Attire	Costumes
+1BDE08	Risette's A. Color Outfit	Costumes
+1BDE18	Quatre's Swimsuit With Top	Costumes
+1BDE1C	Quatre's Swimsuit	Costumes
+1BDE20	Quatre's Uniform	Costumes
+1BDE24	Quatre's Suit	Costumes
+1BDE28	Quatre's Garcon Attire	Costumes
+1BDE2C	Quatre's 4SPG UNITED Attire	Costumes
+1BDE30	Quatre's A. Color Outfit	Costumes
+1BDE40	Judith's Swimsuit With Top	Costumes
+1BDE44	Judith's Swimsuit	Costumes
+1BDE48	Golden Blood Suit	Costumes
+1BDE4C	Judith's Z1 Pit Girl Attire B	Costumes
+1BDE50	Judith's Lapine Attire	Costumes
+1BDE54	Judith's 4SPG UNITED Attire	Costumes
+1BDE58	Judith's A. Color Outfit	Costumes
+1BDE68	Bergard's Swimsuit With Top	Costumes
+1BDE6C	Bergard's Swimsuit	Costumes
+1BDE70	Bergard's Garcon Attire	Costumes
+1BDE74	Bergard's 4SPG UNITED Attire	Costumes
+1BDE78	Bergard's A. Color Outfit	Costumes
+1BDE94	Elaine's Z1 Pit Girl Attire	Costumes
+1BDE98	Elaine's Z1 Pit Girl Attire B	Costumes
+1BDE9C	Elaine's Lapin Attire	Costumes
+1BDEA0	Elaine's A. Color Outfit	Costumes
+1BDEB8	Shizuna's Z1 Pit Gitl Attire	Costumes
+1BDEBC	Shizuna's Z1 Pit Gitl Attire B	Costumes
+1BDEC0	Shizuna's Silver Xiongshou Garb	Costumes
+1BDEC4	Shizuna's Lapin Attire	Costumes
+1BDEC8	Shizuna's A. Color Outfit	Costumes
+1BDEE0	Swin's Outfit	Costumes
+1BDEE4	Swin's Uniform	Costumes
+1BDEE8	Swin's Swimsuit	Costumes
+1BDEEC	Swin's Towel	Costumes
+1BDEF0	Swin's Tracksuit	Costumes
+1BDEF4	Swin's Suit	Costumes
+1BDEF8	Swin's Garcon Attire	Costumes
+1BDEFC	Swin's A. Color Outfit	Costumes
+1BDF08	Nadia's Outfit	Costumes
+1BDF0C	Nadia's Uniform	Costumes
+1BDF10	Nadia's Swimsuit	Costumes
+1BDF14	Nadia's Towel	Costumes
+1BDF18	Nadia's Tracksuit	Costumes
+1BDF1C	Nadia's Z1 Pit Girl Attire	Costumes
+1BDF20	Nadia's Lapin Attire	Costumes
+1BDF24	Nadia's A. Color Outfit	Costumes
+1BDF30	Renne's Uniform	Costumes
+1BDF34	Renne's Outfit	Costumes
+1BDF38	Renne's Swimsuit	Costumes
+1BDF3C	Renne's Towel	Costumes
+1BDF40	Renne's Z1 Pit Girl Attire B	Costumes
+1BDF44	Grimkitty	Costumes
+1BDF48	Renne's Lightweight Outfit	Costumes
+1BDF4C	Renne's Lapine Attire	Costumes
+1BDF50	Renne's A. Color Outfit	Costumes
+1BDF58	Kincaid's Buisness Casual	Costumes
+1BDF5C	Kincaid's Towel	Costumes
+1BDF60	Kincaid's Suit	Costumes
+1BDF80	Celis' Hood	Costumes
+1BDF84	Celis' Towel	Costumes
+1BDF88	Celis' Z1 Pit Girl Attire	Costumes
+1BDF8C	Celis' ME Outfit	Costumes
+1BDF90	Celis' A. Color Outfit	Costumes
+1BDFA8	Leon's Hood	Costumes
+1BDFAC	Leon's Towel	Costumes
+1BDFB0	Leon's Suit	Costumes
+1BDFB4	Leon's ME Outfit	Costumes
+1BDFB8	Leon's A. Color Outfit	Costumes
+1BDFD0	Fie's Outfit	Costumes
+1BDFD4	Fie's Outfit Sans Hat	Costumes
+1BDFD8	Fie's Towel	Costumes
+1BDFDC	Fie's Samue Attire	Costumes
+1BDFE4	Zin's Towel	Costumes
+1BDFE8	Zin's A. Color Outfit	Costumes
+1BDFF8	Jorda's Outfit	Costumes
+1BDFFC	Jorda's Lightweight Outfit	Costumes
+1BE000	Jorda's Hooded Outfit	Costumes
+1BE004	Jorda's Towel	Costumes
+1BE008	Jorda's A. Color Outfit	Costumes
+1BE00C	Rean's Outfit	Costumes
+1BE010	Rean's Lightweight Outfit	Costumes
+1BE014	Rean's Swimsuit	Costumes
+1BE018	Rean's Towel	Costumes
+1BE01C	Rean's Samue Attire	Costumes
+1BE020	Altina's Outfit	Costumes
+1BE024	Altina's Swimsuit	Costumes
+1BE028	Altina's Towel	Costumes
+1BE02C	Altina's Samue Attire	Costumes
+1BE034	Crow's Outfit	Costumes
+1BE038	Crow's Lightweight Outfit	Costumes
+1BE03C	Crow's Towel	Costumes
+1BE040	Crow's Samue Attire	Costumes
+1BE048	Towa's Towel	Costumes
+1BE04C	Towa's Samue Attire	Costumes
+1BE050	Towa's Lapine Attire	Costumes
+1BE054	Towa's A. Color Outfit	Costumes
+1BE05C	Kevin's Outfit	Costumes
+1BE060	Kevin's Lightweight Outfit	Costumes
+1BE064	Kevin's Swimsuit	Costumes
+1BE068	Kevin's Towel	Costumes
+1BE070	Rufus' Outfit	Costumes
+1BE074	Rufus' Leightweight Outfit	Costumes
+1BE078	Rufus' Swimsuit	Costumes
+1BE07C	Rufus' Towel	Costumes
+1BE084	Lapis' Swimsuit	Costumes
+1BE088	Lapis' Towel	Costumes
+1BE08C	Lapis' Rosenberg Dress	Costumes
+1BE090	Lapis' Lapin Attire	Costumes
+1BE094	Lapis' A. Color Outfit	Costumes
+1BE098	Rixia's Casual Outfit	Costumes
+1BE09C	Rixia's Towel	Costumes
+1BE0A0	Rixia's Lightweight Outfit	Costumes
+1BE0A4	Rixia's A. Color Outfit	Costumes
+1BE0A8	Rixia's Outfit	Costumes
+1BE0AC	Agnès' Uniform Sans Blazer	Costumes
+1BE0B0	Agnès' Lightweight Outfit	Costumes
+1BE0B4	Fie's Lapine Attire	Costumes
+1BE0B8	Fie's A. Color Outfit With Hat	Costumes
+1BE0BC	Fie's A. Color Outfit Sans Hat	Costumes
+1BE0C0	Rean's Instructor Attire	Costumes
+1BE0C4	Rean's Garcon Attire	Costumes
+1BE0C8	Rean's A. Color Outfit	Costumes
+1BE0CC	Altina's Travel Attire	Costumes
+1BE0D0	Altina's Lapine Attire	Costumes
+1BE0D4	Altina's A. Color Outfit	Costumes
+1BE0D8	Crow's Garcon Attire	Costumes
+1BE0DC	Crow's A. Color Outfit	Costumes
+1BE0E0	Kevin's Garcon Attire	Costumes
+1BE0E4	Kevin's A. Color Outfit	Costumes
+1BE0E8	Rufus' Disguise	Costumes
+1BE0EC	Rufus' Garcon Attire	Costumes
+1BE0F0	Rufus' A. Color Outfit	Costumes
+1BE110	Van - Red Hair	Costumes
+1BE114	Van - UNITED Hair	Costumes
+1BE118	Van - Golden Hair	Costumes
+1BE124	Agnès - Dark Hair	Costumes
+1BE128	Agnès - UNITED Hair	Costumes
+1BE12C	Agnès - White-Silver Hair	Costumes
+1BE138	Feri - Blond Hair	Costumes
+1BE13C	Feri - UNITED Hair	Costumes
+1BE140	Feri - Pink-Brown Hair	Costumes
+1BE14C	Aaron - Blue Hair	Costumes
+1BE150	Aaron - UNITED Hair	Costumes
+1BE154	Aaron - Silver Hair	Costumes
+1BE160	Risette - Pink Hair	Costumes
+1BE164	Risette - Light Purple Hair	Costumes
+1BE174	Quatre - Green Hair	Costumes
+1BE178	Quatre - Pink-Purple Hair	Costumes
+1BE188	Judith - Brown Hair	Costumes
+1BE18C	Judith - Green Hair	Costumes
+1BE19C	Bergard - Gold Hair	Costumes
+1BE1A0	Bergard - Dark-Brown Hair	Costumes
+1BE1B0	Elaine - Light Brown Hair	Costumes
+1BE1B4	Shizuna -  Black Hair	Costumes
+1BE1B8	Renne - Ash Blonde Hair	Costumes
+1BE1BC	Jorda - Green &amp; Pink-Purple Hair	Costumes
+1BE1C0	Rean - Ogre Hair	Costumes
+1BE1C4	Altina - Turquoise-Blue Hair	Costumes
+1BE1C8	Fie - Platinum Brown Hair	Costumes
+1BE1CC	Crow - Purple Hair	Costumes
+1BE1D0	Towa - Light Blue Hair	Costumes
+1BE1D4	Kevin - Orange Hair	Costumes
+1BE1D8	Swin - Pink Hair	Costumes
+1BE1DC	Nadia - Brown Hair	Costumes
+1BE1E0	Rufus - Silver Hair	Costumes
+1BE1E4	Lapis - Blonde Hair	Costumes
+1BE1E8	Zin - Blue Hair	Costumes
+1BE1EC	Rixia - Brown Hair	Costumes
+1BE1F0	Celis - Ice Blue Hair	Costumes
+1BE1F4	Leon - Crimson Hair	Costumes
+1BE204	Judith's Sunglasses	Costumes
+1BE208	Kincaid's Glasses	Costumes
+1BE20C	Grimcat Mask	Costumes
+1BE210	Black Cat Ears	Costumes
+1BE214	Black Cat Tail	Costumes
+1BE218	V Headphones	Costumes
+1BE21C	Square Backpack	Costumes
+1BE220	Glasses - Easy Marble	Costumes
+1BE224	Glasses - Intelligence	Costumes
+1BE228	Glasses - Urban Square	Costumes
+1BE22C	Sunglasses - Classic	Costumes
+1BE230	Sunglasses - Sporty	Costumes
+1BE234	Sunglasses - Biker	Costumes
+1BE238	Sun Visor - Ingert	Costumes
+1BE23C	Sun Visor - ETWS	Costumes
+1BE240	Sun Visor - Leno	Costumes
+1BE244	Sun Visor - Red Star	Costumes
+1BE248	Reinforced Mask - Black	Costumes
+1BE24C	Reinforced Mask - Red	Costumes
+1BE250	Reinforced Mask - Silver	Costumes
+1BE254	Reinforced Mask - Camo	Costumes
+1BE258	Backpack - Casual	Costumes
+1BE25C	Backpack - Gentelbear	Costumes
+1BE260	Backpack - Kruger Survival	Costumes
+1BE264	Inner Tube - Blue Star	Costumes
+1BE268	Inner Tube - Z1 Racing	Costumes
+1BE26C	Inner Tube - Festival Goldfish	Costumes
+1BE270	Costume - Rabbit Ears	Costumes
+1BE274	Costume - Rabbit Tail	Costumes
+1BE278	Costume - Dog Ears	Costumes
+1BE27C	Costume - Dog Tail	Costumes
+1BE280	Costume - Fox Ears	Costumes
+1BE284	Costume - Fox Tail	Costumes
+1BE288	Costume - Ox Ears	Costumes
+1BE28C	Costume - Ox Tail	Costumes
+1BE290	Ambiance - Sparkly Star	Costumes
+1BE294	Ambiance - Autumm Leaves	Costumes
+1BE298	Ambiance - Sweet Rondo	Costumes
+1BE29C	Van's Sunglasses	Costumes
+1BE2A0	Agnès' Student Council Band	Costumes
+1BE2A4	Swin's Student Council Band	Costumes
+1BE2A8	Nadia's Student Council Band	Costumes
+1BE2AC	Renne's Student Council Band	Costumes
+1BE2B0	Feri's Hair Ornament	Costumes
+1BE2B4	Van's Mishy Head	Costumes
+1BE2B8	Agnès' Pit Girl Sunglasses	Costumes
+1BE2BC	Elaine's Pit Girl Cap	Costumes
+1BE2C0	Shizuna's Pit Girl Cap	Costumes
+1BE2C4	Sunglasses - Rich Pinkie	Costumes
+1BE2C8	Sunglasses - Round and Black	Costumes
+1BE2CC	Sunglasses - Emerald	Costumes
+1BE2D0	Glasses - Military Sky	Costumes
+1BE2D4	Glasses - Metallic Red	Costumes
+1BE2D8	Glasses - Lime	Costumes
+1BE2DC	Rean's Sword (Right)	Costumes
+1BE2E0	Rean's Sword (Left)	Costumes
+1BE2E4	Crow's Double Saber (Right)	Costumes
+1BE2E8	Crow's Double Saber (Left)	Costumes
+1BE2EC	Aurelia's Sword (Right)	Costumes
+1BE2F0	Aurelia's Sword (Left)	Costumes
+1BE2F4	Food Carrier - Daybreak	Costumes
+1BE2FC	Sharkfernie	Costumes
+1BE300	Ambiance - Frozen Dance	Costumes
+1BE304	Ambiance - Balloon	Costumes
+1BE308	Ambiance - Drunkard	Costumes
+1BE30C	Flower Corsage (Right)	Costumes
+1BE310	Flower Corsage (Left)	Costumes
+1BE314	Crimson Fan Hairpin (Right)	Costumes
+1BE318	Crimson Fan Hairpin (Left)	Costumes
+1BE31C	Azure Fan Hairpin (Right)	Costumes
+1BE320	Azure Fan Hairpin (Left)	Costumes
+1BE324	Golden Headpiece (Right)	Costumes
+1BE328	Golden Headpiece (Left)	Costumes
+1BE330	Elegant Hat	Costumes
+1BE334	Sauna Hat - Blue	Costumes
+1BE338	Sauna Hat - Red	Costumes
+1BE33C	Former Student Council	Costumes
+1BE340	Kruger Dancer	Costumes
+1BE344	Divine Blade of Silver	Costumes
+1BE348	Student Council Prez Renne	Costumes
+1BE34C	Fie the Bracer	Costumes
+1BE350	Banner - Film Festival	Costumes
+1BE354	Banner - Montmart	Costumes
+1BE358	Banner - Mishy	Costumes
+1BE35C	Banner - Z1 Grand Prix	Costumes
+1BE360	Banner - Märchen Garten	Costumes
+1BE364	Knock It Off	Costumes
+1BE368	Picnicking Front	Costumes
+1BE36C	Protagonist	Costumes
+1BE370	Now Streaming	Costumes
+1BE374	Mystic Cube Junkie	Costumes
+1BE378	Sauna Time	Costumes
+1BE37C	An Angel!	Costumes
+1BE380	Team Agnès	Costumes
+1BE384	Team Elaine	Costumes
+1BE388	Dessert Enthusiast	Costumes
+1BE390	Agnès' Pit Girl Sun Visor	Costumes
+1BE394	Elaine's Pit Girl Sunglasses	Costumes
+1BE398	Shizuna's  Pit Girl Hat	Costumes
+1BE39C	Feri's  Pit Girl Goggles	Costumes
+1BE3A0	Risette's Pit Girl Cap	Costumes
+1BE3A4	Judith's Pit Girl Sunglasses	Costumes
+1BE3A8	Renne's Pit Girl Crown	Costumes
+1BE3AC	Nadia's Pit Girl Ribbon	Costumes
+1BE3B0	Celis' Pit Girl Sunglasses	Costumes
+1BE3B4	Kitty Mask	Costumes
+1BE3B8	Kitty Tail	Costumes
+1BE3E0	Blue Snowboard (Right)	Costumes
+1BE3E4	Blue Snowboard (Left)	Costumes
+1BE3E8	Red Snowboard (Right)	Costumes
+1BE3EC	Red Snowboard (Left)	Costumes
+1BE3F0	Silver Headpiece (Right)	Costumes
+1BE3F4	Silver Headpiece (Left)	Costumes
+1BE3F8	Festival Half Mask (Right)	Costumes
+1BE3FC	Festival Half Mask (Left)	Costumes
+1BE400	Ride-Along Shackled Hero	Costumes
+1BE404	Ride-Along Black Rabbit Mage	Costumes
+1BE408	Ride-Along White Doll Princess	Costumes
+1BE40C	Towa's Glasses	Costumes
+1BE434	Michette Head	Costumes
+1BE438	Dark Mishy Head	Costumes
+1BE43C	Millium's Sword (Right)	Costumes
+1BE440	Millium's Sword (Left)	Costumes
+1BE444	Ishmegal's Sword (Right)	Costumes
+1BE448	Ishmegal's Sword (Left)	Costumes
+1BE44C	Arianrhod's Lance (Right)	Costumes
+1BE450	Arianrhod's Lance (Left)	Costumes
+1BE454	Van's Lapin Ears	Costumes
+1BE458	Aaron's Lapin Ears	Costumes
+1BE45C	Quatre's Lapin Ears	Costumes
+1BE460	Rean's Lapin Ears	Costumes
+1BE464	Crow's Lapin Ears	Costumes
+1BE468	Bergard's Lapin Ears	Costumes
+1BE46C	Kevin's  Lapin Ears	Costumes
+1BE470	Swin's Lapin Ears	Costumes
+1BE474	Rufus' Lapin Ears	Costumes
+1BE478	Altina's Travel Hat	Costumes
+1BE6B0	Supreme Wax	Gifts
+1BE6B4	Dark-Silver Dog Tag	Gifts
+1BE6B8	Camel Leather Bangle	Gifts
+1BE6BC	Azure Hour Earrings	Gifts
+1BE6C0	LotusPods	Gifts
+1BE6C4	White Summer Cap	Gifts
+1BE6C8	Cyrus &amp; Garfield	Gifts
+1BE6CC	Sunshine Ornament	Gifts
+1BE6D0	Graffiti Cushion	Gifts
+1BE6D4	Fluorite Aroma	Gifts
+1BE6D8	Silver-Green Earrings	Gifts
+1BE6DC	Silver Coral Bangle	Gifts
+1BE6E0	Platinum Lighter	Gifts
+1BE6E4	Sigmagraph	Gifts
+1BE6E8	Mercury Dome	Gifts
+1BE6EC	Das Rheinring	Gifts
+1BE6F0	Sapphirl Cat	Gifts
+1BE6F4	Strega Vice	Gifts
+1BE6F8	Reversible Hoodie	Gifts
+1BE6FC	Galaxia-Scope	Gifts
+1BE700	Essence of Myrrh	Gifts
+1BE704	Eisen Vacuum	Gifts
+1BE708	Varbie Family	Gifts
+1BE70C	Xipha Mount	Gifts
+1BE710	Rumble Pistols	Gifts
+1BE714	Wild Goose	Gifts
+1BE718	Bubbling Bath Salts	Gifts
+1BE71C	Elegant Holster	Gifts
+1BE720	Yonder Serenade	Gifts
+1BE724	Yamazakura Comb	Gifts
+1BE728	Vintage Jeans	Gifts
+1BE72C	Sparkling Purple Cufflinks	Gifts
+1BE730	Lilac Eau de Toilette	Gifts
+1BE734	Jewel de Fruits	Gifts
+1BE738	Neon Night Cover	Gifts
+1BE73C	Stainless Steel Tumbler	Gifts
+1BE740	Plover Fastener	Gifts
+1BE744	Mist Hairdryer	Gifts
+1BE748	Rosewood Paintbrush	Gifts
+1BE74C	Multitool Knife	Gifts
+1BE750	Blooming Braid	Gifts
+1BE754	Dark-Blue Musk	Gifts
+1BE758	Kirindo Hanafuda	Gifts
+1BE75C	Ideal Watch S	Gifts
+1BE760	Peony Hairpin	Gifts
+1BE764	Pierce de Ciel	Gifts
+1BE768	Strega Falco	Gifts
+1BE76C	Tough Racer	Gifts
+1BE770	Silver Cross Choker	Gifts
+1BE774	Trinity Hearts	Gifts
+1BE778	Orange Berry Cologne	Gifts
+1BE77C	Golden Suit Cuffs	Gifts
+1BE780	Jacquard Hadkerchief	Gifts
+1BE784	Azraq Bonbons	Gifts
+1BE788	White Agate Cameo	Gifts
+1BE78C	Fancy Pencils	Gifts
+1BE790	Giant Kagemaru Plushie	Gifts
+1BE794	Briddle-Leather Beld	Gifts
+1BE798	Quarz Sake Cup	Gifts
+1BE79C	Memorial '90s	Gifts
+1BE7A0	Lightning leg Guards	Gifts
+1BEE80	Defense 1	Quartz
+1BEE84	Defense 2	Quartz
+1BEE88	Defense 3	Quartz
+1BEEA8	EP 1	Quartz
+1BEEAC	EP 2	Quartz
+1BEEB0	EP 3	Quartz
+1BEEBC	Amberl Gem	Quartz
+1BEED0	Rot	Quartz
+1BEED4	Rot II	Quartz
+1BEEF8	Earth Verse	Quartz
+1BEEFC	Gaia Verse	Quartz
+1BEF20	Topaz Ring	Quartz
+1BEF24	Corundum Ring	Quartz
+1BEF48	Septium Vein	Quartz
+1BEF4C	Hidden Vein	Quartz
+1BEF70	Goliath	Quartz
+1BEF74	Anksha	Quartz
+1BEF78	Deidarabotchi	Quartz
+1BF010	HP 1	Quartz
+1BF014	HP 2	Quartz
+1BF018	HP 3	Quartz
+1BF038	Shield 1	Quartz
+1BF03C	Shield 2	Quartz
+1BF040	Shield 3	Quartz
+1BF04C	Sapphirl Gem	Quartz
+1BF060	Freeze	Quartz
+1BF064	Freeze II	Quartz
+1BF088	Auqa Verse	Quartz
+1BF08C	Crystal Verse	Quartz
+1BF0B0	Cobalt Ring	Quartz
+1BF0B4	Indigo Ring	Quartz
+1BF0D8	Breath	Quartz
+1BF0DC	Mercy	Quartz
+1BF100	Calliope	Quartz
+1BF104	Florent	Quartz
+1BF108	Konohanasakuya	Quartz
+1BF1A0	Attack 1	Quartz
+1BF1A4	Attack 2	Quartz
+1BF1A8	Attack 3	Quartz
+1BF1C8	Break 1	Quartz
+1BF1CC	Break 2	Quartz
+1BF1D0	Break 3	Quartz
+1BF1DC	Carnelia Gem	Quartz
+1BF1F0	Burn	Quartz
+1BF1F4	Burn II	Quartz
+1BF218	Burning Verse	Quartz
+1BF21C	Hellfire Verse	Quartz
+1BF240	Ruby Ring	Quartz
+1BF244	Crimson Ring	Quartz
+1BF268	Firestorm	Quartz
+1BF26C	Inferno	Quartz
+1BF290	Smaug	Quartz
+1BF294	Beowolf	Quartz
+1BF298	Prometheus	Quartz
+1BF330	Evade 1	Quartz
+1BF334	Evade 2	Quartz
+1BF338	Evade 3	Quartz
+1BF358	Strike 1	Quartz
+1BF35C	Strike 2	Quartz
+1BF360	Strike 3	Quartz
+1BF36C	Esmelas Gem	Quartz
+1BF380	Seal	Quartz
+1BF384	Seal II	Quartz
+1BF3A8	Airy Verse	Quartz
+1BF3AC	Tempest Verse	Quartz
+1BF3D0	Emerald Ring	Quartz
+1BF3D4	Jade Ring	Quartz
+1BF3F8	Scent	Quartz
+1BF3FC	Indomitability	Quartz
+1BF420	Galadriel	Quartz
+1BF424	Kusanagi	Quartz
+1BF428	Hanuman	Quartz
+1BF4C0	Action 1	Quartz
+1BF4C4	Action 2	Quartz
+1BF4C8	Action 3	Quartz
+1BF4E8	Cast 1	Quartz
+1BF4EC	Cast 2	Quartz
+1BF4F0	Cast 3	Quartz
+1BF4FC	Nohval Gem	Quartz
+1BF510	Blind	Quartz
+1BF514	Blind II	Quartz
+1BF538	Stellar Verse	Quartz
+1BF53C	Dawnstar Verse	Quartz
+1BF560	Amethyst Ring	Quartz
+1BF564	Onyx Ring	Quartz
+1BF588	Fortune	Quartz
+1BF58C	Serendipity	Quartz
+1BF5B0	Bandersnatch	Quartz
+1BF5B4	Gungnir	Quartz
+1BF5B8	Hecate	Quartz
+1BF650	EP Cut 1	Quartz
+1BF654	EP Cut 2	Quartz
+1BF658	EP Cut 3	Quartz
+1BF678	Hit 1	Quartz
+1BF67C	Hit 2	Quartz
+1BF680	Hit 3	Quartz
+1BF68C	Goldia Gem	Quartz
+1BF6A0	Mute	Quartz
+1BF6A4	Mute II	Quartz
+1BF6C8	Solar Verse	Quartz
+1BF6CC	Aurora Verse	Quartz
+1BF6F0	Citrine Ring	Quartz
+1BF6F4	Golden Ring	Quartz
+1BF718	Revelation	Quartz
+1BF71C	Oracle	Quartz
+1BF740	March Hare	Quartz
+1BF744	Caduceus	Quartz
+1BF748	Clotho	Quartz
+1BF7E0	Mind 1	Quartz
+1BF7E4	Mind 2	Quartz
+1BF7E8	Mind 3	Quartz
+1BF808	Impede 1	Quartz
+1BF80C	Impede 2	Quartz
+1BF810	Impede 3	Quartz
+1BF81C	Argem Gem	Quartz
+1BF830	Fear	Quartz
+1BF834	Fear II	Quartz
+1BF858	Lunar Verse	Quartz
+1BF85C	Misty Verse	Quartz
+1BF880	Diamond Ring	Quartz
+1BF884	Silver Ring	Quartz
+1BF8A8	Decoy	Quartz
+1BF8AC	Reclusion	Quartz
+1BF8D0	Jabberwocky	Quartz
+1BF8D4	Durendal	Quartz
+1BF8D8	Astraeus	Quartz
+1BFA38	Xipha Cover - Gray	Xipher Cover
+1BFA3C	Xipha Cover - Black	Xipher Cover
+1BFA40	Xipha Cover - Van	Xipher Cover
+1BFA44	Xipha Cover - Agnès	Xipher Cover
+1BFA48	Xipha Cover - Feri	Xipher Cover
+1BFA4C	Xipha Cover - Aaron	Xipher Cover
+1BFA50	Xipha Cover - Risette	Xipher Cover
+1BFA54	Xipha Cover - Quatre	Xipher Cover
+1BFA58	Xipha Cover - Judith	Xipher Cover
+1BFA5C	Xipha Cover - Bergard	Xipher Cover
+1BFA60	Image Cover A	Xipher Cover
+1BFA64	Image Cover B	Xipher Cover
+1BFA68	Image Cover C	Xipher Cover
+1BFA6C	Image Cover D	Xipher Cover
+1BFA70	Image Cover E	Xipher Cover
+1BFA74	Image Cover F	Xipher Cover
+1BFA78	Image Cover G	Xipher Cover
+1BFA7C	Image Cover H	Xipher Cover
+1BFA80	40th Anniversary - Solid	Xipher Cover
+1BFA84	40th Anniversary - Gorgeous	Xipher Cover
+1BFA88	Xipha Cover II - Van	Xipher Cover
+1BFA8C	Xipha Cover II - Agnès	Xipher Cover
+1BFA90	Xipha Cover II - Feri	Xipher Cover
+1BFA94	Xipha Cover II - Aaron	Xipher Cover
+1BFA98	Xipha Cover II - Risette	Xipher Cover
+1BFA9C	Xipha Cover II - Quatre	Xipher Cover
+1BFAA0	Xipha Cover II - Judith	Xipher Cover
+1BFAA4	Xipha Cover II - Jorda	Xipher Cover
+1BFAA8	Xipha Cover II - Mare	Xipher Cover
+1BFAAC	Xipha Cover II - Rean	Xipher Cover
+1BFAB0	Xipha Cover II - Altina	Xipher Cover
+1BFAB4	Xipha Cover II - Crow	Xipher Cover
+1BFAB8	Xipha Cover II - Fie	Xipher Cover
+1BFABC	Xipha Cover II - Towa	Xipher Cover
+1BFAC0	Xipha Cover II - Bergard	Xipher Cover
+1BFAC4	Xipha Cover II - Shizuna	Xipher Cover
+1BFAC8	Xipha Cover II - Celis	Xipher Cover
+1BFACC	Xipha Cover II - Leon	Xipher Cover
+1BFAD0	Xipha Cover II - Kevin	Xipher Cover
+1BFAD4	Xipha Cover II - Rufus	Xipher Cover
+1BFAD8	Xipha Cover II - Swin	Xipher Cover
+1BFADC	Xipha Cover II - Nadia	Xipher Cover
+1BFAE0	Xipha Cover II - Lapis	Xipher Cover
+1BFAE4	Xipha Cover II - Elaine	Xipher Cover
+1BFAE8	Xipha Cover II - Renne	Xipher Cover
+1BFAEC	Xipha Cover II - Zin	Xipher Cover
+1BFAF0	Xipha Cover II - Rixia	Xipher Cover
+1BFB00	In the Dawn	BGM
+1BFB04	Arkride Solutions	BGM
+1BFB08	Role to Play	BGM
+1BFB0C	Engineering City Basel	BGM
+1BFB10	What Is Ahead of You	BGM
+1BFB14	Now at the Beginning	BGM
+1BFB18	The Garden of the Beginning	BGM
+1BFB1C	Life goes On	BGM
+1BFB20	A Relaxing Time	BGM
+1BFB24	Crossing Causal Lines	BGM
+1BFB28	At the End of My Beloved Time Limit	BGM
+1BFB2C	News of Thaw	BGM
+1BFB30	Welcome to Marduk Support	BGM
+1BFB34	Fantasy Realm	BGM
+1BFB38	The Expanding World	BGM
+1BFB78	Marginal Crisis	BGM
+1BFB7C	Folklore at the Time of Dusk	BGM
+1BFB80	Endless Sea of Sand	BGM
+1BFB84	Decay and the Animal Trail	BGM
+1BFB88	The Way of the Waterfall	BGM
+1BFB8C	Glittering Mirage	BGM
+1BFB90	Beyond the Illusion	BGM
+1BFB94	The Destination of Fate	BGM
+1BFB98	Hide and Seek by Myself	BGM
+1BFB9C	Maliciousness in the Mirror	BGM
+1BFBA0	Enter the World of Adventure	BGM
+1BFBA4	Windy Corridor	BGM
+1BFBA8	Beyond the Past	BGM
+1BFBAC	Everlasting Dream	BGM
+1BFBB0	Beyond the Darkness	BGM
+1BFBB4	Way Back to the Hades	BGM
+1BFBB8	Aiming for the Top of the Bright Sky	BGM
+1BFBBC	Rebellion Against Tomorrow - With All Our Powers -	BGM
+1BFBF0	First Skirmish	BGM
+1BFBF4	Open the Shard!	BGM
+1BFBF8	I'm Grimcats!	BGM
+1BFBFC	Hard Desperation	BGM
+1BFC00	The Decisive Point	BGM
+1BFC04	Get Rid of the Urgend Menace	BGM
+1BFC08	Infinity Rage	BGM
+1BFC0C	Like a Whirlwind	BGM
+1BFC10	Stand Up Again and Again!	BGM
+1BFC14	Wind-Up Yesterday!	BGM
+1BFC18	Furious! Destroy! Mishneider!	BGM
+1BFC1C	Regain the Administration! -Field Battle-	BGM
+1BFC20	Regain the Administration! -Command Battle-	BGM
+1BFC24	Workd Out a Solution! -Field Battle-	BGM
+1BFC28	Workd Out a Solution! -Command Battle-	BGM
+1BFC2C	Do or Die!	BGM
+1BFC30	Line of Non-Negotiable	BGM
+1BFC34	Believing Heart	BGM
+1BFC38	Buster the Ghost of Garden	BGM
+1BFC68	CRIMSON SiN	BGM
+1BFC90	Studio City Zeiss	BGM
+1BFC94	Feelings Soar With the Wind SC Ver.	BGM
+1BFC98	The Garden of Recluse	BGM
+1BFC9C	Hollow Light of the Sealed Land	BGM
+1BFCA0	Floating City Liber_Ark	BGM
+1BFCA4	The Circular Corridor	BGM
+1BFCA8	Sophisticated Fight	BGM
+1BFCAC	The Fate of the Faries	BGM
+1BFCB0	Overdosing Heavenly Bliss	BGM
+1BFCB4	Artillery Class 'VII'	BGM
+1BFCB8	Kinko Toshi Trista	BGM
+1BFCBC	Seirei No Komishi	BGM
+1BFCC0	Seijo No Shiro	BGM
+1BFCC4	The Glint of Cold Steel	BGM
+1BFCC8	Exceed!	BGM
+1BFCCC	Tada Hitasurani Maehe	BGM
+1BFCD0	Genko	BGM
+1BFCD4	Winter Arrival	BGM
+1BFCD8	Mugenkairo	BGM
+1BFCDC	Heated Mind	BGM
+1BFCE0	Bring up the Trust!	BGM
+1BFCE4	Start Line	BGM
+1BFCE8	Now, Thing to Do	BGM
+1BFCEC	Alley of Silence	BGM
+1BFCF0	Spiral of Erebos	BGM
+1BFCF4	Brave Steel	BGM
+1BFCF8	Step Ahead	BGM
+1BFCFC	Enishi -Relations-	BGM
+1BFD00	Lyrical Amber	BGM
+1BFD04	Towards Through Land	BGM
+1BFD08	To the Future	BGM
+1BFD0C	Burning Throb	BGM
+1BFD10	Endure Grief	BGM
+1BFD14	Trails from Zero	BGM
+1BFD18	Aoki Shizuku	BGM
+1BFD1C	A Light Illuminating the Depths	BGM
+1BFD20	The Farthest Tree	BGM
+1BFD24	Get Over the Barrier!	BGM
+1BFD28	Inevitable Struggle	BGM
+1BFD2C	Sora Wo Miagete Instrumental Ver.	BGM
+1BFD30	Police!	BGM
+1BFD34	Dinging Bar 'F'	BGM
+1BFD38	Dive into your Fate Instrumental Ver.	BGM
+1BFD3C	Get Over the Barrier! -Sielent Devotion-	BGM
+1BFD40	Kyukosha No Nazo	BGM
+1BFD44	Gin No Ishi	BGM
+1BFD48	Intese Chase	BGM
+1BFDC8	Don't be Defeated by a Friend!	BGM
+1BFDCC	Ashita Eno Kodo	BGM
+1BFDD0	Senko no Yukue	BGM
+1BFDD4	Beyond the Journey	BGM
+1BFDD8	Ashite Eno Kiseki	BGM
+1BFDDC	No End No World	BGM
+1BFDE0	Namonaki Akumu No Hate	BGM
+1BFE3C	Scars of the Divine Wing	BGM
+1BFE40	The Limit of Strength	BGM
+1BFE44	Help Alwen -Rushing in Version-	BGM
+1BFE48	The Boy's Got Wings	BGM
+1BFE4C	Ruins	BGM
+1BFE50	Hazy Moon	BGM
+1BFE54	Lost Heaven	BGM
+1BFE58	Moment of Rest	BGM
+1BFE5C	Palace of Destruction	BGM
+1BFE60	Win Back Your Heart	BGM
+1BFE64	Dink	BGM
+1BFE68	Blast of Wind	BGM
+1BFE6C	Twilight Wanderes	BGM
+1BFE70	Espina Temlple of Dark	BGM
+1BFE74	The Phantom World	BGM
+1BFE78	Casual Horizon	BGM
+1BFE7C	To Make the End of the Battle	BGM
+1BFE80	The Door to Adventure	BGM
+1BFE84	Samurai Drill!	BGM
+1BFE88	Field of Gale	BGM
+1BFE8C	Roudo Castle	BGM
+1BFE90	Immemorial Sanctuary	BGM
+1BFE94	The Legend of Granvallen	BGM
+1BFE98	Shop	BGM
+1BFE9C	Innocent Primeval Breaker Game Version	BGM
+1BFEA0	Dragon Dive ~Agate No a Ha Akage No A~	BGM
+1BFEA4	Headless	BGM
+1BFEA8	Cavern of Rasteenie	BGM
+1BFEAC	Mysthical Land Selpentina	BGM
+1BFEB0	Oldium Shrine	BGM
+1BFEB4	The Observer	BGM
+1BFEB8	Phantoms Which Are One's Own Pace	BGM
+1BFEBC	Release of the Far West Ocean	BGM
+1BFEC0	Stopper	BGM
+1BFEC4	Soaring into the Sad Blue Sky	BGM
+1BFEC8	Tower of the Shadow of Death	BGM
+1BFECC	A Prayer to Espina	BGM
+1BFED0	The Place Where the Planet Is	BGM
+1BFED4	Ancient Statue	BGM
+1BFED8	Pshuke's Residence	BGM
+1BFEDC	Sophisticated Fight	BGM
+1BFEE0	The legend of VII	BGM
+1BFEE4	Knights of Asteria	BGM
+1BFEE8	The Silver Will -Gin No Ishi-	BGM
+1BFEEC	A Light Illuminating the Depths	BGM
+1BFEF0	Atrocious Raid	BGM
+1BFEF4	Overdowing Heavenly Bliss	BGM
+1BFEF8	Miss You	BGM
+1BFEFC	Ryoshu	BGM
+1C0140	Holo Core Voice: Hermès	Holo Core Voice
+1C0144	Holo Core Voice: Ulrika	Holo Core Voice
+1C0148	Holo Core Voice: René Kincaid	Holo Core Voice
+1C014C	Holo Core Voice: Bermotti	Holo Core Voice
+1C0150	Holo Core Voice: Yumé	Holo Core Voice
+1C0168	Divine Blade of Ash Miniature	Miniature
+1C016C	Saint in Pure White Miniature	Miniature
+1C0170	Gralsritter Guardian Hand Miniature	Miniature
+1C0174	Divine Blade of Silver Miniature	Miniature
+1C0178	Black Apostate Miniature	Miniature
+1C017C	Beauty's Blade Miniature	Miniature
+1C0180	Ride-Along Divine Blade of Ash	Costumes
+1C0184	Ride-Along Saint in Pure White	Costumes
+1C0188	Ride-Along Gralsritter Guardian Hand	Costumes
+1C018C	Ride-Along Divine Blade of Silver	Costumes
+1C0190	Ride-Along Black Apostate	Costumes
+1C0194	Ride-Along Beauty's Blade	Costumes
+[/ITEM]

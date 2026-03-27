@@ -1,0 +1,10 @@
+^2 = GameID: BCES00226
+^3 = NAME: Resistance 2
+^4 = FILE: GAME.SAV
++Update Crc32 For Game.sav (required)
+(set range:0x20,0x060277)
+$set pointer:EOF-7
+$set range:0x20,pointer
+$set [hash]:CRC32
+$set [hash]:xor:FFFFFFFF
+$write at 0x00000C:[hash]

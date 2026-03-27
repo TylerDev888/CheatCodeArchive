@@ -1,0 +1,70 @@
+^3 = NAME: Prince Of Persia: The Warrior Within
+!Masters:
++Mastercode
+%Credits: Xploder
+$90103ED0 0C046740
+$200C2000 8C430048
+$200C202C 03E00008
+$200C2030 8E8200B0
+$20316E04 0C030800
+$20316E08 00000000
+!!
+!Infinite:
++Health
+%Credits: Xploder
+$200C2004 8C611490
+$200C2008 AC6101F4
++Sands
+%Credits: Xploder
+$200C2014 8C6111C8
+$200C2018 AC610A94
+!!
+!Max:
++Health
+%Credits: Xploder
+$200C200C 240100F9
+$200C2010 AC611490
++Sands
+%Credits: Xploder
+$200C201C 24010006
+$200C2020 AC6111C8
+!!
+!Have:
++All Sand Powers
+%Credits: Xploder
+$200C2024 24010FFF
+$200C2028 AC6111C4
++One Hit Kill (Raiders)
+%Credits: Xploder
+$2039085C 0000282D
++One Hit Kill (Crowmaster)
+%Credits: Xploder
+$201ED390 46000301
++One Hit Kill (Boss)
+%Credits: Xploder
+$20277960 00421023
+!!
+!Game Speed:
++Half
+%Credits: Xploder
+$D07F8702 0000FFED
+$207B74C0 3F000000
++Normal
+%Credits: Xploder
+$D07F8702 0000FFBD
+$207B74C0 3F800000
++Double
+%Credits: Xploder
+$D07F8702 0000FF7D
+$207B74C0 40000000
++Triple{(NOTE: These Are Reset When Using Time Powers)}
+%Credits: Xploder
+$D07F8702 0000FFDD
+$207B74C0 40400000
+!!
+!Unlock:
++Extra Features
+%Credits: Xploder
+$407DDA40 00040001
+$FFFFFFFF 00000000
+!!

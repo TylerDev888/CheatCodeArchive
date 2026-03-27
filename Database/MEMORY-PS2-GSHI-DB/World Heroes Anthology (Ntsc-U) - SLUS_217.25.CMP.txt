@@ -1,0 +1,14 @@
+^3 = NAME: World Heroes Anthology (Ntsc-U)
+^2 = GameID: SLUS-21725
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: lee4
+$90179110 0C05E3EC
+!!
++Force Videout To 480I Instead Of 240P
+%Credits: lee4
+$20141534 24110001
+$20141538 24120002
+$20141544 24130001
+!!
+

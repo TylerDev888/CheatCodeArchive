@@ -1,0 +1,21 @@
+^3 = NAME: Whiteout (Ntsc-U)
+^2 = GameID: SLUS-20599
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0011428F
+!!
++Hella Score Gain
+%Credits: Code Master
+$202FBA00 24C27FFF
++Infinite Health
+%Credits: Code Master
+$2029C6F8 00000000
++Max Money (Career Mode)
+%Credits: Code Master
+$208A1FDC 4B18967F
++Quick Score Gain
+%Credits: Code Master
+$202FBA00 24C2270F
+!!
+

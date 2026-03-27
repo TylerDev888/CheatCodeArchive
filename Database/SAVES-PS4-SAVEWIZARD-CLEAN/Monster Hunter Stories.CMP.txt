@@ -1,0 +1,965 @@
+^2 = GameID: CUSA41230, CUSA43544, CUSA43545, CUSA43543
+^3 = NAME:Monster Hunter Stories
+^4 = FILE: mhs_slot_([0-9]+|auto)\.sav
+
++Max Money 9999999
+$2009B9AC 0098967F
++Max All Items Amounts 999(healing,support,materials,facility)
+$41000060 000003E7
+$42E20008 00000000
++Edit Item Amount
+$2000[Item] [AMOUNT:0000270F:HEX:BIG<AMOUNT>]
+!Max Player Character Stats
++Level 99
+$1000A0A8 00000063
++Exp 9,999,999
+$2000A0AC 0098967F
++Current HP 9999
+$1000A090 0000270F
++Max HP 9999
+$1000A092 0000270F
++ATK 9999
+$1000A094 0000270F
+$DEF 9999
+$1000A096 0000270F
+$SPD 9999
+$1000A098 0000270F
+!!
+!Max Monster Stats
++Monster Slot 1 
+$10042398 00000063
+$2004241C 0098967F 
+$10042380 0000270F
+$10042382 0000270F
+$10042384 0000270F
+$10042386 0000270F
+$10042388 0000270F
++Monster Slot 2
+$100425EC 00000063
+$20042670 0098967F
+$100425D4 0000270F
+$100425D6 0000270F
+$100425D8 0000270F
+$100425DA 0000270F
+$100425DC 0000270F
++Monster Slot 3
+$10042840 00000063
+$200428C4 0098967F
+$10042828 0000270F
+$1004282A 0000270F
+$1004282C 0000270F
+$1004282E 0000270F
+$10042830 0000270F
++Monster Slot 4
+$10042A94 00000063
+$20042B18 0098967F
+$10042A7C 0000270F
+$10042A7E 0000270F
+$10042A80 0000270F
+$10042A82 0000270F
+$10042A84 0000270F
++Monster Slot 5
+$10042CE8 00000063
+$20042D6C 0098967F
+$10042CD0 0000270F
+$10042CD2 0000270F
+$10042CD4 0000270F
+$10042CD6 0000270F
+$10042CD8 0000270F
+!!
++Edit monster Search By Name
+$search "[Amount:Name:UTF08:TXT<Monster Name(case sensitive)>]"
+$write next 0x68:0x[AMOUNT:63:HEX:LITTLE<Level>]
+$write next 0xE4:0x[AMOUNT:0F27:HEX:LITTLE<HP Plus>]
+$write next 0xE5:0x[AMOUNT:0F27:HEX:LITTLE<Attack Plus>]
+$write next 0xE6:0x[AMOUNT:0F27:HEX:LITTLE<Defence Plus>]
+$write next 0xEC:0x[AMOUNT:7F969800:HEX:LITTLE<Exp>]
+
+
+
+^6 = MODS:
+[Item]
+Value>Item
+0060	Herb	Healing
+0068	Potion	Healing
+0070	Mega Potion	Healing
+0078	Lifesoot	Healing
+0080	Lifepowder	Healing
+0088	Dust of Life	Healing
+0090	+Max Potion	Healing
+0098	Ancient Potion	Healing
+00A0	Immunizer	Healing
+00A8	Antidote Herb	Healing
+00B0	Antidote	Healing
+00B8	Aloe Leaf	Healing
+00C0	Burn Ointment	Healing
+00C8	Anesfreesia	Healing
+00D0	Anti-para Potion	Healing
+00D8	Hot Pepper	Healing
+00E0	Energy Drink	Healing
+00E8	Girthy Garlic	Healing
+00F0	Zest Pill	Healing
+00F8	Soapgrass	Healing
+0100	Blast-Be-Gone	Healing
+0108	Vital Essence	Healing
+0110	Manyberry	Healing
+0118	Eye Drops	Healing
+0120	Nulberry Elixir	Healing
+0128	Cool Mist	Support
+0130	Hot Mist	Support
+0138	Hunter Donut	Healing
+0140	Royal Donut	Healing
+0148	Val Habar Donut	Healing
+0150	Drome Donut	Healing
+0158	Guild Donut	Healing
+0160	Sugarpaw Donut	Healing
+0168	Chocopaw Donut	Healing
+0170	Well-done Donut	Healing
+0178	Might Seed	Support
+0180	Demondrug	Support
+0188	Adamant Seed	Support
+0190	Armorskin	Support
+0198	Quickfoot Seed	Support
+01A0	Fleetfoot Potion	Support
+01A8	Whetstone	Support
+01B0	Super Whetstone	Support
+01B8	Surrogate Gem	Support
+01C0	Moxie Gem	Support
+01C8	Flash Bomb	Support
+01D0	Sonic Bomb	Support
+01D8	Poison Knife	Support
+01E0	Paralysis Knife	Support
+01E8	Sleep Knife	Support
+01F0	Throwing Knife	Support
+01F8	Stone	Support
+0200	Paintball	Support
+0208	Smoke Bomb	Support
+0210	Binoculars	Support
+0218	Pitfall Trap	Support
+0220	Shock Trap	Support
+0228	Tranq Trap	Support
+0230	Big Barrel Bomb	Support
+0238	Paw Pass Ticket	Facilities
+0240	Paw Pass Permit	Facilities
+0248	Vitality Nutriment	Support
+0250	Strength Nutriment	Support
+0258	Defense Nutriment	Support
+0260	Reverse Nutriment	Support
+0268	Commendation	Material
+0270	Recognition Letter	Material
+0278	Bumblepumpkin	Material
+0280	Bronze Ticket	Material
+0288	Silver Ticket	Material
+0290	Gold Ticket	Material
+0298	Platinum Ticket	Material
+02A0	Burnt Meat	Healing
+02A8	Rare Steak	Healing
+02B0	Well-done Steak	Healing
+02B8	Muscle Meat	Healing
+02C0	Toughness Meat	Healing
+02C8	Quickness Meat	Healing
+02D0	Gourmet Steak	Healing
+02D8	Raw Meat Sushi	Support
+02E0	Dragon Noodles	Support
+02E8	Extra-fresh Sushi	Support
+02F0	Shroom and Larva	Support
+02F8	Tonguemato Salad	Support
+0300	Rock Salt Tuna	Support
+0308	Spicy Meatballs	Support
+0310	Stone-roasted Fish	Support
+0318	Frozen Mushroom	Support
+0320	Queenly Paella	Support
+0328	Kingly Steak	Support
+0330	Ancient Panacea	Support
+0338	Herbivore Stim	Facilities
+0340	Brd Wyv Stim	Facilities
+0348	Fly Wyv Stim	Facilities
+0350	Fng Bst Stim	Facilities
+0358	Brt Wyv Stim	Facilities
+0360	Fng Wyv Stim	Facilities
+0368	Leviathan Stim	Facilities
+0370	Tmnocrn Stim	Facilities
+0378	Amphibian Stim	Facilities
+0380	Eld Drgn Stim	Facilities
+0388	Psc Wyv Stim	Facilities
+0390	Universal Stim	Facilities
+0398	Fire Res Bead	Facilities
+03A0	Fire Res Jewel	Facilities
+03A8	W Res Bead	Facilities
+03B0	W Res Jewel	Facilities
+03B8	Ice Res Bead	Facilities
+03C0	Ice Res Jewel	Facilities
+03C8	T Res Bead	Facilities
+03D0	T Res Jewel	Facilities
+03D8	D Res Bead	Facilities
+03E0	D Res Jewel	Facilities
+03E8	All-Res Bead	Facilities
+03F0	All-Res Jewel	Facilities
+03F8	Flaming Bead	Facilities
+0400	Flaming Jewel	Facilities
+0408	Torrential Bead	Facilities
+0410	Torrent Jewel	Facilities
+0418	Frigid Bead	Facilities
+0420	Frigid Jewel	Facilities
+0428	Flashing Bead	Facilities
+0430	Flashing Jewel	Facilities
+0438	Draconic Bead	Facilities
+0440	Draconic Jewel	Facilities
+0448	All-Elem Bead	Facilities
+0450	All-Elem Jewel	Facilities
+0458	Power Bead	Facilities
+0460	Power Jewel	Facilities
+0468	Speed Bead	Facilities
+0470	Speed Jewel	Facilities
+0478	Tech Bead	Facilities
+0480	Tech Jewel	Facilities
+0488	Pwr Res Bead	Facilities
+0490	Pwr Res Jewel	Facilities
+0498	Spd Res Bead	Facilities
+04A0	Spd Res Jewel	Facilities
+04A8	Tech Res Bead	Facilities
+04B0	Tech Res Jewel	Facilities
+04B8	Evasion Bead	Facilities
+04C0	Evasion Jewel	Facilities
+04C8	Critical Bead	Facilities
+04D0	Critical Jewel	Facilities
+04D8	Attack Bead	Facilities
+04E0	Attack Jewel	Facilities
+04E8	Defense Bead	Facilities
+04F0	Defense Jewel	Facilities
+04F8	Health Bead	Facilities
+0500	Health Jewel	Facilities
+0508	Lat Thnder Jwl	Facilities
+0510	Abnormal Jwl	Facilities
+0518	Fire Scale Jwl	Facilities
+0520	Water Scl Jwl	Facilities
+0528	Ice Scale Jewel	Facilities
+0530	Drgn Aura Jwl	Facilities
+0538	Tenacity Jewel	Facilities
+0540	Training Charm	Facilities
+0548	Tracking Charm	Facilities
+0550	Gathering Charm	Facilities
+0558	Lucky Charm	Facilities
+0560	Finding Charm	Facilities
+0568	Mounting Charm	Facilities
+0570	Selling Charm	Facilities
+0578	Buying Charm	Facilities
+0580	Adamant Charm	Facilities
+0588	Might Charm	Facilities
+0590	Recovery Charm	Facilities
+0598	Training Charm+	Facilities
+05A0	Fortuitous Charm	Facilities
+05A8	Aged Felvine	Facilities
+05B0	Felvine Coin	Facilities
+05B8	Unique Mushroom	Facilities
+05C0	Auristone Piece	Facilities
+05C8	Small Goldenfish	Facilities
+05D0	Snowflower	Facilities
+05D8	Bloodstone	Facilities
+05E0	Brocadefish	Facilities
+05E8	Ancient Beans	Facilities
+05F0	Royal Honey	Facilities
+05F8	Crimson Coral	Facilities
+0600	Tropical Berry	Facilities
+0608	Crystal Bone	Facilities
+0610	King Cactus	Facilities
+0618	Silver Spidersilk	Facilities
+0620	Rusted Fragment	Facilities
+0628	Royal Rhino	Facilities
+0630	Coal	Facilities
+0638	Golden Bone	Facilities
+0640	Volcanic Pepper	Facilities
+0648	Divine Rhino	Facilities
+0650	Great Shroom	Facilities
+0658	Goldenfish	Facilities
+0660	Diamond Dust	Facilities
+0668	Aurora Grass	Facilities
+0670	Icebound Bone	Facilities
+0678	Auristone Chunk	Facilities
+0680	Choice Mushroom	Facilities
+0688	Gold Cricket	Facilities
+0690	Ancient Coin	Facilities
+0698	Balmstone Chunk	Facilities
+06A0	Century Walnut	Facilities
+06A8	Silver Cricket	Facilities
+06B0	Black Pearl	Facilities
+06B8	Bottle Cap	Facilities
+06C0	Grand Felvine	Facilities
+06C8	Timeworn Page	Facilities
+06D0	Mazewalker's Seal	Facilities
+06D8	Trap Tool	Support
+06E0	Large Barrel	Support
+06E8	Fire Herb	Material
+06F0	Ivy	Material
+06F8	Sap Plant	Material
+0700	Woemill Wheat	Material
+0708	Gloamgrass Bud	Material
+0710	Cactus Flower	Material
+0718	Nulberry	Material
+0720	Dragonfell Berry	Material
+0728	Paintberry	Material
+0730	Fatty Tomato	Material
+0738	Blue Mushroom	Material
+0740	Dragon Toadstool	Material
+0748	Nitroshroom	Material
+0750	King Truffle	Material
+0758	Beauty Shroom	Material
+0760	Toadstool	Material
+0768	Honey	Material
+0770	Honey Butter	Material
+0778	Snakebee Larva	Material
+0780	Bitterbug	Material
+0788	Godbug	Material
+0790	Flashbug	Material
+0798	Shiny Beetle	Material
+07A0	Thunderbug	Material
+07A8	Insect Husk	Material
+07B0	Spicy Worm	Material
+07B8	Ricebug	Material
+07C0	King Scarab	Material
+07C8	Rare Scarab	Material
+07D0	Spider Web	Material
+07D8	Carpenterbug	Material
+07E0	Hercudrome	Material
+07E8	Iron Ore	Material
+07F0	Earth Crystal	Material
+07F8	Pelagicite Ore	Material
+0800	Machalite Ore	Material
+0808	Dragonite Ore	Material
+0810	Yoldspar Ore	Material
+0818	Firestone	Material
+0820	Ice Crystal	Material
+0828	Novacrystal	Material
+0830	Isisium	Material
+0838	Comet Salt	Material
+0840	Lightcrystal	Material
+0848	Bealite Ore	Material
+0850	Carbalite Ore	Material
+0858	Fucium Ore	Material
+0860	Firecell Stone	Material
+0868	H. Crystal (Pure)	Facilities
+0870	H. Crystal (Fire)	Facilities
+0878	H. Crystal (Water)	Facilities
+0880	H. Crystal (Thndr)	Facilities
+0888	H. Crystal (Ice)	Facilities
+0890	H. Crystal (Drgn)	Facilities
+0898	Sushifish	Material
+08A0	Queen Shrimp	Material
+08A8	Whetfish	Material
+08B0	Sleepyfish	Material
+08B8	Sharktuna	Material
+08C0	Speartuna	Material
+08C8	Raw Meat	Material
+08D0	Popo Tongue	Material
+08D8	Wyvern Barbs	Material
+08E0	Screamer Sac	Material
+08E8	Poison Sac	Material
+08F0	Toxin Sac	Material
+08F8	Paralysis Sac	Material
+0900	Debilitation Sac	Material
+0908	Sleep Sac	Material
+0910	Coma Sac	Material
+0918	Blast Sac	Material
+0920	Explosion Sac	Material
+0928	Flame Sac	Material
+0930	Inferno Sac	Material
+0938	Aqua Sac	Material
+0940	Torrent Sac	Material
+0948	Electro Sac	Material
+0950	Thunder Sac	Material
+0958	Frost Sac	Material
+0960	Freezer Sac	Material
+0968	Whelp Core	Material
+0970	Dragon Core	Material
+0978	Wyvern Stone	Material
+0980	Wyvern Gem	Material
+0988	Torn Chains	Facilities
+0990	Protovisor	Facilities
+0998	Rusted Collar	Facilities
+09A0	Manelger Mail	Facilities
+09A8	Blackgold Protectr	Facilities
+09B0	Mysterious Crystal	Facilities
+09B8	High Metal Armor	Facilities
+09C0	Gold Alloy Armor	Facilities
+09C8	Invincible Armor	Facilities
+09D0	Translucent Tear	Facilities
+09D8	Pure Tear	Facilities
+09E0	Pristine Tear	Facilities
+09E8	Rathian Shell	Material
+09F0	Rathian Spike	Material
+09F8	Rathian Plate	Material
+0A00	Rathian Carapace	Material
+0A08	Rathian Spike+	Material
+0A10	Rathian Ruby	Material
+0A18	Pink Rathian Shell	Material
+0A20	Pink Rathian Thorn	Material
+0A28	Pink Rathian Plate	Material
+0A30	P. Rathian Crpace	Material
+0A38	P. Rathian Spike+	Material
+0A40	Pink Rathian Ruby	Material
+0A48	G. Rathian Crpace	Material
+0A50	G. Rathian Spike+	Material
+0A58	Gold Rathian Ruby	Material
+0A60	Rathalos Scale	Material
+0A68	Rathalos Webbing	Material
+0A70	Rathalos Plate	Material
+0A78	Rathalos Scale+	Material
+0A80	Rathalos Wing	Material
+0A88	Rathalos Ruby	Material
+0A90	A. Rathalos Scale	Material
+0A98	A. Rathalos Web	Material
+0AA0	A. Rathalos Plate	Material
+0AA8	A. Rathalos Scale+	Material
+0AB0	A. Rathalos Wing	Material
+0AB8	A. Rathalos Ruby	Material
+0AC0	S. Rathalos Scale+	Material
+0AC8	S. Rathalos Wing	Material
+0AD0	S. Rathalos Ruby	Material
+0AD8	Kut-Ku Scale	Material
+0AE0	Kut-Ku Webbing	Material
+0AE8	Giant Beak	Material
+0AF0	Kut-Ku Scale+	Material
+0AF8	Kut-Ku Wing	Material
+0B00	Splendid Beak	Material
+0B08	Blue Kut-Ku Scale	Material
+0B10	Blue Kut-Ku Shell	Material
+0B18	Blue Kut-Ku Ear	Material
+0B20	B. Kut-Ku Scale+	Material
+0B28	B. Kut-Ku Crpace	Material
+0B30	Blue Kut-Ku Ear+	Material
+0B38	Rubbery Hide	Material
+0B40	Gypceros Webbing	Material
+0B48	Gypceros Head	Material
+0B50	Rubbery Hide+	Material
+0B58	Gypceros Wing	Material
+0B60	Gyp Hardhead	Material
+0B68	Rubbery P. Hide	Material
+0B70	P. Gypceros Web	Material
+0B78	Rubbery P. Tail	Material
+0B80	Rubbery P. Hide+	Material
+0B88	P. Gypceros Wing	Material
+0B90	Rubbery P. Tail+	Material
+0B98	Tigrex Scale	Material
+0BA0	Tigrex Claw	Material
+0BA8	Tigrex Scalp	Material
+0BB0	Tigrex Scale+	Material
+0BB8	Tigrex Claw+	Material
+0BC0	Tigrex Maw	Material
+0BC8	Brute Tigrex Scale	Material
+0BD0	Brute Tigrex Claw	Material
+0BD8	Brute Tigrex Tail	Material
+0BE0	B. Tigrex Scale+	Material
+0BE8	Brute Tigrex Claw+	Material
+0BF0	Brute Tigrex Tail+	Material
+0BF8	M. Tigrex Scale+	Material
+0C00	M. Tigrx Blastclaw	Material
+0C08	Pulsating Blstheart	Material
+0C10	Gendrome Hide	Material
+0C18	Gendrome Fang	Material
+0C20	Gendrome Head	Material
+0C28	Gendrome Hide+	Material
+0C30	Gendrome Fang+	Material
+0C38	Gendrome Body	Material
+0C40	Iodrome Hide	Material
+0C48	Iodrm Violet Scale	Material
+0C50	Iodrome Head	Material
+0C58	Iodrome Hide+	Material
+0C60	Iodrm Violet Scl+	Material
+0C68	Iodrome Body	Material
+0C70	Great Jaggi Hide	Material
+0C78	Great Jaggi Claw	Material
+0C80	King's Frill	Material
+0C88	Great Jaggi Hide+	Material
+0C90	Great Jaggi Claw+	Material
+0C98	Great Jaggi Head	Material
+0CA0	Velocidrome Hide	Material
+0CA8	Velocidrome Claw	Material
+0CB0	Velocidrome Head	Material
+0CB8	Velocidrome Hide+	Material
+0CC0	Velocidrome Claw+	Material
+0CC8	Velocidrome Body	Material
+0CD0	Congalala Pelt	Material
+0CD8	Congalala Claw	Material
+0CE0	Vibrant Pelt	Material
+0CE8	Congalala Pelt+	Material
+0CF0	Congalala Claw+	Material
+0CF8	Vibrant Pelt+	Material
+0D00	E. Congalala Pelt	Material
+0D08	E. Congalala Claw	Material
+0D10	E. Congalala Tail	Material
+0D18	E. Congalala Pelt+	Material
+0D20	E. Congalala Claw+	Material
+0D28	E. Congalala Tail+	Material
+0D30	Rajang Blackfur	Material
+0D38	Rajang Horn	Material
+0D40	Gold Rajang Pelt	Material
+0D48	Rajang Ragehair	Material
+0D50	Rajang Horn+	Material
+0D58	Rajang Nerve	Material
+0D60	Kecha Pelt	Material
+0D68	Kecha Longbone	Material
+0D70	Kecha Ear	Material
+0D78	Kecha Pelt+	Material
+0D80	Kecha Grandbone	Material
+0D88	Kecha Ear+	Material
+0D90	Zamtrios Hide	Material
+0D98	Zamtrios Fin	Material
+0DA0	Zamtrios Tailblade	Material
+0DA8	Zamtrios Hide+	Material
+0DB0	Zamtrios Fin+	Material
+0DB8	Zamtr Tailblade+	Material
+0DC0	Nerscylla Shell	Material
+0DC8	Nerscylla Chelicera	Material
+0DD0	Nerscylla Spike	Material
+0DD8	Nerscylla Carapace	Material
+0DE0	Nerscylla Shear	Material
+0DE8	Nerscylla Spike+	Material
+0DF0	Garuga Scale	Material
+0DF8	Garuga Ear	Material
+0E00	Sharpened Beak	Material
+0E08	Garuga Scale+	Material
+0E10	Garuga Auricle	Material
+0E18	Rejuvenated Beak	Material
+0E20	Daora Carapace	Material
+0E28	Daora Horn+	Material
+0E30	Daora Gem	Material
+0E38	Teostra Carapace	Material
+0E40	Teostra Mane	Material
+0E48	Teostra Gem	Material
+0E50	Kirin Hide+	Material
+0E58	Kirin Thundertail	Material
+0E60	Kirin Azure Horn	Material
+0E68	Kirin Blackhide	Material
+0E70	Kirin Frost Tail	Material
+0E78	Kirin Icehorn	Material
+0E80	Flabby Hide	Material
+0E88	Flabby Webbing	Material
+0E90	Pale Bone	Material
+0E98	Pearl Hide	Material
+0EA0	Pearl Wing	Material
+0EA8	Pale Steak	Material
+0EB0	Alluring Hide	Material
+0EB8	Alluring Webbing	Material
+0EC0	Alluring Lips	Material
+0EC8	Alluring Tnderhide	Material
+0ED0	Alluring Wing	Material
+0ED8	Alluring Thicklips	Material
+0EE0	Basarios Shell	Material
+0EE8	Basarios Webbing	Material
+0EF0	Basarios Tears	Material
+0EF8	Basarios Carapace	Material
+0F00	Basarios Wing	Material
+0F08	Basar Tearglands	Material
+0F10	R. Basarios Shell	Material
+0F18	R. Basarios Web	Material
+0F20	R. Basarios Head	Material
+0F28	R. Basarios Crpace	Material
+0F30	R. Basarios Wing	Material
+0F38	R. Basa Stonehead	Material
+0F40	Gravios Shell	Material
+0F48	Gravios Scalp	Material
+0F50	Gravios Marrow	Material
+0F58	Gravios Carapace	Material
+0F60	Gravios Jaw	Material
+0F68	Gravios Medulla	Material
+0F70	Black Gravios Shell	Material
+0F78	B. Gravios Scalp	Material
+0F80	B. Gravios Marrow	Material
+0F88	B. Gravios Crpace	Material
+0F90	Black Gravios Jaw	Material
+0F98	B. Gravios Medulla	Material
+0FA0	Deviljho Scale	Material
+0FA8	Deviljho Fang	Material
+0FB0	Deviljho Talon	Material
+0FB8	Deviljho Blckscale	Material
+0FC0	Deviljho Tallfang	Material
+0FC8	Deviljho Gem	Material
+0FD0	Brach Shell	Material
+0FD8	Brach Hammer	Material
+0FE0	Brach Marrow	Material
+0FE8	Brach Carapace	Material
+0FF0	Brach Pounder	Material
+0FF8	Brach Gem	Material
+1000	Lagombi Pelt	Material
+1008	Lagombi Plastron	Material
+1010	Lagombi Ear	Material
+1018	Lagombi Pelt+	Material
+1020	Lagombi Plastron+	Material
+1028	Lagombi Ear+	Material
+1030	Zinogre Shell	Material
+1038	Zinogre Shockfur	Material
+1040	Zinogre Plate	Material
+1048	Zinogre Carapace	Material
+1050	Zinogre Electrofur	Material
+1058	Zinogre Jasper	Material
+1060	S. Zinogre Shell	Material
+1068	S. Zinogre Claw	Material
+1070	S. Zinogre Plate	Material
+1078	S. Zinogre Crpace	Material
+1080	S. Zinogre Claw+	Material
+1088	S. Zinogr Umbrage	Material
+1090	Fatalis Scale	Material
+1098	Fatalis Crust	Material
+10A0	Fatalis Eye	Material
+10A8	Sereg Slavescale	Material
+10B0	Seregios Impaler	Material
+10B8	Seregios Dissenter	Material
+10C0	Ash Kecha Fur	Material
+10C8	A. Kecha Lngbone	Material
+10D0	Ash Kecha Ear	Material
+10D8	A. Kecha Thickfur	Material
+10E0	A. Kecha Grndbne	Material
+10E8	Ash Kecha Ear+	Material
+10F0	S. Nerscylla Shell	Material
+10F8	S. Nerscylla Chel	Material
+1100	S. Nerscylla Claw	Material
+1108	S. Nerscylla Crpce	Material
+1110	S. Nerscylla Shear	Material
+1118	S. Nerscylla Claw+	Material
+1120	Diablos Shell	Material
+1128	Diablos Tail	Material
+1130	Twisted Horn	Material
+1138	Diablos Carapace	Material
+1140	Diablos Tail+	Material
+1148	Majestic Horn	Material
+1150	Black Diablos Shell	Material
+1158	Black Diablos Tail	Material
+1160	Twstd B. Diab Hrn	Material
+1168	B. Diablos Crpace	Material
+1170	Black Diablos Tail+	Material
+1178	Black Twstd Horn	Material
+1180	Monoblos Crpace	Material
+1188	Monoblos Thoracic	Material
+1190	Scarlet Finehorn	Material
+1198	W. Monob Crpace	Material
+11A0	W. Monob Thorax	Material
+11A8	Top Plated Horn	Material
+11B0	Cephadrome Scale	Material
+11B8	Cephadrome Fang	Material
+11C0	Cephadrome Fin	Material
+11C8	Cepha Scale+	Material
+11D0	Cephadrome Fang+	Material
+11D8	Cephadrome Fin+	Material
+11E0	Daimyo Shell	Material
+11E8	Daimyo Claw	Material
+11F0	Daimyo Pearl	Material
+11F8	Daimyo Carapace	Material
+1200	Daimyo Claw+	Material
+1208	Daimyo Pearl+	Material
+1210	Plum Daimyo Shell	Material
+1218	Plum Daimyo Claw	Material
+1220	P. Daimyo Feeler	Material
+1228	P. Daimyo Crpace	Material
+1230	P. Daimyo Claw+	Material
+1238	P. Daimyo Feeler+	Material
+1240	Great Baggi Hide	Material
+1248	Great Baggi Claw	Material
+1250	King's Crest	Material
+1258	Great Baggi Hide+	Material
+1260	Great Baggi Claw+	Material
+1268	Great Baggi Head	Material
+1270	R. Ludroth Scale	Material
+1278	Royal Ludroth Tail	Material
+1280	R. Ludroth Crest	Material
+1288	R. Ludroth Scale+	Material
+1290	R. Ludroth Tail+	Material
+1298	R. Ludroth Crest+	Material
+12A0	P. Ludroth Scale	Material
+12A8	P. Ludroth Claw	Material
+12B0	Plum Spongy Hide	Material
+12B8	P. Ludroth Scale+	Material
+12C0	P. Ludroth Claw+	Material
+12C8	P. Spongy Hide+	Material
+12D0	Barroth Shell	Material
+12D8	Barroth Claw	Material
+12E0	Barroth Scalp	Material
+12E8	Barroth Carapace	Material
+12F0	Barroth Claw+	Material
+12F8	Barroth Scalp+	Material
+1300	Jade Barroth Shell	Material
+1308	Jade Barroth Claw	Material
+1310	Jade Barroth Scalp	Material
+1318	J. Barroth Crpace	Material
+1320	J. Barroth Claw+	Material
+1328	J. Barroth Scalp+	Material
+1330	Barioth Shell	Material
+1338	Barioth Spike	Material
+1340	Amber Tusks	Material
+1348	Barioth Carapace	Material
+1350	Barioth Spike+	Material
+1358	Amber Tusks+	Material
+1360	Sand Barioth Shell	Material
+1368	Sand Barioth Pelt	Material
+1370	Indigo Tusks	Material
+1378	S. Barioth Crpace	Material
+1380	Sand Barioth Pelt+	Material
+1388	Indigo Tusks+	Material
+1390	Qurupeco Scale	Material
+1398	Qurupeco Feather	Material
+13A0	Strange Beak	Material
+13A8	Qurupeco Scale+	Material
+13B0	Qurupeco Wing	Material
+13B8	Wonderful Beak	Material
+13C0	C. Peco Scale	Material
+13C8	C. Peco Feather	Material
+13D0	Flamboyant Quill	Material
+13D8	C. Peco Scale+	Material
+13E0	C. Peco Wing	Material
+13E8	Peco Pipes	Material
+13F0	Bulldrome Hide	Material
+13F8	Bulldrome Tusk	Material
+1400	Bulldrome Bone	Material
+1408	Bulldrome Hide+	Material
+1410	Twstd Bldrm Tsk	Material
+1418	Bulldrome Scalp	Material
+1420	Arzuros Pelt	Material
+1428	Arzuros Shell	Material
+1430	Arzuros Brace	Material
+1438	Arzuros Pelt+	Material
+1440	Arzuros Carapace	Material
+1448	Arzuros Brace+	Material
+1450	Uragaan Scale	Material
+1458	Uragaan Shell	Material
+1460	Uragaan Jaw	Material
+1468	Uragaan Scale+	Material
+1470	Uragaan Carapace	Material
+1478	Uragaan Ruby	Material
+1480	Lagiacrus Scale	Material
+1488	Lagiacrus Horn	Material
+1490	Lagi Shockshell	Material
+1498	Lagiacrus Scale+	Material
+14A0	Lagiacrus Horn+	Material
+14A8	Lagi Shockshell+	Material
+14B0	Ivory Lagi Scale	Material
+14B8	Ivory Lagi Horn	Material
+14C0	I. Lagi Shockshell	Material
+14C8	Ivory Lagi Scale+	Material
+14D0	Ivory Lagi Horn+	Material
+14D8	I. Lagi Shockshell+	Material
+14E0	Agnaktor Shell	Material
+14E8	Agnaktor Claw	Material
+14F0	Agnaktor Beak	Material
+14F8	Agnaktor Crpace	Material
+1500	Agnaktor Claw+	Material
+1508	Agnaktor Beak+	Material
+1510	G. Agnak Shell	Material
+1518	G. Agnak Claw	Material
+1520	G. Agnak Beak	Material
+1528	G. Agnak Crpace	Material
+1530	G. Agnak Claw+	Material
+1538	G. Agnak Beak+	Material
+1540	Plesioth Scale	Material
+1548	Plesioth Fin	Material
+1550	G. Plesioth Scale	Material
+1558	Green Plesioth Fin	Material
+1560	Nargacuga Scale	Material
+1568	Narga Blackfur	Material
+1570	Narga Cutwing	Material
+1578	Nargacuga Scale+	Material
+1580	Nargacuga Pelt+	Material
+1588	Nargacuga Razor	Material
+1590	Green Narga Scale	Material
+1598	G. Narga Mottlefur	Material
+15A0	G. Narga Cutwing	Material
+15A8	G. Narga Scale+	Material
+15B0	G. Narg Mottlefur+	Material
+15B8	G. Narga Cutwing+	Material
+15C0	Monster Bone S	Material
+15C8	Monster Bone M	Material
+15D0	Brute Bone	Material
+15D8	Monster Fluid	Material
+15E0	Zamite Scale	Material
+15E8	Slagtoth Hide	Material
+15F0	Aptonoth Tail	Material
+15F8	Popo Pelt	Material
+1600	Ludroth Pelt	Material
+1608	Conga Pelt	Material
+1610	Bullfango Pelt	Material
+1618	Cephalos Scale	Material
+1620	Hermitaur Shell	Material
+1628	Bnahabra Shell	Material
+1630	Vespoid Wing	Material
+1638	Konchu Shell	Material
+1640	Ioprey Scale	Material
+1648	Genprey Scale	Material
+1650	Jaggi Scale	Material
+1658	Baggi Scale	Material
+1660	Velociprey Scale	Material
+1668	Remobra Hide	Material
+1670	Shaka Treasure	Material
+1678	Altaroth Stomach	Material
+1680	Fine Stomach	Facilities
+1688	Uroktor Scale	Material
+1690	Pawprint Stamp	Material
+1698	Gargwa Feather	Material
+16A0	Monster Bone L	Material
+16A8	Monster Bone+	Material
+16B0	Dragonbone Relic	Material
+16B8	Wyvern Carcass	Material
+16C0	Kelbi Horn	Material
+16C8	Apceros Shell	Material
+16D0	Zamite Scale+	Material
+16D8	Herbivore Bone	Material
+16E0	Ludroth Pelt+	Material
+16E8	Fanged Beast Fur	Material
+16F0	Cephalos Scale+	Material
+16F8	Hermitaur Shell+	Material
+1700	Neopteron Shell	Material
+1708	Brd Wyv Scale+	Material
+1710	Remobra Hide+	Material
+1718	Shaka Treasure+	Material
+1720	Luminous Stomach	Facilities
+1728	Uroktor Scale+	Material
+1730	Barrel Lid	Material
+1738	Blue Gargwa Fther	Material
+1740	Thunderbug Juice	Material
+1748	Thunderbug Jelly	Material
+1750	Dragonbug Juice	Material
+1758	Dragonbug Jelly	Material
+1760	Monster Broth	Material
+1768	Eld Dragon Blood	Material
+1770	Iron Pickaxe	Key Item
+1778	Bug Net	Key Item
+1780	Fishing Rod	Key Item
+1788	Rider\s Notes	Key Item
+1790	Monsterpedia	Key Item
+1798	Flame Rock	Key Item
+17A0	Rider's Flure	Key Item
+17A8	Lab Key	Key Item
+17B0	Primeshroom	Key Item
+17B8	Mountain Herbs	Key Item
+17C0	Catavan Wheel	Key Item
+17C8	Lilia's Letter	Key Item
+17D0	Precious Pink Crstl	Key Item
+17D8	Purple Scarf	Key Item
+17E0	Beginner's Set	Key Item
+17E8	Rider's Memo	Key Item
+17F0	Mega Potions	Key Item
+17F8	Hunter's Life: Fall	Key Item
+1800	Hunter's Life: Wint	Key Item
+1808	Healer's Comp V.1	Key Item
+1810	Healer's Comp V.2	Key Item
+1818	Warm and Healthy	Key Item
+1820	Healer's Comp V.3	Key Item
+1828	Cool and Healthy	Key Item
+1830	Group Healing 101	Key Item
+1838	Group Healing Int	Key Item
+1840	Group Healing Adv	Key Item
+1848	Healer's Comp V.4	Key Item
+1850	Delicious Recipes	Key Item
+1858	Scrummy Recipes	Key Item
+1860	Flaming Bead Lore	Key Item
+1868	Flaming Jwl Lore	Key Item
+1870	Torrential Bd Lore	Key Item
+1878	Torrential Jwl Lore	Key Item
+1880	Frigid Bead Lore	Key Item
+1888	Frigid Jewel Lore	Key Item
+1890	Flashing Bd Lore	Key Item
+1898	Flashing Jwl Lore	Key Item
+18A0	Draconic Bd Lore	Key Item
+18A8	Draconic Jwl Lore	Key Item
+18B0	Res-Elem Bd Lore	Key Item
+18B8	Res-Elem Jwl Lore	Key Item
+18C0	Power Bead Lore	Key Item
+18C8	Power Jewel Lore	Key Item
+18D0	Speed Bead Lore	Key Item
+18D8	Speed Jewel Lore	Key Item
+18E0	Tech Bead Lore	Key Item
+18E8	Tech Jewel Lore	Key Item
+18F0	Evasion Bead Lore	Key Item
+18F8	Evasion Jwl Lore	Key Item
+1900	Attack Bead Lore	Key Item
+1908	Attack Jewel Lore	Key Item
+1910	Essence Vitale	Key Item
+1918	Hunter's Life: Spr	Key Item
+1920	Hunter's Life: Smr	Key Item
+1928	Boom Boom Book	Key Item
+1930	Trpper's Teachings	Key Item
+1938	Assassin's Qtly	Key Item
+1940	Piquant Recipes	Key Item
+1948	Lavish Recipes	Key Item
+1950	Royal Recipes	Key Item
+1958	S&S: Saver	Key Item
+1960	S&S: Shield	Key Item
+1968	S&S: Slash	Key Item
+1970	S&S: Bash	Key Item
+1978	S&S: Guard	Key Item
+1980	S&S: Dance	Key Item
+1988	S&S: Poison	Key Item
+1990	S&S: Paralysis	Key Item
+1998	S&S: Burn	Key Item
+19A0	S&S: Rise	Key Item
+19A8	GS: Last Stand	Key Item
+19B0	Great Sword: Fire	Key Item
+19B8	Grt Sword: Water	Key Item
+19C0	GS: Thunder	Key Item
+19C8	Great Sword: Ice	Key Item
+19D0	Grt Sword: Dragon	Key Item
+19D8	Grt Sword: Sweep	Key Item
+19E0	Grt Sword: Heavy	Key Item
+19E8	Grt Sword: Mighty	Key Item
+19F0	Grt Sword: Focus	Key Item
+19F8	Grt Sword: Ground	Key Item
+1A00	Hammer: Peak	Key Item
+1A08	Hammer: Cry	Key Item
+1A10	Hammer: Surge	Key Item
+1A18	Hammer: Spin	Key Item
+1A20	Hammer: Smash	Key Item
+1A28	Hammer: Finisher	Key Item
+1A30	HH: Da Capo	Key Item
+1A38	Hunting Horn: Trio	Key Item
+1A40	HH: Crescendo	Key Item
+1A48	HH: Fortepiano	Key Item
+1A50	HH: Ritardando	Key Item
+1A58	HH: Dissonanza	Key Item
+1A60	HH: Morendo	Key Item
+1A68	Hnting Hrn: Finale	Key Item
+1A70	Cheer Sheet	Key Item
+1A78	Wanderer's Outfit	Key Item
+1A80	Eyepatch Outfit	Key Item
+1A88	Poindexter's Outfit	Key Item
+1A90	Comedian's Outfit	Key Item
+1A98	Flu Mask Outfit	Key Item
+1AA0	Cheerleader Outfit	Key Item
+1AA8	Bandaged Outfit	Key Item
+1AB0	Rider's Outfit	Key Item
+1AB8	King's Outfit	Key Item
+1AC0	Deviljho Outfit	Key Item
+1AC8	Kotetsu's Outfit - Missing	
+1AD0	Tamazo's Outfit - Missing	
+1AD8	Mask Outfit - Missing	
+1AE0	Hellblade's Outfit	Key Item
+1AE8	Meowstress Outfit	Key Item
+1AF0	Polytan's Outfit - Missing	
+1AF8	Umaru-chan Outfit - Missing	
+1B00	Famitsu Outfit	
+1B08	G Chrleader Outfit	Key Item
+1B10	B Chrleader Outfit	Key Item
+1B18	Red Rider's Outfit	Key Item
+1B20	Yellow Rider Outfit	Key Item
+1B28	Azure King's Outfit	Key Item
+1B30	Silver King's Outfit	Key Item
+1B38	Silver Star's Outfit	Key Item
+1B40	Numbers Outfit	Key Item
+1B48	Queen's Outfit	Key Item
+1B50	Mahana Outfit	Key Item
+1B58	Ruin King's Outfit	Key Item
+1B60	Ena's Outfit	Key Item
+1B68	Tsukino's Outfit	Key Item
+1B70	Odyssey Medal	Material
+1B78	Plushie Voucher	Material
+1B80	Duramboros Seal	Material
+1B88	Fan Club Nwsletter	Material
+1B90	Rustshard	Material
+1B98	Mohawk Zuros	Key Item
+1BA0	SHaggy Narga	Key Item
+1BA8	Spiky Rathalos	Key Item
+1BB0	Conga Cone	Key Item
+1BB8	Barroth Pompadour	Key Item
+1BC0	Brachy Pompadour	Key Item
+1BC8	Royals Rolls	Key Item
+1BD0	Funky Kut-Ku	Key Item
+1BD8	Kelbi Braid	Key Item
+1BE0	Spiky Rathian	Key Item
+1BE8	Barioth Braids	Key Item
+[/Item]

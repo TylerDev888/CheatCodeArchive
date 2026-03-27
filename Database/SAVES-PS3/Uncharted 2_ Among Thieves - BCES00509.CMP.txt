@@ -1,0 +1,37 @@
+^2 = GameID: BCES00509
+^3 = NAME: Uncharted 2: Among Thieves
+^5 = APCRED: From Game Genie For PS3
+^4 = FILE: USR-DATA
++Decrypt Usr-data (required)
+$set [end]:read(EOF-3, 4)
+$set range:0x000008,[end]+7
+$DECRYPT blowfish_ecb("(SH[@2>r62%5+QKpy|g6")
+^4 = FILE: BCES00509_NDI_UNCHARTED2_BT_P\USR-DATA
++Unlock Crushing Difficulty
+$20000A78 0000001F
+^4 = FILE: BCES00509_NDI_UNCHARTED2_BT_*\USR-DATA
++Unlock All Chapters
+$42000AE0 00000000
+$41D90020 00000000
++Start With Max Ammo For Left Weapon(you Must Have A Weapon Equipped To Use This Cheat.)
+$200048D0 000003E7
++Start With Max Ammo For Right Weapon(you Must Have A Weapon Equipped To Use This Cheat.)
+$200048DC 000003E7
++Start With Max Grenades(you Must Have A Weapon Equipped To Use This Cheat.)
+$200048F4 00000009
++Update Crc32 Checksum For Usr-data (required)
+$set [block_length]:read(0x58C,4)
+$set [block_length]:[block_length]+0x587
+$set range:0x58C,[block_length]
+$set [hash]:crc32
+$write at 0x588:[hash]
++Update Hmac Sha1 Checksum For Usr-data (required)
+$set pointer:EOF-0x1F
+$set range:0x000008,pointer
+$set [hash]:hmac_sha1("xM;6X%/p^L/:}-5QoA+K8:F*M!~sb(WK<E%6sW_un0a[7Gm6,()kHoXY+yI/s;Ba")
+$set pointer:EOF-0x1F
+$write next (0):[hash]
++Encrypt Usr-data (required)
+$set [end]:read(EOF-3, 4)
+$set range:0x000008,[end]+7
+$ENCRYPT blowfish_ecb("(SH[@2>r62%5+QKpy|g6")

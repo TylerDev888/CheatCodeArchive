@@ -1,0 +1,89 @@
+^3 = NAME: Street Fighter EX3 (PAL)
+^2 = GameID: SLES-50072
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F014EE4C 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F014EE4C 0014EE4F
++Enable Code
+%Credits: lee4>CMX
+$902E8730 0C0BE890
+!!
++1St Fighter Character Modifier
+%Credits: Hacc>lee4>HF*
+$00C19F12 000000??
++1St Fighter Costume Modifier
+%Credits: Hacc>lee4>HF*
+$00C19F13 000000??
++2Nd Fighter Character Modifier
+%Credits: Hacc>lee4>HF*
+$00C1D4C2 000000??
++2Nd Fighter Costume Modifier
+%Credits: Hacc>lee4>HF*
+$00C1D4C3 000000??
++3Rd Fighter Character Modifier
+%Credits: Hacc>lee4>HF*
+$00C20A72 000000??
++3Rd Fighter Costume Modifier
+%Credits: Hacc>lee4>HF*
+$00C20A73 000000??
++4Th Fighter Character Modifier
+%Credits: Hacc>lee4>HF*
+$00C24022 000000??
++4Th Fighter Costume Modifier
+%Credits: Hacc>lee4>HF*
+$00C24023 000000??
++All Trials Complete
+%Credits: InterAct
+$204E5A88 FFFFFFFF
+$204E5A8C FFFFFFFF
+$204E5A98 FFFFFFFF
+$204E5A9C FFFFFFFF
+$204E5AA8 FFFFFFFF
++Have All Moves-Edit
+%Credits: InterAct
+$404E5A3C 00130001
+$00010001 00000000
++Infinite Health P1 1St
+%Credits: InterAct
+$20C1D48C 0000C800
++Infinite Health P1 2Nd
+%Credits: InterAct
+$20C23FEC 0000C800
++Infinite Health P2 1St
+%Credits: InterAct
+$20C20A3C 0000C800
++Infinite Health P2 2Nd
+%Credits: InterAct
+$20C2759C 0000C800
++Infinite XP (Edit Mode)
+%Credits: Codejunkies
+$104E5A38 0000FFFF
++Max Super P1 1St
+%Credits: InterAct
+$20C1D480 0000BF00
++Max Super P1 2Nd
+%Credits: InterAct
+$20C23FE0 0000BF00
++Max Super P2 1St
+%Credits: InterAct
+$20C20A30 0000BF00
++Max Super P2 2Nd
+%Credits: InterAct
+$20C27590 0000BF00
++No Super P2 1St
+%Credits: Codejunkies
+$20C20A30 00000000
++No Super P2 2Nd
+%Credits: InterAct
+$20C27590 00000000
++Open All Characters
+%Credits: InterAct
+$208C77B8 CFFFFFFF
++P1 Max Reverse Joker Command
+%Credits: Hacc>lee4>HF*
+$D0307242 0000????
+!!
+

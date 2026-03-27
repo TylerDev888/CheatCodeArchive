@@ -1,0 +1,35 @@
+^3 = NAME: MX 2002 Featuring Ricky Carmichael (Pal-Unk)
+^2 = GameID: SLES-50428
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F018EC24 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F018EC24 0018EC27
+!!
++Have A Mega-Jump
+%Credits: Codejunkies
+$203085F8 3E800000
++Infinite Career Points
+%Credits: Codejunkies
+$10344F0C 0000FFFF
++Infinite Freestyle Points
+%Credits: InterAct
+$204349B8 70000000
++Infinite Freestyle Points
+%Credits: Codejunkies
+$204349B8 7FFFFFFF
++Open All Movies
+%Credits: InterAct
+$10355F94 0000FFFF
+$00355F96 000000FF
++Open All Tracks And All Modes
+%Credits: Codejunkies
+$20355F80 FFFFFFFF
++To The Moon
+%Credits: InterAct
+$203085F8 40000000
+$203084A0 4FF00000
+!!
+

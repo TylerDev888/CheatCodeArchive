@@ -1,0 +1,12 @@
+^3 = NAME: Shinkyoku Soukai Polyphonica: After School (Ntsc-J)
+^2 = GameID: SLPM-55270
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$901C99F8 0C072626
+!!
++Enable Debug Mode [Read Note] {<I>Controller #1 Debug Inputs:<Br>Triangle + Circle + X + Square + Start Will Return You To The Title Screen.<Br>Select + Triangle Will Enable Or Disable Progressive Mode.<Br>Controller #2 Debug Inputs:<Br>Circle To Toggle Debug Modes. Press This Once Or Twice To Enable Sound Test Options In The Settings Menu In The Main Menu. This Will Also Open A Scene Select Menu In The Pause Menu In Game.<Br>Select For Screen Capture Menu. This Will Save An Image In Raw Bmp Format To Your Memory Card.<Br>Triangle To Log Printf Information.<Br>Square To Toggle Debug Flag On Or Off. This Unlocks Everything.<Br>X To Log Printf Information.<Br>R1 To Log Printf Information.</I>}
+%Credits: punk7890
+$202CB0F0 00000001
+!!
+

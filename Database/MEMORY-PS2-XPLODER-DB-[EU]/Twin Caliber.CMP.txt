@@ -1,0 +1,33 @@
+^3 = NAME: Twin Caliber
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 0011E1DF
+!!
+!Other:
++Unlimited Continues
+%Credits: Xploder
+$206738AC 00000009
+!!
+!Player 1:
++Unlimited Health
+%Credits: Xploder
+$2187D924 42C80000
++Unlimited TNT
+%Credits: Xploder
+$2066EDB0 00000063
++Maximum Bodycount
+%Credits: Xploder
+$2187DA18 3B9AC9FF
+!!
+!Player 2:
++Unlimited Health
+%Credits: Xploder
+$2187EFB0 42C80000
++Unlimited TNT
+%Credits: Xploder
+$2066EE04 00000063
++Maximum Bodycount
+%Credits: Xploder
+$2187F0B8 3B9AC9FF
+!!

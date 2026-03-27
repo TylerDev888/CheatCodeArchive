@@ -1,0 +1,45 @@
+^3 = NAME: Surfing H3O (Ntsc-U)
+^2 = GameID: SLUS-20092
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0101368 000001FD
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001FDE0F
+!!
++Access All Characters
+%Credits: Code Master
+$2018E6F4 00000000
++Always Clear Level
+%Credits: InterAct
+$10457E28 00000001
++Always Clear Level
+%Credits: Code Master
+$20457E28 00000001
++Extra Continues
+%Credits: Code Master
+$1017F6A0 00000001
++Extra Takeoffs
+%Credits: Code Master
+$101509F8 00000001
++High Score
+%Credits: InterAct
+$10457E20 0000FFFF
++Infinite Continues
+%Credits: InterAct
+$1024A5E4 00000005
++Infinite Continues
+%Credits: Code Master
+$2024A5E4 00000009
++Infinite Take Offs
+%Credits: InterAct
+$10456AA4 00000002
++Infinite Takeoffs
+%Credits: Code Master
+$20456AA4 00000009
++Max Score
+%Credits: Code Master
+$20457E20 0098967F
+!!
+

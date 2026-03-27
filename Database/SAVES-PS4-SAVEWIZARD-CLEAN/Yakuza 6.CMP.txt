@@ -1,0 +1,213 @@
+^2 = GameID: CUSA03848, CUSA06129, CUSA09032, CUSA09660
+^3 = NAME: Yakuza 6
+^SECONDLAYER: NO
+^4 = FILE: data.sav
++Add Item
+$search 0x22706C61796572223A
+$search next 0x2263617272795F6974656D22
+$search next 0x226D5F6C69737422
+$Insert Next A: "{".ver":0,"m_b_known":false,"m_count":[Amount:99999999:UTF08:TXT],"m_item_id":[ID]},"
+^6 = MODS:
+[ID]
+VALUE>ITEM>Type
+089	Red Gem Bracelet	Equipment
+090	Black Gem Bracelet	Equipment
+091	White Gem Bracelet	Equipment
+092	Blue Gem Bracelet	Equipment
+093	Leather Bracelet	Equipment
+094	Beads of Good Fortune	Equipment
+095	Suzaku Bracelet	Equipment
+096	Genbu Bracelet	Equipment
+097	Byakko Bracelet	Equipment
+098	Seiryu Bracelet	Equipment
+099	Heavenly Beast Bracelet	Equipment
+100	Mouth Guard	Equipment
+101	Custom Mouth Guard	Equipment
+102	Transcendent Mouth Guard	Equipment
+103	Morning Glory Waistband	Equipment
+104	Binding	Equipment
+105	Fighter's Binding	Equipment
+106	Fearless Binding	Equipment
+107	Bloody Binding	Equipment
+108	Dragon's Binding	Equipment
+109	Bulletproof Vest	Equipment
+110	Millitary-grade Bulletproof Vest	Equipment
+111	Body Armor	Equipment
+112	Millitary-grade Body Armor	Equipment
+113	Transcendent Body Armor	Equipment
+114	Rusted Chain Mail	Equipment
+115	Chain Mail	Equipment
+116	Blood-caked Chain Mail	Equipment
+117	Vinyl Belt	Equipment
+118	Leather Belt	Equipment
+119	Stamina Belt	Equipment
+120	Hunger Belt	Equipment
+121	Expensive Leather Belt	Equipment
+122	Comfy Insoles	Equipment
+123	High-tech Insoles	Equipment
+124	Transcendent Insoles	Equipment
+125	Good Health Amulet	Equipment
+126	Road Safety Amulet	Equipment
+127	Good Luck Amulet	Equipment
+128	Travel Safety Amulet	Equipment
+129	Romance Amulet	Equipment
+130	Charismatic Photo	Equipment
+131	Morning Glory Photo	Equipment
+132	Eye of the Dragon	Equipment
+133	Dragon God Amulet	Equipment
+134	Pure White Briefs	Equipment
+135	Boxer Briefs	Equipment
+136	Trunks	Equipment
+137	Boomerang Briefs	Equipment
+138	Rokushaku Fundoshi	Equipment
+139	Etchu Fundoshi	Equipment
+140	Steel Underwear	Equipment
+141	Bloody Fundoshi	Equipment
+142	Wrist Training Gear	Equipment
+143	Ankle Training Gear	Equipment
+144	Yakuza Training Gear	Equipment
+146	Substory Finder	Equipment
+147	Safe Finder	Equipment
+172	Toughness Z	Recovery
+173	Toughness ZZ	Recovery
+174	Toughness Infinity	Recovery
+175	Tauriner	Recovery
+176	Tauriner +	Recovery
+177	Tauriner ++	Recovery
+178	Tariner Maximum	Recovery
+179	Staminan X	Recovery
+180	Staminan XX	Recovery
+181	Staminan Royale	Recovery
+182	Staminan Spark	Recovery
+183	AppStim Half	Recovery
+184	AppStim RX	Recovery
+331	Onomichi Pudding	Food/Drink
+332	Hiyashiame	Food/Drink
+333	Tofu	Food/Drink
+532	Imuraya Steamed Bun	Food/Drink
+533	Imuraya Bean Paste Bun	Food/Drink
+534	Imuraya Pizza Bun	Food/Drink
+535	Imuraya Gold Steamed Bun	Food/Drink
+536	Imuraya Gold Pizza Bun	Food/Drink
+537	Beginner Darts	Valuables
+538	Intermediate Darts	Valuables
+539	Expert Darts	Valuables
+540	Paul Lim's Darts	Valuables
+541	Homestyle Chicken Cat Food	Others
+542	Miso Crispy Beef Cat Food	Others
+543	Fresh Tuna Cat Food	Others
+544	Cheese Salmon Paté Cat Food	Others
+545	White Fish and Sardine Cat Food	Others
+546	Bonito Flake Cat Food	Others
+547	Gold Tuna Cat Food	Others
+548	RISINGWAVE Zero Black	Equipment
+583	Oden	Food/Drink
+584	Seaweed Onigiri	Food/Drink
+585	Tuna Onigiri	Food/Drink
+586	Salmon Onigiri	Food/Drink
+587	Bento Lunch Set	Food/Drink
+588	Special Yakisoba	Food/Drink
+589	Bento Lunch Set (Pork)	Food/Drink
+590	Healthy Balanced Bento	Food/Drink
+591	Luxury Yakiniku Bento	Food/Drink
+592	Sushi Set	Food/Drink
+593	Fresh Lettuce Sandwich	Food/Drink
+594	Tuna & Egg Sandwich	Food/Drink
+595	MUSCLE	Food/Drink
+596	FIBAX	Food/Drink
+597	LIMIT+	Food/Drink
+598	BURN+	Food/Drink
+599	QUICK BURNER	Food/Drink
+600	Red Bun	Food/Drink
+601	Blue Bun	Food/Drink
+602	Orange Bun	Food/Drink
+603	Green Bun	Food/Drink
+604	Purple Bun	Food/Drink
+605	Rainbow Bun	Food/Drink
+606	Pocket Tissues	Others
+607	Beautiful Driftwood	Others
+608	Small Driftwood	Others
+609	Large Driftwood	Others
+610	Decayed Driftwood	Others
+611	Beautiful Seashell	Others
+612	Broken Seashell	Others
+613	Small Seashell	Others
+614	Buoy	Others
+615	Trash	Others
+616	Seaweed	Others
+617	Prepaid Card	Valuables
+630	Internet Café Membership Card	Valuables
+637	Strength Tome	Others
+638	Agility Tome	Others
+639	Technique Tome	Others
+640	Charm Tome	Others
+641	Spirit Tome	Others
+642	Sake	Food/Drink
+643	Kabubin	Food/Drink
+644	The Premium Malt's Master's Dream	Food/Drink
+645	Super Cup Soy Sauce Chicken Broth	Food/Drink
+646	Super Cup Extra Large Squid Yakisoba	Food/Drink
+647	JAN JAN Sauce Yakisoba	Food/Drink
+648	Wakame Ramen	Food/Drink
+649	Soup Harusame: Wonton	Food/Drink
+650	Chicken Broth Pho	Food/Drink
+652	Standard Speargun	Valuables
+654	High-impact Speargun	Valuables
+655	High-capacity Speargun	Valuables
+656	Modded Speargun	Valuables
+658	Kiwami Speargun	Valuables
+659	Ahab's Revenge	Valuables
+661	Sora's Business Card	Valuables
+662	Hikaru's Business Card	Valuables
+663	Riona's Business Card	Valuables
+664	Saki's Business Card	Valuables
+665	Erina's Business Card	Valuables
+672	Platinum Plate	Others
+673	Gold Plate	Others
+674	Silver Plate	Others
+675	Bronze Plate	Others
+676	Iron Plate	Others
+677	Paper Plate	Others
+678	Haruka's Bromide	Valuables
+679	Drawing of Haruka	Valuables
+691	Ono Michio's CD Sample	Valuables
+692	Drawing of Michio	Valuables
+693	Poem Picture 1	Valuables
+694	Poem Picture 2	Valuables
+695	Poem Picture 3	Valuables
+696	Poem Picture 4	Valuables
+697	Poem Picture 5	Valuables
+698	Poem Picture 6	Valuables
+699	Poem Picture 7	Valuables
+700	Poem Picture 8	Valuables
+701	Poem Picture 9	Valuables
+702	Memo of the Code	Valuables
+703	Selfie Photo 1	Valuables
+704	Selfie Photo 2	Valuables
+705	Selfie Photo 3	Valuables
+706	Safe Key Found on Tenkaichi Street	Valuables
+707	Safe Key Found on West Taihei Boulevard	Valuables
+708	Safe Key Found at Yoshida Batting Center	Valuables
+709	Safe Key Found in Nakamichi Alley	Valuables
+710	Safe Key Found on Senryo Avenue	Valuables
+711	Safe Key Found at Jingai Ferry Dock	Valuables
+712	Safe Key Found on Pedestrian Bridge	Valuables
+713	Safe Key Found on Second Hill	Valuables
+714	Safe Key Found at Hana-no-kubo	Valuables
+715	Safe Key Found at Central Shopping District	Valuables
+716	Photo of Osamu Kashiwagi	Valuables
+717	Photo of Shintaro Kazama	Valuables
+718	Photo of Akira Nishikiyama	Valuables
+719	Photo of Yoshitaka Mine	Valuables
+720	Photo of Sohei Dojima	Valuables
+721	Photo of Shinmji Tanaka	Valuables
+722	Photo of Yumi Sawamura	Valuables
+723	Photo of Lau Ka Long	Valuables
+724	Photo of Masaru Ihara	Valuables
+725	Photo of Yoshinobu Takugawa	Valuables
+726	Beads of Exorcism	Equipment
+727	UFO Finder	Equipment
+728	Parry Talisman	Equipment
+730	War God Talisman	Equipment
+731	Staminan Royale (Bonus Item)	Recovery
+[/ID]

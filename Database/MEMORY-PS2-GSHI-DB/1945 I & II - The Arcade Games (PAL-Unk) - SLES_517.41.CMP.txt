@@ -1,0 +1,68 @@
+^3 = NAME: 1945 I & II - The Arcade Games (PAL-Unk)
+^2 = GameID: SLES-51741
+!Master Codes:
++Enabler Code (Must Be On)
+%Credits: davintheraven
+$F0184E34 000001FD
+!!
+!1945 Codes:
++Hit Anywhere
+%Credits: nolberto82
+$201126B4 10000012
++Invincibility
+%Credits: nolberto82
+$20110B8C 34020002
++One Hit Kills
+%Credits: nolberto82
+$20112838 3C020000
++Player 1 Has Infinite Bombs
+%Credits: BigBossman
+$0022A3F0 00000006
++Player 1 Has Infinite Lives
+%Credits: BigBossman
+$0022A3EC 00000005
++Player 1 Has Maximum Wingman Level
+%Credits: BigBossman
+$0022A41C 00000004
++Player 1 Plane Modifier[MOD1]
+%Credits: BigBossman
+!!
+!1945 II Codes:
++Hit Anywhere
+%Credits: nolberto82
+$20140D90 34020001
+$20140DD0 34020001
+$20140E78 34020001
++Invincibility
+%Credits: nolberto82
+$20147014 34020002
++One Hit Kills
+%Credits: nolberto82
+$2014122C 3C050000
++Player 1 Has Fully Maxed Missiles / Wingmen
+%Credits: BigBossman
+$0026E839 00000004
++Player 1 Has Infinite Bombs
+%Credits: BigBossman
+$0026E816 00000009
++Player 1 Has Infinite Lives
+%Credits: BigBossman
+$0026E814 00000005
++Player 1 Has Maximum Fire Power
+%Credits: BigBossman
+$0026E83A 00000004
++Player 1 Has Maximum Shooting Level
+%Credits: BigBossman
+$0026E86B 000000FF
+!!
+^6 = MODS:
+[MOD1]
+00	P-38 Lightning
+01	P-51 Mustang
+02	Spit Fire Mk. VII
+03	Messer Bf-109
+04	Zero Fighter
+05	Shinden J7
+06	GLITCHY
+[/MOD1]
+

@@ -1,0 +1,43 @@
+^3 = NAME: Soul Nomad & The World Eaters (Ntsc-U)
+^2 = GameID: SLUS-21603
++Control Enemy Units {<I>Ok, Here Is How It Works. Highlight An Enemy Unit And Hit X (This Will Make Sure The Unit Is The &Quot;Currently Selected Unit&Quot;), And Then Hit L1 + Select To Bring Up The Action Menu. From There You Can Do What You Want. Move, Attack, Tactics... Ect. Note That This Will -Not- Use Up The Unit&#39;S Turn. So This Code Doesn&#39;T Stop Your Enemies From Acting, It Just Allows You To Control Them During Your Turn.</I>}
+%Credits: KingEdgar0
+$D03A6302 0000FBFE
+$003AA350 0000000A
++Debug Mode {<I>While Highlighting A Tactic You Can Press Select To Increase Its Level by 1.  While highlighting a unit in the Set Members screen you can press select to increase its level by 1. Hold down square and hit select to increase its level by 10, and hold down triangle and hit select to increase its level by 100.  The menu in battles now allows you to go to the Design menu, so you can mess around with your rooms in the middle of battles.  Buttons on the second controller control the camera, too lazy to explain what does what... just hit them and figure it out for yourself :P  There are numbers on screen during attack sequences that show x/y cords and that kind of debugy stuff, as well as on the map during inspections, and a couple other places. They are more annoying than anything.  It looks like the debug mode is rather crippled, no interesting stuff left = Though it is possible that the code only turns on some of the debug stuff.</i>}
+%Credits: KingEdgar0
+$20136D78 00000000
+$20136FA8 00000000
+$203A6718 00000003
++Kidnap Whenever You Want {<I>This Works A Lot Like The Steal Code. First Make Sure The Unit You Want To Kidnap Into Is The Currently Selected Unit. Then Highlight The Enemy Unit You Want To Kidnap From, And Hit L1 + R3. The Kidnap Selection Menu Will Come Up, And You Can Take Your Pick. Like The Steal Code This Will Not Affect Your Chances Of Kidnapping. It Just Allows You To Kidnap From Any Unit, And Lets You Attempt To Kidnap As Many Times As You Want. Also, If The Unit/Room You Are Kidnapping Into Doesn&#39;T Have A Free Space, The Character Will Be Taken From The Enemy Unit But Not Added To Yours. Also Worth Noting Is That If You Have An Enemy Unit As The Currently Selected Unit, You Can Have Enemy Units Kidnap From Each Other. I Suppose It Would Also Be Possible To Make Enemy Units Kidnap From You...  Joker Code Ruthlessly Ganked From Skiller</I>}
+%Credits: KingEdgar0
+$D03A6302 0000FBFB
+$003AA350 00000050
++Leveling Up With Debug Reduces Level To 1 {<I>L3 Turns It On, R3 Turns It Off. When The Code Is On, Hitting Select At The Set Character Screen Will Set Your Character&#39;S Level To 1, But Will Increase Its Stats Like It Leveled Up. This Lets You Increase A Character&#39;S Stats While Keeping Its Level Low.</I>}
+%Credits: KingEdgar0
+$D03A6302 0000FFFD
+$2029BB60 A6A00224
+$D03A6302 0000FFFB
+$2029BB60 86A20224
++Press R2+R3 For All Characters In Manikin Shop {<I>Press The Button Combination When You Are -Not- In The Shop. Also, In Order For Most Of The Story Characters To Show Up In The Shop, You Will Need To Have This Code On. The Game Checks The Character Digits As It Is Reading The List When You Go Into The Shop, And It Ignores Anything That Isn&#39;T A Multiple Of 10 (Almost All Story Characters Are Not Multiples Of 10). The Second Line Of The Code Disables That &Quot;Protection&Quot;, So If You Want The Story Characters To Always Show Up You Will Need To Have The Above Code On All The Time. Also, This Code Doesn&#39;T Include Crash Inducing Characters Like The World Eaters. So If Something You Want Isn&#39;T There, It Likely Doesn&#39;T Work.  Ok There Was A Problem With Going Into The Train Menu. If You Went In After Enabling The Code, You Couldn&#39;T Back Out. So I&#39;Ve Updated The Code. Now Once You Are Done Buying Your Characters In The Shop, Hit R2+L3. It Will Return The &Quot;Protection&Quot; Line To The Way It Was, And Allow You To Use The Train Menu. Note That If You Go Into The Train Menu Before Hitting R2+L3 It Is Too Late, You Have To Hit The Button Combination Before You Go In, So I Would Suggest Just Hitting It Right After You Exit The Manikin Shop.</I>}
+%Credits: KingEdgar0
+$E00BFDFB 003A6302
+$202CE918 24060001
+$40415BD0 00060002
+$00010000 00010000
+$40415C00 00040002
+$00080000 00010000
+$40415C20 001E0002
+$00140000 00010000
+$20415D10 00360000
+$20415D18 00370000
+$40415D20 001D0002
+$03E80000 000A0000
+$D03A6302 0000FDFD
+$202CE918 2406000A
++Steal Whenever You Want {<I>First, You Have To Make Sure That Your Unit Is The &Quot;Currently Selected Unit&Quot;. To Do This Simply Hit X On It To Bring Up The Menu, And Then Back Out. Now, Highlight The Enemy Unit You Want To Steal From (Don&#39;T Hit X), And Hit L1 + L3. The Steal Selection Will Come Up And You Can Pick Which Item You Want To Try For. Note That This Does Not Affect Your Chances Of Stealing. It Just Allows You To Steal From Any Unit You Want Regardless Of Range, And Lets You Make As Many Attempts As You Want On Your Turn. It -Will- Use Up Your Action, But You Can Keep Using The Code Even When Your Action Is Used Up.</I>}
+%Credits: KingEdgar0
+$D03A6302 0000FBFD
+$003AA350 00000048
+!!
+

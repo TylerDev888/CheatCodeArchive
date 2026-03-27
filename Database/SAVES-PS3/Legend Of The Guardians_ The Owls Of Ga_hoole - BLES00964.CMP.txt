@@ -1,0 +1,9 @@
+^2 = GameID: BLES00964
+^3 = NAME: Legend of the Guardians: The Owls of Ga'Hoole
+^4 = FILE: SAVE0.DAT
++Update Crc32 For Save0.dat (required)
+(set range:0x000004,0x014003)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

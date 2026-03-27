@@ -1,0 +1,7 @@
+^2 = GameID: NPEB00175
+^3 = NAME: After Burner Climax (PSN)
+^4 = FILE: SYSTEM.DAT
++Update Crc32 (required)
+$set range:0x000010,0x0041F3
+$set [hash]:CRC32
+$write at 0x000008:[hash]

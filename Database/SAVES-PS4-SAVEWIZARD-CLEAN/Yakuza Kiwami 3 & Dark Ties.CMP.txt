@@ -1,0 +1,886 @@
+^2 = GameID: CUSA54714
+^3 = NAME: Yakuza Kiwami 3 & Dark Ties
+^4 = FILE: data\.sav
++Add Item Carry
+$search 0x22706C61796572223A
+$search next 0x2263617272795F6974656D22
+$search next 0x226D5F6C69737422
+$insert next A: "{".ver":1,"m_count":[Amount:99999999:UTF08:TXT],"m_item_id":{"puid":[ID]}},"
++Add Item Box
+$search 0x22706C61796572223A
+$search next 0x22626F785F4974656D22
+$search next 0x226D5F6C69737422
+$insert next A: "{".ver":1,"m_count":[Amount:99999999:UTF08:TXT],"m_item_id":{"puid":[ID]}},"
++Edit Points/Currencies
+$search 0x226D5F706F696E747322
+$search next 0x222E766572223A302C226D5F706F696E7422
+$search next 0x2C:([Points]) 
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "[Amount:99999999l:UTF08:TXT]"
+^6 = MODS:
+[ID]
+VALUE>ITEM>Type
+74	Swiss Watch	Materials/Other
+75	Vintage Luxury Watch	Materials/Other
+76	Bun-Chan the Java Sparrow (Pink)	Materials/Other
+77	Pillow Pup (Golden Retriever)	Materials/Other
+78	Oinklet (Blue)	Materials/Other
+79	Pillow Pup (French Bulldog)	Materials/Other
+80	MeeMee	Materials/Other
+81	Bun-Chan the Java Sparrow (White)	Materials/Other
+82	Baby	Materials/Other
+83	Jumbo Bun-Chan	Materials/Other
+84	GonGon	Materials/Other
+85	Oinklet (Black)	Materials/Other
+86	Oinklet (Yellow)	Materials/Other
+87	AiAi	Materials/Other
+88	Oinklet (Red)	Materials/Other
+89	Oinklet (Green)	Materials/Other
+96	Gold Plate	Materials/Other
+97	Simple Wristwatch 	Materials/Other
+98	Platinum Plate	Materials/Other
+164	Lucky Hanafuda Card	Materials/Other
+165	Silver Plate	Materials/Other
+166	Bust Amulet	Materials/Other
+167	Paper Plate	Materials/Other
+168	Nine Gates Tile	Materials/Other
+169	Iron Plate	Materials/Other
+170	Blackjack Amulet	Materials/Other
+171	Royal Joker Card	Materials/Other
+172	Bronze Plate	Materials/Other
+173	10-10-1 Charm	Materials/Other
+174	Trips Yokan	Materials/Other
+205	Cigarette Butt	Materials/Other
+206	Pocket Tissues	Materials/Other
+323	Kariyushi Bun-chan (Orange)	Materials/Other
+324	Kariyushi Bun-chan (Pink)	Materials/Other
+325	Uchina Kitty Kat (Red)	Materials/Other
+326	Uchina Kitty Kat (Tiger)	Materials/Other
+327	Uchina Kitty Kat (Blue)	Materials/Other
+328	Uchina Kitty Kat (American Shorthair)	Materials/Other
+329	Uchina Kitty Kat (Calico)	Materials/Other
+446	Kitty Kat (RED)	Materials/Other
+447	Kitty Kat (Tiger)	Materials/Other
+448	Kitty Kat (Blue)	Materials/Other
+449	Kitty Kat (American Shorthair)	Materials/Other
+450	Kitty Kat (Calico)	Materials/Other
+451	Cuddly Cub (Brown)	Materials/Other
+452	Cuddly Cub (Blue)	Materials/Other
+453	Cuddly Cub (Red)	Materials/Other
+454	Cuddly Cub (Green)	Materials/Other
+455	Cuddly Cub (Black)	Materials/Other
+456	Pengster (Green)	Materials/Other
+457	Pengster (Blue)	Materials/Other
+458	Pengster (Red)	Materials/Other
+459	Pengster (Yellow)	Materials/Other
+460	Pengster (Black)	Materials/Other
+461	Kariyushi Bun-Chan (Blue)	Materials/Other
+658	Empty Can	Materials/Other
+696	All 1's Charm	Materials/Other
+697	1-2-3 Gum	Materials/Other
+698	Piss Mountain Stone	Materials/Other
+699	Lopsided Cigarette	Materials/Other
+700	Even Goro's Beads	Materials/Other
+701	Red Jewel	Materials/Other
+702	Zero Jewel	Materials/Other
+717	Banker's Piece	Materials/Other
+722	Filthy Dirty Magazine	Materials/Other
+726	Black Jewel	Materials/Other
+735	Player's Piece	Materials/Other
+736	Robo Chief	Materials/Other
+737	Robo Manager	Materials/Other
+859	Drift Wood	Materials/Other
+867	Plastic Bottle	Materials/Other
+958	Ethereal Egesta	Materials/Other
+1247	Legendary Character Outfit Pack	Materials/Other
+1248	Ryukyu Gal Gang: Customization Pack	Materials/Other
+1249	Flip Phone Customization Set	Materials/Other
+1250	Legendary BGM CD Pack	Materials/Other
+1251	Ryukyu Gal Gang: Ichiban Legendary Lad	Materials/Other
+1253	Meeting Ticket	Materials/Other
+1255	Baddie Uniform Button: Jou	Materials/Other
+1256	Baddie Uniform Button: Toku	Materials/Other
+1257	Baddie Uniform Button: Kiwami	Materials/Other
+1330	Legendary Lads & Glas Pack	Materials/Other
+1462	Forbidden Plate	Materials/Other
+1464	Forbidden Plate Kiwami	Materials/Other
+1470	Mystical Moisturizer	Materials/Other
+727	Milk	Morning Glory
+728	Flounder	Morning Glory
+944	Pumpkin	Morning Glory
+946	Cabbage	Morning Glory
+947	Daikon	Morning Glory
+951	Strawberry	Morning Glory
+953	Carrot	Morning Glory
+954	Tomato	Morning Glory
+956	Onion	Morning Glory
+957	Potato	Morning Glory
+959	Goya	Morning Glory
+962	Egg	Morning Glory
+964	Spinach	Morning Glory
+1156	Tiger Prawn	Morning Glory
+1157	Salmon	Morning Glory
+1158	ScorpionFish	Morning Glory
+1159	Sea Bream	Morning Glory
+1160	Bonito	Morning Glory
+1161	Eel	Morning Glory
+1162	Marlin	Morning Glory
+1163	Bluefin Tuna	Morning Glory
+1164	Oarfish	Morning Glory
+1165	Seashell	Morning Glory
+1166	Pearl	Morning Glory
+1167	Seaweed	Morning Glory
+1190	Dustcloth	Morning Glory
+1191	Pouch	Morning Glory
+1192	Handkerchief	Morning Glory
+1193	Drawstring Bag	Morning Glory
+1194	Tote Bag	Morning Glory
+1195	Lucky Charm	Morning Glory
+1196	Cushion	Morning Glory
+1197	Childrens's Clothes	Morning Glory
+1199	Rag	Morning Glory
+1200	Butterfly	Morning Glory
+1202	Golden Butterfly	Morning Glory
+1203	Moth	Morning Glory
+1204	Golden Moth	Morning Glory
+1205	Grasshopper	Morning Glory
+1206	Golden Grasshopper	Morning Glory
+1207	Dragonfly	Morning Glory
+1208	Golden Dragonfly	Morning Glory
+1209	Earthworm	Morning Glory
+1210	Tsuchinoko	Morning Glory
+1211	Rhinoceros Beetle	Morning Glory
+1212	Golden Rhinoceros Beetle	Morning Glory
+1213	Cicada	Morning Glory
+1214	Golden Cicada	Morning Glory
+1215	Stag Beetle	Morning Glory
+1216	Golden Stag Beetle	Morning Glory
+1217	Basic Fertilizer	Morning Glory
+1218	Premium Fertilizer	Morning Glory
+1219	Extra-Fancy Fertilizer	Morning Glory
+1220	Worn-Out Scarecrow	Morning Glory
+1221	Normal Scarecrow	Morning Glory
+1222	Dazzling Scarecrow	Morning Glory
+1223	Yakuza Scarecrow	Morning Glory
+1224	Hostess Scarecrow	Morning Glory
+1225	Dragon Scarecrow	Morning Glory
+1226	Cheap Fish Bait	Morning Glory
+1227	Normal FIsh Bait	Morning Glory
+1228	Outstanding Fish Bait	Morning Glory
+1229	Vassic Animal Feed	Morning Glory
+1230	Premium Animal Feed	Morning Glory
+1231	Extra-Fancy Animal Feed	Morning Glory
+1232	Rice	Morning Glory
+1233	Meat	Morning Glory
+1234	Sugar	Morning Glory
+1235	Pineapple	Morning Glory
+1	Sata Andagi	Recovery Items
+2	Seaweed Onigiri	Recovery Items
+3	Suna Onigiri	Recovery Items
+4	Salmon Onigiri	Recovery Items
+5	Lettuce Sandwitch	Recovery Items
+6	Tuna And Egg Sandwich	Recovery Items
+7	Oden	Recovery Items
+8	Bento Lunch Set	Recovery Items
+9	Special Yakisoba	Recovery Items
+10	POrk Tonkatsu Bento	Recovery Items
+11	Healthy Balanced Bento	Recovery Items
+12	Luxury Yakiniku Bento	Recovery Items
+13	Bottled Sake	Recovery Items
+430	Azuki Bar	Recovery Items
+431	Blue Seal Cup Vanilla	Recovery Items
+432	Polar Bear Vanilla	Recovery Items
+433	Pineapple Candy	Recovery Items
+434	Awadama	Recovery Items
+435	Coffee to Eat	Recovery Items
+436	Petagu Gummy Grape Flavor	Recovery Items
+437	Mega Otoko Umezu	Recovery Items
+438	Honey Kumquat Hard Candy	Recovery Items
+439	Jonetz Roasted Mixed Nuts DX	Recovery Items
+440	Jonetz Yaki Imo (M)	Recovery Items
+441	Jonetz Canister Potato CHips	Recovery Items
+442	Ninja Meshi Kyoho	Recovery Items
+443	UHA Gummy Vitamins - Iron	Recovery Items
+444	Cororo Grape	Recovery Items
+445	Puchao Soda	Recovery Items
+478	SPAM - Less Salt	Recovery Items
+479	MARY KITCHEN - Corned Beef Hash	Recovery Items
+480	Delica Frankfurt Sausage	Recovery Items
+481	Canned Taco Meat	Recovery Items
+482	Portuguese Sausage	Recovery Items
+484	Super Cup 1.5x Chicken Shoyu	Recovery Items
+486	Instant Wonton Harusame	Recovery Items
+487	Wakame Ramen	Recovery Items
+489	Suppaiman Sweet Ume No. 1 No Pit	Recovery Items
+490	Suppaiman Plum Candy	Recovery Items
+491	Suppaiman Sweet Ume No. 1	Recovery Items
+492	Suppaiman Kakipi No. 1	Recovery Items
+493	Suppaiman Ume Koro	Recovery Items
+510	Sata Andagi 8-Pack	Recovery Items
+511	Sweet Potato Sata Andagi	Recovery Items
+512	Sweet Potato Sata Andagi 8 pack	Recovery Items
+513	Chinsuko 24-Pack	Recovery Items
+514	Soki Soba Retort Pack	Recovery Items
+515	Rafute Retort Pack	Recovery Items
+516	Teruya Kokuta Ame	Recovery Items
+517	Shikwasa Gummy	Recovery Items
+518	Island Hot Pepper Senbei	Recovery Items
+519	Island Hot Pepper Snack	Recovery Items
+520	Pork Egg Onigiri	Recovery Items
+521	Jushi Onigiri	Recovery Items
+522	Club Sandwich	Recovery Items
+523	Chicken Karaage Bento	Recovery Items
+524	Premium Sushi Set	Recovery Items
+525	BOSS light Sugar	Recovery Items
+536	Imuraya Confectionery Beef Bun	Recovery Items
+537	Imuraya Confectionery An Bun	Recovery Items
+538	Imuraya Confectionery Pizza Bun	Recovery Items
+539	Imuraya Confectionery Curry Bun	Recovery Items
+540	Imuraya Confectionery Yokan (Brick)	Recovery Items
+541	Imuraya Confectionery Castella	Recovery Items
+565	Soda Water	Recovery Items
+573	BOSS Black	Recovery Items
+574	C.C Lemon	Recovery Items
+575	Green Dakara	Recovery Items
+576	Lyemon Tokucha Green Tea	Recovery Items
+577	Suntory Black Oolong Tea	Recovery Items
+578	Suntory Mineral Water (S.Alps)	Recovery Items
+579	BOSS Rainbow Mountain	Recovery Items
+580	The Malt's	Recovery Items
+581	Kakubin	Recovery Items
+582	Orion the Draft	Recovery Items
+583	Orion The Premium	Recovery Items
+584	WATTA Shikwasa	Recovery Items
+585	Natura	Recovery Items
+586	75BEER Shimafu Pilsner	Recovery Items
+587	Red Bull Energy Drink	Recovery Items
+588	Red Bull Sugar Free	Recovery Items
+621	Red Bull Purple Edition	Recovery Items
+624	Sanpincha	Recovery Items
+625	Shikwasa Soda	Recovery Items
+626	Goya Soda	Recovery Items
+627	Awamort Pot	Recovery Items
+628	Bottle of Habushu	Recovery Items
+629	Cup Sake	Recovery Items
+630	Dog Food	Recovery Items
+631	Half-Empty Drink	Recovery Items
+657	Mineral Water	Recovery Items
+666	Tauriner Maximum	Recovery Items
+667	Staminan Light	Recovery Items
+668	Staminan X	Recovery Items
+673	Staminan Royale	Recovery Items
+674	Staminan Spark	Recovery Items
+675	Tuna Salad Sandwich	Recovery Items
+676	Staminan XX	Recovery Items
+680	Roast Ham Sandwich	Recovery Items
+703	Cola	Recovery Items
+704	Zero-Calorie Cola	Recovery Items
+710	Moldy Burger	Recovery Items
+725	Toughness Infinity	Recovery Items
+729	Toughness ZZ	Recovery Items
+730	Toughness Light	Recovery Items
+731	Toughness Z	Recovery Items
+732	Tauriner ++	Recovery Items
+733	Tauriner	Recovery Items
+734	Tauriner +	Recovery Items
+739	Assorted Fancy Chocolates	Recovery Items
+1172	Dragon Curry Bento	Recovery Items
+1173	Simmered Flounder Bento	Recovery Items
+1174	Seaweed Rice Bento	Recovery Items
+1175	Dragon Champloo Bento	Recovery Items
+1176	Grilled Salmon Bento	Recovery Items
+1177	Goya Drink	Recovery Items
+1178	Dragon Hamburg Steak Bento	Recovery Items
+1179	Stewed Meat Bento	Recovery Items
+1180	Fish Radish Bento	Recovery Items
+1181	Dragon Sushi Bento	Recovery Items
+1182	Veggie Bento	Recovery Items
+1183	Tempura Bento	Recovery Items
+1184	Dragon Chinese Bento	Recovery Items
+1185	Luxurious Meat Bento	Recovery Items
+1186	Pumpkin Soup	Recovery Items
+1187	Dragon Cake Set	Recovery Items
+1188	Extravagent Bento	Recovery Items
+1189	Pineapple Pizza Set	Recovery Items
+1319	Dumpster Bento	Recovery Items
+1471	Orion The Dark	Recovery Items
+1490	Drink Up Dandan Noodles	Recovery Items
+1491	Super Cup 1.5x Pork Kimchi	Recovery Items
+1493	Sweet Potato Chips	Recovery Items
+1494	Sweet Potato Pie (12 Pieces)	Recovery Items
+1495	Assorted Chinsuko (48 Pack)	Recovery Items
+1496	Island Karinto Brown Sugar 60g	Recovery Items
+1497	Island Sata Andagi (Plain)	Recovery Items
+182	Serenity Bat	Valuables
+183	Basic Bat	Valuables
+184	Golf Club Point Card	Valuables
+185	Expert Bat	Valuables
+187	Shogi Point Card	Valuables
+188	Gambling Hall Tags	Valuables
+189	Pool Point Card	Valuables
+190	Casion Chips	Valuables
+191	Beginner Carts	Valuables
+192	Legend Darts	Valuables
+193	Roses	Valuables
+194	Forks	Valuables
+195	Thunder Darts	Valuables
+196	The Basics of Shogi	Valuables
+197	Premier Darts	Valuables
+198	Wind Darts	Valuables
+199	Pencils	Valuables
+200	Silver Darts	Valuables
+202	Toy Crows	Valuables
+203	Gold Darts	Valuables
+204	Batting Center Points Card	Valuables
+269	x3 Shine (Yuki) CD	Valuables
+270	Hands (Kiryu) CD	Valuables
+271	Ichizu Samurai (Kiryu) CD	Valuables
+272	Sayonara, Silent Night (Kiryu) CD	Valuables
+273	Baka Darou (Playing the Fool) (Kiryu) CD	Valuables
+274	The Future i Dreamed of (Kasuga) CD	Valuables
+275	Hell Stew (Kasuga) CD	Valuables
+276	Judgement -Shinpan- (Kasuga) CD	Valuables
+277	Summertime Groove (Kasuga & Adachi) CD	Valuables
+278	If i could Love the one i Love (Joongi) CD	Valuables
+279	Honolulu City Lights (Chitose) CD	Valuables
+280	Get to the Top! (Majima) CD	Valuables
+281	24-Hour Cinderella (Majima) CD	Valuables
+282	As Long As You're Happy (Majima) CD	Valuables
+283	Pride From Despair (Majima & Kiryu) CD	Valuables
+284	Samurai Ondo (Majima) CD	Valuables
+285	Majima No MajiRock (Majima) CD	Valuables
+286	Majima Construction Anthem (Majima) CD	Valuables
+287	Majima Construction Anthem (Employees) CD	Valuables
+288	Machine Gun Kiss (Adachi) CD	Valuables
+289	Spring Breeze (Saeko) CD	Valuables
+290	AWAKE (Saeko) CD	Valuables
+291	Hell Stew (Zhao) CD	Valuables
+292	If i could Love the one i Love (Zhao) CD	Valuables
+399	I'm Gonna Make Her Mine CD	Valuables
+400	I Wanna Take You Home CD	Valuables
+401	Heartbeat CD	Valuables
+402	The Sun At 36.5C CD	Valuables
+403	Goro Pirates Theme CD	Valuables
+404	Midnight Desire CD	Valuables
+405	Song of Departure -grandioso- CD	Valuables
+406	Kamurocho Lullaby (Kiryu) CD	Valuables
+407	Machine Hun Kiss (Kiryu) CD	Valuables
+408	Baka Mitai (Kiryu) CD	Valuables
+409	Judgement -Shinpan- (Kiryu) CD	Valuables
+410	Iji Sakura (Kiryu) CD	Valuables
+411	Iji Sakura 2000 (Kiryu) CD	Valuables
+412	Tonight - Restart from this Night- (Kiryu) CD	Valuables
+413	Today is a Diamond (Kiryu) CD	Valuables
+605	Ring (Yuki) CD	Valuables
+606	Raindrops (Hana) CD	Valuables
+607	Asura Komachi (Hana) CD	Valuables
+632	North Star Soundtrack CD	Valuables
+633	Kamurocho Lullaby CD	Valuables
+634	Fubuki Kouta CD	Valuables
+635	Queen of Passion CD	Valuables
+660	Kamurocho Locker Key	Valuables
+669	Koi No Disco Queen CD	Valuables
+706	Friday Night CD	Valuables
+712	Like a Butterfly (Seonhee) CD	Valuables
+713	Baka Mitai (Saejima) CD	Valuables
+718	Downtown Ryukyu Locker Key	Valuables
+738	In Glory I'll Return (Saejima) CD	Valuables
+743	Shin Ichizu Samurai (Kiryu) CD	Valuables
+761	Fantasy Zone Soundtrack CD 1	Valuables
+762	After Burner Soundtrack CD 1	Valuables
+763	Galaxy Force Soundtrack CD 1	Valuables
+764	Fantasy Zone Soundtrack CD 2	Valuables
+765	Galaxy Force Soundtrack CD 1	Valuables
+766	After Burner Soundtrack CD 3	Valuables
+767	After Burner Soundtrack CD 2	Valuables
+769	Out Run Soundtrack CD 4	Valuables
+847	Virtua Fighter Soundtrack CD 4	Valuables
+856	Border Break (AC) Soundtrack CD 1	Valuables
+858	Phone Number Note	Valuables
+860	Safe Code Note	Valuables
+864	Password Note	Valuables
+865	Border Break (AC) Soundtrack CD 3	Valuables
+868	Border Break (AC) Soundtrack CD 2	Valuables
+869	Golden Balls	Valuables
+878	Virtua Fighter Soundtrack CD 1	Valuables
+879	Virtua Fighter Soundtrack CD 3	Valuables
+880	Virtua Fighter Soundtrack CD 2	Valuables
+1082	Out Run Soundtrack CD 3	Valuables
+1102	Puyo Puyo Soundtrack CD 2	Valuables
+1103	CHUNITHM Soundtrack CD 1	Valuables
+1104	CHUNITHM Soundtrack CD 2	Valuables
+1105	Space Harrier Soundtrack CD	Valuables
+1106	Out Run Soundtrack CD 1	Valuables
+1107	Out Run Soundtrack CD 2	Valuables
+1108	Maimai Dx Soundtrack CD 2	Valuables
+1109	Total War: Pharaoh Soundtrack CD 1	Valuables
+1110	Total War: Pharaoh Soundtrack CD 2	Valuables
+1111	Project Sekai: Colorful Stage! Feat. Hatsune Miku Soundtrack CD 2	Valuables
+1112	Maimai Dx Soundtrack CD 1	Valuables
+1113	Total War: Pharaoh Soundtrack CD 3	Valuables
+1114	Project Sekai: Colorful Stage! Feat. Hatsune Miku Soundtrack CD 1	Valuables
+1119	Sonic Soundtrack CD 4	Valuables
+1120	Sonic Soundtrack CD 3	Valuables
+1121	Puyo Puyo Soundtrack CD 1	Valuables
+1122	Sonic Soundtrack CD 1	Valuables
+1123	Sonic Soundtrack CD 2	Valuables
+1124	Daytone Soundtrack CD	Valuables
+1126	Super Monkey Ball Banana Mania Soundtrack CD 2	Valuables
+1127	Super Monkey Ball Banana Mania Soundtrack CD 3	Valuables
+1128	Super Monkey Ball Banana Mania Soundtrack CD 4	Valuables
+1129	Rent-A-Hero Soundtrack CD	Valuables
+1130	NiGHTS Soundtrack CD 1	Valuables
+1131	NiGHTS Soundtrack CD 2	Valuables
+1132	Rhythm Thief Soundtrack CD	Valuables
+1133	Feel the Magic: XY/XX Soundtrack CD	Valuables
+1134	Phantasy Star online 2 Soundtrack CD 1	Valuables
+1135	Phantasy Star online 2 Soundtrack CD 2	Valuables
+1136	Phantasy Star online 2: New Genesis Soundtrack CD 1 	Valuables
+1137	Phantasy Star online 2: New Genesis Soundtrack CD 2	Valuables
+1138	Super Monkey Ball Banana Rumble Soundtrack CD 1	Valuables
+1139	Super Monkey Ball Banana Rumble Soundtrack CD 2	Valuables
+1140	Super Monkey Ball Banana Rumble Soundtrack CD 3	Valuables
+1141	Super Monkey Ball Banana Rumble Soundtrack CD 4	Valuables
+1142	Super Monkey Ball Banana Mania Soundtrack CD 1	Valuables
+1143	Phantasy Star online 2: New Genesis Soundtrack CD 3	Valuables
+1144	Metaphor: ReFantazio Soundtrack CD	Valuables
+1145	Persona 3 Reload Soundtrack CD	Valuables
+1146	Angry Birds Soundtrack CD 1	Valuables
+1147	Angry Birds Soundtrack CD 2	Valuables
+1148	P5X Soundtrack CD	Valuables
+1149	RAIDOU Soundtrack CD	Valuables
+1150	Angry Birds Soundtrack CD 3	Valuables
+1151	Angry Birds Soundtrack CD 4	Valuables
+1168	Dull Harpoon	Valuables
+1169	Normal Harpoon	Valuables
+1170	Nice Harpoon	Valuables
+1171	Best Harpoon	Valuables
+1236	Cow	Valuables
+1237	Cow	Valuables
+1238	Cow	Valuables
+1239	Chicken	Valuables
+1240	Chicken	Valuables
+1241	Chicken	Valuables
+1242	Chicken	Valuables
+1243	Chicken	Valuables
+1244	Chicken	Valuables
+1245	Cat	Valuables
+1246	Chimpanzee	Valuables
+1285	Burning Rangers Soundtrack CD	Valuables
+1286	Super Monkey Ball Banana Rumble Soundtrack CD 5	Valuables
+1287	Super Monkey Ball Banana Rumble Soundtrack CD 6	Valuables
+1288	Virtua Fighter Soundtrack CD 5	Valuables
+1289	O.N.G.E.K.I. SoundTrack CD 1	Valuables
+1290	O.N.G.E.K.I. SoundTrack CD 2	Valuables
+1291	O.N.G.E.K.I. SoundTrack CD 3	Valuables
+1292	O.N.G.E.K.I. SoundTrack CD 4	Valuables
+1293	Maimai Dx Soundtrack CD 3	Valuables
+1294	Maimai Dx Soundtrack CD 4	Valuables
+1295	CHUNITHM Soundtrack CD 3	Valuables
+1296	CHUNITHM Soundtrack CD 4	Valuables
+1297	Border Break (AC) Soundtrack CD 4	Valuables
+1298	Border Break (AC) Soundtrack CD 5	Valuables
+1299	Border Break Soundtrack CD 5	Valuables
+1300	Border Break Soundtrack CD 6	Valuables
+1301	Pararirai (Kiryu) CD	Valuables
+1302	Kamurocho Rhapsody (Kiryu) CD	Valuables
+1303	I Wana Change Myself (Haruka) CD	Valuables
+1304	Otometal My Life (Haruka) CD	Valuables
+1305	Baka Mitai (Mine) CD	Valuables
+1306	Receive You CD	Valuables
+1307	As A Man, As a Brother CD	Valuables
+1308	Fly CD	Valuables
+1309	For Faith CD	Valuables
+1310	The Battle for the Dream CD	Valuables
+1311	With You CD	Valuables
+1312	Reign CD	Valuables
+1313	The Way of Life CD	Valuables
+1314	ism CD	Valuables
+1315	I'm Fading Awayu CD	Valuables
+1316	Viva La Vida! CD	Valuables
+1317	Now Or Never CD	Valuables
+1318	Let Me See you Dancing' CD	Valuables
+1342	Rare Ring	Valuables
+1343	Very Precious Flyer	Valuables
+1433	Raffle Ticket Bundle (Kamurocho)	Valuables
+1434	Raffle Ticket Bundle (Downtown Ryukyu)	Valuables
+1436	Lost Dog Flyer	Valuables
+1437	Delivery Locastions Memo	Valuables
+1438	Gold Akko-san Statue	Valuables
+1475	Ikizama Feat.Naoki (RottenGraffty) CD	Valuables
+1476	Sand Castle CD	Valuables
+1498	Columns	Valuables
+1499	G-LOC: Air Batle	Valuables
+1500	Woody Pop	Valuables
+1501	The GG Shinobi	Valuables
+1502	Fantasy Zone Gear: Opa Opa Jr. No Bouken	Valuables
+1504	Bare Knuckle: Ikari No Tekken	Valuables
+1505	Puyo Puyo	Valuables
+1506	Sonic & Tails	Valuables
+1507	Sonic Drift	Valuables
+1508	PAC-MAN	Valuables
+1509	Mappy	Valuables
+1510	Galaga '91	Valuables
+1547	Dragon Reversi	Valuables
+[/ID]
+[Points]
+Value>Name>Spreadsheet Order
+1	Yen	2
+2		3
+3		4
+4		5
+5		6
+6		7
+7		8
+8		9
+9		10
+10		11
+11	Talk to People Around Town # times	12
+12		13
+13		14
+14		15
+15		16
+16		17
+17		18
+18		19
+19		20
+20		21
+21		22
+22		23
+23		24
+24		25
+25		26
+26		27
+27		28
+28		29
+29		30
+30		31
+31		32
+32	Defeat Enemies who Pick a fight on the Street	33
+33		34
+34		35
+35		36
+36		37
+37		38
+38		39
+39		40
+40		41
+41		42
+42		43
+43		44
+44		45
+45		46
+46	Gambling Hall Tags	47
+47	Casino Chips	48
+48		49
+49		50
+50		51
+51		52
+52		53
+53		54
+54		55
+55	Shogi Point Card	56
+56		57
+57		58
+58		59
+59		60
+60		61
+61		62
+62		63
+63		64
+64		65
+65		66
+66		67
+67		68
+68		69
+69		70
+70		71
+71		72
+72		73
+73		74
+74		75
+75		76
+76	Golf Club Points Card	77
+77		78
+78		79
+79		80
+80		81
+81		82
+82		83
+83		84
+84		85
+85		86
+86		87
+87		88
+88		89
+89		90
+90		91
+91		92
+92		93
+93		94
+94		95
+95		96
+96		97
+97		98
+98		99
+99		100
+100		101
+101		102
+102		103
+103		104
+104		105
+105		106
+106		107
+107		108
+108		109
+109	Pool Point Card	110
+110		111
+111		112
+112		113
+113		114
+114		115
+115		116
+116		117
+117		118
+118		119
+119		120
+120		121
+121		122
+122		123
+123		124
+124		125
+125		126
+126		127
+127		128
+128		129
+129		130
+130		131
+131		132
+132		133
+133		134
+134		135
+135		136
+136		137
+137		138
+138		139
+139		140
+140		141
+141		142
+142		143
+143		144
+144		145
+145		146
+146		147
+147		148
+148		149
+149		150
+150		151
+151		152
+152		153
+153		154
+154		155
+155		156
+156		157
+157		158
+158		159
+159		160
+160		161
+161		162
+162		163
+163		164
+164		165
+165		166
+166		167
+167		168
+168		169
+169		170
+170		171
+171		172
+172		173
+173		174
+174		175
+175		176
+176	Training Points	177
+177		178
+178		179
+179		180
+180		181
+181		182
+182		183
+183		184
+184		185
+185		186
+186		187
+187		188
+188	Morning Glory Yen	189
+189		190
+190		191
+191		192
+192		193
+193		194
+194		195
+195		196
+196		197
+197		198
+198		199
+199		200
+200		201
+201		202
+202		203
+203		204
+204		205
+205		206
+206		207
+207		208
+208		209
+209		210
+210		211
+211		212
+212		213
+213		214
+214		215
+215		216
+216		217
+217		218
+218		219
+219		220
+220		221
+221		222
+222		223
+223		224
+224		225
+225		226
+226		227
+227		228
+228		229
+229		230
+230		231
+231		232
+232		233
+233		234
+234		235
+235		236
+236		237
+237		238
+238		239
+239		240
+240		241
+241		242
+242		243
+243		244
+244		245
+245		246
+246		247
+247		248
+248		249
+249		250
+250		251
+251		252
+252		253
+253		254
+254		255
+255		256
+256		257
+257		258
+258		259
+259		260
+260		261
+261		262
+262		263
+263	Defeat a total of # Enemies in Dragon of Dojima Style	264
+264	Defeat a Total of ## Enemies in Ryukyu Style	265
+265		266
+266		267
+267		268
+268		269
+269		270
+270		271
+271		272
+272		273
+273		274
+274		275
+275		276
+276		277
+277		278
+278		279
+279		280
+280		281
+281		282
+282		283
+283		284
+284		285
+285		286
+286		287
+287		288
+288		289
+289		290
+290		291
+291		292
+292		293
+293		294
+294		295
+295		296
+296		297
+297		298
+298		299
+299		300
+300		301
+301		302
+302		303
+303		304
+304		305
+305		306
+306		307
+307		308
+308		309
+309		310
+310		311
+311		312
+312		313
+313		314
+314		315
+315		316
+316		317
+317		318
+318		319
+319		320
+320		321
+321		322
+322		323
+323		324
+324		325
+325		326
+326		327
+327		328
+328		329
+329		330
+330		331
+331		332
+332		333
+333		334
+334		335
+335		336
+336		337
+337		338
+338		339
+339		340
+340		341
+341		342
+342		343
+343		344
+344		345
+345		346
+346		347
+347		348
+348		349
+349		350
+350		351
+351		352
+352		353
+353		354
+354		355
+355		356
+356		357
+357		358
+[/Points]

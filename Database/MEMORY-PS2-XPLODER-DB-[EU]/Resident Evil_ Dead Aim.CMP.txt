@@ -1,0 +1,246 @@
+^3 = NAME: Resident Evil: Dead Aim
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 00106D07
+!!
+!Other:
++Unlimited Health Both Characters
+%Credits: Xploder
+$20238B20 00000000
+!!
+!Reduce Maximum Health:
++This Code Must Be On For The Following 3 Cheats{(Only Select One Of These Codes)}
+%Credits: Xploder
+$200C0000 3C014120
+$200C0004 C4410008
+$200C000C 4481B800
+$200C0010 4601B834
+$200C0014 45030001
+$200C0018 4600B846
+$200C001C 0808CBDB
+$200C0020 E4410008
+$20232F64 08030800
++70%
+%Credits: Xploder
+$200C0008 3C0140E0
++50%
+%Credits: Xploder
+$200C0008 3C0140A0
++30%
+%Credits: Xploder
+$200C0008 3C014040
+!!
+!Bruce McGivern Codes:
++Have All Guns
+%Credits: Xploder
+$002DEA98 000000FF
++Megga C.P. Rifle
+%Credits: Xploder
+$202DEAF8 0000FFFF
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$202DEA94 00000000
++Ammunition
+%Credits: Xploder
+$20238AE4 00000000
++Health
+%Credits: Xploder
+$202DEB08 00000000
+!!
+!Full Ammunition Clip For:
++All Weapons
+%Credits: Xploder
+$002DEAE4 00000012
+$002DEADC 0000000F
+$002DEAE0 00000007
+$002DEAEC 00000007
+$002DEAF0 00000006
+$002DEAF4 00000064
+$002DEAE8 00000008
++Handgun
+%Credits: Xploder
+$002DEADC 0000000F
++Silencer Handgun
+%Credits: Xploder
+$002DEAE8 00000008
++Shotgun
+%Credits: Xploder
+$002DEAE0 00000007
++Semi Auto Handgun
+%Credits: Xploder
+$002DEAE4 00000012
++Magnum
+%Credits: Xploder
+$002DEAEC 00000007
++Grenade Launcher
+%Credits: Xploder
+$002DEAF0 00000006
++Assault Rifle
+%Credits: Xploder
+$002DEAF4 00000064
++All Weapons
+%Credits: Xploder
+$002DEB58 00000012
+$002DEB50 0000000F
+$002DEB54 00000007
+$002DEB60 00000007
+$002DEB64 00000006
+$002DEB68 00000064
+$002DEB5C 00000008
++Handgun
+%Credits: Xploder
+$002DEB50 0000000F
++Silencer Handgun
+%Credits: Xploder
+$002DEB5C 00000008
++Shotgun
+%Credits: Xploder
+$002DEB54 00000007
++Semi Auto Handgun
+%Credits: Xploder
+$002DEB58 00000012
++Magnum
+%Credits: Xploder
+$002DEB60 00000007
++Grenade Launcher
+%Credits: Xploder
+$002DEB64 00000006
++Assault Rifle
+%Credits: Xploder
+$002DEB68 00000064
+!!
+!File Items:
++All File Items
+%Credits: Xploder
+$402A4838 00130001
+$00000001 00000000
++Intelligence Operations Manual
+%Credits: Xploder
+$202A4838 00000001
++Emergency Fax From Paris
+%Credits: Xploder
+$202A483C 00000001
++Report 1162
+%Credits: Xploder
+$202A4840 00000001
++Admin Report
+%Credits: Xploder
+$202A4844 00000001
++Waiters Letter
+%Credits: Xploder
+$202A4848 00000001
++Freight Crewman's Diary
+%Credits: Xploder
+$202A484C 00000001
++Research Report #220329
+%Credits: Xploder
+$202A4850 00000001
++Restructuring Notice
+%Credits: Xploder
+$202A4854 00000001
++Ship's Log
+%Credits: Xploder
+$202A4858 00000001
++Operator's Notebook
+%Credits: Xploder
+$202A485C 00000001
++Biological Report 1
+%Credits: Xploder
+$202A4860 00000001
++Biological Report 2
+%Credits: Xploder
+$202A4864 00000001
++Experiment Alpha Log
+%Credits: Xploder
+$202A4868 00000001
++Transport Orders
+%Credits: Xploder
+$202A486C 00000001
++Architect's Memo
+%Credits: Xploder
+$202A4870 00000001
++Research Report #220120
+%Credits: Xploder
+$202A4874 00000001
++Orders From Morpheus
+%Credits: Xploder
+$202A4878 00000001
++Charged Particle Rifle User's Manual
+%Credits: Xploder
+$202A487C 00000001
++Morpheus's Journal
+%Credits: Xploder
+$202A4880 00000001
++All File Items
+%Credits: Xploder
+$402A48F4 00130001
+$00000001 00000000
++Intelligence Operations Manual
+%Credits: Xploder
+$202A48F4 00000001
++Emergency Fax From Paris
+%Credits: Xploder
+$202A48F8 00000001
++Report 1162
+%Credits: Xploder
+$202A48FC 00000001
++Admin Report
+%Credits: Xploder
+$202A4900 00000001
++Waiters Letter
+%Credits: Xploder
+$202A4904 00000001
++Freight Crewman's Diary
+%Credits: Xploder
+$202A4908 00000001
++Research Report #220329
+%Credits: Xploder
+$202A490C 00000001
++Restructuring Notice
+%Credits: Xploder
+$202A4910 00000001
++Ship's Log
+%Credits: Xploder
+$202A4914 00000001
++Operator's Notebook
+%Credits: Xploder
+$202A4918 00000001
++Biological Report 1
+%Credits: Xploder
+$202A491C 00000001
++Biological Report 2
+%Credits: Xploder
+$202A4920 00000001
++Experiment Alpha Log
+%Credits: Xploder
+$202A4924 00000001
++Transport Orders
+%Credits: Xploder
+$202A4928 00000001
++Architect's Memo
+%Credits: Xploder
+$202A492C 00000001
++Research Report #220120
+%Credits: Xploder
+$202A4930 00000001
++Orders From Morpheus
+%Credits: Xploder
+$202A4934 00000001
++Charged Particle Rifle User's Manual
+%Credits: Xploder
+$202A4938 00000001
++Morpheus's Journal
+%Credits: Xploder
+$202A493C 00000001
+!!
+!Fong Ling Codes:
++Have All Guns
+%Credits: Xploder
+$002DEB0C 000000FF
++Megga C.P. Rifle
+%Credits: Xploder
+$202DEB6C 0000FFFF
+!!

@@ -1,0 +1,9 @@
+^2 = GameID: CUSA11227,CUSA12982,CUSA15952
+^3 = NAME: MediEvil 
+^SECONDLAYER: YES
+^4 = FILE: @MediEvil\d+\ue4savegame.ps4.sav
++Super Max HealthVial (Universal){Must have at least (1) HealthVial, Notes: After deep testing I can happily say it works on the very first level after getting the HealthVial}
+%Credits: Doomguy
+$8001000B 45787472
+$61486561 6C746800
+$28000025 00FFFFFF

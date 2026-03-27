@@ -1,0 +1,18 @@
+^2 = GameID: BLES00761
+^3 = NAME: Tron: Evolution
+^4 = FILE: USERDATA
++Get Crc32big:0 For Userdata (required)
+$set pointer:eof+1
+$set range:0x0,pointer
+$set [hash]:CRC32Big:0
+$set [hash]:xor:FFFFFFFF
+^4 = FILE: HEADER
++Update Crc32big:0 For Header (required)
+$write at 0x000008:[hash]
+$set [hash]:0
+$set pointer:eof-3
+$set range:0x000000,pointer
+$set [hash]:CRC32Big:0
+$set [hash]:xor:FFFFFFFF
+$set pointer:eof-3
+$write next (0):[hash]

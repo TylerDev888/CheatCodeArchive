@@ -1,0 +1,36 @@
+^3 = NAME: Turok: Evolution
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 001C9707
+!!
+!Other:
++Level Select{(You Must Load A Game First)}
+%Credits: Xploder
+$207D8868 00000001
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$20103D04 3C0142C8
+$20103D08 44810000
+$20103D0C E4400000
++Ammunition
+%Credits: Xploder
+$20150018 24130063
+!!
+!Built-In Cheats:
++Unlock Built-In Cheats{Unlock The Built-In Cheats First!}
+%Credits: Xploder
+$207D8848 00000001
+$207D8850 00000001
+$207D8858 00000001
+$207D8860 00000001
+$207D8870 00000001
++Target Practice
+%Credits: Xploder
+$207D8878 00000001
++Bonus Level
+%Credits: Xploder
+$207D8880 00000001
+!!

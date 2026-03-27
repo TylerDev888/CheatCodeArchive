@@ -1,0 +1,31 @@
+^3 = NAME: Dreamworks' Kung Fu Panda (Pal-E-I)
+^2 = GameID: SLES-55035
++1Hitkill (Read Notes) {<I>Activate With R2+Select<Br>Deactivate With L2+Select<Br>Use With The Untouchable Code<Br>Deactivate With Bosses To Avoid Problems</I>}
+%Credits: luc-ita
+$D05FD1C2 0000FDFE
+$20157A14 1000000A
+$D05FD1C2 0000FEFE
+$20157A14 5620000A
++Buy Even Without Coins
+%Credits: luc-ita
+$20356D50 00000000
+$20356F1C 00000000
+$20356F64 00000000
++Enemies Die After Few Attack Attempts (Read Notes) {<I>Use With The Untouchable Code</I>}
+%Credits: luc-ita
+$2016D88C 00000000
++Enemies Don't Attack
+%Credits: luc-ita
+$2023A7E4 100001D9
++Infinite Mana
+%Credits: luc-ita
+$201DD70C 00000000
++Timer Stopped
+%Credits: luc-ita
+$2029E564 00000000
++Untouchable
+%Credits: luc-ita
+$2013E184 3C020006
+$2013E188 AE0201B8
+!!
+

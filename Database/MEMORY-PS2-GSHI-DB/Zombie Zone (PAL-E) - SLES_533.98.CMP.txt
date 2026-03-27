@@ -1,0 +1,94 @@
+^3 = NAME: Zombie Zone (PAL-E)
+^2 = GameID: SLES-53398
+!Master Codes:
++Enable Code
+%Credits: lee4
+$F01EAF74 001EAF77
++Enable Code
+%Credits: lee4
+$0E3C7DF2 1456E7A5
+$F01EAF74 001EAF77
++Enable Code
+%Credits: lee4
+$F01EAF74 0000000E
++Enable Code
+%Credits: lee4
+$901EAF74 0C081DFC
++Enable Code
+%Credits: Skiller
+$90210BD8 0C08429E
+!!
++3X Length Of Sword
+%Credits: lee4
+$2021DEE0 40400000
++Always Goddess Statue Mode
+%Credits: Harry62
+$20228770 00000078
+$20228774 00000008
++Always Jewel Necklace Mode
+%Credits: Harry62
+$20228760 00000708
++Always Power Mode
+%Credits: Harry62
+$2022875C 00000708
++Always Rapid Mode
+%Credits: Harry62
+$20228758 00000708
++Enemies Can Not Hit You
+%Credits: Harry62
+$2012E028 03E00008
+$2012E02C 00000000
++Freeze Zombies {<I>[Hold Any Button, Including D-Pad]</I>}
+%Credits: Harry62
+$20103FCC 50620021
+$D036F842 0010FFFF
+$20103FCC 00000000
++Inf & Max HP
+%Credits: lee4
+$2021DECC 00002710
+$2021DED0 00002710
++Infinite Cure Gem
+%Credits: Harry62
+$20228808 0000000A
++Infinite Goddess Statue
+%Credits: Harry62
+$20228818 0000000A
++Infinite Jewel Necklace
+%Credits: Harry62
+$20228814 0000000A
++Infinite Power Gem
+%Credits: Harry62
+$20228810 0000000A
++Infinite Rapid Gem
+%Credits: Harry62
+$2022880C 0000000A
++Max Attack Power
+%Credits: lee4
+$2021DED4 0001869F
++No Sword Deterioration
+%Credits: lee4
+$20228794 00000000
++Speed Movement {<I>4140 = 2X<Br>4190 = 2X<Br>41C0 = 4X<Br>4240 = 8X</I>}
+%Credits: lee4
+$2021DEDC ????0000
++Super Jump
+%Credits: Harry62
+$200A2000 3C080022
+$200A2004 C500DE74
+$200A2008 3C0A4100
+$200A200C 448A0800
+$200A2010 46010001
+$200A2014 03E00008
+$200A2018 E500DE74
+$D036F842 0000BFFF
+$20104F20 08028800
+$D036F842 0000FFFF
+$20104F20 03E00008
++Walk Through Barrier Objects
+%Credits: Harry62
+$2010CA00 10000005
++Walk Through Zombies
+%Credits: Harry62
+$2010C2A8 00000000
+!!
+

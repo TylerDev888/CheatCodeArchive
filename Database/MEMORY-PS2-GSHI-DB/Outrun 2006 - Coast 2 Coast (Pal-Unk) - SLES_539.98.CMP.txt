@@ -1,0 +1,40 @@
+^3 = NAME: Outrun 2006 - Coast 2 Coast (Pal-Unk)
+^2 = GameID: SLES-53998
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0101320 00101323
++Enable Code (Must Be On)
+%Credits: Combusto Dragon
+$902B2B48 0C0ACA7A
+!!
++Drive Without Rivals {<I>Coast2coast Mode Only</I>}
+%Credits: luc-ita
+$201E43A8 03E00008
+$201ECEF8 03E00008
+$201F0810 03E00008
++Infinite Time
+%Credits: Codejunkies
+$201CE250 00000000
+$201CE278 00000000
++Magnet Effect On AI {<I>When The Player Is Close The AI Is Rejected Or Attracted</I>}
+%Credits: luc-ita
+$201EA510 00000000
++Max Miles After Buying An Item
+%Credits: Codejunkies
+$201A1C60 3C014FAB
+$201A1C64 AE610024
++Quick Score Gain
+%Credits: Codejunkies
+$2028FAF8 3C0144C8
++Rivals And AI Don't Move
+%Credits: luc-ita
+$201EADC4 00000000
++Rivals And AI Don't Move - Alternative Code
+%Credits: luc-ita
+$201E44A4 AE0001C4
+$201E456C AE0001C4
+$201E45DC AE0001C4
+$201E45F0 AE0001C4
+!!
+

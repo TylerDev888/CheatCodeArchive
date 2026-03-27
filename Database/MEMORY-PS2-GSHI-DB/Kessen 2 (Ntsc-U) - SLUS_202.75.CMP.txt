@@ -1,0 +1,99 @@
+^3 = NAME: Kessen 2 (Ntsc-U)
+^2 = GameID: SLUS-20275
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0112FBC 00112FBF
++(M)Must Be On
+%Credits: InterAct
+$F014CB00 00112FBF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00112FBF
+!!
+!Cao Cao Codes:
++Max Supply
+%Credits: Code Master
+$006968C6 00000064
++Max Technology
+%Credits: Code Master
+$006968C7 00000064
++Max Troop Strength
+%Credits: Code Master
+$006968C5 00000064
++No Supply
+%Credits: Code Master
+$006968C6 00000000
++No Technology
+%Credits: Code Master
+$006968C7 00000000
++No Troop Strength
+%Credits: Code Master
+$006968C5 00000000
+!!
+!Cao Codes:
++Cao: Max Supply
+%Credits: InterAct
+$006968C6 00000078
++Cao: Max Technology
+%Credits: InterAct
+$006968C7 00000078
++Cao: Max Troop Str
+%Credits: InterAct
+$006968C5 00000078
++Max Troop Strength
+%Credits: InterAct
+$20C9156C 64DA2941
++No Troop Strength
+%Credits: InterAct
+$20C9156C 64DA29E9
+!!
+!Liu Bei Codes:
++Max Supply
+%Credits: Code Master
+$006968C2 00000064
++Max Technology
+%Credits: Code Master
+$006968C3 00000064
++Max Troop Strength
+%Credits: Code Master
+$006968C1 00000064
++No Supply
+%Credits: Code Master
+$006968C2 00000000
++No Technology
+%Credits: Code Master
+$006968C3 00000000
++No Troop Strength
+%Credits: Code Master
+$006968C1 00000000
+!!
+!Liu Codes:
++Liu: Max Super Supply
+%Credits: InterAct
+$006968C2 00000096
++Liu: Max Super Technology
+%Credits: InterAct
+$006968C3 00000096
++Liu: Max Super Troop Str
+%Credits: InterAct
+$006968C1 00000096
++Liu: Max Supply
+%Credits: InterAct
+$006968C2 00000078
++Liu: Max Technology
+%Credits: InterAct
+$006968C3 00000078
++Liu: Max Troop Str
+%Credits: InterAct
+$006968C1 00000078
+!!
+!Lui Codes:
++Max Troop Strength
+%Credits: InterAct
+$20C91568 64DA2941
++Super Troop Strength
+%Credits: InterAct
+$20C91568 64DA2967
+!!
+

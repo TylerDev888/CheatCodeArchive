@@ -1,0 +1,66 @@
+^3 = NAME: Dancing Stage Fever (Pal-Unk)
+^2 = GameID: SLES-51757
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F010DD6C 0010DD6F
+!!
++Full Gauge After 1 Miss
+%Credits: Codejunkies
+$20149A58 24030400
++Max Almost
+%Credits: Codejunkies
+$1058F400 000003E7
++Max Boo
+%Credits: Codejunkies
+$1058F404 000003E7
++Max Good
+%Credits: Codejunkies
+$1058F3FC 000003E7
++Max Great
+%Credits: Codejunkies
+$1058F3F8 000003E7
++Max O.K
+%Credits: Codejunkies
+$1058F408 000003E7
++Max Perfect
+%Credits: Codejunkies
+$1058F3F4 000003E7
++Max Score (Both Players)
+%Credits: Codejunkies
+$201493C4 3C0305FA
++No Almost
+%Credits: Codejunkies
+$1058F400 00000000
++No Boo
+%Credits: Codejunkies
+$1058F404 00000000
++No Good
+%Credits: Codejunkies
+$1058F3FC 00000000
++No Great
+%Credits: Codejunkies
+$1058F3F8 00000000
++No O.K
+%Credits: Codejunkies
+$1058F408 00000000
++P1 Always Low Speed
+%Credits: Codejunkies
+$1058F3B8 0000C000
++P1 Always Ultra Fast Speed
+%Credits: Codejunkies
+$1058F3B8 0000CFAB
++P2 Always Low Speed
+%Credits: Codejunkies
+$105E3650 0000C000
++P2 Always Ultra Fast Speed
+%Credits: Codejunkies
+$105E3650 0000CFAB
++Unlock Tea Pot
+%Credits: Codejunkies
+$20289DA0 DEADC0DE
++Unlock Tea Pot
+%Credits: Codejunkies
+$20289DA0 00000001
+!!
+

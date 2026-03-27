@@ -1,0 +1,40 @@
+^3 = NAME: Vietcong - Purple Haze (Ntsc-U)
+^2 = GameID: SLUS-21068
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F04B7114 004B7117
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 004B7117
++[M] Must Be On
+%Credits: MadCatz
+$9022933C 0C12DBFC
+$200C2000 0220202D
+$200C2004 14060004
+$200C200C E4570008
+$200C2010 0C0DE264
+$200C2018 080DD3E5
+!!
++Infinite Health
+%Credits: MadCatz
+$20374F88 08030800
+$20374F8C 00000000
+$20374F90 00000000
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Extra Ammo
+%Credits: Code Master
+$203A97F0 00661021
++Infinite Ammo
+%Credits: Code Master
+$203A97F8 00000000
++Infinite Health
+%Credits: Code Master
+$203C12B8 3C014BCE
+$203C12BC AC810008
++Never Reload
+%Credits: Code Master
+$203C9B70 00000000
+!!
+!!
+

@@ -1,0 +1,33 @@
+^3 = NAME: Moto GP 4 (Pal-Unk)
+^2 = GameID: SCES-52892
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F026DD10 0026DD13
+!!
++Buy Even Without GP Points
+%Credits: luc-ita
+$201A5B74 10000006
+$201B6894 00000000
++Drive Anywhere (Read Notes) {<I>Don&#39;T Go Too Far Off The Map Or The Game Crashes</I>}
+%Credits: luc-ita
+$202040A0 00000000
++Freeze Challenge Timers
+%Credits: Codejunkies
+$202065C8 00000000
++Freeze Training Timers
+%Credits: Codejunkies
+$201BABF8 00000000
++No Loss Of Speed If You Go Off The Road Or Collide With Walls
+%Credits: luc-ita
+$201FE6E0 00000000
+$20257494 00000000
+$20257474 00000000
++Opponents Don't Move
+%Credits: luc-ita
+$202033D0 10000261
++Spend Some GP For Lots Of Current GP
+%Credits: Codejunkies
+$201B688C 3C0F000F
+!!
+

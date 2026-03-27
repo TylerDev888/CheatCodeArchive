@@ -1,0 +1,22 @@
+^3 = NAME: Bass Strike (Pal-Unk)
+^2 = GameID: SLES-50512
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01000A0 0011102F
++(M) Must Be On
+%Credits: Codejunkies
+$F011102C 0011102F
+!!
++Opponent Has 0 Fish
+%Credits: Codejunkies
+$203B846C 00000000
++P1 Has 5 Fish - Arcade
+%Credits: Codejunkies
+$203B8464 00000005
++P1 Has Big Weight - Press L2
+%Credits: Codejunkies
+$102B20C6 0000FEFF
+$203B844C 000007D0
+!!
+

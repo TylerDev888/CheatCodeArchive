@@ -1,0 +1,19 @@
+^2 = GameID: RQWEG9
+^3 = NAME: Puzzle Quest: Challenge of the Warlords
++Inf Money In Citadel
+%Credits: Skiller
+$0403E824 60000000
++Enemy First, Press - To Keep The Turn On You{If Its Your Turn First You Will Not Need To Press - If Enemy Has First Move Then Press The - To Make It Always Your Turn Once His Ends.}
+%Credits: Skiller
+$283124E0 00001000
+$040F28D8 3C000001
+$CC000000 00000001
+$040F28D8 3C000000
+$E0000000 80008000
++Enemy Instant Death
+%Credits: Skiller
+$C203B1FC 00000004
+$7C1DA800 4182000C
+$60000000 92A30060
+$80030060 60000000
+$60000000 00000000

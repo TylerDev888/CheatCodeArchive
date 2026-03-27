@@ -1,0 +1,493 @@
+^3 = NAME: Capcom Vs. SNK 2 - Mark Of The Millennium 2001 (Ntsc-U)
+^2 = GameID: SLUS-20246
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F010DE8C 0010DE8F
++(M) Must Be On
+%Credits: Codejunkies
+$F0145118 0010DE8F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0010DE8F
+!!
++All Attacks Hurt P1
+%Credits: Code Master
+$2014BB08 3C010048
+$2014BB14 842418C4
+$2014BB20 A42318C4
++All Attacks Hurt P2
+%Credits: Code Master
+$2014BB08 3C010048
+$2014BB14 84241E94
+$2014BB20 A4231E94
++Easier Special Moves {<I>Just Do The Motion To Pull Off The Move. The Moves Depends On The Groove You Choose</I>}
+%Credits: nolberto82
+$ECB4440A 1E0D872C
+$7E612AB4 62363D23
++Extra Options
+%Credits: InterAct
+$10517B9E 00000101
++Groove Edit
+%Credits: InterAct
+$00517B5D 00000001
++Have S. Akuma & U. Rugal
+%Credits: Code Master
+$103F2514 0000FFFF
+!Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$104818C4 00003200
+$104818C6 00003200
+$104818C8 00003200
++Infinite Health
+%Credits: Codejunkies
+$10481E94 00003200
+$10481E96 00003200
+$10481E98 00003200
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$104818C4 00000C80
+$104818C4 00000C80
+$104818C6 00000C80
+$104818C6 00000C80
+$104818C8 00000C80
+$104818C8 00000C80
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$10481E94 00000C80
+$10481E94 00000C80
+$10481E96 00000C80
+$10481E96 00000C80
+$10481E98 00000C80
+$10481E98 00000C80
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$104818C4 00001900
+$104818C4 00001900
+$104818C6 00001900
+$104818C6 00001900
+$104818C8 00001900
+$104818C8 00001900
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$10481E94 00001900
+$10481E94 00001900
+$10481E96 00001900
+$10481E96 00001900
+$10481E98 00001900
+$10481E98 00001900
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$104818C4 00002580
+$104818C4 00002580
+$104818C6 00002580
+$104818C6 00002580
+$104818C8 00002580
+$104818C8 00002580
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$10481E94 00002580
+$10481E94 00002580
+$10481E96 00002580
+$10481E96 00002580
+$10481E98 00002580
+$10481E98 00002580
++One Hit Kills
+%Credits: Codejunkies
+$104818C8 00000001
++One Hit Kills
+%Credits: Codejunkies
+$10481E98 00000001
++Super Jumps
+%Credits: Codejunkies
+$E0020020 204817C2
+$E0010000 204817C4
+$104817C2 000000B0
++Super Jumps
+%Credits: Codejunkies
+$E0020020 20481D92
+$E0010000 20481D94
+$10481D92 000000B0
++Warp To The Left {<I>Press Select+R2 To Activate.</I>}
+%Credits: Codejunkies
+$D045F852 0000FDFE
+$104817BE 0000FE80
++Warp To The Left {<I>Press Select+R2 To Activate.</I>}
+%Credits: Codejunkies
+$D045F7F2 0000FDFE
+$10481D8E 0000FE80
++Warp To The Right {<I>Press Select+R1 To Activate.</I>}
+%Credits: Codejunkies
+$D045F7F2 0000F7FE
+$10481D8E 00000200
++Warp To The Right {<I>Press Select+R2 To Activate.</I>}
+%Credits: Codejunkies
+$D045F852 0000F7FE
+$104817BE 00000200
++You Can Only Use Throws {<I>This Disables All Moves Other Than Throws In Each Bout.</I>}
+%Credits: Codejunkies
+$2014D510 80820000
+$2014D528 80A20000
+$2014D540 84830000
+$2014D544 84A20000
+$2014D630 80820000
+$2014D648 80A20000
+!!
++Hidden Message
+%Credits: InterAct
+$203CAEE0 61472041
+$203CAEE4 6853656D
+$203CAEE8 206B7261
+$103CAEEC 00002032
++Hit Anywhere (Both Players)
+%Credits: Code Master
+$201464CC 00000000
++Hit Anywhere (P1 Only)
+%Credits: Code Master
+$201464C8 0232102B
+$201464CC 14400024
++Hit Anywhere (P2 Only)
+%Credits: Code Master
+$201464C8 0232102B
+$201464CC 10400024
++Low Survival Time
+%Credits: InterAct
+$2049D4CC 00000000
++Max Groove Points
+%Credits: InterAct
+$20481CB0 0098967F
+!Miscellaneous Codes:
++Background Modifier (Training Mode) {<I>A5 - Aomori<Br>A6 - Shanghai<Br>A7 - Nairobi<Br>A8 - Kinderdijk<Br>A1 - London<Br>A2 - Barentsburg<Br>A3 - New York<Br>A4 - Osaka (Arena)<Br>9D - Osaka (Temple Roof)<Br>9E - Osaka (Destroyed City)<Br>9F - Osaka (Training Room)</I>}
+%Credits: HackFreak
+$003F2564 000000??
++Press L3 For Slow Motion/R3 For Normal Speed {<I>A5 - Aomori<Br>A6 - Shanghai<Br>A7 - Nairobi<Br>A8 - Kinderdijk<Br>A1 - London<Br>A2 - Barentsburg<Br>A3 - New York<Br>A4 - Osaka (Arena)<Br>9D - Osaka (Temple Roof)<Br>9E - Osaka (Destroyed City)<Br>9F - Osaka (Training Room)</I>}
+%Credits: HackFreak
+$200C0220 3C080080
+$200C0224 1D00FFFF
+$200C0228 2508FFFF
+$200C022C 03E00008
+$D045F852 0000FFFD
+$2010DEA4 08030088
+$D045F852 0000FFFB
+$2010DEA4 03E00008
++Press Select+Left To Disable Background/Select+Right To Enable Background
+%Credits: HackFreak
+$D045F852 0000FF7E
+$201788C8 00000000
+$D045F852 0000FFDE
+$201788C8 0C05E338
+!!
++No Groove Edit Cap
+%Credits: InterAct
+$00517AB6 00000001
++P1 Can Hit Anywhere, P2 Can't Hit At All
+%Credits: Code Master
+$2014D510 03E00008
+$2014D514 0085102B
+$2014D630 03E00008
+$2014D634 0085102B
++P1 Can Throw Anywhere, P2 Can't Throw At All
+%Credits: Code Master
+$202965F0 03E00008
+$202965F4 0085102B
++P1 Infinite Groove Time
+%Credits: Code Master
+$20481988 000003E8
++P1 Infinite Guard Crash
+%Credits: Code Master
+$10481928 00003030
++P1 Infinite Health
+%Credits: Code Master
+$204818C4 36003600
+$104818C8 00003600
++P1 Large Jumps
+%Credits: Code Master
+$1048181C 00001000
++P1 No Groove
+%Credits: Code Master
+$20481960 00000000
++P1 No Groove Time
+%Credits: Code Master
+$20481988 00000000
++P1 No Guard Crash
+%Credits: Code Master
+$10481928 00000000
++P1 Press L1+L2+Select To War To Middle Of The Screen
+%Credits: Code Master
+$D045F852 0000FAFE
+$104817BE 00000000
++P1 Press L1+Select To Warp To Right Side Of The Screen
+%Credits: Code Master
+$D045F852 0000FBFE
+$104817BE 00000200
++P1 Press L2+Select To Warp To Left Side Of The Screen
+%Credits: Code Master
+$D045F852 0000FEFE
+$104817BE 0000FE00
++P1 Super Jumping Ability
+%Credits: Code Master
+$D04817C2 00300030
+$104817C2 000000C0
++P1 Super Jumps
+%Credits: InterAct
+$D04817C2 00300020
+$104817C2 000000B0
++P1 Very Large Jumps
+%Credits: Code Master
+$1048181C 0000F000
++P1: All Guard
+%Credits: InterAct
+$0049D49E 00000002
++P1: All Parry (P)
+%Credits: InterAct
+$0049D49E 00000004
++P1: Auto Guard
+%Credits: InterAct
+$0049D49E 00000001
++P1: Auto Just Defend (K)
+%Credits: InterAct
+$0049D49E 00000006
++P1: Auto Parry (P)
+%Credits: InterAct
+$0049D49E 00000005
++P1: Can Air Block
+%Credits: InterAct
+$0048196D 00000001
++P1: Can Cancel Any
+%Credits: InterAct
+$00481970 00000001
++P1: Can Counter Attack
+%Credits: InterAct
+$00481971 00000001
++P1: Can Counter Movement
+%Credits: InterAct
+$00481972 00000001
++P1: Can Dodge
+%Credits: InterAct
+$00481968 000000FF
++P1: Can Parry
+%Credits: InterAct
+$0048196B 00000001
++P1: Can Run
+%Credits: InterAct
+$00481965 000000FF
++P1: Can Small Jump
+%Credits: InterAct
+$0048196E 00000001
++P1: Can Super Cancel
+%Credits: InterAct
+$0048196F 00000001
++P1: Groove Recover
+%Credits: InterAct
+$0049D4A0 00000002
++P1: Has 'A' Gauge
+%Credits: InterAct
+$00481969 00000001
++P1: Has 'C' Gauge
+%Credits: InterAct
+$00481969 00000000
++P1: Has 'K' Gauge
+%Credits: InterAct
+$00481969 00000005
++P1: Has 'N' Gauge
+%Credits: InterAct
+$00481969 00000004
++P1: Has 'P' Gauge
+%Credits: InterAct
+$00481969 00000002
++P1: Has 'S' Gauge
+%Credits: InterAct
+$00481969 00000003
++P1: Has No Gauge
+%Credits: InterAct
+$00481969 000000FF
++P1: Health Recover
+%Credits: InterAct
+$0049D4A2 00000002
++P1: Infinite Groove
+%Credits: InterAct
+$0049D4A0 00000003
++P1: Infinite Guard Crash
+%Credits: InterAct
+$0049D4C8 00000002
++P1: Infinite Health
+%Credits: InterAct
+$0049D4A2 00000003
++P1: No Blocking
+%Credits: InterAct
+$0049D49E 0000000D
++P1: No Guard Crash Recover
+%Credits: InterAct
+$0049D4C8 00000001
++P2 Can Hit Anywhere, P1 Can't Hit At All
+%Credits: Code Master
+$2014D510 03E00008
+$2014D514 00A4102B
+$2014D630 03E00008
+$2014D634 00A4102B
++P2 Can Throw Anywhere, P1 Can't Throw At All
+%Credits: Code Master
+$202965F0 03E00008
+$202965F4 00A4102B
++P2 Infinite Groove Time
+%Credits: Code Master
+$20481F58 000003E8
++P2 Infinite Guard Crash
+%Credits: Code Master
+$10481EF8 00003030
++P2 Infinite Health
+%Credits: Code Master
+$20481E94 36003600
+$10481E98 00003600
++P2 Large Jumps
+%Credits: Code Master
+$10481DEC 00001000
++P2 No Groove
+%Credits: Code Master
+$20481F30 00000000
++P2 No Groove Time
+%Credits: Code Master
+$20481F58 00000000
++P2 No Guard Crash
+%Credits: Code Master
+$10481EF8 00000000
++P2 Press L1+L2+Select To War To Middle Of The Screen
+%Credits: Code Master
+$D045F7F2 0000FAFE
+$10481D8E 00000000
++P2 Press L1+Select To Warp To Right Side Of The Screen
+%Credits: Code Master
+$D045F7F2 0000FBFE
+$10481D9E 00000200
++P2 Press L2+Select To Warp To Left Side Of The Screen
+%Credits: Code Master
+$D045F7F2 0000FEFE
+$10481D8E 0000FE00
++P2 Super Jumping Ability
+%Credits: Code Master
+$D0481D92 00300030
+$10481D92 000000C0
++P2 Super Jumps
+%Credits: InterAct
+$D0481D92 00300020
+$10481D92 000000B0
++P2 Very Large Jumps
+%Credits: Code Master
+$10481DEC 0000F000
++P2: All Guard
+%Credits: InterAct
+$0049D49F 00000002
++P2: All Parry (P)
+%Credits: InterAct
+$0049D49F 00000004
++P2: Auto Guard
+%Credits: InterAct
+$0049D49F 00000001
++P2: Auto Just Defend (K)
+%Credits: InterAct
+$0049D49F 00000006
++P2: Auto Parry (P)
+%Credits: InterAct
+$0049D49F 00000005
++P2: Groove Recover
+%Credits: InterAct
+$0049D4A1 00000002
++P2: Health Recover
+%Credits: InterAct
+$0049D4A3 00000002
++P2: Infinite Groove
+%Credits: InterAct
+$0049D4A1 00000003
++P2: Infinite Guard Crash
+%Credits: InterAct
+$0049D4C9 00000002
++P2: Infinite Health
+%Credits: InterAct
+$0049D4A3 00000003
++P2: No Blocking
+%Credits: InterAct
+$0049D49F 0000000D
++P2: No Gate Crash Recover
+%Credits: InterAct
+$0049D4C9 00000001
+!Player 1 Codes:
++P1 Always Uses ? Groove Modifier {<I>A5 - C Groove<Br>A6 - A Groove<Br>A7 - P Groove<Br>A8 - S Groove<Br>A1 - N Groove<Br>A2 - K Groove<Br>A3 - Ex1 Groove<Br>A4 - Ex2 Groove</I>}
+%Credits: HackFreak
+$00481CAC 000000??
++P1 Can Do Air Moves
+%Credits: HackFreak
+$004818D7 00000000
++P1 Character Modifier (All Modes)
+%Credits: HackFreak
+$00481C9C 000000??
++P1 Character Modifier (Training Mode) {<I>A5 - Ryu<Br>A6 - Ken<Br>A7 - Chun-Li<Br>A8 - Guile<Br>A1 - Zangief<Br>A2 - Dhalsim<Br>A3 - E.Honda<Br>A4 - Blanka<Br>9D - Vega<Br>9E - Sagat<Br>9F - M. Bison<Br>A0 - Sakura<Br>99 - Cammy<Br>9A - Akuma<Br>9B - Morrigan<Br>9C - Evil Ryu<Br>B5 - Kyo<Br>B6 - Iori<Br>B7 - Terry<Br>B8 - Ryo<Br>B1 - Mai<Br>B2 - Kim<Br>B3 - Geese<Br>B4 - Yamazaki<Br>AD - Raiden<Br>AE - Rugal<Br>AF - Vice<Br>B0 - Benimaru<Br>A9 - Yuri<Br>AA - King<Br>AB - Nakoruru<Br>AC - Evil Iori<Br>C5 - Balrog<Br>C6 - Dan<Br>C7 - Joe<Br>C8 - Eagle<Br>C1 - Maki<Br>C2 - Kyosuke<Br>C3 - Athena<Br>C4 - Chang<Br>BD - Todo<Br>BE - Rock<Br>BF - Hibiki<Br>C0 - Haohmaru<Br>B9 - Yun<Br>BA - Shin Akuma<Br>BB - Ultimate Rugal<Br>BC - Rolento</I>}
+%Credits: HackFreak
+$00481781 000000??
++P1 Invisible
+%Credits: HackFreak
+$004817CB 00000000
++P1-2 Character Modifier (For Ratio And 3 On 3 Matches)
+%Credits: HackFreak
+$00481C9D 000000??
++P1-3 Character Modifier (For Ratio And 3 On 3 Matches)
+%Credits: HackFreak
+$00481C9E 000000??
+!!
++Player 1 Infinite Groove Time
+%Credits: InterAct
+$20481988 0000036A
+!Player 2 Codes:
++P2 Always Uses ? Groove Modifier
+%Credits: HackFreak
+$0048227C 000000??
++P2 Can Do Air Moves
+%Credits: HackFreak
+$00481EA7 00000000
++P2 Character Modifier (All Modes)
+%Credits: HackFreak
+$0048226C 000000??
++P2 Character Modifier (Training Mode)
+%Credits: HackFreak
+$00481D51 000000??
++P2 Invisible
+%Credits: HackFreak
+$00481D9B 00000000
++P2-2 Character Modifier (For Ratio And 3 On 3 Matches)
+%Credits: HackFreak
+$0048226D 000000??
++P2-3 Character Modifier (For Ratio And 3 On 3 Matches)
+%Credits: HackFreak
+$0048226E 000000??
+!!
++Player 2 Infinite Groove Time
+%Credits: InterAct
+$20481F58 0000036A
++Press L1 For Red/L2 Blue Pill
+%Credits: InterAct
+$E004FBFF 0045F852
+$30500000 004817C8
+$00050000 00000000
+$E004FBFF 0045F852
+$30500000 004817CC
+$00050000 00000000
+$E004FBFF 0045F852
+$30500000 004817D0
+$00050000 00000000
+$E004FEFF 0045F852
+$30600000 004817C8
+$00050000 00000000
+$E004FEFF 0045F852
+$30600000 004817CC
+$00050000 00000000
+$E004FEFF 0045F852
+$30600000 004817D8
+$00050000 00000000
++Same Characters
+%Credits: InterAct
+$00517B9C 00000001
++Throw Anywhere (Both Players)
+%Credits: Code Master
+$20296694 24020001
+!!
+

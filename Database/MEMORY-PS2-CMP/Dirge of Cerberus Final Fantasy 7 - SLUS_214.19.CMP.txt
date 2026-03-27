@@ -1,0 +1,366 @@
+^1 = Hash: F6 A7 F5 03 69 A4 74 AD B7 D4 C9 05 E9 7C 9B 17 F8 DA 09 CC 
+^2 = GameID: SLUS_214.19
+^3 = NAME: Dirge of Cerberus: Final Fantasy 7
+!Masters:
++Enable Code (MUST BE ON)
+$903A6D10 0C0E9AEC
+!!
++Unlock Everything In Any Mode (can Save)
+$404B6D40 002E0001
+$FFFFFFFF 00000000
+!Item Mods:
++Slot 1
+$20A0B000 [ITEMS]
++Slot 2
+$20A0B00C [ITEMS]
++Slot 3
+$20A0B018 [ITEMS]
++Slot 4
+$20A0B024 [ITEMS]
++Slot 5
+$20A0B030 [ITEMS]
++Slot 6
+$20A0B03C [ITEMS]
++Slot 7
+$20A0B048 [ITEMS]
++Slot 8
+$20A0B054 [ITEMS]
++Slot 9
+$20A0B060 [ITEMS]
++Slot 10
+$20A0B06C [ITEMS]
++Slot 11
+$20A0B078 [ITEMS]
++Slot 12
+$20A0B084 [ITEMS]
++Slot 13
+$20A0B090 [ITEMS]
++Slot 14
+$20A0B09C [ITEMS]
++Slot 15
+$20A0B0A8 [ITEMS]
++Slot 16
+$20A0B0B4 [ITEMS]
++Slot 17
+$20A0B0C0 [ITEMS]
++Slot 18
+$20A0B0CC [ITEMS]
++Slot 19
+$20A0B0D8 [ITEMS]
++Slot 20
+$20A0B0E4 [ITEMS]
++Slot 21
+$20A0B0F0 [ITEMS]
++Slot 22
+$20A0B0FC [ITEMS]
++Slot 23
+$20A0B108 [ITEMS]
++Slot 24
+$20A0B114 [ITEMS]
++Slot 25
+$20A0B120 [ITEMS]
++Slot 26
+$20A0B12C [ITEMS]
++Slot 27
+$20A0B138 [ITEMS]
++Slot 28
+$20A0B144 [ITEMS]
++Slot 29
+$20A0B150 [ITEMS]
++Slot 30
+$20A0B15C [ITEMS]
++Slot 31
+$20A0B168 [ITEMS]
++Slot 32
+$20A0B174 [ITEMS]
++Slot 33
+$20A0B180 [ITEMS]
++Slot 34
+$20A0B18C [ITEMS]
++Slot 35
+$20A0B198 [ITEMS]
++Slot 36
+$20A0B1A4 [ITEMS]
++Slot 37
+$20A0B1B0 [ITEMS]
++Slot 38
+$20A0B1BC [ITEMS]
++Slot 39
+$20A0B1C8 [ITEMS]
++Slot 40
+$20A0B1D4 [ITEMS]
++Slot 41
+$20A0B1E0 [ITEMS]
++Slot 42
+$20A0B1EC [ITEMS]
++Slot 43
+$20A0B1F8 [ITEMS]
++Slot 44
+$20A0B204 [ITEMS]
++Slot 45
+$20A0B210 [ITEMS]
++Slot 46
+$20A0B21C [ITEMS]
++Slot 47
+$20A0B228 [ITEMS]
++Slot 48
+$20A0B234 [ITEMS]
++Slot 49
+$20A0B240 [ITEMS]
++Slot 50
+$20A0B24C [ITEMS]
++Slot 51
+$20A0B258 [ITEMS]
++Slot 52
+$20A0B264 [ITEMS]
++Slot 53
+$20A0B270 [ITEMS]
++Slot 54
+$20A0B27C [ITEMS]
++Slot 55
+$20A0B288 [ITEMS]
++Slot 56
+$20A0B294 [ITEMS]
++Slot 57
+$20A0B2A0 [ITEMS]
++Slot 58
+$20A0B2AC [ITEMS]
++Slot 59
+$20A0B2B8 [ITEMS]
++Slot 60
+$20A0B2C4 [ITEMS]
+!!
+^6 = MODS:
+[ITEMS]
+VALUE>NAME>TYPE
+69300000	Potion	Items
+69300001	Hi-Potion	Items
+69300002	X-Porion	Items
+69300003	Elixir	Items
+69300004	Phoenix Down	Items
+69300005	Phoenix Pinion	Items
+69300006	Hero Tonic	Items
+69300007	Hero Tonic Gold	Items
+69300008	Limitizer	Items
+69300009	Limitizer Sp	Items
+69320000	Potion	Items
+69320001	Hi-Potion	Items
+69320002	X-Porion	Items
+69320003	Elixir	Items
+69320004	Phoenix Down	Items
+69320005	Phoenix Pinion	Items
+62300000	Handgun Bullets	Ammo
+62300001	Rigle Bullets	Ammo
+62300002	Machine Gun Bullets	Ammo
+62300003	Death Penalty Bullets	Ammo
+70300000	Cerberus 	Frames
+70300001	Cerberus 2	Frames
+70300002	Cerberus 3	Frames
+70300003	P Cerberus	Frames
+70300004	P Cerberus Gamma	Frames
+70300005	Powered Cerberus	Frames
+70300006	S Cerberus	Frames
+70300007	S Cerberus Gamma	Frames
+70300008	Hydra	Frames
+70300009	Hydra 2	Frames
+7030000A	Hydra 3	Frames
+7030000B	P Hydra	Frames
+7030000C	P Hydra Gamma	Frames
+7030000D	Gigant Hydra	Frames
+7030000E	S Hydra	Frames
+7030000F	S Hydra Gamma	Frames
+70300010	Griddon	Frames
+70300011	Griddon 2	Frames
+70300012	P Griddon	Frames
+70300013	P Griddon Beta	Frames
+70300014	P Griddon Gamma	Frames
+70300015	Dueling Griddon	Frames
+70300016	S Griddon	Frames
+70300017	S Griddon Beta	Frames
+70350000	Death Penalty	Frames
+70350001	Gatling Gun	Frames
+6F350000	Gatling Gun	Frames
+6F300000	One Eighty	Frames
+6F300001	Three Sixty	Frames
+6F300002	Five Fourty	Frames
+6F300003	Seven Twenty	Frames
+6F300004	Caballerial	Frames
+6F300005	Steelfish	Frames
+6F300006	Alley-oop	Frames
+6F300007	Elgarial	Frames
+6F300008	Miller Flip	Frames
+6F300009	Broken Handgun	Frames
+6F30000A	Scarlet Custom	Frames
+6F30000B	Tomin	Frames
+6F30000C	Balmen	Frames
+6F30000D	Bror	Frames
+6F30000E	Clynel	Frames
+6F30000F	Caol	Frames
+6F300010	Tlemill	Frames
+6F300011	RingBank	Frames
+6F300012	Ockdhu	Frames
+6F300013	Farran	Frames
+6F300014	Nelson	Frames
+6F300015	Stenberg	Frames
+6F300016	Ullman	Frames
+6F300017	Foresythe	Frames
+6F300018	Grogono	Frames
+6F300019	Terashima	Frames
+6F30001A	Smith	Frames
+6F30001B	Revis	Frames
+6F30001C	Hopcroft	Frames
+70310000	Normal Barrel 	Barrel
+70310001	Normal Barrel 2	Barrel
+70310002	Normal Barrel 3	Barrel
+70310003	Normal Barrel Beta	Barrel
+70310004	Normal Barrel Gamma	Barrel
+70310005	Master N Barrel	Barrel
+70310006	Guard N Barrel	Barrel
+70310008	Long Barrel	Barrel
+70310009	Long Barrel 2	Barrel
+7031000A	Long Barrel 3	Barrel
+7031000B	Long Barrel Beta	Barrel
+7031000C	Long Barrel Gamma	Barrel
+7031000D	Nova L Barrel	Barrel
+7031000E	Faerie L Barrel	Barrel
+70310010	Short Barrel	Barrel
+70310011	Short Barrel 2	Barrel
+70310012	Short Barrel 3	Barrel
+70310013	Short Barrel Beta	Barrel
+70310014	Short Barrel Gamma	Barrel
+70310015	Gale S Barrel	Barrel
+70310016	Lucky S Barrel	Barrel
+6F310000	Vernis	Barrel
+6F310001	Vernis Prime	Barrel
+6F310002	Vernis X	Barrel
+6F310003	Rouge	Barrel
+6F310004	Rouge Prime	Barrel
+6F310005	Rouge X	Barrel
+6F310006	Parfum	Barrel
+6F310007	Parfum Prime	Barrel
+6F310008	Parfum X	Barrel
+70320000	Sniper Scope	Scopes
+70320001	Sniper Scope	Scopes
+70320003	Auto Scope	Scopes
+70320006	Mareria Floater	Scopes
+70320007	S Auto Scope	Scopes
+70320008	Materia Floater Gamma	Scopes
+6F320000	Auto Scope	Scopes
+6F320001	Auto Scope Revo	Scopes
+6F320002	Sniper Scope	Scopes
+6F320003	Mareria Floater	Scopes
+6F320004	S Auto Scope	Scopes
+70330000	Manaheart	Optional Attachments
+70330001	Manamind	Optional Attachments
+70330002	ManaSoul	Optional Attachments
+70330003	Power Boost	Optional Attachments
+70330004	Power Boost Beta	Optional Attachments
+70330005	Power Boost Gamma	Optional Attachments
+70330006	Gravity Floater	Optional Attachments
+70330007	Gravity Floater Beta	Optional Attachments
+70330008	Gravity Floater Gamma	Optional Attachments
+70330009	Auto Reloader	Optional Attachments
+7033000C	Materia Booster	Optional Attachments
+7033000D	Materia Booster Gamma	Optional Attachments
+6F330000	Power Boost	Optional Attachments
+6F330001	Power Boost Revo	Optional Attachments
+6F330002	Auto Reloader	Optional Attachments
+6F330003	Rapidfire Unit	Optional Attachments
+6F330004	Rapidfire Unit Revo	Optional Attachments
+6F330005	Gravity Floater	Optional Attachments
+6F330006	Materia Booster	Optional Attachments
+6F330007	Materia Booster Beta	Optional Attachments
+70340000	Motion Detector	Accessory Parts
+70340001	Item Radar	Accessory Parts
+70340002	Composite Radar	Accessory Parts
+70340003	Quickturn	Accessory Parts
+70340004	Cerberus Relief	Accessory Parts
+70340005	Cerberus Relief Beta	Accessory Parts
+70340006	Cerberus Relief Gamma	Accessory Parts
+70340007	M Cerberus	Accessory Parts
+70340008	M Cerberus Gamma	Accessory Parts
+70340009	M Hydra	Accessory Parts
+7034000A	M Hydra Gamma	Accessory Parts
+7034000B	Velvet Hydra	Accessory Parts
+7034000C	M Griffon	Accessory Parts
+7034000D	M Griffon Beta	Accessory Parts
+7034000E	M Griffon Gamma	Accessory Parts
+7034000F	Starry Griffon	Accessory Parts
+70340013	S Adjuster	Accessory Parts
+70340014	S Adjuster Gamma	Accessory Parts
+70340016	M Adjuster	Accessory Parts
+70340017	M Adjuster Gamma	Accessory Parts
+70340019	L Adjuster	Accessory Parts
+7034001A	L Adjuster Gamma	Accessory Parts
+70340022	Power Cross	Accessory Parts
+70340023	Power Cross Beta	Accessory Parts
+70340024	Power Cross Gamma	Accessory Parts
+70340027	Recoil Limiter	Accessory Parts
+70340028	Silencer	Accessory Parts
+70340029	EX File 1	Accessory Parts
+7034002A	Ex File 2	Accessory Parts
+7034002B	Ex File 3	Accessory Parts
+7034002F	Fire Materia	Accessory Parts
+70340030	Blizzared Materia	Accessory Parts
+70340031	Thunder Materia	Accessory Parts
+70340032	Fire Materia	Accessory Parts
+70340033	Blizzared Materia	Accessory Parts
+70340034	Thunder Materia	Accessory Parts
+70340035	Cure Materia	Accessory Parts
+70340036	Blind Materia	Accessory Parts
+70340037	Blind Materia	Accessory Parts
+70340038	Grenade Materia	Accessory Parts
+6F340000	Guard Relief	Accessory Parts
+6F340001	Revo Guard Relief	Accessory Parts
+6F340002	Power Cross	Accessory Parts
+6F340003	Power Cross Revo	Accessory Parts
+6F340004	S Adjuster	Accessory Parts
+6F340005	S Adjuster Revo	Accessory Parts
+6F340006	M Adjuster	Accessory Parts
+6F340007	M Adjuster Revo	Accessory Parts
+6F340008	L Adjuster	Accessory Parts
+6F340009	L Adjuster Revo	Accessory Parts
+6F34000A	Recoil Limiter	Accessory Parts
+6F34000B	Silencer	Accessory Parts
+6F34000C	Limit Breaker	Accessory Parts
+6F34000D	Limit Breaker Revo	Accessory Parts
+6F340017	Fire Materia	Accessory Parts
+6F340018	Blizzard Materia	Accessory Parts
+6F340019	Thunder Materia	Accessory Parts
+6F34001A	Cure Materia	Accessory Parts
+6F34001B	Flash Materia	Accessory Parts
+6F34001C	Bind Materia	Accessory Parts
+6F34001D	Grenade Materia	Accessory Parts
+69310000	Omega Report	Key Items/Special
+69310001	Elixor	Key Items/Special
+69310002	Potion	Key Items/Special
+69310003	Rusty Key	Key Items/Special
+69310004	Model Gun	Key Items/Special
+69310005	Silver Model Gun	Key Items/Special
+69310006	Gold Model Gun	Key Items/Special
+69310007	Ultima Weapon	Key Items/Special
+69310008	Mega-Potion	Key Items/Special
+69310009	Red Potion	Key Items/Special
+6931000A	Ether	Key Items/Special
+6931000B	Red Ether	Key Items/Special
+6931000C	Quantum Cerberus	Key Items/Special
+6931000D	Zero Cerberus	Key Items/Special
+6931000E	Feather Hydra	Key Items/Special
+6931000F	S Griffon Gamma	Key Items/Special
+69310010	Sonic Griffon	Key Items/Special
+69310011	Vital Rations	Key Items/Special
+69310012	Spirit Rations	Key Items/Special
+69310013	Top Sectret Files	Key Items/Special
+69310014	Gold Moggle Doll	Key Items/Special
+69310015	Blast Machine gun	Key Items/Special
+69310016	Bayonet Rifle	Key Items/Special
+69310017	G Report	Key Items/Special
+69310018	Shinra Handgun	Key Items/Special
+69310019	Mini Ex Medal	Key Items/Special
+6931001A	Gigas Ex Medal	Key Items/Special
+6931001B	Limit Breaker	Key Items/Special
+6931001C	Mine Detector	Key Items/Special
+6931001D	Silver Moogle Doll	Key Items/Special
+6B300000	Mako Capsule	Key Items/Special
+6B300001	Card Key	Key Items/Special
+[/ITEMS]

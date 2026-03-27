@@ -1,0 +1,30 @@
+^2 = GameID: CUSA01388,CUSA01660,CUSA00836,CUSA02458,CUSA04063
+^3 = NAME: Fat Princess Adventures
+^SECONDLAYER: NO
+^4 = FILE: SAVEDATA00\FILENAME0.DAT
++Mod Money{Warning: Anything Above 2147483647 Becomes Negative}
+%Credits:Dynamite#0001
+$800[Slot<Profile Slot>]0014 66697374
+$00000000 00000000
+$00000000 00000000
+$28000014 [Amount:3B9AC9FF:HEX:BIG<Money>]
++Mod GEMS{Warning: Anything Above 2147483647 Becomes Negative}
+%Credits:Dynamite#0001
+$800[Slot<Profile Slot>]0014 66697374
+$00000000 00000000
+$00000000 00000000
+$28000018 [Amount:3B9AC9FF:HEX:BIG<Gems>]
++Mod EXP{Warning: Anything Above 2147483647 Becomes Negative}
+%Credits:Dynamite#0001
+$800[Slot<Profile Slot>]0014 66697374
+$00000000 00000000
+$00000000 00000000
+$2800001C [Amount:3B9AC9FF:HEX:BIG<Exp>]
+^6 = MODS:
+[Slot]
+Value>Profile Slot
+1	Profile Slot 1
+2	Profile Slot 2
+3	Profile Slot 3
+4	Profile Slot 4
+[/Slot]

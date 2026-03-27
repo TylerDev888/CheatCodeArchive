@@ -1,0 +1,31 @@
+^1 = Hash: AC 9A E8 65 1D 1F FF 27 64 75 80 72 CB BE 2B 24 5D 89 B5 30 
+^2 = GameID: SLUS_218.70 
+^3 = NAME: Monsters Vs. Aliens
+%Credits: Azagthoth>SkillerCMP
+!Masters:
++Enable Code (MUST BE ON)
+$9010FB18 0C043E6E
+!!
+!Jokers:
++Player 1 Controller:
+$D07FF0C2 0000????
+!!
++Skip Fmv
+$201072F0 24020001
++Max Monster Dna
+$209C8F94 3B9AC9FF
++Max Score Points
+$20985B00 3B9AC9FF
++Inf/Max Health
+$109C8FD0 0000270F
+$109C8FD8 0000270F
++Gain 1000dna Each Pickup
+$209C821C 2402270F
++Inf HP
+$209C7344 AC830000
++Inf Gun (asm) Player 2
+$209C7738 E43F8FEC
++Inf Gun Player 2
+$209C8FEC 00000000
++Dna Items Dont Take Money
+$209C7FD8 00000000

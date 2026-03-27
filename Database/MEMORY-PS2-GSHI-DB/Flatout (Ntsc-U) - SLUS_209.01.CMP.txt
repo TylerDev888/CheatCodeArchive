@@ -1,0 +1,309 @@
+^3 = NAME: Flatout (Ntsc-U)
+^2 = GameID: SLUS-20901
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F02CBC68 002CBC6B
++Enable Code (Must Be On)
+%Credits: Code Master
+$901F7BE8 0C0AF7DA
+!!
+!ARMAX FIX:
++FIX
+$E00EF7DA 002CBC68
+$E00D0C0A 002CBC6A
+$20150178 0807BF7C
+$201EFDF0 3C0401E0
+$201EFDF4 3C050008
+$201EFDF8 0C0AF7DA
+$201EFDFC 3C060008
+$201EFE00 0C0B3914
+$201EFE04 0000202D
+$201EFE08 3C0501E0
+$201EFE0C 3C040008
+$201EFE10 0C0AF7DA
+$201EFE14 3C060008
+$201EFE18 08054060
+$201EFE1C 00000000
+!!
+!Bonus Event Modifiers:
++Bowling, Bullseye, & Darts - Max Points Attempt 1
+%Credits: BigBossman
+$20952BC0 0000FFFF
++Bowling, Bullseye, & Darts - Max Points Attempt 2
+%Credits: BigBossman
+$20952BC4 0000FFFF
++Bowling, Bullseye, & Darts - Max Points Attempt 3
+%Credits: BigBossman
+$20952BC8 0000FFFF
++Clown - Max Cash Attempt 1
+%Credits: BigBossman
+$20952C40 0FFFFFFF
++Clown - Max Cash Attempt 2
+%Credits: BigBossman
+$20952C44 0FFFFFFF
++Clown - Max Cash Attempt 3
+%Credits: BigBossman
+$20952C48 0FFFFFFF
++Demolition Arena - Low Total Time
+%Credits: BigBossman
+$2097D2BC 00000000
++High Jump & Long Jump - Max Distance Attempt 1
+%Credits: BigBossman
+$20952BAC 0000FFFF
++High Jump & Long Jump - Max Distance Attempt 2
+%Credits: BigBossman
+$20952BB0 0000FFFF
++High Jump & Long Jump - Max Distance Attempt 3
+%Credits: BigBossman
+$20952BB4 0000FFFF
+!!
++Car In Garage Modifier {<I>Values -<Br>00 - Speedevil<Br>01 - Blade<Br>02 - Pepper<Br>03 - Overrunner<Br>04 - Thunderbolt<Br>05 - Fasthammer<Br>06 - Trasher<Br>07 - Grinder<Br>08 - Blockhead<Br>09 - Road King<Br>0A - Slider<Br>0B - Blocker<Br>0C - Bonecracker<Br>0D - Machine<Br>0E - Bullet<Br>0F - Ranker<Br>10 - Froze</I>}
+%Credits: BigBossman
+$008C9FA4 000000??
+$008CA500 000000??
++Have All Stages Completed 1St
+%Credits: MadCatz
+$20169128 00850821
+$2016912C 24020001
+$20169134 A0220001
++Infinite Nitro
+%Credits: MadCatz
+$2016467C E4410110
++Max Money
+%Credits: MadCatz
+$200C2000 3421967F
+$200C2004 24030001
+$200C201C 03E00008
+$200C2020 8C420098
+$20169730 0C030800
+$20169734 3C010098
+$200C2008 AC410098
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Buying Items Doesn't Decrease Money
+%Credits: Code Master
+$2016923C 00000000
++Buying Items Increases Money
+%Credits: Code Master
+$20169228 00C53021
++Infinite Money
+%Credits: Code Master
+$108CA4FC 0000FFFF
++Max Money
+%Credits: Code Master
+$208CA4FC 05F5E0FF
++Unlock Everything
+%Credits: Code Master
+$408CA590 00040001
+$00000001 00000000
+$408CA550 00100001
+$00000000 00000000
+!!
++Unlock Bonus Class Events & Cars
+%Credits: MadCatz
+$200C2000 3421967F
+$200C2004 24030001
+$200C201C 03E00008
+$200C2020 8C420098
+$20169730 0C030800
+$20169734 3C010098
+$200C2018 AC430138
+!Unlock Bonus Class Race Codes:
++Bowling
+%Credits: Code Master
+$008CA57F 00000000
++Bullseye
+%Credits: Code Master
+$008CA57E 00000000
++Circle Of Eight
+%Credits: Code Master
+$008CA569 00000000
++Clown
+%Credits: Code Master
+$008CA581 00000000
++Crashalley Run
+%Credits: Code Master
+$008CA56B 00000000
++Darts
+%Credits: Code Master
+$008CA580 00000000
++Demolition Dash
+%Credits: Code Master
+$008CA566 00000000
++Demoltion Sandpit
+%Credits: Code Master
+$008CA568 00000000
++Highjump
+%Credits: Code Master
+$008CA564 00000000
++Longjump
+%Credits: Code Master
+$008CA563 00000000
++Super Mud Mayhem
+%Credits: Code Master
+$008CA567 00000000
++Super Roundabout
+%Credits: Code Master
+$008CA56A 00000000
+!!
++Unlock Bronze Class Events & Cars
+%Credits: MadCatz
+$200C2000 3421967F
+$200C2004 24030001
+$200C201C 03E00008
+$200C2020 8C420098
+$20169730 0C030800
+$20169734 3C010098
+$200C200C AC43012C
+!Unlock Bronze Class Race Codes:
++Bay Amateur Run
+%Credits: Code Master
+$008CA557 00000000
++Brad's Pit Crash
+%Credits: Code Master
+$008CA555 00000000
++Brad's Super Dustup
+%Credits: Code Master
+$008CA57C 00000000
++Bunker Challenge
+%Credits: Code Master
+$008CA554 00000000
++Bunker Hill Havoc
+%Credits: Code Master
+$008CA56F 00000000
++Fairgrass Run
+%Credits: Code Master
+$008CA573 00000000
++Finchley Trial Run
+%Credits: Code Master
+$008CA552 00000000
++Woodland Havoc
+%Credits: Code Master
+$008CA551 00000000
++Woodland Mayhem
+%Credits: Code Master
+$008CA56C 00000000
+!!
+!Unlock Class Codes:
++All Classes
+%Credits: Code Master
+$408CA590 00040001
+$00000001 00000000
++Bonus
+%Credits: Code Master
+$208CA59C 00000001
++Bronze
+%Credits: Code Master
+$208CA590 00000001
++Gold
+%Credits: Code Master
+$208CA598 00000001
++Silver
+%Credits: Code Master
+$208CA594 00000001
+!!
++Unlock Gold Class Events & Cars
+%Credits: MadCatz
+$200C2000 3421967F
+$200C2004 24030001
+$200C201C 03E00008
+$200C2020 8C420098
+$20169730 0C030800
+$20169734 3C010098
+$200C2014 AC430134
+!Unlock Gold Class Race Codes:
++Bay Challenge
+%Credits: Code Master
+$008CA559 00000000
++Brad's Sandrun
+%Credits: Code Master
+$008CA570 00000000
++Fairgrass Challenge
+%Credits: Code Master
+$008CA55A 00000000
++Finchley Challenge
+%Credits: Code Master
+$008CA56D 00000000
++Finchley Timberdash
+%Credits: Code Master
+$008CA579 00000000
++Gravel Supersmash
+%Credits: Code Master
+$008CA571 00000000
++Hayville Farmdash
+%Credits: Code Master
+$008CA575 00000000
++Hayville Havoc
+%Credits: Code Master
+$008CA55C 00000000
++Hayville Haystakker
+%Credits: Code Master
+$008CA560 00000000
++Mound Mayhem
+%Credits: Code Master
+$008CA556 00000000
++Redpine Race Dash
+%Credits: Code Master
+$008CA55D 00000000
++Redpine Run
+%Credits: Code Master
+$008CA576 00000000
++Redpine Zero Course
+%Credits: Code Master
+$008CA561 00000000
++Whattahoo Wham
+%Credits: Code Master
+$008CA55B 00000000
++Woodland Challenge
+%Credits: Code Master
+$008CA578 00000000
+!!
++Unlock Silver Class Events & Cars
+%Credits: MadCatz
+$200C2000 3421967F
+$200C2004 24030001
+$200C201C 03E00008
+$200C2020 8C420098
+$20169730 0C030800
+$20169734 3C010098
+$200C2010 AC430130
+!Unlock Silver Class Race Codes:
++Bay Cup Run
+%Credits: Code Master
+$008CA572 00000000
++Bunker Bigbang Run
+%Credits: Code Master
+$008CA57B 00000000
++Fairgrass Cup
+%Credits: Code Master
+$008CA558 00000000
++Gravel Rock Run
+%Credits: Code Master
+$008CA57D 00000000
++Pinewood Challenge
+%Credits: Code Master
+$008CA57A 00000000
++Pinewood Crashcup
+%Credits: Code Master
+$008CA553 00000000
++Pinewood Qualifier
+%Credits: Code Master
+$008CA56E 00000000
++Whattahoo Roadrun
+%Credits: Code Master
+$008CA55F 00000000
++Whattahoo Rush Hour
+%Credits: Code Master
+$008CA574 00000000
++Whitefish Ice Run
+%Credits: Code Master
+$008CA562 00000000
++Whitefish Rally
+%Credits: Code Master
+$008CA55E 00000000
++Whitefish Run
+%Credits: Code Master
+$008CA577 00000000
+!!
+!!
+

@@ -1,0 +1,34 @@
+^3 = NAME: Malice
+!Masters:
++Mastercode
+%Credits: Xploder
+$901556D8 0C049266
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$203E6890 42C60000
+$203E6898 42C60000
++Magic
+%Credits: Xploder
+$203E6724 42C80000
+!!
+!Have:
++All Magic Abilities
+%Credits: Xploder
+$403E644C 00040002
+$40000000 00000000
+!!
+!Unlock:
++All Bonuses
+%Credits: Xploder
+$2010D8EC 24020000
+!!
+!Bonus Games:
++Stop Timer{(NOTE: Timer Must Be Enabled To Start New Game)}
+%Credits: Xploder
+$D03CE102 0000FBFF
+$2013BAAC 24003634
+$D03CE102 0000F7FF
+$2013BAAC 46010001
+!!

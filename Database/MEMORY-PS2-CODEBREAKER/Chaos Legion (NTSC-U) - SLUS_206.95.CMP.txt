@@ -1,0 +1,208 @@
+^1 = HASH: F3B0734E
+^3 = NAME: Chaos Legion
+^2 = GameID: SLUS_206.95
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0200008 002155F7
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$902155F4 0C08802C
+!!
+!Codes:
++Disable FMV
+%Credits: Code Master
+$2020A310 24020001
++Access All Movies
+%Credits: Code Master
+$205C1050 0000000E
++Quick EXP Gain
+%Credits: Code Master
+$105C1444 0000FFFF
++Max EXP
+%Credits: Code Master
+$205C1444 3B9AC9FF
++Max Smash
+%Credits: Code Master
+$205C1448 0000270F
++Always Low Stage Time
+%Credits: Code Master
+$205C1468 00000000
++Always Low Boss Time
+%Credits: Code Master
+$205C146C 00000000
++Max Smash Count
+%Credits: Code Master
+$105C1478 0000270F
++Max Special Monster
+%Credits: Code Master
+$105C147A 0000270F
++Infinite Life
+%Credits: Code Master
+$105A99C4 000003E7
++Max Life
+%Credits: Code Master
+$105C143A 000003E7
++Infinite Soul
+%Credits: Code Master
+$105C13F4 000003E7
++Max Soul
+%Credits: Code Master
+$105C13F6 000003E7
++Have All Legions
+%Credits: Code Master
+$005C13E5 000000FF
++P1 Press X For Moon Jump
+%Credits: Code Master
+$D05C6482 0000BFFF
+$205A7E74 BFC00000
+!!
+!Player Status Codes:
++Max Life
+%Credits: Code Master
+$105C1438 000003E8
++Max Soul
+%Credits: Code Master
+$105C13F8 000005DC
++Max Attack
+%Credits: Code Master
+$105C143C 00005000
++Max Defense
+%Credits: Code Master
+$105C1440 00000000
+!!
+!Max Item Codes:
++EXP Gem (S)
+%Credits: Code Master
+$005C14C1 00000063
++EXP Gem (M)
+%Credits: Code Master
+$005C14C2 00000063
++Life Recovery (S)
+%Credits: Code Master
+$005C14C3 00000063
++Soul Recovery (S)
+%Credits: Code Master
+$005C14C4 00000063
++Life Max Up (S)
+%Credits: Code Master
+$005C14C5 00000001
++Soul Max Up (S)
+%Credits: Code Master
+$005C14C6 00000001
++Attack Up (S)
+%Credits: Code Master
+$005C14C7 00000001
++EXP Gem (L)
+%Credits: Code Master
+$005C14C8 00000063
++Life Recovery (L)
+%Credits: Code Master
+$005C14C9 00000063
++Soul Recovery (L)
+%Credits: Code Master
+$005C14CA 00000063
++EXP Gem (XL)
+%Credits: Code Master
+$005C14CB 00000063
++Sword Crest
+%Credits: Code Master
+$005C14CC 00000001
++Power Crest
+%Credits: Code Master
+$005C14CD 00000001
++Arrow Crest
+%Credits: Code Master
+$005C14CE 00000001
++Shield Crest
+%Credits: Code Master
+$005C14D0 00000001
++Claw Crest
+%Credits: Code Master
+$005C14D1 00000001
++Bomb Crest
+%Credits: Code Master
+$005C14D2 00000001
++Thanatos Chip
+%Credits: Code Master
+$005C14D3 00000009
++Ultimate Crest
+%Credits: Code Master
+$005C14D4 00000001
++Life Max Up (L)
+%Credits: Code Master
+$005C14D5 00000001
++Soul Max Up (L)
+%Credits: Code Master
+$005C14D6 00000001
++Attack Up (L)
+%Credits: Code Master
+$005C14D7 00000001
++Defense Up (S)
+%Credits: Code Master
+$005C14D8 00000001
++Defense Up (L)
+%Credits: Code Master
+$005C14D9 00000001
++Spiritual Gem
+%Credits: Code Master
+$005C14DB 00000063
+!!
+!Legion Codes:
++Legion 1 Modifier
+%Credits: Code Master
+$005C13E4 00000001
+$005C13E6 000000??
++Legion 2 Modifier
+%Credits: Code Master
+$005C13E5 00000001
+$005C13E7 000000??
++Max Legion Attack
+%Credits: Code Master
+$205C1400 77777777
++Max Legion Defense
+%Credits: Code Master
+$205C1404 77777777
++Max Enchant
+%Credits: Code Master
+$205C1408 22222222
++Max Assist
+%Credits: Code Master
+$205C140C 22222222
++Max Force
+%Credits: Code Master
+$205C1410 22222222
+!!
+!Max Legion Exp Codes:
++Guilt
+%Credits: Code Master
+$205C1418 3B9AC9FF
++Hatred
+%Credits: Code Master
+$205C141C 3B9AC9FF
++Malice
+%Credits: Code Master
+$205C1420 3B9AC9FF
++Arrogance
+%Credits: Code Master
+$205C1428 3B9AC9FF
++Flawed
+%Credits: Code Master
+$205C142C 3B9AC9FF
++Blasphemy
+%Credits: Code Master
+$205C1430 3B9AC9FF
++Thanatos
+%Credits: Code Master
+$205C1434 3B9AC9FF
+!!
+^6 = MODS:
+Quantity Digits to Accompany Legion Modifier Codes
+00 - Guilt
+01 - Hatred
+02 - Malice
+03 - Guilt
+04 - Arrogance
+05 - Flawed
+06 - Blasphemy
+07 - Thanatos

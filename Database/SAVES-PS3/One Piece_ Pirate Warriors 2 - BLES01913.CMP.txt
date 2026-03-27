@@ -1,0 +1,144 @@
+^2 = GameID: BLES01913,BLJM60572
+^3 = NAME: One Piece: Pirate Warriors 2
+^4 = FILE: DATA.BIN
++Berry 999999999
+$2000A614 3B9ACA99
+$2000A618 3B9ACA99
++All Coin Star.18 Lv.max
+$4202A1F2 04124301
+$42580010 00000000
++Exp 999999(lv.1-lv.50) - All Characters
+$420000E0 000F423F
+$402F0180 00000000
++Exp 9999999(lv.50-lv.100) - All Characters
+$420000E0 0098967F
+$402F0180 00000000
++Exp 999999 -rufi
+$200000E0 000F423F
++Nakama ! 9999 - All Characters
+$4100474A 0000423F
+$404300F0 00000000
++Nakama ! 9999 - Nami
+$1000492A 0000FFFF
++Growth Limit Break - All Characters
+$400000F8 00000005
+$402F0180 00000000
++Life Attack Defense Hissatsu Max - All Characters
+$400000F8 00000005
+$402F0180 00000000
+$410000E4 00002710
+$402F0180 00000000
+$420000E6 03E803E8
+$402F0180 00000000
+$400000EA 00000004
+$402F0180 00000000
+$400000EC 00000004
+$402F0180 00000000
++Lv.256 *appearance - All Characters
+$400000EB 000000FF
+$402F0180 00000000
++Berry Shop All Unlock
+$4001B600 0000000D
+$40370001 00000000
+$4001B639 0000000D
+$413A0001 00000000
+$4001B796 0000000D
+$402F0001 00000000
++All Characters Unlock
+$410000F9 00001919
+$402F0180 00000000
+$400000FB 00000019
+$402F0180 00000000
+(You can only use 5 Slots but with 15 points.)
++15 Skill Slot Points(if You Can't Add More Skill More Up Or Down.)
+$400000EC 0000000F
+$402F0180 00000000
++Character Modifier:
+$00029AC7 000000[CHAR]
+
+^6 = MODS:
+[CHAR]
+Value>Character
+00=Luffy
+01=Zoro
+02=Nami
+03=Usopp
+04=Sanji
+05=Chopper
+06=Robin
+07=Franky
+08=Brook
+09=Ace
+0A=Boa Hancock
+0B=Jinbe
+0C=Whitebeard
+0D=Buggy
+0E=Mihawk
+0F=Crocodile
+10=Blackbeard
+11=Kuma
+12=Kizaru
+13=Aokiji
+14=Akainu
+15=Eneru
+16=Perona
+17=Smoker
+18=Marco
+19=Garp
+1A=Law
+1B=Luffy Pre-timeskip
+1C=Zoro Pre-timeskip
+1D=Nami Pre-timeskip
+1E=Usopp Pre-timeskip
+1F=Sanji Pre-timeskip
+20=Chopper Pre-timeskip
+21=Robin Pre-timeskip
+22=Franky Pre-timeskip
+23=Brook Pre-timeskip
+24=Blackbeard Gura Gura No Mi
+25=Don Kreg
+26=Arlong
+27=Hacchi
+28=Lapin
+29=Wapol
+2A=Mr. 2
+2B=Mr. 3
+2C=Lucci
+2D=Kaku
+2E=Jabura
+2F=Blueno
+30=Sentomaru
+31=Pacifista
+32=Minotaurus
+33=Magellan
+34=Hannyabal
+35=Emporio Ivankov
+36=Gekko Moria
+37=Diamond Jozu
+38=Vista
+39=Blue Axe Warrior Captain
+3A=Captain
+3B=Captain
+3C=Captain
+3D=Captain
+3E=Captain
+3F=Captain
+40=Zombie Captain
+4C=Allies Gunner
+55=Impel Down Guard
+70=Marine Capturer
+99=Government Invisible ball (fight with kick)
+9A=Gas Bomb Government Soldier
+9B=Government Soldier
+9C=Government Soldier
+9D=Government Soldier
+9E=Government Soldier
+9F=Testing Government Enemie (Fly up and down, repeat fall animation)
+A0=Bazooka Villager
+A1=Shield Villager
+A2=Gas Bomb Villager
+A3=Giant Villager
+B9=Testing Zombie (Fly up and down, repeat fall animation)
+AA=Shield Kami Soldier
+C2=Testing G-5 (Fly up and down, repeat fall animation)
+[/CHAR]

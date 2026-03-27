@@ -1,0 +1,130 @@
+^1 = Hash: D9 63 90 C7 0D 01 33 F2 58 79 0F 78 6C E6 4C 3B D9 31 79 B4
+^2 = GameID: SLUS_218.47
+^3 = NAME: Guilty Gear XX Accent Core Plus
+!Masters:
++Enable Code (MUST BE ON)
+$902D62A0 0C0B5850
++Enable Code (MUST BE ON)
+$F0100008 002F0123
+!!
+!Jokers:
++Player 1 Controller
+$D045811C 0000????
++Player 2 Controller
+$D045839C 0000????
+!!
++Skip Fmv
+$202E9608 24020001
++Inf Time
+$103E99B8 00001734
+!Players:
+!Player 1:
++Character Modifier
+$003C6A18 000000[CH]
++Infinite HP
+$11E5B01E 000001A4
++Infinite Tension
+$103C6C10 00002710
++Infinite Guard
+$003C6C2A 00000080
++Infinite Burst
+$203C6D08 00013A98
++Always Have Traits
+$003C6C1A 00000001
++999 Hits
+$103C6E58 000003E7
++Player 2 No HP (player 1 Press Select)
+$D045811C 0000FFFE
+$11E5B142 00000000
++No Tension
+$103C6C10 00000000
++No Guard
+$003C6C2A 00000000
++No Burst
+$203C6D08 00000000
++Never Have Traits
+$003C6C1A 00000000
+!!
+!Player 2:
++Character Modifier
+$003C6A1A 000000[CH]
++Infinite HP
+$11E5B142 000001A4
++Infinite Tension
+$103C6D58 00002710
++Infinite Guard
+$103C6D72 00000080
++Infinite Burst
+$203C6E50 00013A98
++Always Have Traits
+$003C6D62 00000001
++999 Hits
+$103C6D10 000003E7
++Player 1 No HP (player 2 Press Select)
+$D045839C 0000FFFE
+$11E5B01E 00000000
++No Tension
+$103C6D58 00000000
++No Guard
+$103C6D72 00000000
++No Burst
+$203C6E50 00000000
++Never Have Traits
+$003C6D62 00000000
+!!
+!!
+!Unlock Codes (these Are Saveable):
++Unlock Kliff & Justice
+$0034E90B 00000001
+$0034E90C 00000001
++Have All Characters' Colors
+$1034E8B8 0000FFFF
++Enable Slash Modes Including Gold And Shadow
+$4034E8D8 000C0001
+$00010001 00000000
++Enable Normal-Ex And Ac-Gg-Ggx
+$4034E910 00070001
+$01010101 00000000
++Have All Missions Completed With All Characters Plus Ggxx Ratings
+$40350800 00C40001
+$01010101 00000000
++Have All Secret & Special
+$40350B2C 00070001
+$01010101 00000000
++Have All Ending & Ex Ending
+$40350B70 000C0001
+$02010102 00000000
++Have All Story
+$20350BB8 01010101
+$40350BA0 00060001
+$03030303 00000000
+!!
+^6 = MODS
+[CH]
+01	SOL-Badguy
+02	Ky
+03	May
+04	Milla-Rage
+05	AXL-Low
+06	Potemkin
+07	Chipp
+08	Eddie
+09	Baiken
+0A	Faust
+0B	Testament
+0C	Jam
+0D	Anji
+0E	Johnny
+0F	Venom
+10	Dizzy
+11	Slayer
+12	I-No
+13	Zappa
+14	Bridget
+15	Robo-Ky
+16	A.B.A
+17	Order-Sol
+18	Kliff
+19	Justice
+[/CH]
+%Credits: Lee4

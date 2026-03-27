@@ -1,0 +1,43 @@
+^1 = HASH: B3723E7E
+^3 = NAME: Alone In The Dark
+^2 = GameID: SLUS_216.90
+!Masters:
++Enable Code (Must Be On) [Read Note]
+%Credits: Lajos Szalay
+$9012A87C 0C04C22A
+!!
+!Codes:
++P1 Press Select To Skip FMV
+%Credits: Lajos Szalay
+$20116240 8C620000
+$D06CF282 0000FFFE
+$20116240 24020001
++Infinite Health
+%Credits: Lajos Szalay
+$202083B8 00000000
+$202088E4 00000000
+$20208B74 00000000
+$20208B78 00000000
+$20208B8C 00000000
+$20208BCC 00000000
++1-Hit Kills
+%Credits: Lajos Szalay
+$201515F0 AC80038C
++P1 Press L3+Left To Disable AI
+%Credits: Lajos Szalay
+$D06CF282 0000FF7D
+$201A1B80 00000000
++P1 Press L3+Right To Enable AI
+%Credits: Lajos Szalay
+$D06CF282 0000FFDD
+$201A1B80 0C068708
++Zombie Can't Hit You
+%Credits: Lajos Szalay
+$10209030 00000000
++Infinite Ammo
+%Credits: Lajos Szalay
+$2024A048 00000000
++Infinite Healing Spary
+%Credits: Lajos Szalay
+$2033FB90 00000000
+!!

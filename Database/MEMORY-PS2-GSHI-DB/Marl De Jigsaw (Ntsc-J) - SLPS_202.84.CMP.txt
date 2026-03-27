@@ -1,0 +1,12 @@
+^3 = NAME: Marl De Jigsaw (Ntsc-J)
+^2 = GameID: SLPS-20284
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$90107898 0C041DCE
+!!
++Enable Debug Mode {<I>*Start Pauses The Game When Playing A Match. Press / Hold X To Advance Frames.<Br>*L3 Ends A Match.<Br>*Square Advances Progress In A Match. Pressing Three Times Will Make You Win A Match.</I>}
+%Credits: punk7890
+$004C24E0 00000001
+!!
+

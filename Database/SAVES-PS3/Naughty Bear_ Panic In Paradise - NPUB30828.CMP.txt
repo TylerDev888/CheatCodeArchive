@@ -1,0 +1,9 @@
+^2 = GameID: NPUB30828
+^3 = NAME: Naughty Bear: Panic In Paradise (PSN)
+^4 = FILE: TOSG.DAT
++Update Crc32 (required)
+(set range:0x00000C,0x0020CA)
+$set pointer:eof+1
+$set range:0x00000C,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]

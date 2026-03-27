@@ -1,0 +1,44 @@
+^3 = NAME: NHL 2001 (Pal-Unk)
+^2 = GameID: SLES-50027
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0293BE8 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0293BE8 00293BEB
+!!
+!Away Team Score Codes:
++Away Team Score No More Than 1 Point
+%Credits: Codejunkies
+$E0010001 30368806
+$10368806 00000001
++Away Team Score No More Than 5 Points
+%Credits: Codejunkies
+$E0010005 30368806
+$10368806 00000005
++Away Team Scores 0 Points
+%Credits: Codejunkies
+$10368806 00000000
++Away Team Scores 9 Points
+%Credits: Codejunkies
+$10368806 00000009
+!!
+!Home Team Score Codes:
++Home Team Scores 0 Points
+%Credits: Codejunkies
+$10368862 00000000
++Home Team Scores 9 Points
+%Credits: Codejunkies
+$10368862 00000009
++Home Team Scores No More Than 1 Point
+%Credits: Codejunkies
+$E0010001 30368862
+$10368862 00000001
++Home Team Scores No More Than 5 Points
+%Credits: Codejunkies
+$E0010005 30368862
+$10368862 00000005
+!!
+!!
+

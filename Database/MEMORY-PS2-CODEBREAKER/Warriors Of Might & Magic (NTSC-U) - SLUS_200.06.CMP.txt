@@ -1,0 +1,67 @@
+^1 = HASH: 43362CD2
+^3 = NAME: Warriors Of Might & Magic
+^2 = GameID: SLUS_200.06
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0110040 003033C7
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$903033C4 0C0BC9A2
+!!
+!Codes:
++Items Worth Modifier (0000-270F){With This Code, It Takes Affect After You Have One In Your Inventory And You Pick Up Another.}
+%Credits: Code Master
+$2018ED94 2463????
++Max Items After 1 Pickup{With This Code, It Takes Affect After You Have One In Your Inventory And You Pick Up Another.}
+%Credits: Code Master
+$2018ED94 2403270F
++Infinite Health
+%Credits: Code Master
+$20238104 E6000028
++Infinite Mana
+%Credits: Code Master
+$202380D8 00401821
++Infinite Level Up Points
+%Credits: Code Master
+$20452A8C 0000000A
+$20452A90 0000000A
++Spell Equipped Modifier
+%Credits: Code Master
+$00467DE0 000000??
++Have All Spells
+%Credits: Code Master
+$20467DE4 3FFFFFFF
+!!
+^6 = MODS:
+Quantity Digits to Accompany Spell Equipped Modifier Code
+00 - Torch Light
+01 - Ring Of Fire
+02 - Speed
+03 - Fireball
+04 - Heroism
+05 - Slow
+06 - Stone Skin
+07 - Fear
+08 - Shards
+09 - Tremor
+0A - Bless
+0B - Divine Protection
+0C - Holy Wrath
+0D - Summon Elemental
+0E - Terrenus
+0F - Silence
+10 - Charm
+11 - Lightning Storm
+12 - Phantoms
+13 - Invisibility
+14 - Arctic Blast
+15 - Cure Wounds
+16 - Remove Curse
+17 - Ice Shield
+18 - Snap Freeze
+19 - Fire Bolt
+1A - Earth Bolt
+1B - Light Bolt
+1C - Sky Bolt
+1D - Water Bolt

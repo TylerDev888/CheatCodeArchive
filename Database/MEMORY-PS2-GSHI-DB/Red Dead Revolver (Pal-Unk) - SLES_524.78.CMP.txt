@@ -1,0 +1,45 @@
+^3 = NAME: Red Dead Revolver (Pal-Unk)
+^2 = GameID: SLES-52478
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$90800020 08040002
+$903CB0EC 0C0983D6
+!!
++Friendly Fire Off
+%Credits: Codejunkies
+$2022BDD8 24020000
++Friendly Fire On
+%Credits: Codejunkies
+$2022BDD8 24020001
++Infinite Health
+%Credits: Codejunkies
+$20364B38 03E00008
+$20364B3C 00000000
++Invincible
+%Credits: Codejunkies
+$2035D8E8 00000000
+$2035DF30 00000000
++Open Characters In Multi-Missions
+%Credits: Codejunkies
+$2013FC3C 24020001
++Open Journal
+%Credits: Codejunkies
+$2011CCF8 24020001
++Open Multi-Missions
+%Credits: Codejunkies
+$20132794 24020001
++Start With Max Cash
+%Credits: Codejunkies
+$2035D84C 00000000
++Turn Off Grass
+%Credits: Codejunkies
+$2022C50C 24020001
++Turn Off Rain
+%Credits: Codejunkies
+$2022C3F0 24020001
++Unlock Journal/Multiplayer
+%Credits: Codejunkies
+$201003F4 24020001
+!!
+

@@ -1,0 +1,36 @@
+^1 = HASH: B36EE21E
+^3 = NAME: Indycar Series
+^2 = GameID: SLUS_206.41
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master>StalkerX
+$F0100008 0020184F
+!!
+!Codes:
++Idiot AI{With This Code, Press L1+Select To Activate & L2+Select To Deactivate.}
+%Credits: Code Master>StalkerX
+$E002FBFE 003A94C2
+$20101408 03E00008
+$2010140C 00000000
+$E002FEFE 003A94C2
+$20101408 27BDFFD0
+$2010140C 7FB00000
++No Crowd
+%Credits: Code Master>StalkerX
+$202407A0 00000000
++Heavy Crowd
+%Credits: Code Master>StalkerX
+$202407A0 40000000
++Total Laps Modifier (000-1F4)
+%Credits: Code Master>StalkerX
+$2024D9D0 00000???
++Have All Bronze Trading Cards
+%Credits: Code Master>StalkerX
+$20371DC0 FFFFFFFF
++Have All Silver Trading Cards
+%Credits: Code Master>StalkerX
+$20371DC4 FFFFFFFF
++Have All Gold Trading Cards
+%Credits: Code Master>StalkerX
+$20371DC8 FFFFFFFF
+!!

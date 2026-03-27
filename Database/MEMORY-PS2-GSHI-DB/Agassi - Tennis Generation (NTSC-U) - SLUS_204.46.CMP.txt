@@ -1,0 +1,358 @@
+^3 = NAME: Agassi - Tennis Generation (NTSC-U)
+^2 = GameID: SLUS-20446
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0023B51F
++[M] Must Be On
+%Credits: MadCatz
+$F0100008 001724DB
+!!
+!P1 Game 1 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380C0 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380C0 00000000
+$003380C0 000000??
+!!
+!P1 Game 2 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380C4 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380C4 00000000
+$003380C4 000000??
+!!
+!P1 Game 3 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380C8 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380C8 00000000
+$003380C8 000000??
+!!
+!P1 Game 4 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380CC 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380CC 00000000
+$003380CC 000000??
+!!
+!P1 Game 5 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380D0 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380D0 00000000
+$003380D0 000000??
+!!
+!P1 Game 6 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380D4 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380D4 00000000
+$003380D4 000000??
+!!
+!P1 Game 7 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380D8 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380D8 00000000
+$003380D8 000000??
+!!
+!P1 Game 8 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380DC 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380DC 00000000
+$003380DC 000000??
+!!
+!P1 Game 9 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380E0 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380E0 00000000
+$003380E0 000000??
+!!
+!P1 Game 10 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380E4 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380E4 00000000
+$003380E4 000000??
+!!
+!P1 Game 11 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380E8 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380E8 00000000
+$003380E8 000000??
+!!
+!P1 Game 12 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380EC 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380EC 00000000
+$003380EC 000000??
+!!
+!P1 Game 13 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380F0 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380F0 00000000
+$003380F0 000000??
+!!
+!P1 Game 14 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380F4 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380F4 00000000
+$003380F4 000000??
+!!
+!P1 Game 15 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380F8 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380F8 00000000
+$003380F8 000000??
+!!
+!P1 Game 16 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380FC 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380FC 00000000
+$003380FC 000000??
+!!
+!P1 Game 17 Codes:
++Always Scores 0
+%Credits: Code Master
+$00338100 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D0338100 00000000
+$00338100 000000??
+!!
+!P1 Game 18 Codes:
++Always Scores 0
+%Credits: Code Master
+$00338104 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D0338104 00000000
+$00338104 000000??
+!!
+!P1 Wins Modifier Codes:
++Set 1
+%Credits: Code Master
+$0033809D 000000??
++Set 2
+%Credits: Code Master
+$003380A5 000000??
++Set 3
+%Credits: Code Master
+$003380AD 000000??
+!!
+!P2 Game 1 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380C1 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380C0 00000000
+$003380C1 000000??
+!!
+!P2 Game 2 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380C5 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380C4 00000000
+$003380C5 000000??
+!!
+!P2 Game 3 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380C9 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380C8 00000000
+$003380C9 000000??
+!!
+!P2 Game 4 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380CD 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380CC 00000000
+$003380CD 000000??
+!!
+!P2 Game 5 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380D1 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380D0 00000000
+$003380D1 000000??
+!!
+!P2 Game 6 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380D5 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380D4 00000000
+$003380D5 000000??
+!!
+!P2 Game 7 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380D9 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380D8 00000000
+$003380D9 000000??
+!!
+!P2 Game 8 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380DD 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380DC 00000000
+$003380DD 000000??
+!!
+!P2 Game 9 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380E1 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380E0 00000000
+$003380E1 000000??
+!!
+!P2 Game 10 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380E5 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380E4 00000000
+$003380E5 000000??
+!!
+!P2 Game 11 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380E9 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380E8 00000000
+$003380E9 000000??
+!!
+!P2 Game 12 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380ED 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380EC 00000000
+$003380ED 000000??
+!!
+!P2 Game 13 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380F1 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380F0 00000000
+$003380F1 000000??
+!!
+!P2 Game 14 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380F5 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380F4 00000000
+$003380F5 000000??
+!!
+!P2 Game 15 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380F9 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380F8 00000000
+$003380F9 000000??
+!!
+!P2 Game 16 Codes:
++Always Scores 0
+%Credits: Code Master
+$003380FD 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D03380FC 00000000
+$003380FD 000000??
+!!
+!P2 Game 17 Codes:
++Always Scores 0
+%Credits: Code Master
+$00338101 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D0338100 00000000
+$00338101 000000??
+!!
+!P2 Game 18 Codes:
++Always Scores 0
+%Credits: Code Master
+$00338105 00000000
++Start With Score Modifier
+%Credits: Code Master
+$D0338104 00000000
+$00338105 000000??
+!!
+!P2 Wins Modifier Codes:
++Set 1
+%Credits: Code Master
+$0033809E 000000??
++Set 2
+%Credits: Code Master
+$003380A6 000000??
++Set 3
+%Credits: Code Master
+$003380AE 000000??
+!!
+!!
+

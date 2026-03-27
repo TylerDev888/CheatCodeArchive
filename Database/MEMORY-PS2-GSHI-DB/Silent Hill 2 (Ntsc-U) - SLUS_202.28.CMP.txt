@@ -1,0 +1,254 @@
+^3 = NAME: Silent Hill 2 (Ntsc-U)
+^2 = GameID: SLUS-20228
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01A3DA8 001348E7
++(M) Must Be On
+%Credits: Codejunkies
+$F01348E4 001348E7
++Enable Code (Must Be On)
+%Credits: Code Master>floydfan
+$F0100008 002100AF
+!!
+!Difficulty Codes:
++Action: Beginner
+%Credits: InterAct
+$01224C64 00000000
++Action: Easy
+%Credits: InterAct
+$01224C64 00000001
++Action: Hard
+%Credits: InterAct
+$01224C64 00000003
++Action: Normal
+%Credits: InterAct
+$01224C64 00000002
++Riddle: Easy
+%Credits: InterAct
+$01224C65 00000000
++Riddle: Hard
+%Credits: InterAct
+$01224C65 00000002
++Riddle: Normal
+%Credits: InterAct
+$01224C65 00000001
+!!
+!Health Codes:
++Infinite Hand Gun Ammo
+%Credits: Codejunkies
+$D111EF74 00000001
+$1111EF74 0000000A
++Infinite Health
+%Credits: Codejunkies
+$103E7176 000042C8
+$103E717E 000042C8
++Infinite Hunting Rifle Ammo
+%Credits: Codejunkies
+$D111EF7C 00000001
+$1111EF7C 0000000A
++Infinite Shotgun Ammo
+%Credits: Codejunkies
+$D111EF78 00000001
+$1111EF78 0000000A
++Low Total Time {<I>This Code Effects The End Of Game Stats.</I>}
+%Credits: Codejunkies
+$11224C06 00000001
++Never Have More Than 10% Health
+%Credits: Codejunkies
+$E0014120 303E7176
+$103E7176 00004120
+$E0014120 303E717E
+$103E717E 00004120
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E00141C8 303E7176
+$103E7176 000041C8
+$E00141C8 303E717E
+$103E717E 000041C8
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0014248 303E7176
+$103E7176 00004248
+$E0014248 303E717E
+$103E717E 00004248
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E0014296 303E7176
+$103E7176 00004296
+$E0014296 303E717E
+$103E717E 00004296
++Saves Used {<I>This Code Effects The End Of Game Stats.</I>}
+%Credits: Codejunkies
+$01224BFA 00000000
+!!
+!Max Item Codes:
++Ampoules
+%Credits: Code Master>floydfan
+$1111EF72 000003E7
++First Aid Kits
+%Credits: Code Master>floydfan
+$1111EF70 000003E7
++Handgun
+%Credits: Code Master>floydfan
+$1111EF74 000003E7
++Handgun Bullets
+%Credits: Code Master>floydfan
+$1111EF76 000003E7
++Health Drinks
+%Credits: Code Master>floydfan
+$1111EF6E 000003E7
++Hunting Rifle
+%Credits: Code Master>floydfan
+$1111EF7C 000003E7
++Rifle Shells
+%Credits: Code Master>floydfan
+$1111EF7E 000003E7
++Shotgun
+%Credits: Code Master>floydfan
+$1111EF78 000003E7
++Shotgun Shells
+%Credits: Code Master>floydfan
+$1111EF7A 000003E7
+!!
+!Ranking Screen Codes:
++Always Low Boat Stage Time
+%Credits: Code Master>floydfan
+$21224C10 00000000
++Always Low Running Distance
+%Credits: Code Master>floydfan
+$21224C0C 00000000
++Always Low Total Damage
+%Credits: Code Master>floydfan
+$21224C18 00000000
++Always Low Total Time
+%Credits: Code Master>floydfan
+$21224C04 00000000
++Always Low Walking Distance
+%Credits: Code Master>floydfan
+$21224C08 00000000
++Hella Boat Max Speed
+%Credits: Code Master>floydfan
+$21224C14 447A0000
++Hella Enemies Defeated By Fighting
+%Credits: Code Master>floydfan
+$11224C02 0000270F
++Hella Enemies Defeated By Shooting
+%Credits: Code Master>floydfan
+$11224C00 0000270F
++Hella Items
+%Credits: Code Master>floydfan
+$11224BFE 0000270F
++No Enemies Defeated By Fighting
+%Credits: Code Master>floydfan
+$11224C02 00000000
++No Enemies Defeated By Shooting
+%Credits: Code Master>floydfan
+$11224C00 00000000
++No Items
+%Credits: Code Master>floydfan
+$11224BFE 00000000
+!!
+!Statistics Codes:
++Low Total Damage
+%Credits: InterAct
+$11224C1A 00000000
++Low Total Running Distance
+%Credits: InterAct
+$21224C0C 431C9000
++Low Total Walking Distance
+%Credits: InterAct
+$21224C08 431C9000
++Max Total Enemies Hit
+%Credits: InterAct
+$11224C02 000003E7
++Max Total Enemies Shot
+%Credits: InterAct
+$11224C00 000003E7
++Max Total Items Found
+%Credits: InterAct
+$11224BFE 000003E7
+!!
++Important Note{Version 1.0 Of This Game Is The Non-Greatist Hits Version That Doesn't Have The Etra Maria Scenario}
+%Credits: nobody
+$00000000 00000000
++1-Hit Kills And Freeze Enemies {<I>This Code Is A Unusual Side Effect Of The Action Level Modifier. You Will Want To Joker It. Turn It On Just Before The Start Or Load A Game To Turn On 1-Hit Kills. Once 1-Hit Kills Are On You Can&#39;T Turn It Off Without Quitting To The Main Menu And Setting It To 00. You Will Want It Jokered Because You Will Need To Turn It Off At Times. The 2 Pyramid Heads At The End Of The Game Can&#39;T Be Killed If They Are Frozen. You Need To Turn It Off So They Can Do Their Thing Where They Walk To The Center Of The Room To Kill Themselves. But Otherwise, Freeze Works Fine For Most Enemies.</I>}
+%Credits: bungholio
+$01224C64 000000FF
++Better Controllable Camera (Buggy!) {<I>It Doesn&#39;T Matter What Value You Give It, Once It&#39;S On You Can&#39;T Turn It Off. It Works Great With That Speed Code I Made Because You Can Press L2 To Change The Camera So It Follows You Very Close And Doesn&#39;T Need To Catch Up. It Doesn&#39;T Always Work. It Can Also Freeze The Game. The Game Froze In That Little Motorhome Where You Get The Hyper Spray When The Camera Angle Tried To Change.</I>}
+%Credits: bungholio
+$01224B86 000000??
++Extra Ammo
+%Credits: Code Master>floydfan
+$101B4C98 00000001
++Green Hyper Spray
+%Credits: bungholio
+$01224BF9 00000002
++Have All 5 Endings
+%Credits: bungholio
+$01224BF4 000000FF
++Have All Items
+%Credits: Code Master>floydfan
+$2111EF60 FFFDF3FE
+$2111EF64 FFFFFFFF
+$2111EF68 00007FFF
++Have Extra +7 Items
+%Credits: bungholio
+$01224BF8 000000FF
++Have Extra Riddle Level
+%Credits: bungholio
+$01224C65 00000003
++Infinite 1St Aid Kit
+%Credits: InterAct
+$D111EF70 00000001
+$1111EF70 0000000A
++Infinite Ammo
+%Credits: Code Master>floydfan
+$201B4C9C 00000000
++Infinite Ampoules
+%Credits: InterAct
+$D111EF72 00000001
+$1111EF72 0000000A
++Infinite H.Rifle Ammo
+%Credits: InterAct
+$D111EF7C 00000001
+$1111EF7C 00000003
++Infinite Health
+%Credits: InterAct
+$103E7176 000042C8
++Infinite Health
+%Credits: InterAct
+$103E717E 000042C8
++Infinite Health
+%Credits: Code Master>floydfan
+$203E7174 42C80000
+$203E717C 42C80000
++Infinite Health Drink
+%Credits: InterAct
+$D111EF6E 00000001
+$1111EF6E 00000063
++Infinite Run (Never Exhausted)
+%Credits: floydfan
+$2111EF8C 42C80000
++Infinite S.Gun Ammo
+%Credits: InterAct
+$D111EF78 00000001
+$1111EF78 00000002
++Invincible (Can't Be Hit)
+%Credits: Code Master>floydfan
+$103E7180 000042C8
++Jokers
+%Credits: bungholio
+$D1033E02 0000????
+$D1033E82 0000????
++Ported Szalay's Mini Map Code {<I>It Reminds Me Of The Old Doom Map With The IDDT Cheat. You Can See All The Level Boundaries, You And Everything Else Are Triangles, And The Map Rotates As You Turn. Every Address Around This One Is Stuff In Your Options Menu.</I>}
+%Credits: bungholio
+$01224C79 00000001
++Room Modifier Thing {<I>These Are Digits When You Start A New Game 02 - You Start The Exact Same Way As You Normally Do 07 - Inside The Apartment Room Where You Got The Flashlight (Normal) 13 - Inside Same Hospital Room (Normal) 1C - Inside Silent Hill Historic Center Building&#39;S Save Room. Enter Prison To Make Things Normal 26 - Close by the boat scene outside the level boundaries. turn until you see the light and run towards it to get to the motel, then everything should be normal 28 - inside motel lobby save room (normal) 2c - trapped in room where you fight 2 pyramid heads (they aren&#39;t there, so you are trapped and the doors are locked unless you use the have all items code for the 2 eggs or whatever they were, otherwise it would be normal) 34 - inside the room in the video that mary was in 35 - inside empty hospital, no monsters and you can&#39;t interact with anything   To get to the normal 2 pyramid heads battle, use &quot;28&quot; to start in the hotel lobby, save, shut off code, go to 1st floor of motel and save, turn code back on and load that save to be right outside the door before the battle where you can save.</i>}
+%Credits: bungholio
+$01224BF0 000000??
++Speed Modifier {<I>Weird Speed Modifier, Uses Float Values. The Only Way To Slow Down Is To Move Forward Or Backward With The Analog Stick. The Camera Can&#39;T Move Fast Enough To Keep Up Though. Use It With A Joker Command To Control It. Attach It To One Button, And As Long As You Hold That Button Down You Will Move Very Fast. The Instant You Let Go Of The Button You Will Return To Normal Speed.<Br>10 = 41200000 - Quite Fast<Br>20 = 41A00000 - Faster, Just Fast Enough To Go Through Walls<Br>40 = 42200000 - Very Fast And You Can Go Through Walls Easily</I>}
+%Credits: bungholio
+$203E70BC ????????
+!!
+

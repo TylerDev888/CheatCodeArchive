@@ -1,0 +1,6 @@
+^2 = GameID: NPEB01309
+^3 = NAME: Hunter's Trophy 2 - America (PSN)
+^5 = APCRED: From SHAkA
+^4 = FILE: GAMEDATA
++Max Skill Point
+$write at 0x0000000F:0x270F00

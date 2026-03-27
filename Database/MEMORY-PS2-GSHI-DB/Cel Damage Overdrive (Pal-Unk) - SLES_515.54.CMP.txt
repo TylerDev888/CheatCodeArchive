@@ -1,0 +1,31 @@
+^3 = NAME: Cel Damage Overdrive (Pal-Unk)
+^2 = GameID: SLES-51554
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F015B1AC 0015B1AF
++Enable Code
+%Credits: BigBossman
+$90154178 0C055006
++Enable Code (Alternate)
+%Credits: BigBossman
+$9015B1AC 0C051A04
++Enable Code (Alternate)
+%Credits: BigBossman
+$9013ADD0 0C0550EA
+!!
++Debug State
+%Credits: Codejunkies
+$20362954 00000001
++Emoticon
+%Credits: Codejunkies
+$20362894 00000001
++Everything Opened (Load A Profile)
+%Credits: Codejunkies
+$4037A678 00050001
+$00000000 00000000
++Press Select For Language Selection
+%Credits: Codejunkies
+$203627E8 00000001
+!!
+

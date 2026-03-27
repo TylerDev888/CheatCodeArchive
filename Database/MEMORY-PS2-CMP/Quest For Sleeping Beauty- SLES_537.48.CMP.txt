@@ -1,0 +1,97 @@
+^1 = HASH: 07B95716
+^2 = GameID: SLES_537.48
+^3 = NAME: Quest For Sleeping Beauty
+!Masters:
++Enable Code (MUST BE ON) {SceSifSendCMD}
+$90208058 0C081FBE
++Enable Code (MUST BE ON) {ScePadRead}
+$901E0958 0C07E373
++Enable Code (MUST BE ON) {OLDER Devices}
+$F01E0958 001E095B
+!!
+!MISC:
++Inf\Max Red Potions on Pickup
+$20183AD8 24420000
+$2018C8CC 14600001
+$2017E9B8 14400001
++Inf\Max Blue Potions on Pickup
+$20183AB4 24420000
+$2018C870 14600001
+$2017E96C 14400001
++Inf\Max Green Potions on Pickup
+$20183AF8 24420000
+$2018C928 14600001
+$2017EA14 14400001
++Max\Inf Lives On Gain 
+$2018A8BC 14600001
+$20189584 24630000
++1000 Points Per 
+$2018398C 24632710
+$20183990 24422710
++Always Invisible
+$20186BD8 00000000
+$20186BAC 46132034
+!!
+!Memory Versions:
++Max/Inf Lives
+$20236398 000000FF
++Max/Inf Keys
+$202363A0 000000FF
+$2023639C 000000FF
+!!
+
+!Button Cheats:
+Code 01: Load Castle Grounds, (1 life)
+Up, Left, Left, Down, Up, Right, Down, Right
+
+Code 02: Load Castle Grounds, (2 life) 
+Left, Down, Left, Down, Right, Right, Up, Down
+
+Code 03: Load Castle Grounds, (3 life)
+Left, Right, Down, Down, Up, Right, Up, Left
+
+Code 04: Load Dungeon, (1 life)
+Down, Down, Right, Down, Left, Up, Right, Left
+
+Code 05: Load Dungeon, (2 life)
+Right, Up, Down, Left, Left, Up, Right, Down
+
+Code 06: Load Dungeon, (3 life)
+Right, Down, Down, Right, Up, Up, Left, Down
+
+Code 07: 
+Up, Left, Left, Down, Up, Left, Down, Right
+
+Code 08: 
+Up, Down, Left, Down, Up, Right, Down, Left
+
+Code 09: 
+Down, Down, Down, Right, Left, Up, Up, Right
+
+Code 10: 
+Down, Right, Right, Down, Right, Up, Left, Left
+
+Code 11: 
+Left, Up, Left, Up, Right, Down, Left, Down
+
+Code 12: 
+Up, Right, Right, Up, Down, Left, Left, Up
+
+Code 13: 
+Right, Right, Left, Left, Up, Down, Down, Left
+
+Code 14: 
+Up, Down, Left, Right, Left, Right, Down, Up
+
+Code 15: 
+Down, Left, Up, Down, Down, Right, Up, Up
+
+Code 16: 
+Left, Up, Right, Down, Up, Down, Right, Left
+
+Code 17: 
+Right, Right, Up, Up, Left, Down, Down, Left
+
+Code 18: (2 Player)
+Down, Down, Up, Left, Left, Down, Right, UP
+!!

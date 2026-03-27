@@ -1,0 +1,43 @@
+^3 = NAME: Robocop (Pal-Unk)
+^2 = GameID: SLES-51374
+!Master Codes:
++(M) Must Be On
+%Credits: Lajos Szalay
+$F02D176C 002D176F
+!!
+!In-Game Cheats On:
++Display X Y Z Position (Press Fire To Activate)
+%Credits: Lajos Szalay
+$2020ADB0 00000000
++Infinite Ammo & No Reload
+%Credits: Lajos Szalay
+$20472A84 00000001
++Play Bonus Video (Select Credits To Activate)
+%Credits: Lajos Szalay
+$20472AA4 00000001
+!!
++Infinite Ammo
+%Credits: Lajos Szalay
+$20200C60 00000000
++Infinite Grenades
+%Credits: Lajos Szalay
+$202013F8 00000000
++Infinite Power
+%Credits: Lajos Szalay
+$20223800 03E00008
+$20223804 00000000
++Max Infinite Ammo
+%Credits: Lajos Szalay
+$20200764 240203E8
++Max Infinite Grenades
+%Credits: Lajos Szalay
+$202013F4 24030009
++Mega Rapid Fire
+%Credits: Lajos Szalay
+$20200700 00000000
+$20200748 00000000
++No Reload
+%Credits: Lajos Szalay
+$20200768 00000000
+!!
+

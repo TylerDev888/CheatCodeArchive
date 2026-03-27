@@ -1,0 +1,9 @@
+^2 = GameID: BLES01796
+^3 = NAME: Farming Simulator 2013
+^5 = APCRED: From aldostools
+^4 = FILE: META.BIN
++Money(requires Bsd 4.1.2 Or Higher)
+$search "money="
+$set pointer:pointer+7
+$delete next (0):until 0x22
+$insert next (0):3939393939393939

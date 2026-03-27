@@ -1,0 +1,60 @@
+^3 = NAME: UEFA Challenge (Pal-Unk)
+^2 = GameID: SLES-50195
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0224F90 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0224F90 00224F93
+!!
+!Away Team Score:
++0 Goals
+%Credits: Codejunkies
+$1079E3B8 00000000
++20 Goals
+%Credits: Codejunkies
+$1079E3B8 00000014
++Never Score More Than 1 Goal
+%Credits: Codejunkies
+$E0010001 3079E3B8
+$1079E3B8 00000001
++Never Score More Than 5 Goals
+%Credits: Codejunkies
+$E0010005 3079E3B8
+$1079E3B8 00000005
++Never Score More Than 10 Goals
+%Credits: Codejunkies
+$E001000A 3079E3B8
+$1079E3B8 0000000A
++Never Score More Than 15 Goals
+%Credits: Codejunkies
+$E001000F 3079E3B8
+$1079E3B8 0000000F
+!!
+!Home Team Score:
++0 Goals
+%Credits: Codejunkies
+$1079E1A0 00000000
++20 Goals
+%Credits: Codejunkies
+$1079E1A0 00000014
++Never Score More Than 1 Goal
+%Credits: Codejunkies
+$E0010001 3079E1A0
+$1079E1A0 00000001
++Never Score More Than 5 Goals
+%Credits: Codejunkies
+$E0010005 3079E1A0
+$1079E1A0 00000005
++Never Score More Than 10 Goals
+%Credits: Codejunkies
+$E001000A 3079E1A0
+$1079E1A0 0000000A
++Never Score More Than 15 Goals
+%Credits: Codejunkies
+$E001000F 3079E1A0
+$1079E1A0 0000000F
+!!
+!!
+

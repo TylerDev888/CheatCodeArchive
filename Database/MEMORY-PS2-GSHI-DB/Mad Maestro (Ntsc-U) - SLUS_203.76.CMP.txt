@@ -1,0 +1,563 @@
+^3 = NAME: Mad Maestro (Ntsc-U)
+^2 = GameID: SLUS-20376
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0117798 0010DD4F
++(M) Must Be On
+%Credits: Codejunkies
+$F010DD4C 0010DD4F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0010DD4F
+!!
++Baaad Rating % Modifier
+%Credits: Code Master
+$2012EF84 240200??
+$104AD320 000000??
++Bad Rating % Modifier
+%Credits: Code Master
+$2012EF18 240200??
+$104AD31C 000000??
++Bravo Rating % Modifier
+%Credits: Code Master
+$2012EDF8 240300??
+$104AD314 000000??
+!Easy Difficulty Story Level Rank Modifier Codes:
++All A's
+%Credits: Code Master
+$4033367C 000A0001
+$00000005 00000000
++Stage 01-Will The Couple Do A Pas De Deux {<I>00000000 - F<Br>00000001 - E<Br>00000002 - D<Br>00000003 - C<Br>00000004 - B<Br>00000005 - A<Br>Ffffffff - None</I>}
+%Credits: Code Master
+$2033367C ????????
++Stage 02-The Savior Of Run Down Circus
+%Credits: Code Master
+$20333680 ????????
++Stage 03-Troubled Fashion Show
+%Credits: Code Master
+$20333684 ????????
++Stage 04-The Swan And The Boy
+%Credits: Code Master
+$20333688 ????????
++Stage 05-UFO Night
+%Credits: Code Master
+$2033368C ????????
++Stage 06-You Too Lionel?
+%Credits: Code Master
+$20333690 ????????
++Stage 07-Hannie's Feeling Down
+%Credits: Code Master
+$20333694 ????????
++Stage 08-How Proud Is A Top Model
+%Credits: Code Master
+$20333698 ????????
++Stage 09-Greetings From Mars
+%Credits: Code Master
+$2033369C ????????
++Stage 10-The Secret Of The Lake
+%Credits: Code Master
+$203336A0 ????????
+!!
++Good Rating % Modifier
+%Credits: Code Master
+$2012EEA8 240200??
+$104AD318 000000??
++Infinite Meter
+%Credits: Code Master
+$104AD148 00000032
+$104AD3A0 00000032
+!Normal Difficulty Story Level Rank Modifier Codes:
++All A's
+%Credits: Code Master
+$403336AC 000A0001
+$00000005 00000000
++Stage 01-Will The Couple Do A Pas De Deux {<I>00000000 - F<Br>00000001 - E<Br>00000002 - D<Br>00000003 - C<Br>00000004 - B<Br>00000005 - A<Br>Ffffffff - None</I>}
+%Credits: Code Master
+$203336AC ????????
++Stage 02-The Savior Of Run Down Circus
+%Credits: Code Master
+$203336B0 ????????
++Stage 03-Troubled Fashion Show
+%Credits: Code Master
+$203336B4 ????????
++Stage 04-The Swan And The Boy
+%Credits: Code Master
+$203336B8 ????????
++Stage 05-UFO Night
+%Credits: Code Master
+$203336BC ????????
++Stage 06-You Too Lionel?
+%Credits: Code Master
+$203336C0 ????????
++Stage 07-Hannie's Feeling Down
+%Credits: Code Master
+$203336C4 ????????
++Stage 08-How Proud Is A Top Model
+%Credits: Code Master
+$203336C8 ????????
++Stage 09-Greetings From Mars
+%Credits: Code Master
+$203336CC ????????
++Stage 10-The Secret Of The Lake
+%Credits: Code Master
+$203336D0 ????????
+!!
+!Rating Codes:
++Maxed Meter
+%Credits: Codejunkies
+$104AD3A0 00000032
++Rating 0%: Baaad
+%Credits: InterAct
+$104AD320 00000000
++Rating 0%: Bad
+%Credits: InterAct
+$104AD31C 00000000
++Rating 0%: Bravo
+%Credits: InterAct
+$104AD314 00000000
++Rating 0%: Good
+%Credits: InterAct
+$104AD318 00000000
++Rating 25%: Baaad
+%Credits: InterAct
+$104AD320 00000019
++Rating 25%: Bad
+%Credits: InterAct
+$104AD31C 00000019
++Rating 25%: Bravo
+%Credits: InterAct
+$104AD314 00000019
++Rating 25%: Good
+%Credits: InterAct
+$104AD318 00000019
++Rating 50%: Baaad
+%Credits: InterAct
+$104AD320 00000032
++Rating 50%: Bad
+%Credits: InterAct
+$104AD31C 00000032
++Rating 50%: Bravo
+%Credits: InterAct
+$104AD314 00000032
++Rating 50%: Good
+%Credits: InterAct
+$104AD318 00000032
++Rating 75%: Baaad
+%Credits: InterAct
+$104AD320 0000004B
++Rating 75%: Bad
+%Credits: InterAct
+$104AD31C 0000004B
++Rating 75%: Bravo
+%Credits: InterAct
+$104AD314 0000004B
++Rating 75%: Good
+%Credits: InterAct
+$104AD318 0000004B
++Rating 100%: Baaad
+%Credits: InterAct
+$104AD320 00000064
++Rating 100%: Bad
+%Credits: InterAct
+$104AD31C 00000064
++Rating 100%: Bravo
+%Credits: InterAct
+$104AD314 00000064
++Rating 100%: Good
+%Credits: InterAct
+$104AD318 00000064
++Score 'A' On All Story Levels
+%Credits: Codejunkies
+$40333678 00170001
+$00000001 00000000
++Story Mode Beaten/Unlocked
+%Credits: Codejunkies
+$20333454 00000001
++Unlock All Bonus Games
+%Credits: Codejunkies
+$403334E8 000A0001
+$00000001 00000000
++Unlock All Free Play Levels
+%Credits: Codejunkies
+$4033345C 00210001
+$00000001 00000000
++Unlock All Music Room Songs
+%Credits: Codejunkies
+$40333510 00210001
+$00000001 00000000
++Unlock Everything
+%Credits: Codejunkies
+$40333454 00500001
+$00000001 00000000
+!!
++Score 'A' On All Story Levels
+%Credits: InterAct
+$909ED467 CE6B7DD1
++Unlock All Bonus Games
+%Credits: InterAct
+$90A3D467 CE6B7DD1
++Unlock All Free Play Levels
+%Credits: InterAct
+$9094D467 CE6B7DD1
+!Unlock Bonus Games Codes:
++Unlock Bonus Games: Alien Abduction Only
+%Credits: InterAct
+$20333508 00000001
++Unlock Bonus Games: Concert With Little Birds Only
+%Credits: InterAct
+$203334F4 00000001
++Unlock Bonus Games: Dress Up! Only
+%Credits: InterAct
+$203334F0 00000001
++Unlock Bonus Games: Flaming Hoops Only
+%Credits: InterAct
+$203334FC 00000001
++Unlock Bonus Games: Launch The Fireworks Only
+%Credits: InterAct
+$203334F8 00000001
++Unlock Bonus Games: Love Bucket Relay Only
+%Credits: InterAct
+$203334E8 00000001
++Unlock Bonus Games: Lunar Magic Only
+%Credits: InterAct
+$203334EC 00000001
++Unlock Bonus Games: Quack Quack Racing Only
+%Credits: InterAct
+$20333500 00000001
++Unlock Bonus Games: The Feast Only
+%Credits: InterAct
+$20333504 00000001
++Unlock Bonus Games: The Mysterious Dungeon Only
+%Credits: InterAct
+$2033350C 00000001
+!!
++Unlock Everything
+%Credits: InterAct
+$90E5D467 CE6B7DD1
+!Unlock Free Play Codes:
++Free Play: 5Th Symphony - 1St Movement Only
+%Credits: InterAct
+$203334B4 00000001
++Free Play: 9Th Symphony - 4Th Movement Only
+%Credits: InterAct
+$203334A0 00000001
++Free Play: 40Th Symphony K550 - 1St Movement Only
+%Credits: InterAct
+$20333494 00000001
++Free Play: Algerian Suite Only
+%Credits: InterAct
+$203334CC 00000001
++Free Play: Baba Yaga's Hut Only
+%Credits: InterAct
+$2033349C 00000001
++Free Play: Ballet Of The Unhatched Chicks Only
+%Credits: InterAct
+$203334D4 00000001
++Free Play: Csikos Post Only
+%Credits: InterAct
+$203334BC 00000001
++Free Play: Dance Of The Four Swans Only
+%Credits: InterAct
+$203334A4 00000001
++Free Play: Dance Of The Reed Flutes Only
+%Credits: InterAct
+$203334C8 00000001
++Free Play: Divertimento No 1 In E Flat Major K113 Only
+%Credits: InterAct
+$203334D8 00000001
++Free Play: Entry Of Gladiators Only
+%Credits: InterAct
+$20333488 00000001
++Free Play: Finale Only
+%Credits: InterAct
+$2033346C 00000001
++Free Play: Flight Of The Bumblebee Only
+%Credits: InterAct
+$203334D0 00000001
++Free Play: Flight Of The Valkyries Only
+%Credits: InterAct
+$2033347C 00000001
++Free Play: Hungarian Dance No 5 In G Major Only
+%Credits: InterAct
+$20333460 00000001
++Free Play: Hungarian Dance No 6 In D Major Only
+%Credits: InterAct
+$2033345C 00000001
++Free Play: In The Hall Of The Mountain King Only
+%Credits: InterAct
+$203334E0 00000001
++Free Play: L'arlesienne Suite No 2 Only
+%Credits: InterAct
+$203334DC 00000001
++Free Play: March Only
+%Credits: InterAct
+$2033348C 00000001
++Free Play: Marche Militaire Only
+%Credits: InterAct
+$20333484 00000001
++Free Play: Morning Only
+%Credits: InterAct
+$203334A8 00000001
++Free Play: Night On Bald Mountain Only
+%Credits: InterAct
+$20333480 00000001
++Free Play: Orpheus In The Underworld Only
+%Credits: InterAct
+$20333498 00000001
++Free Play: Radetsky March Only
+%Credits: InterAct
+$203334B8 00000001
++Free Play: Rakoczi March Only
+%Credits: InterAct
+$203334B0 00000001
++Free Play: Scene Only
+%Credits: InterAct
+$20333474 00000001
++Free Play: Slavic Dance No 7 Only
+%Credits: InterAct
+$20333464 00000001
++Free Play: The Marriage Of Figaro Only
+%Credits: InterAct
+$20333470 00000001
++Free Play: Thunder And Lightning Only
+%Credits: InterAct
+$20333468 00000001
++Free Play: Toreador Song Only
+%Credits: InterAct
+$20333478 00000001
++Free Play: Toy Symphony Only
+%Credits: InterAct
+$203334C0 00000001
++Free Play: Trepak Only
+%Credits: InterAct
+$20333490 00000001
++Free Play: William Tell Overture Only
+%Credits: InterAct
+$203334AC 00000001
+!!
+!Unlock Free Play Level Codes:
++All Levels
+%Credits: Code Master
+$4033345C 00220001
+$00000001 00000000
++Eine Kleine Nacht Musik
+%Credits: Code Master
+$203334C4 00000001
+!!
+!Unlock Individual Music Room Songs:
++5Th Symphony
+%Credits: InterAct
+$00333568 00000001
++9Th Symphony
+%Credits: InterAct
+$00333554 00000001
++40Th Symphony
+%Credits: InterAct
+$00333548 00000001
++Algerian Suite
+%Credits: InterAct
+$00333580 00000001
++Baba Yaga's Hut
+%Credits: InterAct
+$00333550 00000001
++Ballet Of The Unhatched Chicks
+%Credits: InterAct
+$00333588 00000001
++Csikos Post
+%Credits: InterAct
+$00333570 00000001
++Dance Of The Four Swans
+%Credits: InterAct
+$00333558 00000001
++Dance Of The Reed Flutes
+%Credits: InterAct
+$0033357C 00000001
++Divertimento
+%Credits: InterAct
+$0033358C 00000001
++Eine Kleine Nacht Musik
+%Credits: InterAct
+$00333578 00000001
++Entry Of The Gladiators
+%Credits: InterAct
+$0033353C 00000001
++Finale-Carnival Of Animals
+%Credits: InterAct
+$00333520 00000001
++Flight Of The Bumblebee
+%Credits: InterAct
+$00333584 00000001
++Flight Of The Valkyries
+%Credits: InterAct
+$00333530 00000001
++Hall Of The Mountain King
+%Credits: InterAct
+$00333594 00000001
++Hungarian Dance No.5
+%Credits: InterAct
+$00333514 00000001
++Hungarian Dance No.6
+%Credits: InterAct
+$00333510 00000001
++L'arlesienne
+%Credits: InterAct
+$00333590 00000001
++March From The Nutcracker
+%Credits: InterAct
+$00333540 00000001
++Marche Militaire
+%Credits: InterAct
+$00333538 00000001
++Marriage Of Figaro
+%Credits: InterAct
+$00333524 00000001
++Morning Of The Pier Suite
+%Credits: InterAct
+$0033355C 00000001
++Night On Bare Mountain
+%Credits: InterAct
+$00333534 00000001
++Orpheus In The Underworld
+%Credits: InterAct
+$0033354C 00000001
++Radetsky March
+%Credits: InterAct
+$0033356C 00000001
++Rakoczi
+%Credits: InterAct
+$00333564 00000001
++Scene From Swan Lake
+%Credits: InterAct
+$00333528 00000001
++Slavic Dance No.7
+%Credits: InterAct
+$00333518 00000001
++Thunder And Lightning
+%Credits: InterAct
+$0033351C 00000001
++Toreador Song From Carmen
+%Credits: InterAct
+$0033352C 00000001
++Toy Symphony
+%Credits: InterAct
+$00333574 00000001
++Trepak From The Nutcracker
+%Credits: InterAct
+$00333544 00000001
++William Tell Overture
+%Credits: InterAct
+$00333560 00000001
+!!
+!Unlock Music Room Codes:
++Music Room: 5Th Symphony - 1St Movement Only
+%Credits: InterAct
+$20333568 00000001
++Music Room: 9Th Symphony - 4Th Movement Only
+%Credits: InterAct
+$20333554 00000001
++Music Room: Algerian Suite Only
+%Credits: InterAct
+$20333580 00000001
++Music Room: Baba Yaga's Hut Only
+%Credits: InterAct
+$20333550 00000001
++Music Room: Ballet Of The Unhatched Chicks Only
+%Credits: InterAct
+$20333588 00000001
++Music Room: Csikos Post Only
+%Credits: InterAct
+$20333570 00000001
++Music Room: Dance Of The Four Swans Only
+%Credits: InterAct
+$20333558 00000001
++Music Room: Dance Of The Reed Flutes Only
+%Credits: InterAct
+$2033357C 00000001
++Music Room: Divertimento No 1 In E Flat Major K113 Only
+%Credits: InterAct
+$2033358C 00000001
++Music Room: Eine Kleine Nacht Musik Only
+%Credits: InterAct
+$20333578 00000001
++Music Room: Entry Of The Gladiators Only
+%Credits: InterAct
+$2033353C 00000001
++Music Room: Finale Only
+%Credits: InterAct
+$20333520 00000001
++Music Room: Flight Of The Bumblebee Only
+%Credits: InterAct
+$20333584 00000001
++Music Room: Flight Of The Valkyries Only
+%Credits: InterAct
+$20333530 00000001
++Music Room: Hungarian Dance No 5 In G Major Only
+%Credits: InterAct
+$20333514 00000001
++Music Room: Hungarian Dance No 6 In D Major Only
+%Credits: InterAct
+$20333510 00000001
++Music Room: In The Hall Of The Mountain King Only
+%Credits: InterAct
+$20333594 00000001
++Music Room: L'arlesienne Suite No 2 Only
+%Credits: InterAct
+$20333590 00000001
++Music Room: March Only
+%Credits: InterAct
+$20333540 00000001
++Music Room: Marche Militaire Only
+%Credits: InterAct
+$20333538 00000001
++Music Room: Morning Only
+%Credits: InterAct
+$2033355C 00000001
++Music Room: Night On Bald Mountain Only
+%Credits: InterAct
+$20333534 00000001
++Music Room: Orpheus In The Underworld Overture Only
+%Credits: InterAct
+$2033354C 00000001
++Music Room: Radetsky March Only
+%Credits: InterAct
+$2033356C 00000001
++Music Room: Rakoczki March Only
+%Credits: InterAct
+$20333564 00000001
++Music Room: Scene Only
+%Credits: InterAct
+$20333528 00000001
++Music Room: Slavic Dance No 7 Only
+%Credits: InterAct
+$20333518 00000001
++Music Room: The Marriage Of Figaro Only
+%Credits: InterAct
+$20333524 00000001
++Music Room: Thunder And Lightning Only
+%Credits: InterAct
+$2033351C 00000001
++Music Room: Toreador Song Only
+%Credits: InterAct
+$2033352C 00000001
++Music Room: Toy Symphony Only
+%Credits: InterAct
+$20333574 00000001
++Music Room: Trepak Only
+%Credits: InterAct
+$20333544 00000001
++Music Room: William Tell Overture Only
+%Credits: InterAct
+$20333560 00000001
+!!
+!Unlock Music Room Level Codes:
++40Th Symphony K550-1St Movement
+%Credits: Code Master
+$20333548 00000001
++All Levels
+%Credits: Code Master
+$40333510 00220001
+$00000001 00000000
+!!
+!!
+

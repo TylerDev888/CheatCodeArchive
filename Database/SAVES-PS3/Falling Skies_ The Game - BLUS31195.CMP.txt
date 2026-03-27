@@ -1,0 +1,16 @@
+^2 = GameID: BLUS31195
+^3 = NAME: Falling Skies: The Game
+(by krustytoe)
+^4 = FILE: SYS-DATA
++Max Food
+$1000001B 0000270F
++Max Medical Supplies
+$1000001F 0000270F
++Max Metal
+$10000023 0000270F
++999 Exp All Character
+$4200011D 4479D98A
+$403200E0 00000000
++Can Learn All Elite Skills
+$42000129 0000000F
+$403200E0 00000000

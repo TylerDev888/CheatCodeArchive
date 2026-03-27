@@ -1,0 +1,16 @@
+^2 = GameID: NPEB00191
+^3 = NAME: Monkey Island: Special Edition Collection (PSN)
+^4 = FILE: GAMEDATA
++Update Crc32 For Gamedata (required)
+(set range:0x000008,0x00001F)
+$set pointer:eof+1
+$set range:0x000008,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]
+^4 = FILE: MONKEY1.BIN
++Update Crc32 For Monkey1.bin (required)
+(set range:0x000008,0x089AD7)
+$set pointer:eof+1
+$set range:0x000008,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

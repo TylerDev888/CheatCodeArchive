@@ -1,0 +1,17 @@
+^2 = GameID: BLES00699
+^3 = NAME: Dragon Age Origins
+(checksum by chaoszage)
+^4 = FILE: SAVEGAME.DAS
++Get Crc32 Savegame.das (required)
+$set [crc32_SAVEGAME.DAS]:crc32
+(dependency: SAVEGAME.DAX)
+^4 = FILE: SAVEGAME.DAX
++Update Crc32 On Savegame.dax (required)
+$write at 0x0:[crc32_SAVEGAME.DAS]
+^4 = FILE: SAVEGAME.MET
++Get Crc32 Savegame.met (required)
+$set [crc32_SAVEGAME.MET]:crc32
+(dependency: SAVEGAME.MEX)
+^4 = FILE: SAVEGAME.MEX
++Update Crc32 On Savegame.mex (required)
+$write at 0x0:[crc32_SAVEGAME.MEX]

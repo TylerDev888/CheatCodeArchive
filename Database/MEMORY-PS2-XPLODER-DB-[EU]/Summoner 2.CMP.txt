@@ -1,0 +1,68 @@
+^3 = NAME: Summoner 2
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 001C7FB7
+$200C0000 2401270F
+$200C000C 240103E7
+$200C0018 24010063
+$200C0020 240100C8
+$200C0054 03E00008
+$20209B64 0C030000
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$200C0004 AE210444
+$200C0008 AE21044C
++AP
+%Credits: Xploder
+$200C0010 A6210450
+$200C0014 A6210454
+!!
+!Maximum:
++Level
+%Credits: Xploder
+$200C001C A6210456
++Stamina
+%Credits: Xploder
+$200C0024 A6210486
++Intelligence
+%Credits: Xploder
+$200C0028 A621048C
++Speed
+%Credits: Xploder
+$200C002C A6210484
++Strength
+%Credits: Xploder
+$200C0030 A6210480
++Defence
+%Credits: Xploder
+$200C0034 A6210482
++Magic Power
+%Credits: Xploder
+$200C0038 A6210488
++Magic Defence
+%Credits: Xploder
+$200C003C A621048A
+!!
+!Maximum Resistances:
++Ice
+%Credits: Xploder
+$200C0040 A621048E
++Fire
+%Credits: Xploder
+$200C0044 A6210490
++Energy
+%Credits: Xploder
+$200C0048 A6210492
++Piercing
+%Credits: Xploder
+$200C004C A6210494
++Slashing
+%Credits: Xploder
+$200C0050 A6210496
++Blunt
+%Credits: Xploder
+$200C0058 A6210498
+!!

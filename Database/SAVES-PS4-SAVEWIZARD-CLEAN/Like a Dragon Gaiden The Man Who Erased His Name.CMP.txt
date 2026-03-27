@@ -1,0 +1,427 @@
+^2 = GameID: CUSA43228
+^3 = NAME: Like a Dragon Gaiden: The Man Who Erased His Name
+^SECONDLAYER: NO
+^4 = FILE: data.sav
++Add Item
+$search 0x22706C61796572223A
+$search next 0x2263617272795F6974656D22
+$search next 0x226D5F6C69737422
+$Insert Next A: "{".ver":1,"m_count":[Amount:99999999:UTF08:TXT],"m_item_id":{"puid":[ID]}},"
+^6 = MODS:
+[ID]
+VALUE>ITEM>Type
+4767	Extra Balanced Frame	Car Parts
+4768	Super Balancend Frame	Car Parts
+4769	Ultra Balancend Frame	Car Parts
+4770	Metal Frame	Car Parts
+4771	Metal Frame Plus	Car Parts
+4772	Extra Metal Frame	Car Parts
+4773	Super Metal Frame	Car Parts
+4774	Ultra Metal Frame	Car Parts
+4775	Rocket Frame	Car Parts
+4776	Rocket Frame Plus	Car Parts
+4777	Extra Rocket Frame	Car Parts
+4778	Super Rocket Frame	Car Parts
+4779	Ultra Rocket Frame	Car Parts
+4780	Rubber Frame	Car Parts
+4781	Rubber Frame plus	Car Parts
+4782	Extra Rubber Frame	Car Parts
+4783	Super Rubber Frame	Car Parts
+4784	Ultra Rubber Frame	Car Parts
+4785	Speed Frame	Car Parts
+4786	Speed Frame Plus	Car Parts
+4787	Extra Speed Frame	Car Parts
+4788	Super Speed Frame	Car Parts
+4789	Ultra Speed Frame	Car Parts
+4792	Power Motor Plus	Car Parts
+4793	Extra Power Motor	Car Parts
+4794	Super Power Motor	Car Parts
+4795	Ultra Power Motor	Car Parts
+4796	Speed Motor	Car Parts
+4797	Speed Motor Plus	Car Parts
+4798	Extra Speed Motor	Car Parts
+4799	Super Speed Motor	Car Parts
+4800	Ultra Speed Motor	Car Parts
+4801	Balanced Motor	Car Parts
+4802	Balanced Motor Plus	Car Parts
+4803	Extra Balanced Motor	Car Parts
+4804	Super Balanced Motor	Car Parts
+4805	Ultra Balanced Motor	Car Parts
+4806	High Torque Motor	Car Parts
+4807	High Torque Motor Mark II	Car Parts
+4808	Godspeed Motor	Car Parts
+4809	Godspeed Motor Mark II	Car Parts
+4811	Slick Tires Plus	Car Parts
+4812	Extra Slick Tires	Car Parts
+4813	Super Slick Tires	Car Parts
+4814	Ultra Slick Tires	Car Parts
+4815	Soft Tires	Car Parts
+4816	Soft Tires Plus	Car Parts
+4817	Extra Soft Tires	Car Parts
+4818	Super Soft Tires	Car Parts
+4819	Ultra Soft Tires	Car Parts
+4820	Spiked Tires	Car Parts
+4821	Spiked Tires Plus	Car Parts
+4822	Extra Spiked Tires	Car Parts
+4823	Super Spiked Tires	Car Parts
+4824	Ultra Spiked Tires	Car Parts
+4825	Low Profile Tires	Car Parts
+4826	Low Profile Tires Plus	Car Parts
+4827	Extra Low Profile Tires	Car Parts
+4828	Super Low Profile Tires	Car Parts
+4829	Utra Low Profile Tires	Car Parts
+4830	Slim Tires	Car Parts
+4831	Slim Tires Plus	Car Parts
+4832	Extra Slim Tires	Car Parts
+4833	Super Slim Tires	Car Parts
+4834	Ultra Slim Tires	Car Parts
+4835	Power Gears	Car Parts
+4836	Power Gears Plus	Car Parts
+4837	Extra Power Gears	Car Parts
+4838	Super Power Gears	Car Parts
+4839	Extra Power Gears	Car Parts
+4840	Balanced Gears	Car Parts
+4841	Balanced Gears Plus	Car Parts
+4842	Extra Balanced Gears	Car Parts
+4843	Super Balanced Gears	Car Parts
+4844	Ultra Balanced Gears	Car Parts
+4846	Regular Gears Plus	Car Parts
+4847	Extra Regular Gears	Car Parts
+4848	Super Regular Gears	Car Parts
+4849	Ultra Regular Gears	Car Parts
+4850	Boost Gear	Car Parts
+4851	Boost Gear Plus	Car Parts
+4852	Extra Boost Gear	Car Parts
+4853	Super Boost Gear	Car Parts
+4854	Ultra Boost Gear	Car Parts
+4855	Godspeed Gears	Car Parts
+4856	Godspeed Gears Plus	Car Parts
+4857	Extra Godspeed Gears	Car Parts
+4858	Super Godspeed Gears	Car Parts
+4859	Utra Godspeed Gears	Car Parts
+4860	High Capacity Battery	Car Parts
+4861	High Speed Battery	Car Parts
+5315	Beginner Darts	Recovery Items
+5323	Toughness Light	Recovery Items
+5324	Toughness Z	Recovery Items
+5325	Tauriner	Recovery Items
+5326	Staminan Light	Recovery Items
+5327	Staminan X	Recovery Items
+5328	Staminan Spark	Recovery Items
+5366	Seven Stars	Other
+5368	Pocket Tissues	Other
+5369	Platinum Plate	Other
+5370	Gold Plate	Other
+5371	Silver Plate	Other
+5372	Bronze Plate	Other
+5373	Iron Plate	Other
+5374	Paper Plate	Other
+5383	AiAi	Other
+5384	GonGon	Other
+5385	MeeMee	Other
+5386	Baby	Other
+5387	Bun-Chan The Java Sparrow (White)	Other
+5388	Bun-Chan The Java Sparrow (Pink)	Other
+5389	Jumbo Bun-Chan	Other
+5390	Kitty Kat (Red)	Other
+5391	Kitty Kat (Tiger)	Other
+5392	Kitty Kat (Blue)	Other
+5393	Kitty Kat (Amarican Shorthair)	Other
+5394	Kitty Kat (Calico)	Other
+5395	Robo Chief	Other
+5396	Robo Manager	Other
+5397	Pillow Pups (Golden Retriever)	Other
+5398	Pillow Pups (French Bulldog)	Other
+5404	Kamulop Pixel Figure	Other
+5405	Ono Michio Pixel Figure	Other
+5406	Fauxno Michio Pixel Figure	Other
+5407	Kumami (Brown)	Other
+5408	Kumami (Blue)	Other
+5409	Kumami (Red)	Other
+5410	Kumami (Green)	Other
+5411	Kumami (Black)	Other
+5412	Penmi (Green)	Other
+5413	Penmi (Blue)	Other
+5414	Penmi (Red)	Other
+5415	Penmi (Yellow)	Other
+5416	Penmi (Black)	Other
+5417	Boomi (Yellow)	Other
+5418	Boomi (Blue)	Other
+5419	Boomi (Red)	Other
+5420	Boomi (Green)	Other
+5421	Boomi (Black)	Other
+5430	Teardrop Earrings	Other
+5431	Trinity Circle Earrings	Other
+5432	Heart Earrings	Other
+5433	Gold Cross Earrings	Other
+5434	White Pearl  Earrings	Other
+5435	Prima Heart Earrings	Other
+5436	Star Crossed Earrings	Other
+5437	Twinkle Heart Ring	Other
+5438	Midnight RIng	Other
+5439	Shiny Flower Ring	Other
+5440	Luxury Timepiece	Other
+5441	High-End Timepiece	Other
+5442	Standard Timepiece	Other
+5445	Triple Yokan	Other
+5446	Ten-Ten-One Charm	Other
+5447	Lucky Hanafuda Card	Other
+5448	Blackjack Amulet	Other
+5449	Bust Amulet	Other
+5450	Royal Joker Card	Other
+5451	The basics of Shogi	Valuables
+5452	Nine Gates Tile	Other
+5484	Potted Plant (Dev)	Other
+5497	Seaweed Onigirl	Recovery Items
+5498	Tuna Onigiri	Recovery Items
+5499	Salmon Onigiri	Recovery Items
+5500	Fresh Lettuce Sandwach	Recovery Items
+5501	Tuna & Egg Sandwich	Recovery Items
+5502	Oden	Recovery Items
+5503	Bento Lunch Set	Recovery Items
+5504	Special Yakisoba	Recovery Items
+5505	Pork Tonkatsu Bento	Recovery Items
+5506	Healthy Balanced Bento	Recovery Items
+5507	Luxury Yakiniku Bento	Recovery Items
+5508	Sushi Set	Recovery Items
+5509	Imuraya Steamed Bun	Recovery Items
+5510	Imuraya Bean Paste Bun	Recovery Items
+5511	Imuraya Pizza Bun	Recovery Items
+5512	Imuraya Gold Steamed Bun	Recovery Items
+5513	Imuraya Curry Bun	Recovery Items
+5514	Super Cup 1.5x Pork Kimchi Ramen	Recovery Items
+5515	Yakisoba Mochichi	Recovery Items
+5516	Wakame Ramen Sesame Soy Sauce	Recovery Items
+5517	Wonton Harusame	Recovery Items
+5518	Drink to the Last Drop Dandan Noodles	Recovery Items
+5521	Sake	Recovery Items
+5535	Fantasy Zone	Valuables
+5536	Alex Kidd in Miracle World	Valuables
+5537	Penguin Land	Valuables
+5538	Quartet	Valuables
+5539	Enduro Racer	Valuables
+5541	Maz Hunter 3-D	Valuables
+5542	Secret Command	Valuables
+5544	Fantasy Zone 2	Valuables
+5545	Alien Syndrome	Valuables
+5546	Global Defense	Valuables
+5555	Ichiban Senbei (Shoyu)	Recovery Items
+5556	Ichiban Senbei (Salt)	Recovery Items
+5557	Ichiban Fried Senbei	Recovery Items
+5565	Club Sandwich	Recovery Items
+5566	Gambling Hall Tags	Valuables
+5567	Casino Chips	Valuables
+5568	Imuraya Yokan	Recovery Items
+5569	Imuraya Castella	Recovery Items
+5574	Smile Burger (Takeout)	Recovery Items
+5575	Teriyaki Smile Burger (Takeout)	Recovery Items
+5576	Smile Fries (Takeout)	Recovery Items
+5577	Smile Shake (Takeout)	Recovery Items
+5578	Smile Salad (Takeout)	Recovery Items
+5579	Divine Water	Recovery Items
+5697	Recover Now (Dev Item)	Recovery Items
+5708	Pine Candy	Recovery Items
+5709	Oragamachi Natto	Recovery Items
+5710	SEGA Taiyaki	Recovery Items
+5711	Nozaki's Corned Beef	Recovery Items
+5712	ZONe	Recovery Items
+5724	Drone Gadget: Hornet	Valuables
+5725	Premium BOSS	Recovery Items
+5726	BOSS Light Sugar	Recovery Items
+5727	Suntory Oolong Tea	Recovery Items
+5728	Suntory Green Tea Lyemon	Recovery Items
+5729	Suntory Goma Mugicha	Recovery Items
+5730	Pepsi Nama	Recovery Items
+5731	C.C. Lemon	Recovery Items
+5732	Mountain Dew	Recovery Items
+5733	Natchan! Orange	Recovery Items
+5734	Natchan! Apple	Recovery Items
+5735	Suntory Mineral Water	Recovery Items
+5736	Suntory Sparkling Lemon Mineral Water	Recovery Items
+5737	Vitamin Water	Recovery Items
+5843	Takoyaki With Large Octopus	Recovery Items
+5844	Renoened Akashiyaki	Recovery Items
+5845	Green Onion Akashiyaki	Recovery Items
+5846	Shokin' Takoyaki	Recovery Items
+5848	Sotenbori Locker Key	Valuables
+5914	Azuki Bar BOX	Recovery Items
+5915	Hokkaido Azuki Bar	Recovery Items
+5916	Taiyaki Ice Cream	Recovery Items
+5917	Locker Key Radar (Dev)	Gear
+5922	Stretchtopus Mocheese	Recovery Items
+5923	Okonomiyaki	Recovery Items
+5924	Okonomiyaki (Machi & Cheese)	Recovery Items
+5925	Okonomiyaki (Mentai Mayo)	Recovery Items
+5931	Galaxy Force	Valuables
+5932	Flicky	Valuables
+5933	Pool Points	Valuables
+5934	Golf Points	Valuables
+5935	Pocket Circuit Points 	Valuables
+5936	Shogi Points 	Valuables
+5937	Insulated Shirt	Gear
+5938	Iron Breastplate	Gear
+5939	Body Armor	Gear
+5940	Bulletproof Vest	Gear
+5941	Military Armor	Gear
+5942	Military Bulletproof Vest	Gear
+5943	Rusted Chainmail	Gear
+5944	Sengoku Armor	Gear
+5945	Chainmail	Gear
+5946	Gruesome Chainmail	Gear
+5947	Blesswood Armor Replica	Gear
+5948	Blesswood Armor	Gear
+5949	Pure White Briefs	Gear
+5950	Sengoku Fundoshi	Gear
+5951	Fighter's Binding	Gear
+5952	Fearless Binding	Gear
+5953	Dragon's Binding	Gear
+5954	Bloody Binding	Gear
+5955	Red Gem Bracelet	Gear
+5956	Ble Gem Bracelet	Gear
+5957	Green Gem Brecelet	Gear
+5958	White Gem Bracelet	Gear
+5959	Suzaku Bracelet	Gear
+5960	Seiryu Bracelet	Gear
+5961	Genbu Bracelet	Gear
+5962	Byakko Bracelet	Gear
+5963	Payback Ring	Gear
+5964	Blood Ring	Gear
+5965	Contact Lenses	Gear
+5966	Calming Kerchief	Gear
+5967	mini-more Perfume	Gear
+5968	Indra's Amulet	Gear
+5969	Hariti's Amulet	Gear
+5970	Charismatic Photo	Gear
+5971	Bloody Talisman	Gear
+5972	War God Talisman	Gear
+5973	Eye of the Dragon	Gear
+5974	Dragon God Amulet	Gear
+5975	Chu-Chu Tako Doll	Other
+5976	Chu-Chu Tako Doll (Takoyaki)	Other
+5979	Standard Darts 	Valuables
+5982	Gold Darts	Valuables
+5983	Legendary Darts	Valuables
+5990	Toughness ZZ	Recovery Items
+5991	Toughness Infinity	Recovery Items
+5992	Tauriner +	Recovery Items
+5993	Tauriner ++	Recovery Items
+5994	Tauriner Maximum	Recovery Items
+5995	Staminan XX	Recovery Items
+5996	Staminan Royale	Recovery Items
+5997	Chu-Chu Tako Doll (Headband)	Other
+6008	Red Tiger	Valuables
+6009	Silver Tiger 	Valuables
+6010	Gold Tiger	Valuables
+6011	Platinum Tiger	Valuables
+6012	Egg	Recovery Items
+6013	Qyality Egg	Recovery Items
+6015	Soccer Ball 	Valuables
+6016	Silver Darts 	Valuables
+6017	Premier Darts	Valuables
+6018	Mevius	Other
+6019	Ceremonial Oath Sake Cup (Pine)	Other
+6020	Ceremonial Oath Sake Cup (Bamboo)	Other
+6021	Ceremonial Oath Sake Cup (Plum)	Other
+6022	Ceremonial Oath Sake Cup (Sakura)	Other
+6023	Wire Gadget: Spider	Valuables
+6024	Cigarette Gadget: Firefly	Valuables
+6025	Shoe Gadget: Serpent 	Valuables
+6034	Roses	Valuables
+6035	Pencils	Valuables
+6036	Forks	Valuables
+6037	Toy Crows	Valuables
+6038	Thunder Darts	Valuables
+6039	Wind Darts 	Valuables
+6040	Michi-Michio Decal	Car Parts
+6041	Essences Of Decals	Car Parts
+6042	The Basci Guide to Cooperative Fighting	Other
+6043	The Practical Guide to Cooperative Fighting	Other
+6044	The Advanced Guide to Cooperative Fighting	Other
+6045	The Secret Ultimate Guide to Cooperative Fighting	Other
+6049	Shoes	Valuables
+6050	Baby Tooth 	Valuables
+6051	Hat	Valuables
+6052	Wedding Ring	Valuables
+6053	Signed Ball	Valuables
+6054	Underwear	Valuables
+6055	Crawfish 	Valuables
+6056	Gold Ball	Valuables
+6057	Agent Suit	Valuables
+6058	Formal Attire 	Valuables
+6059	Rugged Suit	Valuables
+6060	Three-piece Suit	Valuables
+6061	Sport Coat	Valuables
+6062	Shirtless Blazer	Valuables
+6063	Long-Sleeved Button-up	Valuables
+6064	Short-Sleeved Button-up	Valuables
+6065	T-Shirt	Valuables
+6066	Bodysuit	Valuables
+6067	Agent Glasses	Valuables
+6068	Round Sunglasses 	Valuables
+6069	Intelligent Glasses 	Valuables
+6070	Wellington Glasses	Valuables
+6071	Rimless Glasses	Valuables
+6072	Cyber Sunglasses 	Valuables
+6073	Aviator Glasses 	Valuables
+6074	Big Frame Sunglasses 	Valuables
+6075	Snake Eyepatch	Valuables
+6076	Bear in love Mask	Valuables
+6077	Dragon Mask	Valuables
+6078	Black Medical Mask	Valuables
+6079	Hockey Mask	Valuables
+6080	Noh Mask 	Valuables
+6081	Hyottoko Mask	Valuables
+6082	Fox Mask	Valuables
+6083	Masquerade Mask	Valuables
+6084	Ono Michio Mask	Valuables
+6085	Fukupii-Chan Head	Valuables
+6086	Baseball Cap	Valuables
+6087	Straw Hat	Valuables
+6088	Tam	Valuables
+6089	Beanie 	Valuables
+6090	Taxi Driver Cap	Valuables
+6091	Construction Company Helmet 	Valuables
+6092	Fedora 	Valuables
+6093	Leather Gloves	Valuables
+6094	Fingerless Gloves	Valuables
+6095	Gel Nails	Valuables
+6096	Jeweled Ring	Valuables
+6097	Silver Ring	Valuables
+6098	Agent Shoes	Valuables
+6099	Business Shoes	Valuables
+6100	Snakeskin Shoes	Valuables
+6101	Leather Shoes	Valuables
+6102	Casual Leather Shoes	Valuables
+6103	Monk Strap Loafers 	Valuables
+6104	Sneakers	Valuables
+6105	Slippers 	Valuables
+6106	Straw Sandals	Valuables
+6107	Bare Feet	Valuables
+6108	Cuff Earrings 	Valuables
+6109	Hoop Earrings 	Valuables
+6110	Ball Stuf Earrings 	Valuables
+6111	Jewel Stud Earrings 	Valuables
+6112	Pilot Badge	Valuables
+6113	Yakuza Dress Up Badge (Round)	Valuables
+6114	Yakuza Dress Up Badge (Hex)	Valuables
+6115	Nametag	Valuables
+6116	Carnation 	Valuables
+6117	Single Rose	Valuables
+6118	Devilish Makeup 	Valuables
+6119	Kabuki Makeup	Valuables
+6120	Visual-kei Makeup	Valuables
+6121	Clown Makeup	Valuables
+6122	Light Makeup	Valuables
+6123	Kitty Makeup	Valuables
+6124	Weird Stranger Makeup	Valuables
+6125	Old Scar Makeup	Valuables
+6126	Heavy Makeup	Valuables
+6127	Color Contacts (Gold)	Valuables
+6128	Color Contacts (Silver)	Valuables
+6129	Nourishment of the Sea King	Recovery Items
+6130	Refresment of the Sky King	Recovery Items
+6131	Nutriment of the Conquering Emperor	Recovery Items
+6132	Shen-San's Panties	Other
+6134	Great Fortune Silver Undies	Gear
+6135	Great Fortune Gold Undies	Gear
+[/ID]

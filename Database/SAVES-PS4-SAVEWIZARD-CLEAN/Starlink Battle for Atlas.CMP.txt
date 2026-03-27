@@ -1,0 +1,41 @@
+^2 = GameID: CUSA06938
+^3 = NAME: Starlink: Battle For Atlas
+^SECONDLAYER: NO
+^4 = FILE: manual[0-9]{3}\savedata.data
+{<div class="save-info"><h4>Save Information</h4><table border="1" cellpadding="4" cellspacing="0"><thead><tr><th>IDS</th><th>Names</th></tr></thead><tbody><tr><td>0000140000000014</td><td>Electrum</td></tr><tr><td>0000140100000014</td><td>Skill Points</td></tr><tr><td>0000140200000014</td><td>Exp</td></tr><tr><td>0000140300000014</td><td></td></tr><tr><td>0000140400000014</td><td>Nova</td></tr><tr><td>0000140500000014</td><td></td></tr><tr><td>0000140600000014</td><td>Cogs</td></tr><tr><td>0000140700000014</td><td></td></tr><tr><td>0000140800000014</td><td></td></tr><tr><td>0000140900000014</td><td></td></tr><tr><td>0000140A00000014</td><td></td></tr><tr><td>0000140B00000014</td><td></td></tr><tr><td>0000140C00000014</td><td></td></tr><tr><td>0000140D00000014</td><td></td></tr><tr><td>0000140E00000014</td><td></td></tr></tbody></table></div>}
+!Currencies:
++Max Electrum(yellow)
+$80010009 00000014
+$00000000 14000000
+$28000009 05F5E0FF
++Max Nova(blue)
+$80010009 00000014
+$04000000 14000000
+$28000009 05F5E0FF
++Max Cogs(purple)
+$80010009 00000014
+$06000000 14000000
+$28000009 05F5E0FF
+!Another Version{Put Current Amount You see In Game}:
++Max Electrum(yellow)
+$80010008 00001400
+$00000014 [Amount:00000000:HEX:LITTLE<CurrentValue>]
+$28000009 05F5E0FF
++Max Nova(blue)
+$80010008 00001404
+$00000014 [Amount:00000000:HEX:LITTLE<CurrentValue>]
+$28000009 05F5E0FF
++Max Cogs(purple)
+$80010008 00001406
+$00000014 [Amount:00000000:HEX:LITTLE<CurrentValue>]
+$28000009 05F5E0FF
+!!
+!!
++Skill Points
+80010008 00001401
+00000014 [Amount:00000000:HEX:LITTLE<CurrentValue>]
+08000008 00000063
++EXP
+80010008 00001402
+00000014 [Amount:00000000:HEX:LITTLE<CurrentValue>]
+28000008 0002809F

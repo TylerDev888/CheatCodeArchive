@@ -1,0 +1,930 @@
+^1 = Hash: D7 D9 A2 A3 06 87 C1 62 C2 F1 61 17 20 C6 8D 14 78 72 A4 51
+^2 = GameID: SLUS_214.73
+^3 = NAME: Capcom Classics Collection-Volume 2
+%Credits: CMX>Lee4
+!Masters:
++Enable Code (MUST BE ON)
+90160AB0 00832021
+!!
+^4 = FILE: Main Menu 
++All Bonus
+40259DEC 00140070
+00000002 00000000
+40259DF0 00140070
+00000002 00000000
+40259DF4 00140070
+00000002 00000000
+^4 = FILE: 1941
+!Masters:
+Enable Code (MUST BE ON)
+$9015EA98 0C05B1AA
+!!
++Infinite Credits
+$D01B9552 00003246
+$004D87C9 00000009
++Quick Hi-Score Gain
+$D01B9552 00003246
+$104D880A 00009999
++Max Hi-Score
+$D01B9552 00003246
+$204D8808 99999999
+!Players:
+!Player 1:
++Max Vital/Rolls
+$D01B9552 00003246
+$004D8814 00000005
++Infinite Vital/Rolls
+$D01B9552 00003246
+$004D8815 00000005
++Quick Score Gain
+$D01B9552 00003246
+$104D8828 00009999
++Max Score
+$E0023246 001B9552
+$104D8826 00009999
+$104D8828 00009999
++Infinite Ammo
+$D01B9552 00003246
+$004D8857 00000099
++Fully Loaded Weapon
+$D01B9552 00003246
+$004E3FE8 00000007
++Invincible
+$D01B9552 00003246
+$004D886A 00000001
++Max Energy Value
+$D01B9552 00003246
+$004D8814 00000006
++Class Level 8
+$D01B9552 00003246
+$004D883C 00000007
++After Image
+$D01B9552 00003246
+$004D8852 00000001
++Gun Type - Vulcan
+$D01B9552 00003246
+$004D8838 00000000
++Gun Type - Machine Gun
+$D01B9552 00003246
+$004D8838 00000001
++Gun Type - Super Shell
+$D01B9552 00003246
+$004D8838 00000002
++Gun Type - Missile
+$D01B9552 00003246
+$004D8838 00000003
++Rapid Fire
+$E0033246 001B9552
+$004D8EE1 00000003
+$004DB2E1 00000003
+$004DB361 00000003
++Extreme Firepower
+$D01B9552 00003246
+$004E3FE8 00000006
++Side Fighters - Left Fighter
+$E0033246 001B9552
+$004E1509 00000001
+$004E1508 00000001
+$004E14B4 00000005
++Side Fighters - Right Fighter
+$E0043246 001B9552
+$004E1489 00000001
+$004E1488 00000001
+$004E148B 00000001
+$004E1534 00000005
++Side Fighters - Both Fighters
+$E0073246 001B9552
+$004E1509 00000001
+$004E1508 00000001
+$004E14B4 00000005
+$004E1489 00000001
+$004E1488 00000001
+$004E148B 00000001
+$004E1534 00000005
++Invincibility - 1st Side Fighter
+$E0023246 001B9552
+$004E14D4 00000002
+$004E1554 00000002
+I+nvincibility - 2nd Side Fighter
+$E0023246 001B9552
+$004E13D4 00000002
+$004E1454 00000002
++Rapid Fire - 1st Side Fighter
+$E0023246 001B9552
+$004E14DD 00000003
+$004E155D 00000003
++Rapid Fire - 2nd Side Fighter
+$E0023246 001B9552
+$004E13DD 00000003
+$004E145D 00000003
+!!
+!Player 2:
++Max Vital/Rolls
+$D01B9552 00003246
+$004D8816 00000005
++Infinite Vital/Rolls
+$D01B9552 00003246
+$004D8817 00000005
++Quick Score Gain
+$D01B9552 00003246
+$104D882C 00009999
++Max Score
+$E0023246 001B9552
+$104D882A 00009999
+$104D882C 00009999
++Infinite Ammo
+$D01B9552 00003246
+$004D8858 00000099
++Fully Loaded Weapon
+$D01B9552 00003246
+$004E3FEC 00000007
++Invincible
+$D01B9552 00003246
+$004D886B 00000001
++Max Energy Value
+$D01B9552 00003246
+$004D8816 00000006
++After Image
+$D01B9552 00003246
+$004D8853 00000001
++Gun Type - Vulcan
+$D01B9552 00003246
+$004D883B 00000000
++Gun Type - Machine Gun
+$D01B9552 00003246
+$004D883B 00000001
++Gun Type - Super Shell
+$D01B9552 00003246
+$004D883B 00000002
++Gun Type - Missile
+$D01B9552 00003246
+$004D883B 00000003
++Rapid Fire
+$E0033246 001B9552
+$004D8F61 00000003
+$004DB3E1 00000003
+$004DB461 00000003
++Extreme Firepower
+$D01B9552 00003246
+$004E3FEC 00000007
+!!
+!!
+^4 = FILE: Avengers 
+^4 = FILE: Black Tiger 
+^4 = FILE: Block Block 
+^4 = FILE: Captain Commando 
+^4 = FILE: Eco Fighters 
+^4 = FILE: King Of Dragons 
+^4 = FILE: Knights Of The Round 
+^4 = FILE: Last Duel
+!Masters:
++Enable Code (MUST BE ON)
+$9015B840 00832021
+!!
++Infinite Time
+$006104C9 00000099
+!Players:
+!Player 1:
++Infinite Lives
+$006104D6 0000000B
++Invincibility
+$0061062B 00000080
++Infinite Rolling
+$00610628 00000006
++Maximum Homing Missiles
+$00610627 00000006
++Pod On - Left
+$006115EC 00000001
++Pod On - Right
+$0061164C 00000001
++Get Maximum Speed - Car
+$00610622 00000060
++Get Maximum Speed - Plane
+$00610622 0000000C
++Rapid Fire - Weapon
+$00610629 00000000
++Rapid Fire - H. Missiles
+$0061062A 00000000
++Rapid Fire - Left Pod
+$0061161E 00000000
++Rapid Fire - Right Pod
+$0061167E 00000000
++Always Have Normal Weapon
+$00610626 00000000
++Always Have Double
+$00610626 00000002
++Always Have 3-Way
+$00610626 00000004
++Always Have Shotgun
+$00610626 00000006
++Always Have Flame
+$00610626 00000008
+!!
+!Player 2:
++Infinite Lives
+$006104D7 0000000B
++Invincibility
+$006106AB 00000080
++Infinite Rolling
+$006106A8 00000006
++Maximum Homing Missiles
+$006106A7 00000006
++Pod On - Left
+$006116AC 00000001
++Pod On - Right
+$0061170C 00000001
++Get Maximum Speed - Car
+$006106A2 00000060
++Get Maximum Speed - Plane
+$006106A2 0000000C
++Rapid Fire - Weapon
+$006106A9 00000000
++Rapid Fire - H. Missiles
+$006106AA 00000000
++Rapid Fire - Left Pod
+$006116DE 00000000
++Rapid Fire - Right Pod
+$0061173E 00000000
++Always Have Normal Weapon
+$006106A6 00000000
++Always Have Double
+$006106A6 00000002
++Always Have 3-Way
+$006106A6 00000004
++Always Have Shotgun
+$006106A6 00000006
++Always Have Flame
+$006106A6 00000008
+!!
+!!
+^4 = FILE: Magic Sword 
+!Masters:
+Enable Code (MUST BE ON)
+$9015E580 00832021
+!!
++Quick Hi-Score Gain
+$104E13C2 00009999
++Max Hi-Score
+$204E13C0 99999999
++Infinite Time
+$004E6A7B 00000099
++Stage Select - Stage 1
+$004E13D6 000000[Amount:3C:HEX:BIG<Stage 1 to 62>]
+!Players:
+!Player 1:
++Infinite Health
+$204E14BC 5B095B09
++Quick Score Gain
+$104E13B2 00009999
++Max Score
+$204E13B0 99999999
++Infinite Keys-Type 1
+$004E1519 00000009
++Infinite Keys-Type 2
+$004E151A 00000009
++Infinite Keys-Type 3
+$004E151B 00000009
++Invincibility (player)
+$004E1510 00000002
++Invincibility (partner)
+$004E22F5 00000075
++Inf Magic
+$004E14EC 00000099
++Max Power
+$004E14FB 00000060
+$004E14FA 00000060
++No Magic Item Floor Limit
+$004E1528 00000003
++No Magic Stick Power Limit
+$004E1545 000000FF
+$004E1547 00000001
++Max Weapon Level
+$004E20D5 0000000C
++Max Shield Level
+$004E21D5 00000008
++Poison No Effect
+$004E1513 00000000
++Partner Max Level
+$004E22D5 0000000E
++Partner - None
+$004E1517 00000000
+$004E22D1 00000000
++Partner - Ninja
+$004E1517 00000001
+$004E22D1 [MMPA]
++Magic Item - Mod
+$004E1526 [MDMI]
+!!
+!Player 2:
++Infinite Health
+$204E157C 5B095B09
++Quick Score Gain
+$104E13B6 00009999
++Max Score
+$204E13B4 99999999
++Infinite Keys-Type 1
+$004E15D9 00000009
++Infinite Keys-Type 2
+$004E15DA 00000009
++Infinite Keys-Type 3
+$004E15DB 00000009
++Invincibility (player)
+$004E15D0 00000002
++Invincibility (partner)
+$004E23B5 00000075
++Inf Magic
+$004E15AC 00000099
++Max Power
+$004E15BB 00000060
+$004E15BA 00000060
++No Magic Item Floor Limit
+$004E15E8 00000003
++No Magic Stick Power Limit
+$004E1605 000000FF
+$004E1607 00000001
++Max Weapon Level
+$004E2195 0000000C
++Max Shield Level
+$004E2295 00000008
++Poison No Effect
+$004E15D3 00000000
++Partner Max Level
+$004E2395 0000000E
++Partner - None
+$004E15D7 00000000
+$004E2391 00000000
++Partner - Mod
+$004E15D7 00000001
+$004E2391 [MMPA]
++Magic Item - Mod
+$004E15E6 [MDMI]
+!!
+!!
+^4 = FILE: Mega Twins
+!Masters:
++Enable Code (MUST BE ON)
+$9015E688 00832021
+!!
+Infinite Time
+$004D93D9 00000059
+Character Type - Normal
+$004D93E5 [MTCT]
+Stage Select - MOD
+$004D93D4 [MTSS]
+!Players 
+!Player 1:
++Inf Lives
+$004D98EB 00000003
++Inf Health
+$004D991B 00000040
++Inf Magic
+$004D9943 00000006
++Invincible
+$004D990B 000000B4
++Jump Shoes
+$004D9922 00000001
++Sword Level - Level Mod
+$004D992F 000000[Amount:07:HEX:BIG<0 is 1>]
++Magic Type - Mod
+$004D9924 [MTMT]
++Helm Type - Mod
+$004D9923 [MTHT]
+!!
+!Player 2:
++Inf Lives
+$004D99AB 00000003
++Inf Health
+$004D99DB 00000040
++Inf Magic
+$004D9A03 00000006
++Invincible
+$004D99CB 000000B4
++Jump Shoes
+$004D99E2 00000001
++Sword Level - Level 1
+$004D99EF 000000[Amount:07:HEX:BIG<0 is 1>]
++Magic Type - Mod
+$004D99E4 [MTMT]
++Helm Type - Mod
+$004D99E3 [MTHT]
+!!
+!!
+^4 = FILE: Side Arms 
+!Masters:
++Enable Code (MUST BE ON)
+$901559B0 00832021
+!!
++Infinite Transforms On Pickup
+$00532825 00000002
+!Players:
+!Player 1:
++Infinite Lives
+$00533A1B 00000009
++Invincibility On
+$00533A1E 00000080
++Always Have Full Speed
+$00533A28 00000003
++Always Have Bit
+$00533A21 00000016
++Always Have S.g.
+$00533A22 00000016
++Always Have M.b.l.
+$00533A23 00000016
++Always Have 3 Way
+$00533A24 00000016
++Always Have Autofire
+$00533A25 00000016
+!!
+!Player 2:
++Infinite Lives
+$00533C1B 00000009
++Invincibility On
+$00533C1E 00000080
++Always Have Full Speed
+$00533C28 00000003
++Always Have Bit
+$00533C21 00000016
++Always Have S.g.
+$00533C22 00000016
++Always Have M.b.l.
+$00533C23 00000016
++Always Have 3 Way
+$00533C24 00000016
++Always Have Autofire
+$00533C25 00000016
+!!
+!!
+^4 = FILE: Street Fighter
+!Masters:
++Enable Code (MUST BE ON)
+$9015B3E0 00832021
+!!
++Infinite Time
+$105F1058 00000909
+$005F105A 00000009
++Always Have No Energy CPU
+$105F48AA 00000000
++Rounds Won Always = 0 CPU
+$005F48AC 00000000
+!Players:
+!Player 1:
++Infinite Health P1
+$105F08F6 00000B04
++Quick Score Gain P1
+$105F0916 00000909
+$005F0918 00000909
++Max Score P1
+$105F0912 00000909
+$205F0914 09090909
+$105F0918 00000909
++Finish Round To Win Match Pl1
+$005F08F8 00000002
++Always Have No Energy Pl1
+$105F08F6 00000000
++Rounds Won Always = 0 Pl1
+$005F08F8 00000000
++Always Quick Motion Pl1
+$005F6673 00000000
++Easy Tatsumaki Pl1
+$005F0906 00000002
++Easy Syouryuuken Pl1
+$005F0909 00000002
++Easy Hadouken Pl1
+$005F090C 00000002
+!!
+!Player 2:
++Infinite Health P2
+$105F0920 00000B04
++Quick Score Gain P2
+$205F0940 09090909
++Max Score P2
+$005F093D 00000009
+$105F093E 00000909
+$205F0940 09090909
++Finish Round To Win Match Pl2
+$005F0922 00000002
++Always Have No Energy Pl2
+$105F0920 00000000
++Rounds Won Always = 0 Pl2
+$005F0922 00000000
++Always Quick Motion Pl2
+$005F66A3 00000000
++Easy Tatsumaki Pl2
+$005F0930 00000002
++Easy Syouryuuken Pl2
+$005F0933 00000002
++Easy Hadouken Pl2
+$005F0936 00000002
+!!
+!!
+^4 = FILE: Strider
+!Masters:
++Enable Code (MUST BE ON)
+$9015E3F8 00832021
+!!
++Infinite Time
+$104F265A 00005802
++Quick Hi-Score Gain
+$104F2396 00009999
++Max Hi-Score
+$204F2394 99999999
++Infinite Health
+$104F23E6 00000000
++Infinite Lives
+$004F2398 00000003
++Quick Score Gain
+$104F23A8 00009999
++Max Score
+$104F23A6 00009999
+$104F23A8 00009999
++Invincible - Invincible
+$004F27D8 00000000
++Invincible - No Hit Invincible
+$004F23E5 0000006B
++Infinite Health
+$004F23D6 00000081
+$004F23D7 00000081
+$004F23D8 00000081
+$004F23D9 00000081
+$004F23DA 00000081
++Infinite Psyfer (sword Power)
+$004F23D3 000000FF
++Infinite Shadow
+$004F23D1 00000076
++Infinite Wolf Time
+$004F23E8 00000000
+$004F23E9 000000FF
++Pods - One Pod
+$004F23D4 00000001
++Pods - Two Pods
+$004F23D4 00000002
++Pods - Wolf
+$004F23D4 00000000
+$004F23E8 000000FF
++Stage Select - Mod
+$004F23A2 000000[Amount:04:HEX:BIG<0 stage 1 goes to 4>]
+^4 = FILE: Super SFII Turbo
+!Masters:
++Enable Code (MUST BE ON)
+$9016EAA8 00832021
+!!
++Infinite Time
+$1084CADE 00000099
++Quick Hi-Score Gain
+$1085142C 00009999
++Max Hi-Score
+$1085142A 00009999
+$1085142C 00009999
+!Players:
+!Player 1:
++Quick Score Gain
+$1084C4FA 00009999
++Max Score
+$2084C4F8 99999999
++Infinite Health
+$0084C189 00000090
++Infinite Super Bar
+$0084C412 00000030
++No Super Bar
+$0084C412 00000000
+!!
+!Player 2:
++Quick Score Gain
+$1084C8FA 00009999
++Max Score
+$2084C8F8 99999999
++Infinite Health
+$0084C589 00000090
++Infinite Super Bar
+$0084C812 00000030
++No Super Bar
+$0084C812 00000000
+!!
+!!
+^4 = FILE: The Speed Rumbler 
+!Masters:
++Enable Code (MUST BE ON)
+$901517B8 00832021
+!!
++Quick Hi-Score Gain
+$104B057C 00009999
++Max Hi-Score
+$104B057A 00009999
+$104B057C 00009999
++Infinite Lives
+$004B057F 00000005
++Infinite Car Health
+$104B098C 00000000
++Quick Score Gain
+$004B0589 00000099
+$004B058A 00000099
++Max Score
+$004B0587 00000099
+$104B0588 00009999
+$004B058A 00000099
++Infinite Time
+$004B0584 00000000
++Super Shots
+$004B09B8 00000002
++Super Speed
+$004B09B0 0000000F
+^4 = FILE: Three Wonders
+!Masters:
++Enable Code (MUST BE ON)
+$9015ECC8 00832021
+!!
++Infinite Credits
+$004F75C9 00000009
++P1 Inf Lives*
+$004F7657 00000003
++P2 Inf Lives*
+$004F7658 00000003
+!Midnight Warriors Codes:
++Infinite Time
+$004F7881 00000009
++Stage Select - Mod
+$004F7639 000000[Amount:04:HEX:BIG<0 is Stage 1, 4 is stage 5>]
+!Players:
+!Player 1:
++Invincible
+$004F80A8 000000B4
+$004F802A 00000080
++Inf Super Bomb Ammo
+$004F76A6 000000FF
++1 Heart = Extra Life
+$004F7687 00000063
+$004F7689 00000064
++Weapon - Normal
+$004F7684 00000001
++Weapon - Hyper Shot
+$004F7684 00000002
++Weapon - Tail Shot
+$004F7684 00000003
++Weapon - Bound Shot
+$004F7684 00000004
++Weapon - Super Bomb
+$004F7684 00000000
++Option - Flames
+$004F7653 00000001
++Option - Circular
+$004F7653 00000002
+!!
+!Player 2:
++Invincible
+$004F8148 000000B4
+$004F80CA 00000080
++Inf Super Bomb Ammo
+$004F76A8 000000FF
++1 Heart = Extra Life
+$004F768B 00000063
+$004F768D 00000064
++Weapon - Normal
+$004F7685 00000001
++Weapon - Hyper Shot
+$004F7685 00000002
++Weapon - Tail Shot
+$004F7685 00000003
++Weapon - Bound Shot
+$004F7685 00000004
++Weapon - Super Bomb
+$004F7685 00000000
++Option - Flames
+$004F7655 00000001
++Option - Circular
+$004F7655 00000002
+!!
+!!
+!!
+!Chariot:
++Unlimited Boss Time
+$004F7872 00000027
+$004F7873 0000000F
++Stage Select - Mod
+$004F7639 000000[Amount:06:HEX:BIG<0 is Stage 1, 6 is stage 7>]
+!Players:
+!Player 1:
++Invincible
+$004F80A8 000000B4
+$004F802A 00000080
++Max Options
+$004F80AB 00000006
+$004F80AD 00000007
++Max Fire Power
+$004F80B5 00000004
+$004F80B7 00000004
++Max Bomb Power
+$004F80B2 00000002
++Protection
+$004F80AE 00000001
++1 Heart = Extra Life*
+$004F80BD 00000059
+$004F80BC 0000005A
++Fire - Rapid Shot
+$004F80AF 00000001
++Fire - Wide Shot
+$004F80AF 00000002
+!!
+!Player 2:
++Invincible
+$004F8148 000000B4
+$004F80CA 00000080
++Max Options
+$004F814B 00000006
+$004F814D 00000007
++Max Fire Power
+$004F8155 00000004
+$004F8157 00000004
++Max Bomb Power
+$004F8152 00000002
++Protection
+$004F814E 00000001
++1 Heart = Extra Life*
+$004F815D 00000059
+$004F815C 0000005A
++Fire - Rapid Shot
+$004F814F 00000001
++Fire - Wide Shot
+$004F814F 00000002
+!!
+!!
+!!
+!Don't Pull Codes:
++Skip Rounds
+$004F78BA 00000000
++Fruit = 100000
+$004F7733 0000002C
+!Players:
+!Player 1:
++Invincible
+$004F8042 00000001
+$004F8043 0000002C
++1 Fruit = Extra Life
+$004F772C 00000062
+$004F772E 00000063
+!!
+!Player 2:
++Invincible
+$004F80E2 00000001
+$004F80E3 0000002C
++1 Fruit = Extra Life
+$004F772D 00000062
+$004F772F 00000063
+!!
+!!
+!!
+^4 = FILE: Tiger Road
+!Masters:
++Enable Code (MUST BE ON)
+$9015ADC8 00832021
+!!
++Quick Hi-Score Gain
+$10510374 00009999
++Max Hi-Score
+$10510372 00009999
+$10510374 00009999
++Infinite Health-Don't Enable When Under Attack
+$10510940 00000040
++Infinite Lives
+$00510376 00000005
++Quick Score Gain
+$10510380 00009999
++Max Score
+$1051037E 00009999
+$10510380 00009999
++Infinite Time
+$0051037D 0000005A
++Kill This Boss Now!*
+$005103B0 00000000
+^4 = FILE: Varth
+!Masters:
++Enable Code (MUST BE ON)
+$9015E980 00832021
+!!
+Stage Select - Stage 1
+$004DF6B1 000000[Amount:1E:HEX:BIG<0 is level 1,1E is 30>]
+!Players:
+!Player 1:
++Inf Lives
+$004DF554 00000099
++Inf Bombs
+$004DF563 00000005
++Invincible
+$004DF4D3 000000F0
+$004DF4B0 00000002
++Max Fire Power
+$004DF561 00000007
++Max Missile Power
+$004DF566 00000003
++Fire Type - Normal
+$004DF562 00000000
++Fire Type - 3-Way
+$004DF562 00000002
++Fire Type - Laser
+$004DF562 00000004
++Missile Type* - H
+$004DF568 00000000
++Missile Type* - M
+$004DF568 00000001
++Missile Type* - N
+$004DF568 00000002
++Hyper Shot - Fire Only
+$004DF4F1 00000000
++Hyper Shot - Missile Only
+$004DF4F4 00000000
+!!
+!Player 2:
++Inf Lives
+$004DF654 00000099
++Inf Bombs
+$004DF663 00000005
++Invincible
+$004DF5D3 000000F0
+$004DF5B0 00000002
++Max Fire Power
+$004DF661 00000007
++Max Missile Power
+$004DF666 00000003
++Fire Type - Normal
+$004DF662 00000000
++Fire Type - 3-Way
+$004DF662 00000002
++Fire Type - Laser
+$004DF662 00000004
++Missile Type* - H
+$004DF668 00000000
++Missile Type* - M
+$004DF668 00000001
++Missile Type* - N
+$004DF668 00000002
++Hyper Shot - Fire Only
+$004DF5F1 00000000
++Hyper Shot - Missile Only
+$004DF5F4 00000000
+!!
+!!
+^6 = MODS:
+[MDMI]
+Value>NAME
+00000000	NONE
+00000001	Pod
+00000002	Fairy Stone (No Effect)
+00000003	Extended Charge Label
+00000004	Magic Stick (No Effect)
+00000005	Pendant
+00000006	Gauntlet
+00000007	Scroll
+00000008	Gold Crown
+00000009	Ring
+0000000A	Blue Stone
+0000000B	Potion
+0000000C	10.000pts Stone (No Effect)
+[/MDMI]
+[MMPA]
+Value>NAME
+00000000	Ninja
+00000002	Bigfoot
+00000003	
+00000004	Priest
+00000005
+00000006	Magician
+00000007	
+00000008	Amazone
+00000009	
+0000000A	Knight
+0000000B	
+0000000C	Thief
+0000000D	
+0000000E	Lizardman
+[/MMPA]
+[MTMT]
+Value>NAME
+00000004	Bomber (Red)
+00000006	Bomb (Yellow)
+00000008	Tyhoon (Blue)
+0000000A	Bound (Green)
+[/MTMT]
+[MTHT]
+Value>NAME
+00000000	None
+00000001	Flying
+00000002	Swimming
+[/MTHT]
+[MTCT]
+Value>NAME
+00000000	Normal
+00000001	Flying
+00000002	Swimming
+00000003	Flying (Alt)
+[/MTCT]
+[MTSS]
+Value>NAME
+00000001	Round 1
+00000002	Round 2
+00000003	Round 3
+00000004	Round 4-1
+00000005	Round 4-2
+00000006	Round 4-3
+00000007	Round 4-4
+00000008	Round 4-5
+00000009	Round 5
+[/MTSS]

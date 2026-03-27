@@ -1,0 +1,204 @@
+^2 = GameID: SLUS_204.86 
+^3 = NAME: Marvel vs. Capcom 2
+%Credit: Hacc
+!Masters:
++Enable Code (MUST BE ON)
+$901063F8 0C0418A6
+!!
+!Character:
+!Player 1:
++Slow Animation (hold L3)
+$E003FFFD 0062C702
+$004F2264 00000001
+$004F2DD4 00000001
+$004F3944 00000001
++Infinite Move Time (hold Select){Depending On The Move, You Will Be Able To Make It Last Forever. For Example, Holding Select During Ryu's Hurricane Kick Will Make It Infinite Until You Release Select}
+$E003FFFE 0062C702
+$004F20CC 00000040
+$004F2C3C 00000040
+$004F37AC 00000040
++Sakura Modifier (select+l1: Normal; Select+r1: Dark){This Will Allow You To Change Her Moves At Will Without Using A Special.}
+$E003FBFE 0062C702
+$004F2180 00000000
+$004F2CF0 00000000
+$004F3860 00000000
+$E003F7FE 0062C702
+$004F2180 00000001
+$004F2CF0 00000001
+$004F3860 00000001
++Zangief Modifier (select+l2: Normal; Select+r2: Mech){This Will Allow You To Change His Moves At Will Without Using A Special. Other Characters Will Be Affected By This Code. Replace The Value "80" With 1 To Make All Characters Stable. This Will Give You A Semi-Mech Zangief (minus The Heaviness).}
+$E003FEFE 0062C702
+$004F22C6 00000000
+$004F2E36 00000000
+$004F39A6 00000000
+$E003FDFE 0062C702
+$004F22C6 00000080
+$004F2E36 00000080
+$004F39A6 00000080
+!Character 1:
++Modifier
+$004F25F0 000000[MD]
++Infinite Projectiles
+$004F236A 00000000
++Has Speed Up
+$004F24AE 00000002
++Has Power Up{Use Ff For Max Damage.}
+$004F22C9 000000[Amount:28:HEX:BIG]
++Has Super Armor
+$004F24A8 00000002
+!!
+!Character 2:
++Modifier
+$004F3160 000000[MD]
++Infinite Projectiles
+$004F2EDA 00000000
++Has Speed Up
+$004F301E 00000002
++Has Power Up{Use Ff For Max Damage.}
+$004F2E39 000000[Amount:28:HEX:BIG]
++Has Super Armor
+$004F3018 00000002
+!!
+!Character 3:
++Modifier
+$004F3CD0 000000[MD]
++Infinite Projectiles
+$004F3A4A 00000000
++Has Speed Up
+$004F3B8E 00000002
++Has Power Up{Use Ff For Max Damage.}
+$004F39A9 000000[Amount:28:HEX:BIG]
++Has Super Armor
+$004F3B88 00000002
+!!
+!!
+!Player 2:
++Slow Animation (hold L3)
+$E003FFFD 0062C682
+$004F281C 00000001
+$004F338C 00000001
+$004F3EFC 00000001
++Infinite Move Time (hold Select){Depending On The Move, You Will Be Able To Make It Last Forever. For Example, Holding Select During Ryu's Hurricane Kick Will Make It Infinite Until You Release Select}
+$E003FFFE 0062C682
+$004F2684 00000040
+$004F31F4 00000040
+$004F3D64 00000040
++Sakura Modifier (select+l1: Normal; Select+r1: Dark){This Will Allow You To Change Her Moves At Will Without Using A Special.}
+$E003FBFE 0062C682
+$004F2738 00000000
+$004F32A8 00000000
+$004F3E18 00000000
+$E003F7FE 0062C682
+$004F2738 00000001
+$004F32A8 00000001
+$004F3E18 00000001
++Zangief Modifier (select+l2: Normal; Select+r2: Mech){This Will Allow You To Change His Moves At Will Without Using A Special. Other Characters Will Be Affected By This Code. Replace The Value "80" With 1 To Make All Characters Stable. This Will Give You A Semi-Mech Zangief (minus The Heaviness).}
+$E003FEFE 0062C682
+$004F287E 00000000
+$004F33EE 00000000
+$004F3F5E 00000000
+$E003FDFE 0062C682
+$004F287E 00000080
+$004F33EE 00000080
+$004F3F5E 00000080
+!Character 1:
++Modifier
+$004F2BA8 000000[MD]
++Infinite Projectiles
+$004F2922 00000000
++Has Speed Up
+$004F2A66 00000002
++Has Power Up{Use Ff For Max Damage.}
+$004F2881 000000[Amount:28:HEX:BIG]
++Has Super Armor
+$004F2A60 00000002
+!!
+!Character 2:
++Character 2 Modifier
+$004F3718 000000[MD]
++Infinite Projectiles
+$004F3492 00000000
++Has Speed Up
+$004F35D6 00000002
++Has Power Up{Use Ff For Max Damage.}
+$004F33F1 000000[Amount:28:HEX:BIG]
++Has Super Armor
+$004F35D0 00000002
+!!
+!Character 3:
++Character 3 Modifier
+$004F4288 000000[MD]
++Infinite Projectiles
+$004F4002 00000000
++Has Speed Up
+$004F4146 00000002
++Has Power Up{Use Ff For Max Damage.}
+$004F3F61 000000[Amount:28:HEX:BIG]
++Has Super Armor
+$004F4140 00000002
+!!
+!!
+!!
+^6 = MODS:
+[MD]
+VALUE>NAME
+00	Ryu
+01	Zangief
+02	Guile
+03	Morrigan
+04	Anakaris
+05	Strider Hiryu
+06	Cyclops
+07	Wolverine (Expansion Type)
+08	Psylocke
+09	Ice Man
+0A	Rogue
+0B	Captain America
+0C	Spider-Man
+0D	Hulk
+0E	Venom
+0F	Doctor Doom
+10	T. Bonne
+11	Jill
+12	Hayato
+13	Ruby Heart
+14	Son Son
+15	Amingo
+16	Marrow
+17	Cable
+18	Abyss (1st form)
+19	Abyss (2nd form) Freeze
+1A	Abyss (3rd form) Freeze
+1B	Chun-Li
+1C	Mega Man 
+1D	Roll
+1E	Akuma 
+1F	B. B Hood
+20	Felicia
+21	Charlie 
+22	Sakura
+23	Dan
+24	Cammy
+25	Dhalsim
+26	M. Bison 
+27	Ken
+28	Gambit
+29	Juggernaut
+2A	Storm
+2B	Sabretooth
+2C	Magneto
+2D	Shuma-Gorath
+2E	War Machine
+2F	Silver Samurai
+30	Omega Red
+31	Spiral
+32	Colossus
+33	Iron Man
+34	Sentinel
+35	Black Heart
+36	Thanos
+37	Jin
+38	Captain Commando
+39	Wolverine (Variety Type)
+3A	Servbot
+[\MD]

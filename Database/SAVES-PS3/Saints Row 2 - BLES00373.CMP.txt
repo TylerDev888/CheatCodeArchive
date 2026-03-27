@@ -1,0 +1,14 @@
+^2 = GameID: BLES00373
+^3 = NAME: Saints Row 2
+^5 = APCRED: From Game Genie For PS3
+^4 = FILE: BLES00373DEF_PROFILE\SYS-DATA
+^4 = FILE: BLES00373*\SYS-DATA
++Max Money
+$200000B8 3B9AC9FF
++Update Crc32:0 For Sys-data (required)
+(set range:0x000004,0x03ABFF)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32:0
+$set [hash]:xor:FFFFFFFF
+$write at 0x000000:[hash]

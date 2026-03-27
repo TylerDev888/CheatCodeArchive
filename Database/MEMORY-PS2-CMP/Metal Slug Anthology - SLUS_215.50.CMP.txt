@@ -1,0 +1,651 @@
+Metal Slug Anthology"
+Key: 1A 00 66 9C 4B 5B 7A E6 14 52 C2 B9 61 24 1F 9B 82 D1 B3 50 
+ELF: SLUS_215.50
+%Credits: lee4>bfoos>Hiei-YYH>MCW
+!Masters:
++Enable Code (MUST BE ON)
+$90219F44 0C08CA6D
++Enable Code (MUST BE ON)
+$90240198 0C09000E
++Enable Code (MUST BE ON)
+$F0219F44 00219F47
++Enable Code (MUST BE ON)
+$0E3C7DF2 1456E7A5
+$F0219F44 00219F47
+!!
+!Joekrs:
++Player 1 Controller
+$D033EE02 0000[Joker:PS2]
++Player 2 Controller
+$D033F202 0000[Joker:PS2]
+!Misc:
++Language Mod
+$20189D4C 2402[LAN]
+!!
+^4 = FILE: Metal Slug 1
++Infinite Time
+$D1FFCF9C 00000000
+$0182AE9A 00000063
+!Players:
+!Player 1:
++Weapon Modifier **
+$D1FFCF9C 00000000
+$018244B8 000000[M1]
++Infinite Lives
+$D1FFCF9C 00000000
+$0182437E 00000065
++Infinite Arms
+$D1FFCF9C 00000000
+$118244CA 0000FFFF
++Infinite Bombs
+$D1FFCF9C 00000000
+$018244C9 00000063
++Invincibility
+$D1FFCF9C 00000000
+$0182448C 000000FF
++Infinite Metal Slug Energy **
+$D1FFCF9C 00000000
+$018245EE 00000030
++Infinite Metal Slug Cannon **
+$D1FFCF9C 00000000
+$01824619 00000063
++Invincibility (metal Slug) **
+$D1FFCF9C 00000000
+$018245CC 000000FF
++Fast Shot **
+$D1FFCF9C 00000000
+$018244CD 00000000
++Fast Bombs **
+$D1FFCF9C 00000000
+$018244C8 00000000
+!!
+!Player 2:
++Weapon Modifier **
+$D1FFCF9C 00000000
+$01824558 000000[M1]
++Infinite Lives **
+$D1FFCF9C 00000000
+$0182441E 00000065
++Infinite Arms **
+$D1FFCF9C 00000000
+$1182456A 0000FFFF
++Infinite Bombs **
+$D1FFCF9C 00000000
+$01824569 00000063
++Invincibility **
+$D1FFCF9C 00000000
+$0182452C 000000FF
++Infinite Metal Slug Energy
+$D1FFCF9C 00000000
+$0182468E 00000030
++Infinite Metal Slug Cannon
+$D1FFCF9C 00000000
+$018246B9 00000063
++Invincibility (metal Slug)
+$D1FFCF9C 00000000
+$0182466C 000000FF
++Fast Shot **
+$D1FFCF9C 00000000
+$0182456D 00000000
++Fast Bombs **
+$D1FFCF9C 00000000
+$01824568 00000000
+!!
+!!
+^4 = FILE: Metal Slug 2
+!Players:
+!Player 1:
++Weapon Modifier
+$E0020001 01FFCF9C
+$0193034F 0000[WEV]
+$0192552C 0000[BT]
++Infinite Lives
+$D1FFCF9C 00000001
+$0192527F 00000063
++Infinite Bombs
+$D1FFCF9C 00000001
+$01930351 00000063
++Infinite Arms
+$D1FFCF9C 00000001
+$11930354 0000FFFF
++Invincibility
+$D1FFCF9C 00000001
+$0192551E 000000FF
++Infinite Vehicle Cannon ***
+$D1FFCF9C 00000001
+$019328A8 00000063
++Infinite Vehicle Energy ***
+$D1FFCF9C 00000001
+$019328A3 00000030
++Fast Shot **
+$D1FFCF9C 00000001
+$0192034B 00000000
++Fast Bombs **
+$D1FFCF9C 00000001
+$01920349 00000000
+!!
+!Player 2:
++Weapon Modifier
+$E0020001 01FFCF9C
+$0193034E 0000[WEV]
+$019255D4 0000[BT]
++Infinite Lives **
+$D1FFCF9C 00000001
+$01925327 00000063
++Infinite Bombs **
+$D1FFCF9C 00000001
+$01930350 00000063
++Infinite Arms **
+$D1FFCF9C 00000001
+$11930356 0000FFFF
++Invincibility **
+$D1FFCF9C 00000001
+$019255C6 000000FF
++Infinite Vehicle Cannon ***
+$D1FFCF9C 00000001
+$019328CC 00000063
++Infinite Vehicle Energy ***
+$D1FFCF9C 00000001
+$019328C7 00000030
++Fast Shot **
+$D1FFCF9C 00000001
+$0192034A 00000000
++Fast Bombs **
+$D1FFCF9C 00000001
+$01920348 00000000
+!!
+!!
+^4 = FILE: Metal Slug X
++Infinite Time
+$D1FFCF9C 00000002
+$019253E7 00000063
+!Players:
+!Player 1:
++Weapon Modifier **
+$D1FFCF9C 00000002
+$01930727 0000[WEP2]
++Infinite Lives
+$D1FFCF9C 00000002
+$01925291 00000063
++Infinite Arms
+$D1FFCF9C 00000002
+$1193072C 0000FFFF
++Infinite Bombs
+$D1FFCF9C 00000002
+$01930729 00000063
++Invincibility (you Can Still Die In Vehicles)
+$E0020002 01FFCF9C
+$0192552A 00000040
+$01925550 000000FF
++Fast Shot **
+$D1FFCF9C 00000002
+$01930723 00000000
++Fast Bombs **
+$D1FFCF9C 00000002
+$01930721 00000000
++Infinite Energy (metal Slug) **
+$D1FFCF9C 00000002
+$01930628 00000030
++Infinite Cannon (metal Slug) **
+$D1FFCF9C 00000002
+$0193062E 00000063
++Get 50 Prisoners (warning This Code Is Buggy, Might Lockup The Game)
+$E0020002 01FFCF9C
+$D1930604 00000000
+$01930604 00000032
++Body Type **
+$E0030002 01FFCF9C
+$0193555E 0000[BTW]
+!!
+!Player 2:
++Weapon Modifier **
+$D1FFCF9C 00000002
+$01930726 0000[WEP2]
++Infinite Lives **
+$D1FFCF9C 00000002
+$01925341 00000063
++Infinite Arms **
+$D1FFCF9C 00000002
+$1193072E 0000FFFF
++Infinite Bombs **
+$D1FFCF9C 00000002
+$01930728 00000063
++Invincibility (you Can Still Die In Vehicles)
+$E0020002 01FFCF9C
+$019255DA 00000040
+$01925600 000000FF
++Fast Shot **
+$D1FFCF9C 00000002
+$01930722 00000000
++Fast Bombs **
+$D1FFCF9C 00000002
+$01930720 00000000
++Infinite Vehicle Energy
+$D1FFCF9C 00000002
+$0193064C 00000030
++Infinite Vehicle Cannon
+$D1FFCF9C 00000002
+$01930652 00000063
+Get 50 Prisoners (warning this code is buggy, might lockup the game)
+$E0020002 01FFCF9C
+$D1930608 00000000
+$01930608 00000032
+!!
+!!
+^4 = FILE: Metal Slug 3
++Infinite Time
+$D1FFCF9C 00000003
+$01D92E01 00000099
+!Players:
+!Player 1:
++Body Type **
+$E0020003 01FFCF9C
+$01D84616 000000[BT1]
+$01D92B7E 000000[BT2]
+Weapon Modidier **
+$D1FFCF9C 00000003
+$11D92B7A 0000{EP4]
+Metal Slug +Weapon Modifier **
+$D1FFCF9C 00000003
+$11D92CC6 0000[WEP3]
++Infinite Lives
+$D1FFCF9C 00000003
+$01D84342 00000064
++Infinite Arms
+$D1FFCF9C 00000003
+$11D92B82 0000FFFF
++Infinite Bombs
+$D1FFCF9C 00000003
+$01D92B7C 00000063
++Invincibility
+$D1FFCF9C 00000003
+$01D84608 000000FF
++Fast Shot **
+$D1FFCF9C 00000003
+$01D92B78 00000000
++Fast Bombs **
+$D1FFCF9C 00000003
+$01D92B79 00000000
++Infinite Metal Slug Energy **
+$D1FFCF9C 00000003
+$01D92CB8 00000030
++Infinite Arms (ms) **
+$D1FFCF9C 00000003
+$11D92CBC 0000FFFF
++Infinite Bombs (ms) **
+$D1FFCF9C 00000003
+$01D92CC0 00000063
+!!
+!Player 2:
++Body Type **
+$E0020003 01FFCF9C
+$01D846C6 000000[BT1]
+$01D92B8C 000000[BT2]
++Weapon Modifier **
+$D1FFCF9C 00000003
+$11D92B88 0000{EP4]
+Metal Slug +Weapon Modifier
+$D1FFCF9C 00000003
+$11D92CF2 0000[WEP3]
++Infinite Lives
+$D1FFCF9C 00000003
+$01D843F2 00000064
++Infinite Arms
+$D1FFCF9C 00000003
+$11D92B90 0000FFFF
++Infinite Bombs
+$D1FFCF9C 00000003
+$01D92B8A 00000063
++Invincibility **
+$D1FFCF9C 00000003
+$01D846B8 000000FF
++Fast Shot **
+$D1FFCF9C 00000003
+$01D92B86 00000000
++Fast Bombs **
+$D1FFCF9C 00000003
+$01D92B87 00000000
++Infinite Metal Slug Energy
+$D1FFCF9C 00000003
+$01D92CE4 00000030
++Infinite Arms (ms) **
+$D1FFCF9C 00000003
+$11D92CE8 0000FFFF
++Infinite Bombs (ms) **
+$D1FFCF9C 00000003
+$01D92CEC 00000063
+!!
+!!
+^4 = FILE: Metal Slug 4
++Infinite Time
+$D1FFCF9C 00000004
+$01B92DE5 00000099
+!Players:
+!Player 1:
++Weapon Modifier
+$D1FFCF9C 00000004
+$01B92E73 000000[WEP4]
++Infinite Lives
+$D1FFCF9C 00000004
+$01B84B10 00000064
++Infinite Arms
+$D1FFCF9C 00000004
+$11B92E7A 0000FFFF
++Infinite Bombs
+$D1FFCF9C 00000004
+$01B92E74 00000063
++Invincibility
+$E0020004 01FFCF9C
+$01B84D9E 00000040
+$01B84DC8 00000057
++Infinite Metal Slug Cannons ***
+$D1FFCF9C 00000004
+$01B92E34 00000063
++Infinite Metal Slug Arms ***
+$D1FFCF9C 00000004
+$11B92E30 0000FFFF
+!!
+!Player 2:
++Weapon Modifier
+$D1FFCF9C 00000004
+$01B92E83 000000[WEP4]
++Infinite Lives
+$D1FFCF9C 00000004
+$01B84BC0 00000064
++Invincibility
+$E0020004 01FFCF9C
+$01B84E4E 00000040
+$01B84E78 0000006B
++Infinite Arms
+$D1FFCF9C 00000004
+$11B92E8A 0000FFFF
++Infinite Bombs
+$D1FFCF9C 00000004
+$01B92E84 00000063
++Infinite Metal Slug Cannons ***
+$D1FFCF9C 00000004
+$01B92E60 00000063
++Infinite Metal Slug Arms ***
+$D1FFCF9C 00000004
+$11B92E5C 0000FFFF
+!!
+!!
+^4 = FILE: Metal Slug 5
++Infinite Time
+$D1FFCF9C 00000005
+$01B31687 00000099
+!Players:
+!Player 1:
+Bomb Modifier
+$D1FFCF9C 00000005
+$01B3145F 0000[BOM]
++Weapon Modifier
+$E0020005 01FFCF9C
+$01B3145D 000000[WEP5]
+$01B24D61 000000[WEP5]
++Infinite Lives
+$D1FFCF9C 00000005
+$01B24A48 00000064
++Infinite Arms
+$D1FFCF9C 00000005
+$11B31464 0000FFFF
++Infinite Bombs
+$D1FFCF9C 00000005
+$01B3145E 00000063
++Invincibility
+$D1FFCF9C 00000005
+$01B24D50 000000FF
++Infinite Metal Slug Cannons
+$D1FFCF9C 00000005
+$01B31CE6 00000063
++Infinite Metal Slug Energy
+$E0020005 01FFCF9C
+$01B25B34 00000028
+$01B31CDE 00000028
+!!
+!Player 2:
+Bomb Modifier
+$D1FFCF9C 00000005
+$01B3146F 0000[BOM]
++Weapon Modifier
+$E0020005 01FFCF9C
+$01B3146D 000000[WEP5]
+$01B24E51 000000[WEP5]
++Infinite Lives
+$D1FFCF9C 00000005
+$01B24B0C 00000064
++Infinite Arms
+$D1FFCF9C 00000005
+$11B31474 0000FFFF
++Infinite Bombs
+$D1FFCF9C 00000005
+$01B3146E 00000063
++Invincibility
+$D1FFCF9C 00000005
+$01B24E40 000000FF
++Infinite Metal Slug Cannons
+$D1FFCF9C 00000005
+$01B31D12 00000063
++Infinite Metal Slug Energy
+$E0020005 01FFCF9C
+$01B25B34 00000028
+$01B31D0A 00000028
+!!
+!!
+^4 = FILE: Metal Slug 6"
+%Credits: bfoos>lee4>CMX
+!Masters:
++Enable Code (MUST BE ON)
+$902E3344 0C0BF04D
++Enable Code (MUST BE ON)
+$903099D8 0C0C261E
++Enable Code (MUST BE ON)
+$F01173D4 002E3347
++Enable Code (MUST BE ON)
+$F02E3344 002E3347
++Enable Code (MUST BE ON)
+$0E3C7DF2 1456E7A5
+$F01173D4 002E3347
+!!
+!Joekrs:
++Player 1 Controller
+$D0531642 0000[Joker:PS2]
++Player 2 Controller
+$D0531A42 0000[Joker:PS2]
+!!
++Language Mod
+$20117CD8 2402[LAN]
+!Players:
+!Player 1:
++Weapon Modifier (block#1)
+$012DA5D0 000000??
+$012DA5D4 00000014
++Weapon Modifier (block#2)
+$012DA5D1 000000??
+$012DA5D6 00000014
++Infinite Lives
+$012FB4FF 00000064
++Infinite Arms
+$112DA5C8 0000FFFF
++Infinite Bombs
+$012DA5C5 00000063
++Invincibility
+$012DA588 00000069
+!!
+!Player 2:
++Weapon Modifier (block#1)
+$012FB1D8 000000??
+$012FB1DC 00000014
++Weapon Modifier (block#2)
+$012FB1D9 000000??
+$012FB1DE 00000014
++Infinite Lives
+$012DADB7 00000064
++Infinite Arms
+$112FB1D0 0000FFFF
++Infinite Bombs
+$012FB1CD 00000063
++Invincibility
+$012FB190 00000069
+!!
+!!
+^6 = MODS:
+[WEP6]
+00	Normal Gun
+02	Shotgun
+03	Rocket Launcher
+04	Flame Shot
+05	Heavy Machine Gun
+06	Laser Gun
+07	Big Shotgun
+08	Big Rocket Launcher
+09	Big Flame Shot
+0A	Big Heavy Machine Gun
+0B	Big Laser Gun
+0C	Enemy Chaser
+0D	Iron Lizard
+0E	Drop Shot
+0F	Super Grenade 
+12	Two Machine Gun
+13	Z Sword
+[/WEP6]
+[LAN]
+VALUE>NAME
+0000	Japanese
+0001	English 
+[\LAN]
+[M1]
+VALUE>NAME
+00	Pistol
+01	(S)Shot Gun
+02	(F)Flame Shot
+03	(R)Rocket Launcher
+04	(H)Heavy Machinegun
+[/M1]
+[WEV]
+VALUE>NAME
+0000	(S)Shotgun
+0001	(R)Rocket Launcher
+0002	(F)Flame Shot
+0003	(H)Heavy Machine gun
+0004	(L)Laser Gun
+0005	Pistol
+[\WEV]
+[BT]
+VALUE>NAME
+0000	Normal (Pistol)
+0001	Normal (Equiped Weapon)
+0002	Fat
+0003	Mummy
+[/BT]
+[BT1]
+VALUE>NAME
+00	Normal
+01	Normal (Weapon Equipped)
+02	Fat
+03	Mummy
+04	Swimmer
+05	Swimmer (Type 2)
+06	Snowman
+07	ZombieCode:
+[/BT1]
+[BT2]
+00	Normal
+FF	Fat
+[/BT2]
+[BTW]
+VALUE>NAME
+0000	Normal
+0001	Normal (Equiped Weapon)
+0002 0193072B 00000002 0193072C 000000FF	Fat
+[/BTW]
+[WEP2]
+VALUE>NAME
+0000	[N] Hand Gun
+0001	[?] Cannon
+0002	[S] Shotgun
+0003	[R] Rocket Launcher
+0004	[F] Flame Shot
+0005	[H] Heavy Machinegun
+0006	[L] Laser
+0007	{S} Shotgun Type 2
+0008	{R} Rocket Launcher Type 2
+0009	{F} Flame Shot Type 2
+000A	[H] Heavy Machinegun Type 2
+000B	{L} Laser Type 2
+000C	[C] Enemy Chaser
+000D	[i] Iron Lizard
+000E	[D] Drop Shot
+000F	[G] Super GranadeCode:
+[/WEP2]
+[WEP3]
+VALUE>NAME
+0201	Shotgun
+0301	Rocket Launcher
+0401	Flame Shot
+0501	Heavy Machine Gun
+0601	Laser
+[WEP3]
+[EP4]
+VALUE>NAME
+FF00	[N] Handgun
+FF05	[H] Heavy Machine Gun
+FF0A	{H} Heavy Machine Gun (Type 2)
+FF06	[L] Laser
+FF0B	{L} Laser (Type 2)
+0102	[S] Shotgun
+0104	[F] Flame Shot
+0107	{S} shotgun (Type 2)
+0109	{F} Flame Shot (Type 2)
+0111	[?] Thunder Cloud
+0203	[R] Rocket Launcher
+0208	{R} Rocket Launcher (Type 2)
+020D	[i] Iron Lizard
+020F	[G] Super Grenade
+030C	[C] Enemy Chaser
+030E	[D] Drop Shot
+[\EP4]
+[WEP4]
+VALUE>NAME
+00	Normal Gun
+02	Shotgun
+03	Rocket Launcher
+04	Flame Shot
+05	Heavy Machine Gun
+06	Laser Gun
+07	Big Shotgun
+08	Big Rocket Launcher
+09	Big Flame Shot
+0A	Big Heavy Machine Gun
+0B	Big Laser Gun
+0C	Enemy Chaser
+0D	Iron Lizard
+0E	Drop Shot
+0F	Super Grenade 
+12	Two Machine Gun
+[/WEP4]
+[BOM]
+VALUE>NAME
+01	Normal Bomb 
+02	Fire Bomb 
+03	Rock Bomb 
+[/BOM]
+[WEP5]
+VALUE>NAME
+00	Normal Weapon 
+02	Shotgun 
+03	Rocket Launcher 
+04	Flame Shot 
+05	Heavy Machine Gun 
+06	Laser Gun 
+07	Big Shotgun 
+08	Big Rocket Launcher 
+09	Big Flame Shot 
+0A	Big Heavy Machine Gun 
+0B	Big Laser Gun 
+0C	Enemy Chaser 
+0D	ron Lizard 
+0E	Drop Shot 
+0F	Super Grenade 
+12	Two Machine Gun 02
+[/WEP5]

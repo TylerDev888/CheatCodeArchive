@@ -1,0 +1,93 @@
+^3 = NAME: Steel Dragon EX (PAL-E)
+^2 = GameID: SLES-52482
+!Shienryu (Steel Dragon):
++1Hitkill
+%Credits: luc-ita
+$D0136F0A 00000461
+$20136F08 00000000
+$D012BC56 00000461
+$2012BC54 00000000
++Enable Code
+%Credits: lee4
+$901059D0 0C04161C
++Invincibility
+%Credits: nolberto82
+$D0137692 00001020
+$20137690 1000002B
++Invulnerable (Alternate)
+%Credits: luc-ita
+$D01498AA 00001440
+$201498A8 1000003A
+$D01499AA 00003842
+$201499A8 38020000
++P1 Inf Bomb
+%Credits: lee4
+$001E4F68 00000063
++P1 Inf Lives
+%Credits: lee4
+$001E4F70 00000063
++P2 Inf Bomb
+%Credits: lee4
+$001E4F6A 00000063
++P2 Inf Lives
+%Credits: lee4
+$001E4F72 00000063
++Pal2ntsc (Alternate)
+%Credits: lee4
+$20102260 34050002
+$20102264 24030002
+$20102268 0000000C
+$2010226C 03E00008
++Potential Y-Fixes (Type 2)
+%Credits: lee4
+$00100624 00000010
+$001006D8 00000010
++Use Bombs Even If You Don't Have Any
+%Credits: luc-ita
+$D012B6D2 00001060
+$2012B6D0 00000000
+!!
+!Steel Dragon Evolution:
++Enable Code
+%Credits: lee4
+$90128990 0C04A20C
++Invincibility
+%Credits: nolberto82
+$D018E18A 00001840
+$2018E188 00000000
++Invulnerable (Alternate)
+%Credits: luc-ita
+$D018E21E 00001062
+$2018E21C 1000000A
++P1 Inf Bomb
+%Credits: lee4
+$0043F640 00000063
++P1 Inf Lives
+%Credits: lee4
+$0043F63C 00000063
++P2 Inf Bomb
+%Credits: lee4
+$0043F750 00000063
++P2 Inf Lives
+%Credits: lee4
+$0043F74C 00000063
++Pal2ntsc (Alternate)
+%Credits: lee4
+$20125220 34050002
+$20125224 24030002
+$20125228 0000000C
+$2012522C 03E00008
++Potential Y-Fixes (Type 2)
+%Credits: lee4
+$0010A664 00000010
+$0010A718 00000010
++Take Objects And Hit Anywhere (Read Notes) {<I>Use With Invulnerable Or Invincible Codes</I>}
+%Credits: luc-ita
+$D014B54C 0000102D
+$2014B54C 24020001
++Use Bombs Even If You Don't Have Any
+%Credits: luc-ita
+$D018E3E2 00001040
+$2018E3E0 00000000
+!!
+

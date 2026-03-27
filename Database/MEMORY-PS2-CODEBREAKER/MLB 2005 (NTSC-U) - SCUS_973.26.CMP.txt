@@ -1,0 +1,405 @@
+^1 = HASH: DD0513A4
+^3 = NAME: MLB 2005
+^2 = GameID: SCUS_973.26
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001E8B37
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$901E8B34 0C07FFBD
+!!
+!Codes:
++Away Team Score Modifier
+%Credits: Code Master
+$E0010087 0073672E
+$20736744 0000????
++Away Team Start With Score Modifier
+%Credits: Code Master
+$E0020087 0073672E
+$D0736744 00000000
+$20736744 0000????
++Home Team Score Modifier
+%Credits: Code Master
+$E0010087 0073672E
+$20736748 0000????
++Home Team Start With Score Modifier
+%Credits: Code Master
+$E0020087 0073672E
+$D0736748 00000000
+$20736748 0000????
++All Runs Score For Home Team
+%Credits: Code Master
+$D045164C 0000202D
+$2045165C 24A50004
++All Runs Score For Away Team
+%Credits: Code Master
+$D045164C 0000202D
+$2045165C 24A50000
++Runs Score Modifier
+%Credits: Code Master
+$D045164C 0000202D
+$10451664 000000??
+!!
+!Both Team Codes:
++Infinite Outs
+%Credits: Code Master
+$E0010087 0073672E
+$20736738 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$E0020087 0073672E
+$D0736738 00000000
+$20736738 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020087 0073672E
+$D0736738 00000000
+$20736738 00000001
++Infinite Balls
+%Credits: Code Master
+$E0010087 0073672E
+$2073673C 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0020087 0073672E
+$D073673C 00000000
+$2073673C 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$E0020087 0073672E
+$D073673C 00000000
+$2073673C 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$E0020087 0073672E
+$D073673C 00000000
+$2073673C 00000001
++Infinite Strikes
+%Credits: Code Master
+$E0010087 0073672E
+$20736740 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020087 0073672E
+$D0736740 00000000
+$20736740 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020087 0073672E
+$D0736740 00000000
+$20736740 00000001
++Always Full Count
+%Credits: Code Master
+$E0020087 0073672E
+$2073673C 00000003
+$20736740 00000002
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030087 0073672E
+$20736738 00000002
+$2073673C 00000003
+$20736740 00000002
+!!
+!Home Team Only Codes (V7.0 Or Higher Needed!):
++Infinite Outs
+%Credits: Code Master
+$E0020001 50736730
+$E0010087 0073672E
+$20736738 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$E0030001 50736730
+$E0020087 0073672E
+$D0736738 00000000
+$20736738 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0030001 50736730
+$E0020087 0073672E
+$D0736738 00000000
+$20736738 00000001
++Infinite Balls
+%Credits: Code Master
+$E0020001 50736730
+$E0010087 0073672E
+$2073673C 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0030001 50736730
+$E0020087 0073672E
+$D073673C 00000000
+$2073673C 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$E0030001 50736730
+$E0020087 0073672E
+$D073673C 00000000
+$2073673C 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$E0030001 50736730
+$E0020087 0073672E
+$D073673C 00000000
+$2073673C 00000001
++Infinite Strikes
+%Credits: Code Master
+$E0020001 50736730
+$E0010087 0073672E
+$20736740 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$E0030001 50736730
+$E0020087 0073672E
+$D0736740 00000000
+$20736740 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0030001 50736730
+$E0020087 0073672E
+$D0736740 00000000
+$20736740 00000001
++Always Full Count
+%Credits: Code Master
+$E0030001 50736730
+$E0020087 0073672E
+$2073673C 00000003
+$20736740 00000002
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0040001 50736730
+$E0030087 0073672E
+$20736738 00000002
+$2073673C 00000003
+$20736740 00000002
+!!
+!Away Team Only Codes (V7.0 Or Higher Needed!):
++Infinite Outs
+%Credits: Code Master
+$E0020001 40736730
+$E0010087 0073672E
+$20736738 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$E0030001 40736730
+$E0020087 0073672E
+$D0736738 00000000
+$20736738 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0030001 40736730
+$E0020087 0073672E
+$D0736738 00000000
+$20736738 00000001
++Infinite Balls
+%Credits: Code Master
+$E0020001 40736730
+$E0010087 0073672E
+$2073673C 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0030001 40736730
+$E0020087 0073672E
+$D073673C 00000000
+$2073673C 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$E0030001 40736730
+$E0020087 0073672E
+$D073673C 00000000
+$2073673C 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$E0030001 40736730
+$E0020087 0073672E
+$D073673C 00000000
+$2073673C 00000001
++Infinite Strikes
+%Credits: Code Master
+$E0020001 40736730
+$E0010087 0073672E
+$20736740 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$E0030001 40736730
+$E0020087 0073672E
+$D0736740 00000000
+$20736740 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0030001 40736730
+$E0020087 0073672E
+$D0736740 00000000
+$20736740 00000001
++Always Full Count
+%Credits: Code Master
+$E0030001 40736730
+$E0020087 0073672E
+$2073673C 00000003
+$20736740 00000002
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0040001 40736730
+$E0030087 0073672E
+$20736738 00000002
+$2073673C 00000003
+$20736740 00000002
+!!
+!Create A Player Codes:
++Infinite Points Remaining
+%Credits: Code Master
+$D069B63C 000001F5
+$2069B644 00000000
+!!
+!Change Pitching Skills For Max Stat Codes:
++H/9
+%Credits: Code Master
+$D063FE14 0000202D
+$2063FE1C 24060063
++HR/9
+%Credits: Code Master
+$D063FEA4 0000202D
+$2063FEAC 24060063
++Stamina
+%Credits: Code Master
+$D063FF34 0000202D
+$2063FF3C 24060063
++Pitch Clutch
+%Credits: Code Master
+$D063FFC4 0000202D
+$2063FFCC 24060063
++K/9
+%Credits: Code Master
+$D0640054 0000202D
+$2064005C 24060063
++Durability
+%Credits: Code Master
+$D06400E4 0000202D
+$206400EC 24060063
++Speed
+%Credits: Code Master
+$D0640174 0000202D
+$2064017C 24060063
++Arm Str.
+%Credits: Code Master
+$D0640204 0000202D
+$2064020C 24060063
++Arm Acc.
+%Credits: Code Master
+$D0640294 0000202D
+$2064029C 24060063
++Reaction
+%Credits: Code Master
+$D0640324 0000202D
+$2064032C 24060063
++FLD Ability
+%Credits: Code Master
+$D06403B4 0000202D
+$206403BC 24060063
++Pitch 1-Accuracy
+%Credits: Code Master
+$D06404CC 0000202D
+$206404D0 24050063
++Pitch 1-Break
+%Credits: Code Master
+$D06405D8 0000202D
+$206405DC 24050063
++Pitch 2-Accuracy
+%Credits: Code Master
+$D06406EC 0000202D
+$206406F0 24050063
++Pitch 2-Break
+%Credits: Code Master
+$D06407F8 0000202D
+$206407FC 24050063
++Pitch 3-Accuracy
+%Credits: Code Master
+$D064090C 0000202D
+$20640910 24050063
++Pitch 3-Break
+%Credits: Code Master
+$D0640A18 0000202D
+$20640A1C 24050063
++Pitch 4-Accuracy
+%Credits: Code Master
+$D0640B2C 0000202D
+$20640B30 24050063
++Pitch 4-Break
+%Credits: Code Master
+$D0640C38 0000202D
+$20640C3C 24050063
++Pitch 5-Accuracy
+%Credits: Code Master
+$D0640D4C 0000202D
+$20640D50 24050063
++Pitch 5-Break
+%Credits: Code Master
+$D0640E58 0000202D
+$20640E5C 24050063
++Pitches-Speed{With This Code, You Have To Switch To The Bat Skills Tab & Then Back To The Pitching Skills Tab To See It Maxed Out.}
+%Credits: Code Master
+$D0641614 0000202D
+$20641618 2405003C
+!!
+!Change Bat Skills For Max Stat Codes:
++RT Contact
+%Credits: Code Master
+$D0641D08 0000202D
+$20641D10 24060063
++LT Contact
+%Credits: Code Master
+$D0641D98 0000202D
+$20641DA0 24060063
++RT Power
+%Credits: Code Master
+$D0641E28 0000202D
+$20641E30 24060063
++LT Power
+%Credits: Code Master
+$D0641EB8 0000202D
+$20641EC0 24060063
++Plate Vision
+%Credits: Code Master
+$D0641F48 0000202D
+$20641F50 24060063
++Plate Disc.
+%Credits: Code Master
+$D0641FD8 0000202D
+$20641FE0 24060063
++Clutch
+%Credits: Code Master
+$D0642068 0000202D
+$20642070 24060063
++Durability
+%Credits: Code Master
+$D06420F8 0000202D
+$20642100 24060063
++Speed
+%Credits: Code Master
+$D0642188 0000202D
+$20642190 24060063
++Arm Str.
+%Credits: Code Master
+$D0642218 0000202D
+$20642220 24060063
++Arm Acc.
+%Credits: Code Master
+$D06422A8 0000202D
+$206422B0 24060063
++Reaction
+%Credits: Code Master
+$D0642338 0000202D
+$20642340 24060063
++FLD Ability
+%Credits: Code Master
+$D06423C8 0000202D
+$206423D0 24060063
++BR Ability
+%Credits: Code Master
+$D0642458 0000202D
+$20642460 24060063
++BR Agg.
+%Credits: Code Master
+$D06424E8 0000202D
+$206424F0 24060063
+!!

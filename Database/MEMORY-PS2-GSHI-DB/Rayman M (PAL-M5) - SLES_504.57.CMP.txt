@@ -1,0 +1,315 @@
+^3 = NAME: Rayman M (PAL-M5)
+^2 = GameID: SLES-50457
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0131084 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0131084 00131087
+!!
+!Ammo Codes:
++Infinite Ammo
+%Credits: Codejunkies
+$00D2A240 00000099
++Never Have More Than 25% Ammo
+%Credits: Codejunkies
+$E1010026 30D2A240
+$00D2A240 00000026
++Never Have More Than 50% Ammo
+%Credits: Codejunkies
+$E101004C 30D2A240
+$00D2A240 0000004C
++Never Have More Than 75% Ammo
+%Credits: Codejunkies
+$E1010072 30D2A240
+$00D2A240 00000072
+!!
+!Health Codes:
++Enemies Have 0 Lums
+%Credits: Codejunkies
+$00D27258 00000000
+$00D28664 00000000
+$00D299B4 00000000
++Infinite Health
+%Credits: Codejunkies
+$00D2A250 00000005
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$00D2A250 00000001
+$00D2A250 00000001
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$00D2A250 00000002
+$00D2A250 00000002
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$00D2A250 00000003
+$00D2A250 00000003
+!!
+!Player 1 Ammo Codes:
++Infinite Ammo
+%Credits: Codejunkies
+$00EAF040 00000063
++Never Have More Than 25% Ammo
+%Credits: Codejunkies
+$E1010019 30EAF040
+$00EAF040 00000019
++Never Have More Than 50% Ammo
+%Credits: Codejunkies
+$E1010032 30EAF040
+$00EAF040 00000032
++Never Have More Than 75% Ammo
+%Credits: Codejunkies
+$E101004B 30EAF040
+$00EAF040 0000004B
+!!
+!Player 1 Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$00EAF050 00000005
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E1010001 30EAF050
+$00EAF050 00000001
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E1010002 30EAF050
+$00EAF050 00000002
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E1010003 30EAF050
+$00EAF050 00000003
+!!
+!Player 1 Lums Codes:
++0 Lums
+%Credits: Codejunkies
+$00EAF04C 00000000
++99 Lums
+%Credits: Codejunkies
+$00EAF04C 00000063
+!!
+!Player 2 Ammo Codes:
++Infinite Ammo
+%Credits: Codejunkies
+$00EAC05C 00000063
++Never Have More Than 25% Ammo
+%Credits: Codejunkies
+$E1010019 30EAC05C
+$00EAC05C 00000019
++Never Have More Than 50% Ammo
+%Credits: Codejunkies
+$E1010032 30EAC05C
+$00EAC05C 00000032
++Never Have More Than 75% Ammo
+%Credits: Codejunkies
+$E101004B 30EAC05C
+$00EAC05C 0000004B
+!!
+!Player 2 Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$00EAC06C 00000005
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E1010001 30EAC06C
+$00EAC06C 00000001
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E1010002 30EAC06C
+$00EAC06C 00000002
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E1010003 30EAC06C
+$00EAC06C 00000003
+!!
+!Player 2 Lums Codes:
++0 Lums
+%Credits: Codejunkies
+$00EAC068 00000000
++99 Lums
+%Credits: Codejunkies
+$00EAC068 00000063
+!!
+!Player 3 Ammo Codes:
++Infinite Ammo
+%Credits: Codejunkies
+$00EAD468 00000063
++Never Have More Than 25% Ammo
+%Credits: Codejunkies
+$E1010019 30EAD468
+$00EAD468 00000019
++Never Have More Than 50% Ammo
+%Credits: Codejunkies
+$E1010032 30EAD468
+$00EAD468 00000032
++Never Have More Than 75% Ammo
+%Credits: Codejunkies
+$E101004B 30EAD468
+$00EAD468 0000004B
+!!
+!Player 3 Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$00EAD478 00000005
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E1010001 30EAD478
+$00EAD478 00000001
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E1010002 30EAD478
+$00EAD478 00000002
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E1010003 30EAD478
+$00EAD478 00000003
+!!
+!Player 3 Lums Codes:
++0 Lums
+%Credits: Codejunkies
+$00EAD474 00000000
++99 Lums
+%Credits: Codejunkies
+$00EAD474 00000063
+!!
+!Player 4 Ammo Codes:
++Infinite Ammo
+%Credits: Codejunkies
+$00EAE7B8 00000063
++Never Have More Than 25% Ammo
+%Credits: Codejunkies
+$E1010019 30EAE7B8
+$00EAE7B8 00000019
++Never Have More Than 50% Ammo
+%Credits: Codejunkies
+$E1010032 30EAE7B8
+$00EAE7B8 00000032
++Never Have More Than 75% Ammo
+%Credits: Codejunkies
+$E101004B 30EAE7B8
+$00EAE7B8 0000004B
+!!
+!Player 4 Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$00EAE7C8 00000005
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E1010001 30EAE7C8
+$00EAE7C8 00000001
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E1010002 30EAE7C8
+$00EAE7C8 00000002
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E1010003 30EAE7C8
+$00EAE7C8 00000003
+!!
+!Player 4 Lums Codes:
++0 Lums
+%Credits: Codejunkies
+$00EAE7C4 00000000
++99 Lums
+%Credits: Codejunkies
+$00EAE7C4 00000063
+!!
+!Single Player Battle Codes:
++99 Lums
+%Credits: Codejunkies
+$00D2A24C 00000063
+!!
++Unlock All Characters
+%Credits: InterAct
+$20E4FCDC 00000001
+$20E4FCE4 00000001
+$20E4FCF4 00000001
+!Unlock Level Codes:
++Advanced League
+%Credits: Codejunkies
+$20E4FD18 00000001
+$20E4FD1C 00000001
+$20E4FD20 00000001
+$20E4FD54 00000001
+$20E4FD58 00000001
+$20E4FD5C 00000001
+$20E4FD90 00000001
+$20E4FD94 00000001
+$20E4FD98 00000001
+$20E4FDD8 00000001
+$20E4FDDC 00000001
+$20E4FDE0 00000001
+$20E4FE18 00000001
+$20E4FE1C 00000001
+$20E4FE20 00000001
+$20E4FE60 00000001
+$20E4FE64 00000001
+$20E4FE68 00000001
++Beginner League
+%Credits: Codejunkies
+$20E4FD48 00000001
+$20E4FD4C 00000001
+$20E4FD50 00000001
+$20E4FD84 00000001
+$20E4FD88 00000001
+$20E4FD8C 00000001
+$20E4FDCC 00000001
+$20E4FDD0 00000001
+$20E4FDD4 00000001
+$20E4FE0C 00000001
+$20E4FE10 00000001
+$20E4FE14 00000001
+$20E4FE54 00000001
+$20E4FE58 00000001
+$20E4FE5C 00000001
++Bonus League
+%Credits: Codejunkies
+$20E4FD3C 00000001
+$20E4FD78 00000001
+$20E4FDB4 00000001
+$20E4FDF0 00000001
+$20E4FDF4 00000001
+$20E4FDF8 00000001
+$20E4FDFC 00000001
+$20E4FE00 00000001
++Experienceert League
+%Credits: Codejunkies
+$20E4FD24 00000001
+$20E4FD28 00000001
+$20E4FD2C 00000001
+$20E4FD60 00000001
+$20E4FD64 00000001
+$20E4FD68 00000001
+$20E4FD9C 00000001
+$20E4FDA0 00000001
+$20E4FDA4 00000001
+$20E4FE24 00000001
+$20E4FE28 00000001
+$20E4FE2C 00000001
+$20E4FE6C 00000001
+$20E4FE70 00000001
+$20E4FE74 00000001
++Extreme League
+%Credits: Codejunkies
+$20E4FD30 00000001
+$20E4FD34 00000001
+$20E4FD38 00000001
+$20E4FD6C 00000001
+$20E4FD70 00000001
+$20E4FD74 00000001
+$20E4FDA8 00000001
+$20E4FDAC 00000001
+$20E4FDB0 00000001
+$20E4FDE4 00000001
+$20E4FDE8 00000001
+$20E4FDEC 00000001
+$20E4FE30 00000001
+$20E4FE34 00000001
+$20E4FE38 00000001
+$20E4FE78 00000001
+$20E4FE7C 00000001
+$20E4FE80 00000001
+!!
+!!
+

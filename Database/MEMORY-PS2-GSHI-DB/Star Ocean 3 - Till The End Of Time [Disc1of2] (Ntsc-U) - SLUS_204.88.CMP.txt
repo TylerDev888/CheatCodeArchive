@@ -1,0 +1,974 @@
+^3 = NAME: Star Ocean 3 - Till The End Of Time [Disc1of2] (Ntsc-U)
+^2 = GameID: SLUS-20488
+!Master Codes:
+!Unofficial Codes:
++Mastercode {<I>If You Activate Too Many Of These Codes At Once, The Game May Freeze When Trying To Open Certain Dungeon/Town Chests.</I>}
+%Credits: iyeru42
+$F0100008 0000000E
+$E0020C28 10100008
+$20100008 70000C28
+$2010000C 70001428
+$200C2078 080A43AA
+$D0205610 00003FEC
+$20290EA4 0803080C
+!!
++(M) Must Be On
+%Credits: Codejunkies
+$F012D588 0012D58B
+$E0040000 101F6900
+$E0030000 101F6902
+$F0000000 00000003
+$2012D588 0C04E930
+$2012D58C 0240202D
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0000000E
+$E0020C28 10100008
+$20100008 70000C28
+$2010000C 70001428
++Enable Code (Must Be On)
+%Credits: lee4>CMX
+$F0100008 0000000E
+$E0020C28 10100008
+$20100008 70000C28
+$2010000C 70001428
+$80080800 00010928
+$A0080804 00000000
+$E0FF0000 103E85FA
+$200C2078 080A43AA
+$D0205610 00003FEC
+$20290EA4 0803080C
++Enable Code (Must Be On)
+%Credits: lee4>MadCatz
+$F010020C 0000000E
+$E0020328 1010020C
+$2010020C 0C040328
+$20100210 00A0802D
+$E0FF0000 103E85FA
+$200C2078 080A43AA
+$D0205610 00003FEC
+$20290EA4 0803080C
+!!
+!Adray Codes:
++Cost -104%
+%Credits: Code Master
+$00501EC3 000000FF
++Max Alchemy
+%Credits: Code Master
+$00501EB9 000000FF
++Max Compounding
+%Credits: Code Master
+$00501EBB 000000FF
++Max Cooking
+%Credits: Code Master
+$00501EB8 000000FF
++Max Crafting
+%Credits: Code Master
+$00501EBA 000000FF
++Max Engineering
+%Credits: Code Master
+$00501EBE 000000FF
++Max Smithery
+%Credits: Code Master
+$00501EBC 000000FF
++Max Synthesis
+%Credits: Code Master
+$00501EBF 000000FF
++Max Writing
+%Credits: Code Master
+$00501EBD 000000FF
++Time -104%
+%Credits: Code Master
+$00501EC4 000000FF
+!!
+!After Battle Codes:
++Enemy Almost Always Drops Item
+%Credits: Code Master
+$D0252D54 0000082B
+$20252D58 00000000
++Max AGL Upon 1 Level Up
+%Credits: Code Master
+$D040254C 0000180A
+$20402554 2403270F
++Max ATK Upon 1 Level Up
+%Credits: Code Master
+$D0401BF4 0000180A
+$20401BFC 2403270F
++Max CP Upon 1 Level Up
+%Credits: Code Master
+$D0401710 0000380A
+$20401714 24070063
++Max DEF Upon 1 Level Up
+%Credits: Code Master
+$D04021BC 0000180A
+$204021C4 2403270F
++Max HIT Upon 1 Level Up
+%Credits: Code Master
+$D0401FBC 0000180A
+$20401FC4 2403270F
++Max INT Upon 1 Level Up
+%Credits: Code Master
+$D0401DD4 0000180A
+$20401DDC 2403270F
+!!
+!Albel Codes:
++Cost -104%
+%Credits: Code Master
+$00501E9C 000000FF
++Max Alchemy
+%Credits: Code Master
+$00501E92 000000FF
++Max Compounding
+%Credits: Code Master
+$00501E94 000000FF
++Max Cooking
+%Credits: Code Master
+$00501E91 000000FF
++Max Crafting
+%Credits: Code Master
+$00501E93 000000FF
++Max Engineering
+%Credits: Code Master
+$00501E97 000000FF
++Max Smithery
+%Credits: Code Master
+$00501E95 000000FF
++Max Synthesis
+%Credits: Code Master
+$00501E98 000000FF
++Max Writing
+%Credits: Code Master
+$00501E96 000000FF
++Time -104%
+%Credits: Code Master
+$00501E9D 000000FF
+!!
+!Cliff Codes:
++Cost -104%
+%Credits: Code Master
+$00501E82 000000FF
++Max Alchemy
+%Credits: Code Master
+$00501E78 000000FF
++Max Compounding
+%Credits: Code Master
+$00501E7A 000000FF
++Max Cooking
+%Credits: Code Master
+$00501E77 000000FF
++Max Crafting
+%Credits: Code Master
+$00501E79 000000FF
++Max Engineering
+%Credits: Code Master
+$00501E7D 000000FF
++Max Smithery
+%Credits: Code Master
+$00501E7B 000000FF
++Max Synthesis
+%Credits: Code Master
+$00501E7E 000000FF
++Max Writing
+%Credits: Code Master
+$00501E7C 000000FF
++Time -104%
+%Credits: Code Master
+$00501E83 000000FF
+!!
+!EXP Codes:
++EXP Gained Per Battle X1/2
+%Credits: Code Master
+$D02530C0 00001026
+$202530D4 00129042
++EXP Gained Per Battle X1/4
+%Credits: Code Master
+$D02530C0 00001026
+$202530D4 00129082
++EXP Gained Per Battle X16
+%Credits: Code Master
+$D02530C0 00001026
+$202530D4 00129100
++EXP Gained Per Battle X2
+%Credits: Code Master
+$D02530C0 00001026
+$202530D4 00129040
++EXP Gained Per Battle X32
+%Credits: Code Master
+$D02530C0 00001026
+$202530D4 00129140
++EXP Gained Per Battle X4
+%Credits: Code Master
+$D02530C0 00001026
+$202530D4 00129080
++EXP Gained Per Battle X8
+%Credits: Code Master
+$D02530C0 00001026
+$202530D4 001290C0
++Gain 1000 EXP Per Battle
+%Credits: Code Master
+$D02530C0 00001026
+$202530D4 341203E8
++Gain 10000 EXP Per Battle
+%Credits: Code Master
+$D02530C0 00001026
+$202530D4 34122710
++Gain 25000 EXP Per Battle
+%Credits: Code Master
+$D02530C0 00001026
+$202530D4 341261A8
++Gain 50000 EXP Per Battle
+%Credits: Code Master
+$D02530C0 00001026
+$202530D4 3412C350
++Gain 65535 EXP Per Battle
+%Credits: Code Master
+$D02530C0 00001026
+$202530D4 3412FFFF
++Max EXP Gained After 1 Battle
+%Credits: Code Master
+$D02530C0 00001026
+$202530D4 3C120099
+!!
+!Fayt:
++Cost Down By 100%
+%Credits: iyeru42
+$00501E5B 0000009C
++Max Alchemy
+%Credits: iyeru42
+$00501E51 000000FF
++Max Compounding
+%Credits: iyeru42
+$00501E53 000000FF
++Max Cooking
+%Credits: iyeru42
+$00501E50 000000FF
++Max Crafting
+%Credits: iyeru42
+$00501E52 000000FF
++Max Engineering
+%Credits: iyeru42
+$00501E56 000000FF
++Max Smithery
+%Credits: iyeru42
+$00501E54 000000FF
++Max Synthesis
+%Credits: iyeru42
+$00501E57 000000FF
++Max Writing
+%Credits: iyeru42
+$00501E55 000000FF
++Time Down By 100%
+%Credits: iyeru42
+$00501E5C 0000009C
+!!
+!Fayt Codes:
++Cost -104%
+%Credits: Code Master
+$00501E5B 000000FF
++Time -104%
+%Credits: Code Master
+$00501E5C 000000FF
+!!
+!Fol Codes:
++Fol Gained Per Battle X1/2
+%Credits: Code Master
+$D0253480 00003023
+$2025348C 00129042
++Fol Gained Per Battle X1/4
+%Credits: Code Master
+$D0253480 00003023
+$2025348C 00129082
++Fol Gained Per Battle X16
+%Credits: Code Master
+$D0253480 00003023
+$2025348C 00129100
++Fol Gained Per Battle X2
+%Credits: Code Master
+$D0253480 00003023
+$2025348C 00129040
++Fol Gained Per Battle X32
+%Credits: Code Master
+$D0253480 00003023
+$2025348C 00129140
++Fol Gained Per Battle X4
+%Credits: Code Master
+$D0253480 00003023
+$2025348C 00129080
++Fol Gained Per Battle X8
+%Credits: Code Master
+$D0253480 00003023
+$2025348C 001290C0
++Gain 1000 Fol Per Battle
+%Credits: Code Master
+$D0253480 00003023
+$2025348C 341203E8
++Gain 10000 Fol Per Battle
+%Credits: Code Master
+$D0253480 00003023
+$2025348C 34122710
++Gain 25000 Fol Per Battle
+%Credits: Code Master
+$D0253480 00003023
+$2025348C 341261A8
++Gain 50000 Fol Per Battle
+%Credits: Code Master
+$D0253480 00003023
+$2025348C 3412C350
++Gain 65535 Fol Per Battle
+%Credits: Code Master
+$D0253480 00003023
+$2025348C 3412FFFF
++Max Fol Gained After 1 Battle
+%Credits: Code Master
+$D0253480 00003023
+$2025348C 3C1205F6
+!!
+!In Battle:
++Get 9.999.999 EXP (After Battle)
+%Credits: iyeru42
+$202530F0 14000003
++Get 9.999.999 Fol (After Battle)
+%Credits: iyeru42
+$20253450 14000003
++Infinite Fury
+%Credits: iyeru42
+$200C2070 8C61002C
+$200C2074 AC610030
++Infinite HP
+%Credits: iyeru42
+$200C2030 AC680010
+$200C2034 AC680018
+$200C2038 01082821
+$200C203C 8C6700A8
+$200C2040 01052026
+$200C2044 00E42026
+$200C2048 AC64008C
++Infinite MP
+%Credits: iyeru42
+$200C2050 8C690020
+$200C2054 AC69001C
+$200C2058 AC690024
+$200C205C 01292821
+$200C2060 8C6700A8
+$200C2064 01252026
+$200C2068 00E42026
+$200C206C AC640090
++Mastery Level Increases To Max Upon Use Of Battle Skill
+%Credits: iyeru42
+$2040AA10 00088B80
++No EXP Division Between Party Members
+%Credits: iyeru42
+$D024E844 00009012
+$2024E844 24020001
++No SP Consumption
+%Credits: iyeru42
+$2040883C 24020000
++One Hit Fills Battle Gauge
+%Credits: iyeru42
+$D03F5D80 0000802D
+$203F5D80 24102710
+!!
+!In-Battle Codes:
++Always Max Fury
+%Credits: Code Master
+$E0021043 0020595C
+$20205960 3C0144C8
+$20205964 AD410030
++Enemies Always Have 0 AGL
+%Credits: Code Master
+$D01E6F94 0000100A
+$201E6F9C 24020000
++Enemies Always Have 0 ATK
+%Credits: Code Master
+$D01E6B74 0000100A
+$201E6B7C 24020000
++Enemies Always Have 0 DEF
+%Credits: Code Master
+$D01E6DC4 0000100A
+$201E6DCC 24020000
++Enemies Always Have 0 HIT
+%Credits: Code Master
+$D01E71BC 0000100A
+$201E71C4 24020000
++Enemies Always Have 0 INT
+%Credits: Code Master
+$D01E73E4 0000100A
+$201E73EC 24020000
++Enemies Always Start With Only 1 HP
+%Credits: Code Master
+$D01E64C8 0000082A
+$201E64CC 24020001
++HP Refills Upon Most Attacks
+%Credits: Code Master
+$E003082A 002796A8
+$202796AC 00000000
+$1027A596 00001000
+$202790D4 00000000
++Infinite Fury Usage
+%Credits: Code Master
+$D0290568 00004180
+$20290578 00000000
++Infinite HP
+%Credits: Code Master
+$E0090B84 00290E10
+$200C02A0 AC620010
+$200C02A4 AC620018
+$200C02A8 080A4387
+$200C02AC 8C640010
+$10290E36 00001000
+$20290E38 AC62008C
+$10290ECA 00001000
+$20290ECC AC64008C
+$20290E14 080300A8
++Infinite Item Usage
+%Credits: Code Master
+$D0274670 0000882D
+$2027468C 00000000
++Infinite MP
+%Credits: Code Master
+$E0092826 002057F8
+$200C02B0 AD4B001C
+$200C02B4 AD4B0024
+$200C02B8 08081606
+$200C02BC 8D51001C
+$10205832 00001000
+$20205834 AD4B0090
+$102058BA 00001000
+$202058BC AD510090
+$20205810 080300AC
++Infinite MP Usage
+%Credits: Code Master
+$D029E864 0000082A
+$2029E868 00000000
+!!
+!Inventor Codes:
++Fol Doesn't Decrease When Making Items
+%Credits: Code Master
+$202FB7E8 00000000
+$2040BEEC 00000000
+!!
+!Maria Codes:
++Cost -104%
+%Credits: Code Master
+$00501E75 000000FF
++Max Alchemy
+%Credits: Code Master
+$00501E6B 000000FF
++Max Compounding
+%Credits: Code Master
+$00501E6D 000000FF
++Max Cooking
+%Credits: Code Master
+$00501E6A 000000FF
++Max Crafting
+%Credits: Code Master
+$00501E6C 000000FF
++Max Engineering
+%Credits: Code Master
+$00501E70 000000FF
++Max Smithery
+%Credits: Code Master
+$00501E6E 000000FF
++Max Synthesis
+%Credits: Code Master
+$00501E71 000000FF
++Max Writing
+%Credits: Code Master
+$00501E6F 000000FF
++Time -104%
+%Credits: Code Master
+$00501E76 000000FF
+!!
+!Mirage Codes:
++Cost -104%
+%Credits: Code Master
+$00501ED0 000000FF
++Max Alchemy
+%Credits: Code Master
+$00501EC6 000000FF
++Max Compounding
+%Credits: Code Master
+$00501EC8 000000FF
++Max Cooking
+%Credits: Code Master
+$00501EC5 000000FF
++Max Crafting
+%Credits: Code Master
+$00501EC7 000000FF
++Max Engineering
+%Credits: Code Master
+$00501ECB 000000FF
++Max Smithery
+%Credits: Code Master
+$00501EC9 000000FF
++Max Synthesis
+%Credits: Code Master
+$00501ECC 000000FF
++Max Writing
+%Credits: Code Master
+$00501ECA 000000FF
++Time -104%
+%Credits: Code Master
+$00501ED1 000000FF
+!!
+!Miscellaneous Codes:
++All Items Cost 1 Fol {<I>You Must Have The Fol To Cover The Original Cost. If You Don&#39;T, Buy Some Items And Sell Them To Make Money.</I>}
+%Credits: Code Master
+$D02FA0F8 00003023
+$202FA120 24030001
++All Party Members Get The Same EXP
+%Credits: Code Master
+$D02530C0 00001026
+$202530E4 00000000
++Enemies Always Displayed On Map
+%Credits: Code Master
+$202D8734 24020002
++Enemies Can't Move On Map
+%Credits: Code Master
+$202D874C 24020002
++Infinite Item Usage
+%Credits: Code Master
+$D034D0D0 00008508
+$2034D0D4 00000000
++Infinite Item Usage (When Inventing Items
+%Credits: Code Master
+$D036C030 00008508
+$2036C034 00000000
++Max Battles Fought {<I>Press Triangle To Bring Up The Camp Screen To See You Have Max Battles Fought.</I>}
+%Credits: Code Master
+$E0088440 002691B0
+$200C0240 3C017CE2
+$200C0244 34214168
+$200C0248 AE210004
+$200C0258 03E00008
+$200C025C 922300B2
+$20269294 00408021
+$2026929C A63000B0
+$20269268 0C030090
++Max Fol {<I>Press Triangle To Bring Up The Camp Screen To See You Have Max Fol.</I>}
+%Credits: Code Master
+$E0088440 002694E0
+$200C0220 3C017916
+$200C0224 34212708
+$200C0228 AE410034
+$200C0234 03E00008
+$200C0238 964400A6
+$20269500 00408021
+$20269508 A65000A4
+$202694E8 0C030088
++P1 Press L1+Select For Low Game Time
+%Credits: Code Master
+$D01B7D5C 0000FBFE
+$201B7D08 00000000
++Save Anywhere
+%Credits: Code Master
+$D02D1458 0000FFFF
+$102D1462 00001000
++Treasure Boxes Always Displayed On Map
+%Credits: Code Master
+$202D8720 24020002
++Use Blueberries Item For Full HP Recovery
+%Credits: Code Master
+$D02E94DC 0000202D
+$202E94F8 00000000
++Use Fresh Sage Item For Full HP Recovery
+%Credits: Code Master
+$D02EBB94 0000202D
+$202EBBB0 00000000
++Use Ripe Berries Item For Full HP Recovery
+%Credits: Code Master
+$D02E9BBC 0000202D
+$202E9BD8 00000000
++Use SP Once For Max SP
+%Credits: Code Master
+$D03563DC 0000022A
+$203563DC 00000000
+$203563F0 2404270F
++View Menu For Max AGL
+%Credits: Code Master
+$D03FE874 0000202D
+$203FE878 2410270F
++View Menu For Max ATK
+%Credits: Code Master
+$D03FE0BC 0000202D
+$203FE0C0 2410270F
++View Menu For Max DEF
+%Credits: Code Master
+$D03FE4C4 0000202D
+$203FE4C8 2410270F
++View Menu For Max HIT
+%Credits: Code Master
+$D03F9F14 0000202D
+$203F9F18 2410270F
++View Menu For Max HP
+%Credits: Code Master
+$E002202D 003F9AD8
+$203F9ADC 3C100001
+$203F9AE4 3610869F
++View Menu For Max INT
+%Credits: Code Master
+$D03FABE0 0000202D
+$203FABE4 2416270F
++View Menu For Max MP
+%Credits: Code Master
+$E002282D 003FDEE0
+$203FDEE4 3C100001
+$203FDEEC 3610869F
++View Menu To Refill HP To Max
+%Credits: Code Master
+$D03FDE04 0000082A
+$203FDE08 00000000
++View Menu To Refill MP To Max
+%Credits: Code Master
+$D03FDF9C 0000082A
+$203FDFA0 00000000
+!!
+!Nel Codes:
++Cost -104%
+%Credits: Code Master
+$00501E8F 000000FF
++Max Alchemy
+%Credits: Code Master
+$00501E85 000000FF
++Max Compounding
+%Credits: Code Master
+$00501E87 000000FF
++Max Cooking
+%Credits: Code Master
+$00501E84 000000FF
++Max Crafting
+%Credits: Code Master
+$00501E86 000000FF
++Max Engineering
+%Credits: Code Master
+$00501E8A 000000FF
++Max Smithery
+%Credits: Code Master
+$00501E88 000000FF
++Max Synthesis
+%Credits: Code Master
+$00501E8B 000000FF
++Max Writing
+%Credits: Code Master
+$00501E89 000000FF
++Time -104%
+%Credits: Code Master
+$00501E90 000000FF
+!!
+!On Level Up (All Characters):
++99 CP
+%Credits: iyeru42
+$20401710 34077DD4
++9999 SP
+%Credits: iyeru42
+$2040153C 2413270F
++Max Atkdefaglhitint
+%Credits: iyeru42
+$20401AB0 2402270F
++Maximum HP
+%Credits: iyeru42
+$20400A9C 3C150002
++Maximum MP
+%Credits: iyeru42
+$204010BC 3C150002
+!!
+!Peppita Codes:
++Cost -104%
+%Credits: Code Master
+$00501EB6 000000FF
++Max Alchemy
+%Credits: Code Master
+$00501EAC 000000FF
++Max Compounding
+%Credits: Code Master
+$00501EAE 000000FF
++Max Cooking
+%Credits: Code Master
+$00501EAB 000000FF
++Max Crafting
+%Credits: Code Master
+$00501EAD 000000FF
++Max Engineering
+%Credits: Code Master
+$00501EB1 000000FF
++Max Smithery
+%Credits: Code Master
+$00501EAF 000000FF
++Max Synthesis
+%Credits: Code Master
+$00501EB2 000000FF
++Max Writing
+%Credits: Code Master
+$00501EB0 000000FF
++Time -104%
+%Credits: Code Master
+$00501EB7 000000FF
+!!
+!Roger Codes:
++Cost -104%
+%Credits: Code Master
+$00501EA9 000000FF
++Max Alchemy
+%Credits: Code Master
+$00501E9F 000000FF
++Max Compounding
+%Credits: Code Master
+$00501EA1 000000FF
++Max Cooking
+%Credits: Code Master
+$00501E9E 000000FF
++Max Crafting
+%Credits: Code Master
+$00501EA0 000000FF
++Max Engineering
+%Credits: Code Master
+$00501EA4 000000FF
++Max Smithery
+%Credits: Code Master
+$00501EA2 000000FF
++Max Synthesis
+%Credits: Code Master
+$00501EA5 000000FF
++Max Writing
+%Credits: Code Master
+$00501EA3 000000FF
++Time -104%
+%Credits: Code Master
+$00501EAA 000000FF
+!!
+!Sophia Codes:
++Cost -104%
+%Credits: Code Master
+$00501E68 000000FF
++Max Alchemy
+%Credits: Code Master
+$00501E5E 000000FF
++Max Compounding
+%Credits: Code Master
+$00501E60 000000FF
++Max Cooking
+%Credits: Code Master
+$00501E5D 000000FF
++Max Crafting
+%Credits: Code Master
+$00501E5F 000000FF
++Max Engineering
+%Credits: Code Master
+$00501E63 000000FF
++Max Smithery
+%Credits: Code Master
+$00501E61 000000FF
++Max Synthesis
+%Credits: Code Master
+$00501E64 000000FF
++Max Writing
+%Credits: Code Master
+$00501E62 000000FF
++Time -104%
+%Credits: Code Master
+$00501E69 000000FF
+!!
+!Upon Level Up-Max HP Increased Codes:
++Gain 1000 Max HP
+%Credits: Code Master
+$D0400A70 00001021
+$20400A9C 341503E8
++Gain 250 Max HP
+%Credits: Code Master
+$D0400A70 00001021
+$20400A9C 341500FA
++Gain 500 Max HP
+%Credits: Code Master
+$D0400A70 00001021
+$20400A9C 341501F4
++Gain 5000 Max HP
+%Credits: Code Master
+$D0400A70 00001021
+$20400A9C 34151388
++Max HP Gained X1/2
+%Credits: Code Master
+$D0400A70 00001021
+$20400A9C 0015A843
++Max HP Gained X1/4
+%Credits: Code Master
+$D0400A70 00001021
+$20400A9C 0015A883
++Max HP Gained X16
+%Credits: Code Master
+$D0400A70 00001021
+$20400A9C 0015A900
++Max HP Gained X2
+%Credits: Code Master
+$D0400A70 00001021
+$20400A9C 0015A840
++Max HP Gained X4
+%Credits: Code Master
+$D0400A70 00001021
+$20400A9C 0015A880
++Max HP Gained X8
+%Credits: Code Master
+$D0400A70 00001021
+$20400A9C 0015A8C0
++Maximum Max HP After 1 Level Up
+%Credits: Code Master
+$D0400A70 00001021
+$20400A9C 3C150002
+!!
+!Upon Level Up-Max MP Increased Codes:
++Gain 1000 Max MP
+%Credits: Code Master
+$D040108C 00001021
+$204010BC 341503E8
++Gain 250 Max MP
+%Credits: Code Master
+$D040108C 00001021
+$204010BC 341500FA
++Gain 500 Max MP
+%Credits: Code Master
+$D040108C 00001021
+$204010BC 341501F4
++Gain 5000 Max MP
+%Credits: Code Master
+$D040108C 00001021
+$204010BC 34151388
++Max MP Gained X1/2
+%Credits: Code Master
+$D040108C 00001021
+$204010BC 0015A843
++Max MP Gained X1/4
+%Credits: Code Master
+$D040108C 00001021
+$204010BC 0015A883
++Max MP Gained X16
+%Credits: Code Master
+$D040108C 00001021
+$204010BC 0015A900
++Max MP Gained X2
+%Credits: Code Master
+$D040108C 00001021
+$204010BC 0015A840
++Max MP Gained X4
+%Credits: Code Master
+$D040108C 00001021
+$204010BC 0015A880
++Max MP Gained X8
+%Credits: Code Master
+$D040108C 00001021
+$204010BC 0015A8C0
++Maximum Max MP After 1 Level Up
+%Credits: Code Master
+$D040108C 00001021
+$204010BC 3C150002
+!!
+!Upon Level Up-SP Increased Codes:
++Gain 100 SP
+%Credits: Code Master
+$E0029821 004014F4
+$20401564 34130064
++Gain 1000 SP
+%Credits: Code Master
+$E0029821 004014F4
+$20401564 341303E8
++Gain 250 SP
+%Credits: Code Master
+$E0029821 004014F4
+$20401564 341300FA
++Gain 500 SP
+%Credits: Code Master
+$E0029821 004014F4
+$20401564 341301F4
++Max SP After 1 Level Up
+%Credits: Code Master
+$E0029821 004014F4
+$20401564 3413270F
++Max SP Gained X8
+%Credits: Code Master
+$E0029821 004014F4
+$20401564 001398C0
++SP Gained X1/2
+%Credits: Code Master
+$E0029821 004014F4
+$20401564 00139842
++SP Gained X1/4
+%Credits: Code Master
+$E0029821 004014F4
+$20401564 00139882
++SP Gained X16
+%Credits: Code Master
+$E0029821 004014F4
+$20401564 00139900
++SP Gained X2
+%Credits: Code Master
+$E0029821 004014F4
+$20401564 00139840
++SP Gained X32
+%Credits: Code Master
+$E0029821 004014F4
+$20401564 00139940
++SP Gained X4
+%Credits: Code Master
+$E0029821 004014F4
+$20401564 00139880
+!!
++Force Progressive Scan Output {<I>This Is Equivalent To Holding Triangle And X While The Game Loads, And Selecting 4:3 Mode.</I>}
+%Credits: LiquidManZero
+$001CC504 00000001
++Have Save Anywhere
+%Credits: MadCatz
+$D02D145C 00000008
+$202D145C 24020000
++Heat Up Gauge Max During The Fight
+%Credits: Codejunkies
+$E0020004 003F5D8C
+$D03F5D8E 00001420
+$203F5D8C 14000004
++Max AGL
+%Credits: MadCatz
+$D03F9FD8 0000802D
+$203F9FD8 2410270F
++Max ATK
+%Credits: MadCatz
+$D03F9CD8 0000802D
+$203F9CD8 2410270F
++Max DEF
+%Credits: MadCatz
+$D03F9E58 0000802D
+$203F9E58 2410270F
++Max Experience After A Fight
+%Credits: Codejunkies
+$E0020003 002530F0
+$D02530F2 00001420
+$202530F0 14000003
++Max HIT
+%Credits: MadCatz
+$D03F9F18 0000802D
+$203F9F18 2410270F
++Max INT
+%Credits: MadCatz
+$D03F9D98 0000802D
+$203F9D98 2410270F
++Max Money When Item Is Sold
+%Credits: Codejunkies
+$D02F9E92 00004402
+$202F9E8C 00000000
++Max Sol After 1 Fight
+%Credits: Codejunkies
+$E0020003 00253450
+$D0253452 00001420
+$20253450 14000003
++View Status For Max Fol
+%Credits: MadCatz
+$200C2000 3C017916
+$200C2004 34212708
+$200C2008 AE410034
+$200C200C 964400A6
+$200C2010 26450026
+$200C2014 0C115D1C
+$200C2018 00453023
+$200C201C A64200A4
+$200C2020 0809A4E8
+$200C2024 964400A6
+$D026939C 000000A6
+$2026939C 08030800
+!!
+

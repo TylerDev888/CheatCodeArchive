@@ -1,0 +1,155 @@
+^2 = GameID: NPEB00258
+^3 = NAME: Scott Pilgrim vs. The World (PSN)
+^5 = APCRED: From zeick
+^4 = FILE: DATA
++Scott
++$9999
+$search 0xFFFFFFFF
+$write next (-36):461C3C00
++9 Lives
+$search 0xFFFFFFFF
+$write next (-29):09
++Hp 9999
+$search 0xFFFFFFFF
+$write next (-64):461C3C00
+$search 0xFFFFFFFF
+$write next (-48):461C3C00
++Wp 9999
+$search 0xFFFFFFFF
+$write next (-44):461C3C00
+$search 0xFFFFFFFF
+$write next (-68):461C3C00
++Spd 99
+$search 0xFFFFFFFF
+$write next (-56):461C3C00
+$search 0xFFFFFFFF
+$write next (-84):42C60000
++Str 9999
+$search 0xFFFFFFFF
+$write next (-76):461C3C00
+$search 0xFFFFFFFF
+$write next (-56):461C3C00
++Def 9999
+$search 0xFFFFFFFF
+$write next (-88):461C3C00
+$search 0xFFFFFFFF
+$write next (-56):461C3C00
++Wp 9999
+$search 0xFFFFFFFF
+$write next (-80):461C3C00
+$search 0xFFFFFFFF
+$write next (-56):461C3C00
+!Kim:
++$9999
+$search 0xFFFFFFFF:2
+$write next (-36):461C3C00
++9 Lives
+$search 0xFFFFFFFF:2
+$write next (-29):09
++Hp 9999
+$search 0xFFFFFFFF:2
+$write next (-64):461C3C00
+$search 0xFFFFFFFF:2
+$write next (-48):461C3C00
++Wp 9999
+$search 0xFFFFFFFF:2
+$write next (-44):461C3C00
+$search 0xFFFFFFFF:2
+$write next (-68):461C3C00
++Spd 99
+$search 0xFFFFFFFF:2
+$write next (-56):461C3C00
+$search 0xFFFFFFFF:2
+$write next (-84):42C60000
++Str 9999
+$search 0xFFFFFFFF:2
+$write next (-76):461C3C00
+$search 0xFFFFFFFF:2
+$write next (-56):461C3C00
++Def 9999
+$search 0xFFFFFFFF:2
+$write next (-88):461C3C00
+$search 0xFFFFFFFF:2
+$write next (-56):461C3C00
++Wp 9999
+$search 0xFFFFFFFF:2
+$write next (-80):461C3C00
+$search 0xFFFFFFFF:2
+$write next (-56):461C3C00
+!Stills:
++$9999
+$search 0xFFFFFFFF:3
+$write next (-36):461C3C00
++9 Lives
+$search 0xFFFFFFFF:3
+$write next (-29):09
++Hp 9999
+$search 0xFFFFFFFF:3
+$write next (-64):461C3C00
+$search 0xFFFFFFFF:3
+$write next (-48):461C3C00
++Wp 9999
+$search 0xFFFFFFFF:3
+$write next (-44):461C3C00
+$search 0xFFFFFFFF:3
+$write next (-68):461C3C00
++Spd 99
+$search 0xFFFFFFFF:3
+$write next (-56):461C3C00
+$search 0xFFFFFFFF:3
+$write next (-84):42C60000
++Str 9999
+$search 0xFFFFFFFF:3
+$write next (-76):461C3C00
+$search 0xFFFFFFFF:3
+$write next (-56):461C3C00
++Def 9999
+$search 0xFFFFFFFF:3
+$write next (-88):461C3C00
+$search 0xFFFFFFFF:3
+$write next (-56):461C3C00
++Wp 9999
+$search 0xFFFFFFFF:3
+$write next (-80):461C3C00
+$search 0xFFFFFFFF:3
+$write next (-56):461C3C00
+!!
+!Ramona:
++$9999
+$search 0xFFFFFFFF:4
+$write next (-36):461C3C00
++9 Lives
+$search 0xFFFFFFFF:4
+$write next (-29):09
++Hp 9999
+$search 0xFFFFFFFF:4
+$write next (-64):461C3C00
+$search 0xFFFFFFFF:4
+$write next (-48):461C3C00
++Wp 9999
+$search 0xFFFFFFFF:4
+$write next (-44):461C3C00
+$search 0xFFFFFFFF:4
+$write next (-68):461C3C00
++Spd 99
+$search 0xFFFFFFFF:4
+$write next (-56):461C3C00
+$search 0xFFFFFFFF:4
+$write next (-84):42C60000
++Str 9999
+$search 0xFFFFFFFF:4
+$write next (-76):461C3C00
+$search 0xFFFFFFFF:4
+$write next (-56):461C3C00
++Def 9999
+$search 0xFFFFFFFF:4
+$write next (-88):461C3C00
+$search 0xFFFFFFFF:4
+$write next (-56):461C3C00
++Wp 9999
+$search 0xFFFFFFFF:4
+$write next (-80):461C3C00
+$search 0xFFFFFFFF:4
+$write next (-56):461C3C00
+!!
+!!

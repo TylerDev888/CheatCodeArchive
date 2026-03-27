@@ -1,0 +1,406 @@
+^2 = GameID: CUSA05469,CUSA05392,CUSA06263,CUSA06959
+^3 = NAME: Digimon World: Next Order
+^SECONDLAYER: YES{Checksum}
+^4 = FILE: [0-9]+\ue4savegame.ps4.sav
+!Inventory:
++Add Item To Inventory
+$95000000 00004BC2
+$88010004 FFFFFFFF
+$A8000000 00000004
+$[Item] 00000000
+$18000004 0000[Amount:0063:HEX:BIG]
++Mod Amount Of Item In Inventory
+$95000000 00004BC2
+$88010004 [Item]
+$18000004 0000[Amount:0063:HEX:BIG]
+!!
+!Storage
++Add Item To Storage
+$95000000 00004D9A
+$88010004 FFFFFFFF
+$A8000000 00000004
+$[Item] 00000000
+$18000004 0000[Amount:0063:HEX:BIG]
++Mod Amount Of Item In Storage
+$95000000 00004D9A
+$88010004 [Item]
+$18000004 0000[Amount:0063:HEX:BIG]
+!!
+^6 = MODS:
+[Item]
+ID>Item>Type
+78894ED5	Defense Booster X	Battle
+79894ED5	Defense Booster S	Battle
+7A894ED5	Attack Booster X	Battle
+7B894ED5	Attack Booster S	Battle
+7E894ED5	Utility Booster X	Battle
+7F894ED5	Utility Booster S	Battle
+80874ED4	Utility Plugin S	Battle
+81874ED4	Utility Plugin X	Battle
+89874ED4	Attack Plugin	Battle
+8A874ED4	Attack Plugin S	Battle
+8B874ED4	Attack Plugin X	Battle
+8C874ED4	Defense Plugin	Battle
+8D874ED4	Defense Plugin S	Battle
+8E874ED4	Defense Plugin X	Battle
+8F874ED4	Utility Plugin	Battle
+DA006A01	Medicine	Care
+DC006A01	Auto-Pilot	Care
+DD006A01	Bandage	Care
+DF006A01	Portable Toilet	Care
+B0026A02	Devil Chip A	Chip
+B1026A02	Speed Chip	Chip
+B2026A02	Devil Chip E	Chip
+B3026A02	Devil Chip D	Chip
+B4026A02	MP Chip Mini	Chip
+B5026A02	HP Chip Mini	Chip
+B6026A02	Stamina Chip Mini	Chip
+B7026A02	Strength Chip Mini	Chip
+B8026A02	Speed Chip Mini	Chip
+B9026A02	Wisdom Chip Mini	Chip
+D6006A01	Stamina Chip	Chip
+D7006A01	Wisdom Chip	Chip
+D8006A01	MP Chip	Chip
+D9006A01	Strength Chip	Chip
+DB006A01	HP Chip	Chip
+F8FD69FF	Stealth Chip	Chip
+0007E499	Displodungulite	Digivolution Core
+0107E499	Virtumilitite	Digivolution Core
+0207E499	Animossisite	Digivolution Core
+0407E499	Ignisite	Digivolution Core
+0507E499	Leorectite	Digivolution Core
+0607E499	Holusagerite	Digivolution Core
+0807E499	Belluite	Digivolution Core
+10B4E18C	Negrilupine	Digivolution Core
+11B4E18C	Purinegrine	Digivolution Core
+12B4E18C	Cranaesquetrine	Digivolution Core
+13B4E18C	Arcaesquetrine	Digivolution Core
+14B4E18C	Supersimine	Digivolution Core
+14CAE19A	Mutatinegrine	Digivolution Core
+15B4E18C	Auctimaline	Digivolution Core
+15CAE19A	Ministerine	Digivolution Core
+16B4E18C	Hederafoline	Digivolution Core
+17B4E18C	Immiscechaosine	Digivolution Core
+18CAE19A	Rufaesquetrine	Digivolution Core
+19CAE19A	Interitine	Digivolution Core
+1AB4E18C	Locicoeline	Digivolution Core
+1ACAE19A	Summanegrine	Digivolution Core
+1BB4E18C	Impudentine	Digivolution Core
+1BCAE19A	Summaesquetrine	Digivolution Core
+1CCAE19A	Sacrimperine	Digivolution Core
+1DCAE19A	Imperapugnine	Digivolution Core
+1FCAE19A	Septamagine	Digivolution Core
+30BCE191	Malisarculice	Digivolution Core
+3204E497	Dracocursite	Digivolution Core
+3304E497	Felideusite	Digivolution Core
+33BCE191	Tonitrulaminice	Digivolution Core
+35BCE191	Quantice	Digivolution Core
+3804E497	Flagralacite	Digivolution Core
+3904E497	Lupargenite	Digivolution Core
+3A04E497	Onychauxite	Digivolution Core
+3BBCE191	Lapsapraecepice	Digivolution Core
+3C04E497	Spinaviridite	Digivolution Core
+3D04E497	Cornargentite	Digivolution Core
+3E04E497	Galeamite	Digivolution Core
+3F04E497	Sacravestite	Digivolution Core
+4002E496	Tonitrumagusite	Digivolution Core
+40AADE0B	Dracoferocetine	Digivolution Core
+40F7E38F	Noxipretiosice	Digivolution Core
+4102E496	Magusalaite	Digivolution Core
+41AADE0B	Draconite	Digivolution Core
+41F7E38F	Bellatoralice	Digivolution Core
+43F7E38F	Extimicelerice	Digivolution Core
+440DE49D	Argentalice	Digivolution Core
+44F7E38F	Parvularmice	Digivolution Core
+450DE49D	Caelumagnice	Digivolution Core
+45F7E38F	Parvuliplumbice	Digivolution Core
+47F7E38F	Nymphalice	Digivolution Core
+480DE49D	Feliprudentite	Digivolution Core
+48AADE0B	Lunadivine	Digivolution Core
+4902E496	Frumentadgressite	Digivolution Core
+490DE49D	Dracoturbidite	Digivolution Core
+49AADE0B	Swordivine	Digivolution Core
+4A02E496	Porphyrinite	Digivolution Core
+4A0DE49D	Lupugnice	Digivolution Core
+4AAADE0B	Heropotentatine	Digivolution Core
+4AF7E38F	Sacramagice	Digivolution Core
+4B02E496	Armacanisite	Digivolution Core
+4B0DE49D	Ferrumachinice	Digivolution Core
+4BAADE0B	Shadracotine	Digivolution Core
+4C02E496	Leporobscurite	Digivolution Core
+4C0DE49D	Verteconligite	Digivolution Core
+4CAADE0B	Crenasolarine	Digivolution Core
+4D02E496	Campanavulpesite	Digivolution Core
+4D0DE49D	Extracaptivite	Digivolution Core
+4DAADE0B	Sollupusine	Digivolution Core
+4E02E496	Bestiapugnite	Digivolution Core
+4E0DE49D	Dracocatullite	Digivolution Core
+4EAADE0B	Eddimansine	Digivolution Core
+4F0DE49D	Vertecandescite	Digivolution Core
+4FAADE0B	Crenaspine	Digivolution Core
+56BAE190	Sophicoeline	Digivolution Core
+57BAE190	Gravivestitine	Digivolution Core
+58BAE190	Lanceaesquetrine	Digivolution Core
+5ABAE190	Armaesquetrine	Digivolution Core
+5BBAE190	Oceadivine	Digivolution Core
+5CBAE190	Sacradracine	Digivolution Core
+5DBAE190	Bellaspinine	Digivolution Core
+5EBAE190	Stiriacine	Digivolution Core
+5FBAE190	Ferrigaleatine	Digivolution Core
+600AE49B	Ventanimite	Digivolution Core
+620AE49B	Felitenebrite	Digivolution Core
+630AE49B	Umbralaite	Digivolution Core
+640AE49B	Fremilupusite	Digivolution Core
+650AE49B	Catullargentite	Digivolution Core
+660AE49B	Caelamorite	Digivolution Core
+670AE49B	Frigusanimite	Digivolution Core
+6E0AE49B	Nymphavulpesite	Digivolution Core
+6F0AE49B	Proteguarite	Digivolution Core
+70B7E18E	Iramagine	Digivolution Core
+71B7E18E	Hatchetrambine	Digivolution Core
+78B7E18E	Censurexine	Digivolution Core
+79B7E18E	Hebetimpetine	Digivolution Core
+7AB7E18E	Impetimagine	Digivolution Core
+7BB7E18E	Infinitine	Digivolution Core
+7CB7E18E	Supermyriadine	Digivolution Core
+7EB7E18E	Candescaesquetrine	Digivolution Core
+7FB7E18E	Invidimagine	Digivolution Core
+80B5E18D	Justivine	Digivolution Core
+82B5E18D	Tenebrivirine	Digivolution Core
+83B5E18D	Cupidimagine	Digivolution Core
+85B5E18D	Indicaesquetrine	Digivolution Core
+86B5E18D	Veneficiflorine	Digivolution Core
+87B5E18D	Umbrilunine	Digivolution Core
+8EB5E18D	Pulcineline	Digivolution Core
+8FB5E18D	Superbimagine	Digivolution Core
+A0BDE192	Auriferinice	Digivolution Core
+A1BDE192	Arcanalaminice	Digivolution Core
+A2B2E18B	Machinimarine	Digivolution Core
+A2BDE192	Viaplenice	Digivolution Core
+A2C8E199	Salicelerine	Digivolution Core
+A3B2E18B	Magiforcepine	Digivolution Core
+A3BDE192	Quinquelementice	Digivolution Core
+A4BDE192	Lupumbrice	Digivolution Core
+A5B2E18B	Incurimagine	Digivolution Core
+A5BDE192	Machinindicice	Digivolution Core
+A605E498	Reliquite	Digivolution Core
+A6B2E18B	Fortimagine	Digivolution Core
+A6BDE192	Lutelaminice	Digivolution Core
+A705E498	Pilagelumite	Digivolution Core
+A7B2E18B	Dracaequetrine	Digivolution Core
+A7BDE192	Caerulicornice	Digivolution Core
+A8B2E18B	Larvidivine	Digivolution Core
+A8C8E199	Bestaesquetrine	Digivolution Core
+A905E498	Inanarborite	Digivolution Core
+A9B2E18B	Duraesquetine	Digivolution Core
+A9C8E199	Justitaesquetrine	Digivolution Core
+AA05E498	Armaferrite	Digivolution Core
+AAC8E199	Imperadracine	Digivolution Core
+AC05E498	Mareserpensite	Digivolution Core
+ACBDE192	Risicoelice	Digivolution Core
+ACC8E199	Studaesquetrine	Digivolution Core
+AD05E498	Caesaforfexite	Digivolution Core
+ADBDE192	Malicoluberice	Digivolution Core
+ADC8E199	Magicoeline	Digivolution Core
+AEC8E199	Misericordisenexine	Digivolution Core
+AFC8E199	Negraesquetrine	Digivolution Core
+D0F5E38E	Dirumpimpetice	Digivolution Core
+D1F5E38E	Tenebrossice	Digivolution Core
+D20BE49C	Altisolumice	Digivolution Core
+D2F5E38E	Nigeribrachice	Digivolution Core
+D30BE49C	Fortunice	Digivolution Core
+D3F5E38E	Dracobrachice	Digivolution Core
+D4F5E38E	Blancorexice	Digivolution Core
+D5F5E38E	Pugnusice	Digivolution Core
+D6A8DE0A	Pernicite	Digivolution Core
+D80BE49C	Lilice	Digivolution Core
+D8F5E38E	Caerulignice	Digivolution Core
+D90BE49C	Sacrarcice	Digivolution Core
+DA0BE49C	Rexicornice	Digivolution Core
+DB0BE49C	Maripecusice	Digivolution Core
+DC0BE49C	Geminalaminice	Digivolution Core
+DD0BE49C	Scitiferinice	Digivolution Core
+DE0BE49C	Dracobestiolice	Digivolution Core
+E4B8E18F	Phoenixine	Digivolution Core
+E5B8E18F	Archangeline	Digivolution Core
+E8B8E18F	Fortidracine	Digivolution Core
+E9B8E18F	Solluxine	Digivolution Core
+EAB8E18F	Tormentilupine	Digivolution Core
+ECB8E18F	Amorostice	Digivolution Core
+EDB8E18F	Pugnilignice	Digivolution Core
+EEB8E18F	Mortiperditice	Digivolution Core
+EFB8E18F	Felimagice	Digivolution Core
+F008E49A	Luparcanite	Digivolution Core
+F108E49A	Holurufite	Digivolution Core
+F208E49A	Grandimagite	Digivolution Core
+F308E49A	Crystallumagite	Digivolution Core
+F408E49A	Rubemilitite	Digivolution Core
+F508E49A	Aurimilitite	Digivolution Core
+F608E49A	Aliquaestite	Digivolution Core
+F708E49A	Indicungulite	Digivolution Core
+FC08E49A	Perdepupite	Digivolution Core
+FD08E49A	Ossoculite	Digivolution Core
+D1DFD481	Digital Ion Water	Drink
+D2DFD481	Neon Drink	Drink
+D3DFD481	File Soda	Drink
+D4DFD481	Infini-Water	Drink
+D5DFD481	Hot Water	Drink
+D6DFD481	Absolute Zero Water	Drink
+D7DFD481	Triangular Milk	Drink
+D8DFD481	Deep Sea Essence	Drink
+D9DFD481	Phantom Nectar	Drink
+40E1D482	Digifry	Fish
+44E1D482	Digibitterling	Fish
+45E1D482	Digicarp	Fish
+46E1D482	Digikoi	Fish
+47E1D482	Digicrucian	Fish
+4AE1D482	Digitrout	Fish
+4BE1D482	Digisalmon	Fish
+D8F5D48F	Digieel	Fish
+D9F5D48F	Digicatfish	Fish
+DAF5D48F	Black Digitrout	Fish
+DBF5D48F	Digiloach	Fish
+DCF5D48F	Digisnakehead	Fish
+DDF5D48F	Digituna	Fish
+DEF5D48F	Digiarowana	Fish
+DFF5D48F	Digipirarucu	Fish
+1CE6D485	Cloudy Orange	Fruit
+1DE6D485	Confusion Cherry	Fruit
+D0EAD488	Golden Acorn	Fruit
+D1EAD488	Conductor Lemon	Fruit
+D2EAD488	Celestial Chestnut	Fruit
+D3EAD488	Baby Strawberry	Fruit
+D6EAD488	Cheerful Apple	Fruit
+DCEAD488	Rotting Melon	Fruit
+DDEAD488	Orange Banana	Fruit
+60E9D487	Hunk of Meat	Meat
+61E9D487	Best Meat	Meat
+63E9D487	Meat	Meat
+64E9D487	Marbled Beef	Meat
+65E9D487	Cube Meat	Meat
+66E9D487	Well Done Meat	Meat
+67E9D487	Rotten Meat	Meat
+6AE9D487	Steel Meat	Meat
+6BE9D487	Colorful Meat	Meat
+3FE3D483	Salty Fruit	Nut
+A8E4D484	Acrid Fruit	Nut
+A9E4D484	Quick Fruit	Nut
+AAE4D484	Duty Fruit	Nut
+ABE4D484	Rolly Fruit	Nut
+ACE4D484	Az Nut	Nut
+ADE4D484	Dozy Fruit	Nut
+AEE4D484	Oily Fruit	Nut
+AFE4D484	Cobb Fruit	Nut
+27CE8E86	Super Double Holo-Disc	Recovery
+28CE8E86	Super Double Disc	Recovery
+29CE8E86	Large Double Disc	Recovery
+2ACE8E86	Double Disc	Recovery
+2DCE8E86	Large MP Holo-Disc	Recovery
+2ECE8E86	Large MP Disc	Recovery
+2FCE8E86	Medium MP Disc	Recovery
+418C4ED7	Super Regen Disc	Recovery
+B5CC8E85	MP Disc	Recovery
+B8CC8E85	Super Recovery Disc	Recovery
+B9CC8E85	Large Recovery Holo-Disc	Recovery
+BACC8E85	Super Recovery Holo-Disc	Recovery
+BDCC8E85	Recovery Disc	Recovery
+BECC8E85	Medium Recovery Disc	Recovery
+BFCC8E85	Large Recovery Disc	Recovery
+E68A4ED6	Full Recovery Holo-Disc	Recovery
+E78A4ED6	Regen Disc	Recovery
+E88A4ED6	Full Recovery Disc	Recovery
+E98A4ED6	Recovery Holo-Disc	Recovery
+EB8A4ED6	Remedy Disc	Recovery
+14E6D485	Drizzle Cabbage	Vegetable
+15E6D485	Soft Gold Pumpkin	Vegetable
+19E6D485	Ginseng	Vegetable
+1AE6D485	Sakura Bird Radish	Vegetable
+1BE6D485	Obscure Onion	Vegetable
+8CE7D486	Mandrake	Vegetable
+8DE7D486	Kamon Aubergine	Vegetable
+8EE7D486	Jaguar Potato	Vegetable
+8FE7D486	Spotted Tomato	Vegetable
+32E3D483	Coriander	Wild Mushroom
+33E3D483	Scratchy Grass	Wild Mushroom
+34E3D483	Fighty Fungus	Wild Mushroom
+35E3D483	Celebration Nameko	Wild Mushroom
+36E3D483	Unlucky Shroom	Wild Mushroom
+37E3D483	Deluxe Mushroom	Wild Mushroom
+86E7D486	Frostcut Mushroom	Wild Mushroom
+87E7D486	Green Digistalk	Wild Mushroom
+88E7D486	Digistalk	Wild Mushroom
+FCFD69FF	Strong Branch	Quest
+F0FD69FF	MegaSea Fishy Picture	Quest
+96056A04	Supermassive Machine Parts A	Quest
+95056A04	Supermassive Machine Parts B 	Quest
+94056A04	Supermassive Machine Parts C	Quest
+93056A04	Supermassive Machine Parts D 	Quest
+92056A04	Supermassive Machine Parts E 	Quest
+91056A04	Supermassive Machine Parts F 	Quest
+90056A04	Supermassive Machine Parts G 	Quest
+9F056A04	Supermassive Machine Parts H	Quest
+9E056A04	Supermassive Machine Parts I 	Quest
+66F469F9	Supermassive Machine Parts J	Quest
+67F469F9	Ultramassive Dark Matter A 	Quest
+64F469F9	Ultramassive Dark Matter B	Quest
+65F469F9	Ultramassive Dark Matter C	Quest
+62F469F9	Ultramassive Dark Matter D	Quest
+63F469F9	Ultramassive Dark Matter E	Quest
+60F469F9	Ultramassive Dark Matter F	Quest
+61F469F9	Ultramassive Dark Matter G	Quest
+6EF469F9	Ultramassive Dark Matter H	Quest
+6FF469F9	Ultramassive Dark Matter I	Quest
+D9F569FA	Ultramassive Dark Matter J	Quest
+D8F569FA	Ultramassive Dark Matter K	Quest
+DBF569FA	Ultramassive Dark Matter L	Quest
+DAF569FA	Ultramassive Dark Matter M	Quest
+DDF569FA	Ultramassive Dark Matter N	Quest
+DCF569FA	Ultramassive Dark Matter O	Quest
+DFF569FA	Ultramassive Dark Matter P	Quest
+DEF569FA	Ultramassive Dark Matter Q	Quest
+D1F569FA	Ultramassive Dark Matter R	Quest
+D0F569FA	Ultramassive Dark Matter S	Quest
+C7486C07	Ultramassive Dark Matter T	Quest
+22046A03	Red Gift Box	Quest
+23046A03	Green Gift Box	Quest
+2D046A03	Blue Gift Box	Quest
+2C046A03	Dianamon's Letter	Quest
+97056A04	Thorny Ivy 	Quest
+F4086A06	Shopping List 1	Quest
+24046A03	Shopping List 2	Quest
+25046A03	Shopping List 3	Quest
+F1FD69FF	Magma Lozenges	Quest
+FDFD69FF	Cyber Grease	Quest
+6FFF6900	SkullGrey Ring	Quest
+6BFF6900	ToyAgu Block	Quest
+6CFF6900	Stingmon's Letter	Quest
+6EFF6900	Platinum Poop Medal	Quest
+6DFF6900	Magnamon's Autograph	Quest
+6AFF6900	Virtual Mem. Foam Pillow	Quest
+69FF6900	Digi-Battery	Quest
+68FF6900	Holy Chalice	Quest
+62FF6900	DigiPate	Quest
+63FF6900	Myobrella	Quest
+0B076A05	Haguru Gear	Quest
+0A076A05	Royal Digijelly	Quest
+0C076A05	BomberNanimon Left Arm	Quest
+0D076A05	BomberNanimon Right Leg	Quest
+0E076A05	BomberNanimon Body 	Quest
+0F076A05	BomberNanimon Right Arm	Quest
+02076A05	BomberNanimon Left Leg	Quest
+08076A05	Rapidmon's Cellphone	Quest
+03076A05	Red Pirate Flag	Quest
+FD086A06	Red Pirate Glove	Quest
+FC086A06	Red Pirate Bandanna	Quest
+FF086A06	Dark Pirate Flag	Pirate
+F9086A06	Dark Pirate Robe	Pirate
+FE086A06	Dark Pirate Box	Pirate
+F8086A06	Blue Pirate Flag	Pirate
+FB086A06	Blue Pirate Shirt	Pirate
+FA086A06	Blue Pirate Bottle	Pirate
+F5086A06	Gold Pirate Mug	Pirate
+26046A03	Pretty Stone	Quest
+27046A03	Old Telescope	Quest
+20046A03	Heart Ring	Quest
+21046A03	Bent Spoon	Quest
+[/Item]

@@ -1,0 +1,165 @@
+^2 = GameID: BLES01504
+^3 = NAME: Silent Hill: HD Collection
+^5 = APCRED: From Game Genie For PS3
+!Silent Hill 2:
+^4 = FILE: BLUS30810_SH2*\SAVEDATA.DAT
++Max Ampoules(main Scenario Only.)
+$10000566 000003E7
+$70000557 00000008
++Max First Aid Kits
+$10000564 000003E7
+$70000557 00000004
++Max Health Drinks
+$10000562 000003E7
+$70000557 00000002
+!Silent Hill 2\have Weapons & Ammo:
++Chainsaw(main Scenario Only.)
+$70000555 00000001
++Hyper Spray(main Scenario Only.)
+$70000556 00000010
++Handgun Fully Loaded(main Scenario Only.)
+$10000568 0000000A
+$70000557 00000010
++Max Handgun Bullets(main Scenario Only.)
+$1000056A 000003E7
+$70000557 00000020
++Hunting Rifle Fully Loaded(main Scenario Only.)
+$10000570 00000004
+$70000556 00000001
++Max Hunting Rifle Shells(main Scenario Only.)
+$10000572 000003E7
+$70000556 00000002
++Revolver Fully Loaded(sub Scenario Only.)
+$10000574 0000000A
+$70000556 00000004
++Max Revolver Bullets(sub Scenario Only.)
+$10000576 000003E7
+$70000556 00000008
++Shotgun Fully Loaded(main Scenario Only.)
+$1000056C 00000006
+$70000557 00000040
++Max Shotgun Shells(main Scenario Only.)
+$1000056E 000003E7
+$70000557 00000080
+!!
+!Silent Hill 2\items:
++Have All Key Items,all Guns,all Ammos + All Meds + All Melee Weapons(you Can Just Use The Key Item Unlock Most Doors.)
+%Credits: codebreaker/chaoszage
+$20000554 FFFDF3FE
+$20000558 FFFFFFFF
+$2000055C 00007FFF
+$10000562 000003E7
+$20000564 03E703E7
+$20000568 000A03E7
+$2000056C 000603E7
+$10000570 03E703E7
+$10000574 03E703E7
+!!
+!Silent Hill 2\ranking Stats Codes:
++Saved 255(you Can Mod Any Number You Want For Particular Ending)
+%Credits: kuei1090
+$0000002B 000000FF
++Items Picked Up 255
+$0000002F 000000FF
++Shooting Killed Stat 255
+$00000031 000000FF
++Melee Killed Stat 255
+$00000033 000000FF
++Reset Playtime To 0
+$20000034 00000000
++Reset Boat Stage Time 0(will Not Unlock Boat Time Trophy)
+$20000040 00000000
++Reset Damaged 0
+$20000048 00000000
++Reset Walking Distance
+$20000038 00000000
++Reset Running Distance
+$2000003C 00000000
+!!
+!Silent Hill 2\action Difficulty Modifier(choose One):
++Beginner
+$00000094 00000000
++Easy
+$00000094 00000001
++Normal
+$00000094 00000002
++Hard
+$00000094 00000003
+!!
+!Silent Hill 2\riddle Difficulty Modifier(choose One):
++Easy
+$00000095 00000001
++Normal
+$00000095 00000002
++Extra
+$00000095 00000003
+!!
+!Silent Hill 2\untested:
++Have All 5 Endings
+%Credits: kuei1090/bungholio/chaoszage
+$00000024 000000FF
++Have Extra +7 Items
+$00000028 000000FF
+!!
+!Silent Hill 3:
+^4 = FILE: BLUS30810_SH3*\SAVEDATA.DAT
++Decrypt Savedata.dat (required)
+$set pointer:read(0xC, 4)
+$set range:0x000040,pointer+0x3F
+$DECRYPT silent_hill3
++Max Ampoules
+$10001516 000003E7
+$700014E1 00000010
++Max First Aid Kits
+$10001514 000003E7
+$700014E1 00000008
++Max Health Drinks
+$10001512 000003E7
+$700014E1 00000004
+!!
+^4 = FILE: SAVEDATA.DAT
+!Silent Hill 3\have Weapons & Ammo:
++Beam Saber
+$700014E3 00000020
++Flamethrower
+$700014E3 00000040
++Unlimited Submachine Gun
+$10001508 00000001
+$700014E2 00000020
++Handgun Fully Loaded
+$10001502 0000000A
+$700014E2 00000004
++Max Handgun Bullets
+$1000150C 000003E7
+$700014E2 00000080
++Shotgun Fully Loaded
+$10001504 00000006
+$700014E2 00000008
++Max Shotgun Shells
+$1000150E 000003E7
+$700014E1 00000001
++Stun Gun Fully Loaded
+$10001500 00000004
+$700014E2 00000002
++Max Stun Gun Batteries
+$1000150A 000003E7
+$700014E2 00000040
++Submachine Gun Fully Loaded
+$10001506 00000020
+$700014E2 00000010
++Max Submachine Gun Bullets
+$10001510 000003E7
+$700014E1 00000002
+!!
+!Silent Hill 3 Checksum:
++Update Dwadd For Savedata.dat (required)
+$write at 0x000010:00000000
+$set pointer:read(0xC, 4)
+$set [csum]:dwadd(0x000000,pointer+0x3F)
+$set [csum]:[csum]+[csum]+0x1
+$write at 0x000010:[csum]
++Encrypt Savedata.dat (required)
+$set pointer:read(0xC, 4)
+$set range:0x000040,pointer+0x3F
+$ENCRYPT silent_hill3
+!!

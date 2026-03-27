@@ -1,0 +1,37 @@
+^3 = NAME: 4X4 Evolution (NTSC-U)
+^2 = GameID: SLUS-20091
+!Master Codes:
++Enabler Code (Must Be On)
+%Credits: Codejunkies
+$F02329D8 002329DB
++Enabler Code (Must Be On)
+%Credits: InterAct
+$F02329D8 000001FD
++Enabler Code (Must Be On)
+%Credits: Code Master
+$F0200008 00335E0F
+!!
++Always Low Timer
+%Credits: Code Master
+$203A6F7C 41200000
++Always Slow Motion Mode
+%Credits: Code Master
+$203A5E68 3F400000
++Always Turbo Mode
+%Credits: Code Master
+$203A5E68 3FE00000
+!Cash Codes:
++Infinite Cash
+%Credits: Codejunkies
+$208B235C FFFFFFFF
+!!
++Have All Trucks
+%Credits: Code Master
+$208B2670 FFFFFFFF
++Moon Gravity
+%Credits: Code Master
+$203A5E6C 3F800000
++Super Gravity
+%Credits: Code Master
+$203A5E6C 44000000
+

@@ -1,0 +1,10 @@
+^2 = GameID: NPEB01426
+^3 = NAME: Shake Spears
+(from shaka)
+^4 = FILE: SAVE0
++Max Money
+$write at 0x51:0x3B9AC9FF
++Max Crystal
+$write at 0x49:0x3B9AC9FF
++Level 99 By Chaoszage
+$write at 0x44:0x63

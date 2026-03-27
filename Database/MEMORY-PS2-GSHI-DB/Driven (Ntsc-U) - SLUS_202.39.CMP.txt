@@ -1,0 +1,73 @@
+^3 = NAME: Driven (Ntsc-U)
+^2 = GameID: SLUS-20239
+!Master Codes:
++(M)Must Be On
+%Credits: InterAct
+$F01BDEC8 001C8067
++Enable Code (Must Be On)
+%Credits: Code Master
+$F01BDDE8 001C8067
+!!
++1 Lap Races
+%Credits: InterAct
+$1031E40C 00000001
++Always In The Zone
+%Credits: InterAct
+$2031E2D4 000000C8
++Always Low Time
+%Credits: InterAct
+$2031E614 00000000
+$2031E640 00000000
+$2032B664 00000000
+$2031E66C 00000000
+$2032B454 00000000
+$2032BA84 00000000
++Always Low Time
+%Credits: Code Master
+$4031E614 00030001
+$00000000 00000000
+$4032B454 00040084
+$00000000 00000000
++Have All Levels (Story Mode)
+%Credits: Code Master
+$103CBD3C 0000FFFF
++Have All Racers
+%Credits: Code Master
+$103CBE0C 0000FFFF
++Have Arcade Modes
+%Credits: Code Master
+$003CBD70 000000FF
++Infinite Lives
+%Credits: InterAct
+$1031E274 00000063
++No Competition
+%Credits: InterAct
+$103CBB9C 00000000
++Number Of CPU Cars Modifier (00-0B)
+%Credits: Code Master
+$103CBB9C 000000??
++Press L1+L2 To Be On Lap 8
+%Credits: Code Master
+$E002FAFF 003169C2
+$2031E410 00000007
+$2031E440 00000007
++Press L2 To Be On Lap 6
+%Credits: InterAct
+$E004FEFF 003169C2
+$2031E410 00000005
+$2031E440 00000005
++Press R1+R2 To Be On Lap 4
+%Credits: Code Master
+$E002F5FF 003169C2
+$2031E410 00000003
+$2031E440 00000003
++Press R2 To Be On Lap 3
+%Credits: InterAct
+$E004FDFF 003169C2
+$2031E410 00000002
+$2031E440 00000002
++Total Laps Modifier
+%Credits: Code Master
+$1031E40C 000000??
+!!
+

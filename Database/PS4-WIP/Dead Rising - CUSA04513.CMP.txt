@@ -1,0 +1,18 @@
+^2 = GameID: CUSA04513,CUSA04671,CUSA04825
+^3 = NAME: Dead Rising
+^5 = APCRED: source: discord
+(Credits: Molly "LLLCCC")
+(Automated & simplified file by @officialahmed0)
+(checksum by bucanero)
+^4 = FILE: deadrising
+(Untested - Make sure to backup your save data first)
++Unlock All Modes & Unlock All Unlockables
+$A00000A0 00000020
+$FF7D7DF3 FDF90300
+$FF7D7DF3 FDF90300
+$CA092600 00000000
+$604F8200 78022600
++Update Custom Checksum (required)
+$set pointer:eof+1
+$set range:0x0000,pointer
+$set [csum]:deadrising_checksum

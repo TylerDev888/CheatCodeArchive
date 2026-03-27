@@ -1,0 +1,247 @@
+^3 = NAME: Mercenaries (Pal-Unk)
+^2 = GameID: SLES-52590
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01BACA8 001BACAB
+!!
++All Moods Always Visible
+%Credits: Codejunkies
+$20556A84 00000001
+$20556B44 00000001
+$20556AE4 00000001
+$20556BA4 00000001
+$20556A24 00000001
+!Animation Speed Modifier:
++Hyper Mode (Press Select+Left)
+%Credits: Codejunkies
+$D1FFA78C 00001800
+$204A5540 00000060
++Normal Speed (Press Select+Down)
+%Credits: Codejunkies
+$D1FFA78C 00001400
+$204A5540 0000003C
++Quicker Game (Press Select+Up)
+%Credits: Codejunkies
+$D1FFA78C 00001100
+$204A5540 00000044
++Slow Motion (Press Select+Right)
+%Credits: Codejunkies
+$D1FFA78C 00001200
+$204A5540 00000010
+!!
+!Bullet Fired Codes:
++Max Bullets Fired
+%Credits: Codejunkies
+$205A7B0C 05F5E0FF
++No Bullets Fired
+%Credits: Codejunkies
+$205A7B0C 00000000
+!!
+!Civilians:
++Max Civilians Killed
+%Credits: Codejunkies
+$205A7A68 4CBEBC20
++No Civilians Killed
+%Credits: Codejunkies
+$205A7A68 00000000
+!!
+!Critical Hit Codes:
++Max Critical Hits
+%Credits: Codejunkies
+$205A7B10 05F5E0FF
++No Critical Hits
+%Credits: Codejunkies
+$205A7B10 00000000
+!!
+!Death Codes:
++Max Deaths
+%Credits: Codejunkies
+$205A7B00 05F5E0FF
++No Deaths
+%Credits: Codejunkies
+$205A7B00 00000000
+!!
++Disable Aggressive AI (Set Hostile Range To Null Value)
+%Credits: Codejunkies
+$2017129C 44803000
++Disable Car Damage
+%Credits: Codejunkies
+$2013915C 00000000
+!Distance On Foot Codes:
++Max Distance Traveled On Foot
+%Credits: Codejunkies
+$205A6B64 7F000000
++No Distance Traveled On Foot
+%Credits: Codejunkies
+$205A6B64 00000000
+!!
+!Distance Traveled With M1025:
++Always 1St Save
+%Credits: Codejunkies
+$205A7B08 00000000
++Max Distance Traveled With M1025
+%Credits: Codejunkies
+$205A6D10 7F000000
++No Distance Traveled With M1025
+%Credits: Codejunkies
+$205A6D10 00000000
+!!
++Freeze Mission Timer
+%Credits: Codejunkies
+$202A0B94 AC40002C
++Infinite Ammo (Press Select Up To Activate Select Down To Stop)
+%Credits: Codejunkies
+$D1FFA78C 00001100
+$20124E5C AEA40230
+$D1FFA78C 00004100
+$20124E5C AEA20230
++Infinite Health (Main Character)
+%Credits: Codejunkies
+$E0030000 105595B4
+$E0020000 105595B6
+$605595B4 000043FA
+$00010001 0000004B
++Invincible
+%Credits: Codejunkies
+$E0030000 105595B4
+$E0020000 105595B6
+$605595B4 000000DF
+$00000001 00000110
+!Jaju:
++Max Jaju Destroyed
+%Credits: Codejunkies
+$205A722C 4CBEBC20
++No Jaju Destroyed
+%Credits: Codejunkies
+$205A722C 00000000
+!!
+!Jump Codes:
++Even Lower Gravity
+%Credits: Codejunkies
+$200FFF00 3C013E80
+$200FFF04 4481A000
+$200FFF08 0809432C
+$20250C90 0803FFC0
++Low Gravity
+%Credits: Codejunkies
+$200FFF00 3C013F80
+$200FFF04 4481A000
+$200FFF08 0809432C
+$20250C90 0803FFC0
++Lower Gravity
+%Credits: Codejunkies
+$200FFF00 3C013F00
+$200FFF04 4481A000
+$200FFF08 0809432C
+$20250C90 0803FFC0
++Very Very Low Gravity
+%Credits: Codejunkies
+$200FFF00 3C013E00
+$200FFF04 4481A000
+$200FFF08 0809432C
+$20250C90 0803FFC0
+!!
++Max Cash
+%Credits: Codejunkies
+$20168970 3C014CBE
+$20168978 AE010B60
+!Medivac Codes:
++Max Medivacs Called
+%Credits: Codejunkies
+$205A7B04 05F5E0FF
++No Medivacs Called
+%Credits: Codejunkies
+$205A7B04 00000000
+!!
+!North Koreans:
++Max North Koreans Killed
+%Credits: Codejunkies
+$205A7A70 4CBEBC20
++No North Koreans Killed
+%Credits: Codejunkies
+$205A7A70 00000000
+!!
+!Press L1+R1+L2+R2 To Activate:
++Fast Sprint
+%Credits: Codejunkies
+$E004000F 01FFA78C
+$E0030000 105595B4
+$E0020000 105595B6
+$605595B4 00004180
+$00010001 00000165
++Ultra Fast Sprint
+%Credits: Codejunkies
+$E004000F 01FFA78C
+$E0030000 105595B4
+$E0020000 105595B6
+$605595B4 00004280
+$00010001 00000165
++Very Fast Sprint
+%Credits: Codejunkies
+$E004000F 01FFA78C
+$E0030000 105595B4
+$E0020000 105595B6
+$605595B4 00004200
+$00010001 00000165
+!!
+!Retries Codes:
++Max Retires
+%Credits: Codejunkies
+$205A7AFC 05F5E0FF
++No Retries
+%Credits: Codejunkies
+$205A7AFC 00000000
+!!
+!Special Bonus Codes:
++Max Special Bonus
+%Credits: Codejunkies
+$205A7B18 05F5E0FF
+!!
+!Start A New Game With...:
++American Hero
+%Credits: Codejunkies
+$20553298 B5D9D774
++Brit Hero
+%Credits: Codejunkies
+$20553298 707E723D
++Han Solo
+%Credits: Codejunkies
+$20553298 E8E4793E
++Indiana Jones
+%Credits: Codejunkies
+$20553298 D46EB4C7
++Sweden Hero
+%Credits: Codejunkies
+$20553298 C3C67997
+!!
+!Total Time Codes:
++Low Total Play Time
+%Credits: Codejunkies
+$205A7B1C 00000000
+!!
+!Transport Trucks Destroyed Codes:
++Max Transport Trucks Destroyed
+%Credits: Codejunkies
+$205A7324 00000000
+!!
+!Zoom Codes:
++Press R3+Down For Normal Zoom
+%Credits: Codejunkies
+$D1FFA78C 00004400
+$2021C84C 3C013F80
++Press R3+Up For X16 Zoom
+%Credits: Codejunkies
+$D1FFA78C 00001400
+$2021C84C 3C014180
++Press R3+Up For X32 Zoom
+%Credits: Codejunkies
+$D1FFA78C 00001400
+$2021C84C 3C014200
++Press R3+Up For X64 Zoom
+%Credits: Codejunkies
+$D1FFA78C 00001400
+$2021C84C 3C014280
+!!
+!!
+

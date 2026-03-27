@@ -1,0 +1,17 @@
+^2 = GameID: BLES00945,BLUS30700
+^3 = NAME: Naughty Bear
+^5 = APCRED: Fron aldotools
+^4 = FILE: SCORES.DAT
++Update Crc32 For Scores.dat (required)
+(set range:0x00000C,0x0001C7)
+$set pointer:eof+1
+$set range:0x00000C,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+^4 = FILE: OPTIONS.DAT
++Update Crc32 For Options.dat (required)
+(set range:0x00000C,0x00001F)
+$set pointer:eof+1
+$set range:0x00000C,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]

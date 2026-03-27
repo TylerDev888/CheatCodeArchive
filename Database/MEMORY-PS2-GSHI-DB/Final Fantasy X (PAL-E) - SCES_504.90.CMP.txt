@@ -1,0 +1,5961 @@
+^3 = NAME: Final Fantasy X (PAL-E)
+^2 = GameID: SCES-50490
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01ACFF0 002DE287
++(M) Must Be On
+%Credits: Codejunkies
+$F02DE284 002DE287
+$200FFE84 8C420294
+$200FFE80 0806EC89
+$201BB220 0803FF80
+$200FFF50 3C020030
+$D00FFF54 00000000
+$200FFF54 10000005
+$200FFF5C 8C4306A0
+$200FFF68 AC4306A0
+$200FFF70 24030070
+$200FFF74 080B788C
+$202DE22C 0803FFD4
+$D078AE82 0000FFFF
+$200FFF54 10000005
++(M) Must Be On
+%Credits: Codejunkies
+$901000A4 0C046E76
+$902DE284 0C0BBBC7
+$200FFE84 8C420294
+$200FFE80 0806EC89
+$201BB220 0803FF80
+!!
+!1st Ability Is...:
++Alchemy
+%Credits: Codejunkies
+$1031D97A 00008007
++Auto Potion
+%Credits: Codejunkies
+$1031D97A 00008008
++Auto-Haste
+%Credits: Codejunkies
+$1031D97A 00008056
++Auto-Haste
+%Credits: Codejunkies
+$1031D97A 00008058
++Auto-Med
+%Credits: Codejunkies
+$1031D97A 00008009
++Auto-Phoenix
+%Credits: Codejunkies
+$1031D97A 0000800A
++Auto-Protect
+%Credits: Codejunkies
+$1031D97A 00008055
++Auto-Regen
+%Credits: Codejunkies
+$1031D97A 00008057
++Auto-Shell
+%Credits: Codejunkies
+$1031D97A 00008054
++Bersekproof
+%Credits: Codejunkies
+$1031D97A 00008050
++Berserkward
+%Credits: Codejunkies
+$1031D97A 00008051
++Break Damage Limit
+%Credits: Codejunkies
+$1031D97A 00008019
++Break HP Limit
+%Credits: Codejunkies
+$1031D97A 00008017
++Break MP Limit
+%Credits: Codejunkies
+$1031D97A 00008018
++Capture
+%Credits: Codejunkies
+$1031D97A 0000807A
++Confuse Ward
+%Credits: Codejunkies
+$1031D97A 0000804F
++Confuseproof
+%Credits: Codejunkies
+$1031D97A 0000804E
++Counter Attack
+%Credits: Codejunkies
+$1031D97A 00008003
++Curseproof
+%Credits: Codejunkies
+$1031D97A 00008052
++Curseward
+%Credits: Codejunkies
+$1031D97A 00008053
++Darkproof
+%Credits: Codejunkies
+$1031D97A 00008048
++Darkstrike
+%Credits: Codejunkies
+$1031D97A 00008046
++Darktouch
+%Credits: Codejunkies
+$1031D97A 00008047
++Darkward
+%Credits: Codejunkies
+$1031D97A 00008049
++Deathproof
+%Credits: Codejunkies
+$1031D97A 00008030
++Deathstrike
+%Credits: Codejunkies
+$1031D97A 0000802E
++Deathtouch
+%Credits: Codejunkies
+$1031D97A 0000802F
++Deathward
+%Credits: Codejunkies
+$1031D97A 00008031
++Def+3
+%Credits: Codejunkies
+$1031D97A 0000806A
++Def+5
+%Credits: Codejunkies
+$1031D97A 0000806B
++Def+10
+%Credits: Codejunkies
+$1031D97A 0000806C
++Def+20
+%Credits: Codejunkies
+$1031D97A 0000806D
++Distil Ability
+%Credits: Codejunkies
+$1031D97A 0000807F
++Distil Mana
+%Credits: Codejunkies
+$1031D97A 0000807D
++Distil Power
+%Credits: Codejunkies
+$1031D97A 0000807C
++Distil Speed
+%Credits: Codejunkies
+$1031D97A 0000807E
++Double AP
+%Credits: Codejunkies
+$1031D97A 00008012
++Double Overdrive
+%Credits: Codejunkies
+$1031D97A 0000800E
++Evade And Counter
+%Credits: Codejunkies
+$1031D97A 00008004
++Fireeater
+%Credits: Codejunkies
+$1031D97A 00008021
++Fireproof
+%Credits: Codejunkies
+$1031D97A 00008020
++Firestrike
+%Credits: Codejunkies
+$1031D97A 0000801E
++Fireward
+%Credits: Codejunkies
+$1031D97A 0000801F
++First Strike
+%Credits: Codejunkies
+$1031D97A 00008001
++Gillionaire
+%Credits: Codejunkies
+$1031D97A 0000801A
++Half MP Cost
+%Credits: Codejunkies
+$1031D97A 0000800C
++Have Sensor
+%Credits: Codejunkies
+$1031D97A 00008000
++HP Stroll
+%Credits: Codejunkies
+$1031D97A 0000801B
++HP+5
+%Credits: Codejunkies
+$1031D97A 00008072
++HP+10
+%Credits: Codejunkies
+$1031D97A 00008073
++HP+20
+%Credits: Codejunkies
+$1031D97A 00008074
++HP+30
+%Credits: Codejunkies
+$1031D97A 00008075
++Iceeater
+%Credits: Codejunkies
+$1031D97A 00008025
++Iceproof
+%Credits: Codejunkies
+$1031D97A 00008024
++Icestrike
+%Credits: Codejunkies
+$1031D97A 00008022
++Iceward
+%Credits: Codejunkies
+$1031D97A 00008023
++Initiative
+%Credits: Codejunkies
+$1031D97A 00008002
++Lighteater
+%Credits: Codejunkies
+$1031D97A 00008029
++Lightproof
+%Credits: Codejunkies
+$1031D97A 00008028
++Lightstrike
+%Credits: Codejunkies
+$1031D97A 00008026
++Lightward
+%Credits: Codejunkies
+$1031D97A 00008027
++Mag Def+3
+%Credits: Codejunkies
+$1031D97A 0000806E
++Mag Def+5
+%Credits: Codejunkies
+$1031D97A 0000806F
++Mag Def+10
+%Credits: Codejunkies
+$1031D97A 00008070
++Mag Def+20
+%Credits: Codejunkies
+$1031D97A 00008071
++Magic Booster
+%Credits: Codejunkies
+$1031D97A 00008006
++Magic Counter
+%Credits: Codejunkies
+$1031D97A 00008005
++Magic+3
+%Credits: Codejunkies
+$1031D97A 00008066
++Magic+5
+%Credits: Codejunkies
+$1031D97A 00008067
++Magic+10
+%Credits: Codejunkies
+$1031D97A 00008068
++Magic+20
+%Credits: Codejunkies
+$1031D97A 00008069
++Master Thief
+%Credits: Codejunkies
+$1031D97A 00008016
++MP Stroll
+%Credits: Codejunkies
+$1031D97A 0000801C
++MP+5
+%Credits: Codejunkies
+$1031D97A 00008076
++MP+10
+%Credits: Codejunkies
+$1031D97A 00008077
++MP+20
+%Credits: Codejunkies
+$1031D97A 00008078
++MP+30
+%Credits: Codejunkies
+$1031D97A 00008079
++No AP
+%Credits: Codejunkies
+$1031D97A 00008014
++No Encounters
+%Credits: Codejunkies
+$1031D97A 0000801D
++One MP Cost
+%Credits: Codejunkies
+$1031D97A 0000800D
++Overdrive AP
+%Credits: Codejunkies
+$1031D97A 00008011
++Pickpocket
+%Credits: Codejunkies
+$1031D97A 00008015
++Piercing
+%Credits: Codejunkies
+$1031D97A 0000800B
++Poisonproof
+%Credits: Codejunkies
+$1031D97A 0000803C
++Poisonstrike
+%Credits: Codejunkies
+$1031D97A 0000803A
++Poisontouch
+%Credits: Codejunkies
+$1031D97A 0000803B
++Poisonward
+%Credits: Codejunkies
+$1031D97A 0000803D
++Ribbon
+%Credits: Codejunkies
+$1031D97A 00008080
++Silenceproof
+%Credits: Codejunkies
+$1031D97A 00008044
++Silencestrike
+%Credits: Codejunkies
+$1031D97A 00008042
++Silencetouch
+%Credits: Codejunkies
+$1031D97A 00008043
++Silenceward
+%Credits: Codejunkies
+$1031D97A 00008045
++Sleepproof
+%Credits: Codejunkies
+$1031D97A 00008040
++Sleepstrike
+%Credits: Codejunkies
+$1031D97A 0000803E
++Sleeptouch
+%Credits: Codejunkies
+$1031D97A 0000803F
++Sleepward
+%Credits: Codejunkies
+$1031D97A 00008041
++Slow Ward
+%Credits: Codejunkies
+$1031D97A 0000804D
++Slowproof
+%Credits: Codejunkies
+$1031D97A 0000804C
++Slowstrike
+%Credits: Codejunkies
+$1031D97A 0000804A
++Slowtouch
+%Credits: Codejunkies
+$1031D97A 0000804B
++SOS Haste
+%Credits: Codejunkies
+$1031D97A 0000805B
++SOS Nullblaze
+%Credits: Codejunkies
+$1031D97A 00008061
++SOS Nullfrost
+%Credits: Codejunkies
+$1031D97A 0000805F
++SOS Nullshock
+%Credits: Codejunkies
+$1031D97A 00008060
++SOS Nulltide
+%Credits: Codejunkies
+$1031D97A 0000805E
++SOS Overdrive
+%Credits: Codejunkies
+$1031D97A 00008010
++SOS Protect
+%Credits: Codejunkies
+$1031D97A 0000805A
++SOS Reflect
+%Credits: Codejunkies
+$1031D97A 0000805D
++SOS Regen
+%Credits: Codejunkies
+$1031D97A 0000805C
++SOS Shell
+%Credits: Codejunkies
+$1031D97A 00008059
++Stoneproof
+%Credits: Codejunkies
+$1031D97A 00008038
++Stonestrike
+%Credits: Codejunkies
+$1031D97A 00008036
++Stonetouch
+%Credits: Codejunkies
+$1031D97A 00008037
++Stoneward
+%Credits: Codejunkies
+$1031D97A 00008039
++Strength+3
+%Credits: Codejunkies
+$1031D97A 00008062
++Strength+5
+%Credits: Codejunkies
+$1031D97A 00008063
++Strength+10
+%Credits: Codejunkies
+$1031D97A 00008064
++Strength+20
+%Credits: Codejunkies
+$1031D97A 00008065
++Triple AP
+%Credits: Codejunkies
+$1031D97A 00008013
++Triple Overdrive
+%Credits: Codejunkies
+$1031D97A 0000800F
++Watereater
+%Credits: Codejunkies
+$1031D97A 0000802D
++Waterproof
+%Credits: Codejunkies
+$1031D97A 0000802C
++Waterstrike
+%Credits: Codejunkies
+$1031D97A 0000802A
++Waterward
+%Credits: Codejunkies
+$1031D97A 0000802B
++Zombieproof
+%Credits: Codejunkies
+$1031D97A 00008034
++Zombiestrike
+%Credits: Codejunkies
+$1031D97A 00008032
++Zombietouch
+%Credits: Codejunkies
+$1031D97A 00008033
++Zombieward
+%Credits: Codejunkies
+$1031D97A 00008035
+!!
+!1st Slot In Inventory:
++The Weapon Has 4 Abilities Slots
+%Credits: Codejunkies
+$0031D977 00000004
+!!
+!2nd Ability Is...:
++Alchemy
+%Credits: Codejunkies
+$1031D97C 00008007
++Auto Potion
+%Credits: Codejunkies
+$1031D97C 00008008
++Auto-Haste
+%Credits: Codejunkies
+$1031D97C 00008056
++Auto-Haste
+%Credits: Codejunkies
+$1031D97C 00008058
++Auto-Med
+%Credits: Codejunkies
+$1031D97C 00008009
++Auto-Phoenix
+%Credits: Codejunkies
+$1031D97C 0000800A
++Auto-Protect
+%Credits: Codejunkies
+$1031D97C 00008055
++Auto-Regen
+%Credits: Codejunkies
+$1031D97C 00008057
++Auto-Shell
+%Credits: Codejunkies
+$1031D97C 00008054
++Bersekproof
+%Credits: Codejunkies
+$1031D97C 00008050
++Berserkward
+%Credits: Codejunkies
+$1031D97C 00008051
++Break Damage Limit
+%Credits: Codejunkies
+$1031D97C 00008019
++Break HP Limit
+%Credits: Codejunkies
+$1031D97C 00008017
++Break MP Limit
+%Credits: Codejunkies
+$1031D97C 00008018
++Capture
+%Credits: Codejunkies
+$1031D97C 0000807A
++Confuseproof
+%Credits: Codejunkies
+$1031D97C 0000804E
++Confuseward
+%Credits: Codejunkies
+$1031D97C 0000804F
++Counter Attack
+%Credits: Codejunkies
+$1031D97C 00008003
++Curseproof
+%Credits: Codejunkies
+$1031D97C 00008052
++Curseward
+%Credits: Codejunkies
+$1031D97C 00008053
++Darkproof
+%Credits: Codejunkies
+$1031D97C 00008048
++Darkstrike
+%Credits: Codejunkies
+$1031D97C 00008046
++Darktouch
+%Credits: Codejunkies
+$1031D97C 00008047
++Darkward
+%Credits: Codejunkies
+$1031D97C 00008049
++Deathproof
+%Credits: Codejunkies
+$1031D97C 00008030
++Deathstrike
+%Credits: Codejunkies
+$1031D97C 0000802E
++Deathtouch
+%Credits: Codejunkies
+$1031D97C 0000802F
++Deathward
+%Credits: Codejunkies
+$1031D97C 00008031
++Def+3
+%Credits: Codejunkies
+$1031D97C 0000806A
++Def+5
+%Credits: Codejunkies
+$1031D97C 0000806B
++Def+10
+%Credits: Codejunkies
+$1031D97C 0000806C
++Def+20
+%Credits: Codejunkies
+$1031D97C 0000806D
++Distil Ability
+%Credits: Codejunkies
+$1031D97C 0000807F
++Distil Mana
+%Credits: Codejunkies
+$1031D97C 0000807D
++Distil Power
+%Credits: Codejunkies
+$1031D97C 0000807C
++Distil Speed
+%Credits: Codejunkies
+$1031D97C 0000807E
++Double AP
+%Credits: Codejunkies
+$1031D97C 00008012
++Double Overdrive
+%Credits: Codejunkies
+$1031D97C 0000800E
++Evade And Counter
+%Credits: Codejunkies
+$1031D97C 00008004
++Fire Eater
+%Credits: Codejunkies
+$1031D97C 00008021
++Fireproof
+%Credits: Codejunkies
+$1031D97C 00008020
++Firestrike
+%Credits: Codejunkies
+$1031D97C 0000801E
++Fireward
+%Credits: Codejunkies
+$1031D97C 0000801F
++First Strike
+%Credits: Codejunkies
+$1031D97C 00008001
++Gillionaire
+%Credits: Codejunkies
+$1031D97C 0000801A
++Half MP Cost
+%Credits: Codejunkies
+$1031D97C 0000800C
++Have Sensor
+%Credits: Codejunkies
+$1031D97C 00008000
++HP Stroll
+%Credits: Codejunkies
+$1031D97C 0000801B
++HP+5
+%Credits: Codejunkies
+$1031D97C 00008072
++HP+10
+%Credits: Codejunkies
+$1031D97C 00008073
++HP+20
+%Credits: Codejunkies
+$1031D97C 00008074
++HP+30
+%Credits: Codejunkies
+$1031D97C 00008075
++Iceeater
+%Credits: Codejunkies
+$1031D97C 00008025
++Iceproof
+%Credits: Codejunkies
+$1031D97C 00008024
++Icestrike
+%Credits: Codejunkies
+$1031D97C 00008022
++Iceward
+%Credits: Codejunkies
+$1031D97C 00008023
++Initiative
+%Credits: Codejunkies
+$1031D97C 00008002
++Lighteater
+%Credits: Codejunkies
+$1031D97C 00008029
++Lightproof
+%Credits: Codejunkies
+$1031D97C 00008028
++Lightstrike
+%Credits: Codejunkies
+$1031D97C 00008026
++Lightward
+%Credits: Codejunkies
+$1031D97C 00008027
++Mag Def+3
+%Credits: Codejunkies
+$1031D97C 0000806E
++Mag Def+5
+%Credits: Codejunkies
+$1031D97C 0000806F
++Mag Def+10
+%Credits: Codejunkies
+$1031D97C 00008070
++Mag Def+20
+%Credits: Codejunkies
+$1031D97C 00008071
++Magic Booster
+%Credits: Codejunkies
+$1031D97C 00008006
++Magic Counter
+%Credits: Codejunkies
+$1031D97C 00008005
++Magic+3
+%Credits: Codejunkies
+$1031D97C 00008066
++Magic+5
+%Credits: Codejunkies
+$1031D97C 00008067
++Magic+10
+%Credits: Codejunkies
+$1031D97C 00008068
++Magic+20
+%Credits: Codejunkies
+$1031D97C 00008069
++Master Thief
+%Credits: Codejunkies
+$1031D97C 00008016
++MP Stroll
+%Credits: Codejunkies
+$1031D97C 0000801C
++MP+5
+%Credits: Codejunkies
+$1031D97C 00008076
++MP+10
+%Credits: Codejunkies
+$1031D97C 00008077
++MP+20
+%Credits: Codejunkies
+$1031D97C 00008078
++MP+30
+%Credits: Codejunkies
+$1031D97C 00008079
++No AP
+%Credits: Codejunkies
+$1031D97C 00008014
++No Encounters
+%Credits: Codejunkies
+$1031D97C 0000801D
++One MP Cost
+%Credits: Codejunkies
+$1031D97C 0000800D
++Overdrive AP
+%Credits: Codejunkies
+$1031D97C 00008011
++Pickpocket
+%Credits: Codejunkies
+$1031D97C 00008015
++Piercing
+%Credits: Codejunkies
+$1031D97C 0000800B
++Poisonproof
+%Credits: Codejunkies
+$1031D97C 0000803C
++Poisonstrike
+%Credits: Codejunkies
+$1031D97C 0000803A
++Poisontouch
+%Credits: Codejunkies
+$1031D97C 0000803B
++Poisonward
+%Credits: Codejunkies
+$1031D97C 0000803D
++Ribbon
+%Credits: Codejunkies
+$1031D97C 00008080
++Silenceproof
+%Credits: Codejunkies
+$1031D97C 00008044
++Silencestrike
+%Credits: Codejunkies
+$1031D97C 00008042
++Silencetouch
+%Credits: Codejunkies
+$1031D97C 00008043
++Silenceward
+%Credits: Codejunkies
+$1031D97C 00008045
++Sleepproof
+%Credits: Codejunkies
+$1031D97C 00008040
++Sleepstrike
+%Credits: Codejunkies
+$1031D97C 0000803E
++Sleeptouch
+%Credits: Codejunkies
+$1031D97C 0000803F
++Sleepward
+%Credits: Codejunkies
+$1031D97C 00008041
++Slowproof
+%Credits: Codejunkies
+$1031D97C 0000804C
++Slowstrike
+%Credits: Codejunkies
+$1031D97C 0000804A
++Slowtouch
+%Credits: Codejunkies
+$1031D97C 0000804B
++Slowward
+%Credits: Codejunkies
+$1031D97C 0000804D
++SOS Haste
+%Credits: Codejunkies
+$1031D97C 0000805B
++SOS Nullblaze
+%Credits: Codejunkies
+$1031D97C 00008061
++SOS Nullfrost
+%Credits: Codejunkies
+$1031D97C 0000805F
++SOS Nullshock
+%Credits: Codejunkies
+$1031D97C 00008060
++SOS Nulltide
+%Credits: Codejunkies
+$1031D97C 0000805E
++SOS Overdrive
+%Credits: Codejunkies
+$1031D97C 00008010
++SOS Protect
+%Credits: Codejunkies
+$1031D97C 0000805A
++SOS Reflect
+%Credits: Codejunkies
+$1031D97C 0000805D
++SOS Regen
+%Credits: Codejunkies
+$1031D97C 0000805C
++SOS Shell
+%Credits: Codejunkies
+$1031D97C 00008059
++Stoneproof
+%Credits: Codejunkies
+$1031D97C 00008038
++Stonestrike
+%Credits: Codejunkies
+$1031D97C 00008036
++Stonetouch
+%Credits: Codejunkies
+$1031D97C 00008037
++Stoneward
+%Credits: Codejunkies
+$1031D97C 00008039
++Strength+3
+%Credits: Codejunkies
+$1031D97C 00008062
++Strength+5
+%Credits: Codejunkies
+$1031D97C 00008063
++Strength+10
+%Credits: Codejunkies
+$1031D97C 00008064
++Strength+20
+%Credits: Codejunkies
+$1031D97C 00008065
++Triple AP
+%Credits: Codejunkies
+$1031D97C 00008013
++Triple Overdrive
+%Credits: Codejunkies
+$1031D97C 0000800F
++Watereater
+%Credits: Codejunkies
+$1031D97C 0000802D
++Waterproof
+%Credits: Codejunkies
+$1031D97C 0000802C
++Waterstrike
+%Credits: Codejunkies
+$1031D97C 0000802A
++Waterward
+%Credits: Codejunkies
+$1031D97C 0000802B
++Zombieproof
+%Credits: Codejunkies
+$1031D97C 00008034
++Zombiestrike
+%Credits: Codejunkies
+$1031D97C 00008032
++Zombietouch
+%Credits: Codejunkies
+$1031D97C 00008033
++Zombieward
+%Credits: Codejunkies
+$1031D97C 00008035
+!!
+!3rd Ability Is...:
++Alchemy
+%Credits: Codejunkies
+$1031D97E 00008007
++Auto Potion
+%Credits: Codejunkies
+$1031D97E 00008008
++Auto-Med
+%Credits: Codejunkies
+$1031D97E 00008009
++Auto-Phoenix
+%Credits: Codejunkies
+$1031D97E 0000800A
++Break Damage Limit
+%Credits: Codejunkies
+$1031D97E 00008019
++Break HP Limit
+%Credits: Codejunkies
+$1031D97E 00008017
++Break MP Limit
+%Credits: Codejunkies
+$1031D97E 00008018
++Counter Attack
+%Credits: Codejunkies
+$1031D97E 00008003
++Deathproof
+%Credits: Codejunkies
+$1031D97E 00008030
++Deathstrike
+%Credits: Codejunkies
+$1031D97E 0000802E
++Deathtouch
+%Credits: Codejunkies
+$1031D97E 0000802F
++Deathward
+%Credits: Codejunkies
+$1031D97E 00008031
++Double AP
+%Credits: Codejunkies
+$1031D97E 00008012
++Double Overdrive
+%Credits: Codejunkies
+$1031D97E 0000800E
++Evade And Counter
+%Credits: Codejunkies
+$1031D97E 00008004
++Fireeater
+%Credits: Codejunkies
+$1031D97E 00008021
++Fireproof
+%Credits: Codejunkies
+$1031D97E 00008020
++Firestrike
+%Credits: Codejunkies
+$1031D97E 0000801E
++Fireward
+%Credits: Codejunkies
+$1031D97E 0000801F
++First Strike
+%Credits: Codejunkies
+$1031D97E 00008001
++Gillionaire
+%Credits: Codejunkies
+$1031D97E 0000801A
++Half MP Cost
+%Credits: Codejunkies
+$1031D97E 0000800C
++Have Sensor
+%Credits: Codejunkies
+$1031D97E 00008000
++HP Stroll
+%Credits: Codejunkies
+$1031D97E 0000801B
++Iceeater
+%Credits: Codejunkies
+$1031D97E 00008025
++Iceproof
+%Credits: Codejunkies
+$1031D97E 00008024
++Icestrike
+%Credits: Codejunkies
+$1031D97E 00008022
++Iceward
+%Credits: Codejunkies
+$1031D97E 00008023
++Initiative
+%Credits: Codejunkies
+$1031D97E 00008002
++Lighteater
+%Credits: Codejunkies
+$1031D97E 00008029
++Lightproof
+%Credits: Codejunkies
+$1031D97E 00008028
++Lightstrike
+%Credits: Codejunkies
+$1031D97E 00008026
++Lightward
+%Credits: Codejunkies
+$1031D97E 00008027
++Magic Bbooster
+%Credits: Codejunkies
+$1031D97E 00008006
++Magic Counter
+%Credits: Codejunkies
+$1031D97E 00008005
++Master Thief
+%Credits: Codejunkies
+$1031D97E 00008016
++MP Stroll
+%Credits: Codejunkies
+$1031D97E 0000801C
++No AP
+%Credits: Codejunkies
+$1031D97E 00008014
++No Encounters
+%Credits: Codejunkies
+$1031D97E 0000801D
++One MP Cost
+%Credits: Codejunkies
+$1031D97E 0000800D
++Overdrive AP
+%Credits: Codejunkies
+$1031D97E 00008011
++Pickpocket
+%Credits: Codejunkies
+$1031D97E 00008015
++Piercing
+%Credits: Codejunkies
+$1031D97E 0000800B
++Poisonproof
+%Credits: Codejunkies
+$1031D97E 0000803C
++Poisonstrike
+%Credits: Codejunkies
+$1031D97E 0000803A
++Poisontouch
+%Credits: Codejunkies
+$1031D97E 0000803B
++Poisonward
+%Credits: Codejunkies
+$1031D97E 0000803D
++SOS Overdrive
+%Credits: Codejunkies
+$1031D97E 00008010
++Stoneproof
+%Credits: Codejunkies
+$1031D97E 00008038
++Stonestrike
+%Credits: Codejunkies
+$1031D97E 00008036
++Stonetouch
+%Credits: Codejunkies
+$1031D97E 00008037
++Stoneward
+%Credits: Codejunkies
+$1031D97E 00008039
++Triple AP
+%Credits: Codejunkies
+$1031D97E 00008013
++Triple Overdrive
+%Credits: Codejunkies
+$1031D97E 0000800F
++Watereater
+%Credits: Codejunkies
+$1031D97E 0000802D
++Waterproof
+%Credits: Codejunkies
+$1031D97E 0000802C
++Waterstrike
+%Credits: Codejunkies
+$1031D97E 0000802A
++Waterward
+%Credits: Codejunkies
+$1031D97E 0000802B
++Zombieproof
+%Credits: Codejunkies
+$1031D97E 00008034
++Zombiestrike
+%Credits: Codejunkies
+$1031D97E 00008032
++Zombietouch
+%Credits: Codejunkies
+$1031D97E 00008033
++Zombieward
+%Credits: Codejunkies
+$1031D97E 00008035
+!!
+!9 Item Codes:
++Ability Distance Slot 20
+%Credits: Codejunkies
+$1031D3C2 00002013
+$0031D5AF 00000009
++Ability Sphere Slot 74
+%Credits: Codejunkies
+$1031D42E 00002049
+$0031D5E5 00000009
++Accuracy Sphere Slot 94
+%Credits: Codejunkies
+$1031D456 0000205D
+$0031D5F9 00000009
++Agility Sphere Slot 92
+%Credits: Codejunkies
+$1031D452 0000205B
+$0031D5F7 00000009
++Al Bhed Potion Slot 21
+%Credits: Codejunkies
+$1031D3C4 00002014
+$0031D5B0 00000009
++Amulet Slot 107
+%Credits: Codejunkies
+$1031D470 0000206A
+$0031D606 00000009
++Antartic W Slot 24
+%Credits: Codejunkies
+$1031D3CA 00002017
+$0031D5B3 00000009
++Antidote Slot 11
+%Credits: Codejunkies
+$1031D3B0 0000200A
+$0031D5A6 00000009
++Artic W Slot 25
+%Credits: Codejunkies
+$1031D3CC 00002018
+$0031D5B4 00000009
++Attribute Sphere Slot 76
+%Credits: Codejunkies
+$1031D432 0000204B
+$0031D5E7 00000009
++Black Magic Sphere Slot 80
+%Credits: Codejunkies
+$1031D43A 0000204F
+$0031D5EB 00000009
++Blessed Gem Slot 44
+%Credits: Codejunkies
+$1031D3F2 0000202B
+$0031D5C7 00000009
++Bomb Core Slot 28
+%Credits: Codejunkies
+$1031D3D2 0000201B
+$0031D5B7 00000009
++Bomb Fragment Slot 27
+%Credits: Codejunkies
+$1031D3D0 0000201A
+$0031D5B6 00000009
++Candle Of Life Slot 49
+%Credits: Codejunkies
+$1031D3FC 00002030
+$0031D5CC 00000009
++Chocobo Feather Slot 55
+%Credits: Codejunkies
+$1031D408 00002036
+$0031D5D2 00000009
++Chocobo Wing Slot 56
+%Credits: Codejunkies
+$1031D40A 00002037
+$0031D5D3 00000009
++Clear Sphere Slot 96
+%Credits: Codejunkies
+$1031D45A 0000205F
+$0031D5FB 00000009
++Dark Matter Slot 54
+%Credits: Codejunkies
+$1031D406 00002035
+$0031D5D1 00000009
++Defence Sphere Slot 89
+%Credits: Codejunkies
+$1031D44C 00002058
+$0031D5F4 00000009
++Designer Wallet Slot 53
+%Credits: Codejunkies
+$1031D404 00002034
+$0031D5D0 00000009
++Door To Tom Slot 108
+%Credits: Codejunkies
+$1031D472 0000206B
+$0031D607 00000009
++Dragon Scale Slot 34
+%Credits: Codejunkies
+$1031D3DE 00002021
+$0031D5BD 00000009
++Dream Powder Slot 39
+%Credits: Codejunkies
+$1031D3E8 00002026
+$0031D5C2 00000009
++Echo Screen Slot 14
+%Credits: Codejunkies
+$1031D3B6 0000200D
+$0031D5A9 00000009
++Electro Marble Slot 30
+%Credits: Codejunkies
+$1031D3D6 0000201D
+$0031D5B9 00000009
++Elixir Slot 9
+%Credits: Codejunkies
+$1031D3AC 00002008
+$0031D5A4 00000009
++Ether Slot 5
+%Credits: Codejunkies
+$1031D3A4 00002004
+$0031D5A0 00000009
++Evasion Sphere Slot 93
+%Credits: Codejunkies
+$1031D454 0000205C
+$0031D5F8 00000009
++Eye Drops Slot 13
+%Credits: Codejunkies
+$1031D3B4 0000200C
+$0031D5A8 00000009
++Farplane Shadow Slot 51
+%Credits: Codejunkies
+$1031D400 00002032
+$0031D5CE 00000009
++Farplane Wind Slot 52
+%Credits: Codejunkies
+$1031D402 00002033
+$0031D5CF 00000009
++Fire Gem Slot 29
+%Credits: Codejunkies
+$1031D3D4 0000201C
+$0031D5B8 00000009
++Fish Scale Slot 33
+%Credits: Codejunkies
+$1031D3DC 00002020
+$0031D5BC 00000009
++Fortune Sphere Slot 75
+%Credits: Codejunkies
+$1031D430 0000204A
+$0031D5E6 00000009
++Frag Grenade Slot 37
+%Credits: Codejunkies
+$1031D3E4 00002024
+$0031D5C0 00000009
++Friend Sphere Slot 98
+%Credits: Codejunkies
+$1031D45E 00002061
+$0031D5FD 00000009
++Gambler's Spirit Slot 110
+%Credits: Codejunkies
+$1031D476 0000206D
+$0031D609 00000009
++Gold Hourglass Slot 48
+%Credits: Codejunkies
+$1031D3FA 0000202F
+$0031D5CB 00000009
++Grenade Slot 36
+%Credits: Codejunkies
+$1031D3E2 00002023
+$0031D5BF 00000009
++Healing Spring Slot 60
+%Credits: Codejunkies
+$1031D412 0000203B
+$0031D5D7 00000009
++Healing Water Slot 22
+%Credits: Codejunkies
+$1031D3C6 00002015
+$0031D5B1 00000009
++Hi-Potion Slot 2
+%Credits: Codejunkies
+$1031D39E 00002001
+$0031D59D 00000009
++Holy Water Slot 15
+%Credits: Codejunkies
+$1031D3B8 0000200E
+$0031D5AA 00000009
++HP Sphere Slot 86
+%Credits: Codejunkies
+$1031D446 00002055
+$0031D5F1 00000009
++Hypello Potion Slot 104
+%Credits: Codejunkies
+$1031D46A 00002067
+$0031D603 00000009
++Ice Gem Slot 26
+%Credits: Codejunkies
+$1031D3CE 00002019
+$0031D5B5 00000009
++Level 1 Key Sphere Slot 82
+%Credits: Codejunkies
+$1031D43E 00002051
+$0031D5ED 00000009
++Level 2 Key Sphere Slot 83
+%Credits: Codejunkies
+$1031D440 00002052
+$0031D5EE 00000009
++Level 3 Key Sphere Slot 84
+%Credits: Codejunkies
+$1031D442 00002053
+$0031D5EF 00000009
++Level 4 Key Sphere Slot 85
+%Credits: Codejunkies
+$1031D444 00002054
+$0031D5F0 00000009
++Light Curtain Slot 58
+%Credits: Codejunkies
+$1031D40E 00002039
+$0031D5D5 00000009
++Light Gem Slot 32
+%Credits: Codejunkies
+$1031D3DA 0000201F
+$0031D5BB 00000009
++Light Marble Slot 31
+%Credits: Codejunkies
+$1031D3D8 0000201E
+$0031D5BA 00000009
++Luck Sphere Slot 95
+%Credits: Codejunkies
+$1031D458 0000205E
+$0031D5FA 00000009
++Lunar Curtain Slot 57
+%Credits: Codejunkies
+$1031D40C 00002038
+$0031D5D4 00000009
++Magic Defence Sphere Slot 91
+%Credits: Codejunkies
+$1031D450 0000205A
+$0031D5F6 00000009
++Magic Sphere Slot 90
+%Credits: Codejunkies
+$1031D44E 00002059
+$0031D5F5 00000009
++Mana Distance Slot 18
+%Credits: Codejunkies
+$1031D3BE 00002011
+$0031D5AD 00000009
++Mana Sphere Slot 72
+%Credits: Codejunkies
+$1031D42A 00002047
+$0031D5E3 00000009
++Mana Spring Slot 61
+%Credits: Codejunkies
+$1031D414 0000203C
+$0031D5D8 00000009
++Mana Tablet Slot 66
+%Credits: Codejunkies
+$1031D41E 00002041
+$0031D5DD 00000009
++Mana Tonic Slot 69
+%Credits: Codejunkies
+$1031D424 00002044
+$0031D5E0 00000009
++Map Slot 101
+%Credits: Codejunkies
+$1031D464 00002064
+$0031D600 00000009
++Master Sphere Slot 81
+%Credits: Codejunkies
+$1031D43C 00002050
+$0031D5EC 00000009
++Mega Phoenix Slot 8
+%Credits: Codejunkies
+$1031D3AA 00002007
+$0031D5A3 00000009
++Mega Potion Slot 4
+%Credits: Codejunkies
+$1031D3A2 00002003
+$0031D59F 00000009
++Megalixir Slot 10
+%Credits: Codejunkies
+$1031D3AE 00002009
+$0031D5A5 00000009
++MP Sphere Slot 87
+%Credits: Codejunkies
+$1031D448 00002056
+$0031D5F2 00000009
++Musk Slot 103
+%Credits: Codejunkies
+$1031D468 00002066
+$0031D602 00000009
++Pendulum Slot 106
+%Credits: Codejunkies
+$1031D46E 00002069
+$0031D605 00000009
++Petrify Grenade Slot 50
+%Credits: Codejunkies
+$1031D3FE 00002031
+$0031D5CD 00000009
++Phoenix Down Slot 7
+%Credits: Codejunkies
+$1031D3A8 00002006
+$0031D5A2 00000009
++Poison Fang Slot 46
+%Credits: Codejunkies
+$1031D3F6 0000202D
+$0031D5C9 00000009
++Potion Slot 1
+%Credits: Codejunkies
+$1031D39C 00002000
+$0031D59C 00000009
++Power Distance Slot 17
+%Credits: Codejunkies
+$1031D3BC 00002010
+$0031D5AC 00000009
++Power Sphere Slot 71
+%Credits: Codejunkies
+$1031D428 00002046
+$0031D5E2 00000009
++Puryfying Salt Slot 64
+%Credits: Codejunkies
+$1031D41A 0000203F
+$0031D5DB 00000009
++Remedy Slot 16
+%Credits: Codejunkies
+$1031D3BA 0000200F
+$0031D5AB 00000009
++Rename Card Slot 102
+%Credits: Codejunkies
+$1031D466 00002065
+$0031D601 00000009
++Return Sphere Slot 97
+%Credits: Codejunkies
+$1031D45C 00002060
+$0031D5FC 00000009
++Shadow Gem Slot 42
+%Credits: Codejunkies
+$1031D3EE 00002029
+$0031D5C5 00000009
++Shining Gem Slot 43
+%Credits: Codejunkies
+$1031D3F0 0000202A
+$0031D5C6 00000009
++Shining Storm Slot 105
+%Credits: Codejunkies
+$1031D46C 00002068
+$0031D604 00000009
++Silence Grenade Slot 40
+%Credits: Codejunkies
+$1031D3EA 00002027
+$0031D5C3 00000009
++Silver Hourglass Slot 47
+%Credits: Codejunkies
+$1031D3F8 0000202E
+$0031D5CA 00000009
++Skill Sphere Slot 78
+%Credits: Codejunkies
+$1031D436 0000204D
+$0031D5E9 00000009
++Sleeping Powder Slot 38
+%Credits: Codejunkies
+$1031D3E6 00002025
+$0031D5C1 00000009
++Smoke Bomb Slot 41
+%Credits: Codejunkies
+$1031D3EC 00002028
+$0031D5C4 00000009
++Soft Slot 12
+%Credits: Codejunkies
+$1031D3B2 0000200B
+$0031D5A7 00000009
++Soul Spring Slot 63
+%Credits: Codejunkies
+$1031D418 0000203E
+$0031D5DA 00000009
++Special Sphere Slot 77
+%Credits: Codejunkies
+$1031D434 0000204C
+$0031D5E8 00000009
++Speed Distance Slot 19
+%Credits: Codejunkies
+$1031D3C0 00002012
+$0031D5AE 00000009
++Speed Sphere Slot 73
+%Credits: Codejunkies
+$1031D42C 00002048
+$0031D5E4 00000009
++Stamina Spring Slot 62
+%Credits: Codejunkies
+$1031D416 0000203D
+$0031D5D9 00000009
++Stamina Tablet Slot 65
+%Credits: Codejunkies
+$1031D41C 00002040
+$0031D5DC 00000009
++Stamina Tonic Slot 68
+%Credits: Codejunkies
+$1031D422 00002043
+$0031D5DF 00000009
++Star Curtain Slot 59
+%Credits: Codejunkies
+$1031D410 0000203A
+$0031D5D6 00000009
++Strength Sphere Slot 88
+%Credits: Codejunkies
+$1031D44A 00002057
+$0031D5F3 00000009
++Supreme Gem Slot 45
+%Credits: Codejunkies
+$1031D3F4 0000202C
+$0031D5C8 00000009
++Teleport Sphere Slot 99
+%Credits: Codejunkies
+$1031D460 00002062
+$0031D5FE 00000009
++Tetra Elemental Slot 23
+%Credits: Codejunkies
+$1031D3C8 00002016
+$0031D5B2 00000009
++Three Stars Slot 70
+%Credits: Codejunkies
+$1031D426 00002045
+$0031D5E1 00000009
++Turbo Ether Slot 6
+%Credits: Codejunkies
+$1031D3A6 00002005
+$0031D5A1 00000009
++Twin Stars Slot 67
+%Credits: Codejunkies
+$1031D420 00002042
+$0031D5DE 00000009
++Underdogs Secret Slot 111
+%Credits: Codejunkies
+$1031D478 0000206E
+$0031D60A 00000009
++Warp Sphere Slot 100
+%Credits: Codejunkies
+$1031D462 00002063
+$0031D5FF 00000009
++Water Gem Slot 35
+%Credits: Codejunkies
+$1031D3E0 00002022
+$0031D5BE 00000009
++White Magic Sphere Slot 79
+%Credits: Codejunkies
+$1031D438 0000204E
+$0031D5EA 00000009
++Wings To Discovery Slot 109
+%Credits: Codejunkies
+$1031D474 0000206C
+$0031D608 00000009
++Winning Formula Slot 112
+%Credits: Codejunkies
+$1031D47A 0000206F
+$0031D60B 00000009
++X-Potion Slot 3
+%Credits: Codejunkies
+$1031D3A0 00002002
+$0031D59E 00000009
+!!
+!99 Item Codes:
++Ability-Sphäroid Slot 74
+%Credits: Codejunkies
+$1031D42E 00002049
+$0031D5E5 00000063
++Ability-Zettel Slot 20
+%Credits: Codejunkies
+$1031D3C2 00002013
+$0031D5AF 00000063
++Ablutionsalz Slot 64
+%Credits: Codejunkies
+$1031D41A 0000203F
+$0031D5DB 00000063
++Abwher-Sphäroid Slot 89
+%Credits: Codejunkies
+$1031D44C 00002058
+$0031D5F4 00000063
++Al Bhed-Medizin Slot 21
+%Credits: Codejunkies
+$1031D3C4 00002014
+$0031D5B0 00000063
++Allhellmittel Slot 16
+%Credits: Codejunkies
+$1031D3BA 0000200F
+$0031D5AB 00000063
++Amulett Slot 107
+%Credits: Codejunkies
+$1031D470 0000206A
+$0031D606 00000063
++Angriffs-Sphär Slot 88
+%Credits: Codejunkies
+$1031D44A 00002057
+$0031D5F3 00000063
++Antarktis W Slot 24
+%Credits: Codejunkies
+$1031D3CA 00002017
+$0031D5B3 00000063
++Antidot Slot 11
+%Credits: Codejunkies
+$1031D3B0 0000200A
+$0031D5A6 00000063
++Aufput 103
+%Credits: Codejunkies
+$1031D468 00002066
+$0031D602 00000063
++Augentropfen Slot 13
+%Credits: Codejunkies
+$1031D3B4 0000200C
+$0031D5A8 00000063
++Blitzkugel Slot 31
+%Credits: Codejunkies
+$1031D3D8 0000201E
+$0031D5BA 00000063
++Bomber-Seele Slot 28
+%Credits: Codejunkies
+$1031D3D2 0000201B
+$0031D5B7 00000063
++Bomber-Splitter Slot 27
+%Credits: Codejunkies
+$1031D3D0 0000201A
+$0031D5B6 00000063
++Bonzenmesser Slot 53
+%Credits: Codejunkies
+$1031D404 00002034
+$0031D5D0 00000063
++Chocobo-Daune Slot 56
+%Credits: Codejunkies
+$1031D40A 00002037
+$0031D5D3 00000063
++Chocobo-Feder Slot 55
+%Credits: Codejunkies
+$1031D408 00002036
+$0031D5D2 00000063
++Donnerstein Slot 32
+%Credits: Codejunkies
+$1031D3DA 0000201F
+$0031D5BB 00000063
++Drachenschuppe Slot 34
+%Credits: Codejunkies
+$1031D3DE 00002021
+$0031D5BD 00000063
++Dreigestirn Slot 70
+%Credits: Codejunkies
+$1031D426 00002045
+$0031D5E1 00000063
++Dunkelkristall Slot 54
+%Credits: Codejunkies
+$1031D406 00002035
+$0031D5D1 00000063
++Echokraut Slot 14
+%Credits: Codejunkies
+$1031D3B6 0000200D
+$0031D5A9 00000063
++Electrokugel Slot 30
+%Credits: Codejunkies
+$1031D3D6 0000201D
+$0031D5B9 00000063
++Elixir Slot 9
+%Credits: Codejunkies
+$1031D3AC 00002008
+$0031D5A4 00000063
++Exorzistendorne Slot 105
+%Credits: Codejunkies
+$1031D46C 00002068
+$0031D604 00000063
++Final-Elixir Slot 10
+%Credits: Codejunkies
+$1031D3AE 00002009
+$0031D5A5 00000063
++Fischschuppe Slot 33
+%Credits: Codejunkies
+$1031D3DC 00002020
+$0031D5BC 00000063
++Fortuna-Sphär Slot 95
+%Credits: Codejunkies
+$1031D458 0000205E
+$0031D5FA 00000063
++Freund-Sphär Slot 98
+%Credits: Codejunkies
+$1031D45E 00002061
+$0031D5FD 00000063
++Geschick-Sphär Slot 92
+%Credits: Codejunkies
+$1031D452 0000205B
+$0031D5F7 00000063
++Giftkralle Slot 46
+%Credits: Codejunkies
+$1031D3F6 0000202D
+$0031D5C9 00000063
++Gigantelflugel Slot 109
+%Credits: Codejunkies
+$1031D474 0000206C
+$0031D608 00000063
++Glucks-Sphäroid Slot 75
+%Credits: Codejunkies
+$1031D430 0000204A
+$0031D5E6 00000063
++Goldene Sanduhr Slot 48
+%Credits: Codejunkies
+$1031D3FA 0000202F
+$0031D5CB 00000063
++Goldnadel Slot 12
+%Credits: Codejunkies
+$1031D3B2 0000200B
+$0031D5A7 00000063
++Handgranate Slot 36
+%Credits: Codejunkies
+$1031D3E2 00002023
+$0031D5BF 00000063
++Heiligerstein Slot 44
+%Credits: Codejunkies
+$1031D3F2 0000202B
+$0031D5C7 00000063
++Heilquelle Slot 60
+%Credits: Codejunkies
+$1031D412 0000203B
+$0031D5D7 00000063
++Heilwasser Slot 22
+%Credits: Codejunkies
+$1031D3C6 00002015
+$0031D5B1 00000063
++Hi-Potions Slot 2
+%Credits: Codejunkies
+$1031D39E 00002001
+$0031D59D 00000063
++Himmelstein Slot 45
+%Credits: Codejunkies
+$1031D3F4 0000202C
+$0031D5C8 00000063
++Hitzestein Slot 29
+%Credits: Codejunkies
+$1031D3D4 0000201C
+$0031D5B8 00000063
++HP Sphäroid Slot 86
+%Credits: Codejunkies
+$1031D446 00002055
+$0031D5F1 00000063
++HP-Pille Slot 65
+%Credits: Codejunkies
+$1031D41C 00002040
+$0031D5DC 00000063
++HP-Wundermittel Slot 68
+%Credits: Codejunkies
+$1031D422 00002043
+$0031D5DF 00000063
++Hypello-Medizin Slot 104
+%Credits: Codejunkies
+$1031D46A 00002067
+$0031D603 00000063
++Kraft-Sphäroid Slot 71
+%Credits: Codejunkies
+$1031D428 00002046
+$0031D5E2 00000063
++Kraftquelle Slot 62
+%Credits: Codejunkies
+$1031D416 0000203D
+$0031D5D9 00000063
++Kraftzettel Slot 17
+%Credits: Codejunkies
+$1031D3BC 00002010
+$0031D5AC 00000063
++Kältestein Slot 26
+%Credits: Codejunkies
+$1031D3CE 00002019
+$0031D5B5 00000063
++Lebensquelle Slot 63
+%Credits: Codejunkies
+$1031D418 0000203E
+$0031D5DA 00000063
++Level 1 Sphäropass Slot 82
+%Credits: Codejunkies
+$1031D43E 00002051
+$0031D5ED 00000063
++Level 2 Sphäropass Slot 83
+%Credits: Codejunkies
+$1031D440 00002052
+$0031D5EE 00000063
++Level 3 Sphäropass Slot 84
+%Credits: Codejunkies
+$1031D442 00002053
+$0031D5EF 00000063
++Level 4 Sphäropass Slot 85
+%Credits: Codejunkies
+$1031D444 00002054
+$0031D5F0 00000063
++Lichtschleier Slot 58
+%Credits: Codejunkies
+$1031D40E 00002039
+$0031D5D5 00000063
++Lichtstein Slot 43
+%Credits: Codejunkies
+$1031D3F0 0000202A
+$0031D5C6 00000063
++Magie-Sphäroid Slot 90
+%Credits: Codejunkies
+$1031D44E 00002059
+$0031D5F5 00000063
++Magiequelle Slot 61
+%Credits: Codejunkies
+$1031D414 0000203C
+$0031D5D8 00000063
++Mega Phkeynix Slot 8
+%Credits: Codejunkies
+$1031D3AA 00002007
+$0031D5A3 00000063
++Mega Potions Slot 4
+%Credits: Codejunkies
+$1031D3A2 00002003
+$0031D59F 00000063
++Mondschleier Slot 57
+%Credits: Codejunkies
+$1031D40C 00002038
+$0031D5D4 00000063
++MP Sphäroid Slot 87
+%Credits: Codejunkies
+$1031D448 00002056
+$0031D5F2 00000063
++MP-Pille Slot 66
+%Credits: Codejunkies
+$1031D41E 00002041
+$0031D5DD 00000063
++MP-Wundermittel Slot 69
+%Credits: Codejunkies
+$1031D424 00002044
+$0031D5E0 00000063
++Nässestein Slot 35
+%Credits: Codejunkies
+$1031D3E0 00002022
+$0031D5BE 00000063
++Panzergrante Slot 37
+%Credits: Codejunkies
+$1031D3E4 00002024
+$0031D5C0 00000063
++Para-Sphäroid Slot 76
+%Credits: Codejunkies
+$1031D432 0000204B
+$0031D5E7 00000063
++Pendel Slot 106
+%Credits: Codejunkies
+$1031D46E 00002069
+$0031D605 00000063
++Perseus-Granate Slot 50
+%Credits: Codejunkies
+$1031D3FE 00002031
+$0031D5CD 00000063
++Phkeynix Feder Slot 7
+%Credits: Codejunkies
+$1031D3A8 00002006
+$0031D5A2 00000063
++Polar W Slot 25
+%Credits: Codejunkies
+$1031D3CC 00002018
+$0031D5B4 00000063
++Potions Slot 1
+%Credits: Codejunkies
+$1031D39C 00002000
+$0031D59C 00000063
++Rauchbombe Slot 41
+%Credits: Codejunkies
+$1031D3EC 00002028
+$0031D5C4 00000063
++Reflex-Sphär Slot 93
+%Credits: Codejunkies
+$1031D454 0000205C
+$0031D5F8 00000063
++Ruck-Sphär Slot 97
+%Credits: Codejunkies
+$1031D45C 00002060
+$0031D5FC 00000063
++Schlafpuder Slot 38
+%Credits: Codejunkies
+$1031D3E6 00002025
+$0031D5C1 00000063
++Schw Sphäroid Slot 80
+%Credits: Codejunkies
+$1031D43A 0000204F
+$0031D5EB 00000063
++Schwarzerstein Slot 42
+%Credits: Codejunkies
+$1031D3EE 00002029
+$0031D5C5 00000063
++Siegesrauch Slot 112
+%Credits: Codejunkies
+$1031D47A 0000206F
+$0031D60B 00000063
++Silberne Sanduhr Slot 47
+%Credits: Codejunkies
+$1031D3F8 0000202E
+$0031D5CA 00000063
++Silentium-Mine Slot 40
+%Credits: Codejunkies
+$1031D3EA 00002027
+$0031D5C3 00000063
++Spezial-Sphäroid Slot 77
+%Credits: Codejunkies
+$1031D434 0000204C
+$0031D5E8 00000063
++Spreng-Sphär Slot 96
+%Credits: Codejunkies
+$1031D45A 0000205F
+$0031D5FB 00000063
++Sternenschleier Slot 59
+%Credits: Codejunkies
+$1031D410 0000203A
+$0031D5D6 00000063
++Super-Sphäroid Slot 81
+%Credits: Codejunkies
+$1031D43C 00002050
+$0031D5EC 00000063
++Tech-Sphäroid Slot 78
+%Credits: Codejunkies
+$1031D436 0000204D
+$0031D5E9 00000063
++Tetra Elem Slot 23
+%Credits: Codejunkies
+$1031D3C8 00002016
+$0031D5B2 00000063
++Tintenkiller Slot 102
+%Credits: Codejunkies
+$1031D466 00002065
+$0031D601 00000063
++Tleport-Sphär Slot 99
+%Credits: Codejunkies
+$1031D460 00002062
+$0031D5FE 00000063
++Todeskerze Slot 49
+%Credits: Codejunkies
+$1031D3FC 00002030
+$0031D5CC 00000063
++Todesschatten Slot 51
+%Credits: Codejunkies
+$1031D400 00002032
+$0031D5CE 00000063
++Tor Der Zukunft Slot 108
+%Credits: Codejunkies
+$1031D472 0000206B
+$0031D607 00000063
++Traumpuder Slot 39
+%Credits: Codejunkies
+$1031D3E8 00002026
+$0031D5C2 00000063
++Treffer-Sphär Slot 94
+%Credits: Codejunkies
+$1031D456 0000205D
+$0031D5F9 00000063
++Turbo-Äther Slot 6
+%Credits: Codejunkies
+$1031D3A6 00002005
+$0031D5A1 00000063
++Warp-Sphär Slot 100
+%Credits: Codejunkies
+$1031D462 00002063
+$0031D5FF 00000063
++Wei Sphäroid Slot 79
+%Credits: Codejunkies
+$1031D438 0000204E
+$0031D5EA 00000063
++Welhwasser Slot 15
+%Credits: Codejunkies
+$1031D3B8 0000200E
+$0031D5AA 00000063
++Weltkarte 101
+%Credits: Codejunkies
+$1031D464 00002064
+$0031D600 00000063
++Wenderblatt Slot 111
+%Credits: Codejunkies
+$1031D478 0000206E
+$0031D60A 00000063
++Wind Des Jens Slot 52
+%Credits: Codejunkies
+$1031D402 00002033
+$0031D5CF 00000063
++Wunder-Sphäroid Slot 72
+%Credits: Codejunkies
+$1031D42A 00002047
+$0031D5E3 00000063
++Wunderzettel Slot 18
+%Credits: Codejunkies
+$1031D3BE 00002011
+$0031D5AD 00000063
++X-Potion Slot 3
+%Credits: Codejunkies
+$1031D3A0 00002002
+$0031D59E 00000063
++Z-Abwehr-Sphär Slot 91
+%Credits: Codejunkies
+$1031D450 0000205A
+$0031D5F6 00000063
++Zeit-Sphäroid Slot 73
+%Credits: Codejunkies
+$1031D42C 00002048
+$0031D5E4 00000063
++Zeltzettel Slot 19
+%Credits: Codejunkies
+$1031D3C0 00002012
+$0031D5AE 00000063
++Zockerseele Slot 110
+%Credits: Codejunkies
+$1031D476 0000206D
+$0031D609 00000063
++Zweigestirn Slot 67
+%Credits: Codejunkies
+$1031D420 00002042
+$0031D5DE 00000063
++Äther Slot 5
+%Credits: Codejunkies
+$1031D3A4 00002004
+$0031D5A0 00000063
+!!
+!Activate The Following Codes After Kilika Woods:
++All Bestias In Party
+%Credits: Codejunkies
+$0031EFFC 00000011
+$0031F090 00000011
+$0031F124 00000011
+$0031F1B8 00000011
+$0031F24C 00000011
+$0031F2E0 00000011
+$0031F374 00000011
+$0031F408 00000011
+$0031F49C 00000011
++Auron In Party
+%Credits: Codejunkies
+$0031EBF0 00000011
++Kimahri In Party
+%Credits: Codejunkies
+$0031EC84 00000011
++Lulu In Party
+%Credits: Codejunkies
+$0031EDAC 00000011
++Rikku In Party
+%Credits: Codejunkies
+$0031EE40 00000011
++Seymour In Party
+%Credits: Codejunkies
+$0031EED4 00000011
++Wakka In Party
+%Credits: Codejunkies
+$0031ED18 00000011
++Yuna In Party
+%Credits: Codejunkies
+$0031EB5C 00000011
+!!
+!Anima:
++Non Présent Dans La Partie
+%Credits: Codejunkies
+$0031F24C 00000000
++Présent Dans La Partie
+%Credits: Codejunkies
+$0031F24C 00000011
+!!
+!Anima Codes:
++Full HP
+%Credits: Codejunkies
+$1031F23C 0000270F
++Full MP
+%Credits: Codejunkies
+$1031F240 000003E7
++Max Abwehrkraft
+%Credits: Codejunkies
+$0031F250 000000FF
++Max Angriffskraft
+%Credits: Codejunkies
+$0031F24F 000000FF
++Max Geschick
+%Credits: Codejunkies
+$0031F253 000000FF
++Max Glunlimited Ck
+%Credits: Codejunkies
+$0031F254 000000FF
++Max HP
+%Credits: Codejunkies
+$1031F244 0000270F
++Max Magie
+%Credits: Codejunkies
+$0031F251 000000FF
++Max MP
+%Credits: Codejunkies
+$1031F248 000003E7
++Max Reflex
+%Credits: Codejunkies
+$0031F255 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031F24F 000000FF
+$2031F250 FFFFFFFF
+$1031F254 0000FFFF
+$0031F256 000000FF
++Max Treffer
+%Credits: Codejunkies
+$0031F256 000000FF
++Max Zauberabwehr
+%Credits: Codejunkies
+$0031F252 000000FF
+!!
+!Auron:
++Non Présent Dans La Partie
+%Credits: Codejunkies
+$0031EBF0 00000000
+!!
+!Auron Codes:
++All Tech-Spezial-Magie
+%Credits: Codejunkies
+$1031EC02 0000FFFF
+$2031EC04 FFFFFFFF
+$2031EC08 FFFFFFFF
+$1031EC0A 0000FFFF
++Full HP
+%Credits: Codejunkies
+$1031EBE0 0000270F
++Full MP
+%Credits: Codejunkies
+$1031EBE4 000003E7
++Max Abwehrkraft
+%Credits: Codejunkies
+$0031EBF4 000000FF
++Max Angriffskraft
+%Credits: Codejunkies
+$0031EBF3 000000FF
++Max Geschick
+%Credits: Codejunkies
+$0031EBF7 000000FF
++Max Glunlimited Ck
+%Credits: Codejunkies
+$0031EBF8 000000FF
++Max HP
+%Credits: Codejunkies
+$1031EBE8 0000270F
++Max Magic
+%Credits: Codejunkies
+$0031EBF5 000000FF
++Max MP
+%Credits: Codejunkies
+$1031EBEC 000003E7
++Max Reflex
+%Credits: Codejunkies
+$0031EBF9 000000FF
++Max Sphere Niveau
+%Credits: Codejunkies
+$0031EBFF 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031EBF3 000000FF
+$2031EBF4 FFFFFFFF
+$1031EBF8 0000FFFF
+$0031EBFA 000000FF
++Max Treffer
+%Credits: Codejunkies
+$0031EBFA 000000FF
++Max Zauberabwehr
+%Credits: Codejunkies
+$0031EBF6 000000FF
+!!
+!Bahamut:
++Non Présent Dans La Partie
+%Credits: Codejunkies
+$0031F1B8 00000000
++Présent Dans La Partie
+%Credits: Codejunkies
+$0031F1B8 00000011
+!!
+!Bahamut Codes:
++Bat Go To 0
+%Credits: Codejunkies
+$1031F1C8 00000000
++Full HP
+%Credits: Codejunkies
+$1031F1A8 0000270F
++Full MP
+%Credits: Codejunkies
+$1031F1AC 000003E7
++Max Abwehrkraft
+%Credits: Codejunkies
+$0031F1BC 000000FF
++Max Angriffskraft
+%Credits: Codejunkies
+$0031F1BB 000000FF
++Max Geschick
+%Credits: Codejunkies
+$0031F1BF 000000FF
++Max Glunlimited Ck
+%Credits: Codejunkies
+$0031F1C0 000000FF
++Max HP
+%Credits: Codejunkies
+$1031F1B0 0000270F
++Max Magie
+%Credits: Codejunkies
+$0031F1BD 000000FF
++Max MP
+%Credits: Codejunkies
+$1031F1B4 000003E7
++Max Reflex
+%Credits: Codejunkies
+$0031F1C1 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031F1BB 000000FF
+$2031F1BC FFFFFFFF
+$1031F1C0 0000FFFF
+$0031F1C2 000000FF
++Max Treffer
+%Credits: Codejunkies
+$0031F1C2 000000FF
++Max Zauberabwehr
+%Credits: Codejunkies
+$0031F1BE 000000FF
+!!
+!Blitzball Codes:
++Always Win Blitzball
+%Credits: Codejunkies
+$0031AB0E 00000063
+$0031AB71 00000063
+$0031AB0F 00000000
++Botta-5 Tech Slots
+%Credits: Codejunkies
+$0031AA53 00000005
++Datto-5 Tech Slots
+%Credits: Codejunkies
+$0031AA50 00000005
++Jassu-5 Tech Slots
+%Credits: Codejunkies
+$0031AA52 00000005
++Keepa-5 Tech Slots
+%Credits: Codejunkies
+$0031AA54 00000005
++Letty-5 Tech Slots
+%Credits: Codejunkies
+$0031AA51 00000005
++Tidus-5 Tech Slots
+%Credits: Codejunkies
+$0031AA4E 00000005
++Tidus-Max Experience
+%Credits: Codejunkies
+$1031AC24 0000270F
++Tidus-Max Level
+%Credits: Codejunkies
+$0031AA8A 000000FF
++Tidus-Tech Abilities
+%Credits: Codejunkies
+$203176BC FFFFFFFF
+$203177AC FFFFFFFF
+!!
+!Cash & Codes Speciaux:
++Ce Code Doit Rester Actif Pour Grandit Et Retrecit {<I>R1 L1 R2 L2 Haut - Grandit</I>}
+%Credits: Codejunkies
+$200FFF50 3C020030
+$D00FFF54 00000000
+$200FFF54 10000005
+$200FFF5C 8C4306A0
+$200FFF68 AC4306A0
+$200FFF70 24030070
+$200FFF74 080B788C
+$202DE22C 0803FFD4
+$D078AE82 0000FFFF
+$200FFF54 10000005
++Perso Principal-Taille Modifieur
+%Credits: Codejunkies
+$D078AE82 0000F0EF
+$200FFF64 24635000
+$D078AE82 0000F0EF
+$200FFF54 10000000
++R1+L1+R2+R2+Bas - Retrecit
+%Credits: Codejunkies
+$D078AE82 0000F0BF
+$200FFF64 24639FFF
+$D078AE82 0000F0BF
+$200FFF54 10000000
++Tous Les Objets (Infini)
+%Credits: Codejunkies
+$200FFF30 96F30000
+$200FFF38 26730001
+$200FFF3C A6F30002
+$200FFF40 8FA20000
+$200FFF48 080932B5
+$2024CACC 0803FFCC
+$2024C9D4 24110063
+$2024C9E0 A2D10000
+$2031D39C 20012000
+!!
+!Cash and Miscellaneous Codes:
++Hyper Mode
+%Credits: Codejunkies
+$1011ADA4 00000003
+$2057F68C 43000000
+!!
+!Cash And Miscellaneous Codes:
++All Al Bhed Is Translated
+%Credits: Codejunkies
+$2031D1E0 03FFFFFF
++Have All Key Items
+%Credits: Codejunkies
+$2031D95C FFFFFFFF
+$2031D960 000FFFFB
+$1031983C 00000101
++Have All Normal Overdrives
+%Credits: Codejunkies
+$2031D23C FFFFFFFF
+$2031D240 FFFFFFFF
+$2031D244 FFFFFFFF
++Infinite Gil
+%Credits: Codejunkies
+$2031D218 05F5BABE
++No Random Battles
+%Credits: Codejunkies
+$003173F7 00000000
++No Zoom (Press Select+Left To Activate)
+%Credits: Codejunkies
+$D078AE82 0000FF7E
+$20314304 3F6EEEEF
+$D078AE82 0000FF7E
+$20314300 3F4CCCCD
++Show Endings
+%Credits: Codejunkies
+$103194D0 00000186
++Zoom In (Press Select+Down To Activate)
+%Credits: Codejunkies
+$D078AE82 0000FFBE
+$20314300 3FACCCCD
+$D078AE82 0000FFBE
+$20314304 3FCEEEEF
++Zoom Out (Press Select+Up To Activate)
+%Credits: Codejunkies
+$D078AE82 0000FFEE
+$20314304 3EEEEEEF
+$D078AE82 0000FFEE
+$20314300 3ECCCCCD
++Zoom X2 (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D078AE82 0000FFDE
+$20314300 400EEEEF
+$D078AE82 0000FFDE
+$20314304 402EEEEF
+!!
+!Cash And Special Codes:
++Hypermode
+%Credits: Codejunkies
+$1011ADA4 00000003
+$2057F68C 43800000
++Taille Modifier (Pressez R1+R2+L1+L2+Up Pour Grandir Et Pressez R1+R2+L1+L2+Down Pour Rétrécir)
+%Credits: Codejunkies
+$D078AE82 0000F0EF
+$200FFF64 24635000
+$D078AE82 0000F0EF
+$200FFF54 10000000
+$D078AE82 0000F0BF
+$200FFF64 24639FFF
+$D078AE82 0000F0BF
+$200FFF54 10000000
+!!
+!Codes De Combat:
++Coup Tue
+%Credits: Codejunkies
+$200FFE18 240100FF
+$200FFE1C A041026A
+$200FFE20 A0410268
++HP Infini Toute L'equipe {<I>Doit Rester Actif Pour Que Les Autres Codes Fonctionnent</I>}
+%Credits: Codejunkies
+$200FFE00 3C011000
+$200FFE04 AC410290
++Max Overdrive
+%Credits: Codejunkies
+$200FFE44 24010064
+$200FFE48 A041027C
++Max Stat Tous..
+%Credits: Codejunkies
+$200FFE34 2401FFFF
+$200FFE38 AC410268
+$200FFE3C AC41026C
++MP Infiniteini Toute L'equipe
+%Credits: Codejunkies
+$200FFE0C 240103E7
+$200FFE10 AC410294
++Petits Dommages Tous..
+%Credits: Codejunkies
+$200FFE24 240100FF
+$200FFE28 A0410269
+$200FFE2C A041026B
+!!
+!Dug Codes:
++Full HP
+%Credits: Codejunkies
+$1031F3F8 0000270F
++Full MP
+%Credits: Codejunkies
+$1031F3FC 000003E7
++Max Abwehrkraft
+%Credits: Codejunkies
+$0031F40C 000000FF
++Max Angriffskraft
+%Credits: Codejunkies
+$0031F40B 000000FF
++Max Geschick
+%Credits: Codejunkies
+$0031F40F 000000FF
++Max Glunlimited Ck
+%Credits: Codejunkies
+$0031F410 000000FF
++Max HP
+%Credits: Codejunkies
+$1031F400 0000270F
++Max Magie
+%Credits: Codejunkies
+$0031F40D 000000FF
++Max MP
+%Credits: Codejunkies
+$1031F404 000003E7
++Max Reflex
+%Credits: Codejunkies
+$0031F411 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031F40B 000000FF
+$2031F40C FFFFFFFF
+$1031F410 0000FFFF
+$0031F412 000000FF
++Max Treffer
+%Credits: Codejunkies
+$0031F412 000000FF
++Max Zauberabwehr
+%Credits: Codejunkies
+$0031F40E 000000FF
+!!
+!Himarhi Codes:
++All Tech-Spezial-Magie
+%Credits: Codejunkies
+$1031EC96 0000FFFF
+$2031EC98 FFFFFFFF
+$2031EC9C FFFFFFFF
+$1031ECA0 0000FFFF
++Full HP
+%Credits: Codejunkies
+$1031EC74 0000270F
++Full MP
+%Credits: Codejunkies
+$1031EC78 000003E7
++Max Abwehrkraft
+%Credits: Codejunkies
+$0031EC88 000000FF
++Max Angriffskraft
+%Credits: Codejunkies
+$0031EC87 000000FF
++Max Geschick
+%Credits: Codejunkies
+$0031EC8B 000000FF
++Max Glunlimited Ck
+%Credits: Codejunkies
+$0031EC8C 000000FF
++Max HP
+%Credits: Codejunkies
+$1031EC7C 0000270F
++Max Magic
+%Credits: Codejunkies
+$0031EC89 000000FF
++Max MP
+%Credits: Codejunkies
+$1031EC80 000003E7
++Max Reflex
+%Credits: Codejunkies
+$0031EC8D 000000FF
++Max Sphere Niveau
+%Credits: Codejunkies
+$0031EC93 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031EC87 000000FF
+$2031EC88 FFFFFFFF
+$1031EC8C 0000FFFF
+$0031EC8E 000000FF
++Max Treffer
+%Credits: Codejunkies
+$0031EC8E 000000FF
++Max Zauberabwehr
+%Credits: Codejunkies
+$0031EC8A 000000FF
+!!
+!HP Codes:
++HP Complet
+%Credits: Codejunkies
+$1031EAB8 0000270F
++HP Complet
+%Credits: Codejunkies
+$1031EF58 0000270F
++HP Complet
+%Credits: Codejunkies
+$1031EB4C 0000270F
++HP Complet
+%Credits: Codejunkies
+$1031ED9C 0000270F
++HP Complet
+%Credits: Codejunkies
+$1031EE30 0000270F
++HP Complet
+%Credits: Codejunkies
+$1031F2D0 0000270F
++HP Complet
+%Credits: Codejunkies
+$1031ED08 0000270F
++HP Complet
+%Credits: Codejunkies
+$1031F080 0000270F
++HP Complet
+%Credits: Codejunkies
+$1031F114 0000270F
++HP Complet
+%Credits: Codejunkies
+$1031F364 0000270F
++HP Complet
+%Credits: Codejunkies
+$1031F48C 0000270F
++HP Complet
+%Credits: Codejunkies
+$1031EFEC 0000270F
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031EDA4
+$1031EDA4 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031EFF4
+$1031EFF4 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031EAC0
+$1031EAC0 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031EB54
+$1031EB54 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031EBE8
+$1031EBE8 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031EC7C
+$1031EC7C 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031ED10
+$1031ED10 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031EF60
+$1031EF60 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031F1B0
+$1031F1B0 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031F088
+$1031F088 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031F2D8
+$1031F2D8 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031F244
+$1031F244 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031F36C
+$1031F36C 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031F400
+$1031F400 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031F494
+$1031F494 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031F11C
+$1031F11C 000003E8
++Jamais Plus Que 1000 HP
+%Credits: Codejunkies
+$E00103E8 3031EE38
+$1031EE38 000003E8
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031EE38
+$1031EE38 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031EAC0
+$1031EAC0 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031EB54
+$1031EB54 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031EBE8
+$1031EBE8 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031EC7C
+$1031EC7C 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031ED10
+$1031ED10 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031EDA4
+$1031EDA4 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031F494
+$1031F494 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031EF60
+$1031EF60 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031F11C
+$1031F11C 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031F1B0
+$1031F1B0 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031F2D8
+$1031F2D8 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031F244
+$1031F244 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031F36C
+$1031F36C 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031F400
+$1031F400 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031F088
+$1031F088 000009C4
++Jamais Plus Que 2500 HP
+%Credits: Codejunkies
+$E00109C4 3031EFF4
+$1031EFF4 000009C4
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031EAC0
+$1031EAC0 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031EB54
+$1031EB54 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031EBE8
+$1031EBE8 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031EC7C
+$1031EC7C 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031ED10
+$1031ED10 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031EDA4
+$1031EDA4 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031EE38
+$1031EE38 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031EF60
+$1031EF60 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031EFF4
+$1031EFF4 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031F088
+$1031F088 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031F11C
+$1031F11C 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031F1B0
+$1031F1B0 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031F2D8
+$1031F2D8 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031F244
+$1031F244 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031F36C
+$1031F36C 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031F400
+$1031F400 00001388
++Jamais Plus Que 5000 HP
+%Credits: Codejunkies
+$E0011388 3031F494
+$1031F494 00001388
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031EAC0
+$1031EAC0 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031EFF4
+$1031EFF4 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031EBE8
+$1031EBE8 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031EC7C
+$1031EC7C 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031ED10
+$1031ED10 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031EDA4
+$1031EDA4 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031EE38
+$1031EE38 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031EF60
+$1031EF60 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031F494
+$1031F494 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031F088
+$1031F088 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031F11C
+$1031F11C 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031F1B0
+$1031F1B0 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031F2D8
+$1031F2D8 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031F244
+$1031F244 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031F36C
+$1031F36C 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031F400
+$1031F400 00001D4C
++Jamais Plus Que 7500 HP
+%Credits: Codejunkies
+$E0011D4C 3031EB54
+$1031EB54 00001D4C
++Max HP
+%Credits: Codejunkies
+$1031F36C 0000270F
++Max HP
+%Credits: Codejunkies
+$1031EAC0 0000270F
++Max HP
+%Credits: Codejunkies
+$1031ED10 0000270F
++Max HP
+%Credits: Codejunkies
+$1031EDA4 0000270F
++Max HP
+%Credits: Codejunkies
+$1031EB54 0000270F
++Max HP
+%Credits: Codejunkies
+$1031F11C 0000270F
++Max HP
+%Credits: Codejunkies
+$1031EFF4 0000270F
++Max HP
+%Credits: Codejunkies
+$1031F088 0000270F
++Max HP
+%Credits: Codejunkies
+$1031F2D8 0000270F
++Max HP
+%Credits: Codejunkies
+$1031EE38 0000270F
++Max HP
+%Credits: Codejunkies
+$1031EF60 0000270F
++Max HP
+%Credits: Codejunkies
+J57E-A55Y-UVMHp+QXM3-E55M-G481P
+$1031F494 0000270F
+!!
+!Ifrit:
++Non Présent Dans La Partie
+%Credits: Codejunkies
+$0031EFFC 00000000
++Présent Dans La Partie
+%Credits: Codejunkies
+$0031EFFC 00000011
+!!
+!Ifrit Codes:
++Bat Go To 0
+%Credits: Codejunkies
+$1031F00C 00000000
++Full MP
+%Credits: Codejunkies
+$1031EFF0 000003E7
++Max Abwehrkraft
+%Credits: Codejunkies
+$0031F000 000000FF
++Max Angriffskraft
+%Credits: Codejunkies
+$0031EFFF 000000FF
++Max Geschick
+%Credits: Codejunkies
+$0031F003 000000FF
++Max Luck
+%Credits: Codejunkies
+$0031F004 000000FF
++Max Magie
+%Credits: Codejunkies
+$0031F001 000000FF
++Max MP
+%Credits: Codejunkies
+$1031EFF8 000003E7
++Max Reflex
+%Credits: Codejunkies
+$0031F005 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031EFFF 000000FF
+$2031F000 FFFFFFFF
+$1031F004 0000FFFF
+$0031F006 000000FF
++Max Treffer
+%Credits: Codejunkies
+$0031F006 000000FF
++Max Zauberabwehr
+%Credits: Codejunkies
+$0031F002 000000FF
+!!
+!In Battle Codes:
++Infinite Health For All Characters And Summons
+%Credits: Codejunkies
+$200FFE00 3C0105F5
+$200FFE04 AC410290
+!!
+!In-Battle Codes:
++Must Be On
+%Credits: Codejunkies
+$200FFE84 8C420294
+$200FFE80 0806EC89
+$201BB220 0803FF80
+!!
+!Ixion:
++Non Présent Dans La Partie
+%Credits: Codejunkies
+$0031F090 00000000
++Présent Dans La Partie
+%Credits: Codejunkies
+$0031F090 00000011
+!!
+!Ixion Codes:
++Bat Go To 0
+%Credits: Codejunkies
+$1031F0A0 00000000
++Full MP
+%Credits: Codejunkies
+$1031F084 000003E7
++Max Abwehrkraft
+%Credits: Codejunkies
+$0031F094 000000FF
++Max Angriffskraft
+%Credits: Codejunkies
+$0031F093 000000FF
++Max Geschick
+%Credits: Codejunkies
+$0031F097 000000FF
++Max Glunlimited Ck
+%Credits: Codejunkies
+$0031F098 000000FF
++Max Magie
+%Credits: Codejunkies
+$0031F095 000000FF
++Max MP
+%Credits: Codejunkies
+$1031F08C 000003E7
++Max Reflex
+%Credits: Codejunkies
+$0031F099 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031F093 000000FF
+$2031F094 FFFFFFFF
+$1031F098 0000FFFF
+$0031F09A 000000FF
++Max Treffer
+%Credits: Codejunkies
+$0031F09A 000000FF
++Max Zauberabwehr
+%Credits: Codejunkies
+$0031F096 000000FF
+!!
+!Kimahri:
++Non Présent Dans La Partie
+%Credits: Codejunkies
+$0031EC84 00000000
+!!
+!Les Codes Suivants Disactivent Les Perso Pdt Les Batailles:
++Lulu Disactivee
+%Credits: Codejunkies
+$0031EDAC 00000000
++Rikku Disactivee
+%Credits: Codejunkies
+$0031EE40 00000000
++Seymour Disactive
+%Credits: Codejunkies
+$0031EED4 00000000
++Shiva Disactives
+%Credits: Codejunkies
+$0031F124 00000000
++Soeurs Mag Disact
+%Credits: Codejunkies
+$0031F374 00000000
+$0031F408 00000000
+$0031F49C 00000000
++Wakka Disactive
+%Credits: Codejunkies
+$0031ED18 00000000
++Yojimbo Disactive
+%Credits: Codejunkies
+$0031F2E0 00000000
++Yuna Disactivee
+%Credits: Codejunkies
+$0031EB5C 00000000
+!!
+!Lulu Codes:
++All Tech-Spezial-Magie
+%Credits: Codejunkies
+$1031EDBE 0000FFFF
+$2031EDC0 FFFFFFFF
+$2031EDC4 FFFFFFFF
+$1031EDC8 0000FFFF
++Full MP
+%Credits: Codejunkies
+$1031EDA0 000003E7
++Max Abwehrkraft
+%Credits: Codejunkies
+$0031EDB0 000000FF
++Max Angriffskraft
+%Credits: Codejunkies
+$0031EDAF 000000FF
++Max Geschick
+%Credits: Codejunkies
+$0031EDB3 000000FF
++Max Glunlimited Ck
+%Credits: Codejunkies
+$0031EDB4 000000FF
++Max Magie
+%Credits: Codejunkies
+$0031EDB1 000000FF
++Max MP
+%Credits: Codejunkies
+$1031EDA8 000003E7
++Max Reflex
+%Credits: Codejunkies
+$0031EDB5 000000FF
++Max Sphere Niveau
+%Credits: Codejunkies
+$0031EDBB 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031EDAF 000000FF
+$2031EDB0 FFFFFFFF
+$1031EDB4 0000FFFF
+$0031EDB6 000000FF
++Max Treffer
+%Credits: Codejunkies
+$0031EDB6 000000FF
++Max Zauberabwehr
+%Credits: Codejunkies
+$0031EDB2 000000FF
+!!
+!Magus Sisters:
++In Party
+%Credits: Codejunkies
+$0031F374 00000011
+$0031F408 00000011
+$0031F49C 00000011
+!!
+!Miscellaneous Codes:
++Have All Items At Infinite
+%Credits: Codejunkies
+$200FFF30 96F30000
+$200FFF38 26730001
+$200FFF3C A6F30002
+$200FFF40 8FA20000
+$200FFF48 080932B7
+$2024CAD4 0803FFCC
+$2024C9DC 24110063
+$2024C9E8 A2D10000
+$2031D39C 20012000
++Must Be On For Grow And Shrink
+%Credits: Codejunkies
+$200FFF50 3C020030
+$D00FFF54 00000000
+$200FFF54 10000005
+$200FFF5C 8C4306A0
+$200FFF68 AC4306A0
+$200FFF70 24030070
+$200FFF74 080B788E
+$202DE234 0803FFD4
+$D078AE82 0000FFFF
+$200FFF54 10000005
++Press R1+L1+R2+L2+Up To Grow
+%Credits: Codejunkies
+$D078AE82 0000F0EF
+$200FFF64 24637000
+$D078AE82 0000F0EF
+$200FFF54 10000000
++Press R1+L1+R2+R2+Down To Shrink
+%Credits: Codejunkies
+$D078AE82 0000F0BF
+$200FFF64 24638FFF
+$D078AE82 0000F0BF
+$200FFF54 10000000
++Size Modifier (Press R1+R2+L1+L2+Up To Grow And R1+R2+L1+L2+Down To Shrink)
+%Credits: Codejunkies
+$D078AE82 0000F0EF
+$200FFF64 24637000
+$D078AE82 0000F0EF
+$200FFF54 10000000
+$D078AE82 0000F0BF
+$200FFF64 24638FFF
+$D078AE82 0000F0BF
+$200FFF54 10000000
+!!
+!MP Codes:
++Batailles Pour Renaitre
+%Credits: Codejunkies
+$1031EF78 00000000
++Batailles Pour Renaitre
+%Credits: Codejunkies
+$1031F134 00000000
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031EF64
+$1031EF64 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031EAC4
+$1031EAC4 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031EB58
+$1031EB58 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031EBEC
+$1031EBEC 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031EC80
+$1031EC80 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031EDA8
+$1031EDA8 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031EE3C
+$1031EE3C 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031F1B4
+$1031F1B4 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031ED14
+$1031ED14 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031F08C
+$1031F08C 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031F120
+$1031F120 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031F2DC
+$1031F2DC 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031F248
+$1031F248 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031F370
+$1031F370 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031F404
+$1031F404 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$E0010064 3031F498
+$1031F498 00000064
++Jamais Plus Que 100 MP
+%Credits: Codejunkies
+$1031EFF8 00000064
+$1031EFF8 00000064
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031EDA8
+$1031EDA8 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031EF64
+$1031EF64 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031EAC4
+$1031EAC4 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031EB58
+$1031EB58 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031EBEC
+$1031EBEC 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031EC80
+$1031EC80 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031ED14
+$1031ED14 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031EE3C
+$1031EE3C 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031F370
+$1031F370 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$1031EFF8 000000FA
+$1031EFF8 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031F120
+$1031F120 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031F1B4
+$1031F1B4 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031F2DC
+$1031F2DC 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031F248
+$1031F248 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031F498
+$1031F498 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031F08C
+$1031F08C 000000FA
++Jamais Plus Que 250 MP
+%Credits: Codejunkies
+$E00100FA 3031F404
+$1031F404 000000FA
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031EDA8
+$1031EDA8 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031EF64
+$1031EF64 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031EAC4
+$1031EAC4 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031EB58
+$1031EB58 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031EBEC
+$1031EBEC 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031EC80
+$1031EC80 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031ED14
+$1031ED14 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031EE3C
+$1031EE3C 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031F120
+$1031F120 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$1031EFF8 000001F4
+$1031EFF8 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031F08C
+$1031F08C 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031F1B4
+$1031F1B4 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031F248
+$1031F248 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031F370
+$1031F370 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031F404
+$1031F404 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031F498
+$1031F498 000001F4
++Jamais Plus Que 500 MP
+%Credits: Codejunkies
+$E00101F4 3031F2DC
+$1031F2DC 000001F4
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031F498
+$1031F498 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031EF64
+$1031EF64 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031F404
+$1031F404 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031EAC4
+$1031EAC4 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031EB58
+$1031EB58 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031EC80
+$1031EC80 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031EDA8
+$1031EDA8 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031EE3C
+$1031EE3C 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031EBEC
+$1031EBEC 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$1031EFF8 000002EE
+$1031EFF8 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031F08C
+$1031F08C 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031F120
+$1031F120 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031F1B4
+$1031F1B4 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031F2DC
+$1031F2DC 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031F248
+$1031F248 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031F370
+$1031F370 000002EE
++Jamais Plus Que 750 MP
+%Credits: Codejunkies
+$E00102EE 3031ED14
+$1031ED14 000002EE
++Max Accuracy
+%Credits: Codejunkies
++Max Chance
+%Credits: Codejunkies
+$0031EAD0 000000FF
++Max Chance
+%Credits: Codejunkies
+$0031F4A4 000000FF
++Max Chance
+%Credits: Codejunkies
+$0031F37C 000000FF
++Max Chance
+%Credits: Codejunkies
+$0031F2E8 000000FF
++Max Chance
+%Credits: Codejunkies
+$0031ED20 000000FF
++Max Chance
+%Credits: Codejunkies
+$0031EF70 000000FF
++Max Chance
+%Credits: Codejunkies
+$0031EE48 000000FF
++Max Chance
+%Credits: Codejunkies
+$0031EB64 000000FF
++Max Chance
+%Credits: Codejunkies
+$0031F12C 000000FF
++Max Constitution
+%Credits: Codejunkies
+$0031EE44 000000FF
++Max Constitution
+%Credits: Codejunkies
+$0031EACC 000000FF
++Max Constitution
+%Credits: Codejunkies
+$0031EB60 000000FF
++Max Constitution
+%Credits: Codejunkies
+$0031ED1C 000000FF
++Max Constitution
+%Credits: Codejunkies
+$0031EF6C 000000FF
++Max Constitution
+%Credits: Codejunkies
+$0031F2E4 000000FF
++Max Constitution
+%Credits: Codejunkies
+$0031F378 000000FF
++Max Constitution
+%Credits: Codejunkies
+$0031F4A0 000000FF
++Max Constitution
+%Credits: Codejunkies
+$0031F128 000000FF
++Max Esprit
+%Credits: Codejunkies
+$0031F37A 000000FF
++Max Esprit
+%Credits: Codejunkies
+$0031F4A2 000000FF
++Max Esprit
+%Credits: Codejunkies
+$0031F2E6 000000FF
++Max Esprit
+%Credits: Codejunkies
+$0031EACE 000000FF
++Max Esprit
+%Credits: Codejunkies
+$0031EE46 000000FF
++Max Esprit
+%Credits: Codejunkies
+$0031ED1E 000000FF
++Max Esprit
+%Credits: Codejunkies
+$0031EB62 000000FF
++Max Esprit
+%Credits: Codejunkies
+$0031F12A 000000FF
++Max Esquive
+%Credits: Codejunkies
+$0031F4A5 000000FF
++Max Esquive
+%Credits: Codejunkies
+$0031F37D 000000FF
++Max Esquive
+%Credits: Codejunkies
+$0031F2E9 000000FF
++Max Esquive
+%Credits: Codejunkies
+$0031F12D 000000FF
++Max Esquive
+%Credits: Codejunkies
+$0031EAD1 000000FF
++Max Esquive
+%Credits: Codejunkies
+$0031EE49 000000FF
++Max Esquive
+%Credits: Codejunkies
+$0031ED21 000000FF
++Max Esquive
+%Credits: Codejunkies
+$0031EB65 000000FF
++Max Esquive
+%Credits: Codejunkies
+$0031EF71 000000FF
++Max Force
+%Credits: Codejunkies
+$0031EB5F 000000FF
++Max Force
+%Credits: Codejunkies
+$0031EACB 000000FF
++Max Force
+%Credits: Codejunkies
+$0031EF6B 000000FF
++Max Force
+%Credits: Codejunkies
+$0031ED1B 000000FF
++Max Force
+%Credits: Codejunkies
+$0031F49F 000000FF
++Max Force
+%Credits: Codejunkies
+$0031F127 000000FF
++Max Force
+%Credits: Codejunkies
+$0031F2E3 000000FF
++Max Force
+%Credits: Codejunkies
+$0031F377 000000FF
++Max Force
+%Credits: Codejunkies
+$0031EE43 000000FF
++Max Magie
+%Credits: Codejunkies
+$0031F4A1 000000FF
++Max Magie
+%Credits: Codejunkies
+$0031F379 000000FF
++Max Magie
+%Credits: Codejunkies
+$0031F2E5 000000FF
++Max Magie
+%Credits: Codejunkies
+$0031EF6D 000000FF
++Max Magie
+%Credits: Codejunkies
+$0031EE45 000000FF
++Max Magie
+%Credits: Codejunkies
+$0031EB61 000000FF
++Max Magie
+%Credits: Codejunkies
+$0031EACD 000000FF
++Max Magie
+%Credits: Codejunkies
+$0031F129 000000FF
++Max Magie
+%Credits: Codejunkies
+$0031ED1D 000000FF
++Max Magie Def
+%Credits: Codejunkies
+$0031EF6E 000000FF
++Max MP
+%Credits: Codejunkies
+$1031EE3C 000003E7
++Max MP
+%Credits: Codejunkies
+$1031EB58 000003E7
++Max MP
+%Credits: Codejunkies
+$1031EF64 000003E7
++Max MP
+%Credits: Codejunkies
+$1031EAC4 000003E7
++Max MP
+%Credits: Codejunkies
+$1031ED14 000003E7
++Max MP
+%Credits: Codejunkies
+$1031F498 000003E7
++Max MP
+%Credits: Codejunkies
+$1031F370 000003E7
++Max MP
+%Credits: Codejunkies
+$1031F120 000003E7
++Max MP
+%Credits: Codejunkies
+$1031F2DC 000003E7
++Max Precision
+%Credits: Codejunkies
+$0031EB66 000000FF
++Max Precision
+%Credits: Codejunkies
+$0031F4A6 000000FF
++Max Precision
+%Credits: Codejunkies
+$0031F37E 000000FF
++Max Precision
+%Credits: Codejunkies
+$0031F2EA 000000FF
++Max Precision
+%Credits: Codejunkies
+$0031F12E 000000FF
++Max Precision
+%Credits: Codejunkies
+$0031ED22 000000FF
++Max Precision
+%Credits: Codejunkies
+$0031EE4A 000000FF
++Max Precision
+%Credits: Codejunkies
+$0031EF72 000000FF
++Max Precision
+%Credits: Codejunkies
+$0031EAD2 000000FF
++Max Rapidite
+%Credits: Codejunkies
+$0031F4A3 000000FF
++Max Rapidite
+%Credits: Codejunkies
+$0031F37B 000000FF
++Max Rapidite
+%Credits: Codejunkies
+$0031F2E7 000000FF
++Max Rapidite
+%Credits: Codejunkies
+$0031F12B 000000FF
++Max Rapidite
+%Credits: Codejunkies
+$0031EACF 000000FF
++Max Rapidite
+%Credits: Codejunkies
+$0031EE47 000000FF
++Max Rapidite
+%Credits: Codejunkies
+$0031ED1F 000000FF
++Max Rapidite
+%Credits: Codejunkies
+$0031EB63 000000FF
++Max Rapidite
+%Credits: Codejunkies
+$0031EF6F 000000FF
++Max Sphere Level
+%Credits: Codejunkies
+$0031EAD7 000000FF
++Max Sphere Level
+%Credits: Codejunkies
+$0031EB6B 000000FF
++Max Sphere Level
+%Credits: Codejunkies
+$0031ED27 000000FF
++Max Sphere Level
+%Credits: Codejunkies
+$0031EE4F 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031EF6B 000000FF
+$2031EF6C FFFFFFFF
+$1031EF70 0000FFFF
+$0031EF72 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031F49F 000000FF
+$2031F4A0 FFFFFFFF
+$1031F4A4 0000FFFF
+$0031F4A6 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031F377 000000FF
+$2031F378 FFFFFFFF
+$1031F37C 0000FFFF
+$0031F37C 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031F2E3 000000FF
+$2031F2E4 FFFFFFFF
+$1031F2E6 0000FFFF
+$0031F2E7 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031F127 000000FF
+$2031F128 FFFFFFFF
+$1031F12C 0000FFFF
+$0031F12E 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031EE43 000000FF
+$2031EE44 FFFFFFFF
+$1031EE48 0000FFFF
+$0031EE4A 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031ED1B 000000FF
+$2031ED1C FFFFFFFF
+$1031ED20 0000FFFF
+$0031ED22 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031EB5F 000000FF
+$2031EB60 FFFFFFFF
+$1031EB62 0000FFFF
+$0031EB63 000000FF
++Max Stats
+%Credits: Codejunkies
+$0031EACB 000000FF
+$2031EACC FFFFFFFF
+$1031EAD0 0000FFFF
+$0031EAD2 000000FF
++MP Complet
+%Credits: Codejunkies
+$1031EABC 000003E7
++MP Complet
+%Credits: Codejunkies
+$1031ED0C 000003E7
++MP Complet
+%Credits: Codejunkies
+$1031EE34 000003E7
++MP Complet
+%Credits: Codejunkies
+$1031EB50 000003E7
++MP Complet
+%Credits: Codejunkies
+$1031F490 000003E7
++MP Complet
+%Credits: Codejunkies
+$1031F368 000003E7
++MP Complet
+%Credits: Codejunkies
+$1031F118 000003E7
++MP Complet
+%Credits: Codejunkies
+$1031EF5C 000003E7
++MP Complet
+%Credits: Codejunkies
+$1031F2D4 000003E7
++Tous Les Speciaux, Tech, Magie Blanche Et Magie Noire
+%Credits: Codejunkies
+$1031EB6E 0000FFFF
+$2031EB70 FFFFFFFF
+$2031EB74 FFFFFFFF
+$1031EB78 0000FFFF
++Tous Les Speciaux, Tech, Magie Blanche Et Magie Noire
+%Credits: Codejunkies
+$1031ED2A 0000FFFF
+$2031ED2C FFFFFFFF
+$2031ED30 FFFFFFFF
+$1031ED34 0000FFFF
++Tous Les Speciaux, Tech, Magie Blanche Et Magie Noire
+%Credits: Codejunkies
+$1031EADA 0000FFFF
+$2031EADC FFFFFFFF
+$2031EAE0 FFFFFFFF
+$1031EAE4 0000FFFF
++Tous Les Speciaux, Tech, Magie Blanche Et Magie Noire
+%Credits: Codejunkies
+U75D-YGQ4-D5EHp+U2XE-GFBX-JPKM4
+QDE1-QF7G-627Hp+HXDC-380J-991BV
+$1031EE52 0000FFFF
+$2031EE54 FFFFFFFF
+$2031EE58 FFFFFFFF
+$1031EE5C 0000FFFF
++Never Have More Than 100 MP
+%Credits: Codejunkies
+$E0010064 3031EFF8
+$1031EFF8 00000064
++Never Have More Than 250 MP
+%Credits: Codejunkies
+$E00100FA 3031EFF8
+$1031EFF8 000000FA
++Never Have More Than 500 MP
+%Credits: Codejunkies
+$E00101F4 3031EFF8
+$1031EFF8 000001F4
++Never Have More Than 750 MP
+%Credits: Codejunkies
+$E00102EE 3031EFF8
+$1031EFF8 000002EE
+!!
+!Seymour Codes:
++All Skills
+%Credits: Codejunkies
+$1031EEEA 0000FFFF
+$2031EEEC FFFFFFFF
+$2031EEF0 FFFFFFFF
+$1031EEF4 0000FFFF
++Full HP
+%Credits: Codejunkies
+$1031EEC4 0000270F
++Full MP
+%Credits: Codejunkies
+$1031EEC8 000003E7
++Max HP
+%Credits: Codejunkies
+$1031EECC 0000270F
++Max MP
+%Credits: Codejunkies
+$1031EED0 000003E7
++Max Stats
+%Credits: Codejunkies
+$0031EED7 000000FF
+$2031EED8 FFFFFFFF
+$1031EEDC 0000FFFF
+$0031EEDE 000000FF
+!!
+!Shiva:
++Présent Dans La Partie
+%Credits: Codejunkies
+$0031F124 00000011
+!!
+!The Weapon Becomes Usable By...:
++Auron
+%Credits: Codejunkies
+$0031D970 00000002
++Kimahri
+%Credits: Codejunkies
+$0031D970 00000003
++Lulu
+%Credits: Codejunkies
+$0031D970 00000005
++Rikku
+%Credits: Codejunkies
+$0031D970 00000006
++Tidus
+%Credits: Codejunkies
+$0031D970 00000000
++Wakka
+%Credits: Codejunkies
+$0031D970 00000004
++Yuna
+%Credits: Codejunkies
+$0031D970 00000001
+!!
+!The Weapon Will Keep It's Stats, But The Graphic For It Will Change.:
++Auron's 1St Weapon
+%Credits: Codejunkies
+$1031D978 00004015
++Auron's 2Nd Weapon
+%Credits: Codejunkies
+$1031D978 00004016
++Auron's 3Rd Weapon
+%Credits: Codejunkies
+$1031D978 00004017
++Auron's 4Th Weapon
+%Credits: Codejunkies
+$1031D978 00004018
++Auron's 5Th Weapon
+%Credits: Codejunkies
+$1031D978 00004019
++Auron's Weapon
+%Credits: Codejunkies
+$1031D978 00004008
++Kimarhi's 1St Weapon
+%Credits: Codejunkies
+$1031D978 0000401F
++Kimarhi's 2Nd Weapon
+%Credits: Codejunkies
+$1031D978 00004020
++Kimarhi's 3Rd Weapon
+%Credits: Codejunkies
+$1031D978 00004021
++Kimarhi's 4Th Weapon
+%Credits: Codejunkies
+$1031D978 00004022
++Kimarhi's 5Th Weapon
+%Credits: Codejunkies
+$1031D978 00004023
++Kimarhi's 6Th Weapon
+%Credits: Codejunkies
+$1031D978 00004024
++Lulu's 1St Weapon
+%Credits: Codejunkies
+$1031D978 00004033
++Lulu's 2Nd Weapon
+%Credits: Codejunkies
+$1031D978 00004034
++Lulu's 3Rd Weapon
+%Credits: Codejunkies
+$1031D978 00004035
++Lulu's 4Th Weapon
+%Credits: Codejunkies
+$1031D978 00004036
++Lulu's 5Th Weapon
+%Credits: Codejunkies
+$1031D978 00004037
++Lulu's 7Th Weapon
+%Credits: Codejunkies
+$1031D978 00004038
++Tidus' 1St Weapon
+%Credits: Codejunkies
+$1031D978 00004001
++Tidus' 2Nd Weapon
+%Credits: Codejunkies
+$1031D978 00004002
++Tidus' 3Rd Weapon
+%Credits: Codejunkies
+$1031D978 00004003
++Tidus' 4Th Weapon
+%Credits: Codejunkies
+$1031D978 00004004
++Tidus' 5Th Weapon
+%Credits: Codejunkies
+$1031D978 00004005
++Tidus' 6Th Weapon
+%Credits: Codejunkies
+$1031D978 00004006
++Tidus' 7Th Weapon
+%Credits: Codejunkies
+$1031D978 00004007
++Wakka's 1St Weapon
+%Credits: Codejunkies
+$1031D978 00004029
++Wakka's 2Nd Weapon
+%Credits: Codejunkies
+$1031D978 0000402A
++Wakka's 3Rd Weapon
+%Credits: Codejunkies
+$1031D978 0000402B
++Wakka's 4Th Weapon
+%Credits: Codejunkies
+$1031D978 0000402C
++Wakka's 5Th Weapon
+%Credits: Codejunkies
+$1031D978 0000402D
++Yuna's 1St Weapon
+%Credits: Codejunkies
+$1031D978 0000400B
++Yuna's 2Nd Weapon
+%Credits: Codejunkies
+$1031D978 0000400C
++Yuna's 3Rd Weapon
+%Credits: Codejunkies
+$1031D978 0000400D
++Yuna's 4Th Weapon
+%Credits: Codejunkies
+$1031D978 0000400E
++Yuna's 5Th Weapon
+%Credits: Codejunkies
+$1031D978 0000400F
++Yuna's 6Th Weapon
+%Credits: Codejunkies
+$1031D978 00004010
+!!
+!Use Codes After the Sphere Grid Tutorial:
++Pal2ntsc
+%Credits: Nachbrenner
+$202D98D8 24120002
+$2011AE48 24060002
+$2011AEA0 24060002
++X-Fix (RGB)
+%Credits: Nachbrenner
+$102D9BA4 00000290
+$102D9C00 00000290
++Y Fix
+%Credits: Nachbrenner
+$002D9B78 00000010
+$002D9BD8 00000010
+$002D9C20 00000010
+$002D9CA0 00000010
+!!
+!Weapon Modifier 2:
++1St Slot 3Rd Ability: Auto-Haste
+%Credits: Codejunkies
+$1031D97E 00008056
++1St Slot 3Rd Ability: Auto-Haste
+%Credits: Codejunkies
+$1031D97E 00008058
++1St Slot 3Rd Ability: Auto-Protect
+%Credits: Codejunkies
+$1031D97E 00008055
++1St Slot 3Rd Ability: Auto-Regen
+%Credits: Codejunkies
+$1031D97E 00008057
++1St Slot 3Rd Ability: Auto-Shell
+%Credits: Codejunkies
+$1031D97E 00008054
++1St Slot 3Rd Ability: Bersekproof
+%Credits: Codejunkies
+$1031D97E 00008050
++1St Slot 3Rd Ability: Berserkward
+%Credits: Codejunkies
+$1031D97E 00008051
++1St Slot 3Rd Ability: Capture
+%Credits: Codejunkies
+$1031D97E 0000807A
++1St Slot 3Rd Ability: Confuseproof
+%Credits: Codejunkies
+$1031D97E 0000804E
++1St Slot 3Rd Ability: Confuseward
+%Credits: Codejunkies
+$1031D97E 0000804F
++1St Slot 3Rd Ability: Curseproof
+%Credits: Codejunkies
+$1031D97E 00008052
++1St Slot 3Rd Ability: Curseward
+%Credits: Codejunkies
+$1031D97E 00008053
++1St Slot 3Rd Ability: Darkproof
+%Credits: Codejunkies
+$1031D97E 00008048
++1St Slot 3Rd Ability: Darkstrike
+%Credits: Codejunkies
+$1031D97E 00008046
++1St Slot 3Rd Ability: Darktouch
+%Credits: Codejunkies
+$1031D97E 00008047
++1St Slot 3Rd Ability: Darkward
+%Credits: Codejunkies
+$1031D97E 00008049
++1St Slot 3Rd Ability: Def+20
+%Credits: Codejunkies
+$1031D97E 0000806D
++1St Slot 3Rd Ability: Distil Ability
+%Credits: Codejunkies
+$1031D97E 0000807F
++1St Slot 3Rd Ability: Distil Mana
+%Credits: Codejunkies
+$1031D97E 0000807D
++1St Slot 3Rd Ability: Distil Power
+%Credits: Codejunkies
+$1031D97E 0000807C
++1St Slot 3Rd Ability: Distil Speed
+%Credits: Codejunkies
+$1031D97E 0000807E
++1St Slot 3Rd Ability: HP+30
+%Credits: Codejunkies
+$1031D97E 00008075
++1St Slot 3Rd Ability: Mag Def+20
+%Credits: Codejunkies
+$1031D97E 00008071
++1St Slot 3Rd Ability: Magic+20
+%Credits: Codejunkies
+$1031D97E 00008069
++1St Slot 3Rd Ability: MP+30
+%Credits: Codejunkies
+$1031D97E 00008079
++1St Slot 3Rd Ability: Ribbon
+%Credits: Codejunkies
+$1031D97E 00008080
++1St Slot 3Rd Ability: Silenceproof
+%Credits: Codejunkies
+$1031D97E 00008044
++1St Slot 3Rd Ability: Silencestrike
+%Credits: Codejunkies
+$1031D97E 00008042
++1St Slot 3Rd Ability: Silencetouch
+%Credits: Codejunkies
+$1031D97E 00008043
++1St Slot 3Rd Ability: Silenceward
+%Credits: Codejunkies
+$1031D97E 00008045
++1St Slot 3Rd Ability: Sleepproof
+%Credits: Codejunkies
+$1031D97E 00008040
++1St Slot 3Rd Ability: Sleepstrike
+%Credits: Codejunkies
+$1031D97E 0000803E
++1St Slot 3Rd Ability: Sleeptouch
+%Credits: Codejunkies
+$1031D97E 0000803F
++1St Slot 3Rd Ability: Sleepward
+%Credits: Codejunkies
+$1031D97E 00008041
++1St Slot 3Rd Ability: Slowproof
+%Credits: Codejunkies
+$1031D97E 0000804C
++1St Slot 3Rd Ability: Slowstrike
+%Credits: Codejunkies
+$1031D97E 0000804A
++1St Slot 3Rd Ability: Slowtouch
+%Credits: Codejunkies
+$1031D97E 0000804B
++1St Slot 3Rd Ability: Slowward
+%Credits: Codejunkies
+$1031D97E 0000804D
++1St Slot 3Rd Ability: Sos Haste
+%Credits: Codejunkies
+$1031D97E 0000805B
++1St Slot 3Rd Ability: Sos Nullblaze
+%Credits: Codejunkies
+$1031D97E 00008061
++1St Slot 3Rd Ability: Sos Nullfrost
+%Credits: Codejunkies
+$1031D97E 0000805F
++1St Slot 3Rd Ability: Sos Nullshock
+%Credits: Codejunkies
+$1031D97E 00008060
++1St Slot 3Rd Ability: Sos Nulltide
+%Credits: Codejunkies
+$1031D97E 0000805E
++1St Slot 3Rd Ability: Sos Protect
+%Credits: Codejunkies
+$1031D97E 0000805A
++1St Slot 3Rd Ability: Sos Reflect
+%Credits: Codejunkies
+$1031D97E 0000805D
++1St Slot 3Rd Ability: Sos Regen
+%Credits: Codejunkies
+$1031D97E 0000805C
++1St Slot 3Rd Ability: Sos Shell
+%Credits: Codejunkies
+$1031D97E 00008059
++1St Slot 3Rd Ability: Strength+20
+%Credits: Codejunkies
+$1031D97E 00008065
+!!
+!Weapon Modifier 3:
++1St Slot 4Th Ability: Alchemy
+%Credits: Codejunkies
+$1031D980 00008007
++1St Slot 4Th Ability: Auto Potion
+%Credits: Codejunkies
+$1031D980 00008008
++1St Slot 4Th Ability: Auto-Haste
+%Credits: Codejunkies
+$1031D980 00008056
++1St Slot 4Th Ability: Auto-Haste
+%Credits: Codejunkies
+$1031D980 00008058
++1St Slot 4Th Ability: Auto-Med
+%Credits: Codejunkies
+$1031D980 00008009
++1St Slot 4Th Ability: Auto-Phoenix
+%Credits: Codejunkies
+$1031D980 0000800A
++1St Slot 4Th Ability: Auto-Protect
+%Credits: Codejunkies
+$1031D980 00008055
++1St Slot 4Th Ability: Auto-Regen
+%Credits: Codejunkies
+$1031D980 00008057
++1St Slot 4Th Ability: Auto-Shell
+%Credits: Codejunkies
+$1031D980 00008054
++1St Slot 4Th Ability: Bersekproof
+%Credits: Codejunkies
+$1031D980 00008050
++1St Slot 4Th Ability: Berserkward
+%Credits: Codejunkies
+$1031D980 00008051
++1St Slot 4Th Ability: Break Damage Limit
+%Credits: Codejunkies
+$1031D980 00008019
++1St Slot 4Th Ability: Break HP Limit
+%Credits: Codejunkies
+$1031D980 00008017
++1St Slot 4Th Ability: Break MP Limit
+%Credits: Codejunkies
+$1031D980 00008018
++1St Slot 4Th Ability: Capture
+%Credits: Codejunkies
+$1031D980 0000807A
++1St Slot 4Th Ability: Confuseproof
+%Credits: Codejunkies
+$1031D980 0000804E
++1St Slot 4Th Ability: Confuseward
+%Credits: Codejunkies
+$1031D980 0000804F
++1St Slot 4Th Ability: Counter Attack
+%Credits: Codejunkies
+$1031D980 00008003
++1St Slot 4Th Ability: Curseproof
+%Credits: Codejunkies
+$1031D980 00008052
++1St Slot 4Th Ability: Curseward
+%Credits: Codejunkies
+$1031D980 00008053
++1St Slot 4Th Ability: Darkproof
+%Credits: Codejunkies
+$1031D980 00008048
++1St Slot 4Th Ability: Darkstrike
+%Credits: Codejunkies
+$1031D980 00008046
++1St Slot 4Th Ability: Darktouch
+%Credits: Codejunkies
+$1031D980 00008047
++1St Slot 4Th Ability: Darkward
+%Credits: Codejunkies
+$1031D980 00008049
++1St Slot 4Th Ability: Deathproof
+%Credits: Codejunkies
+$1031D980 00008030
++1St Slot 4Th Ability: Deathstrike
+%Credits: Codejunkies
+$1031D980 0000802E
++1St Slot 4Th Ability: Deathtouch
+%Credits: Codejunkies
+$1031D980 0000802F
++1St Slot 4Th Ability: Deathward
+%Credits: Codejunkies
+$1031D980 00008031
++1St Slot 4Th Ability: Def+3
+%Credits: Codejunkies
+$1031D980 0000806A
++1St Slot 4Th Ability: Def+5
+%Credits: Codejunkies
+$1031D980 0000806B
++1St Slot 4Th Ability: Def+10
+%Credits: Codejunkies
+$1031D980 0000806C
++1St Slot 4Th Ability: Def+20
+%Credits: Codejunkies
+$1031D980 0000806D
++1St Slot 4Th Ability: Distil Ability
+%Credits: Codejunkies
+$1031D980 0000807F
++1St Slot 4Th Ability: Distil Mana
+%Credits: Codejunkies
+$1031D980 0000807D
++1St Slot 4Th Ability: Distil Power
+%Credits: Codejunkies
+$1031D980 0000807C
++1St Slot 4Th Ability: Distil Speed
+%Credits: Codejunkies
+$1031D980 0000807E
++1St Slot 4Th Ability: Double Ap
+%Credits: Codejunkies
+$1031D980 00008012
++1St Slot 4Th Ability: Double Overdrive
+%Credits: Codejunkies
+$1031D980 0000800E
++1St Slot 4Th Ability: Evade And Counter
+%Credits: Codejunkies
+$1031D980 00008004
++1St Slot 4Th Ability: Fire Eater
+%Credits: Codejunkies
+$1031D980 00008021
++1St Slot 4Th Ability: Fireproof
+%Credits: Codejunkies
+$1031D980 00008020
++1St Slot 4Th Ability: Firestrike
+%Credits: Codejunkies
+$1031D980 0000801E
++1St Slot 4Th Ability: Fireward
+%Credits: Codejunkies
+$1031D980 0000801F
++1St Slot 4Th Ability: First Strike
+%Credits: Codejunkies
+$1031D980 00008001
++1St Slot 4Th Ability: Gillionaire
+%Credits: Codejunkies
+$1031D980 0000801A
++1St Slot 4Th Ability: Half MP Cost
+%Credits: Codejunkies
+$1031D980 0000800C
++1St Slot 4Th Ability: Have Sensor
+%Credits: Codejunkies
+$1031D980 00008000
++1St Slot 4Th Ability: HP Stroll
+%Credits: Codejunkies
+$1031D980 0000801B
++1St Slot 4Th Ability: HP+5
+%Credits: Codejunkies
+$1031D980 00008072
++1St Slot 4Th Ability: HP+10
+%Credits: Codejunkies
+$1031D980 00008073
++1St Slot 4Th Ability: HP+20
+%Credits: Codejunkies
+$1031D980 00008074
++1St Slot 4Th Ability: HP+30
+%Credits: Codejunkies
+$1031D980 00008075
++1St Slot 4Th Ability: Ice Eater
+%Credits: Codejunkies
+$1031D980 00008025
++1St Slot 4Th Ability: Ice Proof
+%Credits: Codejunkies
+$1031D980 00008024
++1St Slot 4Th Ability: Ice Ward
+%Credits: Codejunkies
+$1031D980 00008023
++1St Slot 4Th Ability: Icestrike
+%Credits: Codejunkies
+$1031D980 00008022
++1St Slot 4Th Ability: Initiative
+%Credits: Codejunkies
+$1031D980 00008002
++1St Slot 4Th Ability: Lighteater
+%Credits: Codejunkies
+$1031D980 00008029
++1St Slot 4Th Ability: Lightproof
+%Credits: Codejunkies
+$1031D980 00008028
++1St Slot 4Th Ability: Lightstrike
+%Credits: Codejunkies
+$1031D980 00008026
++1St Slot 4Th Ability: Lightward
+%Credits: Codejunkies
+$1031D980 00008027
++1St Slot 4Th Ability: Mag Def+3
+%Credits: Codejunkies
+$1031D980 0000806E
++1St Slot 4Th Ability: Mag Def+5
+%Credits: Codejunkies
+$1031D980 0000806F
++1St Slot 4Th Ability: Mag Def+10
+%Credits: Codejunkies
+$1031D980 00008070
++1St Slot 4Th Ability: Mag Def+20
+%Credits: Codejunkies
+$1031D980 00008071
++1St Slot 4Th Ability: Magic Booster
+%Credits: Codejunkies
+$1031D980 00008006
++1St Slot 4Th Ability: Magic Counter
+%Credits: Codejunkies
+$1031D980 00008005
++1St Slot 4Th Ability: Magic+3
+%Credits: Codejunkies
+$1031D980 00008066
++1St Slot 4Th Ability: Magic+5
+%Credits: Codejunkies
+$1031D980 00008067
++1St Slot 4Th Ability: Magic+10
+%Credits: Codejunkies
+$1031D980 00008068
++1St Slot 4Th Ability: Magic+20
+%Credits: Codejunkies
+$1031D980 00008069
++1St Slot 4Th Ability: Master Thief
+%Credits: Codejunkies
+$1031D980 00008016
++1St Slot 4Th Ability: MP Stroll
+%Credits: Codejunkies
+$1031D980 0000801C
++1St Slot 4Th Ability: MP+5
+%Credits: Codejunkies
+$1031D980 00008076
++1St Slot 4Th Ability: MP+10
+%Credits: Codejunkies
+$1031D980 00008077
++1St Slot 4Th Ability: MP+20
+%Credits: Codejunkies
+$1031D980 00008078
++1St Slot 4Th Ability: MP+30
+%Credits: Codejunkies
+$1031D980 00008079
++1St Slot 4Th Ability: No Ap
+%Credits: Codejunkies
+$1031D980 00008014
++1St Slot 4Th Ability: No Encounters
+%Credits: Codejunkies
+$1031D980 0000801D
++1St Slot 4Th Ability: One MP Cost
+%Credits: Codejunkies
+$1031D980 0000800D
++1St Slot 4Th Ability: Overdrive Ap
+%Credits: Codejunkies
+$1031D980 00008011
++1St Slot 4Th Ability: Pickpocket
+%Credits: Codejunkies
+$1031D980 00008015
++1St Slot 4Th Ability: Piercing
+%Credits: Codejunkies
+$1031D980 0000800B
++1St Slot 4Th Ability: Poisonproof
+%Credits: Codejunkies
+$1031D980 0000803C
++1St Slot 4Th Ability: Poisonstrike
+%Credits: Codejunkies
+$1031D980 0000803A
++1St Slot 4Th Ability: Poisontouch
+%Credits: Codejunkies
+$1031D980 0000803B
++1St Slot 4Th Ability: Poisonward
+%Credits: Codejunkies
+$1031D980 0000803D
++1St Slot 4Th Ability: Ribbon
+%Credits: Codejunkies
+$1031D980 00008080
++1St Slot 4Th Ability: Silenceproof
+%Credits: Codejunkies
+$1031D980 00008044
++1St Slot 4Th Ability: Silencestrike
+%Credits: Codejunkies
+$1031D980 00008042
++1St Slot 4Th Ability: Silencetouch
+%Credits: Codejunkies
+$1031D980 00008043
++1St Slot 4Th Ability: Silenceward
+%Credits: Codejunkies
+$1031D980 00008045
++1St Slot 4Th Ability: Sleepproof
+%Credits: Codejunkies
+$1031D980 00008040
++1St Slot 4Th Ability: Sleepstrike
+%Credits: Codejunkies
+$1031D980 0000803E
++1St Slot 4Th Ability: Sleeptouch
+%Credits: Codejunkies
+$1031D980 0000803F
++1St Slot 4Th Ability: Sleepward
+%Credits: Codejunkies
+$1031D980 00008041
++1St Slot 4Th Ability: Slowproof
+%Credits: Codejunkies
+$1031D980 0000804C
++1St Slot 4Th Ability: Slowstrike
+%Credits: Codejunkies
+$1031D980 0000804A
++1St Slot 4Th Ability: Slowtouch
+%Credits: Codejunkies
+$1031D980 0000804B
++1St Slot 4Th Ability: Slowward
+%Credits: Codejunkies
+$1031D980 0000804D
++1St Slot 4Th Ability: Sos Haste
+%Credits: Codejunkies
+$1031D980 0000805B
++1St Slot 4Th Ability: Sos Nullblaze
+%Credits: Codejunkies
+$1031D980 00008061
++1St Slot 4Th Ability: Sos Nullfrost
+%Credits: Codejunkies
+$1031D980 0000805F
++1St Slot 4Th Ability: Sos Nullshock
+%Credits: Codejunkies
+$1031D980 00008060
++1St Slot 4Th Ability: Sos Nulltide
+%Credits: Codejunkies
+$1031D980 0000805E
++1St Slot 4Th Ability: Sos Overdrive
+%Credits: Codejunkies
+$1031D980 00008010
++1St Slot 4Th Ability: Sos Protect
+%Credits: Codejunkies
+$1031D980 0000805A
++1St Slot 4Th Ability: Sos Reflect
+%Credits: Codejunkies
+$1031D980 0000805D
++1St Slot 4Th Ability: Sos Regen
+%Credits: Codejunkies
+$1031D980 0000805C
++1St Slot 4Th Ability: Sos Shell
+%Credits: Codejunkies
+$1031D980 00008059
++1St Slot 4Th Ability: Stoneproof
+%Credits: Codejunkies
+$1031D980 00008038
++1St Slot 4Th Ability: Stonestrike
+%Credits: Codejunkies
+$1031D980 00008036
++1St Slot 4Th Ability: Stonetouch
+%Credits: Codejunkies
+$1031D980 00008037
++1St Slot 4Th Ability: Stoneward
+%Credits: Codejunkies
+$1031D980 00008039
++1St Slot 4Th Ability: Strength+3
+%Credits: Codejunkies
+$1031D980 00008062
++1St Slot 4Th Ability: Strength+5
+%Credits: Codejunkies
+$1031D980 00008063
++1St Slot 4Th Ability: Strength+10
+%Credits: Codejunkies
+$1031D980 00008064
++1St Slot 4Th Ability: Strength+20
+%Credits: Codejunkies
+$1031D980 00008065
++1St Slot 4Th Ability: Triple Ap
+%Credits: Codejunkies
+$1031D980 00008013
++1St Slot 4Th Ability: Triple Overdrive
+%Credits: Codejunkies
+$1031D980 0000800F
++1St Slot 4Th Ability: Watereater
+%Credits: Codejunkies
+$1031D980 0000802D
++1St Slot 4Th Ability: Waterproof
+%Credits: Codejunkies
+$1031D980 0000802C
++1St Slot 4Th Ability: Waterstrike
+%Credits: Codejunkies
+$1031D980 0000802A
++1St Slot 4Th Ability: Waterward
+%Credits: Codejunkies
+$1031D980 0000802B
++1St Slot 4Th Ability: Zombieproof
+%Credits: Codejunkies
+$1031D980 00008034
++1St Slot 4Th Ability: Zombiestrike
+%Credits: Codejunkies
+$1031D980 00008032
++1St Slot 4Th Ability: Zombietouch
+%Credits: Codejunkies
+$1031D980 00008033
++1St Slot 4Th Ability: Zombieward
+%Credits: Codejunkies
+$1031D980 00008035
+!!
+!Weapon Modifier 4:
++2Nd Slot 1St Ability: Alchemy
+%Credits: Codejunkies
+$1031D990 00008007
++2Nd Slot 1St Ability: Auto Potion
+%Credits: Codejunkies
+$1031D990 00008008
++2Nd Slot 1St Ability: Auto-Haste
+%Credits: Codejunkies
+$1031D990 00008056
++2Nd Slot 1St Ability: Auto-Haste
+%Credits: Codejunkies
+$1031D990 00008058
++2Nd Slot 1St Ability: Auto-Med
+%Credits: Codejunkies
+$1031D990 00008009
++2Nd Slot 1St Ability: Auto-Phoenix
+%Credits: Codejunkies
+$1031D990 0000800A
++2Nd Slot 1St Ability: Auto-Protect
+%Credits: Codejunkies
+$1031D990 00008055
++2Nd Slot 1St Ability: Auto-Regen
+%Credits: Codejunkies
+$1031D990 00008057
++2Nd Slot 1St Ability: Auto-Shell
+%Credits: Codejunkies
+$1031D990 00008054
++2Nd Slot 1St Ability: Bersekproof
+%Credits: Codejunkies
+$1031D990 00008050
++2Nd Slot 1St Ability: Berserkward
+%Credits: Codejunkies
+$1031D990 00008051
++2Nd Slot 1St Ability: Break Damage Limit
+%Credits: Codejunkies
+$1031D990 00008019
++2Nd Slot 1St Ability: Break HP Limit
+%Credits: Codejunkies
+$1031D990 00008017
++2Nd Slot 1St Ability: Break MP Limit
+%Credits: Codejunkies
+$1031D990 00008018
++2Nd Slot 1St Ability: Capture
+%Credits: Codejunkies
+$1031D990 0000807A
++2Nd Slot 1St Ability: Confuse Ward
+%Credits: Codejunkies
+$1031D990 0000804F
++2Nd Slot 1St Ability: Confuseproof
+%Credits: Codejunkies
+$1031D990 0000804E
++2Nd Slot 1St Ability: Counter Attack
+%Credits: Codejunkies
+$1031D990 00008003
++2Nd Slot 1St Ability: Curseproof
+%Credits: Codejunkies
+$1031D990 00008052
++2Nd Slot 1St Ability: Curseward
+%Credits: Codejunkies
+$1031D990 00008053
++2Nd Slot 1St Ability: Darkproof
+%Credits: Codejunkies
+$1031D990 00008048
++2Nd Slot 1St Ability: Darkstrike
+%Credits: Codejunkies
+$1031D990 00008046
++2Nd Slot 1St Ability: Darktouch
+%Credits: Codejunkies
+$1031D990 00008047
++2Nd Slot 1St Ability: Darkward
+%Credits: Codejunkies
+$1031D990 00008049
++2Nd Slot 1St Ability: Deathproof
+%Credits: Codejunkies
+$1031D990 00008030
++2Nd Slot 1St Ability: Deathstrike
+%Credits: Codejunkies
+$1031D990 0000802E
++2Nd Slot 1St Ability: Deathtouch
+%Credits: Codejunkies
+$1031D990 0000802F
++2Nd Slot 1St Ability: Deathward
+%Credits: Codejunkies
+$1031D990 00008031
++2Nd Slot 1St Ability: Def+3
+%Credits: Codejunkies
+$1031D990 0000806A
++2Nd Slot 1St Ability: Def+5
+%Credits: Codejunkies
+$1031D990 0000806B
++2Nd Slot 1St Ability: Def+10
+%Credits: Codejunkies
+$1031D990 0000806C
++2Nd Slot 1St Ability: Def+20
+%Credits: Codejunkies
+$1031D990 0000806D
++2Nd Slot 1St Ability: Distil Ability
+%Credits: Codejunkies
+$1031D990 0000807F
++2Nd Slot 1St Ability: Distil Mana
+%Credits: Codejunkies
+$1031D990 0000807D
++2Nd Slot 1St Ability: Distil Power
+%Credits: Codejunkies
+$1031D990 0000807C
++2Nd Slot 1St Ability: Distil Speed
+%Credits: Codejunkies
+$1031D990 0000807E
++2Nd Slot 1St Ability: Double Ap
+%Credits: Codejunkies
+$1031D990 00008012
++2Nd Slot 1St Ability: Double Overdrive
+%Credits: Codejunkies
+$1031D990 0000800E
++2Nd Slot 1St Ability: Evade And Counter
+%Credits: Codejunkies
+$1031D990 00008004
++2Nd Slot 1St Ability: Fire Eater
+%Credits: Codejunkies
+$1031D990 00008021
++2Nd Slot 1St Ability: Fireproof
+%Credits: Codejunkies
+$1031D990 00008020
++2Nd Slot 1St Ability: Firestrike
+%Credits: Codejunkies
+$1031D990 0000801E
++2Nd Slot 1St Ability: Fireward
+%Credits: Codejunkies
+$1031D990 0000801F
++2Nd Slot 1St Ability: First Strike
+%Credits: Codejunkies
+$1031D990 00008001
++2Nd Slot 1St Ability: Gillionaire
+%Credits: Codejunkies
+$1031D990 0000801A
++2Nd Slot 1St Ability: Half MP Cost
+%Credits: Codejunkies
+$1031D990 0000800C
++2Nd Slot 1St Ability: Have Sensor
+%Credits: Codejunkies
+$1031D990 00008000
++2Nd Slot 1St Ability: HP Stroll
+%Credits: Codejunkies
+$1031D990 0000801B
++2Nd Slot 1St Ability: HP+5
+%Credits: Codejunkies
+$1031D990 00008072
++2Nd Slot 1St Ability: HP+10
+%Credits: Codejunkies
+$1031D990 00008073
++2Nd Slot 1St Ability: HP+20
+%Credits: Codejunkies
+$1031D990 00008074
++2Nd Slot 1St Ability: HP+30
+%Credits: Codejunkies
+$1031D990 00008075
++2Nd Slot 1St Ability: Ice Eater
+%Credits: Codejunkies
+$1031D990 00008025
++2Nd Slot 1St Ability: Ice Proof
+%Credits: Codejunkies
+$1031D990 00008024
++2Nd Slot 1St Ability: Ice Ward
+%Credits: Codejunkies
+$1031D990 00008023
++2Nd Slot 1St Ability: Icestrike
+%Credits: Codejunkies
+$1031D990 00008022
++2Nd Slot 1St Ability: Initiative
+%Credits: Codejunkies
+$1031D990 00008002
++2Nd Slot 1St Ability: Lighteater
+%Credits: Codejunkies
+$1031D990 00008029
++2Nd Slot 1St Ability: Lightproof
+%Credits: Codejunkies
+$1031D990 00008028
++2Nd Slot 1St Ability: Lightstrike
+%Credits: Codejunkies
+$1031D990 00008026
++2Nd Slot 1St Ability: Lightward
+%Credits: Codejunkies
+$1031D990 00008027
++2Nd Slot 1St Ability: Mag Def+3
+%Credits: Codejunkies
+$1031D990 0000806E
++2Nd Slot 1St Ability: Mag Def+5
+%Credits: Codejunkies
+$1031D990 0000806F
++2Nd Slot 1St Ability: Mag Def+10
+%Credits: Codejunkies
+$1031D990 00008070
++2Nd Slot 1St Ability: Mag Def+20
+%Credits: Codejunkies
+$1031D990 00008071
++2Nd Slot 1St Ability: Magic Booster
+%Credits: Codejunkies
+$1031D990 00008006
++2Nd Slot 1St Ability: Magic Counter
+%Credits: Codejunkies
+$1031D990 00008005
++2Nd Slot 1St Ability: Magic+3
+%Credits: Codejunkies
+$1031D990 00008066
++2Nd Slot 1St Ability: Magic+5
+%Credits: Codejunkies
+$1031D990 00008067
++2Nd Slot 1St Ability: Magic+10
+%Credits: Codejunkies
+$1031D990 00008068
++2Nd Slot 1St Ability: Magic+20
+%Credits: Codejunkies
+$1031D990 00008069
++2Nd Slot 1St Ability: Master Thief
+%Credits: Codejunkies
+$1031D990 00008016
++2Nd Slot 1St Ability: MP Stroll
+%Credits: Codejunkies
+$1031D990 0000801C
++2Nd Slot 1St Ability: MP+5
+%Credits: Codejunkies
+$1031D990 00008076
++2Nd Slot 1St Ability: MP+10
+%Credits: Codejunkies
+$1031D990 00008077
++2Nd Slot 1St Ability: MP+20
+%Credits: Codejunkies
+$1031D990 00008078
++2Nd Slot 1St Ability: MP+30
+%Credits: Codejunkies
+$1031D990 00008079
++2Nd Slot 1St Ability: No Ap
+%Credits: Codejunkies
+$1031D990 00008014
++2Nd Slot 1St Ability: No Encounters
+%Credits: Codejunkies
+$1031D990 0000801D
++2Nd Slot 1St Ability: One MP Cost
+%Credits: Codejunkies
+$1031D990 0000800D
++2Nd Slot 1St Ability: Overdrive Ap
+%Credits: Codejunkies
+$1031D990 00008011
++2Nd Slot 1St Ability: Pickpocket
+%Credits: Codejunkies
+$1031D990 00008015
++2Nd Slot 1St Ability: Piercing
+%Credits: Codejunkies
+$1031D990 0000800B
++2Nd Slot 1St Ability: Poisonproof
+%Credits: Codejunkies
+$1031D990 0000803C
++2Nd Slot 1St Ability: Poisonstrike
+%Credits: Codejunkies
+$1031D990 0000803A
++2Nd Slot 1St Ability: Poisontouch
+%Credits: Codejunkies
+$1031D990 0000803B
++2Nd Slot 1St Ability: Poisonward
+%Credits: Codejunkies
+$1031D990 0000803D
++2Nd Slot 1St Ability: Ribbon
+%Credits: Codejunkies
+$1031D990 00008080
++2Nd Slot 1St Ability: Silence Ward
+%Credits: Codejunkies
+$1031D990 00008045
++2Nd Slot 1St Ability: Silenceproof
+%Credits: Codejunkies
+$1031D990 00008044
++2Nd Slot 1St Ability: Silencestrike
+%Credits: Codejunkies
+$1031D990 00008042
++2Nd Slot 1St Ability: Silencetouch
+%Credits: Codejunkies
+$1031D990 00008043
++2Nd Slot 1St Ability: Sleepproof
+%Credits: Codejunkies
+$1031D990 00008040
++2Nd Slot 1St Ability: Sleepstrike
+%Credits: Codejunkies
+$1031D990 0000803E
++2Nd Slot 1St Ability: Sleeptouch
+%Credits: Codejunkies
+$1031D990 0000803F
++2Nd Slot 1St Ability: Sleepward
+%Credits: Codejunkies
+$1031D990 00008041
++2Nd Slot 1St Ability: Slow Ward
+%Credits: Codejunkies
+$1031D990 0000804D
++2Nd Slot 1St Ability: Slowproof
+%Credits: Codejunkies
+$1031D990 0000804C
++2Nd Slot 1St Ability: Slowstrike
+%Credits: Codejunkies
+$1031D990 0000804A
++2Nd Slot 1St Ability: Slowtouch
+%Credits: Codejunkies
+$1031D990 0000804B
++2Nd Slot 1St Ability: Sos Haste
+%Credits: Codejunkies
+$1031D990 0000805B
++2Nd Slot 1St Ability: Sos Nullblaze
+%Credits: Codejunkies
+$1031D990 00008061
++2Nd Slot 1St Ability: Sos Nullfrost
+%Credits: Codejunkies
+$1031D990 0000805F
++2Nd Slot 1St Ability: Sos Nullshock
+%Credits: Codejunkies
+$1031D990 00008060
++2Nd Slot 1St Ability: Sos Nulltide
+%Credits: Codejunkies
+$1031D990 0000805E
++2Nd Slot 1St Ability: Sos Overdrive
+%Credits: Codejunkies
+$1031D990 00008010
++2Nd Slot 1St Ability: Sos Protect
+%Credits: Codejunkies
+$1031D990 0000805A
++2Nd Slot 1St Ability: Sos Reflect
+%Credits: Codejunkies
+$1031D990 0000805D
++2Nd Slot 1St Ability: Sos Regen
+%Credits: Codejunkies
+$1031D990 0000805C
++2Nd Slot 1St Ability: Sos Shell
+%Credits: Codejunkies
+$1031D990 00008059
++2Nd Slot 1St Ability: Stoneproof
+%Credits: Codejunkies
+$1031D990 00008038
++2Nd Slot 1St Ability: Stonestrike
+%Credits: Codejunkies
+$1031D990 00008036
++2Nd Slot 1St Ability: Stonetouch
+%Credits: Codejunkies
+$1031D990 00008037
++2Nd Slot 1St Ability: Stoneward
+%Credits: Codejunkies
+$1031D990 00008039
++2Nd Slot 1St Ability: Strength+3
+%Credits: Codejunkies
+$1031D990 00008062
++2Nd Slot 1St Ability: Strength+5
+%Credits: Codejunkies
+$1031D990 00008063
++2Nd Slot 1St Ability: Strength+10
+%Credits: Codejunkies
+$1031D990 00008064
++2Nd Slot 1St Ability: Strength+20
+%Credits: Codejunkies
+$1031D990 00008065
++2Nd Slot 1St Ability: Triple Ap
+%Credits: Codejunkies
+$1031D990 00008013
++2Nd Slot 1St Ability: Triple Overdrive
+%Credits: Codejunkies
+$1031D990 0000800F
++2Nd Slot 1St Ability: Watereater
+%Credits: Codejunkies
+$1031D990 0000802D
++2Nd Slot 1St Ability: Waterproof
+%Credits: Codejunkies
+$1031D990 0000802C
++2Nd Slot 1St Ability: Waterstrike
+%Credits: Codejunkies
+$1031D990 0000802A
++2Nd Slot 1St Ability: Waterward
+%Credits: Codejunkies
+$1031D990 0000802B
++2Nd Slot 1St Ability: Zombieproof
+%Credits: Codejunkies
+$1031D990 00008034
++2Nd Slot 1St Ability: Zombiestrike
+%Credits: Codejunkies
+$1031D990 00008032
++2Nd Slot 1St Ability: Zombietouch
+%Credits: Codejunkies
+$1031D990 00008033
++2Nd Slot 1St Ability: Zombieward
+%Credits: Codejunkies
+$1031D990 00008035
++2Nd Slot: Graphic Is Auron's Weapon
+%Credits: Codejunkies
+$1031D98E 00004008
++2Nd Slot: Graphic Is Kimarhi's 1St Weapon
+%Credits: Codejunkies
+$1031D98E 0000401F
++2Nd Slot: Graphic Is Kimarhi's 2Nd Weapon
+%Credits: Codejunkies
+$1031D98E 00004020
++2Nd Slot: Graphic Is Kimarhi's 3Rd Weapon
+%Credits: Codejunkies
+$1031D98E 00004021
++2Nd Slot: Graphic Is Kimarhi's 4Th Weapon
+%Credits: Codejunkies
+$1031D98E 00004022
++2Nd Slot: Graphic Is Kimarhi's 5Th Weapon
+%Credits: Codejunkies
+$1031D98E 00004023
++2Nd Slot: Graphic Is Kimarhi's 6Th Weapon
+%Credits: Codejunkies
+$1031D98E 00004024
++2Nd Slot: Graphic Is Lulu's 1St Weapon
+%Credits: Codejunkies
+$1031D98E 00004033
++2Nd Slot: Graphic Is Lulu's 2Nd Weapon
+%Credits: Codejunkies
+$1031D98E 00004034
++2Nd Slot: Graphic Is Lulu's 3Rd Weapon
+%Credits: Codejunkies
+$1031D98E 00004035
++2Nd Slot: Graphic Is Lulu's 4Th Weapon
+%Credits: Codejunkies
+$1031D98E 00004036
++2Nd Slot: Graphic Is Lulu's 5Th Weapon
+%Credits: Codejunkies
+$1031D98E 00004037
++2Nd Slot: Graphic Is Lulu's 6Th Weapon
+%Credits: Codejunkies
+$1031D98E 00004038
++2Nd Slot: Graphic Is Ronso's 1St Weapon
+%Credits: Codejunkies
+$1031D98E 00004015
++2Nd Slot: Graphic Is Ronso's 2Nd Weapon
+%Credits: Codejunkies
+$1031D98E 00004016
++2Nd Slot: Graphic Is Ronso's 3Rd Weapon
+%Credits: Codejunkies
+$1031D98E 00004017
++2Nd Slot: Graphic Is Ronso's 4Th Weapon
+%Credits: Codejunkies
+$1031D98E 00004018
++2Nd Slot: Graphic Is Ronso's 5Th Weapon
+%Credits: Codejunkies
+$1031D98E 00004019
++2Nd Slot: Graphic Is Tidus' 1St Weapon
+%Credits: Codejunkies
+$1031D98E 00004001
++2Nd Slot: Graphic Is Tidus' 2Nd Weapon
+%Credits: Codejunkies
+$1031D98E 00004002
++2Nd Slot: Graphic Is Tidus' 3Rd Weapon
+%Credits: Codejunkies
+$1031D98E 00004003
++2Nd Slot: Graphic Is Tidus' 4Th Weapon
+%Credits: Codejunkies
+$1031D98E 00004004
++2Nd Slot: Graphic Is Tidus' 5Th Weapon
+%Credits: Codejunkies
+$1031D98E 00004005
++2Nd Slot: Graphic Is Tidus' 6Th Weapon
+%Credits: Codejunkies
+$1031D98E 00004006
++2Nd Slot: Graphic Is Tidus' 7Th Weapon
+%Credits: Codejunkies
+$1031D98E 00004007
++2Nd Slot: Graphic Is Wakka's 1St Weapon
+%Credits: Codejunkies
+$1031D98E 00004029
++2Nd Slot: Graphic Is Wakka's 2Nd Weapon
+%Credits: Codejunkies
+$1031D98E 0000402A
++2Nd Slot: Graphic Is Wakka's 3Rd Weapon
+%Credits: Codejunkies
+$1031D98E 0000402B
++2Nd Slot: Graphic Is Wakka's 4Th Weapon
+%Credits: Codejunkies
+$1031D98E 0000402C
++2Nd Slot: Graphic Is Wakka's 5Th Weapon
+%Credits: Codejunkies
+$1031D98E 0000402D
++2Nd Slot: Graphic Is Yuna's 1St Weapon
+%Credits: Codejunkies
+$1031D98E 0000400B
++2Nd Slot: Graphic Is Yuna's 2Nd Weapon
+%Credits: Codejunkies
+$1031D98E 0000400C
++2Nd Slot: Graphic Is Yuna's 3Rd Weapon
+%Credits: Codejunkies
+$1031D98E 0000400D
++2Nd Slot: Graphic Is Yuna's 4Th Weapon
+%Credits: Codejunkies
+$1031D98E 0000400E
++2Nd Slot: Graphic Is Yuna's 5Th Weapon
+%Credits: Codejunkies
+$1031D98E 0000400F
++2Nd Slot: Graphic Is Yuna's 6Th Weapon
+%Credits: Codejunkies
+$1031D98E 00004010
++2Nd Slot: Weapon Has 4 Abilities Available
+%Credits: Codejunkies
+$0031D993 00000004
++2Nd Slot: Weapon Usable By Auron
+%Credits: Codejunkies
+$0031D986 00000002
++2Nd Slot: Weapon Usable By Lulu
+%Credits: Codejunkies
+$0031D986 00000005
++2Nd Slot: Weapon Usable By Rikku
+%Credits: Codejunkies
+$0031D986 00000006
++2Nd Slot: Weapon Usable By Ronso
+%Credits: Codejunkies
+$0031D986 00000003
++2Nd Slot: Weapon Usable By Tidus
+%Credits: Codejunkies
+$0031D986 00000000
++2Nd Slot: Weapon Usable By Wakka
+%Credits: Codejunkies
+$0031D986 00000004
++2Nd Slot: Weapon Usable By Yuna
+%Credits: Codejunkies
+$0031D986 00000001
+!!
+!Weapon Modifier 5:
++2Nd Slot 2Nd Ability: Alchemy
+%Credits: Codejunkies
+$1031D992 00008007
++2Nd Slot 2Nd Ability: Auto Potion
+%Credits: Codejunkies
+$1031D992 00008008
++2Nd Slot 2Nd Ability: Auto-Haste
+%Credits: Codejunkies
+$1031D992 00008056
++2Nd Slot 2Nd Ability: Auto-Haste
+%Credits: Codejunkies
+$1031D992 00008058
++2Nd Slot 2Nd Ability: Auto-Med
+%Credits: Codejunkies
+$1031D992 00008009
++2Nd Slot 2Nd Ability: Auto-Phoenix
+%Credits: Codejunkies
+$1031D992 0000800A
++2Nd Slot 2Nd Ability: Auto-Protect
+%Credits: Codejunkies
+$1031D992 00008055
++2Nd Slot 2Nd Ability: Auto-Regen
+%Credits: Codejunkies
+$1031D992 00008057
++2Nd Slot 2Nd Ability: Auto-Shell
+%Credits: Codejunkies
+$1031D992 00008054
++2Nd Slot 2Nd Ability: Bersekproof
+%Credits: Codejunkies
+$1031D992 00008050
++2Nd Slot 2Nd Ability: Berserkward
+%Credits: Codejunkies
+$1031D992 00008051
++2Nd Slot 2Nd Ability: Break Damage Limit
+%Credits: Codejunkies
+$1031D992 00008019
++2Nd Slot 2Nd Ability: Break HP Limit
+%Credits: Codejunkies
+$1031D992 00008017
++2Nd Slot 2Nd Ability: Break MP Limit
+%Credits: Codejunkies
+$1031D992 00008018
++2Nd Slot 2Nd Ability: Capture
+%Credits: Codejunkies
+$1031D992 0000807A
++2Nd Slot 2Nd Ability: Confuse Ward
+%Credits: Codejunkies
+$1031D992 0000804F
++2Nd Slot 2Nd Ability: Confuseproof
+%Credits: Codejunkies
+$1031D992 0000804E
++2Nd Slot 2Nd Ability: Counter Attack
+%Credits: Codejunkies
+$1031D992 00008003
++2Nd Slot 2Nd Ability: Curseproof
+%Credits: Codejunkies
+$1031D992 00008052
++2Nd Slot 2Nd Ability: Curseward
+%Credits: Codejunkies
+$1031D992 00008053
++2Nd Slot 2Nd Ability: Darkproof
+%Credits: Codejunkies
+$1031D992 00008048
++2Nd Slot 2Nd Ability: Darkstrike
+%Credits: Codejunkies
+$1031D992 00008046
++2Nd Slot 2Nd Ability: Darktouch
+%Credits: Codejunkies
+$1031D992 00008047
++2Nd Slot 2Nd Ability: Darkward
+%Credits: Codejunkies
+$1031D992 00008049
++2Nd Slot 2Nd Ability: Deathproof
+%Credits: Codejunkies
+$1031D992 00008030
++2Nd Slot 2Nd Ability: Deathstrike
+%Credits: Codejunkies
+$1031D992 0000802E
++2Nd Slot 2Nd Ability: Deathtouch
+%Credits: Codejunkies
+$1031D992 0000802F
++2Nd Slot 2Nd Ability: Deathward
+%Credits: Codejunkies
+$1031D992 00008031
++2Nd Slot 2Nd Ability: Def+3
+%Credits: Codejunkies
+$1031D992 0000806A
++2Nd Slot 2Nd Ability: Def+5
+%Credits: Codejunkies
+$1031D992 0000806B
++2Nd Slot 2Nd Ability: Def+10
+%Credits: Codejunkies
+$1031D992 0000806C
++2Nd Slot 2Nd Ability: Def+20
+%Credits: Codejunkies
+$1031D992 0000806D
++2Nd Slot 2Nd Ability: Distil Ability
+%Credits: Codejunkies
+$1031D992 0000807F
++2Nd Slot 2Nd Ability: Distil Mana
+%Credits: Codejunkies
+$1031D992 0000807D
++2Nd Slot 2Nd Ability: Distil Power
+%Credits: Codejunkies
+$1031D992 0000807C
++2Nd Slot 2Nd Ability: Distil Speed
+%Credits: Codejunkies
+$1031D992 0000807E
++2Nd Slot 2Nd Ability: Double Ap
+%Credits: Codejunkies
+$1031D992 00008012
++2Nd Slot 2Nd Ability: Double Overdrive
+%Credits: Codejunkies
+$1031D992 0000800E
++2Nd Slot 2Nd Ability: Evade And Counter
+%Credits: Codejunkies
+$1031D992 00008004
++2Nd Slot 2Nd Ability: Fire Eater
+%Credits: Codejunkies
+$1031D992 00008021
++2Nd Slot 2Nd Ability: Fireproof
+%Credits: Codejunkies
+$1031D992 00008020
++2Nd Slot 2Nd Ability: Firestrike
+%Credits: Codejunkies
+$1031D992 0000801E
++2Nd Slot 2Nd Ability: Fireward
+%Credits: Codejunkies
+$1031D992 0000801F
++2Nd Slot 2Nd Ability: First Strike
+%Credits: Codejunkies
+$1031D992 00008001
++2Nd Slot 2Nd Ability: Gillionaire
+%Credits: Codejunkies
+$1031D992 0000801A
++2Nd Slot 2Nd Ability: Half MP Cost
+%Credits: Codejunkies
+$1031D992 0000800C
++2Nd Slot 2Nd Ability: Have Sensor
+%Credits: Codejunkies
+$1031D992 00008000
++2Nd Slot 2Nd Ability: HP Stroll
+%Credits: Codejunkies
+$1031D992 0000801B
++2Nd Slot 2Nd Ability: HP+5
+%Credits: Codejunkies
+$1031D992 00008072
++2Nd Slot 2Nd Ability: HP+10
+%Credits: Codejunkies
+$1031D992 00008073
++2Nd Slot 2Nd Ability: HP+20
+%Credits: Codejunkies
+$1031D992 00008074
++2Nd Slot 2Nd Ability: HP+30
+%Credits: Codejunkies
+$1031D992 00008075
++2Nd Slot 2Nd Ability: Ice Eater
+%Credits: Codejunkies
+$1031D992 00008025
++2Nd Slot 2Nd Ability: Ice Proof
+%Credits: Codejunkies
+$1031D992 00008024
++2Nd Slot 2Nd Ability: Ice Ward
+%Credits: Codejunkies
+$1031D992 00008023
++2Nd Slot 2Nd Ability: Icestrike
+%Credits: Codejunkies
+$1031D992 00008022
++2Nd Slot 2Nd Ability: Initiative
+%Credits: Codejunkies
+$1031D992 00008002
++2Nd Slot 2Nd Ability: Light Eater
+%Credits: Codejunkies
+$1031D992 00008029
++2Nd Slot 2Nd Ability: Lightproof
+%Credits: Codejunkies
+$1031D992 00008028
++2Nd Slot 2Nd Ability: Lightstrike
+%Credits: Codejunkies
+$1031D992 00008026
++2Nd Slot 2Nd Ability: Lightward
+%Credits: Codejunkies
+$1031D992 00008027
++2Nd Slot 2Nd Ability: Mag Def+3
+%Credits: Codejunkies
+$1031D992 0000806E
++2Nd Slot 2Nd Ability: Mag Def+5
+%Credits: Codejunkies
+$1031D992 0000806F
++2Nd Slot 2Nd Ability: Mag Def+10
+%Credits: Codejunkies
+$1031D992 00008070
++2Nd Slot 2Nd Ability: Mag Def+20
+%Credits: Codejunkies
+$1031D992 00008071
++2Nd Slot 2Nd Ability: Magic Booster
+%Credits: Codejunkies
+$1031D992 00008006
++2Nd Slot 2Nd Ability: Magic Counter
+%Credits: Codejunkies
+$1031D992 00008005
++2Nd Slot 2Nd Ability: Magic+3
+%Credits: Codejunkies
+$1031D992 00008066
++2Nd Slot 2Nd Ability: Magic+5
+%Credits: Codejunkies
+$1031D992 00008067
++2Nd Slot 2Nd Ability: Magic+10
+%Credits: Codejunkies
+$1031D992 00008068
++2Nd Slot 2Nd Ability: Magic+20
+%Credits: Codejunkies
+$1031D992 00008069
++2Nd Slot 2Nd Ability: Master Thief
+%Credits: Codejunkies
+$1031D992 00008016
++2Nd Slot 2Nd Ability: MP Stroll
+%Credits: Codejunkies
+$1031D992 0000801C
++2Nd Slot 2Nd Ability: MP+5
+%Credits: Codejunkies
+$1031D992 00008076
++2Nd Slot 2Nd Ability: MP+10
+%Credits: Codejunkies
+$1031D992 00008077
++2Nd Slot 2Nd Ability: MP+20
+%Credits: Codejunkies
+$1031D992 00008078
++2Nd Slot 2Nd Ability: MP+30
+%Credits: Codejunkies
+$1031D992 00008079
++2Nd Slot 2Nd Ability: No Ap
+%Credits: Codejunkies
+$1031D992 00008014
++2Nd Slot 2Nd Ability: No Encounters
+%Credits: Codejunkies
+$1031D992 0000801D
++2Nd Slot 2Nd Ability: One MP Cost
+%Credits: Codejunkies
+$1031D992 0000800D
++2Nd Slot 2Nd Ability: Overdrive Ap
+%Credits: Codejunkies
+$1031D992 00008011
++2Nd Slot 2Nd Ability: Pickpocket
+%Credits: Codejunkies
+$1031D992 00008015
++2Nd Slot 2Nd Ability: Piercing
+%Credits: Codejunkies
+$1031D992 0000800B
++2Nd Slot 2Nd Ability: Poisonproof
+%Credits: Codejunkies
+$1031D992 0000803C
++2Nd Slot 2Nd Ability: Poisonstrike
+%Credits: Codejunkies
+$1031D992 0000803A
++2Nd Slot 2Nd Ability: Poisontouch
+%Credits: Codejunkies
+$1031D992 0000803B
++2Nd Slot 2Nd Ability: Poisonward
+%Credits: Codejunkies
+$1031D992 0000803D
++2Nd Slot 2Nd Ability: Ribbon
+%Credits: Codejunkies
+$1031D992 00008080
++2Nd Slot 2Nd Ability: Silence Ward
+%Credits: Codejunkies
+$1031D992 00008045
++2Nd Slot 2Nd Ability: Silenceproof
+%Credits: Codejunkies
+$1031D992 00008044
++2Nd Slot 2Nd Ability: Silencestrike
+%Credits: Codejunkies
+$1031D992 00008042
++2Nd Slot 2Nd Ability: Silencetouch
+%Credits: Codejunkies
+$1031D992 00008043
++2Nd Slot 2Nd Ability: Sleepproof
+%Credits: Codejunkies
+$1031D992 00008040
++2Nd Slot 2Nd Ability: Sleepstrike
+%Credits: Codejunkies
+$1031D992 0000803E
++2Nd Slot 2Nd Ability: Sleeptouch
+%Credits: Codejunkies
+$1031D992 0000803F
++2Nd Slot 2Nd Ability: Sleepward
+%Credits: Codejunkies
+$1031D992 00008041
++2Nd Slot 2Nd Ability: Slow Ward
+%Credits: Codejunkies
+$1031D992 0000804D
++2Nd Slot 2Nd Ability: Slowproof
+%Credits: Codejunkies
+$1031D992 0000804C
++2Nd Slot 2Nd Ability: Slowstrike
+%Credits: Codejunkies
+$1031D992 0000804A
++2Nd Slot 2Nd Ability: Slowtouch
+%Credits: Codejunkies
+$1031D992 0000804B
++2Nd Slot 2Nd Ability: Sos Haste
+%Credits: Codejunkies
+$1031D992 0000805B
++2Nd Slot 2Nd Ability: Sos Nullblaze
+%Credits: Codejunkies
+$1031D992 00008061
++2Nd Slot 2Nd Ability: Sos Nullfrost
+%Credits: Codejunkies
+$1031D992 0000805F
++2Nd Slot 2Nd Ability: Sos Nullshock
+%Credits: Codejunkies
+$1031D992 00008060
++2Nd Slot 2Nd Ability: Sos Nulltide
+%Credits: Codejunkies
+$1031D992 0000805E
++2Nd Slot 2Nd Ability: Sos Overdrive
+%Credits: Codejunkies
+$1031D992 00008010
++2Nd Slot 2Nd Ability: Sos Protect
+%Credits: Codejunkies
+$1031D992 0000805A
++2Nd Slot 2Nd Ability: Sos Reflect
+%Credits: Codejunkies
+$1031D992 0000805D
++2Nd Slot 2Nd Ability: Sos Regen
+%Credits: Codejunkies
+$1031D992 0000805C
++2Nd Slot 2Nd Ability: Sos Shell
+%Credits: Codejunkies
+$1031D992 00008059
++2Nd Slot 2Nd Ability: Stoneproof
+%Credits: Codejunkies
+$1031D992 00008038
++2Nd Slot 2Nd Ability: Stonestrike
+%Credits: Codejunkies
+$1031D992 00008036
++2Nd Slot 2Nd Ability: Stonetouch
+%Credits: Codejunkies
+$1031D992 00008037
++2Nd Slot 2Nd Ability: Stoneward
+%Credits: Codejunkies
+$1031D992 00008039
++2Nd Slot 2Nd Ability: Strength+3
+%Credits: Codejunkies
+$1031D992 00008062
++2Nd Slot 2Nd Ability: Strength+5
+%Credits: Codejunkies
+$1031D992 00008063
++2Nd Slot 2Nd Ability: Strength+10
+%Credits: Codejunkies
+$1031D992 00008064
++2Nd Slot 2Nd Ability: Strength+20
+%Credits: Codejunkies
+$1031D992 00008065
++2Nd Slot 2Nd Ability: Triple Ap
+%Credits: Codejunkies
+$1031D992 00008013
++2Nd Slot 2Nd Ability: Triple Overdrive
+%Credits: Codejunkies
+$1031D992 0000800F
++2Nd Slot 2Nd Ability: Watereater
+%Credits: Codejunkies
+$1031D992 0000802D
++2Nd Slot 2Nd Ability: Waterproof
+%Credits: Codejunkies
+$1031D992 0000802C
++2Nd Slot 2Nd Ability: Waterstrike
+%Credits: Codejunkies
+$1031D992 0000802A
++2Nd Slot 2Nd Ability: Waterward
+%Credits: Codejunkies
+$1031D992 0000802B
++2Nd Slot 2Nd Ability: Zombieproof
+%Credits: Codejunkies
+$1031D992 00008034
++2Nd Slot 2Nd Ability: Zombiestrike
+%Credits: Codejunkies
+$1031D992 00008032
++2Nd Slot 2Nd Ability: Zombietouch
+%Credits: Codejunkies
+$1031D992 00008033
++2Nd Slot 2Nd Ability: Zombieward
+%Credits: Codejunkies
+$1031D992 00008035
++2Nd Slot 3Rd Ability: Alchemy
+%Credits: Codejunkies
+$1031D994 00008007
++2Nd Slot 3Rd Ability: Auto Potion
+%Credits: Codejunkies
+$1031D994 00008008
++2Nd Slot 3Rd Ability: Auto-Haste
+%Credits: Codejunkies
+$1031D994 00008056
++2Nd Slot 3Rd Ability: Auto-Haste
+%Credits: Codejunkies
+$1031D994 00008058
++2Nd Slot 3Rd Ability: Auto-Med
+%Credits: Codejunkies
+$1031D994 00008009
++2Nd Slot 3Rd Ability: Auto-Phoenix
+%Credits: Codejunkies
+$1031D994 0000800A
++2Nd Slot 3Rd Ability: Auto-Protect
+%Credits: Codejunkies
+$1031D994 00008055
++2Nd Slot 3Rd Ability: Auto-Regen
+%Credits: Codejunkies
+$1031D994 00008057
++2Nd Slot 3Rd Ability: Auto-Shell
+%Credits: Codejunkies
+$1031D994 00008054
++2Nd Slot 3Rd Ability: Bersekproof
+%Credits: Codejunkies
+$1031D994 00008050
++2Nd Slot 3Rd Ability: Berserkward
+%Credits: Codejunkies
+$1031D994 00008051
++2Nd Slot 3Rd Ability: Break Damage Limit
+%Credits: Codejunkies
+$1031D994 00008019
++2Nd Slot 3Rd Ability: Break HP Limit
+%Credits: Codejunkies
+$1031D994 00008017
++2Nd Slot 3Rd Ability: Break MP Limit
+%Credits: Codejunkies
+$1031D994 00008018
++2Nd Slot 3Rd Ability: Capture
+%Credits: Codejunkies
+$1031D994 0000807A
++2Nd Slot 3Rd Ability: Confuse Ward
+%Credits: Codejunkies
+$1031D994 0000804F
++2Nd Slot 3Rd Ability: Confuseproof
+%Credits: Codejunkies
+$1031D994 0000804E
++2Nd Slot 3Rd Ability: Counter Attack
+%Credits: Codejunkies
+$1031D994 00008003
++2Nd Slot 3Rd Ability: Curseproof
+%Credits: Codejunkies
+$1031D994 00008052
++2Nd Slot 3Rd Ability: Curseward
+%Credits: Codejunkies
+$1031D994 00008053
++2Nd Slot 3Rd Ability: Darkproof
+%Credits: Codejunkies
+$1031D994 00008048
++2Nd Slot 3Rd Ability: Darkstrike
+%Credits: Codejunkies
+$1031D994 00008046
++2Nd Slot 3Rd Ability: Darktouch
+%Credits: Codejunkies
+$1031D994 00008047
++2Nd Slot 3Rd Ability: Darkward
+%Credits: Codejunkies
+$1031D994 00008049
++2Nd Slot 3Rd Ability: Deathproof
+%Credits: Codejunkies
+$1031D994 00008030
++2Nd Slot 3Rd Ability: Deathstrike
+%Credits: Codejunkies
+$1031D994 0000802E
++2Nd Slot 3Rd Ability: Deathtouch
+%Credits: Codejunkies
+$1031D994 0000802F
++2Nd Slot 3Rd Ability: Deathward
+%Credits: Codejunkies
+$1031D994 00008031
++2Nd Slot 3Rd Ability: Def+20
+%Credits: Codejunkies
+$1031D994 0000806D
++2Nd Slot 3Rd Ability: Distil Ability
+%Credits: Codejunkies
+$1031D994 0000807F
++2Nd Slot 3Rd Ability: Distil Mana
+%Credits: Codejunkies
+$1031D994 0000807D
++2Nd Slot 3Rd Ability: Distil Power
+%Credits: Codejunkies
+$1031D994 0000807C
++2Nd Slot 3Rd Ability: Distil Speed
+%Credits: Codejunkies
+$1031D994 0000807E
++2Nd Slot 3Rd Ability: Double Ap
+%Credits: Codejunkies
+$1031D994 00008012
++2Nd Slot 3Rd Ability: Double Overdrive
+%Credits: Codejunkies
+$1031D994 0000800E
++2Nd Slot 3Rd Ability: Evade And Counter
+%Credits: Codejunkies
+$1031D994 00008004
++2Nd Slot 3Rd Ability: Fire Eater
+%Credits: Codejunkies
+$1031D994 00008021
++2Nd Slot 3Rd Ability: Fireproof
+%Credits: Codejunkies
+$1031D994 00008020
++2Nd Slot 3Rd Ability: Firestrike
+%Credits: Codejunkies
+$1031D994 0000801E
++2Nd Slot 3Rd Ability: Fireward
+%Credits: Codejunkies
+$1031D994 0000801F
++2Nd Slot 3Rd Ability: First Strike
+%Credits: Codejunkies
+$1031D994 00008001
++2Nd Slot 3Rd Ability: Gillionaire
+%Credits: Codejunkies
+$1031D994 0000801A
++2Nd Slot 3Rd Ability: Half MP Cost
+%Credits: Codejunkies
+$1031D994 0000800C
++2Nd Slot 3Rd Ability: Have Sensor
+%Credits: Codejunkies
+$1031D994 00008000
++2Nd Slot 3Rd Ability: HP Stroll
+%Credits: Codejunkies
+$1031D994 0000801B
++2Nd Slot 3Rd Ability: HP+30
+%Credits: Codejunkies
+$1031D994 00008075
++2Nd Slot 3Rd Ability: Ice Eater
+%Credits: Codejunkies
+$1031D994 00008025
++2Nd Slot 3Rd Ability: Ice Proof
+%Credits: Codejunkies
+$1031D994 00008024
++2Nd Slot 3Rd Ability: Ice Ward
+%Credits: Codejunkies
+$1031D994 00008023
++2Nd Slot 3Rd Ability: Icestrike
+%Credits: Codejunkies
+$1031D994 00008022
++2Nd Slot 3Rd Ability: Initiative
+%Credits: Codejunkies
+$1031D994 00008002
++2Nd Slot 3Rd Ability: Lighteater
+%Credits: Codejunkies
+$1031D994 00008029
++2Nd Slot 3Rd Ability: Lightproof
+%Credits: Codejunkies
+$1031D994 00008028
++2Nd Slot 3Rd Ability: Lightstrike
+%Credits: Codejunkies
+$1031D994 00008026
++2Nd Slot 3Rd Ability: Lightward
+%Credits: Codejunkies
+$1031D994 00008027
++2Nd Slot 3Rd Ability: Mag Def+20
+%Credits: Codejunkies
+$1031D994 00008072
++2Nd Slot 3Rd Ability: Magic Booster
+%Credits: Codejunkies
+$1031D994 00008006
++2Nd Slot 3Rd Ability: Magic Counter
+%Credits: Codejunkies
+$1031D994 00008005
++2Nd Slot 3Rd Ability: Magic+20
+%Credits: Codejunkies
+$1031D994 00008069
++2Nd Slot 3Rd Ability: Master Thief
+%Credits: Codejunkies
+$1031D994 00008016
++2Nd Slot 3Rd Ability: MP Stroll
+%Credits: Codejunkies
+$1031D994 0000801C
++2Nd Slot 3Rd Ability: MP+30
+%Credits: Codejunkies
+$1031D994 00008079
++2Nd Slot 3Rd Ability: No Ap
+%Credits: Codejunkies
+$1031D994 00008014
++2Nd Slot 3Rd Ability: No Encounters
+%Credits: Codejunkies
+$1031D994 0000801D
++2Nd Slot 3Rd Ability: One MP Cost
+%Credits: Codejunkies
+$1031D994 0000800D
++2Nd Slot 3Rd Ability: Overdrive Ap
+%Credits: Codejunkies
+$1031D994 00008011
++2Nd Slot 3Rd Ability: Pickpocket
+%Credits: Codejunkies
+$1031D994 00008015
++2Nd Slot 3Rd Ability: Piercing
+%Credits: Codejunkies
+$1031D994 0000800B
++2Nd Slot 3Rd Ability: Poisonproof
+%Credits: Codejunkies
+$1031D994 0000803C
++2Nd Slot 3Rd Ability: Poisonstrike
+%Credits: Codejunkies
+$1031D994 0000803A
++2Nd Slot 3Rd Ability: Poisontouch
+%Credits: Codejunkies
+$1031D994 0000803B
++2Nd Slot 3Rd Ability: Poisonward
+%Credits: Codejunkies
+$1031D994 0000803D
++2Nd Slot 3Rd Ability: Ribbon
+%Credits: Codejunkies
+$1031D994 00008080
++2Nd Slot 3Rd Ability: Silence Ward
+%Credits: Codejunkies
+$1031D994 00008045
++2Nd Slot 3Rd Ability: Silenceproof
+%Credits: Codejunkies
+$1031D994 00008044
++2Nd Slot 3Rd Ability: Silencestrike
+%Credits: Codejunkies
+$1031D994 00008042
++2Nd Slot 3Rd Ability: Silencetouch
+%Credits: Codejunkies
+$1031D994 00008043
++2Nd Slot 3Rd Ability: Sleepproof
+%Credits: Codejunkies
+$1031D994 00008040
++2Nd Slot 3Rd Ability: Sleepstrike
+%Credits: Codejunkies
+$1031D994 0000803E
++2Nd Slot 3Rd Ability: Sleeptouch
+%Credits: Codejunkies
+$1031D994 0000803F
++2Nd Slot 3Rd Ability: Sleepward
+%Credits: Codejunkies
+$1031D994 00008041
++2Nd Slot 3Rd Ability: Slow Ward
+%Credits: Codejunkies
+$1031D994 0000804D
++2Nd Slot 3Rd Ability: Slowproof
+%Credits: Codejunkies
+$1031D994 0000804C
++2Nd Slot 3Rd Ability: Slowstrike
+%Credits: Codejunkies
+$1031D994 0000804A
++2Nd Slot 3Rd Ability: Slowtouch
+%Credits: Codejunkies
+$1031D994 0000804B
++2Nd Slot 3Rd Ability: Sos Haste
+%Credits: Codejunkies
+$1031D994 0000805B
++2Nd Slot 3Rd Ability: Sos Nullblaze
+%Credits: Codejunkies
+$1031D994 00008061
++2Nd Slot 3Rd Ability: Sos Nullfrost
+%Credits: Codejunkies
+$1031D994 0000805F
++2Nd Slot 3Rd Ability: Sos Nullshock
+%Credits: Codejunkies
+$1031D994 00008060
++2Nd Slot 3Rd Ability: Sos Nulltide
+%Credits: Codejunkies
+$1031D994 0000805E
++2Nd Slot 3Rd Ability: Sos Overdrive
+%Credits: Codejunkies
+$1031D994 00008010
++2Nd Slot 3Rd Ability: Sos Protect
+%Credits: Codejunkies
+$1031D994 0000805A
++2Nd Slot 3Rd Ability: Sos Reflect
+%Credits: Codejunkies
+$1031D994 0000805D
++2Nd Slot 3Rd Ability: Sos Regen
+%Credits: Codejunkies
+$1031D994 0000805C
++2Nd Slot 3Rd Ability: Sos Shell
+%Credits: Codejunkies
+$1031D994 00008059
++2Nd Slot 3Rd Ability: Stoneproof
+%Credits: Codejunkies
+$1031D994 00008038
++2Nd Slot 3Rd Ability: Stonestrike
+%Credits: Codejunkies
+$1031D994 00008036
++2Nd Slot 3Rd Ability: Stonetouch
+%Credits: Codejunkies
+$1031D994 00008037
++2Nd Slot 3Rd Ability: Stoneward
+%Credits: Codejunkies
+$1031D994 00008039
++2Nd Slot 3Rd Ability: Strength+20
+%Credits: Codejunkies
+$1031D994 00008065
++2Nd Slot 3Rd Ability: Triple Ap
+%Credits: Codejunkies
+$1031D994 00008013
++2Nd Slot 3Rd Ability: Triple Overdrive
+%Credits: Codejunkies
+$1031D994 0000800F
++2Nd Slot 3Rd Ability: Watereater
+%Credits: Codejunkies
+$1031D994 0000802D
++2Nd Slot 3Rd Ability: Waterproof
+%Credits: Codejunkies
+$1031D994 0000802C
++2Nd Slot 3Rd Ability: Waterstrike
+%Credits: Codejunkies
+$1031D994 0000802A
++2Nd Slot 3Rd Ability: Waterward
+%Credits: Codejunkies
+$1031D994 0000802B
++2Nd Slot 3Rd Ability: Zombieproof
+%Credits: Codejunkies
+$1031D994 00008034
++2Nd Slot 3Rd Ability: Zombiestrike
+%Credits: Codejunkies
+$1031D994 00008032
++2Nd Slot 3Rd Ability: Zombietouch
+%Credits: Codejunkies
+$1031D994 00008033
++2Nd Slot 3Rd Ability: Zombieward
+%Credits: Codejunkies
+$1031D994 00008035
+!!
+!Weapon Modifier 6:
++2Nd Slot 4Th Ability: Alchemy
+%Credits: Codejunkies
+$1031D996 00008007
++2Nd Slot 4Th Ability: All Summons In Team
+%Credits: Codejunkies
+$201BDAE0 26300000
+$201BDB28 2A220012
++2Nd Slot 4Th Ability: Auto Potion
+%Credits: Codejunkies
+$1031D996 00008008
++2Nd Slot 4Th Ability: Auto-Haste
+%Credits: Codejunkies
+$1031D996 00008056
++2Nd Slot 4Th Ability: Auto-Haste
+%Credits: Codejunkies
+$1031D996 00008058
++2Nd Slot 4Th Ability: Auto-Med
+%Credits: Codejunkies
+$1031D996 00008009
++2Nd Slot 4Th Ability: Auto-Phoenix
+%Credits: Codejunkies
+$1031D996 0000800A
++2Nd Slot 4Th Ability: Auto-Protect
+%Credits: Codejunkies
+$1031D996 00008055
++2Nd Slot 4Th Ability: Auto-Regen
+%Credits: Codejunkies
+$1031D996 00008057
++2Nd Slot 4Th Ability: Auto-Shell
+%Credits: Codejunkies
+$1031D996 00008054
++2Nd Slot 4Th Ability: Bersekproof
+%Credits: Codejunkies
+$1031D996 00008050
++2Nd Slot 4Th Ability: Berserkward
+%Credits: Codejunkies
+$1031D996 00008051
++2Nd Slot 4Th Ability: Break Damage Limit
+%Credits: Codejunkies
+$1031D996 00008019
++2Nd Slot 4Th Ability: Break HP Limit
+%Credits: Codejunkies
+$1031D996 00008017
++2Nd Slot 4Th Ability: Break MP Limit
+%Credits: Codejunkies
+$1031D996 00008018
++2Nd Slot 4Th Ability: Capture
+%Credits: Codejunkies
+$1031D996 0000807A
++2Nd Slot 4Th Ability: Confuse Ward
+%Credits: Codejunkies
+$1031D996 0000804F
++2Nd Slot 4Th Ability: Confuseproof
+%Credits: Codejunkies
+$1031D996 0000804E
++2Nd Slot 4Th Ability: Counter Attack
+%Credits: Codejunkies
+$1031D996 00008003
++2Nd Slot 4Th Ability: Curseproof
+%Credits: Codejunkies
+$1031D996 00008052
++2Nd Slot 4Th Ability: Curseward
+%Credits: Codejunkies
+$1031D996 00008053
++2Nd Slot 4Th Ability: Darkproof
+%Credits: Codejunkies
+$1031D996 00008048
++2Nd Slot 4Th Ability: Darkstrike
+%Credits: Codejunkies
+$1031D996 00008046
++2Nd Slot 4Th Ability: Darktouch
+%Credits: Codejunkies
+$1031D996 00008047
++2Nd Slot 4Th Ability: Darkward
+%Credits: Codejunkies
+$1031D996 00008049
++2Nd Slot 4Th Ability: Deathproof
+%Credits: Codejunkies
+$1031D996 00008030
++2Nd Slot 4Th Ability: Deathstrike
+%Credits: Codejunkies
+$1031D996 0000802E
++2Nd Slot 4Th Ability: Deathtouch
+%Credits: Codejunkies
+$1031D996 0000802F
++2Nd Slot 4Th Ability: Deathward
+%Credits: Codejunkies
+$1031D996 00008031
++2Nd Slot 4Th Ability: Def+3
+%Credits: Codejunkies
+$1031D996 0000806A
++2Nd Slot 4Th Ability: Def+5
+%Credits: Codejunkies
+$1031D996 0000806B
++2Nd Slot 4Th Ability: Def+10
+%Credits: Codejunkies
+$1031D996 0000806C
++2Nd Slot 4Th Ability: Def+20
+%Credits: Codejunkies
+$1031D996 0000806D
++2Nd Slot 4Th Ability: Distil Ability
+%Credits: Codejunkies
+$1031D996 0000807F
++2Nd Slot 4Th Ability: Distil Mana
+%Credits: Codejunkies
+$1031D996 0000807D
++2Nd Slot 4Th Ability: Distil Power
+%Credits: Codejunkies
+$1031D996 0000807C
++2Nd Slot 4Th Ability: Distil Speed
+%Credits: Codejunkies
+$1031D996 0000807E
++2Nd Slot 4Th Ability: Double Ap
+%Credits: Codejunkies
+$1031D996 00008012
++2Nd Slot 4Th Ability: Double Overdrive
+%Credits: Codejunkies
+$1031D996 0000800E
++2Nd Slot 4Th Ability: Evade And Counter
+%Credits: Codejunkies
+$1031D996 00008004
++2Nd Slot 4Th Ability: Fire Eater
+%Credits: Codejunkies
+$1031D996 00008021
++2Nd Slot 4Th Ability: Fireproof
+%Credits: Codejunkies
+$1031D996 00008020
++2Nd Slot 4Th Ability: Firestrike
+%Credits: Codejunkies
+$1031D996 0000801E
++2Nd Slot 4Th Ability: Fireward
+%Credits: Codejunkies
+$1031D996 0000801F
++2Nd Slot 4Th Ability: First Strike
+%Credits: Codejunkies
+$1031D996 00008001
++2Nd Slot 4Th Ability: Gillionaire
+%Credits: Codejunkies
+$1031D996 0000801A
++2Nd Slot 4Th Ability: Half MP Cost
+%Credits: Codejunkies
+$1031D996 0000800C
++2Nd Slot 4Th Ability: Have Sensor
+%Credits: Codejunkies
+$1031D996 00008000
++2Nd Slot 4Th Ability: HP Stroll
+%Credits: Codejunkies
+$1031D996 0000801B
++2Nd Slot 4Th Ability: HP+5
+%Credits: Codejunkies
+$1031D996 00008072
++2Nd Slot 4Th Ability: HP+10
+%Credits: Codejunkies
+$1031D996 00008073
++2Nd Slot 4Th Ability: HP+20
+%Credits: Codejunkies
+$1031D996 00008074
++2Nd Slot 4Th Ability: HP+30
+%Credits: Codejunkies
+$1031D996 00008075
++2Nd Slot 4Th Ability: Ice Eater
+%Credits: Codejunkies
+$1031D996 00008025
++2Nd Slot 4Th Ability: Ice Proof
+%Credits: Codejunkies
+$1031D996 00008024
++2Nd Slot 4Th Ability: Ice Ward
+%Credits: Codejunkies
+$1031D996 00008023
++2Nd Slot 4Th Ability: Icestrike
+%Credits: Codejunkies
+$1031D996 00008022
++2Nd Slot 4Th Ability: Initiative
+%Credits: Codejunkies
+$1031D996 00008002
++2Nd Slot 4Th Ability: Lighteater
+%Credits: Codejunkies
+$1031D996 00008029
++2Nd Slot 4Th Ability: Lightproof
+%Credits: Codejunkies
+$1031D996 00008028
++2Nd Slot 4Th Ability: Lightstrike
+%Credits: Codejunkies
+$1031D996 00008026
++2Nd Slot 4Th Ability: Lightward
+%Credits: Codejunkies
+$1031D996 00008027
++2Nd Slot 4Th Ability: Mag Def+3
+%Credits: Codejunkies
+$1031D996 0000806E
++2Nd Slot 4Th Ability: Mag Def+5
+%Credits: Codejunkies
+$1031D996 0000806F
++2Nd Slot 4Th Ability: Mag Def+10
+%Credits: Codejunkies
+$1031D996 00008070
++2Nd Slot 4Th Ability: Mag Def+20
+%Credits: Codejunkies
+$1031D996 00008071
++2Nd Slot 4Th Ability: Magic Booster
+%Credits: Codejunkies
+$1031D996 00008006
++2Nd Slot 4Th Ability: Magic Counter
+%Credits: Codejunkies
+$1031D996 00008005
++2Nd Slot 4Th Ability: Magic+3
+%Credits: Codejunkies
+$1031D996 00008066
++2Nd Slot 4Th Ability: Magic+5
+%Credits: Codejunkies
+$1031D996 00008067
++2Nd Slot 4Th Ability: Magic+10
+%Credits: Codejunkies
+$1031D996 00008068
++2Nd Slot 4Th Ability: Magic+20
+%Credits: Codejunkies
+$1031D996 00008069
++2Nd Slot 4Th Ability: Master Thief
+%Credits: Codejunkies
+$1031D996 00008016
++2Nd Slot 4Th Ability: MP Stroll
+%Credits: Codejunkies
+$1031D996 0000801C
++2Nd Slot 4Th Ability: MP+5
+%Credits: Codejunkies
+$1031D996 00008076
++2Nd Slot 4Th Ability: MP+10
+%Credits: Codejunkies
+$1031D996 00008077
++2Nd Slot 4Th Ability: MP+20
+%Credits: Codejunkies
+$1031D996 00008078
++2Nd Slot 4Th Ability: MP+30
+%Credits: Codejunkies
+$1031D996 00008079
++2Nd Slot 4Th Ability: No Ap
+%Credits: Codejunkies
+$1031D996 00008014
++2Nd Slot 4Th Ability: No Encounters
+%Credits: Codejunkies
+$1031D996 0000801D
++2Nd Slot 4Th Ability: One MP Cost
+%Credits: Codejunkies
+$1031D996 0000800D
++2Nd Slot 4Th Ability: Overdrive Ap
+%Credits: Codejunkies
+$1031D996 00008011
++2Nd Slot 4Th Ability: Pickpocket
+%Credits: Codejunkies
+$1031D996 00008015
++2Nd Slot 4Th Ability: Piercing
+%Credits: Codejunkies
+$1031D996 0000800B
++2Nd Slot 4Th Ability: Poisonproof
+%Credits: Codejunkies
+$1031D996 0000803C
++2Nd Slot 4Th Ability: Poisonstrike
+%Credits: Codejunkies
+$1031D996 0000803A
++2Nd Slot 4Th Ability: Poisontouch
+%Credits: Codejunkies
+$1031D996 0000803B
++2Nd Slot 4Th Ability: Poisonward
+%Credits: Codejunkies
+$1031D996 0000803D
++2Nd Slot 4Th Ability: Ribbon
+%Credits: Codejunkies
+$1031D996 00008080
++2Nd Slot 4Th Ability: Silence Ward
+%Credits: Codejunkies
+$1031D996 00008045
++2Nd Slot 4Th Ability: Silenceproof
+%Credits: Codejunkies
+$1031D996 00008044
++2Nd Slot 4Th Ability: Silencestrike
+%Credits: Codejunkies
+$1031D996 00008042
++2Nd Slot 4Th Ability: Silencetouch
+%Credits: Codejunkies
+$1031D996 00008043
++2Nd Slot 4Th Ability: Sleepproof
+%Credits: Codejunkies
+$1031D996 00008040
++2Nd Slot 4Th Ability: Sleepstrike
+%Credits: Codejunkies
+$1031D996 0000803E
++2Nd Slot 4Th Ability: Sleeptouch
+%Credits: Codejunkies
+$1031D996 0000803F
++2Nd Slot 4Th Ability: Sleepward
+%Credits: Codejunkies
+$1031D996 00008041
++2Nd Slot 4Th Ability: Slow Ward
+%Credits: Codejunkies
+$1031D996 0000804D
++2Nd Slot 4Th Ability: Slowproof
+%Credits: Codejunkies
+$1031D996 0000804C
++2Nd Slot 4Th Ability: Slowstrike
+%Credits: Codejunkies
+$1031D996 0000804A
++2Nd Slot 4Th Ability: Slowtouch
+%Credits: Codejunkies
+$1031D996 0000804B
++2Nd Slot 4Th Ability: Sos Haste
+%Credits: Codejunkies
+$1031D996 0000805B
++2Nd Slot 4Th Ability: Sos Nullblaze
+%Credits: Codejunkies
+$1031D996 00008061
++2Nd Slot 4Th Ability: Sos Nullfrost
+%Credits: Codejunkies
+$1031D996 0000805F
++2Nd Slot 4Th Ability: Sos Nullshock
+%Credits: Codejunkies
+$1031D996 00008060
++2Nd Slot 4Th Ability: Sos Nulltide
+%Credits: Codejunkies
+$1031D996 0000805E
++2Nd Slot 4Th Ability: Sos Overdrive
+%Credits: Codejunkies
+$1031D996 00008010
++2Nd Slot 4Th Ability: Sos Protect
+%Credits: Codejunkies
+$1031D996 0000805A
++2Nd Slot 4Th Ability: Sos Reflect
+%Credits: Codejunkies
+$1031D996 0000805D
++2Nd Slot 4Th Ability: Sos Regen
+%Credits: Codejunkies
+$1031D996 0000805C
++2Nd Slot 4Th Ability: Sos Shell
+%Credits: Codejunkies
+$1031D996 00008059
++2Nd Slot 4Th Ability: Stoneproof
+%Credits: Codejunkies
+$1031D996 00008038
++2Nd Slot 4Th Ability: Stonestrike
+%Credits: Codejunkies
+$1031D996 00008036
++2Nd Slot 4Th Ability: Stonetouch
+%Credits: Codejunkies
+$1031D996 00008037
++2Nd Slot 4Th Ability: Stoneward
+%Credits: Codejunkies
+$1031D996 00008039
++2Nd Slot 4Th Ability: Strength+3
+%Credits: Codejunkies
+$1031D996 00008062
++2Nd Slot 4Th Ability: Strength+5
+%Credits: Codejunkies
+$1031D996 00008063
++2Nd Slot 4Th Ability: Strength+10
+%Credits: Codejunkies
+$1031D996 00008064
++2Nd Slot 4Th Ability: Strength+20
+%Credits: Codejunkies
+$1031D996 00008065
++2Nd Slot 4Th Ability: Triple Ap
+%Credits: Codejunkies
+$1031D996 00008013
++2Nd Slot 4Th Ability: Triple Overdrive
+%Credits: Codejunkies
+$1031D996 0000800F
++2Nd Slot 4Th Ability: Watereater
+%Credits: Codejunkies
+$1031D996 0000802D
++2Nd Slot 4Th Ability: Waterproof
+%Credits: Codejunkies
+$1031D996 0000802C
++2Nd Slot 4Th Ability: Waterstrike
+%Credits: Codejunkies
+$1031D996 0000802A
++2Nd Slot 4Th Ability: Waterward
+%Credits: Codejunkies
+$1031D996 0000802B
++2Nd Slot 4Th Ability: Zombieproof
+%Credits: Codejunkies
+$1031D996 00008034
++2Nd Slot 4Th Ability: Zombiestrike
+%Credits: Codejunkies
+$1031D996 00008032
++2Nd Slot 4Th Ability: Zombietouch
+%Credits: Codejunkies
+$1031D996 00008033
++2Nd Slot 4Th Ability: Zombieward
+%Credits: Codejunkies
+$1031D996 00008035
+!!
+!Yojimbo:
++Présent Dans La Partie
+%Credits: Codejunkies
+$0031F2E0 00000011
+!!
++Yojimbo "Compatibility" {<I>This Will Make Yojimbo Use &Quot;Zanmato&Quot; Every Time (Providing You Don&#39;T Pay Him 0, In Which Case He Will Still Dismiss Himself)</I>}
+%Credits: RyTheHexer
+$0031D274 000000FF
+!!
+

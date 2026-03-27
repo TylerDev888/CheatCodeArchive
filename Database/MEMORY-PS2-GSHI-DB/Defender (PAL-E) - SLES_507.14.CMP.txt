@@ -1,0 +1,67 @@
+^3 = NAME: Defender (PAL-E)
+^2 = GameID: SLES-50714
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F023B254 0023B257
+!!
+!Credits Codes:
++Infinite Credits
+%Credits: Codejunkies
+$10567348 0000FFFF
++Never Have More Than 1 Credit
+%Credits: Codejunkies
+$E0010001 30567348
+$10567348 00000001
++Never Have More Than 2 Credits
+%Credits: Codejunkies
+$E0010002 30567348
+$10567348 00000002
++Never Have More Than 3 Credits
+%Credits: Codejunkies
+$E0010003 30567348
+$10567348 00000003
++Never Have More Than 4 Credits
+%Credits: Codejunkies
+$E0010004 30567348
+$10567348 00000004
++Never Have More Than 5 Credits
+%Credits: Codejunkies
+$E0010005 30567348
+$10567348 00000005
+!!
+!Lives Codes:
++Infinite Ammo
+%Credits: Codejunkies
+$201E1874 00000000
+$201E1864 00000000
++Infinite Health
+%Credits: Codejunkies
+$20129928 E6420208
+$20129924 C642020C
++Infinite Lives
+%Credits: Codejunkies
+$00567344 00000063
++Never Have More Than 1 Life
+%Credits: Codejunkies
+$E1010001 30567344
+$00567344 00000001
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E1010002 30567344
+$00567344 00000002
++Never Have More Than 3 Lives
+%Credits: Codejunkies
+$E1010003 30567344
+$00567344 00000003
++Never Have More Than 4 Lives
+%Credits: Codejunkies
+$E1010004 30567344
+$00567344 00000004
++Never Have More Than 5 Lives
+%Credits: Codejunkies
+$E1010005 30567344
+$00567344 00000005
+!!
+!!
+

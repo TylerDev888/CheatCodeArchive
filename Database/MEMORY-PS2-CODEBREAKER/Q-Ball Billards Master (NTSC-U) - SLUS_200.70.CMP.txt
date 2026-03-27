@@ -1,0 +1,30 @@
+^1 = HASH: 6581022D
+^3 = NAME: Q-Ball Billards Master
+^2 = GameID: SLUS_200.70
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master>StalkerX
+$F0100008 001FF9CB
+!!
+!Codes:
++P1 Score Modifier
+%Credits: Code Master>StalkerX
+$10216F2E 000000??
++P1 Start With Score Modifier
+%Credits: Code Master>StalkerX
+$D0216F2E 00000000
+$10216F2E 000000??
++P2 Score Modifier
+%Credits: Code Master>StalkerX
+$10216F58 000000??
++P2 Start With Score Modifier
+%Credits: Code Master>StalkerX
+$D0216F58 00000000
+$10216F58 000000??
++Always P1's Turn
+%Credits: Code Master>StalkerX
+$1075BB70 00000000
++Always P2's Turn
+%Credits: Code Master>StalkerX
+$1075BB70 00000001
+!!

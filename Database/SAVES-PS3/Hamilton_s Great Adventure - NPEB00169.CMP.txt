@@ -1,0 +1,10 @@
+^2 = GameID: NPEB00169
+^3 = NAME: Hamilton's Great Adventure
+(From aldo tools)
+^4 = FILE: AUTOSAVE.SAV
++Update Crc32 For Autosave.sav (required)
+(set range:0x000004,0x0002BF)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

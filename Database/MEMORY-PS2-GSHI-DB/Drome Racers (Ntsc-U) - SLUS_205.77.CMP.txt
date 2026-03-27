@@ -1,0 +1,54 @@
+^3 = NAME: Drome Racers (Ntsc-U)
+^2 = GameID: SLUS-20577
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0134474 00134477
++Enable Code (Must Be On)
+%Credits: Code Master
+$F03282A0 00134477
+!!
+!Career Mode Codes:
++Max Build Tokens
+%Credits: Code Master
+$204F3F04 05F5E0FF
++Max Credits
+%Credits: Code Master
+$204F3F00 05F5E0FF
++Quick Build Token Gain
+%Credits: Code Master
+$104F3F04 0000FFFF
++Quick Credits Gain
+%Credits: Code Master
+$104F3F00 0000FFFF
+!!
+!Credits Codes:
++Always Have 0 Credits
+%Credits: Codejunkies
+$E0020000 304F3F00
+$E0010000 304F3F02
+$204F3F00 00000000
++Never Have More Than 1 Credits
+%Credits: Codejunkies
+$E0020001 304F3F00
+$E0010000 304F3F02
+$204F3F00 00000001
++Never Have More Than 2 Credits
+%Credits: Codejunkies
+$E0020002 304F3F00
+$E0010000 304F3F02
+$204F3F00 00000002
++Never Have More Than 3 Credits
+%Credits: Codejunkies
+$E0020003 304F3F00
+$E0010000 304F3F02
+$204F3F00 00000003
+!!
++Stop Lap Timer
+%Credits: Code Master
+$20270F2C 00000000
++Stop Total Lap Timer
+%Credits: Code Master
+$202AF7DC 00000000
+!!
+

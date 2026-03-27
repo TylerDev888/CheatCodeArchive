@@ -1,0 +1,164 @@
+^3 = NAME: Arcana Heart (NTSC-U)
+^2 = GameID: SLUS-21720
+!Master Codes:
++Enable Code
+%Credits: lee4
+$901DA958 0C0769FE
++Enable Code
+%Credits: nolberto82
+$901D3B28 0C07A3CE
+!!
++Damage P2 Any Distance Any Attack Button Hold To Do Fast Kill
+%Credits: Skiller
+$200A0000 3C010049
+$200A0004 90213C5D
+$200A0008 240200FF
+$200A000C 10410007
+$200A0014 3C010047
+$200A0018 9C22B094
+$200A001C 10020003
+$200A0020 24030100
+$200A0024 00431023
+$200A0028 AC22B094
+$200A002C 03E00008
+$201D3B74 08028000
++Enable Debug Menu At Startup
+%Credits: punk7890
+$203BA828 00000001
++Hit Anywhere Both Players
+%Credits: nolberto82
+$2013CB88 10000005
+$2013B588 00000000
+!Player 1 Codes:
++P1 Arcana Mod[MOD2]
+%Credits: lee4
+$00468FB4 000000??
++P1 Character Mod[MOD1].
+%Credits: lee4
+$00468F9C 000000??
++P1 Inf Homing
+%Credits: lee4
+$20469DC4 000011F8
+$20469DC8 000011F8
+$20469DCC 000011F8
++P1 Inf Super
+%Credits: lee4
+$20469DC0 00026000
++P1 Infinite HP
+%Credits: lee4
+$20469FA8 00006510
+$20469FAC 00006510
++P2 No Health (P1 Press Select)
+%Credits: lee4
+$D0493C5C 0000FFFE
+$2046B094 00000000
+!!
+!Player 2 Codes:
++P1 No Health (P2 Press Select)
+%Credits: lee4
+$D0493D5C 0000FFFE
+$20469FA8 00000000
++P2 Arcana Mod[MOD2]
+%Credits: lee4
+$00468FB8 000000??
++P2 Character Mod[MOD1].
+%Credits: lee4
+$00468FA0 000000??
++P2 Inf Homing
+%Credits: lee4
+$2046AEB0 000011F8
+$2046AEB4 000011F8
+$2046AEB8 000011F8
++P2 Inf Super
+%Credits: lee4
+$2046AEAC 00026000
++P2 Infinite HP
+%Credits: lee4
+$2046B094 00006510
+$2046B098 00006510
++P2 No Homing
+%Credits: lee4
+$2046AEB0 00000000
+$2046AEB4 00000000
+$2046AEB8 00000000
++P2 No Super
+%Credits: lee4
+$2046AEAC 00000000
+!!
+!Unlock Gallery:
++Arcanas
+%Credits: Skiller
+$40323ED0 000B0001
+$00000001 00000000
++Heart Aino
+%Credits: Skiller
+$00323EA0 00000011
++Kamui Tokinomiya
+%Credits: Skiller
+$00323EA8 0000000C
++Kira Daldohji
+%Credits: Skiller
+$00323EC4 0000000A
++Konoha
+%Credits: Skiller
+$00323EAC 0000000C
++Lieselotte Achenbach
+%Credits: Skiller
+$00323EBC 0000000A
++Lilloa Relohenerow
+%Credits: Skiller
+$00323EB8 0000000E
++Maori Kasuga
+%Credits: Skiller
+$00323EB0 0000000B
++Mel-Rang
+%Credits: Skiller
+$00323EB4 0000000B
++Mildred Avaion
+%Credits: Skiller
+$00323ECC 00000001
++Riona Mayfield
+%Credits: Skiller
+$00323EC8 0000000B
++Saki Tsuzura
+%Credits: Skiller
+$00323EA4 00000010
++Unlock Extras
+%Credits: Skiller
+$40323E70 000B0001
+$00000001 00000000
++Yoriko Yasuzumi
+%Credits: Skiller
+$00323EC0 0000000B
+!!
+!!
+^6 = MODS:
+[MOD1]
+00	Partinias, Arcana of Love
+01	Bhanri, Arcana of Thunder
+02	Anutpada, Arcana of Time
+03	Moriomoto, Arcana of Wood
+04	Ohtsuchi, Arcana of Earth
+05	Lang-gong, Arcana of Fire
+06	Gier, Arcana of Darkness
+07	Tempestas, Arcana of Wind
+08	Dieu mort, Arcana of Evil
+09	Niptra, Arcana of Water
+0A	Oreichalkos, Arcana of Metal
+0B	Mildred Avallone
+[/MOD1]
+[MOD2]
+00	Partinias, Arcana of Love
+01	Bhanri, Arcana of Thunder
+02	Anutpada, Arcana of Time
+03	Moriomoto, Arcana of Wood
+04	Ohtsuchi, Arcana of Earth
+05	Lang-gong, Arcana of Fire
+06	Gier, Arcana of Darkness
+07	Tempestas, Arcana of Wind
+08	Dieu mort, Arcana of Evil
+09	Niptra, Arcana of Water
+0A	Oreichalkos, Arcana of Metal
+0B	Mildred Avallone
+[/MOD2]
+

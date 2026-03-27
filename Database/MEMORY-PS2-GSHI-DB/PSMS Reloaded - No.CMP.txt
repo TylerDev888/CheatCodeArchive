@@ -1,0 +1,15 @@
+^3 = NAME: PSMS Reloaded
+^2 = GameID: No
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: lee4
+$9013F4A0 0C04FCD2
+!!
++Bank RAM Pointer {<I>Only RAM Codes Starts With 00Ey-Yyxx Will Work.  Download PSMS Reloaded by bootsector http://psx-scene.com/forums/showpost.php?p=430731&amp;postcount=2</i>}
+%Credits: lee4
+$6034C910 000000??
++Main RAM Pointer {<I>Only RAM Codes Starts With 00Cy-Yyxx Will Work.<Br>Download PSMS Reloaded by bootsector<br>http://psx-scene.com/forums/showpost.php?p=430731&amp;postcount=2</i>}
+%Credits: lee4
+$6034C908 000000??
+!!
+

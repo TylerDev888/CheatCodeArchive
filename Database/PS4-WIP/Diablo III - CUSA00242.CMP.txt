@@ -1,0 +1,13 @@
+^2 = GameID: CUSA00242
+^3 = NAME: Diablo III
+^5 = APCRED: by bucanero
+^4 = FILE: account.dat
++Decrypt Account.dat (required)
+$set range:0x000000,eof+1
+$DECRYPT diablo3
+()
+(cheat codes go here)
+()
++Encrypt Account.dat (required)
+$set range:0x000000,eof+1
+$ENCRYPT diablo3

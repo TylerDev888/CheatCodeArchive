@@ -1,0 +1,509 @@
+^3 = NAME: WWE Smackdown! Vs. Raw 2008 (Ntsc-U)
+^2 = GameID: SLUS-21645
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: CMX
+$9016AB20 00832021
+!!
++Do Not Lose Momentum After Special Move
+%Credits: CMX
+$D04E805C 0000802D
+$204E8070 00000000
++Have Almost Everything Purchased
+%Credits: CMX
+$204AB880 FFFFFFFF
+$104AB884 0000FFFF
+!Limb Damage Modifiers:
++Player 1 Damage Modifier - Arm {<I>Values -  00 - Undamaged DB - Yellow Damage A2 - Orange Damage 80 - Red Damage</I>}
+%Credits: BigBossman
+$0043BF9B 000000??
++Player 1 Damage Modifier - Body
+%Credits: BigBossman
+$0043BF99 000000??
++Player 1 Damage Modifier - Head
+%Credits: BigBossman
+$0043BF97 000000??
++Player 1 Damage Modifier - Leg
+%Credits: BigBossman
+$0043BF9D 000000??
++Player 2 Damage Modifier - Arm
+%Credits: BigBossman
+$0043BFC3 000000??
++Player 2 Damage Modifier - Body
+%Credits: BigBossman
+$0043BFC1 000000??
++Player 2 Damage Modifier - Head
+%Credits: BigBossman
+$0043BFBF 000000??
++Player 2 Damage Modifier - Leg
+%Credits: BigBossman
+$0043BFC5 000000??
++Player 3 Damage Modifier - Arm
+%Credits: BigBossman
+$0043BFEB 000000??
++Player 3 Damage Modifier - Body
+%Credits: BigBossman
+$0043BFE9 000000??
++Player 3 Damage Modifier - Head
+%Credits: BigBossman
+$0043BFE7 000000??
++Player 3 Damage Modifier - Leg
+%Credits: BigBossman
+$0043BFED 000000??
++Player 4 Damage Modifier - Arm
+%Credits: BigBossman
+$0043C013 000000??
++Player 4 Damage Modifier - Body
+%Credits: BigBossman
+$0043C011 000000??
++Player 4 Damage Modifier - Head
+%Credits: BigBossman
+$0043C00F 000000??
++Player 4 Damage Modifier - Leg
+%Credits: BigBossman
+$0043C015 000000??
++Player 5 Damage Modifier - Arm
+%Credits: BigBossman
+$0043C03B 000000??
++Player 5 Damage Modifier - Body
+%Credits: BigBossman
+$0043C039 000000??
++Player 5 Damage Modifier - Head
+%Credits: BigBossman
+$0043C037 000000??
++Player 5 Damage Modifier - Leg
+%Credits: BigBossman
+$0043C03D 000000??
++Player 6 Damage Modifier - Arm
+%Credits: BigBossman
+$0043C063 000000??
++Player 6 Damage Modifier - Body
+%Credits: BigBossman
+$0043C061 000000??
++Player 6 Damage Modifier - Head
+%Credits: BigBossman
+$0043C05F 000000??
++Player 6 Damage Modifier - Leg
+%Credits: BigBossman
+$0043C065 000000??
++Referee 1 Damage Modifier (4-Man Match) - Arm
+%Credits: BigBossman
+$0043C08B 000000??
++Referee 1 Damage Modifier (4-Man Match) - Body
+%Credits: BigBossman
+$0043C089 000000??
++Referee 1 Damage Modifier (4-Man Match) - Head
+%Credits: BigBossman
+$0043C087 000000??
++Referee 1 Damage Modifier (4-Man Match) - Leg
+%Credits: BigBossman
+$0043C08D 000000??
++Referee 2 Damage Modifier (5-Man Match) - Arm
+%Credits: BigBossman
+$0043C0B3 000000??
++Referee 2 Damage Modifier (5-Man Match) - Body
+%Credits: BigBossman
+$0043C0B1 000000??
++Referee 2 Damage Modifier (5-Man Match) - Head
+%Credits: BigBossman
+$0043C0AF 000000??
++Referee 2 Damage Modifier (5-Man Match) - Leg
+%Credits: BigBossman
+$0043C0B5 000000??
++Referee 3 Damage Modifier (6-Man Match) - Arm
+%Credits: BigBossman
+$0043C0DB 000000??
++Referee 3 Damage Modifier (6-Man Match) - Body
+%Credits: BigBossman
+$0043C0D9 000000??
++Referee 3 Damage Modifier (6-Man Match) - Head
+%Credits: BigBossman
+$0043C0D7 000000??
++Referee 3 Damage Modifier (6-Man Match) - Leg
+%Credits: BigBossman
+$0043C0DD 000000??
+!!
++Momentum Never Increases/Decreases
+%Credits: CMX
+$D04E7A20 0000182D
+$204E7A4C 00000000
++P1 Press R1+Select For Hyper Mode
+%Credits: CMX
+$D1CF8782 0000F7FE
+$2028F9DC 00000000
++P1 Press R2+Select For Normal Speed
+%Credits: CMX
+$D1CF8782 0000FDFE
+$2028F9DC 0060F809
+!Pinning Codes:
++P1 Press L1+Select While Pinning For Instant 3 Count
+%Credits: CMX
+$D1CF8782 0000FBFE
+$20520CD4 00000000
+$D1CF8782 0000FFFF
+$20520CD4 54900024
++P1 Press L2+Select While Pinning To Reset Pin Count
+%Credits: CMX
+$E002FEFE 01CF8782
+$20520CD0 24040000
+$20520CD8 AE440060
+$E002FFFF 01CF8782
+$20520CD0 8E440060
+$20520CD8 8E430064
++P2 Press L1+Select While Pinning For Instant 3 Count
+%Credits: CMX
+$D1CF8962 0000FBFE
+$20520CD4 00000000
+$D1CF8962 0000FFFF
+$20520CD4 54900024
++P2 Press L2+Select While Pinning To Reset Pin Count
+%Credits: CMX
+$E002FEFE 01CF8962
+$20520CD0 24040000
+$20520CD8 AE440060
+$E002FFFF 01CF8962
+$20520CD0 8E440060
+$20520CD8 8E430064
++P3 Press L1+Select While Pinning For Instant 3 Count
+%Credits: CMX
+$D1CF8B42 0000FBFE
+$20520CD4 00000000
+$D1CF8B42 0000FFFF
+$20520CD4 54900024
++P3 Press L2+Select While Pinning To Reset Pin Count
+%Credits: CMX
+$E002FEFE 01CF8B42
+$20520CD0 24040000
+$20520CD8 AE440060
+$E002FFFF 01CF8B42
+$20520CD0 8E440060
+$20520CD8 8E430064
++P4 Press L1+Select While Pinning For Instant 3 Count
+%Credits: CMX
+$D1CF8D22 0000FBFE
+$20520CD4 00000000
+$D1CF8D22 0000FFFF
+$20520CD4 54900024
++P4 Press L2+Select While Pinning To Reset Pin Count
+%Credits: CMX
+$E002FEFE 01CF8D22
+$20520CD0 24040000
+$20520CD8 AE440060
+$E002FFFF 01CF8D22
+$20520CD0 8E440060
+$20520CD8 8E430064
++P5 Press L1+Select While Pinning For Instant 3 Count
+%Credits: CMX
+$D1CF8F02 0000FBFE
+$20520CD4 00000000
+$D1CF8F02 0000FFFF
+$20520CD4 54900024
++P5 Press L2+Select While Pinning To Reset Pin Count
+%Credits: CMX
+$E002FEFE 01CF8F02
+$20520CD0 24040000
+$20520CD8 AE440060
+$E002FFFF 01CF8F02
+$20520CD0 8E440060
+$20520CD8 8E430064
++P6 Press L1+Select While Pinning For Instant 3 Count
+%Credits: CMX
+$D1CF90E2 0000FBFE
+$20520CD4 00000000
+$D1CF90E2 0000FFFF
+$20520CD4 54900024
++P6 Press L2+Select While Pinning To Reset Pin Count
+%Credits: CMX
+$E002FEFE 01CF90E2
+$20520CD0 24040000
+$20520CD8 AE440060
+$E002FFFF 01CF90E2
+$20520CD0 8E440060
+$20520CD8 8E430064
++P7 Press L1+Select While Pinning For Instant 3 Count
+%Credits: CMX
+$D1CF92C2 0000FBFE
+$20520CD4 00000000
+$D1CF92C2 0000FFFF
+$20520CD4 54900024
++P7 Press L2+Select While Pinning To Reset Pin Count
+%Credits: CMX
+$E002FEFE 01CF92C2
+$20520CD0 24040000
+$20520CD8 AE440060
+$E002FFFF 01CF92C2
+$20520CD0 8E440060
+$20520CD8 8E430064
++P8 Press L1+Select While Pinning For Instant 3 Count
+%Credits: CMX
+$D1CF94A2 0000FBFE
+$20520CD4 00000000
+$D1CF94A2 0000FFFF
+$20520CD4 54900024
++P8 Press L2+Select While Pinning To Reset Pin Count
+%Credits: CMX
+$E002FEFE 01CF94A2
+$20520CD0 24040000
+$20520CD8 AE440060
+$E002FFFF 01CF94A2
+$20520CD0 8E440060
+$20520CD8 8E430064
+!!
+!Play As Referee Modifiers:
++Press Select & L1 To Play As The Referee In A Two Character Match {<I>Button Combinations Must Be Pressed &Amp; Held During The Loading Screen After The Entrances. Press X To Count A Pinfall Or Out Of Ring Count. If You Climb Out Of A Steel Cage, You Will Be Declared The Winner. If There Is A Title Being Defended, &Amp; The Referee Wins, He Will Be Awarded That Championship Belt. BE Warned If The Referee Wins The Championship, It Will Be Hard Or Near Impossible To Win The Title Back Because The Referee Doesn&#39;T Appear In The Character Select Menu.</I>}
+%Credits: BigBossman
+$E004FBFE 01CF8782
+$0043BF8C 00000001
+$0043BFB4 00000001
+$0043C024 00000000
+$0043C02C 00000000
++Press Select & L2 To Play As The Referee In A Three Character Match
+%Credits: BigBossman
+$E005FEFE 01CF8782
+$0043BF8C 00000001
+$0043BFB4 00000001
+$0043BFDC 00000001
+$0043C054 00000000
+$0043C04C 00000000
++Press Select & R1 To Play As The Referee In A Four Character Match
+%Credits: BigBossman
+$E006F7FE 01CF8782
+$0043BF8C 00000001
+$0043BFB4 00000001
+$0043BFDC 00000001
+$0043C004 00000001
+$0043C074 00000000
+$0043C07C 00000000
++Press Select & R2 To Play As The Referee In A Five Character Match
+%Credits: BigBossman
+$E007FDFE 01CF8782
+$0043BF8C 00000001
+$0043BFB4 00000001
+$0043BFDC 00000001
+$0043C004 00000001
+$0043C02C 00000001
+$0043C09C 00000000
+$0043C0A4 00000000
++Press Select To Play As The Referee In A Six Character Match
+%Credits: BigBossman
+$E008FFFE 01CF8782
+$0043BF8C 00000001
+$0043BFB4 00000001
+$0043BFDC 00000001
+$0043C004 00000001
+$0043C02C 00000001
+$0043C054 00000001
+$0043C0C4 00000000
+$0043C0CC 00000000
+!!
++Player 1 Modifier {<I>Values -  0001 - The Rock 0065 - Steve Austin 00C9 - Triple H 00D4 - Triple H DX Attire 012D - Undertaker 02BD - Kane 0321 - King Booker 03E9 - Edge 044D - Jeff Hardy 04B1 - Matt Hardy 0515 - Shane Mcmahon 0579 - JBL 05DD - Mr. Mcmahon 05E7 - Mr. Mcmahon Shaved Head 0641 - Triple H (Suit) 06A5 - William Regal 0709 - Carlito 07D1 - Bobby Lashley 0835 - Mr. Mcmahon (Suit) 08FD - Rey Mysterio 0961 - JBL (Suit) 0A8D - Maria 0BB9 - Ric Flair 0C1D - CM Punk 0CE5 - Kenny Dykstra 0D49 - Chris Masters 0DAD - MVP 0E75 - Chavo Guerrero 0F3D - John Cena 0FA1 - Gregory Helms 1005 - Candice Michelle 1069 - Torrie Wilson 10CD - Mickie James 1131 - Mick Foley 1195 - Shawn Michaels 119F - Shawn Michaels DX Attire 11F9 - Rick Rude 125D - Stephanie Mcmahon 12C1 - Mike Chioda 1325 - Nick Patrick 1389 - Michael Cole 13ED - Mickie Henson 1451 - Shane Mcmahon (Suit) 14B5 - Jerry Lawler 1519 - Jonathan Coachman 157D - Tazz 1645 - Umaga 16A9 - Finlay 170D - Roddy Piper 1771 - Batista 17D5 - Randy Orton 1839 - Mr. Kennedy 189D - Ashley 1901 - Kelly Kelly 1965 - JTG 19C9 - The Great Khali 1A2D - Snitsky 1A91 - Tommy Dreamer 1AF5 - Terry Funk 1B59 - Sabu 1BBD - Sandman 1C21 - Jim Ross 1CE9 - Melina 1D4D - Johnny Nitro 1E15 - Bret Hart 1E79 - Shad 1EDD - Mark Henry 1FA5 - Elijah Burke 2009 - Michelle Mccool 206D - Marcus Cor Von 20D1 - Armando Estrada 2135 - Joey Styles 2199 - Theodore Long 2261 - Tony Chimmel 22C5 - Lillian Garcia</I>}
+%Credits: BigBossman
+$1043BF90 0000????
++Player 1 Side Modifier {<I>These Codes Can Be Used To Create Some Alternate Match Types. For Example, You Can Play A 4 On 2 Match Or A Triple Threat Tag Match. In Order For Players To Be On The Same Side, They Need To Have The Same Values.</I>}
+%Credits: BigBossman
+$0043BF8E 000000??
++Player 1 Status Modifier {<I>These Codes Determine Whether A Player Is A Wrestler, Referee (Not Visually), Backstage Interference, Or Has Been Eliminated From The Match. Values -  00 - Wrestler 01 - Referee 02 - Manager 03 - Backstage Interference 04 - Froze THE GAME 05 - Eliminated &Amp; Outside Of The Ring (Can&#39;T Move) 06 - Eliminated From The Match Completely</I>}
+%Credits: BigBossman
+$0043BF88 000000??
++Player 2 Modifier
+%Credits: BigBossman
+$1043BFB8 0000????
++Player 2 Side Modifier
+%Credits: BigBossman
+$0043BFB6 000000??
++Player 2 Status Modifier
+%Credits: BigBossman
+$0043BFB0 000000??
++Player 3 Modifier
+%Credits: BigBossman
+$1043BFE0 0000????
++Player 3 Side Modifier
+%Credits: BigBossman
+$0043BFDE 000000??
++Player 3 Status Modifier
+%Credits: BigBossman
+$0043BFD8 000000??
++Player 4 Modifier
+%Credits: BigBossman
+$1043C008 0000????
++Player 4 Side Modifier
+%Credits: BigBossman
+$0043C006 000000??
++Player 4 Status Modifier
+%Credits: BigBossman
+$0043C000 000000??
++Player 5 Modifier
+%Credits: BigBossman
+$1043C030 0000????
++Player 5 Side Modifier
+%Credits: BigBossman
+$0043C02E 000000??
++Player 5 Status Modifier
+%Credits: BigBossman
+$0043C028 000000??
++Player 6 Modifier
+%Credits: BigBossman
+$1043C058 0000????
++Player 6 Side Modifier
+%Credits: BigBossman
+$0043C056 000000??
++Player 6 Status Modifier
+%Credits: BigBossman
+$0043C050 000000??
++Quick EXP Gain
+%Credits: CMX
+$2023DEA4 341203E8
++Quick Max EXP Gain
+%Credits: CMX
+$2023DE48 00000000
++Referee Modifier (6-Man Matches)
+%Credits: BigBossman
+$1043C0D0 0000????
++Referee Side Modifier (6-Man Matches)
+%Credits: BigBossman
+$0043C0CE 000000??
++Referee Status Modifier (6-Man Matches)
+%Credits: BigBossman
+$0043C0C8 000000??
++Startup Fmv's Disabled (OPL USB Fix) {<I>Press Start Once You Hear The Logo Music Playing.<Br>Recommended To Use. Allows The Game To Be Played On Open PS2 Loader From USB.<Br>FMV&#39;S Are Re-Enabled On The Title Menu And Cause No Issues.</I>}
+%Credits: 47iscool
+$D043A1B0 00000000
+$201B04C4 10020008
+$D043A1B0 00000280
+$201B04C4 12220008
++Super Quick EXP Gain
+%Credits: CMX
+$2023DEA4 34122710
++Unlock Almost Everything
+%Credits: CMX
+$204AB87C FFFFFFFF
+!Unlock Story Line Codes (ECW GM):
++B. Williams {<I>These Codes Unlock The Storylines That You Can Use For Your Rivalries In GM Mode To Add Higher Ratings To Your Matches. These Codes Only Work For The ECW GM.</I>}
+%Credits: BigBossman
+$0048C3DA 00000001
++C. Ledesma
+%Credits: BigBossman
+$0048C3C9 00000001
++C. Mack
+%Credits: BigBossman
+$0048C3F5 00000001
++D. Fifield
+%Credits: BigBossman
+$0048C3FE 00000001
++D. Ryan
+%Credits: BigBossman
+$0048C3D1 00000001
++F. Bowen
+%Credits: BigBossman
+$0048C3EC 00000001
++J. Jensen
+%Credits: BigBossman
+$0048C410 00000001
++K. Kirby
+%Credits: BigBossman
+$0048C3E3 00000001
++K. Kirk
+%Credits: BigBossman
+$0048C422 00000001
++T. Williams
+%Credits: BigBossman
+$0048C419 00000001
++W. Bunn
+%Credits: BigBossman
+$0048C407 00000001
++W. Schmitt
+%Credits: BigBossman
+$0048C42B 00000001
+!!
+!Unlock Story Line Codes (Raw GM):
++A. Frey {<I>These Codes Unlock The Storylines That You Can Use For Your Rivalries In GM Mode To Add Higher Ratings To Your Matches. These Codes Only Work With The Raw GM.</I>}
+%Credits: BigBossman
+$0048C33F 00000001
++B. Williams
+%Credits: BigBossman
+$0048C300 00000001
++C. Foling
+%Credits: BigBossman
+$0048C351 00000001
++C. Ledesma
+%Credits: BigBossman
+$0048C2EE 00000001
++C. Mack
+%Credits: BigBossman
+$0048C31B 00000001
++D. Knudsen
+%Credits: BigBossman
+$0048C348 00000001
++D. Ryan
+%Credits: BigBossman
+$0048C2F7 00000001
++F. Bowen
+%Credits: BigBossman
+$0048C312 00000001
++J. Smith
+%Credits: BigBossman
+$0048C32D 00000001
++K. Kirby
+%Credits: BigBossman
+$0048C309 00000001
++M. Morgan
+%Credits: BigBossman
+$0048C336 00000001
++T. Sharma
+%Credits: BigBossman
+$0048C324 00000001
+!!
+!Unlock Story Line Codes (Smackdown GM):
++B. Farache {<I>These Codes Unlock The Storylines That You Can Use For Your Rivalries In GM Mode To Add Higher Ratings To Your Matches. These Codes Only Work With The Smackdown GM.</I>}
+%Credits: BigBossman
+$0048C3AC 00000001
++D. Daniels
+%Credits: BigBossman
+$0048C3B5 00000001
++D. Fifield
+%Credits: BigBossman
+$0048C35B 00000001
++J. Jensen
+%Credits: BigBossman
+$0048C36D 00000001
++J. Peters
+%Credits: BigBossman
+$0048C39A 00000001
++J. Rowe
+%Credits: BigBossman
+$0048C3A3 00000001
++K. Kirk
+%Credits: BigBossman
+$0048C37F 00000001
++M. Cameron
+%Credits: BigBossman
+$0048C3BE 00000001
++S. Dauterman
+%Credits: BigBossman
+$0048C391 00000001
++T. Williams
+%Credits: BigBossman
+$0048C376 00000001
++W. Bunn
+%Credits: BigBossman
+$0048C364 00000001
++W. Schmitt
+%Credits: BigBossman
+$0048C388 00000001
+!!
+!WWE Shop Codes:
++Buying Items Doesnt Decrease WWE Cash
+%Credits: CMX
+$2023DDC0 00000000
++Buying Items Increases WWE Cash
+%Credits: CMX
+$2023DD98 00902021
++Max WWE Cash
+%Credits: CMX
+$20491C30 3B9AC9FF
++Quick WWE Cash Gain
+%Credits: CMX
+$10491C30 0000FFFF
+!!
+!!
+

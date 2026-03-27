@@ -1,0 +1,1221 @@
+^3 = NAME: Major League Baseball 2K5 (Ntsc-U)
+^2 = GameID: SLUS-21035
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0100214 00100217
++Enable Code (Must Be On)
+%Credits: Code Master
+$90790F2C 0C0400B4
++Enable Code (Must Be On)
+%Credits: Code Master
+$90785C2C 0C0400B4
+!!
++All Runs Score For Away Team
+%Credits: Code Master
+$D08C8D4C 00000000
+$101EDD94 00000084
+$D08C8D4C 00000001
+$101EDD94 00000080
++All Runs Score For Home Team
+%Credits: Code Master
+$D08C8D4C 00000000
+$101EDD94 00000080
+$D08C8D4C 00000001
+$101EDD94 00000084
++AR Max<3.14 Fix {<I>Use This Code If Is AR Max Is Prior Version 3.14.</I>}
+%Credits: Codejunkies
+$207815C0 3C03200F
+$207815C8 8C65FFF8
+$207815CC 24040079
+$207815D0 24030074
+$207815D4 0000000C
+!Away Team Error Modifier Codes:
++Inning 1
+%Credits: Code Master
+$00859491 000000??
++Inning 2
+%Credits: Code Master
+$008594A0 000000??
++Inning 3
+%Credits: Code Master
+$008594AF 000000??
++Inning 4
+%Credits: Code Master
+$008594BE 000000??
++Inning 5
+%Credits: Code Master
+$008594CD 000000??
++Inning 6
+%Credits: Code Master
+$008594DC 000000??
++Inning 7
+%Credits: Code Master
+$008594EB 000000??
++Inning 8
+%Credits: Code Master
+$008594FA 000000??
++Inning 9
+%Credits: Code Master
+$00859509 000000??
++Inning 10
+%Credits: Code Master
+$00859518 000000??
++Inning 11
+%Credits: Code Master
+$00859527 000000??
++Inning 12
+%Credits: Code Master
+$00859536 000000??
++Inning 13
+%Credits: Code Master
+$00859545 000000??
++Inning 14
+%Credits: Code Master
+$00859554 000000??
++Inning 15
+%Credits: Code Master
+$00859563 000000??
++Inning 16
+%Credits: Code Master
+$00859572 000000??
++Inning 17
+%Credits: Code Master
+$00859581 000000??
++Inning 18
+%Credits: Code Master
+$00859590 000000??
++Inning 19
+%Credits: Code Master
+$0085959F 000000??
++Inning 20
+%Credits: Code Master
+$008595AE 000000??
++Inning 21
+%Credits: Code Master
+$008595BD 000000??
++Inning 22
+%Credits: Code Master
+$008595CC 000000??
++Inning 23
+%Credits: Code Master
+$008595DB 000000??
++Inning 24
+%Credits: Code Master
+$008595EA 000000??
++Inning 25
+%Credits: Code Master
+$008595F9 000000??
+!!
+!Away Team Hits Modifier Codes:
++Inning 1
+%Credits: Code Master
+$0085949D 000000??
++Inning 2
+%Credits: Code Master
+$008594AC 000000??
++Inning 3
+%Credits: Code Master
+$008594BB 000000??
++Inning 4
+%Credits: Code Master
+$008594CA 000000??
++Inning 5
+%Credits: Code Master
+$008594D9 000000??
++Inning 6
+%Credits: Code Master
+$008594E8 000000??
++Inning 7
+%Credits: Code Master
+$008594F7 000000??
++Inning 8
+%Credits: Code Master
+$00859506 000000??
++Inning 9
+%Credits: Code Master
+$00859515 000000??
++Inning 10
+%Credits: Code Master
+$00859524 000000??
++Inning 11
+%Credits: Code Master
+$00859533 000000??
++Inning 12
+%Credits: Code Master
+$00859542 000000??
++Inning 13
+%Credits: Code Master
+$00859551 000000??
++Inning 14
+%Credits: Code Master
+$00859560 000000??
++Inning 15
+%Credits: Code Master
+$0085956F 000000??
++Inning 16
+%Credits: Code Master
+$0085957E 000000??
++Inning 17
+%Credits: Code Master
+$0085958D 000000??
++Inning 18
+%Credits: Code Master
+$0085959C 000000??
++Inning 19
+%Credits: Code Master
+$008595AB 000000??
++Inning 20
+%Credits: Code Master
+$008595BA 000000??
++Inning 21
+%Credits: Code Master
+$008595C9 000000??
++Inning 22
+%Credits: Code Master
+$008595D8 000000??
++Inning 23
+%Credits: Code Master
+$008595E7 000000??
++Inning 24
+%Credits: Code Master
+$008595F6 000000??
++Inning 25
+%Credits: Code Master
+$00859605 000000??
+!!
+!Away Team Only Codes:
++1 Ball And You Walk
+%Credits: Code Master
+$E0020000 008C8D4C
+$D08C8D54 00000000
+$208C8D54 00000003
++1 Ball And You Walk
+%Credits: Code Master
+$E0020000 008AEE7C
+$D08AEE84 00000000
+$208AEE84 00000003
++1 Out And You Are Out
+%Credits: Code Master
+$E0020000 008C8D4C
+$D08C8D50 00000000
+$208C8D50 00000002
++1 Out And You Are Out
+%Credits: Code Master
+$E0020000 008AEE7C
+$D08AEE80 00000000
+$208AEE80 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020000 008C8D4C
+$D08C8D58 00000000
+$208C8D58 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020000 008AEE7C
+$D08AEE88 00000000
+$208AEE88 00000002
++2 Balls And You Walk
+%Credits: Code Master
+$E0020000 008C8D4C
+$D08C8D54 00000000
+$208C8D54 00000002
++2 Balls And You Walk
+%Credits: Code Master
+$E0020000 008AEE7C
+$D08AEE84 00000000
+$208AEE84 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020000 008AEE7C
+$D08AEE80 00000000
+$208AEE80 00000001
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020000 008C8D4C
+$D08C8D50 00000000
+$208C8D50 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020000 008C8D4C
+$D08C8D58 00000000
+$208C8D58 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020000 008AEE7C
+$D08AEE88 00000000
+$208AEE88 00000001
++3 Balls And You Walk
+%Credits: Code Master
+$E0020000 008C8D4C
+$D08C8D54 00000000
+$208C8D54 00000001
++3 Balls And You Walk
+%Credits: Code Master
+$E0020000 008AEE7C
+$D08AEE84 00000000
+$208AEE84 00000001
++Infinite Balls
+%Credits: Code Master
+$D08AEE7C 00000000
+$208AEE84 00000000
++Infinite Balls
+%Credits: Code Master
+$D08C8D4C 00000000
+$208C8D54 00000000
++Infinite Outs
+%Credits: Code Master
+$D08AEE7C 00000000
+$208AEE80 00000000
++Infinite Outs
+%Credits: Code Master
+$D08C8D4C 00000000
+$208C8D50 00000000
++Infinite Strikes
+%Credits: Code Master
+$D08C8D4C 00000000
+$208C8D58 00000001
++Infinite Strikes
+%Credits: Code Master
+$D08AEE7C 00000000
+$208AEE88 00000001
+!!
+!Away Team Score Modifier Codes:
++Inning 1
+%Credits: Code Master
+$00863A8B 000000??
++Inning 1
+%Credits: Code Master
+$00859493 000000??
++Inning 2
+%Credits: Code Master
+$008594A2 000000??
++Inning 2
+%Credits: Code Master
+$00863A9A 000000??
++Inning 3
+%Credits: Code Master
+$008594B1 000000??
++Inning 3
+%Credits: Code Master
+$00863AA9 000000??
++Inning 4
+%Credits: Code Master
+$008594C0 000000??
++Inning 4
+%Credits: Code Master
+$00863AB8 000000??
++Inning 5
+%Credits: Code Master
+$008594CF 000000??
++Inning 5
+%Credits: Code Master
+$00863AC7 000000??
++Inning 6
+%Credits: Code Master
+$008594DE 000000??
++Inning 6
+%Credits: Code Master
+$00863AD6 000000??
++Inning 7
+%Credits: Code Master
+$00863AE5 000000??
++Inning 7
+%Credits: Code Master
+$008594ED 000000??
++Inning 8
+%Credits: Code Master
+$008594FC 000000??
++Inning 8
+%Credits: Code Master
+$00863AF4 000000??
++Inning 9
+%Credits: Code Master
+$00863B03 000000??
++Inning 9
+%Credits: Code Master
+$0085950B 000000??
++Inning 10
+%Credits: Code Master
+$00863B12 000000??
++Inning 10
+%Credits: Code Master
+$0085951A 000000??
++Inning 11
+%Credits: Code Master
+$00863B21 000000??
++Inning 11
+%Credits: Code Master
+$00859529 000000??
++Inning 12
+%Credits: Code Master
+$00863B30 000000??
++Inning 12
+%Credits: Code Master
+$00859538 000000??
++Inning 13
+%Credits: Code Master
+$00859547 000000??
++Inning 13
+%Credits: Code Master
+$00863B3F 000000??
++Inning 14
+%Credits: Code Master
+$00863B4E 000000??
++Inning 14
+%Credits: Code Master
+$00859556 000000??
++Inning 15
+%Credits: Code Master
+$00863B5D 000000??
++Inning 15
+%Credits: Code Master
+$00859565 000000??
++Inning 16
+%Credits: Code Master
+$00859574 000000??
++Inning 16
+%Credits: Code Master
+$00863B6C 000000??
++Inning 17
+%Credits: Code Master
+$00859583 000000??
++Inning 17
+%Credits: Code Master
+$00863B7B 000000??
++Inning 18
+%Credits: Code Master
+$00859592 000000??
++Inning 18
+%Credits: Code Master
+$00863B8A 000000??
++Inning 19
+%Credits: Code Master
+$00863B99 000000??
++Inning 19
+%Credits: Code Master
+$008595A1 000000??
++Inning 20
+%Credits: Code Master
+$008595B0 000000??
++Inning 20
+%Credits: Code Master
+$00863BA8 000000??
++Inning 21
+%Credits: Code Master
+$008595BF 000000??
++Inning 21
+%Credits: Code Master
+$00863BB7 000000??
++Inning 22
+%Credits: Code Master
+$008595CE 000000??
++Inning 22
+%Credits: Code Master
+$00863BC6 000000??
++Inning 23
+%Credits: Code Master
+$008595DD 000000??
++Inning 23
+%Credits: Code Master
+$00863BD5 000000??
++Inning 24
+%Credits: Code Master
+$00863BE4 000000??
++Inning 24
+%Credits: Code Master
+$008595EC 000000??
++Inning 25
+%Credits: Code Master
+$008595FB 000000??
++Inning 25
+%Credits: Code Master
+$00863BF3 000000??
+!!
+!Both Team Codes:
++1 Ball And You Walk
+%Credits: Code Master
+$D08C8D54 00000000
+$208C8D54 00000003
++1 Ball And You Walk
+%Credits: Code Master
+$D08AEE84 00000000
+$208AEE84 00000003
++1 Out And You Are Out
+%Credits: Code Master
+$D08C8D50 00000000
+$208C8D50 00000002
++1 Out And You Are Out
+%Credits: Code Master
+$D08AEE80 00000000
+$208AEE80 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$D08C8D58 00000000
+$208C8D58 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$D08AEE88 00000000
+$208AEE88 00000002
++2 Balls And You Walk
+%Credits: Code Master
+$D08C8D54 00000000
+$208C8D54 00000002
++2 Balls And You Walk
+%Credits: Code Master
+$D08AEE84 00000000
+$208AEE84 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$D08AEE80 00000000
+$208AEE80 00000001
++2 Outs And You Are Out
+%Credits: Code Master
+$D08C8D50 00000000
+$208C8D50 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$D08C8D58 00000000
+$208C8D58 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$D08AEE88 00000000
+$208AEE88 00000001
++3 Balls And You Walk
+%Credits: Code Master
+$D08AEE84 00000000
+$208AEE84 00000001
++3 Balls And You Walk
+%Credits: Code Master
+$D08C8D54 00000000
+$208C8D54 00000001
++Infinite Balls
+%Credits: Code Master
+$208C8D54 00000000
++Infinite Balls
+%Credits: Code Master
+$208AEE84 00000000
++Infinite Outs
+%Credits: Code Master
+$208C8D50 00000000
++Infinite Strikes
+%Credits: Code Master
+$208C8D58 00000001
++Infinite Strikes
+%Credits: Code Master
+$208AEE88 00000001
+!!
++Can't Throw Pitcher Out Of Game For Hitting Batsman
+%Credits: Code Master
+$20417948 00000000
+!Home Team Error Modifier Codes:
++Inning 1
+%Credits: Code Master
+$00863A89 000000??
++Inning 1
+%Credits: Code Master
+$00856F91 000000??
++Inning 2
+%Credits: Code Master
+$00856FA0 000000??
++Inning 2
+%Credits: Code Master
+$00863A98 000000??
++Inning 3
+%Credits: Code Master
+$00856FAF 000000??
++Inning 3
+%Credits: Code Master
+$00863AA7 000000??
++Inning 4
+%Credits: Code Master
+$00856FBE 000000??
++Inning 4
+%Credits: Code Master
+$00863AB6 000000??
++Inning 5
+%Credits: Code Master
+$00856FCD 000000??
++Inning 5
+%Credits: Code Master
+$00863AC5 000000??
++Inning 6
+%Credits: Code Master
+$00856FDC 000000??
++Inning 6
+%Credits: Code Master
+$00863AD4 000000??
++Inning 7
+%Credits: Code Master
+$00863AE3 000000??
++Inning 7
+%Credits: Code Master
+$00856FEB 000000??
++Inning 8
+%Credits: Code Master
+$00856FFA 000000??
++Inning 8
+%Credits: Code Master
+$00863AF2 000000??
++Inning 9
+%Credits: Code Master
+$00863B01 000000??
++Inning 9
+%Credits: Code Master
+$00857009 000000??
++Inning 10
+%Credits: Code Master
+$00863B10 000000??
++Inning 10
+%Credits: Code Master
+$00857018 000000??
++Inning 11
+%Credits: Code Master
+$00863B1F 000000??
++Inning 11
+%Credits: Code Master
+$00857027 000000??
++Inning 12
+%Credits: Code Master
+$00863B2E 000000??
++Inning 12
+%Credits: Code Master
+$00857036 000000??
++Inning 13
+%Credits: Code Master
+$00857045 000000??
++Inning 13
+%Credits: Code Master
+$00863B3D 000000??
++Inning 14
+%Credits: Code Master
+$00863B4C 000000??
++Inning 14
+%Credits: Code Master
+$00857054 000000??
++Inning 15
+%Credits: Code Master
+$00863B5B 000000??
++Inning 15
+%Credits: Code Master
+$00857063 000000??
++Inning 16
+%Credits: Code Master
+$00857072 000000??
++Inning 16
+%Credits: Code Master
+$00863B6A 000000??
++Inning 17
+%Credits: Code Master
+$00857081 000000??
++Inning 17
+%Credits: Code Master
+$00863B79 000000??
++Inning 18
+%Credits: Code Master
+$00857090 000000??
++Inning 18
+%Credits: Code Master
+$00863B88 000000??
++Inning 19
+%Credits: Code Master
+$00863B97 000000??
++Inning 19
+%Credits: Code Master
+$0085709F 000000??
++Inning 20
+%Credits: Code Master
+$008570AE 000000??
++Inning 20
+%Credits: Code Master
+$00863BA6 000000??
++Inning 21
+%Credits: Code Master
+$008570BD 000000??
++Inning 21
+%Credits: Code Master
+$00863BB5 000000??
++Inning 22
+%Credits: Code Master
+$008570CC 000000??
++Inning 22
+%Credits: Code Master
+$00863BC4 000000??
++Inning 23
+%Credits: Code Master
+$008570DB 000000??
++Inning 23
+%Credits: Code Master
+$00863BD3 000000??
++Inning 24
+%Credits: Code Master
+$00863BE2 000000??
++Inning 24
+%Credits: Code Master
+$008570EA 000000??
++Inning 25
+%Credits: Code Master
+$008570F9 000000??
++Inning 25
+%Credits: Code Master
+$00863BF1 000000??
+!!
+!Home Team Hits Modifier Codes:
++Inning 1
+%Credits: Code Master
+$00863A95 000000??
++Inning 1
+%Credits: Code Master
+$00856F9D 000000??
++Inning 2
+%Credits: Code Master
+$00856FAC 000000??
++Inning 2
+%Credits: Code Master
+$00863AA4 000000??
++Inning 3
+%Credits: Code Master
+$00856FBB 000000??
++Inning 3
+%Credits: Code Master
+$00863AB3 000000??
++Inning 4
+%Credits: Code Master
+$00856FCA 000000??
++Inning 4
+%Credits: Code Master
+$00863AC2 000000??
++Inning 5
+%Credits: Code Master
+$00856FD9 000000??
++Inning 5
+%Credits: Code Master
+$00863AD1 000000??
++Inning 6
+%Credits: Code Master
+$00856FE8 000000??
++Inning 6
+%Credits: Code Master
+$00863AE0 000000??
++Inning 7
+%Credits: Code Master
+$00863AEF 000000??
++Inning 7
+%Credits: Code Master
+$00856FF7 000000??
++Inning 8
+%Credits: Code Master
+$00857006 000000??
++Inning 8
+%Credits: Code Master
+$00863AFE 000000??
++Inning 9
+%Credits: Code Master
+$00863B0D 000000??
++Inning 9
+%Credits: Code Master
+$00857015 000000??
++Inning 10
+%Credits: Code Master
+$00863B1C 000000??
++Inning 10
+%Credits: Code Master
+$00857024 000000??
++Inning 11
+%Credits: Code Master
+$00863B2B 000000??
++Inning 11
+%Credits: Code Master
+$00857033 000000??
++Inning 12
+%Credits: Code Master
+$00863B3A 000000??
++Inning 12
+%Credits: Code Master
+$00857042 000000??
++Inning 13
+%Credits: Code Master
+$00857051 000000??
++Inning 13
+%Credits: Code Master
+$00863B49 000000??
++Inning 14
+%Credits: Code Master
+$00863B58 000000??
++Inning 14
+%Credits: Code Master
+$00857060 000000??
++Inning 15
+%Credits: Code Master
+$00863B67 000000??
++Inning 15
+%Credits: Code Master
+$0085706F 000000??
++Inning 16
+%Credits: Code Master
+$0085707E 000000??
++Inning 16
+%Credits: Code Master
+$00863B76 000000??
++Inning 17
+%Credits: Code Master
+$0085708D 000000??
++Inning 17
+%Credits: Code Master
+$00863B85 000000??
++Inning 18
+%Credits: Code Master
+$0085709C 000000??
++Inning 18
+%Credits: Code Master
+$00863B94 000000??
++Inning 19
+%Credits: Code Master
+$00863BA3 000000??
++Inning 19
+%Credits: Code Master
+$008570AB 000000??
++Inning 20
+%Credits: Code Master
+$008570BA 000000??
++Inning 20
+%Credits: Code Master
+$00863BB2 000000??
++Inning 21
+%Credits: Code Master
+$008570C9 000000??
++Inning 21
+%Credits: Code Master
+$00863BC1 000000??
++Inning 22
+%Credits: Code Master
+$008570D8 000000??
++Inning 22
+%Credits: Code Master
+$00863BD0 000000??
++Inning 23
+%Credits: Code Master
+$008570E7 000000??
++Inning 23
+%Credits: Code Master
+$00863BDF 000000??
++Inning 24
+%Credits: Code Master
+$00863BEE 000000??
++Inning 24
+%Credits: Code Master
+$008570F6 000000??
++Inning 25
+%Credits: Code Master
+$00857105 000000??
++Inning 25
+%Credits: Code Master
+$00863BFD 000000??
+!!
+!Home Team Only Codes:
++1 Ball And You Walk
+%Credits: Code Master
+$E0020001 008C8D4C
+$D08C8D54 00000000
+$208C8D54 00000003
++1 Ball And You Walk
+%Credits: Code Master
+$E0020001 008AEE7C
+$D08AEE84 00000000
+$208AEE84 00000003
++1 Out And You Are Out
+%Credits: Code Master
+$E0020001 008C8D4C
+$D08C8D50 00000000
+$208C8D50 00000002
++1 Out And You Are Out
+%Credits: Code Master
+$E0020001 008AEE7C
+$D08AEE80 00000000
+$208AEE80 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020001 008C8D4C
+$D08C8D58 00000000
+$208C8D58 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020001 008AEE7C
+$D08AEE88 00000000
+$208AEE88 00000002
++2 Balls And You Walk
+%Credits: Code Master
+$E0020001 008C8D4C
+$D08C8D54 00000000
+$208C8D54 00000002
++2 Balls And You Walk
+%Credits: Code Master
+$E0020001 008AEE7C
+$D08AEE84 00000000
+$208AEE84 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020001 008AEE7C
+$D08AEE80 00000000
+$208AEE80 00000001
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020001 008C8D4C
+$D08C8D50 00000000
+$208C8D50 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020001 008C8D4C
+$D08C8D58 00000000
+$208C8D58 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020001 008AEE7C
+$D08AEE88 00000000
+$208AEE88 00000001
++3 Balls And You Walk
+%Credits: Code Master
+$E0020001 008C8D4C
+$D08C8D54 00000000
+$208C8D54 00000001
++3 Balls And You Walk
+%Credits: Code Master
+$E0020001 008AEE7C
+$D08AEE84 00000000
+$208AEE84 00000001
++Infinite Balls
+%Credits: Code Master
+$D08AEE7C 00000001
+$208AEE84 00000000
++Infinite Balls
+%Credits: Code Master
+$D08C8D4C 00000001
+$208C8D54 00000000
++Infinite Outs
+%Credits: Code Master
+$D08AEE7C 00000001
+$208AEE80 00000000
++Infinite Outs
+%Credits: Code Master
+$D08C8D4C 00000001
+$208C8D50 00000000
++Infinite Strikes
+%Credits: Code Master
+$D08C8D4C 00000001
+$208C8D58 00000001
++Infinite Strikes
+%Credits: Code Master
+$D08AEE7C 00000001
+$208AEE88 00000001
+!!
+!Home Team Score Modifier Codes:
++Inning 1
+%Credits: Code Master
+$0086158B 000000??
++Inning 1
+%Credits: Code Master
+$00856F93 000000??
++Inning 2
+%Credits: Code Master
+$00856FA2 000000??
++Inning 2
+%Credits: Code Master
+$0086159A 000000??
++Inning 3
+%Credits: Code Master
+$00856FB1 000000??
++Inning 3
+%Credits: Code Master
+$008615A9 000000??
++Inning 4
+%Credits: Code Master
+$00856FC0 000000??
++Inning 4
+%Credits: Code Master
+$008615B8 000000??
++Inning 5
+%Credits: Code Master
+$00856FCF 000000??
++Inning 5
+%Credits: Code Master
+$008615C7 000000??
++Inning 6
+%Credits: Code Master
+$00856FDE 000000??
++Inning 6
+%Credits: Code Master
+$008615D6 000000??
++Inning 7
+%Credits: Code Master
+$008615E5 000000??
++Inning 7
+%Credits: Code Master
+$00856FED 000000??
++Inning 8
+%Credits: Code Master
+$00856FFC 000000??
++Inning 8
+%Credits: Code Master
+$008615F4 000000??
++Inning 9
+%Credits: Code Master
+$00861603 000000??
++Inning 9
+%Credits: Code Master
+$0085700B 000000??
++Inning 10
+%Credits: Code Master
+$00861612 000000??
++Inning 10
+%Credits: Code Master
+$0085701A 000000??
++Inning 11
+%Credits: Code Master
+$00861621 000000??
++Inning 11
+%Credits: Code Master
+$00857029 000000??
++Inning 12
+%Credits: Code Master
+$00861630 000000??
++Inning 12
+%Credits: Code Master
+$00857038 000000??
++Inning 13
+%Credits: Code Master
+$00857047 000000??
++Inning 13
+%Credits: Code Master
+$0086163F 000000??
++Inning 14
+%Credits: Code Master
+$0086164E 000000??
++Inning 14
+%Credits: Code Master
+$00857056 000000??
++Inning 15
+%Credits: Code Master
+$0086165D 000000??
++Inning 15
+%Credits: Code Master
+$00857065 000000??
++Inning 16
+%Credits: Code Master
+$00857074 000000??
++Inning 16
+%Credits: Code Master
+$0086166C 000000??
++Inning 17
+%Credits: Code Master
+$00857083 000000??
++Inning 17
+%Credits: Code Master
+$0086167B 000000??
++Inning 18
+%Credits: Code Master
+$00857092 000000??
++Inning 18
+%Credits: Code Master
+$0086168A 000000??
++Inning 19
+%Credits: Code Master
+$00861699 000000??
++Inning 19
+%Credits: Code Master
+$008570A1 000000??
++Inning 20
+%Credits: Code Master
+$008570B0 000000??
++Inning 20
+%Credits: Code Master
+$008616A8 000000??
++Inning 21
+%Credits: Code Master
+$008570BF 000000??
++Inning 21
+%Credits: Code Master
+$008616B7 000000??
++Inning 22
+%Credits: Code Master
+$008570CE 000000??
++Inning 22
+%Credits: Code Master
+$008616C6 000000??
++Inning 23
+%Credits: Code Master
+$008570DD 000000??
++Inning 23
+%Credits: Code Master
+$008616D5 000000??
++Inning 24
+%Credits: Code Master
+$008616E4 000000??
++Inning 24
+%Credits: Code Master
+$008570EC 000000??
++Inning 25
+%Credits: Code Master
+$008570FB 000000??
++Inning 25
+%Credits: Code Master
+$008616F3 000000??
+!!
++Max Cash
+%Credits: Codejunkies
+$202D2AF8 3C0205F0
+$202D2AFC AE620004
++Most Trades Accepted
+%Credits: Code Master
+$20456224 00000000
+!Profile 1 Codes:
++Infinite Available Tokens
+%Credits: Code Master
+$10943014 0000FFFF
++Infinite Available Tokens
+%Credits: Code Master
+$1092E8EC 0000FFFF
++Max Available Tokens
+%Credits: Code Master
+$20943014 05F5E0FF
++Max Available Tokens
+%Credits: Code Master
+$2092E8EC 05F5E0FF
++Unlock All Unlockables
+%Credits: Code Master
+$40943450 00030001
+$FFFFFFFF 00000000
++Unlock All Unlockables
+%Credits: Code Master
+$4092ED28 00030001
+$FFFFFFFF 00000000
+!!
+!Profile 2 Codes:
++Infinite Available Tokens
+%Credits: Code Master
+$10945584 0000FFFF
++Infinite Available Tokens
+%Credits: Code Master
+$10930E58 0000FFFF
++Max Available Tokens
+%Credits: Code Master
+$20945584 05F5E0FF
++Max Available Tokens
+%Credits: Code Master
+$20930E58 05F5E0FF
++Unlock All Unlockables
+%Credits: Code Master
+$409459C0 00030001
+$FFFFFFFF 00000000
++Unlock All Unlockables
+%Credits: Code Master
+$40931294 00030001
+$FFFFFFFF 00000000
+!!
+!Profile 3 Codes:
++Infinite Available Tokens
+%Credits: Code Master
+$10947AF4 0000FFFF
++Infinite Available Tokens
+%Credits: Code Master
+$109333C4 0000FFFF
++Max Available Tokens
+%Credits: Code Master
+$20947AF4 05F5E0FF
++Max Available Tokens
+%Credits: Code Master
+$209333C4 05F5E0FF
++Unlock All Unlockables
+%Credits: Code Master
+$40947F30 00030001
+$FFFFFFFF 00000000
++Unlock All Unlockables
+%Credits: Code Master
+$40933800 00030001
+$FFFFFFFF 00000000
+!!
+!Profile 4 Codes:
++Infinite Available Tokens
+%Credits: Code Master
+$1094A064 0000FFFF
++Infinite Available Tokens
+%Credits: Code Master
+$10935930 0000FFFF
++Max Available Tokens
+%Credits: Code Master
+$2094A064 05F5E0FF
++Max Available Tokens
+%Credits: Code Master
+$20935930 05F5E0FF
++Unlock All Unlockables
+%Credits: Code Master
+$4094A4A0 00030001
+$FFFFFFFF 00000000
++Unlock All Unlockables
+%Credits: Code Master
+$40935D6C 00030001
+$FFFFFFFF 00000000
+!!
++Runs Score Modifier
+%Credits: Code Master
+$101EDD94 000000??
+!The Skybox Codes:
++Using Tokens Doesn't Decrease Tokens
+%Credits: Code Master
+$20116100 00000000
++Using Tokens Doesn't Decrease Tokens
+%Credits: Code Master
+$2010AF08 00000000
++Using Tokens Increases Tokens
+%Credits: Code Master
+$201160F8 00621821
++Using Tokens Increases Tokens
+%Credits: Code Master
+$2010AF00 00621821
+!!
+!MISC!:
++All Runs Score For Away Team
+%Credits: Code Master
+$D08AEE7C 00000000
+$101E6EFC 00000084
+$D08AEE7C 00000001
+$101E6EFC 00000080
++All Runs Score For Home Team
+%Credits: Code Master
+$D08AEE7C 00000000
+$101E6EFC 00000080
+$D08AEE7C 00000001
+$101E6EFC 00000084
++Can't Throw Pitcher Out Of Game For Hitting Batsman
+%Credits: Code Master
+$203FEAE0 00000000
++Most Trades Accepted
+%Credits: Code Master
+$20477EB4 00000000
++Run's Score Modifier
+%Credits: Code Master
+$101E6F04 000000??
++Always Hit Homerun : Hold R1 
+%Credits: nolberto82
+$200A0000 3C030073
+$200A0004 90631111
+$200A0008 10600006
+$200A000C 3C034330
+$200A0010 4483A800
+$200A0014 3C033F40
+$200A0018 4483B000
+$200A001C 3C033F40
+$200A0020 4483B800
+$200A0024 E7B40100
+$200A0028 081041CE
+$20410730 08028000
++Strikeout : Hold R2
+%Credits: nolberto82
+$20412164 8C8200CC
+$2041397C 24E40001
+$20410C38 8E830000
+$D0731113 03310000
+$20412164 24020001
+$2041397C 24040003
+$20410C38 24030000
+!!
+

@@ -1,0 +1,68 @@
+^3 = NAME: Project Eden (Ntsc-U)
+^2 = GameID: SLUS-20164
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001D5517
++[M] Must Be On
+%Credits: InterAct
+$F0100080 001D5517
+!!
++Amber: Infinite Ammo
+%Credits: InterAct
+$1130FBDA 000042C8
++Amber: Infinite Health
+%Credits: InterAct
+$1130FBFA 000042C8
++Andre: Infinite Ammo
+%Credits: InterAct
+$1131004A 000042C8
++Andre: Infinite Health
+%Credits: InterAct
+$1131006A 000042C8
++Carter: Infinite Ammo
+%Credits: InterAct
+$113104BA 000042C8
++Carter: Infinite Health
+%Credits: InterAct
+$113104DA 000042C8
++Infinite Ammo
+%Credits: Code Master
+$2013E2DC 00000000
++Infinite Ammo Amber
+%Credits: InterAct
+$1130F8DA 000042C8
++Infinite Ammo Andre
+%Credits: InterAct
+$1130FD4A 000042C8
++Infinite Ammo Carter
+%Credits: InterAct
+$113174EA 000042C8
++Infinite Ammo Moniko
+%Credits: InterAct
+$1130F46A 000042C8
++Infinite Health
+%Credits: Code Master
+$201DFAD8 C461000C
+$201DFAE8 E4610008
+$201DF914 E4400008
++Infinite Health Amber
+%Credits: InterAct
+$1130F8FA 00004316
++Infinite Health Andre
+%Credits: InterAct
+$1130FD6A 000042C8
++Infinite Health Carter {<I>These Codes Work For Level 1 Only, And Will Not Work With A Previously Saved Game.</I>}
+%Credits: InterAct
+$113199EA 000042C8
++Infinite Health Moniko
+%Credits: InterAct
+$1130F48A 000042C8
++Minoko: Infinite Ammo
+%Credits: InterAct
+$1130F76A 000042C8
++Minoko: Infinite Health
+%Credits: InterAct
+$1130F78A 000042C8
+!!
+

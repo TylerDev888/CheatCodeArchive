@@ -1,0 +1,68 @@
+^2 = GameID: BLJS10021
+^3 = NAME: Dark Sector
+^4 = FILE: 01.SAV
++Update Md5 For 01.sav (required)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]
+^4 = FILE: 02.SAV
++Update Md5 For 02.sav (required)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]
+^4 = FILE: 03.SAV
++Update Md5 For 03.sav (required)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]
+^4 = FILE: 04.SAV
++Update Md5 For 04.sav (required)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]
+^4 = FILE: 05.SAV
++Update Md5 For 05.sav (required)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]
+^4 = FILE: 06.SAV
++Update Md5 For 06.sav (required)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]
+^4 = FILE: 07.SAV
++Update Md5 For 07.sav (required)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]
+^4 = FILE: 08.SAV
++Update Md5 For 08.sav (required)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]
+^4 = FILE: 09.SAV
++Update Md5 For 09.sav (required)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]
+^4 = FILE: 10.SAV
++Update Md5 For 10.sav (required)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]
+^4 = FILE: CONTINUE.SAV
++Update Md5 For Continue.sav (required)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]

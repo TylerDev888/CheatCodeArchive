@@ -1,0 +1,32 @@
+^3 = NAME: Spongebob Squarepants - Revenge Of The Flying Dutchman (Ntsc-U)
+^2 = GameID: SLUS-20425
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F033919C 0033919F
+!!
++All Coins Reappear
+%Credits: Codejunkies
+$40ADC950 00200001
+$01010101 00000000
++Have Tons Of Coins
+%Credits: Codejunkies
+$10ADF738 000003E7
++Have Tons Of Health
+%Credits: Codejunkies
+$10ADE594 00000063
++Super Jump
+%Credits: InterAct
+$D04FA3C2 0000BFFF
+$204BA434 3D400000
+$D04FA3C2 0010BFFF
+$204BA434 00000000
++Super Jump
+%Credits: Codejunkies
+$D04FA3C2 0000BFFF
+$204BA434 3D400000
+$E002BFFF 004FA3C2
+$D04FA3C4 00000000
+$204BA434 00000000
+!!
+

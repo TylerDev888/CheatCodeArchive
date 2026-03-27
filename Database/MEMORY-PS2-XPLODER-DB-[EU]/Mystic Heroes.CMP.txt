@@ -1,0 +1,108 @@
+^3 = NAME: Mystic Heroes
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 002F4BC7
+!!
+!Story Mode:
++Maximum Health
+%Credits: Xploder
+$103206B4 0000270F
++Maximum Magic
+%Credits: Xploder
+$103206B6 0000270F
++Maximum Attack
+%Credits: Xploder
+$103206B8 00000100
++Maximum Defence
+%Credits: Xploder
+$103206BA 00000100
++Maximum Rune Attack
+%Credits: Xploder
+$103206BC 00000100
++Maximum Rune Defence
+%Credits: Xploder
+$103206BE 00000100
++Maximum Direct Spell
+%Credits: Xploder
+$003206D4 00000004
++Maximum Target Spell
+%Credits: Xploder
+$003206D5 00000004
++Maximum Jump Spell
+%Credits: Xploder
+$003206D6 00000004
++Maximum Sword Spell
+%Credits: Xploder
+$003206D7 00000004
++Have All Runes
+%Credits: Xploder
+$203206F4 FFFFFFFF
+$203206F8 FFFFFFFF
+$203206FC FFFFFFFF
+$20320700 FFFFFFFF
+!!
+!Story Character / Player 1:
++Unlimited Health
+%Credits: Xploder
+$50791ED0 00000002
+$5B925B59 8462A734
++Maximum Health
+%Credits: Xploder
+$20791ED0 270F270F
++Unlimited Magic
+%Credits: Xploder
+$50791F0E 00000002
+$5B9B5DD8 8462A774
++Maximum Magic
+%Credits: Xploder
+$20719F0C 270F270F
+!!
+!Player 2:
++Unlimited Health
+%Credits: Xploder
+$50791FC0 00000000
+$5B935B59 8462A776
++Maximum Health
+%Credits: Xploder
+$20791FC0 270F270F
++Unlimited Magic
+%Credits: Xploder
+$50791FFE 00000002
+$5B9BDD59 8462A734
++Maximum Magic
+%Credits: Xploder
+$20791FFC 270F270F
+!!
+!Player 3:
++Unlimited Health
+%Credits: Xploder
+$507920B0 00000002
+$5B92DB58 8462EF21
++Maximum Health
+%Credits: Xploder
+$207920B0 270F270F
++Unlimited Magic
+%Credits: Xploder
+$507920EE 00000002
+$5B9ADD59 8462EF61
++Maximum Magic
+%Credits: Xploder
+$207920EC 270F270F
+!!
+!Player 4:
++Unlimited Health
+%Credits: Xploder
+$507921A0 00000002
+$5B93DB58 8462EF61
++Maximum Health
+%Credits: Xploder
+$207921A0 270F270F
++Unlimited Magic
+%Credits: Xploder
+$507921DE 00000002
+$5B9B5D59 8462EF21
++Maximum Magic
+%Credits: Xploder
+$207921DC 270F270F
+!!

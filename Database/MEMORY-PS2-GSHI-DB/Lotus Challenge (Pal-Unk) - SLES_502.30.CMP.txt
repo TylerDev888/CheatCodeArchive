@@ -1,0 +1,67 @@
+^3 = NAME: Lotus Challenge (Pal-Unk)
+^2 = GameID: SLES-50230
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$D0C281FC 5CAA4A1B
+$0010ED40 0013EDF7
++(M) Must Be On
+%Credits: Codejunkies
+$F010ED40 0010ED43
++Enable Code
+%Credits: punk7890
+$9010D8F8 0C0435E6
+!!
++Disable Collision
+%Credits: Codejunkies
+$20168D80 00000000
+$201A141C 00000000
++Disable Motion Blur
+%Credits: Codejunkies
+$201BA048 00000000
++Enable Car Editor Menu (Pause The Game And Press L3)
+%Credits: punk7890
+$D022A7C2 0000FFFD
+$20257928 00000001
++Lap Counter
+%Credits: Codejunkies
+$10244698 000003E7
+!Player 1 Codes:
++Helicopter View
+%Credits: Codejunkies
+$00223460 00000003
++Varying View
+%Credits: Codejunkies
+$00223460 00000004
+!!
+!Player 2 Codes:
++Debug Info
+%Credits: Codejunkies
+$20217E00 00000001
++Evening Racing
+%Credits: Codejunkies
+$20217E10 000001CE
++Helicopter View
+%Credits: Codejunkies
+$00223461 00000003
++Varying View
+%Credits: Codejunkies
+$00223461 00000004
+!!
++Reset Speed (Press R2+L2 To Activate)
+%Credits: Codejunkies
+$D022A7C2 0000FCFF
+$20223400 3CA3D70A
++Slow Motion (Press L2 To Activate)
+%Credits: Codejunkies
+$D022A7C2 0000FEFF
+$20223400 3D6001CE
++Super Speed (Press R2 To Activate)
+%Credits: Codejunkies
+$D022A7C2 0000FDFF
+$20223400 3C2001CE
++Thick Opponents
+%Credits: Codejunkies
+$201884C8 00000000
+!!
+

@@ -1,0 +1,31 @@
+^3 = NAME: Serious Sam - Next Encounter (Pal-Unk)
+^2 = GameID: SLES-52450
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01001E8 001001EB
+!!
++Fix For AR Max Versions Below 3.14
+%Credits: Codejunkies
+$20325B48 3C03200F
+$20325B50 8C65FFF8
+$20325B54 24040079
+$20325B58 24030074
+$20325B5C 0000000C
++Have All Levels Open
+%Credits: Codejunkies
+$20220828 240200FF
+$202207FC 240300FF
++Have All Weapons
+%Credits: Codejunkies
+$20226048 24060001
++Infinite Ammo
+%Credits: Codejunkies
+$201FCB3C 24020063
+$201FCB40 A4620000
+$201FCB48 00000000
++Turn On God Mode
+%Credits: Codejunkies
+$2020ED6C 24030001
+!!
+

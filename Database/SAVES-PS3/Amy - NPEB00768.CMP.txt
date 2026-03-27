@@ -1,0 +1,10 @@
+^2 = GameID: NPEB00768
+^3 = NAME: AMY (PSN)
+^5 = APCRED: From Seyfertt
+^4 = FILE: GAMEDATA.SAV
++Changing Difficulty: Easy (working)
+$write at 0x00000034:"EASY"
++Changing Difficulty: Hard (working)
+$write at 0x00000034:"HARD"
++Open All Stages (working)
+$write at at 0x00000063:36222F3E

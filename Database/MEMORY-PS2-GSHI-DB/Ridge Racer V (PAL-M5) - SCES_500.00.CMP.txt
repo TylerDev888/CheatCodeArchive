@@ -1,0 +1,52 @@
+^3 = NAME: Ridge Racer V (PAL-M5)
+^2 = GameID: SCES-50000
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F021DF34 002C8417
++(M) Must Be On
+%Credits: Codejunkies
+$F02C8414 002C8417
+!!
+!Chance Codes:
++Infinite Chances
+%Credits: Codejunkies
+$11E35940 00000003
++Never More Than 1 Chance
+%Credits: Codejunkies
+$E0010001 31E35940
+$11E35940 00000001
++Never More Than 2 Chances
+%Credits: Codejunkies
+$E0010002 31E35940
+$11E35940 00000002
+!!
++Drive Through Other Cars
+%Credits: luc-ita
+$2020D09C 1000034B
++Drive Through Walls (Read Notes) {<I>When You Go Off The Map You Go Into First Person View</I>}
+%Credits: luc-ita
+$2020B8AC 1000008E
++Going Against Walls Doesn't Reduce Speed
+%Credits: luc-ita
+$2020BACC 00000000
++Opponents Don't Move
+%Credits: luc-ita
+$20204688 1000000E
++Race Alone
+%Credits: luc-ita
+$2028405C 24020001
+$2021A424 24020001
+!View Codes:
++On Bonnet Looking In
+%Credits: Codejunkies
+$11DC9314 00000003
++Overhead Camera
+%Credits: Codejunkies
+$11DC9314 00000002
++Side View {<I>Only Use One &Quot;View&Quot; Code At A Time.</I>}
+%Credits: Codejunkies
+$11DC9314 00000004
+!!
+!!
+

@@ -1,0 +1,7 @@
+^2 = GameID: BLES00464
+^3 = NAME: F.E.A.R. 2: Project Origin
+^4 = FILE: FILENAME.SAV
++Update Add For Filename.sav (required)
+$set [csum]:0
+$set [csum]:add(0x000000,0x12FF1B)
+$write at 0x12FF1C:[csum]

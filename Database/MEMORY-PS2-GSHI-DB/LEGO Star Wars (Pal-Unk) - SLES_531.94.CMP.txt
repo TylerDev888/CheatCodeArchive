@@ -1,0 +1,64 @@
+^3 = NAME: LEGO Star Wars (Pal-Unk)
+^2 = GameID: SLES-53194
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F02E8D88 002E8D8B
+!!
++Display FPS
+%Credits: Codejunkies
+$20345DC8 00000001
++Have Red Lightsaber
+%Credits: Codejunkies
+$2022EAF0 24040008
++Infinite Health
+%Credits: Codejunkies
+$1035FC1A 00000001
++Max Cash
+%Credits: Codejunkies
+$2054791C 05F5E0FF
++Max Cash/Jedi Status After Hit
+%Credits: Codejunkies
+$2025D690 3C0205F9
++Moon Jump
+%Credits: Codejunkies
+$E10100BF 01F90503
+$2026FE58 03E00008
+$E10100BF 11F90503
+$2026FE58 27BDFFB0
++No Gravity (Press L1+L2 To Activate; R1+R2 To Stop)
+%Credits: Codejunkies
+$E10100FA 01F90503
+$2026FEC8 24020001
+$E10100F5 01F90503
+$2026FEC8 30420001
++Replace Option Menu Into Level Select/Test Menu
+%Credits: Codejunkies
+$E0020013 00528A1C
+$D0528A1E 0000FF11
+$20528A1C FF110016
+!Run Codes:
++Run Even Faster
+%Credits: Codejunkies
+$2022C2E4 3C014080
+$2022C2E8 44810000
++Run Faster
+%Credits: Codejunkies
+$2022C2E4 3C014000
+$2022C2E8 44810000
+!!
++Take Studs Anywhere
+%Credits: luc-ita
+$202CFF78 080B400C
+!Walk Codes:
++Walking Even Faster
+%Credits: Codejunkies
+$E1010080 3022C2AC
+$E1000000 3022C2B4
++Walking Faster
+%Credits: Codejunkies
+$E1010000 3022C2AC
+$E1000000 3022C2B4
+!!
+!!
+

@@ -1,0 +1,787 @@
+^3 = NAME: Dragon Rage (Pal-Unk)
+^2 = GameID: SLES-50632
+!Master Codes:
++(M)
+%Credits: InterAct
+$F0145C80 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F01EC620 001EC637
++(M) Must Be On
+%Credits: Codejunkies
+$F0145C80 00145C83
++(M) Must Be On
+%Credits: Codejunkies
+$F01EC634 001EC637
+!!
+!Level 1 - Bonelands:
++Infinite Health
+%Credits: Codejunkies
+$11BC898C 0000270F
++Infinite Mana
+%Credits: Codejunkies
+$11BC8ED8 0000270F
++Max Air Level
+%Credits: Codejunkies
+$01BC8EA6 00000004
++Max Earth Level
+%Credits: Codejunkies
+$01BC8EA7 00000004
++Max Fire Level
+%Credits: Codejunkies
+$01BC8EA4 00000004
++Max Health
+%Credits: Codejunkies
+$11BC8EAC 0000270F
++Max Mana
+%Credits: Codejunkies
+$11BC8EB0 0000270F
++Max Water Level
+%Credits: Codejunkies
+$01BC8EA5 00000004
++Select Air Weapon (Press Select+Down To Activate)
+%Credits: Codejunkies
+$D049C640 00000041
+$01BC8EB4 00000002
++Select Earth Weapon (Press Select+Left To Activate)
+%Credits: Codejunkies
+$D049C640 00000081
+$01BC8EB4 00000003
++Select Fire Weapon (Press Select+Up To Activate)
+%Credits: Codejunkies
+$D049C640 00000011
+$01BC8EB4 00000000
++Select Water Weapon (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D049C640 00000021
+$01BC8EB4 00000001
+!!
+!Level 1 Bonelands:
+!!
+!Level 1 Codes:
++Select+Down
+%Credits: InterAct
+$01BC8EB4 00000002
++Select+Left
+%Credits: InterAct
+$01BC8EB4 00000003
++Select+Right
+%Credits: InterAct
+$01BC8EB4 00000001
++Select+Up
+%Credits: InterAct
+$01BC8EB4 00000000
++Weapon Earth
+%Credits: InterAct
+$D049C640 00000081
++Weapon Fire
+%Credits: InterAct
+$D049C640 00000011
++Weapon Ice
+%Credits: InterAct
+$D049C640 00000021
++Weapon Lightening
+%Credits: InterAct
+$D049C640 00000041
+!!
+!Level 2 - Awakening:
++Infinite Health
+%Credits: Codejunkies
+$11AF759C 0000270F
++Infinite Mana
+%Credits: Codejunkies
+$11AF7AE8 0000270F
++Max Air Level
+%Credits: Codejunkies
+$01AF7AB6 00000004
++Max Earth Level
+%Credits: Codejunkies
+$01AF7AB7 00000004
++Max Fire Level
+%Credits: Codejunkies
+$01AF7AB4 00000004
++Max Health
+%Credits: Codejunkies
+$11AF7ABC 0000270F
++Max Mana
+%Credits: Codejunkies
+$11AF7AC0 0000270F
++Max Water Level
+%Credits: Codejunkies
+$01AF7AB5 00000004
++Select Air Weapon (Press Select+Down To Activate)
+%Credits: Codejunkies
+$D049C640 00000041
+$01AF7AC4 00000002
++Select Earth Weapon (Press Select+Left To Activate)
+%Credits: Codejunkies
+$D049C640 00000081
+$01AF7AC4 00000003
++Select Fire Weapon (Press Select+Up To Activate)
+%Credits: Codejunkies
+$D049C640 00000011
+$01AF7AC4 00000000
++Select Water Weapon (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D049C640 00000021
+$01AF7AC4 00000001
+!!
+!Level 2 Codes:
++Select+Down
+%Credits: InterAct
+$01AF7AC4 00000002
++Select+Left
+%Credits: InterAct
+$01AF7AC4 00000003
++Select+Right
+%Credits: InterAct
+$01AF7AC4 00000001
++Select+Up
+%Credits: InterAct
+$01AF7AC4 00000000
+!!
+!Level 3 - Scramble:
++Air Weapon - Select+Down
+%Credits: Codejunkies
+$D049C640 00000041
+$01B25C84 00000002
++Earth Weapon - Select+Left
+%Credits: Codejunkies
+$D049C640 00000081
+$01B25C84 00000003
++Fire Weapon - Select+Up
+%Credits: Codejunkies
+$D049C640 00000011
+$01B25C84 00000000
++Infinite Health
+%Credits: Codejunkies
+$11B2575C 0000270F
++Infinite Mana
+%Credits: Codejunkies
+$11B25CA8 0000270F
++Max Air Level
+%Credits: Codejunkies
+$01B25C76 00000004
++Max Earth Level
+%Credits: Codejunkies
+$01B25C77 00000004
++Max Fire Level
+%Credits: Codejunkies
+$01B25C74 00000004
++Max Health
+%Credits: Codejunkies
+$11B25C7C 0000270F
++Max Mana
+%Credits: Codejunkies
+$11B25C80 0000270F
++Max Water Level
+%Credits: Codejunkies
+$01B25C75 00000004
++Select Water Weapon (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D049C640 00000021
+$01B25C84 00000001
+!!
+!Level 3 Codes:
++Select+Down
+%Credits: InterAct
+$01B25C84 00000002
++Select+Right
+%Credits: InterAct
+$01B25C84 00000001
++Select+Up
+%Credits: InterAct
+$01B25C84 00000000
+!!
+!Level 4 - The Cleansing:
++Air Weapon - Select+Down
+%Credits: Codejunkies
+$D049C640 00000041
+$01B4DE64 00000002
++Earth Weapon - Select+Left
+%Credits: Codejunkies
+$D049C640 00000081
+$01B4DE64 00000003
++Fire Weapon - Select+Up
+%Credits: Codejunkies
+$D049C640 00000011
+$01B4DE64 00000000
++Infinite Health
+%Credits: Codejunkies
+$11B4D93C 0000270F
++Infinite Mana
+%Credits: Codejunkies
+$11B4DE88 0000270F
++Max Air Level
+%Credits: Codejunkies
+$01B4DE56 00000004
++Max Earth Level
+%Credits: Codejunkies
+$01B4DE57 00000004
++Max Fire Level
+%Credits: Codejunkies
+$01B4DE54 00000004
++Max Health
+%Credits: Codejunkies
+$11B4DE5C 0000270F
++Max Mana
+%Credits: Codejunkies
+$11B4DE60 0000270F
++Max Water Level
+%Credits: Codejunkies
+$01B4DE55 00000004
++Select Water Weapon (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D049C640 00000021
+$01B4DE64 00000001
+!!
+!Level 5 - Homecoming:
++Air Weapon - Select+Down
+%Credits: Codejunkies
+$D049C640 00000041
+$01BD8064 00000002
++Earth Weapon - Select+Left
+%Credits: Codejunkies
+$D049C640 00000081
+$01BD8064 00000003
++Fire Weapon - Select+Up
+%Credits: Codejunkies
+$D049C640 00000011
+$01BD8064 00000000
++Infinite Health
+%Credits: Codejunkies
+$01BD7B3C 0000270F
++Infinite Health
+%Credits: Codejunkies
+$41BD7B3C 00090001
+$0F0F0F0F 00000000
+$11BD7B60 00000F0F
+$01BD7B62 0000000F
++Infinite Mana
+%Credits: Codejunkies
+$11BD8088 0000270F
++Max Air Level
+%Credits: Codejunkies
+$01BD8056 00000004
++Max Earth Level
+%Credits: Codejunkies
+$01BD8057 00000004
++Max Fire Level
+%Credits: Codejunkies
+$01BD8054 00000004
++Max Health
+%Credits: Codejunkies
+$41BD805C 00090001
+$0F0F0F0F 00000000
+$11BD8080 00000F0F
+$01BD8082 0000000F
++Max Health
+%Credits: Codejunkies
+$01BD805C 0000270F
++Max Mana
+%Credits: Codejunkies
+$01BD8060 0000270F
++Max Mana
+%Credits: Codejunkies
+$41BD8060 00090001
+$0F0F0F0F 00000000
+$11BD8084 00000F0F
+$01BD8086 0000000F
++Max Water Level
+%Credits: Codejunkies
+$01BD8055 00000004
++Select Water Weapon (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D049C640 00000021
+$01BD8064 00000001
+!!
+!Level 6 - Vengeance:
++Air Weapon - Select+Down
+%Credits: Codejunkies
+$D049C640 00000041
+$01AE6684 00000002
++Earth Weapon - Select+Left
+%Credits: Codejunkies
+$D049C640 00000081
+$01AE6684 00000003
++Fire Weapon - Select+Up
+%Credits: Codejunkies
+$D049C640 00000011
+$01AE6684 00000000
++Infinite Health
+%Credits: Codejunkies
+$11AE615C 0000270F
++Infinite Mana
+%Credits: Codejunkies
+$11AE66A8 0000270F
++Max Air Level
+%Credits: Codejunkies
+$01AE6676 00000004
++Max Earth Level
+%Credits: Codejunkies
+$01AE6677 00000004
++Max Fire Level
+%Credits: Codejunkies
+$01AE6674 00000004
++Max Health
+%Credits: Codejunkies
+$11AE667C 0000270F
++Max Mana
+%Credits: Codejunkies
+$11AE6680 0000270F
++Max Water Level
+%Credits: Codejunkies
+$01AE6675 00000004
++Select Water Weapon (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D049C640 00000021
+$01AE6684 00000001
+!!
+!Level 7 - Darkness Falls:
++Air Weapon - Select+Down
+%Credits: Codejunkies
+$D049C640 00000041
+$01B17E34 00000002
++Earth Weapon - Select+Left
+%Credits: Codejunkies
+$D049C640 00000081
+$01B17E34 00000003
++Fire Weapon - Select+Up
+%Credits: Codejunkies
+$D049C640 00000011
+$01B17E34 00000000
++Infinite Health
+%Credits: Codejunkies
+$11B1790C 0000270F
++Infinite Mana
+%Credits: Codejunkies
+$11B17E58 0000270F
++Max Air Level
+%Credits: Codejunkies
+$01B17E26 00000004
++Max Earth Level
+%Credits: Codejunkies
+$01B17E27 00000004
++Max Fire Level
+%Credits: Codejunkies
+$01B17E24 00000004
++Max Health
+%Credits: Codejunkies
+$11B17E2C 0000270F
++Max Mana
+%Credits: Codejunkies
+$11B17E30 0000270F
++Max Water Level
+%Credits: Codejunkies
+$01B17E25 00000004
++Select Water Weapon (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D049C640 00000021
+$01B17E34 00000001
+!!
+!Level 8 - Betrayal:
++Air Weapon - Select+Down
+%Credits: Codejunkies
+$D049C640 00000041
+$01B1A644 00000002
++Earth Weapon - Sel+Left
+%Credits: Codejunkies
+$D049C640 00000081
+$01B1A644 00000003
++Fire Weapon - Select+Up
+%Credits: Codejunkies
+$D049C640 00000011
+$01B1A644 00000000
++Infinite Health
+%Credits: Codejunkies
+$11B1A11C 0000270F
++Infinite Mana
+%Credits: Codejunkies
+$11B1A668 0000270F
++Max Air Level
+%Credits: Codejunkies
+$01B1A636 00000004
++Max Earth Level
+%Credits: Codejunkies
+$01B1A637 00000004
++Max Fire Level
+%Credits: Codejunkies
+$01B1A634 00000004
++Max Health
+%Credits: Codejunkies
+$11B1A63C 0000270F
++Max Mana
+%Credits: Codejunkies
+$11B1A640 0000270F
++Max Water Level
+%Credits: Codejunkies
+$01B1A635 00000004
++Select Water Weapon (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D049C640 00000021
+$01B1A644 00000001
+!!
+!Level 9 - Liberation:
++Infinite Health
+%Credits: Codejunkies
+$11B5184C 0000270F
++Infinite Mana
+%Credits: Codejunkies
+$11B51D98 0000270F
++Max Air Level
+%Credits: Codejunkies
+$01B51D66 00000004
++Max Earth Level
+%Credits: Codejunkies
+$01B51D67 00000004
++Max Fire Level
+%Credits: Codejunkies
+$01B51D64 00000004
++Max Health
+%Credits: Codejunkies
+$11B51D6C 0000270F
++Max Mana
+%Credits: Codejunkies
+$11B51D70 0000270F
++Max Water Level
+%Credits: Codejunkies
+$01B51D65 00000004
++Select Air Weapon (Press Select+Down To Activate)
+%Credits: Codejunkies
+$D049C640 00000041
+$01B51D74 00000002
++Select Earth Weapon (Press Select+Left To Activate)
+%Credits: Codejunkies
+$D049C640 00000081
+$01B51D74 00000003
++Select Fire Weapon (Press Select+Up To Activate)
+%Credits: Codejunkies
+$D049C640 00000011
+$01B51D74 00000000
++Select Water Weapon (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D049C640 00000021
+$01B51D74 00000001
+!!
+!Level 9 - Liberation Codes:
+!!
+!Level 10 - Go Fish:
++Infinite Health
+%Credits: Codejunkies
+$11BBB29C 0000270F
++Infinite Mana
+%Credits: Codejunkies
+$11BBB7E8 0000270F
++Max Air Level
+%Credits: Codejunkies
+$01BBB7B6 00000004
++Max Earth Level
+%Credits: Codejunkies
+$01BBB7B7 00000004
++Max Fire Level
+%Credits: Codejunkies
+$01BBB7B4 00000004
++Max Health
+%Credits: Codejunkies
+$11BBB7BC 0000270F
++Max Mana
+%Credits: Codejunkies
+$11BBB7C0 0000270F
++Max Water Level
+%Credits: Codejunkies
+$01BBB7B5 00000004
++Select Air Weapon (Press Select+Down To Activate)
+%Credits: Codejunkies
+$D049C640 00000041
+$01BBB7C4 00000002
++Select Earth Weapon (Press Select+Left To Activate)
+%Credits: Codejunkies
+$D049C640 00000081
+$01BBB7C4 00000003
++Select Fire Weapon (Press Select+Up To Activate)
+%Credits: Codejunkies
+$D049C640 00000011
+$01BBB7C4 00000000
++Select Water Weapon (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D049C640 00000021
+$01BBB7C4 00000001
+!!
+!Level 10 - Go Fish Codes:
+!!
+!Level 11 - Mandek's Cove:
++Infinite Health
+%Credits: Codejunkies
+$11B7622C 0000270F
++Infinite Mana
+%Credits: Codejunkies
+$11B76778 0000270F
++Max Air Level
+%Credits: Codejunkies
+$01B76746 00000004
++Max Earth Level
+%Credits: Codejunkies
+$01B76747 00000004
++Max Fire Level
+%Credits: Codejunkies
+$01B76744 00000004
++Max Health
+%Credits: Codejunkies
+$11B7674C 0000270F
++Max Mana
+%Credits: Codejunkies
+$11B76750 0000270F
++Max Water Level
+%Credits: Codejunkies
+$01B76745 00000004
++Select Air Weapon (Press Select+Down To Activate)
+%Credits: Codejunkies
+$D049C640 00000041
+$01B76754 00000002
++Select Earth Weapon (Press Select+Left To Activate)
+%Credits: Codejunkies
+$D049C640 00000081
+$01B76754 00000003
++Select Fire Weapon (Press Select+Up To Activate)
+%Credits: Codejunkies
+$D049C640 00000011
+$01B76754 00000000
++Select Water Weapon (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D049C640 00000021
+$01B76754 00000001
+!!
+!Level 11 - Mandek's Cove Codes:
+!!
+!Level 12 - The Hoard:
++Infinite Health
+%Credits: Codejunkies
+$11C3D8CC 0000270F
++Infinite Mana
+%Credits: Codejunkies
+$11C3DE18 0000270F
++Max Air Level
+%Credits: Codejunkies
+$01C3DDE6 00000004
++Max Earth Level
+%Credits: Codejunkies
+$01C3DDE7 00000004
++Max Fire Level
+%Credits: Codejunkies
+$01C3DDE4 00000004
++Max Health
+%Credits: Codejunkies
+$11C3DDEC 0000270F
++Max Mana
+%Credits: Codejunkies
+$11C3DDF0 0000270F
++Max Water Level
+%Credits: Codejunkies
+$01C3DDE5 00000004
++Select Air Weapon (Press Select+Down To Activate)
+%Credits: Codejunkies
+$D049C640 00000041
+$01C3DDF4 00000002
++Select Earth Weapon (Press Select+Left To Activate)
+%Credits: Codejunkies
+$D049C640 00000081
+$01C3DDF4 00000003
++Select Fire Weapon (Press Select+Up To Activate)
+%Credits: Codejunkies
+$D049C640 00000011
+$01C3DDF4 00000000
++Select Water Weapon (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D049C640 00000021
+$01C3DDF4 00000001
+!!
+!Level 12 - The Hoard Codes:
+!!
+!Level 13 - Vigilance:
++Infinite Health
+%Credits: Codejunkies
+$11B467DC 0000270F
++Infinite Mana
+%Credits: Codejunkies
+$11B46D28 0000270F
++Max Air Level
+%Credits: Codejunkies
+$01B46CF6 00000004
++Max Earth Level
+%Credits: Codejunkies
+$01B46CF7 00000004
++Max Fire Level
+%Credits: Codejunkies
+$01B46CF4 00000004
++Max Health
+%Credits: Codejunkies
+$11B46CFC 0000270F
++Max Mana
+%Credits: Codejunkies
+$11B46D00 0000270F
++Max Water Level
+%Credits: Codejunkies
+$01B46CF5 00000004
++Select Air Weapon (Press Select+Down To Activate)
+%Credits: Codejunkies
+$D049C640 00000041
+$01B46D04 00000002
++Select Earth Weapon (Press Select+Left To Activate)
+%Credits: Codejunkies
+$D049C640 00000081
+$01B46D04 00000003
++Select Fire Weapon (Press Select+Up To Activate)
+%Credits: Codejunkies
+$D049C640 00000011
+$01B46D04 00000000
++Select Water Weapon (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D049C640 00000021
+$01B46D04 00000001
+!!
+!Level 13 - Vigilance Codes:
+!!
+!Level 14 - Apocalypse Now:
++Infinite Health
+%Credits: Codejunkies
+$11C2262C 0000270F
++Infinite Mana
+%Credits: Codejunkies
+$11C22B78 0000270F
++Max Air Level
+%Credits: Codejunkies
+$01C22B46 00000004
++Max Earth Level
+%Credits: Codejunkies
+$01C22B47 00000004
++Max Fire Level
+%Credits: Codejunkies
+$01C22B44 00000004
++Max Health
+%Credits: Codejunkies
+$11C22B4C 0000270F
++Max Mana
+%Credits: Codejunkies
+$11C22B50 0000270F
++Max Water Level
+%Credits: Codejunkies
+$01C22B45 00000004
++Select Air Weapon (Press Select+Down To Activate)
+%Credits: Codejunkies
+$D049C640 00000041
+$01C22B54 00000002
++Select Earth Weapon (Press Select+Left To Activate)
+%Credits: Codejunkies
+$D049C640 00000081
+$01C22B54 00000003
++Select Fire Weapon (Press Select+Up To Activate)
+%Credits: Codejunkies
+$D049C640 00000011
+$01C22B54 00000000
++Select Water Weapon (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D049C640 00000021
+$01C22B54 00000001
+!!
+!Level 14 - Apocalypse Now Codes:
+!!
+!Level 15 - Dragon Rage:
++Infinite Health
+%Credits: Codejunkies
+$11B559BC 0000270F
++Infinite Mana
+%Credits: Codejunkies
+$11B55F08 0000270F
++Max Air Level
+%Credits: Codejunkies
+$01B55ED6 00000004
++Max Earth Level
+%Credits: Codejunkies
+$01B55ED7 00000004
++Max Fire Level
+%Credits: Codejunkies
+$01B55ED4 00000004
++Max Health
+%Credits: Codejunkies
+$11B55EDC 0000270F
++Max Mana
+%Credits: Codejunkies
+$11B55EE0 0000270F
++Max Water Level
+%Credits: Codejunkies
+$01B55ED5 00000004
++Select Air Weapon (Press Select+Down To Activate)
+%Credits: Codejunkies
+$D049C640 00000041
+$01B55EE4 00000002
++Select Earth Weapon (Press Select+Left To Activate)
+%Credits: Codejunkies
+$D049C640 00000081
+$01B55EE4 00000003
++Select Fire Weapon (Press Select+Up To Activate)
+%Credits: Codejunkies
+$D049C640 00000011
+$01B55EE4 00000000
++Select Water Weapon (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D049C640 00000021
+$01B55EE4 00000001
+!!
+!Level 15 - Dragon Rage Codes:
+!!
+!Lives Codes:
++Infinite Lives
+%Credits: Codejunkies
+$002A8948 00000063
++Infinite Lives
+%Credits: Codejunkies
+$00230264 00000063
++Never Have More Than 1 Life
+%Credits: Codejunkies
+$E1010001 302A8948
+$002A8948 00000001
++Never Have More Than 1 Life
+%Credits: Codejunkies
+$E1010001 30230264
+$00230264 00000001
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E1010002 302A8948
+$002A8948 00000002
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E1010002 30230264
+$00230264 00000002
++Never Have More Than 3 Lives
+%Credits: Codejunkies
+$E1010003 302A8948
+$002A8948 00000003
++Never Have More Than 3 Lives
+%Credits: Codejunkies
+$E1010003 30230264
+$00230264 00000003
++Never Have More Than 4 Lives
+%Credits: Codejunkies
+$E1010004 302A8948
+$002A8948 00000004
++Never Have More Than 4 Lives
+%Credits: Codejunkies
+$E1010004 30230264
+$00230264 00000004
++Never Have More Than 5 Lives
+%Credits: Codejunkies
+$E1010005 302A8948
+$002A8948 00000005
++Never Have More Than 5 Lives
+%Credits: Codejunkies
+$E1010005 30230264
+$00230264 00000005
++Unlock All Levels
+%Credits: Codejunkies
+$1049CF46 0000000E
++Unlock All Levels
+%Credits: Codejunkies
+$1049CCC6 0000000E
+!!
+!!
+

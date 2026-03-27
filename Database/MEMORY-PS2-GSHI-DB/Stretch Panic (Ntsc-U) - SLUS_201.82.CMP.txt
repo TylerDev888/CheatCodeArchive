@@ -1,0 +1,24 @@
+^3 = NAME: Stretch Panic (Ntsc-U)
+^2 = GameID: SLUS-20182
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F011F604 0013C4AB
++(M) Must Be On
+%Credits: Codejunkies
+$F013C4A8 0013C4AB
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0010D3DF
+!!
++99 Points
+%Credits: InterAct
+$106AF098 00000063
++Max Points
+%Credits: Code Master
+$206AF098 000003E7
++Points Worth Modifier
+%Credits: Code Master
+$2014EECC 246300??
+!!
+

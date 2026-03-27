@@ -1,0 +1,58 @@
+^3 = NAME: RC Revenge Pro (Ntsc-U)
+^2 = GameID: SLUS-20153
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F012EA2C 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F012EA2C 0012EA2F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001C69D3
+!!
++All Cups Complete
+%Credits: InterAct
+$10620B24 00000008
+!Have Vehicle Codes:
++All Cars
+%Credits: Code Master
+$401EBBB4 0010000D
+$00000001 00000000
++Big Rock
+%Credits: Code Master
+$101EBE58 00000001
++Concept 3000
+%Credits: Code Master
+$101EBBB4 00000001
++Jungle Ranger
+%Credits: Code Master
+$101EBC84 00000001
++Lunar Loader
+%Credits: Code Master
+$101EBE8C 00000001
++Sarge
+%Credits: Code Master
+$101EBD54 00000001
++Skull Duggery
+%Credits: Code Master
+$101EBD88 00000001
++The Corporal
+%Credits: Code Master
+$101EBE24 00000001
++UFO
+%Credits: Code Master
+$101EBDF0 00000001
++Yella
+%Credits: Code Master
+$101EBDBC 00000001
++Zany Zoomer
+%Credits: Code Master
+$101EBEC0 00000001
+!!
++Start On Lap 3 {<I>You&#39;Ll Only Need To Complete 1 Lap To Take 1St Place. Everyone Else Will Need To Complete All 3 Laps.</I>}
+%Credits: InterAct
+$D078DAC4 00000000
+$1078DAC4 00000002
+!!
+

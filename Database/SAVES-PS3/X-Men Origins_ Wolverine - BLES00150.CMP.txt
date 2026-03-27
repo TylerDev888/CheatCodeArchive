@@ -1,0 +1,8 @@
+^2 = GameID: BLES00150
+^3 = NAME: X-Men Origins: Wolverine
+^4 = FILE: PAYLOAD
++Update Sha1 (required)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

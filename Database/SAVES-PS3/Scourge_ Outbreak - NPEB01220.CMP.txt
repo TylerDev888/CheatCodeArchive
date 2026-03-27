@@ -1,0 +1,10 @@
+^2 = GameID: NPEB01220
+^3 = NAME: Scourge: Outbreak
+(From SHAkA)
+^4 = FILE: PAYLOAD
++Update Sha1 For Payload (required)
+(set range:0x000014,0x000405)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

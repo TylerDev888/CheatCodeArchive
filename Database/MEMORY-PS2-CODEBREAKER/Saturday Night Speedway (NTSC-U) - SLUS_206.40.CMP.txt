@@ -1,0 +1,50 @@
+^1 = HASH: 487F15A9
+^3 = NAME: Saturday Night Speedway
+^2 = GameID: SLUS_206.40
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 003AE52F
+!!
+!Codes:
++Disable FMV
+%Credits: Code Master
+$203B03A0 24020001
++Infinite Balance
+%Credits: Code Master
+$10B49818 0000FFFF
++Max Balance
+%Credits: Code Master
+$20B49818 05F5E0FF
++Balance Doesnt Decrease When Buying
+%Credits: Code Master
+$201EB710 00000000
++Balance Increases When Buying
+%Credits: Code Master
+$201EB708 0045102D
++Lower Lap Times
+%Credits: Code Master
+$D045DE34 00300300
+$2045DE34 00000300
++P1 Press L1+Select To Stop Lap Timer{With This Code, You Want To Do It After The Race Starts Or It Will Not Start Most Likely :).}
+%Credits: Code Master
+$D08B1B42 0000FBFE
+$20155954 00000000
++P1 Press L2+Select To Resume Lap Timer
+%Credits: Code Master
+$D08B1B42 0000FEFE
+$20155954 AC62DE34
++Always On Lap Modifier
+%Credits: Code Master
+$2045DE80 000000??
++Start On Lap Modifier
+%Credits: Code Master
+$D045DE80 00000000
+$2045DE80 000000??
++Max Current Tear Offs
+%Credits: Code Master
+$20485F00 00000063
++Max Overall Tear Offs
+%Credits: Code Master
+$20485F08 00000063
+!!

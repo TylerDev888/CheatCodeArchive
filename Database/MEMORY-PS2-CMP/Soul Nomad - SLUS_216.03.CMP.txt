@@ -1,0 +1,78 @@
+^1 = Hash: 9F 4C 81 02 91 B2 F3 16 2D FD 44 37 AB 51 98 7D 87 5B 20 0C
+^2 = GameID: SLUS_216.03
+^3 = NAME: Soul Nomad - SLUS_216.03.CMP
+!Masters:
++Enable Code (MUST BE ON)
+$901130D0 0C044BDC
+!!
+!Misc Codes:
++Max/Inf Money{#do Not Use If U Are Loading A Game}
+%Credits: Skiller
+$20415B88 3B9ACA00
++Max Money (joker){Press Select = Max Use This If U Are Loading A Saved Game}
+%Credits: Skiller
+$D03A6302 0000FFFE
+$20415B88 3B9ACA00
++Inf Stamina{Press Start = On, Select = Off Turn On When Its Your Turn To Move, Turn Off When Its Not Your Turn Move}
+%Credits: Skiller
+$D03A6302 0000FFF7
+$202379C8 00000000
+$D03A6302 0000FFFE
+$202379C8 A6830128
++Inf HP{Press Select = On, Start = Off Turn On When Its Not Your Turn, Turn Off When Its Your Turn To Attack}
+%Credits: Skiller
+$D03A6302 0000FFFE
+$201D528C 00000000
+$D03A6302 0000FFF7
+$201D528C ACA20000
++All Characters In Manikin Shop{Press R2+r3 = On ,r2+l3 = Off, Only Turn On When Entering The Buying Units Section Turn Off Before U Leave The Buying Section Or Ur Game Will Crash When U Goto Train The Units ..}
+%Credits: Kingedgar0>Skiller
+$E00BFDFB 003A6302
+$202CE918 24060001
+$40415BD0 00060002
+$00010000 00010000
+$40415C00 00040002
+$00080000 00010000
+$40415C20 001E0002
+$00140000 00010000
+$20415D10 00360000
+$20415D18 00370000
+$40415D20 001D0002
+$03E80000 000A0000
+$D03A6302 0000FDFD
+$202CE918 2406000A
++Train Units Gain Rp{Press Select To Activate}
+%Credits: Skiller
+$D03A6302 0000FFFE
+$002D1248 0000000D
+!!
+!After Battle Codes:
++After Battle Rp Max{Press Select To Activate}
+%Credits: Skiller
+$D03A6302 0000FFFE
+$0019405C 00000001
+!!
+!Debuging Codes:
++Debug Mode{Title Screen Stuff Still Doesn't Work (probably Never Will), While Highlighting A Tactic You Can Press Select To Increase Its Level By 1. While Highlighting A Unit In The Set Members Screen You Can Press Select To Increase Its Level By 1. Hold Down Square And Hit Select To Increase Its Level By 10, And Hold Down Triangle And Hit Select To Increase Its Level By 100. The Menu In Battles Now Allows You To Go To The Design Menu, So You Can Mess Around With Your Rooms In The Middle Of Battles. Buttons On The Second Controller Control The Camera}
+%Credits: KingEdgar0
+$20136D78 00000000
+$20136FA8 00000000
+$203A6718 00000003
++Levelling Up With Debug Reduces Level To 1{L3 = On, R3 = Off, This Lets You Increase A Character's Stats While Keeping Its Level Low}
+$D03A6302 0000FFFD
+$2029BB60 A6A00224
+$D03A6302 0000FFFB
+$2029BB60 86A20224
++Control Enemy Units(kind Of){Ok, Here Is How It Works. Highlight An Enemy Unit And Hit X (this Will Make Sure The Unit Is The "currently Selected Unit"), And Then Hit L1 + Select To Bring Up The Action Menu. From There You Can Do What You Want. Move, Attack, Tactics... Ect. Note That This Will -Not- Use Up The Unit's Turn. So This Code Doesn't Stop Your Enemies From Acting, It Just Allows You To Control Them During Your Turn.}
+%Credits: KingEdgar0
+$D03A6302 0000FBFE
+$003AA350 0000000A
++Steal Whenever You Want{First, You Have To Make Sure That Your Unit Is The "currently Selected Unit". To Do This Simply Hit X On It To Bring Up The Menu, And Then Back Out. Now, Highlight The Enemy Unit You Want To Steal From (don't Hit X), And Hit L1 + L3. The Steal Selection Will Come Up And You Can Pick Which Item You Want To Try For. Note That This Does Not Affect Your Chances Of Stealing. It Just Allows You To Steal From Any Unit You Want Regardless Of Range, And Lets You Make As Many Attempts As You Want On Your Turn. It -Will- Use Up Your Action, But You Can Keep Using The Code Even When Your Action Is Used Up.}
+%Credits: KingEdgar0
+$D03A6302 0000FBFD
+$003AA350 00000048
++Kidnap Whenever You Want{This Works A Lot Like The Steal Code. First Make Sure The Unit You Want To Kidnap Into Is The Currently Selected Unit. Then Highlight The Enemy Unit You Want To Kidnap From, And Hit L1 + R3. The Kidnap Selection Menu Will Come Up, And You Can Take Your Pick. Like The Steal Code This Will Not Affect Your Chances Of Kidnapping. It Just Allows You To Kidnap From Any Unit, And Lets You Attempt To Kidnap As Many Times As You Want. Also, If The Unit/Room You Are Kidnapping Into Doesn't Have A Free Space, The Character Will Be Taken From The Enemy Unit But Not Added To Yours. Also Worth Noting Is That If You Have An Enemy Unit As The Currently Selected Unit, You Can Have Enemy Units Kidnap From Each Other. I Suppose It Would Also Be Possible To Make Enemy Units Kidnap From You...}
+%Credits: KingEdgar0
+$D03A6302 0000FBFB
+$003AA350 00000050
+!!

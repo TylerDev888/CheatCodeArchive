@@ -1,0 +1,28 @@
+^2 = GameID: ALTE
+^3 = NAME: Lionel Trains: On Track
+^4 = FILE: NTSC(Action Replay/Codebreaker/Game Genie)
++Lots Money/Quick money
+$1216AC14 0000FFFF
++Month Mod
+$0216ABF8  000000[MONTH]
++Day Mod
+$0216ABFA  000000[Amount:99:HEX:BIG]
+^6 = MODS:
+[MONTH]
+VALUE>NAME
+00	Feb
+01	March
+02	April
+03	May
+04	June
+05	July
+06	Aug
+07	September
+08	Oct
+09	November
+0A	December
+0B	Jan
+[/MONTH]
+
+
+

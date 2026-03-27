@@ -1,0 +1,22 @@
+^3 = NAME: Global Defence Force (PAL-E)
+^2 = GameID: SLES-54464
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$90168290 0C05A04C
+!!
++Force Progressive Display Mode
+%Credits: punk7890
+$20158C0C 24110002
++Invincibility {<I>You Might Still Get Hurt If You Get Thrown</I>}
+%Credits: nolberto82
+$201F3BC4 00000000
+$201F3C08 100001E8
++No Reload
+%Credits: nolberto82
+$201A6B98 8EA200C4
++PAL To NTSC (60Hz)
+%Credits: punk7890
+$20158C10 24120002
+!!
+

@@ -1,0 +1,13 @@
+^2 = GameID: SLUS_215.75
+^3 = NAME: Naruto-Ultimate Ninja 2
+!Masters:
++Enable Code (MUST BE ON)
+$901245D8 0C04911E
+!!
++Max Money When Winning(handstand Race With Guy)
+$206E7C0C 3C030098
+$206E7C10 3463967F
++Buying Items Money Dont Decrease{/Off = 02028023}
+$202C1E20 00000000
++Buying Items Gain = Money{/Off = 02028023}
+$202C1E20 02028021

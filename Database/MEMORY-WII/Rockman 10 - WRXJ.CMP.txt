@@ -1,0 +1,26 @@
+^2 = GameID: WRXJ
+^3 = NAME: Rockman 10
++Character Select Open
+%Credits: Skiller
+$040F7DF0 38800004
+$040F7DFC 38800003
++1 Hit Kills (enemys+bosses){Turn On Invincible For Your Self}
+%Credits: Skiller
+$C205AA98 00000003
+$2C000000 41820008
+$38000000 B01E0030
+$60000000 00000000
++Gain 999 Screws (on Pickup)
+%Credits: Skiller
+$040765E8 40810004
++Allow Hard Mode
+%Credits: Skiller
+$025A2B42 0000A006
++Have All Weapons
+%Credits: Skiller
+$02537B7E 0000FFFF
++Jump To Wily's Castle(hold 1 And Press Right On D-Pad){From The Stage Select Press - To Goto The Save Menu Then Go Back To The Stage Select And Bam}
+%Credits: Skiller
+$2845558A 00000202
+$02537BEA 000001FF
+$E0000000 80008000

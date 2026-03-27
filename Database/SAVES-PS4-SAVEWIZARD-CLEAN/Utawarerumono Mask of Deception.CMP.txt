@@ -1,0 +1,12 @@
+^2 = GameID: CUSA02315,CUSA06004,CUSA06713,CUSA13870
+^3 = NAME:Utawarerumono: Mask of Deception
+^4 = FILE: GAME-[0-9a-f]{3}\.Dat
++Codex And Scrolls (Including No Name Ones)
+$4000ECFB 00000014
+$41920004 00000000
++20% Boost Hp,Atk,Def,Spd And +1 Mov And Jump Codex Stat Boost For All
+$4000A33F 000000FF
+$400E0278 00000000
++Max Points In Bp Hp,Atk,Def,Spd For All
+$4000A394 FFFFFFFF
+$400E0278 00000000

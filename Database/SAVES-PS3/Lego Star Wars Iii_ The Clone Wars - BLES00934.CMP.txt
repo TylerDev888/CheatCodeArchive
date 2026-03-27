@@ -1,0 +1,11 @@
+^2 = GameID: BLES00934
+^3 = NAME: LEGO Star Wars III: The Clone Wars
+^5 = APCRED: by bucanero
+^4 = FILE: GAME1
++Update Checksum For Game1 (required)
+(set pointer:eof-0xAE50)
+(set range:0x10,pointer)
+$set range:0x10,0xE1BF
+$set [hash]:fnv1:0xFFFFFFFF
+$set [hash]:xor:FFFFFFFF
+$write at 0x000C:[hash]

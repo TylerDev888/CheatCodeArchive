@@ -1,0 +1,232 @@
+^3 = NAME: Marvel Vs. Capcom 2 (Pal-Unk)
+^2 = GameID: SLES-51174
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F010D96C 0010D96F
+!!
+!1st Character Codes:
++1 Hit Kill
+%Credits: Codejunkies
+$D04F3A6C 00000090
+$204F3A6C 00000001
++Pocket Fighter
+%Credits: Codejunkies
+$204F38D0 3F200000
+$204F38D4 3F200000
+!!
+!2nd Character Codes:
++1 Hit Kill
+%Credits: Codejunkies
+$D04F45DC 00000090
+$204F45DC 00000001
++Assist Type Modifier
+%Credits: HackFreak
+$004F40CD 000000??
++Assist Type Modifier
+%Credits: HackFreak
+$004F4685 000000??
++Character Modifier
+%Credits: HackFreak
+$004F4130 000000??
++Character Modifier
+%Credits: HackFreak
+$004F46E8 000000??
++Control Modifier
+%Credits: HackFreak
+$004F4129 000000??
++Control Modifier
+%Credits: HackFreak
+$004F46E1 000000??
++Infinite Health
+%Credits: Codejunkies
+$204F4024 00000090
++Pocket Fighter
+%Credits: Codejunkies
+$204F3E88 3F200000
+$204F3E8C 3F200000
++Pocket Fighter
+%Credits: Codejunkies
+$204F4440 3F200000
+$204F4444 3F200000
+!!
+!3rd Character Codes:
++1 Hit Kill
+%Credits: Codejunkies
+$D04F514C 00000090
+$204F514C 00000001
++Assist Type Modifier
+%Credits: HackFreak
+$004F4C3D 000000??
++Assist Type Modifier
+%Credits: HackFreak
+$004F51F5 000000??
++Character Modifier
+%Credits: HackFreak
+$004F4CA0 000000??
++Character Modifier
+%Credits: HackFreak
+$004F5258 000000??
++Control Modifier
+%Credits: HackFreak
+$004F4C99 000000??
++Control Modifier
+%Credits: HackFreak
+$004F5251 000000??
++Infinite Health
+%Credits: Codejunkies
+$204F4B94 00000090
++Max Power Gauge
+%Credits: Codejunkies
+$004D28CA 00000009
++Max Power Gauge
+%Credits: Codejunkies
+$004D28CB 00000009
++No Power Gauge
+%Credits: Codejunkies
+$004D28CB 00000000
++Pocket Fighter
+%Credits: Codejunkies
+$204F49F8 3F200000
+$204F49FC 3F200000
++Pocket Fighter
+%Credits: Codejunkies
+$204F4FB0 3F200000
+$204F4FB4 3F200000
+!!
++All Characters
+%Credits: Codejunkies
+$204F5300 FFFFFFFF
+$204F5304 FFFFFFFF
++All Colors
+%Credits: HackFreak
+$EED82062 A0B6D565
+$EED8205E 51B6D565
++All Gallery
+%Credits: HackFreak
+$204F8F84 FFFFFFFF
+$204F8F88 FFFFFFFF
++All Stages
+%Credits: HackFreak
+$004D2768 00000007
+!First Character Codes:
++Assist Type Modifier
+%Credits: HackFreak
+$004F3B15 000000??
++Assist Type Modifier {<I>83 - A (Alpha Assist Type)  84 - B (Beta Assist Type)  85 - Y (Gamma Assist Type)</I>}
+%Credits: HackFreak
+$004F355D 000000??
++Character Modifier
+%Credits: HackFreak
+$004F3B78 000000??
++Character Modifier {<I>Only Use The P1/P2 1St Fighter Codes When Playing As Abyss. When Playing As Abyss, The Game Will Rarely Lock-Up. Do Not Switch Or Perform Double Team Special Attacks When Your Playing As Abyss. Using The Following Attack Command For Abyss, Will Lock-Up The Game. Also, Don&#39;T Turn On The Command List, Or The Game Will Lock-Up. Normally When You Defeat Abyss, He Would Transform Into His Next Transformation. You Will Not Transform With This Code. Another Quick Note: The Game Doesn&#39;T Run Well On Certain Versions Of The PS2 And Will Lock-Up Occassionally. Don&#39;T Ask Me Why, But It Just Does For Some Odd Reason.   QCF+LK  QCF= Quarter Circle Forward (D, DF, F)  LK= Light Kick   83 - Ryu  84 - Zangief  85 - Guile  86 - Morrigan  87 - Anakaris  88 - Strider Hiryu  89 - Cyclops  8A - Wolverine (Expansion Type)  8B - Psylocke  8C - Ice Man  8D - Rogue  8E - Captain America  8F - Spider-Man  90 - Hulk  91 - Venom  92 - Doctor Doom  93 - T. Bonne (Tron)  94 - Jill  95 - Hayato  96 - Ruby Heart  97 - Son Son  98 - Amingo  99 - Marrow  9A - Cable  9B - Abyss (Black Armor) (Unplayable Character) 9E - Chun-Li  9F - Mega Man (Rock Man)  A0 - Roll  A1 - Akuma (Gouki)  A2 - B. B Hood (Bulleta) A3 - Felicia  A4 - Charlie (Nash)  A5 - Sakura  A6 - Dan  A7 - Cammy  A8 - Dhalsim  A9 - M. Bison (Vega)  AA - Ken  AB - Gambit  AC - Juggernaut  AD - Storm  AE - Sabretooth  AF - Magneto  B0 - Shuma-Gorath  B1 - War Machine  B2 - Silver Samurai  B3 - Omega Red  B4 - Spiral  B5 - Colossus  B6 - Iron Man  B7 - Sentinel  B8 - Black Heart  B9 - Thanos  BA - Jin  BB - Captain Commando  BC - Wolverine (Variety Type)  BD - Servbot (Kobun)</I>}
+%Credits: HackFreak
+$004F35C0 000000??
++Control Modifier
+%Credits: HackFreak
+$004F3B71 000000??
++Control Modifier {<I>83 - Player  84 - CPU</I>}
+%Credits: HackFreak
+$004F35B9 000000??
++Infinite Health
+%Credits: Codejunkies
+$204F34B4 00000090
++Pocket Fighter
+%Credits: Codejunkies
+$204F3318 3F200000
+$204F331C 3F200000
+!!
+!Health Codes:
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E0020024 304F34B4
+$E0010000 304F34B6
+$204F34B4 00000024
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E0020024 304F4024
+$E0010000 304F4026
+$204F4024 00000024
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E0020024 304F4B94
+$E0010000 304F4B96
+$204F4B94 00000024
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0020048 304F34B4
+$E0010000 304F34B6
+$204F34B4 00000048
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0020048 304F4024
+$E0010000 304F4026
+$204F4024 00000048
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0020048 304F4B94
+$E0010000 304F4B96
+$204F4B94 00000048
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E002006C 304F34B4
+$E0010000 304F34B6
+$204F34B4 0000006C
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E002006C 304F4024
+$E0010000 304F4026
+$204F4024 0000006C
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E002006C 304F4B94
+$E0010000 304F4B96
+$204F4B94 0000006C
+!!
++Hit Anywhere Both Players
+%Credits: HackFreak
+$201E8820 00000000
+$201E8740 00000000
++Max Money
+%Credits: Codejunkies
+$104F8F62 0000270F
++Max Score
+%Credits: Codejunkies
+$204F3568 99999990
+!Misc. Codes:
++Background Modifier {<I>83 - Flying Ship (Day)  84 - Desert (Noon)  85 - Factory  86 - Carnival (Day)  87 - Lagoon (Foggy)  88 - Cave (Green)  89 - Clock Tower (Day)  8A - River (Snowing)  8B - Abyss&#39;S Temple  8C - Flying Ship (Night)  8D - Desert (Sunny)  8E - Training Room  8F - Carnival (Night)  90 - Lagoon (Sunny)  91 - Cave (Red)  92 - Clock Tower (Snowing)  93 - River (Sunny)</I>}
+%Credits: HackFreak
+$004C3758 000000??
++Invisible Life Bars (Color) {<I>With This Code, It Makes The Life Bars (Color) Invisible, Allowing For Some Interesting Matches... You Never Know When You&#39;Re About To Die! This Code Modifies The Size Of The Color In The Health Bars. The Default Value Is 3F800000.</I>}
+%Credits: HackFreak
+$2043EDD8 00000000
+$2043EDDC 00000000
+$2043EDE0 00000000
+!!
++P1 Max Reverse Joker Command
+%Credits: HackFreak
+$D062D6C2 0000????
++P2 Max Reverse Joker Command
+%Credits: HackFreak
+$D062D642 0000????
+!Player 1 Codes:
++Max Power Gauge
+%Credits: Codejunkies
+$004D28CA 00000005
++Quick Power Gauge Gain
+%Credits: Codejunkies
+$004D28C6 00000090
+!!
+!Player 2 Codes:
++Max Power Gauge
+%Credits: Codejunkies
+$004D28CB 00000005
++Quick Power Gauge Gain
+%Credits: Codejunkies
+$004D28C8 00000090
+!!
++Players Can Select The Same Character
+%Credits: HackFreak
+$2032E00C 00000000
+!!
+

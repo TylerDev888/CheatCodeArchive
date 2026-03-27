@@ -1,0 +1,70 @@
+^3 = NAME: Space Race (Pal-Unk)
+^2 = GameID: SLES-50487
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01A6694 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F01A6694 001A6697
+!!
+!Tournament Point Codes:
++99 Points Tournament Mode
+%Credits: Codejunkies
+$00A07250 00000063
++Boost Always Available
+%Credits: Codejunkies
+$D0A25144 00000000
+$10A25144 00000005
++Infinite Tokens
+%Credits: Codejunkies
+$2039D090 23071978
++Never Have More Than 25 Tournament Points
+%Credits: Codejunkies
+$E1010019 30A07250
+$00A07250 00000019
++Never Have More Than 50 Tournament Points
+%Credits: Codejunkies
+$E1010032 30A07250
+$00A07250 00000032
++Never Have More Than 75 Tournament Points
+%Credits: Codejunkies
+$E101004B 30A07250
+$00A07250 0000004B
++Unlock All Tracks
+%Credits: Codejunkies
+$2039D0B0 FFFFFFFF
+$1039D0A0 0000FFFF
+!!
++Buy Content In Gallery Even Without Symbols/Tokens
+%Credits: luc-ita
+$201FFBCC 10000021
++Infinite Retries
+%Credits: luc-ita
+$2020C4FC 00000000
++Opponents Don't Move
+%Credits: luc-ita
+$2013B570 08028000
+$200A0000 3C0100A0
+$200A0004 8C2167C8
+$200A0008 8C21003C
+$200A000C 10300002
+$200A0014 AE000030
+$200A0018 46010036
+$200A001C 0804ED5E
++Scratching Against Walls Doesn't Decrease Speed
+%Credits: luc-ita
+$2013B154 00000000
++Skip Video Logos
+%Credits: luc-ita
+$201A669C 00000000
++Turbo Available Even When Empty
+%Credits: luc-ita
+$201E7950 00000000
+$201E40A8 24040005
++Turbo Available Even When Empty And Lasts Twice As Long
+%Credits: luc-ita
+$201E7950 00000000
+$201E40A8 2404000A
+!!
+

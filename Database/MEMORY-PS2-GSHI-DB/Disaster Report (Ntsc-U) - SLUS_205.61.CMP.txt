@@ -1,0 +1,100 @@
+^3 = NAME: Disaster Report (Ntsc-U)
+^2 = GameID: SLUS-20561
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01D2174 001D2177
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001D2177
+!!
++Have All Compasses
+%Credits: Code Master
+$203FE8EC FFFFFFFF
+$203FE8F0 FFFFFFF7
++Have All Maps
+%Credits: Code Master
+$2036CC00 FFFFFFFF
+$2036CC04 FFFFFFFF
+!Health Codes:
++Have All Compasses
+%Credits: Codejunkies
+$203FE8EC FFFFFFFF
+$103FE8F0 00000007
++Have All Maps
+%Credits: Codejunkies
+$2036CC00 FFFFFFFF
+$1036CC04 000000FF
++Infinite Health
+%Credits: Codejunkies
+$10380906 000042C8
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E00141C8 30380906
+$10380906 000041C8
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0014248 30380906
+$10380906 00004248
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E0014296 30380906
+$10380906 00004296
+!!
++Infinite HP
+%Credits: Code Master
+$20380904 42C80000
++Infinite QP
+%Credits: Code Master
+$20380908 42C80000
++Never Thirsty
+%Credits: Codejunkies
+$1038090A 000042C8
+!Status Screen Codes:
++Always Low Distance Traveled
+%Credits: Code Master
+$204144C4 00000000
++Always Low Play Time
+%Credits: Code Master
+$204144B4 00000000
++Always Low Water Consumed
+%Credits: Code Master
+$204144C8 00000000
++Hella Distance Traveled
+%Credits: Code Master
+$204144C4 461C3F9A
++Never Have Saved
+%Credits: Code Master
+$204144B8 00000000
++No Falls
+%Credits: Code Master
+$204144C0 00000000
++No Game Overs
+%Credits: Code Master
+$204144BC 00000000
++Saved Only Once
+%Credits: Code Master
+$204144B8 00000001
+!!
+!The Following Codes Effects The End Of Game Statistics:
++Always On 1St Save
+%Credits: Codejunkies
+$104144B8 00000001
++Low Distance Traveled
+%Credits: Codejunkies
+$104144C6 00000000
++Low Play Time
+%Credits: Codejunkies
+$104144B4 000000F0
++Low Water Consumed
+%Credits: Codejunkies
+$104144CA 00003F00
++No Falls
+%Credits: Codejunkies
+$104144C0 00000000
++No Game Overs
+%Credits: Codejunkies
+$104144BC 00000000
+!!
+!!
+

@@ -1,0 +1,32 @@
+^3 = NAME: Silent Hill 3
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 0011F5E7
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$2018BD04 C60001A0
+$2018BD0C E600019C
++Ammunition
+%Credits: Xploder
+$21CA5480 00630063
+$21CA5484 00630063
++Supplies
+%Credits: Xploder
+$11CA548A 00000063
+$11CA5498 00000063
+$41CA548C 00030001
+$00630063 00000000
+!!
+!Have All:
++Weapons
+%Credits: Xploder
+$11CA5460 0000FFFF
++Items
+%Credits: Xploder
+$11CA5462 0000FFFF
+$41CA5464 00030001
+$FFFFFFFF 00000000
+!!

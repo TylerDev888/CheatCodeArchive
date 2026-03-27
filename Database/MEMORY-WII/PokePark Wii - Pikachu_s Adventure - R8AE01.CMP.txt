@@ -1,0 +1,13 @@
+^2 = GameID: R8AE01
+^3 = NAME: PokePark Wii: Pikachu's Adventure
++Max Berries (gain)
+%Credits: Skiller
+$041279F0 60000000
++Stop/Start Timer{(stop Timer = Up, - ) (start Timer = Down, - ) Note Start Timer When U Finished The Level}
+%Credits: Skiller
+$2837336A EFF71008
+$040A64C4 38030000
+$E0000000 80008000
+$2837336A EFFB1004
+$040A64C4 38030001
+$E0000000 80008000

@@ -1,0 +1,53 @@
+^3 = NAME: Vexx (Pal-Unk)
+^2 = GameID: SLES-50481
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01BC844 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F01BC844 001BC847
+!!
++Infinite Health Off (Press R3 To Activate)
+%Credits: Codejunkies
+$104356C2 0000FFFB
+$2020DCFC 46140841
++Infinite Health On (Press L3 To Activate)
+%Credits: Codejunkies
+$104356C2 0000FFFD
+$2020DCFC 00000000
++Infinite Oxygen
+%Credits: Codejunkies
+$20168F7C 00000000
+!Lives Codes:
++Energy Weapon
+%Credits: Codejunkies
+$206B335C 0000012C
++Infinite Health (Press L3 To Activate And R3 To Deactivate This Code) {<I>Turn The Code Off If You Are Falling Out Of The Level.</I>}
+%Credits: Codejunkies
+$104356C2 0000FFFD
+$2020DCFC 00000000
+$104356C2 0000FFFB
+$2020DCFC 46140841
++Infinite Lives
+%Credits: Codejunkies
+$106B3064 00000009
++Never Have Any Lives
+%Credits: Codejunkies
+$E0010000 306B3064
+$106B3064 00000000
++Never Have More Than 1 Life
+%Credits: Codejunkies
+$E0010001 306B3064
+$106B3064 00000001
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E0010002 306B3064
+$106B3064 00000002
++Never Have More Than 3 Lives
+%Credits: Codejunkies
+$E0010003 306B3064
+$106B3064 00000003
+!!
+!!
+

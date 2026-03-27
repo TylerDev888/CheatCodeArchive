@@ -1,0 +1,55 @@
+^3 = NAME: Richard Burns Rally
+!Masters:
++Mastercode
+%Credits: Xploder
+$90317D24 0C0CAF60
+!!
+!Never:
++Overheat
+%Credits: Xploder
+$201D21A4 00000000
+!!
+!Disable:
++Timer
+%Credits: Xploder
+$D0468F82 0000FFFD
+$202471A4 00000000
+$D0468F82 0000FFFB
+$202471A4 46140000
+!!
+!Unlock:
++All Tracks
+%Credits: Xploder
+$20273DC8 00001020
+$20273DD8 A0620020
++All Cars
+%Credits: Xploder
+$20273E64 00001020
+$20273E70 A0820020
+!!
+!Have:
++Perfect Rally School Completion
+%Credits: Xploder
+$4068CD58 00110001
+$00000004 00000000
+!!
+!Have Debug Stuff:
++None Reflective Cars
+%Credits: Xploder
+$2035F48C 00000000
++Invisible Car
+%Credits: Xploder
+$2035F4AC 00000000
++No Spectators
+%Credits: Xploder
+$2035F4BC 00000000
++No Trackside Trees
+%Credits: Xploder
+$2035F4C0 00000000
++No Shadows
+%Credits: Xploder
+$2035F4C8 00000000
++Visible Track Centre Line{(NOTE: This Is NOT The Racing Line)}
+%Credits: Xploder
+$2035F4E8 00000001
+!!

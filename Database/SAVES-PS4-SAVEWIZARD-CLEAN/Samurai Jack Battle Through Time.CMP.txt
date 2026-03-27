@@ -1,0 +1,42 @@
+^2 = GameID: CUSA16289,CUSA16305,CUSA16413
+^3 = NAME: Samurai Jack: Battle Through Time
+^SECONDLAYER: NO
+^4 = FILE: SaveData\ue4savegame.ps4.sav
+Max Health{<div class="note"><p><span style="color:#c00;font-weight:800;">Resets EVERY time</span> you use the skill tree — even if the upgrade isn’t related to Health. After using the skill tree, <strong>reapply</strong> the codes.</p></div>}
+%Credits: Pj1980
+$80[Amount:05:BIG:HEX<SaveSlot 01-05>]0018 4865616C
+$7468000E 00000046
+$6C6F6174 50726F70
+$65727479 00000000
+$28000022 [Amount:447A0000:FLOAT:BIG]
+$80[Amount:05:BIG:HEX<SaveSlot 01-05>]001B 4D617848
+$65616C74 68000E00
+$0000466C 6F617450
+$726F7065 72747900
+$28000025 [Amount:447A0000:FLOAT:BIG]
++Swap Katana For Great Sword With Super Durability{<div Class="note"><h4>note</H4><ul Class="bullet-List"><li>buy A <strong>katana</Strong> From The Merchant (available As Early As The Second Level—the Last Merchant Before The Boss).</Li><li>reach A <strong>checkpoint</Strong>, Then Apply The Code To <strong>swap The Katana</Strong> For The <strong>great Samurai Warrior’s Sword</Strong> (reportedly The Strongest).</Li><li>the Sword Is Granted ~<strong>2,000,000,000 Durability</Strong> (should Last The Whole Game Without Breaking).</Li><li>if You Own <strong>multiple Katanas</Strong>, The Code Modifies Only The <strong>first One It Finds</Strong>; Check Your Inventory For The Great Sword.</Li><li>to Confirm Durability, Talk To A Vendor And Choose <strong>repair</Strong> To View The Value.</Li></Ul></Div>}
+%Credits: Zeraf3000
+$80[Amount:05:BIG:HEX<SaveSlot 01-05>]0012 534A5F47
+$616D6544 6174615F
+$57656170 6F6E0000
+$88010021 6974656D
+$4964000C 00000049
+$6E745072 6F706572
+$74790004 00000000
+$00000000 E9000000
+$08000020 000000EA
+$92000000 00000001
+$8801000A 64757261
+$62696C69 74790000
+$8801000B 496E7450
+$726F7065 72747900
+$28000015 7FFFFFFF
++Super Max Weapons Level{<div Class="note Risk"><p Style="margin:0 0 6px 0;color:#c00;font-Weight:800;">⚠ <span Style="text-Transform:uppercase;">use At Own Risk</Span></P><ul Class="bullet-List"><li>sets <strong>all Weapons</Strong> To <strong>level 99</Strong>, Making Regular <strong>light/Heavy Combos</Strong> Do <strong>super Damage</Strong>.</Li><li><strong>major Drawback:</Strong> <em>all Super Attacks Do Zero Damage</Em> And You Can Get <strong>stuck In The Special-Attack Animation</Strong> If Triggered.</Li><li>effectively Restricts You To <strong>regular Combos Only</Strong> For The Entire Game While Active.</Li></Ul></Div>}
+%Credits: Zeraf3000
+$80[Amount:05:BIG:HEX<SaveSlot 01-05>]000D 4D61696E
+$57656170 6F6E4C76
+$73000000 00000000
+$8801000B 496E7450
+$726F7065 72747900
+$48000011 00000063
+$40050004 00000000

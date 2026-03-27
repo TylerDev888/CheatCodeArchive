@@ -1,0 +1,3191 @@
+^3 = NAME: Final Fantasy X International (Ntsc-J)
+^2 = GameID: SLPS-25088
+!Master Codes:
++(M) Enable Code
+%Credits: lee4
+$9011B9EC 0C0BA62A
++(M) Must Be On Code
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$F011B9EC 0000000E
++(M) Must Be On Code Another {<I>* Both This Code And The Other Code Will Work ** Use Only One Of Them At A Time</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$F011B9F4 002DDF17
++Enable Code
+%Credits: punk7890
+$902FA718 0C0BE96E
+!!
+!Active Battle Party Member Modifiers:
++First Member
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031CEA8 000000??
++Second Member
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031CEA9 000000??
++Third Member
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031CEAA 000000??
+!!
+!Aeon Auto Ability Modifiers -> Seymour:
++1St Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D836 000000??
++1St Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D84C 000000??
++2Nd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D838 000000??
++2Nd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D84E 000000??
++3Rd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D83A 000000??
++3Rd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D850 000000??
++4Th Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D83C 000000??
++4Th Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D852 000000??
++Weapon Attack Max {<I>Some Auto Abilities Won&#39;T Work With Some Summons  Weapon Auto Ability A5 - See Through A6 - First To Move A7 - Party Move Ahead Of Enemy A8 - Counter A1 - Avoid Counter A2 - Magic Counter A3 - Magic Booster A4 - Knowledge Of Medicine A0 - Penetrate 99 - MP Usage 1/2 9A - MP Usage 1 9B - Double Drive 9C - Triple Drive B5 - Drive When Pinch (Critical) B6 - Drive Into AP B7 - AP Double B8 - AP Triple AF - Gil Double AB - Flame Attack C7 - Ice Attack C3 - Thunder Attack BF - Water Attack BB - Instant Death Attack Change BC - Instant Death Attack D7 - Zombie Attack Change D8 - Zombie Attack D3 - Stone Attack Change D4 - Stone Attack CF - Poison Attack Change D0 - Poison Attack CB - Sleep Attack Change CC - Sleep Attack 67 - Silence Attack Change 68 - Silence Attack 63 - Blind Attack Change 64 - Blind Attack 5F - Slow Attack Change 60 - Slow Attack 87 - Physical Attack + 3% 88 - Physical Attack + 5% 81 - Physical Attack + 10% 82 - Physical Attack + 20% 83 - Magic Attack + 3% 84 - Magic Attack + 5% 7D - Magic Attack + 10% 7E - Magic Attack + 20% 8F - Capture B1 - No AP AE - Break Damage Limit 90 - Blank  Armor Auto Ability 9D - Auto Potion 9E - Auto Status Recovery 9F - Auto Phoenix B2 - Rare Item Get B3 - Rare Item Only B0 - Walk And HP Recover A9 - Walk And MP Recover AA - No Encounter AC - Flame Reduced by Half C5 - Flame No effect C6 - Flame Absorb C8 - Ice Reduced by Half C1 - Ice No Effect C2 - Ice Absorb C4 - Thunder Reduced by Half BD - Thunder No Effect BE - Thunder Absorb C0 - Water Reduced by Half B9 - Water No Effect BA - Water Absorb D5 - Completely Avoid Instant Death D6 - Avoid Instant Death D1 - Completely Avoid Zombie D2 - Avoid Zombie CD - Completely Avoid Stone CE - Avoid Stone C9 - Completely Avoid Poison CA - Avoid Poison 65 - Completely Avoid Sleep 66 - Avoid Sleep 61 - Completely Avoid Silence 62 - Avoid Silence 5D - Completely Avoid Blind 5E - Avoid Blind 59 - Completely Avoid Slow 5A - Avoid Slow 5B - Completely Avoid Confuse 5C - Avoid Confuse 75 - Completely Avoid Berserk 76 - Avoid Berserk 77 - Completely Avoid Curse 78 - Avoid Curse 71 - Auto Shell 72 - Auto Protes 73 - Auto Haste 74 - Auto Regen 6D - Auto Reflect 6E - Shell When Pinch 6F - Protes When Pinch 70 - Haste When Pinch 69 - Regen When Pinch 6A - Reflect When Pinch 6B - Ba-Water When Pinch 6C - Ba-Cold When Pinch 85 - Ba-Thunder When Pinch 86 - Ba-Fire When Pinch 7F - Physical Defense + 3% 80 - Physical Defense + 5% 79 - Physical Defense + 10% 7A - Physical Defense + 20% 7B - Magic Defense + 3% 7C - Magic Defense + 5% 95 - Magic Defense + 10% 96 - Magic Defense + 20% 97 - HP + 5% 98 - HP + 10% 91 - HP + 20% 92 - HP + 30% 93 - MP + 5% 94 - MP + 10% 8D - MP + 20% 8E - MP + 30% B4 - Break HP Limit AD - Break MP Limit E70C - Blank  FFX International Exclusive Auto Abilities Weapon Auto Ability 89    - Power Change 8A    - Magic Change 8B    - Speed Change 8C - Ability Change Armor Auto Ability 25 - Ribbon</i>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D831 000000FF
+!!
+!All Characters Status Modification:
++Aim
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$201BEFDC A3C60036
+$201BEFE4 8FC60024
++All Characters All Overdrive Types (Version 1.6 Or Later Only)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$4031E7A4 00080025
+$0001FFFF 00000000
++All Overdrive Skills
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031CEBC FFFFFFFF
+$2031CEC0 FFFFFFFF
+$2031CEC4 FFFFFFFF
+$1031CEC8 FFFFFFFF
++Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$101BEF52 0000A3C6
++Avoid
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$101BEFCA 0000A3C6
++Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$101BEF66 0000A3C6
++HP
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$201BEEF0 AFC60004
++Luck
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$101BEFB6 0000A3C6
++Magic Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$101BEF7A 0000A3C6
++Magic Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$101BEF8E 0000A3C6
++MP
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$201BEF30 AFD00008
++Speed
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$101BEFA2 0000A3C6
+!!
+!Anbasu:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A35C FFFFFFFF
+$2031A44C FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6D6 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A86E 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAE4 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8B4 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A712 000000??
+!!
+!Aniki:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A420 FFFFFFFF
+$2031A510 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A707 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A89F 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB46 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A916 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A743 000000??
+!!
+!Anima:
++1St Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7DE 000000??
++1St Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7F4 000000??
++2Nd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7E0 000000??
++2Nd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7F6 000000??
++3Rd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7E2 000000??
++3Rd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7F8 000000??
++4Th Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7E4 000000??
++4Th Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7FA 000000??
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EEA8 ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EEA4 ????????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EED9 000000??
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EEAC FFFFFFFF
+$2031EEB0 FFFFFFFF
+!!
+!Aruge=Ronzo:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3A4 FFFFFFFF
+$2031A494 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6E8 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A880 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB08 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8D8 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A724 000000??
+!!
+!Auron:
++Aim
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E857 0000????
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031E882 0000FFFB
+$2031E884 FFFFFFFF
+$2031E888 FFFFFFFF
+$1031E88C 0000FFFF
++All Overdrive Types
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E8CC 0001FFFF
++Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E850 0000????
++Avoid
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E856 0000????
++Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E851 0000????
++HP
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E848 0000????
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E84C ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E848 ????????
++Luck
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E855 0000????
++Magic Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E852 0000????
++Magic Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E853 0000????
++MP
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E84C 0000????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E87D 0000????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E87D 000000??
++S.Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E87F 0000????
++S.Level (88 = 99, 0C = 255) {<I>(88 = 99, 0C = 255)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E87F 000000??
++Speed
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E854 0000????
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E850 FFFFFFFF
+$2031E854 FFFFFFFF
+!!
+!Bahamut:
++1St Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7B2 000000??
++1St Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7C8 000000??
++2Nd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7B4 000000??
++2Nd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7CA 000000??
++3Rd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7B6 000000??
++3Rd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7CC 000000??
++4Th Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7B8 000000??
++4Th Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7CE 000000??
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EE14 ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EE10 ????????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EE45 000000??
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EE18 FFFFFFFF
+$2031EE1C FFFFFFFF
+!!
+!Barugeruda:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A368 FFFFFFFF
+$2031A458 FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6D9 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A871 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAEA 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8BA 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A715 000000??
+!!
+!Bashiku=Ronzo:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3A0 FFFFFFFF
+$2031A490 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6E7 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A87F 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB06 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8D6 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A723 000000??
+!!
+!Berikku:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A390 FFFFFFFF
+$2031A480 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6E3 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A87B 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAFE 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8CE 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A71F 000000??
+!!
+!Biggusu (Biggs):
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3E4 FFFFFFFF
+$2031A4D4 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6F8 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A890 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB28 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8F8 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A734 000000??
+!!
+!Bikusun:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A358 FFFFFFFF
+$2031A448 FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6D5 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A86D 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAE2 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8B2 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A711 000000??
+!!
+!Biruuchya:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A40C FFFFFFFF
+$2031A4FC FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A702 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A89A 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+4CA82    C64 1456????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A90C 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A73E 000000??
+!!
+!Blitzball Codes -> Team Modifiers:
++1St Member {<I>If 7Th And 8Th Member Doesn&#39;T Show Up, Just Play A Match  A5 - Tidus A6 - Wakka A7 - Datto A8 - Retti A1 - Jyasshyu A2 - Bottsu A3 - Kippa A4 - Bikuson 9D - Anbasu 9E - Guraabu 9F - Dooramu A0 - Barugeruda 99 - Raudia 9A - Raabeito 9B - Isuken 9C - Vuuroya B5 - Kuwarukan B6 - Timu B7 - Nizaruuto B8 - Eigaa B1 - Burappa B2 - Berikku B3 - Yuuda B4 - Rakkamu AD - Rumunigu AE - Bashiku=Ronzo AF - Aruge=Ronzo B0 - Gazuna=Ronzo A9 - Nubei=Ronzo AA - Iruga=Ronzo AB - Zamuji=Ronzo D3 - Zebu=Ronzo AC - Giera=Guado C5 - Zaji=Guado C6 - Nabara=Guado C7 - Oode=Guado C8 - Pa=Guado C1 - Noi=Guado D4 - Yuma=Guado C2 - Rin C3 - Tatsu C4 - Kyou BD - Shyuu BE - Niida BF - Biggusu (Biggs) C0 - Wuejji (Wedge) B9 - Roppu BA - Riina (Lena) BB - Meppu BC - Zarittsu D5 - Needaa D6 - Dyuuren D7 - Jyumaru D8 - Supanda D1 - Biruuchya D2 - Shyaami CD - Kiyuri CE - Aniki CF - Mifyuure D0 - Miyuu</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A77E 000000??
++2Nd Member
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A77F 000000??
++3Rd Member
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A780 000000??
++4Th Member
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A781 000000??
++5Th Member
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A782 000000??
++6Th Member
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A783 000000??
++7Th Member
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A784 000000??
++8Th Member
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A785 000000??
+!!
+!Bottsu:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A350 FFFFFFFF
+$2031A440 FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6D3 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A86B 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AADE 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8AE 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A70F 000000??
+!!
+!Burappa:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A38C FFFFFFFF
+$2031A47C FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6E2 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A87A 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAFC 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8CC 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A71E 000000??
+!!
+!Character Existence Flags:
++Anima
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EECC 000000??
++Auron
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E870 000000??
++Bahamut
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EE38 000000??
++Cindy (Mag)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EFF4 000000??
++Ifrit
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EC7C 000000??
++Ixion
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031ED10 000000??
++Kimahri
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E904 000000??
++Lulu
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EA2C 000000??
++Mindy (Rag)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031F11C 000000??
++Rikku
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EAC0 000000??
++Sandy (Dog)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031F088 000000??
++Seymour
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EB54 000000??
++Shiva
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EDA4 000000??
++Tidus {<I>* Existence Flags Determine Whether A Character Exists In The Game Or   Doesn&#39;T Exist In The Game ** Use These To Activate Characters Which Are Temporarily Unavailable    Because Of The Storyline, Or Vice Versa *** The Use Of These Codes On Summons Should Be Self Explanatory  B6 = Exist A5 = Does Not Exist</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E748 000000??
++Valefor
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EBE8 000000??
++Wakka
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E998 000000??
++Yojimbo
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EF60 000000??
++Yuna
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E7DC 000000??
+!!
+!Character Stat Modification Codes (Alternate Method + Aeons) -> Tidus:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031E75A 0000FFFB
+$2031E75C FFFFFFFF
+$2031E760 FFFFFFFF
+$1031E764 0000FFFF
++All Overdrive Types
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E7A4 0001FFFF
++HP (Max = 0000270F)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E724 ????????
++HP (Max = 0001869F)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E720 ????????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E755 000000??
++S.Level (88 = 99, 0C = 255)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+) by Rebecca, Tomo, Shin, Karat Corporation , CRYPT_CRAW
+$0031E757 000000??
+2031E728 B69B1BC8
+2031E72C ????????
+!!
+!Character Stat Modification Codes -> Tidus:
++Aim
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E72F 0000????
++Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E728 0000????
++Avoid
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E72E 0000????
++Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E729 0000????
++Luck
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E72D 0000????
++Magic Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E72A 0000????
++Magic Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E72B 0000????
++MP
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E724 0000????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E755 0000????
++S.Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E757 0000????
++Speed
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E72C 0000????
+!!
++Chocobo Race Timer In Calm Lands Always 0
+%Credits: punk7890
+$D0BD721C 0000001E
+$00BD722C 00000000
+!Cindy (Mag):
++1St Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D862 000000??
++1St Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D878 000000??
++2Nd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D864 000000??
++2Nd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D87A 000000??
++3Rd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D866 000000??
++3Rd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D87C 000000??
++4Th Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D868 000000??
++4Th Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D87E 000000??
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EFD0 ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EFCC ????????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031F001 000000??
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EFD4 FFFFFFFF
+$2031EFD8 FFFFFFFF
+!!
+!Datto:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A344 FFFFFFFF
+$2031A434 FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6D0 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A868 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAD8 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8A8 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A70C 000000??
+!!
+!Debug Codes:
++Always Rare Item Drop/Steal
+%Credits: Cissamannen
+$CCA6EC89 1CDE2FE4
++Always Sensor {<I>Sensor Always Active (Even Sensor Blocked Enemies).</I>}
+%Credits: Cissamannen
+$CCA6EC8D 1CDE2FE4
++AP Gained X100
+%Credits: Cissamannen
+$CCA6EC8E 1CDE2FE4
++Enemies Start With 1 HP
+%Credits: Cissamannen
+$CCA6EC9A 1CDE2FE4
++Gil Gained X100
+%Credits: Cissamannen
+$CCA6EC8F 1CDE2FE4
++Invincible Mode {<I>Take No Damage</I>}
+%Credits: Cissamannen
+$CCA6EC71 1CDE2FE4
++Unlimited MP {<I>MP Doesn&#39;T Decrease In Battle</I>}
+%Credits: Cissamannen
+$CCA6EC79 1CDE2FE4
++Unlimited Overdrive {<I>Overdrive Never Decreases In Battle.</I>}
+%Credits: Cissamannen
+$CCA6EC84 1CDE2FE4
+!!
+!Dooramu:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A364 FFFFFFFF
+$2031A454 FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6D8 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A870 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAE8 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8B8 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A714 000000??
+!!
+!Dyuuren:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A400 FFFFFFFF
+$2031A4F0 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6FF 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A897 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB36 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A906 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A73B 000000??
+!!
+!Eigaa:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A388 FFFFFFFF
+$2031A478 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6E1 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A879 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAFA 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8CA 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A71D 000000??
+!!
+!Eighth Weapon Slot:
++1St Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D694 000000??
++2Nd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D696 000000??
++3Rd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D698 000000??
++4Th Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D69A 000000??
++Auto Ability X 4
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D691 00000004
++Equip Character
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+N/A
+$0031D68A 000000??
++Type
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D68B 000000??
++Weapon Attack Max
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D68F 000000FF
++Weapon Graphic
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D692 0000????
++Weapon Name
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D686 000000??
+!!
+!Fifth Weapon Slot:
++1St Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D652 000000??
++2Nd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D654 000000??
++3Rd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D656 000000??
++4Th Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D658 000000??
++Auto Ability X 4
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D64F 00000004
++Equip Character
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D648 000000??
++Type
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D649 000000??
++Weapon Attack Max
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D64D 000000FF
++Weapon Graphic
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D650 0000????
++Weapon Name
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D644 000000??
+!!
+!Fourth Weapon Slot:
++1St Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D63C 000000??
++2Nd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D63E 000000??
++3Rd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D640 000000??
++4Th Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D642 000000??
++Auto Ability X 4
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D639 00000004
++Equip Character
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D632 000000??
++Type
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D633 000000??
++Weapon Attack Max
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D637 000000FF
++Weapon Graphic
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D63A 0000????
++Weapon Name
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D62E 000000??
+!!
+!Full HP Codes:
++Anima
+%Credits: Viper187
+$2031EEBC 0001869F
++Auron
+%Credits: Viper187
+$2031EA1C 0001869F
++Bahamut
+%Credits: Viper187
+$2031EE28 0001869F
++Cindy
+%Credits: Viper187
+$2031EFE4 0001869F
++Ifrit
+%Credits: Viper187
+$2031EC6C 0001869F
++Ixion
+%Credits: Viper187
+$2031ED00 0001869F
++Kimahri
+%Credits: Viper187
+$2031E860 0001869F
++Lulu
+%Credits: Viper187
+$2031E988 0001869F
++Mindy
+%Credits: Viper187
+$2031F10C 0001869F
++Rikku
+%Credits: Viper187
+$2031EAB0 0001869F
++Sandy
+%Credits: Viper187
+$2031F078 0001869F
++Seymour
+%Credits: Viper187
+$2031EB44 0001869F
++Shiva
+%Credits: Viper187
+$2031ED94 0001869F
++Tidus
+%Credits: Viper187
+$2031E738 0001869F
++Valefor
+%Credits: Viper187
+$2031EBD8 0001869F
++Wakka
+%Credits: Viper187
+$2031E8F4 0001869F
++Yojimbo
+%Credits: Viper187
+$2031EF50 0001869F
++Yuna
+%Credits: Viper187
+$2031E7CC 0001869F
+!!
+!Full MP Codes:
++Anima
+%Credits: Viper187
+$2031EEC0 0000270F
++Auron
+%Credits: Viper187
+$2031EA20 0000270F
++Bahamut
+%Credits: Viper187
+$2031EE2C 0000270F
++Cindy
+%Credits: Viper187
+$2031EFE8 0000270F
++Full HP All Characters & Aeons
+%Credits: Viper187
+$4031E738 00120025
+$0001869F 00000000
++Full MP All Characters & Aeons
+%Credits: Viper187
+$4031E73C 00120025
+$0000270F 00000000
++Ifrit
+%Credits: Viper187
+$2031EC70 0000270F
++Ixion
+%Credits: Viper187
+$2031ED04 0000270F
++Kimahri
+%Credits: Viper187
+$2031E864 0000270F
++Lulu
+%Credits: Viper187
+$2031E98C 0000270F
++Max HP All Characters & Aeons
+%Credits: Viper187
+$4031E720 00120025
+$0001869F 00000000
++Max MP All Characters & Aeons
+%Credits: Viper187
+$4031E724 00120025
+$0000270F 00000000
++Max Stats All Characters & Aeons
+%Credits: Viper187
+$4031E728 00120025
+$FFFFFFFF 00000000
+$4031E72C 00120025
+$FFFFFFFF 00000000
++Mindy
+%Credits: Viper187
+$2031F110 0000270F
++Rikku
+%Credits: Viper187
+$2031EAB4 0000270F
++Sandy
+%Credits: Viper187
+$2031F07C 0000270F
++Seymour
+%Credits: Viper187
+$2031EB48 0000270F
++Shiva
+%Credits: Viper187
+$2031ED98 0000270F
++Tidus
+%Credits: Viper187
+$2031E73C 0000270F
++Valefor
+%Credits: Viper187
+$2031EBDC 0000270F
++Wakka
+%Credits: Viper187
+$2031E8F8 0000270F
++Yojimbo
+%Credits: Viper187
+$2031EF54 0000270F
++Yuna
+%Credits: Viper187
+$2031E7D0 0000270F
+!!
+!Gazuna=Ronzo:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3A8 FFFFFFFF
+$2031A498 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6E9 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A881 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB0A 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8DA 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A725 000000??
+!!
+!Giera=Guado:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3B8 FFFFFFFF
+$2031A4A8 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6ED 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A885 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB12 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8E2 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A729 000000??
+!!
+!Guraabu:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A360 FFFFFFFF
+$2031A450 FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6D7 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A86F 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAE6 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8B6 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A713 000000??
+!!
+!Have All Abilities Codes For Aeons:
++All + Infinite Items
+%Credits: Viper187
+$4031D21C 001C0001
+$63636363 00000000
+$2031D01C 20002001
+$2031D020 20022003
+$2031D024 20042005
+$2031D028 20062007
+$2031D02C 20082009
+$2031D030 200A200B
+$2031D034 200C200D
+$2031D038 200E200F
+$2031D03C 20102011
+$2031D040 20122013
+$2031D044 20142015
+$2031D048 20162017
+$2031D04C 20182019
+$2031D050 201A201B
+$2031D054 201C201D
+$2031D058 201E201F
+$2031D05C 20202021
+$2031D060 20222023
+$2031D064 20242025
+$2031D068 20262027
+$2031D06C 20282029
+$2031D070 202A202B
+$2031D074 202C202D
+$2031D078 202E202F
+$2031D07C 20302031
+$2031D080 20322033
+$2031D084 20342035
+$2031D088 20362037
+$2031D08C 20382039
+$2031D090 203A203B
+$2031D094 203C203D
+$2031D098 203E203F
+$2031D09C 20402041
+$2031D0A0 20422043
+$2031D0A4 20442045
+$2031D0A8 20462047
+$2031D0AC 20482049
+$2031D0B0 204A204B
+$2031D0B4 204C204D
+$2031D0B8 204E204F
+$2031D0BC 20502051
+$2031D0C0 20522053
+$2031D0C4 20542055
+$2031D0C8 20562057
+$2031D0CC 20582059
+$2031D0D0 205A205B
+$2031D0D4 205C205D
+$2031D0D8 205E205F
+$2031D0DC 20602061
+$2031D0E0 20622063
+$2031D0E4 20642065
+$2031D0E8 20662067
+$2031D0EC 20682069
+$2031D0F0 206A206B
+$2031D0F4 206C206D
+$2031D0F8 206E206F
++Anima
+%Credits: Viper187
+$1031EEDE 0000FFFF
+$2031EEE0 FFFFFFFF
+$2031EEE4 FFFFFFFF
+$1031EEE8 0000FFFF
++Bahamut
+%Credits: Viper187
+$1031EE4A 0000FFFF
+$2031EE4C FFFFFFFF
+$2031EE50 FFFFFFFF
+$1031EE54 0000FFFF
++Ifrit
+%Credits: Viper187
+$1031EC8E 0000FFFF
+$2031EC90 FFFFFFFF
+$2031EC94 FFFFFFFF
+$1031EC98 0000FFFF
++Ixion
+%Credits: Viper187
+$1031ED22 0000FFFF
+$2031ED24 FFFFFFFF
+$2031ED28 FFFFFFFF
+$1031ED2C 0000FFFF
++Shiva
+%Credits: Viper187
+$1031EDB6 0000FFFF
+$2031EDB8 FFFFFFFF
+$2031EDBC FFFFFFFF
+$1031EDC0 0000FFFF
++Valefor
+%Credits: Viper187
+$1031EBFA 0000FFFF
+$2031EBFC FFFFFFFF
+$2031EB00 FFFFFFFF
+$1031EB04 0000FFFF
+!!
+!Ifrit:
++1St Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D72E 000000??
++1St Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D744 000000??
++2Nd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D730 000000??
++2Nd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D746 000000??
++3Rd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D732 000000??
++3Rd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D748 000000??
++4Th Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D734 000000??
++4Th Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D74A 000000??
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EC58 ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EC54 ????????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EC89 000000??
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EC5C FFFFFFFF
+$2031EC60 FFFFFFFF
+!!
+!In Battle Codes:
++Break 99,999 Damage Limit On Some Items & Special Attacks {<I>This Effects Certain Item-Based And Special Attacks.</I>}
+%Credits: Viper
+$201C21A4 3C0B0099
++Infinite HP
+%Credits: Viper187
+$201C9680 2402270F
+$201C9684 AC620290
++Infinite HP (Fixed)
+%Credits: Viper187
+$201C9678 1040000C
+$201C9680 3C020002
+$201C9684 244249F0
+$201C9688 AC620290
++Infinite MP
+%Credits: Viper187
+$201C9694 2402270F
+$201C9698 AC620294
++Infinite Overdrive
+%Credits: Viper187
+$200C11C8 240200FF
+$200C11CC 03E00008
+$200C11D0 A062027C
+$201B54DC 08030472
++Quick Overdrive Gain {<I>Set Your Overdrive Mode To &#39;Ally&#39; For An Overdrive On Every Turn.</I>}
+%Credits: Viper
+$201E27E0 240400FF
+!!
+!Iruga=Ronzo:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3B0 FFFFFFFF
+$2031A4A0 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6EB 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A883 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB0E 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8DE 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A727 000000??
+!!
+!Isuken:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A374 FFFFFFFF
+$2031A464 FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6DC 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A874 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAF0 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8C0 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A718 000000??
+!!
+!Item Codes:
++1St Item Slot
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D01C 000020??
++2Nd Item Slot
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D01E 000020??
++3Rd Item Slot
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D020 000020??
++4Th Item Slot
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D022 000020??
++All Item Slots Quantity 99 (Version 1.6 Or Later Only) {<I>* Only Item Slots With Items Already Will Be Recognized ** Blank Item Slots Will Be Filled With Potion</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$4031D21C 001C0001
+$63636363 00000000
++Item Slot 1~4 Quantity 99
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031D21C 63636363
++Item Slot 5~8 Quantity 99
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031D220 63636363
+!!
+!Items After Battle Codes:
++1St Item {<I>YY = Amount A5 - 0 88 - 99  XX = Item A5 - Potion A6 - High Potion A7 - Ex Potion A8 - Mega Potion A1 - Edel A2 - Edel Turbo A3 - Phoenix Tail A4 - Mega Phoenix 9D - Elixir 9E - Last Elixir 9F - Poison Cure A0 - Gold Needle 99 - Eye Medicine 9A - Yamabiko Grass (Unsilence Grass) 9B - Holy Water 9C - All Purpose Medicine B5 - Power Memory B6 - Magic Memory B7 - Speed Memory B8 - Ability Memory B1 - Al Bhed Recovery Medicine B2 - Healing Water B3 - Tetra Elemental AF - Bom Piece B0 - Bom Spirit A9 - Flame Magic Stone B4 - South Pole Wind AD - North Pole Wind AE - Ice Magic Stone AA - Electric Ball AB - Falling Thunder Ball AC - Thunder Magic Stone C5 - Fish Scale C6 - Dragon Scale C7 - Water Magic Stone C8 - Grenade C1 - Armor Grenade D6 - Stone Grenade C2 - Sleep Powder C3 - Dream Powder C4 - Silent Mine BD - Smoke Bomb BE - Black Magic Stone BF - Light Magic Stone C0 - Holy Magic Stone B9 - Highest Magic Stone BA - Poison Tooth BB - Silver Sandclock BC - Gold Sandclock D5 - Life Candle D7 - Shadow Of Ikai D8 - Wind Of Ikai D1 - Rich Wallet D2 - Dark Matter D3 - Chocobo Tail D4 - Chocobo Feather CD - Moon Curtain CE - Light Curtain CF - Star Curtain D0 - Recovery Spring C9 - Magic Strength Spring CA - Body Strength Spring CB - Life Spring CC - Cleansing Salt 65 - Body Strength Medicine 68 - Body Strength Secret Medicine 66 - Magic Strength Medicine 61 - Magic Strengh Secret Medicine 67 - Twin Stars 62 - Three Stars 63 - Power Sphere 64 - Magic Sphere 5D - Speed Sphere 5E - Ability Sphere 5F - Lucky Sphere 60 - Parameter Sphere 59 - Special Sphere 5A - Skill Sphere 5B - White Magic Sphere 5C - Black Magic Sphere 75 - Master Sphere 76 - Lv1 Key Sphere 77 - Lv2 Key Sphere 78 - Lv3 Key Sphere 71 - Lv4 Key Sphere 72 - HP Sphere 73 - MP Sphere 74 - Attack Strength Sphere 6D - Physical Defense Sphere 6E - Magic Strength Sphere 6F - Magic Defense Sphere 70 - Fastness Sphere 69 - Avoid Sphere 6A - Aim Sphere 6B - Luck Sphere 6C - Clear Sphere 85 - Return Sphere 86 - Friend Sphere 87 - Teleport Sphere 88 - Warp Sphere 81 - Map 82 - Rename Card 83 - Kitsuke Medicine (Alert Medicine) 84 - Haipero Medicine 7D - Break Demon Thorn 7E - Pendulum 7F - Amulet 80 - Doorway To Tomorrow 79 - Wing Toward The Unknown 7A - Gambler&#39;S Spirit 7B - Reverse Key 7C - Equation Of Victory</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031F944 000020??
++2Nd Item
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031F946 000020??
++3Rd Item
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031F948 000020??
++4Th Item
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031F94A 000020??
++5Th Item
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031F94C 000020??
++6Th Item
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031F94E 000020??
++7Th Item
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031F950 000020??
++8Th Item
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031F952 000020??
++Number Of Items Dropped By Monster After Battle {<i>* maximum number is 8, the code is 9D</i>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031F940 000000??
+!!
+!Ixion:
++1St Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D75A 000000??
++1St Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D770 000000??
++2Nd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D75C 000000??
++2Nd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D772 000000??
++3Rd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D75E 000000??
++3Rd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D774 000000??
++4Th Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D760 000000??
++4Th Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D776 000000??
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031ECEC ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031ECE8 ????????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031ED1D 000000??
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031ECF0 FFFFFFFF
+$2031ECF4 FFFFFFFF
+!!
+!Jyasshyu:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A34C FFFFFFFF
+$2031A43C FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6D2 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A86A 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AADC 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8AC 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A70E 000000??
+!!
+!Jyumaru:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A404 FFFFFFFF
+$2031A4F4 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A700 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A898 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB38 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A908 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A73C 000000??
+!!
+!Kimahri:
++Aim
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E8EB 0000????
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031E916 0000FFFB
+$2031E918 FFFFFFFF
+$2031E91C FFFFFFFF
+$1031E920 0000FFFF
++All Overdrive Types
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E960 0001FFFF
++Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E8E4 0000????
++Avoid
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E8EA 0000????
++Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E8E5 0000????
++HP
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E8DC 0000????
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E8E0 ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E8DC ????????
++Luck
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E8E9 0000????
++Magic Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E8E6 0000????
++Magic Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E8E7 0000????
++MP
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E8E0 0000????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E911 0000????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E911 000000??
++S.Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E913 0000????
++S.Level (88 = 99, 0C = 255) {<I>(88 = 99, 0C = 255)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E913 000000??
++Speed
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E8E8 0000????
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E8E4 FFFFFFFF
+$2031E8E8 FFFFFFFF
+!!
+!Kippa:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A354 FFFFFFFF
+$2031A444 FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6D4 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A86C 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAE0 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8B0 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A710 000000??
+!!
+!Kiyuri:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A41C FFFFFFFF
+$2031A50C FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A706 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A89E 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB44 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A914 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A742 000000??
+!!
+!Kuwarukan:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A37C FFFFFFFF
+$2031A46C FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6DE 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A876 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAF4 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8C4 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A71A 000000??
+!!
+!Kyou:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3D8 FFFFFFFF
+$2031A4C8 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6F5 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A88D 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB22 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8F2 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A731 000000??
+!!
+!Lulu:
++Aim
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EA13 0000????
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031EA3E 0000FFFB
+$2031EA40 FFFFFFFF
+$2031EA44 FFFFFFFF
+$1031EA48 0000FFFF
++All Overdrive Types
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EA88 0001FFFF
++Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EA0C 0000????
++Avoid
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EA12 0000????
++Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EA0D 0000????
++HP
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EA04 0000????
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EA08 ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EA04 ????????
++Luck
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EA11 0000????
++Magic Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EA0E 0000????
++Magic Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EA0F 0000????
++MP
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EA08 0000????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EA39 0000????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EA39 000000??
++S.Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EA3B 0000????
++S.Level (88 = 99, 0C = 255) {<I>(88 = 99, 0C = 255)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EA3B 000000??
++Speed
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EA10 0000????
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EA0C FFFFFFFF
+$2031EA10 FFFFFFFF
+!!
+!Meppu:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3F4 FFFFFFFF
+$2031A4E4 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6FC 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A894 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB30 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A900 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A738 000000??
+!!
+!Mifyuure:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A424 FFFFFFFF
+$2031A514 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A708 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A8A0 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB48 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A918 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A744 000000??
+!!
+!Mindy (Rag):
++1St Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D8BA 000000??
++1St Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D8D0 000000??
++2Nd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D8BC 000000??
++2Nd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D8D2 000000??
++3Rd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D8BE 000000??
++3Rd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D8D4 000000??
++4Th Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D8C0 000000??
++4Th Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D8D6 000000??
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031F0F8 ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031F0F4 ????????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031F1BD 000000??
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031F0FC FFFFFFFF
+$2031F100 FFFFFFFF
+!!
+!Miscellaneous Codes:
++All Abilities (All Characters And Aeons) {<I>I&#39;Ve Noticed Some Side Effects With These Patch Codes. Saving The Game With The Code Enabled Then Turning Off The Code Seems To Be The Way To Go.</I>}
+%Credits: Viper
+$4031E758 00120025
+$FFFFFFFF 00000000
+$4031E75C 00120025
+$FFFFFFFF 00000000
+$4031E760 00120025
+$FFFFFFFF 00000000
+$4031E764 00120025
+$FFFFFFFF 00000000
++All Items (Short Version) {<I>Initially, Your Inventory Is Loaded With Potions. Use One And Your Inventory Becomes Filled Will All Items.</I>}
+%Credits: Viper
+$4031D21C 001C0001
+$63636363 00000000
+$201BFA18 0C030476
+$200C11D8 3C110031
+$200C11DC 3631D01C
+$200C11E0 34032000
+$200C11E4 3406206F
+$200C11E8 A6230000
+$200C11EC 26310002
+$200C11F0 14C3FFFD
+$200C11F4 24630001
+$200C11F8 03E00008
+$200C11FC 2411FFFF
++All Other Players Are Level 0
+%Credits: Viper
+$0031A711 00000000
+$1031A712 00000000
+$2031A714 00000000
+$2031A718 00000000
+$2031A71C 00000000
+$2031A720 00000000
+$2031A724 00000000
+$2031A728 00000000
+$2031A72C 00000000
+$2031A730 00000000
+$2031A734 00000000
+$2031A738 00000000
+$2031A73C 00000000
+$2031A740 00000000
+$1031A744 00000000
++Aurochs Are Level 255
+%Credits: Viper
+$1031A70A 0000FFFF
+$2031A70C FFFFFFFF
+$0031A710 000000FF
++Aurochs Can Set 5 Abilities
+%Credits: Viper
+$1031A6CE 00000505
+$2031A6D0 05050505
+$0031A6D4 00000005
++Aurochs Have 9999 Experience
+%Credits: Viper
+$2031A8A4 270F270F
+$2031A8A8 270F270F
+$2031A8AC 270F270F
+$1031A8B0 0000270F
++Aurochs Have All Abilities
+%Credits: Viper
+$4031A33C 00070001
+$FFFFFFFF 00000000
+$4031A42C 00070001
+$FFFFFFFF 00000000
++Break Damage (99,999 Limit)
+%Credits: Viper
+$201C2184 3C030099
++Break Damage (9999 Limit)
+%Credits: Viper
+$201C218C 3C0B0099
++Break HP Limit Completely With Added Armor Ability Enabled (9999 & 99,999)
+%Credits: Viper
+$201BEED0 3C0605F6
++Break HP Limit Completely Without Added Armor Ability Enabled (9999 & 99,999)
+%Credits: Viper
+$201BEED8 3C0A05F6
++Break Item Damage/Healing Limit
+%Credits: Viper
+$201C21B4 3C030099
++Break MP Limit Completely With Added Armor Ability Enabled (9999 & 99,999)
+%Credits: Viper
+$201BEF00 3C1005F6
++Break MP Limit Completely Without Added Armor Ability Enabled (9999 & 99,999)
+%Credits: Viper
+$201BEF10 3C0A05F6
+!!
+!Miyuu:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A428 FFFFFFFF
+$2031A518 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A709 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A8A1 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB4A 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A91A 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A745 000000??
+!!
+!Nabara=Guado:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3C0 FFFFFFFF
+$2031A4B0 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6EF 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A887 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB16 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8E6 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A72B 000000??
+!!
+!Needaa:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3FC FFFFFFFF
+$2031A4EC FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6FE 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A896 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB34 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A904 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A73A 000000??
+!!
+!Niida:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3E0 FFFFFFFF
+$2031A4D0 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6F7 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A88F 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB26 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8F6 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A733 000000??
+!!
+!Nizaruuto:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A384 FFFFFFFF
+$2031A474 FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6E0 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A878 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAF8 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8C8 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A71C 000000??
+!!
+!Noi=Guado:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3CC FFFFFFFF
+$2031A4BC FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6F2 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A88A 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB1C 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8EC 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A72E 000000??
+!!
+!Nubei=Ronzo:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3AC FFFFFFFF
+$2031A49C FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6EA 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A882 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB0C 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8DC 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A726 000000??
+!!
+!Oode=Guado:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3C4 FFFFFFFF
+$2031A4B4 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6F0 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A888 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB18 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8E8 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A72C 000000??
+!!
+!Pa=Guado:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3C8 FFFFFFFF
+$2031A4B8 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6F1 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A889 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB1A 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8EA 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A72D 000000??
+!!
+!Page 1:
++Al Bhed Dialogue Translated
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031CE60 FFFFFFFF
++All Characters S.Lv 98 (Must Be On Code Not Necessary)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$A01BCED0 0080102D
+$A01BE680 0806F3A6
++All Characters S.Lv 99
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$101BE652 0000A206
++All Important Items (No Clouded Mirror)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031D5DC FFFFFFFF
+$2031D5E0 000FFFFB
+$2031D5DC FFFFFFFB
++All Important Items (No Seven Day Mirror)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031D5DC FFFFFFFF
+$2031D5E0 000FFFFB
+$2031D5DC FFFFFFF7
++All Items (Must Be On Code Not Necessary) {<I>* Need To Purchase Each Item At Least Once</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$A01BF9F8 0806F33E
++All Monsters 10 Captured (Version 1.6 Or Later Only) {<I>* With This Code, Special Monsters Will Also Be Unlocked</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$4031D35C 000A0001
+$0A0A0A0A 74424362
+$4031D398 000B0001
+$0A0A0A0A 74424362
+$2031D388 0A0A0A0A
+$2031D38C 0A0A0A0A
+$2031D390 0A0A0A0A
+$1031D384 00000A0A
+$1031D394 00000A0A
+$0031D386 0000000A
+$0031D396 0000000A
++All Monsters Captured In The Monster Training Facility (Patched) (Version 1.6 Or Later Only) {<I>* Monsters Of Areas You Haven&#39;T Been To Will Remain &Quot;?&Quot; ** To Avoid Possible Bugs, Activate Codes Only After You Have Been To Everywhere</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$4031D35C 001A0001
+$0A0A0A0A 00000000
++All Monsters Captured In The Monster Training Facility {<I>* Monsters Of Areas You Haven&#39;T Been To Will Remain &Quot;?&Quot; ** To Avoid Possible Bugs, Activate Codes Only After You Have Been To Everywhere</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031D35C 0A0A0A0A
+$2031D360 0A0A0A0A
+$2031D364 0A0A0A0A
+$2031D368 0A0A0A0A
+$2031D36C 0A0A0A0A
+$2031D370 0A0A0A0A
+$2031D374 0A0A0A0A
+$2031D378 0A0A0A0A
+$2031D37C 0A0A0A0A
+$2031D380 0A0A0A0A
+$2031D384 0A0A0A0A
+$2031D388 0A0A0A0A
+$2031D38C 0A0A0A0A
+$2031D390 0A0A0A0A
+$2031D394 0A0A0A0A
+$2031D398 0A0A0A0A
+$2031D39C 0A0A0A0A
+$2031D3A0 0A0A0A0A
+$2031D3A4 0A0A0A0A
+$2031D3A8 0A0A0A0A
+$2031D3AC 0A0A0A0A
+$2031D3B0 0A0A0A0A
+$2031D3B4 0A0A0A0A
+$2031D3B8 0A0A0A0A
+$2031D3BC 0A0A0A0A
+$2031D3C0 0A0A0A0A
++All Rare Monsters (Patched) (Version 1.6 Or Later Only) {<I>* Monsters Of Areas You Haven&#39;T Been To Will Remain &Quot;?&Quot; ** To Avoid Possible Bugs, Activate Codes Only After You Have Been To Everywhere</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$4031D3C4 00090001
+$01010101 00000000
++All Rare Monsters {<I>* Monsters Of Areas You Haven&#39;T Been To Will Remain &Quot;?&Quot; ** To Avoid Possible Bugs, Activate Codes Only After You Have Been To Everywhere</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031D3C4 01010101
+$2031D3C8 01010101
+$2031D3CC 01010101
+$2031D3D0 01010101
+$2031D3D4 01010101
+$2031D3D8 01010101
+$2031D3DC 01010101
+$2031D3E0 01010101
+$2031D3E4 01010101
++AP Max After One Battle (For All Participated Characters)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$D01DCDA0 00002021
+$101DCDA6 0000AE06
++Auron AP Max After One Battle
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031F8F8 3B9AC9FF
++Break Break Damage Limit Limit {<I>* 99,999 Into 9,999,999</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$101C2188 00000098
+$101C2190 0000967F
+$101C21A4 00000098
+$101C21AC 0000967F
++Break Damage Limit
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$101C219C 00000001
++Change Rikku's Outfit {<I>A5 = Normal Outfit A6 = Goggle Outfit</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$00319221 000000??
++Characters & Summons Status Max (Must Be On Code Not Necessary)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$A01BE718 2401FFFF
+$A01BE72C 00621021
+$A01BE730 AC41000C
+$A01BE738 AC410010
+$A01BEEF0 AFC60004
+$A01BEF30 AFC60008
++Debug Mode {<I>* Load From A Save File, Crashes Very Easily</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031920A 00000001
++Degree Of Friendliness With Yojimbo Max
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031CEF4 000000FF
++Degree Of Friendliness With Yojimbo Max Another {<I>* Yojimbo Will Perform Zanmatou Even If You Only Pay Him 1 Gil</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$101E5B72 0000AE06
++Ending Immediately After Load Game
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031920A 00000186
++Gil Max After One Battle
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031F93C 3B9AC9FF
++Gil Max After One Battle (Another)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$201BE41C ACA3CE98
++Gil Max After One Battle (Yet Another)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$D01DCFB0 000000CC
+$101DCFB2 0000AE06
++Gil Modification {<I>Max = 1Dbc9e0c</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031CE98 ????????
++Kimahri AP Max After One Battle
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031F8FC 3B9AC9FF
++Lulu AP Max After One Battle
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031F904 3B9AC9FF
++MP Does Not Decrease During Battle (Must Be On Code Not Necessary)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$A01C25C8 00802023
++Nagi Plains Chocobo Race Timer Won't Increase
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$D032356A 00000001
++Overdrive Gage Max After Only Gaining A Little
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$101E27E2 000000D1
++Play Time {<I>00:00 = 1456E7a5</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031920C ????????
++Recovery Of MP Usage During Battle (Must Be On Code Not Necessary)
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$A01C25C8 00822021
++Rikku AP Max After One Battle
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031F908 3B9AC9FF
++Seymour AP Max After One Battle
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031F90C 3B9AC9FF
++Sphere Level Won't Decrease When Moving On The Sphere Board {<I>* Level Will Decrease While Moving, But Will Recover When You Stop</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$D01BE6CC 00001823
+$001BE6CE 00000060
++Thunder Plains - Thunder Avoided 200 Consecutive Times
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$00319550 000000C8
++Thunder Plains - Thunder Avoided 9999 Times
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031954E 0000270F
++Thunder Plains - Thunder Count 9999 Times
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031954C 0000270F
++Tidus AP Max After One Battle
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031F8F0 3B9AC9FF
++Wakka AP Max After One Battle
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031F900 3B9AC9FF
++Yuna AP Max After One Battle
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031F8F4 3B9AC9FF
+!!
+!Page 2:
++Max Points Blitzball
+%Credits: Viper187
+$0031A78E 00000063
+$0031A7F1 00000063
+!!
+!Raabeito:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A370 FFFFFFFF
+$2031A460 FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6DB 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A873 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAEE 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8BE 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A717 000000??
+!!
+!Rakkamu:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A398 FFFFFFFF
+$2031A488 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6E5 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A87D 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB02 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8D2 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A721 000000??
+!!
+!Raudia:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A36C FFFFFFFF
+$2031A45C FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6DA 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A872 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAEC 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8BC 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A716 000000??
+!!
+!Retti:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A348 FFFFFFFF
+$2031A438 FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6D1 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A869 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AADA 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8AA 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A70D 000000??
+!!
+!Riina (Lena):
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3F0 FFFFFFFF
+$2031A4E0 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6FB 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A893 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB2E 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8FE 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A737 000000??
+!!
+!Rikku:
++Aim
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EAA7 0000????
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031EAD2 0000FFFB
+$2031EAD4 FFFFFFFF
+$2031EAD8 FFFFFFFF
+$1031EADC 0000FFFF
++All Overdrive Types
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EB1C 0001FFFF
++Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EAA0 0000????
++Avoid
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EAA6 0000????
++Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EAA1 0000????
++HP
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EA98 0000????
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EA9C ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EA98 ????????
++Luck
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EAA5 0000????
++Magic Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EAA2 0000????
++Magic Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EAA3 0000????
++MP
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EA9C 0000????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EACD 0000????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EACD 000000??
++S.Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EACF 0000????
++S.Level (88 = 99, 0C = 255) {<I>(88 = 99, 0C = 255)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EACF 000000??
++Speed
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EAA4 0000????
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EAA0 FFFFFFFF
+$2031EAA4 FFFFFFFF
+!!
+!Rin:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3D0 FFFFFFFF
+$2031A4C0 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6F3 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A88B 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB1E 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8EE 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A72F 000000??
+!!
+!Roppu:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3EC FFFFFFFF
+$2031A4DC FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6FA 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A892 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB2C 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8FC 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A736 000000??
+!!
+!Rumunigu:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A39C FFFFFFFF
+$2031A48C FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6E6 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A87E 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB04 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8D4 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A722 000000??
+!!
+!Sandy (Dog):
++1St Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D88E 000000??
++1St Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D8A4 000000??
++2Nd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D890 000000??
++2Nd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D8A6 000000??
++3Rd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D892 000000??
++3Rd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D8A8 000000??
++4Th Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D894 000000??
++4Th Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D8AA 000000??
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031F064 ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031F060 ????????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031F095 000000??
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031F068 FFFFFFFF
+$2031F06C FFFFFFFF
+!!
+!Second Weapon Slot:
++1St Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D610 000000??
++2Nd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D612 000000??
++3Rd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D614 000000??
++4Th Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D616 000000??
++Auto Ability X 4
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D60D 00000004
++Equip Character
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D606 000000??
++Type
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D607 000000??
++Weapon Attack Max
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D60B 000000FF
++Weapon Graphic
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D60E 0000????
++Weapon Name
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D602 000000??
+!!
+!Seventh Weapon Slot:
++1St Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D67E 000000??
++2Nd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D680 000000??
++3Rd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D682 000000??
++4Th Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D684 000000??
++Auto Ability X 4
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D67B 00000004
++Equip Character
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D674 000000??
++Type
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D675 000000??
++Weapon Attack Max
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D679 000000FF
++Weapon Graphic
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D67C 0000????
++Weapon Name
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D670 000000??
+!!
+!Seymour:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031EB66 0000FFFB
+$2031EB68 FFFFFFFF
+$2031EB6C FFFFFFFF
+$1031EB70 0000FFFF
++All Overdrive Types
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EBB0 0001FFFF
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EB30 ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EB2C ????????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EB61 000000??
++S.Level (88 = 99, 0C = 255) {<I>(88 = 99, 0C = 255)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EB63 000000??
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EB34 FFFFFFFF
+$2031EB38 FFFFFFFF
+!!
+!Shiva:
++1St Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D786 000000??
++1St Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D79C 000000??
++2Nd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D788 000000??
++2Nd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D79E 000000??
++3Rd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D78A 000000??
++3Rd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7A0 000000??
++4Th Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D78C 000000??
++4Th Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D7A2 000000??
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031ED80 ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031ED7C ????????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EDB1 000000??
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031ED84 FFFFFFFF
+$2031ED88 FFFFFFFF
+!!
+!Shyaami:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A410 FFFFFFFF
+$2031A500 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A703 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A89B 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB3E 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A90E 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A73F 000000??
+!!
+!Shyuu:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3DC FFFFFFFF
+$2031A4CC FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6F6 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A88E 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB24 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8F4 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A732 000000??
+!!
+!Sixth Weapon Slot:
++1St Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D668 000000??
++2Nd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D66A 000000??
++3Rd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D66C 000000??
++4Th Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D66E 000000??
++Auto Ability X 4
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D665 00000004
++Equip Character
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D65E 000000??
++Type
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D65F 000000??
++Weapon Attack Max
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D663 000000FF
++Weapon Graphic
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D666 0000????
++Weapon Name
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D65A 000000??
+!!
+!Supanda:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A408 FFFFFFFF
+$2031A4F8 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A701 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A899 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB3A 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A90A 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A73D 000000??
+!!
+!Tatsu:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3D4 FFFFFFFF
+$2031A4C4 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6F4 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A88C 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB20 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8F0 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A730 000000??
+!!
++Text Always In English Mode {<I>Text Always In English Mode (Menu, Options, Subtitles, Etc.)</I>}
+%Credits: lee4
+$0031CE5E 00000001
+!Third Weapon Slot:
++1St Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D626 000000??
++2Nd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D628 000000??
++3Rd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D62A 000000??
++4Th Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D62C 000000??
++Auto Ability X 4
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D623 00000004
++Equip Character
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D61C 000000??
++Type
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D61D 000000??
++Weapon Attack Max
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D621 000000FF
++Weapon Graphic
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D624 0000????
++Weapon Name
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D618 000000??
+!!
+!Tidus:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A33C FFFFFFFF
+$2031A42C FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6CE 00000005
++Contract Duration {<I>0C - No Duration</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A866 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAD4 0000????
++Experience {<I>089C - Max</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8A4 0000????
++Level {<I>88 - Level 99</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A70A 000000??
+!!
+!Timu:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A380 FFFFFFFF
+$2031A470 FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6DF 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A877 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAF6 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8C6 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A71B 000000??
+!!
+!Valefor:
++1St Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D702 000000??
++1St Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D718 000000??
++2Nd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D704 000000??
++2Nd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D71A 000000??
++3Rd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D706 000000??
++3Rd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D71C 000000??
++4Th Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D708 000000??
++4Th Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D71E 000000??
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EBC4 ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EBC0 ????????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EBF5 000000??
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EBC8 FFFFFFFF
+$2031EBCC FFFFFFFF
+!!
+!Vuuroya:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A378 FFFFFFFF
+$2031A468 FFFFFFFF
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6DD 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A875 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAF2 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8C2 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A719 000000??
+!!
+!Waiting Battle Party Member Modifiers:
++First Member
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031CEAC 000000??
++Fourth Member
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031CEAF 000000??
++Second Member
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031CEAD 000000??
++Third Member
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031CEAE 000000??
+!!
+!Wakka:
++Aim
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E97F 0000????
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031E9AA 0000FFFB
+$2031E9AC FFFFFFFF
+$2031E9B0 FFFFFFFF
+$1031E9B4 0000FFFF
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A340 FFFFFFFF
+$2031A430 FFFFFFFF
++All Overdrive Types
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E9F4 0001FFFF
++Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E978 0000????
++Avoid
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E97E 0000????
++Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6CF 00000005
++Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A867 000000??
++Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AAD6 0000????
++Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E979 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8A6 0000????
++HP
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E970 0000????
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E974 ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E970 ????????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A70B 000000??
++Luck
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E97D 0000????
++Magic Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E97A 0000????
++Magic Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E97B 0000????
++MP
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E974 0000????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E9A5 0000????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E9A5 000000??
++S.Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E9A7 0000????
++S.Level (88 = 99, 0C = 255) {<I>(88 = 99, 0C = 255)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E9A7 000000??
++Speed
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E97C 0000????
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E978 FFFFFFFF
+$2031E97C FFFFFFFF
+!!
+!Weapon Modifiers -> First Weapon Slot:
++1St Auto Ability {<I>Weapon Auto Ability A5 - See Through A6 - First To Move A7 - Party Move Ahead Of Enemy A8 - Counter A1 - Avoid Counter A2 - Magic Counter A3 - Magic Booster A4 - Knowledge Of Medicine A0 - Penetrate 99 - MP Usage 1/2 9A - MP Usage 1 9B - Double Drive 9C - Triple Drive B5 - Drive When Pinch (Critical) B6 - Drive Into AP B7 - AP Double B8 - AP Triple AF - Gil Double AB - Flame Attack C7 - Ice Attack C3 - Thunder Attack BF - Water Attack BB - Instant Death Attack Change BC - Instant Death Attack D7 - Zombie Attack Change D8 - Zombie Attack D3 - Stone Attack Change D4 - Stone Attack CF - Poison Attack Change D0 - Poison Attack CB - Sleep Attack Change CC - Sleep Attack 67 - Silence Attack Change 68 - Silence Attack 63 - Blind Attack Change 64 - Blind Attack 5F - Slow Attack Change 60 - Slow Attack 87 - Physical Attack + 3% 88 - Physical Attack + 5% 81 - Physical Attack + 10% 82 - Physical Attack + 20% 83 - Magic Attack + 3% 84 - Magic Attack + 5% 7D - Magic Attack + 10% 7E - Magic Attack + 20% 8F - Capture B1 - No AP AE - Break Damage Limit 90 - Blank  Armor Auto Ability 9D - Auto Potion 9E - Auto Status Recovery 9F - Auto Phoenix B2 - Rare Item Get B3 - Rare Item Only B0 - Walk And HP Recover A9 - Walk And MP Recover AA - No Encounter AC - Flame Reduced by Half C5 - Flame No effect C6 - Flame Absorb C8 - Ice Reduced by Half C1 - Ice No Effect C2 - Ice Absorb C4 - Thunder Reduced by Half BD - Thunder No Effect BE - Thunder Absorb C0 - Water Reduced by Half B9 - Water No Effect BA - Water Absorb D5 - Completely Avoid Instant Death D6 - Avoid Instant Death D1 - Completely Avoid Zombie D2 - Avoid Zombie CD - Completely Avoid Stone CE - Avoid Stone C9 - Completely Avoid Poison CA - Avoid Poison 65 - Completely Avoid Sleep 66 - Avoid Sleep 61 - Completely Avoid Silence 62 - Avoid Silence 5D - Completely Avoid Blind 5E - Avoid Blind 59 - Completely Avoid Slow 5A - Avoid Slow 5B - Completely Avoid Confuse 5C - Avoid Confuse 75 - Completely Avoid Berserk 76 - Avoid Berserk 77 - Completely Avoid Curse 78 - Avoid Curse 71 - Auto Shell 72 - Auto Protes 73 - Auto Haste 74 - Auto Regen 6D - Auto Reflect 6E - Shell When Pinch 6F - Protes When Pinch 70 - Haste When Pinch 69 - Regen When Pinch 6A - Reflect When Pinch 6B - Ba-Water When Pinch 6C - Ba-Cold When Pinch 85 - Ba-Thunder When Pinch 86 - Ba-Fire When Pinch 7F - Physical Defense + 3% 80 - Physical Defense + 5% 79 - Physical Defense + 10% 7A - Physical Defense + 20% 7B - Magic Defense + 3% 7C - Magic Defense + 5% 95 - Magic Defense + 10% 96 - Magic Defense + 20% 97 - HP + 5% 98 - HP + 10% 91 - HP + 20% 92 - HP + 30% 93 - MP + 5% 94 - MP + 10% 8D - MP + 20% 8E - MP + 30% B4 - Break HP Limit AD - Break MP Limit E70C - Blank  FFX International Exclusive Auto Abilities Weapon Auto Ability 89    - Power Change 8A    - Magic Change 8B    - Speed Change 8C - Ability Change Armor Auto Ability 25 - Ribbon</i>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D5FA 000000??
++2Nd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D5FC 000000??
++3Rd Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D5FE 000000??
++4Th Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D600 000000??
++Auto Ability X 4
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D5F7 00000004
++Equip Character {<I>A5 - Tidus A6 - Yuna A8 - Kimahri A1 - Wakka A2 - Lulu A7 - Auron A3 - Rikku A4 - Seymour</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D5F0 000000??
++Type {<I>A5 - Weapon A6 - Armor</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D5F1 000000??
++Weapon Attack Max
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D5F5 000000FF
++Weapon Graphic
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D5F8 0000????
++Weapon Name
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031D5EC 000000??
+!!
+!Wuejji (Wedge):
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3E8 FFFFFFFF
+$2031A4D8 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6F9 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A891 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB2A 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8FA 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A735 000000??
+!!
+!Yojimbo:
++1St Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D80A 000000??
++1St Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D820 000000??
++2Nd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D80C 000000??
++2Nd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D822 000000??
++3Rd Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D80E 000000??
++3Rd Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D824 000000??
++4Th Attack Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D810 000000??
++4Th Guard Auto Ability
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031D826 000000??
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EF3C ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EF38 ????????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031EF6D 000000??
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031EF40 FFFFFFFF
+$2031EF44 FFFFFFFF
+!!
+!Yuma=Guado:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A418 FFFFFFFF
+$2031A508 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A705 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A89D 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB42 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A912 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A741 000000??
+!!
+!Yuna:
++Aim
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E7C3 0000????
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031E7EE 0000FFFB
+$2031E7F0 FFFFFFFF
+$2031E7F4 FFFFFFFF
+$1031E7F8 0000FFFF
++All Overdrive Types
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E838 0001FFFF
++Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E7BC 0000????
++Avoid
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E7C2 0000????
++Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E7BD 0000????
++HP
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E7B4 0000????
++HP (Max = 0000270F) {<I>(Max = 0000270F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E7B8 ????????
++HP (Max = 0001869F) {<I>(Max = 0001869F)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E7B4 ????????
++Luck
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E7C1 0000????
++Magic Attack
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E7BE 0000????
++Magic Defense
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E7BF 0000????
++MP
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E7B8 0000????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E7E9 0000????
++Overdrive Gauge
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E7E9 000000??
++S.Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E7EB 0000????
++S.Level (88 = 99, 0C = 255) {<I>(88 = 99, 0C = 255)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E7EB 000000??
++Speed
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031E7C0 0000????
++Stats {<I>(Max = Ffffffff)</I>}
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031E7BC FFFFFFFF
+$2031E7C0 FFFFFFFF
+!!
+!Yuuda:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A394 FFFFFFFF
+$2031A484 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6E4 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A87C 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB00 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8D0 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A720 000000??
+!!
+!Zaji=Guado:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3BC FFFFFFFF
+$2031A4AC FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6EE 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A886 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB14 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8E4 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A72A 000000??
+!!
+!Zamuji=Ronzo:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3B4 FFFFFFFF
+$2031A4A4 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6EC 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A884 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB10 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A8E0 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A728 000000??
+!!
+!Zarittsu:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A3F8 FFFFFFFF
+$2031A4E8 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A6FD 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A895 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+4CA82cA26 1456????
+$1031AB32 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A739 000000??
+!!
+!Zebu=Ronzo:
++All Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$2031A414 FFFFFFFF
+$2031A504 FFFFFFFF
++C:Can Set 5 Abilities
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A704 00000005
++C:Contract Duration
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A89C 000000??
++C:Contract Price
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031AB40 0000????
++Experience
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$1031A910 0000????
++Level
+%Credits: Rebecca>Tomo>Shin>Karat Corporation
+$0031A740 000000??
+!!
+!!
+

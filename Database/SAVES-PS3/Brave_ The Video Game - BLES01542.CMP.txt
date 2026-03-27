@@ -1,0 +1,12 @@
+^2 = GameID: BLES01542
+^3 = NAME: Brave: The Video Game
+^5 = APCRED: From Game Genie PS3
+^4 = FILE: BRAVE0
++Max Coins
+$2000062C 3B9AC9FF
++Update Crc32 For Brave0 (required)
+(set range:0x00000C,0x0006E2)
+$set pointer:eof+1
+$set range:0x00000C,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]

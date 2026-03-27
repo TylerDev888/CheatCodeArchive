@@ -1,0 +1,122 @@
+^3 = NAME: Area 51 (NTSC-U)
+^2 = GameID: SLUS-20595
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F03C1614 003C1617
++Enable Code (Must Be On)
+%Credits: Code Master
+$903C1740 00832021
++[M] Must Be On
+%Credits: MadCatz
+$903C16F0 0C0EC47E
+!!
+!Jokers:
++Player 1 Controller
+%Credits: bungholio
+$D05CD542 0000????
+!!
++All Databank
+%Credits: Codejunkies
+$104F938C 0000FFFF
++All Secret Files
+%Credits: Codejunkies
+$004F93A8 00000015
+!Analog Stick Modification Codes:
++Legacy Controls Mode
+%Credits: Code Master
+$0037AB08 0000000E
+$0037AB1C 0000000C
++Southpaw Controls Mode
+%Credits: Code Master
+$0037AB08 0000000E
+$0037AB1C 0000000C
+$0037AB0C 0000000F
+$0037AB28 0000000D
++Southpaw Legacy Controls Mode
+%Credits: Code Master
+$0037AB0C 0000000F
+$0037AB28 0000000D
+!!
++Infinite Ammo
+%Credits: MadCatz
+$2015692C 00401023
+$201569F0 00401023
++Infinite Ammo
+%Credits: Codejunkies
+$201569EC 00000000
++Infinite Ammo & No Reload Meson Cannon
+%Credits: bungholio
+$20149E78 00000000
+$20149E94 00000000
++Infinite Ammo Meson Autorifle
+%Credits: bungholio
+$20150BA8 00000000
+$20150BC4 00000000
++Infinite Grenades
+%Credits: Codejunkies
+$20207A10 00000000
++Infinite Health
+%Credits: MadCatz
+$2026ACFC 00000000
+!Profile 1 Codes:
++Unlock All Databank
+%Credits: MadCatz
+$404F938C 00050001
+$FFFFFFFF 00000000
++Unlock All Secrets
+%Credits: MadCatz
+$204F93A4 00000001
+$204F93A8 00000015
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Extra Ammo
+%Credits: Code Master
+$201569EC 00451021
++Extra Grenades
+%Credits: Code Master
+$20207A10 460C0840
++Have All Databank-Levels
+%Credits: Code Master
+$2012C398 2402FFFF
+$2012C39C A062003D
+$2012C3A0 03E00008
+$2012C3A4 24020001
++Have All Databank-Overall
+%Credits: Code Master
+$200C0220 2402005A
+$200C0224 03E00008
+$200C0228 AC820050
+$2032C158 0C030088
++Have All Secrets
+%Credits: Code Master
+$2033DC1C 24020015
+$2033DC28 AC820058
++Infinite Ammo
+%Credits: Code Master
+$201569F0 00000000
++Infinite Grenades
+%Credits: Code Master
+$20207A20 00000000
++Infinite Health
+%Credits: Code Master
+$200C0220 8C81000C
+$200C0224 AC810000
+$200C0228 03E00008
+$200C022C AC800008
+$203F59AC 08030088
++Max Infinite Ammo
+%Credits: Code Master
+$201596EC 240203E7
++Max Infinite Grenades
+%Credits: Code Master
+$200C0230 3C014110
+$200C0234 03E00008
+$200C0238 AC810000
+$20207988 0803008C
++Never Reload
+%Credits: Code Master
+$20156930 00000000
+!!
+!!
+

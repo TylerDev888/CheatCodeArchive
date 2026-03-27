@@ -1,0 +1,191 @@
+^2 = GameID: CUSA33821,CUSA33820,CUSA33822,CUSA33823
+^3 = NAME: Final Fantasy II: Pixel Remaster
+^SECONDLAYER: YES
+^4 = FILE: (Slot(20|1[0-9]|[1-9])|System|Slot22)
++Add Item
+$search "normalOwnedItemList\"
+$Insert Next 29: "\\\"{\\\\\\\"contentId\\\\\\\":[Item],\\\\\\\"count\\\\\\\":[Amount:99:UTF08:TXT]}\\\","
++Edit Amount Existing Item
+$search "normalOwnedItemList\"
+$search next "\\\\\\\"contentId\\\\\\\":[Item]"
+$search next ""count\\\\\\\""
+$delete next E:until "}"
+$Insert next E: ":[Amount:99:UTF08:TXT]"
+^6 = MODS:
+[Item]
+ID>Name
+16	Potion
+17	Antidote
+18	Gold Needle
+19	Cross
+20	Maiden's Kiss
+21	Mallet
+22	Eye Drops
+23	Phoenix Down
+24	Elixir
+25	Ether
+26	Hi-Potion
+27	Cottage
+28	Wind Flute
+29	Gaia Drum
+30	Garlic
+31	Unicorn Horn
+32	Antarctic Wind
+33	Sage's Wisdom
+34	Saint's Spirit
+35	Hermes's Shoes
+36	Spider Silk
+37	Bell of Silence
+38	Hourglass
+39	Death Idol
+40	Bacchus's Wine
+41	Acid Phial
+42	Sleepgrass
+43	Conch Shell
+44	Betrayal Fang
+45	Mythril Mirror
+46	Hellfire
+47	Empty
+48	Knife
+49	Dagger
+50	Mythril Knife
+51	Main Gauche
+52	Orichalcum
+53	Ripper
+54	Cat Claws
+55	Staff
+56	Mace
+57	Mythril Mace
+58	Werebuster
+59	Mage's Staff
+60	Power Staff
+61	Wizard's Staff
+62	Healing Staff
+63	Diamond Mace
+64	Javelin
+65	Spear
+66	Mythril Spear
+67	Trident
+68	Demon Spear
+69	Flame Lance
+70	Ice Lance
+71	Thunder Spear
+72	Holy Lance
+73	Broadsword
+74	Longsword
+75	Mythril Sword
+76	Ancient Sword
+77	Sleep Blade
+78	Wing Sword
+79	Blood Sword
+80	Gaia Blade
+81	Flame Sword
+82	Ice Brand
+83	Defender
+84	Sun Blade
+85	Excalibur
+86	Masamune
+87	Axe
+88	Battle Axe
+89	Mythril Axe
+90	Demon Axe
+91	Ogrekiller
+92	Poison Axe
+93	Rune Axe
+94	Bow
+95	Longbow
+96	Mythril Bow
+97	Dark Bow
+98	Flame Bow
+99	Ice Bow
+101	Yoichi Bow
+102	Buckler
+103	Bronze Shield
+104	Mythril Shield
+105	Golden Shield
+106	Ice Shield
+107	Flame Shield
+108	Diamond Shield
+109	Dragon Shield
+110	Aegis Shield
+111	Leather Cap
+112	Bronze Helm
+113	Mythril Helm
+114	Giant's Helm
+115	Flame Helm
+116	Diamond Helm
+117	Genji Helm
+118	Twist Headband
+119	Gold Hairpin
+120	Ribbon
+121	Clothes
+122	Leather Armor
+123	Bronze Armor
+124	Mythril Armor
+125	Golden Armor
+126	Knight's Armor
+127	Flame Armor
+128	Ice Armor
+129	Diamond Armor
+130	Dragon Armor
+131	Genji Armor
+132	Copper Cuirass
+133	Silver Cuirass
+134	Ruby Cuirass
+135	Gold Cuirass
+136	Diamond Cuirass
+137	White Robe
+138	Black Robe
+139	Power Sash
+140	Black Garb
+141	Leather Gloves
+142	Bronze Gloves
+143	Mythril Gloves
+144	Thief's Gloves
+145	Giant's Gloves
+146	Ice Gloves
+147	Diamond Gloves
+148	Genji Gloves
+149	Protect Ring
+150	Power Armlet
+151	Fire Tome
+152	Thunder Tome
+153	Blizzard Tome
+154	Scourge Tome
+155	Drain Tome
+156	Osmose Tome
+157	Flare Tome
+158	Sleep Tome
+159	Stun Tome
+160	Stop Tome
+161	Confuse Tome
+162	Blind Tome
+163	Curse Tome
+164	Toad Tome
+165	Break Tome
+166	Death Tome
+167	Warp Tome
+168	Berserk Tome
+169	Haste Tome
+170	Aura Tome
+171	Cure Tome
+172	Life Tome
+173	Basuna Tome
+174	Esuna Tome
+175	Barrier Tome
+176	Blink Tome
+177	Protect Tome
+178	Shell Tome
+179	Wall Tome
+180	Dispel Tome
+181	Mini Tome
+182	Silence Tome
+183	Sap Tome
+184	Fog Tome
+185	Slow Tome
+186	Swap Tome
+187	Fear Tome
+188	Holy Tome
+189	Teleport Tome
+190	Ultima Tome
+[/Item]

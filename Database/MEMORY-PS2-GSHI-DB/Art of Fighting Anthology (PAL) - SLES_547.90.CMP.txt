@@ -1,0 +1,13 @@
+^3 = NAME: Art Of Fighting Anthology (PAL)
+^2 = GameID: SLES-54790
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: lee4
+$901C62A0 0C071850
+!!
++Force Videout To 480I Instead Of 240P
+%Credits: lee4
+$20192C8C 24110001
+$20192C90 24120002
+$20192C9C 24130001
+

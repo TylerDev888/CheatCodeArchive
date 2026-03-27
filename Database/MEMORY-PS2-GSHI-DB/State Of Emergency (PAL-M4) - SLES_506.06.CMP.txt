@@ -1,0 +1,45 @@
+^3 = NAME: State Of Emergency (PAL-M4)
+^2 = GameID: SLES-50606
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0175C9C 001B38CF
++(M) Must Be On
+%Credits: Codejunkies
+$F01B46CC 001B46CF
++(M) Must Be On
+%Credits: Codejunkies
+$F01B38CC 001B38CF
+!!
++Infinite Ammo
+%Credits: InterAct
+$101DC380 00000004
++Infinite Ammo
+%Credits: Codejunkies
+$101DD200 00000004
++Infinite Health
+%Credits: InterAct
+$101DC378 00000004
++Infinite Health
+%Credits: Codejunkies
+$101DD1F8 00000004
++Infinite Time
+%Credits: InterAct
+$101DC37C 00000004
++Infinite Time
+%Credits: Codejunkies
+$101DD1FC 00000004
++Monster Score
+%Credits: InterAct
+$201DBDCC 05F5E0FF
++Monster Score
+%Credits: Codejunkies
+$201DCC50 05F5E0FF
++Open All Characters
+%Credits: InterAct
+$101DD6F8 0000071F
++Open All Characters
+%Credits: Codejunkies
+$101DE578 0000071F
+!!
+

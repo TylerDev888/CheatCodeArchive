@@ -1,0 +1,6 @@
+^2 = GameID: NPEB01417
+^3 = NAME: Flashback (PSN)
+^5 = APCRED: From SHAkA
+^4 = FILE: PAYLOAD
++999 Skills Point
+$write at 0x0000010A:0x03E7

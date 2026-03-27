@@ -1,0 +1,33 @@
+^3 = NAME: Triple Play Baseball (Ntsc-U)
+^2 = GameID: SLUS-20168
+!Master Codes:
++Enable Code
+%Credits: BigBossman
+$9030D928 0C0C35F0
++Enable Code (Alternate)
+%Credits: BigBossman
+$90318458 0C0C8B7F
++Enable Code (Alternate)
+%Credits: BigBossman
+$9010171C 0C0BD67E
+!!
++Always Hit A Homerun {<I>Hold R2 + X Or Hold R2 + Circle And Make Contact</I>}
+%Credits: nolberto82
+$201BE1C0 00108023
+$201BE218 0010803F
+$201BE1E0 0002103F
+$E0030042 0038E436
+$201BE1C0 3C10FFE0
+$201BE218 3C102000
+$201BE1E0 3C022000
+$E0030022 0038E436
+$201BE1C0 3C10FFE0
+$201BE218 3C102000
+$201BE1E0 3C022000
++Pitch Speed Equals 255 MPH {<I>Hold L2 Before Releasing The Pitch</I>}
+%Credits: nolberto82
+$201F46C8 00621821
+$D038E436 00000001
+$201F46C8 340300FF
+!!
+

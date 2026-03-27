@@ -1,0 +1,13 @@
+^2 = GameID: NPEB00652
+^3 = NAME: Dungeon Defenders (PSN)
+^4 = FILE: PAYLOAD
++Decompress Save (required)
+$Decompress(*, 15)
++Compress Save (required)
+$Compress(*)
++Update Crc32big For Payload (required)
+(set range:0x000014,0x009D81)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:CRC32Big
+$write at 0x000010:[hash]

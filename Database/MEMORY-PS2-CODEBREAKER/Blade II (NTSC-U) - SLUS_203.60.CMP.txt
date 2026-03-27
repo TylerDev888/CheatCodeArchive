@@ -1,0 +1,73 @@
+^1 = HASH: 6D0E5F2D
+^3 = NAME: Blade II
+^2 = GameID: SLUS_203.60
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0012A517
+!!
+!Codes:
++Infinite Health
+%Credits: Code Master
+$1048C522 00000101
++Rage Always On
+%Credits: Code Master
+$1048C532 00000101
++Invulnerability
+%Credits: Code Master
+$1048C542 00000101
++Infinite Ammo
+%Credits: Code Master
+$1048C552 00000101
++Unlock Missions
+%Credits: Code Master
+$1048C562 00000101
++Unlock Weapons
+%Credits: Code Master
+$1048C572 00000101
++Unlock Daywalker
+%Credits: Code Master
+$1048C582 00000101
++Quick Score Gain
+%Credits: Code Master
+$1075BD1C 0000FFFF
++Max Score
+%Credits: Code Master
+$2075BD1C 05F5E0FF
++Unlock All Campaign Levels
+%Credits: Code Master
+$0075BD6E 00000013
++Burn Speed Modifier (Default 40000000)
+%Credits: Code Master
+$2049DA44 ????????
++Player Roll Scale Modifier (Default Bca3d70a)
+%Credits: Code Master
+$2049DA50 ????????
++Blend Strafe Time Modifier (Default 3F99999a)
+%Credits: Code Master
+$2049DA58 ????????
++Dangle Speed Modifier (Default 3E99999a)
+%Credits: Code Master
+$2049DA5C ????????
++Sidestep Time Modifier (Default 000001F4)
+%Credits: Code Master
+$2049DA6C ????????
++Shotgun Scale Modifier (Default 3E4ccccd)
+%Credits: Code Master
+$2049DA74 ????????
++Scale Speed Modifier (Default 3F333333)
+%Credits: Code Master
+$2049DA80 ????????
++Flyback Speed Modifier (Default 44960000)
+%Credits: Code Master
+$2049DA88 ????????
++Sidestep Speed Modifier (Default 41F00000)
+%Credits: Code Master
+$2049DA8C ????????
++Laser Width Modifier (Default 41000000)
+%Credits: Code Master
+$2049DAB0 ????????
++Fog Density Modifier (Default 348637Bd)
+%Credits: Code Master
+$2049DAD8 ????????
+!!

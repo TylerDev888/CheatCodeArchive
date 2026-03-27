@@ -1,0 +1,83 @@
+^3 = NAME: Conspiracy - Weapons Of Mass Destruction (Pal-Unk)
+^2 = GameID: SLES-53098
+!Master Codes:
++Enable Code
+%Credits: BigBossman
+$90110F70 0C044384
++Enable Code (Alternate)
+%Credits: BigBossman
+$90267338 0C08DD00
+!!
++Hold L1 To Moon Jump
+%Credits: Josh_7774
+$D02E6BC2 0000FBFF
+$602DF88C 41000000
+$00020000 00000474
++Infinite Health
+%Credits: Josh_7774
+$6040288C 000002BC
+$00020000 000001B8
++Infinite Health (Alternate)
+%Credits: Josh_7774
+$6040288C 00000578
+$00020000 000001B8
++Max Score In Endurance Mode
+%Credits: Josh_7774
+$602DF88C 05F5E12E
+$00020000 00000754
+!Patch:
++No Interlacing Patch
+%Credits: Josh_7774
+$20237D90 00000000
+!!
+![ASM]:
++Disable Fall Damage [ASM]
+%Credits: Josh_7774
+$201B7254 00000000
++Failing Objectives Results In Successful Mission [ASM]
+%Credits: Josh_7774
+$2018F0CC 00000000
++Infinite Ammo - No Reload (Assault Rifle) [ASM]
+%Credits: Josh_7774
+$201D1B98 00000000
++Infinite Ammo - No Reload (Pistol) [ASM]
+%Credits: Josh_7774
+$201D68AC 00000000
++Infinite Ammo - No Reload (Rocket Launcher) [ASM] by Josh_7774 , CRYPT_CRAW
+$201DC860 00000000
++Infinite Ammo - No Reload (Shotgun) [ASM]
+%Credits: Josh_7774
+$201DE64C 00000000
++Infinite Ammo - No Reload (Sniper Rifle) [ASM]
+%Credits: Josh_7774
+$201DFF60 00000000
++Infinite Grenades [ASM]
+%Credits: Josh_7774
+$201CC354 00000000
++Invert Look Controls [ASM]
+%Credits: Josh_7774
+$201B5B7C 3C02C170
++No Bullet Spread [ASM]
+%Credits: Josh_7774
+$201C1B24 00000000
++Rapid Fire (Assault Rifle) [ASM]
+%Credits: Josh_7774
+$201D1F30 00000000
++Rapid Fire (Pistol) [ASM]
+%Credits: Josh_7774
+$201D6684 00000000
++Rapid Fire (Rocket Launcher) [ASM]
+%Credits: Josh_7774
+$201DCA64 00000000
++Rapid Fire (Shotgun) [ASM]
+%Credits: Josh_7774
+$201DDB90 00000000
+$201DE960 00000000
+$201DE9A8 00000000
+$201DE9DC 00000000
++Rapid Fire (Sniper Rifle) [ASM]
+%Credits: Josh_7774
+$201E00D4 00000000
+!!
+!!
+

@@ -1,0 +1,298 @@
+^3 = NAME: Jak 3 (Ntsc-U)
+^2 = GameID: SCUS-97330
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$90120118 0C047FEE
+$200FF000 3C012000
+$200FF004 03212025
+$200FF008 3C053C04
+$200FF00C 34A50008
+$200FF010 24062000
+$200FF014 8C830000
+$200FF018 14650002
+$200FF01C 34630004
+$200FF020 AC830000
+$200FF024 24C6FFFC
+$200FF028 1CC0FFFA
+$200FF02C 24840004
+$200FF030 03200008
+$200FF034 00000000
+$201091DC 0C03FC00
++[M] Must Be On
+%Credits: MadCatz
+$F0100008 0000000E
+$A00C0000 3C032008
+$A00C0004 3C011000
+$A00C0008 3421FFFD
+$A00C000C AC610008
+$A00C0010 3C012405
+$A00C0014 34210002
+$A00C0018 AC61000C
+$A00C001C 3C018D0C
+$A00C0020 03E00008
+$A00C0024 AC610040
+$201091E4 0C030000
+!!
+!Jokers:
++Player 1 Controller
+%Credits: bungholio
+$D0129382 0000????
+!!
+!Activate Cheat Codes:
++Bad Weather
+%Credits: Code Master
+$705C064C 00000004
++Big Head Mode
+%Credits: Code Master
+$705C064A 00000080
++Dark Jak Homing Attacks
+%Credits: Code Master
+$705C064C 00000020
++Fast Movies
+%Credits: Code Master
+$705C064B 00000002
++Invulnerability
+%Credits: Code Master
+$705C064A 00000002
++Kleiver's Diaper
+%Credits: Code Master
+$705C064C 00000002
++Mirror World
+%Credits: Code Master
+$705C0649 00000080
++Slow Movies
+%Credits: Code Master
+$705C064B 00000004
++Small Head Mode
+%Credits: Code Master
+$705C064B 00000001
++Toggle Jak's Goatee
+%Credits: Code Master
+$705C0649 00000040
++Turbo Jetboard In Desert
+%Credits: Code Master
+$705C064B 00000020
++Unlimited Ammo
+%Credits: Code Master
+$705C064A 00000001
++Unlimited Dark Jak
+%Credits: Code Master
+$705C064A 00000004
++Unlimited Light Jak
+%Credits: Code Master
+$705C064A 00000008
++Unlimited Vehicle Turbos
+%Credits: Code Master
+$705C064B 00000008
++Upgrade Vehicle Toughness
+%Credits: Code Master
+$705C064B 00000010
+!!
++Have All Armor, Dark Jak And All Dark Jak Powers, And Light Jak And All Light Jak Powers
+%Credits: bungholio
+$205C061C 07FFDFAF
++Have All Guns And Gun Modifications, Jetboard, And Daxter
+%Credits: bungholio
+$205C0618 FF97FFE0
++Have All Inventory Items Except Jetboard
+%Credits: bungholio
+$205C0630 0007FFFF
++Infinite Ammo (All Weapons)
+%Credits: MadCatz
+$2078D130 00000000
++Infinite Double Jumps {<I>Don&#39;T Mash X Very Fast, Or You Might End Up Too High In The Sky And Waiting To Fall Back Down.</I>}
+%Credits: bungholio
+$D0129382 0000BFFF
+$1017B230 00001007
++Infinite Health
+%Credits: MadCatz
+$20180360 41800000
++Infinite Vehicle Health {<I>Use Vehicle Enabler</I>}
+%Credits: Azagthoth
+$200FF064 AC2201BC
+$200FF068 AC2001C0
++Infinite Vehicle Turbo's {<I>Use Vehicle Enabler</I>}
+%Credits: Azagthoth
+$200FF06C AC2303E8
+!Inventory::
++Enabler {<I>Must Be On For The Following Codes.</I>}
+%Credits: MadCatz
+$200C0090 8C810094
+$200C00A8 AC810094
+$200C00AC 8C810098
+$200C00D0 AC810098
+$200C00E8 DC840094
+$200C00EC 03E00008
+$200C00F0 00641824
+$209AADA0 0C030024
+$209AADA4 00000000
++Have All Armor
+%Credits: MadCatz
+$200C00B0 3C0900F0
+$200C00B4 00290825
++Have All Dark Jak Powers
+%Credits: MadCatz
+$200C00B8 3C090008
+$200C00BC 35290E00
+$200C00C0 00290825
++Have All Items
+%Credits: MadCatz
+$200C0094 3C090004
+$200C0098 00290825
+$200C00D4 8C8100AC
+$200C00D8 3C090007
+$200C00DC 3529FFFF
+$200C00E0 00290825
+$200C00E4 AC8100AC
++Have All Light Jak Powers
+%Credits: MadCatz
+$200C00C4 3C090007
+$200C00C8 35298000
+$200C00CC 00290825
++Have All Morph Gun Mods
+%Credits: MadCatz
+$200C009C 3C090003
+$200C00A0 3529FFC0
+$200C00A4 00290825
++Have All Vehicles
+%Credits: MadCatz
+$005C0670 000000FF
+!!
+!Language Modifier Codes:
++English
+%Credits: Code Master
+$A0111408 03E00008
+$A011140C 24020001
++French
+%Credits: Code Master
+$A0111408 03E00008
+$A011140C 24020002
++German
+%Credits: Code Master
+$A0111408 03E00008
+$A011140C 24020004
++Italian
+%Credits: Code Master
+$A0111408 03E00008
+$A011140C 24020005
++Japanese
+%Credits: Code Master
+$A0111408 03E00008
+$A011140C 24020000
++Portuguese
+%Credits: Code Master
+$A0111408 03E00008
+$A011140C 24020007
++Spanish
+%Credits: Code Master
+$A0111408 03E00008
+$A011140C 24020003
+!!
++Max Health
+%Credits: MadCatz
+$20180364 41800000
++Max Metal Head Skull Gems
+%Credits: MadCatz
+$205C05E4 42C60000
++Max Precursor Orbs
+%Credits: MadCatz
+$205C05EC 42C60000
++No Clipping - R2 + Up To Enable, R2 + Down To Disable {<I>You Will Fall Through Almost Everything, Including The Ground So You Will Need To Use It With Infinite Double Jumps And Turn It Off When You Need To.</I>}
+%Credits: bungholio
+$D0129382 0000FDEF
+$1017B1A4 0000FFFF
+$D0129382 0000FDBF
+$1017B1A4 00000011
++No Dark Eco
+%Credits: MadCatz
+$205C0604 00000000
++No Light Eco
+%Credits: MadCatz
+$205C060C 00000000
+!Secrets:
++Secrets Enabler {<I>Must Be On For The Following Codes.</I>}
+%Credits: MadCatz
+$200C0040 8C6200C4
+$200C005C AC6200C4
+$200C0060 8C6200C8
+$200C0078 AC6200C8
+$200C007C 03E00008
+$200C0080 DC6300CC
+$20AC8E0C 0C030010
++Unlock All Secrets
+%Credits: MadCatz
+$205C0650 FFFFFFFF
+$205C0654 FFFFFFFF
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Infinite Ammo (Blaster Mod)
+%Credits: Code Master
+$205C0664 42C80000
++Infinite Ammo (Peace Maker)
+%Credits: Code Master
+$205C066C 42C80000
++Infinite Ammo (Scatter Gun)
+%Credits: Code Master
+$205C0660 42480000
++Infinite Ammo (Vulcan Fury)
+%Credits: Code Master
+$205C0668 40A00000
++Infinite Dark Eco Meter
+%Credits: Code Master
+$205C0604 42C80000
++Infinite Health
+%Credits: Code Master
+$20180360 41000000
++Infinite Light Eco Meter
+%Credits: Code Master
+$205C060C 42C80000
++Max Metal Head Skull Gems (Current)
+%Credits: Code Master
+$205C05E4 4479C000
++Max Precursor Orbs (Current)
+%Credits: Code Master
+$205C05EC 44160000
++Max Precursor Orbs (Overall)
+%Credits: Code Master
+$205C05F0 44160000
+!!
++Vehicle Activator Press Select On, Press L3 Off
+%Credits: Azagthoth
+$200FF040 3C010019
+$200FF044 8C21F4A8
+$200FF048 1020000A
+$200FF050 8C210000
+$200FF054 10200007
+$200FF05C 3C023F80
+$200FF060 3C034040
+$200FF074 03E00008
+$D0129382 0000FFFE
+$201205CC 0803FC10
+$D0129382 0000FFFD
+$201205CC 03E00008
+!View Secrets Menu In-Game For:
++Have All Art Gallery
+%Credits: MadCatz
+$200C0058 34423B1E
++Have All Expert Options
+%Credits: MadCatz
+$200C0054 344200E1
++Have All Vehicle Upgrades
+%Credits: MadCatz
+$200C004C 3C01C000
+$200C0050 00411025
+$200C0070 34420001
++Have All Weapon Upgrades
+%Credits: MadCatz
+$200C0044 3C010040
+$200C0048 00411025
+$200C0064 3C0103FF
+$200C0068 3421FC00
+$200C006C 00411025
++Have Dark Jak Invisibility At Will
+%Credits: MadCatz
+$200C0074 34420100
+!!
+!!
+

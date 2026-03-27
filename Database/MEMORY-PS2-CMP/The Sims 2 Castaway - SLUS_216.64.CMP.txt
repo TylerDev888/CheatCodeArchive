@@ -1,0 +1,48 @@
+^1 = Hash: FC 2F 12 AC D2 0C D8 11 78 38 9A 63 3D 4F 78 BF DA 1F C3 77
+^2 = GameID: SLUS_216.64
+^3 = NAME: The Sims 2 Castaway
+!Masters:
++Enable Code (MUST BE ON)
+$904851A0 0C121410
+!!
+!Motives:
++Max Motives
+%Credit: CMX
+$2025006C 00000000
++Energy Never Decreases
+%Credit: CMX
+$201FEB08 00000000
++Comfort Never Decreases
+%Credit: CMX
+$201FEB6C 00000000
++Hunger Never Decreases
+%Credit: CMX
+$201FEB98 00000000
++Hygiene Never Decreases
+%Credit: CMX
+$201FEC00 00000000
++Bladder Never Decreases
+%Credit: CMX
+$201FEC28 00000000
++Social Never Decreases
+%Credit: CMX
+$201FEC38 00000000
++Fun Never Decreases
+%Credit: CMX
+$201FEC48 00000000
++Room Never Decreases
+%Credit: CMX
+$201FEF0C 00000000
+!!
+!Misc:
++Max/Inf Items{Gain/Use To Get 999 Must Have More Then 1}
+%Credit: SkillerCMP
+$2024D864 00000000
+Enable All Plans{If enabled all plans are visible}
+%Credit: SkillerCMP
+$004923AC 00000001
+Enable ignore crafting resources{If enabled crafting items uses no resources}
+%Credit: SkillerCMP
+$004923B0 00000001
+$004923B4 00000001
+!!

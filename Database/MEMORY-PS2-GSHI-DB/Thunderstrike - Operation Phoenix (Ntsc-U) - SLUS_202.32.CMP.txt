@@ -1,0 +1,172 @@
+^3 = NAME: Thunderstrike - Operation Phoenix (Ntsc-U)
+^2 = GameID: SLUS-20232
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0100158 00152D87
++(M) Must Be On
+%Credits: Codejunkies
+$F0100158 00151DC7
++(M) Must Be On
+%Credits: Codejunkies
+$F0151DC4 00151DC7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00151DC7
+!!
+!Armor Codes:
++Armor Never Goes Above 10%
+%Credits: Codejunkies
+$E00141C8 30565376
+$10565376 000041C8
++Armor Never Goes Above 25%
+%Credits: Codejunkies
+$E0014248 30565376
+$10565376 00004248
++Armor Never Goes Above 50%
+%Credits: Codejunkies
+$E00142FA 30565376
+$10565376 000042FA
++Armor Never Goes Above 75%
+%Credits: Codejunkies
+$E0014348 30565376
+$10565376 00004348
++Infinite Armor
+%Credits: Codejunkies
+$10565376 0000437A
++Rapid Fire Missiles
+%Credits: Codejunkies
+$10565360 00000000
++Weapons Never Overheat
+%Credits: Codejunkies
+$10565364 00000000
+!!
+!Infinite Ammo Codes:
++Weapon 1
+%Credits: MadCatz
+$10423120 00000063
++Weapon 2
+%Credits: MadCatz
+$10423124 00000063
++Weapon 3
+%Credits: MadCatz
+$10423128 00000063
++View Modifier (00-0F)
+%Credits: Code Master
+$10564EEC 000000??
+!!
+!View Codes:
++3Rd Person View
+%Credits: MadCatz
+$10564EEC 00000001
++Awacs View
+%Credits: MadCatz
+$10564EEC 00000004
++Bomb View
+%Credits: MadCatz
+$10564EEC 00000008
++Cockpit View
+%Credits: MadCatz
+$10564EEC 00000002
++Cockpit View 2
+%Credits: MadCatz
+$10564EEC 00000003
++Minimal HUD View
+%Credits: MadCatz
+$10564EEC 00000000
++Refreshable View
+%Credits: MadCatz
+$10564EEC 0000000D
++Rotating Pause View
+%Credits: MadCatz
+$10564EEC 00000005
+!!
+!Weapon 1 Ammo Codes:
++Never Have More Than 10 Bullets
+%Credits: Codejunkies
+$E001000A 30423120
+$10423120 0000000A
++Never Have More Than 20 Bullets
+%Credits: Codejunkies
+$E0010014 30423120
+$10423120 00000014
++Never Have More Than 5 Bullets
+%Credits: Codejunkies
+$E0010005 30423120
+$10423120 00000005
+!!
+!Weapon 2 Ammo Codes:
++Never Have More Than 10 Bullets
+%Credits: Codejunkies
+$E001000A 30423124
+$10423124 0000000A
++Never Have More Than 20 Bullets
+%Credits: Codejunkies
+$E0010014 30423124
+$10423124 00000014
++Never Have More Than 5 Bullets
+%Credits: Codejunkies
+$E0010005 30423124
+$10423124 00000005
+!!
+!Weapon 3 Ammo Codes:
++Never Have More Than 10 Bullets
+%Credits: Codejunkies
+$E001000A 30423128
+$10423128 0000000A
++Never Have More Than 20 Bullets
+%Credits: Codejunkies
+$E0010014 30423128
+$10423128 00000014
++Never Have More Than 5 Bullets
+%Credits: Codejunkies
+$E0010005 30423128
+$10423128 00000005
+!!
++Awacs View (Map)
+%Credits: InterAct
+$1056777C 00000004
++Bomb View (Down View)
+%Credits: InterAct
+$1056777C 00000008
++Cockpit View 2
+%Credits: InterAct
+$1056777C 00000003
++Infinite Ammo Weapon 1
+%Credits: InterAct
+$10425AC0 00000063
++Infinite Ammo Weapon 2
+%Credits: InterAct
+$10425AC4 00000063
++Infinite Ammo Weapon 3
+%Credits: InterAct
+$10425AC8 00000063
++Infinite Armor
+%Credits: InterAct
+$10567C0A 0000437A
++Infinite Armor
+%Credits: Code Master
+$20565374 437A0000
++Never Overheat
+%Credits: InterAct
+$10567BF8 00000000
++Rapid Fire Missiles
+%Credits: InterAct
+$10567BF4 00000000
++Rotating Pause Menu View
+%Credits: InterAct
+$1056777C 00000005
++Standard 3Rd Person View
+%Credits: InterAct
+$1056777C 00000001
++Standard Cockpit View
+%Credits: InterAct
+$1056777C 00000002
++Stationary Minimal HUD View
+%Credits: InterAct
+$1056777C 00000000
++Stationary Refreshable View
+%Credits: InterAct
+$1056777C 0000000D
+!!
+

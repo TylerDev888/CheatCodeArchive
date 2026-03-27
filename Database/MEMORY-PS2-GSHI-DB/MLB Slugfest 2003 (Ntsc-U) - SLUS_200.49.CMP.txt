@@ -1,0 +1,331 @@
+^3 = NAME: MLB Slugfest 2003 (Ntsc-U)
+^2 = GameID: SLUS-20049
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0116838 0030FD27
++(M) Must Be On
+%Credits: Codejunkies
+$F030FD24 0030FD27
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0030FD27
+!!
++Away Team Infinite Turbo
+%Credits: Code Master
+$203D0FE4 42C80000
++Away Team No Turbo
+%Credits: Code Master
+$203D0FE4 00000000
+!Away Team Only Codes:
++1 Ball And You Walk
+%Credits: Code Master
+$E0020000 003D2604
+$D03D316C 00000000
+$103D316C 00000003
++1 Ball Equals Walk
+%Credits: InterAct
+$D03D2604 00000000
+$D03D316C 00000000
+$103D316C 00000003
++1 Out And You Are Out
+%Credits: Code Master
+$E0020000 003D2604
+$D03D3170 00000000
+$103D3170 00000002
++1 Out Per Inning
+%Credits: InterAct
+$D03D2604 00000000
+$D03D3170 00000000
+$103D3170 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020000 003D2604
+$D03D3168 00000000
+$103D3168 00000002
++1 Strike Equals 1 Out
+%Credits: InterAct
+$D03D2604 00000000
+$D03D3168 00000000
+$103D3168 00000002
++2 Balls And You Walk
+%Credits: Code Master
+$E0020000 003D2604
+$D03D316C 00000000
+$103D316C 00000002
++2 Balls Equals Walk
+%Credits: InterAct
+$D03D2604 00000000
+$D03D316C 00000000
+$103D316C 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020000 003D2604
+$D03D3170 00000000
+$103D3170 00000001
++2 Outs Per Inning
+%Credits: InterAct
+$D03D2604 00000000
+$D03D3170 00000000
+$103D3170 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020000 003D2604
+$D03D3168 00000000
+$103D3168 00000001
++2 Strikes Equals 1 Out
+%Credits: InterAct
+$D03D2604 00000000
+$D03D3168 00000000
+$103D3168 00000001
++3 Balls And You Walk
+%Credits: Code Master
+$E0020000 003D2604
+$D03D316C 00000000
+$103D316C 00000001
++3 Balls Equals Walk
+%Credits: InterAct
+$D03D2604 00000000
+$D03D316C 00000000
+$103D316C 00000001
++Always Full Count
+%Credits: Code Master
+$E0020000 003D2604
+$103D3168 00000002
+$103D316C 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030000 003D2604
+$103D3168 00000002
+$103D316C 00000003
+$103D3170 00000002
++Infinite Balls
+%Credits: Code Master
+$D03D2604 00000000
+$103D316C 00000000
++Infinite Outs
+%Credits: Code Master
+$D03D2604 00000000
+$103D3170 00000000
++Infinite Strikes
+%Credits: Code Master
+$D03D2604 00000000
+$103D3168 00000000
+!!
++Away Team Score Modifier
+%Credits: Code Master
+$103D3144 0000????
++Away Team Start With Runs Modifier
+%Credits: Code Master
+$D03D3144 00000000
+$103D3144 0000????
+!Away Turbo Codes:
++Infinite Turbo
+%Credits: InterAct
+$103D0FE6 000042C8
++L1+L2 For Home Advantage
+%Credits: InterAct
+$D03DCC02 0000FAFF
+$103D3140 00000014
+$D03DCC02 0000FAFF
+$103D3144 00000000
++No Turbo
+%Credits: InterAct
+$103D0FE6 00004000
++R1+R2 For Away Advantage
+%Credits: InterAct
+$D03DCC02 0000F5FF
+$103D3140 00000000
+$D03DCC02 0000F5FF
+$103D3144 00000014
+!!
+!Ball Codes:
++1 Ball For A Walk
+%Credits: Codejunkies
+$E0020001 003D2604
+$D03D316C 00000000
+$103D316C 00000003
++2 Balls For A Walk
+%Credits: Codejunkies
+$E0020001 003D2604
+$D03D316C 00000000
+$103D316C 00000002
++3 Balls For A Walk
+%Credits: Codejunkies
+$E0020001 003D2604
+$D03D316C 00000000
+$103D316C 00000001
++Ball For A Walk
+%Credits: Codejunkies
+$D03D316C 00000000
+$103D316C 00000003
++Balls For A Walk
+%Credits: Codejunkies
+$D03D316C 00000000
+$103D316C 00000002
++Balls For A Walk
+%Credits: Codejunkies
+$D03D316C 00000000
+$103D316C 00000001
+!!
+!Ball Modifier Codes:
+!!
+!Both Team Codes:
++1 Out And You Are Out
+%Credits: Code Master
+$D03D3170 00000000
+$103D3170 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$D03D3168 00000000
+$103D3168 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$D03D3170 00000000
+$103D3170 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$D03D3168 00000000
+$103D3168 00000001
++Always Full Count
+%Credits: Code Master
+$103D3168 00000002
+$103D316C 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$103D3168 00000002
+$103D316C 00000003
+$103D3170 00000002
++Infinite Balls
+%Credits: Code Master
+$103D316C 00000000
++Infinite Outs
+%Credits: Code Master
+$103D3170 00000000
++Infinite Strikes
+%Credits: Code Master
+$103D3168 00000000
+!!
++Home Team Infinite Turbo
+%Credits: Code Master
+$203D0FE0 42C80000
++Home Team No Turbo
+%Credits: Code Master
+$203D0FE0 00000000
+!Home Team Only Codes:
++1 Ball Equals Walk
+%Credits: InterAct
+$D03D2604 00000001
+$D03D316C 00000000
+$103D316C 00000003
++1 Out And You Are Out
+%Credits: Code Master
+$E0020001 003D2604
+$D03D3170 00000000
+$103D3170 00000002
++1 Out Per Inning
+%Credits: InterAct
+$D03D2604 00000001
+$D03D3170 00000000
+$103D3170 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020001 003D2604
+$D03D3168 00000000
+$103D3168 00000002
++1 Strike Equals 1 Out
+%Credits: InterAct
+$D03D2604 00000001
+$D03D3168 00000000
+$103D3168 00000002
++2 Balls Equals Walk
+%Credits: InterAct
+$D03D2604 00000001
+$D03D316C 00000000
+$103D316C 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020001 003D2604
+$D03D3170 00000000
+$103D3170 00000001
++2 Outs Per Inning
+%Credits: InterAct
+$D03D2604 00000001
+$D03D3170 00000000
+$103D3170 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020001 003D2604
+$D03D3168 00000000
+$103D3168 00000001
++2 Strikes Equals 1 Out
+%Credits: InterAct
+$D03D2604 00000001
+$D03D3168 00000000
+$103D3168 00000001
++3 Ball Equals Walk
+%Credits: InterAct
+$D03D2604 00000001
+$D03D316C 00000000
+$103D316C 00000001
++Always Full Count
+%Credits: Code Master
+$E0020001 003D2604
+$103D3168 00000002
+$103D316C 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030001 003D2604
+$103D3168 00000002
+$103D316C 00000003
+$103D3170 00000002
++Infinite Balls
+%Credits: Code Master
+$D03D2604 00000001
+$103D316C 00000000
++Infinite Outs
+%Credits: Code Master
+$D03D2604 00000001
+$103D3170 00000000
++Infinite Strikes
+%Credits: Code Master
+$D03D2604 00000001
+$103D3168 00000000
+!!
++Home Team Score Modifier
+%Credits: Code Master
+$103D3140 0000????
++Home Team Start With Runs Modifier
+%Credits: Code Master
+$D03D3140 00000000
+$103D3140 0000????
+!Home Turbo Codes:
++Infinite Turbo
+%Credits: InterAct
+$103D0FE2 000042C8
++No Turbo
+%Credits: InterAct
+$103D0FE2 00004000
+!!
+!Inning Codes:
+!!
+!Score Codes:
++Score 0
+%Credits: Codejunkies
+$103D3140 00000000
++Score 0
+%Credits: Codejunkies
+$103D3144 00000000
++Score 20
+%Credits: Codejunkies
+$103D3140 00000014
++Score 20
+%Credits: Codejunkies
+$103D3144 00000014
+!!
+!Strike Codes:
+!!
+!Turbo Codes:
+!!
+!!
+

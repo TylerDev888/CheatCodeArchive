@@ -1,0 +1,71 @@
+^3 = NAME: King Of Fighters '98, The - Ultimate Match (Ntsc-U)
+^2 = GameID: SLUS-21816
+!Master Codes:
++Enable Code
+%Credits: lee4
+$901105D8 0C04411E
+!!
++All Challenge Cleared
+%Credits: lee4
+$405139E0 00070001
+$02020202 00000000
+$105139FC 00000202
++Hit Anywhere Both Players
+%Credits: nolberto82
+$201ADCD4 00000000
++Inf Time (P1 Hold L1+R1 OFF)
+%Credits: lee4
+$D150F982 0010F3FF
+$10504E68 00000099
++P1 Inf HP
+%Credits: lee4
+$1050F348 00000067
+$D050F362 00000000
+$1050F348 00000077
++P1 Inf Power
+%Credits: lee4
+$2050F2F8 40008000
+$1050F32C 00000202
+$0050F3F3 00000004
++P1 No HP (P2 Press Select)
+%Credits: lee4
+$D150F882 0000FFFE
+$1050F348 00000000
++P1 No Power
+%Credits: lee4
+$2050F2F8 00000000
+$0050F3F3 00000000
++P2 Inf HP
+%Credits: lee4
+$1050F548 00000067
+$D050F562 00000000
+$1050F548 00000077
++P2 Inf Power
+%Credits: lee4
+$2050F4F8 40008000
+$1050F52C 00000202
+$0050F5F3 00000004
++P2 No HP (P1 Press Select)
+%Credits: lee4
+$D150F982 0000FFFE
+$1050F548 00000000
++P2 No Power
+%Credits: lee4
+$2050F4F8 00000000
+$0050F5F3 00000000
++Unlock All Characters
+%Credits: lee4
+$10513A10 0000FFFF
++Unlock ART WORK FOR "Dream Match 1999"
+%Credits: lee4
+$20513AC0 01010101
++Unlock ART WORK FOR "Playstation 2"
+%Credits: lee4
+$40513A50 00040001
+$01010101 00000000
++Unlock Demo & Movies
+%Credits: lee4
+$40513B10 00040001
+$01010101 00000000
+!!
+

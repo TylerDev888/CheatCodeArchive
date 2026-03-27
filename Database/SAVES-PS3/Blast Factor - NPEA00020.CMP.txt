@@ -1,0 +1,38 @@
+^2 = GameID: NPEA00020
+^3 = NAME: Blast Factor (PSN)
+^4 = FILE: FP.XML
++Update Crc32 For Fp.xml (required)
+(set range:0x000000,0x00119B)
+$set pointer:eof-3
+$set range:0x000000,pointer
+$set [hash]:CRC32
+(write at 0x00119C:[hash])
+$set pointer:eof-3
+$write next (0):[hash]
+^4 = FILE: FP_AR.XML
++Update Crc32 For Fp_ar.xml (required)
+(set range:0x000000,0x000B51)
+$set pointer:eof-3
+$set range:0x000000,pointer
+$set [hash]:CRC32
+(write at 0x000B52:[hash])
+$set pointer:eof-3
+$write next (0):[hash]
+^4 = FILE: FP_HY.XML
++Update Crc32 For Fp_hy.xml (required)
+(set range:0x000000,0x001274)
+$set pointer:eof-3
+$set range:0x000000,pointer
+$set [hash]:CRC32
+(write at 0x001275:[hash])
+$set pointer:eof-3
+$write next (0):[hash]
+^4 = FILE: GP.XML
++Update Crc32 For Gp.xml (required)
+(set range:0x000000,0x0000C4)
+$set pointer:eof-3
+$set range:0x000000,pointer
+$set [hash]:CRC32
+(write at 0x0000C5:[hash])
+$set pointer:eof-3
+$write next (0):[hash]

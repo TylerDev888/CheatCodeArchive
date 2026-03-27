@@ -1,0 +1,831 @@
+^1 = HASH: EBD245D0
+^3 = NAME: Road Kill
+^2 = GameID: SLUS_206.87
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0031574F
+!!
+!Player Codes:
+!P1 Codes:
++Infinite Health P1
+%Credits: Code Master
+$20442370 3F800000
++75% Health P1
+%Credits: Code Master
+$D0442372 00003F80
+$20442370 3F400000
++50% Health P1
+%Credits: Code Master
+$D0442372 00003F80
+$20442370 3F000000
++25% Health P1
+%Credits: Code Master
+$D0442372 00003F80
+$20442370 3E800000
++1-Hit Death P1
+%Credits: Code Master
+$D0442372 00003F80
+$20442370 3C23D70A
++No Health P1
+%Credits: Code Master
+$20442370 00000000
++Infinite Turbo P1
+%Credits: Code Master
+$20442418 40000000
++No Turbo P1
+%Credits: Code Master
+$20442418 00000000
++Weapon Modifier P1
+%Credits: Code Master
+$20471338 ????????
+!!
+!P1 Infinite Ammo Codes:
++Gatling Gun
+%Credits: Code Master
+$20471340 00000063
++Shotgun
+%Credits: Code Master
+$20471344 00000063
++Taser
+%Credits: Code Master
+$20471348 00000063
++Sentry Gun
+%Credits: Code Master
+$2047134C 00000063
++Twisting Missiles
+%Credits: Code Master
+$20471350 00000063
++Cluster Missiles
+%Credits: Code Master
+$20471354 00000063
++Normal Missiles
+%Credits: Code Master
+$20471358 00000063
++Cam Missiles
+%Credits: Code Master
+$2047135C 00000063
++Timed Mines
+%Credits: Code Master
+$20471360 00000063
++Land Mines
+%Credits: Code Master
+$20471364 00000063
++Cluster Mines
+%Credits: Code Master
+$20471368 00000063
++Bombs
+%Credits: Code Master
+$2047136C 00000063
++Flash Mines
+%Credits: Code Master
+$20471370 00000063
++Detonated Mines
+%Credits: Code Master
+$20471374 00000063
++Sniper Rifle
+%Credits: Code Master
+$20471378 00000063
++Air Strike
+%Credits: Code Master
+$2047137C 00000063
++Flamethrower
+%Credits: Code Master
+$20471380 00000063
++All Weapons
+%Credits: Code Master
+$40471340 00120001
+$00000063 00000000
+!!
+!P1 No Ammo Codes:
++Gatling Gun
+%Credits: Code Master
+$20471340 00000000
++Shotgun
+%Credits: Code Master
+$20471344 00000000
++Taser
+%Credits: Code Master
+$20471348 00000000
++Sentry Gun
+%Credits: Code Master
+$2047134C 00000000
++Twisting Missiles
+%Credits: Code Master
+$20471350 00000000
++Cluster Missiles
+%Credits: Code Master
+$20471354 00000000
++Normal Missiles
+%Credits: Code Master
+$20471358 00000000
++Cam Missiles
+%Credits: Code Master
+$2047135C 00000000
++Timed Mines
+%Credits: Code Master
+$20471360 00000000
++Land Mines
+%Credits: Code Master
+$20471364 00000000
++Cluster Mines
+%Credits: Code Master
+$20471368 00000000
++Bombs
+%Credits: Code Master
+$2047136C 00000000
++Flash Mines
+%Credits: Code Master
+$20471370 00000000
++Detonated Mines
+%Credits: Code Master
+$20471374 00000000
++Sniper Rifle
+%Credits: Code Master
+$20471378 00000000
++Air Strike
+%Credits: Code Master
+$2047137C 00000000
++Flamethrower
+%Credits: Code Master
+$20471380 00000000
++All Weapons
+%Credits: Code Master
+$40471340 00120001
+$00000000 00000000
+!!
+!P2 Codes:
++Infinite Health P2
+%Credits: Code Master
+$20445030 3F800000
++75% Health P2
+%Credits: Code Master
+$D0445032 00003F80
+$20445030 3F400000
++50% Health P2
+%Credits: Code Master
+$D0445032 00003F80
+$20445030 3F000000
++25% Health P2
+%Credits: Code Master
+$D0445032 00003F80
+$20445030 3E800000
++1-Hit Death P2
+%Credits: Code Master
+$D0445032 00003F80
+$20445030 3C23D70A
++No Health P2
+%Credits: Code Master
+$20445030 00000000
++Infinite Turbo P2
+%Credits: Code Master
+$204450D8 40000000
++No Turbo P2
+%Credits: Code Master
+$204450D8 00000000
++Weapon Modifier P2
+%Credits: Code Master
+$20472CCC ????????
+!!
+!P2 Infinite Ammo Codes:
++Gatling Gun
+%Credits: Code Master
+$20472CD4 00000063
++Shotgun
+%Credits: Code Master
+$20472CD8 00000063
++Taser
+%Credits: Code Master
+$20472CDC 00000063
++Sentry Gun
+%Credits: Code Master
+$20472CE0 00000063
++Twisting Missiles
+%Credits: Code Master
+$20472CE4 00000063
++Cluster Missiles
+%Credits: Code Master
+$20472CE8 00000063
++Normal Missiles
+%Credits: Code Master
+$20472CEC 00000063
++Cam Missiles
+%Credits: Code Master
+$20472CF0 00000063
++Timed Mines
+%Credits: Code Master
+$20472CF4 00000063
++Land Mines
+%Credits: Code Master
+$20472CF8 00000063
++Cluster Mines
+%Credits: Code Master
+$20472CFC 00000063
++Bombs
+%Credits: Code Master
+$20472D00 00000063
++Flash Mines
+%Credits: Code Master
+$20472D04 00000063
++Detonated Mines
+%Credits: Code Master
+$20472D08 00000063
++Sniper Rifle
+%Credits: Code Master
+$20472D0C 00000063
++Air Strike
+%Credits: Code Master
+$20472D10 00000063
++Flamethrower
+%Credits: Code Master
+$20472D14 00000063
++All Weapons
+%Credits: Code Master
+$40472CD4 00120001
+$00000063 00000000
+!!
+!P2 No Ammo Codes:
++Gatling Gun
+%Credits: Code Master
+$20472CD4 00000000
++Shotgun
+%Credits: Code Master
+$20472CD8 00000000
++Taser
+%Credits: Code Master
+$20472CDC 00000000
++Sentry Gun
+%Credits: Code Master
+$20472CE0 00000000
++Twisting Missiles
+%Credits: Code Master
+$20472CE4 00000000
++Cluster Missiles
+%Credits: Code Master
+$20472CE8 00000000
++Normal Missiles
+%Credits: Code Master
+$20472CEC 00000000
++Cam Missiles
+%Credits: Code Master
+$20472CF0 00000000
++Timed Mines
+%Credits: Code Master
+$20472CF4 00000000
++Land Mines
+%Credits: Code Master
+$20472CF8 00000000
++Cluster Mines
+%Credits: Code Master
+$20472CFC 00000000
++Bombs
+%Credits: Code Master
+$20472D00 00000000
++Flash Mines
+%Credits: Code Master
+$20472D04 00000000
++Detonated Mines
+%Credits: Code Master
+$20472D08 00000000
++Sniper Rifle
+%Credits: Code Master
+$20472D0C 00000000
++Air Strike
+%Credits: Code Master
+$20472D10 00000000
++Flamethrower
+%Credits: Code Master
+$20472D14 00000000
++All Weapons
+%Credits: Code Master
+$40472CD4 00120001
+$00000000 00000000
+!!
+!P3 Codes:
++Infinite Health P3
+%Credits: Code Master
+$20447CF0 3F800000
++75% Health P3
+%Credits: Code Master
+$D0447CF2 00003F80
+$20447CF0 3F400000
++50% Health P3
+%Credits: Code Master
+$D0447CF2 00003F80
+$20447CF0 3F000000
++25% Health P3
+%Credits: Code Master
+$D0447CF2 00003F80
+$20447CF0 3E800000
++1-Hit Death P3
+%Credits: Code Master
+$D0447CF2 00003F80
+$20447CF0 3C23D70A
++No Health P3
+%Credits: Code Master
+$20447CF0 00000000
++Infinite Turbo P3
+%Credits: Code Master
+$20447D98 40000000
++No Turbo P3
+%Credits: Code Master
+$20447D98 00000000
++Weapon Modifier P3
+%Credits: Code Master
+$20474660 ????????
+!!
+!P3 Infinite Ammo Codes:
++Gatling Gun
+%Credits: Code Master
+$20474668 00000063
++Shotgun
+%Credits: Code Master
+$2047466C 00000063
++Taser
+%Credits: Code Master
+$20474670 00000063
++Sentry Gun
+%Credits: Code Master
+$20474674 00000063
++Twisting Missiles
+%Credits: Code Master
+$20474678 00000063
++Cluster Missiles
+%Credits: Code Master
+$2047467C 00000063
++Normal Missiles
+%Credits: Code Master
+$20474680 00000063
++Cam Missiles
+%Credits: Code Master
+$20474684 00000063
++Timed Mines
+%Credits: Code Master
+$20474688 00000063
++Land Mines
+%Credits: Code Master
+$2047468C 00000063
++Cluster Mines
+%Credits: Code Master
+$20474690 00000063
++Bombs
+%Credits: Code Master
+$20474694 00000063
++Flash Mines
+%Credits: Code Master
+$20474698 00000063
++Detonated Mines
+%Credits: Code Master
+$2047469C 00000063
++Sniper Rifle
+%Credits: Code Master
+$204746A0 00000063
++Air Strike
+%Credits: Code Master
+$204746A4 00000063
++Flamethrower
+%Credits: Code Master
+$204746A8 00000063
++All Weapons
+%Credits: Code Master
+$40474668 00120001
+$00000063 00000000
+!!
+!P3 No Ammo Codes:
++Gatling Gun
+%Credits: Code Master
+$20474668 00000000
++Shotgun
+%Credits: Code Master
+$2047466C 00000000
++Taser
+%Credits: Code Master
+$20474670 00000000
++Sentry Gun
+%Credits: Code Master
+$20474674 00000000
++Twisting Missiles
+%Credits: Code Master
+$20474678 00000000
++Cluster Missiles
+%Credits: Code Master
+$2047467C 00000000
++Normal Missiles
+%Credits: Code Master
+$20474680 00000000
++Cam Missiles
+%Credits: Code Master
+$20474684 00000000
++Timed Mines
+%Credits: Code Master
+$20474688 00000000
++Land Mines
+%Credits: Code Master
+$2047468C 00000000
++Cluster Mines
+%Credits: Code Master
+$20474690 00000000
++Bombs
+%Credits: Code Master
+$20474694 00000000
++Flash Mines
+%Credits: Code Master
+$20474698 00000000
++Detonated Mines
+%Credits: Code Master
+$2047469C 00000000
++Sniper Rifle
+%Credits: Code Master
+$204746A0 00000000
++Air Strike
+%Credits: Code Master
+$204746A4 00000000
++Flamethrower
+%Credits: Code Master
+$204746A8 00000000
++All Weapons
+%Credits: Code Master
+$40474668 00120001
+$00000000 00000000
+!!
+!P4 Codes:
++Infinite Health P4
+%Credits: Code Master
+$2044A9B0 3F800000
++75% Health P4
+%Credits: Code Master
+$D044A9B2 00003F80
+$2044A9B0 3F400000
++50% Health P4
+%Credits: Code Master
+$D044A9B2 00003F80
+$2044A9B0 3F000000
++25% Health P4
+%Credits: Code Master
+$D044A9B2 00003F80
+$2044A9B0 3E800000
++1-Hit Death P4
+%Credits: Code Master
+$D044A9B2 00003F80
+$2044A9B0 3C23D70A
++No Health P4
+%Credits: Code Master
+$2044A9B0 00000000
++Infinite Turbo P4
+%Credits: Code Master
+$2044AA58 40000000
++No Turbo P4
+%Credits: Code Master
+$2044AA58 00000000
++Weapon Modifier P4
+%Credits: Code Master
+$20475FF4 ????????
+!!
+!P4 Infinite Ammo Codes:
++Gatling Gun
+%Credits: Code Master
+$20475FFC 00000063
++Shotgun
+%Credits: Code Master
+$20476000 00000063
++Taser
+%Credits: Code Master
+$20476004 00000063
++Sentry Gun
+%Credits: Code Master
+$20476008 00000063
++Twisting Missiles
+%Credits: Code Master
+$2047600C 00000063
++Cluster Missiles
+%Credits: Code Master
+$20476010 00000063
++Normal Missiles
+%Credits: Code Master
+$20476014 00000063
++Cam Missiles
+%Credits: Code Master
+$20476018 00000063
++Timed Mines
+%Credits: Code Master
+$2047601C 00000063
++Land Mines
+%Credits: Code Master
+$20476020 00000063
++Cluster Mines
+%Credits: Code Master
+$20476024 00000063
++Bombs
+%Credits: Code Master
+$20476028 00000063
++Flash Mines
+%Credits: Code Master
+$2047602C 00000063
++Detonated Mines
+%Credits: Code Master
+$20476030 00000063
++Sniper Rifle
+%Credits: Code Master
+$20476034 00000063
++Air Strike
+%Credits: Code Master
+$20476038 00000063
++Flamethrower
+%Credits: Code Master
+$2047603C 00000063
++All Weapons
+%Credits: Code Master
+$40475FFC 00120001
+$00000063 00000000
+!!
+!P4 No Ammo Codes:
++Gatling Gun
+%Credits: Code Master
+$20475FFC 00000000
++Shotgun
+%Credits: Code Master
+$20476000 00000000
++Taser
+%Credits: Code Master
+$20476004 00000000
++Sentry Gun
+%Credits: Code Master
+$20476008 00000000
++Twisting Missiles
+%Credits: Code Master
+$2047600C 00000000
++Cluster Missiles
+%Credits: Code Master
+$20476010 00000000
++Normal Missiles
+%Credits: Code Master
+$20476014 00000000
++Cam Missiles
+%Credits: Code Master
+$20476018 00000000
++Timed Mines
+%Credits: Code Master
+$2047601C 00000000
++Land Mines
+%Credits: Code Master
+$20476020 00000000
++Cluster Mines
+%Credits: Code Master
+$20476024 00000000
++Bombs
+%Credits: Code Master
+$20476028 00000000
++Flash Mines
+%Credits: Code Master
+$2047602C 00000000
++Detonated Mines
+%Credits: Code Master
+$20476030 00000000
++Sniper Rifle
+%Credits: Code Master
+$20476034 00000000
++Air Strike
+%Credits: Code Master
+$20476038 00000000
++Flamethrower
+%Credits: Code Master
+$2047603C 00000000
++All Weapons
+%Credits: Code Master
+$40475FFC 00120001
+$00000000 00000000
+!!
+!!
+!Other Codes:
+!Misc. Codes:
++Infinite Salvage
+%Credits: Code Master
+$104714BC 0000FFFF
++Max Salvage
+%Credits: Code Master
+$204714BC 05F5E0FF
++Access All Multiplayer Arenas{With This Code, Some Of The New Levels May Hang. (I.E. They Are Not Finished by the programmers.)}
+%Credits: Code Master
+$202B30E0 00000000
+$202B3248 00000000
+!!
+!Unlock Vehicle Codes:
++Fireball
+%Credits: Code Master
+$20597F9C 00000001
++Razor
+%Credits: Code Master
+$2059802C 00000001
++Brahma
+%Credits: Code Master
+$205980BC 00000001
++Shag
+%Credits: Code Master
+$2059814C 00000001
++Yellow
+%Credits: Code Master
+$205981DC 00000001
++Brady
+%Credits: Code Master
+$2059826C 00000001
++Juice
+%Credits: Code Master
+$205982FC 00000001
++Lawdog
+%Credits: Code Master
+$2059838C 00000001
++Bulldog
+%Credits: Code Master
+$2059841C 00000001
++Sanford
+%Credits: Code Master
+$205984AC 00000001
++Lizard
+%Credits: Code Master
+$2059853C 00000001
++Tub
+%Credits: Code Master
+$205985CC 00000001
++Drifter
+%Credits: Code Master
+$2059865C 00000001
++Stump
+%Credits: Code Master
+$205986EC 00000001
++S.T.V.
+%Credits: Code Master
+$2059877C 00000001
++Cajones
+%Credits: Code Master
+$2059880C 00000001
++Tornado
+%Credits: Code Master
+$2059889C 00000001
++Mullet
+%Credits: Code Master
+$2059893C 00000001
++Rigg
+%Credits: Code Master
+$205989BC 00000001
++Mercenary
+%Credits: Code Master
+$20598A4C 00000001
++Hoss
+%Credits: Code Master
+$20598ADC 00000001
++Junky
+%Credits: Code Master
+$20598B6C 00000001
++Grim
+%Credits: Code Master
+$20598BFC 00000001
++Senor
+%Credits: Code Master
+$20598C8C 00000001
++Beaver
+%Credits: Code Master
+$20598D1C 00000001
++Ese
+%Credits: Code Master
+$20598DAC 00000001
++Pinata
+%Credits: Code Master
+$20598E3C 00000001
++Goblin
+%Credits: Code Master
+$20598ECC 00000001
++Bean
+%Credits: Code Master
+$20598F5C 00000001
++Widget
+%Credits: Code Master
+$20598FEC 00000001
++Banjo
+%Credits: Code Master
+$2059907C 00000001
++DWI
+%Credits: Code Master
+$2059910C 00000001
++Molotov
+%Credits: Code Master
+$2059919C 00000001
++Jethro
+%Credits: Code Master
+$2059922C 00000001
++Bagger
+%Credits: Code Master
+$205992BC 00000001
++Ray
+%Credits: Code Master
+$2059934C 00000001
++Vault
+%Credits: Code Master
+$205993DC 00000001
++Recon
+%Credits: Code Master
+$2059946C 00000001
++Thunder
+%Credits: Code Master
+$205994FC 00000001
++Flatbed
+%Credits: Code Master
+$2059958C 00000001
++Lightning
+%Credits: Code Master
+$2059961C 00000001
++Pimp
+%Credits: Code Master
+$205996AC 00000001
++Fang
+%Credits: Code Master
+$2059973C 00000001
++Monster
+%Credits: Code Master
+$205997CC 00000001
++Burner
+%Credits: Code Master
+$2059985C 00000001
++Primer
+%Credits: Code Master
+$205998EC 00000001
++Pumpkin
+%Credits: Code Master
+$2059997C 00000001
++Gutless
+%Credits: Code Master
+$20599A0C 00000001
++Offroad
+%Credits: Code Master
+$20599A9C 00000001
++Rattail
+%Credits: Code Master
+$20599B2C 00000001
++Omega
+%Credits: Code Master
+$20599BBC 00000001
++Spirit
+%Credits: Code Master
+$20599C4C 00000001
++Stalker
+%Credits: Code Master
+$20599CDC 00000001
++Bruiser
+%Credits: Code Master
+$20599D6C 00000001
++Bling
+%Credits: Code Master
+$20599DFC 00000001
++Drone
+%Credits: Code Master
+$20599E8C 00000001
++Bumper
+%Credits: Code Master
+$20599F1C 00000001
++Grinder
+%Credits: Code Master
+$20599FAC 00000001
++Gauntlet
+%Credits: Code Master
+$2059A03C 00000001
++Dumper
+%Credits: Code Master
+$2059A0CC 00000001
++Axl
+%Credits: Code Master
+$2059A15C 00000001
++Crate
+%Credits: Code Master
+$2059A1EC 00000001
++Orange
+%Credits: Code Master
+$2059A27C 00000001
++Clintos
+%Credits: Code Master
+$2059A30C 00000001
++All Vehicles
+%Credits: Code Master
+$40597F9C 00400024
+$00000001 00000000
+!!
+!!
+^6 = MODS:
+Quantity Digits to Accompany Weapon Modifier Codes
+FFFFFEDD 0000000-
+00000000 0000000-
+00000001 0000000-
+00000002 0000000-
+00000003 0000000-
+00000004 0000000-
+00000005 0000000-
+00000006 0000000-
+00000007 0000000-
+00000008 0000000-
+00000009 0000000-
+0000000A 0000000-
+0000000B 0000000-
+0000000C 0000000-
+0000000D 0000000-
+0000000E 0000000-
+0000000F 0000000-
+00000010 0000000-
+00000011 0000000-

@@ -1,0 +1,55 @@
+^2 = GameID: NPEB00346
+^3 = NAME: Alien Breed 3: Descent (PSN)
+^5 = APCRED: From zeick & chaoszage
+^4 = FILE: GAME.DAT
++999999 Money
+$search "Env_Split"
+$write next (18):0098967F
++Max Assaultrifle Ammo
+$search "ABWeap_AssaultRifle_"
+$search next 0xFFFFFFFF
+$write next (10):270F0000270F
++Max Shotcannon Ammo
+$search "ABWeap_ShotCannon_"
+$search next 0xFFFFFFFF
+$write next (10):270F0000270F
++Max Flamethrower Ammo
+$search "ABWeap_FlameThrower_"
+$search next 0xFFFFFFFF
+$write next (10):270F0000270F
++Max Electrolinkgun Ammo
+$search "ABWeap_ElectroLinkGun_"
+$search next 0xFFFFFFFF
+$write next (10):270F0000270F
++Max Projectx Ammo
+$search "ABWeap_ProjectX_"
+$search next 0xFFFFFFFF
+$write next (10):270F0000270F
++99 Smallhealthkits
+$search "ABItem_SmallHealthKit_"
+$search next 0xFFFFFFFF
+$write next (11):63
++99 Fraggrenades
+$search "ABItem_FragGrenade_"
+$search next 0xFFFFFFFF
+$write next (11):63
++99 Largehealthkits
+$search "ABItem_LargeHealthKit_"
+$search next 0xFFFFFFFF
+$write next (11):63
++99 Stungrenades
+$search "ABItem_Flare_"
+$search next 0xFFFFFFFF
+$write next (11):63
++99 Sentrygun
+$search "ABItem_SentryGun1_"
+$search next 0xFFFFFFFF
+$write next (11):63
++99 Armour
+$search "ABItem_Armour_"
+$search next 0xFFFFFFFF
+$write next (11):63
++Default:update Crc32 (required)
+$set range:0x100,0x2000F7
+$set [crc]:crc32big
+$write at 0xF8:[crc]

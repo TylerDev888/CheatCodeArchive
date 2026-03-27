@@ -1,0 +1,58 @@
+^3 = NAME: Spongebob Squarepants - Battle For Bikini Bottom (Pal-Unk)
+^2 = GameID: SLES-51968
+!Internal Debug Features:
++No Damage
+%Credits: luc-ita
+$2052CCF4 00000000
++Nomusic
+%Credits: luc-ita
+$0052CAD8 00000001
+!!
++1Hitkill First Boss
+%Credits: luc-ita
+$20373170 24020001
+$2036EE78 1000003D
++Always Have The Bubble Bowl
+%Credits: luc-ita
+$0052CDCD 00000001
++Always Have The Cruise Bubble
+%Credits: luc-ita
+$0052CDCE 00000001
++Fly Mode (Read Notes) {<I>Activate With R3+Select<Br>Deactivate With L3+Select<Br>Move Normally, Go Up And Down With Triangle And Square Buttons</I>}
+%Credits: luc-ita
+$D0532C42 0000FFFA
+$0052DF6C 00000001
+$D0532C42 0000FFFC
+$0052DF6C 00000000
++Invulnerable And Can Walk On Water
+%Credits: luc-ita
+$2014D19C 00000000
+$20153AB0 1000002F
++Jump Higher
+%Credits: luc-ita
+$2052CE20 C1A00000
++Jump Higher - Spongebob And Sally
+%Credits: luc-ita
+$2052CE3C 412CB23D
+$2052D6FC 41311668
++Jump In Midair - Spongebob
+%Credits: luc-ita
+$2052DB34 00000000
++Jump In Midair With Slow Descent
+%Credits: luc-ita
+$201D2EA4 24061F01
++Jump Much Higher
+%Credits: luc-ita
+$2052CE20 C2480000
++Jump Much Higher - Spongebob And Sally
+%Credits: luc-ita
+$2052CE3C 41A6591F
+$2052D6FC 41B08B34
++Low Gravity
+%Credits: luc-ita
+$2052CD34 41200000
++Unlock Things And Take Taxi Even Without Shiny Objects Or Spatulas Or Socks
+%Credits: luc-ita
+$2012F958 00000000
+!!
+

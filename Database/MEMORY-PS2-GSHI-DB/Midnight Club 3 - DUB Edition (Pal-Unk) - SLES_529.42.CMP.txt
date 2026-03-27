@@ -1,0 +1,98 @@
+^3 = NAME: Midnight Club 3 - DUB Edition (Pal-Unk)
+^2 = GameID: SLES-52942
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0540AD4 00540AD7
+$201A0DD8 00000000
+$201A0DF0 00000000
+!!
++Disable Car Damage
+%Credits: Codejunkies
+$202D36A0 03E00008
+$202D36A4 00000000
++Dumb AI (Press Down To Activate; Select To Stop)
+%Credits: Codejunkies
+$D06B6A42 0000FFBF
+$203FF968 24020000
+$D06B6A42 0000FFFE
+$203FF968 8E020000
++Max Cash
+%Credits: Codejunkies
+$207BC29C 05F5E0FF
+!Max Opponent Modifier:
++No Opponent
+%Credits: Codejunkies
+$203D4D1C 24060000
++Opponent
+%Credits: Codejunkies
+$203D4D1C 24060001
++Opponents
+%Credits: Codejunkies
+$203D4D1C 24060002
++Opponents
+%Credits: Codejunkies
+$203D4D1C 24060003
++Opponents
+%Credits: Codejunkies
+$203D4D1C 24060004
+!!
++No AI (This Code Will Crash In Carrer Mode)
+%Credits: Codejunkies
+$0061579B 00000000
++No Cpvs
+%Credits: Codejunkies
+$0061579C 00000000
++No Pedestrians
+%Credits: Codejunkies
+$0061579A 00000000
++No Traffic
+%Credits: Codejunkies
+$00615799 00000000
++Normal Speed (Press R3)
+%Credits: Codejunkies
+$E002FFFB 006B6A42
+$20431228 45000003
+$20431210 45010007
++Slow Motion (Press L3)
+%Credits: Codejunkies
+$E002FFFD 006B6A42
+$20431228 44810000
+$20431210 3C013C00
++Turbo (Press Circle+X At The Same Time To Activate)
+%Credits: Codejunkies
+$E102009F 006B6A43
+$20261B40 3C017F00
+$20261B44 44810800
+$E102009F 106B6A43
+$20261B40 C4400024
+$20261B44 46000842
+!Unlock Codes:
++Open Abilities
+%Credits: Codejunkies
+$00615548 00000001
++Open All
+%Credits: Codejunkies
+$20615544 01010101
+$10615548 00000101
++Open Cities
+%Credits: Codejunkies
+$00615545 00000001
++Open Customisation
+%Credits: Codejunkies
+$00615547 00000001
++Open Insanity
+%Credits: Codejunkies
+$00615549 00000001
++Open Races
+%Credits: Codejunkies
+$00615544 00000001
++Open Upgrades
+%Credits: Codejunkies
+$0061554A 00000001
++Open Vehicles
+%Credits: Codejunkies
+$00615546 00000001
+!!
+!!
+

@@ -1,0 +1,83 @@
+^3 = NAME: Legend Of Spyro, The - A New Beginning (Pal-Unk)
+^2 = GameID: SLES-54359
+!Master Codes:
++Alt. Mastercode
+%Credits: RyTheHexer
+$F0100208 0000000E
++Mastercode
+%Credits: RyTheHexer
+$F0100008 0000000E
+!!
++1Hitkill
+%Credits: luc-ita
+$201E21F4 00000000
++All Upgrades Maxed
+%Credits: RyTheHexer
+$207D1AE4 00000003
+$207D1AE8 00000003
+$207D1B04 00000003
+$207D1B08 00000003
+$207D1B24 00000003
+$207D1B28 00000003
+$207D1B44 00000003
+$207D1B48 00000003
++Alt. Infinite Health & Energy
+%Credits: RyTheHexer
+$101F3AD6 00000000
+!Conversion / Display:
++PAL To NTSC
+%Credits: RyTheHexer
+$2018AF00 24120002
+!!
++Have All Abilities Complete With All Upgrades
+%Credits: luc-ita
+$207D1AE0 0000000B
+$207D1AE4 00000003
+$207D1AE8 00000003
+$207D1B00 0000000B
+$207D1B04 00000003
+$207D1B08 00000003
+$207D1B20 0000000B
+$207D1B24 00000003
+$207D1B28 00000003
+$207D1B40 0000000B
+$207D1B44 00000003
+$207D1B48 00000003
++Infinite & Max Energy
+%Credits: RyTheHexer
+$207D1AB0 42C80000
+$207D1AB4 42C80000
+$207D1AB8 42C80000
++Infinite & Max Health
+%Credits: RyTheHexer
+$207D1A80 42C80000
+$207D1A84 42C80000
+$207D1A88 42C80000
++Massive Upgrade Points
+%Credits: RyTheHexer
+$207D1A98 4479C000
++Maximum Fury
+%Credits: luc-ita
+$207D1AC8 43160000
++Moonjump {<I>Use With Untouchable Code To Avoid Damage If You Fall From Too High</I>}
+%Credits: luc-ita
+$D07BFCA8 000000FF
+$20D3A074 44080000
++One-Hit Kills
+%Credits: RyTheHexer
+$001E2232 00000080
++Super Jump {<I>Allows Multi-Jump To Easily Traverse Areas/Puzzles. Quickly Come Down With XXO (I.E. Spin Attack).</I>}
+%Credits: RyTheHexer
+$00D3EE14 00000001
++Unlock All Weapons
+%Credits: RyTheHexer
+$407D1AE0 00040020
+$0000000F 00000000
++Untouchable
+%Credits: luc-ita
+$2026F140 00000000
++Use Powers Even Without Energy
+%Credits: luc-ita
+$203EFDAC 10000019
+!!
+

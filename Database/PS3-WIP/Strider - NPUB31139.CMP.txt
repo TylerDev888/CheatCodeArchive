@@ -1,0 +1,13 @@
+^2 = GameID: NPUB31139
+^3 = NAME: Strider
+^4 = FILE: SAVEGAME
++Update Crc32 For Savegame (required)(checksum Found By Chaoszage)
+$set range:0x000004,0x077FF
+$set [hash]:CRC32
+$write at 0x000000:[hash]
+$set [hash]:0
+(set range:0x007804,0x0FFFFF)
+$set pointer:eof+1
+$set range:0x007804,pointer
+$set [hash]:CRC32
+$write at 0x007800:[hash]

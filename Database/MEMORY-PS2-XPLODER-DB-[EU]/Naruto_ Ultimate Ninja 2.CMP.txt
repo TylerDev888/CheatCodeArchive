@@ -1,0 +1,42 @@
+^3 = NAME: Naruto: Ultimate Ninja 2
+!Masters:
++Mastercode
+%Credits: Xploder
+$90103F20 0C04DE82
+!!
+!Other:
++Infinite Money
+%Credits: Xploder
+$200FFF00 3C0505F5
+$200FFF04 34A5E0FF
+$200FFF08 080B1A26
+$200FFF0C AC4501B8
+$202C6890 0803FFC0
++Unlock Characters (All But The Last 3)
+%Credits: Xploder
+$40ABE0E8 00220001
+$00000003 00000000
+!!
+!House Codes:
++Have Ninja Info Cards
+%Credits: Xploder
+$40AC1A64 00150001
+$FFFFFFFF 00000000
++Have Figures
+%Credits: Xploder
+$20AC1990 FFFFFFFF
+$20AC1994 FFFFFFFF
++Have Videos
+%Credits: Xploder
+$40AC1ABC 00060001
+$FFFFFFFF 00000000
++Have Voices
+%Credits: Xploder
+$40AC1B34 000D0001
+$FFFFFFFF 00000000
+$20AC19E0 FFFFFFFF
++Have Musics{Note: You Will Not Be Able To See The Item If The Related Character Has Not Been Unlocked.}
+%Credits: Xploder
+$20AC19D4 FFFFFFFF
+$20AC1B28 FFFFFFFF
+!!

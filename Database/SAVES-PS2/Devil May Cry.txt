@@ -1,0 +1,31 @@
+^2 = GameID: SLUS20216
+^3 = NAME: Devil May Cry
+^4 = FILE: BASLUS-20216
++Unlock all difficulties and Costumes
+%Credits: bucanero:code
+$00000000 000000D1
+$00000001 00000001
+$00000007 000000E0
+$0000000B 000000FF
+^4 = FILE: SaveData-0*
++Total Red Orbs 99999 Collected
+%Credits: bucanero:code
+$2000083C 0001869F
++All Difficulties-All Stages-Rank S
+%Credits: bucanero:code
+$420007BC 00000000
+$40110004 00000000
+$00000800 00000000
++999,999 Max Red Orbs
+%Credits: bucanero:code
+$20000634 000F423F
++999 Max Yellow Orbs
+%Credits: bucanero:code
+$10000620 000003E7
++Update Checksum for SaveData-0X {Required - DMC1 SaveData Checksum write value as little-endian}
+%Credits: bucanero:Checksum
+$set [csum]:0
+$carry(2)
+$set [csum]:add(0x00000C,0x96F)
+$set [csum]:endian_swap
+$write at 0x000008:[csum]

@@ -1,0 +1,213 @@
+^3 = NAME: King Of Fighters 2002 & 2003 [Disc1of2] (Ntsc-U)
+^2 = GameID: SLUS-20995
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F010DB74 0010DB77
++Enable Code (Must Be On)
+%Credits: Code Master
+$9010DB74 0C045846
++[M] Must Be On
+%Credits: MadCatz
+$9010DB88 0C0432EA
+!!
++Freeze Timer
+%Credits: lee4
+$00915D20 000000FF
++Infinite Time
+%Credits: Codejunkies
+$10915D28 00000050
++Infintite Time
+%Credits: lee4>Azagthoth
+$201B9864 00000000
+!Player 1 Codes:
++Have 1-Hit Kills
+%Credits: MadCatz
+$D0921BE8 00300000
+$10921BE8 00000001
++Infinite Health
+%Credits: MadCatz
+$10921BE8 00000066
++Infinite Health
+%Credits: Codejunkies
+$20921BE8 00000066
++Infinite Power Gauge
+%Credits: MadCatz
+$10921B98 00004200
++Infinite Time-Special
+%Credits: Codejunkies
+$10921B9A 00002990
++Low Health
+%Credits: Codejunkies
+$20921BE8 00000001
++Max Power Gauge
+%Credits: Codejunkies
+$00921C93 00000003
++Minimum Power Gauge
+%Credits: Codejunkies
+$00921C93 00000000
++Never Gain Power
+%Credits: Codejunkies
+$00921B99 00000000
++No Health
+%Credits: Codejunkies
+$20921BE8 00000000
++No Power Gauge
+%Credits: MadCatz
+$10921B98 00000000
++No Time-Special
+%Credits: Codejunkies
+$10921B9A 00000000
++Quick Power Gain
+%Credits: Codejunkies
+$00921B99 00000042
+!!
+!Player 2 Codes:
++Have 1-Hit Kills
+%Credits: MadCatz
+$D0921DF8 00300000
+$10921DF8 00000001
++Infinite Health
+%Credits: MadCatz
+$10921DF8 00000066
++Infinite Health
+%Credits: Codejunkies
+$20921DF8 00000066
++Infinite Power Gauge
+%Credits: MadCatz
+$10921DA8 00004200
++Infinite Time-Special
+%Credits: Codejunkies
+$10921DAA 00009090
+$40921DAC 00090001
+$90909090 00000000
+$10921DD0 00009090
+$00921DD2 00000090
++Low Health
+%Credits: Codejunkies
+$20921DF8 00000001
++Max Power Gauge
+%Credits: Codejunkies
+$00921EA3 00000003
++Minimum Power Gauge
+%Credits: Codejunkies
+$00921EA3 00000000
++Never Gain Power
+%Credits: Codejunkies
+$00921DA9 00000000
++No Health
+%Credits: Codejunkies
+$20921DF8 00000000
++No Power Gauge
+%Credits: MadCatz
+$10921DA8 00000000
++No Time-Special
+%Credits: Codejunkies
+$00921DAA 00000000
++Quick Power Gain
+%Credits: Codejunkies
+$00921DA9 00000042
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++1-Hit Death P1
+%Credits: Code Master
+$D0921BE8 00000066
+$10921BE8 00000001
++1-Hit Death P2
+%Credits: Code Master
+$D0921DF8 00000066
+$10921DF8 00000001
++25% Health P1
+%Credits: Code Master
+$D0921BE8 00000066
+$10921BE8 00000019
++25% Health P2
+%Credits: Code Master
+$D0921DF8 00000066
+$10921DF8 00000019
++50% Health P1
+%Credits: Code Master
+$D0921BE8 00000066
+$10921BE8 00000033
++50% Health P2
+%Credits: Code Master
+$D0921DF8 00000066
+$10921DF8 00000033
++75% Health P1
+%Credits: Code Master
+$D0921BE8 00000066
+$10921BE8 0000004C
++75% Health P2
+%Credits: Code Master
+$D0921DF8 00000066
+$10921DF8 0000004C
++Always Level 1 Power Gauge P1
+%Credits: Code Master
+$00921C93 00000001
++Always Level 1 Power Gauge P2
+%Credits: Code Master
+$00921EA3 00000001
++Always Level 2 Power Gauge P1
+%Credits: Code Master
+$00921C93 00000002
++Always Level 2 Power Gauge P2
+%Credits: Code Master
+$00921EA3 00000002
++Have All Time Attack Challenges Completed
+%Credits: Code Master
+$209245F0 00000028
++Hit Anywhere (Both Players)
+%Credits: Code Master
+$201CA1D4 00000000
++Infinite Special Time P1
+%Credits: Code Master
+$10921B9A 00002C80
++Infinite Special Time P2
+%Credits: Code Master
+$10921DAA 00002C80
++Infinite Time
+%Credits: Code Master
+$10915D28 00000099
++Max Score P1
+%Credits: Code Master
+$20921BAC 99999999
++Max Score P2
+%Credits: Code Master
+$20921DBC 99999999
++No Health P1
+%Credits: Code Master
+$10921BE8 00000000
++No Health P2
+%Credits: Code Master
+$10921DF8 00000000
++No Score P1
+%Credits: Code Master
+$20921BAC 00000000
++No Score P2
+%Credits: Code Master
+$20921DBC 00000000
++No Special Time P2
+%Credits: Code Master
+$10921DAA 00000000
++Quick Score Gain P1
+%Credits: Code Master
+$10921BAC 00009999
++Quick Score Gain P2
+%Credits: Code Master
+$10921DBC 00009999
++Unlock All Character Art Gallery
+%Credits: Code Master
+$209240E8 FFFFFFFF
+$009240EC 000000FF
++Unlock All Characters
+%Credits: Code Master
+$20924614 FFFFFFFF
+!!
++Unlock All Gallery
+%Credits: MadCatz
+$209240E8 FFFFFFFF
+$209240EC FFFFFFFF
+$209245F0 FFFFFFFF
+$20924614 FFFFFFFF
+!!
+

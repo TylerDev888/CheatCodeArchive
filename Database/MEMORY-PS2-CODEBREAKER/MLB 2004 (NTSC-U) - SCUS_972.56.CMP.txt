@@ -1,0 +1,269 @@
+^1 = HASH: 7A2F6536
+^3 = NAME: MLB 2004
+^2 = GameID: SCUS_972.56
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0175E08 002CA8AF
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$902CA8AC 0C0B943F
++Away Team Score Modifier
+%Credits: Code Master
+$E0018060 00175FB8
+$10391108 0000????
++Away Team Start With Score Modifier
+%Credits: Code Master
+$E0028060 00175FB8
+$D0391108 00000000
+$10391108 0000????
++Home Team Score Modifier
+%Credits: Code Master
+$E0018060 00175FB8
+$1039110C 0000????
++Home Team Start With Score Modifier
+%Credits: Code Master
+$E0028060 00175FB8
+$D039110C 00000000
+$1039110C 0000????
+!!
+!Both Team Codes:
++Infinite Outs
+%Credits: Code Master
+$E0018060 00175FB8
+$103910F8 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$E0028060 00175FB8
+$D03910F8 00000000
+$103910F8 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0028060 00175FB8
+$D03910F8 00000000
+$103910F8 00000001
++Infinite Balls
+%Credits: Code Master
+$E0018060 00175FB8
+$103910FC 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0028060 00175FB8
+$D03910FC 00000000
+$103910FC 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$E0028060 00175FB8
+$D03910FC 00000000
+$103910FC 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$E0028060 00175FB8
+$D03910FC 00000000
+$103910FC 00000001
++Infinite Strikes
+%Credits: Code Master
+$E0018060 00175FB8
+$10391100 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$E0028060 00175FB8
+$D0391100 00000000
+$10391100 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0028060 00175FB8
+$D0391100 00000000
+$10391100 00000001
+!!
+!Home Team Only Codes:
++Infinite Outs
+%Credits: Code Master
+$E0028060 00175FB8
+$E0010000 00391090
+$103910F8 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$E0038060 00175FB8
+$E0020000 00391090
+$D03910F8 00000000
+$103910F8 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0038060 00175FB8
+$E0020000 00391090
+$D03910F8 00000000
+$103910F8 00000001
++Infinite Balls
+%Credits: Code Master
+$E0028060 00175FB8
+$E0010000 00391090
+$103910FC 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0038060 00175FB8
+$E0020000 00391090
+$D03910FC 00000000
+$103910FC 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$E0038060 00175FB8
+$E0020000 00391090
+$D03910FC 00000000
+$103910FC 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$E0038060 00175FB8
+$E0020000 00391090
+$D03910FC 00000000
+$103910FC 00000001
++Infinite Strikes
+%Credits: Code Master
+$E0028060 00175FB8
+$E0010000 00391090
+$10391100 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$E0038060 00175FB8
+$E0020000 00391090
+$D0391100 00000000
+$10391100 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0038060 00175FB8
+$E0020000 00391090
+$D0391100 00000000
+$10391100 00000001
+!!
+!Away Team Only Codes:
++Infinite Outs
+%Credits: Code Master
+$E0028060 00175FB8
+$E0010001 00391090
+$103910F8 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$E0038060 00175FB8
+$E0020001 00391090
+$D03910F8 00000000
+$103910F8 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0038060 00175FB8
+$E0020001 00391090
+$D03910F8 00000000
+$103910F8 00000001
++Infinite Balls
+%Credits: Code Master
+$E0028060 00175FB8
+$E0010001 00391090
+$103910FC 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0038060 00175FB8
+$E0020001 00391090
+$D03910FC 00000000
+$103910FC 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$E0038060 00175FB8
+$E0020001 00391090
+$D03910FC 00000000
+$103910FC 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$E0038060 00175FB8
+$E0020001 00391090
+$D03910FC 00000000
+$103910FC 00000001
++Infinite Strikes
+%Credits: Code Master
+$E0028060 00175FB8
+$E0010001 00391090
+$10391100 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$E0038060 00175FB8
+$E0020001 00391090
+$D0391100 00000000
+$10391100 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0038060 00175FB8
+$E0020001 00391090
+$D0391100 00000000
+$10391100 00000001
+!!
+!Create A Position Player Codes:
++Hella Points Available
+%Credits: Code Master
+$10187FE8 0000270F
++Max Bat Avg.
+%Credits: Code Master
+$00EC6FB0 00000063
++Max Power
+%Credits: Code Master
+$00EC6FB1 00000063
++Max Clutch
+%Credits: Code Master
+$00EC6FB3 00000063
++Max Run
+%Credits: Code Master
+$00EC6FBA 00000063
++Max Arm
+%Credits: Code Master
+$00EC6FBB 00000063
++Max Fielding
+%Credits: Code Master
+$00EC6FBC 00000063
++Max Reaction
+%Credits: Code Master
+$00EC6FBE 00000063
+!!
+!Create A Pitcher Player Codes:
++Hella Points Available
+%Credits: Code Master
+$10187F3C 0000270F
++Max Stamina
+%Credits: Code Master
+$00EC6FC0 00000063
++Max ERA
+%Credits: Code Master
+$00EC6FC2 00000063
++Pitch 1-Max Speed
+%Credits: Code Master
+$00EC6FC7 00000063
++Pitch 1-Max Break
+%Credits: Code Master
+$00EC6FC8 00000063
++Pitch 1-Max Accuracy
+%Credits: Code Master
+$00EC6FC9 00000063
++Pitch 2-Max Speed
+%Credits: Code Master
+$00EC6FCB 00000063
++Pitch 2-Max Break
+%Credits: Code Master
+$00EC6FCC 00000063
++Pitch 2-Max Accuracy
+%Credits: Code Master
+$00EC6FCD 00000063
++Pitch 3-Max Speed
+%Credits: Code Master
+$00EC6FCF 00000063
++Pitch 3-Max Break
+%Credits: Code Master
+$00EC6FD0 00000063
++Pitch 3-Max Accuracy
+%Credits: Code Master
+$00EC6FD1 00000063
++Pitch 4-Max Speed
+%Credits: Code Master
+$00EC6FD3 00000063
++Pitch 4-Max Break
+%Credits: Code Master
+$00EC6FD4 00000063
++Pitch 4-Max Accuracy
+%Credits: Code Master
+$00EC6FD5 00000063
+!!

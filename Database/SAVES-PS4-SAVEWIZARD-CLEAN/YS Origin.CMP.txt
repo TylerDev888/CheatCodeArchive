@@ -1,0 +1,12 @@
+^2 = GameID: CUSA06976,CUSA06702,CUSA08297
+^3 = NAME: Ys Origin
+^SECONDLAYER: YES
+^4 = FILE: slot00\yso_[0-9]{2}.bin
++Super Max Level{<div Class="note"><h4>note</H4><ul Class="bullet-List"><li>grants <strong>999 Health</Strong> And <strong>super Damage</Strong> — Near One-Hit Kos, Even On Hard Mode.</Li><li>apply Only After Reaching The In-Game <strong>max Level</Strong>; Otherwise Stats May Reset On Level-Up.</Li><li>certain Story Checkpoints May Clear The Effect; If That Happens, <strong>save At A Shrine/Machine</Strong> And Reapply.</Li><li>this Can Trivialize Combat And May Affect Challenges/Achievements — Use At Your Own Risk.</Li><li>if You Notice Instability During Menus/Cutscenes, Temporarily Toggle The Code Off.</Li></Ul></Div>}
+%Credits: Zeraf3000
+$95000000 00000478
+$28000018 000003E7
++Super Max Level (300) (use This To Lower Your Lvl And Stats If You Have Problems With The Last True Boss Where You Can't Damage It)
+%Credits: Zeraf3000
+$95000000 00000478
+$28000018 0000012C

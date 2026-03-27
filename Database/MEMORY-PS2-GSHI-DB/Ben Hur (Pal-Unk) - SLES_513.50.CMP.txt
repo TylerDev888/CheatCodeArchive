@@ -1,0 +1,85 @@
+^3 = NAME: Ben Hur (Pal-Unk)
+^2 = GameID: SLES-51350
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01D04CC 001D04CF
+!!
+!All Character Codes:
++Body Cheat (Press R3+Down To Activate)
+%Credits: Codejunkies
+$D05986E2 0000FFBB
+$20178CB0 0805E36E
+$D05986E2 0000FFBB
+$20178AA4 1000001C
++Disable AI (Press R3+Up To Activate)
+%Credits: Codejunkies
+$D05986E2 0000FFEB
+$20178AA4 1000001C
+$D05986E2 0000FFEB
+$20178CB0 0805E3AA
++End Of The Race (Press L3+Up To Activate)
+%Credits: Codejunkies
+$D05986E2 0000FFED
+$20178CB0 0805E38A
+$D05986E2 0000FFED
+$20178AA4 1000001C
++Horse Has Infinite Energy
+%Credits: Codejunkies
+$20105228 00000000
++Horse Is Never Exhausted
+%Credits: Codejunkies
+$2012F9B8 00000000
++Infinite Health
+%Credits: Codejunkies
+$201524CC 240300FF
++Life Cheat (Press R3+Left To Activate)
+%Credits: Codejunkies
+$D05986E2 0000FF7B
+$20178CB0 0805E32E
+$D05986E2 0000FF7B
+$20178AA4 1000001C
++Mana Cheat (Press R3+Right To Activate)
+%Credits: Codejunkies
+$D05986E2 0000FFDB
+$20178CB0 0805E34E
+$D05986E2 0000FFDB
+$20178AA4 1000001C
++Quick Magic Regen
+%Credits: Codejunkies
+$20196D30 240300FF
++Restart AI (Press L3+Down To Activate)
+%Credits: Codejunkies
+$D05986E2 0000FFBD
+$20178CB0 0805E3CE
+$D05986E2 0000FFBD
+$20178AA4 1000001C
++This Code Must Always Be On (This Is To Activate The Cheat Codes Below)
+%Credits: Codejunkies
+$D05986E2 0000FFFF
+$20178AA4 0805E2B6
+$20178C68 00000000
+!!
+!Cheats - Use Only One of These:
++Body Cheat
+%Credits: Codejunkies
+$20178B10 00000000
+$20178CB0 0805E36E
+$20178C68 00000000
++Disable A.I.
+%Credits: Codejunkies
+$20178B10 00000000
+$20178CB0 0805E3AA
+$20178C68 00000000
++Life Cheat
+%Credits: Codejunkies
+$20178B10 00000000
+$20178CB0 00000000
+$20178C68 00000000
++Mana Cheat
+%Credits: Codejunkies
+$20178B10 00000000
+$20178CB0 0805E34E
+$20178C68 00000000
+!!
+

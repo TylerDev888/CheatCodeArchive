@@ -1,0 +1,85 @@
+^3 = NAME: City Crisis (Pal-Unk)
+^2 = GameID: SLES-50364
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0232B14 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0232B14 00232B17
+!!
+!Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$103D5CDC 0000028A
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E00100A2 303D5CDC
+$103D5CDC 000000A2
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0010145 303D5CDC
+$103D5CDC 00000145
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E00101E6 303D5CDC
+$103D5CDC 000001E6
+!!
+!Water Cannon Codes:
++Infinite Water Cannon
+%Credits: Codejunkies
+$103C474E 00003F80
++Lots Of Points
+%Credits: Codejunkies
+$103C4248 0000FFFF
++Never Have More Than 25% Water Cannon
+%Credits: Codejunkies
+$E0013E80 303C474E
+$103C474E 00003E80
++Never Have More Than 50% Water Cannon
+%Credits: Codejunkies
+$E0013F00 303C474E
+$103C474E 00003F00
++Never Have More Than 75% Water Cannon
+%Credits: Codejunkies
+$E0013F40 303C474E
+$103C474E 00003F40
++Saved In The Final Rescue
+%Credits: Codejunkies
+$103C42AC 0000001E
++Stop Timer
+%Credits: Codejunkies
+$103C4502 000017AF
++Stop Timer In Time Attack Mode
+%Credits: Codejunkies
+$103C4502 000000AF
++Zero Dead In The Final Rescue
+%Credits: Codejunkies
+$103C42A8 00000000
+!!
+!Water Rocket Codes:
++Infinite Water Rockets
+%Credits: Codejunkies
+$103C4744 00000005
++Never Have Any Water Rockets
+%Credits: Codejunkies
+$103C4744 00000000
++Never Have More Than 1 Water Rocket
+%Credits: Codejunkies
+$E0010001 303C4744
+$103C4744 00000001
++Never Have More Than 2 Water Rockets
+%Credits: Codejunkies
+$E0010002 303C4744
+$103C4744 00000002
++Never Have More Than 3 Water Rockets
+%Credits: Codejunkies
+$E0010003 303C4744
+$103C4744 00000003
++Never Have More Than 4 Water Rockets
+%Credits: Codejunkies
+$E0010004 303C4744
+$103C4744 00000004
+!!
+!!
+

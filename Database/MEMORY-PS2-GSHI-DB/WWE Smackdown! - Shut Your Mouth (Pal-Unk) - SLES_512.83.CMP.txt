@@ -1,0 +1,57 @@
+^3 = NAME: WWE Smackdown! - Shut Your Mouth (Pal-Unk)
+^2 = GameID: SLES-51283
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01155B4 001155B7
+!!
++Disable A.I
+%Credits: Codejunkies
+$201F831C 24020000
++Freeze Timer
+%Credits: Codejunkies
+$203D01B8 00000010
++Hyper Mode (Press Select+L2 To Activate; Select+R2 To Deactivate)
+%Credits: Codejunkies
+$D04EE1C2 0000FEFE
+$20100B2C 00000000
+$D04EE1C2 0000FDFE
+$20100B2C 0C04310C
++Infinite Smackdown Usage
+%Credits: Codejunkies
+$20152FF0 00000000
+!Ring Out Codes:
++100 Opponent Slobber Knocker
+%Credits: Codejunkies
+$10456DE4 00000064
++All Fmvs
+%Credits: Codejunkies
+$00432AEA 000000FF
++All Unlockable Items
+%Credits: Codejunkies
+$2042F028 FFFFFFFF
+$2042F02C FFFFFFFF
+$2042F030 FFFFFFFF
++Always Have Mike
+%Credits: Codejunkies
+$2013DED0 00000000
++Always Have Tables
+%Credits: Codejunkies
+$2013DE98 00000000
++Always Ring Out Count
+%Credits: Codejunkies
+$003D0334 00000001
++Max Ability Points
+%Credits: Codejunkies
+$202B2584 240203E7
+$202B257C 00000000
++Never Ring Out Count
+%Credits: Codejunkies
+$003D0334 00000000
++No Disqualification
+%Credits: Codejunkies
+$2015C0A0 03E00008
+$2015C0A4 00000000
+!!
+!!
+

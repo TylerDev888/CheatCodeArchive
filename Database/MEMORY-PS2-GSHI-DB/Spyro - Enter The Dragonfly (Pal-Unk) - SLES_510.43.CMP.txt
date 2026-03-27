@@ -1,0 +1,169 @@
+^3 = NAME: Spyro - Enter The Dragonfly (Pal-Unk)
+^2 = GameID: SLES-51043
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01169F4 001169F7
+!!
+!A Little Something Extra:
++Event Menu (Press R1+L1+R2+L2 To Activate)
+%Credits: Codejunkies
+$200FFF00 3C020032
+$200FFF04 8C425BE8
+$200FFF08 24030025
+$200FFF0C A0430004
+$200FFF10 24030070
+$200FFF14 08045A68
+$D042E402 0000F0FF
+$2011699C 0803FFC0
+$D042E402 0000FFFF
+$2011699C 24030070
++Fly Anywhere (Press R1+L1+R2+L2 To Activate)
+%Credits: Codejunkies
+$200FFF00 3C020032
+$200FFF04 8C425BE8
+$200FFF08 2403002F
+$200FFF0C A0430004
+$200FFF10 24030070
+$200FFF14 08045A68
+$D042E402 0000F0FF
+$2011699C 0803FFC0
+$D042E402 0000FFFF
+$2011699C 24030070
+!!
+!All Butterflies Codes:
++Cloud 9
+%Credits: Codejunkies
+$2034C644 0000000A
++Crop Circle Country
+%Credits: Codejunkies
+$2034C63C 0000000A
++Dragonfly Dojo
+%Credits: Codejunkies
+$2034C638 0000000A
++Dragons Realm
+%Credits: Codejunkies
+$2034C634 0000000A
++Honey March
+%Credits: Codejunkies
+$2034C64C 0000000A
++Jurassic Jungle
+%Credits: Codejunkies
+$2034C654 0000000A
++Luau Island
+%Credits: Codejunkies
+$2034C640 0000000A
++Monkey Monastery
+%Credits: Codejunkies
+$2034C648 0000000A
++Thieves Den
+%Credits: Codejunkies
+$2034C650 0000000A
+!!
+!Have Max Jewels:
++Cloud 9
+%Credits: Codejunkies
+$2034C668 00000320
++Crop Circle Country
+%Credits: Codejunkies
+$2034C660 00000320
++Dragon Fly Dojo
+%Credits: Codejunkies
+$2034C65C 000002BC
++Dragon Realms
+%Credits: Codejunkies
+$2034C658 00000320
++Honey March
+%Credits: Codejunkies
+$2034C670 00000320
++Jurrassic Jungle
+%Credits: Codejunkies
+$2034C678 00000320
++Luau Island
+%Credits: Codejunkies
+$2034C664 00000384
++Monkey Monastery
+%Credits: Codejunkies
+$2034C66C 00000384
++Thieves Dan
+%Credits: Codejunkies
+$2034C674 000002BC
+!!
+!Level Complete:
++Cloud 9
+%Credits: Codejunkies
+$2034C748 FFFFFFFF
++Crop Circle Country
+%Credits: Codejunkies
+$2034C708 FFFFFFFF
++Dragon Realms
+%Credits: Codejunkies
+$2034C6C8 FFFFFFFF
++Dragonfly Dojo
+%Credits: Codejunkies
+$2034C6E8 FFFFFFFF
++Honey March
+%Credits: Codejunkies
+$2034C788 FFFFFFFF
++Jurrassic Jungle
+%Credits: Codejunkies
+$2034C7C8 FFFFFFFF
++Luau Island
+%Credits: Codejunkies
+$2034C728 FFFFFFFF
++Monkey Monastery
+%Credits: Codejunkies
+$2034C768 FFFFFFFF
++Thieves Den
+%Credits: Codejunkies
+$2034C7A8 FFFFFFFF
+!!
+!Lives Codes:
++All Levels Unlocked
+%Credits: Codejunkies
+$2034C91C 01010101
+$2034C920 01010101
+$0034C924 00000001
++Infinite Lives
+%Credits: Codejunkies
+$0034C62C 00000063
++Never Have Any Lives
+%Credits: Codejunkies
+$E1010000 3034C62C
+$0034C62C 00000000
++Never Have More Than 1 Life
+%Credits: Codejunkies
+$E1010001 3034C62C
+$0034C62C 00000001
++Never Have More Than 10 Lives
+%Credits: Codejunkies
+$E101000A 3034C62C
+$0034C62C 0000000A
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E1010002 3034C62C
+$0034C62C 00000002
++Never Have More Than 3 Lives
+%Credits: Codejunkies
+$E1010003 3034C62C
+$0034C62C 00000003
++Never Have More Than 5 Lives
+%Credits: Codejunkies
+$E1010005 3034C62C
+$0034C62C 00000005
++No Damage
+%Credits: Codejunkies
+$2023D184 00000000
+!!
++All Breath
+%Credits: Codejunkies
+$201C4334 00000000
+$201C4340 00000000
++Disable Vsync
+%Credits: Codejunkies
+$201033DC 00000000
++Zoom
+%Credits: Codejunkies
+$203257AC 3F200000
+!!
+

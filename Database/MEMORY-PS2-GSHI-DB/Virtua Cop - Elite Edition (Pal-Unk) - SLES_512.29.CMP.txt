@@ -1,0 +1,69 @@
+^3 = NAME: Virtua Cop - Elite Edition (Pal-Unk)
+^2 = GameID: SLES-51229
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01001A4 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F01001A4 001001A7
+!!
+!Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$001D0ECA 00000009
++Infinite Health
+%Credits: Codejunkies
+$001D0F0E 00000009
++Max Score
+%Credits: Codejunkies
+$201D0ED8 05F5E0FF
++Max Score
+%Credits: Codejunkies
+$201D0F1C 05F5E0FF
++Never Have More Than 1 Health
+%Credits: Codejunkies
+$E1010001 301D0ECA
+$001D0ECA 00000001
++Never Have More Than 1 Health
+%Credits: Codejunkies
+$E1010001 301D0F0E
+$001D0F0E 00000001
++Never Have More Than 2 Health
+%Credits: Codejunkies
+$E1010002 301D0ECA
+$001D0ECA 00000002
++Never Have More Than 2 Health
+%Credits: Codejunkies
+$E1010002 301D0F0E
+$001D0F0E 00000002
++Never Have More Than 3 Health
+%Credits: Codejunkies
+$E1010003 301D0ECA
+$001D0ECA 00000003
++Never Have More Than 3 Health
+%Credits: Codejunkies
+$E1010003 301D0F0E
+$001D0F0E 00000003
++No Reload
+%Credits: Codejunkies
+$001FCECC 0000000A
++No Reload
+%Credits: Codejunkies
+$001FCF38 00000007
++Unlock Gallery
+%Credits: Codejunkies
+$20222E74 FFFFFFFF
+$20222E78 FFFFFFFF
++Unlock Random Mode
+%Credits: Codejunkies
+$0026EF1E 00000001
++X99 Multiplier
+%Credits: Codejunkies
+$001D0EF0 00000063
++X99 Multiplier
+%Credits: Codejunkies
+$001D0F34 00000063
+!!
+!!
+

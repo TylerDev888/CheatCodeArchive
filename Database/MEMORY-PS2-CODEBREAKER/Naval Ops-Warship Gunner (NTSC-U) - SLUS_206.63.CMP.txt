@@ -1,0 +1,59 @@
+^1 = HASH: E1D9B618
+^3 = NAME: Naval Ops-Warship Gunner
+^2 = GameID: SLUS_206.63
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00129227
+!!
+!Codes:
++Infinite Health
+%Credits: Code Master
+$200C0220 AC430054
+$200C0224 03E00008
+$200C0228 AFA30140
+$202A62A0 0C030088
+$202A62A4 240301F4
++Infinite Ammo (All Weapons)
+%Credits: Code Master
+$2031601C 00000000
++Infinite Repair Kits
+%Credits: Code Master
+$202C972C 00000000
++Infinite Points
+%Credits: Code Master
+$111BAF64 0000FFFF
++Max Points
+%Credits: Code Master
+$211BAF64 3B9AC9FF
++Infinite Budget
+%Credits: Code Master
+$111BAF68 0000FFFF
++Max Budget
+%Credits: Code Master
+$211BAF68 3B9AC9FF
++Admiral Ranking
+%Credits: Code Master
+$011BAF6E 00000010
++Max Air Tech Level
+%Credits: Code Master
+$011BD764 0000001E
++Max Engine Level
+%Credits: Code Master
+$011BD765 0000001E
++Max Metallurgy Level
+%Credits: Code Master
+$011BD766 0000001E
++Max Weapons Level
+%Credits: Code Master
+$011BD767 0000001E
++Max Electronics Level
+%Credits: Code Master
+$011BD768 0000001E
++Unlock All Areas
+%Credits: Code Master
+$211FA21C 00000003
++Unlock All Stages
+%Credits: Code Master
+$211FA220 0000000A
+!!

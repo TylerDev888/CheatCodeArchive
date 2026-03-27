@@ -1,0 +1,6 @@
+^2 = GameID: BLES01001
+^3 = NAME: Knights Contract
+^5 = APCRED: From SHAkA
+^4 = FILE: SAVEDATA.DAT
++Max Upgrade Points
+$write at 0x00000809:0x98967F00

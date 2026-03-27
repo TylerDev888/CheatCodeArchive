@@ -1,0 +1,21 @@
+^2 = GameID: NPEB00100
+^3 = NAME: Trine
+(By Dark Nacho)
+^4 = FILE: SAVEDAT2.BIN
++49 Xp *only Use It If You Have 10 Or More Xp
+$search "experience_shard_amount; setValue"
+$write next (33):0x203439
++999 Energy
+$search "player_energy":2
+$write next (16):0x3939392C3939392C393939
+$search "player_max_energy":2
+$write next (20):0x3939392C3939392C393939
+$search "player_max_energy_original":2
+$write next (29):0x3939392C3939392C393939
++999 Hp
+$search "player_max_hp":2
+$write next (16):0x3939392C3939392C393939
+$search "player_hp":2
+$write next (12):0x3939392C3939392C393939
+$search "player_max_hp_original":2
+$write next (25):0x3939392C3939392C393939

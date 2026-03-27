@@ -1,0 +1,776 @@
+^3 = NAME: Armored Core 2 (NTSC-U)
+^2 = GameID: SLUS-20014
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F0101BE4 00101BE7
++(M) Must Be On
+%Credits: InterAct
+$F0101BE4 000001FD
++Enable Code (Must Be On)
+%Credits: Code Master>Jackel
+$F0100008 00289A1B
+!!
++Allowed To Use Overweight Acs
+%Credits: Code Master>Jackel
+$103B8C84 00000001
+!Cash Codes:
++Dropping Like Flies
+%Credits: Codejunkies
+$10324DE4 00000000
+$10324F64 00000000
+$103250E4 00000000
+$10325264 00000000
+$103253E4 00000000
+$10325564 00000000
+$103256E4 00000000
+$10325864 00000000
+$103259E4 00000000
+$10325B64 00000000
+$10325CE4 00000000
+$10325E64 00000000
+$10325FE4 00000000
+$10326164 00000000
+$103262E4 00000000
+$10326464 00000000
+$103265E4 00000000
+$10326764 00000000
+$103268E4 00000000
+$10326A64 00000000
+$10326BE4 00000000
+$10326764 00000000
+$10327064 00000000
+$103271E4 00000000
++Have Infinite AP
+%Credits: Codejunkies
+$102BB8F4 00009999
++Have Infinite Back Ammo
+%Credits: Codejunkies
+$102BC238 00000063
+$102BC2B8 00000063
++Have Infinite Extension Ammo
+%Credits: Codejunkies
+$102BC3B8 00000063
++Have Infinite Inside Ammo
+%Credits: Codejunkies
+$102BC338 00000063
++Have Infinite Power
+%Credits: Codejunkies
+$102BB8F8 00006D60
++Have Infinite Right Ammo
+%Credits: Codejunkies
+$102BC1B8 000000B4
++Have Max Cash
+%Credits: Codejunkies
+$203B8C80 05F5E0FF
++Human Plus Upgrades
+%Credits: Codejunkies
+$103B8C86 0000FFFF
++More Back Weapons
+%Credits: Codejunkies
+$104138C6 00000101
+$204138C8 01010101
+$204138CC 01010101
+$10413886 00000101
+$20413888 01010101
+$2041388C 01010101
++Never Have More Than 5,000 Cash
+%Credits: Codejunkies
+$E0021388 303B8C80
+$E0010000 303B8C82
+$203B8C80 00001388
++Never Have More Than 10,000 Cash
+%Credits: Codejunkies
+$E0022710 303B8C80
+$E0010000 303B8C82
+$203B8C80 00002710
++Never Have More Than 25,000 Cash
+%Credits: Codejunkies
+$E00261A8 303B8C80
+$E0010000 303B8C82
+$203B8C80 000061A8
++Never Have More Than 50,000 Cash
+%Credits: Codejunkies
+$E002C350 303B8C80
+$E0010000 303B8C82
+$203B8C80 0000C350
++Never Have More Than 75,000 Cash
+%Credits: Codejunkies
+$E00224F8 303B8C80
+$E0010001 303B8C82
+$203B8C80 000124F8
++Never Have More Than 100,000 Cash
+%Credits: Codejunkies
+$E00286A0 303B8C80
+$E0010001 303B8C82
+$203B8C80 000186A0
++Overweight Mechs Are Allowed
+%Credits: Codejunkies
+$10412820 0000270F
+$104125FA 0000270F
+$10412488 0000270F
++Quick Arena Wins
+%Credits: Codejunkies
+$102BF1D4 00000000
++Start In 1St Place
+%Credits: Codejunkies
+$E0020001 203B8C94
+$E0010000 203B8C96
+$103B8C94 00000001
++Temperature Is Always 0
+%Credits: Codejunkies
+$102BB992 00000000
+!!
++Enemies Die Quickly
+%Credits: Code Master>Jackel
+$40324DE4 00190060
+$00000000 00000000
++Extra Ammo (All Weapons)
+%Credits: Code Master>Jackel
+$10148028 00000001
+!Extra Body Parts:
++Extra Arm Units L
+%Credits: Codejunkies
+$20413930 01010101
+$20413934 01010101
+$00413938 00000001
++Extra Arm Units R
+%Credits: Codejunkies
+$204138F0 01010101
+$204138F4 01010101
+$204138F8 01010101
+$204138FC 01010101
+$20413900 01010101
+$20413904 01010101
+$00413908 00000001
++Extra Arms
+%Credits: Codejunkies
+$20413670 01010101
+$20413674 01010101
+$20413678 01010101
+$2041367C 01010101
+$20413680 01010101
+$10413684 00000101
+$00413686 00000001
++Extra Back Units L
+%Credits: Codejunkies
+$204138B0 01010101
+$204138B4 01010101
+$204138B8 01010101
+$204138BC 01010101
+$204138C0 01010101
+$004138C5 00000001
++Extra Back Units R
+%Credits: Codejunkies
+$20413870 01010101
+$20413874 01010101
+$20413878 01010101
+$2041387C 01010101
+$20413880 01010101
+$00413885 00000001
++Extra Boosters
+%Credits: Codejunkies
+$204136F0 01010101
+$104136F4 00000101
+$004136F6 00000001
++Extra Extensions
+%Credits: Codejunkies
+$20413830 01010101
+$20413834 01010101
++Extra FCS
+%Credits: Codejunkies
+$20413730 01010101
+$20413734 01010101
+$10413738 00000101
++Extra Generators
+%Credits: Codejunkies
+$20413770 01010101
+$20413774 01010101
++Extra Heads
+%Credits: Codejunkies
+$204135F0 01010101
+$204135F4 01010101
+$204135F8 01010101
++Extra Inside Parts
+%Credits: Codejunkies
+$204137F0 01010101
+$104137F4 00000101
+$004137F6 00000001
++Extra Legs
+%Credits: Codejunkies
+$204136B0 01010101
+$204136B4 01010101
+$204136B8 01010101
+$204136BC 01010101
+$204136C0 01010101
+$204136C4 01010101
+$204136C8 01010101
+$104136CC 00000101
+$004136CE 00000001
++Extra Optional Parts
+%Credits: Codejunkies
+$20413970 01010101
+$20413974 01010101
+$20413978 01010101
+$2041397C 01010101
++Extra Radiators
+%Credits: Codejunkies
+$204137B0 01010101
+$204137B4 01010101
++Extra Torsos
+%Credits: Codejunkies
+$20413630 01010101
+$10413634 00000101
+!!
++Have All Arm Units R
+%Credits: Code Master>Jackel
+$404138F0 00060001
+$01010101 00000000
+$00413908 00000001
++Have All Arms
+%Credits: Code Master>Jackel
+$40413670 00050001
+$01010101 00000000
+$10413684 00000101
+$00413686 00000001
++Have All Back Units L
+%Credits: Code Master>Jackel
+$404138B0 00050001
+$01010101 00000000
+$004138C5 00000001
++Have All Back Units R
+%Credits: Code Master>Jackel
+$40413870 00050001
+$01010101 00000000
+$00413885 00000001
++Have All Heads
+%Credits: Code Master>Jackel
+$404135F0 00030001
+$01010101 00000000
++Have All Legs
+%Credits: Code Master>Jackel
+$404136B0 00070001
+$01010101 00000000
+$104136CC 00000101
+$004136CE 00000001
++Have All Misc Back Weapons
+%Credits: Code Master>Jackel
+$10413886 00000101
+$20413888 01010101
+$2041388C 01010101
+$104138C6 00000101
+$204138C8 01010101
+$204138CC 01010101
++Have All Optional Parts
+%Credits: Code Master>Jackel
+$40413970 00040001
+$01010101 00000000
++Have All Unread Mail
+%Credits: Code Master>Jackel
+$403B8D00 000F0001
+$01010101 00000000
++Have Max Cash
+%Credits: InterAct
+$103B8C80 0000E0FF
+$103B8C82 000005F5
+!Have Read Mail Codes:
++Mail 1
+%Credits: Code Master>Jackel
+$003B8D00 00000081
++Mail 2
+%Credits: Code Master>Jackel
+$003B8D01 00000082
++Mail 3
+%Credits: Code Master>Jackel
+$003B8D02 00000083
++Mail 4
+%Credits: Code Master>Jackel
+$003B8D03 00000084
++Mail 5
+%Credits: Code Master>Jackel
+$003B8D04 00000085
++Mail 6
+%Credits: Code Master>Jackel
+$003B8D05 00000086
++Mail 7
+%Credits: Code Master>Jackel
+$003B8D06 00000087
++Mail 8
+%Credits: Code Master>Jackel
+$003B8D07 00000088
++Mail 9
+%Credits: Code Master>Jackel
+$003B8D08 00000089
++Mail 10
+%Credits: Code Master>Jackel
+$003B8D09 0000008A
++Mail 11
+%Credits: Code Master>Jackel
+$003B8D0A 0000008B
++Mail 12
+%Credits: Code Master>Jackel
+$003B8D0B 0000008C
++Mail 13
+%Credits: Code Master>Jackel
+$003B8D0C 0000008D
++Mail 14
+%Credits: Code Master>Jackel
+$003B8D0D 0000008E
++Mail 15
+%Credits: Code Master>Jackel
+$003B8D0E 0000008F
++Mail 16
+%Credits: Code Master>Jackel
+$003B8D0F 00000090
++Mail 17
+%Credits: Code Master>Jackel
+$003B8D10 00000091
++Mail 18
+%Credits: Code Master>Jackel
+$003B8D11 00000092
++Mail 19
+%Credits: Code Master>Jackel
+$003B8D12 00000093
++Mail 20
+%Credits: Code Master>Jackel
+$003B8D13 00000094
++Mail 21
+%Credits: Code Master>Jackel
+$003B8D14 00000095
++Mail 22
+%Credits: Code Master>Jackel
+$003B8D15 00000096
++Mail 23
+%Credits: Code Master>Jackel
+$003B8D16 00000097
++Mail 24
+%Credits: Code Master>Jackel
+$003B8D17 00000098
++Mail 25
+%Credits: Code Master>Jackel
+$003B8D18 00000099
++Mail 26
+%Credits: Code Master>Jackel
+$003B8D19 0000009A
++Mail 27
+%Credits: Code Master>Jackel
+$003B8D1A 0000009B
++Mail 28
+%Credits: Code Master>Jackel
+$003B8D1B 0000009C
++Mail 29
+%Credits: Code Master>Jackel
+$003B8D1C 0000009D
++Mail 30
+%Credits: Code Master>Jackel
+$003B8D1D 0000009E
++Mail 31
+%Credits: Code Master>Jackel
+$003B8D1E 0000009F
++Mail 32
+%Credits: Code Master>Jackel
+$003B8D1F 000000A0
++Mail 33
+%Credits: Code Master>Jackel
+$003B8D20 000000A1
++Mail 34
+%Credits: Code Master>Jackel
+$003B8D21 000000A2
++Mail 35
+%Credits: Code Master>Jackel
+$003B8D22 000000A3
++Mail 36
+%Credits: Code Master>Jackel
+$003B8D23 000000A4
++Mail 37
+%Credits: Code Master>Jackel
+$003B8D24 000000A5
++Mail 38
+%Credits: Code Master>Jackel
+$003B8D25 000000A6
++Mail 39
+%Credits: Code Master>Jackel
+$003B8D26 000000A7
++Mail 40
+%Credits: Code Master>Jackel
+$003B8D27 000000A8
++Mail 41
+%Credits: Code Master>Jackel
+$003B8D28 000000A9
++Mail 42
+%Credits: Code Master>Jackel
+$003B8D29 000000AA
++Mail 43
+%Credits: Code Master>Jackel
+$003B8D2D 000000AB
++Mail 44
+%Credits: Code Master>Jackel
+$003B8D2E 000000AC
++Mail 45
+%Credits: Code Master>Jackel
+$003B8D2F 000000AD
++Mail 46
+%Credits: Code Master>Jackel
+$003B8D32 000000AE
++Mail 47
+%Credits: Code Master>Jackel
+$003B8D33 000000AF
++Mail 48
+%Credits: Code Master>Jackel
+$003B8D34 000000B0
++Mail 49
+%Credits: Code Master>Jackel
+$003B8D35 000000B1
++Mail 50
+%Credits: Code Master>Jackel
+$003B8D36 000000B2
++Mail 51
+%Credits: Code Master>Jackel
+$003B8D37 000000B3
++Mail 52
+%Credits: Code Master>Jackel
+$003B8D38 000000B4
++Mail 53
+%Credits: Code Master>Jackel
+$003B8D39 000000B5
++Mail 54
+%Credits: Code Master>Jackel
+$003B8D3A 000000B6
++Mail 55
+%Credits: Code Master>Jackel
+$003B8D3B 000000B7
+!!
+!Have Unread Mail Codes:
++Mail 1
+%Credits: Code Master>Jackel
+$003B8D00 00000001
++Mail 2
+%Credits: Code Master>Jackel
+$003B8D01 00000002
++Mail 3
+%Credits: Code Master>Jackel
+$003B8D02 00000003
++Mail 4
+%Credits: Code Master>Jackel
+$003B8D03 00000004
++Mail 5
+%Credits: Code Master>Jackel
+$003B8D04 00000005
++Mail 6
+%Credits: Code Master>Jackel
+$003B8D05 00000006
++Mail 7
+%Credits: Code Master>Jackel
+$003B8D06 00000007
++Mail 8
+%Credits: Code Master>Jackel
+$003B8D07 00000008
++Mail 9
+%Credits: Code Master>Jackel
+$003B8D08 00000009
++Mail 10
+%Credits: Code Master>Jackel
+$003B8D09 0000000A
++Mail 11
+%Credits: Code Master>Jackel
+$003B8D0A 0000000B
++Mail 12
+%Credits: Code Master>Jackel
+$003B8D0B 0000000C
++Mail 13
+%Credits: Code Master>Jackel
+$003B8D0C 0000000D
++Mail 14
+%Credits: Code Master>Jackel
+$003B8D0D 0000000E
++Mail 15
+%Credits: Code Master>Jackel
+$003B8D0E 0000000F
++Mail 16
+%Credits: Code Master>Jackel
+$003B8D0F 00000010
++Mail 17
+%Credits: Code Master>Jackel
+$003B8D10 00000011
++Mail 18
+%Credits: Code Master>Jackel
+$003B8D11 00000012
++Mail 19
+%Credits: Code Master>Jackel
+$003B8D12 00000013
++Mail 20
+%Credits: Code Master>Jackel
+$003B8D13 00000014
++Mail 21
+%Credits: Code Master>Jackel
+$003B8D14 00000015
++Mail 22
+%Credits: Code Master>Jackel
+$003B8D15 00000016
++Mail 23
+%Credits: Code Master>Jackel
+$003B8D16 00000017
++Mail 24
+%Credits: Code Master>Jackel
+$003B8D17 00000018
++Mail 25
+%Credits: Code Master>Jackel
+$003B8D18 00000019
++Mail 26
+%Credits: Code Master>Jackel
+$003B8D19 0000001A
++Mail 27
+%Credits: Code Master>Jackel
+$003B8D1A 0000001B
++Mail 28
+%Credits: Code Master>Jackel
+$003B8D1B 0000001C
++Mail 29
+%Credits: Code Master>Jackel
+$003B8D1C 0000001D
++Mail 30
+%Credits: Code Master>Jackel
+$003B8D1D 0000001E
++Mail 31
+%Credits: Code Master>Jackel
+$003B8D1E 0000001F
++Mail 32
+%Credits: Code Master>Jackel
+$003B8D1F 00000020
++Mail 33
+%Credits: Code Master>Jackel
+$003B8D20 00000021
++Mail 34
+%Credits: Code Master>Jackel
+$003B8D21 00000022
++Mail 35
+%Credits: Code Master>Jackel
+$003B8D22 00000023
++Mail 36
+%Credits: Code Master>Jackel
+$003B8D23 00000024
++Mail 37
+%Credits: Code Master>Jackel
+$003B8D24 00000025
++Mail 38
+%Credits: Code Master>Jackel
+$003B8D25 00000026
++Mail 39
+%Credits: Code Master>Jackel
+$003B8D26 00000027
++Mail 40
+%Credits: Code Master>Jackel
+$003B8D27 00000028
++Mail 41
+%Credits: Code Master>Jackel
+$003B8D28 00000029
++Mail 42
+%Credits: Code Master>Jackel
+$003B8D29 0000002A
++Mail 43
+%Credits: Code Master>Jackel
+$003B8D2D 0000002B
++Mail 44
+%Credits: Code Master>Jackel
+$003B8D2E 0000002C
++Mail 45
+%Credits: Code Master>Jackel
+$003B8D2F 0000002D
++Mail 46
+%Credits: Code Master>Jackel
+$003B8D32 0000002E
++Mail 47
+%Credits: Code Master>Jackel
+$003B8D33 0000002F
++Mail 48
+%Credits: Code Master>Jackel
+$003B8D34 00000030
++Mail 49
+%Credits: Code Master>Jackel
+$003B8D35 00000031
++Mail 50
+%Credits: Code Master>Jackel
+$003B8D36 00000032
++Mail 51
+%Credits: Code Master>Jackel
+$003B8D37 00000033
++Mail 52
+%Credits: Code Master>Jackel
+$003B8D38 00000034
++Mail 53
+%Credits: Code Master>Jackel
+$003B8D39 00000035
++Mail 54
+%Credits: Code Master>Jackel
+$003B8D3A 00000036
++Mail 55
+%Credits: Code Master>Jackel
+$003B8D3B 00000037
+!!
++Infinite Ammo (All Weapons)
+%Credits: Code Master>Jackel
+$2014802C 00000000
++Infinite AP
+%Credits: InterAct
+$102BB8F4 0000270F
++Infinite AP
+%Credits: Code Master>Jackel
+$102BB8F4 00009C3C
++Infinite Money
+%Credits: Code Master>Jackel
+$103B8C80 0000FFFF
++Infinite Power
+%Credits: Code Master>Jackel
+$102BB8F8 00009C3C
++Infinite Right Ammo
+%Credits: Code Master>Jackel
+$102BC1B8 000003E7
++Max Back Ammo
+%Credits: Code Master>Jackel
+$102BC23A 00000063
+$102BC2BA 00000063
++Max Extension Ammo
+%Credits: Code Master>Jackel
+$102BC3BA 00000063
++Max Infinite Back Ammo
+%Credits: Code Master>Jackel
+$202BC238 00630063
+$202BC2B8 00630063
++Max Infinite Extension Ammo
+%Credits: Code Master>Jackel
+$202BC3B8 00630063
++Max Infinite Inside Ammo
+%Credits: Code Master>Jackel
+$202BC338 00630063
++Max Infinite Right Ammo
+%Credits: Code Master>Jackel
+$202BC1B8 03E703E7
++Max Inside Ammo
+%Credits: Code Master>Jackel
+$102BC33A 00000063
++Max Right Ammo
+%Credits: Code Master>Jackel
+$102BC1BA 000003E7
++Menu BGM Modifier
+%Credits: AceKombat
+$2C8BD1BC 30D22F??
+!Mission Modifier Codes:
++Mission 1 Modifier
+$0134E245 000000??
+!!
+!Parts For Sale In Shop Codes:
++Have All Arm Units L
+%Credits: Code Master>Jackel
+$20414130 01010101
+$20414134 01010101
+$00414138 00000001
++Have All Arm Units R
+%Credits: Code Master>Jackel
+$404140F0 00060001
+$01010101 00000000
+$00414108 00000001
++Have All Arms
+%Credits: Code Master>Jackel
+$40413E70 00050001
+$01010101 00000000
+$10413E84 00000101
+$00413E86 00000001
++Have All Back Units L
+%Credits: Code Master>Jackel
+$404140B0 00050001
+$01010101 00000000
+$004140C5 00000001
++Have All Back Units R
+%Credits: Code Master>Jackel
+$40414070 00050001
+$01010101 00000000
+$00414085 00000001
++Have All Boosters
+%Credits: Code Master>Jackel
+$20413EF0 01010101
+$10413EF4 00000101
+$00413EF6 00000001
++Have All Extensions
+%Credits: Code Master>Jackel
+$20414030 01010101
+$20414034 01010101
++Have All FCS
+%Credits: Code Master>Jackel
+$20413F30 01010101
+$20413F34 01010101
+$10413F38 00000101
++Have All Generators
+%Credits: Code Master>Jackel
+$20413F70 01010101
+$20413F74 01010101
++Have All Heads
+%Credits: Code Master>Jackel
+$40413DF0 00030001
+$01010101 00000000
++Have All Inside Parts
+%Credits: Code Master>Jackel
+$20413FF0 01010101
+$10413FF4 00000101
+$00413FF6 00000001
++Have All Legs
+%Credits: Code Master>Jackel
+$40413EB0 00070001
+$01010101 00000000
+$10413ECC 00000101
+$00413ECE 00000001
++Have All Optional Parts
+%Credits: Code Master>Jackel
+$40414170 00040001
+$01010101 00000000
++Have All Radiators
+%Credits: Code Master>Jackel
+$20413FB0 01010101
+$20413FB4 01010101
++Have All Torsos
+%Credits: Code Master>Jackel
+$20413E30 01010101
+$10413E34 00000101
++Have More Misc Back Weapons
+%Credits: Code Master>Jackel
+$104140C6 00000101
+$204140C8 01010101
+$204140CC 01010101
+$10414086 00000101
+$20414088 01010101
+$2041408C 01010101
+!!
++Start In 1St Place
+%Credits: Codejunkies
+$D03B8C94 00300001
+$103B8C94 00000001
++Start On Last Mission
+%Credits: Code Master>Jackel
+$D03B8C88 00200020
+$203B8C88 00000021
++Start On Mission Modifier (00-21)
+%Credits: Code Master>Jackel
+$D03B8C88 00000000
+$203B8C88 000000??
+!System Info Codes:
++Have Over 100% Achievement
+%Credits: Code Master>Jackel
+$103B8C98 00000044
++Max Challenge
+%Credits: Code Master>Jackel
+$103B8C90 000003E7
++Max Sorties
+%Credits: Code Master>Jackel
+$103B8C8C 000003E7
++Max Successful Sorties
+%Credits: Code Master>Jackel
+$103B8C8E 000003E7
++Max Victories
+%Credits: Code Master>Jackel
+$103B8C92 000003E7
+!!
++Unlock All Missions
+%Credits: Code Master>Jackel
+$103B8C86 0000FFFF
+$103B8C88 00000021
+!!
+

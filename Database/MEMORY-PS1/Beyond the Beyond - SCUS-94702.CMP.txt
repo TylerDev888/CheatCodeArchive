@@ -1,0 +1,103 @@
+^1 = Hash: F6981E48B3F6AD44
+^2 = GameID: SCUS-94702
+^3 = NAME: Beyond The Beyond
+!Reandom Battles:
++Slow Down Encounters (Based on games Battle Machanics)
+$8008E74C [BBB]
+$8008E74E 0005
++Encounters Speed x2 
+$8008E71C 0002
+$8008E71E 252C
++Battles Happen At Every ## Steps
+$8006E040 [PI]
+$8006E042 2AA1
+$8006E044 0003
+$8006E046 1020
+!!
+!After Battle Money And EXP Codes:
+!Non-Visual Battle End Screen:
++Gain XX Money After Battle
+$90036AD0 [MONEYA]
++Gain XX Exp After Battle
+$90036B34 [EXPALL]
+!!
+!Max Value After Battle Non-Visual:
++Max Exp (Max Level After 1 Battle - holding X for a bit)
+$9007772C AC460040
++Max Money
+$9007778C AC253884
+!!
+!Gain After Battle (Visual Shows On Battle Screen)
+!Gain Per On Screen Enemies:
++Gain XX Money MOD
+$90042430 3C018010
+$90042434 8C2E9B0C
+$90042438 [VIEMOD]
+$900424C8 3C018010
+$900424CC 8C2E9B0C
+$900424D0 [VIEMOD]
+$90042560 3C018010
+$90042564 8C2E9B0C
+$90042568 [VIEMOD]
++Gain XX EXP MOD
+$900423F8 3C018010
+$90042400 8C299B08
+$90042404 [VIEMOD]
+$90042490 3C018010
+$90042498 8C299B08
+$9004249C [VIEMOD]
+$90042528 3C018010
+$90042530 8C299B08
+$90042534 [VIEMOD]
+!!
+!!
+^6 = MODS:
+[BBB]
+VALUE>INFO
+2842	srl a1,a1,1 = half speed
+2882	srl a1,a1,2 = quarter speed
+28C2	srl a1,a1,3 = one-eighth speed
+[/BBB]
+[PI]
+VALUE>INFO
+003C	60
+0032	50
+0014	20
+0001	1
+[/PI]
+[VIEMOD]
+VALUE>INFO
+3402[AMOUNT:270F:HEX:BIG]    Pick This if you want to Set a Fixed Value
+00021040    x2
+00021080    x4
+000210C0    x8
+00021100    x16
+00021140    x32
+00021180    x64
+000211C0    x128
+00021200    x256
+[/VIEMOD]
+[MONEY]
+VALUE>INFO
+00042040 x2
+00042080 x4
+000420C0 x8
+00042100 x16
+00042140 x32
+00042180 x64
+000421C0 x128
+00042200 x256
+2404[AMOUNT:270F:HEX:BIG]    Pick This if you want to Set a Fixed Value
+[\MONEY]
+[EXPALL]
+VALUE>INFO
+00052840 x2
+00052880 x4
+000528C0 x8
+00052900 x16
+00052940 x32
+00052980 x64
+000529C0 x128
+00052A00 x256
+2405[AMOUNT:270F:HEX:BIG]    Pick This if you want to Set a Fixed Value
+[/EXPALL]

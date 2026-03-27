@@ -1,0 +1,23 @@
+^3 = NAME: Disney/Pixar's Toy Story 3 (PAL-M6)
+^2 = GameID: SLES-55622
++Go Through Objects And Walls {<I>When Active, Items Can&#39;T Be Collected</I>}
+%Credits: luc-ita
+$20512E40 03E00008
+$20512E44 00000000
++Jump And Walk In Mid-Air {<I>Activate With R1+X<Br>To Deactivate Or Go Down Use The Square Button Or The Triangle Button<Br>Or Hit Something With The Character&#39;S Head<Br>Don&#39;T Falling From Too High Or You&#39;Ll &Quot;Die&Quot;</I>}
+%Credits: luc-ita
+$D0B09E94 00000001
+$2049864C FC890068
+$D0B09E94 00000008
+$2049864C FC890068
+$D0B09E94 00002004
+$2049864C 00000000
++Unlock Content With Any Amount Of Money
+%Credits: luc-ita
+$20345084 00000000
+$202D69B8 00000000
++You Can Activate Or Deactivate Any Cheat, Even If It Has Not Been Unlocked {<I>During The Game In The Cheats Section You Can Also Activate The Cheats Where It Says ???</I>}
+%Credits: luc-ita
+$2065A0A4 00000000
+!!
+

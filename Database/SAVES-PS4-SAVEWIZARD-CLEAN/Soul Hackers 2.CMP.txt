@@ -1,0 +1,460 @@
+^2 = GameID: CUSA23630, CUSA27419, CUSA27729, CUSA27730
+^3 = NAME: Soul Hackers 2
+^5 = APCRED:
+^4 = FILE: data\.dat
+!Demon Skills
++Edit A Demon's Skill 1
+$search 0x224E616B616D6153746F636B22
+$search next 0x22536B696C6C4964223A5B:[Demon]
+$set pointer:pointer+11
+$delete next (0):until 0x2C
+$insert next (0):"[Skill]"
++Edit A Demon's Skill 2
+$search 0x224E616B616D6153746F636B22
+$search next 0x22536B696C6C4964223A5B:[Demon]
+$search next 0x2C
+$set pointer:pointer+1
+$delete next (0):until 0x2C
+$insert next (0):"[Skill]"
++Edit A Demon's Skill 3
+$search 0x224E616B616D6153746F636B22
+$search next 0x22536B696C6C4964223A5B:[Demon]
+$search next 0x2C:(2)
+$set pointer:pointer+1
+$delete next (0):until 0x2C
+$insert next (0):"[Skill]"
++Edit A Demon's Skill 4
+$search 0x224E616B616D6153746F636B22
+$search next 0x22536B696C6C4964223A5B:[Demon]
+$search next 0x2C:(3)
+$set pointer:pointer+1
+$delete next (0):until 0x2C
+$insert next (0):"[Skill]"
++Edit A Demon's Skill 5
+$search 0x224E616B616D6153746F636B22
+$search next 0x22536B696C6C4964223A5B:[Demon]
+$search next 0x2C:(4)
+$set pointer:pointer+1
+$delete next (0):until 0x2C
+$insert next (0):"[Skill]"
++Edit A Demon's Skill 6
+$search 0x224E616B616D6153746F636B22
+$search next 0x22536B696C6C4964223A5B:[Demon]
+$search next 0x2C:(5)
+$set pointer:pointer+1
+$delete next (0):until 0x5D
+$insert next (0):"[Skill]"
+!!
++Change A Demon's Race
+$search 0x224E616B616D6153746F636B22
+$search next 0x7B224964223A:[Demon]
+$set pointer:pointer+6
+$delete next (0):until 0x2C
+$insert next (0):"[Race]"
+^6 = MODS:
+[Demon]
+Value>Demon
+1	Demon 1
+2	Demon 2
+3	Demon 3
+4	Demon 4
+5	Demon 5
+6	Demon 6
+7	Demon 7
+8	Demon 8
+9	Demon 9
+10	Demon 10
+11	Demon 11
+12	Demon 12
+13	Demon 13
+14	Demon 14
+15	Demon 15
+16	Demon 16
+17	Demon 17
+18	Demon 18
+[/Demon]
+[Skill]
+Value>Skill Name
+1000	Agi
+1001	Agilao
+1002	Agidyne
+1003	Maragi
+1004	Maragion
+1005	Maragidyne
+1006	FireBreath
+1007	Hellfire
+1008	Karikara Kokura
+1010	Bufu
+1011	Bufula
+1012	Bufudyne
+1013	Mabufu
+1014	Mabufula
+1015	Mabufudyne
+1016	IceBreath
+1017	GlacialBlast
+1020	Zio
+1021	Zionga
+1022	Ziodyne
+1023	Mazio
+1024	Mazionga
+1025	Maziodyne
+1026	Shock
+1027	Wild Lightning
+1030	Zan
+1031	Zanma
+1032	Zandyne
+1033	Mazan
+1034	Mazanma
+1035	Mazandyne
+1036	Wind breath
+1037	Tornado
+1040	Life Drain
+1041	Life Leech
+1042	Megido
+1043	Megidola
+1044	Megidolaon
+1045	Spirit Drain
+1050	Arm Chopper
+1051	Corkscrew
+1052	Bamboo Slice
+1053	Heat Wave
+1054	Atom Slicer
+1055	Megaton Press
+1056	Rampage
+1057	Deathbound
+1058	Overlord (34mp)
+1059	Defense Kuzushi
+1060	Meat Bullet
+1061	Eat Whole
+1062	Torpor Strike
+1063	Blight
+1064	Double Fangs
+1065	Frenzied Dance
+1066	Fang Breaker
+1067	Lunge
+1068	Wraith's Fang
+1069	Stomach Blow
+1070	Thunder Kick
+1071	Divine Claw
+1072	Empty Wave
+1080	Needle Shot
+1081	Needle Rush
+1082	Divine Shot
+1083	Wave Shot
+1084	Blast Arrow
+1085	Myriad Strikes
+1086	Freikugel
+1087	Stun Needle
+1088	Hypnosis Needle
+1089	Taunting Shot
+1090	Fusillade
+1091	Six-Realm Strike
+1092	Heaven's Bow
+1093	Sure Vengeance
+1100	Poisma
+1101	Stun Gaze
+1102	Dormina
+1103	Demonic Gaze
+1104	MakaJama
+1105	Poison Breath
+1106	Demon Teeth Grind
+1107	Lullaby
+1108	High Pressure
+1109	MakaJamaon
+1130	Dia
+1131	Diarama
+1132	Diarahan
+1133	Media
+1134	Mediarama
+1135	Mediarahan
+1136	Eternal Prayer
+1137	Patra
+1138	Me Patra
+1139	Lourdes
+1140	Me Lourdes
+1141	Amrita
+1142	Recarm
+1143	Samerecarm
+1150	Tarukaja
+1151	Rakukaja
+1152	Sukukaja
+1153	Static Rook Anaguma
+1154	Bloodlust
+1155	Luster Candy
+1156	Dekunda
+1157	Tarunda
+1158	Rakunda
+1159	Sukunda
+1160	Roar
+1161	Fog Breath
+1162	Debilitate
+1163	Dekaja
+1164	Tetrakarn
+1165	Makarakarn
+1166	Charge
+1167	Concentrate
+1168	Consecration
+1169	Fire Break
+1170	Ice Break
+1171	Elec Break
+1172	Force Break
+1173	Flame Wall
+1174	Ice Wall
+1175	Volt Wall
+1176	Force Wall
+1178	Trafuri
+1181	Acid Rain
+1182	War Cry
+1183	Prideful Boost
+1184	Trance
+1185	Megido Trance
+1186	Mystic Tempatation
+1187	Stack Bonus
+1200	Overlord (20mp)
+1201	Roma Fulmen
+1202	Megido Arc
+1203	Multi-Strike
+1204	Hellish Geyser
+1205	Grand Blessing
+1206	Oneness Of Body
+1207	Rampant Wildfire
+1208	Eclipse
+1209	Soul Hax
+1300	Resist Phys
+1301	Null Phys
+1302	Resist Gunfire
+1303	Null Gunfire
+1304	Resist Fire
+1305	Null Fire
+1306	Resist Ice
+1307	Null Ice
+1308	Resist Elect
+1309	Null Elect
+1310	Resist Force
+1311	Null Force
+1312	Resist Ruin
+1313	Null Ruin
+1314	Dodge physical
+1315	Dodge physical EX
+1316	Dodge Gunfire
+1317	Dodge Gunfire EX
+1318	Dodge Fire
+1319	Dodge Fire EX
+1320	Dodge Ice
+1321	Dodge Ice EX
+1322	Dodge Electric
+1323	Dodge Electric EX
+1324	Dodge Force
+1325	Dodge Force EX
+1326	Omni Dodge
+1340	Resist Mind
+1341	Resist Body
+1342	Null Mind
+1343	Null Body
+1347	Resist Ailments
+1349	Attack Master
+1350	Defense Master
+1351	Speed Master
+1352	Tarukauto
+1353	Rakukauto
+1354	SukuKauto
+1355	Life Bonus
+1356	Life Gain
+1357	Life Surge
+1358	Mana Bonus
+1359	Mana Gain
+1360	Mana Surge
+1361	Counter
+1362	Retaliate
+1363	Avenge
+1364	Phys/Gun Pierce
+1368	Expert's Advice
+1370	Last-Ditch Effort
+1379	Stagehand's Stealth
+1380	Kabukimono
+1382	Life Drainage
+1385	Life Aid
+1386	Victory Cry
+1387	Mana Aid
+1395	Firm Stance
+1397	Renewal
+1398	High Renewal
+1406	Yashio Ori no Sake
+1407	Null Poison
+1408	Null Paralysis
+1409	Null Sleep
+1410	Null Dread
+1411	Null Seal
+1412	Qigong
+1479	Sabbath Striker
+1480	Sabbath Healer
+1481	Sabbath Erosion
+1482	Sabbath Hunter
+1483	Sabbath Slumber
+1484	Sabbath Rally
+1485	Sabbath Bounty
+1486	Sabbath Toxin
+1487	Sabbath Raze
+1488	Sabbath Mirror
+1489	Sabbath Drain
+1491	Sabbath Love
+[/Skill]
+[Race]
+Value>Name>Race
+1	B Hawaii Frost	Element
+2	Melon Frost	Element
+3	Lemon Frost	Element
+4	Strawberry Frost	Element
+5	Milk-kin Frost	Element
+6	Ara Mitama	Mitama
+7	Nigi Mitama	Mitama
+8	Kushi Mitama 	Mitama
+9	Saki Mitama	Mitama
+10	Masakado	Hero
+11	Shiva	Fury
+12	Sandalphon	Herald
+13	Fortuna	Megami
+14	Loki 	Tyrant
+15	Norn	Megami
+16	Saturnus	Vile
+17	Baal	Deity
+18	Zaou-Gongen	Fury
+19	Huang Long	Dragon
+20	Thor	Kishin
+21	Futsunushi	Kishin
+22	Kali	Femme
+23	Titania	Fairy
+24	Oberon	Fairy
+25	Lilith	Night
+26	Xuan Wu	Avatar
+27	Kudlak	Night
+28	Rangda	Femme
+29	Scathach	Megami
+30	Qing Long	Dragon
+31	Girimekhala	Jaki
+32	Barong	Avatar
+33	Fafnir	Drake
+34	Nezha Taizi	Genma
+35	Kresnik	Genma
+36	Cu Chulainn	Genma
+37	Hanuman	Genma
+38	Mokoi	Night
+39	Ganesha	Yoma
+40	Power	Divine
+41	Baihu	Holy
+42	Rakshasa	Jaki
+43	Yamata No Orochi	Snake
+44	Mothman	Wilder
+45	Hare of Inaba	Beast
+46	Anzu	Raptor
+47	Garuda	Avian
+48	Jack O Lantern	Fairy
+49	Yatagarasu	Avian
+50	Tzitzimitl	Tyrant
+51	Zhuque	Avian
+52	Pixie	Fairy
+53	Muu Shuwuu	Raptor
+54	Angel	Divine
+55	Asparas	Yoma
+56	Nekomata	Beast
+57	Succubus	Night
+58	Jack Frost	Fairy
+59	Basilisk	Drake
+60	King Frost	Tyrant
+61	Hariti	Lady
+62	Turbo Granny	Rumor
+63	Valkyrie	Yoma
+64	Silky 	Fairy
+65	Onmoraki	Raptor
+66	Koropokkur	Jirae
+67	Sandman	Night
+68	Poltergeist	Rumor
+69	Mad Gasser	Rumor
+70	Doppleganger	Rumor
+71	Mermaid	Femme
+72	Leanan Sidhe	Femme
+73	Lamia	Femme
+74	Dakini 	Femme
+75	Sukuna-Hikona	Kishin
+76	Take-Minakata	Kishin
+77	Oyamatsumi	Kishin
+78	Okuninushi	Kishin
+79	Zhen	Raptor
+80	Gurulu	Raptor
+81	Kurama Tengu	Genma
+82	Chernobog	Reaper
+83	Mot	Reaper
+84	Gremlin	Jaki
+85	Loa	Jaki
+86	Ippon-Datara	Jaki
+87	Black Forest	Jaki
+88	Mishaguji	Vile
+89	Baphomet	Vile
+90	Pazuzu 	Vile
+91	Mara	Tyrant
+92	Zhu Tun She	Drake
+93	Seth	Vile
+94	Vasuki	Drake
+95	Kinmamon	Megami
+96	Ishtar	Megami
+97	Parvati	Megami
+98	Makami 	Avatar
+99	Anubis	Avatar
+100	Cironnup	Holy
+101	Shiisa	Holy
+102	Chimera	Holy
+103	Unicorn	Holy
+104	Halphas	Fallen
+105	Andras	Fallen
+106	Orobas	Fallen
+107	Decarabia	Fallen
+108	Faluros	Fallen
+109	Melchizedek	Herald
+110	Armaiti	Herald
+111	Sraosha	Herald
+112	Metatron	Herald
+113	Cybele	Lady
+114	Skadi	Lady
+115	Inanna	Lady
+116	Kodama	Jirae
+117	Sudama	Jirae
+118	Tsuchigumo	Jirae
+119	Archangel	Divine
+120	Principality	Divine
+121	Dominion	Divine
+122	Throne	Divine
+123	Dionysus	Divine
+124	Asura	Fury
+125	Surt	Tyrant
+126	Amon	Tyrant
+127	Inugami	Beast
+128	Orthrus	Beast
+129	Cerberus	Beast
+130	Thoth	Deity
+131	Arahabaki	Deity
+132	Zeus	Deity
+133	Ardha	Deity
+134	Yoshitsune	Hero
+135	Mithras	Tyrant
+136	Lilam	Night
+137	Incubus	Night
+138	Bicorn	Wilder
+139	Bug	Wilder
+140	Nue 	Wilder
+141	Fenrir	Wilder
+142	Setanta	Fairy
+143	Koppa Tengu	Yoma
+144	Nozuchi	Snake
+145	Vouivre	Snake
+146	Yurlungur	Snake
+147	Quezalcoatl	Dragon
+148	Vritra	Dragon
+149	Ananta	Dragon
+150	Feng Huang	Avian
+151	Thunderbird	Avian
+152	Dormarth	Beast
+153	Anahita	Megami
+154	Satan	Tyrant
+155	Nemissa	Cyber
+156	Hell Biker 	Rumor
+[/Race]

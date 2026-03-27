@@ -1,0 +1,105 @@
+^1 = HASH: 85E994DD
+^3 = NAME: R-Type Final
+^2 = GameID: SLUS_207.80
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001223EF
+!!
+!Codes:
++Quick Score Gain
+%Credits: Code Master
+$102E6744 0000FFFF
++Max Score
+%Credits: Code Master
+$202E6744 0098967F
++Infinite Credits
+%Credits: Code Master
+$202E6754 00000063
++Infinite Lives
+%Credits: Code Master
+$202E6758 00000009
++Extra Lives
+%Credits: Code Master
+$10182508 00000001
++Unlock All Gallery
+%Credits: Code Master
+$202F354C FFFFFFFF
++Instant Beam High Charge
+%Credits: Code Master
+$20545790 43480000
++Always Have Missles
+%Credits: Code Master
+$2054636C 00000001
++Max Dose
+%Credits: Code Master
+$20546390 45BB8000
++Invincible{With This Code, Enemies Die Upon You Running Into Them. (Not Bosses/Sub Bosses.)}
+%Credits: Code Master
+$101C5036 00001000
+$101C5E66 00001000
+$101C5F86 00001000
+$101C60BE 00001000
+$101C6F2A 00001000
++Invincible (Alternate)
+%Credits: Code Master
+$2030746C 00000001
++Enter R Museum To Unlock All Ships
+%Credits: Code Master
+$2015CF7C 90410000
+$2015CF80 00230825
+$2015CF84 A0410000
+$2015CF88 24020000
+!!
+!Total Record Codes:
++Max Total Play Time
+%Credits: Code Master
+$202F2C9C ????????
++Max Total Wave Cannon Energy Points
+%Credits: Code Master
+$202F2CF4 05F5E0FF
++Max Special Weapon Usage Times
+%Credits: Code Master
+$202F2CF8 0001869F
++Max Cleared Times
+%Credits: Code Master
+$202F2D50 0000270F
++Max Launches Times
+%Credits: Code Master
+$202F2D58 0001869F
+!!
+!AI Record Codes:
++Current Win Streak Modifier
+%Credits: Code Master
+$202F2D00 ????????
++Current Losing Streak Modifier
+%Credits: Code Master
+$202F2D04 ????????
++Longest Win Streak Modifier
+%Credits: Code Master
+$202F2D08 ????????
++Longest Losing Streak Modifier
+%Credits: Code Master
+$202F2D0C ????????
++Record VS CPU W Modifier
+%Credits: Code Master
+$202F2D10 ????????
++Record VS CPU L Modifier
+%Credits: Code Master
+$202F2D14 ????????
++Record VS CPU % Modifier
+%Credits: Code Master
+$202F2D18 ????????
++Record VS Pilot W Modifier
+%Credits: Code Master
+$202F2D1C ????????
++Record VS Pilot L Modifier
+%Credits: Code Master
+$202F2D20 ????????
++Record VS Pilot % Modifier
+%Credits: Code Master
+$202F2D24 ????????
++Perfect Wins Modifier
+%Credits: Code Master
+$202F2D28 ????????
+!!

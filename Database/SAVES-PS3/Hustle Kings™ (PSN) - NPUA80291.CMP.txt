@@ -1,0 +1,7 @@
+^2 = GameID: NPUA80291
+^3 = NAME: Hustle Kings™ (PSN)
+^5 = APCRED: From gingerbread (Using BSD's Patch Creator)
+^4 = FILE: USRDATA
++Hkc 900,000,000(only For New Saves. Make Sure You Have Played A Match In Career Mode.)
+$search "HKC":1
+$write next (6):0x35A4E900

@@ -1,0 +1,45 @@
+^3 = NAME: Kill Switch (Pal-Unk)
+^2 = GameID: SLES-52124
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$90100084 0C0EA440
+$9036F214 0C0DC0BE
+!!
++60 Hertz {<I>May Make Some Cutscenes/FMV A Bit Funky But It Will Not Effect The Game Overall.</I>}
+%Credits: nemesis01
+$203703DC 3C060002
++Freeze Countdown Timers
+%Credits: Codejunkies
+$E0020801 0020ECEC
+$D020ECEE 00004600
+$2020ECEC 46000806
++Have All Weapons
+%Credits: Codejunkies
+$201E3D28 24030001
++Infinite Ammo In Mag
+%Credits: Codejunkies
+$20263C20 24420000
++Infinite Grenades
+%Credits: Codejunkies
+$20191CE8 24630000
++Infinite Health
+%Credits: Codejunkies
+$20193168 00000000
++Open All Levels
+%Credits: Codejunkies
+$203CA464 00000035
++Reloading Does Not Use Up Ammo
+%Credits: Codejunkies
+$202641F0 00000000
++Skip FMV
+%Credits: nemesis01
+$20375BD0 24020001
++Y-Fix
+%Credits: nemesis01
+$00370754 00000010
+$003707C4 00000010
+$00370808 00000010
+$00370894 00000010
+!!
+

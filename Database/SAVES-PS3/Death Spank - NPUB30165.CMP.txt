@@ -1,0 +1,5 @@
+^2 = GameID: NPUB30165
+^3 = NAME: Death Spank
+^4 = FILE: SLOT1.SAV
++Money 999,999,999$
+$write at 0x0000931C:0x3B9AC9FF

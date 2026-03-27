@@ -1,0 +1,68 @@
+^1 = Hash: EC 2B C6 82 D2 FF 01 C3 29 C1 6C 59 2B AB 56 09 54 2C 64 65
+^2 = GameID: SLUS_216.02
+^3 = NAME: Transformers The Game
+{<div class="in-game-cheats"><h4>In Game Cheats</h4><p><strong>Enter at the menu that has Campaign and Bonus Features listed.</strong></p><ul class="bullet-list"><li><strong>Down, Left, Left, Down, Right, Right, Up</strong> — G1 Megatron</li><li><strong>Down, Right, Left, Up, Down, Down, Left</strong> — G1 Optimus</li><li><strong>Up, Down, Left, Right, Up, Up, Down</strong> — Infinite Ammo</li><li><strong>Left, Left, Up, Left, Right, Down, Right</strong> — Infinite Health (Invincibility)</li><li><strong>Left, Up, Down, Down, Left, Up, Right</strong> — Jazz G1 Skin</li><li><strong>Right, Left, Right, Left, Right, Left, Right</strong> — No vehicles on the street and no tanks/cops attack</li><li><strong>Down, Down, Up, Up, Right, Right, Right</strong> — Robovision Optimus Prime Skin</li><li><strong>Right, Down, Left, Left, Down, Up, Up</strong> — Starscream G1 Skin</li><li><strong>Down, Up, Left, Right, Right, Right, Up, Down</strong> — Unlock All Missions</li><li><strong>Right, Up, Up, Down, Right, Left, Left</strong> — Bonus Cybertron Autobot and Cybertron Decepticon Missions</li></ul></div>}
+!Masters:
++Enable Code (MUST BE ON)
+$904619D0 0C11861C
+!!
+!Misc Codes:
++Gain "amount" Energon
+$1024BE94 0000[Amount:2710:HEX:BIG]
++Inf Energon{Says 100 Is Max But U Can Have Way More..}
+$10557048 0000[Amount:2710:HEX:BIG]
++Sub Missions Cost Nothing..{If U Find A Sub Mission That Costs Post Your Save And Tell Me Where It Is .}
+$20557044 000000A0
++Head Icons. Think 5 Is Max
+$1055704C 0000[Amount:0005:HEX:BIG]
++Inf HP
+$2027D50C 08028000
+$2027D510 00000000
+$200A0000 240105DC
+$200A0004 14410005
+$200A000C 3C0144BB
+$200A0010 34218000
+$200A0014 44816000
+$200A001C E60C0024
+$200A0020 0809F544
+$200A0024 7BB00010
++Inf Time
+$2024F2A0 C6000024
+!!
+!In Game Cheats:{At Menu (campaign/Bonus'oprions Section) Press Said Buttons}
++Press Left Active Inf HP
+$204D30B0 00000001
+$204D30B4 00000000
++Press Right Active All Missions
+$204D30B8 00020000
+$204D30BC 00000000
+$204D30C0 00000000
++Press Up Active Inf Ammo
+$204D30C4 00000004
+$204D30C8 00000000
++Press Down Active No Cops
+$204D30CC 00080000
+$204D30D0 00000000
+$204D30D4 00000000
++Press Left Left Active Robovision Optimus
+$204D30D8 00000101
+$204D30DC 00000000
++Press Right Right Active Starscream G1
+$204D30E0 02020000
+$204D30E4 00000000
+$204D30E8 00000000
++Press Up Up Active Jazz G1 Skin
+$204D30EC 00000404
+$204D30F0 00000000
++Press Down Down Active G1 Optimus
+$204D30F4 08080000
+$204D30F8 00000000
+$204D30FC 00000000
+P+ress Up Up Up Active Jazz G1 skin
+$204D3100 00040404
+$204D3104 00000000
++Press Down Down Down Active G1 Optimus
+$204D3108 08080000
+$204D310C 00000008
+$204D3110 00000000
+!!

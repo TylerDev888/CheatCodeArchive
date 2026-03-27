@@ -1,0 +1,42 @@
+^3 = NAME: Iron Man (Ntsc-U)
+^2 = GameID: SLUS-21739
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Skiller
+$9011ED50 0C047AFC
+!!
++Gain Basic Ammo
+%Credits: Skiller
+$10ED5458 00000001
++Gain Grenade Launcher Ammo
+%Credits: Skiller
+$10EDEDA0 00000001
++Gain Launcher Ammo
+%Credits: Skiller
+$10E739E0 00000001
++Gain XXXX Enemies Killed Per 1
+%Credits: Skiller
+$10ECC360 0000????
++INF Armor
+%Credits: Skiller
+$20E94F68 C620000C
++INF Basic Ammo
+%Credits: Skiller
+$10ED5458 00000000
++INF Grenade Launcher Ammo
+%Credits: Skiller
+$10EDEDA0 00000000
++INF Launcher Ammo
+%Credits: Skiller
+$10E739E0 00000000
++Inf Propulsion
+%Credits: Skiller
+$20E95764 00000000
++Inf Weapon Power
+%Credits: Skiller
+$20E957A8 00000000
++Max EXP One Use
+%Credits: Skiller
+$00E5A64C 00000001
+!!
+

@@ -1,0 +1,109 @@
+^2 = GameID: SLES_537.94
+^3 = NAME: Drakengard 2
+!Masters:
+M) CB6+/Gs3+/Xp4+ 
+$90381968 0C0E9549
+M) CB/Gs/Xp
+$F0381968 0038196B
+M) Ar2v2/Gs2v2 
+$0E3C7DF2 1456E7A5
+$F0381968 0038196B
+!!
++Max Gold
+$$204c5834 000F4240 
++Have All Moves
+$20604994 D131C719
++HP
+$2032C094 AE4202F0
++MP
+$204972F4 000003E8
++Super Does Not Hit
+$2021FEC0 03E00008
+$201F6D28 03E00008
++Max Weapon EXP
+$2028B248 00000000
+$2028B250 3C020099
++Super Damage
+$2028AC60 3C014B18
+$2028AC64 44810000
++Super Damage (when Weapon Being Attached)
+$2028AC04 3C014B18
+$2028AC08 44810000
++Chains Dont Reset
+$2021DE60 00000000
++Chain Increase X-Amount
+$2021E924 2463[Amount:FFFF:HEX:BIG]  
++Magical Accumulating Maximum
+$204972F8 44000000
++Sonic Bursting State - However You Cannot Use Magic
+$20497374 40000000
++Inf Bullets
+$201660F8 24420000
++Max Spheres On Gain
+$201663A4 2442[Amount:FFFF:HEX:BIG]  
++Large Magical Running Fire Interval 0.05{Usually Value 1}
+$20163DA4 3C013D4C
++Flame Bullet Running Fire Interval 0.05{Usually Value 0.75}
+$20163F18 3C013D4C
++Optical Bullet Running Fire Interval 0.05{Usually Value 0.75}
+$20165A54 3C013D4C
+!Characters:
+!Nowe:
++Max Level
+$204C5474 00000062
++Max EXP
+$204C5488 0098967F
++Max/Inf HP
+$104972F0 000003E7
+!!
+!Legna:
++Max Level
+$204C5478 00000062
++Max EXP
+$204C5498 0098967F
++Max/Inf HP Legna
+$10492DB0 000003E7
+!!
+!Unknown 1:
++Max Level
+$204C547C 00000062
+Max Exp
+$204C548C 0098967F
+!!
+!Unknown 2:
++Max Level
+$204C5480 00000062
+Max Exp
+$204C5490 0098967F
+!!
+!Unknown 3:
++Max Level
+$204C5484 00000062
+Max Exp
+$204C5494 0098967F
+!!
+!!
+!On Gain Sphere Gain X-Amount:
++Large Magic
+$203CAE44 2402[Amount:FFFF:HEX:BIG] 
++Flame Bullet
+$203CAEB0 2402[Amount:FFFF:HEX:BIG] 
++Water Bullet
+$203CB0D8 2402[Amount:FFFF:HEX:BIG] 
++Optical Bullet
+$203CB300 2402[Amount:FFFF:HEX:BIG] 
++Life Bullet
+$203CB3F4 2402[Amount:FFFF:HEX:BIG] 
+!!
+!Limit X-Amount Of Spheres:
++Large Magic
+$203CAE4C 2402[Amount:FFFF:HEX:BIG] 
++Flame Bullet
+$203CAEB8 2402[Amount:FFFF:HEX:BIG] 
++Water Bullet
+$203CB0E0 2402[Amount:FFFF:HEX:BIG] 
++Optical Bullet
+$203CB308 2402[Amount:FFFF:HEX:BIG] 
++Life Bullet
+$203CB3FC 2402[Amount:FFFF:HEX:BIG] 
+!!

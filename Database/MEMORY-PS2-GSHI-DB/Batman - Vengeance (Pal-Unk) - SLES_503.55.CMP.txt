@@ -1,0 +1,63 @@
+^3 = NAME: Batman - Vengeance (Pal-Unk)
+^2 = GameID: SLES-50355
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0212D9C 0024294F
++(M) Must Be On
+%Credits: Codejunkies
+$F024294C 0024294F
+!!
+!Health Codes:
++Floaty Cape
+%Credits: Codejunkies
+$202E9900 03E00008
+$202E9904 00000000
++Infinite Bat Stunner
+%Credits: Codejunkies
+$1089E3AA 00000005
++Infinite Batarangs
+%Credits: Codejunkies
+$1089E3A6 0000000F
++Infinite Batcuffs
+%Credits: Codejunkies
+$1089E3B2 00000003
++Infinite Electric Batarangs
+%Credits: Codejunkies
+$1089E3A8 0000000F
++Infinite Flash Bombs
+%Credits: Codejunkies
+$1089E3B0 0000000F
++Infinite Health
+%Credits: Codejunkies
+$2089E358 42C80000
++Infinite Nets
+%Credits: Codejunkies
+$1089E3AC 0000000F
++Infinite Power-Move Bar
+%Credits: Codejunkies
+$2089E334 42C80000
++Infinite Remote Charges
+%Credits: Codejunkies
+$1089E3AE 0000000F
++Infinite Stunners
+%Credits: Codejunkies
+$1089E3AA 0000000F
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E0020000 3089E358
+$E00141C8 3089E35A
+$2089E358 41C80000
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0020000 3089E358
+$E0014248 3089E35A
+$2089E358 42480000
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E0020000 3089E358
+$E0014296 3089E35A
+$2089E358 42960000
+!!
+!!
+

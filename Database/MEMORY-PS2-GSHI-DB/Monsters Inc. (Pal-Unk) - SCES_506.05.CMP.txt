@@ -1,0 +1,21 @@
+^3 = NAME: Monsters Inc. (Pal-Unk)
+^2 = GameID: SCES-50605
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F011CCB0 0017F1DF
++(M) Must Be On
+%Credits: Codejunkies
+$F017F1DC 0017F1DF
+!!
++Have No Collision With Baddies
+%Credits: Codejunkies
+$201E1B24 000005AD
++Have No Collision With Items
+%Credits: Codejunkies
+$201E1AA4 000005AD
++Infinite Health
+%Credits: Codejunkies
+$20856910 000001CE
+!!
+

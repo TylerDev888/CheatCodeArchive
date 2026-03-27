@@ -1,0 +1,12 @@
+^3 = NAME: Monochrome [Limited Edition] (Ntsc-J)
+^2 = GameID: SLPM-65681
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9010FC10 0C043EAC
+!!
++Replace New Game With Debug Menu
+%Credits: punk7890
+$202A00A8 00000003
+!!
+

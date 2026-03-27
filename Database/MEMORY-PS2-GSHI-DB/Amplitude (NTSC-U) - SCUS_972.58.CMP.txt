@@ -1,0 +1,56 @@
+^3 = NAME: Amplitude (NTSC-U)
+^2 = GameID: SCUS-97258
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100010 0031228F
+!!
++Access All Arenas
+%Credits: Code Master
+$201923E8 00000000
++Max Energy
+%Credits: Code Master
+$200C0220 3C0141C0
+$200C0224 AC810000
+$200C0228 03E00008
+$200C022C C4800000
+$20151778 08030088
++Quick Max Score
+%Credits: Code Master
+$2012DDBC 2406270F
+!Unlock Bonus Level Codes:
++Beat Factory-Freezepop
+%Credits: Code Master
+$20574334 00000000
++Blastlands-Komputer Kontroller
+%Credits: Code Master
+$20586E34 00000000
++Elektro Kore-Game Boyz
+%Credits: Code Master
+$20580424 00000000
++Metaclouds-The Production Club
+%Credits: Code Master
+$2057A304 00000000
++Neotropolis-Logan 7
+%Credits: Code Master
+$2056DD24 00000000
+!!
+!Unlock Boss Level Codes:
++Beat Factory-David Bowie
+%Credits: Code Master
+$20572BB4 00000000
++Blastlands-Symbion Project
+%Credits: Code Master
+$20585B44 00000000
++Elektro Kore-Slipknot
+%Credits: Code Master
+$2057EDD4 00000000
++Metaclouds-Herbie Hancock
+%Credits: Code Master
+$205792C4 00000000
++Neotropolis-Chris Child With Melissa Kaplan
+%Credits: Code Master
+$2056CAE4 00000000
+!!
+!!
+

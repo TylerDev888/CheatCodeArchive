@@ -1,0 +1,39 @@
+^2 = GameID: CUSA30423,CUSA30424
+^3 = NAME: Death's Door
+^SECONDLAYER: NO
+^4 = FILE: sce_sdmemory\memory.dat
++Super Max Health
+%Credits:Zeraf3000 
+$800[Slot]0006 6D61785F							
+$68700000 00000000
+$28000006 000007D0
+!Custom Stats:{Note: If Done Correctly, You'll See Your Stats At Max Normal Level In Game; But You'll See The Actual Effects In Gameplay. Your Character Will Be Faster Than Normal, The Reach Of Your Attacks Will Be Big, You'll Be Able To Use Magic Faster And You'll Be Able To Almost One Hit Kill Everything Except Bosses) Note: Put At Least 1 Point On Each Stat Before Using These Note: You Can Go Much Higher On Each Of The Stats (including Health) If You Change The Last Value Of Each Code, But The Values I've Used; Are The Ones I Tested On 2 Diff Runs And They're The Most Safe Ones To Use. Bare In Mind That If You Go Too High On The Values, The Game May Crash Or Become Unplayable}
++Melee
+%Credits:Zeraf3000 
+$800[Slot]000A 73746174							
+$5F6D656C 65650000
+$2800000A 0000001E
++Dexterity
+%Credits:Zeraf3000 
+$800[Slot]000E 73746174							
+$5F646578 74657269
+$74790000 00000000
+$2800000E 0000000A
++Haste
+%Credits:Zeraf3000 
+$800[Slot]000A 73746174							
+$5F686173 74650000
+$2800000A 00000028
++Magic
+%Credits:Zeraf3000 
+$800[Slot]000A 73746174							
+$5F6D6167 69630000
+$2800000A 00000028
+!!
+^6 = MODS:	
+[Slot]
+Value>Save Slot
+1	Save Slot 1
+2	Save Slot 2
+3	Save Slot 3	
+[/Slot]

@@ -1,0 +1,387 @@
+^3 = NAME: WWE Smackdown! Vs. Raw 2011 (Ntsc-U)
+^2 = GameID: SLUS-21939
+!Master Codes:
++Alt.Enable Code(Must Be On)
+%Credits: Azagthoth
+$901DE840 00832021
++Enable Code(Must Be On)
+%Credits: Azagthoth
+$901C2B58 0C070A7E
+!!
+!Add Non-Playable Characters to Selection Screen:
++Add Hornswoggle {<I>Most Of These Characters Can Only Be Played If They Are A Manager. Its Possible To Play Using Them As A Wrestler, But It Isn&#39;T Easy. If You Go To The Random Icon (&Quot;?&Quot;), It Will Potentially Choose An NPC For You. They Are Also Easily Selectable During The Royal Rumble. Just Select &Quot;Change Participants&Quot; &Amp; Select The Npcs You Want To Be In The Royal Rumble. They Don&#39;T Have An Entrance, Theme Music, Abilities, Enemies, Or Allies, But That Can Be Adjusted. Their Attributes Will Have Low Ratings, But Since They Will Be Added To The Manage Superstar List, You Can Adjust Their Attributes Using The &Quot;Enables Superstar Attribute Editing&Quot; Code.</I>}
+%Credits: BigBossman
+$006C2729 00000001
++Add Hurricane
+%Credits: BigBossman
+$006C54D5 00000001
++Add Jerry Lawler
+%Credits: BigBossman
+$006C0EE1 00000001
++Add Justin Roberts
+%Credits: BigBossman
+$006C2289 00000001
++Add Michael Cole
+%Credits: BigBossman
+$006C0D25 00000001
++Add Paul Bearer
+%Credits: BigBossman
+$006C4789 00000001
++Add Referee
+%Credits: BigBossman
+$006C49D9 00000001
++Add Security Guard A
+%Credits: BigBossman
+$006C5C59 00000001
++Add Security Guard B
+%Credits: BigBossman
+$006C5CED 00000001
++Add Security Guard C
+%Credits: BigBossman
+$006C5D81 00000001
++Add Stephanie Mcmahon
+%Credits: BigBossman
+$006C0B69 00000001
++Add Theodore Long
+%Credits: BigBossman
+$006C21F5 00000001
++Add Tiffany
+%Credits: BigBossman
+$006C618D 00000001
++Add Todd Grisham
+%Credits: BigBossman
+$006C6471 00000001
++Add Tony Chimmel
+%Credits: BigBossman
+$006C231D 00000001
++Add WWE Doctor
+%Credits: BigBossman
+$006C3BF9 00000001
+!!
++Arena / Stage Modifier {<I>Using Value &Quot;14&Quot; With The &Quot;Elimination Chamber Modifier&Quot; Code In The Match Rules Section Make The Entire Chamber Appear, But You Won&#39;T Be Able To Climb Around On It Like Normal. Values -  00 - Smackdown 01 - Raw 02 - ECW 03 - Tribute To The Troops 04 - Summerslam 05 - Breaking Point 06 - Hell In A Cell 07 - Survivor Series 08 - TLC 09 - Royal Rumble 0A - Elimination Chamber 0B - Wrestlemania 0C - Backlash 0D - Judgement Day 0E - Night Of Champions 0F - The Bash 10 - Extreme Rules 11 - Superstars 12 - Bragging Rights 13 - Druid Arena 14 - Elimination Chamber W/ Invisible Elimination Chamber 15 - Froze 16 - Royal Rumble 17 - Create-A-Move Set Arena (Arena Is Empty) 18 - Empty, Pitch Blck Arena (Except For The Ring) 19 - Old Smackdown With Fist Arena (Arena Is Empty) 1A - Froze</I>}
+%Credits: BigBossman
+$006BC750 000000??
++Enables Everything Is Unlocked Message {<I>Doesn&#39;T Actually Unlock Anything, But That Message Will Flash Prior To Accessing The Main Menu.</I>}
+%Credits: BigBossman
+$00735068 00000001
++Enables Online Axxess Message {<I>Message Displayed Before Accessing The Main Menu Will Say &Quot;You Are Now In Possesion Of Online Axxess&Quot;.</I>}
+%Credits: BigBossman
+$0073506D 00000001
++Enables Superstar Attribute Editing
+%Credits: BigBossman
+$00735069 00000001
++Infinite Momentum Bar P1
+%Credits: Azagthoth
+$200C0200 3C03006C
+$200C0204 8C63C350
+$200C0208 10600007
+$200C0210 8C630A04
+$200C0214 10600004
+$200C021C 3C043F80
+$200C0220 AC64008C
+$200C0228 03E00008
+$201C302C 08030080
++Instant Time Limit Draw {<I>Might Be Useful When Paired With A Joker Code To Instantly End A Match Whether Or Not A Time Limit Is In Effect.</I>}
+%Credits: BigBossman
+$006BC749 00000001
+!Match Rules Modifiers:
++Captain Falls / Elimination Modifier {<I>In WWE Smackdown: Shut Your Mouth &Amp; Here Comes The Pain, There Was A Match Mode Called Captain Falls. This Mode Wasn&#39;T In Any Of The Other Smackdown Vs. Raw Games That Followed HCTP. The Way It Works Is, If The Tag Team Captain Gets Eliminated, The Entire Team Loses. However, Any Of The Other Team Member Getting Eliminated Won&#39;T Cost Them The Match. This Works For Any Variation Of Tag Team, 6-Man Tag Team, Or Even Handicapped Matches. In Addition, This Also Seems To Act As A An Elimination Modifier As Well. When Playing A Triple Threat, Fatal 4-Way, Or Armageddon Hell In A Cell Match, You&#39;Ll Have To Eliminate Everyone In The Match In Order To Be Declared The Winner. Values -  00 - Captain Falls / Elimination Is Off 01 - Captain Falls / Elimination Is On</I>}
+%Credits: BigBossman
+$006BC72E 000000??
++Championship Scramble Modifier {<I>This Won&#39;T Actually Cause Additional Competitors To Run To The Ring During A Match, But The Commentators Will Talk About The About The Match Being A Championship Scramble Match When Activated. If Its Turned Off, When Selecting A Championship Scramble Match, The First Two Competitors In The Ring Will Battle It Out &Amp; No One Else Will Come To The Ring. Once Time Runs Out, Whoever Got A Win, Will Win That Title. Values -  00 - Championship Scramble Is Off 01 - Championship Scramble Is On</I>}
+%Credits: BigBossman
+$006BC74C 000000??
++Count Out Modifier {<I>Modifies The Number Of Seconds Players Are Allowed To Stay Outside The Ring Before Being Counted Out.</I>}
+%Credits: BigBossman
+$006BC715 000000??
++Disqualifications Modifier {<I>Values –  00 – Disqualifications Are Always Off 01 – Disqualifications Are Always On</I>}
+%Credits: BigBossman
+$006BC72B 000000??
++Elimination Chamber Modifier {<I>Every Match Will Have The Elimination Chamber, But Its Not Perfect. While You Can Walk Around The Outer Parts Of It &Amp; Can&#39;T Access The Weapons Under The Ring, You Can Still Pass Through The Chamber &Amp; Move Near The Commentator Booth Or Move Onto The Ramp &Amp; Stage Area. Might Need To Be Paired With An Arena Modifier Code. Values -  00 - Elimination Chamber Match Always Off 01 - Elimination Chamber Match Always On</I>}
+%Credits: BigBossman
+$006BC739 000000??
++Elimination Tag Match Modifier {<I>When Enabled, All Members Of A Tag Team Must Be Eliminated In Order To Win.  Values -  00 - Elimination Tag Match Always Off 01 - Elimination Tag Match Always On</I>}
+%Credits: BigBossman
+$006BC72D 000000??
++Escape Through The Cage Door Modifier {<I>This Only Works In A Steel Cage Match. When On, It Will Allow You To Win A Steel Cage Match by escaping through the door. This also works with Steel Cage Matches that have more than two players. Values -  00 - Escape Through the Cage Door Always Off 01 - Escape Through the Cage Door Always On</i>}
+%Credits: BigBossman
+$006BC73C 000000??
++Extreme Rules Modifier {<I>When This Is Activated, It Will Bring Up The Weapon Selection Wheel When You Try To Pull A Weapon Out From Under The Ring. Values – 00 – Extreme Rules Are Always Off 01 – Extreme Rules Always On</I>}
+%Credits: BigBossman
+$006BC748 000000??
++Finisher Match Modifier {<I>Allows You To Win by performing your finisher on an opponent. Once its performed, it will show that they are KOed. Values –  00 – Finisher Matches are Off 01 – Finisher Matches are On</i>}
+%Credits: BigBossman
+$006BC727 000000??
++First Blood Modifier {<I>Allows You To Win by making your opponent bleed. Values –  00 – First Blood is Always Off 01 – First Blood is Always On</i>}
+%Credits: BigBossman
+$006BC738 000000??
++Flaming Table Modifier {<I>When Enabled, This Will Allow You To Set A Table On Fire &Amp; Win by putting your opponent through it. Best used with a match that has tables such as a Table Match or TLC Match. Values -  00 - Flaming Table Match Always Off 01 - Flaming Table Match Always On</i>}
+%Credits: BigBossman
+$006BC737 000000??
++Hardcore Modifier {<I>Before The WWE Games Had Extreme Rules Matches, They Had Hardcore Rules Where Weapons Were Laying Around Outside The Ring. When Activated, There Will Be A Sledge Hammer &Amp; A Steel Chair Laying Outside The Ring. Values –  00 – Hardcore Is Off 01 – Hardcore Is On</I>}
+%Credits: BigBossman
+$006BC721 000000??
++Hell In A Cell Match Modifier {<I>Causes The Hell In A Cell Match To Always Be Active Or Always Inactive. If Might Freeze Up If Activated With Certain Match Types.  Values -  00 - Hell In A Cell Match Always Off 01 - Hell In A Cell Match Always On</I>}
+%Credits: BigBossman
+$006BC724 000000??
++Inferno Match Modifier {<I>Allows Flames To Surround The Ring With More Than Two Players In A Match, But You Can&#39;T Exit The Ring.  Values -  00 - Inferno Match Always Off 01 - Inferno Match Always On</I>}
+%Credits: BigBossman
+$006BC74B 000000??
++Iron Man Match Modifier {<I>This Will Activate The Win Counters Below Each Player.  Values -  00 - Iron Man Match Always Off 01 - Iron Man Match Always On</I>}
+%Credits: BigBossman
+$006BC71C 000000??
++KO Modifier {<I>Values – 00 – Kos Are Off 01 – Kos Are On</I>}
+%Credits: BigBossman
+$006BC712 000000??
++Ladder Match Modifier {<I>Ladders Are Positioned Outside The Ring &Amp; Will Allow You To Win by grabbing the briefcase. Values –  00 – Ladder Matches are Off 01 – Ladder Matches are On</i>}
+%Credits: BigBossman
+$006BC723 000000??
++Last Man Standing Match Modifier {<I>When An Opponent Is Knocked Down, The Referee Will Begin Counting To 10. If The Opponent Doesn’T Get Up Before The 10 Count, They Are Eliminated. Values –  00 – Last Man Standing Matches Are Off 01 – Last Man Standing Matches Are On</I>}
+%Credits: BigBossman
+$006BC72A 000000??
++Over The Top Rope Elimination Modifier {<I>Values – 00 – Over The Top Rope Eliminations Are Off 01 – Over The Top Rope Eliminations Are On</I>}
+%Credits: BigBossman
+$006BC716 000000??
++Pinfall Modifier {<I>Values –  00 – Pinfalls Off 01 – Pinfalls On 02 – Pinfalls Count Anywhere (Outside The Ring)</I>}
+%Credits: BigBossman
+$006BC711 000000??
++Required Number Of Wins Modifier {<I>In The Match Creator, There&#39;S An Option For Best Two Out Of Three Falls. When Modified, This Will Determine The Number Of Wins by Pinfall, Submission, Disqualification, Knockout, or Count Out needed to win the match. When there are more than two players in a match, this will work for them too.</i>}
+%Credits: BigBossman
+$006BC71D 000000??
++Ring Exit Modifier {<I>Values – 00 – Ring Exits Are Allowed 01 – Ring Exits Are Prohibited</I>}
+%Credits: BigBossman
+$006BC714 000000??
++Steel Cage Modifier {<I>Causes The Steel Cage Match To Always Be Active Or Always Inactive. Might Freeze Up If Activated With Certain Match Types. Values -  00 - Steel Cage Always Inactive 01 - Steel Cage Always Active</I>}
+%Credits: BigBossman
+$006BC719 000000??
++Table Match Modifier {<I>Allows You To Win by putting your opponent through a table. Values –  00 – Table Matches are Off 01 – Table Matches are On</i>}
+%Credits: BigBossman
+$006BC722 000000??
++Tag Team/ Tornado Rules Modifier {<I>Values –  00 – Tornado Rules Are On (All Members Of A Team Are Legal) 01 – Tag Team Rules Are On (Only One Member Of A Team Are Legal)</I>}
+%Credits: BigBossman
+$006BC71E 000000??
+!!
++Momentum Doesn't Increase P2 {<I>(Can&#39;T Do Any Finishers)</I>}
+%Credits: Azagthoth
+$200C0240 3C19006C
+$200C0244 8F39C354
+$200C0248 13200006
+$200C0250 8F390A04
+$200C0254 13200003
+$200C025C AF20008C
+$200C0264 03E00008
+$201DE7B8 08030090
++Player 1 Modifier {<I>These Codes Will Enable You To Play As Any Character Within The Game. This Includes Characters That Are Not Normally Selectable Such As Hornswoggle, Paul Bearer, Hurricane, Referee, Michael Cole, Stephanie Mcmahon, Tiffany, ETC. You Can Even Enable Matches Between Men Vs. Women Using These Codes. Just Be Sure That You Have Dqs Turned Off Or Else, The Male Character Will Get Disqualified. You Can Even Have Women Fight In Certain Match Types That They Normally Can&#39;T Compete In. &Quot;CAW&Quot; Is Abbreviation For &Quot;Create-A-Wrestler&Quot;.<Br>Values -<Br>000C - CAW 1<Br>0070 - CAW 2<Br>00D4 - CAW 3<Br>0138 - CAW 4<Br>019C - CAW 5<Br>0200 - CAW 6<Br>0264 - CAW 7<Br>02C8 - CAW 8<Br>032C - CAW 9<Br>0390 - CAW 10<Br>03F4 - CAW 11<Br>0458 - CAW 12<Br>04BC - CAW 13<Br>0520 - CAW 14<Br>0584 - CAW 15<Br>05E8 - CAW 16<Br>064C - CAW 17<Br>06B0 - CAW 18<Br>0714 - CAW 19<Br>0778 - CAW 20<Br>07DC - CAW 21<Br>0840 - CAW 22<Br>08A4 - CAW 23<Br>0908 - CAW 24<Br>096C - CAW 25<Br>09D0 - CAW 26<Br>0A34 - CAW 27<Br>0A98 - CAW 28<Br>0AFC - CAW 29<Br>0B60 - CAW 30<Br>2711 - The Rock<Br>2775 - Stone Cold<Br>27D9 - Triple H<Br>27E3 - Triple H Civilian Clothes<Br>27ED - Triple H Bandage<Br>283D - Undertaker<Br>28A1 - Chris Jericho<Br>28AB - Chris Jericho Civilian Clothes<Br>29CD - Kane<Br>29D7 - Masked Kane<Br>2AF9 - Edge<Br>2B03 - Edge Civilian Clothes<Br>2B0D - Edge Conquistador<Br>2BC1 - Matt Hardy<Br>2CED - Mr. Mcmahon<Br>2CF7 - Mr. Mcmahon Suit<Br>2DB5 - William Regal<Br>2FA9 - Jimmy Snuka<Br>300D - Rey Mysterio<Br>3017 - Rey Mysterio Evil<Br>3021 - Rey Mysterio Civilian Clothes<Br>332D - CM Punk<Br>3337 - CM Punk T-Shirt<Br>3391 - Jake Roberts<Br>34BD - MVP<Br>34C7 - MVP Civilian Clothes<Br>3585 - Chavo Guerrero<Br>364D - John Cena<Br>3657 - John Cena Civilian Clothes<Br>37DD - Mickie James<Br>38A5 - Shawn Michaels<Br>396D - Stephanie Mcmahon<Br>3A99 - Michael Cole<Br>3BC5 - Jerry Lawler<Br>3DB9 - Finlay<Br>3E81 - Batista<Br>3E8B - Batista Civilian Clothes<Br>3EE5 - Randy Orton<Br>3EEF - Randy Orton Suit<Br>3EF9 - Randy Orton Referee<Br>3F03 - Randy Orton T-Shirt<Br>4011 - Kelly Kelly<Br>4075 - JTG<Br>4205 - Terry Funk<Br>43F9 - Melina<Br>445D - John Morrison<Br>44C1 - Kofi Kingston<Br>4589 - Shad<Br>45ED - Mark Henry<Br>4719 - Michelle Mccool<Br>48A9 - Theodore Long<Br>490D - Justin Roberts<Br>4971 - Tony Chimmel<Br>4C2D - Hornswoggle<Br>4E85 - Santino Marella<Br>5015 - Cody Rhodes<Br>501F - Cody Rhodes T-Shirt<Br>5141 - Shelton Benjamin<Br>5529 - The Miz<Br>558D - Zack Ryder<Br>5781 - Beth Phoenix<Br>5A3D - WWE Doctor<Br>5B69 - Druid<Br>620D - Paul Bearer<Br>639D - Referee<Br>65F5 - Ted Dibiase<Br>65FF - Ted Dibiase T-Shirt<Br>6659 - Vladimir Kozlov<Br>66BD - Mike Knox<Br>6785 - Evan Bourne<Br>684D - Jack Swagger<Br>6857 - Jack Swagger Todo Americano<Br>6861 - Jack Swagger Civilian Clothes<Br>68B1 - Ezekiel Jackson<Br>69DD - Primo<Br>6A41 - R-Truth<Br>6B09 - Hurricane<Br>6B6D - Dolph Ziggler<Br>6BD1 - Christian<Br>6BDB - Christian Civilian Clothes<Br>6BE5 - Christian Conquistador<Br>6C35 - Goldust<Br>6C99 - Drew Mcintyre<Br>6CFD - Sheamus<Br>6DC5 - David Hart Smith<Br>6E29 - Tyson Kidd<Br>6E8D - Yoshi Tatsu<Br>6EF1 - Vance Archer<Br>701D - Security Guard A<Br>7081 - Security Guard B<Br>70E5 - Security Guard C<Br>7149 - Natalya<Br>7211 - Eve<Br>7275 - Gail Kim<Br>72D9 - Brie Bella<Br>733D - Nikki Bella<Br>73A1 - Tiffany<Br>7405 - Alicia Fox<Br>7595 - Todd Grisham<Br>7725 - Ricky Steamboat<Br>7789 - Rob Van Dam<Br>7D65 - Luke Gallows​​​​​​​</I>}
+%Credits: BigBossman
+$21F7C708 0000????
++Player 2 Modifier
+%Credits: BigBossman
+$21F7D140 0000????
++Player 3 Modifier
+%Credits: BigBossman
+$21F7DB78 0000????
++Player 4 Modifier
+%Credits: BigBossman
+$21F7E5B0 0000????
++Player 5 Modifier
+%Credits: BigBossman
+$21F7EFE8 0000????
++Player 6 Modifier
+%Credits: BigBossman
+$21F7FA20 0000????
+!Unlockable Items:
++Unlock Backlash Arena
+%Credits: BigBossman
+$00735091 00000001
++Unlock Batista (Civilian)
+%Credits: BigBossman
+$00735085 00000001
++Unlock Bragging Rights Arena
+%Credits: BigBossman
+$00735097 00000001
++Unlock Breaking Point Arena
+%Credits: BigBossman
+$0073509B 00000001
++Unlock Brie Bella
+%Credits: BigBossman
+$007350AE 00000001
++Unlock Chris Jericho (Civilian)
+%Credits: BigBossman
+$0073507E 00000001
++Unlock Christian (Civilian)
+%Credits: BigBossman
+$0073507F 00000001
++Unlock Christian (Conquistador)
+%Credits: BigBossman
+$00735072 00000001
++Unlock Cody Rhodes (T-Shirt)
+%Credits: BigBossman
+$00735089 00000001
++Unlock Cruiserweight Belt
+%Credits: BigBossman
+$007350AA 00000001
++Unlock ECW Arena
+%Credits: BigBossman
+$00735095 00000001
++Unlock ECW Belt
+%Credits: BigBossman
+$007350A8 00000001
++Unlock ECW Brand
+%Credits: BigBossman
+$0073508F 00000001
++Unlock ECW Story Designer
+%Credits: BigBossman
+$00735090 00000001
++Unlock Edge (Civilian)
+%Credits: BigBossman
+$00735082 00000001
++Unlock Edge (Conquistador)
+%Credits: BigBossman
+$0073506F 00000001
++Unlock Extreme Rules Arena
+%Credits: BigBossman
+$00735092 00000001
++Unlock Ezekiel Jackson
+%Credits: BigBossman
+$007350A6 00000001
++Unlock Finlay
+%Credits: BigBossman
+$007350A7 00000001
++Unlock Gail Kim
+%Credits: BigBossman
+$0073509D 00000001
++Unlock Goldust
+%Credits: BigBossman
+$007350A1 00000001
++Unlock Hardcore Belt
+%Credits: BigBossman
+$007350AB 00000001
++Unlock Hell In A Cell Arena
+%Credits: BigBossman
+$00735096 00000001
++Unlock Jack Swagger (Civilian)
+%Credits: BigBossman
+$0073508B 00000001
++Unlock Jack Swagger (Todo Americano)
+%Credits: BigBossman
+$00735071 00000001
++Unlock Jake Roberts
+%Credits: BigBossman
+$00735073 00000001
++Unlock Jimmy Snuka
+%Credits: BigBossman
+$00735076 00000001
++Unlock John Cena (Civilian)
+%Credits: BigBossman
+$0073507D 00000001
++Unlock Judgement Day Arena
+%Credits: BigBossman
+$0073509A 00000001
++Unlock Masked Kane
+%Credits: BigBossman
+$0073506E 00000001
++Unlock Mickie James
+%Credits: BigBossman
+$0073509E 00000001
++Unlock Mike Knox
+%Credits: BigBossman
+$007350A5 00000001
++Unlock Million Dollar Belt
+%Credits: BigBossman
+$007350B3 00000001
++Unlock MVP (Civilian)
+%Credits: BigBossman
+$00735084 00000001
++Unlock Night Of Champions Arena
+%Credits: BigBossman
+$00735094 00000001
++Unlock Nikki Bella
+%Credits: BigBossman
+$007350AD 00000001
++Unlock Paul Bearer
+%Credits: BigBossman
+$00735074 00000001
++Unlock Randy Orton (Referee)
+%Credits: BigBossman
+$00735086 00000001
++Unlock Randy Orton (Suit)
+%Credits: BigBossman
+$00735087 00000001
++Unlock Randy Orton (T-Shirt)
+%Credits: BigBossman
+$00735088 00000001
++Unlock Rey Mysterio (Civilian)
+%Credits: BigBossman
+$00735080 00000001
++Unlock Rey Mysterio (Evil)
+%Credits: BigBossman
+$00735070 00000001
++Unlock Ricky Steamboat
+%Credits: BigBossman
+$0073507B 00000001
++Unlock Rob Van Dam
+%Credits: BigBossman
+$00735075 00000001
++Unlock Shelton Benjamin
+%Credits: BigBossman
+$007350A4 00000001
++Unlock Stone Cold Steve Austin
+%Credits: BigBossman
+$00735078 00000001
++Unlock Survivor Series Arena
+%Credits: BigBossman
+$00735098 00000001
++Unlock Ted Dibiase (T-Shirt)
+%Credits: BigBossman
+$0073508A 00000001
++Unlock Terry Funk
+%Credits: BigBossman
+$0073507A 00000001
++Unlock The Bash Arena
+%Credits: BigBossman
+$00735093 00000001
++Unlock The Druid & Druid Arena
+%Credits: BigBossman
+$0073507C 00000001
++Unlock The Rock
+%Credits: BigBossman
+$00735077 00000001
++Unlock TLC Arena
+%Credits: BigBossman
+$00735099 00000001
++Unlock Tribute To The Troops Arena
+%Credits: BigBossman
+$0073509C 00000001
++Unlock Triple H (Civilian)
+%Credits: BigBossman
+$00735081 00000001
++Unlock Vince Mcmahon (Suit)
+%Credits: BigBossman
+$00735083 00000001
++Unlock Vince Mcmahon (Wrestling)
+%Credits: BigBossman
+$00735079 00000001
++Unlock Vladimir Kozlov
+%Credits: BigBossman
+$007350A0 00000001
++Unlock WCW Belt
+%Credits: BigBossman
+$007350A9 00000001
++Unlock William Regal
+%Credits: BigBossman
+$0073509F 00000001
++Unlock World & WWE Tag Belts
+%Credits: BigBossman
+$007350AC 00000001
++Unlock Yoshi Tatsu
+%Credits: BigBossman
+$007350A2 00000001
++Unlock Zack Ryder
+%Credits: BigBossman
+$007350A3 00000001
+!!
++Use 1 Point For 99 (Stats)
+%Credits: Skiller
+$202E6C84 00000001
+!!
+

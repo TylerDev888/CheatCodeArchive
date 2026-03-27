@@ -1,0 +1,2302 @@
+^3 = NAME: Fatal Frame 2 - Crimson Butterfly (Ntsc-U)
+^2 = GameID: SLUS-20766
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F023C914 0023C917
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0023C917
++[M] Must Be On
+%Credits: MadCatz
+$901F04C8 0C08F1FC
+!!
++1-Shot Kill Some Ghosts {<I>Works On The Same Ghosts As The Above Code.</I>}
+%Credits: bungholio
+$202A2CD8 00000001
+!(A):
++High Score
+%Credits: Codejunkies
+$20408E4C 0001869F
++Infinite Health
+%Credits: Codejunkies
+$202E0DB8 00002710
++Low Game Play Time
+%Credits: Codejunkies
+$20408E34 00000001
++Max Photos Taken
+%Credits: Codejunkies
+$20408E44 0001869F
++No Defeats
+%Credits: Codejunkies
+$20408E48 00000000
++Photo Taken
+%Credits: Codejunkies
+$20408E44 00000001
++Spirit Orbs
+%Credits: Codejunkies
+$20344250 00000063
++Total Score
+%Credits: Codejunkies
+$20408E3C 000F423F
+$20408E40 000F423F
+!!
+!(B):
++All Photos
+%Credits: Codejunkies
+$203CB03C 02020202
+$203CB040 02020202
+$203CB044 02020202
+$203CB048 02020202
+$203CB04C 02020202
+$003CB050 00000002
++Bloody Wall
+%Credits: Codejunkies
+$003CB04A 00000002
++Coal Brazier
+%Credits: Codejunkies
+$003CB04E 00000002
++Couple
+%Credits: Codejunkies
+$003CB050 00000002
++Gate Butterfly
+%Credits: Codejunkies
+$003CB04C 00000002
++Slashed Man
+%Credits: Codejunkies
+$003CB04D 00000002
++Statue Butterfly
+%Credits: Codejunkies
+$003CB04B 00000002
++Warped Face Lady
+%Credits: Codejunkies
+$003CB04F 00000002
+!!
+!Accumulation:
++Level 1
+%Credits: Codejunkies
+$002BE1BE 00000001
++Level 2
+%Credits: Codejunkies
+$002BE1BE 00000002
++Level 3
+%Credits: Codejunkies
+$002BE1BE 00000003
++One Spirit Stone
+%Credits: Codejunkies
+$002BE194 00000001
++Three Spirit Stones
+%Credits: Codejunkies
+$002BE194 00000003
++Two Spirit Stones
+%Credits: Codejunkies
+$002BE194 00000002
+!!
++All Missions Have Ss Rank {<I>This One Is Codebreaker Only Just Like The Have All Ghosts In The Spirit List Code, Since Only Codebreaker V7 Or Higher Has The 4-Type Code.</I>}
+%Credits: bungholio
+$404050EC 00190004
+$00000000 00000000
+$404050F0 00190004
+$000186A0 00000000
+$404050F4 00190004
+$000186A0 00000000
+!Basic Functions Codes:
++Range-1 Spirit Orb
+%Credits: Code Master
+$002BE192 00000001
++Range-2 Spirit Orbs
+%Credits: Code Master
+$002BE192 00000002
++Range-3 Spirit Orbs
+%Credits: Code Master
+$002BE192 00000003
++Range-Max Level
+%Credits: Code Master
+$002BE191 00000003
++Sensitivity-1 Spirit Orb
+%Credits: Code Master
+$002BE193 00000001
++Sensitivity-2 Spirit Orbs
+%Credits: Code Master
+$002BE193 00000002
++Sensitivity-3 Spirit Orbs
+%Credits: Code Master
+$002BE193 00000003
++Sensitivity-Max Level
+%Credits: Code Master
+$002BE190 00000003
+!!
++Black And White Mode {<I>0 = Off (Normal Colors) 1 = On Found With Ps2rd. If You Toggle It With A Joker, It Appears A Little Less Black And White.</I>}
+%Credits: bungholio
+$00341BF4 0000000?
+!Blast:
++Level 1
+%Credits: Codejunkies
+$002BE1BA 00000001
++Level 2
+%Credits: Codejunkies
+$002BE1BA 00000002
++Level 3
+%Credits: Codejunkies
+$002BE1BA 00000003
++One Spirit Stone
+%Credits: Codejunkies
+$002BE19B 00000001
++Three Spirit Stones
+%Credits: Codejunkies
+$002BE19B 00000003
++Two Spirit Stones
+%Credits: Codejunkies
+$002BE19B 00000002
+!!
++Camera Basic Functions: Have All Power-Up Lenses
+%Credits: MadCatz
+$102BE1AC 0000FFFF
+!Camera Upgrades Basic Functions Range:
++Level 1
+%Credits: Codejunkies
+$002BE191 00000001
++Level 2
+%Credits: Codejunkies
+$002BE191 00000002
+!!
++Can Always Get A Shot Of Some Ghosts {<I>It&#39;S Always Going To Be A Normal Shot Though, Unless You Wait For Them To Do The Right Stuff For A Fatal Frame. It Affects The Same Ghosts As The Above Codes.</I>}
+%Credits: bungholio
+$002A2CC2 00000000
++Chapter Select {<I>Found With Ps2rd. Use It With A Joker Command. I Didn&#39;T Test It Much, But The Few Chapters That I Did Try Worked Just Fine, Unlock In Fatal Frame 3 Where 2 Of Them Messed Up A Little. There Are 10 Chapters. &Quot;9&Quot; Is The Last Chapter In Hard Or Nightmare Mode, And &Quot;A&Quot; Is Some Extra Chapter That I Didn&#39;T Check At All. I Don&#39;T Know If It Is Part Of One Chapter Or Just A Copy Or Slightly Different Version Of Another Chapter.</I>}
+%Credits: bungholio
+$002BCF50 0000000?
++Character Modifier {<I>0 = Mio Anything Other Than 0 = Mayu</I>}
+%Credits: bungholio
+$10343518 0000000?
+!Crush:
++Level 1
+%Credits: Codejunkies
+$002BE1BC 00000001
++Level 2
+%Credits: Codejunkies
+$002BE1BC 00000002
++Level 3
+%Credits: Codejunkies
+$002BE1BC 00000003
++One Spirit Stone
+%Credits: Codejunkies
+$002BE19D 00000001
++Three Spirit Stones
+%Credits: Codejunkies
+$002BE19D 00000003
++Two Spirit Stones
+%Credits: Codejunkies
+$002BE19D 00000002
+!!
++Difficulty Modifier {<I>0 = Easy 1 = Normal 2 = Hard 3 = Nightmare Found With Ps2rd. Just Start Or Load A Game To Apply The Difficulty, And Then Save To Make It Permanent.</I>}
+%Credits: bungholio
+$002BCF51 0000000?
+!File Codes Notebook:
++All Notebooks
+%Credits: Codejunkies
+$203CAFC0 02020202
+$203CAFC4 02020202
+$203CAFC8 02020202
+$203CAFCC 02020202
+$203CAFD0 02020202
+$203CAFD4 02020202
+$203CAFD8 02020202
+$203CAFDC 02020202
+$203CAFE0 02020202
+$203CAFE4 02020202
++Bloody Memo
+%Credits: Codejunkies
+$003CAFE1 00000002
++Bound Diary 1
+%Credits: Codejunkies
+$003CAFC0 00000002
++Bound Diary 2
+%Credits: Codejunkies
+$003CAFC1 00000002
++Bound Diary 3
+%Credits: Codejunkies
+$003CAFC2 00000002
++Bound Diary 4
+%Credits: Codejunkies
+$003CAFC3 00000002
++Bound Diary 5
+%Credits: Codejunkies
+$003CAFC4 00000002
++Butterfly Diary 1
+%Credits: Codejunkies
+$003CAFC5 00000002
++Butterfly Diary 2
+%Credits: Codejunkies
+$003CAFC6 00000002
++Butterfly Diary 3
+%Credits: Codejunkies
+$003CAFC7 00000002
++Butterfly Diary 4
+%Credits: Codejunkies
+$003CAFC8 00000002
++Butterfly Diary 5
+%Credits: Codejunkies
+$003CAFC9 00000002
++Butterfly Diary 6
+%Credits: Codejunkies
+$003CAFCA 00000002
++Crimson Diary 1
+%Credits: Codejunkies
+$003CAFCB 00000002
++Crimson Diary 2
+%Credits: Codejunkies
+$003CAFCC 00000002
++Crimson Diary 3
+%Credits: Codejunkies
+$003CAFCD 00000002
++Crimson Diary 4
+%Credits: Codejunkies
+$003CAFCE 00000002
++Green Diary 1
+%Credits: Codejunkies
+$003CAFCF 00000002
++Green Diary 2
+%Credits: Codejunkies
+$003CAFD0 00000002
++Green Diary 3
+%Credits: Codejunkies
+$003CAFD1 00000002
++Green Diary 4
+%Credits: Codejunkies
+$003CAFD2 00000002
++Green Diary 5
+%Credits: Codejunkies
+$003CAFD3 00000002
++Village Report 1
+%Credits: Codejunkies
+$003CAFD8 00000002
++Village Report 2
+%Credits: Codejunkies
+$003CAFDA 00000002
++Village Report 3
+%Credits: Codejunkies
+$003CAFDC 00000002
++Village Report 4
+%Credits: Codejunkies
+$003CAFDE 00000002
++Village Report 5
+%Credits: Codejunkies
+$003CAFE0 00000002
++Violet Diary 1
+%Credits: Codejunkies
+$003CAFD4 00000002
++Violet Diary 2
+%Credits: Codejunkies
+$003CAFD5 00000002
++Violet Diary 3
+%Credits: Codejunkies
+$003CAFD6 00000002
++Woman's Notebook 1
+%Credits: Codejunkies
+$003CAFE2 00000002
++Woman's Notebook 2
+%Credits: Codejunkies
+$003CAFE3 00000002
++Woman's Notebook 3
+%Credits: Codejunkies
+$003CAFE4 00000002
++Woman's Notebook 4
+%Credits: Codejunkies
+$003CAFE5 00000002
++Woman's Notebook 5
+%Credits: Codejunkies
+$003CAFE6 00000002
++Woman's Notebook 6
+%Credits: Codejunkies
+$003CAFE7 00000002
+!!
++Force Flashlight On/Off {<I>Ffffffff - On 00000000 - Off</I>}
+%Credits: bungholio
+$202E1050 ????????
++Freeze Certain Ghosts (R2 + Up Freeze, R2 + Down Unfreeze) {<I>
+$002A2CC3 00000040
+$002A2CC3 00000080
+!Have File - Maps Codes:
++All God's Village Map
+%Credits: Code Master
+$003CB056 00000002
++All Maps
+%Credits: Code Master
+$103CB056 00000202
+$003CB058 00000002
++Kurosawa House Map
+%Credits: Code Master
+$003CB058 00000002
++Osaka House Map
+%Credits: Code Master
+$003CB057 00000002
+!!
+!Have File - Notebook Codes:
++All Notebooks
+%Credits: Code Master
+$403CAFC0 00050001
+$02020202 00000000
+$103CAFD4 00000202
+$003CAFD6 00000002
+$203CAFD8 00020002
+$203CAFDC 00020002
+$203CAFE0 02020202
+$203CAFE4 02020202
+$103CAFE8 00000202
++Village Report 1
+%Credits: Code Master
+$103CAFD8 00000002
++Village Report 1
+%Credits: Code Master
+$103CAFDA 00000002
++Village Report 3
+%Credits: Code Master
+$103CAFDC 00000002
++Village Report 4
+%Credits: Code Master
+$103CAFDE 00000002
++Woman's Notebook 7
+%Credits: Code Master
+$003CAFE8 00000002
++Woman's Notebook 8
+%Credits: Code Master
+$003CAFE9 00000002
+!!
+!Have File - Old Books Codes:
++All Old Books
+%Credits: Code Master
+$403CB014 00060001
+$02020202 00000000
+$103CB02C 00000202
+$003CB02E 00000002
+$103CB030 00000202
++Camera Obscura Pointers
+%Credits: Code Master
+$003CB023 00000002
++Ceremony Master's Note 1
+%Credits: Code Master
+$003CB019 00000002
++Ceremony Master's Note 2
+%Credits: Code Master
+$003CB01A 00000002
++Ceremony Master's Note 3
+%Credits: Code Master
+$003CB01B 00000002
++Ceremony Master's Note 4
+%Credits: Code Master
+$003CB01C 00000002
++Ceremony Master's Note 5
+%Credits: Code Master
+$003CB01D 00000002
++Crimson Wing Tome
+%Credits: Code Master
+$003CB014 00000002
++Disaster Tome
+%Credits: Code Master
+$003CB017 00000002
++Doll Maker Note 1
+%Credits: Code Master
+$003CB01E 00000002
++Doll Maker Note 2
+%Credits: Code Master
+$003CB01F 00000002
++Doll Maker Note 3
+%Credits: Code Master
+$003CB020 00000002
++Doll Maker Note 4
+%Credits: Code Master
+$003CB021 00000002
++Doll Maker Note 5
+%Credits: Code Master
+$003CB022 00000002
++Folklorist 1
+%Credits: Code Master
+$003CB025 00000002
++Folklorist 2
+%Credits: Code Master
+$003CB026 00000002
++Folklorist 3
+%Credits: Code Master
+$003CB027 00000002
++Folklorist 4
+%Credits: Code Master
+$003CB028 00000002
++Folklorist 5
+%Credits: Code Master
+$003CB029 00000002
++Folklorist 6
+%Credits: Code Master
+$003CB02A 00000002
++Folklorist 7
+%Credits: Code Master
+$003CB02B 00000002
++Folklorist 8
+%Credits: Code Master
+$003CB02C 00000002
++Folklorist 9
+%Credits: Code Master
+$003CB02D 00000002
++Folklorist 10
+%Credits: Code Master
+$003CB02E 00000002
++Folklorist 11
+%Credits: Code Master
+$003CB030 00000002
++Folklorist 12
+%Credits: Code Master
+$003CB031 00000002
++Ritual Tome
+%Credits: Code Master
+$003CB018 00000002
++Spirit Stone Radio Pointers
+%Credits: Code Master
+$003CB024 00000002
++Taboo Tome
+%Credits: Code Master
+$003CB015 00000002
++Twin Tome
+%Credits: Code Master
+$003CB016 00000002
+!!
+!Have File - Photos Codes:
++All Photos
+%Credits: Code Master
+$403CB03C 00050001
+$02020202 00000000
+$003CB050 00000002
++Altar
+%Credits: Code Master
+$003CB041 00000002
++Doll Stand
+%Credits: Code Master
+$003CB049 00000002
++Escaping Twins
+%Credits: Code Master
+$003CB040 00000002
++Face In The Well
+%Credits: Code Master
+$003CB045 00000002
++Facing Twins
+%Credits: Code Master
+$003CB043 00000002
++Family Altar
+%Credits: Code Master
+$003CB044 00000002
++Girl Goes Into Wall
+%Credits: Code Master
+$003CB03C 00000002
++Grave Shadow
+%Credits: Code Master
+$003CB03D 00000002
++Gravestone
+%Credits: Code Master
+$003CB03E 00000002
++Storehouse Woman
+%Credits: Code Master
+$003CB03F 00000002
++Twins & Girl
+%Credits: Code Master
+$003CB042 00000002
++Warped Twins
+%Credits: Code Master
+$003CB048 00000002
++Well
+%Credits: Code Master
+$003CB046 00000002
++White-Haired Boy
+%Credits: Code Master
+$003CB047 00000002
+!!
+!Have File - Scraps Codes:
++All Scraps
+%Credits: Code Master
+$003CAFEA 00000002
+$103CAFEE 00000202
+$003CAFF1 00000002
+$103CAFFC 00000202
+$003CAFFE 00000002
+$203CB000 02020202
+$203CB004 02020202
+$003CB008 00000002
+$103CB00A 00000202
+$203CB00C 02020202
+$203CB010 02020202
++Basic Camera Operation
+%Credits: Code Master
+$003CB012 00000002
++Charred Notes
+%Credits: Code Master
+$003CAFEE 00000002
++Design Plans
+%Credits: Code Master
+$003CAFEF 00000002
++Final Letter
+%Credits: Code Master
+$003CAFEA 00000002
++Mayu's Note
+%Credits: Code Master
+$003CAFF1 00000002
++News Clipping
+%Credits: Code Master
+$003CAFFC 00000002
++Small News Clipping
+%Credits: Code Master
+$003CAFFD 00000002
++Spirit Capture
+%Credits: Code Master
+$003CB013 00000002
++Spirit Orb
+%Credits: Code Master
+$003CAFFE 00000002
++The 'Alarm' Function
+%Credits: Code Master
+$003CB010 00000002
++The 'Blast' Lens
+%Credits: Code Master
+$003CB005 00000002
++The 'Crush' Lens
+%Credits: Code Master
+$003CB007 00000002
++The 'Evade' Function
+%Credits: Code Master
+$003CB00B 00000002
++The 'Instant' Function
+%Credits: Code Master
+$003CB00A 00000002
++The 'Measure' Function
+%Credits: Code Master
+$003CB00E 00000002
++The 'Save' Function
+%Credits: Code Master
+$003CB00C 00000002
++The 'See' Lens
+%Credits: Code Master
+$003CB002 00000002
++The 'Sense' Function
+%Credits: Code Master
+$003CB00D 00000002
++The 'Serial' Lens
+%Credits: Code Master
+$003CB008 00000002
++The 'Slow' Lens
+%Credits: Code Master
+$003CB000 00000002
++The 'Stop' Lens
+%Credits: Code Master
+$003CB004 00000002
++The 'Stun' Lens
+%Credits: Code Master
+$003CB001 00000002
++The 'Switch' Function
+%Credits: Code Master
+$003CB00F 00000002
++The 'Track' Lens
+%Credits: Code Master
+$003CB003 00000002
++The 'Zero' Lens
+%Credits: Code Master
+$003CB006 00000002
++The 'Zoom' Function
+%Credits: Code Master
+$003CB011 00000002
+!!
+!Have Item Codes:
++Bell Key
+%Credits: Code Master
+$202BD14C 00000001
++Black Bag
+%Credits: Code Master
+$202BD19C 00000001
++Bloody Ring
+%Credits: Code Master
+$202BD1CC 00000001
++Butterfly Key
+%Credits: Code Master
+$202BD0A4 00000001
++Crimson Ball
+%Credits: Code Master
+$202BD10C 00000001
++Crimson Wing Tome
+%Credits: Code Master
+$202BD0CC 00000001
++Design Plans
+%Credits: Code Master
+$202BD1A4 00000001
++Diamond Link Key
+%Credits: Code Master
+$202BD0B4 00000001
++Diamond Stack Key
+%Credits: Code Master
+$202BD0AC 00000001
++Disaster Tome
+%Credits: Code Master
+$202BD0E4 00000001
++Doll's Head
+%Credits: Code Master
+$202BD154 00000001
++Doll's Left Arm
+%Credits: Code Master
+$202BD164 00000001
++Doll's Right Arm
+%Credits: Code Master
+$202BD15C 00000001
++Film Reel 1
+%Credits: Code Master
+$202BD114 00000001
++Film Reel 2
+%Credits: Code Master
+$202BD11C 00000001
++Film Reel 3
+%Credits: Code Master
+$202BD124 00000001
++Film Reel 4
+%Credits: Code Master
+$202BD12C 00000001
++Film Reel 5
+%Credits: Code Master
+$202BD134 00000001
++Film Reel 6
+%Credits: Code Master
+$202BD13C 00000001
++Film Reel 7
+%Credits: Code Master
+$202BD144 00000001
++Flashlight
+%Credits: Code Master
+$202BD05C 00000001
++Ginger Key
+%Credits: Code Master
+$202BD0C4 00000001
++Glass Eyes
+%Credits: Code Master
+$202BD16C 00000001
++Hammer Key
+%Credits: Code Master
+$202BD0BC 00000001
++Kiryu Crest
+%Credits: Code Master
+$202BD184 00000001
++Light Key
+%Credits: Code Master
+$202BD0F4 00000001
++Master's Key
+%Credits: Code Master
+$202BD1C4 00000001
++Miyako's Diary
+%Credits: Code Master
+$202BD074 00000001
++Miyako's Diary 2
+%Credits: Code Master
+$202BD07C 00000001
++Octagon Key
+%Credits: Code Master
+$202BD1BC 00000001
++Old Book
+%Credits: Code Master
+$202BD084 00000001
++Osaka Crest
+%Credits: Code Master
+$202BD18C 00000001
++Osaka House Map
+%Credits: Code Master
+$202BD094 00000001
++Paulownia Key
+%Credits: Code Master
+$202BD1B4 00000001
++Red Cord Doll
+%Credits: Code Master
+$202BD1AC 00000001
++Ritual Tome
+%Credits: Code Master
+$202BD0EC 00000001
++Rusty Key
+%Credits: Code Master
+$202BD104 00000001
++Shadow Key
+%Credits: Code Master
+$202BD0FC 00000001
++Spirit Stone Radio
+%Credits: Code Master
+$202BD194 00000001
++Statue Photo
+%Credits: Code Master
+$202BD08C 00000001
++Taboo Tome
+%Credits: Code Master
+$202BD0D4 00000001
++Tachibana Crest
+%Credits: Code Master
+$202BD174 00000001
++Ther Camera Obscura
+%Credits: Code Master
+$202BD054 00000001
++Tsuchihara Crest
+%Credits: Code Master
+$202BD17C 00000001
++Twin Doll Heads
+%Credits: Code Master
+$202BD09C 00000001
++Twin Statue Key L
+%Credits: Code Master
+$202BD06C 00000001
++Twin Statue Key R
+%Credits: Code Master
+$202BD064 00000001
++Twin Tome
+%Credits: Code Master
+$202BD0DC 00000001
+!!
+!Have Max Items Codes:
++Have Max Items: Bell Key
+%Credits: MadCatz
+$202BD14C 00000063
++Have Max Items: Black Bag
+%Credits: MadCatz
+$202BD19C 00000063
++Have Max Items: Bloody Ring
+%Credits: MadCatz
+$202BD1CC 00000063
++Have Max Items: Butterfly Key
+%Credits: MadCatz
+$202BD0A4 00000063
++Have Max Items: Crimson Ball
+%Credits: MadCatz
+$202BD10C 00000063
++Have Max Items: Crimson Wing Tome
+%Credits: MadCatz
+$202BD0CC 00000063
++Have Max Items: Design Plans
+%Credits: MadCatz
+$202BD1A4 00000063
++Have Max Items: Diamond Link Key
+%Credits: MadCatz
+$202BD0B4 00000063
++Have Max Items: Diamond Stack Key
+%Credits: MadCatz
+$202BD0AC 00000063
++Have Max Items: Disaster Tome
+%Credits: MadCatz
+$202BD0E4 00000063
++Have Max Items: Doll's Head
+%Credits: MadCatz
+$202BD154 00000063
++Have Max Items: Doll's Left Arm
+%Credits: MadCatz
+$202BD164 00000063
++Have Max Items: Doll's Right Arm
+%Credits: MadCatz
+$202BD15C 00000063
++Have Max Items: Film Reel 1
+%Credits: MadCatz
+$202BD114 00000063
++Have Max Items: Film Reel 2
+%Credits: MadCatz
+$202BD11C 00000063
++Have Max Items: Film Reel 3
+%Credits: MadCatz
+$202BD124 00000063
++Have Max Items: Film Reel 4
+%Credits: MadCatz
+$202BD12C 00000063
++Have Max Items: Film Reel 5
+%Credits: MadCatz
+$202BD134 00000063
++Have Max Items: Film Reel 6
+%Credits: MadCatz
+$202BD13C 00000063
++Have Max Items: Film Reel 7
+%Credits: MadCatz
+$202BD144 00000063
++Have Max Items: Flash Light
+%Credits: MadCatz
+$202BD05C 00000063
++Have Max Items: Ginger Key
+%Credits: MadCatz
+$202BD0C4 00000063
++Have Max Items: Glass Eyes
+%Credits: MadCatz
+$202BD16C 00000063
++Have Max Items: Hammer Key
+%Credits: MadCatz
+$202BD0BC 00000063
++Have Max Items: Herbal Medicine
+%Credits: MadCatz
+$202BD02C 00000063
++Have Max Items: Kiryu Crest
+%Credits: MadCatz
+$202BD184 00000063
++Have Max Items: Light Key
+%Credits: MadCatz
+$202BD0F4 00000063
++Have Max Items: Master's Key
+%Credits: MadCatz
+$202BD1C4 00000063
++Have Max Items: Miyako's Diary 1
+%Credits: MadCatz
+$202BD074 00000063
++Have Max Items: Miyako's Diary 2
+%Credits: MadCatz
+$202BD07C 00000063
++Have Max Items: Moon Grass
+%Credits: MadCatz
+$202BD044 00000063
++Have Max Items: Moon Incense
+%Credits: MadCatz
+$202BD04C 00000063
++Have Max Items: Octagon Key
+%Credits: MadCatz
+$202BD1BC 00000063
++Have Max Items: Old Book
+%Credits: MadCatz
+$202BD084 00000063
++Have Max Items: Osaka Crest
+%Credits: MadCatz
+$202BD18C 00000063
++Have Max Items: Osaka House Map
+%Credits: MadCatz
+$202BD094 00000063
++Have Max Items: Paulownia Key
+%Credits: MadCatz
+$202BD1B4 00000063
++Have Max Items: Red Cord Doll
+%Credits: MadCatz
+$202BD1AC 00000063
++Have Max Items: Ritual Tome
+%Credits: MadCatz
+$202BD0EC 00000063
++Have Max Items: Rusty Key
+%Credits: MadCatz
+$202BD104 00000063
++Have Max Items: Sacred Water
+%Credits: MadCatz
+$202BD034 00000063
++Have Max Items: Shadow Key
+%Credits: MadCatz
+$202BD0FC 00000063
++Have Max Items: Spirit Stone Radio
+%Credits: MadCatz
+$202BD194 00000063
++Have Max Items: Statue Photo
+%Credits: MadCatz
+$202BD08C 00000063
++Have Max Items: Stone Mirror
+%Credits: MadCatz
+$202BD03C 00000063
++Have Max Items: Taboo Tome
+%Credits: MadCatz
+$202BD0D4 00000063
++Have Max Items: Tachibana Crest
+%Credits: MadCatz
+$202BD174 00000063
++Have Max Items: The Camera Of Obscura
+%Credits: MadCatz
+$202BD054 00000063
++Have Max Items: Tsuchihara Crest
+%Credits: MadCatz
+$202BD17C 00000063
++Have Max Items: Twin Doll Heads
+%Credits: MadCatz
+$202BD09C 00000063
++Have Max Items: Twin Statue Key L
+%Credits: MadCatz
+$202BD06C 00000063
++Have Max Items: Twin Statue Key R
+%Credits: MadCatz
+$202BD064 00000063
++Have Max Items: Twin Tome
+%Credits: MadCatz
+$202BD0DC 00000063
++Have Max Items: Type-7 Film
+%Credits: MadCatz
+$202BD004 00000001
++Have Max Items: Type-14 Film
+%Credits: MadCatz
+$202BD00C 00000063
++Have Max Items: Type-61 Film
+%Credits: MadCatz
+$202BD014 00000063
++Have Max Items: Type-90 Film
+%Credits: MadCatz
+$202BD01C 00000063
++Have Max Items: Type-Zero Film
+%Credits: MadCatz
+$202BD024 00000063
++Have: All Maps
+%Credits: MadCatz
+$003CB056 00000002
+$003CB057 00000002
+$003CB058 00000002
++Have: All Notebooks
+%Credits: MadCatz
+$403CAFC0 000A0001
+$02020202 00000000
++Have: All Old Books
+%Credits: MadCatz
+$403CB014 00040001
+$02020202 00000000
++Have: All Photos
+%Credits: MadCatz
+$403CB03C 00040001
+$02020202 00000000
+$003CB050 00000002
++Have: All Radio Stones
+%Credits: MadCatz
+$40372140 000A0001
+$02020202 00000000
++Have: All Scraps
+%Credits: MadCatz
+$403CAFFC 00060001
+$02020202 00000000
+!!
+!Have Memo Codes:
++All Memos
+%Credits: Code Master
+$40404028 00140002
+$00000002 00000000
++Chitose Tachibana
+%Credits: Code Master
+$20404090 00000002
++Crimson Butterfly
+%Credits: Code Master
+$20404078 00000002
++Crimson Sacrifice
+%Credits: Code Master
+$20404060 00000002
++Folklorist
+%Credits: Code Master
+$204040A8 00000002
++Hidden Ceremony
+%Credits: Code Master
+$20404040 00000002
++Lost Couple
+%Credits: Code Master
+$20404030 00000002
++Lost Village
+%Credits: Code Master
+$20404028 00000002
++Massacre
+%Credits: Code Master
+$20404050 00000002
++One Girl
+%Credits: Code Master
+$204040A0 00000002
++One Remained
+%Credits: Code Master
+$20404098 00000002
++Secret Site
+%Credits: Code Master
+$20404070 00000002
++Spirit Stone Radio
+%Credits: Code Master
+$204040C0 00000002
++The Camera Obscura
+%Credits: Code Master
+$20404088 00000002
++The Cave
+%Credits: Code Master
+$20404080 00000002
++The Repentance
+%Credits: Code Master
+$20404068 00000002
++Trapped Boy
+%Credits: Code Master
+$20404038 00000002
++Twin Doll
+%Credits: Code Master
+$20404048 00000002
++Twin Order
+%Credits: Code Master
+$204040B0 00000002
++Twin Shrine
+%Credits: Code Master
+$204040B8 00000002
++Twin Shrine Maidens
+%Credits: Code Master
+$20404058 00000002
+!!
+!Have Radio Codes:
++Aragnite (Small)
+%Credits: Code Master
+$0037215C 00000002
++Aragonite
+%Credits: Code Master
+$00372158 00000002
++Blue Crystal
+%Credits: Code Master
+$00372156 00000002
++Chrysoberyl
+%Credits: Code Master
+$0037215F 00000002
++Chrysocolla 1
+%Credits: Code Master
+$00372152 00000002
++Chrysocolla 2
+%Credits: Code Master
+$00372153 00000002
++Crystal Ore
+%Credits: Code Master
+$0037214F 00000002
++Dimly Glowing Crystal
+%Credits: Code Master
+$00372161 00000002
++Dolomite
+%Credits: Code Master
+$00372155 00000002
++Faintly Glowing Crystal
+%Credits: Code Master
+$00372165 00000002
++Fluorite 1
+%Credits: Code Master
+$0037214B 00000002
++Fluorite 2
+%Credits: Code Master
+$0037214C 00000002
++Fluorite 3
+%Credits: Code Master
+$0037214D 00000002
++Fluorite 4
+%Credits: Code Master
+$0037214E 00000002
++Garnet
+%Credits: Code Master
+$0037215A 00000002
++Glowing Blue Crystal
+%Credits: Code Master
+$00372164 00000002
++Glowing Green Crystal
+%Credits: Code Master
+$00372166 00000002
++Glowing Purple Crystal
+%Credits: Code Master
+$00372167 00000002
++Glowing Red Crystal
+%Credits: Code Master
+$00372163 00000002
++Glowing Yellow Crystal
+%Credits: Code Master
+$00372162 00000002
++Green Crystal
+%Credits: Code Master
+$0037215D 00000002
++Lazulite 1
+%Credits: Code Master
+$00372150 00000002
++Lazulite 2
+%Credits: Code Master
+$00372151 00000002
++Mayu's Charm 1
+%Credits: Code Master
+$00372140 00000002
++Mayu's Charm 2
+%Credits: Code Master
+$00372141 00000002
++Mayu's Charm 3
+%Credits: Code Master
+$00372142 00000002
++Mayu's Charm 4
+%Credits: Code Master
+$00372143 00000002
++Mayu's Charm 5
+%Credits: Code Master
+$00372144 00000002
++Mayu's Charm 6
+%Credits: Code Master
+$00372145 00000002
++Mayu's Charm 7
+%Credits: Code Master
+$00372146 00000002
++Mayu's Charm 8
+%Credits: Code Master
+$00372147 00000002
++Mayu's Charm 9
+%Credits: Code Master
+$00372148 00000002
++Mayu's Charm 10
+%Credits: Code Master
+$00372149 00000002
++Mayu's Charm 11
+%Credits: Code Master
+$0037214A 00000002
++Moonstone
+%Credits: Code Master
+$00372160 00000002
++Pale Purple Crystal
+%Credits: Code Master
+$00372157 00000002
++Prehnite
+%Credits: Code Master
+$0037215B 00000002
++Red Speckled Crystal
+%Credits: Code Master
+$00372154 00000002
++Sard
+%Credits: Code Master
+$00372159 00000002
++Spodumene
+%Credits: Code Master
+$0037215E 00000002
+!!
+!Individual Ghost Codes:
++Have 1St Ghost In The List [Wanderer]
+%Credits: bungholio
+$004091E0 00000002
++Have 2Nd Ghost In The List [Seeker]
+%Credits: bungholio
+$004091E8 00000002
++Have 3Rd Ghost In The List [Sickle Bearer]
+%Credits: bungholio
+$004091F0 00000002
++Have 4Th Ghost In The List [Pole Bearer]
+%Credits: bungholio
+$004091F8 00000002
++Have 5Th Ghost In The List [Sunken Woman]
+%Credits: bungholio
+$00409200 00000002
++Have 6Th Ghost In The List [Veiled Priest]
+%Credits: bungholio
+$00409208 00000002
++Have 7Th Ghost In The List [Man In Dark]
+%Credits: bungholio
+$00409210 00000002
++Have 8Th Ghost In The List [Woman In Dark]
+%Credits: bungholio
+$00409218 00000002
++Have 9Th Ghost In The List [Bloody Kimono]
+%Credits: bungholio
+$00409220 00000002
++Have 10Th Ghost In The List [Unrest In Piece]
+%Credits: bungholio
+$00409228 00000002
++Have 11Th Ghost In The List [Rope Man]
+%Credits: bungholio
+$00409230 00000002
++Have 12Th Ghost In The List [Crimson Kimono]
+%Credits: bungholio
+$00409238 00000002
++Have 13Th Ghost In The List [Fallen Woman]
+%Credits: bungholio
+$00409240 00000002
++Have 14Th Ghost In The List [Twin's Doll]
+%Credits: bungholio
+$00409248 00000002
++Have 15Th Ghost In The List [Twin's Spirit]
+%Credits: bungholio
+$00409250 00000002
++Have 16Th Ghost In The List [Woman In Box]
+%Credits: bungholio
+$00409258 00000002
++Have 17Th Ghost In The List [Broken Neck Woman]
+%Credits: bungholio
+$00409260 00000002
++Have 18Th Ghost In The List [Doll Maker]
+%Credits: bungholio
+$00409268 00000002
++Have 19Th Ghost In The List [Girl Playing Tag]
+%Credits: bungholio
+$00409270 00000002
++Have 20Th Ghost In The List [Boy Playing Tag]
+%Credits: bungholio
+$00409278 00000002
++Have 21St Ghost In The List [Boy Playing Tag]
+%Credits: bungholio
+$00409280 00000002
++Have 22Nd Ghost In The List [The Mourner]
+%Credits: bungholio
+$00409288 00000002
++Have 23Rd Ghost In The List [Limbo Man]
+%Credits: bungholio
+$00409290 00000002
++Have 24Th Ghost In The List [Limbo Woman]
+%Credits: bungholio
+$00409298 00000002
++Have 25Th Ghost In The List [Mr. Kurosawa]
+%Credits: bungholio
+$004092A0 00000002
++Have 26Th Ghost In The List [Waiting Woman]
+%Credits: bungholio
+$004092A8 00000002
++Have 27Th Ghost In The List [Walks Inside]
+%Credits: bungholio
+$004092B0 00000002
++Have 28Th Ghost In The List [Vanishes At Altar]
+%Credits: bungholio
+$004092B8 00000002
++Have 29Th Ghost In The List [Atrium Woman]
+%Credits: bungholio
+$004092C0 00000002
++Have 30Th Ghost In The List [Vanishes At Door]
+%Credits: bungholio
+$004092C8 00000002
++Have 31St Ghost In The List [Man On Deck]
+%Credits: bungholio
+$004092D0 00000002
++Have 32Nd Ghost In The List [Woman Behind Net]
+%Credits: bungholio
+$004092D8 00000002
++Have 33Rd Ghost In The List [Stair Climber]
+%Credits: bungholio
+$004092E0 00000002
++Have 34Th Ghost In The List [Standing Woman]
+%Credits: bungholio
+$004092E8 00000002
++Have 35Th Ghost In The List [Beckoner]
+%Credits: bungholio
+$004092F0 00000002
++Have 36Th Ghost In The List [Stands Behind]
+%Credits: bungholio
+$004092F8 00000002
++Have 37Th Ghost In The List [Butterfly Chaser]
+%Credits: bungholio
+$00409300 00000002
++Have 38Th Ghost In The List [Trapped Boy]
+%Credits: bungholio
+$00409308 00000002
++Have 39Th Ghost In The List [Bloody Kimono]
+%Credits: bungholio
+$00409310 00000002
++Have 40Th Ghost In The List [Floating Woman]
+%Credits: bungholio
+$00409318 00000002
++Have 41St Ghost In The List [Priest Behind]
+%Credits: bungholio
+$00409320 00000002
++Have 42Nd Ghost In The List [Terrified Man]
+%Credits: bungholio
+$00409328 00000002
++Have 43Rd Ghost In The List [2Nd Floor Mayu]
+%Credits: bungholio
+$00409330 00000002
++Have 44Th Ghost In The List [Dragger]
+%Credits: bungholio
+$00409338 00000002
++Have 45Th Ghost In The List [Dragee]
+%Credits: bungholio
+$00409340 00000002
++Have 46Th Ghost In The List [Fleeing Villager]
+%Credits: bungholio
+$00409348 00000002
++Have 47Th Ghost In The List [Turns Head]
+%Credits: bungholio
+$00409350 00000002
++Have 48Th Ghost In The List [Talking Man]
+%Credits: bungholio
+$00409358 00000002
++Have 49Th Ghost In The List [Calling Man]
+%Credits: bungholio
+$00409360 00000002
++Have 50Th Ghost In The List [Behind Cloth]
+%Credits: bungholio
+$00409368 00000002
++Have 51St Ghost In The List [Clinging Shadow]
+%Credits: bungholio
+$00409370 00000002
++Have 52Nd Ghost In The List [Hopes For Ritual]
+%Credits: bungholio
+$00409378 00000002
++Have 53Rd Ghost In The List [Curtain Shadow]
+%Credits: bungholio
+$00409380 00000002
++Have 54Th Ghost In The List [Child At Door]
+%Credits: bungholio
+$00409388 00000002
++Have 55Th Ghost In The List [Fading Child]
+%Credits: bungholio
+$00409390 00000002
++Have 56Th Ghost In The List [Cut-In Child]
+%Credits: bungholio
+$00409398 00000002
++Have 57Th Ghost In The List [Peeking Child]
+%Credits: bungholio
+$004093A0 00000002
++Have 58Th Ghost In The List [Captive Man]
+%Credits: bungholio
+$004093A8 00000002
++Have 59Th Ghost In The List [Ritual Researcher]
+%Credits: bungholio
+$004093B0 00000002
++Have 60Th Ghost In The List [Ritual Pusher]
+%Credits: bungholio
+$004093B8 00000002
++Have 61St Ghost In The List [Speaking Man]
+%Credits: bungholio
+$004093C0 00000002
++Have 62Nd Ghost In The List [Warehouse Checker]
+%Credits: bungholio
+$004093C8 00000002
++Have 63Rd Ghost In The List [Waiting Priest]
+%Credits: bungholio
+$004093D0 00000002
++Have 64Th Ghost In The List [Hanging Hand]
+%Credits: bungholio
+$004093D8 00000002
++Have 65Th Ghost In The List [No Escape]
+%Credits: bungholio
+$004093E0 00000002
++Have 66Th Ghost In The List [Confined Mayu]
+%Credits: bungholio
+$004093E8 00000002
++Have 67Th Ghost In The List [Corridor Woman]
+%Credits: bungholio
+$004093F0 00000002
++Have 68Th Ghost In The List [Lured Woman]
+%Credits: bungholio
+$004093F8 00000002
++Have 69Th Ghost In The List [Weeping Woman]
+%Credits: bungholio
+$00409400 00000002
++Have 70Th Ghost In The List [Pulled Shadow]
+%Credits: bungholio
+$00409408 00000002
++Have 71St Ghost In The List [Staring Woman]
+%Credits: bungholio
+$00409410 00000002
++Have 72Nd Ghost In The List [Searching Below]
+%Credits: bungholio
+$00409418 00000002
++Have 73Rd Ghost In The List [Man Facing Wall]
+%Credits: bungholio
+$00409420 00000002
++Have 74Th Ghost In The List [Crying Girl]
+%Credits: bungholio
+$00409428 00000002
++Have 75Th Ghost In The List [Entering Man]
+%Credits: bungholio
+$00409430 00000002
++Have 76Th Ghost In The List [Man In Study]
+%Credits: bungholio
+$00409438 00000002
++Have 77Th Ghost In The List [Lattice Arm]
+%Credits: bungholio
+$00409440 00000002
++Have 78Th Ghost In The List [Grave Girl]
+%Credits: bungholio
+$00409448 00000002
++Have 79Th Ghost In The List [Storehouse Bound]
+%Credits: bungholio
+$00409450 00000002
++Have 80Th Ghost In The List [Peeking Kid]
+%Credits: bungholio
+$00409458 00000002
++Have 81St Ghost In The List [Dazed Girl]
+%Credits: bungholio
+$00409460 00000002
++Have 82Nd Ghost In The List [Dazed Doll]
+%Credits: bungholio
+$00409468 00000002
++Have 83Rd Ghost In The List [Fleeing Twin]
+%Credits: bungholio
+$00409470 00000002
++Have 84Th Ghost In The List [Fleeing Doll]
+%Credits: bungholio
+$00409478 00000002
++Have 85Th Ghost In The List [Vanishing Twin]
+%Credits: bungholio
+$00409480 00000002
++Have 86Th Ghost In The List [Vanishing Doll]
+%Credits: bungholio
+$00409488 00000002
++Have 87Th Ghost In The List [Sitting Twin]
+%Credits: bungholio
+$00409490 00000002
++Have 88Th Ghost In The List [Sitting Doll]
+%Credits: bungholio
+$00409498 00000002
++Have 89Th Ghost In The List [Hidden Man]
+%Credits: bungholio
+$004094A0 00000002
++Have 90Th Ghost In The List [Doomed Girl]
+%Credits: bungholio
+$004094A8 00000002
++Have 91St Ghost In The List [Peeping Child]
+%Credits: bungholio
+$004094B0 00000002
++Have 92Nd Ghost In The List [Crimson Kimono]
+%Credits: bungholio
+$004094B8 00000002
++Have 93Rd Ghost In The List [Crying Mayu]
+%Credits: bungholio
+$004094C0 00000002
++Have 94Th Ghost In The List [Fleeing Girl]
+%Credits: bungholio
+$004094C8 00000002
++Have 95Th Ghost In The List [Evil Arm]
+%Credits: bungholio
+$004094D0 00000002
++Have 96Th Ghost In The List [Fallen Mayu]
+%Credits: bungholio
+$004094D8 00000002
++Have 97Th Ghost In The List [Storehouse Bound]
+%Credits: bungholio
+$004094E0 00000002
++Have 98Th Ghost In The List [Imprisoned Boy]
+%Credits: bungholio
+$004094E8 00000002
++Have 99Th Ghost In The List [Running Child]
+%Credits: bungholio
+$004094F0 00000002
++Have 100Th Ghost In The List [Running Child]
+%Credits: bungholio
+$004094F8 00000002
++Have 101St Ghost In The List [Running Child]
+%Credits: bungholio
+$00409500 00000002
++Have 102Nd Ghost In The List [Hiding Child]
+%Credits: bungholio
+$00409508 00000002
++Have 103Rd Ghost In The List [Hiding Child]
+%Credits: bungholio
+$00409510 00000002
++Have 104Th Ghost In The List [Hiding Child]
+%Credits: bungholio
+$00409518 00000002
++Have 105Th Ghost In The List [Roaming Doll]
+%Credits: bungholio
+$00409520 00000002
++Have 106Th Ghost In The List [Prisoner]
+%Credits: bungholio
+$00409528 00000002
++Have 107Th Ghost In The List [White Kimono]
+%Credits: bungholio
+$00409530 00000002
++Have 108Th Ghost In The List [Eternal Ritual]
+%Credits: bungholio
+$00409538 00000002
++Have 109Th Ghost In The List [Eternal Ritual]
+%Credits: bungholio
+$00409540 00000002
++Have 110Th Ghost In The List [Hellish Abyss Mayu]
+%Credits: bungholio
+$00409548 00000002
++Have 111Th Ghost In The List [Gate Checker]
+%Credits: bungholio
+$00409550 00000002
++Have 112Th Ghost In The List [Woman On Deck]
+%Credits: bungholio
+$00409558 00000002
++Have 113Th Ghost In The List [Statue Checker]
+%Credits: bungholio
+$00409560 00000002
++Have 114Th Ghost In The List [Well Checker]
+%Credits: bungholio
+$00409568 00000002
++Have 115Th Ghost In The List [Man At Shrine]
+%Credits: bungholio
+$00409570 00000002
++Have 116Th Ghost In The List [Exhausted Man]
+%Credits: bungholio
+$00409578 00000002
++Have 117Th Ghost In The List [Girl In Hiding]
+%Credits: bungholio
+$00409580 00000002
++Have 118Th Ghost In The List [Frozen Woman]
+%Credits: bungholio
+$00409588 00000002
++Have 119Th Ghost In The List [Frozen Man]
+%Credits: bungholio
+$00409590 00000002
++Have 120Th Ghost In The List [Shrine Shadow]
+%Credits: bungholio
+$00409598 00000002
++Have 121St Ghost In The List [Drowned Woman]
+%Credits: bungholio
+$004095A0 00000002
++Have 122Nd Ghost In The List [Looking Down]
+%Credits: bungholio
+$004095A8 00000002
++Have 123Rd Ghost In The List [Doll Stand Shadow]
+%Credits: bungholio
+$004095B0 00000002
++Have 124Th Ghost In The List [Garden Woman]
+%Credits: bungholio
+$004095B8 00000002
++Have 125Th Ghost In The List [Man In Shadows]
+%Credits: bungholio
+$004095C0 00000002
++Have 126Th Ghost In The List [Woman In Box]
+%Credits: bungholio
+$004095C8 00000002
++Have 127Th Ghost In The List [Miyako Sudo]
+%Credits: bungholio
+$004095D0 00000002
++Have 128Th Ghost In The List [Shivering Woman]
+%Credits: bungholio
+$004095D8 00000002
++Have 129Th Ghost In The List [Masumi Makimura]
+%Credits: bungholio
+$004095E0 00000002
++Have 130Th Ghost In The List [Free Fall]
+%Credits: bungholio
+$004095E8 00000002
++Have 131St Ghost In The List [Pinned Down]
+%Credits: bungholio
+$004095F0 00000002
++Have 132Nd Ghost In The List [Corner Woman]
+%Credits: bungholio
+$004095F8 00000002
++Have 133Rd Ghost In The List [Crushed Men]
+%Credits: bungholio
+$00409600 00000002
++Have 134Th Ghost In The List [Photo Woman]
+%Credits: bungholio
+$00409608 00000002
++Have 135Th Ghost In The List [Male Twin]
+%Credits: bungholio
+$00409610 00000002
++Have 136Th Ghost In The List [Window Woman]
+%Credits: bungholio
+$00409618 00000002
++Have 137Th Ghost In The List [Jumping Woman]
+%Credits: bungholio
+$00409620 00000002
++Have 138Th Ghost In The List [Yoshitatsu Kiryu]
+%Credits: bungholio
+$00409628 00000002
++Have 139Th Ghost In The List [Seijiro Makabe]
+%Credits: bungholio
+$00409630 00000002
++Have 140Th Ghost In The List [Ryokan Kurosawa]
+%Credits: bungholio
+$00409638 00000002
++Have 141St Ghost In The List [Sae Kurosawa]
+%Credits: bungholio
+$00409640 00000002
++Have 142Nd Ghost In The List [Failed Kusabi]
+%Credits: bungholio
+$00409648 00000002
++Have 143Rd Ghost In The List [Yae Kurosawa]
+%Credits: bungholio
+$00409650 00000002
++Have 144Th Ghost In The List [Trapped Girl]
+%Credits: bungholio
+$00409658 00000002
++Have 145Th Ghost In The List [The Repentance]
+%Credits: bungholio
+$00409660 00000002
++Have 146Th Ghost In The List [Swallowed By Dark]
+%Credits: bungholio
+$00409668 00000002
++Have 147Th Ghost In The List [James Mielke]
+%Credits: bungholio
+$00409670 00000002
++Have 148Th Ghost In The List [Joe Rybicki]
+%Credits: bungholio
+$00409678 00000002
++Have 149Th Ghost In The List [Dave Halverson]
+%Credits: bungholio
+$00409680 00000002
++Have 150Th Ghost In The List [Bill Donohue]
+%Credits: bungholio
+$00409688 00000002
++Have 151St Ghost In The List [Cleanser]
+%Credits: bungholio
+$00409690 00000002
++Have 152Nd Ghost In The List [Unrequited]
+%Credits: bungholio
+$00409698 00000002
++Have 153Rd Ghost In The List [Wanderer]
+%Credits: bungholio
+$004096A0 00000002
++Have 154Th Ghost In The List [Seeker]
+%Credits: bungholio
+$004096A8 00000002
++Have 155Th Ghost In The List [Sickle Bearer]
+%Credits: bungholio
+$004096B0 00000002
++Have 156Th Ghost In The List [Pole Bearer]
+%Credits: bungholio
+$004096B8 00000002
++Have 157Th Ghost In The List [Sunken Woman]
+%Credits: bungholio
+$004096C0 00000002
++Have 158Th Ghost In The List [Veiled Priest]
+%Credits: bungholio
+$004096C8 00000002
++Have 159Th Ghost In The List [Man In Dark]
+%Credits: bungholio
+$004096D0 00000002
++Have 160Th Ghost In The List [Woman In Dark]
+%Credits: bungholio
+$004096D8 00000002
++Have 161St Ghost In The List [Bloody Kimono]
+%Credits: bungholio
+$004096E0 00000002
++Have 162Nd Ghost In The List [Unrest In Piece]
+%Credits: bungholio
+$004096E8 00000002
++Have 163Rd Ghost In The List [Rope Man]
+%Credits: bungholio
+$004096F0 00000002
++Have 164Th Ghost In The List [Crimson Kimono]
+%Credits: bungholio
+$004096F8 00000002
++Have 165Th Ghost In The List [Fallen Woman]
+%Credits: bungholio
+$00409700 00000002
++Have 166Th Ghost In The List [Twin's Doll]
+%Credits: bungholio
+$00409708 00000002
++Have 167Th Ghost In The List [Twin's Spirit]
+%Credits: bungholio
+$00409710 00000002
++Have 168Th Ghost In The List [Woman In Box]
+%Credits: bungholio
+$00409718 00000002
++Have 169Th Ghost In The List [Broken Neck Woman]
+%Credits: bungholio
+$00409720 00000002
++Have 170Th Ghost In The List [Doll Maker]
+%Credits: bungholio
+$00409728 00000002
++Have 171St Ghost In The List [Girl Playing Tag]
+%Credits: bungholio
+$00409730 00000002
++Have 172Nd Ghost In The List [Boy Playing Tag]
+%Credits: bungholio
+$00409738 00000002
++Have 173Rd Ghost In The List [Boy Playing Tag]
+%Credits: bungholio
+$00409740 00000002
++Have 174Th Ghost In The List [The Mourner]
+%Credits: bungholio
+$00409748 00000002
++Have 175Th Ghost In The List [Limbo Man]
+%Credits: bungholio
+$00409750 00000002
++Have 176Th Ghost In The List [Limbo Woman]
+%Credits: bungholio
+$00409758 00000002
++Have 177Th Ghost In The List [Mr. Kurosawa]
+%Credits: bungholio
+$00409760 00000002
+!!
+!Individual Mission Codes:
++Have Mission 1 Complete
+%Credits: bungholio
+$004050E8 00000003
++Have Mission 2 Complete
+%Credits: bungholio
+$004050F8 00000003
++Have Mission 3 Complete
+%Credits: bungholio
+$00405108 00000003
++Have Mission 4 Complete
+%Credits: bungholio
+$00405118 00000003
++Have Mission 5 Complete
+%Credits: bungholio
+$00405128 00000003
++Have Mission 6 Complete
+%Credits: bungholio
+$00405138 00000003
++Have Mission 7 Complete
+%Credits: bungholio
+$00405148 00000003
++Have Mission 8 Complete
+%Credits: bungholio
+$00405158 00000003
++Have Mission 9 Complete
+%Credits: bungholio
+$00405168 00000003
++Have Mission 10 Complete
+%Credits: bungholio
+$00405178 00000003
++Have Mission 11 Complete
+%Credits: bungholio
+$00405188 00000003
++Have Mission 12 Complete
+%Credits: bungholio
+$00405198 00000003
++Have Mission 13 Complete
+%Credits: bungholio
+$004051A8 00000003
++Have Mission 14 Complete
+%Credits: bungholio
+$004051B8 00000003
++Have Mission 15 Complete
+%Credits: bungholio
+$004051C8 00000003
++Have Mission 16 Complete
+%Credits: bungholio
+$004051D8 00000003
++Have Mission 17 Complete
+%Credits: bungholio
+$004051E8 00000003
++Have Mission 18 Complete
+%Credits: bungholio
+$004051F8 00000003
++Have Mission 19 Complete
+%Credits: bungholio
+$00405208 00000003
++Have Mission 20 Complete
+%Credits: bungholio
+$00405218 00000003
++Have Mission 21 Complete
+%Credits: bungholio
+$00405228 00000003
++Have Mission 22 Complete
+%Credits: bungholio
+$00405238 00000003
++Have Mission 23 Complete
+%Credits: bungholio
+$00405248 00000003
++Have Mission 24 Complete
+%Credits: bungholio
+$00405258 00000003
++Have Mission 25 Complete
+%Credits: bungholio
+$00405268 00000003
++Mission 1 Best Shot Score
+%Credits: bungholio
+$204050F4 ????????
++Mission 1 Time
+%Credits: bungholio
+$204050EC ????????
++Mission 1 Total Score
+%Credits: bungholio
+$204050F0 ????????
++Mission 2 Best Shot Score
+%Credits: bungholio
+$20405104 ????????
++Mission 2 Time
+%Credits: bungholio
+$204050FC ????????
++Mission 2 Total Score
+%Credits: bungholio
+$20405100 ????????
++Mission 3 Best Shot Score
+%Credits: bungholio
+$20405114 ????????
++Mission 3 Time
+%Credits: bungholio
+$2040510C ????????
++Mission 3 Total Score
+%Credits: bungholio
+$20405110 ????????
++Mission 4 Best Shot Score
+%Credits: bungholio
+$20405124 ????????
++Mission 4 Time
+%Credits: bungholio
+$2040511C ????????
++Mission 4 Total Score
+%Credits: bungholio
+$20405120 ????????
++Mission 5 Best Shot Score
+%Credits: bungholio
+$20405134 ????????
++Mission 5 Time
+%Credits: bungholio
+$2040512C ????????
++Mission 5 Total Score
+%Credits: bungholio
+$20405130 ????????
++Mission 6 Best Shot Score
+%Credits: bungholio
+$20405144 ????????
++Mission 6 Time
+%Credits: bungholio
+$2040513C ????????
++Mission 6 Total Score
+%Credits: bungholio
+$20405140 ????????
++Mission 7 Best Shot Score
+%Credits: bungholio
+$20405154 ????????
++Mission 7 Time
+%Credits: bungholio
+$2040514C ????????
++Mission 7 Total Score
+%Credits: bungholio
+$20405150 ????????
++Mission 8 Best Shot Score
+%Credits: bungholio
+$20405164 ????????
++Mission 8 Time
+%Credits: bungholio
+$2040515C ????????
++Mission 8 Total Score
+%Credits: bungholio
+$20405160 ????????
++Mission 9 Best Shot Score
+%Credits: bungholio
+$20405174 ????????
++Mission 9 Time
+%Credits: bungholio
+$2040516C ????????
++Mission 9 Total Score
+%Credits: bungholio
+$20405170 ????????
++Mission 10 Best Shot Score
+%Credits: bungholio
+$20405184 ????????
++Mission 10 Time
+%Credits: bungholio
+$2040517C ????????
++Mission 10 Total Score
+%Credits: bungholio
+$20405180 ????????
++Mission 11 Best Shot Score
+%Credits: bungholio
+$20405194 ????????
++Mission 11 Time
+%Credits: bungholio
+$2040518C ????????
++Mission 11 Total Score
+%Credits: bungholio
+$20405190 ????????
++Mission 12 Best Shot Score
+%Credits: bungholio
+$204051A4 ????????
++Mission 12 Time
+%Credits: bungholio
+$2040519C ????????
++Mission 12 Total Score
+%Credits: bungholio
+$204051A0 ????????
++Mission 13 Best Shot Score
+%Credits: bungholio
+$204051B4 ????????
++Mission 13 Time
+%Credits: bungholio
+$204051AC ????????
++Mission 13 Total Score
+%Credits: bungholio
+$204051B0 ????????
++Mission 14 Best Shot Score
+%Credits: bungholio
+$204051C4 ????????
++Mission 14 Time
+%Credits: bungholio
+$204051BC ????????
++Mission 14 Total Score
+%Credits: bungholio
+$204051C0 ????????
++Mission 15 Best Shot Score
+%Credits: bungholio
+$204051D4 ????????
++Mission 15 Time
+%Credits: bungholio
+$204051CC ????????
++Mission 15 Total Score
+%Credits: bungholio
+$204051D0 ????????
++Mission 16 Best Shot Score
+%Credits: bungholio
+$204051E4 ????????
++Mission 16 Time
+%Credits: bungholio
+$204051DC ????????
++Mission 16 Total Score
+%Credits: bungholio
+$204051E0 ????????
++Mission 17 Best Shot Score
+%Credits: bungholio
+$204051F4 ????????
++Mission 17 Time
+%Credits: bungholio
+$204051EC ????????
++Mission 17 Total Score
+%Credits: bungholio
+$204051F0 ????????
++Mission 18 Best Shot Score
+%Credits: bungholio
+$20405204 ????????
++Mission 18 Time
+%Credits: bungholio
+$204051FC ????????
++Mission 18 Total Score
+%Credits: bungholio
+$20405200 ????????
++Mission 19 Best Shot Score
+%Credits: bungholio
+$20405214 ????????
++Mission 19 Time
+%Credits: bungholio
+$2040520C ????????
++Mission 19 Total Score
+%Credits: bungholio
+$20405210 ????????
++Mission 20 Best Shot Score
+%Credits: bungholio
+$20405224 ????????
++Mission 20 Time
+%Credits: bungholio
+$2040521C ????????
++Mission 20 Total Score
+%Credits: bungholio
+$20405220 ????????
++Mission 21 Best Shot Score
+%Credits: bungholio
+$20405234 ????????
++Mission 21 Time
+%Credits: bungholio
+$2040522C ????????
++Mission 21 Total Score
+%Credits: bungholio
+$20405230 ????????
++Mission 22 Best Shot Score
+%Credits: bungholio
+$20405244 ????????
++Mission 22 Time
+%Credits: bungholio
+$2040523C ????????
++Mission 22 Total Score
+%Credits: bungholio
+$20405240 ????????
++Mission 23 Best Shot Score
+%Credits: bungholio
+$20405254 ????????
++Mission 23 Time
+%Credits: bungholio
+$2040524C ????????
++Mission 23 Total Score
+%Credits: bungholio
+$20405250 ????????
++Mission 24 Best Shot Score
+%Credits: bungholio
+$20405264 ????????
++Mission 24 Time
+%Credits: bungholio
+$2040525C ????????
++Mission 24 Total Score
+%Credits: bungholio
+$20405260 ????????
++Mission 25 Shot Best Shot Score
+%Credits: bungholio
+$20405274 ????????
++Mission 25 Time
+%Credits: bungholio
+$2040526C ????????
++Mission 25 Total Score
+%Credits: bungholio
+$20405270 ????????
+!!
+!Maps:
++Kurosawa House Map
+%Credits: Codejunkies
+$003CB058 00000001
+!!
+!Miscellaneous Codes:
++Always Low Game Play Time
+%Credits: Code Master
+$20408E30 00000000
+$20408E34 00000000
+$20408E38 00000000
++Infinite Health
+%Credits: Code Master
+$202E0DB8 0001869F
++Max Health
+%Credits: Code Master
+$202E0DBC 0001869F
++Max Total Score
+%Credits: Code Master
+$20408E40 000F423F
++Photos Taken Modifier
+%Credits: Code Master
+$20408E44 0000????
+!!
+!Old Books:
++All Old Books
+%Credits: Codejunkies
+$203CB014 02020202
+$203CB018 02020202
+$203CB01C 02020202
+$203CB020 02020202
+!!
+!Power-Up Lens:
++Enable All Lens
+%Credits: Codejunkies
+$102BE1AC 000003FF
+!!
+!Power-Up Lens Codes:
++Have All Lens
+%Credits: Code Master
+$202BE1AC FFFFFFFF
++See-1 Spirit Orb
+%Credits: Code Master
+$002BE198 00000001
++See-2 Spirit Orbs
+%Credits: Code Master
+$002BE198 00000002
++See-3 Spirit Orbs
+%Credits: Code Master
+$002BE198 00000003
++See-Max Level
+%Credits: Code Master
+$002BE1B7 00000003
++Serial-1 Spirit Orb
+%Credits: Code Master
+$002BE19E 00000001
++Serial-2 Spirit Orbs
+%Credits: Code Master
+$002BE19E 00000002
++Serial-3 Spirit Orbs
+%Credits: Code Master
+$002BE19E 00000003
++Serial-Max Level
+%Credits: Code Master
+$002BE1BD 00000003
++Slow-1 Spirit Orb
+%Credits: Code Master
+$002BE196 00000001
++Slow-2 Spirit Orbs
+%Credits: Code Master
+$002BE196 00000002
++Slow-3 Spirit Orbs
+%Credits: Code Master
+$002BE196 00000003
++Slow-Max Level
+%Credits: Code Master
+$002BE1B5 00000003
++Stop-1 Spirit Orb
+%Credits: Code Master
+$002BE19A 00000001
++Stop-2 Spirit Orbs
+%Credits: Code Master
+$002BE19A 00000002
++Stop-3 Spirit Orbs
+%Credits: Code Master
+$002BE19A 00000003
++Stop-Max Level
+%Credits: Code Master
+$002BE1B9 00000003
++Stun-1 Spirit Orb
+%Credits: Code Master
+$002BE197 00000001
++Stun-2 Spirit Orbs
+%Credits: Code Master
+$002BE197 00000002
++Stun-3 Spirit Orbs
+%Credits: Code Master
+$002BE197 00000003
++Stun-Max Level
+%Credits: Code Master
+$002BE1B6 00000003
++Track-1 Spirit Orb
+%Credits: Code Master
+$002BE199 00000001
++Track-2 Spirit Orbs
+%Credits: Code Master
+$002BE199 00000002
++Track-3 Spirit Orbs
+%Credits: Code Master
+$002BE199 00000003
++Track-Max Level
+%Credits: Code Master
+$002BE1B8 00000003
++Zero-1 Spirit Orb
+%Credits: Code Master
+$002BE19C 00000001
++Zero-2 Spirit Orbs
+%Credits: Code Master
+$002BE19C 00000002
++Zero-3 Spirit Orbs
+%Credits: Code Master
+$002BE19C 00000003
++Zero-Max Level
+%Credits: Code Master
+$002BE1BB 00000003
+!!
+!Radio Codes:
++All Stones
+%Credits: Codejunkies
+$1037214A 00000202
+$2037214C 02020202
+$20372150 02020202
+$20372154 02020202
+$20372158 02020202
+$2037215C 02020202
+$20372160 02020202
+$20372164 02020202
+!!
+!Scraps:
++All Scraps
+%Credits: Codejunkies
+$203CAFFC 02020202
+$203CB000 02020202
+$203CB004 02020202
+$203CB008 02020202
+$203CB00C 02020202
+$203CB010 02020202
+!!
+!See:
++Level 1
+%Credits: Codejunkies
+$002BE1B7 00000001
++Level 2
+%Credits: Codejunkies
+$002BE1B7 00000002
+!!
+!Sensitivity:
++Level 1
+%Credits: Codejunkies
+$002BE190 00000001
++Level 2
+%Credits: Codejunkies
+$002BE190 00000002
+!!
+!Serial:
++All Additional Functions
+%Credits: Codejunkies
+$002BE1A0 0000000F
++All Equipped Functions
+%Credits: Codejunkies
+$002BE1A4 0000000F
++Level 1
+%Credits: Codejunkies
+$002BE1BD 00000001
++Level 2
+%Credits: Codejunkies
+$002BE1BD 00000002
+!!
+!Slow:
++Level 1
+%Credits: Codejunkies
+$002BE1B5 00000001
++Level 2
+%Credits: Codejunkies
+$002BE1B5 00000002
+!!
+!Stop:
++Level 1
+%Credits: Codejunkies
+$002BE1B9 00000001
++Level 2
+%Credits: Codejunkies
+$002BE1B9 00000002
+!!
+!Stun:
++Level 1
+%Credits: Codejunkies
+$002BE1B6 00000001
++Level 2
+%Credits: Codejunkies
+$002BE1B6 00000002
+!!
+!Track:
++Level 1
+%Credits: Codejunkies
+$002BE1B8 00000001
++Level 2
+%Credits: Codejunkies
+$002BE1B8 00000002
+!!
+!Zero:
++Level 1
+%Credits: Codejunkies
+$002BE1BB 00000001
++Level 2
+%Credits: Codejunkies
+$002BE1BB 00000002
+!!
+also freeze the same ghosts. If you take a picture of a ghost it will start moving again. It doesn&#39;t always stop them right away, they usually go to the end of an animation and stop which is even better so it&#39;s easier to get fatal frame shots. But it didn&#39;t seem to affect all ghosts. I used it on the drowned woman, and that female ghost that you defeated at the end of chapter 1, and the mourners. It didn&#39;t work on veiled priests or kusabi though, so it doesn&#39;t work on all ghosts.</i>} by bungholio , CRYPT_CRAW
+D02BB682 0000FDEF
+002A2CC4 00000001
+D02BB682 0000FDBF
+002A2CC4 00000000
++Have 1St Ghost On List (Wanderer)
+%Credits: bungholio
+$004091E0 00000001
++Have 2Nd Ghost On List
+%Credits: bungholio
+$004091E8 00000001
++Score Modifier For 1St Ghost
+%Credits: bungholio
+$204091E4 ????????
++Score Modifier For 2Nd Ghost
+%Credits: bungholio
+Have 177th Ghost on list
+Score Modifier for 177th Ghost
+$204091EC ????????
+00409760 00000001
+20409764 ????????
++Glow Red
+%Credits: bungholio
+$003443B4 0000000?
++Have Accessories On
+%Credits: bungholio
+$20408F48 000000??
+$20408F4C 000000??
++Have Additional Camera Functions
+%Credits: bungholio
+$202BE1A0 000000??
++Have All 177 Normal Ghosts In Spirit List
+%Credits: bungholio
+$404091E0 00B10002
+$00000002 00000000
++Have Equipped Camera Functions
+%Credits: bungholio
+$202BE1A4 000000??
++Infinite Spirit Power
+%Credits: bungholio
+$002BE1CC 00000004
++Infinite: Health
+%Credits: MadCatz
+$202E0DB8 00006000
+$202E0DBC 00006000
++Joker Command
+%Credits: bungholio
+$D02BB682 0000FFFF
++Left Over Unfinished Things
+%Credits: bungholio
+$102A36FE 0000????
+$102A3716 0000????
++Make Certain Ghosts Disappear
+%Credits: bungholio
+$202A2CC0 FFFFFFFF
++Mayu Costume Modifier
+%Credits: bungholio
+$20408F44 000000??
++Mio Costume Modifier {<I>Attach To Joker. They Are Still There, But There Is No Way To Interact With Them Anymore.</I>}
+%Credits: bungholio
+$20408F40 000000??
++No Waiting Time After Taking A Picture {<I>Now You Won&#39;T Wait Forever After You Take A Picture With Crappy Film. It&#39;S Not Like Rapid Fire Though, But Very Close Enough.</I>}
+%Credits: bungholio
+$201EACE0 03E00008
++Set Same Score For All 177 Normal Ghosts In Spirit List {<I>I Don&#39;T Know The Location Of The Rest Of The Ghosts, But You Won&#39;T Need The Last Special 30 Of Them Because They Are Your Normal Enemies Throughout The Game And You&#39;D Have To Intentionally Miss Half Of Them.</I>}
+%Credits: bungholio
+$404091E4 00B10002
+???????? 00000000
++Unlock Accessories {<I>02 - Mio Accessory 04 - Mayu Accessory 06 - Both Accessories  NOTE - If Your Cheat Device Is Old And Doesn&#39;T Have That OR Code Type, Change The First 7 To A 2.  You Need To Beat The Game At Least Once And Save It To Get The Menu That Allows You To Use These.</I>}
+%Credits: bungholio
+$7027F150 000000??
++Unlock Completed Game Menu {<I>Found With Ps2rd. Just Load Any Game To Use It. It Saves.</I>}
+%Credits: bungholio
+$002BCF52 00000001
++Unlock Costumes {<I>0002 - A 0004 - B 0008 - C 0010 - D 0020 - E 0040 - F 0080 - G 0100 - H 01Ff - All Costumes Unlocked  NOTE - If Your Cheat Device Is Old And Doesn&#39;T Have That OR Code Type, Change The First 7 To A 2.  You Need To Beat The Game At Least Once And Save It To Get The Menu That Allows You To Use These.</I>}
+%Credits: bungholio
+$7027F158 0001????
++Unlock Difficulty {<I>01 - Easy 02 - Normal 04 - Hard 08 - Nightmare 0F - All Difficulties Unlocked  NOTE - If Your Cheat Device Is Old And Doesn&#39;T Have That OR Code Type, Change The First 7 To A 2.  You Need To Beat The Game At Least Once And Save It To Get The Menu That Allows You To Use These.</I>}
+%Credits: bungholio
+$7027F15C 000000??
++Unlock Ending Codes {<I>01 - Normal Ending Only (Crimson Butterfly) 02 - Hard Ending Only (Hellish Abyss) 03 - Both Normal And Hard Endings  NOTE - If Your Cheat Device Is Old And Doesn&#39;T Have That OR Code Type, Change The First 7 To A 2.</I>}
+%Credits: bungholio
+$7027F154 000000??
++Unlock Image Gallery {<I>NOTE - If Your Cheat Device Is Old And Doesn&#39;T Have That OR Code Type, Change The First 7 To A 2.</I>}
+%Credits: bungholio
+$7027F14C 00000001
+$7027F14D 00000001
++Visual Filters {<I>0 = Off 1, 2, 3, 4, 5 = Different Filters Found With Ps2rd. It Has Slightly Different Visual Effects, Including That Noise Filter Effect The Game Has At Moments When Ghosts Appear. Do Not Use &Quot;06&Quot; Or Higher, It Will Freeze The Game.</I>}
+%Credits: bungholio
+$003440DC 0000000?
++Walk Through Walls {<I>Ported From The Official AR MAX Project Zero 2 Code.</I>}
+%Credits: bungholio
+$202E1068 00000000
++X-Axis Position Modifier [L2 + Left To Move Left, L2 + Right To Move Right]
+%Credits: bungholio
+$D02BB682 0000FEDF
+$30200004 002E0D12
+$D02BB682 0000FE7F
+$30300004 002E0D12
++Y-Axis Position Modifier [L2 + Up To Move Up, L2 + Down To Move Down]
+%Credits: bungholio
+$D02BB682 0000FEEF
+$30200004 002E0D1A
+$D02BB682 0000FEBF
+$30300004 002E0D1A
++You Can't Take Pictures That Damage Ghosts (Useless) {<I>Attach To Joker</I>}
+%Credits: bungholio
+$102A2CD8 00000000
+!!
+

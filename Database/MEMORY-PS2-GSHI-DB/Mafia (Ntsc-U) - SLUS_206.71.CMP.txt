@@ -1,0 +1,87 @@
+^3 = NAME: Mafia (Ntsc-U)
+^2 = GameID: SLUS-20671
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F03CE39C 003CE39F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 003CE39F
++[M] Must Be On
+%Credits: MadCatz
+$90404294 0C0F389E
+!!
++All Cars - Race Modes
+%Credits: Codejunkies
+$208E7430 FFFFFFFF
+$208E7428 FFFFFFFF
++Disable Police Spawn
+%Credits: Code Master
+$20341140 03E00008
+$20341144 00000000
++Display Debug Info
+%Credits: Code Master
+$202F11CC 00000000
++Extra Ammo
+%Credits: Code Master
+$1047D708 00000001
++Fire To Gain Ammo
+%Credits: Codejunkies
+$2047D708 24430001
++Idiot Cop Ai
+%Credits: Codejunkies
+$20370370 03E00008
+$20370374 00000000
++Infinite Ammo
+%Credits: MadCatz
+$2047D708 000000FF
++Infinite Ammo
+%Credits: Code Master
+$2047D718 00000000
++Infinite Car Damage (In Race Mode Only)
+%Credits: MadCatz
+$2024FBA4 000000FF
++Infinite Health
+%Credits: Code Master
+$201B3B70 03E00008
+$201B3B74 00000000
++Infinite Health
+%Credits: Codejunkies
+$204D65A0 001143D0
++Infinite Health (In Car)
+%Credits: MadCatz
+$2017109C 000000FF
+$201710AC 000000FF
++Infinite Health (On Foot) (Again Most Enemies)
+%Credits: MadCatz
+$201C0B38 E4610000
++Infinite Health In Car
+%Credits: Codejunkies
+$2017109C 46050001
++Infinite Time
+%Credits: Codejunkies
+$202AFAB0 00000000
+$202AFAD8 00000000
++Infinite Time {<I>The Timer Will Still Count Down On The Graphically On The Screen, But You Will Still Have Infinite Time.</I>}
+%Credits: MadCatz
+$202AFAD8 242007B4
++Max Cash In Free Ride
+%Credits: Codejunkies
+$20A1A76C 05F5E0FF
++Max Infinite Ammo
+%Credits: Code Master
+$2047D708 8C830008
++No Traffic
+%Credits: Code Master
+$20219400 03E00008
+$20219404 00000000
++Unlock All Cars
+%Credits: Code Master
+$204F6254 FFFFFFFF
+$204F6258 FFFFFFFF
++Unlock All Cars (Championship Mode) {<I>You Might Have To View The Thor Manufacturers First, Exit To The Main Menu, Then Go Back To Championship To Have Them Unlocked.</I>}
+%Credits: Code Master
+$202DA8E0 2413FFFF
+$202DA8E4 AC53003C
+!!
+

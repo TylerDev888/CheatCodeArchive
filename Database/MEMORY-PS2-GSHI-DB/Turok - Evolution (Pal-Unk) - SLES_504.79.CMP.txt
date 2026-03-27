@@ -1,0 +1,40 @@
+^3 = NAME: Turok - Evolution (Pal-Unk)
+^2 = GameID: SLES-50479
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0326C40 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0326C40 00326C43
+!!
+!Debug Or Demo Cheat:
++Debug Level - Cheat Menu
+%Credits: Codejunkies
+$107D8880 00000001
++Demo Mode - Cheat Menu
+%Credits: Codejunkies
+$107D8878 00000001
+!!
+!Level Select - Load A Save For Code To Activate:
++?
+%Credits: Codejunkies
+$107D8868 00000001
++Unlock All Weapons Cheat
+%Credits: Codejunkies
+$107D8848 00000001
++Unlock Big Head Cheat
+%Credits: Codejunkies
+$107D8870 00000001
++Unlock Invincible Cheat
+%Credits: Codejunkies
+$107D8858 00000001
++Unlock Invisible Cheat
+%Credits: Codejunkies
+$107D8860 00000001
++Unlock Unlim Ammo Cheat
+%Credits: Codejunkies
+$107D8850 00000001
+!!
+!!
+

@@ -1,0 +1,7 @@
+^2 = GameID: BLES01403
+^3 = NAME: Hitman: Absolution
+^4 = FILE: SAVE.DAT
++Update Md5 (required)
+$set range:0x000010,0x07FFFF
+$set [hash]:MD5
+$write at 0x000000:[hash]

@@ -1,0 +1,27 @@
+^3 = NAME: Aqua Aqua (NTSC-U)
+^2 = GameID: SLUS-20162
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F011760C 000001FD
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001CB423
+!!
++Access Story Puzzle
+%Credits: Code Master
+$2020401C 00000000
++Always Shielded
+%Credits: InterAct
+$102006D0 00000001
++Infinite Time
+%Credits: Code Master
+$202006B4 00000000
++Quick Score Gain
+%Credits: Code Master
+$20101E48 3405270F
++Water Drain Meter Never Fills
+%Credits: Code Master
+$20103974 00000000
+!!
+

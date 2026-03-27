@@ -1,0 +1,55 @@
+^3 = NAME: Delta Force - Black Hawk Down (Pal-Unk)
+^2 = GameID: SLES-53299
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F03B2044 003B2047
+$9039F0D0 0C0F3C9A
+!!
++All Levels And All Weapons Available {<I>All Levels Completed To Rank 3. This Will Complete Any Campaign You Have In Progress And Make You Unable To Play Another One. Do Not Save With This Code On.</I>}
+%Credits: Codejunkies
+$20233E10 0803FFC0
+$20233E14 24020003
+$200FFF00 AC82165C
+$200FFF04 24020001
+$200FFF08 AC821658
+$200FFF0C 03E00008
+!ARMAX FIX:
++Fix
+$E00EC700 003B2044
+$E00D0C0E 003B2046
+$201A9BB8 0806A788
+$201A9E20 3C0401E0
+$201A9E24 3C050008
+$201A9E28 0C0EF351
+$201A9E2C 3C060008
+$201A9E30 0C0F2E2E
+$201A9E34 0000202D
+$201A9E38 3C0501E0
+$201A9E3C 3C040008
+$201A9E40 0C0EF351
+$201A9E44 3C060008
+$201A9E48 0806A6F0
+$201A9E4C 00000000
+!!
++Below 3.14 Fix
+%Credits: Codejunkies
+$203CEF50 3C03200F
+$203CEF58 8C65FFF8
+$203CEF5C 24040079
+$203CEF60 24030074
+$203CEF64 0000000C
++Extra Ammo Packs-Team
+%Credits: Codejunkies
+$201FEAA8 8C82010C
++Extra Med Packs-Team
+%Credits: Codejunkies
+$201FF0A4 8C820100
++Infinite Attribute Points
+%Credits: Codejunkies
+$20305494 24020063
++Mounted Guns Do Not Overheat
+%Credits: Codejunkies
+$2035E070 00000000
+!!
+

@@ -1,0 +1,461 @@
+^3 = NAME: James Bond 007 - Agent Under Fire (Ntsc-U)
+^2 = GameID: SLUS-20265
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$91F00658 03C0F809
+$90105098 03C0F809
+$90300B64 0040F809
+$F0345394 00345397
+$901F9854 0040F809
+$F0277E1C 00277E1F
++Enable Code (Must Be On)
+%Credits: Code Master
+$9034539C 0C04EC72
+$90277E24 0C090ABB
++Enable Code (Must Be On)
+%Credits: rimsky82
+$932B2264 5E4272CA
+$A0D6D73F B9E7F47F
+!!
+!Action Mission Codes:
++Default Analog Stick Controls (Like Halo)
+%Credits: Code Master
+$E0041DC0 001200B4
+$00132114 00000024
+$00132124 00000027
+$00132134 00000026
+$00132144 00000025
++Extra Ammo
+%Credits: Code Master
+$D01200B4 10001DC0
+$202582F8 00451021
++Infinite Ammo
+%Credits: Code Master
+$D01200B4 10001DC0
+$20258300 00000000
++Infinite Health
+%Credits: Code Master
+$E0051DC0 001200B4
+$200C0220 3C0143FA
+$200C0224 03E00008
+$200C0228 AC6102EC
+$202730EC 0C030088
+$202730F0 46020034
++Infinite Lives
+%Credits: Code Master
+$D01200B4 00001DC0
+$20412248 00000000
++Legacy Soutpaw Analog Stick Controls (Like Halo)
+%Credits: Code Master
+$E0041DC0 001200B4
+$00132114 00000026
+$00132124 00000025
+$00132134 00000024
+$00132144 00000027
++Max Score-All Levels
+%Credits: Code Master
+$E0021DC0 001200B4
+$4037F7F0 000C0002
+$05F5E0FF 00000000
++Never Reload
+%Credits: Code Master
+$D01200B4 10001DC0
+$202D7C48 00000000
++Southpaw Analog Stick Controls (Like Halo)
+%Credits: Code Master
+$E0041DC0 001200B4
+$00132114 00000024
+$00132124 00000025
+$00132134 00000026
+$00132144 00000027
++Start With 9 Lives
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F610 00000009
++Unlock All Levels {<I>You Must Go Into Level 2 Or 3 (Driving Parts) To Activate Any Of These Codes.</I>}
+%Credits: Code Master
+$E0021DC0 001200B4
+$40381230 000C0001
+$00000001 00000000
++Unlock All Rewards
+%Credits: Code Master
+$E0021DC0 001200B4
+$4037F790 00180001
+$00000001 00000000
+!!
+!Bad Diplomacy Codes:
++Have Golden Accuracy
+%Credits: Codejunkies
+$10101FB4 00000001
++Have MP Powerup - Gravity Boots
+%Credits: Codejunkies
+$10101F84 00000001
++Max High Score
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F808 05F5E0FF
++Unlock Level
+%Credits: Code Master
+$D01200B4 00001DC0
+$2038123C 00000001
++Unlock-MP Powerup-Gravity Boots
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F79C 00000001
++Unlocked-Golden Accuracy
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7CC 00000001
+!!
+!Cold Reception Codes:
++Have Golden Clip
+%Credits: Codejunkies
+$10101FB8 00000001
++Have MP Model - Guard
+%Credits: Codejunkies
+$10101F88 00000001
++Max High Score
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F810 05F5E0FF
++Unlock Level
+%Credits: Code Master
+$D01200B4 00001DC0
+$20381240 00000001
++Unlock-MP Model-Guard
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7A0 00000001
++Unlocked-Golden Clip
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7D0 00000001
+!!
+!Dangerous Pursuit Codes:
++Have MP Model - Stealth Bond
+%Credits: Codejunkies
+$10101F80 00000001
++Have Unlimited Missiles
+%Credits: Codejunkies
+$10101FB0 00000001
++Max High Score
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F800 05F5E0FF
++Unlock Level
+%Credits: Code Master
+$D01200B4 00001DC0
+$20381238 00000001
++Unlock-MP Model-Stealth Bond
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F798 00000001
++Unlocked-Unlimited Missiles
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7C8 00000001
+!!
++Deinterlacing Code
+%Credits: Josh_7774
+$D012A402 0000ACE2
+$2012A400 00000000
++Disable Screen Flashing When Damaged - Driving/On-Rails Mode
+%Credits: Josh_7774
+$D017BE02 0000AE62
+$2017BE00 00000000
++Disable Screen Flashing When Damaged - On-Foot Mode
+%Credits: Josh_7774
+$D0180022 00008E02
+$20180020 00000000
+$D0180026 00008E04
+$20180024 00000000
+$D018006E 00004601
+$2018006C 00000000
+!Driving Mission Codes:
++Extra Ammo
+%Credits: Code Master
+$D01040A0 100095E0
+$1015387C 00000001
++Infinite Ammo
+%Credits: Code Master
+$D01040A0 100095E0
+$20153880 00000000
++Infinite Health
+%Credits: Code Master
+$E00595E0 001040A0
+$200C0220 3C01453B
+$200C0224 03E00008
+$200C0228 AC410008
+$2017BB34 0C030088
+$2017BB38 46031034
++Infinite Lives
+%Credits: Code Master
+$D01040A0 100095E0
+$2010009C 0000000A
++Never Reload
+%Credits: Code Master
+$D01040A0 100095E0
+$201538B8 00000000
+!!
+!Evil Summit Codes:
++Have MP Model - Carrier Guard
+%Credits: Codejunkies
+$10101FA4 00000001
++Have Unlimited Ammo
+%Credits: Codejunkies
+$10101FD4 00000001
++Max High Score
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F848 05F5E0FF
++Unlock Level
+%Credits: Code Master
+$D01200B4 00001DC0
+$2038125C 00000001
++Unlock-MP Model-Carrier Guard
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7BC 00000001
++Unlocked-Unlimited Ammo
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7EC 00000001
+!!
+!Fire & Water Codes:
++Have MP Weapon - Calypso
+%Credits: Codejunkies
+$10101F94 00000001
++Have Rapid Fire
+%Credits: Codejunkies
+$10101FC4 00000001
++Max High Score
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F828 05F5E0FF
++Unlock Level
+%Credits: Code Master
+$D01200B4 00001DC0
+$2038124C 00000001
++Unlock-MP Weapon-Calypso
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7AC 00000001
++Unlocked-Rapid Fire
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7DC 00000001
+!!
+!Forbidden Depths Codes:
++Have Golden Armor
+%Credits: Codejunkies
+$10101FC8 00000001
++Have MP Modifier - Full Arsenal
+%Credits: Codejunkies
+$10101F98 00000001
++Max High Score
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F830 05F5E0FF
++Unlock Level
+%Credits: Code Master
+$D01200B4 00001DC0
+$20381250 00000001
++Unlock-MP Modifier-Full Arsenal
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7B0 00000001
++Unlocked-Golden Armor
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7E0 00000001
+!!
++Invincibility In Normal Levels
+%Credits: nolberto82
+$D027AC92 00007FB1
+$2027AC8C 03E00008
+!Mediterranean Crisis Codes:
++Have MP Model - Poseidon Guard
+%Credits: Codejunkies
+$10101FA0 00000001
++Have Regenerative Armor
+%Credits: Codejunkies
+$10101FD0 00000001
++Max High Score
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F840 05F5E0FF
++Unlock Level
+%Credits: Code Master
+$D01200B4 00001DC0
+$20381258 00000001
++Unlock-MP Model-Poseidon Guard
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7B8 00000001
++Unlocked-Regenerative Armor
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7E8 00000001
+!!
+!Night Of The Jackal Codes:
++Have Golden Grenades
+%Credits: Codejunkies
+$10101FBC 00000001
++Have MP Weapon - Viper
+%Credits: Codejunkies
+$10101F8C 00000001
++Max High Score
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F818 05F5E0FF
++Unlock Level
+%Credits: Code Master
+$D01200B4 00001DC0
+$20381244 00000001
++Unlock-MP Weapon-Viper
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7A4 00000001
++Unlocked-Golden Grenades
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7D4 00000001
+!!
+!On-Foot Mode:
++Can Move Around While Manually Aiming [ASM]
+%Credits: Josh_7774
+$D027BA1E 00008C82
+$2027BA1C 00000000
++Hold Triangle To Moon Jump
+%Credits: Josh_7774
+$D0461702 0300EFFF
+$603998A0 43800000
+$00020002 00000298
+$00000098 00000000
++Infinite Ammo - No Reload (All Weapons) [ASM]
+%Credits: Josh_7774
+$D0258302 0000AC82
+$20258300 00000000
+$D02D7C4A 0000AE42
+$202D7C48 00000000
++Infinite Ammo [ASM]
+%Credits: Josh_7774
+$D0258302 0000AC82
+$20258300 00000000
++Rapid Fire - Automatic Weapons [ASM]
+%Credits: Josh_7774
+$D02DAA82 0000E640
+$202DAA80 00000000
++X + Up For No-Clipping, X + Down To Disable
+%Credits: Josh_7774
+$D0461702 0300BFEF
+$603998A0 00000001
+$00000002 00000298
+$000000D0 00000000
+$D0461702 0300BFBF
+$603998A0 00000005
+$00000002 00000298
+$000000D0 00000000
+!!
+!Poseidon Codes:
++Have Golden Bullets
+%Credits: Codejunkies
+$10101FCC 00000001
++Have MP Model - Cyclops Oil Guard
+%Credits: Codejunkies
+$10101F9C 00000001
++Max High Score
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F838 05F5E0FF
++Unlock Level
+%Credits: Code Master
+$D01200B4 00001DC0
+$20381254 00000001
++Unlock-MP Model-Cyclops Oil Guard
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7B4 00000001
++Unlocked-Golden Bullets
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7E4 00000001
+!!
+!Precious Cargo Codes:
++Have Golden CH-6
+%Credits: Codejunkies
+$10101FAC 00000001
++Have MP Game Mode - Golden Gun
+%Credits: Codejunkies
+$10101F7C 00000001
++Max High Score
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7F8 05F5E0FF
++Unlock Level
+%Credits: Code Master
+$D01200B4 00001DC0
+$20381234 00000001
++Unlock-MP Game Mode-Golden Gun
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F794 00000001
++Unlocked-Golden CH-6
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7C4 00000001
+!!
+!Streets Of Bucharest Codes:
++Have Lotus Esprit
+%Credits: Codejunkies
+$10101FC0 00000001
++Have MP Model - Alpine Guard
+%Credits: Codejunkies
+$10101F90 00000001
++Max High Score
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F820 05F5E0FF
++Unlock Level
+%Credits: Code Master
+$D01200B4 00001DC0
+$20381248 00000001
++Unlock-MP Model-Alpine Guard
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7A8 00000001
++Unlocked-Lotus Esprit
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7D8 00000001
+!!
+!Trouble In Paradise Codes:
++Have Golden Gun
+%Credits: Codejunkies
+$10101FA8 00000001
++Have MP Map - Rocket Manor
+%Credits: Codejunkies
+$10101F78 00000001
++Max High Score
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7F0 05F5E0FF
++Unlock Level
+%Credits: Code Master
+$D01200B4 00001DC0
+$20381230 00000001
++Unlocked-Golden Gun
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F7C0 00000001
++Unlocked-MP Map-Rocket Manor
+%Credits: Code Master
+$D01200B4 00001DC0
+$2037F790 00000001
+!!
++Unlock All Levels {<I>You Must Go Into Level 2 Or 3 (Driving Parts) To Activate Any Of These Codes.</I>}
+%Credits: Codejunkies
+$10101F14 0000000B
+!!
+

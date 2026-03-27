@@ -1,0 +1,11 @@
+^2 = GameID: UCES01241
+^3 = NAME: InviZimals
+^5 = APCRED: PSP
+(checksum reversed by bucanero)
+^4 = FILE: GAMEDATA
++Update Custom Adler32 (required)
+$write at 0x000C:0x99674588
+$set range:0x0000,EOF+1
+$set [hash]:Adler32:0x00000000
+$set [hash]:endian_swap
+$write at 0x000C:[hash]

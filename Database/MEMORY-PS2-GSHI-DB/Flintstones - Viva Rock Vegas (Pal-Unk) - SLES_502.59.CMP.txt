@@ -1,0 +1,28 @@
+^3 = NAME: Flintstones - Viva Rock Vegas (Pal-Unk)
+^2 = GameID: SLES-50259
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F017FB00 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F017FB00 0017FB03
+!!
++Freeze Timer
+%Credits: Codejunkies
+$203A0494 00000000
+$203A0498 00000000
+$203A049C 00000000
+$203A04A0 00000000
++Mirror, Reverse And G-Slam Tracks Open
+%Credits: Codejunkies
+$203A13AC 00000001
+$203A13B0 00000001
+$203A13B4 00000001
+$203A13B8 00000001
+$203A13C0 00000001
++Start On Last Lap
+%Credits: Codejunkies
+$203A0474 00000003
+!!
+

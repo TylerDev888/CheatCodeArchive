@@ -1,0 +1,31 @@
+^2 = GameID: SLUS_214.90
+^3 = NAME: Test Drive Unlimited
+!Masters:
++Enable Code (MUST BE ON)
+$9025D9D0 0C09761C
+!!
++Start Game With Loads Of Cr{99999999 Only On New Game}
+$103A8204 000005F5
+$103A820C 0000E0FF
++Yes/No Menu For Buy House For Max Money{When The Yes Or No Comes Up U Will Have Max Money U Do Not Have To Buy The House U Can Say No And Still Have Max Money (it Will Not Show Untill U Leave The Screen}
+$203678D8 08028000
+$200A0000 8C520020
+$200A0004 3C0E05F5
+$200A0008 35CEE0FF
+$200A000C AC4E0020
+$200A0010 080D9E37
++Everythings Free No Money Need{Aka: Skillers Visa - Test On Buying Cars And Buying A House Let Me Know If U Find Something This Dont Work On}
+$203B81BC 00000000
+$203CBB38 00000000
+$203678D8 00000000
+$20437EB4 00000000
+$20437DD4 00000000
++Master Points Gain Mod
+$10BBFFAC 0000[Amount:2710:HEX:BIG]
++Car Rental Inf Time{Dont Knwo If This Affects Anything Elts That Has Time Let Me Know}
+$2037FA70 00000000
++Car Rental Time Mod (alternet Inf Time Code){If Used With Joker Could Be Used To Give More Time ..}
+$2060A02C [45610000:2710:FLOAT:BIG]
+!Moving Section Just For Refrince:
++Max/Inf Money{Moves Its In This Place When U Start A Game But If U Quit To The Main Menu Again And Start Again This Will Move_}
+$21ABC6E8 05F5E0FF

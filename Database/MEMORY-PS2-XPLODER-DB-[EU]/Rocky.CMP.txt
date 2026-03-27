@@ -1,0 +1,44 @@
+^3 = NAME: Rocky
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 001257FF
+!!
+!Unlimited:
++Health Player 1
+%Credits: Xploder
+$20278F40 3F800000
+$20278F44 3F800000
++Punch Power Player 1
+%Credits: Xploder
+$20278F48 3F800000
+$20278F4C 3F800000
++Health Player 2
+%Credits: Xploder
+$20279800 3F800000
+$20279804 3F800000
++Punch Power Player 2
+%Credits: Xploder
+$20279808 3F800000
+$2027980C 3F800000
+!!
+!Maximum:
++Strength
+%Credits: Xploder
+$202DD014 00000064
++Speed
+%Credits: Xploder
+$202DD018 00000064
++Stamina
+%Credits: Xploder
+$202DD020 00000064
++Determination
+%Credits: Xploder
+$202DD01C 00000064
++Movement
+%Credits: Xploder
+$202DD024 00000064
++Unlock All Characters
+%Credits: Xploder
+$2022DEF4 000000FF
+!!

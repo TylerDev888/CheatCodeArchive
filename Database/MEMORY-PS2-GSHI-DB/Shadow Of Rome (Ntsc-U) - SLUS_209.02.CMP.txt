@@ -1,0 +1,1829 @@
+^3 = NAME: Shadow Of Rome (Ntsc-U)
+^2 = GameID: SLUS-20902
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0275224 00275227
++Enable Code (Must Be On)
+%Credits: Code Master
+$90275238 0C0496E8
++[M] Must Be On
+%Credits: MadCatz
+$9027524C 0C04637C
+!!
+!Amputations:
++Max Arms Severed
+%Credits: MadCatz
+$10552448 0000270F
++Max Arms Severed
+%Credits: Codejunkies
+$20552448 8098967F
++Max Heads Crushed
+%Credits: Codejunkies
+$20552450 8098967F
++Max Heads Severed
+%Credits: MadCatz
+$10552444 0000270F
++Max Heads Severed
+%Credits: Codejunkies
+$20552444 8098967F
++Max Torsos Hacked
+%Credits: Codejunkies
+$2055244C 8098967F
++No Arms Severed
+%Credits: MadCatz
+$10552448 00000000
++No Heads Severed
+%Credits: MadCatz
+$10552444 00000000
+!!
+!Amputations Codes:
++Max Arms Severed
+%Credits: Code Master
+$20552448 85F5E0FF
++Max Heads Crushed
+%Credits: Code Master
+$20552450 85F5E0FF
++Max Heads Severed
+%Credits: Code Master
+$20552444 85F5E0FF
++Max Torsos Hacked
+%Credits: Code Master
+$2055244C 85F5E0FF
++No Arms Severed
+%Credits: Code Master
+$20552448 80000000
++No Heads Crushed
+%Credits: Code Master
+$20552450 80000000
++No Heads Severed
+%Credits: Code Master
+$20552444 80000000
++No Torsos Hacked
+%Credits: Code Master
+$2055244C 80000000
+!!
+!Bones Broken:
++Max Arms Broken
+%Credits: Codejunkies
+$20552458 8098967F
++Max Necks Broken
+%Credits: Codejunkies
+$20552454 8098967F
+!!
+!Bones Broken Codes:
++Max Arms Broken
+%Credits: Code Master
+$20552458 85F5E0FF
++Max Necks Broken
+%Credits: Code Master
+$20552454 85F5E0FF
++No Arms Broken
+%Credits: Code Master
+$20552458 80000000
++No Necks Broken
+%Credits: Code Master
+$20552454 80000000
+!!
+!Distance Traveled Details:
++Max Distance Crawled
+%Credits: Codejunkies
+$205524D8 8FFFFFFF
++Max Distance Ran
+%Credits: Codejunkies
+$205524D0 8FFFFFFF
++Max Distance Walked
+%Credits: Codejunkies
+$205524D4 8FFFFFFF
+!!
+!Distance Traveled Details Codes:
++Max Distance Crawled In Miles
+%Credits: Code Master
+$205524D8 8997A960
++Max Distance Ran In Miles
+%Credits: Code Master
+$205524D0 8997A960
++Max Distance Walked In Miles
+%Credits: Code Master
+$205524D4 8997A960
++No Distance Crawled In Miles
+%Credits: Code Master
+$205524D8 80000000
++No Distance Ran In Miles
+%Credits: Code Master
+$205524D0 80000000
++No Distance Walked In Miles
+%Credits: Code Master
+$205524D4 80000000
+!!
+!Fighting:
++Max Attacks Blocked By Enemies
+%Credits: MadCatz
+$1055232C 0000270F
++Max Attacks Blocked By Enemies
+%Credits: Codejunkies
+$2055232C 8098967F
++Max Attacks Received By Enemies
+%Credits: MadCatz
+$1055231C 0000270F
++Max Attacks Received By Enemies
+%Credits: Codejunkies
+$2055231C 8098967F
++Max Enemies Chased And Attacked
+%Credits: MadCatz
+$105522F0 0000270F
++Max Enemies Chased And Attacked
+%Credits: Codejunkies
+$205522F0 8098967F
++Max Enemies Chased And Killed
+%Credits: Codejunkies
+$205522F4 8098967F
++Max Enemies Pulled To Their Feet
+%Credits: Codejunkies
+$205522EC 8098967F
++Max Enemy Attacks Blocked
+%Credits: Codejunkies
+$20552328 8098967F
++Max Enemy Helmets Broken
+%Credits: MadCatz
+$10552338 0000270F
++Max Enemy Helmets Broken
+%Credits: Codejunkies
+$20552338 8098967F
++Max Helmets Broken By Enemies
+%Credits: MadCatz
+$10552334 0000270F
++Max Helmets Broken By Enemies
+%Credits: Codejunkies
+$20552334 8098967F
++Max Times Knocked Enemies Down
+%Credits: Codejunkies
+$205522E8 8098967F
++Max Times You've Been Knocked Down
+%Credits: MadCatz
+$105522E4 0000270F
++Never Knocked Down
+%Credits: Codejunkies
+$205522E4 80000000
++No Attacks Blocked By Enemies
+%Credits: MadCatz
+$1055232C 00000000
++No Attacks Blocked By Enemies
+%Credits: Codejunkies
+$2055232C 80000000
++No Attacks Received By Enemies
+%Credits: MadCatz
+$1055231C 00000000
++No Enemies Chased And Attacked
+%Credits: MadCatz
+$105522F0 00000000
++No Enemy Helmets Broken
+%Credits: MadCatz
+$10552338 00000000
++No Helmets Broken By Enemies
+%Credits: MadCatz
+$10552334 00000000
++No Helmets Broken By Enemies
+%Credits: Codejunkies
+$20552334 80000000
++No Times You've Been Knocked Down
+%Credits: MadCatz
+$105522E4 00000000
+!!
+!Fighting Codes:
++Max Attacks Blocked By Enemies
+%Credits: Code Master
+$2055232C 85F5E0FF
++Max Attacks Received By Enemies
+%Credits: Code Master
+$2055231C 85F5E0FF
++Max Enemies Chased And Attacked
+%Credits: Code Master
+$205522F0 85F5E0FF
++Max Enemies Chased And Killed
+%Credits: Code Master
+$205522F4 85F5E0FF
++Max Enemies Pulled To Their Feet
+%Credits: Code Master
+$205522EC 85F5E0FF
++Max Enemy Attacks Blocked
+%Credits: Code Master
+$20552328 85F5E0FF
++Max Enemy Helmets Broken
+%Credits: Code Master
+$20552338 85F5E0FF
++Max Helmets Broken By Enemies
+%Credits: Code Master
+$20552334 85F5E0FF
++Max Times You've Been Knocked Down
+%Credits: Code Master
+$205522E4 85F5E0FF
++Max Times You've Knocked Enemies Down
+%Credits: Code Master
+$205522E8 85F5E0FF
++No Attacks Received By Enemies
+%Credits: Code Master
+$2055231C 80000000
++No Enemies Chased And Attacked
+%Credits: Code Master
+$205522F0 80000000
++No Enemies Chased And Killed
+%Credits: Code Master
+$205522F4 80000000
++No Enemies Pulled To Their Feet
+%Credits: Code Master
+$205522EC 80000000
++No Enemy Attacks Blocked
+%Credits: Code Master
+$20552328 80000000
++No Enemy Helmets Broken
+%Credits: Code Master
+$20552338 80000000
++No Times You've Knocked Enemies Down
+%Credits: Code Master
+$205522E8 80000000
+!!
+!Max Total Salvos-Extreme Difficulty Codes:
++Circus Maximus-1St Race
+%Credits: Code Master
+$20550D10 05F5E0FF
++Circus Maximus-2Nd Race
+%Credits: Code Master
+$20550D18 05F5E0FF
++Circus Maximus-3Rd Race
+%Credits: Code Master
+$20550D20 05F5E0FF
++Circus Maximus-Last Race
+%Credits: Code Master
+$20550D30 05F5E0FF
++City Arena-Battle Royale
+%Credits: Code Master
+$20550CA8 05F5E0FF
++City Arena-Beast Hunt
+%Credits: Code Master
+$20550CB8 05F5E0FF
++City Arena-Boss Battle
+%Credits: Code Master
+$20550CD0 05F5E0FF
++City Arena-Elimination
+%Credits: Code Master
+$20550CB0 05F5E0FF
++City Arena-Siege
+%Credits: Code Master
+$20550CC8 05F5E0FF
++City Arena-Team Battle
+%Credits: Code Master
+$20550CC0 05F5E0FF
++Desert Arena-Artus Dominus
+%Credits: Code Master
+$20550D50 05F5E0FF
++Desert Arena-Battle Royale
+%Credits: Code Master
+$20550D38 05F5E0FF
++Desert Arena-Beast Hunt
+%Credits: Code Master
+$20550D40 05F5E0FF
++Desert Arena-Boss Battle
+%Credits: Code Master
+$20550D60 05F5E0FF
++Desert Arena-Elimination
+%Credits: Code Master
+$20550D58 05F5E0FF
++Desert Arena-Team Battle
+%Credits: Code Master
+$20550D48 05F5E0FF
++Great Arena-Beast Hunt
+%Credits: Code Master
+$20550D70 05F5E0FF
++Great Arena-Decius' Last Stand?
+%Credits: Code Master
+$20550DA8 05F5E0FF
++Great Arena-Elimination
+%Credits: Code Master
+$20550D78 05F5E0FF
++Great Arena-Rescue Mission
+%Credits: Code Master
+$20550D68 05F5E0FF
++Great Arena-Siege
+%Credits: Code Master
+$20550D88 05F5E0FF
++Great Arena-Sword Struggle
+%Credits: Code Master
+$20550D90 05F5E0FF
++Great Arena-Team Battle
+%Credits: Code Master
+$20550D80 05F5E0FF
++Northern Arena-Artus Dominus
+%Credits: Code Master
+$20550CF8 05F5E0FF
++Northern Arena-Battle Royale
+%Credits: Code Master
+$20550CE8 05F5E0FF
++Northern Arena-Battle Royale
+%Credits: Code Master
+$20550D08 05F5E0FF
++Northern Arena-Elimination
+%Credits: Code Master
+$20550CE0 05F5E0FF
++Northern Arena-Rescue Mission
+%Credits: Code Master
+$20550CD8 05F5E0FF
++Northern Arena-Team Battle
+%Credits: Code Master
+$20550CF0 05F5E0FF
+!!
+!Max Total Salvos-Hard Difficulty Codes:
++Circus Maximus-1St Race
+%Credits: Code Master
+$20550B90 05F5E0FF
++Circus Maximus-2Nd Race
+%Credits: Code Master
+$20550B98 05F5E0FF
++Circus Maximus-3Rd Race
+%Credits: Code Master
+$20550BA0 05F5E0FF
++Circus Maximus-Last Race
+%Credits: Code Master
+$20550BB0 05F5E0FF
++City Arena-Battle Royale
+%Credits: Code Master
+$20550B28 05F5E0FF
++City Arena-Beast Hunt
+%Credits: Code Master
+$20550B38 05F5E0FF
++City Arena-Boss Battle
+%Credits: Code Master
+$20550B50 05F5E0FF
++City Arena-Elimination
+%Credits: Code Master
+$20550B30 05F5E0FF
++City Arena-Siege
+%Credits: Code Master
+$20550B48 05F5E0FF
++City Arena-Team Battle
+%Credits: Code Master
+$20550B40 05F5E0FF
++Desert Arena-Artus Dominus
+%Credits: Code Master
+$20550BD0 05F5E0FF
++Desert Arena-Battle Royale
+%Credits: Code Master
+$20550BB8 05F5E0FF
++Desert Arena-Beast Hunt
+%Credits: Code Master
+$20550BC0 05F5E0FF
++Desert Arena-Boss Battle
+%Credits: Code Master
+$20550BE0 05F5E0FF
++Desert Arena-Elimination
+%Credits: Code Master
+$20550BD8 05F5E0FF
++Desert Arena-Team Battle
+%Credits: Code Master
+$20550BC8 05F5E0FF
++Great Arena-Beast Hunt
+%Credits: Code Master
+$20550BF0 05F5E0FF
++Great Arena-Decius' Last Stand?
+%Credits: Code Master
+$20550C28 05F5E0FF
++Great Arena-Elimination
+%Credits: Code Master
+$20550BF8 05F5E0FF
++Great Arena-Rescue Mission
+%Credits: Code Master
+$20550BE8 05F5E0FF
++Great Arena-Siege
+%Credits: Code Master
+$20550C08 05F5E0FF
++Great Arena-Sword Struggle
+%Credits: Code Master
+$20550C10 05F5E0FF
++Great Arena-Team Battle
+%Credits: Code Master
+$20550C00 05F5E0FF
++Northern Arena-Artus Dominus
+%Credits: Code Master
+$20550B78 05F5E0FF
++Northern Arena-Battle Royale
+%Credits: Code Master
+$20550B68 05F5E0FF
++Northern Arena-Battle Royale
+%Credits: Code Master
+$20550B88 05F5E0FF
++Northern Arena-Elimination
+%Credits: Code Master
+$20550B60 05F5E0FF
++Northern Arena-Rescue Mission
+%Credits: Code Master
+$20550B58 05F5E0FF
++Northern Arena-Team Battle
+%Credits: Code Master
+$20550B70 05F5E0FF
+!!
+!Max Total Salvos-Normal Difficulty Codes:
++Circus Maximus-1St Race
+%Credits: Code Master
+$20550A10 05F5E0FF
++Circus Maximus-2Nd Race
+%Credits: Code Master
+$20550A18 05F5E0FF
++Circus Maximus-3Rd Race
+%Credits: Code Master
+$20550A20 05F5E0FF
++Circus Maximus-Last Race
+%Credits: Code Master
+$20550A30 05F5E0FF
++City Arena-Battle Royale
+%Credits: Code Master
+$205509A8 05F5E0FF
++City Arena-Beast Hunt
+%Credits: Code Master
+$205509B8 05F5E0FF
++City Arena-Boss Battle
+%Credits: Code Master
+$205509D0 05F5E0FF
++City Arena-Elimination
+%Credits: Code Master
+$205509B0 05F5E0FF
++City Arena-Siege
+%Credits: Code Master
+$205509C8 05F5E0FF
++City Arena-Team Battle
+%Credits: Code Master
+$205509C0 05F5E0FF
++Desert Arena-Artus Dominus
+%Credits: Code Master
+$20550A50 05F5E0FF
++Desert Arena-Battle Royale
+%Credits: Code Master
+$20550A38 05F5E0FF
++Desert Arena-Beast Hunt
+%Credits: Code Master
+$20550A40 05F5E0FF
++Desert Arena-Boss Battle
+%Credits: Code Master
+$20550A60 05F5E0FF
++Desert Arena-Elimination
+%Credits: Code Master
+$20550A58 05F5E0FF
++Desert Arena-Team Battle
+%Credits: Code Master
+$20550A48 05F5E0FF
++Great Arena-Beast Hunt
+%Credits: Code Master
+$20550A70 05F5E0FF
++Great Arena-Decius' Last Stand?
+%Credits: Code Master
+$20550AA8 05F5E0FF
++Great Arena-Elimination
+%Credits: Code Master
+$20550A78 05F5E0FF
++Great Arena-Rescue Mission
+%Credits: Code Master
+$20550A68 05F5E0FF
++Great Arena-Siege
+%Credits: Code Master
+$20550A88 05F5E0FF
++Great Arena-Sword Struggle
+%Credits: Code Master
+$20550A90 05F5E0FF
++Great Arena-Team Battle
+%Credits: Code Master
+$20550A80 05F5E0FF
++Northern Arena-Artus Dominus
+%Credits: Code Master
+$205509F8 05F5E0FF
++Northern Arena-Battle Royale
+%Credits: Code Master
+$205509E8 05F5E0FF
++Northern Arena-Battle Royale
+%Credits: Code Master
+$20550A08 05F5E0FF
++Northern Arena-Elimination
+%Credits: Code Master
+$205509E0 05F5E0FF
++Northern Arena-Rescue Mission
+%Credits: Code Master
+$205509D8 05F5E0FF
++Northern Arena-Team Battle
+%Credits: Code Master
+$205509F0 05F5E0FF
+!!
+!Other:
++Max Appeals
+%Credits: Codejunkies
+$20552310 8098967F
++Max Enemies Caught On Fire
+%Credits: Codejunkies
+$20552340 8098967F
++Max Enemies Doused In Oil
+%Credits: Codejunkies
+$20552348 8098967F
++Max Pieces Of Meat Eaten
+%Credits: Codejunkies
+$2055234C 8098967F
++Max Pieces Of Meat Thrown To Crowd
+%Credits: Codejunkies
+$20552304 8098967F
++Max Roses Thrown To Crowd
+%Credits: Codejunkies
+$20552308 8098967F
++Max Successful Appeals
+%Credits: Codejunkies
+$20552314 8098967F
++Max Weapons Thrown To Crowd
+%Credits: Codejunkies
+$2055230C 8098967F
++Never Caught On Fire
+%Credits: Codejunkies
+$2055233C 80000000
++Never Doused In Oil
+%Credits: Codejunkies
+$20552344 80000000
+!!
+!Other Codes:
++Max Appeals
+%Credits: Code Master
+$20552310 85F5E0FF
++Max Enemies Caught On Fire
+%Credits: Code Master
+$20552340 85F5E0FF
++Max Pieces Of Meat Eaten
+%Credits: Code Master
+$2055234C 85F5E0FF
++Max Pieces Of Meat Thrown To Crowd
+%Credits: Code Master
+$20552304 85F5E0FF
++Max Roses Thrown To Crowd
+%Credits: Code Master
+$20552308 85F5E0FF
++Max Successful Appeals
+%Credits: Code Master
+$20552314 85F5E0FF
++Max Times Caught On Fire
+%Credits: Code Master
+$2055233C 85F5E0FF
++Max Times Doused In Oil
+%Credits: Code Master
+$20552344 85F5E0FF
++Max Times Enemies Doused In Oil
+%Credits: Code Master
+$20552348 85F5E0FF
++Max Weapons Thrown To Crowd
+%Credits: Code Master
+$2055230C 85F5E0FF
++No Appeals
+%Credits: Code Master
+$20552310 80000000
++No Enemies Caught On Fire
+%Credits: Code Master
+$20552340 80000000
++No Pieces Of Meat Eaten
+%Credits: Code Master
+$2055234C 80000000
++No Pieces Of Meat Thrown To Crowd
+%Credits: Code Master
+$20552304 80000000
++No Roses Thrown To Crowd
+%Credits: Code Master
+$20552308 80000000
++No Successful Appeals
+%Credits: Code Master
+$20552314 80000000
++No Times Enemies Doused In Oil
+%Credits: Code Master
+$20552348 80000000
++No Weapons Thrown To Crowd
+%Credits: Code Master
+$2055230C 80000000
+!!
+!Overall:
++Longest Chain Combo
+%Credits: Codejunkies
+$205522D0 8098967F
++Max Bare-Handed Clears
+%Credits: Codejunkies
+$205522F8 8098967F
++Max Distance Traveled
+%Credits: Codejunkies
+$20552350 8FFFFFFF
++Max Enemies Killed
+%Credits: Codejunkies
+$205522BC 8098967F
++Max Salvo Points In One Event
+%Credits: Codejunkies
+$205522C4 8098967F
++Max Total Salvo Points-All Games
+%Credits: Codejunkies
+$20551BE4 05F5E0FF
++Most Points From Single Salvo
+%Credits: Codejunkies
+$20552378 8098967F
++No Continues Used
+%Credits: Codejunkies
+$205522CC 80000000
+!!
+!Overall Codes:
++Max Bare-Handed Clears
+%Credits: Code Master
+$205522F8 85F5E0FF
++Max Distance Traveled In Miles
+%Credits: Code Master
+$20552350 8997A960
++Max Enemies Killed
+%Credits: Code Master
+$205522BC 85F5E0FF
++Max Longest Chain Combo
+%Credits: Code Master
+$205522D0 85F5E0FF
++Max Most Points From A Single Salvo
+%Credits: Code Master
+$20552378 85F5E0FF
++Max Most Salvo Points In One Event
+%Credits: Code Master
+$205522C4 85F5E0FF
++No Bare-Handed Clears
+%Credits: Code Master
+$205522F8 80000000
++No Distance Traveled In Miles
+%Credits: Code Master
+$20552350 80000000
++No Enemies Killed
+%Credits: Code Master
+$205522BC 80000000
++No Longest Chain Combo
+%Credits: Code Master
+$205522D0 80000000
++No Most Points From A Single Salvo
+%Credits: Code Master
+$20552378 80000000
++No Most Salvo Points In One Event
+%Credits: Code Master
+$205522C4 80000000
++No Total Salvo Points-All Games
+%Credits: Code Master
+$20551BE4 00000000
+!!
+!Secrets Of Rome Codes:
++Have All Salvos
+%Credits: Code Master
+$40550FD4 00080001
+$FFFFFFFF 00000000
++Have All Salvos Viewed
+%Credits: Code Master
+$40550FF4 00080001
+$FFFFFFFF 00000000
++Unlock All Options/Cheats
+%Credits: Code Master
+$20550998 FFFFFFFF
+!!
+!Stat Codes - Overall:
++Max Continues Used
+%Credits: MadCatz
+$105522CC 0000270F
++Max Enemies Killed
+%Credits: MadCatz
+$105522BC 0000270F
++Max Longest Chain Combo
+%Credits: MadCatz
+$105522D0 0000270F
++Max Most Points From A Single Salvo
+%Credits: MadCatz
+$10552378 0000270F
++Max Most Salvo Points In One Event
+%Credits: MadCatz
+$105522C4 0000270F
++No Continues Used
+%Credits: MadCatz
+$105522CC 00000000
++No Enemies Killed
+%Credits: MadCatz
+$105522BC 00000000
++No Longest Chain Combo
+%Credits: MadCatz
+$105522D0 00000000
++No Most Points From A Single Salvo
+%Credits: MadCatz
+$10552378 00000000
++No Most Salvo Points In One Event
+%Credits: MadCatz
+$105522C4 00000000
+!!
+!This Game Requires A PS2 Code Breaker 7.0 Or Higher!:
++Disable FMV
+%Credits: Code Master
+$201099B0 24020001
++Have All Salvo List (In-Game)
+%Credits: Code Master
+$40551590 007E0001
+$A70FA70F 00000000
++Infinite Health
+%Credits: Code Master
+$2037D284 A4430382
++Infinite Salvo Points
+%Credits: Code Master
+$104FEB40 0000FFFF
++Infinite Weapon Durability
+%Credits: Code Master
+$201A208C 00000000
++Max Salvo Points
+%Credits: Code Master
+$204FEB40 05F5E0FF
+!!
+!Unlock Battle-Extreme Difficulty Codes:
++Circus Maximus-1St Race
+%Credits: Code Master
+$00550D15 00000001
++Circus Maximus-2Nd Race
+%Credits: Code Master
+$00550D1D 00000001
++Circus Maximus-3Rd Race
+%Credits: Code Master
+$00550D25 00000001
++Circus Maximus-Last Race
+%Credits: Code Master
+$00550D35 00000001
++City Arena-Battle Royale
+%Credits: Code Master
+$00550CAD 00000001
++City Arena-Beast Hunt
+%Credits: Code Master
+$00550CBD 00000001
++City Arena-Boss Battle
+%Credits: Code Master
+$00550CD5 00000001
++City Arena-Elimination
+%Credits: Code Master
+$00550CB5 00000001
++City Arena-Siege
+%Credits: Code Master
+$00550CCD 00000001
++City Arena-Team Battle
+%Credits: Code Master
+$00550CC5 00000001
++Desert Arena-Artus Dominus
+%Credits: Code Master
+$00550D55 00000001
++Desert Arena-Battle Royale
+%Credits: Code Master
+$00550D3D 00000001
++Desert Arena-Beast Hunt
+%Credits: Code Master
+$00550D45 00000001
++Desert Arena-Boss Battle
+%Credits: Code Master
+$00550D65 00000001
++Desert Arena-Elimination
+%Credits: Code Master
+$00550D5D 00000001
++Desert Arena-Team Battle
+%Credits: Code Master
+$00550D4D 00000001
++Great Arena-Beast Hunt
+%Credits: Code Master
+$00550D75 00000001
++Great Arena-Decius' Last Stand?
+%Credits: Code Master
+$00550DAD 00000001
++Great Arena-Elimination
+%Credits: Code Master
+$00550D7D 00000001
++Great Arena-Rescue Mission
+%Credits: Code Master
+$00550D6D 00000001
++Great Arena-Siege
+%Credits: Code Master
+$00550D8D 00000001
++Great Arena-Sword Struggle
+%Credits: Code Master
+$00550D95 00000001
++Great Arena-Team Battle
+%Credits: Code Master
+$00550D85 00000001
++Northern Arena-Artus Dominus
+%Credits: Code Master
+$00550CFD 00000001
++Northern Arena-Battle Royale
+%Credits: Code Master
+$00550CED 00000001
++Northern Arena-Battle Royale
+%Credits: Code Master
+$00550D0D 00000001
++Northern Arena-Elimination
+%Credits: Code Master
+$00550CE5 00000001
++Northern Arena-Rescue Mission
+%Credits: Code Master
+$00550CDD 00000001
++Northern Arena-Team Battle
+%Credits: Code Master
+$00550CF5 00000001
+!!
+!Unlock Battle-Hard Difficulty Codes:
++Circus Maximus-1St Race
+%Credits: Code Master
+$00550B95 00000001
++Circus Maximus-2Nd Race
+%Credits: Code Master
+$00550B9D 00000001
++Circus Maximus-3Rd Race
+%Credits: Code Master
+$00550BA5 00000001
++Circus Maximus-Last Race
+%Credits: Code Master
+$00550BB5 00000001
++City Arena-Battle Royale
+%Credits: Code Master
+$00550B2D 00000001
++City Arena-Beast Hunt
+%Credits: Code Master
+$00550B3D 00000001
++City Arena-Boss Battle
+%Credits: Code Master
+$00550B55 00000001
++City Arena-Elimination
+%Credits: Code Master
+$00550B35 00000001
++City Arena-Siege
+%Credits: Code Master
+$00550B4D 00000001
++City Arena-Team Battle
+%Credits: Code Master
+$00550B45 00000001
++Desert Arena-Artus Dominus
+%Credits: Code Master
+$00550BD5 00000001
++Desert Arena-Battle Royale
+%Credits: Code Master
+$00550BBD 00000001
++Desert Arena-Beast Hunt
+%Credits: Code Master
+$00550BC5 00000001
++Desert Arena-Boss Battle
+%Credits: Code Master
+$00550BE5 00000001
++Desert Arena-Elimination
+%Credits: Code Master
+$00550BDD 00000001
++Desert Arena-Team Battle
+%Credits: Code Master
+$00550BCD 00000001
++Great Arena-Beast Hunt
+%Credits: Code Master
+$00550BF5 00000001
++Great Arena-Decius' Last Stand?
+%Credits: Code Master
+$00550C2D 00000001
++Great Arena-Elimination
+%Credits: Code Master
+$00550BFD 00000001
++Great Arena-Rescue Mission
+%Credits: Code Master
+$00550BED 00000001
++Great Arena-Siege
+%Credits: Code Master
+$00550C0D 00000001
++Great Arena-Sword Struggle
+%Credits: Code Master
+$00550C15 00000001
++Great Arena-Team Battle
+%Credits: Code Master
+$00550C05 00000001
++Northern Arena-Artus Dominus
+%Credits: Code Master
+$00550B7D 00000001
++Northern Arena-Battle Royale
+%Credits: Code Master
+$00550B6D 00000001
++Northern Arena-Battle Royale
+%Credits: Code Master
+$00550B8D 00000001
++Northern Arena-Elimination
+%Credits: Code Master
+$00550B65 00000001
++Northern Arena-Rescue Mission
+%Credits: Code Master
+$00550B5D 00000001
++Northern Arena-Team Battle
+%Credits: Code Master
+$00550B75 00000001
+!!
+!Unlock Battle-Normal Difficulty Codes:
++Circus Maximus-1St Race
+%Credits: Code Master
+$00550A15 00000001
++Circus Maximus-2Nd Race
+%Credits: Code Master
+$00550A1D 00000001
++Circus Maximus-3Rd Race
+%Credits: Code Master
+$00550A25 00000001
++Circus Maximus-Last Race
+%Credits: Code Master
+$00550A35 00000001
++City Arena-Battle Royale
+%Credits: Code Master
+$005509AD 00000001
++City Arena-Beast Hunt
+%Credits: Code Master
+$005509BD 00000001
++City Arena-Boss Battle
+%Credits: Code Master
+$005509D5 00000001
++City Arena-Elimination
+%Credits: Code Master
+$005509B5 00000001
++City Arena-Siege
+%Credits: Code Master
+$005509CD 00000001
++City Arena-Team Battle
+%Credits: Code Master
+$005509C5 00000001
++Desert Arena-Artus Dominus
+%Credits: Code Master
+$00550A55 00000001
++Desert Arena-Battle Royale
+%Credits: Code Master
+$00550A3D 00000001
++Desert Arena-Beast Hunt
+%Credits: Code Master
+$00550A45 00000001
++Desert Arena-Boss Battle
+%Credits: Code Master
+$00550A65 00000001
++Desert Arena-Elimination
+%Credits: Code Master
+$00550A5D 00000001
++Desert Arena-Team Battle
+%Credits: Code Master
+$00550A4D 00000001
++Great Arena-Beast Hunt
+%Credits: Code Master
+$00550A75 00000001
++Great Arena-Decius' Last Stand?
+%Credits: Code Master
+$00550AAD 00000001
++Great Arena-Elimination
+%Credits: Code Master
+$00550A7D 00000001
++Great Arena-Rescue Mission
+%Credits: Code Master
+$00550A6D 00000001
++Great Arena-Siege
+%Credits: Code Master
+$00550A8D 00000001
++Great Arena-Sword Struggle
+%Credits: Code Master
+$00550A95 00000001
++Great Arena-Team Battle
+%Credits: Code Master
+$00550A85 00000001
++Northern Arena-Artus Dominus
+%Credits: Code Master
+$005509FD 00000001
++Northern Arena-Battle Royale
+%Credits: Code Master
+$005509ED 00000001
++Northern Arena-Battle Royale
+%Credits: Code Master
+$00550A0D 00000001
++Northern Arena-Elimination
+%Credits: Code Master
+$005509E5 00000001
++Northern Arena-Rescue Mission
+%Credits: Code Master
+$005509DD 00000001
++Northern Arena-Team Battle
+%Credits: Code Master
+$005509F5 00000001
+!!
+!Victories By Enemy Type:
++Max Antonius
+%Credits: Codejunkies
+$2055249C 8098967F
++Max Arcanus
+%Credits: Codejunkies
+$205524A0 8098967F
++Max Askari
+%Credits: Codejunkies
+$205524A8 8098967F
++Max Bandits
+%Credits: Codejunkies
+$20552488 8098967F
++Max Barcas
+%Credits: Codejunkies
+$20552490 8098967F
++Max Decius
+%Credits: Codejunkies
+$20552498 8098967F
++Max Elephants
+%Credits: Codejunkies
+$205524B8 8098967F
++Max Elite Female Warriors
+%Credits: Codejunkies
+$205524CC 8098967F
++Max Elite Large Warriors
+%Credits: Codejunkies
+$205524C0 8098967F
++Max Elite Mid-Size Warriors
+%Credits: Codejunkies
+$205524C4 8098967F
++Max Elite Small Warriors
+%Credits: Codejunkies
+$205524C8 8098967F
++Max Female Warriors
+%Credits: Codejunkies
+$20552478 8098967F
++Max Gedo
+%Credits: Codejunkies
+$205524B0 8098967F
++Max German Fighter
+%Credits: MadCatz
+$10552480 0000270F
++Max German Fighters
+%Credits: Codejunkies
+$20552480 8098967F
++Max Large Warrior
+%Credits: MadCatz
+$1055246C 0000270F
++Max Large Warriors
+%Credits: Codejunkies
+$2055246C 8098967F
++Max Mid-Size Warrior
+%Credits: MadCatz
+$10552470 0000270F
++Max Mid-Size Warriors
+%Credits: Codejunkies
+$20552470 8098967F
++Max Narclastese
+%Credits: Codejunkies
+$205524A4 8098967F
++Max Pirates
+%Credits: Codejunkies
+$2055248C 8098967F
++Max Roman Soldier
+%Credits: MadCatz
+$1055247C 0000270F
++Max Roman Soldiers
+%Credits: Codejunkies
+$2055247C 8098967F
++Max Sextus
+%Credits: Codejunkies
+$20552494 8098967F
++Max Small Warriors
+%Credits: Codejunkies
+$20552474 8098967F
++Max Soldiers Of Antonius
+%Credits: Codejunkies
+$20552484 8098967F
++Max Tigers
+%Credits: Codejunkies
+$205524B4 8098967F
++Max Vultures
+%Credits: Codejunkies
+$205524BC 8098967F
++Max Zedo
+%Credits: Codejunkies
+$205524AC 8098967F
++No German Fighter
+%Credits: MadCatz
+$10552480 00000000
++No Large Warrior
+%Credits: MadCatz
+$1055246C 00000000
++No Mid-Size Warrior
+%Credits: MadCatz
+$10552470 00000000
++No Roman Soldier
+%Credits: MadCatz
+$1055247C 00000000
+!!
+!Victories By Enemy Type Codes:
++Max Victories-Antonius
+%Credits: Code Master
+$2055249C 85F5E0FF
++Max Victories-Arcanas
+%Credits: Code Master
+$205524A0 85F5E0FF
++Max Victories-Askari
+%Credits: Code Master
+$205524A8 85F5E0FF
++Max Victories-Bandit
+%Credits: Code Master
+$20552488 85F5E0FF
++Max Victories-Barca
+%Credits: Code Master
+$20552490 85F5E0FF
++Max Victories-Decius
+%Credits: Code Master
+$20552498 85F5E0FF
++Max Victories-Elephant
+%Credits: Code Master
+$205524B8 85F5E0FF
++Max Victories-Elite Female Warrior
+%Credits: Code Master
+$205524CC 85F5E0FF
++Max Victories-Elite Large Warrior
+%Credits: Code Master
+$205524C0 85F5E0FF
++Max Victories-Elite Mid-Size Warrior
+%Credits: Code Master
+$205524C4 85F5E0FF
++Max Victories-Elite Small Warrior
+%Credits: Code Master
+$205524C8 85F5E0FF
++Max Victories-Female Warrior
+%Credits: Code Master
+$20552478 85F5E0FF
++Max Victories-Gedo
+%Credits: Code Master
+$205524B0 85F5E0FF
++Max Victories-German Fighter
+%Credits: Code Master
+$20552480 85F5E0FF
++Max Victories-Large Warrior
+%Credits: Code Master
+$2055246C 85F5E0FF
++Max Victories-Mid-Size Warrior
+%Credits: Code Master
+$20552470 85F5E0FF
++Max Victories-Narclastese
+%Credits: Code Master
+$205524A4 85F5E0FF
++Max Victories-Pirate
+%Credits: Code Master
+$2055248C 85F5E0FF
++Max Victories-Roman Soldier
+%Credits: Code Master
+$2055247C 85F5E0FF
++Max Victories-Sextus
+%Credits: Code Master
+$20552494 85F5E0FF
++Max Victories-Small Warrior
+%Credits: Code Master
+$20552474 85F5E0FF
++Max Victories-Soldier Of Antonius
+%Credits: Code Master
+$20552484 85F5E0FF
++Max Victories-Tiger
+%Credits: Code Master
+$205524B4 85F5E0FF
++Max Victories-Vulture
+%Credits: Code Master
+$205524BC 85F5E0FF
++Max Victories-Zedo
+%Credits: Code Master
+$205524AC 85F5E0FF
++No Victories-Antonius
+%Credits: Code Master
+$2055249C 80000000
++No Victories-Arcanas
+%Credits: Code Master
+$205524A0 80000000
++No Victories-Askari
+%Credits: Code Master
+$205524A8 80000000
++No Victories-Bandit
+%Credits: Code Master
+$20552488 80000000
++No Victories-Barca
+%Credits: Code Master
+$20552490 80000000
++No Victories-Decius
+%Credits: Code Master
+$20552498 80000000
++No Victories-Elephant
+%Credits: Code Master
+$205524B8 80000000
++No Victories-Elite Female Warrior
+%Credits: Code Master
+$205524CC 80000000
++No Victories-Elite Large Warrior
+%Credits: Code Master
+$205524C0 80000000
++No Victories-Elite Mid-Size Warrior
+%Credits: Code Master
+$205524C4 80000000
++No Victories-Elite Small Warrior
+%Credits: Code Master
+$205524C8 80000000
++No Victories-Female Warrior
+%Credits: Code Master
+$20552478 80000000
++No Victories-Gedo
+%Credits: Code Master
+$205524B0 80000000
++No Victories-German Fighter
+%Credits: Code Master
+$20552480 80000000
++No Victories-Large Warrior
+%Credits: Code Master
+$2055246C 80000000
++No Victories-Mid-Size Warrior
+%Credits: Code Master
+$20552470 80000000
++No Victories-Narclastese
+%Credits: Code Master
+$205524A4 80000000
++No Victories-Pirate
+%Credits: Code Master
+$2055248C 80000000
++No Victories-Roman Soldier
+%Credits: Code Master
+$2055247C 80000000
++No Victories-Sextus
+%Credits: Code Master
+$20552494 80000000
++No Victories-Small Warrior
+%Credits: Code Master
+$20552474 80000000
++No Victories-Soldier Of Antonius
+%Credits: Code Master
+$20552484 80000000
++No Victories-Tiger
+%Credits: Code Master
+$205524B4 80000000
++No Victories-Vulture
+%Credits: Code Master
+$205524BC 80000000
++No Victories-Zedo
+%Credits: Code Master
+$205524AC 80000000
+!!
+!Victories By Weapon Type:
++Apollp Spear
+%Credits: Codejunkies
+$205523F0 8098967F
++Arm
+%Credits: Codejunkies
+$20552404 8098967F
++Barca Axe
+%Credits: Codejunkies
+$205523C0 8098967F
++Barrel
+%Credits: Codejunkies
+$20552420 8098967F
++Bow
+%Credits: Codejunkies
+$205523A0 8098967F
++Claw Shard
+%Credits: Codejunkies
+$20552428 8098967F
++Dagger
+%Credits: Codejunkies
+$20552394 8098967F
++Fire Bow
+%Credits: Codejunkies
+$205523F4 8098967F
++Gedo Spear
+%Credits: Codejunkies
+$205523D0 8098967F
++German Hand Axe
+%Credits: Codejunkies
+$205523C4 8098967F
++German Shield
+%Credits: Codejunkies
+$20552410 8098967F
++Gladius
+%Credits: Codejunkies
+$2055237C 8098967F
++Grand Halberd
+%Credits: Codejunkies
+$205523E4 8098967F
++Grand Mace
+%Credits: Codejunkies
+$205523E0 8098967F
++Guardian Gladius
+%Credits: Codejunkies
+$205523CC 8098967F
++Guardian Shield
+%Credits: Codejunkies
+$20552418 8098967F
++Halberd
+%Credits: Codejunkies
+$20552388 8098967F
++Head
+%Credits: Codejunkies
+$20552400 8098967F
++Long Axe
+%Credits: Codejunkies
+$205523C8 8098967F
++Mace
+%Credits: Codejunkies
+$20552384 8098967F
++Magnus
+%Credits: Codejunkies
+$205523B8 8098967F
++Maul
+%Credits: Codejunkies
+$2055238C 8098967F
++Max Gladius
+%Credits: MadCatz
+$1055237C 0000270F
++Max Mace
+%Credits: MadCatz
+$10552384 0000270F
++Max Scimitar
+%Credits: MadCatz
+$10552380 0000270F
++Max Torch
+%Credits: MadCatz
+$105523A8 0000270F
++Morningstar
+%Credits: Codejunkies
+$20552390 8098967F
++No Gladius
+%Credits: MadCatz
+$1055237C 00000000
++No Mace
+%Credits: MadCatz
+$10552384 00000000
++No Scimitar
+%Credits: MadCatz
+$10552380 00000000
++No Torch
+%Credits: MadCatz
+$105523A8 00000000
++No Weapon
+%Credits: MadCatz
+$1055241C 0000270F
++No Weapon
+%Credits: MadCatz
+$1055241C 00000000
++No Weapon
+%Credits: Codejunkies
+$2055241C 8098967F
++Oil Sling
+%Credits: Codejunkies
+$205523F8 8098967F
++Parma
+%Credits: Codejunkies
+$20552408 8098967F
++Power Gladius
+%Credits: Codejunkies
+$205523D8 8098967F
++Power Maul
+%Credits: Codejunkies
+$205523E8 8098967F
++Power Scimitar
+%Credits: Codejunkies
+$205523DC 8098967F
++Rock
+%Credits: Codejunkies
+$20552398 8098967F
++Roma Sai
+%Credits: Codejunkies
+$205523BC 8098967F
++Roma Shield
+%Credits: Codejunkies
+$20552414 8098967F
++Rudis
+%Credits: Codejunkies
+$205523AC 8098967F
++Scimitar
+%Credits: Codejunkies
+$20552380 8098967F
++Sling
+%Credits: Codejunkies
+$205523A4 8098967F
++Spear
+%Credits: Codejunkies
+$2055239C 8098967F
++Spike Shield
+%Credits: Codejunkies
+$2055240C 8098967F
++Stick
+%Credits: Codejunkies
+$205523FC 8098967F
++Torch
+%Credits: Codejunkies
+$205523A8 8098967F
++Trident
+%Credits: Codejunkies
+$205523B4 8098967F
++Valcross Bow
+%Credits: Codejunkies
+$20552424 8098967F
++War Chain
+%Credits: Codejunkies
+$205523EC 8098967F
++Whip
+%Credits: Codejunkies
+$205523B0 8098967F
++Zedo Spear
+%Credits: Codejunkies
+$205523D4 8098967F
+!!
+!Victories By Weapon Type Codes:
++Max Victories-Apollo Spear
+%Credits: Code Master
+$205523F0 85F5E0FF
++Max Victories-Arm
+%Credits: Code Master
+$20552404 85F5E0FF
++Max Victories-Barca Axe
+%Credits: Code Master
+$205523C0 85F5E0FF
++Max Victories-Barrel
+%Credits: Code Master
+$20552420 85F5E0FF
++Max Victories-Bow
+%Credits: Code Master
+$205523A0 85F5E0FF
++Max Victories-Claw Shard
+%Credits: Code Master
+$20552428 85F5E0FF
++Max Victories-Dagger
+%Credits: Code Master
+$20552394 85F5E0FF
++Max Victories-Fire Bow
+%Credits: Code Master
+$205523F4 85F5E0FF
++Max Victories-Gedo Spear
+%Credits: Code Master
+$205523D0 85F5E0FF
++Max Victories-German Hand Axe
+%Credits: Code Master
+$205523C4 85F5E0FF
++Max Victories-German Shield
+%Credits: Code Master
+$20552410 85F5E0FF
++Max Victories-Gladius
+%Credits: Code Master
+$2055237C 85F5E0FF
++Max Victories-Grand Halberd
+%Credits: Code Master
+$205523E4 85F5E0FF
++Max Victories-Grand Mace
+%Credits: Code Master
+$205523E0 85F5E0FF
++Max Victories-Guardian Gladius
+%Credits: Code Master
+$205523CC 85F5E0FF
++Max Victories-Guardian Shield
+%Credits: Code Master
+$20552418 85F5E0FF
++Max Victories-Halberd
+%Credits: Code Master
+$20552388 85F5E0FF
++Max Victories-Head
+%Credits: Code Master
+$20552400 85F5E0FF
++Max Victories-Long Axe
+%Credits: Code Master
+$205523C8 85F5E0FF
++Max Victories-Mace
+%Credits: Code Master
+$20552384 85F5E0FF
++Max Victories-Magnus
+%Credits: Code Master
+$205523B8 85F5E0FF
++Max Victories-Maul
+%Credits: Code Master
+$2055238C 85F5E0FF
++Max Victories-Morningstar
+%Credits: Code Master
+$20552390 85F5E0FF
++Max Victories-No Weapon
+%Credits: Code Master
+$2055241C 85F5E0FF
++Max Victories-Oil Sling
+%Credits: Code Master
+$205523F8 85F5E0FF
++Max Victories-Parma
+%Credits: Code Master
+$20552408 85F5E0FF
++Max Victories-Power Gladius
+%Credits: Code Master
+$205523D8 85F5E0FF
++Max Victories-Power Maul
+%Credits: Code Master
+$205523E8 85F5E0FF
++Max Victories-Power Scimitar
+%Credits: Code Master
+$205523DC 85F5E0FF
++Max Victories-Rock
+%Credits: Code Master
+$20552398 85F5E0FF
++Max Victories-Roma Sai
+%Credits: Code Master
+$205523BC 85F5E0FF
++Max Victories-Roma Shield
+%Credits: Code Master
+$20552414 85F5E0FF
++Max Victories-Rudis
+%Credits: Code Master
+$205523AC 85F5E0FF
++Max Victories-Scimitar
+%Credits: Code Master
+$20552380 85F5E0FF
++Max Victories-Sling
+%Credits: Code Master
+$205523A4 85F5E0FF
++Max Victories-Spear
+%Credits: Code Master
+$2055239C 85F5E0FF
++Max Victories-Spike Shield
+%Credits: Code Master
+$2055240C 85F5E0FF
++Max Victories-Stick
+%Credits: Code Master
+$205523FC 85F5E0FF
++Max Victories-Torch
+%Credits: Code Master
+$205523A8 85F5E0FF
++Max Victories-Trident
+%Credits: Code Master
+$205523B4 85F5E0FF
++Max Victories-Valcross Bow
+%Credits: Code Master
+$20552424 85F5E0FF
++Max Victories-War Chain
+%Credits: Code Master
+$205523EC 85F5E0FF
++Max Victories-Whip
+%Credits: Code Master
+$205523B0 85F5E0FF
++Max Victories-Zedo Spear
+%Credits: Code Master
+$205523D4 85F5E0FF
++No Victories-Apollo Spear
+%Credits: Code Master
+$205523F0 80000000
++No Victories-Arm
+%Credits: Code Master
+$20552404 80000000
++No Victories-Barca Axe
+%Credits: Code Master
+$205523C0 80000000
++No Victories-Barrel
+%Credits: Code Master
+$20552420 80000000
++No Victories-Bow
+%Credits: Code Master
+$205523A0 80000000
++No Victories-Claw Shard
+%Credits: Code Master
+$20552428 80000000
++No Victories-Dagger
+%Credits: Code Master
+$20552394 80000000
++No Victories-Fire Bow
+%Credits: Code Master
+$205523F4 80000000
++No Victories-Gedo Spear
+%Credits: Code Master
+$205523D0 80000000
++No Victories-German Hand Axe
+%Credits: Code Master
+$205523C4 80000000
++No Victories-German Shield
+%Credits: Code Master
+$20552410 80000000
++No Victories-Gladius
+%Credits: Code Master
+$2055237C 80000000
++No Victories-Grand Halberd
+%Credits: Code Master
+$205523E4 80000000
++No Victories-Grand Mace
+%Credits: Code Master
+$205523E0 80000000
++No Victories-Guardian Gladius
+%Credits: Code Master
+$205523CC 80000000
++No Victories-Guardian Shield
+%Credits: Code Master
+$20552418 80000000
++No Victories-Halberd
+%Credits: Code Master
+$20552388 80000000
++No Victories-Head
+%Credits: Code Master
+$20552400 80000000
++No Victories-Long Axe
+%Credits: Code Master
+$205523C8 80000000
++No Victories-Mace
+%Credits: Code Master
+$20552384 80000000
++No Victories-Magnus
+%Credits: Code Master
+$205523B8 80000000
++No Victories-Maul
+%Credits: Code Master
+$2055238C 80000000
++No Victories-Morningstar
+%Credits: Code Master
+$20552390 80000000
++No Victories-No Weapon
+%Credits: Code Master
+$2055241C 80000000
++No Victories-Oil Sling
+%Credits: Code Master
+$205523F8 80000000
++No Victories-Parma
+%Credits: Code Master
+$20552408 80000000
++No Victories-Power Gladius
+%Credits: Code Master
+$205523D8 80000000
++No Victories-Power Maul
+%Credits: Code Master
+$205523E8 80000000
++No Victories-Power Scimitar
+%Credits: Code Master
+$205523DC 80000000
++No Victories-Rock
+%Credits: Code Master
+$20552398 80000000
++No Victories-Roma Sai
+%Credits: Code Master
+$205523BC 80000000
++No Victories-Roma Shield
+%Credits: Code Master
+$20552414 80000000
++No Victories-Rudis
+%Credits: Code Master
+$205523AC 80000000
++No Victories-Scimitar
+%Credits: Code Master
+$20552380 80000000
++No Victories-Sling
+%Credits: Code Master
+$205523A4 80000000
++No Victories-Spear
+%Credits: Code Master
+$2055239C 80000000
++No Victories-Spike Shield
+%Credits: Code Master
+$2055240C 80000000
++No Victories-Stick
+%Credits: Code Master
+$205523FC 80000000
++No Victories-Torch
+%Credits: Code Master
+$205523A8 80000000
++No Victories-Trident
+%Credits: Code Master
+$205523B4 80000000
++No Victories-Valcross Bow
+%Credits: Code Master
+$20552424 80000000
++No Victories-War Chain
+%Credits: Code Master
+$205523EC 80000000
++No Victories-Whip
+%Credits: Code Master
+$205523B0 80000000
++No Victories-Zedo Spear
+%Credits: Code Master
+$205523D4 80000000
+!!
+!Weapons:
++Max Enemy Weapons Dropped
+%Credits: Codejunkies
+$20552324 8098967F
++Max Successful Supra Attacks
+%Credits: MadCatz
+$10552330 0000270F
++Max Successful Supra Attacks
+%Credits: Codejunkies
+$20552330 8098967F
++Max Thrown Weapon Hits
+%Credits: MadCatz
+$105522D8 0000270F
++Max Thrown Weapon Hits
+%Credits: Codejunkies
+$205522D8 8098967F
++Max Thrown Weapon Kills
+%Credits: Codejunkies
+$205522DC 8098967F
++Max Weapons Broken
+%Credits: MadCatz
+$105522E0 0000270F
++Max Weapons Broken
+%Credits: Codejunkies
+$205522E0 8098967F
++Max Weapons Dropped
+%Credits: MadCatz
+$10552320 0000270F
++Max Weapons Dropped
+%Credits: Codejunkies
+$20552320 8098967F
++Max Weapons Stolen By Enemies
+%Credits: MadCatz
+$10552300 0000270F
++Max Weapons Stolen From Enemies
+%Credits: MadCatz
+$105522FC 0000270F
++Max Weapons Stolen From Enemies
+%Credits: Codejunkies
+$205522FC 8098967F
++Max Weapons Thrown
+%Credits: MadCatz
+$105522D4 0000270F
++Max Weapons Thrown
+%Credits: Codejunkies
+$205522D4 8098967F
++No Successful Supra Attacks
+%Credits: MadCatz
+$10552330 00000000
++No Thrown Weapon Hits
+%Credits: MadCatz
+$105522D8 00000000
++No Weapons Broken
+%Credits: MadCatz
+$105522E0 00000000
++No Weapons Broken
+%Credits: Codejunkies
+$205522E0 80000000
++No Weapons Dropped
+%Credits: MadCatz
+$10552320 00000000
++No Weapons Stolen By Enemies
+%Credits: MadCatz
+$10552300 00000000
++No Weapons Stolen By Enemies
+%Credits: Codejunkies
+$20552300 80000000
++No Weapons Stolen From Enemies
+%Credits: MadCatz
+$105522FC 00000000
++No Weapons Thrown
+%Credits: MadCatz
+$105522D4 00000000
+!!
+!Weapons Codes:
++Max Enemy Weapons Dropped
+%Credits: Code Master
+$20552324 85F5E0FF
++Max Successful Supra Attacks
+%Credits: Code Master
+$20552330 85F5E0FF
++Max Thrown Weapon Hits
+%Credits: Code Master
+$205522D8 85F5E0FF
++Max Thrown Weapon Kills
+%Credits: Code Master
+$205522DC 85F5E0FF
++Max Weapons Broken
+%Credits: Code Master
+$205522E0 85F5E0FF
++Max Weapons Dropped
+%Credits: Code Master
+$20552320 85F5E0FF
++Max Weapons Stolen By Enemies
+%Credits: Code Master
+$20552300 85F5E0FF
++Max Weapons Stolen From Enemies
+%Credits: Code Master
+$205522FC 85F5E0FF
++Max Weapons Thrown
+%Credits: Code Master
+$205522D4 85F5E0FF
++No Enemy Weapons Dropped
+%Credits: Code Master
+$20552324 80000000
++No Successful Supra Attacks
+%Credits: Code Master
+$20552330 80000000
++No Thrown Weapon Hits
+%Credits: Code Master
+$205522D8 80000000
++No Thrown Weapon Kills
+%Credits: Code Master
+$205522DC 80000000
++No Weapons Dropped
+%Credits: Code Master
+$20552320 80000000
++No Weapons Stolen From Enemies
+%Credits: Code Master
+$205522FC 80000000
++No Weapons Thrown
+%Credits: Code Master
+$205522D4 80000000
+!!
++Have 1-Hit Boss Kills
+%Credits: MadCatz
+$201B8B80 24038001
+$201B8B84 34030000
++Have All Profiles
+%Credits: MadCatz
+$105520B0 0000FFFF
++Have All Salvos
+%Credits: MadCatz
+$40550FD0 00100001
+$FFFFFFFF 00000000
++Infinite Silver Fortune Coins
+%Credits: MadCatz
+$20551184 000003E7
++Infinite Vitality (Health)
+%Credits: MadCatz
+$201595D0 00000000
++Max Vitality
+%Credits: Codejunkies
+$204BD8C8 0F000F00
+!!
+

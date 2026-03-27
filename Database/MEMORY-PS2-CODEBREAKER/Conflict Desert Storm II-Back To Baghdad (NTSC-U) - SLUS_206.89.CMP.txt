@@ -1,0 +1,155 @@
+^1 = HASH: 2BE460DF
+^3 = NAME: Conflict Desert Storm II-Back To Baghdad
+^2 = GameID: SLUS_206.89
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master>Lajos Szalay
+$F01DF100 0030014F
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master>Lajos Szalay
+$9030014C 0C0E6111
+!!
+!Codes:
++Infinite Health
+%Credits: Code Master>Lajos Szalay
+$200C0220 3C024316
+$200C0224 03E00008
+$200C0228 AE020060
+$201A9CD0 0C030088
+$201A9CD4 4600B034
++Infinite Health (Alternate)
+%Credits: Code Master>Lajos Szalay
+$200C0230 3C024318
+$200C0234 03E00008
+$200C0238 AE020060
+$20167BD0 0C03008C
+$20167BD4 46000832
++Infinite Ammo
+%Credits: Code Master>Lajos Szalay
+$201B0434 00000000
++Extra Ammo
+%Credits: Code Master>Lajos Szalay
+$101B0430 00000001
++Never Reload
+%Credits: Code Master>Lajos Szalay
+$201B04E4 00000000
++Infinite Medi-Kits
+%Credits: Code Master>Lajos Szalay
+$201B4D58 00000000
++Extra Medi-Kits
+%Credits: Code Master>Lajos Szalay
+$201B4D54 00451021
++Infinite Grenades
+%Credits: Code Master>Lajos Szalay
+$201AFF08 00000000
++Extra Grenades
+%Credits: Code Master>Lajos Szalay
+$101AFF04 00000001
++Weapons Are Automatic
+%Credits: Code Master>Lajos Szalay
+$201B04F0 00000000
++Rapid Fire (Both Players)
+%Credits: Code Master>Lajos Szalay
+$201B0384 00000000
++Rapid Fire P1
+%Credits: Code Master>Lajos Szalay
+$D0668C82 0000F7FF
+$201B0384 00000000
+$D0668C82 0000FFFF
+$201B0384 AE020064
++Rapid Fire P2
+%Credits: Code Master>Lajos Szalay
+$D0669082 0000F7FF
+$201B0384 00000000
+$D0669082 0000FFFF
+$201B0384 AE020064
++Debug Area Messages
+%Credits: Code Master>Lajos Szalay
+$20114700 00000000
+$20114728 00000000
++Enable Cheat Menu
+%Credits: Code Master>Lajos Szalay
+$203CEA58 00000001
++Enable Route Marker Display
+%Credits: Code Master>Lajos Szalay
+$203D0724 00000001
++Idiot AI
+%Credits: Code Master>Lajos Szalay
+$203D30AC 00000001
++Enable Debug Mappings
+%Credits: Code Master>Lajos Szalay
+$203D31FC 00000001
++Enable Lighting
+%Credits: Code Master>Lajos Szalay
+$203EB1DC 00000001
++Infinite Plastic/C4
+%Credits: Code Master>Lajos Szalay
+$20143A34 24450000
++Max Infinite Plastic/C4
+%Credits: Code Master>Lajos Szalay
+$20143A34 240503E7
+$20143A48 240503E7
++Extra Plastic/C4
+%Credits: Code Master>Lajos Szalay
+$20143A34 24450001
++God Mode (Including Vechicles)
+%Credits: Code Master>Lajos Szalay
+$203CEA3C 00000000
++Enemies Dont Shoot You
+%Credits: Code Master>Lajos Szalay
+$203CEA48 00000000
++Play As Army Men 3D
+%Credits: Code Master>Lajos Szalay
+$201F8FDC 24050001
++P1 Press L1+Select For Hyper Speed
+%Credits: Code Master>Lajos Szalay
+$D0668C82 0000FBFE
+$203EA5E8 40000000
++P1 Press L2+Select For Super Hyper Speed
+%Credits: Code Master>Lajos Szalay
+$D0668C82 0000FEFE
+$203EA5E8 40800000
++P1 Press R1+Select For Slow Speed
+%Credits: Code Master>Lajos Szalay
+$D0668C82 0000F7FE
+$203EA5E8 3F400000
++P1 Press R2+Select For Super Slow Speed
+%Credits: Code Master>Lajos Szalay
+$D0668C82 0000FDFE
+$203EA5E8 3F000000
++P1 Press L3+Select For Normal Speed
+%Credits: Code Master>Lajos Szalay
+$D0668C82 0000FFFC
+$203EA5E8 3F800000
+!!
+!Always Game Speed Codes:
++Super Hyper Speed
+%Credits: Code Master>Lajos Szalay
+$203EA5E8 40800000
++Hyper Speed
+%Credits: Code Master>Lajos Szalay
+$203EA5E8 40000000
++Normal Speed
+%Credits: Code Master>Lajos Szalay
+$203EA5E8 3F800000
++Slow Speed
+%Credits: Code Master>Lajos Szalay
+$203EA5E8 3F400000
++Super Slow Speed
+%Credits: Code Master>Lajos Szalay
+$203EA5E8 3F000000
+!!
+!Activate Cheat Codes:
++Infinite Ammo
+%Credits: Code Master>Lajos Szalay
+$203CEA40 00000001
++Idiot AI
+%Credits: Code Master>Lajos Szalay
+$203CEA4C 00000001
++Infinite Saves
+%Credits: Code Master>Lajos Szalay
+$203CEA54 00000001
++Max Trooper Level
+%Credits: Code Master>Lajos Szalay
+$203CEA50 00000009
+!!

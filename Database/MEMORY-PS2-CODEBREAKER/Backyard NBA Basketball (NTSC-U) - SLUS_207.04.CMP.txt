@@ -1,0 +1,103 @@
+^1 = HASH: A54D5444
+^3 = NAME: Backyard NBA Basketball
+^2 = GameID: SLUS_207.04
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001DF8A7
+!!
+!Codes:
++Home Team Score Modifier (000-3E7)
+%Credits: Code Master
+$200C0220 03E00008
+$200C0224 AC820510
+$20199A00 0C030088
+$20199A04 24020???
++Away Team Score Modifier (000-3E7)
+%Credits: Code Master
+$200C0230 03E00008
+$200C0234 AC820510
+$201999F8 0C03008C
+$201999FC 24020???
++Home Team 2-Pointer's Score Modifier
+%Credits: Code Master
+$1019D744 000000??
++Home Team 3-Pointer's Score Modifier
+%Credits: Code Master
+$1019D8D4 000000??
++Away Team 2-Pointer's Score Modifier
+%Credits: Code Master
+$1019D738 000000??
++Away Team 3-Pointer's Score Modifier
+%Credits: Code Master
+$1019D8C4 000000??
++Home Team Never Scores
+%Credits: Code Master
+$1019D744 00000000
+$1019D8D4 00000000
++Away Team Never Scores
+%Credits: Code Master
+$1019D738 00000000
+$1019D8C4 00000000
++All 2-Pointer's Score For Home Team
+%Credits: Code Master
+$1019D72E 00001000
++All 2-Pointer's Score For Away Team
+%Credits: Code Master
+$2019D72C 00000000
++All 3-Pointer's Score For Home Team
+%Credits: Code Master
+$1019D8BA 00001000
++All 3-Pointer's Score For Away Team
+%Credits: Code Master
+$2019D8B8 00000000
++Infinite Time-Outs (Both Teams)
+%Credits: Code Master
+$2015685C 00000000
++Only 1 Time-Out Allowed (Both Teams)
+%Credits: Code Master
+$2015685C AC600000
++Infinite Shot Clock
+%Credits: Code Master
+$20459A10 00000000
++P1 Press L1+Select To Stop Timer
+%Credits: Code Master
+$D0E5A502 0000FBFE
+$20459A30 00000000
++P1 Press L2+Select To Start Timer
+%Credits: Code Master
+$D0E5A502 0000FEFE
+$20459A30 0C055624
++P2 Press L1+Select To Stop Timer
+%Credits: Code Master
+$D0E5B302 0000FBFE
+$20459A30 00000000
++P2 Press L2+Select To Start Timer
+%Credits: Code Master
+$D0E5B302 0000FEFE
+$20459A30 0C055624
++P3 Press L1+Select To Stop Timer
+%Credits: Code Master
+$D0E5B502 0000FBFE
+$20459A30 00000000
++P3 Press L2+Select To Start Timer
+%Credits: Code Master
+$D0E5B502 0000FEFE
+$20459A30 0C055624
++P4 Press L1+Select To Stop Timer
+%Credits: Code Master
+$D0E5B6C2 0000FBFE
+$20459A30 00000000
++P4 Press L2+Select To Start Timer
+%Credits: Code Master
+$D0E5B6C2 0000FEFE
+$20459A30 0C055624
++P5 Press L1+Select To Stop Timer
+%Credits: Code Master
+$D0E5B8C2 0000FBFE
+$20459A30 00000000
++P5 Press L2+Select To Start Timer
+%Credits: Code Master
+$D0E5B8C2 0000FEFE
+$20459A30 0C055624
+!!

@@ -1,0 +1,78 @@
+^3 = NAME: Soldier Of Fortune - Gold Edition (Pal-Unk)
+^2 = GameID: SLES-50739
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F04321A8 004321BF
++(M) Must Be On
+%Credits: Codejunkies
+$F04321BC 004321BF
+!!
+!Debug Info:
++Show Debug Location
+%Credits: Codejunkies
+$201141F8 00000000
++Show More Info
+%Credits: Codejunkies
+$203F2FE0 00000000
++Show Packets
+%Credits: Codejunkies
+$20118044 00000000
++Show Trace/Points
+%Credits: Codejunkies
+$203CB2D8 00000000
+!!
+!Show Debug Infos:
++Hyper Mode - Press R2+Select
+%Credits: Codejunkies
+$D06CF482 0000FEFE
+$20591CAC 3E000000
++Normal Anims - Press R1+R2+L1+L2
+%Credits: Codejunkies
+$D06CF482 0000F0FF
+$20591CAC 3F800000
++Slo Mo Animations - Press L2+Select
+%Credits: Codejunkies
+$D06CF482 0000FEFE
+$20591CAC 41000000
+!!
++Bad Guys Don't Shoot
+%Credits: Codejunkies
+$201DA514 2402FFFF
++God Mode
+%Credits: Codejunkies
+$20FFFF14 24010010
+$20FFFF18 AC6101A0
++God Mode And No Clip/Fly Mode {<I>Turn On With R1+R2. Turn Off With L1+L2.</I>}
+%Credits: Codejunkies
+$D06CF482 0000FAFF
+$202D7FE4 24030001
+$D06CF482 0000F5FF
+$202D7FE4 24030000
++Infinite Ammo
+%Credits: Codejunkies
+$203BFC18 24630000
+$203BBDF8 24510000
+$203BDD50 24420000
+$203BD440 24510000
++Infinite Item Usage
+%Credits: Codejunkies
+$203B2C94 24420000
++Must Be On For God Mode/W.T.W.
+%Credits: Codejunkies
+$200FFF00 3C030056
+$200FFF04 8C63BD34
+$200FFF0C 10000007
+$200FFF2C 24030070
+$200FFF30 0810C85A
+$20432164 0803FFC0
++Walk Through Walls - Press L3 To Turn On, R3 To Turn Off
+%Credits: Codejunkies
+$D06CF482 0000FFFD
+$200FFF20 24010001
+$D06CF482 0000FFFD
+$200FFF24 AC61019C
+$D06CF482 0000FFFB
+$200FFF20 24010000
+!!
+

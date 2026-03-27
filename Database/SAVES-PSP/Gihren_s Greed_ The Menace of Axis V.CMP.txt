@@ -1,0 +1,23 @@
+^2 = GameID: ULJS00178
+^3 = NAME: Gihren's Greed: The Menace of Axis V
+^5 = APCRED: PSP
+(https://web.save-editor.com/bbs/patchcode/psp/bbs.cgi?list=pickup&num=2273)
+^4 = FILE: *
++Funds 10485xx
+$10000AD7 0000FFFF
++Resources 99999xx
+$00000AD9 000000F9
+$10000ADA 00006789
++Strategy Phase Number Of Turns 1 (+ 80h Per Turn)
+$10000222 00000100
+(Difficulty change)
++(very Easy)
+$00000901 00000000
++(easy)
+$00000901 00000002
++(normal)
+$00000901 00000004
++(hell)
+$00000901 0000000A
++(special)
+$00000901 0000000C

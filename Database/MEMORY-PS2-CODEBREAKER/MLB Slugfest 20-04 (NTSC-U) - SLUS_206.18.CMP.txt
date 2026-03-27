@@ -1,0 +1,216 @@
+^1 = HASH: C774219F
+^3 = NAME: MLB Slugfest 20-04
+^2 = GameID: SLUS_206.18
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001B8E4F
+!!
+!Codes:
++Home Team Score Modifier
+%Credits: Code Master
+$1044A4C4 0000????
++Home Team Start With Runs Modifier
+%Credits: Code Master
+$D044A4C4 00000000
+$1044A4C4 0000????
++Away Team Score Modifier
+%Credits: Code Master
+$1044A4F8 0000????
++Away Team Start With Runs Modifier
+%Credits: Code Master
+$D044A4F8 00000000
+$1044A4F8 0000????
++Home Team Infinite Turbo
+%Credits: Code Master
+$20444978 42C80000
++Home Team No Turbo
+%Credits: Code Master
+$20444978 00000000
++Away Team Infinite Turbo
+%Credits: Code Master
+$2044497C 42C80000
++Away Team No Turbo
+%Credits: Code Master
+$2044497C 00000000
++Home Team Pitcher-Max Special
+%Credits: Code Master
+$2044A4E0 0000000A
++Home Team Pitcher-No Special
+%Credits: Code Master
+$2044A4E0 00000000
++Away Team Pitcher-Max Special
+%Credits: Code Master
+$2044A514 0000000A
++Away Team Pitcher-No Special
+%Credits: Code Master
+$2044A514 00000000
+!!
+!Both Team Codes:
++Infinite Strikes
+%Credits: Code Master
+$1044A480 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$D044A480 00000000
+$1044A480 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$D044A480 00000000
+$1044A480 00000001
++Infinite Balls
+%Credits: Code Master
+$1044A48C 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$D044A48C 00000000
+$1044A48C 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$D044A48C 00000000
+$1044A48C 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$D044A48C 00000000
+$1044A48C 00000001
++Infinite Outs
+%Credits: Code Master
+$1044A490 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$D044A490 00000000
+$1044A490 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$D044A490 00000000
+$1044A490 00000001
++Always Full Count
+%Credits: Code Master
+$1044A480 00000002
+$1044A48C 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$1044A480 00000002
+$1044A48C 00000003
+$1044A490 00000002
+!!
+!Home Team Only Codes:
++Infinite Strikes
+%Credits: Code Master
+$E0010001 0044928C
+$1044A480 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020001 0044928C
+$D044A480 00000000
+$1044A480 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020001 0044928C
+$D044A480 00000000
+$1044A480 00000001
++Infinite Balls
+%Credits: Code Master
+$E0010001 0044928C
+$1044A48C 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0020001 0044928C
+$D044A48C 00000000
+$1044A48C 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$E0020001 0044928C
+$D044A48C 00000000
+$1044A48C 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$E0020001 0044928C
+$D044A48C 00000000
+$1044A48C 00000001
++Infinite Outs
+%Credits: Code Master
+$E0010001 0044928C
+$1044A490 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$E0020001 0044928C
+$D044A490 00000000
+$1044A490 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020001 0044928C
+$D044A490 00000000
+$1044A490 00000001
++Always Full Count
+%Credits: Code Master
+$E0020001 0044928C
+$1044A480 00000002
+$1044A48C 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030001 0044928C
+$1044A480 00000002
+$1044A48C 00000003
+$1044A490 00000002
+!!
+!Away Team Only Codes:
++Infinite Strikes
+%Credits: Code Master
+$E0010000 0044928C
+$1044A480 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020000 0044928C
+$D044A480 00000000
+$1044A480 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020000 0044928C
+$D044A480 00000000
+$1044A480 00000001
++Infinite Balls
+%Credits: Code Master
+$E0010000 0044928C
+$1044A48C 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0020000 0044928C
+$D044A48C 00000000
+$1044A48C 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$E0020000 0044928C
+$D044A48C 00000000
+$1044A48C 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$E0020000 0044928C
+$D044A48C 00000000
+$1044A48C 00000001
++Infinite Outs
+%Credits: Code Master
+$E0010000 0044928C
+$1044A490 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$E0020000 0044928C
+$D044A490 00000000
+$1044A490 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020000 0044928C
+$D044A490 00000000
+$1044A490 00000001
++Always Full Count
+%Credits: Code Master
+$E0020000 0044928C
+$1044A480 00000002
+$1044A48C 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030000 0044928C
+$1044A480 00000002
+$1044A48C 00000003
+$1044A490 00000002
+!!

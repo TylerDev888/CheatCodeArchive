@@ -1,0 +1,579 @@
+^3 = NAME: Disney's Finding Nemo (Ntsc-U)
+^2 = GameID: SLUS-20628
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F027D37C 0027D37F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0027D37F
+!!
++Anglerfish Chase: All Starfish Collected
+%Credits: MadCatz
+$10438D14 0000FFFF
++Anglerfish Chase: Low Completion Time
+%Credits: MadCatz
+$20438D0C 3F800000
++Anglerfish Chase: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438DE4 3F800000
++Anglerfish Chase: Unlock Bonus Level
+%Credits: MadCatz
+$20438DEC FFFFFFFF
++Anglerfish Chase: Unlock Level
+%Credits: MadCatz
+$10438D16 00000003
++Catch Dory: All Starfish Collected
+%Credits: MadCatz
+$10438CD8 0000FFFF
++Catch Dory: Low Completion Time
+%Credits: MadCatz
+$20438CD0 3F800000
++Catch Dory: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438DA8 3F800000
++Catch Dory: Unlock Bonus Level
+%Credits: MadCatz
+$20438DB0 FFFFFFFF
++Catch Dory: Unlock Level
+%Credits: MadCatz
+$10438CDA 00000003
++East Australian Current: All Starfish Collected
+%Credits: MadCatz
+$10438D44 0000FFFF
++East Australian Current: Low Completion Time
+%Credits: MadCatz
+$20438D3C 3F800000
++East Australian Current: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438E14 3F800000
++East Australian Current: Unlock Bonus Level
+%Credits: MadCatz
+$20438E1C FFFFFFFF
++East Australian Current: Unlock Level
+%Credits: MadCatz
+$10438D46 00000003
++Field Trip: All Starfish Collected
+%Credits: MadCatz
+$10438CB4 0000FFFF
++Field Trip: Low Completion Time
+%Credits: MadCatz
+$20438CAC 3F800000
++Field Trip: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438D84 3F800000
++Field Trip: Unlock Bonus Level
+%Credits: MadCatz
+$20438D8C FFFFFFFF
++Field Trip: Unlock Level
+%Credits: MadCatz
+$10438CB6 00000003
++Fishing Net Rescue: All Starfish Collected
+%Credits: MadCatz
+$10438D74 0000FFFF
++Fishing Net Rescue: Low Completion Time
+%Credits: MadCatz
+$20438D6C 3F800000
++Fishing Net Rescue: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438E44 3F800000
++Fishing Net Rescue: Unlock Bonus Level
+%Credits: MadCatz
+$20438E4C FFFFFFFF
++Fishing Net Rescue: Unlock Level
+%Credits: MadCatz
+$10438D76 00000003
++Going To School: All Starfish Collected
+%Credits: MadCatz
+$10438CA8 0000FFFF
++Going To School: Low Completion Time
+%Credits: MadCatz
+$20438CA0 3F800000
++Going To School: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438D78 3F800000
++Going To School: Unlock Level
+%Credits: MadCatz
+$10438CAA 00000003
+!Have Level Completed Codes:
++Anglerish Chase
+%Credits: Code Master
+$10438D14 0000FFFF
+$10438DEC 0000FFFF
++Catch Dory
+%Credits: Code Master
+$10438CD8 0000FFFF
+$10438DB0 0000FFFF
++East Australian Current
+%Credits: Code Master
+$10438D44 0000FFFF
+$10438E1C 0000FFFF
++Field Trip
+%Credits: Code Master
+$10438CB4 0000FFFF
+$10438D8C 0000FFFF
++Fishing Net Rescue
+%Credits: Code Master
+$10438D74 0000FFFF
+$10438E4C 0000FFFF
++Going To School
+%Credits: Code Master
+$10438CA8 0000FFFF
+$10438D80 0000FFFF
++Hide And Seek
+%Credits: Code Master
+$10438CFC 0000FFFF
+$10438DD4 0000FFFF
++Jellyfish Race
+%Credits: Code Master
+$10438D2C 0000FFFF
+$10438E04 0000FFFF
++Mask Chase
+%Credits: Code Master
+$10438CCC 0000FFFF
+$10438DA4 0000FFFF
++Mask Search
+%Credits: Code Master
+$10438D08 0000FFFF
+$10438DE0 0000FFFF
++Minefield
+%Credits: Code Master
+$10438CE4 0000FFFF
+$10438DBC 0000FFFF
++Mount Wannahockaloogie
+%Credits: Code Master
+$10438D20 0000FFFF
+$10438DF8 0000FFFF
++Submarine
+%Credits: Code Master
+$10438CF0 0000FFFF
+$10438DC8 0000FFFF
++The Drop Off
+%Credits: Code Master
+$10438CC0 0000FFFF
+$10438D98 0000FFFF
++The Plan
+%Credits: Code Master
+$10438D50 0000FFFF
+$10438E28 0000FFFF
++Training With Gill
+%Credits: Code Master
+$10438D38 0000FFFF
+$10438E10 0000FFFF
++Treatment Plant
+%Credits: Code Master
+$10438D68 0000FFFF
+$10438E40 0000FFFF
++Whale Chase
+%Credits: Code Master
+$10438D5C 0000FFFF
+$10438E34 0000FFFF
+!!
++Hide And Seek: All Starfish Collected
+%Credits: MadCatz
+$10438CFC 0000FFFF
++Hide And Seek: Low Completion Time
+%Credits: MadCatz
+$20438CF4 3F800000
++Hide And Seek: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438DCC 3F800000
++Hide And Seek: Unlock Bonus Level
+%Credits: MadCatz
+$20438DD4 FFFFFFFF
++Hide And Seek: Unlock Level
+%Credits: MadCatz
+$10438CFE 00000003
+!In-game Codes:
++Invincible
+%Credits: Codejunkies
+$20441A04 42C80000
++Invisible Shield
+%Credits: Codejunkies
+$20434940 0000000A
++Max Score
+%Credits: Codejunkies
+$20434938 05F5E0FF
+$2043493C 05F5E0FF
+!!
++Infinite Health
+%Credits: Code Master
+$00434940 00000001
++Jellyfish Race: All Starfish Collected
+%Credits: MadCatz
+$10438D2C 0000FFFF
++Jellyfish Race: Low Completion Time
+%Credits: MadCatz
+$20438D24 3F800000
++Jellyfish Race: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438DFC 3F800000
++Jellyfish Race: Unlock Bonus Level
+%Credits: MadCatz
+$20438E04 FFFFFFFF
++Jellyfish Race: Unlock Level
+%Credits: MadCatz
+$10438D2E 00000003
++Mask Chase: All Starfish Collected
+%Credits: MadCatz
+$10438CCC 0000FFFF
++Mask Chase: Low Completion Time
+%Credits: MadCatz
+$20438CC4 3F800000
++Mask Chase: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438D9C 3F800000
++Mask Chase: Unlock Bonus Level
+%Credits: MadCatz
+$20438DA4 FFFFFFFF
++Mask Chase: Unlock Level
+%Credits: MadCatz
+$10438CCE 00000003
++Mask Search: All Starfish Collected
+%Credits: MadCatz
+$10438D08 0000FFFF
++Mask Search: Low Completion Time
+%Credits: MadCatz
+$20438D00 3F800000
++Mask Search: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438DD8 3F800000
++Mask Search: Unlock Bonus Level
+%Credits: MadCatz
+$20438DE0 FFFFFFFF
++Mask Search: Unlock Level
+%Credits: MadCatz
+$10438D0A 00000003
++Max Score
+%Credits: Code Master
+$2043493C 05F5E0FF
+!Max Score Codes:
++Anglerish Chase
+%Credits: Code Master
+$20438D10 05F5E0FF
++Catch Dory
+%Credits: Code Master
+$20438CD4 05F5E0FF
++East Australian Current
+%Credits: Code Master
+$20438D40 05F5E0FF
++Field Trip
+%Credits: Code Master
+$20438CB0 05F5E0FF
++Fishing Net Rescue
+%Credits: Code Master
+$20438D70 05F5E0FF
++Going To School
+%Credits: Code Master
+$20438CA4 05F5E0FF
++Hide And Seek
+%Credits: Code Master
+$20438CF8 05F5E0FF
++Jellyfish Race
+%Credits: Code Master
+$20438D28 05F5E0FF
++Mask Chase
+%Credits: Code Master
+$20438CC8 05F5E0FF
++Mask Search
+%Credits: Code Master
+$20438D04 05F5E0FF
++Minefield
+%Credits: Code Master
+$20438CE0 05F5E0FF
++Mount Wannahockaloogie
+%Credits: Code Master
+$20438D1C 05F5E0FF
++Submarine
+%Credits: Code Master
+$20438CEC 05F5E0FF
++The Drop Off
+%Credits: Code Master
+$20438CBC 05F5E0FF
++The Plan
+%Credits: Code Master
+$20438D4C 05F5E0FF
++Training With Gill
+%Credits: Code Master
+$20438D34 05F5E0FF
++Treatment Plant
+%Credits: Code Master
+$20438D64 05F5E0FF
++Whale Chase
+%Credits: Code Master
+$20438D58 05F5E0FF
+!!
++Minefield: All Starfish Collected
+%Credits: MadCatz
+$10438CE4 0000FFFF
++Minefield: Low Completion Time
+%Credits: MadCatz
+$20438CDC 3F800000
++Minefield: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438DB4 3F800000
++Minefield: Unlock Bonus Level
+%Credits: MadCatz
+$20438DBC FFFFFFFF
++Minefield: Unlock Level
+%Credits: MadCatz
+$10438CE6 00000003
++Mount Wannahockaloogie: All Starfish Collected
+%Credits: MadCatz
+$10438D20 0000FFFF
++Mount Wannahockaloogie: Low Completion Time
+%Credits: MadCatz
+$20438D18 3F800000
++Mount Wannahockaloogie: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438DF0 3F800000
++Mount Wannahockaloogie: Unlock Bonus Level
+%Credits: MadCatz
+$20438DF8 FFFFFFFF
++Mount Wannahockaloogie: Unlock Level
+%Credits: MadCatz
+$10438D22 00000003
++Quick Score Gain
+%Credits: Code Master
+$1043493C 0000FFFF
++Submarine: All Starfish Collected
+%Credits: MadCatz
+$10438CF0 0000FFFF
++Submarine: Low Completion Time
+%Credits: MadCatz
+$20438CE8 3F800000
++Submarine: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438DC0 3F800000
++Submarine: Unlock Bonus Level
+%Credits: MadCatz
+$20438DC8 FFFFFFFF
++Submarine: Unlock Level
+%Credits: MadCatz
+$10438CF2 00000003
++The Drop Off: All Starfish Collected
+%Credits: MadCatz
+$10438CC0 0000FFFF
++The Drop Off: Low Completion Time
+%Credits: MadCatz
+$20438CB8 3F800000
++The Drop Off: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438D90 3F800000
++The Drop Off: Unlock Bonus Level
+%Credits: MadCatz
+$20438D98 FFFFFFFF
++The Drop Off: Unlock Level
+%Credits: MadCatz
+$10438CC2 00000003
++The Plan: All Starfish Collected
+%Credits: MadCatz
+$10438D50 0000FFFF
++The Plan: Low Completion Time
+%Credits: MadCatz
+$20438D48 3F800000
++The Plan: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438E20 3F800000
++The Plan: Unlock Bonus Level
+%Credits: MadCatz
+$20438E28 FFFFFFFF
++The Plan: Unlock Level
+%Credits: MadCatz
+$10438D52 00000003
++Training With Gill: All Starfish Collected
+%Credits: MadCatz
+$10438D38 0000FFFF
++Training With Gill: Low Completion Time
+%Credits: MadCatz
+$20438D30 3F800000
++Training With Gill: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438E08 3F800000
++Training With Gill: Unlock Bonus Level
+%Credits: MadCatz
+$20438E10 FFFFFFFF
++Training With Gill: Unlock Level
+%Credits: MadCatz
+$10438D3A 00000003
++Treatment Plant: All Starfish Collected
+%Credits: MadCatz
+$10438D68 0000FFFF
++Treatment Plant: Low Completion Time
+%Credits: MadCatz
+$20438D60 3F800000
++Treatment Plant: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438E38 3F800000
++Treatment Plant: Unlock Bonus Level
+%Credits: MadCatz
+$20438E40 FFFFFFFF
++Treatment Plant: Unlock Level
+%Credits: MadCatz
+$10438D6A 00000003
++Unlock All Levels
+%Credits: MadCatz
+$10438D46 00000003
+$10438CDA 00000003
+$10438D76 00000003
+$10438CB6 00000003
+$10438CC2 00000003
+$10438D2E 00000003
+$10438D6A 00000003
+$10438CAA 00000003
+$10438D52 00000003
+$10438CF2 00000003
+$10438CC2 00000003
+$10438D3A 00000003
+$10438CE6 00000003
+$10438D22 00000003
+$10438D16 00000003
+$10438D0A 00000003
+$10438CFE 00000003
+$10438D5E 00000003
+!Unlock Level Codes:
++Angelfish Chase
+%Credits: Codejunkies
+$20438D14 FFFFFFFF
+$20438DEC FFFFFFFF
++Anglerish Chase
+%Credits: Code Master
+$00438D16 000000FF
++Bonus
+%Credits: Codejunkies
+$20438D80 FFFFFFFF
+$20438E58 FFFFFFFF
++Catch Dory
+%Credits: Code Master
+$00438CDA 000000FF
++Catch Dory
+%Credits: Codejunkies
+$20438CD8 FFFFFFFF
+$20438DB0 FFFFFFFF
++East Australian Current
+%Credits: Code Master
+$00438D46 000000FF
++East Australian Current
+%Credits: Codejunkies
+$20438D44 FFFFFFFF
+$20438E1C FFFFFFFF
++Field Trip
+%Credits: Code Master
+$00438CB6 000000FF
++Field Trip
+%Credits: Codejunkies
+$20438CB4 FFFFFFFF
+$20438D8C FFFFFFFF
++Fishing Net Rescue
+%Credits: Code Master
+$00438D76 000000FF
++Fishing Net Rescue
+%Credits: Codejunkies
+$20438D74 FFFFFFFF
+$20438E4C FFFFFFFF
++Going To School
+%Credits: Codejunkies
+$20438CA8 FFFFFFFF
+$20438D80 FFFFFFFF
++Hide And Seek
+%Credits: Code Master
+$00438CFE 000000FF
++Hide And Seek
+%Credits: Codejunkies
+$20438CFC FFFFFFFF
+$20438DD4 FFFFFFFF
++Jellyfish Race
+%Credits: Code Master
+$00438D2E 000000FF
++Jellyfish Race
+%Credits: Codejunkies
+$20438D2C FFFFFFFF
+$20438E04 FFFFFFFF
++Mask Chase
+%Credits: Codejunkies
+$20438CCC FFFFFFFF
+$20438DA4 FFFFFFFF
++Mask Chase
+%Credits: Code Master
+$00438CCE 000000FF
++Mask Search
+%Credits: Code Master
+$00438D0A 000000FF
++Mask Search
+%Credits: Codejunkies
+$20438D08 FFFFFFFF
+$20438DE0 FFFFFFFF
++Minefield
+%Credits: Code Master
+$00438CE6 000000FF
++Minefield
+%Credits: Codejunkies
+$20438CE4 FFFFFFFF
+$20438DBC FFFFFFFF
++Mount Wannahockaloogie
+%Credits: Code Master
+$00438D22 000000FF
++Mount Wannahockaloogie
+%Credits: Codejunkies
+$20438D20 FFFFFFFF
+$20438DF8 FFFFFFFF
++Submarine
+%Credits: Codejunkies
+$20438CF0 FFFFFFFF
+$20438DC8 FFFFFFFF
++Submarine
+%Credits: Code Master
+$00438CF2 000000FF
++The Drop Off
+%Credits: Codejunkies
+$20438CC0 FFFFFFFF
+$20438D98 FFFFFFFF
++The Drop Off
+%Credits: Code Master
+$00438CC2 000000FF
++The Plan
+%Credits: Code Master
+$00438D52 000000FF
++The Plan
+%Credits: Codejunkies
+$20438D50 FFFFFFFF
+$20438E28 FFFFFFFF
++Training With Gill
+%Credits: Code Master
+$00438D3A 000000FF
++Training With Gill
+%Credits: Codejunkies
+$20438D38 FFFFFFFF
+$20438E10 FFFFFFFF
++Treatment Plant
+%Credits: Code Master
+$00438D6A 000000FF
++Treatment Plant
+%Credits: Codejunkies
+$20438D68 FFFFFFFF
+$20438E40 FFFFFFFF
++Whale Chase
+%Credits: Code Master
+$00438D5E 000000FF
++Whale Chase
+%Credits: Codejunkies
+$20438D5C FFFFFFFF
+$20438E34 FFFFFFFF
+!!
++Whale Chase: All Starfish Collected
+%Credits: MadCatz
+$10438D5C 0000FFFF
++Whale Chase: Low Completion Time
+%Credits: MadCatz
+$20438D54 3F800000
++Whale Chase: Low Completion Time On Bonus Level
+%Credits: MadCatz
+$20438E2C 3F800000
++Whale Chase: Unlock Bonus Level
+%Credits: MadCatz
+$20438E34 FFFFFFFF
++Whale Chase: Unlock Level
+%Credits: MadCatz
+$10438D5E 00000003
+!!
+

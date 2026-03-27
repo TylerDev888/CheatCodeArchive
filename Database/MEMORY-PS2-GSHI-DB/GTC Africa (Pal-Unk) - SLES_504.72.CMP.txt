@@ -1,0 +1,43 @@
+^3 = NAME: GTC Africa (Pal-Unk)
+^2 = GameID: SLES-50472
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F010A140 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F010A140 0010A143
+!!
++3 Lap Race
+%Credits: InterAct
+$103D430C 00000003
++Crazy Sun
+%Credits: InterAct
+$201CF5CC 00000000
++Turn Off CPU A.I.
+%Credits: Codejunkies
+$20107E50 00000000
+$20107F64 00000000
++Turn Off CPU AI
+%Credits: InterAct
+$20107E50 00000000
++Turn Off CPU AI
+%Credits: InterAct
+$20107F64 00000000
++Turn Off Scenery Collision
+%Credits: InterAct
+$20118F70 00000000
++Turn Off Shadows
+%Credits: InterAct
+$201757A8 00000000
++Turn Off Sky Render
+%Credits: InterAct
+$201019D8 00000000
++Turn Off Wheel Render
+%Credits: InterAct
+$2014769C 00000000
++Turn On Debug Text
+%Credits: InterAct
+$20109AEC 00000000
+!!
+

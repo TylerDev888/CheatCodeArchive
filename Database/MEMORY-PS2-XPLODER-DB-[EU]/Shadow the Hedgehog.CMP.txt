@@ -1,0 +1,36 @@
+^3 = NAME: Shadow The Hedgehog
+!Masters:
++Mastercode
+%Credits: Xploder
+$9012F570 0C048DB4
+!!
+!Infinite:
++Lives
+%Credits: Xploder
+$209C2064 00000063
++Ammo
+%Credits: Xploder
+$209C2060 000003E7
++Rings
+%Credits: Xploder
+$209C206C 000003E7
+!!
+!Max:
++Normal Score
+%Credits: Xploder
+$209C2070 05F5E0FF
++Hero Score
+%Credits: Xploder
+$209C2074 0098967F
++Dark Score
+%Credits: Xploder
+$209C2078 0098967F
++Hero Guage
+%Credits: Xploder
+$D1D4C2DC 0000FBFF
+$209C203C 00007530
++Dark Guage
+%Credits: Xploder
+$D1D4C2DC 0000FEFF
+$209C2030 00007530
+!!

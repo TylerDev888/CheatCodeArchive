@@ -1,0 +1,635 @@
+^3 = NAME: Deadly Skies III
+!Masters:
++Mastercode:
+%Credits: Xploder
+$90144854 0C049C9C
+!!
+!Infinite:
++Health
+%Credits: Xploder
+$200C2000 8C610058
+$200C2004 A44101A4
+$200C2008 03E00008
+$200C200C 00011020
+$202FCB6C 0C030800
++Missiles
+%Credits: Xploder
+$201CB620 24013634
++Special Weapons
+%Credits: Xploder
+$201CFBEC 00000000
+$201CFC54 00000000
++Mission Timer
+%Credits: Xploder
+$202C0DB0 2401C9CC
++Cash
+%Credits: Xploder
+$204CB2AC 0098967F
++Cash
+%Credits: Xploder
+$204CB3C0 0098967F
++Cash
+%Credits: Xploder
+$204CB4D4 0098967F
++Cash
+%Credits: Xploder
+$204CB5E8 0098967F
++Cash
+%Credits: Xploder
+$204CB6FC 0098967F
++Cash
+%Credits: Xploder
+$204CB810 0098967F
++Cash
+%Credits: Xploder
+$204CB924 0098967F
++Cash
+%Credits: Xploder
+$204CBA38 0098967F
+!!
+!Unlock Plane:
++F-5E
+%Credits: Xploder
+$004CB2CC 00000001
++Mig-21
+%Credits: Xploder
+$004CB2D8 00000001
++Su-20
+%Credits: Xploder
+$004CB2E4 00000001
++X-29A
+%Credits: Xploder
+$004CB2F0 00000001
++Mig-29Smt
+%Credits: Xploder
+$004CB2FC 00000001
++Su-27LL-UV(PS)
+%Credits: Xploder
+$004CB308 00000001
++YF-17
+%Credits: Xploder
+$004CB314 00000001
++F-2A
+%Credits: Xploder
+$004CB320 00000001
++Mig-1.44 MFI
+%Credits: Xploder
+$004CB32C 00000001
++X-32A
+%Credits: Xploder
+$004CB338 00000001
++S-55 LFS
+%Credits: Xploder
+$004CB344 00000001
++F/A-22
+%Credits: Xploder
+$004CB350 00000001
++Hunter
+%Credits: Xploder
+$004CB35C 00000001
++Su-17M
+%Credits: Xploder
+$004CB368 00000001
++Su-24M
+%Credits: Xploder
+$004CB3E0 00000001
++F5D-1
+%Credits: Xploder
+$004CB3EC 00000001
++JIAN-JI 8IIM
+%Credits: Xploder
+$004CB3F8 00000001
++F-20
+%Credits: Xploder
+$004CB404 00000001
++Himat
+%Credits: Xploder
+$004CB410 00000001
++F-14D
+%Credits: Xploder
+$004CB41C 00000001
++F/A-18C
+%Credits: Xploder
+$004CB428 00000001
++Su-30Mk1
+%Credits: Xploder
+$004CB434 00000001
++JIAN-JI 12
+%Credits: Xploder
+$004CB440 00000001
++F-15E
+%Credits: Xploder
+$004CB44C 00000001
++Su-35
+%Credits: Xploder
+$004CB458 00000001
++YF-23A
+%Credits: Xploder
+$004CB464 00000001
++JIAN-JI11
+%Credits: Xploder
+$004CB470 00000001
++F-102A
+%Credits: Xploder
+$004CB47C 00000001
++Su-7BM Bis
+%Credits: Xploder
+$004CB4F4 00000001
++F-106A
+%Credits: Xploder
+$004CB500 00000001
++F-4E
+%Credits: Xploder
+$004CB50C 00000001
++FC-1
+%Credits: Xploder
+$004CB518 00000001
++Mig-23ML
+%Credits: Xploder
+$004CB524 00000001
++Mig-33
+%Credits: Xploder
+$004CB530 00000001
++X-31A
+%Credits: Xploder
+$004CB53C 00000001
++F-16C
+%Credits: Xploder
+$004CB548 00000001
++F-15C
+%Credits: Xploder
+$004CB554 00000001
++Su-27Smk
+%Credits: Xploder
+$004CB560 00000001
++Typhoon
+%Credits: Xploder
+$004CB56C 00000001
++S-37
+%Credits: Xploder
+$004CB578 00000001
++F-100D
+%Credits: Xploder
+$004CB584 00000001
++T6-1
+%Credits: Xploder
+$004CB590 00000001
++P-38L
+%Credits: Xploder
+$004CB608 00000001
++P-51D
+%Credits: Xploder
+$004CB614 00000001
++IL-2M3
+%Credits: Xploder
+$004CB620 00000001
++Spitfire
+%Credits: Xploder
+$004CB62C 00000001
++F-86L
+%Credits: Xploder
+$004CB638 00000001
++Lightning
+%Credits: Xploder
+$004CB71C 00000001
++JIAN-Ji6jin
+%Credits: Xploder
+$004CB728 00000001
++YF-12A
+%Credits: Xploder
+$004CB734 00000001
++F-104G
+%Credits: Xploder
+$004CB740 00000001
++F-108
+%Credits: Xploder
+$004CB74C 00000001
++TSR2
+%Credits: Xploder
+$004CB758 00000001
++Mig-27K
+%Credits: Xploder
+$004CB764 00000001
++F-111F
+%Credits: Xploder
+$004CB770 00000001
++Mig-25Pds
+%Credits: Xploder
+$004CB77C 00000001
++Mig-31BM
+%Credits: Xploder
+$004CB788 00000001
++Su-37
+%Credits: Xploder
+$004CB794 00000001
++F-155/MTD
+%Credits: Xploder
+$004CB7A0 00000001
++Su-15TM
+%Credits: Xploder
+$004CB7AC 00000001
++Honyzhaji-7
+%Credits: Xploder
+$004CB7B8 00000001
++T-58VD
+%Credits: Xploder
+$004CB830 00000001
++Yak-38
+%Credits: Xploder
+$004CB83C 00000001
++Mig-19Pfm
+%Credits: Xploder
+$004CB848 00000001
++JIAN-JI7 MG
+%Credits: Xploder
+$004CB854 00000001
++F-5A
+%Credits: Xploder
+$004CB860 00000001
++A-5A
+%Credits: Xploder
+$004CB86C 00000001
++JIAN-JI8
+%Credits: Xploder
+$004CB878 00000001
++AV-8B
+%Credits: Xploder
+$004CB884 00000001
++Seaharrier
+%Credits: Xploder
+$004CB890 00000001
++Yak-141
+%Credits: Xploder
+$004CB89C 00000001
++X-32B
+%Credits: Xploder
+$004CB8A8 00000001
++F/A-35B
+%Credits: Xploder
+$004CB8B4 00000001
++Mig-17F
+%Credits: Xploder
+$004CB8C0 00000001
++Su-22M-4
+%Credits: Xploder
+$004CB8CC 00000001
++F-105D
+%Credits: Xploder
+$004CB944 00000001
++Su-25A
+%Credits: Xploder
+$004CB950 00000001
++Yak-28L
+%Credits: Xploder
+$004CB95C 00000001
++A-10A
+%Credits: Xploder
+$004CB968 00000001
++F-117A
+%Credits: Xploder
+$004CB974 00000001
++Jaguar
+%Credits: Xploder
+$004CB980 00000001
++F-16XL
+%Credits: Xploder
+$004CB98C 00000001
++Tornado GR1
+%Credits: Xploder
+$004CB998 00000001
++F-15U Plus
+%Credits: Xploder
+$004CB9A4 00000001
++X-44
+%Credits: Xploder
+$004CB9B0 00000001
++F-101B
+%Credits: Xploder
+$004CB9BC 00000001
++A-7E
+%Credits: Xploder
+$004CBA58 00000001
++A-4M
+%Credits: Xploder
+$004CBA64 00000001
++Buccaneer
+%Credits: Xploder
+$004CBA70 00000001
++A-6E
+%Credits: Xploder
+$004CBA7C 00000001
++Seavixen
+%Credits: Xploder
+$004CBA88 00000001
++F4D-1
+%Credits: Xploder
+$004CBA94 00000001
++F-1
+%Credits: Xploder
+$004CBAA0 00000001
++Su-39
+%Credits: Xploder
+$004CBAAC 00000001
++Su-34
+%Credits: Xploder
+$004CBAB8 00000001
++F/A-18E
+%Credits: Xploder
+$004CBAC4 00000001
++Su-32FN
+%Credits: Xploder
+$004CBAD0 00000001
+!!
+!Unlock Special Weapon:
++F-5E
+%Credits: Xploder
+$004CB2CD 00000001
++Mig-21
+%Credits: Xploder
+$004CB2D9 00000001
++Su-20
+%Credits: Xploder
+$004CB2E5 00000001
++X-29A
+%Credits: Xploder
+$004CB2F1 00000001
++Mig-29Smt
+%Credits: Xploder
+$004CB2FD 00000001
++Su-27LL-UV(PS)
+%Credits: Xploder
+$004CB309 00000001
++YF-17
+%Credits: Xploder
+$004CB315 00000001
++F-2A
+%Credits: Xploder
+$004CB321 00000001
++Mig-1.44 MFI
+%Credits: Xploder
+$004CB32D 00000001
++X-32A
+%Credits: Xploder
+$004CB339 00000001
++S-55 LFS
+%Credits: Xploder
+$004CB345 00000001
++F/A-22
+%Credits: Xploder
+$004CB351 00000001
++Hunter
+%Credits: Xploder
+$004CB35D 00000001
++Su-17M
+%Credits: Xploder
+$004CB369 00000001
++Su-24M
+%Credits: Xploder
+$004CB3E1 00000001
++F5D-1
+%Credits: Xploder
+$004CB3ED 00000001
++JIAN-JI 8IIM
+%Credits: Xploder
+$004CB3F9 00000001
++F-20
+%Credits: Xploder
+$004CB405 00000001
++Himat
+%Credits: Xploder
+$004CB411 00000001
++F-14D
+%Credits: Xploder
+$004CB41D 00000001
++F/A-18C
+%Credits: Xploder
+$004CB429 00000001
++Su-30Mk1
+%Credits: Xploder
+$004CB435 00000001
++JIAN-JI 12
+%Credits: Xploder
+$004CB441 00000001
++F-15E
+%Credits: Xploder
+$004CB44D 00000001
++Su-35
+%Credits: Xploder
+$004CB459 00000001
++YF-23A
+%Credits: Xploder
+$004CB465 00000001
++JIAN-JI11
+%Credits: Xploder
+$004CB471 00000001
++F-102A
+%Credits: Xploder
+$004CB47D 00000001
++Su-7BM Bis
+%Credits: Xploder
+$004CB4F5 00000001
++F-106A
+%Credits: Xploder
+$004CB501 00000001
++F-4E
+%Credits: Xploder
+$004CB50D 00000001
++FC-1
+%Credits: Xploder
+$004CB519 00000001
++Mig-23ML
+%Credits: Xploder
+$004CB525 00000001
++Mig-33
+%Credits: Xploder
+$004CB531 00000001
++X-31A
+%Credits: Xploder
+$004CB53D 00000001
++F-16C
+%Credits: Xploder
+$004CB549 00000001
++F-15C
+%Credits: Xploder
+$004CB555 00000001
++Su-27Smk
+%Credits: Xploder
+$004CB561 00000001
++Typhoon
+%Credits: Xploder
+$004CB56D 00000001
++S-37
+%Credits: Xploder
+$004CB579 00000001
++F-100D
+%Credits: Xploder
+$004CB585 00000001
++T6-1
+%Credits: Xploder
+$004CB591 00000001
++P-38L
+%Credits: Xploder
+$004CB609 00000001
++P-51D
+%Credits: Xploder
+$004CB615 00000001
++IL-2M3
+%Credits: Xploder
+$004CB621 00000001
++Spitfire
+%Credits: Xploder
+$004CB62D 00000001
++F-86L
+%Credits: Xploder
+$004CB639 00000001
++Lightning
+%Credits: Xploder
+$004CB71D 00000001
++JIAN-Ji6jin
+%Credits: Xploder
+$004CB729 00000001
++YF-12A
+%Credits: Xploder
+$004CB735 00000001
++F-104G
+%Credits: Xploder
+$004CB741 00000001
++F-108
+%Credits: Xploder
+$004CB74D 00000001
++TSR2
+%Credits: Xploder
+$004CB759 00000001
++Mig-27K
+%Credits: Xploder
+$004CB765 00000001
++F-111F
+%Credits: Xploder
+$004CB771 00000001
++Mig-25Pds
+%Credits: Xploder
+$004CB77D 00000001
++Mig-31BM
+%Credits: Xploder
+$004CB789 00000001
++Su-37
+%Credits: Xploder
+$004CB795 00000001
++F-155/MTD
+%Credits: Xploder
+$004CB7A1 00000001
++Su-15TM
+%Credits: Xploder
+$004CB7AD 00000001
++Honyzhaji-7
+%Credits: Xploder
+$004CB7B9 00000001
++T-58VD
+%Credits: Xploder
+$004CB831 00000001
++Yak-38
+%Credits: Xploder
+$004CB83D 00000001
++Mig-19Pfm
+%Credits: Xploder
+$004CB849 00000001
++JIAN-JI7 MG
+%Credits: Xploder
+$004CB855 00000001
++F-5A
+%Credits: Xploder
+$004CB861 00000001
++A-5A
+%Credits: Xploder
+$004CB86D 00000001
++JIAN-JI8
+%Credits: Xploder
+$004CB879 00000001
++AV-8B
+%Credits: Xploder
+$004CB885 00000001
++Seaharrier
+%Credits: Xploder
+$004CB891 00000001
++Yak-141
+%Credits: Xploder
+$004CB89D 00000001
++X-32B
+%Credits: Xploder
+$004CB8A9 00000001
++F/A-35B
+%Credits: Xploder
+$004CB8B5 00000001
++Mig-17F
+%Credits: Xploder
+$004CB8C1 00000001
++Su-22M-4
+%Credits: Xploder
+$004CB8CD 00000001
++F-105D
+%Credits: Xploder
+$004CB945 00000001
++Su-25A
+%Credits: Xploder
+$004CB951 00000001
++Yak-28L
+%Credits: Xploder
+$004CB95D 00000001
++A-10A
+%Credits: Xploder
+$004CB969 00000001
++F-117A
+%Credits: Xploder
+$004CB975 00000001
++Jaguar
+%Credits: Xploder
+$004CB981 00000001
++F-16XL
+%Credits: Xploder
+$004CB98D 00000001
++Tornado GR1
+%Credits: Xploder
+$004CB999 00000001
++F-15U Plus
+%Credits: Xploder
+$004CB9A5 00000001
++X-44
+%Credits: Xploder
+$004CB9B1 00000001
++F-101B
+%Credits: Xploder
+$004CB9BD 00000001
++A-7E
+%Credits: Xploder
+$004CBA59 00000001
++A-4M
+%Credits: Xploder
+$004CBA65 00000001
++Buccaneer
+%Credits: Xploder
+$004CBA71 00000001
++A-6E
+%Credits: Xploder
+$004CBA7D 00000001
++Seavixen
+%Credits: Xploder
+$004CBA89 00000001
++F4D-1
+%Credits: Xploder
+$004CBA95 00000001
++F-1
+%Credits: Xploder
+$004CBAA1 00000001
++Su-39
+%Credits: Xploder
+$004CBAAD 00000001
++Su-34
+%Credits: Xploder
+$004CBAB9 00000001
++F/A-18E
+%Credits: Xploder
+$004CBAC5 00000001
++Su-32FN
+%Credits: Xploder
+$004CBAD1 00000001
+!!

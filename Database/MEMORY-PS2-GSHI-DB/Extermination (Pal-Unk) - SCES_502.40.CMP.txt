@@ -1,0 +1,273 @@
+^3 = NAME: Extermination (Pal-Unk)
+^2 = GameID: SCES-50240
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01AB364 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F01AB364 001AB367
+!!
+!Battery Power Codes:
++Have 6 Shot Grenade Launcher
+%Credits: Codejunkies
+$008137E7 00000001
++Have 99 Booster Type A
+%Credits: Codejunkies
+$00813805 00000063
++Have 99 Booster Type B
+%Credits: Codejunkies
+$00813806 00000063
++Have 99 MTS Vac.
+%Credits: Codejunkies
+$00813804 00000063
++Have 99 Recovery Type A
+%Credits: Codejunkies
+$00813802 00000063
++Have 99 Recovery Type B
+%Credits: Codejunkies
+$00813803 00000063
++Have All Dog Tags
+%Credits: Codejunkies
+$00813811 00000001
+$10813812 00000101
+$20813814 01010101
+$20813818 01010101
+$2081381C 01010101
++Have Alpha Keycard
+%Credits: Codejunkies
+$00813807 00000001
++Have Beta Keycard
+%Credits: Codejunkies
+$00813808 00000001
++Have Crowbar
+%Credits: Codejunkies
+$0081380B 00000001
++Have Dog Tag Unit
+%Credits: Codejunkies
+$008137EA 00000001
++Have Flame Thrower
+%Credits: Codejunkies
+$008137E8 00000001
++Have Full Auto
+%Credits: Codejunkies
+$008137F3 00000001
++Have Garys Bomb
+%Credits: Codejunkies
+$0081380C 00000001
++Have Grenade Launcher
+%Credits: Codejunkies
+$008137E6 00000001
++Have Infinite Battery Power
+%Credits: Codejunkies
+$10813832 0000003C
++Have Metal Plate 1
+%Credits: Codejunkies
+$0081380D 00000001
++Have Metal Plate 2
+%Credits: Codejunkies
+$0081380E 00000001
++Have Program Disk
+%Credits: Codejunkies
+$0081380F 00000001
++Have Rogers Knife
+%Credits: Codejunkies
+$00813810 00000001
++Have Shotgun
+%Credits: Codejunkies
+$008137E5 00000001
++Have Snow Truck Key
+%Credits: Codejunkies
+$00813809 00000001
++Have Tactical Grip
+%Credits: Codejunkies
+$008137E4 00000001
++Have Train Key
+%Credits: Codejunkies
+$0081380A 00000001
++Have Ultimate Launcher (A)
+%Credits: Codejunkies
+$008137F0 00000001
++Have Ultimate Launcher (B)
+%Credits: Codejunkies
+$008137F1 00000001
++Have Ultimate Launcher (C)
+%Credits: Codejunkies
+$008137F2 00000001
++Have Zoom Scope
+%Credits: Codejunkies
+$008137EC 00000001
++Invincible Mode
+%Credits: Codejunkies
+$10812E30 00000103
++Never Have More Than 25% Battery Power
+%Credits: Codejunkies
+$E001000F 30813832
+$10813832 0000000F
++Never Have More Than 50% Battery Power
+%Credits: Codejunkies
+$E001001E 30813832
+$10813832 0000001E
++Never Have More Than 75% Battery Power
+%Credits: Codejunkies
+$E001002D 30813832
+$10813832 0000002D
+!!
+!Grenades Codes:
++Infinite Grenades
+%Credits: Codejunkies
+$1081382A 000003E7
++Never Have More Than 1 Grenade
+%Credits: Codejunkies
+$E0010001 3081382A
+$1081382A 00000001
++Never Have More Than 2 Grenades
+%Credits: Codejunkies
+$E0010002 3081382A
+$1081382A 00000002
++Never Have More Than 3 Grenades
+%Credits: Codejunkies
+$E0010003 3081382A
+$1081382A 00000003
++Never Have More Than 5 Grenades
+%Credits: Codejunkies
+$E0010005 3081382A
+$1081382A 00000005
++Never Have More Than 10 Grenades
+%Credits: Codejunkies
+$E001000A 3081382A
+$1081382A 0000000A
+!!
+!Health Codes:
++0% Infection
+%Credits: Codejunkies
+$1081305A 00000000
+$10813064 00000000
++Infinite Health
+%Credits: Codejunkies
+$10813052 000042C8
+$108133DA 000042C8
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$10813052 000041C8
+$E00241C8 30813052
+$E00141C8 308133DA
+$108133DA 000041C8
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$10813052 00004248
+$E0024248 30813052
+$E0014248 308133DA
+$108133DA 00004248
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$10813052 00004296
+$E0024296 30813052
+$E0014296 308133DA
+$108133DA 00004296
+!!
+!Napalm Codes:
++Infinite Napalm
+%Credits: Codejunkies
+$1081382E 000003E7
++Never Have More Than 1 Napalm
+%Credits: Codejunkies
+$E0010001 3081382E
+$1081382E 00000001
++Never Have More Than 2 Napalm
+%Credits: Codejunkies
+$E0010002 3081382E
+$1081382E 00000002
++Never Have More Than 3 Napalm
+%Credits: Codejunkies
+$E0010003 3081382E
+$1081382E 00000003
++Never Have More Than 5 Napalm
+%Credits: Codejunkies
+$E0010005 3081382E
+$1081382E 00000005
++Never Have More Than 10 Napalm
+%Credits: Codejunkies
+$E001000A 3081382E
+$1081382E 0000000A
+!!
+!Nato Ammo Codes:
++Infinite Nato Ammo
+%Credits: Codejunkies
+$10813834 000003E7
++Never Have More Than 10 Nato Ammo
+%Credits: Codejunkies
+$E001000A 30813834
+$10813834 0000000A
++Never Have More Than 50 Nato Ammo
+%Credits: Codejunkies
+$E0010032 30813834
+$10813834 00000032
++Never Have More Than 100 Nato Ammo
+%Credits: Codejunkies
+$E0010064 30813834
+$10813834 00000064
++Never Have More Than 250 Nato Ammo
+%Credits: Codejunkies
+$E00100FA 30813834
+$10813834 000000FA
++Never Have More Than 500 Nato Ammo
+%Credits: Codejunkies
+$E00101F4 30813834
+$10813834 000001F4
++No Reloads
+%Credits: Codejunkies
+$108137E2 00000231
+!!
+!Rockets Codes:
++Infinite Rockets
+%Credits: Codejunkies
+$10813830 00000064
++Never Have More Than 1 Rocket
+%Credits: Codejunkies
+$E0010001 30813830
+$10813830 00000001
++Never Have More Than 2 Rockets
+%Credits: Codejunkies
+$E0010002 30813830
+$10813830 00000002
++Never Have More Than 3 Rockets
+%Credits: Codejunkies
+$E0010003 30813830
+$10813830 00000003
++Never Have More Than 5 Rockets
+%Credits: Codejunkies
+$E0010005 30813830
+$10813830 00000005
++Never Have More Than 10 Rockets
+%Credits: Codejunkies
+$E001000A 30813830
+$10813830 0000000A
+!!
+!Shotgun Shell Codes:
++Infinite Shotgun Shells
+%Credits: Codejunkies
+$10813828 000003E7
++Never Have More Than 10 Shotgun Shells
+%Credits: Codejunkies
+$E001000A 30813828
+$10813828 0000000A
++Never Have More Than 50 Shotgun Shells
+%Credits: Codejunkies
+$E0010032 30813828
+$10813828 00000032
++Never Have More Than 100 Shotgun Shells
+%Credits: Codejunkies
+$E0010064 30813828
+$10813828 00000064
++Never Have More Than 250 Shotgun Shells
+%Credits: Codejunkies
+$E00100FA 30813828
+$10813828 000000FA
++Never Have More Than 500 Shotgun Shells
+%Credits: Codejunkies
+$E00101F4 30813828
+$10813828 000001F4
+!!
+!!
+

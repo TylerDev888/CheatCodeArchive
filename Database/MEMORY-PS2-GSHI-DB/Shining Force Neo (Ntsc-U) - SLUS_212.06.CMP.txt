@@ -1,0 +1,441 @@
+^3 = NAME: Shining Force Neo (Ntsc-U)
+^2 = GameID: SLUS-21206
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F011B4A0 0011B4A3
++Enable Code (Must Be On)
+%Credits: Code Master
+$9011B4A0 0C047B94
++Master Code
+%Credits: MadCatz
+$9011B4A0 0C047B94
+$200C2038 03E00008
+$200C203C 8E040014
+$2028FBF8 0C030800
+!!
+!Main Character Codes:
++Max EXP
+%Credits: Code Master
+$20440154 3B9AC9FF
+!!
+!Max Equipment Level Codes:
++Armor
+%Credits: Code Master
+$10440184 00000063
+$00440188 00000063
++Helmet
+%Credits: Code Master
+$10440178 00000063
+$0044017C 00000063
++Shield
+%Credits: Code Master
+$104401A8 00000063
+$004401AC 00000063
++Sword
+%Credits: Code Master
+$10440190 00000063
+$00440194 00000063
+!!
+!Max Item Codes:
++Slot 1
+%Credits: Code Master
+$1043FF00 00000063
++Slot 10
+%Credits: Code Master
+$1043FF6C 00000063
++Slot 11
+%Credits: Code Master
+$1043FF78 00000063
++Slot 12
+%Credits: Code Master
+$1043FF84 00000063
++Slot 13
+%Credits: Code Master
+$1043FF90 00000063
++Slot 14
+%Credits: Code Master
+$1043FF9C 00000063
++Slot 15
+%Credits: Code Master
+$1043FFA8 00000063
++Slot 16
+%Credits: Code Master
+$1043FFB4 00000063
++Slot 17
+%Credits: Code Master
+$1043FFC0 00000063
++Slot 18
+%Credits: Code Master
+$1043FFCC 00000063
++Slot 19
+%Credits: Code Master
+$1043FFD8 00000063
++Slot 2
+%Credits: Code Master
+$1043FF0C 00000063
++Slot 20
+%Credits: Code Master
+$1043FFE4 00000063
++Slot 21
+%Credits: Code Master
+$1043FFF0 00000063
++Slot 22
+%Credits: Code Master
+$1043FFFC 00000063
++Slot 23
+%Credits: Code Master
+$10440008 00000063
++Slot 24
+%Credits: Code Master
+$10440014 00000063
++Slot 25
+%Credits: Code Master
+$10440020 00000063
++Slot 26
+%Credits: Code Master
+$1044002C 00000063
++Slot 27
+%Credits: Code Master
+$10440038 00000063
++Slot 28
+%Credits: Code Master
+$10440044 00000063
++Slot 29
+%Credits: Code Master
+$10440050 00000063
++Slot 3
+%Credits: Code Master
+$1043FF18 00000063
++Slot 30
+%Credits: Code Master
+$1044005C 00000063
++Slot 31
+%Credits: Code Master
+$10440068 00000063
++Slot 32
+%Credits: Code Master
+$10440074 00000063
++Slot 33
+%Credits: Code Master
+$10440080 00000063
++Slot 34
+%Credits: Code Master
+$1044008C 00000063
++Slot 35
+%Credits: Code Master
+$10440098 00000063
++Slot 36
+%Credits: Code Master
+$104400A4 00000063
++Slot 37
+%Credits: Code Master
+$104400B0 00000063
++Slot 38
+%Credits: Code Master
+$104400BC 00000063
++Slot 39
+%Credits: Code Master
+$104400C8 00000063
++Slot 4
+%Credits: Code Master
+$1043FF24 00000063
++Slot 40
+%Credits: Code Master
+$104400D4 00000063
++Slot 41
+%Credits: Code Master
+$104400E0 00000063
++Slot 42
+%Credits: Code Master
+$104400EC 00000063
++Slot 43
+%Credits: Code Master
+$104400F8 00000063
++Slot 44
+%Credits: Code Master
+$10440104 00000063
++Slot 45
+%Credits: Code Master
+$10440110 00000063
++Slot 46
+%Credits: Code Master
+$1044011C 00000063
++Slot 47
+%Credits: Code Master
+$10440128 00000063
++Slot 48
+%Credits: Code Master
+$10440134 00000063
++Slot 49
+%Credits: Code Master
+$10440140 00000063
++Slot 5
+%Credits: Code Master
+$1043FF30 00000063
++Slot 50
+%Credits: Code Master
+$1044014C 00000063
++Slot 6
+%Credits: Code Master
+$1043FF3C 00000063
++Slot 7
+%Credits: Code Master
+$1043FF48 00000063
++Slot 8
+%Credits: Code Master
+$1043FF54 00000063
++Slot 9
+%Credits: Code Master
+$1043FF60 00000063
+!!
+!Max Item Level/Quantity Codes:
++Slot 1
+%Credits: Code Master
+$1043FEFC 00000063
++Slot 10
+%Credits: Code Master
+$1043FF68 00000063
++Slot 11
+%Credits: Code Master
+$1043FF74 00000063
++Slot 12
+%Credits: Code Master
+$1043FF80 00000063
++Slot 13
+%Credits: Code Master
+$1043FF8C 00000063
++Slot 14
+%Credits: Code Master
+$1043FF98 00000063
++Slot 15
+%Credits: Code Master
+$1043FFA4 00000063
++Slot 16
+%Credits: Code Master
+$1043FFB0 00000063
++Slot 17
+%Credits: Code Master
+$1043FFBC 00000063
++Slot 18
+%Credits: Code Master
+$1043FFC8 00000063
++Slot 19
+%Credits: Code Master
+$1043FFD4 00000063
++Slot 2
+%Credits: Code Master
+$1043FF08 00000063
++Slot 20
+%Credits: Code Master
+$1043FFE0 00000063
++Slot 21
+%Credits: Code Master
+$1043FFEC 00000063
++Slot 22
+%Credits: Code Master
+$1043FFF8 00000063
++Slot 23
+%Credits: Code Master
+$10440004 00000063
++Slot 24
+%Credits: Code Master
+$10440010 00000063
++Slot 25
+%Credits: Code Master
+$1044001C 00000063
++Slot 26
+%Credits: Code Master
+$10440028 00000063
++Slot 27
+%Credits: Code Master
+$10440034 00000063
++Slot 28
+%Credits: Code Master
+$10440040 00000063
++Slot 29
+%Credits: Code Master
+$1044004C 00000063
++Slot 3
+%Credits: Code Master
+$1043FF14 00000063
++Slot 30
+%Credits: Code Master
+$10440058 00000063
++Slot 31
+%Credits: Code Master
+$10440064 00000063
++Slot 32
+%Credits: Code Master
+$10440070 00000063
++Slot 33
+%Credits: Code Master
+$1044007C 00000063
++Slot 34
+%Credits: Code Master
+$10440088 00000063
++Slot 35
+%Credits: Code Master
+$10440094 00000063
++Slot 36
+%Credits: Code Master
+$104400A0 00000063
++Slot 37
+%Credits: Code Master
+$104400AC 00000063
++Slot 38
+%Credits: Code Master
+$104400B8 00000063
++Slot 39
+%Credits: Code Master
+$104400C4 00000063
++Slot 4
+%Credits: Code Master
+$1043FF20 00000063
++Slot 40
+%Credits: Code Master
+$104400D0 00000063
++Slot 41
+%Credits: Code Master
+$104400DC 00000063
++Slot 42
+%Credits: Code Master
+$104400E8 00000063
++Slot 43
+%Credits: Code Master
+$104400F4 00000063
++Slot 44
+%Credits: Code Master
+$10440100 00000063
++Slot 45
+%Credits: Code Master
+$1044010C 00000063
++Slot 46
+%Credits: Code Master
+$10440118 00000063
++Slot 47
+%Credits: Code Master
+$10440124 00000063
++Slot 48
+%Credits: Code Master
+$10440130 00000063
++Slot 49
+%Credits: Code Master
+$1044013C 00000063
++Slot 5
+%Credits: Code Master
+$1043FF2C 00000063
++Slot 50
+%Credits: Code Master
+$10440148 00000063
++Slot 6
+%Credits: Code Master
+$1043FF38 00000063
++Slot 7
+%Credits: Code Master
+$1043FF44 00000063
++Slot 8
+%Credits: Code Master
+$1043FF50 00000063
++Slot 9
+%Credits: Code Master
+$1043FF5C 00000063
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Buying Items Doesn't Decrease Coins
+%Credits: Code Master
+$20219888 00000000
++Buying Items Increases Coins
+%Credits: Code Master
+$20219884 00701821
++Infinite Coins
+%Credits: Code Master
+$1043F594 0000FFFF
++Infinite Energy
+%Credits: Code Master
+$1043F590 0000FFFF
++Infinite HP
+%Credits: Code Master
+$20BB3A04 0000270F
++Infinite MP
+%Credits: Code Master
+$20BB3A0C 0000270F
++Instant Health Rebuild (In-Battle)
+%Credits: Code Master
+$101C5932 00001000
++Max Coins
+%Credits: Code Master
+$2043F594 0098967F
++Max Energy
+%Credits: Code Master
+$2043F590 0098967F
++Max HP
+%Credits: Code Master
+$20BB3A00 0000270F
++Max Item Level/Quantity
+%Credits: Code Master
+$2029BA6C 24060063
+$2029BA70 A6260004
++Max Items
+%Credits: Code Master
+$2029B080 24030063
+$2029B084 A0830000
++Max MP
+%Credits: Code Master
+$20BB3A08 0000270F
++Upgrade Equipment Once For Max Upgrade
+%Credits: Code Master
+$202390A4 24020063
++Upgrading Equipment Gains 10 Levels
+%Credits: Code Master
+$102390A4 0000000A
++Upgrading Equipment Gains 2 Levels
+%Credits: Code Master
+$102390A4 00000002
++Upgrading Equipment Gains 20 Levels
+%Credits: Code Master
+$102390A4 00000014
++Upgrading Equipment Gains 5 Levels
+%Credits: Code Master
+$102390A4 00000005
+!!
++Have Quick Level Up
+%Credits: MadCatz
+$20217768 24632710
++Infinite Coin
+%Credits: MadCatz
+$2043F594 3B9AC9FF
++Infinite Coins
+%Credits: Codejunkies
+$2043F594 05F5E0FF
++Infinite Energy
+%Credits: MadCatz
+$2043F590 3B9AC9FF
++Infinite Energy
+%Credits: Codejunkies
+$2043F590 05F5E0FF
++Infinite HP
+%Credits: MadCatz
+$200C2000 8E040010
+$200C2004 AE040014
++Infinite HP
+%Credits: Codejunkies
+$20BB3A00 0000270F
+$20BB3A04 0000270F
+$20BB3DDC 0000270F
++Infinite Item Use
+%Credits: MadCatz
+$202941C8 00000000
++Infinite MP
+%Credits: MadCatz
+$200C2008 8E040018
+$200C200C AE04001C
++Infinite MP
+%Credits: Codejunkies
+$20BB3A08 0000270F
+$20BB3A0C 0000270F
++Quick Level Up
+%Credits: Codejunkies
+$20440154 05F5E0FF
+!!
+

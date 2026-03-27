@@ -1,0 +1,9 @@
+^2 = GameID: BLES00425
+^3 = NAME: Sonic Unleashed
+^5 = APCRED: From zeick
+^4 = FILE: SYS-DATA
++999999 Coins
+$write at 0x00008F3C:000F423F
++99 Camera Flash
+$write at 0x00008F43:63
+$write at 0x00008F47:63

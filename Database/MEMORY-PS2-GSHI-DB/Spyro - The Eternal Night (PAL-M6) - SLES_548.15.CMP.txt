@@ -1,0 +1,29 @@
+^3 = NAME: Spyro - The Eternal Night (PAL-M6)
+^2 = GameID: SLES-54815
++Activate Fury Even With The Bar Empty
+%Credits: luc-ita
+$20405F94 00000000
++Always Have Sparx {<I>Put Zero To Never Have Sparx</I>}
+%Credits: luc-ita
+$00946B9E 00000001
++Infinite Upgrade Points
+%Credits: luc-ita
+$20956234 497423F0
+$2095623C 497423F0
++Moonjump {<I>Use With Untouchable Code To Avoid Damage If You Fall From Very High</I>}
+%Credits: luc-ita
+$D0944968 000000FF
+$20EF39E4 43FA0000
++Untouchable
+%Credits: luc-ita
+$20273300 10000005
++Use Dragon Time Even When It's Empty
+%Credits: luc-ita
+$20273C44 00000000
+$20273CDC 00000000
++You Don't Need Energy To Use Powers
+%Credits: luc-ita
+$204069D0 00000000
+$20243D40 100000D3
+!!
+

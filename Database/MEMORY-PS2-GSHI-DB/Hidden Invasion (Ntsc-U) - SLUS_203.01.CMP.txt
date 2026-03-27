@@ -1,0 +1,289 @@
+^3 = NAME: Hidden Invasion (Ntsc-U)
+^2 = GameID: SLUS-20301
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0126548 0018E377
++(M) Must Be On
+%Credits: Codejunkies
+$F018E374 0018E377
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0018E377
+!!
+!Grenades Codes:
++Infinite Grenades
+%Credits: Codejunkies
+$0025B2BC 00000063
++Infinite Grenades
+%Credits: Codejunkies
+$0025B8CC 00000063
++Never Has Any Grenades
+%Credits: Codejunkies
+$E1010000 3025B8CC
+$0025B8CC 00000000
++Never Have Any Grenades
+%Credits: Codejunkies
+$E1010000 3025B2BC
+$0025B2BC 00000000
++Never Have More Than 10 Grenades
+%Credits: Codejunkies
+$E101000A 3025B2BC
+$0025B2BC 0000000A
++Never Have More Than 10 Grenades
+%Credits: Codejunkies
+$E101000A 3025B8CC
+$0025B8CC 0000000A
++Never Have More Than 25 Grenades
+%Credits: Codejunkies
+$E1010019 3025B2BC
+$0025B2BC 00000019
++Never Have More Than 25 Grenades
+%Credits: Codejunkies
+$E1010019 3025B8CC
+$0025B8CC 00000019
++Never Have More Than 5 Grenades
+%Credits: Codejunkies
+$E1010005 3025B2BC
+$0025B2BC 00000005
++Never Have More Than 5 Grenades
+%Credits: Codejunkies
+$E1010005 3025B8CC
+$0025B8CC 00000005
++Never Have More Than 50 Grenades
+%Credits: Codejunkies
+$E1010032 3025B2BC
+$0025B2BC 00000032
++Never Have More Than 50 Grenades
+%Credits: Codejunkies
+$E1010032 3025B8CC
+$0025B8CC 00000032
++Never Have More Than 75 Grenades
+%Credits: Codejunkies
+$E101004B 3025B2BC
+$0025B2BC 0000004B
++Never Have More Than 75 Grenades
+%Credits: Codejunkies
+$E101004B 3025B8CC
+$0025B8CC 0000004B
+!!
+!Lives Codes:
++Infinite Lives
+%Credits: Codejunkies
+$0025B4AB 00000063
++Infinite Lives
+%Credits: Codejunkies
+$0025BABB 00000063
++Never Have Any Lives
+%Credits: Codejunkies
+$E1010000 3025B4AB
+$0025B4AB 00000000
++Never Have Any Lives
+%Credits: Codejunkies
+$E1010000 3025BABB
+$0025BABB 00000000
++Never Have More Than 1 Life
+%Credits: Codejunkies
+$E1010001 3025B4AB
+$0025B4AB 00000001
++Never Have More Than 1 Life
+%Credits: Codejunkies
+$E1010001 3025BABB
+$0025BABB 00000001
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E1010002 3025B4AB
+$0025B4AB 00000002
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E1010002 3025BABB
+$0025BABB 00000002
++Never Have More Than 3 Lives
+%Credits: Codejunkies
+$E1010003 3025B4AB
+$0025B4AB 00000003
++Never Have More Than 3 Lives
+%Credits: Codejunkies
+$E1010003 3025BABB
+$0025BABB 00000003
+!!
+!Pistol Ammo Codes:
++Infinite Pistol Ammo
+%Credits: Codejunkies
+$0025B8C8 00000063
++Never Have Any Pistol Ammo
+%Credits: Codejunkies
+$E1010000 3025B8C8
+$0025B8C8 00000000
++Never Have More Than 10 Pistol Ammo
+%Credits: Codejunkies
+$E101000A 3025B8C8
+$0025B8C8 0000000A
++Never Have More Than 25 Pistol Ammo
+%Credits: Codejunkies
+$E1010019 3025B8C8
+$0025B8C8 00000019
++Never Have More Than 5 Pistol Ammo
+%Credits: Codejunkies
+$E1010005 3025B8C8
+$0025B8C8 00000005
++Never Have More Than 50 Pistol Ammo
+%Credits: Codejunkies
+$E1010032 3025B8C8
+$0025B8C8 00000032
++Never Have More Than 75 Pistol Ammo
+%Credits: Codejunkies
+$E101004B 3025B8C8
+$0025B8C8 0000004B
+!!
+!Pistol Codes:
++Infinite Pistol Ammo
+%Credits: Codejunkies
+$E1010063 3025B2B8
+$0025B2B8 00000063
++Never Have Have Pistol Ammo
+%Credits: Codejunkies
+$E1010000 3025B2B8
+$0025B2B8 00000000
++Never Have More Than 10 Pistol Ammo
+%Credits: Codejunkies
+$E101000A 3025B2B8
+$0025B2B8 0000000A
++Never Have More Than 25 Pistol Ammo
+%Credits: Codejunkies
+$E1010019 3025B2B8
+$0025B2B8 00000019
++Never Have More Than 5 Pistol Ammo
+%Credits: Codejunkies
+$E1010005 3025B2B8
+$0025B2B8 00000005
++Never Have More Than 50 Pistol Ammo
+%Credits: Codejunkies
+$E1010032 3025B2B8
+$0025B2B8 00000032
++Never Have More Than 75 Pistol Ammo
+%Credits: Codejunkies
+$E101004B 3025B2B8
+$0025B2B8 0000004B
+!!
+!Weapon Ammo Codes:
++Infinite Weapon Ammo
+%Credits: Codejunkies
+$0025B1CC 00000063
++Never Have Any Weapon Ammo
+%Credits: Codejunkies
+$E1010000 3025B1CC
+$0025B1CC 00000000
++Never Have More Than 10 Weapon Ammo
+%Credits: Codejunkies
+$E101000A 3025B1CC
+$0025B1CC 0000000A
++Never Have More Than 25 Weapon Ammo
+%Credits: Codejunkies
+$E1010019 3025B1CC
+$0025B1CC 00000019
++Never Have More Than 5 Weapon Ammo
+%Credits: Codejunkies
+$E1010005 3025B1CC
+$0025B1CC 00000005
++Never Have More Than 50 Weapon Ammo
+%Credits: Codejunkies
+$E1010032 3025B1CC
+$0025B1CC 00000032
++Never Have More Than 75 Weapon Ammo
+%Credits: Codejunkies
+$E101004B 3025B1CC
+$0025B1CC 0000004B
+!!
++2P Same Characters
+%Credits: Codejunkies
+$201E0B54 00000001
++Big Head Mode
+%Credits: Code Master
+$201E0B4C 00000001
++Boogie Mode
+%Credits: Code Master
+$201E0B50 00000001
++Bouncy Stuff
+%Credits: InterAct
+$101E0B50 00000001
++Extra Ammo (Both Players)
+%Credits: Code Master
+$10147C54 00000001
++Extra Lives (Both Players)
+%Credits: Code Master
+$101497C0 00000001
++Give Yourself More Time (Press Select To Activate)
+%Credits: Codejunkies
+$D0252902 0000FFFE
+$201E0F0C 42700000
++Infinite Ammo (Both Players)
+%Credits: Code Master
+$20147C58 00000000
++Infinite Ammo (Weapon 1) P1
+%Credits: Code Master
+$1025B2B8 00000063
++Infinite Ammo (Weapon 1) P2
+%Credits: Code Master
+$1025B8C8 00000063
++Infinite Ammo (Weapon 2) P1
+%Credits: Code Master
+$1025B2BA 00000063
++Infinite Ammo (Weapon 2) P2
+%Credits: Code Master
+$1025B8CA 00000063
++Infinite Green Bar P1
+%Credits: Code Master
+$1025B1D0 000000C8
++Infinite Green Bar P2
+%Credits: Code Master
+$1025B1E0 000000C8
++Infinite Grenades P1
+%Credits: Code Master
+$1025B2BC 00000063
++Infinite Grenades P2
+%Credits: Code Master
+$1025B8CC 00000063
++Infinite Health P1
+%Credits: Code Master
+$1025B1CC 00000064
++Infinite Health P2
+%Credits: Code Master
+$1025B1DC 00000063
++Infinite Lives (Both Players)
+%Credits: Code Master
+$201497C8 00000000
++Infinite Time (Minutes)
+%Credits: Code Master
+$201E0F0C 42C60000
++Infinite Time (Seconds)
+%Credits: Code Master
+$201E0F10 426C0000
++Max Score
+%Credits: Code Master
+$2025B48C 05F5E0FF
++Player 1 Infinite Pistol Ammo
+%Credits: InterAct
+$0025B2B8 00000063
++Quick Score
+%Credits: Codejunkies
+$D025B48C 00300063
+$1025B48C 0000FFFF
++Quick Score
+%Credits: Codejunkies
+$E0020063 2025B48C
+$E0010000 2025B48E
+$1025B48C 0000FFFF
++Quick Score Gain
+%Credits: Code Master
+$1025B48C 0000FFFF
++Steve Austin Mode
+%Credits: Code Master
+$001E0B1C 00000001
++Super Deformed
+%Credits: Codejunkies
+$101E0B4C 00000001
++Super Hero
+%Credits: InterAct
+$201E0B1C 00000001
+!!

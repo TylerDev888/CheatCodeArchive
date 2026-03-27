@@ -1,0 +1,26 @@
+^3 = NAME: MDK2 Armageddon
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 001A0777
+!!
+!Unlimited Health:
++Kurt
+%Credits: Xploder
+$2013FAB0 0000FFFF
++Doc
+%Credits: Xploder
+$2012F430 0000FFFF
++Hyde
+%Credits: Xploder
+$2013B890 0000FFFF
+!!
+!Unlimited:
++Ammunition
+%Credits: Xploder
+$2014BBFC 000000FF
++Jetpack
+%Credits: Xploder
+$20149C00 000000FF
+$20149BA4 000000FF
+!!

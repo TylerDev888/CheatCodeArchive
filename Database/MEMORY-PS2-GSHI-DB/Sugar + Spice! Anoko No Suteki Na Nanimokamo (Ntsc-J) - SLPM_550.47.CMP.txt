@@ -1,0 +1,17 @@
+^3 = NAME: Sugar + Spice! Anoko No Suteki Na Nanimokamo (Ntsc-J)
+^2 = GameID: SLPM-55047
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$901562E0 0C055860
+!!
++Re-Enable Debug Menus [Read Note] {<I>With The Code On, Hold Either L1 + Circle Over The NEW GAME Main Menu Option For V-System Debugmode Or L2 + Circle For Input HEX MODE Debug Menu.</I>}
+%Credits: punk7890
+$D0172142 0000DBFF
+$1011BD38 000004F2
+$D0172142 0000FFFF
+$1011BD38 00007706
+$D0172142 0000DEFF
+$1011BD38 0000B0A0
+!!
+

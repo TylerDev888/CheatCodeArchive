@@ -1,0 +1,44 @@
+^3 = NAME: Frogger's Adventures - The Rescue (Ntsc-U)
+^2 = GameID: SLUS-20734
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$C0330098 40DA2FA8
+$20A2CD10 E4F3198C
++(M) Must Be On
+%Credits: Codejunkies
+$F0115874 00115877
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00115877
+!!
++9 Lives
+%Credits: Codejunkies
+$1040E9E0 00000009
++99 Lives
+%Credits: Codejunkies
+$1040E9E0 00000063
++Always Have 49 Coins
+%Credits: Code Master
+$D040E96E 00200031
+$1040E96E 00000031
++Always Low Time (Challenge Mode)
+%Credits: Code Master
+$2040E9D8 00000000
++Coins Worth Modifier
+%Credits: Code Master
+$101434A0 000000??
++Extra Lives
+%Credits: Code Master
+$10152D8C 00000001
++Infinite Lives
+%Credits: Code Master
+$1040E970 00000009
++Lives
+%Credits: Codejunkies
+$00B5688C E404B196
++Lives
+%Credits: Codejunkies
+$00B5688C E404B180
+!!
+

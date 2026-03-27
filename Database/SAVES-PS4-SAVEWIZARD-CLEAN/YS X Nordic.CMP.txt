@@ -1,0 +1,676 @@
+^2 = GameID: CUSA47529,CUSA40359,CUSA47530
+^3 = NAME: Ys X: Nordics
+^SECONDLAYER: YES
+^4 = FILE: save[0-9]+\user.dat
+!Item Codes:
++Replace Item
+$80010003 6D617000
+$88010004 [ITD<*REVERSE>]0000
+$18000000 0000[ITD<ChangeTO>]
++Alternate Item Replace Code
+$80010008 [ITD<*REVERSE>]0000 
+$[Amount:0000:HEX:LITTLE]0000 00000000
+$18000000 0000[ITD<ChangeTO>]
++Item Quantity
+$80010008 [ITD<REVERSE>]0000  
+$[Amount:0000:HEX:LITTLE<CURRENT>]0000 00000000
+$18000004 0000[Amount:00:HEX:BIG<WANT>]
+!!
+!Bonus Stats From Elixirs:
+!Characters:
+!Adol:
++Strength
+$8001000A 0000C842
+$[Amount:00:HEX:BIG<Current Karja level>]000000 00000000
+$28000124 [Amount:447A0000:FLOAT:BIG]
++Break
+$8001000A 0000C842
+$[Amount:00:HEX:BIG<Current Karja level>]000000 00000000
+$28000128 [Amount:447A0000:FLOAT:BIG]
++Defence
+$8001000A 0000C842
+$[Amount:00:HEX:BIG<Current Karja level>]000000 00000000
+$2800012C [Amount:447A0000:FLOAT:BIG]
++Vitality
+$8001000A 0000C842
+$[Amount:00:HEX:BIG<Current Karja level>]000000 00000000
+$28000130 [Amount:447A0000:FLOAT:BIG]
++Luck
+$8001000A 0000C842
+$[Amount:00:HEX:BIG<Current Karja level>]000000 00000000
+$28000134 [Amount:447A0000:FLOAT:BIG]
+!!
+!Karja:
++Strength
+$8001000A 0000C842
+$[Amount:00:HEX:BIG<Current Karja level>]000000 00000000
+$2800013C [Amount:447A0000:FLOAT:BIG]
++Break
+$8001000A 0000C842
+$[Amount:00:HEX:BIG<Current Karja level>]000000 00000000
+$28000140 [Amount:447A0000:FLOAT:BIG]
++Defence
+$8001000A 0000C842
+$[Amount:00:HEX:BIG<Current Karja level>]000000 00000000
+$28000144 [Amount:447A0000:FLOAT:BIG]
++Vitality
+$8001000A 0000C842
+$[Amount:00:HEX:BIG<Current Karja level>]000000 00000000
+$28000148 [Amount:447A0000:FLOAT:BIG]
++Luck
+$8001000A 0000C842
+$[Amount:00:HEX:BIG<Current Karja level>]000000 00000000
+$2800014C [Amount:447A0000:FLOAT:BIG]
+!!
+!!
+!!
+^6 = MODS:
+[ITD]
+VALUE>NAME
+0803	Gold
+0804	Contribution Points
+081C	Crystal Shard
+081D	Mana Points: Adol
+081E	Mana Points: Karja
+0867	Basic Craft Stock
+0868	Basic Reagents
+0869	Basic Beast Parts
+086A	Basic Ingredients
+0C1C	Heal Potion
+0C1D	Heal Potion II
+0C1E	Heal Potion III
+0C1F	Full Potion
+0C20	Holy Potion
+0C21	Holy Potion II
+0C22	Skill Potion
+0C23	R Potion
+0C24	Breath Water
+0C25	Breath Water II
+0C26	Mead
+0C27	Golden Mead
+0C80	Antidote
+0C81	Relaxant
+0C82	Sedative
+0C83	Stimulant
+0C84	Super Antidote
+0C85	Super Relaxant
+0C86	Super Sedative
+0C87	Super Stimulant
+0C88	Panacea
+0C89	Panacea II
+0C8A	Panacea III
+0CE4	Sea God's Incense
+0CE5	Sweet Remedy
+0CE6	Bitter Remedy
+0CE7	Hermit's Remedy
+0CE8	Ascetic's Arcanum
+0CE9	Strength Elixir
+0CEA	Break Elixir
+0CEB	Defense Elixir
+0CEC	Vitality Elixir
+0CED	Luck Elixir
+0DAC	Plain Box Lunch
+0DAD	Plain Box Lunch (XL)
+0DAE	Antidotal Box Lunch
+0DAF	Sedating Box Lunch
+0DB0	Stimulative Box Lunch
+0DB1	Relaxative Box Lunch
+0DDE	Fish Fry Box Lunch
+0DDF	Gamey Steak Box Lunch
+0DE0	Shellfish Paella Box Lunch
+0DE1	Mushroom Saute Box Lunch
+0DE2	Sizzling Gratin Box Lunch
+0DE3	Lucky Potato Pie Box Lunch
+0DE4	Colorful Dessert Box Lunch
+0DE5	Mega Ulti-Meat Box Lunch
+0DE6	Seafood Supreme Box Lunch
+0E74	Heartfire Tome
+0E75	Crimson Manual: Kick
+0E76	Crimson Manual: Spirit
+0E77	Crimson Manual: Dance
+0E78	Crimson Manual: Spin
+0E79	Azure Manual: Fist
+0E7A	Azure Manual: Sky
+0E7B	Azure Manual: Slide
+0E7C	Tandem Manual: Shield
+0E7D	Hellblaze Tome
+1004	Repair Kit
+1005	Super Repair Kit
+1006	Extinguisher
+1007	Defroster
+1008	Blue Crystal Water
+1009	Green Crystal Water
+100A	Blitz Beacon
+1130	Iron Cannonball
+1131	Smasher Shot
+1132	Cleaver Shot
+1149	Broadside Salvo
+114A	Aiming Burst
+114B	Barrier Impact
+114C	Sandras Laser
+1162	Rapid Shell
+1163	Mini Bolide
+1164	Blizzard Bomb
+1165	Pyro Gust
+1166	Spear Shot
+1167	Wrecking Ball
+1168	Innocent Ray
+1169	Gravity Bomb
+1194	Carmine Sails
+1195	Evershade Sails
+11C6	Red Lotus Hull
+11C7	Pitch Black Hull
+12C0	Blueprint: Extra Cannon
+12C1	Blueprint: Extra Cannon II
+12C2	Blueprint: Sturdy Sails
+12C3	Barriermancy Text
+12C4	True Barriermancy Text
+12C5	Esoteric Bounding Text
+12C6	Armament Blueprint: Fireball
+12C7	Armament Blueprint: Lightbeam
+12C8	Norman Armament Training
+12C9	Norman Defense Training
+12CA	Norman Steerage Training
+12CB	Spellbook: Nixie's Blessing
+13EC	Short Sword
+13ED	Long Sword
+13EE	Long Sword +1
+13EF	Long Sword +2
+13F0	Long Sword X
+13F1	Falchion
+13F2	Falchion +1
+13F3	Falchion +2
+13F4	Falchion X
+13F5	Shark Slasher
+13F6	Shark Slasher +1
+13F7	Shark Slasher +2
+13F8	Shark Slasher X
+13F9	Misericorde
+13FA	Misericorde +1
+13FB	Misericorde +2
+13FC	Misericorde X
+13FD	Buster Edge
+13FE	Buster Edge +1
+13FF	Buster Edge +2
+1400	Buster Edge X
+1401	Shade Cutter
+1402	Shade Cutter +1
+1403	Shade Cutter +2
+1404	Shade Cutter X
+1405	Crescent Sword
+1406	Crescent Sword +1
+1407	Crescent Sword +2
+1408	Crescent Sword X
+1409	Pyrope Sword
+140A	Pyrope Sword +1
+140B	Pyrope Sword +2
+140C	Pyrope Sword X
+140D	Storm Sailor
+140E	Storm Sailor +1
+140F	Storm Sailor +2
+1410	Storm Sailor X
+1411	Force Saber
+1412	Force Saber +1
+1413	Force Saber +2
+1414	Force Saber X
+144D	Heimskringla
+144E	Radiant Heimskringla
+1450	Hand Axe
+1451	Francisca
+1452	Francisca +1
+1453	Francisca +2
+1454	Francisca X
+1455	Tabar
+1456	Tabar +1
+1457	Tabar +2
+1458	Tabar X
+1459	Skull Crusher
+145A	Skull Crusher +1
+145B	Skull Crusher +2
+145C	Skull Crusher X
+145D	Beastwing Battle-Axe
+145E	Beastwing Battle-Axe +1
+145F	Beastwing Battle-Axe +2
+1460	Beastwing Battle-Axe X
+1461	Great Axe
+1462	Great Axe +1
+1463	Great Axe +2
+1464	Great Axe X
+1465	Dark Hatchet
+1466	Dark Hatchet +1
+1467	Dark Hatchet +2
+1468	Dark Hatchet X
+1469	Punisher Axe
+146A	Punisher Axe +1
+146B	Punisher Axe +2
+146C	Punisher Axe X
+146D	Hauyne Axe
+146E	Hauyne Axe +1
+146F	Hauyne Axe +2
+1470	Hauyne Axe X
+1471	Calm Breaker
+1472	Calm Breaker +1
+1473	Calm Breaker +2
+1474	Calm Breaker X
+1475	Rune Axe
+1476	Rune Axe +1
+1477	Rune Axe +2
+1478	Rune Axe X
+14B1	Himinglava
+14B2	Gleaming Himinglava
+1518	Leather Mail
+1519	Bronze Armor
+151A	Bronze Armor +1
+151B	Bronze Armor +2
+151C	Bronze Armor X
+151D	Shell Armor
+151E	Shell Armor +1
+151F	Shell Armor +2
+1520	Shell Armor X
+1521	Bandit Mail
+1522	Bandit Mail +1
+1523	Bandit Mail +2
+1524	Bandit Mail X
+1525	Plated Armor
+1526	Plated Armor +1
+1527	Plated Armor +2
+1528	Plated Armor X
+1529	Black Claw Armor
+152A	Black Claw Armor +1
+152B	Black Claw Armor +2
+152C	Black Claw Armor X
+152D	Reflex
+152E	Reflex +1
+152F	Reflex +2
+1530	Reflex X
+1531	Teal Coral Armor
+1532	Teal Coral Armor +1
+1533	Teal Coral Armor +2
+1534	Teal Coral Armor X
+1535	Battle Panoply
+1536	Battle Panoply +1
+1537	Battle Panoply +2
+1538	Battle Panoply X
+1579	Andvari
+157A	Resplendent Andvari
+157C	Cotton Vest
+157D	Bronze Cuirass
+157E	Bronze Cuirass +1
+157F	Bronze Cuirass +2
+1580	Bronze Cuirass X
+1581	Scale Coat
+1582	Scale Coat +1
+1583	Scale Coat +2
+1584	Scale Coat X
+1585	Feral Apparel
+1586	Feral Apparel +1
+1587	Feral Apparel +2
+1588	Feral Apparel X
+1589	Half Plate
+158A	Half Plate +1
+158B	Half Plate +2
+158C	Half Plate X
+158D	White Fang Cuirass
+158E	White Fang Cuirass +1
+158F	White Fang Cuirass +2
+1590	White Fang Cuirass X
+1591	Mirage Vest
+1592	Mirage Vest +1
+1593	Mirage Vest +2
+1594	Mirage Vest X
+1595	Jade Serpent Battlegarb
+1596	Jade Serpent Battlegarb +1
+1597	Jade Serpent Battlegarb +2
+1598	Jade Serpent Battlegarb X
+1599	Void Coat
+159A	Void Coat +1
+159B	Void Coat +2
+159C	Void Coat X
+15DD	Hreiomarr
+15DE	Heavenly Hreiomarr
+1644	Suzhen Charm
+1645	Suzhen Amulet
+1646	Suzhen Guardstone
+1647	Raiju Charm
+1648	Raiju Amulet
+1649	Raiju Guardstone
+164A	Mayura Charm
+164B	Mayura Amulet
+164C	Mayura Guardstone
+164D	Arion Charm
+164E	Arion Amulet
+164F	Arion Guardstone
+1650	Gwyllgi Charm
+1651	Gwyllgi Amulet
+1652	Gwyllgi Guardstone
+1653	Purple Gloves
+1654	Venom Gloves
+1655	Yellow Gloves
+1656	Thunder Gloves
+1657	Red Gloves
+1658	Blaze Gloves
+1659	Blue Gloves
+165A	Blizzard Gloves
+165B	Scoundrel Gloves
+165C	Chevalier Gloves
+165D	Crimson Ring
+165E	Inferno Bracelet
+165F	Azure Ring
+1660	Hail Bracelet
+1661	Ebon Ring
+1662	Chaos Bracelet
+1663	Ogre Hands
+1664	Flame Gauntlets
+1665	Ice Gauntlets
+1666	Sirius Ring
+1667	Taurus Ring
+1668	Warrior Bandana
+1669	Fighter Helmet
+166A	Ebon Mask
+166B	Brave General's Belt
+166C	Wise General's Belt
+166D	Gale Boots
+166E	Lightning Boots
+166F	Warrior's Gloves
+1670	Hero's Gauntlets
+1671	Chevalier Shield
+1672	Warrior's Earrings
+1673	Tactician's Earrings
+1674	Pirate's Necklace
+1675	Veteran's Necklace
+1676	Champion's Belt
+1677	Nixie's Brooch
+1678	White Bangle
+1679	Glare Bangle
+167A	Luminous Bangle
+167B	Saint's Medal
+167C	Hermit's Medal
+167D	Mason's Medal
+167E	Tycoon's Medal
+167F	Fighter's Medal
+1680	Sorcerer's Medal
+1681	Battle-Tested Talisman
+1682	Warrior Seal
+1683	Veteran Seal
+1684	Hero Cloak
+1685	Aurora Cloak
+1686	Jester Cloak
+1687	Magician's Charm
+1688	Hunter's Bracelet
+1689	Martialist's Gauntlets
+168A	Dancer's Shawl
+168B	Eagle Eye Doubloon
+168C	Spirit Charm
+168D	Spirit Charm (Broken)
+168E	Spirit Necklace
+168F	Spirit Necklace (Broken)
+1690	Militia Membership Badge
+1691	Spirit Cape
+17D4	Sword Seal
+17D5	Axe Seal
+17D6	Red Strong-Arm
+17D7	Sword Star
+17D8	Axe Star
+17D9	Sword Soul
+17DA	Axe Soul
+17DB	Sword Seal+
+17DC	Axe Seal+
+17DD	Red Strong-Arm+
+17DE	Sword Star+
+17DF	Axe Star+
+17E0	Sword Soul+
+17E1	Axe Soul+
+1838	Shield Seal
+1839	Armor Seal
+183A	Blue Strong-Arm
+183B	Shield Star
+183C	Armor Star
+183D	Shield Soul
+183E	Armor Soul
+183F	Shield Seal+
+1840	Armor Seal+
+1841	Blue Strong-Arm+
+1842	Shield Star+
+1843	Armor Star+
+1844	Shield Soul+
+1845	Armor Soul+
+189C	Chalice Seal
+189D	Lyre Seal
+189E	Yellow Strong-Arm
+189F	Chalice Star
+18A0	Lyre Star
+18A1	Chalice Soul
+18A2	Lyre Soul
+18A3	Chalice Seal+
+18A4	Lyre Seal+
+18A5	Yellow Strong-Arm+
+18A6	Chalice Star+
+18A7	Lyre Star+
+18A8	Chalice Soul+
+18A9	Lyre Soul+
+1900	Sin Seal
+1901	Punishment Seal
+1902	Black String-Arm
+1903	Sin Star
+1904	Punishment Star
+1905	Sin Soul
+1906	Punishment Soul
+1907	Sin Seal+
+1908	Punishment Seal+
+1909	Black String-Arm+
+190A	Sin Star+
+190B	Punishment Star+
+190C	Sin Soul+
+190D	Punishment Soul+
+1932	Fleeting Hope
+1933	Abiding Love
+1934	Limitless Courage
+1935	Rainbow Strong-Arm
+1936	Fleeting Hope+
+1937	Abiding Love+
+1938	Limitless Courage+
+1939	Rainbow Strong-Arm+
+1A2C	Norman Attire
+1A2D	Norman Attire: No Helmet
+1A2E	C-Black Swordsman Garb
+1A5E	Pirate Princess Attire
+1A5F	Pirate Princess: No Helmet
+1A60	Azure-Black Fighter Garb
+1A90	Clever Glasses
+1A91	Gull's Nest Head-Topper
+1A92	Black Cat Ears
+1A93	Black Cat Tail
+1A94	Black Cat Whiskers
+1A95	Adoroo Ears
+1A96	Karooja Ears
+1A97	Adoroo Tail
+1A98	Karooja Tail
+1A99	Pickaback Pikkard (White)
+1BBC	Celadon Clay
+1BBD	Agend Wood
+1BBE	Shell Rock
+1BBF	Blacksilver Sand
+1BC0	Soul Timber
+1BC1	Crystalucent Coral
+1C20	Cureleaf
+1C21	Sun Nectar
+1C22	Melg Flower
+1C23	Red Herb
+1C24	Dryad Tear
+1C25	Schneeblauchen
+1C84	Plump Fish Meat
+1C85	Rich Game Meat
+1C86	Munir Clam
+1C87	Eryn Mushroom
+1C88	Silver Cheese
+1C89	Golden Potato
+1C8A	Aurora Berries
+1C8B	Ultimate Beast Meat
+1C8C	Supreme Fish Meat
+1CE8	Supple Leather
+1CE9	Xiphoid Bone
+1CEA	Tough Leather
+1CEB	Steely Bone
+1CEC	Everlasting Leather
+1CED	Vajra Bone
+1D4C	Red Drop
+1D4D	Blue Drop
+1D4E	Yellow Drop
+1D4F	Dark Drop
+1D50	Rainbow Drop
+1D51	Red Lump
+1D52	Blue Lump
+1D53	Yellow Lump
+1D54	Dark Lump
+1D55	Rainbow Lump
+1D56	Red Seastone
+1D57	Bule Seastone
+1D58	Yellow Seastone
+1D59	Dark Seastone
+1D5A	Rainbow Seastone
+1DB0	Blessed Paper Scrap
+1DB1	Empty Bottle
+1DB2	Empty Lunch Box
+1DB3	Sverkite
+1E78	Sadina
+1E79	Saman
+1E7A	Soldier Crab
+1E7B	Marine Amana
+1E7C	Ryunga
+1E7D	Obelia Herring
+1E7E	Boleh
+1E7F	Robushu
+1E80	North Tuna
+1E81	Purch
+1E82	Jumpi
+1E83	Mud Wells
+1E84	Rowana
+1E85	Blue Saddie
+1E86	Glass Corp
+1E87	Mercenary Crab
+1E88	Sunny Saman
+1E89	Hineria
+1E8A	Queen Boleh
+1E8B	Ponffer
+1E8C	Aqua Marina
+1E8D	Calamitis
+1E8E	General Crab
+1E8F	Gold Borsas
+1E90	Cobalt Corp
+1E91	Empress Saman
+1E92	Murgleys
+1E93	Wishstar
+1E94	Onyx Tuna
+1E95	Megalofang
+1EDC	Fishing Bait
+1EDD	Fishing Bait S
+1EDE	Fishing Bait M
+1EDF	Fishing Bait L
+1EE0	Fishing Bait EX
+1EE1	Fishing Bait G
+1F0E	Fishing Rod
+1F0F	Angler's Gloves
+1F10	Angler's Headband
+1F11	Pisces Ring
+1F12	Pisces Belt
+1F13	Betta Bracelet
+1F14	Betta Scarf
+1F15	Silver Fishline
+1F16	Gold Fishhook
+1F17	Cycloid Brooch
+1F18	Cycloid Crown
+1FA4	Adventure Journal
+1FA5	Map of Obelia Gulf
+1FA6	Lila Shell
+1FA7	Ancient Key
+1FA8	Portrait
+1FA9	Ancient Key 2
+1FAA	Vintage Axe
+1FAB	Ancient Key 3
+1FAC	Rune Bangle
+1FAE	Militia's Crate
+1FB0	Ebon Mindgem
+1FB1	Hidden Treasure Chart A
+1FB2	Hidden Treasure Chart B
+1FB3	Hidden Treasure Chart C
+1FB4	Hidden Treasure Chart D
+1FB5	Hidden Treasure Chart E
+1FB6	Hidden Treasure Chart F
+1FB7	Ivalde Hammer
+1FB8	Scaredy Pikkard
+1FB9	White Pikkard
+1FBA	Silver Pikkard
+1FBB	Septicolor Pikkard
+1FBC	Whirlwind Grass
+1FBD	Henbane Blossoms
+1FBE	Fly Agarics
+1FBF	Bellflowers
+1FC0	Radna Spring Water
+1FC1	Sanguine Rock Salt
+1FC2	Map of Viewpoint Isle
+1FC3	Golden Apple
+1FC4	Speedy Pikkard
+1FC5	Scrappy Pikkard
+20D0	Nornir's Spindle
+20D1	Gullinboard
+20D2	Druid's Monocle
+20D4	Rune Tablet - Part One
+20D5	Rune Tablet - Part Two
+20D6	Rune Tablet - Part Three
+2134	Box Lunch Recipe: Plain
+2135	Box Lunch Recipe: Stimulant
+2136	Box Lunch Recipe: Fly
+2137	Box Lunch Recipe: Game Meat
+2138	Box Lunch Recipe: Plain (XL)
+2139	Box Lunch Recipe: Sedative
+213A	Box Lunch Recipe: Paella
+213B	Box Lunch Recipe: Antidote
+213C	Box Lunch Recipe: Relaxant
+213D	Box Lunch Recipe: Mushroom
+213E	Box Lunch Recipe: Gratin
+213F	Box Lunch Recipe: Pie
+2140	Box Lunch Recipe: Dessert
+2141	Box Lunch Recipe: Ulti-Meat
+2142	Box Lunch Recipe: Seafood S.
+2143	Luncheon Recipe: Meuniere
+2144	Luncheon Recipe: Steak
+2145	Luncheon Recipe: Chowder
+2146	Luncheon Recipe: Pizza
+2147	Luncheon Recipe: Potatoes
+2148	Luncheon Recipe: Sweets
+2149	Luncheon Recipe: Meatfest
+214A	Luncheon Recipe: Fishfest
+214B	Luncheon Recipe: Fricassee
+2198	Heal Formula
+2199	Heal Formula II
+219A	Heal Formula III
+219B	Full-Heal Formula
+219C	Holy Formula
+219D	Holy Formula II
+219E	Martial Formula
+219F	Rage Formula
+21A0	Breath Formula
+21A1	Breath Formula II
+21A2	Revival Formula
+21A3	Golden Formula
+21A4	Antidote Formula
+21A5	Relaxant Formula
+21A6	Sedative Formula
+21A7	Stimulant Formula
+21A8	Panacea Formula
+21A9	Panacea Formula II
+21AA	Panacea Formula III
+21AB	Ancient Strength Formula
+21AC	Ancient Break Formula
+21AD	Ancient Defense Formula
+21AE	Ancient Vitality Formula
+21AF	Ancient Luck Formula
+2260	Peculiar Harr Woodcarving
+2261	Rune Sword
+2262	Green Turban Ear Clips
+2263	Dvergr's Hammer
+2264	Pink Pearl Ring
+2265	Oku-Thor Amulet
+2266	Foreign Gauntlet
+2267	White Lion Crest
+[/ITD]

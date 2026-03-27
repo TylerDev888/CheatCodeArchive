@@ -1,0 +1,9 @@
+^2 = GameID: BLES01580
+^3 = NAME: Game of Thrones
+^4 = FILE: PAYLOAD
++Update Sha1 For Payload (required)
+(set range:0x000014,0x00009E)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

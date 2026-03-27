@@ -1,0 +1,1056 @@
+^3 = NAME: King's Field IV - The Ancient City (Ntsc-U)
+^2 = GameID: SLUS-20353
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F020AB00 0022C40F
++(M) Must Be On
+%Credits: Codejunkies
+$F022C40C 0022C40F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0022C40F
+!!
+!Attack/Defense Codes|:
++Max Dark-Att
+%Credits: InterAct
+$10413FF0 000003E7
++Max Dark-Def
+%Credits: InterAct
+$10414020 000003E7
++Max Earth-Att
+%Credits: InterAct
+$10413FE8 000003E7
++Max Earth-Def
+%Credits: InterAct
+$10414018 000003E7
++Max Fire-Att
+%Credits: InterAct
+$10413FE6 000003E7
++Max Fire-Def
+%Credits: InterAct
+$10414016 000003E7
++Max Hit-Att
+%Credits: InterAct
+$10413FE2 000003E7
++Max Hit-Def
+%Credits: InterAct
+$10414012 000003E7
++Max Light-Att
+%Credits: InterAct
+$10413FEE 000003E7
++Max Light-Def
+%Credits: InterAct
+$1041401E 000003E7
++Max Slash-Att
+%Credits: InterAct
+$10413FE0 000003E7
++Max Slash-Def
+%Credits: InterAct
+$10414010 000003E7
++Max Stab-Att
+%Credits: InterAct
+$10413FE4 000003E7
++Max Stab-Def
+%Credits: InterAct
+$10414014 000003E7
++Max Water-Att
+%Credits: InterAct
+$10413FEC 000003E7
++Max Water-Def
+%Credits: InterAct
+$1041401C 000003E7
++Max Wind-Att
+%Credits: InterAct
+$10413FEA 000003E7
++Max Wind-Def
+%Credits: InterAct
+$1041401A 000003E7
+!!
+!Attribute Codes:
++Max Level 99
+%Credits: InterAct
+$10413FD4 00000063
++Max Magical
+%Credits: InterAct
+$10413FAC 000000FF
++Max Physical
+%Credits: InterAct
+$10413FA8 000000FF
+!!
+!Boots:
++Absorption Boots
+%Credits: InterAct
+$00369989 00000001
++Ancient Greaves
+%Credits: InterAct
+$0036998C 00000001
++Blessed Greaves
+%Credits: InterAct
+$00369988 00000001
++Cavalier Greaves
+%Credits: InterAct
+$00369986 00000001
++Crusader Greaves
+%Credits: InterAct
+$00369987 00000001
++Crystal Greaves
+%Credits: InterAct
+$0036998B 00000001
++Demon Legs
+%Credits: InterAct
+$0036998A 00000001
++Forest Shoes
+%Credits: InterAct
+$00369977 00000001
++Iron Boots
+%Credits: InterAct
+$0036997B 00000001
++Iron Boots (Gold)
+%Credits: InterAct
+$0036997F 00000001
++Knight Greaves
+%Credits: InterAct
+$00369983 00000001
++Leather Boots
+%Credits: InterAct
+$00369979 00000001
++Leg Guards
+%Credits: InterAct
+$00369981 00000001
++Lord Myu's Greaves
+%Credits: InterAct
+$0036998D 00000001
++Mystic Guards
+%Credits: InterAct
+$00369982 00000001
++Plate Boots
+%Credits: InterAct
+$0036997E 00000001
++Wooden Shoes
+%Credits: InterAct
+$00369976 00000001
+!!
+!Bracelets:
++Clarity Bracelet
+%Credits: InterAct
+$00369999 00000001
++Feather Bracelet
+%Credits: InterAct
+$0036999C 00000001
++Fortune
+%Credits: InterAct
+$003699A0 00000001
++Guardian Bracelet
+%Credits: InterAct
+$0036999D 00000001
++Power Bracelet
+%Credits: InterAct
+$0036999B 00000001
++Spider Armband
+%Credits: InterAct
+$0036999E 00000001
++Widda's Bracelet
+%Credits: InterAct
+$0036999A 00000001
+!!
++Can Look Straight Up & Down
+%Credits: Josh_7774
+$2044625C 3FC90000
+$20446260 BFC90000
+$2044632C 3FC90000
+$20446330 BFC90000
+!Chest Armor:
++Ancient Armor
+%Credits: InterAct
+$00369959 00000001
++Blessed Armor
+%Credits: InterAct
+$00369953 00000001
++Cavalier Plate
+%Credits: InterAct
+$00369951 00000001
++Chain Mail
+%Credits: InterAct
+$0036994A 00000001
++Crusader Plate
+%Credits: InterAct
+$00369950 00000001
++Crystal Armor
+%Credits: InterAct
+$00369958 00000001
++Demon Armor
+%Credits: InterAct
+$00369957 00000001
++Enchanted Armor
+%Credits: InterAct
+$00369954 00000001
++Fire Mail
+%Credits: InterAct
+$00369956 00000001
++Ice Armor
+%Credits: InterAct
+$00369955 00000001
++Iron Breastplate
+%Credits: InterAct
+$00369948 00000001
++Knight Plate
+%Credits: InterAct
+$0036994F 00000001
++Leather Armor
+%Credits: InterAct
+$00369946 00000001
++Leather Vest
+%Credits: InterAct
+$00369944 00000001
++Lord Myu's Armor
+%Credits: InterAct
+$0036995A 00000001
++Sacred Plate
+%Credits: InterAct
+$00369952 00000001
++Scale Mail
+%Credits: InterAct
+$0036994B 00000001
++Scale Mail (Bronze)
+%Credits: InterAct
+$0036994D 00000001
+!!
++Fly Mode - L1 + Right To Float, L1 + Left To Disable, L1 + Up/Down To Go Up/Down
+%Credits: Josh_7774
+$D1E0DB02 0000FBDF
+$200FF000 00000001
+$D1E0DB02 0000FB7F
+$200FF000 00000000
+$D00FF000 00000001
+$2041412C C0D54000
+$D1E0DB02 0000FBEF
+$2041412C C2000000
+$D1E0DB02 0000FBBF
+$2041412C 42000000
+!Gloves:
++Ancient Gloves
+%Credits: InterAct
+$00369972 00000001
++Arm Guard
+%Credits: InterAct
+$10369960 00000101
++Blessed Arms
+%Credits: InterAct
+$0036996E 00000001
++Blessed Gloves
+%Credits: InterAct
+$10369966 00000101
++Bone Hands
+%Credits: InterAct
+$0036996A 00000001
++Cavalier Gloves
+%Credits: InterAct
+$0036996D 00000001
++Crusader Gloves
+%Credits: InterAct
+$0036996C 00000001
++Crystal Arms
+%Credits: InterAct
+$00369971 00000001
++Gauntlets
+%Credits: InterAct
+$10369962 00000101
++Gauntlets (Blued)
+%Credits: InterAct
+$10369964 00000101
++Knight Gloves
+%Credits: InterAct
+$0036996B 00000001
++Leather Gloves
+%Credits: InterAct
+$1036995C 00000101
++Lord Myu's Gloves
+%Credits: InterAct
+$00369973 00000001
++Sacred Gloves
+%Credits: InterAct
+$10369968 00000101
++Silvery Gloves
+%Credits: InterAct
+$0036996F 00000001
++Venom Gloves
+%Credits: InterAct
+$00369970 00000001
+!!
+!Have Chest Codes:
++Iron Breastplate 2
+%Credits: Code Master
+$00369949 00000001
++Knight Plate
+%Credits: Code Master
+$0036994E 00000001
++Leather Armor 2
+%Credits: Code Master
+$00369947 00000001
++Leather Vest 2
+%Credits: Code Master
+$00369945 00000001
++Scale Mail 2
+%Credits: Code Master
+$0036994C 00000001
+!!
+!Have Hands Codes:
++Arm Guard
+%Credits: Code Master
+$00369960 00000001
++Arm Guard 2
+%Credits: Code Master
+$00369961 00000001
++Arm Guard 3
+%Credits: Code Master
+$00369962 00000001
++Blessed Gloves
+%Credits: Code Master
+$00369967 00000001
++Blessed Gloves 2
+%Credits: Code Master
+$00369968 00000001
++Gauntlets
+%Credits: Code Master
+$00369963 00000001
++Gauntlets 2
+%Credits: Code Master
+$00369964 00000001
++Gauntlets 3
+%Credits: Code Master
+$00369965 00000001
++Gauntlets 4
+%Credits: Code Master
+$00369966 00000001
++Leather Gloves
+%Credits: Code Master
+$0036995D 00000001
++Leather Gloves 2
+%Credits: Code Master
+$0036995E 00000001
++Leather Gloves 3
+%Credits: Code Master
+$0036995F 00000001
++Sacred Gloves
+%Credits: Code Master
+$00369969 00000001
+!!
+!Have Head Codes:
++Ancient Helmet
+%Credits: Code Master
+$00369941 00000001
++Angelic Crown
+%Credits: Code Master
+$0036993C 00000001
++Blessed Helm
+%Credits: Code Master
+$0036993B 00000001
++Cavalier Helm
+%Credits: Code Master
+$00369937 00000001
++Champion Helm
+%Credits: Code Master
+$0036993A 00000001
++Crusader Helm
+%Credits: Code Master
+$00369935 00000001
++Crusader Helm 2
+%Credits: Code Master
+$00369936 00000001
++Crystal Helm
+%Credits: Code Master
+$00369940 00000001
++Great Helm
+%Credits: Code Master
+$00369938 00000001
++Great Helm 2
+%Credits: Code Master
+$00369939 00000001
++Iron Helmet
+%Credits: Code Master
+$0036992D 00000001
++Iron Helmet 2
+%Credits: Code Master
+$0036992E 00000001
++King's Crown
+%Credits: Code Master
+$0036993F 00000001
++Knight Helm
+%Credits: Code Master
+$00369933 00000001
++Knight Helm 2
+%Credits: Code Master
+$00369934 00000001
++Leather Helm
+%Credits: Code Master
+$0036992B 00000001
++Leather Helm 2
+%Credits: Code Master
+$0036992C 00000001
++Lord Myu's Helmet
+%Credits: Code Master
+$00369942 00000001
++Plate Helm
+%Credits: Code Master
+$00369931 00000001
++Plate Helm 2
+%Credits: Code Master
+$00369932 00000001
++Sacrifical Mask
+%Credits: Code Master
+$0036993E 00000001
++Shadow Mask
+%Credits: Code Master
+$0036993D 00000001
++War Helm
+%Credits: Code Master
+$0036992F 00000001
++War Helm 2
+%Credits: Code Master
+$00369930 00000001
+!!
+!Have Item Codes:
++Antidote
+%Credits: Code Master
+$00369839 00000001
++Bone
+%Credits: Code Master
+$0036984F 00000001
++Caretaker's Map
+%Credits: Code Master
+$00369831 00000001
++Claw
+%Credits: Code Master
+$00369851 00000001
++Crystal Vial
+%Credits: Code Master
+$0036983E 00000001
++Dragon Flower
+%Credits: Code Master
+$0036983D 00000001
++Dried Amphibia
+%Credits: Code Master
+$0036983B 00000001
++Earth Folk's Map
+%Credits: Code Master
+$00369833 00000001
++Earth Stone
+%Credits: Code Master
+$00369852 00000001
++Fool's Fruit
+%Credits: Code Master
+$0036984C 00000001
++Forest Fruit
+%Credits: Code Master
+$00369838 00000001
++Forest Root
+%Credits: Code Master
+$0036983A 00000001
++Have Ancient Shield
+%Credits: InterAct
+$00369925 00000001
++Have Ancient Sword
+%Credits: InterAct
+$003698F1 00000001
++Have Antidote
+%Credits: InterAct
+$00369839 00000032
++Have Bastard Sword
+%Credits: InterAct
+$003698E2 00000001
++Have Battle Hammer
+%Credits: InterAct
+$003698FA 00000001
++Have Battle Sword
+%Credits: InterAct
+$003698E3 00000001
++Have Black Scar
+%Credits: InterAct
+$003698EB 00000001
++Have Blessed Shield
+%Credits: InterAct
+$0036991F 00000001
++Have Bone
+%Credits: InterAct
+$0036984F 00000032
++Have Bow
+%Credits: InterAct
+$003698FF 00000001
++Have Broad Sword
+%Credits: InterAct
+$003698DE 00000001
++Have Broken Katana
+%Credits: InterAct
+$003698E7 00000001
++Have Buckler
+%Credits: InterAct
+$00369912 00000001
++Have Buckler 2
+%Credits: InterAct
+$00369914 00000001
++Have Chaos Shield
+%Credits: InterAct
+$00369923 00000001
++Have Claw
+%Credits: InterAct
+$00369851 00000032
++Have Crescent Ax
+%Credits: InterAct
+$003698FD 00000001
++Have Crossbow
+%Credits: InterAct
+$00369902 00000001
++Have Crusader Shield
+%Credits: InterAct
+$00369918 00000001
++Have Crystal Shield
+%Credits: InterAct
+$00369920 00000001
++Have Crystal Vial
+%Credits: InterAct
+$0036983E 00000032
++Have Crystaline Blade
+%Credits: InterAct
+$003698ED 00000001
++Have Dark Defiler
+%Credits: InterAct
+$003698EF 00000001
++Have Darkwood Club
+%Credits: InterAct
+$003698C8 00000001
++Have Dragon Flower
+%Credits: InterAct
+$0036983D 00000032
++Have Dried Amphibia
+%Credits: InterAct
+$0036983B 00000032
++Have Dwarven Pickax
+%Credits: InterAct
+$003698CA 00000001
++Have Dwarven Sword
+%Credits: InterAct
+$003698E4 00000001
++Have Earth Carver
+%Credits: InterAct
+$003698DB 00000001
++Have Earth Stone
+%Credits: InterAct
+$00369852 00000032
++Have Earthbinder
+%Credits: InterAct
+$003698D3 00000001
++Have Earthen Shield
+%Credits: InterAct
+$00369917 00000001
++Have Earthquake
+%Credits: InterAct
+$003698EE 00000001
++Have Fiery Sword
+%Credits: InterAct
+$003698CD 00000001
++Have Fire Carver
+%Credits: InterAct
+$003698DA 00000001
++Have Flame Shield
+%Credits: InterAct
+$00369921 00000001
++Have Fool's Fruit
+%Credits: InterAct
+$0036984C 00000032
++Have Forest Carver
+%Credits: InterAct
+$003698D9 00000001
++Have Forest Fruit
+%Credits: InterAct
+$00369838 00000032
++Have Forest Root
+%Credits: InterAct
+$0036983A 00000032
++Have Frostbite
+%Credits: InterAct
+$003698D8 00000001
++Have Great Sword
+%Credits: InterAct
+$003698E5 00000001
++Have Guardian Shield
+%Credits: InterAct
+$00369922 00000001
++Have Hammer Of Woe
+%Credits: InterAct
+$003698FC 00000001
++Have Hand Ax
+%Credits: InterAct
+$003698F6 00000001
++Have Healing Amulet
+%Credits: InterAct
+$003699A5 00000001
++Have Healing Water
+%Credits: InterAct
+$0036983F 00000032
++Have Healing Water
+%Credits: InterAct
+$00369840 00000032
++Have Healing Water
+%Credits: InterAct
+$00369841 00000032
++Have Herb
+%Credits: InterAct
+$00369836 00000032
++Have Herb Liquid
+%Credits: InterAct
+$00369837 00000032
++Have Holy Crest
+%Credits: InterAct
+$003698D7 00000001
++Have King's Map
+%Credits: InterAct
+$00369835 00000001
++Have Kite Shield
+%Credits: InterAct
+$00369919 00000001
++Have Kite Shield (Grendel)
+%Credits: InterAct
+$0036991B 00000001
++Have Knight Shield
+%Credits: InterAct
+$00369915 00000001
++Have Knight Sword
+%Credits: InterAct
+$003698D6 00000001
++Have Lawful Blade
+%Credits: InterAct
+$003698F3 00000001
++Have Leather Shield
+%Credits: InterAct
+$00369910 00000001
++Have Lethal Rapier
+%Credits: InterAct
+$003698D0 00000001
++Have Long Sword
+%Credits: InterAct
+$003698D2 00000001
++Have Lord Myu's Shield
+%Credits: InterAct
+$00369926 00000001
++Have Lucky Pendant
+%Credits: InterAct
+$003699A3 00000001
++Have Mammoth Shield
+%Credits: InterAct
+$00369924 00000001
++Have Moonlight Sword
+%Credits: InterAct
+$003698F4 00000001
++Have Morning Star
+%Credits: InterAct
+$003698F7 00000001
++Have Mushroom
+%Credits: InterAct
+$0036983C 00000032
++Have Myu's Necklace
+%Credits: InterAct
+$003699A9 00000001
++Have Poison Water
+%Credits: InterAct
+$00369842 00000032
++Have Power Seed
+%Credits: InterAct
+$00369845 00000032
++Have Purity Amulet
+%Credits: InterAct
+$003699A7 00000001
++Have Queen's Staff
+%Credits: InterAct
+$003698F0 00000001
++Have Rapier
+%Credits: InterAct
+$003698CE 00000001
++Have Ring Of Earth
+%Credits: InterAct
+$00369994 00000001
++Have Ring Of Fire
+%Credits: InterAct
+$00369993 00000001
++Have Ring Of Sight
+%Credits: InterAct
+$0036998F 00000001
++Have Ring Of Water
+%Credits: InterAct
+$00369996 00000001
++Have Ring Of Wind
+%Credits: InterAct
+$00369995 00000001
++Have Ring Of Wisdom
+%Credits: InterAct
+$00369990 00000001
++Have Scale
+%Credits: InterAct
+$00369850 00000032
++Have Scorpion
+%Credits: InterAct
+$003698EA 00000001
++Have Short Sword
+%Credits: InterAct
+$003698CC 00000001
++Have Thieves Necklace
+%Credits: InterAct
+$003699A8 00000001
++Have Tower Shield
+%Credits: InterAct
+$0036991C 00000001
++Have Tower Shield (Black)
+%Credits: InterAct
+$0036991D 00000001
++Have Tower Shield (Gold)
+%Credits: InterAct
+$0036991E 00000001
++Have Triple Fang
+%Credits: InterAct
+$003698F2 00000001
++Have Tsunami
+%Credits: InterAct
+$003698EC 00000001
++Have Venomblade
+%Credits: InterAct
+$003698DC 00000001
++Have War Hammer
+%Credits: InterAct
+$003698FB 00000001
++Have War Sword
+%Credits: InterAct
+$003698E6 00000001
++Have Water Carver
+%Credits: InterAct
+$003698DD 00000001
++Have Water Talisman
+%Credits: InterAct
+$003699A6 00000001
++Have Wavecrasher
+%Credits: InterAct
+$003698E9 00000001
++Have Widda Needle
+%Credits: InterAct
+$00369846 00000032
++Have Widda's Bow
+%Credits: InterAct
+$00369904 00000001
++Have Widda's Map
+%Credits: InterAct
+$00369834 00000001
++Have Widda's Necklace
+%Credits: InterAct
+$003699A4 00000001
++Have Widda's Ring
+%Credits: InterAct
+$00369991 00000001
++Have Windslayer
+%Credits: InterAct
+$003698E8 00000001
++Have Wise Man's Fruit
+%Credits: InterAct
+$0036984B 00000032
++Have Zastari's Map
+%Credits: InterAct
+$00369832 00000001
++Healing Water
+%Credits: Code Master
+$0036983F 00000001
++Healing Water 2
+%Credits: Code Master
+$00369840 00000001
++Healing Water 3
+%Credits: Code Master
+$00369841 00000001
++Herb
+%Credits: Code Master
+$00369836 00000001
++Herbal Liquid
+%Credits: Code Master
+$00369837 00000001
++Mushroom
+%Credits: Code Master
+$0036983C 00000001
++Poison Water
+%Credits: Code Master
+$00369842 00000001
++Power Seed
+%Credits: Code Master
+$00369845 00000001
++Scale
+%Credits: Code Master
+$00369850 00000001
++Widda Needle
+%Credits: Code Master
+$00369846 00000001
++Wise Man's Fruit
+%Credits: Code Master
+$0036984B 00000001
+!!
+!Have Items, Weapons And Equipment Codes:
++Healing Water
+%Credits: Codejunkies
+$0036983F 00000032
+$00369840 00000032
+$00369841 00000032
++Venomblade
+%Credits: Codejunkies
+$003698E0 00000001
+!!
+!Have Legs Codes:
++Iron Boots 2
+%Credits: Code Master
+$0036997C 00000001
++Iron Boots 3
+%Credits: Code Master
+$0036997D 00000001
++Knight Greaves 2
+%Credits: Code Master
+$00369984 00000001
++Knight Greaves 3
+%Credits: Code Master
+$00369985 00000001
++Leather Boots
+%Credits: Code Master
+$00369978 00000001
++Leather Boots 3
+%Credits: Code Master
+$0036997A 00000001
++Leg Guards
+%Credits: Code Master
+$00369980 00000001
+!!
+!Have Ring Codes:
++Jap Ring?
+%Credits: Code Master
+$00369992 00000001
+!!
+!Have Shield Codes:
++Buckler 2
+%Credits: Code Master
+$00369913 00000001
++Forest Shield
+%Credits: Code Master
+$0036990E 00000001
++Kite Shield 2
+%Credits: Code Master
+$0036991A 00000001
++Knight Shield 2
+%Credits: Code Master
+$00369916 00000001
++Leather Shield
+%Credits: Code Master
+$0036990F 00000001
++Leather Shield 3
+%Credits: Code Master
+$00369911 00000001
++Wooden Shield
+%Credits: Code Master
+$0036990D 00000001
+!!
+!Have Weapon Codes:
++Bastard Sword
+%Credits: Code Master
+$003698E1 00000001
++Blessed Bow
+%Credits: Code Master
+$00369901 00000001
++Broad Sword 2
+%Credits: Code Master
+$003698DF 00000001
++Crescent Ax 2
+%Credits: Code Master
+$003698FE 00000001
++Crossbow 2
+%Credits: Code Master
+$00369903 00000001
++Hand Ax
+%Credits: Code Master
+$003698F5 00000001
++Knight Sword
+%Credits: Code Master
+$003698D4 00000001
++Knight Sword 2
+%Credits: Code Master
+$003698D5 00000001
++Long Bow
+%Credits: Code Master
+$00369900 00000001
++Long Sword
+%Credits: Code Master
+$003698D1 00000001
++Morning Star 2
+%Credits: Code Master
+$003698F8 00000001
++Morning Star 3
+%Credits: Code Master
+$003698F9 00000001
++Pickax
+%Credits: Code Master
+$003698C9 00000001
++Rapier 2
+%Credits: Code Master
+$003698CF 00000001
++Short Sword
+%Credits: Code Master
+$003698CB 00000001
+!!
++Higher FOV
+%Credits: Josh_7774
+$2022D908 3C013FC0
++Infinite Air
+%Credits: InterAct
+$1041404C 00000400
++Infinite HP
+%Credits: InterAct
+$10414034 000003E7
+$10414038 000003E7
++Infinite Physical Gauge
+%Credits: InterAct
+$1041403C 00001388
++L1 + L2 + R1 + R2 + Up For Super Speed Movement, L1 + L2 + R1 + R2 + Down To Disable
+%Credits: Josh_7774
+$D1E0DB02 0000F0EF
+$20413DE0 42400000
+$D1E0DB02 0000F0EF
+$20413DF8 40800000
+$D1E0DB02 0000F0EF
+$20413E10 41000000
+$D1E0DB02 0000F0BF
+$20413DE0 41400000
+$D1E0DB02 0000F0BF
+$20413DF8 3F99999A
+$D1E0DB02 0000F0BF
+$20413E10 40C00000
++Max HP
+%Credits: InterAct
+$10413FA0 000003E7
+$10413FD8 000003E7
++Max MP
+%Credits: InterAct
+$10413FDC 000003E7
+$10413FA4 000003E7
+!Misc. Codes:
++Infinite Air
+%Credits: Code Master
+$2041404C 00001388
+$20414050 00001388
++Infinite Gold
+%Credits: Code Master
+$10413FCC 0000FFFF
++Infinite HP
+%Credits: Code Master
+$10414034 000003E7
++Infinite MP
+%Credits: Code Master
+$10414038 000003E7
++Infinite Physical Gauge
+%Credits: Code Master
+$2041403C 00001388
++Max EXP
+%Credits: Code Master
+$10413FD0 05F5E0FF
++Max Gold
+%Credits: Code Master
+$20413FCC 05F5E0FF
++Max HP
+%Credits: Code Master
+$10413FD8 000003E7
++Max Magical
+%Credits: Code Master
+$10413FAC 000003E7
++Max MP
+%Credits: Code Master
+$10413FDC 000003E7
++Max Physical
+%Credits: Code Master
+$10413FA8 000003E7
++Quick Level Gain
+%Credits: Code Master
+$10413FD0 0000FFFF
+!!
++Quick Level Gain
+%Credits: InterAct
+$20413FD0 05F5E0FF
+![ASM]:
++Buying Stuff Doesn't Decrease Gold [ASM]
+%Credits: Josh_7774
+$201EA2E0 00000000
++Cannot Be Darked [ASM]
+%Credits: Josh_7774
+$201B2DD4 00000000
++Cannot Be Paralyzed [ASM]
+%Credits: Josh_7774
+$201B2D54 00000000
++Cannot Be Poisoned [ASM]
+%Credits: Josh_7774
+$201B2CD4 00000000
+$201B923C 00000000
+$201BA2E4 00000000
+$20211AB8 00000000
++Cannot Be Silenced [ASM]
+%Credits: Josh_7774
+$201B2F54 00000000
++Disable Cooldown Timer For Physical Gauge Meter Refill [ASM]
+%Credits: Josh_7774
+$201B726C 00000000
++Enemies Can Be Damaged Again Instantly [ASM]
+%Credits: Josh_7774
+$201B35E8 00000000
++Enemy - Stone Guardians Don't Take Damage [ASM]
+%Credits: Josh_7774
+$201B35D8 00000000
++Falling Too Far Doesn't Temporarily Slow You Down [ASM]
+%Credits: Josh_7774
+$201B93A0 00000000
++Game Doesn't Force Set Max MP [ASM]
+%Credits: Josh_7774
+$201BA3A0 00000000
++Infinite Arrows [ASM]
+%Credits: Josh_7774
+$201B7C38 00000000
++Infinite HP
+%Credits: Josh_7774
+$201BB344 00000000
++Infinite Items In Inventory [ASM]
+%Credits: Josh_7774
+$201BC698 00000000
++Infinite MP [ASM]
+%Credits: Josh_7774
+$201BCAF4 00000000
++Infinite Oxygen [ASM]
+%Credits: Josh_7774
+$201B9570 00000000
++Melee Attacking Doesn't Fully Drain Physical Gauge Meter [ASM]
+%Credits: Josh_7774
+$201B7278 00000000
++No Instant Death From Falling Into Chasms [ASM]
+%Credits: Josh_7774
+$201B909C 00000000
++No Instant Death From Falling Out Of Bounds [ASM]
+%Credits: Josh_7774
+$201B9018 00000000
++No Instant Death From Falling Too Far [ASM]
+%Credits: Josh_7774
+$201BB348 00000000
++Sprinting Doesn't Consume MP Meter [ASM]
+%Credits: Josh_7774
+$201BA008 00000000
++Sprinting Doesn't Consume Physical Gauge Meter [ASM]
+%Credits: Josh_7774
+$201B9F34 00000000
++Switching Magic Spells Doesn't Deplete Mana Meter [ASM]
+%Credits: Josh_7774
+$20101A9C 00000000
++Using Flame Breath Magic Doesn't Fully Drain MP Meter [ASM]
+%Credits: Josh_7774
+$201BD2F8 00000000
++Using Magic Doesn't Fully Drain MP Bar [ASM]
+%Credits: Josh_7774
+$201BCB08 00000000
++View Doesn't Lower When Damaged [ASM]
+%Credits: Josh_7774
+$201B8328 00000000
+!!
+!!
+

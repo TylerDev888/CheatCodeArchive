@@ -1,0 +1,25 @@
+^3 = NAME: Return To Castle Wolfenstein: OR
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 001EDC87
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$200C0000 20010064
+$200C0004 AE2102BC
+$200C0008 03E00008
+$200C000C 8CA30014
+$201B0E98 0C030000
++Armour
+%Credits: Xploder
+$200C0010 0043880A
+$200C0014 20120064
+$200C0018 03E00008
+$200C001C ACD200E8
+$2011885C 0C030004
++Ammunition
+%Credits: Xploder
+$201BC4D8 340203E7
+!!

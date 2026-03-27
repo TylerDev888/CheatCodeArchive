@@ -1,0 +1,14 @@
+^3 = NAME: Aria The Natural (NTSC-J)
+^2 = GameID: SLPM-66536
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9020B260 0C082C40
+!!
++Boot To Debug Menu
+%Credits: punk7890
+$0014CEE0 00000000
+$D047E782 0000FFFE
+$202741DC 00000000
+!!
+

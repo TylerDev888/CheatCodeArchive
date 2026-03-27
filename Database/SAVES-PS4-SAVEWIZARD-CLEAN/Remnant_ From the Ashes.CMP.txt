@@ -1,0 +1,13 @@
+^2 = GameID: CUSA10507,CUSA13830,CUSA19602
+^3 = NAME: Remnant: From the Ashes
+^5 = APCRED:༼༻_Almighty_༺༽)
+^4 = FILE: ue4savegame\.ps4\.sav
+(Untested - Make sure to backup your save data first)
++Max Glowing Fragments (9999)
+$80010005 0F000100
+$04616C6D 00000000
+$1800000D 0000270F
++Hardcore Mode
+$800D0005 2B000100
+$04000000 616C6D00
+$1800000D 0000270F

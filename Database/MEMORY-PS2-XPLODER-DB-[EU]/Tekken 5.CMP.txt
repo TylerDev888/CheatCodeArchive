@@ -1,0 +1,74 @@
+^3 = NAME: Tekken 5
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 0000000E
+!!
+!Infinite:
++Time
+%Credits: Xploder
+$203BCA14 00001FFF
++Fight Money
+%Credits: Xploder
+$203F8BD8 05F5E0FF
+!!
+!Player One:
++Infinite Health
+%Credits: Xploder
+$103BD2CE 00000091
++One Hit Kill
+%Credits: Xploder
+$D03BDB9E 00300001
+$103BDB9E 00000001
+!!
+!Player Two:
++Infinite Health
+%Credits: Xploder
+$103BDB9E 00000091
++One Hit Kill
+%Credits: Xploder
+$D03BD2CE 00300001
+$103BD2CE 00000001
+!!
+!Unlock:
++Characters
+%Credits: Xploder
+$203F8B08 FFFFFFFF
++Movies
+%Credits: Xploder
+$203F8B10 FFFFFFFF
+!!
+!Story Mode:
++Start On Level 2
+%Credits: Xploder
+$D03BC538 00000000
+$103BC538 00000001
++Start On Level 3
+%Credits: Xploder
+$D03BC538 00000000
+$103BC538 00000002
++Start On Level 4
+%Credits: Xploder
+$D03BC538 00000000
+$103BC538 00000003
++Start On Level 5
+%Credits: Xploder
+$D03BC538 00000000
+$103BC538 00000004
++Start On Level 6
+%Credits: Xploder
+$D03BC538 00000000
+$103BC538 00000005
++Start On Level 7
+%Credits: Xploder
+$D03BC538 00000000
+$103BC538 00000006
++Start On Level 8
+%Credits: Xploder
+$D03BC538 00000000
+$103BC538 00000007
++Start On Final Level{(NOTE: Choose Only One Starting Level)}
+%Credits: Xploder
+$D03BC538 00000000
+$103BC538 00000008
+!!

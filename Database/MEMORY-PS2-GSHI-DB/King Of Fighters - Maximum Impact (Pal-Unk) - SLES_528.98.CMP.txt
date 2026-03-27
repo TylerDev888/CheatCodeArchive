@@ -1,0 +1,61 @@
+^3 = NAME: King Of Fighters - Maximum Impact (Pal-Unk)
+^2 = GameID: SLES-52898
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0113EB4 00113EB7
+!!
+!Extended Health Codes:
++Eight Times Normal Amount
+%Credits: Codejunkies
+$2035A418 240E0640
+$2035A384 24030640
++Four Times Normal Amount
+%Credits: Codejunkies
+$2035A418 240E0320
+$2035A384 24030320
++Gladitorial Matches
+%Credits: Codejunkies
+$2035A418 240E0FA0
+$2035A384 24030FA0
++Marathon Matches
+%Credits: Codejunkies
+$2035A418 240E0960
+$2035A384 24030960
++Twice Normal Amount
+%Credits: Codejunkies
+$2035A418 240E0190
+$2035A384 24030190
+!!
+!Health Codes:
++1 Hit Knock Out
+%Credits: Codejunkies
+$105E98EC 00000001
++1 Hit Knock Out
+%Credits: Codejunkies
+$105E99F4 00000001
++Infinite Guard
+%Credits: Codejunkies
+$005E99F8 0000000F
++Infinite Health
+%Credits: Codejunkies
+$105E98EC 000000C8
++Infinite Health
+%Credits: Codejunkies
+$105E99F4 000000C8
++Player 1 Infinite Guard
+%Credits: Codejunkies
+$005E98F0 0000000F
+!!
+!Power Gauge:
++Never Fill Power Gauge
+%Credits: Codejunkies
+$005E98F2 00000000
++Never Fill Power Gauge
+%Credits: Codejunkies
+$005E99FA 00000064
++Quick Fill Power Gauge
+%Credits: Codejunkies
+$005E98F2 00000064
+!!
+

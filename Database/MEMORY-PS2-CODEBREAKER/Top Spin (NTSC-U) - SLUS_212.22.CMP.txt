@@ -1,0 +1,51 @@
+^1 = HASH: D8BBFFF3
+^3 = NAME: Top Spin
+^2 = GameID: SLUS_212.22
+!Masters:
++Enable Code (Must Be On) [Read Note]
+%Credits: Code Master
+$90133F20 00832021
+!!
+!Codes:
++Display FPS
+%Credits: Code Master
+$2059073C 00000001
++Display Memory Usage
+%Credits: Code Master
+$20590744 00000001
++All Points Score For Team 1
+%Credits: Code Master
+$E001802D 0062ECD4
+$2062ECF4 24050000
++All Points Score For Team 2
+%Credits: Code Master
+$E001802D 0062ECD4
+$2062ECF4 24050001
++Score Once To Win
+%Credits: Code Master
+$E001802D 0062ECD4
+$2062ED2C 24020004
++All Matches Score For Team 1
+%Credits: Code Master
+$E001802D 0062EB78
+$2062EB8C 24420000
++All Matches Score For Team 2
+%Credits: Code Master
+$E001802D 0062EB78
+$2062EB8C 24420001
+!!
+!Career Mode Codes:
++Buying Shop Items Doesnt Decrease Coins
+%Credits: Code Master
+$E001282D 006F4700
+$206F472C 00000000
++Buying Shop Items Increases Coins
+%Credits: Code Master
+$E001282D 006F4700
+$206F4728 00621021
++Buying Shop Items Increases Coins To Max
+%Credits: Code Master
+$E002282D 006F4700
+$206F4718 3C0205F5
+$206F4728 3442E0FF
+!!

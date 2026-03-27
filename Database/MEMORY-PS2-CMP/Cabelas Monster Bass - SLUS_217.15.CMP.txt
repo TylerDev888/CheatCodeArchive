@@ -1,0 +1,28 @@
+^1 = Hash: BC 8E 44 6E B9 34 B3 3B E6 C6 B0 8E C7 DC 20 31 2F D8 07 FE
+^2 = GameID: SLUS_217.15
+^3 = NAME: Cabelas Monster Bass
+!Masters:
++Enable Code (MUST BE ON)
+$9011ED38 0C047AF6
+!!
++Freeze Time
+%Credits: Azagthoth>SkillerCMP
+$204692C4 00000000
+Infinite Time (Alt){Must have CB V.7+, this should set your time to 30:00}
+%Credits: Azagthoth>SkillerCMP
+$606B6410 41F00000
+$00020001 000000F4
+$606B6410 00000000
+$00020001 000000F8
++Freeze Fish
+%Credits: Azagthoth>SkillerCMP
+$006BABC8 00000001
++Skeleton Mode
+%Credits: Azagthoth>SkillerCMP
+$00693B38 00000001
++Freeze Fish (alt)
+%Credits: Azagthoth>SkillerCMP
+$104E8B5C 00000001
++Skeleton Mode (alt)
+%Credits: Azagthoth>SkillerCMP
+$10355700 00000001

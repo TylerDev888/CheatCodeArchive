@@ -1,0 +1,9 @@
+^2 = GameID: CUSA01587,CUSA02811
+^3 = NAME: Shantae: Risky's Revenge
+^5 = APCRED: checksum by Zhaxxy
+^4 = FILE: savedata.sav
++Update Jhash Savedata.dat (required)
+$set range:0x027C,0x048F
+$set [csum]:jhash
+$set [csum]:endian_swap
+$write at 0x0278:[csum]

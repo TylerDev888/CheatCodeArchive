@@ -1,0 +1,275 @@
+^3 = NAME: Strike Force Bowling (Ntsc-U)
+^2 = GameID: SLUS-20846
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0240B4C 00240B4F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00240B4F
++[M] Must Be On
+%Credits: MadCatz
+$90240B4C 0C093EA9
+!!
+!Accuracy Codes:
++Max Standard Accuracy
+%Credits: Codejunkies
+$203773FC 00000014
++Super Accuracy
+%Credits: Codejunkies
+$203773FC 00000032
++Unbelievable Accuracy
+%Credits: Codejunkies
+$203773FC 00000064
+!!
+!Challenge Codes:
++Always 1St Attemp (All Players)
+%Credits: Code Master
+$2013A0B0 00000000
++Always 1St Attempt P1
+%Credits: Code Master
+$203D3760 00000000
++Always 1St Attempt P2
+%Credits: Code Master
+$203D892C 00000000
++Always 1St Attempt P3
+%Credits: Code Master
+$203DDAF8 00000000
++Always 1St Attempt P4
+%Credits: Code Master
+$203E2CC4 00000000
++Start On Attempted Modifier P1
+%Credits: Code Master
+$D03D3760 00000000
+$203D3760 000000??
++Start On Attempted Modifier P2
+%Credits: Code Master
+$D03D892C 00000000
+$203D892C 000000??
++Start On Attempted Modifier P3
+%Credits: Code Master
+$D03DDAF8 00000000
+$203DDAF8 000000??
++Start On Attempted Modifier P4
+%Credits: Code Master
+$D03E2CC4 00000000
+$203E2CC4 000000??
+!!
+!Character Creation Codes:
++Max Curve
+%Credits: Code Master
+$20377400 00000014
++Max Strength
+%Credits: Code Master
+$203773F8 00000014
++Super Max Curve
+%Credits: Code Master
+$20377400 00000064
++Super Max Strength
+%Credits: Code Master
+$203773F8 00000064
++Ultra Max Accuracy
+%Credits: Code Master
+$203773FC 000000C8
++Ultra Max Curve
+%Credits: Code Master
+$20377400 000000C8
++Ultra Max Strength
+%Credits: Code Master
+$203773F8 000000C8
+!!
+!Curve Codes:
++Super Curve
+%Credits: Codejunkies
+$20377400 00000032
+!!
+!Don't Use With The Following Codes With Any Other Character Code!:
++Mega Fast Balls
+%Credits: MadCatz
+$200C2000 341B00FF
+$200C2004 0805B39F
+$200C2008 AC5B0000
+$2016CE78 08030800
+$2016D710 00000000
++Super Fast Balls
+%Credits: MadCatz
+$200C2000 341B0063
+$200C2004 0805B39F
+$200C2008 AC5B0000
+$2016CE78 08030800
+$2016D710 00000000
++Unlock All Levels/Characters
+%Credits: MadCatz
+$407DDA58 00140001
+$00000001 00000000
+!!
+!Enable Characters:
++7-10
+%Credits: Codejunkies
+$207DDAA0 00000001
++Bones
+%Credits: Codejunkies
+$207DDA98 00000001
++Newton
+%Credits: Codejunkies
+$207DDA9C 00000001
+!!
+!Enable Levels:
++Alien Bowl
+%Credits: Codejunkies
+$207DDA5C 00000001
++Egyptian Night
+%Credits: Codejunkies
+$207DDA74 00000001
++Jungle Night
+%Credits: Codejunkies
+$207DDA94 00000001
++Martian Base
+%Credits: Codejunkies
+$207DDA84 00000001
++Mideival Night
+%Credits: Codejunkies
+$207DDA7C 00000001
++Night Ship
+%Credits: Codejunkies
+$207DDA64 00000001
++Tropical Night
+%Credits: Codejunkies
+$207DDA6C 00000001
++Western Night
+%Credits: Codejunkies
+$207DDA8C 00000001
+!!
+!Golf:
++Always 2Nd Shot-Golf
+%Credits: Codejunkies
+$203D3704 00000001
++Always 2Nd Shot-Golf
+%Credits: Codejunkies
+$203D88D0 00000001
++Always 2Nd Shot-Golf
+%Credits: Codejunkies
+$203DDA9C 00000001
++Always 2Nd Shot-Golf
+%Credits: Codejunkies
+$203E2C68 00000001
++Always 3Rd Shot-Golf
+%Credits: Codejunkies
+$203D3704 00000002
++Always 3Rd Shot-Golf
+%Credits: Codejunkies
+$203D88D0 00000002
++Always 3Rd Shot-Golf
+%Credits: Codejunkies
+$203DDA9C 00000002
++Always 3Rd Shot-Golf
+%Credits: Codejunkies
+$203E2C68 00000002
++Always 4Th Shot-Golf
+%Credits: Codejunkies
+$203D3704 00000003
++Always 4Th Shot-Golf
+%Credits: Codejunkies
+$203D88D0 00000003
++Always 4Th Shot-Golf
+%Credits: Codejunkies
+$203DDA9C 00000003
++Always 4Th Shot-Golf
+%Credits: Codejunkies
+$203E2C68 00000003
++Always Hole In One-Golf
+%Credits: Codejunkies
+$203D3704 00000000
++Always Hole In One-Golf
+%Credits: Codejunkies
+$203D88D0 00000000
++Always Hole In One-Golf
+%Credits: Codejunkies
+$203DDA9C 00000000
++Always Hole In One-Golf
+%Credits: Codejunkies
+$203E2C68 00000000
+!!
+!Golf Codes:
++Always 9 Strokes Recorded P1
+%Credits: Code Master
+$203D3704 00000009
++Always 9 Strokes Recorded P2
+%Credits: Code Master
+$203D88D0 00000009
++Always 9 Strokes Recorded P3
+%Credits: Code Master
+$203DDA9C 00000009
++Always 9 Strokes Recorded P4
+%Credits: Code Master
+$203E2C68 00000009
++Max Score P1
+%Credits: Code Master
+$203D3710 05F5E0FF
++Max Score P2
+%Credits: Code Master
+$203D88DC 05F5E0FF
++Max Score P3
+%Credits: Code Master
+$203DDAA8 05F5E0FF
++Max Score P4
+%Credits: Code Master
+$203E2C74 05F5E0FF
++No Score P1
+%Credits: Code Master
+$203D3710 00000000
++No Score P2
+%Credits: Code Master
+$203D88DC 00000000
++No Score P3
+%Credits: Code Master
+$203DDAA8 00000000
++No Score P4
+%Credits: Code Master
+$203E2C74 00000000
++Quick Score Gain P1
+%Credits: Code Master
+$103D3710 0000FFFF
++Quick Score Gain P2
+%Credits: Code Master
+$103D88DC 0000FFFF
++Quick Score Gain P3
+%Credits: Code Master
+$103DDAA8 0000FFFF
++Quick Score Gain P4
+%Credits: Code Master
+$103E2C74 0000FFFF
++Shots Never Recorded (All Players)
+%Credits: Code Master
+$2014FC4C 00000000
+!!
+!Strength Codes:
++Super Strength
+%Credits: Codejunkies
+$203773F8 00000032
+!!
+!Unlock Character Codes:
++All Characters
+%Credits: Code Master
+$407DDA98 00030001
+$00000001 00000000
+!!
+!Unlock Hidden Stage Codes:
++All Stages
+%Credits: Code Master
+$407DDA5C 00080002
+$00000001 00000000
+!!
++Max Stats (All Characters)
+%Credits: MadCatz
+$200C2000 341B0015
+$200C2004 0805B39F
+$200C2008 AC5B0000
+$2016CE78 08030800
+$2016D710 00000000
++Unlock All Hidden Stages & Characters
+%Credits: Code Master
+$407DDA58 00130001
+$00000001 00000000
+!!
+

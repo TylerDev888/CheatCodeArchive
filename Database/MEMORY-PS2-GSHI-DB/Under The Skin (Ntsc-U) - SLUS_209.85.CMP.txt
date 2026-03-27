@@ -1,0 +1,157 @@
+^3 = NAME: Under The Skin (Ntsc-U)
+^2 = GameID: SLUS-20985
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01AF7AC 001AF7AF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001AF7C3
++[M] Must Be On
+%Credits: MadCatz
+$9018C754 0C06BDD2
+$200C2000 3402270F
+$200C2004 0805AB9C
+$200C2008 A6022B34
+!!
++All Items Are Unlimited With These Below Codes {<I>00 - Golden Hammer (Can&#39;T Be Used If You Aren&#39;T Disguised) 01 - Bruiser 02 - Vanishing Capsule 03 - Gun 04 - T-Rex 05 - Rocketlauncher 06 - Camera 07 - Fire Bowling Ball 08 - Holy Circle (It Will Freeze The Game If You Use It On Any Level Other Than Pranksylvania) 09 - In-Line Skates 0A - Karaoke 0B - Tacks 0C - Electro Bomb 0D - Remote Bomb (You Can&#39;T Detonate Them Unless One Of Your Items Is The Remote Switch) 0E - Pie 0F - Remote Switch (Detonates Nothing If You Have No Remote Bombs Set) 10 - Virus 11 - Tank 12 - Hula Hoop 13 - Tornado 14 - Fireworks 15 - ???? (The Question Mark Random Item, Can&#39;T Be Used Unless Only 1 Item Is Set To This And No Other Items Are Set, But It Will Work With A Joker Command) 16 - Torch (Doesn&#39;T Work Without A Disguise) 17 - Fart 18 - Elephant 19 - Bowling Ball 1A - Laser Gun 1B - Cannon (Stretches Your Character In A Goofy Way When You Aren&#39;T Disguised) 1C - Position Switcher 1D - Vacuum 1E - Coin Color Switcher 1F - Boxing Glove 20 - Hamburger 21 - Bruce 22 - Cosmiman (It Seems To Mix It&#39;S Model With Your Character&#39;S 23 - Warp (Stretches Your Head Higher If You Aren&#39;T Disguised) 24 - Volcanic Blast 25 - Mob Attack 26 - Lasso 27 - UFO Call 28 - Grudge Missile 29 - Golden Armor (Model Mixes With Your Character If You Don&#39;T Have A Disguise) 2A - Magnet Hands 2B - Duel 2C - Double Coins  And These 2 Joker Commands Are CMX&#39;S Codes. They Are Useful For Switching Item Digits. Player 1 Joker Command D091e502 0000Ffff Player 2 Joker Command D091e602 0000Ffff</I>}
+%Credits: bungholio
+!Have Story Mode Trophy Codes:
++All Levels
+%Credits: Code Master
+$7088B222 000000FF
++Big Booty Bay
+%Credits: Code Master
+$7088B222 00000010
++Coco Town
+%Credits: Code Master
+$7088B222 00000001
++Cosmopolis
+%Credits: Code Master
+$7088B222 00000040
++Frontiersville
+%Credits: Code Master
+$7088B222 00000008
++High Stakes Hills
+%Credits: Code Master
+$7088B222 00000080
++Pharoah Island
+%Credits: Code Master
+$7088B222 00000002
++Pranksylvania
+%Credits: Code Master
+$7088B222 00000020
++Raccoon City
+%Credits: Code Master
+$7088B222 00000004
+!!
+!Player 1 Codes:
++Press L1+L2 For 9999 Yellow Coins
+%Credits: Codejunkies
+$D191E502 0000FAFF
+$20888480 0000270F
+$D191E502 0000FAFF
+$20888484 0000270F
+!!
+!Player 2/Opponent 1 Codes:
++Press R1+R2 For 0 Yellow Coins
+%Credits: Codejunkies
+$D191E502 0000F5FF
+$2088B004 00000000
+$D191E502 0000F5FF
+$1088B272 00000000
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Infinite Time
+%Credits: Code Master
+$2017AEF0 00000000
++Max Coins P1
+%Credits: Code Master
+$20888484 0000270F
++Max Coins P2
+%Credits: Code Master
+$2088B004 0000270F
++No Coins P1
+%Credits: Code Master
+$20888484 00000000
++No Coins P2
+%Credits: Code Master
+$2088B004 00000000
++P1 Press L1+Select To Stop Timer
+%Credits: Code Master
+$D091E502 0000FBFE
+$2017AEF0 00000000
++P1 Press L2+Select To Restart Timer
+%Credits: Code Master
+$D091E502 0000FEFE
+$2017AEF0 ACC50748
++P1 Press R1+Select For Max Coins P1
+%Credits: Code Master
+$D091E502 0000F7FE
+$20888484 0000270F
++P1 Press R2+Select For No Coins P2
+%Credits: Code Master
+$D091E502 0000FDFE
+$2088B004 00000000
++P2 Press L1+Select To Stop Timer
+%Credits: Code Master
+$D091E602 0000FBFE
+$2017AEF0 00000000
++P2 Press L2+Select To Restart Timer
+%Credits: Code Master
+$D091E602 0000FEFE
+$2017AEF0 ACC50748
++P2 Press R1+Select For Max Coins P2
+%Credits: Code Master
+$D091E602 0000F7FE
+$2088B004 0000270F
++P2 Press R2+Select For No Coins P1
+%Credits: Code Master
+$D091E602 0000FDFE
+$20888484 00000000
++Unlock Everything
+%Credits: Code Master
+$2088B7B8 FFFFFFFF
+$2088B7BC FFFFFFFF
+!!
+008882B4 000000??
+P1 Item 2 Modifier (Top Left Item)
+008882B5 000000??
+P1 Item 3 Modifier (Bottom Left Item)
+008882B6 000000??
+P1 Item 4 Modifier (Bottom Right Item)
+008882B7 000000??
+P1 Item 5 Modifier (Top Right Item)
+008882B8 000000??
+P2 Item 1 Modifier (Top Item)
+0088AE34 000000??
+P2 Item 2 Modifier (Top Left Item)
+0088AE35 000000??
+P2 Item 3 Modifier (Bottom Left Item)
+0088AE36 000000??
+P2 Item 4 Modifier (Bottom Right Item)
+0088AE37 000000??
+P2 Item 5 Modifier (Top Right Item)
+0088AE38 000000??
++Collect 1 Coin For Instant Win
+%Credits: MadCatz
+$2016AE6C 08030800
++Infinite Time
+%Credits: MadCatz
+$2017AEE8 24E50000
++P1 Health Modifier {<I>Health Digits: 0 - No Health, You&#39;Re Always An Alien And You Lose Your Disguise The Instant You Get It. 1 - 1/2 Health State Where Your Character Is Missing Half It&#39;S Clothes. 2 - Always Full Health.</I>}
+%Credits: bungholio
+$20888294 0000000?
++P2 Health Modifier {<I>Health Digits:<Br>0 - No Health, You&#39;Re Always An Alien And You Lose Your Disguise The Instant You Get It.<Br>1 - 1/2 Health State Where Your Character Is Missing Half It&#39;S Clothes.<Br>2 - Always Full Health.</I>}
+%Credits: bungholio
+$2088AE14 0000000?
++Press L1+R1 For Time's Up
+%Credits: Codejunkies
+$D191E502 0000F3FF
+$2089AA88 00000001
++Press L2+R2 For More Time
+%Credits: Codejunkies
+$D191E502 0000FCFF
+$2089AA88 00004639
+!!
+

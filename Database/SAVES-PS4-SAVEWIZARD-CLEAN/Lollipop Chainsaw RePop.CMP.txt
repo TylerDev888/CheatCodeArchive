@@ -1,0 +1,26 @@
+^2 = GameID: CUSA48704
+^3 = NAME: Lollipop Chainsaw RePop
+^SECONDLAYER: NO
+^4 = FILE: lollipop\ue4savegame.ps4.sav
+{{<div style="border:2px solid #b30000;background:#ffe6e6;padding:10px;border-radius:8px;"><div style="color:#b30000;font-weight:800;font-size:20px;margin-bottom:6px;">⚠️ WARNING</div><div>Some levels have specific minigames and cutscenes that you <b>MUST</b> pass on the first try, otherwise you can get stuck on an <b>infinite loading black screen</b> with no way out. This likely happens because the game normally restarts failed events with reduced health, but with this code giving you thousands of units, the check seems to fail.<br><br>If this happens: press the <b>PS</b> button and <b>quit the game entirely</b>. From the PS main screen, launch the game again and continue from the title screen. It should return you to the <b>last checkpoint</b> in the mission.</div></div>}}
++Super Max Nick Routlette tickets{<ul><li><b>Note 1:</b> This code may reset at different points in the game (I couldn’t determine exactly what triggers it, but it seems random). Simply reapply it. It should work as soon as you have <b>1</b>, but it’s safer if you <b>max them out in the shop first</b>.</li></ul>}
+%Credits: Zeraf3000
+$8001000D 53746F72
+$794D6F64 65446174
+$61000000 00000000
+$88010011 4E69636B
+$526F756C 65747465
+$436F756E 74000000
+$8801000B 496E7450
+$726F7065 72747900
+$28000015 0000270F
++Super Max Health{<ul><li><b>Note 2:</b> Upgrade health to max in the shop first, then apply this code. When you load back in, your health will appear <b>red</b> (like you’re about to die), which indicates it worked. Heal up with a lollipop or two. In battle, you should take damage without your health decreasing. If you ever start losing health, just use another lollipop.</li></ul>}
+%Credits: Zeraf3000
+$8001000E 506F7765
+$72557041 62696C69
+$74790000 00000000
+$8801000B 496E7450
+$726F7065 72747900
+$28000011 00FFFFFF
+
+

@@ -1,0 +1,244 @@
+^3 = NAME: True Crime - Streets Of L.A. (Pal-Uk)
+^2 = GameID: SLES-51753
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F010B5B4 0010B5B7
+!!
+!AR2:
++All Combat Moves
+%Credits: Codejunkies
+$1075D4E4 0000FFFF
++All Driving Upgrades
+%Credits: Codejunkies
+$1075DC1C 0000FFFF
++All Guns & Gun Upgrades
+%Credits: Codejunkies
+$1075DB88 0000FFFF
++Extra Cars In Impound Lot
+%Credits: Codejunkies
+$0075DC24 00000003
++Max Badges
+%Credits: Codejunkies
+$1049F484 0000270F
++Press L3 For More Mission Time
+%Credits: Codejunkies
+$D0497222 0000FFFD
+$2075D260 000AF4DC
+$D0497222 0000FFFD
+$2075D268 000AF4DC
++Press R3 For No More Mission Time
+%Credits: Codejunkies
+$D0497802 0000FFFB
+$2075D960 00000000
+$D0497802 0000FFFB
+$2075D968 00000000
++Quick Badge Increase
+%Credits: Codejunkies
+$1049F480 00000063
++Show Coordinates
+%Credits: Codejunkies
+$00479788 00000001
+!!
+!Character Modifiers:
++Play As Asian Worker
+%Credits: Codejunkies
+$1075DA28 0000000B
++Play As Dirty Cook
+%Credits: Codejunkies
+$1075DA28 00000011
++Play As Dropdead Fred
+%Credits: Codejunkies
+$1075DA28 0000000F
++Play As George
+%Credits: Codejunkies
+$1075DA28 00000001
++Play As Heavyweight Champ
+%Credits: Codejunkies
+$1075DA28 00000008
++Play As Jackass Jay
+%Credits: Codejunkies
+$1075DA28 0000000D
++Play As Jimmy
+%Credits: Codejunkies
+$1075DA28 00000010
++Play As Naked Tattoo Lady
+%Credits: Codejunkies
+$1075DA28 00000013
++Play As Officer Johnson
+%Credits: Codejunkies
+$1075DA28 00000003
++Play As Ollie The Magic Bum
+%Credits: Codejunkies
+$1075DA28 00000007
++Play As Pink Chick
+%Credits: Codejunkies
+$1075DA28 00000006
++Play As Puma Punk
+%Credits: Codejunkies
+$1075DA28 0000000E
++Play As Rosie
+%Credits: Codejunkies
+$1075DA28 0000000C
++Play As S&M Rosie
+%Credits: Codejunkies
+$1075DA28 00000014
++Play As Sniper: Commando
+%Credits: Codejunkies
+$1075DA28 00000005
++Play As Soopafly
+%Credits: Codejunkies
+$1075DA28 00000012
++Play As Street Thug: Corn Rows
+%Credits: Codejunkies
+$1075DA28 00000009
++Play As Swat: Ball Cap
+%Credits: Codejunkies
+$1075DA28 00000004
++Play As The Chief
+%Credits: Codejunkies
+$1075DA28 00000002
++Play As Vato Loco
+%Credits: Codejunkies
+$1075DA28 0000000A
+!!
+!Combat Stat Codes:
++Max Attacks Connected
+%Credits: Codejunkies
+$2075D504 05F5E0FF
++Max Grapples Performed
+%Credits: Codejunkies
+$2075D4FC 05F5E0FF
++Max Hits Blocked
+%Credits: Codejunkies
+$2075D514 05F5E0FF
++Max Jump-Kicks/Combos
+%Credits: Codejunkies
+$2075D500 05F5E0FF
++Max Kicks Performed
+%Credits: Codejunkies
+$2075D4F8 05F5E0FF
++Max Punches Performed
+%Credits: Codejunkies
+$2075D4F4 05F5E0FF
++No Defeats
+%Credits: Codejunkies
+$2075D42C 00000000
++No Hits Received
+%Credits: Codejunkies
+$2075D510 00000000
+!!
+!Cop Stat Codes:
++Max Citizens Guilty
+%Credits: Codejunkies
+$2075D43C 05F5E0FF
++Max Citizens Inspected
+%Credits: Codejunkies
+$2075D438 05F5E0FF
++Max Crime Alerts
+%Credits: Codejunkies
+$2075D464 05F5E0FF
++Max Crimes Pursued
+%Credits: Codejunkies
+$2075D46C 05F5E0FF
++Max Good Deeds
+%Credits: Codejunkies
+$2075D424 05F5E0FF
++Max Perps Apprehended
+%Credits: Codejunkies
+$2075D434 05F5E0FF
++Max Perps Engaged
+%Credits: Codejunkies
+$2075D430 05F5E0FF
++Max Points Charged
+%Credits: Codejunkies
+$2075D41C 05F5E0FF
++Max Points Earned
+%Credits: Codejunkies
+$2075D418 05F5E0FF
++Max Total Points
+%Credits: Codejunkies
+$2075D414 05F5E0FF
++No Bad Deeds
+%Credits: Codejunkies
+$2075D428 00000000
++No Citizens Innocent
+%Credits: Codejunkies
+$2075D440 00000000
+!!
+!Driving Stat Codes:
++Max Driving Time/Speed
+%Credits: Codejunkies
+$2075D53C F0000000
++Max Maneuvers Performed
+%Credits: Codejunkies
+$2075D554 05F5E0FF
++Max Miles Driven
+%Credits: Codejunkies
+$2075D540 51000006
++Max Vehicles Totaled
+%Credits: Codejunkies
+$2075D528 05F5E0FF
++No Citizens Run Over
+%Credits: Codejunkies
+$2075D550 00000000
+!!
+!Gunplay Stat Codes:
++Max Bullets Fired
+%Credits: Codejunkies
+$2075D4B0 05F5E0FF
++Max Bullets Hit
+%Credits: Codejunkies
+$2075D4B8 05F5E0FF
++Max Gas Tank Shots
+%Credits: Codejunkies
+$2075D4E0 05F5E0FF
++Max Head Shots
+%Credits: Codejunkies
+$2075D4C8 05F5E0FF
++Max Limb Hits
+%Credits: Codejunkies
+$2075D4CC 05F5E0FF
++Max Perps Shot
+%Credits: Codejunkies
+$2075D444 05F5E0FF
++Max Precision Shots
+%Credits: Codejunkies
+$2075D4C4 05F5E0FF
++Max Tyre Hits
+%Credits: Codejunkies
+$2075D4DC 05F5E0FF
++No Citizens Shot
+%Credits: Codejunkies
+$2075D448 00000000
+!!
++All Driving Upgrades
+%Credits: Codejunkies
+$1075D51C 0000FFFF
++All Guns & Gun Upgrades
+%Credits: Codejunkies
+$1075D488 0000FFFF
++Disable Car Damage
+%Credits: Codejunkies
+$2036D008 03E00008
+$2036D00C 00000000
++Extra Cars In Impound Lot
+%Credits: Codejunkies
+$0075D524 00000003
++Infinite Health
+%Credits: Codejunkies
+$20228B98 ACC101D0
++Press L3 For Disable Mission Time (R3 To Stop The Code)
+%Credits: Codejunkies
+$D0497222 0000FFFD
+$201FBFA0 03E00008
+$D0497222 0000FFFB
+$201FBFA0 8C8201DC
++Press R3 For No Mission Time
+%Credits: Codejunkies
+$D0497222 0000FFFB
+$2075D260 00000000
+$D0497222 0000FFFB
+$2075D268 00000000
+!!
+

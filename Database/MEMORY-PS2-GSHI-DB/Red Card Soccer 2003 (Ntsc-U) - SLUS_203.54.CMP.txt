@@ -1,0 +1,199 @@
+^3 = NAME: Red Card Soccer 2003 (Ntsc-U)
+^2 = GameID: SLUS-20354
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0158028 00112E9F
++(M) Must Be On
+%Credits: Codejunkies
+$F0112E9C 00112E9F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00112E9F
+!!
+!Away Side Team Modifier:
++Apes
+%Credits: Codejunkies
+$108A16B8 00000033
++Dolphins
+%Credits: Codejunkies
+$108A16B8 00000036
++Kraken
+%Credits: Codejunkies
+$108A16B8 00000039
++Martians
+%Credits: Codejunkies
+$108A16B8 00000037
++Matadors
+%Credits: Codejunkies
+$108A16B8 00000038
++Negiseti
+%Credits: Codejunkies
+$108A16B8 0000003A
++Samurai
+%Credits: Codejunkies
+$108A16B8 0000003B
++Swat
+%Credits: Codejunkies
+$108A16B8 0000003C
++Tonatiuh
+%Credits: Codejunkies
+$108A16B8 00000034
++Xochicalco
+%Credits: Codejunkies
+$108A16B8 00000035
+!!
+!Away Team Score Codes:
++First Away Team Goal Is Worth 5 Goals
+%Credits: Codejunkies
+$D03E38EC 00000001
+$103E38EC 00000005
++First Home Team Goal Is Worth 5 Goals
+%Credits: Codejunkies
+$D03E38D8 00000001
+$103E38D8 00000005
++Never Score More Than 1 Goal
+%Credits: Codejunkies
+$E0010001 303E38EC
+$103E38EC 00000001
++Never Score More Than 2 Goals
+%Credits: Codejunkies
+$E0010002 303E38EC
+$103E38EC 00000002
++Never Score More Than 3 Goals
+%Credits: Codejunkies
+$E0010003 303E38EC
+$103E38EC 00000003
++No Time
+%Credits: Codejunkies
+$203E3858 FFFFFFFF
++Score 0
+%Credits: Codejunkies
+$103E38EC 00000000
++Score 20
+%Credits: Codejunkies
+$103E38EC 00000014
+!!
++Away Team Score Modifier
+%Credits: Code Master
+$103E38EC 0000????
++Away Team Start With Goals Modifier
+%Credits: Code Master
+$D03E38EC 00000000
+$103E38EC 0000????
+!Customize Team Codes:
++Max Defense
+%Credits: InterAct
+$10855958 00000064
++Max Morale
+%Credits: InterAct
+$10855970 00000064
++Max Offense
+%Credits: InterAct
+$10855950 00000064
++Max Speed
+%Credits: InterAct
+$10855968 00000064
++Max Stamina
+%Credits: InterAct
+$10855960 00000064
+!!
+!Home Side Team Modifier:
++Apes
+%Credits: Codejunkies
+$108A16B4 00000033
++Dolphins
+%Credits: Codejunkies
+$108A16B4 00000036
++Kraken
+%Credits: Codejunkies
+$108A16B4 00000039
++Martians
+%Credits: Codejunkies
+$108A16B4 00000037
++Matadors
+%Credits: Codejunkies
+$108A16B4 00000038
++Negiseti
+%Credits: Codejunkies
+$108A16B4 0000003A
++Samurai
+%Credits: Codejunkies
+$108A16B4 0000003B
++Swat
+%Credits: Codejunkies
+$108A16B4 0000003C
++Tonatiuh
+%Credits: Codejunkies
+$108A16B4 00000034
++Xochicalco
+%Credits: Codejunkies
+$108A16B4 00000035
+!!
+!Home Team Score Codes:
++Never Score More Than 1 Goal
+%Credits: Codejunkies
+$E0010001 303E38D8
+$103E38D8 00000001
++Never Score More Than 2 Goals
+%Credits: Codejunkies
+$E0010002 303E38D8
+$103E38D8 00000002
++Never Score More Than 3 Goals
+%Credits: Codejunkies
+$E0010003 303E38D8
+$103E38D8 00000003
++Score 0
+%Credits: Codejunkies
+$103E38D8 00000000
++Score 20
+%Credits: Codejunkies
+$103E38D8 00000014
+!!
++Home Team Score Modifier
+%Credits: Code Master
+$103E38D8 0000????
++Home Team Start With Goals Modifier
+%Credits: Code Master
+$D03E38D8 00000000
+$103E38D8 0000????
++Infinite Turbo - P1:
+%Credits: InterAct
+$103DCB56 000042C8
++No Turbo - P1:
+%Credits: InterAct
+$103DCB56 00004000
+!Player 1 Turbo Codes:
++Infinite Turbo
+%Credits: Codejunkies
+$103D3356 000042C8
++Never Have More Than 25% Turbo
+%Credits: Codejunkies
+$E00141C8 303D3356
+$103D3356 000041C8
++Never Have More Than 50% Turbo
+%Credits: Codejunkies
+$E0014248 303D3356
+$103D3356 00004248
++No Turbo
+%Credits: Codejunkies
+$103D3356 00004000
+!!
+!Player 2 Turbo Codes:
++Infinite Turbo
+%Credits: Codejunkies
+$103DEE66 000042C8
++Never Have More Than 25% Turbo
+%Credits: Codejunkies
+$E00141C8 303DEE66
+$103DEE66 000041C8
++Never Have More Than 50% Turbo
+%Credits: Codejunkies
+$E0014248 303DEE66
+$103DEE66 00004248
++No Turbo
+%Credits: Codejunkies
+$103DEE66 00004000
+!!
+!!
+

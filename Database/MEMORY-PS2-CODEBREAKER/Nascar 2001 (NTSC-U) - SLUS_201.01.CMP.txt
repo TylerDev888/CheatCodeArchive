@@ -1,0 +1,30 @@
+^1 = HASH: 3D563C06
+^3 = NAME: Nascar 2001
+^2 = GameID: SLUS_201.01
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0020F44B
+!!
+!Codes:
++Infinite Fuel
+%Credits: Code Master
+$200C0220 AC80079C
+$200C0224 03E00008
+$200C0228 C480079C
+$20165948 0C030088
++Tires Never Worn
+%Credits: Code Master
+$201659C4 E4550000
++Infinite Damage
+%Credits: Code Master
+$2012CBE8 00000000
+$2012CC1C 00000000
+$2012CF7C 00000000
++Stop/Start Timer{With This Code, Press L1+Select To Stop The Timer & Press L2+Select To Start The Timer.}
+%Credits: Code Master
+$D03AAA02 0000FBFE
+$201A0E64 00000000
+$D03AAA02 0000FEFE
+$201A0E64 E463000C
+!!

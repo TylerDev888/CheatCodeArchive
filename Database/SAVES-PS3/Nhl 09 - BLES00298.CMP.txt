@@ -1,0 +1,9 @@
+^2 = GameID: BLES00298
+^3 = NAME: NHL 09
+^4 = FILE: SYS-DATA
++Update Crc32 For Sys-data (required)
+(set range:0x1C,0x18015F)
+$set pointer:eof+1
+$set range:0x1C,pointer
+$set [hash]:CRC32
+$write at 0x000010:[hash]

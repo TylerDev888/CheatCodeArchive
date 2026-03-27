@@ -1,0 +1,18 @@
+^2 = GameID: NPUB31512
+^3 = NAME: Rogue Legacy
+^4 = FILE: SAVEDAT0
++Money 999999999
+$Search ".rcdat":5
+$write next (22):FFC99A3B
+$Search ".rcdat":10
+$write next (22):FFC99A3B
++Money 999999999 Edited By Chaoszage
+$Search ".rcdat":5
+$write next 0x16:0xFFC99A3B
+$Search ".rcdat":10
+$write next 0x1E:0xFFC99A3B
++Money 999999999
+$80050002 2E726364
+$2800001E FFC99A3B
+$800A0002 2E726364
+$28000016 FFC99A3B

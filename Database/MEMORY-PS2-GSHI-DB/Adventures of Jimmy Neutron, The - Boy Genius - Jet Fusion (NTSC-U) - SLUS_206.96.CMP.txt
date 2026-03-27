@@ -1,0 +1,51 @@
+^3 = NAME: Adventures Of Jimmy Neutron, The - Boy Genius - Jet Fusion (NTSC-U)
+^2 = GameID: SLUS-20696
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0200008 002B08E3
++[M] Must Be On
+%Credits: MadCatz
+$F0100008 002B09AF
+!!
++Access Exit Level (Pause Menu)
+%Credits: Code Master
+$20314304 00000000
+$2031441C 00000000
++All Movies
+%Credits: MadCatz
+$20203D58 24010001
++Enemies Don't Attack You
+%Credits: Code Master
+$0057DF9F 00000001
++Extra Lives
+%Credits: Code Master
+$102CFB28 00000001
++Gallery
+%Credits: MadCatz
+$209B6614 FFFFFFFF
+$209B6618 FFFFFFFF
+$209B661C FFFFFFFF
++Infinite Battery Pack
+%Credits: Code Master
+$0057DF9E 00000001
++Infinite Battery Power
+%Credits: MadCatz
+$109B6606 00000184
++Infinite Health
+%Credits: MadCatz
+$109B6600 00000003
++Infinite Health
+%Credits: Code Master
+$0057DFA0 00000001
++Infinite Lives
+%Credits: MadCatz
+$109B65FC 00000063
++Infinite Lives
+%Credits: Code Master
+$202CFB30 00000000
++Unlock All Extras
+%Credits: Code Master
+$0057DFA1 00000001
+!!
+

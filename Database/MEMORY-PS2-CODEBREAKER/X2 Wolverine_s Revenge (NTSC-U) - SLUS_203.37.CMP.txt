@@ -1,0 +1,319 @@
+^1 = HASH: 5BE10C03
+^3 = NAME: X2 Wolverine's Revenge
+^2 = GameID: SLUS_203.37
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002B1BAF
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$902B1BAC 0C0B08D8
+!!
+!Codes:
++Infinite Health
+%Credits: Code Master
+$2011BCDC C44000C4
+$2011BCE4 E44000C0
++Infinite Rage{With This Code, If You Are In Rage Mode And Need To Get Out Of It, Hold Select.}
+%Credits: Code Master
+$E002FFFE 103AC142
+$203C48C0 42C80000
+$203C48C4 42C80000
+$E002FFFE 003AC142
+$203C48C0 00000000
+$203C48C4 00000000
++Unlock All Play Movies
+%Credits: Code Master
+$2035F5AC FFFFFFFF
++Disable Fog
+%Credits: Code Master
+$20360774 00000001
+$20360778 3F800000
++Have Cheat Menu (Pause Game)
+%Credits: Code Master
+$203616DC 00000001
++Unlock All Challenges
+%Credits: Code Master
+$203AC610 FFFFFFFF
++Unlock All Costumes
+%Credits: Code Master
+$203AC62C FFFFFFFF
++Unlock All Cerebros
+%Credits: Code Master
+$203AC630 FFFFFFFF
++Unlock All Production Artwork
+%Credits: Code Master
+$203235B8 0000003E
++Default Speed Modifier (Default 3F800000)
+%Credits: Code Master
+$2035FA18 ????????
++Dodge Flick Delay Modifier (Default 3E19999a)
+%Credits: Code Master
+$2035FB64 ????????
++Dodge Pad Minimum (Default 78)
+%Credits: Code Master
+$2035FB68 000000??
++Show Skeleton
+%Credits: Code Master
+$2035FBB4 00000001
++Show IK Axes
+%Credits: Code Master
+$2035FBB8 00000001
++Show Lights
+%Credits: Code Master
+$2035FBBC 00000001
++Show Shadows
+%Credits: Code Master
+$2035FBC4 00000001
++Show Nearest Light
+%Credits: Code Master
+$2035FBCC 00000001
++Show Mount Points
+%Credits: Code Master
+$2035FBD8 00000001
++Invisible
+%Credits: Code Master
+$2035FBDC 00000001
++Show NPC LOS Line
+%Credits: Code Master
+$2035FBE0 00000001
++Show Last Fight Camera Path
+%Credits: Code Master
+$2035FBE4 00000001
++Show Last Animation Path
+%Credits: Code Master
+$2035FBE8 00000001
++Show Memory Profiles
+%Credits: Code Master
+$2035FC10 00000001
++All Locking/Unlocking Automated
+%Credits: Code Master
+$2035FD58 00000000
++Engage Acts As Lock On & Change Target
+%Credits: Code Master
+$2035FD58 00000001
++Separate Combat Initiate & Target Button
+%Credits: Code Master
+$2035FD58 00000002
++Autolock Is A Toggle
+%Credits: Code Master
+$2035FD5C 00000001
++Always Autolock Closest
+%Credits: Code Master
+$2035FD60 00000001
++Dont Always Face Enemy
+%Credits: Code Master
+$2035FD68 00000001
++Force Wolvie To Fight (Autolocks When Attacked)
+%Credits: Code Master
+$2035FD74 00000001
++Lock Initiate Max Distance Modifier (Default 40E00000)
+%Credits: Code Master
+$2035FD7C ????????
++Lock Cancel Distance Modifier (Default 41200000)
+%Credits: Code Master
+$2035FD80 ????????
++Lock Initiate Max Y Distance Modifier (Default 40400000)
+%Credits: Code Master
+$2035FD84 ????????
++Lock Cancel Min Distance Modifier (Default 40800000)
+%Credits: Code Master
+$2035FD88 ????????
++Strike From Anywhere
+%Credits: Code Master
+$2035FD8C 00000001
++Speed (Motion) Modifier (Default 3F800000)
+%Credits: Code Master
+$2035FD90 ????????
++Speed (Punch) Modifier (Default 3Fb33333)
+%Credits: Code Master
+$2035FD94 ????????
++Speed (Kick) Modifier (Default 3F900000)
+%Credits: Code Master
+$2035FD98 ????????
++Speed (Slash) Modifier (Default 3F900000)
+%Credits: Code Master
+$2035FD9C ????????
++Speed (Motion) Modifier (Default 3F800000)
+%Credits: Code Master
+$2035FDA0 ????????
++Speed (Other) Modifier (Default 3F800000)
+%Credits: Code Master
+$2035FDA4 ????????
++Smooth Motion Maxvel Modifier (Default 41600000)
+%Credits: Code Master
+$2035FDB0 ????????
++Smooth Motion Accel Modifier (Default 41600000)
+%Credits: Code Master
+$2035FDB4 ????????
++Smooth Motion Decel Modifier (Default 41600000)
+%Credits: Code Master
+$2035FDB8 ????????
++Run Speed Threshold Modifier (Default 40Af4396)
+%Credits: Code Master
+$2035FDBC ????????
++Steering In Mid-Air In Running Jump
+%Credits: Code Master
+$2035FE0C 00000001
++Foggy
+%Credits: Code Master
+$20360774 00000001
++Show VRAM Usage
+%Credits: Code Master
+$203607E8 00000001
++Show Performance
+%Credits: Code Master
+$20360814 00000001
++Show NPC View Cones
+%Credits: Code Master
+$2036081C 00000001
++Invulnerable
+%Credits: Code Master
+$20360824 00000001
++Baddies Stand Still
+%Credits: Code Master
+$20360828 00000001
++Show Pathfinding Routes
+%Credits: Code Master
+$2036082C 00000001
++No Realtime Lighting
+%Credits: Code Master
+$20360920 00000000
++Dont Convert Dim Lights To Ambient
+%Credits: Code Master
+$20360924 00000000
++No Animated Lights
+%Credits: Code Master
+$20360934 00000000
++No Animation Curves
+%Credits: Code Master
+$20360964 00000000
++No Animation Optimisation
+%Credits: Code Master
+$20360968 00000000
++Shadow Z-Bias Modifier (Default 41000000)
+%Credits: Code Master
+$203609D8 ????????
++Show Shadow As Searchlight
+%Credits: Code Master
+$203609E4 00000001
++Show Character Collision Volumes
+%Credits: Code Master
+$20360A20 00000001
++Show Full Character Cylinder
+%Credits: Code Master
+$20360A24 00000001
++Screen Effects Off
+%Credits: Code Master
+$20360A28 00000000
++Disable Rails & Fixed Cameras
+%Credits: Code Master
+$20360AE0 00000001
++Show Camera Bounding Boxes
+%Credits: Code Master
+$20360AE4 00000001
++Unlock All Doors
+%Credits: Code Master
+$20360B10 00000001
++Show Nearest Guns Darta
+%Credits: Code Master
+$20360C38 00000001
++Full Inventory
+%Credits: Code Master
+$20360EE8 00000001
++Show Sound System Stats
+%Credits: Code Master
+$20361168 00000001
++Show Sound Emitters
+%Credits: Code Master
+$2036116C 00000001
++Disable Collisions
+%Credits: Code Master
+$20361690 00000001
++Dont Render Matts Particles
+%Credits: Code Master
+$20361DE8 00000000
++Health Heal Time Delay Modifier (Default 40A00000)
+%Credits: Code Master
+$202D8294 ????????
++Health Heal Speed Modifier (Default 41700000)
+%Credits: Code Master
+$202D8298 ????????
++Health Segment2 Healing Slowdown Modifier (Default 3Fc00000)
+%Credits: Code Master
+$202D829C ????????
++Health Segment1 Healing Slowdown Modifier (Default 40000000)
+%Credits: Code Master
+$202D82A0 ????????
++Rage Heal Time Delay Modifier (Default 40A00000)
+%Credits: Code Master
+$202D82A4 ????????
++Rage Heal Speed Modifier (Default 3F800000)
+%Credits: Code Master
+$202D82A8 ????????
++Wolvie Takes Combat Damage Rage Modifier (Default 3D4ccccd)
+%Credits: Code Master
+$202D82AC ????????
++Wolvie Hurts Enemy Rage Modifier (Default 3Ca3d70a)
+%Credits: Code Master
+$202D82B0 ????????
++Brightness Ceiling Modifier (Default 437F0000)
+%Credits: Code Master
+$203A1188 ????????
++Freeze Objects
+%Credits: Code Master
+$203A120C 00000001
++Have All Strike Levels
+%Credits: Code Master
+$203ABD60 00000003
++1-Hit Kill
+%Credits: Code Master
+$203ACE74 00000001
++Disable HUD
+%Credits: Code Master
+$203ACE78 00000001
++Disable Mission Countdown
+%Credits: Code Master
+$203ACE7C 00000001
++Player Damage Multipler Modifier (Default 41200000)
+%Credits: Code Master
+$203C48CC ????????
++Max Time In Rage Modifier (Default 41500000)
+%Credits: Code Master
+$203C48D0 ????????
++Rage Animation Speed Modifier (Default 3Fa00000)
+%Credits: Code Master
+$203C48D4 ????????
+!!
+!End Level Stats Codes:
++Max Combat Score
+%Credits: Code Master
+$20362454 05F5E0FF
++Max Total Score
+%Credits: Code Master
+$203ABD88 05F5E0FF
++Max Stealth Strikes
+%Credits: Code Master
+$103D85F0 000003E7
++Max Double Strikes
+%Credits: Code Master
+$103D85F2 000003E7
++Max Triple Strikes
+%Credits: Code Master
+$103D85F4 000003E7
++Max Bowling Bonus
+%Credits: Code Master
+$103D85F6 000003E7
++Max Combat Points
+%Credits: Code Master
+$103D85F8 000003E7
++Max Dog Tags
+%Credits: Code Master
+$103D85FA 000003E7
++Max Cerebro File
+%Credits: Code Master
+$103D85FC 000003E7
++Max Comic Cover
+%Credits: Code Master
+$103D85FE 000003E7
+!!

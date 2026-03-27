@@ -1,0 +1,79 @@
+^3 = NAME: Test Drive - Off-Road - Wide Open (Ntsc-U)
+^2 = GameID: SLUS-20177
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01001BC 002A024F
++(M) Must Be On
+%Credits: Codejunkies
+$F02A024C 002A024F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002A024F
+!!
+!Activate Cheat Codes:
++1Laps1
+%Credits: Code Master
+$20126958 00000000
++2Laps2
+%Credits: Code Master
+$20126978 00000000
++Dbltime
+%Credits: Code Master
+$20126998 00000000
++Dnomaid
+%Credits: Code Master
+$20126938 00000000
++Freeplay
+%Credits: Code Master
+$201269B8 00000000
++Kahndawg
+%Credits: Code Master
+$20126918 00000000
++Lowgravy
+%Credits: Code Master
+$201268F8 00000000
++Mercedez
+%Credits: Code Master
+$201268D8 00000000
++Monstrus
+%Credits: Code Master
+$201269D8 00000000
+!!
+!Continue Codes:
++Infinite Continues
+%Credits: Codejunkies
+$002E2890 00000004
++Never Have More Than 1 Continue
+%Credits: Codejunkies
+$E1010001 302E2890
+$002E2890 00000001
++Never Have More Than 2 Continues
+%Credits: Codejunkies
+$E1010002 302E2890
+$002E2890 00000002
++No Continues
+%Credits: Codejunkies
+$002E2890 00000000
++Your Opponents Have No AI
+%Credits: Codejunkies
+$201067A0 03E00008
+$201067A4 00000000
+!!
++Max Career Cash
+%Credits: InterAct
+$202E59CC 0098967F
++Max Money (Career Mode)
+%Credits: Code Master
+$202E59CC 05F5E0FF
++Max Points
+%Credits: Code Master
+$102E6FCC 000003E7
++Max Race Points
+%Credits: InterAct
+$102E6FCC 000000FF
++Unlock Everything
+%Credits: Code Master
+$201269F4 00000000
+!!
+

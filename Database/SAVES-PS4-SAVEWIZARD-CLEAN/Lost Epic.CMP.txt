@@ -1,0 +1,47 @@
+^2 = GameID: CUSA34139,CUSA34141,CUSA34142,CUSA34140
+^3 = NAME: Lost Epic
+^SECONDLAYER: NO
+^4 = FILE: (AutoSave[0-9]+-[0-9]+|SaveData[0-9]+)\Data.bin
++Equipment stats modifier{<p><b>Important:</b> Unequip any <b>Divine</b> skill before using this code.</p><ul><li><b>Do not equip Divine skills that end up at 9999</b> due to gear stat changes, or your game may crash.</li><li>This code upgrades <b>all gear/armor to +99</b> and modifies <b>all stats</b> on equipment in both your <b>equipped slots</b> and your <b>inventory</b>.</li><li>The game will <b>auto-filter which stats actually apply</b> based on what that item type can normally have:<ul><li><b>Weapons (example: Sword):</b> even if extra stats get added, the game will only apply the stats it naturally supports (example: HP/ATK/MAG/DEX). Stats like DEF/LUC won’t apply to your character, even if they remain visible on the item.</li><li><b>Armor:</b> typically only <b>HP</b> and <b>DEF</b> will apply.</li><li><b>Rings:</b> these are the only pieces I’ve seen that can keep/apply a wider set of stats.</li></ul></li><li><b>After applying the code:</b> remove and re-equip <b>one</b> gear piece so the updated stats refresh on your status screen.</li><li><b>Persistence:</b> gear stats only reset if you <b>upgrade</b> or <b>evolve</b> that gear—so this tends to be more permanent than base-stat mods.</li><li>If you upgrade/evolve gear later, just <b>reapply the code</b>.</li><li>You must also <b>reapply the code whenever you obtain new gear</b>, since it only modifies what’s currently in your inventory at the time you use it.</li></ul>}
+%Credits: Zeraf3000
+$80020008 FFFFFFFF
+$01000000 00000000
+$93000000 00000004
+$4A000000 00000064
+$42FC005A 00000000
+$93000000 00000038
+$4A000000 0000270F
+$42FC005A 00000000
+$4A000004 0000270F
+$42FC005A 00000000
+$4A000008 0000270F
+$42FC005A 00000000
+$4A00000C 0000270F
+$42FC005A 00000000
+$4A000010 0000270F
+$42FC005A 00000000
+$4A000014 0000270F
+$42FC005A 00000000
++Max Current Materials{<ul><li><b>Re-apply</b> each time you get a new material.</li><li><b>NOTE:</b> Max is <b>7FFF</b> (<b>32,767</b>) per slot. Going higher than <b>2 bytes</b> will overwrite the next item and your game may crash.</li></ul>}
+%Credits: Zeraf3000
+$95000000 00000C86
+$48000000 00000001
+$40780034 00000000
+$49000004 00007FFF
+$40780034 00000000
+$48000010 00000001
+$40780034 00000000
+$49000014 00007FFF
+$40780034 00000000
+$4800001A 00000001
+$40780034 00000000
+$4900001E 00007FFF
+$40780034 00000000
+$4800002A 00000001
+$40780034 00000000
+$4900002E 00007FFF
+$40780034 00000000
+$48000034 00000001
+$40780034 00000000
+$49000038 00007FFF
+$40780034 00000000

@@ -1,0 +1,64 @@
+^3 = NAME: Dot Hack - Part 4 - Quarantine (PAL-M5)
+^2 = GameID: SLES-52468
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F012B464 0012B467
+!!
+!Experience Codes:
++1000 Experience Per Enemy Defeated
+%Credits: Codejunkies
+$2057E548 241103E8
++10000 Experience Per Enemy Defeated
+%Credits: Codejunkies
+$2057E548 24112710
+!!
+!Health Codes:
++Max Health All
+%Credits: Codejunkies
+$205789B8 2402270F
++Max Health All (Saveable)
+%Credits: Codejunkies
+$2057D51C 2401270F
+$205789B8 A6410024
+$205789BC A6210074
+!!
+!Max SP Codes:
++All Party Available
+%Credits: Codejunkies
+$200FFF40 3C017FFF
+$200FFF44 3421FFFF
+$200FFF48 ACA12220
+$200FFF4C 8CA32220
+$200FFF50 03E00008
+$2053F44C 0C03FFD0
++Infinite Health
+%Credits: Codejunkies
+$205241D0 0C03FFC0
+$200FFF00 2401270F
+$200FFF04 A6210070
+$200FFF08 A6210074
+$200FFF0C 03E00008
++Infinite Money Usage
+%Credits: Codejunkies
+$2055D144 00000000
++Infinite SP
+%Credits: Codejunkies
+$200FFF10 240103E7
+$200FFF14 A6210072
+$200FFF18 A6210076
+$200FFF1C 03E00008
+$205241E0 0C03FFC4
++Infinite Trade Item Use
+%Credits: Codejunkies
+$2017C4EC 00000000
+$2017C504 00000000
++Max SP
+%Credits: Codejunkies
+$205789C0 240203E7
++Max SP All (Saveable)
+%Credits: Codejunkies
+$205789C0 A6460026
+$205789C4 A6260076
+!!
+

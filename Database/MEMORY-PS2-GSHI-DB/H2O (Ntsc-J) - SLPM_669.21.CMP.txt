@@ -1,0 +1,12 @@
+^3 = NAME: H2O (Ntsc-J)
+^2 = GameID: SLPM-66921
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$902091A0 0C082410
+!!
++Replace New Game With Debug Menu
+%Credits: punk7890
+$0014C314 00000000
+!!
+

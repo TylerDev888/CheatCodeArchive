@@ -1,0 +1,66 @@
+^3 = NAME: Legend Of Sayuki (PAL-E)
+^2 = GameID: SLES-55123
+!Master Codes:
++Enable Code
+%Credits: lee4
+$90145BE0 0C055FB3
++Enable Code
+%Credits: lee4
+$90145D30 00431021
++Enable Code
+%Credits: lee4
+$90140168 0C050002
+!!
++Boot Language
+%Credits: lee4
+$20100758 2402000?
++P1 9 Lives
+%Credits: lee4
+$002042F8 00000009
++P1 Inf HP
+%Credits: lee4
+$20215FBC 000000F0
++P1 Invincible
+%Credits: lee4
+$203BD828 000000FF
++P1 Max HP
+%Credits: lee4
+$20215FAC 000000F0
++P1 Max Score
+%Credits: lee4
+$20204300 05F5E0FF
++P1 Max Score
+%Credits: lee4
+$202042E8 05F5E0FF
++P1 Special Max
+%Credits: lee4
+$10204338 000003E8
++P1 Weapon Mod
+%Credits: lee4
+$00204340 0000000?
++P2 Inf HP
+%Credits: lee4
+$20215FC0 000000F0
++P2 Invincible
+%Credits: lee4
+$203BEDF0 000000FF
++P2 Max HP
+%Credits: lee4
+$20215FB0 000000F0
++P2 Max Lives
+%Credits: lee4
+$002042FC 00000009
++P2 Max Score
+%Credits: lee4
+$202042EC 05F5E0FF
++P2 Special Max
+%Credits: lee4
+$1020433C 000003E8
++P2 Weapon Mod
+%Credits: lee4
+$00204344 0000000?
++Pal2ntsc
+%Credits: lee4
+$2014F640 24120002
+!!
+

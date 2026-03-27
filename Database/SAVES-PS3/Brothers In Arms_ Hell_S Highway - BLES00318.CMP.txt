@@ -1,0 +1,9 @@
+^2 = GameID: BLES00318
+^3 = NAME: Brothers in Arms: Hell's Highway
+^4 = FILE: PAYLOAD
++Update Sha1 For Payload (required)
+(set range:0x000014,0x00023D)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

@@ -1,0 +1,14 @@
+^2 = GameID: NPUB30614
+^3 = NAME: Orc Attack: Flatulent Rebellion (PSN)
+^5 = APCRED: From SHAkA
+^4 = FILE: SYS-DATA
++Max Skills Points
+$write at 0x0000005E:0xF0720063
++Max Money
+$write at 0x0000003D:0xFB722860
++Update Md5 For Sys-data (required)
+(set range:0x000019,0x000256)
+$set pointer:eof+1
+$set range:0x000019,pointer
+$set [hash]:MD5
+$write at 0x000009:[hash]

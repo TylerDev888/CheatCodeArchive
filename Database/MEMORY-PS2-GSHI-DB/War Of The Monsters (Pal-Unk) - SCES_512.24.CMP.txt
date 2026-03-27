@@ -1,0 +1,66 @@
+^3 = NAME: War Of The Monsters (Pal-Unk)
+^2 = GameID: SCES-51224
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0237774 00237777
+!!
+!Player 1 Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$202BB31C 43340000
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E0020000 302BB31C
+$E0014234 302BB31E
+$202BB31C 42340000
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0020000 302BB31C
+$E00142B4 302BB31E
+$202BB31C 42B40000
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E0020000 302BB31C
+$E0014307 302BB31E
+$202BB31C 43070000
+!!
+!Player 1 Stamina Codes:
++All Costumes
+%Credits: Codejunkies
+$201923D4 24040001
+$201923D8 AC440000
++Disable A.I
+%Credits: Codejunkies
+$2015DD78 00000000
++Infinite Stamina
+%Credits: Codejunkies
+$202BB340 42C80000
++Maniac Runners
+%Credits: Codejunkies
+$2012C330 3C013FD0
++Max Tokens
+%Credits: Codejunkies
+$2041E654 05F00FAB
+$2041E658 05F00FAB
++Never Have More Than 25% Stamina
+%Credits: Codejunkies
+$E0020000 302BB340
+$E00141C8 302BB342
+$202BB340 41C80000
++Never Have More Than 50% Stamina
+%Credits: Codejunkies
+$E0020000 302BB340
+$E0014248 302BB342
+$202BB340 42480000
++Never Have More Than 75% Stamina
+%Credits: Codejunkies
+$E0020000 302BB340
+$E0014296 302BB342
+$202BB340 42960000
++Player 1 Has Infinite Specials
+%Credits: Codejunkies
+$202BAFC0 01000000
+!!
+!!
+

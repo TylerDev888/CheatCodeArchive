@@ -1,0 +1,364 @@
+^3 = NAME: X-Men - Next Dimension (Ntsc-U)
+^2 = GameID: SLUS-20279
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0221CD0 001FB96F
++(M) Must Be On
+%Credits: Codejunkies
+$F01FB96C 001FB96F
++Enable Code
+%Credits: punk7890
+$9021C030 0C086FB4
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001FB96F
+!!
++1-Hit Death P1
+%Credits: Code Master
+$D02E8FFC 00007530
+$102E8FFC 00000001
++1-Hit Death P2
+%Credits: Code Master
+$D02EB98C 00007530
+$102EB98C 00000001
++25% Health P1
+%Credits: Code Master
+$D02E8FFC 00007530
+$102E8FFC 00001D4C
++25% Health P2
+%Credits: Code Master
+$D02EB98C 00007530
+$102EB98C 00001D4C
++50% Health P1
+%Credits: Code Master
+$D02E8FFC 00007530
+$102E8FFC 00003A98
++50% Health P2
+%Credits: Code Master
+$D02EB98C 00007530
+$102EB98C 00003A98
++75% Health P1
+%Credits: Code Master
+$D02E8FFC 00007530
+$102E8FFC 000057E4
++75% Health P2
+%Credits: Code Master
+$D02EB98C 00007530
+$102EB98C 000057E4
++Everything Unlocked
+%Credits: Codejunkies
+$202F1540 00FC4000
+$202F1544 00000001
+$202F1548 00000001
+$202F154C FFFFFFFF
+$202F1550 FFFFFFFF
+!Flight Codes:
++Can't Fly
+%Credits: Codejunkies
+$102E9404 00000000
++Can't Fly
+%Credits: Codejunkies
+$102EBD94 00000000
++Infinite Flight
+%Credits: Codejunkies
+$102E9404 0000021D
++Infinite Flight
+%Credits: Codejunkies
+$102EBD94 0000021D
+!!
+!Health Codes:
++10% Health
+%Credits: Codejunkies
+$E0010753 302E8FFC
+$102E8FFC 00000753
++10% Health
+%Credits: Codejunkies
+$E0010753 302EB98C
+$102EB98C 00000753
++25% Health
+%Credits: Codejunkies
+$E0011D4C 302E8FFC
+$102E8FFC 00001D4C
++25% Health
+%Credits: Codejunkies
+$E0011D4C 302EB98C
+$102EB98C 00001D4C
++50% Health
+%Credits: Codejunkies
+$E0013A98 302E8FFC
+$102E8FFC 00003A98
++50% Health
+%Credits: Codejunkies
+$E0013A98 302EB98C
+$102EB98C 00003A98
++Infinite Health
+%Credits: Codejunkies
+$102E8FFC 00007530
++Infinite Health
+%Credits: Codejunkies
+$102EB98C 00007530
++Instant Death
+%Credits: Codejunkies
+$D02E8FFC 00007530
+$102E8FFC 00000000
++Instant Death
+%Credits: Codejunkies
+$D02EB98C 00007530
+$102EB98C 00000000
+!!
++Health Never Bebuilds To Max Red Bar
+%Credits: Code Master
+$10126C38 00000000
+!Health Restore Codes:
++Max Health Restore
+%Credits: Codejunkies
+$102E8FFE 00007530
++Max Health Restore
+%Credits: Codejunkies
+$102EB98E 00007530
++No Health Restore
+%Credits: Codejunkies
+$102E8FFE 00000000
++No Health Restore
+%Credits: Codejunkies
+$102EB98E 00000000
+!!
++Hit Anywhere P1 & P2
+%Credits: Code Master
+$20144734 00000000
++Hit Anywhere P1 ONLY
+%Credits: Code Master
+$20144710 0295802B
++Hit Anywhere P2 ONLY
+%Credits: Code Master
+$20144710 02B4802B
++Infinite Time
+%Credits: InterAct
+$0024B764 000000FF
++Infinite Time
+%Credits: Code Master
+$1024B764 00000063
++No Health P1
+%Credits: Code Master
+$102E8FFC 00000000
++No Health P2
+%Credits: Code Master
+$102EB98C 00000000
++P1 Can Never Use Super
+%Credits: Code Master
+$102E8F72 000000FF
++P1 Infinite Flying
+%Credits: Code Master
+$102E9404 0000025E
++P1 Press L1+Select For Death Blow On P2
+%Credits: Code Master
+$D02F1658 00000104
+$102EB98C 00000000
++P2 Can Never Use Super
+%Credits: Code Master
+$102EB902 000000FF
++P2 Infinite Flying
+%Credits: Code Master
+$102EBD94 0000025E
++P2 Press L1+Select For Death Blow On P1
+%Credits: Code Master
+$D02F1664 00000104
+$102E8FFC 00000000
+!Player 1 Codes:
++Max Special Lvl 1
+%Credits: Codejunkies
+$102E95B0 00001400
++Max Special Lvl 2
+%Credits: Codejunkies
+$102E95B2 00001E00
++Max Special Lvl 3
+%Credits: Codejunkies
+$102E95B4 00002800
++Never Win
+%Credits: Codejunkies
+$102E959C 00000000
++No Special Lvl 1
+%Credits: Codejunkies
+$102E95B0 00000000
++No Special Lvl 2
+%Credits: Codejunkies
+$102E95B2 00000000
++No Special Lvl 3
+%Credits: Codejunkies
+$102E95B4 00000000
++Round Won
+%Credits: Codejunkies
+$D02E959C 00000000
+$102E959C 00000001
++Rounds Won
+%Credits: Codejunkies
+$D02E959C 00000000
+$102E959C 00000002
++Super Always Disabled
+%Credits: Codejunkies
+$102E8F72 000001A6
++Super Never Disabled
+%Credits: Codejunkies
+$102E8F72 00000000
+!!
+!Player 2 Codes:
++Max Special Lvl 1
+%Credits: Codejunkies
+$102EBF40 00001400
++Max Special Lvl 2
+%Credits: Codejunkies
+$102EBF42 00001E00
++Max Special Lvl 3
+%Credits: Codejunkies
+$102EBF44 00002800
++Never Win
+%Credits: Codejunkies
+$102EBF2C 00000000
++No Special Lvl 1
+%Credits: Codejunkies
+$102EBF40 00000000
++No Special Lvl 2
+%Credits: Codejunkies
+$102EBF42 00000000
++No Special Lvl 3
+%Credits: Codejunkies
+$102EBF44 00000000
++Round Won
+%Credits: Codejunkies
+$D02EBF2C 00000000
+$102EBF2C 00000001
++Rounds Won
+%Credits: Codejunkies
+$D02EBF2C 00000000
+$102EBF2C 00000002
++Super Always Disabled
+%Credits: Codejunkies
+$102EB902 000001A6
++Super Never Disabled
+%Credits: Codejunkies
+$102EB902 00000000
+!!
++Press L3 For Debug Menu
+%Credits: punk7890
+$0014AF60 00000011
+$D0935402 0000FFFD
+$202B1C0C 00000001
++Quick Health Rebuild To Max Red Bar
+%Credits: Code Master
+$10126C38 000000FF
+!Rounds Won Codes:
+!!
+!Start On Stage Codes (Arcade Mode):
++Stage 2
+%Credits: Code Master
+$D02B1B10 00000000
+$102B1B10 00000001
++Stage 3
+%Credits: Code Master
+$D02B1B10 00000000
+$102B1B10 00000002
++Stage 4
+%Credits: Code Master
+$D02B1B10 00000000
+$102B1B10 00000003
++Stage 5
+%Credits: Code Master
+$D02B1B10 00000000
+$102B1B10 00000004
++Stage 6
+%Credits: Code Master
+$D02B1B10 00000000
+$102B1B10 00000005
++Stage 7
+%Credits: Code Master
+$D02B1B10 00000000
+$102B1B10 00000006
++Stage 8
+%Credits: Code Master
+$D02B1B10 00000000
+$102B1B10 00000007
++Stage 9
+%Credits: Code Master
+$D02B1B10 00000000
+$102B1B10 00000008
++Stage 10
+%Credits: Code Master
+$D02B1B10 00000000
+$102B1B10 00000009
+!!
++Sudden Death Mode
+%Credits: Codejunkies
+$D024B764 00000028
+$102E8FFC 00001000
+$D024B764 00000028
+$102EB98C 00001000
+$D024B764 00000028
+$102E8FFE 00000000
+$D024B764 00000028
+$102EB98E 00000000
++Unlock All 2Nd Set Of Costumes
+%Credits: Code Master
+$202F1548 FFFFFFFF
++Unlock All 3Rd Set Of Costumes
+%Credits: Code Master
+$202F154C FFFFFFFF
++Unlock All 4Th Set Of Costumes
+%Credits: Code Master
+$202F1550 FFFFFFFF
++Unlock All Characters
+%Credits: Code Master
+$202F1540 FFFFFFFF
++Unlock All Stages
+%Credits: Code Master
+$202F1544 FFFFFFFF
++Unlock Bastion
+%Credits: InterAct
+$0026EE9C 00000000
++Unlock Bishop
+%Credits: InterAct
+$0026EEA8 00000000
++Unlock Blob
+%Credits: InterAct
+$0026EEAC 00000000
+!Unlock Character Codes:
++All Characters
+%Credits: Code Master
+$4026EE94 00070001
+$00000000 00000000
++Bastion
+%Credits: Code Master
+$2026EE9C 00000000
++Bishop
+%Credits: Code Master
+$2026EEA8 00000000
++Blob
+%Credits: Code Master
+$2026EEAC 00000000
++Dark Phoenix
+%Credits: Code Master
+$2026EEA0 00000000
++Psylocke
+%Credits: Code Master
+$2026EEA4 00000000
++Sentinel A
+%Credits: Code Master
+$2026EE94 00000000
++Sentinel B
+%Credits: Code Master
+$2026EE98 00000000
+!!
++Unlock Dark Phoenix
+%Credits: InterAct
+$0026EEA0 00000000
++Unlock Psylocke
+%Credits: InterAct
+$0026EEA4 00000000
++Unlock Sentinel A
+%Credits: InterAct
+$0026EE94 00000000
++Unlock Sentinel B
+%Credits: InterAct
+$0026EE98 00000000
+!!
+

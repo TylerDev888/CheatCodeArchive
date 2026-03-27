@@ -1,0 +1,30 @@
+^3 = NAME: ATV Quad Power Racing 2 (PAL-E)
+^2 = GameID: No
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F02CF8E4 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F02CF8E4 002CF8E7
+!!
+!50hz:
++P1 Monster Score
+%Credits: Codejunkies
+$20788594 05F5E0FF
+!!
+!60hz:
++All Atvs Unlocked
+%Credits: Codejunkies
+$1089D984 000007FF
++All Riders Unlocked
+%Credits: Codejunkies
+$2089D988 FFFFFFFF
++All Tracks Unlocked
+%Credits: Codejunkies
+$2089D980 00007FFF
++P1 Monster Score
+%Credits: Codejunkies
+$20788A24 05F5E0FF
+!!
+

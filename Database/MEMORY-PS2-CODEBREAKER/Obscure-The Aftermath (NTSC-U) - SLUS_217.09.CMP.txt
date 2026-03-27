@@ -1,0 +1,69 @@
+^1 = HASH: 408DFB9C
+^3 = NAME: Obscure-The Aftermath
+^2 = GameID: SLUS_217.09
+!Masters:
++Enable Code (Must Be On) [Read Note]
+%Credits: Lajos Szalay
+$90128AEC 0C0D2D6E
+!!
+!Codes:
++P1 Press Select To Skip FMV
+%Credits: Lajos Szalay
+$201158C0 8C620000
+$D0552B02 0000FFFE
+$201158C0 24020001
++Infinite Health Both Player
+%Credits: Lajos Szalay
+$200C0220 C460038C
+$200C0224 03E00008
+$200C0228 E4600390
+$203EF9B4 0C030088
++1-Hit Kill For Some Enemy
+%Credits: Lajos Szalay
+$202B0614 AE200390
+$202D6538 AC400390
+$202B75F8 AE800390
++Never Reload
+%Credits: Lajos Szalay
+$20317F58 E6410154
++Never Reload With Max Clip
+%Credits: Lajos Szalay
+$20317F68 3C014479
+$20317F70 AE410154
++Infinite Ammo
+%Credits: Lajos Szalay
+$203196F0 00000000
++Max Infinite Ammo
+%Credits: Lajos Szalay
+$203196D0 240303E7
++Extra Ammo
+%Credits: Lajos Szalay
+$203196D0 00A41821
++Infinite Stun Gun Battery
+%Credits: Lajos Szalay
+$20297F14 00000000
++Infinite Chainsaw Battery
+%Credits: Lajos Szalay
+$2028F308 00000000
++Infinite Battery For All Weapons
+%Credits: Lajos Szalay
+$203EED2C C4940C8C
+$203EED30 E4940C88
++Infinite Grenades
+%Credits: Lajos Szalay
+$2037139C 00000000
++Max Infinite Grenades
+%Credits: Lajos Szalay
+$20371398 24030009
++Infinite Items
+%Credits: Lajos Szalay
+$2030D80C 00000000
+!!
+!Activate Cheat Codes:
++Infinite Ammo
+%Credits: Lajos Szalay
+$2051A900 00000001
++Invincible Both Player
+%Credits: Lajos Szalay
+$20233F44 24030001
+!!

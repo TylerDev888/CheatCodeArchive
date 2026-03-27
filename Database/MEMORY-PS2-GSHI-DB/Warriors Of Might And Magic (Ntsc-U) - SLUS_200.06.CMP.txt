@@ -1,0 +1,40 @@
+^3 = NAME: Warriors Of Might And Magic (Ntsc-U)
+^2 = GameID: SLUS-20006
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F011D48C 000001FD
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0110040 003033C7
++[M] Must Be On
+%Credits: InterAct
+$F01F0754 003033C7
+!!
++Have All Spells
+%Credits: Code Master
+$20467DE4 3FFFFFFF
++Infinite Health
+%Credits: Code Master
+$20238104 E6000028
++Infinite Level Up Points
+%Credits: InterAct
+$00452A8C 0000000A
++Infinite Level Up Points
+%Credits: Code Master
+$20452A8C 0000000A
+$20452A90 0000000A
++Infinite Mana
+%Credits: Code Master
+$202380D8 00401821
++Items Worth Modifier (0000-270F) {<I>With This Code, It Takes Affect After You Have One In Your Inventory And You Pick Up Another.</I>}
+%Credits: Code Master
+$2018ED94 2463????
++Max Items After 1 Pickup {<I>With This Code, It Takes Affect After You Have One In Your Inventory And You Pick Up Another.</I>}
+%Credits: Code Master
+$2018ED94 2403270F
++Spell Equipped Modifier {<I>00 - Torch Light<Br>01 - Ring Of Fire<Br>02 - Speed<Br>03 - Fireball<Br>04 - Heroism<Br>05 - Slow<Br>06 - Stone Skin<Br>07 - Fear<Br>08 - Shards<Br>09 - Tremor<Br>0A - Bless<Br>0B - Divine Protection<Br>0C - Holy Wrath<Br>0D - Summon Elemental<Br>0E - Terrenus<Br>0F - Silence<Br>10 - Charm<Br>11 - Lightning Storm<Br>12 - Phantoms<Br>13 - Invisibility<Br>14 - Arctic Blast<Br>15 - Cure Wounds<Br>16 - Remove Curse<Br>17 - Ice Shield<Br>18 - Snap Freeze<Br>19 - Fire Bolt<Br>1A - Earth Bolt<Br>1B - Light Bolt<Br>1C - Sky Bolt<Br>1D - Water Bolt</I>}
+%Credits: Code Master
+$00467DE0 000000??
+!!
+

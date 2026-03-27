@@ -1,0 +1,72 @@
+^3 = NAME: Smash Court Tennis - Pro Tournament (Ntsc-U)
+^2 = GameID: SLUS-20286
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01000F0 0025DA3F
++(M) Must Be On
+%Credits: Codejunkies
+$F025DA3C 0025DA3F
++(M) Must Be On
+%Credits: Codejunkies
+$F0190628 0019062B
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0025DA3F
+!!
++All BGM Music
+%Credits: InterAct
+$0123ED5B 000000FF
++All Camera Modes
+%Credits: InterAct
+$0123ED5A 000000FF
++All Cameras
+%Credits: Codejunkies
+$40442C5C 00050001
+$01010101 00000000
++All Cards
+%Credits: Codejunkies
+$40442B78 00390001
+$01010101 00000000
++All Extras Unlocked
+%Credits: InterAct
+$2123ED58 FFFFFFFF
+$2123ED5C FFFFFFFF
+$2123ED68 FFFFFFFF
+$2123ED6C FFFFFFFF
++All Manuals
+%Credits: InterAct
+$0123ED58 000000FF
++All Manuals
+%Credits: Codejunkies
+$40442AA8 000C0001
+$01010101 00000000
++All Outfits
+%Credits: Codejunkies
+$40442AD8 000F0001
+$01010101 00000000
++All Player Outfits
+%Credits: InterAct
+$0123ED5C 000000FF
++All Player Photos
+%Credits: InterAct
+$0123ED59 000000FF
++All Sounds
+%Credits: Codejunkies
+$40442B14 00180001
+$01010101 00000000
++All Trophies
+%Credits: Codejunkies
+$20442C94 FFFFFFFF
+$20442C98 FFFFFFFF
++Always Low Time
+%Credits: Codejunkies
+$21236A58 00000000
++Extra Options, Soundtrack, And Stadium Photos
+%Credits: InterAct
+$0123ED5D 000000FF
++Low Time Attack Time
+%Credits: InterAct
+$2123AA48 00000000
+!!
+

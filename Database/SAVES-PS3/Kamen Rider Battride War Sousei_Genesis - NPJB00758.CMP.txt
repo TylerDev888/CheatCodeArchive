@@ -1,0 +1,16 @@
+^2 = GameID: NPJB00758
+^3 = NAME: Kamen Rider Battride War Sousei/Genesis
+^4 = FILE: SAVEDATA.DAT
++Shop Points 9999999
+$20000124 0098967F
++Rider Souls 9999999
+$20000128 0098967F
++Update Crc32big For Savedata.dat (required)
+(Checksum offset is located within the checksum range.)
+(Initializing checksum with null bytes)
+$write at 0x000004:00000000
+(set range:0x000004,0x22EC67)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32Big
+$write at 0x000004:[hash]

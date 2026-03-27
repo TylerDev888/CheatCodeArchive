@@ -1,0 +1,9 @@
+^2 = GameID: BLES01088
+^3 = NAME: MySims SkyHeroes
+^4 = FILE: MSF
++Update Crc32 (required)
+(set range:0x00000C,0x005EF7)
+$set pointer:eof+1
+$set range:0x00000C,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]

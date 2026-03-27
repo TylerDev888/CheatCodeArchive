@@ -1,0 +1,218 @@
+^1 = Hash: F6 89 4A 11 BC C6 65 B7 4A 58 14 DB C8 05 FB FE B1 69 41 CC
+^2 = GameID: SLUS_291.57
+^3 = NAME: Dragon Quest 8 [Demo]
+!Masters:
++Enable Code (MUST BE ON)
+$9012C358 0C048238
+Enable Code (MUST BE ON)
+$F012C358 0012C35B
+Enable Code (MUST BE ON)
+$0E3C7DF2 1456E7A5
+$F012C358 0012C35B
+!!
+!Jokers:
++Player 1 Controller
+$003EF302 0000[Joker:PS2]
++Player 2 Controller
+$003EF402 0000[Joker:PS2]
+!!
+!Misc:
++Max/Inf Cash
+%Credits: SkillerCMP
+$2020054C 00000000
++Max/Inf Cash
+%Credits: SkillerCMP
+$203FF1C0 05F5E0FF
++Max/Have All 396 Items
+%Credits: SkillerCMP
+$403FF450 01800001
+$03E00001 00000001
++4 Characters (quest Mode)
+%Credits: SkillerCMP
+$003FF1C4 0000000F
+!Characters:
+!Hero
++Max HP
+%Credits: SkillerCMP
+$203FF1F0 000003E7
+$203FF1F4 000003E7
++Max MP
+%Credits: SkillerCMP
+$203FF1F8 000003E7
+$203FF1FC 000003E7
++Max Lvl
+%Credits: SkillerCMP
+$003FF200 00000062
++Max EXP
+%Credits: SkillerCMP
+$203FF208 05F5E0FF
++Never Sick
+%Credits: SkillerCMP
+$203FF210 00000000
++Max Strength
+%Credits: SkillerCMP
+$103FF220 000003E7
++Max Agility
+%Credits: SkillerCMP
+$103FF222 000003E7
++Max Resilience
+%Credits: SkillerCMP
+$103FF224 000003E7
++Max Wisdom
+%Credits: SkillerCMP
+$103FF226 000003E7
++Max Skill Points Sword
+%Credits: SkillerCMP
+$103FF22A 000003E7
++Max Skill Points Spears
+%Credits: SkillerCMP
+$103FF22C 000003E7
++Max Skill Points Boomerangs
+%Credits: SkillerCMP
+$103FF22E 000003E7
++Max Skill Points Fisticuffs
+%Credits: SkillerCMP
+$103FF230 000003E7
++Max Skill Points Courage
+%Credits: SkillerCMP
+$103FF232 000003E7
+!!
+!Yangus:
++Max HP
+%Credits: SkillerCMP
+$203FF258 000003E7
+$203FF25C 000003E7
++Max MP
+%Credits: SkillerCMP
+$203FF260 000003E7
+$203FF264 000003E7
++Max Lvl
+%Credits: SkillerCMP
+$103FF268 00000062
++Max EXP
+%Credits: SkillerCMP
+$203FF270 05F5E0FF
++Never Sick
+%Credits: SkillerCMP
+$203FF278 00000000
++Max Strength
+%Credits: SkillerCMP
+$103FF288 000003E7
++Max Agility
+%Credits: SkillerCMP
+$103FF28A 000003E7
++Max Resilience
+%Credits: SkillerCMP
+$103FF28C 000003E7
++Max Wisdom
+%Credits: SkillerCMP
+$103FF28E 000003E7
++Max Skill Points Sword
+%Credits: SkillerCMP
+$103FF292 000003E7
++Max Skill Points Spears
+%Credits: SkillerCMP
+$103FF294 000003E7
++Max Skill Points Boomerangs
+%Credits: SkillerCMP
+$103FF296 000003E7
++Max Skill Points Fisticuffs
+%Credits: SkillerCMP
+$103FF298 000003E7
++Max Skill Points Courage
+%Credits: SkillerCMP
+$103FF29A 000003E7
+!!
+!Angelo:
++Max HP
+%Credits: SkillerCMP
+$203FF2C0 000003E7
+$203FF2C4 000003E7
++Max MP
+%Credits: SkillerCMP
+$203FF2C8 000003E7
+$203FF2CC 000003E7
++Max Lvl
+%Credits: SkillerCMP
+$103FF2D0 00000062
++Max EXP
+%Credits: SkillerCMP
+$203FF2D8 05F5E0FF
++Never Sick
+%Credits: SkillerCMP
+$203FF2E0 00000000
++Max Strength
+%Credits: SkillerCMP
+$103FF2F0 000003E7
++Max Agility
+%Credits: SkillerCMP
+$103FF2F2 000003E7
++Max Resilience
+%Credits: SkillerCMP
+$103FF2F4 000003E7
++Max Wisdom
+%Credits: SkillerCMP
+$103FF2F6 000003E7
++Max Skill Points Sword
+%Credits: SkillerCMP
+$103FF2FA 000003E7
++Max Skill Points Spears
+%Credits: SkillerCMP
+$103FF2FC 000003E7
++Max Skill Points Boomerangs
+%Credits: SkillerCMP
+$103FF2FE 000003E7
++Max Skill Points Fisticuffs
+%Credits: SkillerCMP
+$103FF300 000003E7
++Max Courage
+%Credits: SkillerCMP
+$103FF302 000003E7
+!!
+!Jessica:
++Max HP
+%Credits: SkillerCMP
+$203FF328 000003E7
+$203FF32C 000003E7
++Max MP
+%Credits: SkillerCMP
+$203FF330 000003E7
+$203FF334 000003E7
++Max Lvl
+%Credits: SkillerCMP
+$103FF338 00000062
++Max EXP
+%Credits: SkillerCMP
+$203FF340 05F5E0FF
++Never Sick
+%Credits: SkillerCMP
+$203FF348 00000000
++Max Strength
+%Credits: SkillerCMP
+$103FF358 000003E7
++Max Agility
+%Credits: SkillerCMP
+$103FF35A 000003E7
++Max Resilience
+%Credits: SkillerCMP
+$103FF35C 000003E7
++Max Wisdom
+%Credits: SkillerCMP
+$103FF35E 000003E7
++Max Skill Points Sword
+%Credits: SkillerCMP
+$103FF362 000003E7
++Max Skill Points Spears
+%Credits: SkillerCMP
+$103FF364 000003E7
++Max Skill Points Boomerangs
+%Credits: SkillerCMP
+$103FF366 000003E7
++Max Skill Points Fisticuffs
+%Credits: SkillerCMP
+$103FF368 000003E7
++Max Skill Points Courage
+%Credits: SkillerCMP
+$103FF36A 000003E7
+!!
+!!

@@ -1,0 +1,37 @@
+^2 = GameID: BLES00196
+^3 = NAME: Turning Point: Fall Of Liberty
+^5 = APCRED: From Game Genie For PS3
+^4 = FILE: BLES00196-AUTO-\DEF_CHKP.SAV
+!Max Ammo:
++Gewehr 47(you Must Have This Weapon Equipped.)
+$8000000C 436F6E74
+$656E742E 47343700
+$2800000C 00000032
+$28000010 000003E7
++Grenades(you Must Have This Weapon Equipped.)
+$8000000C 656E742E
+$4772656E 61646500
+$2800000C 00000001
+$28000010 00000003
++M1 Garand(you Must Have This Weapon Equipped.)
+$8000000C 65436F6E
+$74656E74 2E4D3100
+$2800000C 00000008
+$28000010 000003E7
++Mp50(you Must Have This Weapon Equipped.)
+$8000000C 6F6E7465
+$6E742E4D 50353000
+$2800000C 00000032
+$28000010 000003E7
++Thompson Submachine Gun(you Must Have This Weapon Equipped.)
+$8000000C 6E742E54
+$686F6D70 736F6E00
+$2800000C 00000032
+$28000010 000003E7
+!!
++Update Sha1 For Profile.bin (required)
+(set range:0x000014,0x000129)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

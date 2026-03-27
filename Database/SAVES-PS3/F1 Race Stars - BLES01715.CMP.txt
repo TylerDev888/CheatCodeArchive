@@ -1,0 +1,8 @@
+^2 = GameID: BLES01715
+^3 = NAME: F1 Race Stars
+^5 = APCRED: From aldostools
+^4 = FILE: PROFILE
++Update Crc32 For Profile (required)
+$set range:0x000020,0x267F
+$set [hash]:CRC32
+$write at 0x000010:[hash]

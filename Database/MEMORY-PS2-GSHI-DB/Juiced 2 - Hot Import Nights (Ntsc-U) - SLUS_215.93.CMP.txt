@@ -1,0 +1,61 @@
+^3 = NAME: Juiced 2 - Hot Import Nights (Ntsc-U)
+^2 = GameID: SLUS-21593
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master>CMX
+$90410654 0C106C14
+!!
++Allow Player Profile Names With "Inappropriate Language" {<I>Allows You To Use Politically Incorrect Names/Words That (((THQ))) Didn&#39;T Want You To. Basically It&#39;S The Same As The Code I Made For WWE All-Stars WII. A List Of The Offending/Blacklisted Words Can Be Found In A RAM Dump Of This Game. Only Use When Creating A New Profile, Otherwise It&#39;Ll Freeze When Trying To Race.</I>}
+%Credits: 47iscool
+$2041EB08 24020000
++Alternate (& Working) Idiot A.I. L3 On/R3 Off {<I>The Code Made by the CodeBreaker team does not work for me. Only enable right at the race start when the announcer says &quot;1&quot;. If enabled before that, or in menus the camera will act VERY screwy. Also it&#39;s not perfect, but it&#39;s the best I can do for now.</i>}
+%Credits: 47iscool
+$D05241C2 0000FFFD
+$20419648 00000000
+$D05241C2 0000FFFB
+$20419648 44026000
++Always Win Drift Event {<I>Gives About 17 Million Plus Points At The End Of The Race. Also It May You Were Eliminated At First If You Don&#39;T Have Enough Points But Will Then Say Completed, Or Whatever It Says After You Are Done With The Event.</I>}
+%Credits: 47iscool
+$20257884 AC84007C
++Buying Cars/Items Doesnt Decrease Cash
+%Credits: CMX
+$20274450 26650000
++Buying Cars/Items Increases Cash
+%Credits: CMX
+$20274450 02622821
++Freeze Timer Select Left On/Select Right Off
+%Credits: 47iscool
+$D05241C2 0000FF7E
+$201C37D4 10000010
+$D05241C2 0000FFDE
+$201C37D4 14A40010
++Idiot AI
+%Credits: CMX
+$201EA518 03E00008
+$201EA51C 00000000
++Inf Prototype Points {<I>You Need At Least 1 For This To Work.<Br>Then It Will Set Them To 99 Upon Use.</I>}
+%Credits: 47iscool
+$2028D798 24040063
++Infinite Nitro Usage
+%Credits: CMX
+$202DC3FC 00000000
++Max Cash
+%Credits: CMX
+$200C0220 3C0305F5
+$200C0224 3463E0FF
+$200C0228 AE03001C
+$200C022C 03E00008
+$200C0230 03A02025
+$202973DC 0C030088
++Races Always ?? Laps Mod
+%Credits: CMX
+$200C0234 240400??
+$200C0238 0805E7B9
+$200C023C A4240002
+$20179EAC 0803008D
+$20179EB0 8E011608
++Start Game With Hella Cash
+%Credits: CMX
+$20296994 3C0505F5
+!!
+

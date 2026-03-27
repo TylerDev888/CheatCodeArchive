@@ -1,0 +1,27 @@
+^3 = NAME: Grand Prix Challenge (Ntsc-U)
+^2 = GameID: SLUS-20630
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F013274C 0013274F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00132827
+!!
++1 Lap Championship
+%Credits: Codejunkies
+$10AE35D0 00000001
++1 Lap Grand Prix
+%Credits: Codejunkies
+$10AE3620 00000001
++1 Lap Quick Race
+%Credits: Codejunkies
+$10AE35A8 00000001
++Stop Lap Timer
+%Credits: Code Master
+$2021CC30 00000000
++Total Laps Modifier (01-63)
+%Credits: Code Master
+$2033A7C0 240600??
+!!
+

@@ -1,0 +1,91 @@
+^3 = NAME: Army Men - Air Attack 2 (NTSC-U)
+^2 = GameID: SLUS-20004
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F0103F4C 00103F4F
++(M) Must Be On
+%Credits: InterAct
+$F0103F4C 000001FD
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0014470F
+!!
++Become A Bee
+%Credits: InterAct
+$10A86DB4 00000002
++Bee Mode
+%Credits: Code Master
+$10A86DB4 00000003
+!Co-Pilot Ammo:
++Infinite Co-Pilot Ammo
+%Credits: Codejunkies
+$00A4650A 00000062
++Never Have More Than Half Of Your Co-Pilot Ammo
+%Credits: Codejunkies
+$E1010031 30A4650A
+$00A4650A 00000031
+!!
+!Copter Ammo Codes:
++Infinite Copter Ammo
+%Credits: Codejunkies
+$00A4642A 00000062
++Never Have More Than Half Of Your Copter Ammo
+%Credits: Codejunkies
+$E1010031 30A4642A
+$00A4642A 00000031
+!!
++Have All Co-Pilots
+%Credits: Code Master
+$202E0D0C 000000FF
+$202E0E44 000000FF
++Have All Helicopters
+%Credits: Code Master
+$202E0D04 00000018
+$202E0E3C 00000018
++Have All Levels
+%Credits: Code Master
+$202E0D20 00000014
+$202E0E58 00000014
+!Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$10A51A8E 0000001A
++Never Have More Than Half Health
+%Credits: Codejunkies
+$E001000D 30A51A8E
+$10A51A8E 0000000D
+!!
+!Multi Player Mode Codes:
++Infinite Ammo P1 (Co-Pilot)
+%Credits: Code Master
+$00A458CA 00000063
++Infinite Ammo P1 (Helicopter)
+%Credits: Code Master
+$00A457EA 00000063
++Infinite Ammo P2 (Co-Pilot)
+%Credits: Code Master
+$00A45C4A 00000063
++Infinite Ammo P2 (Helicopter)
+%Credits: Code Master
+$00A45B6A 00000063
++Infinite Health P1
+%Credits: Code Master
+$20A50E4C 000F5000
++Infinite Health P2
+%Credits: Code Master
+$20A512CC 000F5000
+!!
+!Single Player Mode Codes:
++Infinite Ammo (Co-Pilot)
+%Credits: Code Master
+$00A4650A 00000063
++Infinite Ammo (Helicopter)
+%Credits: Code Master
+$00A4642A 00000063
++Infinite Health
+%Credits: Code Master
+$20A51A8C 000F5000
+!!
+!!
+

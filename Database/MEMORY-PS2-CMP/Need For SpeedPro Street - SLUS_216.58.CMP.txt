@@ -1,0 +1,30 @@
+^1 = Hash: A9 B1 7B 23 44 DB ED 1A 51 F4 3F B4 58 53 A7 00 FF 4D 7E B1
+^2 = GameID: SLUS_216.58
+^3 = NAME: Need For Speed:Pro Street
+!Masters:
++Enable Code (MUST BE ON)
+$9058A768 0C162982
++Enable Code (MUST BE ON)
+$F0587F5C 00587F5F
+!!
+!Misc:
++Max Cash Asm
+$20222A18 3C0205F5
+$20222A1C 3442E0FF
++Alt.max Cash Mem Address
+$20A4FF20 05F5E0FF
++Buying Parts Increases Cash
+$20228FF8 02028021
++Instant Outrageous Drift
+$2041C1C0 3C0205F0
++Disable Racers Ai
+$20122E08 10000011
++Freeze Timers
+$201E5E1C 00000000
++Open All Parts/Cars/Races/Challenges**not Saveable**
+$20678B94 00000001
++Inf Nos
+%Credits: SkillerCMP
+$201ACD64 34420063
+$201ACE70 AE000160
+!!

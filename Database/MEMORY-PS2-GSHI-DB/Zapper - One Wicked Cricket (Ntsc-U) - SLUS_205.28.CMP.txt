@@ -1,0 +1,330 @@
+^3 = NAME: Zapper - One Wicked Cricket (Ntsc-U)
+^2 = GameID: SLUS-20528
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F02395FC 002395FF
++Enable Code
+%Credits: punk7890
+$9025A170 0C096804
++Enable Code (Must Be On)
+%Credits: Code Master
+$F01E98D0 002395FF
+!!
++60Hz Test {<I>Press Start On &Quot;Display Options&Quot; In The Main Menu Options. Use This Code If You Want To Run The Game In 50Hz Mode.</I>}
+%Credits: Hacc
+$20189A9C 0C0634FC
+$D03B32C2 0000FFF7
+$20189A9C 0C058AC4
++100 Fireflies
+%Credits: Codejunkies
+$201B3748 24030064
++All Arcade Levels
+%Credits: Codejunkies
+$1028E2C8 0000FFFF
++All Story Levels
+%Credits: Codejunkies
+$1040BD38 0000FFFF
+!Debris Generator Editor Codes (incomplete):
++Don't Draw Enemies
+%Credits: Hacc
+$2040D800 00000000
++Draw NME Boxes
+%Credits: Hacc
+$2040D7E8 00000001
++Draw Sound Gen
+%Credits: Hacc
+$2040D818 00000001
+!!
++Developer Options & Sample Viewer (In-Game) {<I>Press L2 + Start For The Developer Options Menu (The Font Viewer Won&#39;T Display Anything; Press /\ To Exit), And R2 + Start For The Sample Viewer Menu (No Exit; Reset Console). Lower The Music Before Using The Sample Viewer.  Model Viewer Controls (Not Fully Explained In-Game):  Toggle Mode: Start Next Actor: X Prev Actor: O Next Anim: Right Prev Anim: Left Add Clone: R1 Del Clone: L1</I>}
+%Credits: Hacc
+$20132CE4 0C0629AA
+$2013A728 0C0629AA
+$E002FEF7 003B32C2
+$20132CE4 0C05B5B4
+$2013A728 0C05B5B4
+$E002FDF7 003B32C2
+$20132CE4 0C04F43C
+$2013A728 0C04F43C
++Developer Options & Sample Viewer (Main Menu Options) {<I>Press L2 + Start On &Quot;Options&Quot; At The Main Menu For The Developer Options Menu, And R2 + Start For The Sample Viewer Menu (No Exit; Reset Console). Lower The Music Before Using The Sample Viewer.  Model Viewer Controls (Not Fully Explained In-Game):  Toggle Mode: Start Next Actor: X Prev Actor: O Next Anim: Right Prev Anim: Left Add Clone: R1 Del Clone: L1</I>}
+%Credits: Hacc
+$20176284 0C0624B6
+$D03B32C2 0000FEF7
+$20176284 0C05B5B4
+$D03B32C2 0000FDF7
+$20176284 0C04F43C
++Extra Lives
+%Credits: Code Master
+$101B5690 00000001
++Find 1 Egg To Finish Level
+%Credits: Code Master
+$201B41A0 24030006
++Infinite Lives
+%Credits: Code Master
+$201B5698 00000000
++Language Modifier {<I>00 - English (UK)<Br>01 - French<Br>02 - German<Br>03 - Spanish<Br>04 - Italian<Br>0A - English (US)</I>}
+%Credits: Hacc
+$002F8E00 000000??
++Max Fireflies (Completed Level Screen)
+%Credits: Code Master
+$2040BD40 00000064
+!Max Fireflies Freed-Saved Slot 1 Codes:
++World Four-Chain Reactor
+%Credits: Code Master
+$2028DDE0 00000064
++World Four-Laser Maze
+%Credits: Code Master
+$2028DDD8 00000064
++World Four-Pipewerx
+%Credits: Code Master
+$2028DDDC 00000064
++World One-Crazy Apiary
+%Credits: Code Master
+$2028DDE8 00000064
++World One-Half Acre Wood
+%Credits: Code Master
+$2028DDB8 00000064
++World One-Overgrown Undergrowth
+%Credits: Code Master
+$2028DDB4 00000064
++World One-White Knuckle Water
+%Credits: Code Master
+$2028DDBC 00000064
++World Three-Rockface Chase
+%Credits: Code Master
+$2028DDD4 00000064
++World Three-Spook Ville
+%Credits: Code Master
+$2028DDCC 00000064
++World Three-Voodoo Choo Choo
+%Credits: Code Master
+$2028DDD0 00000064
++World Two-Canopy Heights
+%Credits: Code Master
+$2028DDC0 00000064
++World Two-Cutting Edge Inc.
+%Credits: Code Master
+$2028DDC4 00000064
++World Two-Raptor Cavern
+%Credits: Code Master
+$2028DDC8 00000064
++World Two-Zap Pest
+%Credits: Code Master
+$2028DDEC 00000064
+!!
+!Max Fireflies Freed-Saved Slot 2 Codes:
++World Four-Chain Reactor
+%Credits: Code Master
+$2028DEDC 00000064
++World Four-Laser Maze
+%Credits: Code Master
+$2028DED4 00000064
++World Four-Pipewerx
+%Credits: Code Master
+$2028DED8 00000064
++World One-Crazy Apiary
+%Credits: Code Master
+$2028DEE4 00000064
++World One-Half Acre Wood
+%Credits: Code Master
+$2028DEB4 00000064
++World One-Overgrown Undergrowth
+%Credits: Code Master
+$2028DEB0 00000064
++World One-White Knuckle Water
+%Credits: Code Master
+$2028DEB8 00000064
++World Three-Rockface Chase
+%Credits: Code Master
+$2028DED0 00000064
++World Three-Spook Ville
+%Credits: Code Master
+$2028DEC8 00000064
++World Three-Voodoo Choo Choo
+%Credits: Code Master
+$2028DECC 00000064
++World Two-Canopy Heights
+%Credits: Code Master
+$2028DEBC 00000064
++World Two-Cutting Edge Inc.
+%Credits: Code Master
+$2028DEC0 00000064
++World Two-Raptor Cavern
+%Credits: Code Master
+$2028DEC4 00000064
++World Two-Zap Pest
+%Credits: Code Master
+$2028DEE8 00000064
+!!
+!Max Fireflies Freed-Saved Slot 3 Codes:
++World Four-Chain Reactor
+%Credits: Code Master
+$2028DFD8 00000064
++World Four-Laser Maze
+%Credits: Code Master
+$2028DFD0 00000064
++World Four-Pipewerx
+%Credits: Code Master
+$2028DFD4 00000064
++World One-Crazy Apiary
+%Credits: Code Master
+$2028DFE0 00000064
++World One-Half Acre Wood
+%Credits: Code Master
+$2028DFB0 00000064
++World One-Overgrown Undergrowth
+%Credits: Code Master
+$2028DFAC 00000064
++World One-White Knuckle Water
+%Credits: Code Master
+$2028DFB4 00000064
++World Three-Rockface Chase
+%Credits: Code Master
+$2028DFCC 00000064
++World Three-Spook Ville
+%Credits: Code Master
+$2028DFC4 00000064
++World Three-Voodoo Choo Choo
+%Credits: Code Master
+$2028DFC8 00000064
++World Two-Canopy Heights
+%Credits: Code Master
+$2028DFB8 00000064
++World Two-Cutting Edge Inc.
+%Credits: Code Master
+$2028DFBC 00000064
++World Two-Raptor Cavern
+%Credits: Code Master
+$2028DFC0 00000064
++World Two-Zap Pest
+%Credits: Code Master
+$2028DFE4 00000064
+!!
++R3 + Select For Debug Menu
+%Credits: punk7890
+$0011C286 00000041
+!SAVE 1 CODES:
++1/2 Acre Wood Complete
+%Credits: Codejunkies
+$1028DDB8 00000064
++Canopy Heights Complete
+%Credits: Codejunkies
+$1028DDC0 00000064
++Chain Reaction Complete
+%Credits: Codejunkies
+$1028DDE0 00000064
++Crazy Apiary Complete
+%Credits: Codejunkies
+$1028DDE8 00000064
++Cutting Edge Complete
+%Credits: Codejunkies
+$1028DDC4 00000064
++Laser Maze Complete
+%Credits: Codejunkies
+$1028DDD8 00000064
++Pipewerx Complete
+%Credits: Codejunkies
+$1028DDDC 00000064
++Raptor Cavern Complete
+%Credits: Codejunkies
+$1028DDC8 00000064
++Rockface Chase Complete
+%Credits: Codejunkies
+$1028DDD4 00000064
++Spook Ville Complete
+%Credits: Codejunkies
+$1028DDCC 00000064
++Undergrowth Complete
+%Credits: Codejunkies
+$1028DDB4 00000064
++Voodoo Choo Choo Complete
+%Credits: Codejunkies
+$1028DDD0 00000064
++White Knuckle Water Complete
+%Credits: Codejunkies
+$1028DDBC 00000064
+!!
+!Save 2 Codes - Level Complete:
++1/2 Acre Wood Complete
+%Credits: Codejunkies
+$1028DEB4 00000064
++Canopy Heights Complete
+%Credits: Codejunkies
+$1028DEBC 00000064
++Chain Reaction Complete
+%Credits: Codejunkies
+$1028DEDC 00000064
++Crazy Apiary Complete
+%Credits: Codejunkies
+$1028DEE4 00000064
++Cutting Edge Complete
+%Credits: Codejunkies
+$1028DEC0 00000064
++Laser Maze Complete
+%Credits: Codejunkies
+$1028DED4 00000064
++Pipewerx Complete
+%Credits: Codejunkies
+$1028DED8 00000064
++Raptor Cavern Complete
+%Credits: Codejunkies
+$1028DEC4 00000064
++Rockface Chase Complete
+%Credits: Codejunkies
+$1028DED0 00000064
++Spook Ville Complete
+%Credits: Codejunkies
+$1028DEC8 00000064
++Undergrowth Complete
+%Credits: Codejunkies
+$1028DEB0 00000064
++Voodoo Choo Choo Complete
+%Credits: Codejunkies
+$1028DECC 00000064
++White Knuckle Water Complete
+%Credits: Codejunkies
+$1028DEB8 00000064
+!!
+!SAVE 3 CODES:
++1/2 Acre Wood Complete
+%Credits: Codejunkies
+$1028DFB0 00000064
++Canopy Heights Complete
+%Credits: Codejunkies
+$1028DFB8 00000064
++Chain Reaction Complete
+%Credits: Codejunkies
+$1028DFD8 00000064
++Crazy Apiary Complete
+%Credits: Codejunkies
+$1028DFE0 00000064
++Cutting Edge Complete
+%Credits: Codejunkies
+$1028DFBC 00000064
++Laser Maze Complete
+%Credits: Codejunkies
+$1028DFD0 00000064
++Pipewerx Complete
+%Credits: Codejunkies
+$1028DFD4 00000064
++Raptor Cavern Complete
+%Credits: Codejunkies
+$1028DFC0 00000064
++Rockface Chase Complete
+%Credits: Codejunkies
+$1028DFCC 00000064
++Spook Ville Complete
+%Credits: Codejunkies
+$1028DFC4 00000064
++Undergrowth Complete
+%Credits: Codejunkies
+$1028DFAC 00000064
++Voodoo Choo Choo Complete
+%Credits: Codejunkies
+$1028DFC8 00000064
++White Knuckle Water Complete
+%Credits: Codejunkies
+$1028DFB4 00000064
+!!
+!!
+

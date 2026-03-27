@@ -1,0 +1,56 @@
+^1 = HASH: 6F4056DB
+^3 = NAME: Socom-US Navy Seals (Version 1.0)
+^2 = GameID: SCUS_971.34
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0140008 0016FC0F
+!!
+!With this game, if these codes dont work, Try These!:
++Immune To Bullets{With This Code, You Are Immune To Bullets And You Can Still Kill Enemies. Your Team Mates Cant Shoot Either, So You Get To Do All Of The Killing. Also Be Careful, Rifle Butts Still Kill You As Well. There Maybe Some Bugs In It As Well, Needs Testing All The Way Through The Game, But I Havent Had Time To Play More Than 2 Levels.}
+%Credits: Code Master
+$200C0220 92410000
+$200C0224 14200003
+$200C0228 00000000
+$200C022C 080ADDCC
+$200C0230 00000000
+$200C0234 03E00008
+$200C0238 00000000
+$202B927C 0C030088
++P1 Press L1+Select To Enable No Vertical Clipping
+%Credits: Code Master
+$D04EFB82 0000FBFE
+$202B2910 00000000
++P1 Press L2+Select To Disable No Vertical Clipping
+%Credits: Code Master
+$D04EFB82 0000FEFE
+$202B2910 0200902D
++Less Enemies
+%Credits: Code Master
+$202B32C0 00000000
++Infinite Ammo
+%Credits: Code Master
+$202B7C7C 00000000
++Extra Ammo
+%Credits: Code Master
+$102B7C74 00000001
++Most Terrorists Have No Ammo
+%Credits: Code Master
+$202B64A0 03E00008
+$202B64A4 24020000
++No Recoil
+%Credits: Code Master
+$202BAA2C 00000000
++Infinite Grenades
+%Credits: Code Master
+$202BA298 00000000
++Extra Grenades
+%Credits: Code Master
+$102BA294 00000001
++Lesser AI
+%Credits: Code Master
+$2048CA18 00000000
++Always Complete Missions
+%Credits: Code Master
+$201D7C20 24020001
+!!

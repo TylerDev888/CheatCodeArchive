@@ -1,0 +1,48 @@
+^3 = NAME: Smash Court Tennis - Pro Tournament 2 (Pal-Unk)
+^2 = GameID: SLES-52423
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0190308 0019030B
+!!
+!Player On Bottom Of Score Board:
++Always 0 Sets (Press R2 To Activate)
+%Credits: Codejunkies
+$D04635C2 0000FDFF
+$1057644A 00000000
++Always 9 Sets (Press R1 To Activate)
+%Credits: Codejunkies
+$D04635C2 0000F7FF
+$1057644A 00000009
++Always On 0 Points (Press R2 To Activate)
+%Credits: Codejunkies
+$E10200FF 014635C2
+$10576456 00000000
+$1057646C 00000000
++Always On 40 Points (Press R1 To Activate)
+%Credits: Codejunkies
+$E10200FF 014635C2
+$10576456 00000003
+$1057646C 00000003
+!!
+!Player On Top Of Score Board:
++Always 0 Sets (Press L2 To Activate)
+%Credits: Codejunkies
+$D04635C2 0000FEFF
+$10576440 00000000
++Always 9 Sets (Press L1 To Activate)
+%Credits: Codejunkies
+$D04635C2 0000FBFF
+$10576440 00000009
++Always On 0 Points (Press L2 To Activate)
+%Credits: Codejunkies
+$E10200FF 014635C2
+$10576454 00000000
+$1057646A 00000000
++Always On 40 Points (Press L1 To Activate)
+%Credits: Codejunkies
+$E10200FF 014635C2
+$10576454 00000003
+$1057646A 00000003
+!!
+

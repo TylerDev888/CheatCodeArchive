@@ -1,0 +1,52 @@
+^3 = NAME: King Of Fighters 2002, The (Ntsc-J)
+^2 = GameID: SLPS-25347
+!Master Codes:
++Enable Code
+%Credits: lee4
+$9010DB74 0C046280
++Enable Code
+%Credits: lee4
+$9010DB88 0C0432EA
+!!
++Freeze Timer
+%Credits: lee4
+$00927320 000000FF
++Have All Time Attack Challenges Completed
+%Credits: lee4>CMX
+$20935BF0 00000028
++Infinite Time
+%Credits: lee4
+$10927328 00000099
++P1 Always Level 3 Power Gauge
+%Credits: lee4>CMX
+$00933293 00000003
++P1 Infinite Health
+%Credits: lee4
+$109331E8 00000066
++P1 Infinite Power Gauge
+%Credits: lee4>MadCatz
+$10933198 00004200
++P1 Infinite Special Time
+%Credits: lee4>MadCatz
+$1093319A 00002C80
++P2 Always Level 3 Power Gauge
+%Credits: lee4>CMX
+$009334A3 00000003
++P2 Infinite Health
+%Credits: lee4
+$109333F8 00000066
++P2 Infinite Power Gauge
+%Credits: lee4>MadCatz
+$109333A8 00004200
++P2 Infinite Special Time
+%Credits: lee4>MadCatz
+$109333AA 00002C80
++Unlock All Character Art Gallery
+%Credits: lee4>CMX
+$209356E8 FFFFFFFF
+$009356EC 000000FF
++Unlock All Characters
+%Credits: lee4>CMX
+$20935C14 FFFFFFFF
+!!
+

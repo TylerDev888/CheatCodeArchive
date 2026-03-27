@@ -1,0 +1,22 @@
+^3 = NAME: IHRA Professional Drag Racing 2005 (Ntsc-U)
+^2 = GameID: SLUS-20935
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$90111FF0 0C045F8A
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Buying Parts Doesn't Decrease Money
+%Credits: Code Master
+$202FCE60 00000000
++Buying Parts Increases Money
+%Credits: Code Master
+$202FCE5C 46010000
++Buying Vehicles Doesn't Decrease Money
+%Credits: Code Master
+$202F58A4 00000000
++Buying Vehicles Increases Money
+%Credits: Code Master
+$202F5898 46010000
+!!
+

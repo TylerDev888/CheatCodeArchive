@@ -1,0 +1,99 @@
+^3 = NAME: World Rally Championship II Extreme (Pal-Unk)
+^2 = GameID: SCES-50935
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$9022CD64 0C055020
+!!
+!Driver Championship:
++Arai 255 Pts
+%Credits: Codejunkies
+$0028C520 000000FF
++Burns 255 Pts
+%Credits: Codejunkies
+$0028BD94 000000FF
++Duval 255 Pts
+%Credits: Codejunkies
+$0028C0A8 000000FF
++Gronholm 255 Pts
+%Credits: Codejunkies
+$0028BE00 000000FF
++Maikinen 255 Pts
+%Credits: Codejunkies
+$0028C448 000000FF
++Panizzi 255 Pts
+%Credits: Codejunkies
+$0028BE6C 000000FF
++Rovanpera 255 Pts
+%Credits: Codejunkies
+$0028BED8 000000FF
++Sainz 255 Pts
+%Credits: Codejunkies
+$0028BFD0 000000FF
++Solberg 255 Pts
+%Credits: Codejunkies
+$0028C4B4 000000FF
+!!
+!Manufacturers Championship:
++Citroen 255 Pts
+%Credits: Codejunkies
+$0028CAA0 000000FF
++Ford 255 Pts
+%Credits: Codejunkies
+$0028BF74 000000FF
++Hundai 255 Pts
+%Credits: Codejunkies
+$0028C864 000000FF
++Mitsubishi 255 Pts
+%Credits: Codejunkies
+$0028C1B0 000000FF
++Peugeot 255 Pts
+%Credits: Codejunkies
+$0028BD38 000000FF
++Subaru 255 Pts
+%Credits: Codejunkies
+$0028C3EC 000000FF
+!!
+!This Game Requires The Upgrade Disc Version 2.20, Or Any Higher Version:
++Free Ride/No 3 Secs Countdown
+%Credits: Codejunkies
+$201BF568 00000000
+$201BF58C 00000000
++Press L3 To Reverse Pit Time, And R3 To Stop (Use Only In Pit)
+%Credits: Codejunkies
+$D1BEA412 0000FFFD
+$2011A688 00A31821
+$D1BEA412 0000FFFB
+$2011A688 00651823
+!!
+!Use Only One Of The Next 3 Codes:
++Freeze Timer (Championship)
+%Credits: Codejunkies
+$200FFF00 3C010029
+$200FFF04 8C21BD54
+$200FFF14 8C21014C
+$200FFF30 03E00008
+$200FFF1C 24210028
+$200FFF0C 10010008
+$200FFF20 14240003
+$200FFF28 24010100
+$200FFF2C AC810000
+$2011A64C 0803FFC0
++Freeze Timer (Time Trial) {<I>Freeze Timer (Championship)</I>}
+%Credits: Codejunkies
+$200FFF00 3C010029
+$200FFF04 8C21BDC0
+$200FFF14 8C21014C
+$200FFF30 03E00008
+$200FFF1C 24210028
+$200FFF0C 10010008
+$200FFF20 14240003
+$200FFF28 24010100
+$200FFF2C AC810000
+$2011A64C 0803FFC0
++Slow Timers {<I>Freeze Timer (Time Trial)</I>}
+%Credits: Codejunkies
+$2011A64C 2463FFF8
+$2011A654 03E00008
+!!
+

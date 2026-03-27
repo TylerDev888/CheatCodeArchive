@@ -1,0 +1,129 @@
+^3 = NAME: Bloody Roar 3 (Ntsc-J)
+^2 = GameID: SLPM-62055
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: lee4
+$901D3E70 0C074F44
++Enable Code (Must Be On)
+%Credits: lee4
+$F0100008 001BAA57
+!!
+!Jokers:
++Player 1 Controller
+%Credits: lee4
+$D020D8C2 0000????
++Player 2 Controller
+%Credits: lee4
+$D020D9C2 0000????
+!Game Modes:
++H.Beast
+%Credits: CMX
+$1020C958 00000007
++Hard
+%Credits: CMX
+$1020C958 00000003
++High Speed
+%Credits: CMX
+$1020C958 00000005
++Knock Down
+%Credits: CMX
+$1020C958 00000004
++Low Speed
+%Credits: CMX
+$1020C958 00000006
++No Guard
+%Credits: CMX
+$1020C958 00000002
++Sudden Death
+%Credits: CMX
+$1020C958 00000001
++Sumo
+%Credits: CMX
+$1020C958 00000008
+!!
+!Health Codes:
++Player 1 Activator
+%Credits: Skiller
+$200A0000 3C01001F
+$200A0004 8C214AF8
+$200A0008 10200013
+$200A0028 3C01001F
+$200A002C 8C214AFC
+$200A0030 10200009
+$200A0034 3C020021
+$200A0038 9042D8C3
+$200A003C 240300FC
+$200A0040 14430005
+$200A0048 240200FF
+$200A0058 03E00008
+$201DADBC 08028000
++Player 1 Inf HP
+%Credits: Skiller
+$200A0010 AC200244
+$200A0014 AC200248
++Player 1 Inf/Max Beast
+%Credits: Skiller
+$200A0018 24023BFF
+$200A001C AC220264
++Player 1 Kill Player 2 (Hold L2+R2)
+%Credits: Skiller
+$200A004C AC220244
+$200A0050 AC220248
++Player 1 Zero Player 2 Beast Guage (Hold L2+R2)
+%Credits: Skiller
+$200A0054 AC200264
++Player 2 Activator
+%Credits: Skiller
+$200A0000 3C01001F
+$200A0004 8C214AFC
+$200A0008 10200013
+$200A0028 3C01001F
+$200A002C 8C214AF8
+$200A0030 10200009
+$200A0034 3C020021
+$200A0038 9042D9C3
+$200A003C 240300FC
+$200A0040 14430005
+$200A0048 240200FF
+$200A0058 03E00008
+$201D3E7C 08028040
++Player 2 Inf HP
+%Credits: Skiller
+$200A0110 AC200244
+$200A0114 AC200248
++Player 2 Inf/Max Beast
+%Credits: Skiller
+$200A0118 24023BFF
+$200A011C AC220264
++Player 2 Kill Player 1 (Hold L2+R2)
+%Credits: Skiller
+$200A014C AC220244
+$200A0150 AC220248
++Player 2 Zero Player 1 Beast Guage (Hold L2+R2)
+%Credits: Skiller
+$200A0154 AC200264
+!!
+!Misc Codes:
++Infinite Time
+%Credits: CMX
+$2012FB1C 00000000
++Skip FMV
+%Credits: lee4
+$201DC9F8 24020001
++Unlock Extra Modes
+%Credits: CMX
+$1020C95C 0000FFFF
+$101F522C 0000FFFF
+!!
+!Player 1 Character Mod Codes:
++P1 Play As Uranus
+%Credits: CMX
+$101F499E 0000000E
+!!
+!Player 2 Character Mod Codes:
++P2 Play As Uranus
+%Credits: CMX
+$101F49F6 0000000E
+!!
+
+

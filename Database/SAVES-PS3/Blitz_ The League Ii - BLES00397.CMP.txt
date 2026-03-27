@@ -1,0 +1,10 @@
+^2 = GameID: BLES00397
+^3 = NAME: Blitz: The League II
+^4 = FILE: BSAV0.SAV
++Update Crc32big:0 For Bsav0.sav (required)
+(set range:0x000254,0x07C206)
+$set pointer:eof+1
+$set range:0x000254,pointer
+$set [hash]:CRC32Big:0
+$set [hash]:xor:FFFFFFFF
+$write at 0x000250:[hash]

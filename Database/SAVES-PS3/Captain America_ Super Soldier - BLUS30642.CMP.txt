@@ -1,0 +1,7 @@
+^2 = GameID: BLUS30642
+^3 = NAME: Captain America: Super Soldier
+^4 = FILE: SAVE1.SAV
++Update Crc32 For Save1.sav (required)
+$set range:0x000008,0x005C88
+$set [hash]:CRC32
+$write at 0x000004:[hash]

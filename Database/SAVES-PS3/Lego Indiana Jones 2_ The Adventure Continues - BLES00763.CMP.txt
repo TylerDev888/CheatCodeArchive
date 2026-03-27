@@ -1,0 +1,13 @@
+^2 = GameID: BLES00763
+^3 = NAME: LEGO Indiana Jones 2: The Adventure Continues
+^5 = APCRED: From Game Genie For PS3
+^4 = FILE: SAVEDATA.DAT
++Max Studs
+$8001000C 45610000
+$00000000 00000000
+$28000108 000000E8
+$2800010C D4A50FFF
++Update Dwadd For Savedata.dat(required)
+$set [csum]:0x5C0999
+$set [csum]:dwadd(0x000000,0x0813DF)
+$write at 0x0813E0:[csum]

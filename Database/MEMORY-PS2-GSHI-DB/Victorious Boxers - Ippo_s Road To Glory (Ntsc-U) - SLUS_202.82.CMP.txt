@@ -1,0 +1,53 @@
+^3 = NAME: Victorious Boxers - Ippo's Road To Glory (Ntsc-U)
+^2 = GameID: SLUS-20282
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0100104 001A80F7
++(M) Must Be On
+%Credits: Codejunkies
+$F01A80F4 001A80F7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001A80F7
+!!
+!P1 Codes:
++P1: Easily Knocked Out
+%Credits: InterAct
+$101C4C88 00000004
++P1: Glass Jaw
+%Credits: InterAct
+$101C4076 00000000
++P1: Never Knocked Out
+%Credits: InterAct
+$101C4C88 00000000
++P1: Raging Bull
+%Credits: InterAct
+$101C4076 000000EE
+!!
+!P2 Codes:
++P2: Easily Knocked Out
+%Credits: InterAct
+$101C5E68 00000004
++P2: Glass Jaw
+%Credits: InterAct
+$101C526A 00000000
++P2: Never Knocked Out
+%Credits: InterAct
+$101C5E68 00000000
++P2: Raging Bull
+%Credits: InterAct
+$101C526A 00000097
+!!
++P2 Strong Jaw
+%Credits: Code Master
+$101C526A 000000EE
+!Player 2 Boxer Type:
++Unlock All Levels And All Characters
+%Credits: Codejunkies
+$101C2714 00000030
+$101C317C 00000030
+$101C6AFC 00000030
+!!
+!!
+

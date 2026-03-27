@@ -1,0 +1,45 @@
+^3 = NAME: Asterix & Obelix XXL 2 - Mission Las Vegum (PAL-Unk)
+^2 = GameID: SLES-53060
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0209128 0020912B
+!!
++1Hitkill (Read Notes)
+%Credits: luc-ita
+$D0589B02 0000EFFE
+$20279FE8 10000005
+$D0589B02 0000BFFE
+$20279FE8 50200005
++9999999 Roman Helmets
+%Credits: Codejunkies
+$207D1F60 0098967F
+!Helmet Collection Multiplayer:
++Always Have Potion Power
+%Credits: Codejunkies
+$2025C4D8 24030001
+$20254894 24020001
++Each Helmet Is Worth 50 Helmets
+%Credits: Codejunkies
+$107D1F5E 00000032
++Each Helmet Is Worth 100 Helmets
+%Credits: Codejunkies
+$107D1F5E 00000064
++Each Helmet Is Worth 500 Helmets
+%Credits: Codejunkies
+$107D1F5E 0000015F
+!!
++Infinite Health
+%Credits: Codejunkies
+$107D1F5C 00000006
++Jump In Midair
+%Credits: luc-ita
+$20266C28 10000046
+$20266C58 00000000
++Take Roman Helmets Anywhere
+%Credits: luc-ita
+$202990C0 00000000
+$20298F74 00000000
+$20298D8C 00000000
+!!
+

@@ -1,0 +1,7 @@
+^2 = GameID: BLES01395
+^3 = NAME: Blades of Time
+^5 = APCRED: From chaoszage
+^4 = FILE: PROFILE.BLK
++Schoolgirl Costume
+$search "hero_model_number"
+$write next (20):"4"

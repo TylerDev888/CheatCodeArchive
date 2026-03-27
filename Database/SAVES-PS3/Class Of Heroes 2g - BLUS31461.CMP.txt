@@ -1,0 +1,14 @@
+^2 = GameID: BLUS31461
+^3 = NAME: Class of Heroes 2G
+^5 = APCRED: cheat by SHAkA
+^4 = FILE: SYSTEM.DAT
++Monster Kills 500
+$write at 0x224BF:0x01000001F2
++Monster Kills 10,000
+$write at 0x224BF:0x010000270E
++Monster Kills 50,000
+$write at 0x224BF:0x010000C34E
++Money
+$write at 0x2ADE0:0x3B9AC9FF
++X99 Wyvern Call Ticket
+$write at 0x2A639:0x028C63

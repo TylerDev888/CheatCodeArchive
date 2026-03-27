@@ -1,0 +1,10 @@
+^2 = GameID: NPEB01427
+^3 = NAME: CASTLE OF ILLUSION: Starring Mickey Mouse
+^4 = FILE: METAGAME.DAT
++Update Adler32 For Metagame.dat (required)
+$set [size]:read(8,4)
+$set [begin]:0xC
+$set [end_range]:[begin]+[size]-1
+$set range:[begin],[end_range]
+$set [hash]:Adler32
+$write at 0x000004:[hash]

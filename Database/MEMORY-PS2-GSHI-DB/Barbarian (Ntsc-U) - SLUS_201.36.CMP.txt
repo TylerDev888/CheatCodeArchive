@@ -1,0 +1,55 @@
+^3 = NAME: Barbarian (Ntsc-U)
+^2 = GameID: SLUS-20136
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F0258764 00258767
++(M) Must Be On
+%Credits: InterAct
+$F0100084 00258767
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00258767
+!!
++All Stats Are Maxed
+%Credits: Codejunkies
+$4048322C 0005000C
+$FFFFFFFF 00000000
+$40483234 0005000C
+$3E355B0D 00000000
++Infinite AP
+%Credits: InterAct
+$10499D8C 00000006
++Infinite AP
+%Credits: Code Master
+$20499D8C 0000270F
++Infinite Ap
+%Credits: Codejunkies
+$20499D8C 00000063
++Infinite Attribute Points
+%Credits: InterAct
+$20499D8C 00001A0A
+!Stat Codes:
++Max Damage
+%Credits: InterAct
+$2048322C FFFFFFFF
+$20483234 0000000A
++Max Defense
+%Credits: InterAct
+$2048328C FFFFFFFF
+$20483294 0000000A
++Max Life
+%Credits: InterAct
+$2048325C FFFFFFFF
+$20483264 0000000A
++Max Lift
+%Credits: InterAct
+$204832EC FFFFFFFF
+$204832F4 0000000A
++Max Magic
+%Credits: InterAct
+$204832BC FFFFFFFF
+$204832C4 0000000A
+!!
+!!
+

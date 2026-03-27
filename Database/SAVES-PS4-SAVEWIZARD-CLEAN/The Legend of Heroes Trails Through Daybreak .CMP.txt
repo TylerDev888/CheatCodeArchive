@@ -1,0 +1,66 @@
+^2 = GameID: CUSA27774,CUSA45505,CUSA45506
+^3 = NAME:The Legend of Heroes Trails Through Daybreak
+^4 = FILE: user\.dat
+
++Mod characters Bonus Stats
+$92000000 00[Char]
+$2800[Stat] [AMOUNT:0000270F:HEX:BIG<AMOUNT>]
+
++All weapons
+$410B76A8 00000263
+$42580004 00000000
+
++All armour, shoes and accesssories
+$410B8008 00000263
+$43000004 00000000
+
++All Usable items
+$410B706C 00000263
+$402E0004 00000000
+
++Jet Black Steel
+$100B74C4 00000263
+
++All Quartz
+$410BAA38 00000263
+$42EE0004 00000000
+
++All Arts
+$410BA588 00000263
+$412C0004 00000000
+
++All Holo Cores
+$410BA3F8 00000263
+$40630004 00000000
+
++All Costumes
+$410B977C 00000214
+$406C0004 00000000
+
+^6 = MODS:
+[Char]
+Value>Character
+09BCE0	Van
+09C0C8	Agnes
+09C4B0	Ferri
+09C898	Aaron
+09CC80	Lisette
+09D068	Quatre
+09D450	Judith
+09D838	Bellegarde
+09DC20	Kincaid
+09E008	Silver
+09E3F0	Shizuna
+[/Char]
+
+[Stat]
+Value>Stat
+00A4	HP
+00A8	STR
+00AC	DEF
+00B0	ATS
+00B4	ADF
+00B8	AGL
+00BC	DEX
+00C0	SPD
+[/Stat]

@@ -1,0 +1,111 @@
+^3 = NAME: Midnight Club II (Ntsc-U)
+^2 = GameID: SLUS-20209
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F03F2924 003F2927
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 003F2927
+!!
++All Abilities & Nitro
+%Credits: Codejunkies
+$0042CCEC 00000001
++All Cities & Tracks
+%Credits: Codejunkies
+$1042CCE8 00000101
++All Vehicles
+%Credits: Codejunkies
+$0042CCEA 00000001
+!Arcade Mode AI Codes:
++Aggressive AI
+%Credits: Codejunkies
+$2042CCE0 3F800000
++Easy AI
+%Credits: Codejunkies
+$2042CCE0 3DCCCCCD
++Idiot AI
+%Credits: Codejunkies
+$2042CCE0 01000000
++Super Agressive AI
+%Credits: Codejunkies
+$2042CCE0 42C80000
+!!
++Game 100% Complete
+%Credits: Codejunkies
+$205B4C78 CDCDCD01
+$205B4C80 DFEFDEF7
+$205B4C84 00003EFF
+$205B4C88 F7EF7BDE
+$205B4C8C 00001FBF
+$205B4C90 F7BDEFDE
+$205B4C94 00003FBF
++Game Completed
+%Credits: Code Master
+$205B4C80 FFFFFFFF
+$205B4C84 FFFFFFFF
+$205B4C88 FFFFFFFF
+$205B4C8C FFFFFFFF
+$205B4C90 FFFFFFFF
+$205B4C94 FFFFFFFF
++Guns & Missiles (L3 & R3)
+%Credits: Codejunkies
+$00427788 00000001
++Idiot AI
+%Credits: Code Master
+$2042CCE0 3A83126F
++Infinite Boost
+%Credits: Codejunkies
+$0042780D 00000001
++Infinite Damage
+%Credits: Code Master
+$2020E6E4 AE00005C
+$2020E67C AE20005C
++Never Take Damage
+%Credits: Code Master
+$0042780C 00000001
++No AI
+%Credits: Code Master
+$0042CDAF 00000001
+$004AC18B 00000000
++No Pedestrians
+%Credits: Code Master
+$0042CDAF 00000001
+$004AC18C 00000000
++No Props
+%Credits: Code Master
+$0042CDAC 00000000
+$004AC189 00000000
++No Traffic
+%Credits: Code Master
+$0042CDAD 00000000
+$004AC18A 00000000
++Quick Win (Arcade Mode - Circuit)
+%Credits: Code Master
+$201AE674 2441FFFF
+$201AE678 A1010030
++Unlock All Cities
+%Credits: Code Master
+$0042CCE9 00000001
++Unlock All Races
+%Credits: Code Master
+$0042CCE8 00000001
++Unlock Customization
+%Credits: Code Master
+$0042CCEB 00000001
++Unlock Everything
+%Credits: InterAct
+$0042CCE8 00000001
+$0042CCE9 00000001
+$0042CCEA 00000001
+$0042CCEB 00000001
+$0042CCEC 00000001
+$0042CCED 00000001
++Unlock Insanity
+%Credits: Code Master
+$0042CCED 00000001
++Voompeds
+%Credits: Code Master
+$0042CEB8 00000001
+!!
+

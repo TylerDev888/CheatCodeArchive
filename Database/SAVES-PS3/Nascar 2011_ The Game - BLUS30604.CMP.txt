@@ -1,0 +1,9 @@
+^2 = GameID: BLUS30604,NPEB00682
+^3 = NAME: NASCAR 2011: The Game
+^4 = FILE: SYS-DATA
++Update Add For Sys-data (required)
+$set [csum]:0
+(set [csum]:add(0x00000C,0x01869F))
+$set pointer:eof+1
+$set [csum]:add(0x00000C,pointer)
+$write at 0x000008:[csum]

@@ -1,0 +1,516 @@
+^3 = NAME: Silent Hill 3 (Ntsc-U)
+^2 = GameID: SLUS-20622
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0121C70 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0121C70 00121C73
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0011F5C3
++[M] Must Be On
+%Credits: MadCatz
+$F0100008 0011F5E7
+!!
+!Action Level Modifier:
++Easy
+%Credits: Codejunkies
+$01D87FD6 00000001
++Extreme 1
+%Credits: Codejunkies
+$01D87FD6 00000004
++Extreme 2
+%Credits: Codejunkies
+$01D87FD6 00000005
++Extreme 3
+%Credits: Codejunkies
+$01D87FD6 00000006
++Extreme 4
+%Credits: Codejunkies
+$01D87FD6 00000007
++Extreme 5
+%Credits: Codejunkies
+$01D87FD6 00000008
++Extreme 6
+%Credits: Codejunkies
+$01D87FD6 00000009
++Extreme 7
+%Credits: Codejunkies
+$01D87FD6 0000000A
++Extreme 8
+%Credits: Codejunkies
+$01D87FD6 0000000B
++Extreme 9
+%Credits: Codejunkies
+$01D87FD6 0000000C
++Extreme X
+%Credits: Codejunkies
+$01D87FD6 0000000D
++Hard
+%Credits: Codejunkies
+$01D87FD6 00000003
++Normal
+%Credits: Codejunkies
+$01D87FD6 00000002
+!!
+!Ammo Pickup Multiplier Codes:
++Always First Save
+%Credits: Codejunkies
+$201998E4 24040001
++Ammo Pickups X10
+%Credits: Codejunkies
+$01D88019 00000010
++Ammo Pickups X2
+%Credits: Codejunkies
+$01D88019 00000002
++Ammo Pickups X3
+%Credits: Codejunkies
+$01D88019 00000003
++Ammo Pickups X4
+%Credits: Codejunkies
+$01D88019 00000004
++Ammo Pickups X5
+%Credits: Codejunkies
+$01D88019 00000005
++Ammo Pickups X6
+%Credits: Codejunkies
+$01D88019 00000006
++Ammo Pickups X7
+%Credits: Codejunkies
+$01D88019 00000007
++Ammo Pickups X8
+%Credits: Codejunkies
+$01D88019 00000008
++Ammo Pickups X9
+%Credits: Codejunkies
+$01D88019 00000009
++Low Total Time
+%Credits: Codejunkies
+$2019171C 44800000
++One Hit Kill Enemies
+%Credits: Codejunkies
+$2022EF6C AC8001A4
+$2022EF70 AC80019C
+!!
+!Demo/Intro Modifier:
++Alien Ending
+%Credits: Codejunkies
+$2039DB24 0039DAE0
++End Credits #1
+%Credits: Codejunkies
+$2039DB24 0039DAC0
++End Credits #2
+%Credits: Codejunkies
+$2039DB24 0039DB00
++Odd Cutscene
+%Credits: Codejunkies
+$2039DB24 0039DA60
++Special Costume Change
+%Credits: Codejunkies
+$2039DB24 0039DAA0
++Tv Cutscene
+%Credits: Codejunkies
+$2039DB24 0039DA40
+!!
+!Fighting Codes:
++Low Enemies Defeated By Fighting
+%Credits: Codejunkies
+$11D87FE4 00000000
++Low Total Damage
+%Credits: Codejunkies
+$21D87FF8 33D6BF95
++Max Enemies Defeated By Fighting
+%Credits: Codejunkies
+$11D87FE4 0000270F
++Max Score
+%Credits: Codejunkies
+$21D87FE8 05F5E0FF
+!!
+!Final Results Statistics:
++Low Clear Time
+%Credits: Codejunkies
+$21D87FFC 00000000
++Low Enemies Killed By Fighting
+%Credits: Codejunkies
+$11D87FF4 00000000
++Low Enemies Killed By Shooting
+%Credits: Codejunkies
+$11D87FF2 00000000
++Low Leoanard Kill Time
+%Credits: Codejunkies
+$21D88014 00000000
++Low Memory Of Alessa Kill Time
+%Credits: Codejunkies
+$21D88018 00000000
++Low Missionary Kill Time
+%Credits: Codejunkies
+$21D88010 00000000
++Low Save & Continues Count
+%Credits: Codejunkies
+$11D87FEC 00000000
++Low Split Worm Kill Time
+%Credits: Codejunkies
+$21D8800C 00000000
++Low The God Kill Time
+%Credits: Codejunkies
+$21D8801C 00000000
++Max Enemies Killed By Fighting
+%Credits: Codejunkies
+$11D87FF4 0000270F
++Max Enemies Killed By Shooting
+%Credits: Codejunkies
+$11D87FF2 0000270F
++Max Item Stats
+%Credits: Codejunkies
+$11D87FF0 0000270F
++Max Times Cleared
+%Credits: Codejunkies
+$01D87FE0 00000063
++No Reload Handgun
+%Credits: Codejunkies
+$11D31C12 0000000A
++No Reload Shotgun
+%Credits: Codejunkies
+$11D31C14 00000006
++No Reload Submachine Gun
+%Credits: Codejunkies
+$11D31C16 00000020
++Total Damage
+%Credits: Codejunkies
+$21D88008 48000000
+!!
+!Have Beam Codes:
++Heather Beam
+%Credits: Codejunkies
+$11D87FBA 00000001
++Infinite Ammo And Item Use
+%Credits: Codejunkies
+$2016D918 00000000
++Infinite Fatigue And Beam Power
+%Credits: Codejunkies
+$201968D4 00000000
+$201968D0 00000000
+$20198020 00000000
++Sexxy Beam
+%Credits: Codejunkies
+$11D87FBA 00000002
+!!
+!Max Item Codes:
++Ampoules
+%Credits: Code Master
+$11D31C26 000003E7
++Beef Jerky
+%Credits: Code Master
+$11D31C28 000003E7
++First-Aid Kits
+%Credits: Code Master
+$11D31C24 000003E7
++Handgun
+%Credits: Code Master
+$11D31C12 000003E7
++Handgun Bullets
+%Credits: Code Master
+$11D31C1C 000003E7
++Health Drinks
+%Credits: Code Master
+$11D31C22 000003E7
++Shotgun
+%Credits: Code Master
+$11D31C14 000003E7
++Shotgun Shells
+%Credits: Code Master
+$11D31C1E 000003E7
++Stun Gun
+%Credits: Code Master
+$11D31C10 000003E7
++Stun Gun Battery
+%Credits: Code Master
+$11D31C1A 000003E7
++Submachine Gun
+%Credits: Code Master
+$11D31C16 000003E7
++Submachine Gun Bullets
+%Credits: Code Master
+$11D31C20 000003E7
+!!
+!Ranking Screen Codes:
++Always Low Clear Time
+%Credits: Code Master
+$21D87FEC 00000000
++Always Low Leonard Kill Time
+%Credits: Code Master
+$21D88004 00000000
++Always Low Memory Of Alessa Kill Time
+%Credits: Code Master
+$21D88008 00000000
++Always Low Missionary Kill Time
+%Credits: Code Master
+$21D88000 00000000
++Always Low Running Distance
+%Credits: Code Master
+$21D87FF4 00000000
++Always Low Walking Distance
+%Credits: Code Master
+$21D87FF0 00000000
++Max Clear Number
+%Credits: Code Master
+$01D87FD0 00000063
++Max Enemies Defeated By Shooting
+%Credits: Code Master
+$11D87FE2 0000270F
++Max Items
+%Credits: Code Master
+$11D87FE0 0000270F
++Max Total Damage
+%Credits: Code Master
+$21D87FF8 497423F0
++No Clear Number
+%Credits: Code Master
+$01D87FD0 00000000
++No Enemies Defeated By Shooting
+%Credits: Code Master
+$11D87FE2 00000000
++No Items
+%Credits: Code Master
+$11D87FE0 00000000
++No Total Damage
+%Credits: Code Master
+$21D87FF8 00000000
+!!
+!Riddle Level Modifier:
++Easy
+%Credits: Codejunkies
+$01D87FD7 00000000
++Hard
+%Credits: Codejunkies
+$01D87FD7 00000002
++Low Clear Time
+%Credits: Codejunkies
+$21D87FEC 42700000
++Low Leonard Kill Time
+%Credits: Codejunkies
+$21D88004 3F800000
++Low Memory Of Alessa Kill Time
+%Credits: Codejunkies
+$21D88008 3F800000
++Low Missionary Kill Time
+%Credits: Codejunkies
+$21D88000 3F800000
++Low Save And Continue Number
+%Credits: Codejunkies
+$21D87FDC 00000000
++Low Split Worm Kill Time
+%Credits: Codejunkies
+$21D87FFC 3F800000
++Low The God Kill Time
+%Credits: Codejunkies
+$21D8800C 3F800000
++Normal
+%Credits: Codejunkies
+$01D87FD7 00000001
+!!
+!Supplies:
++Infinite Ampoule(S)
+%Credits: Codejunkies
+$11D31C26 0000270F
++Infinite Beef Jerky
+%Credits: Codejunkies
+$11D31C28 0000270F
++Infinite Handgun Rounds
+%Credits: Codejunkies
+$11D31C1C 0000270F
++Infinite Health Drinks
+%Credits: Codejunkies
+$11D31C22 0000270F
++Infinite Medical Kits
+%Credits: Codejunkies
+$11D31C24 0000270F
++Infinite S.Machine Gun Bullets
+%Credits: Codejunkies
+$11D31C20 0000270F
++Infinite Shotgun Shells
+%Credits: Codejunkies
+$11D31C1E 0000270F
+!!
+!This Code Modfifies The Video Playing On The TV In The Mall Into The Selected Movie:
++Alien Ending
+%Credits: Codejunkies
+$2039DB28 0039DAE0
++End Credits #1
+%Credits: Codejunkies
+$2039DB28 0039DAC0
++End Credits #2
+%Credits: Codejunkies
+$2039DB28 0039DB00
++Odd Cutscene
+%Credits: Codejunkies
+$2039DB28 0039DA60
++Special Costume Change
+%Credits: Codejunkies
+$2039DB28 0039DAA0
++Tv Cutscene
+%Credits: Codejunkies
+$2039DB28 0039DA40
+!!
++1-Hit Death (Enemies)
+%Credits: Code Master
+$2022EF78 AC80019C
++Access All Maps
+%Credits: Code Master
+$202D1898 24020001
++All Items/Shirts
+%Credits: Codejunkies
+$21D31BF4 FFFFFFFF
+$21D31BF8 FFFFFFFF
+$21D31BFC FFFFFFFF
++All Maps
+%Credits: Codejunkies
+$202D1870 24030001
+$202D1898 24020001
++All Weapons
+%Credits: Codejunkies
+$21D31BF0 FFFFFFFE
++Always Number Of Saves 0
+%Credits: Code Master
+$201998E4 24040000
++Animation Speed Modifier {<I>It Works On Heather And All Enemies And Whatever Else Is Made Of Polygons That Moves. It Uses Normal Hex Math. 0 = No Animations, 1 = Half Speed, 2 = Normal Speed 3 = 1.5X Speed Or Whatever, And It Just Keeps Going That Way. But You Can Set It Too High And Get Very Weird Animations. FFFF = Things Start Folding Into Weird Shapes And They All Look Like Something Out Of &Quot;The Thing&Quot;. It&#39;S Not Wise To Shoot While Folding Into Something Weird, Or You&#39;Ll Be Stuck In A Room.</I>}
+%Credits: bungholio
+$11D88110 0000????
++Can't Be Grabbed And Can't Be Damaged {<I>It&#39;S Kind Of Pointless. I Let The 2 Fat Guys Pummel Me But I Didn&#39;T Receive Any Damage. There Were 2 Dogs Attacking Too And I Noticed They Couldn&#39;T Grab Me Like They Normally Do.</I>}
+%Credits: bungholio
+$203D4AD8 FFFFFFFF
++Display Life/Fatigue Gauge
+%Credits: Codejunkies
+$01D8801C 00000001
++Enemies Don't Attack {<I>I Tried This Around 2 Of Them Really Fat Guys And 2 Dogs. The Fat Guys Followed Me Around But Never Attacked. The Dogs Howled For A Second And Went To Chew On A Body.</I>}
+%Credits: bungholio
+$203D4B10 FFFFFFFF
++Extra Ammo
+%Credits: Code Master
+$1016D918 00000001
++Have All Items
+%Credits: MadCatz
+$11D31BF2 0000FFFF
+$41D31BF4 00030001
+$FFFFFFFF 00000000
++Have All Items
+%Credits: Code Master
+$21D31BF4 FFFFFFFC
+$21D31BF8 FFFFFFFF
+$21D31BFC 00000FFF
++Have All Weapons
+%Credits: MadCatz
+$11D31BF0 0000FFFF
++Have All Weapons & Supplies
+%Credits: Code Master
+$21D31BF0 8D7FFFFE
++Have Maps For Current Level {<I>It Will Give You The Map For The Level You Are On And It Will Save.</I>}
+%Credits: Code Master
+$202D1888 24010001
+$202D1890 00410804
+$202D1894 00611825
+$202D1898 AE030000
+$202D189C 24020001
+$202D18A0 7BB00000
+$202D18A4 03E00008
+$202D18A8 27BD0020
++Infinite Ammo
+%Credits: MadCatz
+$21D31C10 00630063
+$21D31C14 00630063
++Infinite Ammo
+%Credits: Code Master
+$2016D91C 00000000
++Infinite Health
+%Credits: MadCatz
+$2018B934 C60001A0
+$2018B93C E600019C
++Infinite Health
+%Credits: Code Master
+$203D4AEC 43480000
+$203D4AF0 43480000
+$203D4AF4 42C80000
++Infinite Health
+%Credits: Codejunkies
+$203D4AEC 42C80000
+$203D4AF4 42C80000
++Infinite Supplies
+%Credits: MadCatz
+$11D31C1A 00000063
+$11D31C28 00000063
+$41D31C1C 00030001
+$00630063 00000000
++Interesting Visual Effects {<I>Those 3 Are Nothing Special, Just Interesting To See. When You Look At Her From The Right Angle She Looks Normal Even While Moving. But When You Look At Her At The Right Angle She&#39;S Paper Thin And Becomes Invisible.</I>}
+%Credits: bungholio
+2 Dimensional Heather (Y-A?is, you see the side of her)
+2 Dimensional Heather (She's Flattened into the Ground)
+2 Dimensional Heather (?-A?is, you see the front and back of her)
+$203D4990 00000000
+$203D49A4 00000000
+$203D49B0 00000000
++Invincible {<I>I Only Tried Dogs And Those Big Weird Things With Long Arms. Nothing Could Hit Me. I Haven&#39;T Tried The Codetwink Version, I Don&#39;T Know If This Code Is Saveable.</I>}
+%Credits: bungholio
+$21D87D0C FFFFFFFF
++Invisible And Can't Be Hit {<I>This Would Be Better If This Could Work Without Making You Invisible, But I Don&#39;T Know How To Fix That Because Any Value Made You Invisible. But All F&#39;S Made Bad Things Happen If You Got Hit Or Used A Weapon. I Couldn&#39;T Remove The Invisibility by making this 8-bit or 16-bit. But 103d49c0 00000000 had an interesting effect of separating Heather from her model. It&#39;s about the same except the model actually kept appearing nearby you wherever you went. But it&#39;s bugfree as far as I can tell. Enemies will try to hit you, but their attacks go right through you.</i>}
+%Credits: bungholio
+$203D49C0 00000000
++Jokers
+%Credits: bungholio
+$D035475C 0000????
+$D03547DC 0000????
++Never Exhausted/Beam Power
+%Credits: Codejunkies
+$201968D4 00000000
+$20198020 00000000
+$201968D0 00000000
++Never Tired
+%Credits: Code Master
+$21D87F6C 00000000
++No Footstep Sounds {<I>Useful With Those Speed Modifiers So You Don&#39;T Hear 40 Footsteps Every Second.</I>}
+%Credits: bungholio
+$21D87D2C FFFFFFFF
++No Saves Recorded
+%Credits: Code Master
+$11D87FDC 00000000
++Running Animation Speed Modifier {<I>A Good Value Would Be 41000000, But You Might Want It A Bit Slower Like 40A00000 For Melee Weapons, Even Though It&#39;S Funner To Just Have Rapid Fire Guns.</I>}
+%Credits: bungholio
+$21D879D4 ????????
++Running Speed Modifier {<I>40A00000 = Fast 41200000 = Very Fast 42200000 = Extremely Fast (Enough To Move Through Walls)  I Think It&#39;S Actually A Speed Multiplier. And You Already Know by the values but it uses 32-bit floating point decimals. And to spoil something many people are curious about in the nightmare hospital in that place where you see that wheelchair tipped over, there&#39;s nothing there. But that&#39;s probably obvious, I doubt they&#39;d go out of their way to make a fancy room just out of your reach with no intention of letting you check it out.  At 203d4a58 or 203d4a5c there was another speed modifier. It modified how fast you move while your weapon was readied. It used the same values.</i>}
+%Credits: bungholio
+$203D4A54 ????????
++Turning Speed Modifier {<I>Instantly Turn In The Direction You Press, Useful With The Above Codes.   A Good Value Would Be 41000000, But You Might Want It A Bit Slower Like 40A00000 For Melee Weapons, Even Though It&#39;S Funner To Just Have Rapid Fire Guns.</I>}
+%Credits: bungholio
+$21D879DC ????????
++Unlock All Extreme Mode Difficulties
+%Credits: bungholio
+$11D880A0 0000FFFF
++Unlock Beginner Mode Under Extra Options
+%Credits: bungholio
+$01D880B1 000000FF
++Unlock Extra New Game, Extra Costume, All Bullet Multipliers
+%Credits: bungholio
+$01D880A4 000000FF
++Unlock Life Display Under Extra Options {<I>I Don&#39;T Think It Appears Under The Normal Menu Options, You Need To Be Playing The Game To Make It Appear.</I>}
+%Credits: bungholio
+$01D88055 000000FF
++Walk Through Everything {<I>Any One Of These Codes Does It.   You Can Go Through Walls And Enemies. Go Through Everything, But Your Camera Might Have Trouble Following You.</I>}
+%Credits: bungholio
+$21D87CDC FFFFFFFF
+$21D87D10 FFFFFFFF
+$21D87D14 FFFFFFFF
++Walking Animation Speed Modifier {<I>Walk Very Fast, Legs Move Like Crazy.   A Good Value Would Be 41000000, But You Might Want It A Bit Slower Like 40A00000 For Melee Weapons, Even Though It&#39;S Funner To Just Have Rapid Fire Guns.</I>}
+%Credits: bungholio
+$21D879CC ????????
++Walking With Weapon Ready Animation Speed Modifier {<I>You Can Run Circles Around Enemies While Holding R2.   A Good Value Would Be 41000000, But You Might Want It A Bit Slower Like 40A00000 For Melee Weapons, Even Though It&#39;S Funner To Just Have Rapid Fire Guns.</I>}
+%Credits: bungholio
+$21D879D0 ????????
++Weapon Refire Rate Speed Modifier {<I>You Can Get Rapid Fire For Guns, But You Might Want To Keep It A Bit Slow For Melee Weapons Or You Can&#39;T Hit Anything. It&#39;S Entertaining To Run 100 Circles Around An Enemy And Club The Hell Out Of Them.   A Good Value Would Be 41000000, But You Might Want It A Bit Slower Like 40A00000 For Melee Weapons, Even Though It&#39;S Funner To Just Have Rapid Fire Guns.</I>}
+%Credits: bungholio
+$21D879E0 ????????
++Weird Sort Of See Through Heather With No Animations (Buggy) {<I>Parts Of Her Are Invisible. Her Face Is Missing, But If You Look Through The Back Of Her Head The Inside Of Her Face Is Visible. Think Of The Movie Hollow Man. She Kind Of Looked Like That Bloody Alessa Or Whatever Her Name Was.<Br>But It Is Buggy, You Can&#39;T Use A Weapon With This Or You Will Be Frozen In Place Even Though The Game Keeps Going.</I>}
+%Credits: bungholio
+$203D4954 FFFFFFFF
+!!
+

@@ -1,0 +1,74 @@
+^3 = NAME: Jet Ski Riders (Pal-Unk)
+^2 = GameID: SLES-50552
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0104B54 00204AC7
++(M) Must Be On
+%Credits: Codejunkies
+$F0204AC4 00204AC7
++Enable Code (Must Be On)
+%Credits: lee4
+$90204AC4 0C089672
++Enable Code (Must Be On)
+%Credits: lee4
+$901000A4 0C0412D0
+!!
++Finish In 1St Place
+%Credits: lee4
+$00682830 00000000
+!Leg Graphic Codes:
++Broken Floaty Legs
+%Credits: Codejunkies
+$20412EA4 40800000
++Flickering Leg
+%Credits: Codejunkies
+$20412EA4 50800000
++Pink Water {<I>Use Only One Of The Following At A Time.</I>}
+%Credits: Codejunkies
+$2048D2A4 40800000
+!!
++Max Race Points
+%Credits: lee4
+$D067C492 00000000
+$2067C490 000003E7
++Max Statistics
+%Credits: Codejunkies
+$103A3390 0000000C
+$103A3394 0000000C
+$103A3398 0000000C
+$103A339C 0000000C
++Never Penalty Misses
+%Credits: lee4
+$006827E4 00000000
+$006827E8 00000009
++No Buoys Missed
+%Credits: InterAct
+$106827F4 00000000
++Pal2ntsc (Alternate)
+%Credits: lee4
+$20205760 34050002
+$20205764 24030002
+$20205768 0000000C
+$2020576C 03E00008
++Start On Lap 3
+%Credits: lee4
+$D06827F8 00000000
+$106827F8 00000002
++Y-Fix (Alternate)
+%Credits: lee4
+$200FFF80 64630000
+$200FFF84 64630000
+$200FFF88 64638000
+$200FFF8C 64638000
+$200FFF90 64638000
+$200FFF94 64638000
+$200FFF98 64638000
+$200FFF9C 64638000
+$200FFFA0 FCA30000
+$200FFFA4 03E00008
+$200FFFA8 DE020020
+$202006C8 0C03FFE0
+$202006CC 00000000
+!!
+

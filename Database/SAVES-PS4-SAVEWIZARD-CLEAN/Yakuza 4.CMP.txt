@@ -1,0 +1,951 @@
+^2 = GameID: CUSA15326,CUSA12727
+^3 = NAME: Yakuza 4
+^SECONDLAYER: NO
+^4 = FILE: data.saveps4\data.saveps4
+!Akiyama Currencies:
++Max Money
+$200082D4 3B9AC9FF
++Max Eco Points
+$20008334 3B9AC9FF
++Max Souls
+$0000589C 00000063
++Max Casino Chips
+$200082E4 05F5E0FF
++Max Wooden Tags
+$200082F4 05F5E0FF
++Max Mahjong Sticks
+$20008304 05F5E0FF
++Max Pachinko Balls
+$20008384 05F5E0FF
+!!
+!Kiryu Currencies:
++Max Money
+$200082D0 3B9AC9FF
++Max Eco Points
+$20008330 3B9AC9FF
++Max Souls
+$000057EC 00000063
++Max Casino Chips
+$200082E0 05F5E0FF
++Max Wooden Tags
+$200082F0 05F5E0FF
++Max Mahjong Sticks
+$20008300 05F5E0FF
++Max Pachinko Balls
+$20008380 05F5E0FF
+!!
+!Sajima Currencies:
++Max Money
+$200082D8 3B9AC9FF
++Max Eco Points
+$20008338 3B9AC9FF
++Max Souls
+$0000594C 00000063
++Max Casino Chips
+$200082E8 05F5E0FF
++Max Wooden Tags
+$200082F8 05F5E0FF
++Max Mahjong Sticks
+$20008308 05F5E0FF
++Max Pachinko Balls
+$20008388 05F5E0FF
+!!
+!Tanimura Currencies:
++Max Money
+$200082DC 3B9AC9FF
++Max Eco Points
+$2000833C 3B9AC9FF
++Max Souls
+$000059FC 00000063
++Max Casino Chips
+$200082EC 05F5E0FF
++Max Wooden Tags
+$200082FC 05F5E0FF
++Max Mahjong Sticks
+$2000830C 05F5E0FF
++Max Pachinko Balls
+$2000838C 05F5E0FF
+!!
++Total Continue Stat 00
+$0000847B 00000000
++Current Continue Stat 00
+$0000848F 00000000
++Melee Kills 99
+$00009B49 00000063
++Destroyed by using Weapons Stat 99
+$00009B4A 00000063
++Walking Distance 99.9km
+$20009B4C 47C34E00
++Cave(?) Army Gold Max
+$20008324 05F5B9F0
++Picked up trash from street stat 19
+$0000530F 00000013
++"Create a Fighter!" Gold Max
+$20008348 05F5B9F0
++All Chars LV19
+$400057D8 00000013
+$400400B0 00000000
++All Chars EXP 22500
+$420057E0 000057E4
+$400400B0 00000000
++All Chars Have A Golden Gun
+$20005A84 02F1FFFF
+$10005A88 0000FFFF
+$20005B24 02F1FFFF
+$10005B28 0000FFFF
+$20005BC4 02F1FFFF
+$10005BC8 0000FFFF
+$20005C64 02F1FFFF
+$10005C68 0000FFFF
++Heat Guage Max
+$420057D0 46AF0000
+$400400B0 00000000
++Heat Guage Rising Max(Refill?)
+$400057D7 0000001F
+$400400B0 00000000
++Saigo's Training Completed
+$200027FC 001E39FF
++IF7-R is Finished
+$2000285C FFFFFFFF
+$20002860 FFFFFFFF
+$10002864 0000FFFF
++Sennin(?) Quest Completed 
+$1000281E 00001FFF
+!Difficulty Modifer:
++Easy
+$10000014 00000000
++Normal
+$10000014 00000101
++Hard
+$10000014 00000202
++Ex-Hard
+$10000014 00000303
+!!
++All Chars Max Money
+$420082D0 3B9AC9FF
+$40040004 00000000
++All Chars abilites x99
+$000057EC 00000063
+$0000589C 00000063
+$0000594C 00000063
+$000059FC 00000063
+!Kiryu Items Mod:
++Kiryu - Slot 1
+$10005A84 0000[ID]
+$20005A86 [Ammo-Durabilty]
+$10005A8A 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 2
+$10005A8C 0000[ID]
+$20005A8E [Ammo-Durabilty]
+$10005A92 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 3
+$10005A94 0000[ID]
+$20005A96 [Ammo-Durabilty]
+$10005A9A 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 4
+$10005A9C 0000[ID]
+$20005A9E [Ammo-Durabilty]
+$10005AA2 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 5
+$10005AA4 0000[ID]
+$20005AA6 [Ammo-Durabilty]
+$10005AAA 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 6
+$10005AAC 0000[ID]
+$20005AAE [Ammo-Durabilty]
+$10005AB2 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 7
+$10005AB4 0000[ID]
+$20005AB6 [Ammo-Durabilty]
+$10005ABA 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 8
+$10005ABC 0000[ID]
+$20005ABE [Ammo-Durabilty]
+$10005AC2 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 9
+$10005AC4 0000[ID]
+$20005AC6 [Ammo-Durabilty]
+$10005ACA 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 10
+$10005ACC 0000[ID]
+$20005ACE [Ammo-Durabilty]
+$10005AD2 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 11
+$10005AD4 0000[ID]
+$20005AD6 [Ammo-Durabilty]
+$10005ADA 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 12
+$10005ADC 0000[ID]
+$20005ADE [Ammo-Durabilty]
+$10005AE2 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 13
+$10005AE4 0000[ID]
+$20005AE6 [Ammo-Durabilty]
+$10005AEA 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 14
+$10005AEC 0000[ID]
+$20005AEE [Ammo-Durabilty]
+$10005AF2 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 15
+$10005AF4 0000[ID]
+$20005AF6 [Ammo-Durabilty]
+$10005AFA 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 16
+$10005AFC 0000[ID]
+$20005AFE [Ammo-Durabilty]
+$10005B02 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 17
+$10005B04 0000[ID]
+$20005B06 [Ammo-Durabilty]
+$10005B0A 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 18
+$10005B0C 0000[ID]
+$20005B0E [Ammo-Durabilty]
+$10005B12 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 19
+$10005B14 0000[ID]
+$20005B16 [Ammo-Durabilty]
+$10005B1A 000000[AMOUNT:63:HEX:BIG]
++Kiryu - Slot 20
+$10005B1C 0000[ID]
+$20005B1E [Ammo-Durabilty]
+$10005B22 000000[AMOUNT:63:HEX:BIG]
+!!
+!Akiyama Items Mod:
++Akiyama - Slot 1
+$10005B24 0000[ID]
+$20005B26 [Ammo-Durabilty]
+$10005B2A 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 2
+$10005B2C 0000[ID]
+$20005B2E [Ammo-Durabilty]
+$10005B32 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 3
+$10005B34 0000[ID]
+$20005B36 [Ammo-Durabilty]
+$10005B3A 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 4
+$10005B3C 0000[ID]
+$20005B3E [Ammo-Durabilty]
+$10005B42 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 5
+$10005B44 0000[ID]
+$20005B46 [Ammo-Durabilty]
+$10005B4A 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 6
+$10005B4C 0000[ID]
+$20005B4E [Ammo-Durabilty]
+$10005B52 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 7
+$10005B54 0000[ID]
+$20005B56 [Ammo-Durabilty]
+$10005B5A 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 8
+$10005B5C 0000[ID]
+$20005B5E [Ammo-Durabilty]
+$10005B62 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 9
+$10005B64 0000[ID]
+$20005B66 [Ammo-Durabilty]
+$10005B6A 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 10
+$10005B6C 0000[ID]
+$20005B6E [Ammo-Durabilty]
+$10005B72 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 11
+$10005B74 0000[ID]
+$20005B76 [Ammo-Durabilty]
+$10005B7A 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 12
+$10005B7C 0000[ID]
+$20005B7E [Ammo-Durabilty]
+$10005B82 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 13
+$10005B84 0000[ID]
+$20005B86 [Ammo-Durabilty]
+$10005B8A 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 14
+$10005B8C 0000[ID]
+$20005B8E [Ammo-Durabilty]
+$10005B92 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 15
+$10005B94 0000[ID]
+$20005B96 [Ammo-Durabilty]
+$10005B9A 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 16
+$10005B9C 0000[ID]
+$20005B9E [Ammo-Durabilty]
+$10005BA2 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 17
+$10005BA4 0000[ID]
+$20005BA6 [Ammo-Durabilty]
+$10005BAA 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 18
+$10005BAC 0000[ID]
+$20005BAE [Ammo-Durabilty]
+$10005BB2 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 19
+$10005BB4 0000[ID]
+$20005BB6 [Ammo-Durabilty]
+$10005BBA 000000[AMOUNT:63:HEX:BIG]
++Akiyama - Slot 20
+$10005BBC 0000[ID]
+$20005BBE [Ammo-Durabilty]
+$10005BC2 000000[AMOUNT:63:HEX:BIG]
+!!
+!Saejima Items Mod:
++Saejima - Slot 1
+$10005BC4 0000[ID]
+$20005BC6 [Ammo-Durabilty]
+$10005BCA 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 2
+$10005BCC 0000[ID]
+$20005BCE [Ammo-Durabilty]
+$10005BD2 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 3
+$10005BD4 0000[ID]
+$20005BD6 [Ammo-Durabilty]
+$10005BDA 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 4
+$10005BDC 0000[ID]
+$20005BDE [Ammo-Durabilty]
+$10005BE2 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 5
+$10005BE4 0000[ID]
+$20005BE6 [Ammo-Durabilty]
+$10005BEA 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 6
+$10005BEC 0000[ID]
+$20005BEE [Ammo-Durabilty]
+$10005BF2 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 7
+$10005BF4 0000[ID]
+$20005BF6 [Ammo-Durabilty]
+$10005BFA 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 8
+$10005BFC 0000[ID]
+$20005BFE [Ammo-Durabilty]
+$10005C02 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 9
+$10005C04 0000[ID]
+$20005C06 [Ammo-Durabilty]
+$10005C0A 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 10
+$10005C0C 0000[ID]
+$20005C0E [Ammo-Durabilty]
+$10005C12 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 11
+$10005C14 0000[ID]
+$20005C16 [Ammo-Durabilty]
+$10005C1A 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 12
+$10005C1C 0000[ID]
+$20005C1E [Ammo-Durabilty]
+$10005C22 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 13
+$10005C24 0000[ID]
+$20005C26 [Ammo-Durabilty]
+$10005C2A 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 14
+$10005C2C 0000[ID]
+$20005C2E [Ammo-Durabilty]
+$10005C32 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 15
+$10005C34 0000[ID]
+$20005C36 [Ammo-Durabilty]
+$10005C3A 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 16
+$10005C3C 0000[ID]
+$20005C3E [Ammo-Durabilty]
+$10005C42 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 17
+$10005C44 0000[ID]
+$20005C46 [Ammo-Durabilty]
+$10005C4A 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 18
+$10005C4C 0000[ID]
+$20005C4E [Ammo-Durabilty]
+$10005C52 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 19
+$10005C54 0000[ID]
+$20005C56 [Ammo-Durabilty]
+$10005C5A 000000[AMOUNT:63:HEX:BIG]
++Saejima - Slot 20
+$10005C5C 0000[ID]
+$20005C5E [Ammo-Durabilty]
+$10005C62 000000[AMOUNT:63:HEX:BIG]
+!!
+!Tanimura Items Mod:
++Tanimura - Slot 1
+$10005C64 0000[ID]
+$20005C66 [Ammo-Durabilty]
+$10005C6A 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 2
+$10005C6C 0000[ID]
+$20005C6E [Ammo-Durabilty]
+$10005C72 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 3
+$10005C74 0000[ID]
+$20005C76 [Ammo-Durabilty]
+$10005C7A 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 4
+$10005C7C 0000[ID]
+$20005C7E [Ammo-Durabilty]
+$10005C82 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 5
+$10005C84 0000[ID]
+$20005C86 [Ammo-Durabilty]
+$10005C8A 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 6
+$10005C8C 0000[ID]
+$20005C8E [Ammo-Durabilty]
+$10005C92 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 7
+$10005C94 0000[ID]
+$20005C96 [Ammo-Durabilty]
+$10005C9A 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 8
+$10005C9C 0000[ID]
+$20005C9E [Ammo-Durabilty]
+$10005CA2 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 9
+$10005CA4 0000[ID]
+$20005CA6 [Ammo-Durabilty]
+$10005CAA 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 10
+$10005CAC 0000[ID]
+$20005CAE [Ammo-Durabilty]
+$10005CB2 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 11
+$10005CB4 0000[ID]
+$20005CB6 [Ammo-Durabilty]
+$10005CBA 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 12
+$10005CBC 0000[ID]
+$20005CBE [Ammo-Durabilty]
+$10005CC2 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 13
+$10005CC4 0000[ID]
+$20005CC6 [Ammo-Durabilty]
+$10005CCA 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 14
+$10005CCC 0000[ID]
+$20005CCE [Ammo-Durabilty]
+$10005CD2 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 15
+$10005CD4 0000[ID]
+$20005CD6 [Ammo-Durabilty]
+$10005CDA 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 16
+$10005CDC 0000[ID]
+$20005CDE [Ammo-Durabilty]
+$10005CE2 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 17
+$10005CE4 0000[ID]
+$20005CE6 [Ammo-Durabilty]
+$10005CEA 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 18
+$10005CEC 0000[ID]
+$20005CEE [Ammo-Durabilty]
+$10005CF2 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 19
+$10005CF4 0000[ID]
+$20005CF6 [Ammo-Durabilty]
+$10005CFA 000000[AMOUNT:63:HEX:BIG]
++Tanimura - Slot 20
+$10005CFC 0000[ID]
+$20005CFE [Ammo-Durabilty]
+$10005D02 000000[AMOUNT:63:HEX:BIG]
+!!
+^6 = MODS:
+[ID]
+ID>Name>Type
+0002	Staminan X	Recovery
+0003	Staminan XX	Recovery
+0004	Staminan Royale	Recovery
+0005	Staminan Spark	Recovery
+0006	Tauriner	Recovery
+0007	Tauriner +	Recovery
+0008	Tauriner ++	Recovery
+0009	Tauriner Maximum	Recovery
+000A	Toughness Z	Recovery
+000B	Toughness ZZ	Recovery
+000C	Toughness Emperor	Recovery
+000D	Toughness Infinity	Recovery
+0013	Oden Soup	Recovery
+0014	Seaweed Onigiri	Recovery
+0015	Tuna Onigiri	Recovery
+0016	Salmon Onigiri	Recovery
+0017	Bento Lunch Set	Recovery
+0018	Pork Tonkatsu Bento	Recovery
+0019	Club Sandwich	Recovery
+001A	Tuna & Egg Sandwich	Recovery
+001B	Special Yakisoba	Recovery
+001C	Steamed Bun	Recovery
+001D	Bean Paste Bun	Recovery
+001E	Yakisoba Bun	Recovery
+001F	Sake	Recovery
+0020	Dog Food	Recovery
+0021	Sushi Set	Recovery
+0022	Blended Coffee	Recovery
+0023	Blue Mountain	Recovery
+0024	Mocha	Recovery
+0025	Earl Grey Tea	Recovery
+0026	Milk Tea	Recovery
+0027	Tomato Juice	Recovery
+0028	Lemon Tea	Recovery
+0029	Strawberry Parfait	Recovery
+002A	Chocolate Parfait	Recovery
+002B	Green Tea Float	Recovery
+002C	Toast Set	Recovery
+002D	Sandwich Set	Recovery
+002E	Pasta Set	Recovery
+002F	Cake Set	Recovery
+0030	Original Beef Curry Set	Recovery
+0031	Beef Rice	Recovery
+0032	Beef Rice (L)	Recovery
+0033	Pork Rice	Recovery
+0034	Pork Rice (L)	Recovery
+0035	Bibimbap	Recovery
+0036	Bibimbap (L)	Recovery
+0037	Original Curry & Rice	Recovery
+0038	Original Curry & Rice (L)	Recovery
+0039	Beef Curry	Recovery
+003A	Kimchi & Kalbi	Recovery
+003B	Kimchi & Kalbi (L)	Recovery
+003C	Beef Yakiniku Meal	Recovery
+003D	Kalbi Yakiniku Meal	Recovery
+003E	Demitama Hamburg Meal	Recovery
+003F	Pork Yakiniku Meal	Recovery
+0040	Ginger Pork Meal	Recovery
+0041	Original Curry Take-home Pack	Recovery
+0046	Drama Homme 1	Gear
+0049	French Cologne	Gear
+004B	Italian Cologne	Gear
+0053	Swiss Watch	Gear
+0054	Asian Digital Watch	Gear
+0055	Japanese Driver's Watch	Gear
+005D	Italian Men's Necklace	Gear
+005F	Mozzarella Cheese Caprese	Recovery
+0061	Octopus Carpaccio	Recovery
+0062	Avacado & Shrimp Salad	Recovery
+0063	Hawaiian Pork Sausage	Recovery
+0064	Burdock Stick	Recovery
+0065	Oven-roasted Chorizo Sausage	Recovery
+0066	Garlic Butter Akkeshi Whelks	Recovery
+0067	Margherita Roman Pizza	Recovery
+0068	Gin Buck	Recovery
+0069	Tequila Rickey With Lime	Recovery
+006A	Tequila & Blood Orange	Recovery
+006B	Campari & Soda	Recovery
+006C	Kahlua & Milk	Recovery
+006D	Kaku-XL Highball	Recovery
+006E	Light Kaku-XL Highball	Recovery
+006F	Malibu Cola	Recovery
+0070	Copper Yamazaki Highball	Recovery
+0071	Eggplant Bacon Spaghetti	Recovery
+0072	Shrimp & Tomato Sphaghetti	Recovery
+0073	Spaghetti With Meat Sauce	Recovery
+0074	Chili Pepper Cod Roe Spaghetti	Recovery
+0075	Rich Egg Carbonara	Recovery
+0076	Grapefruit Juice	Recovery
+0077	Blood Orange Juice	Recovery
+0078	Hot Coffee	Recovery
+0079	American Coffee	Recovery
+007A	Café Latte	Recovery
+007B	Cappuccino	Recovery
+007C	Café Mocha	Recovery
+007D	Royal Milk Tea	Recovery
+007E	Milk	Recovery
+007F	Cocoa	Recovery
+0080	Vanilla Gelato	Recovery
+0081	Strawberry Gelato	Recovery
+0082	Chocolate Gelato	Recovery
+0083	Azuki Gelato	Recovery
+0084	Caramel Gelato	Recovery
+0085	Coffee Gelato	Recovery
+0086	Double Scoop	Recovery
+0087	Triple Scoop	Recovery
+0088	Organic Soybean Yose Dofu	Recovery
+0089	Chicken Karaage	Recovery
+008A	Fermented Bean & Yam Omelet	Recovery
+008B	Broiled Hokkaido Mackerel	Recovery
+008C	Egg Yolk Beef Tsukune	Recovery
+008D	Organic Vegatable Salad	Recovery
+008E	Fried Gyoza	Recovery
+008F	Sashimi Platter	Recovery
+0090	Chocolate & Green Tea Ice Cream	Recovery
+0091	Tomato Bacon Pizza	Recovery
+0092	Stone-cooked Shark's Fin Fried Rice	Recovery
+0093	The Premium Malt's Draft	Recovery
+0094	Yuzu Honey Sour	Recovery
+0095	Oolong Tea	Recovery
+0096	Kishu Nanko Plum Sour	Recovery
+0097	Oolong Cocktail	Recovery
+0098	Umeshu on the Rocks	Recovery
+0099	Grapefruit & Apple Venegar Sour	Recovery
+009A	Kaku Highball	Recovery
+009B	Moscow Mule	Recovery
+009C	Gin and Tonic	Recovery
+009D	Cassis & Orange	Recovery
+009E	Tropical Sunrise	Recovery
+009F	Mugwort	Recovery
+00A0	Boss Rainbow Mountain Blend	Recovery
+00A1	Boss Luxury Sweet	Recovery
+00A2	Black Boss	Recovery
+00A3	Suntory Oolong Tea	Recovery
+00A4	Suntory Black Oolong Tea	Recovery
+00A5	Suntory Mineral Water	Recovery
+00A6	lyemon (Green Tea)	Recovery
+00A7	lyemon Rich (Green Tea)	Recovery
+00A8	C.C. Lemon	Recovery
+00AC	Goma-Mugi Tea	Recovery
+00AD	The Premium Malt's	Recovery
+00AE	Kin-Mugi Beer	Recovery
+00AF	Chu-Hi Wine Cooler	Recovery
+00B0	Yamazaki 1984	Recovery
+00B1	Yamazaki 25 Years	Recovery
+00B2	Yamazaki 12 Years	Recovery
+00B3	Hakushu 25 Years	Recovery
+00B4	Hakushu 12 Years	Recovery
+00B5	The Macallan 1946	Recovery
+00B6	The Macallan 30 Years	Recovery
+00B7	The Macallan 12 Years	Recovery
+00B8	Laphroaig 30 Years	Recovery
+00B9	Laphroaig 10 Years	Recovery
+00BA	White Bowmore 43 Years	Recovery
+00BB	Bowmore 12 Years	Recovery
+00BC	Glenfiddich 30 Years	Recovery
+00BD	Glenfiddich 12 Years	Recovery
+00BE	Hibiki 30 Years	Recovery
+00BF	Hibiki 17 Years	Recovery
+00C0	Hakuto 12 Years	Recovery
+00C1	Kakubin	Recovery
+00C2	Suntory Old Whisky	Recovery
+00C3	Ballantine's 30 Years	Recovery
+00C4	Ballantine's 17 Years	Recovery
+00C5	Ballantine's Finest	Recovery
+00C6	Jack Daniel's	Recovery
+00C7	Early Times	Recovery
+00C8	Suntory Brandy XO Deluxe	Recovery
+00C9	Suntory Brandy V.S.O.P	Recovery
+00CA	Suntory Brandy V.O	Recovery
+00CB	Chabot Napoleon	Recovery
+00CC	Courvoisier XO	Recovery
+00CD	The Premium Malt's	Recovery
+00CE	Carlsberg	Recovery
+00CF	Kyogetsu Green	Recovery
+00D0	Suntory Kuromaru Shochu	Recovery
+00D1	Tenryuga Awamori	Recovery
+00D2	Beefeater	Recovery
+00D3	Lemon Hart Demerara	Recovery
+00D4	Herradura Silver Tequila	Recovery
+00D5	Skyy Vodka	Recovery
+00D9	Kamuro Twilight	Recovery
+00DA	Smile Burger Set	Recovery
+00DB	Smile Cheeseburger Set	Recovery
+00DC	Teriyaki Smile Burger Set	Recovery
+00DD	King Smile Burger Set	Recovery
+00DE	Tuna Burger Set	Recovery
+00DF	Braised Pork Burger Set	Recovery
+00E0	Smile Shake	Recovery
+00E1	Smile Fries	Recovery
+00E2	Smile Burger Set	Recovery
+00E3	Smile Cheeseburger Set	Recovery
+00E4	Teriyaki Smile Burger Set	Recovery
+00E5	King Smile Burger Set	Recovery
+00E6	Tuna Burger Set	Recovery
+00E7	Braised Pork Burger Set	Recovery
+00E8	Smile Shake	Recovery
+00E9	Smile Fries	Recovery
+0104	Legendary Drinker of Ryukyu	Recovery
+0105	Shoyu Ramen	Recovery
+0106	Miso Ramen	Recovery
+0107	Tonkotsu Ramen	Recovery
+0108	Shio Ramen	Recovery
+0109	Squid Yakisoba	Recovery
+010A	Soup Harusame: Wonton	Recovery
+010B	Soup Harusame: Egg	Recovery
+010C	Soup Harusame: Tan Tan Noodles	Recovery
+010D	Soup Harusame: Jigae	Recovery
+010E	Soup Harusame: Seaweed Veggie	Recovery
+010F	Soup Harusame: Chinese Chicken	Recovery
+0110	Soup Harusame: Hot & Sour	Recovery
+0111	Drink to the Last Drop Dandan Noodles	Recovery
+0112	Drink to the Last Drop Special Tonkotsu	Recovery
+0113	Tan Tan Noodles	Recovery
+0114	Curry Udon Soup	Recovery
+0115	Special Tonkotsu Ramen	Recovery
+0116	Wakame Ramen	Recovery
+0117	Milk	Recovery
+0145	Catnip Stick	Recovery
+0146	Kyushu Tonkotsu Ramen	Recovery
+0147	Stewed Pork Tonkotsu Ramen	Recovery
+0148	Chashu Tonkotsu Ramen	Recovery
+0149	Mentaiko Tonkotsu Ramen	Recovery
+014A	Egg Tonkotsu Ramen	Recovery
+014B	Black Tonkotsu Ramen	Recovery
+014C	Salted Tongue	Recovery
+014D	Grade A Salted Tongue	Recovery
+014E	Rib Meat	Recovery
+014F	Grade A Rib Meat	Recovery
+0150	Sirloin	Recovery
+0151	Grade A Sirloin	Recovery
+0152	Harami	Recovery
+0153	Grade A Harami	Recovery
+0154	Liver Sashimi	Recovery
+0155	Horumon-yaki	Recovery
+0156	Seafood Platter	Recovery
+0157	Kimchi Combo	Recovery
+0158	Stone-roasted Bibimbap	Recovery
+0159	Spicy Beef Soup	Recovery
+015A	Tamago	Recovery
+015B	Kappamaki	Recovery
+015C	Tuna	Recovery
+015D	Amaebi	Recovery
+015E	Engawa	Recovery
+015F	Tsubugai	Recovery
+0160	Namatako	Recovery
+0161	Kampachi	Recovery
+0162	Kamburi	Recovery
+0163	Hirame	Recovery
+0164	Shima-aji	Recovery
+0165	Kinmedai	Recovery
+0166	Ikura	Recovery
+0167	Akagai	Recovery
+0168	Otoro	Recovery
+0169	Awabi	Recovery
+016A	Uni	Recovery
+017B	Rice Porridge	Recovery
+017C	Dumpling Soup	Recovery
+017D	Black Stew	Recovery
+017E	Mystery Meat	Recovery
+017F	Five-Star Leftovers	Recovery
+0181	Gold Champagne	Recovery
+0182	Black Champagne	Recovery
+0183	Rosé Champagne	Recovery
+0184	White Champagne	Recovery
+0185	Yamazaki 12 Years	Recovery
+0186	Tantakatan	Recovery
+0187	Beer	Recovery
+0188	Cassis & Orange	Recovery
+0189	Orange Juice	Recovery
+018A	Kyogetsu Green	Recovery
+018B	Zampa White	Recovery
+0191	Fruit Platter	Recovery
+0192	Chicken Basket	Recovery
+0193	Vegetable Sticks	Recovery
+0194	Dried Ray Fin	Recovery
+0195	Chocolate	Recovery
+0196	Pickled Vegetables	Recovery
+01C6	Adhesive Bandages	Recovery
+01D5	Limited Chef's Scattered Sushi	Recovery
+01D6	Limited Black Gelato	Recovery
+01D7	Limited Thick Chuck Eye Steak	Recovery
+01D8	Limited Kamuro Burger	Recovery
+01DD	Limited Kamuro Burger	Recovery
+01EC	Horse Mackerel (Bait)	Recovery
+01ED	Squid (Bait)	Recovery
+01EE	Shrimp (Bait)	Recovery
+01EF	Vinegar Squid (Bait)	Recovery
+01F8	Haruka's Candy	Recovery
+01F9	Haruka's Lunch	Recovery
+01FA	Haruka's First-aid Kit	Recovery
+01FD	Haruka's Chocolate	Recovery
+0209	Miso Paste Cucumber	Recovery
+0212	Yummy Bar (Sauce)	Recovery
+0213	Yummy Bar (Spicy Cod Roe)	Recovery
+0214	Yummy Bar (Salami)	Recovery
+0289	Henchman's Spear	Weapons
+0297	Black Umbrella	Weapons
+0298	Gentleman's Umbrella	Weapons
+0299	Elegant Umbrella	Weapons
+029A	Master Ball	Weapons
+029B	Brickshitter Beer	Weapons
+029C	Blackjack	Weapons
+029D	Ballbuster	Weapons
+029E	Police Baton	Weapons
+029F	Kamiyama's Police Baton	Weapons
+02A0	Sonic Knife	Weapons
+02A1	Spicy Knife	Weapons
+02A2	Nameless Short Sword	Weapons
+02A3	Chinese Broadsword	Weapons
+02A4	Lotus Clan Broadsword	Weapons
+02A5	Divine Dragon Short Sword	Weapons
+02A6	Stun Gun	Weapons
+02A7	Hyper Stun Gun	Weapons
+02A8	9-iron	Weapons
+02A9	Wooden Driver	Weapons
+02AA	Titanium Driver	Weapons
+02AB	Patriarch's Driver	Weapons
+02AC	Dragon-drive 99	Weapons
+02AD	Metal Bat	Weapons
+02AE	Spiked Bat	Weapons
+02AF	Patriarch's Bat	Weapons
+02B0	Golden Dragon Bat	Weapons
+02B1	Wooden Katana	Weapons
+02B2	Nameless Katana	Weapons
+02B3	Dark Wooden Sword	Weapons
+02B4	Mail Order Katana	Weapons
+02B5	Photon Blade MG	Weapons
+02B6	Photon Blade PG	Weapons
+02B7	Ornate Blade	Weapons
+02B8	Sakura Storm	Weapons
+02B9	Muramasa Blade	Weapons
+02BA	Dragon Slayer	Weapons
+02BB	Sledgehammer	Weapons
+02BC	Hammer	Weapons
+02BD	Toy Hammer	Weapons
+02BE	Raging Dragon Hammer	Weapons
+02BF	Miniature Sign	Weapons
+02C0	Danger! Do Not Swing	Weapons
+02C1	Lucky Mallet	Weapons
+02C2	Extendable Staff	Weapons
+02C3	Assassin's Spear	Weapons
+02C4	Steel Laundry Pole	Weapons
+02C5	Purgatory Rod	Weapons
+02C6	Great Dragon Spear	Weapons
+02C7	Squid Spear	Weapons
+02C8	Great Marlin	Weapons
+02C9	Broken M1985	Weapons
+02CA	Expulsion S-12	Weapons
+02CB	Slime Gun	Weapons
+02CC	Smoke Gun	Weapons
+02CD	Brass Knuckles	Weapons
+02CE	Pepper Knuckles	Weapons
+02CF	Spiked Knuckles	Weapons
+02D0	Steel Gloves	Weapons
+02D1	Dragon Grudge Gloves	Weapons
+02D2	Demon Gauntlets	Weapons
+02D3	Hungry Wolf Gloves	Weapons
+02D4	Pepper Spray	Weapons
+02D5	Slime Spray	Weapons
+02D6	Modified Lighter	Weapons
+02D7	Modified Stun Lighter	Weapons
+02D8	Iron Tonfa	Weapons
+02D9	Steel Tonfa	Weapons
+02DA	Slashing Tonfa	Weapons
+02DB	Pepper Spray Tonfa	Weapons
+02DC	Dragon Horn	Weapons
+02DD	Self-Defense Ruler	Weapons
+02DE	Platinum Ruler	Weapons
+02DF	Wooden Nunchaku	Weapons
+02E0	Long Nunchaku	Weapons
+02E1	Twin Hangers	Weapons
+02E2	Steel Nuinchaku	Weapons
+02E3	Dragon Nunchaku	Weapons
+02E4	Electromagnetic Nunchaku	Weapons
+02E5	SPARK 20,000V	Weapons
+02E6	Double Slats	Weapons
+02E7	Demon Taiko Sticks	Weapons
+02E8	Spiked Taiko Sticks	Weapons
+02E9	Wooden Kali Sticks	Weapons
+02EA	Twin Dragon Sticks	Weapons
+02EB	Cutie Girl Stick	Weapons
+02EC	Love Shine Stick	Weapons
+02ED	9mm Automatic Pistol	Weapons
+02EE	Double Action Revolver	Weapons
+02EF	Drow-Z 55	Weapons
+02F0	Mr. Random	Weapons
+02F1	Golden Pistol	Weapons
+02F2	Super Mod Ligter	Weapons
+02F3	NSD Prototype	Weapons
+02F4	NMR-Limbo Model	Weapons
+0340	Binding	Gear
+0341	Fighter's Binding	Gear
+0342	Fearless Binding	Gear
+0343	Gambler's Binding	Gear
+0344	Bloody Binding	Gear
+0345	Lucky Binding	Gear
+0346	Dragon's Binding	Gear
+0347	Chain Mail	Gear
+0348	Battle Mail	Gear
+0349	Steel Mail	Gear
+034A	Antique Chain Mail	Gear
+034B	Dragon Mail	Gear
+034C	Iron Breastplate	Gear
+034D	Bulletproof Breastplate	Gear
+034E	SWAT Body Armor	Gear
+034F	New Flak Vest	Gear
+0350	Dragon Flak Vest	Gear
+0351	Fireproof Shirt	Gear
+0352	Insulated Shirt	Gear
+0353	Wake-up Shirt	Gear
+0354	Dustproof Shirt	Gear
+0355	Dragon Shirt	Gear
+0356	Strong Training Gear	Gear
+0357	Low-resilience Jacket	Gear
+0358	Yakuza Training Gear	Gear
+0359	Kamiyama Jacket	Gear
+035A	Rage Armor	Gear
+035B	Sacred Tree Armor	Gear
+035C	Kokurenkai Undergarment	Gear
+035D	Physimagic Jersey	Gear
+035E	Cardio-enchancing Running Shirt	Gear
+035F	Morning Glory Waistband	Gear
+0364	Gauntlets	Gear
+0365	Springy Arm Guards	Gear
+0366	Hercules Gloves	Gear
+0367	Leech Gloves	Gear
+0368	High-tech Arm Guards	Gear
+0369	Kamiyama Arm Guards	Gear
+036A	Sacred Tree Arm Guards	Gear
+036B	Protective Amulet	Gear
+036C	Bulletproof Glass Amulet	Gear
+036D	Charismatic Photo	Gear
+036E	Goddess of Children Amulet	Gear
+036F	Rescue Card	Gear
+0370	Rage Talisman	Gear
+0371	War God Talisman	Gear
+0372	War God Amulet	Gear
+0373	Haruka's Amulet	Gear
+0374	Calming Towel	Gear
+0375	Tattered Scarf	Gear
+0376	Haruka's Necklace	Gear
+0377	Beads of Good Fortune	Gear
+0378	Morning Glory Scarf	Gear
+0379	Tourmaline Bracelet	Gear
+037A	Southpaw Bracelet	Gear
+037B	Champion's Ring	Gear
+037C	Payback Ring	Gear
+037D	Rage Bracelet	Gear
+037E	Tiger Skin Belt	Gear
+037F	Black Belt	Gear
+0380	Immovable Belt	Gear
+0381	Shisa Belt	Gear
+0382	Plastic Shin Guards	Gear
+0383	Comfy Soles	Gear
+0384	Steel Shin Guards	Gear
+0385	Striker Shin Guards	Gear
+0386	High-tech Shin Guards	Gear
+0387	Silent Shoes	Gear
+0388	Spiked Shoes	Gear
+0389	Mew Shoes	Gear
+038A	Kamiyama Shin Guards	Gear
+038B	Sacred Tree Shin Guards	Gear
+038C	Ass Quills	Gear
+038D	Contact Lenses	Gear
+038E	Super Contacts	Gear
+038F	Uber Contacts	Gear
+0390	Substitute Stone	Gear
+0391	Popularity Bracelet	Gear
+0392	Lucky Bracelet	Gear
+0393	Charisma Ring	Gear
+0395	Runner's Necklace	Gear
+0396	Coral Love Necklace	Gear
+0397	Kokurenkai Headband	Gear
+0398	Kokurenkai Belt	Gear
+0399	Amon's Sunglasses	Gear
+039A	Pitcher's Amulet	Gear
+039B	Ebisu Socks	Gear
+039C	Shoulder Pads	Gear
+039D	Spiked Shoulder Pads	Gear
+039E	Locker Key Radar	Gear
+039F	Balance Bracelet	Gear
+03A0	Gion Bell	Gear
+[/ID]
+[Ammo-Durabilty]
+ID>Type
+00000000	Health/Armors/Accessory/Misc
+FFFFFFFF	Infinite Ammo/Melee Durabilty
+[/Ammo-Durabilty]

@@ -1,0 +1,37 @@
+^3 = NAME: Pro Evolution Soccer (PAL-M3)
+^2 = GameID: SLES-50412
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0E7EF2C 00E7EF2F
+!!
++Away Team Score 0 (Press R2 To Activate)
+%Credits: Codejunkies
+$D128C782 0000FDFF
+$012207CC 00000000
++Away Team Score 99 (Press R1 To Activate)
+%Credits: Codejunkies
+$D128C782 0000F7FF
+$012207CC 00000063
++Home Team Score 0 (Press L2 To Activate)
+%Credits: Codejunkies
+$D128C782 0000FEFF
+$012207CB 00000000
++Home Team Score 99 (Press L1 To Activate)
+%Credits: Codejunkies
+$D128C832 0000FBFF
+$012207CB 00000063
++Infinite Money
+%Credits: Codejunkies
+$11277EC8 000003E7
++Infinite Transfers
+%Credits: Codejunkies
+$0127956C 00000063
++Unlock All Teams
+%Credits: Codejunkies
+$01221E30 000000FF
++Win All Trophies
+%Credits: Codejunkies
+$01221E3C 000000FF
+!!
+

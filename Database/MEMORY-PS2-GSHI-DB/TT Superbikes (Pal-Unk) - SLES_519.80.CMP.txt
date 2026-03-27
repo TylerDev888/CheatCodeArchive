@@ -1,0 +1,51 @@
+^3 = NAME: TT Superbikes (Pal-Unk)
+^2 = GameID: SLES-51980
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F01A3330 001A3333
+!!
+!Game Speed Codes:
++Press D-Pad Down For Slower Game
+%Credits: Codejunkies
+$D02AD742 0000FFBF
+$201F4FF8 3C23D70A
++Press D-Pad Left For Silly Fast Game
+%Credits: Codejunkies
+$D02AD742 0000FF7F
+$201F4FF8 3DA3D70A
++Press D-Pad Right For Normal Speed Game
+%Credits: Codejunkies
+$D02AD742 0000FFDF
+$201F4FF8 3CA3D70A
++Press D-Pad Up For Faster Game
+%Credits: Codejunkies
+$D02AD742 0000FFEF
+$201F4FF8 3CF5C28F
+!!
++Have All Challenges Open
+%Credits: Codejunkies
+$2013E6C4 24040000
++Have All Master Class Videos Open
+%Credits: Codejunkies
+$201407F8 2402FFFF
++Have All Rider Stills
+%Credits: Codejunkies
+$20140930 24030001
+$20140934 ACC30000
++Press L1 To Restart Timer
+%Credits: Codejunkies
+$D02AD742 0000FBFF
+$2010E650 E4600000
++Press Select To Freeze Timer (Finishing With A Time Of 0 Will Not Pass A Challenge)
+%Credits: Codejunkies
+$D02AD742 0000FFFE
+$2010E650 00000000
++Stupid AI
+%Credits: Codejunkies
+$20725AEC 00000000
+$20725E2C 00000000
+$2072616C 00000000
+$207264AC 00000000
+!!
+

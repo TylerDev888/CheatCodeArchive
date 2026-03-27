@@ -1,0 +1,14 @@
+^2 = GameID: CUSA00362,CUSA00363
+^3 = NAME: Alien: Isolation
+^5 = APCRED: by bucanero
+^4 = FILE: THEFILE
+(cheat codes go here)
++Update Sha1 Xor64 For Thefile (required)
+$set [off1]:read(0x18, 4)
+$set [off1]:endian_swap
+$set [off2]:read(0x1C, 4)
+$set [off2]:endian_swap
+$set pointer:[off1]+[off2]-1
+$set range:0x20,pointer
+$set [csum]:sha1_xor64
+$write at 0x08:[csum]

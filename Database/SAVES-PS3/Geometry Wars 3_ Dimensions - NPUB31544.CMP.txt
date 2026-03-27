@@ -1,0 +1,10 @@
+^2 = GameID: NPUB31544
+^3 = NAME: Geometry Wars 3: Dimensions
+^5 = APCRED: from aldostools
+^4 = FILE: SAV-DATA
++Update Crc32 For Sav-data (required)
+(set range:0x000004,0x00B3FF)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

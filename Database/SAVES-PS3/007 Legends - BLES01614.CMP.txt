@@ -1,0 +1,31 @@
+^2 = GameID: BLES01614
+^3 = NAME: 007 Legends
+{From Aldostools}
+^4 = FILE: 66600000.DAT
++Get Crc32 For 66600000.dat{Required}
+$set [hash_66600000.DAT]:CRC32
+$set [size_66600000.DAT]:eof+1
+^4 = FILE: 66600001.DAT
++Get Crc32 For 66600001.dat{Required}
+$set [hash_66600001.DAT]:CRC32
+$set [size_66600001.DAT]:eof+1
+^4 = FILE: 66600008.DAT
++Get Crc32 For 66600008.dat{Required}
+$set [hash_66600008.DAT]:CRC32
+$set [size_66600008.DAT]:eof+1
+^4 = FILE: 96600000.DAT
++Get Crc32 For 96600000.dat{Required}
+$set [hash_96600000.DAT]:CRC32
+$set [size_96600000.DAT]:eof+1
+{Dependency: Save.bin}
+^4 = FILE: SAVE.BIN
++Update Crc32 For Dat Files{Required}
+$write at 0x000014:[size_66600000.DAT]
+$write at 0x000018:[hash_66600000.DAT]
+$write at 0x000024:[size_66600001.DAT]
+$write at 0x000028:[hash_66600001.DAT]
+$write at 0x000034:[size_66600008.DAT]
+$write at 0x000038:[hash_66600008.DAT]
+$write at 0x000044:[size_96600000.DAT]
+$write at 0x000048:[hash_96600000.DAT]
+!!

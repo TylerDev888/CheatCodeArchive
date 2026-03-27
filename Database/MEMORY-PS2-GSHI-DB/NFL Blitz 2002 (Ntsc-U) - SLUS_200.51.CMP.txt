@@ -1,0 +1,132 @@
+^3 = NAME: NFL Blitz 2002 (Ntsc-U)
+^2 = GameID: SLUS-20051
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01CC678 00113F3F
++(M) Must Be On
+%Credits: Codejunkies
+$F0113F3C 00113F3F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00113F3F
+!!
++Always 4Th Down
+%Credits: Code Master
+$1059B8F6 00000004
++Away Team Score Modifier
+%Credits: Code Master
+$1059B8F2 0000????
+!Down Codes:
++Always 1St Down
+%Credits: Codejunkies
+$1059B8F6 00000001
++Start On 2Nd Down
+%Credits: Codejunkies
+$D059B8F6 00000001
+$1059B8F6 00000002
++Start On 3Rd Down
+%Credits: Codejunkies
+$D059B8F6 00000001
+$1059B8F6 00000003
++Start On 4Th Down
+%Credits: Codejunkies
+$D059B8F6 00000001
+$1059B8F6 00000004
+!!
++Home Team Score Modifier
+%Credits: Code Master
+$1059B8F0 0000????
++Infinite Time To Choose Your Play
+%Credits: Code Master
+$20177090 00000000
++Infinite Turbo P1
+%Credits: Code Master
+$2059C808 3F800000
++Infinite Turbo P2
+%Credits: Code Master
+$2059C328 3F800000
++Infinite Turbo P3
+%Credits: Code Master
+$2059C2E8 3F800000
++Infinite Turbo P4
+%Credits: Code Master
+$2059C2A8 3F800000
++No Turbo P1
+%Credits: Code Master
+$2059C808 00000000
++No Turbo P2
+%Credits: Code Master
+$2059C328 00000000
++No Turbo P3
+%Credits: Code Master
+$2059C2E8 00000000
++No Turbo P4
+%Credits: Code Master
+$2059C2A8 00000000
+!Player 1 Codes:
++Infinite Turbo P1
+%Credits: Codejunkies
+$1059C80A 00003F80
++No Turbo P1
+%Credits: Codejunkies
+$1059C80A 00000000
+!!
+!Player 2 Codes:
++Infinite Turbo P2
+%Credits: Codejunkies
+$1059C32A 00003F80
++No Turbo P2
+%Credits: Codejunkies
+$1059C32A 00000000
+!!
+!Player 3 Codes:
++Infinite Turbo P3
+%Credits: Codejunkies
+$1059C2EA 00003F80
++No Turbo P3
+%Credits: Codejunkies
+$1059C2EA 00000000
+!!
+!Player 4 Codes:
++Infinite Turbo P4
+%Credits: Codejunkies
+$1059C2AA 00003F80
++No Turbo P4
+%Credits: Codejunkies
+$1059C2AA 00000000
+!!
+!Quarter Codes:
++Start In 2Nd Quarter
+%Credits: Codejunkies
+$D059B8F4 00000001
+$1059B8F4 00000002
++Start In 3Rd Quarter
+%Credits: Codejunkies
+$D059B8F4 00000001
+$1059B8F4 00000003
++Start In 4Th Quarter
+%Credits: Codejunkies
+$D059B8F4 00000001
+$1059B8F4 00000004
+!!
+!Start On Misc Down/Quarter Codes:
+!!
+!Team 1 Codes:
++Team 1 Scores 0
+%Credits: Codejunkies
+$1059B8F0 00000000
++Team 1 Scores 100
+%Credits: Codejunkies
+$1059B8F0 00000064
+!!
+!Team 2 Codes:
++Team 2 Scores 0
+%Credits: Codejunkies
+$1059B8F2 00000000
++Team 2 Scores 100
+%Credits: Codejunkies
+$1059B8F2 00000064
+!!
+!!
+

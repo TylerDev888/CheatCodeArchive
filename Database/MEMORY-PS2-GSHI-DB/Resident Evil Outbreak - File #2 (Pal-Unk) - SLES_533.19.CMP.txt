@@ -1,0 +1,95 @@
+^3 = NAME: Resident Evil Outbreak - File #2 (Pal-Unk)
+^2 = GameID: SLES-53319
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$E00EC8CC 0019FD6C
+$E00D0C06 0019FD6E
+$201A228C 08046CC4
+$2011B310 3C040100
+$2011B314 3C050008
+$2011B318 0C041A6A
+$2011B31C 3C060008
+$2011B320 0C0454C0
+$2011B324 0000202D
+$2011B328 3C050100
+$2011B32C 3C040008
+$2011B330 0C041A6A
+$2011B334 3C060008
+$2011B338 080688A5
+$2011B33C 00000000
+$9019FD6C 0C06C8CC
+$901001E8 0C046EE2
+!!
++AR Below 3.14 Fix {<I>Use This Code If Your AR Max Is Prior 3.14.</I>}
+%Credits: Codejunkies
+$2011AF80 3C03200F
+$2011AF88 8C65FFF8
+$2011AF8C 24040079
+$2011AF90 24030074
+$2011AF94 0000000C
+!Collection Codes:
++All Costumes Purchased
+%Credits: Codejunkies
+$20342EE0 FFFFFFFF
+$20342EE4 FFFFFFFF
+$10342EE8 0000FFFF
++All Extras Purchased
+%Credits: Codejunkies
+$20342F1C FFFFFFFF
++All Movies Purchased
+%Credits: Codejunkies
+$40342EF4 00040001
+$FFFFFFFF 00000000
+$10342F04 0000FFFF
++All Sounds Purchased
+%Credits: Codejunkies
+$20342F08 FFFFFFFF
++Gallery Purchased
+%Credits: Codejunkies
+$40342ECC 00040001
+$FFFFFFFF 00000000
+$10342EDC 0000FFFF
+!!
+!Costume Modifier (Player):
++Always Type A
+%Credits: Jay007
+$004E5C60 00000000
++Always Type B
+%Credits: Jay007
+$004E5C60 00000001
++Always Type C
+%Credits: Jay007
+$004E5C60 00000002
++Always Type D (Females Only)
+%Credits: Jay007
+$004E5C60 00000003
++Always Type E (Females Only)
+%Credits: Jay007
+$004E5C60 00000004
+!!
++Infinite Bullets
+%Credits: Codejunkies
+$E0028A30 005AC78C
+$D05AC78E 00000C18
+$2061ACB8 24820000
++Infinite Health (Main Character)
+%Credits: Codejunkies
+$E0028A30 005AC78C
+$D05AC78E 00000C18
+$204E55D0 270F270F
++Low Virus Gauge (Player)
+%Credits: Jay007
+$204E5C54 00000000
++Max Collection Points
+%Credits: Codejunkies
+$20341AC4 05F0A0B0
++Never Infected
+%Credits: Codejunkies
+$E0028A30 005AC78C
+$D05AC78E 00000C18
+$204E5C54 00000000
++NPC Character Modifier {<I>This List Based On File 1, And Maynot Be Totally Accurate.<Br>01 - Mac<Br>02 - Rodriguez<Br>03 - Conrad<Br>04 - Hunk:B<Br>05 - Hunk<Br>06 - Miguel<Br>07 - (Face)<Br>08 - U.S.S.1<Br>09 - *<Br>0A - Arnold<Br>0B - Matt<Br>0C - Billy<Br>0D - Hursh<Br>0E - Hursh (With An Odd Face Problem)<Br>0F - *<Br>10 - *<Br>11 - Peter<Br>12 - Marvin<Br>13 - Fred<Br>14 - Andy<Br>15 - *<Br>16 - Jean<Br>17 - Tonny<Br>18 - (Injured Tonny)<Br>19 - Keeper 1<Br>1A - Keeper 2<Br>1B - Austin<Br>1C - Clint<Br>1D - Bone<Br>1E - Bob<Br>1F - (Zombie Waiter)<Br>20 - Nathan<Br>21 - Samuel<Br>22 - *<Br>23 - Will<Br>24 - (Zombie Will)<Br>25 - Roger<Br>26 - *<Br>27 - Carter<Br>28 - Greg<Br>29 - Scholar 1<Br>2A - Scholar 2<Br>2B - Jake<Br>2C - Gary<Br>2D - Man 9<Br>2E - *<Br>2F - Micky<Br>30 - Al<Br>31 - Maskman<Br>32 - Al B<Br>33 - Ben<Br>34 - (Little Girl)<Br>35 - Regan<Br>36 - Regan B<Br>37 - Monica<Br>38 - Rinda<Br>39 - Rita<Br>3A - *<Br>3B - Mary<Br>3C - Kate<Br>3D - *<Br>3E - *<Br>3F - Danny<Br>40 - Danny B<Br>41 - Gill<Br>42 - Gill B<Br>43 - *<Br>44 - *<Br>45 - *<Br>46 - (Bald Doctor With Goatee)<Br>47 - *<Br>48 - *<Br>49 - (Cindy)<Br>4A - Doctor 4<Br>4B - *<Br>4C - *<Br>4D - *<Br>4E - *<Br>4F - *<Br>50 - *</I>}
+%Credits: Jay007
+!!
+

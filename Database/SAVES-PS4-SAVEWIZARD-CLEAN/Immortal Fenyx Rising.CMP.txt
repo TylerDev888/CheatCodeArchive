@@ -1,0 +1,500 @@
+^2 = GameID: CUSA16345
+^3 = NAME: Immortals Fenyx Rising
+^4 = FILE: (DLC[1-2])?(NewGamePlus|DungeonEntrance|Typhon|Quick|Auto|Manual)Save[0-9]{2}\.sav
+^5 = APCRED: Mhallice#1926, Skiller#4741
+(Untested - Make sure to backup your save data first)
+
++Item Amount Mod
+$80010010 0012000B
+$[Item]
+$15000000 00000000
+$280001F3 [AMOUNT:05F5E0FF:HEX:BIG]
+
+
++Item Replacement
+$80010010 0012000B
+$[Item<Item You Have>]15000000 00000000
+$A8000004 00000008
+$[Item<Item You Want>]
+
++Mastery Level 60
+$80010010 0012000B
+$[Mastery]
+$15000000 00000000
+$28000064 0000003D
+
++Mastery Bar Max
+$8001000E 15000000
+$CCF70EBE AB7590C6
+$00000000 00000000
+$88010011 11000000
+$[MasteryBar] 00000000
+$00000700 0B000000
+$28000011 00000007
+
+^6 = MODS:
+[Item]
+Value>Name>Version
+2A6EC23FC5010000	(Aphrodite) Love's Embrace	Armor	Main Game:
+216EC23FC5010000	(Aphrodite) Spring's Embrace	Armor	Main Game:
+F497DFE1B7010000	(Aphrodite) Autumn's Embrace	Armor	Main Game:
+69FB955BC9010000	(Aphrodite) Vanity's Embrace	Armor	Main Game:
+536EC23FC5010000	(Ares) Grizzled Hide of War	Armor	Main Game:
+4A6EC23FC5010000	(Ares) Hide of War	Armor	Main Game:
+06FC955BC9010000	(Ares) Ruthless Hide of War	Armor	Main Game:
+FD97DFE1B7010000	(Ares) Polare Hide of War	Armor	Main Game:
+DF692F73BB010000	(Ares) Broken Battle Armor	Armor	Main Game:
+3A662B74C8010000	(Boar) Bristled Pelt	Armor	Main Game:
+63662B74C8010000	(Boar) Bristled Summer Pelt	Armor	Main Game:
+74662B74C8010000	(Boar) Bristled Harvest Pelt	Armor	Main Game:
+85662B74C8010000	(Boar) Bristled Wintertide Pelt	Armor	Main Game:
+E2202B74C8010000	(Artemis) Hide of the Hunted Deer	Armor	Main Game:
+952E2B74C8010000	(Artemis) Skin of the Hunted Shark	Armor	Main Game:
+A62E2B74C8010000	(Artemis) Scales of the Hunted Snake	Armor	Main Game:
+B72E2B74C8010000	(Artemis) Plumage of the Hunted Dove	Armor	Main Game:
+7F6EC23FC5010000	(Athena) Enduring Wisdom	Armor	Main Game:
+9F09965BC9010000	(Athena) Bird of Prey Armor	Armor	Main Game:
+2198DFE1B7010000	(Athena) Moonlit Predator Armor	Armor	Main Game:
+766EC23FC5010000	(Athena) Snowy Owl Armor	Armor	Main Game:
+C82E2B74C8010000	(Chimera) Brood of Typhon Breastplate	Armor	Main Game:
+7A572B74C8010000	(Chimera) Snake's Sting Breastplate	Armor	Main Game:
+8B572B74C8010000	(Chimera) Lion's Stare Breastplate	Armor	Main Game:
+9C572B74C8010000	(Chimera) Goat's Breath Breastplate	Armor	Main Game:
+AD572B74C8010000	(Cyclops) Hubris of the One-Eyed Giant	Armor	Main Game:
+BE572B74C8010000	(Cyclops) Envy of the One-Eyed Giant	Armor	Main Game:
+CF572B74C8010000	(Cyclops) Wrath of the One-Eyed Giant	Armor	Main Game:
+E0572B74C8010000	(Cyclops) Greed of the One-Eyed Giant	Armor	Main Game:
+586FC23FC5010000	(Gorgon) Stoneglare Plate	Armor	Main Game:
+4F6FC23FC5010000	(Gorgon) Darkglare Plate	Armor	Main Game:
+060B965BC9010000	(Gorgon) Beamglare Plate	Armor	Main Game:
+2A98DFE1B7010000	(Gorgon) Goldenglare Plate	Armor	Main Game:
+F1572B74C8010000	(Harpy) Stormy Breastplate of the Vulture	Armor	Main Game:
+9E652B74C8010000	(Harpy) Nocturnal Breastplate of the Vulture	Armor	Main Game:
+02582B74C8010000	(Harpy) Feathered Breastplate of the Vulture	Armor	Main Game:
+B2652B74C8010000	(Harpy) Luminous Breastplate of the Vulture	Armor	Main Game:
+A86EC23FC5010000	(Hephaistos) Plate of the Ethereal Automaton	Armor	Main Game:
+B16EC23FC5010000	(Hephaistos) Forgemaster's Armor	Armor	Main Game:
+B009965BC9010000	(Hephaistos) Plate of Forge Fires	Armor	Main Game:
+0F98DFE1B7010000	(Hephaistos) Plate of Golden Gears	Armor	Main Game:
+07662B74C8010000	(Lion) Skin of Pride	Armor	Main Game:
+18662B74C8010000	(Lion) Skin of Hidden Pride	Armor	Main Game:
+29662B74C8010000	(Lion) Skin of Fervid Pride	Armor	Main Game:
+52662B74C8010000	(Lion) Skin of Spectral Pride	Armor	Main Game:
+53FF7AC6CC010000	(New Olympian) Robes of the New Olympian	Armor	Main Game:
+63FF7AC6CC010000	(New Olympian) New Olympian's Patron Robe	Armor	Main Game:
+69FF7AC6CC010000	(New Olympian) New Olympian's Robe of Judgment	Armor	Main Game:
+6FFF7AC6CC010000	(New Olympian) New Olympian's Divine Robe	Armor	Main Game:
+FD6EC23FC5010000	(Nike) Victorious Garb	Armor	Main Game:
+066FC23FC5010000	(Nike) Wrap of Dark Victory	Armor	Main Game:
+E40A965BC9010000	(Nike) Wrap of Triumphant Victory	Armor	Main Game:
+1898DFE1B7010000	(Nike) Wrap of Shining Victory	Armor	Main Game:
+2C6FC23FC5010000	(Satyr) Skin of the Revels	Armor	Main Game:
+236FC23FC5010000	(Satyr) Skin of Moonlight Revels	Armor	Main Game:
+F50A965BC9010000	(Satyr) Skin of Dusklight Revels	Armor	Main Game:
+0698DFE1B7010000	(Satyr) Skin of Dawnlight Revels	Armor	Main Game:
+22007BC6CC010000	(Soldier) Valor of the Soldier Breastplate	Armor	Main Game:
+32007BC6CC010000	(Soldier) Charge of the Soldier Breastplate	Armor	Main Game:
+38007BC6CC010000	(Soldier) Heart of the Soldier Breastplate	Armor	Main Game:
+3E007BC6CC010000	(Soldier) Spirit of the Soldier Breastplate	Armor	Main Game:
+DA6EC23FC5010000	(Tartaros) Shade of Tartaros Plate	Armor	Main Game:
+D16EC23FC5010000	(Tartaros) Despair of Tartaros Plate	Armor	Main Game:
+3398DFE1B7010000	(Tartaros) Flames of Tartaros Plate	Armor	Main Game:
+D30A965BC9010000	(Tartaros) Fever of Tartaros Plate	Armor	Main Game:
+85F7955BC9010000	(Ultimate) Armor of Bright Divinity	Armor	Main Game:
+000DD9E1B7010000	(Ultimate) Glorious Armor of Apotheosis	Armor	Main Game:
+77F7955BC9010000	(Ultimate) Divine Providence Armor	Armor	Main Game:
+7EF7955BC9010000	(Ultimate) Armor of Sacred Silver	Armor	Main Game:
+C3652B74C8010000	(Unknown Visitor) Armor of the Unknown Visitor	Armor	Main Game:
+D4652B74C8010000	(Unknown Visitor) Unknown Visitor's Bronze Armor	Armor	Main Game:
+E5652B74C8010000	(Unknown Visitor) Unknown Visitor's Silver Armor	Armor	Main Game:
+F6652B74C8010000	(Unknown Visitor) Unknown Visitor's Golden Armor	Armor	Main Game:
+816FC23FC5010000	(Zeus) Breastplate of the Eagle	Armor	Main Game:
+756FC23FC5010000	(Zeus) Breastplate of the Thunderer	Armor	Main Game:
+170B965BC9010000	(Zeus) Breastplate of the King	Armor	Main Game:
+3C98DFE1B7010000	(Zeus) Breastplate of the Golden God	Armor	Main Game:
+E64BE17BCB010000	Nice Armor	Armor	Main Game:
+8FBBF6E9C0010000	(Afterlife) Brightblaze	Axe	Main Game:
+7F45F7E9C0010000	(Afterlife) Gatekeeper	Axe	Main Game:
+6908F6E9C0010000	(Afterlife) Eternity	Axe	Main Game:
+7F13D9E1B7010000	(Atalanta) Axe of Atalanta	Axe	Main Game:
+147ADCE1B7010000	(Atalanta) Reforged Axe of Atalanta	Axe	Main Game:
+157ADCE1B7010000	(Atalanta) Tempered Axe of Atalanta	Axe	Main Game:
+C81CE3C1C9010000	(Vulture) Tempest	Axe	Main Game:
+D11CE3C1C9010000	(Vulture) Wildfire	Axe	Main Game:
+DA1CE3C1C9010000	(Vulture) Windchill	Axe	Main Game:
+9645F7E9C0010000	(Darkside) Forbidden Labrys	Axe	Main Game:
+B21CE3C1C9010000	(Darkside) Blight	Axe	Main Game:
+AD45F7E9C0010000	(Darkside) Creation	Axe	Main Game:
+167ADCE1B7010000	(Guardian) Fabled Guardian's Axe	Axe	Main Game:
+4212DFE1B7010000	(Guardian) Legendary Guardian's Axe	Axe	Main Game:
+24E5F2E9C0010000	(Guardian) Mythic Guardian's Axe	Axe	Main Game:
+6AA02073BB010000	(Plague) Crystal Shadow Hammer	Axe	Main Game:
+E31CE3C1C9010000	(Unknown Visitor) Spiritless	Axe	Main Game:
+EC1CE3C1C9010000	(Unknown Visitor) Heartless	Axe	Main Game:
+F51CE3C1C9010000	(Unknown Visitor) Ruthless	Axe	Main Game:
+8013D9E1B7010000	(Odysseus) Bow of Odysseus	Bows	Main Game:
+177ADCE1B7010000	(Odysseus) Reforged Bow of Odysseus	Bows	Main Game:
+187ADCE1B7010000	(Odysseus) Tempered Bow of Odysseus	Bows	Main Game:
+AD0EE3C1C9010000	(Vulture) Whirlwind	Bows	Main Game:
+B60EE3C1C9010000	(Vulture) Eagle-eye	Bows	Main Game:
+BF0EE3C1C9010000	(Vulture) Talon	Bows	Main Game:
+D0A02073BB010000	(Cursed) Resistance	Bows	Main Game:
+8A08F6E9C0010000	(Spiked) Temptress	Bows	Main Game:
+BABBF6E9C0010000	(Spiked) Bramble	Bows	Main Game:
+5248F7E9C0010000	(Spiked) Venom	Bows	Main Game:
+197ADCE1B7010000	(Sureshot) Fabled Sureshot Bow	Bows	Main Game:
+3BE5F2E9C0010000	(Sureshot) Mythic Sureshot Bow	Bows	Main Game:
+BD12DFE1B7010000	(Sureshot) Legendary Sureshot Bow	Bows	Main Game:
+C80EE3C1C9010000	(Unknown Visitor) Deliberation	Bows	Main Game:
+D10EE3C1C9010000	(Unknown Visitor) Prudence	Bows	Main Game:
+DA0EE3C1C9010000	(Unknown Visitor) Purpose	Bows	Main Game:
+6948F7E9C0010000	(Winged) Galewind	Bows	Main Game:
+8048F7E9C0010000	(Winged) Reflection	Bows	Main Game:
+BBFDE2C1C9010000	(Winged) Infestation	Bows	Main Game:
+2F38520BD1010000	Misthios Beard	Cosmetic Equipment	Main Game:
+16712549C6010000	Misthios Braid	Cosmetic Equipment	Main Game:
+D05DD9E1B7010000	Misthios Garb	Cosmetic Equipment	Main Game:
+CF5DD9E1B7010000	Misthios Head Wear	Cosmetic Equipment	Main Game:
+2C482C73BB010000	Misthios Locks	Cosmetic Equipment	Main Game:
+E441B37DD5010000	Armor of the Stadium	Cosmetic Equipment	Main Game:
+DE41B37DD5010000	Helmet of the Stadium	Cosmetic Equipment	Main Game:
+86EBBFE8D7010000	(Adventure Time) Armor of Finneos	Cosmetic Equipment	Main Game:
+98EBBFE8D7010000	(Adventure Time) Helm of Finneos	Cosmetic Equipment	Main Game:
+89FBBFE8D7010000	(Adventure Time) Time of Adventure Wings	Cosmetic Equipment	Main Game:
+AAEBBFE8D7010000	(Adventure Time) Lady	Cosmetic Equipment	Main Game:
+9BFBBFE8D7010000	(Adventure Time) Phosphor the Companion	Cosmetic Equipment	Main Game:
+6098DFE1B7010000	(Apollo the Radiant) Radiant Vestments	Cosmetic Equipment	Main Game:
+D598DFE1B7010000	(Apollo the Radiant) Radiant Helm	Cosmetic Equipment	Main Game:
+60C3C11CD3010000	(Apollo the Radiant) Radiant Wings	Cosmetic Equipment	Main Game:
+DE5CF087BF010000	(Apollo the Radiant) Prophecy	Cosmetic Equipment	Main Game:
+7086D0D7D3010000	(Apollo the Radiant) The Archer's Bird	Cosmetic Equipment	Main Game:
+B7CBBFE8D7010000	(Blood of Zeus) Armor of the Demon Guard	Cosmetic Equipment	Main Game:
+C9CBBFE8D7010000	(Blood of Zeus) Helmet of the Demon Guard	Cosmetic Equipment	Main Game:
+3ECBBFE8D7010000	(Blood of Zeus) Wings of the Demon Guard	Cosmetic Equipment	Main Game:
+A5CBBFE8D7010000	(Blood of Zeus) Eudaimon	Cosmetic Equipment	Main Game:
+50CBBFE8D7010000	(Blood of Zeus) Phosphor of the Giants	Cosmetic Equipment	Main Game:
+1DB0DFE1B7010000	(Hades the Shadowmaster) Garb of the Underworld	Cosmetic Equipment	Main Game:
+C398DFE1B7010000	(Hades the Shadowmaster) Helm of the Underworld	Cosmetic Equipment	Main Game:
+2E7FF468D1010000	(Hades the Shadowmaster) Wings of the Underworld	Cosmetic Equipment	Main Game:
+CE5CF087BF010000	(Hades the Shadowmaster) Abyss	Cosmetic Equipment	Main Game:
+22C04E57D2010000	(Hades the Shadowmaster) Phosphor the Messenger of the Gods	Cosmetic Equipment	Main Game:
+4E98DFE1B7010000	(Orion the Stargazer) Plate of Stars	Cosmetic Equipment	Main Game:
+26B0DFE1B7010000	(Orion the Stargazer) Crown of Stars	Cosmetic Equipment	Main Game:
+F240B0D4D2010000	(Orion the Stargazer) Wings of Stars	Cosmetic Equipment	Main Game:
+C65CF087BF010000	(Orion the Stargazer) Gemini	Cosmetic Equipment	Main Game:
+A7A6EA38D4010000	(Orion the Stargazer) Phosphor of Starry Skies	Cosmetic Equipment	Main Game:
+5798DFE1B7010000	(Poseidon the Wavebreaker) Armor of the Waves	Cosmetic Equipment	Main Game:
+CC98DFE1B7010000	(Poseidon the Wavebreaker) Helm of the Waves	Cosmetic Equipment	Main Game:
+2BC2F17DD3010000	(Poseidon the Wavebreaker) Wings of the Waves	Cosmetic Equipment	Main Game:
+D65CF087BF010000	(Poseidon the Wavebreaker) Skyphios	Cosmetic Equipment	Main Game:
+A346E738D4010000	(Poseidon the Wavebreaker) Phosphor of Atlantis	Cosmetic Equipment	Main Game:
+528EA87ACD010000	(The Conjuring Alchemist) Garb of the Alchemist	Cosmetic Equipment	Main Game:
+3F8EA87ACD010000	(The Conjuring Alchemist) Shroud of the Alchemist	Cosmetic Equipment	Main Game:
+118DC31CD3010000	(The Conjuring Alchemist) Wings of the Alchemist	Cosmetic Equipment	Main Game:
+D00A3FE6D1010000	(The Conjuring Alchemist) Hex	Cosmetic Equipment	Main Game:
+AAA0D6D7D3010000	(The Conjuring Alchemist) Phosphor the Potion Master's Assistant	Cosmetic Equipment	Main Game:
+4762A87ACD010000	(The Enraged Minotaur) Enraged Armor of the Minotaur	Cosmetic Equipment	Main Game:
+3462A87ACD010000	(The Enraged Minotaur) Enraged Helm of the Minotaur	Cosmetic Equipment	Main Game:
+68E0CE1CD3010000	(The Enraged Minotaur) Enraged Wings of the Minotaur	Cosmetic Equipment	Main Game:
+2ED7D385CC010000	(The Enraged Minotaur) Pasiphae	Cosmetic Equipment	Main Game:
+B1173584D4010000	(The Enraged Minotaur) Phosphor of Minos	Cosmetic Equipment	Main Game:
+65B875C6CC010000	(The Lightning Bolt) Breastplate of the Lightning Bolt	Cosmetic Equipment	Main Game:
+64B875C6CC010000	(The Lightning Bolt) Helm of the Lightning Bolt	Cosmetic Equipment	Main Game:
+EBC0DDD7D3010000	(The Lightning Bolt) Wings of the Lightning Bolt	Cosmetic Equipment	Main Game:
+A8363FE6D1010000	(The Lightning Bolt) Strike	Cosmetic Equipment	Main Game:
+7419E738D4010000	(The Lightning Bolt) Phosphor the Lightning Stalker	Cosmetic Equipment	Main Game:
+F6B7EA38D4010000	(Twitch Prime) Frozen Phoenix	Cosmetic Equipment	Main Game:
+44E9993BD7010000	(Twitch Prime) Cold Snap Armor	Cosmetic Equipment	Main Game:
+32E9993BD7010000	(Twitch Prime) Cold Snap Helmet	Cosmetic Equipment	Main Game:
+C261F77DD3010000	(Twitch Prime) Smooth Stream Wings	Cosmetic Equipment	Main Game:
+56E9993BD7010000	(Twitch Prime) Kenesis	Cosmetic Equipment	Main Game:
+4598DFE1B7010000	(Typhon the Unchained) Armor of the Corruptor	Cosmetic Equipment	Main Game:
+BA98DFE1B7010000	(Typhon the Unchained) Helm of the Corruptor	Cosmetic Equipment	Main Game:
+2422C31CD3010000	(Typhon the Unchained) Wings of the Corruptor	Cosmetic Equipment	Main Game:
+E65CF087BF010000	(Typhon the Unchained) Mania	Cosmetic Equipment	Main Game:
+ECD7CE1CD3010000	(Typhon the Unchained) Phosphor the Marauder of Typhon	Cosmetic Equipment	Main Game:
+19CF029AC6010000	(Aphrodite's Love) (Sword) Thorn	Cosmetic Weapons	Main Game:
+EDCE029AC6010000	(Aphrodite's Love) (Axe) Tanglecleave	Cosmetic Weapons	Main Game:
+03CF029AC6010000	(Aphrodite's Love) (Bow) Breeze	Cosmetic Weapons	Main Game:
+16A12073BB010000	(Apollo's Light) (Sword) Dawn's Edge	Cosmetic Weapons	Main Game:
+7EA02073BB010000	(Apollo's Light) (Axe) Dawn's Wings	Cosmetic Weapons	Main Game:
+EEA02073BB010000	(Apollo's Light) (Bow) Dawn's Harp	Cosmetic Weapons	Main Game:
+12A61A24D4010000	(Bewitched Alchemy) (Sword) Antithesis of Panacea	Cosmetic Weapons	Main Game:
+FEA51A24D4010000	(Bewitched Alchemy) (Axe) Circe's Wrath	Cosmetic Weapons	Main Game:
+08A61A24D4010000	(Bewitched Alchemy) (Bow) Protector of the Herbalist	Cosmetic Weapons	Main Game:
+63CBBFE8D7010000	(Blood of Zeus) (Sword) Sword of the Demon Chaser	Cosmetic Weapons	Main Game:
+77CBBFE8D7010000	(Blood of Zeus) (Axe) Hammer of the Demon Chaser	Cosmetic Weapons	Main Game:
+6DCBBFE8D7010000	(Blood of Zeus) (Bow) Bow of the Demon Chaser	Cosmetic Weapons	Main Game:
+A5741B24D4010000	(Jolt of Lightning) (Sword) Divine Shock	Cosmetic Weapons	Main Game:
+91741B24D4010000	(Jolt of Lightning) (Axe) Thunder of the Gods	Cosmetic Weapons	Main Game:
+9B741B24D4010000	(Jolt of Lightning) (Bow) Celestial Flash	Cosmetic Weapons	Main Game:
+40DB1D24D4010000	(Horn of the Minotaur) (Sword) Bloodrage	Cosmetic Weapons	Main Game:
+2CDB1D24D4010000	(Horn of the Minotaur) (Axe) Battlestomp	Cosmetic Weapons	Main Game:
+36DB1D24D4010000	(Horn of the Minotaur) (Bow) Bullseye	Cosmetic Weapons	Main Game:
+84A536FCC4010000	(Orion's Blessed) (Sword) Starlight	Cosmetic Weapons	Main Game:
+CAA336FCC4010000	(Orion's Blessed) (Axe) Falling Star	Cosmetic Weapons	Main Game:
+E1A336FCC4010000	(Orion's Blessed) (Bow) Horizon	Cosmetic Weapons	Main Game:
+20A12073BB010000	(Shimmering Rainbow) (Sword) The Rainbow's Edge	Cosmetic Weapons	Main Game:
+88A02073BB010000	(Shimmering Rainbow) (Axe) The Rainbow's Arc	Cosmetic Weapons	Main Game:
+F8A02073BB010000	(Shimmering Rainbow) (Bow) The Rainbow's Curve	Cosmetic Weapons	Main Game:
+7CE9993BD7010000	(Twitch Prime) (Sword) Shiver	Cosmetic Weapons	Main Game:
+68E9993BD7010000	(Twitch Prime) (Axe) Avalanche	Cosmetic Weapons	Main Game:
+72E9993BD7010000	(Twitch Prime) (Bow) Cold Spell	Cosmetic Weapons	Main Game:
+0CA12073BB010000	(Typhon's Rage) (Sword) Spite's Hunger	Cosmetic Weapons	Main Game:
+74A02073BB010000	(Typhon's Rage) (Axe) Malice's Strength	Cosmetic Weapons	Main Game:
+E4A02073BB010000	(Typhon's Rage) (Bow) Cruelty's Reach	Cosmetic Weapons	Main Game:
+2AA12073BB010000	(Ultimate Hero) (Sword) Charbrand	Cosmetic Weapons	Main Game:
+92A02073BB010000	(Ultimate Hero) (Axe) Flamesplitter	Cosmetic Weapons	Main Game:
+02A12073BB010000	(Ultimate Hero) (Bow) Nightmare's Pierce	Cosmetic Weapons	Main Game:
+0D6D7F4DD8010000	Crown of the Horai	DLC Items	Main Game:
+036D7F4DD8010000	Crown of Unity	DLC Items	Main Game:
+396D7F4DD8010000	Vestment of the Horai (Silver)	DLC Items	Main Game:
+2F6D7F4DD8010000	Vestment of the Horai (Gold)	DLC Items	Main Game:
+E96D7F4DD8010000	(Trials) Sword of Trials	DLC Items	Main Game:
+DB6D7F4DD8010000	(Trials) Sword of Unity	DLC Items	Main Game:
+726D7F4DD8010000	(Trials) Axe of Trials	DLC Items	Main Game:
+646D7F4DD8010000	(Trials) Axe of Unity	DLC Items	Main Game:
+B56D7F4DD8010000	(Trials) Bow of Trials	DLC Items	Main Game:
+A76D7F4DD8010000	(Trials) Bow of Unity	DLC Items	Main Game:
+526D7F4DD8010000	Wings of Unity	DLC Items	Main Game:
+266E7F4DD8010000	Arion	DLC Items	Main Game:
+0F6E7F4DD8010000	Phosphor of Olympus	DLC Items	Main Game:
+E160C23FC5010000	(Aphrodite) Spring's Laurel	Helms	Main Game:
+D860C23FC5010000	(Aphrodite) Love's Laurels	Helms	Main Game:
+6998DFE1B7010000	(Aphrodite) Autumn's Laurel	Helms	Main Game:
+540B965BC9010000	(Aphrodite) Vanity's Laurel	Helms	Main Game:
+0A61C23FC5010000	(Ares) Grizzled Jaws of War	Helms	Main Game:
+0161C23FC5010000	(Ares) Jaws of War	Helms	Main Game:
+650B965BC9010000	(Ares) Ruthless Jaws of War	Helms	Main Game:
+7298DFE1B7010000	(Ares) Polar Jaws of War	Helms	Main Game:
+392B965BC9010000	(Boar) Bristled Helm	Helms	Main Game:
+4A2B965BC9010000	(Boar) Bristled Summer Helm	Helms	Main Game:
+512B965BC9010000	(Boar) Bristled Harvest Helm	Helms	Main Game:
+582B965BC9010000	(Boar) Bristled Wintertide Helm	Helms	Main Game:
+7519965BC9010000	(Artemis) Shroud of the Hunted Deer	Helms	Main Game:
+0F1A965BC9010000	(Artemis) Shroud of the Hunted Shark	Helms	Main Game:
+161A965BC9010000	(Artemis) Shroud of the Hunted Snake	Helms	Main Game:
+1D1A965BC9010000	(Artemis) Shroud of the Hunted Dove	Helms	Main Game:
+3C61C23FC5010000	(Athena) Piercing Wisdom	Helms	Main Game:
+760B965BC9010000	(Athena) Bird of Prey Helmet	Helms	Main Game:
+9698DFE1B7010000	(Athena) Moonlit Predator Helmet	Helms	Main Game:
+2A61C23FC5010000	(Athena) Snowy Owl Helmet	Helms	Main Game:
+421A965BC9010000	(Chimera) Brood of Typhon Helmet	Helms	Main Game:
+002A965BC9010000	(Chimera) Snake's Sting Helm	Helms	Main Game:
+072A965BC9010000	(Chimera) Lion's Stare Helm	Helms	Main Game:
+0E2A965BC9010000	(Chimera) Goat's Breath Helm	Helms	Main Game:
+332A965BC9010000	(Cyclops) Hubristic One-Eyed Giant Helm	Helms	Main Game:
+442A965BC9010000	(Cyclops) Envious One-Eyed Giant Helm	Helms	Main Game:
+4B2A965BC9010000	(Cyclops) Wrathful One-Eyed Giant Helm	Helms	Main Game:
+522A965BC9010000	(Cyclops) Greedy One-Eyed Giant Helm	Helms	Main Game:
+DB6DC23FC5010000	(Gorgon) Stoneglare Mask	Helms	Main Game:
+D26DC23FC5010000	(Gorgon) Darkglare Mask	Helms	Main Game:
+5319965BC9010000	(Gorgon) Beamglare Mask	Helms	Main Game:
+9F98DFE1B7010000	(Gorgon) Goldenglare Mask	Helms	Main Game:
+772A965BC9010000	(Harpy) Stormy Helm of the Vulture	Helms	Main Game:
+882A965BC9010000	(Harpy) Nocturnal Helm of the Vulture	Helms	Main Game:
+8F2A965BC9010000	(Harpy) Feathered Helm of the Vulture	Helms	Main Game:
+962A965BC9010000	(Harpy) Luminous Helm of the Vulture	Helms	Main Game:
+5C61C23FC5010000	(Hephaistos) Helm of the Ethereal Automaton	Helms	Main Game:
+6561C23FC5010000	(Hephaistos) Forgemaster's Headpiece	Helms	Main Game:
+0F19965BC9010000	(Hephaistos) Helm of Forge Fires	Helms	Main Game:
+8498DFE1B7010000	(Hephaistos) Helm of Golden Gears	Helms	Main Game:
+F52A965BC9010000	(Lion) Mane of Pride	Helms	Main Game:
+062B965BC9010000	(Lion) Mane of Hidden Pride	Helms	Main Game:
+0D2B965BC9010000	(Lion) Mane of Fervid Pride	Helms	Main Game:
+142B965BC9010000	(Lion) Mane of Spectral Pride	Helms	Main Game:
+54F07AC6CC010000	(New Olympian) Helm of the New Olympian	Helms	Main Game:
+66F07AC6CC010000	(New Olympian) New Olympian's Patron Helm	Helms	Main Game:
+6EF07AC6CC010000	(New Olympian) New Olympian's Judgment Helm	Helms	Main Game:
+76F07AC6CC010000	(New Olympian) New Olympian's Divine Helm	Helms	Main Game:
+796DC23FC5010000	(Nike) Victorious Headdress	Helms	Main Game:
+826DC23FC5010000	(Nike) Headdress of Dark Victory	Helms	Main Game:
+3119965BC9010000	(Nike) Headdress of Triumphant Victory	Helms	Main Game:
+8D98DFE1B7010000	(Nike) Headdress of Shining Victory	Helms	Main Game:
+B26DC23FC5010000	(Satyr) Horns of the Revels	Helms	Main Game:
+A96DC23FC5010000	(Satyr) Horns of Moonlight Revels	Helms	Main Game:
+4219965BC9010000	(Satyr) Horns of Dusklight Revels	Helms	Main Game:
+7B98DFE1B7010000	(Satyr) Horns of Dawnlight Revels	Helms	Main Game:
+7EF07AC6CC010000	(Soldier) Valor of the Soldier Helm	Helms	Main Game:
+86F07AC6CC010000	(Soldier) Charge of the Soldier Helm	Helms	Main Game:
+8EF07AC6CC010000	(Soldier) Heart of the Soldier Helm	Helms	Main Game:
+96F07AC6CC010000	(Soldier) Spirit of the Soldier Helm	Helms	Main Game:
+596DC23FC5010000	(Tartaros) Shade of Tartaros Helm	Helms	Main Game:
+506DC23FC5010000	(Tartaros) Despair of Tartaros Helm	Helms	Main Game:
+A898DFE1B7010000	(Tartaros) Flames of Tartaros Helm	Helms	Main Game:
+2019965BC9010000	(Tartaros) Fever of Tartaros Helm	Helms	Main Game:
+2F0B965BC9010000	(Ultimate) Helm of Bright Divinity	Helms	Main Game:
+0600D9E1B7010000	(Ultimate) Winged Helmet of Apotheosis	Helms	Main Game:
+210B965BC9010000	(Ultimate) Divine Providence Helm	Helms	Main Game:
+280B965BC9010000	(Ultimate) Helm of Sacred Silver	Helms	Main Game:
+B12A965BC9010000	(Unknown Visitor) Guise of the Unknown Visitor	Helms	Main Game:
+C22A965BC9010000	(Unknown Visitor) Unknown Visitor's Bronze Guise	Helms	Main Game:
+C92A965BC9010000	(Unknown Visitor) Unknown Visitor's Silver Guise	Helms	Main Game:
+D02A965BC9010000	(Unknown Visitor) Unknown Visitor's Golden Guise	Helms	Main Game:
+046EC23FC5010000	(Zeus) Winged Helm of the Eagle	Helms	Main Game:
+FB6DC23FC5010000	(Zeus) Winged Helm of the Thunderer	Helms	Main Game:
+6419965BC9010000	(Zeus) Winged Helm of the King	Helms	Main Game:
+B198DFE1B7010000	(Zeus) Winged Helm of the Golden God	Helms	Main Game:
+B65CF087BF010000	Aethon	Mounts	Main Game:
+85E32773BB010000	Alabaster	Mounts	Main Game:
+1816D094CA010000	Anemone	Mounts	Main Game:
+5E3FD094CA010000	Antikythera	Mounts	Main Game:
+1C16D094CA010000	Asphodel	Mounts	Main Game:
+B482DFE1B7010000	Bolt	Mounts	Main Game:
+1016D094CA010000	Cypress	Mounts	Main Game:
+0C16D094CA010000	Everlast	Mounts	Main Game:
+DD24D094CA010000	Guardian	Mounts	Main Game:
+1416D094CA010000	Hellebore	Mounts	Main Game:
+9DE32773BB010000	Indika	Mounts	Main Game:
+1711D094CA010000	Itea	Mounts	Main Game:
+FE5CF087BF010000	Khroma	Mounts	Main Game:
+3084DFE1B7010000	Krater	Mounts	Main Game:
+8DE32773BB010000	Krystalline	Mounts	Main Game:
+0816D094CA010000	Larkspur	Mounts	Main Game:
+E124D094CA010000	Laurion	Mounts	Main Game:
+F924D094CA010000	Muse	Mounts	Main Game:
+623FD094CA010000	Paragon	Mounts	Main Game:
+BE5CF087BF010000	Ptilon	Mounts	Main Game:
+2884DFE1B7010000	Quicksilver	Mounts	Main Game:
+7DE32773BB010000	Sheena	Mounts	Main Game:
+C682DFE1B7010000	Sepia	Mounts	Main Game:
+95E32773BB010000	Spring	Mounts	Main Game:
+2016D094CA010000	Tyrian	Mounts	Main Game:
+2084DFE1B7010000	Xenippos	Mounts	Main Game:
+3FA9F36BCE010000	Carnivorous Phosphor	Phosphor	Main Game:
+47A9F36BCE010000	Burnished Phosphor	Phosphor	Main Game:
+4282DFCCCE010000	Molten Phosphor	Phosphor	Main Game:
+43A9F36BCE010000	Phosphor Automated	Phosphor	Main Game:
+33A9F36BCE010000	Phosphor of Companionship	Phosphor	Main Game:
+4BA9F36BCE010000	Phosphor of Heat's Core	Phosphor	Main Game:
+1FA9F36BCE010000	Phosphor of Lit Cinders	Phosphor	Main Game:
+17A9F36BCE010000	Phosphor of Lovebird	Phosphor	Main Game:
+23A9F36BCE010000	Phosphor of Passion	Phosphor	Main Game:
+3BA9F36BCE010000	Phosphor of Zeus's Lightning	Phosphor	Main Game:
+2FA9F36BCE010000	Phosphor of Zeus's Skies	Phosphor	Main Game:
+9E173584D4010000	Phosphor the Dragon	Phosphor	Main Game:
+37A9F36BCE010000	Phosphor the Evilglare	Phosphor	Main Game:
+2BA9F36BCE010000	Phosphor the Patriarch	Phosphor	Main Game:
+4F8BF36BCE010000	Phosphor the Phoenix	Phosphor	Main Game:
+27A9F36BCE010000	Phosphor the Stonegazer	Phosphor	Main Game:
+4682DFCCCE010000	Tarnished Phosphor	Phosphor	Main Game:
+1BA9F36BCE010000	Phosphor Of Love Ablaze	Phosphor	Main Game:
+F995AFEDB8010000	Salpinx	Quest Items	Main Game:
+8E96AFEDB8010000	Bronze Pot	Quest Items	Main Game:
+89A8B228BA010000	Apple of Discord	Quest Items	Main Game:
+1EC1B228BA010000	Tear of Aphrodite #1 (Kalliope's Distress Vault)	Quest Items	Main Game:
+FBC0B228BA010000	Tear of Aphrodite #2 (Adonis's Fall Vault)	Quest Items	Main Game:
+41C1B228BA010000	Tear of Aphrodite #3 (Aphrodite's Bewilderment Vault)	Quest Items	Main Game:
+714B3532BB010000	Fang of the Hydra	Quest Items	Main Game:
+48453264BC010000	Pandora's Box	Quest Items	Main Game:
+EB38A110BD010000	Jar of Aiolos	Quest Items	Main Game:
+5F059818BE010000	Laurel Wreath	Quest Items	Main Game:
+DE9F5286BE010000	Crest of Herakles	Quest Items	Main Game:
+01A05286BE010000	Crest of Atalanta	Quest Items	Main Game:
+24A05286BE010000	Crest of Odysseus	Quest Items	Main Game:
+47A05286BE010000	Crest of Achilles	Quest Items	Main Game:
+04421DAEBF010000	Molten Fragment	Quest Items	Main Game:
+8C4962CFBF010000	Magic Rock (Yellow)	Quest Items	Main Game:
+ED9862CFBF010000	Magic Rock (Orange)	Quest Items	Main Game:
+109962CFBF010000	Magic Rock (Blue)	Quest Items	Main Game:
+D77AF3F6C0010000	Olympian Key	Quest Items	Main Game:
+C63DE3C1C9010000	Midnight Fragment	Quest Items	Main Game:
+1A5992F8C9010000	Mythical Fragment	Quest Items	Main Game:
+361AD3EFCA010000	Small Owl Statue	Quest Items	Main Game:
+EAAE94B3CC010000	Wing Piece	Quest Items	Main Game:
+52717BC6CD010000	Seed of the Dead	Quest Items	Main Game:
+172C7EC6CD010000	Daidalos's Treasure Clue	Quest Items	Main Game:
+2C2C7EC6CD010000	Clue to Daidalos's Treasure	Quest Items	Main Game:
+412C7EC6CD010000	Daidalos's Key	Quest Items	Main Game:
+4D2D277CCF010000	Armor Mastery Stat	Stat	Main Game:
+88D890D9CB010000	HP Mastery Stat	Stat	Main Game:
+8CD890D9CB010000	Skills Mastery Stat	Stat	Main Game:
+90D890D9CB010000	Godly Mastery Stat	Stat	Main Game:
+94D890D9CB010000	Potions Mastery Stat	Stat	Main Game:
+98D890D9CB010000	Stamina Mastery Stat	Stat	Main Game:
+D1A02073BB010000	(Coveted) Crystal Shadow	Swords	Main Game:
+6774510BD1010000	(Heroic) Challenger Sword	Swords	Main Game:
+7D74510BD1010000	(Heroic) Piecemaker Sword	Swords	Main Game:
+8574510BD1010000	(Heroic) Focuser Sword	Swords	Main Game:
+A108F6E9C0010000	(Shining) Gleam of Helios	Swords	Main Game:
+7FEDE2C1C9010000	(Shining) Envy	Swords	Main Game:
+1649F7E9C0010000	(Shining) Premonition	Swords	Main Game:
+D1BBF6E9C0010000	(Subterranean) Triumph	Swords	Main Game:
+2D49F7E9C0010000	(Subterranean) Departed Shade	Swords	Main Game:
+4449F7E9C0010000	(Subterranean) Inferno	Swords	Main Game:
+7E13D9E1B7010000	(Achillis) Sword of Achiles	Swords	Main Game:
+1A7ADCE1B7010000	(Achillis) Reforged Sword of Achilles	Swords	Main Game:
+1B7ADCE1B7010000	(Achillis) Tempered Sword of Achilles	Swords	Main Game:
+23EFE2C1C9010000	(Vulture) Cyclone	Swords	Main Game:
+2CEFE2C1C9010000	(Vulture) Kindle	Swords	Main Game:
+35EFE2C1C9010000	(Vulture) Downpour	Swords	Main Game:
+8D74510BD1010000	(Taskmaster) Sprintrunner Sword	Swords	Main Game:
+9574510BD1010000	(Taskmaster) Stringplayer Sword	Swords	Main Game:
+9D74510BD1010000	(Taskmaster) Master of Myth Sword	Swords	Main Game:
+3EEFE2C1C9010000	(Unknown Visitor) Heartbreaker	Swords	Main Game:
+47EFE2C1C9010000	(Unknown Visitor) Instinct	Swords	Main Game:
+D9EFE2C1C9010000	(Unknown Visitor) Vigor	Swords	Main Game:
+1C7ADCE1B7010000	(Victor) Fabled Victor's Sword	Swords	Main Game:
+EB12DFE1B7010000	(Victor) Legendary Victor's Sword	Swords	Main Game:
+52E5F2E9C0010000	(Victor) Mythic Victor's Sword	Swords	Main Game:
+9984B926B5010000	Attack Potion	Usable Items	Main Game:
+9885B926B5010000	Defence Potion	Usable Items	Main Game:
+03D8E6F0B3010000	Health Potion	Usable Items	Main Game:
+A982E7F0B3010000	Stamina Potion	Usable Items	Main Game:
+20738F4050010000	Ambrosia	Usable Items	Main Game:
+343A59B6C3010000	Blue Mushroom	Usable Items	Main Game:
+FB312873BB010000	Flower Nectar	Usable Items	Main Game:
+03322873BB010000	Golden Amber	Usable Items	Main Game:
+F3312873BB010000	Olympian Fig	Usable Items	Main Game:
+CCCEF6E9C0010000	Pomegranate	Usable Items	Main Game:
+C7252873BB010000	Coins of Charon	Usable Items	Main Game:
+0F908F4050010000	Zeus's Lightning	Usable Items	Main Game:
+33C1B56F50010000	Blue Adamantine Shard	Usable Items	Main Game:
+8933AB26CF010000	Purple Adamantine Shard	Usable Items	Main Game:
+35C1B56F50010000	Red Adamantine Shard	Usable Items	Main Game:
+13908F4050010000	Yellow Adamantine Shard	Usable Items	Main Game:
+7B1444E343000000	Arrows	Usable Items	Main Game:
+783ED7CCCE010000	Blazing Winds	Wings	Main Game:
+D6E4E37BCB010000	Broken Wings	Wings	Main Game:
+E5897AC6CC010000	Forge Metal Wings	Wings	Main Game:
+D1897AC6CC010000	Intricate Wings	Wings	Main Game:
+DB897AC6CC010000	Smoldering Wings Wings of Zeus	Wings	Main Game:
+E0897AC6CC010000	Tempestuous Wings Wings of Zeus	Wings	Main Game:
+8120F568D1010000	Prism Wings	Wings	Main Game:
+088A7AC6CC010000	Ravishing Wings	Wings	Main Game:
+EA897AC6CC010000	Sharp-Fire Wings	Wings	Main Game:
+EF897AC6CC010000	Spark of Genius Wings	Wings	Main Game:
+CC897AC6CC010000	Wings of Daidalos	Wings	Main Game:
+178A7AC6CC010000	Wings of Moonlight Revels	Wings	Main Game:
+F4897AC6CC010000	Wings of the Dreadful	Wings	Main Game:
+FE897AC6CC010000	Wings of the Hideous	Wings	Main Game:
+F9897AC6CC010000	Wings of the Monstrous	Wings	Main Game:
+128A7AC6CC010000	Wings of the Revels	Wings	Main Game:
+0D8A7AC6CC010000	Wings of Vanity	Wings	Main Game:
+D6897AC6CC010000	Wings of Zeus	Wings	Main Game:
+D856FB68D1010000	Wings of Ikaros	Wings	Main Game:
+D456FB68D1010000	Wings Of Dawnlight Revels	Wings	Main Game:
+877773A5D8010000	Ambrosia	Usable Items	Myths of the Eastern Realm:
+[/Item]
+[Mastery]
+Value>Mastery
+88D890D9CB010000	HP
+98D890D9CB010000	Stamina
+9CD890D9CB010000	Weapon
+8CD890D9CB010000	Skills
+90D890D9CB010000	Godly
+94D890D9CB010000	Potions
+4D2D277CCF010000	Armor
+[/Mastery]
+[MasteryBar]
+Value>Mastery Bar
+2B2E7274	Health
+3342DC8F	Stamina
+72D13B59	Sword
+B509A29A	Axe
+860F4AF8	Bow
+7905E538	Helm
+EFF5F187	Armor
+F5786728	Potions
+220D06F7	Godly Powers
+[/MasteryBar]

@@ -1,0 +1,29 @@
+^2 = GameID: BLUS31191
+^3 = NAME: South Park The Stick of Truth
+^4 = FILE: SYS-DATA
++Max Experience
+$write at 0x0008B930:0x271000
++Net Worth
+$write at 0x0008BFC2:0x3B9AC9FF
++Upgrade Points
+$write at 0x0008B937:0x98967F00
++Perk Points
+$write at 0x0008B93B:0x98967F00
++Lvl 15
+$search 0x53CB55CF
+$write next (-25):0x0F
++Exp 10000
+$search 0x53CB55CF
+$write next (-22):0x2710
++99 Perk Points
+$search 0x53CB55CF
+$write next (-9):0x63
++99 Upgrade Points
+$search 0x53CB55CF
+$write next (-13):0x63
++Money 1000000.00
+$search 0x53CB55CF
+$write next (1660):0x05F5E100
++Canadian Money
+$search 0x53CB55CF
+$write next (1708):0x000F41DC

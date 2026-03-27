@@ -1,0 +1,9 @@
+^2 = GameID: BLES01311
+^3 = NAME: F1 2011
+^4 = FILE: SAVEDATA
++Update Dwadd For Savedata (required)
+$set [csum]:0
+(set [csum]:dwadd(0xC,0x07FFFF))
+$set pointer:eof+1
+$set [csum]:dwadd(0xC,pointer)
+$write at 0x000000:[csum]

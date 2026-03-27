@@ -1,0 +1,2345 @@
+^1 = Hash: BCD0B7CD
+^2 = GameID: SLUS_212.91
+^3 = NAME: Suikoden V
+!Masters:
++Enabler Code(MUST BE ON)
+$901F2550 0C07C8FC
++Enabler Code(MUST BE ON){Cb6+/Gs3+/Xp4+}
+$902074B0 0C040D80
++Enabler Code(MUST BE ON)
+$90239748 0C08EEFC
++Enabler Code(MUST BE ON){Cb/Gs/Xp}
+$F02074B0 002074B3
++Enabler Code(MUST BE ON){Ar2v2/Gs2v2}
+$0E3C7DF2 1456E7A5
+$F02074B0 002074B3
+!!
++Hdl Compatiblity
+%Credits: CrazyC
+$202EFB28 00000000
++Max Money
+$2036D0F4 00000000
++Max Sp
+$2036D164 00000000
++Super-dash{Dash - 2x)
+$200F70D0 32020200
+$200F70D4 54400001
+$200F70D8 27FFFFFC
+$200F70DC 03E00008
+$20247620 00000000
+$20247640 0C03DC34
++Quick Level Up - All
+%Credits: Pyriel
+$20AA90E8 3402[Amount:2710:HEX:BIG]
++Super Quick Level Up - All
+%Credits: Pyriel
+$20AA90E8 3C020002
++HP Restored After Battle
+%Credits: Pyriel
+$20A7427C 00000000
++Infinite HP - In Battle
+%Credits: Pyriel
+$200C3000 14200002
+$200C3004 00000000
+$200C3008 86050032
+$200C300C 082A039A
+$200C3010 0005182D
+$20A80E60 08030C00
+$20A80E64 8201002B
++Infinite HP (alternate)(untested)
+%Credits: Pyriel
+$200C3000 86030032
+$200C3004 0061280A
+$200C3008 082A039A
+$200C300C 0005182D
+$20A80E60 08030C00
+$20A80E64 8201002B
++Infinite Rune Use - In Battle
+%Credits: Pyriel
+$20A72E7C 00000000
++Infinite Rune Use And Restore- In Battle
+%Credits: Pyriel
+$200C3100 00042082
+$200C3104 00042080
+$200C3108 8C830004
+$200C310C 0829CBA5
+$200C3110 AC830000
+$20A72E80 08030C40
++One Hit Kills
+%Credits: Pyriel
+$200C3200 54400005
+$200C3204 27FF0084
+$200C3208 12200003
+$200C320C 8201002B
+$200C3210 54200001
+$200C3214 27FF006C
+$200C3218 03E00008
+$20A80E04 0C030C80
+!War Codes:
++Allied Units Never Take Damage
+%Credits: Pyriel
+$D0A8B838 00006078
+$20AB6078 00000000
++Enemy Units - Instant Death
+%Credits: Pyriel
+$D0A8B838 00006078
+$20AB6074 000003E7
++Infinite Special Skills{This Works For All Allied Units, But Only For Skills You Have To Press Square To Access, Like "flowing", "barrage", And "recover".}
+%Credits: Pyriel
+$E0056078 00A8B838
+$20A59358 00000000
+$20A59438 00000000
+$20A59500 00000000
+$20A59630 00000000
+$20A59858 00000000
+!!
+!Encounters:{In Case It's Not Painfully Obvious, You Can't Use The Freeze-Able Code At The Same Time As The Other Cycle Through Code.}
++Random Battles{L2+triangle = None, L2+x = Random}
+$20346028 0000102D
+$D089A39C 0000EEFF
+$2034602C A7824424
+$D089A39C 0000BEFF
+$2034602C 87824424
++Encounters(r3 + Up For No Encounters, R3 + Down To Resume Normal)
+%Credits: Pyriel
+$D089A39C 0000FFEB
+$2025C374 00001027
+$D089A39C 0000FFBB
+$2025C374 0C0D1798
++Press L2 + Up For More Encounters
+%Credits: Pyriel
+$E002FEEF 0089A39C
+$2025C2D4 00000000
+$1025C2DC 00003E99
++Press L2 + Up For Even More Encounters
+%Credits: Pyriel
+$E002FEEF 0089A39C
+$2025C2D4 00000000
+$1025C2DC 00003E80
+Press L2 + Up For Far More Encounters
+%Credits: Pyriel
+$E002FEEF 0089A39C
+$2025C2D4 00000000
+$1025C2DC 00003E38
++Press L2 + Up For Ungodly Encounters
+%Credits: Pyriel
+$E002FEEF 0089A39C
+$2025C2D4 00000000
+$1025C2DC 00003DCD
++Press L2 + Down For Normal Encounter Rate
+%Credits: Pyriel
+$E002FEBF 0089A39C
+$2025C2D4 10040006
+$1025C2DC 00003EAE
++Cycle Through Encounters{This Code Will Cause The Game To Cycle Through The Available Enemy Parties In Sequential Order, I.e. On The First Encounter, You'll Get The Digit 1 Encounter For The Area, On The Second, 2, And On The Third, 3, And So On. When You've Exhausted The Available Enounters For The Area, The Process Starts Over Again At Zero. Note That To Save Space, You Start At One When The Game Loads, But The 0 Digit Has A Valid Encounter As Well. It Will Be The Last One You See In The Area. Also Note That When You Move To A New Area, It Will Either Keep Going From Where You Left Off, Or It Will Start Over At Zero, Depending On How Many Possible Encounters There Are In The New Area.}
+%Credits: Pyriel
+$200C0000 3C01000D
+$200C0004 8422FFFE
+$200C0008 24420001
+$200C000C 0043282A
+$200C0010 0005100A
+$200C0014 A7824428
+$200C0018 03E00008
+$200C001C A422FFFE
+$20346200 08030000
+$20346204 87834424
++Cycle Through Encounters (freeze)(press Start + Up To Freeze (default), Press Start + Down To Unfreeze){<div Class="note"><h4>note</H4><ul Class="bullet-List"><li>starts <strong>frozen By Default</Strong>.</Li><li>use The Indicated Buttons To <strong>freeze/Unfreeze</Strong> The Encounter Cycle At The Current Encounter.</Li><li>you Can Freeze During The Battle Or Afterward, Up Until The Next Encounter Triggers.</Li><li>the Encounter Index <strong>starts At 0</Strong> Unless You Unfreeze Before The First Encounter.</Li><li>moving To A New Area With Fewer Encounters Resets The Index To <strong>0</Strong> And Keeps It Frozen Until You Toggle Again.</Li><li>you Can Unfreeze The Cycle At Any Time.</Li></Ul><h5>example — Mountain Pass (near The Beaver Dam) <em>(minor Spoilers)</Em></H5><ol Start="0" Class="numbered-List"><li>zadum</Li><li>tree Wizard</Li><li>dragonfly × 3</Li><li>mad Condor</Li><li>mad Condor &amp; Dragonfly × 2</Li><li>avolo Pestis &amp; Dragonfly × 2 (area Boss)</Li><li>solati (likely Only Until Captured)</Li></Ol><p>the Last Entry Shows One Way This Code Can Be Especially Handy.</P></Div>}
+%Credits: Pyriel
+$200C0000 3C01000D
+$200C0004 8422FFFE
+$200C0008 8026FFFD
+$200C000C 00461021
+$200C0010 0043282A
+$200C0014 0005100A
+$200C0018 A7824428
+$200C001C 03E00008
+$200C0020 A422FFFE
+$20346200 08030000
+$20346204 87834424
+$D089A39C 0000FFE7
+$000CFFFD 00000000
+$D089A39C 0000FFB7
+$000CFFFD 00000001
++Always Encounter The Same Enemy Party{<div Class="note"><h4>note</H4><ul Class="bullet-List"><li>this Option Is Mostly Useful If Someone Compiles A <strong>complete List Of Areas</Strong> In The Game.</Li><li>available Quantities Are <strong>likely One Digit</Strong> (e.g., <code>000?</Code>), But The Game Reserves Extra Space.</Li><li>as An Alternative “no Encounters” Setup, Set <code>???? = Ffff</Code>.</Li><li>treat The Extra Question Marks (<code>????</Code>) As <strong>placeholders</Strong> For Future/Unknown Values.</Li></Ul></Div>}
+%Credits: Pyriel
+$203461C8 2402[Amount:FFFF:HEX:BIG]
+$203461CC A7824428
+!!
+!Inventory:
+!Normal Item Slots:
++Item Slot Activator{63 Slots Is Max Allowed}
+$20A3FEF4 000000[Amount:3F:HEX:BIG]
+!Slot 1:
++Item Catagory
+$00A3FEF8 000000[CC<ItemCatagory]
++Item Type
+$00A3FEF9 000000[TT<ItemType>]
++Amount Left
+$00A3FEFA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FEFB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FEF8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 2:
++Item Catagory
+$00A3FF00 000000[CC<ItemCatagory]
++Item Type
+$00A3FF01 000000[TT<ItemType>]
++Amount Left
+$00A3FF02 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF03 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF00 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 3:
++Item Catagory
+$00A3FF08 000000[CC<ItemCatagory]
++Item Type
+$00A3FF09 000000[TT<ItemType>]
++Amount Left
+$00A3FF0A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF0B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF08 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 4:
++Item Catagory
+$00A3FF10 000000[CC<ItemCatagory]
++Item Type
+$00A3FF11 000000[TT<ItemType>]
++Amount Left
+$00A3FF12 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF13 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF10 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 5:
++Item Catagory
+$00A3FF18 000000[CC<ItemCatagory]
++Item Type
+$00A3FF19 000000[TT<ItemType>]
++Amount Left
+$00A3FF1A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF1B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF18 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 6:
++Item Catagory
+$00A3FF20 000000[CC<ItemCatagory]
++Item Type
+$00A3FF21 000000[TT<ItemType>]
++Amount Left
+$00A3FF22 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF23 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF20 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 7:
++Item Catagory
+$00A3FF28 000000[CC<ItemCatagory]
++Item Type
+$00A3FF29 000000[TT<ItemType>]
++Amount Left
+$00A3FF2A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF2B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF28 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 8:
++Item Catagory
+$00A3FF30 000000[CC<ItemCatagory]
++Item Type
+$00A3FF31 000000[TT<ItemType>]
++Amount Left
+$00A3FF32 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF33 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF30 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 9:
++Item Catagory
+$00A3FF38 000000[CC<ItemCatagory]
++Item Type
+$00A3FF39 000000[TT<ItemType>]
++Amount Left
+$00A3FF3A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF3B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF38 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 10:
++Item Catagory
+$00A3FF40 000000[CC<ItemCatagory]
++Item Type
+$00A3FF41 000000[TT<ItemType>]
++Amount Left
+$00A3FF42 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF43 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF40 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 11:
++Item Catagory
+$00A3FF48 000000[CC<ItemCatagory]
++Item Type
+$00A3FF49 000000[TT<ItemType>]
++Amount Left
+$00A3FF4A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF4B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF48 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 12:
++Item Catagory
+$00A3FF50 000000[CC<ItemCatagory]
++Item Type
+$00A3FF51 000000[TT<ItemType>]
++Amount Left
+$00A3FF52 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF53 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF50 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 13:
++Item Catagory
+$00A3FF58 000000[CC<ItemCatagory]
++Item Type
+$00A3FF59 000000[TT<ItemType>]
++Amount Left
+$00A3FF5A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF5B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF58 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 14:
++Item Catagory
+$00A3FF60 000000[CC<ItemCatagory]
++Item Type
+$00A3FF61 000000[TT<ItemType>]
++Amount Left
+$00A3FF62 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF63 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF60 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 15:
++Item Catagory
+$00A3FF68 000000[CC<ItemCatagory]
++Item Type
+$00A3FF69 000000[TT<ItemType>]
++Amount Left
+$00A3FF6A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF6B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF68 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 16:
++Item Catagory
+$00A3FF70 000000[CC<ItemCatagory]
++Item Type
+$00A3FF71 000000[TT<ItemType>]
++Amount Left
+$00A3FF72 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF73 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF70 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 17:
++Item Catagory
+$00A3FF78 000000[CC<ItemCatagory]
++Item Type
+$00A3FF79 000000[TT<ItemType>]
++Amount Left
+$00A3FF7A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF7B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF78 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 18:
++Item Catagory
+$00A3FF80 000000[CC<ItemCatagory]
++Item Type
+$00A3FF81 000000[TT<ItemType>]
++Amount Left
+$00A3FF82 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF83 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF80 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 19:
++Item Catagory
+$00A3FF88 000000[CC<ItemCatagory]
++Item Type
+$00A3FF89 000000[TT<ItemType>]
++Amount Left
+$00A3FF8A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF8B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF88 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 20:
++Item Catagory
+$00A3FF90 000000[CC<ItemCatagory]
++Item Type
+$00A3FF91 000000[TT<ItemType>]
++Amount Left
+$00A3FF92 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF93 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF90 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 21:
++Item Catagory
+$00A3FF98 000000[CC<ItemCatagory]
++Item Type
+$00A3FF99 000000[TT<ItemType>]
++Amount Left
+$00A3FF9A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FF9B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FF98 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 22:
++Item Catagory
+$00A3FFA0 000000[CC<ItemCatagory]
++Item Type
+$00A3FFA1 000000[TT<ItemType>]
++Amount Left
+$00A3FFA2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FFA3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FFA0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 23:
++Item Catagory
+$00A3FFA8 000000[CC<ItemCatagory]
++Item Type
+$00A3FFA9 000000[TT<ItemType>]
++Amount Left
+$00A3FFAA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FFAB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FFA8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 24:
++Item Catagory
+$00A3FFB0 000000[CC<ItemCatagory]
++Item Type
+$00A3FFB1 000000[TT<ItemType>]
++Amount Left
+$00A3FFB2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FFB3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FFB0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 25:
++Item Catagory
+$00A3FFB8 000000[CC<ItemCatagory]
++Item Type
+$00A3FFB9 000000[TT<ItemType>]
++Amount Left
+$00A3FFBA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FFBB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FFB8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 26:
++Item Catagory
+$00A3FFC0 000000[CC<ItemCatagory]
++Item Type
+$00A3FFC1 000000[TT<ItemType>]
++Amount Left
+$00A3FFC2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FFC3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FFC0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 27:
++Item Catagory
+$00A3FFC8 000000[CC<ItemCatagory]
++Item Type
+$00A3FFC9 000000[TT<ItemType>]
++Amount Left
+$00A3FFCA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FFCB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FFC8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 28:
++Item Catagory
+$00A3FFD0 000000[CC<ItemCatagory]
++Item Type
+$00A3FFD1 000000[TT<ItemType>]
++Amount Left
+$00A3FFD2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FFD3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FFD0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 29:
++Item Catagory
+$00A3FFD8 000000[CC<ItemCatagory]
++Item Type
+$00A3FFD9 000000[TT<ItemType>]
++Amount Left
+$00A3FFDA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FFDB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FFD8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 30:
++Item Catagory
+$00A3FFE0 000000[CC<ItemCatagory]
++Item Type
+$00A3FFE1 000000[TT<ItemType>]
++Amount Left
+$00A3FFE2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FFE3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FFE0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 31:
++Item Catagory
+$00A3FFE8 000000[CC<ItemCatagory]
++Item Type
+$00A3FFE9 000000[TT<ItemType>]
++Amount Left
+$00A3FFEA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FFEB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FFE8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 32:
++Item Catagory
+$00A3FFF0 000000[CC<ItemCatagory]
++Item Type
+$00A3FFF1 000000[TT<ItemType>]
++Amount Left
+$00A3FFF2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FFF3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FFF0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 33:
++Item Catagory
+$00A3FFF8 000000[CC<ItemCatagory]
++Item Type
+$00A3FFF9 000000[TT<ItemType>]
++Amount Left
+$00A3FFFA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A3FFFB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A3FFF8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 34:
++Item Catagory
+$00A40000 000000[CC<ItemCatagory]
++Item Type
+$00A40001 000000[TT<ItemType>]
++Amount Left
+$00A40002 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40003 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40000 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 35:
++Item Catagory
+$00A40008 000000[CC<ItemCatagory]
++Item Type
+$00A40009 000000[TT<ItemType>]
++Amount Left
+$00A4000A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A4000B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40008 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 36:
++Item Catagory
+$00A40010 000000[CC<ItemCatagory]
++Item Type
+$00A40011 000000[TT<ItemType>]
++Amount Left
+$00A40012 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40013 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40010 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 37:
++Item Catagory
+$00A40018 000000[CC<ItemCatagory]
++Item Type
+$00A40019 000000[TT<ItemType>]
++Amount Left
+$00A4001A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A4001B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40018 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 38:
++Item Catagory
+$00A40020 000000[CC<ItemCatagory]
++Item Type
+$00A40021 000000[TT<ItemType>]
++Amount Left
+$00A40022 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40023 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40020 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 39:
++Item Catagory
+$00A40028 000000[CC<ItemCatagory]
++Item Type
+$00A40029 000000[TT<ItemType>]
++Amount Left
+$00A4002A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A4002B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40028 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 40:
++Item Catagory
+$00A40030 000000[CC<ItemCatagory]
++Item Type
+$00A40031 000000[TT<ItemType>]
++Amount Left
+$00A40032 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40033 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40030 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 41:
++Item Catagory
+$00A40038 000000[CC<ItemCatagory]
++Item Type
+$00A40039 000000[TT<ItemType>]
++Amount Left
+$00A4003A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A4003B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40038 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 42:
++Item Catagory
+$00A40040 000000[CC<ItemCatagory]
++Item Type
+$00A40041 000000[TT<ItemType>]
++Amount Left
+$00A40042 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40043 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40040 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 43:
++Item Catagory
+$00A40048 000000[CC<ItemCatagory]
++Item Type
+$00A40049 000000[TT<ItemType>]
++Amount Left
+$00A4004A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A4004B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40048 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 44:
++Item Catagory
+$00A40050 000000[CC<ItemCatagory]
++Item Type
+$00A40051 000000[TT<ItemType>]
++Amount Left
+$00A40052 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40053 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40050 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 45:
++Item Catagory
+$00A40058 000000[CC<ItemCatagory]
++Item Type
+$00A40059 000000[TT<ItemType>]
++Amount Left
+$00A4005A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A4005B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40058 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 46:
++Item Catagory
+$00A40060 000000[CC<ItemCatagory]
++Item Type
+$00A40061 000000[TT<ItemType>]
++Amount Left
+$00A40062 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40063 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40060 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 47:
++Item Catagory
+$00A40068 000000[CC<ItemCatagory]
++Item Type
+$00A40069 000000[TT<ItemType>]
++Amount Left
+$00A4006A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A4006B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40068 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 48:
++Item Catagory
+$00A40070 000000[CC<ItemCatagory]
++Item Type
+$00A40071 000000[TT<ItemType>]
++Amount Left
+$00A40072 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40073 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40070 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 49:
++Item Catagory
+$00A40078 000000[CC<ItemCatagory]
++Item Type
+$00A40079 000000[TT<ItemType>]
++Amount Left
+$00A4007A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A4007B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40078 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 50:
++Item Catagory
+$00A40080 000000[CC<ItemCatagory]
++Item Type
+$00A40081 000000[TT<ItemType>]
++Amount Left
+$00A40082 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40083 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40080 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 51:
++Item Catagory
+$00A40088 000000[CC<ItemCatagory]
++Item Type
+$00A40089 000000[TT<ItemType>]
++Amount Left
+$00A4008A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A4008B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40088 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 52:
++Item Catagory
+$00A40090 000000[CC<ItemCatagory]
++Item Type
+$00A40091 000000[TT<ItemType>]
++Amount Left
+$00A40092 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40093 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40090 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 53:
++Item Catagory
+$00A40098 000000[CC<ItemCatagory]
++Item Type
+$00A40099 000000[TT<ItemType>]
++Amount Left
+$00A4009A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A4009B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40098 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 54:
++Item Catagory
+$00A400A0 000000[CC<ItemCatagory]
++Item Type
+$00A400A1 000000[TT<ItemType>]
++Amount Left
+$00A400A2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A400A3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A400A0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 55:
++Item Catagory
+$00A400A8 000000[CC<ItemCatagory]
++Item Type
+$00A400A9 000000[TT<ItemType>]
++Amount Left
+$00A400AA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A400AB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A400A8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 56:
++Item Catagory
+$00A400B0 000000[CC<ItemCatagory]
++Item Type
+$00A400B1 000000[TT<ItemType>]
++Amount Left
+$00A400B2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A400B3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A400B0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 57:
++Item Catagory
+$00A400B8 000000[CC<ItemCatagory]
++Item Type
+$00A400B9 000000[TT<ItemType>]
++Amount Left
+$00A400BA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A400BB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A400B8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 58:
++Item Catagory
+$00A400C0 000000[CC<ItemCatagory]
++Item Type
+$00A400C1 000000[TT<ItemType>]
++Amount Left
+$00A400C2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A400C3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A400C0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 59:
++Item Catagory
+$00A400C8 000000[CC<ItemCatagory]
++Item Type
+$00A400C9 000000[TT<ItemType>]
++Amount Left
+$00A400CA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A400CB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A400C8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 60:
++Item Catagory
+$00A400D0 000000[CC<ItemCatagory]
++Item Type
+$00A400D1 000000[TT<ItemType>]
++Amount Left
+$00A400D2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A400D3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A400D0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 61:
++Item Catagory
+$00A400D8 000000[CC<ItemCatagory]
++Item Type
+$00A400D9 000000[TT<ItemType>]
++Amount Left
+$00A400DA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A400DB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A400D8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 62:
++Item Catagory
+$00A400E0 000000[CC<ItemCatagory]
++Item Type
+$00A400E1 000000[TT<ItemType>]
++Amount Left
+$00A400E2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A400E3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A400E0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 63:
++Item Catagory
+$00A400E8 000000[CC<ItemCatagory]
++Item Type
+$00A400E9 000000[TT<ItemType>]
++Amount Left
+$00A400EA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A400EB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A400E8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!!
+!Important Items:
++Item Slot Activator{Set How Many Slots You Want - Tested Up To 30}
+20a40a9c 000000[Amount:1E:HEX:BIG]
+!Slot 1:
++Item Catagory
+$00A40AA0 000000[CC<ItemCatagory]
++Item Type
+$00A40AA1 000000[TT<ItemType>]
++Amount Left
+$00A40AA2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40AA3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40AA0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 2:
++Item Catagory
+$00A40AA8 000000[CC<ItemCatagory]
++Item Type
+$00A40AA9 000000[TT<ItemType>]
++Amount Left
+$00A40AAA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40AAB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40AA8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 3:
++Item Catagory
+$00A40AB0 000000[CC<ItemCatagory]
++Item Type
+$00A40AB1 000000[TT<ItemType>]
++Amount Left
+$00A40AB2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40AB3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40AB0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 4:
++Item Catagory
+$00A40AB8 000000[CC<ItemCatagory]
++Item Type
+$00A40AB9 000000[TT<ItemType>]
++Amount Left
+$00A40ABA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40ABB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40AB8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 5:
++Item Catagory
+$00A40AC0 000000[CC<ItemCatagory]
++Item Type
+$00A40AC1 000000[TT<ItemType>]
++Amount Left
+$00A40AC2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40AC3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40AC0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 6:
++Item Catagory
+$00A40AC8 000000[CC<ItemCatagory]
++Item Type
+$00A40AC9 000000[TT<ItemType>]
++Amount Left
+$00A40ACA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40ACB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40AC8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 7:
++Item Catagory
+$00A40AD0 000000[CC<ItemCatagory]
++Item Type
+$00A40AD1 000000[TT<ItemType>]
++Amount Left
+$00A40AD2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40AD3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40AD0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 8:
++Item Catagory
+$00A40AD8 000000[CC<ItemCatagory]
++Item Type
+$00A40AD9 000000[TT<ItemType>]
++Amount Left
+$00A40ADA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40ADB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40AD8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 9:
++Item Catagory
+$00A40AE0 000000[CC<ItemCatagory]
++Item Type
+$00A40AE1 000000[TT<ItemType>]
++Amount Left
+$00A40AE2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40AE3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40AE0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 10:
++Item Catagory
+$00A40AE8 000000[CC<ItemCatagory]
++Item Type
+$00A40AE9 000000[TT<ItemType>]
++Amount Left
+$00A40AEA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40AEB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40AE8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 11:
++Item Catagory
+$00A40AF0 000000[CC<ItemCatagory]
++Item Type
+$00A40AF1 000000[TT<ItemType>]
++Amount Left
+$00A40AF2 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40AF3 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40AF0 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 12:
++Item Catagory
+$00A40AF8 000000[CC<ItemCatagory]
++Item Type
+$00A40AF9 000000[TT<ItemType>]
++Amount Left
+$00A40AFA 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40AFB 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40AF8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 13:
++Item Catagory
+$00A40B00 000000[CC<ItemCatagory]
++Item Type
+$00A40B01 000000[TT<ItemType>]
++Amount Left
+$00A40B02 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B03 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B00 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 14:
++Item Catagory
+$00A40B08 000000[CC<ItemCatagory]
++Item Type
+$00A40B09 000000[TT<ItemType>]
++Amount Left
+$00A40B0A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B0B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B08 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 15:
++Item Catagory
+$00A40B10 000000[CC<ItemCatagory]
++Item Type
+$00A40B11 000000[TT<ItemType>]
++Amount Left
+$00A40B12 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B13 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B10 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 16:
++Item Catagory
+$00A40B18 000000[CC<ItemCatagory]
++Item Type
+$00A40B19 000000[TT<ItemType>]
++Amount Left
+$00A40B1A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B1B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B18 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 17:
++Item Catagory
+$00A40B20 000000[CC<ItemCatagory]
++Item Type
+$00A40B21 000000[TT<ItemType>]
++Amount Left
+$00A40B22 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B23 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B20 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 18:
++Item Catagory
+$00A40B28 000000[CC<ItemCatagory]
++Item Type
+$00A40B29 000000[TT<ItemType>]
++Amount Left
+$00A40B2A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B2B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B28 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 19:
++Item Catagory
+$00A40B30 000000[CC<ItemCatagory]
++Item Type
+$00A40B31 000000[TT<ItemType>]
++Amount Left
+$00A40B32 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B33 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B30 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 20:
++Item Catagory
+$00A40B38 000000[CC<ItemCatagory]
++Item Type
+$00A40B39 000000[TT<ItemType>]
++Amount Left
+$00A40B3A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B3B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B38 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 21:
++Item Catagory
+$00A40B40 000000[CC<ItemCatagory]
++Item Type
+$00A40B41 000000[TT<ItemType>]
++Amount Left
+$00A40B42 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B43 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B40 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 22:
++Item Catagory
+$00A40B48 000000[CC<ItemCatagory]
++Item Type
+$00A40B49 000000[TT<ItemType>]
++Amount Left
+$00A40B4A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B4B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B48 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 23:
++Item Catagory
+$00A40B50 000000[CC<ItemCatagory]
++Item Type
+$00A40B51 000000[TT<ItemType>]
++Amount Left
+$00A40B52 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B53 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B50 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 24:
++Item Catagory
+$00A40B58 000000[CC<ItemCatagory]
++Item Type
+$00A40B59 000000[TT<ItemType>]
++Amount Left
+$00A40B5A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B5B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B58 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 25:
++Item Catagory
+$00A40B60 000000[CC<ItemCatagory]
++Item Type
+$00A40B61 000000[TT<ItemType>]
++Amount Left
+$00A40B62 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B63 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B60 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 26:
++Item Catagory
+$00A40B68 000000[CC<ItemCatagory]
++Item Type
+$00A40B69 000000[TT<ItemType>]
++Amount Left
+$00A40B6A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B6B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B68 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 27:
++Item Catagory
+$00A40B70 000000[CC<ItemCatagory]
++Item Type
+$00A40B71 000000[TT<ItemType>]
++Amount Left
+$00A40B72 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B73 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B70 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 28:
++Item Catagory
+$00A40B78 000000[CC<ItemCatagory]
++Item Type
+$00A40B79 000000[TT<ItemType>]
++Amount Left
+$00A40B7A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B7B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B78 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 29:
++Item Catagory
+$00A40B80 000000[CC<ItemCatagory]
++Item Type
+$00A40B81 000000[TT<ItemType>]
++Amount Left
+$00A40B82 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B83 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B80 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!Slot 30:
++Item Catagory
+$00A40B88 000000[CC<ItemCatagory]
++Item Type
+$00A40B89 000000[TT<ItemType>]
++Amount Left
+$00A40B8A 000000[Amount:63:HEX:BIG<Amount Left>]
++Max Amount
+$00A40B8B 000000[Amount:63:HEX:BIG<Max Amount>]
++All In One
+$20A40B88 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]
+!!
+!!
+!!
+!Player Name Change:{<div Class="note"><h4>note — Name/Ascii Entry (l0–lf)</H4><ul Class="bullet-List"><li>each <strong>lx</Strong> Position (<code>l0</Code>…<code>lf</Code>) Holds One <strong>ascii</Strong> Character Code (hex).</Li><li>enter Codes In Order Starting At <strong>l0</Strong> To Spell The Name; Within Each 32-Bit Write The Bytes Display Reversed (little-Endian), So That Line’s Visible Chunk Looks Backward.</Li><li>set Any Unused Positions To <code>00</Code>.</Li></Ul><p><strong>example — Set All Names To <code>dummy</Code>:</Strong> <code>d=44</Code>, <code>u=55</Code>, <code>m=4d</Code>, <code>y=59</Code></P><p><code>hero Name:</Code> <code>20a31c18 4d4d5544 (mmud)</Code> | <code>20a31c1c 00000059 (y)</Code> | <code>20a31c20 00000000</Code> | <code>20a31c24 00000000</Code><br><code>army Name:</Code> <code>00a31c29 00000044 (d)</Code> | <code>10a31c2a 00004d55 (mu)</Code> | <code>20a31c2c 0000594d (ym)</Code> | <code>20a31c30 00000000</Code> | <code>20a31c34 00000000</Code> | <code>00a31c38 00000000</Code><br><code>castle Name:</Code> <code>10a31c3a 00005544 (ud)</Code> | <code>20a31c3c 00594d4d (ymm)</Code> | <code>20a31c40 00000000</Code> | <code>20a31c44 00000000</Code> | <code>10a31c48 00000000</Code></P></Div>}
++Hero Name Modifier
+$20A31C18 [Amount:1234:ASCII:LITTLE<Letter 1-4>]
+$20A31C1C [Amount:1234:ASCII:LITTLE<Letter 5-8>]
+$20A31C20 [Amount:1234:ASCII:LITTLE<Letter 9-12>]
+$20A31C24 [Amount:1234:ASCII:LITTLE<Letter 12-16>]
++Army Name Modifier
+$00A31C29 000000[Amount:1:ASCII:LITTLE<Letter 1>]
+$10A31C2A 0000[Amount:23:ASCII:LITTLE<Letter 2-3>]
+$20A31C2C [Amount:1234:ASCII:LITTLE<Letter 4-7>]
+$20A31C30 [Amount:1234:ASCII:LITTLE<Letter 8-11>]
+$20A31C34 [Amount:1234:ASCII:LITTLE<Letter 12-15>]
+$00A31C38 000000[Amount:1:ASCII:LITTLE<Letter 16>]
++Castle Name Modifier
+$10A31C3A 0000[Amount:23:ASCII:LITTLE<Letter 1-2>]
+$20A31C3C [Amount:1234:ASCII:LITTLE<Letter 3-6>]
+$20A31C40 [Amount:1234:ASCII:LITTLE<Letter 7-10>]
+$20A31C44 [Amount:1234:ASCII:LITTLE<Letter 11-14>]
+$10A31C48 0000[Amount:23:ASCII:LITTLE<Letter 15-16>]
+!!
+!Character Recruit:
++Recruit Raja
+%Credits: Pyriel
+$10A0E6A0 00000302
++Recruit Lucretia
+%Credits: Pyriel
+$10A0E800 00000302
++Recruit Zerase
+%Credits: Pyriel
+$10A0E960 00000302
++Recruit Craig
+%Credits: Pyriel
+$10A0EAC0 00000302
++Recruit Galleon
+%Credits: Pyriel
+$10A0EC20 00000302
++Recruit Boz
+%Credits: Pyriel
+$10A0ED80 00000302
++Recruit Nakula
+%Credits: Pyriel
+$10A0EEE0 00000302
++Recruit Lyon
+%Credits: Pyriel
+$10A0F040 00000302
++Recruit Talgeyl
+%Credits: Pyriel
+$10A0F1A0 00000302
++Recruit Eresh
+%Credits: Pyriel
+$10A0F300 00000302
++Recruit Dinn
+%Credits: Pyriel
+$10A0F460 00000302
++Recruit Kyle
+%Credits: Pyriel
+$10A0F5C0 00000302
++Recruit Zegai
+%Credits: Pyriel
+$10A0F720 00000302
++Recruit Isato
+%Credits: Pyriel
+$10A0F880 00000302
++Recruit Haswar
+%Credits: Pyriel
+$10A0F9E0 00000302
++Recruit Belcoot
+%Credits: Pyriel
+$10A0FB40 00000302
++Recruit Norma
+%Credits: Pyriel
+$10A0FCA0 00000302
++Recruit Ax
+%Credits: Pyriel
+$10A0FE00 00000302
++Recruit Cathari
+%Credits: Pyriel
+$10A0FF60 00000302
++Recruit Georg
+%Credits: Pyriel
+$10A100C0 00000302
++Recruit Ernst
+%Credits: Pyriel
+$10A10220 00000302
++Recruit Killey
+%Credits: Pyriel
+$10A10380 00000302
++Recruit Shula
+%Credits: Pyriel
+$10A104E0 00000302
++Recruit Shoon
+%Credits: Pyriel
+$10A10640 00000302
++Recruit Bernadette
+%Credits: Pyriel
+$10A107A0 00000302
++Recruit Volga
+%Credits: Pyriel
+$10A10900 00000302
++Recruit Lance
+%Credits: Pyriel
+$10A10A60 00000302
++Recruit Wasil
+%Credits: Pyriel
+$10A10BC0 00000302
++Recruit Flail
+%Credits: Pyriel
+$10A10D20 00000302
++Recruit Orok
+%Credits: Pyriel
+$10A10E80 00000302
++Recruit Yoran
+%Credits: Pyriel
+$10A10FE0 00000302
++Recruit Nick
+%Credits: Pyriel
+$10A11140 00000302
++Recruit Wilhelm
+%Credits: Pyriel
+$10A112A0 00000302
++Recruit Mueller
+%Credits: Pyriel
+$10A11400 00000302
++Recruit Toma
+%Credits: Pyriel
+$10A11560 00000302
++Recruit Cius
+%Credits: Pyriel
+$10A116C0 00000302
++Recruit Raven
+%Credits: Pyriel
+$10A11820 00000302
++Recruit Shinro
+%Credits: Pyriel
+$10A11980 00000302
++Recruit Jeane
+%Credits: Pyriel
+$10A11AE0 00000302
++Recruit Norden
+%Credits: Pyriel
+$10A11C40 00000302
++Recruit Isabel
+%Credits: Pyriel
+$10A11DA0 00000302
++Recruit Mathias
+%Credits: Pyriel
+$10A11F00 00000302
++Recruit Rahalm
+%Credits: Pyriel
+$10A12060 00000302
++Recruit Roog
+%Credits: Pyriel
+$10A121C0 00000302
++Recruit Gunde
+%Credits: Pyriel
+$10A12320 00000302
++Recruit Bastan
+%Credits: Pyriel
+$10A12480 00000302
++Recruit Lorelai
+%Credits: Pyriel
+$10A125E0 00000302
++Recruit Goesch
+%Credits: Pyriel
+$10A12740 00000302
++Recruit Fuwalafuwalu
+%Credits: Pyriel
+$10A128A0 00000302
++Recruit Richard
+%Credits: Pyriel
+$10A12A00 00000302
++Recruit Wabon
+%Credits: Pyriel
+$10A12B60 00000302
++Recruit Luserina
+%Credits: Pyriel
+$10A12CC0 00000302
++Recruit Rania
+%Credits: Pyriel
+$10A12E20 00000302
++Recruit Mohsen
+%Credits: Pyriel
+$10A12F80 00000302
++Recruit Silva
+%Credits: Pyriel
+$10A130E0 00000302
++Recruit Murad
+%Credits: Pyriel
+$10A13240 00000302
++Recruit Gavaya
+%Credits: Pyriel
+$10A133A0 00000302
++Recruit Hazuki
+%Credits: Pyriel
+$10A13500 00000302
++Recruit Moroon
+%Credits: Pyriel
+$10A13660 00000302
++Recruit Levi
+%Credits: Pyriel
+$10A137C0 00000302
++Recruit Shigure
+%Credits: Pyriel
+$10A13920 00000302
++Recruit Sagiri
+%Credits: Pyriel
+$10A13A80 00000302
++Recruit Marina
+%Credits: Pyriel
+$10A13BE0 00000302
++Recruit Babbage
+%Credits: Pyriel
+$10A13D40 00000302
++Recruit Haleth
+%Credits: Pyriel
+$10A13EA0 00000302
++Recruit Nifsara
+%Credits: Pyriel
+$10A14000 00000302
++Recruit Yahr
+%Credits: Pyriel
+$10A14160 00000302
++Recruit Nelis
+%Credits: Pyriel
+$10A142C0 00000302
++Recruit Muroon
+%Credits: Pyriel
+$10A14420 00000302
++Recruit Alhazred
+%Credits: Pyriel
+$10A14580 00000302
++Recruit Bergen
+%Credits: Pyriel
+$10A146E0 00000302
++Recruit Miakis
+%Credits: Pyriel
+$10A14840 00000302
++Recruit Sharmista
+%Credits: Pyriel
+$10A149A0 00000302
++Recruit Zundam
+%Credits: Pyriel
+$10A14B00 00000302
++Recruit Sorensen
+%Credits: Pyriel
+$10A14C60 00000302
++Recruit Cornelio
+%Credits: Pyriel
+$10A14DC0 00000302
++Recruit Viki
+%Credits: Pyriel
+$10A14F20 00000302
++Recruit Zweig
+%Credits: Pyriel
+$10A15080 00000302
++Recruit Josephine
+%Credits: Pyriel
+$10A151E0 00000302
++Recruit Lu
+%Credits: Pyriel
+$10A15340 00000302
++Recruit Maroon
+%Credits: Pyriel
+$10A154A0 00000302
++Recruit Taylor
+%Credits: Pyriel
+$10A15600 00000302
++Recruit Oboro
+%Credits: Pyriel
+$10A15760 00000302
++Recruit Lelei
+%Credits: Pyriel
+$10A158C0 00000302
++Recruit Genoh
+%Credits: Pyriel
+$10A15A20 00000302
++Recruit Meroon
+%Credits: Pyriel
+$10A15B80 00000302
++Recruit Dongo
+%Credits: Pyriel
+$10A15CE0 00000302
++Recruit Fuyo
+%Credits: Pyriel
+$10A15E40 00000302
++Recruit Logg
+%Credits: Pyriel
+$10A15FA0 00000302
++Recruit Lun
+%Credits: Pyriel
+$10A16100 00000302
++Recruit Shun Min
+%Credits: Pyriel
+$10A16260 00000302
++Recruit Retso
+%Credits: Pyriel
+$10A163C0 00000302
++Recruit Egbert
+%Credits: Pyriel
+$10A16520 00000302
++Recruit Chuck
+%Credits: Pyriel
+$10A16680 00000302
++Recruit Byakuren
+%Credits: Pyriel
+$10A167E0 00000302
++Recruit Kisara
+%Credits: Pyriel
+$10A16940 00000302
++Recruit Nikea
+%Credits: Pyriel
+$10A16AA0 00000302
++Recruit Linfa
+%Credits: Pyriel
+$10A16C00 00000302
++Recruit Faylon
+%Credits: Pyriel
+$10A16D60 00000302
++Recruit Faylen
+%Credits: Pyriel
+$10A16EC0 00000302
++Recruit Subala
+%Credits: Pyriel
+$10A17020 00000302
++Recruit Urda
+%Credits: Pyriel
+$10A17180 00000302
++Recruit Miroon
+%Credits: Pyriel
+$10A172E0 00000302
++Recruit Chisato
+%Credits: Pyriel
+$10A17440 00000302
++Recruit Takamu
+%Credits: Pyriel
+$10A175A0 00000302
++Recruit Roy
+%Credits: Pyriel
+$10A17700 00000302
++Recruit Sairoh
+%Credits: Pyriel
+$10A17860 00000302
++Recruit Euramm
+%Credits: Pyriel
+$10A179C0 00000302
++Recruit Sialeeds
+%Credits: Pyriel
+$10A17F40 00000302
++Recruit Remifa
+%Credits: Pyriel
+$10A196A0 00000302
++Recruit Mifaso
+%Credits: Pyriel
+$10A19800 00000302
++Recruit Fasola
+%Credits: Pyriel
+$10A19960 00000302
++Recruit Solati
+%Credits: Pyriel
+$10A19AC0 00000302
++Recruit Latido
+%Credits: Pyriel
+$10A19C20 00000302
+!!
+^6 = MODS:
+[CC]
+VALUE>NAME
+01	Head
+02	Body
+03	Arms
+04	Feet
+05	Accessories
+06	Orbs
+07	Collectable items
+08	**Special/Key items
+09	Healing / support 
+0A	Scrolls
+0B	Party Items
+0C	Stat boosting items (Stones)
+0D	Star items (HQ Items) 
+0E	Ingredients
+0F	Tradable items  (Not Yet Done)
+10	Old Books
+11	Unappraised items
+12	Ducky items (to be equipped by Hero in tub)
+[/CC]
+[TT]
+VALUE>NAME>INFO>TYPE
+01	Bandana		HEAD DIGITS
+02	Straw Hat		HEAD DIGITS
+03	Raf Turban		HEAD DIGITS
+04	Pointy Hat		HEAD DIGITS
+05	Leather Hat		HEAD DIGITS
+06	Feather Ornament		HEAD DIGITS
+07	Silver Hat		HEAD DIGITS
+08	Feather Hat		HEAD DIGITS
+09	Circlet		HEAD DIGITS
+0A	Wizard Hat		HEAD DIGITS
+0B	Prosperity Hat		HEAD DIGITS
+0C	Crown Of Destiny		HEAD DIGITS
+0D	Chief’s Beret		HEAD DIGITS
+0E	Mind Hat		HEAD DIGITS
+0F	Gary Hat		HEAD DIGITS
+10	Forehead Guard		HEAD DIGITS
+11	Knight Head Piece		HEAD DIGITS
+12	Leather Helmet		HEAD DIGITS
+13	Skull Cap		HEAD DIGITS
+14	Mina Moto Helmet		HEAD DIGITS
+15	Guardian Casque		HEAD DIGITS
+16	Pale Moon Casque		HEAD DIGITS
+17	Dragon Scale Helm		HEAD DIGITS
+18	Flame Halmet		HEAD DIGITS
+19	Sun Helmet		HEAD DIGITS
+1A	Full Helmet		HEAD DIGITS
+1B	Fish Head		HEAD DIGITS
+1C	Iron Helm		HEAD DIGITS
+1D	Spiked Helm		HEAD DIGITS
+1E	Thunder Helm		HEAD DIGITS
+1F	Horn Helm		HEAD DIGITS
+20	Windspun Helm		HEAD DIGITS
+01	Robe		BODY DIGITS
+02	Dress		BODY DIGITS
+03	Slit Dress		BODY DIGITS
+04	Silk Cape		BODY DIGITS
+05	Guard Robe		BODY DIGITS
+06	Lunas Coat		BODY DIGITS
+07	Silver Robe		BODY DIGITS
+08	Guard Coat		BODY DIGITS
+09	Magic Robe		BODY DIGITS
+0A	Robe Of Destiny		BODY DIGITS
+0B	Master’s Robe		BODY DIGITS
+0C	Star Robe		BODY DIGITS
+0D	Fog Robe		BODY DIGITS
+0E	Silver White Robe		BODY DIGITS
+0F	Gray Coat		BODY DIGITS
+10	Fantasy Half Coat		BODY DIGITS
+11	Slave Garb		BODY DIGITS
+12	Clothes		BODY DIGITS
+13	Poncho		BODY DIGITS
+14	Beaver Happi Coat		BODY DIGITS
+15	Refined Clothes		BODY DIGITS
+16	Fur Clothes		BODY DIGITS
+17	Martial Arts Garb		BODY DIGITS
+18	Blue Jacket		BODY DIGITS
+19	Military Uniform		BODY DIGITS
+1A	Ninja Garb		BODY DIGITS
+1B	Black Warrior Garb		BODY DIGITS
+1C	Prosperity Yunic		BODY DIGITS
+1D	Thunder God’s Garb		BODY DIGITS
+1E	Tai Chi Garb		BODY DIGITS
+1F	Master’s Garb		BODY DIGITS
+20	Royal Garb		BODY DIGITS
+21	Leather Armor		BODY DIGITS
+22	Rugged Leather		BODY DIGITS
+23	Knight Casual Gear		BODY DIGITS
+24	Knight Full Armor		BODY DIGITS
+25	Beaver Leather		BODY DIGITS
+26	Zadom Leather		BODY DIGITS
+27	Dragon Horse Armor		BODY DIGITS
+28	Thunder Leather		BODY DIGITS
+29	Pale Moon Leather		BODY DIGITS
+2A	Flowing Leather		BODY DIGITS
+2B	Spun Silver Armor		BODY DIGITS
+2C	Fire Dragon Armor		BODY DIGITS
+2D	Water Dragon Armor		BODY DIGITS
+2E	Sun Armor		BODY DIGITS
+2F	Chain Mail		BODY DIGITS
+30	Ring Mail		BODY DIGITS
+31	Scale Mail		BODY DIGITS
+32	Lancer Armor		BODY DIGITS
+33	Byakko Chain Mail		BODY DIGITS
+34	Earth Chain Mail		BODY DIGITS
+35	Taira Armor		BODY DIGITS
+36	Silver Chain		BODY DIGITS
+37	Guardian Chain		BODY DIGITS
+38	Wind Fangs Chain		BODY DIGITS
+39	Flame Array Chain		BODY DIGITS
+3A	Blood Scale Mail		BODY DIGITS
+3B	Half Plate		BODY DIGITS
+3C	Fish Body		BODY DIGITS
+3D	Plate Armor		BODY DIGITS
+3E	Night Armor		BODY DIGITS
+3F	Flame Armor		BODY DIGITS
+40	Spiked Armor		BODY DIGITS
+41	Full Plate		BODY DIGITS
+42	Thun God’s Armor		BODY DIGITS
+43	Scrchd Earth Armor		BODY DIGITS
+44	Windspun Armor		BODY DIGITS
+45	Armes Armor		BODY DIGITS
+46	Corruption Shell		BODY DIGITS
+47	Saints Cloak		BODY DIGITS
+01	Bandage		ARMS DIGITS
+02	Bracelet		ARMS DIGITS
+03	Wrist Bands 		ARMS DIGITS
+04	Leather Wrist Bands		ARMS DIGITS
+05	Prosperity Arm Band 		ARMS DIGITS
+06	Bone Bracelet 		ARMS DIGITS
+07	Gold Bracelet 		ARMS DIGITS
+08	Armband Of Destiny 		ARMS DIGITS
+09	Magic Bracelet		ARMS DIGITS
+0A	Karaya Armband		ARMS DIGITS
+0B	Wooden Bangle		ARMS DIGITS
+0C	Glass Bangle		ARMS DIGITS
+0D	Silver Bangle		ARMS DIGITS
+0E	Silver White Bangle		ARMS DIGITS
+0F	Gloves		ARMS DIGITS
+10	Leather Gloves		ARMS DIGITS
+11	Knight Gloves		ARMS DIGITS
+12	Dragonhorse Gloves		ARMS DIGITS
+13	Power Gloves		ARMS DIGITS
+14	Silk Gloves		ARMS DIGITS
+15	Pale Moon Gloves		ARMS DIGITS
+16	Guardian Gloves		ARMS DIGITS
+17	Chain Mail Gloves		ARMS DIGITS
+18	Sun Gloves		ARMS DIGITS
+19	Bracer		ARMS DIGITS
+1A	Gunner’s Bracelet		ARMS DIGITS
+1B	Silver Bracer		ARMS DIGITS
+1C	Silver White Bracer		ARMS DIGITS
+1D	Iron Gloves		ARMS DIGITS
+1E	Fish Fins		ARMS DIGITS
+1F	Gauntlets		ARMS DIGITS
+20	Flame Gauntlets		ARMS DIGITS
+21	Sprite Gauntlets		ARMS DIGITS
+22	Engraved Gauntlets		ARMS DIGITS
+23	Iron Fists		ARMS DIGITS
+24	Fujiwara Gauntlets		ARMS DIGITS
+25	Windspun Gauntlets		ARMS DIGITS
+01	Mules		FEET DIGITS
+02	Anklet		FEET DIGITS
+03	Pointy Mules		FEET DIGITS
+04	Glass Slippers		FEET DIGITS
+05	Anklet Of Destiny		FEET DIGITS
+06	Bone Heels		FEET DIGITS
+07	Gold Mules		FEET DIGITS
+08	Silver White Mules		FEET DIGITS
+09	Wooden Shoes		FEET DIGITS
+0A	Kimono Sovks		FEET DIGITS
+0B	Sandals		FEET DIGITS
+0C	Prosperity Sandals		FEET DIGITS
+0D	Boots		FEET DIGITS
+0E	Knight Boots		FEET DIGITS
+0F	Dragon Horse Boots		FEET DIGITS
+10	Long Boots		FEET DIGITS
+11	Guardian Boots		FEET DIGITS
+12	Magical Boots		FEET DIGITS
+13	Pale Moon Boots		FEET DIGITS
+14	Silver Boots		FEET DIGITS
+15	Cyclone Boots		FEET DIGITS
+16	Sun Boots		FEET DIGITS
+17	Iron Boots		FEET DIGITS
+18	Fish Tail Fin		FEET DIGITS
+19	Leg Guards		FEET DIGITS
+1A	Greaves		FEET DIGITS
+1B	Earth Greaves		FEET DIGITS
+1C	Engraved Greaves		FEET DIGITS
+1D	Tachibana Greaves		FEET DIGITS
+1E	Windspun Greaves		FEET DIGITS
+01	Cape		Accessories DIGITS
+02	Leather Cape		Accessories DIGITS
+03	Cape Of Destiny		Accessories DIGITS
+04	Windspun Cape		Accessories DIGITS
+05	Sun Badge		Accessories DIGITS
+06	Dawn Badge		Accessories DIGITS
+07	Twilight Badge		Accessories DIGITS
+08	Fish Badge		Accessories DIGITS
+09	Uise Badge		Accessories DIGITS
+0A	Blue Ribbon		Accessories DIGITS
+0B	Red Ribbon		Accessories DIGITS
+0C	Rose Brooch		Accessories DIGITS
+0D	White Rose Brooch		Accessories DIGITS
+0E	Silver Emblem		Accessories DIGITS
+0F	Gold Emblem		Accessories DIGITS
+10	Silverwhite Emblem		Accessories DIGITS
+11	Scarf		Accessories DIGITS
+12	Yellow Scarf		Accessories DIGITS
+13	Guardian Scarf		Accessories DIGITS
+14	Jewel Necklace		Accessories DIGITS
+15	Dragonhorse Choker		Accessories DIGITS
+16	Pale Moon Necklace		Accessories DIGITS
+17	Strength Sash		Accessories DIGITS
+18	Power Belt		Accessories DIGITS
+19	Flame Amulet		Accessories DIGITS
+1A	Lightning Amulet		Accessories DIGITS
+1B	Wind Amulet		Accessories DIGITS
+1C	Earth Amulet		Accessories DIGITS
+1D	Water Amulet		Accessories DIGITS
+1E	Dark Amulet		Accessories DIGITS
+1F	Holy Amulet		Accessories DIGITS
+20	Stamina Ring		Accessories DIGITS
+21	Defence Ring 		Accessories DIGITS
+22	Guard Ring		Accessories DIGITS
+23	Technique Ring		Accessories DIGITS
+24	Speed Ring		Accessories DIGITS
+25	Magic Ring		Accessories DIGITS
+26	Mystic Ring		Accessories DIGITS
+27	Luck Ring		Accessories DIGITS
+28	Flame Ring		Accessories DIGITS
+29	Lightning Ring		Accessories DIGITS
+2A	Wind Ring		Accessories DIGITS
+2B	Water Ring		Accessories DIGITS
+2C	Earth Ring		Accessories DIGITS
+2D	Defence Ring		Accessories DIGITS
+2E	Eyeball Ring		Accessories DIGITS
+2F	Prosperity Ring		Accessories DIGITS
+30	Windspun Ring		Accessories DIGITS
+31	Sun Ring		Accessories DIGITS
+01	Fire Orb		ORBS
+02	Rage Orb		ORBS
+03	Lightning Orb		ORBS
+04	Thunder Orb		ORBS
+05	Water Orb		ORBS
+06	Flowing Orb		ORBS
+07	Wind Orb		ORBS
+08	Cyclone Orb		ORBS
+09	Earth Orb		ORBS
+0A	Mother Earth Orb		ORBS
+0B	Shield Orb		ORBS
+0C	Pale Gate Orb		ORBS
+0D	Resurrection Orb		ORBS
+0E	Nothing !! E		ORBS
+0F	Rage Sword Orb		ORBS
+10	Thunder Sword Orb		ORBS
+11	Flowing Sword Orb		ORBS
+12	Cyclone Sword Orb		ORBS
+13	Blank		ORBS
+14	Condemnation Orb		ORBS
+15	Howling Orb		ORBS
+16	Viper Orb		ORBS
+17	Titan Orb		ORBS
+18	Unicorn Orb		ORBS
+19	Minotaur Orb		ORBS
+1A	Lion Orb		ORBS
+1B	Kite Orb		ORBS
+1C	Great Hawk Orb		ORBS
+1D	Pixie Orb		ORBS
+1E	Ogre Orb		ORBS
+1F	Nothing !! E		ORBS
+20	Strike Back Orb		ORBS
+21	Double Edged Orb 		ORBS
+22	Multi Strike Orb		ORBS
+23	Killer Orb		ORBS
+24	Gale Orb		ORBS
+25	Counter Orb		ORBS
+26	Power Orb		ORBS
+27	Magical Orb		ORBS
+28	Fire Lizard Orb		ORBS
+29	Ice Dragon Orb		ORBS
+2A	Ice Dragon Orb		ORBS
+2B	Water Dragon Orb		ORBS
+2C	Wall Orb		ORBS
+2D	Waking Orb		ORBS
+2E	Turtle Orb		ORBS
+2F	Firefly Orb		ORBS
+30	Skunk Orb		ORBS
+31	Alert Orb		ORBS
+32	Sunbeam Orb		ORBS
+33	Drain Orb		ORBS
+34	Equilibrium Orb		ORBS
+35	Magic Absorb Orb		ORBS
+36	Boundry Orb		ORBS
+37	Steel Orb		ORBS
+38	Violence Orb		ORBS
+39	Fury Orb		ORBS
+3A	Boost Orb		ORBS
+3B	Crazed Orb		ORBS
+3C	Knight Orb		ORBS
+3D	Phero Orb		ORBS
+3E	Fortune Orb		ORBS
+3F	Prosperity Orb		ORBS
+40	Champion’s Orb		ORBS
+41	Great Firefly Orb		ORBS
+42	Silence Orb		ORBS
+43	Poison Orb		ORBS
+44	Venom Orb		ORBS
+45	Sleep Orb		ORBS
+46	Hunter Orb		ORBS
+01	Rage Piece		Collectable items/Pieces
+02	Thunder Piece		Collectable items/Pieces
+03	Flowing Piece		Collectable items/Pieces
+04	Cyclone Piece		Collectable items/Pieces
+05	Mother Earth Piece		Collectable items/Pieces
+06	Pale Gate Piece		Collectable items/Pieces
+07	Resurrection Piece		Collectable items/Pieces
+08	Nothing !! E		Collectable items/Pieces
+09	Nothing !! E		Collectable items/Pieces
+0A	Power Piece		Collectable items/Pieces
+0B	Magical Piece		Collectable items/Pieces
+0C	Fire Lizard Piece		Collectable items/Pieces
+0D	Fire Sealing Piece		Collectable items/Pieces
+0E	Water Sealing Piece		Collectable items/Pieces
+0F	Sunbeam Piece		Collectable items/Pieces
+10	Drain Piece		Collectable items/Pieces
+11	Equilibrium Piece		Collectable items/Pieces
+12	Magic Absorb Piece		Collectable items/Pieces
+13	Boundry Piece		Collectable items/Pieces
+14	Steel Piece		Collectable items/Pieces
+15	Violence Piece		Collectable items/Pieces
+16	Boost Piece		Collectable items/Pieces
+17	Fortune Piece		Collectable items/Pieces
+18	Prosperity Piece		Collectable items/Pieces
+19	Great Firefly Piece		Collectable items/Pieces
+01	Blinking Mirror		Special / Key items
+02	Gear		Special / Key items
+03	Strange Fish		Special / Key items
+04	Dragon Horse Egg		Special / Key items
+05	Family Tree Chart 		Special / Key items
+06	Stolen Property		Special / Key items
+07	Stolen Property 2		Special / Key items
+08	Stolen Property 3		Special / Key items
+09	Stolen Property 4		Special / Key items
+0A	Stolen Property 5		Special / Key items
+0B	Ivanof Painting		Special / Key items
+0C	Map Of Falena		Special / Key items
+0D	Iron Hammer		Special / Key items
+0E	Silver Hammer		Special / Key items
+0F	Golden Hammer		Special / Key items
+10	Platinum Hammer		Special / Key items
+11	Basic Combat		Special / Key items
+12	Elementary Combat		Special / Key items
+13	Intermed Combat		Special / Key items
+14	Advanced Combat		Special / Key items
+15	Basic Magic		Special / Key items
+16	Elementary Magic 		Special / Key items
+17	Intermed Magic		Special / Key items
+18	Advanced Magic		Special / Key items
+19	Arrowhead Tactics		Special / Key items
+1A	Double Arm Tactics		Special / Key items
+1B	Goose Tactics		Special / Key items
+1C	Cross Tactics		Special / Key items
+1D	Crescent Tactics		Special / Key items
+1E	Hungry Wolf Tactics		Special / Key items
+1F	Tiger Tactics		Special / Key items
+20	True Men Tactics		Special / Key items
+21	Arrow Stance Tactics		Special / Key items
+22	Striking Tactics		Special / Key items
+23	Circle Tactics		Special / Key items
+24	Crane Wing Tactics		Special / Key items
+25	Sorcery Tactics		Special / Key items
+26	Illusion Tactics		Special / Key items
+27	Twin Tactics		Special / Key items
+28	Tri Tactics		Special / Key items
+29	Quad Tactics		Special / Key items
+2A	Pent Tactics		Special / Key items
+2B	Raging Lion Epic		Special / Key items
+2C	Fate Control Epic		Special / Key items
+2D	Karmic Epic		Special / Key items
+2E	Armor Epic		Special / Key items
+2F	Swift Foot Epic		Special / Key items
+30	Triple Harmony Epic		Special / Key items
+31	All Out Strike Epic		Special / Key items
+32	Untold Clarity Epic		Special / Key items
+33	Divine Right Epic		Special / Key items
+34	Zen Sword Epic		Special / Key items
+35	Sacred Oath Epic		Special / Key items
+36	Royal Paradise Epic		Special / Key items
+01	Medicine		Healing / Support
+02	Mega Medicine		Healing / Support
+03	Immortal Medicine		Healing / Support
+04	Dragon Incense		Healing / Support
+05	Cheesecake		Healing / Support
+06	Baked Cheesecake		Healing / Support
+07	Rare Cheesecake		Healing / Support
+08	Mixed Herbs		Healing / Support
+09	Sacrificial Jizo		Healing / Support
+0A	Sacrificial Budd		Healing / Support
+0B	Antitoxin		Healing / Support
+0C	Cough Drops		Healing / Support
+0D	Medicine		Healing / Support
+0E	Smelling Salts		Healing / Support
+0F	Tomato Salad		Healing / Support
+10	Potato Salad		Healing / Support
+11	Carpaccio Salad		Healing / Support
+12	Deluxe Salad		Healing / Support
+13	Juice		Healing / Support
+14	Fruit Punch		Healing / Support
+15	Vegetable Juice		Healing / Support
+16	Retso Nectar		Healing / Support
+17	Broiled Eel		Healing / Support
+18	Sashimi Combo		Healing / Support
+19	Deluxe Sashimi		Healing / Support
+1A	Imperial Fish		Healing / Support
+1B	Rolled Cabbage		Healing / Support
+1C	Xarp Soup		Healing / Support
+1D	Beef Stew		Healing / Support
+1E	Chicken Curry		Healing / Support
+1F	Grilled Salmon		Healing / Support
+20	Abalone Steaks		Healing / Support
+21	Grilled Chicken  		Healing / Support
+22	Marbled Steak		Healing / Support
+23	Tuna Rice Bowl		Healing / Support
+24	Crab Rice Bowl		Healing / Support
+25	Matsutake Rice		Healing / Support
+26	Seafood Rice Bowl		Healing / Support
+27	Full Course		Healing / Support
+29	Deluxe Full Course		Healing / Support
+01	Flaming Arrows S	Casts "Flaming Arrows" on enemies	Scrolls
+02	Dancing Flames S	Casts "Dancing Flames" on enemies	Scrolls
+03	Blazing Wall Scr	Casts "Blazing Wall" on enemies	Scrolls
+04	Thunder Runner S	Casts "Thunder Runner" on enemies	Scrolls
+05	Berserk Blow Scr	Casts "Berserk Blow" on enemies	Scrolls
+06	Soaring Bolt Scr	Casts "Soaring Bolt" on enemies	Scrolls
+07	Breath Of Ice S	Casts "Breath of Ice" on enemies	Scrolls
+08	Kindness Rain S	Casts "Kindness Rain" on enemies	Scrolls
+09	Wind Of Sleep S	Casts "Wind of Sleep" on enemies	Scrolls
+0A	The Shredding S	Casts "The Shredding" on enemies	Scrolls
+0B	Clay Guardian S	Casts "Clay Guardian" on enemies	Scrolls
+0C	Vengeful Child S	Casts "Vengeful Child" on enemies	Scrolls
+01	Blinking Rune Pc	Summons members on standby	Party Items
+02	Escape Scroll	Escape dungeons (can't use during battle)	Party Items
+01	Stone Of Strength	Attack rises between 1 and 3 points	Stat boosting items (Stones)
+02	Stone Of Magic	Magic rises between 1 and 3 points	Stat boosting items (Stones)
+03	Stone Of Skill	Technique rises between 1 and 3 points	Stat boosting items (Stones)
+04	Stone Of Evasion	Evasion rises between 1 and 3 points	Stat boosting items (Stones)
+05	Stone Of Speed	Speed rises between 1 and 3 points	Stat boosting items (Stones)
+06	Stone Of Luck	Luck rises between 1 and 10 points)	Stat boosting items (Stones)
+01	Window Set 1	Window Item - If you had a window maker	Star items (HQ Items)
+02	Window Set 2	Window Item - If you had a window maker	Star items (HQ Items)
+03	Window Set 3	Window Item - If you had a window maker	Star items (HQ Items)
+04	Window Set 4	Window Item - If you had a window maker	Star items (HQ Items)
+05	Window Set 5	Window Item - If you had a window maker	Star items (HQ Items)
+06	Window Set 6	Window Item - If you had a window maker	Star items (HQ Items)
+07	Window Set 7	Window Item - If you had a window maker	Star items (HQ Items)
+08	Window Set 8	Window Item - If you had a window maker	Star items (HQ Items)
+09	Sound Set 1	Sound Item - If you had a phonologist	Star items (HQ Items)
+0A	Sound Set 2	Sound Item - If you had a phonologist	Star items (HQ Items)
+0B	Sound Set 3	Sound Item - If you had a phonologist	Star items (HQ Items)
+0C	Sound Set 4	Sound Item - If you had a phonologist	Star items (HQ Items)
+0D	Sound Set 5	Sound Item - If you had a phonologist	Star items (HQ Items)
+0E	Voice Set 1	Voice Item - If you had a voicologist	Star items (HQ Items)
+0F	Voice Set 2	Voice Item - If you had a voicologist	Star items (HQ Items)
+10	Voice Set 3	Voice Item - If you had a voicologist	Star items (HQ Items)
+11	Voice Set 4	Voice Item - If you had a voicologist	Star items (HQ Items)
+12	Voice Set 5	Voice Item - If you had a voicologist	Star items (HQ Items)
+01	Squid	Ingredient - If you had a chef	Ingredient
+02	Octopus	Ingredient - If you had a chef	Ingredient
+03	Tuna	Ingredient - If you had a chef	Ingredient
+04	Turbine Shells	Ingredient - If you had a chef	Ingredient
+05	Abalone	Ingredient - If you had a chef	Ingredient
+06	Crab	Ingredient - If you had a chef	Ingredient
+07	Truffles	Ingredient - If you had a chef	Ingredient
+08	Matsutake	Ingredient - If you had a chef	Ingredient
+0A	Marbled Beef	Ingredient - If you had a chef	Ingredient
+0B	Premium Chicken	Ingredient - If you had a chef	Ingredient
+0C	Quality Sake	Ingredient - If you had a chef	Ingredient
+0D	Baby Carp	Ingredient - If you had an aquarium	Ingredient
+0E	Baby Salmon	Ingredient - If you had an aquarium	Ingredient
+0F	Baby Puffer Fish	Ingredient - If you had an aquarium	Ingredient
+10	Baby Eel	Ingredient - If you had an aquarium	Ingredient
+11	Baby Sturgeon	Ingredient - If you had an aquarium	Ingredient
+12	Tomato Seedling	Ingredient - If you had a farm	Ingredient
+13	Melon Seedling	Ingredient - If you had a farm	Ingredient
+14	Grape Seedling	Ingredient - If you had a farm	Ingredient
+15	Onion Seedling	Ingredient - If you had a farm	Ingredient
+16	Cabbage Seedling	Ingredient - If you had a farm	Ingredient
+17	Potato Seedling	Ingredient - If you had a farm	Ingredient
+18	Carrot Seedling	Ingredient - If you had a farm	Ingredient
+19	Redpepper Seedling	Ingredient - If you had a farm	Ingredient
+01	Old Book 1	Old Book - Now if someone could read it	Old Books
+02	Old Book 2	Old Book - Now if someone could read it	Old Books
+03	Old Book 3	Old Book - Now if someone could read it	Old Books
+04	Old Book 4	Old Book - Now if someone could read it	Old Books
+05	Old Book 5	Old Book - Now if someone could read it	Old Books
+06	Old Book 6	Old Book - Now if someone could read it	Old Books
+07	Old Book 7	Old Book - Now if someone could read it	Old Books
+08	Old Book 8	Old Book - Now if someone could read it	Old Books
+09	Old Book 9	Old Book - Now if someone could read it	Old Books
+0A	Old Book 10	Old Book - Now if someone could read it	Old Books
+0B	Old Book 11	Old Book - Now if someone could read it	Old Books
+0C	Old Book 12	Old Book - Now if someone could read it	Old Books
+0D	Old Book 13	Old Book - Now if someone could read it	Old Books
+0E	Nothing!! E	Nothing!! E	Old Books
+0F	Nothing!! E	Nothing!! E	Old Books
+10	Nothing!! E	Nothing!! E	Old Books
+11	Nothing!! E	Nothing!! E	Old Books
+12	Nothing!! E	Nothing!! E	Old Books
+13	Nothing!! E	Nothing!! E	Old Books
+14	Strange Book	Obviously something very odd about it	Old Books
+01	? Large Statue		Unappraised items+Appraised
+02	Dragon God Statue		Unappraised items+Appraised
+03	Goddess Statue		Unappraised items+Appraised
+04	Queen Statue		Unappraised items+Appraised
+05	Knight Statue		Unappraised items+Appraised
+06	? Large Statue		Unappraised items+Appraised
+07	? Large Statue		Unappraised items+Appraised
+08	? Large Statue		Unappraised items+Appraised
+09	? Large Statue		Unappraised items+Appraised
+0A	? Statue		Unappraised items+Appraised
+0B	Angel Statue		Unappraised items+Appraised
+0C	Demon Statue		Unappraised items+Appraised
+0D	Peeing Boy		Unappraised items+Appraised
+0E	Cursed Statue		Unappraised items+Appraised
+0F	? Statue		Unappraised items+Appraised
+10	? Statue		Unappraised items+Appraised
+11	? Statue		Unappraised items+Appraised
+12	? Statue		Unappraised items+Appraised
+13	? Painting		Unappraised items+Appraised
+14	‘Daybreak’		Unappraised items+Appraised
+15	Dusk		Unappraised items+Appraised
+16	‘Ruins’		Unappraised items+Appraised
+17	‘Queen’s Knights’		Unappraised items+Appraised
+18	‘Cavalry Soldiers’		Unappraised items+Appraised
+19	Gladiator		Unappraised items+Appraised
+1A	The Smile		Unappraised items+Appraised
+1B	Graffiti		Unappraised items+Appraised
+1C	? Painting		Unappraised items+Appraised
+1D	? Painting		Unappraised items+Appraised
+1E	? Painting		Unappraised items+Appraised
+1F	? Painting		Unappraised items+Appraised
+20	? Painting		Unappraised items+Appraised
+21	? Painting		Unappraised items+Appraised
+22	? Painting		Unappraised items+Appraised
+23	? Painting		Unappraised items+Appraised
+24	? Pot		Unappraised items+Appraised
+25	Porcelain Pot		Unappraised items+Appraised
+26	Gentian Pot		Unappraised items+Appraised
+27	Gold Pot		Unappraised items+Appraised
+28	Celadon Pot		Unappraised items+Appraised
+29	Karaya Urn		Unappraised items+Appraised
+2A	Rose Pot		Unappraised items+Appraised
+2B	Pot Of Failure		Unappraised items+Appraised
+2C	? Pot		Unappraised items+Appraised
+2D	? Pot		Unappraised items+Appraised
+2E	? Pot		Unappraised items+Appraised
+2F	? Pot		Unappraised items+Appraised
+30	? Pot		Unappraised items+Appraised
+31	? Pot		Unappraised items+Appraised
+32	? Pot		Unappraised items+Appraised
+33	? Bonsai		Unappraised items+Appraised
+34	Pine Bonsai		Unappraised items+Appraised
+35	Banboo Bonsai		Unappraised items+Appraised
+36	Plum Bonsai		Unappraised items+Appraised
+37	Cherry Bonsai		Unappraised items+Appraised
+38	Potted Plant		Unappraised items+Appraised
+39	? Bonsai		Unappraised items+Appraised
+3A	? Bonsai		Unappraised items+Appraised
+3B	? Bonsai		Unappraised items+Appraised
+3C	? Bonsai		Unappraised items+Appraised
+3D	? Bonsai		Unappraised items+Appraised
+01	Devil Bead		Ducky Items
+02	Creeper Bead		Ducky Items
+03	Pale Moon Bead		Ducky Items
+04	Ol’ Tree Bead		Ducky Items
+05	Milk Bath Bead		Ducky Items
+06	Toy Duckling		Ducky Items
+07	Toy Beaver		Ducky Items
+08	Toy Dragon Horse		Ducky Items
+09	Sake Set		Ducky Items
+0A	Rose Petals		Ducky Items
+0B	Citrus		Ducky Items
+0C	Toy Boat		Ducky Items
+[/TT]
+[RR]
+VALUE>NAME>INFO
+01	Dawn	
+02	Twilight	
+03	Fire	
+04	Rage	
+05	Lightning	
+06	Thunder	
+07	Water	
+08	Flowing	
+09	Wind	
+0A	Cyclone	
+0B	Earth	
+0C	Mother Earth	
+0D	Star	
+0E	Blinking	
+0F	DoReMi	
+10	Beast	
+11	Shield	
+12	Pale Gate	
+13	Resurrection	
+14	nothing	
+15	Rage Sword	
+16	Thunder Sword	
+17	Flowing Sword	
+18	Cyclone Sword	
+19	M Earth Sword	
+1A	Condemnation	
+1B	Howling	
+1C	Viper	
+1D	Titan	
+1E	Unicorn	
+1F	Minotaur	
+20	Lion	
+21	Kite	
+22	Great Hawk	
+23	Pixie	
+24	Ogre	
+25	Red Rose Rune	2x dmg to 1 foe. Makes others more hostile)
+26	Blank	
+27	Shrike Rune	2x dmg to 1 foe)
+28	Wrath Rune	Recovers 50% of lost HP. Causes Fury)
+29	Falcon Rune	3x dmg to one enemy, decreased accuracy)
+2A	Angry Dragon Rn	2x dmg to 1 foe)
+2B	Boar Rune	3x dmg to one enemy, decreased accuracy)
+2C	Fierce Tiger Rn	2x dmg to 1 foe)
+2D	Gadget Rune	0.4x dmg to all foes)
+2E	Mischief Rune	From 0.2 to 1x dmg to all foes)
+2F	Sickle Rune	1x dmg to all enemies in path to target)
+30	Swallow Rune	20% instant death to 1 foe, or 2x dmg)
+31	Strike-Back Rune	Always counter. Evasion halved)
+32	Double Edged Rn	2x attack. 2x dmg recieved)
+33	Multi Strike Rn	Consecutive atk +10%, 2x dmg recieved)
+34	Killer Rune	1.5x Critical Hit %.Instant death 10%)
+35	Gale Rune	Attack first)
+36	Counter Rune	1.5x chance of thrust back)
+37	Power Rune	1.5x attack. Physical def halved)
+38	Magical Rune	1.5x magic. Magic def halved)
+39	Blank	
+3A	Blank	
+3B	Fire Sealing Rn	Blocks fire magic. Less water magic resist)
+3C	Water Sealing Rn	Blocks water magic. Less fire magic resist)
+3D	Wall Rune	Causes the Wall status effect.<2x def, no atk>)
+3E	Waking Rune	Begin battle asleep, fury when awoken)
+3F	Turtle Rune	Blocks negative statuses)
+40	Firefly Rune	Bullseye status. Become target of foes)
+41	Skunk Rune	Stench status. Foes wont target)
+42	Alert Rune	Alert status after 3 turns in battle)
+43	Sunbeam Rune	Auto HP recover w/ every battle turn/step)
+44	Drain Rune	Right Hand. Recover a part of dmg caused<10%>)
+45	Equilibrium Rune	Blocks the Unbalance status)
+46	Magic Absorb Rn	Recover 1 MP with successful attack)
+47	Boundary Rune	Causes the boundary status effect)
+48	Steel Rune	Causes the steel status effect)
+49	Violence Rune	Violence status after recieving dmg twice)
+4A	Fury Rune	Causes the fury status effect)
+4B	Boost Rune	Causes the boost status effect)
+4C	Crazed Rune	Causes the beserk status effect)
+4D	Knight Rune	Defend allies with 1/5 hp or less)
+4E	Phero Rune	Opposite-sex characters defend the user)
+4F	Fortune Rune	All party members recieve 2x Experience)
+50	Prosperity Rune	Gain double the potch after battle)
+51	Champion Rune	Suppresses appearance of weak enemies)
+52	Great Firefly Rn	Increases appearance of enemies)
+53	Parent Turtle Rn	Prevent 50% of all allies' status changes)
+54	Godspeed Rune	2x field move speed. 100% escape rate)
+55	Raven Rune	100% evasion of direct attacks in dungeons)
+56	Silence Rune	Silence effect added to attacks (30%))
+57	Poison Rune	Poison effect added to attacks (30%))
+58	Venom Rune	Venom effect added to attacks (30%))
+59	Sleep Rune	Sleep effect added to attacks (30%))
+5A	Hunter Rune	Obtain an item if attack is successful)
+5B	Charm Rune	Foes that attack Jeane get Charmed 50%))
+5C	Flame Array	Rage and Thunder Unite Magic)
+5D	Thunder God	Thunder and Flowing Unite Magic)
+5E	Water Dragon	Flowing and Cyclone Unite Magic)
+5F	Fierce Wind Fang	Cyclone and Mother Earth Unite Magic)
+60	Scorched Earth	Mother Earth and Rage Unite Magic)
+61	Creation	Dawn and Twilight Unite Magic)
+[/RR]

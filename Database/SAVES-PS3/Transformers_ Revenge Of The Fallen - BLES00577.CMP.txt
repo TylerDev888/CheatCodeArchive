@@ -1,0 +1,9 @@
+^2 = GameID: BLES00577
+^3 = NAME: TRANSFORMERS: Revenge of the Fallen
+^4 = FILE: SAVEGAME.DAT
++Update Crc32 For Savegame.dat (required)
+(set range:0x000008,0x002037)
+$set pointer:eof+1
+$set range:0x000008,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]

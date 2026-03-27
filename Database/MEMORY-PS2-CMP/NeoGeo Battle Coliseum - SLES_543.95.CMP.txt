@@ -1,0 +1,54 @@
+^1 = Hash: 03 43 E4 C2 C9 F1 CF 37 95 3E D5 5D 34 8C 52 2E BF 10 FA 39
+^2 = GameID: SLES_543.95
+^3 = NAME: NeoGeo Battle Coliseum
+!Masters:
+Enable Code (MUST BE ON)
+$90110450 0C0440BC
+Enable Code (MUST BE ON)
+$F0119B7C 00119B7F
+!!
+!Jokers:
+$017B7A42 0000[Joker:PS2]
+!!
+!Misc Codes:
++Pal2ntsc
+$20100260 24120002
++Shrink Screen
+$00318A98 00000001
++Infinite Time
+$00318E50 0000002C
++Unlock All Characters
+$20318A84 FFFFFFFF
+$20318A88 FFFFFFFF
++100% Complete
+$40323330 00200001
+$FFFFFFFF 00000000
+!!
+!Player Codes:
+!P1:
++Inf HP (character 1)
+$203CA568 00E000E0
++Inf Guard (character 1)
+$003CA56E 000000E0
++Inf HP (character 2)
+$203CA584 00E000E0
++Inf Guard (character 2)
+$003CA58A 000000E0
++Inf Power Gauge (both Character)
+$003CA4B6 000000FF
+!!
+!P2:
++No HP (character 1)
+$D03CA71C 000000E0
+$203CA71C 00010001
++No Guard (character 1)
+$003CA722 00000000
++No HP (character 2)
+$D03CA738 000000E0
+$203CA738 00010001
++No Guard (character 2)
+$003CA73E 00000000
++No Power Gauge (both Character)
+$003CA66A 00000000
+!!
+!!

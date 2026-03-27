@@ -1,0 +1,2266 @@
+^3 = NAME: Legaia 2 - Duel Saga (Ntsc-U)
+^2 = GameID: SLUS-20414
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F02EDA60 002C9B07
++(M) Must Be On
+%Credits: Codejunkies
+$F02C9B04 002C9B07
++Master Code (Gsv3)
+%Credits: iyeru42
+$F0100008 002C9B07
+!!
+!Ayne Codes:
++Always 1 For Next Level
+%Credits: iyeru42
+$203FE4A4 00000001
++Always Low Current Weight
+%Credits: Code Master
+$003FB911 00000000
++Armor Equipped Modifier
+%Credits: Code Master
+$103FE532 00000???
++Armor Modifier
+%Credits: InterAct
++Gloves Equipped Modifier
+%Credits: Code Master
+$103FE534 00000???
++Have All Arts
+%Credits: InterAct
+$203FE590 5C5B0E00
+$203FE594 605F5E5D
+$203FE598 64636261
+$203FE59C 68676665
++Have All Arts
+%Credits: Code Master
+$203FE590 5C5B0E00
+$203FE594 605F5E5D
+$203FE598 64636261
+$203FE59C 68676665
+$003FE5A0 00000000
++Have All Nicknames
+%Credits: InterAct
+$203FE490 C0001FFF
+$203FE494 000003FF
++Have All Origin Abilities
+%Credits: Code Master
+$203FE580 43424106
+$203FE584 00464544
++Infinite AP
+%Credits: Code Master
+$003FB913 000000FF
++Infinite HP
+%Credits: iyeru42
+$103FB8F2 0000270F
++Infinite MP
+%Credits: iyeru42
+$103FB8F6 0000270F
++Level 99
+%Credits: Code Master
+$003FE5B2 00000063
++Max Agility
+%Credits: InterAct
+$103FB902 000003E7
++Max AP
+%Credits: Code Master
+$003FB912 000000FF
++Max CHA
+%Credits: Code Master
+$103FB904 000003E7
++Max Defense High
+%Credits: InterAct
+$103FB8FA 000003E7
++Max Defense Low
+%Credits: InterAct
+$103FB8FC 000003E7
++Max EXP
+%Credits: InterAct
+$203FE49C 05F5E0FF
++Max EXP
+%Credits: Code Master
+$203FE49C 0098967F
++Max HP
+%Credits: InterAct
+$203FB8F0 270F270F
++Max HP
+%Credits: iyeru42
+$103FB8F0 0000270F
++Max Infinite MP
+%Credits: Code Master
+$203FB8F4 270F270F
++Max INT
+%Credits: Code Master
+$103FB8FE 000003E7
++Max MEN
+%Credits: Code Master
+$103FB900 000003E7
++Max MP
+%Credits: iyeru42
+$103FB8F4 0000270F
++Max Origin EXP
+%Credits: Code Master
+$203FE4A0 05F5E0FF
++Max STR
+%Credits: Code Master
+$103FB8F8 000003E7
++Max Total Weight
+%Credits: Code Master
+$003FB910 000000FF
++Max/Infinite AP
+%Credits: iyeru42
+$103FB912 0000FFFF
++Other Equipped Modifier
+%Credits: Code Master
+$103FE538 00000???
++Quick Level Up
+%Credits: Code Master
+$103FE49C 0000FFFF
++Shoes Equipped Modifier
+%Credits: Code Master
+$103FE536 00000???
++Sword Equipped Modifier
+%Credits: Code Master
+$103FE530 00000???
+!!
+!Character 1 Codes:
++Infinite HP
+%Credits: Code Master
+$10417560 0000270F
++Infinite MP
+%Credits: Code Master
+$10417564 0000270F
++Max AGL
+%Credits: Code Master
+$20417550 000003E7
++Max CHA
+%Credits: Code Master
+$20417554 000003E7
++Max Defense High
+%Credits: Code Master
+$20417540 000003E7
++Max Defense Low
+%Credits: Code Master
+$20417544 000003E7
++Max HP
+%Credits: Code Master
+$1041752C 0000270F
++Max INT
+%Credits: Code Master
+$20417548 000003E7
++Max MEN
+%Credits: Code Master
+$2041754C 000003E7
++Max MP
+%Credits: Code Master
+$10417530 0000270F
++Max STR
+%Credits: Code Master
+$10417538 000003E7
+!!
+!Character 2 Codes:
++Infinite HP
+%Credits: Code Master
+$10417610 0000270F
++Infinite MP
+%Credits: Code Master
+$10417614 0000270F
++Max AGL
+%Credits: Code Master
+$20417600 000003E7
++Max CHA
+%Credits: Code Master
+$20417604 000003E7
++Max Defense High
+%Credits: Code Master
+$204175F0 000003E7
++Max Defense Low
+%Credits: Code Master
+$204175F4 000003E7
++Max HP
+%Credits: Code Master
+$104175DC 0000270F
++Max INT
+%Credits: Code Master
+$204175F8 000003E7
++Max MEN
+%Credits: Code Master
+$204175FC 000003E7
++Max MP
+%Credits: Code Master
+$104175E0 0000270F
++Max STR
+%Credits: Code Master
+$104175E8 000003E7
+!!
+!Character 3 Codes:
++Infinite HP
+%Credits: Code Master
+$104176C0 0000270F
++Infinite MP
+%Credits: Code Master
+$104176C4 0000270F
++Max AGL
+%Credits: Code Master
+$204176B0 000003E7
++Max CHA
+%Credits: Code Master
+$204176B4 000003E7
++Max Defense High
+%Credits: Code Master
+$204176A0 000003E7
++Max Defense Low
+%Credits: Code Master
+$204176A4 000003E7
++Max HP
+%Credits: Code Master
+$1041768C 0000270F
++Max INT
+%Credits: Code Master
+$204176A8 000003E7
++Max MEN
+%Credits: Code Master
+$204176AC 000003E7
++Max MP
+%Credits: Code Master
+$10417690 0000270F
++Max STR
+%Credits: Code Master
+$10417698 000003E7
+!!
+!Character Modifier Codes:
++Backup Slot 1
+%Credits: Code Master
+$003FDC9F 000000??
++Backup Slot 2
+%Credits: Code Master
+$003FDCA0 000000??
++Slot 1
+%Credits: Code Master
+$003FDC9C 000000??
++Slot 2
+%Credits: Code Master
+$003FDC9D 000000??
++Slot 3
+%Credits: Code Master
+$003FDC9E 000000??
+!!
+!Health Codes:
++HP Don't Go Above 100
+%Credits: Codejunkies
+$E0010064 3041752C
+$1041752C 00000064
+$E0010064 30417560
+$10417560 00000064
++HP Don't Go Above 100
+%Credits: Codejunkies
+$E0010064 304175DC
+$104175DC 00000064
+$E0010064 30417610
+$10417610 00000064
++HP Don't Go Above 100
+%Credits: Codejunkies
+$E0010064 3041768C
+$1041768C 00000064
+$E0010064 304176C0
+$104176C0 00000064
++HP Don't Go Above 200
+%Credits: Codejunkies
+$E00100C8 3041752C
+$1041752C 000000C8
+$E00100C8 30417560
+$10417560 000000C8
++HP Don't Go Above 200
+%Credits: Codejunkies
+$E00100C8 304175DC
+$104175DC 000000C8
+$E00100C8 30417610
+$10417610 000000C8
++HP Don't Go Above 200
+%Credits: Codejunkies
+$E00100C8 3041768C
+$1041768C 000000C8
+$E00100C8 304176C0
+$104176C0 000000C8
++HP Don't Go Above 500
+%Credits: Codejunkies
+$E00101F4 3041768C
+$1041768C 000001F4
+$E00101F4 304176C0
+$104176C0 000001F4
++HP Don't Go Above 500
+%Credits: Codejunkies
+$E00101F4 304175DC
+$104175DC 000001F4
+$E00101F4 30417610
+$10417610 000001F4
++HP Don't Go Above 500
+%Credits: Codejunkies
+$E00101F4 3041752C
+$1041752C 000001F4
+$E00101F4 30417560
+$10417560 000001F4
++HP Don't Go Above 1000
+%Credits: Codejunkies
+$E00103E8 304175DC
+$104175DC 000003E8
+$E00103E8 30417610
+$10417610 000003E8
++HP Don't Go Above 1000
+%Credits: Codejunkies
+$E00103E8 3041768C
+$1041768C 000003E8
+$E00103E8 304176C0
+$104176C0 000003E8
++HP Don't Go Above 1000
+%Credits: Codejunkies
+$E00103E8 3041752C
+$1041752C 000003E8
+$E00103E8 30417560
+$10417560 000003E8
++HP Don't Go Above 2000
+%Credits: Codejunkies
+$E00107D0 3041768C
+$1041768C 000007D0
+$E00107D0 304176C0
+$104176C0 000007D0
++HP Don't Go Above 2000
+%Credits: Codejunkies
+$E00107D0 304175DC
+$104175DC 000007D0
+$E00107D0 30417610
+$10417610 000007D0
++HP Don't Go Above 2000
+%Credits: Codejunkies
+$E00107D0 3041752C
+$1041752C 000007D0
+$E00107D0 30417560
+$10417560 000007D0
++Infinite And Max Ap
+%Credits: Codejunkies
+$0041758C 000000C4
++Infinite And Max Ap
+%Credits: Codejunkies
+$0041763C 00000064
++Infinite And Max Ap
+%Credits: Codejunkies
+$004176EC 00000064
++Infinite And Max HP
+%Credits: Codejunkies
+$1041752C 0000270F
+$10417560 0000270F
++Infinite And Max HP
+%Credits: Codejunkies
+$104175DC 0000270F
+$10417610 0000270F
++Infinite And Max HP
+%Credits: Codejunkies
+$1041768C 0000270F
+$104176C0 0000270F
++Infinite And Max MP
+%Credits: Codejunkies
+$104175E0 0000270F
+$10417614 0000270F
++Infinite And Max MP
+%Credits: Codejunkies
+$10417530 0000270F
+$10417564 0000270F
++Infinite And Max MP
+%Credits: Codejunkies
+$10417690 0000270F
+$104176C4 0000270F
+!!
+!In Battle Codes:
++One Hit Kills Everything
+%Credits: Codejunkies
+$104177EC 00000001
+$10417820 00000001
+$1041789C 00000001
+$104178D0 00000001
+$1041794C 00000001
+$10417980 00000001
+!!
+!In-Battle Codes:
++Char 1-Infinite/Max AP
+%Credits: InterAct
+$0041758C 000000C4
+$104175DC 0000270F
++Char 2-Infinite/Max HP
+%Credits: InterAct
+$10417610 0000270F
+$104175E0 0000270F
++Char 2-Infinite/Max MP
+%Credits: InterAct
+$10417614 0000270F
+$0041763C 00000064
++Char 3-Infinite/Max AP
+%Credits: InterAct
+$104177EC 00000001
++Char 3-Infinite/Max HP
+%Credits: InterAct
+$104176C0 0000270F
+$10417690 0000270F
++Char 3-Infinite/Max MP
+%Credits: InterAct
+$104176C4 0000270F
+$004176EC 00000064
++One Hit Kills Everything
+%Credits: InterAct
+$10417820 00000001
+$1041789C 00000001
+$104178D0 00000001
+$1041794C 00000001
+$10417980 00000001
+!!
+!Infinite/Max Item Codes:
++Infinite/Max Items Slot 1
+%Credits: InterAct
+$003FCE8C 00000063
++Infinite/Max Items Slot 2
+%Credits: InterAct
+$003FCE8D 00000063
++Infinite/Max Items Slot 3
+%Credits: InterAct
+$003FCE8E 00000063
++Infinite/Max Items Slot 4
+%Credits: InterAct
+$003FCE8F 00000063
++Infinite/Max Items Slot 5
+%Credits: InterAct
+$003FCE90 00000063
++Infinite/Max Items Slot 6
+%Credits: InterAct
+$003FCE91 00000063
++Infinite/Max Items Slot 7
+%Credits: InterAct
+$003FCE92 00000063
++Infinite/Max Items Slot 8
+%Credits: InterAct
+$003FCE93 00000063
++Infinite/Max Items Slot 9
+%Credits: InterAct
+$003FCE94 00000063
++Infinite/Max Items Slot 10
+%Credits: InterAct
+$003FCE95 00000063
++Infinite/Max Items Slot 11
+%Credits: InterAct
+$003FCE96 00000063
++Infinite/Max Items Slot 12
+%Credits: InterAct
+$003FCE97 00000063
++Infinite/Max Items Slot 13
+%Credits: InterAct
+$003FCE98 00000063
++Infinite/Max Items Slot 14
+%Credits: InterAct
+$003FCE99 00000063
++Infinite/Max Items Slot 15
+%Credits: InterAct
+$003FCE9A 00000063
++Infinite/Max Items Slot 16
+%Credits: InterAct
+$003FCE9B 00000063
++Infinite/Max Items Slot 17
+%Credits: InterAct
+$003FCE9C 00000063
++Infinite/Max Items Slot 18
+%Credits: InterAct
+$003FCE9D 00000063
++Infinite/Max Items Slot 19
+%Credits: InterAct
+$003FCE9E 00000063
++Infinite/Max Items Slot 20
+%Credits: InterAct
+$003FCE9F 00000063
++Infinite/Max Items Slot 21
+%Credits: InterAct
+$003FCEA0 00000063
++Infinite/Max Items Slot 22
+%Credits: InterAct
+$003FCEA1 00000063
++Infinite/Max Items Slot 23
+%Credits: InterAct
+$003FCEA2 00000063
++Infinite/Max Items Slot 24
+%Credits: InterAct
+$003FCEA3 00000063
++Infinite/Max Items Slot 25
+%Credits: InterAct
+$003FCEA4 00000063
++Infinite/Max Items Slot 26
+%Credits: InterAct
+$003FCEA5 00000063
++Infinite/Max Items Slot 27
+%Credits: InterAct
+$003FCEA6 00000063
++Infinite/Max Items Slot 28
+%Credits: InterAct
+$003FCEA7 00000063
++Infinite/Max Items Slot 29
+%Credits: InterAct
+$003FCEA8 00000063
++Infinite/Max Items Slot 30
+%Credits: InterAct
+$003FCEA9 00000063
++Infinite/Max Items Slot 31
+%Credits: InterAct
+$003FCEAA 00000063
++Infinite/Max Items Slot 32
+%Credits: InterAct
+$003FCEAB 00000063
++Infinite/Max Items Slot 33
+%Credits: InterAct
+$003FCEAC 00000063
++Infinite/Max Items Slot 34
+%Credits: InterAct
+$003FCEAD 00000063
++Infinite/Max Items Slot 35
+%Credits: InterAct
+$003FCEAE 00000063
++Infinite/Max Items Slot 36
+%Credits: InterAct
+$003FCEAF 00000063
++Infinite/Max Items Slot 37
+%Credits: InterAct
+$003FCEB0 00000063
++Infinite/Max Items Slot 38
+%Credits: InterAct
+$003FCEB1 00000063
++Infinite/Max Items Slot 39
+%Credits: InterAct
+$003FCEB2 00000063
++Infinite/Max Items Slot 40
+%Credits: InterAct
+$003FCEB3 00000063
++Infinite/Max Items Slot 41
+%Credits: InterAct
+$003FCEB4 00000063
++Infinite/Max Items Slot 42
+%Credits: InterAct
+$003FCEB5 00000063
++Infinite/Max Items Slot 43
+%Credits: InterAct
+$003FCEB6 00000063
++Infinite/Max Items Slot 44
+%Credits: InterAct
+$003FCEB7 00000063
++Infinite/Max Items Slot 45
+%Credits: InterAct
+$003FCEB8 00000063
++Infinite/Max Items Slot 46
+%Credits: InterAct
+$003FCEB9 00000063
++Infinite/Max Items Slot 47
+%Credits: InterAct
+$003FCEBA 00000063
++Infinite/Max Items Slot 48
+%Credits: InterAct
+$003FCEBB 00000063
++Infinite/Max Items Slot 49
+%Credits: InterAct
+$003FCEBC 00000063
++Infinite/Max Items Slot 50
+%Credits: InterAct
+$003FCEBD 00000063
++Infinite/Max Items Slot 51
+%Credits: InterAct
+$003FCEBE 00000063
++Infinite/Max Items Slot 52
+%Credits: InterAct
+$003FCEBF 00000063
++Infinite/Max Items Slot 53
+%Credits: InterAct
+$003FCEC0 00000063
++Infinite/Max Items Slot 54
+%Credits: InterAct
+$003FCEC1 00000063
++Infinite/Max Items Slot 55
+%Credits: InterAct
+$003FCEC2 00000063
++Infinite/Max Items Slot 56
+%Credits: InterAct
+$003FCEC3 00000063
++Infinite/Max Items Slot 57
+%Credits: InterAct
+$003FCEC4 00000063
++Infinite/Max Items Slot 58
+%Credits: InterAct
+$003FCEC5 00000063
++Infinite/Max Items Slot 59
+%Credits: InterAct
+$003FCEC6 00000063
++Infinite/Max Items Slot 60
+%Credits: InterAct
+$003FCEC7 00000063
++Infinite/Max Items Slot 61
+%Credits: InterAct
+$003FCEC8 00000063
++Infinite/Max Items Slot 62
+%Credits: InterAct
+$003FCEC9 00000063
++Infinite/Max Items Slot 63
+%Credits: InterAct
+$003FCECA 00000063
++Infinite/Max Items Slot 64
+%Credits: InterAct
+$003FCECB 00000063
++Infinite/Max Items Slot 65
+%Credits: InterAct
+$003FCECC 00000063
++Infinite/Max Items Slot 66
+%Credits: InterAct
+$003FCECD 00000063
++Infinite/Max Items Slot 67
+%Credits: InterAct
+$003FCECE 00000063
++Infinite/Max Items Slot 68
+%Credits: InterAct
+$003FCECF 00000063
++Infinite/Max Items Slot 69
+%Credits: InterAct
+$003FCED0 00000063
++Infinite/Max Items Slot 70
+%Credits: InterAct
+$003FCED1 00000063
++Infinite/Max Items Slot 71
+%Credits: InterAct
+$003FCED2 00000063
++Infinite/Max Items Slot 72
+%Credits: InterAct
+$003FCED3 00000063
++Infinite/Max Items Slot 73
+%Credits: InterAct
+$003FCED4 00000063
++Infinite/Max Items Slot 74
+%Credits: InterAct
+$003FCED5 00000063
++Infinite/Max Items Slot 75
+%Credits: InterAct
+$003FCED6 00000063
++Infinite/Max Items Slot 76
+%Credits: InterAct
+$003FCED7 00000063
++Infinite/Max Items Slot 77
+%Credits: InterAct
+$003FCED8 00000063
++Infinite/Max Items Slot 78
+%Credits: InterAct
+$003FCED9 00000063
++Infinite/Max Items Slot 79
+%Credits: InterAct
+$003FCEDA 00000063
++Infinite/Max Items Slot 80
+%Credits: InterAct
+$003FCEDB 00000063
++Infinite/Max Items Slot 81
+%Credits: InterAct
+$003FCEDC 00000063
++Infinite/Max Items Slot 82
+%Credits: InterAct
+$003FCEDD 00000063
++Infinite/Max Items Slot 83
+%Credits: InterAct
+$003FCEDE 00000063
++Infinite/Max Items Slot 84
+%Credits: InterAct
+$003FCEDF 00000063
++Infinite/Max Items Slot 85
+%Credits: InterAct
+$003FCEE0 00000063
++Infinite/Max Items Slot 86
+%Credits: InterAct
+$003FCEE1 00000063
++Infinite/Max Items Slot 87
+%Credits: InterAct
+$003FCEE2 00000063
++Infinite/Max Items Slot 88
+%Credits: InterAct
+$003FCEE3 00000063
++Infinite/Max Items Slot 89
+%Credits: InterAct
+$003FCEE4 00000063
++Infinite/Max Items Slot 90
+%Credits: InterAct
+$003FCEE5 00000063
++Infinite/Max Items Slot 91
+%Credits: InterAct
+$003FCEE6 00000063
++Infinite/Max Items Slot 92
+%Credits: InterAct
+$003FCEE7 00000063
++Infinite/Max Items Slot 93
+%Credits: InterAct
+$003FCEE8 00000063
++Infinite/Max Items Slot 94
+%Credits: InterAct
+$003FCEE9 00000063
++Infinite/Max Items Slot 95
+%Credits: InterAct
+$003FCEEA 00000063
++Infinite/Max Items Slot 96
+%Credits: InterAct
+$003FCEEB 00000063
++Infinite/Max Items Slot 97
+%Credits: InterAct
+$003FCEEC 00000063
++Infinite/Max Items Slot 98
+%Credits: InterAct
+$003FCEED 00000063
++Infinite/Max Items Slot 99
+%Credits: InterAct
+$003FCEEE 00000063
++Infinite/Max Items Slot 100
+%Credits: InterAct
+$003FCEEF 00000063
++Infinite/Max Items Slot 101
+%Credits: InterAct
+$003FCEF0 00000063
++Infinite/Max Items Slot 102
+%Credits: InterAct
+$003FCEF1 00000063
++Infinite/Max Items Slot 103
+%Credits: InterAct
+$003FCEF2 00000063
++Infinite/Max Items Slot 104
+%Credits: InterAct
+$003FCEF3 00000063
++Infinite/Max Items Slot 105
+%Credits: InterAct
+$003FCEF4 00000063
++Infinite/Max Items Slot 106
+%Credits: InterAct
+$003FCEF5 00000063
++Infinite/Max Items Slot 107
+%Credits: InterAct
+$003FCEF6 00000063
++Infinite/Max Items Slot 108
+%Credits: InterAct
+$003FCEF7 00000063
++Infinite/Max Items Slot 109
+%Credits: InterAct
+$003FCEF8 00000063
++Infinite/Max Items Slot 110
+%Credits: InterAct
+$003FCEF9 00000063
++Infinite/Max Items Slot 111
+%Credits: InterAct
+$003FCEFA 00000063
++Infinite/Max Items Slot 112
+%Credits: InterAct
+$003FCEFB 00000063
++Infinite/Max Items Slot 113
+%Credits: InterAct
+$003FCEFC 00000063
++Infinite/Max Items Slot 114
+%Credits: InterAct
+$003FCEFD 00000063
++Infinite/Max Items Slot 115
+%Credits: InterAct
+$003FCEFE 00000063
++Infinite/Max Items Slot 116
+%Credits: InterAct
+$003FCEFF 00000063
++Infinite/Max Items Slot 117
+%Credits: InterAct
+$003FCF00 00000063
++Infinite/Max Items Slot 118
+%Credits: InterAct
+$003FCF01 00000063
++Infinite/Max Items Slot 119
+%Credits: InterAct
+$003FCF02 00000063
++Infinite/Max Items Slot 120
+%Credits: InterAct
+$003FCF03 00000063
++Infinite/Max Items Slot 121
+%Credits: InterAct
+$003FCF04 00000063
++Infinite/Max Items Slot 122
+%Credits: InterAct
+$003FCF05 00000063
++Infinite/Max Items Slot 123
+%Credits: InterAct
+$003FCF06 00000063
++Infinite/Max Items Slot 124
+%Credits: InterAct
+$003FCF07 00000063
++Infinite/Max Items Slot 125
+%Credits: InterAct
+$003FCF08 00000063
++Infinite/Max Items Slot 126
+%Credits: InterAct
+$003FCF09 00000063
++Infinite/Max Items Slot 127
+%Credits: InterAct
+$003FCF0A 00000063
++Infinite/Max Items Slot 128
+%Credits: InterAct
+$003FCF0B 00000063
++Infinite/Max Items Slot 129
+%Credits: InterAct
+$003FCF0C 00000063
++Infinite/Max Items Slot 130
+%Credits: InterAct
+$003FCF0D 00000063
++Infinite/Max Items Slot 131
+%Credits: InterAct
+$003FCF0E 00000063
++Infinite/Max Items Slot 132
+%Credits: InterAct
+$003FCF0F 00000063
++Infinite/Max Items Slot 133
+%Credits: InterAct
+$003FCF10 00000063
++Infinite/Max Items Slot 134
+%Credits: InterAct
+$003FCF11 00000063
++Infinite/Max Items Slot 135
+%Credits: InterAct
+$003FCF12 00000063
++Infinite/Max Items Slot 136
+%Credits: InterAct
+$003FCF13 00000063
++Infinite/Max Items Slot 137
+%Credits: InterAct
+$003FCF14 00000063
++Infinite/Max Items Slot 138
+%Credits: InterAct
+$003FCF15 00000063
++Infinite/Max Items Slot 139
+%Credits: InterAct
+$003FCF16 00000063
++Infinite/Max Items Slot 140
+%Credits: InterAct
+$003FCF17 00000063
++Infinite/Max Items Slot 141
+%Credits: InterAct
+$003FCF18 00000063
++Infinite/Max Items Slot 142
+%Credits: InterAct
+$003FCF19 00000063
++Infinite/Max Items Slot 143
+%Credits: InterAct
+$003FCF1A 00000063
++Infinite/Max Items Slot 144
+%Credits: InterAct
+$003FCF1B 00000063
++Infinite/Max Items Slot 145
+%Credits: InterAct
+$003FCF1C 00000063
++Infinite/Max Items Slot 146
+%Credits: InterAct
+$003FCF1D 00000063
++Infinite/Max Items Slot 147
+%Credits: InterAct
+$003FCF1E 00000063
++Infinite/Max Items Slot 148
+%Credits: InterAct
+$003FCF1F 00000063
++Infinite/Max Items Slot 149
+%Credits: InterAct
+$003FCF20 00000063
++Infinite/Max Items Slot 150
+%Credits: InterAct
+$003FCF21 00000063
++Infinite/Max Items Slot 151
+%Credits: InterAct
+$003FCF22 00000063
++Infinite/Max Items Slot 152
+%Credits: InterAct
+$003FCF23 00000063
++Infinite/Max Items Slot 153
+%Credits: InterAct
+$003FCF24 00000063
++Infinite/Max Items Slot 154
+%Credits: InterAct
+$003FCF25 00000063
++Infinite/Max Items Slot 155
+%Credits: InterAct
+$003FCF26 00000063
++Infinite/Max Items Slot 156
+%Credits: InterAct
+$003FCF27 00000063
++Infinite/Max Items Slot 157
+%Credits: InterAct
+$003FCF28 00000063
++Infinite/Max Items Slot 158
+%Credits: InterAct
+$003FCF29 00000063
++Infinite/Max Items Slot 159
+%Credits: InterAct
+$003FCF2A 00000063
++Infinite/Max Items Slot 160
+%Credits: InterAct
+$003FCF2B 00000063
++Infinite/Max Items Slot 161
+%Credits: InterAct
+$003FCF2C 00000063
++Infinite/Max Items Slot 162
+%Credits: InterAct
+$003FCF2D 00000063
++Infinite/Max Items Slot 163
+%Credits: InterAct
+$003FCF2E 00000063
++Infinite/Max Items Slot 164
+%Credits: InterAct
+$003FCF2F 00000063
++Infinite/Max Items Slot 165
+%Credits: InterAct
+$003FCF30 00000063
++Infinite/Max Items Slot 166
+%Credits: InterAct
+$003FCF31 00000063
++Infinite/Max Items Slot 167
+%Credits: InterAct
+$003FCF32 00000063
++Infinite/Max Items Slot 168
+%Credits: InterAct
+$003FCF33 00000063
++Infinite/Max Items Slot 169
+%Credits: InterAct
+$003FCF34 00000063
++Infinite/Max Items Slot 170
+%Credits: InterAct
+$003FCF35 00000063
++Infinite/Max Items Slot 171
+%Credits: InterAct
+$003FCF36 00000063
++Infinite/Max Items Slot 172
+%Credits: InterAct
+$003FCF37 00000063
++Infinite/Max Items Slot 173
+%Credits: InterAct
+$003FCF38 00000063
++Infinite/Max Items Slot 174
+%Credits: InterAct
+$003FCF39 00000063
++Infinite/Max Items Slot 175
+%Credits: InterAct
+$003FCF3A 00000063
++Infinite/Max Items Slot 176
+%Credits: InterAct
+$003FCF3B 00000063
++Infinite/Max Items Slot 177
+%Credits: InterAct
+$003FCF3C 00000063
++Infinite/Max Items Slot 178
+%Credits: InterAct
+$003FCF3D 00000063
++Infinite/Max Items Slot 179
+%Credits: InterAct
+$003FCF3E 00000063
++Infinite/Max Items Slot 180
+%Credits: InterAct
+$003FCF3F 00000063
++Infinite/Max Items Slot 181
+%Credits: InterAct
+$003FCF40 00000063
++Infinite/Max Items Slot 182
+%Credits: InterAct
+$003FCF41 00000063
++Infinite/Max Items Slot 183
+%Credits: InterAct
+$003FCF42 00000063
++Infinite/Max Items Slot 184
+%Credits: InterAct
+$003FCF43 00000063
++Infinite/Max Items Slot 185
+%Credits: InterAct
+$003FCF44 00000063
++Infinite/Max Items Slot 186
+%Credits: InterAct
+$003FCF45 00000063
++Infinite/Max Items Slot 187
+%Credits: InterAct
+$003FCF46 00000063
++Infinite/Max Items Slot 188
+%Credits: InterAct
+$003FCF47 00000063
++Infinite/Max Items Slot 189
+%Credits: InterAct
+$003FCF48 00000063
++Infinite/Max Items Slot 190
+%Credits: InterAct
+$003FCF49 00000063
++Infinite/Max Items Slot 191
+%Credits: InterAct
+$003FCF4A 00000063
++Infinite/Max Items Slot 192
+%Credits: InterAct
+$003FCF4B 00000063
++Infinite/Max Items Slot 193
+%Credits: InterAct
+$003FCF4C 00000063
++Infinite/Max Items Slot 194
+%Credits: InterAct
+$003FCF4D 00000063
++Infinite/Max Items Slot 195
+%Credits: InterAct
+$003FCF4E 00000063
++Infinite/Max Items Slot 196
+%Credits: InterAct
+$003FCF4F 00000063
++Infinite/Max Items Slot 197
+%Credits: InterAct
+$003FCF50 00000063
++Infinite/Max Items Slot 198
+%Credits: InterAct
+$003FCF51 00000063
++Infinite/Max Items Slot 199
+%Credits: InterAct
+$003FCF52 00000063
++Infinite/Max Items Slot 200
+%Credits: InterAct
+$003FCF53 00000063
++Infinite/Max Items Slot 201
+%Credits: InterAct
+$003FCF54 00000063
++Infinite/Max Items Slot 202
+%Credits: InterAct
+$003FCF55 00000063
++Infinite/Max Items Slot 203
+%Credits: InterAct
+$003FCF56 00000063
++Infinite/Max Items Slot 204
+%Credits: InterAct
+$003FCF57 00000063
++Infinite/Max Items Slot 205
+%Credits: InterAct
+$003FCF58 00000063
++Infinite/Max Items Slot 206
+%Credits: InterAct
+$003FCF59 00000063
++Infinite/Max Items Slot 207
+%Credits: InterAct
+$003FCF5A 00000063
++Infinite/Max Items Slot 208
+%Credits: InterAct
+$003FCF5B 00000063
++Infinite/Max Items Slot 209
+%Credits: InterAct
+$003FCF5C 00000063
++Infinite/Max Items Slot 210
+%Credits: InterAct
+$003FCF5D 00000063
++Infinite/Max Items Slot 211
+%Credits: InterAct
+$003FCF5E 00000063
++Infinite/Max Items Slot 212
+%Credits: InterAct
+$003FCF5F 00000063
++Infinite/Max Items Slot 213
+%Credits: InterAct
+$003FCF60 00000063
++Infinite/Max Items Slot 214
+%Credits: InterAct
+$003FCF61 00000063
++Infinite/Max Items Slot 215
+%Credits: InterAct
+$003FCF62 00000063
++Infinite/Max Items Slot 216
+%Credits: InterAct
+$003FCF63 00000063
++Infinite/Max Items Slot 217
+%Credits: InterAct
+$003FCF64 00000063
++Infinite/Max Items Slot 218
+%Credits: InterAct
+$003FCF65 00000063
++Infinite/Max Items Slot 219
+%Credits: InterAct
+$003FCF66 00000063
++Infinite/Max Items Slot 220
+%Credits: InterAct
+$003FCF67 00000063
++Infinite/Max Items Slot 221
+%Credits: InterAct
+$003FCF68 00000063
++Infinite/Max Items Slot 222
+%Credits: InterAct
+$003FCF69 00000063
++Infinite/Max Items Slot 223
+%Credits: InterAct
+$003FCF6A 00000063
++Infinite/Max Items Slot 224
+%Credits: InterAct
+$003FCF6B 00000063
++Infinite/Max Items Slot 225
+%Credits: InterAct
+$003FCF6C 00000063
++Infinite/Max Items Slot 226
+%Credits: InterAct
+$003FCF6D 00000063
++Infinite/Max Items Slot 227
+%Credits: InterAct
+$003FCF6E 00000063
++Infinite/Max Items Slot 228
+%Credits: InterAct
+$003FCF6F 00000063
++Infinite/Max Items Slot 229
+%Credits: InterAct
+$003FCF70 00000063
++Infinite/Max Items Slot 230
+%Credits: InterAct
+$003FCF71 00000063
++Infinite/Max Items Slot 231
+%Credits: InterAct
+$003FCF72 00000063
++Infinite/Max Items Slot 232
+%Credits: InterAct
+$003FCF73 00000063
++Infinite/Max Items Slot 233
+%Credits: InterAct
+$003FCF74 00000063
++Infinite/Max Items Slot 234
+%Credits: InterAct
+$003FCF75 00000063
++Infinite/Max Items Slot 235
+%Credits: InterAct
+$003FCF76 00000063
++Infinite/Max Items Slot 236
+%Credits: InterAct
+$003FCF77 00000063
++Infinite/Max Items Slot 237
+%Credits: InterAct
+$003FCF78 00000063
++Infinite/Max Items Slot 238
+%Credits: InterAct
+$003FCF79 00000063
++Infinite/Max Items Slot 239
+%Credits: InterAct
+$003FCF7A 00000063
++Infinite/Max Items Slot 240
+%Credits: InterAct
+$003FCF7B 00000063
++Infinite/Max Items Slot 241
+%Credits: InterAct
+$003FCF7C 00000063
++Infinite/Max Items Slot 242
+%Credits: InterAct
+$003FCF7D 00000063
++Infinite/Max Items Slot 243
+%Credits: InterAct
+$003FCF7E 00000063
++Infinite/Max Items Slot 244
+%Credits: InterAct
+$003FCF7F 00000063
++Infinite/Max Items Slot 245
+%Credits: InterAct
+$003FCF80 00000063
++Infinite/Max Items Slot 246
+%Credits: InterAct
+$003FCF81 00000063
++Infinite/Max Items Slot 247
+%Credits: InterAct
+$003FCF82 00000063
++Infinite/Max Items Slot 248
+%Credits: InterAct
+$003FCF83 00000063
++Infinite/Max Items Slot 249
+%Credits: InterAct
+$003FCF84 00000063
++Infinite/Max Items Slot 250
+%Credits: InterAct
+$003FCF85 00000063
+!!
+!Item Modifier Codes (Part 1):
++Slot 1
+%Credits: Code Master
+$103FC52C 00000???
++Slot 2
+%Credits: Code Master
+$103FC52D 00000???
++Slot 3
+%Credits: Code Master
+$103FC52E 00000???
++Slot 4
+%Credits: Code Master
+$103FC52F 00000???
++Slot 5
+%Credits: Code Master
+$103FC530 00000???
++Slot 6
+%Credits: Code Master
+$103FC531 00000???
++Slot 7
+%Credits: Code Master
+$103FC532 00000???
++Slot 8
+%Credits: Code Master
+$103FC533 00000???
++Slot 9
+%Credits: Code Master
+$103FC534 00000???
++Slot 10
+%Credits: Code Master
+$103FC535 00000???
++Slot 11
+%Credits: Code Master
+$103FC536 00000???
++Slot 12
+%Credits: Code Master
+$103FC537 00000???
++Slot 13
+%Credits: Code Master
+$103FC538 00000???
++Slot 14
+%Credits: Code Master
+$103FC539 00000???
++Slot 15
+%Credits: Code Master
+$103FC53A 00000???
++Slot 16
+%Credits: Code Master
+$103FC53B 00000???
++Slot 17
+%Credits: Code Master
+$103FC53C 00000???
++Slot 18
+%Credits: Code Master
+$103FC53D 00000???
++Slot 19
+%Credits: Code Master
+$103FC53E 00000???
++Slot 20
+%Credits: Code Master
+$103FC53F 00000???
++Slot 21
+%Credits: Code Master
+$103FC540 00000???
++Slot 22
+%Credits: Code Master
+$103FC541 00000???
++Slot 23
+%Credits: Code Master
+$103FC542 00000???
++Slot 24
+%Credits: Code Master
+$103FC543 00000???
++Slot 25
+%Credits: Code Master
+$103FC544 00000???
++Slot 26
+%Credits: Code Master
+$103FC545 00000???
++Slot 27
+%Credits: Code Master
+$103FC546 00000???
++Slot 28
+%Credits: Code Master
+$103FC547 00000???
++Slot 29
+%Credits: Code Master
+$103FC548 00000???
++Slot 30
+%Credits: Code Master
+$103FC549 00000???
++Slot 31
+%Credits: Code Master
+$103FC54A 00000???
++Slot 32
+%Credits: Code Master
+$103FC54B 00000???
++Slot 33
+%Credits: Code Master
+$103FC54C 00000???
++Slot 34
+%Credits: Code Master
+$103FC54D 00000???
++Slot 35
+%Credits: Code Master
+$103FC54E 00000???
++Slot 36
+%Credits: Code Master
+$103FC54F 00000???
++Slot 37
+%Credits: Code Master
+$103FC550 00000???
++Slot 38
+%Credits: Code Master
+$103FC551 00000???
++Slot 39
+%Credits: Code Master
+$103FC552 00000???
++Slot 40
+%Credits: Code Master
+$103FC553 00000???
++Slot 41
+%Credits: Code Master
+$103FC554 00000???
++Slot 42
+%Credits: Code Master
+$103FC555 00000???
++Slot 43
+%Credits: Code Master
+$103FC556 00000???
++Slot 44
+%Credits: Code Master
+$103FC557 00000???
++Slot 45
+%Credits: Code Master
+$103FC558 00000???
++Slot 46
+%Credits: Code Master
+$103FC559 00000???
++Slot 47
+%Credits: Code Master
+$103FC55A 00000???
++Slot 48
+%Credits: Code Master
+$103FC55B 00000???
++Slot 49
+%Credits: Code Master
+$103FC55C 00000???
++Slot 50
+%Credits: Code Master
+$103FC55D 00000???
++Slot 51
+%Credits: Code Master
+$103FC55E 00000???
++Slot 52
+%Credits: Code Master
+$103FC55F 00000???
++Slot 53
+%Credits: Code Master
+$103FC560 00000???
++Slot 54
+%Credits: Code Master
+$103FC561 00000???
++Slot 55
+%Credits: Code Master
+$103FC562 00000???
++Slot 56
+%Credits: Code Master
+$103FC563 00000???
++Slot 57
+%Credits: Code Master
+$103FC564 00000???
++Slot 58
+%Credits: Code Master
+$103FC565 00000???
++Slot 59
+%Credits: Code Master
+$103FC566 00000???
++Slot 60
+%Credits: Code Master
+$103FC567 00000???
++Slot 61
+%Credits: Code Master
+$103FC568 00000???
++Slot 62
+%Credits: Code Master
+$103FC569 00000???
++Slot 63
+%Credits: Code Master
+$103FC56A 00000???
++Slot 64
+%Credits: Code Master
+$103FC56B 00000???
++Slot 65
+%Credits: Code Master
+$103FC56C 00000???
++Slot 66
+%Credits: Code Master
+$103FC56D 00000???
++Slot 67
+%Credits: Code Master
+$103FC56E 00000???
++Slot 68
+%Credits: Code Master
+$103FC56F 00000???
++Slot 69
+%Credits: Code Master
+$103FC570 00000???
++Slot 70
+%Credits: Code Master
+$103FC571 00000???
++Slot 71
+%Credits: Code Master
+$103FC572 00000???
++Slot 72
+%Credits: Code Master
+$103FC573 00000???
++Slot 73
+%Credits: Code Master
+$103FC574 00000???
++Slot 74
+%Credits: Code Master
+$103FC575 00000???
++Slot 75
+%Credits: Code Master
+$103FC576 00000???
++Slot 76
+%Credits: Code Master
+$103FC577 00000???
++Slot 77
+%Credits: Code Master
+$103FC578 00000???
++Slot 78
+%Credits: Code Master
+$103FC579 00000???
++Slot 79
+%Credits: Code Master
+$103FC57A 00000???
++Slot 80
+%Credits: Code Master
+$103FC57B 00000???
++Slot 81
+%Credits: Code Master
+$103FC57C 00000???
++Slot 82
+%Credits: Code Master
+$103FC57D 00000???
++Slot 83
+%Credits: Code Master
+$103FC57E 00000???
++Slot 84
+%Credits: Code Master
+$103FC57F 00000???
++Slot 85
+%Credits: Code Master
+$103FC580 00000???
++Slot 86
+%Credits: Code Master
+$103FC581 00000???
++Slot 87
+%Credits: Code Master
+$103FC582 00000???
++Slot 88
+%Credits: Code Master
+$103FC583 00000???
++Slot 89
+%Credits: Code Master
+$103FC584 00000???
++Slot 90
+%Credits: Code Master
+$103FC585 00000???
++Slot 91
+%Credits: Code Master
+$103FC586 00000???
++Slot 92
+%Credits: Code Master
+$103FC587 00000???
++Slot 93
+%Credits: Code Master
+$103FC588 00000???
++Slot 94
+%Credits: Code Master
+$103FC589 00000???
++Slot 95
+%Credits: Code Master
+$103FC58A 00000???
++Slot 96
+%Credits: Code Master
+$103FC58B 00000???
++Slot 97
+%Credits: Code Master
+$103FC58C 00000???
++Slot 98
+%Credits: Code Master
+$103FC58D 00000???
++Slot 99
+%Credits: Code Master
+$103FC58E 00000???
++Slot 100
+%Credits: Code Master
+$103FC58F 00000???
+!!
+!Item Modifier Codes (Part 2):
++Slot 101
+%Credits: Code Master
+$103FC590 00000???
++Slot 102
+%Credits: Code Master
+$103FC591 00000???
++Slot 103
+%Credits: Code Master
+$103FC592 00000???
++Slot 104
+%Credits: Code Master
+$103FC593 00000???
++Slot 105
+%Credits: Code Master
+$103FC594 00000???
++Slot 106
+%Credits: Code Master
+$103FC595 00000???
++Slot 107
+%Credits: Code Master
+$103FC596 00000???
++Slot 108
+%Credits: Code Master
+$103FC597 00000???
++Slot 109
+%Credits: Code Master
+$103FC598 00000???
++Slot 110
+%Credits: Code Master
+$103FC599 00000???
++Slot 111
+%Credits: Code Master
+$103FC59A 00000???
++Slot 112
+%Credits: Code Master
+$103FC59B 00000???
++Slot 113
+%Credits: Code Master
+$103FC59C 00000???
++Slot 114
+%Credits: Code Master
+$103FC59D 00000???
++Slot 115
+%Credits: Code Master
+$103FC59E 00000???
++Slot 116
+%Credits: Code Master
+$103FC59F 00000???
++Slot 117
+%Credits: Code Master
+$103FC5A0 00000???
++Slot 118
+%Credits: Code Master
+$103FC5A1 00000???
++Slot 119
+%Credits: Code Master
+$103FC5A2 00000???
++Slot 120
+%Credits: Code Master
+$103FC5A3 00000???
++Slot 121
+%Credits: Code Master
+$103FC5A4 00000???
++Slot 122
+%Credits: Code Master
+$103FC5A5 00000???
++Slot 123
+%Credits: Code Master
+$103FC5A6 00000???
++Slot 124
+%Credits: Code Master
+$103FC5A7 00000???
++Slot 125
+%Credits: Code Master
+$103FC5A8 00000???
++Slot 126
+%Credits: Code Master
+$103FC5A9 00000???
++Slot 127
+%Credits: Code Master
+$103FC5AA 00000???
++Slot 128
+%Credits: Code Master
+$103FC5AB 00000???
++Slot 129
+%Credits: Code Master
+$103FC5AC 00000???
++Slot 130
+%Credits: Code Master
+$103FC5AD 00000???
++Slot 131
+%Credits: Code Master
+$103FC5AE 00000???
++Slot 132
+%Credits: Code Master
+$103FC5AF 00000???
++Slot 133
+%Credits: Code Master
+$103FC5B0 00000???
++Slot 134
+%Credits: Code Master
+$103FC5B1 00000???
++Slot 135
+%Credits: Code Master
+$103FC5B2 00000???
++Slot 136
+%Credits: Code Master
+$103FC5B3 00000???
++Slot 137
+%Credits: Code Master
+$103FC5B4 00000???
++Slot 138
+%Credits: Code Master
+$103FC5B5 00000???
++Slot 139
+%Credits: Code Master
+$103FC5B6 00000???
++Slot 140
+%Credits: Code Master
+$103FC5B7 00000???
++Slot 141
+%Credits: Code Master
+$103FC5B8 00000???
++Slot 142
+%Credits: Code Master
+$103FC5B9 00000???
++Slot 143
+%Credits: Code Master
+$103FC5BA 00000???
++Slot 144
+%Credits: Code Master
+$103FC5BB 00000???
++Slot 145
+%Credits: Code Master
+$103FC5BC 00000???
++Slot 146
+%Credits: Code Master
+$103FC5BD 00000???
++Slot 147
+%Credits: Code Master
+$103FC5BE 00000???
++Slot 148
+%Credits: Code Master
+$103FC5BF 00000???
++Slot 149
+%Credits: Code Master
+$103FC5C0 00000???
++Slot 150
+%Credits: Code Master
+$103FC5C1 00000???
++Slot 151
+%Credits: Code Master
+$103FC5C2 00000???
++Slot 152
+%Credits: Code Master
+$103FC5C3 00000???
++Slot 153
+%Credits: Code Master
+$103FC5C4 00000???
++Slot 154
+%Credits: Code Master
+$103FC5C5 00000???
++Slot 155
+%Credits: Code Master
+$103FC5C6 00000???
++Slot 156
+%Credits: Code Master
+$103FC5C7 00000???
++Slot 157
+%Credits: Code Master
+$103FC5C8 00000???
++Slot 158
+%Credits: Code Master
+$103FC5C9 00000???
++Slot 159
+%Credits: Code Master
+$103FC5CA 00000???
++Slot 160
+%Credits: Code Master
+$103FC5CB 00000???
++Slot 161
+%Credits: Code Master
+$103FC5CC 00000???
++Slot 162
+%Credits: Code Master
+$103FC5CD 00000???
++Slot 163
+%Credits: Code Master
+$103FC5CE 00000???
++Slot 164
+%Credits: Code Master
+$103FC5CF 00000???
++Slot 165
+%Credits: Code Master
+$103FC5D0 00000???
++Slot 166
+%Credits: Code Master
+$103FC5D1 00000???
++Slot 167
+%Credits: Code Master
+$103FC5D2 00000???
++Slot 168
+%Credits: Code Master
+$103FC5D3 00000???
++Slot 169
+%Credits: Code Master
+$103FC5D4 00000???
++Slot 170
+%Credits: Code Master
+$103FC5D5 00000???
++Slot 171
+%Credits: Code Master
+$103FC5D6 00000???
++Slot 172
+%Credits: Code Master
+$103FC5D7 00000???
++Slot 173
+%Credits: Code Master
+$103FC5D8 00000???
++Slot 174
+%Credits: Code Master
+$103FC5D9 00000???
++Slot 175
+%Credits: Code Master
+$103FC5DA 00000???
++Slot 176
+%Credits: Code Master
+$103FC5DB 00000???
++Slot 177
+%Credits: Code Master
+$103FC5DC 00000???
++Slot 178
+%Credits: Code Master
+$103FC5DD 00000???
++Slot 179
+%Credits: Code Master
+$103FC5DE 00000???
++Slot 180
+%Credits: Code Master
+$103FC5DF 00000???
++Slot 181
+%Credits: Code Master
+$103FC5E0 00000???
++Slot 182
+%Credits: Code Master
+$103FC5E1 00000???
++Slot 183
+%Credits: Code Master
+$103FC5E2 00000???
++Slot 184
+%Credits: Code Master
+$103FC5E3 00000???
++Slot 185
+%Credits: Code Master
+$103FC5E4 00000???
++Slot 186
+%Credits: Code Master
+$103FC5E5 00000???
++Slot 187
+%Credits: Code Master
+$103FC5E6 00000???
++Slot 188
+%Credits: Code Master
+$103FC5E7 00000???
++Slot 189
+%Credits: Code Master
+$103FC5E8 00000???
++Slot 190
+%Credits: Code Master
+$103FC5E9 00000???
++Slot 191
+%Credits: Code Master
+$103FC5EA 00000???
++Slot 192
+%Credits: Code Master
+$103FC5EB 00000???
++Slot 193
+%Credits: Code Master
+$103FC5EC 00000???
++Slot 194
+%Credits: Code Master
+$103FC5ED 00000???
++Slot 195
+%Credits: Code Master
+$103FC5EE 00000???
++Slot 196
+%Credits: Code Master
+$103FC5EF 00000???
++Slot 197
+%Credits: Code Master
+$103FC5F0 00000???
++Slot 198
+%Credits: Code Master
+$103FC5F1 00000???
++Slot 199
+%Credits: Code Master
+$103FC5F2 00000???
++Slot 200
+%Credits: Code Master
+$103FC5F3 00000???
+!!
+!Kazan Codes:
++Always 1 For Next Level
+%Credits: iyeru42
+$203FE0F4 00000001
++Always Low Current Weight
+%Credits: Code Master
+$003FB881 00000000
++Armor Equipped Modifier
+%Credits: Code Master
+$103FE182 00000???
++Gloves Equipped Modifier
+%Credits: Code Master
+$103FE184 00000???
++Have All Arts
+%Credits: InterAct
+$203FE1E0 22211300
+$203FE1E4 26252423
+$203FE1E8 2A292827
+$203FE1EC 2E2D2C2B
+$203FE1F0 3231302F
+$203FE1F4 00000033
++Have All Arts
+%Credits: Code Master
+$203FE1E0 201F1500
+$203FE1E4 24232221
+$203FE1E8 28272625
+$203FE1EC 2C2B2A29
+$203FE1F0 302F2E2D
+$203FE1F4 00333231
++Have All Nicknames
+%Credits: InterAct
+$203FE0E0 C0001FFF
+$103FE0E4 00007FFF
++Have All Nicknames
+%Credits: Code Master
+$203FE0E0 C0001FFF
+$203FE0E4 00007FFF
++Have All Origin Abilities
+%Credits: Code Master
+$203FE1D0 23222104
+$203FE1D4 00000024
++Infinite AP
+%Credits: Code Master
+$003FB883 000000FF
++Infinite HP
+%Credits: iyeru42
+$103FB862 0000270F
++Infinite MP
+%Credits: iyeru42
+$103FB866 0000270F
++Level 99
+%Credits: Code Master
+$003FE202 00000063
++Max Agility
+%Credits: InterAct
+$103FB872 000003E7
++Max AP
+%Credits: Code Master
+$003FB882 000000FF
++Max CHA
+%Credits: Code Master
+$103FB874 000003E7
++Max Defense High
+%Credits: InterAct
+$103FB86A 000003E7
++Max Defense Low
+%Credits: InterAct
+$103FB86C 000003E7
++Max EXP
+%Credits: InterAct
+$203FE0EC 05F5E0FF
++Max EXP
+%Credits: Code Master
+$203FE0EC 0098967F
++Max HP
+%Credits: InterAct
+$203FB860 270F270F
++Max HP
+%Credits: iyeru42
+$103FB860 0000270F
++Max Infinite MP
+%Credits: Code Master
+$203FB864 270F270F
++Max INT
+%Credits: Code Master
+$103FB86E 000003E7
++Max MEN
+%Credits: Code Master
+$103FB870 000003E7
++Max MP
+%Credits: iyeru42
+$103FB864 0000270F
++Max Origin EXP
+%Credits: Code Master
+$203FE0F0 05F5E0FF
++Max STR
+%Credits: Code Master
+$103FB868 000003E7
++Max Total Weight
+%Credits: Code Master
+$003FB880 000000FF
++Max/Infinite AP
+%Credits: iyeru42
+$103FB882 0000FFFF
++Other Equipped Modifier
+%Credits: Code Master
+$103FE188 00000???
++Quick Level Up
+%Credits: Code Master
+$103FE0EC 0000FFFF
++Shoes Equipped Modifier
+%Credits: Code Master
+$103FE186 00000???
++Sword Equipped Modifier
+%Credits: Code Master
+$103FE180 00000???
+!!
+!Lang Codes:
++Always 1 For Next Level
+%Credits: iyeru42
+$203FDD44 00000001
++Always Low Current Weight
+%Credits: Code Master
+$003FB7F1 00000000
++Armor Equipped Modifier
+%Credits: Code Master
+$103FDDD2 00000???
++Gloves Equipped Modifier
+%Credits: Code Master
+$103FDDD4 00000???
++Have All Arts
+%Credits: InterAct
+$203FDE30 02011900
+$203FDE34 06050403
+$203FDE38 0A090807
+$203FDE3C 0E0D0C0B
+$203FDE40 1211100F
+$203FDE44 16151413
+$203FDE48 00191817
++Have All Nicknames
+%Credits: InterAct
+$203FDD30 C0001FFF
+$203FDD34 7FFFFFFF
++Have All Origin Abilities
+%Credits: Code Master
+$203FDE20 03020105
+$203FDE24 00000504
++Infinite AP
+%Credits: Code Master
+$003FB7F3 000000FF
++Infinite HP
+%Credits: iyeru42
+$103FB7D2 0000270F
++Infinite MP
+%Credits: iyeru42
+$103FB7D6 0000270F
++Level 99
+%Credits: Code Master
+$003FDE52 00000063
++Max Agility
+%Credits: InterAct
+$103FB7E2 000003E7
++Max AP
+%Credits: Code Master
+$003FB7F2 000000FF
++Max CHA
+%Credits: Code Master
+$103FB7E4 000003E7
++Max Defense High
+%Credits: InterAct
+$103FB7DA 000003E7
++Max Defense Low
+%Credits: InterAct
+$103FB7DC 000003E7
++Max EXP
+%Credits: InterAct
+$203FDD3C 05F5E0FF
++Max EXP
+%Credits: Code Master
+$203FDD3C 0098967F
++Max HP
+%Credits: iyeru42
+$103FB7D0 0000270F
++Max HP
+%Credits: InterAct
+$203FB7D0 270F270F
++Max Infinite MP
+%Credits: Code Master
+$203FB7D4 270F270F
++Max INT
+%Credits: Code Master
+$103FB7DE 000003E7
++Max MEN
+%Credits: Code Master
+$103FB7E0 000003E7
++Max MP
+%Credits: iyeru42
+$103FB7D4 0000270F
++Max Origin EXP
+%Credits: Code Master
+$203FDD40 05F5E0FF
++Max STR
+%Credits: Code Master
+$103FB7D8 000003E7
++Max Total Weight
+%Credits: Code Master
+$003FB7F0 000000FF
++Max/Infinite AP
+%Credits: iyeru42
+$103FB7F2 0000FFFF
++Other Equipped Modifier
+%Credits: Code Master
+$103FDDD8 00000???
++Quick Level Up
+%Credits: Code Master
+$103FDD3C 0000FFFF
++Shoes Equipped Modifier
+%Credits: Code Master
+$103FDDD6 00000???
++Sword Equipped Modifier
+%Credits: Code Master
+$103FDDD0 00000???
+!!
++Max And Infinite Money
+%Credits: Codejunkies
+$203FC3B8 05F5E0FF
+!Maya Codes:
++Always 1 For Next Level
+%Credits: iyeru42
+$203FDF1C 00000001
++Always Low Current Weight
+%Credits: Code Master
+$003FB839 00000000
++Armor Equipped Modifier
+%Credits: Code Master
+$103FDFAA 00000???
++Gloves Equipped Modifier
+%Credits: Code Master
+$103FDFAC 00000???
++Have All Arts
+%Credits: Code Master
+$203FE008 7A791B00
+$203FE00C 7E7D7C7B
+$203FE010 8281807F
+$203FE014 86858483
+$203FE018 8A898887
+$203FE01C 8E8D8C8B
+$203FE020 9291908F
+$103FE024 00000093
++Have All Nicknames
+%Credits: InterAct
+$203FDF08 C0001FFF
+$203FDF0C 0001FFFF
++Have All Origin Abilities
+%Credits: Code Master
+$203FDFF8 13121105
+$203FDFFC 00001514
++Infinite AP
+%Credits: Code Master
+$003FB83B 000000FF
++Infinite HP
+%Credits: iyeru42
+$103FB81A 0000270F
++Infinite MP
+%Credits: iyeru42
+$103FB81E 0000270F
++Level 99
+%Credits: Code Master
+$003FE02A 00000063
++Max Agility
+%Credits: InterAct
+$103FB82A 000003E7
++Max AP
+%Credits: Code Master
+$003FB83A 000000FF
++Max CHA
+%Credits: Code Master
+$103FB82C 000003E7
++Max Defense High
+%Credits: InterAct
+$103FB822 000003E7
++Max Defense Low
+%Credits: InterAct
+$103FB824 000003E7
++Max EXP
+%Credits: InterAct
+$203FDF14 05F5E0FF
++Max EXP
+%Credits: Code Master
+$203FDF14 0098967F
++Max HP
+%Credits: iyeru42
+$103FB818 0000270F
++Max HP
+%Credits: InterAct
+$203FB818 270F270F
++Max Infinite MP
+%Credits: Code Master
+$203FB81C 270F270F
++Max INT
+%Credits: Code Master
+$103FB826 000003E7
++Max MEN
+%Credits: Code Master
+$103FB828 000003E7
++Max MP
+%Credits: iyeru42
+$103FB81C 0000270F
++Max Origin EXP
+%Credits: Code Master
+$203FDF18 05F5E0FF
++Max STR
+%Credits: Code Master
+$103FB820 000003E7
++Max Total Weight
+%Credits: Code Master
+$003FB838 000000FF
++Max/Infinite AP
+%Credits: iyeru42
+$103FB83A 0000FFFF
++Other Equipped Modifier
+%Credits: Code Master
+$103FDFB0 00000???
++Quick Level Up
+%Credits: Code Master
+$103FDF14 0000FFFF
++Shoes Equipped Modifier
+%Credits: Code Master
+$103FDFAE 00000???
++Sword Equipped Modifier
+%Credits: Code Master
+$103FDFA8 00000???
+!!
+!Misc. Codes:
++Infinite Money
+%Credits: iyeru42
+$103FC3B8 0000FFFF
++Max Money
+%Credits: iyeru42
+$203FC3B8 0098967F
++No Random Battles
+%Credits: iyeru42
+$102BC80E 00001000
+!!
+!Miscellaneous Codes:
++Code Breaker Version 6+ Enable Code (Must Be On)
+%Credits: Code Master
+$902C9B04 0C0B707C
++Debug Mode {<I>Press L1 + L2 + R1 + R2 To Bring The Debug Menu On Screen. You Can Also Press R2 For Debug Memory Usage Information And Select + Start For Another Debug Option.</I>}
+%Credits: punk7890
+$204A4200 00000000
++Save Anywhere
+%Credits: Code Master
+$10422D28 00000001
++Walk Twice As Fast
+%Credits: Code Master
+$204A3EA0 40000000
+!!
+!Origin Codes:
++Arrode All Abilities
+%Credits: InterAct
+$203FE3A8 31323303
++Arrode Has Max Experience
+%Credits: Codejunkies
+$203FE2C8 05F5E0FF
+$203FE3A8 31323303
++Arrode Max EXP
+%Credits: InterAct
+$203FE2C8 05F5E0FF
++Galea All Abilities
+%Credits: InterAct
+$203FDE20 03020105
+$103FDE24 00000504
++Rivas All Abilities
+%Credits: InterAct
+$203FDFF8 13141505
+$203FDFFC 00001112
+!!
++Save Anywhere (Press R1+Circle)
+%Credits: 12345
+$D053CD02 0000D7FF
+$10422D28 00000001
+!Sharon Codes:
++Always 1 For Next Level
+%Credits: iyeru42
+$203FE2CC 00000001
++Always Low Current Weight
+%Credits: Code Master
+$003FB8C9 00000000
++Armor Equipped Modifier
+%Credits: Code Master
+$103FE35A 00000???
++Gloves Equipped Modifier
+%Credits: Code Master
+$103FE35C 00000???
++Have All Arts
+%Credits: InterAct
+$203FE3B8 3E3D1700
+$203FE3BC 4241403F
+$203FE3C0 46454443
+$203FE3C4 4A494847
+$203FE3C8 4E4D4C4B
+$203FE3CC 5251504F
+$203FE3D0 00000053
++Have All Arts
+%Credits: Code Master
+$203FE3B8 3E3D1700
+$203FE3BC 4241403F
+$203FE3C0 46454443
+$203FE3C4 4A494847
+$203FE3C8 4E4D4C4B
+$203FE3CC 5251504F
+$103FE3D0 00000053
++Have All Nicknames
+%Credits: InterAct
+$203FE2B8 C0001FFF
+$203FE2BC 00001FFF
++Have All Origin Abilities
+%Credits: Code Master
+$203FE3A8 31323303
+$203FE3A0 00000000
++Infinite AP
+%Credits: Code Master
+$003FB8CB 000000FF
++Infinite HP
+%Credits: iyeru42
+$103FB8AA 0000270F
++Infinite MP
+%Credits: iyeru42
+$103FB8AE 0000270F
++Level 99
+%Credits: Code Master
+$003FE3DA 00000063
++Max Agility
+%Credits: InterAct
+$103FB8BA 000003E7
++Max AP
+%Credits: Code Master
+$003FB8CA 000000FF
++Max CHA
+%Credits: Code Master
+$103FB8BC 000003E7
++Max Defense High
+%Credits: InterAct
+$103FB8B2 000003E7
++Max Defense Low
+%Credits: InterAct
+$103FB8B4 000003E7
++Max EXP
+%Credits: InterAct
+$203FE2C4 05F5E0FF
++Max EXP
+%Credits: Code Master
+$203FE2C4 0098967F
++Max HP
+%Credits: InterAct
+$203FB8A8 270F270F
++Max HP
+%Credits: iyeru42
+$103FB8A8 0000270F
++Max Infinite MP
+%Credits: Code Master
+$203FB8AC 270F270F
++Max INT
+%Credits: Code Master
+$103FB8B6 000003E7
++Max MEN
+%Credits: Code Master
+$103FB8B8 000003E7
++Max MP
+%Credits: iyeru42
+$103FB8AC 0000270F
++Max STR
+%Credits: Code Master
+$103FB8B0 000003E7
++Max Total Weight
+%Credits: Code Master
+$003FB8C8 000000FF
++Max/Infinite AP
+%Credits: iyeru42
+$103FB8CA 0000FFFF
++Other Equipped Modifier
+%Credits: Code Master
+$103FE360 00000???
++Quick Level Up
+%Credits: Code Master
+$103FE2C4 0000FFFF
++Shoes Equipped Modifier
+%Credits: Code Master
+$103FE35E 00000???
++Sword Equipped Modifier
+%Credits: Code Master
+$103FE358 00000???
+!!
+!!
+

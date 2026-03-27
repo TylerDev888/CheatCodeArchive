@@ -1,0 +1,104 @@
+^3 = NAME: Sniper Elite (Ntsc-U)
+^2 = GameID: SLUS-21231
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$E00E0868 00410774
+$E00D0C03 00410776
+$201852B4 0806153A
+$201854E8 3C0401E0
+$201854EC 3C050008
+$201854F0 0C11A6D3
+$201854F4 3C060008
+$201854F8 0C11E13E
+$201854FC 0000202D
+$20185500 3C0501E0
+$20185504 3C040008
+$20185508 0C11A6D3
+$2018550C 3C060008
+$20185510 080614AF
+$20185514 00000000
+$F0410774 00410777
++Enable Code (Must Be On)
+%Credits: Code Master>Lajos Szalay
+$904108C4 0C11A6D3
+!!
+!This Game Requires Code Breaker PS2 V7.0 Or Higher!:
++Always High Heart Rate
+%Credits: Code Master>Lajos Szalay
+$202A8A14 3C0142C8
+$202A8A18 AE010020
++Always Low Heart Rate
+%Credits: Code Master>Lajos Szalay
+$202A8A14 3C010000
+$202A8A18 AE010020
++Extra Ammo
+%Credits: Code Master>Lajos Szalay
+$2023F188 00518021
++Extra Saves Left
+%Credits: Code Master>Lajos Szalay
+$1038683C 00000001
++Infinite Ammo
+%Credits: Code Master>Lajos Szalay
+$2023F198 00000000
++Infinite Health
+%Credits: Code Master>Lajos Szalay
+$200C0220 3C0142C8
+$200C0224 AC410028
+$200C0228 080AF1AC
+$200C022C C4400028
+$202BC6AC 08030088
++Infinite Saves Left
+%Credits: Code Master>Lajos Szalay
+$2038683C 00000000
++Max Infinite Ammo
+%Credits: Code Master>Lajos Szalay
+$2023F188 241003E7
++Max Infinite Saves Left
+%Credits: Code Master>Lajos Szalay
+$2038683C 24120063
++Never Reload
+%Credits: Code Master>Lajos Szalay
+$20244434 00000000
++Rapid Fire (Both Players)
+%Credits: Code Master>Lajos Szalay
+$2024440C 00000000
++Rapid Fire P1
+%Credits: Code Master>Lajos Szalay
+$D05C3B42 0000F7FF
+$2024440C 00000000
+$D05C3B42 0000FFFF
+$2024440C AE420014
++Rapid Fire P2
+%Credits: Code Master>Lajos Szalay
+$D05C3C82 0000F7FF
+$2024440C 00000000
+$D05C3C82 0000FFFF
+$2024440C AE420014
+!!
++Gravity/Wind/Posture/Heart Off
+%Credits: Codejunkies
+$2096AA34 00000043
++Heart Rate Always Low
+%Credits: Codejunkies
+$202A8A18 00000000
++Infinite Saves
+%Credits: Codejunkies
+$203B8630 24630000
++Lung Capacity Always 25
+%Credits: Codejunkies
+$2096AA30 00000019
++Max Points Of Fame
+%Credits: Codejunkies
+$205504CC 05F5E0FF
++Never Reload
+%Credits: Codejunkies
+$2024442C 24420000
++Stealth Suit
+%Credits: Codejunkies
+$20230BE4 24110003
+$202AD84C 24020003
+$2081D134 00000001
+$2096AA2C 00000000
+!!
+

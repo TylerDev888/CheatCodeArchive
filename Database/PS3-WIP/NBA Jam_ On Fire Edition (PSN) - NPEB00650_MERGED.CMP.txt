@@ -1,0 +1,9 @@
+^2 = GameID: NPEB00650
+^3 = NAME: NBA Jam: On Fire Edition (PSN)
+^4 = FILE: SYS-DATA
++Update Crc32 For Sys-data (required)
+(set range:0x00001C,0x03D0AB)
+$set pointer:eof+1
+$set range:0x00001C,pointer
+$set [hash]:CRC32
+$write at 0x000010:[hash]

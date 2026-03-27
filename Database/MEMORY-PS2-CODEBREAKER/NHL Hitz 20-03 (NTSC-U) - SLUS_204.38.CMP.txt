@@ -1,0 +1,71 @@
+^1 = HASH: 8EA2C9FB
+^3 = NAME: NHL Hitz 20-03
+^2 = GameID: SLUS_204.38
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master>Nick Hammond
+$F0420758 00469D17
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master>Nick Hammond
+$90469D14 0C11C077
+!!
+!Codes:
++Goal's Score Modifier
+%Credits: Code Master>Nick Hammond
+$102AF744 000000??
++All Goal's Score For Home Team
+%Credits: Code Master>Nick Hammond
+$202AF734 24040000
++All Goal's Score For Away Team
+%Credits: Code Master>Nick Hammond
+$202AF734 24040004
++Disable Checking
+%Credits: Code Master>Nick Hammond
+$2026C7F0 03E00008
+$2026C7F4 00000000
++Infinite Turbo (All Players)
+%Credits: Code Master>Nick Hammond
+$20272C94 00000000
+$20272D9C 00000000
+$20272DD0 00000000
+$2027301C 00000000
++Home Team Always Full Fire Meter
+%Credits: Code Master>Nick Hammond
+$200C0220 24010064
+$200C0224 AC4100D0
+$200C0228 24010001
+$200C022C 080DFBCD
+$200C0230 AC4100D4
+$2037EEF4 00A01021
+$2037EEF8 08030088
++Away Team Always Full Fire Meter
+%Credits: Code Master>Nick Hammond
+$200C0240 24010064
+$200C0244 AC4100D0
+$200C0248 24010001
+$200C024C 080DFC11
+$200C0250 AC4100D4
+$2037EFE8 00A01021
+$2037EFEC 08030090
++Replay Always On
+%Credits: Code Master>Nick Hammond
+$207211A8 00000001
++Replay Always Off
+%Credits: Code Master>Nick Hammond
+$207211A8 00000000
++Offsides Always On
+%Credits: Code Master>Nick Hammond
+$20721474 00000001
++Offsides Always Off
+%Credits: Code Master>Nick Hammond
+$20721474 00000000
++Puck Gravity Modifier (Default 411Ccccd)
+%Credits: Code Master>Nick Hammond
+$207218F8 ????????
++High Max Turbo
+%Credits: Code Master>Nick Hammond
+$20721F84 447A0000
++Super Max Puck Speed
+%Credits: Code Master>Nick Hammond
+$20728358 447A0000
+!!

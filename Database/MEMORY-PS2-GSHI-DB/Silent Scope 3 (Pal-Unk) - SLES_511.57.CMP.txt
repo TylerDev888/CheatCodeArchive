@@ -1,0 +1,42 @@
+^3 = NAME: Silent Scope 3 (Pal-Unk)
+^2 = GameID: SLES-51157
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F010C18C 0010C18F
+!!
+!Credit Codes:
++Good Condition
+%Credits: Codejunkies
+$20533650 3F800000
++Infinite Credits
+%Credits: Codejunkies
+$1056EA40 00000009
++Never More Than 1 Credit
+%Credits: Codejunkies
+$E0010001 3056EA40
+$1056EA40 00000001
++Never More Than 2 Credits
+%Credits: Codejunkies
+$E0010002 3056EA40
+$1056EA40 00000002
++Never More Than 3 Credits
+%Credits: Codejunkies
+$E0010003 3056EA40
+$1056EA40 00000003
++Never More Than 5 Credits
+%Credits: Codejunkies
+$E0010005 3056EA40
+$1056EA40 00000005
+!!
++Low Timer
+%Credits: Codejunkies
+$205335A8 00000000
++Open All Options
+%Credits: Codejunkies
+$20222470 24020001
++Start With 99 Credits
+%Credits: Codejunkies
+$10599B70 00000063
+!!
+

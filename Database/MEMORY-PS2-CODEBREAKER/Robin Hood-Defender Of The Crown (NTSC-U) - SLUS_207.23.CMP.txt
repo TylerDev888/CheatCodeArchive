@@ -1,0 +1,22 @@
+^3 = NAME: Robin Hood-Defender Of The Crown
+^2 = GameID: SLUS_207.23
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00159B77
+!!
+!Codes:
++Archery Kills Worth Modifier (000-3E7)
+%Credits: Code Master
+$2019A408 24020???
++Start With Archery Kills Modifier (000-3E7)
+%Credits: Code Master
+$200C0220 24010???
+$200C0224 080813F8
+$200C0228 AC4100FC
+$2019A804 0C030088
++Infinite Health (Swordfights)
+%Credits: Code Master
+$20173B80 2402005A
+$20173B88 AC8202B4
+!!

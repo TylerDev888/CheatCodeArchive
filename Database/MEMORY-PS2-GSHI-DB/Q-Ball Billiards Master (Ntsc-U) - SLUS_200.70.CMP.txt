@@ -1,0 +1,51 @@
+^3 = NAME: Q-Ball Billiards Master (Ntsc-U)
+^2 = GameID: SLUS-20070
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F010F758 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F010F758 0010F75B
++Enable Code (Must Be On)
+%Credits: Code Master>StalkerX
+$F0100008 001FF9CB
+!!
++Always P1's Turn
+%Credits: Code Master>StalkerX
+$1075BB70 00000000
++Always P2's Turn
+%Credits: Code Master>StalkerX
+$1075BB70 00000001
++P1 Score Modifier
+%Credits: Code Master>StalkerX
+$10216F2E 000000??
++P1 Start With Score Modifier
+%Credits: Code Master>StalkerX
+$D0216F2E 00000000
+$10216F2E 000000??
++P2 Score Modifier
+%Credits: Code Master>StalkerX
+$10216F58 000000??
++P2 Start With Score Modifier
+%Credits: Code Master>StalkerX
+$D0216F58 00000000
+$10216F58 000000??
+!Player 1 Points Codes:
++15 Points
+%Credits: Codejunkies
+$10216F2E 0000000F
++No Points
+%Credits: Codejunkies
+$10216F2E 00000000
+!!
+!Player 2 Points Codes:
++15 Points
+%Credits: Codejunkies
+$10216F58 0000000F
++No Points
+%Credits: Codejunkies
+$10216F58 00000000
+!!
+!!
+

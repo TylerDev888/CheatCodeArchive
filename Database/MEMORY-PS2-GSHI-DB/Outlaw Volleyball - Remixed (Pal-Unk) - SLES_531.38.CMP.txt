@@ -1,0 +1,38 @@
+^3 = NAME: Outlaw Volleyball - Remixed (Pal-Unk)
+^2 = GameID: SLES-53138
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F01001E8 001001EB
+!!
+!AR Below 3.14 Fix:
++Dummy Costumes
+%Credits: Codejunkies
+$20201344 00000000
+$20201360 00000000
++Open All Tours
+%Credits: Codejunkies
+$20134504 24010001
+$20134508 A041055E
+$201399D4 24020001
+$201399D8 A062052C
++Turbo Characters
+%Credits: Codejunkies
+$201AF6A0 00000000
+$201AF6AC 00000000
+!!
+!Speed Codes:
++Hyper Mode
+%Credits: Codejunkies
+$20249060 3C013D80
+$20249064 44810800
++Quicker Game
+%Credits: Codejunkies
+$20249060 3C013D21
+$20249064 44810800
++Slow Motion
+%Credits: Codejunkies
+$20249060 3C013C10
+$20249064 44810800
+!!
+

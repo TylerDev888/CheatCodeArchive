@@ -1,0 +1,135 @@
+^2 = GameID: CUSA39420
+^3 = NAME: Hollow Knight Silksong
+^SECONDLAYER: NO
+^4 = FILE: save[0-9]+\User.dat
++Infinite Silk Regen (switch Off Before Last Boss Act 2){Important Note: Right Before You Face The Last Boss Of The Base Game In Act 2, You Need To Remove It And Set It Back To 3 (base Max), Otherwise Your Game Will Crash Immediately After Defeating Her. I Highly Recommed, Not Modding It Back Until You've Unlocked Act 3 (true Ending) And Have Reached A Bench In There (even If You Go Back To Mod It After Defeating The Last Boss In Act 2, It Resets At The Start Of Act 3, So, No Point In Modding It Back Unitl You've Entered The Last Act)}
+%Credits: Zeraf3000
+$search ""silkRegenMax""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "99"
++Reset Silk Regen To 3
+%Credits: Zeraf3000
+$search ""silkRegenMax""
+$delete next 1:until ","
+$Insert next 1: "3"
++Max Nail Level
+%Credits: Zeraf3000
+$search ""nailUpgrades""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "4"
+! Unlock Skills
++Silk Special
+%Credits: Zeraf3000
+$search ""hasSilkSpecial""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "true"
++Needle Throw
+%Credits: Zeraf3000
+$search ""hasNeedleThrow""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "true"
++Thread Sphere
+%Credits: Zeraf3000
+$search ""hasThreadSphere""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "true"
++Parry
+%Credits: Zeraf3000
+$search ""hasParry3A
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "true"
++Harpoon Dash
+%Credits: Zeraf3000
+$search ""hasHarpoonDash""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "true"
++Silk Charge
+%Credits: Zeraf3000
+$search ""hasSilkCharge""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "true"
++Silk Bomb
+%Credits: Zeraf3000
+$search ""hasSilkBomb""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "true""
++Silk Boss Needle
+%Credits: Zeraf3000
+$search ""hasSilkBossNeedle""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "true"
++Dash
+%Credits: Zeraf3000
+$search ""hasDash""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "true"
++Brolly
+%Credits: Zeraf3000
+$search ""hasBrolly""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "true"
+!!
+!Unlock Traverse Abillities
++Wall Jump
+%Credits: Zeraf3000
+$search ""hasWalljump""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "true""
++Double Jump
+%Credits: Zeraf3000
+$search ""hasDoubleJump""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "true"
++Quill
+%Credits: Zeraf3000
+$search ""hasQuill""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "true""
++Charge Slash
+%Credits: Zeraf3000
+$search ""hasChargeSlash""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "true"
++Super Jump
+%Credits: Zeraf3000
+$search ""SuperJump""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: "true"
+!!
++Equip Any Crest Read Note{Removing Any Tools You Have On Your Current Crest Before Attempting This.be Aware That This Wil Only Mod The Equipped Crest But Will Not Add It To Your Inventory, So You'll Lose The Crest If You Change It In Game}
+%Credits: Zeraf3000
+$search ""CurrentCrestID""
+$search next 3A
+$delete next 1:until ","
+$Insert next 1: ""[Crest]""
+^6 = MODS:
+[Crest]
+Crest ID>Name 
+Hunter	Hunter
+Hunter_v2	Upgraded Hunter
+Hunter_v3	Upgraded Hunter
+Reaper	Reaper
+Wanderer	Wanderer	
+Warrior	Beast Crest
+Toolmaster	Architect Crest
+Witch	Witch	
+Spell	Shaman Crest
+Cursed	Cursed
+[/Crest]

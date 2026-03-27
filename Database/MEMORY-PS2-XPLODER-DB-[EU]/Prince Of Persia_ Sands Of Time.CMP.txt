@@ -1,0 +1,43 @@
+^3 = NAME: Prince Of Persia: Sands Of Time
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 001040E7
+!!
+!Unlimited:
++Health (Except Big Falls)
+%Credits: Xploder
+$203033F4 24013634
+$20265BB8 24013634
++Health (Farah)
+%Credits: Xploder
+$2029CB14 20020004
++Sand Tanks
+%Credits: Xploder
+$203340E4 20420008
+$2035EBBC 20420008
++Power Tanks
+%Credits: Xploder
+$2035EBE8 24420014
+$203341F4 24420014
++Slow Motion Time
+%Credits: Xploder
+$20333CC0 46000000
++Power Tanks Quick Gain
+%Credits: Xploder
+$2035EC40 24420014
+!!
+!Game Speeds:
++Half Speed
+%Credits: Xploder
+$2066CEC0 3F000000
++X2
+%Credits: Xploder
+$2066CEC0 40000000
++X3
+%Credits: Xploder
+$2066CEC0 40400000
++X4
+%Credits: Xploder
+$2066CEC0 40800000
+!!

@@ -1,0 +1,31 @@
+^3 = NAME: Gladius
+!Masters:
++Mastercode
+%Credits: Xploder
+$902A83B4 0C0AC084
+$200C2000 16400006
+$200C2004 00031020
+$200C2008 24013634
+$200C200C 00000000
+$200C2010 24010064
+$200C2014 00000000
+$200C2018 00000000
+$200C201C 03E00008
+$200C2020 84820102
+$2018A57C 0C030800
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$200C2008 A4820102
+$200C200C A4800100
++Offensive Affinity Bar
+%Credits: Xploder
+$200C2014 A481010C
++Defensive Affinity Bar{(NOTE: These Refill Each Game Turn)}
+%Credits: Xploder
+$200C2018 A4810110
++Money
+%Credits: Xploder
+$205BA18C 000F423F
+!!

@@ -1,0 +1,25 @@
+^3 = NAME: Mission Impossible: OS
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 0047D4E7
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$2020EE0C 0C030800
+$200C2000 8E440018
+$200C2004 03E00008
+$200C2008 E4620040
++Ammunition (No Reload)
+%Credits: Xploder
+$201E3404 24020063
+!!
+!Stealth:
++No Alarms
+%Credits: Xploder
+$202B89F8 24020001
++Enemies & Camera's Are Blind{(Enemies Can Still Hear You!)}
+%Credits: Xploder
+$20116138 20020001
+!!

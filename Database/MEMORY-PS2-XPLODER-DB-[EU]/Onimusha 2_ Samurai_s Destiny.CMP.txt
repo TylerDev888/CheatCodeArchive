@@ -1,0 +1,890 @@
+^3 = NAME: Onimusha 2: Samurai's Destiny
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 000001FD
+!!
+!Other:
++Unlimited Health
+%Credits: Xploder
+$21849F40 05000500
++Unlimited Gold
+%Credits: Xploder
+$2028945C 0001869F
++Maximum Souls
+%Credits: Xploder
+$2184C5E0 0001869F
+$2184C5E4 0001869F
+!!
+!Limit Maximum Health:
++Health Limit Enable Code
+%Credits: Xploder
+$200C2000 341B0004
+$200C2004 861900E2
+$200C2008 0019C883
+$200C2010 033B0018
+$200C2014 0000C812
+$200C2018 0059D82A
+$200C201C 033B100A
+$200C2020 A2002532
+$200C2024 0805D58B
+$200C2028 A60200E0
+$20175624 08030800
++75%
+%Credits: Xploder
+$200C200C 341B0003
++50%
+%Credits: Xploder
+$200C200C 341B0002
++25%
+%Credits: Xploder
+$200C200C 341B0001
+!!
+!Items:
++Herbs
+%Credits: Xploder
+$2184D3DC 00000063
++Medicine
+%Credits: Xploder
+$2184D3E4 00000063
++Secret Medicine
+%Credits: Xploder
+$2184D3EC 00000063
++Perfect Medicine
+%Credits: Xploder
+$2184D3F4 00000063
++Magic Liquid
+%Credits: Xploder
+$2184D3FC 00000063
++Special M. Liquid
+%Credits: Xploder
+$2184D404 00000063
++Super M. Liquid
+%Credits: Xploder
+$2184D40C 00000063
++Great Powder Tube
+%Credits: Xploder
+$2184D6F4 00000063
++Power Jewel
+%Credits: Xploder
+$2184D63C 00000063
++Magic Jewel
+%Credits: Xploder
+$2184D644 00000063
++Gold Scale
+%Credits: Xploder
+$2184DD0C 00000063
++Key Plate
+%Credits: Xploder
+$2184DD5C 00000063
++Scarlet Key
+%Credits: Xploder
+$2184DD54 00000063
++Snake Key
+%Credits: Xploder
+$2184DD7C 00000063
++Crescent Key
+%Credits: Xploder
+$2184DD24 00000063
++Cherry Key
+%Credits: Xploder
+$2184DD1C 00000063
++Circle Key
+%Credits: Xploder
+$2184DD64 00000063
++Golden Key
+%Credits: Xploder
+$2184DD6C 00000063
++Sacred Flute
+%Credits: Xploder
+$2184DD2C 00000063
++Nobunaga's Knowledge
+%Credits: Xploder
+$2184DD34 00000063
++Nobunaga's Reign
+%Credits: Xploder
+$2184DD3C 00000063
++Nobunaga's Dignity
+%Credits: Xploder
+$2184DD44 00000063
++Red Stone Pole
+%Credits: Xploder
+$2184D45C 00000063
++Blue Stone Pole
+%Credits: Xploder
+$2184D464 00000063
++Red Wedge
+%Credits: Xploder
+$2184D6FC 00000063
++Blue Wedge
+%Credits: Xploder
+$2184D704 00000063
++Green Wedge
+%Credits: Xploder
+$2184D70C 00000063
++Purple Wedge
+%Credits: Xploder
+$2184D714 00000063
++Ring Of Takajo
+%Credits: Xploder
+$2184D804 00000063
++Saiga Bomb
+%Credits: Xploder
+$2184D47C 00000063
++Purify Charm
+%Credits: Xploder
+$2184D7EC 00000063
++Bronze Mask (Right)
+%Credits: Xploder
+$2184DCFC 00000063
++Bronze Mask (Left)
+%Credits: Xploder
+$2184DD04 00000063
++Red Ring
+%Credits: Xploder
+$2184D41C 00000063
++Mountain Permit
+%Credits: Xploder
+$2184D414 00000063
++Fossilized Bone
+%Credits: Xploder
+$2184D7A4 00000063
++Talisman
+%Credits: Xploder
+$2184D43C 00000063
++Red Bracelet
+%Credits: Xploder
+$2184DF64 00000063
++Green Bracelet
+%Credits: Xploder
+$2184DF6C 00000063
++Blue Bracelet
+%Credits: Xploder
+$2184DF74 00000063
++Yellow Bracelet
+%Credits: Xploder
+$2184DF7C 00000063
++Buraitou Tech.1
+%Credits: Xploder
+$2184DECC 00000063
++Buraitou Tech.2
+%Credits: Xploder
+$2184DED4 00000063
++Hyoujin-Yari Tech.1
+%Credits: Xploder
+$2184DEE4 00000063
++Hyoujin-Yari Tech.2
+%Credits: Xploder
+$2184DEEC 00000063
++Senpumaru Tech.1
+%Credits: Xploder
+$2184DEFC 00000063
++Senpumaru Tech.2
+%Credits: Xploder
+$2184DF04 00000063
++Dokoutusi Tech.1
+%Credits: Xploder
+$2184DF14 00000063
++Dokoutusi Tech.2
+%Credits: Xploder
+$2184DF1C 00000063
++Buraitou Secret
+%Credits: Xploder
+$2184DF3C 00000063
++Hyoujin-Yari Secret
+%Credits: Xploder
+$2184DF44 00000063
++Senpumaru Secret
+%Credits: Xploder
+$2184DF4C 00000063
++Dokoutusui Secret
+%Credits: Xploder
+$2184DF54 00000063
++Charity Orb
+%Credits: Xploder
+$2184DCD4 00000063
++Faith Orb
+%Credits: Xploder
+$2184DCDC 00000063
++Honesty Orb
+%Credits: Xploder
+$2184DCE4 00000063
++Respect Orb
+%Credits: Xploder
+$2184DCEC 00000063
++Strength Orb
+%Credits: Xploder
+$2184DCF4 00000063
++Ekei's Keepsake
+%Credits: Xploder
+$2184DB5C 00000063
++Fashionable Goods
+%Credits: Xploder
+$2184DD4C 00000063
++Normal Bullet
+%Credits: Xploder
+$2184DD94 00000063
++Burst Bullet
+%Credits: Xploder
+$2184DD9C 00000063
++Normal Arrow
+%Credits: Xploder
+$2184DDB4 00000063
++Fire Arrow
+%Credits: Xploder
+$2184DDBC 00000063
++Film 1
+%Credits: Xploder
+$2184E004 00000063
++Film 2
+%Credits: Xploder
+$2184E00C 00000063
++Film 3
+%Credits: Xploder
+$2184E014 00000063
++Film 4
+%Credits: Xploder
+$2184E01C 00000063
++Film 5
+%Credits: Xploder
+$2184E024 00000063
++Film 6
+%Credits: Xploder
+$2184E02C 00000063
++Film 7
+%Credits: Xploder
+$2184E034 00000063
++Film 8
+%Credits: Xploder
+$2184E03C 00000063
++Film 9
+%Credits: Xploder
+$2184E044 00000063
++Film 10
+%Credits: Xploder
+$2184E04C 00000063
++Film 11
+%Credits: Xploder
+$2184E054 00000063
++Film 12
+%Credits: Xploder
+$2184E05C 00000063
++Film 13
+%Credits: Xploder
+$2184E064 00000063
++Film 14
+%Credits: Xploder
+$2184E06C 00000063
++Film 15
+%Credits: Xploder
+$2184E074 00000063
++Film 16
+%Credits: Xploder
+$2184E07C 00000063
++Film 17
+%Credits: Xploder
+$2184E084 00000063
++Film 18
+%Credits: Xploder
+$2184E08C 00000063
++Film 19
+%Credits: Xploder
+$2184E094 00000063
++Film 20
+%Credits: Xploder
+$2184E09C 00000063
+!!
+!Gifts:
++Abacus
+%Credits: Xploder
+$2184D594 00000001
++Ancient Coin
+%Credits: Xploder
+$2184D564 00000001
++Ancient Documents
+%Credits: Xploder
+$2184D694 00000001
++Ashura Garment
+%Credits: Xploder
+$2184DBDC 00000001
++Beetle
+%Credits: Xploder
+$2184DF8C 00000001
++Black Beer
+%Credits: Xploder
+$2184D4C4 00000001
++Black Pill
+%Credits: Xploder
+$2184D724 00000001
++Blue Parrot
+%Credits: Xploder
+$2184DFF4 00000001
++Bouquet
+%Credits: Xploder
+$2184D7C4 00000001
++Bread
+%Credits: Xploder
+$2184D504 00000001
++Broken Bell
+%Credits: Xploder
+$2184D584 00000001
++Brown Chick
+%Credits: Xploder
+$2184D624 00000001
++Brown Chicken
+%Credits: Xploder
+$2184D7B4 00000001
++Brown Egg
+%Credits: Xploder
+$2184D57C 00000001
++Calligraphy Kit
+%Credits: Xploder
+$2184D7BC 00000001
++Cameo
+%Credits: Xploder
+$2184D6AC 00000001
++Chalk
+%Credits: Xploder
+$2184D7E4 00000001
++Chick
+%Credits: Xploder
+$2184DFCC 00000001
++Chicken
+%Credits: Xploder
+$2184DFD4 00000001
++Chinese Fiddle
+%Credits: Xploder
+$2184D554 00000001
++Cloth
+%Credits: Xploder
+$2184D79C 00000001
++Comb
+%Credits: Xploder
+$2184D64C 00000001
++Conch Shell
+%Credits: Xploder
+$2184D494 00000001
++Confetti
+%Credits: Xploder
+$2184D72C 00000001
++Copper Coin
+%Credits: Xploder
+$2184D55C 00000001
++Crown
+%Credits: Xploder
+$2184D53C 00000001
++Crystal Ball
+%Credits: Xploder
+$2184D6EC 00000001
++Dead Flowers
+%Credits: Xploder
+$2184D7CC 00000001
++Deer Horn
+%Credits: Xploder
+$2184DFA4 00000001
++Dice
+%Credits: Xploder
+$2184D68C 00000001
++Dumpling Cake
+%Credits: Xploder
+$2184D48C 00000001
++Egg
+%Credits: Xploder
+$2184DFC4 00000001
++Emblem
+%Credits: Xploder
+$2184D544 00000001
++European Hat
+%Credits: Xploder
+$2184D534 00000001
++Fairy Tale Book
+%Credits: Xploder
+$2184D614 00000001
++Fancy Paper
+%Credits: Xploder
+$2184DD74 00000001
++Fish Rice
+%Credits: Xploder
+$2184DFAC 00000001
++Folding Fan
+%Credits: Xploder
+$2184D58C 00000001
++Fork
+%Credits: Xploder
+$2184DFBC 00000001
++Frog
+%Credits: Xploder
+$2184DF9C 00000001
++Fudo Leg Guard
+%Credits: Xploder
+$2184DBF4 00000001
++Fur Skin
+%Credits: Xploder
+$2184D76C 00000001
++Gabishi
+%Credits: Xploder
+$2184DB44 00000001
++Glass
+%Credits: Xploder
+$2184D524 00000001
++Globe
+%Credits: Xploder
+$2184D52C 00000001
++Gold Chick
+%Credits: Xploder
+$2184DF94 00000001
++Gold Chicken
+%Credits: Xploder
+$2184DFFC 00000001
++Gold Coin
+%Credits: Xploder
+$2184D574 00000001
++Gold Egg
+%Credits: Xploder
+$2184DD14 00000001
++Goraishinki
+%Credits: Xploder
+$2184DC24 00000001
++Gourd
+%Credits: Xploder
+$2184D6C4 00000001
++Green Parrot
+%Credits: Xploder
+$2184DFEC 00000001
++Grilled Fish
+%Credits: Xploder
+$2184D73C 00000001
++Hair Oil
+%Credits: Xploder
+$2184D7AC 00000001
++Hair Ornament
+%Credits: Xploder
+$2184D6B4 00000001
++Hard Boots
+%Credits: Xploder
+$2184DB14 00000001
++Hien Kyahan
+%Credits: Xploder
+$2184DB84 00000001
++History Books (All)
+%Credits: Xploder
+$2184D5B4 00000001
++History Book Vol.
+%Credits: Xploder
+$2184D5BC 00000001
++History Book Vol. 2
+%Credits: Xploder
+$2184D5C4 00000001
++History Book Vol. 3
+%Credits: Xploder
+$2184D5CC 00000001
++History Book Vol. 4
+%Credits: Xploder
+$2184D5D4 00000001
++History Book Vol. 5
+%Credits: Xploder
+$2184D5DC 00000001
++History Book Vol. 6
+%Credits: Xploder
+$2184D5E4 00000001
++History Book Vol. 7
+%Credits: Xploder
+$2184D5EC 00000001
++History Book Vol. 8
+%Credits: Xploder
+$2184D5F4 00000001
++History Book Vol. 9
+%Credits: Xploder
+$2184D5FC 00000001
++History Book Vol. 10
+%Credits: Xploder
+$2184D604 00000001
++Houtengeki
+%Credits: Xploder
+$2184DBB4 00000001
++Incense
+%Credits: Xploder
+$2184D434 00000001
++Kaleidoscope
+%Credits: Xploder
+$2184D54C 00000001
++Keimyo Hachimaki
+%Credits: Xploder
+$2184DB9C 00000001
++Lemon
+%Credits: Xploder
+$2184DFDC 00000001
++Loaded Dice
+%Credits: Xploder
+$2184D6BC 00000001
++Love Potion
+%Credits: Xploder
+$2184D6A4 00000001
++Magnetic Compass
+%Credits: Xploder
+$2184D67C 00000001
++Melon
+%Credits: Xploder
+$2184D50C 00000001
++Mirror
+%Credits: Xploder
+$2184D6E4 00000001
++Music Box
+%Credits: Xploder
+$2184D514 00000001
++Naughty Novel
+%Credits: Xploder
+$2184D634 00000001
++Oolong Tea
+%Credits: Xploder
+$2184D4E4 00000001
++Pair Ring
+%Credits: Xploder
+$2184D664 00000001
++Pandora's Box
+%Credits: Xploder
+$2184DFB4 00000001
++Persian Carpet
+%Credits: Xploder
+$2184D77C 00000001
++Phirangi
+%Credits: Xploder
+$2184DAD4 00000001
++Pick
+%Credits: Xploder
+$2184DF84 00000001
++Pickled Plum
+%Credits: Xploder
+$2184D4FC 00000001
++Pickled Vegetables
+%Credits: Xploder
+$2184D74C 00000001
++Pipe
+%Credits: Xploder
+$2184D51C 00000001
++Pirate Costume
+%Credits: Xploder
+$2184DC54 00000001
++Plant Book
+%Credits: Xploder
+$2184D69C 00000001
++Playing Cards
+%Credits: Xploder
+$2184D78C 00000001
++Pocket Watch
+%Credits: Xploder
+$2184D684 00000001
++Potassium Nitrate
+%Credits: Xploder
+$2184D424 00000001
++Raw Fish
+%Credits: Xploder
+$2184D59C 00000001
++Recorder
+%Credits: Xploder
+$2184D5A4 00000001
++Red Parrot
+%Credits: Xploder
+$2184DFE4 00000001
++River Fish
+%Credits: Xploder
+$2184DAEC 00000001
++Rotten Fish
+%Credits: Xploder
+$2184D7D4 00000001
++Rouge
+%Credits: Xploder
+$2184D764 00000001
++Sake From Kaga
+%Credits: Xploder
+$2184D4D4 00000001
++Salt
+%Credits: Xploder
+$2184D734 00000001
++Scarf
+%Credits: Xploder
+$2184D774 00000001
++Silver Armour
+%Credits: Xploder
+$2184DAFC 00000001
++Silver Coin
+%Credits: Xploder
+$2184D56C 00000001
++Sponge Cake
+%Credits: Xploder
+$2184D4F4 00000001
++Stamina Drink
+%Credits: Xploder
+$2184D474 00000001
++Strategy Book
+%Credits: Xploder
+$2184D61C 00000001
++Taiheiki
+%Credits: Xploder
+$2184D60C 00000001
++Taizo Mandala
+%Credits: Xploder
+$2184D784 00000001
++Tale Of The Heike
+%Credits: Xploder
+$2184D62C 00000001
++Tea
+%Credits: Xploder
+$2184D4EC 00000001
++Telescope
+%Credits: Xploder
+$2184D66C 00000001
++Tengu Mask
+%Credits: Xploder
+$2184D674 00000001
++Textile Fabrics
+%Credits: Xploder
+$2184D794 00000001
++The Analects
+%Credits: Xploder
+$2184D5AC 00000001
++Tube For Pigeon Leg
+%Credits: Xploder
+$2184D71C 00000001
++Unique Mushroom
+%Credits: Xploder
+$2184D75C 00000001
++Vodka
+%Credits: Xploder
+$2184D4CC 00000001
++Wasabi
+%Credits: Xploder
+$2184D754 00000001
++Water Melon
+%Credits: Xploder
+$2184D744 00000001
++Western Boots
+%Credits: Xploder
+$2184DC6C 00000001
++Wind Bell
+%Credits: Xploder
+$2184D65C 00000001
++Wine
+%Credits: Xploder
+$2184D4DC 00000001
++Wonder Flower
+%Credits: Xploder
+$2184D4AC 00000001
+!!
+!Weapons:
++Tanegashima
+%Credits: Xploder
+$2184D6CC 00000001
++Tri-Barrel Gun
+%Credits: Xploder
+$2184D6D4 00000001
++Bow
+%Credits: Xploder
+$2184D6DC 00000001
++Yagyu Sword
+%Credits: Xploder
+$2184D9C4 00000001
++Buraitou Lv1
+%Credits: Xploder
+$2184D9CC 00000001
++Buraitou Lv2
+%Credits: Xploder
+$2184D9D4 00000001
++Buraitou Lv3
+%Credits: Xploder
+$2184D9DC 00000001
++Hyoujin-Yari Lv1
+%Credits: Xploder
+$2184D9E4 00000001
++Hyoujin-Yari Lv2
+%Credits: Xploder
+$2184D9EC 00000001
++Hyoujin-Yari Lv3
+%Credits: Xploder
+$2184D9F4 00000001
++Rekka-Ken
+%Credits: Xploder
+$2184D9FC 00000001
++Senpumaru Lv1
+%Credits: Xploder
+$2184DA14 00000001
++Senpumaru Lv2
+%Credits: Xploder
+$2184DA1C 00000001
++Senpumaru Lv3
+%Credits: Xploder
+$2184DA24 00000001
++Dokoutsui Lv1
+%Credits: Xploder
+$2184DA2C 00000001
++Dokoutsui Lv2
+%Credits: Xploder
+$2184DA34 00000001
++Dokoutsui Lv3
+%Credits: Xploder
+$2184DA3C 00000001
++Bow+Arrow
+%Credits: Xploder
+$2184DA44 00000001
++Bow+Fire Arrow
+%Credits: Xploder
+$2184DA4C 00000001
++Tanegashima+NB
+%Credits: Xploder
+$2184DA64 00000001
++Tri-Barrel+BB
+%Credits: Xploder
+$2184DA6C 00000001
++Sponge Stick
+%Credits: Xploder
+$2184DA74 00000001
+!!
+!Armour:
++Hat & Sunglasses
+%Credits: Xploder
+$2184DA7C 00000001
++Yagyu Armour
+%Credits: Xploder
+$2184DA84 00000001
++Yagyu Armour 2
+%Credits: Xploder
+$2184DA8C 00000001
++Yagyu Armour 3
+%Credits: Xploder
+$2184DA94 00000001
++Yagyu Foot Armour
+%Credits: Xploder
+$2184DA9C 00000001
++Yagyu Foot Armour 2
+%Credits: Xploder
+$2184DAA4 00000001
++Yagyu Foot Armour 3
+%Credits: Xploder
+$2184DAAC 00000001
++Yagyu Arm Armour
+%Credits: Xploder
+$2184DAB4 00000001
++Yagyu Arm Armour 2
+%Credits: Xploder
+$2184DABC 00000001
++Yagyu Arm Armour 3
+%Credits: Xploder
+$2184DAC4 00000001
++Red Necklace
+%Credits: Xploder
+$2184DC94 00000001
++Blue Necklace
+%Credits: Xploder
+$2184DC9C 00000001
++Yellow Necklace
+%Credits: Xploder
+$2184DCA4 00000001
++Green Necklace
+%Credits: Xploder
+$2184DCAC 00000001
++White Necklace
+%Credits: Xploder
+$2184DCB4 00000001
++Black Necklace
+%Credits: Xploder
+$2184DCBC 00000001
++Purple Necklace
+%Credits: Xploder
+$2184DCC4 00000001
++Orange Necklace
+%Credits: Xploder
+$2184DCCC 00000001
+!!
+!Books:
++Play Instructions
+%Credits: Xploder
+$2184DE24 00000001
++Gift Exchange
+%Credits: Xploder
+$2184DE2C 00000001
++Demon Wall Scroll
+%Credits: Xploder
+$2184DE34 00000001
++Fortinbras Book
+%Credits: Xploder
+$2184DE3C 00000001
++Jujudormah's Diary
+%Credits: Xploder
+$2184DE44 00000001
++Oni's Sacred Place
+%Credits: Xploder
+$2184DE4C 00000001
++Oni's Super Weapon
+%Credits: Xploder
+$2184DE54 00000001
++Lift Instructions
+%Credits: Xploder
+$2184DE5C 00000001
++Gogandantess Shield
+%Credits: Xploder
+$2184DE64 00000001
++Five Oni Orbs
+%Credits: Xploder
+$2184DE84 00000001
++Demons' History
+%Credits: Xploder
+$2184DE8C 00000001
++Hunting Schedule
+%Credits: Xploder
+$2184DE94 00000001
++Human As Food
+%Credits: Xploder
+$2184DE9C 00000001
++Golden Evil Statue
+%Credits: Xploder
+$2184DEA4 00000001
++Tokichrio's Diary
+%Credits: Xploder
+$2184DEAC 00000001
++Guildenstern Letter
+%Credits: Xploder
+$2184DEB4 00000001
+!!
+!Maps:
++Yagyu Village Map
+%Credits: Xploder
+$2184DDD4 00000001
++Imasho Town Map
+%Credits: Xploder
+$2184DDDC 00000001
++Gold Mine Map
+%Credits: Xploder
+$2184DDE4 00000001
++Demon Cave Map
+%Credits: Xploder
+$2184DDEC 00000001
++Gifu Keep Tower Map
+%Credits: Xploder
+$2184DDF4 00000001
++Gifu East Area Map
+%Credits: Xploder
+$2184DDFC 00000001
++Fog Valley Map
+%Credits: Xploder
+$2184DE04 00000001
++Oni's Place Map #1
+%Credits: Xploder
+$2184DE0C 00000001
++Oni's Place Map #2
+%Credits: Xploder
+$2184DE14 00000001
++Oni's Place Map #3
+%Credits: Xploder
+$2184DE1C 00000001
+!!
+!Pictures:
++Four Guardians: Right
+%Credits: Xploder
+$2184DE6C 00000001
++Four Guardians: Left
+%Credits: Xploder
+$2184DE74 00000001
++Four Guardians Art
+%Credits: Xploder
+$2184DE7C 00000001
+!!

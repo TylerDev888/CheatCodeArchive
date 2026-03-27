@@ -1,0 +1,14 @@
+^2 = GameID: CUSA37322,CUSA37321
+^3 = NAME: Atomic Heart
+^SECONDLAYER: YES{ONLY BioShock Infinite}
+^4 = FILE: BioShock - Save (bs1s0(\d{2})\AutoSave_MainGame|[0-9_]{14,19})\mainSave.bsg)
+^4 = FILE: BioShock 2 - Save (bs2s0(\d{2})\[0-9_]{14,19}\mainSave.bsg)
+^4 = FILE: BioShock Infinite - AutoSave  (AutoSaves\[A-Z0-9]{17}.sav)
++God Mode
+%Dynamite#0001
+$80020004 B28125C1
+$28000032 7FFFFFFF
+$28000036 7FFFFFFF
+$2800003A 7FFFFFFF
+$2800003E 7FFFFFFF
+^4 = FILE: BioShock Infinite - Profile (Profile\ProfileData.bin)

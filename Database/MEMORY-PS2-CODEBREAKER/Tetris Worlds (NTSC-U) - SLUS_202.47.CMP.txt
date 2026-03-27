@@ -1,0 +1,28 @@
+^1 = HASH: C9246E9C
+^3 = NAME: Tetris Worlds
+^2 = GameID: SLUS_202.47
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002D207F
+!!
+!Codes:
++Show FPS
+%Credits: Code Master
+$2018E370 00000000
++Show Debug Info
+%Credits: Code Master
+$2018E3C4 00000000
++Quick Level Up (Story Mode)
+%Credits: Code Master
+$201CFF00 24020001
+$201CFF04 44820000
+!!
+!Arcade Codes:
++Start At Level Modifier
+%Credits: Code Master
+$20237EAC 240200??
++Next Level Modifier
+%Credits: Code Master
+$20237EEC 240200??
+!!

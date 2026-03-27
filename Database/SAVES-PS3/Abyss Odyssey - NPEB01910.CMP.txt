@@ -1,0 +1,31 @@
+^2 = GameID: NPEB01910
+^3 = NAME: Abyss Odyssey
+^5 = APCRED: Cheats by ed-209
+^4 = FILE: PAYLOAD
++Decompress Payload (required)
+$Decompress(0x00000018, 15)
+^4 = FILE: ~extracted\00000018.dat
++Global Max Money
+$write at 0x0000034B:0x3B9AC9FF
++Katrien Max Level 70
+$write at 0x00000A7E:0x022BEC
++Katrien Max Skill Points
+$write at 0x00000747:0x63
++Ghost Monk Max Level 70 (apply Only After Character Unlock)
+$write at 0x00000AEC:0x022BEC
++Ghost Monk Max Skill Points (apply Only After Character Unlock)
+$write at 0x00000794:0x63
++Pincoya Max Level 70 (apply Only After Character Unlock)
+$write at 0x00000B5A:0x022BEC
++Pincoya Skill Max Points (apply Only After Character Unlock)
+$write at 0x000007E1:0x63
+^4 = FILE: PAYLOAD
++Compress Payload (required)
+$Compress(0x00000018)
+^4 = FILE: NPUB31397-PROFILE\PAYLOAD
++Sha1 For Payload By Chaoszage (required)
+(set range:0x000014,0x000201)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

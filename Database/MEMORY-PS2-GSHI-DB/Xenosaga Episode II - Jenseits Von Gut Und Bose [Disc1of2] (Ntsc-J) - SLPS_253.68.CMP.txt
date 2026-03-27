@@ -1,0 +1,20 @@
+^3 = NAME: Xenosaga Episode II - Jenseits Von Gut Und Bose [Disc1of2] (Ntsc-J)
+^2 = GameID: SLPS-25368
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$90122B38 0C048A76
+!!
++Enable Debug Information & Debug Menu Text
+%Credits: punk7890
+$108D4704 0000FFFF
++Re-Enable Debug Menus {<I>Press One Of The Following Buttons:<Br>*Select For Battle Debug Menu.<Br>*L3 For Script Debug.<Br>*R3 To Disable Debug Menus (Only Works In Some Menus).<Br>For More Info:<Br>Https://Tcrf.Net/Xenosaga_Episode_II:_Jenseits_Von_Gut_Und_Bose</I>}
+%Credits: punk7890
+$D063A742 0000FFFE
+$201DE4C0 0C2AA890
+$D063A742 0000FFFD
+$201DE4C0 0C2AA546
+$D063A742 0000FFFB
+$201DE4C0 0C0A68BC
+!!
+

@@ -1,0 +1,713 @@
+^1 = Hash: 81 5C B9 78 B0 67 FD 43 2D 3E 41 EA 60 8D 96 93 18 78 88 8E
+^2 = GameID: SLUS_212.93
+^3 = NAME: Metal Saga
+$Credits: SkillerCMP
+!Masters:
+Enable Code(MUST BE ON)
+9030E768 0C0CD82A
+Enable Code(MUST BE ON)
+F030E79C 0030E79F
+!!
+!Jokers:
++Joker Player 1 Controller
+D0487340 0000???? Pad 1
++Joker Player 1 Controller
+D0487348 0000???? Pad 1
++Joker Player 2 Controller
+D0487344 0000???? Pad 2
++Joker Player 1 Controller
+D048734C 0000???? Pad 2
+!!
+!Misc Codes:
++Enable All 3 Menu Options{Able To Pick From All 3}
+0094CC38 00000003
++Max/Inf Money
+207E7BC4 05F5E0FF
++Infinite Stamps
+107E7BD8 000003E7
++Enable All Mini Games
+107E7BC0 00000FFF
+!Other Codes:
++Main Manu Selection{This Address Is The Selector That Enable All 3 Menu Options Enables}
+0094CC3c 000000[NA]
+!!
+!Characters:
+!Hero:
++Name Mod{20 Letters}
+$2080F7F0 [Amount:ABCD:ASCII:LITTLE<Letter 1-4>]
+$2080F7F4 [Amount:EFGH:ASCII:LITTLE<Letter 5-8>]
+$2080F7F8 [Amount:IJKL:ASCII:LITTLE<Letter 9-12>]
+$2080F7FC [Amount:MNOP:ASCII:LITTLE<Letter 13-16>]
+$2080F800 [Amount:MNOP:ASCII:LITTLE<Letter 17-20>]
++Statis Mod
+$2080F820 000000[SM]
++Title Mod
+$2080F84C 0000[TI]
++Max Level
+$2080F824 000000FF
++Max HP
+$2080F828 0000270F
++Infinite HP
+$2080F82C 0000270F
+!Stats:{Note Seems To Go Over 9999 Lol I Set The Value To Fffff And It Used It}
++Attack Mod
+$2080F830 [Amount:05F5E0FF:HEX:BIG]
++Defense Mod
+$2080F834 [Amount:05F5E0FF:HEX:BIG]
++Driving Mod
+$2080F83C [Amount:05F5E0FF:HEX:BIG]
++Max EXP
+$2080F844 05F5E0FF
+!!
+!Equipment Mods:
+Weapon
+$2080F8A4 [EQUIP]
+Hat
+$2080F8A8 [EQUIP]
+Body
+$2080F8AC [EQUIP]
+Hands
+$2080F8B0 [EQUIP]
+Boots
+$2080F8B4 [EQUIP]
+ACC
+$2080F8B8 [EQUIP]
+!!
+!Skill Mod:
+Skill 1
+$2080F854 0000[Amount:2710:HEX:BIG]
+Skill 2
+$2080F858 0000[Amount:2710:HEX:BIG]
+Skill 3
+$2080F85C 0000[Amount:2710:HEX:BIG]
+Skill 4
+$2080F860 0000[Amount:2710:HEX:BIG]
+Skill 5
+$2080F864 0000[Amount:2710:HEX:BIG]
+Skill 6
+$2080F868 0000[Amount:2710:HEX:BIG]
+Skill 7
+$2080F86C 0000[Amount:2710:HEX:BIG]
+Skill 8
+$2080F870 0000[Amount:2710:HEX:BIG]
+Skill 9
+$2080F874 0000[Amount:2710:HEX:BIG]
+Skill 10
+$2080F878 0000[Amount:2710:HEX:BIG]
+!!
+!!
+!Kiriya:
++Name Mod{20 Letters}
+$2080FA30 [Amount:ABCD:ASCII:LITTLE<Letter 1-4>]
+$2080FA34 [Amount:EFGH:ASCII:LITTLE<Letter 5-8>]
+$2080FA38 [Amount:IJKL:ASCII:LITTLE<Letter 9-12>]
+$2080FA3C [Amount:MNOP:ASCII:LITTLE<Letter 13-16>]
+$2080FA40 [Amount:MNOP:ASCII:LITTLE<Letter 17-20>]
++Statis Mod
+$2080FA60 000000[SM]
++Title Mod
+$2080FA8C 0000[TI]
++Max Level
+$2080FA64 000000FF
++Max HP
+$2080FA68 0000270F
++Infinite HP
+$2080FA6C 0000270F
+!Stats:{Note Seems To Go Over 9999 Lol I Set The Value To Fffff And It Used It}
++Attack Mod
+$2080FA70 [Amount:05F5E0FF:HEX:BIG]
++Defense Mod
+$2080FA74 [Amount:05F5E0FF:HEX:BIG]
++Driving Mod
+$2080FA7C [Amount:05F5E0FF:HEX:BIG]
++Max EXP
+$2080FA84 05F5E0FF
+!!
+!Equipment Mods:
+Weapon
+$2080FAE4 [EQUIP]
+Hat
+$2080FAE8 [EQUIP]
+Body
+$2080FAEC [EQUIP]
+Hands
+$2080FAF0 [EQUIP]
+Boots
+$2080FAF4 [EQUIP]
+ACC
+$2080FAF8 [EQUIP]
+!!
+!Skill Mod:
+Skill 1
+$2080FA94 0000[Amount:2710:HEX:BIG]
+Skill 2
+$2080FA98 0000[Amount:2710:HEX:BIG]
+Skill 3
+$2080FA9C 0000[Amount:2710:HEX:BIG]
+Skill 4
+$2080FAA0 0000[Amount:2710:HEX:BIG]
+Skill 5
+$2080FAA4 0000[Amount:2710:HEX:BIG]
+Skill 6
+$2080FAA8 0000[Amount:2710:HEX:BIG]
+Skill 7
+$2080FAAC 0000[Amount:2710:HEX:BIG]
+Skill 8
+$2080FAB0 0000[Amount:2710:HEX:BIG]
+Skill 9
+$2080FAB4 0000[Amount:2710:HEX:BIG]
+Skill 10
+$2080FAB8 0000[Amount:2710:HEX:BIG]
+!!
+!!
+!Misha:
++Name Mod{20 Letters}
+$2080FC70 [Amount:ABCD:ASCII:LITTLE<Letter 1-4>]
+$2080FC74 [Amount:EFGH:ASCII:LITTLE<Letter 5-8>]
+$2080FC78 [Amount:IJKL:ASCII:LITTLE<Letter 9-12>]
+$2080FC7C [Amount:MNOP:ASCII:LITTLE<Letter 13-16>]
+$2080FC80 [Amount:MNOP:ASCII:LITTLE<Letter 17-20>]
++Statis Mod
+$2080FCA0 000000[SM]
++Title Mod
+$2080FCCC 0000[TI]
++Max Level
+$2080FCA4 000000FF
++Max HP
+$2080FCA8 0000270F
++Infinite HP
+$2080FCAC 0000270F
+!Stats:{Note Seems To Go Over 9999 Lol I Set The Value To Fffff And It Used It}
++Attack Mod
+$2080FCB0 [Amount:05F5E0FF:HEX:BIG]
++Defense Mod
+$2080FCB4 [Amount:05F5E0FF:HEX:BIG]
++Driving Mod
+$2080FCBC [Amount:05F5E0FF:HEX:BIG]
++Max EXP
+$2080FCC4 05F5E0FF
+!!
+!Equipment Mods:
+Weapon
+$2080FD24 [EQUIP]
+Hat
+$2080FD28 [EQUIP]
+Body
+$2080FD2C [EQUIP]
+Hands
+$2080FD30 [EQUIP]
+Boots
+$2080FD34 [EQUIP]
+ACC
+$2080FD38 [EQUIP]
+!!
+!Skill Mod:
+Skill 1
+$2080FCD4 0000[Amount:2710:HEX:BIG]
+Skill 2
+$2080FCD8 0000[Amount:2710:HEX:BIG]
+Skill 3
+$2080FCDC 0000[Amount:2710:HEX:BIG]
+Skill 4
+$2080FCE0 0000[Amount:2710:HEX:BIG]
+Skill 5
+$2080FCE4 0000[Amount:2710:HEX:BIG]
+Skill 6
+$2080FCE8 0000[Amount:2710:HEX:BIG]
+Skill 7
+$2080FCEC 0000[Amount:2710:HEX:BIG]
+Skill 8
+$2080FCF0 0000[Amount:2710:HEX:BIG]
+Skill 9
+$2080FCF4 0000[Amount:2710:HEX:BIG]
+Skill 10
+$2080FCF8 0000[Amount:2710:HEX:BIG]
+!!
+!!
+!Rashid:
++Name Mod{20 Letters}
+$2080FEB0 [Amount:ABCD:ASCII:LITTLE<Letter 1-4>]
+$2080FEB4 [Amount:EFGH:ASCII:LITTLE<Letter 5-8>]
+$2080FEB8 [Amount:IJKL:ASCII:LITTLE<Letter 9-12>]
+$2080FEBC [Amount:MNOP:ASCII:LITTLE<Letter 13-16>]
+$2080FEC0 [Amount:MNOP:ASCII:LITTLE<Letter 17-20>]
++Statis Mod
+$2080FEE0 000000[SM]
++Title Mod
+$2080FF0C 0000[TI]
++Max Level
+$2080FEE4 000000FF
++Max HP
+$2080FEE8 0000270F
++Infinite HP
+$2080FEEC 0000270F
+!Stats:{Note Seems To Go Over 9999 Lol I Set The Value To Fffff And It Used It}
++Attack Mod
+$2080FEF0 [Amount:05F5E0FF:HEX:BIG]
++Defense Mod
+$2080FEF4 [Amount:05F5E0FF:HEX:BIG]
++Driving Mod
+$2080FEFC [Amount:05F5E0FF:HEX:BIG]
++Max EXP
+$2080FF04 05F5E0FF
+!!
+!Equipment Mods:
+Weapon
+$2080FF64 [EQUIP]
+Hat
+$2080FF68 [EQUIP]
+Body
+$2080FF6C [EQUIP]
+Hands
+$2080FF70 [EQUIP]
+Boots
+$2080FF74 [EQUIP]
+ACC
+$2080FF78 [EQUIP]
+!!
+!Skill Mod:
+Skill 1
+$2080FF14 0000[Amount:2710:HEX:BIG]
+Skill 2
+$2080FF18 0000[Amount:2710:HEX:BIG]
+Skill 3
+$2080FF1C 0000[Amount:2710:HEX:BIG]
+Skill 4
+$2080FF20 0000[Amount:2710:HEX:BIG]
+Skill 5
+$2080FF24 0000[Amount:2710:HEX:BIG]
+Skill 6
+$2080FF28 0000[Amount:2710:HEX:BIG]
+Skill 7
+$2080FF2C 0000[Amount:2710:HEX:BIG]
+Skill 8
+$2080FF30 0000[Amount:2710:HEX:BIG]
+Skill 9
+$2080FF34 0000[Amount:2710:HEX:BIG]
+Skill 10
+$2080FF38 0000[Amount:2710:HEX:BIG]
+!!
+!!
+!Charlene:
++Name Mod{20 Letters}
+$208100F0 [Amount:ABCD:ASCII:LITTLE<Letter 1-4>]
+$208100F4 [Amount:EFGH:ASCII:LITTLE<Letter 5-8>]
+$208100F8 [Amount:IJKL:ASCII:LITTLE<Letter 9-12>]
+$208100FC [Amount:MNOP:ASCII:LITTLE<Letter 13-16>]
+$20810100 [Amount:MNOP:ASCII:LITTLE<Letter 17-20>]
++Statis Mod
+$20810120 000000[SM]
++Title Mod
+$2081014C 0000[TI]
++Max Level
+$20810124 000000FF
++Max HP
+$20810128 0000270F
++Infinite HP
+$2081012C 0000270F
+!Stats:{Note Seems To Go Over 9999 Lol I Set The Value To Fffff And It Used It}
++Attack Mod
+$20810130 [Amount:05F5E0FF:HEX:BIG]
++Defense Mod
+$20810134 [Amount:05F5E0FF:HEX:BIG]
++Driving Mod
+$2081013C [Amount:05F5E0FF:HEX:BIG]
++Max EXP
+$20810144 05F5E0FF
+!!
+!Equipment Mods:
+Weapon
+$208101A4 [EQUIP]
+Hat
+$208101A8 [EQUIP]
+Body
+$208101AC [EQUIP]
+Hands
+$208101B0 [EQUIP]
+Boots
+$208101B4 [EQUIP]
+ACC
+$208101B8 [EQUIP]
+!!
+!Skill Mod:
+Skill 1
+$20810154 0000[Amount:2710:HEX:BIG]
+Skill 2
+$20810158 0000[Amount:2710:HEX:BIG]
+Skill 3
+$2081015C 0000[Amount:2710:HEX:BIG]
+Skill 4
+$20810160 0000[Amount:2710:HEX:BIG]
+Skill 5
+$20810164 0000[Amount:2710:HEX:BIG]
+Skill 6
+$20810168 0000[Amount:2710:HEX:BIG]
+Skill 7
+$2081016C 0000[Amount:2710:HEX:BIG]
+Skill 8
+$20810170 0000[Amount:2710:HEX:BIG]
+Skill 9
+$20810174 0000[Amount:2710:HEX:BIG]
+Skill 10
+$20810178 0000[Amount:2710:HEX:BIG]
+!!
+!!
+!Alpha:
++Name Mod{20 Letters}
+$20810330 [Amount:ABCD:ASCII:LITTLE<Letter 1-4>]
+$20810334 [Amount:EFGH:ASCII:LITTLE<Letter 5-8>]
+$20810338 [Amount:IJKL:ASCII:LITTLE<Letter 9-12>]
+$2081033C [Amount:MNOP:ASCII:LITTLE<Letter 13-16>]
+$20810340 [Amount:MNOP:ASCII:LITTLE<Letter 17-20>]
++Statis Mod
+$20810360 000000[SM]
++Title Mod
+$2081038C 0000[TI]
++Max Level
+$20810364 000000FF
++Max HP
+$20810368 0000270F
++Infinite HP
+$2081036C 0000270F
+!Stats:{Note Seems To Go Over 9999 Lol I Set The Value To Fffff And It Used It}
++Attack Mod
+$20810370 [Amount:05F5E0FF:HEX:BIG]
++Defense Mod
+$20810374 [Amount:05F5E0FF:HEX:BIG]
++Driving Mod
+$2081037C [Amount:05F5E0FF:HEX:BIG]
++Max EXP
+$20810384 05F5E0FF
+!!
+!Equipment Mods:
+Weapon
+$208103E4 [EQUIP]
+Hat
+$208103E8 [EQUIP]
+Body
+$208103EC [EQUIP]
+Hands
+$208103F0 [EQUIP]
+Boots
+$208103F4 [EQUIP]
+ACC
+$208103F8 [EQUIP]
+!!
+!Skill Mod:
+Skill 1
+$20810394 0000[Amount:2710:HEX:BIG]
+Skill 2
+$20810398 0000[Amount:2710:HEX:BIG]
+Skill 3
+$2081039C 0000[Amount:2710:HEX:BIG]
+Skill 4
+$208103A0 0000[Amount:2710:HEX:BIG]
+Skill 5
+$208103A4 0000[Amount:2710:HEX:BIG]
+Skill 6
+$208103A8 0000[Amount:2710:HEX:BIG]
+Skill 7
+$208103AC 0000[Amount:2710:HEX:BIG]
+Skill 8
+$208103B0 0000[Amount:2710:HEX:BIG]
+Skill 9
+$208103B4 0000[Amount:2710:HEX:BIG]
+Skill 10
+$208103B8 0000[Amount:2710:HEX:BIG]
+!!
+!!
+!Shiba:
++Name Mod{20 Letters}
+$20810570 [Amount:ABCD:ASCII:LITTLE<Letter 1-4>]
+$20810574 [Amount:EFGH:ASCII:LITTLE<Letter 5-8>]
+$20810578 [Amount:IJKL:ASCII:LITTLE<Letter 9-12>]
+$2081057C [Amount:MNOP:ASCII:LITTLE<Letter 13-16>]
+$20810580 [Amount:MNOP:ASCII:LITTLE<Letter 17-20>]
++Statis Mod
+$208105A0 000000[SM]
++Title Mod
+$208105CC 0000[TI]
++Max Level
+$208105A4 000000FF
++Max HP
+$208105A8 0000270F
++Infinite HP
+$208105AC 0000270F
+!Stats:{Note Seems To Go Over 9999 Lol I Set The Value To Fffff And It Used It}
++Attack Mod
+$208105B0 [Amount:05F5E0FF:HEX:BIG]
++Defense Mod
+$208105B4 [Amount:05F5E0FF:HEX:BIG]
++Driving Mod
+$208105BC [Amount:05F5E0FF:HEX:BIG]
++Max EXP
+$208105C4 05F5E0FF
+!!
+!Equipment Mods:
+Weapon
+$20810624 [EQUIP]
+Hat
+$20810628 [EQUIP]
+Body
+$2081062C [EQUIP]
+Hands
+$20810630 [EQUIP]
+Boots
+$20810634 [EQUIP]
+ACC
+$20810638 [EQUIP]
+!!
+!Skill Mod:
+Skill 1
+$208105D4 0000[Amount:2710:HEX:BIG]
+Skill 2
+$208105D8 0000[Amount:2710:HEX:BIG]
+Skill 3
+$208105DC 0000[Amount:2710:HEX:BIG]
+Skill 4
+$208105E0 0000[Amount:2710:HEX:BIG]
+Skill 5
+$208105E4 0000[Amount:2710:HEX:BIG]
+Skill 6
+$208105E8 0000[Amount:2710:HEX:BIG]
+Skill 7
+$208105EC 0000[Amount:2710:HEX:BIG]
+Skill 8
+$208105F0 0000[Amount:2710:HEX:BIG]
+Skill 9
+$208105F4 0000[Amount:2710:HEX:BIG]
+Skill 10
+$208105F8 0000[Amount:2710:HEX:BIG]
+!!
+!!
+!Tosa:
++Name Mod{20 Letters}
+$208107B0 [Amount:ABCD:ASCII:LITTLE<Letter 1-4>]
+$208107B4 [Amount:EFGH:ASCII:LITTLE<Letter 5-8>]
+$208107B8 [Amount:IJKL:ASCII:LITTLE<Letter 9-12>]
+$208107BC [Amount:MNOP:ASCII:LITTLE<Letter 13-16>]
+$208107C0 [Amount:MNOP:ASCII:LITTLE<Letter 17-20>]
++Statis Mod
+$208107E0 000000[SM]
++Title Mod
+$2081080C 0000[TI]
++Max Level
+$208107E4 000000FF
++Max HP
+$208107E8 0000270F
++Infinite HP
+$208107EC 0000270F
+!Stats:{Note Seems To Go Over 9999 Lol I Set The Value To Fffff And It Used It}
++Attack Mod
+$208107F0 [Amount:05F5E0FF:HEX:BIG]
++Defense Mod
+$208107F4 [Amount:05F5E0FF:HEX:BIG]
++Driving Mod
+$208107FC [Amount:05F5E0FF:HEX:BIG]
++Max EXP
+$20810804 05F5E0FF
+!!
+!Equipment Mods:
+Weapon
+$20810864 [EQUIP]
+Hat
+$20810868 [EQUIP]
+Body
+$2081086C [EQUIP]
+Hands
+$20810870 [EQUIP]
+Boots
+$20810874 [EQUIP]
+ACC
+$20810878 [EQUIP]
+!!
+!Skill Mod:
+Skill 1
+$20810814 0000[Amount:2710:HEX:BIG]
+Skill 2
+$20810818 0000[Amount:2710:HEX:BIG]
+Skill 3
+$2081081C 0000[Amount:2710:HEX:BIG]
+Skill 4
+$20810820 0000[Amount:2710:HEX:BIG]
+Skill 5
+$20810824 0000[Amount:2710:HEX:BIG]
+Skill 6
+$20810828 0000[Amount:2710:HEX:BIG]
+Skill 7
+$2081082C 0000[Amount:2710:HEX:BIG]
+Skill 8
+$20810830 0000[Amount:2710:HEX:BIG]
+Skill 9
+$20810834 0000[Amount:2710:HEX:BIG]
+Skill 10
+$20810838 0000[Amount:2710:HEX:BIG]
+!!
+!!
+!Terry:
++Name Mod{20 Letters}
+$208109F0 [Amount:ABCD:ASCII:LITTLE<Letter 1-4>]
+$208109F4 [Amount:EFGH:ASCII:LITTLE<Letter 5-8>]
+$208109F8 [Amount:IJKL:ASCII:LITTLE<Letter 9-12>]
+$208109FC [Amount:MNOP:ASCII:LITTLE<Letter 13-16>]
+$20810A00 [Amount:MNOP:ASCII:LITTLE<Letter 17-20>]
++Statis Mod
+$20810A20 000000[SM]
++Title Mod
+$20810A4C 0000[TI]
++Max Level
+$20810A24 000000FF
++Max HP
+$20810A28 0000270F
++Infinite HP
+$20810A2C 0000270F
+!Stats:{Note Seems To Go Over 9999 Lol I Set The Value To Fffff And It Used It}
++Attack Mod
+$20810A30 [Amount:05F5E0FF:HEX:BIG]
++Defense Mod
+$20810A34 [Amount:05F5E0FF:HEX:BIG]
++Driving Mod
+$20810A3C [Amount:05F5E0FF:HEX:BIG]
++Max EXP
+$20810A44 05F5E0FF
+!!
+!Equipment Mods:
+Weapon
+$20810AA4 [EQUIP]
+Hat
+$20810AA8 [EQUIP]
+Body
+$20810AAC [EQUIP]
+Hands
+$20810AB0 [EQUIP]
+Boots
+$20810AB4 [EQUIP]
+ACC
+$20810AB8 [EQUIP]
+!!
+!Skill Mod:
+Skill 1
+$20810A54 0000[Amount:2710:HEX:BIG]
+Skill 2
+$20810A58 0000[Amount:2710:HEX:BIG]
+Skill 3
+$20810A5C 0000[Amount:2710:HEX:BIG]
+Skill 4
+$20810A60 0000[Amount:2710:HEX:BIG]
+Skill 5
+$20810A64 0000[Amount:2710:HEX:BIG]
+Skill 6
+$20810A68 0000[Amount:2710:HEX:BIG]
+Skill 7
+$20810A6C 0000[Amount:2710:HEX:BIG]
+Skill 8
+$20810A70 0000[Amount:2710:HEX:BIG]
+Skill 9
+$20810A74 0000[Amount:2710:HEX:BIG]
+Skill 10
+$20810A78 0000[Amount:2710:HEX:BIG]
+!!
+!!
+!Bernie:
++Name Mod{20 Letters}
+$20810C30 [Amount:ABCD:ASCII:LITTLE<Letter 1-4>]
+$20810C34 [Amount:EFGH:ASCII:LITTLE<Letter 5-8>]
+$20810C38 [Amount:IJKL:ASCII:LITTLE<Letter 9-12>]
+$20810C3C [Amount:MNOP:ASCII:LITTLE<Letter 13-16>]
+$20810C40 [Amount:MNOP:ASCII:LITTLE<Letter 17-20>]
++Statis Mod
+$20810C60 000000[SM]
++Title Mod
+$20810C8C 0000[TI]
++Max Level
+$20810C64 000000FF
++Max HP
+$20810C68 0000270F
++Infinite HP
+$20810C6C 0000270F
+!Stats:{Note Seems To Go Over 9999 Lol I Set The Value To Fffff And It Used It}
++Attack Mod
+$20810C70 [Amount:05F5E0FF:HEX:BIG]
++Defense Mod
+$20810C74 [Amount:05F5E0FF:HEX:BIG]
++Driving Mod
+$20810C7C [Amount:05F5E0FF:HEX:BIG]
++Max EXP
+$20810C84 05F5E0FF
+!!
+!Equipment Mods:
+Weapon
+$20810CE4 [EQUIP]
+Hat
+$20810CE8 [EQUIP]
+Body
+$20810CEC [EQUIP]
+Hands
+$20810CF0 [EQUIP]
+Boots
+$20810CF4 [EQUIP]
+ACC
+$20810CF8 [EQUIP]
+!!
+!Skill Mod:
+Skill 1
+$20810C94 0000[Amount:2710:HEX:BIG]
+Skill 2
+$20810C98 0000[Amount:2710:HEX:BIG]
+Skill 3
+$20810C9C 0000[Amount:2710:HEX:BIG]
+Skill 4
+$20810CA0 0000[Amount:2710:HEX:BIG]
+Skill 5
+$20810CA4 0000[Amount:2710:HEX:BIG]
+Skill 6
+$20810CA8 0000[Amount:2710:HEX:BIG]
+Skill 7
+$20810CAC 0000[Amount:2710:HEX:BIG]
+Skill 8
+$20810CB0 0000[Amount:2710:HEX:BIG]
+Skill 9
+$20810CB4 0000[Amount:2710:HEX:BIG]
+Skill 10
+$20810CB8 0000[Amount:2710:HEX:BIG]
+!!
+!!
+!!
+^6 = MODS:
+[EQUIP]
+01D98980	PPSH 411
+01D988C0	Bow Gun
+01D989B0	Ten Gallon Hat
+01D989E0	Bou Jacket
+01D98A10	Battle Knuckles
+01D98A40	Cowboy Boots
+01D98A70	Shock Absorber
+[\EQUIP]
+[SM]
+01	Normal
+02	Dead
+[/SM]
+[TI]
+01	Rookie
+02	Unknown 1
+03	Ace Hunter
+04	Unknown 2
+05	Unknown 3
+06	Unknown 4
+07	Unknown 5
+08	Unknown 6
+09	Unknown 7
+0A	Unknown 8
+0B	Unknown 9
+0C	Unknown 10
+0D	Unknown 11
+0E	Unknown 12
+0F	Unknown 13
+10	Unknown 14
+11	Unknown 15
+[/TI]
+[NA]
+01	New Game
+02	Continue
+03	Install
+[/NA]

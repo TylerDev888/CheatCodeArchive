@@ -1,0 +1,531 @@
+^3 = NAME: Champions Of Norrath (Ntsc-U)
+^2 = GameID: SLUS-20565
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F01001E8 001001EB
+$202DD588 3C03200F
+$202DD590 8C65FFF8
+$202DD594 24040079
+$202DD598 24030074
+$202DD59C 0000000C
+$202D0C7C 00000000
++(M)
+%Credits: Codejunkies
+$F01001E8 001001EB
+$202D0C7C 00000000
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002D3B87
++[M] Must Be On
+%Credits: MadCatz
+$90167778 0C0B4E98
+!!
++1 Kill = 1 Level Up
+%Credits: Code Master
+$201BDF60 00000000
++Code Breaker Version 6+ Enable Code (Must Be On)
+%Credits: Code Master
+$902D3B84 0C0C07FF
+!Create A New Character Codes:
++Infinite Creation Points
+%Credits: Code Master
+$20486D20 00000014
+$1027C54E 00001000
+!!
++Creatures Are Never Enemies
+%Credits: Code Master
+$2010B5DC 24020000
+$2010B700 24020000
+$2010B8C8 24020000
++Debug Menu Only
+%Credits: Code Master
+$2017FA04 00000000
++Demons Are Never Enemies
+%Credits: Code Master
+$201EB46C 24020000
++Disable AI (Everybody Friendly)
+%Credits: Codejunkies
+$2010B554 24020000
++Display Pause Menu Coordinates/Debug Menu
+%Credits: Code Master
+$20485AAC 00000001
++Drop Item For Max Quantity
+%Credits: Code Master
+$201B099C 24020063
++EXP Worth Modifier (0000-7FFF)
+%Credits: Code Master
+$201BDF54 2442????
++Item Duplication
+%Credits: Code Master
+$201B09A8 00000000
+$1027C54E 00001000
++Level Up Quick Gain
+%Credits: MadCatz
+$201BDF54 20423E80
++Max Coins
+%Credits: MadCatz
+$204086E8 0098967F
++Noone Is Ever An Enemy
+%Credits: Code Master
+$2010B4A8 03E00008
+$2010B4AC 24020000
+!P1 Codes:
++Always No Weight Carried
+%Credits: Code Master
+$20408734 00000000
++Infinite Gold
+%Credits: Code Master
+$104086E8 0000FFFF
++Infinite Health
+%Credits: Code Master
+$204086AC 461C3C00
++Infinite Mana
+%Credits: Code Master
+$204086C4 461C3C00
++Infinite Points Remaining
+%Credits: Code Master
+$204086EC 00000063
++Level 99
+%Credits: Code Master
+$20408658 00006363
++Max Dexterity
+%Credits: Code Master
+$20408680 000003E7
++Max EXP
+%Credits: Code Master
+$2040865C 05F5E0FF
++Max Gold
+%Credits: Code Master
+$204086E8 05F5E0FF
++Max Health
+%Credits: Code Master
+$204086B0 461C3C00
++Max Intelligence
+%Credits: Code Master
+$2040867C 000003E7
++Max Mana
+%Credits: Code Master
+$204086C8 461C3C00
++Max Stamina
+%Credits: Code Master
+$20408684 000003E7
++Max Strength
+%Credits: Code Master
+$20408678 000003E7
++Quick EXP Gain
+%Credits: Code Master
+$1040865C 0000FFFF
+!!
+!P2 Codes:
++Always No Weight Carried
+%Credits: Code Master
+$2040E4E4 00000000
++Infinite Gold
+%Credits: Code Master
+$1040E498 0000FFFF
++Infinite Health
+%Credits: Code Master
+$2040E45C 461C3C00
++Infinite Mana
+%Credits: Code Master
+$2040E474 461C3C00
++Infinite Points Remaining
+%Credits: Code Master
+$2040E49C 00000063
++Level 99
+%Credits: Code Master
+$2040E408 00006363
++Max Dexterity
+%Credits: Code Master
+$2040E430 000003E7
++Max EXP
+%Credits: Code Master
+$2040E40C 05F5E0FF
++Max Gold
+%Credits: Code Master
+$2040E498 05F5E0FF
++Max Health
+%Credits: Code Master
+$2040E460 461C3C00
++Max Intelligence
+%Credits: Code Master
+$2040E42C 000003E7
++Max Mana
+%Credits: Code Master
+$2040E478 461C3C00
++Max Stamina
+%Credits: Code Master
+$2040E434 000003E7
++Max Strength
+%Credits: Code Master
+$2040E428 000003E7
++Quick EXP Gain
+%Credits: Code Master
+$1040E40C 0000FFFF
+!!
+!P3 Codes:
++Always No Weight Carried
+%Credits: Code Master
+$20414294 00000000
++Infinite Gold
+%Credits: Code Master
+$10414248 0000FFFF
++Infinite Health
+%Credits: Code Master
+$2041420C 461C3C00
++Infinite Mana
+%Credits: Code Master
+$20414224 461C3C00
++Infinite Points Remaining
+%Credits: Code Master
+$2041424C 00000063
++Level 99
+%Credits: Code Master
+$204141B8 00006363
++Max Dexterity
+%Credits: Code Master
+$204141E0 000003E7
++Max EXP
+%Credits: Code Master
+$204141BC 05F5E0FF
++Max Gold
+%Credits: Code Master
+$20414248 05F5E0FF
++Max Health
+%Credits: Code Master
+$20414210 461C3C00
++Max Intelligence
+%Credits: Code Master
+$204141DC 000003E7
++Max Mana
+%Credits: Code Master
+$20414228 461C3C00
++Max Stamina
+%Credits: Code Master
+$204141E4 000003E7
++Max Strength
+%Credits: Code Master
+$204141D8 000003E7
++Quick EXP Gain
+%Credits: Code Master
+$104141BC 0000FFFF
+!!
+!P4 Codes:
++Always No Weight Carried
+%Credits: Code Master
+$2041A044 00000000
++Infinite Gold
+%Credits: Code Master
+$10419FF8 0000FFFF
++Infinite Health
+%Credits: Code Master
+$20419FBC 461C3C00
++Infinite Mana
+%Credits: Code Master
+$20419FD4 461C3C00
++Infinite Points Remaining
+%Credits: Code Master
+$20419FFC 00000063
++Level 99
+%Credits: Code Master
+$20419F68 00006363
++Max Dexterity
+%Credits: Code Master
+$20419F90 000003E7
++Max EXP
+%Credits: Code Master
+$20419F6C 05F5E0FF
++Max Gold
+%Credits: Code Master
+$20419FF8 05F5E0FF
++Max Health
+%Credits: Code Master
+$20419FC0 461C3C00
++Max Intelligence
+%Credits: Code Master
+$20419F8C 000003E7
++Max Mana
+%Credits: Code Master
+$20419FD8 461C3C00
++Max Stamina
+%Credits: Code Master
+$20419F94 000003E7
++Max Strength
+%Credits: Code Master
+$20419F88 000003E7
++Quick EXP Gain
+%Credits: Code Master
+$10419F6C 0000FFFF
+!!
+!Player 1:
++Infinite Health
+%Credits: MadCatz
+$204086AC 447A0000
++Infinite Mana
+%Credits: MadCatz
+$204086C4 447A0000
++Max Health
+%Credits: MadCatz
+$204086B0 447A0000
++Max Level
+%Credits: MadCatz
+$10408658 36363232
++Max Mana
+%Credits: MadCatz
+$204086C8 447A0000
+!!
+!Player 2:
++Infinite Health
+%Credits: MadCatz
+$2040E45C 447A0000
++Infinite Mana
+%Credits: MadCatz
+$2040E474 447A0000
++Max Health
+%Credits: MadCatz
+$2040E460 447A0000
++Max Level
+%Credits: MadCatz
+$1040E408 36363232
++Max Mana
+%Credits: MadCatz
+$2040E478 447A0000
+!!
+!Player 3:
++Infinite Health
+%Credits: MadCatz
+$2041420C 447A0000
++Infinite Mana
+%Credits: MadCatz
+$20414224 447A0000
++Max Health
+%Credits: MadCatz
+$20414210 447A0000
++Max Level
+%Credits: MadCatz
+$104141B8 36363232
++Max Mana
+%Credits: MadCatz
+$20414228 447A0000
+!!
+!Player 4:
++Infinite Health
+%Credits: MadCatz
+$20419FBC 447A0000
++Infinite Mana
+%Credits: MadCatz
+$20419FD4 447A0000
++Max Health
+%Credits: MadCatz
+$20419FC0 447A0000
++Max Level
+%Credits: MadCatz
+$10419F68 36363232
++Max Mana
+%Credits: MadCatz
+$20419FD8 447A0000
+!!
++Raise Skill Once For Max Skill
+%Credits: Code Master
+$201AEB94 24060014
+$201AEC18 24060014
+$201AEC5C 24060014
+$201BE220 24060014
++Skeletons Are Never Enemies
+%Credits: Code Master
+$20247180 24020000
+!Skill Codes:
++Blinding Light 0 Energy Cost
+%Credits: Codejunkies
+$202BA1A8 44800000
++Cold Weapons 0 Energy Cost
+%Credits: Codejunkies
+$202AC494 44800000
++Cone Of Fire 0 Energy Cost
+%Credits: Codejunkies
+$202B6B28 44800000
++Disease Bolt 0 Energy Cost
+%Credits: Codejunkies
+$20293898 44800000
++Disease Shield 0 Energy Cost
+%Credits: Codejunkies
+$202968D0 44800000
++Disease Trail 0 Energy Cost
+%Credits: Codejunkies
+$20295560 44800000
++Dismiss Undead 0 Energy Cost
+%Credits: Codejunkies
+$202BBD50 44800000
++Extra Skill 0 Energy Cost
+%Credits: Codejunkies
+$20313264 44800000
++Fire Weapons 0 Energy Cost
+%Credits: Codejunkies
+$202AB4EC 44800000
++Fireflares 0 Energy Cost
+%Credits: Codejunkies
+$202A499C 44800000
++Firestorm 0 Energy Cost
+%Credits: Codejunkies
+$2029D260 44800000
++Hammer Of Wrath 0 Energy Cost
+%Credits: Codejunkies
+$202B583C 44800000
++Holy Strike 0 Energy Cost
+%Credits: Codejunkies
+$202B2E44 44800000
++Lightning Weapons 0 Energy Cost
+%Credits: Codejunkies
+$202A9E7C 44800000
++Poison Rain 0 Energy Cost
+%Credits: Codejunkies
+$202BF264 44800000
++Repulse Undead 0 Energy Cost
+%Credits: Codejunkies
+$202BA764 44800000
++Shock Of Frost 0 Energy Cost
+%Credits: Codejunkies
+$202BE188 44800000
++Summon Skeleton 0 Energy Cost
+%Credits: Codejunkies
+$202A91A4 44800000
++Undead Shield 0 Energy Cost
+%Credits: Codejunkies
+$202B1400 44800000
++Wizard Beam 0 Energy Cost
+%Credits: Codejunkies
+$202B94A8 44800000
+!!
+!Skills Use No Mana Codes:
++Ancestral Call
+%Credits: Code Master
+$202A8550 44800000
++Archery
+%Credits: Code Master
+$202A2C40 44800000
++Bash
+%Credits: Code Master
+$202A5F28 44800000
++Blessed
+%Credits: Code Master
+$202A7030 44800000
++Charge
+%Credits: Code Master
+$202920F8 44800000
++Cleric Root
+%Credits: Code Master
+$202C6300 44800000
++Cold Arrow
+%Credits: Code Master
+$2029FDE8 44800000
++Cone Of Frost
+%Credits: Code Master
+$202AFEE8 44800000
++Convert Enemy
+%Credits: Code Master
+$20298CC8 44800000
++Convert Undead
+%Credits: Code Master
+$20299720 44800000
++Critical Hit
+%Credits: Code Master
+$202ADD98 44800000
++Cyclone
+%Credits: Code Master
+$2029A9C0 44800000
++Darkness
+%Credits: Code Master
+$20298328 44800000
++Dodge
+%Credits: Code Master
+$202AE7C0 44800000
++Entangle
+%Credits: Code Master
+$202C6F78 44800000
++Explode Arrow
+%Credits: Code Master
+$202A2918 44800000
++Fire Arrow
+%Credits: Code Master
+$2029E558 44800000
++Frost Storm
+%Credits: Code Master
+$202B36E8 44800000
++Ground Pound
+%Credits: Code Master
+$20290AE8 44800000
++Harm Touch
+%Credits: Code Master
+$2029AF60 44800000
++Healing
+%Credits: Code Master
+$202AF350 44800000
++Holy Shield
+%Credits: Code Master
+$202AE578 44800000
++Life Tap
+%Credits: Code Master
+$202BE328 44800000
++Minor Healing
+%Credits: Code Master
+$202A7468 44800000
++Multi Fire
+%Credits: Code Master
+$202A1D80 44800000
++Poison Arrow
+%Credits: Code Master
+$202A0D20 44800000
++Ranger Critical Hit
+%Credits: Code Master
+$202C7D40 44800000
++Root
+%Credits: Code Master
+$202AD038 44800000
++Shield Bash
+%Credits: Code Master
+$202C8B78 44800000
++Shock
+%Credits: Code Master
+$2028D960 44800000
++Shock Of Fire
+%Credits: Code Master
+$202B3278 44800000
+!!
++Super AI (Everybody Enemy)
+%Credits: Codejunkies
+$2010B554 24020001
++Super Main Menu
+%Credits: Codejunkies
+$1017EB2C 0000F220
++Ultra Quick Level UP
+%Credits: Codejunkies
+$201BDF50 24040001
++Wraiths Are Never Enemies
+%Credits: Code Master
+$20205144 24020000
+$2020516C 03E00008
+![ASM]:
++Buying Stuff Doesn't Decrease Gold [ASM]
+%Credits: Josh_7774
+$D01BBEC4 AE2300E8
+$201BBEC4 00000000
++Cannot Be Damaged At All/Complete Invincibility [ASM]
+%Credits: Josh_7774
+$D01A4734 0C120A0C
+$201A4734 00000000
++Infinite Mana [ASM]
+%Credits: Josh_7774
+$D0196F98 E4410004
+$20196F98 00000000
++No Weight Carried [ASM]
+%Credits: Josh_7774
+$D01A5424 E6210134
+$201A5424 00000000
++Using Gate Scrolls Doesn't Decrease Amount Of Carried Gate Scrolls (Must Have At Least 2 Scrolls) [ASM]
+%Credits: Josh_7774
+$D017DF74 A602000C
+$2017DF74 00000000
+!!
+!!
+

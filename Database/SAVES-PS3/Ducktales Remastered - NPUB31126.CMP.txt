@@ -1,0 +1,23 @@
+^2 = GameID: NPUB31126
+^3 = NAME: DuckTales Remastered (PSN)
+^5 = APCRED: From Azagthoth (CMP)
+^4 = FILE: SAVE.DAT
++Max Cash
+$200000D0 05F5E0FF
++99 Lives On Hard You Must First Kill The 1st Boss For Patch To Work
+$20000019 02620000
++9 Hards
+$2000001B 09020000
++Change The Dificulty Easy
+$20000016 00010000
++Change The Dificulty Normal
+$20000016 00010001
++Change The Dificulty Hard
+$20000016 00010002
++Change The Dificulty Extreme
+$20000016 00010003
++Update Checksum For Save.dat (required)
+$set pointer:eof+1
+$set range:0x10,pointer
+$set [hash]:lookup3_little2(0x04D2, 0x162E)
+$write at 0x0000:[hash]

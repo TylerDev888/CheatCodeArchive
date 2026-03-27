@@ -1,0 +1,65 @@
+^3 = NAME: Alias (NTSC-U)
+^2 = GameID: SLUS-20673
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F0283754 00283757
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00283757
++[M] Must Be On
+%Credits: MadCatz
+$90283754 0C09DBAA
+!!
++Disable FMV
+%Credits: Code Master
+$20286C78 24020001
++Ghost World Mode
+%Credits: Codejunkies
+$20385AC4 40000000
++Infinite Health
+%Credits: Code Master
+$2013FAC8 00000000
+$1013FAF2 00001000
++Infinite: Ammo (All Weapons)
+%Credits: MadCatz
+$2016F678 24420000
++Infinite: Health
+%Credits: MadCatz
+$201411A4 00000000
++P1 Press L1+Select For Thermal Vision
+%Credits: Code Master
+$D0381EC2 0000FBFE
+$20385B20 00000001
++P1 Press L2+Select For Foggy Vision
+%Credits: Code Master
+$D0381EC2 0000FEFE
+$20385B20 00000002
++P1 Press L3+Select For Blurry Vision
+%Credits: Code Master
+$D0381EC2 0000FFFC
+$20385B20 00000005
++P1 Press R1+Select For Security Camera Vision
+%Credits: Code Master
+$D0381EC2 0000F7FE
+$20385B20 00000003
++P1 Press R2+Select For Inverted Vision
+%Credits: Code Master
+$D0381EC2 0000FDFE
+$20385B20 00000004
++P1 Press R3+Select For Normal Vision
+%Credits: Code Master
+$D0381EC2 0000FFFA
+$20385B20 00000000
++Partially Transparent Characters
+%Credits: Code Master
+$20385AC4 3F800000
++Save Anywhere
+%Credits: Code Master
+$2023C104 24030001
+$2023C108 AC431E5C
++See Thru Some Objects
+%Credits: Code Master
+$20385AC4 40800000
+!!
+

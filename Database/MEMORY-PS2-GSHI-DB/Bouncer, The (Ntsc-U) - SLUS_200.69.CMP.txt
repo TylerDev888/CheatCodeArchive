@@ -1,0 +1,433 @@
+^3 = NAME: Bouncer, The (Ntsc-U)
+^2 = GameID: SLUS-20069
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0100A70 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0100A70 00100A73
++Enable Code
+%Credits: CMX
+$902EE134 0C0BFCEB
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002EE137
+!!
+!Jokers:
++Player 1 Controller
+%Credits: lee4
+$D1D81582 0000????
++Player 1 Controller
+%Credits: lee4
+$D1D81602 0000????
++Player 2 Controller
+%Credits: lee4
+$D1D81802 0000????
++Player 2 Controller
+%Credits: lee4
+$D1D81882 0000????
+!!
+!All Skills Codes:
++Kou
+%Credits: Codejunkies
+$21D8A0A0 000000FF
++Sion
+%Credits: Codejunkies
+$21D89F80 0000007F
++Volt
+%Credits: Codejunkies
+$21D8A010 0000007F
+!!
++All Vs Characters Are Unlocked
+%Credits: Codejunkies
+$203DD358 00007FFF
+!End Of Stage Codes:
++Always Gain Extra Skill 1
+%Credits: Code Master
+$20346FCC 00000001
++Always Gain Extra Skill 2
+%Credits: Code Master
+$20346FD0 00000001
++Always Gain Extra Skill 3
+%Credits: Code Master
+$20346FD4 00000001
++Always Gain Extra Skill 4
+%Credits: Code Master
+$20346FD8 00000001
++Always Gain Extra Skill 5
+%Credits: Code Master
+$20346FDC 00000001
++Always Gain Extra Skill 6
+%Credits: Code Master
+$20346FE0 00000001
++Always Gain Extra Skill 7
+%Credits: Code Master
+$20346FE4 00000001
++Have All Characters (VS. Mode)
+%Credits: Code Master
+$21D8CB40 FFFFFFFF
++Max Defense Up
+%Credits: Code Master
+$20346FC8 00000007
++Max Life Up
+%Credits: Code Master
+$20346FC0 00000007
++Max Power Up
+%Credits: Code Master
+$20346FC4 00000007
+!!
+!In-battle Story Mode Codes:
++Kou Leifoh Infinite Defense
+%Credits: lee4
+$E0020002 01D8BE94
+$603DBC40 00001EE4
+$00020001 00002414
++Kou Leifoh Infinite Life
+%Credits: lee4
+$E0020002 01D8BE94
+$603DBC40 00001EE4
+$00020001 00002408
++Kou Leifoh Max Defense
+%Credits: lee4
+$E0020002 01D8BE94
+$603DBC40 00001EE4
+$00020001 0000241C
++Kou Leifoh Max Life
+%Credits: lee4
+$E0020002 01D8BE94
+$603DBC40 00001EE4
+$00020001 00002410
++Kou Leifoh Max Power
+%Credits: lee4
+$E0020002 01D8BE94
+$603DBC40 00001EE4
+$00020001 00002420
++Sion Barzahd Infinite Defense
+%Credits: lee4
+$E0020000 01D8BDB4
+$603DBC40 00001EE4
+$00020001 00002334
++Sion Barzahd Infinite Life
+%Credits: lee4
+$E0020000 01D8BDB4
+$603DBC40 00001EE4
+$00020001 00002328
++Sion Barzahd Max Defense
+%Credits: lee4
+$E0020000 01D8BDB4
+$603DBC40 00001EE4
+$00020001 0000233C
++Sion Barzahd Max Life
+%Credits: lee4
+$E0020000 01D8BDB4
+$603DBC40 00001EE4
+$00020001 00002330
++Sion Barzahd Max Power
+%Credits: lee4
+$E0020000 01D8BDB4
+$603DBC40 00001EE4
+$00020001 00002340
++Volt Krueger Infinite Defense
+%Credits: lee4
+$E0020001 01D8BE24
+$603DBC40 00001EE4
+$00020001 000023A4
++Volt Krueger Infinite Life
+%Credits: lee4
+$E0020001 01D8BE24
+$603DBC40 00001EE4
+$00020001 00002398
++Volt Krueger Max Defense
+%Credits: lee4
+$E0020001 01D8BE24
+$603DBC40 00001EE4
+$00020001 000023AC
++Volt Krueger Max Life
+%Credits: lee4
+$E0020001 01D8BE24
+$603DBC40 00001EE4
+$00020001 000023A0
++Volt Krueger Max Power
+%Credits: lee4
+$E0020001 01D8BE24
+$603DBC40 00001EE4
+$00020001 000023B0
+!!
+!Kou Codes:
++Full Defense Stats
+%Credits: InterAct
+$21D8A090 0000270F
++Full Life Stats
+%Credits: InterAct
+$21D8A084 0000270F
++Max Bouncer Pts.
+%Credits: InterAct
+$21D8A0E0 0001869F
++Max Defense Stats
+%Credits: InterAct
+$21D8A098 0000270F
++Max Life Stats
+%Credits: InterAct
+$21D8A08C 0000270F
++Max Power Stats
+%Credits: InterAct
+$21D8A09C 0000270F
+!!
+!Kou Leifoh Codes:
++Infinite Defense
+%Credits: Code Master
+$21D8A090 0000012C
++Infinite Life
+%Credits: Code Master
+$21D8A084 0000012C
++Max Defense
+%Credits: Code Master
+$21D8A098 0000012C
++Max Life
+%Credits: Code Master
+$21D8A08C 0000012C
++Max Power
+%Credits: Code Master
+$21D8A09C 0000012C
++Rank Modifier
+%Credits: Code Master
+$21D8A0A4 000000??
+!!
+!Learn Move Codes:
++Max Bouncer Points
+%Credits: InterAct
+$203DC068 0001869F
+!!
+!Protecting Dominique Codes:
++Dominique Infinite Defense (Story Mode Only)
+%Credits: lee4
+$E002000B 01D8BF04
+$603DBC40 00001EE4
+$00020001 00002484
++Dominique Infinite Life (Story Mode Only)
+%Credits: lee4
+$E002000B 01D8BF04
+$603DBC40 00001EE4
+$00020001 00002478
++Dominique Max Defense (Story Mode Only)
+%Credits: lee4
+$E002000B 01D8BF04
+$603DBC40 00001EE4
+$00020001 0000248C
++Dominique Max Life (Story Mode Only)
+%Credits: lee4
+$E002000B 01D8BF04
+$603DBC40 00001EE4
+$00020001 00002480
++Dominique Max Power (Story Mode Only)
+%Credits: lee4
+$E002000B 01D8BF04
+$603DBC40 00001EE4
+$00020001 00002490
++Player 1 Infinite Defense (Protecting Dominique)
+%Credits: lee4
+$E0020003 21D8BF74
+$603DBC40 00001EE4
+$00020001 000024F4
++Player 1 Infinite Life (Protecting Dominique)
+%Credits: lee4
+$E0020003 21D8BF74
+$603DBC40 00001EE4
+$00020001 000024E8
++Player 1 Max Defense (Protecting Dominique)
+%Credits: lee4
+$E0020003 21D8BF74
+$603DBC40 00001EE4
+$00020001 000024FC
++Player 1 Max Life (Protecting Dominique)
+%Credits: lee4
+$E0020003 21D8BF74
+$603DBC40 00001EE4
+$00020001 000024F0
++Player 1 Max Power (Protecting Dominique)
+%Credits: lee4
+$E0020003 21D8BF74
+$603DBC40 00001EE4
+$00020001 00002500
+!!
+!Rank Modifier Codes:
++Dauragon
+%Credits: Code Master
+$01D8A1A4 000000??
++Dauragon 2
+%Credits: Code Master
+$01D8A1A5 000000??
++Dauragon 3
+%Credits: Code Master
+$01D8A1A6 000000??
++Dauragon 4
+%Credits: Code Master
+$01D8A1A7 000000??
++Dominique
+%Credits: Code Master
+$01D8A1AB 000000??
++Echidna[MOD1]
+%Credits: Code Master
+$01D8A1A3 000000??
++Kaldea
+%Credits: Code Master
+$01D8A1AC 000000??
++Leann
+%Credits: Code Master
+$01D8A1AE 000000??
++Mugetsu
+%Credits: Code Master
+$01D8A1A8 000000??
++Mugetsu 2
+%Credits: Code Master
+$01D8A1A9 000000??
++PD-4
+%Credits: Code Master
+$01D8A1AA 000000??
++Wong
+%Credits: Code Master
+$01D8A1AD 000000??
+!!
+!Sion Barzahd Codes:
++Have All Extra Skills
+%Credits: Code Master
+$21D89F80 000000FF
++Infinite Defense
+%Credits: Code Master
+$21D89F70 0000012C
++Infinite Life
+%Credits: Code Master
+$21D89F64 0000012C
++Max Bouncer Points
+%Credits: Code Master
+$21D89FC0 0001869F
++Max Defense
+%Credits: Code Master
+$21D89F78 0000012C
++Max Life
+%Credits: Code Master
+$21D89F6C 0000012C
++Max Power
+%Credits: Code Master
+$21D89F7C 0000012C
++Rank Modifier
+%Credits: Code Master
+$21D89F84 000000??
+!!
+!Sion Codes:
++Full Defense Stats
+%Credits: InterAct
+$21D89F70 0000270F
++Full Life Stats
+%Credits: InterAct
+$21D89F64 0000270F
++Max Defense Stats
+%Credits: InterAct
+$21D89F78 0000270F
++Max Life Stats
+%Credits: InterAct
+$21D89F6C 0000270F
++Max Power Stats
+%Credits: InterAct
+$21D89F7C 0000270F
+!!
+!Volt Codes:
++Full Defense Stats
+%Credits: InterAct
+$21D8A000 0000270F
++Full Life Stats
+%Credits: InterAct
+$21D89FF4 0000270F
++Max Bouncer Pts.
+%Credits: InterAct
+$21D8A050 0001869F
++Max Defense Stats
+%Credits: InterAct
+$21D8A008 0000270F
++Max Life Stats
+%Credits: InterAct
+$21D89FFC 0000270F
++Max Power Stats
+%Credits: InterAct
+$21D8A00C 0000270F
+!!
+!Volt Krueger Codes:
++Have All Extra Skills
+%Credits: Code Master
+$21D8A010 000000FF
++Infinite Defense
+%Credits: Code Master
+$21D8A000 0000012C
++Infinite Life
+%Credits: Code Master
+$21D89FF4 0000012C
++Max Defense
+%Credits: Code Master
+$21D8A008 0000012C
++Max Life
+%Credits: Code Master
+$21D89FFC 0000012C
++Max Power
+%Credits: Code Master
+$21D8A00C 0000012C
++Rank Modifier
+%Credits: Code Master
+$21D8A014 000000??
+!!
+!Vs Mode 's' Codes:
++Dauragon 1
+%Credits: Codejunkies
+$01D8A1A4 00000007
++Dauragon 2
+%Credits: Codejunkies
+$01D8A1A5 00000007
++Dauragon 3
+%Credits: Codejunkies
+$01D8A1A6 00000007
++Dominique
+%Credits: Codejunkies
+$01D8A1AA 00000007
++Ehidna
+%Credits: Codejunkies
+$01D8A1A3 00000007
++Kaldea
+%Credits: Codejunkies
+$01D8A1AB 00000007
++Kou
+%Credits: Codejunkies
+$21D8A0A4 00000007
++Leann
+%Credits: Codejunkies
+$01D8A1AD 00000007
++Megetsu 1
+%Credits: Codejunkies
+$01D8A1A7 00000007
++Megetsu 2
+%Credits: Codejunkies
+$01D8A1A8 00000007
++Pd-4
+%Credits: Codejunkies
+$01D8A1A9 00000007
++Sion
+%Credits: Codejunkies
+$21D89F84 00000007
++Volt
+%Credits: Codejunkies
+$21D8A014 00000007
++Wong
+%Credits: Codejunkies
+$01D8A1AC 00000007
+!!
+^6 = MODS:
+[MOD1]
+00 - G
+01 - F
+02 - E
+03 - D
+04 - C
+05 - B
+06 - A
+07 - S
+[/MOD1]
+

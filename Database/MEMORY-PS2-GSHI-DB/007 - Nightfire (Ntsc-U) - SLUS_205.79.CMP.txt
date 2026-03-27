@@ -1,0 +1,222 @@
+^3 = NAME: James Bond 007 - Nightfire (Ntsc-U)
+^2 = GameID: SLUS-20579
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0A00008 00A13A07
+$90A13A04 0C2814E7
+$902274D4 0C08D8E2
+$902C8EB4 0C0A9FA1
++[M] Must Be On
+%Credits: InterAct
+$902274D4 0C08D8E2
+!!
+!Action Mission Codes:
++Extra Ammo
+%Credits: Code Master
+$D022433C 10002420
+$202582F8 01441821
++Infinite Ammo
+%Credits: Code Master
+$D022433C 10002420
+$201A1A44 00000000
++Infinite Health
+%Credits: Code Master
+$E0022420 0022433C
+$2019BD24 3C0142C8
+$2019BD2C AE610894
++Mega Jump & Infinite Health
+%Credits: Code Master
+$E0032420 0022433C
+$201918B8 3C01C000
+$201960F8 3C0142C8
+$20196100 AE010894
++Never Reload
+%Credits: Code Master
+$D022433C 10002420
+$201A1978 00000000
++Super Jump & Infinite Health
+%Credits: Code Master
+$E0032420 0022433C
+$201918B8 3C01BF80
+$201960F8 3C0142C8
+$20196100 AE010894
++Ultra Jump & Infinite Health
+%Credits: Code Master
+$E0032420 0022433C
+$201918B8 3C01C080
+$201960F8 3C0142C8
+$20196100 AE010894
++Walk Thru Walls {<I>With This Code, Press L1+Select To Activate It &Amp; L2+Select To De-Activate It. To Avoid Falling Thru The Floor, We Had To Disable Jumping With This Code, So If You Need To Jump You Will Need To De-Activate This Code First. You Will Also Have Infinite Health To Avoid Dying Soon As You Re-Enter From The Other Side Of A Wall In A Location Where You Would Normally Be &#39;Falling&#39;.</I>}
+%Credits: Code Master
+$E003FBFE 00245702
+$20194C70 00000000
+$20195068 00000000
+$101960D6 00001000
+$E003FEFE 00245702
+$20194C70 FA410030
+$20195068 FA610030
+$101960D6 00001040
++Weapons With Zoom Can Zoom Hella
+%Credits: Code Master
+$E0022420 0022433C
+$201A1B84 00000000
+$201A1BC0 00000000
+!!
+!Activate In-Game Cheat Codes:
++Infinite Ammo
+%Credits: Code Master
+$D022433C 10002420
+$202A3740 00000001
++Infinite Health
+%Credits: Code Master
+$D022433C 10002420
+$202A3738 00000001
+!!
+!Driving Mission Codes:
++Extra Ammo
+%Credits: Code Master
+$D024C174 1000D2FC
+$2020E5C4 00501021
++Infinite Ammo
+%Credits: Code Master
+$D024C174 1000D2FC
+$2020E5C8 00000000
++Infinite Health
+%Credits: Code Master
+$E004D2FC 0024C174
+$200C0220 3C01453B
+$200C0224 08082622
+$200C0228 AC610378
+$20209868 08030088
+!!
++Hold Triangle To Moon Jump
+%Credits: Josh_7774
+$D0245682 0000EFFF
+$602BA190 40800000
+$00020000 00000054
++Infinite Ammo
+%Credits: InterAct
+$D01960CC 000064F8
+$201A1978 00000000
+$D01960CC 00000008
+$0020E5C6 00000040
++Infinite Health
+%Credits: InterAct
+$E00364F8 001960CC
+$201960B8 3C0142C8
+$201960BC 03E00008
+$201960C0 AC810894
++Unlock All Levels
+%Credits: InterAct
+$402DF308 000B0006
+$00000001 00000000
+!Unlock Level Codes:
++All Levels
+%Credits: Code Master
+$E00C2420 0022433C
+$202DF2F0 00000001
+$202DF308 00000001
+$202DF320 00000001
+$202DF338 00000001
+$202DF350 00000001
+$202DF368 00000001
+$202DF380 00000001
+$202DF398 00000001
+$202DF3B0 00000001
+$202DF3C8 00000001
+$202DF3E0 00000001
+$202DF3F8 00000001
++Alpine Escape
+%Credits: Code Master
+$D022433C 10002420
+$202DF320 00000001
++Chain Reaction
+%Credits: Code Master
+$D022433C 10002420
+$202DF380 00000001
++Countdown
+%Credits: Code Master
+$D022433C 10002420
+$202DF3E0 00000001
++Deep Descent
+%Credits: Code Master
+$D022433C 10002420
+$202DF3B0 00000001
++Double Cross
+%Credits: Code Master
+$D022433C 10002420
+$202DF350 00000001
++Enemies Vanquished
+%Credits: Code Master
+$D022433C 10002420
+$202DF338 00000001
++Equinox
+%Credits: Code Master
+$D022433C 10002420
+$202DF3F8 00000001
++Island Infiltration
+%Credits: Code Master
+$D022433C 10002420
+$202DF3C8 00000001
++Night Shift
+%Credits: Code Master
+$D022433C 10002420
+$202DF368 00000001
++Paris Prelude
+%Credits: Code Master
+$D022433C 10002420
+$202DF2F0 00000001
++Phoenix Fire
+%Credits: Code Master
+$D022433C 10002420
+$202DF398 00000001
++The Exchange
+%Credits: Code Master
+$D022433C 10002420
+$202DF308 00000001
+!!
++Unlock Only Alpine Escape
+%Credits: InterAct
+$002DF320 00000001
++Unlock Only Chain Reaction
+%Credits: InterAct
+$002DF380 00000001
++Unlock Only Countdown
+%Credits: InterAct
+$002DF3E0 00000001
++Unlock Only Deep Descent
+%Credits: InterAct
+$002DF3B0 00000001
++Unlock Only Double Cross
+%Credits: InterAct
+$002DF350 00000001
++Unlock Only Enemies Vanquished
+%Credits: InterAct
+$002DF338 00000001
++Unlock Only Equinox
+%Credits: InterAct
+$002DF3F8 00000001
++Unlock Only Island Infiltration
+%Credits: InterAct
+$002DF3C8 00000001
++Unlock Only Night Shift
+%Credits: InterAct
+$002DF368 00000001
++Unlock Only Phoenix Fire
+%Credits: InterAct
+$002DF398 00000001
++Unlock Only The Exchange
+%Credits: InterAct
+$002DF308 00000001
+![ASM]:
++Allow Going Solo In Multiplayer [ASM]
+%Credits: Josh_7774
+$2020EB60 00000000
++Sentinel Guided Missiles Can Be Flown Indefinitely [ASM]
+%Credits: Josh_7774
+$D012F010 E68000F4
+$2012F010 00000000
+!!
+!!
+

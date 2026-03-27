@@ -1,0 +1,227 @@
+^1 = Hash: 00 91 51 3D 23 ED 15 88 61 72 94 58 AF 5F C4 E7 05 18 FE B5
+^2 = GameID: SLUS_212.12
+^3 = NAME: Spartan Total Warrior
+!Masters:
++Enable Code (MUST BE ON)
+$9021EC90 0C087ACC
+!!
++Infinite Health
+%Credits: SkillerCMP>CMX
+$200C0220 8F838B90
+$200C0224 A46402FA
+$200C0228 03E00008
+$200C022C 000427C7
+$203BB660 0C030088
++Infinite Arrows
+%Credits: SkillerCMP>CMX
+$2030DDB0 00000000
++Max Infinite Arrows
+%Credits: SkillerCMP>CMX
+$2030DDAC 24020063
++Extra Arrows
+%Credits: SkillerCMP>CMX
+$2030DDAC 00441021
++Max Kills
+%Credits: SkillerCMP>CMX
+$2057CB0C 000003E7
++Kills Worth -Amount
+%Credits: SkillerCMP>CMX
+$102A0BF4 0000[Amount:2710:HEX:BIG]
++Strangth Of Enemies{Lower Number = Weaker, Higher = Stronger}
+%Credits: SkillerCMP>CMX
+$2057CB04 [Amount:3C000000:FLOAT:BIG]
++Unlock All Single Mission Replay
+%Credits: SkillerCMP>CMX
+$20381330 2406000E
+$005EC1E8 0000000E
++Unlock All Arena Challenges
+%Credits: SkillerCMP>CMX
+$20381344 24060005
+$005EC238 00000005
++Disable Hud
+%Credits: SkillerCMP>CMX
+$005EA685 00000001
++Debug Free Camera
+%Credits: SkillerCMP>CMX
+$005EA689 00000001
++Stop Game (press Start To Resume)
+%Credits: SkillerCMP>CMX
+$005EA6AB 00000001
++No Background
+%Credits: SkillerCMP>CMX
+$005EA6AE 00000001
++Unlock Everything
+%Credits: SkillerCMP>CMX
+$005EC1E8 0000000E
+$205EC238 01010105
+$405EC23C 00100001
+$01010101 00000000
+!Rage Codes:{Only Use 1 Rage Code}
++Super Max Rage
+%Credits: SkillerCMP>CMX
+$205BB4C4 00002710
++Infinite Rage
+%Credits: SkillerCMP>CMX
+$205BB4CC 00002710
++Max Infinite Rage
+%Credits: SkillerCMP>CMX
+$20451250 00000000
+$2045125C 8E030000
++Rage Meter Doesn't Decrease Over Time
+%Credits: SkillerCMP>CMX
+$20451260 00000000
+$20451268 00000000
+!!
+!Activate Cheat Codes:
++Benny Hill Mode
+%Credits: SkillerCMP>CMX
+$005EA671 00000001
++Infinite Arrows
+%Credits: SkillerCMP>CMX
+$005EA677 00000001
++Invinicible
+%Credits: SkillerCMP>CMX
+$005EA67C 00000001
++L3 Refills Power
+%Credits: SkillerCMP>CMX
+$005EA67D 00000001
++L3 Turns Everyone To Stone
+%Credits: SkillerCMP>CMX
+$005EA67E 00000001
+!!
+!Arena High Score Codes:
+1st Place Set At -Amount 
+$205EC200 [Amount:05F5E0FF:HEX:BIG]
+2nd Place Set At -Amount 
+$205EC204 [Amount:05F5E0FF:HEX:BIG]
+3rd Place Set At -Amount  
+$205EC208 [Amount:05F5E0FF:HEX:BIG]
+4th Place Set At -Amount 
+$205EC20C [Amount:05F5E0FF:HEX:BIG]
+5th Place Set At -Amount  
+$205EC210 [Amount:05F5E0FF:HEX:BIG]
+6th Place Set At -Amount 
+$205EC214 [Amount:05F5E0FF:HEX:BIG]
+7th Place Set At -Amount  
+$205EC218 [Amount:05F5E0FF:HEX:BIG]
+!!
+!Unlock Gallery Codes
++Unlock All Gallery
+%Credits: SkillerCMP>CMX
+$105EC252 00000101
+$405EC254 000A0001
+$01010101 00000000
+!Individual:
++Pic 1
+%Credits: SkillerCMP>CMX
+$005EC252 00000001
++Pic 2
+%Credits: SkillerCMP>CMX
+$005EC253 00000001
++Pic 3
+%Credits: SkillerCMP>CMX
+$005EC254 00000001
++Pic 4
+%Credits: SkillerCMP>CMX
+$005EC255 00000001
++Pic 5
+%Credits: SkillerCMP>CMX
+$005EC256 00000001
++Pic 6
+%Credits: SkillerCMP>CMX
+$005EC257 00000001
++Pic 7
+%Credits: SkillerCMP>CMX
+$005EC258 00000001
++Pic 8
+%Credits: SkillerCMP>CMX
+$005EC259 00000001
++Pic 9
+%Credits: SkillerCMP>CMX
+$005EC25A 00000001
++Pic 10
+%Credits: SkillerCMP>CMX
+$005EC25B 00000001
++Pic 11
+%Credits: SkillerCMP>CMX
+$005EC25C 00000001
++Pic 12
+%Credits: SkillerCMP>CMX
+$005EC25D 00000001
++Pic 13
+%Credits: SkillerCMP>CMX
+$005EC25E 00000001
++Pic 14
+%Credits: SkillerCMP>CMX
+$005EC261 00000001
++Pic 15
+%Credits: SkillerCMP>CMX
+$005EC262 00000001
++Pic 16
+%Credits: SkillerCMP>CMX
+$005EC263 00000001
++Pic 17
+%Credits: SkillerCMP>CMX
+$005EC264 00000001
++Pic 18
+%Credits: SkillerCMP>CMX
+$005EC265 00000001
++Pic 19
+%Credits: SkillerCMP>CMX
+$005EC266 00000001
++Pic 20
+%Credits: SkillerCMP>CMX
+$005EC26A 00000001
++Pic 21
+%Credits: SkillerCMP>CMX
+$005EC26B 00000001
++Pic 22
+%Credits: SkillerCMP>CMX
+$005EC26C 00000001
++Pic 23
+%Credits: SkillerCMP>CMX
+$005EC26D 00000001
++Pic 24
+%Credits: SkillerCMP>CMX
+$005EC26E 00000001
++Pic 25
+%Credits: SkillerCMP>CMX
+$005EC26F 00000001
++Pic 26
+%Credits: SkillerCMP>CMX
+$005EC270 00000001
++Pic 27
+%Credits: SkillerCMP>CMX
+$005EC271 00000001
++Pic 28
+%Credits: SkillerCMP>CMX
+$005EC272 00000001
++Pic 29
+%Credits: SkillerCMP>CMX
+$005EC273 00000001
++Pic 30
+%Credits: SkillerCMP>CMX
+$005EC274 00000001
++Pic 31
+%Credits: SkillerCMP>CMX
+$005EC275 00000001
++Pic 32
+%Credits: SkillerCMP>CMX
+$005EC276 00000001
++Pic 33
+%Credits: SkillerCMP>CMX
+$005EC277 00000001
++Pic 34
+%Credits: SkillerCMP>CMX
+$005EC278 00000001
++Pic 35
+%Credits: SkillerCMP>CMX
+$005EC279 00000001
++Pic 36
+%Credits: SkillerCMP>CMX
+$005EC27A 00000001
++Pic 37
+%Credits: SkillerCMP>CMX
+$005EC27B 00000001
+!!
+!!

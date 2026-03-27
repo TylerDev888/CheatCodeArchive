@@ -1,0 +1,13 @@
+^2 = GameID: SGAE8P
+^3 = NAME: Tournament of Legends
++Turn CPU Into Player Controlled{With This Code On It Will Alow U To Play As What Ever Character The CPU Is In Story Mode. Note You Can Use This Code To Make The CPU Just Stand Still But You Will Have To Setup The Weapons And Magic Used.}
+%Credits: Skiller
+$C20CCEBC 00000005
+$2C0405A0 4082001C
+$7C84002E 2C040001
+$4082000C 388005A0
+$7F24012E 388005A0
+$7C04002E 00000000
++Freeze Timer
+%Credits: Skiller
+$0474F6E0 00000001

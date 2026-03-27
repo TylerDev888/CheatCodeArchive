@@ -1,0 +1,41 @@
+^1 = Hash: 23 63 92 DC 9F A8 1A 75 89 16 49 1F B4 ED 57 3D 90 E8 95 4C
+^2 = GameID: SLUS_218.46
+^3 = NAME: Sonic Unleashed
+!Masters:
++Enable Code (MUST BE ON)
+$9065B758 0C196D7E
+!!
++Main Timer Freez
+%Credits: SkillerCMP
+$201ECD4C 461F0800
++Other Timer ??
+%Credits: SkillerCMP
+$201ECDD4 461F0800
++Gain Max Special/Coins
+%Credits: SkillerCMP
+$2024F058 C4602718
++Refill HP On Coin Pickup
+%Credits: SkillerCMP
+$2025000C C4802708
++Inf HP
+%Credits: SkillerCMP
+$2024E3A0 461F0841
++Max Suns
+%Credits: SkillerCMP
+$008922F0 000000FF
++Max Moons
+%Credits: SkillerCMP
+$008922F1 000000FF
++Dark Gaia Force Points
+%Credits: SkillerCMP
+$20894FFC 05F5E0FF
++Have Max Sun After Pickup
+%Credits: SkillerCMP
+$20420510 24050064
+$20420514 03E00008
+$20420518 A0850000
++Have Max Moon After Pickup
+%Credits: SkillerCMP
+$20420520 24050064
+$20420524 03E00008
+$20420528 A0850001

@@ -1,0 +1,36 @@
+^1 = HASH: 94834BD3
+^3 = NAME: Capcom Vs. SNK 2- Millionaire Fighting 2001 (Japanese)
+^2 = GameID: SLPS_253.16
+!Masters:
++Enable Code (Must Be On)
+%Credits: CMX>GMO
+$F0100008 0010DE37
+!!
+!Codes:
++Unlock Shin Akuma & God Rugal
+%Credits: CMX>GMO
+$203F701C FFFFFFFF
++Max Groove Points
+%Credits: CMX>GMO
+$20617E56 0098967F
++P1 Infinite Health
+%Credits: CMX>GMO
+$20510C74 36003600
+$10510C78 00003600
++P1 Infinite Groove Time
+%Credits: CMX>GMO
+$20510DFC 000003E8
++P1 Infinite Guard Crash
+%Credits: CMX>GMO
+$10510D3C 00003030
++P2 Infinite Health
+%Credits: CMX>GMO
+$20511814 36003600
+$20511818 00003600
++P2 Infinite Groove Time
+%Credits: CMX>GMO
+$2051199C 000003E8
++P2 Infinite Guard Crash
+%Credits: CMX>GMO
+$105118DC 00003030
+!!

@@ -1,0 +1,7061 @@
+^1 = Hash: D1 D8 18 0B 7C 4C 6B BD D6 1D 41 C7 54 BA EF AB 2C B7 49 49
+^2 = GameID: SLUS_214.45
+^3 = NAME: Ar Tonelico: Melody of Elemia
+%Credits: Skiller>Lee4
+!Masters:
++Enable Code (MUST BE ON)
+$90347838 0C0D1DB6
++Enable Code (MUST BE ON)
+$F03524B8 003524BB
++Enable Code (MUST BE ON)
+$0E3C7DF2 1456E7A5
+$F03524B8 003524BB
+!!
+!Joker:
++Player 1 Controller Reverse
+$00A9445C 0000[JOKER:PS2]
++Player 2 Controller Reverse
+$00AF5C68 0000[JOKER:PS2]
+!!
+!Extra Codes:
++Unlock Extra On Title Screen
+$00C56B57 00000007
++Unlock Everything In Extra
+$40C565E0 00A50001
+$01010101 00000000
+$00C56874 00000001
+$40C568F4 00970001
+$01010101 00000000
+$00C568F2 00000101
+$40C56880 00130001
+$04040404 00000000
+$00C568CC 00000004
+$00C5687F 00000004
+$20C568EC 0A646464
+$10C568F0 00000A0A
+!!
+!Misc Codes:
++Max/Inf Money
+$20A9196C 0098967F
++Max/Inf Drive Points Misha
+$20D33774 000F423F
++Max/Inf Drive Points Aurica
+$20D33770 000F423F
++Max/Inf Drive Points Shurelica
+$20D33778 000F423F
++Low Game Time
+$20A91938 00000000
++Max Game Time 999:59
+$20A91938 0CDFE5C3
++Game Time Running Speed Mod
+$1013AC70 0000[RSM]
++Free Items
+$202E3B80 00000000
+$202E3B84 00000000
+$202E3B3C 00000000
+$202E3B40 00000000
+$202E4180 00000000
++Have All Shots
+$00A91981 00000001
+$10A91982 00000101
+$10A91984 00000101
++Full Card Collection
+$40D21E60 00590001
+$04040404 00000000
+$10D21E5E 00000404
+$10D21FC4 00000404
++Have/Max/S Rank All Items
+$40D43E40 008E0003
+$63FF6463 00000000
+$40D43E44 008D0003
+$6463FF64 00000000
+$40D43E48 008D0003
+$FF6463FF 00000000
+$00D444E0 00000064
+$40D21C28 008D0001
+$04040404 00000000
+$10D21E5C 00000404
+!!
+!Battle Codes:
++Always Random Battles
+$20D25724 00330032
++No Random Battles
+$20D25724 00000032
++Max Song Bar{When U Pick "Sing A Song" for the first time u will get Max Song Bar if u change to another Song u will have 0 and will need to do 1 turn with someone to max your Song bar back out... ANy Turn based move will Give u Max Bar.)
+$202F6440 08028000
+$200A0000 3C05000F
+$200A0004 34A5423F
+$200A0008 AC850068
+$200A000C AC850070
+$200A0010 080BD911
+$200A0014 8C8F0068
+After Battle Extra Drive Points+{Adds Ontop of what u get}
+$202EDB98 0802800C
+$200A0030 24A5[Amount:2710:HEX:BIG]
+$200A0034 00AF7821
+$200A0038 080BB6E7
++After Battle Extra EXP{Adds Ontop What Each Character Gets}
+$201869E8 08028014
+$200A0050 2610[Amount:2710:HEX:BIG]
+$200A0054 020F7821
+$200A0058 08061A7B
+After Battle Extra Money {Adds Ontop of what u get}
+$202C0D58 2484[Amount:2710:HEX:BIG]
+!!
+!Characters:
+!Character 1:
++Max Lvl
+$00D20B00 00000064
++Current/Max HP
+$10D20B02 0000270F
+$10D20B06 0000270F
+$10D20B2C 0000270F
++Physical Damage
+$10D20B22 00007FFF
++Fire & Ice Damage
+$20D20B24 7FFF7FFF
++Ligtning & Wind Damage
+$20D20B28 7FFF7FFF
++Max MP
+$10D20B04 0000270F
++Max Attack
+$10D20B0A 0000270F
++Max Critical
+$10D20B0C 0000270F
++Max Defese
+$10D20B0E 0000270F
++Max Agility
+$10D20B10 0000270F
++Max F Resist
+$00D20B12 00000064
++Max I Resist
+$00D20B14 00000064
++Max L Resist
+$00D20B16 00000064
++Max W Resist
+$00D20B18 00000064
++Max F Attack
+$00D20B1A 00000064
++Max I Attack
+$00D20B1C 00000064
++Max L Attack
+$00D20B1E 00000064
++Max W Attack
+$00D20B20 00000064
++Go-Regist
+$10D20B4E 00000064
++EXP Mod
+$20D20B54 [Amount:05F5E0FF:HEX:BIG]
++Quick Lvl Up 65535 Gain
+$10D20B54 0000FFFF
++Quick Lvl Up 255 Gain
+$00D20B54 000000FF
++Equipment Mod
++Weapon
+$10D20BC4 0000[INV]
++Armor
+$10D20BCE 0000[INV]
++Accessory
+$10D20BD8 0000[INV]
++Enhancements
++Weapon L1
+$10D20BC6 0000[INV]
++Weapon L2
+$10D20BC8 0000[INV]
++Weapon L3
+$10D20BCA 0000[INV]
++Weapon L4
+$10D20BCC 0000[INV]
++Armor L1
+$10D20BD0 0000[INV]
++Armor L2
+$10D20BD2 0000[INV]
++Armor L3
+$10D20BD4 0000[INV]
++Armor L4
+$10D20BD6 0000[INV]
++Accessory L1
+$10D20BDA 0000[INV]
++Accessory L2
+$10D20BDC 0000[INV]
++Accessory L3
+$10D20BDE 0000[INV]
++Accessory L4
+$10D20BE0 0000[INV]
+!!
+!Character 2:
++Max Lvl
+$00D20BE4 00000064
++Current/Max HP
+$10D20BE6 0000270F
+$10D20BEA 0000270F
+$10D20C10 0000270F
++Physical Damage
+$10D20C06 00007FFF
++Fire & Ice Damage
+$20D20C08 7FFF7FFF
++Ligtning & Wind Damage
+$20D20C0C 7FFF7FFF
++Max MP
+$10D20BE8 0000270F
++Max Attack
+$10D20BEE 0000270F
++Max Critical
+$10D20BF0 0000270F
++Max Defese
+$10D20BF2 0000270F
++Max Agility
+$10D20BF4 0000270F
++Max F Resist
+$00D20BF6 00000064
++Max I Resist
+$00D20BF8 00000064
++Max L Resist
+$00D20BFA 00000064
++Max W Resist
+$00D20BFC 00000064
++Max F Attack
+$00D20BFE 00000064
++Max I Attack
+$00D20C00 00000064
++Max L Attack
+$00D20C02 00000064
++Max W Attack
+$00D20C04 00000064
++Go-Regist
+$10D20C32 00000064
++EXP Mod
+$20D20C38 [Amount:05F5E0FF:HEX:BIG]
++Quick Lvl Up 65535 Gain
+$10D20C38 0000FFFF
++Quick Lvl Up 255 Gain
+$00D20C38 000000FF
++Equipment Mod
++Weapon
+$10D20CA8 0000[INV]
++Armor
+$10D20CB2 0000[INV]
++Accessory
+$10D20CBC 0000[INV]
++Enhancements
++Weapon L1
+$10D20CAA 0000[INV]
++Weapon L2
+$10D20CAC 0000[INV]
++Weapon L3
+$10D20CAE 0000[INV]
++Weapon L4
+$10D20CB0 0000[INV]
++Armor L1
+$10D20CB4 0000[INV]
++Armor L2
+$10D20CB6 0000[INV]
++Armor L3
+$10D20CB8 0000[INV]
++Armor L4
+$10D20CBA 0000[INV]
++Accessory L1
+$10D20CBE 0000[INV]
++Accessory L2
+$10D20CC0 0000[INV]
++Accessory L3
+$10D20CC2 0000[INV]
++Accessory L4
+$10D20CC4 0000[INV]
+!!
+!Character 3:
++Max Lvl
+$00D20CC8 00000064
++Current/Max HP
+$10D20CCA 0000270F
+$10D20CCE 0000270F
+$10D20CF4 0000270F
++Physical Damage
+$10D20CEA 00007FFF
++Fire & Ice Damage
+$20D20CEC 7FFF7FFF
++Ligtning & Wind Damage
+$20D20CF0 7FFF7FFF
++Max MP
+$10D20CCC 0000270F
++Max Attack
+$10D20CD2 0000270F
++Max Critical
+$10D20CD4 0000270F
++Max Defese
+$10D20CD6 0000270F
++Max Agility
+$10D20CD8 0000270F
++Max F Resist
+$00D20CDA 00000064
++Max I Resist
+$00D20CDC 00000064
++Max L Resist
+$00D20CDE 00000064
++Max W Resist
+$00D20CE0 00000064
++Max F Attack
+$00D20CE2 00000064
++Max I Attack
+$00D20CE4 00000064
++Max L Attack
+$00D20CE6 00000064
++Max W Attack
+$00D20CE8 00000064
++Go-Regist
+$10D20D16 00000064
++EXP Mod
+$20D20D1C [Amount:05F5E0FF:HEX:BIG]
++Quick Lvl Up 65535 Gain
+$10D20D1C 0000FFFF
++Quick Lvl Up 255 Gain
+$00D20D1C 000000FF
++Equipment Mod
++Weapon
+$10D20D8C 0000[INV]
++Armor
+$10D20D96 0000[INV]
++Accessory
+$10D20DA0 0000[INV]
++Enhancements
++Weapon L1
+$10D20D8E 0000[INV]
++Weapon L2
+$10D20D90 0000[INV]
++Weapon L3
+$10D20D92 0000[INV]
++Weapon L4
+$10D20D94 0000[INV]
++Armor L1
+$10D20D98 0000[INV]
++Armor L2
+$10D20D9A 0000[INV]
++Armor L3
+$10D20D9C 0000[INV]
++Armor L4
+$10D20D9E 0000[INV]
++Accessory L1
+$10D20DA2 0000[INV]
++Accessory L2
+$10D20DA4 0000[INV]
++Accessory L3
+$10D20DA6 0000[INV]
++Accessory L4
+$10D20DA8 0000[INV]
+!!
+!Character 4:
++Max Lvl
+$00D20DAC 00000064
++Current/Max HP
+$10D20DAE 0000270F
+$10D20DB2 0000270F
+$10D20DD8 0000270F
++Physical Damage
+$10D20DCE 00007FFF
++Fire & Ice Damage
+$20D20DD0 7FFF7FFF
++Ligtning & Wind Damage
+$20D20DD4 7FFF7FFF
++Max MP
+$10D20DB0 0000270F
++Max Attack
+$10D20DB6 0000270F
++Max Critical
+$10D20DB8 0000270F
++Max Defese
+$10D20DBA 0000270F
++Max Agility
+$10D20DBC 0000270F
++Max F Resist
+$00D20DBE 00000064
++Max I Resist
+$00D20DC0 00000064
++Max L Resist
+$00D20DC2 00000064
++Max W Resist
+$00D20DC4 00000064
++Max F Attack
+$00D20DC6 00000064
++Max I Attack
+$00D20DC8 00000064
++Max L Attack
+$00D20DCA 00000064
++Max W Attack
+$00D20DCC 00000064
++Go-Regist
+$10D20DFA 00000064
++EXP Mod
+$20D20E00 [Amount:05F5E0FF:HEX:BIG]
++Quick Lvl Up 65535 Gain
+$10D20E00 0000FFFF
++Quick Lvl Up 255 Gain
+$00D20E00 000000FF
++Equipment Mod
++Weapon
+$10D20E70 0000[INV]
++Armor
+$10D20E7A 0000[INV]
++Accessory
+$10D20E84 0000[INV]
++Enhancements
++Weapon L1
+$10D20E72 0000[INV]
++Weapon L2
+$10D20E74 0000[INV]
++Weapon L3
+$10D20E76 0000[INV]
++Weapon L4
+$10D20E78 0000[INV]
++Armor L1
+$10D20E7C 0000[INV]
++Armor L2
+$10D20E7E 0000[INV]
++Armor L3
+$10D20E80 0000[INV]
++Armor L4
+$10D20E82 0000[INV]
++Accessory L1
+$10D20E86 0000[INV]
++Accessory L2
+$10D20E88 0000[INV]
++Accessory L3
+$10D20E8A 0000[INV]
++Accessory L4
+$10D20E8C 0000[INV]
+!!
+!Character 5:
++Max Lvl
+$00D20E90 00000064
++Current/Max HP
+$10D20E92 0000270F
+$10D20E96 0000270F
+$10D20EBC 0000270F
++Physical Damage
+$10D20EB2 00007FFF
++Fire & Ice Damage
+$20D20EB4 7FFF7FFF
++Ligtning & Wind Damage
+$20D20EB8 7FFF7FFF
++Max MP
+$10D20E94 0000270F
++Max Attack
+$10D20E9A 0000270F
++Max Critical
+$10D20E9C 0000270F
++Max Defese
+$10D20E9E 0000270F
++Max Agility
+$10D20EA0 0000270F
++Max F Resist
+$00D20EA2 00000064
++Max I Resist
+$00D20EA4 00000064
++Max L Resist
+$00D20EA6 00000064
++Max W Resist
+$00D20EA8 00000064
++Max F Attack
+$00D20EAA 00000064
++Max I Attack
+$00D20EAC 00000064
++Max L Attack
+$00D20EAE 00000064
++Max W Attack
+$00D20EB0 00000064
++Go-Regist
+$10D20EDE 00000064
++EXP Mod
+$20D20EE4 [Amount:05F5E0FF:HEX:BIG]
++Quick Lvl Up 65535 Gain
+$10D20EE4 0000FFFF
++Quick Lvl Up 255 Gain
+$00D20EE4 000000FF
++Equipment Mod
++Weapon
+$10D20F54 0000[INV]
++Armor
+$10D20F5E 0000[INV]
++Accessory
+$10D20F68 0000[INV]
++Enhancements
++Weapon L1
+$10D20F56 0000[INV]
++Weapon L2
+$10D20F58 0000[INV]
++Weapon L3
+$10D20F5A 0000[INV]
++Weapon L4
+$10D20F5C 0000[INV]
++Armor L1
+$10D20F60 0000[INV]
++Armor L2
+$10D20F62 0000[INV]
++Armor L3
+$10D20F64 0000[INV]
++Armor L4
+$10D20F66 0000[INV]
++Accessory L1
+$10D20F6A 0000[INV]
++Accessory L2
+$10D20F6C 0000[INV]
++Accessory L3
+$10D20F6E 0000[INV]
++Accessory L4
+$10D20F70 0000[INV]
+!!
+!Character 6:
++Max Lvl
+$00D20F74 00000064
++Current/Max HP
+$10D20F76 0000270F
+$10D20F7A 0000270F
+$10D20FA0 0000270F
++Physical Damage
+$10D20F96 00007FFF
++Fire & Ice Damage
+$20D20F98 7FFF7FFF
++Ligtning & Wind Damage
+$20D20F9C 7FFF7FFF
++Max MP
+$10D20F78 0000270F
++Max Attack
+$10D20F7E 0000270F
++Max Critical
+$10D20F80 0000270F
++Max Defese
+$10D20F82 0000270F
++Max Agility
+$10D20F84 0000270F
++Max F Resist
+$00D20F86 00000064
++Max I Resist
+$00D20F88 00000064
++Max L Resist
+$00D20F8A 00000064
++Max W Resist
+$00D20F8C 00000064
++Max F Attack
+$00D20F8E 00000064
++Max I Attack
+$00D20F90 00000064
++Max L Attack
+$00D20F92 00000064
++Max W Attack
+$00D20F94 00000064
++Go-Regist
+$10D20FC2 00000064
++EXP Mod
+$20D20FC8 [Amount:05F5E0FF:HEX:BIG]
++Quick Lvl Up 65535 Gain
+$10D20FC8 0000FFFF
++Quick Lvl Up 255 Gain
+$00D20FC8 000000FF
++Equipment Mod
++Weapon
+$10D21038 0000[INV]
++Armor
+$10D21042 0000[INV]
++Accessory
+$10D2104C 0000[INV]
++Enhancements
++Weapon L1
+$10D2103A 0000[INV]
++Weapon L2
+$10D2103C 0000[INV]
++Weapon L3
+$10D2103E 0000[INV]
++Weapon L4
+$10D21040 0000[INV]
++Armor L1
+$10D21044 0000[INV]
++Armor L2
+$10D21046 0000[INV]
++Armor L3
+$10D21048 0000[INV]
++Armor L4
+$10D2104A 0000[INV]
++Accessory L1
+$10D2104E 0000[INV]
++Accessory L2
+$10D21050 0000[INV]
++Accessory L3
+$10D21052 0000[INV]
++Accessory L4
+$10D21054 0000[INV]
+!!
+!Character 7:
++Max Lvl
+$00D21058 00000064
++Current/Max HP
+$10D2105A 0000270F
+$10D2105E 0000270F
+$10D21084 0000270F
++Physical Damage
+$10D2107A 00007FFF
++Fire & Ice Damage
+$20D2107C 7FFF7FFF
++Ligtning & Wind Damage
+$20D21080 7FFF7FFF
++Max MP
+$10D2105C 0000270F
++Max Attack
+$10D21062 0000270F
++Max Critical
+$10D21064 0000270F
++Max Defese
+$10D21066 0000270F
++Max Agility
+$10D21068 0000270F
++Max F Resist
+$00D2106A 00000064
++Max I Resist
+$00D2106C 00000064
++Max L Resist
+$00D2106E 00000064
++Max W Resist
+$00D21070 00000064
++Max F Attack
+$00D21072 00000064
++Max I Attack
+$00D21074 00000064
++Max L Attack
+$00D21076 00000064
++Max W Attack
+$00D21078 00000064
++Go-Regist
+$10D210A6 00000064
++EXP Mod
+$20D210AC [Amount:05F5E0FF:HEX:BIG]
++Quick Lvl Up 65535 Gain
+$10D210AC 0000FFFF
++Quick Lvl Up 255 Gain
+$00D210AC 000000FF
++Equipment Mod
++Weapon
+$10D2111C 0000[INV]
++Armor
+$10D21126 0000[INV]
++Accessory
+$10D21130 0000[INV]
++Enhancements
++Weapon L1
+$10D2111E 0000[INV]
++Weapon L2
+$10D21120 0000[INV]
++Weapon L3
+$10D21122 0000[INV]
++Weapon L4
+$10D21124 0000[INV]
++Armor L1
+$10D21128 0000[INV]
++Armor L2
+$10D2112A 0000[INV]
++Armor L3
+$10D2112C 0000[INV]
++Armor L4
+$10D2112E 0000[INV]
++Accessory L1
+$10D21132 0000[INV]
++Accessory L2
+$10D21134 0000[INV]
++Accessory L3
+$10D21136 0000[INV]
++Accessory L4
+$10D21138 0000[INV]
+!!
+!Character 8:
++Max Lvl
+$00D2113C 00000064
++Current/Max HP
+$10D2113E 0000270F
+$10D21142 0000270F
+$10D21168 0000270F
++Physical Damage
+$10D2115E 00007FFF
++Fire & Ice Damage
+$20D21160 7FFF7FFF
++Ligtning & Wind Damage
+$20D21164 7FFF7FFF
++Max MP
+$10D21140 0000270F
++Max Attack
+$10D21146 0000270F
++Max Critical
+$10D21148 0000270F
++Max Defese
+$10D2114A 0000270F
++Max Agility
+$10D2114C 0000270F
++Max F Resist
+$00D2114E 00000064
++Max I Resist
+$00D21150 00000064
++Max L Resist
+$00D21152 00000064
++Max W Resist
+$00D21154 00000064
++Max F Attack
+$00D21156 00000064
++Max I Attack
+$00D21158 00000064
++Max L Attack
+$00D2115A 00000064
++Max W Attack
+$00D2115C 00000064
++Go-Regist
+$10D2118A 00000064
++EXP Mod
+$20D21190 [Amount:05F5E0FF:HEX:BIG]
++Quick Lvl Up 65535 Gain
+$10D21190 0000FFFF
++Quick Lvl Up 255 Gain
+$00D21190 000000FF
++Equipment Mod
++Weapon
+$10D21200 0000[INV]
++Armor
+$10D2120A 0000[INV]
++Accessory
+$10D21214 0000[INV]
++Enhancements
++Weapon L1
+$10D21202 0000[INV]
++Weapon L2
+$10D21204 0000[INV]
++Weapon L3
+$10D21206 0000[INV]
++Weapon L4
+$10D21208 0000[INV]
++Armor L1
+$10D2120C 0000[INV]
++Armor L2
+$10D2120E 0000[INV]
++Armor L3
+$10D21210 0000[INV]
++Armor L4
+$10D21212 0000[INV]
++Accessory L1
+$10D21216 0000[INV]
++Accessory L2
+$10D21218 0000[INV]
++Accessory L3
+$10D2121A 0000[INV]
++Accessory L4
+$10D2121C 0000[INV]
+!!
+!!
+!Items:
++50 Of All Gnode Crystals
+$40D440E8 00550003
+$FF6432FF 00000000
+$40D440EC 00540003
+$32FF6432 00000000
+$40D440F0 00540003
+$6432FF64 00000000
+$10D440E6 00006432
+$20D444DC 32FF6432
+$40D21D0C 00540001
+$04040404 00000000
+$10D21D0A 00000404
+$10D21E5C 00000404
++50 Of All Non-Craftable Ingredients
+$40D43EF8 00090003
+$6432FF64 00000000
+$40D43EFC 00080003
+$FF6432FF 00000000
+$40D43F00 00080003
+$32FF6432 00000000
+$40D21C68 00070001
+$04040404 00000000
+$00D43EF7 00000032
+$00D21C65 00000004
+$10D21C66 00000404
+$10D21C84 00000404
+$00D21C86 00000004
++50 Of All Non-Craftable Usables
+$40D44000 00040003
+$6432FF64 00000000
+$40D44004 00030003
+$FF6432FF 00000000
+$40D44008 00030003
+$32FF6432 00000000
+$00D43FFF 00000032
+$00D21CBD 00000004
+$10D21CBE 00000404
+$20D21CC0 04040404
+$20D21CC4 04040404
+$10D21CC8 00000404
+$00D21CCA 00000004
++Have 90 Of All Items Excluding Key Items
+$40D43E40 000C0003
+$5AFF645A 00000000
+$40D43E44 000C0003
+$645AFF64 00000000
+$40D83E48 000C0003
+$FF645AFF 00000000
+$40D21C28 000C0001
+$04040404 00000000
+$10D43ED0 0000645A
+$00D21C57 00000004
+$40D43EF8 007E0003
+$645AFF64 00000000
+$40D43EFC 007E0003
+$FF645AFF 00000000
+$40D43F00 007E0003
+$5AFF645A 00000000
+$40D21C68 007E0001
+$04040404 00000000
+$00D43EF7 0000005A
+$00D444E0 00000064
+$00D21C65 00000004
+$10D21C66 00000404
+$10D21E5C 00000404
++Have No Yuteria String/Item Not Yet Made
+$00D21C5C 00000002
+$00D43EDC 00000000
++Have No Circula/Item Not Yet Made
+$00D21C5E 00000002
+$00D43EE2 00000000
+!Items Individual:
+!Defeated Lover's Charm:
++Activate
+$00D21C28 00000004
++Amount You Have
+$00D43E40 00000063
++S Rank
+$00D43E41 00000064
++Item Named By
+$00D43E42 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Paradox Eye:
++Activate
+$00D21C29 00000004
++Amount You Have
+$00D43E43 00000063
++S Rank
+$00D43E44 00000064
++Item Named By
+$00D43E45 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Funny Clothing:
++Activate
+$00D21C2A 00000004
++Amount You Have
+$00D43E46 00000063
++S Rank
+$00D43E47 00000064
++Item Named By
+$00D43E48 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Resonance Shield Box:
++Activate
+$00D21C2B 00000004
++Amount You Have
+$00D43E49 00000063
++S Rank
+$00D43E4A 00000064
++Item Named By
+$00D43E4B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Grathnode Ring:
++Activate
+$00D21C2C 00000004
++Amount You Have
+$00D43E4C 00000063
++S Rank
+$00D43E4D 00000064
++Item Named By
+$00D43E4E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Parameno Ring:
++Activate
+$00D21C2D 00000004
++Amount You Have
+$00D43E4F 00000063
++S Rank
+$00D43E50 00000064
++Item Named By
+$00D43E51 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?crystal?:
++Activate
+$00D21C2E 00000004
++Amount You Have
+$00D43E52 00000063
++S Rank
+$00D43E53 00000064
++Item Named By
+$00D43E54 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?flashy Ring?:
++Activate
+$00D21C2F 00000004
++Amount You Have
+$00D43E55 00000063
++S Rank
+$00D43E56 00000064
++Item Named By
+$00D43E57 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?hat?:
++Activate
+$00D21C30 00000004
++Amount You Have
+$00D43E58 00000063
++S Rank
+$00D43E59 00000064
++Item Named By
+$00D43E5A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?string?:
++Activate
+$00D21C31 00000004
++Amount You Have
+$00D43E5B 00000063
++S Rank
+$00D43E5C 00000064
++Item Named By
+$00D43E5D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?octahedral Crystal?:
++Activate
+$00D21C32 00000004
++Amount You Have
+$00D43E5E 00000063
++S Rank
+$00D43E5F 00000064
++Item Named By
+$00D43E60 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?booster?:
++Activate
+$00D21C33 00000004
++Amount You Have
+$00D43E61 00000063
++S Rank
+$00D43E62 00000064
++Item Named By
+$00D43E63 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?white Ring?:
++Activate
+$00D21C34 00000004
++Amount You Have
+$00D43E64 00000063
++S Rank
+$00D43E65 00000064
++Item Named By
+$00D43E66 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?green Ring?:
++Activate
+$00D21C35 00000004
++Amount You Have
+$00D43E67 00000063
++S Rank
+$00D43E68 00000064
++Item Named By
+$00D43E69 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?cage?:
++Activate
+$00D21C36 00000004
++Amount You Have
+$00D43E6A 00000063
++S Rank
+$00D43E6B 00000064
++Item Named By
+$00D43E6C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?lamp?:
++Activate
+$00D21C37 00000004
++Amount You Have
+$00D43E6D 00000063
++S Rank
+$00D43E6E 00000064
++Item Named By
+$00D43E6F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Topology Ribbon:
++Activate
+$00D21C38 00000004
++Amount You Have
+$00D43E70 00000063
++S Rank
+$00D43E71 00000064
++Item Named By
+$00D43E72 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Sky's Musical Box:
++Activate
+$00D21C39 00000004
++Amount You Have
+$00D43E73 00000063
++S Rank
+$00D43E74 00000064
++Item Named By
+$00D43E75 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ocarina Of Heaven:
++Activate
+$00D21C3A 00000004
++Amount You Have
+$00D43E76 00000063
++S Rank
+$00D43E77 00000064
++Item Named By
+$00D43E78 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ring Of Aria:
++Activate
+$00D21C3B 00000004
++Amount You Have
+$00D43E79 00000063
++S Rank
+$00D43E7A 00000064
++Item Named By
+$00D43E7B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!White Armor:
++Activate
+$00D21C3C 00000004
++Amount You Have
+$00D43E7C 00000063
++S Rank
+$00D43E7D 00000064
++Item Named By
+$00D43E7E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Enhanced Fiber Armor:
++Activate
+$00D21C3D 00000004
++Amount You Have
+$00D43E7F 00000063
++S Rank
+$00D43E80 00000064
++Item Named By
+$00D43E81 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Overalls:
++Activate
+$00D21C3E 00000004
++Amount You Have
+$00D43E82 00000063
++S Rank
+$00D43E83 00000064
++Item Named By
+$00D43E84 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Samurai Armor:
++Activate
+$00D21C3F 00000004
++Amount You Have
+$00D43E85 00000063
++S Rank
+$00D43E86 00000064
++Item Named By
+$00D43E87 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Knight Suit:
++Activate
+$00D21C40 00000004
++Amount You Have
+$00D43E88 00000063
++S Rank
+$00D43E89 00000064
++Item Named By
+$00D43E8A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Powered Armor:
++Activate
+$00D21C41 00000004
++Amount You Have
+$00D43E8B 00000063
++S Rank
+$00D43E8C 00000064
++Item Named By
+$00D43E8D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Platina Dress:
++Activate
+$00D21C42 00000004
++Amount You Have
+$00D43E8E 00000063
++S Rank
+$00D43E8F 00000064
++Item Named By
+$00D43E90 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Light Neriya:
++Activate
+$00D21C43 00000004
++Amount You Have
+$00D43E91 00000063
++S Rank
+$00D43E92 00000064
++Item Named By
+$00D43E93 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Gdh2.0.1:
++Activate
+$00D21C44 00000004
++Amount You Have
+$00D43E94 00000063
++S Rank
+$00D43E95 00000064
++Item Named By
+$00D43E96 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Harmonion:
++Activate
+$00D21C45 00000004
++Amount You Have
+$00D43E97 00000063
++S Rank
+$00D43E98 00000064
++Item Named By
+$00D43E99 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Optical Camo Robe:
++Activate
+$00D21C46 00000004
++Amount You Have
+$00D43E9A 00000063
++S Rank
+$00D43E9B 00000064
++Item Named By
+$00D43E9C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?armor A?:
++Activate
+$00D21C47 00000004
++Amount You Have
+$00D43E9D 00000063
++S Rank
+$00D43E9E 00000064
++Item Named By
+$00D43E9F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?armor B?[4 Slots]:
++Activate
+$00D21C48 00000004
++Amount You Have
+$00D43EA0 00000063
++S Rank
+$00D43EA1 00000064
++Item Named By
+$00D43EA2 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?jacket?[4 Slots]:
++Activate
+$00D21C49 00000004
++Amount You Have
+$00D43EA3 00000063
++S Rank
+$00D43EA4 00000064
++Item Named By
+$00D43EA5 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?samurai Armor?:
++Activate
+$00D21C4A 00000004
++Amount You Have
+$00D43EA6 00000063
++S Rank
+$00D43EA7 00000064
++Item Named By
+$00D43EA8 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!White Tights:
++Activate
+$00D21C4B 00000004
++Amount You Have
+$00D43EA9 00000063
++S Rank
+$00D43EAA 00000064
++Item Named By
+$00D43EAB 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?camel Colored?:
++Activate
+$00D21C4C 00000004
++Amount You Have
+$00D43EAC 00000063
++S Rank
+$00D43EAD 00000064
++Item Named By
+$00D43EAE 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Funbun T-Shirt:
++Activate
+$00D21C4D 00000004
++Amount You Have
+$00D43EAF 00000063
++S Rank
+$00D43EB0 00000064
++Item Named By
+$00D43EB1 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?t-Shirt?:
++Activate
+$00D21C4E 00000004
++Amount You Have
+$00D43EB2 00000063
++S Rank
+$00D43EB3 00000064
++Item Named By
+$00D43EB4 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?dress?:
++Activate
+$00D21C4F 00000004
++Amount You Have
+$00D43EB5 00000063
++S Rank
+$00D43EB6 00000064
++Item Named By
+$00D43EB7 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?formal?:
++Activate
+$00D21C50 00000004
++Amount You Have
+$00D43EB8 00000063
++S Rank
+$00D43EB9 00000064
++Item Named By
+$00D43EBA 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?samurai?:
++Activate
+$00D21C51 00000004
++Amount You Have
+$00D43EBB 00000063
++S Rank
+$00D43EBC 00000064
++Item Named By
+$00D43EBD 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Reyvaring:
++Activate
+$00D21C52 00000004
++Amount You Have
+$00D43EBE 00000063
++S Rank
+$00D43EBF 00000064
++Item Named By
+$00D43EC0 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Star Tiara[4 Slots]:
++Activate
+$00D21C53 00000004
++Amount You Have
+$00D43EC1 00000063
++S Rank
+$00D43EC2 00000064
++Item Named By
+$00D43EC3 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Glamisole[4 Slots]:
++Activate
+$00D21C54 00000004
++Amount You Have
+$00D43EC4 00000063
++S Rank
+$00D43EC5 00000064
++Item Named By
+$00D43EC6 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?tiara?[4 Slots]:
++Activate
+$00D21C55 00000004
++Amount You Have
+$00D43EC7 00000063
++S Rank
+$00D43EC8 00000064
++Item Named By
+$00D43EC9 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?crown?:
++Activate
+$00D21C56 00000004
++Amount You Have
+$00D43ECA 00000063
++S Rank
+$00D43ECB 00000064
++Item Named By
+$00D43ECC 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Decorated Hakama:
++Activate
+$00D21C57 00000004
++Amount You Have
+$00D43ECD 00000063
++S Rank
+$00D43ECE 00000064
++Item Named By
+$00D43ECF 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Warm Sweater:
++Activate
+$00D21C58 00000004
++Amount You Have
+$00D43ED0 00000063
++S Rank
+$00D43ED1 00000064
++Item Named By
+$00D43ED2 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Hymn Brooch:
++Activate
+$00D21C59 00000004
++Amount You Have
+$00D43ED3 00000063
++S Rank
+$00D43ED4 00000064
++Item Named By
+$00D43ED5 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Handkerchief:
++Activate
+$00D21C5A 00000004
++Amount You Have
+$00D43ED6 00000063
++S Rank
+$00D43ED7 00000064
++Item Named By
+$00D43ED8 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Yuteria Fragment:
++Activate
+$00D21C5B 00000004
++Amount You Have
+$00D43ED9 00000063
++S Rank
+$00D43EDA 00000064
++Item Named By
+$00D43EDB 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Yuteria String:
++Activate
+$00D21C5C 00000004
++Amount You Have
+$00D43EDC 00000063
++S Rank
+$00D43EDD 00000064
++Item Named By
+$00D43EDE 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Yulastrino:
++Activate
+$00D21C5D 00000004
++Amount You Have
+$00D43EDF 00000063
++S Rank
+$00D43EE0 00000064
++Item Named By
+$00D43EE1 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Circula:
++Activate
+$00D21C5E 00000004
++Amount You Have
+$00D43EE2 00000063
++S Rank
+$00D43EE3 00000064
++Item Named By
+$00D43EE4 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Power Generator:
++Activate
+$00D21C5F 00000004
++Amount You Have
+$00D43EE5 00000063
++S Rank
+$00D43EE6 00000064
++Item Named By
+$00D43EE7 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Hc Purger:
++Activate
+$00D21C60 00000004
++Amount You Have
+$00D43EE8 00000063
++S Rank
+$00D43EE9 00000064
++Item Named By
+$00D43EEA 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Hc Linker:
++Activate
+$00D21C61 00000004
++Amount You Have
+$00D43EEB 00000063
++S Rank
+$00D43EEC 00000064
++Item Named By
+$00D43EED 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Hc Harmonius:
++Activate
+$00D21C62 00000004
++Amount You Have
+$00D43EEE 00000063
++S Rank
+$00D43EEF 00000064
++Item Named By
+$00D43EF0 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Hc Re Nation:
++Activate
+$00D21C63 00000004
++Amount You Have
+$00D43EF1 00000063
++S Rank
+$00D43EF2 00000064
++Item Named By
+$00D43EF3 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Fft Divider:
++Activate
+$00D21C64 00000004
++Amount You Have
+$00D43EF4 00000063
++S Rank
+$00D43EF5 00000064
++Item Named By
+$00D43EF6 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!White Stone:
++Activate
+$00D21C65 00000004
++Amount You Have
+$00D43EF7 00000063
++S Rank
+$00D43EF8 00000064
++Item Named By
+$00D43EF9 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Blue Stone:
++Activate
+$00D21C66 00000004
++Amount You Have
+$00D43EFA 00000063
++S Rank
+$00D43EFB 00000064
++Item Named By
+$00D43EFC 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Red Stone:
++Activate
+$00D21C67 00000004
++Amount You Have
+$00D43EFD 00000063
++S Rank
+$00D43EFE 00000064
++Item Named By
+$00D43EFF 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Black Stone:
++Activate
+$00D21C68 00000004
++Amount You Have
+$00D43F00 00000063
++S Rank
+$00D43F01 00000064
++Item Named By
+$00D43F02 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Seed Of Phebes:
++Activate
+$00D21C69 00000004
++Amount You Have
+$00D43F03 00000063
++S Rank
+$00D43F04 00000064
++Item Named By
+$00D43F05 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Bunched Grass:
++Activate
+$00D21C6A 00000004
++Amount You Have
+$00D43F06 00000063
++S Rank
+$00D43F07 00000064
++Item Named By
+$00D43F08 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Thundershroom:
++Activate
+$00D21C6B 00000004
++Amount You Have
+$00D43F09 00000063
++S Rank
+$00D43F0A 00000064
++Item Named By
+$00D43F0B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Burnt Root:
++Activate
+$00D21C6C 00000004
++Amount You Have
+$00D43F0C 00000063
++S Rank
+$00D43F0D 00000064
++Item Named By
+$00D43F0E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ultimate Cactus:
++Activate
+$00D21C6D 00000004
++Amount You Have
+$00D43F0F 00000063
++S Rank
+$00D43F10 00000064
++Item Named By
+$00D43F11 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Beak Breath:
++Activate
+$00D21C6E 00000004
++Amount You Have
+$00D43F12 00000063
++S Rank
+$00D43F13 00000064
++Item Named By
+$00D43F14 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dragon Wing:
++Activate
+$00D21C6F 00000004
++Amount You Have
+$00D43F15 00000063
++S Rank
+$00D43F16 00000064
++Item Named By
+$00D43F17 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dragon Fillet:
++Activate
+$00D21C70 00000004
++Amount You Have
+$00D43F18 00000063
++S Rank
+$00D43F19 00000064
++Item Named By
+$00D43F1A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dragon Heart:
++Activate
+$00D21C71 00000004
++Amount You Have
+$00D43F1B 00000063
++S Rank
+$00D43F1C 00000064
++Item Named By
+$00D43F1D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Nyo? Guts:
++Activate
+$00D21C72 00000004
++Amount You Have
+$00D43F1E 00000063
++S Rank
+$00D43F1F 00000064
++Item Named By
+$00D43F20 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ultimate Fang:
++Activate
+$00D21C73 00000004
++Amount You Have
+$00D43F21 00000063
++S Rank
+$00D43F22 00000064
++Item Named By
+$00D43F23 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Juicy Meat:
++Activate
+$00D21C74 00000004
++Amount You Have
+$00D43F24 00000063
++S Rank
+$00D43F25 00000064
++Item Named By
+$00D43F26 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Shiny Fur:
++Activate
+$00D21C75 00000004
++Amount You Have
+$00D43F27 00000063
++S Rank
+$00D43F28 00000064
++Item Named By
+$00D43F29 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Metal Frame:
++Activate
+$00D21C76 00000004
++Amount You Have
+$00D43F2A 00000063
++S Rank
+$00D43F2B 00000064
++Item Named By
+$00D43F2C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Small Gear(cog):
++Activate
+$00D21C77 00000004
++Amount You Have
+$00D43F2D 00000063
++S Rank
+$00D43F2E 00000064
++Item Named By
+$00D43F2F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Large Gear(cog):
++Activate
+$00D21C78 00000004
++Amount You Have
+$00D43F30 00000063
++S Rank
+$00D43F31 00000064
++Item Named By
+$00D43F32 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Songstone:
++Activate
+$00D21C79 00000004
++Amount You Have
+$00D43F33 00000063
++S Rank
+$00D43F34 00000064
++Item Named By
+$00D43F35 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dark Solution:
++Activate
+$00D21C7A 00000004
++Amount You Have
+$00D43F36 00000063
++S Rank
+$00D43F37 00000064
++Item Named By
+$00D43F38 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Airmetal:
++Activate
+$00D21C7B 00000004
++Amount You Have
+$00D43F39 00000063
++S Rank
+$00D43F3A 00000064
++Item Named By
+$00D43F3B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Soliel Stone:
++Activate
+$00D21C7C 00000004
++Amount You Have
+$00D43F3C 00000063
++S Rank
+$00D43F3D 00000064
++Item Named By
+$00D43F3E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Skuwat Metal:
++Activate
+$00D21C7D 00000004
++Amount You Have
+$00D43F3F 00000063
++S Rank
+$00D43F40 00000064
++Item Named By
+$00D43F41 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Vacuum Pipe:
++Activate
+$00D21C7E 00000004
++Amount You Have
+$00D43F42 00000063
++S Rank
+$00D43F43 00000064
++Item Named By
+$00D43F44 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ion Board:
++Activate
+$00D21C7F 00000004
++Amount You Have
+$00D43F45 00000063
++S Rank
+$00D43F46 00000064
++Item Named By
+$00D43F47 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Rainbow Fragment:
++Activate
+$00D21C80 00000004
++Amount You Have
+$00D43F48 00000063
++S Rank
+$00D43F49 00000064
++Item Named By
+$00D43F4A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Yuteria:
++Activate
+$00D21C81 00000004
++Amount You Have
+$00D43F4B 00000063
++S Rank
+$00D43F4C 00000064
++Item Named By
+$00D43F4D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Asl Circuit:
++Activate
+$00D21C82 00000004
++Amount You Have
+$00D43F4E 00000063
++S Rank
+$00D43F4F 00000064
++Item Named By
+$00D43F50 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!D2 Cell:
++Activate
+$00D21C83 00000004
++Amount You Have
+$00D43F51 00000063
++S Rank
+$00D43F52 00000064
++Item Named By
+$00D43F53 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Photon Oscilliscope:
++Activate
+$00D21C84 00000004
++Amount You Have
+$00D43F54 00000063
++S Rank
+$00D43F55 00000064
++Item Named By
+$00D43F56 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Akashic Record:
++Activate
+$00D21C85 00000004
++Amount You Have
+$00D43F57 00000063
++S Rank
+$00D43F58 00000064
++Item Named By
+$00D43F59 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Firefly Paper:
++Activate
+$00D21C86 00000004
++Amount You Have
+$00D43F5A 00000063
++S Rank
+$00D43F5B 00000064
++Item Named By
+$00D43F5C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?photon Glass?:
++Activate
+$00D21C87 00000004
++Amount You Have
+$00D43F5D 00000063
++S Rank
+$00D43F5E 00000064
++Item Named By
+$00D43F5F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?screw?:
++Activate
+$00D21C88 00000004
++Amount You Have
+$00D43F60 00000063
++S Rank
+$00D43F61 00000064
++Item Named By
+$00D43F62 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?compass?:
++Activate
+$00D21C89 00000004
++Amount You Have
+$00D43F63 00000063
++S Rank
+$00D43F64 00000064
++Item Named By
+$00D43F65 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Kant's Firebox:
++Activate
+$00D21C8A 00000004
++Amount You Have
+$00D43F66 00000063
++S Rank
+$00D43F67 00000064
++Item Named By
+$00D43F68 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Polishing Powder:
++Activate
+$00D21C8B 00000004
++Amount You Have
+$00D43F69 00000063
++S Rank
+$00D43F6A 00000064
++Item Named By
+$00D43F6B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Harmonizer:
++Activate
+$00D21C8C 00000004
++Amount You Have
+$00D43F6C 00000063
++S Rank
+$00D43F6D 00000064
++Item Named By
+$00D43F6E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Flanmelt Magnet:
++Activate
+$00D21C8D 00000004
++Amount You Have
+$00D43F6F 00000063
++S Rank
+$00D43F70 00000064
++Item Named By
+$00D43F71 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Fertilizer:
++Activate
+$00D21C8E 00000004
++Amount You Have
+$00D43F72 00000063
++S Rank
+$00D43F73 00000064
++Item Named By
+$00D43F74 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?cotton?:
++Activate
+$00D21C8F 00000004
++Amount You Have
+$00D43F75 00000063
++S Rank
+$00D43F76 00000064
++Item Named By
+$00D43F77 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Acordonite:
++Activate
+$00D21C90 00000004
++Amount You Have
+$00D43F78 00000063
++S Rank
+$00D43F79 00000064
++Item Named By
+$00D43F7A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?cloth?:
++Activate
+$00D21C91 00000004
++Amount You Have
+$00D43F7B 00000063
++S Rank
+$00D43F7C 00000064
++Item Named By
+$00D43F7D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?stuffed Animal?:
++Activate
+$00D21C92 00000004
++Amount You Have
+$00D43F7E 00000063
++S Rank
+$00D43F7F 00000064
++Item Named By
+$00D43F80 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?flipper?:
++Activate
+$00D21C93 00000004
++Amount You Have
+$00D43F81 00000063
++S Rank
+$00D43F82 00000064
++Item Named By
+$00D43F83 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?ramcluster?:
++Activate
+$00D21C94 00000004
++Amount You Have
+$00D43F84 00000063
++S Rank
+$00D43F85 00000064
++Item Named By
+$00D43F86 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?sharing Core?:
++Activate
+$00D21C95 00000004
++Amount You Have
+$00D43F87 00000063
++S Rank
+$00D43F88 00000064
++Item Named By
+$00D43F89 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?ocarina?:
++Activate
+$00D21C96 00000004
++Amount You Have
+$00D43F8A 00000063
++S Rank
+$00D43F8B 00000064
++Item Named By
+$00D43F8C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?water Tank?:
++Activate
+$00D21C97 00000004
++Amount You Have
+$00D43F8D 00000063
++S Rank
+$00D43F8E 00000064
++Item Named By
+$00D43F8F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?barrel?:
++Activate
+$00D21C98 00000004
++Amount You Have
+$00D43F90 00000063
++S Rank
+$00D43F91 00000064
++Item Named By
+$00D43F92 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?synapse?:
++Activate
+$00D21C99 00000004
++Amount You Have
+$00D43F93 00000063
++S Rank
+$00D43F94 00000064
++Item Named By
+$00D43F95 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?cell?:
++Activate
+$00D21C9A 00000004
++Amount You Have
+$00D43F96 00000063
++S Rank
+$00D43F97 00000064
++Item Named By
+$00D43F98 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?origin Of Creation?:
++Activate
+$00D21C9B 00000004
++Amount You Have
+$00D43F99 00000063
++S Rank
+$00D43F9A 00000064
++Item Named By
+$00D43F9B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?rectifier?:
++Activate
+$00D21C9C 00000004
++Amount You Have
+$00D43F9C 00000063
++S Rank
+$00D43F9D 00000064
++Item Named By
+$00D43F9E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?reactor?:
++Activate
+$00D21C9D 00000004
++Amount You Have
+$00D43F9F 00000063
++S Rank
+$00D43FA0 00000064
++Item Named By
+$00D43FA1 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?grathnode Disk?:
++Activate
+$00D21C9E 00000004
++Amount You Have
+$00D43FA2 00000063
++S Rank
+$00D43FA3 00000064
++Item Named By
+$00D43FA4 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Healy G:
++Activate
+$00D21C9F 00000004
++Amount You Have
+$00D43FA5 00000063
++S Rank
+$00D43FA6 00000064
++Item Named By
+$00D43FA7 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?strong Medicine?:
++Activate
+$00D21CA0 00000004
++Amount You Have
+$00D43FA8 00000063
++S Rank
+$00D43FA9 00000064
++Item Named By
+$00D43FAA 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Arcedie Recovery Cannon:
++Activate
+$00D21CA1 00000004
++Amount You Have
+$00D43FAB 00000063
++S Rank
+$00D43FAC 00000064
++Item Named By
+$00D43FAD 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?ultimate Medicine?:
++Activate
+$00D21CA2 00000004
++Amount You Have
+$00D43FAE 00000063
++S Rank
+$00D43FAF 00000064
++Item Named By
+$00D43FB0 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Legend Raiser:
++Activate
+$00D21CA3 00000004
++Amount You Have
+$00D43FB1 00000063
++S Rank
+$00D43FB2 00000064
++Item Named By
+$00D43FB3 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?restoration?:
++Activate
+$00D21CA4 00000004
++Amount You Have
+$00D43FB4 00000063
++S Rank
+$00D43FB5 00000064
++Item Named By
+$00D43FB6 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Missile:
++Activate
+$00D21CA5 00000004
++Amount You Have
+$00D43FB7 00000063
++S Rank
+$00D43FB8 00000064
++Item Named By
+$00D43FB9 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?air Wing?:
++Activate
+$00D21CA6 00000004
++Amount You Have
+$00D43FBA 00000063
++S Rank
+$00D43FBB 00000064
++Item Named By
+$00D43FBC 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?electric Bomb?:
++Activate
+$00D21CA7 00000004
++Amount You Have
+$00D43FBD 00000063
++S Rank
+$00D43FBE 00000064
++Item Named By
+$00D43FBF 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?suspicious Liquid?:
++Activate
+$00D21CA8 00000004
++Amount You Have
+$00D43FC0 00000063
++S Rank
+$00D43FC1 00000064
++Item Named By
+$00D43FC2 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?big Bomb?:
++Activate
+$00D21CA9 00000004
++Amount You Have
+$00D43FC3 00000063
++S Rank
+$00D43FC4 00000064
++Item Named By
+$00D43FC5 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?pig?:
++Activate
+$00D21CAA 00000004
++Amount You Have
+$00D43FC6 00000063
++S Rank
+$00D43FC7 00000064
++Item Named By
+$00D43FC8 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?drum?:
++Activate
+$00D21CAB 00000004
++Amount You Have
+$00D43FC9 00000063
++S Rank
+$00D43FCA 00000064
++Item Named By
+$00D43FCB 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?lagacy Of Civilization?:
++Activate
+$00D21CAC 00000004
++Amount You Have
+$00D43FCC 00000063
++S Rank
+$00D43FCD 00000064
++Item Named By
+$00D43FCE 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Tranguility:
++Activate
+$00D21CAD 00000004
++Amount You Have
+$00D43FCF 00000063
++S Rank
+$00D43FD0 00000064
++Item Named By
+$00D43FD1 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?blue Medicine A?:
++Activate
+$00D21CAE 00000004
++Amount You Have
+$00D43FD2 00000063
++S Rank
+$00D43FD3 00000064
++Item Named By
+$00D43FD4 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?yellow Medicine A?:
++Activate
+$00D21CAF 00000004
++Amount You Have
+$00D43FD5 00000063
++S Rank
+$00D43FD6 00000064
++Item Named By
+$00D43FD7 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?red Medicine A?:
++Activate
+$00D21CB0 00000004
++Amount You Have
+$00D43FD8 00000063
++S Rank
+$00D43FD9 00000064
++Item Named By
+$00D43FDA 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?blue Medicine B?:
++Activate
+$00D21CB1 00000004
++Amount You Have
+$00D43FDB 00000063
++S Rank
+$00D43FDC 00000064
++Item Named By
+$00D43FDD 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?yellow Medicine B?:
++Activate
+$00D21CB2 00000004
++Amount You Have
+$00D43FDE 00000063
++S Rank
+$00D43FDF 00000064
++Item Named By
+$00D43FE0 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?red Medicine B?:
++Activate
+$00D21CB3 00000004
++Amount You Have
+$00D43FE1 00000063
++S Rank
+$00D43FE2 00000064
++Item Named By
+$00D43FE3 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dreamchaser Water:
++Activate
+$00D21CB4 00000004
++Amount You Have
+$00D43FE4 00000063
++S Rank
+$00D43FE5 00000064
++Item Named By
+$00D43FE6 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?battery?:
++Activate
+$00D21CB5 00000004
++Amount You Have
+$00D43FE7 00000063
++S Rank
+$00D43FE8 00000064
++Item Named By
+$00D43FE9 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?canned Good?:
++Activate
+$00D21CB6 00000004
++Amount You Have
+$00D43FEA 00000063
++S Rank
+$00D43FEB 00000064
++Item Named By
+$00D43FEC 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?battle Flute?:
++Activate
+$00D21CB7 00000004
++Amount You Have
+$00D43FED 00000063
++S Rank
+$00D43FEE 00000064
++Item Named By
+$00D43FEF 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?mp Restoration?:
++Activate
+$00D21CB8 00000004
++Amount You Have
+$00D43FF0 00000063
++S Rank
+$00D43FF1 00000064
++Item Named By
+$00D43FF2 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?resonance Amplifier?:
++Activate
+$00D21CB9 00000004
++Amount You Have
+$00D43FF3 00000063
++S Rank
+$00D43FF4 00000064
++Item Named By
+$00D43FF5 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?coffin?:
++Activate
+$00D21CBA 00000004
++Amount You Have
+$00D43FF6 00000063
++S Rank
+$00D43FF7 00000064
++Item Named By
+$00D43FF8 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?resting Device?:
++Activate
+$00D21CBB 00000004
++Amount You Have
+$00D43FF9 00000063
++S Rank
+$00D43FFA 00000064
++Item Named By
+$00D43FFB 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?tower?:
++Activate
+$00D21CBC 00000004
++Amount You Have
+$00D43FFC 00000063
++S Rank
+$00D43FFD 00000064
++Item Named By
+$00D43FFE 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Replica Horn:
++Activate
+$00D21CBD 00000004
++Amount You Have
+$00D43FFF 00000063
++S Rank
+$00D44000 00000064
++Item Named By
+$00D44001 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Droopy Soda:
++Activate
+$00D21CBE 00000004
++Amount You Have
+$00D44002 00000063
++S Rank
+$00D44003 00000064
++Item Named By
+$00D44004 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Funbun:
++Activate
+$00D21CBF 00000004
++Amount You Have
+$00D44005 00000063
++S Rank
+$00D44006 00000064
++Item Named By
+$00D44007 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Kitty Candy:
++Activate
+$00D21CC0 00000004
++Amount You Have
+$00D44008 00000063
++S Rank
+$00D44009 00000064
++Item Named By
+$00D4400A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Megamilk:
++Activate
+$00D21CC1 00000004
++Amount You Have
+$00D4400B 00000063
++S Rank
+$00D4400C 00000064
++Item Named By
+$00D4400D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Opal Rice:
++Activate
+$00D21CC2 00000004
++Amount You Have
+$00D4400E 00000063
++S Rank
+$00D4400F 00000064
++Item Named By
+$00D44010 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dokkoi Set:
++Activate
+$00D21CC3 00000004
++Amount You Have
+$00D44011 00000063
++S Rank
+$00D44012 00000064
++Item Named By
+$00D44013 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Bbq:
++Activate
+$00D21CC4 00000004
++Amount You Have
+$00D44014 00000063
++S Rank
+$00D44015 00000064
++Item Named By
+$00D44016 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Charbroiled Bbq:
++Activate
+$00D21CC5 00000004
++Amount You Have
+$00D44017 00000063
++S Rank
+$00D44018 00000064
++Item Named By
+$00D44019 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Hell's Bbq:
++Activate
+$00D21CC6 00000004
++Amount You Have
+$00D4401A 00000063
++S Rank
+$00D4401B 00000064
++Item Named By
+$00D4401C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Flavored Ice:
++Activate
+$00D21CC7 00000004
++Amount You Have
+$00D4401D 00000063
++S Rank
+$00D4401E 00000064
++Item Named By
+$00D4401F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Shaved Ice:
++Activate
+$00D21CC8 00000004
++Amount You Have
+$00D44020 00000063
++S Rank
+$00D44021 00000064
++Item Named By
+$00D44022 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dried Fish:
++Activate
+$00D21CC9 00000004
++Amount You Have
+$00D44023 00000063
++S Rank
+$00D44024 00000064
++Item Named By
+$00D44025 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Freeze Dry:
++Activate
+$00D21CCA 00000004
++Amount You Have
+$00D44026 00000063
++S Rank
+$00D44027 00000064
++Item Named By
+$00D44028 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?dokkoi Parfait?:
++Activate
+$00D21CCB 00000004
++Amount You Have
+$00D44029 00000063
++S Rank
+$00D4402A 00000064
++Item Named By
+$00D4402B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?natural Ice?:
++Activate
+$00D21CCC 00000004
++Amount You Have
+$00D4402C 00000063
++S Rank
+$00D4402D 00000064
++Item Named By
+$00D4402E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?supernatural Ice?:
++Activate
+$00D21CCD 00000004
++Amount You Have
+$00D4402F 00000063
++S Rank
+$00D44030 00000064
++Item Named By
+$00D44031 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?bbq Soda?:
++Activate
+$00D21CCE 00000004
++Amount You Have
+$00D44032 00000063
++S Rank
+$00D44033 00000064
++Item Named By
+$00D44034 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?solid Bunny?:
++Activate
+$00D21CCF 00000004
++Amount You Have
+$00D44035 00000063
++S Rank
+$00D44036 00000064
++Item Named By
+$00D44037 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?bunny Rice?:
++Activate
+$00D21CD0 00000004
++Amount You Have
+$00D44038 00000063
++S Rank
+$00D44039 00000064
++Item Named By
+$00D4403A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?mecha Bunny?:
++Activate
+$00D21CD1 00000004
++Amount You Have
+$00D4403B 00000063
++S Rank
+$00D4403C 00000064
++Item Named By
+$00D4403D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?capri Soda?:
++Activate
+$00D21CD2 00000004
++Amount You Have
+$00D4403E 00000063
++S Rank
+$00D4403F 00000064
++Item Named By
+$00D44040 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?food Juice?:
++Activate
+$00D21CD3 00000004
++Amount You Have
+$00D44041 00000063
++S Rank
+$00D44042 00000064
++Item Named By
+$00D44043 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard 1:
++Activate
+$00D21CD4 00000004
++Amount You Have
+$00D44044 00000063
++S Rank
+$00D44045 00000064
++Item Named By
+$00D44046 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard 2:
++Activate
+$00D21CD5 00000004
++Amount You Have
+$00D44047 00000063
++S Rank
+$00D44048 00000064
++Item Named By
+$00D44049 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard 3:
++Activate
+$00D21CD6 00000004
++Amount You Have
+$00D4404A 00000063
++S Rank
+$00D4404B 00000064
++Item Named By
+$00D4404C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard 4:
++Activate
+$00D21CD7 00000004
++Amount You Have
+$00D4404D 00000063
++S Rank
+$00D4404E 00000064
++Item Named By
+$00D4404F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard 5:
++Activate
+$00D21CD8 00000004
++Amount You Have
+$00D44050 00000063
++S Rank
+$00D44051 00000064
++Item Named By
+$00D44052 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard 6:
++Activate
+$00D21CD9 00000004
++Amount You Have
+$00D44053 00000063
++S Rank
+$00D44054 00000064
++Item Named By
+$00D44055 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard Final:
++Activate
+$00D21CDA 00000004
++Amount You Have
+$00D44056 00000063
++S Rank
+$00D44057 00000064
++Item Named By
+$00D44058 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard Sp A:
++Activate
+$00D21CDB 00000004
++Amount You Have
+$00D44059 00000063
++S Rank
+$00D4405A 00000064
++Item Named By
+$00D4405B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard Sp B:
++Activate
+$00D21CDC 00000004
++Amount You Have
+$00D4405C 00000063
++S Rank
+$00D4405D 00000064
++Item Named By
+$00D4405E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard Sp C:
++Activate
+$00D21CDD 00000004
++Amount You Have
+$00D4405F 00000063
++S Rank
+$00D44060 00000064
++Item Named By
+$00D44061 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard Sp D:
++Activate
+$00D21CDE 00000004
++Amount You Have
+$00D44062 00000063
++S Rank
+$00D44063 00000064
++Item Named By
+$00D44064 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard Sp E:
++Activate
+$00D21CDF 00000004
++Amount You Have
+$00D44065 00000063
++S Rank
+$00D44066 00000064
++Item Named By
+$00D44067 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard Sp F:
++Activate
+$00D21CE0 00000004
++Amount You Have
+$00D44068 00000063
++S Rank
+$00D44069 00000064
++Item Named By
+$00D4406A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard Sp G:
++Activate
+$00D21CE1 00000004
++Amount You Have
+$00D4406B 00000063
++S Rank
+$00D4406C 00000064
++Item Named By
+$00D4406D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard Sp H:
++Activate
+$00D21CE2 00000004
++Amount You Have
+$00D4406E 00000063
++S Rank
+$00D4406F 00000064
++Item Named By
+$00D44070 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard Sp I:
++Activate
+$00D21CE3 00000004
++Amount You Have
+$00D44071 00000063
++S Rank
+$00D44072 00000064
++Item Named By
+$00D44073 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard Sp J:
++Activate
+$00D21CE4 00000004
++Amount You Have
+$00D44074 00000063
++S Rank
+$00D44075 00000064
++Item Named By
+$00D44076 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard Sp K:
++Activate
+$00D21CE5 00000004
++Amount You Have
+$00D44077 00000063
++S Rank
+$00D44078 00000064
++Item Named By
+$00D44079 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ar Tonelicard Sp L:
++Activate
+$00D21CE6 00000004
++Amount You Have
+$00D4407A 00000063
++S Rank
+$00D4407B 00000064
++Item Named By
+$00D4407C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Bastard Sword:
++Activate
+$00D21CE7 00000004
++Amount You Have
+$00D4407D 00000063
++S Rank
+$00D4407E 00000064
++Item Named By
+$00D4407F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Glaspear:
++Activate
+$00D21CE8 00000004
++Amount You Have
+$00D44080 00000063
++S Rank
+$00D44081 00000064
++Item Named By
+$00D44082 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Handgun:
++Activate
+$00D21CE9 00000004
++Amount You Have
+$00D44083 00000063
++S Rank
+$00D44084 00000064
++Item Named By
+$00D44085 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Chainsaw:
++Activate
+$00D21CEA 00000004
++Amount You Have
+$00D44086 00000063
++S Rank
+$00D44087 00000064
++Item Named By
+$00D44088 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Flame&sound:
++Activate
+$00D21CEB 00000004
++Amount You Have
+$00D44089 00000063
++S Rank
+$00D4408A 00000064
++Item Named By
+$00D4408B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Sonic Buster:
++Activate
+$00D21CEC 00000004
++Amount You Have
+$00D4408C 00000063
++S Rank
+$00D4408D 00000064
++Item Named By
+$00D4408E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Halberd:
++Activate
+$00D21CED 00000004
++Amount You Have
+$00D4408F 00000063
++S Rank
+$00D44090 00000064
++Item Named By
+$00D44091 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Platico:
++Activate
+$00D21CEE 00000004
++Amount You Have
+$00D44092 00000063
++S Rank
+$00D44093 00000064
++Item Named By
+$00D44094 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ionic Saw:
++Activate
+$00D21CEF 00000004
++Amount You Have
+$00D44095 00000063
++S Rank
+$00D44096 00000064
++Item Named By
+$00D44097 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Gale&emery:
++Activate
+$00D21CF0 00000004
++Amount You Have
+$00D44098 00000063
++S Rank
+$00D44099 00000064
++Item Named By
+$00D4409A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Yuteriod:
++Activate
+$00D21CF1 00000004
++Amount You Have
+$00D4409B 00000063
++S Rank
+$00D4409C 00000064
++Item Named By
+$00D4409D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Blastray G 3:
++Activate
+$00D21CF2 00000004
++Amount You Have
+$00D4409E 00000063
++S Rank
+$00D4409F 00000064
++Item Named By
+$00D440A0 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Orgorio:
++Activate
+$00D21CF3 00000004
++Amount You Have
+$00D440A1 00000063
++S Rank
+$00D440A2 00000064
++Item Named By
+$00D440A3 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Raychiel:
++Activate
+$00D21CF4 00000004
++Amount You Have
+$00D440A4 00000063
++S Rank
+$00D440A5 00000064
++Item Named By
+$00D440A6 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Gods&demons:
++Activate
+$00D21CF5 00000004
++Amount You Have
+$00D440A7 00000063
++S Rank
+$00D440A8 00000064
++Item Named By
+$00D440A9 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Cieroceramics:
++Activate
+$00D21CF6 00000004
++Amount You Have
+$00D440AA 00000063
++S Rank
+$00D440AB 00000064
++Item Named By
+$00D440AC 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?spear 1?:
++Activate
+$00D21CF7 00000004
++Amount You Have
+$00D440AD 00000063
++S Rank
+$00D440AE 00000064
++Item Named By
+$00D440AF 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?gun 1?:
++Activate
+$00D21CF8 00000004
++Amount You Have
+$00D440B0 00000063
++S Rank
+$00D440B1 00000064
++Item Named By
+$00D440B2 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?chain 1?:
++Activate
+$00D21CF9 00000004
++Amount You Have
+$00D440B3 00000063
++S Rank
+$00D440B4 00000064
++Item Named By
+$00D440B5 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?katana 1?:
++Activate
+$00D21CFA 00000004
++Amount You Have
+$00D440B6 00000063
++S Rank
+$00D440B7 00000064
++Item Named By
+$00D440B8 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?sword 2?:
++Activate
+$00D21CFB 00000004
++Amount You Have
+$00D440B9 00000063
++S Rank
+$00D440BA 00000064
++Item Named By
+$00D440BB 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?spear 2?:
++Activate
+$00D21CFC 00000004
++Amount You Have
+$00D440BC 00000063
++S Rank
+$00D440BD 00000064
++Item Named By
+$00D440BE 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?gun 2?:
++Activate
+$00D21CFD 00000004
++Amount You Have
+$00D440BF 00000063
++S Rank
+$00D440C0 00000064
++Item Named By
+$00D440C1 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?chain 2?:
++Activate
+$00D21CFE 00000004
++Amount You Have
+$00D440C2 00000063
++S Rank
+$00D440C3 00000064
++Item Named By
+$00D440C4 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?katana 2?:
++Activate
+$00D21CFF 00000004
++Amount You Have
+$00D440C5 00000063
++S Rank
+$00D440C6 00000064
++Item Named By
+$00D440C7 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?sword 3?:
++Activate
+$00D21D00 00000004
++Amount You Have
+$00D440C8 00000063
++S Rank
+$00D440C9 00000064
++Item Named By
+$00D440CA 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?spear 3?:
++Activate
+$00D21D01 00000004
++Amount You Have
+$00D440CB 00000063
++S Rank
+$00D440CC 00000064
++Item Named By
+$00D440CD 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?gun 3?:
++Activate
+$00D21D02 00000004
++Amount You Have
+$00D440CE 00000063
++S Rank
+$00D440CF 00000064
++Item Named By
+$00D440D0 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?chain 3?:
++Activate
+$00D21D03 00000004
++Amount You Have
+$00D440D1 00000063
++S Rank
+$00D440D2 00000064
++Item Named By
+$00D440D3 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?sword 4?:
++Activate
+$00D21D04 00000004
++Amount You Have
+$00D440D4 00000063
++S Rank
+$00D440D5 00000064
++Item Named By
+$00D440D6 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?spear 4?:
++Activate
+$00D21D05 00000004
++Amount You Have
+$00D440D7 00000063
++S Rank
+$00D440D8 00000064
++Item Named By
+$00D440D9 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?gun 4?:
++Activate
+$00D21D06 00000004
++Amount You Have
+$00D440DA 00000063
++S Rank
+$00D440DB 00000064
++Item Named By
+$00D440DC 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?chain 4?:
++Activate
+$00D21D07 00000004
++Amount You Have
+$00D440DD 00000063
++S Rank
+$00D440DE 00000064
++Item Named By
+$00D440DF 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?super Weapon?:
++Activate
+$00D21D08 00000004
++Amount You Have
+$00D440E0 00000063
++S Rank
+$00D440E1 00000064
++Item Named By
+$00D440E2 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!?extreme Super Weapon?:
++Activate
+$00D21D09 00000004
++Amount You Have
+$00D440E3 00000063
++S Rank
+$00D440E4 00000064
++Item Named By
+$00D440E5 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Song 10% Bonus:
++Activate
+$00D21D0A 00000004
++Amount You Have
+$00D440E6 00000063
++S Rank
+$00D440E7 00000064
++Item Named By
+$00D440E8 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Song 20% Bonus:
++Activate
+$00D21D0B 00000004
++Amount You Have
+$00D440E9 00000063
++S Rank
+$00D440EA 00000064
++Item Named By
+$00D440EB 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Song 30% Bonus:
++Activate
+$00D21D0C 00000004
++Amount You Have
+$00D440EC 00000063
++S Rank
+$00D440ED 00000064
++Item Named By
+$00D440EE 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Song 50% Bonus:
++Activate
+$00D21D0D 00000004
++Amount You Have
+$00D440EF 00000063
++S Rank
+$00D440F0 00000064
++Item Named By
+$00D440F1 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Song Big Bonus[level 1 - +75% Dmg]:
++Activate
+$00D21D0E 00000004
++Amount You Have
+$00D440F2 00000063
++S Rank
+$00D440F3 00000064
++Item Named By
+$00D440F4 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Forbidden Melody[level 2 - +100% Dmg]:
++Activate
+$00D21D0F 00000004
++Amount You Have
+$00D440F5 00000063
++S Rank
+$00D440F6 00000064
++Item Named By
+$00D440F7 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Lullaby Tune:
++Activate
+$00D21D10 00000004
++Amount You Have
+$00D440F8 00000063
++S Rank
+$00D440F9 00000064
++Item Named By
+$00D440FA 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Smelly Knockout:
++Activate
+$00D21D11 00000004
++Amount You Have
+$00D440FB 00000063
++S Rank
+$00D440FC 00000064
++Item Named By
+$00D440FD 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Sleeping Gas:
++Activate
+$00D21D12 00000004
++Amount You Have
+$00D440FE 00000063
++S Rank
+$00D440FF 00000064
++Item Named By
+$00D44100 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Puff O' Poison:
++Activate
+$00D21D13 00000004
++Amount You Have
+$00D44101 00000063
++S Rank
+$00D44102 00000064
++Item Named By
+$00D44103 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Poison Shower:
++Activate
+$00D21D14 00000004
++Amount You Have
+$00D44104 00000063
++S Rank
+$00D44105 00000064
++Item Named By
+$00D44106 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Poison Outbreak:
++Activate
+$00D21D15 00000004
++Amount You Have
+$00D44107 00000063
++S Rank
+$00D44108 00000064
++Item Named By
+$00D44109 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Tingling:
++Activate
+$00D21D16 00000004
++Amount You Have
+$00D4410A 00000063
++S Rank
+$00D4410B 00000064
++Item Named By
+$00D4410C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Numbing Agent:
++Activate
+$00D21D17 00000004
++Amount You Have
+$00D4410D 00000063
++S Rank
+$00D4410E 00000064
++Item Named By
+$00D4410F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!High Frequency Voice:
++Activate
+$00D21D18 00000004
++Amount You Have
+$00D44110 00000063
++S Rank
+$00D44111 00000064
++Item Named By
+$00D44112 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Grudge:
++Activate
+$00D21D19 00000004
++Amount You Have
+$00D44113 00000063
++S Rank
+$00D44114 00000064
++Item Named By
+$00D44115 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Haunted By Evil:
++Activate
+$00D21D1A 00000004
++Amount You Have
+$00D44116 00000063
++S Rank
+$00D44117 00000064
++Item Named By
+$00D44118 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Curse On The World:
++Activate
+$00D21D1B 00000004
++Amount You Have
+$00D44119 00000063
++S Rank
+$00D4411A 00000064
++Item Named By
+$00D4411B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Kick Up Dust:
++Activate
+$00D21D1C 00000004
++Amount You Have
+$00D4411C 00000063
++S Rank
+$00D4411D 00000064
++Item Named By
+$00D4411E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Flash Beam:
++Activate
+$00D21D1D 00000004
++Amount You Have
+$00D4411F 00000063
++S Rank
+$00D44120 00000064
++Item Named By
+$00D44121 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Sunshine On The World:
++Activate
+$00D21D1E 00000004
++Amount You Have
+$00D44122 00000063
++S Rank
+$00D44123 00000064
++Item Named By
+$00D44124 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Stranded:
++Activate
+$00D21D1F 00000004
++Amount You Have
+$00D44125 00000063
++S Rank
+$00D44126 00000064
++Item Named By
+$00D44127 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Slow 'em Down:
++Activate
+$00D21D20 00000004
++Amount You Have
+$00D44128 00000063
++S Rank
+$00D44129 00000064
++Item Named By
+$00D4412A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Stop Moving:
++Activate
+$00D21D21 00000004
++Amount You Have
+$00D4412B 00000063
++S Rank
+$00D4412C 00000064
++Item Named By
+$00D4412D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Shocking Voice:
++Activate
+$00D21D22 00000004
++Amount You Have
+$00D4412E 00000063
++S Rank
+$00D4412F 00000064
++Item Named By
+$00D44130 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ultimate Speaker:
++Activate
+$00D21D23 00000004
++Amount You Have
+$00D44131 00000063
++S Rank
+$00D44132 00000064
++Item Named By
+$00D44133 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Kiddy Size Fire:
++Activate
+$00D21D24 00000004
++Amount You Have
+$00D44134 00000063
++S Rank
+$00D44135 00000064
++Item Named By
+$00D44136 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Regular Fire:
++Activate
+$00D21D25 00000004
++Amount You Have
+$00D44137 00000063
++S Rank
+$00D44138 00000064
++Item Named By
+$00D44139 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Large Fire:
++Activate
+$00D21D26 00000004
++Amount You Have
+$00D4413A 00000063
++S Rank
+$00D4413B 00000064
++Item Named By
+$00D4413C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Super Size Fire:
++Activate
+$00D21D27 00000004
++Amount You Have
+$00D4413D 00000063
++S Rank
+$00D4413E 00000064
++Item Named By
+$00D4413F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Super Scorcho[level 2 - +100% Fire Dmg]:
++Activate
+$00D21D28 00000004
++Amount You Have
+$00D44140 00000063
++S Rank
+$00D44141 00000064
++Item Named By
+$00D44142 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Kiddy Size Ice:
++Activate
+$00D21D29 00000004
++Amount You Have
+$00D44143 00000063
++S Rank
+$00D44144 00000064
++Item Named By
+$00D44145 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Regular Ice:
++Activate
+$00D21D2A 00000004
++Amount You Have
+$00D44146 00000063
++S Rank
+$00D44147 00000064
++Item Named By
+$00D44148 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Large Ice:
++Activate
+$00D21D2B 00000004
++Amount You Have
+$00D44149 00000063
++S Rank
+$00D4414A 00000064
++Item Named By
+$00D4414B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Super Size Ice:
++Activate
+$00D21D2C 00000004
++Amount You Have
+$00D4414C 00000063
++S Rank
+$00D4414D 00000064
++Item Named By
+$00D4414E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Brain Breeze[level 1 - +100% Ice Dmg]:
++Activate
+$00D21D2D 00000004
++Amount You Have
+$00D4414F 00000063
++S Rank
+$00D44150 00000064
++Item Named By
+$00D44151 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Kiddy Size Lightning:
++Activate
+$00D21D2E 00000004
++Amount You Have
+$00D44152 00000063
++S Rank
+$00D44153 00000064
++Item Named By
+$00D44154 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Regular Lightning:
++Activate
+$00D21D2F 00000004
++Amount You Have
+$00D44155 00000063
++S Rank
+$00D44156 00000064
++Item Named By
+$00D44157 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Large Lightning:
++Activate
+$00D21D30 00000004
++Amount You Have
+$00D44158 00000063
++S Rank
+$00D44159 00000064
++Item Named By
+$00D4415A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Super Size Lightning:
++Activate
+$00D21D31 00000004
++Amount You Have
+$00D4415B 00000063
++S Rank
+$00D4415C 00000064
++Item Named By
+$00D4415D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Anger Thunderstorm[level 2 - +100% Lightning Dmg]:
++Activate
+$00D21D32 00000004
++Amount You Have
+$00D4415E 00000063
++S Rank
+$00D4415F 00000064
++Item Named By
+$00D44160 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Kiddy Size Wind:
++Activate
+$00D21D33 00000004
++Amount You Have
+$00D44161 00000063
++S Rank
+$00D44162 00000064
++Item Named By
+$00D44163 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Regular Wind:
++Activate
+$00D21D34 00000004
++Amount You Have
+$00D44164 00000063
++S Rank
+$00D44165 00000064
++Item Named By
+$00D44166 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Large Wind:
++Activate
+$00D21D35 00000004
++Amount You Have
+$00D44167 00000063
++S Rank
+$00D44168 00000064
++Item Named By
+$00D44169 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Super Size Wind:
++Activate
+$00D21D36 00000004
++Amount You Have
+$00D4416A 00000063
++S Rank
+$00D4416B 00000064
++Item Named By
+$00D4416C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Tornado Spit[level 1 - +100% Wind Dmg]:
++Activate
+$00D21D37 00000004
++Amount You Have
+$00D4416D 00000063
++S Rank
+$00D4416E 00000064
++Item Named By
+$00D4416F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dmg To MP - Minor:
++Activate
+$00D21D38 00000004
++Amount You Have
+$00D44170 00000063
++S Rank
+$00D44171 00000064
++Item Named By
+$00D44172 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dmg To MP - Weak:
++Activate
+$00D21D39 00000004
++Amount You Have
+$00D44173 00000063
++S Rank
+$00D44174 00000064
++Item Named By
+$00D44175 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dmg To MP - Mid:
++Activate
+$00D21D3A 00000004
++Amount You Have
+$00D44176 00000063
++S Rank
+$00D44177 00000064
++Item Named By
+$00D44178 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dmg To MP - Strong:
++Activate
+$00D21D3B 00000004
++Amount You Have
+$00D44179 00000063
++S Rank
+$00D4417A 00000064
++Item Named By
+$00D4417B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Drain Rhythym:
++Activate
+$00D21D3C 00000004
++Amount You Have
+$00D4417C 00000063
++S Rank
+$00D4417D 00000064
++Item Named By
+$00D4417E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dmg To HP - Minor:
++Activate
+$00D21D3D 00000004
++Amount You Have
+$00D4417F 00000063
++S Rank
+$00D44180 00000064
++Item Named By
+$00D44181 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dmg To HP - Weak:
++Activate
+$00D21D3E 00000004
++Amount You Have
+$00D44182 00000063
++S Rank
+$00D44183 00000064
++Item Named By
+$00D44184 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dmg To HP - Mid:
++Activate
+$00D21D3F 00000004
++Amount You Have
+$00D44185 00000063
++S Rank
+$00D44186 00000064
++Item Named By
+$00D44187 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dmg To HP - Strong:
++Activate
+$00D21D40 00000004
++Amount You Have
+$00D44188 00000063
++S Rank
+$00D44189 00000064
++Item Named By
+$00D4418A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Damage Conversion:
++Activate
+$00D21D41 00000004
++Amount You Have
+$00D4418B 00000063
++S Rank
+$00D4418C 00000064
++Item Named By
+$00D4418D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Magical Copyx1:
++Activate
+$00D21D42 00000004
++Amount You Have
+$00D4418E 00000063
++S Rank
+$00D4418F 00000064
++Item Named By
+$00D44190 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Magical Copyx2:
++Activate
+$00D21D43 00000004
++Amount You Have
+$00D44191 00000063
++S Rank
+$00D44192 00000064
++Item Named By
+$00D44193 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Magical Copyx3:
++Activate
+$00D21D44 00000004
++Amount You Have
+$00D44194 00000063
++S Rank
+$00D44195 00000064
++Item Named By
+$00D44196 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Magical Copyx4[level 1 - Magic Hitx4]:
++Activate
+$00D21D45 00000004
++Amount You Have
+$00D44197 00000063
++S Rank
+$00D44198 00000064
++Item Named By
+$00D44199 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Melodius Echo[level 2 - Magic Hitx5]:
++Activate
+$00D21D46 00000004
++Amount You Have
+$00D4419A 00000063
++S Rank
+$00D4419B 00000064
++Item Named By
+$00D4419C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Gooey Blend:
++Activate
+$00D21D47 00000004
++Amount You Have
+$00D4419D 00000063
++S Rank
+$00D4419E 00000064
++Item Named By
+$00D4419F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Adhesive Blend:
++Activate
+$00D21D48 00000004
++Amount You Have
+$00D441A0 00000063
++S Rank
+$00D441A1 00000064
++Item Named By
+$00D441A2 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Super Glue Blend:
++Activate
+$00D21D49 00000004
++Amount You Have
+$00D441A3 00000063
++S Rank
+$00D441A4 00000064
++Item Named By
+$00D441A5 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dull Weapon:
++Activate
+$00D21D4A 00000004
++Amount You Have
+$00D441A6 00000063
++S Rank
+$00D441A7 00000064
++Item Named By
+$00D441A8 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Rust Weapon:
++Activate
+$00D21D4B 00000004
++Amount You Have
+$00D441A9 00000063
++S Rank
+$00D441AA 00000064
++Item Named By
+$00D441AB 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Jelly Weapon:
++Activate
+$00D21D4C 00000004
++Amount You Have
+$00D441AC 00000063
++S Rank
+$00D441AD 00000064
++Item Named By
+$00D441AE 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Melt Weapon:
++Activate
+$00D21D4D 00000004
++Amount You Have
+$00D441AF 00000063
++S Rank
+$00D441B0 00000064
++Item Named By
+$00D441B1 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Foam Weapon[level 1 - Atk Dwn]:
++Activate
+$00D21D4E 00000004
++Amount You Have
+$00D441B2 00000063
++S Rank
+$00D441B3 00000064
++Item Named By
+$00D441B4 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dull Armor:
++Activate
+$00D21D4F 00000004
++Amount You Have
+$00D441B5 00000063
++S Rank
+$00D441B6 00000064
++Item Named By
+$00D441B7 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Rust Armor:
++Activate
+$00D21D50 00000004
++Amount You Have
+$00D441B8 00000063
++S Rank
+$00D441B9 00000064
++Item Named By
+$00D441BA 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Jelly Armor:
++Activate
+$00D21D51 00000004
++Amount You Have
+$00D441BB 00000063
++S Rank
+$00D441BC 00000064
++Item Named By
+$00D441BD 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Melt Armor:
++Activate
+$00D21D52 00000004
++Amount You Have
+$00D441BE 00000063
++S Rank
+$00D441BF 00000064
++Item Named By
+$00D441C0 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Tofu Armor[level 1 - Def Dwn]:
++Activate
+$00D21D53 00000004
++Amount You Have
+$00D441C1 00000063
++S Rank
+$00D441C2 00000064
++Item Named By
+$00D441C3 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Excellent Criticals:
++Activate
+$00D21D54 00000004
++Amount You Have
+$00D441C4 00000063
++S Rank
+$00D441C5 00000064
++Item Named By
+$00D441C6 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Menacing Criticals:
++Activate
+$00D21D55 00000004
++Amount You Have
+$00D441C7 00000063
++S Rank
+$00D441C8 00000064
++Item Named By
+$00D441C9 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Satisfying Criticals:
++Activate
+$00D21D56 00000004
++Amount You Have
+$00D441CA 00000063
++S Rank
+$00D441CB 00000064
++Item Named By
+$00D441CC 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Mastered Criticals:
++Activate
+$00D21D57 00000004
++Amount You Have
+$00D441CD 00000063
++S Rank
+$00D441CE 00000064
++Item Named By
+$00D441CF 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!V Impact[level 2 - 100% Crit]:
++Activate
+$00D21D58 00000004
++Amount You Have
+$00D441D0 00000063
++S Rank
+$00D441D1 00000064
++Item Named By
+$00D441D2 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dislike Fire:
++Activate
+$00D21D59 00000004
++Amount You Have
+$00D441D3 00000063
++S Rank
+$00D441D4 00000064
++Item Named By
+$00D441D5 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Fear Fire:
++Activate
+$00D21D5A 00000004
++Amount You Have
+$00D441D6 00000063
++S Rank
+$00D441D7 00000064
++Item Named By
+$00D441D8 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Enemy Of Fire[level 2 - Fire Resist Dwn]:
++Activate
+$00D21D5B 00000004
++Amount You Have
+$00D441D9 00000063
++S Rank
+$00D441DA 00000064
++Item Named By
+$00D441DB 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dislike Wind:
++Activate
+$00D21D5C 00000004
++Amount You Have
+$00D441DC 00000063
++S Rank
+$00D441DD 00000064
++Item Named By
+$00D441DE 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Fear Wind:
++Activate
+$00D21D5D 00000004
++Amount You Have
+$00D441DF 00000063
++S Rank
+$00D441E0 00000064
++Item Named By
+$00D441E1 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Enemy Of Wind[level 1 - Wind Resist Dwn]:
++Activate
+$00D21D5E 00000004
++Amount You Have
+$00D441E2 00000063
++S Rank
+$00D441E3 00000064
++Item Named By
+$00D441E4 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dislike Ice:
++Activate
+$00D21D5F 00000004
++Amount You Have
+$00D441E5 00000063
++S Rank
+$00D441E6 00000064
++Item Named By
+$00D441E7 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Fear Ice:
++Activate
+$00D21D60 00000004
++Amount You Have
+$00D441E8 00000063
++S Rank
+$00D441E9 00000064
++Item Named By
+$00D441EA 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Enemy Of Ice[level 2 - Ice Resist Dwn]:
++Activate
+$00D21D61 00000004
++Amount You Have
+$00D441EB 00000063
++S Rank
+$00D441EC 00000064
++Item Named By
+$00D441ED 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dislike Lightning:
++Activate
+$00D21D62 00000004
++Amount You Have
+$00D441EE 00000063
++S Rank
+$00D441EF 00000064
++Item Named By
+$00D441F0 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Fear Lightning:
++Activate
+$00D21D63 00000004
++Amount You Have
+$00D441F1 00000063
++S Rank
+$00D441F2 00000064
++Item Named By
+$00D441F3 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Enemy Of Lightning[level 1 - Lightning Resist Dwn]:
++Activate
+$00D21D64 00000004
++Amount You Have
+$00D441F4 00000063
++S Rank
+$00D441F5 00000064
++Item Named By
+$00D441F6 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!All Resists Down:
++Activate
+$00D21D65 00000004
++Amount You Have
+$00D441F7 00000063
++S Rank
+$00D441F8 00000064
++Item Named By
+$00D441F9 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!All Resists Failed:
++Activate
+$00D21D66 00000004
++Amount You Have
+$00D441FA 00000063
++S Rank
+$00D441FB 00000064
++Item Named By
+$00D441FC 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!X Irresistable:
++Activate
+$00D21D67 00000004
++Amount You Have
+$00D441FD 00000063
++S Rank
+$00D441FE 00000064
++Item Named By
+$00D441FF 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Less MP For Red:
++Activate
+$00D21D68 00000004
++Amount You Have
+$00D44200 00000063
++S Rank
+$00D44201 00000064
++Item Named By
+$00D44202 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Little MP For Red:
++Activate
+$00D21D69 00000004
++Amount You Have
+$00D44203 00000063
++S Rank
+$00D44204 00000064
++Item Named By
+$00D44205 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Low MP For Red:
++Activate
+$00D21D6A 00000004
++Amount You Have
+$00D44206 00000063
++S Rank
+$00D44207 00000064
++Item Named By
+$00D44208 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Bare MP For Red:
++Activate
+$00D21D6B 00000004
++Amount You Have
+$00D44209 00000063
++S Rank
+$00D4420A 00000064
++Item Named By
+$00D4420B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Cosmo Ruby[level 1 - MP Usage Dwn]:
++Activate
+$00D21D6C 00000004
++Amount You Have
+$00D4420C 00000063
++S Rank
+$00D4420D 00000064
++Item Named By
+$00D4420E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Shooting Speed +:
++Activate
+$00D21D6D 00000004
++Amount You Have
+$00D4420F 00000063
++S Rank
+$00D44210 00000064
++Item Named By
+$00D44211 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Shooting Speed ++:
++Activate
+$00D21D6E 00000004
++Amount You Have
+$00D44212 00000063
++S Rank
+$00D44213 00000064
++Item Named By
+$00D44214 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Shooting Speed +++:
++Activate
+$00D21D6F 00000004
++Amount You Have
+$00D44215 00000063
++S Rank
+$00D44216 00000064
++Item Named By
+$00D44217 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Shooting Speed Inf:
++Activate
+$00D21D70 00000004
++Amount You Have
+$00D44218 00000063
++S Rank
+$00D44219 00000064
++Item Named By
+$00D4421A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Shooting Powerx2:
++Activate
+$00D21D71 00000004
++Amount You Have
+$00D4421B 00000063
++S Rank
+$00D4421C 00000064
++Item Named By
+$00D4421D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Shooting Powerx3:
++Activate
+$00D21D72 00000004
++Amount You Have
+$00D4421E 00000063
++S Rank
+$00D4421F 00000064
++Item Named By
+$00D44220 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Shooting Powerx4:
++Activate
+$00D21D73 00000004
++Amount You Have
+$00D44221 00000063
++S Rank
+$00D44222 00000064
++Item Named By
+$00D44223 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Shooting Powerx5:
++Activate
+$00D21D74 00000004
++Amount You Have
+$00D44224 00000063
++S Rank
+$00D44225 00000064
++Item Named By
+$00D44226 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Pointy:
++Activate
+$00D21D75 00000004
++Amount You Have
+$00D44227 00000063
++S Rank
+$00D44228 00000064
++Item Named By
+$00D44229 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Sharp:
++Activate
+$00D21D76 00000004
++Amount You Have
+$00D4422A 00000063
++S Rank
+$00D4422B 00000064
++Item Named By
+$00D4422C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Pointier:
++Activate
+$00D21D77 00000004
++Amount You Have
+$00D4422D 00000063
++S Rank
+$00D4422E 00000064
++Item Named By
+$00D4422F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Sharper:
++Activate
+$00D21D78 00000004
++Amount You Have
+$00D44230 00000063
++S Rank
+$00D44231 00000064
++Item Named By
+$00D44232 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Pointiest[level 2 - +50% Dmg]:
++Activate
+$00D21D79 00000004
++Amount You Have
+$00D44233 00000063
++S Rank
+$00D44234 00000064
++Item Named By
+$00D44235 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Sharpest[level 1 - +75% Dmg]:
++Activate
+$00D21D7A 00000004
++Amount You Have
+$00D44236 00000063
++S Rank
+$00D44237 00000064
++Item Named By
+$00D44238 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!A So-So Shield:
++Activate
+$00D21D7B 00000004
++Amount You Have
+$00D44239 00000063
++S Rank
+$00D4423A 00000064
++Item Named By
+$00D4423B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!An Okay Shield:
++Activate
+$00D21D7C 00000004
++Amount You Have
+$00D4423C 00000063
++S Rank
+$00D4423D 00000064
++Item Named By
+$00D4423E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!A Good Shield:
++Activate
+$00D21D7D 00000004
++Amount You Have
+$00D4423F 00000063
++S Rank
+$00D44240 00000064
++Item Named By
+$00D44241 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!An Amazing Shield:
++Activate
+$00D21D7E 00000004
++Amount You Have
+$00D44242 00000063
++S Rank
+$00D44243 00000064
++Item Named By
+$00D44244 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Defensive Shield Inf[level 1 - Physical Dmg Down]:
++Activate
+$00D21D7F 00000004
++Amount You Have
+$00D44245 00000063
++S Rank
+$00D44246 00000064
++Item Named By
+$00D44247 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!A So-So Barrier:
++Activate
+$00D21D80 00000004
++Amount You Have
+$00D44248 00000063
++S Rank
+$00D44249 00000064
++Item Named By
+$00D4424A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!An Okay Barrier:
++Activate
+$00D21D81 00000004
++Amount You Have
+$00D4424B 00000063
++S Rank
+$00D4424C 00000064
++Item Named By
+$00D4424D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!A Good Barrier:
++Activate
+$00D21D82 00000004
++Amount You Have
+$00D4424E 00000063
++S Rank
+$00D4424F 00000064
++Item Named By
+$00D44250 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!An Amazing Barrier:
++Activate
+$00D21D83 00000004
++Amount You Have
+$00D44251 00000063
++S Rank
+$00D44252 00000064
++Item Named By
+$00D44253 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Barrier Inf[level 1 - Magical Dmg Down]:
++Activate
+$00D21D84 00000004
++Amount You Have
+$00D44254 00000063
++S Rank
+$00D44255 00000064
++Item Named By
+$00D44256 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Muscly Toughness:
++Activate
+$00D21D85 00000004
++Amount You Have
+$00D44257 00000063
++S Rank
+$00D44258 00000064
++Item Named By
+$00D44259 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Macho Toughness:
++Activate
+$00D21D86 00000004
++Amount You Have
+$00D4425A 00000063
++S Rank
+$00D4425B 00000064
++Item Named By
+$00D4425C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Toughguy Toughness:
++Activate
+$00D21D87 00000004
++Amount You Have
+$00D4425D 00000063
++S Rank
+$00D4425E 00000064
++Item Named By
+$00D4425F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Big Bro Toughness:
++Activate
+$00D21D88 00000004
++Amount You Have
+$00D44260 00000063
++S Rank
+$00D44261 00000064
++Item Named By
+$00D44262 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Pure Toughness[level 2 - HP +50%]:
++Activate
+$00D21D89 00000004
++Amount You Have
+$00D44263 00000063
++S Rank
+$00D44264 00000064
++Item Named By
+$00D44265 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Blazing Toughness[level 1 - HP +75%]:
++Activate
+$00D21D8A 00000004
++Amount You Have
+$00D44266 00000063
++S Rank
+$00D44267 00000064
++Item Named By
+$00D44268 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Echoing Force[level 1 Harmonics+]:
++Activate
+$00D21D8B 00000004
++Amount You Have
+$00D44269 00000063
++S Rank
+$00D4426A 00000064
++Item Named By
+$00D4426B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Resonating Force[level 3 Harmonics+]:
++Activate
+$00D21D8C 00000004
++Amount You Have
+$00D4426C 00000063
++S Rank
+$00D4426D 00000064
++Item Named By
+$00D4426E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Harmonizing Sound[level 4 Harmonics+]:
++Activate
+$00D21D8D 00000004
++Amount You Have
+$00D4426F 00000063
++S Rank
+$00D44270 00000064
++Item Named By
+$00D44271 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Glass Amp:
++Activate
+$00D21D8E 00000004
++Amount You Have
+$00D44272 00000063
++S Rank
+$00D44273 00000064
++Item Named By
+$00D44274 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Jade Amp:
++Activate
+$00D21D8F 00000004
++Amount You Have
+$00D44275 00000063
++S Rank
+$00D44276 00000064
++Item Named By
+$00D44277 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Amber Amp:
++Activate
+$00D21D90 00000004
++Amount You Have
+$00D44278 00000063
++S Rank
+$00D44279 00000064
++Item Named By
+$00D4427A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Crystal Amp:
++Activate
+$00D21D91 00000004
++Amount You Have
+$00D4427B 00000063
++S Rank
+$00D4427C 00000064
++Item Named By
+$00D4427D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Cosmic Echo[level 1 - +75% Blue Effect]:
++Activate
+$00D21D92 00000004
++Amount You Have
+$00D4427E 00000063
++S Rank
+$00D4427F 00000064
++Item Named By
+$00D44280 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Eternal Echo[level 2 - +100% Blue Effect]:
++Activate
+$00D21D93 00000004
++Amount You Have
+$00D44281 00000063
++S Rank
+$00D44282 00000064
++Item Named By
+$00D44283 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Poison Immunity:
++Activate
+$00D21D94 00000004
++Amount You Have
+$00D44284 00000063
++S Rank
+$00D44285 00000064
++Item Named By
+$00D44286 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Sleep Immunity:
++Activate
+$00D21D95 00000004
++Amount You Have
+$00D44287 00000063
++S Rank
+$00D44288 00000064
++Item Named By
+$00D44289 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Paralysis Immunity:
++Activate
+$00D21D96 00000004
++Amount You Have
+$00D4428A 00000063
++S Rank
+$00D4428B 00000064
++Item Named By
+$00D4428C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Curse Immunity:
++Activate
+$00D21D97 00000004
++Amount You Have
+$00D4428D 00000063
++S Rank
+$00D4428E 00000064
++Item Named By
+$00D4428F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Blind Immunity:
++Activate
+$00D21D98 00000004
++Amount You Have
+$00D44290 00000063
++S Rank
+$00D44291 00000064
++Item Named By
+$00D44292 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Power Up:
++Activate
+$00D21D99 00000004
++Amount You Have
+$00D44293 00000063
++S Rank
+$00D44294 00000064
++Item Named By
+$00D44295 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Stronger Power:
++Activate
+$00D21D9A 00000004
++Amount You Have
+$00D44296 00000063
++S Rank
+$00D44297 00000064
++Item Named By
+$00D44298 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Real Power:
++Activate
+$00D21D9B 00000004
++Amount You Have
+$00D44299 00000063
++S Rank
+$00D4429A 00000064
++Item Named By
+$00D4429B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Amazing Power:
++Activate
+$00D21D9C 00000004
++Amount You Have
+$00D4429C 00000063
++S Rank
+$00D4429D 00000064
++Item Named By
+$00D4429E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Attack Power Inf[level 1 - Atk+]:
++Activate
+$00D21D9D 00000004
++Amount You Have
+$00D4429F 00000063
++S Rank
+$00D442A0 00000064
++Item Named By
+$00D442A1 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Defense Up:
++Activate
+$00D21D9E 00000004
++Amount You Have
+$00D442A2 00000063
++S Rank
+$00D442A3 00000064
++Item Named By
+$00D442A4 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Stronger Defense:
++Activate
+$00D21D9F 00000004
++Amount You Have
+$00D442A5 00000063
++S Rank
+$00D442A6 00000064
++Item Named By
+$00D442A7 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Real Defense:
++Activate
+$00D21DA0 00000004
++Amount You Have
+$00D442A8 00000063
++S Rank
+$00D442A9 00000064
++Item Named By
+$00D442AA 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Amazing Defense:
++Activate
+$00D21DA1 00000004
++Amount You Have
+$00D442AB 00000063
++S Rank
+$00D442AC 00000064
++Item Named By
+$00D442AD 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Defense Inf[level 1 - Def+]:
++Activate
+$00D21DA2 00000004
++Amount You Have
+$00D442AE 00000063
++S Rank
+$00D442AF 00000064
++Item Named By
+$00D442B0 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Agility Up:
++Activate
+$00D21DA3 00000004
++Amount You Have
+$00D442B1 00000063
++S Rank
+$00D442B2 00000064
++Item Named By
+$00D442B3 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Stronger Agility:
++Activate
+$00D21DA4 00000004
++Amount You Have
+$00D442B4 00000063
++S Rank
+$00D442B5 00000064
++Item Named By
+$00D442B6 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Real Agility:
++Activate
+$00D21DA5 00000004
++Amount You Have
+$00D442B7 00000063
++S Rank
+$00D442B8 00000064
++Item Named By
+$00D442B9 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Amazing Agility:
++Activate
+$00D21DA6 00000004
++Amount You Have
+$00D442BA 00000063
++S Rank
+$00D442BB 00000064
++Item Named By
+$00D442BC 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Agility Inf[level 1 - Agi+]:
++Activate
+$00D21DA7 00000004
++Amount You Have
+$00D442BD 00000063
++S Rank
+$00D442BE 00000064
++Item Named By
+$00D442BF 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Less MP For Blue:
++Activate
+$00D21DA8 00000004
++Amount You Have
+$00D442C0 00000063
++S Rank
+$00D442C1 00000064
++Item Named By
+$00D442C2 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Little MP For Blue:
++Activate
+$00D21DA9 00000004
++Amount You Have
+$00D442C3 00000063
++S Rank
+$00D442C4 00000064
++Item Named By
+$00D442C5 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Low MP For Blue:
++Activate
+$00D21DAA 00000004
++Amount You Have
+$00D442C6 00000063
++S Rank
+$00D442C7 00000064
++Item Named By
+$00D442C8 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Bare MP For Blue:
++Activate
+$00D21DAB 00000004
++Amount You Have
+$00D442C9 00000063
++S Rank
+$00D442CA 00000064
++Item Named By
+$00D442CB 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Cosmo Saphire[level 1 - MP Usage Dwn]:
++Activate
+$00D21DAC 00000004
++Amount You Have
+$00D442CC 00000063
++S Rank
+$00D442CD 00000064
++Item Named By
+$00D442CE 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Withstand Fire:
++Activate
+$00D21DAD 00000004
++Amount You Have
+$00D442CF 00000063
++S Rank
+$00D442D0 00000064
++Item Named By
+$00D442D1 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Stronger To Fire:
++Activate
+$00D21DAE 00000004
++Amount You Have
+$00D442D2 00000063
++S Rank
+$00D442D3 00000064
++Item Named By
+$00D442D4 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Overcome Fire:
++Activate
+$00D21DAF 00000004
++Amount You Have
+$00D442D5 00000063
++S Rank
+$00D442D6 00000064
++Item Named By
+$00D442D7 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Withstand Ice:
++Activate
+$00D21DB0 00000004
++Amount You Have
+$00D442D8 00000063
++S Rank
+$00D442D9 00000064
++Item Named By
+$00D442DA 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Stronger To Ice:
++Activate
+$00D21DB1 00000004
++Amount You Have
+$00D442DB 00000063
++S Rank
+$00D442DC 00000064
++Item Named By
+$00D442DD 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Overcome Ice:
++Activate
+$00D21DB2 00000004
++Amount You Have
+$00D442DE 00000063
++S Rank
+$00D442DF 00000064
++Item Named By
+$00D442E0 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Withstand Lightning:
++Activate
+$00D21DB3 00000004
++Amount You Have
+$00D442E1 00000063
++S Rank
+$00D442E2 00000064
++Item Named By
+$00D442E3 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Stronger To Lightning:
++Activate
+$00D21DB4 00000004
++Amount You Have
+$00D442E4 00000063
++S Rank
+$00D442E5 00000064
++Item Named By
+$00D442E6 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Overcome Lightning:
++Activate
+$00D21DB5 00000004
++Amount You Have
+$00D442E7 00000063
++S Rank
+$00D442E8 00000064
++Item Named By
+$00D442E9 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Withstand Wind:
++Activate
+$00D21DB6 00000004
++Amount You Have
+$00D442EA 00000063
++S Rank
+$00D442EB 00000064
++Item Named By
+$00D442EC 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Stronger To Wind:
++Activate
+$00D21DB7 00000004
++Amount You Have
+$00D442ED 00000063
++S Rank
+$00D442EE 00000064
++Item Named By
+$00D442EF 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Overcome Wind:
++Activate
+$00D21DB8 00000004
++Amount You Have
+$00D442F0 00000063
++S Rank
+$00D442F1 00000064
++Item Named By
+$00D442F2 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!All Resists Up:
++Activate
+$00D21DB9 00000004
++Amount You Have
+$00D442F3 00000063
++S Rank
+$00D442F4 00000064
++Item Named By
+$00D442F5 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!All Resists Boost:
++Activate
+$00D21DBA 00000004
++Amount You Have
+$00D442F6 00000063
++S Rank
+$00D442F7 00000064
++Item Named By
+$00D442F8 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Full Resist:
++Activate
+$00D21DBB 00000004
++Amount You Have
+$00D442F9 00000063
++S Rank
+$00D442FA 00000064
++Item Named By
+$00D442FB 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Upgrade:
++Activate
+$00D21DBC 00000004
++Amount You Have
+$00D442FC 00000063
++S Rank
+$00D442FD 00000064
++Item Named By
+$00D442FE 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!High Grade:
++Activate
+$00D21DBD 00000004
++Amount You Have
+$00D442FF 00000063
++S Rank
+$00D44300 00000064
++Item Named By
+$00D44301 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Uber Grade:
++Activate
+$00D21DBE 00000004
++Amount You Have
+$00D44302 00000063
++S Rank
+$00D44303 00000064
++Item Named By
+$00D44304 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Master Grade:
++Activate
+$00D21DBF 00000004
++Amount You Have
+$00D44305 00000063
++S Rank
+$00D44306 00000064
++Item Named By
+$00D44307 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Special Grade[level 1 - +100% To Equip Stats]:
++Activate
+$00D21DC0 00000004
++Amount You Have
+$00D44308 00000063
++S Rank
+$00D44309 00000064
++Item Named By
+$00D4430A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Damage Up:
++Activate
+$00D21DC1 00000004
++Amount You Have
+$00D4430B 00000063
++S Rank
+$00D4430C 00000064
++Item Named By
+$00D4430D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Physical Guard:
++Activate
+$00D21DC2 00000004
++Amount You Have
+$00D4430E 00000063
++S Rank
+$00D4430F 00000064
++Item Named By
+$00D44310 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Magical Guard:
++Activate
+$00D21DC3 00000004
++Amount You Have
+$00D44311 00000063
++S Rank
+$00D44312 00000064
++Item Named By
+$00D44313 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Quick Move:
++Activate
+$00D21DC4 00000004
++Amount You Have
+$00D44314 00000063
++S Rank
+$00D44315 00000064
++Item Named By
+$00D44316 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Fast Move:
++Activate
+$00D21DC5 00000004
++Amount You Have
+$00D44317 00000063
++S Rank
+$00D44318 00000064
++Item Named By
+$00D44319 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Rapid Move:
++Activate
+$00D21DC6 00000004
++Amount You Have
+$00D4431A 00000063
++S Rank
+$00D4431B 00000064
++Item Named By
+$00D4431C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Haste[level 2 - Wait Time -20%]:
++Activate
+$00D21DC7 00000004
++Amount You Have
+$00D4431D 00000063
++S Rank
+$00D4431E 00000064
++Item Named By
+$00D4431F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Beserking Power:
++Activate
+$00D21DC8 00000004
++Amount You Have
+$00D44320 00000063
++S Rank
+$00D44321 00000064
++Item Named By
+$00D44322 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Forbidden Power:
++Activate
+$00D21DC9 00000004
++Amount You Have
+$00D44323 00000063
++S Rank
+$00D44324 00000064
++Item Named By
+$00D44325 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Aweful Power:
++Activate
+$00D21DCA 00000004
++Amount You Have
+$00D44326 00000063
++S Rank
+$00D44327 00000064
++Item Named By
+$00D44328 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!God Of Destruction[level 2 - Atk +100%, Def -100%:
++Activate
+$00D21DCB 00000004
++Amount You Have
+$00D44329 00000063
++S Rank
+$00D4432A 00000064
++Item Named By
+$00D4432B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Rock Of Healing:
++Activate
+$00D21DCC 00000004
++Amount You Have
+$00D4432C 00000063
++S Rank
+$00D4432D 00000064
++Item Named By
+$00D4432E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Curing Amber:
++Activate
+$00D21DCD 00000004
++Amount You Have
+$00D4432F 00000063
++S Rank
+$00D44330 00000064
++Item Named By
+$00D44331 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Healing Jade:
++Activate
+$00D21DCE 00000004
++Amount You Have
+$00D44332 00000063
++S Rank
+$00D44333 00000064
++Item Named By
+$00D44334 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Regen Crystal:
++Activate
+$00D21DCF 00000004
++Amount You Have
+$00D44335 00000063
++S Rank
+$00D44336 00000064
++Item Named By
+$00D44337 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Revive Core[level 2 - HP Regen]:
++Activate
+$00D21DD0 00000004
++Amount You Have
+$00D44338 00000063
++S Rank
+$00D44339 00000064
++Item Named By
+$00D4433A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Poison Weapon:
++Activate
+$00D21DD1 00000004
++Amount You Have
+$00D4433B 00000063
++S Rank
+$00D4433C 00000064
++Item Named By
+$00D4433D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Venom Weapon:
++Activate
+$00D21DD2 00000004
++Amount You Have
+$00D4433E 00000063
++S Rank
+$00D4433F 00000064
++Item Named By
+$00D44340 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Sleepy Weapon:
++Activate
+$00D21DD3 00000004
++Amount You Have
+$00D44341 00000063
++S Rank
+$00D44342 00000064
++Item Named By
+$00D44343 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Coma Weapon:
++Activate
+$00D21DD4 00000004
++Amount You Have
+$00D44344 00000063
++S Rank
+$00D44345 00000064
++Item Named By
+$00D44346 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Tingling Weapon:
++Activate
+$00D21DD5 00000004
++Amount You Have
+$00D44347 00000063
++S Rank
+$00D44348 00000064
++Item Named By
+$00D44349 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Numbing Weapon:
++Activate
+$00D21DD6 00000004
++Amount You Have
+$00D4434A 00000063
++S Rank
+$00D4434B 00000064
++Item Named By
+$00D4434C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Cursing Weapon:
++Activate
+$00D21DD7 00000004
++Amount You Have
+$00D4434D 00000063
++S Rank
+$00D4434E 00000064
++Item Named By
+$00D4434F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Haunting Weapon:
++Activate
+$00D21DD8 00000004
++Amount You Have
+$00D44350 00000063
++S Rank
+$00D44351 00000064
++Item Named By
+$00D44352 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Blinding Weapon:
++Activate
+$00D21DD9 00000004
++Amount You Have
+$00D44353 00000063
++S Rank
+$00D44354 00000064
++Item Named By
+$00D44355 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Darkness Weapon:
++Activate
+$00D21DDA 00000004
++Amount You Have
+$00D44356 00000063
++S Rank
+$00D44357 00000064
++Item Named By
+$00D44358 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Resonance Device:
++Activate
+$00D21DDB 00000004
++Amount You Have
+$00D44359 00000063
++S Rank
+$00D4435A 00000064
++Item Named By
+$00D4435B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Super Resonator:
++Activate
+$00D21DDC 00000004
++Amount You Have
+$00D4435C 00000063
++S Rank
+$00D4435D 00000064
++Item Named By
+$00D4435E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Resonant 100[level 2 - Ambience +100%]:
++Activate
+$00D21DDD 00000004
++Amount You Have
+$00D4435F 00000063
++S Rank
+$00D44360 00000064
++Item Named By
+$00D44361 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Double Attack:
++Activate
+$00D21DDE 00000004
++Amount You Have
+$00D44362 00000063
++S Rank
+$00D44363 00000064
++Item Named By
+$00D44364 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Triple Attack:
++Activate
+$00D21DDF 00000004
++Amount You Have
+$00D44365 00000063
++S Rank
+$00D44366 00000064
++Item Named By
+$00D44367 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Quadruple Attack:
++Activate
+$00D21DE0 00000004
++Amount You Have
+$00D44368 00000063
++S Rank
+$00D44369 00000064
++Item Named By
+$00D4436A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Chaotic Strike[level 2 - +4 Attacks]:
++Activate
+$00D21DE1 00000004
++Amount You Have
+$00D4436B 00000063
++S Rank
+$00D4436C 00000064
++Item Named By
+$00D4436D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Running Fire:
++Activate
+$00D21DE2 00000004
++Amount You Have
+$00D4436E 00000063
++S Rank
+$00D4436F 00000064
++Item Named By
+$00D44370 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Fiery Follower:
++Activate
+$00D21DE3 00000004
++Amount You Have
+$00D44371 00000063
++S Rank
+$00D44372 00000064
++Item Named By
+$00D44373 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Fire Chaser:
++Activate
+$00D21DE4 00000004
++Amount You Have
+$00D44374 00000063
++S Rank
+$00D44375 00000064
++Item Named By
+$00D44376 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Fiery Pursuit:
++Activate
+$00D21DE5 00000004
++Amount You Have
+$00D44377 00000063
++S Rank
+$00D44378 00000064
++Item Named By
+$00D44379 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Burning Strike[level 1 - +75% Fire Dmg]:
++Activate
+$00D21DE6 00000004
++Amount You Have
+$00D4437A 00000063
++S Rank
+$00D4437B 00000064
++Item Named By
+$00D4437C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Running Ice:
++Activate
+$00D21DE7 00000004
++Amount You Have
+$00D4437D 00000063
++S Rank
+$00D4437E 00000064
++Item Named By
+$00D4437F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Icy Follower:
++Activate
+$00D21DE8 00000004
++Amount You Have
+$00D44380 00000063
++S Rank
+$00D44381 00000064
++Item Named By
+$00D44382 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Ice Chaser:
++Activate
+$00D21DE9 00000004
++Amount You Have
+$00D44383 00000063
++S Rank
+$00D44384 00000064
++Item Named By
+$00D44385 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Icy Pursuit:
++Activate
+$00D21DEA 00000004
++Amount You Have
+$00D44386 00000063
++S Rank
+$00D44387 00000064
++Item Named By
+$00D44388 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Frozen Blade[level 1 - +75% Ice Dmg]:
++Activate
+$00D21DEB 00000004
++Amount You Have
+$00D44389 00000063
++S Rank
+$00D4438A 00000064
++Item Named By
+$00D4438B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Running Lightning:
++Activate
+$00D21DEC 00000004
++Amount You Have
+$00D4438C 00000063
++S Rank
+$00D4438D 00000064
++Item Named By
+$00D4438E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Lightning Follower:
++Activate
+$00D21DED 00000004
++Amount You Have
+$00D4438F 00000063
++S Rank
+$00D44390 00000064
++Item Named By
+$00D44391 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Lightning Chaser:
++Activate
+$00D21DEE 00000004
++Amount You Have
+$00D44392 00000063
++S Rank
+$00D44393 00000064
++Item Named By
+$00D44394 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Lightning Pursuit:
++Activate
+$00D21DEF 00000004
++Amount You Have
+$00D44395 00000063
++S Rank
+$00D44396 00000064
++Item Named By
+$00D44397 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Electric Shatter[level 2 - +75% Electric Dmg]:
++Activate
+$00D21DF0 00000004
++Amount You Have
+$00D44398 00000063
++S Rank
+$00D44399 00000064
++Item Named By
+$00D4439A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Running Wind:
++Activate
+$00D21DF1 00000004
++Amount You Have
+$00D4439B 00000063
++S Rank
+$00D4439C 00000064
++Item Named By
+$00D4439D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Windy Follower:
++Activate
+$00D21DF2 00000004
++Amount You Have
+$00D4439E 00000063
++S Rank
+$00D4439F 00000064
++Item Named By
+$00D443A0 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Wind Chaser:
++Activate
+$00D21DF3 00000004
++Amount You Have
+$00D443A1 00000063
++S Rank
+$00D443A2 00000064
++Item Named By
+$00D443A3 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Windy Pursuit:
++Activate
+$00D21DF4 00000004
++Amount You Have
+$00D443A4 00000063
++S Rank
+$00D443A5 00000064
++Item Named By
+$00D443A6 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Wind Scythe[level 2 - +75% Wind Dmg]:
++Activate
+$00D21DF5 00000004
++Amount You Have
+$00D443A7 00000063
++S Rank
+$00D443A8 00000064
++Item Named By
+$00D443A9 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Hint Of HP:
++Activate
+$00D21DF6 00000004
++Amount You Have
+$00D443AA 00000063
++S Rank
+$00D443AB 00000064
++Item Named By
+$00D443AC 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Spoonfull Of HP:
++Activate
+$00D21DF7 00000004
++Amount You Have
+$00D443AD 00000063
++S Rank
+$00D443AE 00000064
++Item Named By
+$00D443AF 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Cup Of HP:
++Activate
+$00D21DF8 00000004
++Amount You Have
+$00D443B0 00000063
++S Rank
+$00D443B1 00000064
++Item Named By
+$00D443B2 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Lots Of HP:
++Activate
+$00D21DF9 00000004
++Amount You Have
+$00D443B3 00000063
++S Rank
+$00D443B4 00000064
++Item Named By
+$00D443B5 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Reinforcement Chip:
++Activate
+$00D21DFA 00000004
++Amount You Have
+$00D443B6 00000063
++S Rank
+$00D443B7 00000064
++Item Named By
+$00D443B8 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Stamina Plus:
++Activate
+$00D21DFB 00000004
++Amount You Have
+$00D443B9 00000063
++S Rank
+$00D443BA 00000064
++Item Named By
+$00D443BB 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Life Booster[level 1 - +1250hp]:
++Activate
+$00D21DFC 00000004
++Amount You Have
+$00D443BC 00000063
++S Rank
+$00D443BD 00000064
++Item Named By
+$00D443BE 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Hint Of MP:
++Activate
+$00D21DFD 00000004
++Amount You Have
+$00D443BF 00000063
++S Rank
+$00D443C0 00000064
++Item Named By
+$00D443C1 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Spoonful Of MP:
++Activate
+$00D21DFE 00000004
++Amount You Have
+$00D443C2 00000063
++S Rank
+$00D443C3 00000064
++Item Named By
+$00D443C4 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Cup Of MP:
++Activate
+$00D21DFF 00000004
++Amount You Have
+$00D443C5 00000063
++S Rank
+$00D443C6 00000064
++Item Named By
+$00D443C7 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Lots Of MP:
++Activate
+$00D21E00 00000004
++Amount You Have
+$00D443C8 00000063
++S Rank
+$00D443C9 00000064
++Item Named By
+$00D443CA 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Mega Memory:
++Activate
+$00D21E01 00000004
++Amount You Have
+$00D443CB 00000063
++S Rank
+$00D443CC 00000064
++Item Named By
+$00D443CD 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Giga Memory:
++Activate
+$00D21E02 00000004
++Amount You Have
+$00D443CE 00000063
++S Rank
+$00D443CF 00000064
++Item Named By
+$00D443D0 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Tera Memory[level 1 - +1250mp]:
++Activate
+$00D21E03 00000004
++Amount You Have
+$00D443D1 00000063
++S Rank
+$00D443D2 00000064
++Item Named By
+$00D443D3 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Kinda Strong:
++Activate
+$00D21E04 00000004
++Amount You Have
+$00D443D4 00000063
++S Rank
+$00D443D5 00000064
++Item Named By
+$00D443D6 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Rather Strong:
++Activate
+$00D21E05 00000004
++Amount You Have
+$00D443D7 00000063
++S Rank
+$00D443D8 00000064
++Item Named By
+$00D443D9 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Very Strong:
++Activate
+$00D21E06 00000004
++Amount You Have
+$00D443DA 00000063
++S Rank
+$00D443DB 00000064
++Item Named By
+$00D443DC 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Real Strong:
++Activate
+$00D21E07 00000004
++Amount You Have
+$00D443DD 00000063
++S Rank
+$00D443DE 00000064
++Item Named By
+$00D443DF 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Master Technique[level 1 - Atk+]:
++Activate
+$00D21E08 00000004
++Amount You Have
+$00D443E0 00000063
++S Rank
+$00D443E1 00000064
++Item Named By
+$00D443E2 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Kinda Critical:
++Activate
+$00D21E09 00000004
++Amount You Have
+$00D443E3 00000063
++S Rank
+$00D443E4 00000064
++Item Named By
+$00D443E5 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Rather Critical:
++Activate
+$00D21E0A 00000004
++Amount You Have
+$00D443E6 00000063
++S Rank
+$00D443E7 00000064
++Item Named By
+$00D443E8 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Very Critical:
++Activate
+$00D21E0B 00000004
++Amount You Have
+$00D443E9 00000063
++S Rank
+$00D443EA 00000064
++Item Named By
+$00D443EB 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Real Critical:
++Activate
+$00D21E0C 00000004
++Amount You Have
+$00D443EC 00000063
++S Rank
+$00D443ED 00000064
++Item Named By
+$00D443EE 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Absolutely Critical[level 2 - Critical+]:
++Activate
+$00D21E0D 00000004
++Amount You Have
+$00D443EF 00000063
++S Rank
+$00D443F0 00000064
++Item Named By
+$00D443F1 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Kinda Defensive:
++Activate
+$00D21E0E 00000004
++Amount You Have
+$00D443F2 00000063
++S Rank
+$00D443F3 00000064
++Item Named By
+$00D443F4 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Rather Defensive:
++Activate
+$00D21E0F 00000004
++Amount You Have
+$00D443F5 00000063
++S Rank
+$00D443F6 00000064
++Item Named By
+$00D443F7 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Very Defensive:
++Activate
+$00D21E10 00000004
++Amount You Have
+$00D443F8 00000063
++S Rank
+$00D443F9 00000064
++Item Named By
+$00D443FA 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Real Defensive:
++Activate
+$00D21E11 00000004
++Amount You Have
+$00D443FB 00000063
++S Rank
+$00D443FC 00000064
++Item Named By
+$00D443FD 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Diamond Protection[level 1 - Def+]:
++Activate
+$00D21E12 00000004
++Amount You Have
+$00D443FE 00000063
++S Rank
+$00D443FF 00000064
++Item Named By
+$00D44400 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Kinda Fast:
++Activate
+$00D21E13 00000004
++Amount You Have
+$00D44401 00000063
++S Rank
+$00D44402 00000064
++Item Named By
+$00D44403 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Rather Fast:
++Activate
+$00D21E14 00000004
++Amount You Have
+$00D44404 00000063
++S Rank
+$00D44405 00000064
++Item Named By
+$00D44406 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Very Fast:
++Activate
+$00D21E15 00000004
++Amount You Have
+$00D44407 00000063
++S Rank
+$00D44408 00000064
++Item Named By
+$00D44409 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Real Fast:
++Activate
+$00D21E16 00000004
++Amount You Have
+$00D4440A 00000063
++S Rank
+$00D4440B 00000064
++Item Named By
+$00D4440C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Mach Speed[level 2 - Agi+]:
++Activate
+$00D21E17 00000004
++Amount You Have
+$00D4440D 00000063
++S Rank
+$00D4440E 00000064
++Item Named By
+$00D4440F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Minor Damage +:
++Activate
+$00D21E18 00000004
++Amount You Have
+$00D44410 00000063
++S Rank
+$00D44411 00000064
++Item Named By
+$00D44412 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Lesser Damage +:
++Activate
+$00D21E19 00000004
++Amount You Have
+$00D44413 00000063
++S Rank
+$00D44414 00000064
++Item Named By
+$00D44415 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Greater Damage +:
++Activate
+$00D21E1A 00000004
++Amount You Have
+$00D44416 00000063
++S Rank
+$00D44417 00000064
++Item Named By
+$00D44418 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Major Damage +:
++Activate
+$00D21E1B 00000004
++Amount You Have
+$00D44419 00000063
++S Rank
+$00D4441A 00000064
++Item Named By
+$00D4441B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Grand Destroyer[level 2 - Dmg+]:
++Activate
+$00D21E1C 00000004
++Amount You Have
+$00D4441C 00000063
++S Rank
+$00D4441D 00000064
++Item Named By
+$00D4441E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Overclock:
++Activate
+$00D21E1D 00000004
++Amount You Have
+$00D4441F 00000063
++S Rank
+$00D44420 00000064
++Item Named By
+$00D44421 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Strong Feelings:
++Activate
+$00D21E1E 00000004
++Amount You Have
+$00D44422 00000063
++S Rank
+$00D44423 00000064
++Item Named By
+$00D44424 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Relaxation:
++Activate
+$00D21E1F 00000004
++Amount You Have
+$00D44425 00000063
++S Rank
+$00D44426 00000064
++Item Named By
+$00D44427 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Brave Note:
++Activate
+$00D21E20 00000004
++Amount You Have
+$00D44428 00000063
++S Rank
+$00D44429 00000064
++Item Named By
+$00D4442A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Glass Heart:
++Activate
+$00D21E21 00000004
++Amount You Have
+$00D4442B 00000063
++S Rank
+$00D4442C 00000064
++Item Named By
+$00D4442D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Emotion 0:
++Activate
+$00D21E22 00000004
++Amount You Have
+$00D4442E 00000063
++S Rank
+$00D4442F 00000064
++Item Named By
+$00D44430 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Salamander Seal[level 1 - Fire Atk, Fire Resist, Atk+200]:
++Activate
+$00D21E23 00000004
++Amount You Have
+$00D44431 00000063
++S Rank
+$00D44432 00000064
++Item Named By
+$00D44433 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Leviathan Seal[level 1 - Ice Atk, Ice Resist, Def+200]:
++Activate
+$00D21E24 00000004
++Amount You Have
+$00D44434 00000063
++S Rank
+$00D44435 00000064
++Item Named By
+$00D44436 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Indra Seal[level 1 - Lightning Atk, Lightning Resist]:
++Activate
+$00D21E25 00000004
++Amount You Have
+$00D44437 00000063
++S Rank
+$00D44438 00000064
++Item Named By
+$00D44439 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Griffin Seal[level 1 - Wind Atk, Wind Resist, Agi+200]:
++Activate
+$00D21E26 00000004
++Amount You Have
+$00D4443A 00000063
++S Rank
+$00D4443B 00000064
++Item Named By
+$00D4443C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Potential Up[level 2 - Brings Out Character's Hidden Potential?]:
++Activate
+$00D21E27 00000004
++Amount You Have
+$00D4443D 00000063
++S Rank
+$00D4443E 00000064
++Item Named By
+$00D4443F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Warrior's Spirit:
++Activate
+$00D21E28 00000004
++Amount You Have
+$00D44440 00000063
++S Rank
+$00D44441 00000064
++Item Named By
+$00D44442 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Knight's Spirit:
++Activate
+$00D21E29 00000004
++Amount You Have
+$00D44443 00000063
++S Rank
+$00D44444 00000064
++Item Named By
+$00D44445 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Bushido Spirit:
++Activate
+$00D21E2A 00000004
++Amount You Have
+$00D44446 00000063
++S Rank
+$00D44447 00000064
++Item Named By
+$00D44448 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Hero's Spirit:
++Activate
+$00D21E2B 00000004
++Amount You Have
+$00D44449 00000063
++S Rank
+$00D4444A 00000064
++Item Named By
+$00D4444B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!King's Spirit:
++Activate
+$00D21E2C 00000004
++Amount You Have
+$00D4444C 00000063
++S Rank
+$00D4444D 00000064
++Item Named By
+$00D4444E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Conquerer's Spirit[level 1 - All Around Stat+]:
++Activate
+$00D21E2D 00000004
++Amount You Have
+$00D4444F 00000063
++S Rank
+$00D44450 00000064
++Item Named By
+$00D44451 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!MP Convert:
++Activate
+$00D21E2E 00000004
++Amount You Have
+$00D44452 00000063
++S Rank
+$00D44453 00000064
++Item Named By
+$00D44454 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!MP Converter:
++Activate
+$00D21E2F 00000004
++Amount You Have
+$00D44455 00000063
++S Rank
+$00D44456 00000064
++Item Named By
+$00D44457 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!MP Conversion:
++Activate
+$00D21E30 00000004
++Amount You Have
+$00D44458 00000063
++S Rank
+$00D44459 00000064
++Item Named By
+$00D4445A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!MP Convertist:
++Activate
+$00D21E31 00000004
++Amount You Have
+$00D4445B 00000063
++S Rank
+$00D4445C 00000064
++Item Named By
+$00D4445D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Tainted Power[level 1 - HP To Mp]:
++Activate
+$00D21E32 00000004
++Amount You Have
+$00D4445E 00000063
++S Rank
+$00D4445F 00000064
++Item Named By
+$00D44460 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Extreme Speed[level 1 - +5 Attacks, +100agi]:
++Activate
+$00D21E33 00000004
++Amount You Have
+$00D44461 00000063
++S Rank
+$00D44462 00000064
++Item Named By
+$00D44463 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Battle Aura:
++Activate
+$00D21E34 00000004
++Amount You Have
+$00D44464 00000063
++S Rank
+$00D44465 00000064
++Item Named By
+$00D44466 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Brave Aura:
++Activate
+$00D21E35 00000004
++Amount You Have
+$00D44467 00000063
++S Rank
+$00D44468 00000064
++Item Named By
+$00D44469 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Master Aura[level 1 - HP Regen, +200atk]:
++Activate
+$00D21E36 00000004
++Amount You Have
+$00D4446A 00000063
++S Rank
+$00D4446B 00000064
++Item Named By
+$00D4446C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Anger Max:
++Activate
+$00D21E37 00000004
++Amount You Have
+$00D4446D 00000063
++S Rank
+$00D4446E 00000064
++Item Named By
+$00D4446F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Goith Shield[level 1 - Physical Dmg Dwn]:
++Activate
+$00D21E38 00000004
++Amount You Have
+$00D44470 00000063
++S Rank
+$00D44471 00000064
++Item Named By
+$00D44472 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Goith Barrier[level 1 - Magical Dmg Dwn]:
++Activate
+$00D21E39 00000004
++Amount You Have
+$00D44473 00000063
++S Rank
+$00D44474 00000064
++Item Named By
+$00D44475 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Insane Soul:
++Activate
+$00D21E3A 00000004
++Amount You Have
+$00D44476 00000063
++S Rank
+$00D44477 00000064
++Item Named By
+$00D44478 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Origin Alpha:
++Activate
+$00D21E3B 00000004
++Amount You Have
+$00D44479 00000063
++S Rank
+$00D4447A 00000064
++Item Named By
+$00D4447B 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Origin Beta:
++Activate
+$00D21E3C 00000004
++Amount You Have
+$00D4447C 00000063
++S Rank
+$00D4447D 00000064
++Item Named By
+$00D4447E 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Origin Gamma:
++Activate
+$00D21E3D 00000004
++Amount You Have
+$00D4447F 00000063
++S Rank
+$00D44480 00000064
++Item Named By
+$00D44481 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Origin Omega:
++Activate
+$00D21E3E 00000004
++Amount You Have
+$00D44482 00000063
++S Rank
+$00D44483 00000064
++Item Named By
+$00D44484 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Yuteria Weapon:
++Activate
+$00D21E3F 00000004
++Amount You Have
+$00D44485 00000063
++S Rank
+$00D44486 00000064
++Item Named By
+$00D44487 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Yuteria Guard:
++Activate
+$00D21E40 00000004
++Amount You Have
+$00D44488 00000063
++S Rank
+$00D44489 00000064
++Item Named By
+$00D4448A 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Strengthened Power:
++Activate
+$00D21E41 00000004
++Amount You Have
+$00D4448B 00000063
++S Rank
+$00D4448C 00000064
++Item Named By
+$00D4448D 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Protective Power:
++Activate
+$00D21E42 00000004
++Amount You Have
+$00D4448E 00000063
++S Rank
+$00D4448F 00000064
++Item Named By
+$00D44490 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Blessed Power:
++Activate
+$00D21E43 00000004
++Amount You Have
+$00D44491 00000063
++S Rank
+$00D44492 00000064
++Item Named By
+$00D44493 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Almighty Power:
++Activate
+$00D21E44 00000004
++Amount You Have
+$00D44494 00000063
++S Rank
+$00D44495 00000064
++Item Named By
+$00D44496 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Don Leon's Power:
++Activate
+$00D21E45 00000004
++Amount You Have
+$00D44497 00000063
++S Rank
+$00D44498 00000064
++Item Named By
+$00D44499 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Genuine 100[level 1 - No Effect, But +s Ranked]:
++Activate
+$00D21E46 00000004
++Amount You Have
+$00D4449A 00000063
++S Rank
+$00D4449B 00000064
++Item Named By
+$00D4449C 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Shadow Stij:
++Activate
+$00D21E47 00000004
++Amount You Have
+$00D4449D 00000063
++S Rank
+$00D4449E 00000064
++Item Named By
+$00D4449F 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Galaxy Flare:
++Activate
+$00D21E48 00000004
++Amount You Have
+$00D444A0 00000063
++S Rank
+$00D444A1 00000064
++Item Named By
+$00D444A2 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Cosmo Diamond[level 4 Red - Strengthens Spiritual Power]:
++Activate
+$00D21E49 00000004
++Amount You Have
+$00D444A3 00000063
++S Rank
+$00D444A4 00000064
++Item Named By
+$00D444A5 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Aegis Protector:
++Activate
+$00D21E4A 00000004
++Amount You Have
+$00D444A6 00000063
++S Rank
+$00D444A7 00000064
++Item Named By
+$00D444A8 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Recovery Chip:
++Activate
+$00D21E4B 00000004
++Amount You Have
+$00D444A9 00000063
++S Rank
+$00D444AA 00000064
++Item Named By
+$00D444AB 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Reflect Shell:
++Activate
+$00D21E4C 00000004
++Amount You Have
+$00D444AC 00000063
++S Rank
+$00D444AD 00000064
++Item Named By
+$00D444AE 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Shine Blaster:
++Activate
+$00D21E4D 00000004
++Amount You Have
+$00D444AF 00000063
++S Rank
+$00D444B0 00000064
++Item Named By
+$00D444B1 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Plasma Soul:
++Activate
+$00D21E4E 00000004
++Amount You Have
+$00D444B2 00000063
++S Rank
+$00D444B3 00000064
++Item Named By
+$00D444B4 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Elemia Talisman:
++Activate
+$00D21E4F 00000004
++Amount You Have
+$00D444B5 00000063
++S Rank
+$00D444B6 00000064
++Item Named By
+$00D444B7 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Draconian Seal:
++Activate
+$00D21E50 00000004
++Amount You Have
+$00D444B8 00000063
++S Rank
+$00D444B9 00000064
++Item Named By
+$00D444BA 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Brilliant Life Crest:
++Activate
+$00D21E51 00000004
++Amount You Have
+$00D444BB 00000063
++S Rank
+$00D444BC 00000064
++Item Named By
+$00D444BD 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Virus Code:
++Activate
+$00D21E52 00000004
++Amount You Have
+$00D444BE 00000063
++S Rank
+$00D444BF 00000064
++Item Named By
+$00D444C0 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Mir Fragment:
++Activate
+$00D21E53 00000004
++Amount You Have
+$00D444C1 00000063
++S Rank
+$00D444C2 00000064
++Item Named By
+$00D444C3 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Eastern Winds:
++Activate
+$00D21E54 00000004
++Amount You Have
+$00D444C4 00000063
++S Rank
+$00D444C5 00000064
++Item Named By
+$00D444C6 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Spirit Crystal:
++Activate
+$00D21E55 00000004
++Amount You Have
+$00D444C7 00000063
++S Rank
+$00D444C8 00000064
++Item Named By
+$00D444C9 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Dispel Field:
++Activate
+$00D21E56 00000004
++Amount You Have
+$00D444CA 00000063
++S Rank
+$00D444CB 00000064
++Item Named By
+$00D444CC 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Rocket Boost:
++Activate
+$00D21E57 00000004
++Amount You Have
+$00D444CD 00000063
++S Rank
+$00D444CE 00000064
++Item Named By
+$00D444CF 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Energy Drain[level 4 Red - 100% Of Dmg Done Returns To Party]:
++Activate
+$00D21E58 00000004
++Amount You Have
+$00D444D0 00000063
++S Rank
+$00D444D1 00000064
++Item Named By
+$00D444D2 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!War God's Secret:
++Activate
+$00D21E59 00000004
++Amount You Have
+$00D444D3 00000063
++S Rank
+$00D444D4 00000064
++Item Named By
+$00D444D5 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Mystis' Tear:
++Activate
+$00D21E5A 00000004
++Amount You Have
+$00D444D6 00000063
++S Rank
+$00D444D7 00000064
++Item Named By
+$00D444D8 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Mastery:
++Activate
+$00D21E5B 00000004
++Amount You Have
+$00D444D9 00000063
++S Rank
+$00D444DA 00000064
++Item Named By
+$00D444DB 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Unseen Hand:
++Activate
+$00D21E5C 00000004
++Amount You Have
+$00D444DC 00000063
++S Rank
+$00D444DD 00000064
++Item Named By
+$00D444DE 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!Seraphim Sphere[level 4 Blue - Massive Increase In Blue Effects]:
++Activate
+$00D21E5D 00000004
++Amount You Have
+$00D444DF 00000063
++S Rank
+$00D444E0 00000064
++Item Named By
+$00D444E1 000000[Amount:08:HEX:BIG<0-8-Characters>]
+!!
+!!
+^6 = MODS:
+[RSM]
+VALUE>NAME
+0000	Stop Time
+0001	Normal Time Gain
+003c	Mins 	 Seconds
+0078	Quick Time Gain
+00F0	Quicker Time Gain
+10E0	Super Quick Time Gain
+[/RSM]
+[INV]
+VALUE>NAME>TYPE
+0000	Defeated Lover's Charm	Accessories
+0001	Paradox Eye	Accessories
+0002	Funny Clothing	Accessories
+0003	Resonance Shield Box	Accessories
+0004	Grathnode Ring	Accessories
+0005	Parameno Ring	Accessories
+0006	?Crystal?	Accessories
+0007	?Flashy Ring?	Accessories
+0008	?Hat?	Accessories
+0009	?String?	Accessories
+000A	?Octahedral Crystal?	Accessories
+000B	?Booster?	Accessories
+000C	?White Ring?	Accessories
+000D	?Green Ring?	Accessories
+000E	?Cage?	Accessories
+000F	?Lamp?	Accessories
+0010	Topology Ribbon	Accessories
+0011	Sky's Musical Box	Accessories
+0012	Ocarina of Heaven	Accessories
+0013	Ring of Aria	Accessories
+0014	White Armor	Armor
+0015	Enhanced Fiber Armor	Armor
+0016	Overalls	Armor
+0017	Samurai Armor	Armor
+0018	Knight Suit	Armor
+0019	Powered Armor	Armor
+001A	Platina Dress	Armor
+001B	Light Neriya	Armor
+001C	GDH2.0.1	Armor
+001D	Harmonion	Armor
+001E	Optical Camo Robe	Armor
+001F	?Armor A?	Armor
+0020	?Armor B?[4 Slots]	Armor
+0021	?Jacket?[4 Slots]	Armor
+0022	?Samurai Armor?	Armor
+0023	White Tights	Armor
+0024	?Camel Colored?	Armor
+0025	Funbun T-Shirt	Armor
+0026	?T-Shirt?	Armor
+0027	?Dress?	Armor
+0028	?Formal?	Armor
+0029	?Samurai?	Armor
+002A	Reyvaring	Armor
+002B	Star Tiara[4 Slots]	Armor
+002C	Glamisole[4 Slots]	Armor
+002D	?Tiara?[4 Slots]	Armor
+002E	?Crown?	Armor
+002F	Decorated Hakama	Armor
+0030	Warm Sweater	Armor
+0031	Hymn Brooch	Event Items
+0032	Handkerchief	Event Items
+0033	Yuteria Fragment	Event Items
+0034	Yuteria String	Event Items
+0035	Yulastrino	Event Items
+0036	Circula	Event Items
+0037	Power Generator	Event Items
+0038	HC Purger	Event Items
+0039	HC Linker	Event Items
+003A	HC Harmonius	Event Items
+003B	HC Re Nation	Event Items
+003C	FFT Divider	Event Items
+003D	White Stone	Crafting Materials
+003E	Blue Stone	Crafting Materials
+003F	Red Stone	Crafting Materials
+0040	Black Stone	Crafting Materials
+0041	Seed of Phebes	Crafting Materials
+0042	Bunched Grass	Crafting Materials
+0043	Thundershroom	Crafting Materials
+0044	Burnt Root	Crafting Materials
+0045	Ultimate Cactus	Crafting Materials
+0046	Beak Breath	Crafting Materials
+0047	Dragon Wing	Crafting Materials
+0048	Dragon Fillet	Crafting Materials
+0049	Dragon Heart	Crafting Materials
+004A	Nyo? Guts	Crafting Materials
+004B	Ultimate Fang	Crafting Materials
+004C	Juicy Meat	Crafting Materials
+004D	Shiny Fur	Crafting Materials
+004E	Metal Frame	Crafting Materials
+004F	Small Gear(Cog)	Crafting Materials
+0050	Large Gear(Cog)	Crafting Materials
+0051	Songstone	Crafting Materials
+0052	Dark Solution	Crafting Materials
+0053	Airmetal	Crafting Materials
+0054	Soliel Stone	Crafting Materials
+0055	Skuwat Metal	Crafting Materials
+0056	Vacuum Pipe	Crafting Materials
+0057	Ion Board	Crafting Materials
+0058	Rainbow Fragment	Crafting Materials
+0059	Yuteria	Crafting Materials
+005A	ASL Circuit	Crafting Materials
+005B	D2 Cell	Crafting Materials
+005C	Photon Oscilliscope	Crafting Materials
+005D	Akashic Record	Crafting Materials
+005E	Firefly Paper	Crafting Materials
+005F	?Photon Glass?	Crafting Materials
+0060	?Screw?	Crafting Materials
+0061	?Compass?	Crafting Materials
+0062	Kant's Firebox	Crafting Materials
+0063	Polishing Powder	Crafting Materials
+0064	Harmonizer	Crafting Materials
+0065	Flanmelt Magnet	Crafting Materials
+0066	Fertilizer	Crafting Materials
+0067	?Cotton?	Crafting Materials
+0068	Acordonite	Crafting Materials
+0069	?Cloth?	Crafting Materials
+006A	?Stuffed Animal?	Crafting Materials
+006B	?Flipper?	Crafting Materials
+006C	?Ramcluster?	Crafting Materials
+006D	?Sharing Core?	Crafting Materials
+006E	?Ocarina?	Crafting Materials
+006F	?Water Tank?	Crafting Materials
+0070	?Barrel?	Crafting Materials
+0071	?Synapse?	Crafting Materials
+0072	?Cell?	Crafting Materials
+0073	?Origin of Creation?	Crafting Materials
+0074	?Rectifier?	Crafting Materials
+0075	?Reactor?	Crafting Materials
+0076	?Grathnode Disk?	Crafting Materials
+0077	Medicine	Usable Items
+0078	Ionization Liquid	Usable Items
+0079	?Big Bomb?	Usable Items
+007A	Peeka	Usable Items
+007B	?Drum?	Usable Items
+007C	Strong Medicine	Usable Items
+007D	Heal Cracker	Usable Items
+007E	?Ultimate Medicine?	Usable Items
+007F	Tranquilizer	Usable Items
+0080	Bolt Angel	Usable Items
+0081	Missile	Usable Items
+0082	Baku Pinwheel	Usable Items
+0083	Boltapolta	Usable Items
+0084	?Legacy of Civilizations	Usable Items
+0085	Tranquility	Usable Items
+0086	Misserchi	Usable Items
+0087	Harmeregno	Usable Items
+0088	?Red Medicine A?	Usable Items
+0089	?Blue Medicine B?	Usable Items
+008A	?Yellow Medicine B?	Usable Items
+008B	?Red Medicine B?	Usable Items
+008C	Dreamchaser Water	Usable Items
+008D	Power Sourcer	Usable Items
+008E	?Canned Good?	Usable Items
+008F	?Battle Flute?	Usable Items
+0090	?MP Restoration?	Usable Items
+0091	?Resonance Amplifier?	Usable Items
+0092	?Coffin?	Usable Items
+0093	?Resting Device?	Usable Items
+0094	?Tower?	Usable Items
+0095	Replica Horn	Usable Items
+0096	Droopy Soda	Usable Items
+0097	Funbun	Usable Items
+0098	Kitty Candy	Usable Items
+0099	Megamilk	Usable Items
+009A	Opal Rice	Usable Items
+009B	Dokkoi Set	Usable Items
+009C	BBQ	Usable Items
+009D	Charbroiled BBQ	Usable Items
+009E	Hell's BBQ	Usable Items
+009F	Flavored Ice	Usable Items
+00A0	Shaved Ice	Usable Items
+00A1	Dried Fish	Usable Items
+00A2	Freeze Dry	Usable Items
+00A3	?Dokkoi Parfait?	Usable Items
+00A4	?Natural Ice?	Usable Items
+00A5	?Supernatural Ice?	Usable Items
+00A6	?BBQ Soda?	Usable Items
+00A7	?Solid Bunny?	Usable Items
+00A8	?Bunny Rice?	Usable Items
+00A9	?Mecha Bunny?	Usable Items
+00AA	?Capri Soda?	Usable Items
+00AB	?Food Juice?	Usable Items
+00AC	Ar Tonelicard 1	Usable Items
+00AD	Ar Tonelicard 2	Usable Items
+00AE	Ar Tonelicard 3	Usable Items
+00AF	Ar Tonelicard 4	Usable Items
+00B0	Ar Tonelicard 5	Usable Items
+00B1	Ar Tonelicard 6	Usable Items
+00B2	Ar Tonelicard Final	Usable Items
+00B3	Ar Tonelicard SP A	Usable Items
+00B4	Ar Tonelicard SP B	Usable Items
+00B5	Ar Tonelicard SP C	Usable Items
+00B6	Ar Tonelicard SP D	Usable Items
+00B7	Ar Tonelicard SP E	Usable Items
+00B8	Ar Tonelicard SP F	Usable Items
+00B9	Ar Tonelicard SP G	Usable Items
+00BA	Ar Tonelicard SP H	Usable Items
+00BB	Ar Tonelicard SP I	Usable Items
+00BC	Ar Tonelicard SP J	Usable Items
+00BD	Ar Tonelicard SP K	Usable Items
+00BE	Ar Tonelicard SP L	Usable Items
+00BF	Bastard Sword	Weapons
+00C0	Glaspear	Weapons
+00C1	Handgun	Weapons
+00C2	Chainsaw	Weapons
+00C3	Flame&Sound	Weapons
+00C4	Sonic Buster	Weapons
+00C5	Halberd	Weapons
+00C6	Platico	Weapons
+00C7	Ionic Saw	Weapons
+00C8	Gale&Emery	Weapons
+00C9	Yuteriod	Weapons
+00CA	Blastray G 3	Weapons
+00CB	Orgorio	Weapons
+00CC	Raychiel	Weapons
+00CD	Gods&Demons	Weapons
+00CE	Cieroceramics	Weapons
+00CF	?Spear 1?	Weapons
+00D0	?Gun 1?	Weapons
+00D1	?Chain 1?	Weapons
+00D2	?Katana 1?	Weapons
+00D3	?Sword 2?	Weapons
+00D4	?Spear 2?	Weapons
+00D5	?Gun 2?	Weapons
+00D6	?Chain 2?	Weapons
+00D7	?Katana 2?	Weapons
+00D8	?Sword 3?	Weapons
+00D9	?Spear 3?	Weapons
+00DA	?Gun 3?	Weapons
+00DB	?Chain 3?	Weapons
+00DC	?Sword 4?	Weapons
+00DD	?Spear 4?	Weapons
+00DE	?Gun 4?	Weapons
+00DF	?Chain 4?	Weapons
+00E0	?Super Weapon?	Weapons
+00E1	?Extreme Super Weapon?	Weapons
+00E2	Song 10% Bonus	RED - GN Crystals
+00E3	Song 20% Bonus	RED - GN Crystals
+00E4	Song 30% Bonus	RED - GN Crystals
+00E5	Song 50% Bonus	RED - GN Crystals
+00E6	Song Big Bonus[Level 1 - +75% Dmg]	RED - GN Crystals
+00E7	Forbidden Melody[Level 2 - +100% Dmg]	RED - GN Crystals
+00E8	Lullaby Tune	RED - GN Crystals
+00E9	Smelly Knockout	RED - GN Crystals
+00EA	Sleeping Gas	RED - GN Crystals
+00EB	Puff o' Poison	RED - GN Crystals
+00EC	Poison Shower	RED - GN Crystals
+00ED	Poison Outbreak	RED - GN Crystals
+00EE	Tingling	RED - GN Crystals
+00EF	Numbing Agent	RED - GN Crystals
+00F0	High Frequency Voice	RED - GN Crystals
+00F1	Grudge	RED - GN Crystals
+00F2	Haunted by Evil	RED - GN Crystals
+00F3	Curse on the World	RED - GN Crystals
+00F4	Kick up Dust	RED - GN Crystals
+00F5	Flash Beam	RED - GN Crystals
+00F6	Sunshine on the World	RED - GN Crystals
+00F7	Stranded	RED - GN Crystals
+00F8	Slow 'em Down	RED - GN Crystals
+00F9	Stop Moving	RED - GN Crystals
+00FA	Shocking Voice	RED - GN Crystals
+00FB	Ultimate Speaker	RED - GN Crystals
+00FC	Kiddy Size Fire	RED - GN Crystals
+00FD	Regular Fire	RED - GN Crystals
+00FE	Large Fire	RED - GN Crystals
+00FF	Super Size Fire	RED - GN Crystals
+0100	Super Scorcho[Level 2 - +100% Fire Dmg]	RED - GN Crystals
+0101	Kiddy Size Ice	RED - GN Crystals
+0102	Regular Ice	RED - GN Crystals
+0103	Large Ice	RED - GN Crystals
+0104	Super Size Ice	RED - GN Crystals
+0105	Brain Breeze[Level 1 - +100% Ice Dmg]	RED - GN Crystals
+0106	Kiddy Size Lightning	RED - GN Crystals
+0107	Regular Lightning	RED - GN Crystals
+0108	Large Lightning	RED - GN Crystals
+0109	Super Size Lightning	RED - GN Crystals
+010A	Anger Thunderstorm[Level 2 - +100% Lightning Dmg]	RED - GN Crystals
+010B	Kiddy Size Wind	RED - GN Crystals
+010C	Regular Wind	RED - GN Crystals
+010D	Large Wind	RED - GN Crystals
+010E	Super Size Wind	RED - GN Crystals
+010F	Tornado Spit[Level 1 - +100% Wind Dmg]	RED - GN Crystals
+0110	Dmg to MP - Minor	RED - GN Crystals
+0111	Dmg to MP - Weak	RED - GN Crystals
+0112	Dmg to MP - Mid	RED - GN Crystals
+0113	Dmg to MP - Strong	RED - GN Crystals
+0114	Drain Rhythym	RED - GN Crystals
+0115	Dmg to HP - Minor	RED - GN Crystals
+0116	Dmg to HP - Weak	RED - GN Crystals
+0117	Dmg to HP - Mid	RED - GN Crystals
+0118	Dmg to HP - Strong	RED - GN Crystals
+0119	Damage Conversion	RED - GN Crystals
+011A	Magical Copyx1	RED - GN Crystals
+011B	Magical Copyx2	RED - GN Crystals
+011C	Magical Copyx3	RED - GN Crystals
+011D	Magical Copyx4[Level 1 - Magic Hitx4]	RED - GN Crystals
+011E	Melodius Echo[Level 2 - Magic Hitx5]	RED - GN Crystals
+011F	Gooey Blend	RED - GN Crystals
+0120	Adhesive Blend	RED - GN Crystals
+0121	Super Glue Blend	RED - GN Crystals
+0122	Dull Weapon	RED - GN Crystals
+0123	Rust Weapon	RED - GN Crystals
+0124	Jelly Weapon	RED - GN Crystals
+0125	Melt Weapon	RED - GN Crystals
+0126	Foam Weapon[Level 1 - Atk Dwn]	RED - GN Crystals
+0127	Dull Armor	RED - GN Crystals
+0128	Rust Armor	RED - GN Crystals
+0129	Jelly Armor	RED - GN Crystals
+012A	Melt Armor	RED - GN Crystals
+012B	Tofu Armor[Level 1 - Def Dwn]	RED - GN Crystals
+012C	Excellent Criticals	RED - GN Crystals
+012D	Menacing Criticals	RED - GN Crystals
+012E	Satisfying Criticals	RED - GN Crystals
+012F	Mastered Criticals	RED - GN Crystals
+0130	V Impact[Level 2 - 100% Crit]	RED - GN Crystals
+0131	Dislike Fire	RED - GN Crystals
+0132	Fear Fire	RED - GN Crystals
+0133	Enemy of Fire[Level 2 - Fire Resist Dwn]	RED - GN Crystals
+0134	Dislike Wind	RED - GN Crystals
+0135	Fear Wind	RED - GN Crystals
+0136	Enemy of Wind[Level 1 - Wind Resist Dwn]	RED - GN Crystals
+0137	Dislike Ice	RED - GN Crystals
+0138	Fear Ice	RED - GN Crystals
+0139	Enemy of Ice[Level 2 - Ice Resist Dwn]	RED - GN Crystals
+013A	Dislike Lightning	RED - GN Crystals
+013B	Fear Lightning	RED - GN Crystals
+013C	Enemy of Lightning[Level 1 - Lightning Resist Dwn]	RED - GN Crystals
+013D	All Resists Down	RED - GN Crystals
+013E	All Resists Failed	RED - GN Crystals
+013F	X Irresistable	RED - GN Crystals
+0140	Less MP for Red	RED - GN Crystals
+0141	Little MP for Red	RED - GN Crystals
+0142	Low MP for Red	RED - GN Crystals
+0143	Bare MP for Red	RED - GN Crystals
+0144	Cosmo Ruby[Level 1 - MP Usage Dwn]	RED - GN Crystals
+0145	Shooting Speed +	GREEN - GN Crystals
+0146	Shooting Speed ++	GREEN - GN Crystals
+0147	Shooting Speed +++	GREEN - GN Crystals
+0148	Shooting Speed Inf	GREEN - GN Crystals
+0149	Shooting Powerx2	GREEN - GN Crystals
+014A	Shooting Powerx3	GREEN - GN Crystals
+014B	Shooting Powerx4	GREEN - GN Crystals
+014C	Shooting Powerx5	GREEN - GN Crystals
+014D	Pointy	BLUE - GN Crystals
+014E	Sharp	BLUE - GN Crystals
+014F	Pointier	BLUE - GN Crystals
+0150	Sharper	BLUE - GN Crystals
+0151	Pointiest[Level 2 - +50% DMG]	BLUE - GN Crystals
+0152	Sharpest[Level 1 - +75% DMG]	BLUE - GN Crystals
+0153	A So-so Shield	BLUE - GN Crystals
+0154	An Okay Shield	BLUE - GN Crystals
+0155	A Good Shield	BLUE - GN Crystals
+0156	An Amazing Shield	BLUE - GN Crystals
+0157	Defensive Shield Inf[Level 1 - Physical DMG Down]	BLUE - GN Crystals
+0158	A So-so Barrier	BLUE - GN Crystals
+0159	An Okay Barrier	BLUE - GN Crystals
+015A	A Good Barrier	BLUE - GN Crystals
+015B	An Amazing Barrier	BLUE - GN Crystals
+015C	Barrier Inf[Level 1 - Magical DMG Down]	BLUE - GN Crystals
+015D	Muscly Toughness	BLUE - GN Crystals
+015E	Macho Toughness	BLUE - GN Crystals
+015F	Toughguy Toughness	BLUE - GN Crystals
+0160	Big Bro Toughness	BLUE - GN Crystals
+0161	Pure Toughness[Level 2 - HP +50%]	BLUE - GN Crystals
+0162	Blazing Toughness[Level 1 - HP +75%]	BLUE - GN Crystals
+0163	Echoing Force[Level 1 Harmonics+]	BLUE - GN Crystals
+0164	Resonating Force[Level 3 Harmonics+]	BLUE - GN Crystals
+0165	Harmonizing Sound[Level 4 Harmonics+]	BLUE - GN Crystals
+0166	Glass Amp	BLUE - GN Crystals
+0167	Jade Amp	BLUE - GN Crystals
+0168	Amber Amp	BLUE - GN Crystals
+0169	Crystal Amp	BLUE - GN Crystals
+016A	Cosmic Echo[Level 1 - +75% Blue Effect]	BLUE - GN Crystals
+016B	Eternal Echo[Level 2 - +100% Blue Effect]	BLUE - GN Crystals
+016C	Poison Immunity	BLUE - GN Crystals
+016D	Sleep Immunity	BLUE - GN Crystals
+016E	Paralysis Immunity	BLUE - GN Crystals
+016F	Curse Immunity	BLUE - GN Crystals
+0170	Blind Immunity	BLUE - GN Crystals
+0171	Power Up	BLUE - GN Crystals
+0172	Stronger Power	BLUE - GN Crystals
+0173	Real Power	BLUE - GN Crystals
+0174	Amazing Power	BLUE - GN Crystals
+0175	Attack Power Inf[Level 1 - ATK+]	BLUE - GN Crystals
+0176	Defense Up	BLUE - GN Crystals
+0177	Stronger Defense	BLUE - GN Crystals
+0178	Real Defense	BLUE - GN Crystals
+0179	Amazing Defense	BLUE - GN Crystals
+017A	Defense Inf[Level 1 - DEF+]	BLUE - GN Crystals
+017B	Agility Up	BLUE - GN Crystals
+017C	Stronger Agility	BLUE - GN Crystals
+017D	Real Agility	BLUE - GN Crystals
+017E	Amazing Agility	BLUE - GN Crystals
+017F	Agility Inf[Level 1 - AGI+]	BLUE - GN Crystals
+0180	Less MP for Blue	BLUE - GN Crystals
+0181	Little MP for Blue	BLUE - GN Crystals
+0182	Low MP for Blue	BLUE - GN Crystals
+0183	Bare MP for Blue	BLUE - GN Crystals
+0184	Cosmo Saphire[Level 1 - MP Usage Dwn]	BLUE - GN Crystals
+0185	Withstand Fire	BLUE - GN Crystals
+0186	Stronger to Fire	BLUE - GN Crystals
+0187	Overcome Fire	BLUE - GN Crystals
+0188	Withstand Ice	BLUE - GN Crystals
+0189	Stronger to Ice	BLUE - GN Crystals
+018A	Overcome Ice	BLUE - GN Crystals
+018B	Withstand Lightning	BLUE - GN Crystals
+018C	Stronger to Lightning	BLUE - GN Crystals
+018D	Overcome Lightning	BLUE - GN Crystals
+018E	Withstand Wind	BLUE - GN Crystals
+018F	Stronger to Wind	BLUE - GN Crystals
+0190	Overcome Wind	BLUE - GN Crystals
+0191	All Resists Up	BLUE - GN Crystals
+0192	All Resists Boost	BLUE - GN Crystals
+0193	Full Resist	BLUE - GN Crystals
+0194	Upgrade	PURPLE- GN Crystals
+0195	High Grade	PURPLE- GN Crystals
+0196	Uber Grade	PURPLE- GN Crystals
+0197	Master Grade	PURPLE- GN Crystals
+0198	Special Grade[Level 1 - +100% to equip stats]	PURPLE- GN Crystals
+0199	Damage Up	PURPLE- GN Crystals
+019A	Physical Guard	PURPLE- GN Crystals
+019B	Magical Guard	PURPLE- GN Crystals
+019C	Quick Move	PURPLE- GN Crystals
+019D	Fast Move	PURPLE- GN Crystals
+019E	Rapid Move	PURPLE- GN Crystals
+019F	Haste[Level 2 - Wait Time -20%]	PURPLE- GN Crystals
+01A0	Beserking Power	PURPLE- GN Crystals
+01A1	Forbidden Power	PURPLE- GN Crystals
+01A2	Aweful Power	PURPLE- GN Crystals
+01A3	God of Destruction[Level 2 - ATK +100%, DEF -100%	PURPLE- GN Crystals
+01A4	Rock of Healing	PURPLE- GN Crystals
+01A5	Curing Amber	PURPLE- GN Crystals
+01A6	Healing Jade	PURPLE- GN Crystals
+01A7	Regen Crystal	PURPLE- GN Crystals
+01A8	Revive Core[Level 2 - HP Regen]	PURPLE- GN Crystals
+01A9	Poison Weapon	PURPLE- GN Crystals
+01AA	Venom Weapon	PURPLE- GN Crystals
+01AB	Sleepy Weapon	PURPLE- GN Crystals
+01AC	Coma Weapon	PURPLE- GN Crystals
+01AD	Tingling Weapon	PURPLE- GN Crystals
+01AE	Numbing Weapon	PURPLE- GN Crystals
+01AF	Cursing Weapon	PURPLE- GN Crystals
+01B0	Haunting Weapon	PURPLE- GN Crystals
+01B1	Blinding Weapon	PURPLE- GN Crystals
+01B2	Darkness Weapon	PURPLE- GN Crystals
+01B3	Resonance Device	PURPLE- GN Crystals
+01B4	Super Resonator	PURPLE- GN Crystals
+01B5	Resonant 100[Level 2 - Ambience +100%]	PURPLE- GN Crystals
+01B6	Double Attack	PURPLE- GN Crystals
+01B7	Triple Attack	PURPLE- GN Crystals
+01B8	Quadruple Attack	PURPLE- GN Crystals
+01B9	Chaotic Strike[Level 2 - +4 Attacks]	PURPLE- GN Crystals
+01BA	Running Fire	PURPLE- GN Crystals
+01BB	Fiery Follower	PURPLE- GN Crystals
+01BC	Fire Chaser	PURPLE- GN Crystals
+01BD	Fiery Pursuit	PURPLE- GN Crystals
+01BE	Burning Strike[Level 1 - +75% Fire DMG]	PURPLE- GN Crystals
+01BF	Running Ice	PURPLE- GN Crystals
+01C0	Icy Follower	PURPLE- GN Crystals
+01C1	Ice Chaser	PURPLE- GN Crystals
+01C2	Icy Pursuit	PURPLE- GN Crystals
+01C3	Frozen Blade[Level 1 - +75% Ice DMG]	PURPLE- GN Crystals
+01C4	Running Lightning	PURPLE- GN Crystals
+01C5	Lightning Follower	PURPLE- GN Crystals
+01C6	Lightning Chaser	PURPLE- GN Crystals
+01C7	Lightning Pursuit	PURPLE- GN Crystals
+01C8	Electric Shatter[Level 2 - +75% Electric DMG]	PURPLE- GN Crystals
+01C9	Running Wind	PURPLE- GN Crystals
+01CA	Windy Follower	PURPLE- GN Crystals
+01CB	Wind Chaser	PURPLE- GN Crystals
+01CC	Windy Pursuit	PURPLE- GN Crystals
+01CD	Wind Scythe[Level 2 - +75% Wind DMG]	PURPLE- GN Crystals
+01CE	Hint of HP	PURPLE- GN Crystals
+01CF	Spoonfull of HP	PURPLE- GN Crystals
+01D0	Cup of HP	PURPLE- GN Crystals
+01D1	Lots of HP	PURPLE- GN Crystals
+01D2	Reinforcement Chip	PURPLE- GN Crystals
+01D3	Stamina Plus	PURPLE- GN Crystals
+01D4	Life Booster[Level 1 - +1250HP]	PURPLE- GN Crystals
+01D5	Hint of MP	PURPLE- GN Crystals
+01D6	Spoonful of MP	PURPLE- GN Crystals
+01D7	Cup of MP	PURPLE- GN Crystals
+01D8	Lots of MP	PURPLE- GN Crystals
+01D9	Mega Memory	PURPLE- GN Crystals
+01DA	Giga Memory	PURPLE- GN Crystals
+01DB	Tera Memory[Level 1 - +1250MP]	PURPLE- GN Crystals
+01DC	Kinda Strong	PURPLE- GN Crystals
+01DD	Rather Strong	PURPLE- GN Crystals
+01DE	Very Strong	PURPLE- GN Crystals
+01DF	Real Strong	PURPLE- GN Crystals
+01E0	Master Technique[Level 1 - ATK+]	PURPLE- GN Crystals
+01E1	Kinda Critical	PURPLE- GN Crystals
+01E2	Rather Critical	PURPLE- GN Crystals
+01E3	Very Critical	PURPLE- GN Crystals
+01E4	Real Critical	PURPLE- GN Crystals
+01E5	Absolutely Critical[Level 2 - Critical+]	PURPLE- GN Crystals
+01E6	Kinda Defensive	PURPLE- GN Crystals
+01E7	Rather Defensive	PURPLE- GN Crystals
+01E8	Very Defensive	PURPLE- GN Crystals
+01E9	Real Defensive	PURPLE- GN Crystals
+01EA	Diamond Protection[Level 1 - DEF+]	PURPLE- GN Crystals
+01EB	Kinda Fast	PURPLE- GN Crystals
+01EC	Rather Fast	PURPLE- GN Crystals
+01ED	Very Fast	PURPLE- GN Crystals
+01EE	Real Fast	PURPLE- GN Crystals
+01EF	Mach Speed[Level 2 - AGI+]	PURPLE- GN Crystals
+01F0	Minor Damage +	PURPLE- GN Crystals
+01F1	Lesser Damage +	PURPLE- GN Crystals
+01F2	Greater Damage +	PURPLE- GN Crystals
+01F3	Major Damage +	PURPLE- GN Crystals
+01F4	Grand Destroyer[Level 2 - DMG+]	PURPLE- GN Crystals
+01F5	Overclock	PURPLE- GN Crystals
+01F6	Strong Feelings	PURPLE- GN Crystals
+01F7	Relaxation	PURPLE- GN Crystals
+01F8	Brave Note	PURPLE- GN Crystals
+01F9	Glass Heart	PURPLE- GN Crystals
+01FA	Emotion 0	PURPLE- GN Crystals
+01FB	Salamander Seal[Level 1 - Fire ATK, Fire Resist, ATK+200]	PURPLE- GN Crystals
+01FC	Leviathan Seal[Level 1 - Ice ATK, Ice Resist, DEF+200]	PURPLE- GN Crystals
+01FD	Indra Seal[Level 1 - Lightning ATK, Lightning Resist]	PURPLE- GN Crystals
+01FE	Griffin Seal[Level 1 - Wind ATK, Wind Resist, AGI+200]	PURPLE- GN Crystals
+01FF	Potential Up[Level 2 - Brings out character's hidden potential?]	PURPLE- GN Crystals
+0200	Warrior's Spirit	PURPLE- GN Crystals
+0201	Knight's Spirit	PURPLE- GN Crystals
+0202	Bushido Spirit	PURPLE- GN Crystals
+0203	Hero's Spirit	PURPLE- GN Crystals
+0204	King's Spirit	PURPLE- GN Crystals
+0205	Conquerer's Spirit[Level 1 - All Around Stat+]	PURPLE- GN Crystals
+0206	MP Convert	PURPLE- GN Crystals
+0207	MP Converter	PURPLE- GN Crystals
+0208	MP Conversion	PURPLE- GN Crystals
+0209	MP Convertist	PURPLE- GN Crystals
+020A	Tainted Power[Level 1 - HP to MP]	PURPLE- GN Crystals
+020B	Extreme Speed[Level 1 - +5 Attacks, +100AGI]	PURPLE- GN Crystals
+020C	Battle Aura	PURPLE- GN Crystals
+020D	Brave Aura	PURPLE- GN Crystals
+020E	Master Aura[Level 1 - HP Regen, +200ATK]	PURPLE- GN Crystals
+020F	Anger Max	PURPLE- GN Crystals
+0210	Goith Shield[Level 1 - Physical DMG Dwn]	PURPLE- GN Crystals
+0211	Goith Barrier[Level 1 - Magical DMG Dwn]	PURPLE- GN Crystals
+0212	Insane Soul	PURPLE- GN Crystals
+0213	Origin Alpha	PURPLE- GN Crystals
+0214	Origin Beta	PURPLE- GN Crystals
+0215	Origin Gamma	PURPLE- GN Crystals
+0216	Origin Omega	PURPLE- GN Crystals
+0217	Yuteria Weapon	PURPLE- GN Crystals
+0218	Yuteria Guard	PURPLE- GN Crystals
+0219	Strengthened Power	PURPLE- GN Crystals
+021A	Protective Power	PURPLE- GN Crystals
+021B	Blessed Power	PURPLE- GN Crystals
+021C	Almighty Power	PURPLE- GN Crystals
+021D	Don Leon's Power	PURPLE- GN Crystals
+021E	Genuine 100[Level 1 - No Effect, but S Ranked]	PURPLE- GN Crystals
+021F	Shadow Stij	PURPLE- GN Crystals
+0220	Galaxy Flare	PURPLE- GN Crystals
+0221	Cosmo Diamond[Level 4 RED - Strengthens spiritual power]	PURPLE- GN Crystals
+0222	Aegis Protector	PURPLE- GN Crystals
+0223	Recovery Chip	PURPLE- GN Crystals
+0224	Reflect Shell	PURPLE- GN Crystals
+0225	Shine Blaster	PURPLE- GN Crystals
+0226	Plasma Soul	PURPLE- GN Crystals
+0227	Elemia Talisman	PURPLE- GN Crystals
+0228	Draconian Seal	PURPLE- GN Crystals
+0229	Brilliant Life Crest	PURPLE- GN Crystals
+022A	Virus Code	PURPLE- GN Crystals
+022B	Mir Fragment	PURPLE- GN Crystals
+022C	Eastern Winds	PURPLE- GN Crystals
+022D	Spirit Crystal	PURPLE- GN Crystals
+022E	Dispel Field	PURPLE- GN Crystals
+022F	Rocket Boost	PURPLE- GN Crystals
+0230	Energy Drain[Level 4 RED - 100% of dmg done returns to party]	PURPLE- GN Crystals
+0231	War God's Secret	PURPLE- GN Crystals
+0232	Mystis' Tear	PURPLE- GN Crystals
+0233	Mastery	PURPLE- GN Crystals
+0234	Unseen Hand	PURPLE- GN Crystals
+0235	Seraphim Sphere[Level 4 BLUE - Massive increase in Blue Effects]	PURPLE- GN Crystals
+0236	 Cards	PURPLE- GN Crystals
+0237	Didnt check how far they go up to, but theres quite a few to be sure	MORE CARDS
+[/INV]

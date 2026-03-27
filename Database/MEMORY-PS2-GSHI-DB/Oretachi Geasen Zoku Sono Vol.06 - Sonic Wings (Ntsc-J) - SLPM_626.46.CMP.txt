@@ -1,0 +1,33 @@
+^3 = NAME: Oretachi Geasen Zoku Sono Vol.06 - Sonic Wings (Ntsc-J)
+^2 = GameID: SLPM-62646
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9011DFD0 0C04779C
+!!
++Max Bombs Player 1
+%Credits: punk7890
+$2038E0B0 00000006
++Max Lives Player 1
+%Credits: punk7890
+$2038E0AC 00000009
++Max Power Player 1
+%Credits: punk7890
+$2038E0B8 00000003
++Max Score Player 1
+%Credits: punk7890
+$2038E0A8 7FFFFFFF
++Player 1 Modifier {<I>While At The Player Selection Screen, Press One Of The Following:<Br>L1 + Circle Keith,<Br>R1 + Circle Mao<Br>L2 + Circle Tee-Bee<Br>R2 + Circle Lord White</I>}
+%Credits: punk7890
+$D02BC2D2 0000DBFF
+$201DABF8 24060001
+$D02BC2D2 0000D7FF
+$201DABF8 24060003
+$D02BC2D2 0000DEFF
+$201DABF8 24060005
+$D02BC2D2 0000DDFF
+$201DABF8 24060007
+$D02BC2D2 0000FFFF
+$201DABF8 00063040
+!!
+

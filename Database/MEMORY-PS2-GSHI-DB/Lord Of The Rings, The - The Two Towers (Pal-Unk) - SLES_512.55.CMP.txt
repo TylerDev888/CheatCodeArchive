@@ -1,0 +1,61 @@
+^3 = NAME: Lord Of The Rings, The - The Two Towers (Pal-Unk)
+^2 = GameID: SLES-51255
++1Hitkill {<I>Use With Godmode Code - Player Do Not Use In Levels Where Frodo, Children Or Other Needs To Be Protected Activate With Select+Start Deactivate With Select+Triangle</I>}
+%Credits: luc-ita
+$D044C434 00000900
+$202800F4 AE000300
+$D044C434 00000110
+$202800F4 AE020300
++Always Perfect Killmeter
+%Credits: luc-ita
+$201D0748 00000000
++Buy Upgrades Even Without Points
+%Credits: luc-ita
+$2023E1A8 00000000
++Frodo/Children/Door Have Infinite Life
+%Credits: luc-ita
+$202247C8 8C820304
+$202247CC AC820300
++Godmode - Player
+%Credits: luc-ita
+$202800DC 8F8185BC
+$202800E0 14240003
++Infinite Life - Player {<I>This Code Gives Infinite Life But Puts Armor To Zero</I>}
+%Credits: luc-ita
+$20224A5C 8F9B85BC
+$20224A60 8F610304
+$20224A64 AF610300
+$20224A68 03E00008
+$20224A6C 27BD0040
++Lots Of EXP Per Kill
+%Credits: luc-ita
+$201D1464 08028000
+$201D1468 3C014844
+$200A0000 44816000
+$200A0004 460C0000
+$200A0008 0807451B
++Skip Demo Video - Main Menu
+%Credits: luc-ita
+$201617A8 00000000
++Skip Logos
+%Credits: luc-ita
+$20169840 00000000
++Skip Logos And Initial Video - New Game
+%Credits: luc-ita
+$2036C2F4 00000000
++Skip Post-Level Videos
+%Credits: luc-ita
+$20165CFC 10000032
++Skip Pre-Level Videos
+%Credits: luc-ita
+$201662C4 10000024
++Throwing Arrows Or Axes Even When You Don't Have Any
+%Credits: luc-ita
+$20125A60 00000000
+$201565FC 00000000
+$2011E404 00000000
++Uncap 30 FPS
+%Credits: luc-ita
+$20381744 00000000
+!!
+

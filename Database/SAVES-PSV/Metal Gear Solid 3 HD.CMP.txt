@@ -1,0 +1,29 @@
+^2 = GameID: PCSB00176,PCSE00079
+^3 = NAME: Metal Gear Solid 3 HD
+^5 = APCRED: by bucanero
+!Decrypt Mgs3:
+\\;BLES01419_MGS3/BLES01419_MGS3*/
+^4 = FILE: *MASTER.BIN
++Decode Master.bin (required)
+$set range:0x0000,0x001F
+$DECRYPT mgs_base64
+^4 = FILE: *DATA.BIN
++Decrypt Data.bin (required)
+$set range:0x000000,0x00497B
+$DECRYPT mgs("3MetalSolidSnakeEaterGear")
+!\:
+\\; MGS3 cheats should go here
+!!
+!Encrypt Mgs3:
++Encrypt Data.bin (required)
+$set range:0x000000,0x00497B
+$set [master_hash]:CRC32
+$ENCRYPT mgs("3MetalSolidSnakeEaterGear")
+^4 = FILE: *MASTER.BIN
++Encode Master.bin (required)
+$write at 0x0008:[master_hash]
+$write at 0x0010:[master_hash]
+$set range:0x0000,0x001F
+$ENCRYPT mgs_base64
+!!
+!!

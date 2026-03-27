@@ -1,0 +1,47 @@
+^3 = NAME: Oni (Pal-Unk)
+^2 = GameID: SLES-50176
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0247AF4 002B111B
++(M) Must Be On
+%Credits: Codejunkies
+$F0247AD4 002B110B
++(M) Must Be On
+%Credits: Codejunkies
+$F02B1118 002B111B
++(M) Must Be On
+%Credits: Codejunkies
+$F02B1108 002B110B
+!!
+!Health Codes:
++Infinite Black Adder Ammo
+%Credits: Codejunkies
+$1052530E 0000001A
++Infinite Equaliser Ammo
+%Credits: Codejunkies
+$1052519E 0000000A
++Infinite Health
+%Credits: Codejunkies
+$106E6CA0 000000C8
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E0010032 306E6CA0
+$106E6CA0 00000032
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0010064 306E6CA0
+$106E6CA0 00000064
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E0010096 306E6CA0
+$106E6CA0 00000096
+!!
++Infinite Health/Strength
+%Credits: Codejunkies
+$106E6C20 000003E8
++Infinite Main Weapon Ammo
+%Credits: Codejunkies
+$1052511E 0000000A
+!!
+

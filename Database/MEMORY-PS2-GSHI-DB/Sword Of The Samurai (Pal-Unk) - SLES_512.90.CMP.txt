@@ -1,0 +1,152 @@
+^3 = NAME: Sword Of The Samurai (Pal-Unk)
+^2 = GameID: SLES-51290
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0228484 00228487
++Alt. Mastercode
+%Credits: RyTheHexer
+$F01000A4 000001FD
+!!
++Enemies Retreat (OFF) [L1+D-Down]:
+%Credits: RyTheHexer
+$E002FBBF 00245B82
+$201968C8 27BDFFF0
+$201968CC FFB00000
++Enemies Retreat (ON) [L1+D-Up]:
+%Credits: RyTheHexer
+$E002FBEF 00245B82
+$201968C8 03E00008
+$201968CC 00000000
++Have Swords
+%Credits: Codejunkies
+$2027278C FFFFFFFF
+$20272790 FFFFFFFF
+$20272794 FFFFFFFF
+$20272798 FFFFFFFF
++Infinite Health
+%Credits: Codejunkies
+$20383714 3F800000
++Infinite Time
+%Credits: Codejunkies
+$202845D0 00000BC0
++Instant Kill Enemy [L1+L2+R1+R2]:
+%Credits: RyTheHexer
+$D0245B82 0000F0FF
+$20391854 00000000
++Know All Techniques
+%Credits: Codejunkies
+$202727A4 FFFFFFFF
+$202727A8 FFFFFFFF
+$202727AC FFFFFFFF
+$202727DC FFFFFFFF
+$202727E0 FFFFFFFF
+$202727E4 FFFFFFFF
+$202727E8 FFFFFFFF
+$202727EC FFFFFFFF
+$20272850 FFFFFFFF
+$20272854 FFFFFFFF
+$20272858 FFFFFFFF
+$202728AC FFFFFFFF
+$202728B0 FFFFFFFF
+$202728B4 FFFFFFFF
+$202728B8 FFFFFFFF
++Learn All Techniques {<I>May Need To Save First.</I>}
+%Credits: RyTheHexer
+$402727A4 00030001
+$FFFFFFFF 00000000
+$402727DC 00050001
+$FFFFFFFF 00000000
+$40272850 00030001
+$FFFFFFFF 00000000
+$402728AC 00040001
+$FFFFFFFF 00000000
++Low Time-Attack Timer
+%Credits: RyTheHexer
+$00160B52 00000000
++Max Agility
+%Credits: Codejunkies
+$1027276C 0000FFFF
+$10272732 0000FFFF
++Max Attack Power
+%Credits: Codejunkies
+$10272768 0000FFFF
+$1027272E 0000FFFF
++Max Attack Speed
+%Credits: Codejunkies
+$1027276A 0000FFFF
+$10272730 0000FFFF
++Max Fame
+%Credits: Codejunkies
+$20272778 000F423F
++Max Insight
+%Credits: Codejunkies
+$1027276E 0000FFFF
+$10272734 0000FFFF
++Max Recovery
+%Credits: Codejunkies
+$10272774 0000FFFF
+$1027273A 0000FFFF
++Max Spirit
+%Credits: Codejunkies
+$10272770 0000FFFF
+$10272736 0000FFFF
++Max Strong
+%Credits: Codejunkies
+$10272772 0000FFFF
+$10272738 0000FFFF
++No Bad Fame
+%Credits: Codejunkies
+$2027277C 00000000
++One Hit Kills
+%Credits: Codejunkies
+$20391854 3B85DA80
++Own All Swords: {<I>May Need To Save First.</I>}
+%Credits: RyTheHexer
+$4027278C 00040001
+$FFFFFFFF 00000000
++PAL To NTSC
+%Credits: RyTheHexer
+$20213D78 24120002
+$00214018 00000010
+$10214044 000002A8
+$00214078 00000010
+$002140C0 00000010
+$00214140 00000010
++Perfect Player Stats:
+%Credits: RyTheHexer
+$2027272E 0000FFFF
+$40272730 00030001
+$FFFFFFFF 00000000
+$40272768 00030001
+$FFFFFFFF 00000000
+$10272774 0000FFFF
+$20272778 000F423F
+$2027277C 00000000
++Reset Stage Timer (L1+Select):
+%Credits: RyTheHexer
+$D0245B82 0000FBFE
+$102845D0 00000BB8
++Unlock All Extras: {<I>May Need To Save First.</I>}
+%Credits: RyTheHexer
+$2024613C 00000001
+$40272680 00040001
+$FFFFFFFF 00000000
+$202736D4 01010101
++Unlock Extra Time Attack Stage
+%Credits: Codejunkies
+$202736D4 01010101
++Unlock Geisha And Finish Training
+%Credits: Codejunkies
+$2024613C 00000001
++Unlock Most Faces And Costumes
+%Credits: Codejunkies
+$20272680 FFFFFFFF
+$20272684 FFFFFFFF
+$20272688 FFFFFFFF
+$2027268C FFFFFFFF
++Use Oar As Weapon (This Code Does Not Work On All Levels)
+%Credits: Codejunkies
+$0036E416 00000023
+!!
+

@@ -1,0 +1,30 @@
+^1 = HASH: AF854FA0
+^3 = NAME: Space Channel 5-Special Edition-Part 1
+^2 = GameID: SLUS_208.07
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001C7E77
+!!
+!Codes:
++Infinite Hearts
+%Credits: Code Master
+$201180A4 00000000
+$2011D994 00000000
++Max Rating After 1 Dance
+%Credits: Code Master
+$101001CA 00001000
+$101001EA 00001000
+$10100202 00001000
++Unlock All Character Profiles
+%Credits: Code Master
+$2151F150 FFFFFFFF
+$2151F154 FFFFFFFF
+$1151F158 0000FFFF
++All Character Profiles Not New Anymore
+%Credits: Code Master
+$1151F15A 0000FFFF
+$2151F15C FFFFFFFF
+$2151F160 FFFFFFFF
+$0151F164 000000FF
+!!

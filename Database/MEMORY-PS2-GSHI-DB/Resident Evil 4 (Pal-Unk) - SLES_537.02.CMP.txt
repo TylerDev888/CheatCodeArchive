@@ -1,0 +1,108 @@
+^3 = NAME: Resident Evil 4 (Pal-Unk)
+^2 = GameID: SLES-53702
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F023E80C 0023E80F
+!!
+!Ada Costume Modifier:
++Assignment Ada Outfit {<I>I Could Not Find Her Red Dress Outfit.</I>}
+%Credits: Skiller
+$E1010002 0042DD0A
+$0042DD0B 00000001
++Mercenaries Outfit
+%Credits: Skiller
+$E1010002 0042DD0A
+$0042DD0B 00000000
+!!
++Always 1St Save
+%Credits: Codejunkies
+$0042DCDA 00000000
+!Ashley Costume Modifier:
++Original Outfit
+%Credits: Skiller
+$E1010001 0042DD0A
+$0042DD0B 00000000
++Popstar Outfit
+%Credits: Skiller
+$E1010001 0042DD0A
+$0042DD0B 00000001
++Suit Of Armor
+%Credits: Skiller
+$E1010001 0042DD0A
+$0042DD0B 00000002
+!!
++Ashley Doesn't Mind Leon Looking Up Her Skirt
+%Credits: 47iscool
+$2015FACC 24060007
+$2015FAD8 00000000
+!Character Modifiers:
++Ada Wong
+%Credits: Skiller
+$0042DD0A 00000002
++Ashley
+%Credits: Skiller
+$0042DD0A 00000001
++Hunk
+%Credits: Skiller
+$0042DD0A 00000003
++Krauser
+%Credits: Skiller
+$0042DD0A 00000004
++Leon {<I>For These &#39;Costume&#39; Codes, Only Use Weapons They Use In Mercenaries. Also, Skip ALL Cutscenes And Avoid Entering Any Merchant Shops, As This Crashes The Game.</I>}
+%Credits: Skiller
+$0042DD0A 00000000
++Wesker
+%Credits: Skiller
+$0042DD0A 00000005
+!!
++Fire Weapon To Have 999 Ammo In Clip
+%Credits: 47iscool
+$201201E4 20031F45
++Infinite Ammo/No Reload
+%Credits: Codejunkies
+$2012020C 24420000
++Infinite Health-Leon
+%Credits: Codejunkies
+$1042DCF6 00000960
+!Leon Costume Modifier:
++Jacket Outfit
+%Credits: Skiller
+$E1010000 0042DD0A
+$0042DD0B 00000000
++Mafia Outfit
+%Credits: Skiller
+$E1010000 0042DD0A
+$0042DD0B 00000004
++No Jacket Outfit
+%Credits: Skiller
+$E1010000 0042DD0A
+$0042DD0B 00000001
++R.P.D. Outfit
+%Credits: Skiller
+$E1010000 0042DD0A
+$0042DD0B 00000003
++Tactical Vest Outfit
+%Credits: Skiller
+$E1010000 0042DD0A
+$0042DD0B 00000002
+!!
++Max Health-Leon
+%Credits: Codejunkies
+$1042DCF8 00000960
++Max Points
+%Credits: Codejunkies
+$2042DCEC 0098967F
+!Partner Outfit Modifier:
++Original
+%Credits: Skiller
+$0042DD0D 00000000
++Special 1
+%Credits: Skiller
+$0042DD0D 00000001
++Special 2
+%Credits: Skiller
+$0042DD0D 00000002
+!!
+!!
+

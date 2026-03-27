@@ -1,0 +1,21 @@
+^2 = GameID: BLES01737
+^3 = NAME: GRID 2
+^4 = FILE: PROGRESS.DAT
++Decompress Save (required)
+$Decompress(*, -15)
++Compress Save (required)
+$Compress(*)
+^4 = FILE: PROGRESS.DAT
++Update Sha256 For Progress.dat (required)
+(set range:0x000000,0x002F9B)
+$set pointer:lastbyte-0x1F
+$set range:0x000000,pointer
+$set [hash]:SHA256
+$write next (0):[hash]
+^4 = FILE: SECUINFO.BIN
++Update Crc32 For Secuinfo.bin (required)
+(set range:0x000004,0x000027)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

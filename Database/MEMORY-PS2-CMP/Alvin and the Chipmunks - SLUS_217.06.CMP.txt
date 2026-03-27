@@ -1,0 +1,31 @@
+^1 = Hash: 2D F4 68 46 02 CF 08 BD EF 21 10 C0 40 33 3D 00 33 75 2C 1B
+^2 = GameID: SLUS_217.06
+^3 = NAME: Alvin and the Chipmunks
+!Masters:
++Enable Code (MUST BE ON)
+$9024B780 0C092D88
+!!
++Everything Adds To Perfect{Anything U Do Addes To Perfect}
+%Credits: SkillerCMP
+$201098FC 8C821220
+$20109904 AC821220
+$2011E690 8C821220
+$2011E698 AC821220
+$2011E5B4 8C821220
+$2011E5BC AC821220
++Missing Maxs Meater
+%Credits: SkillerCMP
+$20109914 8C621234
+$2011E78C 8CE21234
+!Points Codes:
++Multiplyer (samething Combo Does){Use This To Set How Much X Bonus U Have}
+%Credits: SkillerCMP
+$2011E63C 3404[Amount:2710:HEX:BIG]
+$2011E560 3404[Amount:2710:HEX:BIG]
+$2011E484 3404[Amount:2710:HEX:BIG]
++Score Gain{This Is For Each Star This Is Befor It Gets X By The Bonus.}
+%Credits: SkillerCMP
+$2011E640 3403[Amount:2710:HEX:BIG]
+$2011E564 3403[Amount:2710:HEX:BIG]
+$2011E488 3403[Amount:2710:HEX:BIG]
+!!

@@ -1,0 +1,56 @@
+^3 = NAME: Rugby 2005 (Pal-Unk)
+^2 = GameID: SLES-53094
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0415AAC 00415AAF
+!!
++Infinite Special Abilities
+%Credits: Codejunkies
+$2057FC40 00000000
+!Speed Codes:
++Hyper Mode (Press R3+Right)
+%Credits: Codejunkies
+$D06A6382 0000FFDB
+$20479474 40400000
++Normal Speed (Press R3+Up)
+%Credits: Codejunkies
+$D06A6382 0000FFEB
+$20479474 3F800000
++Quicker Game (Press R3+Left)
+%Credits: Codejunkies
+$D06A6382 0000FF7B
+$20479474 3FC00000
++Slow Motion (Press R3+Down)
+%Credits: Codejunkies
+$D06A6382 0000FFBB
+$20479474 3EC00000
+!!
+!Start A Game With...:
++Team 1 Starts With 15 Conversions
+%Credits: Codejunkies
+$E1010000 005D45E1
+$005D45E1 0000000F
++Team 1 Starts With 15 Penalties
+%Credits: Codejunkies
+$E1010000 005D45E3
+$005D45E3 0000000F
++Team 1 Starts With 15 Tries
+%Credits: Codejunkies
+$E1010000 005D45E0
+$005D45E0 0000000F
++Team 2 Starts With 15 Conversions
+%Credits: Codejunkies
+$E1010000 005D45E8
+$005D45E8 0000000F
++Team 2 Starts With 15 Penalties
+%Credits: Codejunkies
+$E1010000 005D45EA
+$005D45EA 0000000F
++Team 2 Starts With 15 Tries
+%Credits: Codejunkies
+$E1010000 005D45E7
+$005D45E7 0000000F
+!!
+!!
+

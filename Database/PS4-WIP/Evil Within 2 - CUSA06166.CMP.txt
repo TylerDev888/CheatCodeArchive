@@ -1,0 +1,14 @@
+^2 = GameID: CUSA06166
+^3 = NAME: Evil Within 2
+^5 = APCRED: source: MealReadytoEat@hackinformer
+^4 = FILE: *
+(Untested - Make sure to backup your save data first)
++Swap Handgun Ammo Pouch For Infinite Ammo
+$8001000E 2F706F75
+$63682F68 616E6467
+$756E0000 00000000
+$A8000000 0000000E
+$2F696E66 696E6974
+$655F616D 6D6F0000
+(the pouch is a pickup on chapter 3)
+(to toggle inf ammo hold L1 and press Triangle)

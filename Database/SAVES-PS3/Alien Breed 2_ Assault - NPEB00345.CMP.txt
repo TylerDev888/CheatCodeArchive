@@ -1,0 +1,51 @@
+^2 = GameID: NPEB00345
+^3 = NAME: Alien Breed 2: Assault (PSN)
+^5 = APCRED: From zeick & chaoszage
+^4 = FILE: GAME.DAT
++9999999 Money
+$search "env_Split"
+$write next (32):00000098967F
++Max Assault Rifle Ammo
+$search "ABWeap_AssaultRifle_"
+$search next 0xFFFFFFFF
+$write next (10):270F0000270F
++Max Shotcannon Ammo
+$search "ABWeap_ShotCannon_"
+$search next 0xFFFFFFFF
+$write next (10):070F0000070F
++Max Flamethrower Ammo
+$search "ABWeap_FlameThrower_"
+$search next 0xFFFFFFFF
+$write next (10):270F0000270F
++Max Hyperblaster Ammo
+$search "ABWeap_HyperBlaster_"
+$search next 0xFFFFFFFF
+$write next (10):270F0000270F
++99 Largehealthkits
+$search "ABItem_LargeHealthKit"
+$search next 0xFFFFFFFF
+$write next (11):63
++99 Smallhealthkits
+$search "ABItem_SmallHealthKit_"
+$search next 0xFFFFFFFF
+$write next (11):63
++99 Fraggrenades
+$search "ABItem_FragGrenade_"
+$search next 0xFFFFFFFF
+$write next (11):63
++99 Stungrenades
+$search "ABItem_Flare_"
+$search next 0xFFFFFFFF
+$write next (11):63
++99 Sentryguns
+$search "ABItem_SentryGun1_"
+$search next 0xFFFFFFFF
+$write next (11):63
++99 Hardenedarmour
+$search "ABItem_Armour_"
+$search next 0xFFFFFFFF
+$write next (11):63
++Default:update Crc32 (required)
+$set range:0xB0,0x2000A7
+$set [crc]:crc32big
+$write at 0xA8:[crc]

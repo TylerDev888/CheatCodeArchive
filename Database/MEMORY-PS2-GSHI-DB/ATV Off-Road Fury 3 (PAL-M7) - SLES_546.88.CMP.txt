@@ -1,0 +1,39 @@
+^3 = NAME: Atv Off-Road Fury 3 (PAL-M7)
+^2 = GameID: SLES-54688
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F04C9F0C 004C9F0F
+!!
++Disable A.I.
+%Credits: Codejunkies
+$006F3970 00000001
++Disable A.I. Catchup
+%Credits: Codejunkies
+$006F3974 00000001
++Everything Available
+%Credits: Codejunkies
+$2022F7E0 24020001
+$2022F7E4 AC820004
+$2022F7EC 24020000
++Max Credits (Go To Shop To Activate)
+%Credits: Codejunkies
+$20199B38 3C03005F
+$20199B48 AC430034
+$20199B50 24130000
+!Opponent Modifier (Amount):
++1
+%Credits: Codejunkies
+$006F3978 00000001
++2
+%Credits: Codejunkies
+$006F3978 00000002
++3
+%Credits: Codejunkies
+$006F3978 00000003
++4
+%Credits: Codejunkies
+$006F3978 00000004
+!!
+!!
+

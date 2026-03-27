@@ -1,0 +1,10 @@
+^2 = GameID: NPUB31132
+^3 = NAME: Star Wars Pinball
+(from shaka)
+^4 = FILE: PROFILE.DAT
++Update Crc32 (required)
+$set range:0x8,0x6D51
+$set [hash]:crc32
+$write at 0x4:[hash]
++1 Mil Score
+$write at 0x00006D45:0x3B9ACADA

@@ -1,0 +1,63 @@
+^3 = NAME: Ico (PAL-M5)
+^2 = GameID: SCES-50760
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0102554 0026820F
++(M) Must Be On
+%Credits: Codejunkies
+$F0181944 0026820F
++(M) Must Be On
+%Credits: Codejunkies
+$F026820C 0026820F
+!!
++Disable Baddies AI
+%Credits: InterAct
+$20166F6C 00000000
++Fullscreen Events
+%Credits: InterAct
+$D063B60C 00000037
+$1063B60C 00000036
++Good Guard
+%Credits: InterAct
+$201597B8 00000000
++Never Get Killed From Falls (Press Select To Turn On, R2+L2 To Turn Off)
+%Credits: Codejunkies
+$D028F8F0 00000100
+$101F035E 00002800
+$D028F8F0 00000003
+$101F035E 00000C07
++Save Anywhere {<I>Press R1+L1+R2+L2 After Having Seat Once.</I>}
+%Credits: InterAct
+$D028F8F0 0000000F
+$1063B60C 0000001C
++Scripted Baddies Don't Appear
+%Credits: InterAct
+$2019C18C 00000000
+$2019B028 00000000
++Walk Through Air (Press Select+L2 To Turn On, Select+R2 To Turn Off)
+%Credits: Codejunkies
+$D028F8F0 00000101
+$201EE224 10000014
+$D028F8F0 00000102
+$201EE224 10400014
+!Zoom Codes:
++Display Rope Debug Coordinates
+%Credits: Codejunkies
+$201517C8 00000000
+$20151810 00000000
++One Hit Kill
+%Credits: Codejunkies
+$2015995C 00000000
++Unlock Film Effect And 2 Player Mode
+%Credits: Codejunkies
+$2063AA00 00000001
++Zoom In
+%Credits: Codejunkies
+$20639F88 40400000
++Zoom Out
+%Credits: Codejunkies
+$20639F88 3F000000
+!!
+!!
+

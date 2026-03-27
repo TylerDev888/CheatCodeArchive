@@ -1,0 +1,16 @@
+^2 = GameID: BLES01792
+^3 = NAME: Star Trek
+^4 = FILE: SETTINGS
++Update Md5 (required)
+(set range:0x000010,0x04218B)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]
+^4 = FILE: CONTINUE.SAV
++Update Md5 (required)
+(set range:0x000010,0x04218B)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]

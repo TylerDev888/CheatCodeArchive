@@ -1,0 +1,1864 @@
+^2 = GameID: CUSA23494,CUSA23495,CUSA23493
+^3 = NAME: Dragon Marked For Death
+^SECONDLAYER: YES
+^4 = FILE: sce_sdmemory\memory.dat
++Edit Item In Item Slot
+%Credits:クキ-kuki-nuro#0292
+$[SaveSlot]
+$92000000 00001CC8
+$92000000 0000[ItemSlot]	
+$28000000 [Item]	
+$28000004 [Amount:000003E7:HEX:BIG]	
++Add Item To New Slot Read Note{Only Works If U Have Used Sw Max All Current Items First}
+%Credits:クキ-kuki-nuro#0292
+$[SaveSlot]
+$92000000 00001CC8
+$8801000C E7030000
+$00000000 00000000
+$28000004 [Item]	
+$28000008 [Amount:000003E7:HEX:BIG]	
++Character EXP
+%Credits:クキ-kuki-nuro#0292
+$[SaveSlot]	
+$[Character]	
+$28000008 [Amount:000F423F:HEX:BIG]		
+^6 = MODS:
+[SaveSlot]
+Offset>Save Slot
+95000000 00000E1C	Slot 1
+95000000 00006AE4	Slot 2
+95000000 0000C7AC	Slot 3
+[/SaveSlot]	
+[Character]
+Offset>Character
+92000000 00000BBC	Empress
+92000000 00000C18	Warrior
+92000000 00000C74	Shinobi
+92000000 00000CD0	Witch
+92000000 00000D2C	Oracle
+92000000 00000D88	Bandit
+[/SaveSlot]	
+[Item]
+ID>Name>Character>Type
+96A7AEE9	Herb		Consumables
+96A7FC92	Quality Herb		Consumables
+96A84A3B	Premium Herb		Consumables
+96A897E4	Perfect Herb		Consumables
+96A8E58D	Holy Water		Consumables
+96A93336	Quality Holy Water		Consumables
+96A980DF	Premium Holy Water		Consumables
+96A9CE88	Perfect Holy Water		Consumables
+9752C73D	Potion		Consumables
+975314E6	Potion +1		Consumables
+9753628F	Potion +2		Consumables
+9753B038	Elixir		Consumables
+9753FDE1	Elixir +1		Consumables
+97544B8A	Elixir +2		Consumables
+96AA1C31	Healing Powder		Consumables
+96AA69DA	Curing Powder		Consumables
+96ACD722	First-Aid Powder		Consumables
+96AD24CB	Miracle Powder		Consumables
+9754E6DC	Ultimate Powder		Consumables
+97D45020	Red Powder		Consumables
+97D49DC9	Yellow Poweder		Consumables
+97D4EB72	Blue Poweder		Consumables
+97D5391B	Purple Powder		Consumables
+97D586C4	White Powder		Consumables
+97D5D46D	Green Powder		Consumables
+96AD7274	Raspberry Bread		Consumables
+977F5F48	Raspberry Bread +		Consumables
+96ADC01D	Monster Steak		Consumables
+977FACF1	Monster Steak +		Consumables
+96AE0DC6	Plum Rice Ball		Consumables
+977FFA9A	Plum Rice ball +		Consumables
+96AE5B6F	Apple Pie		Consumables
+97804843	Apple Pie +		Consumables
+97AA255D	Beef Sandwich		Consumables
+97AA7306	Beef Sandwich +		Consumables
+97AAC0AF	Sweet Pastry		Consumables
+97AB0E58	Sweet Pastry +		Consumables
+96D274FE	Red Candy		Consumables
+97553485	Red Candy +		Consumables
+96D2C2A7	Yellow Candy		Consumables
+9755822E	Yellow Candy +		Consumables
+96D31050	Blue Candy		Consumables
+9757EF76	Blue Candy +		Consumables
+96D35DF9	Purple Candy		Consumables
+97583D1F	Purple Candy +		Consumables
+96D3ABA2	White Candy		Consumables
+97588AC8	White Candy +		Consumables
+96D3F94B	Green Candy		Consumables
+9758D871	Green Candy +		Consumables
+96D446F4	Rainbow Candy		Consumables
+9759261A	Rainbow Candy +		Consumables
+97549933	Prism Candy		Consumables
+97AD7BA0	Red Fruit		Consumables
+97ADC949	Yellow Fruit		Consumables
+97AE16F2	Blue Fruit		Consumables
+97AE649B	Purple Fruit		Consumables
+97AEB244	White Fruit		Consumables
+97AEFFED	Green Fruit		Consumables
+97A85367	Shard of Power		Consumables
+972A6E70	Relic of power		Consumables
+97A8A110	Shard of Speed		Consumables
+972ABC19	Relic of Speed		Consumables
+97A8EEB9	Shard of Wisdom		Consumables
+972D2961	Relic of Wisdom		Consumables
+97A93C62	Shard of Life		Consumables
+972D770A	Relic of Life		Consumables
+97A98A0B	Shard of Luck		Consumables
+972DC4B3	Relic of Luck		Consumables
+97A9D7B4	Shard of Faith		Consumables
+972E125C	Relic of Faith		Consumables
+96D4949D	Burn Salve		Consumables
+96D4E246	Burn Salve +		Consumables
+96D52FEF	Frostbite Remedy		Consumables
+96D79D37	Frostbite Remedy +		Consumables
+96D7EAE0	Smelling Salts		Consumables
+96D83889	Smelling Salts +		Consumables
+96D88632	Antiparalytic Elixir		Consumables
+96D8D3DB	Antiparalytic Elixir +		Consumables
+96D92184	Antidote		Consumables
+96FD3B13	Antidote +		Consumables
+96FD88BC	Panacea		Consumables
+96FDD665	Panacea +1		Consumables
+977F119F	Panacea +2		Consumables
+96FE240E	Chief's Meat		Consumables
+96FE71B7	Ashes of Life		Consumables
+96FEBF60	Burn-stopper Bone		Consumables
+975973C3	Burn-stopper Bone +		Consumables
+96FF0D09	Frost-stopper Bone		Consumables
+977D8D52	Frost-stopper Bone +		Consumables
+96FF5AB2	Confusion-stopper Bone		Consumables
+977DDAFB	Confusion-stopper Bone +		Consumables
+96FFA85B	Paralysis-stopper Bone		Consumables
+977E28A4	Paralysis-stopper Bone +		Consumables
+96FFF604	Posion-stopper Bone		Consumables
+977E764D	Posion-stopper Bone +		Consumables
+9702634C	Bizarre Bone		Consumables
+977EC3F6	Bizarre Bone +		Consumables
+9702B0F5	Candle		Consumables
+9702FE9E	Torch		Consumables
+97034C47	Lamp (S)		Consumables
+970399F0	Lamp (L)		Consumables
+9703E799	Essence of Wrath		Consumables
+97280128	Silver Pollen		Consumables
+97284ED1	Soft Grass		Consumables
+97289C7A	Deodorizing Leaves		Consumables
+9728EA23	Hemostasis Salve		Consumables
+972937CC	Jellyfish Cream		Consumables
+97298575	Beast Fang		Consumables
+9729D31E	Animal Eye		Consumables
+972A20C7	Animal Pelt		Consumables
+972E6005	Dragonite		Consumables
+972EADAE	Matron's Letter		Consumables
+A3661D9C	Tough Beak		Materials
+A3666B45	Honey		Materials
+A366B8EE	Fiendish Carapace		Materials
+A3670697	Sticky Thread		Materials
+A3675440	Golden Scales		Materials
+A367A1E9	Blue Scales		Materials
+A367EF92	Bombud Fruit		Materials
+A3683D3B	Bombud Poison		Materials
+A3688AE4	Fly Juice		Materials
+A368D88D	Slime Juice		Materials
+A36B45D5	Ice		Materials
+A36B937E	Oil		Materials
+A36BE127	Paralyzing Venom		Materials
+A36C2ED0	Crab Shell		Materials
+A36C7C79	Crab Claw		Materials
+A36CCA22	Do-dune Skin		Materials
+A390E3B1	Suspicious Fruit		Materials
+A391315A	Smoldering Tail		Materials
+A3917F03	Smoldering Wing		Materials
+A391CCAC	Frozen Tail		Materials
+A3921A55	Frozen Wing		Materials
+A39267FE	Twitching Tail		Materials
+A392B5A7	Twitching Wing		Materials
+A3930350	Paralyzed Tail		Materials
+A39350F9	Paralyzed Wing		Materials
+A3939EA2	Toxic Tail		Materials
+A3960BEA	Toxic Wing		Materials
+A3965993	Ogre Nails		Materials
+A396A73C	Shockfish Scales		Materials
+A396F4E5	Shockfish Sac		Materials
+A397428E	Goblin Bow		Materials
+A3979037	Bio-Bulb Husk		Materials
+A3BBA9C6	Goblin Torch		Materials
+A3BBF76F	Fire Rat Ear		Materials
+A3BC4518	Water Rat Foot		Materials
+A3BC92C1	Electric Rat Tail		Materials
+A3BCE06A	Toad Oil		Materials
+A3BD2E13	Beetle Wing		Materials
+A3BD7BBC	Rusted Chain		Materials
+A3BDC965	Spider Cocoon		Materials
+A3BE170E	Watcher Whiskers		Materials
+A3BE64B7	Watcher Guts		Materials
+A3C0D1FF	Litus Copper Piece		Materials
+A3C11FA8	Litus Silver Piece		Materials
+A3C16D51	Litus Gold Piece		Materials
+A3C1BAFA	Litus Platinum Piece		Materials
+A3C208A3	Diamond		Materials
+A3C2564C	fork of good fortune		Materials
+A3E66FDB	Dragon Scale		Materials
+A3E6BD84	Dragon Horn		Materials
+A3E70B2D	Horse Meat		Materials
+A3E758D6	Enormous Hoof		Materials
+A3E7A67F	Ogre Eyeball		Materials
+A3E7F428	Ogre Fang		Materials
+A3E841D1	Old Marlayus Coin (S)		Materials
+A3E88F7A	Old Marlayus Coin (M)		Materials
+A3E8DD23	Old Marlayus Coin (L)		Materials
+A3E92ACC	Old Marlayus Coin (XL)		Materials
+A3EB9814	Red Enhance Cube		Materials
+A3EBE5BD	Blue Enhance Cube		Materials
+A3EC3366	Green Enhance Cube		Materials
+A3EC810F	Silver Enhance Cube		Materials
+A3ECCEB8	Gold Enhance Cube		Materials
+A3ED1C61	Red Enhance Gem		Materials
+A41135F0	Blue Enhance Gem		Materials
+A4118399	Old Pangnas Coin (S)		Materials
+A411D142	Old Pangnas Coin (M)		Materials
+A4121EEB	Old Pangnas Coin (L)		Materials
+A4126C94	Old Pangnas Coin (XL)		Materials
+A412BA3D	Mythril Ore		Materials
+A41307E6	Adamantie Ore		Materials
+A413558F	Orichalcum Ore		Materials
+A413A338	Tamahagane		Materials
+A413F0E1	Ether		Materials
+A4165E29	Papyrus		Materials
+A416ABD2	Mulberry Fiber		Materials
+A416F97B	Crystal		Materials
+A4174724	Platinum Celestial Statue		Materials
+A41794CD	Celestial Statue - Head		Materials
+A417E276	Celestial Statue - Body		Materials
+A43BFC05	Celestial Statue - Arms		Materials
+A43C49AE	Celestial Statue - Legs		Materials
+A43C9757	Celestial Statue - Tail		Materials
+636869F6	Knife	Bandit	Small Swords
+6368B79F	Knife +1	Bandit	Small Swords
+63690548	Knife +2	Bandit	Small Swords
+636952F1	Knife +3	Bandit	Small Swords
+6369A09A	Pata	Bandit	Small Swords
+6369EE43	Pata +1	Bandit	Small Swords
+636A3BEC	Pata +2	Bandit	Small Swords
+636A8995	Pata +3	Bandit	Small Swords
+636AD73E	Scimitar	Bandit	Small Swords
+636B24E7	Scimitar +1	Bandit	Small Swords
+636D922F	Scimitar +2	Bandit	Small Swords
+636DDFD8	Scimitar +3	Bandit	Small Swords
+636E2D81	Sabre	Bandit	Small Swords
+636E7B2A	Sabre +1	Bandit	Small Swords
+636EC8D3	Sabre +2	Bandit	Small Swords
+636F167C	Sabre +3	Bandit	Small Swords
+6393300B	Dagger	Bandit And Empress	Small Swords
+63937DB4	Dagger +1	Bandit And Empress	Small Swords
+6393CB5D	Dagger +2	Bandit And Empress	Small Swords
+63941906	Iberian Dagger	Bandit And Empress	Small Swords
+639466AF	Stiletto	Bandit And Empress	Small Swords
+6394B458	Stiletto +1	Bandit And Empress	Small Swords
+63950201	Stiletto +2	Bandit And Empress	Small Swords
+63954FAA	Stiletto +3	Bandit And Empress	Small Swords
+63959D53	Gladius	Bandit And Empress	Small Swords
+6395EAFC	Gladius +1	Bandit And Empress	Small Swords
+63985844	Gladius +2	Bandit And Empress	Small Swords
+6396864E	Mainz Gladius	Bandit And Empress	Small Swords
+6398F396	Foil	Bandit And Empress	Small Swords
+6399413F	Foil +1	Bandit And Empress	Small Swords
+63998EE8	Foil +2	Bandit And Empress	Small Swords
+6399DC91	Rapid Foil	Bandit And Empress	Small Swords
+63BDF620	Pirate Cutlass	Bandit And Empress	Small Swords
+63BE43C9	Pirate Cutlass +1	Bandit And Empress	Small Swords
+63BE9172	Pirate Cutlass +2	Bandit And Empress	Small Swords
+63BEDF1B	Machete	Bandit And Empress	Small Swords
+63BF2CC4	Rapier	Bandit And Empress	Small Swords
+63BF7A6D	Rapier +1	Bandit And Empress	Small Swords
+63BFC816	Rapier +2	Bandit And Empress	Small Swords
+63C015BF	Espada Ropera	Bandit And Empress	Small Swords
+63C06368	Dragon Slayer	Bandit And Empress	Small Swords
+63C0B111	Dragon Slayer +1	Bandit And Empress	Small Swords
+63C31E59	Dragon Slayer +2	Bandit And Empress	Small Swords
+63C36C02	Dragon Slayer +3	Bandit And Empress	Small Swords
+63E95787	Shamshir	Bandit And Empress	Small Swords
+63E9A530	Shamshir +1	Bandit And Empress	Small Swords
+63E9F2D9	Shamshir +2	Bandit And Empress	Small Swords
+63EA4082	Zomorrodnegar	Bandit And Empress	Small Swords
+63EA8E2B	Crossack Knife	Bandit And Empress	Small Swords
+63EADBD4	Crossack Knife +1	Bandit And Empress	Small Swords
+63EB297D	Crossack Knife +2	Bandit And Empress	Small Swords
+63EB7726	Shashka	Bandit And Empress	Small Swords
+63EDE46E	Greatsabre	Bandit And Empress	Small Swords
+63EE3217	Greatsabre +1	Bandit And Empress	Small Swords
+63EE7FC0	Greatsabre +2	Bandit And Empress	Small Swords
+63EECD69	Lucky Sabre	Bandit And Empress	Small Swords
+63EF1B12	Talwar	Bandit And Empress	Small Swords
+63EF68BB	Talwar +1	Bandit And Empress	Small Swords
+6413824A	Talwar +2	Bandit And Empress	Small Swords
+6413CFF3	Demonic Talwar	Bandit And Empress	Small Swords
+64141D9C	Falshion	Bandit And Empress	Small Swords
+64146B45	Falshion +1	Bandit And Empress	Small Swords
+6414B8EE	Falshion +2	Bandit And Empress	Small Swords
+64150697	Great Falshion	Bandit And Empress	Small Swords
+64155440	Estoc	Bandit And Empress	Small Swords
+6415A1E9	Estoc +1	Bandit And Empress	Small Swords
+6415EF92	Estoc +2	Bandit And Empress	Small Swords
+64163D3B	Panzerstecher	Bandit And Empress	Small Swords
+6418AA83	Guandao	Bandit And Empress	Small Swords
+6418F82C	Guandao +1	Bandit And Empress	Small Swords
+641945D5	Guandao +2	Bandit And Empress	Small Swords
+6419937E	Ipetam	Bandit And Empress	Small Swords
+6419E127	Schiavona	Bandit And Empress	Small Swords
+641A2ED0	Schiavona +1	Bandit And Empress	Small Swords
+643E485F	Schiavona +2	Bandit And Empress	Small Swords
+643E9608	Heavy Schiavona	Bandit And Empress	Small Swords
+643EE3B1	Ridill	Bandit And Empress	Small Swords
+643F315A	Ridill +1	Bandit And Empress	Small Swords
+643F7F03	Ridill +2	Bandit And Empress	Small Swords
+643FCCAC	Ridill +3	Bandit And Empress	Small Swords
+64401A55	Fragarach	Bandit And Empress	Small Swords
+644067FE	Fragarach +1	Bandit And Empress	Small Swords
+6440B5A7	Fragarach +2	Bandit And Empress	Small Swords
+64410350	Fragarach +3	Bandit And Empress	Small Swords
+63C3B9AB	Triangle Sword	Bandit And Empress	Small Swords
+64437098	Triangle Sword +1	Bandit And Empress	Small Swords
+6443BE41	Triangle Sword +2	Bandit And Empress	Small Swords
+64440BEA	Triangle Sword +3	Bandit And Empress	Small Swords
+63C40754	Chandrahas	Bandit And Empress	Small Swords
+64445993	Chandrahas +1	Bandit And Empress	Small Swords
+6444A73C	Chandrahas +2	Bandit And Empress	Small Swords
+6444F4E5	Chandrahas +3	Bandit And Empress	Small Swords
+63C454FD	Zulfiqar	Bandit And Empress	Small Swords
+64690E74	Zulfiqar +1	Bandit And Empress	Small Swords
+64695C1D	Zulfiqar +2	Bandit And Empress	Small Swords
+6469A9C6	Zulfiqar +3	Bandit And Empress	Small Swords
+63C4A2A6	Murgleis	Bandit And Empress	Small Swords
+6469F76F	Murgleis +1	Bandit And Empress	Small Swords
+646A4518	Murgleis +2	Bandit And Empress	Small Swords
+646A92C1	Murgleis +3	Bandit And Empress	Small Swords
+63E8BC35	Lemurian Sword	Bandit And Empress	Small Swords
+646AE06A	Lemurian Sword +1	Bandit And Empress	Small Swords
+646B2E13	Lemurian Sword +2	Bandit And Empress	Small Swords
+646B7BBC	Lemurian Sword +3	Bandit And Empress	Small Swords
+63E909DE	Green Dragon Guandao	Bandit And Empress	Small Swords
+646BC965	Green Dragon Guandao +1	Bandit And Empress	Small Swords
+646E36AD	Green Dragon Guandao +2	Bandit And Empress	Small Swords
+646E8456	Green Dragon Guandao +3	Bandit And Empress	Small Swords
+646ED1FF	Dagger Of Thieves	Bandit Only	Small Swords
+646F1FA8	Empress Dagger	Empress Only	Small Swords
+25EE9443	Shortsword		Long Swords
+25EEE1EC	Shortsword +1		Long Swords
+25EF2F95	Shortsword +2		Long Swords
+25EF7D3E	Shortsword +3		Long Swords
+25EFCAE7	Hunter's Sword		Long Swords
+25F01890	Hunter's Sword +1		Long Swords
+25F06639	Hunter's Sword +2		Long Swords
+25F0B3E2	Hunter's Sword +3		Long Swords
+25F1018B	Wakizashi		Long Swords
+25F14F34	Wakizashi +1		Long Swords
+25F3BC7C	Wakizashi +2		Long Swords
+25F40A25	Wakizashi-Kai		Long Swords
+25F457CE	Longsword		Long Swords
+25F4A577	Longsword +1		Long Swords
+25F4F320	Longsword +2		Long Swords
+25F540C9	Longsword +3		Long Swords
+26195A58	Bastar Sword		Long Swords
+2619A801	Bastar Sword +1		Long Swords
+2619F5AA	Bastar Sword +2		Long Swords
+261A4353	Mighty Sword		Long Swords
+63927526	Spatha		Long Swords
+261ADEA5	Spatha +1		Long Swords
+261B2C4E	Spatha +2		Long Swords
+261B79F7	Lucky Sword		Long Swords
+261BC7A0	Broad Sword		Long Swords
+261C1549	Broad Sword +1		Long Swords
+261E8291	Broad Sword +2		Long Swords
+261ED03A	Apas Blade		Long Swords
+261F1DE3	Katana		Long Swords
+261F6B8C	Katana +1		Long Swords
+261FB935	Katana +2		Long Swords
+262006DE	Kikuichimonji		Long Swords
+2644206D	Knight Sword		Long Swords
+26446E16	Knight Sword +1		Long Swords
+2644BBBF	Knight Sword +2		Long Swords
+26450968	Joyeuse		Long Swords
+26455711	Anelace		Long Swords
+2645A4BA	Anelace +1		Long Swords
+2645F263	Anelace +2		Long Swords
+2646400C	Rune Anelace		Long Swords
+26468DB5	Dragon Slayer		Long Swords
+2646DB5E	Dragon Slayer +1		Long Swords
+264948A6	Dragon Slayer +2		Long Swords
+2649964F	Dragon Slayer +3		Long Swords
+26706ACF	Repaired Nagamaki		Long Swords
+2670B878	Repaired Nagamaki +1		Long Swords
+26710621	Repaired Nagamaki +2		Long Swords
+267153CA	Yamate Norinaga		Long Swords
+2671A173	Flamberge		Long Swords
+26740EBB	Flamberge +1		Long Swords
+26745C64	Flamberge +2		Long Swords
+2674AA0D	Froberge		Long Swords
+2675455F	Executioner's Sword		Long Swords
+26759308	Executioner's Sword +1		Long Swords
+2699AC97	Executioner's Sword +2		Long Swords
+2699FA40	Sword Of Justice		Long Swords
+269A47E9	Katzbalger		Long Swords
+269A9592	Katzbalger +1		Long Swords
+269AE33B	Katzbalger +2		Long Swords
+269B30E4	Emperor Sword		Long Swords
+269ED4D0	Sengo Masashige		Long Swords
+269F2279	Sengo Masashige +1		Long Swords
+269F7022	Sengo Masashige +2		Long Swords
+269FBDCB	Sengo Muramasa		Long Swords
+26A00B74	Arming Sword		Long Swords
+26A0591D	Arming Sword +1		Long Swords
+26C472AC	Arming Sword +2		Long Swords
+26C4C055	Blutgang		Long Swords
+26C50DFE	Backsword		Long Swords
+26C55BA7	Backsword +1		Long Swords
+26C5A950	Backsword +2		Long Swords
+26C5F6F9	Claiomh Solais		Long Swords
+26C644A2	Scramasax		Long Swords
+26C6924B	Scramasax +1		Long Swords
+26C6DFF4	Scramasax +2		Long Swords
+26C72D9D	Caladbolg		Long Swords
+26C99AE5	Hrotti		Long Swords
+26C9E88E	Hrotti +1		Long Swords
+26CA3637	Hrotti +2		Long Swords
+26CA83E0	Hrotti +3		Long Swords
+26CAD189	Lævateinn		Long Swords
+26CB1F32	Lævateinn +1		Long Swords
+26EF38C1	Lævsateinn +2		Long Swords
+26EF866A	Lævateinn +3		Long Swords
+2649E3F8	Blood Sword		Long Swords
+26EFD413	Blood Sword +1		Long Swords
+26F021BC	Blood Sword +2		Long Swords
+26F06F65	Blood Sword +3		Long Swords
+264A31A1	Goujian Sword		Long Swords
+26F0BD0E	Goujian Sword +1		Long Swords
+26F10AB7	Goujian Sword +2		Long Swords
+26F15860	Goujian Sword +3		Long Swords
+264A7F4A	Tizona		Long Swords
+26F1A609	Tizona +1		Long Swords
+26F1F3B2	Tizona +2		Long Swords
+26F460FA	Tizona +3		Long Swords
+264ACCF3	Masamune		Long Swords
+26F4AEA3	Masamune +1		Long Swords
+26F4FC4C	Masamune +2		Long Swords
+26F549F5	Masamune +3		Long Swords
+266EE682	Excalibur		Long Swords
+26F5979E	Excalibur +1		Long Swords
+26F5E547	Excalibur +2		Long Swords
+2719FED6	Excalibur +3		Long Swords
+266F342B	Vorpal Sword		Long Swords
+271A4C7F	Vorpal Sword +1		Long Swords
+271A9A28	Vorpal Sword +2		Long Swords
+271AE7D1	Vorpal Sword +3		Long Swords
+271B357A	Balmung		Long Swords
+271B8323	Sanmyou-No-Ken		Long Swords
+266F81D4	Sumeragi Glaive		Long Swords
+266FCF7D	Medius Knight's Sword		Long Swords
+26701D26	Medius Captain's Sword		Long Swords
+2674F7B6	Medius Heirloom Sword		Long Swords
+269B7E8D	Medius Templa's Sword		Long Swords
+269BCC36	Medius Templa's Blade		Long Swords
+269C19DF	Medius Templar's Glaive		Long Swords
+269C6788	Medius Relic Blade		Long Swords
+134116CE	Light Axe		Axe
+13416477	Light Axe +1		Axe
+1341B220	Light Axe +2		Axe
+1341FFC9	Light Axe +3		Axe
+13424D72	Felling Axe		Axe
+13429B1B	Felling Axe +1		Axe
+1342E8C4	Felling Axe +2		Axe
+1343366D	Felling Axe +3		Axe
+13438416	Battle Axe		Axe
+1343D1BF	Battle Axe +1		Axe
+13463F07	Battle Axe +2		Axe
+13468CB0	Battle Axe +3		Axe
+1346DA59	Bardiche		Axe
+13472802	Bardiche +1		Axe
+134775AB	Bardiche +2		Axe
+1347C354	Bardiche +3		Axe
+136BDCE3	Broad Axe		Axe
+136C2A8C	Broad Axe +1		Axe
+136C7835	Broad Axe +2		Axe
+136CC5DE	Broad Axe +3		Axe
+136D1387	Battle Hammer		Axe
+136D6130	Battle Hammer +1		Axe
+136DAED9	Battle Hammer +2		Axe
+136DFC82	Battle Hammer +3		Axe
+136E4A2B	Halberd		Axe
+136E97D4	Halberd +1		Axe
+1371051C	Halberd +2		Axe
+137152C5	Halberd +3		Axe
+1371A06E	Heavy Axe		Axe
+1371EE17	Heavy Axe +1		Axe
+13723BC0	Heavy Axe +2		Axe
+13728969	Heavy Axe +3		Axe
+1396A2F8	Heavy Hammer		Axe
+1396F0A1	Heavy Hammer +1		Axe
+13973E4A	Heavy Hammer +2		Axe
+13978BF3	Heavy Hammer +3		Axe
+1397D99C	Great Axe		Axe
+13982745	Great Axe +1		Axe
+139874EE	Great Axe +2		Axe
+1398C297	Great Axe +3		Axe
+13991040	Dragon Breaker		Axe
+13995DE9	Dragon Breaker +1		Axe
+139BCB31	Dragon Breaker +2		Axe
+139C18DA	Dragon Breaker +3		Axe
+13C29FB1	War Hammer		Axe
+13C2ED5A	War Hammer +1		Axe
+13C33B03	War Hammer +2		Axe
+13C388AC	Holy Hammer		Axe
+13C3D655	War Axe		Axe
+13C423FE	War Axe +1		Axe
+13C69146	War Axe +2		Axe
+13C6DEEF	Holy Axe		Axe
+13C77A41	Great Mace		Axe
+13C7C7EA	Great Mace +1		Axe
+13C81593	Great Mace +2		Axe
+13EC2F22	Holy Mace		Axe
+13EC7CCB	Great Hammer		Axe
+13ECCA74	Great Hammer +1		Axe
+13ED181D	Great Hammer +2		Axe
+13ED65C6	Gaia Hammer		Axe
+13EEEA13	Zaghnal		Axe
+13F1575B	Zaghnal +1		Axe
+13F1A504	Zaghnal +2		Axe
+13F1F2AD	Heat Zaghnal		Axe
+13F24056	Pollaxe		Axe
+13F28DFF	Pollaxe +1		Axe
+13F2DBA8	Pollaxe +2		Axe
+1416F537	Holy Pollaxe		Axe
+141742E0	Voulge		Axe
+14179089	Voulge +1		Axe
+1417DE32	Voulge +2		Axe
+14182BDB	Couteau De Breche		Axe
+14187984	Gisarme		Axe
+1418C72D	Gisarme +1		Axe
+141914D6	Gisarme +2		Axe
+1419627F	Ranseur		Axe
+1419B028	Gigant Hammer		Axe
+141C1D70	Gigant Hammer +1		Axe
+141C6B19	Gigant Hammer +2		Axe
+141CB8C2	Gigant Hammer +3		Axe
+141D066B	Gigant Axe		Axe
+141D5414	Gigant Axe +1		Axe
+141DA1BD	Gigant Axe +2		Axe
+1441BB4C	Gigant Axe +3		Axe
+139C6683	Labrys		Axe
+144208F5	Labrys +1		Axe
+1442569E	Labrys +2		Axe
+1442A447	Labrys +3		Axe
+139CB42C	Konyo-Hojo		Axe
+1442F1F0	Konyo-Hojo +1		Axe
+14433F99	Konyo-Hojo +2		Axe
+14438D42	Konyo-Hojo +3		Axe
+139D01D5	Parashu		Axe
+1443DAEB	Parashu +1		Axe
+14442894	Parashu +2		Axe
+1444763D	Parashu +3		Axe
+139D4F7E	Ukonvasara		Axe
+1446E385	Ukonvasara +1		Axe
+1447312E	Ukonvasara +2		Axe
+14477ED7	Ukonvasara +3		Axe
+13C1690D	Mjolnir		Axe
+1447CC80	Mjolnir +1		Axe
+14481A29	Mjolnir +2		Axe
+144867D2	Mjolnir +3		Axe
+13C1B6B6	Master Axe		Axe
+146C8161	Master Axe +1		Axe
+146CCF0A	Master Axe +2		Axe
+146D1CB3	Master Axe +3		Axe
+146D6A5C	God Hammer		Axe
+146DB805	God Axe		Axe
+13C2045F	Pagnas Grunt's Battleaxe		Axe
+13C25208	Pagnas Officer's Battleaxe		Axe
+13C72C98	Pagnas Captain's Battleaxe		Axe
+13EDB36F	Pagnas Cmdr's Battleaxe		Axe
+13EE0118	Pagnas Cmdr's War Hammer		Axe
+13EE4EC1	Pagnas King's Battleaxe		Axe
+13EE9C6A	Pagnas King's War Hmmer		Axe
+6C3A5F3E	Claymore	Oracle	Great Sword
+6C3AACE7	Claymore +1	Oracle	Great Sword
+6C3AFA90	Claymore +2	Oracle	Great Sword
+6C3B4839	Claymore +3	Oracle	Great Sword
+6C3B95E2	Two-Handed Sword	Oracle	Great Sword
+6C3BE38B	Two-Handed Sword +1	Oracle	Great Sword
+6C3C3134	Two-Handed Sword +2	Oracle	Great Sword
+6C3C7EDD	Two-Handed Sword +3	Oracle	Great Sword
+6C3CCC86	Giant Sword	Oracle/Warrior	Great Sword
+6C3D1A2F	Giant Sword +1	Oracle/Warrior	Great Sword
+6C3F8777	Giant Sword +2	Oracle/Warrior	Great Sword
+6C3FD520	Giant Sword +3	Oracle/Warrior	Great Sword
+6C4022C9	Wind Claymore	Oracle/Warrior	Great Sword
+6C407072	Wind Claymore +1	Oracle/Warrior	Great Sword
+6C40BE1B	Wind Claymore +2	Oracle/Warrior	Great Sword
+6C410BC4	Gale Claymore	Oracle/Warrior	Great Sword
+6C652553	Greatsword	Oracle/Warrior	Great Sword
+6C6572FC	Greatsword +1	Oracle/Warrior	Great Sword
+6C65C0A5	Greatsword +2	Oracle/Warrior	Great Sword
+6C660E4E	Greatsword +3	Oracle/Warrior	Great Sword
+6C665BF7	Buster Sword	Oracle/Warrior	Great Sword
+6C91BD5E	Buster Sword +1	Oracle/Warrior	Great Sword
+6C66A9A0	Buster Sword +2	Oracle/Warrior	Great Sword
+6C66F749	Buster Sword +3	Oracle/Warrior	Great Sword
+6C6744F2	Flame Claymore	Oracle/Warrior	Great Sword
+6C67929B	Flame Claymore +1	Oracle/Warrior	Great Sword
+6C67E044	Flame Claymore +2	Oracle/Warrior	Great Sword
+6C6A4D8C	Inferno Claymore	Oracle/Warrior	Great Sword
+6C6A9B35	Harpe	Oracle/Warrior	Great Sword
+6C6AE8DE	Harpe +1	Oracle/Warrior	Great Sword
+6C920B07	Harpe +2	Oracle/Warrior	Great Sword
+6C6B3687	Adamant Harpe	Oracle/Warrior	Great Sword
+6C6B8430	Custom Buster Sword	Oracle/Warrior	Great Sword
+6C6BD1D9	Custom Buster Sword +1	Oracle/Warrior	Great Sword
+6C8FEB68	Custom Buster Sword +2	Oracle/Warrior	Great Sword
+6C903911	Custom Buster Sword +3	Oracle/Warrior	Great Sword
+6C9086BA	Big Blade	Oracle/Warrior	Great Sword
+6C90D463	Big Blade +1	Oracle/Warrior	Great Sword
+6C91220C	Big Blade +2	Oracle/Warrior	Great Sword
+6C916FB5	Brave Blade	Oracle/Warrior	Great Sword
+6C9258B0	Dragon's Torment	Oracle/Warrior	Great Sword
+6C92A659	Dragon's Torment +1	Oracle/Warrior	Great Sword
+6C9513A1	Dragon's Torment +2	Oracle/Warrior	Great Sword
+6C95614A	Dragon's Torment +3	Oracle/Warrior	Great Sword
+6CBB9A78	Ice Claymore	Oracle/Warrior	Great Sword
+6CBBE821	Ice Claymore +1	Oracle/Warrior	Great Sword
+6CBC35CA	Ice Claymore +2	Oracle/Warrior	Great Sword
+6CBC8373	Blizzard Claymore	Oracle/Warrior	Great Sword
+6CBCD11C	Two-Handed Blade	Oracle/Warrior	Great Sword
+6CBD1EC5	Two-Handed Blade +1	Oracle/Warrior	Great Sword
+6CBD6C6E	Two-Handed Blade +2	Oracle/Warrior	Great Sword
+6CBFD9B6	Balanced Blade	Oracle/Warrior	Great Sword
+6CC0275F	Zanbato	Oracle/Warrior	Great Sword
+6CC07508	Zanbato +1	Oracle/Warrior	Great Sword
+6CC0C2B1	Zanbato +2	Oracle/Warrior	Great Sword
+6CC1105A	Holy Sword	Oracle/Warrior	Great Sword
+6CC15E03	Thunder Claymore	Oracle/Warrior	Great Sword
+6CE57792	Thunder Claymore +1	Oracle/Warrior	Great Sword
+6CE5C53B	Thunder Claymore +2	Oracle/Warrior	Great Sword
+6CE612E4	Voltaic Claymore	Oracle/Warrior	Great Sword
+6CE6608D	Sword Breaker	Oracle/Warrior	Great Sword
+6CE6AE36	Sword Breaker +1	Oracle/Warrior	Great Sword
+6CE6FBDF	Sword Breaker +2	Oracle/Warrior	Great Sword
+6CE74988	Emanuel	Oracle/Warrior	Great Sword
+6CE79731	Cutlass	Oracle/Warrior	Great Sword
+6CE7E4DA	Cutlass +1	Oracle/Warrior	Great Sword
+6CE83283	Cutlass +2	Oracle/Warrior	Great Sword
+6CEA9FCB	Briquet Cutlass	Oracle/Warrior	Great Sword
+6CEAED74	Ilwoon	Oracle/Warrior	Great Sword
+6CEB3B1D	Ilwoon +1	Oracle/Warrior	Great Sword
+6CEB88C6	Ilwoon +2	Oracle/Warrior	Great Sword
+6CEBD66F	Gold Ilwoon	Oracle/Warrior	Great Sword
+6CEC2418	Beagalltach	Oracle/Warrior	Great Sword
+6D103DA7	Beagalltach +1	Oracle/Warrior	Great Sword
+6D108B50	Beagalltach +2	Oracle/Warrior	Great Sword
+6D10D8F9	Moralltach	Oracle/Warrior	Great Sword
+6D1126A2	Durendal	Oracle/Warrior	Great Sword
+6D11744B	Durendal +1	Oracle/Warrior	Great Sword
+6D11C1F4	Durendal +2	Oracle/Warrior	Great Sword
+6D120F9D	Durendal +3	Oracle/Warrior	Great Sword
+6D125D46	Aroundight	Oracle/Warrior	Great Sword
+6D12AAEF	Aroundight +1	Oracle/Warrior	Great Sword
+6D12F898	Aroundight +2	Oracle/Warrior	Great Sword
+6D1565E0	Aroundight +3	Oracle/Warrior	Great Sword
+6C95AEF3	Chaos Bringer	Oracle/Warrior	Great Sword
+6D15B389	Chaos Bringer +1	Oracle/Warrior	Great Sword
+6D160132	Chaos Bringer +2	Oracle/Warrior	Great Sword
+6D164EDB	Chaos Bringer +3	Oracle/Warrior	Great Sword
+6C95FC9C	Death Bringer	Oracle/Warrior	Great Sword
+6D169C84	Death Bringer +1	Oracle/Warrior	Great Sword
+6D16EA2D	Death Bringer +2	Oracle/Warrior	Great Sword
+6D3B03BC	Death Bringer +3	Oracle/Warrior	Great Sword
+6C964A45	Dainsleif	Oracle/Warrior	Great Sword
+6D3B5165	Dainsleif +1	Oracle/Warrior	Great Sword
+6D3B9F0E	Dainsleif +2	Oracle/Warrior	Great Sword
+6D3BECB7	Dainsleif +3	Oracle/Warrior	Great Sword
+6C9697EE	Megingjor0	Oracle/Warrior	Great Sword
+6D3C3A60	Megingjor0 +1	Oracle/Warrior	Great Sword
+6D3C8809	Megingjor0 +2	Oracle/Warrior	Great Sword
+6D3CD5B2	Megingjor0 +3	Oracle/Warrior	Great Sword
+6CBAB17D	Gram	Oracle/Warrior	Great Sword
+6D3D235B	Gram +1	Oracle/Warrior	Great Sword
+6D3D7104	Gram +2	Oracle/Warrior	Great Sword
+6D3DBEAD	Gram +3	Oracle/Warrior	Great Sword
+6CBAFF26	Ascalon	Oracle/Warrior	Great Sword
+6D402BF5	Ascalon +1	Oracle/Warrior	Great Sword
+6D40799E	Ascalon +2	Oracle/Warrior	Great Sword
+6D40C747	Ascalon +3	Oracle/Warrior	Great Sword
+6D4114F0	Tryrfing(Oracle Only)	Oracle	Great Sword
+6D416299	Berserker Sword(Warrior Only)	Warrior	Great Sword
+6CBB4CCF	Luxcalibur	Oracle/Warrior	Great Sword
+0CCF34E8	Short Kunai		Kunai
+0CCF8291	Short Kunai +1		Kunai
+0CCFD03A	Short Kunai +2		Kunai
+0CD01DE3	Short Kunai +3		Kunai
+0CD06B8C	Carving Knife		Kunai
+0CD0B935	Carving Knife +1		Kunai
+0CD106DE	Carving Knife +2		Kunai
+0CD15487	Carving Knife +3		Kunai
+0CD1A230	Khukuri		Kunai
+0CD1EFD9	Khukuri +1		Kunai
+0CD45D21	Khukuri +2		Kunai
+0CD4AACA	Khukuri +3		Kunai
+0CD4F873	Jitte		Kunai
+0CD5461C	Jitte +1		Kunai
+0CD593C5	Jitte +2		Kunai
+0CD5E16E	Jitte +3		Kunai
+0CF9FAFD	Long Kunai		Kunai
+0CFA48A6	Long Kunai +1		Kunai
+0CFA964F	Long Kunai +2		Kunai
+0CFAE3F8	Long Kunai +3		Kunai
+0CFB31A1	Daggers		Kunai
+0CFB7F4A	Daggers +1		Kunai
+0CFBCCF3	Daggers +2		Kunai
+0CFC1A9C	Daggers +3		Kunai
+0CFC6845	Sais		Kunai
+0CFCB5EE	Sais +1		Kunai
+0CFF2336	Sais +2		Kunai
+0CFF70DF	Sais +3		Kunai
+0CFFBE88	Ninja Swords		Kunai
+0D000C31	Ninja Swords +1		Kunai
+0D0059DA	Ninja Swords +2		Kunai
+0D00A783	Ninja Swords +3		Kunai
+0D24C112	Triple Blade		Kunai
+0D250EBB	Triple Blade +1		Kunai
+0D255C64	Triple Blade +2		Kunai
+0D25AA0D	Triple Blade +3		Kunai
+0D25F7B6	Steel Daggers		Kunai
+0D26455F	Steel Daggers +1		Kunai
+0D269308	Steel Daggers +2		Kunai
+0D26E0B1	Steel Daggers +3		Kunai
+0D272E5A	Dragon Killer		Kunai
+0D277C03	Dragon Killer +1		Kunai
+0D29E94B	Dragon Killer +2		Kunai
+0D2A36F4	Dragon Killer +3		Kunai
+0D510B74	Tempered Kunai		Kunai
+0D51591D	Tempered Kunai +1		Kunai
+0D51A6C6	Tempered Kunai +2		Kunai
+0D51F46F	Hou-Ou		Kunai
+0D524218	Tempered Ninja Swords		Kunai
+0D54AF60	Tempered Ninja Swords +1		Kunai
+0D54FD09	Tempered Ninja Swords +2		Kunai
+0D554AB2	Cross Blade		Kunai
+0D55E604	Oriental Sai		Kunai
+0D5633AD	Oriental Sai +1		Kunai
+0D7A4D3C	Oriental Sai +2		Kunai
+0D7A9AE5	Heaven's Petal Pin		Kunai
+0D7AE88E	Trident Blade		Kunai
+0D7B3637	Trident Blade +1		Kunai
+0D7B83E0	Trident Blade +2		Kunai
+0D7BD189	Kogitsune-Maru		Kunai
+0D7F7575	Jonin Kunai		Kunai
+0D7FC31E	Jonin Kunai +1		Kunai
+0D8010C7	Jonin Kunai +2		Kunai
+0D805E70	Poison Kunai		Kunai
+0D80AC19	Jonin Blade		Kunai
+0D80F9C2	Jonin Blade +1		Kunai
+0DA51351	Jonin Blade +2		Kunai
+0DA560FA	Sasuke		Kunai
+0DA5AEA3	Chikusaji		Kunai
+0DA5FC4C	Chikusaji +1		Kunai
+0DA649F5	Chikusaji +2		Kunai
+0DA6979E	Uhuchiku		Kunai
+0DA6E547	Kawahagi Knife		Kunai
+0DA732F0	Kawahagi Knife +1		Kunai
+0DA78099	Kawahagi Knife +2		Kunai
+0DA7CE42	Yoshimitsu		Kunai
+0DAA3B8A	Bunkei		Kunai
+0DAA8933	Bunkei +1		Kunai
+0DAAD6DC	Bunkei +2		Kunai
+0DAB2485	Bunkei +3		Kunai
+0DAB722E	Seven-Star Sword		Kunai
+0DABBFD7	Seven-Star Sword +1		Kunai
+0DCFD966	Seven-Star Sword +2		Kunai
+0DD0270F	Seven-Star Sword +3		Kunai
+0D2A849D	Kotetsu		Kunai
+0DD074B8	Kotetsu +1		Kunai
+0DD0C261	Kotetsu +2		Kunai
+0DD1100A	Kotetsu +3		Kunai
+0D2AD246	Zantetsuken		Kunai
+0DD15DB3	Zantetsuken +1		Kunai
+0DD1AB5C	Zantetsuken +2		Kunai
+0DD1F905	Zantetsuken +3		Kunai
+0D2B1FEF	Chantan Nakiri		Kunai
+0DD246AE	Chantan Nakiri +1		Kunai
+0DD29457	Chantan Nakiri +2		Kunai
+0DD5019F	Chantan Nakiri +3		Kunai
+0D2B6D98	Kogarasumaru		Kunai
+0DD54F48	Kogarasumaru +1		Kunai
+0DD59CF1	Kogarasumaru +2		Kunai
+0DD5EA9A	Kogarasumaru +3		Kunai
+0D4F8727	Ame-No-Murakumo		Kunai
+0DD63843	Ame-No-Murakumo +1		Kunai
+0DD685EC	Ame-No-Murakumo +2		Kunai
+0DFA9F7B	Ame-No-Murakumo +3		Kunai
+0D4FD4D0	Azoth		Kunai
+0DFAED24	Azoth +1		Kunai
+0DFB3ACD	Azoth +2		Kunai
+0DFB8876	Azoth +3		Kunai
+0DFBD61F	Naoe-Shizu		Kunai
+0DFC23C8	Sohaya-No-Tsurugi		Kunai
+0D507022	Marlayus Standaed Dagger		Kunai
+0D50BDCB	Marlayus Imperial Dagger		Kunai
+0D55985B	Marlayus Specialis Dagger		Kunai
+0D7C1F32	Marlayus Blade Of Genbu		Kunai
+0D7C6CDB	Marlayus Blade Of Suzaku		Kunai
+0D7CBA84	Marlayus Blade Of Seiryu		Kunai
+0D7D082D	Marlayus Blade Of Byakko		Kunai
+0D502279	Dart	Shinobi	Shuriken
+8564B046	Shuriken +0		Shuriken
+8564FDEF	Shuriken +1		Shuriken
+85654B98	Shuriken +2		Shuriken
+85659941	Shuriken +3		Shuriken
+8565E6EA	Hairpin +0		Shuriken
+85663493	Hairpin +1		Shuriken
+8566823C	Hairpin +2		Shuriken
+8566CFE5	Hairpin +3		Shuriken
+85671D8E	Kyo Kunai +0		Shuriken
+85676B37	Kyo Kunai +1		Shuriken
+8569D87F	Kyo Kunai +2		Shuriken
+856A2628	Kyo Kunai +3		Shuriken
+856A73D1	Full Moon Ring +0		Shuriken
+856AC17A	Full Moon Ring +1		Shuriken
+856B0F23	Full Moon Ring +2		Shuriken
+856B5CCC	Full Moon Ring +3		Shuriken
+858F765B	Throwing Knife +0		Shuriken
+858FC404	Throwing Knife +1		Shuriken
+859011AD	Throwing Knife +2		Shuriken
+85905F56	Throwing Knife +3		Shuriken
+8590ACFF	Cross Shuriken +0		Shuriken
+8590FAA8	Cross Shuriken +1		Shuriken
+85914851	Cross Shuriken +2		Shuriken
+859195FA	Cross Shuriken +3		Shuriken
+8591E3A3	Chakram +0		Shuriken
+8592314C	Chakram +1		Shuriken
+85949E94	Chakram +2		Shuriken
+8594EC3D	Chakram +3		Shuriken
+859539E6	Shooting Star +0		Shuriken
+8595878F	Shooting Star +1		Shuriken
+8595D538	Shooting Star +2		Shuriken
+859622E1	Shooting Star +3		Shuriken
+85BA3C70	Fire Shuriken +0		Shuriken
+85BA8A19	Fire Shuriken +1		Shuriken
+85BAD7C2	Fire Shuriken +2		Shuriken
+85BB256B	Fire Shuriken +3		Shuriken
+85BB7314	Wind Pinwheel +0		Shuriken
+85BBC0BD	Wind Pinwheel +1		Shuriken
+85BC0E66	Wind Pinwheel +2		Shuriken
+85BC5C0F	Wind Pinwheel +3		Shuriken
+85BCA9B8	Dragon Bane +0		Shuriken
+85BCF761	Dragon Bane +1		Shuriken
+85BF64A9	Dragon Bane +2		Shuriken
+85BFB252	Dragon Bane +3		Shuriken
+85E59DD7	Battle Wheel	Bandit	Shuriken
+85E5EB80	Battle Wheel +1	Bandit	Shuriken
+85E63929	Battle Wheel +2	Bandit	Shuriken
+85E686D2	Battle Wheel +3	Bandit	Shuriken
+85E6D47B	Swift Knife	Bandit	Shuriken
+85E72224	Swift Knife +1	Bandit	Shuriken
+85E76FCD	Swift Knife +2	Bandit	Shuriken
+85E7BD76	Swift Knife +3	Bandit	Shuriken
+85EA2ABE	Pinga	Bandit	Shuriken
+85EA7867	Pinga +1	Bandit	Shuriken
+85EAC610	Pinga +2	Bandit	Shuriken
+85EB13B9	Pinga +3	Bandit	Shuriken
+85EB6162	Javelin	Bandit	Shuriken
+85EBAF0B	Javelin +1	Bandit	Shuriken
+860FC89A	Javelin +2	Bandit	Shuriken
+86101643	Javelin +3	Bandit	Shuriken
+861063EC	Blossom Shuriken	Bandit	Shuriken
+8610B195	Blossom Shuriken +1	Bandit	Shuriken
+8610FF3E	Blossom Shuriken +2	Bandit	Shuriken
+86114CE7	Blossom Shuriken +3	Bandit	Shuriken
+86119A90	Heavy Dart	Bandit	Shuriken
+8611E839	Heavy Dart +1	Bandit	Shuriken
+861235E2	Heavy Dart +2	Bandit	Shuriken
+8612838B	Heavy Dart +3	Bandit	Shuriken
+8614F0D3	Yami Shuriken	Bandit	Shuriken
+86153E7C	Yami Shuriken +1	Bandit	Shuriken
+86158C25	Yami Shuriken +2	Bandit	Shuriken
+8615D9CE	Yami Shuriken +3	Bandit	Shuriken
+86162777	Manji Shuriken	Bandit	Shuriken
+86167520	Manji Shuriken +1	Bandit	Shuriken
+863A8EAF	Manji Shuriken +2	Bandit	Shuriken
+863ADC58	Manji Shuriken +3	Bandit	Shuriken
+863B2A01	Blaze Wheel	Bandit	Shuriken
+863B77AA	Blaze Wheel +1	Bandit	Shuriken
+863BC553	Blaze Wheel +2	Bandit	Shuriken
+863C12FC	Blaze Wheel +3	Bandit	Shuriken
+863C60A5	Purified Shuriken	Bandit	Shuriken
+863CAE4E	Purified Shuriken +1	Bandit	Shuriken
+863CFBF7	Purified Shuriken +2	Bandit	Shuriken
+863D49A0	Purified Shuriken +3	Bandit	Shuriken
+85BFFFFB	Flame Chakram	Shinobi/Bandit	Shuriken
+863FB6E8	Flame Chakram +1	Shinobi/Bandit	Shuriken
+86400491	Flame Chakram +2	Shinobi/Bandit	Shuriken
+8640523A	Flame Chakram +3	Shinobi/Bandit	Shuriken
+85C04DA4	Bekko	Shinobi/Bandit	Shuriken
+86409FE3	Bekko +1	Shinobi/Bandit	Shuriken
+8640ED8C	Bekko +2	Shinobi/Bandit	Shuriken
+86413B35	Bekko +3	Shinobi/Bandit	Shuriken
+85C09B4D	Iga Shuriken	Shinobi/Bandit	Shuriken
+866554C4	Iga Shuriken +1	Shinobi/Bandit	Shuriken
+8665A26D	Iga Shuriken +2	Shinobi/Bandit	Shuriken
+8665F016	Iga Shuriken +3	Shinobi/Bandit	Shuriken
+85C0E8F6	Koga Shuriken	Shinobi/Bandit	Shuriken
+86663DBF	Koga Shuriken +1	Shinobi/Bandit	Shuriken
+86668B68	Koga Shuriken +2	Shinobi/Bandit	Shuriken
+8666D911	Koga Shuriken +3	Shinobi/Bandit	Shuriken
+85E50285	Fuma Shuriken	Shinobi/Bandit	Shuriken
+866726BA	Fuma Shuriken +1	Shinobi/Bandit	Shuriken
+86677463	Fuma Shuriken +2	Shinobi/Bandit	Shuriken
+8667C20C	Fuma Shuriken +3	Shinobi/Bandit	Shuriken
+85E5502E	Haura Shuriken	Shinobi/Bandit	Shuriken
+86680FB5	Haura Shuriken +1	Shinobi/Bandit	Shuriken
+866A7CFD	Haura Shuriken +2	Shinobi/Bandit	Shuriken
+866ACAA6	Haura Shuriken +3	Shinobi/Bandit	Shuriken
+866B184F	Ame-No-Hbaya	Shinobi/Bandit	Shuriken
+866B65F8	Vajra	Shinobi/Bandit	Shuriken
+7E15DA3B	Magic Tome		Tome
+7E1627E4	Magic Tome +1		Tome
+7E16758D	Magic Tome +2		Tome
+7E16C336	Magic Tome +3		Tome
+7E1710DF	Wind Scroll		Tome
+7E175E88	Wind Scroll +1		Tome
+7E17AC31	Wind Scroll +2		Tome
+7E17F9DA	Wind Scroll +3		Tome
+7E184783	Fire Tome		Tome
+7E18952C	Fire Tome +1		Tome
+7E1B0274	Fire Tome +2		Tome
+7E1B501D	Fire Tome +3		Tome
+7E1B9DC6	Water Book		Tome
+7E1BEB6F	Water Book +1		Tome
+7E1C3918	Water Book +2		Tome
+7E1C86C1	Water Book +3		Tome
+7E40A050	Thunder Ledger		Tome
+7E40EDF9	Thunder Ledger +1		Tome
+7E413BA2	Thunder Ledger +2		Tome
+7E41894B	Thunder Ledger +3		Tome
+7E6DD3AD	Wind Book		Tome
+7E41D6F4	Wind Book +1		Tome
+7E42249D	Wind Book +2		Tome
+7E427246	Wind Book +3		Tome
+7E42BFEF	Fire Scriptures		Tome
+7E430D98	Fire Scriptures +1		Tome
+7E435B41	Fire Scriptures +2		Tome
+7E45C889	Fire Scriptures +3		Tome
+7E461632	Water Ledger		Tome
+7E4663DB	Water Ledger +1		Tome
+7E46B184	Water Ledger +2		Tome
+7E46FF2D	Water Ledger +3		Tome
+7E474CD6	Thunder Scroll		Tome
+7E6B6665	Thunder Scroll +1		Tome
+7E6BB40E	Thunder Scroll +2		Tome
+7E6C01B7	Thunder Scroll +3		Tome
+7E6C4F60	Rune Tome		Tome
+7E6C9D09	Rune Tome +1		Tome
+7E6CEAB2	Rune Tome +2		Tome
+7E6D385B	Rune Tome +3		Tome
+7E6D8604	Astral Tome		Tome
+7E6E2156	Astral Tome +1		Tome
+7E708E9E	Astral Tome +2		Tome
+7E70DC47	Astral Tome +3		Tome
+7E97B0C7	Wind Ledger		Tome
+7E97FE70	Wind Ledger +1		Tome
+7E984C19	Wind Ledger +2		Tome
+7E9899C2	Wind Ledger +3		Tome
+7E98E76B	Fire Scroll		Tome
+7E9B54B3	Fire Scroll +1		Tome
+7E9BA25C	Fire Scroll +2		Tome
+7E9BF005	Fire Scroll +3		Tome
+‬7E9C8B57	Water Scroll		Tome
+7E9CD900	Water Scroll +1		Tome
+7EC0F28F	Water Scroll +2		Tome
+7EC14038	Water Scroll +3		Tome
+7EC18DE1	Thunder Book		Tome
+7EC1DB8A	Thunder Book +1		Tome
+7EC22933	Thunder Book +2		Tome
+7EC276DC	Thunder Book +3		Tome
+7EC61AC8	Thunder Biblion		Tome
+7EC66871	Thunder Biblion +1		Tome
+7EC6B61A	Thunder Biblion +2		Tome
+7EC703C3	Thunder Codex		Tome
+7EC7516C	Wind Biblion		Tome
+7EC79F15	Wind Biblion +1		Tome
+7EEBB8A4	Wind Biblion +2		Tome
+7EEC064D	Wind Codex		Tome
+7EEC53F6‬	Ice Biblion		Tome
+7EECA19F‬‬	Ice Biblion +1		Tome
+7EECEF48	Ice Biblion +2		Tome
+7EED3CF1‬	Ice Codex		Tome
+7EED8A9A‬	Fire Biblion		Tome
+7EEDD843‬‬	Fire Biblion +1		Tome
+7EEE25EC‬‬	Fire Biblion +2		Tome
+7EEE7395	Fire Codex		Tome
+7E15DA3B	Calamity Tome		Tome
+7EF12E86	Calamity Tome +1		Tome
+7EF17C2F	Calamity Tome +2		Tome
+‭7EF1C9D8‬	Calamity Tome +3		Tome
+‭7EF21781‬	Reincarnation Tome		Tome
+‭7EF2652A‬	Reincarnation Tome +1		Tome
+7F167EB9	Reincarnation Tome +2		Tome
+7F16CC62	Reincarnation Tome +3		Tome
+7E7129F0	Genesis		Tome
+7F171A0B	Genesis +1		Tome
+7F1767B4	Genesis +2		Tome
+7F17B55D	Genesis +3		Tome
+7E717799	Encyclopedia		Tome
+7F180306	Encyclopedia +1		Tome
+7F1850AF	Encyclopedia +2		Tome
+7F189E58	Encyclopedia +3		Tome
+7E71C542	Edda		Tome
+7F18EC01	Edda +1		Tome
+7F1939AA	Edda +2		Tome
+7F1BA6F2	Edda +3		Tome
+7E7212EB	Rigveda		Tome
+7F1BF49B	Rigveda +1		Tome
+7F1C4244	Rigveda +2		Tome
+7F1C8FED	Rigveda +3		Tome
+7E962C7A	Holy Scripture		Tome
+7F1CDD96	Holy Scripture +1		Tome
+7F1D2B3F	Holy Scripture +2		Tome
+7F4144CE	Holy Scripture +3		Tome
+7E967A23	Akashic Records		Tome
+7F419277	Akashic Records +1		Tome
+7F41E020	Akashic Records +2		Tome
+7F422DC9	Akashic Records +3		Tome
+7F427B72	Magna Carta		Tome
+7F42C91B	Tabula Rasa		Tome
+7E96C7CC	Grimoire		Tome
+7E971575	Litus Holy Script		Tome
+7E97631E	Litus Holy Precepts		Tome
+7E9C3DAE	Litus Holy Charter		Tome
+7EC2C485	Litus King's Wind Script		Tome
+7EC3122E	Litus King's Thunder Script		Tome
+‭7EC35FD7	Litus King's Fire Script		Tome
+7EC3AD80	Litus King's Ice Script		Tome
+7610DC52	Jack-O'-Lantern		Focus
+761129FB	Jack-O'-Lantern +1		Focus
+761177A4	Jack-O'-Lantern +2		Focus
+7611C54D	Jack-O'-Lantern +3		Focus
+761212F6	Plush Doll		Focus
+7612609F	Plush Doll +1		Focus
+7612AE48	Plush Doll +2		Focus
+7612FBF1	Plush Doll +3		Focus
+7613499A	Playing Cardsss		Focus
+76139743	Playing Card +1		Focus
+7616048B	Playing Card +2		Focus
+76165234	Tarot Card		Focus
+76169FDD	Crystal Ball		Focus
+7616ED86	Crystal Ball +1		Focus
+76173B2F	Crystal Ball +2		Focus
+761788D8	Crystal Skull		Focus
+763BA267	Straw Doll		Focus
+763BF010	Straw Doll +1		Focus
+763C3DB9	Straw Doll +2		Focus
+763C8B62	Straw Doll +3		Focus
+763CD90B	Paper Charm		Focus
+763D26B4	Paper Charm +1		Focus
+763D745D	Paper Charm +2		Focus
+763DC206	Disaster Charm		Focus
+763E0FAF	Green Lantern		Focus
+763E5D58	Green Lantern +1		Focus
+7640CAA0	Green Lantern +2		Focus
+76411849	Green Lantern +3		Focus
+764165F2	Feather Wand		Focus
+7641B39B	Feather Wand +1		Focus
+76420144	Feather Wand +2		Focus
+76424EED	Yatagarasu		Focus
+7666687C	Blessed Amulet		Focus
+7666B625	Blessed Amulet +1		Focus
+766703CE	Blessed Amulet +2		Focus
+76675177	Divine Offering		Focus
+76679F20	Cursed Doll		Focus
+7667ECC9	Cursed Doll +1		Focus
+76683A72	Cursed Doll +2		Focus
+7668881B	Cursed Doll +3		Focus
+7668D5C4	Cintamani		Focus
+7669236D	Cintamani +1		Focus
+766B90B5	Cintamani +2		Focus
+766BDE5E	Cintamani +3		Focus
+7691C9E3	Hieroglyph		Focus
+7692178C	Hieroglyph +1		Focus
+76926535	Hieroglyph +2		Focus
+7692B2DE	Abydos Temple Mural		Focus
+76930087	Fire Lantern		Focus
+76934E30	Fire Lantern +1		Focus
+76939BD9	Fire Lantern +2		Focus
+7693E982	??? Lantern		Focus
+769656CA	Granodiorite Sphere		Focus
+7696A473	Granodiorite Sphere +1		Focus
+7696F21C	Granodiorite Sphere +2		Focus
+76973FC5	Diquis Stone Sphere		Focus
+76978D6E	Quill Pen		Focus
+7697DB17	Quill Pen +1		Focus
+76BBF4A6	Quill Pen +2		Focus
+76BC424F	Cassowary Feather		Focus
+76BC8FF8	Tablet		Focus
+76BCDDA1	Tablet +1		Focus
+76BD2B4A	Tablet +2		Focus
+76BD78F3	Eye Of Providence		Focus
+76BDC69C	Ica Stone		Focus
+76BE1445	Ica Stone +1		Focus
+76BE61EE	Ica Stone +2		Focus
+76BEAF97	Sedan Stone		Focus
+76C11CDF	Dark Lantern		Focus
+76C16A88	Dark Lantern +1		Focus
+76C1B831	Dark Lantern +2		Focus
+76C205DA	Cursed Lantern		Focus
+76C25383	Hathor Temple Mural		Focus
+76C2A12C	Hathor Temple Mural +1		Focus
+76E6BABB	Hathor Temple Mural +2		Focus
+76E70864	Dendera Light		Focus
+76E7560D	Nimrud Lens		Focus
+76E7A3B6	Nimrud Lens +1		Focus
+76E7F15F	Nimrud Lens +2		Focus
+76E83F08	Nimrud Lens +3		Focus
+76E88CB1	Magatama		Focus
+76E8DA5A	Magatama +1		Focus
+76E92803	Magatama +2		Focus
+76E975AC	Magatama +3		Focus
+766C2C07	Dinosaur Statue		Focus
+76EBE2F4	Dinosaur Statue +1		Focus
+76EC309D	Dinosaur Statue +2		Focus
+76EC7E46	Dinosaur Statue +3		Focus
+766C79B0	Iron Pillar Of Delhi		Focus
+76ECCBEF	Iron Pillar Of Delhi +1		Focus
+76ED1998	Iron Pillar Of Delhi +2		Focus
+76ED6741	Iron Pillar Of Delhi +3		Focus
+766CC759	Nebra Sky Disk		Focus
+771180D0	Nebra Sky Disk +1		Focus
+7711CE79	Nebra Sky Disk +2		Focus
+77121C22	Nebra Sky Disk +3		Focus
+766D1502	Antikythera Mechanism		Focus
+771269CB	Antikythera Mechanism +1		Focus
+7712B774	Antikythera Mechanism +2		Focus
+7713051D	Antikythera Mechanism +3		Focus
+76912E91	Vimana		Focus
+771352C6	Vimana +1		Focus
+7713A06F	Vimana +2		Focus
+7713EE18	Vimana +3		Focus
+76917C3A	Yata No Kagami		Focus
+77143BC1	Yata No Kagami +1		Focus
+7716A909	Yata No Kagami +2		Focus
+7716F6B2	Yata No Kagami +3		Focus
+7717445B	Unidentified Object		Focus
+77179204	Out-Of-Place Artifact		Focus
+E85033C1	Steel Bangle		
+E850816A	Steel Bangle +1		
+E850CF13	Steel Bangle +2		
+E8511CBC	Steel Bangle +3		
+E8516A65	Steel Bangle +4		
+FFE1BA9A	Steel Bangle +5		
+0064C7CA	Steel Bangle +6		
+010AB7E5	Steel Bangle +7		
+02E3F5BD	Steel Bangle +8		
+038C5320	Steel Bangle +9		
+E851B80E	Vitality Bracelet		
+E85205B7	Vitality Bracelet +1		
+E8525360	Vitality Bracelet +2		
+E852A109	Vitality Bracelet +3		
+FFE20843	Vitality Bracelet +4		
+00651573	Vitality Bracelet +5		
+010B058E	Vitality Bracelet +6		
+02E66305	Vitality Bracelet +7		
+038CA0C9	Vitality Bracelet +8		
+E852EEB2	Ogre's Bangle		
+E8555BFA	Ogre's Bangle +1		
+E855A9A3	Ogre's Bangle +2		
+E855F74C	Ogre's Bangle +3		
+E85644F5	Ogre's Bangle +4		
+E856929E	Ogre's Bangle +5		
+FFE4758B	Ogre's Bangle +6		
+0065631C	Ogre's Bangle +7		
+010B5337	Ogre's Bangle +8		
+02E6B0AE	Ogre's Bangle +9		
+038CEE72	Ogre's Bangle +10		
+E856E047	Purifying Bracelet		
+E87AF9D6	Purifying Bracelet +1		
+E87B477F	Purifying Bracelet +2		
+E87B9528	Purifying Bracelet +3		
+FFE4C334	Purifying Bracelet +4		
+0065B0C5	Purifying Bracelet +5		
+010BA0E0	Purifying Bracelet +6		
+02E6FE57	Purifying Bracelet +7		
+038D3C1B	Purifying Bracelet +8		
+E87BE2D1	Confidence Bracelet		
+E87C307A	Confidence Bracelet +1		
+E87C7E23	Confidence Bracelet +2		
+E87CCBCC	Confidence Bracelet +3		
+FFE510DD	Confidence Bracelet +4		
+0065FE6E	Confidence Bracelet +5		
+010BEE89	Confidence Bracelet +6		
+02E74C00	Confidence Bracelet +7		
+038D89C4	Confidence Bracelet +8		
+EBD92000	Scale Bangle		
+EBFD398F	Scale Bangle +1		
+EBFD8738	Scale Bangle +2		
+EBFDD4E1	Scale Bangle +3		
+0060D635	Scale Bangle +4		
+00E51A09	Scale Bangle +5		
+02E223C7	Scale Bangle +6		
+0366B544	Scale Bangle +7		
+E87D1975	Euphoria Bangle		
+E87D671E	Euphoria Bangle +1		
+FFE55E86	Euphoria Bangle +2		
+00664C17	Euphoria Bangle +3		
+010C3C32	Euphoria Bangle +4		
+02E799A9	Euphoria Bangle +5		
+038DD76D	Euphoria Bangle +6		
+184AF1D2	Ring of Rebirth		
+E87DB4C7	Leather Choker		
+E880220F	Leather Choker +1		
+E8806FB8	Leather Choker +2		
+E880BD61	Leather Choker +3		
+E8810B0A	Leather Choker +4		
+FFE5AC2F	Leather Choker +5		
+008A65A6	Leather Choker +6		
+010C89DB	Leather Choker +7		
+02E7E752	Leather Choker +8		
+038E2516	Leather Choker +9		
+E88158B3	Gemstone Pendant		
+E881A65C	Gemstone Pendant +1		
+E8A5BFEB	Gemstone Pendant +2		
+E8A60D94	Gemstone Pendant +3		
+E8A65B3D	Gemstone Pendant +4		
+FFE5F9D8	Gemstone Pendant +5		
+008AB34F	Gemstone Pendant +6		
+010CD784	Gemstone Pendant +7		
+030C00E1	Gemstone Pendant +8		
+038E72BF	Gemstone Pendant +9		
+E8A6A8E6	Warrior's Necklace		
+E8A6F68F	Warrior's Necklace +1		
+E8A74438	Warrior's Necklace +2		
+E8A791E1	Warrior's Necklace +3		
+000A1367	Warrior's Necklace +4		
+008B00F8	Warrior's Necklace +5		
+010D252D	Warrior's Necklace +6		
+030C4E8A	Warrior's Necklace +7		
+038EC068	Warrior's Necklace +8		
+E8A7DF8A	Demon's Pendant		
+E8A82D33	Demon's Pendant +1		
+E8A87ADC	Demon's Pendant +2		
+E8AAE824	Demon's Pendant +3		
+E8AB35CD	Demon's Pendant +4		
+000A6110	Demon's Pendant +5		
+008B4EA1	Demon's Pendant +6		
+010D72D6	Demon's Pendant +7		
+030C9C33	Demon's Pendant +8		
+038F0E11	Demon's Pendant +9		
+E8AB8376	Pendant of Hope		
+E8ABD11F	Pendant of Hope +1		
+E8AC1EC8	Pendant of Hope +2		
+E8AC6C71	Pendant of Hope +3		
+000AAEB9	Pendant of Hope +4		
+008B9C4A	Pendant of Hope +5		
+010FE01E	Pendant of Hope +6		
+030CE9DC	Pendant of Hope +7		
+03917B59	Pendant of Hope +8		
+EBFE228A	Scale Necklace		
+EBFEBDDC	Scale Necklace +1		
+EBFF0B85	Scale Necklace +2		
+EBFF592E	Scale Necklace +3		
+006123DE	Scale Necklace +4		
+00E567B2	Scale Necklace +5		
+02E27170	Scale Necklace +6		
+036702ED	Scale Necklace +7		
+E8D08600	Necklace of Cleansing		
+E8D0D3A9	Necklace of Cleansing +1		
+000AFC62	Necklace of Cleansing +2		
+008BE9F3	Necklace of Cleansing +3		
+01102DC7	Necklace of Cleansing +4		
+030D3785	Necklace of Cleansing +5		
+0391C902	Necklace of Cleansing +6		
+E8D12152	Bone Ring		
+E8D16EFB	Bone Ring +1		
+E8D1BCA4	Bone Ring +2		
+E8D20A4D	Bone Ring +3		
+E8D257F6	Bone Ring +4		
+000B4A0B	Bone Ring +5		
+008C379C	Bone Ring +6		
+01107B70	Bone Ring +7		
+030D852E	Bone Ring +8		
+039216AB	Bone Ring +9		
+E8D2A59F	Plant Ring		
+E8D2F348	Plant Ring +1		
+E8D340F1	Plant Ring +2		
+E8D5AE39	Plant Ring +3		
+E8D5FBE2	Plant Ring +4		
+000B97B4	Plant Ring +5		
+008C8545	Plant Ring +6		
+0110C919	Plant Ring +7		
+030DD2D7	Plant Ring +8		
+03926454	Plant Ring +9		
+E8D6498B	Bravery Ring		
+E8D69734	Bravery Ring +1		
+E8D6E4DD	Bravery Ring +2		
+E8D73286	Bravery Ring +3		
+000BE55D	Bravery Ring +4		
+008CD2EE	Bravery Ring +5		
+011116C2	Bravery Ring +6		
+030E2080	Bravery Ring +7		
+0392B1FD	Bravery Ring +8		
+E8FB4C15	Ring of Life		
+E8FB99BE	Ring of Life +1		
+E8FBE767	Ring of Life +2		
+E8FC3510	Ring of Life +3		
+000C3306	Ring of Life +4		
+008D2097	Ring of Life +5		
+0111646B	Ring of Life +6		
+030E6E29	Ring of Life +7		
+0392FFA6	Ring of Life +8		
+E8FC82B9	Blessed Ring		
+E8FCD062	Blessed Ring +1		
+E8FD1E0B	Blessed Ring +2		
+E8FD6BB4	Blessed Ring +3		
+000C80AF	Blessed Ring +4		
+008F8DDF	Blessed Ring +5		
+01357DFA	Blessed Ring +6		
+030EBBD2	Blessed Ring +7		
+176E66E3	Blessed Ring +8		
+EBFFA6D7	Scale Ring		
+EBFFF480	Scale Ring +1		
+EC0261C8	Scale Ring +2		
+EC02AF71	Scale Ring +3		
+00617187	Scale Ring +4		
+00E5B55B	Scale Ring +5		
+02E2BF19	Scale Ring +6		
+03675096	Scale Ring +7		
+E8FDB95D	Star Ring		
+E8FE0706	Star ring +1		
+02B674B7	ring of nibelungen		
+036447FC	ring of Gyges		
+17C3F30D	ring of shenron		
+184AA429	Mark of Death Ring		
+E900744E	Metal Earrings		
+E900C1F7	Metal Earrings +1		
+E9010FA0	Metal Earrings +2		
+E9015D49	Metal Earrings +3		
+E901AAF2	Metal Earrings +4		
+000CCE58	Metal Earrings +5		
+008FDB88	Metal Earrings +6		
+0135CBA3	Metal Earrings +7		
+0311291A	Metal Earrings +8		
+176EB48C	Metal Earrings +9		
+E901F89B	Animal Earrings		
+E926122A	Animal Earrings +1		
+E9265FD3	Animal Earrings +2		
+E926AD7C	Animal Earrings +3		
+E926FB25	Animal Earrings +4		
+000F3BA0	Animal Earrings +5		
+00902931	Animal Earrings +6		
+0136194C	Animal Earrings +7		
+031176C3	Animal Earrings +8		
+176F0235	Animal Earrings +9		
+E92748CE	Engraved Earrings		
+E9279677	Engraved Earrings +1		
+E927E420	Engraved Earrings +2		
+E92831C9	Engraved Earrings +3		
+000F8949	Engraved Earrings +4		
+009076DA	Engraved Earrings +5		
+013666F5	Engraved Earrings +6		
+0311C46C	Engraved Earrings +7		
+176F4FDE	Engraved Earrings +8		
+E9287F72	Bell Earrings		
+E928CD1B	Bell Earrings +1		
+E92B3A63	Bell Earrings +2		
+E92B880C	Bell Earrings +3		
+000FD6F2	Bell Earrings +4		
+0090C483	Bell Earrings +5		
+0136B49E	Bell Earrings +6		
+03121215	Bell Earrings +7		
+176F9D87	Bell Earrings +8		
+E92BD5B5	Heart Earrings		
+E92C235E	Heart Earrings +1		
+E92C7107	Heart Earrings +2		
+E92CBEB0	Heart Earrings +3		
+E950D83F	Heart Earrings +4		
+0010249B	Heart Earrings +5		
+0091122C	Heart Earrings +6		
+01370247	Heart Earrings +7		
+03125FBE	Heart Earrings +8		
+176FEB30	Heart Earrings +9		
+EC02FD1A	Scale Earring		
+EC034AC3	Scale Earring +1		
+EC03986C	Scale Earring +2		
+EC03E615	Scale Earring +3		
+0061BF30	Scale Earring +4		
+00E60304	Scale Earring +5		
+02E30CC2	Scale Earring +6		
+03679E3F	Scale Earring +7		
+E95125E8	Teardrop Earrings		
+E9517391	Teardrop Earrings +1		
+E951C13A	Prayer Charm		
+E9520EE3	Prayer Charm +1		
+E9525C8C	Prayer Charm +2		
+E952AA35	Prayer Charm +3		
+E952F7DE	Prayer Charm +4		
+00107244	Prayer Charm +5		
+00B52BBB	Prayer Charm +6		
+01374FF0	Prayer Charm +7		
+0312AD67	Prayer Charm +8		
+177038D9	Prayer Charm +9		
+E9534587	Bluesky Amulet		
+E9539330	Bluesky Amulet +1		
+E9560078	Bluesky Amulet +2		
+E9564E21	Bluesky Amulet +3		
+E9569BCA	Bluesky Amulet +4		
+0010BFED	Bluesky Amulet +5		
+00B57964	Bluesky Amulet +6		
+01379D99	Bluesky Amulet +7		
+0336C6F6	Bluesky Amulet +8		
+17708682	Bluesky Amulet +9		
+E956E973	Eye Amulet		
+E957371C	Eye Amulet +1		
+E95784C5	Eye Amulet +2		
+E97B9E54	Eye Amulet +3		
+0034D97C	Eye Amulet +4		
+00B5C70D	Eye Amulet +5		
+0137EB42	Eye Amulet +6		
+0337149F	Eye Amulet +7		
+1770D42B	Eye Amulet +8		
+E97BEBFD	Sorcerer's Charm		
+E97C39A6	Sorcerer's Charm +1		
+E97C874F	Sorcerer's Charm +2		
+E97CD4F8	Sorcerer's Charm +3		
+E97D22A1	Sorcerer's Charm +4		
+00352725	Sorcerer's Charm +5		
+00B614B6	Sorcerer's Charm +6		
+013838EB	Sorcerer's Charm +7		
+03376248	Sorcerer's Charm +8		
+177121D4	Sorcerer's Charm +9		
+E97D704A	Amulet of Malice		
+E97DBDF3	Amulet of Malice +1		
+E97E0B9C	Amulet of Malice +2		
+E97E5945	Amulet of Malice +3		
+003574CE	Amulet of Malice +4		
+00B6625F	Amulet of Malice +5		
+013AA633	Amulet of Malice +6		
+0337AFF1	Amulet of Malice +7		
+17738F1C	Amulet of Malice +8		
+FFDF4D52	Scale Charm		
+FFDF9AFB	Scale Charm +1		
+FFDFE8A4	Scale Charm +2		
+FFE0364D	Scale Charm +3		
+00620CD9	Scale Charm +4		
+00E650AD	Scale Charm +5		
+02E35A6B	Scale Charm +6		
+0367EBE8	Scale Charm +7		
+E980C68D	Amulet of Darkness		
+E9811436	Amulet of Darkness +1		
+EBFE7033	Dragon King's Crystal		
+E98161DF	Fur Anklet		
+E981AF88	Fur Anklet +1		
+E981FD31	Fur Anklet +2		
+E9824ADA	Fur Anklet +3		
+E9A66469	Fur Anklet +4		
+0035C277	Fur Anklet +5		
+00B6B008	Fur Anklet +6		
+013AF3DC	Fur Anklet +7		
+0337FD9A	Fur Anklet +8		
+1773DCC5	Fur Anklet +9		
+E9A6B212	Giant's Ring		
+E9A6FFBB	Giant's Ring +1		
+E9A74D64	Giant's Ring +2		
+E9A79B0D	Giant's Ring +3		
+E9A7E8B6	Giant's Ring +4		
+00361020	Giant's Ring +5		
+00B6FDB1	Giant's Ring +6		
+013B4185	Giant's Ring +7		
+03384B43	Giant's Ring +8		
+17742A6E	Giant's Ring +9		
+E9A8365F	Chain Anklet		
+E9A88408	Chain Anklet +1		
+E9A8D1B1	Chain Anklet +2		
+E9A91F5A	Chain Anklet +3		
+00365DC9	Chain Anklet +4		
+00B74B5A	Chain Anklet +5		
+013B8F2E	Chain Anklet +6		
+033898EC	Chain Anklet +7		
+17747817	Chain Anklet +8		
+E9AB8CA2	Hastan Anklet		
+E9ABDA4B	Hastan Anklet +1		
+E9AC27F4	Hastan Anklet +2		
+E9AC759D	Hastan Anklet +3		
+E9ACC346	Hastan Anklet +4		
+0036AB72	Hastan Anklet +5		
+00B79903	Hastan Anklet +6		
+013BDCD7	Hastan Anklet +7		
+0338E695	Hastan Anklet +8		
+1774C5C0	Hastan Anklet +9		
+E9AD10EF	Void Anklet		
+E9D12A7E	Void Anklet +1		
+E9D17827	Void Anklet +2		
+E9D1C5D0	Void Anklet +3		
+0036F91B	Void Anklet +4		
+00B7E6AC	Void Anklet +5		
+013C2A80	Void Anklet +6		
+0339343E	Void Anklet +7		
+17751369	Void Anklet +8		
+FFE083F6	Scale Anklet		
+FFE0D19F	Scale Anklet +1		
+FFE11F48	Scale Anklet +2		
+FFE16CF1	Scale Anklet +3		
+00625A82	Scale Anklet +4		
+00E69E56	Scale Anklet +5		
+02E3A814	Scale Anklet +6		
+03683991	Scale Anklet +7		
+E9D21379	Enigma Anklet		
+E9D26122	Enigma Anklet +1		
+02BBEA99	Iron Shackles		
+02BC3842	Iron Shackles +1		
+02BC85EB	Iron Shackles +2		
+02BCD394	Iron Shackles +3		
+02BD213D	Iron Shackles +4		
+02E13ACC	Iron Shackles +5		
+02E18875	Iron Shackles +6		
+02E1D61E	Iron Shackles +7		
+17C440B6	Iron Shackles +8		
+E9D2AECB	Ribbon Brooch	Female	
+E9D2FC74	Ribbon Brooch +1	Female	
+E9D34A1D	Ribbon Brooch +2	Female	
+E9D397C6	Ribbon Brooch +3	Female	
+E9D3E56F	Ribbon Brooch +4	Female	
+E9D652B7	Flower Brooch	Female	
+E9D6A060	Flower Brooch +1	Female	
+E9D6EE09	Flower Brooch +2	Female	
+E9D73BB2	Flower Brooch +3	Female	
+E9D7895B	Noble's Brooch	Female	
+E9D7D704	Noble's Brooch +1	Female	
+EB275B26	Noble's Brooch +2	Female	
+EB27A8CF	Noble's Brooch +3	Female	
+EB27F678	Noble's Brooch +4	Female	
+EB284421	Morpho Brooch	Female	
+EB2891CA	Morpho Brooch +1	Female	
+EB28DF73	Morpho Brooch +2	Female	
+EB292D1C	Morpho Brooch +3	Female	
+EB297AC5	Fragrant Brooch	Female	
+EB29C86E	Fragrant Brooch +1	Female	
+EB2A1617	Fragrant Brooch +2	Female	
+EB2C835F	Fragrant Brooch +3	Female	
+EB2CD108	Fragrant Brooch +4	Female	
+EB2D1EB1	Brooch of Misfortune	Female	
+EB2D6C5A	Brooch of Misfortune +1	Female	
+02B6C260	Brooch of Integrity	Female	
+02B71009	Brooch of Integrity +1	Female	
+02B75DB2	Brooch of Integrity +2	Female	
+02B7AB5B	Brooch of Integrity +3	Female	
+02B7F904	Brooch of Integrity +4	Female	
+17C48E5F	Brooch of Integrity +5	Female	
+EB2DBA03	Iron Badge	Male	
+EB2E07AC	Iron Badge +1	Male	
+EB52213B	Iron Badge +2	Male	
+EB526EE4	Iron Badge +3	Male	
+EB52BC8D	Iron Badge +4	Male	
+EB530A36	Hero's Emblem	Male	
+EB5357DF	Hero's Emblem +1	Male	
+EB53A588	Hero's Emblem +2	Male	
+EB53F331	Hero's Emblem +3	Male	
+EB5440DA	Hero's Emblem +4	Male	
+EB548E83	Champion's Badge	Male	
+EB54DC2C	Champion's Badge +1	Male	
+EB574974	Champion's Badge +2	Male	
+EB57971D	Champion's Badge +3	Male	
+02B846AD	Fastidious Badge	Male	
+02B89456	Fastidious Badge +1	Male	
+02B8E1FF	Fastidious Badge +2	Male	
+02B92FA8	Fastidious Badge +3	Male	
+02BB9CF0	Fastidious Badge +4	Male	
+17C4DC08	Fastidious Badge +5	Male	
+EB57E4C6	Hunter's Emblem	Male	
+EB58326F	Hunter's Emblem +1	Male	
+EB588018	Hunter's Emblem +2	Male	
+EB58CDC1	Hunter's Emblem +3	Male	
+EB7CE750	Hunter's Emblem +4	Male	
+EB7D34F9	Popul-aura Pin	Male	
+EB7D82A2	Popul-aura Pin +1	Male	
+EB7DD04B	Popul-aura Pin +2	Male	
+EB7E1DF4	Popul-aura Pin +3	Male	
+EB7E6B9D	Pact Emblem	Male	
+EB7EB946	Pact Emblem +1	Male	
+EB7F06EF	Steel Bracer	Empress	
+EB7F5498	Steel Bracer +1	Empress	
+EB7FA241	Steel Bracer +2	Empress	
+EB820F89	Steel Bracer +3	Empress	
+003746C4	Steel Bracer +4	Empress	
+00BA53F4	Steel Bracer +5	Empress	
+0160440F	Steel Bracer +6	Empress	
+033981E7	Steel Bracer +7	Empress	
+17992CF8	Steel Bracer +8	Empress	
+EB825D32	Scale Gauntlet	Empress	
+EB82AADB	Scale Gauntlet +1	Empress	
+EB82F884	Scale Gauntlet +2	Empress	
+EB83462D	Scale Gauntlet +3	Empress	
+0037946D	Scale Gauntlet +4	Empress	
+00BAA19D	Scale Gauntlet +5	Empress	
+016091B8	Scale Gauntlet +6	Empress	
+033BEF2F	Scale Gauntlet +7	Empress	
+17997AA1	Scale Gauntlet +8	Empress	
+EB8393D6	Ancient Guantlet	Empress	
+EBA7AD65	Ancient Guantlet +1	Empress	
+003A01B5	Ancient Guantlet +2	Empress	
+00BAEF46	Ancient Guantlet +3	Empress	
+0160DF61	Ancient Guantlet +4	Empress	
+033C3CD8	Ancient Guantlet +5	Empress	
+1799C84A	Ancient guantlet +6	Empress	
+00E1C3C6	Emperor Crown	Empress	
+0166079A	Emperor's Necklce	Empress	
+03631158	Emperor's Mantle	Empress	
+179EF083	Emperor's Crest	Empress	
+EBA7FB0E	Leather Belt	Warrior	
+EBA848B7	Leather Belt +1	Warrior	
+EBA89660	Leather Belt +2	Warrior	
+EBA8E409	Leather Belt +3	Warrior	
+003A4F5E	Leather Belt +4	Warrior	
+00BB3CEF	Leather Belt +5	Warrior	
+01612D0A	Leather Belt +6	Warrior	
+033C8A81	Leather Belt +7	Warrior	
+179A15F3	Leather Belt +8	Warrior	
+EBA931B2	Colorful Belt	Warrior	
+EBA97F5B	Colorful Belt +1	Warrior	
+EBA9CD04	Colorful Belt +2	Warrior	
+EBAA1AAD	Colorful Belt +3	Warrior	
+003A9D07	Colorful Belt +4	Warrior	
+00BB8A98	Colorful Belt +5	Warrior	
+01617AB3	Colorful Belt +6	Warrior	
+033CD82A	Colorful Belt +7	Warrior	
+179A639C	Colorful Belt +8	Warrior	
+EBAA6856	Living Belt	Warrior	
+EBACD59E	Living Belt +1	Warrior	
+003AEAB0	Living Belt +2	Warrior	
+00BBD841	Living Belt +3	Warrior	
+0161C85C	Living Belt +4	Warrior	
+033D25D3	Living Belt +5	Warrior	
+179AB145	Living Belt +6	Warrior	
+00E2116F	Berserker Ring	Warrior	
+01665543	Berserker Earring	Warrior	
+03635F01	Berserker Anklet	Warrior	
+179F3E2C	Berserker Belt	Warrior	
+EBAD2347	Cooling Scarf	Shinobi	
+EBAD70F0	Cooling Scarf +1	Shinobi	
+EBADBE99	Cooling Scarf +2	Shinobi	
+EBAE0C42	Cooling Scarf +3	Shinobi	
+003B3859	Cooling Scarf +4	Shinobi	
+00DFF1D0	Cooling Scarf +5	Shinobi	
+01621605	Cooling Scarf +6	Shinobi	
+033D737C	Cooling Scarf +7	Shinobi	
+179AFEEE	Cooling Scarf +8	Shinobi	
+EBAE59EB	Fur Scarf	Shinobi	
+EBD2737A	Fur Scarf +1	Shinobi	
+EBD2C123	Fur Scarf +2	Shinobi	
+EBD30ECC	Fur Scarf +3	Shinobi	
+003B8602	Fur Scarf +4	Shinobi	
+00E03F79	Fur Scarf +5	Shinobi	
+016263AE	Fur Scarf +6	Shinobi	
+03618D0B	Fur Scarf +7	Shinobi	
+179B4C97	Fur Scarf +8	Shinobi	
+EBD35C75	Bloodstained Scarf	Shinobi	
+EBD3AA1E	Bloodstained Scarf +1	Shinobi	
+005F9F91	Bloodstained Scarf +2	Shinobi	
+00E08D22	Bloodstained Scarf +3	Shinobi	
+0162B157	Bloodstained Scarf +4	Shinobi	
+0361DAB4	Bloodstained Scarf +5	Shinobi	
+179B9A40	Bloodstained Scarf +6	Shinobi	
+00E25F18	Ninja Bracer	Shinobi	
+0166A2EC	Havoc Belt	Shinobi	
+0363ACAA	Havoc Wrap	Shinobi	
+179F8BD5	Havoc Mask	Shinobi	
+EBD3F7C7	Critter Companion Pin	Witch	
+EBD44570	Critter Companion Pin +1	Witch	
+EBD49319	Critter Companion Pin +2	Witch	
+EBD4E0C2	Critter Companion Pin +3	Witch	
+005FED3A	Critter Companion Pin +4	Witch	
+00E0DACB	Critter Companion Pin +5	Witch	
+0162FF00	Critter Companion Pin +6	Witch	
+0362285D	Critter Companion Pin +7	Witch	
+179BE7E9	Critter Companion Pin +8	Witch	
+EBD52E6B	Demonic Pin	Witch	
+EBD79BB3	Demonic Pin +1	Witch	
+EBD7E95C	Demonic Pin +2	Witch	
+EBD83705	Demonic Pin +3	Witch	
+00603AE3	Demonic Pin +4	Witch	
+00E12874	Demonic Pin +5	Witch	
+01656C48	Demonic Pin +6	Witch	
+03627606	Demonic Pin +7	Witch	
+179E5531	Demonic Pin +8	Witch	
+EBD884AE	Mage's Pin	Witch	
+EBD8D257	Mage's Pin +1	Witch	
+0060888C	Mage's Pin +2	Witch	
+179EA2DA	Mage's Pin +3	Witch	
+0165B9F1	Mage's Pin +4	Witch	
+0362C3AF	Mage's Pin +5	Witch	
+179EA2DA	Mage's Pin +6	Witch	
+00E2ACC1	Magic Earring	Witch	
+0166F095	Ring of Magic	Witch	
+0363FA53	Belt of Magic	Witch	
+179FD97E	Necklace of Magic	Witch	
+17C529B1	Crystal Necklace	Oracle	
+17C5775A	Crystal Necklace +1	Oracle	
+17C5C503	Crystal Necklace +2	Oracle	
+17C612AC	Crystal Necklace +3	Oracle	
+17C66055	Crystal Necklace +4	Oracle	
+17C6ADFE	Crystal Necklace +5	Oracle	
+17C91B46	Crystal Necklace +6	Oracle	
+17C968EF	Crystal Necklace +7	Oracle	
+17C9B698	Crystal Necklace +8	Oracle	
+17CA0441	Augury Necklace	Oracle	
+17CA51EA	Augury Necklace +1	Oracle	
+17CA9F93	Augury Necklace +2	Oracle	
+17EEB922	Augury Necklace +3	Oracle	
+17EF06CB	Augury Necklace +4	Oracle	
+17EF5474	Augury Necklace +5	Oracle	
+17EFA21D	Augury Necklace +6	Oracle	
+17EFEFC6	Augury Necklace +7	Oracle	
+17F03D6F	Augury Necklace +8	Oracle	
+17F08B18	Seance Necklace	Oracle	
+17F0D8C1	Seance Necklace +1	Oracle	
+17F1266A	Seance Necklace +2	Oracle	
+17F17413	Seance Necklace +3	Oracle	
+17F3E15B	Seance Necklace +4	Oracle	
+17F42F04	Seance Necklace +5	Oracle	
+17F47CAD	Seance Necklace +6	Oracle	
+17F4CA56	Summoner Stole	Oracle	
+17F517FF	Summoner Rosary	Oracle	
+17F565A8	Summoner Eyepatch	Oracle	
+18197F37	Summoner choker	Oracle	
+1819CCE0	silk bandana	Bandit	
+181A1A89	silk bandana +1	Bandit	
+181A6832	Silk Bandana +2	Bandit	
+181AB5DB	Silk Bandana +3	Bandit	
+181B0384	Silk Bandana +4	Bandit	
+181B512D	Silk Bandana +5	Bandit	
+181B9ED6	Silk Bandana +6	Bandit	
+181BEC7F	Silk Bandana +7	Bandit	
+181C3A28	Silk Bandana +8	Bandit	
+181EA770	Enchanted Bandana	Bandit	
+181EF519	Enchanted Bandana +1	Bandit	
+181F42C2	Enchanted Bandana +2	Bandit	
+181F906B	Enchanted Bandana +3	Bandit	
+181FDE14	Enchanted Bandana +4	Bandit	
+18202BBD	Enchanted Bandana +5	Bandit	
+1844454C	Enchanted Bandana +6	Bandit	
+184492F5	Enchanted Bandana +7	Bandit	
+1844E09E	Enchanted Bandana +8	Bandit	
+18452E47	Lucky Bandana	Bandit	
+18457BF0	Lucky Bandana +1	Bandit	
+1845C999	Lucky Bandana +2	Bandit	
+18461742	Lucky Bandana +3	Bandit	
+184664EB	Lucky Bandana +4	Bandit	
+1846B294	Lucky Bandana +5	Bandit	
+1847003D	Lucky Bandana +6	Bandit	
+18496D85	Rogue's Gloves	Bandit	
+1849BB2E	Rogue's Goggles	Bandit	
+184A08D7	Rogue's Culotteres	Bandit	
+184A5680	Rogue's Seal	Bandit	
+[/Item]
+[ItemSlot]
+Offset>Item Slot
+0000	Item Slot 1
+0008	Item Slot 2
+0010	Item Slot 3
+0018	Item Slot 4
+0020	Item Slot 5
+0028	Item Slot 6
+0030	Item Slot 7
+0038	Item Slot 8
+0040	Item Slot 9
+0048	Item Slot 10
+0050	Item Slot 11
+0058	Item Slot 12
+0060	Item Slot 13
+0068	Item Slot 14
+0070	Item Slot 15
+0078	Item Slot 16
+0080	Item Slot 17
+0088	Item Slot 18
+0090	Item Slot 19
+0098	Item Slot 20
+00A0	Item Slot 21
+00A8	Item Slot 22
+00B0	Item Slot 23
+00B8	Item Slot 24
+00C0	Item Slot 25
+00C8	Item Slot 26
+00D0	Item Slot 27
+00D8	Item Slot 28
+00E0	Item Slot 29
+00E8	Item Slot 30
+00F0	Item Slot 31
+00F8	Item Slot 32
+0100	Item Slot 33
+0108	Item Slot 34
+0110	Item Slot 35
+0118	Item Slot 36
+0120	Item Slot 37
+0128	Item Slot 38
+0130	Item Slot 39
+0138	Item Slot 40
+0140	Item Slot 41
+0148	Item Slot 42
+0150	Item Slot 43
+0158	Item Slot 44
+0160	Item Slot 45
+0168	Item Slot 46
+0170	Item Slot 47
+0178	Item Slot 48
+0180	Item Slot 49
+0188	Item Slot 50
+0190	Item Slot 51
+0198	Item Slot 52
+01A0	Item Slot 53
+01A8	Item Slot 54
+01B0	Item Slot 55
+01B8	Item Slot 56
+01C0	Item Slot 57
+01C8	Item Slot 58
+01D0	Item Slot 59
+01D8	Item Slot 60
+01E0	Item Slot 61
+01E8	Item Slot 62
+01F0	Item Slot 63
+01F8	Item Slot 64
+0200	Item Slot 65
+0208	Item Slot 66
+0210	Item Slot 67
+0218	Item Slot 68
+0220	Item Slot 69
+0228	Item Slot 70
+0230	Item Slot 71
+0238	Item Slot 72
+0240	Item Slot 73
+0248	Item Slot 74
+0250	Item Slot 75
+0258	Item Slot 76
+0260	Item Slot 77
+0268	Item Slot 78
+0270	Item Slot 79
+0278	Item Slot 80
+0280	Item Slot 81
+0288	Item Slot 82
+0290	Item Slot 83
+0298	Item Slot 84
+02A0	Item Slot 85
+02A8	Item Slot 86
+02B0	Item Slot 87
+02B8	Item Slot 88
+02C0	Item Slot 89
+02C8	Item Slot 90
+02D0	Item Slot 91
+02D8	Item Slot 92
+02E0	Item Slot 93
+02E8	Item Slot 94
+02F0	Item Slot 95
+02F8	Item Slot 96
+0300	Item Slot 97
+0308	Item Slot 98
+0310	Item Slot 99
+0318	Item Slot 100
+0320	Item Slot 101
+0328	Item Slot 102
+0330	Item Slot 103
+[/ItemSlot]

@@ -1,0 +1,30 @@
+^3 = NAME: Puyo Pop Fever (Pal-Unk)
+^2 = GameID: SLES-51951
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9011DFB8 0C047796
+!!
++Enable Dev Menu (Press R1+X At Main Menu)
+%Credits: punk7890
+$D03CA042 0000B7FF
+$003C259C 00000004
++Enable Japanese Text In Options Menu {<I>Puts Japanese Language In Option &Gt; Language (Text Only). Save Before Exiting The Menu.</I>}
+%Credits: punk7890
+$201D2580 24030005
+$201D24CC 24030005
++Enable Japanese Voices {<I>Enables Japanese Voice In The Options Menu (Voice Only). Press L1+L2 When In Options Menu For Japanese Voices. R1+R2 For English Voices. Save Before Exiting The Menu</I>}
+%Credits: punk7890
+$D03CA042 0000FAFF
+$006EE549 00000000
+$D03CA042 0000F5FF
+$006EE549 00000001
++Gray Orbs Never Fall On P1
+%Credits: nolberto82
+$20152FEC 0000202D
++Max Gray Orbs Fall On P2
+%Credits: nolberto82
+$20152FEC 0000202D
+$2014DD08 3407FFFF
+!!
+

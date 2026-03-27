@@ -1,0 +1,86 @@
+^1 = HASH: 0F932D81
+^3 = NAME: Tokyo Xtreme Racer 3
+^2 = GameID: SLUS_208.31
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0014B703
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$9014B700 0C04ADFA
+!!
+!Codes:
++Infinite Money{With This Code, Start A Race For Some Money.}
+%Credits: Code Master
+$103AEBB0 0000FFFF
++Max Money{With This Code, Start A Race For Max Money.}
+%Credits: Code Master
+$203AEBB0 05F5E0FF
++Infinite Money (Alternate)
+%Credits: Code Master
+$108153B0 0000FFFF
++Max Money (Alternate)
+%Credits: Code Master
+$208153B0 05F5E0FF
++Days Modifier (000-3E7)
+%Credits: Code Master
+$208153B4 0000????
++Max Days
+%Credits: Code Master
+$103AEBB4 000003E7
++Quick Odometer Meter Gain
+%Credits: Code Master
+$103AEB54 0000FFFF
++Max Odometer Meter
+%Credits: Code Master
+$203AEB54 3B9AC9FF
++Always Low Time
+%Credits: Code Master
+$D041E8D2 00000041
+$2041EAC0 00000000
++Max Trip Meter
+%Credits: Code Master
+$D041E8D2 00000041
+$2041EABC 00189BC6
++Infinite SP P1
+%Credits: Code Master
+$D041E8D2 00000041
+$2041E958 004C4B40
++No SP P1
+%Credits: Code Master
+$D041E8D2 00000041
+$2041E958 00000000
++Infinite SP Rival
+%Credits: Code Master
+$D041E8D2 00000041
+$2041E9A8 004C4B40
++No SP Rival
+%Credits: Code Master
+$D041E8D2 00000041
+$2041E9A8 00000000
++Rival Always Loses SP Over Time
+%Credits: Code Master
+$20165B18 24090BB8
+$10165B22 00001000
++Never Lose SP Over Time P1
+%Credits: Code Master
+$20165B60 00000000
+$20165B68 00000000
++Never Lose SP From Damage P1
+%Credits: Code Master
+$201653F0 00000000
++Access All Cars (Free Mode)
+%Credits: Code Master
+$201D338C 00000000
+!!
+!Car Shop Codes:
++Access All Cars For Sale
+%Credits: Code Master
+$201D36E8 00000000
++Money Doesnt Decrease When Buying Cars
+%Credits: Code Master
+$2020D8DC 00000000
++Money Increases When Buying Cars
+%Credits: Code Master
+$2020D8D8 00451021
+!!

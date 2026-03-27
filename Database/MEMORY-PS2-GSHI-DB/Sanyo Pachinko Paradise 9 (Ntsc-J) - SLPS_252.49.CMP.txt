@@ -1,0 +1,15 @@
+^3 = NAME: Sanyo Pachinko Paradise 9 (Ntsc-J)
+^2 = GameID: SLPS-25249
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$90239DF8 0C08E726
+!!
++Hold Start At Press Start Screen For Debug Menu
+%Credits: punk7890
+$D0714FC2 0000FFF7
+$0010D618 0000000B
+$D0714FC2 0000FFFF
+$0010D618 00000007
+!!
+

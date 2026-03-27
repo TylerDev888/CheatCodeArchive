@@ -1,0 +1,38 @@
+^3 = NAME: Black Cat (Ntsc-J)
+^2 = GameID: SLPM-66289
+!Master Codes:
++Enable Code
+%Credits: BigBossman
+$90111E50 0C04473C
++Enable Code (Alternate)
+%Credits: BigBossman
+$90123310 0C060110
++Enable Code (Alternate) by BigBossman , CRYPT_CRAW
+$901295C8 0C0405B4
+!!
++Boot Into Debug Menu
+%Credits: punk7890
+$0018537C 00000000
++Enable Debug Display
+%Credits: punk7890
+$202AE71C 00000001
++Enable Version Display
+%Credits: punk7890
+$004B18BC 00000001
++Unlock All CG (Bonus Menu)
+%Credits: punk7890
+$004B81D4 000000FF
+$004B81E9 000000FF
+$104B81EA 0000FFFF
+$104B81EC 0000FFFF
+$004B81EE 000000FF
++Unlock All Scenarios (Bonus Menu)
+%Credits: punk7890
+$004B81D5 000000FF
+$104B81D6 0000FFFF
+$204B81D8 FFFFFFFF
+$204B81DC FFFFFFFF
+$204B81E0 FFFFFFFF
+$004B81E4 000000FF
+!!
+

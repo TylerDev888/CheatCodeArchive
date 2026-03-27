@@ -1,0 +1,19 @@
+^2 = GameID: CUSA28029,CUSA28357,CUSA28030
+^3 = NAME: Castlevania Advance Collection
+^SECONDLAYER: YES
+^4 = FILE: Castlevania: Circle Of The Moon (0012-(\d+)\SAVEDATA.BIN)
++Super Max Level/Stats{Will Give You Super Max Stats, But You Gotta Let The Level Up Prompt Run It Doesn’t Take Long}
+%Credits:Method
+$10086B76 00002823
++Super Max Level/Stats
+%Credits:Method>Salarian
+$10079C8E 00002823
++Super Max HP/MP{2.6billion}
+%Credits:Method
+$4107478C 00006969
+$40040002 00000000
+$41061916 00006969
+$40040002 00000000
+^4 = FILE: Castlevania: Harmony Of Dissonance (0014-(\d+)\SAVEDATA.BIN)
+^4 = FILE: Castlevania: Aria Of Sorrow (0016-(\d+)\SAVEDATA.BIN)
+^4 = FILE: Castlevania: Dracula X (0018-(\d+)\SAVEDATA.BIN)

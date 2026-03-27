@@ -1,0 +1,10 @@
+^2 = GameID: NPEA00006
+^3 = NAME: Go! Puzzle
+^4 = FILE: USR-DATA
++Update Crc32:0 For Usr-data (required)
+$write at 0x4:00000000
+$set pointer:eof+1
+$set range:0x0,pointer
+$set [hash]:CRC32:0
+$set [hash]:xor:FFFFFFFF
+$write at 0x4:[hash]

@@ -1,0 +1,390 @@
+^2 = GameID: CUSA10930,CUSA13186,CUSA13197,CUSA15953
+^3 = NAME: Judgement
+^SECONDLAYER: NO
+^4 = FILE: data.sav
++Add Item
+$search 0x22706C61796572223A
+$search next 0x2263617272795F6974656D22
+$search next 0x226D5F6C69737422
+$Insert Next A: "{".ver":0,"m_count":[Amount:99999999:UTF08:TXT],"m_item_id":{"puid":[ID]}},"
+^6 = MODS:
+[ID]
+VALUE>ITEM>Type
+767	Toughness Z	Recovery Items
+770	Tauriner	Recovery Items
+774	Staminan X	Recovery Items
+895	Pocket Tissues	Materials/Other
+896	Platinum Plate	Materials/Other
+897	Gold Plate	Materials/Other
+898	Silver Plate	Materials/Other
+899	Bronze Plate	Materials/Other
+900	Iron Plate	Materials/Other
+901	Paper Plate	Materials/Other
+907	Oden	Recovery Items
+908	Seaweed Onigiri	Recovery Items
+909	Tuna Onigiri	Recovery Items
+910	Salmon Onigiri	Recovery Items
+911	Fresh Lettuce Sandwich	Recovery Items
+912	Tuna & Egg Sandwich	Recovery Items
+913	Bento Lunch Set	Recovery Items
+914	Special Yakisoba	Recovery Items
+915	Pork Tonkatsu Bento	Recovery Items
+916	Healthy Balanced Bento	Recovery Items
+917	Luxury Yakiniku Bento	Recovery Items
+918	Sushi Set	Recovery Items
+919	Imuraya Steamed Bun	Recovery Items
+920	Imuraya Bean Paste Bun	Recovery Items
+921	Imuraya Pizza Bun	Recovery Items
+922	Imuraya Gold Steamed Bun	Recovery Items
+923	Imuraya Gold Pizza Bun	Recovery Items
+924	Sake	Recovery Items
+928	Super Cup Extra Large Squid Yakisoba	Recovery Items
+930	Wakame Ramen	Recovery Items
+931	Wonton Harusame	Recovery Items
+938	Homestyle Chicken Cat Food	Materials/Other
+939	Miso Crispy Beef Cat Food	Materials/Other
+940	Fresh Tuna Cat Food	Materials/Other
+941	Cheese Salmon Paté Cat Food	Materials/Other
+942	White Fish and Sardine Cat Food	Materials/Other
+943	Bonito Flake Cat Food	Materials/Other
+944	Gold Tuna Cat Food	Materials/Other
+945	Beginner Darts	Valuables
+946	Standard Darts	Valuables
+947	Premier Darts	Valuables
+948	Miracle Darts	Valuables
+1777	Dorayaki (Assorted Set)	Valuables
+2295	Work Clothes	Disguises
+2296	Street Style	Disguises
+2297	Golden Bat	Valuables
+2298	AiAi	Materials/Other
+2299	GonGon	Materials/Other
+2300	MeeMee	Materials/Other
+2301	Baby	Materials/Other
+2302	Bun-chan the Java Sparrow (White)	Materials/Other
+2303	Bun-chan the Java Sparrow (Pink)	Materials/Other
+2304	Jumbo Bun-chan	Materials/Other
+2305	Kitty Kat (Red)	Materials/Other
+2306	Kitty Kat (Tiger)	Materials/Other
+2307	Kitty Kat (Blue)	Materials/Other
+2308	Kitty Kat (American Short Hair)	Materials/Other
+2309	Kitty Kat (Calico)	Materials/Other
+2310	Robo Chief	Materials/Other
+2311	Robo Manager	Materials/Other
+2334	Staminan Light	Recovery Items
+2335	Toughness Light	Recovery Items
+2338	Limited Warabimochi	Valuables
+2341	Pillow Pups (Golden Retriever)	Materials/Other
+2342	Pillow Pups (French Bulldog)	Materials/Other
+2346	Batting Gloves	Valuables
+2350	Thin Wire	Materials/Other
+2351	Yagami's Key	Valuables
+2352	Dragon's Palace Key	Valuables
+2353	KJ Art Key	Valuables
+2354	L'Amant Key	Valuables
+2355	Honmaruen Key	Valuables
+2356	Genda Law Office Key	Valuables
+2357	Mysterious Key	Valuables
+2420	Medical Kit (S)	Recovery Items
+2421	Medical Kit (M)	Recovery Items
+2422	Medical Kit (L)	Recovery Items
+2426	Triple Yokan	Materials/Other
+2427	10-10-1 Charm	Materials/Other
+2428	Lucky Hanafuda Card	Materials/Other
+2429	Blackjack Amulet	Materials/Other
+2430	Bust Amulet	Materials/Other
+2431	Royal Joker Card	Materials/Other
+2432	The Basics of Shogi	Materials/Other
+2433	Nine Gates Tile	Materials/Other
+2435	Tashiro-kun Style	Disguises
+2854	Play Pass	Materials/Other
+2855	Play Pass	Valuables
+2856	Free Pass	Valuables
+2935	Vampire Costume	Disguises
+2950	Akaushimaru's New Recipe	Valuables
+2952	Tailored Suit	Disguises
+2954	Love Star Figure	Valuables
+2956	Takemitsu's Yokan	Recovery Items
+2957	Takemitsu's Sakuramochi	Recovery Items
+2961	Botan	Materials/Other
+2962	Sakura	Materials/Other
+2963	Tsubaki	Materials/Other
+2964	Ume	Materials/Other
+2965	Suzuran	Materials/Other
+2969	Janitorial Uniform	Disguises
+2977	Stakeout Style	Disguises
+2982	Love Star DVD	Valuables
+3002	Koro-nyan (White)	Materials/Other
+3003	Koro-nyan (Blue)	Materials/Other
+3004	Koro-nyan (Pink)	Materials/Other
+3005	Koro-nyan (Cream)	Materials/Other
+3011	Small Screw	Materials/Other
+3012	Exquisite Screw	Materials/Other
+3013	Top Shelf Screw	Materials/Other
+3014	Cheap Plastic	Materials/Other
+3015	Sturdy Plastic	Materials/Other
+3016	High-grade Plastic	Materials/Other
+3017	Shabby Wire	Materials/Other
+3018	Quality Wire	Materials/Other
+3019	High-end Wire	Materials/Other
+3020	Dull Aluminum	Materials/Other
+3021	Sparkling Aluminum	Materials/Other
+3022	Dented Carbon	Materials/Other
+3023	Flexible Carbon	Materials/Other
+3024	Rusted Electrical Wire	Materials/Other
+3025	Clean Electrical Wire	Materials/Other
+3026	Dirty Iron	Materials/Other
+3027	Sturdy Iron	Materials/Other
+3028	Old Circuit	Materials/Other
+3029	Precise Circuit	Materials/Other
+3030	Worn Magnet	Materials/Other
+3031	Strong Magnet	Materials/Other
+3032	Stretched Coil	Materials/Other
+3033	Sturdy Coil	Materials/Other
+3035	Clear Resin	Materials/Other
+3036	Striped Paint	Materials/Other
+3037	Cute Paint	Materials/Other
+3038	Elegant Paint	Materials/Other
+3040	Dragon Paint	Materials/Other
+3041	Master Frame Blueprints	Materials/Other
+3042	Master Propeller Blueprints	Materials/Other
+3043	Master Motor Blueprints	Materials/Other
+3044	Master Turbo Blueprints	Materials/Other
+3045	Master ESC Blueprints	Materials/Other
+3092	Gold Keycard	Valuables
+3093	Koro-nyan (Black)	Materials/Other
+3106	Wiretap	Valuables
+3233	Poppo Showa MFLP	Valuables
+3234	Poppo E. Shichifuku MFLP	Valuables
+3235	Poppo W. Shichifuku MFLP	Valuables
+3236	Poppo Tenkaichi MFLP	Valuables
+3237	Amidst a Dream LP	Valuables
+3243	Dirty Clothes	Disguises
+3261	Pilot Uniform	Disguises
+3262	Tuna	Materials/Other
+3263	Fugu	Materials/Other
+3264	Red Snapper	Materials/Other
+3265	Salmon	Materials/Other
+3266	Blowfish	Materials/Other
+3267	Megalodon	Materials/Other
+3268	Flounder	Materials/Other
+3269	Marlin	Materials/Other
+3270	Crab	Materials/Other
+3271	Goby	Materials/Other
+3272	Squid	Materials/Other
+3273	Coelacanth	Materials/Other
+3274	Pawn	Materials/Other
+3275	Lance	Materials/Other
+3276	Knight	Materials/Other
+3277	Silver General	Materials/Other
+3278	Gold General	Materials/Other
+3279	Bishop	Materials/Other
+3280	Rook	Materials/Other
+3281	Champion King	Materials/Other
+3282	Challenger King	Materials/Other
+3283	Horse Figurine	Materials/Other
+3284	Ebisu Figurine	Materials/Other
+3285	Desktop Houseplant	Materials/Other
+3286	Artificial Flower	Materials/Other
+3287	Pine Tree Bonsai	Materials/Other
+3288	Chinese Vase	Materials/Other
+3289	Decorative Plate	Materials/Other
+3290	Painting: Autumm Avenue	Materials/Other
+3291	Painting: Mountain Reflection	Materials/Other
+3292	Daruma (Red)	Materials/Other
+3293	Daruma (White)	Materials/Other
+3294	Daruma (Blue)	Materials/Other
+3295	Rubber Baseball	Materials/Other
+3296	Soccer Ball	Materials/Other
+3297	Fishing Float	Materials/Other
+3298	Artisanal Shogi Set	Valuables
+3307	Jack Daniel's	Recovery Items
+3309	Asahi Jurokucha	Recovery Items
+3310	Asashi Rokujo Barley Tea	Recovery Items
+3311	Wonda Morning Shot	Recovery Items
+3312	Wonda Gold Low Sugar	Recovery Items
+3313	Mitsuya Cider	Recovery Items
+3314	Bireley's Orange	Recovery Items
+3315	Wilkinson Soda	Recovery Items
+3316	Dodekamin	Recovery Items
+3318	Asahi Super Dry	Recovery Items
+3320	Asahi Orion Draft	Recovery Items
+3326	Nikka Whisky Black Clear	Recovery Items
+3337	Abuntant Oil	Materials/Other
+3338	Spirit of Steel	Valuables
+3339	Secret Technique: Running Palm Strike	Valuables
+3340	Secret Technique: Running Assault	Valuables
+3341	Spiritual Awakening	Valuables
+3342	Rush Training	Valuables
+3343	Mind over Matter	Valuables
+3344	Brains over Brawn	Valuables
+3345	Unofficial D&C Strategy Guide	Valuables
+3346	Unabridged D&C Strategy Guide	Valuables
+3347	Ultimate D&C Strategy Guide	Valuables
+3348	The QR Code Compendium	Valuables
+3349	Ironclad Self Defense	Valuables
+3350	Crisis Preparedness	Valuables
+3351	Art of the Thunder Fist	Valuables
+3352	The Art of Gluttony	Valuables
+3361	Teardrop Earrings	Materials/Other
+3362	Trinity Earrings	Materials/Other
+3363	Heart Earrings	Materials/Other
+3364	Gold Cross Earrings	Materials/Other
+3365	White Pearl Earrings	Materials/Other
+3366	Prima Heart Earrings	Materials/Other
+3367	Star Crossed Earrings	Materials/Other
+3368	Twinkle Heart Ring	Materials/Other
+3369	Midnight Ring	Materials/Other
+3370	Shiny Flower Ring	Materials/Other
+3371	Luxury Timepiece	Materials/Other
+3372	High-end Timepiece	Materials/Other
+3373	Standard Timepiece	Materials/Other
+3374	Potted Plant (Broken)	Materials/Other
+3375	Hug Bomb	Recovery Items
+3376	Hug Bomb Alpha	Recovery Items
+3377	Hug Bomb Beta	Recovery Items
+3378	Hug Bomb Omega	Recovery Items
+3386	Growth Extract	Recovery Items
+3387	Luck Extract	Recovery Items
+3388	Stealth Extract	Recovery Items
+3389	Flash Dancer Extract	Recovery Items
+3390	Fast Fighter Extract	Recovery Items
+3391	Dance Fighter Extract	Recovery Items
+3392	Rejuvenation Extract	Recovery Items
+3393	Die Hard Extract	Recovery Items
+3394	Punch-Out Extract	Recovery Items
+3395	Flowing Willow Extract	Recovery Items
+3396	Thunder Strike Extract	Recovery Items
+3397	Guard Breaker Extract	Recovery Items
+3398	Throw Extract	Recovery Items
+3399	Swing Extract	Recovery Items
+3400	Power Attack Extract	Recovery Items
+3401	Deadly Crane Extract	Recovery Items
+3402	Deadly Tiger Extract	Recovery Items
+3403	Beatdown Extract	Recovery Items
+3404	One-Two Knockout Extract	Recovery Items
+3405	Blazing Barrage Extract	Recovery Items
+3406	Extract Recipe: Growth	Valuables
+3407	Extract Recipe: Luck	Valuables
+3408	Extract Recipe: Stealth	Valuables
+3409	Extract Recipe: Flash Dancer	Valuables
+3410	Extract Recipe: Fast Fighter	Valuables
+3411	Extract Recipe: Dance Fighter	Valuables
+3412	Extract Recipe: Rejuvenation	Valuables
+3413	Extract Recipe: Die Hard	Valuables
+3414	Extract Recipe: Punch-Out	Valuables
+3415	Extract Recipe: Flowing Willow	Valuables
+3416	Extract Recipe: Guard Breaker	Valuables
+3417	Extract Recipe: Thunder Strike	Valuables
+3418	Extract Recipe: Throw	Valuables
+3419	Extract Recipe: Swing	Valuables
+3420	Extract Recipe: Power Attack	Valuables
+3421	Extract Recipe: Deadly Crane	Valuables
+3422	Extract Recipe: Deadly Tiger	Valuables
+3423	Extract Recipe: Beatdown	Valuables
+3424	Extract Recipe: One-Two Knockout	Valuables
+3425	Extract Recipe: Blazing Barrage	Valuables
+3426	Mysterious Gourd	Valuables
+3427	Mugwort	Materials/Other
+3428	Earthworm	Materials/Other
+3430	Pebble	Materials/Other
+3431	Four Leaf Clover	Materials/Other
+3432	Mysterious Stone	Materials/Other
+3433	Red Pyroxene	Materials/Other
+3434	Blue Pyroxene	Materials/Other
+3435	Yellow Pyroxene	Materials/Other
+3436	Rainbow Pyroxene	Materials/Other
+3437	Prize Medal	Materials/Other
+3438	Pachinko Ball	Materials/Other
+3439	Small Metal Plate	Materials/Other
+3440	Empty Bottle	Materials/Other
+3441	Stretchy Rubber	Materials/Other
+3442	Scratched Mirror	Materials/Other
+3443	Bullet	Materials/Other
+3445	Dirty Cloth	Materials/Other
+3446	Cigarette Butt	Materials/Other
+3447	Eye of the Dragon	Materials/Other
+3450	Sacred Rot	Materials/Other
+3451	Beautiful Seashell	Materials/Other
+3460	Secret Technique: Reverse Beatdown	Valuables
+3461	Secret Technique: Frontal Beatdown	Valuables
+3462	Secret Technique: Bat Appropriation	Valuables
+3464	Twig	Materials/Other
+3465	Well-used Rubber	Materials/Other
+3466	Sacred Wood	Materials/Other
+3467	Sacred Tree	Materials/Other
+3468	Solid Paint (White)	Materials/Other
+3469	Solid Paint (Black)	Materials/Other
+3470	Solid Paint (Blue)	Materials/Other
+3471	Solid Paint (Red)	Materials/Other
+3472	Checkered Paint	Materials/Other
+3473	Floral Paint	Materials/Other
+3474	Colorful Paint	Materials/Other
+3475	Camo Paint (Green)	Materials/Other
+3476	Camo Paint (Brown)	Materials/Other
+3477	Camo Paint (Blue)	Materials/Other
+3479	Anime Paint	Materials/Other
+3480	Free Pass Voucher 1	Valuables
+3481	Free Pass Voucher 2	Valuables
+3482	Free Pass Voucher 3	Valuables
+3483	Free Pass Voucher 4	Valuables
+3484	Free Pass Voucher 5	Valuables
+3485	Free Pass Voucher 6	Valuables
+3486	Super Cup 1.5x Pork Kimchi Ramen	Recovery Items
+3487	Yakisoba Mochichi	Recovery Items
+3488	Drink to the Last Drop Dandan Noodles	Recovery Items
+3495	Seven Stars	Materials/Other
+3496	Panties	Valuables
+3534	Warm Clothes	Valuables
+3549	Natural Paint	Materials/Other
+3603	QR Code: Gotcha!	Valuables
+3604	QR Code: Hang in There!	Valuables
+3605	QR Code: Toraotoshi	Valuables
+3606	QR Code: Learn Remotely!	Valuables
+3607	QR Code: Ultimate King Tournament!	Valuables
+3608	Luxury Meal Ticket	Valuables
+3609	[Launch Edition] Staminan X	Recovery Items
+3610	[Launch Edition] Hug Bomb Alpha	Recovery Items
+3611	[Launch Edition] Medical Kit (S)	Recovery Items
+3612	[Bonus Code] Toughness Z	Recovery Items
+3613	[Bonus Code] Tauriner	Recovery Items
+3614	[Bonus Code] Staminan X	Recovery Items
+3615	[Bonus Code] Hug Bomb	Recovery Items
+3616	[Bonus Code] Hug Bomb Alpha	Recovery Items
+3617	[Bonus Code] Hug Bomb Beta	Recovery Items
+3618	[Bonus Code] Hug Bomb Omega	Recovery Items
+3619	[Bonus Code] Medical Kit (S)	Recovery Items
+3620	[Bonus Code] Medical Kit (M)	Recovery Items
+3621	[Bonus Code] Medical Kit (L)	Recovery Items
+3622	[Bonus Code] Seaweed Onigiri	Recovery Items
+3623	[Bonus Code] Tuna Onigiri	Recovery Items
+3624	[Bonus Code] Salmon Onigiri	Recovery Items
+3625	[Bonus Code] Fresh Lettuce Sandwich	Recovery Items
+3626	[Bonus Code] Tuna & Egg Sandwich	Recovery Items
+3627	[Bonus Code] Oden	Recovery Items
+3628	[Bonus Code] Bento Lunch Set	Recovery Items
+3629	[Bonus Code] Special Yakisoba	Recovery Items
+3630	[Bonus Code] Pork Tonkatsu Bento	Recovery Items
+3631	[Bonus Code] Healthy Balanced Bento	Recovery Items
+3632	[Bonus Code] Luxury Yakiniku Bento	Recovery Items
+3633	[Bonus Code] Sushi Set	Recovery Items
+3634	[Bonus Code] Sake	Recovery Items
+3649	[DLC] Play Pass	Materials/Other
+3650	Energy Ball Extract (Infinite use)	Recovery Items
+3651	Energy Explosion Extract (Infinite use)	Recovery Items
+3652	Instant Kill Extract (Infinite use)	Recovery Items
+3653	Fire Element Extract (Infinite use)	Recovery Items
+3654	Lightning Element Extract (Infinite use)	Recovery Items
+3655	Heavenstrike Extract (Infinite use)	Recovery Items
+3656	Fighting Spirit Dance Extract (Infinite use)	Recovery Items
+3657	Dance of Life Extract (Infinite use)	Recovery Items
+3658	Mystical Dance Extract (Infinite use)	Recovery Items
+3674	Haruka Sawamura So Much More! Figurine	Materials/Other
+3675	Haruka Sawamura DREAMLINE Figurine	Materials/Other
+3676	Ono Michio Figurine	Materials/Other
+3677	Bram Sylvania III Figurine	Materials/Other
+3678	King Koro-nyan	Materials/Other
+3679	Racing Jacket	Materials/Other
+3680	Refined Lady	Materials/Other
+3681	Kimono	Materials/Other
+3682	Jacket	Materials/Other
+[/ID]

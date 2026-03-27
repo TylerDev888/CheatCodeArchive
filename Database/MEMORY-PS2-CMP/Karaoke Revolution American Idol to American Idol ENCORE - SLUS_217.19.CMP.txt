@@ -1,0 +1,25 @@
+^1 = Hash: AF 65 67 56 BE CD AD 9C 90 9B B8 07 77 0D AE 1F 8C 90 FB BE 
+^2 = GameID: SLUS_217.19
+^3 = NAME: Karaoke Revolution: American Idol to American Idol ENCORE - SLUS_217.19.CMP
+%Credits: Lee4:Porting
+!Masters:
++Enable Code (MUST BE ON)
+$902CCC40 00832021
+!!
++Always Max Crowd Meter
+$20127698 3C014000
+$2012769C 44810000
+$20126B38 00000000
++Access All Locked Clothing
+$2019EEDC 00000000
++Unlock All Clothing
+$2019EEBC 24020001
+$2019EEC0 AC82000C
+!HIGH SCORES CODES
++Infinite Total Points
+$10414028 0000FFFF
++Max Total Points
+$20414028 05F5E0FF
++Have All Songs Completed
+$20414088 00000028
+!!

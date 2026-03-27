@@ -1,0 +1,284 @@
+^2 = GameID: CUSA16014,CUSA08309,CUSA13348,CUSA15972
+^3 = NAME: Utawarerumono: Prelude to the Fallen
+^SECONDLAYER: YES
+^4 = FILE: slot000\GAME-(100|0[1-9][0-9]|00[1-9])\.DAT
+{More Places for Codes: https://web.save-editor.com/bbs/patchcode/ps4/bbs.cgi?list=pickup&num=15637# , https://web.save-editor.com/bbs/patchcode/ps4/bbs.cgi?list=pickup&num=15638# }
++ALL UNIT MOVEMENT [14]{<ul><li><b>Note 1:</b> Resets if you change a character’s equipment. Only shows as modded in the BP allocation menu. Can be set higher—change the <code>0E</code>.</li></ul>}
+$[REGION]
+$4800B8B4 0000000E
+$40220120 00000000
++ALL UNITS current and max BP [50000]{<ul><li><b>Note 2:</b> BP you have to use, and the total you’ve earned in-game for that character (hidden).</li></ul>}
+$[REGION]
+$4A00B90A C350C350
+$40220120 00000000
++All units 255 BASE Stats{<ul><li><b>Note 3:</b> These stats might reset when leveling up. Base and BP stats are combined in-game.</li></ul>}
+$[REGION]
+$4A00B8F8 00FF00FF
+$40220120 00000000
+$4800B8FC 000000FF
+$40220120 00000000
++All units 255 BP Stats{<ul><li><b>Note 4:</b> Having a high Max BP helps prevent these stats from resetting. You can set stats as high as you want, but above <code>999</code> it will show <code>???</code> in-game.</li></ul>}
+$[REGION]
+$4A00B904 00FF00FF
+$40220120 00000000
+$4800B908 000000FF
+$40220120 00000000
++Items and Equipment
+$[REGION]
+$4800E57B 0000000A
+$40470004 00000000
+!Characters: 
++Level
+$[REGION]
+$92000000 [CHARA]
+$18000000 0000[AMOUNT:0063:HEX:BIG]
++Exp
+$[REGION]
+$92000000 [CHARA]
+$28000014 [AMOUNT:0063:HEX:BIG]
++Health 1
+$[REGION]
+$92000000 [CHARA]
+$18000018 0000[AMOUNT:270F:HEX:BIG]
+$18000060 0000[AMOUNT:270F:HEX:BIG]
++Movement
+$[REGION]
+$92000000 [CHARA]
+$18000020 0000[AMOUNT:270F:HEX:BIG]
++Base Attack
+$[REGION]
+$92000000 [CHARA]
+$18000064 0000[AMOUNT:270F:HEX:BIG]
++Base Defense
+$[REGION]
+$92000000 [CHARA]
+$18000066 0000[AMOUNT:270F:HEX:BIG]
++Base Magic Defence
+$[REGION]
+$92000000 [CHARA]
+$18000068 0000[AMOUNT:270F:HEX:BIG]
++Bp Attack
+$[REGION]
+$92000000 [CHARA]
+$18000070 0000[AMOUNT:270F:HEX:BIG]
++Bp Defense
+$[REGION]
+$92000000 [CHARA]
+$18000072 0000[AMOUNT:270F:HEX:BIG]
++Bp Magic Defence
+$[REGION]
+$92000000 [CHARA]
+$18000074 0000[AMOUNT:270F:HEX:BIG]
++Current Bp
+$[REGION]
+$92000000 [CHARA]
+$18000076 0000[AMOUNT:270F:HEX:BIG]
+$18000078 0000[AMOUNT:270F:HEX:BIG]
++Equipment
+$[REGION]
+$92000000 [CHARA]
+$180000AC 0000[AMOUNT:270F:HEX:BIG]
++Item 2
+$[REGION]
+$92000000 [CHARA]
+$180000AE 0000[AMOUNT:270F:HEX:BIG]
++Item 2
+$[REGION]
+$92000000 [CHARA]
+$180000B0 0000[AMOUNT:270F:HEX:BIG]
++Costume
+$[REGION]
+$92000000 [CHARA]
+$180000B2 0000[AMOUNT:270F:HEX:BIG]
+!!
+!Items:{WIP - Offsets E578	First Item Id,E57B	First Item Quantity,E57C	Second Item Id,E57F	Second Item Quantity}
+!!
+^6 = MODS:
+[REGION]
+VALUE>REGION
+95000000 00000000	JPN/KOR CUSA08309 CUSA13348 
+95000000 000001F8	USA/EU CUSA16014 CUSA15972
+[/REGION]
+[CHARA]
+VALUE>NAME
+0000B894	Character Slot 1
+0000B9B4	Character Slot 2
+0000BAD4	Character Slot 3
+0000BBF4	Character Slot 4
+0000BD14	Character Slot 5
+0000BE34	Character Slot 6
+0000BF54	Character Slot 7
+0000C074	Character Slot 8
+0000C194	Character Slot 9
+0000C2B4	Character Slot 10
+0000C3D4	Character Slot 11
+0000C4F4	Character Slot 12
+0000C614	Character Slot 13
+0000C734	Character Slot 14
+0000C854	Character Slot 15
+0000C974	Character Slot 16
+0000CA94	Character Slot 17
+0000CBB4	Character Slot 18
+0000CCD4	Character Slot 19
+0000CDF4	Character Slot 20
+0000CF14	Character Slot 21
+0000D034	Character Slot 22
+0000D154	Character Slot 23
+0000D274	Character Slot 24
+0000D394	Character Slot 25
+0000D4B4	Character Slot 26
+0000D5D4	Character Slot 27
+0000D6F4	Character Slot 28
+0000D814	Character Slot 29
+0000D934	Character Slot 30
+0000DA54	Character Slot 31
+0000DB74	Character Slot 32
+0000DC94	Character Slot 33
+0000DDB4	Character Slot 34
+[/CHARA]
+[ITEM1]
+VALUE>NAME>INFO
+00	Wind God Sandals	Move Up by 1. Sandals knitted as an offering to the wind god. Walk without tiring.
+01	Wind God Tabi	Move Up by 2. Tabi socks with the wind god's power. Move with ease in rough terrain.
+02	Wind God Mitama	Speed Up slightly. Magatama shaped like the wind god. Manipulates airflow.
+03	Wind God Kushi	Mitama - Speed Up. Magatama made of marbled ore. Manipulates the atmosphere around you.
+04	Soldier's Tupai	ATK Up slightly. A sash to hold a common soldier's clothing. It is made of durable material.
+05	Kongou Sen	ATK Up. Hakuowlo's fan, decorated with a diamond. Has purification powers.
+06	Soumetsuga	ATK Up. A pair of matching blades. Made from Kouronana fangs.
+07	Healing Kit	HEAL Up. A kit carried by apothecaries. Filled with various kinds of medicine.
+08	Senjin Kyuu	ATK Up. A powerful exorcist's bow. Its arrows turn into lightning bolts.
+09	Bajin	ATK Up. A sword made from extremely heavy ore. One swing can crush the world.
+0A	Shippuu	ATK Up. A katana that houses the wind god. Every swing is followed by a gale.
+0B	Kosouga	ATK Up. Special equipment for Mukkuru. The blades mimic fangs and claws that rip through wind.
+0C	Reppa Sou	ATK Up. A spear that rested beneath a waterfall after cleaving the river.
+0D	Goushin Chokutou	ATK Up. A straight sword, twice as heavy as a katana. Its original blade is said to be sealed within.
+0E	Uchou Sen	Damage with chance to inflict poison. Hakuowlo's poison-laced fan. Handle with care.
+0F	Souja Tou	Damage with chance to inflict poison. Twin blades inspired by venomous snakes. The green blades drip poison.
+10	Shiki no Genkyuu	Damage with chance to inflict poison. A bow with poison arrows. Victims are led to death by a beautiful woman.
+11	Hookasen	Damage with chance to inflict dazed. A sword forged by 6 smiths who each engraved a poem along the blade.
+12	Hoozuki Hou	Damage with chance to inflict dazed. A sword that is over 6 feet long. It's named after the sound it makes.
+13	Koukyouga	Damage and lowers zeal. Special equipment for Mukkuru. Amplifies its terrifying roar, crushing enemy morale.
+14	Gousen	Damage and lowers zeal. A katana that was imbued with lightning. Can be drawn at godlike speed.
+15	Ouka Bui	Damage and lowers zeal. A red spear with a burning tip. Sparks fly when it is swung.
+16	Armor Piercer	ATK Up against Abh-kamus. A thin sword that is designed to pierce through gaps in armor.
+17	Armor Crusher	ATK Up against Abh-kamus. Special equipment for Mukkuru. Its hooked claws can crush armor plates.
+18	Festival Staff	Prevents 1 level of ability down from zeal loss. Staff made from a thousand-year-old sacred tree that symbolizes life.
+19	Festival Cup	Prevents 2 levels of ability down from zeal loss. A drinking glass that enhances the drink, boosting your spirit.
+1A	Festival Container	Prevents 3 levels of ability down from zeal loss. It's engraved with the four gods, and imbued with the desire to rule everything.
+1B	Festival Mirror	Prevents 4 levels of ability down from zeal loss. A divine mirror that portrays those it reflects in moments of great courage.
+1C	Soldier's Aperyu	DEF Up. A leather coat. The most basic piece of equipment for a common soldier.
+1D	Earth God's Armor	DEF Up, attack spell immunity, cures ailments. Armor that possesses the earth god's power. Used by samurai generals.
+1E	Headband of Courage	Slightly increases zeal earned. A metal headband with a symbol engraved in the center. Boosts morale.
+1F	Helmet of Courage	Increases zeal earned. A helmet engraved with a mark of bravery. Given to proven combatants.
+20	War Dance Ruri	Begin battle with zeal. A necklace worn in pre-battle dances. The blue jewel raises spirits.
+21	War Dance Joruri	Start the battle with a set amount of zeal. A necklace worn in pre-battle dances. The clear jewel boosts morale.
+22	Fire God Charm	Changes unit's element to fire. A charm with a drawing of the fire god. Imbued with his protection.
+23	Water God Charm	Changes unit's element to water. A charm with a drawing of the water god. Imbued with his protection.
+24	Wind God Charm	Changes unit's element to wind. A charm with a drawing of the wind god. Imbued with his protection.
+25	Earth God Charm	Changes unit's element to earth. A charm with a drawing of the earth god. Imbued with his protection.
+26	Kantokoro Charm	Boosts elemental adv/dis modifiers. A charm with 1 of the 3 vows to the gods. Strengthens blessings.
+27	Moshirikoro Charm	Lowers elemental adv/dis modifiers. A charm with 1 of the 3 vows to the gods. Weakens blessings.
+28	Kotankara Charm	Nullifies elemental effects. A charm with 1 of the 3 vows to the gods. Eliminates blessings.
+29	Yokagura Drum	Halves the chance to get ailments. A drum used in kagura performances. Eases suffering.
+2A	Satokagura Flute	Immunity to ailments. A flute used in kagura performances. Protects against disasters.
+2B	Fire God Ring	Grants a fixed ATK, single target fire spell. A ring with the fire god's power. A small flame flickers in the gem.
+2C	Fire God Bracelet	Grants a fixed ATK, area fire spell. A bracelet with the fire god's power. The gem emits a flame.
+2D	Water God Ring	Grants a fixed ATK, single target water spell. A ring with the water god's power. The water in the gem oscillates.
+2E	Water God Bracelet	Grants a fixed ATK, area water spell. A bracelet with the water god's power. The gem has swirling water.
+2F	Wind God Ring	Grants a fixed ATK, single target wind spell. A ring with the wind god's power. The gem emits a gentle breeze.
+30	Wind God Bracelet	Grants a fixed ATK, area wind spell. A bracelet with the wind god's power. The gem affects atmospheric pressure.
+31	Earth God Ring	Grants a fixed ATK, single target earth spell. A ring with the earth god's power. A small rock floats inside the gem.
+32	Earth God Bracelet	Grants a fixed ATK, area earth spell. A bracelet with the earth god's power. The gem makes the ground quake.
+33	Yaoshikepu Bag	Boosts the range of items. A bag woven in many layers. Said to be woven by a spider in woman form.
+34	Water God Tears	Slightly increases BP earned from enemies. A stone said to be crystalized tears of the water god.
+35	Kimun Stole	Increases EXP earned from attacks, heals, etc. A scarf made from a violent beast. The beast's spirit encourages battle.
+36	Yucatte Horn	Reduces chance enemies will attack unit. An ornament made from a Yucatte horn. The charm is captivating.
+37	Situnpe Bell	Greatly reduces chance enemies will attack unit. A sacred bell. Its ring disperses all animosity.
+38	Shune	Kenya - Restores slight HP. An extract made from shune sprouts. It's slightly bitter.
+39	Shune	Nukui - Restores moderate HP. A medicinal pill made from ground shune sprouts. It's quite bitter.
+3A	Shune	Un'yaku - Restores full HP. A secret medicine made from boiled shune sprouts. It's very bitter.
+3B	Sovuyapi	N'kuri - Slightly increases zeal. A stimulant made from boiled tsetse grass. It's somewhat nutritious.
+3C	Amamu	Uchu - Moderately increases zeal. A stimulant made from dried kuko fruit. It's quite nutritious.
+3D	Keutuaman	Maxes out zeal. A stimulant made from helapetta powder. It's extremely nutritious.
+3E	Sriten'yusiri	Cures poison and restores HP. A medicine made from sriten'yu roots. It neutralizes poison.
+3F	Turepu Stem	Cures dazed and restores HP. A potion made of brewed ubayuri stems. It wakes you up.
+40	Halnire Leaf	Cures confused and restores HP. A medicine made from halnire leaves. It calms you down.
+41	Purple Amber Miracle Medicine	Cures all ailments and restores full HP. A secret medicine made from rare, purple amber.
+42	Water Life Nostrum	Increases ATK of your units. A mysterious secret medicine. Only a few people can synthesize it.
+43	Sun Fire Nostrum	Increases DEF of your units. A mysterious secret medicine. Only a few people can synthesize it.
+44	Earth Armor Nostrum	Increases MDEF of your units. A mysterious secret medicine. Only a few people can synthesize it.
+45	Dream Fantasy Nostrum	Increases ATK, DEF, and MDEF of your units. A mysterious secret medicine. Only a few people can synthesize it.
+46	Tarachi	Tamuhito - Able to revive once when HP is reduced to 0. A strange doll that diverts an opponent's killer instinct to it.
+47	White Cloth	A long, white cloth that Eruruu wraps around her body.
+48	Military Primer	A book that details Benawi's combat experiences.
+49	Large Sake Bottle	Karulau's favorite container. It can hold roughly 1 sho.
+4A	Nuwangi's Hatchet	Nuwangi's personal hatchet. Its cutting edge is slightly chipped.
+4B	Pressed Flowers	An eruruu and aruruu flower that have been dried and pressed in a book.
+4C	Munto's Feather	A white feather from one of Munto's wings. It's a little dried out.
+4D	Ulthury's Feather	A white feather from one of Ulthury's wings. It's soft and fluffy.
+4E	Teoro's Axe	A memento of Teoro. The edge is completely worn out, making it unusable.
+4F	Flashy Coat	A fancy coat that Sasante loved to wear. Made from high-quality cloth.
+50	Blood	Stained Sash -  A cloth that was wrapped around Suonkasu's head.
+51	Hexagonal Hairclips	A pair of hexagonal hairclips that Kamuchataal wore.
+52	Half	Eaten Fruit -  A fruit that Gomuta carried with him. It's a little fermented.
+53	Jittoku Tools	A tool that Nopon carried with him. It has various tools within it.
+54	Black Notebook	Hauenkua's notebook. All of the entries seem angry.
+55	Battle	Worn Headband -  Hien's metal headband. It helps focus your thoughts when worn.
+56	Battle	Worn Eyepatch -  Genjimaru's eyepatch. It's pretty old and worn out.
+57	Camyu's Feather	A black feather from one of Camyu's wings. It's soft and fluffy.
+58	Diamond Weight	A diamond weight that Kurou used to train with.
+59	Wood	Carved Doll -  A doll that Touka cherishes.
+5A	Paper Fan	A large fan made out of paper. It can't be used as a weapon.
+5B	Pot	A pot that contains a thick, golden liquid.
+5C	Doujin Book	It seems like an ancient, fan-created manuscript.
+5D	Small Sachet	A sachet that Kanhordari carried. The fragrance is quite lovely.
+5E	Hair Conditioner	Expensive hair conditioner that Inkalla used to soften his hair.
+5F	Yuzuha's Hair	A strand of Yuzuha's hair. It feels soft and delicate around your finger.
+60	Condiments	A light yellow condiment powder. Everyone likes its spiciness.
+61	Stuffed Mukkuru Toy	A stuffed plushie of Mukkuru as a cub.
+62	Striped Tail	Believed to have been used as an ornament in ancient times.
+63	Hakuowlo's Mask	Proof that you've cleared Utawarerumono.
+64	Haku's Costume	Clothes received from Kuon. Haku only.
+65	Kuon's Costume	Common clothes in Tuskur. Kuon only.
+66	Nekone's Costume	Yamato school uniform. Nekone only.
+67	Ukon's Costume	Stylish kimono. Ukon only.
+68	Rulutieh's Costume	Kujyuri villager's clothes. Rulutieh only.
+69	Anju's MoD Clothes	
+6A	Uru &amp; Sara's MoD Clothes	
+6B	Atuy's MoD Clothes	
+6C	Nosuri's MoD Clothes	
+6D	Munechika's MoD Clothes	
+6E	Fumirul's MoD Clothes	
+6F	Ougi's MoD Clothes	
+70	Kiwru's MoD Clothes	
+71	Jachdwalt's MoD Clothes	
+72	Maroro's MoD Clothes	
+73	Mikazuchi's MoD Clothes	
+74	Samurai Costume	Foreign samurai costume. Tamaki only.
+75	Samurai Costume	Foreign samurai costume. Sasara only.
+76	Hakutor's MoD Clothes	
+77	Haku's Jade Costume	Clothes received from Kuon. Haku only.
+78	Kuon's Orange Costume	Common clothes in Tuskur. Kuon only.
+79	Nekone's Navy Blue Costume	Yamato school uniform. Nekone only.
+7A	Ukon's Reddish	Brown Costume - Stylish kimono. Ukon only.
+7B	Rulutieh's Sky Blue Costume	Kujyuri villager's clothes. Rulutieh only.
+7C	Anju's Alternate MoD Clothes	
+7D	Uru &amp; Sara's Alternate MoD Clothes	
+7E	Atuy's Alternate MoD Clothes	
+7F	Nosuri's Alternate MoD Clothes	
+80	Munechika's Alternate MoD Clothes	
+81	Fumirul's Alternate MoD Clothes	
+82	Ougi's Alternate MoD Clothes	
+83	Kiwru's Alternate MoD Clothes	
+84	Jachdwalt's Alternate MoD Clothes	
+85	Maroro's Alternate MoD Clothes	
+86	Mikazuchi's Alternate MoD Clothes	
+87	Nuko Swimsuit	A swimsuit that resembles a nuko. Tamaki only.
+88	Unu Swimsuit	A swimsuit that resembles an unu. Sasara only.
+89	Hakutor's Alternate MoD Clothes	
+8A	BP Miracle Medicine	Restores full HP, and grants 250 BP. Water that brings out latent power. Its bitterness can make you faint.
+[/ITEM1]
+	
+
+
+	

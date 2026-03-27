@@ -1,0 +1,2402 @@
+^3 = NAME: Dynasty Warriors 5 (Pal-Unk)
+^2 = GameID: SLES-53339
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F011109C 0011109F
+!!
+!Jokers:
++Player 1 Controller
+%Credits: luc-ita
+$D031BE1C 0000????
++Player 2 Controller
+%Credits: luc-ita
+$D031BE9C 0000????
+!!
++1Hitkill {<I>Hold R2 While Hitting Enemies To Activate The Effect | Use With &Quot;Player 1 Invulnerable&Quot;</I>}
+%Credits: luc-ita
+$2018FB44 A6020226
+$D031BE1C 0000FDFF
+$2018FB44 A6000226
+$D031BE1C 00007DFF
+$2018FB44 A6000226
+$D031BE1C 0000DDFF
+$2018FB44 A6000226
+$D031BE1C 0000EDFF
+$2018FB44 A6000226
+!1st Bodyguard Codes:
++Max Experience
+%Credits: Codejunkies
+$10469B60 0000FFFF
++Max Life
+%Credits: Codejunkies
+$10469B62 00007FFF
++Max Ratings
+%Credits: Codejunkies
+$10469B5C 00000A0A
++Max Stats
+%Credits: Codejunkies
+$20469B64 FFFFFFFF
++Special Abilities
+%Credits: Codejunkies
+$00469B5E 000000FF
+!!
+!1st Slot Effect Modifier:
++Atk
+%Credits: Codejunkies
+$00468948 00000002
++Atk
+%Credits: Codejunkies
+$00468B44 00000002
++Atk
+%Credits: Codejunkies
+$00468C34 00000002
++Atk
+%Credits: Codejunkies
+$00468BE4 00000002
++Atk
+%Credits: Codejunkies
+$00468AF4 00000002
++Atk
+%Credits: Codejunkies
+$00468A54 00000002
++Atk
+%Credits: Codejunkies
+$00468B94 00000002
++Atk
+%Credits: Codejunkies
+$004689A6 00000002
++Atk
+%Credits: Codejunkies
+$00468998 00000002
++Atk
+%Credits: Codejunkies
+$00468964 00000002
++Atk
+%Credits: Codejunkies
+$00468956 00000002
++Atk
+%Credits: Codejunkies
+$00468A04 00000002
++Atk
+%Credits: Codejunkies
+$00468972 00000002
++Bow
+%Credits: Codejunkies
+$00468B44 00000005
++Bow
+%Credits: Codejunkies
+$00468964 00000005
++Bow
+%Credits: Codejunkies
+$00468AF4 00000005
++Bow
+%Credits: Codejunkies
+$00468C34 00000005
++Bow
+%Credits: Codejunkies
+$00468B94 00000005
++Bow
+%Credits: Codejunkies
+$00468A54 00000005
++Bow
+%Credits: Codejunkies
+$00468948 00000005
++Bow
+%Credits: Codejunkies
+$004689A6 00000005
++Bow
+%Credits: Codejunkies
+$00468972 00000005
++Bow
+%Credits: Codejunkies
+$00468956 00000005
++Bow
+%Credits: Codejunkies
+$00468A04 00000005
++Bow
+%Credits: Codejunkies
+$00468998 00000005
++Bow
+%Credits: Codejunkies
+$00468BE4 00000005
++Charge
+%Credits: Codejunkies
+$00468B44 00000009
++Charge
+%Credits: Codejunkies
+$00468964 00000009
++Charge
+%Credits: Codejunkies
+$00468AF4 00000009
++Charge
+%Credits: Codejunkies
+$00468C34 00000009
++Charge
+%Credits: Codejunkies
+$00468B94 00000009
++Charge
+%Credits: Codejunkies
+$00468A54 00000009
++Charge
+%Credits: Codejunkies
+$00468948 00000009
++Charge
+%Credits: Codejunkies
+$004689A6 00000009
++Charge
+%Credits: Codejunkies
+$00468972 00000009
++Charge
+%Credits: Codejunkies
+$00468956 00000009
++Charge
+%Credits: Codejunkies
+$00468A04 00000009
++Charge
+%Credits: Codejunkies
+$00468998 00000009
++Charge
+%Credits: Codejunkies
+$00468BE4 00000009
++Def
+%Credits: Codejunkies
+$00468A54 00000003
++Def
+%Credits: Codejunkies
+$00468C34 00000003
++Def
+%Credits: Codejunkies
+$00468BE4 00000003
++Def
+%Credits: Codejunkies
+$00468B94 00000003
++Def
+%Credits: Codejunkies
+$00468B44 00000003
++Def
+%Credits: Codejunkies
+$00468AF4 00000003
++Def
+%Credits: Codejunkies
+$00468A04 00000003
++Def
+%Credits: Codejunkies
+$00468972 00000003
++Def
+%Credits: Codejunkies
+$00468964 00000003
++Def
+%Credits: Codejunkies
+$00468956 00000003
++Def
+%Credits: Codejunkies
+$00468948 00000003
++Def
+%Credits: Codejunkies
+$004689A6 00000003
++Def
+%Credits: Codejunkies
+$00468998 00000003
++Fill
+%Credits: Codejunkies
+$00468AF4 00000008
++Fill
+%Credits: Codejunkies
+$00468A54 00000008
++Fill
+%Credits: Codejunkies
+$00468BE4 00000008
++Fill
+%Credits: Codejunkies
+$00468B94 00000008
++Fill
+%Credits: Codejunkies
+$00468B44 00000008
++Fill
+%Credits: Codejunkies
+$004689A6 00000008
++Fill
+%Credits: Codejunkies
+$00468A04 00000008
++Fill
+%Credits: Codejunkies
+$00468972 00000008
++Fill
+%Credits: Codejunkies
+$00468964 00000008
++Fill
+%Credits: Codejunkies
+$00468956 00000008
++Fill
+%Credits: Codejunkies
+$00468948 00000008
++Fill
+%Credits: Codejunkies
+$00468998 00000008
++Fill
+%Credits: Codejunkies
+$00468C34 00000008
++Horse
+%Credits: Codejunkies
+$00468BE4 00000006
++Horse
+%Credits: Codejunkies
+$00468B94 00000006
++Horse
+%Credits: Codejunkies
+$00468B44 00000006
++Horse
+%Credits: Codejunkies
+$00468AF4 00000006
++Horse
+%Credits: Codejunkies
+$00468A54 00000006
++Horse
+%Credits: Codejunkies
+$004689A6 00000006
++Horse
+%Credits: Codejunkies
+$00468A04 00000006
++Horse
+%Credits: Codejunkies
+$00468998 00000006
++Horse
+%Credits: Codejunkies
+$00468972 00000006
++Horse
+%Credits: Codejunkies
+$00468964 00000006
++Horse
+%Credits: Codejunkies
+$00468956 00000006
++Horse
+%Credits: Codejunkies
+$00468948 00000006
++Horse
+%Credits: Codejunkies
+$00468C34 00000006
++Life
+%Credits: Codejunkies
+$00468A54 00000000
++Life
+%Credits: Codejunkies
+$00468C34 00000000
++Life
+%Credits: Codejunkies
+$00468BE4 00000000
++Life
+%Credits: Codejunkies
+$00468B94 00000000
++Life
+%Credits: Codejunkies
+$00468B44 00000000
++Life
+%Credits: Codejunkies
+$00468AF4 00000000
++Life
+%Credits: Codejunkies
+$00468A04 00000000
++Life
+%Credits: Codejunkies
+$00468972 00000000
++Life
+%Credits: Codejunkies
+$00468964 00000000
++Life
+%Credits: Codejunkies
+$00468956 00000000
++Life
+%Credits: Codejunkies
+$00468948 00000000
++Life
+%Credits: Codejunkies
+$004689A6 00000000
++Life
+%Credits: Codejunkies
+$00468998 00000000
++Luck
+%Credits: Codejunkies
+$00468C34 00000007
++Luck
+%Credits: Codejunkies
+$00468AF4 00000007
++Luck
+%Credits: Codejunkies
+$00468BE4 00000007
++Luck
+%Credits: Codejunkies
+$00468B94 00000007
++Luck
+%Credits: Codejunkies
+$00468972 00000007
++Luck
+%Credits: Codejunkies
+$00468A54 00000007
++Luck
+%Credits: Codejunkies
+$00468964 00000007
++Luck
+%Credits: Codejunkies
+$004689A6 00000007
++Luck
+%Credits: Codejunkies
+$00468A04 00000007
++Luck
+%Credits: Codejunkies
+$00468956 00000007
++Luck
+%Credits: Codejunkies
+$00468948 00000007
++Luck
+%Credits: Codejunkies
+$00468998 00000007
++Luck
+%Credits: Codejunkies
+$00468B44 00000007
++Musou
+%Credits: Codejunkies
+$00468A04 00000001
++Musou
+%Credits: Codejunkies
+$00468C34 00000001
++Musou
+%Credits: Codejunkies
+$00468BE4 00000001
++Musou
+%Credits: Codejunkies
+$00468AF4 00000001
++Musou
+%Credits: Codejunkies
+$00468A54 00000001
++Musou
+%Credits: Codejunkies
+$00468964 00000001
++Musou
+%Credits: Codejunkies
+$00468B94 00000001
++Musou
+%Credits: Codejunkies
+$00468998 00000001
++Musou
+%Credits: Codejunkies
+$00468972 00000001
++Musou
+%Credits: Codejunkies
+$00468956 00000001
++Musou
+%Credits: Codejunkies
+$00468948 00000001
++Musou
+%Credits: Codejunkies
+$004689A6 00000001
++Musou
+%Credits: Codejunkies
+$00468B44 00000001
++Spd
+%Credits: Codejunkies
+$004689A6 00000004
++Spd
+%Credits: Codejunkies
+$00468B94 00000004
++Spd
+%Credits: Codejunkies
+$00468B44 00000004
++Spd
+%Credits: Codejunkies
+$00468AF4 00000004
++Spd
+%Credits: Codejunkies
+$00468A04 00000004
++Spd
+%Credits: Codejunkies
+$00468964 00000004
++Spd
+%Credits: Codejunkies
+$00468998 00000004
++Spd
+%Credits: Codejunkies
+$00468956 00000004
++Spd
+%Credits: Codejunkies
+$00468948 00000004
++Spd
+%Credits: Codejunkies
+$00468BE4 00000004
++Spd
+%Credits: Codejunkies
+$00468972 00000004
++Spd
+%Credits: Codejunkies
+$00468A54 00000004
++Spd
+%Credits: Codejunkies
+$00468C34 00000004
+!!
+!2nd Bodyguard Codes:
++Max Experience
+%Credits: Codejunkies
+$10469B8C 0000FFFF
++Max Life
+%Credits: Codejunkies
+$10469B8E 00007FFF
++Max Ratings
+%Credits: Codejunkies
+$10469B88 00000A0A
++Max Stats
+%Credits: Codejunkies
+$20469B90 FFFFFFFF
++Special Abilities
+%Credits: Codejunkies
+$00469B8A 000000FF
+!!
+!2nd Slot Effect Modifier:
++Atk
+%Credits: Codejunkies
+$0046894A 00000002
++Atk
+%Credits: Codejunkies
+$00468B46 00000002
++Atk
+%Credits: Codejunkies
+$00468C36 00000002
++Atk
+%Credits: Codejunkies
+$00468BE6 00000002
++Atk
+%Credits: Codejunkies
+$00468AF6 00000002
++Atk
+%Credits: Codejunkies
+$00468A56 00000002
++Atk
+%Credits: Codejunkies
+$00468B96 00000002
++Atk
+%Credits: Codejunkies
+$004689A8 00000002
++Atk
+%Credits: Codejunkies
+$0046899A 00000002
++Atk
+%Credits: Codejunkies
+$00468966 00000002
++Atk
+%Credits: Codejunkies
+$00468958 00000002
++Atk
+%Credits: Codejunkies
+$00468A06 00000002
++Atk
+%Credits: Codejunkies
+$00468974 00000002
++Bow
+%Credits: Codejunkies
+$00468AF6 00000005
++Bow
+%Credits: Codejunkies
+$00468A06 00000005
++Bow
+%Credits: Codejunkies
+$00468A56 00000005
++Bow
+%Credits: Codejunkies
+$00468BE6 00000005
++Bow
+%Credits: Codejunkies
+$00468B46 00000005
++Bow
+%Credits: Codejunkies
+$00468B96 00000005
++Bow
+%Credits: Codejunkies
+$0046894A 00000005
++Bow
+%Credits: Codejunkies
+$00468974 00000005
++Bow
+%Credits: Codejunkies
+$00468958 00000005
++Bow
+%Credits: Codejunkies
+$004689A8 00000005
++Bow
+%Credits: Codejunkies
+$0046899A 00000005
++Bow
+%Credits: Codejunkies
+$00468966 00000005
++Charge
+%Credits: Codejunkies
+$00468AF6 00000009
++Charge
+%Credits: Codejunkies
+$00468A06 00000009
++Charge
+%Credits: Codejunkies
+$00468A56 00000009
++Charge
+%Credits: Codejunkies
+$00468BE6 00000009
++Charge
+%Credits: Codejunkies
+$00468B46 00000009
++Charge
+%Credits: Codejunkies
+$00468B96 00000009
++Charge
+%Credits: Codejunkies
+$0046894A 00000009
++Charge
+%Credits: Codejunkies
+$00468974 00000009
++Charge
+%Credits: Codejunkies
+$00468958 00000009
++Charge
+%Credits: Codejunkies
+$004689A8 00000009
++Charge
+%Credits: Codejunkies
+$0046899A 00000009
++Charge
+%Credits: Codejunkies
+$00468966 00000009
++Def
+%Credits: Codejunkies
+$00468A56 00000003
++Def
+%Credits: Codejunkies
+$00468C36 00000003
++Def
+%Credits: Codejunkies
+$00468BE6 00000003
++Def
+%Credits: Codejunkies
+$00468B96 00000003
++Def
+%Credits: Codejunkies
+$00468B46 00000003
++Def
+%Credits: Codejunkies
+$00468AF6 00000003
++Def
+%Credits: Codejunkies
+$00468A06 00000003
++Def
+%Credits: Codejunkies
+$00468974 00000003
++Def
+%Credits: Codejunkies
+$00468966 00000003
++Def
+%Credits: Codejunkies
+$00468958 00000003
++Def
+%Credits: Codejunkies
+$0046894A 00000003
++Def
+%Credits: Codejunkies
+$004689A8 00000003
++Def
+%Credits: Codejunkies
+$0046899A 00000003
++Fill
+%Credits: Codejunkies
+$00468A56 00000008
++Fill
+%Credits: Codejunkies
+$00468AF6 00000008
++Fill
+%Credits: Codejunkies
+$00468B96 00000008
++Fill
+%Credits: Codejunkies
+$00468BE6 00000008
++Fill
+%Credits: Codejunkies
+$00468A06 00000008
++Fill
+%Credits: Codejunkies
+$00468B46 00000008
++Fill
+%Credits: Codejunkies
+$0046899A 00000008
++Fill
+%Credits: Codejunkies
+$0046894A 00000008
++Fill
+%Credits: Codejunkies
+$00468974 00000008
++Fill
+%Credits: Codejunkies
+$004689A8 00000008
++Fill
+%Credits: Codejunkies
+$00468966 00000008
++Fill
+%Credits: Codejunkies
+$00468958 00000008
++Horse
+%Credits: Codejunkies
+$00468AF6 00000006
++Horse
+%Credits: Codejunkies
+$00468B96 00000006
++Horse
+%Credits: Codejunkies
+$004689A8 00000006
++Horse
+%Credits: Codejunkies
+$00468A06 00000006
++Horse
+%Credits: Codejunkies
+$00468966 00000006
++Horse
+%Credits: Codejunkies
+$00468A56 00000006
++Horse
+%Credits: Codejunkies
+$00468974 00000006
++Horse
+%Credits: Codejunkies
+$00468BE6 00000006
++Horse
+%Credits: Codejunkies
+$00468958 00000006
++Horse
+%Credits: Codejunkies
+$00468B46 00000006
++Horse
+%Credits: Codejunkies
+$0046894A 00000006
++Horse
+%Credits: Codejunkies
+$0046899A 00000006
++Life
+%Credits: Codejunkies
+$0046894A 00000000
++Life
+%Credits: Codejunkies
+$00468A06 00000000
++Life
+%Credits: Codejunkies
+$00468A56 00000000
++Life
+%Credits: Codejunkies
+$00468BE6 00000000
++Life
+%Credits: Codejunkies
+$00468C36 00000000
++Life
+%Credits: Codejunkies
+$00468AF6 00000000
++Life
+%Credits: Codejunkies
+$00468B46 00000000
++Life
+%Credits: Codejunkies
+$00468B96 00000000
++Luck
+%Credits: Codejunkies
+$00468A56 00000007
++Luck
+%Credits: Codejunkies
+$00468BE6 00000007
++Luck
+%Credits: Codejunkies
+$00468B96 00000007
++Luck
+%Credits: Codejunkies
+$00468B46 00000007
++Luck
+%Credits: Codejunkies
+$00468AF6 00000007
++Luck
+%Credits: Codejunkies
+$00468A06 00000007
++Luck
+%Credits: Codejunkies
+$004689A8 00000007
++Luck
+%Credits: Codejunkies
+$00468966 00000007
++Luck
+%Credits: Codejunkies
+$00468958 00000007
++Luck
+%Credits: Codejunkies
+$0046894A 00000007
++Luck
+%Credits: Codejunkies
+$0046899A 00000007
++Luck
+%Credits: Codejunkies
+$00468974 00000007
++Musou
+%Credits: Codejunkies
+$00468A06 00000001
++Musou
+%Credits: Codejunkies
+$00468C36 00000001
++Musou
+%Credits: Codejunkies
+$00468B46 00000001
++Musou
+%Credits: Codejunkies
+$00468AF6 00000001
++Musou
+%Credits: Codejunkies
+$00468A56 00000001
++Musou
+%Credits: Codejunkies
+$00468958 00000001
++Musou
+%Credits: Codejunkies
+$00468BE6 00000001
++Musou
+%Credits: Codejunkies
+$0046899A 00000001
++Musou
+%Credits: Codejunkies
+$00468974 00000001
++Musou
+%Credits: Codejunkies
+$00468966 00000001
++Musou
+%Credits: Codejunkies
+$0046894A 00000001
++Musou
+%Credits: Codejunkies
+$004689A8 00000001
++Musou
+%Credits: Codejunkies
+$00468B96 00000001
++Spd
+%Credits: Codejunkies
+$004689A8 00000004
++Spd
+%Credits: Codejunkies
+$00468B96 00000004
++Spd
+%Credits: Codejunkies
+$00468B46 00000004
++Spd
+%Credits: Codejunkies
+$00468AF6 00000004
++Spd
+%Credits: Codejunkies
+$00468A06 00000004
++Spd
+%Credits: Codejunkies
+$00468966 00000004
++Spd
+%Credits: Codejunkies
+$0046899A 00000004
++Spd
+%Credits: Codejunkies
+$00468958 00000004
++Spd
+%Credits: Codejunkies
+$0046894A 00000004
++Spd
+%Credits: Codejunkies
+$00468BE6 00000004
++Spd
+%Credits: Codejunkies
+$00468974 00000004
++Spd
+%Credits: Codejunkies
+$00468A56 00000004
++Spd
+%Credits: Codejunkies
+$00468C36 00000004
+!!
+!3rd Bodyguard Codes:
++Max Experience
+%Credits: Codejunkies
+$10469BB8 0000FFFF
++Max Life
+%Credits: Codejunkies
+$10469BBA 00007FFF
++Max Ratings
+%Credits: Codejunkies
+$10469BB4 00000A0A
++Max Stats
+%Credits: Codejunkies
+$20469BBC FFFFFFFF
++Special Abilities
+%Credits: Codejunkies
+$00469BB6 000000FF
+!!
+!3rd Slot Effect Modifier:
++Atk
+%Credits: Codejunkies
+$0046894C 00000002
++Atk
+%Credits: Codejunkies
+$00468A08 00000002
++Atk
+%Credits: Codejunkies
+$00468BE8 00000002
++Atk
+%Credits: Codejunkies
+$00468B98 00000002
++Atk
+%Credits: Codejunkies
+$00468A58 00000002
++Atk
+%Credits: Codejunkies
+$00468976 00000002
++Atk
+%Credits: Codejunkies
+$00468B48 00000002
++Atk
+%Credits: Codejunkies
+$0046899C 00000002
++Atk
+%Credits: Codejunkies
+$00468968 00000002
++Atk
+%Credits: Codejunkies
+$0046895A 00000002
++Atk
+%Credits: Codejunkies
+$004689AA 00000002
++Atk
+%Credits: Codejunkies
+$00468AF8 00000002
++Bow
+%Credits: Codejunkies
+$00468AF8 00000005
++Bow
+%Credits: Codejunkies
+$00468A08 00000005
++Bow
+%Credits: Codejunkies
+$00468A58 00000005
++Bow
+%Credits: Codejunkies
+$00468BE8 00000005
++Bow
+%Credits: Codejunkies
+$00468B48 00000005
++Bow
+%Credits: Codejunkies
+$00468B98 00000005
++Bow
+%Credits: Codejunkies
+$0046894C 00000005
++Bow
+%Credits: Codejunkies
+$00468976 00000005
++Bow
+%Credits: Codejunkies
+$0046895A 00000005
++Bow
+%Credits: Codejunkies
+$004689AA 00000005
++Bow
+%Credits: Codejunkies
+$0046899C 00000005
++Bow
+%Credits: Codejunkies
+$00468968 00000005
++Charge
+%Credits: Codejunkies
+$00468AF8 00000009
++Charge
+%Credits: Codejunkies
+$00468A08 00000009
++Charge
+%Credits: Codejunkies
+$00468A58 00000009
++Charge
+%Credits: Codejunkies
+$00468BE8 00000009
++Charge
+%Credits: Codejunkies
+$00468B48 00000009
++Charge
+%Credits: Codejunkies
+$00468B98 00000009
++Charge
+%Credits: Codejunkies
+$0046894C 00000009
++Charge
+%Credits: Codejunkies
+$00468976 00000009
++Charge
+%Credits: Codejunkies
+$0046895A 00000009
++Charge
+%Credits: Codejunkies
+$004689AA 00000009
++Charge
+%Credits: Codejunkies
+$0046899C 00000009
++Charge
+%Credits: Codejunkies
+$00468968 00000009
++Def
+%Credits: Codejunkies
+$00468A58 00000003
++Def
+%Credits: Codejunkies
+$00468BE8 00000003
++Def
+%Credits: Codejunkies
+$00468B98 00000003
++Def
+%Credits: Codejunkies
+$00468B48 00000003
++Def
+%Credits: Codejunkies
+$00468AF8 00000003
++Def
+%Credits: Codejunkies
+$00468A08 00000003
++Def
+%Credits: Codejunkies
+$004689AA 00000003
++Def
+%Credits: Codejunkies
+$00468968 00000003
++Def
+%Credits: Codejunkies
+$0046895A 00000003
++Def
+%Credits: Codejunkies
+$0046894C 00000003
++Def
+%Credits: Codejunkies
+$0046899C 00000003
++Def
+%Credits: Codejunkies
+$00468976 00000003
++Fill
+%Credits: Codejunkies
+$00468A58 00000008
++Fill
+%Credits: Codejunkies
+$00468AF8 00000008
++Fill
+%Credits: Codejunkies
+$00468B98 00000008
++Fill
+%Credits: Codejunkies
+$00468BE8 00000008
++Fill
+%Credits: Codejunkies
+$00468A08 00000008
++Fill
+%Credits: Codejunkies
+$00468B48 00000008
++Fill
+%Credits: Codejunkies
+$0046899C 00000008
++Fill
+%Credits: Codejunkies
+$0046894C 00000008
++Fill
+%Credits: Codejunkies
+$00468976 00000008
++Fill
+%Credits: Codejunkies
+$004689AA 00000008
++Fill
+%Credits: Codejunkies
+$00468968 00000008
++Fill
+%Credits: Codejunkies
+$0046895A 00000008
++Horse
+%Credits: Codejunkies
+$00468AF8 00000006
++Horse
+%Credits: Codejunkies
+$00468B98 00000006
++Horse
+%Credits: Codejunkies
+$004689AA 00000006
++Horse
+%Credits: Codejunkies
+$00468A08 00000006
++Horse
+%Credits: Codejunkies
+$00468968 00000006
++Horse
+%Credits: Codejunkies
+$00468A58 00000006
++Horse
+%Credits: Codejunkies
+$00468976 00000006
++Horse
+%Credits: Codejunkies
+$00468BE8 00000006
++Horse
+%Credits: Codejunkies
+$0046895A 00000006
++Horse
+%Credits: Codejunkies
+$00468B48 00000006
++Horse
+%Credits: Codejunkies
+$0046894C 00000006
++Horse
+%Credits: Codejunkies
+$0046899C 00000006
++Life
+%Credits: Codejunkies
+$0046894C 00000000
++Life
+%Credits: Codejunkies
+$00468A08 00000000
++Life
+%Credits: Codejunkies
+$00468A58 00000000
++Life
+%Credits: Codejunkies
+$00468BE8 00000000
++Life
+%Credits: Codejunkies
+$00468AF8 00000000
++Life
+%Credits: Codejunkies
+$00468B48 00000000
++Life
+%Credits: Codejunkies
+$00468B98 00000000
++Luck
+%Credits: Codejunkies
+$00468A58 00000007
++Luck
+%Credits: Codejunkies
+$00468BE8 00000007
++Luck
+%Credits: Codejunkies
+$00468B98 00000007
++Luck
+%Credits: Codejunkies
+$00468B48 00000007
++Luck
+%Credits: Codejunkies
+$00468AF8 00000007
++Luck
+%Credits: Codejunkies
+$00468A08 00000007
++Luck
+%Credits: Codejunkies
+$004689AA 00000007
++Luck
+%Credits: Codejunkies
+$00468968 00000007
++Luck
+%Credits: Codejunkies
+$0046895A 00000007
++Luck
+%Credits: Codejunkies
+$0046894C 00000007
++Luck
+%Credits: Codejunkies
+$0046899C 00000007
++Luck
+%Credits: Codejunkies
+$00468976 00000007
++Musou
+%Credits: Codejunkies
+$00468B48 00000001
++Musou
+%Credits: Codejunkies
+$00468BE8 00000001
++Musou
+%Credits: Codejunkies
+$00468AF8 00000001
++Musou
+%Credits: Codejunkies
+$00468A58 00000001
++Musou
+%Credits: Codejunkies
+$00468A08 00000001
++Musou
+%Credits: Codejunkies
+$00468B98 00000001
++Musou
+%Credits: Codejunkies
+$0046899C 00000001
++Musou
+%Credits: Codejunkies
+$00468976 00000001
++Musou
+%Credits: Codejunkies
+$00468968 00000001
++Musou
+%Credits: Codejunkies
+$0046894C 00000001
++Musou
+%Credits: Codejunkies
+$004689AA 00000001
++Musou
+%Credits: Codejunkies
+$0046895A 00000001
++Spd
+%Credits: Codejunkies
+$0046899C 00000004
++Spd
+%Credits: Codejunkies
+$00468B48 00000004
++Spd
+%Credits: Codejunkies
+$00468AF8 00000004
++Spd
+%Credits: Codejunkies
+$00468A08 00000004
++Spd
+%Credits: Codejunkies
+$00468A58 00000004
++Spd
+%Credits: Codejunkies
+$0046895A 00000004
++Spd
+%Credits: Codejunkies
+$00468976 00000004
++Spd
+%Credits: Codejunkies
+$0046894C 00000004
++Spd
+%Credits: Codejunkies
+$00468B98 00000004
++Spd
+%Credits: Codejunkies
+$004689AA 00000004
++Spd
+%Credits: Codejunkies
+$00468968 00000004
++Spd
+%Credits: Codejunkies
+$00468BE8 00000004
+!!
+!4th Bodyguard Codes:
++Max Experience
+%Credits: Codejunkies
+$10469BE4 0000FFFF
++Max Life
+%Credits: Codejunkies
+$10469BE6 00007FFF
++Max Ratings
+%Credits: Codejunkies
+$10469BE0 00000A0A
++Max Stats
+%Credits: Codejunkies
+$20469BE8 FFFFFFFF
++Special Abilities
+%Credits: Codejunkies
+$00469BE2 000000FF
+!!
+!4th Slot Effect Modifier:
++Atk
+%Credits: Codejunkies
+$0046894E 00000002
++Atk
+%Credits: Codejunkies
+$00468A0A 00000002
++Atk
+%Credits: Codejunkies
+$00468BEA 00000002
++Atk
+%Credits: Codejunkies
+$00468B9A 00000002
++Atk
+%Credits: Codejunkies
+$00468A5A 00000002
++Atk
+%Credits: Codejunkies
+$00468978 00000002
++Atk
+%Credits: Codejunkies
+$00468B4A 00000002
++Atk
+%Credits: Codejunkies
+$0046899E 00000002
++Atk
+%Credits: Codejunkies
+$0046896A 00000002
++Atk
+%Credits: Codejunkies
+$0046895C 00000002
++Atk
+%Credits: Codejunkies
+$004689AC 00000002
++Atk
+%Credits: Codejunkies
+$00468AFA 00000002
++Bow
+%Credits: Codejunkies
+$00468AFA 00000005
++Bow
+%Credits: Codejunkies
+$00468A0A 00000005
++Bow
+%Credits: Codejunkies
+$00468A5A 00000005
++Bow
+%Credits: Codejunkies
+$00468BEA 00000005
++Bow
+%Credits: Codejunkies
+$00468B4A 00000005
++Bow
+%Credits: Codejunkies
+$00468B9A 00000005
++Bow
+%Credits: Codejunkies
+$0046894E 00000005
++Bow
+%Credits: Codejunkies
+$00468978 00000005
++Bow
+%Credits: Codejunkies
+$0046895C 00000005
++Bow
+%Credits: Codejunkies
+$004689AC 00000005
++Bow
+%Credits: Codejunkies
+$0046899E 00000005
++Bow
+%Credits: Codejunkies
+$0046896A 00000005
++Charge
+%Credits: Codejunkies
+$00468AFA 00000009
++Charge
+%Credits: Codejunkies
+$00468A0A 00000009
++Charge
+%Credits: Codejunkies
+$00468A5A 00000009
++Charge
+%Credits: Codejunkies
+$00468BEA 00000009
++Charge
+%Credits: Codejunkies
+$00468B4A 00000009
++Charge
+%Credits: Codejunkies
+$00468B9A 00000009
++Charge
+%Credits: Codejunkies
+$0046894E 00000009
++Charge
+%Credits: Codejunkies
+$00468978 00000009
++Charge
+%Credits: Codejunkies
+$0046895C 00000009
++Charge
+%Credits: Codejunkies
+$004689AC 00000009
++Charge
+%Credits: Codejunkies
+$0046899E 00000009
++Charge
+%Credits: Codejunkies
+$0046896A 00000009
++Def
+%Credits: Codejunkies
+$00468A5A 00000003
++Def
+%Credits: Codejunkies
+$00468BEA 00000003
++Def
+%Credits: Codejunkies
+$00468B9A 00000003
++Def
+%Credits: Codejunkies
+$00468B4A 00000003
++Def
+%Credits: Codejunkies
+$00468AFA 00000003
++Def
+%Credits: Codejunkies
+$00468A0A 00000003
++Def
+%Credits: Codejunkies
+$004689AC 00000003
++Def
+%Credits: Codejunkies
+$0046896A 00000003
++Def
+%Credits: Codejunkies
+$0046895C 00000003
++Def
+%Credits: Codejunkies
+$0046894E 00000003
++Def
+%Credits: Codejunkies
+$0046899E 00000003
++Def
+%Credits: Codejunkies
+$00468978 00000003
++Fill
+%Credits: Codejunkies
+$00468A5A 00000008
++Fill
+%Credits: Codejunkies
+$00468AFA 00000008
++Fill
+%Credits: Codejunkies
+$00468B9A 00000008
++Fill
+%Credits: Codejunkies
+$00468BEA 00000008
++Fill
+%Credits: Codejunkies
+$00468A0A 00000008
++Fill
+%Credits: Codejunkies
+$00468B4A 00000008
++Fill
+%Credits: Codejunkies
+$0046899E 00000008
++Fill
+%Credits: Codejunkies
+$0046894E 00000008
++Fill
+%Credits: Codejunkies
+$00468978 00000008
++Fill
+%Credits: Codejunkies
+$004689AC 00000008
++Fill
+%Credits: Codejunkies
+$0046896A 00000008
++Fill
+%Credits: Codejunkies
+$0046895C 00000008
++Horse
+%Credits: Codejunkies
+$00468AFA 00000006
++Horse
+%Credits: Codejunkies
+$00468B9A 00000006
++Horse
+%Credits: Codejunkies
+$004689AC 00000006
++Horse
+%Credits: Codejunkies
+$00468A0A 00000006
++Horse
+%Credits: Codejunkies
+$0046896A 00000006
++Horse
+%Credits: Codejunkies
+$00468A5A 00000006
++Horse
+%Credits: Codejunkies
+$00468978 00000006
++Horse
+%Credits: Codejunkies
+$00468BEA 00000006
++Horse
+%Credits: Codejunkies
+$0046895C 00000006
++Horse
+%Credits: Codejunkies
+$00468B4A 00000006
++Horse
+%Credits: Codejunkies
+$0046894E 00000006
++Horse
+%Credits: Codejunkies
+$0046899E 00000006
++Life
+%Credits: Codejunkies
+$0046894E 00000000
++Life
+%Credits: Codejunkies
+$00468A0A 00000000
++Life
+%Credits: Codejunkies
+$00468A5A 00000000
++Life
+%Credits: Codejunkies
+$00468BEA 00000000
++Life
+%Credits: Codejunkies
+$00468AFA 00000000
++Life
+%Credits: Codejunkies
+$00468B4A 00000000
++Life
+%Credits: Codejunkies
+$00468B9A 00000000
++Luck
+%Credits: Codejunkies
+$00468A5A 00000007
++Luck
+%Credits: Codejunkies
+$00468BEA 00000007
++Luck
+%Credits: Codejunkies
+$00468B9A 00000007
++Luck
+%Credits: Codejunkies
+$00468B4A 00000007
++Luck
+%Credits: Codejunkies
+$00468AFA 00000007
++Luck
+%Credits: Codejunkies
+$00468A0A 00000007
++Luck
+%Credits: Codejunkies
+$004689AC 00000007
++Luck
+%Credits: Codejunkies
+$0046896A 00000007
++Luck
+%Credits: Codejunkies
+$0046895C 00000007
++Luck
+%Credits: Codejunkies
+$0046894E 00000007
++Luck
+%Credits: Codejunkies
+$0046899E 00000007
++Luck
+%Credits: Codejunkies
+$00468978 00000007
++Musou
+%Credits: Codejunkies
+$00468B4A 00000001
++Musou
+%Credits: Codejunkies
+$00468BEA 00000001
++Musou
+%Credits: Codejunkies
+$00468AFA 00000001
++Musou
+%Credits: Codejunkies
+$00468A5A 00000001
++Musou
+%Credits: Codejunkies
+$00468A0A 00000001
++Musou
+%Credits: Codejunkies
+$00468B9A 00000001
++Musou
+%Credits: Codejunkies
+$0046899E 00000001
++Musou
+%Credits: Codejunkies
+$00468978 00000001
++Musou
+%Credits: Codejunkies
+$0046896A 00000001
++Musou
+%Credits: Codejunkies
+$0046894E 00000001
++Musou
+%Credits: Codejunkies
+$004689AC 00000001
++Musou
+%Credits: Codejunkies
+$0046895C 00000001
++Spd
+%Credits: Codejunkies
+$0046899E 00000004
++Spd
+%Credits: Codejunkies
+$00468B4A 00000004
++Spd
+%Credits: Codejunkies
+$00468AFA 00000004
++Spd
+%Credits: Codejunkies
+$00468A0A 00000004
++Spd
+%Credits: Codejunkies
+$00468A5A 00000004
++Spd
+%Credits: Codejunkies
+$0046895C 00000004
++Spd
+%Credits: Codejunkies
+$00468978 00000004
++Spd
+%Credits: Codejunkies
+$0046894E 00000004
++Spd
+%Credits: Codejunkies
+$00468B9A 00000004
++Spd
+%Credits: Codejunkies
+$004689AC 00000004
++Spd
+%Credits: Codejunkies
+$0046896A 00000004
++Spd
+%Credits: Codejunkies
+$00468BEA 00000004
+!!
+!5th Slot Effect Modifier:
++Atk
+%Credits: Codejunkies
+$00468950 00000002
++Atk
+%Credits: Codejunkies
+$0046895E 00000002
++Atk
+%Credits: Codejunkies
+$0046896C 00000002
++Atk
+%Credits: Codejunkies
+$004689A0 00000002
++Atk
+%Credits: Codejunkies
+$004689AE 00000002
++Atk
+%Credits: Codejunkies
+$00468A0C 00000002
++Atk
+%Credits: Codejunkies
+$00468A5C 00000002
++Atk
+%Credits: Codejunkies
+$00468AFC 00000002
++Atk
+%Credits: Codejunkies
+$00468B4C 00000002
++Atk
+%Credits: Codejunkies
+$00468B9C 00000002
++Atk
+%Credits: Codejunkies
+$00468BEC 00000002
++Bow
+%Credits: Codejunkies
+$0046896C 00000005
++Bow
+%Credits: Codejunkies
+$00468BEC 00000005
++Bow
+%Credits: Codejunkies
+$00468B9C 00000005
++Bow
+%Credits: Codejunkies
+$00468AFC 00000005
++Bow
+%Credits: Codejunkies
+$00468A5C 00000005
++Bow
+%Credits: Codejunkies
+$0046895E 00000005
++Bow
+%Credits: Codejunkies
+$004689AE 00000005
++Bow
+%Credits: Codejunkies
+$004689A0 00000005
++Bow
+%Credits: Codejunkies
+$00468950 00000005
++Bow
+%Credits: Codejunkies
+$00468A0C 00000005
++Bow
+%Credits: Codejunkies
+$00468B4C 00000005
++Charge
+%Credits: Codejunkies
+$00468B4C 00000009
++Charge
+%Credits: Codejunkies
+$0046896C 00000009
++Charge
+%Credits: Codejunkies
+$00468AFC 00000009
++Charge
+%Credits: Codejunkies
+$00468BEC 00000009
++Charge
+%Credits: Codejunkies
+$00468A5C 00000009
++Charge
+%Credits: Codejunkies
+$00468950 00000009
++Charge
+%Credits: Codejunkies
+$004689AE 00000009
++Charge
+%Credits: Codejunkies
+$0046895E 00000009
++Charge
+%Credits: Codejunkies
+$00468A0C 00000009
++Charge
+%Credits: Codejunkies
+$004689A0 00000009
++Charge
+%Credits: Codejunkies
+$00468B9C 00000009
++Def
+%Credits: Codejunkies
+$00468A5C 00000003
++Def
+%Credits: Codejunkies
+$00468BEC 00000003
++Def
+%Credits: Codejunkies
+$00468B9C 00000003
++Def
+%Credits: Codejunkies
+$00468B4C 00000003
++Def
+%Credits: Codejunkies
+$00468AFC 00000003
++Def
+%Credits: Codejunkies
+$00468A0C 00000003
++Def
+%Credits: Codejunkies
+$0046896C 00000003
++Def
+%Credits: Codejunkies
+$0046895E 00000003
++Def
+%Credits: Codejunkies
+$00468950 00000003
++Def
+%Credits: Codejunkies
+$004689AE 00000003
++Def
+%Credits: Codejunkies
+$004689A0 00000003
++Fill
+%Credits: Codejunkies
+$00468B4C 00000008
++Fill
+%Credits: Codejunkies
+$00468AFC 00000008
++Fill
+%Credits: Codejunkies
+$00468BEC 00000008
++Fill
+%Credits: Codejunkies
+$00468B9C 00000008
++Fill
+%Credits: Codejunkies
+$00468A5C 00000008
++Fill
+%Credits: Codejunkies
+$00468A0C 00000008
++Fill
+%Credits: Codejunkies
+$004689AE 00000008
++Fill
+%Credits: Codejunkies
+$0046896C 00000008
++Fill
+%Credits: Codejunkies
+$0046895E 00000008
++Fill
+%Credits: Codejunkies
+$00468950 00000008
++Fill
+%Credits: Codejunkies
+$004689A0 00000008
++Horse
+%Credits: Codejunkies
+$00468BEC 00000006
++Horse
+%Credits: Codejunkies
+$00468B9C 00000006
++Horse
+%Credits: Codejunkies
+$00468B4C 00000006
++Horse
+%Credits: Codejunkies
+$00468AFC 00000006
++Horse
+%Credits: Codejunkies
+$00468A5C 00000006
++Horse
+%Credits: Codejunkies
+$00468A0C 00000006
++Horse
+%Credits: Codejunkies
+$004689AE 00000006
++Horse
+%Credits: Codejunkies
+$004689A0 00000006
++Horse
+%Credits: Codejunkies
+$0046896C 00000006
++Horse
+%Credits: Codejunkies
+$0046895E 00000006
++Horse
+%Credits: Codejunkies
+$00468950 00000006
++Life
+%Credits: Codejunkies
+$00468950 00000000
++Luck
+%Credits: Codejunkies
+$00468A0C 00000007
++Luck
+%Credits: Codejunkies
+$00468BEC 00000007
++Luck
+%Credits: Codejunkies
+$00468B9C 00000007
++Luck
+%Credits: Codejunkies
+$00468A5C 00000007
++Luck
+%Credits: Codejunkies
+$0046896C 00000007
++Luck
+%Credits: Codejunkies
+$00468B4C 00000007
++Luck
+%Credits: Codejunkies
+$004689A0 00000007
++Luck
+%Credits: Codejunkies
+$0046895E 00000007
++Luck
+%Credits: Codejunkies
+$00468950 00000007
++Luck
+%Credits: Codejunkies
+$004689AE 00000007
++Luck
+%Credits: Codejunkies
+$00468AFC 00000007
++Musou
+%Credits: Codejunkies
+$00468A0C 00000001
++Musou
+%Credits: Codejunkies
+$00468BEC 00000001
++Musou
+%Credits: Codejunkies
+$00468AFC 00000001
++Musou
+%Credits: Codejunkies
+$00468A5C 00000001
++Musou
+%Credits: Codejunkies
+$0046895E 00000001
++Musou
+%Credits: Codejunkies
+$00468B9C 00000001
++Musou
+%Credits: Codejunkies
+$004689A0 00000001
++Musou
+%Credits: Codejunkies
+$0046896C 00000001
++Musou
+%Credits: Codejunkies
+$00468950 00000001
++Musou
+%Credits: Codejunkies
+$004689AE 00000001
++Musou
+%Credits: Codejunkies
+$00468B4C 00000001
++Spd
+%Credits: Codejunkies
+$00468AFC 00000004
++Spd
+%Credits: Codejunkies
+$00468B4C 00000004
++Spd
+%Credits: Codejunkies
+$00468B9C 00000004
++Spd
+%Credits: Codejunkies
+$00468950 00000004
++Spd
+%Credits: Codejunkies
+$0046895E 00000004
++Spd
+%Credits: Codejunkies
+$0046896C 00000004
++Spd
+%Credits: Codejunkies
+$004689A0 00000004
++Spd
+%Credits: Codejunkies
+$004689AE 00000004
++Spd
+%Credits: Codejunkies
+$00468A0C 00000004
++Spd
+%Credits: Codejunkies
+$00468A5C 00000004
++Spd
+%Credits: Codejunkies
+$00468BEC 00000004
+!!
++All Characters
+%Credits: Codejunkies
+$201965DC 24010001
+$201965E0 A0410000
++All Movies
+%Credits: Codejunkies
+$204688F8 FFFFFFFF
+$204688FC FFFFFFFF
+$20468900 FFFFFFFF
++All Weapons
+%Credits: Codejunkies
+$200FFF00 80410000
+$200FFF04 241000DC
+$200FFF08 10300008
+$200FFF10 8043000E
+$200FFF14 10700004
+$200FFF1C 24210001
+$200FFF20 A041000E
+$200FFF30 08065870
+$201961A4 0803FFC0
++Always Have Full X2 Powers {<I>Hold R2 While Hitting Enemies To Activate The Effect | Use With &Quot;Player 1 Invulnerable&Quot;</I>}
+%Credits: luc-ita
+$20445144 00070800
+!Color Modifier:
++Color 1
+%Credits: Codejunkies
+$00469B56 00000000
++Color 1
+%Credits: Codejunkies
+$00469B82 00000000
++Color 1
+%Credits: Codejunkies
+$00469BAE 00000000
++Color 1
+%Credits: Codejunkies
+$00469BDA 00000000
++Color 2
+%Credits: Codejunkies
+$00469B56 00000001
++Color 2
+%Credits: Codejunkies
+$00469B82 00000001
++Color 2
+%Credits: Codejunkies
+$00469BAE 00000001
++Color 2
+%Credits: Codejunkies
+$00469BDA 00000001
++Color 3
+%Credits: Codejunkies
+$00469BDA 00000002
++Color 3
+%Credits: Codejunkies
+$00469BAE 00000002
++Color 3
+%Credits: Codejunkies
+$00469B82 00000002
++Color 3
+%Credits: Codejunkies
+$00469B56 00000002
++Color 4
+%Credits: Codejunkies
+$00469B56 00000003
++Color 4
+%Credits: Codejunkies
+$00469B82 00000003
++Color 4
+%Credits: Codejunkies
+$00469BAE 00000003
++Color 4
+%Credits: Codejunkies
+$00469BDA 00000003
++Color 5
+%Credits: Codejunkies
+$00469B56 00000004
++Color 5
+%Credits: Codejunkies
+$00469B82 00000004
++Color 5
+%Credits: Codejunkies
+$00469BAE 00000004
++Color 5
+%Credits: Codejunkies
+$00469BDA 00000004
+!!
+!FR Codes:
++Infinite Mosou
+%Credits: Codejunkies
+$200FFE14 24010130
+$200FFE18 A621022A
++Infinite/Max Health
+%Credits: Codejunkies
+$200FFE00 3C012700
+$200FFE04 34210270
+$200FFE08 AE210224
++Max Mosou
+%Credits: Codejunkies
+$200FFE0C 24011300
+$200FFE10 A621022C
++Must Have On {<I>You Must Set That Code ON To Activate Any Of The French Character Codes.</I>}
+%Credits: Codejunkies
+$2017A83C 0803FF80
+$200FFE20 8623022C
+$200FFE1C 0805EA10
+!!
+!Hat Modifier:
++Hat 1
+%Credits: Codejunkies
+$00469B57 00000000
++Hat 1
+%Credits: Codejunkies
+$00469B83 00000000
++Hat 1
+%Credits: Codejunkies
+$00469BAF 00000000
++Hat 1
+%Credits: Codejunkies
+$00469BDB 00000000
++Hat 2
+%Credits: Codejunkies
+$00469B57 00000001
++Hat 2
+%Credits: Codejunkies
+$00469B83 00000001
++Hat 2
+%Credits: Codejunkies
+$00469BAF 00000001
++Hat 2
+%Credits: Codejunkies
+$00469BDB 00000001
++Hat 3
+%Credits: Codejunkies
+$00469B57 00000002
++Hat 3
+%Credits: Codejunkies
+$00469B83 00000002
++Hat 3
+%Credits: Codejunkies
+$00469BAF 00000002
++Hat 3
+%Credits: Codejunkies
+$00469BDB 00000002
++Hat 4
+%Credits: Codejunkies
+$00469B57 00000003
++Hat 4
+%Credits: Codejunkies
+$00469B83 00000003
++Hat 4
+%Credits: Codejunkies
+$00469BAF 00000003
++Hat 4
+%Credits: Codejunkies
+$00469BDB 00000003
+!!
+!Item Codes:
++Arm Guards
+%Credits: Codejunkies
+$0046984A 00000000
++Art Of War
+%Credits: Codejunkies
+$00469843 00000000
++Bodyguard Manual
+%Credits: Codejunkies
+$00469845 00000000
++Demon Band
+%Credits: Codejunkies
+$00469846 00000000
++Dragon Amulet +20
+%Credits: Codejunkies
+$00469831 00000014
++Elephant Harness
+%Credits: Codejunkies
+$00469842 00000000
++Fire Arrows
+%Credits: Codejunkies
+$00469849 00000000
++Fire Orb
+%Credits: Codejunkies
+$0046983A 00000000
++Ginseng +20
+%Credits: Codejunkies
+$00469838 00000014
++Green Scroll
+%Credits: Codejunkies
+$0046984C 00000000
++Herbal Remedy +20
+%Credits: Codejunkies
+$00469839 00000014
++Hex Mark Harness
+%Credits: Codejunkies
+$0046983F 00000000
++Horned Helm +20
+%Credits: Codejunkies
+$00469836 00000014
++Huang's Bow +20
+%Credits: Codejunkies
+$00469835 00000014
++Ice Orb
+%Credits: Codejunkies
+$0046983B 00000000
++Light Orb
+%Credits: Codejunkies
+$0046983D 00000000
++Musou Armor
+%Credits: Codejunkies
+$0046984D 00000000
++Peacock Amulet +20
+%Credits: Codejunkies
+$00469830 00000014
++Red Hare Harness
+%Credits: Codejunkies
+$0046983E 00000000
++Serpent Earrings
+%Credits: Codejunkies
+$0046984F 00000000
++Seven Star Sash +20
+%Credits: Codejunkies
+$00469837 00000014
++Shadow Harness
+%Credits: Codejunkies
+$00469841 00000000
++Shadow Orb
+%Credits: Codejunkies
+$0046983C 00000000
++Speed Scroll +20
+%Credits: Codejunkies
+$00469834 00000014
++Storm Harness
+%Credits: Codejunkies
+$00469840 00000000
++Survival Guide
+%Credits: Codejunkies
+$00469844 00000000
++Tiger Amulet +20
+%Credits: Codejunkies
+$00469832 00000014
++Tiger Collar
+%Credits: Codejunkies
+$0046984B 00000000
++Tortoise Amulet +20
+%Credits: Codejunkies
+$00469833 00000014
++Tribal Remedy
+%Credits: Codejunkies
+$0046984E 00000000
++Way Of Musou
+%Credits: Codejunkies
+$00469847 00000000
++Wind Scroll
+%Credits: Codejunkies
+$00469848 00000000
+!!
++Max Experience All
+%Credits: Codejunkies
+$20196624 2405EA60
+$20196628 A4450008
++Max Health All
+%Credits: Codejunkies
+$20196534 24010340
+$20196538 0803FFF8
+$200FFFE0 A4410002
+$200FFFE4 03E00008
+$200FFFE8 94420002
++Max Iterim Save
+%Credits: Codejunkies
+$004BEE57 00000003
+!Player 1 Codes:
++Always In Musou Rage
+%Credits: Codejunkies
+$10445170 0000030D
++Big Jumps
+%Credits: Codejunkies
+$204451A4 421B3333
++Infinite Arrows
+%Credits: Codejunkies
+$10479946 00000014
++Infinite Health
+%Credits: Codejunkies
+$20445184 26000260
++Infinite Mosou
+%Credits: Codejunkies
+$1044518A 00000130
+$1044518C 00001300
++Quick Character
+%Credits: Codejunkies
+$2044519C 42066667
++Ultra Quick Character
+%Credits: Codejunkies
+$2044519C 42666667
+!!
++Player 1 Invulnerable
+%Credits: luc-ita
+$2018FB00 08028000
+$2018FB04 00000000
+$200A0000 A4820228
+$200A0004 3C010044
+$200A0008 34214F60
+$200A000C 10810003
+$200A0010 00000000
+$200A0014 08063EC2
+$200A0018 84830226
+$200A001C 08063EC4
+!Player 2 Codes (Free Mode):
++Always In Mosou Rage
+%Credits: Codejunkies
+$20445420 26000260
++Big Jumps
+%Credits: Codejunkies
+$20445454 41666667
++Infinite Arrows
+%Credits: Codejunkies
+$1047996A 00000014
++Infinite Health
+%Credits: Codejunkies
+$20445434 26000260
++Infinite Mosou
+%Credits: Codejunkies
+$1044543A 00000130
+$1044543C 00001300
++Quick Character
+%Credits: Codejunkies
+$2044544C 42066667
++Ultra Quick Character
+%Credits: Codejunkies
+$2044544C 42666667
+!!
++Skip Demo Movie {<I>Video Starts After A Few Minutes That No Buttons Are Pressed At The Menu</I>}
+%Credits: luc-ita
+$20141BF0 00000000
++Skip Demonstration Game Movie {<I>Video Starts After A Few Minutes That No Buttons Are Pressed At The Menu</I>}
+%Credits: luc-ita
+$20141BD0 00000000
++Skip Koei And Omega Logos And The Initial Movie
+%Credits: luc-ita
+$20141B84 00000000
+!Weapon 2 Codes:
++Weapon 2 Unlocked
+%Credits: Codejunkies
+$00468952 00000001
++Weapon 2 Unlocked
+%Credits: Codejunkies
+$004689A2 00000005
+!!
+!Weapon 3 Codes:
++Weapon 3 Unlocked
+%Credits: Codejunkies
+$00468960 00000002
++Weapon 3 Unlocked
+%Credits: Codejunkies
+$004689B0 00000006
+!!
+!Weapon 4 Codes:
++Weapon 4 Unlocked
+%Credits: Codejunkies
+$0046896E 00000003
+!!
+!Weapon Modifier:
++Bow
+%Credits: Codejunkies
+$00469B55 00000005
++Bow
+%Credits: Codejunkies
+$00469B81 00000005
++Bow
+%Credits: Codejunkies
+$00469BAD 00000005
++Bow
+%Credits: Codejunkies
+$00469BD9 00000005
++Crossbow
+%Credits: Codejunkies
+$00469B55 00000002
++Crossbow
+%Credits: Codejunkies
+$00469B81 00000002
++Crossbow
+%Credits: Codejunkies
+$00469BAD 00000002
++Crossbow
+%Credits: Codejunkies
+$00469BD9 00000002
++Fan
+%Credits: Codejunkies
+$00469BAD 00000004
++Fan
+%Credits: Codejunkies
+$00469BD9 00000004
++Fan
+%Credits: Codejunkies
+$00469B55 00000004
++Fan
+%Credits: Codejunkies
+$00469B81 00000004
++Spear
+%Credits: Codejunkies
+$00469B55 00000000
++Spear
+%Credits: Codejunkies
+$00469B81 00000000
++Spear
+%Credits: Codejunkies
+$00469BAD 00000000
++Spear
+%Credits: Codejunkies
+$00469BD9 00000000
++Staff
+%Credits: Codejunkies
+$00469B55 00000001
++Staff
+%Credits: Codejunkies
+$00469B81 00000001
++Staff
+%Credits: Codejunkies
+$00469BAD 00000001
++Staff
+%Credits: Codejunkies
+$00469BD9 00000001
++Sword
+%Credits: Codejunkies
+$00469B55 00000003
++Sword
+%Credits: Codejunkies
+$00469B81 00000003
++Sword
+%Credits: Codejunkies
+$00469BAD 00000003
++Sword
+%Credits: Codejunkies
+$00469BD9 00000003
+!!
+!Weight Modifier Code:
++Heavy
+%Credits: Codejunkies
+$00468946 00000002
++Heavy
+%Credits: Codejunkies
+$00468B42 00000002
++Heavy
+%Credits: Codejunkies
+$00468C32 00000002
++Heavy
+%Credits: Codejunkies
+$00468BE2 00000002
++Heavy
+%Credits: Codejunkies
+$00468AF2 00000002
++Heavy
+%Credits: Codejunkies
+$00468A52 00000002
++Heavy
+%Credits: Codejunkies
+$00468B92 00000002
++Heavy
+%Credits: Codejunkies
+$004689A4 00000002
++Heavy
+%Credits: Codejunkies
+$00468996 00000002
++Heavy
+%Credits: Codejunkies
+$00468962 00000002
++Heavy
+%Credits: Codejunkies
+$00468954 00000002
++Heavy
+%Credits: Codejunkies
+$00468A02 00000002
++Heavy
+%Credits: Codejunkies
+$00468970 00000002
++Light
+%Credits: Codejunkies
+$00468B92 00000000
++Light
+%Credits: Codejunkies
+$00468A02 00000000
++Light
+%Credits: Codejunkies
+$00468AF2 00000000
++Light
+%Credits: Codejunkies
+$00468C32 00000000
++Light
+%Credits: Codejunkies
+$00468BE2 00000000
++Light
+%Credits: Codejunkies
+$00468B42 00000000
++Light
+%Credits: Codejunkies
+$00468A52 00000000
++Light
+%Credits: Codejunkies
+$00468996 00000000
++Light
+%Credits: Codejunkies
+$00468962 00000000
++Light
+%Credits: Codejunkies
+$00468954 00000000
++Light
+%Credits: Codejunkies
+$00468946 00000000
++Light
+%Credits: Codejunkies
+$004689B2 00000000
++Light
+%Credits: Codejunkies
+$00468970 00000000
++Light
+%Credits: Codejunkies
+$004689A4 00000000
++Medium
+%Credits: Codejunkies
+$00468970 00000001
++Medium
+%Credits: Codejunkies
+$00468BE2 00000001
++Medium
+%Credits: Codejunkies
+$00468B92 00000001
++Medium
+%Credits: Codejunkies
+$00468B42 00000001
++Medium
+%Credits: Codejunkies
+$00468A52 00000001
++Medium
+%Credits: Codejunkies
+$00468A02 00000001
++Medium
+%Credits: Codejunkies
+$00468962 00000001
++Medium
+%Credits: Codejunkies
+$004689A4 00000001
++Medium
+%Credits: Codejunkies
+$00468996 00000001
++Medium
+%Credits: Codejunkies
+$00468954 00000001
++Medium
+%Credits: Codejunkies
+$00468946 00000001
++Medium
+%Credits: Codejunkies
+$004689B2 00000001
++Medium
+%Credits: Codejunkies
+$00468AF2 00000001
++Medium
+%Credits: Codejunkies
+$00468C32 00000001
+!!
+!!
+

@@ -1,0 +1,110 @@
+^3 = NAME: Tekken Tag Tournament [Greatest Hits] (USA)
+^2 = GameID: No
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F03577F0 00405573
+!!
+!Tag For Health:
++P1-1
+%Credits: MadCatz
+$2044094C 00097333
+$20440950 00097333
++P1-2
+%Credits: MadCatz
+$2044097C 00097333
+$20440980 00097333
++P2-1
+%Credits: MadCatz
+$204409AC 00097333
+$204409B0 00097333
++P2-2
+%Credits: MadCatz
+$204409DC 00097333
+$204409E0 00097333
+!!
++1-Hit Death P1
+%Credits: Code Master
+$20879A34 00000001
+$20879A38 00000001
++1-Hit Death P2
+%Credits: Code Master
+$208852D4 00000001
+$208852D8 00000001
++Allow Players To Choose Same Characters
+%Credits: Code Master
+$203CA104 00000000
++Background Stage Modifier {<I>00 - Paul 01 - Law-A 02 - Law-B 03 - Yoshimitsu-A 04 - Yoshimitsu-B 05 - Xiaoyu 06 - Hwoarang 07 - Lei 08 - Ogre 09 - School-A 0A - School-B 0B - Jin-A 0C - Jin-B 0D - Nina-A 0E - Nina-B 0F - Eddy-A 10 - Eddy-B 11 - King 12 - Heihachi 13 - Unknown 14 - Random?</I>}
+%Credits: Code Master
+$105F665E 000000??
++Everything Unlocked
+%Credits: MadCatz
+$20439C70 FFFFFFFF
+$10439C74 0000003F
+$10439C78 00000026
+$10439C82 00000103
++Infinite Health P1
+%Credits: Code Master
+$20879A34 000A0000
+$20879A38 000A0000
++Infinite Health P2
+%Credits: Code Master
+$208852D4 00097333
+$208852D8 00097333
++Infinite Time
+%Credits: Code Master
+$205F5C30 000010A4
++No Health P1
+%Credits: Code Master
+$20879A34 00000000
+$20879A38 00000000
++No Health P2
+%Credits: Code Master
+$208852D4 00000000
+$208852D8 00000000
++P1 Can't Move
+%Credits: Code Master
+$20879A54 000A0000
++P1 Character 1 Moves Modifier {<I>00 - Paul<Br>01 - Law<Br>02 - Lei<Br>03 - King<Br>04 - Yoshimitsu<Br>05 - Nina<Br>06 - Hwoarang<Br>07 - Xiaoyu<Br>08 - Eddy<Br>09 - Jin<Br>0A - Julia<Br>0B - Kuma<Br>0C - Bryan<Br>0D - Heihachi<Br>0E - Ogre<Br>0F - Tetsujin<Br>10 - Gun Jack<Br>11 - Roger/Alex<Br>12 - Anna<Br>13 - Kazuya<Br>14 - True Ogre<Br>15 - Jack-2<Br>16 - P. Jack<Br>17 - Michelle<Br>18 - Wang<Br>19 - Lee<Br>1A - Armor King<Br>1B - Ganryu<Br>1C - Kunimitsu<Br>1D - Devil<Br>1E - Jun<Br>1F - Bruce<Br>20 - Baek<Br>21 - Unknown</I>}
+%Credits: Code Master
+$20440940 000000??
++P1 Character 2 Moves Modifier
+%Credits: Code Master
+$20440970 000000??
++P1 Needs 1 Win To Win
+%Credits: Code Master
+$D087969A 00000000
+$1087969A 00000001
++P1 Never Wins
+%Credits: Code Master
+$D087969A 00000001
+$1087969A 00000000
++P2 Can't Move
+%Credits: Code Master
+$208852F4 00000000
++P2 Character 1 Moves Modifier
+%Credits: Code Master
+$204409A0 000000??
++P2 Character 2 Moves Modifier
+%Credits: Code Master
+$204409D0 000000??
++P2 Needs 1 Win To Win
+%Credits: Code Master
+$D0884F3A 00000000
+$10884F3A 00000001
++P2 Never Wins
+%Credits: Code Master
+$D0884F3A 00000001
+$10884F3A 00000000
++Start On Final Stage (Arcade Mode)
+%Credits: Code Master
+$D043B81C 00000000
+$1043B81C 00000007
++Unlock Everything
+%Credits: Code Master
+$20439C70 FFFFFFFF
+$20439C74 FFFFFFFF
+$20439C78 FFFFFFFF
+$10439C82 00000103
+!!
+

@@ -1,0 +1,12 @@
+^2 = GameID: BLES00490
+^3 = NAME: Monsters vs. Aliens
+^5 = APCRED: From chaoszage
+^4 = FILE: GAMEDATA
++99999999 Dna Points
+$write at 0x44:05F5E0FF
++Update Crc32 (required)
+(set range:0x000004,0x000AA3)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

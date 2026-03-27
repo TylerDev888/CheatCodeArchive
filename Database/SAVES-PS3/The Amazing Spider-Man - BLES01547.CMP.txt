@@ -1,0 +1,16 @@
+^2 = GameID: BLES01547
+^3 = NAME: The Amazing Spider-Man
+^5 = APCRED: From Chris Roberts
+^4 = FILE: GAMEDATA
++Tech Upgrades (999999)
+$2000C030 000F423F
++Enemies Defeated (9999)
+$1000C3D6 0000270F
++Stealth Takedowns (255)
+$1000C3DF 000000FF
++Update Crc32 For Gamedata (required)
+(set range:0x000004,0x00C523)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

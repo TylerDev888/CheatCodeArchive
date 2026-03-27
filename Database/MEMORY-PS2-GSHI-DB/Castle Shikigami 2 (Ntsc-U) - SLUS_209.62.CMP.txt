@@ -1,0 +1,68 @@
+^3 = NAME: Castle Shikigami 2 (Ntsc-U)
+^2 = GameID: SLUS-20962
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$9020CDBC 0C089003
++[M] Must Be On
+%Credits: MadCatz
+$901F8DAC 0C083326
+!!
++Arcade Mode = Debug Menu
+%Credits: punk7890
+$D022FBC0 000000D2
+$2022FBD0 00000001
+$0015351A 00000023
++Infinite Time
+%Credits: MadCatz
+$20154474 24420000
+!Player 1 Codes:
++Infinite Bombs
+%Credits: MadCatz
+$202C083A 00000063
++Infinite Life
+%Credits: MadCatz
+$202C0824 00000003
+!!
+!Player 2 Codes:
++Infinite Bombs
+%Credits: MadCatz
+$202C08D6 00000063
++Infinite Life
+%Credits: MadCatz
+$202C08C0 00000003
+!!
+!This Game Requires A Codebreaker PS2 V7.0 Or Higher!:
++Extra Credits
+%Credits: Code Master
+$10169B50 00000001
++Infinite Bombs (Both Players)
+%Credits: Code Master
+$2012C998 00000000
++Infinite Bombs P1
+%Credits: Code Master
+$102C083A 00000003
++Infinite Bombs P2
+%Credits: Code Master
+$102C08D6 00000003
++Infinite Boss Time
+%Credits: Code Master
+$20154478 00000000
++Infinite Credits
+%Credits: Code Master
+$202A3010 00000063
++Max Action Time P1
+%Credits: Code Master
+$202C0984 0000C350
++Max Action Time P2
+%Credits: Code Master
+$202C0988 0000C350
++Max Score
+%Credits: Code Master
+$202C0950 05F5E0FF
++Quick Score Gain
+%Credits: Code Master
+$102C0950 0000FFFF
+!!
+!!
+

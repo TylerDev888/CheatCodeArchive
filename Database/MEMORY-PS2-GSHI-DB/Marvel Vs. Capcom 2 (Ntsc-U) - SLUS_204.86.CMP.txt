@@ -1,0 +1,590 @@
+^3 = NAME: Marvel Vs. Capcom 2 (Ntsc-U)
+^2 = GameID: SLUS-20486
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F010CCB0 0010D96F
++(M) Must Be On
+%Credits: Codejunkies
+$F010D96C 0010D96F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0010D96F
++Enable Code (Must Be On)
+%Credits: CMX
+$9010D96C 0C0475D0
+!!
++1-Hit Death P1-Character 1
+%Credits: Code Master
+$D04F24E4 00000090
+$204F24E4 00000001
++1-Hit Death P1-Character 2
+%Credits: Code Master
+$D04F3054 00000090
+$204F3054 00000001
++1-Hit Death P1-Character 3
+%Credits: Code Master
+$D04F3BC4 00000090
+$204F3BC4 00000001
++1-Hit Death P2-Character 1
+%Credits: Code Master
+$D04F2A9C 00000090
+$204F2A9C 00000001
++1-Hit Death P2-Character 2
+%Credits: Code Master
+$D04F360C 00000090
+$204F360C 00000001
++1-Hit Death P2-Character 3
+%Credits: Code Master
+$D04F417C 00000090
+$204F417C 00000001
+!1st Fighter Codes:
++P1-1 - Assist Type Modifier {<I>83 - A (Alpha Assist Type)  84 - B (Beta Assist Type)  85 - Y (Gamma Assist Type)</I>}
+%Credits: HackFreak
+$004F258D 000000??
++P1-1 - Character Modifier {<I>Only Use The P1/P2 1St Fighter Codes When Playing As Abyss. When Playing As Abyss, The Game Will Rarely Lock-Up. Do Not Switch Or Perform Double Team Special Attacks When Your Playing As Abyss. Using The Following Attack Command For Abyss, Will Lock-Up The Game. Also, Don&#39;T Turn On The Command List, Or The Game Will Lock-Up. Normally When You Defeat Abyss, He Would Transform Into His Next Transformation. You Will Not Transform With This Code. Another Quick Note: The Game Doesn&#39;T Run Well On Certain Versions Of The PS2 And Will Lock-Up Occassionally. Don&#39;T Ask Me Why, But It Just Does For Some Odd Reason.  QCF+LK  QCF= Quarter Circle Forward (D, DF, F)  LK= Light Kick   83 - Ryu  84 - Zangief  85 - Guile  86 - Morrigan  87 - Anakaris  88 - Strider Hiryu  89 - Cyclops  8A - Wolverine (Expansion Type)  8B - Psylocke  8C - Ice Man  8D - Rogue  8E - Captain America  8F - Spider-Man  90 - Hulk  91 - Venom  92 - Doctor Doom  93 - T. Bonne (Tron)  94 - Jill  95 - Hayato  96 - Ruby Heart  97 - Son Son  98 - Amingo  99 - Marrow  9A - Cable  9B - Abyss (Black Armor) (Unplayable Character) 9E - Chun-Li  9F - Mega Man (Rock Man)  A0 - Roll  A1 - Akuma (Gouki)  A2 - B. B Hood (Bulleta) A3 - Felicia  A4 - Charlie (Nash)  A5 - Sakura  A6 - Dan  A7 - Cammy  A8 - Dhalsim  A9 - M. Bison (Vega)  AA - Ken  AB - Gambit  AC - Juggernaut  AD - Storm  AE - Sabretooth  AF - Magneto  B0 - Shuma-Gorath  B1 - War Machine  B2 - Silver Samurai  B3 - Omega Red  B4 - Spiral  B5 - Colossus  B6 - Iron Man  B7 - Sentinel  B8 - Black Heart  B9 - Thanos  BA - Jin  BB - Captain Commando  BC - Wolverine (Variety Type)  BD - Servbot (Kobun)</I>}
+%Credits: HackFreak
+$004F25F0 000000??
++P1-1 - Control Modifier {<I>83 - Player  84 - CPU</I>}
+%Credits: HackFreak
+$004F25E9 000000??
++P1-1 - Giant Fighter
+%Credits: HackFreak
+$204F2348 40000000
+$204F234C 40000000
++P1-1 - Pocket Fighter
+%Credits: HackFreak
+$204F2348 3F200000
+$204F234C 3F200000
++P1-1 Has Power Up {<I>Use FF For Max Damage.</I>}
+%Credits: Hacc
+$004F22C9 00000028
++P1-1 Has Speed Up
+%Credits: Hacc
+$004F24AE 00000002
++P1-1 Has Super Armor
+%Credits: Hacc
+$004F24A8 00000002
++P1-1 Infinite Projectiles {<I>This Will Allow You To Throw Multiple Projectiles Without The Delay.</I>}
+%Credits: Hacc
+$004F236A 00000000
++P2-1 - Assist Type Modifier
+%Credits: HackFreak
+$004F2B45 000000??
++P2-1 - Character Modifier
+%Credits: HackFreak
+$004F2BA8 000000??
++P2-1 - Control Modifier
+%Credits: HackFreak
+$004F2BA1 000000??
++P2-1 - Giant Fighter
+%Credits: HackFreak
+$204F2900 40000000
+$204F2904 40000000
++P2-1 - Pocket Fighter
+%Credits: HackFreak
+$204F2900 3F200000
+$204F2904 3F200000
++P2-1 Has Power Up {<I>Use FF For Max Damage.</I>}
+%Credits: Hacc
+$004F2881 00000028
++P2-1 Has Speed Up
+%Credits: Hacc
+$004F2A66 00000002
++P2-1 Has Super Armor
+%Credits: Hacc
+$004F2A60 00000002
++P2-1 Infinite Projectiles {<I>This Will Allow You To Throw Multiple Projectiles Without The Delay.</I>}
+%Credits: Hacc
+$004F2922 00000000
+!!
+!2nd Fighter Codes:
++P1-2 - Assist Type Modifier
+%Credits: HackFreak
+$004F30FD 000000??
++P1-2 - Character Modifier
+%Credits: HackFreak
+$004F3160 000000??
++P1-2 - Control Modifier
+%Credits: HackFreak
+$004F3159 000000??
++P1-2 - Giant Fighter
+%Credits: HackFreak
+$204F2EB8 40000000
+$204F2EBC 40000000
++P1-2 - Pocket Fighter
+%Credits: HackFreak
+$204F2EB8 3F200000
+$204F2EBC 3F200000
++P1-2 Has Power Up {<I>Use FF For Max Damage.</I>}
+%Credits: Hacc
+$004F2E39 00000028
++P1-2 Has Speed Up
+%Credits: Hacc
+$004F301E 00000002
++P1-2 Has Super Armor
+%Credits: Hacc
+$004F3018 00000002
++P1-2 Infinite Projectiles {<I>This Will Allow You To Throw Multiple Projectiles Without The Delay.</I>}
+%Credits: Hacc
+$004F2EDA 00000000
++P2-2 - Assist Type Modifier
+%Credits: HackFreak
+$004F36B5 000000??
++P2-2 - Character Modifier
+%Credits: HackFreak
+$004F3718 000000??
++P2-2 - Control Modifier
+%Credits: HackFreak
+$004F3711 000000??
++P2-2 - Giant Fighter
+%Credits: HackFreak
+$204F3470 40000000
+$204F3474 40000000
++P2-2 - Pocket Fighter
+%Credits: HackFreak
+$204F3470 3F200000
+$204F3474 3F200000
++P2-2 Has Power Up {<I>Use FF For Max Damage.</I>}
+%Credits: Hacc
+$004F33F1 00000028
++P2-2 Has Speed Up
+%Credits: Hacc
+$004F35D6 00000002
++P2-2 Has Super Armor
+%Credits: Hacc
+$004F35D0 00000002
++P2-2 Infinite Projectiles {<I>This Will Allow You To Throw Multiple Projectiles Without The Delay.</I>}
+%Credits: Hacc
+$004F3492 00000000
+!!
+!3rd Fighter Codes:
++P1-3 - Assist Type Modifier
+%Credits: HackFreak
+$004F3C6D 000000??
++P1-3 - Character Modifier
+%Credits: HackFreak
+$004F3CD0 000000??
++P1-3 - Control Modifier
+%Credits: HackFreak
+$004F3CC9 000000??
++P1-3 - Giant Fighter
+%Credits: HackFreak
+$204F3A28 40000000
+$204F3A2C 40000000
++P1-3 - Pocket Fighter
+%Credits: HackFreak
+$204F3A28 3F200000
+$204F3A2C 3F200000
++P1-3 Has Power Up {<I>Use FF For Max Damage.</I>}
+%Credits: Hacc
+$004F39A9 00000028
++P1-3 Has Speed Up
+%Credits: Hacc
+$004F3B8E 00000002
++P1-3 Has Super Armor
+%Credits: Hacc
+$004F3B88 00000002
++P1-3 Infinite Projectiles {<I>This Will Allow You To Throw Multiple Projectiles Without The Delay.</I>}
+%Credits: Hacc
+$004F3A4A 00000000
++P2-3 - Assist Type Modifier
+%Credits: HackFreak
+$004F4225 000000??
++P2-3 - Character Modifier
+%Credits: HackFreak
+$004F4288 000000??
++P2-3 - Control Modifier
+%Credits: HackFreak
+$004F4281 000000??
++P2-3 - Giant Fighter
+%Credits: HackFreak
+$204F3FE0 40000000
+$204F3FE4 40000000
++P2-3 - Pocket Fighter
+%Credits: HackFreak
+$204F3FE0 3F200000
+$204F3FE4 3F200000
++P2-3 Has Power Up {<I>Use FF For Max Damage.</I>}
+%Credits: Hacc
+$004F3F61 00000028
++P2-3 Has Speed Up
+%Credits: Hacc
+$004F4146 00000002
++P2-3 Has Super Armor
+%Credits: Hacc
+$004F4140 00000002
++P2-3 Infinite Projectiles {<I>This Will Allow You To Throw Multiple Projectiles Without The Delay.</I>}
+%Credits: Hacc
+$004F4002 00000000
+!!
++25% Health P1-Character 1
+%Credits: Code Master
+$D04F24E4 00000090
+$204F24E4 0000006C
++25% Health P1-Character 2
+%Credits: Code Master
+$D04F3054 00000090
+$204F3054 0000006C
++25% Health P1-Character 3
+%Credits: Code Master
+$D04F3BC4 00000090
+$204F3BC4 0000006C
++25% Health P2-Character 1
+%Credits: Code Master
+$D04F2A9C 00000090
+$204F2A9C 0000006C
++25% Health P2-Character 2
+%Credits: Code Master
+$D04F360C 00000090
+$204F360C 0000006C
++25% Health P2-Character 3
+%Credits: Code Master
+$D04F417C 00000090
+$204F417C 0000006C
++50% Health P1-Character 1
+%Credits: Code Master
+$D04F24E4 00000090
+$204F24E4 00000048
++50% Health P1-Character 2
+%Credits: Code Master
+$D04F3054 00000090
+$204F3054 00000048
++50% Health P1-Character 3
+%Credits: Code Master
+$D04F3BC4 00000090
+$204F3BC4 00000048
++50% Health P2-Character 1
+%Credits: Code Master
+$D04F2A9C 00000090
+$204F2A9C 00000048
++50% Health P2-Character 2
+%Credits: Code Master
+$D04F360C 00000090
+$204F360C 00000048
++50% Health P2-Character 3
+%Credits: Code Master
+$D04F417C 00000090
+$204F417C 00000048
++Both Players Can Select The Same Character
+%Credits: Codejunkies
+$2032D6BC 00000000
++Disable Blocking {<I>Both Players</I>}
+%Credits: Abystus
+$2018B028 00000000
+!Gain Codes:
++No Special Gain
+%Credits: Codejunkies
+$004D18F6 00000090
++No Special Gain
+%Credits: Codejunkies
+$004D18F8 00000000
++Quick Special Gain
+%Credits: Codejunkies
+$004D18F8 00000090
+!!
++Gallery Complete
+%Credits: Codejunkies
+$204F7FB4 FFFFFFFF
+$204F7FB8 FFFFFFFF
++Have All Stages
+%Credits: Code Master
+$004D179A 00000007
+!Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$104F24E4 00000090
++Infinite Health
+%Credits: Codejunkies
+$104F3054 00000090
++Infinite Health
+%Credits: Codejunkies
+$104F3BC4 00000090
++Infinite Health
+%Credits: Codejunkies
+$104F2A9C 00000090
++Infinite Health
+%Credits: Codejunkies
+$104F360C 00000090
++Infinite Health
+%Credits: Codejunkies
+$104F417C 00000090
++No Health
+%Credits: Codejunkies
+$D04F24E4 00000090
+$104F24E4 00000001
++No Health
+%Credits: Codejunkies
+$D04F3054 00000090
+$104F3054 00000001
++No Health
+%Credits: Codejunkies
+$D04F3BC4 00000090
+$104F3BC4 00000001
++No Health
+%Credits: Codejunkies
+$D04F2A9C 00000090
+$104F2A9C 00000000
++No Health
+%Credits: Codejunkies
+$D04F360C 00000090
+$104F360C 00000001
++No Health
+%Credits: Codejunkies
+$D04F417C 00000090
+$104F417C 00000001
+!!
++Health Never Rebuilds (All Players)
+%Credits: Code Master
+$20190114 00000000
+!Health Regain Codes:
++Max Health Regain
+%Credits: Codejunkies
+$104F24E8 00000090
++Max Health Regain
+%Credits: Codejunkies
+$104F3058 00000090
++Max Health Regain
+%Credits: Codejunkies
+$104F3BC8 00000090
++Max Health Regain
+%Credits: Codejunkies
+$104F2AA0 00000090
++Max Health Regain
+%Credits: Codejunkies
+$104F3610 00000090
++Max Health Regain
+%Credits: Codejunkies
+$104F4180 00000090
++No Health Regain
+%Credits: Codejunkies
+$104F24E8 00000000
++No Health Regain
+%Credits: Codejunkies
+$104F3058 00000000
++No Health Regain
+%Credits: Codejunkies
+$104F3BC8 00000000
++No Health Regain
+%Credits: Codejunkies
+$104F2AA0 00000000
++No Health Regain
+%Credits: Codejunkies
+$104F3610 00000000
++No Health Regain
+%Credits: Codejunkies
+$104F4180 00000000
+!!
++Hella Score Gain P1
+%Credits: Code Master
+$204F2598 99999999
++Hella Score Gain P2
+%Credits: Code Master
+$204F2B50 99999999
++Hit Anywhere (Both Players)
+%Credits: Code Master
+$201E7DF0 00000000
+$201E7ED0 00000000
++Infinite Points
+%Credits: Code Master
+$104F7F92 0000270F
++Infinite Points
+%Credits: Codejunkies
+$104F7F92 000026AC
++Infinite Time
+%Credits: Code Master
+$004D18E0 00000063
++Max Score P2
+%Credits: Code Master
+$204F2B50 99999999
+$204F2B54 00000999
++Max Score P2
+%Credits: Code Master
+$204F2598 99999999
+$204F259C 00000999
++Max Special Bar P1
+%Credits: Code Master
+$104D18F6 00000090
++Max Special Bar P2
+%Credits: Code Master
+$104D18F8 00000090
+!Misc. Codes:
++Background Modifier {<I>83 - Flying Ship (Day)  84 - Desert (Noon)  85 - Factory  86 - Carnival (Day)  87 - Lagoon (Foggy)  88 - Cave (Green)  89 - Clock Tower (Day)  8A - River (Snowing)  8B - Abyss&#39;S Temple  8C - Flying Ship (Night)  8D - Desert (Sunny)  8E - Training Room  8F - Carnival (Night)  90 - Lagoon (Sunny)  91 - Cave (Red)  92 - Clock Tower (Snowing)  93 - River (Sunny)</I>}
+%Credits: HackFreak
+$004C27D0 000000??
++Invisible Life Bars (Color) {<I>With This Code, It Makes The Life Bars (Color) Invisible, Allowing For Some Interesting Matches... You Never Know When You&#39;Re About To Die! This Code Modifies The Size Of The Color In The Health Bars. The Default Value Is 3F800000.</I>}
+%Credits: HackFreak
+$2043DF58 00000000
+$2043DF5C 00000000
+$2043DF60 00000000
++Press L3 For Slow Motion/R3 For Normal Speed {<I>Activate On Controller 1.</I>}
+%Credits: HackFreak
+$200C0220 3C080080
+$200C0224 1D00FFFF
+$200C0228 2508FFFF
+$200C022C 03E00008
+$D062C702 0000FFFD
+$2010D984 08030088
+$D062C702 0000FFFB
+$2010D984 03E00008
+!!
++No Health P1-Character 1
+%Credits: Code Master
+$204F24E4 00000000
++No Health P1-Character 2
+%Credits: Code Master
+$204F3054 00000000
++No Health P1-Character 3
+%Credits: Code Master
+$204F3BC4 00000000
++No Health P2-Character 1
+%Credits: Code Master
+$204F2A9C 00000000
++No Health P2-Character 2
+%Credits: Code Master
+$204F360C 00000000
++No Health P2-Character 3
+%Credits: Code Master
+$204F417C 00000000
++No Special Bar P1
+%Credits: Code Master
+$104D18F6 00000000
++No Special Bar P2
+%Credits: Code Master
+$104D18F8 00000000
++P1 Infinite Move Time (Hold Select) {<I>Depending On The Move, You Will Be Able To Make It Last Forever. For Example, Holding Select During Ryu&#39;S Hurricane Kick Will Make It Infinite Until You Release Select.</I>}
+%Credits: Hacc
+$E003FFFE 0062C702
+$004F20CC 00000040
+$004F2C3C 00000040
+$004F37AC 00000040
++P1 Max Reverse Joker Command
+%Credits: HackFreak
+$D062C702 0000????
++P1 Sakura Modifier (Select+L1: Normal; Select+R1: Dark) {<I>This Will Allow You To Change Her Moves At Will Without Using A Special.</I>}
+%Credits: Hacc
+$E003FBFE 0062C702
+$004F2180 00000000
+$004F2CF0 00000000
+$004F3860 00000000
+$E003F7FE 0062C702
+$004F2180 00000001
+$004F2CF0 00000001
+$004F3860 00000001
++P1 Slow Animation (Hold L3)
+%Credits: Hacc
+$E003FFFD 0062C702
+$004F2264 00000001
+$004F2DD4 00000001
+$004F3944 00000001
++P1 Zangief Modifier (Select+L2: Normal; Select+R2: Mech) {<I>This Will Allow You To Change His Moves At Will Without Using A Special. Other Characters Will Be Affected by this code. Replace the value &quot;80&quot; with 1 to make all characters stable. This will give you a semi-mech Zangief (minus the heaviness).</i>}
+%Credits: Hacc
+$E003FEFE 0062C702
+$004F22C6 00000000
+$004F2E36 00000000
+$004F39A6 00000000
+$E003FDFE 0062C702
+$004F22C6 00000080
+$004F2E36 00000080
+$004F39A6 00000080
++P2 Infinite Move Time (Hold Select) {<I>Depending On The Move, You Will Be Able To Make It Last Forever. For Example, Holding Select During Ryu&#39;S Hurricane Kick Will Make It Infinite Until You Release Select.</I>}
+%Credits: Hacc
+$E003FFFE 0062C682
+$004F2684 00000040
+$004F31F4 00000040
+$004F3D64 00000040
++P2 Max Reverse Joker Command
+%Credits: HackFreak
+$D062C682 0000????
++P2 Sakura Modifier (Select+L1: Normal; Select+R1: Dark) {<I>This Will Allow You To Change Her Moves At Will Without Using A Special.</I>}
+%Credits: Hacc
+$E003FBFE 0062C682
+$004F2738 00000000
+$004F32A8 00000000
+$004F3E18 00000000
+$E003F7FE 0062C682
+$004F2738 00000001
+$004F32A8 00000001
+$004F3E18 00000001
++P2 Slow Animation (Hold L3)
+%Credits: Hacc
+$E003FFFD 0062C682
+$004F281C 00000001
+$004F338C 00000001
+$004F3EFC 00000001
++P2 Zangief Modifier (Select+L2: Normal; Select+R2: Mech) {<I>This Will Allow You To Change His Moves At Will Without Using A Special. Other Characters Will Be Affected by this code. Replace the value &quot;80&quot; with 1 to make all characters stable. This will give you a semi-mech Zangief (minus the heaviness).</i>}
+%Credits: Hacc
+$E003FEFE 0062C682
+$004F287E 00000000
+$004F33EE 00000000
+$004F3F5E 00000000
+$E003FDFE 0062C682
+$004F287E 00000080
+$004F33EE 00000080
+$004F3F5E 00000080
++Quick Score Gain P1
+%Credits: Code Master
+$104F2598 00009999
++Quick Score Gain P2
+%Credits: Code Master
+$104F2B50 00009999
+!Special Codes:
++Special Level 0
+%Credits: Codejunkies
+$004D18FA 00000000
++Special Level 0
+%Credits: Codejunkies
+$004D18FB 00000000
++Special Level 1
+%Credits: Codejunkies
+$004D18FA 00000001
++Special Level 1
+%Credits: Codejunkies
+$004D18FB 00000001
++Special Level 2
+%Credits: Codejunkies
+$004D18FA 00000002
++Special Level 2
+%Credits: Codejunkies
+$004D18FB 00000002
++Special Level 3
+%Credits: Codejunkies
+$004D18FA 00000003
++Special Level 3
+%Credits: Codejunkies
+$004D18FB 00000003
++Special Level 4
+%Credits: Codejunkies
+$004D18FA 00000004
++Special Level 4
+%Credits: Codejunkies
+$004D18FB 00000004
++Special Level Max
+%Credits: Codejunkies
+$004D18FA 00000005
++Special Level Max
+%Credits: Codejunkies
+$004D18FB 00000005
+!!
++Unlock All Characters
+%Credits: InterAct
+$204F4330 FFFFFFFF
+$204F4334 FFFFFFFF
++Unlock All Characters
+%Credits: Code Master
+$204F4330 F8FFFFFF
+$204F4334 07FFFFFF
++Unlock All Characters
+%Credits: Codejunkies
+$EED8308A A0B6D565
+$EED83086 51B6D565
++Unlock All Colors
+%Credits: Codejunkies
+$EED83092 A0B6D565
+$EED8308E 51B6D565
++Unlock All Colors
+%Credits: Codejunkies
+$204F4338 F8FFFFFF
+$204F433C 07FFFFFF
+!!
+

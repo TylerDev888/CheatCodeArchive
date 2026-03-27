@@ -1,0 +1,16 @@
+^2 = GameID: NPEA00331
+^3 = NAME: Payday: The Heist (PSN)
+^4 = FILE: HEADER.BIN
++Update Md5 For Header.bin (required)
+(set range:0x000004,0x000514)
+$set pointer:lastbyte-0xF
+$set range:0x000004,pointer
+$set [hash]:MD5
+$write next (0):[hash]
+^4 = FILE: INFO.BIN
++Update Md5 For Info.bin (required)
+(set range:0x000004,0x00380B)
+$set pointer:lastbyte-0xF
+$set range:0x000004,pointer
+$set [hash]:MD5
+$write next (0):[hash]

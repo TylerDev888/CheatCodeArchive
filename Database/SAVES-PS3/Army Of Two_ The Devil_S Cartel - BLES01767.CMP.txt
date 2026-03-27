@@ -1,0 +1,23 @@
+^2 = GameID: BLES01767
+^3 = NAME: Army of TWO: The Devil's Cartel
+^5 = APCRED: From KE-HA
+(Same patches may not be supported by BSD yet)
+^4 = FILE: USR-DATA
++Cash $999000
+$8001000A 57616C6C
+$65744361 73680000
+$2800000F 39393930
+$18000013 00003030
++Level 25(from X-ghost-x (using Bsd's Patch Creator))
+$search 0x000B436172656572436173680000000005
+$write at 0x000021E1:0x393939303030
++Max Career Cash & Bank Credit (alt)(works After Tutorial)
+$search "CareerCash"
+$write next (15):"999000"
+$search "BankCr"
+$write next (15):"999000"
++Default:update Crc32 (required)
+$set range:0x4,0x63FFF
+$set [hash]:crc32
+$write at 0x0:[hash]
+$write at 0x0:xor:CF012886

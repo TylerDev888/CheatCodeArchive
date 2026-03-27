@@ -1,0 +1,55 @@
+^3 = NAME: Silent Scope (Pal-Unk)
+^2 = GameID: SLES-50037
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01AC954 0000000E
++(M) Must Be On
+%Credits: Codejunkies
+$F01AC954 001AC957
+!!
+!Continue Codes:
++Infinite Continues
+%Credits: Codejunkies
+$102A0484 00000005
++Never More Than 1 Continues
+%Credits: Codejunkies
+$E0010001 302A0484
+$102A0484 00000001
++Never More Than 2 Continues
+%Credits: Codejunkies
+$E0010002 302A0484
+$102A0484 00000002
++Never More Than 3 Continues
+%Credits: Codejunkies
+$E0010003 302A0484
+$102A0484 00000003
+!!
+!Health Codes:
++High Score - Training
+%Credits: Codejunkies
+$102D53D4 0000A028
++Infinite Health
+%Credits: Codejunkies
+$102D53F8 00000100
++Never More Than 25% Health
+%Credits: Codejunkies
+$E0010040 302D53F8
+$102D53F8 00000040
++Never More Than 50% Health
+%Credits: Codejunkies
+$E0010080 302D53F8
+$102D53F8 00000080
++Never More Than 75% Health
+%Credits: Codejunkies
+$E00100C0 302D53F8
+$102D53F8 000000C0
+!!
++Infinite Health
+%Credits: InterAct
+$102D5352 00000032
++Stop Timer
+%Credits: InterAct
+$10352D50 0000000A
+!!
+

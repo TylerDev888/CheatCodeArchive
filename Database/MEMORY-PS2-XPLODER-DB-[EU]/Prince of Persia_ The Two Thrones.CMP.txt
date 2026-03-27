@@ -1,0 +1,37 @@
+^3 = NAME: Prince Of Persia: The Two Thrones
+!Masters:
++Mastercode
+%Credits: Xploder
+$90103F10 0C046740
+$200C2020 03E00008
+$200C2024 AFA0008C
+$20439690 0C030800
+!!
+!Infinite:
++Health
+%Credits: Xploder
+$200C2008 8EC11C00
+$200C200C AEC102B0
++Sand Slots
+%Credits: Xploder
+$200C2010 24010006
+$200C2014 AEC10D08
++Secondary Weapon
+%Credits: Xploder
+$20241730 00000000
+!!
+!Max:
++Health
+%Credits: Xploder
+$200C2000 24010100
+$200C2004 AEC11C00
++Sand Credits
+%Credits: Xploder
+$20A956F4 0098967F
+!!
+!Unlock:
++All Sand Powers
+%Credits: Xploder
+$200C2018 240100FF
+$200C201C AEC1177C
+!!

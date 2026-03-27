@@ -1,0 +1,46 @@
+^1 = HASH: 03 4F 3A A9 C1 0F EA 4E A7 CD 1D 06 AF EE DC 73 45 4D 64 F6
+^2 = GameID: SLUS_217.39
+^3 = NAME: Iron Man
+!Masters:
++Enable Code (MUST BE ON)
+$9011ED50 0C047AFC
+!!
+!Misc Codes:
++Inf Grenade Launcher Ammo
+%Credit: SkillerCMP
+$10EDEDA0 00000000
++Inf Basic Ammo
+%Credit: SkillerCMP
+$10ED5458 00000000
++Inf Launcher Ammo
+%Credit: SkillerCMP
+$10E739E0 00000000
++Gain Grenade Launcher Ammo
+%Credit: SkillerCMP
+$10EDEDA0 00000001
++Gain Basic Ammo
+%Credit: SkillerCMP
+$10ED5458 00000001
++Gain Launcher Ammo
+%Credit: SkillerCMP
+$10E739E0 00000001
++Inf Weapon Power
+%Credit: SkillerCMP
+$20E957A8 00000000
++Inf Propulsion
+%Credit: SkillerCMP
+$20E95764 00000000
++Inf Armor
+%Credit: SkillerCMP
+$20E94F68 C620000C
++Max EXP One Use
+%Credit: SkillerCMP
+$00E5A64C 00000001
++Gain "amount" Enemies Killed Per 1
+%Credit: SkillerCMP
+$10ECC360 0000[Amount:2710:HEX:BIG]
++Infinite Power Cells
+%Credit: SkillerCMP
+$D0E1A308 000025D4
+$20E1A308 00000000
+!!

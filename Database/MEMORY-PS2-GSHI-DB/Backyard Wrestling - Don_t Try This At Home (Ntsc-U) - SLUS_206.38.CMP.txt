@@ -1,0 +1,560 @@
+^3 = NAME: Backyard Wrestling - Don't Try This At Home (Ntsc-U)
+^2 = GameID: SLUS-20638
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F02EBFE4 002EBFE7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002EBFE7
+!!
++1-Hit Death P1
+%Credits: Code Master
+$D03CBEA8 000009C4
+$103CBEA8 00000001
++1-Hit Death P2
+%Credits: Code Master
+$D03CEFE8 000009C4
+$103CEFE8 00000001
++25% Health P1
+%Credits: Code Master
+$D03CBEA8 000009C4
+$103CBEA8 00000271
++25% Health P2
+%Credits: Code Master
+$D03CEFE8 000009C4
+$103CEFE8 00000271
++50% Health P1
+%Credits: Code Master
+$D03CBEA8 000009C4
+$103CBEA8 000004E2
++50% Health P2
+%Credits: Code Master
+$D03CEFE8 000009C4
+$103CEFE8 000004E2
++75% Health P1
+%Credits: Code Master
+$D03CBEA8 000009C4
+$103CBEA8 00000753
++75% Health P2
+%Credits: Code Master
+$D03CEFE8 000009C4
+$103CEFE8 00000753
++All Enemies Die Instantly: P1
+%Credits: MadCatz
+$103CEFE8 0001869F
++All Enemies Die Instantly: P2
+%Credits: MadCatz
+$103CBEA8 0001869F
++Always Large Stunned P1
+%Credits: Code Master
+$D03CC886 00000000
+$103CC886 00000258
++Always Large Stunned P2
+%Credits: Code Master
+$D03CF9C6 00000000
+$103CF9C6 00000258
++Always Light Stunned P1
+%Credits: Code Master
+$D03CC882 00000000
+$103CC882 0000012C
++Always Light Stunned P2
+%Credits: Code Master
+$D03CF9C2 00000000
+$103CF9C2 0000012C
++Always Low Match Time
+%Credits: Code Master
+$203C2820 00000000
++Always Medium Stunned P1
+%Credits: Code Master
+$D03CC884 00000000
+$103CC884 000001C2
++Always Medium Stunned P2
+%Credits: Code Master
+$D03CF9C4 00000000
+$103CF9C4 000001C2
+!Bonus Games:
++King Of The Hill
+%Credits: Codejunkies
+$203C073C 00000000
++Tag
+%Credits: Codejunkies
+$203C0748 00000000
+!!
++Disable HUD
+%Credits: Code Master
+$2047768C 00000001
+!Extra Stuff:
++Clean Pause
+%Credits: Codejunkies
+$D09F3402 0000FAFF
+$2047768C 00000001
+$D09F3402 0000F5FF
+$2047768C 00000000
++Press L1+L2 For Clean Pause
+%Credits: Codejunkies
+$D09F3402 0000FAFF
+$2047768C 00000001
++Press R1+R2 To Resume
+%Credits: Codejunkies
+$D09F3402 0000F5FF
+$2047768C 00000000
++Show Debug Info
+%Credits: Codejunkies
+$2046B10C 00000001
++Stretched Screen
+%Credits: Codejunkies
+$206E8094 3E000000
+!!
+!Health Codes:
++25% Health
+%Credits: Codejunkies
+$D03CBEA8 000009C4
+$203CBEA8 00000271
++25% Health
+%Credits: Codejunkies
+$D03CEFE8 000009C4
+$203CEFE8 00000271
++50% Health
+%Credits: Codejunkies
+$D03CBEA8 000009C4
+$203CBEA8 000004E2
++50% Health
+%Credits: Codejunkies
+$D03CEFE8 000009C4
+$203CEFE8 000004E2
++75% Health
+%Credits: Codejunkies
+$D03CBEA8 000009C4
+$203CBEA8 00000753
++75% Health
+%Credits: Codejunkies
+$D03CEFE8 000009C4
+$203CEFE8 00000753
++Infinite Health
+%Credits: Codejunkies
+$203CBEA8 000009C4
++Low Health
+%Credits: Codejunkies
+$203CBEA8 00000001
+!!
++Infinite Health P1
+%Credits: Code Master
+$103CBEA8 000009C4
++Infinite Health P2
+%Credits: Code Master
+$103CEFE8 000009C4
++Infinite Health: P1
+%Credits: MadCatz
+$203CBEA8 0000270F
++Infinite Health: P2
+%Credits: MadCatz
+$203CEFE8 0000270F
+!Media Room Codes:
++Backyard Babes 101
+%Credits: Codejunkies
+$203BF9B0 00000000
++Bumps And Bruises
+%Credits: Codejunkies
+$203BF9C8 00000000
++Clown Chaos
+%Credits: Codejunkies
+$203BF9F8 00000000
++Collateral Damage
+%Credits: Codejunkies
+$203BF9D4 00000000
++Credits
+%Credits: Codejunkies
+$203BFA10 00000000
++Horsing Around
+%Credits: Codejunkies
+$203BF9BC 00000000
++JCW Boys
+%Credits: Codejunkies
+$203BF9EC 00000000
++Kids Today...
+%Credits: Codejunkies
+$203BF9E0 00000000
+!!
+!Media Room-Unlock Movie Codes:
++All Movies
+%Credits: Code Master
+$403BF9B0 00090003
+$00000000 00000000
++Promotional Video
+%Credits: Code Master
+$203BFA04 00000000
+!!
++Never Stunned P1: Large Stun Bar
+%Credits: MadCatz
+$209B37F0 00000000
++Never Stunned P1: Medium Stun Bar
+%Credits: MadCatz
+$209B36F0 00000000
++Never Stunned P1: Small Stun Bar
+%Credits: MadCatz
+$209B35F0 00000000
++Never Stunned P2: Large Stun Bar
+%Credits: MadCatz
+$209B3870 00000000
++Never Stunned P2: Medium Stun Bar
+%Credits: MadCatz
+$209B3770 00000000
++Never Stunned P2: Small Stun Bar
+%Credits: MadCatz
+$209B3670 00000000
++No Health P1
+%Credits: Code Master
+$103CBEA8 00000000
++No Health P2
+%Credits: Code Master
+$103CEFE8 00000000
+!Player 1 Codes -> Health Codes:
+!!
+!Player 1 Codes -> Stun Codes:
++Never Large Stunned
+%Credits: Codejunkies
+$103CC886 00000000
++Never Medium Stunned
+%Credits: Codejunkies
+$103CC884 00000000
++Never Small Stunned
+%Credits: Codejunkies
+$103CC882 00000000
++Quickly Large Stunned
+%Credits: Codejunkies
+$D03CC886 00000000
+$103CC886 000002B8
++Quickly Medium Stunned
+%Credits: Codejunkies
+$D03CC884 00000000
+$103CC884 00000160
++Quickly Small Stunned
+%Credits: Codejunkies
+$D03CC882 00000000
+$103CC882 000000AA
+!!
+!Player 2 Codes:
++Infinite Health
+%Credits: Codejunkies
+$203CEFE8 000009C4
+!!
+!Player 2 Codes -> Health Codes:
+!!
+!Player 2 Codes -> Stun Codes:
++Never Large Stunned
+%Credits: Codejunkies
+$103CF9C6 00000000
++Never Medium Stunned
+%Credits: Codejunkies
+$103CF9C4 00000000
++Never Small Stunned
+%Credits: Codejunkies
+$103CF9C2 00000000
++Quickly Large Stunned
+%Credits: Codejunkies
+$D03CF9C6 00000000
+$103CF9C6 000002B8
++Quickly Medium Stunned
+%Credits: Codejunkies
+$D03CF9C4 00000000
+$103CF9C4 00000160
++Quickly Small Stunned
+%Credits: Codejunkies
+$D03CF9C2 00000000
+$103CF9C2 000000AA
+!!
++Stop Timer
+%Credits: Codejunkies
+$203C2820 00000004
+!Stun Codes:
+!!
+!Unlock Bonus Games Codes (VS. Modes):
++Survival Mode
+%Credits: Code Master
+$203C0730 00000000
+!!
++Unlock Bonus Games: King Of The Hill
+%Credits: MadCatz
+$103C073C 00000000
++Unlock Bonus Games: Tag
+%Credits: MadCatz
+$103C0748 00000000
+!Unlock Character Codes:
++Adrianne Pain
+%Credits: Codejunkies
+$203BFF5C 00000000
++Atrocity Xxx
+%Credits: Codejunkies
+$203BFE2C 00000000
++Backyard Bedlam
+%Credits: Codejunkies
+$203AF700 00000000
++Club Beatdown
+%Credits: Codejunkies
+$203AF724 00000000
++Da Bone Doctor
+%Credits: Codejunkies
+$203BFF1C 00000000
++Dameon Redd
+%Credits: Codejunkies
+$203BFF0C 00000000
++El Chicharron
+%Credits: Codejunkies
+$203BFF2C 00000000
++El Drunko
+%Credits: Codejunkies
+$203BFE8C 00000000
++Hernia
+%Credits: Codejunkies
+$203BFF6C 00000000
++Jcw's Evil Dead
+%Credits: Codejunkies
+$203BFE7C 00000000
++Karnage
+%Credits: Codejunkies
+$203BFDCC 00000000
++Mad Man Pondo
+%Credits: Codejunkies
+$203BFE3C 00000000
++Madrox
+%Credits: Codejunkies
+$203BFEBC 00000000
++Mall
+%Credits: Codejunkies
+$203BF988 00000000
++Mansion
+%Credits: Codejunkies
+$203BF994 00000000
++Mansion Mayhem
+%Credits: Codejunkies
+$203AF73C 00000000
++Masked Mike
+%Credits: Codejunkies
+$203BFDEC 00000000
++Meatlocker Mash
+%Credits: Codejunkies
+$203AF718 00000000
++Rosie
+%Credits: Codejunkies
+$203BFF4C 00000000
++Ross Lover
+%Credits: Codejunkies
+$203BFEFC 00000000
++Sabu
+%Credits: Codejunkies
+$203BFE1C 00000000
++Sally
+%Credits: Codejunkies
+$203BFE9C 00000000
++Shaggy 2 Dope
+%Credits: Codejunkies
+$203BFE0C 00000000
++Shopping Spree
+%Credits: Codejunkies
+$203AF730 00000000
++Sonny D Chopper
+%Credits: Codejunkies
+$203BFF3C 00000000
++Talkshow Terror
+%Credits: Codejunkies
+$203AF748 00000000
++Television Studio
+%Credits: Codejunkies
+$203BF9A0 00000000
++Tom Dub
+%Credits: Codejunkies
+$203BFEDC 00000000
++Truckstop Turmoil
+%Credits: Codejunkies
+$203AF70C 00000000
++Tylene
+%Credits: Codejunkies
+$203BFDAC 00000000
++Violent J
+%Credits: Codejunkies
+$203BFDFC 00000000
+!!
+!Unlock Characters:
++Talk Show Mode
+%Credits: Codejunkies
+!!
++Unlock Characters: Adrianne Pain
+%Credits: MadCatz
+$103BFF5C 00000000
++Unlock Characters: Atrocity XXX
+%Credits: MadCatz
+$103BFE2C 00000000
++Unlock Characters: Da Bone Doctor
+%Credits: MadCatz
+$103BFF1C 00000000
++Unlock Characters: Dameon Redd
+%Credits: MadCatz
+$103BFF0C 00000000
++Unlock Characters: El Chicharron
+%Credits: MadCatz
+$103BFF2C 00000000
++Unlock Characters: El Drunko
+%Credits: MadCatz
+$103BFE8C 00000000
++Unlock Characters: Hernia
+%Credits: MadCatz
+$103BFF6C 00000000
++Unlock Characters: Jcw's Evil Dead
+%Credits: MadCatz
+$103BFE7C 00000000
++Unlock Characters: Karnage
+%Credits: MadCatz
+$103BFDCC 00000000
++Unlock Characters: Mad Man Pondo
+%Credits: MadCatz
+$103BFE3C 00000000
++Unlock Characters: Madrox
+%Credits: MadCatz
+$103BFEBC 00000000
++Unlock Characters: Masked Mike
+%Credits: MadCatz
+$103BFDEC 00000000
++Unlock Characters: Rosie
+%Credits: MadCatz
+$103BFF4C 00000000
++Unlock Characters: Ross Lover
+%Credits: MadCatz
+$103BFEFC 00000000
++Unlock Characters: Sabu
+%Credits: MadCatz
+$103BFE1C 00000000
++Unlock Characters: Sally
+%Credits: MadCatz
+$103BFE9C 00000000
++Unlock Characters: Shaggy 2 Dope
+%Credits: MadCatz
+$103BFE0C 00000000
++Unlock Characters: Sonny D. Chopper
+%Credits: MadCatz
+$103BFF3C 00000000
++Unlock Characters: Tom Dub
+%Credits: MadCatz
+$103BFEDC 00000000
++Unlock Characters: Tylene
+%Credits: MadCatz
+$103BFDAC 00000000
++Unlock Characters: Violent J
+%Credits: MadCatz
+$103BFDFC 00000000
+!Unlock Exhibition Arena Codes:
++All Arenas
+%Credits: Code Master
+$403BF958 00070003
+$00000000 00000000
++Backyard
+%Credits: Code Master
+$203BF958 00000000
++Gentleman's Club
+%Credits: Code Master
+$203BF97C 00000000
++Slaughter House
+%Credits: Code Master
+$203BF970 00000000
++Truckstop
+%Credits: Code Master
+$203BF964 00000000
+!!
++Unlock Levels: Backyard Bedlam
+%Credits: MadCatz
+$103AF700 00000000
++Unlock Levels: Club Beatdown
+%Credits: MadCatz
+$103AF724 00000000
++Unlock Levels: Mall
+%Credits: MadCatz
+$103BF988 00000000
++Unlock Levels: Mansion
+%Credits: MadCatz
+$103BF994 00000000
++Unlock Levels: Mansion Mayhem
+%Credits: MadCatz
+$103AF73C 00000000
++Unlock Levels: Meatlocker Mash
+%Credits: MadCatz
+$103AF718 00000000
++Unlock Levels: Shopping Spree
+%Credits: MadCatz
+$103AF730 00000000
++Unlock Levels: Talkshow Terror
+%Credits: MadCatz
+$103AF748 00000000
++Unlock Levels: Television Studio
+%Credits: MadCatz
+$103BF9A0 00000000
++Unlock Levels: Truckstop Turmoil
+%Credits: MadCatz
+$103AF70C 00000000
++Unlock Movies: Backyard Babes 101
+%Credits: MadCatz
+$103BF9B0 00000000
++Unlock Movies: Bumps And Bruises
+%Credits: MadCatz
+$103BF9C8 00000000
++Unlock Movies: Clown Chaos
+%Credits: MadCatz
+$103BF9F8 00000000
++Unlock Movies: Collateral Damage
+%Credits: MadCatz
+$103BF9D4 00000000
++Unlock Movies: Credits
+%Credits: MadCatz
+$103BFA10 00000000
++Unlock Movies: Horsing Around
+%Credits: MadCatz
+$103BF9BC 00000000
++Unlock Movies: JCW Boys
+%Credits: MadCatz
+$103BF9EC 00000000
++Unlock Movies: Kids Today...
+%Credits: MadCatz
+$103BF9E0 00000000
+!Unlock Talk Show Mode Segment Codes:
++All Segments
+%Credits: Code Master
+$403AF700 00070003
+$00000000 00000000
+!!
+!Unlock Wrestler Codes:
++All Wrestlers
+%Credits: Code Master
+$403BFD9C 00240004
+$00000000 00000000
+$203BFFDC 00000000
++Commissioner
+%Credits: Code Master
+$203BFE4C 00000000
++Gupta
+%Credits: Code Master
+$203BFDDC 00000000
++Jcw's Evil Dead
+%Credits: Code Master
+$203BFE6C 00000000
++Jezebel
+%Credits: Code Master
+$203BFEAC 00000000
++Josh Asbill
+%Credits: Code Master
+$203BFFDC 00000000
++Josh Prohibition
+%Credits: Code Master
+$203BFDBC 00000000
++Kitana
+%Credits: Code Master
+$203BFE5C 00000000
++Mdogg20
+%Credits: Code Master
+$203BFD9C 00000000
++Monoxide
+%Credits: Code Master
+$203BFECC 00000000
++Rude Boy
+%Credits: Code Master
+$203BFEEC 00000000
+!!
+

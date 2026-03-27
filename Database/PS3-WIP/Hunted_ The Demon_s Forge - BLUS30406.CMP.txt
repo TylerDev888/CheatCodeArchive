@@ -1,0 +1,21 @@
+^2 = GameID: BLUS30406
+^3 = NAME: Hunted: The Demon's Forge
+^5 = APCRED: From Game Genie For PS3
+^4 = FILE: BLUS30406-PROFILE\PAYLOAD
++Decompress Payload (required)
+$Decompress(0x00000018, 15)
+^4 = FILE: ~extracted\00000018.dat
++Max Gold
+$20000173 000F423F
++189999 Gold
+$80010004 00002301
+$28000004 0002E62F
+^4 = FILE: BLES01309-PROFILE\PAYLOAD
++Compress Payload (required)
+$Compress(0x00000018)
++Update Sha1 (required)
+(set range:0x000014,0x00034C)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

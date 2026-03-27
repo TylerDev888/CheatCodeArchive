@@ -1,0 +1,28 @@
+^3 = NAME: Hitman - Contracts (Pal-Unk)
+^2 = GameID: SLES-52136
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0450C0C 00450C0F
+!!
++God Mode
+%Credits: Codejunkies
+$20507318 3F800000
++Infinite Ammo/No Reload
+%Credits: Codejunkies
+$1020F9AC 00000000
++Infinite Health
+%Credits: Codejunkies
+$203A3990 00000000
++Infinite Saves
+%Credits: Codejunkies
+$1037BD94 00000000
++Infinite/Max Ammo
+%Credits: Codejunkies
+$20444D80 24040001
+$20444D88 AC610BAC
++Invisible
+%Credits: Codejunkies
+$20506A40 3F800000
+!!
+

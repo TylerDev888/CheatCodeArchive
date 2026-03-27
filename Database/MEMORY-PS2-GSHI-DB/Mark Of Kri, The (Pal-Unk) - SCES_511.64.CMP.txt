@@ -1,0 +1,60 @@
+^3 = NAME: Mark Of Kri, The (Pal-Unk)
+^2 = GameID: SCES-51164
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F032A894 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F032A894 0032A897
+!!
++Crazy A.I (This Also Makes The Guys With Horns Mute)
+%Credits: Codejunkies
+$2019DE90 03E00008
+$2019DE94 00000000
+$2019E0B8 03E00008
+$2019E0BC 00000000
++Health Bar Always Visible
+%Credits: Codejunkies
+$203EEB18 00000001
++Infinite Arrows
+%Credits: Codejunkies
+$106BEB78 00000014
++Infinite Health
+%Credits: Codejunkies
+$106BD946 0000429A
++Max Save Scrolls
+%Credits: Codejunkies
+$106BEC30 00000004
++Midnight Mode
+%Credits: Codejunkies
+$203EEB28 00000020
+$203EEB30 00000020
++No Weapon Collision
+%Credits: Codejunkies
+$20168478 03E00008
+$2016847C 00000000
++Pass Through Walls (Press Up To Activate And Down To De-Activate)
+%Credits: Codejunkies
+$D1EF9DC2 0000FFEF
+$20168CC8 03E00008
+$D1EF9DC2 0000FFEF
+$20168CCC 00000000
+$D1EF9DC2 0000FFBF
+$20168CC8 27BDFFC0
+$D1EF9DC2 0000FFBF
+$20168CCC FFB20020
++Pass Through Walls - To Turn Off, Press D-Pad Down To Activate
+%Credits: Codejunkies
+$D1EF9DC2 0000FFBF
+$20168CC8 27BDFFC0
+$D1EF9DC2 0000FFBF
+$20168CCC FFB20020
++Pass Through Walls - To Turn On, Press D-Pad Up To Activate
+%Credits: Codejunkies
+$D1EF9DC2 0000FFEF
+$20168CC8 03E00008
+$D1EF9DC2 0000FFEF
+$20168CCC 00000000
+!!
+

@@ -1,0 +1,106 @@
+^3 = NAME: NHL Hitz Pro (Ntsc-U)
+^2 = GameID: SLUS-20691
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0100088 0010008B
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0012052F
++[M] Must Be On
+%Credits: MadCatz
+$90120460 0C0465E8
+!!
++All Cheats
+%Credits: Codejunkies
+$2032BD98 2402FFFF
+$2032BD9C AEA203E0
++All Goal's Score For Away Team
+%Credits: Code Master
+$20203538 24020004
++All Goal's Score For Home Team
+%Credits: Code Master
+$20203538 24020000
++Always Never Stressed
+%Credits: Code Master
+$201C7648 AC803474
++AR Max Below 3.14 Fix {<I>You Must Turn This Code On For Any Other Codes To Work If You Have An AR Max Prior 3.14.</I>}
+%Credits: Codejunkies
+$20118E40 3C03200F
+$20118E48 8C65FFF8
+$20118E4C 24040079
+$20118E50 24030074
+$20118E54 0000000C
++Disable AI
+%Credits: Codejunkies
+$201803C0 03E00008
+$201803C4 00000000
++Disable Checking
+%Credits: Code Master
+$201D3B90 03E00008
+$201D3B94 00000000
++Goal's Score Modifier
+%Credits: Code Master
+$10203544 000000??
++Harder Shots
+%Credits: Code Master
+$201D7540 00000000
+$101D7548 000042C8
++High Max Turbo
+%Credits: Code Master
+$203F4BF8 447A0000
++Infinite Attribute Points
+%Credits: MadCatz
+$2055CC18 340203E7
++Infinite Turbo
+%Credits: Codejunkies
+$201C0CA0 10000005
++Infinite Turbo (All Players)
+%Credits: Code Master
+$201C6D84 00000000
+$201C6EB4 00000000
+$201C6EEC 00000000
+$201C6BFC 00000000
++Invisible Heads
+%Credits: Code Master
+$20155C10 03E00008
+$20155C14 00000000
++Never Offside
+%Credits: Code Master
+$2018C1F0 03E00008
+$2018C1F4 00000000
++Never Stressed
+%Credits: Codejunkies
+$201C7644 00000000
++No Heads
+%Credits: Codejunkies
+$20155C3C 1000006A
++Offsides Always Off
+%Credits: Code Master
+$203F4954 00000000
++Offsides Always On
+%Credits: Code Master
+$203F4954 00000001
++Puck Gravity Modifier (Default 411Ccccd)
+%Credits: Code Master
+$203F4D48 ????????
++Stop Timer
+%Credits: MadCatz
+$201E4B0C 00000000
++Super Max Puck Speed
+%Credits: Code Master
+$203F73F0 447A0000
++Ultra Hard Shots
+%Credits: Code Master
+$201D7540 00000000
+$101D7548 0000447A
++Ultra Powerful Strikes
+%Credits: Codejunkies
+$201D7540 00000000
+$201D7548 3C024300
++Very Harder Shots
+%Credits: Code Master
+$201D7540 00000000
+$101D7548 00004348
+!!
+

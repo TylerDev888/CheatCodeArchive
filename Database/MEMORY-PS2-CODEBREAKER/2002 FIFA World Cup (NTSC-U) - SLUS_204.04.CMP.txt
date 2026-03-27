@@ -1,0 +1,33 @@
+^1 = HASH: A75BD16D
+^3 = NAME: 2002 FIFA World Cup
+^2 = GameID: SLUS_204.04
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 003685DF
+!!
+!Codes:
++Home Team Score Modifier
+%Credits: Code Master
+$10396898 000000??
++Home Team Start With Score Modifier
+%Credits: Code Master
+$D0396898 00000000
+$10396898 000000??
++Away Team Score Modifier
+%Credits: Code Master
+$1039689C 000000??
++Away Team Start With Score Modifier
+%Credits: Code Master
+$D039689C 00000000
+$1039689C 000000??
++All Goal's Score For Home Team
+%Credits: Code Master
+$201859BC 24030000
++All Goal's Score For Away Team
+%Credits: Code Master
+$201859BC 24030004
++Goal's Score Modifier
+%Credits: Code Master
+$101859C8 000000??
+!!

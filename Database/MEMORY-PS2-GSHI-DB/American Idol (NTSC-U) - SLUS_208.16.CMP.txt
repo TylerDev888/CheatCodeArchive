@@ -1,0 +1,49 @@
+^3 = NAME: American Idol (NTSC-U)
+^2 = GameID: SLUS-20816
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$902A699C 0C0AB585
++[M] Must Be On
+%Credits: MadCatz
+$9027C8A0 0C0A9A1E
+!!
+!MISC!:
++Always Count Flair Points
+%Credits: Code Master
+$2018CFCC 00000000
+$2018CFD0 00000000
+$2018CFDC 00000000
+$2018CFE0 00000000
++Always Score Perfect Marks
+%Credits: Code Master
+$201877A0 03E00008
+$201877A4 24020004
++Easier Marks
+%Credits: Code Master
+$20187860 00000000
++Get 1 Flair Point For Max Flair Points
+%Credits: Code Master
+$2018D07C 24020004
++Max Flair Meter
+%Credits: MadCatz
+$2018D5DC 242007B4
++Max Flair Meter (After Heats)
+%Credits: Code Master
+$2018D5E4 00000000
++Max Flair Points
+%Credits: MadCatz
+$20192414 24030004
++No Misses
+%Credits: MadCatz
+$2018880C 242007B4
+$20188810 242007B4
++Ouch/Bad Never Counts
+%Credits: Code Master
+$20188814 00000000
+$20188818 00000000
++Perfect Timing
+%Credits: MadCatz
+$20187A54 24050064
+!!
+

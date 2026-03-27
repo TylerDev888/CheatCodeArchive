@@ -1,0 +1,51 @@
+^3 = NAME: Spongebob - IL Film (PAL)
+^2 = GameID: SLES-52897
+!Internal Debug Features:
++Nocutscenes
+%Credits: luc-ita
+$007AD461 00000001
++Nomovies
+%Credits: luc-ita
+$207AF08C 00000001
++Nomusic
+%Credits: luc-ita
+$207AD460 00000001
+!!
++Fly Mode (Read Notes) {<I>Activate With R3+Select<Br>Deactivate With L3+Select<Br>Move Normally, Go Up And Down With Triangle And Square Buttons</I>}
+%Credits: luc-ita
+$D07C07C2 0000FFFA
+$007AEA48 00000001
+$D07C07C2 0000FFFC
+$007AEA48 00000000
++Have All Moves
+%Credits: luc-ita
+$007AD779 00000001
+$107AD77A 00000101
+$207AD77C 01010101
+$007AD780 00000001
++Invulnerable And Can Walk On Water
+%Credits: luc-ita
+$2032B800 00000000
+$20333DB4 1000005A
++Jump Higher
+%Credits: luc-ita
+$207AD7FC 412CB23D
+$207ADC6C 41411668
++Jump In Midair
+%Credits: luc-ita
+$207AE528 00000000
++Jump In Midair With Slow Descent
+%Credits: luc-ita
+$203F83F0 24061F01
++Jump Much Higher
+%Credits: luc-ita
+$207AD7FC 41A6591F
+$207ADC6C 41B08B34
++Low Gravity
+%Credits: luc-ita
+$207AD6D8 41200000
++Take One Gym Weight To Have One Upgrade Point
+%Credits: luc-ita
+$20304F10 00000000
+!!
+

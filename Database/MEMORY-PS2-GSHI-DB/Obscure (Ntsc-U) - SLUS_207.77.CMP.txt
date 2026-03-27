@@ -1,0 +1,83 @@
+^3 = NAME: Obscure (Ntsc-U)
+^2 = GameID: SLUS-20777
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F011DC34 0011DC37
++Enable Code (Must Be On)
+%Credits: Code Master
+$9011DC34 0C0C193C
++[M] Must Be On
+%Credits: MadCatz
+$9011DC48 0C0C694A
+!!
++All Music
+%Credits: Codejunkies
+$10CDCEE4 00000FFF
++Infinite Ammo
+%Credits: MadCatz
+$20360BBC 24420000
++Infinite Ammo/Reserve
+%Credits: Codejunkies
+$20168C04 00000000
++Infinite Health {<I>Only Use After Opening Scene With Kenny And Dan.</I>}
+%Credits: MadCatz
+$200C2000 3C1B42C8
+$200C2004 449B0000
+$200C2008 0805A5AB
+$200C200C E640005C
+$201696A8 08030800
++Infinite Health {<I>Only Use After Opening Scene With Kenny And Dan.</I>}
+%Credits: Codejunkies
+$2015A4A8 00000000
++Infinite Items
+%Credits: MadCatz
+$202C236C 34030063
+$202C2370 AC430050
++Infinite Save Disc Usage
+%Credits: MadCatz
+$202DE564 24630000
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Extra Ammo
+%Credits: Code Master
+$20168C04 00441021
++Flashlight Never Overheats
+%Credits: Code Master
+$20364F78 00000000
++Infinite Ammo
+%Credits: Code Master
+$20168C08 00000000
++Infinite Health {<I>Only Use After Opening Scene With Kenny And Dan.</I>}
+%Credits: Code Master
+$201696A8 C6400058
+$201696B4 E640005C
++Infinite Save Discs
+%Credits: Code Master
+$202DE568 00000000
++Infinite Stamina
+%Credits: Code Master
+$2015EC48 00000000
+$20160490 AE200110
++Max Infinite Ammo
+%Credits: Code Master
+$20168C04 24020063
++Max Items (Upon Pickup)
+%Credits: Code Master
+$202C2370 24030063
+$202C2378 AC430050
++Never Reload
+%Credits: Code Master
+$20360BC0 00000000
++Unlock All Extra/Special Mode
+%Credits: Code Master
+$20CDCEEC FFFFFFFF
++Unlock All Music
+%Credits: Code Master
+$20CDCEE4 FFFFFFFF
+!!
++Unlock All Bonus Material
+%Credits: MadCatz
+$40CDCEE4 00030001
+$FFFFFFFF 00000000
+!!
+

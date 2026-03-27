@@ -1,0 +1,9 @@
+^2 = GameID: NPUB30377
+^3 = NAME: BloodRayne Betrayal
+^4 = FILE: SAVE.DAT
++Update Adler32 For Save.dat (required)
+(set range:0x000110,0x00040F)
+$set pointer:eof+1
+$set range:0x000110,pointer
+$set [hash]:Adler32
+$write at 0x000025:[hash]

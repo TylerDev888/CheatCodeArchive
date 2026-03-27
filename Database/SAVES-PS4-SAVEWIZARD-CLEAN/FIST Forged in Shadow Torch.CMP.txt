@@ -1,0 +1,25 @@
+^2 = GameID: CUSA28302,CUSA28373,CUSA28371
+^3 = NAME: F.I.S.T.: Forged In Shadow Torch
+^SECONDLAYER: NO
+^4 = FILE: 	SaveData[0-9]+\ue4savegame.ps4.sav
++Max Ep{<div Class="note"><h4>note</H4><ul Class="bullet-List"><li>these Codes Only Max Both Ep And Sp To The In-Game Maximum.</Li><li>you Can Try Different Values, But It’s Basically Useless — The Game Caps Them.</Li><li>even If The Bars Look Bigger, The Yellow Machines Will Only Refill Up To 6 Units Total For Each.</Li></Ul></Div>}
+%Credits: Zeraf3000
+$8001000F 4D617845
+$6E657267 79506F69
+$6E747300 00000000
+$18000029 00000006
++Max Sp{<div Class="note"><h4>note</H4><ul Class="bullet-List"><li>these Codes Only Max Both Ep And Sp To The In-Game Maximum.</Li><li>you Can Try Different Values, But It’s Basically Useless — The Game Caps Them.</Li><li>even If The Bars Look Bigger, The Yellow Machines Will Only Refill Up To 6 Units Total For Each.</Li></Ul></Div>}
+%Credits: Zeraf3000
+$8001000E 4D617847
+$656E6B69 506F696E
+$74730000 00000000
+$18000028 00000006
++Super Max Health 9999{<div Class="god-Mode"><h4>god Mode</H4><ul Class="bullet-List"><li><strong>important:</Strong> Follow These Instructions Exactly Or You Will Run Into Problems.</Li><li>“super Health” In This Game Is <strong>not Permanent</Strong> — The Game Will Reset It At Different Points.</Li><li>each Time The Game Resets Your Health, You Must <strong>save At A Yellow Machine</Strong> And <strong>reapply The Code</Strong>.</Li><li>you Can Try Different Health Amounts, But The Game Will Still Reset It (tested Extensively).</Li><li>yellow Machines Are Where You <strong>refill Bars</Strong> And <strong>unlock Skills</Strong>.</Li></Ul><h4>instructions</H4><ul Class="bullet-List"><li>use <strong>sw’s Health Code</Strong> For The First Section Of The Game (~1000 Hp).</Li><li>when You Reach The Tower And Fight <strong>cisero</Strong> (after Getting <strong>glide</Strong>), You <strong>must Lose</Strong> — It’s Scripted.</Li><li>if You Somehow Win, The Game Will Crash On The Next Cutscene.</Li><li>after The Cutscenes You Wake In Prison With Low Health And No Equipment.</Li><li>in This Prison Section The Super Health Code Will <strong>not</Strong> Work; Health Is Hard-Coded Here.</Li><li>clear This Section Normally (it’s A Platforming Challenge And The Game’s First “wall”).</Li><li>after You Recover Gear And Reach A <strong>yellow Machine</Strong>, You Can Turn Super Health Back On.</Li><li>from There It’s Basically God Mode — But Remember It Can Still Reset, So Reapply When Needed.</Li></Ul></Div>}
+%Credits: Zeraf3000
+$8001000D 43757272
+$656E7448 65616C74
+$68000000 00000000
+$18000027 0000270F
+$88010009 4D617848
+$65616C74 68000000
+$18000023 0000270F

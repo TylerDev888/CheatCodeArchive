@@ -1,0 +1,33 @@
+^3 = NAME: Godai - Elemental Force (Pal-Unk)
+^2 = GameID: SLES-50433
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0124984 00124987
++Must Be On (M)
+%Credits: InterAct
+$F01001F8 00124987
+!!
+!Lives Codes:
++Start With 999 Lives
+%Credits: Codejunkies
+$114F211C 000003E7
++Start With Only 1 Life
+%Credits: Codejunkies
+$E0010001 314F211C
+$114F211C 00000001
++Start With Only 2 Lives
+%Credits: Codejunkies
+$E0010002 314F211C
+$114F211C 00000002
++Start With Only 3 Lives
+%Credits: Codejunkies
+$E0010003 314F211C
+$114F211C 00000003
++Start With Only 5 Lives
+%Credits: Codejunkies
+$E0010005 314F211C
+$114F211C 00000005
+!!
+!!
+

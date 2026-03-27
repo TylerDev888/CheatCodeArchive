@@ -1,0 +1,144 @@
+^1 = Hash: A4 C2 D3 66 78 0A D8 60 65 42 2E 0D FA FF AF 5D 68 9C B3 11
+^2 = GameID: SLUS_217.20
+^3 = NAME: Arcana Heart
+!Masters:
+$901DA958 0C0769FE
+!!
+!Jokers:
++Player 1 Controller
+$D0493C5C 0000[Joker:PS2]
++Player 2 Controller
+$D0493D5C 0000[Joker:PS2]
+!!
++Unlock Extres
+$40323E70 000B0001
+$00000001 00000000
+!Characters:
+Player 1:
++Character Mod.
+$20468F9C 000000[CH]
++Arcana Mod
+$20468FB4 000000[AM]
++Infinite HP
+%Credits: lee4
+$20469FA8 00006510
+$20469FAC 00006510
++Inf Homing
+%Credits: lee4
+$20469DC4 000011F8
+$20469DC8 000011F8
+$20469DCC 000011F8
++Inf Super
+%Credits: lee4
+$20469DC0 00026000
+Player 2 No Health (Player 1 Press SELECT)
+%Credits: lee4
+$D0493C5C 0000FFFE
+$2046B094 00000000
++Damage Player 2 Any Distance Any Attack Button Hold To Do Fast Kill
+%Credits: SkillerCMP
+$200A0000 3C010049
+$200A0004 90213C5D
+$200A0008 240200FF
+$200A000C 10410007
+$200A0014 3C010047
+$200A0018 9C22B094
+$200A001C 10020003
+$200A0020 24030100
+$200A0024 00431023
+$200A0028 AC22B094
+$200A002C 03E00008
+$201D3B74 08028000
+!!
+!Player 2:
++Character Mod.
+$20468FA0 000000[CH]
++Arcana Mod
+$20468FB8 000000[AM]
++Infinite HP
+%Credits: lee4
+$2046B094 00006510
+$2046B098 00006510
++Inf Homing
+%Credits: lee4
+$2046AEB0 000011F8
+$2046AEB4 000011F8
+$2046AEB8 000011F8
++Player 1 No Health (player 2 Press Select)
+%Credits: lee4
+$D0493D5C 0000FFFE
+$20469FA8 00000000
++Inf Super
+%Credits: lee4
+$2046AEAC 00026000
++No Homing
+%Credits: lee4
+$2046AEB0 00000000
+$2046AEB4 00000000
+$2046AEB8 00000000
++No Super
+%Credits: lee4
+$2046AEAC 00000000
+!!
+!!
+!Graphics Unlockers:
++Heart Aino
+$00323EA0 00000011
++Saki Tsuzura
+$00323EA4 00000010
++Kamui Tokinomiya
+$00323EA8 0000000C
++Konoha
+$00323EAC 0000000C
++Maori Kasuga
+$00323EB0 0000000B
++Mel-Rang
+$00323EB4 0000000B
++Lilloa Relohenerow
+$00323EB8 0000000E
++Lieselotte Achenbach
+$00323EBC 0000000A
++Yoriko Yasuzumi
+$00323EC0 0000000B
++Kira Daldohji
+$00323EC4 0000000A
++Riona Mayfield
+$00323EC8 0000000B
++Mildred Avaion
+$00323ECC 00000001
++Arcanas
+$40323ED0 000B0001
+$00000001 00000000
+!!
+^6 = MODS:
+[CH]
+Value>Name
+00	Heart Aino
+01	Saki Tsuzura
+02	Kamui Tokinomiya
+03	Konoha
+04	Maori Kasuga
+05	Mei-Fang
+06	Lilica Felchenerow
+07	Lieselotte Achenbach
+08	Yoriko Yasuzumi
+09	Kira Daidohji
+0A	Fiona Mayfield
+0B	Mildred Avallone
+[/CH]
+[AM]
+Value>Name
+00	Partinias, Arcana of Love
+01	Bhanri, Arcana of Thunder
+02	Anutpada, Arcana of Time
+03	Moriomoto, Arcana of Wood
+04	Ohtsuchi, Arcana of Earth
+05	Lang-gong, Arcana of Fire 
+06	Gier, Arcana of Darkness
+07	Tempestas, Arcana of Wind
+08	Dieu mort, Arcana of Evil
+09	Niptra, Arcana of Water
+0A	Oreichalkos
+0B	Mildred Avallone
+0F	nothing 
+[/AM]

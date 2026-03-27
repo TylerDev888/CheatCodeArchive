@@ -1,0 +1,33 @@
+^1 = HASH: 7A0494DD
+^3 = NAME: Thunderstrike-Operation Phoenix (Version 1.0)
+^2 = GameID: SLUS_202.32
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00151DC7
+!!
+!With this game, if these codes dont work, Try These!:
++Never Overheat
+%Credits: Code Master
+$10565364 00000000
++Infinite Armor
+%Credits: Code Master
+$20565374 437A0000
++Have Rapid Missile Fire
+%Credits: Code Master
+$10565360 00000000
++View Modifier (00-0D)
+%Credits: Code Master
+$10564EEC 000000??
+!!
+!Infinite Ammo Codes:
++Weapon 1
+%Credits: Code Master
+$10423120 00000063
++Weapon 2
+%Credits: Code Master
+$10423124 00000063
++Weapon 3
+%Credits: Code Master
+$10423128 00000063
+!!

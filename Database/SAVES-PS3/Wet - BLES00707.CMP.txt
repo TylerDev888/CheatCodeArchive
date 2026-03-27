@@ -1,0 +1,37 @@
+^2 = GameID: BLES00707
+^3 = NAME: WET
+^4 = FILE: BLES00707-WETSAVEGAME\ACHIEVE.DAT
++Update Crc32 (required)
+$set range:0x00000C,0x000113
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+^4 = FILE: BLES00707-WETSAVEGAME\CHKPTS.DAT
++Update Crc32 (required)
+$set range:0x00000C,0x00668D
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+^4 = FILE: BLES00707-WETSAVEGAME\COLLECT.DAT
++Update Crc32 (required)
+$set range:0x00000C,0x00047B
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+^4 = FILE: BLES00707-WETSAVEGAME\GAMEPTS.DAT
++Update Crc32 (required)
+$set range:0x00000C,0x0000FB
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+^4 = FILE: BLES00707-WETSAVEGAME\OPTIONS.DAT
++Update Crc32 (required)
+$set range:0x00000C,0x000023
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+^4 = FILE: BLES00707-WETSAVEGAME\PROGRESS.DAT
++Update Crc32 (required)
+$set range:0x00000C,0x00002F
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+^4 = FILE: BLES00707-WETSAVEGAME\RUBIUPG.DAT
++Update Crc32 (required)
+$set range:0x00000C,0x00008F
+$set [hash]:CRC32
+$write at 0x000004:[hash]

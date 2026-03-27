@@ -1,0 +1,7 @@
+^2 = GameID: NPEB00885
+^3 = NAME: Kick Beat
+^4 = FILE: PROFILE.DAT
++Update Crc32 (required)
+$set range:0x0,0x191A
+$set [hash]:crc32
+$write at 0x191B:[hash]

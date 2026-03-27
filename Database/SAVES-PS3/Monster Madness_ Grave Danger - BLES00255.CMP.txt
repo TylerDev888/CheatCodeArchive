@@ -1,0 +1,7 @@
+^2 = GameID: BLES00255
+^3 = NAME: Monster Madness: Grave Danger
+^4 = FILE: PAYLOAD
++Update Sha1 (required)
+$set range:0x000014,0x0003AA
+$set [hash]:SHA1
+$write at 0x000000:[hash]

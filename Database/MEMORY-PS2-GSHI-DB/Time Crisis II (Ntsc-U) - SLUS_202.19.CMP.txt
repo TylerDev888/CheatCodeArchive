@@ -1,0 +1,130 @@
+^3 = NAME: Time Crisis II (Ntsc-U)
+^2 = GameID: SLUS-20219
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01005A0 002B04FF
++(M) Must Be On
+%Credits: Codejunkies
+$F02B04FC 002B04FF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002B04FF
+!!
+!Credits Codes:
++99 Kills In The Cri Mission
+%Credits: Codejunkies
+$00645598 00000063
++Give Yourself Less Time (Press Down To Activate)
+%Credits: Codejunkies
+$D03AD55C 0000FFBF
+$1064395C 00000000
++Give Yourself More Time (Press Up To Activate)
+%Credits: Codejunkies
+$D03AD55C 0000FFEF
+$1064395C 00002E81
++Infinite Credits
+%Credits: Codejunkies
+$10482410 00000009
++Max Score Player 1
+%Credits: Codejunkies
+$10643954 0000FFFF
++Max Score Player 2
+%Credits: Codejunkies
+$106439B4 0000FFFF
++Never Have More Than 1 Credit
+%Credits: Codejunkies
+$E0010001 30482410
+$10482410 00000001
++Player 1 Max Score (S.A.E)
+%Credits: Codejunkies
+$40495274 000F0001
+$00020002 00000000
+$00495050 0000003C
++Player 1 Max Score (S.A.R)
+%Credits: Codejunkies
+$10495090 0000270F
+!!
+!Gun 1 Ammo Codes:
++Have No More Than 5 Bullets
+%Credits: Codejunkies
+$E0010005 30643ABC
+$10643ABC 00000005
++Infinite Ammo
+%Credits: Codejunkies
+$10643ABC 00000009
+!!
+!Gun 2 Ammo Codes:
++Have No More Than 5 Bullets
+%Credits: Codejunkies
+$E0010005 30643AEC
+$10643AEC 00000005
++Infinite Ammo
+%Credits: Codejunkies
+$10643AEC 00000009
+!!
+!P1 Codes:
++P1: Have 99 Combos
+%Credits: InterAct
+$006439E8 00000063
++P1: Have 99 Combos
+%Credits: InterAct
+$00643A00 00000063
++P1: Have Machine Gun
+%Credits: InterAct
+$10643AB8 00000008
++P1: High Score
+%Credits: InterAct
+$20643954 05F5E0FF
++P1: Infinite Health
+%Credits: InterAct
+$10643958 00000004
+!!
+!P2 Codes:
++P2: High Score
+%Credits: InterAct
+$206439B4 05F5E0FF
++P2: Infinite Health
+%Credits: InterAct
+$106439B8 00000004
+!!
+!Player 1 Health Codes:
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0010002 30643958
+$10643958 00000002
+!!
+!Player 2 Health Codes:
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0010002 306439B8
+$106439B8 00000002
+!!
++Infinite Time
+%Credits: InterAct
+$1064395C 00002E81
++Infinite Time
+%Credits: Code Master
+$1064395C 00002E80
++P1 Always Max Combos (Arcade Mode)
+%Credits: Code Master
+$006439E8 00000063
+$00643A00 00000063
++P1 Max Hits (Quick Crash)
+%Credits: Code Master
+$104912B4 0000270F
++P1 Max Score (Shoot Away Extra)
+%Credits: Code Master
+$00495050 0000003C
+$40495274 000F0001
+$00020002 00000000
++P1 Press L1+L2 For Less Time (Arcade Mode)
+%Credits: Code Master
+$D03AD55C 0000FAFF
+$1064395C 00000000
++P1 Press R1+R2 For More Time (Arcade Mode)
+%Credits: Code Master
+$D03AD55C 0000F5FF
+$1064395C 00002E81
+!!
+

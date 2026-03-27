@@ -1,0 +1,47 @@
+^3 = NAME: Echo Night - Beyond (Ntsc-U)
+^2 = GameID: SLUS-20928
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0121E84 00121E87
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00121E87
++[M] Must Be On
+%Credits: MadCatz
+$90121E70 0C04875E
+!!
++Always 1St Save
+%Credits: Codejunkies
+$202ADBEC 00000000
++Low Heart Rate
+%Credits: Codejunkies
+$209D5FD4 3F800000
++Low Play Time
+%Credits: Codejunkies
+$202ADBE8 42000000
++Only 1 Save Used (All Slots)
+%Credits: MadCatz
+$200C2000 34030000
+$200C2004 080968F6
+$200C2008 AE030968
+$2025A3D4 08030800
++Stop Game Timer
+%Credits: MadCatz
+$20196000 00000000
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Always Low Elapsed Time
+%Credits: Code Master
+$202ADBE8 00000000
++Always Low Heart Rate
+%Credits: Code Master
+$209D5FD4 00000000
++Heart Rate Doesn't Increase Over Time
+%Credits: Code Master
+$202176A0 00000000
++Infinite Battery
+%Credits: Code Master
+$20AD6DEC 42C80000
+!!
+!!
+

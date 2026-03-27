@@ -1,0 +1,454 @@
+^1 = Hash: 5D 53 AB 36 B2 B2 AA 85 CD 81 7F CD 00 6F 6F 1A AB 38 94 67 
+^2 = GameID: SLUS_218.93
+^3 = NAME: Madden NFL 2010
+!Masters:
++Enable Code (MUST BE ON)
+$90843718 0C210D6E
+!!
+!Jokers:
++Player 1 Controller
+$D09B0802 0000[Joker:PS2]
+!!
++Home Team Score Mod
+%Credits: Azagthoth
+$10A0908C 0000[Amount:2710:HEX:BIG]
++Home Team Start With Mod
+%Credits: Azagthoth
+$D0A0908C 00000000
+$10A0908C 0000[Amount:2710:HEX:BIG]
++Away Team Score Mod
+%Credits: Azagthoth
+$10A0908E 0000[Amount:2710:HEX:BIG]
++Away Team Start With Mod
+%Credits: Azagthoth
+$D0A0908E 00000000
+$10A0908E 0000[Amount:2710:HEX:BIG]
++P1 Press L1+l2 For More Time
+%Credits: Azagthoth
+$D09B0802 0000FAFF
+$20A074E4 0000012C
++P1 Press R1+r2 To End Quarter
+%Credits: Azagthoth
+$D09B0802 0000F5FF
+$20A074E4 00000001
++P1 Press L1+select For Low Play Choose Time
+%Credits: Azagthoth
+$D09B0802 0000FBFE
+$20A074CC 00000001
++P1 Press R1+select More Play Choose Time
+%Credits: Azagthoth
+$D09B0802 0000F7FE
+$20A074CC 00000028
++P1 Press L2+select For 1st Down
+%Credits: Azagthoth
+$D09B0802 0000FEFE
+$10A09080 00000001
++P1 Press R2+select For 4th Down
+%Credits: Azagthoth
+$D0958D02 0000FDFE
+$10A09080 00000004
++Quarter Mod
+%Credits: Azagthoth
+$10A074C0 000000[Amount:04:HEX:BIG]
++Infinite Challenges(home Team)
+%Credits: Azagthoth
+$205585F4 00000000
++Infinite Challenges(away Team)
+%Credits: Azagthoth
+$2057EE04 00000000
++Infinite Timeouts(home Team)
+%Credits: Azagthoth
+$10A0919C 00000003
++Infinite Timeouts(away Team)
+%Credits: Azagthoth
+$10A091A0 00000003
+!Camp Codes:
++Max Drill Points
+%Credits: Azagthoth
+$2099BB4C 0098967F
++Point Gain Mod
+%Credits: Azagthoth
+$20456F44 2004[Amount:2710:HEX:BIG]
++Max Time
+%Credits: Azagthoth
+$2099BAF0 42C80000
++Alt.infinite Time
+%Credits: Azagthoth
+$20457900 00000000
++Infinite Attribute Points Available
+%Credits: Azagthoth
+$2095F17C 0000270F
+!!
+!Superstar Codes:
+!Individual Workout Codes:
+!40 Yard Dash:
++Max Power
+%Credits: Azagthoth
+$2099B454 3FC00000
++Alt.max Power (keep Pushing X)
+%Credits: Azagthoth
+$20437D84 AC610004
++Alt.max Power (press X Once, Your Player Will Automatically Run)
+%Credits: Azagthoth
+$20438134 AE010004
+$20438138 3C013FC0
+!!
+!!
+!!
+!Franchise Mode:
++No Salary Cap (all Teams)
+%Credits: Azagthoth
+$21E40C20 00000000
+!Team Has Low Salary Codes:{Default Values (use "caps" Default Values To Keep Your Salary From Going Down)}
++Bears
+%Credits: Azagthoth
+$21E9F25C [CAPS]
++Bengels
+%Credits: Azagthoth
+$21E9F310 [CAPS]
++Bills
+%Credits: Azagthoth
+$21E9F3C4 [CAPS]
++Broncos
+%Credits: Azagthoth
+$21E9F478 [CAPS]
++Browns
+%Credits: Azagthoth
+$21E9F52C [CAPS]
++Buccaneers
+%Credits: Azagthoth
+$21E9F5E0 [CAPS]
++Cardinals
+%Credits: Azagthoth
+$21E9F694 [CAPS]
++Chargers
+%Credits: Azagthoth
+$21E9F748 [CAPS]
++Chiefs
+%Credits: Azagthoth
+$21E9F748 [CAPS]
++Colts
+%Credits: Azagthoth
+$21E9F8B0 [CAPS]
++Cowboys
+%Credits: Azagthoth
+$21E9F964 [CAPS]
++Dolphins
+%Credits: Azagthoth
+$21E9FA18 [CAPS]
++Eagles
+%Credits: Azagthoth
+$21E9FACC [CAPS]
++Falcons
+%Credits: Azagthoth
+$21E9FB80 [CAPS]
++49ers
+%Credits: Azagthoth
+$21E9FC34 [CAPS]
++Giants
+%Credits: Azagthoth
+$21E9FCE8 [CAPS]
++Jaguars
+%Credits: Azagthoth
+$21E9FD9C [CAPS]
++Jets
+%Credits: Azagthoth
+$21E9FE50 [CAPS]
++Lions
+%Credits: Azagthoth
+$21E9FF04 [CAPS]
++Packers
+%Credits: Azagthoth
+$21E9FFB8 [CAPS]
++Panthers
+%Credits: Azagthoth
+$21EA006C [CAPS]
++Patriots
+%Credits: Azagthoth
+$21EA0120 [CAPS]
++Raiders
+%Credits: Azagthoth
+$21EA01D4 [CAPS]
++Rams
+%Credits: Azagthoth
+$21EA0288 [CAPS]
++Ravens
+%Credits: Azagthoth
+$21EA033C [CAPS]
++Redskins
+%Credits: Azagthoth
+$21EA03F0 [CAPS]
++Saints
+%Credits: Azagthoth
+$21EA04A4 [CAPS]
++Seahawks
+%Credits: Azagthoth
+$21EA0558 [CAPS]
++Steelers
+%Credits: Azagthoth
+$21EA060C [CAPS]
++Texans
+%Credits: Azagthoth
+$21EA06C0 [CAPS]
++Titans
+%Credits: Azagthoth
+$21EA0774 [CAPS]
++Vikings
+%Credits: Azagthoth
+$21EA0828 [CAPS]
++Created Team
+%Credits: Azagthoth
+$21EA08DC [CAPS]
+!!
+!Roster Mode:{Default Values Use Same Part 1/2}
++Bears
+%Credits: Azagthoth
+$21E457E8 [CAPS1]
+$21E457EC [CAPS1]
++Bengels
+%Credits: Azagthoth
+$21E45868 [CAPS1]
+$21E4586C [CAPS1]
++Bills
+%Credits: Azagthoth
+$21E458E8 [CAPS1]
+$21E458EC [CAPS1]
++Broncos
+%Credits: Azagthoth
+$21E44FE8 [CAPS1]
+$21E44FEC [CAPS1]
++Browns
+%Credits: Azagthoth
+$21E45068 [CAPS1]
+$21E4506C [CAPS1]
++Buccaneers
+%Credits: Azagthoth
+$21E450E8 [CAPS1]
+$21E450EC [CAPS1]
+Cardinals
+%Credits: Azagthoth
+$21E45168 [CAPS1]
+$21E4516C [CAPS1]
++Chargers
+%Credits: Azagthoth
+$21E451E8 [CAPS1]
+$21E451EC [CAPS1]
++Chiefs
+%Credits: Azagthoth
+$21E45268 [CAPS1]
+$21E4526C [CAPS1]
++Colts
+%Credits: Azagthoth
+$21E452E8 [CAPS1]
+$21E452E8 [CAPS1]
++Cowboys
+%Credits: Azagthoth
+$21E45368 [CAPS1]
+$21E4536C [CAPS1]
++Dolphins
+%Credits: Azagthoth
+$21E453E8 [CAPS1]
+$21E453EC [CAPS1]
++Eagles
+%Credits: Azagthoth
+$21E45468 [CAPS1]
+$21E4546C [CAPS1]
++Falcons
+%Credits: Azagthoth
+$21E454E8 [CAPS1]
+$21E454EC [CAPS1]
++49ers
+%Credits: Azagthoth
+$21E45568 [CAPS1]
+$21E4556C [CAPS1]
++Giants
+%Credits: Azagthoth
+$21E455E8 [CAPS1]
+$21E455EC [CAPS1]
++Jaguars
+%Credits: Azagthoth
+$21E45668 [CAPS1]
+$21E4566C [CAPS1]
++Jets
+%Credits: Azagthoth
+$21E456E8 [CAPS1]
+$21E456EC [CAPS1]
++Lions
+%Credits: Azagthoth
+$21E45968 [CAPS1]
+$21E4596C [CAPS1]
++Packers
+%Credits: Azagthoth
+$01E459E8 [CAPS1]
+$01E459EC [CAPS1]
++Panthers
+%Credits: Azagthoth
+$21E45A68 [CAPS1]
+$21E45A6C [CAPS1]
++Patriots
+%Credits: Azagthoth
+$21E45AE8 [CAPS1]
+$21E45AE8 [CAPS1]
++Raiders
+%Credits: Azagthoth
+$21E45B68 [CAPS1]
+$21E45B6C [CAPS1]
++Rams
+%Credits: Azagthoth
+$21E45BE8 [CAPS1]
+$21E45BEC [CAPS1]
++Ravens
+%Credits: Azagthoth
+$21E45C68 [CAPS1]
+$21E45C6C [CAPS1]
++Redskins
+%Credits: Azagthoth
+$21E45CE8 [CAPS1]
+$21E45CEC [CAPS1]
++Saints
+%Credits: Azagthoth
+$21E45D68 [CAPS1]
+$21E45D6C [CAPS1]
++Seahawks
+%Credits: Azagthoth
+$21E45DE8 [CAPS1]
+$21E45DEC [CAPS1]
++Steelers
+%Credits: Azagthoth
+$21E45E68 [CAPS1]
+$21E45E6C [CAPS1]
++Texans
+%Credits: Azagthoth
+$21E45FE8 [CAPS1]
+$21E45FEC [CAPS1]
++Titans
+%Credits: Azagthoth
+$21E45EE8 [CAPS1]
+$21E45EEC [CAPS1]
++Vikings
+%Credits: Azagthoth
+$21E45F68 [CAPS1]
+$21E45F6C [CAPS1]
++Created Team
+%Credits: Azagthoth
+$21E45768 [CAPS1]
+$21E4576C [CAPS1]
+!!
+!Profile Codes:
++Max Tokens
+%Credits: Azagthoth
+$21DDDE98 05F5E0FF
++Have All Cards{**need Cb V.7+****}
+%Credits: Azagthoth
+$21DDDF84 00000???
+21DDDEC4 ????0001
+$00FFE01F 00000010
+!!
+%Credits: Azagthoth
+^6 = MODS:
+[CAPS]
+VALUE>NAME
+00000000	LOW
+902C3200	Bears
+78277D00	Bengels
+902B6C00	Bills
+A0225200	Broncos
+6029A800	Browns
+B0277800	Buccaneers
+B02D3600	Cardinals
+A82E9500	Chargers
+58248E00	Chiefs
+C02A9700	Colts
+982E4600	Cowboys
+602CE400	Dolphins
+C82ABA00	Eagles
+60257400	Falcons
+802A2200	49ers
+A02D2800	Giants
+A0312400	Jaguars
+B82B7500	Jets
+7026EE00	Lions
+B02A2A00	Packers
+902A4D00	Panthers
+88312D00	Patriots
+B82DB400	Raiders
+802B6500	Rams
+A02A3E00	Ravens
+98314C00	Redskins
+68302C00	Saints
+982DE800	Seahawks
+982C3700	Steelers
+782AF700	Texans
+C02E9700	Titans
+90301300	Vikings
+70000000	Created Team
+[/CAPS]
+[CAPS1]
+VALUE>NAME
+C3200013	Bears Part 1
+00162782	Bears Part 2
+77D0001E	Bengels Part 1
+08356502	Bengels Part 2
+B6C00012	Bills Part 1
+1057AD81	Bills Part 2
+25200008	Broncos Part 1
+18772E02	Broncos Part 2
+9A800002	Browns Part 1
+20922502	Browns Part 2
+77800018	Buccaneers Part 1
+28B6ED02	Buccaneers Part 2
+D360001C	Cardinals Part 1
+30D26602	Cardinals Part 2
+E9500009	Chargers Part 1
+38F56482	Chargers Part 2
+48E00008	Chiefs Part 1
+4112E182	Chiefs Part 2
+A9700011	Colts Part 1
+4933E202	Colts Part 2
+E4600010	Cowboys Part 1
+51562D02	Cowboys Part 2
+CE400016	Dolphins Part 1
+59766A82	Dolphins Part 2
+ABA0000B	Eagles Part 1
+61946F82	Eagles Part 2
+57400006	Falcons Part 1
+69B5A582	Falcons Part 2
+A2200010	49ers Part 1
+71D5A301	49ers Part 2
+D280000F	Giants Part 1
+79F4E681	Giants Part 2
+1240000C	Jaguars Part 1
+82152602	Jaguars Part 2
+B7500003	Jets Part 1
+8A342382	Jets Part 2
+6EE0001F	Lions Part 1
+9252AA82	Lions Part 2
+A2A00006	Packers Part 1
+9A752482	Packers Part 2
+A4D0000E	Panthers Part 1
+A295EA02	Panthers Part 2
+12D0000C	Patriots Part 1
+AAB76E82	Patriots Part 2
+DB400008	Raiders Part 1
+B2D1A982	Raiders Part 2
+B6500007	Rams Part 1
+BAF4E402	Rams Part 2
+A3E00002	Ravens Part 1
+C3183002	Ravens Part 2
+14C0080D	Redskins Part 1
+CB36AA02	Redskins Part 2
+02C00015	Saints Part 1
+D3512681	Saints Part 2
+DE800004	Seahawks Part 1
+DB73AA82	Seahawks Part 2
+C3700002	Steelers Part 1
+E3972482	Steelers Part 2
+AF700011	Texans Part 1
+FBF32702	Texans Part 2
+E9700011	Titans Part 1
+EBB6AA01	Titans Part 2
+01300013	Vikings Part 1
+EBB6AA01	Vikings Part 2
+000003FF	Created Team Part 1
+0013E700	Created Team Part 2
+[/CAPS1]

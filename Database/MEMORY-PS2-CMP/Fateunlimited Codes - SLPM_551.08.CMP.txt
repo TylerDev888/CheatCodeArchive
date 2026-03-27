@@ -1,0 +1,176 @@
+^2 = GameID: SLPM_551.08
+^3 = NAME: Fate/Unlimited Codes
+!Master:
++Enable Code(MUST BE ON)
+$90106758 0C04197E
+!!
+!Jokers:
++Joker Controller 1
+$D0522F82 0000[Joker:PS2]
++Joker Controller 2
+$D0523082 0000[Joker:PS2]
+!!
+!Activator Character Codes:
++Activator{{press L1,l2,r1,r2 At Menu To Turn On Only Have To One Time)}}
+$200A0000 3C010052
+$200A0004 8C22C870
+$200A0008 24030001
+$200A000C 1443003E
+$200A0014 8C22C874
+$200A0018 1040001C
+$200A0090 8C23C87C
+$200A0094 1060001C
+$200A010C 03E00008
+$D0522F82 0000F0FF
+$20106C2C 08028000
+!Player 1(must Turn On Activator):
++Inf HP
+$200A0020 AC40023C
++Inf Power
+$200A0024 8C440248
+$200A0028 AC44024C
++No Power
+$200A0054 AC40024C
++Press Select P1 (player 2 = 1 Hit Kill)
+$200A00A8 3C040052
+$200A00AC 90842F82
+$200A00B0 240500FE
+$200A00B4 14850005
+$200A00BC 8C640234
+$200A00C0 24050001
+$200A00C4 00852022
+$200A00C8 AC64023C
+!Player 2(must Turn On Activator):
++Inf HP Player 2
+$200A009C AC60023C
++Inf Power Player 2
+$200A00A0 8C640248
+$200A00A4 AC64024C
++No Power Player 2
+$200A00D0 AC60024C
++Press Select P2 (player 1 = 1 Hit Kill)
+$200A002C 3C040052
+$200A0030 90843082
+$200A0034 240500FE
+$200A0038 14850005
+$200A0040 8C440234
+$200A0044 24050001
+$200A0048 00852022
+$200A004C AC44023C
+!!
+!!
+!Misc:
++Timer Always (99)
+$1051D8C4 00001734
++Stage Mod
+%Credits: Lee4
+$00531C48 0000000[STM]
++No Hude (press Select In Battle)
+$D0522F82 0000FFFE
+$2051D894 10000000
++No Holy Cup (press Select In Battle)
+$D0522F82 0000FFFE
+$0051D8C8 00000000
++Max Holy Cup (press Select In Battle)(1 Hit Will Give U Bonus)
+$D0522F82 0000FFFE
+$1051D8CC 0000270F
++Inf Holy Cup Bonus
+$1051D8D0 0000015F
++Score Leaders (cmp Score 9999999)
+$4051E930 00460003
+$00504D43 00000000
+$4051E938 00460003
+$0098967F 00000000
+!!
+!Other Character Codes:
++Max Score (both Players)
+$201A39B0 AE070000
+!Player 1:
++Max Score/Wins (memory)
+$2051D978 0098967F
++Character Mod
+%Credits: Lee4
+$00531B68 000000[CM]
++Clothing Mod
+%Credits: Lee4
+$00531B6C 0000000[COL]
+!!
+!Player 2:
++Max Score/Wins (memory)
+$2051D990 0098967F
++Character Mod
+%Credits: Lee4
+$00531BDC 000000[CM]
++Clothing Mod
+%Credits: Lee4
+$00531BE0 000000[COL]
+!!
+!!
+!Unlocks:
++Unlock Everything{Characters/Survival/Extras/Voices/Stages/Bgm/Minigames}
+%Credits: SkillerCMP>Lee4
+$40523890 000F0001
+$FFFFFFFF 00000000
++Unlock All Characters
+$20523890 FFFFFFFF
+$00523897 000000FF
++Unlock Survival
+$00523895 000000FF
++Have All Extras
+$00523896 000000FF
+$405238BC 00040001
+$FFFFFFFF 00000000
++Open U/C Material & Bgm
+%Credits: Lee4
+$00523896 000000FF
++Unlock All Stages
+%Credits: Lee4
+$00523894 000000FF
++Unlock All System Voices
+%Credits: Lee4
+$10523898 0000FFFF
+$0052389A 000000FF
+!!
+^6 = MODS:
+[CM]
+VALUE>NAME
+01	Saber
+02	Archer
+03	Lancer
+04	Rider
+05	Berserker
+06	Caster
+07	Assassin
+08	Gilgamesh
+09	Shiro
+0A	Rin
+0B	Sakura
+0C	Kirei
+0D	Luviagelita
+0E	Dragontooth Warrior*
+0F	Illyasviel*
+10	Saber Alter
+11	Bazett
+12	Leysritt
+13	Zero Lancer
+[/CM]
+[COL]
+VALUE>NAME>INFO
+00	Color 1	(Default)
+01	Color 2	(Secondary)
+02	Color 3	(Some characters)(Gilgamesh in Casual Street Clothes)
+03	Saber only	(Saber Lily)
+[/COL]
+[STM]
+VALUE>NAME
+1	Rooftop
+2	Shiro's Backyard
+3	Stairs To Temple
+4	Church (Inside)
+5	Forest
+6	Illyasviel's Castle
+7	Temple Grounds
+8	Womb of Hell
+9	Church (Outside)
+A	Burning City
+[/STM]

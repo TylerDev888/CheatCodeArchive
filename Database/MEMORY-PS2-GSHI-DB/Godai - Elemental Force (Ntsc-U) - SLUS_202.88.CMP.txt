@@ -1,0 +1,87 @@
+^3 = NAME: Godai - Elemental Force (Ntsc-U)
+^2 = GameID: SLUS-20288
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F01243AC 001243AF
++(M) Must Be On
+%Credits: InterAct
+$F0100210 001243AF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001243AF
+!!
++Idiot AI {<I>With This Code, Press L1+L2 To Enable, And R1+R2 To Disable.</I>}
+%Credits: Code Master
+$D1014AD2 0000FAFF
+$202F2A94 00000001
+$D1014AD2 0000F5FF
+$202F2A94 00000000
+!Lives Codes:
++Always Have 0 Lives
+%Credits: Codejunkies
+$E0010000 3038E850
+$1038E850 00000000
++Have 99 Lives
+%Credits: Codejunkies
+$1038E850 00000063
++Infinite Health
+%Credits: Codejunkies
+$202F2AA4 00000001
++Make The Game Return To Normal Speed {<I>Press Select+L1 To Activate.</I>}
+%Credits: Codejunkies
+$D1014AD2 0000FBFE
+$202F86D4 3F800000
++Make The Game Run At A Fast Speed {<I>Press R1+R2 To Activate.</I>}
+%Credits: Codejunkies
+$D1014AD2 0000F5FF
+$202F86D4 40000000
++Make The Game Run In Slow Motion {<I>Press L1+L2 To Activate.</I>}
+%Credits: Codejunkies
+$D1014AD2 0000FAFF
+$202F86D4 3E800000
++Never Have More Than 1 Life
+%Credits: Codejunkies
+$E0010001 3038E850
+$1038E850 00000001
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E0010002 3038E850
+$1038E850 00000002
++Never Have More Than 3 Lives
+%Credits: Codejunkies
+$E0010003 3038E850
+$1038E850 00000003
++Track Enemies {<I>Draws A Line Between Hiro And All Surrounding Enemies So You Don&#39;T Lose Track Of Them.</I>}
+%Credits: Codejunkies
+$202F2A98 00000001
++Turn Debug Boxes Off {<I>Press Select+Circle To Activate.</I>}
+%Credits: Codejunkies
+$D1014AD2 0000DFFE
+$202F2AB4 00000000
++Turn Debug Boxes On {<I>Press Select+Cross To Activate.</I>}
+%Credits: Codejunkies
+$D1014AD2 0000BFFE
+$202F2AB4 00000001
++Turn The AI Off {<I>Press Select+R1 To Activate.</I>}
+%Credits: Codejunkies
+$D1014AD2 0000F7FE
+$202F2A94 00000001
++Turn The AI On {<I>Press Select+R2 To Activate.</I>}
+%Credits: Codejunkies
+$D1014AD2 0000FDFE
+$202F2A94 00000000
+!!
++Press L1+R1 To Disable Debug 3D Boxes
+%Credits: Code Master
+$D1014AD2 0000FCFF
+$202F2AB4 00000000
++Press L1+R1 To Enable Debug 3D Boxes
+%Credits: Code Master
+$D1014AD2 0000F3FF
+$202F2AB4 00000001
++Speed Modifier (Default Is 3F800000)
+%Credits: Code Master
+$202F86D4 ????????
+!!
+

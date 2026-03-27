@@ -1,0 +1,933 @@
+^3 = NAME: Soulcalibur 2
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 002E2927
+!!
+!Unlimited:
++Health P1
+%Credits: Xploder
+$2037A41C 43700000
++Soul Charge P1
+%Credits: Xploder
+$203791FC 000000B4
++Health P2
+%Credits: Xploder
+$2038B29C 43700000
++Soul Charge P2
+%Credits: Xploder
+$2037A07C 000000B4
+!!
+!Sudden Death Mode:
++Player 1
+%Credits: Xploder
+$D039AC54 0020000B
+$2037A41C 3F800000
++Player 2
+%Credits: Xploder
+$D039AC54 0020000B
+$2038B29C 3F800000
+!!
+!Unlock:
++Extra Arcade Mode
+%Credits: Xploder
+$003A46DE 00000003
++Extra VS Battle Mode
+%Credits: Xploder
+$003A46DF 00000003
++Extra Time Attack (Standard)
+%Credits: Xploder
+$003A46E0 00000003
++Extra Time Attack (Alternative)
+%Credits: Xploder
+$003A46E1 00000003
++Extra Time Attack (Extreme)
+%Credits: Xploder
+$003A46E2 00000003
++Extra Survival (Standard)
+%Credits: Xploder
+$003A46E3 00000003
++Extra Survival (Death Match)
+%Credits: Xploder
+$003A46E4 00000003
++Extra Survival (No Recovery)
+%Credits: Xploder
+$003A46E5 00000003
++Extra Team Battle Mode
+%Credits: Xploder
+$003A46E6 00000003
++Extra VS Team Battle Mode
+%Credits: Xploder
+$003A46E7 00000003
++Extra Practice Mode
+%Credits: Xploder
+$003A46E8 00000003
++Art Gallery (Hi-Res)
+%Credits: Xploder
+$003A46E9 00000003
++Art Gallery (Illustrations)
+%Credits: Xploder
+$003A46EA 00000003
++Art Gallery (Specials)
+%Credits: Xploder
+$003A46EB 00000003
++Battle Theatre
+%Credits: Xploder
+$003A46EC 00000003
++Weapon Gallery
+%Credits: Xploder
+$003A46ED 00000003
++Weapon Master Opening
+%Credits: Xploder
+$003A46EE 00000003
++Weapon Master Ending
+%Credits: Xploder
+$003A46EF 00000003
++Opening (Home Ver.)
+%Credits: Xploder
+$003A46F0 00000003
++Opening (Arcade Ver.)
+%Credits: Xploder
+$003A46F1 00000003
++Ending (Arcade Ver.)
+%Credits: Xploder
+$003A46F2 00000003
+!!
+!Unlock Locations:
++Hwangsea Palace
+%Credits: Xploder
+$003A46F3 00000003
++Lakeside Coliseum
+%Credits: Xploder
+$003A46F4 00000003
++Money Pit / Top Tier
+%Credits: Xploder
+$003A46F5 00000003
++Egyptian Crypt
+%Credits: Xploder
+$003A46F6 00000003
++Labyrinth
+%Credits: Xploder
+$003A46F7 00000003
+!!
+!Unlock Character:
++Sophitia
+%Credits: Xploder
+$003A46A0 00000003
++Seung Mina
+%Credits: Xploder
+$003A46A1 00000003
++Yoshimitsu
+%Credits: Xploder
+$003A46A2 00000003
++Charade
+%Credits: Xploder
+$003A46A3 00000003
++Cervantes
+%Credits: Xploder
+$003A46A4 00000003
+!!
+!Raphael Unlocks:
++Profile
+%Credits: Xploder
+$003A46A8 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46A9 00000003
++Extra Costume
+%Credits: Xploder
+$003A46AA 00000003
+!!
+!Talim Unlocks:
++Profile
+%Credits: Xploder
+$003A46AB 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46AC 00000003
++Extra Costume
+%Credits: Xploder
+$003A46AD 00000003
+!!
+!Yungsung Unlocks:
++Profile
+%Credits: Xploder
+$003A46AE 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46AF 00000003
+!!
+!Cassandra Unlocks:
++Profile
+%Credits: Xploder
+$003A46B0 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46B1 00000003
++Extra Costume
+%Credits: Xploder
+$003A46B2 00000003
+!!
+!Mitsurugi Unlocks:
++Profile
+%Credits: Xploder
+$003A46B3 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46B4 00000003
++Extra Costume
+%Credits: Xploder
+$003A46B5 00000003
+!!
+!Taki Unlocks:
++Profile
+%Credits: Xploder
+$003A46B6 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46B7 00000003
++Extra Costume
+%Credits: Xploder
+$003A46B8 00000003
+!!
+!Voldo Unlocks:
++Profile
+%Credits: Xploder
+$003A46B9 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46BA 00000003
++Extra Costume
+%Credits: Xploder
+$003A46BB 00000003
+!!
+!Nightmare Unlocks:
++Profile
+%Credits: Xploder
+$003A46BC 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46BD 00000003
++Extra Costume
+%Credits: Xploder
+$003A46BE 00000003
+!!
+!Astaroth Unlocks:
++Profile
+%Credits: Xploder
+$003A46BF 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46C0 00000003
++Extra Costume
+%Credits: Xploder
+$003A46C1 00000003
+!!
+!Ivy Unlocks:
++Profile
+%Credits: Xploder
+$003A46C2 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46C3 00000003
++Extra Costume
+%Credits: Xploder
+$003A46C4 00000003
+!!
+!Kilik Unlocks:
++Profile
+%Credits: Xploder
+$003A46C5 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46C6 00000003
+!!
+!Xianghua Unlocks:
++Profile
+%Credits: Xploder
+$003A46C7 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46C8 00000003
++Extra Costume
+%Credits: Xploder
+$003A46C9 00000003
+!!
+!Maxi Unlocks:
++Profile
+%Credits: Xploder
+$003A46CA 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46CB 00000003
+!!
+!Necrid Unlocks:
++Profile
+%Credits: Xploder
+$003A46CC 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46CD 00000003
+!!
+!Heihachi Unlocks:
++Profile
+%Credits: Xploder
+$003A46CE 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46CF 00000003
+!!
+!Sophitia Unlocks:
++Profile
+%Credits: Xploder
+$003A46D2 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46D3 00000003
++Extra Costume
+%Credits: Xploder
+$003A46D4 00000003
+!!
+!Seung Mina Unlocks:
++Profile
+%Credits: Xploder
+$003A46D5 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46D6 00000003
++Extra Costume
+%Credits: Xploder
+$003A46D7 00000003
+!!
+!Yoshimitsu Unlocks:
++Profile
+%Credits: Xploder
+$003A46D8 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46D9 00000003
+!!
+!Charade Unlocks:
++Profile
+%Credits: Xploder
+$003A46DA 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46DB 00000003
+!!
+!Cervantes Unlocks:
++Profile
+%Credits: Xploder
+$003A46DC 00000003
++Weapon Demo
+%Credits: Xploder
+$003A46DD 00000003
+!!
+!Raphael Weapons:
++Epee
+%Credits: Xploder
+$003A46F8 00000003
++Stiletto
+%Credits: Xploder
+$003A46F9 00000003
++Reiterpallasch
+%Credits: Xploder
+$003A46FA 00000003
++Wo Dao
+%Credits: Xploder
+$003A46FB 00000003
++Schweizer
+%Credits: Xploder
+$003A46FC 00000003
++Holy Antler
+%Credits: Xploder
+$003A46FD 00000003
++Estoc
+%Credits: Xploder
+$003A46FE 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A46FF 00000003
++Queens Guard
+%Credits: Xploder
+$003A4700 00000003
++Cane
+%Credits: Xploder
+$003A4701 00000003
+!!
+!Talim Weapons:
++Wind Guide
+%Credits: Xploder
+$003A4702 00000003
++Tonfa
+%Credits: Xploder
+$003A4703 00000003
++Side Harpe
+%Credits: Xploder
+$003A4704 00000003
++Double Crescent Blade
+%Credits: Xploder
+$003A4705 00000003
++Chaqu
+%Credits: Xploder
+$003A4706 00000003
++Cao Ankana
+%Credits: Xploder
+$003A4707 00000003
++Maila Kari
+%Credits: Xploder
+$003A4708 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A4709 00000003
++Soul Calibur
+%Credits: Xploder
+$003A470A 00000003
++Weight
+%Credits: Xploder
+$003A470B 00000003
+!!
+!Yunsung Weapons:
++Machete
+%Credits: Xploder
+$003A470C 00000003
++Khanjar
+%Credits: Xploder
+$003A470D 00000003
++Xiao Lian
+%Credits: Xploder
+$003A470E 00000003
++Giant Butcher Knife
+%Credits: Xploder
+$003A470F 00000003
++Cheng Ying
+%Credits: Xploder
+$003A4710 00000003
++Ramdao
+%Credits: Xploder
+$003A4711 00000003
++Blue Thunder
+%Credits: Xploder
+$003A4712 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A4713 00000003
++Han Guang
+%Credits: Xploder
+$003A4714 00000003
++Childs Sword
+%Credits: Xploder
+$003A4715 00000003
+!!
+!Cassandra Weapons:
++Spiked Shield
+%Credits: Xploder
+$003A4716 00000003
++Dark Blade
+%Credits: Xploder
+$003A4717 00000003
++Metesashi
+%Credits: Xploder
+$003A4718 00000003
++Spine Blade
+%Credits: Xploder
+$003A4719 00000003
++Katzbalger
+%Credits: Xploder
+$003A471A 00000003
++Red Chrystal Rod
+%Credits: Xploder
+$003A471B 00000003
++Ivan The Terrible
+%Credits: Xploder
+$003A471C 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A471D 00000003
++Valkyrie
+%Credits: Xploder
+$003A471E 00000003
++Keepsake
+%Credits: Xploder
+$003A471F 00000003
+!!
+!Mitsurugi Weapons:
++Korefuji
+%Credits: Xploder
+$003A4720 00000003
++Two-Handed Sword
+%Credits: Xploder
+$003A4721 00000003
++Shamshir
+%Credits: Xploder
+$003A4722 00000003
++Basilard
+%Credits: Xploder
+$003A4723 00000003
++Gassan
+%Credits: Xploder
+$003A4724 00000003
++Tulwar
+%Credits: Xploder
+$003A4725 00000003
++Masamune
+%Credits: Xploder
+$003A4726 00000003
++Soul Edge(Complete)
+%Credits: Xploder
+$003A4727 00000003
++Damascus Sword
+%Credits: Xploder
+$003A4728 00000003
++Souvenir Gift
+%Credits: Xploder
+$003A4729 00000003
+!!
+!Taki Weapons:
++Kunai
+%Credits: Xploder
+$003A472A 00000003
++Slicer
+%Credits: Xploder
+$003A472B 00000003
++Kagekiri
+%Credits: Xploder
+$003A472C 00000003
++Yoroitoshi
+%Credits: Xploder
+$003A472D 00000003
++Funakugi
+%Credits: Xploder
+$003A472E 00000003
++Silent Edge
+%Credits: Xploder
+$003A472F 00000003
++Kamizoroe
+%Credits: Xploder
+$003A4730 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A4731 00000003
++Kris Naga
+%Credits: Xploder
+$003A4732 00000003
++Tobacco Pipes
+%Credits: Xploder
+$003A4733 00000003
+!!
+!Voldo Weapons:
++Cat Claws
+%Credits: Xploder
+$003A4734 00000003
++Tofana Scissors
+%Credits: Xploder
+$003A4735 00000003
++Shame & Blame
+%Credits: Xploder
+$003A4736 00000003
++Iron Ram
+%Credits: Xploder
+$003A4737 00000003
++Heavy Jur
+%Credits: Xploder
+$003A4738 00000003
++Karma & Mara
+%Credits: Xploder
+$003A4739 00000003
++Full Moon
+%Credits: Xploder
+$003A473A 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A473B 00000003
++Guillotine
+%Credits: Xploder
+$003A473C 00000003
++Tambourines
+%Credits: Xploder
+$003A473D 00000003
+!!
+!Nightmare Weapons:
++Flamberge
+%Credits: Xploder
+$003A473E 00000003
++Great Blade
+%Credits: Xploder
+$003A473F 00000003
++Steel Paddle
+%Credits: Xploder
+$003A4740 00000003
++Glam
+%Credits: Xploder
+$003A4741 00000003
++Requiem
+%Credits: Xploder
+$003A4742 00000003
++Faust
+%Credits: Xploder
+$003A4743 00000003
++Soul Edge (Growth)
+%Credits: Xploder
+$003A4744 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A4745 00000003
++Soul Calibur
+%Credits: Xploder
+$003A4746 00000003
++Galley Oar
+%Credits: Xploder
+$003A4747 00000003
+!!
+!Astaroth Weapons:
++War Hammer
+%Credits: Xploder
+$003A4748 00000003
++Terror Moon
+%Credits: Xploder
+$003A4749 00000003
++Battle Axe
+%Credits: Xploder
+$003A474A 00000003
++Great Maul
+%Credits: Xploder
+$003A474B 00000003
++Tabar
+%Credits: Xploder
+$003A474C 00000003
++Nanbanfu
+%Credits: Xploder
+$003A474D 00000003
++Bulova
+%Credits: Xploder
+$003A474E 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A474F 00000003
++Thanatos
+%Credits: Xploder
+$003A4750 00000003
++Rock
+%Credits: Xploder
+$003A4751 00000003
+!!
+!Ivy Weapons:
++Mirage Blade
+%Credits: Xploder
+$003A4752 00000003
++Wiseman Mace
+%Credits: Xploder
+$003A4753 00000003
++Dream Blade
+%Credits: Xploder
+$003A4754 00000003
++Chained Flail
+%Credits: Xploder
+$003A4755 00000003
++Viper Edge
+%Credits: Xploder
+$003A4756 00000003
++Alruane
+%Credits: Xploder
+$003A4757 00000003
++Demon Tail
+%Credits: Xploder
+$003A4758 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A4759 00000003
++Kaleidoscope
+%Credits: Xploder
+$003A475A 00000003
++Prototype Ivy Blade
+%Credits: Xploder
+$003A475B 00000003
+!!
+!Kilik Weapons:
++Quarterstaff
+%Credits: Xploder
+$003A475C 00000003
++Ling-Sheng Su Bo
+%Credits: Xploder
+$003A475D 00000003
++Iron Staff
+%Credits: Xploder
+$003A475E 00000003
++Kunlun Bamboo
+%Credits: Xploder
+$003A475F 00000003
++Rokushakuboh
+%Credits: Xploder
+$003A4760 00000003
++Amud
+%Credits: Xploder
+$003A4761 00000003
++Duel Rod
+%Credits: Xploder
+$003A4762 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A4763 00000003
++Jingu Staff
+%Credits: Xploder
+$003A4764 00000003
++Bamboo Staff
+%Credits: Xploder
+$003A4765 00000003
+!!
+!Xianghua Weapons:
++Kard
+%Credits: Xploder
+$003A4766 00000003
++Northern Star
+%Credits: Xploder
+$003A4767 00000003
++Soul Calibur (Evil)
+%Credits: Xploder
+$003A4768 00000003
++Kopis
+%Credits: Xploder
+$003A4769 00000003
++Qi Xing Sword
+%Credits: Xploder
+$003A476A 00000003
++Krita-Yuga
+%Credits: Xploder
+$003A476B 00000003
++Blue Storm
+%Credits: Xploder
+$003A476C 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A476D 00000003
++Soul Calibur
+%Credits: Xploder
+$003A476E 00000003
++Calligraphy Brush
+%Credits: Xploder
+$003A476F 00000003
+!!
+!Maxi Weapons:
++Tetsuryu
+%Credits: Xploder
+$003A4770 00000003
++Chained Kozuka
+%Credits: Xploder
+$003A4771 00000003
++Fatibal
+%Credits: Xploder
+$003A4772 00000003
++Raimei
+%Credits: Xploder
+$003A4773 00000003
++Fuzoroi
+%Credits: Xploder
+$003A4774 00000003
++Modified Flail
+%Credits: Xploder
+$003A4775 00000003
++Falcon
+%Credits: Xploder
+$003A4776 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A4777 00000003
++Vajra
+%Credits: Xploder
+$003A4778 00000003
++Termite Snack
+%Credits: Xploder
+$003A4779 00000003
+!!
+!Necrid Weapons:
++Lemures
+%Credits: Xploder
+$003A477A 00000003
++Morphos
+%Credits: Xploder
+$003A477B 00000003
++Orcus Claw
+%Credits: Xploder
+$003A477C 00000003
++Ignis Fatuus
+%Credits: Xploder
+$003A477D 00000003
++Lambent Viper
+%Credits: Xploder
+$003A477E 00000003
++Hex Luminae
+%Credits: Xploder
+$003A477F 00000003
++Infernal Edge
+%Credits: Xploder
+$003A4780 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A4781 00000003
++Chaos
+%Credits: Xploder
+$003A4782 00000003
++Ethereal Edge
+%Credits: Xploder
+$003A4783 00000003
+!!
+!Heihachi Weapons:
++Gojou
+%Credits: Xploder
+$003A4784 00000003
++Hakuraimononofu
+%Credits: Xploder
+$003A4785 00000003
++Kenkoudaiichi
+%Credits: Xploder
+$003A4786 00000003
++Tenkamusou
+%Credits: Xploder
+$003A4787 00000003
++Hibitanren
+%Credits: Xploder
+$003A4788 00000003
++Hadakaikkan
+%Credits: Xploder
+$003A4789 00000003
++Dohatsuten
+%Credits: Xploder
+$003A478A 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A478B 00000003
++Tekken
+%Credits: Xploder
+$003A478C 00000003
++Neshougatsu
+%Credits: Xploder
+$003A478D 00000003
+!!
+!Sophitia Weapons:
++Swordbreaker
+%Credits: Xploder
+$003A478E 00000003
++Xi Sword
+%Credits: Xploder
+$003A478F 00000003
++Owl Shield
+%Credits: Xploder
+$003A4790 00000003
++Blue Crystal Rod
+%Credits: Xploder
+$003A4791 00000003
++Fire Blade
+%Credits: Xploder
+$003A4792 00000003
++Gladius
+%Credits: Xploder
+$003A4793 00000003
++Synval
+%Credits: Xploder
+$003A4794 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A4795 00000003
++Orichalcum
+%Credits: Xploder
+$003A4796 00000003
++Memento
+%Credits: Xploder
+$003A4797 00000003
+!!
+!Seung Mina Weapons:
++Defender
+%Credits: Xploder
+$003A4798 00000003
++Hyup Do
+%Credits: Xploder
+$003A4799 00000003
++Naginata
+%Credits: Xploder
+$003A479A 00000003
++Couse
+%Credits: Xploder
+$003A479B 00000003
++Bardiche
+%Credits: Xploder
+$003A479C 00000003
++Halberd
+%Credits: Xploder
+$003A479D 00000003
++Ambassador
+%Credits: Xploder
+$003A479E 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A479F 00000003
++Hraesvelgr
+%Credits: Xploder
+$003A47A0 00000003
++Feather Broom
+%Credits: Xploder
+$003A47A1 00000003
+!!
+!Yoshimitsu Weapons:
++Shiranui
+%Credits: Xploder
+$003A47A2 00000003
++Kastane
+%Credits: Xploder
+$003A47A3 00000003
++Zantetsuken
+%Credits: Xploder
+$003A47A4 00000003
++Dha
+%Credits: Xploder
+$003A47A5 00000003
++Kagekiyo
+%Credits: Xploder
+$003A47A6 00000003
++Pakayun
+%Credits: Xploder
+$003A47A7 00000003
++Monohoshizao
+%Credits: Xploder
+$003A47A8 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A47A9 00000003
++Hihiirokane
+%Credits: Xploder
+$003A47AA 00000003
++Shepherds Crook
+%Credits: Xploder
+$003A47AB 00000003
+!!
+!Cervantes Weapons:
++Falchion
+%Credits: Xploder
+$003A47AC 00000003
++Firangi
+%Credits: Xploder
+$003A47AD 00000003
++Erlang's Blade
+%Credits: Xploder
+$003A47AE 00000003
++Acheron
+%Credits: Xploder
+$003A47AF 00000003
++Phlegethon
+%Credits: Xploder
+$003A47B0 00000003
++Cocytus
+%Credits: Xploder
+$003A47B1 00000003
++Styx
+%Credits: Xploder
+$003A47B2 00000003
++Soul Edge (Complete)
+%Credits: Xploder
+$003A47B3 00000003
++Lethe
+%Credits: Xploder
+$003A47B4 00000003
++Imitation Sword
+%Credits: Xploder
+$003A47B5 00000003
+!!

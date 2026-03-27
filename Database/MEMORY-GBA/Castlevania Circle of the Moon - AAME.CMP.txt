@@ -1,0 +1,83 @@
+^2 = GameID: AGB-AAME-USA
+^3 = NAME: Castlevania: Circle of the Moon
+^4 = FILE: NTSC
++Weapon Mods
+$32025640 000[WEP]
+_Have All/Inf items/Gear 
+$420256EC 6363
+$0000001C 0002
++Unknown Code?
+$3202566e 0000
+$3202566F 0000
+$32025670 0000
+^6 = MODS:
+[WEP]
+Value>Name
+1	Dagger
+2	Axe
+3	Holy Whater
+4	Crossarang
+5	Freez time
+6	Dagger
+7	Dagger (DOnt Hit anything)
+8	nothing
+9	? book
+A	Homming Daggers
+[/WEP]
+[EQUIP]
+Value>Name
+01	Leather Armor
+02	Bronze Armor
+03	Gold Armor
+04	Chain Mail
+05	Steel Armor
+06	Platinum Armor
+07	Diamond Armor
+08	MirrorArmor
+09	Needle Armor
+0A	Dark Armor
+0B	Shinning Armor
+0C	Cotton Robe
+0D	Silk Robe
+0E	Rainbow Robe
+0F	Magic Robe
+10	Sage Robe
+11	Cotton Clothes
+12	Prison Garb
+13	Stylish Suit
+14	Night Suit
+15	Ninja Garb
+16	Soldier Fatigues
+17	Double Grips
+18	Star Bracelet
+19	Strength Ring
+1A	Hard Ring
+1B	Intelligence Ring
+1C	Luck Ring
+1D	Cursed Ring
+1E	Strangth Armband
+1F	Defense Armband
+20	Sage Armband
+21	Gambler Armband
+22	Wrist Band
+23	Gauntlet
+24	Arm Guard
+25	Magic Gauntlet
+26	Miracle Armband
+27	Toy Ring
+28	Bear Ring
+29	Potion
+2A	Meat
+2B	Spiced Meat
+2C	Potion High
+2D	Potion Ex
+2E	Antidote
+2F	Cure Curse
+30	Unknown
+[/EQUIP]
+
+
+
+
+
+

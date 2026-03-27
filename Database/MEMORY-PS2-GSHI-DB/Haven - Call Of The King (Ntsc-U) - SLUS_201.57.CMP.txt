@@ -1,0 +1,132 @@
+^3 = NAME: Haven - Call Of The King (Ntsc-U)
+^2 = GameID: SLUS-20157
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$903371E4 0C0D1CCD
++(M) Must Be On
+%Credits: Codejunkies
++Enable Code (Must Be On)
+%Credits: Code Master
+$F1000860 003371E7
+!!
+!Lives Codes:
++Disable The Vsync
+%Credits: Codejunkies
+$2039BB98 00000001
++Display Textures Info
+%Credits: Codejunkies
+$20220AC8 00000000
+$202170A0 00000000
+$202170B4 00000000
++Draw All The Portals
+%Credits: Codejunkies
+$2039B8F8 00000001
++FPS Mode {<I>This Switches The Camera To A 1St Person Perspective.</I>}
+%Credits: Codejunkies
+$20526C54 00000000
++Have Infinite Double Jump
+%Credits: Codejunkies
+$2029AE6C 10000000
++Infinite Lives
+%Credits: Codejunkies
+$10526D14 00000006
++Invincible
+%Credits: Codejunkies
+$2029A628 24020001
+$2029A528 24020001
+$2029A598 24020001
++Max Blue Feathers
+%Credits: Codejunkies
+$10526B6C 00000063
++Max Cogs
+%Credits: Codejunkies
+$10526B74 00000063
++Max Rune Key
+%Credits: Codejunkies
+$2052D698 00000009
++Max Shield
+%Credits: Codejunkies
+$20526ED8 0000012C
++Moon Gravity
+%Credits: Codejunkies
+$20526B5C 3A000000
++Never Have More Than 1 Life
+%Credits: Codejunkies
+$E0010001 30526D14
+$10526D14 00000001
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E0010002 30526D14
+$10526D14 00000002
++Never Have More Than 3 Lives
+%Credits: Codejunkies
+$E0010003 30526D14
+$10526D14 00000003
++No Creatures Appear
+%Credits: Codejunkies
+$2051ED68 00000000
++No Shadows Are Drawn
+%Credits: Codejunkies
+$2051ED6C 00000000
++Start With Tons Of HP
+%Credits: Codejunkies
+$20526BC8 00000063
++Unlock Old Menu/Free Cam
+%Credits: Codejunkies
+$2051EC84 00000001
+!!
++Display Debug Info
+%Credits: Code Master
+$204FDE28 00000004
+$20502490 00000001
++Have All Gold Triangles
+%Credits: Code Master
+$00571EDC 000000FF
++Hella Low Gravity
+%Credits: Code Master
+$20526B5C 39C00000
++Infinite Double Jumps
+%Credits: Code Master
+$2029AE6C 00000000
++Infinite Health
+%Credits: Code Master
+$10526D10 00000005
++Infinite Hit Points
+%Credits: Codejunkies
+$10526D10 00000006
++Infinite Special
+%Credits: Code Master
+$20526B70 00500000
++Invincible
+%Credits: Code Master
+$1029A52E 00001000
+$1029A62E 00001000
+$1029A59E 00001000
++Low Gravity
+%Credits: Code Master
+$20526B5C 3A400000
++Max Blue Feathers
+%Credits: Code Master
+$20526B68 00000063
++Max Cogs
+%Credits: Code Master
+$20526B74 00000063
++Max Red Feathers
+%Credits: Code Master
+$20526B6C 00000063
++Max Silver Keys
+%Credits: Code Master
+$2052D698 00000063
++Max Unknown Symbol?
+%Credits: Code Master
+$20571ED4 FFFFFFFF
++Pause To Have All Objectives Completed
+%Credits: Code Master
+$202DECE0 2401FFFF
+$202DECE4 00A71804
+$202DECEC AC410140
++Special Never Depletes Over Time
+%Credits: Code Master
+$202A1CC8 00000000
+!!

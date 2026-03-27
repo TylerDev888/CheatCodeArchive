@@ -1,0 +1,108 @@
+^3 = NAME: Haunting Ground (Ntsc-U)
+^2 = GameID: SLUS-21075
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F01EFC18 001EFC1B
++Enable Code (Must Be On)
+%Credits: Code Master>Lajos Szalay
+$901EFC18 0C0456DA
+!!
+!Fiona Codes:
++Gives Fiona More Natural Breasts {<I>Note: Only Effects Normal A And B</I>}
+%Credits: HewieBelli
+$21512D10 3F666666
+$21512D38 3F547AE1
++Have Big Boobs
+%Credits: Code Master>Lajos Szalay
+$202EEEE4 3C013FC0
+$202EEEF0 AE210050
+$202EEF04 AE210054
+$202EEF10 AE210058
++Have No Skirt {<I>These &#39;Fiona&#39; Codes Will Work After You&#39;Ve Changed Your Clothes In The Beginning.</I>}
+%Credits: Code Master>Hobo
+$202F86E0 44806000
++Have Super Big Boobs
+%Credits: Code Master>Lajos Szalay
+$202EEEE4 3C014000
+$202EEEF0 AE210050
+$202EEF04 AE210054
+$202EEF10 AE210058
++Have Ultra Big Boobs
+%Credits: Code Master>Lajos Szalay
+$202EEEE4 3C014040
+$202EEEF0 AE210050
+$202EEF04 AE210054
+$202EEF10 AE210058
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Always Invisible
+%Credits: Code Master>Lajos Szalay
+$201A2BB4 00000000
+$201A2C24 00000000
+$201A2BCC 00000000
++Always Max Items (On Pick-Up)
+%Credits: Code Master>Lajos Szalay
+$2025FE4C 24020063
+$2025FE50 AE020010
++Infinite Health (Dog)
+%Credits: Code Master>Lajos Szalay
+$20164E60 8E2414CC
+$20164E64 AE2414C8
++Infinite Item Usage {<I>You Need More Than 1 Of The Item For This Code To Work.</I>}
+%Credits: Code Master>Lajos Szalay
+$2025FDF4 00000000
++Infinite Panic (Fiona)
+%Credits: Code Master>Lajos Szalay
+$202F0794 AE20001C
++Stand Still To Be Invisible
+%Credits: Code Master>Lajos Szalay
+$201A2BB4 00000000
+$201A2C24 00000000
++Take No Damage (Fiona)
+%Credits: Code Master>Lajos Szalay
+$101A22AA 00001000
++Unlock Everything
+%Credits: Code Master>Lajos Szalay
+$40487A24 00030001
+$FFFFFFFF 00000000
+!!
++Despawn Stalker (R2 + L2)
+%Credits: HewieBelli
+$E004FCFF 004F171C
+$20A861E8 00000000
+$20A867A9 00000000
+$20A867A8 00000000
+$20A861E9 00000000
++Faster Walking / Running Speed
+%Credits: punk7890
+$0019C634 000000F0
++Infinite Item Usage {<I>Okay, Here&#39;S The Catch, You&#39;Ve Gotta Have Two Of An Item Before The Infinite Usage Kicks In.</I>}
+%Credits: Codejunkies
+$2025FDF0 24630000
++Max Items On Pickup
+%Credits: MadCatz
+$2025FE50 24420063
++Play As Fiona (R2 + Start) [See NOTE] {<I>Note: This One Works Without Having To Load, You&#39;Ll Maintain Control Of Hewie For A While Unless You Give Him A Command But Eventually The AI Will Take Back Over.</I>}
+%Credits: HewieBelli
+$D04F171C 0000FDF7
+$20A84341 00000000
++Play As Hewie (L2 + Start) [See NOTE] {<I>Note: This Only Works If You Load In To A Save With Hewie Present And Hold L2 And Start While The Game Is Loading. Otherwise The AI Will Maintain Control Of Hewie.</I>}
+%Credits: HewieBelli
+$D04F171C 0000FEF7
+$20A84341 00000001
++Press L3 For Closer Camera, R3 Regular Camera
+%Credits: punk7890
+$D04F1550 0000FFFD
+$217F5058 00000001
+$D04F1550 0000FFFB
+$217F5058 00000000
++Save Anywhere (L2 + Select)
+%Credits: HewieBelli
+$D04F171C 0000FEFE
+$2180F684 00000001
++Unlock All Menu And Special Options
+%Credits: punk7890
+$20487A2C FFFFFFFF
+$20487A24 FFFFFFFF
+!!

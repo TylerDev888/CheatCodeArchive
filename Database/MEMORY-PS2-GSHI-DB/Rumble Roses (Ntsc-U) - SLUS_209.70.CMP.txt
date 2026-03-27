@@ -1,0 +1,996 @@
+^3 = NAME: Rumble Roses (Ntsc-U)
+^2 = GameID: SLUS-20970
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0121C84 00121C87
++Enable Code (Must Be On)
+%Credits: Code Master
+$90121E08 00832021
+!!
+!Enable Characters-Exhibition Mode:
++All Characters
+%Credits: Codejunkies
+$403DA86C 00050001
+$FF01FF01 00000000
+$103DA880 0000FF01
++Becky
+%Credits: Codejunkies
+$003DA879 000000FF
++Black Belt Demon
+%Credits: Codejunkies
+$003DA86F 000000FF
++Dr Cutter
+%Credits: Codejunkies
+$003DA87D 000000FF
++Judgement
+%Credits: Codejunkies
+$003DA873 000000FF
++Killer Khan
+%Credits: Codejunkies
+$003DA875 000000FF
++Lady X
+%Credits: Codejunkies
+$003DA880 000000FF
++Lady X Substance
+%Credits: Codejunkies
+$003DA881 000000FF
++Mistress Spencer
+%Credits: Codejunkies
+$003DA87B 000000FF
++Noble Rose
+%Credits: Codejunkies
+$003DA871 000000FF
++Rowdy Reiko
+%Credits: Codejunkies
+$003DA86D 000000FF
++Sgt Clemets
+%Credits: Codejunkies
+$003DA877 000000FF
++Showbiz
+%Credits: Codejunkies
+$003DA87F 000000FF
+!!
+!Enable Characters-Story Mode:
++All Characters
+%Credits: Codejunkies
+$103DA852 0000FF01
+$403DA854 00040001
+$FF01FF01 00000000
+$103DA864 0000FF01
++Becky
+%Credits: Codejunkies
+$003DA85F 000000FF
++Black Belt Demon
+%Credits: Codejunkies
+$003DA855 000000FF
++Dr Cutter
+%Credits: Codejunkies
+$003DA863 000000FF
++Judgement
+%Credits: Codejunkies
+$003DA859 000000FF
++Killer Khan
+%Credits: Codejunkies
+$003DA85B 000000FF
++Mistress Spencer
+%Credits: Codejunkies
+$003DA861 000000FF
++Noble Rose
+%Credits: Codejunkies
+$003DA857 000000FF
++Rowdy Reiko
+%Credits: Codejunkies
+$003DA853 000000FF
++Sgt Clemets
+%Credits: Codejunkies
+$003DA85D 000000FF
++Showbiz
+%Credits: Codejunkies
+$003DA865 000000FF
+!!
+!Exhibition Codes:
++Unlock All Characters
+%Credits: MadCatz
+$403DA86C 00060001
+$FFFFFFFF 00000000
+!!
+!Full Camera Mode Codes (Needs Freeze Characters):
++Activation Code (Use With Frozen Characters)
+%Credits: Code Master
+$200C0020 3C07000C
+$200C0024 24020003
+$200C0028 00A03021
+$200C002C C4C00030
+$200C0030 C4E10000
+$200C0034 46000800
+$200C0038 E4C00030
+$200C003C 24C60004
+$200C0040 24E70004
+$200C0044 2442FFFF
+$200C0048 1C40FFF8
+$200C004C 00000000
+$200C0050 C6400164
+$200C0054 C4E10000
+$200C0058 46000800
+$200C005C E6400164
+$200C0060 03E00008
+$200C0064 3C0340F0
+$201B5C20 0C030008
+$E002FFFF 01D75F42
+$400C0000 00040001
+$00000000 00000000
++P1 Press L1+Down To Decrease Y-Position Slower
+%Credits: Code Master
+$D1D75F42 0000FBBF
+$200C0004 BD000000
++P1 Press L1+Left To Decrease X-Position Slower
+%Credits: Code Master
+$D1D75F42 0000FB7F
+$200C0000 BD000000
++P1 Press L1+Right To Increase X-Position Slower
+%Credits: Code Master
+$D1D75F42 0000FBDF
+$200C0000 3D000000
++P1 Press L1+Up To Increase Y-Position Slower
+%Credits: Code Master
+$D1D75F42 0000FBEF
+$200C0004 3D000000
++P1 Press L2+Down To Zoom In Slower
+%Credits: Code Master
+$D1D75F42 0000FEBF
+$200C000C BC000000
++P1 Press L2+Left To Decrease Z-Position Slower
+%Credits: Code Master
+$D1D75F42 0000FE7F
+$200C0008 BD000000
++P1 Press L2+Right To Increase Z-Position Slower
+%Credits: Code Master
+$D1D75F42 0000FEDF
+$200C0008 3D000000
++P1 Press L2+Up To Zoom Out Slower
+%Credits: Code Master
+$D1D75F42 0000FEEF
+$200C000C 3C000000
++P1 Press R1+Down To Decrease Y-Position
+%Credits: Code Master
+$D1D75F42 0000F7BF
+$200C0004 BE000000
++P1 Press R1+Left To Decrease X-Position
+%Credits: Code Master
+$D1D75F42 0000F77F
+$200C0000 BE000000
++P1 Press R1+Right To Increase X-Position
+%Credits: Code Master
+$D1D75F42 0000F7DF
+$200C0000 3E000000
++P1 Press R1+Up To Increase Y-Position
+%Credits: Code Master
+$D1D75F42 0000F7EF
+$200C0004 3E000000
++P1 Press R2+Down To Zoom In
+%Credits: Code Master
+$D1D75F42 0000FDBF
+$200C000C BD000000
++P1 Press R2+Left To Decrease Z-Position
+%Credits: Code Master
+$D1D75F42 0000FD7F
+$200C0008 BE000000
++P1 Press R2+Right To Increase Z-Position
+%Credits: Code Master
+$D1D75F42 0000FDDF
+$200C0008 3E000000
++P1 Press R2+Up To Zoom Out
+%Credits: Code Master
+$D1D75F42 0000FDEF
+$200C000C 3D000000
+!!
+!Gallery Codes:
++Aigle
+%Credits: MadCatz
+$003DA88E 00000001
++Aisha
+%Credits: MadCatz
+$003DA898 00000001
++Anesthesia
+%Credits: MadCatz
+$003DA896 00000001
++Becky
+%Credits: MadCatz
+$003DA892 00000001
++Bloody Shadow
+%Credits: MadCatz
+$003DA88D 00000001
++Candy Cane
+%Credits: MadCatz
+$003DA893 00000001
++Complete Gallery
+%Credits: Codejunkies
+$103DA886 00000101
+$403DA888 00040001
+$01010101 00000000
+$103DA898 00000101
++Dixie Clemets
+%Credits: MadCatz
+$003DA890 00000001
++Dr. Cutter
+%Credits: MadCatz
+$003DA897 00000001
++Evil Rose
+%Credits: MadCatz
+$003DA88B 00000001
++Judgment
+%Credits: MadCatz
+$003DA88C 00000001
++Killer Khan
+%Credits: MadCatz
+$003DA88F 00000001
++Makoto Aihara
+%Credits: MadCatz
+$003DA888 00000001
++Miss Spencer
+%Credits: MadCatz
+$003DA894 00000001
++Mistress Spencer
+%Credits: MadCatz
+$003DA895 00000001
++Noble Rose
+%Credits: MadCatz
+$003DA88A 00000001
++Reiko Hinomoto
+%Credits: MadCatz
+$003DA886 00000001
++Rowdy Reiko
+%Credits: MadCatz
+$003DA887 00000001
++Sgt. Clemets
+%Credits: MadCatz
+$003DA891 00000001
++Showbiz
+%Credits: MadCatz
+$003DA899 00000001
++The Black Belt Demon
+%Credits: MadCatz
+$003DA889 00000001
+!!
++Must Be On
+%Credits: MadCatz
+$90273234 0C048796
+!P1 Hold L1, Then Press X For Character Codes [See Note]:
++Aigle
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000320
++Aisha
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000708
++Anesthesia
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000640
++Back Cheer 1
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000A28
++Back Cheer 2
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000A8C
++Back Dancer 1
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000898
++Back Dancer 2
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 000008FC
++Becky
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 000004B0
++Bloody Shadow
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 000002BC
++Candy Cane
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000514
++Dance Par Teachers
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 000009C4
++Dixie Clemets
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 000003E8
++Dr. Cutter
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 000006A4
++Evil Rose
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 000001F4
++Huge Character?
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000B54
++Invisible Character?
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000BB8
++Judgement
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000258
++Killer Khan
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000384
++Lady X
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 000007D0
++Lady X Substance
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000834
++Makoto Aihara
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 000000C8
++Manager
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000960
++Miss Spencer
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000578
++Mistress Spencer
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 000005DC
++Noble Rose
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000190
++Reiko Hinomoto {<I>With These Codes, On The Character Selection Screen, Hold L1 And Then Press X.</I>}
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000000
++Rowdy Reiko
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000064
++Sgt. Clemets
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 0000044C
++Showbiz
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 0000076C
++The Black Belt Demon
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 0000012C
++Tiny Character?
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D75F42 0000BBFF
+$21D5548C 00000AF0
+!!
+!P2 Hold L1, Then Press X For Character Codes [See Note]:
++Aigle
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000320
++Aisha
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000708
++Anesthesia
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000640
++Back Cheer 1
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000A28
++Back Cheer 2
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000A8C
++Back Dancer 1
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000898
++Back Dancer 2
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 000008FC
++Becky
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 000004B0
++Bloody Shadow
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 000002BC
++Candy Cane
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000514
++Dance Par Teachers
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 000009C4
++Dixie Clemets
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 000003E8
++Dr. Cutter
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 000006A4
++Evil Rose
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 000001F4
++Huge Character?
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000B54
++Invisible Character?
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000BB8
++Judgement
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000258
++Killer Khan
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000384
++Lady X
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 000007D0
++Lady X Substance
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000834
++Makoto Aihara
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 000000C8
++Manager
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000960
++Miss Spencer
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000578
++Mistress Spencer
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 000005DC
++Noble Rose
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000190
++Reiko Hinomoto {<I>With These Codes, On The Character Selection Screen, Hold L1 And Then Press X.</I>}
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000000
++Rowdy Reiko
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000064
++Sgt. Clemets
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 0000044C
++Showbiz
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 0000076C
++The Black Belt Demon
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 0000012C
++Tiny Character?
+%Credits: Code Master
+$003D7BC6 00000000
+$D1D76602 0000BBFF
+$21D556FC 00000AF0
+!!
+!Player 1:
++Infinite Lethal Move
+%Credits: MadCatz
+$216D6EF4 00000064
++Max Lethal Move Counter
+%Credits: MadCatz
+$216D6EEC 00000005
++No Lethal Move
+%Credits: MadCatz
+$216D6EF4 00000000
++No Lethal Move Counter
+%Credits: MadCatz
+$216D6EEC 00000000
+!!
+!Player 1 Codes:
++Humiliation Gauge Empty
+%Credits: Codejunkies
+$216D6FCC 3F800000
++Humiliation Gauge Full
+%Credits: Codejunkies
+$216D6FC8 00000019
+$216D6FCC 41A00000
+$216D6FD0 000004CF
++Infinite Lethal/Killer Moves
+%Credits: Codejunkies
+$216D6EEC 00000002
++Lethal Move Counter Always Full
+%Credits: Codejunkies
+$216D6EF4 00000063
+!!
+!Player 2:
++Infinite Lethal Move
+%Credits: MadCatz
+$2156AEF4 00000064
++Max Lethal Move Counter
+%Credits: MadCatz
+$2156AEEC 00000005
++No Lethal Move
+%Credits: MadCatz
+$2156AEF4 00000000
++No Lethal Move Counter
+%Credits: MadCatz
+$2156AEEC 00000000
+!!
+!Player 2 Codes:
++Enable All Costumes
+%Credits: Codejunkies
+$403DA8A0 00050001
+$FFFFFFFF 00000000
++Humiliation Gauge Empty
+%Credits: Codejunkies
+$2156AFCC 3F800000
++Humiliation Gauge Full
+%Credits: Codejunkies
+$2156AFC8 00000019
+$2156AFCC 41A00000
+$2156AFD0 000004CF
++Infinite Lethal/Killer Moves
+%Credits: Codejunkies
+$2156AEEC 00000002
++Lethal Move Counter Always Full
+%Credits: Codejunkies
+$2156AEF4 00000063
+!!
+!Rule Modifiers:
++Entrance Modifier {<I>Values -&#160; 00 - Entrances Are Off 01 - Entrances Are On</I>}
+%Credits: BigBossman
+$003D7BC6 000000??
++Humiliation Finish Only Modifier {<I>When Turned On, You Can Win The Match by performing your humiliation&#160;move. This would be similar to having a finisher match. Values -&#160; 00 - Humiliation Finish Only is Off 01 - Humiliation Finish Only is On</i>}
+%Credits: BigBossman
+$003D7BCB 000000??
++Pinfalls Modifier {<I>Values -&#160; 00 - Pinfalls Are Off 01 - Pinfalls Are On 02 - Pinfalls Count Everywhere</I>}
+%Credits: BigBossman
+$003D7BA1 000000??
++Ring Out Modifier {<I>Values -&#160; 00 - Allowed To Exit The Ring 01 - Not Allowed To Exit The Ring</I>}
+%Credits: BigBossman
+$003D7BA4 000000??
++Time Limit Modifier {<I>You Can Set The Time Limit To A Specific Amount Of Minutes You&#39;D Like Each Match To Be. For Values That Aren&#39;T 10 Minutes, 15 Minutes, 20 Minutes, Or 30 Minutes, The Loading Screen Will Say &Quot;No Time Limit&Quot;, But The Match Will Last However Long You Set It For. Values -&#160; 00 - No Time Limit 01 - 1 Minute 02 - 2 Minutes 03 - 3 Minutes 05 - 5 Minutes 0A - 10 Minutes 0F - 15 Minutes 14 - 20 Minutes 1E - 30 Minutes 2D - 45 Minutes 3C - 60 Minutes</I>}
+%Credits: BigBossman
+$003D7BA8 000000??
+!!
+!Scaling & Rotation Codes (L3+R3 To Reset):
++Activation Code (Use With Frozen Characters)
+%Credits: Code Master
+$200C0080 3C07000C
+$200C0084 C6A00054
+$200C0088 C4E10010
+$200C008C 46000800
+$200C0090 E6A00054
+$200C0094 C6A00058
+$200C0098 C4E10014
+$200C009C 46000800
+$200C00A0 0806D779
+$200C00A4 E6A00058
+$E006FFFF 01D75F42
+$200C0010 00000000
+$200C0014 00000000
+$201B5DAC 00000000
+$201B5DC4 00000000
+$201B5DD0 00000000
+$201B5DD8 08030020
+$E004FFF9 01D75F42
+$201B5DAC AEA30054
+$201B5DC4 AEA30054
+$201B5DD0 AEA30054
+$201B5DD8 3C03BE68
++P1 Press L3+Left To Rotate Left Slower
+%Credits: Code Master
+$D1D75F42 0000FF7D
+$200C0014 BA800000
++P1 Press L3+Right To Rotate Right Slower
+%Credits: Code Master
+$D1D75F42 0000FFDD
+$200C0014 3A800000
++P1 Press L3+Up To Scale Up Slower
+%Credits: Code Master
+$D1D75F42 0000FFED
+$200C0010 3A800000
++P1 Press R3+Down To Scale Down
+%Credits: Code Master
+$D1D75F42 0000FFBB
+$200C0010 BB800000
++P1 Press R3+Down To Scale Down Slower
+%Credits: Code Master
+$D1D75F42 0000FFBD
+$200C0010 BA800000
++P1 Press R3+Left To Rotate Left
+%Credits: Code Master
+$D1D75F42 0000FF7B
+$200C0014 BB800000
++P1 Press R3+Right To Rotate Right
+%Credits: Code Master
+$D1D75F42 0000FFDB
+$200C0014 3B800000
++P1 Press R3+Up To Scale Up
+%Credits: Code Master
+$D1D75F42 0000FFEB
+$200C0010 3B800000
+!!
+!Stage Modifier Codes [See Note]:
++Back Stage
+%Credits: Code Master
+$003D7CE0 0000000A
++Back Stage 2
+%Credits: Code Master
+$003D7CE0 0000000B
++Beach Stage
+%Credits: Code Master
+$003D7CE0 0000000D
++Beach-Ring 1
+%Credits: Code Master
+$003D7CE0 00000003
++Exhibition-Ring 1 {<I>Some Characters Cannot Be Used On Certain Stages.</I>}
+%Credits: Code Master
+$003D7CE0 00000000
++Exhibition-Ring 2
+%Credits: Code Master
+$003D7CE0 00000001
++Exhibition-Ring 3
+%Credits: Code Master
+$003D7CE0 00000002
++Mad Mud-Stage
+%Credits: Code Master
+$003D7CE0 00000009
++Warehouse Stage
+%Credits: Code Master
+$003D7CE0 0000000C
+!!
+!Story Codes:
++Unlock All Characters
+%Credits: MadCatz
+$403DA84C 00050001
+$FFFFFFFF 00000000
+$103DA864 0000FFFF
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Always Max Humilation P1
+%Credits: Code Master
+$216D6FC8 0000000A
+$216D6FCC 41C80000
+$216D6FD0 000003E7
++Always Max Humilation P2
+%Credits: Code Master
+$2156AFC8 0000000A
+$2156AFCC 41C80000
+$2156AFD0 000003E7
++Always No Humiliation P1
+%Credits: Code Master
+$216D6FC8 00000000
+$216D6FCC 00000000
+$216D6FD0 00000000
++Always No Humiliation P2
+%Credits: Code Master
+$2156AFC8 00000000
+$2156AFCC 00000000
+$2156AFD0 00000000
++Can Use All Costumes In Mad Mud Match
+%Credits: Code Master
+$C15BB201 3725D908
++Disable Health Bars
+%Credits: Code Master
+$2029EEA0 03E00008
+$2029EEA4 00000000
++Disable HUD
+%Credits: Code Master
+$2029E560 03E00008
+$2029E564 00000000
++Disable Pinfall Victories
+%Credits: Code Master
+$201C449C 00000000
++Disable Shadows
+%Credits: Code Master
+$201F1048 00000000
++First Player To Do A Submission/Humilation Wins
+%Credits: Code Master
+$2022DD78 00000000
++Gallery Camera Can Zoom More
+%Credits: Code Master
+$10304A36 00001000
+$20304A54 00000000
++Idiot AI
+%Credits: Code Master
+$202DE260 03E00008
+$202DE264 00000000
++Infinite Time
+%Credits: Code Master
+$20382944 00000000
++Infinite Time To Break Submission/Humilation
+%Credits: Code Master
+$2022DDE4 00000000
++P1 Press L1+L2 To Disable HUD
+%Credits: Code Master
+$E002FAFF 01D75F42
+$2029E560 03E00008
+$2029E564 00000000
++P1 Press L1+R1 To Freeze Characters
+%Credits: Code Master
+$D1D75F42 0000F3FF
+$203829A0 00000001
++P1 Press L1+Select To Stop Timer
+%Credits: Code Master
+$D1D75F42 0000FBFE
+$201C3994 00000000
++P1 Press L2+R2 To Unfreeze Characters
+%Credits: Code Master
+$D1D75F42 0000FCFF
+$203829A0 00000000
++P1 Press L2+Select To Restart Timer
+%Credits: Code Master
+$D1D75F42 0000FEFE
+$201C3994 AF8384D4
++P1 Press R1+R2 To Re-Enable HUD
+%Credits: Code Master
+$E002FAFF 01D75F42
+$2029E560 27BDFE40
+$2029E564 FFBF0090
++P1 Press R1+Select To Reset Pin Count To Zero
+%Credits: Code Master
+$D1D75F42 0000F7FE
+$201C4498 24030000
+$D1D75F42 0000FFFF
+$201C4498 24630001
++P1 Press R2+Select To For 3-Count
+%Credits: Code Master
+$D1D75F42 0000FDFE
+$201C4498 240300FF
+$D1D75F42 0000FFFF
+$201C4498 24630001
++Stop Timer
+%Credits: Code Master
+$201C3994 00000000
++Unlock All Costumes
+%Credits: Code Master
+$403DA8A0 00070001
+$FFFFFFFF 00000000
+!!
+!Unlock Exhibition Mode Character Codes:
++Aigle
+%Credits: Code Master
+$003DA874 00000001
++Aisha
+%Credits: Code Master
+$003DA87E 00000001
++All Exhibition Mode Characters
+%Credits: Code Master
+$403DA86C 00050001
+$01010101 00000000
+$103DA880 00000101
++Anesthesia
+%Credits: Code Master
+$003DA87C 00000001
++Becky
+%Credits: Code Master
+$003DA878 00000001
++Bloody Shadow
+%Credits: Code Master
+$003DA873 00000001
++Candy Cane
+%Credits: Code Master
+$003DA879 00000001
++Dixie Clemets
+%Credits: Code Master
+$003DA876 00000001
++Dr. Cutter
+%Credits: Code Master
+$003DA87D 00000001
++Evil Rose
+%Credits: Code Master
+$003DA871 00000001
++Judgment
+%Credits: Code Master
+$003DA872 00000001
++Killer Khan
+%Credits: Code Master
+$003DA875 00000001
++Lady X
+%Credits: Code Master
+$003DA880 00000001
++Lady X Substance
+%Credits: Code Master
+$003DA881 00000001
++Makoto Aihara
+%Credits: Code Master
+$003DA86E 00000001
++Miss Spencer
+%Credits: Code Master
+$C0AFC1AB 8E8AEC1C
++Mistress Spencer
+%Credits: Code Master
+$003DA87B 00000001
++Noble Rose
+%Credits: Code Master
+$003DA870 00000001
++Reiko Hinomoto
+%Credits: Code Master
+$003DA86C 00000001
++Rowdy Reiko
+%Credits: Code Master
+$003DA86D 00000001
++Sgt. Clemets
+%Credits: Code Master
+$003DA877 00000001
++Showbiz
+%Credits: Code Master
+$003DA87F 00000001
++The Black Belt Demon
+%Credits: Code Master
+$003DA86F 00000001
+!!
+!Unlock Gallery Codes:
++Evil Rose
+%Credits: Code Master
+$90B56080 7F57A480
+!!
+!Unlock Story Mode Character Codes:
++Aigle
+%Credits: Code Master
+$003DA85A 00000001
++Aisha
+%Credits: Code Master
+$003DA864 00000001
++All Story Mode Characters
+%Credits: Code Master
+$103DA852 00000101
+$403DA854 00040001
+$01010101 00000000
+$103DA864 00000101
++Anesthesia
+%Credits: Code Master
+$003DA862 00000001
++Becky
+%Credits: Code Master
+$003DA85E 00000001
++Bloody Shadow
+%Credits: Code Master
+$003DA859 00000001
++Candy Cane
+%Credits: Code Master
+$003DA85F 00000001
++Dixie Clemets
+%Credits: Code Master
+$003DA85C 00000001
++Dr. Cutter
+%Credits: Code Master
+$003DA863 00000001
++Evil Rose
+%Credits: Code Master
+$003DA857 00000001
++Judgment
+%Credits: Code Master
+$003DA858 00000001
++Killer Khan
+%Credits: Code Master
+$003DA85B 00000001
++Makoto Aihara
+%Credits: Code Master
+$003DA854 00000001
++Miss Spencer
+%Credits: Code Master
+$003DA860 00000001
++Mistress Spencer
+%Credits: Code Master
+$003DA861 00000001
++Noble Rose
+%Credits: Code Master
+$003DA856 00000001
++Reiko Hinomoto
+%Credits: Code Master
+$003DA852 00000001
++Rowdy Reiko
+%Credits: Code Master
+$003DA853 00000001
++Sgt. Clemets
+%Credits: Code Master
+$003DA85D 00000001
++Showbiz
+%Credits: Code Master
+$003DA865 00000001
++The Black Belt Demon
+%Credits: Code Master
+$003DA855 00000001
+!!
+!!
+

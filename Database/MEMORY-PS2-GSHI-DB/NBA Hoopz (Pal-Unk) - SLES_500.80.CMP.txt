@@ -1,0 +1,76 @@
+^3 = NAME: NBA Hoopz (Pal-Unk)
+^2 = GameID: SLES-50080
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01A100C 001B6107
++(M) Must Be On
+%Credits: Codejunkies
+$F01B6104 001B6107
+!!
+!Player 1 Foul Codes:
++Lots Of Fouls
+%Credits: Codejunkies
+$102F51EC 00000032
++No Fouls
+%Credits: Codejunkies
+$102F51EC 00000000
+!!
+!Player 1 Score Codes:
++0 Points Scored
+%Credits: Codejunkies
+$102F5124 00000000
++99 Points
+%Credits: Codejunkies
+$102F5124 00000063
++Can Never Score More Than 3
+%Credits: Codejunkies
+$E0010003 302F5124
+$102F5124 00000003
++Can Never Score More Than 25
+%Credits: Codejunkies
+$E0010019 302F5124
+$102F5124 00000019
++Can Never Score More Than 50
+%Credits: Codejunkies
+$E0010032 302F5124
+$102F5124 00000032
++Can Never Score More Than 75
+%Credits: Codejunkies
+$E001004B 302F5124
+$102F5124 0000004B
+!!
+!Player 2 Foul Codes:
++Lots Of Fouls
+%Credits: Codejunkies
+$102F51F0 00000032
++No Fouls
+%Credits: Codejunkies
+$102F51F0 00000000
+!!
+!Player 2 Score Codes:
++99 Points
+%Credits: Codejunkies
+$102F5140 00000063
++Can Never Score More Than 3
+%Credits: Codejunkies
+$E0010003 302F5140
+$102F5140 00000003
++Can Never Score More Than 25
+%Credits: Codejunkies
+$E0010019 302F5140
+$102F5140 00000019
++Can Never Score More Than 50
+%Credits: Codejunkies
+$E0010032 302F5140
+$102F5140 00000032
++Can Never Score More Than 75
+%Credits: Codejunkies
+$E001004B 302F5140
+$102F5140 0000004B
++Scores 0
+%Credits: Codejunkies
+$102F5140 00000000
+!!
+!!
+

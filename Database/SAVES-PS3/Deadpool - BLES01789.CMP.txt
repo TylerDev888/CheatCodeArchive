@@ -1,0 +1,22 @@
+^2 = GameID: BLES01789
+^3 = NAME: Deadpool
+^5 = APCRED: From zeick
+^4 = FILE: PAYLOAD
++Decompress Payload (required)
+$Decompress(0x00000018, 15)
+^4 = FILE: ~extracted\00000018.dat
++999999 Dp Points
+$search 0x00004505
+$write next (4):497423F0
+^4 = FILE: BLES01789-PROFILE\PAYLOAD
++Fix Compression (required)
+$delete at 0x20:0x4FF
+^4 = FILE: PAYLOAD
++Compress Payload (required)
+$Compress(0x00000018)
+^4 = FILE: BLES01789-PROFILE\PAYLOAD
++Update Sha1 (required)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

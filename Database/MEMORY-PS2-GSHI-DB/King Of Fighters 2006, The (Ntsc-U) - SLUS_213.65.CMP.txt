@@ -1,0 +1,643 @@
+^3 = NAME: King Of Fighters 2006, The (Ntsc-U)
+^2 = GameID: SLUS-21365
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F011765C 0011765F
++Enable Code (Must Be On)
+%Credits: Code Master
+$901177E0 00832021
++Mastercode
+%Credits: MadCatz
+$901E7CEC 0C045DEE
+!!
++Blocking Disabled Both Players
+%Credits: nolberto82
+$203A9968 100000A3
+!Enable Profiles:
++Alba Meira
+%Credits: Codejunkies
+$0081D1ED 00000003
++Armor Ralf
+%Credits: Codejunkies
+$0081D5DD 00000003
++Athena Asamiya
+%Credits: Codejunkies
+$0081D0CD 00000003
++B Jenet
+%Credits: Codejunkies
+$0081D51D 00000003
++Billy Kane
+%Credits: Codejunkies
+$0081D30D 00000003
++Chae Lim
+%Credits: Codejunkies
+$0081D06D 00000003
++Clark Still
+%Credits: Codejunkies
+$0081D03D 00000003
++Duke
+%Credits: Codejunkies
+$0081D2AD 00000003
++Fio
+%Credits: Codejunkies
+$0081D4ED 00000003
++Hanzo Hattori
+%Credits: Codejunkies
+$0081D3FD 00000003
++Hyena
+%Credits: Codejunkies
+$0081D60D 00000003
++Iori Yagami
+%Credits: Codejunkies
+$0081D12D 00000003
++Jivatma
+%Credits: Codejunkies
+$0081D54D 00000003
++K
+%Credits: Codejunkies
+$0081CF7D 00000003
++Kim
+%Credits: Codejunkies
+$0081D3CD 00000003
++Kula Diamond
+%Credits: Codejunkies
+$0081D2DD 00000003
++Kyo Kusanagi
+%Credits: Codejunkies
+$0081CF1D 00000003
++Kyo Kusanagi Classic
+%Credits: Codejunkies
+$0081D57D 00000003
++Leona
+%Credits: Codejunkies
+$0081D1BD 00000003
++Lien Neville
+%Credits: Codejunkies
+$0081D24D 00000003
++Lilly Kane
+%Credits: Codejunkies
+$0081D42D 00000003
++Luise Meyrink
+%Credits: Codejunkies
+$0081D36D 00000003
++Mai Shiranui
+%Credits: Codejunkies
+$0081D09D 00000003
++Maxima
+%Credits: Codejunkies
+$0081CF4D 00000003
++Mignon Beart
+%Credits: Codejunkies
+$0081D27D 00000003
++Mr Karate
+%Credits: Codejunkies
+$0081D5AD 00000003
++Nagase
+%Credits: Codejunkies
+$0081D33D 00000003
++Nightmare Geese
+%Credits: Codejunkies
+$0081D48D 00000003
++Ninon Beart
+%Credits: Codejunkies
+$0081D4BD 00000003
++Ralf Jones
+%Credits: Codejunkies
+$0081D00D 00000003
++Richard Myer
+%Credits: Codejunkies
+$0081D45D 00000003
++Rock Howard
+%Credits: Codejunkies
+$0081D18D 00000003
++Ryo Sakazaki
+%Credits: Codejunkies
+$0081CFDD 00000003
++Seth
+%Credits: Codejunkies
+$0081D15D 00000003
++Soiree Meira
+%Credits: Codejunkies
+$0081D21D 00000003
++Terry Bogard
+%Credits: Codejunkies
+$0081CFAD 00000003
++Yuri Sakazaki
+%Credits: Codejunkies
+$0081D0FD 00000003
+!!
++Hit Anywhere Both Players
+%Credits: nolberto82
+$2037F070 00000000
+!Player 1:
++Infinite Health
+%Credits: MadCatz
+$20817E7C 43480000
++Infinite Power Gauge
+%Credits: MadCatz
+$00817E86 00000064
+$00817E88 00000003
++Max Guard Gauge
+%Credits: MadCatz
+$00817E84 0000000F
++No Guard Gauge
+%Credits: MadCatz
+$00817E84 00000000
++No Health
+%Credits: MadCatz
+$20817E7C 00000000
++No Power Gauge
+%Credits: MadCatz
+$00817E86 00000000
+$00817E88 00000000
+!!
+!Player 1 Codes:
++Low Health
+%Credits: Codejunkies
+$20817E7C 3F800000
+!!
+!Player 2:
++Infinite Health
+%Credits: MadCatz
+$2081803C 43480000
++Infinite Power Gauge
+%Credits: MadCatz
+$00818046 00000064
+$00818048 00000003
++Max Guard Gauge
+%Credits: MadCatz
+$00818044 0000000F
++No Guard Gauge
+%Credits: MadCatz
+$00818044 00000000
++No Health
+%Credits: MadCatz
+$2081803C 00000000
++No Power Gauge
+%Credits: MadCatz
+$00818046 00000000
+$00818048 00000003
+!!
+!Player 2 Codes:
++Low Health
+%Credits: Codejunkies
+$2081803C 3F800000
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++1-Hit Death P1
+%Credits: Code Master
+$E0023F80 20817E7C
+$20817E7C 3F800000
+$20817E80 437A0000
++1-Hit Death P2
+%Credits: Code Master
+$E0023F80 2081803C
+$2081803C 3F800000
+$20818040 437A0000
++25% Health P1
+%Credits: Code Master
+$E0024278 00817E7C
+$20817E7C 42780000
+$20817E80 437A0000
++25% Health P2
+%Credits: Code Master
+$E0024278 2081803C
+$2081803C 42780000
+$20818040 437A0000
++50% Health P1
+%Credits: Code Master
+$E00242FA 00817E7C
+$20817E7C 42FA0000
+$20817E80 437A0000
++50% Health P2
+%Credits: Code Master
+$E00242FA 2081803C
+$2081803C 42FA0000
+$20818040 437A0000
++75% Health P1
+%Credits: Code Master
+$E002433B 00817E7C
+$20817E7C 433B0000
+$20817E80 437A0000
++75% Health P2
+%Credits: Code Master
+$E002433B 2081803C
+$2081803C 433B0000
+$20818040 437A0000
++Infinite Health P1
+%Credits: Code Master
+$20817E7C 437A0000
++Infinite Health P2
+%Credits: Code Master
+$2081803C 437A0000
++Infinite Time
+%Credits: Code Master
+$207A2938 00000000
++Max Guard P1
+%Credits: Code Master
+$10817E84 00000F0F
++Max Guard P2
+%Credits: Code Master
+$10818044 00000F0F
++Max Health P1
+%Credits: Code Master
+$20817E80 437A0000
++Max Health P2
+%Credits: Code Master
+$20818040 437A0000
++Max Power Gauge Level P1
+%Credits: Code Master
+$10817E88 00000303
++Max Power Gauge Level P2
+%Credits: Code Master
+$10818048 00000303
++Max Power Gauge P1
+%Credits: Code Master
+$10817E86 00006464
++Max Power Gauge P2
+%Credits: Code Master
+$10818046 00006464
++No Guard P1
+%Credits: Code Master
+$10817E84 00000000
++No Guard P2
+%Credits: Code Master
+$10818044 00000000
++No Power Gauge Level P1
+%Credits: Code Master
+$10817E88 00000000
++No Power Gauge Level P2
+%Credits: Code Master
+$10818048 00000000
++No Power Gauge P1
+%Credits: Code Master
+$10817E86 00000000
++No Power Gauge P2
+%Credits: Code Master
+$10818046 00000000
+!!
++Unlock All Characters & Profile
+%Credits: lee4
+$4081CF1C 0026000C
+$01010701 00000000
++Unlock All Color Variation
+%Credits: lee4
+$4081CF20 0026000C
+$01010101 00000000
+$4081CF24 0026000C
+$01010101 00000000
+$4081CF28 0026000C
+$01010101 00000000
+$4081CF2C 0026000C
+$01010101 00000000
++Unlock All Stages & Soundtest
+%Credits: lee4
+$1081C6A0 00000101
+$2081C690 0101010A
+$4081C694 00030001
+$01010101 00000000
+!Unlock Character Codes:
++Alba Meira
+%Credits: Code Master
+$7081D1EC 00000001
++Armor Ralf
+%Credits: Code Master
+$7081D5DC 00000001
++Athena Samiya
+%Credits: Code Master
+$7081D0CC 00000001
++B. Jenet
+%Credits: Code Master
+$7081D51C 00000001
++Billy Kane
+%Credits: Code Master
+$7081D30C 00000001
++Chae Lim
+%Credits: Code Master
+$7081D06C 00000001
++Clark Still
+%Credits: Code Master
+$7081D03C 00000001
++Duke
+%Credits: Code Master
+$7081D2AC 00000001
++Fio
+%Credits: Code Master
+$7081D4EC 00000001
++Hanzo Hattori
+%Credits: Code Master
+$7081D3FC 00000001
++Hyena
+%Credits: Code Master
+$7081D60C 00000001
++Iori Yagami
+%Credits: Code Master
+$7081D12C 00000001
++Jivatma
+%Credits: Code Master
+$7081D39C 00000001
++K'
+%Credits: Code Master
+$7081CF7C 00000001
++Kim
+%Credits: Code Master
+$7081D3CC 00000001
++Kula Diamond
+%Credits: Code Master
+$7081D2DC 00000001
++Kyo Kusanagi
+%Credits: Code Master
+$7081CF1C 00000001
++Kyo Kusanagi Classic
+%Credits: Code Master
+$7081D57C 00000001
++Leona
+%Credits: Code Master
+$7081D1BC 00000001
++Lien Neville
+%Credits: Code Master
+$7081D24C 00000001
++Lilly Kane
+%Credits: Code Master
+$7081D42C 00000001
++Luise Meyrink
+%Credits: Code Master
+$7081D36C 00000001
++Mai Shiranui
+%Credits: Code Master
+$7081D09C 00000001
++Maxima
+%Credits: Code Master
+$7081CF4C 00000001
++Mignon Beart
+%Credits: Code Master
+$7081D27C 00000001
++Mr. Karate
+%Credits: Code Master
+$7081D5AC 00000001
++Nagase
+%Credits: Code Master
+$7081D33C 00000001
++Nightmare Geese
+%Credits: Code Master
+$7081D48C 00000001
++Ninon Beart
+%Credits: Code Master
+$7081D4BC 00000001
++Ralf Jones
+%Credits: Code Master
+$7081D00C 00000001
++Richard Myer
+%Credits: Code Master
+$7081D45C 00000001
++Rock Howard
+%Credits: Code Master
+$7081D18C 00000001
++Ryo Sakazaki
+%Credits: Code Master
+$7081CFDC 00000001
++Seth
+%Credits: Code Master
+$7081D15C 00000001
++Soiree Meira
+%Credits: Code Master
+$7081D21C 00000001
++Terry Bogard
+%Credits: Code Master
+$7081CFAC 00000001
++Wild Wolf
+%Credits: Code Master
+$7081D54C 00000001
++Yuri Sakazaki
+%Credits: Code Master
+$7081D0FC 00000001
+!!
+!Unlock Characters:
++Armor Ralf
+%Credits: MadCatz
+$0081D5DC 00000001
++B Jenet
+%Credits: MadCatz
+$0081D51C 00000001
++Fio
+%Credits: MadCatz
+$0081D4EC 00000001
++Hanzo Hattori
+%Credits: MadCatz
+$0081D3FC 00000001
++Hyena
+%Credits: MadCatz
+$0081D60C 00000001
++Kim
+%Credits: MadCatz
+$0081D3CC 00000001
++Kyo Kusanagi Classic
+%Credits: MadCatz
+$0081D57C 00000001
++Lilly Kane
+%Credits: MadCatz
+$0081D42C 00000001
++Mr Karate
+%Credits: MadCatz
+$0081D5AC 00000001
++Nightmare Geese
+%Credits: MadCatz
+$0081D48C 00000001
++Ninon Beart
+%Credits: MadCatz
+$0081D4BC 00000001
++Richard Myer
+%Credits: MadCatz
+$0081D45C 00000001
++Wild Wolf
+%Credits: MadCatz
+$0081D54C 00000001
+!!
++Unlock Jivatma & Profile
+%Credits: lee4
+$1081D39C 00000701
+!Unlock Profile Codes:
++Alba Meira
+%Credits: Code Master
+$7081D1ED 00000002
++Armor Ralf
+%Credits: Code Master
+$7081D5DD 00000002
++Athena Samiya
+%Credits: Code Master
+$7081D0CD 00000002
++B. Jenet
+%Credits: Code Master
+$7081D51D 00000002
++Billy Kane
+%Credits: Code Master
+$7081D30D 00000002
++Chae Lim
+%Credits: Code Master
+$7081D06D 00000002
++Clark Still
+%Credits: Code Master
+$7081D03D 00000002
++Duke
+%Credits: Code Master
+$7081D2AD 00000002
++Fio
+%Credits: Code Master
+$7081D4ED 00000002
++Hanzo Hattori
+%Credits: Code Master
+$7081D3FD 00000002
++Hyena
+%Credits: Code Master
+$7081D60D 00000002
++Iori Yagami
+%Credits: Code Master
+$7081D12D 00000002
++K'
+%Credits: Code Master
+$7081CF7D 00000002
++Kim
+%Credits: Code Master
+$7081D3CD 00000002
++Kula Diamond
+%Credits: Code Master
+$7081D2DD 00000002
++Kyo Kusanagi
+%Credits: Code Master
+$903A63C7 070A4BF9
++Kyo Kusanagi Classic
+%Credits: Code Master
+$7081D57D 00000002
++Leona
+%Credits: Code Master
+$7081D1BD 00000002
++Lien Neville
+%Credits: Code Master
+$7081D24D 00000002
++Lilly Kane
+%Credits: Code Master
+$7081D42D 00000002
++Luise Meyrink
+%Credits: Code Master
+$7081D36D 00000002
++Mai Shiranui
+%Credits: Code Master
+$7081D09D 00000002
++Maxima
+%Credits: Code Master
+$7081CF4D 00000002
++Mignon Beart
+%Credits: Code Master
+$7081D27D 00000002
++Mr. Karate
+%Credits: Code Master
+$7081D5AD 00000002
++Nagase
+%Credits: Code Master
+$7081D33D 00000002
++Nightmare Geese
+%Credits: Code Master
+$7081D48D 00000002
++Ninon Beart
+%Credits: Code Master
+$7081D4BD 00000002
++Ralf Jones
+%Credits: Code Master
+$7081D00D 00000002
++Richard Myer
+%Credits: Code Master
+$7081D45D 00000002
++Rock Howard
+%Credits: Code Master
+$7081D18D 00000002
++Ryo Sakazaki
+%Credits: Code Master
+$7081CFDD 00000002
++Seth
+%Credits: Code Master
+$7081D15D 00000002
++Soiree Meira
+%Credits: Code Master
+$7081D21D 00000002
++Terry Bogard
+%Credits: Code Master
+$7081CFAD 00000002
++Wild Wolf
+%Credits: Code Master
+$7081D54D 00000002
++Yuri Sakazaki
+%Credits: Code Master
+$7081D0FD 00000002
+!!
+!Unlock Stage Codes:
++All Stages
+%Credits: Code Master
+$1081C692 00000101
+$4081C694 00030001
+$01010101 00000000
+$1081C6A0 00000101
++Catacomb
+%Credits: Code Master
+$0081C696 00000001
++Cyber Space
+%Credits: Code Master
+$0081C69D 00000001
++Dragon's Lair
+%Credits: Code Master
+$0081C69B 00000001
++Emperor's Court
+%Credits: Code Master
+$0081C69E 00000001
++Esaka
+%Credits: Code Master
+$0081C6A1 00000001
++Fleur-De-Lis
+%Credits: Code Master
+$0081C695 00000001
++Grand Mosque
+%Credits: Code Master
+$0081C69A 00000001
++Hunting Cave
+%Credits: Code Master
+$C1B95A09 1D03B80F
++Infernal Gate
+%Credits: Code Master
+$0081C6A0 00000001
++Kyokugen Dojo
+%Credits: Code Master
+$0081C697 00000001
++Mizuki
+%Credits: Code Master
+$0081C69F 00000001
++Neogeo Land
+%Credits: Code Master
+$0081C69C 00000001
++Sacred Garden
+%Credits: Code Master
+$0081C699 00000001
++Temple Of Ruins
+%Credits: Code Master
+$0081C694 00000001
++Tower Festival
+%Credits: Code Master
+$0081C693 00000001
++War Memorial
+%Credits: Code Master
+$0081C692 00000001
+!!
+!Unlock Stages:
++All Stages
+%Credits: MadCatz
+$1081C69A 00000101
+$1081C69C 00000101
+$1081C69E 00000101
+$1081C6A0 00000101
++All Stages
+%Credits: Codejunkies
+$1081C69A 00000101
+$2081C69C 01010101
+$1081C6A0 00000101
+!!
+!!
+

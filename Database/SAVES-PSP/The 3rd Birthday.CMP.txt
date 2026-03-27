@@ -1,0 +1,12 @@
+^2 = GameID: ULES01513,ULUS10567
+^3 = NAME: The 3rd Birthday
+^5 = APCRED: PSP
+(http://web.save-editor.com/bbs/patchcode/psp/bbs.cgi?list=pickup&num=2369#)
+^4 = FILE: 3RDDATA.BIN
++Bp 999999999
+$200018B4 3B9AC9FF
+(* Please modify the 3RDDATA.BIN file.)
+^4 = FILE: SYSDATA.BIN
++Release All Costumes
+$10000618 000007FF
+(* Please modify the system data (SYSDATA.BIN file in the ULJM05798SYSDATA folder).)

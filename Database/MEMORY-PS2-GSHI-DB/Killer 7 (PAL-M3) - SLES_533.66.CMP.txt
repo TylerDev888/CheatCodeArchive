@@ -1,0 +1,48 @@
+^3 = NAME: Killer 7 (PAL-M3)
+^2 = GameID: SLES-53366
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01E2E98 001E2E9B
+!!
++All Characters Available
+%Credits: Codejunkies
+$10674830 00000FFF
+$10674834 0000FFFF
++Check Skill To Max Up Skills
+%Credits: Codejunkies
+$200FFF00 24010005
+$200FFF04 A0410000
+$200FFF0C 080B4658
+$200FFF08 80420000
+$202D1958 0803FFC0
++Infinite Ammo
+%Credits: Codejunkies
+$201FD340 00000000
++Infinite Health
+%Credits: Codejunkies
+$201FC554 24020096
+$201FC55C A64202B8
++Max Opponents Defeated
+%Credits: Codejunkies
+$10674524 000003E7
+!Size Modifier:
++Big Player
+%Credits: Codejunkies
+$206E0C78 3FC00000
++Giant Player
+%Credits: Codejunkies
+$206E0C78 40000000
++Small Player
+%Credits: Codejunkies
+$206E0C78 3F200000
++Very Small Player
+%Credits: Codejunkies
+$206E0C78 3E800000
+!!
++Team Members Always Alive
+%Credits: Codejunkies
+$20674828 00000000
+$2067482C 0000FFFF
+!!
+

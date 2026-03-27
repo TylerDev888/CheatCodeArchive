@@ -1,0 +1,95 @@
+^1 = Hash: 0C 6D 21 2F A1 E7 CF 48 8A F9 0F 06 75 77 BC 03 84 61 6A 08
+^2 = GameID: SLUS_215.43
+^3 = NAME: Mortal Kombat Armageddon Premium Edition
+!Masters:
++Enable Code (MUST BE ON)
+$9014CC54 0C057016
+!!
+^4 = FILE: Ultimate Mortal Kombat 3
+!Jokers:
++Player 1 Controller
+$D02DFE02 0000[Joker:PS2]
++Player 2 Controller
+$D02DFF42 0000[Joker:PS2]
+!!
+!Players:
+!Player 1
++Infinite Energy
+%Credits: lee4
+$0055504C 000000A6
++Infinite Turbo
+%Credits: lee4
+$0055504E 00000030
+!!
+!Player 2
++Infinite Energy
+%Credits: lee4
+$005551C2 000000A6
++Infinite Turbo
+%Credits: lee4
+$005551C4 00000030
++No Energy
+%Credits: lee4
+$D05551C2 000000A6
+$005551C2 00000001
++No Turbo
+%Credits: lee4
+$005551C4 00000000
+!!
+!!
+!In-Game Cheat (vs Codes):
++No Powerbars
+%Credits: lee4
+$00555324 00000000
++No Throwing
+%Credits: lee4
+$0055545C 00000001
++No Blocking
+%Credits: lee4
+$00555460 00000001
++Unlimited Run
+%Credits: lee4
+$0055547E 00000001
++Fast Uppercut Recovery
+%Credits: lee4
+$0055547C 00000001
++Always Play Galaxian Before A 2 Player Match
+%Credits: lee4
+$0055535C 00000064
+!!
+!Unlock Characters:
++Enable Mileena
+%Credits: lee4
+$D055533C 00000000
+$0055533C 00000001
++Enable Ermac
+%Credits: lee4
+$D055533E 00000000
+$0055533E 00000001
++Enable Classic Subzero
+%Credits: lee4
+$D0555340 00000000
+$00555340 00000001
+!!
+!Play As Codes:
+!Player 1:
++P1 Play As Human Smoke (l1+r1)
+%Credits: lee4
+$D02DFE02 0000F3FF
+$00555046 00000016
++P1 Play As Noob Saibot(r2+l2)
+%Credits: lee4
+$D02DFE02 0000FCFF
+$00555046 00000017
+!!
+!Player 2:
++P2 Play As Human Smoke (l1+r1)
+%Credits: lee4
+$D02DFF42 0000F3FF
+$005551BC 00000016
++P2 Play As Noob Saibot(r2+l2)
+%Credits: lee4
+$D02DFF42 0000FCFF
+$005551BC 00000017
+!!
+!!

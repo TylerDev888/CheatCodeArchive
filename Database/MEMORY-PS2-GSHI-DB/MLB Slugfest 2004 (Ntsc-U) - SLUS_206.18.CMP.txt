@@ -1,0 +1,458 @@
+^3 = NAME: MLB Slugfest 2004 (Ntsc-U)
+^2 = GameID: SLUS-20618
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01B8E4C 001B8E4F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001B8E4F
+!!
+!Away Only Codes:
++1 Ball To Walk
+%Credits: Codejunkies
+$D044A444 00000000
+$D044A48C 00000000
+$1044A48C 00000003
++1 Out Per Inning
+%Credits: Codejunkies
+$D044A444 00000000
+$D044A490 00000000
+$1044A490 00000002
++1 Strike Per Out
+%Credits: Codejunkies
+$D044A444 00000000
+$D044A480 00000000
+$1044A480 00000002
++2 Balls To Walk
+%Credits: Codejunkies
+$D044A444 00000000
+$D044A48C 00000000
+$1044A48C 00000002
++2 Outs Per Inning
+%Credits: Codejunkies
+$D044A444 00000000
+$D044A490 00000000
+$1044A490 00000001
++2 Strikes Per Out
+%Credits: Codejunkies
+$D044A444 00000000
+$D044A480 00000000
+$1044A480 00000001
++3 Balls To Walk
+%Credits: Codejunkies
+$D044A444 00000000
+$D044A48C 00000000
+$1044A48C 00000001
++No Balls
+%Credits: Codejunkies
+$D044A444 00000000
+$1044A48C 00000000
++No Outs
+%Credits: Codejunkies
+$D044A444 00000000
+$1044A490 00000000
++No Strikes
+%Credits: Codejunkies
+$D044A444 00000000
+$1044A480 00000000
++Strikes Per Out
+%Credits: Codejunkies
+$D044A480 00000000
+$1044A480 00000001
+!!
++Away Team Infinite Turbo
+%Credits: Code Master
+$2044497C 42C80000
++Away Team No Turbo
+%Credits: Code Master
+$2044497C 00000000
+!Away Team Only Codes:
++1 Ball And You Walk
+%Credits: Code Master
+$E0020000 0044928C
+$D044A48C 00000000
+$1044A48C 00000003
++1 Out And You Are Out
+%Credits: Code Master
+$E0020000 0044928C
+$D044A490 00000000
+$1044A490 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020000 0044928C
+$D044A480 00000000
+$1044A480 00000002
++2 Balls And You Walk
+%Credits: Code Master
+$E0020000 0044928C
+$D044A48C 00000000
+$1044A48C 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020000 0044928C
+$D044A490 00000000
+$1044A490 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020000 0044928C
+$D044A480 00000000
+$1044A480 00000001
++3 Balls And You Walk
+%Credits: Code Master
+$E0020000 0044928C
+$D044A48C 00000000
+$1044A48C 00000001
++Always Full Count
+%Credits: Code Master
+$E0020000 0044928C
+$1044A480 00000002
+$1044A48C 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030000 0044928C
+$1044A480 00000002
+$1044A48C 00000003
+$1044A490 00000002
++Infinite Balls
+%Credits: Code Master
+$D044928C 00000000
+$1044A48C 00000000
++Infinite Outs
+%Credits: Code Master
+$D044928C 00000000
+$1044A490 00000000
++Infinite Strikes
+%Credits: Code Master
+$D044928C 00000000
+$1044A480 00000000
+!!
++Away Team Pitcher-Max Special
+%Credits: Code Master
+$2044A514 0000000A
++Away Team Pitcher-No Special
+%Credits: Code Master
+$2044A514 00000000
+!Away Team Score Codes:
++Score 0
+%Credits: Codejunkies
+$1044A4F8 00000000
++Score 50
+%Credits: Codejunkies
+$1044A4F8 00000032
+!!
++Away Team Score Modifier
+%Credits: Code Master
+$1044A4F8 0000????
+!Away Team Sp Pitch Codes:
++Infinite Sp Pitch
+%Credits: Codejunkies
+$1044A514 0000000A
++No Sp Pitch
+%Credits: Codejunkies
+$1044A514 00000000
+!!
++Away Team Start With Runs Modifier
+%Credits: Code Master
+$D044A4F8 00000000
+$1044A4F8 0000????
+!Away Team Turbo Codes:
++Infinite Turbo
+%Credits: Codejunkies
+$1044497E 000042C8
++No Turbo
+%Credits: Codejunkies
+$1044497E 00000000
+!!
++Away Win: Press R1 R2
+%Credits: Codejunkies
+$D0488602 0000F5FF
+$1044A4C4 00000000
+$D0488602 0000F5FF
+$1044A4F8 00000032
+!Ball Codes:
++1 Ball To Walk
+%Credits: Codejunkies
+$E0020000 0044A444
+$D044A48C 00000000
+$1044A48C 00000003
++2 Balls To Walk
+%Credits: Codejunkies
+$E0020000 0044A444
+$D044A48C 00000000
+$1044A48C 00000002
++3 Balls To Walk
+%Credits: Codejunkies
+$E0020000 0044A444
+$D044A48C 00000000
+$1044A48C 00000001
++Ball To Walk
+%Credits: Codejunkies
+$D044A48C 00000000
+$1044A48C 00000003
++Ball To Walk
+%Credits: Codejunkies
+$E0020001 0044A444
+$D044A48C 00000000
+$1044A48C 00000003
++Balls To Walk
+%Credits: Codejunkies
+$D044A48C 00000000
+$1044A48C 00000002
++Balls To Walk
+%Credits: Codejunkies
+$D044A48C 00000000
+$1044A48C 00000001
++Balls To Walk
+%Credits: Codejunkies
+$E0020001 0044A444
+$D044A48C 00000000
+$1044A48C 00000002
++No Balls
+%Credits: Codejunkies
+$1044A48C 00000000
++No Balls
+%Credits: Codejunkies
+$D044A444 00000001
+$1044A48C 00000000
+!!
+!Both Team Codes:
++1 Out And You Are Out
+%Credits: Code Master
+$D044A490 00000000
+$1044A490 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$D044A480 00000000
+$1044A480 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$D044A490 00000000
+$1044A490 00000001
++Always Full Count
+%Credits: Code Master
+$1044A480 00000002
+$1044A48C 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$1044A480 00000002
+$1044A48C 00000003
+$1044A490 00000002
++Infinite Outs
+%Credits: Code Master
+$1044A490 00000000
++Infinite Strikes
+%Credits: Code Master
+$1044A480 00000000
+!!
+!Home Only Codes:
++1 Ball To Walk
+%Credits: Codejunkies
+$D044A444 00000001
+$D044A48C 00000000
+$1044A48C 00000003
++1 Out Per Inning
+%Credits: Codejunkies
+$D044A444 00000001
+$D044A490 00000000
+$1044A490 00000002
++1 Strike Per Out
+%Credits: Codejunkies
+$D044A444 00000001
+$D044A480 00000000
+$1044A480 00000002
++2 Balls To Walk
+%Credits: Codejunkies
+$D044A444 00000001
+$D044A48C 00000000
+$1044A48C 00000002
++2 Outs Per Inning
+%Credits: Codejunkies
+$D044A444 00000001
+$D044A490 00000000
+$1044A490 00000001
++2 Strikes Per Out
+%Credits: Codejunkies
+$D044A444 00000001
+$D044A480 00000000
+$1044A480 00000001
++3 Balls To Walk
+%Credits: Codejunkies
+$D044A444 00000001
+$D044A48C 00000000
+$1044A48C 00000001
++No Outs
+%Credits: Codejunkies
+$D044A444 00000001
+$1044A490 00000000
++No Outs
+%Credits: Codejunkies
+$D044A48C 00000000
+$1044A490 00000000
++No Strikes
+%Credits: Codejunkies
+$D044A444 00000001
+$1044A480 00000000
++Out Per Inning
+%Credits: Codejunkies
+$D044A48C 00000000
+$D044A490 00000000
+$1044A490 00000002
++Outs Per Inning
+%Credits: Codejunkies
+$D044A48C 00000000
+$D044A490 00000000
+$1044A490 00000001
+!!
++Home Team Infinite Turbo
+%Credits: Code Master
+$20444978 42C80000
++Home Team No Turbo
+%Credits: Code Master
+$20444978 00000000
+!Home Team Only Codes:
++1 Ball And You Walk
+%Credits: Code Master
+$E0020001 0044928C
+$D044A48C 00000000
+$1044A48C 00000003
++1 Out And You Are Out
+%Credits: Code Master
+$E0020001 0044928C
+$D044A490 00000000
+$1044A490 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020001 0044928C
+$D044A480 00000000
+$1044A480 00000002
++2 Balls And You Walk
+%Credits: Code Master
+$E0020001 0044928C
+$D044A48C 00000000
+$1044A48C 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020001 0044928C
+$D044A490 00000000
+$1044A490 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020001 0044928C
+$D044A480 00000000
+$1044A480 00000001
++3 Balls And You Walk
+%Credits: Code Master
+$E0020001 0044928C
+$D044A48C 00000000
+$1044A48C 00000001
++Always Full Count
+%Credits: Code Master
+$E0020001 0044928C
+$1044A480 00000002
+$1044A48C 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030001 0044928C
+$1044A480 00000002
+$1044A48C 00000003
+$1044A490 00000002
++Infinite Balls
+%Credits: Code Master
+$D044928C 00000001
+$1044A48C 00000000
++Infinite Outs
+%Credits: Code Master
+$D044928C 00000001
+$1044A490 00000000
++Infinite Strikes
+%Credits: Code Master
+$D044928C 00000001
+$1044A480 00000000
+!!
++Home Team Pitcher-Max Special
+%Credits: Code Master
+$2044A4E0 0000000A
++Home Team Pitcher-No Special
+%Credits: Code Master
+$2044A4E0 00000000
+!Home Team Score Codes:
++Score 0
+%Credits: Codejunkies
+$1044A4C4 00000000
++Score 50
+%Credits: Codejunkies
+$1044A4C4 00000032
+!!
++Home Team Score Modifier
+%Credits: Code Master
+$1044A4C4 0000????
+!Home Team Sp Pitch Codes:
++Infinite Sp Pitch
+%Credits: Codejunkies
+$1044A4E0 0000000A
++No Sp Pitch
+%Credits: Codejunkies
+$1044A4E0 00000000
+!!
++Home Team Start With Runs Modifier
+%Credits: Code Master
+$D044A4C4 00000000
+$1044A4C4 0000????
+!Home Team Turbo Codes:
++Infinite Turbo
+%Credits: Codejunkies
+$1044497A 000042C8
++No Turbo
+%Credits: Codejunkies
+$1044497A 00000000
+!!
++Home Team Win (Press L1 L2 To Activate) {<I>Away Team Win</I>}
+%Credits: Codejunkies
+$D0488602 0000FAFF
+$1044A4C4 00000032
+$D0488602 0000FAFF
+$1044A4F8 00000000
+!Out Codes:
++1 Out Per Inning
+%Credits: Codejunkies
+$E0020000 0044A444
+$D044A490 00000000
+$1044A490 00000002
++2 Outs Per Inning
+%Credits: Codejunkies
+$E0020000 0044A444
+$D044A490 00000000
+$1044A490 00000001
++Out Per Inning
+%Credits: Codejunkies
+$E0020000 0044A48C
+$D044A490 00000000
+$1044A490 00000002
++Outs Per Inning
+%Credits: Codejunkies
+$E0020000 0044A48C
+$D044A490 00000000
+$1044A490 00000001
+!!
+!Strike Codes:
+!!
+!Strikes Codes:
++1 Strike Per Out
+%Credits: Codejunkies
+$E0020001 0044A444
+$D044A480 00000000
+$1044A480 00000002
++1 Strike Per Out
+%Credits: Codejunkies
+$E0020000 0044A444
+$D044A480 00000000
+$1044A480 00000002
++2 Strikes Per Out
+%Credits: Codejunkies
+$E0020001 0044A444
+$D044A480 00000000
+$1044A480 00000001
+!!
+!!
+

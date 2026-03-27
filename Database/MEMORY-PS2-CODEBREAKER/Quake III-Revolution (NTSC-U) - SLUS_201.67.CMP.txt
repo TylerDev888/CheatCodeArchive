@@ -1,0 +1,59 @@
+^3 = NAME: Quake III-Revolution
+^2 = GameID: SLUS_201.67
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0030137F
+!!
+!Codes:
++Infinite Armor
+%Credits: Code Master
+$E0020000 00688310
+$10688310 000000C8
+$1076DD94 000000C8
++Max Frags
+%Credits: Code Master
+$10688340 000003E7
++Killed Count Always 0
+%Credits: Code Master
+$10688364 00000000
++Infinite Ammo (Machine Gun)
+%Credits: Code Master
+$10688408 000003E7
++Infinite Ammo (Shotgun)
+%Credits: Code Master
+$1068840C 000003E7
++Infinite Ammo (Grenade Launcher)
+%Credits: Code Master
+$10688410 000003E7
++Infinite Ammo (Rocket Launcher)
+%Credits: Code Master
+$10688414 000003E7
++Infinite Ammo (Plasma Gun)
+%Credits: Code Master
+$10688420 000003E7
++Infinite Ammo (Chain Gun)
+%Credits: Code Master
+$10688434 000003E7
++Max Flag Time
+%Credits: Code Master
+$10692BA6 00004B01
++Max Frag Medals
+%Credits: Code Master
+$1069AAC4 0000270F
++Max Impressive Medals
+%Credits: Code Master
+$1069AAF4 0000270F
++Max Gauntlet Medals
+%Credits: Code Master
+$1069AB24 0000270F
++Max Excellent Medals
+%Credits: Code Master
+$1069AB54 0000270F
++Max Accuracy Medals
+%Credits: Code Master
+$1069AB84 0000270F
++Max Perfect Medals
+%Credits: Code Master
+$1069ABB4 0000270F
+!!

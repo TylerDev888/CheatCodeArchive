@@ -1,0 +1,106 @@
+^3 = NAME: Magna Carta (Pal-Unk)
+^2 = GameID: SLES-53767
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F012085C 0012085F
+!!
++All Monsters Are Level 1
+%Credits: Codejunkies
+$202F6E40 24020001
++All Monsters Are Level 1
+%Credits: Codejunkies
+$202F69D0 24020001
++All Monsters Are Level 99
+%Credits: Codejunkies
+$202F6E40 24020063
+!In Battle Codes:
++1000 XP {<I>With This Code On, Swap Leader (Press R1) To Give An Extra 1000Xp To New Leader</I>}
+%Credits: Codejunkies
+$200FFF14 8C2200BC
+$200FFF18 244203E8
+$200FFF1C AC2200BC
++Full HP {<I>With This Code ON, Swap Leader (Press R1) To Refill HP On The New Leader.</I>}
+%Credits: Codejunkies
+$200FFF08 8C220034
+$200FFF0C AC2200AC
++Max Attk
+%Credits: Codejunkies
+$200FFF30 AC220040
++Max Cha
+%Credits: Codejunkies
+$200FFF34 AC220038
++Max Def
+%Credits: Codejunkies
+$200FFF2C AC220044
++Max Ma
+%Credits: Codejunkies
+$200FFF28 AC220048
++Max Res {<I>Swap Leader For Stat Codes To Activate On New Leader. Stats Will Be Reset After Each Level Up.</I>}
+%Credits: Codejunkies
+$200FFF24 AC22004C
++Max/Full HP {<I>With This Code ON, Swap Leader For Max/Full HP</I>}
+%Credits: Codejunkies
+$200FFF08 2402270F
+$200FFF0C AC220034
+$200FFF10 AC2200AC
++Must Be On {<I>This Code Must Be On For Any Of The In Battle Codes To Work!</I>}
+%Credits: Codejunkies
+$200FFF00 8C84020C
+$200FFF04 8C810060
+$200FFF40 03E00008
+$20411E34 0C03FFC0
+$200FFF20 240203E8
++Must Be On {<I>This Code Must Be On For Any Of The In Battle Codes To Work!</I>}
+%Credits: Codejunkies
+$200FFF00 8C84020C
+$200FFF04 8C810060
+$200FFF40 03E00008
+$20410A94 0C03FFC0
+$200FFF20 240203E8
+!!
++Infinite Item Use
+%Credits: Codejunkies
+$2039E7C4 24020001
++Infinite Sid
+%Credits: Codejunkies
+$20E3EA7C 05F00000
++Items Increase When Used
+%Credits: Codejunkies
+$2039FA50 080E857C
+$2039FA54 00000000
++Max Cash After A Fight
+%Credits: Codejunkies
+$202F6F4C 3C1405F0
++Max Cash After A Fight
+%Credits: Codejunkies
+$202F6ADC 3C1405F0
+!Speed Codes:
++Hyper Mode
+%Credits: Codejunkies
+$2053B544 40200000
++Hyper Mode (Press Start)
+%Credits: Codejunkies
+$E10100F7 00551582
+$2053C644 40800000
++Normal Speed (Press R3)
+%Credits: Codejunkies
+$E10100FB 00551582
+$2053C644 3F800000
++Quicker Game
+%Credits: Codejunkies
+$2053B544 3FE00000
++Quicker Game (Press Select)
+%Credits: Codejunkies
+$E10100FE 00551582
+$2053C644 3FE00000
++Slow Motion
+%Credits: Codejunkies
+$2053B544 3F000000
++Slow Motion (Press L3) {<I>Use This Code To Slow Down Style In Battle.</I>}
+%Credits: Codejunkies
+$E10100FD 00551582
+$2053C644 3E800000
+!!
+!!
+

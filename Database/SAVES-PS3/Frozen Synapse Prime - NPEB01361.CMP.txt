@@ -1,0 +1,30 @@
+^2 = GameID: NPEB01361
+^3 = NAME: Frozen Synapse Prime
+^4 = FILE: MCCEBVH
++Update Crc32 For Mccebvh (required)
+(set range:0x000018,0x000022)
+$set pointer:eof+1
+$set range:0x000018,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+^4 = FILE: XGQAVNK
++Update Crc32 For Xgqavnk (required)
+(set range:0x18,0x000FB8)
+$set pointer:eof+1
+$set range:0x18,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+^4 = FILE: FWDCBXH
++Update Crc32 For Fwdcbxh (required)
+(set range:0x18,0x0055BF)
+$set pointer:eof+1
+$set range:0x18,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+^4 = FILE: CPJKSHI
++Update Crc32 For Cpjkshi (required)
+(set range:0x000018,0x000D6B)
+$set pointer:eof+1
+$set range:0x000018,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]

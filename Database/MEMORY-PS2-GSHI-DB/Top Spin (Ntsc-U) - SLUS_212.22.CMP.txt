@@ -1,0 +1,51 @@
+^3 = NAME: Top Spin (Ntsc-U)
+^2 = GameID: SLUS-21222
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$90133F20 00832021
+!!
+!Career Mode Codes:
++Buying Shop Items Doesn't Decrease Coins
+%Credits: Code Master
+$D06F4700 0000282D
+$206F472C 00000000
++Buying Shop Items Increases Coins
+%Credits: Code Master
+$D06F4700 0000282D
+$206F4728 00621021
++Buying Shop Items Increases Coins To Max
+%Credits: Code Master
+$E002282D 006F4700
+$206F4718 3C0205F5
+$206F4728 3442E0FF
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++All Matches Score For Team 1
+%Credits: Code Master
+$D062EB78 0000802D
+$2062EB8C 24420000
++All Matches Score For Team 2
+%Credits: Code Master
+$D062EB78 0000802D
+$2062EB8C 24420001
++All Points Score For Team 1
+%Credits: Code Master
+$D062ECD4 0000802D
+$2062ECF4 24050000
++All Points Score For Team 2
+%Credits: Code Master
+$D062ECD4 0000802D
+$2062ECF4 24050001
++Display FPS
+%Credits: Code Master
+$2059073C 00000001
++Display Memory Usage
+%Credits: Code Master
+$20590744 00000001
++Score Once To Win
+%Credits: Code Master
+$D062ECD4 0000802D
+$2062ED2C 24020004
+!!
+

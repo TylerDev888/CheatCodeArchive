@@ -1,0 +1,25 @@
+^3 = NAME: Worms 3D (Pal-Unk)
+^2 = GameID: SLES-51843
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F041E54C 0041E54F
+!!
+!God Mode:
++All Players Infinite Health
+%Credits: Codejunkies
+$204A4ABC 24020001
++Enemy A.I. Fails To Shoot
+%Credits: Codejunkies
+$2011D2D0 03E00008
+$2011D2D4 00000000
++Freeze Turn Time
+%Credits: Codejunkies
+$215297BC 0000A000
++No Weapons Delay
+%Credits: Codejunkies
+$203FFC40 03E00008
+$203FFC44 00000000
+!!
+!!
+

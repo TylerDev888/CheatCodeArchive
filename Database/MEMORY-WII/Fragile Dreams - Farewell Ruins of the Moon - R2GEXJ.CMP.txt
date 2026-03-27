@@ -1,0 +1,262 @@
+^2 = GameID: R2GEXJ
+^3 = NAME: Fragile Dreams: Farewell Ruins of the Moon
++Inf HP Player/1 Hit Kill Enemy
+%Credits: Skiller
+$C2081AD4 00000006
+$826339F8 3EE0456E
+$62F7656D 7C179800
+$41820010 80033A0C
+$2C000001 48000008
+$2C007FFF 90033A08
+$60000000 00000000
++Have All Briefcase{U Can Change The Amount If You Change The ??01??01 Sections.}
+%Credits: Skiller
+$083A5178 01010101
+$20430004 00000000
+$083A5290 01010101
+$20060004 00000000
+$023A52B8 00000101
++On Level Up Have Max Str
+%Credits: Skiller
+$C2078210 00000002
+$3C805F5E 6084E0FF
+$90833A10 00000000
++Max Str
+%Credits: Skiller
+$0430CE90 05F5E0FF
++EXP Multiplyer X"amount"{Fill In "amount" With What Ever U Want To X It By}
+%Credits: Skiller
+$C20DAF9C 00000002
+1F9C00[Amount:0A:HEX:BIG] 7FDC1A14
+$60000000 00000000
+!Items:
++Items Only Take 1 On Hand Slot{Once Used Make Sure To Keep Using May Messup On Hand Slots If Not Used.}
+%Credits: Skiller
+$C213E134 00000002
+$39200000 9923000A
+$8923000A 00000000
+!Press 1+2 To Give Your Self Item:
++Have Item In Slot 1
+%Credits: Skiller
+$2839BF76 00000300
+$043A52D0 0000[ITE]
+$043A52D4 FFFFFFFF
+$043A530C FFFFFFFF
+$E0000000 80008000
++Have Item In Slot 2
+%Credits: Skiller
+$2839BF76 00000300
+$043A52EC 0000[ITE]
+$043A52F0 FFFFFFFF
+$043A5328 FFFFFFFF
+$E0000000 80008000
++Have Item In Slot 3
+%Credits: Skiller
+$2839BF76 00000300
+$043A5308 0000[ITE]
+$043A530C FFFFFFFF
+$043A5344 FFFFFFFF
+$E0000000 80008000
++Have Item In Slot 4
+%Credits: Skiller
+$2839BF76 00000300
+$043A5324 0000[ITE]
+$043A5328 FFFFFFFF
+$043A5360 FFFFFFFF
+$E0000000 80008000
++Have Item In Slot 5
+%Credits: Skiller
+$2839BF76 00000300
+$043A5340 0000[ITE]
+$043A5344 FFFFFFFF
+$043A537C FFFFFFFF
+$E0000000 80008000
++Have Item In Slot 6
+%Credits: Skiller
+$2839BF76 00000300
+$043A535C 0000[ITE]
+$043A5360 FFFFFFFF
+$043A5398 FFFFFFFF
+$E0000000 80008000
++Have Item In Slot 7
+%Credits: Skiller
+$2839BF76 00000300
+$043A5378 0000[ITE]
+$043A537C FFFFFFFF
+$043A53B4 FFFFFFFF
+$E0000000 80008000
++Have Item In Slot 8
+%Credits: Skiller
+$2839BF76 00000300
+$043A5394 0000[ITE]
+$043A5398 FFFFFFFF
+$043A53D0 FFFFFFFF
+$E0000000 80008000
++Have Item In Slot 9
+%Credits: Skiller
+$2839BF76 00000300
+$043A53B0 0000[ITE]
+$043A53B4 FFFFFFFF
+$043A53EC FFFFFFFF
+$E0000000 80008000
++Have Item In Slot 10
+%Credits: Skiller
+$2839BF76 00000300
+$043A53CC 0000[ITE]
+$043A53D0 FFFFFFFF
+$043A5408 FFFFFFFF
+$E0000000 80008000
++Have Item In Slot 11
+%Credits: Skiller
+$2839BF76 00000300
+$043A53E8 0000[ITE]
+$043A53EC FFFFFFFF
+$043A5424 FFFFFFFF
+$E0000000 80008000
++Have Item In Slot 12
+%Credits: Skiller
+$2839BF76 00000300
+$043A5404 0000[ITE]
+$043A5408 FFFFFFFF
+$043A5440 FFFFFFFF
+$E0000000 80008000
+!!
+!!
+^6 = MODS:
+[ITE]
+VALUE>NAME
+0001	A Stick
+0002	A Bamboo Sword
+0003	A Golf Club
+0004	A Katana
+0005	A Cat Toy
+0006	A Mallet
+0007	An Ax
+0008	A Hammer
+0009	A Broom
+000A	A Butterfly Net
+000B	A Pole
+000C	A Spear
+000D	An Iron Pipe
+000E	A Slingshot
+000F	A Bow
+0010	A Longbow
+0011	A Crossbow
+0012	A Broken Stick
+0013	A Broken Bamboo Sword
+0014	A Broken Golf Club
+0015	A Broken Katana
+0016	A Broken Cat Toy
+0017	A Broken Mallet
+0018	A Broken Ax
+0019	A Broken Hammer
+001A	A Broken Broom
+001B	A Broken Butterfly Net
+001C	A Broken Pole
+001D	A Broken Spear
+001E	A Broken Iron Pipe
+001F	A Broken Slingshot
+0020	A Broken Bow
+0021	A Broken Longbow
+0022	A Broken Crossbow
+0029	A Flashlight
+002A	A Hi-Beam Flashlight
+002B	A Flash Bulb
+002C	A Special Flashlight
+002D	A Metal Detector
+002E	A Broken Flashlight
+0033	A Healing Candy Drop
+0034	An Old Instant Lunch
+0035	An Emergency Kit
+0036	Vitamins
+0037	Tuna
+0038	Water
+0039	An Energy Drink
+003A	A Ration Pack
+003B	An Oxygen Cylinder
+003C	A Strange Blue Drink
+003D	A Strange Red Drink
+0047	Old Man's Letter
+0048	A Strange Blue Stone
+0049	PF's Screw
+004A	Pirate Isle
+004B	A Toy
+004C	A Paper Crane
+004D	Mother's Shoe
+004E	A Shutter Key
+004F	The Key To Underground Mall
+0050	The Storage Key
+0051	The Photo Of Grandpa?
+0052	A Skull Ring
+0053	The Key To Old Mall
+0054	The Key To Roller Coaster
+0055	The Key To Room 301
+0056	The Master Key
+0057	The Star
+0058	The Moon
+0059	The Silver Ring
+005A	The Yellow Flower Brooch
+005B	A Bird Plushie
+005C	The Key To The Chapel
+005D	A Ring Pillow
+005E	Dad's Ring
+005F	A Wedding Bouquet
+0060	A Compass
+0061	A Secret Map
+0062	A Glittering Stone
+0063	A Cookie Tin
+0064	A Scientist's Mug
+0065	A Journal
+0066	An Assistant's Mug
+0067	A Sedative
+0068	A Guitar
+0069	A Tailored Jacket
+006A	A Cracked Milk Bottle
+006B	A Pen
+006C	A Cell Phone
+006D	A Diary
+006E	A Torn Letter
+006F	A Pendant
+0070	A Baby Sock
+0071	A Dog Collar
+0072	A Game Cartridge
+0073	A Self-Help Book
+0074	A Dirty Shoe
+0075	A Worn-Out Collar
+0076	A Class Photo
+0077	A Soda Bottle
+0078	A Daily Planner
+0079	A Radio
+007A	A Dictionary
+007B	A Mug
+007C	A Deflated Balloon
+007D	A Broken Bomb Detonator
+008C	A Torn Picture 1
+008D	A Torn Picture 2
+008E	A Torn Picture 3
+008F	A Torn Picture 4
+0090	A Withered Plant
+0091	The Seven Colored Bells
+0092	Red Bell Anri
+0093	Blue Bell Fleur
+0094	Purple Bell Silvia
+0095	Yellow Bell Lotte
+0096	Orange Bell Bisque
+0097	Silver Bell Chris
+0098	Pink Bell Maria 1
+0099	Pink Bell Maria 2
+009A	Pink Bell Maria 3
+009E	A Small Bag
+009F	A Large Bag
+00A0	Cat Food
+00A1	The Crystal Fragment
+00A2	The Fluorite
+00A3	The Large Crystal
+00A4	The Onyx
+00A5	The Galena
+00A6	The Gold
+00A7	The Dappled Stone
+00A8	The Sun Stone
+00A9	The Light Stone
+00AA	Cash
+[/ITE]

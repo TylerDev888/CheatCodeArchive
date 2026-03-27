@@ -1,0 +1,320 @@
+^1 = HASH: 4168AE4F
+^3 = NAME: NFL Gameday 2002
+^2 = GameID: SCUS_971.31
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00144747
+!!
+!Codes:
++Home Team Score Modifier
+%Credits: Code Master
+$10479750 0000????
++Home Team Start With Score Modifier
+%Credits: Code Master
+$D0479750 00000000
+$10479750 0000????
++Away Team Score Modifier
+%Credits: Code Master
+$10479758 0000????
++Away Team Start With Score Modifier
+%Credits: Code Master
+$D0479758 00000000
+$10479758 0000????
++Home Team Infinite Time-Outs
+%Credits: Code Master
+$10479760 00000003
++Home Team No Time-Outs
+%Credits: Code Master
+$10479760 00000000
++Away Team Infinite Time-Outs
+%Credits: Code Master
+$10479762 00000003
++Away Team No Time-Outs
+%Credits: Code Master
+$10479762 00000000
++P1 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BC342
+$204798BC 00000000
+$104798C0 00000005
++P1 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BC342
+$204798BC 00000001
+$104798C0 00000000
++P2 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BC442
+$204798BC 00000000
+$104798C0 00000005
++P2 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BC442
+$204798BC 00000001
+$104798C0 00000000
++P3 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BC542
+$204798BC 00000000
+$104798C0 00000005
++P3 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BC542
+$204798BC 00000001
+$104798C0 00000000
++P4 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BC642
+$204798BC 00000000
+$104798C0 00000005
++P4 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BC642
+$204798BC 00000001
+$104798C0 00000000
++P5 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BC742
+$204798BC 00000000
+$104798C0 00000005
++P5 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BC742
+$204798BC 00000001
+$104798C0 00000000
++P6 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BC842
+$204798BC 00000000
+$104798C0 00000005
++P6 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BC842
+$204798BC 00000001
+$104798C0 00000000
++P7 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BC942
+$204798BC 00000000
+$104798C0 00000005
++P7 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BC942
+$204798BC 00000001
+$104798C0 00000000
++P8 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BCA42
+$204798BC 00000000
+$104798C0 00000005
++P8 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BCA42
+$204798BC 00000001
+$104798C0 00000000
++P1 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BC342 0000FBFE
+$104798C4 00000001
++P1 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BC342 0000F7FE
+$104798C4 00000028
++P2 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BC442 0000FBFE
+$104798C4 00000001
++P2 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BC442 0000F7FE
+$104798C4 00000028
++P3 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BC542 0000FBFE
+$104798C4 00000001
++P3 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BC542 0000F7FE
+$104798C4 00000028
++P4 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BC642 0000FBFE
+$104798C4 00000001
++P4 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BC642 0000F7FE
+$104798C4 00000028
++P5 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BC742 0000FBFE
+$104798C4 00000001
++P5 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BC742 0000F7FE
+$104798C4 00000028
++P6 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BC842 0000FBFE
+$104798C4 00000001
++P6 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BC842 0000F7FE
+$104798C4 00000028
++P7 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BC942 0000FBFE
+$104798C4 00000001
++P7 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BC942 0000F7FE
+$104798C4 00000028
++P8 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BCA42 0000FBFE
+$104798C4 00000001
++P8 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BCA42 0000F7FE
+$104798C4 00000028
++Infinite Time To Choose Your Play
+%Credits: Code Master
+$104798C4 00000028
++Start On 2Nd Quarter
+%Credits: Code Master
+$D04798D2 00000000
+$104798D2 00000001
++Start On 3Rd Quarter
+%Credits: Code Master
+$D04798D2 00000000
+$104798D2 00000002
++Start On 4Th Quarter
+%Credits: Code Master
+$D04798D2 00000000
+$104798D2 00000003
++Always 1St Down
+%Credits: Code Master
+$104798D0 00000001
++Always 4Th Down
+%Credits: Code Master
+$104798D0 00000004
++Always Start On 2Nd Down
+%Credits: Code Master
+$D04798D0 00000001
+$104798D0 00000002
++Always Start On 3Rd Down
+%Credits: Code Master
+$D04798D0 00000001
+$104798D0 00000003
++P1 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BC342 0000FEFE
+$104798D0 00000001
++P1 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BC342 0000FDFE
+$104798D0 00000004
++P2 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BC442 0000FEFE
+$104798D0 00000001
++P2 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BC442 0000FDFE
+$104798D0 00000004
++P3 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BC542 0000FEFE
+$104798D0 00000001
++P3 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BC542 0000FDFE
+$104798D0 00000004
++P4 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BC642 0000FEFE
+$104798D0 00000001
++P4 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BC642 0000FDFE
+$104798D0 00000004
++P5 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BC742 0000FEFE
+$104798D0 00000001
++P5 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BC742 0000FDFE
+$104798D0 00000004
++P6 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BC842 0000FEFE
+$104798D0 00000001
++P6 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BC842 0000FDFE
+$104798D0 00000004
++P7 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BC942 0000FEFE
+$104798D0 00000001
++P7 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BC942 0000FDFE
+$104798D0 00000004
++P8 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BCA42 0000FEFE
+$104798D0 00000001
++P8 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BCA42 0000FDFE
+$104798D0 00000004
+!!
+!Character Creation Codes:
++Infinite Creation Points
+%Credits: Code Master
+$10543C0E 000003E7
++Max 40 Yard Dash
+%Credits: Code Master
+$00543C02 00000064
++Max 60 Meter Hurdle
+%Credits: Code Master
+$00543C03 00000064
++Max Shuttle
+%Credits: Code Master
+$00543C04 00000064
++Max Vertical Jump
+%Credits: Code Master
+$00543C05 00000064
++Max Leg Squat
+%Credits: Code Master
+$00543C06 00000064
++Max Broad Jump
+%Credits: Code Master
+$00543C07 00000064
++Max Bench Press
+%Credits: Code Master
+$00543C08 00000064
++Max Out Route
+%Credits: Code Master
+$00543C09 00000064
++Max Hook Route
+%Credits: Code Master
+$00543C0A 00000064
++Max Awareness (IQ)
+%Credits: Code Master
+$00543C0B 00000064
++Max Fly Pattern
+%Credits: Code Master
+$00543C0C 00000064
++Max Post Pattern
+%Credits: Code Master
+$00543C0D 00000064
++Max All Stats
+%Credits: Code Master
+$10543C02 00006464
+$40543C04 00020001
+$64646464 00000000
+$10543C0C 00006464
+!!

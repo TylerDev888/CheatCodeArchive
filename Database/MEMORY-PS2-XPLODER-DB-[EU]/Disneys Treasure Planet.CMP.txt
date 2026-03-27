@@ -1,0 +1,327 @@
+^3 = NAME: Disneys Treasure Planet
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 002AF6FF
+!!
+!Other:
++Unlimited Lives
+%Credits: Xploder
+$002DD440 00000003
++Extra Mini Healths
+%Credits: Xploder
+$002DD442 00000064
++Everlasting Power-Ups{(R3 To Turn On, Select To Turn Off)}
+%Credits: Xploder
+$D0304AB2 0000FFFB
+$201C105C 00000000
+$D0304AB2 0000FFFE
+$201C105C E6000324
++Super Jump{(Hold X For Super Jump)}
+%Credits: Xploder
+$D0304AB2 0000BFFF
+$20294F80 3C01BB83
+$D0304AB2 0000FFFF
+$20294F80 3C01BC03
++Mega Jump{(Hold X And L3 For Mega Jump)}
+%Credits: Xploder
+$D0304AB2 0000BFFD
+$20294F80 3C01BA83
+$D0304AB2 0000FFFF
+$20294F80 3C01BC03
++Unlimited Time On Timed Levels
+%Credits: Xploder
+$20168BC8 00000000
++Unlock All Levels
+%Credits: Xploder
+$20145B0C 24A20000
+!!
+!Clifftops:
++Beacon 1
+%Credits: Xploder
+$202DB504 00000004
++Beacon 2
+%Credits: Xploder
+$202DB508 00000004
++Beacon 3
+%Credits: Xploder
+$202DB50C 00000004
++Beacon 4
+%Credits: Xploder
+$202DB510 00000004
++Beacon 5
+%Credits: Xploder
+$202DB514 00000004
+!!
+!Ore Refinery:
++Beacon 1
+%Credits: Xploder
+$202DB5A4 00000004
++Beacon 2
+%Credits: Xploder
+$202DB5A8 00000004
++Beacon 3
+%Credits: Xploder
+$202DB5AC 00000004
++Beacon 4
+%Credits: Xploder
+$202DB5B0 00000004
++Beacon 5
+%Credits: Xploder
+$202DB5B4 00000004
+!!
+!Hydro Dam:
++Beacon 1
+%Credits: Xploder
+$202DB644 00000004
++Beacon 2
+%Credits: Xploder
+$202DB648 00000004
++Beacon 3
+%Credits: Xploder
+$202DB64C 00000004
++Beacon 4
+%Credits: Xploder
+$202DB650 00000004
++Beacon 5
+%Credits: Xploder
+$202DB654 00000004
+!!
+!Loading Tower:
++Beacon 1
+%Credits: Xploder
+$202DB6E4 00000004
++Beacon 2
+%Credits: Xploder
+$202DB6E8 00000004
++Beacon 3
+%Credits: Xploder
+$202DB6EC 00000004
++Beacon 4
+%Credits: Xploder
+$202DB6F0 00000004
++Beacon 5
+%Credits: Xploder
+$202DB6F4 00000004
+!!
+!Dockside Race:
++Beacon 1
+%Credits: Xploder
+$202DB784 00000004
++Beacon 2
+%Credits: Xploder
+$202DB788 00000004
++Beacon 3
+%Credits: Xploder
+$202DB78C 00000004
++Beacon 4
+%Credits: Xploder
+$202DB790 00000004
++Beacon 5
+%Credits: Xploder
+$202DB794 00000004
+!!
+!Crescentia Nightside:
++Beacon 1
+%Credits: Xploder
+$202DB824 00000004
++Beacon 2
+%Credits: Xploder
+$202DB828 00000004
++Beacon 3
+%Credits: Xploder
+$202DB82C 00000004
++Beacon 4
+%Credits: Xploder
+$202DB830 00000004
++Beacon 5
+%Credits: Xploder
+$202DB834 00000004
+!!
+!Ferry Port:
++Beacon 1
+%Credits: Xploder
+$202DB8C4 00000004
++Beacon 2
+%Credits: Xploder
+$202DB8C8 00000004
++Beacon 3
+%Credits: Xploder
+$202DB8CC 00000004
++Beacon 4
+%Credits: Xploder
+$202DB8D0 00000004
++Beacon 5
+%Credits: Xploder
+$202DB8D4 00000004
+!!
+!Super Nova:
++Beacon 1
+%Credits: Xploder
+$202DB964 00000004
++Beacon 2
+%Credits: Xploder
+$202DB968 00000004
++Beacon 3
+%Credits: Xploder
+$202DB96C 00000004
++Beacon 4
+%Credits: Xploder
+$202DB970 00000004
++Beacon 5
+%Credits: Xploder
+$202DB974 00000004
+!!
+!Meteor Belt:
++Beacon 1
+%Credits: Xploder
+$202DBA04 00000004
++Beacon 2
+%Credits: Xploder
+$202DBA08 00000004
++Beacon 3
+%Credits: Xploder
+$202DBA0C 00000004
++Beacon 4
+%Credits: Xploder
+$202DBA10 00000004
++Beacon 5
+%Credits: Xploder
+$202DBA14 00000004
+!!
+!Arcturian Trader:
++Beacon 1
+%Credits: Xploder
+$202DBAA4 00000004
++Beacon 2
+%Credits: Xploder
+$202DBAA8 00000004
++Beacon 3
+%Credits: Xploder
+$202DBAAC 00000004
++Beacon 4
+%Credits: Xploder
+$202DBAB0 00000004
++Beacon 5
+%Credits: Xploder
+$202DBAB4 00000004
+!!
+!Jungle Floor:
++Beacon 1
+%Credits: Xploder
+$202DBBE4 00000004
++Beacon 2
+%Credits: Xploder
+$202DBBE8 00000004
++Beacon 3
+%Credits: Xploder
+$202DBBEC 00000004
++Beacon 4
+%Credits: Xploder
+$202DBBF0 00000004
++Beacon 5
+%Credits: Xploder
+$202DBBF4 00000004
+!!
+!Jungle Race:
++Beacon 1
+%Credits: Xploder
+$202DBC84 00000004
++Beacon 2
+%Credits: Xploder
+$202DBC88 00000004
++Beacon 3
+%Credits: Xploder
+$202DBC8C 00000004
++Beacon 4
+%Credits: Xploder
+$202DBC90 00000004
++Beacon 5
+%Credits: Xploder
+$202DBC94 00000004
+!!
+!Helium Swamp:
++Beacon 1
+%Credits: Xploder
+$202DBD24 00000004
++Beacon 2
+%Credits: Xploder
+$202DBD28 00000004
++Beacon 3
+%Credits: Xploder
+$202DBD2C 00000004
++Beacon 4
+%Credits: Xploder
+$202DBD30 00000004
++Beacon 5
+%Credits: Xploder
+$202DBD34 00000004
+!!
+!Gateway To Below:
++Beacon 1
+%Credits: Xploder
+$202DBDC4 00000004
++Beacon 2
+%Credits: Xploder
+$202DBDC8 00000004
++Beacon 3
+%Credits: Xploder
+$202DBDCC 00000004
++Beacon 4
+%Credits: Xploder
+$202DBDD0 00000004
++Beacon 5
+%Credits: Xploder
+$202DBDD4 00000004
+!!
+!Rapid Descent:
++Beacon 1
+%Credits: Xploder
+$202DBE64 00000004
++Beacon 2
+%Credits: Xploder
+$202DBE68 00000004
++Beacon 3
+%Credits: Xploder
+$202DBE6C 00000004
++Beacon 4
+%Credits: Xploder
+$202DBE70 00000004
++Beacon 5
+%Credits: Xploder
+$202DBE74 00000004
+!!
+!The Centroid:
++Beacon 1
+%Credits: Xploder
+$202DBF04 00000004
++Beacon 2
+%Credits: Xploder
+$202DBF08 00000004
++Beacon 3
+%Credits: Xploder
+$202DBF0C 00000004
++Beacon 4
+%Credits: Xploder
+$202DBF10 00000004
++Beacon 5
+%Credits: Xploder
+$202DBF14 00000004
+!!
+!Ancient Machines:
++Beacon 1
+%Credits: Xploder
+$202DBFA4 00000004
++Beacon 2
+%Credits: Xploder
+$202DBFA8 00000004
++Beacon 3
+%Credits: Xploder
+$202DBFAC 00000004
++Beacon 4
+%Credits: Xploder
+$202DBFB0 00000004
++Beacon 5
+%Credits: Xploder
+$202DBFB4 00000004
+!!

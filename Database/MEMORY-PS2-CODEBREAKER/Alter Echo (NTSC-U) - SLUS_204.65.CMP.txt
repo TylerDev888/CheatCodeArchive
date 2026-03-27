@@ -1,0 +1,250 @@
+^1 = HASH: 7CDC2C16
+^3 = NAME: Alter Echo
+^2 = GameID: SLUS_204.65
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00157DC7
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$90157DC4 0C0B1867
+!!
+!Codes:
++Disable FMV
+%Credits: Code Master
+$202B47D0 24020001
++Infinite Double Jumps
+%Credits: Code Master
+$20211C90 24030001
++Infinite Special Attacks{With This Code, Press Triangle In Your Alternate Form.}
+%Credits: Code Master
+$20210690 00000000
++Infinite Health
+%Credits: Code Master
+$200C0220 0806192A
+$200C0224 E44100B8
+$2011BCC0 0C030088
++Quick Plasm Gain
+%Credits: Code Master
+$1034E39C 0000FFFF
++Max Plasm
+%Credits: Code Master
+$2034E39C 05F5E0FF
+$2034E3A0 4CBEBC1F
+$203C51EC 05F5E0FF
++Buying New Abilities Cost $0
+%Credits: Code Master
+$2029D270 00000000
++Buy New Abilities With No Plasma
+%Credits: Code Master
+$1029D41E 00001000
++Load Save For Level Modifier
+%Credits: Code Master
+$203C51F4 000000??
+!!
+!Have New Ability Codes:
++Flashing Sword
+%Credits: Code Master
+$208485D4 00000002
++Razor Sword
+%Credits: Code Master
+$208485D8 00000002
++Juggle Slash
+%Credits: Code Master
+$208485DC 00000002
++Block
+%Credits: Code Master
+$208485E0 00000002
++Morph Throw
+%Credits: Code Master
+$208485E4 00000002
++Jump Attack
+%Credits: Code Master
+$208485E8 00000002
++Roll Rush
+%Credits: Code Master
+$208485EC 00000002
++Morph Push
+%Credits: Code Master
+$208485F0 00000002
++Morph Stab
+%Credits: Code Master
+$208485F4 00000002
++Stun Thrust
+%Credits: Code Master
+$208485F8 00000002
++Darting Slash
+%Credits: Code Master
+$208485FC 00000002
++Hammer Smash
+%Credits: Code Master
+$20848600 00000002
++Fatal Flurry
+%Credits: Code Master
+$20848604 00000002
++Grenade
+%Credits: Code Master
+$20848608 00000002
++Gun Smash
+%Credits: Code Master
+$2084860C 00000002
++Bullet Absorb
+%Credits: Code Master
+$20848610 00000002
++Morph Hold
+%Credits: Code Master
+$20848614 00000002
++Hold Bomb
+%Credits: Code Master
+$20848618 00000002
++Hold Rocket
+%Credits: Code Master
+$2084861C 00000002
++Energy Gun
+%Credits: Code Master
+$20848620 00000002
++GN Rapid Fire
+%Credits: Code Master
+$20848624 00000002
++GN Rocket
+%Credits: Code Master
+$20848628 00000002
++Torture Shot
+%Credits: Code Master
+$2084862C 00000002
++Boomerang
+%Credits: Code Master
+$20848630 00000002
++Morph Juggle
+%Credits: Code Master
+$20848634 00000002
++Morph Stomp
+%Credits: Code Master
+$20848638 00000002
++Slap Combo
+%Credits: Code Master
+$2084863C 00000002
++Buzzsaw
+%Credits: Code Master
+$20848640 00000002
++Tongue Grab
+%Credits: Code Master
+$20848644 00000002
++Invisibility
+%Credits: Code Master
+$20848648 00000002
++Pounce Slap
+%Credits: Code Master
+$2084864C 00000002
++Pounce
+%Credits: Code Master
+$20848650 00000002
++Morph Lunge
+%Credits: Code Master
+$20848654 00000002
++Morph Buzzsaw
+%Credits: Code Master
+$20848658 00000002
++Neck Crush
+%Credits: Code Master
+$2084865C 00000002
++Durability
+%Credits: Code Master
+$20848660 00000002
++Vitality
+%Credits: Code Master
+$20848664 00000002
++Longevity
+%Credits: Code Master
+$20848668 00000002
++Endurance
+%Credits: Code Master
+$2084866C 00000002
++Time Warp
+%Credits: Code Master
+$20848670 00000002
++Plast Sword
+%Credits: Code Master
+$20848674 00000002
++Mad Spark
+%Credits: Code Master
+$20848678 00000002
++Soulfrost
+%Credits: Code Master
+$2084867C 00000002
++Armageddon
+%Credits: Code Master
+$20848680 00000002
++Plast Bullet
+%Credits: Code Master
+$20848684 00000002
++Seeker
+%Credits: Code Master
+$20848688 00000002
++Scorcher
+%Credits: Code Master
+$2084868C 00000002
++Storm Shot
+%Credits: Code Master
+$20848690 00000002
++Gun Cycle
+%Credits: Code Master
+$20848694 00000002
++All Abilities
+%Credits: Code Master
+$408485D4 00310001
+$00000002 00000000
+!!
+^6 = MODS:
+Quantity Digits to Accompany Load Save For Level Modifier Code
+00 - Rebirth-Alive
+01 - Rebirth-Echo
+02 - Rebirth-Gunplay
+03 - Rebirth-Stealth
+04 - Rebirth-Time
+05 - Rebirth-Master
+06 - Surface-Search
+07 - Surface-Arana
+08 - Surface-Master
+09 - Hunted-Reunion
+0A - Hunted-Gunship
+0B - Hunted-Pursuit
+0C - Hunted-Showdown
+0D - Hunted-Master
+0E - Power-Transmit
+0F - Power-Kess
+10 - Power-Master
+11 - Transit-Stome
+12 - Transit-Ambush
+13 - Transit-Seedlings
+14 - Transit-Obstacles
+15 - Transit-Cooperation
+16 - Transit-Master
+17 - Spaceport-Plans 1
+18 - Spaceport-Plans 2
+19 - Spaceport-Shuttle
+1A - Brain-Plea
+1B - Brain-Underneath
+1C - Brain-Gherran
+1D - Brain-Toxic 1
+1E - Brain-Toxic 2
+1F - Brain-Kess
+20 - Brain-Master
+21 - Rescue-Arana
+22 - Rescue-Forcefield
+23 - Rescue-Sacrifice
+24 - Breach-Landing
+25 - Breach-Barriers 1
+26 - Breach-Barriers 2
+27 - Breach-Approach
+28 - Breach-Elevator
+29 - Breach-Shield 1
+2A - Breach-Shield 2
+2B - Breach-Master
+2C - Citadel-Alone
+2D - Citadel-Ascent
+2E - Citadel-Assault
+2F - Citadel-Inside
+30 - Citadel-Guardian
+31 - Citadel-Paavo
+32 - Citadel-Ending

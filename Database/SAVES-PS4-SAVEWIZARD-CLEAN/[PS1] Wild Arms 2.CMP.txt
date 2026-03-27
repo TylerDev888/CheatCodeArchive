@@ -1,0 +1,21 @@
+^2 = GameID: CUSA34855,CUSA34857,CUSA34856
+^3 = NAME: [PS1] Wild Arms 2
+^SECONDLAYER: YES
+^4 = FILE: PS1HDSNAP(([0-9\.\-]+)?)\user_snapshot__slot_[0-9]+\.bin (Quick Save:)
+{<div><h3 style="margin:0 0 8px 0;">CodeTwink PS1 → SaveWizard PS1 QC Conversion</h3><p style="margin:0 0 10px 0;color:#555;">Use these templates to convert CodeTwink-style codes into SaveWizard PS1 QC format.</p><div style="margin:0 0 12px 0;padding:10px;border:1px solid #ddd;border-radius:8px;background:#f7fbff;"><b>Where to find PS1 codes (USA):</b> You can grab PS1 (USA) codes from CodeTwink here for converting: <a href="https://codetwink.com/view-cheats-3323-title-wild+arms+2.html" target="_blank" rel="noopener">Wild Arms 2 (USA) – CodeTwink</a></div><h4 style="margin:12px 0 6px 0;">1) 8-bit Write (30-type)</h4><table style="border-collapse:collapse;width:100%;max-width:720px;"><thead><tr><th style="border:1px solid #ccc;padding:6px;text-align:left;background:#f5f5f5;">CodeTwink</th><th style="border:1px solid #ccc;padding:6px;text-align:left;background:#f5f5f5;">QC</th></tr></thead><tbody><tr><td style="border:1px solid #ccc;padding:6px;"><code>30YYYYYY 00XX</code></td><td style="border:1px solid #ccc;padding:6px;"><code>08YYYYYY 000000XX</code></td></tr></tbody></table><h4 style="margin:12px 0 6px 0;">2) 16-bit Write (80-type)</h4><table style="border-collapse:collapse;width:100%;max-width:720px;"><thead><tr><th style="border:1px solid #ccc;padding:6px;text-align:left;background:#f5f5f5;">CodeTwink</th><th style="border:1px solid #ccc;padding:6px;text-align:left;background:#f5f5f5;">QC</th></tr></thead><tbody><tr><td style="border:1px solid #ccc;padding:6px;"><code>80YYYYYY XXXX</code></td><td style="border:1px solid #ccc;padding:6px;"><code>18YYYYYY 0000XXXX</code></td></tr></tbody></table><h4 style="margin:12px 0 6px 0;">3) Multi-Write: 8-bit (5000… + 30…)</h4><p style="margin:0 0 8px 0;color:#555;">Convert the header line, then convert the following write line.</p><table style="border-collapse:collapse;width:100%;max-width:720px;"><thead><tr><th style="border:1px solid #ccc;padding:6px;text-align:left;background:#f5f5f5;">CodeTwink</th><th style="border:1px solid #ccc;padding:6px;text-align:left;background:#f5f5f5;">QC</th></tr></thead><tbody><tr><td style="border:1px solid #ccc;padding:6px;"><code>5000VVZZ WWWW</code><br><code>30YYYYYY 00XX</code></td><td style="border:1px solid #ccc;padding:6px;"><code>48YYYYYY 000000XX</code><br><code>40VV00ZZ 0000WWWW</code></td></tr></tbody></table><h4 style="margin:12px 0 6px 0;">4) Multi-Write: 16-bit (5000… + 80…)</h4><p style="margin:0 0 8px 0;color:#555;">Convert the header line, then convert the following write line.</p><table style="border-collapse:collapse;width:100%;max-width:720px;"><thead><tr><th style="border:1px solid #ccc;padding:6px;text-align:left;background:#f5f5f5;">CodeTwink</th><th style="border:1px solid #ccc;padding:6px;text-align:left;background:#f5f5f5;">QC</th></tr></thead><tbody><tr><td style="border:1px solid #ccc;padding:6px;"><code>5000VVZZ WWWW</code><br><code>80YYYYYY XXXX</code></td><td style="border:1px solid #ccc;padding:6px;"><code>49YYYYYY 0000XXXX</code><br><code>40VV00ZZ 0000WWWW</code></td></tr></tbody></table><div style="margin-top:12px;padding:10px;border:1px solid #ddd;border-radius:8px;background:#fafafa;"><b>Legend</b><ul style="margin:6px 0 0 18px;"><li><code>YYYYYY</code> = address</li><li><code>XX</code> = 8-bit value</li><li><code>XXXX</code> = 16-bit value</li><li><code>VVZZ</code> and <code>WWWW</code> = multi-write parameters from the CodeTwink header line</li></ul></div></div>}
++Example of working code 100 ps points to all charcters
+$80010009 03435055
+$0472616D 5F000000
+$92000000 00000011
+$9E000000 00200000
+$4811A795 00000064
+$4008007C 00000000
++All Items but gaps
+$80010009 03435055
+$0472616D 5F000000
+$92000000 00000011
+$9E000000 00200000
+$4911ABE8 0000FE00
+$40FF0002 00000001
+$4911ADE8 0000FEFF
+$40810002 00000001

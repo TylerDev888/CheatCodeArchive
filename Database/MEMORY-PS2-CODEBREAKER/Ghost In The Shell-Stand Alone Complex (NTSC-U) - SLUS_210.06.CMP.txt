@@ -1,0 +1,40 @@
+^1 = HASH: 95CC86EF
+^3 = NAME: Ghost In The Shell-Stand Alone Complex
+^2 = GameID: SLUS_210.06
+!Masters:
++Enable Code (Must Be On) [Read Note]
+%Credits: Code Master
+$902A38B4 0C0B1B25
+!!
+!Codes:
++Disable FMV
+%Credits: Code Master
+$202A74D8 24020001
++Infinite HP
+%Credits: Code Master
+$200C0220 8E21033C
+$200C0224 AE210338
+$200C0228 03E00008
+$200C022C AE600014
+$20145E48 0C030088
++Infinite Armor
+%Credits: Code Master
+$200C0230 8E21034C
+$200C0234 AE210348
+$200C0238 03E00008
+$200C023C AE600010
+$20145E50 0C03008C
++Infinite Ammo
+%Credits: Code Master
+$201155CC 00000000
++Extra Ammo
+%Credits: Code Master
+$201155C4 00701821
++Never Reload
+%Credits: Code Master
+$20115CB4 00000000
++Halo-Legacy Mode (Analog Sticks)
+%Credits: Code Master
+$00101E3C 00000006
+$00101E5C 00000004
+!!

@@ -1,0 +1,296 @@
+^3 = NAME: Chaos Legion (Ntsc-U)
+^2 = GameID: SLUS-20695
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F02155F4 002155F7
++(M) Must Be On
+%Credits: Codejunkies
+$F02155F4 000001FD
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0200008 002155F7
+!!
++Access All Movies
+%Credits: Code Master
+$205C1050 0000000E
++All Legions Are Available
+%Credits: Codejunkies
+$005C13E5 000000FF
++Disable FMV
+%Credits: Code Master
+$2020A310 24020001
++Have Items: Attack Up(L)
+%Credits: MadCatz
+$005C14D7 00000063
++Have Items: Attack Up(S)
+%Credits: MadCatz
+$005C14C7 00000063
++Have Items: Defense Up(L)
+%Credits: MadCatz
+$005C14D9 00000063
++Have Items: Defense Up(S)
+%Credits: MadCatz
+$005C14D8 00000063
++Have Items: Life Max Up(L)
+%Credits: MadCatz
+$005C14D5 00000063
++Have Items: Life Max Up(S)
+%Credits: MadCatz
+$005C14C5 00000063
++Have Items: Soul Max Up(L)
+%Credits: MadCatz
+$005C14D6 00000063
++Have Items: Soul Max Up(S)
+%Credits: MadCatz
+$005C14C6 00000063
++Infinite Experience
+%Credits: MadCatz
+$205C1444 3B9AC9FF
++Infinite Health
+%Credits: Codejunkies
+$105A99C4 000003E8
++Infinite Health
+%Credits: MadCatz
+$105A99C4 000005DC
+$105C143A 000005DC
++Infinite Life
+%Credits: Code Master
+$105A99C4 000003E7
++Infinite Soul
+%Credits: MadCatz
+$105C13F4 000005DC
+$105C13F6 000005DC
++Infinite Soul
+%Credits: Code Master
+$105C13F4 000003E7
++Infinite Soul
+%Credits: Codejunkies
+$105C13F4 000005DC
++Insane Moon Jump
+%Credits: Codejunkies
+$D05C6582 0000BFFF
+$205A7E74 C0600000
+!Item Codes:
++Have Arrow Crest
+%Credits: Codejunkies
+$005C14CE 00000001
++Have Attack Up (L)
+%Credits: Codejunkies
+$005C14D7 00000001
++Have Attack Up (S)
+%Credits: Codejunkies
+$005C14C7 00000001
++Have Bomb Crest
+%Credits: Codejunkies
+$005C14D2 00000001
++Have Claw Crest
+%Credits: Codejunkies
+$005C14D1 00000001
++Have Defense Up (L)
+%Credits: Codejunkies
+$005C14D9 00000001
++Have Defense Up (S)
+%Credits: Codejunkies
+$005C14D8 00000001
++Have EXP Gem (L)
+%Credits: Codejunkies
+$005C14C8 000000FF
++Have EXP Gem (M)
+%Credits: Codejunkies
+$005C14C2 000000FF
++Have EXP Gem (S)
+%Credits: Codejunkies
+$005C14C1 000000FF
++Have EXP Gem (XL)
+%Credits: Codejunkies
+$005C14CB 000000FF
++Have Life Max Up (L)
+%Credits: Codejunkies
+$005C14D5 00000001
++Have Life Max Up (S)
+%Credits: Codejunkies
+$005C14C5 00000001
++Have Life Recovery (L)
+%Credits: Codejunkies
+$005C14C9 000000FF
++Have Life Recovery (S)
+%Credits: Codejunkies
+$005C14C3 000000FF
++Have Power Crest
+%Credits: Codejunkies
+$005C14CD 00000001
++Have Shield Crest
+%Credits: Codejunkies
+$005C14D0 00000001
++Have Soul Max Up (L)
+%Credits: Codejunkies
+$005C14D6 00000001
++Have Soul Max Up (S)
+%Credits: Codejunkies
+$005C14C6 00000001
++Have Soul Recovery (L)
+%Credits: Codejunkies
+$005C14CA 000000FF
++Have Soul Recovery (S)
+%Credits: Codejunkies
+$005C14C4 000000FF
++Have Spiritual Gem
+%Credits: Codejunkies
+$005C14DB 00000001
++Have Sword Crest
+%Credits: Codejunkies
+$005C14CC 00000001
++Have Thanatos Chip
+%Credits: Codejunkies
+$005C14D3 00000001
++Have Ultimate Crest
+%Credits: Codejunkies
+$005C14D4 00000001
+!!
+!Legion Codes:
++Legion 1 Modifier
+%Credits: Code Master
+$005C13E4 00000001
+$005C13E6 000000??
++Legion 2 Modifier
+%Credits: Code Master
+$005C13E5 00000001
+$005C13E7 000000??
++Max Assist
+%Credits: Code Master
+$205C140C 22222222
++Max Enchant
+%Credits: Code Master
+$205C1408 22222222
++Max Force
+%Credits: Code Master
+$205C1410 22222222
++Max Legion Attack
+%Credits: Code Master
+$205C1400 77777777
++Max Legion Defense
+%Credits: Code Master
+$205C1404 77777777
+!!
++Max Health
+%Credits: Codejunkies
+$105C143A 000003E8
+!Max Item Codes:
++EXP Gem (L)
+%Credits: Code Master
+$005C14C8 00000063
++EXP Gem (M)
+%Credits: Code Master
+$005C14C2 00000063
++EXP Gem (S)
+%Credits: Code Master
+$005C14C1 00000063
++EXP Gem (XL)
+%Credits: Code Master
+$005C14CB 00000063
++Life Recovery (L)
+%Credits: Code Master
+$005C14C9 00000063
++Life Recovery (S)
+%Credits: Code Master
+$005C14C3 00000063
++Soul Recovery (L)
+%Credits: Code Master
+$005C14CA 00000063
++Soul Recovery (S)
+%Credits: Code Master
+$005C14C4 00000063
++Spiritual Gem
+%Credits: Code Master
+$005C14DB 00000063
++Thanatos Chip
+%Credits: Code Master
+$005C14D3 00000009
+!!
+!Max Legion Exp Codes:
++Arrogance
+%Credits: Code Master
+$205C1428 3B9AC9FF
++Blasphemy
+%Credits: Code Master
+$205C1430 3B9AC9FF
++Flawed
+%Credits: Code Master
+$205C142C 3B9AC9FF
++Guilt
+%Credits: Code Master
+$205C1418 3B9AC9FF
++Hatred
+%Credits: Code Master
+$205C141C 3B9AC9FF
++Malice
+%Credits: Code Master
+$205C1420 3B9AC9FF
++Thanatos
+%Credits: Code Master
+$205C1434 3B9AC9FF
+!!
++Max Life
+%Credits: Code Master
+$105C143A 000003E7
++Max Smash
+%Credits: Code Master
+$205C1448 0000270F
++Max Soul
+%Credits: Codejunkies
+$105C13F6 000005DC
++Max Soul
+%Credits: Code Master
+$105C13F6 000003E7
++Mega Moon Jump
+%Credits: Codejunkies
+$D05C6582 0000BFFF
+$205A7E74 BFFF0002
++Moon Jump
+%Credits: Codejunkies
+$D05C6582 0000BFFF
+$205A7E74 BFA00002
++P1 Press X For Moon Jump
+%Credits: Code Master
+$D05C6482 0000BFFF
+$205A7E74 BFC00000
+!Player Stat Codes:
++Max Attack
+%Credits: Codejunkies
+$105C143C 00005000
++Max Defense
+%Credits: Codejunkies
+$105C1440 00000000
++Max Life
+%Credits: Codejunkies
+$105C1438 000003E8
++Max Soul
+%Credits: Codejunkies
+$105C13F8 000005DC
+!!
++Player Status: Max Attack
+%Credits: MadCatz
+$005C143D 0000004E
++Player Status: Max Defense
+%Credits: MadCatz
+$005C1441 00000003
++Quick EXP Gain
+%Credits: Code Master
+$105C1444 0000FFFF
+!Stage Result Codes:
++Low Boss Clear
+%Credits: Codejunkies
+$205C146C 00000000
++Low Stage Clear
+%Credits: Codejunkies
+$205C1468 00000000
++Max Smash Count
+%Credits: Codejunkies
+$105C1478 0000270F
++Max Special Monster
+%Credits: Codejunkies
+$105C147A 0000270F
+!!
+!!
+

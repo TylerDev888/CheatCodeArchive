@@ -1,0 +1,9 @@
+^2 = GameID: BLES00553
+^3 = NAME: Leisure Suit Larry: Box Office Bust
+^4 = FILE: PAYLOAD
++Update Crc32big (required)
+(set range:0x000008,0x006523)
+$set pointer:eof+1
+$set range:0x000008,pointer
+$set [hash]:CRC32Big
+$write at 0x000004:[hash]

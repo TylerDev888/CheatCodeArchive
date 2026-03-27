@@ -1,0 +1,69 @@
+^3 = NAME: Freedom Fighters
+^2 = GameID: SLUS_207.23
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00103D8F
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$90103D8C 0C043D84
++Blind Mode On (Invisible To Enemies)
+%Credits: Code Master
+$2053DBB8 3F800000
++God Mode On (Infinite Health)
+%Credits: Code Master
+$205403F8 3F800000
++Infinite Ammo
+%Credits: Code Master
+$202F11A4 00000000
++Extra Ammo
+%Credits: Code Master
+$202EDD4C 02903021
++Never Reload{With This Code, When You Run Out Of Bullets In Your Clip, Simply Let Go Of R1 & Press It Again.}
+%Credits: Code Master
+$2030415C 00000000
+!!
+!Activate In-Game Cheat Codes [Note 2]:
++P1 Press L1+Up To Have Items+Rifle
+%Credits: Code Master
+$D04C3D82 0000FBEF
+$20190654 00000000
+$D04C3D82 0010FBEF
+$20190654 10400016
++P1 Press L1+Right To Have Items+Sniper
+%Credits: Code Master
+$D04C3D82 0000FBDF
+$201906CC 00000000
+$D04C3D82 0010FBDF
+$201906CC 10400016
++P1 Press L1+Down To Have Items+Hgun
+%Credits: Code Master
+$D04C3D82 0000FBBF
+$20190744 00000000
+$D04C3D82 0010FBBF
+$20190744 10400016
++P1 Press L1+Left To Have Items+Rocket
+%Credits: Code Master
+$D04C3D82 0000FB7F
+$201907BC 00000000
+$D04C3D82 0010FB7F
+$201907BC 10400016
++P1 Press L1+L3 To Have Items+Shotgun
+%Credits: Code Master
+$D04C3D82 0000FBFD
+$20190834 00000000
+$D04C3D82 0010FBFD
+$20190834 10400016
++P1 Press L2+Up For Infinite Ammo
+%Credits: Code Master
+$D04C3D82 0000FEEF
+$20190B04 00000000
+$D04C3D82 0010FEEF
+$20190B04 10400015
++P1 Press L2+Right For Full Charisma
+%Credits: Code Master
+$D04C3D82 0000FEDF
+$20190B78 00000000
+$D04C3D82 0010FEDF
+$20190B78 10400015
+!!

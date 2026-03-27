@@ -1,0 +1,1236 @@
+^2 = GameID: CUSA32132
+^3 = NAME: Like a Dragon  Infinite Wealth
+^SECONDLAYER: NO
+^4 = FILE: data.sav
++Add Item Carry
+$search 0x22706C61796572223A
+$search next 0x2263617272795F6974656D22
+$search next 0x226D5F6C69737422
+$Insert Next A: "{".ver":1,"m_count":[Amount:99999999:UTF08:TXT],"m_item_id":{"puid":[ID]}},"
++Add Item Box
+$search 0x22706C61796572223A
+$search next 0x22626F785F4974656D22
+$search next 0x226D5F6C69737422
+$Insert Next A: "{".ver":1,"m_count":[Amount:99999999:UTF08:TXT],"m_item_id":{"puid":[ID]}},"
++Add Equip Carry
+$search 0x226D5F65717569705F73746F636B22
+$search next 0x22626F785F4974656D22
+$search next 0x226D5F6C69737422
+$Insert Next A: 7B222E766572223A332C2262223A66616C73652C2269223A[EQUIP]2C226D5F657870223A302C226D5F6C6576656C223A35302C226D5F736B696C6C5F6C697374223A5B7B2270756964223A307D2C7B2270756964223A307D2C7B2270756964223A307D5D2C2270223A307D2C
++Add Equip Box
+$search 0x226D5F65717569705F73746F636B22
+$search next 0x22626F785F4974656D22
+$search next 0x226D5F6C69737422:2
+$Insert Next A: 7B222E766572223A332C2262223A66616C73652C2269223A[EQUIP]2C226D5F657870223A302C226D5F6C6576656C223A35302C226D5F736B696C6C5F6C697374223A5B7B2270756964223A307D2C7B2270756964223A307D2C7B2270756964223A307D5D2C2270223A307D2C
+^6 = MODS:
+[ID]
+VALUE>ITEM>Type
+1163	Salmon Onigiri	Recovery Items
+1164	Seaweed Onigiri	Recovery Items
+1165	Tuna Onigiri	Recovery Items
+1166	Lettuce Sandwich	Recovery Items
+1167	Tuna And Egg Sandwich	Recovery Items
+1168	Club Sandwich	Recovery Items
+1169	Bento Lunch	Recovery Items
+1170	Chicken Karaage Bento	Recovery Items
+1171	Pork Tonkatsu Bento	Recovery Items
+1172	Luxury Yakiniku Bento	Recovery Items
+1173	Premium Sushi Set	Recovery Items
+1174	Imuraya Steamed Bun	Recovery Items
+1175	Imuraya Bean Paste Bun	Recovery Items
+1176	Imuraya Pizza Bun	Recovery Items
+1177	Imuraya Golden Steamed Bun	Recovery Items
+1178	Imuraya Yokan	Recovery Items
+1179	Imuraya Castella	Recovery Items
+1180	Nozaki's Corned Beef	Recovery Items
+1181	Pineapple Candy	Recovery Items
+1182	Gigo Taiyaki	Recovery Items
+1183	Orangamachi Natto	Recovery Items
+1184	Chinese Steamed Bun	Recovery Items
+1186	High End Kimichi	Recovery Items
+1187	Cup Sake	Recovery Items
+1188	Bottled Sake	Recovery Items
+1191	Ichiban Senbei (shoyu)	Recovery Items
+1192	Ichiban Senbei (salt)	Recovery Items
+1193	Ichiban Fried Senbei	Recovery Items
+1194	Toughness Light	Recovery Items
+1195	Toughness Z	Recovery Items
+1196	Toughness Zz	Recovery Items
+1197	Toughness Infinity	Recovery Items
+1198	Tauriner	Recovery Items
+1199	Tauriner +	Recovery Items
+1200	Tauriner ++	Recovery Items
+1201	Tauriner Maximum	Recovery Items
+1202	Staminan Light	Recovery Items
+1203	Staminan X	Recovery Items
+1204	Staminan Xx	Recovery Items
+1205	Staminan Royale	Recovery Items
+1206	Staminan Spark	Recovery Items
+1207	Half Eaten Bento	Recovery Items
+1208	Half Empty Drink	Recovery Items
+1209	Dumpster Bento	Recovery Items
+1210	Soup Kitchen Special	Recovery Items
+1211	Soft Serve Ice Cream	Recovery Items
+1212	Karaage Bucket	Recovery Items
+1213	Potato Wedges	Recovery Items
+1214	Frankfurter	Recovery Items
+1215	Super Spicy Frankfurter	Recovery Items
+1216	Fluffy Croquette	Recovery Items
+1217	Almond Jelly	Recovery Items
+1218	Mango Pudding	Recovery Items
+1219	Handmade Meat Bun	Recovery Items
+1220	Ultimate Pork Bun	Recovery Items
+1221	Bean Paste Bun	Recovery Items
+1222	Fancy Shark Fin Bun	Recovery Items
+1223	Chinese Sticky Rice	Recovery Items
+1224	Roasted Chestnuts	Recovery Items
+1225	Plain Cookie	Recovery Items
+1226	Egg	Recovery Items
+1227	Jumbo Egg	Recovery Items
+1243	Supreme Herb	Recovery Items
+1244	Mysterious Fruit	Recovery Items
+1245	Premium Boss	Recovery Items
+1246	Boss Light Sugar	Recovery Items
+1247	Suntory Oolong Tea	Recovery Items
+1248	Suntory Grean Tea Lyemon	Recovery Items
+1249	Suntory Sesame Barley Tea	Recovery Items
+1250	Pepsi Nama	Recovery Items
+1251	C.C. Lemon	Recovery Items
+1252	Mountain Dew	Recovery Items
+1253	Natchan Orange	Recovery Items
+1254	Natchan Apple	Recovery Items
+1255	Suntory Mineral Water	Recovery Items
+1256	Suntory Sparkling Lemon	Recovery Items
+1257	Vitamin Water	Recovery Items
+1258	Zone	Recovery Items
+1259	Pork Kimchi Cup Ramen	Recovery Items
+1260	Yakisoba Mochichi	Recovery Items
+1261	Instant Wakame Ramen	Recovery Items
+1262	Instant Wonton Noodles	Recovery Items
+1263	Instant Sichuan Noodles	Recovery Items
+1264	Burn Ointment	Status Items
+1265	Cold Medicine	Status Items
+1266	Paralytics Poultice	Status Items
+1267	Holistic Detoxers	Status Items
+1268	Astringent Gauze	Status Items
+1269	Turmeric Tablets	Status Items
+1270	Mental Supplements	Status Items
+1271	All Purpose Remedy	Status Items
+1272	Restorative Medicine	Status Items
+1273	Comforting Medicine	Status Items
+1274	Miraculous Medicine	Status Items
+1275	First Aid Kit	Status Items
+1276	Premium First Aid Kit	Status Items
+1277	Restorative Bolus	Status Items
+1278	Revial Bolus	Status Items
+1279	Resurrection Bolus	Status Items
+1280	Poseidon Power	Status Items
+1281	Apple Defence	Status Items
+1282	Peach Step	Status Items
+1283	Muscle Soda	Status Items
+1284	Guardian Water	Status Items
+1285	Quickness Lemon	Status Items
+1286	Sengoku Coffee	Status Items
+1287	Kiwami Drink	Status Items
+1288	Legendary First Aid Kit	Status Items
+1289	Rocket Launcher	Battle Items
+1290	Modified Rocket Launcher	Battle Items
+1291	Ultra Rocket Launcher	Battle Items
+1292	Incendiary Grenade	Battle Items
+1293	Modified Incendiary Grenade	Battle Items
+1294	Ultra Incendiary Grenade	Battle Items
+1295	Liquid Nitrogen Spray	Battle Items
+1296	Modified Liquid Nitrogen Spray	Battle Items
+1297	Ultra Liquid Nitrogen Spray	Battle Items
+1298	Flashbang	Battle Items
+1299	Modified Flashbang	Battle Items
+1300	Ultra Flashbang	Battle Items
+1301	Intoxication Bomb	Battle Items
+1302	Soporific Bomb	Battle Items
+1303	Hallucinogenic Bomb	Battle Items
+1304	Infatuation Bomb	Battle Items
+1305	Fulminous Bomb	Battle Items
+1306	Irritant Bomb	Battle Items
+1307	Suffocation Bomb	Battle Items
+1308	Smoke Bomb	Battle Items
+1309	Baseball	Battle Items
+1310	Volleyball	Battle Items
+1311	Basketball	Battle Items
+1312	Electric Fragments	Materials
+1314	Electric Geode	Materials
+1316	Electric Crystal	Materials
+1317	Lava Fragments	Materials
+1319	Lava Geode	Materials
+1321	Lava Crystal	Materials
+1322	Ice Fragments	Materials
+1324	Ice Geode	Materials
+1326	Ice Crystal	Materials
+1327	Rainbow Fragments	Materials
+1329	Rainbow Geode	Materials
+1331	Rainbow Crystal	Materials
+1332	Iron Fragments	Materials
+1333	Iron Chunk	Materials
+1334	Iron Ore	Materials
+1335	Pure Steel	Materials
+1336	Lustrous Steel	Materials
+1337	Empty Cough Drop Tin	Materials
+1338	Kao Attack Zero	Materials
+1339	Cemedine Super X	Materials
+1342	Beautiful Seashell	Materials
+1343	Ethereal Egesta	Materials
+1344	Cemedine Super X Gold	Materials
+1345	Cemedine Super X Hyperwire	Materials
+1346	Shark Fin	Materials
+1347	Squid Tentacles	Materials
+1357	Health Booster	Growth Items
+1358	Mood Booster	Growth Items
+1359	Muscle Booster	Growth Items
+1360	Guts Booster	Growth Items
+1361	Brain Booster	Growth Items
+1363	Reflex Booster	Growth Items
+1365	Ultra Booster	Growth Items
+1366	Level Booster	Growth Items
+1388	Safe Key	Etc.
+1393	Pansy Bouquet	Etc.
+1394	Lily Bouquet	Etc.
+1395	Rose Bouquet	Etc.
+1397	Paper Plate	Etc.
+1398	Iron Plate	Etc.
+1399	Bronze Plate	Etc.
+1400	Silver Plate	Etc.
+1401	Gold Plate	Etc.
+1402	Platinum Plate	Etc.
+1403	Dirty Can	Etc.
+1404	Pocket Tissues	Etc.
+1405	Italian Ring	Etc.
+1406	Swiss Watch	Etc.
+1407	Worn Out Tv	Etc.
+1408	Worn Out Microwave	Etc.
+1409	Aiai	Etc.
+1410	Gongon	Etc.
+1411	Meemee	Etc.
+1412	Baby	Etc.
+1413	Bun-Chan The Java Sparrow (white)	Etc.
+1414	Bun-Chan The Java Sparrow (pink)	Etc.
+1415	Jumbo Bun-Chan	Etc.
+1416	Kitty Kat (red)	Etc.
+1417	Kitty Kat (tiger)	Etc.
+1418	Kitty Kat (blue)	Etc.
+1419	Kitty Kat (American Short Hair)	Etc.
+1420	Kitty Kat (calico)	Etc.
+1421	Robo Chief	Etc.
+1422	Robo Manager	Etc.
+1423	Pillow Pup (golden Retriever)	Etc.
+1424	Pillow Pup (French Bulldog)	Etc.
+1425	Cuddly Cub (brown)	Etc.
+1426	Cuddly Cub (blue)	Etc.
+1427	Cuddly Cub (red)	Etc.
+1428	Cuddly Cub (green)	Etc.
+1429	Cuddly Cub (black)	Etc.
+1430	Pengster (green)	Etc.
+1431	Pengster (blue)	Etc.
+1432	Pengster (red)	Etc.
+1433	Pengster (yellow)	Etc.
+1434	Pengster (black)	Etc.
+1435	Oinklet (yellow)	Etc.
+1436	Oinklet (blue)	Etc.
+1437	Oinklet (red)	Etc.
+1438	Oinklet (green)	Etc.
+1439	Oinklet (black)	Etc.
+1542	Ultimate Sujimunch	Sujimon
+1543	Extreme Sujimunch	Sujimon
+1544	Hyper Sujimunch	Sujimon
+1545	Super Sujimunch	Sujimon
+1546	Sujimunch	Sujimon
+1547	Common Suji Gift	Sujimon
+1548	Super Suji Gift	Sujimon
+1549	Hyper Suji Gift	Sujimon
+1550	Master Suji Gift	Sujimon
+1551	Blazing Sujimon Box	Sujimon
+1552	Frosty Sujimon Box	Sujimon
+1553	Natural Sujimon Box	Sujimon
+1554	Shining Sujimon Box	Sujimon
+1555	Ominous Sujimon Box	Sujimon
+1556	Hotel Badge	Sujimon
+1557	Resort Badge	Sujimon
+1558	Dojo Badge	Sujimon
+1559	Underground Badge	Sujimon
+1560	Stadium Badge	Sujimon
+1561	Sujimon Gacha Ticket	Sujimon
+1562	Japanese Master Ticket	Sujimon
+1564	Warrior's Musk	Sujimon
+1565	Legendary Warrior's Musk	Sujimon
+1566	Dropped Item	Etc.
+1577	Sujimon Box	Sujimon
+1581	Bad Fortune	Etc.
+1582	Modest Fortune	Etc.
+1583	Good Fortune	Etc.
+1584	Best Fortune	Etc.
+1601	Imuraya Curry Bun	Recovery Items
+1602	Azuki Ice Cream (box)	Recovery Items
+1603	Azuki Ice Cream (single)	Recovery Items
+1604	Taiyaki Ice Cream	Recovery Items
+1605	Original Musubi	Recovery Items
+1606	3 Pack Croissant Sandwich	Recovery Items
+1607	Pinewheel Wrap	Recovery Items
+1610	Aloha Aina Hot Coffee	Recovery Items
+1620	Aloha Blonde	Recovery Items
+1623	Ichiban Special	Recovery Items
+1624	Rainbow	Recovery Items
+1625	Matsumoto's	Recovery Items
+1626	Hawaiian	Recovery Items
+1627	Tropical	Recovery Items
+1628	Charcuterie Quiche	Recovery Items
+1629	Kona Hawaiian Coffee	Recovery Items
+1630	Seafood Bisque	Recovery Items
+1631	Ham & Egg Sandwich	Recovery Items
+1632	Himalayan Salt Potato Chips	Recovery Items
+1633	Black Truffle Potato Chips	Recovery Items
+1635	Tuna Salad Sandwich	Recovery Items
+1636	Roast Beef Sandwich	Recovery Items
+1637	Mineral Water	Recovery Items
+1638	Iced Tea	Recovery Items
+1639	Fruit Juice	Recovery Items
+1640	Cola	Recovery Items
+1641	Zero Calorie Cola	Recovery Items
+1642	Soda Water	Recovery Items
+1643	Hawaiian Pale Ale	Recovery Items
+1644	Hawaiian Lager	Recovery Items
+1645	Hawaiian Pilsner	Recovery Items
+1646	Hot Dog	Recovery Items
+1647	Chilli Dog	Recovery Items
+1648	French Fries	Recovery Items
+1649	Iced Coffee	Recovery Items
+1650	Cafe Latte	Recovery Items
+1651	Hot Coffee	Recovery Items
+1652	Deluxe Hot Coffee	Recovery Items
+1653	Deluxe Iced Coffee	Recovery Items
+1654	Naan	Recovery Items
+1655	Coconut Chicken Curry	Recovery Items
+1656	Spinach Curry	Recovery Items
+1657	Spicy Mutton Curry	Recovery Items
+1658	Lassi	Recovery Items
+1659	Cheese Pizza	Recovery Items
+1660	Pepperoni Pizza	Recovery Items
+1661	Hawaiian Pizza	Recovery Items
+1662	Hawaiian Pizza (whole)	Recovery Items
+1663	Strawberry Shave Ice	Recovery Items
+1664	Mango Shave Ice	Recovery Items
+1665	Blue Hawaiian Shave Ice	Recovery Items
+1668	Beef Plate Lunch	Recovery Items
+1669	Salmon Plate Lunch	Recovery Items
+1670	Vegetarian Plate Lunch	Recovery Items
+1671	Ultra Steak Plate Lunch	Recovery Items
+1672	Boba Milk Tea	Recovery Items
+1673	Brown Sugar Milk Tea	Recovery Items
+1674	Coconut Milk Tea	Recovery Items
+1675	Match Milk Tea	Recovery Items
+1676	Mochi Rice Cake	Recovery Items
+1677	Corn Bun	Recovery Items
+1678	Fried Dough Twist	Recovery Items
+1679	Black Sesame Soup	Recovery Items
+1680	Raisin Sponge Cake	Recovery Items
+1681	California Roll	Recovery Items
+1682	Spider Roll	Recovery Items
+1683	Spicy Fried Tofu	Recovery Items
+1684	Nourishing Sushi Set	Recovery Items
+1685	Special Taco	Recovery Items
+1686	Rainbow Bagel	Recovery Items
+1687	Chocolate Ice Cream	Recovery Items
+1688	Chocolate Mint Ice Cream	Recovery Items
+1689	Original Acai Bowl	Recovery Items
+1690	Tropical Acai Bowl	Recovery Items
+1691	Strawberry Crepe	Recovery Items
+1692	Chocolate Banana Crepe	Recovery Items
+1693	Fancy Coffee (kopi Luwark)	Recovery Items
+1694	Fancy Coffee (black Ivory)	Recovery Items
+1695	Fancy Sake (rainbow Bridge)	Recovery Items
+1696	High End Assorted Chocolates	Recovery Items
+1697	Smile Burger	Recovery Items
+1698	Teriyaki Smile Burger	Recovery Items
+1699	Smile Fries	Recovery Items
+1700	Smile Shake	Recovery Items
+1701	Smile Salad	Recovery Items
+1702	Divine Water	Recovery Items
+1703	Banana	Recovery Items
+1704	Pineapple	Recovery Items
+1705	Watermelon	Recovery Items
+1708	Hand Mixed Fruit Cup	Recovery Items
+1709	Hand Mixed Fruit Bowl	Recovery Items
+1710	Hand Mixed Fruit Platter	Recovery Items
+1711	Lemonade	Recovery Items
+1712	Coconut Water	Recovery Items
+1713	Employee Meal	Recovery Items
+1714	Cognitive Enhancers	Growth Items
+1715	Stimulant Drink	Growth Items
+1716	Calming Tea	Growth Items
+1717	Bravery Tablet	Growth Items
+1718	Eye Drops	Growth Items
+1719	Anger Management Pipe	Growth Items
+1720	Throat Solvent	Growth Items
+1721	Spirit Booster	Growth Items
+1722	Bbq Potato Chips	Recovery Items
+1723	Mango	Recovery Items
+1724	Passion Fruit	Recovery Items
+1725	Passion Man	Growth Items
+1726	Iron Mentality	Growth Items
+1727	Heartful Golem	Growth Items
+1728	Captain Disco Night	Growth Items
+1729	Professor Mutant	Growth Items
+1730	Colorful Panther	Growth Items
+1731	Six Habits To Improve Your Personality	Growth Items
+1732	Land Of The Freelancer	Growth Items
+1733	The Hero's Sojourn	Growth Items
+1734	Surviving The Streets	Growth Items
+1735	Sleuthing Made Simple	Growth Items
+1736	The Amateur Professional	Growth Items
+1737	Understanding The Underworld	Growth Items
+1738	Cocktail Connoisseur	Growth Items
+1739	The Art Of Entertaining	Growth Items
+1740	Breakin' And Boppin'	Growth Items
+1741	From Stage To Stardom	Growth Items
+1742	The Epicurean's Epithet	Growth Items
+1743	Fifty Shades Of Slay	Growth Items
+1744	Develop Your Inner Dragon	Growth Items
+1745	Embracing Elitism	Growth Items
+1746	Driver's Ed Demystified	Growth Items
+1747	Without A Trace	Growth Items
+1748	The Book Of Five Strings	Growth Items
+1749	Know Your Shinobi	Growth Items
+1750	You've Got It, Maid	Growth Items
+1751	One With Mother Nature	Growth Items
+1752	Jeet Kune Do's And Don't	Growth Items
+1753	Bodaciouse Boarding	Growth Items
+1754	Guidebook For The Gridiron	Growth Items
+1755	Leaning To Lob Again	Growth Items
+1756	The Good, The Bad, And The Bumbling	Growth Items
+1757	Pyro Dance With Me	Growth Items
+1758	2ba Mancer	Growth Items
+1759	Plumeria Bouquet	Etc.
+1760	Hibiscus Bouquet	Etc.
+1761	Coffee Assortment	Etc.
+1762	Hawaiian Cosmetic	Etc.
+1763	Postcard Assortment	Etc.
+1764	Dim Sum Assortment	Etc.
+1765	Beautiful Painting	Etc.
+1766	Tobacco Assortment	Etc.
+1767	Abc Store Gift Set	Etc.
+1768	Alohabeer Gift Set	Etc.
+1769	Matsumoto Shave Ice Gift Set	Etc.
+1770	Dean & Deluca Gift Set	Etc.
+1771	88 Tees Gift Set	Etc.
+1772	Hilo Hattie Gift Set	Etc.
+1773	Aloha Kitty Kat (tabby)	Etc.
+1774	Aloha Kitty Kat (blue)	Etc.
+1775	Aloha Kitty Kat (American Short Hair)	Etc.
+1776	Aloha Kitty Kat (calico)	Etc.
+1777	Aloha Kitty Kat (red)	Etc.
+1778	Aloha Pengster (green)	Etc.
+1779	Aloha Pengster (blue)	Etc.
+1780	Aloha Pengster (red)	Etc.
+1781	Aloha Pengster (yellow)	Etc.
+1782	Aloha Pengster (black)	Etc.
+1836	Coconut	Recovery Items
+1837	Natural Herb	Recovery Items
+1838	Superior Herb	Recovery Items
+1839	Rejuvenation Bolus	Recovery Items
+1841	Mouldy Burger	Recovery Items
+1843	Plastic Bottle	Etc.
+1844	Faded Pink Book	Etc.
+1845	Suspicious Medicine Bottle	Etc.
+1846	Scalp D	Growth Items
+1847	Mini More Perfume	Growth Items
+1875	Ah Poke Bowl	Recovery Items
+1876	Bright Yellow Sweets	Recovery Items
+1877	Tony's Lemonade	Recovery Items
+1878	Signed Golem T-Shirt	Etc.
+1879	Jewelled Shell	Etc.
+1888	Book Of Secrets: Soul	Growth Items
+1889	Book Of Secrets: Tech	Growth Items
+1890	Book Of Secrets: Body	Growth Items
+1891	Dog Food	Etc.
+1892	Cat Food	Etc.
+1893	Bird Food	Etc.
+1894	Ono Michio Figure	Etc.
+1895	Alo-Happy Figure	Etc.
+1896	Robo Michio Figure	Etc.
+1897	Kamulop Figure (standard Edition)	Etc.
+1898	Kamulop Figure (shrine Edition)	Etc.
+1899	Golem Tiger	Etc.
+1900	Devil Killer	Etc.
+1901	Dra-Gon	Etc.
+1902	Yuki's Special Chirachi Sushi	Recovery Items
+1903	Warrior Figure	Etc.
+1904	Memento Vase	Etc.
+1905	Red Daruma	Etc.
+1908	Simple Wristwatch	Etc.
+1911	Blazing Master Ticket	Sujimon
+1912	Frosty Master Ticket	Sujimon
+1913	Natural Master Ticket	Sujimon
+1914	Ominous Master Ticket	Sujimon
+1915	Shining Master Ticket	Sujimon
+1938	Master Vacation Pack	Etc.
+1942	Hiker's Dream	Recovery Items
+1943	Hop Lei Ipa	Recovery Items
+2060	Fresh Milk	Recovery Items
+2065	Seaweed	Recovery Items
+2067	Frozen Fish	Recovery Items
+2070	Complimentary Tea	Recovery Items
+2071	Culinary Tea	Recovery Items
+2072	Ceremonial Tea	Recovery Items
+2073	Fresh Seafood Soup	Recovery Items
+2074	Fresh Seafood Hot Pot	Recovery Items
+2078	Earthworm	Etc.
+2079	Cigarette Butt	Etc.
+2080	Stinky Towel	Etc.
+2081	Junk	Etc.
+2102	Wild Caught Sashimi	Recovery Items
+2103	Wild Caught Fried Shrimp	Recovery Items
+2104	Mysterious Seaweed	Recovery Items
+2105	Fresh Paella	Recovery Items
+2106	Bountiful Paella	Recovery Items
+2107	Free Magazine	Growth Items
+2108	Fancy Free Magazine	Growth Items
+2109	Hero's Booster Pack	Etc.
+2110	Special Job Set	Etc.
+2127	Legendary Booster Pack	Etc.
+2128	Gearworks Crafting Set (small)	Etc.
+2129	Gearworks Crafting Set (medium)	Etc.
+2130	Gearworks Crafting Set (large)	Etc.
+2131	Self Improvement Booster Set (small)	Etc.
+2132	Self Improvement Booster Set (medium)	Etc.
+2133	Self Improvement Booster Set (large)	Etc.
+2134	Job Levelling Set (small)	Etc.
+2135	Job Levelling Set (medium)	Etc.
+2136	Job Levelling Set (large)	Etc.
+2137	Levelling Set (small)	Etc.
+2138	Levelling Set (medium)	Etc.
+2139	Levelling Set (large)	Etc.
+2140	Levelling Set (extra Large)	Etc.
+2141	Assorted Outfit Bundle	Etc.
+2142	Sujimon & Resort Bundle	Etc.
+2143	Yakuza Cd Collection Set	Etc.
+2144	For Patch 1.01	Etc.
+2145	For Patch 1.02	Etc.
+2146	For Patch 1.03	Etc.
+2147	For Patch 1.04	Etc.
+2148	For Patch 1.05	Etc.
+2149	For Patch 1.06	Etc.
+2150	For Patch 1.07	Etc.
+2170	Ultra Booster (Single-Use Special)1	Growth Items
+2241	Assorted Outfit Bundle	Etc.
+2242	Special Outfits Set	Etc.
+2243	Master Vacation Swimsuit Set	Etc.
+2244	Dondoko Island Invites Set: Hero's Party	Etc.
+2245	Sujimon Recruit Set: Hero's Party	Etc.
+2246	Master Vacation Special Items Set	Etc.
+2247	Master Vacation Special Cd Set	Etc.
+2248	Hero's Party Legacy Costume Set	Etc.
+2249	Ichiban Kasuga Outfit Set	Etc.
+2250	Kazuma Kiryu Outfit Set	Etc.
+2251	Mascot Heads Set	Etc.
+2252	Japanese Festival Swimsuit Set	Etc.
+2253	Japanese Cuisine Swimsuit Set	Etc.
+2254	Legendary Sujimon Set	Etc.
+2255	Sujimon Raising Set	Etc.
+2256	Legendary Guests Set	Etc.
+2257	Dondoko Island Booster Set	Etc.
+2260	Master Vacation Special Content	Etc.
+2343	Ultra Booster (single Use Special)2	Growth Items
+2344	Ultra Booster (single Use Special)3	Growth Items
+2345	Ultra Booster (single Use Special)5	Growth Items
+2347	Ultra Booster (single Use Special)1	Growth Items
+2348	Ultra Booster (single Use Special)1	Growth Items
+2351	Passion Man (single Use Special)	Growth Items
+2354	Iron Mentality (single Use Special)	Growth Items
+2357	Heartful Golem (Single-Use Special)	Growth Items
+2360	Captain Disco Night (Single-Use Special)	Growth Items
+2363	Professor Mutant (Single-Use Special)	Growth Items
+2366	Colorful Panther (Single-Use Special)	Growth Items
+2427	Gearworks Crafting Set (small)	Etc.
+2428	Levelling Set (small)	Etc.
+2429	Self Improvement Booster Set (small)	Etc.
+2430	Job Levelling Set (small)	Etc.
+2431	Job Levelling Set (medium)	Etc.
+2432	Levelling Set (small)	Etc.
+2433	Health Booster (Single-Use Special)	Growth Items
+2435	Mood Booster (Single-Use Special)	Growth Items
+2437	Muscle Booster (Single-Use Special)	Growth Items
+2439	Gut Booster (Single-Use Special)	Growth Items
+2441	Brain Booster (Single-Use Special)	Growth Items
+2443	Spirit Booster (Single-Use Special)	Growth Items
+2445	Reflex Booster (Single-Use Special)	Growth Items
+2447	Ultra Booster (single Use Special)	Growth Items
+2448	Ultra Booster (single Use Special)	Growth Items
+2449	Level Booster (Single-Use Special)	Growth Items
+2457	Land of the Freelancer (Single-Use Special)	Growth Items
+[/ID]
+[EQUIP]
+VALUE>ITEM>Type
+31	Running Cap	Gear:Head
+32	Cycling Cap	Gear:Head
+33	Surfing Cap	Gear:Head
+34	Half Helmet	Gear:Head
+35	Experts Helmet	Gear:Head
+36	Tactical Helmet	Gear:Head
+37	Suppression Helmet	Gear:Head
+38	Knight Helmet	Gear:Head
+39	Felt Hat	Gear:Head
+3130	Straw Hat	Gear:Head
+3131	Hawaiian Hat	Gear:Head
+3132	Soft Hat	Gear:Head
+3133	Island Hat	Gear:Head
+3134	Crimson Hat	Gear:Head
+3135	Feather Lei Hat	Gear:Head
+3136	Wizard Hat	Gear:Head
+3137	Pirate Hat	Gear:Head
+3138	Madams Visor	Gear:Head
+3139	Floral Tiara	Gear:Head
+3230	Kitty Ear Headband	Gear:Head
+3231	Ribbon Straw Hat	Gear:Head
+3232	Wedding Tiara	Gear:Head
+3233	Running Clothes	Gear:Body
+3234	Wetsuit	Gear:Body
+3235	Cycling Clothes	Gear:Body
+3236	Life Jacket	Gear:Body
+3237	Military Armor	Gear:Body
+3238	Military Bulletproof Vest	Gear:Body
+3239	Protector	Gear:Body
+3330	Knight Armor	Gear:Body
+3331	Casual Aloha Shirt	Gear:Body
+3332	Vintage Aloha Shirt	Gear:Body
+3333	Hawaiian Jacket	Gear:Body
+3334	Embroidered Jacket	Gear:Body
+3335	Island Robe	Gear:Body
+3336	Crimson Jacket	Gear:Body
+3337	White Tuxedo	Gear:Body
+3338	Wizard Robe	Gear:Body
+3339	Paradise Bikini	Gear:Body
+3430	No. 1 Jacket	Gear:Body
+3431	Representin' Homies Top	Gear:Body
+3432	Three-Star Chef Coat	Gear:Body
+3433	Shiny Dream Dress	Gear:Body
+3434	Super Lady Bondage	Gear:Body
+3435	Armor of a Unified Nation	Gear:Body
+3436	Jonin Vest of the Iga-Ryu	Gear:Body
+3437	Home Mistress Dress	Gear:Body
+3438	Iconic Jumpsuit	Gear:Body
+3439	Poseidons Wetsuit	Gear:Body
+3530	Kaleidoscopic Padding	Gear:Body
+3531	Superslam Suit	Gear:Body
+3532	Wilderness Django Leathers	Gear:Body
+3533	Heavenly Garments	Gear:Body
+3534	Street Soul Jacket	Gear:Body
+3535	Star Ride Jacket	Gear:Body
+3536	Veteran Detectives Jacket	Gear:Body
+3537	Stellar Shadow Jacket	Gear:Body
+3538	Head Honchos Jacket	Gear:Body
+3539	Cabaret Queen Dress	Gear:Body
+3630	Prima Ballerina Dress	Gear:Body
+3631	Eternal Night Jacket	Gear:Body
+3632	True Heros Armor	Gear:Body
+3633	True Dragons Suit	Gear:Body
+3634	Hellish Cape	Gear:Body
+3635	Protective Wear	Gear:Body
+3636	Aloha Bikini	Gear:Body
+3637	Cheongsam	Gear:Body
+3638	Pirate Coat	Gear:Body
+3639	Summer Dress	Gear:Body
+3730	Madams Fur	Gear:Body
+3731	Wedding Dress	Gear:Body
+3732	Running Shoes	Gear:Legs
+3733	Cycling Shoes	Gear:Legs
+3734	Surfing Shoes	Gear:Legs
+3735	Wind Sneakers	Gear:Legs
+3736	Safety Shoes	Gear:Legs
+3737	Survival Boots	Gear:Legs
+3738	Tactical Boots	Gear:Legs
+3739	Knight Greaves	Gear:Legs
+3830	Beach Sandals	Gear:Legs
+3831	Hawaiian Sandals	Gear:Legs
+3832	Gore Boots	Gear:Legs
+3833	Island Shoes	Gear:Legs
+3834	Leather Shoes	Gear:Legs
+3835	Pointed Toes	Gear:Legs
+3836	Mystic Shoes	Gear:Legs
+3837	Wizard Boots	Gear:Legs
+3838	Iron Geta	Gear:Legs
+3839	Wedge Sole Sandals	Gear:Legs
+3930	Madams Footwear	Gear:Legs
+3931	Rain Boots	Gear:Legs
+3932	Lolita Shoes	Gear:Legs
+3933	Pirate Boots	Gear:Legs
+3934	Wedding Shoes	Gear:Legs
+3935	Binding	Accessories
+3936	Fighters Binding	Accessories
+3937	Gallant Binding	Accessories
+3938	Dragons Binding	Accessories
+3939	Luxurious Belt	Accessories
+313030	Fighters Belt	Accessories
+313031	Military Belt	Accessories
+313032	Tiger Belt	Accessories
+313033	Health Ring	Accessories
+313034	Power Ring	Accessories
+313035	Superpower Ring	Accessories
+313036	Champions Ring	Accessories
+313037	Toy Bracelet	Accessories
+313038	Fluorite Bracelet	Accessories
+313039	Silver Bracelet	Accessories
+313130	Jeweled Bracelets	Accessories
+313131	Simple Earrings	Accessories
+313132	Designer Earrings	Accessories
+313133	Pearl Earrings	Accessories
+313134	Diamond Earrings	Accessories
+313135	Safety Brooch	Accessories
+313136	Metal Brooch	Accessories
+313137	Platinum Brooch	Accessories
+313138	Mithril Brooch	Accessories
+313139	Value Pack Insoles	Accessories
+313230	Athletic Insoles	Accessories
+313231	Military Insoles	Accessories
+313232	Transcendent Insoles	Accessories
+313233	Black Belt	Accessories
+313234	War Gods Keystone	Accessories
+313235	Eye of the Dragon	Accessories
+313236	Awakened Misanga	Accessories
+313237	Maximum Mittens	Accessories
+313238	Absolute Prevention Mask	Accessories
+313239	Insulated Innerwear	Accessories
+313330	Gas Mask	Accessories
+313331	Mr. Mind Cooler	Accessories
+313332	Motivational Headband	Accessories
+313333	Courage Pendant	Accessories
+313334	Hand Mirror of Reason	Accessories
+313335	Comedy Masquerade	Accessories
+313336	Poetry Unbound	Accessories
+313337	Night Vision Goggles	Accessories
+313338	Blade-Proof Plate	Accessories
+313339	Curse Substitute	Accessories
+313430	Koawood Bracelet	Accessories
+313431	Bracelet of the Four Devas	Accessories
+313432	Ankle Weights	Accessories
+313433	Yakuza Training Gear	Accessories
+313434	Dragonfish Tenugui	Accessories
+313435	Old Fountain Pen	Accessories
+313436	Vintage Notebook	Accessories
+313437	Mysterious Blush	Accessories
+313438	Dragon Gods Amulet	Accessories
+313439	Nymphs Tights	Accessories
+313530	Kaisers Change Holder	Accessories
+313531	VIP Sunglasses	Accessories
+313532	Bullet of Memory	Accessories
+313533	Worldly Cigar	Accessories
+313534	Fancy Business Card	Accessories
+313535	Def Boom Box	Accessories
+313536	Court Tongs	Accessories
+313537	Dreamy Signature	Accessories
+313538	Ecstasy Rope	Accessories
+313539	Golden Inro	Accessories
+313630	Scroll of Secrets	Accessories
+313631	Gorgeous Rubber Gloves	Accessories
+313632	Hibiscus Hair Band	Accessories
+313633	Rings of the Master	Accessories
+313634	Infrared Goggles	Accessories
+313635	Commemorative Football	Accessories
+313636	Champions Grip	Accessories
+313637	Antique Coin	Accessories
+313638	Animal Bone Necklace	Accessories
+313639	War Gods Talisman	Accessories
+313730	Sacrifice Stone	Accessories
+313731	Kiwami Mouthguard	Accessories
+313732	Brawler Gods Mouthguard	Accessories
+313735	Happy Lei	Accessories
+313736	Fairy Lei	Accessories
+313737	Fist Gods Ikaika	Accessories
+313738	Sword Gods Ikaika	Accessories
+313739	Bow Gods Ikaika	Accessories
+313830	Fire Gods Ikaika	Accessories
+313831	Water Gods Ikaika	Accessories
+313832	Lightning Gods Ikaika	Accessories
+313833	The Great Goddesss Ikaika	Accessories
+313834	Pareo of Happiness	Accessories
+313836	Gold Couples Ring	Accessories
+313837	Silver Couples Ring	Accessories
+313838	Lucky Money Charm	Accessories
+373731	Bare-Handed	Weapon
+373732	Novices Bat	Weapon
+373733	Self-Proclaimed Heros Bat	Weapon
+373734	Heros Bat	Weapon
+373735	True Legendary Heros Bat	Weapon
+373736	Rough Lumber	Weapon
+373737	Flaming Lumber	Weapon
+373738	Golf Club	Weapon
+373739	Lightning Impact	Weapon
+373830	Metal Bat	Weapon
+373831	Barbed Wire Bat	Weapon
+373832	Paddle	Weapon
+373833	Wave Paddle	Weapon
+373834	Iron Club	Weapon
+373835	Wolfs's Fang	Weapon
+373836	Superalloy Bat	Weapon
+373837	Supernova Bat	Weapon
+373738	Golf Club	Weapon
+373739	Lightning Impact	Weapon
+373830	Metal Bat	Weapon
+373831	Barbed Wire Bat	Weapon
+373832	Paddle	Weapon
+373833	Wave Paddle	Weapon
+373834	Iron Club	Weapon
+373835	Wolfs Fang	Weapon
+373836	Superalloy Bat	Weapon
+373837	Supernova Bat	Weapon
+373838	Massive Massage Machine	Weapon
+373839	Beach Parasol	Weapon
+373930	Nail Bat	Weapon
+373931	Iron Pipe	Weapon
+373932	Thundercrack Bat	Weapon
+373933	Dragon Soul Bat	Weapon
+373934	Flash Master	Weapon
+373935	Novices Wrench	Weapon
+373936	Ratchet Wrench	Weapon
+373937	Extra-Heavy Ratchet Wrench	Weapon
+373938	Wheel Wrench	Weapon
+373939	Ignition Wrench	Weapon
+383030	Primitive Wrench	Weapon
+383031	Iceberg Crusher	Weapon
+383032	Pipe Wrench	Weapon
+383033	Bloodstained Pipe Wrench	Weapon
+383034	Corner Pipe Wrench	Weapon
+383035	Spacecraft Wrench	Weapon
+383036	Hercules Wrench	Weapon
+383037	Cabbies Wrench	Weapon
+383038	Full-Drive Custom Wrench	Weapon
+383039	Tomahawk Steak	Weapon
+383130	Cheating Hand	Weapon
+383131	Novices Choker	Weapon
+383132	Ribbon Choker	Weapon
+383133	Passion Ribbon Choker	Weapon
+383134	Sports Choker	Weapon
+383135	Cooling Choker	Weapon
+383136	Whimsical Choker	Weapon
+383137	Thunder Gods Choker	Weapon
+383138	Satin Choker	Weapon
+383139	Vermilion Bird Choker	Weapon
+383230	Lovely Choker	Weapon
+383231	Love At First Sight Choker	Weapon
+383232	Cyber Choker	Weapon
+383233	Punk Choker	Weapon
+383234	Bridal Choker	Weapon
+383235	Heiresss Choker	Weapon
+383236	Royal Prima Choker	Weapon
+383237	Novices Baton	Weapon
+383238	Wood Jitte	Weapon
+383239	Electric Jitte	Weapon
+383330	Jumbo Sausage	Weapon
+383331	Spicy Jumbo Sausage	Weapon
+383332	Tribal Mace	Weapon
+383333	Glacial Mace	Weapon
+383334	Special Police Baton	Weapon
+383335	Stun Rod	Weapon
+383336	Slapjack	Weapon
+383337	Brutal Slapjack	Weapon
+383338	Ascender No. 1919	Weapon
+383339	Crowbar	Weapon
+383430	Chromium Alloy Club	Weapon
+383431	Detectives Baton	Weapon
+383432	Beacon of Maitreya	Weapon
+383433	Novices Umbrella	Weapon
+383434	Bamboo Broom	Weapon
+383435	Monastic Broom	Weapon
+383436	Nearly Broken Cane	Weapon
+383437	Snake Cane	Weapon
+383438	Centennial Cane	Weapon
+383439	Dice Cane	Weapon
+383530	Sacred Branch	Weapon
+383531	Intoxicane	Weapon
+383532	Treasure Cane	Weapon
+383533	Lightning Staff	Weapon
+383534	Mighty Brush	Weapon
+383535	Charm Cane	Weapon
+383536	Dripping Wet Umbrella	Weapon
+383537	Homeless Guys Cane	Weapon
+383538	Scepter of Oblivion	Weapon
+383539	Novices Handbag	Weapon
+383630	Imitation Bag	Weapon
+383631	Couture Bag	Weapon
+383632	White Bag	Weapon
+383633	Polar Bag	Weapon
+383634	Bricken Bag	Weapon
+383635	Jag Bag	Weapon
+383636	Elegant Bag	Weapon
+383637	Femme Fatale Bag	Weapon
+383638	Rock Star Bag	Weapon
+383639	Explosive Rock Star Bag	Weapon
+383730	Barmaids Bag	Weapon
+383731	Illuminati Bag	Weapon
+383732	Funny Bag	Weapon
+383733	Dolphin Bag	Weapon
+383734	Boom Bag	Weapon
+383735	Novices Needles	Weapon
+383736	Bolt Needles	Weapon
+383737	Thunderbolt Needles	Weapon
+383738	Flying Thorns	Weapon
+383739	Blazing Thorns	Weapon
+383830	Assault Needles	Weapon
+383831	Thunderbird Needles	Weapon
+383832	Stalactite Needles	Weapon
+383833	Icicle Needles	Weapon
+383834	Flower Kanzashi	Weapon
+383835	Crimson Lotus Kanzashi	Weapon
+383836	Assassins Needles	Weapon
+383837	Valkyrie Needles	Weapon
+383838	Scorpion Tails	Weapon
+383839	Eternal Slaughter	Weapon
+383930	Unicorn Horns	Weapon
+383931	Novices Saber	Weapon
+383932	Artisans Saber	Weapon
+383933	Assassins Saber	Weapon
+383934	Dancing Saber	Weapon
+383935	Insect Venom Saber	Weapon
+383936	Flying Saber	Weapon
+383937	Lightning Saber	Weapon
+383938	Earth Saber	Weapon
+383939	Fire Saber	Weapon
+393030	Treasure Saber	Weapon
+393031	Ice Saber	Weapon
+393032	Hefty Chinese Saber	Weapon
+393033	Bewitching Snake Blade	Weapon
+393034	Champions Saber	Weapon
+393035	Gangsters Saber	Weapon
+393036	Treasured Sword of Heaven and Earth	Weapon
+393037	Novices Knuckle Dusters	Weapon
+393038	Sanguine Bandages	Weapon
+393039	Lightning Bandages	Weapon
+393130	Boxing Gloves	Weapon
+393131	Impulse Gloves	Weapon
+393132	Shark Tooth Knuckles	Weapon
+393133	Megalodon Knuckles	Weapon
+393134	Iron Gloves	Weapon
+393135	Glacier Gauntlets	Weapon
+393136	Cleat Knuckles	Weapon
+393137	Inferno Knuckles	Weapon
+393138	Heat Knuckles	Weapon
+393139	Purrfect Paws	Weapon
+393230	Ice Gauntlets	Weapon
+393231	Hitmans Knuckle Dusters	Weapon
+393232	Annihilation Claws	Weapon
+393233	Novices Surfboard	Weapon
+393234	Wooden Board	Weapon
+393235	Soft-Serve Board	Weapon
+393236	Amateur Board	Weapon
+393237	Passion Surfboard	Weapon
+393238	Cloud Board	Weapon
+393239	Storm Board	Weapon
+393330	Bamboo Leaf Board	Weapon
+393331	Mandrake Board	Weapon
+393332	Professional Board	Weapon
+393333	Aerial Master Board	Weapon
+393334	Shark Board	Weapon
+393335	Surf Flounder	Weapon
+393336	Aquanauts Board	Weapon
+393337	Ocean Kings Board	Weapon
+393338	Jet Surfboard	Weapon
+393339	Novices Hatchet	Weapon
+393430	Grasscutter	Weapon
+393431	Wicked Poison Sickle	Weapon
+393432	Ice Axe	Weapon
+393433	Magic Ice Axe	Weapon
+393434	Tribal Axe	Weapon
+393435	Volcanic Tribal Axe	Weapon
+393436	Brave General Axe	Weapon
+393437	Thundering Battle Axe	Weapon
+393438	Greataxe	Weapon
+393439	Phantom Greataxe	Weapon
+393530	Fang Axe	Weapon
+393531	Torchlight Axe	Weapon
+393532	Demons Edge	Weapon
+393533	Pyrodancers Axe	Weapon
+393534	Dead Souls Axe	Weapon
+393535	Novices Nunchaku	Weapon
+393536	Heros Nunchaku	Weapon
+393537	Plasmax Nunchaku	Weapon
+393538	Japanese Oak Nunchaku	Weapon
+393539	Burning Nunchaku	Weapon
+393630	Etched Nunchaku	Weapon
+393631	Evil Gods Nunchaku	Weapon
+393632	Steel Nunchaku	Weapon
+393633	Ice Nunchaku	Weapon
+393634	Masters Nunchaku	Weapon
+393635	Superstars Nunchaku	Weapon
+393636	Rippling Nunchaku	Weapon
+393637	Dynamite Nunchaku	Weapon
+393638	Broken Commandment Nunchaku	Weapon
+393639	Action Stars Nunchaku	Weapon
+393730	Nightstone Nunchaku	Weapon
+393731	Novices Toy Gun	Weapon
+393732	Air Gun	Weapon
+393733	Oath of the Dawn	Weapon
+393734	Cherry Boy	Weapon
+393735	Cold-Blooded	Weapon
+393736	Antique Revolver	Weapon
+393737	Lone Survivor	Weapon
+393738	Modern Revolver	Weapon
+393739	Hermetic Scorpion	Weapon
+393830	Wasteland Revolver	Weapon
+393831	Roaring Lightning	Weapon
+393832	Sandstorm Django	Weapon
+393833	Aqua Shooter	Weapon
+393834	Desperados Revolver	Weapon
+393835	Seventh Wolf	Weapon
+393836	Space Opera	Weapon
+393837	Novices Wristband	Weapon
+393838	Soft Wristband	Weapon
+393839	Heart of a Champion Wristband	Weapon
+393930	Running Band	Weapon
+393931	Electric Band	Weapon
+393932	Tribal Band	Weapon
+393933	Flaming Tribal Band	Weapon
+393934	Leather Cuff	Weapon
+393935	Spiky Band	Weapon
+393936	Metallic Band	Weapon
+393937	Meteorite Band	Weapon
+393938	Marine Band	Weapon
+393939	Mummy Band	Weapon
+31303030	Shock Band	Weapon
+31303031	Linebackers Wristband	Weapon
+31303032	Fumble Force Band	Weapon
+31303033	Novices Wooden Katana	Weapon
+31303034	Heros Sword	Weapon
+31303035	Plasmax Sword	Weapon
+31303036	Iaido Katana	Weapon
+31303037	Fake Murasame	Weapon
+31303038	Shark Tooth Longsword	Weapon
+31303039	Megalodon Sword	Weapon
+31303130	Secret Longsword	Weapon
+31303131	Dancing Gods Katana	Weapon
+31303132	Yusakus Katana	Weapon
+31303133	Moonflower	Weapon
+31303134	Ephemeral Longsword	Weapon
+31303135	Combat Sword	Weapon
+31303136	Scabbard Fish	Weapon
+31303137	Samurais Katana	Weapon
+31303138	Enchanted Demon Slayer	Weapon
+31303139	Novices Sparkling Wine	Weapon
+31303230	Sparkling Select	Weapon
+31303231	Sparkling Goodnight	Weapon
+31303232	Sparkling Original	Weapon
+31303233	Sparkling Passion	Weapon
+31303234	Country Wine	Weapon
+31303235	Electric Reserva	Weapon
+31303236	Xiang Bin Jiu	Weapon
+31303237	Celestial Xiang Bin Jiu	Weapon
+31303238	Premier Reserva	Weapon
+31303239	Snow Sapphire	Weapon
+31303330	Hosts Sparkling Wine	Weapon
+31303331	Prince of Star Night	Weapon
+31303332	Prestige	Weapon
+31303333	Drop of the Devil	Weapon
+31303334	Rose Amore	Weapon
+31303335	Novices Anklet	Weapon
+31303336	Cotton Anklet	Weapon
+31303337	Feather Anklet	Weapon
+31303338	Titanium Anklet	Weapon
+31303339	Electro Anklet	Weapon
+31303430	Pearl Anklet	Weapon
+31303431	Black Jade Anklet	Weapon
+31303432	Leather Anklet	Weapon
+31303433	Spiky Anklet	Weapon
+31303434	Metal Anklet	Weapon
+31303435	Meteorite Anklet	Weapon
+31303436	Blue Metal Anklet	Weapon
+31303437	Wild Enthusiasm Anklet	Weapon
+31303438	Light Anklet	Weapon
+31303439	Breakers Anklet	Weapon
+31303530	Master Soul Anklet	Weapon
+31303531	Novices Ladle	Weapon
+31303532	Wooden Spatula	Weapon
+31303533	Armament Spatula	Weapon
+31303534	Professionals Whisk	Weapon
+31303535	Electric Whisk	Weapon
+31303536	All-Purpose Spatula	Weapon
+31303537	Scorching Spatula	Weapon
+31303538	Stainless Ladle	Weapon
+31303539	Cold Pasta Ladle	Weapon
+31303630	Food Grater	Weapon
+31303631	Master Grater	Weapon
+31303632	Chefs Ladle	Weapon
+31303633	Chef de Cuisines Spoon	Weapon
+31303634	Pancake Maker	Weapon
+31303635	Ice Scooper	Weapon
+31303636	Happy Spatula	Weapon
+31303637	Novices Maracas	Weapon
+31303638	Karaoke Maracas	Weapon
+31303639	Sunrise Maracas	Weapon
+31303730	Blooming Maracas	Weapon
+31303731	Full-Bloom Maracas	Weapon
+31303732	Pineapple Maracas	Weapon
+31303733	Frozen Pineapple Maracas	Weapon
+31303734	Pellet Drum	Weapon
+31303735	Electric Drum	Weapon
+31303736	Trippy Maracas	Weapon
+31303737	Electrip Maracas	Weapon
+31303738	Fluffy Maracas	Weapon
+31303739	Durian Maracas	Weapon
+31303830	Geodancers Maracas	Weapon
+31303831	Paradise Maracas	Weapon
+31303832	Daydream Maracas	Weapon
+31303833	Novices Mop	Weapon
+31303834	Flooring Mop	Weapon
+31303835	Splash Mop	Weapon
+31303836	Deck Brush	Weapon
+31303837	Dirty Deck Brush	Weapon
+31303838	Rake	Weapon
+31303839	Controlled Burn Rake	Weapon
+31303930	Imperial Mop	Weapon
+31303931	Sacred Electric Mop	Weapon
+31303932	Explosive Sucking Cyclone	Weapon
+31303933	Explosive Sucking Cyclone X	Weapon
+31303934	Steam Cleaner	Weapon
+31303935	Powerful Bubble Mop	Weapon
+31303936	Hyper Plasma Mop	Weapon
+31303937	Housekeepers Mop	Weapon
+31303938	Mop of the Madonna	Weapon
+31303939	Novices Tennis Racket	Weapon
+31313030	Soft Tennis Racket	Weapon
+31313031	Heart of a Champion Racket	Weapon
+31313032	Entry Level Racket	Weapon
+31313033	Swift Racket	Weapon
+31313034	Vintage Racket	Weapon
+31313035	Revenge Racket	Weapon
+31313036	Dancers Fan	Weapon
+31313037	Rain-Making Fan	Weapon
+31313038	Fifteen-Love Racket	Weapon
+31313039	Forty-Love Racket	Weapon
+31313130	Beach Tennis Racket	Weapon
+31313131	Buzz Buster	Weapon
+31313132	Happy Candy	Weapon
+31313133	Tennis Aces Racket	Weapon
+31313134	Indomitable Venus	Weapon
+31313135	Novices Short Sword	Weapon
+31313136	Heros Knife	Weapon
+31313137	Plasmax Knife	Weapon
+31313138	Imitation Short Sword	Weapon
+31313139	Frozen Sky Short Sword	Weapon
+31313230	Shark Tooth Short Sword	Weapon
+31313231	Megalodon Knife	Weapon
+31313232	Kijin Short Sword	Weapon
+31313233	Raging Goddesss Sword	Weapon
+31313234	Yusakus Short Sword	Weapon
+31313235	Karasumas Secret	Weapon
+31313236	Diving Knife	Weapon
+31313237	Combat Knife	Weapon
+31313238	Ephemeral Short Sword	Weapon
+31313239	Kunoichis Sword	Weapon
+31313330	Cursed Dagger of Glorious Death	Weapon
+31313331	Novices Microphone	Weapon
+31313332	Pretty Microphone	Gear:Body
+31313333	Crazed Microphone	Gear:Body
+31313334	Floral Microphone	Gear:Body
+31313335	Flame War Microphone	Gear:Head
+31313336	Fantasy Microphone	Gear:Body
+31313337	Reality Microphone	Gear:Body
+31313338	Twinkle Microphone	Accessories
+31313339	Galactic Microphone	Accessories
+31313430	Winged Microphone	Gear:Body
+31313431	Blazing Microphone	Gear:Body
+31313432	Idols Microphone	Gear:Body
+31313433	Photon Symphony Microphone	Gear:Body
+31313434	Revival Microphone	Gear:Body
+31313435	Bastard Soda	Gear:Body
+31313436	Prominence Microphone	Gear:Head
+31313437	Novices Whip	Gear:Body
+31313438	Thorny Whip	Accessories
+31313439	Burning Rose	Weapon
+31313530	Temptresss Whip	Gear:Head
+31313531	Wailing Whip	Gear:Head
+31313532	Whip of Disappointment	Gear:Body
+31313533	Whip of Desire	Gear:Legs
+31313534	Back Breaker	Gear:Legs
+31313535	Dragonfire Back Breaker	Gear:Head
+31313536	Crystal Whip	Gear:Body
+31313537	Whip of the Snow Goddess	Gear:Head
+31313538	Night Queens Whip	Weapon
+31313539	Ulysses Butterfly Whip	Weapon
+31313630	Giganto Whip	Weapon
+31313631	Meow Meow Whip	Gear:Head
+31313632	Electric Whip	Gear:Body
+31383532	Yaya Floral Silhouette Tee	Gear:Body
+31383533	Yaya Kuku Shave Ice Tee	Gear:Body
+31383534	Hang Loose Family Tee	Gear:Body
+31383537	Shaka Cap	Gear:Head
+31383538	Garden T-Shirt	Gear:Body
+31383631	Beach Runner	Gear:Body
+31383632	Aloha Bracelets	Accessories
+31383633	Bangle	Accessories
+31383635	Classic Hibiscus Aloha Shirt	Gear:Body
+31383636	Blue Hawaii Aloha Shirt	Gear:Body
+31383637	Prince Kuhio Aloha Shirt	Gear:Body
+31383638	Tribal Honu Mens T-Shirt	Gear:Body
+31383639	Classic Hibiscus Short Muu Muu	Gear:Body
+31383730	Floral Bird of Paradise Long Dress	Gear:Body
+31383731	Adult Original Trucker Hat	Gear:Head
+31383732	Mens Original T-Shirt	Gear:Body
+31383733	Shave Ice Hair Tie	Gear:Head
+31393439	Helmet	Gear:Head
+31393530	Work Clothes	Gear:Head
+31393531	Hoodie	Gear:Body
+31393533	Sneakers	Gear:Legs
+31393534	Magical Sandals	Gear:Legs
+31393535	Knitted Cap	Gear:Head
+31393536	Seaside Hoodie	Gear:Body
+31393538	Tranquility Bat	Gear:Head
+31393539	Steel Frame	Weapon
+31393630	Cooling Wrench	Weapon
+31393631	Stag Beetle Wrench	Weapon
+32303233	Passion Bandana	Gear:Head
+32303234	Down Jacket	Gear:Body
+32303235	Loafers	Gear:Legs
+32303236	Classy Hat	Gear:Head
+32303237	Wonder Gown	Gear:Body
+32303239	Rainbow Hat	Gear:Head
+32303330	Reverie Shoes	Gear:Legs
+32303331	Sacred Steel Helmet	Gear:Head
+32303332	Sacred Leather Socks	Gear:Head
+32303333	Metal Shin Guards	Gear:Legs
+32303431	Flat Cap	Gear:Head
+32303432	Trick Hat	Gear:Head
+32303433	Pink Ribbon	Gear:Head
+32303434	Longcoat	Gear:Body
+32303435	Mirage Coat	Gear:Body
+32303436	Illegal Boots	Gear:Legs
+32303437	Pointy Toes	Gear:Legs
+32303438	Smart Robe	Gear:Body
+32303439	Boxing Shoes	Gear:Legs
+32303530	Commander Hat	Gear:Head
+32303531	Cyber Helmet	Gear:Head
+32303532	Cyber Armor	Gear:Body
+32303533	Cyber Boots	Gear:Legs
+32303534	Aberrant Jacket	Gear:Body
+32303535	Battle Boots	Gear:Head
+32303633	Dragon Kinagashi	Gear:Body
+32303634	Dragon Boots	Gear:Legs
+32303832	Flame Amulet	Accessories
+32303833	Rime Amulet	Accessories
+32303834	Raiden Amulet	Accessories
+32303835	Health Prayer Amulet	Accessories
+32303836	Safe Travels Amulet	Accessories
+32303837	Fire God's Amulet	Accessories
+32303838	Water God's Amulet	Accessories
+32303839	Thunder God's Amulet	Accessories
+32303930	Sea God's Talisman	Accessories
+32303931	Wisdom King's Talisman	Accessories
+32303932	Ultima Egesta	Weapon
+32303933	Thief's Mask	Gear:Head
+32303934	Nouveau Riche Crown	Gear:Head
+32323635	Hawaiian Hat	Gear:Head
+32323636	Hawaiian Jacket	Gear:Body
+32323637	Hawaiian Sandals	Gear:Legs
+32323638	Hero's Bat	Weapon
+32323730	Sports Choker	Weapon
+32323731	Amateuer Board	Weapon
+32323732	Iaido Katana	Weapon
+32323733	Sunflower Maracas	Weapon
+32323734	Pure White Briefs	Gear:Body
+32323735	Great Fortune Silver Undies	Gear:Body
+32323736	Great Fortune Gold Undies	Gear:Body
+[/EQUIP]

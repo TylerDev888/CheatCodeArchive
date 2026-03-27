@@ -1,0 +1,11 @@
+^2 = GameID: BLES00038
+^3 = NAME: NBA Street: Homecourt
+^4 = FILE: USR-DATA
++Get Eachecksum For Usr-data (required)
+(set range:0x0,0x001DC7)
+$set pointer:eof+1
+$set range:0x0,pointer
+$set [hash]:EAChecksum
+^4 = FILE: HED-DATA
++Update Eachecksum In Hed-data (required)
+$write at 0x8:[hash]

@@ -1,0 +1,15 @@
+^3 = NAME: Worms Blast
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 002FC537
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$20184E58 00000000
++Time
+%Credits: Xploder
+$201B8438 00000000
+$201B82B0 00000000
+!!

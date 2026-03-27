@@ -1,0 +1,31 @@
+^3 = NAME: Drakar 2
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 001C6797
+!!
+!No Damage To:
++Engine
+%Credits: Xploder
+$2029DE80 00000000
++Steering
+%Credits: Xploder
+$2029DE84 00000000
++Shocker
+%Credits: Xploder
+$2029DE88 00000000
++Tyre
+%Credits: Xploder
+$2029DE8C 00000000
+!!
+!Unlock:
++All Vehicles
+%Credits: Xploder
+$21F7E010 00000001
++All Tracks
+%Credits: Xploder
+$21F7E014 00000001
++In Game Music Selector
+%Credits: Xploder
+$21F7E018 00000001
+!!

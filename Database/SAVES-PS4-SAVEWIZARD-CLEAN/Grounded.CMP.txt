@@ -1,0 +1,35 @@
+^2 = GameID: CUSA42556,CUSA43887
+^3 = NAME: Grounded
+^SECONDLAYER: YES
+^4 = FILE: [A-Za-z0-9]+(\d+d\d+m\d+(s)?|A\d+)\WorldState
+{Note - Network on Ps4/5 must be turned off or code will not work correctly since offline save will not load}
++Item Slot Amount MOD{{<div class="inv-layout"><h4>Invintory Slot Layout</h4><p>Note: If this is the order of how the game stores items on screen, use this layout to set the correct slot in the code.</p><table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;text-align:center;"><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td></tr><tr><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td></tr><tr><td>31</td><td>32</td><td>33</td><td>34</td><td>35</td><td>36</td><td>37</td><td>38</td><td>39</td><td>40</td></tr></table></div>}}
+$80010010 486F7374
+$506C6179 65722E63
+$73617600 00000000
+$93000000 00000008
+$6C000001 00000004
+$6C410001 00000000
+$88010008 47726F55
+$6E446401 00000000
+$6C080002 00000000
+$6C410001 00000000
+$6C340002 00000000
+$88010024 21000000
+$2F536372 6970742F
+$4D61696E 652E4571
+$7569706D 656E7443
+$6F6D706F 6E656E74
+$6C080002 00000000
+$6C410001 00000000
+$88010025 21000000
+$2F536372 6970742F
+$4D61696E 652E496E
+$76656E74 6F727943
+$6F6D706F 6E656E74
+$00000000 00000000
+$6C340002 00000000
+$88010008 [Amount:27:HEX:BIG<MOD-ItemSlot>]000000
+$[Amount:63:HEX:BIG<Current-Amount>]000000 00000000
+$28000004 000000[Amount:63:HEX:BIG<Amount-Wanted>]
+$9D000000 FFFFFFFF

@@ -1,0 +1,18 @@
+^3 = NAME: 24 - The Game (PAL-Unk)
+^2 = GameID: SCES-53358
+!Master Codes:
++Enabler Code (Must Be On)
+%Credits: Codejunkies
+$F0486DC0 00486DC3
+!!
++Health Packs Never Decrease
+%Credits: Codejunkies
+$2036FC24 00000000
++Infinite Ammo
+%Credits: Codejunkies
+$20170744 00000000
++Infinite Body Armor
+%Credits: Codejunkies
+$201F2808 00000000
+$201F27BC 00000000
+

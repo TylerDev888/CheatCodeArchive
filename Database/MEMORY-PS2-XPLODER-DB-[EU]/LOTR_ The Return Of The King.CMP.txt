@@ -1,0 +1,694 @@
+^3 = NAME: LOTR: The Return Of The King
+!Masters:
++Mastercode
+%Credits: Xploder
+$9022D3B8 0C04A5FA
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$2023F4F8 0040082D
+$2023F508 AE810090
++Range Weapon
+%Credits: Xploder
+$20197B6C 2442001E
++Skill Meter
+%Credits: Xploder
+$20198128 3C0142C8
+$20198138 AC810004
+!!
+!Limit Maximum Health:
++Health Limit Enable Code{(This Code Must Be On For The Following 3 Codes)}
+%Credits: Xploder
+$200C2000 3C013F80
+$200C2008 4481F000
+$200C200C 461E0F82
+$200C2010 461E0029
+$200C2014 460007A4
+$200C2018 0808FD43
+$200C201C E69E0090
+$2023F504 08030800
++75%
+%Credits: Xploder
+$200C2004 3C013F40
++50%
+%Credits: Xploder
+$200C2004 3C013F00
++25%
+%Credits: Xploder
+$200C2004 3C013E80
+!!
+!Aragorn:
++Level 99
+%Credits: Xploder
+$202F25EC 42C60000
+$202F38FC 42C60000
++All Missions Complete
+%Credits: Xploder
+$202F25D4 0003FFFF
+$202F38E4 0003FFFF
++All Moves Purchased
+%Credits: Xploder
+$202F25DC FFFFFFFF
+$002F25E0 000000FF
+$202F38EC FFFFFFFF
+$002F38F0 000000FF
+!!
+!Perfect Missions:
++Helm's Deep
+%Credits: Xploder
+$202F2820 00000003
+$202F3B30 00000003
++Paths Of The Dead
+%Credits: Xploder
+$202F2850 00000003
+$202F3B60 00000003
++The King Of The Dead
+%Credits: Xploder
+$202F2898 00000003
+$202F3BA8 00000003
++The Southern Gate
+%Credits: Xploder
+$202F28E0 00000003
+$202F3BF0 00000003
++Pelennar Fields
+%Credits: Xploder
+$202F2928 00000003
+$202F3C38 00000003
++The Black Gate
+%Credits: Xploder
+$202F2970 00000003
+$202F3C80 00000003
++The Road To Isengard
+%Credits: Xploder
+$202F29B8 00000003
+$202F3CC8 00000003
++Minas Tirith - Top Of The Wall
+%Credits: Xploder
+$202F2A00 00000003
+$202F3D10 00000003
++Minas Tirith - Court Yard
+%Credits: Xploder
+$202F2A48 00000003
+$202F3D58 00000003
++Escape From Osgiliath
+%Credits: Xploder
+$202F2A90 00000003
+$202F3DA0 00000003
++Shelob's Lair
+%Credits: Xploder
+$202F2AD8 00000003
+$202F3DE8 00000003
++Cirith Angol
+%Credits: Xploder
+$202F2BF8 00000003
+$202F3F08 00000003
++The Crack Of Doom
+%Credits: Xploder
+$202F2B68 00000003
+$202F3E78 00000003
++Palantir Of Saruman
+%Credits: Xploder
+$202F2C88 00000003
+$202F3F98 00000003
++Palantir Of Sauron
+%Credits: Xploder
+$202F2CD0 00000003
+$202F3FE0 00000003
++Paths Of The Dead
+%Credits: Xploder
+$202F2858 00000003
+$202F3B68 00000003
++The King Of The Dead
+%Credits: Xploder
+$202F28A0 00000003
+$202F3BB0 00000003
++The Southern Gate
+%Credits: Xploder
+$202F28E8 00000003
+$202F3BF8 00000003
++Pelennar Fields
+%Credits: Xploder
+$202F2930 00000003
+$202F3C40 00000003
++The Black Gate
+%Credits: Xploder
+$202F2978 00000003
+$202F3C88 00000003
++The Road To Isengard
+%Credits: Xploder
+$202F29C0 00000003
+$202F3CD0 00000003
++Minas Tirith - Top Of The Wall
+%Credits: Xploder
+$202F2A08 00000003
+$202F3D18 00000003
++Minas Tirith - Court Yard
+%Credits: Xploder
+$202F2A50 00000003
+$202F3D60 00000003
++Escape From Osgiliath
+%Credits: Xploder
+$202F2A98 00000003
+$202F3DA8 00000003
++Shelob's Lair
+%Credits: Xploder
+$202F2AE0 00000003
+$202F3DF0 00000003
++Cirith Angol
+%Credits: Xploder
+$202F2C00 00000003
+$202F3F10 00000003
++The Crack Of Doom
+%Credits: Xploder
+$202F2B70 00000003
+$202F3E80 00000003
++Palantir Of Saruman
+%Credits: Xploder
+$202F2C90 00000003
+$202F3FA0 00000003
++Palantir Of Sauron
+%Credits: Xploder
+$202F2CD8 00000003
+$202F3FE8 00000003
++Paths Of The Dead
+%Credits: Xploder
+$202F2860 00000003
+$202F3B70 00000003
++The King Of The Dead
+%Credits: Xploder
+$202F28A8 00000003
+$202F3BB8 00000003
++The Southern Gate
+%Credits: Xploder
+$202F28F0 00000003
+$202F3C00 00000003
++Pelennar Fields
+%Credits: Xploder
+$202F2938 00000003
+$202F3C48 00000003
++The Black Gate
+%Credits: Xploder
+$202F2980 00000003
+$202F3C90 00000003
++The Road To Isengard
+%Credits: Xploder
+$202F29C8 00000003
+$202F3CD8 00000003
++Minas Tirith - Top Of The Wall
+%Credits: Xploder
+$202F2A10 00000003
+$202F3D20 00000003
++Minas Tirith - Court Yard
+%Credits: Xploder
+$202F2A58 00000003
+$202F3D68 00000003
++Escape From Osgiliath
+%Credits: Xploder
+$202F2AA0 00000003
+$202F3DB0 00000003
++Shelob's Lair
+%Credits: Xploder
+$202F2AE8 00000003
+$202F3DF8 00000003
++Cirith Angol
+%Credits: Xploder
+$202F2C08 00000003
+$202F3F18 00000003
++The Crack Of Doom
+%Credits: Xploder
+$202F2B78 00000003
+$202F3E88 00000003
++Palantir Of Saruman
+%Credits: Xploder
+$202F2C98 00000003
+$202F3FA8 00000003
++Palantir Of Sauron
+%Credits: Xploder
+$202F2CE0 00000003
+$202F3FF0 00000003
++Paths Of The Dead
+%Credits: Xploder
+$202F2868 00000003
+$202F3B78 00000003
++The King Of The Dead
+%Credits: Xploder
+$202F28B0 00000003
+$202F3BC0 00000003
++The Southern Gate
+%Credits: Xploder
+$202F28F8 00000003
+$202F3C08 00000003
++Pelennar Fields
+%Credits: Xploder
+$202F2940 00000003
+$202F3C50 00000003
++The Black Gate
+%Credits: Xploder
+$202F2988 00000003
+$202F3C98 00000003
++The Road To Isengard
+%Credits: Xploder
+$202F29D0 00000003
+$202F3CE0 00000003
++Minas Tirith - Top Of The Wall
+%Credits: Xploder
+$202F2A18 00000003
+$202F3D28 00000003
++Minas Tirith - Court Yard
+%Credits: Xploder
+$202F2A60 00000003
+$202F3D70 00000003
++Escape From Osgiliath
+%Credits: Xploder
+$202F2AA8 00000003
+$202F3DB8 00000003
++Shelob's Lair
+%Credits: Xploder
+$202F2AF0 00000003
+$202F3E00 00000003
++Cirith Angol
+%Credits: Xploder
+$202F2C10 00000003
+$202F3F20 00000003
++The Crack Of Doom
+%Credits: Xploder
+$202F2B80 00000003
+$202F3E90 00000003
++Palantir Of Saruman
+%Credits: Xploder
+$202F2CA0 00000003
+$202F3FB0 00000003
++Palantir Of Sauron
+%Credits: Xploder
+$202F2CE8 00000003
+$202F3FF8 00000003
++Paths Of The Dead
+%Credits: Xploder
+$202F2870 00000003
+$202F3B80 00000003
++The King Of The Dead
+%Credits: Xploder
+$202F28B8 00000003
+$202F3BC8 00000003
++The Southern Gate
+%Credits: Xploder
+$202F2900 00000003
+$202F3C10 00000003
++Pelennar Fields
+%Credits: Xploder
+$202F2948 00000003
+$202F3C58 00000003
++The Black Gate
+%Credits: Xploder
+$202F2990 00000003
+$202F3CA0 00000003
++The Road To Isengard
+%Credits: Xploder
+$202F29D8 00000003
+$202F3CE8 00000003
++Minas Tirith - Top Of The Wall
+%Credits: Xploder
+$202F2A20 00000003
+$202F3D30 00000003
++Minas Tirith - Court Yard
+%Credits: Xploder
+$202F2A68 00000003
+$202F3D78 00000003
++Escape From Osgiliath
+%Credits: Xploder
+$202F2AB0 00000003
+$202F3DC0 00000003
++Shelob's Lair
+%Credits: Xploder
+$202F2AF8 00000003
+$202F3E08 00000003
++Cirith Angol
+%Credits: Xploder
+$202F2C18 00000003
+$202F3F28 00000003
++The Crack Of Doom
+%Credits: Xploder
+$202F2B88 00000003
+$202F3E98 00000003
++Palantir Of Saruman
+%Credits: Xploder
+$202F2CA8 00000003
+$202F3FB8 00000003
++Palantir Of Sauron
+%Credits: Xploder
+$202F2CF0 00000003
+$202F4000 00000003
++Paths Of The Dead
+%Credits: Xploder
+$202F2878 00000003
+$202F3B88 00000003
++The King Of The Dead
+%Credits: Xploder
+$202F28C0 00000003
+$202F3BD0 00000003
++The Southern Gate
+%Credits: Xploder
+$202F2908 00000003
+$202F3C18 00000003
++Pelennar Fields
+%Credits: Xploder
+$202F2950 00000003
+$202F3C60 00000003
++The Black Gate
+%Credits: Xploder
+$202F2998 00000003
+$202F3CA8 00000003
++The Road To Isengard
+%Credits: Xploder
+$202F29E0 00000003
+$202F3CF0 00000003
++Minas Tirith - Top Of The Wall
+%Credits: Xploder
+$202F2A28 00000003
+$202F3D38 00000003
++Minas Tirith - Court Yard
+%Credits: Xploder
+$202F2A70 00000003
+$202F3D80 00000003
++Escape From Osgiliath
+%Credits: Xploder
+$202F2AB8 00000003
+$202F3DC8 00000003
++Shelob's Lair
+%Credits: Xploder
+$202F2B00 00000003
+$202F3E10 00000003
++Cirith Angol
+%Credits: Xploder
+$202F2C20 00000003
+$202F3F30 00000003
++The Crack Of Doom
+%Credits: Xploder
+$202F2B90 00000003
+$202F3EA0 00000003
++Palantir Of Saruman
+%Credits: Xploder
+$202F2CB0 00000003
+$202F3FC0 00000003
++Palantir Of Sauron
+%Credits: Xploder
+$202F2CF8 00000003
+$202F4008 00000003
++Paths Of The Dead
+%Credits: Xploder
+$202F2880 00000003
+$202F3B90 00000003
++The King Of The Dead
+%Credits: Xploder
+$202F28C8 00000003
+$202F3BD8 00000003
++The Southern Gate
+%Credits: Xploder
+$202F2910 00000003
+$202F3C20 00000003
++Pelennar Fields
+%Credits: Xploder
+$202F2958 00000003
+$202F3C68 00000003
++The Black Gate
+%Credits: Xploder
+$202F29A0 00000003
+$202F3CB0 00000003
++The Road To Isengard
+%Credits: Xploder
+$202F29E8 00000003
+$202F3CF8 00000003
++Minas Tirith - Top Of The Wall
+%Credits: Xploder
+$202F2A30 00000003
+$202F3D40 00000003
++Minas Tirith - Court Yard
+%Credits: Xploder
+$202F2A78 00000003
+$202F3D88 00000003
++Escape From Osgiliath
+%Credits: Xploder
+$202F2AC0 00000003
+$202F3DD0 00000003
++Shelob's Lair
+%Credits: Xploder
+$202F2B08 00000003
+$202F3E18 00000003
++Cirith Angol
+%Credits: Xploder
+$202F2C28 00000003
+$202F3F38 00000003
++The Crack Of Doom
+%Credits: Xploder
+$202F2B98 00000003
+$202F3EA8 00000003
++Palantir Of Saruman
+%Credits: Xploder
+$202F2CB8 00000003
+$202F3FC8 00000003
++Palantir Of Sauron
+%Credits: Xploder
+$202F2D00 00000003
+$202F4010 00000003
++Paths Of The Dead
+%Credits: Xploder
+$202F2888 00000003
+$202F3B98 00000003
++The King Of The Dead
+%Credits: Xploder
+$202F28D0 00000003
+$202F3BE0 00000003
++The Southern Gate
+%Credits: Xploder
+$202F2918 00000003
+$202F3C28 00000003
++Pelennar Fields
+%Credits: Xploder
+$202F2960 00000003
+$202F3C70 00000003
++The Black Gate
+%Credits: Xploder
+$202F29A8 00000003
+$202F3CB8 00000003
++The Road To Isengard
+%Credits: Xploder
+$202F29F0 00000003
+$202F3D00 00000003
++Minas Tirith - Top Of The Wall
+%Credits: Xploder
+$202F2A38 00000003
+$202F3D48 00000003
++Minas Tirith - Court Yard
+%Credits: Xploder
+$202F2A80 00000003
+$202F3D90 00000003
++Escape From Osgiliath
+%Credits: Xploder
+$202F2AC8 00000003
+$202F3DD8 00000003
++Shelob's Lair
+%Credits: Xploder
+$202F2B10 00000003
+$202F3E20 00000003
++Cirith Angol
+%Credits: Xploder
+$202F2C30 00000003
+$202F3F40 00000003
++The Crack Of Doom
+%Credits: Xploder
+$202F2BA0 00000003
+$202F3EB0 00000003
++Palantir Of Saruman
+%Credits: Xploder
+$202F2CC0 00000003
+$202F3FD0 00000003
++Palantir Of Sauron
+%Credits: Xploder
+$202F2D08 00000003
+$202F4018 00000003
++Paths Of The Dead
+%Credits: Xploder
+$202F2890 00000003
+$202F3BA0 00000003
++The King Of The Dead
+%Credits: Xploder
+$202F28D8 00000003
+$202F3BE8 00000003
++The Southern Gate
+%Credits: Xploder
+$202F2920 00000003
+$202F3C30 00000003
++Pelennar Fields
+%Credits: Xploder
+$202F2968 00000003
+$202F3C78 00000003
++The Black Gate
+%Credits: Xploder
+$202F29B0 00000003
+$202F3CC0 00000003
++The Road To Isengard
+%Credits: Xploder
+$202F29F8 00000003
+$202F3D08 00000003
++Minas Tirith - Top Of The Wall
+%Credits: Xploder
+$202F2A40 00000003
+$202F3D50 00000003
++Minas Tirith - Court Yard
+%Credits: Xploder
+$202F2A88 00000003
+$202F3D98 00000003
++Escape From Osgiliath
+%Credits: Xploder
+$202F2AD0 00000003
+$202F3DE0 00000003
++Shelob's Lair
+%Credits: Xploder
+$202F2B18 00000003
+$202F3E28 00000003
++Cirith Angol
+%Credits: Xploder
+$202F2C38 00000003
+$202F3F48 00000003
++The Crack Of Doom
+%Credits: Xploder
+$202F2BA8 00000003
+$202F3EB8 00000003
++Palantir Of Saruman
+%Credits: Xploder
+$202F2CC8 00000003
+$202F3FD8 00000003
++Palantir Of Sauron
+%Credits: Xploder
+$202F2D10 00000003
+$202F4020 00000003
+!!
+!Legolas:
++Level 99
+%Credits: Xploder
+$202F2628 42C60000
+$202F3938 42C60000
++All Missions Complete
+%Credits: Xploder
+$202F2610 0003FFFF
+$202F3920 0003FFFF
++All Moves Purchased
+%Credits: Xploder
+$202F2618 FFFFFFFF
+$202F261C 000000FF
+$202F3928 FFFFFFFF
+$202F392C 000000FF
+!!
+!Gimli:
++Level 99
+%Credits: Xploder
+$202F2664 42C60000
+$202F3974 42C60000
++All Missions Complete
+%Credits: Xploder
+$202F264C 0003FFFF
+$202F395C 0003FFFF
++All Moves Purchased
+%Credits: Xploder
+$202F2654 FFFFFFFF
+$202F2658 000000FF
+$202F3964 FFFFFFFF
+$202F3968 000000FF
+!!
+!Gandalf:
++Level 99
+%Credits: Xploder
+$202F26A0 42C60000
+$202F39B0 42C60000
++All Missions Complete
+%Credits: Xploder
+$202F2688 0003FFFF
+$202F3998 0003FFFF
++All Moves Purchased
+%Credits: Xploder
+$202F2690 FFFFFFFF
+$202F2694 000000FF
+$202F39A0 FFFFFFFF
+$202F39A4 000000FF
+!!
+!Sam:
++Level 99
+%Credits: Xploder
+$202F26DC 42C60000
+$202F39EC 42C60000
++All Missions Complete
+%Credits: Xploder
+$202F26C4 0003FFFF
+$202F39D4 0003FFFF
++All Moves Purchased
+%Credits: Xploder
+$202F26CC FFFFFFFF
+$202F26D0 000000FF
+$202F39DC FFFFFFFF
+$202F39E0 000000FF
+!!
+!Frodo:
++Level 99
+%Credits: Xploder
+$202F2718 42C60000
+$202F3A28 42C60000
++All Missions Complete
+%Credits: Xploder
+$202F2700 0003FFFF
+$202F3A10 0003FFFF
++All Moves Purchased
+%Credits: Xploder
+$202F2708 FFFFFFFF
+$202F270C 000000FF
+$202F3A18 FFFFFFFF
+$202F3A1C 000000FF
+!!
+!Pippin:
++Level 99
+%Credits: Xploder
+$202F2754 42C60000
+$202F3A64 42C60000
++All Missions Complete
+%Credits: Xploder
+$202F273C 0003FFFF
+$202F3A4C 0003FFFF
++All Moves Purchased
+%Credits: Xploder
+$202F2744 FFFFFFFF
+$202F2748 000000FF
+$202F3A54 FFFFFFFF
+$202F3A58 000000FF
+!!
+!Merry:
++Level 99
+%Credits: Xploder
+$202F2790 42C60000
+$202F3AA0 42C60000
++All Missions Complete
+%Credits: Xploder
+$202F2778 0003FFFF
+$202F3A88 0003FFFF
++All Moves Purchased
+%Credits: Xploder
+$202F2780 FFFFFFFF
+$202F2784 000000FF
+$202F3A90 FFFFFFFF
+$202F3A94 000000FF
+!!
+!Faramir:
++Level 99
+%Credits: Xploder
+$202F27CC 42C60000
+$202F3ADC 42C60000
++All Missions Complete
+%Credits: Xploder
+$202F27B4 0003FFFF
+$202F3AC4 0003FFFF
++All Moves Purchased
+%Credits: Xploder
+$202F27BC FFFFFFFF
+$202F27C0 000000FF
+$202F3ACC FFFFFFFF
+$202F3AD0 000000FF
+!!

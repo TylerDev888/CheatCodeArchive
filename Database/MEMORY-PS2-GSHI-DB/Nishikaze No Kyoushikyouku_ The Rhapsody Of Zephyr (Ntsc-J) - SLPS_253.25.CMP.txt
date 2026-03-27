@@ -1,0 +1,30 @@
+^3 = NAME: Nishikaze No Kyoushikyouku: The Rhapsody Of Zephyr (Ntsc-J)
+^2 = GameID: SLPS-25325
+!Master Codes:
++Enable Code
+%Credits: BigBossman
+$9010F6B8 0C043D56
++Enable Code (Alternate)
+%Credits: BigBossman
+$90209228 0C040094
+!!
++Always Full Life
+%Credits: luc-ita
+$201A8E20 8E0200A4
+$201A8E28 AE020124
++Always Full Mana
+%Credits: luc-ita
+$201AAD48 8E8200A8
+$201AAD50 AE820128
++Enemies Automatically Defeated In Each Battle
+%Credits: luc-ita
+$201A8864 00000000
++Lots Of EXP After Each Battle
+%Credits: luc-ita
+$201DF2A0 24047FFF
++Untouchable
+%Credits: luc-ita
+$20190F10 10000068
+$20195D00 10000069
+!!
+

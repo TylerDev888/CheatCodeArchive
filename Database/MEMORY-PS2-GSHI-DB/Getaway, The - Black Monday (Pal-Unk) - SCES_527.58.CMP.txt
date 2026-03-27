@@ -1,0 +1,46 @@
+^3 = NAME: Getaway, The - Black Monday (Pal-Unk)
+^2 = GameID: SCES-52758
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0431B54 00431B57
+!!
++Freeze Timer (Press R3+Up To Activate; R3+Down To Stop)
+%Credits: Codejunkies
+$E10100EB 0054E742
+$2032D19C 00000000
+$E10100BB 0054E742
+$2032D19C 46010001
++Infinite Ammo (Guns)
+%Credits: Codejunkies
+$201EBCC0 00000000
+!Speed Codes:
++Crazy Speed (Press Select+Left)
+%Credits: Codejunkies
+$E101007E 0054E742
+$204A8D70 41000000
++Hyper Mode (Press Select+Up)
+%Credits: Codejunkies
+$E10100BE 0054E742
+$204A8D70 41800000
++Infinite Health {<I>&#39;Instant Kills&#39; Like Exploding Barrels Still Kill You.</I>}
+%Credits: Codejunkies
+$E0030000 10746234
+$E0020000 10746236
+$60746234 00004100
+$00010001 00000319
++Normal Speed (Press Select+Right)
+%Credits: Codejunkies
+$E10100DE 0054E742
+$204A8D70 42700000
++Quicker Game (Press Select+Up)
+%Credits: Codejunkies
+$E10100EE 0054E742
+$204A8D70 42000000
++Slow Motion (Press Select+L3)
+%Credits: Codejunkies
+$E10100FC 0054E742
+$204A8D70 43400000
+!!
+!!
+

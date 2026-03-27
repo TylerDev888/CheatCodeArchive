@@ -1,0 +1,14 @@
+^3 = NAME: Sengoku Anthology
+^2 = GameID: SLES_555.12
++Enable Code
+%Credits: lee4
+$90153E20 0C054F30
++Pal2ntsc
+%Credits: lee4
+$201399F8 24120002
++Sengoku Anthology RAM Pointer {<I>XX=Value<Br>YYYY=MAME/Neorage Offset</I>}
+%Credits: lee4
+00000001 0000YYYY
+$619E2D2C 000000XX
+!!
+

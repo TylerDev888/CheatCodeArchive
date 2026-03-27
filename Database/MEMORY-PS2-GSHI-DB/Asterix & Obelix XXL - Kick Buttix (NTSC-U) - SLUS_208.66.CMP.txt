@@ -1,0 +1,62 @@
+^3 = NAME: Asterix & Obelix XXL - Kick Buttix (NTSC-U)
+^2 = GameID: SLUS-20866
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F011BDF4 0011BDF7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0011BDF7
+!!
++Infinite Helmet Multiplier
+%Credits: Codejunkies
+$2072C0B8 42000000
++Max Combo Meter
+%Credits: Codejunkies
+$2072BCD0 00000020
++Max Potion Power
+%Credits: Codejunkies
+$2072C0BC 42000000
++Max Roman Helmets
+%Credits: Codejunkies
+$2072C088 000003E7
+!MISC:
++Always Under Magic Potion
+%Credits: Code Master
+$2072C0BC 42C80000
++Have Helmet Multiplier
+%Credits: Code Master
+$2072C0B8 42C60000
++Infinite Double Jumps
+%Credits: Code Master
+$202A20F0 00000000
+$102A20FE 00001000
++Infinite Health
+%Credits: Code Master
+$0072C070 0000001E
++Max Energy Gauge (Combo)
+%Credits: Code Master
+$2072BCD0 0000001E
++Max Helmet Multiplier
+%Credits: Code Master
+$2072C0A4 00000063
++Max Roman Helmets Collected
+%Credits: Code Master
+$2072C088 0000270F
++P1 Press L1+Select To Get Magic Potition Effects
+%Credits: Code Master
+$D051F082 0000FBFE
+$2072C0BC 42C80000
++P1 Press L2+Select To Remove Magic Potition Effects
+%Credits: Code Master
+$D051F082 0000FEFE
+$2072C0BC 00000000
++P1 Press X For Moon Jump
+%Credits: Code Master
+$D051F082 0000BFFF
+$20293AD0 00000000
+$D051F082 0000FFFF
+$20293AD0 E48200A8
+!!
+!!
+

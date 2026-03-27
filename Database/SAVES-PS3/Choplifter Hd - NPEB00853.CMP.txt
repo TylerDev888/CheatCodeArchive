@@ -1,0 +1,13 @@
+^2 = GameID: NPEB00853
+^3 = NAME: Choplifter HD (PSN)
+^4 = FILE: PAYLOAD
++Decompress Save (required)
+$Decompress(*, 15)
++Compress Save (required)
+$Compress(*)
++Update Sha1 For Payload (required)
+(set range:0x000014,0x0003E8)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

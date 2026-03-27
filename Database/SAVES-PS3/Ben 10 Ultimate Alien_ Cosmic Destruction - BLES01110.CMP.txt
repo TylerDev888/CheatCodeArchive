@@ -1,0 +1,20 @@
+^2 = GameID: BLES01110
+^3 = NAME: BEN 10 Ultimate Alien: Cosmic Destruction
+^4 = FILE: GAME
++Update Crc32 For Game (required)
+(set range:0x000024,0x001043)
+$set pointer:eof+1
+$set range:0x000024,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]
+^4 = FILE: MISS
++Update Crc32 For Miss (required)
+(set range:0x24,0x00801F)
+$set pointer:eof+1
+$set range:0x24,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]
+^4 = FILE: SETTINGS
+^4 = FILE: POS
+^4 = FILE: PROFILES
+^4 = FILE: UPG

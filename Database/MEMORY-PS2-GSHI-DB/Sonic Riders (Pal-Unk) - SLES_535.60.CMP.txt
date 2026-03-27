@@ -1,0 +1,41 @@
+^3 = NAME: Sonic Riders (Pal-Unk)
+^2 = GameID: SLES-53560
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F010EF1C 0010EF1F
+!!
++100 Rings
+%Credits: Codejunkies
+$2049A0EC 00000064
++Infinite Air
+%Credits: Codejunkies
+$20499ED8 00030250
++Infinite Funds
+%Credits: Codejunkies
+$2095D428 000F423F
++Instant Win
+%Credits: Codejunkies
+$E0020000 2049A5D0
+$E0010203 2049A5D2
+$2049A5D0 02030000
++Low Time
+%Credits: Codejunkies
+$20487F70 00000000
++Opponents Don't Move
+%Credits: luc-ita
+$201D3F08 08028000
+$200A0000 3C01004A
+$200A0004 24219340
+$200A0008 10310003
+$200A000C 8E2311D8
+$200A0010 08074FC6
+$200A0014 A3A4091F
+$200A0018 08074FC4
++Start On 3Rd Lap
+%Credits: Codejunkies
+$E0020000 0049A5D0
+$D049A5D2 00000001
+$2049A5D0 02030000
+!!
+

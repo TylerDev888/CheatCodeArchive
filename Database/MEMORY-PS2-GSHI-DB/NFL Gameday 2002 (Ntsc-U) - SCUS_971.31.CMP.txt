@@ -1,0 +1,518 @@
+^3 = NAME: NFL Gameday 2002 (Ntsc-U)
+^2 = GameID: SCUS-97131
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0168F00 00144747
++(M) Must Be On
+%Credits: Codejunkies
+$F0144744 00144747
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00144747
+!!
+!40 Yard Dash Codes:
++Yard Dash Max
+%Credits: Codejunkies
+$00543C02 00000064
++Yard Dash Super
+%Credits: Codejunkies
+$00543C02 000000FF
+!!
+!60 Meter Hurdle Codes:
++Meter Hurdle Max
+%Credits: Codejunkies
+$00543C03 00000064
++Meter Hurdle Super
+%Credits: Codejunkies
+$00543C03 000000FF
+!!
++All Stats Max
+%Credits: InterAct
+$30DBE9A9 64DA55B5
+$30DCE9B7 64DA55B5
+$C5391383 64DA29E9
+$00010001 4CCC110F
++All Stats Super
+%Credits: InterAct
+$30DBE9A9 64DA28EA
+$30DCE9B7 64DA28EA
+$C5391383 64DA29E9
+$00010001 2363AAAA
++Always 1St Down
+%Credits: Code Master
+$104798D0 00000001
++Always 4Th Down
+%Credits: Code Master
+$104798D0 00000004
++Always Start On 2Nd Down
+%Credits: Code Master
+$D04798D0 00000001
+$104798D0 00000002
++Always Start On 3Rd Down
+%Credits: Code Master
+$D04798D0 00000001
+$104798D0 00000003
+!Awareness Codes:
++Awareness (IQ) Max
+%Credits: Codejunkies
+$00543C0B 00000064
++Awareness (IQ) Super
+%Credits: Codejunkies
+$00543C0B 000000FF
+!!
++Away Team Infnite Time Outs
+%Credits: InterAct
+$30AA4209 64DA29D6
++Away Team No Time Outs
+%Credits: InterAct
+$30AA4209 64DA29E9
++Away Team Score Modifier
+%Credits: Code Master
+$10479758 0000????
++Away Team Scores 0
+%Credits: InterAct
+$30AA4203 64DA29E9
++Away Team Scores 99
+%Credits: InterAct
+$30AA4203 64DA29B6
++Away Team Start With Score Modifier
+%Credits: Code Master
+$D0479758 00000000
+$10479758 0000????
+!Bench Codes:
++Bench Press Max
+%Credits: Codejunkies
+$00543C08 00000064
++Bench Press Super
+%Credits: Codejunkies
+$00543C08 000000FF
+!!
+!Broad Jump Codes:
++Broad Jump Max
+%Credits: Codejunkies
+$00543C07 00000064
++Broad Jump Super
+%Credits: Codejunkies
+$00543C07 000000FF
+!!
+!Character Creation Codes:
++Infinite Creation Points
+%Credits: Code Master
+$10543C0E 000003E7
++Max All Stats
+%Credits: Code Master
+$10543C02 00006464
+$40543C04 00020001
+$64646464 00000000
+$10543C0C 00006464
++Max Fly Pattern
+%Credits: Code Master
+$00543C0C 00000064
++Max Hook Route
+%Credits: Code Master
+$00543C0A 00000064
++Max Leg Squat
+%Credits: Code Master
+$00543C06 00000064
++Max Out Route
+%Credits: Code Master
+$00543C09 00000064
++Max Post Pattern
+%Credits: Code Master
+$00543C0D 00000064
++Max Shuttle
+%Credits: Code Master
+$00543C04 00000064
++Max Vertical Jump
+%Credits: Code Master
+$00543C05 00000064
+!!
+!Created Character Codes:
++Heavy Created Character
+%Credits: Codejunkies
+$105465AA 000003E7
+$105425D0 000003E7
++Light Created Character
+%Credits: Codejunkies
+$105465AA 00000130
+$105425D0 00000000
+!!
+!Fly Pattern Codes:
++Fly Pattern Super
+%Credits: Codejunkies
+$00543C0C 000000FF
+!!
++Heavy Created Character
+%Credits: InterAct
+$30DB1051 64DA3432
+$30DCD07B 64DA3432
++Home Team Infinite Time Outs
+%Credits: InterAct
+$30AA420B 64DA29D6
++Home Team No Time Outs
+%Credits: InterAct
+$30AA420B 64DA29E9
++Home Team Score Modifier
+%Credits: Code Master
+$10479750 0000????
++Home Team Scores 0
+%Credits: InterAct
+$30AA42FB 64DA29E9
++Home Team Scores 99
+%Credits: InterAct
+$30AA42FB 64DA29B6
++Home Team Start With Score Modifier
+%Credits: Code Master
+$D0479750 00000000
+$10479750 0000????
+!Hook Route Codes:
++Hook Route Super
+%Credits: Codejunkies
+$00543C0A 000000FF
+!!
++Infinite Time To Choose Your Play
+%Credits: Code Master
+$104798C4 00000028
+!Leg Squat Codes:
++Leg Squat Super
+%Credits: Codejunkies
+$00543C06 000000FF
+!!
++Light Created Character
+%Credits: InterAct
+$30DB1051 64DA2A99
+$30DCD07B 64DA29E9
+!Out Route Codes:
++Out Route Super
+%Credits: Codejunkies
+$00543C09 000000FF
+!!
++Out Route Max
+%Credits: InterAct
+$20DCE9B0 64DA29B5
++Out Route Super
+%Credits: InterAct
+$20DCE9B0 64DA29EA
++P1 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BC342
+$204798BC 00000000
+$104798C0 00000005
++P1 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BC342 0000FBFE
+$104798C4 00000001
++P1 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BC342 0000FEFE
+$104798D0 00000001
++P1 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BC342
+$204798BC 00000001
+$104798C0 00000000
++P1 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BC342 0000F7FE
+$104798C4 00000028
++P1 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BC342 0000FDFE
+$104798D0 00000004
++P2 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BC442
+$204798BC 00000000
+$104798C0 00000005
++P2 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BC442 0000FBFE
+$104798C4 00000001
++P2 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BC442 0000FEFE
+$104798D0 00000001
++P2 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BC442
+$204798BC 00000001
+$104798C0 00000000
++P2 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BC442 0000F7FE
+$104798C4 00000028
++P2 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BC442 0000FDFE
+$104798D0 00000004
++P3 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BC542
+$204798BC 00000000
+$104798C0 00000005
++P3 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BC542 0000FBFE
+$104798C4 00000001
++P3 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BC542 0000FEFE
+$104798D0 00000001
++P3 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BC542
+$204798BC 00000001
+$104798C0 00000000
++P3 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BC542 0000F7FE
+$104798C4 00000028
++P3 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BC542 0000FDFE
+$104798D0 00000004
++P4 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BC642
+$204798BC 00000000
+$104798C0 00000005
++P4 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BC642 0000FBFE
+$104798C4 00000001
++P4 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BC642 0000FEFE
+$104798D0 00000001
++P4 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BC642
+$204798BC 00000001
+$104798C0 00000000
++P4 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BC642 0000F7FE
+$104798C4 00000028
++P4 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BC642 0000FDFE
+$104798D0 00000004
++P5 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BC742
+$204798BC 00000000
+$104798C0 00000005
++P5 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BC742 0000FBFE
+$104798C4 00000001
++P5 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BC742 0000FEFE
+$104798D0 00000001
++P5 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BC742
+$204798BC 00000001
+$104798C0 00000000
++P5 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BC742 0000F7FE
+$104798C4 00000028
++P5 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BC742 0000FDFE
+$104798D0 00000004
++P6 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BC842
+$204798BC 00000000
+$104798C0 00000005
++P6 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BC842 0000FBFE
+$104798C4 00000001
++P6 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BC842 0000FEFE
+$104798D0 00000001
++P6 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BC842
+$204798BC 00000001
+$104798C0 00000000
++P6 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BC842 0000F7FE
+$104798C4 00000028
++P6 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BC842 0000FDFE
+$104798D0 00000004
++P7 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BC942
+$204798BC 00000000
+$104798C0 00000005
++P7 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BC942 0000FBFE
+$104798C4 00000001
++P7 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BC942 0000FEFE
+$104798D0 00000001
++P7 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BC942
+$204798BC 00000001
+$104798C0 00000000
++P7 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BC942 0000F7FE
+$104798C4 00000028
++P7 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BC942 0000FDFE
+$104798D0 00000004
++P8 Press L1+L2 For More Time
+%Credits: Code Master
+$E002FAFF 002BCA42
+$204798BC 00000000
+$104798C0 00000005
++P8 Press L1+Select For Very Low Time To Choose Your Play
+%Credits: Code Master
+$D02BCA42 0000FBFE
+$104798C4 00000001
++P8 Press L2+Select For 1St Down
+%Credits: Code Master
+$D02BCA42 0000FEFE
+$104798D0 00000001
++P8 Press R1+R2 To End Quarter
+%Credits: Code Master
+$E002F5FF 002BCA42
+$204798BC 00000001
+$104798C0 00000000
++P8 Press R1+Select For More Time To Choose Your Play
+%Credits: Code Master
+$D02BCA42 0000F7FE
+$104798C4 00000028
++P8 Press R2+Select For 4Th Down
+%Credits: Code Master
+$D02BCA42 0000FDFE
+$104798D0 00000004
+!Post Pattern Codes:
++All Statistics Max
+%Credits: Codejunkies
+$10543C02 00006464
+$10543C0C 00006464
+$40543C04 00020001
+$64646464 00000000
++All Statistics Super
+%Credits: Codejunkies
+$10543C02 0000FFFF
+$10543C0C 0000FFFF
+$40543C04 00020001
+$FFFFFFFF 00000000
++Post Pattern Super
+%Credits: Codejunkies
+$00543C0D 000000FF
+!!
++Post Pattern Max
+%Credits: InterAct
+$20DCE9B4 64DA29B5
++Post Pattern Super
+%Credits: InterAct
+$20DCE9B4 64DA29EA
++Press Select+R1 For 1St Down
+%Credits: InterAct
+$30B66E69 64DA30EF
+$20AB457B 64DA29D4
++Press Select+R2 For 4Th Down
+%Credits: InterAct
+$30B66E69 64DA3EEF
+$20AB457B 64DA29D5
+!Quarter Codes:
++Start On 2Nd Quarter
+%Credits: Codejunkies
+$D04798D2 00000000
+$104798D2 00000001
++Start On 3Rd Quarter
+%Credits: Codejunkies
+$D04798D2 00000000
+$104798D2 00000002
++Start On 4Th Quarter
+%Credits: Codejunkies
+$D04798D2 00000000
+$104798D2 00000003
+!!
+!Score Codes:
++Always Score 0
+%Credits: Codejunkies
+$10479750 00000000
++Always Score 0
+%Credits: Codejunkies
+$10479758 00000000
++Always Score 99
+%Credits: Codejunkies
+$10479750 00000063
++Always Score 99
+%Credits: Codejunkies
+$10479758 00000063
+!!
+!Shuttle Codes:
++Shuttle Super
+%Credits: Codejunkies
+$00543C04 000000FF
+!!
++Start On 2Nd Quarter
+%Credits: InterAct
+$F0AB4579 64DA29E9
+$30AA4579 64DA29D4
++Start On 3Rd Quarter
+%Credits: InterAct
+$F0AB4579 64DA29E9
+$30AA4579 64DA29DB
++Start On 4Th Quarter
+%Credits: InterAct
+$F0AB4579 64DA29E9
+$30AA4579 64DA29D6
+!Time Out Codes:
++Infinite Creation Points
+%Credits: Codejunkies
+$10543C0E 00000078
++Infinite Time Outs
+%Credits: Codejunkies
+$10479760 00000003
++Infinite Time Outs
+%Credits: Codejunkies
+$10479762 00000003
++Jump Back To The 1St Down (Press Select R1 To Activate)
+%Credits: Codejunkies
+$102BC3C2 0000F7FE
+$004798D0 00000001
++No Time Outs
+%Credits: Codejunkies
+$10479760 00000000
++No Time Outs
+%Credits: Codejunkies
+$10479762 00000000
++Skip To The 4Th Down (Press Select R2 To Activate)
+%Credits: Codejunkies
+$102BC3C2 0000FDFE
+$004798D0 00000004
+!!
+!Vertical Jump Codes:
++Vertical Jump Super
+%Credits: Codejunkies
+$00543C05 000000FF
+!!
++Vertical Jump Max
+%Credits: InterAct
+$20DCE9AC 64DA29B5
++Vertical Jump Super
+%Credits: InterAct
+$20DCE9AC 64DA29EA
+!!
+

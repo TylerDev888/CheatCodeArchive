@@ -1,0 +1,59 @@
+^1 = HASH: 90E92030
+^3 = NAME: Lupin The 3Rd-Treasure Of The Sorcerer King
+^2 = GameID: SLUS_206.83
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0024EFFF
+!!
+!Codes:
++Infinite Health
+%Credits: Code Master
+$2028C9F8 00000000
++Have All Items/Equips
+%Credits: Code Master
+$20161F78 24A20000
+$20161F7C 24440000
+$20161F98 24030001
+$20161FA0 00000000
+$20161FA4 A4430050
++Have Max All Items/Equips
+%Credits: Code Master
+$20161F78 24A20000
+$20161F7C 24440000
+$20161F98 24030063
+$20161FA0 00000000
+$20161FA4 A4430050
++Infinite Dummy Dolls
+%Credits: Code Master
+$20193508 00000000
++Extra Dummy Dolls
+%Credits: Code Master
+$10193500 00000001
++Infinite Ammo (Shot Shells & Sleep Cylinders)
+%Credits: Code Master
+$201B8848 00000000
++Extra Ammo (Shot Shells & Sleep Cylinders)
+%Credits: Code Master
+$101B883C 00000001
++Never Reload (Shot Shells & Sleep Cylinders)
+%Credits: Code Master
+$201B8824 00000000
++Never Reload (9Mm Parabellum & Golden Bullets)
+%Credits: Code Master
+$201B87CC 00000000
++Always Low Danger Meter
+%Credits: Code Master
+$2028E72C 00000000
+!!
+!Max Item Codes (Upon Pickup):
++First Aid Kit (Low Level)
+%Credits: Code Master
+$1028CB76 00000063
++Dummy Doll
+%Credits: Code Master
+$1028CB9A 00000063
++First Aid Kit (High Level)
+%Credits: Code Master
+$1028CC66 00000063
+!!

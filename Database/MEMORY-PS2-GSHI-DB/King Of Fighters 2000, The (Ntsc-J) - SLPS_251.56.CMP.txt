@@ -1,0 +1,14 @@
+^3 = NAME: King Of Fighters 2000, The (Ntsc-J)
+^2 = GameID: SLPS-25156
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: lee4
+$9010C3F8 0C0430A6
+!!
++Force Videout To 480I Instead Of 240P
+%Credits: lee4
+$2010026C 24110001
+$20100270 24120002
+$2010027C 24130001
+!!
+

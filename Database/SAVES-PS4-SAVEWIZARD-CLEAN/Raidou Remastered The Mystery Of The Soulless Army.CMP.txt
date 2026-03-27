@@ -1,0 +1,649 @@
+^2 = GameID: CUSA42359
+^3 = NAME: Raidou Remastered: The Mystery Of The Soulless Army
+^SECONDLAYER: NO
+^4 = FILE: raidou\SaveData
+!Demons And Items:{Demon Slot Order Matches In Games Order From Top To Bottom Including If Demon Is Equipped Or Not}
++Max Stats Demon In Party
+$6C410001 00000000
+$6C340001 00059EA3
+$92000000 [Slot]
+$18000014 000003E7
+$28000024 00280028
+$28000028 00280028
+$1800002C 000003E7
+$2800003C 00280028
+$28000040 00280028
++Change Demon In Party
+$6C410001 00000000
+$6C340001 00059EA3
+$92000000 [Slot]
+$28000003 [ID+Type]
++Change Demons Combat Skills In Party
+$6C410001 00000000
+$6C340001 00059EA3
+$92000000 [Slot]
+$180000BC 0000[Combat<Skill 1>]
+$180000CO 0000[Combat<Skill 2>]
+$180000C4 0000[Combat<Skill 3>]
+$180000C8 0000[Combat<Skill 4>]
+$180000CC 0000[Combat<Skill 5>]
+$180000DO 0000[Combat<Skill 6>]
+$180000D4 0000[Combat<Skill 7>]
+$180000D8 0000[Combat<Skill 8>]
++Change Demons Passive Skills In Party
+$6C410001 00000000
+$6C340001 00059EA3
+$92000000 [Slot]
+$18000197 0000[Passive<Skill 1>]
+$1800019B 0000[Passive<Skill 2>]
+$1800019F 0000[Passive<Skill 3>] 
+$180001A3 0000[Passive<Skill 4>]
+$180001A7 0000[Passive<Skill 5>]
+$180001A8 0000[Passive<Skill 6>]
++Change Demons Investigation Skills In Party
+$6C410001 00000000
+$6C340001 00059EA3
+$92000000 [Slot]
+$18000139 0000[Invest<Skill 1>]
+$1800013D 0000[Invest<Skill 2>]
+!Items:
++Add/Change Quantity Of Item
+$6C410001 00000000
+$6C340001 00059EA3
+$92000000 00002F08
+$[Item] 000000[Amount:63:HEX:BIG<Item Amount>]
+^6 = MODS:
+[Slot]
+Value>SLOT
+00003506	Slot 1
+00003ADA	Slot 2
+000040AE	Slot 3
+00004682	Slot 4
+00004C56	Slot 5
+0000522A	Slot 6
+000057FE	Slot 7
+00005DD2	Slot 8
+000063A6	Slot 9
+0000697A	Slot 10
+00006F4E	Slot 11
+00007522	Slot 12
+00007AF6	Slot 13
+000080CA	Slot 14
+0000869E	Slot 15
+00008C72	Slot 16
+00009246	Slot 17
+0000981A	Slot 18
+00009DEE	Slot 19
+0000A3C2	Slot 20
+0000A996	Slot 21
+0000AF6A	Slot 22
+0000B53E	Slot 23
+0000BB12	Slot 24
+0000C0E6	Slot 25
+0000C6BA	Slot 26
+0000CC8E	Slot 27
+0000D262	Slot 28
+0000D836	Slot 29
+0000DE0A	Slot 30
+[/Slot]
+[ID+Type]
+Value>ID>Type
+00010100	Jack-o'-Lantern	Pyro
+00020100	Oshichi	Pyro
+00030100	Gdon	Pyro
+00040100	Muspell	Pyro
+00050100	Sati	Pyro
+00060100	Throne	Pyro
+00070400	Hitokotonushi	Wind
+00080100	Belial	Pyro
+00090200	Jubokko	Frost
+000A0200	Azumi	Frost
+000B0200	Jack Frost	Frost
+000C0200	Tarrasque	Frost
+000D0100	Ukobach	Pyro
+000E0200	Arahabaki	Frost
+000F0200	Naga Raja	Frost
+00100200	Oyamatsumi	Frost
+00110200	Okuninushi	Frost
+00120200	Yamata-no-Orochi	Frost
+00130300	Raiju	Volt
+00140300	Oboroguruma	Volt
+00150300	Nue	Volt
+00160300	Tsuchigumo	Volt
+00170300	Oumitsunu	Volt
+00180300	Parvati	Volt
+00190300	Mishaguji	Volt
+001A0300	Thor	Volt
+001B0300	Agathion	Volt
+001C0400	Muu Shuwuu	Wind
+001D0400	Poltergeist	Wind
+001E0400	Feng Huang	Wind
+001F0400	Kurama Tengu	Wind
+00200400	Power	Wind
+00210700	Legion (Normal)	Skill
+00220400	Ichimokuren	Wind
+00230400	Anzu	Wind
+00240400	Sandalphon	Wind
+00250500	Obariyon	Fury
+00260500	Oni	Fury
+00270500	Turdak	Fury
+00280500	Lamia	Fury
+00290500	Yomotsu-Ikusa	Fury
+002A0500	Rakshasa	Fury
+002B0500	Triglav	Fury
+002C0500	Chernobog	Fury
+002D0100	Cerberus	Pyro
+002E0500	Shouten	Fury
+002F0500	Siegfried	Fury
+00300500	Susano-o	Fury
+00310600	Gashadokuro	Pagan
+00320600	Ghoul	Pagan
+00330600	Utai-Gaikotsu	Pagan
+00340600	Alp	Pagan
+00350600	Mokoi	Pagan
+00360600	Okiku-Mushi	Pagan
+00370600	Incubus	Pagan
+00380600	Lilith	Pagan
+00390600	Nebiros	Pagan
+003A0700	Beelzebub	Skill
+003B0700	Leanan Sidhe	Skill
+003C0700	Ippon-Datara	Skill
+003D0700	Thoth	Skill
+003E0700	Futsunushi	Skill
+003F0700	Nagasunehiko	Skill
+00400700	Scathach	Skill
+00410700	Kudan	Skill
+00420200	Raiho	Frost
+00430700	Nekomata	Skill
+00440700	Abihiko	Skill
+00450600	Alice	Pagan
+00460500	Yoshitsune	Fury
+00470100	Orthrus	Pyro
+00480700	Legion(Physical)	Skill
+00490700	Legion (Healing)	Skill
+004A0700	Legion(Magic)	Skill
+004B0700	Legion(Rare)	Skill
+01510800	Undine	Element
+01520800	Sylph	Element
+01530800	Aquans	Element
+01540800	Aeros	Element
+01550800	Flaemis	Element
+01560800	Erthys	Element
+01590900	Kushi Mitama	Mitama
+015A0900	Ara Mitama	Mitama
+015B0900	Nigi Mitama	Mitama
+015C0900	Saki Mitama	Mitama
+01610100	Enku	Pyro
+01620100	Asura	Pyro
+01630100	Onmoraki	Pyro
+01640100	Vritra	Pyro
+01650100	Hi-no-Kagutsuchi	Pyro
+01660200	Petra	Frost
+01670200	Mermaid	Frost
+01680200	Arioch	Frost
+01690200	Pabilsag	Frost
+016A0200	Qing Long	Frost
+016B0300	Cybele	Volt
+016C0300	Makami	Volt
+016D0300	Hayataro	Volt
+016E0300	Vishnu	Volt
+016F0300	Koropokkur	Volt
+01700400	Angel	Wind
+01710400	Turbo Granny	Wind
+01720400	Decarabia	Wind
+01730400	Archangel	Wind
+01740400	Dominion	Wind
+01750500	Neko Shogun	Fury
+01760500	Nezha	Fury
+01770500	Shiva	Fury
+01780500	Fenrir	Fury
+017A0600	Inugami	Pagan
+017B0600	Lilim	Pagan
+017C0600	Mara	Pagan
+017D0700	Arachne	Skill
+017E0200	Black Frost	Frost
+017F0700	Pixie	Skill
+01800700	Tam Lin	Skill
+01810700	Idun	Skill
+01820700	Belphegor	Skill
+01830700	Taotie	Skill
+01850100	Mada	Pyro
+01870200	Basilisk	Frost
+01890300	Nandi	Volt
+018A0300	Barong	Volt
+018B0400	Ophanim	Wind
+018C0400	Camael	Wind
+018D0600	Rangda	Pagan
+018E0600	Mot	Pagan
+01F00100	Fionn Mac Cumhaill (DLC)	Pyro
+01F10200	Artemis (DLC)	Frost
+01F20300	Zeus (DLC)	Volt
+01F30400	Huang Long (DLC)	Wind
+01F40500	Gozuki (DLC)	Fury
+01F50500	Mezuki (DLC)	Fury
+[/ID+Type]
+[Combat]
+Value>Combat Skill
+0001	Agi
+0002	Agidyne
+0003	Maragi
+0004	Maragidyne
+0005	Blaze
+0006	Hellfire
+0007	Fire Breath
+0010	Bufu
+0011	Bufudyne
+0012	Mabufu
+0013	Mabufudyne
+0014	Frostbite
+0015	Cocytus
+0016	Glacial Blast
+0020	Zio
+0021	Ziodyne
+0022	Mazio
+0023	Maziodyne
+0024	Spark
+0025	Bolt Storm
+0026	Shock Wave
+0030	Zan
+0031	Zandyne
+0032	Mazan
+0033	Mazandyne
+0034	Flurry
+0035	Tempest
+0036	Wind Cutter
+0050	Mudo
+0051	Mamudo
+0052	Mamudoon
+0060	Marin Karin
+0061	Dormina
+0062	Pulinpa
+0063	Makajam
+0064	Petra
+0070	Dia
+0071	Diarama
+0072	Diarahan
+0073	Media
+0074	Patra
+0075	Dia Aura
+0076	Recarm
+0077	Samarecarm
+0078	State of Bliss
+0079	Mediarama
+0080	Tarukaja
+0081	Marakaja
+0082	Rakukaja
+0083	War Cry
+0084	Makara Aura
+0085	Tetra Aura
+0086	Dekaja
+0097	Mighty Blow
+0098	Frenzy
+0099	Berserker
+009A	Venomstrike
+009B	Winged Fury
+00B0	Normal Bullet
+0211	Agirati
+0221	Bufurati
+0231	Ziorati
+0241	Zanrati
+0292	Tarukajaon
+0293	Kakakajaon
+0294	Rakukajaon
+0295	Tetrakarn
+0000	Nothing
+[/Combat]
+[Passive]
+Value>Passive Skill
+00F0	Retribution
+00F5	Endure
+00F6	Fast Escape
+00F7	Money Find
+00F8	Item Find
+00FA	Devotion
+00FB	Life Bonus
+00FC	Life Gain
+00FD	Life Surge
+00FE	Mana Bonus
+00FF	Mana Gain
+0100	Mana Surge
+0101	Hero's Might
+0102	Mage's Craft
+0103	Fire Boost
+0104	Ice Boost
+0105	Elec Boos
+0106	Force Boost
+0107	Heal Boost
+0108	Mind Boost
+0109	Resist Fire
+010A	Resist Ice
+010B	Resist Elec
+010C	Resist Force
+010D	Resisst Phys
+010E	Halve Death
+010F	Halve Mind
+0329	Strength Chakra
+032A	Magic Chakra
+032B	Halve Death
+032C	Halve Mind
+032D	Vitality Chakra
+032E	Luck Chakra
+032F	Magic Boost
+0330	Sink or Swim
+0333	Halve Mortal
+0334	Null Mortal
+0336	Death Boost
+033C	Vengeance Seal
+033E	Whimsical Aid
+033F	Loose Change
+0340	Gold Rush
+0341	Scavenger
+0347	Agni's Blessing
+034B	Skill Extension
+034D	Spirit Drain
+034E	Unrelenting Focus
+0352	Adoration
+0356	Exp Boost
+035C	Growth
+035D	Lucky Capote
+03C9	Destructive Joy
+0414	Resist Phys
+0419	Resist Ice/Force
+041A	Resist Fire/Elec
+041B	Resist Mind/Death
+043C	Reincarnation
+0565	Inspiring Flash
+0000	Nothing
+[/Passive]
+[Invest]
+Value>Investigation Skill
+0581	Ignite
+0582	Cooldown
+0583	Inspect
+0584	Scout
+0585	Use Force
+0586	Read Mind
+0587	Demonstrate
+0588	Fly
+0589	Sneak
+058A	Allure
+058B	Loose Change
+058C	Scavenger
+058D	Provoke
+058E	Intimidate
+0000	Nothing
+[/Invest]
+[Item]
+Value>Item Name>Type
+18000000	Medicine	Curatives
+18000002	Ox Bezoar	Curatives
+18000004	Life Stone	Curatives
+18000006	Muscle Drink	Curatives
+18000008	Bead	Curatives
+1800000A	Bead of Life	Curatives
+1800000C	Chakra Chip	Curatives
+1800000E	Chakra Drop	Curatives
+18000010	Survival Erudition	Curatives
+18000016	Soma	Curatives
+18000018	Anti-Poison	Curatives
+1800001A	Anti-Mute	Curatives
+1800001C	Anti-Stone	Curatives
+1800001E	Anti-Mind	Curatives
+18000020	Jin Dan	Curatives
+18000022	Balm of Life	Curatives
+18000024	St Incense	Stat Items
+18000026	Ma Incense	Stat Items
+18000028	Vi Incense	Stat Items
+1800002A	Lu Incense	Stat Items
+1800002C	Mansaku Sake	Stat Items
+1800002E	Homura Sake	Stat Items
+18000030	Fubuki Sake	Stat Items
+18000032	Raiden Sake	Stat Items
+18000034	Arashi Sake	Stat Items
+18000036	Gouriki Sake	Stat Items
+18000038	Yamiyo Sake	Stat Items
+1800003A	Takumi Sake	Stat Items
+1800003C	Shishiou Sake	Stat Items
+1800003E	Kotetsu Sake	Stat Items
+18000042	Attract Water	Dungeon Items
+18000044	Repulse Water	Dungeon Items
+18000046	Foxtail	Dungeon Items
+1800004A	Smoke Ball	Dungeon Items
+1800004C	Purity Charm	Dungeon Items
+1800007E	Wood Ornament	Treasures
+18000080	Asuka Mirror	Treasures
+18000082	Rakuyou Chalice	Treasures
+18000084	Javanese Figure	Treasures
+18000086	Roman Coin	Treasures
+18000088	Persian Vase	Treasures
+1800008A	Theban Jar	Treasures
+1800008C	Cretan Goddess	Treasures
+1800008E	Babylon Tablet	Treasures
+18000090	Giza Mask	Treasures
+18000092	Stag Beetle	Treasures
+18000094	Beetle	Treasures
+18000096	Dainty Snack	Treasures
+18000098	Twig	Treasures
+1800009A	Old Underwear	Treasures
+180000FE	Valhalla Soda	Drinks
+18000100	Magical Soda	Drinks
+18000102	Muscle Soda	Drinks
+18000104	Miracle Soda	Drinks
+18000106	Doctor Soda	Drinks
+18000108	Dragon Soda	Drinks
+1800010A	Mandra Soda	Drinks
+1800010C	Valhalla Nectar	Drinks
+1800010E	Magical Nectar	Drinks
+18000110	Muscle Nectar	Drinks
+18000112	Miracle Nectar	Drinks
+18000114	Elixir Pop	Drinks
+18000116	Midas Pop	Drinks
+18000118	Harvest Pop	Drinks
+1800011A	Deus Pop	Drinks
+1800011E	Zero	Sword
+18000120	Renki	Sword
+18000122	Himezuru	Sword
+18000124	Bizen-Osafune	Sword
+18000126	Type 32 Gunto	Sword
+18000128	Kanesada	Sword
+1800012A	Kotetsu	Sword
+1800012C	Nagamitsu	Sword
+1800012E	Kogarasumaru	Sword
+18000130	Muramasa	Sword
+18000132	Kiyotsune	Sword
+18000134	Kogitsune	Sword
+18000136	Kogitsune Kage	Sword
+18000138	Masamune	Sword
+1800013A	Usumidori	Sword
+1800013C	Nagamichi	Sword
+1800013E	Shishiou	Sword
+18000140	Raikiri	Sword
+18000142	Plasma Sword	Sword
+18000144	Kanshou	Sword
+18000146	Bakuya	Sword
+18000148	Doujigiri	Sword
+1800014A	Seimitsu	Sword
+1800014C	Sol Blade	Sword
+1800014E	Luna Blade	Sword
+18000150	Gae Bolg	Sword
+18000152	Kusanagi	Sword
+18000154	Onigiri	Sword
+18000156	Kurikara	Sword
+18000158	Ameno-Ohabari	Sword
+1800015A	Vanargand	Sword
+1800015C	Balmung	Sword
+1800015E	Futsu Mitama	Sword
+18000160	Trishula	Sword
+18000162	Murakumo	Sword
+18000164	Kikouseiken	Sword
+18000166	Totsuka	Sword
+18000168	Mjolnir	Sword
+1800016A	Tsukikage	Sword
+1800016C	Kagutsuchi	Sword
+1800016E	Youkou Haken	Sword
+18000176	Shichishitou	Sword
+18000178	Tentei Sword	Sword
+1800017A	Laevateinn	Sword
+1800017C	Ameno-Nuboko	Sword
+18000182	Mitsurugi	Sword
+18000184	Longinus	Sword
+18000186	Fujimasa	Sword
+1800021E	Pyro Steel	Materials
+18000220	Pyro Bronze	Materials
+18000222	Pyro Silver	Materials
+18000224	Pyro Gold	Materials
+1800022C	Frost Steel	Materials
+1800022E	Frost Bronze	Materials
+18000230	Frost Silver	Materials
+18000232	Frost Gold	Materials
+1800023A	Volt Steel	Materials
+1800023C	Volt Bronze	Materials
+1800023E	Volt Silver	Materials
+18000240	Volt Gold	Materials
+18000248	Wind Steel	Materials
+1800024A	Wind Bronze	Materials
+1800024C	Wind Silver	Materials
+1800024E	Wind Gold	Materials
+18000256	Fury Steel	Materials
+18000258	Fury Bronze	Materials
+1800025A	Fury Silver	Materials
+1800025C	Fury Gold	Materials
+18000264	Pagan Steel	Materials
+18000266	Pagan Bronze	Materials
+18000268	Pagan Silver	Materials
+1800026A	Pagan Gold	Materials
+1800026C	Amulet	Materials
+18000272	Skill Steel	Materials
+18000274	Skill Bronze	Materials
+18000276	Skill Silver	Materials
+18000278	Skill Gold	Materials
+18000280	Plastic	Materials
+18000282	Element #115	Materials
+18000284	Moon Chip	Materials
+18000286	Homusubi Crystal	Materials
+18000288	Light Steel	Materials
+1800028A	Shadow Magatama	Materials
+1800028C	Victory Crown	Materials
+1800028E	Strife Blade	Materials
+18000290	Aletia	Materials
+18000292	Sessho-Seki	Materials
+18000294	Onogo Ore	Materials
+18000296	Mirror of Sun	Materials
+1800029C	Hunger Scale	Materials
+1800029E	Mortal Seal	Materials
+180002A0	Pentagram	Materials
+180003FE	Book of Agi	Books
+18000400	Book of Agidyne	Books
+18000402	Book of Maragi	Books
+18000404	Book of Maragidyne	Books
+18000406	Book of Blaze	Books
+18000408	Book of Hellfire	Books
+1800040A	Book of Fire Breath	Books
+1800040C	Book of Agirati	Books
+18000418	Book of Bufu	Books
+1800041A	Book of Bufudyne	Books
+1800041C	Book of Mabufu	Books
+1800041E	Book of Mabufudyne	Books
+18000420	Book of Cocytus	Books
+18000422	Book of Glacial Blast	Books
+18000424	Book of Frostbite	Books
+18000426	Book of Bufurati	Books
+18000432	Book of Zio	Books
+18000434	Book of Ziodyne	Books
+18000436	Book of Mazio	Books
+18000438	Book of Maziodyne	Books
+1800043A	Book of Spark	Books
+1800043C	Book of Bolt Storm	Books
+1800043E	Book of Shock Wave	Books
+18000440	Book of Ziorati	Books
+1800044C	Book of Zan	Books
+1800044E	Book of Zandyne	Books
+18000450	Book of Mazan	Books
+18000452	Book of Mazandyne	Books
+18000454	Book of Tempest	Books
+18000456	Book of Wind Cutter	Books
+18000458	Book of Flurry	Books
+1800045A	Book of Zanrati	Books
+18000466	Book of Mudo	Books
+18000468	Book of Mamudo	Books
+1800046A	Book of Mamudoon	Books
+18000476	Book of Marin Karin	Books
+18000478	Book of Dormina	Books
+1800047A	Book of Pulinpa	Books
+1800047C	Book of Makajam	Books
+1800047E	Book of Petra	Books
+1800048A	Book of Combo	Books
+1800048C	Book of Venomstrike	Books
+1800048E	Book of Winged Fury	Books
+18000490	Book of Berserker	Books
+18000492	Book of Frenzy	Books
+18000494	Book of Mighty Blow	Books
+18000496	Book of Mad Rush	Books
+180004A0	Book of Dia	Books
+180004A2	Book of Diarama	Books
+180004A4	Book of Diarahan	Books
+180004A6	Book of Media	Books
+180004A8	Book of Patra	Books
+180004AA	Book of Dia Aura	Books
+180004AC	Book of Recarm	Books
+180004AE	Book of Samarecarm	Books
+180004B0	Book of State of Bliss	Books
+180004BC	Book of Tarukaja	Books
+180004BE	Book of Makakaja	Books
+180004C0	Book of Rakukaja	Books
+180004C2	Book of War Cry	Books
+180004C4	Book of Makara Aura	Books
+180004C6	Book of Tetra Aura	Books
+180004C8	Book of Tarukajaon	Books
+180004CA	Book of Makakajaon	Books
+180004CC	Book of Rakukajaon	Books
+180004CE	Book of Dekaja	Books
+180004D0	Book of Tetrakarn	Books
+18000570	Book of Life Bonus	Books
+18000572	Book of Life Gain	Books
+18000574	Book of Life Surge	Books
+18000576	Book of Fire Boost	Books
+18000578	Book of Ice Boost	Books
+1800057A	Book of Elec Boost	Books
+1800057C	Book of Force Boost	Books
+1800057E	Book of Heal Boost	Books
+18000580	Book of Magic Boost	Books
+18000582	Book of Mind Boost	Books
+18000584	Book of Resist Fire	Books
+18000586	Book of Resist Ice	Books
+18000588	Book of Resist Elec	Books
+1800058A	Book of Resist Force	Books
+1800058C	Book of Resist Phys	Books
+1800058E	Book of Halve Death	Books
+18000590	Book of Halve Mind	Books
+18000592	Book of Halve Mortal	Books
+18000594	Book of Null Mortal	Books
+18000596	Book of Strength Chakra	Books
+18000598	Book of Magic Chakra	Books
+1800059A	Book of Vitality Chakra	Books
+1800059C	Book of Luck Chakra	Books
+1800059E	Book of Agni's Blessing	Books
+180005A0	Book of Spirit Drain	Books
+180005A2	Book of Retribution	Books
+180005A4	Book of Skill Extension	Books
+180005A6	Book of Sink or Swim	Books
+180005A8	Book of Unrelenting Focus	Books
+180005AC	Book of Endure	Books
+180005AE	Book of Vengeance Seal	Books
+180005B0	Book of Fast Escape	Books
+180005B2	Book of Exp Boost	Books
+180005B4	Book of Growth	Books
+180005B8	Book of Whimsical Aid	Books
+180005BA	Book of Loose Change	Books
+180005BC	Book of Scavenger	Books
+180005BE	Book of Lucky Capote	Books
+180005C0	Book of Hero's Might	Books
+180005C2	Book of Mage's Craft	Books
+180005C4	Book of Destructive Joy	Books
+180005C6	Book of Money Find	Books
+180005C8	Book of Item Find	Books
+180005CA	Book of Devotion	Books
+180005DE	Thin Grimoire	Stat Items
+180005E0	Thick Grimoire	Stat Items
+180005EE	Raidou Glasses	Misc
+[/Item]

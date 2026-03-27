@@ -1,0 +1,21 @@
+^2 = GameID: BLES01851
+^3 = NAME: XCOM: Enemy Within
+^4 = FILE: PAYLOAD
++Decompress Save (required)
+$Decompress(*, 15)
++Compress Save (required)
+$Compress(*)
+^4 = FILE: BLES01851-SAVE1\PAYLOAD
++Update Crc32big For Save Payload (required)
+(set range:0x400,0x0172EC)
+$set pointer:eof+1
+$set range:0x400,pointer
+$set [hash]:CRC32Big
+$write at 0x0000C1:[hash]
+^4 = FILE: BLES01851-PROFILE\PAYLOAD
++Update Sha1 For Profile Payload (required)
+(set range:0x000014,0x00070F)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

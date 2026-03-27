@@ -1,0 +1,120 @@
+^3 = NAME: Batman Begins (Ntsc-U)
+^2 = GameID: SLUS-21198
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F037588C 0037588F
++Enable Code (Must Be On)
+%Credits: Code Master>Sage
+$90375930 0C0E161B
+!!
+!Game Speed Modifier Codes:
++P1 Press L1+Down For Hyper Game Speed
+%Credits: Code Master>Sage
+$D0448642 0000FBBF
+$2040E114 3F800000
++P1 Press L1+L2 For Normal Game Speed
+%Credits: Code Master>Sage
+$D0448642 0000FAFF
+$2040E114 3F800000
++P1 Press L1+Left For Slow Game Speed
+%Credits: Code Master>Sage
+$D0448642 0000FB7F
+$2040E114 3F000000
++P1 Press L1+Right For Super Slow Game Speed
+%Credits: Code Master>Sage
+$D0448642 0000FBDF
+$2040E114 3E800000
++P1 Press L1+Up For Super Game Speed
+%Credits: Code Master>Sage
+$D0448642 0000FBEF
+$2040E114 3F800000
+!!
++Have 1-Hit Kills
+%Credits: MadCatz
+$201F55B0 00421023
++Infinite Armor
+%Credits: Codejunkies
+$202690E0 00000000
++Infinite Grenades
+%Credits: MadCatz
+$2013844C 24020063
++Infinite Health
+%Credits: MadCatz
+$201483FC 00000000
++Infinite Reputation
+%Credits: MadCatz
+$200C2000 3C0142C8
+$200C2004 44816000
+$200C2008 03E00008
+$200C200C E68C0528
+$2014EEB4 0C030800
++Low Game Time
+%Credits: Codejunkies
+$2040B1F4 42C80000
++Low Game Time-Batmobile Levels
+%Credits: Codejunkies
+$2040BF00 41584FF0
++Max Area Fear
+%Credits: MadCatz
+$20202774 3C0142C8
+$20202784 44816000
++Max Area Fear
+%Credits: Codejunkies
+$204092A0 42C80000
+!MISC:
++1-Hit Deaths (Enemies)
+%Credits: Code Master>Sage
+$201F55B4 A0800008
++Always Low Game Time
+%Credits: Code Master>Sage
+$2040B1F4 00000000
+$2040BF00 00000000
++Extra Gadgets
+%Credits: Code Master>Sage
+$2013844C 00D11021
++Infinite Armor
+%Credits: Code Master>Sage
+$90D756B3 43DF12FE
++Infinite Double Jumps
+%Credits: Code Master>Sage
+$203BB554 001570E4
++Infinite Gadgets
+%Credits: Code Master>Sage
+$20138450 00000000
++Infinite Health
+%Credits: Code Master>Sage
+$2015ABD8 8E040BAC
+$2015ABDC AE040BA8
++Max Area Fear
+%Credits: Code Master>Sage
+$F028E1A1 1550A942
++Max Infinite Gadgets
+%Credits: Code Master>Sage
+$2013844C 240203E7
++Max Reputation
+%Credits: Code Master>Sage
+$20120A58 3C0142C8
+$20120A5C AC610528
+!!
+!Silly Stuff:
++Fast Speed
+%Credits: Codejunkies
+$2040E114 40000000
++Normal Speed
+%Credits: Codejunkies
+$2040E114 3F800000
++Slo-Mo
+%Credits: Codejunkies
+$2040E114 3F000000
++Trippy Mode
+%Credits: Codejunkies
+$2040E138 00000001
+$2040E13C 3F400000
++Vision Never Blurry
+%Credits: Codejunkies
+$2040E138 00000000
+$2040E13C 00000000
+!!
+!!
+

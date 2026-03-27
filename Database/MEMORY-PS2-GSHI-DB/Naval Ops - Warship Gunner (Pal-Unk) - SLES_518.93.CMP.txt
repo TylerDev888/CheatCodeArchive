@@ -1,0 +1,29 @@
+^3 = NAME: Naval Ops - Warship Gunner (Pal-Unk)
+^2 = GameID: SLES-51893
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0163820 00163823
+!!
++Infinite Ammo
+%Credits: Codejunkies
+$20316CFC 00000000
++Infinite Repair Points {<I>Hull Damage Takes A While To Fix When Using With The &Quot;No Hull Damage&Quot; Above..</I>}
+%Credits: Codejunkies
+$202CA2B4 00000000
++Instant Reload
+%Credits: Codejunkies
+$20329980 2412270F
+$20329984 A612000E
++No Hull Damage
+%Credits: Codejunkies
+$20297880 0803FFC0
+$200FFF00 2412270F
+$200FFF04 AC520054
+$200FFF08 080A5E22
++Upgrade 1 Tech/Purchase 1 Item For Lots Of Budget
+%Credits: Codejunkies
+$20275128 3C0505F5
+$20275134 3C0505F5
+!!
+

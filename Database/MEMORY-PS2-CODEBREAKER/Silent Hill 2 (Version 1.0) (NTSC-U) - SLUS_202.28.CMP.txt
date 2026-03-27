@@ -1,0 +1,101 @@
+^1 = HASH: 8E8E384B
+^3 = NAME: Silent Hill 2 (Version 1.0)
+^2 = GameID: SLUS_202.28
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master>Floydfan
+$F0100008 002100AF
+!!
+!With this game, if these codes dont work, Try These!:
++Infinite Health
+%Credits: Code Master>Floydfan
+$203E7174 42C80000
+$203E717C 42C80000
++Invincible (Can't Be Hit)
+%Credits: Code Master>Floydfan
+$103E7180 000042C8
++Infinite Run (Never Exhausted)
+%Credits: Code Master>Floydfan
+$2111EF8C 42C80000
++Infinite Ammo
+%Credits: Code Master>Floydfan
+$201B4C9C 00000000
++Extra Ammo
+%Credits: Code Master>Floydfan
+$101B4C98 00000001
++No Saves Recorded
+%Credits: Code Master>Floydfan
+$01224BFA 00000000
++Have All Items
+%Credits: Code Master>Floydfan
+$2111EF60 FFFDF3FE
+$2111EF64 FFFFFFFF
+$2111EF68 00007FFF
+!!
+!Max Item Codes:
++Health Drinks
+%Credits: Code Master>Floydfan
+$1111EF6E 000003E7
++First Aid Kits
+%Credits: Code Master>Floydfan
+$1111EF70 000003E7
++Ampoules
+%Credits: Code Master>Floydfan
+$1111EF72 000003E7
++Handgun
+%Credits: Code Master>Floydfan
+$1111EF74 000003E7
++Handgun Bullets
+%Credits: Code Master>Floydfan
+$1111EF76 000003E7
++Shotgun
+%Credits: Code Master>Floydfan
+$1111EF78 000003E7
++Shotgun Shells
+%Credits: Code Master>Floydfan
+$1111EF7A 000003E7
++Hunting Rifle
+%Credits: Code Master>Floydfan
+$1111EF7C 000003E7
++Rifle Shells
+%Credits: Code Master>Floydfan
+$1111EF7E 000003E7
+!!
+!Ranking Screen Codes:
++Hella Items
+%Credits: Code Master>Floydfan
+$11224BFE 0000270F
++No Items
+%Credits: Code Master>Floydfan
+$11224BFE 00000000
++Hella Enemies Defeated By Shooting
+%Credits: Code Master>Floydfan
+$11224C00 0000270F
++NO Enemies Defeated By Shooting
+%Credits: Code Master>Floydfan
+$11224C00 00000000
++Hella Enemies Defeated By Fighting
+%Credits: Code Master>Floydfan
+$11224C02 0000270F
++No Enemies Defeated By Fighting
+%Credits: Code Master>Floydfan
+$11224C02 00000000
++Always Low Total Time
+%Credits: Code Master>Floydfan
+$21224C04 00000000
++Always Low Walking Distance
+%Credits: Code Master>Floydfan
+$21224C08 00000000
++Always Low Running Distance
+%Credits: Code Master>Floydfan
+$21224C0C 00000000
++Always Low Boat Stage Time
+%Credits: Code Master>Floydfan
+$21224C10 00000000
++Hella Boat Max Speed
+%Credits: Code Master>Floydfan
+$21224C14 447A0000
++Always Low Total Damage
+%Credits: Code Master>Floydfan
+$21224C18 00000000
+!!

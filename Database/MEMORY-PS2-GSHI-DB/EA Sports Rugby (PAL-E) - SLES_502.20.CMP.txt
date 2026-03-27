@@ -1,0 +1,75 @@
+^3 = NAME: EA Sports Rugby (PAL-E)
+^2 = GameID: SLES-50220
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0336278 0012B967
++(M) Must Be On
+%Credits: Codejunkies
+$F033638C 0033638F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0012B967
+!!
++Away Team Score Modifier
+%Credits: Code Master
+$10537D78 0000????
++End Half (Press [L2] & [DOWN])
+%Credits: MadCatz
+$D040CB82 0000FEBF
+$10417036 000043B2
++Extra Time (Press [L2] & [UP])
+%Credits: MadCatz
+$D040CB82 0000FEEF
+$10417036 00000000
++Home Team Score Modifier
+%Credits: Code Master
+$10537A2C 0000????
+!Position 1 Score Codes:
++Score 0
+%Credits: Codejunkies
+$00537A2C 00000000
++Score 200
+%Credits: Codejunkies
+$00537A2C 000000C8
+!!
+!Position 2 Score Codes:
++Score 0
+%Credits: Codejunkies
+$00537D78 00000000
++Score 200
+%Credits: Codejunkies
+$00537D78 000000C8
+!!
++Press L1+L2 For More Time
+%Credits: Code Master
+$D040CB82 0000FAFF
+$20417034 00000000
++Press R1+R2 To End Half
+%Credits: Code Master
+$D040CB82 0000F5FF
+$20417034 43B40000
+!Team A - Only Use One Of The Following!:
++Scores 99 Goals
+%Credits: MadCatz
+$00537A2C 00000063
+!!
++Team A Scores 0
+%Credits: InterAct
+$10537A2C 00000000
++Team A Scores 99
+%Credits: InterAct
+$10537A2C 00000063
+!Team B - Only Use One Of The Following!:
++Scores 99 Goals
+%Credits: MadCatz
+$00537D78 00000063
+!!
++Team B Scores 0
+%Credits: InterAct
+$10537D78 00000000
++Team B Scores 99
+%Credits: InterAct
+$10537D78 00000063
+!!
+

@@ -1,0 +1,49 @@
+^3 = NAME: Operation Winback (Pal-Unk)
+^2 = GameID: SLES-50155
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0237AB8 0025554F
++(M) Must Be On
+%Credits: Codejunkies
+$F025554C 0025554F
+!!
+!Health Codes:
++All Characters Open
+%Credits: Codejunkies
+$103825BC 0000FFFF
+$103825BE 0000000F
++Infinite Health
+%Credits: Codejunkies
+$002D4DB9 00000064
++Never More Than 25% Health
+%Credits: Codejunkies
+$E1010019 302D4DB9
+$002D4DB9 00000019
++Never More Than 50% Health
+%Credits: Codejunkies
+$E1010032 302D4DB9
+$002D4DB9 00000032
++Never More Than 75% Health
+%Credits: Codejunkies
+$E101004B 302D4DB9
+$002D4DB9 0000004B
++No Reload Pistol
+%Credits: Codejunkies
+$002D4DB5 0000000F
++No Reload R Launcher
+%Credits: Codejunkies
+$003486BB 00000004
+$002D4DAF 00000004
++No Reload S Pistol
+%Credits: Codejunkies
+$003486B4 0000000A
++No Reload Shotgun
+%Credits: Codejunkies
+$002D4DB1 0000000A
++No Reload Smg
+%Credits: Codejunkies
+$002D4D9B 00000032
+!!
+!!
+

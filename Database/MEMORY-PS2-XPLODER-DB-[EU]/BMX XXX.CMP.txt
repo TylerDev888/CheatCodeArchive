@@ -1,0 +1,745 @@
+^3 = NAME: BMX XXX
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 0022A777
+!!
+!Other:
++Maximum Score
+%Credits: Xploder
+$200C0000 3C054B18
+$200C0004 34A5967F
+$200C0008 44850000
+$200C000C E6400000
+$200C0010 0806C383
+$200C0014 03A0282D
+$201B0E04 08030000
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$2018ADE4 00000000
++Time
+%Credits: Xploder
+$201AD3F8 00000000
+!!
+!Unlock Movie:
++All
+%Credits: Xploder
+$4027AAE8 00120001
+$00000001 00000000
++The Bronx, NYC - 1
+%Credits: Xploder
+$2027AAEC 00000001
++The Bronx, NYC - 2
+%Credits: Xploder
+$2027AAF0 00000001
++The Bronx, NYC - 3
+%Credits: Xploder
+$2027AAE8 00000001
++The Dam - 1
+%Credits: Xploder
+$2027AAF4 00000001
++The Dam - 2
+%Credits: Xploder
+$2027AAF8 00000001
++Rampage Skatepark - 2
+%Credits: Xploder
+$2027AB00 00000001
++Sheep Hills - 1
+%Credits: Xploder
+$2027AB04 00000001
++Sheep Hills - 2
+%Credits: Xploder
+$2027AB08 00000001
++Syracuse - 1
+%Credits: Xploder
+$2027AB0C 00000001
++Syracuse - 2
+%Credits: Xploder
+$2027AB10 00000001
++UGP Roots Jam - 2
+%Credits: Xploder
+$2027AB18 00000001
++Las Vegas - 1
+%Credits: Xploder
+$2027AB1C 00000001
++Las Vegas - 2
+%Credits: Xploder
+$2027AB20 00000001
++Launch Pad 69 - 1
+%Credits: Xploder
+$2027AB24 00000001
++Launch Pad 69 - 2
+%Credits: Xploder
+$2027AB28 00000001
++Final Movie
+%Credits: Xploder
+$2027AB2C 00000001
++Bonus Movie - 1
+%Credits: Xploder
+$2027AAFC 00000001
++Bonus Movie - 2
+%Credits: Xploder
+$2027AB14 00000001
+!!
+!Twan Has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$00259333 00000014
++The Dam
+%Credits: Xploder
+$00259539 00000014
++Sheep Hills
+%Credits: Xploder
+$0025973F 00000014
++Syracuse
+%Credits: Xploder
+$00259945 00000014
++Las Vegas
+%Credits: Xploder
+$00259B4B 00000014
++Launch Pad 69
+%Credits: Xploder
+$00259D51 00000014
+!!
+!Mika has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$0025B327 00000014
++The Dam
+%Credits: Xploder
+$0025B52D 00000014
++Sheep Hills
+%Credits: Xploder
+$0025B733 00000014
++Syracuse
+%Credits: Xploder
+$0025B939 00000014
++Las Vegas
+%Credits: Xploder
+$0025BB3F 00000014
++Launch Pad 69
+%Credits: Xploder
+$0025BD45 00000014
+!!
+!Rave Has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$0025D31B 00000014
++The Dam
+%Credits: Xploder
+$0025D521 00000014
++Sheep Hills
+%Credits: Xploder
+$0025D727 00000014
++Syracuse
+%Credits: Xploder
+$0025D92D 00000014
++Las Vegas
+%Credits: Xploder
+$0025DB33 00000014
++Launch Pad 69
+%Credits: Xploder
+$0025DD39 00000014
+!!
+!Latey Has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$0025F30F 00000014
++The Dam
+%Credits: Xploder
+$0025F515 00000014
++Sheep Hills
+%Credits: Xploder
+$0025F71B 00000014
++Syracuse
+%Credits: Xploder
+$0025F921 00000014
++Las Vegas
+%Credits: Xploder
+$0025FB27 00000014
++Launch Pad 69
+%Credits: Xploder
+$0025FD2D 00000014
+!!
+!Itchi has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$00261303 00000014
++The Dam
+%Credits: Xploder
+$00261509 00000014
++Sheep Hills
+%Credits: Xploder
+$0026170F 00000014
++Syracuse
+%Credits: Xploder
+$00261915 00000014
++Las Vegas
+%Credits: Xploder
+$00261B1B 00000014
++Launch Pad 69
+%Credits: Xploder
+$00261D21 00000014
+!!
+!Karma Has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$002632F7 00000014
++The Dam
+%Credits: Xploder
+$002634FD 00000014
++Sheep Hills
+%Credits: Xploder
+$00263703 00000014
++Syracuse
+%Credits: Xploder
+$00263909 00000014
++Las Vegas
+%Credits: Xploder
+$00263B0F 00000014
++Launch Pad 69
+%Credits: Xploder
+$00263D15 00000014
+!!
+!Manuel Has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$002652EB 00000014
++The Dam
+%Credits: Xploder
+$002654F1 00000014
++Sheep Hills
+%Credits: Xploder
+$002656F7 00000014
++Syracuse
+%Credits: Xploder
+$002658FD 00000014
++Las Vegas
+%Credits: Xploder
+$00265B03 00000014
++Launch Pad 69
+%Credits: Xploder
+$00265D09 00000014
+!!
+!Hellkitty Has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$002672DF 00000014
++The Dam
+%Credits: Xploder
+$002674E5 00000014
++Sheep Hills
+%Credits: Xploder
+$002676EB 00000014
++Syracuse
+%Credits: Xploder
+$002678F1 00000014
++Las Vegas
+%Credits: Xploder
+$00267AF7 00000014
++Launch Pad 69
+%Credits: Xploder
+$00267CFD 00000014
+!!
+!Tripledub Has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$002692D3 00000014
++The Dam
+%Credits: Xploder
+$002694D9 00000014
++Sheep Hills
+%Credits: Xploder
+$002696DF 00000014
++Syracuse
+%Credits: Xploder
+$002698E5 00000014
++Las Vegas
+%Credits: Xploder
+$00269AEB 00000014
++Launch Pad 69
+%Credits: Xploder
+$00269CF1 00000014
+!!
+!Joyride Has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$0026B2C7 00000014
++The Dam
+%Credits: Xploder
+$0026B4CD 00000014
++Sheep Hills
+%Credits: Xploder
+$0026B6D3 00000014
++Syracuse
+%Credits: Xploder
+$0026B8D9 00000014
++Las Vegas
+%Credits: Xploder
+$0026BADF 00000014
++Launch Pad 69
+%Credits: Xploder
+$0026BCE5 00000014
+!!
+!Nutter Has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$0026F2AF 00000014
++The Dam
+%Credits: Xploder
+$0026F4B5 00000014
++Sheep Hills
+%Credits: Xploder
+$0026F6BB 00000014
++Syracuse
+%Credits: Xploder
+$0026F8C1 00000014
++Las Vegas
+%Credits: Xploder
+$0026FAC7 00000014
++Launch Pad 69
+%Credits: Xploder
+$0026FCCD 00000014
+!!
+!Amish Boy Has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$002712A3 00000014
++The Dam
+%Credits: Xploder
+$002714A9 00000014
++Sheep Hills
+%Credits: Xploder
+$002716AF 00000014
++Syracuse
+%Credits: Xploder
+$002718B5 00000014
++Las Vegas
+%Credits: Xploder
+$00271ABB 00000014
++Launch Pad 69
+%Credits: Xploder
+$00271CC1 00000014
+!!
+!Custom Rider 1 Has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$00273297 00000014
++The Dam
+%Credits: Xploder
+$0027349D 00000014
++Sheep Hills
+%Credits: Xploder
+$002736A3 00000014
++Syracuse
+%Credits: Xploder
+$002738A9 00000014
++Las Vegas
+%Credits: Xploder
+$00273AAF 00000014
++Launch Pad 69
+%Credits: Xploder
+$00273CB5 00000014
+!!
+!Custom Rider 2 Has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$0027528B 00000014
++The Dam
+%Credits: Xploder
+$00275491 00000014
++Sheep Hills
+%Credits: Xploder
+$00275697 00000014
++Syracuse
+%Credits: Xploder
+$0027589D 00000014
++Las Vegas
+%Credits: Xploder
+$00275AA3 00000014
++Launch Pad 69
+%Credits: Xploder
+$00275CA9 00000014
+!!
+!Custom Rider 3 Has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$0027727F 00000014
++The Dam
+%Credits: Xploder
+$00277485 00000014
++Sheep Hills
+%Credits: Xploder
+$0027768B 00000014
++Syracuse
+%Credits: Xploder
+$00277891 00000014
++Las Vegas
+%Credits: Xploder
+$00277A97 00000014
++Launch Pad 69
+%Credits: Xploder
+$00277C9D 00000014
+!!
+!Custom Rider 4 Has All Challenges:
++The Bronx, NYC
+%Credits: Xploder
+$00279273 00000014
++The Dam
+%Credits: Xploder
+$00279479 00000014
++Sheep Hills
+%Credits: Xploder
+$0027967F 00000014
++Syracuse
+%Credits: Xploder
+$00279885 00000014
++Las Vegas
+%Credits: Xploder
+$00279A8B 00000014
++Launch Pad 69
+%Credits: Xploder
+$00279C91 00000014
+!!
+!Twan Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$00259335 00000014
++The Dam
+%Credits: Xploder
+$0025953B 00000014
++Sheep Hills
+%Credits: Xploder
+$00259741 00000014
++Syracuse
+%Credits: Xploder
+$00259947 00000014
++Las Vegas
+%Credits: Xploder
+$00259B4D 00000014
++Launch Pad 69
+%Credits: Xploder
+$00259D53 00000014
+!!
+!Mika Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$0025B329 00000014
++The Dam
+%Credits: Xploder
+$0025B52F 00000014
++Sheep Hills
+%Credits: Xploder
+$0025B735 00000014
++Syracuse
+%Credits: Xploder
+$0025B93B 00000014
++Las Vegas
+%Credits: Xploder
+$0025BB41 00000014
++Launch Pad 69
+%Credits: Xploder
+$0025BD47 00000014
+!!
+!Rave Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$0025D31D 00000014
++The Dam
+%Credits: Xploder
+$0025D523 00000014
++Sheep Hills
+%Credits: Xploder
+$0025D729 00000014
++Syracuse
+%Credits: Xploder
+$0025D92F 00000014
++Las Vegas
+%Credits: Xploder
+$0025DB35 00000014
++Launch Pad 69
+%Credits: Xploder
+$0025DD3B 00000014
+!!
+!Latey Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$0025F311 00000014
++The Dam
+%Credits: Xploder
+$0025F517 00000014
++Sheep Hills
+%Credits: Xploder
+$0025F71D 00000014
++Syracuse
+%Credits: Xploder
+$0025F923 00000014
++Las Vegas
+%Credits: Xploder
+$0025FB29 00000014
++Launch Pad 69
+%Credits: Xploder
+$0025FD2F 00000014
+!!
+!Itchi Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$00261305 00000014
++The Dam
+%Credits: Xploder
+$0026150B 00000014
++Sheep Hills
+%Credits: Xploder
+$00261711 00000014
++Syracuse
+%Credits: Xploder
+$00261917 00000014
++Las Vegas
+%Credits: Xploder
+$00261B1D 00000014
++Launch Pad 69
+%Credits: Xploder
+$00261D23 00000014
+!!
+!Karma Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$002632F9 00000014
++The Dam
+%Credits: Xploder
+$002634FF 00000014
++Sheep Hills
+%Credits: Xploder
+$00263705 00000014
++Syracuse
+%Credits: Xploder
+$0026390B 00000014
++Las Vegas
+%Credits: Xploder
+$00263B11 00000014
++Launch Pad 69
+%Credits: Xploder
+$00263D17 00000014
+!!
+!Manuel Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$002652ED 00000014
++The Dam
+%Credits: Xploder
+$002654F3 00000014
++Sheep Hills
+%Credits: Xploder
+$002656F9 00000014
++Syracuse
+%Credits: Xploder
+$002658FF 00000014
++Las Vegas
+%Credits: Xploder
+$00265B05 00000014
++Launch Pad 69
+%Credits: Xploder
+$00265D0B 00000014
+!!
+!Hellkitty Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$002672E1 00000014
++The Dam
+%Credits: Xploder
+$002674E7 00000014
++Sheep Hills
+%Credits: Xploder
+$002676ED 00000014
++Syracuse
+%Credits: Xploder
+$002678F3 00000014
++Las Vegas
+%Credits: Xploder
+$00267AF9 00000014
++Launch Pad 69
+%Credits: Xploder
+$00267CFF 00000014
+!!
+!Tripledub Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$002692D5 00000014
++The Dam
+%Credits: Xploder
+$002694DB 00000014
++Sheep Hills
+%Credits: Xploder
+$002696E1 00000014
++Syracuse
+%Credits: Xploder
+$002698E7 00000014
++Las Vegas
+%Credits: Xploder
+$00269AED 00000014
++Launch Pad 69
+%Credits: Xploder
+$00269CF3 00000014
+!!
+!Joyride Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$0026B2C9 00000014
++The Dam
+%Credits: Xploder
+$0026B4CF 00000014
++Sheep Hills
+%Credits: Xploder
+$0026B6D5 00000014
++Syracuse
+%Credits: Xploder
+$0026B8DB 00000014
++Las Vegas
+%Credits: Xploder
+$0026BAE1 00000014
++Launch Pad 69
+%Credits: Xploder
+$0026BCE7 00000014
+!!
+!Skeeter Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$0026D2BD 00000014
++The Dam
+%Credits: Xploder
+$0026D4C3 00000014
++Sheep Hills
+%Credits: Xploder
+$0026D6C9 00000014
++Syracuse
+%Credits: Xploder
+$0026D8CF 00000014
++Las Vegas
+%Credits: Xploder
+$0026DAD5 00000014
++Launch Pad 69
+%Credits: Xploder
+$0026DCDB 00000014
+!!
+!Nutter Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$0026F2B1 00000014
++The Dam
+%Credits: Xploder
+$0026F4B7 00000014
++Sheep Hills
+%Credits: Xploder
+$0026F6BD 00000014
++Syracuse
+%Credits: Xploder
+$0026F8C3 00000014
++Las Vegas
+%Credits: Xploder
+$0026FAC9 00000014
++Launch Pad 69
+%Credits: Xploder
+$0026FCCF 00000014
+!!
+!Amish Boy Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$002712A5 00000014
++The Dam
+%Credits: Xploder
+$002714AB 00000014
++Sheep Hills
+%Credits: Xploder
+$002716B1 00000014
++Syracuse
+%Credits: Xploder
+$002718B7 00000014
++Las Vegas
+%Credits: Xploder
+$00271ABD 00000014
++Launch Pad 69
+%Credits: Xploder
+$00271CC3 00000014
+!!
+!Custom Rider 1 Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$00273299 00000014
++The Dam
+%Credits: Xploder
+$0027349F 00000014
++Sheep Hills
+%Credits: Xploder
+$002736A5 00000014
++Syracuse
+%Credits: Xploder
+$002738AB 00000014
++Las Vegas
+%Credits: Xploder
+$00273AB1 00000014
++Launch Pad 69
+%Credits: Xploder
+$00273CB7 00000014
+!!
+!Custom Rider 2 Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$0027528D 00000014
++The Dam
+%Credits: Xploder
+$00275493 00000014
++Sheep Hills
+%Credits: Xploder
+$00275699 00000014
++Syracuse
+%Credits: Xploder
+$0027589F 00000014
++Las Vegas
+%Credits: Xploder
+$00275AA5 00000014
++Launch Pad 69
+%Credits: Xploder
+$00275CAB 00000014
+!!
+!Custom Rider 3 Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$00277281 00000014
++The Dam
+%Credits: Xploder
+$00277487 00000014
++Sheep Hills
+%Credits: Xploder
+$0027768D 00000014
++Syracuse
+%Credits: Xploder
+$00277893 00000014
++Las Vegas
+%Credits: Xploder
+$00277A99 00000014
++Launch Pad 69
+%Credits: Xploder
+$00277C9F 00000014
+!!
+!Custom Rider 4 Has All Gaps:
++The Bronx, NYC
+%Credits: Xploder
+$00279275 00000014
++The Dam
+%Credits: Xploder
+$0027947B 00000014
++Sheep Hills
+%Credits: Xploder
+$00279681 00000014
++Syracuse
+%Credits: Xploder
+$00279887 00000014
++Las Vegas
+%Credits: Xploder
+$00279A8D 00000014
++Launch Pad 69
+%Credits: Xploder
+$00279C93 00000014
+!!

@@ -1,0 +1,14 @@
+^3 = NAME: Canvas (Ntsc-J)
+^2 = GameID: SLPS-25223
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9019CA30 0C067234
+!!
++Enable Debug Mode [View Note] {<I>With This On, You Can Do The Following: *Press R2 To Activate Debug Mode. This Unlocks Everything In The Game. Press R2 Again To Re-Lock. *Access A Debug Menu When Starting A New Game (Debug Mode Must Be On).</I>}
+%Credits: punk7890
+$201C9400 00000001
+$2024DA10 00000001
+$2024DA0C 00000001
+!!
+

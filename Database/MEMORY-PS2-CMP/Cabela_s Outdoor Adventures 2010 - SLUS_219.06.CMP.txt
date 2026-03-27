@@ -1,0 +1,30 @@
+^2 = GameID: SLUS_219.06
+^3 = NAME: Cabela's Outdoor Adventures 2010
+!Masters:
++Enable Code (MUST BE ON)
+$9011F078 0C047BC6
+!!
++God Mode
+%Credits: Azagthoth>SkillerCMP
+$007CA960 00000001
++God Mode (asm)
+%Credits: Azagthoth>SkillerCMP
+$0050280C 00000001
++Freeze Animals
+%Credits: Azagthoth>SkillerCMP
+$00809CE8 00000001
++Freeze Animals (asm)
+%Credits: Azagthoth>SkillerCMP
+$005594A8 00000001
++Stealthy
+%Credits: Azagthoth>SkillerCMP
+$007E7458 00000001
++Stealthy (asm)
+%Credits: Azagthoth>SkillerCMP
+$0050AA10 00000001
++Never Reload
+%Credits: Azagthoth>SkillerCMP
+$20532E54 24420000
++Infinite Time(disable Clock){Green Bar Will Decrease Once Theres No More The Clock Will Dissappear}
+%Credits: Azagthoth>SkillerCMP
+$205435B0 00000000

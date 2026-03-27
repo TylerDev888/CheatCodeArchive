@@ -1,0 +1,295 @@
+^3 = NAME: MDK 2 - Armageddon (Ntsc-U)
+^2 = GameID: SLUS-20105
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0102F1C 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0102F1C 00102F1F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0019FE37
+!!
++1-Hit Death (Enemies)
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$20135950 00000000
++Boxer Mode
+%Credits: Code Master
+$101EF8D0 00000001
++Detailed Shadows
+%Credits: InterAct
+$201EFBA8 00000001
+!Doc-Max Item On Pick-Up Codes:
++Baguette
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF788 00000063
++Booze
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF378 00000063
++Molotov
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF518 00000063
++Plutonium
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF414 00000063
++Pop
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF47C 00000063
++Pumpernickel
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF7BC 00000063
++Toast
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF720 00000063
+!!
+!Doc-Mega-Fast Firing Rate Codes:
++Atomic Toaster
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF4DC 447A0000
+$201CF4E0 00000000
++Toaster
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF33C 447A0000
+$201CF340 00000000
+!!
++Dr. Fluke Infinite Items Usage
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$20130960 00000000
+$20130A80 00000000
++Draw Pollys Mode
+%Credits: InterAct
+$201EF280 00000002
++Freeze Time
+%Credits: Code Master
+$201EF0CC 00000001
++Indestructable Doc
+%Credits: Codejunkies
+$2012EB98 03E00008
+$2012EB9C 00000000
++Indestructable Hyde
+%Credits: InterAct
+$2013AFF8 03E00008
+$2013AFFC 00000000
++Indestructable Kurt
+%Credits: Codejunkies
+$2013F218 03E00008
+$2013F21C 00000000
+$201413E0 03E00008
+$201413E4 00000000
++Indestructable Max
+%Credits: Codejunkies
+$2014AA08 03E00008
+$2014AA0C 00000000
++Indestructible Kurt - Normal Mode
+%Credits: InterAct
+$2013F218 03E00008
+$2013F21C 00000000
++Indestructible Kurt - Sniper Mode
+%Credits: InterAct
+$201413E0 03E00008
+$201413E4 00000000
++Infinite Ammo-Kurt (Sniper Mode)
+%Credits: Code Master
+$20140EB8 24020000
++Infinite Ammo-Max
+%Credits: Code Master
+$2014B3DC 24020000
++Infinite Jetpack-Max
+%Credits: Code Master
+$201493F0 00000000
+$201493F4 00000000
++Kurt Infinite Items/Ammo Usage
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$2013FDB0 00000000
+$2013F5F0 00000000
+!Kurt-Max Ammo On Pick-Up Codes:
++Laser Chaingun
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF6EC 0000270F
++Max Ammo On Pick-Up All Kurt’S Weapons
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$401CF20C 0004000D
+$0000270F 00000000
+$201CF6B8 0000270F
+$201CF6EC 0000270F
++Sniper Bounce Mortar
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF2A8 0000270F
++Sniper Grenade
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF20C 0000270F
++Sniper Homing
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF240 0000270F
++Sniper Mortar
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF274 0000270F
++Super Chaingun
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF6B8 0000270F
+!!
+!Kurt-Mega-Fast Firing Rate Codes:
++Laser Chaingun
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF6E4 447A0000
+$201CF6E8 00000000
++Mega-Fast Firing Rate All Kurt’S Weapons
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$401CF1D0 0005000D
+$447A0000 00000000
+$401CF1D4 0005000D
+$00000000 00000000
+$201CF6B0 447A0000
+$201CF6B4 00000000
+$201CF6E4 447A0000
+$201CF6E8 00000000
++Sniper Bounce Mortar
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF2A0 447A0000
+$201CF2A4 00000000
++Sniper Bullet
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF1D0 447A0000
+$201CF1D4 00000000
++Sniper Grenade
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF204 447A0000
+$201CF208 00000000
++Sniper Homing
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF238 447A0000
+$201CF23C 00000000
++Sniper Mortar
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF26C 447A0000
+$201CF270 00000000
++Super Chaingun
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF6B0 447A0000
+$201CF6B4 00000000
+!!
+!Kurtâ€™s-Max Item On Pick-Up Codes:
++Black Hole
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF0D4 00000063
++Cloak
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF170 00000063
++Decoy
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF13C 00000063
++Grenade
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF108 00000063
++Max Item On Pick-Up All Kurt’S Items
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$401CF0D4 0005000D
+$00000063 00000000
++Sniper Shield
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CF1A4 00000063
+!!
++Max - Have Missiles
+%Credits: InterAct
+$2014B080 00000000
+!Max-Max Ammo On Pick-Up Codes:
++Gatling Gun
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CEECC 0000270F
++Guided Rocket
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CEF68 0000270F
++Laser Gatling?
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CEF34 0000270F
++Magnum
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CEE30 0000270F
++Max Ammo On Pick-Up All Max's Weapons
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CEE30 0000270F
+$201CEE64 0000270F
+$401CEECC 0004000D
+$0000270F 00000000
++Shotgun
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CEF00 0000270F
++Uzi
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CEE64 0000270F
+!!
+!Max-Mega-Fast Firing Rate Codes:
++Gatling Gun
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CEEC4 447A0000
+$201CEEC8 00000000
++Guided Rocket
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CEF60 447A0000
+$201CEF64 00000000
++Laser Gatling?
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CEF2C 447A0000
+$201CEF30 00000000
++Magnum
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CEE28 447A0000
+$201CEE2C 00000000
++Magnum (The Always Have One)
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CEE90 447A0000
+$201CEE94 00000000
++Mega-Fast Firing Rate All Max's Weapons
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$401CEE28 0007000D
+$447A0000 00000000
+$401CEE2C 0007000D
+$00000000 00000000
++Shotgun
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CEEF8 447A0000
+$201CEEFC 00000000
++Uzi
+%Credits: Code Master>floydfan>GameMasterZer0>Lajos Szalay
+$201CEE5C 447A0000
+$201CEE60 00000000
+!!
++No Music
+%Credits: FNG @ Interact
+$201EF20C 00000000
++No SFX
+%Credits: FNG @ Interact
+$201EF208 00000000
++No Voices
+%Credits: FNG @ Interact
+$201EF210 00000000
++P1 Press L1+L2+R1+R2+Select To Save Anywhere
+%Credits: floydfan
+$E002F0FE 001F9502
+$001F03D4 00000001
+$001F0418 00000001
++P1 Press L1+Select To Enable Infinite Ammo/Items {<I>The Doc Will Not Be Able To Combine Items When The Code Is On, So You&#39;Ll Need To Turn It Off Then.</I>}
+%Credits: floydfan
+$E002FBFE 001F9502
+$2013C0F8 03E00008
+$2013C0FC 00000000
++P1 Press R2+Select To Disable Infinite Ammo/Items
+%Credits: floydfan
+$E002F7FE 001F9502
+$2013C0F8 27BDFF80
+$2013C0FC FFB30050
++Super Loud Music
+%Credits: FNG @ Interact
+$201EF20C 40000000
++Super Loud SFX
+%Credits: FNG @ Interact
+$201EF208 40000000
++Super Loud Voices
+%Credits: FNG @ Interact
+$201EF210 40000000
++Vector Mode
+%Credits: Code Master
+$201EF280 00000003
+!!
+

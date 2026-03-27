@@ -1,0 +1,10 @@
+^2 = GameID: BLES01303
+^3 = NAME: NeverDead
+^5 = APCRED: From SHAkA
+^4 = FILE: PROFILE
++Max Xp
+$write at 0x000004DD:0x98967F00
+$write at 0x000004E1:0x98967F00
++Max Xp By Chaoszage
+$search 0x021DBD877D
+$write next 0x14:0098967F0098967F

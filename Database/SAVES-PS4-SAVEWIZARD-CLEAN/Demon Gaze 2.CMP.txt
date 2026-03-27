@@ -1,0 +1,154 @@
+^2 = GameID: CUSA09276,CUSA07486,CUSA09283
+^3 = NAME: Demon Gaze II
+^SECONDLAYER: NO
+^4 = FILE: SAVEDATA[0-9]+\dgaz_00.SAV
++9999 Ether Points Each{For All Weapon Types, Shields, Hats, Helmets, Light Armour, Heavy Armour, Undies And Accessories}
+$1000F9F2 0000FFFF
+$1000F9F4 0000FFFF
+$1000F9F6 0000FFFF
+$1000F9F8 0000FFFF
+$1000F9FA 0000FFFF
+$1000F9FC 0000FFFF
+$1000F9FE 0000FFFF
+$1000FA00 0000FFFF
+$1000FA02 0000FFFF
+$1000FA04 0000FFFF
+$1000FA06 0000FFFF
+$1000FA08 0000FFFF
+$1000FA0A 0000FFFF
+$1000FA0C 0000FFFF
+!Mod Codes:{Need To Count How Many Items You Have To Get Empty Or Right Slot Not Sure Order If Save Order Matches Ingame. If There Is In Game Sort Option Probably Be Default}
++Add Or Mod Amount Of Item
+$2000[ItemSlot] [Item][Amount:63:HEX:BIG]00
++Mod Weapon Amount Then Level
+$95000000 0000[ItemSlot]
+$08000002 000000[Amount:63:HEX:BIG]
+$08000004 000000[Amount:63:HEX:BIG]
+!!
+^6 = MODS:	
+[ItemSlot]
+Offset>Item Slot
+40AC	Item Slot 1
+40C0	Item Slot 2
+40D4	Item Slot 3
+40E8	Item Slot 4
+40FC	Item Slot 5
+4110	Item Slot 6
+4124	Item Slot 7
+4138	Item Slot 8
+414C	Item Slot 9
+4160	Item Slot 10
+4174	Item Slot 11
+4188	Item Slot 12
+419C	Item Slot 13
+41B0	Item Slot 14
+41C4	Item Slot 15
+41D8	Item Slot 16
+41EC	Item Slot 17
+4200	Item Slot 18
+4214	Item Slot 19
+4228	Item Slot 20
+423C	Item Slot 21
+4250	Item Slot 22
+4264	Item Slot 23
+4278	Item Slot 24
+428C	Item Slot 25
+42A0	Item Slot 26
+42B4	Item Slot 27
+42C8	Item Slot 28
+42DC	Item Slot 29
+42F0	Item Slot 30
+4304	Item Slot 31
+4318	Item Slot 32
+432C	Item Slot 33
+4340	Item Slot 34
+4354	Item Slot 35
+4368	Item Slot 36
+437C	Item Slot 37
+4390	Item Slot 38
+43A4	Item Slot 39
+43B8	Item Slot 40
+43CC	Item Slot 41
+43E0	Item Slot 42
+43F4	Item Slot 43
+4408	Item Slot 44
+441C	Item Slot 45
+4430	Item Slot 46
+4444	Item Slot 47
+4458	Item Slot 48
+446C	Item Slot 49
+4480	Item Slot 50
+4494	Item Slot 51
+44A8	Item Slot 52
+44BC	Item Slot 53
+44D0	Item Slot 54
+44E4	Item Slot 55
+44F8	Item Slot 56
+450C	Item Slot 57
+4520	Item Slot 58
+4534	Item Slot 59
+4548	Item Slot 60
+455C	Item Slot 61
+4570	Item Slot 62
+4584	Item Slot 63
+4598	Item Slot 64
+45AC	Item Slot 65
+45C0	Item Slot 66
+45D4	Item Slot 67
+45E8	Item Slot 68
+45FC	Item Slot 69
+4610	Item Slot 70
+4624	Item Slot 71
+4638	Item Slot 72
+464C	Item Slot 73
+4660	Item Slot 74
+4674	Item Slot 75
+4688	Item Slot 76
+469C	Item Slot 77
+46B0	Item Slot 78
+46C4	Item Slot 79
+46D8	Item Slot 80
+46EC	Item Slot 81
+4700	Item Slot 82
+4714	Item Slot 83
+4728	Item Slot 84
+473C	Item Slot 85
+4750	Item Slot 86
+4764	Item Slot 87
+4778	Item Slot 88
+478C	Item Slot 89
+47A0	Item Slot 90
+47B4	Item Slot 91
+47C8	Item Slot 92
+47DC	Item Slot 93
+47F0	Item Slot 94
+4804	Item Slot 95
+4818	Item Slot 96
+482C	Item Slot 97
+4840	Item Slot 98
+4854	Item Slot 99
+4868	Item Slot 100
+[/ItemSlot]
+[Item]
+ID>Item
+4902	sword gem
+4A02	katana gem
+4B02	heavy gem
+4C02	spear gem
+4D02	spec gem
+4E02	staff gem
+4F02	ranged gem
+5002	shield gem
+5102	hat gem
+5202	helmet gem
+5302	light armour gem
+5402	heavy armour gem
+5502	undies gem
+5602	etc gem
+5702	artifact gem
+5802	furniture gem
+5A02	bronze gem
+5A02	siver gem
+5B02	gold gem
+CB02	maintence crystals
+[/Item]

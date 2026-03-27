@@ -1,0 +1,672 @@
+^3 = NAME: Metal Gear Solid 2 (Ntsc-U)
+^2 = GameID: SLUS-20543
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F010008C 00167387
++(M) Must Be On
+%Credits: Codejunkies
+$F0167384 00167387
+!!
+!Aks-74u Ammo Codes:
++Infinite Aks-74U Ammo
+%Credits: Codejunkies
+$101E6F5A 000003E7
++Max Psg-1 Ammo
+%Credits: Codejunkies
+$101E6FAA 000003E7
++Never Have Any Aks-74U Ammo
+%Credits: Codejunkies
+$E0010000 301E6F5A
+$101E6F5A 00000000
++Never Have More Than 10 Aks-74U Ammo
+%Credits: Codejunkies
+$E001000A 301E6F5A
+$101E6F5A 0000000A
++Never Have More Than 25 Aks-74U Ammo
+%Credits: Codejunkies
+$E0010019 301E6F5A
+$101E6F5A 00000019
++Never Have More Than 50 Aks-74U Ammo
+%Credits: Codejunkies
+$E0010032 301E6F5A
+$101E6F5A 00000032
++Never Have More Than 100 Aks-74U Ammo
+%Credits: Codejunkies
+$E0010064 301E6F5A
+$101E6F5A 00000064
++Never Have More Than 250 Aks-74U Ammo
+%Credits: Codejunkies
+$E00100FA 301E6F5A
+$101E6F5A 000000FA
+!!
++All Dog Tags
+%Credits: Codejunkies
+$201E825C FFFFFFFF
+$201E8260 FFFFFFFF
+$201E8264 FFFFFFFF
+$201E8268 FFFFFFFF
+$201E826C FFFFFFFF
+$201E8270 FFFFFFFF
+$201E8274 FFFFFFFF
+$201E8278 FFFFFFFF
+$201E827C FFFFFFFF
+$201E8280 FFFFFFFF
+$201E8284 FFFFFFFF
+$101E8288 0000FFFF
+!M9 Ammo Codes:
++Infinite M9 Ammo
+%Credits: Codejunkies
+$101E6DEE 000003E7
++Infinite M9 Ammo
+%Credits: Codejunkies
+$101E6F3E 000003E7
++Max Socom Ammo
+%Credits: Codejunkies
+$101E6F8A 000003E7
++Max Usp Ammo
+%Credits: Codejunkies
+$101E6E38 000003E7
++Never Have Any M9 Ammo
+%Credits: Codejunkies
+$E0010000 301E6DEE
+$101E6DEE 00000000
++Never Have Any M9 Ammo
+%Credits: Codejunkies
+$E0010000 301E6F3E
+$101E6F3E 00000000
++Never Have More Than 10 M9 Ammo
+%Credits: Codejunkies
+$E001000A 301E6DEE
+$101E6DEE 0000000A
++Never Have More Than 10 M9 Ammo
+%Credits: Codejunkies
+$E001000A 301E6F3E
+$101E6F3E 0000000A
++Never Have More Than 25 M9 Ammo
+%Credits: Codejunkies
+$E0010019 301E6DEE
+$101E6DEE 00000019
++Never Have More Than 25 M9 Ammo
+%Credits: Codejunkies
+$E0010019 301E6F3E
+$101E6F3E 00000019
++Never Have More Than 50 M9 Ammo
+%Credits: Codejunkies
+$E0010032 301E6DEE
+$101E6DEE 00000032
++Never Have More Than 50 M9 Ammo
+%Credits: Codejunkies
+$E0010032 301E6F3E
+$101E6F3E 00000032
++Never Have More Than 100 M9 Ammo
+%Credits: Codejunkies
+$E0010064 301E6DEE
+$101E6DEE 00000064
++Never Have More Than 100 M9 Ammo
+%Credits: Codejunkies
+$E0010064 301E6F3E
+$101E6F3E 00000064
++Never Have More Than 250 M9 Ammo
+%Credits: Codejunkies
+$E00100FA 301E6DEE
+$101E6DEE 000000FA
++Never Have More Than 250 M9 Ammo
+%Credits: Codejunkies
+$E00100FA 301E6F3E
+$101E6F3E 000000FA
+!!
+!Nikita Ammo Codes:
++Infinite Nikita Ammo
+%Credits: Codejunkies
+$101E6F48 000003E7
++Max Stinger Ammo
+%Credits: Codejunkies
+$101E6F92 000003E7
++Never Have Any Nikita Ammo
+%Credits: Codejunkies
+$E0010000 301E6F48
+$101E6F48 00000000
++Never Have More Than 10 Nikita Ammo
+%Credits: Codejunkies
+$E001000A 301E6F48
+$101E6F48 0000000A
++Never Have More Than 25 Nikita Ammo
+%Credits: Codejunkies
+$E0010019 301E6F48
+$101E6F48 00000019
++Never Have More Than 50 Nikita Ammo
+%Credits: Codejunkies
+$E0010032 301E6F48
+$101E6F48 00000032
++Never Have More Than 100 Nikita Ammo
+%Credits: Codejunkies
+$E0010064 301E6F48
+$101E6F48 00000064
++Never Have More Than 250 Nikita Ammo
+%Credits: Codejunkies
+$E00100FA 301E6F48
+$101E6F48 000000FA
+!!
+!Plant Codes:
++Cardboard Box 2
+%Credits: Codejunkies
+$101E6FF9 000000FF
++Have Ak Supressor
+%Credits: Codejunkies
+$101E7008 00000001
++Have B.Armor
+%Credits: Codejunkies
+$101E6FDA 00000001
++Have Bandana
+%Credits: Codejunkies
+$101E700C 00000001
++Have Bdu
+%Credits: Codejunkies
+$101E6FD8 00000001
++Have Cigs
+%Credits: Codejunkies
+$101E6FEE 00000001
++Have Dg Camera
+%Credits: Codejunkies
+$101E6FEA 00000001
++Have Medicine
+%Credits: Codejunkies
+$101E6FD2 00000001
++Have Microphone
+%Credits: Codejunkies
+$101E6F64 00000001
++Have Mine Detector
+%Credits: Codejunkies
+$101E6FDE 00000001
++Have Mo Disc
+%Credits: Codejunkies
+$101E7010 00000001
++Have Nvg
+%Credits: Codejunkies
+$101E6FE4 00000001
++Have Pentazemin
+%Credits: Codejunkies
+$101E6FD6 00000005
++Have Phone
+%Credits: Codejunkies
+$101E6FF4 00000001
++Have Scm Supressor
+%Credits: Codejunkies
+$101E7006 00000001
++Have Scope
+%Credits: Codejunkies
+$101E6FD0 00000001
++Have Sensor A
+%Credits: Codejunkies
+$101E6FE0 00000001
++Have Sensor B
+%Credits: Codejunkies
+$101E6FE2 00000001
++Have Shaver
+%Credits: Codejunkies
+$101E6FF2 00000001
++Have Stealth
+%Credits: Codejunkies
+$101E6FDC 00000001
++Have Therm G
+%Credits: Codejunkies
+$101E6FE6 00000001
++Infinite Bandages
+%Credits: Codejunkies
+$101E6FD4 00000063
++Infinite Books
+%Credits: Codejunkies
+$101E6F66 00000063
++Infinite C4
+%Credits: Codejunkies
+$101E6F4E 000003E7
++Infinite Chaff Grenades
+%Credits: Codejunkies
+$101E6F50 000003E7
++Infinite Claymores
+%Credits: Codejunkies
+$101E6F4C 000003E7
++Infinite Grenades
+%Credits: Codejunkies
+$101E6F5E 000003E7
++Infinite M4 Ammo
+%Credits: Codejunkies
+$101E6F60 000003E7
++Infinite Magazines
+%Credits: Codejunkies
+$101E6F5C 000003E7
++Infinite Psg1 Ammo
+%Credits: Codejunkies
+$101E6F44 000003E7
++Infinite Psg1-T Ammo
+%Credits: Codejunkies
+$101E6F62 000003E7
++Infinite Rations
+%Credits: Codejunkies
+$101E6FCE 000003E7
++Infinite Rgb6 Ammo
+%Credits: Codejunkies
+$101E6F46 000003E7
++Infinite Socom Ammo
+%Credits: Codejunkies
+$101E6F42 000003E7
++Infinite Stinger Ammo
+%Credits: Codejunkies
+$101E6F4A 000003E7
++Infinite Stun Grenades
+%Credits: Codejunkies
+$101E6F52 000003E7
++Invisible Mode
+%Credits: Codejunkies
+$101ECD46 00004000
++Max Aks-74U Ammo
+%Credits: Codejunkies
+$101E6FA2 000003E7
++Max Bandages
+%Credits: Codejunkies
+$001E7034 00000063
++Max Books
+%Credits: Codejunkies
+$001E6FAE 00000063
++Max C4
+%Credits: Codejunkies
+$101E6F96 000003E7
++Max Chaff Grenades
+%Credits: Codejunkies
+$101E6F98 000003E7
++Max Claymores
+%Credits: Codejunkies
+$101E6F94 000003E7
++Max Grenades
+%Credits: Codejunkies
+$101E6FA6 000003E7
++Max M9 Ammo
+%Credits: Codejunkies
+$101E6F86 000003E7
++Max Magazines
+%Credits: Codejunkies
+$101E6FA4 000003E7
++Max Nikita Ammo
+%Credits: Codejunkies
+$101E6F90 000003E7
++Max Psg1 Ammo
+%Credits: Codejunkies
+$101E6F8C 000003E7
++Max Rations
+%Credits: Codejunkies
+$101E702E 000003E7
++Max Rgb6 Ammo
+%Credits: Codejunkies
+$101E6F8E 000003E7
++Max Stun Grenades
+%Credits: Codejunkies
+$101E6F9A 000003E7
++Pullup Gives Grip Level 2
+%Credits: Codejunkies
+$D01E6DC0 00200063
+$101E6DC0 00000063
++Pullups Give Grip Level 3
+%Credits: Codejunkies
+$D01E6DC0 00300063
+$D01E6DC0 002000C7
+$101E6DC0 000000C7
+!!
+!Psg1 Ammo Codes:
++Never Have Any Psg1 Ammo
+%Credits: Codejunkies
+$E0010000 301E6F44
+$101E6F44 00000000
++Never Have More Than 10 Psg1 Ammo
+%Credits: Codejunkies
+$E001000A 301E6F44
+$101E6F44 0000000A
++Never Have More Than 25 Psg1 Ammo
+%Credits: Codejunkies
+$E0010019 301E6F44
+$101E6F44 00000019
++Never Have More Than 50 Psg1 Ammo
+%Credits: Codejunkies
+$E0010032 301E6F44
+$101E6F44 00000032
++Never Have More Than 100 Psg1 Ammo
+%Credits: Codejunkies
+$E0010064 301E6F44
+$101E6F44 00000064
++Never Have More Than 250 Psg1 Ammo
+%Credits: Codejunkies
+$E00100FA 301E6F44
+$101E6F44 000000FA
+!!
+!Psg1-t Ammo Codes:
++Cardboard Box 2
+%Credits: Codejunkies
+$101E6FF8 000000FF
++Cardboard Box 3
+%Credits: Codejunkies
+$101E6FFA 000000FF
++Cardboard Box 4
+%Credits: Codejunkies
+$101E7000 000000FF
++Cardboard Box 5
+%Credits: Codejunkies
+$101E7002 000000FF
++Infinite Wig
+%Credits: Codejunkies
+$101E7014 000000FF
++Lv Card (Lv225)
+%Credits: Codejunkies
+$101E6FF0 000000FF
++Never Have Any Psg1-T Ammo
+%Credits: Codejunkies
+$E0010000 301E6F62
+$101E6F62 00000000
++Never Have More Than 10 Psg1-T Ammo
+%Credits: Codejunkies
+$E001000A 301E6F62
+$101E6F62 0000000A
++Never Have More Than 25 Psg1-T Ammo
+%Credits: Codejunkies
+$E0010019 301E6F62
+$101E6F62 00000019
++Never Have More Than 50 Psg1-T Ammo
+%Credits: Codejunkies
+$E0010032 301E6F62
+$101E6F62 00000032
++Never Have More Than 100 Psg1-T Ammo
+%Credits: Codejunkies
+$E0010064 301E6F62
+$101E6F62 00000064
++Never Have More Than 250 Psg1-T Ammo
+%Credits: Codejunkies
+$E00100FA 301E6F62
+$101E6F62 000000FA
++Regain Full Health When Entering New Area
+%Credits: Codejunkies
+$201E6D88 0FA0F0EF
++Wet Cardboard Box
+%Credits: Codejunkies
+$101E6FFC 000000FF
++Wig A
+%Credits: Codejunkies
+$101E7016 000000FF
++Wig B
+%Credits: Codejunkies
+$101E7018 000000FF
++Wig C
+%Credits: Codejunkies
+$101E701A 000000FF
++Wig D
+%Credits: Codejunkies
+$101E701C 000000FF
+!!
+!Pull-Up Codes:
++Max M9 Ammo
+%Credits: Codejunkies
+$101E6E36 000003E7
++More Speech Time (Press L3 To Activate)
+%Credits: Codejunkies
+$E003FFFD 001E6C22
+$203B6A84 000062A0
+$203AC5A4 000062A0
+$203AFBBC 000062A0
++Pull-Up Gives Grip Level 2
+%Credits: Codejunkies
+$E0010063 201E6DBE
+$101E6DBE 00000063
++Pull-Up Gives Grip Level 2
+%Credits: Codejunkies
+$E0010063 201E6DC0
+$101E6DC0 00000063
++Pull-Ups Give Grip Level 3
+%Credits: Codejunkies
+$E0030063 201E6DBE
+$E0020000 201E6DC0
+$E00100C7 201E6DBE
+$101E6DBE 000000C7
++Pull-Ups Give Grip Level 3
+%Credits: Codejunkies
+$E0030063 201E6DC0
+$E0020000 201E6DC2
+$E00100C7 201E6DC0
+$101E6DC0 000000C7
+!!
+!Ration Codes:
++Have Bandana
+%Credits: Codejunkies
+$101E6EBC 00000001
++Have Body Armor
+%Credits: Codejunkies
+$101E6E8A 00000001
++Have Digital Camera
+%Credits: Codejunkies
+$101E6E9A 00000001
++Have Stealth
+%Credits: Codejunkies
+$101E6E8C 00000001
++Have Thermal Goggles
+%Credits: Codejunkies
+$101E6E96 00000001
++Infinite Bandages
+%Credits: Codejunkies
+$101E6E84 00000063
++Infinite Grenades
+%Credits: Codejunkies
+$101E6E0E 000003E7
++Infinite Magazines
+%Credits: Codejunkies
+$101E6E0C 000003E7
++Infinite O2
+%Credits: Codejunkies
+$201E6D8C 0FA0004B
++Infinite Pentazemin
+%Credits: Codejunkies
+$101E6E86 000003E7
++Infinite Rations
+%Credits: Codejunkies
+$101E6E7E 000003E7
++Max Bandages
+%Credits: Codejunkies
+$001E6EE4 00000063
++Max Grenades
+%Credits: Codejunkies
+$101E6E56 000003E7
++Max M4 Ammo
+%Credits: Codejunkies
+$101E6FA8 000003E7
++Max Magazines
+%Credits: Codejunkies
+$101E6E54 000003E7
++Max Pentazemin
+%Credits: Codejunkies
+$101E6EE6 000003E7
++Never Have Any Rations
+%Credits: Codejunkies
+$E0010000 301E6E7E
+$101E6E7E 00000000
++Never Have More Than 1 Ration
+%Credits: Codejunkies
+$E0010001 301E6E7E
+$101E6E7E 00000001
++Never Have More Than 2 Rations
+%Credits: Codejunkies
+$E0010002 301E6E7E
+$101E6E7E 00000002
++Never Have More Than 3 Rations
+%Credits: Codejunkies
+$E0010003 301E6E7E
+$101E6E7E 00000003
++Never Have More Than 4 Rations
+%Credits: Codejunkies
+$E0010004 301E6E7E
+$101E6E7E 00000004
++Never Have More Than 5 Rations
+%Credits: Codejunkies
+$E0010005 301E6E7E
+$101E6E7E 00000005
++Never Have More Than 10 Rations
+%Credits: Codejunkies
+$E001000A 301E6E7E
+$101E6E7E 0000000A
++Never Have More Than 15 Rations
+%Credits: Codejunkies
+$E001000F 301E6E7E
+$101E6E7E 0000000F
++Never Have More Than 20 Rations
+%Credits: Codejunkies
+$E0010014 301E6E7E
+$101E6E7E 00000014
++Tons Of Computer Time (Press L3 To Activate)
+%Credits: Codejunkies
+$E003FFFD 001E6C22
+$2048BF10 000927C0
+$20463524 000927C0
+$204AAA64 000927C0
+!!
+!Rgb6 Ammo Codes:
++Never Have Any Rgb6 Ammo
+%Credits: Codejunkies
+$E0010000 301E6F46
+$101E6F46 00000000
++Never Have More Than 10 Rgb6 Ammo
+%Credits: Codejunkies
+$E001000A 301E6F46
+$101E6F46 0000000A
++Never Have More Than 25 Rgb6 Ammo
+%Credits: Codejunkies
+$E0010019 301E6F46
+$101E6F46 00000019
++Never Have More Than 50 Rgb6 Ammo
+%Credits: Codejunkies
+$E0010032 301E6F46
+$101E6F46 00000032
++Never Have More Than 100 Rgb6 Ammo
+%Credits: Codejunkies
+$E0010064 301E6F46
+$101E6F46 00000064
++Never Have More Than 250 Rgb6 Ammo
+%Credits: Codejunkies
+$E00100FA 301E6F46
+$101E6F46 000000FA
+!!
+!Socom Ammo Codes:
++Never Have Any Socom Ammo
+%Credits: Codejunkies
+$E0010000 301E6F42
+$101E6F42 00000000
++Never Have More Than 10 Socom Ammo
+%Credits: Codejunkies
+$E001000A 301E6F42
+$101E6F42 0000000A
++Never Have More Than 25 Socom Ammo
+%Credits: Codejunkies
+$E0010019 301E6F42
+$101E6F42 00000019
++Never Have More Than 50 Socom Ammo
+%Credits: Codejunkies
+$E0010032 301E6F42
+$101E6F42 00000032
++Never Have More Than 100 Socom Ammo
+%Credits: Codejunkies
+$E0010064 301E6F42
+$101E6F42 00000064
++Never Have More Than 250 Socom Ammo
+%Credits: Codejunkies
+$E00100FA 301E6F42
+$101E6F42 000000FA
+!!
+!Stinger Ammo Codes:
++Never Have Any Stinger Ammo
+%Credits: Codejunkies
+$E0010000 301E6F4A
+$101E6F4A 00000000
++Never Have More Than 10 Stinger Ammo
+%Credits: Codejunkies
+$E001000A 301E6F4A
+$101E6F4A 0000000A
++Never Have More Than 25 Stinger Ammo
+%Credits: Codejunkies
+$E0010019 301E6F4A
+$101E6F4A 00000019
++Never Have More Than 50 Stinger Ammo
+%Credits: Codejunkies
+$E0010032 301E6F4A
+$101E6F4A 00000032
++Never Have More Than 100 Stinger Ammo
+%Credits: Codejunkies
+$E0010064 301E6F4A
+$101E6F4A 00000064
++Never Have More Than 250 Stinger Ammo
+%Credits: Codejunkies
+$E00100FA 301E6F4A
+$101E6F4A 000000FA
+!!
+!Tanker Codes:
++Infinite Chaff Grenades
+%Credits: Codejunkies
+$101E6E00 000003E7
++Infinite Stun Grenades
+%Credits: Codejunkies
+$101E6E02 000003E7
++Infinite Usp Ammo
+%Credits: Codejunkies
+$101E6DF0 000003E7
++Max Chaff Grenades
+%Credits: Codejunkies
+$101E6E48 000003E7
++Max Rations
+%Credits: Codejunkies
+$101E6EDE 000003E7
++Max Stun Grenades
+%Credits: Codejunkies
+$101E6E4A 000003E7
++More Speech Time: Press L3
+%Credits: Codejunkies
+$C06AAAA4 64B88DFB
+$00A7172F 64DA4B09
+$00A6704F 64DA4B09
+$00A6A667 64DA4B09
++Pullup Gives Grip Level 2
+%Credits: Codejunkies
+$D01E6DBE 00200063
+$101E6DBE 00000063
++Pullups Give Grip Level 3
+%Credits: Codejunkies
+$D01E6DBE 00300063
+$D01E6DBE 002000C7
+$101E6DBE 000000C7
++Tons Of Comp.Time: Press L3
+%Credits: Codejunkies
+$C06AAAA4 64B88DFB
+$00A86ABB 64514029
+$00AAE0CF 64514029
+$00D6570F 64514029
+!!
+!Usp Ammo Codes:
++Never Have Any Usp Ammo
+%Credits: Codejunkies
+$E0010000 301E6DF0
+$101E6DF0 00000000
++Never Have More Than 10 Usp Ammo
+%Credits: Codejunkies
+$E001000A 301E6DF0
+$101E6DF0 0000000A
++Never Have More Than 25 Usp Ammo
+%Credits: Codejunkies
+$E0010019 301E6DF0
+$101E6DF0 00000019
++Never Have More Than 50 Usp Ammo
+%Credits: Codejunkies
+$E0010032 301E6DF0
+$101E6DF0 00000032
++Never Have More Than 100 Usp Ammo
+%Credits: Codejunkies
+$E0010064 301E6DF0
+$101E6DF0 00000064
++Never Have More Than 250 Usp Ammo
+%Credits: Codejunkies
+$E00100FA 301E6DF0
+$101E6DF0 000000FA
+!!
+!!
+

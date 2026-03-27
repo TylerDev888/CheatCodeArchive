@@ -1,0 +1,243 @@
+^3 = NAME: UEFA Euro 2004 (Ntsc-U)
+^2 = GameID: SLUS-20936
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F04111A4 004111A7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 004111A7
+!!
++All Goal's Score For Away Team
+%Credits: Code Master
+$201CE008 24030004
++All Goal's Score For Home Team
+%Credits: Code Master
+$201CE008 24030000
+!Away Codes:
++Away Score 0
+%Credits: Codejunkies
+$2056D824 00000000
++Away Score 50
+%Credits: Codejunkies
+$2056D824 00000032
++Infinite Sprint
+%Credits: Codejunkies
+$201D9400 00000000
++Press L1+L2 For Home Wins
+%Credits: Codejunkies
+$D1648982 0000FAFF
+$2056D820 00000032
+$D1648982 0000FAFF
+$2056D824 00000000
++Press R1+R2 For Away Wins
+%Credits: Codejunkies
+$D1648982 0000F5FF
+$2056D820 00000000
+$D1648982 0000F5FF
+$2056D824 00000032
+!!
+!Away Team Infinite Sprint Codes:
++All Players
+%Credits: Code Master
+$405764F0 000B00FB
+$3F800000 00000000
++P1
+%Credits: Code Master
+$205764F0 3F800000
++P2
+%Credits: Code Master
+$205768DC 3F800000
++P3
+%Credits: Code Master
+$20576CC8 3F800000
++P4
+%Credits: Code Master
+$205770B4 3F800000
++P5
+%Credits: Code Master
+$205774A0 3F800000
++P6
+%Credits: Code Master
+$2057788C 3F800000
++P7
+%Credits: Code Master
+$20577C78 3F800000
++P8
+%Credits: Code Master
+$20578064 3F800000
++P9
+%Credits: Code Master
+$20578450 3F800000
++P10
+%Credits: Code Master
+$2057883C 3F800000
++P11
+%Credits: Code Master
+$20578C28 3F800000
+!!
++Away Team Leads 99-0 (Hold [Select] And Press [R1])
+%Credits: MadCatz
+$E002F7FE 00648982
+$2056D820 00000000
+$2056D824 00000063
+!Away Team No Sprint Codes:
++All Players
+%Credits: Code Master
+$405764F0 000B00FB
+$00000000 00000000
++P1
+%Credits: Code Master
+$205764F0 00000000
++P2
+%Credits: Code Master
+$205768DC 00000000
++P3
+%Credits: Code Master
+$20576CC8 00000000
++P4
+%Credits: Code Master
+$205770B4 00000000
++P5
+%Credits: Code Master
+$205774A0 00000000
++P6
+%Credits: Code Master
+$2057788C 00000000
++P7
+%Credits: Code Master
+$20577C78 00000000
++P8
+%Credits: Code Master
+$20578064 00000000
++P9
+%Credits: Code Master
+$20578450 00000000
++P10
+%Credits: Code Master
+$2057883C 00000000
++P11
+%Credits: Code Master
+$20578C28 00000000
+!!
++Away Team Score Modifier
+%Credits: Code Master
+$2056D824 0000????
++Away Team Start With Score Modifier
+%Credits: Code Master
+$D056D824 00000000
+$2056D824 0000????
++End Half (Hold [Select] And Press [R2])
+%Credits: MadCatz
+$D0648982 0000FDFE
+$20570838 00000384
++Goal's Score Modifier
+%Credits: Code Master
+$101CE014 000000??
+!Home Codes:
++Home Score 0
+%Credits: Codejunkies
+$2056D820 00000000
++Home Score 50
+%Credits: Codejunkies
+$2056D820 00000032
+!!
+!Home Team Infinite Sprint Codes:
++All Players
+%Credits: Code Master
+$405739CC 000B00FB
+$3F800000 00000000
++P1
+%Credits: Code Master
+$205739CC 3F800000
++P2
+%Credits: Code Master
+$20573DB8 3F800000
++P3
+%Credits: Code Master
+$205741A4 3F800000
++P4
+%Credits: Code Master
+$20574590 3F800000
++P5
+%Credits: Code Master
+$2057497C 3F800000
++P6
+%Credits: Code Master
+$20574D68 3F800000
++P7
+%Credits: Code Master
+$20575154 3F800000
++P8
+%Credits: Code Master
+$20575540 3F800000
++P9
+%Credits: Code Master
+$2057592C 3F800000
++P10
+%Credits: Code Master
+$20575D18 3F800000
++P11
+%Credits: Code Master
+$20576104 3F800000
+!!
++Home Team Leads 99-0 (Hold [Select] And Press [L1])
+%Credits: MadCatz
+$E002FBFE 00648982
+$2056D820 00000063
+$2056D824 00000000
+!Home Team No Sprint Codes:
++All Players
+%Credits: Code Master
+$405739CC 000B00FB
+$00000000 00000000
++P1
+%Credits: Code Master
+$205739CC 00000000
++P2
+%Credits: Code Master
+$20573DB8 00000000
++P3
+%Credits: Code Master
+$205741A4 00000000
++P4
+%Credits: Code Master
+$20574590 00000000
++P5
+%Credits: Code Master
+$2057497C 00000000
++P6
+%Credits: Code Master
+$20574D68 00000000
++P7
+%Credits: Code Master
+$20575154 00000000
++P8
+%Credits: Code Master
+$20575540 00000000
++P9
+%Credits: Code Master
+$2057592C 00000000
++P10
+%Credits: Code Master
+$20575D18 00000000
++P11
+%Credits: Code Master
+$20576104 00000000
+!!
++Home Team Score Modifier
+%Credits: Code Master
+$2056D820 0000????
++Home Team Start With Score Modifier
+%Credits: Code Master
+$D056D820 00000000
+$2056D820 0000????
++M] Must Be On
+%Credits: MadCatz
+$9037D4BC 0C0DF424
++Reset Clock (Hold [Select] And Press [L2])
+%Credits: MadCatz
+$D0648982 0000FEFE
+$20570838 00000000
+!!
+

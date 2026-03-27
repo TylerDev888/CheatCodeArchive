@@ -1,0 +1,83 @@
+^3 = NAME: Smash Cars Racing (Pal-Unk)
+^2 = GameID: SLES-51800
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0119664 00119667
+!!
+!Lap Modifier:
++Always 1 Lap Races
+%Credits: Codejunkies
+$200FFF00 24020001
+$200FFF04 03E00008
+$201EB594 0803FFC0
++Always 2 Lap Races
+%Credits: Codejunkies
+$200FFF00 24020002
+$200FFF04 03E00008
+$201EB594 0803FFC0
++Always 5 Lap Races
+%Credits: Codejunkies
+$200FFF00 24020005
+$200FFF04 03E00008
+$201EB594 0803FFC0
+!!
+!Replace Firestarter Track Into...:
++Aloha Drive
+%Credits: Codejunkies
+$00343308 0000000A
++Area 51
+%Credits: Codejunkies
+$00343308 00000001
++Back In The Ussr
+%Credits: Codejunkies
+$00343308 00000004
++Beach Smach Up
+%Credits: Codejunkies
+$00343308 00000002
++Castle Bustle
+%Credits: Codejunkies
+$00343308 0000000C
++Gold Rush
+%Credits: Codejunkies
+$00343308 00000008
++Jungle Beat
+%Credits: Codejunkies
+$00343308 00000007
++Rally Mess
+%Credits: Codejunkies
+$00343308 0000000B
++Tour De Smach
+%Credits: Codejunkies
+$00343308 00000003
++Viva La Cuba
+%Credits: Codejunkies
+$00343308 00000005
++Wild Wild West
+%Credits: Codejunkies
+$00343308 00000009
++Yellow River
+%Credits: Codejunkies
+$00343308 00000006
+!!
++All Championships Open
+%Credits: Codejunkies
+$200FFF40 24020001
+$200FFF44 03E00008
+$20294810 0803FFD0
+$20294918 0803FFD0
++All Tracks Available
+%Credits: Codejunkies
+$202C5148 10000009
++Disable AI
+%Credits: Codejunkies
+$201D972C 24030000
++Pay Championship Fee For Max Cash
+%Credits: Codejunkies
+$202FE0A0 3C05000E
++Quick Cars
+%Credits: Codejunkies
+$20174200 3C014400
+$20174204 AC4102F4
+!!
+

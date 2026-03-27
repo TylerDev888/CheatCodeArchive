@@ -1,0 +1,20 @@
+^3 = NAME: ESPN National Hockey Night (Pal-Unk)
+^2 = GameID: SLES-50171
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0127020 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0127020 00127023
+!!
++End The Quarter (Press L2+R2)
+%Credits: Codejunkies
+$D0683B00 0000FCFF
+$1068B42A 0000453B
++Play Only 5 Mins A Quarter (Press L1+R1 To Activate)
+%Credits: Codejunkies
+$D0683B00 0000F3FF
+$1068B42A 0000453B
+!!
+

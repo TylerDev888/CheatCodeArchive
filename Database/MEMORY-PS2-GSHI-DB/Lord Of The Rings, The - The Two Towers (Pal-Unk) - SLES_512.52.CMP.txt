@@ -1,0 +1,495 @@
+^3 = NAME: Lord Of The Rings, The - The Two Towers (Pal-Unk)
+^2 = GameID: SLES-51252
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F02001C4 002001C7
+$200FFF04 2402270F
+$200FFF00 8F8385BC
+$200FFF08 10030009
+$200FFF30 24030070
+$200FFF34 080B114E
+$202C4534 0803FFC0
++(M) Must Be On
+%Credits: Codejunkies
+$F02001C4 000001FD
+!!
+!Aragon: Level Completed:
++Amon Hen
+%Credits: Codejunkies
+$00464899 00000001
++Balin's Tomb
+%Credits: Codejunkies
+$00464898 00000001
++Fangorn Forest
+%Credits: Codejunkies
+$0046489A 00000001
++Gap Of Rohan
+%Credits: Codejunkies
+$0046489D 00000001
++Gates Of Moria
+%Credits: Codejunkies
+$00464897 00000001
++Helm's Deep-Breached Wall
+%Credits: Codejunkies
+$0046489F 00000001
++Helm's Deep-Hornburg Courtyard
+%Credits: Codejunkies
+$004648A0 00000001
++Helm's Deep-The Deeping Wall
+%Credits: Codejunkies
+$0046489E 00000001
++Plains Of Rohan
+%Credits: Codejunkies
+$0046489B 00000001
++The Westfold
+%Credits: Codejunkies
+$0046489C 00000001
++Tower Of Orthanc
+%Credits: Codejunkies
+$004648A2 00000001
++Weathertop
+%Credits: Codejunkies
+$00464896 00000001
+!!
+!Aragorn Moves Unlocked:
++Bane Of Saruman
+%Credits: Codejunkies
+$00465843 00000001
++Charge Attack
+%Credits: Codejunkies
+$0046582C 00000001
++Goblin Bane
+%Credits: Codejunkies
+$00465841 00000001
++Gondor Bow
+%Credits: Codejunkies
+$00465832 00000001
++Isildur Deliverance
+%Credits: Codejunkies
+$0046583C 00000001
++Isildur's Death Charge
+%Credits: Codejunkies
+$0046583D 00000001
++Isildur's Gambit
+%Credits: Codejunkies
+$0046583E 00000001
++Isildur's Judgment
+%Credits: Codejunkies
+$00465840 00000001
++Isildur's Swift Terror
+%Credits: Codejunkies
+$0046583B 00000001
++Isildur's War Rush
+%Credits: Codejunkies
+$0046583F 00000001
++Master Swordsman
+%Credits: Codejunkies
+$00465845 00000001
++Orc Bane
+%Credits: Codejunkies
+$00465842 00000001
++Ranger Fury
+%Credits: Codejunkies
+$0046582D 00000001
++Rising Attack
+%Credits: Codejunkies
+$00465844 00000001
++Rohan Bow
+%Credits: Codejunkies
+$00465831 00000001
++Rush Attack
+%Credits: Codejunkies
+$0046582B 00000001
++Strength Of Elendil
+%Credits: Codejunkies
+$00465837 00000001
++Strength Of Isildur
+%Credits: Codejunkies
+$00465836 00000001
++Strength Of The Argonath
+%Credits: Codejunkies
+$00465838 00000001
++Strength Of The Stewards
+%Credits: Codejunkies
+$00465835 00000001
++Wilderness Rage
+%Credits: Codejunkies
+$0046582E 00000001
++Wrath Of Numenor
+%Credits: Codejunkies
+$0046582F 00000001
+!!
+!Enemy Life Codes:
++1 Hit Kill Monsters
+%Credits: Codejunkies
+$200FFF40 8F8385BC
+$200FFF48 14710002
+$200FFF4C 24030001
+$200FFF50 8C430024
+$200FFF58 AE230300
+$200FFF5C 0809FF12
+$2027FC40 0803FFD0
++Burst In Flames Enemies
+%Credits: Codejunkies
+$2011D964 00000000
+$2011D97C 00000000
++Disable Monsters A.I.
+%Credits: Codejunkies
+$202787D0 00000000
++Hard Mode - Monsters Have Loads Of HP
+%Credits: Codejunkies
+$200FFF40 8F8385BC
+$200FFF48 14710002
+$200FFF4C 2403270F
+$200FFF50 8C430024
+$200FFF58 AE230300
+$200FFF5C 0809FF12
+$2027FC40 0803FFD0
++Unlock Isildur
+%Credits: Codejunkies
+$004648A3 00000001
+$004648A1 00000001
+!!
+!Game Speed Codes:
++Always Devasting
+%Credits: Codejunkies
+$00381964 00000001
++Display Debug Console
+%Credits: Codejunkies
+$00410C99 00000001
++Display Debug Info
+%Credits: Codejunkies
+$2043C970 00000000
++Display Debug Vectors
+%Credits: Codejunkies
+$2018764C 24010001
+$20187650 A0610005
++Friends Can Be Hit
+%Credits: Codejunkies
+$2027F584 24020001
++Hard-Ultra Fast Enemies
+%Credits: Codejunkies
+$200FFF70 8F8285BC
+$200FFF78 14510002
+$200FFF7C 3C024040
+$200FFF80 3C023F80
+$200FFF88 AE220310
+$200FFF90 0809FFEE
+$2027FFB0 0803FFDC
++Hyper Mode
+%Credits: Codejunkies
+$2027FF74 3C014080
+$2027FFB4 AE210310
++Infinite Ammo
+%Credits: Codejunkies
+$00381968 00000001
++Low Fog
+%Credits: Codejunkies
+$20381420 00000000
++Max Upgrade Points
+%Credits: Codejunkies
+$20381BD0 00007000
+$2038C510 00007000
++Quick Experience
+%Credits: Codejunkies
+$20152860 3C024A1C
+$2015286C 44826000
++Skip Videos
+%Credits: Codejunkies
+$2026A748 00000000
++Slow Motion Enemies
+%Credits: Codejunkies
+$200FFF70 8F8285BC
+$200FFF78 14510002
+$200FFF7C 3C023E00
+$200FFF80 3C023F80
+$200FFF88 AE220310
+$200FFF90 0809FFEE
+$2027FFB0 0803FFDC
++Unlock Cheat Codes
+%Credits: Codejunkies
+$004648CF 00000001
+!!
+!Gimli Moves Unlocked:
++Axe Mastery Of Kings
+%Credits: Codejunkies
+$004658E6 00000001
++Balin's Death Charge
+%Credits: Codejunkies
+$004658DD 00000001
++Balin's Deliverance
+%Credits: Codejunkies
+$004658DC 00000001
++Balin's Gambit
+%Credits: Codejunkies
+$004658DE 00000001
++Balin's Judgement
+%Credits: Codejunkies
+$004658E0 00000001
++Balin's Swift Terror
+%Credits: Codejunkies
+$004658DB 00000001
++Balin's War Rush
+%Credits: Codejunkies
+$004658DF 00000001
++Bane Of Saruman
+%Credits: Codejunkies
+$004658E3 00000001
++Charge Attack
+%Credits: Codejunkies
+$004658CC 00000001
++Dwarven Fury
+%Credits: Codejunkies
+$004658CD 00000001
++Goblin Bane
+%Credits: Codejunkies
+$004658E1 00000001
++Might Of Balin
+%Credits: Codejunkies
+$004658D8 00000001
++Might Of Gloin
+%Credits: Codejunkies
+$004658D9 00000001
++Might Of Iron
+%Credits: Codejunkies
+$004658D6 00000001
++Might Of Khazad-Dum
+%Credits: Codejunkies
+$004658DA 00000001
++Might Of Rock
+%Credits: Codejunkies
+$004658D5 00000001
++Misty Mountain Axes
+%Credits: Codejunkies
+$004658D2 00000001
++Moria Axes
+%Credits: Codejunkies
+$004658D1 00000001
++Mountain Rage
+%Credits: Codejunkies
+$004658CE 00000001
++Orc Bane
+%Credits: Codejunkies
+$004658E2 00000001
++Rising Attack
+%Credits: Codejunkies
+$004658E4 00000001
++Rune 0F Protection
+%Credits: Codejunkies
+$004658D7 00000001
++Rush Attack
+%Credits: Codejunkies
+$004658CB 00000001
++Wrath Of Moria
+%Credits: Codejunkies
+$004658CF 00000001
+!!
+!Gimli: Level Completed:
++Amon Hen
+%Credits: Codejunkies
+$004648B8 00000001
++Balin's Tomb
+%Credits: Codejunkies
+$004648B7 00000001
++Fangorn Forest
+%Credits: Codejunkies
+$004648B9 00000001
++Gap Of Rohan
+%Credits: Codejunkies
+$004648BC 00000001
++Gates Of Moria
+%Credits: Codejunkies
+$004648B6 00000001
++Helm's Deep-Breached Wall
+%Credits: Codejunkies
+$004648BE 00000001
++Helm's Deep-Hornburg Courtyard
+%Credits: Codejunkies
+$004648BF 00000001
++Helm's Deep-The Deeping Wall
+%Credits: Codejunkies
+$004648BD 00000001
++Plains Of Rohan
+%Credits: Codejunkies
+$004648BA 00000001
++The Westfold
+%Credits: Codejunkies
+$004648BB 00000001
++Tower Of Orthanc
+%Credits: Codejunkies
+$004648C0 00000001
+!!
+!Isildur: Level Completed:
++Amon Hen
+%Credits: Codejunkies
+$004648C7 00000001
++Balin's Tomb
+%Credits: Codejunkies
+$004648C6 00000001
++Fangorn Forest
+%Credits: Codejunkies
+$004648C8 00000001
++Gap Of Rohan
+%Credits: Codejunkies
+$004648CB 00000001
++Gates Of Moria
+%Credits: Codejunkies
+$004648C5 00000001
++Helm's Deep-Breached Wall
+%Credits: Codejunkies
+$004648CD 00000001
++Helm's Deep-Hornburg Courtyard
+%Credits: Codejunkies
+$004648CE 00000001
++Helm's Deep-The Deeping Wall
+%Credits: Codejunkies
+$004648CC 00000001
++Plains Of Rohan
+%Credits: Codejunkies
+$004648C9 00000001
++The Westfold
+%Credits: Codejunkies
+$004648CA 00000001
+!!
+!Legolas Moves Unlocked:
++Bane Of Saruman
+%Credits: Codejunkies
+$00465893 00000001
++Charge Attack
+%Credits: Codejunkies
+$0046587C 00000001
++Dragonfire Arrows
+%Credits: Codejunkies
+$00465883 00000001
++Elrond's Death Charge
+%Credits: Codejunkies
+$0046588D 00000001
++Elrond's Deliverance
+%Credits: Codejunkies
+$0046588C 00000001
++Elrond's Gambit
+%Credits: Codejunkies
+$0046588E 00000001
++Elrond's Judgement
+%Credits: Codejunkies
+$00465890 00000001
++Elrond's Swift Terror
+%Credits: Codejunkies
+$0046588B 00000001
++Elrond's War Rush
+%Credits: Codejunkies
+$0046588F 00000001
++Elven Bow Mastery
+%Credits: Codejunkies
+$00465897 00000001
++Elven Fury
+%Credits: Codejunkies
+$0046587D 00000001
++Force Of Celeborn
+%Credits: Codejunkies
+$00465885 00000001
++Force Of Galadriel
+%Credits: Codejunkies
+$00465886 00000001
++Gil-Galad's Rage
+%Credits: Codejunkies
+$0046587E 00000001
++Goblin Bane
+%Credits: Codejunkies
+$00465891 00000001
++Lothlorien Longbow
+%Credits: Codejunkies
+$00465882 00000001
++Mithril Arrows
+%Credits: Codejunkies
+$00465884 00000001
++Orc Bane
+%Credits: Codejunkies
+$00465892 00000001
++Rising Attack
+%Credits: Codejunkies
+$00465894 00000001
++Rivendell Longbow
+%Credits: Codejunkies
+$00465881 00000001
++Rush Attack
+%Credits: Codejunkies
+$0046587B 00000001
+!!
+!Legolas: Level Completed:
++Amon Hen
+%Credits: Codejunkies
+$004648A9 00000001
++Balin's Tomb
+%Credits: Codejunkies
+$004648A8 00000001
++Fangorn Forest
+%Credits: Codejunkies
+$004648AA 00000001
++Gap Of Rohan
+%Credits: Codejunkies
+$004648AD 00000001
++Gates Of Moria
+%Credits: Codejunkies
+$004648A7 00000001
++Helm's Deep-Breached Wall
+%Credits: Codejunkies
+$004648AF 00000001
++Helm's Deep-Hornburg Courtyard
+%Credits: Codejunkies
+$004648B0 00000001
++Helm's Deep-The Deeping Wall
+%Credits: Codejunkies
+$004648AE 00000001
++Plains Of Rohan
+%Credits: Codejunkies
+$004648AB 00000001
++The Westfold
+%Credits: Codejunkies
+$004648AC 00000001
++Tower Of Orthanc
+%Credits: Codejunkies
+$004648B1 00000001
+!!
++Must Be On (This Code Must Be On For The Three Codes Below To Work!)
+%Credits: Codejunkies
+$200FFF04 2402270F
+$200FFF00 8F8385BC
+$200FFF08 10030009
+$200FFF30 24030070
+$200FFF34 080B114E
+$202C4534 0803FFC0
+!This Code Requires The Must Be On Code:
++Better Speed
+%Credits: Codejunkies
+$200FFF24 3C014000
+$200FFF28 AC610310
++Infinite Health
+%Credits: Codejunkies
+$200FFF10 AC620300
+$200FFF14 AC620304
++Max Ammo
+%Credits: Codejunkies
+$200FFF18 A4620308
+$200FFF1C A462030A
+!!
+!You Must Use Max Level Character Codes To Unlock The Secret Mission:
++Aragorn Max Level
+%Credits: Codejunkies
+$20464B54 00000009
++Gimli Max Level
+%Credits: Codejunkies
+$204651F4 00000009
++Isildur Max Level
+%Credits: Codejunkies
+$00465544 00000009
++Legolas Max Level
+%Credits: Codejunkies
+$20464EA4 00000009
++Unlock Everything-Menu
+%Credits: Codejunkies
+$201C27E4 24020001
+!!
+!!
+

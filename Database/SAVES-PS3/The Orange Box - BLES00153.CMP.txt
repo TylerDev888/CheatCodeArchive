@@ -1,0 +1,10 @@
+^2 = GameID: BLES00153
+^3 = NAME: The Orange Box
+^5 = APCRED: by bucanero
+^4 = FILE: *.CFG
++Calculate Crc32 For .cfg
+$set range:0x00,eof+1
+$set [hash]:crc32
+^4 = FILE: *.CHK
++Write New Crc32 To .chk
+$write at 0x00:[hash]

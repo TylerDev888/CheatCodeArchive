@@ -1,0 +1,69 @@
+^1 = HASH: 683845A3
+^3 = NAME: Hard Hitter Tennis
+^2 = GameID: SLUS_205.68
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002AF867
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$902AF864 0C0B18FF
+!!
+!Codes:
++P1 Never Scores
+%Credits: Code Master
+$2037C718 00000000
++P1 Start With 15 Points
+%Credits: Code Master
+$D037C718 00000000
+$2037C718 00000001
++P1 Start With 30 Points
+%Credits: Code Master
+$D037C718 00000000
+$2037C718 00000002
++P1 Start With 40 Points
+%Credits: Code Master
+$D037C718 00000000
+$2037C718 00000003
++P2 Never Scores
+%Credits: Code Master
+$2037C71C 00000000
++P2 Start With 15 Points
+%Credits: Code Master
+$D037C71C 00000000
+$2037C71C 00000001
++P2 Start With 30 Points
+%Credits: Code Master
+$D037C71C 00000000
+$2037C71C 00000002
++P2 Start With 40 Points
+%Credits: Code Master
+$D037C71C 00000000
+$2037C71C 00000003
++P1 Start With Win Modifier (01-09)
+%Credits: Code Master
+$D037C720 00000000
+$2037C720 000000??
++P2 Start With Win Modifier (01-09)
+%Credits: Code Master
+$D037C724 00000000
+$2037C724 000000??
+!!
+!Shooting Tennis Mini Game Codes:
++Max Score
+%Credits: Code Master
+$2039371C 0001869F
++P1 Press Select For More Balls
+%Credits: Code Master
+$D03172C2 0000FFFE
+$20393720 00000005
+!!
+!Alphabet Tennis Mini Game Codes:
++Max Score
+%Credits: Code Master
+$203912F4 0001869F
++P1 Press Select For More Balls
+%Credits: Code Master
+$D03172C2 0000FFFE
+$20390FF8 0000001E
+!!

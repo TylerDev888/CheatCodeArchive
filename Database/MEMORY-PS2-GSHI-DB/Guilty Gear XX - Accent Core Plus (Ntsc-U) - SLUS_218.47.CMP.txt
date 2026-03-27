@@ -1,0 +1,143 @@
+^3 = NAME: Guilty Gear XX - Accent Core Plus (Ntsc-U)
+^2 = GameID: SLUS-21847
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: lee4
+$902D62A0 0C0B5850
++Enable Code (Must Be On)
+%Credits: lee4
+$F0100008 002F0123
+!!
+!Jokers:
++Player 1 Controller
+%Credits: lee4
+$D045811C 0000????
++Player 2 Controller
+%Credits: lee4
+$D045839C 0000????
+!!
++Enable Normal-Ex And Ac-Gg-Ggx
+%Credits: lee4
+$4034E910 00070001
+$01010101 00000000
++Enable Slash Modes Including Gold And Shadow
+%Credits: lee4
+$4034E8D8 000C0001
+$00010001 00000000
++Have All Characters' Colors
+%Credits: lee4
+$1034E8B8 0000FFFF
++Have All Ending & EX Ending
+%Credits: lee4
+$40350B70 000C0001
+$02010102 00000000
++Have All Missions Completed
+%Credits: lee4
+$40350800 00C40001
+$01010101 00000000
++Have All Secret & Special
+%Credits: lee4
+$40350B2C 00070001
+$01010101 00000000
++Have All Story
+%Credits: lee4
+$40350BA0 00060001
+$03030303 00000000
+$20350BB8 01010101
++Hit Anywhere Both Players
+%Credits: nolberto82
+$201E971C 00000000
++Inf Time
+%Credits: lee4
+$103E99B8 00001734
++P1 999 Hits
+%Credits: lee4
+$103C6E58 000003E7
++P1 Always Have Traits
+%Credits: lee4
+$003C6C1A 00000001
++P1 Character Modifier {<I>Character Modifier Digits 01 = SOL-Badguy 02 = Ky 03 = May 04 = Milla-Rage 05 = AXL-Low 06 = Potemkin 07 = Chipp 08 = Eddie 09 = Baiken 0A = Faust 0B = Testament 0C = Jam 0D = Anji 0E = Johnny 0F = Venom 10 = Dizzy 11 = Slayer 12 = I-No 13 = Zappa 14 = Bridget 15 = Robo-Ky 16 = A.B.A 17 = Order-Sol 18 = Kliff 19 = Justice</I>}
+%Credits: lee4
+$003C6A18 000000??
++P1 HP
+%Credits: lee4
+$603C679C 000001A4
+$00010001 0000001E
++P1 Infinite Burst
+%Credits: lee4
+$203C6D08 00013A98
++P1 Infinite Guard
+%Credits: lee4
+$003C6C2A 00000080
++P1 Infinite HP
+%Credits: lee4
+$11E5B01E 000001A4
++P1 Infinite Tension
+%Credits: lee4
+$103C6C10 00002710
++P1 Never Have Traits
+%Credits: lee4
+$003C6C1A 00000000
++P1 No Burst
+%Credits: lee4
+$203C6D08 00000000
++P1 No Guard
+%Credits: lee4
+$003C6C2A 00000000
++P1 No HP (P2 Press Select)
+%Credits: lee4
+$D045839C 0000FFFE
+$11E5B01E 00000000
++P1 No Tension
+%Credits: lee4
+$103C6C10 00000000
++P2 999 Hits
+%Credits: lee4
+$103C6D10 000003E7
++P2 Always Have Traits
+%Credits: lee4
+$003C6D62 00000001
++P2 Character Modifier {<I>Character Modifier Digits<Br>01 = SOL-Badguy<Br>02 = Ky<Br>03 = May<Br>04 = Milla-Rage<Br>05 = AXL-Low<Br>06 = Potemkin<Br>07 = Chipp<Br>08 = Eddie<Br>09 = Baiken<Br>0A = Faust<Br>0B = Testament<Br>0C = Jam<Br>0D = Anji<Br>0E = Johnny<Br>0F = Venom<Br>10 = Dizzy<Br>11 = Slayer<Br>12 = I-No<Br>13 = Zappa<Br>14 = Bridget<Br>15 = Robo-Ky<Br>16 = A.B.A<Br>17 = Order-Sol<Br>18 = Kliff<Br>19 = Justice</I>}
+%Credits: lee4
+$003C6A1A 000000??
++P2 HP
+%Credits: lee4
+$603C679C 000001A4
+$00010001 00000142
++P2 Infinite Burst
+%Credits: lee4
+$203C6E50 00013A98
++P2 Infinite Guard
+%Credits: lee4
+$103C6D72 00000080
++P2 Infinite HP
+%Credits: lee4
+$11E5B142 000001A4
++P2 Infinite Tension
+%Credits: lee4
+$103C6D58 00002710
++P2 Never Have Traits
+%Credits: lee4
+$003C6D62 00000000
++P2 No Burst
+%Credits: lee4
+$203C6E50 00000000
++P2 No Guard
+%Credits: lee4
+$103C6D72 00000000
++P2 No HP (P1 Press Select)
+%Credits: lee4
+$D045811C 0000FFFE
+$11E5B142 00000000
++P2 No Tension
+%Credits: lee4
+$103C6D58 00000000
++Skip FMV
+%Credits: lee4
+$202E9608 24020001
++Unlock Kliff & Justice
+%Credits: lee4
+$0034E90B 00000001
+$0034E90C 00000001
+!!
+

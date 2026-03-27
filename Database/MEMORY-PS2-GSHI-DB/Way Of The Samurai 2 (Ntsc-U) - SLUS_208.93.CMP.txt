@@ -1,0 +1,1200 @@
+^3 = NAME: Way Of The Samurai 2 (Ntsc-U)
+^2 = GameID: SLUS-20893
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F011DC3C 0011DC3F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0011DC3F
++[M] Must Be On
+%Credits: MadCatz
+$9011DC28 0C0476CC
+$200C2000 240107D0
+$200C2004 00000000
+$200C2008 86830042
+$200C200C 03E00008
+$200C2010 00000000
+$201DD4CC 0C030800
+$200C2020 2402000F
+$200C2024 00000000
+$200C2028 8482010A
+$200C202C 00000000
+$200C2030 03E00008
+$200C2034 24020001
+$201DD3DC 0C030808
+$200C2050 8E430008
+$200C2054 3C010101
+$200C2058 34210101
+$200C207C 240103E7
+$200C20A0 03E00008
+$20236528 0C030814
+!!
++All Difficulties
+%Credits: Codejunkies
+$109F05DA 00000064
++All Heads/Costumes
+%Credits: Codejunkies
+$109F05D8 0000FFFF
+!Check Moves In Sword Status For...:
++All Moves
+%Credits: MadCatz
+$200C205C AC610090
+$200C2060 AC610094
+$200C2064 AC610098
+$200C2068 AC61009C
+$200C206C AC6100A0
+$200C2070 AC6100A4
+$200C2074 AC6100A8
+$200C2078 AC6100AC
++Full Item Box
+%Credits: MadCatz
+$201776B0 24020063
+$201776D0 00A40821
+$201776D8 A0226CC0
+$201775D0 24020001
+$201775F0 00A40821
+$201775F4 A0226CD5
++Have Massive Damage Infliction
+%Credits: MadCatz
+$201557C8 00000000
+$201557D0 3C0242C8
++Max Attack
+%Credits: MadCatz
+$200C2080 AC610058
++Max Defense
+%Credits: MadCatz
+$200C2084 AC61005C
++Max Durability
+%Credits: MadCatz
+$200C2094 24010005
+$200C2098 AC610060
++Max Kills
+%Credits: MadCatz
+$200C209C 2401270F
+$200C20A4 AC610088
++Max Quality
+%Credits: MadCatz
+$200C2088 3C010063
+$200C208C 34210063
+$200C2090 AC610064
++Max Sword Safe Slots
+%Credits: MadCatz
+$109F7254 0000003C
++Unlock All Difficulty, Heads & Clothes
+%Credits: MadCatz
+$2026CEE8 3408FFFF
+$2026CEEC 0104082A
+$2026CEF4 AC680008
+!!
+!Equipped Weapon 1 Codes:
++Full Durability
+%Credits: Code Master
+$109F07B4 00000063
++Have All Moves
+%Credits: Code Master
+$409F07E0 00060001
+$01010101 00000000
+$109F07F8 00000101
++Max Att
+%Credits: Code Master
+$209F07A8 000F423F
++Max Def
+%Credits: Code Master
+$209F07AC 000F423F
++Max Dur
+%Credits: Code Master
+$209F07B0 00000009
++Max Durability
+%Credits: Code Master
+$109F07B6 00000063
++Max Kills
+%Credits: Code Master
+$209F07D8 000F423F
+!!
+!Equipped Weapon 2 Codes:
++Full Durability
+%Credits: Code Master
+$109F08B4 00000063
++Have All Moves
+%Credits: Code Master
+$409F08E0 00060001
+$01010101 00000000
+$109F08F8 00000101
++Max Att
+%Credits: Code Master
+$209F08A8 000F423F
++Max Def
+%Credits: Code Master
+$209F08AC 000F423F
++Max Dur
+%Credits: Code Master
+$209F08B0 00000009
++Max Durability
+%Credits: Code Master
+$109F08B6 00000063
++Max Kills
+%Credits: Code Master
+$209F08D8 000F423F
+!!
+!Equipped Weapon 3 Codes:
++Full Durability
+%Credits: Code Master
+$109F09B4 00000063
++Have All Moves
+%Credits: Code Master
+$409F09E0 00080001
+$01010101 00000000
++Max Att
+%Credits: Code Master
+$209F09A8 000F423F
++Max Def
+%Credits: Code Master
+$209F09AC 000F423F
++Max Dur
+%Credits: Code Master
+$209F09B0 00000009
++Max Durability
+%Credits: Code Master
+$109F09B6 00000063
++Max Kills
+%Credits: Code Master
+$209F09D8 000F423F
+!!
++Extra EP
+%Credits: Codejunkies
+$109F06D8 0000270F
++Have All Heads/Costumes/Difficulties
+%Credits: Code Master
+$209F05D8 05F5E0FF
+!Have Consumable Item Modifier Codes:
++Slot 1
+%Credits: Code Master
+$009F0720 000000??
++Slot 2
+%Credits: Code Master
+$009F0721 000000??
++Slot 3
+%Credits: Code Master
+$009F0722 000000??
++Slot 4
+%Credits: Code Master
+$009F0723 000000??
++Slot 5
+%Credits: Code Master
+$009F0724 000000??
++Slot 6
+%Credits: Code Master
+$009F0725 000000??
++Slot 7
+%Credits: Code Master
+$009F0726 000000??
++Slot 8
+%Credits: Code Master
+$009F0727 000000??
+!!
+!Have Decorative Item Modifier Codes:
++Slot 1 {<I>00 - Nothing 01 - Rice Ball 02 - Dried Fish 03 - Radish 04 - Bean Candy 05 - Rice Ball 2 06 - Ginseng 07 - Smelling Salts 08 - Medicine 09 - Sake 0A - (Japanese Item) 0B - Sword Powder 0C - Charm 0D - Scroll 0E - Special Scroll 0F - Secret Scroll 10 - Buddhist Beeds 11 - Talisman 12 - Magic Bead 13 - Longevity Powder 14 - Sword Oil 15 - Amagatsa Doll 16 - Devil Mushroom 17 - Unknown Parcel 18 - Purple Parcel 19 - Hair Ornament 1A - Kitten 1B - Secret Papers 1C - Baby 1D - Moneybox 1E - 100 Ryo Box 1F - Letter 20 - Small Bottle 21 - Fox Mask 22 - Tanga Mask 23 - Demon Mask 24 - Noh Mask 25 - Carnival Mask 26 - Spectacles 27 - Biwa 28 - Umbrella 29 - Parrot 2A - Shoulderpads 2B - Throwing Star 2C - Burial Tablet 2D - Flower 2E - Monkey 2F - White Eagle 30 - Headband 31 - Eyepatch 32 - Pirate Hat 33 - Rabbit 34 - Afro 35 - Shades 36 - Gasmask 37 - Disugise Set 38 - Modern Weapons 39 - Medicine Vial 3A - Hockey Mask 3B - Cat Ears 3C - Angel Wings 3D - (Japanse Item 2) 3E - (Japanse Item 3)</I>}
+%Credits: Code Master
+$009F72BA 000000??
++Slot 2
+%Credits: Code Master
+$009F72BB 000000??
++Slot 3
+%Credits: Code Master
+$009F72BC 000000??
++Slot 4
+%Credits: Code Master
+$009F72BD 000000??
++Slot 5
+%Credits: Code Master
+$009F72BE 000000??
++Slot 6
+%Credits: Code Master
+$009F72BF 000000??
++Slot 7
+%Credits: Code Master
+$009F72C0 000000??
++Slot 8
+%Credits: Code Master
+$009F72C1 000000??
++Slot 9
+%Credits: Code Master
+$009F72C2 000000??
++Slot 10
+%Credits: Code Master
+$009F72C3 000000??
++Slot 11
+%Credits: Code Master
+$009F72C4 000000??
++Slot 12
+%Credits: Code Master
+$009F72C5 000000??
++Slot 13
+%Credits: Code Master
+$009F72C6 000000??
++Slot 14
+%Credits: Code Master
+$009F72C7 000000??
++Slot 15
+%Credits: Code Master
+$009F72C8 000000??
++Slot 16
+%Credits: Code Master
+$009F72C9 000000??
++Slot 17
+%Credits: Code Master
+$009F72CA 000000??
++Slot 18
+%Credits: Code Master
+$009F72CB 000000??
++Slot 19
+%Credits: Code Master
+$009F72CC 000000??
++Slot 20
+%Credits: Code Master
+$009F72CD 000000??
++Slot 21
+%Credits: Code Master
+$009F72CE 000000??
++Slot 22
+%Credits: Code Master
+$009F72CF 000000??
++Slot 23
+%Credits: Code Master
+$009F72D0 000000??
++Slot 24
+%Credits: Code Master
+$009F72D1 000000??
++Slot 25
+%Credits: Code Master
+$009F72D2 000000??
++Slot 26
+%Credits: Code Master
+$009F72D3 000000??
++Slot 27
+%Credits: Code Master
+$009F72D4 000000??
++Slot 28
+%Credits: Code Master
+$009F72D5 000000??
+!!
+!Have Item Box Item Codes (No Quantities):
++Amagatsa Doll
+%Credits: Code Master
+$009F72B8 00000001
++Bean Candy
+%Credits: Code Master
+$009F72A8 00000001
++Buddhist Beeds
+%Credits: Code Master
+$009F72B3 00000001
++Charm
+%Credits: Code Master
+$009F72AF 00000001
++Devil Mushroom
+%Credits: Code Master
+$009F72B9 00000001
++Dried Fish
+%Credits: Code Master
+$009F72A6 00000001
++Ginseng
+%Credits: Code Master
+$009F72AA 00000001
++Longevity Powder
+%Credits: Code Master
+$009F72B6 00000001
++Magic Bead
+%Credits: Code Master
+$009F72B5 00000001
++Medicine
+%Credits: Code Master
+$009F72AC 00000001
++Radish
+%Credits: Code Master
+$009F72A7 00000001
++Rice Ball
+%Credits: Code Master
+$009F72A5 00000001
++Rice Ball 2
+%Credits: Code Master
+$009F72A9 00000001
++Sake
+%Credits: Code Master
+$009F72AD 00000001
++Scroll
+%Credits: Code Master
+$009F72B0 00000001
++Secret Scroll
+%Credits: Code Master
+$009F72B2 00000001
++Smelling Salts
+%Credits: Code Master
+$009F72AB 00000001
++Special Scroll
+%Credits: Code Master
+$009F72B1 00000001
++Sword Oil
+%Credits: Code Master
+$009F72B7 00000001
++Sword Powder
+%Credits: Code Master
+$009F72AE 00000001
++Talisman
+%Credits: Code Master
+$009F72B4 00000001
+!!
+!Have Special Item Modifier Codes:
++Slot 1
+%Credits: Code Master
+$009F0728 000000??
++Slot 2
+%Credits: Code Master
+$009F0729 000000??
++Slot 3
+%Credits: Code Master
+$009F072A 000000??
++Slot 4
+%Credits: Code Master
+$009F072B 000000??
+!!
+!Health Codes:
++5X Health
+%Credits: Codejunkies
+$109F06DE 00001388
+$109F06E0 00001388
++10X Health
+%Credits: Codejunkies
+$109F06DE 0000270F
+$109F06E0 0000270F
++All Decorative Items
+%Credits: Codejunkies
+$209F72B8 22210101
+$209F72BC 26252423
+$209F72C0 2A292827
+$209F72C4 2E2D2C2B
+$209F72C8 3231302F
+$209F72CC 36353433
+$209F72D0 3A393837
+$109F72D4 00003C3B
++All Items In Item Box
+%Credits: Codejunkies
+$409F72A4 00050001
+$01010101 00000000
++Double Health
+%Credits: Codejunkies
+$109F06DE 000007D0
+$109F06E0 000007D0
++Have All Consumable Items
+%Credits: Codejunkies
+$209F0720 04030201
+$209F0724 08070609
++Infinite Items In Item Box
+%Credits: Codejunkies
+$409F7290 00050001
+$63636363 00000000
++Infinite Money
+%Credits: Codejunkies
+$109F06D6 0000270F
++Triple Health
+%Credits: Codejunkies
+$109F06DE 00000BB8
+$109F06E0 00000BB8
+!!
++Infinite Energy
+%Credits: MadCatz
+$200C202C A4820108
++Infinite EP
+%Credits: Code Master
+$109F06D8 00000014
++Infinite Health
+%Credits: Code Master
+$201CEDF8 94830042
+$201CEDFC A4830040
++Infinite Health
+%Credits: MadCatz
+$200C2010 A6830040
++Infinite Sword Durability
+%Credits: MadCatz
+$2016A100 24003634
++Max Energy
+%Credits: MadCatz
+$200C2024 A482010A
++Max EP
+%Credits: Code Master
+$109F06DA 00000014
++Max EP
+%Credits: Codejunkies
+$109F06DA 0000270F
++Max Health
+%Credits: Code Master
+$200C0220 240307D0
+$200C0224 03E00008
+$200C0228 A6830042
+$201DD4CC 0C030088
++Max Health
+%Credits: MadCatz
+$200C2004 A6810042
++Max Infinite EP
+%Credits: Code Master
+$209F06D8 00140014
+!Max Item Codes:
++Amagatsa Doll
+%Credits: Code Master
+$009F72A3 00000001
++Bean Candy
+%Credits: Code Master
+$009F7293 00000001
++Buddhist Beeds
+%Credits: Code Master
+$009F729E 00000001
++Charm
+%Credits: Code Master
+$009F729A 00000001
++Devil Mushroom
+%Credits: Code Master
+$009F72A4 00000001
++Dried Fish
+%Credits: Code Master
+$009F7291 00000001
++Ginseng
+%Credits: Code Master
+$009F7295 00000001
++Longevity Powder
+%Credits: Code Master
+$009F72A1 00000001
++Magic Bead
+%Credits: Code Master
+$009F72A0 00000001
++Medicine
+%Credits: Code Master
+$009F7297 00000001
++Radish
+%Credits: Code Master
+$009F7292 00000001
++Rice Ball
+%Credits: Code Master
+$009F7290 00000001
++Rice Ball 2
+%Credits: Code Master
+$009F7294 00000001
++Sake
+%Credits: Code Master
+$009F7298 00000001
++Scroll
+%Credits: Code Master
+$009F729B 00000001
++Secret Scroll
+%Credits: Code Master
+$009F729D 00000001
++Smelling Salts
+%Credits: Code Master
+$009F7296 00000001
++Special Scroll
+%Credits: Code Master
+$009F729C 00000001
++Sword Oil
+%Credits: Code Master
+$009F72A2 00000001
++Sword Powder
+%Credits: Code Master
+$009F7299 00000001
++Talisman
+%Credits: Code Master
+$009F729F 00000001
+!!
++Max Money {<I>Check Status In Pause Menu For Mon.</I>}
+%Credits: MadCatz
+$200C2040 2406270F
+$200C2044 080495F6
+$200C2048 A4460106
+$2022DC0C 0C030810
++Max Sword Durability
+%Credits: MadCatz
+$202455A4 24110005
+$202455A8 ACD10060
+!Replace 1st Equipped Sword With...:
++Akabane
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371A50 00000080
+$009F0750 00000000
++Aun
+%Credits: MadCatz
+$E002FFF9 00306942
+$51373150 00000080
+$009F0750 00000000
++Binetsu
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372ED0 00000080
+$009F0750 00000000
++Biteikotsu
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372DD0 00000080
+$009F0750 00000000
++Bokuto
+%Credits: MadCatz
+$E002FFF9 00306942
+$51373750 00000080
+$009F0750 00000000
++Botan-Yuki
+%Credits: MadCatz
+$E002FFF9 00306942
+$513723D0 00000080
+$009F0750 00000000
++Burai-An
+%Credits: MadCatz
+$E002FFF9 00306942
+$513715D0 00000080
+$009F0750 00000000
++Chigusa
+%Credits: MadCatz
+$E002FFF9 00306942
+$513722D0 00000080
+$009F0750 00000000
++Chugen
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371B50 00000080
+$009F0750 00000000
++Chuyo-Tou
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371D50 00000080
+$009F0750 00000000
++Dai-Kuronama
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371850 00000080
+$009F0750 00000000
++Dojima-No-Tsuchisada
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372350 00000080
+$009F0750 00000000
++Excalibur
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372750 00000080
+$009F0750 00000000
++Furaibo
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372E50 00000080
+$009F0750 00000000
++Hairando
+%Credits: MadCatz
+$E002FFF9 00306942
+$513736D0 00000080
+$009F0750 00000000
++Haruyuki
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372D50 00000080
+$009F0750 00000000
++Hebi-Maru
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371ED0 00000080
+$009F0750 00000000
++Hida-No-Basho
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372BD0 00000080
+$009F0750 00000000
++Hyakumangoku
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371FD0 00000080
+$009F0750 00000000
++Ippatsumaru
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372250 00000080
+$009F0750 00000000
++Izumo-No-Hashira
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372050 00000080
+$009F0750 00000000
++Jumangoku
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371750 00000080
+$009F0750 00000000
++Kamikaze
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372F50 00000080
+$009F0750 00000000
++Kanesada
+%Credits: MadCatz
+$E002FFF9 00306942
+$513726D0 00000080
+$009F0750 00000000
++Kannagi
+%Credits: MadCatz
+$E002FFF9 00306942
+$513724D0 00000080
+$009F0750 00000000
++Kansei
+%Credits: MadCatz
+$E002FFF9 00306942
+$513725D0 00000080
+$009F0750 00000000
++Karasu-Toge
+%Credits: MadCatz
+$E002FFF9 00306942
+$513733D0 00000080
+$009F0750 00000000
++Kiyomitsu
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372950 00000080
+$009F0750 00000000
++Kobyoso
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372150 00000080
+$009F0750 00000000
++Koretomo-To-Shigekazu
+%Credits: MadCatz
+$E002FFF9 00306942
+$513732D0 00000080
+$009F0750 00000000
++Kotetsu
+%Credits: MadCatz
+$E002FFF9 00306942
+$513716D0 00000080
+$009F0750 00000000
++Kubirabasara
+%Credits: MadCatz
+$E002FFF9 00306942
+$51373250 00000080
+$009F0750 00000000
++Kujaku-Nitoryu
+%Credits: MadCatz
+$E002FFF9 00306942
+$513731D0 00000080
+$009F0750 00000000
++Kunishige
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371BD0 00000080
+$009F0750 00000000
++Meakashi-Jitte
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372A50 00000080
+$009F0750 00000000
++Momoge
+%Credits: MadCatz
+$E002FFF9 00306942
+$513728D0 00000080
+$009F0750 00000000
++Mumei-Tou
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371AD0 00000080
+$009F0750 00000000
++Mumei-Tou {<I>Only Use One Sword Wode At A Time; Press [L3]+[R3] When In-Game To Activate. Then Re-Equip The Desired Sword.</I>}
+%Credits: MadCatz
+$E002FFF9 00306942
+$513714D0 00000080
+$009F0750 00000000
++Murasame
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371950 00000080
+$009F0750 00000000
++Mutsu-No-Shirakane
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372850 00000080
+$009F0750 00000000
++Nemaki
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371550 00000080
+$009F0750 00000000
++Nippon-Retto
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371CD0 00000080
+$009F0750 00000000
++Oborozukiyo
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371DD0 00000080
+$009F0750 00000000
++Oganken
+%Credits: MadCatz
+$E002FFF9 00306942
+$513721D0 00000080
+$009F0750 00000000
++Ogumomaru
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371F50 00000080
+$009F0750 00000000
++Oka-Kunimitsu
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372CD0 00000080
+$009F0750 00000000
++Oni-Suzume
+%Credits: MadCatz
+$E002FFF9 00306942
+$513720D0 00000080
+$009F0750 00000000
++Onibocho
+%Credits: MadCatz
+$E002FFF9 00306942
+$513717D0 00000080
+$009F0750 00000000
++Osorezan
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371650 00000080
+$009F0750 00000000
++Reikon-Kudaki
+%Credits: MadCatz
+$E002FFF9 00306942
+$513737D0 00000080
+$009F0750 00000000
++Rengoku
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371C50 00000080
+$009F0750 00000000
++Rinne
+%Credits: MadCatz
+$E002FFF9 00306942
+$513735D0 00000080
+$009F0750 00000000
++Ryuhomaru-Koganmaru
+%Credits: MadCatz
+$E002FFF9 00306942
+$513730D0 00000080
+$009F0750 00000000
++Sakura-Tsumuji
+%Credits: MadCatz
+$E002FFF9 00306942
+$51373450 00000080
+$009F0750 00000000
++Samehadamaru
+%Credits: MadCatz
+$E002FFF9 00306942
+$513718D0 00000080
+$009F0750 00000000
++Sanmai-Oroshi
+%Credits: MadCatz
+$E002FFF9 00306942
+$513727D0 00000080
+$009F0750 00000000
++Sekkiseiki
+%Credits: MadCatz
+$E002FFF9 00306942
+$51373050 00000080
+$009F0750 00000000
++Shichiten-Batto
+%Credits: MadCatz
+$E002FFF9 00306942
+$51371E50 00000080
+$009F0750 00000000
++Shimei-Engetsu
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372450 00000080
+$009F0750 00000000
++Sorenka
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372650 00000080
+$009F0750 00000000
++Tarojiro
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372FD0 00000080
+$009F0750 00000000
++Tobikuchi-Jitte
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372AD0 00000080
+$009F0750 00000000
++Tsubaki
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372C50 00000080
+$009F0750 00000000
++Tsuma-Yoji
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372B50 00000080
+$009F0750 00000000
++Ukigumo-No-Kodachi
+%Credits: MadCatz
+$E002FFF9 00306942
+$513734D0 00000080
+$009F0750 00000000
++Washuzan
+%Credits: MadCatz
+$E002FFF9 00306942
+$51373650 00000080
+$009F0750 00000000
++Yaso
+%Credits: MadCatz
+$E002FFF9 00306942
+$51373350 00000080
+$009F0750 00000000
++Yoshimoto
+%Credits: MadCatz
+$E002FFF9 00306942
+$51372550 00000080
+$009F0750 00000000
++Zangetsu
+%Credits: MadCatz
+$E002FFF9 00306942
+$51373550 00000080
+$009F0750 00000000
++Zannkimaru
+%Credits: MadCatz
+$E002FFF9 00306942
+$513729D0 00000080
+$009F0750 00000000
++Zato
+%Credits: MadCatz
+$E002FFF9 00306942
+$513719D0 00000080
+$009F0750 00000000
+!!
+!Slot 1 Modifier:
++100 Ryo Box
+%Credits: Codejunkies
+$009F0728 0000001E
++Amagalsa Doll
+%Credits: Codejunkies
+$009F0728 00000015
++Baby
+%Credits: Codejunkies
+$009F0728 0000001C
++Buddhist Beads
+%Credits: Codejunkies
+$009F0728 00000010
++Charm
+%Credits: Codejunkies
+$009F0728 0000000C
++Devil Mushroom
+%Credits: Codejunkies
+$009F0728 00000016
++Hair Ornament
+%Credits: Codejunkies
+$009F0728 00000019
++Kitten
+%Credits: Codejunkies
+$009F0728 0000001A
++Letter
+%Credits: Codejunkies
+$009F0728 0000001F
++Longevity Powder
+%Credits: Codejunkies
+$009F0728 00000013
++Magic Bead
+%Credits: Codejunkies
+$009F0728 00000012
++Money Box
+%Credits: Codejunkies
+$009F0728 0000001D
++Parcel
+%Credits: Codejunkies
+$009F0728 00000017
++Parcel 2
+%Credits: Codejunkies
+$009F0728 00000018
++Scroll
+%Credits: Codejunkies
+$009F0728 0000000D
++Secret Papers
+%Credits: Codejunkies
+$009F0728 0000001B
++Secret Scroll
+%Credits: Codejunkies
+$009F0728 0000000F
++Small Bottle
+%Credits: Codejunkies
+$009F0728 00000020
++Special Scroll
+%Credits: Codejunkies
+$009F0728 0000000E
++Sword Oil
+%Credits: Codejunkies
+$009F0728 00000014
++Sword Powder
+%Credits: Codejunkies
+$009F0728 0000000B
++Talisman
+%Credits: Codejunkies
+$009F0728 00000011
+!!
+!Slot 2 Modifier:
++100 Ryo Box
+%Credits: Codejunkies
+$009F0729 0000001E
++Amagalsa Doll
+%Credits: Codejunkies
+$009F0729 00000015
++Baby
+%Credits: Codejunkies
+$009F0729 0000001C
++Buddhist Beads
+%Credits: Codejunkies
+$009F0729 00000010
++Charm
+%Credits: Codejunkies
+$009F0729 0000000C
++Devil Mushroom
+%Credits: Codejunkies
+$009F0729 00000016
++Hair Ornament
+%Credits: Codejunkies
+$009F0729 00000019
++Kitten
+%Credits: Codejunkies
+$009F0729 0000001A
++Letter
+%Credits: Codejunkies
+$009F0729 0000001F
++Longevity Powder
+%Credits: Codejunkies
+$009F0729 00000013
++Magic Bead
+%Credits: Codejunkies
+$009F0729 00000012
++Money Box
+%Credits: Codejunkies
+$009F0729 0000001D
++Parcel
+%Credits: Codejunkies
+$009F0729 00000017
++Parcel 2
+%Credits: Codejunkies
+$009F0729 00000018
++Scroll
+%Credits: Codejunkies
+$009F0729 0000000D
++Secret Papers
+%Credits: Codejunkies
+$009F0729 0000001B
++Secret Scroll
+%Credits: Codejunkies
+$009F0729 0000000F
++Small Bottle
+%Credits: Codejunkies
+$009F0729 00000020
++Special Scroll
+%Credits: Codejunkies
+$009F0729 0000000E
++Sword Oil
+%Credits: Codejunkies
+$009F0729 00000014
++Sword Powder
+%Credits: Codejunkies
+$009F0729 0000000B
++Talisman
+%Credits: Codejunkies
+$009F0729 00000011
+!!
+!Slot 3 Modifier:
++100 Ryo Box
+%Credits: Codejunkies
+$009F072A 0000001E
++Amagalsa Doll
+%Credits: Codejunkies
+$009F072A 00000015
++Baby
+%Credits: Codejunkies
+$009F072A 0000001C
++Buddhist Beads
+%Credits: Codejunkies
+$009F072A 00000010
++Charm
+%Credits: Codejunkies
+$009F072A 0000000C
++Devil Mushroom
+%Credits: Codejunkies
+$009F072A 00000016
++Hair Ornament
+%Credits: Codejunkies
+$009F072A 00000019
++Kitten
+%Credits: Codejunkies
+$009F072A 0000001A
++Letter
+%Credits: Codejunkies
+$009F072A 0000001F
++Longevity Powder
+%Credits: Codejunkies
+$009F072A 00000013
++Magic Bead
+%Credits: Codejunkies
+$009F072A 00000012
++Money Box
+%Credits: Codejunkies
+$009F072A 0000001D
++Parcel
+%Credits: Codejunkies
+$009F072A 00000017
++Parcel 2
+%Credits: Codejunkies
+$009F072A 00000018
++Scroll
+%Credits: Codejunkies
+$009F072A 0000000D
++Secret Papers
+%Credits: Codejunkies
+$009F072A 0000001B
++Secret Scroll
+%Credits: Codejunkies
+$009F072A 0000000F
++Small Bottle
+%Credits: Codejunkies
+$009F072A 00000020
++Special Scroll
+%Credits: Codejunkies
+$009F072A 0000000E
++Sword Oil
+%Credits: Codejunkies
+$009F072A 00000014
++Sword Powder
+%Credits: Codejunkies
+$009F072A 0000000B
++Talisman
+%Credits: Codejunkies
+$009F072A 00000011
+!!
+!Slot 4 Modifier:
++100 Ryo Box
+%Credits: Codejunkies
+$009F072B 0000001E
++Amagalsa Doll
+%Credits: Codejunkies
+$009F072B 00000015
++Baby
+%Credits: Codejunkies
+$009F072B 0000001C
++Buddhist Beads
+%Credits: Codejunkies
+$009F072B 00000010
++Charm
+%Credits: Codejunkies
+$009F072B 0000000C
++Devil Mushroom
+%Credits: Codejunkies
+$009F072B 00000016
++Hair Ornament
+%Credits: Codejunkies
+$009F072B 00000019
++Kitten
+%Credits: Codejunkies
+$009F072B 0000001A
++Letter
+%Credits: Codejunkies
+$009F072B 0000001F
++Longevity Powder
+%Credits: Codejunkies
+$009F072B 00000013
++Magic Bead
+%Credits: Codejunkies
+$009F072B 00000012
++Max Sword Safe Slots
+%Credits: Codejunkies
+$209F7254 00000064
++Money Box
+%Credits: Codejunkies
+$009F072B 0000001D
++Parcel
+%Credits: Codejunkies
+$009F072B 00000017
++Parcel 2
+%Credits: Codejunkies
+$009F072B 00000018
++Scroll
+%Credits: Codejunkies
+$009F072B 0000000D
++Secret Papers
+%Credits: Codejunkies
+$009F072B 0000001B
++Secret Scroll
+%Credits: Codejunkies
+$009F072B 0000000F
++Small Bottle
+%Credits: Codejunkies
+$009F072B 00000020
++Special Scroll
+%Credits: Codejunkies
+$009F072B 0000000E
++Sword Oil
+%Credits: Codejunkies
+$009F072B 00000014
++Sword Powder
+%Credits: Codejunkies
+$009F072B 0000000B
++Talisman
+%Credits: Codejunkies
+$009F072B 00000011
+!!
+!Sword 1 Codes:
++All Moves
+%Credits: Codejunkies
+$409F07E0 00050001
+$01010101 00000000
++Max Attack
+%Credits: Codejunkies
+$209F07A8 000001F4
++Max Defense
+%Credits: Codejunkies
+$209F07AC 000001F4
++Max Quality
+%Credits: Codejunkies
+$209F07B4 00630063
+!!
+!Sword 2 Codes:
++All Moves
+%Credits: Codejunkies
+$409F08E0 00050001
+$01010101 00000000
++Max Attack
+%Credits: Codejunkies
+$109F08A8 000001F4
++Max Defense
+%Credits: Codejunkies
+$109F08AC 000001F4
++Max Durability
+%Credits: Codejunkies
+$109F08B0 00000009
++Max Quality
+%Credits: Codejunkies
+$409F08B4 00310001
+$00630063 00000000
+$109F0978 00000063
+!!
+!Sword 3 Codes:
++Max Attack
+%Credits: Codejunkies
+$109F09A8 000001F4
++Max Defense
+%Credits: Codejunkies
+$109F09AC 000001F4
++Max Durability
+%Credits: Codejunkies
+$109F09B0 00000009
++Max Quality
+%Credits: Codejunkies
+$409F09B4 00310001
+$00630063 00000000
+$109F0A78 00000063
+!!
+!!
+

@@ -1,0 +1,42 @@
+^3 = NAME: Capcom Fighting Jam (Pal-Unk)
+^2 = GameID: SLES-52854
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F02990F8 002990FB
+!!
+!Player 1 Codes:
++Infinite Health
+%Credits: Codejunkies
+$20342F94 35E835E8
++Infinite Power
+%Credits: Codejunkies
+$003430A0 000000FF
+!!
+!Player 1 Size Modifier Codes:
++Press L3 To Make Your Character Shrink
+%Credits: Codejunkies
+$E002FFFD 003F39DC
+$30400000 00342E9C
+$30400000 00342E98
+$D03F39DC 0000FFFD
+$30400000 00342EA0
++Press R3 To Make Your Character Grow
+%Credits: Codejunkies
+$E002FFFB 003F39DC
+$30400000 00342E98
+$30400000 00342E9C
+$D03F39DC 0000FFFB
+$30400000 00342EA0
+!!
+!Player 2 Codes:
++1 Hit Kill
+%Credits: Codejunkies
+$E0020001 30343554
+$E0010001 30343556
+$20343554 00010001
++No Power Gauge
+%Credits: Codejunkies
+$00343660 00000000
+!!
+

@@ -1,0 +1,115 @@
+^3 = NAME: Kengo - Master Of Bushido (Pal-Unk)
+^2 = GameID: SLES-50114
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01003B8 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F01003B8 001003BB
++Alt Mastercode
+%Credits: RyTheHexer
+$F010009C 0000000E
+!!
++Blur Mode
+%Credits: InterAct
+$201A6760 FFFFFFFF
+$201A6764 FFFFFFFF
+$201A6768 FFFFFFFF
+$201A676C FFFFFFFF
++CPU Cannot Charge KI
+%Credits: RyTheHexer
+$10225DC8 00000000
++CPU Cannot Move OFF (L1+L2+D-Right):
+%Credits: RyTheHexer
+$E002FADF 001E5CDE
+$20136FFC 8F82924C
+$20137000 FFB10010
++CPU Cannot Move ON (L1+L2+D-Left):
+%Credits: RyTheHexer
+$E002FA7F 001E5CDE
+$20136FFC 03E00008
+$20137000 00000000
++CPU Never Attacks OFF (L1+L2+D-Down):
+%Credits: RyTheHexer
+$D01E5CDE 0000FABF
+$00137C3B 00000010
++CPU Never Attacks ON (L1+L2+D-Up)
+%Credits: RyTheHexer
+$D01E5CDE 0000FAEF
+$00137C3B 00000014
++Extra Time (Press L2 To Activate)
+%Credits: Codejunkies
+$D01E5BC2 0000FEFF
+$20299F10 00000BB8
++Freeze Timers
+%Credits: RyTheHexer
+$0013D2E7 0000008C
++Kill CPU Opponent (L1+L2+R1+R2)
+%Credits: RyTheHexer
+$D01E5CDE 0000F0FF
+$20225DC0 00000000
++Max All Player Stats
+%Credits: RyTheHexer
+$40296BC4 00050001
+$270F270F 00000000
+$10296BA8 000003E7
++Max Player Stats (Non-Condensed) {<I>Use This Is Your Cheat Device, Emu, Etc Doesn&#39;T Support &#39;Patch&#39; Codes.</I>}
+%Credits: RyTheHexer
+$10296BC4 0000270F
+$10296BC6 0000270F
+$10296BC8 0000270F
+$10296BCA 0000270F
+$10296BCC 0000270F
+$10296BCE 0000270F
+$10296BD0 0000270F
+$10296BD2 0000270F
+$10296BD4 0000270F
+$10296BD6 0000270F
+$10296BA8 000003E7
+!Player 1 Codes:
++Dancing Blade
+%Credits: Codejunkies
+$101EA26A 00000000
++Infinite Health
+%Credits: Codejunkies
+$101EC282 00003F80
+$101EC286 00003F80
++Infinite Ki
+%Credits: Codejunkies
+$101EC288 00001000
+!!
+!Player 2 Codes:
++Infinite Health
+%Credits: Codejunkies
+$10225DC2 00003F80
+$10225DC6 00003F80
++Infinite Ki
+%Credits: Codejunkies
+$10225DC8 00001000
++Max Agility
+%Credits: Codejunkies
+$10296BD0 0000270F
+$10296BC6 0000270F
++Max Attack Power
+%Credits: Codejunkies
+$10296BD6 0000270F
+$10296BCC 0000270F
++Max Attack Speed
+%Credits: Codejunkies
+$10296BCE 0000270F
+$10296BC4 0000270F
++Max Insight
+%Credits: Codejunkies
+$10296BD2 0000270F
+$10296BC8 0000270F
++Max Spirit
+%Credits: Codejunkies
+$10296BD4 0000270F
+$10296BCA 0000270F
+!!
++Unlock All Characters {<I>For Tournament Mode. Should Work For Vs Mode With Two Human Players Also.</I>}
+%Credits: RyTheHexer
+$20161F18 00000000
+!!
+

@@ -1,0 +1,1238 @@
+^2 = GameID: CUSA50766,CUSA53357,CUSA53356,CUSA53355,CUSA50767,CUSA50768
+^3 = NAME: Atelier Yumia The Alchemist Of Memories & The Envisioned Land
+^SECONDLAYER: YES
+^4 = FILE: save\user_data_[0-9]+.dat
++Replace Material In Basket
+$80010008 23494E44
+$14000000 00000000
+$A800[Slot] 0000000B
+$[Material] 0100E703
+$04000500 00000000
++Particles/Energy
+$80010004 23535444
+$93000000 00000055
+$280000[EnergyParticle] [AMOUNT:0000270F:HEX:BIG]
++Skill Points
+$80010004 23415444
+$28000014 [AMOUNT:0000270F:HEX:BIG]
++Simple Synthesis Material 999
+$80010004 23504C44
+$93000000 000000F0
+$88010004 [Simple]
+$18000004 000003E7
++Mod Equipped Equipment Stats (hp,attack,defense,speed)
+$80010004 23504C44
+$B8010004 [Equipment]
+$180000A0 0000[AMOUNT:270F:HEX:BIG<HP>]
+$180000A2 0000[AMOUNT:270F:HEX:BIG<Attack>]
+$180000A4 0000[AMOUNT:270F:HEX:BIG<Defense>]
+$180000A6 0000[AMOUNT:270F:HEX:BIG<Speed>]
++Mod Equipped Equipment Effects, Traits And Stats
+$80010004 23504C44
+$B8010004 [Equipment]
+$18000008 0000[TraitSlot<Number Of Unlocked Trait Slots>]
+$2800000E [Effect<Effect 1>]
+$08000012 000000[AMOUNT:63:HEX:BIG<Effect 1 Level>]
+$28000013 [Effect<Effect 2>]
+$08000017 000000[AMOUNT:63:HEX:BIG<Effect 2 Level>]
+$28000018 [Effect<Effect 3>]
+$0800001C 000000[AMOUNT:63:HEX:BIG<Effect 3 Level>]
+$2800001D [Effect<Effect 4>]
+$08000021 000000[AMOUNT:63:HEX:BIG<Effect 4 Level>]
+$28000022 [Effect<Effect 5>]
+$08000026 000000[AMOUNT:63:HEX:BIG<Effect 5 Level>]
+$28000027 [Effect<Effect 6>]
+$0800002B 000000[AMOUNT:63:HEX:BIG<Effect 1 Level>]
+$2800002C [Trait<Trait 1>]
+$08000030 000000[AMOUNT:63:HEX:BIG<Trait 1 Level>]
+$28000031 [Trait<Trait 2>]
+$08000035 000000[AMOUNT:63:HEX:BIG<Trait 2 level>]
+$28000036 [Trait<Trait 3><Trait 3 Level>]
+$0800003A 000000[AMOUNT:63:HEX:BIG]
+$180000A0 0000[AMOUNT:270F:HEX:BIG<HP>]
+$180000A2 0000[AMOUNT:270F:HEX:BIG<Attack>]
+$180000A4 0000[AMOUNT:270F:HEX:BIG<Defense>]
+$180000A6 0000[AMOUNT:270F:HEX:BIG<Speed>]
+^6 = MODS:
+[Slot]
+Value>Basket Slot
+0016	Slot 1
+0021	Slot 2
+002C	Slot 3
+0037	Slot 4
+0042	Slot 5
+004D	Slot 6
+0058	Slot 7
+0063	Slot 8
+006E	Slot 9
+0079	Slot 10
+0084	Slot 11
+008F	Slot 12
+009A	Slot 13
+00A5	Slot 14
+00B0	Slot 15
+00BB	Slot 16
+00C6	Slot 17
+00D1	Slot 18
+00DC	Slot 19
+00E7	Slot 20
+00F2	Slot 21
+00FD	Slot 22
+0108	Slot 23
+0113	Slot 24
+011E	Slot 25
+0129	Slot 26
+0134	Slot 27
+013F	Slot 28
+014A	Slot 29
+0155	Slot 30
+0160	Slot 31
+016B	Slot 32
+0176	Slot 33
+0181	Slot 34
+018C	Slot 35
+0197	Slot 36
+01A2	Slot 37
+01AD	Slot 38
+01B8	Slot 39
+01C3	Slot 40
+01CE	Slot 41
+01D9	Slot 42
+01E4	Slot 43
+01EF	Slot 44
+01FA	Slot 45
+0205	Slot 46
+0210	Slot 47
+021B	Slot 48
+0226	Slot 49
+0231	Slot 50
+023C	Slot 51
+0247	Slot 52
+0252	Slot 53
+025D	Slot 54
+0268	Slot 55
+0273	Slot 56
+027E	Slot 57
+0289	Slot 58
+0294	Slot 59
+029F	Slot 60
+02AA	Slot 61
+02B5	Slot 62
+02C0	Slot 63
+02CB	Slot 64
+02D6	Slot 65
+02E1	Slot 66
+02EC	Slot 67
+02F7	Slot 68
+0302	Slot 69
+030D	Slot 70
+0318	Slot 71
+0323	Slot 72
+032E	Slot 73
+0339	Slot 74
+0344	Slot 75
+034F	Slot 76
+035A	Slot 77
+0365	Slot 78
+0370	Slot 79
+037B	Slot 80
+0386	Slot 81
+0391	Slot 82
+039C	Slot 83
+03A7	Slot 84
+03B2	Slot 85
+03BD	Slot 86
+03C8	Slot 87
+03D3	Slot 88
+03DE	Slot 89
+03E9	Slot 90
+03F4	Slot 91
+03FF	Slot 92
+040A	Slot 93
+0415	Slot 94
+0420	Slot 95
+042B	Slot 96
+0436	Slot 97
+0441	Slot 98
+044C	Slot 99
+0457	Slot 100
+0462	Slot 101
+046D	Slot 102
+0478	Slot 103
+0483	Slot 104
+048E	Slot 105
+0499	Slot 106
+04A4	Slot 107
+04AF	Slot 108
+04BA	Slot 109
+04C5	Slot 110
+04D0	Slot 111
+04DB	Slot 112
+04E6	Slot 113
+04F1	Slot 114
+04FC	Slot 115
+0507	Slot 116
+0512	Slot 117
+051D	Slot 118
+0528	Slot 119
+0533	Slot 120
+053E	Slot 121
+0549	Slot 122
+0554	Slot 123
+055F	Slot 124
+056A	Slot 125
+0575	Slot 126
+0580	Slot 127
+058B	Slot 128
+0596	Slot 129
+05A1	Slot 130
+05AC	Slot 131
+05B7	Slot 132
+05C2	Slot 133
+05CD	Slot 134
+05D8	Slot 135
+05E3	Slot 136
+05EE	Slot 137
+05F9	Slot 138
+0604	Slot 139
+060F	Slot 140
+061A	Slot 141
+0625	Slot 142
+0630	Slot 143
+063B	Slot 144
+0646	Slot 145
+0651	Slot 146
+065C	Slot 147
+0667	Slot 148
+0672	Slot 149
+067D	Slot 150
+0688	Slot 151
+0693	Slot 152
+069E	Slot 153
+06A9	Slot 154
+06B4	Slot 155
+06BF	Slot 156
+06CA	Slot 157
+06D5	Slot 158
+06E0	Slot 159
+06EB	Slot 160
+06F6	Slot 161
+0701	Slot 162
+070C	Slot 163
+0717	Slot 164
+0722	Slot 165
+072D	Slot 166
+0738	Slot 167
+0743	Slot 168
+074E	Slot 169
+0759	Slot 170
+0764	Slot 171
+076F	Slot 172
+077A	Slot 173
+0785	Slot 174
+0790	Slot 175
+079B	Slot 176
+07A6	Slot 177
+07B1	Slot 178
+07BC	Slot 179
+07C7	Slot 180
+07D2	Slot 181
+07DD	Slot 182
+07E8	Slot 183
+07F3	Slot 184
+07FE	Slot 185
+0809	Slot 186
+0814	Slot 187
+081F	Slot 188
+082A	Slot 189
+0835	Slot 190
+0840	Slot 191
+084B	Slot 192
+0856	Slot 193
+0861	Slot 194
+086C	Slot 195
+0877	Slot 196
+0882	Slot 197
+088D	Slot 198
+0898	Slot 199
+08A3	Slot 200
+08AE	Slot 201
+08B9	Slot 202
+08C4	Slot 203
+08CF	Slot 204
+08DA	Slot 205
+08E5	Slot 206
+08F0	Slot 207
+08FB	Slot 208
+0906	Slot 209
+0911	Slot 210
+091C	Slot 211
+0927	Slot 212
+0932	Slot 213
+093D	Slot 214
+0948	Slot 215
+0953	Slot 216
+095E	Slot 217
+0969	Slot 218
+0974	Slot 219
+097F	Slot 220
+098A	Slot 221
+0995	Slot 222
+09A0	Slot 223
+09AB	Slot 224
+09B6	Slot 225
+09C1	Slot 226
+09CC	Slot 227
+09D7	Slot 228
+09E2	Slot 229
+09ED	Slot 230
+09F8	Slot 231
+0A03	Slot 232
+0A0E	Slot 233
+0A19	Slot 234
+0A24	Slot 235
+0A2F	Slot 236
+0A3A	Slot 237
+0A45	Slot 238
+0A50	Slot 239
+0A5B	Slot 240
+0A66	Slot 241
+0A71	Slot 242
+0A7C	Slot 243
+0A87	Slot 244
+0A92	Slot 245
+0A9D	Slot 246
+0AA8	Slot 247
+0AB3	Slot 248
+0ABE	Slot 249
+0AC9	Slot 250
+0AD4	Slot 251
+0ADF	Slot 252
+0AEA	Slot 253
+0AF5	Slot 254
+0B00	Slot 255
+0B0B	Slot 256
+0B16	Slot 257
+0B21	Slot 258
+0B2C	Slot 259
+0B37	Slot 260
+0B42	Slot 261
+0B4D	Slot 262
+0B58	Slot 263
+0B63	Slot 264
+0B6E	Slot 265
+0B79	Slot 266
+0B84	Slot 267
+0B8F	Slot 268
+0B9A	Slot 269
+0BA5	Slot 270
+0BB0	Slot 271
+0BBB	Slot 272
+0BC6	Slot 273
+0BD1	Slot 274
+0BDC	Slot 275
+0BE7	Slot 276
+0BF2	Slot 277
+0BFD	Slot 278
+0C08	Slot 279
+0C13	Slot 280
+0C1E	Slot 281
+0C29	Slot 282
+0C34	Slot 283
+0C3F	Slot 284
+0C4A	Slot 285
+0C55	Slot 286
+0C60	Slot 287
+0C6B	Slot 288
+0C76	Slot 289
+0C81	Slot 290
+0C8C	Slot 291
+0C97	Slot 292
+0CA2	Slot 293
+0CAD	Slot 294
+0CB8	Slot 295
+0CC3	Slot 296
+0CCE	Slot 297
+0CD9	Slot 298
+0CE4	Slot 299
+0CEF	Slot 300
+[/Slot]
+[Material]
+9B646B05	Adamant
+FF4B37F2	Amatite Ore
+DE226903	Amber Crystal
+50CC8D89	Ambrosial Fruit
+2E666B06	Ametrite
+D7D28CA8	Ancient Blue Water
+FBBCD5F9	Ancient Fossil
+73A0BCA8	Ancient Peril
+0F232DF1	Angel's Embrace
+301B2DEC	Angular Cactus
+36FDF1C9	Animal Hide
+19C38C9E	Aqua Soda
+12133573	Argent Tarp
+21C0D5FB	Ashen Stone
+2CA5BCAB	Assist Afford
+2A296907	Aura Gemstone
+D2012488	Babel Pearl
+C7E08D96	Balloon Fruit
+DCB2CBAD	Baumpilz
+2FD48D8E	Beast Meat
+A82E3CB3	Bee Haven
+D70C248F	Bejeweled Rock Raptor Scale
+45EFF536	Berobed Betta
+C402CEB8	Bismuth Crystal
+06F3CDAE	Bismuthene
+1A383CB9	Bitter Beehive
+922C891D	Bitter Syrup
+734D756F	Black Puniball
+189A580C	Black Sand
+F3BF8C9C	Black Water
+05F9C7CF	Blessing of Delusion
+561E2DEE	Blue Clover
+F186C63E	Blue Neutralizer
+BF537573	Blue Puniball
+68BBD5F8	Breeze Stone
+15FCF8B9	Bronze Swimmer
+99F4CDAF	Cactal Fiber
+8C632E26	Calciball
+20238917	Calming Harp
+E731CB13	Campanula
+C96E31A8	Canary's Warble
+2BFCC7D1	Celestial Rose
+8CEAF533	Cerberus Fish
+72F7C7CE	Chained Flower
+440B248E	Chief's Staff
+50E008B3	Chrome Wire
+AA8BC641	Cloth
+1CB5D5F4	Cobalt Stone
+06A2BCA9	Coiled Clover
+35262DF3	Color-Changing Leaf
+82FAF8B8	Conductive Crab
+5430CB12	Confusion Powder
+73F1CDAD	Coral Chip
+228AF6D3	Coral Stone
+B109248D	Core Frame
+9F82834E	Cotton Bug
+2FE808B8	Cotton Grass
+31D5C5E0	Crescent Moon Jade
+4B216902	Crystal Shards
+9C710F6F	Crystal Uni
+2FA449A6	Cursed Arche
+EB888352	Cutlass
+204437ED	Damascal Stone
+BFF7CDB1	Damascus Plate
+F11A3578	Danger Mushroom
+57D8C5E2	Dark Carnation
+02B6CBAF	Deadly Replica
+D56FE53A	Death Gratia
+5F2A267A	Decayed Land Relic
+FEF3F539	Decaying Shellfish
+51B3D278	Deep Sea Stone
+1391461F	Diable Pod
+1F96A88E	Diamond Chunk
+426EE539	Disdimension
+3882C63B	Distilled Water
+10F1F8B2	Dragon Fish
+6A736450	Dried Lumber
+106A31A5	Dry Incense
+04266905	Dryad Jade
+C12ECB11	Dubious Log
+8739788F	Dunkelheit
+38163575	Dusk Mushroom
+3F45F4CF	Eerie Black Egg
+F992A88C	Einquartz
+1DA55813	Eisenstaub
+7F179091	Elder Garlic
+1E08248C	Electric Organ
+12199092	Electromelon
+AC43F4CE	Elemental Core
+AB9B580D	Emerald Glass
+7E8A8353	Ende Guide
+9CA249A5	Endemeteo
+B16E644D	Energy Powder
+6366E534	Enfer Cube
+26F317C6	Enhancer Flute
+4EBCCBB3	Essence of Scrap
+67CDC843	Essence Powder
+93F117C5	Eternal Astral Clock
+2A5A37FB	Eternal Crystal
+6548F4D1	Ether Core
+DAC4D5FE	Ethereal Stone
+1A3B7890	Evolved Sacred Silver
+3B08F2D0	Fallen Rampart
+D38FA88A	Fallen Star Piece
+64A05810	Fallen Stardust
+B14EF4D5	Fatal Beast Scale
+F804248A	Fatal Claws
+23AECBAA	Feathered Veil
+8DD0C845	Felsensalz
+B6AFCBAB	Fettle Cloth
+5F974623	Flamme
+78ABBCAF	Flexible Lumber
+378F8356	Floral Bee
+CB83C63C	Flour
+EE2A2DF6	Fontana Grass
+87363CB8	Forest Beehive
+0C99E8F8	Forest Feeling
+C6752BFD	Form Gem
+60BE8C9B	Fresh Spring Water
+A6252677	Fungal Valley Relic
+90ACCBA9	Fungstone
+65032489	Giant Puniball
+7DDBC5E4	Gilded Flower
+6C4A37F1	Glacial Stone
+CE4764CA	Gloomy Sunstone (1)
+B58BF6D4	Gloomy Sunstone (2)
+6691A88B	Glowshell
+C45E757A	Gold Puniball
+53353761	Golden Crown
+85692FF6	Golden Wheat
+603DF4CA	Golem Core
+0FEABEAF	Grand Orgen
+769F49A3	Granshine
+7F7DC638	Green Neutralizer
+52557574	Green Puniball
+7997E8F7	Grib
+BEB1D277	Guardian Stone
+A51A9093	Gunmetal Grapes
+99A3BCAA	Handmade Black Hole
+E91F2DEF	Harlequin Herb
+8AA35812	Harmonic Sand
+F7A3462B	Hart Lehrune
+AA882B09	Harvesting Pincers
+FF2A891C	Healing Parasol
+00EEC7C8	Health Flower
+71348922	Heavenly Armillary
+E3E108B4	Heavenly Rain Thread
+56E5BEAC	Heavenly Thread
+C4D6C5E1	Hibismuth
+80222675	Hidden Forest Relic
+B297A88F	Hollowcrysta
+3D8DC642	Honey
+CA908357	Honey Ant
+E3CD8D8A	Honeyed Malum
+1505F2CE	Hunter's Eye
+33742BFC	Hunter's Training Feather
+52A8BCAD	Hypercell
+DFF5C7CD	Icy Carnation
+254F37F4	Igneo Stone
+E9E6BEAD	Immortal Bloom
+36F4F8B4	Imperial Fish
+A0722BFB	Indestructible Tooth
+178AC640	Ingot
+A831788A	Inverse Metal
+F33EF4CB	Jelly Cube
+A5143574	Jewel Mushroom
+FD0F2491	King Crocodile Cut-Proof Hide
+3B4664C9	Kong Plate
+0C81834D	Ladybug Queen
+A3FBF1C8	Large Bone
+6A0E2490	Large Spirit Horse Soul
+A84464C8	Lasting Armor Shard
+F2984624	Lehrune
+5394E8F5	Lightning Tree
+97276906	Lilac Gemstone
+44D18CA7	Liquid Ring
+05FB17CB	Longevity Band
+76D935BF	Lost Heart
+B34537EE	Lottery Ore
+64712FFB	Lucky Clover
+F7722FFC	Lucky Lantern Grass
+AEC8C840	Lucky Leaf Bell
+5CF7F8B6	Mace Fish
+118C8354	Magnet Beetle
+E695E8F6	Magnetized Trunk
+1E6E17C8	Malevolent Wind
+35EDBEB1	Malicious Chain
+CC642FF3	Mana Leaf
+089439F8	Mana Meltazite
+B2EDF535	Marimo
+EF7131AA	Medicinal Moss
+AD8131B4	Medicinal Sap
+72F917CA	Merkmal Banner
+5704CEB9	Metal Parts
+A6924620	Meteor
+BD5B37FC	Meteorite Ore
+5DAAE803	Millennial Tree
+201369F9	Mine Coral
+39944621	Mirage Sword
+AFB6D5F5	Mobius Stone
+58878351	Mock Mushroom
+4470644E	Moldy Bark
+55D78D90	Moonlit Berry
+464737EF	Mordenite
+D3E5F530	Mossclad
+13242676	Mossy Forest Relic
+3D21357C	Mushedroom
+9B2BCB0F	Mushroom Powder
+C9FEF1CA	Mythical Hide
+D064E533	Never Open
+A6612FF1	Nitraloe
+B9F2C7CB	Northern Wind Flower
+52F9CDB2	Noxious Draft
+C9F5F8B5	Nu Ilahat
+841C3579	Onmbrella
+7A33CB14	Orb of Lesser Force
+09DB35C0	Ore Flame
+A3F2F8B3	Orichalcum Shell
+9CDC35C1	Overblown Battery
+09D18D8C	Pairapple
+A806F2CF	Palma Fruit
+1A8031B3	Panacea Flowers
+6C29891B	Panacea Sphere
+D246F4D0	Panther Claws
+E3D735BE	Paper Scraps
+805E2FEF	Paradise Grass
+5E193577	Parched Mushroom
+7C212DF0	Pellucid
+D94837F0	Pentanite
+E0EFCDAC	Perpetual Machine
+A2EBBEB0	Philosopher's Stone
+5914908F	Pine Fruit
+F2672FF5	Pinwind
+859A4625	Plajig
+1FECF534	Poisoned Puffer
+D771644F	Popshell
+6FB4CBAE	Prasiolite
+8203F2CD	Predator Talons
+C092E8F4	Prettimber
+41CAC841	Primal Remains
+852D267C	Pristine Ancient Relic
+D4CBC842	Prosperous Spellbook
+E09EBCA7	Protectite
+B31469FA	Puni Fossil
+EC159090	Pure Truffle
+E04B756E	Purple Puniball
+8EBED5FA	Puzzle Stone
+BD2A6908	Rainbow Gemstone
+C3E3BEAB	Rainbow Neutralizer
+5760757B	Rainbow Puniball
+DE328921	Re-Energizing Gear
+76CF8D8B	Red Devil
+5E85C63D	Red Neutralizer
+62C2C83C	Red Pseudanthium
+E5567575	Red Puniball
+CE34788C	Refreshing Sap
+2E2DCB10	Resentful Scream
+F22B267B	Restored Ancient Relic
+C2E908B9	Restrraint Silk
+B3248918	Revival Bouquet
+1BC7C83F	Ripuka Gel
+1E4DF4D4	Robust Fossil
+EFF8F8B7	Rock Fish
+8640F4CC	Rock Raptor Scales
+9ED3C5DF	Rose Crystal
+86C18C9D	Rosy Water Bamboo
+F86A17C6	Rotwood Miasma
+E5A9BCAE	Royal Rampart
+3B33788B	Rubellum Lily
+CC282679	Rusted Land Relic
+CB173576	Sabersol
+8969E536	Sadness Shuttle
+7CE8BEAE	Sage Coat
+EF01F2CC	Salamander Down
+5C00F2CB	Salamander Tears
+65C98CA2	Saline Water
+F9E8F532	Sardine
+91F5F53A	Sawe Fish
+408EA889	Scholar's Report
+EC782BFF	Scrapped Parts
+09700F6E	Scrappy Uni
+AD3C7891	Sealed Herb
+E5FACDB3	Secret Dual Spiral
+F5C3C83D	Shade Miasma
+64A2462A	Sharp Flamme
+AD393CBA	Silver Beehive
+99507571	Silver Puniball
+55EB08BA	Slimy String
+A36B31A6	Smoky Perfume
+0000766E	Smoldering Uni
+8705F9BF	Soaring Spearfish
+98FAC7D0	Solflower
+1942F4CD	Spirit Horse Soul
+5D928358	Spirit Isopod
+4CF4C7CC	Spirit's Regalia
+39272678	Spore Valley Relic
+30E2BEAA	Spring Scenery
+FACEC844	Spun Thread
+C31C2DED	Steeleaf
+55A749A8	Stellar Plajig
+8C94A88D	Steronze
+B4C1D5FC	Stone Fragments
+4F6E8B1F	Stone of Rebirth
+D2C78CA1	Subterranean Water
+88C5C83E	Succinite
+1E6D644C	Sun Splash
+26F1C7CA	Sunny Honey Flower
+09A149A4	Superior Grimoire
+C1676B07	Swirling Fire Fragments
+5C7031A9	Tall Taun
+827331AB	Taun
+171E357A	Tiled Mushroom
+329CE8FA	Tough Log
+39632FF2	Tough Vine
+B50C8FA5	Tranquil Spirit Water
+2CF6CDB0	Tri-Color Crystal
+BFA6BCAC	Trillion Locket
+E36C0F6C	Uni
+C2D58D8F	Unknown Egg
+8B06248B	Vanguard's Necklace
+34DF8D95	Venom Nut
+EAD9C5E3	Verdant Moonflower
+49B1CBAC	Violet Erz
+E1BDCBB4	Viscous Starmass
+C2A549A7	Vision Luft
+00F017C4	Vitality Overdrive
+95B7CBB0	Void Components
+71246904	Wald Pearl
+252E891E	Warding Sunny
+3D8A2B0A	Warrior's Leathers
+6DC6D5FF	Waterside Moss Stone
+13602FF0	Whatchamacallit
+064F7570	White Puniball
+D19E580F	White Sand
+0BADBCB0	Wisdom Component
+9F9AE8F9	Wizened Wood
+D927891A	Woodland Remedy
+40E4F52F	Xisor
+EC7BC637	Yellow Neutralizer
+812C2DF7	Zersetzend Wolf
+[/Material]
+[EnergyParticle]
+00	Energy shard
+04	Energy prism
+0C	Fire Particle
+10	Fire Particle
+14	Fire Particle
+18	Electric Particle
+1C	Electric Particle
+20	Electric Particle
+24	Ice Particle
+24	Ice Particle
+2C	Ice Particle
+30	Earth Particle
+34	Earth Particle
+38	Earth Particle
+[/EnergyParticle]
+[Simple]
+31886131	Iron
+1E41BE4C	Powder
+6B911FB2	Part
+6C51D233	Stone
+858DA2E8	Fibre
+A664878C	Water
+E4E4FDC7	Charcoal
+[/Simple]
+[TraitSlot]
+Value>Number of Trait slots unlocked
+0000	none unlocked	
+0004	1 slot unlocked	
+000C	2 slots unlocked	
+001C	3 slots unlocked	
+[/TraitSlot]
+[Trait]
+ID>Trait Name
+BB59BF30	Healing
+2858BF2F	Critical
+2D63BF36	HP Up
+9A61BF35	ATK Up
+0760BF34	DEF Up
+745EBF33	SPD Up
+4950BF2A	All Stats Boost
+B64EBF29	Skill Boost
+584BBCAC	Stun Boost
+EB4CBCAD	Reduce Cooldown
+7E4EBCAE	Item Use Count Up
+1150BCAF	Critical Damage Up
+A451BCB0	Inner Range Boost
+3753BCB1	Outer Range Boost
+CA54BCB2	Restore HP
+5D56BCB3	Follow-Up Fire Damage
+C03EBCA4	Follow-Up Ice Damage
+5340BCA5	Follow-Up Bolt Damage
+93BAC31E	Follow-Up Air Damage
+00B9C31D	Inflict Poison
+B9BDC320	Inflict Sleep
+26BCC31F	Inflict Burns
+DFC0C322	Inflict Paralysis
+4CBFC321	Inflict Restraints
+05C4C324	Inflict Frostbite
+72C2C323	Inflict Curse
+2BC7C326	Poison Cure
+98C5C325	Sleep Cure
+EAA4C138	Burns Cure
+7DA6C139	Paralysis Cure
+C4A1C136	Restraints Cure
+57A3C137	Frostbite Cure
+9E9EC134	Curse Cure
+31A0C135	SE Recovery
+789BC132	ATK & DEF Boost
+0B9DC133	DEF & SPD Boost
+5298C130	ATK & SPD Boost
+E599C131	HP Regeneration
+2514C9AA	Reduce ATK
+9212C9A9	Reduce DEF
+FF10C9A8	Reduce SPD
+6C0FC9A7	Reduce Fire Damage
+D90DC9A6	Reduce Ice Damage
+460CC9A5	Reduce Bolt Damage
+B30AC9A4	Reduce Air Damage
+2009C9A3	Enhance Fire Damage
+BD20C9B2	Enhance Ice Damage
+2A1FC9B1	Enhance Bolt Damage
+1CCCC6A4	Enhance Air Damage
+AFCDC6A5	Puni Slayer
+42CFC6A6	Wolf Slayer
+D5D0C6A7	Salamander Slayer
+D0C5C6A0	Horned Owl Slayer
+63C7C6A1	Beaver Slayer
+F6C8C6A2	Gorilla Slayer
+89CAC6A3	Hermit Crab Slayer
+B4D8C6AC	Spirit Horse Slayer
+47DAC6AD	Rock Raptor Slayer
+37A4CDB6	Jellyfish Slayer
+A4A2CDB5	Golem Slayer
+5DA7CDB8	Elemental Slayer
+CAA5CDB7	Roadrunner Slayer
+EB9DCDB2	Panther Slayer
+589CCDB1	Crocodile Slayer
+11A1CDB4	Sporeling Slayer
+7E9FCDB3	Block Poison
+9F97CDAE	Block Sleep
+0C96CDAD	Block Burns
+2E5CCBB0	Block Paralysis
+C15DCBB1	Block Restraints
+0859CBAE	Block Frostbite
+9B5ACBAF	Block Curse
+7A62CBB4	Destructive+
+0D64CBB5	Healing+
+545FCBB2	Critical+
+E760CBB3	HP Up+
+964FCBA8	ATK Up+
+2951CBA9	DEF Up+
+79F2AAA2	SPD Up+
+E6F0AAA1	All Stats Boost+
+53EFAAA0	Skill Boost+
+C0EDAA9F	Stun Boost+
+C5F8AAA6	Critical Damage Up+
+32F7AAA5	Follow-Up Fire Damage+
+9FF5AAA4	Follow-Up Ice Damage+
+0CF4AAA3	Follow-Up Bolt Damage+
+11FFAAAA	Follow-Up Air Damage+
+7EFDAAA9	ATK & DEF Boost+
+70AAA89C	DEF & SPD Boost+
+03ACA89D	ATK & SPD Boost+
+96ADA89E	Reduce ATK+
+29AFA89F	Reduce DEF+
+BCB0A8A0	Reduce SPD+
+4FB2A8A1	Reduce Fire Damage+
+E2B3A8A2	Reduce Ice Damage+
+75B5A8A3	Reduce Bolt Damage+
+08B7A8A4	Reduce Air Damage+
+9BB8A8A5	Enhance Fire Damage+
+B6F627B4	Enhance Ice Damage+
+49F827B5	Enhance Bolt Damage+
+90F327B2	Enhance Air Damage+
+23F527B3	Warrior Stance
+02FD27B8	Knight Stance
+95FE27B9	Fire Boost
+DCF927B6	Ice Boost
+6FFB27B7	Bolt Boost
+4E0328BC	Air Boost
+E10428BD	Fire Robe
+BF3E2ABA	Ice Robe
+2C3D2AB9	Bolt Robe
+E5412ABC	Air Robe
+52402ABB	Fire Filter
+73382AB6	Ice Filter
+E0362AB5	Bolt Filter
+993B2AB8	Air Filter
+063A2AB7	Fire Protection
+574B2AC2	Ice Protection
+C4492AC1	Bolt Protection
+84CF2248	Air Protection
+17D12249	Life Drain
+[/Trait]
+[Effect]
+ID>Effect Name
+E06D941B	Fire Damage
+9972941E	Ice Damage
+0671941D	Bolt Damage
+BF759420	Air Damage
+2C74941F	KO Recovery
+E5789422	HP Recovery
+52779421	Stun Recovery
+0B7C9424	Inflict Poison
+787A9423	Inflict Sleep
+4A9091B6	Inflict Curse
+DD9191B7	Inflict Burns
+248D91B4	Inflict Frostbite
+B78E91B5	Inflict Paralysis
+FE8991B2	Inflict Restraints
+918B91B3	Inflict Daze
+D88691B0	Acceleration
+6B8891B1	Damage Reduction
+B28391AE	HP Regeneration
+458591AF	Skill Damage Up
+41488FB0	Item Damage Up
+AE468FAF	ATK Up
+1B458FAE	DEF Up
+88438FAD	SPD Up
+8D4E8FB4	Max HP Up
+FA4C8FB3	All Stats Up
+674B8FB2	Fire Resistance Up
+D4498FB1	Ice Resistance Up
+A93B8FA8	Bolt Resistance Up
+163A8FA7	Air Resistance Up
+38008DAA	Critical Rate Up
+CB018DAB	Critical Damage Up
+5E038DAC	SE Resistance Up
+F1048DAD	Fire Damage Up
+84068DAE	Ice Damage Up
+17088DAF	Bolt Damage Up
+AA098DB0	Air Damage Up
+3D0B8DB1	ATK Down
+A0F38CA2	DEF Down
+33F58CA3	SPD Down
+17599EB4	Max HP Down
+84579EB3	All Stats Down
+3D5C9EB6	Fire Resistance Down
+AA5A9EB5	Ice Resistance Down
+CB529EB0	Bolt Resistance Down
+38519EAF	Air Resistance Down
+F1559EB2	Critical Rate Down
+5E549EB1	Critical Damage Down
+7F4C9EAC	Negative Effect Resistance Down
+EC4A9EAB	Fire Damage Down
+0E119CAE	Ice Damage Down
+A1129CAF	Bolt Damage Down
+E80D9CAC	Air Damage Down
+7B0F9CAD	Proportional HP Recovery
+5A179CB2	Binding Blast
+ED189CB3	Sealed Evil Strike
+34149CB0	Extended Negative Effect Duration
+C7159CB1	Meteoric Strike
+76049CA6	Meteor Shower
+09069CA7	Phantom Reflection
+85FF9828	Chain Boost
+F2FD9827	Item Uses Up
+5FFC9826	Searing Sword
+CCFA9825	Linked Explosions
+39F99824	Overflowing Hellfire
+A6F79823	Icebreaker Hammer
+13F69822	Focused Breakthrough
+80F49821	Encroaching Glacier
+1D0C9930	Thunder Spear
+8A0A992F	High-Voltage Current
+7CB79622	Dazzling Dwarf Star
+0FB99623	Spiral Blade
+A2BA9624	Exorcising Breeze
+35BC9625	Tempestuous Gale
+30B1961E	Blizzard Arrow
+C3B2961F	Bowstring of Disorder
+56B49620	Maintained Focus
+E9B59621	Firebolt Twincut
+14C4962A	Encircling Flamewall
+A7C5962B	Dancing Flashbolt
+6B3780AC	Magic Gale
+D83580AB	Binding Page
+913A80AE	Conduction Magic
+FE3880AD	Blessing of the Four Spirits
+B73D80B0	Glimmering Swordplay
+243C80AF	Polar Star's Radiance
+DD4080B2	Shorten Negative Effect Duration
+4A3F80B1	Extend Positive Effect Duration
+D32A80A4	Revitalizing Bloom
+402980A3	Oath of Protection
+62EF7DA6	Random Resistance Up
+F5F07DA7	Medicinal Efficacy
+3CEC7DA4	Fair Weather Field
+CFED7DA5	Illuminating Sunlight
+16E97DA2	Project the Ideal
+A9EA7DA3	Fluttering Petal Rain
+F0E57DA0	Reduce Cooldown
+83E77DA1	Blessed Rain
+FAFB7DAE	Dispel Malice
+8DFD7DAF	Consecutive Activation
+A83BFDBD	Perpetual Gears
+3B3DFDBE	Reconstruction
+CE3EFDBF	Replenish Power
+6140FDC0	Celestial Guidance
+F441FDC1	Emancipating Wings
+8743FDC2	Automatic Reboot
+1A45FDC3	Sanctuary's Protection
+AD46FDC4	Last Stand
+102FFDB5	Cycle of Life
+A330FDB6	Extend Positive Effect Duration
+B183FFC3	Full Throttle
+1E82FFC2	Refreshed Vigor
+8B80FFC1	Grant Resist KO
+F87EFFC0	Warding Pearl
+FD89FFC7	Flowing Spirit
+6A88FFC6	Jewel's Protection
+D786FFC5	Parallel World
+4485FFC4	Protection
+1977FFBB	Annihilation
+8675FFBA	Knockback
+BACB01CA	Blood-Soaked Hex
+4DCD01CB	Permanent Handwriting
+94C801C8	Verses of Enmity
+27CA01C9	Negative Miasma
+6EC501C6	Evening Visitor
+01C701C7	Dark Prison
+48C201C4	Fire Follow-Up
+DBC301C5	Ice Follow-Up
+22BF01C2	Bolt Follow-Up
+B5C001C3	Air Follow-Up
+76AC0431	ATK Up
+2FB10434	DEF Up
+9CAF0433	SPD Up
+55B40436	All Stats Up
+C2B20435	Max HP Up
+7BB70438	Negative Effect Resistance Up
+E8B50437	Critical Rate Up
+ECF20636	Critical Damage Up
+7FF40637	Skill Damage Up
+12F60638	Item Damage Up
+A5F70639	Reduce Skill Cooldown
+A0EC0632	Reduce Item Cooldown
+33EE0633	Inner Range Boost
+C6EF0634	Outer Range Boost
+59F10635	Damage Restoration
+84FF063E	Evasion Up
+1701073F	Reduce Damage
+F53A093C	Environmental Mana Up
+6239093B	Physical Damage Up
+CF37093A	Magic Damage Up
+3C360939	Stun Boost
+A9340938	Movement Speed Up
+16330937	HP Regeneration
+83310936	Fire Resistance Up
+F02F0935	Ice Resistance Up
+8D470944	Bolt Resistance Up
+FA450943	Air Resistance Up
+FE820B42	Physical Resistance Up
+91840B43	Magic Resistance Up
+D87F0B40	Resist KO
+6B810B41	Demonic Essence
+4A890B46	Conflagration Magic
+DD8A0B47	Mana Recycler
+24860B44	Time Compression
+B7870B45	Eternal Divine Staff
+66760B3A	Instantaneous Rotation
+F9770B3B	Sturdy Horn
+87940EC8	Pure Point
+F4920EC7	Sacred Seal
+AD970ECA	Vulnerability Exposure
+1A960EC9	Spreading Scars
+3B8E0EC4	Triple Thrust
+A88C0EC3	Snipe
+61910EC6	Swift Step
+CE8F0EC5	Rapid Movement
+EF870EC0	Bullseye
+5C860EBF	Daredevil
+40D1E82D	Infinite Combo
+D3D2E82E	Avenger
+66D4E82F	Piercing Pile
+F9D5E830	Sanguine Crystal
+8CD7E831	Imperial Purveyor
+1FD9E832	Soldiers' Victorious Shout
+B2DAE833	Fiery Fighting Spirit
+45DCE834	Execution
+D8DDE835	Retribution
+6BDFE836	Life Steal
+C9E2EBB3	Demonic Contract
+36E1EBB2	Curse Bearer
+A3DFEBB1	Monstrous Calamity
+10DEEBB0	Splendid Leaf Veins
+15E9EBB7	Sensory Deprivation
+82E7EBB6	Rod of Inheritance
+EFE5EBB5	Slice of Certain Death
+5CE4EBB4	Environmental Tuning
+61EFEBBB	Heavenly Short Sword
+CEEDEBBA	Fairy's Whisper
+8955B17A	Fickle Favor
+F653B179	Stout Breastplate
+6352B178	Reliable Masterpiece
+D050B177	Kingly Aura
+D55BB17E	Attack Orders
+425AB17D	Morale Boost
+AF58B17C	Tempered Steel
+1C57B17B	Flexible Movements
+2162B182	Inherited Armor
+8E60B181	Mist Stance
+0044AEF4	Danger Perception
+9345AEF5	Reactive Armor
+2647AEF6	Auto Restoration
+B948AEF7	Impact Absorption
+4C4AAEF8	Massive Cliff
+DF4BAEF9	Ultra Heavyweight Class
+724DAEFA	Eroded Fragment
+054FAEFB	Proof of Transcendence
+9850AEFC	Spell Penetration
+2B52AEFD	Eternal Breath
+2EE7B587	Boost: ATK UP
+E7EBB58A	Boost: DEF Up
+54EAB589	Boost: SPD Up
+0DEFB58C	Boost: All Stats Up
+7AEDB58B	Boost: Max HP Up
+03D9B57E	Boost: Critical Rate Up
+70D7B57D	Boost: Critical Damage Up
+929DB380	Boost: Skill Up
+259FB381	Boost: Item Up
+6C9AB37E	Boost: Skill Cooldown
+FF9BB37F	Boost: Item Cooldown
+4697B37C	Boost: Damage Restoration
+D998B37D	Boost: Evasion Up
+2094B37A	Boost: Physical Up
+B395B37B	Boost: Magic Up
+2AAAB388	Boost: Inner Range Up
+BDABB389	Boost: Outer Range Up
+2D3FBB12	Boost: Environmental Mana Up
+9A3DBB11	Boost: Movement Speed Up
+073CBB10	Boost: Energy Reduction
+743ABB0F	Boost: Enhanced Mana Surge
+E138BB0E	Boost: Extended Mana Surge
+4E37BB0D	Boost: Guard Up
+BB35BB0C	Boost: Improved Evasion
+2834BB0B	Boost: Mana Flow
+9532BB0A	Boost: Stun
+0231BB09	Boost: Combo
+A42DB88C	Boost: Pile
+372FB88D	Boost: Throwing Dagger
+CA30B88E	Boost: Brand
+5D32B88F	Reduce Energy Consumption
+5827B888	Enhanced Mana Surge
+EB28B889	Extended Mana Surge
+7E2AB88A	Guard Up
+112CB88B	Improved Evasion
+0C21B884	Mana Flow Up
+9F22B885	Stun Boost
+DF9CBFFE	Combo Up
+4C9BBFFD	Pile Up
+05A0BF00	Throwing Dagger Up
+729EBFFF	Brand Up
+E4A7BF05	Combative Spirit
+D654BDF8	Adrenaline Rush
+6956BDF9	Eternal Wreath
+B051BDF6	Blossoming Garden
+4353BDF7	Feather Boots
+225BBDFC	Veil of Light
+B55CBDFD	Saintly Prayers
+FC57BDFA	Surprise Strategies
+8F59BDFB	Battle Tactics
+6E61BD00	Supply Replenishment
+0163BD01	Trickster
+71F6C48A	Jack-in-the-Box
+DEF4C489	Silent Steps
+4BF3C488	Limit Breaker
+B8F1C487	Resilience
+BDFCC48E	Second Chance
+B10B699D	Synthesis: ATK Up
+F806699A	Synthesis: DEF Up
+8B08699B	Synthesis: SPD Up
+6A1069A0	Synthesis: HP Up
+FD1169A1	Synthesis: Quality Up
+440D699E	Synthesis: Quantity Up
+D70E699F	Increase Resonance Area
+86FD6894	Synthesis: Fire Bonus
+19FF6895	Synthesis: Ice Bonus
+27526BA2	Synthesis: Bolt Bonus
+94506BA1	Synthesis: Air Bonus
+4D556BA4	Synthesis: All Element Bonus
+BA536BA3	Synthesis: Quality Up+
+DB4B6B9E	Slot Element Change - Fire
+484A6B9D	Slot Element Change - Ice
+014F6BA0	Slot Element Change - Bolt
+6E4D6B9F	Slot Element Change - Air
+8F456B9A	Drifting Mana Bonus
+FC436B99	Drifting Mana Return
+8CB06310	Increase Resonance Area - Circle
+1FB26311	Increase Resonance Area - Triangle
+B2B36312	Increase Resonance Area - Square
+45B56313	Increase Resonance Area - Star
+40AA630C	Increase Resonance Area - 1st Stratum
+D3AB630D	Increase Resonance Area - 2nd Stratum
+66AD630E	Increase Resonance Area - 3rd Stratum
+F9AE630F	Core Boost - Quality
+24BD6318	Core Boost - HP
+B7BE6319	Core Boost - ATK
+15C26696	Core Boost - DEF
+82C06695	Core Boost - SPD
+EFBE6694	Latent Awakening
+5CBD6693	Omnipotent Drop
+C9BB6692	Omnipotent Flower
+36BA6691	Element Resonance - Fire
+A3B86690	Element Resonance - Ice
+10B7668F	Element Resonance - Bolt
+ADCE669E	Element Resonance - Air
+1ACD669D	Neutralizers - Quality Boost
+DA525F24	Threads - Quality Boost
+6D545F25	Metals - Quality Boost
+B44F5F22	Jewels - Quality Boost
+47515F23	Rebuild Boost - Quality
+8E4C5F20	Rebuild Boost - Resonance Area
+214E5F21	Rebuild Boost - HP
+68495F1E	Rebuild Boost - ATK
+FB4A5F1F	Rebuild Boost - DEF
+42465F1C	Rebuild Boost - SPD
+166A610B	Resonance Boost
+3C6D610D	Synthesis: ATK Up+
+F5716110	Synthesis: DEF Up+
+6270610F	Synthesis: SPD Up+
+1B756112	Synthesis: HP Up+
+88736111	Synthesis: ATK & DEF Up
+48F95998	Synthesis: DEF & SPD Up
+DBFA5999	Synthesis: ATK & SPD Up
+6EFC599A	Synthesis: All Stats Up
+FF231D59	EXP Up
+6C221D58	Puni Crusher
+[/Effect]
+[Equipment]
+ID>Name>Type
+8BC21120	Brash Bangle	Accessory
+4D0F1429	Crystallized Memoir	Accessory
+F8C0111F	Curse Spoiler	Accessory
+1EC41121	Eternal Flower	Accessory
+FDCB1126	Grace Ribbon	Accessory
+3FBC111C	Jester's Mask	Accessory
+B1C51122	Prayer Ring	Accessory
+F87C8338	Puni Badge	Accessory
+6ACA1125	Scarlet Scarf	Accessory
+ACBA111B	Warrior Choker	Accessory
+FBF57DA7	Cavalier Plate	Clothes
+AFEF7DA3	Corundum Armor	Clothes
+68F47DA6	Emperor's Influence	Clothes
+6DFF7DAD	Hunter's Wear	Clothes
+21F97DA9	Kruger Cloak	Clothes
+B4FA7DAA	Nomadic Clothing	Clothes
+BEEA7A25	Overtaker	Clothes
+DAFD7DAC	Pixie Robe	Clothes
+D7C81124	Sapiencia Annulus	Clothes
+1CEE7DA2	Unwavering Guard	Clothes
+8EF77DA8	Warrior's Attire	Clothes
+12EC619E	Apostle of Orcus	Weapon
+A11331DC	Arc Raffia	Weapon
+59E7619B	Baroque Armaments	Weapon
+EEC567AC	Blooming Love Sword	Weapon
+C42FCFF1	Defender's Spear	Weapon
+7B1031DA	Departure Gunstaff	Weapon
+40B16B54	Diabolical Scythe	Weapon
+448E905A	Doombringer	Weapon
+341531DD	Ephemeral Record	Weapon
+45BC6B5B	Executor of Gloom	Weapon
+D78F905B	Gandir Laeva	Weapon
+C8C267AA	Hellion Mantis	Weapon
+33E46199	Huntress	Weapon
+B2BA6B5A	Illegal Scythe	Weapon
+B18C9059	Imperial Drive	Weapon
+7D34CFF4	Kleinod	Weapon
+0E1231DB	Mana Scepter	Weapon
+A7CA67AF	Poleblade	Weapon
+6A91905C	Prideful Pile Bunker	Weapon
+81C767AD	Saw Blade	Weapon
+0B2BCFEE	Secret Triaina	Weapon
+EA32CFF3	Splendid Alicorn	Weapon
+A0E26198	Vollstrecker	Weapon
+[/Equipment]

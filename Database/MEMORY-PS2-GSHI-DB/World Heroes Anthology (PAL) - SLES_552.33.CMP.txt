@@ -1,0 +1,14 @@
+^3 = NAME: World Heroes Anthology (PAL)
+^2 = GameID: SLES-55233
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: lee4
+$901798D0 0C05E5DC
+!!
++Force Videout To 480I Instead Of 240P
+%Credits: lee4
+$201419BC 24110001
+$201419C0 24120002
+$201419CC 24130001
+!!
+

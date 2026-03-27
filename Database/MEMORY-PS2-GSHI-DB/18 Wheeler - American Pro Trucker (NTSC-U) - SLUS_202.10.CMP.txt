@@ -1,0 +1,44 @@
+^3 = NAME: 18 Wheeler - American Pro Trucker (NTSC-U)
+^2 = GameID: SLUS-20210
+!Master Codes:
++Enabler Code (Must Be On)
+%Credits: Codejunkies
+$F01EE10C 001EE10F
++Enabler Code (Must Be On)
+%Credits: InterAct
+$F01EB2A0 001EE10F
++Enabler Code (Must Be On)
+%Credits: Code Master
+$F0100008 001EE10F
+!!
++Have K.I.T.A. Turbo
+%Credits: Codejunkies
+$D05F8D02 0000FDFD
+$1075458A 000042B0
++Have More Mission Time
+%Credits: Codejunkies
+$D05F8D02 0000FBFF
+$103037A4 0000EA30
++Infinite Money
+%Credits: Code Master
+$1030379C 0000FFFF
++Infinite Time
+%Credits: Code Master
+$203037A4 00001740
++Max Cash
+%Credits: Codejunkies
+$D05F8D02 0000F7FF
+$2030379C 0098967F
+$D05F8D02 0000F7FF
+$205AEF6C 0098967F
++Max Money
+%Credits: Code Master
+$2030379C 0098967F
++Max Value
+%Credits: Code Master
+$203037C0 0001869F
++Press R1+X For Hella Speed
+%Credits: Code Master
+$D05F8D02 0000B7FF
+$20754588 42C80000
+

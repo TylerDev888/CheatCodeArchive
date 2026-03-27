@@ -1,0 +1,36 @@
+^1 = HASH: 1B6EA25A
+^3 = NAME: Godai-Elemental Force
+^2 = GameID: SLUS_202.88
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001243AF
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$901243AC 0C050995
+!!
+!Codes:
++Infinite Lives
+%Credits: Code Master
+$1038E850 00000063
++Infinite Health
+%Credits: Code Master
+$202F2AA4 00000001
++Speed Modifier (Default Is 3F800000)
+%Credits: Code Master
+$202F86D4 ????????
++Idiot AI{With This Code, Press L1+L2 To Enable, And R1+R2 To Disable.}
+%Credits: Code Master
+$D1014AD2 0000FAFF
+$202F2A94 00000001
+$D1014AD2 0000F5FF
+$202F2A94 00000000
++Press L1+R1 To Enable Debug 3D Boxes
+%Credits: Code Master
+$D1014AD2 0000F3FF
+$202F2AB4 00000001
++Press L1+R1 To Disable Debug 3D Boxes
+%Credits: Code Master
+$D1014AD2 0000FCFF
+$202F2AB4 00000000
+!!

@@ -1,0 +1,407 @@
+^2 = GameID: SLUS_213.30
+^3 = NAME: Monster Rancher Evo
+!Masters:
++Enable Code (MUST BE ON)
+$90312A98 00832021
++Enable Code (MUST BE ON)
+$F0312A98 0000000E
++Enable Code (MUST BE ON)
+$0E3C7DF2 1456E7A5
+$F0312A98 0000000E
+!!
+!Jokers:
++Player 1 Controller
+$D04EFEC2 0000[Joker:PS2]
+!!
+!Memory Dump:
+!Live Dump:
++Memcard Sub{This Is The Main Section That Never Changes Once This Part Is In It Is Always The Same}
+$200A0000 27BDFFC0
+$200A0004 3C06000A
+$200A0008 FFB20020
+$200A0010 FFB10010
+$200A0014 24C60104
+$200A0018 FFB00000
+$200A0020 FFBF0030
+$200A0028 24070203
+$200A002C 0040802D
+$200A0030 0220282D
+$200A0034 0240302D
+$200A003C 0200202D
+$200A0040 3C050010
+$200A0044 0200202D
+$200A004C 3C060070
+$200A0050 0220282D
+$200A0054 0240302D
+$200A005C 0200202D
+$200A0064 0200202D
+$200A0068 0200282D
+$200A006C 0200302D
+$200A0074 0200202D
+$200A0078 DFBF0030
+$200A007C DFB20020
+$200A0080 DFB10010
+$200A0084 DFB00000
+$200A0088 03E00008
+$200A008C 27BD0040
++Memcardport-Multitap 1-4{This Is For Multitap Port}
+$200A000C 24040000
++Memcardslot-Slot 1-2{Witch Memslot U Saving To}
+$200A001C 24050000
++Start And Stop
+$200A0040 3C050010
+$200A004C 3C060070
++Monster Rancher Evo Dump <select>
+$200A0038 0C0C50D2
+$200A0070 0C0C50D2
+$200A0058 0C0C50D2
+$200A0024 0C0C4F42
+$200A0048 0C0C5074
+$200A0060 0C0C4F9A
+$D04EFEC2 0000FFFE
+$20312ADC 08028000
+$D04EFEC2 0010FFFE
+$20312ADC 03E00008
+!!
+!Save Dump:
++Save Dump
+$20314268 3C030010
+$2031426C 3C050170
+$20530218 00100000
+$2053020C 01700000
+!!
+!!
++Max Money
+%Credits: SkillerCMP
+$2051B360 05F5E0FF
++Month Max
+%Credits: SkillerCMP
+$0051B11C 0000000C
++Week
+%Credits: SkillerCMP
+$0051B120 0000000?
++All Property
+%Credits: SkillerCMP
+$1051B832 00006363
+$4051B834 01F30001
+$63636363 00000000
+$1051C000 00006363
++Monster Book Compleated
+%Credits: SkillerCMP
+$4051C668 00080001
+$FFFFFFFF 00000000
+!Characters:
+!Monster 1:
++Main Monster
+%Credits: SkillerCMP
+$0051C7E9 000000[MON]
++Sub Monster
+%Credits: SkillerCMP
+$0051C7EA 000000[MON]
++Never Tired
+%Credits: SkillerCMP
+$0051C802 00000000
++Max Bonding
+%Credits: SkillerCMP
+$1051C800 00006464
++Max Pow
+%Credits: SkillerCMP
+$1051C80E 0000270F
++Max Int
+%Credits: SkillerCMP
+$1051C810 0000270F
++Max Spd
+%Credits: SkillerCMP
+$1051C812 0000270F
++Max Acc
+%Credits: SkillerCMP
+$1051C814 0000270F
++Max Def
+%Credits: SkillerCMP
+$1051C816 0000270F
++Max Life
+%Credits: SkillerCMP
+$1051C818 0000270F
++Max Ap
+%Credits: SkillerCMP
+$2051C8AC 0000270F
+!Trait Mod:
++Trait 1
+%Credits: SkillerCMP
+$0051C8D4 000000[TR]
++Trait 2
+%Credits: SkillerCMP
+$0051C8D5 000000[TR]
++Trait 3
+%Credits: SkillerCMP
+$0051C8D6 000000[TR]
++Trait 4
+%Credits: SkillerCMP
+$0051C8D7 000000[TR]
++Trait 5
+%Credits: SkillerCMP
+$0051C8D8 000000[TR]
++Trait 6
+%Credits: SkillerCMP
+$0051C8D9 000000[TR]
+!!
+!!
+!Monster 2:
++Main Monster
+%Credits: SkillerCMP
+$0051C9CD 000000[MON]
++Sub Monster
+%Credits: SkillerCMP
+$0051C9CE 000000[MON]
++Never Tired
+%Credits: SkillerCMP
+$0051C9E6 00000000
++Max Bonding
+%Credits: SkillerCMP
+$1051C9E4 00006464
++Max Pow
+%Credits: SkillerCMP
+$1051C9F2 0000270F
++Max Int
+%Credits: SkillerCMP
+$1051C9F4 0000270F
++Max Spd
+%Credits: SkillerCMP
+$1051C9F6 0000270F
++Max Acc
+%Credits: SkillerCMP
+$1051C9F8 0000270F
++Max Def
+%Credits: SkillerCMP
+$1051C9FA 0000270F
++Max Life
+%Credits: SkillerCMP
+$1051C9FC 0000270F
++Max Ap
+%Credits: SkillerCMP
+$2051CA90 0000270F
+!Trait Mod:
++Trait 1
+%Credits: SkillerCMP
+$0051CAB8 000000[TR]
++Trait 2
+%Credits: SkillerCMP
+$0051CAB9 000000[TR]
++Trait 3
+%Credits: SkillerCMP
+$0051CABA 000000[TR]
++Trait 4
+%Credits: SkillerCMP
+$0051CABB 000000[TR]
++Trait 5
+%Credits: SkillerCMP
+$0051CABC 000000[TR]
++Trait 6
+%Credits: SkillerCMP
+$0051CABD 000000[TR]
+!!
+!!
+!Monster 3:
++Main Monster
+%Credits: SkillerCMP
+$0051CBB1 00000[MON]
++Sub Monster
+%Credits: SkillerCMP
+$0051CBB2 000000[MON]
++Never Tired
+%Credits: SkillerCMP
+$0051CBCA 00000000
++Max Bonding
+%Credits: SkillerCMP
+$1051CBC8 00006464
++Max Pow
+%Credits: SkillerCMP
+$1051CBD6 0000270F
++Max Int
+%Credits: SkillerCMP
+$1051CBD8 0000270F
++Max Spd
+%Credits: SkillerCMP
+$1051CBDA 0000270F
++Max Acc
+%Credits: SkillerCMP
+$1051CBDC 0000270F
++Max Def
+%Credits: SkillerCMP
+$1051CBDE 0000270F
++Max Life
+%Credits: SkillerCMP
+$1051CBE0 0000270F
++Max Ap
+%Credits: SkillerCMP
+$2051CC74 0000270F
+!Trait Mod:
++Trait 1
+%Credits: SkillerCMP
+$0051CC9C 000000[TR]
++Trait 2
+%Credits: SkillerCMP
+$0051CC9D 000000[TR]
++Trait 3
+%Credits: SkillerCMP
+$0051CC9E 000000[TR]
++Trait 4
+%Credits: SkillerCMP
+$0051CC9F 000000[TR]
++Trait 5
+%Credits: SkillerCMP
+$0051CCA0 000000[TR]
++Trait 6
+%Credits: SkillerCMP
+$0051CCA1 000000[TR]
+!!
+!!
+!Monster 4:
++Main Monster
+%Credits: SkillerCMP
+$0051CD95 000000[MON]
++Sub Monster
+%Credits: SkillerCMP
+$0051CD96 000000[MON]
++Never Tired
+%Credits: SkillerCMP
+$0051CDAE 00000000
++Max Bonding
+%Credits: SkillerCMP
+$1051CDAC 00006464
++Max Pow
+%Credits: SkillerCMP
+$1051CDBA 0000270F
++Max Int
+%Credits: SkillerCMP
+$1051CDBC 0000270F
++Max Spd
+%Credits: SkillerCMP
+$1051CDBE 0000270F
++Max Acc
+%Credits: SkillerCMP
+$1051CDC0 0000270F
++Max Def
+%Credits: SkillerCMP
+$1051CDC2 0000270F
++Max Life
+%Credits: SkillerCMP
+$1051CDC4 0000270F
++Max Ap
+%Credits: SkillerCMP
+$2051CE58 0000270F
+!Trait Mod:
++Trait 1
+%Credits: SkillerCMP
+$0051CE80 000000[TR]
++Trait 2
+%Credits: SkillerCMP
+$0051CE81 000000[TR]
++Trait 3
+%Credits: SkillerCMP
+$0051CE82 000000[TR]
++Trait 4
+%Credits: SkillerCMP
+$0051CE83 000000[TR]
++Trait 5
+%Credits: SkillerCMP
+$0051CE84 000000[TR]
++Trait 6
+%Credits: SkillerCMP
+$0051CE85 000000[TR]
+!!
+!!
+!Monster 5:
++Main Monster
+%Credits: SkillerCMP
+$0051CF79 000000[MON]
++Sub Monster
+%Credits: SkillerCMP
+$0051CF7A 000000[MON]
++Never Tired
+%Credits: SkillerCMP
+$0051CF92 00000000
++Max Bonding
+%Credits: SkillerCMP
+$1051CF90 00006464
++Max Pow
+%Credits: SkillerCMP
+$1051CF9E 0000270F
++Max Int
+%Credits: SkillerCMP
+$1051CFA0 0000270F
++Max Spd
+%Credits: SkillerCMP
+$1051CFA2 0000270F
++Max Acc
+%Credits: SkillerCMP
+$1051CFA4 0000270F
++Max Def
+%Credits: SkillerCMP
+$1051CFA6 0000270F
++Max Life
+%Credits: SkillerCMP
+$1051CFA8 0000270F
++Max Ap
+%Credits: SkillerCMP
+$2051D03C 0000270F
+!Trait Mod:
++Trait 1
+%Credits: SkillerCMP
+$0051D064 000000[TR]
++Trait 2
+%Credits: SkillerCMP
+$0051D065 000000[TR]
++Trait 3
+%Credits: SkillerCMP
+$0051D066 000000[TR]
++Trait 4
+%Credits: SkillerCMP
+$0051D067 000000[TR]
++Trait 5
+%Credits: SkillerCMP
+$0051D068 000000[TR]
++Trait 6
+%Credits: SkillerCMP
+$0051D069 000000[TR]
+!!
+!!
+!!
+^6 = MODS:
+[MON]
+00	Unknown 1
+01	Unknown 2
+02	Unknown 3
+03	Unknown 4
+04	Unknown 5
+05	Unknown 6
+06	Unknown 7
+07	Golem
+08	Unknown 8
+09	Unknown 9
+0A	Joker
+0B	Raiden
+0C	Unknown 10
+0D	Unknown 11
+0E	Unknown 12
+0F	Unknown 13
+10	Unknown 14
+11	Unknown 15
+12	Tiger
+13	Unknown 16
+14	Ripper
+15	Unknown 17
+16	Unknown 18
+17	Maya
+18	Piroro
+[/MON]
+[TR]
+FF	None
+29	High Speed
+2A	Final Gut
+2B	Lively
+2C	Energetic
+2D	Fire Lore
+2E	Fire Lore+
+%Credits: SkillerCMP
+[/TR]

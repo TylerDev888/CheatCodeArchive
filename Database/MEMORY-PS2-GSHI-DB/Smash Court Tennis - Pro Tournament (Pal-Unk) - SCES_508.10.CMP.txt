@@ -1,0 +1,26 @@
+^3 = NAME: Smash Court Tennis - Pro Tournament (Pal-Unk)
+^2 = GameID: SCES-50810
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0100104 000001FD
+!!
++1P Gets 40 {<I>Press R1+L1+L2+R2.</I>}
+%Credits: InterAct
+$D045E682 0000F0FF
+$1121AF1C 00000003
++CP Always Score 0
+%Credits: InterAct
+$1121AFB0 00000000
++Max Points
+%Credits: InterAct
+$11222864 0000FFFF
++Trophy Room - Unlock Everything
+%Credits: InterAct
+$21222898 FFFFFFFF
+$1122289C 0000FFFF
++Unlock Hitomi Yoshino/Red Ace
+%Credits: InterAct
+$11E77A50 0000000F
+!!
+

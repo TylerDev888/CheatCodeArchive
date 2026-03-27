@@ -1,0 +1,34 @@
+^2 = GameID: BLES02095
+^3 = NAME: Saints Row: Gat out of Hell
+^5 = APCRED: From gold972 and aldostools
+^4 = FILE: SYS-DATA
++Max Money
+$write at 0xFF90:0x3B9AC9FF
++Max Datacluster
+$write at 0xFF94:0x3B9AC9FF
++God Mod With Weapons
+$write at 0xFF48:0xBF800000
+$write at 0xFF4C:0xBF800000
+$write at 0xFF54:0xBF800000
+$write at 0xFF5C:0xBF800000
++God Mod With Weapons
+$write at 0xFF48:0x4CBEBC20
+$write at 0xFF4C:0x4CBEBC20
+$write at 0xFF54:0x4CBEBC20
+$write at 0xFF5C:0x4CBEBC20
+([God Mod with weapons])
+(write at 0xFF44:0xBF800000)
+(write at 0xFF48:0xBF800000)
+(write at 0xFF4C:0xBF800000)
+(write at 0xFF50:0xBF800000)
+(write at 0xFF58:0xBF800000)
+(write at 0xFF5C:0xBF800000)
+(write at 0xFF60:0xBF800000)
+(write at 0xFF64:0xBF800000)
++Update Crc32:0 For Sys-data (required)
+(set range:0x000004,0x025FFF)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32:0
+$set [hash]:xor:FFFFFFFF
+$write at 0x000000:[hash]

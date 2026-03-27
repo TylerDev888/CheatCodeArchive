@@ -1,0 +1,376 @@
+^3 = NAME: NCAA March Madness 2003 (Ntsc-U)
+^2 = GameID: SLUS-20574
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F03A3714 003A3717
++(M)Must Be On
+%Credits: Codejunkies
+$D0C281FC 5CAA4A1B
+$00100AA8 003A3717
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 003A3717
+!!
++2-Pointer's Score Modifier
+%Credits: Code Master
+$103C2570 000000??
+$103C2584 000000??
+$103C53E4 000000??
+$103C54C4 000000??
++3-Pointer's Score Modifier
+%Credits: Code Master
+$103C1758 000000??
++All Baskets Score For Away Team
+%Credits: Code Master
+$20195BBC 00000000
++All Baskets Score For Home Team
+%Credits: Code Master
+$20195BBC 10000005
++Away Team Baskets Score Modifier
+%Credits: Code Master
+$203A0EAC 240600??
+!Away Team Infinite No Codes:
++P1
+%Credits: Code Master
+$104B6F54 00000000
++P2
+%Credits: Code Master
+$104B6F8C 00000000
++P3
+%Credits: Code Master
+$104B6FC4 00000000
++P4
+%Credits: Code Master
+$104B6FFC 00000000
++P5
+%Credits: Code Master
+$104B7034 00000000
++P6
+%Credits: Code Master
+$104B706C 00000000
++P7
+%Credits: Code Master
+$104B70A4 00000000
++P8
+%Credits: Code Master
+$104B70DC 00000000
++P9
+%Credits: Code Master
+$104B7114 00000000
++P10
+%Credits: Code Master
+$104B714C 00000000
++P11
+%Credits: Code Master
+$104B7184 00000000
++P12
+%Credits: Code Master
+$104B71BC 00000000
+!!
+!Away Team Infinite Stamina Codes:
++P1
+%Credits: Code Master
+$104B6F54 00007FFF
++P2
+%Credits: Code Master
+$104B6F8C 00007FFF
++P3
+%Credits: Code Master
+$104B6FC4 00007FFF
++P4
+%Credits: Code Master
+$104B6FFC 00007FFF
++P5
+%Credits: Code Master
+$104B7034 00007FFF
++P6
+%Credits: Code Master
+$104B706C 00007FFF
++P7
+%Credits: Code Master
+$104B70A4 00007FFF
++P8
+%Credits: Code Master
+$104B70DC 00007FFF
++P9
+%Credits: Code Master
+$104B7114 00007FFF
++P10
+%Credits: Code Master
+$104B714C 00007FFF
++P11
+%Credits: Code Master
+$104B7184 00007FFF
++P12
+%Credits: Code Master
+$104B71BC 00007FFF
+!!
++Away Team Infinite Time-Outs
+%Credits: Code Master
+$004B6094 00000006
++Away Team Never Scores
+%Credits: Code Master
+$20195BC8 24020000
++Away Team No Time-Outs
+%Credits: Code Master
+$004B6094 00000000
++Away Team Score Modifier {<I>You Must Make 1 Basket To Receive The Score And It Will Never Change Higher Or Lower After Making It.</I>}
+%Credits: Code Master
+$20195BC8 24020???
+!Away Team Timeout Codes:
++Infinite Timeouts
+%Credits: Codejunkies
+$104B6094 00000006
++No Timeouts
+%Credits: Codejunkies
+$104B6094 00000000
+!!
++Dunk's Score Modifier
+%Credits: Code Master
+$103BEF78 000000??
+$103BDAA4 000000??
++Home Team Baskets Score Modifier
+%Credits: Code Master
+$203A0ECC 240600??
+!Home Team Infinite Stamina Codes:
++P1
+%Credits: Code Master
+$104B6CB4 00007FFF
++P2
+%Credits: Code Master
+$104B6CEC 00007FFF
++P3
+%Credits: Code Master
+$104B6D24 00007FFF
++P4
+%Credits: Code Master
+$104B6D5C 00007FFF
++P5
+%Credits: Code Master
+$104B6D94 00007FFF
++P6
+%Credits: Code Master
+$104B6DCC 00007FFF
++P7
+%Credits: Code Master
+$104B6E04 00007FFF
++P8
+%Credits: Code Master
+$104B6E3C 00007FFF
++P9
+%Credits: Code Master
+$104B6E74 00007FFF
++P10
+%Credits: Code Master
+$104B6EAC 00007FFF
++P11
+%Credits: Code Master
+$104B6EE4 00007FFF
++P12
+%Credits: Code Master
+$104B6F1C 00007FFF
+!!
++Home Team Infinite Time Outs
+%Credits: MadCatz
+$004B5F28 00000009
++Home Team Infinite Time-Outs
+%Credits: Code Master
+$004B5F28 00000006
++Home Team Never Scores {<I>You Must Make 1 Basket To Receive The Score And It Will Never Change Higher Or Lower After Making It.</I>}
+%Credits: Code Master
+$20195BD4 24020000
+!Home Team No Stamina Codes:
++P1
+%Credits: Code Master
+$104B6CB4 00000000
++P2
+%Credits: Code Master
+$104B6CEC 00000000
++P3
+%Credits: Code Master
+$104B6D24 00000000
++P4
+%Credits: Code Master
+$104B6D5C 00000000
++P5
+%Credits: Code Master
+$104B6D94 00000000
++P6
+%Credits: Code Master
+$104B6DCC 00000000
++P7
+%Credits: Code Master
+$104B6E04 00000000
++P8
+%Credits: Code Master
+$104B6E3C 00000000
++P9
+%Credits: Code Master
+$104B6E74 00000000
++P10
+%Credits: Code Master
+$104B6EAC 00000000
++P11
+%Credits: Code Master
+$104B6EE4 00000000
++P12
+%Credits: Code Master
+$104B6F1C 00000000
+!!
++Home Team No Time-Outs
+%Credits: Code Master
+$004B5F28 00000000
++Home Team Score Modifier
+%Credits: Code Master
+$20195BD4 24020???
+!Home Team Timeout Codes:
++Infinite Timeouts
+%Credits: Codejunkies
+$104B5F28 00000006
++No Timeouts
+%Credits: Codejunkies
+$104B5F28 00000000
+!!
++Infinite Shot Clock
+%Credits: Code Master
+$104919F0 00000834
++Infinite Skill Points (Editing Players)
+%Credits: Code Master
+$2021D3E8 00000000
++Infinite Time-Outs (Both Teams)
+%Credits: Code Master
+$201B8DEC 00000000
++Only Allowed 1 Time-Out (Both Teams)
+%Credits: Code Master
+$201B8DEC A0A00158
++P1 Press L1+L2 For More Time
+%Credits: Code Master
+$D05A2042 0000FAFF
+$20491970 00008CA0
++P1 Press L1+R1 For More Shot Clock Time
+%Credits: Code Master
+$D05A2042 0000F3FF
+$206BF580 00000834
++P1 Press L2+R2 For No Shot Clock Time
+%Credits: Code Master
+$D05A2042 0000FCFF
+$206BF580 00000000
++P1 Press R1+R2 To End Quarter
+%Credits: Code Master
+$D05A2042 0000F5FF
+$20491980 00000001
++P2 Press L1+L2 For More Time
+%Credits: Code Master
+$D05A2142 0000FAFF
+$20491970 00008CA0
++P2 Press L1+R1 For More Shot Clock Time
+%Credits: Code Master
+$D05A2142 0000F3FF
+$206BF580 00000834
++P2 Press L2+R2 For No Shot Clock Time
+%Credits: Code Master
+$D05A2142 0000FCFF
+$206BF580 00000000
++P2 Press R1+R2 To End Quarter
+%Credits: Code Master
+$D05A2142 0000F5FF
+$20491980 00000001
++P3 Press L1+L2 For More Time
+%Credits: Code Master
+$D05A2242 0000FAFF
+$20491970 00008CA0
++P3 Press L1+R1 For More Shot Clock Time
+%Credits: Code Master
+$D05A2242 0000F3FF
+$206BF580 00000834
++P3 Press L2+R2 For No Shot Clock Time
+%Credits: Code Master
+$D05A2242 0000FCFF
+$206BF580 00000000
++P3 Press R1+R2 To End Quarter
+%Credits: Code Master
+$D05A2242 0000F5FF
+$20491980 00000001
++P4 Press L1+L2 For More Time
+%Credits: Code Master
+$D05A2342 0000FAFF
+$20491970 00008CA0
++P4 Press L1+R1 For More Shot Clock Time
+%Credits: Code Master
+$D05A2342 0000F3FF
+$206BF580 00000834
++P4 Press L2+R2 For No Shot Clock Time
+%Credits: Code Master
+$D05A2342 0000FCFF
+$206BF580 00000000
++P4 Press R1+R2 To End Quarter
+%Credits: Code Master
+$D05A2342 0000F5FF
+$20491980 00000001
++P5 Press L1+L2 For More Time
+%Credits: Code Master
+$D05A2442 0000FAFF
+$20491970 00008CA0
++P5 Press L1+R1 For More Shot Clock Time
+%Credits: Code Master
+$D05A2442 0000F3FF
+$206BF580 00000834
++P5 Press L2+R2 For No Shot Clock Time
+%Credits: Code Master
+$D05A2442 0000FCFF
+$206BF580 00000000
++P5 Press R1+R2 To End Quarter
+%Credits: Code Master
+$D05A2442 0000F5FF
+$20491980 00000001
++P6 Press L1+L2 For More Time
+%Credits: Code Master
+$D05A2542 0000FAFF
+$20491970 00008CA0
++P6 Press L1+R1 For More Shot Clock Time
+%Credits: Code Master
+$D05A2542 0000F3FF
+$206BF580 00000834
++P6 Press L2+R2 For No Shot Clock Time
+%Credits: Code Master
+$D05A2542 0000FCFF
+$206BF580 00000000
++P6 Press R1+R2 To End Quarter
+%Credits: Code Master
+$D05A2542 0000F5FF
+$20491980 00000001
++P7 Press L1+L2 For More Time
+%Credits: Code Master
+$D05A2642 0000FAFF
+$20491970 00008CA0
++P7 Press L1+R1 For More Shot Clock Time
+%Credits: Code Master
+$D05A2642 0000F3FF
+$206BF580 00000834
++P7 Press L2+R2 For No Shot Clock Time
+%Credits: Code Master
+$D05A2642 0000FCFF
+$206BF580 00000000
++P7 Press R1+R2 To End Quarter
+%Credits: Code Master
+$D05A2642 0000F5FF
+$20491980 00000001
++P8 Press L1+L2 For More Time
+%Credits: Code Master
+$D05A2742 0000FAFF
+$20491970 00008CA0
++P8 Press L1+R1 For More Shot Clock Time
+%Credits: Code Master
+$D05A2742 0000F3FF
+$206BF580 00000834
++P8 Press L2+R2 For No Shot Clock Time
+%Credits: Code Master
+$D05A2742 0000FCFF
+$206BF580 00000000
++P8 Press R1+R2 To End Quarter
+%Credits: Code Master
+$D05A2742 0000F5FF
+$20491980 00000001
+!!
+

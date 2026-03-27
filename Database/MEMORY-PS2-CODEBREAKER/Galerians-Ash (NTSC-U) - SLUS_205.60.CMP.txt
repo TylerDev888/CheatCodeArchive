@@ -1,0 +1,90 @@
+^1 = HASH: B506C936
+^3 = NAME: Galerians-Ash
+^2 = GameID: SLUS_205.60
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0020040F
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$9020040C 0C0833C6
+!!
+!Codes:
++Infinite HP
+%Credits: Code Master
+$10222E80 000007D0
++Max HP
+%Credits: Code Master
+$20222E84 000007D0
++Infinite AP{With This Code, Press L1+Select To Fill Your AP To Max And Press L2+Select To Empty Your AP.}
+%Credits: Code Master
+$D02DEDC2 0000FBFE
+$20222E88 000007D0
+$D02DEDC2 0000FEFE
+$20222E88 00000000
++Max AP
+%Credits: Code Master
+$20222E8C 000007D0
++Have Nalcon Serum
+%Credits: Code Master
+$00222F00 00000003
+$00222F06 00000003
++Have Red Serum
+%Credits: Code Master
+$00222F01 00000003
+$00222F07 00000003
++Have D-Felon Serum
+%Credits: Code Master
+$00222F02 00000003
+$00222F08 00000003
++Have Bustanor Serum
+%Credits: Code Master
+$00222F03 00000003
+$00222F09 00000003
++Have Breakaron Serum
+%Credits: Code Master
+$00222F04 00000003
+$00222F0A 00000003
++Max Nalcon Serum Gauge
+%Credits: Code Master
+$20222E90 000007D0
++Max Red Serum Gauge
+%Credits: Code Master
+$20222E94 000007D0
++Max D-Felon Serum Gauge
+%Credits: Code Master
+$20222E98 000007D0
++Max Bustanor Serum Gauge
+%Credits: Code Master
+$20222E9C 000007D0
++Max Breakaron Serum Gauge
+%Credits: Code Master
+$20222EA0 000007D0
++Max Nalcon Serum
+%Credits: Code Master
+$20223600 00000063
++Max Red Serum
+%Credits: Code Master
+$20223604 00000063
++Max D-Felon Serum
+%Credits: Code Master
+$20223608 00000063
++Max Bustanor Serum
+%Credits: Code Master
+$2022360C 00000063
++Max Breakaron Serum
+%Credits: Code Master
+$20223610 00000063
++Infinite Recovery Capsules
+%Credits: Code Master
+$20223618 00000063
++Infinite Recovery Plus
+%Credits: Code Master
+$2022361C 00000063
++Infinite Delmetor
+%Credits: Code Master
+$20223620 00000063
++Infinite Appolinar
+%Credits: Code Master
+$20223624 00000063
+!!

@@ -1,0 +1,570 @@
+^3 = NAME: Jak X - Combat Racing (Ntsc-U)
+^2 = GameID: SCUS-97429
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$90117510 0C045CEC
+$2010C668 03E00008
+$2010C670 3C032008
+$2010C674 3C0127BD
+$2010C678 3421FF90
+$2010C67C AC610008
+$2010C680 3C01FFBF
+$2010C684 34210000
+$2010C688 AC61000C
+$2010C68C 3C012403
+$2010C690 34210000
+$2010C694 03E00008
+$2010C698 AC610040
+$2026FD28 0C04319C
++Master Code
+%Credits: MadCatz
+$F0266394 0000000E
+$200C0000 3C032008
+$200C0004 3C011000
+$200C0008 3421FFFD
+$200C000C AC610008
+$200C0010 3C012405
+$200C0014 34210002
+$200C0018 AC61000C
+$200C001C 3C018D0C
+$200C0020 03E00008
+$200C0024 AC610040
+$2026FD28 0C030000
+!!
++All Gp's Won At Gold (This Unlocks All Cups)
+%Credits: MadCatz
+$009935B8 00000003
+$009934E8 00000003
+$00993408 00000003
+$00993338 00000003
++All Races Won Gold
+%Credits: MadCatz
+$200C2040 24010003
+$200C2044 A0C10054
+$200C2048 00013020
+$200C204C 082AC5F3
+$200C2050 0046102D
+$20AB17C4 08030810
+$20AB17C8 00000000
+!Have Grand Prix Finished Codes:
++Blue Eco Cup
+%Credits: Code Master
+$10993408 00000003
++Green Eco Cup
+%Credits: Code Master
+$109934E8 00000003
++Red Eco Cup
+%Credits: Code Master
+$109935B8 00000003
++Yellow Eco Cup
+%Credits: Code Master
+$10993338 00000003
+!!
++Have Max Orbs (View Secrets Shop To Activate)
+%Credits: MadCatz
+$200C2020 3C014B18
+$200C2024 34219680
+$200C2028 44810000
+$200C202C E460001C
+$200C2030 03E00008
+$200C2034 46000024
+$213EA780 0C030808
++Infinite Blue Eco
+%Credits: MadCatz
+$200C2008 AC8102BC
++Infinite Dark Eco
+%Credits: MadCatz
+$200C200C AC8102C0
++Infinite Enabler (Must Be On For The Following)
+%Credits: MadCatz
+$200C2000 3C013F80
+$200C2014 03E00008
+$D0C1D134 00000008
+$20C1D134 08030800
++Infinite Green Eco
+%Credits: MadCatz
+$200C2004 AC8102AC
+!Max Blue Eco Cup Medal Points Codes:
++Grand Prix-Qualifier 1
+%Credits: Code Master
+$00988C18 00000003
++Grand Prix-Qualifier 2
+%Credits: Code Master
+$00988218 00000003
++Haven City-Clifftop Battlefield
+%Credits: Code Master
+$00988F88 00000003
++Haven City-Eastern Tour
+%Credits: Code Master
+$009899D8 00000003
++Haven City-Waterworks Circuit
+%Credits: Code Master
+$00987F38 00000003
++Icelands-Ice Pit
+%Credits: Code Master
+$00988518 00000003
++Icelands-Icebound Citadel
+%Credits: Code Master
+$009896B8 00000003
++Icelands-Mountaintop Highway
+%Credits: Code Master
+$00988668 00000003
++Kras City-Dethdrome
+%Credits: Code Master
+$00988388 00000003
++Kras City-Dirt Stadium
+%Credits: Code Master
+$00988AD8 00000003
++Kras City-Loading Docks
+%Credits: Code Master
+$00988988 00000003
++Kras City-Seaport Strip-Race 1
+%Credits: Code Master
+$009890E8 00000003
++Kras City-Seaport Strip-Race 2
+%Credits: Code Master
+$00987DB8 00000003
++Kras City-Waterfront Loop
+%Credits: Code Master
+$00989848 00000003
++Spargus-Badland Sanctuary
+%Credits: Code Master
+$009887F8 00000003
++Spargus-Beachfront Drive
+%Credits: Code Master
+$00989228 00000003
++Spargus-Canyon Run
+%Credits: Code Master
+$00989518 00000003
++Spargus-Desert Arena
+%Credits: Code Master
+$009893B8 00000003
++Spargus-Northern Tour
+%Credits: Code Master
+$00988DD8 00000003
++Spargus-Spargus City
+%Credits: Code Master
+$009880D8 00000003
+!!
+!Max Green Eco Cup Medal Points Codes:
++Grand Prix-Qualifier 1
+%Credits: Code Master
+$0098B4D8 00000003
++Grand Prix-Qualifier 2
+%Credits: Code Master
+$0098A2A8 00000003
++Haven City-City Outskirts
+%Credits: Code Master
+$0098A898 00000003
++Haven City-Clifftop Battlefield
+%Credits: Code Master
+$0098AD08 00000003
++Haven City-Forbidden Jungle-Race 1
+%Credits: Code Master
+$0098AFD8 00000003
++Haven City-Forbidden Jungle-Race 2
+%Credits: Code Master
+$0098A428 00000003
++Haven City-Haven City
+%Credits: Code Master
+$0098A008 00000003
++Icelands-Frozen Speedway
+%Credits: Code Master
+$0098B178 00000003
++Kras City-Dethdrome
+%Credits: Code Master
+$0098AE48 00000003
++Kras City-Dirt Stadium
+%Credits: Code Master
+$00989D38 00000003
++Kras City-Kras City-Race 1
+%Credits: Code Master
+$0098B648 00000003
++Kras City-Kras City-Race 2
+%Credits: Code Master
+$0098A708 00000003
++Kras City-Waterfront Loop
+%Credits: Code Master
+$0098B338 00000003
++Kras City-Western Tour
+%Credits: Code Master
+$00989B88 00000003
++Spargus-Badland Sanctuary
+%Credits: Code Master
+$0098A5B8 00000003
++Spargus-Beachfront Drive
+%Credits: Code Master
+$0098B788 00000003
++Spargus-Canyon Run-Race 1
+%Credits: Code Master
+$0098A9F8 00000003
++Spargus-Canyon Run-Race 2
+%Credits: Code Master
+$00989E78 00000003
++Spargus-Desert Arena
+%Credits: Code Master
+$0098AB98 00000003
++Spargus-Wasteland Isle
+%Credits: Code Master
+$0098A158 00000003
+!!
+!Max Red Eco Cup Medal Points Codes:
++Grand Prix-Qualifier 1
+%Credits: Code Master
+$0098CC68 00000003
++Grand Prix-Qualifier 2
+%Credits: Code Master
+$0098BEC8 00000003
++Have City-Sewer Raceway
+%Credits: Code Master
+$0098B8D8 00000003
++Haven City-Clifftop Battlefield
+%Credits: Code Master
+$0098CE58 00000003
++Haven City-Forbidden Jungle
+%Credits: Code Master
+$0098C678 00000003
++Icelands-Frozen Speedway
+%Credits: Code Master
+$0098C4D8 00000003
++Icelands-Icebound Citadel-Race 1
+%Credits: Code Master
+$0098CAC8 00000003
++Icelands-Icebound Citadel-Race 2
+%Credits: Code Master
+$0098C838 00000003
++Icelands-Mountain Top Highway
+%Credits: Code Master
+$0098C978 00000003
++Icelands-Timberline Track
+%Credits: Code Master
+$0098C0A8 00000003
++Kras City-Dirt Stadium-Race 1
+%Credits: Code Master
+$0098D288 00000003
++Kras City-Dirt Stadium-Race 2
+%Credits: Code Master
+$0098C248 00000003
++Kras City-Loading Docks-Race 1
+%Credits: Code Master
+$0098D3D8 00000003
++Kras City-Loading Docks-Race 2
+%Credits: Code Master
+$0098BBF8 00000003
++Kras City-Mar Coliseum
+%Credits: Code Master
+$0098BA88 00000003
++Kras City-Seaport Strip
+%Credits: Code Master
+$0098CFA8 00000003
++Spargus-Precursor Temple
+%Credits: Code Master
+$0098C388 00000003
++Spargus-Spargus City-Race 1
+%Credits: Code Master
+$0098D578 00000003
++Spargus-Spargus City-Race 2
+%Credits: Code Master
+$0098D0F8 00000003
++Spargus-Spargus City-Race 3
+%Credits: Code Master
+$0098BD38 00000003
+!!
+!Max Yellow Eco Cup Medal Points Codes:
++Grand Prix-Qualifier 1
+%Credits: Code Master
+$009874D8 00000003
++Grand Prix-Qualifier 2
+%Credits: Code Master
+$009867E8 00000003
++Haven City-Atoll Arena
+%Credits: Code Master
+$00986F38 00000003
++Haven City-Clifftop Battlefield
+%Credits: Code Master
+$00987208 00000003
++Haven City-Sewer Raceway
+%Credits: Code Master
+$00987348 00000003
++Haven City-Waterworks Circuit-Race 1
+%Credits: Code Master
+$009877B8 00000003
++Haven City-Waterworks Circuit-Race 2
+%Credits: Code Master
+$00986928 00000003
++Icelands-Mountaintop Highway-Race 1
+%Credits: Code Master
+$00987C18 00000003
++Icelands-Mountaintop Highway-Race 2
+%Credits: Code Master
+$00986248 00000003
++Icelands-Southern Tour
+%Credits: Code Master
+$00986AB8 00000003
++Kras City-Dethdrome
+%Credits: Code Master
+$00986C68 00000003
++Kras City-Kras City
+%Credits: Code Master
+$00987078 00000003
++Kras City-Mar Coliseum
+%Credits: Code Master
+$00987678 00000003
++Kras City-Seaport Strip
+%Credits: Code Master
+$009878F8 00000003
++Kras City-Waterfront Loop
+%Credits: Code Master
+$00986108 00000003
++Spargus-Beachfront Drive
+%Credits: Code Master
+$00986658 00000003
++Spargus-Precursor Temple-Race 1
+%Credits: Code Master
+$00987A88 00000003
++Spargus-Precursor Temple-Race 1
+%Credits: Code Master
+$00986518 00000003
++Spargus-Spargus City
+%Credits: Code Master
+$00986DA8 00000003
++Spargus-Wasteland Isle
+%Credits: Code Master
+$009863D8 00000003
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Have All Medal Points
+%Credits: Code Master
+$E005380A 00AB17B8
+$200C0210 A0C10054
+$200C0214 082AC5F3
+$200C0218 0041102D
+$20AB17C4 08030084
+$20AB17C8 24010003
++Infinite Blue Eco Turbo (All Players)
+%Credits: Code Master
+$D0F176B0 00001825
+$20F17710 00000000
++Infinite Blue Eco Turbo (Only You)
+%Credits: Code Master
+$E0051825 00EE94AC
+$200C0240 3C013F80
+$200C0244 AE6102BC
+$200C0248 083BA52F
+$200C024C C66002BC
+$20EE94B8 0C030090
++Infinite Dark Eco Meters (Only You)
+%Credits: Code Master
+$E0051825 00EE9694
+$200C0250 3C013F80
+$200C0254 AE6102C0
+$200C0258 083BA5A9
+$200C025C C66002C0
+$20EE96A0 0C030094
++Infinite Green Eco Health (All Players)
+%Credits: Code Master
+$D0C1D024 00000842
+$20C1D02C 00000000
++Infinite Health (Only You)
+%Credits: Code Master
+$E0051825 00F0FF84
+$200C0220 3C013F80
+$200C0224 AF8102AC
+$200C0228 03E00008
+$200C022C C78002AC
+$20F0FF88 0C030088
++Infinite Red Eco Mines (All Players)
+%Credits: Code Master
+$D0F5C35C 00000101
+$20F5C368 00000000
++Infinite Red/Yellow Eco Ammo (Only You)
+%Credits: Code Master
+$E0051825 00EEB0A8
+$200C0230 24010063
+$200C0234 A0C100FC
+$200C0238 03E00008
+$200C023C 80C600FC
+$20EEB0AC 0C03008C
++Infinite Yellow Eco Grenades (All Players)
+%Credits: Code Master
+$D0F4FE94 00001025
+$20F4FEA0 00000000
++Infinite Yellow Eco Machine Gun (All Players)
+%Credits: Code Master
+$D0F52680 00001025
+$20F5268C 00000000
++Infinite Yellow Eco Missiles (All Players)
+%Credits: Code Master
+$D0F4E548 00001825
+$20F4E554 00000000
++Max Precursor Orbs (Secrets Shop)
+%Credits: Code Master
+$207B95D0 4CBEBC20
++P1 Press L3 To Disable Slow Motion
+%Credits: Code Master
+$D028339C 0000FFFD
+$200C0000 00000000
+$D00C0000 00000000
+$2049D42C 3F800000
++P1 Press R3 To Enable Slow Motion
+%Credits: Code Master
+$D028339C 0000FFFB
+$200C0000 00000001
+$D00C0000 00000001
+$2049D42C 3F000000
++Unlock All Drivers
+%Credits: Code Master
+$207B9C50 FFFFFFFF
+$207B9C54 FFFFFFFF
+!!
++Unlock All Secrets
+%Credits: MadCatz
+$207B99F0 00000001
+$207B99F8 FFFFFFFF
+$207B99FC FFFFFFFF
+!Unlock Antenna Codes:
++All Antennas
+%Credits: Code Master
+$707B99FB 0000007E
++Clank Head
+%Credits: Code Master
+$707B99FB 00000020
++Daxter Head
+%Credits: Code Master
+$707B99FB 00000010
++Furry Dice
+%Credits: Code Master
+$707B99FB 00000040
++Metalhead Trophy
+%Credits: Code Master
+$707B99FB 00000004
++Pennant Antenna
+%Credits: Code Master
+$707B99FB 00000002
++Precursor Orb
+%Credits: Code Master
+$707B99FB 00000008
+!!
+!Unlock Bonus Wheels Codes:
++All Bonus Wheels
+%Credits: Code Master
+$707B99FD 00000080
+$707B99FE 001001FF
++Blitz Rpms
+%Credits: Code Master
+$707B99FE 00000002
++Depleted Uratrax
+%Credits: Code Master
+$707B99FF 00000001
++EDA Road Eaters
+%Credits: Code Master
+$707B99FE 00000020
++Magnesium Trifolds
+%Credits: Code Master
+$707B99FE 00000040
++Quad-Spun Air-Plates
+%Credits: Code Master
+$707B99FE 00000010
++Scherr-Tech Spinners
+%Credits: Code Master
+$707B99FD 00000080
++Spinworx Heavy Metal
+%Credits: Code Master
+$707B99FE 00000080
++Triple Cast Ferrites
+%Credits: Code Master
+$707B99FE 00000001
++Vella-Flow Lamenants
+%Credits: Code Master
+$707B99FE 00000004
++Vortex Dreads
+%Credits: Code Master
+$707B99FE 00000008
+!!
+!Unlock Concept Art Codes:
++All Concept Art
+%Credits: Code Master
+$707B99F9 00000007
++Background Art
+%Credits: Code Master
+$707B99F9 00000002
++Character Art
+%Credits: Code Master
+$707B99F9 00000001
++Vehicle Art
+%Credits: Code Master
+$707B99F9 00000004
+!!
+!Unlock General Codes:
++All General
+%Credits: Code Master
+$707B99F8 0010C001
++Hero Mode
+%Credits: Code Master
+$707B99F8 00000001
++Mirrored Adventure Mode
+%Credits: Code Master
+$707B99F9 00000080
++Mirrored Tracks
+%Credits: Code Master
+$707B99F9 00000040
+!!
+!Unlock Helmets Codes:
++All Helmets
+%Credits: Code Master
+$707B99FB 00000080
+$707B99FC 0000001F
++Grey Matter Hatter
+%Credits: Code Master
+$707B99FC 00000010
++Haven Skullcap
+%Credits: Code Master
+$707B99FC 00000001
++Kras Brain Bucket
+%Credits: Code Master
+$707B99FC 00000008
++Marauder Lip Bomb
+%Credits: Code Master
+$707B99FC 00000004
++Offset Cranium
+%Credits: Code Master
+$707B99FB 00000080
++Spargus Sandmask
+%Credits: Code Master
+$707B99FC 00000002
+!!
+!Unlock Reel Codes:
++'Making Of' Movie
+%Credits: Code Master
+$707B99FC 00000020
++All Reels
+%Credits: Code Master
+$707B99F8 00000010
+$707B99FC 001020E0
++Bloopers Movie
+%Credits: Code Master
+$707B99FC 00000040
++Breakdown Of A Scene
+%Credits: Code Master
+$707B99FC 00000080
++Hot Coffee
+%Credits: Code Master
+$707B99FD 00000020
++Unknown
+%Credits: Code Master
+$707B99F8 00000010
+!!
+!Unlock Vehicle Codes:
++All Vehicles
+%Credits: Code Master
+$707B99FD 00000003
++Naughty Dog
+%Credits: Code Master
+$707B99FD 00000001
++Sand Shark
+%Credits: Code Master
+$707B99FD 00000002
+!!
+!!
+

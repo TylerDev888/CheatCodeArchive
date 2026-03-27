@@ -1,0 +1,33 @@
+^3 = NAME: Pac-Man Fever (Ntsc-U)
+^2 = GameID: SLUS-20197
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0020039F
+!!
++Max Tokens P1
+%Credits: Code Master
+$1024C414 0000270F
++Max Tokens P2
+%Credits: Code Master
+$1024C444 0000270F
++Max Tokens P3
+%Credits: Code Master
+$1024C474 0000270F
++Max Tokens P4
+%Credits: Code Master
+$1024C4A4 0000270F
++No Tokens P1
+%Credits: Code Master
+$1024C414 00000000
++No Tokens P2
+%Credits: Code Master
+$1024C444 00000000
++No Tokens P3
+%Credits: Code Master
+$1024C474 00000000
++No Tokens P4
+%Credits: Code Master
+$1024C4A4 00000000
+!!
+

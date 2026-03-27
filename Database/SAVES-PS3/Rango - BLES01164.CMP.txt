@@ -1,0 +1,44 @@
+^2 = GameID: BLES01164
+^3 = NAME: Rango
+^4 = FILE: PROGRESS.DAT
++Update Crc32 For Progress.dat (required)
+(set range:0xC,0x00001B)
+$set pointer:eof+1
+$set range:0xC,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+^4 = FILE: COLLECT.DAT
++Update Crc32 For Collect.dat (required)
+(set range:0xC,0x0007BB)
+$set pointer:eof+1
+$set range:0xC,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+^4 = FILE: OPTIONS.DAT
++Update Crc32 For Options.dat (required)
+(set range:0x00000C,0x00001B)
+$set pointer:eof+1
+$set range:0x00000C,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+^4 = FILE: CHKPTS.DAT
++Update Crc32 For Chkpts.dat (required)
+(set range:0x00000C,0x001393)
+$set pointer:eof+1
+$set range:0x00000C,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+^4 = FILE: ACHIEVE.DAT
++Update Crc32 For Achieve.dat (required)
+(set range:0x00000C,0x00019F)
+$set pointer:eof+1
+$set range:0x00000C,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+^4 = FILE: UPG.DAT
++Update Crc32 For Upg.dat (required)
+(set range:0x00000C,0x00001C)
+$set pointer:eof+1
+$set range:0x00000C,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]

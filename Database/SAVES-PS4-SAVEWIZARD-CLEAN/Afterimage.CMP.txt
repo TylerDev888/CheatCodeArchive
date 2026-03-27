@@ -1,0 +1,35 @@
+^2 = GameID: CUSA41096,CUSA41097
+^3 = NAME: Afterimage
+^SECONDLAYER: NO
+^4 = FILE: GameSave[0-9]+\ue4savegame.ps4.sav
++Max Divine Seeds{(must Have One First. Maxes The Ones On The Afterimage Screen, Not The Ones On Inventory) This Code Basically Makes It To Where You Have 99 Slots Available To Equip Afterimages, And Given That There's Only A Limited Number Of Them In Game; You Can Pretty Much Have Them All Activated At The Same Time (if You Find Them All That Is)}
+%Credits:Zeraf3000
+$80010009 76000000
+$00000000 00000000
+$28000009 42C60000
++Super Max HP Regen{(must Have An HP Regen Equipment In Your Inventory For It To Work Like Odd Badge). No Need For Piece To Be Equipped, As Long As It Is In Your Inventory}
+%Credits:Zeraf3000
+$80010009 69000000
+$00000000 00000000
+$28000009 4B18967F
++Super Max MP Regen{(must Have An MP Regen Equipment In Your Inventory For It To Work). No Need For Piece To Be Equipped, As Long As It Is In Your Inventory}
+%Credits:Zeraf3000
+$80010009 6A000000
+$00000000 00000000
+$28000009 4B18967F
+!Code For No. 42:{Ng+ Must Be Unlocked And You Must Have Played At Least Chapter 1}
++Super Max Stats{This Will Give You Super Max Hp, MP And Super Damage. There Is No Way To Check The Actual Values In Game Since The Ng+ Plays Diff Than The Base Game, And No.42 Doesn't Have A Stats Page, But, Stats Are Present In Save. Only Way To Check If Code Worked Is Through Gameplay. Start A Chapter After Appying The Code, And Your Character Shouldn't Lose HP Or MP And You Should Be Doing Damage In The 1000's}
+%Credits:Zeraf3000
+$80010021 50006C00
+$61007900 65007200
+$43006800 61007200
+$61006300 74006500
+$72003400 32000000
+$2800002B 70000000
+$28000038 70000000
+$28000045 70000000
+$28000052 70000000
+$2800005F 447A0000
+$28000086 447A0000
+$28000093 447A0000
+!!	

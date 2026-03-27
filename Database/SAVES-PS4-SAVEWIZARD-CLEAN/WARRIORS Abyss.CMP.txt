@@ -1,0 +1,31 @@
+^2 = GameID: CUSA51078
+^3 = NAME: Warriors: Abyss
+^SECONDLAYER: NO
+^4 = FILE: GAMEDATA[0-9]+\GAMEDATA[0-9]+.BIN
+{<div class="note"><h4>NOTE:</h4><p>To use this cheat, your game must be updated to version 1.07 or greater and you must have unlocked any Max Cumulative Level perk from the training levels (the ones that break the max cumulative level cap).</p><ul><li>Sets your <strong>current cumulative level</strong> to <strong>70,000</strong> (does not change the max cumulative level).</li><li>Grants very high damage and defense (<em>not</em> god mode — hits still reduce health, just a small amount).</li><li>Increases movement speed.</li><li>Exact stat values vary by Hero due to different base stats.</li></ul></div>}
++Super Cumulative Level{<div Class="note"><h4>note:</H4><ul><li>you Can Technically Use The Code Without Having The Max Cumulative Level Perk Unlocked, But It Will Make You Level 65535 Instead, And It Will Only Affect Your Damage And Defense (it Won’t Mod Speed Until You've Unlocked The Max Cumulative Level Uncap As Mentioned)</Li><li>if You Feel Like The Speed Is Too Much For The Character You're Using, Adjust The 1171 Portion Of The Code To Something Lower</Li><li>so Far, The Mod Seems To Be Permanent, But If It Resets After A Run, Simply Apply The Code Again (code Doesn't Affect "depths Of The Void" Mode Fyi)</Li><li>this Game Seems To Be Moving Stuff Around Every Update, So I Can't Guarantee That It Won't Break On The Next Update. I Will Try To Maintain It As Much As Possible</Li></Ul></Div>}
+%Credits: Zeraf3000
+$D0000000 052000A0
+$95000000 00021355
+$49000002 0000FFFF
+$40C80039 00000000
+$49000013 00001171
+$40C80039 00000000
+$D0000000 0520009B
+$95000000 00021306
+$49000002 0000FFFF
+$40C70039 00000000
+$49000013 00001171
+$40C70039 00000000
+$D0000000 0520007A
+$95000000 0001D84E
+$49000002 0000FFFF
+$40C70029 00000000
+$49000013 00001171
+$40C70029 00000000
+$D0000000 05200077
+$95000000 0001D836
+$49000002 0000FFFF
+$40C70025 00000000
+$49000013 00001171
+$40C70025 00000000

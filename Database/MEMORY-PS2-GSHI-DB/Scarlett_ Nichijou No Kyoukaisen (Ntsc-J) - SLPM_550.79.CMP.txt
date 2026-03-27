@@ -1,0 +1,38 @@
+^3 = NAME: Scarlett: Nichijou No Kyoukaisen (Ntsc-J)
+^2 = GameID: SLPM-55079
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$902229F8 0C088A26
+!!
++All Chapters
+%Credits: punk7890
+$104831AC 000003E8
++Enable Debug Display
+%Credits: punk7890
+$201B77E8 00000000
+$201B7788 00000000
++Enable Omake
+%Credits: punk7890
+$0053DF0C 00000001
++Enable Unused Games [Read Note] {<I>With The Code On, Press And Hold Either R1+Circle For Unknown Short Story Or L1+Circle For Story 01 Nozomi While Entering Start From The Main Menu Or Starting Any Other Game Mode.</I>}
+%Credits: punk7890
+$E003D7FF 0046A97E
+$10483BB6 0000001D
+$00483C1E 00000000
+$00483C25 00000000
+$E003DBFF 0046A97E
+$10483BB6 0000001E
+$00483C1E 00000000
+$00483C25 00000000
++Replace Omake Mode With Unused Final With Sanarara Short Story Game
+%Credits: punk7890
+$00161ED0 0000000E
++Unlock All Sanarara Short Story Routes
+%Credits: punk7890
+$004831B0 00000007
++Unlock All Sanarara Story: 01 Nozomi Routes
+%Credits: punk7890
+$004831AE 0000000F
+!!
+

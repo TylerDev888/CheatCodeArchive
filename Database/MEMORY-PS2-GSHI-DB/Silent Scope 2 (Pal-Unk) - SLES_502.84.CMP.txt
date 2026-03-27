@@ -1,0 +1,59 @@
+^3 = NAME: Silent Scope 2 (Pal-Unk)
+^2 = GameID: SLES-50284
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0119590 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0119578 00108897
++(M) Must Be On
+%Credits: Codejunkies
+$F0108894 00108897
+!!
+!Credit Codes:
++Infinite Credits
+%Credits: Codejunkies
+$10263BC4 00000009
++Never More Than 1 Credit
+%Credits: Codejunkies
+$E0010001 30263BC4
+$10263BC4 00000001
++Never More Than 2 Credits
+%Credits: Codejunkies
+$E0010002 30263BC4
+$10263BC4 00000002
++Never More Than 3 Credits
+%Credits: Codejunkies
+$E0010003 30263BC4
+$10263BC4 00000003
++Never More Than 5 Credits
+%Credits: Codejunkies
+$E0010005 30263BC4
+$10263BC4 00000005
+!!
+!Health Codes:
++Freeze Timer
+%Credits: Codejunkies
+$10251E02 000000FF
++Infinite Health
+%Credits: Codejunkies
+$10251DCC 00000100
++Never More Than 25% Health
+%Credits: Codejunkies
+$E0010040 30251DCC
+$10251DCC 00000040
++Never More Than 50% Health
+%Credits: Codejunkies
+$E0010080 30251DCC
+$10251DCC 00000080
++Never More Than 75% Health
+%Credits: Codejunkies
+$E00100C0 30251DCC
+$10251DCC 000000C0
++No Reloads
+%Credits: Codejunkies
+$10251DF6 00000007
+!!
+!!
+

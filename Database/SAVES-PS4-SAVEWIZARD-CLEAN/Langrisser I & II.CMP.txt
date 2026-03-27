@@ -1,0 +1,11 @@
+^2 = GameID: CUSA16120,CUSA17276,CUSA13602,CUSA18159,CUSA17179,CUSA16130
+^3 = NAME: Langrisser I & II
+^SECONDLAYER: NO
+^4 = FILE: LR1(INTR|[0-9]+)\Data.dat Langrisser 1
++Unlock all Skills for all characters (Inc hidden)
+$41003C9C 000001C0
+$401100FA 00000000
++Number of Kills
+$41003BFD 0000[AMOUNT:FFFF:HEX:BIG]
+$401100FA 00000000
+^4 = FILE: LR2(INTR|[0-9]+)\Data.dat Langrisser 2

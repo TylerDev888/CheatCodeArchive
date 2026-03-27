@@ -1,0 +1,233 @@
+^1 = HASH: AA73521B
+^3 = NAME: Trigger Man
+^2 = GameID: SLUS_209.31
+!Masters:
++Enable Code (Must Be On) [Read Note]
+%Credits: Code Master>GMO
+$90201D08 0C085B2B
+!!
+!Codes:
++Infinite Health
+%Credits: Code Master>GMO
+$200C0220 8C820000
+$200C0224 AC820008
+$200C0228 03E00008
+$200C022C 46000546
+$20183E8C 0C030088
++Infinite Armor
+%Credits: Code Master>GMO
+$20175538 8C820000
+$20175540 AC820008
++Infinite Ammo
+%Credits: Code Master>GMO
+$201F7C9C 00000000
+$201F7CA0 00000000
++Max Infinite Ammo
+%Credits: Code Master>GMO
+$101F7C92 00001000
+$201F7C94 240203E7
++Extra Ammo
+%Credits: Code Master>GMO
+$101F7C92 00001000
+$201F7C94 00651021
++Never Reload
+%Credits: Code Master>GMO
+$201F64D4 00000000
++Have All Weapons/Infinite Ammo
+%Credits: Code Master>GMO
+$20201D3C 0804CFF6
++P1 Press L1+Select To Complete Mission
+%Credits: Code Master>GMO
+$D03FA502 0000FBFE
+$20216D50 0804CFEE
+$D03FA502 0010FBFE
+$20216D50 03E00008
++Idiot AI Guard
+%Credits: Code Master>GMO
+$2011C638 03E00008
+$2011C63C 00000000
++Idiot AI Sentry
+%Credits: Code Master>GMO
+$2011C970 03E00008
+$2011C974 00000000
++Enemy Doesnt Investigate
+%Credits: Code Master>GMO
+$2011CD28 03E00008
+$2011CD2C 00000000
++Enemy Doesnt Hide
+%Credits: Code Master>GMO
+$2011D038 03E00008
+$2011D03C 00000000
++Guards Dont Randomly Fire
+%Credits: Code Master>GMO
+$2011D358 03E00008
+$2011D35C 00000000
++Guards Dont Attack
+%Credits: Code Master>GMO
+$2011D468 03E00008
+$2011D46C 00000000
++Sentries Dont Attack
+%Credits: Code Master>GMO
+$2011D8D0 03E00008
+$2011D8D4 00000000
++Enemy Doest Chase You
+%Credits: Code Master>GMO
+$2011DCC8 03E00008
+$2011DCCC 00000000
++No Enemy Cover Attack
+%Credits: Code Master>GMO
+$2011E368 03E00008
+$2011E36C 00000000
++Wire Mode
+%Credits: Code Master>GMO
+$20279750 00000001
++Display AI Vision
+%Credits: Code Master>GMO
+$20277A54 00000001
++Adrenalin Refills Faster
+%Credits: Code Master>GMO
+$20277C84 41000000
++Pause Never Disabled
+%Credits: Code Master>GMO
+$20277DD0 00000000
++Pause Always Disabled
+%Credits: Code Master>GMO
+$20277DD0 00000001
++Enemy Zero Accuracy
+%Credits: Code Master>GMO
+$20279344 00000000
++Always Day 1
+%Credits: Code Master>GMO
+$20277610 00000001
++Game Time Always 00:00:00
+%Credits: Code Master>GMO
+$20277614 00000000
++Slow Motion
+%Credits: Code Master>GMO
+$2027761C 3F000000
++Super Slow Motion
+%Credits: Code Master>GMO
+$2027761C 3E800000
++Mega Slow Motion
+%Credits: Code Master>GMO
+$2027761C 3E400000
++Normal Speed
+%Credits: Code Master>GMO
+$2027761C 3F800000
++Hyper Mode
+%Credits: Code Master>GMO
+$2027761C 40000000
++Mega Hyper Mode
+%Credits: Code Master>GMO
+$2027761C 41000000
++Super Hyper Mode
+%Credits: Code Master>GMO
+$2027761C 40800000
++Blood Enabled
+%Credits: Code Master>GMO
+$20277DC8 00000001
++Faster Aim Turn Rate
+%Credits: Code Master>GMO
+$20278418 3E000000
++Invulnerable
+%Credits: Code Master>GMO
+$202797FC 00000001
++Enable Rain
+%Credits: Code Master>GMO
+$20279910 00000001
++Disable Rain
+%Credits: Code Master>GMO
+$20279910 00000000
++Enable Lightning
+%Credits: Code Master>GMO
+$20279918 00000001
++Disable Lightning
+%Credits: Code Master>GMO
+$20279918 00000000
++Auto Wall Mode Enabled
+%Credits: Code Master>GMO
+$20279338 00000001
++Disable HUD
+%Credits: Code Master>GMO
+$202795C8 00000001
++Player Health Bar Enabled
+%Credits: Code Master>GMO
+$20279A40 00000001
++Player Armor Bar Enabled
+%Credits: Code Master>GMO
+$20279A44 00000001
++Adrenalin Bar Enabled
+%Credits: Code Master>GMO
+$20279A48 00000001
++1-Shot Kills
+%Credits: Code Master>GMO
+$20279A4C 00000001
++Stay Locked On When R1 Is Released
+%Credits: Code Master>GMO
+$20279A50 00000001
++Dive Always Slomo
+%Credits: Code Master>GMO
+$20279A54 00000001
++Throw Always Slomo
+%Credits: Code Master>GMO
+$20279A58 00000001
++Shoot When Frozen
+%Credits: Code Master>GMO
+$20279A60 00000001
++Can Exit Wall Mode
+%Credits: Code Master>GMO
+$20279A64 00000001
++Enemy Health Bar Enabled
+%Credits: Code Master>GMO
+$20279A6C 00000001
++Boss Health Bar Enabled
+%Credits: Code Master>GMO
+$20279A70 00000001
++Special Health Bar Enabled
+%Credits: Code Master>GMO
+$20279A74 00000001
++Ammo Count Enabled
+%Credits: Code Master>GMO
+$20279A78 00000001
++Weapon Icon Enabled
+%Credits: Code Master>GMO
+$20279A80 00000001
++Stay In Manual Targeting When R2 Released
+%Credits: Code Master>GMO
+$20279AB4 00000001
++Player Continued From Game Over Screen
+%Credits: Code Master>GMO
+$20279AC0 00000001
++Draw Scripted Sniper Scope
+%Credits: Code Master>GMO
+$20279AC8 00000001
++Max Points
+%Credits: Code Master>GMO
+$20279B6C 0000270F
++God Mode
+%Credits: Code Master>GMO
+$20279C08 00000001
+!!
+!Activate Cheat Codes:
++Have All Weapons
+%Credits: Code Master>GMO
+$7025183C 00000001
++Infnite Ammo
+%Credits: Code Master>GMO
+$7025185C 00000001
++Head Shot
+%Credits: Code Master>GMO
+$7025187C 00000001
++Infinite Armor
+%Credits: Code Master>GMO
+$7025189C 00000001
++1-Hit Kills
+%Credits: Code Master>GMO
+$702518BC 00000001
++1-Shot Kills
+%Credits: Code Master>GMO
+$702518DC 00000001
++Infinite Health
+%Credits: Code Master>GMO
+$702518FC 00000001
+!!

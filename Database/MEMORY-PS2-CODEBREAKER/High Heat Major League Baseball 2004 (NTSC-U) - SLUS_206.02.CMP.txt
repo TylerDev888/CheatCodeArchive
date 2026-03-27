@@ -1,0 +1,223 @@
+^1 = HASH: 0AF91FC6
+^3 = NAME: High Heat Major League Baseball 2004
+^2 = GameID: SLUS_206.02
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 003B5C27
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$903B5C24 0C0F1481
+!!
+!Codes:
++Home Team Score Modifier
+%Credits: Code Master
+$119765CC 0000????
++Home Team Start With Runs Modifier
+%Credits: Code Master
+$D19765CC 00000000
+$119765CC 0000????
++Away Team Score Modifier
+%Credits: Code Master
+$119765D0 0000????
++Away Team Start With Runs Modifier
+%Credits: Code Master
+$D19765D0 00000000
+$119765D0 0000????
++Start On Inning Modifier (02-09)
+%Credits: Code Master
+$D19765B8 00000001
+$119765B8 000000??
++P1 Press L1+R1 For No Outs, No Strikes & 3 Balls
+%Credits: Code Master
+$E003F3FF 00591382
+$119765BC 00000000
+$119765C0 00000003
+$119765C4 00000000
++P1 Press L2+R2 For 2 Outs, 2 Strikes & No Balls
+%Credits: Code Master
+$E003FCFF 00591382
+$119765BC 00000002
+$119765C0 00000000
+$119765C4 00000002
++P2 Press L1+R1 For No Outs, No Strikes & 3 Balls
+%Credits: Code Master
+$E003F3FF 00591482
+$119765BC 00000000
+$119765C0 00000003
+$119765C4 00000000
++P2 Press L2+R2 For 2 Outs, 2 Strikes & No Balls
+%Credits: Code Master
+$E003FCFF 00591482
+$119765BC 00000002
+$119765C0 00000000
+$119765C4 00000002
+!!
+!Both Team Codes:
++Infinite Outs
+%Credits: Code Master
+$119765BC 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$D19765BC 00000000
+$119765BC 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$D19765BC 00000000
+$119765BC 00000001
++Infinite Balls
+%Credits: Code Master
+$119765C0 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$D19765C0 00000000
+$119765C0 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$D19765C0 00000000
+$119765C0 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$D19765C0 00000000
+$119765C0 00000001
++Infinite Strikes
+%Credits: Code Master
+$119765C4 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$D19765C4 00000000
+$119765C4 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$D19765C4 00000000
+$119765C4 00000001
++Always Full Count
+%Credits: Code Master
+$119765C0 00000003
+$119765C4 00000002
++Always Full Count & 2 Outs
+%Credits: Code Master
+$119765BC 00000002
+$119765C0 00000003
+$119765C4 00000002
+!!
+!Home Team Only Codes:
++Infinite Outs
+%Credits: Code Master
+$E0010000 019765B4
+$119765BC 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$E0020000 019765B4
+$D19765BC 00000000
+$119765BC 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020000 019765B4
+$D19765BC 00000000
+$119765BC 00000001
++Infinite Balls
+%Credits: Code Master
+$E0010000 019765B4
+$119765C0 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0020000 019765B4
+$D19765C0 00000000
+$119765C0 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$E0020000 019765B4
+$D19765C0 00000000
+$119765C0 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$E0020000 019765B4
+$D19765C0 00000000
+$119765C0 00000001
++Infinite Strikes
+%Credits: Code Master
+$E0010000 019765B4
+$119765C4 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020000 019765B4
+$D19765C4 00000000
+$119765C4 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020000 019765B4
+$D19765C4 00000000
+$119765C4 00000001
++Always Full Count
+%Credits: Code Master
+$E0020000 019765B4
+$119765C0 00000003
+$119765C4 00000002
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030000 019765B4
+$119765BC 00000002
+$119765C0 00000003
+$119765C4 00000002
+!!
+!Away Team Only Codes:
++Infinite Outs
+%Credits: Code Master
+$E0010001 019765B4
+$119765BC 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$E0020001 019765B4
+$D19765BC 00000000
+$119765BC 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020001 019765B4
+$D19765BC 00000000
+$119765BC 00000001
++Infinite Balls
+%Credits: Code Master
+$E0010001 019765B4
+$119765C0 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0020001 019765B4
+$D19765C0 00000000
+$119765C0 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$E0020001 019765B4
+$D19765C0 00000000
+$119765C0 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$E0020001 019765B4
+$D19765C0 00000000
+$119765C0 00000001
++Infinite Strikes
+%Credits: Code Master
+$E0010001 019765B4
+$119765C4 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020001 019765B4
+$D19765C4 00000000
+$119765C4 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020001 019765B4
+$D19765C4 00000000
+$119765C4 00000001
++Always Full Count
+%Credits: Code Master
+$E0020001 019765B4
+$119765C0 00000003
+$119765C4 00000002
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030001 019765B4
+$119765BC 00000002
+$119765C0 00000003
+$119765C4 00000002
+!!

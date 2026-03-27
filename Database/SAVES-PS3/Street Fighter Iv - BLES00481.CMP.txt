@@ -1,0 +1,16 @@
+^2 = GameID: BLES00481
+^3 = NAME: Street Fighter IV
+^4 = FILE: SF4-SAVE.DAT
++Update Crc32 For Sf4-save.dat (required)
+(set range:0x000004,0x004BCE)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]
+^4 = FILE: SF4SVEXT.DAT
++Update Crc32 For Sf4svext.dat (required)
+(set range:0x000004,0x003F83)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

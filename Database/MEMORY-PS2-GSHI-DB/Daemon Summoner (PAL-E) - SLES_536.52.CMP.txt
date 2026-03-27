@@ -1,0 +1,18 @@
+^3 = NAME: Daemon Summoner (PAL-E)
+^2 = GameID: SLES-53652
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0255B58 00255B5B
+!!
++Disable A.I.
+%Credits: Codejunkies
+$2014D66C 00000000
++Infinite Health
+%Credits: Codejunkies
+$200FFF00 24020064
+$200FFF04 AC820140
+$200FFF08 03E00008
+$20112344 0C03FFC0
+!!
+

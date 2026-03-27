@@ -1,0 +1,570 @@
+^3 = NAME: Eternal Ring (Pal-Unk)
+^2 = GameID: SLES-50051
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01013D0 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0101600 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0101600 00101603
+!!
+!Energy Codes:
++Infinite Energy
+%Credits: Codejunkies
+$101FFB94 00000063
+$101FFB96 00000063
++Never Have More Than 25% Energy
+%Credits: Codejunkies
+$E0010019 301FFB94
+$101FFB94 00000019
+$E0010019 301FFB96
+$101FFB96 00000019
++Never Have More Than 50% Energy
+%Credits: Codejunkies
+$E0010032 301FFB94
+$101FFB94 00000032
+$E0010032 301FFB96
+$101FFB96 00000032
++Never Have More Than 75% Energy
+%Credits: Codejunkies
+$E001004B 301FFB94
+$101FFB94 0000004B
+$E001004B 301FFB96
+$101FFB96 0000004B
+!!
+!Item Codes:
++Have Bracelet
+%Credits: Codejunkies
+$0021EA43 00000001
++Have Earth Key
+%Credits: Codejunkies
+$0021EA48 00000001
++Have Fire Key
+%Credits: Codejunkies
+$0021EA46 00000001
++Have Water Key
+%Credits: Codejunkies
+$0021EA44 00000001
++Have Wind Key
+%Credits: Codejunkies
+$0021EA47 00000001
++Infinite Air Dragon Fangs
+%Credits: Codejunkies
+$0021EA82 00000063
++Infinite Cloudy Gems
+%Credits: Codejunkies
+$0021EB4B 00000063
++Infinite Cockatrice Feathers
+%Credits: Codejunkies
+$0021EA7E 00000063
++Infinite Dark Dragon Gems
+%Credits: Codejunkies
+$0021EB5A 00000063
++Infinite Dead Gems
+%Credits: Codejunkies
+$0021EB4E 00000063
++Infinite Divine Gems
+%Credits: Codejunkies
+$0021EB53 00000063
++Infinite Dragon Eggs
+%Credits: Codejunkies
+$0021EA7A 00000063
++Infinite Dragon Potion
+%Credits: Codejunkies
+$0021EA7F 00000063
++Infinite Dragon Scales
+%Credits: Codejunkies
+$0021EA79 00000063
++Infinite Earth Dragon Fangs
+%Credits: Codejunkies
+$0021EA81 00000063
++Infinite Earth Dragon Gems
+%Credits: Codejunkies
+$0021EB56 00000063
++Infinite Elder Dragon Fangs
+%Credits: Codejunkies
+$0021EA86 00000063
++Infinite Feather Gems
+%Credits: Codejunkies
+$0021EB43 00000063
++Infinite Fire Dragon Fangs
+%Credits: Codejunkies
+$0021EA80 00000063
++Infinite Fire Dragon Gems
+%Credits: Codejunkies
+$0021EB55 00000063
++Infinite Flame Gems
+%Credits: Codejunkies
+$0021EB45 00000063
++Infinite Forest Gems
+%Credits: Codejunkies
+$0021EB4A 00000063
++Infinite Gold Dragon Fangs
+%Credits: Codejunkies
+$0021EA84 00000063
++Infinite Golden Flowers
+%Credits: Codejunkies
+$0021EA74 00000063
++Infinite Golden Fruits
+%Credits: Codejunkies
+$0021EA75 00000063
++Infinite Golden Grass
+%Credits: Codejunkies
+$0021EA73 00000063
++Infinite Golden Seeds
+%Credits: Codejunkies
+$0021EA7C 00000063
++Infinite Iceberg Gems
+%Credits: Codejunkies
+$0021EB52 00000063
++Infinite Lava Gems
+%Credits: Codejunkies
+$0021EB49 00000063
++Infinite Leaf Gems
+%Credits: Codejunkies
+$0021EB42 00000063
++Infinite Light Dragon Gems
+%Credits: Codejunkies
+$0021EB59 00000063
++Infinite Magic Crystals
+%Credits: Codejunkies
+$0021EA77 00000063
++Infinite Magic Jewels
+%Credits: Codejunkies
+$0021EA78 00000063
++Infinite Magic Stones
+%Credits: Codejunkies
+$0021EA76 00000063
++Infinite Mountain Gems
+%Credits: Codejunkies
+$0021EB50 00000063
++Infinite Phoenix Gems
+%Credits: Codejunkies
+$0021EB4F 00000063
++Infinite Rat's Tails
+%Credits: Codejunkies
+$0021EA7B 00000063
++Infinite Ritual Gems
+%Credits: Codejunkies
+$0021EB54 00000063
++Infinite Sahagin's Thorn
+%Credits: Codejunkies
+$0021EA7D 00000063
++Infinite Sea Gems
+%Credits: Codejunkies
+$0021EB4C 00000063
++Infinite Silver Dragon Fangs
+%Credits: Codejunkies
+$0021EA85 00000063
++Infinite Sunbeam Gems
+%Credits: Codejunkies
+$0021EB4D 00000063
++Infinite Tornado Gems
+%Credits: Codejunkies
+$0021EB51 00000063
++Infinite Tree Gems
+%Credits: Codejunkies
+$0021EB46 00000063
++Infinite Water Dragon Fangs
+%Credits: Codejunkies
+$0021EA83 00000063
++Infinite Water Dragon Gems
+%Credits: Codejunkies
+$0021EB58 00000063
++Infinite Water Gems
+%Credits: Codejunkies
+$0021EB44 00000063
++Infinite Waterfall Gems
+%Credits: Codejunkies
+$0021EB48 00000063
++Infinite Wind Dragon Gems
+%Credits: Codejunkies
+$0021EB57 00000063
++Infinite Winged Gems
+%Credits: Codejunkies
+$0021EB47 00000063
+!!
++Lots Of Experience
+%Credits: InterAct
+$101FFB9C 0001869F
+!Mana Codes:
++Be At Level 99
+%Credits: Codejunkies
+$101FFB90 00000063
++Have Constant Magic
+%Credits: Codejunkies
+$101FFC10 0000012C
++Have High Attributes
+%Credits: Codejunkies
+$101FFBB0 00000384
+$101FFBB2 00000384
+$101FFBB4 00000384
+$101FFBB6 00000384
+$101FFBB8 00000384
+$101FFBBA 00000384
+$101FFBBC 00000384
++Have Lots Of Experience
+%Credits: Codejunkies
+$101FFB9C 0000869F
++Infinite Mana
+%Credits: Codejunkies
+$101FFB98 00000063
+$101FFB9A 00000063
++Never Have More Than 25% Mana
+%Credits: Codejunkies
+$E0010019 301FFB98
+$101FFB98 00000019
+$E0010019 301FFB9A
+$101FFB9A 00000019
++Never Have More Than 50% Mana
+%Credits: Codejunkies
+$E0010032 301FFB98
+$101FFB98 00000032
+$E0010032 301FFB9A
+$101FFB9A 00000032
++Never Have More Than 75% Mana
+%Credits: Codejunkies
+$E001004B 301FFB98
+$101FFB98 0000004B
+$E001004B 301FFB9A
+$101FFB9A 0000004B
+!!
+!Rings Codes:
++Have Absorb
+%Credits: Codejunkies
+$0021EB14 00000001
++Have Alter Fire
+%Credits: Codejunkies
+$0021EAC7 00000001
++Have Animated Sword
+%Credits: Codejunkies
+$0021EAD2 00000001
++Have Banishment
+%Credits: Codejunkies
+$0021EB1B 00000001
++Have Bind
+%Credits: Codejunkies
+$0021EAF0 00000001
++Have Bless
+%Credits: Codejunkies
+$0021EB15 00000001
++Have Blizzard
+%Credits: Codejunkies
+$0021EAD8 00000001
++Have Bomber
+%Credits: Codejunkies
+$0021EAC4 00000001
++Have Burn Edge
+%Credits: Codejunkies
+$0021EAD4 00000001
++Have Clarity
+%Credits: Codejunkies
+$0021EAFB 00000001
++Have Confusion
+%Credits: Codejunkies
+$0021EAEE 00000001
++Have Create Life
+%Credits: Codejunkies
+$0021EB1A 00000001
++Have Curing Water
+%Credits: Codejunkies
+$0021EADA 00000001
++Have Dark Dragon
+%Credits: Codejunkies
+$0021EB20 00000001
++Have Dark Flash
+%Credits: Codejunkies
+$0021EB1D 00000001
++Have Dark Pact
+%Credits: Codejunkies
+$0021EB24 00000001
++Have Dark Stop
+%Credits: Codejunkies
+$0021EB1F 00000001
++Have Dark Thunder
+%Credits: Codejunkies
+$0021EB1C 00000001
++Have Deplete
+%Credits: Codejunkies
+$0021EAC8 00000001
++Have Divine
+%Credits: Codejunkies
+$0021EB11 00000001
++Have Earth Breeze
+%Credits: Codejunkies
+$0021EAF9 00000001
++Have Earth Dragon
+%Credits: Codejunkies
+$0021EB06 00000001
++Have Earth Heal
+%Credits: Codejunkies
+$0021EB01 00000001
++Have Earth Heat
+%Credits: Codejunkies
+$0021EACF 00000001
++Have Earth Rain
+%Credits: Codejunkies
+$0021EAE3 00000001
++Have Earthy Axe
+%Credits: Codejunkies
+$0021EB05 00000001
++Have Enlightenment
+%Credits: Codejunkies
+$0021EAE7 00000001
++Have Fiery Avenger
+%Credits: Codejunkies
+$0021EAC9 00000001
++Have Fire Breeze
+%Credits: Codejunkies
+$0021EAF6 00000001
++Have Fire Dragon
+%Credits: Codejunkies
+$0021EACA 00000001
++Have Fire Rain
+%Credits: Codejunkies
+$0021EAE5 00000001
++Have Fire Stone
+%Credits: Codejunkies
+$0021EB0A 00000001
++Have Fire Wall
+%Credits: Codejunkies
+$0021EAC2 00000001
++Have Fireball
+%Credits: Codejunkies
+$0021EAC1 00000001
++Have Floating Bomb
+%Credits: Codejunkies
+$0021EAC3 00000001
++Have Fortune
+%Credits: Codejunkies
+$0021EAE6 00000001
++Have Guardian
+%Credits: Codejunkies
+$0021EB1E 00000001
++Have Healing Water
+%Credits: Codejunkies
+$0021EAD9 00000001
++Have Holy Flash
+%Credits: Codejunkies
+$0021EB13 00000001
++Have Ice Needle
+%Credits: Codejunkies
+$0021EAD5 00000001
++Have Ice Trap
+%Credits: Codejunkies
+$0021EAD7 00000001
++Have Ice Wall
+%Credits: Codejunkies
+$0021EAD6 00000001
++Have Imprisonment
+%Credits: Codejunkies
+$0021EB03 00000001
++Have Invisible
+%Credits: Codejunkies
+$0021EAEF 00000001
++Have Light Of Dragon
+%Credits: Codejunkies
+$0021EB16 00000001
++Have Material Arrow
+%Credits: Codejunkies
+$0021EAFD 00000001
++Have Mist
+%Credits: Codejunkies
+$0021EB00 00000001
++Have Orbiter
+%Credits: Codejunkies
+$0021EB04 00000001
++Have Poison
+%Credits: Codejunkies
+$0021EAFF 00000001
++Have Power Of Branch
+%Credits: Codejunkies
+$0021EAD3 00000001
++Have Power Of Growth
+%Credits: Codejunkies
+$0021EB0F 00000001
++Have Power Of Seek
+%Credits: Codejunkies
+$0021EAFA 00000001
++Have Power Of Time
+%Credits: Codejunkies
+$0021EAFC 00000001
++Have Projectile
+%Credits: Codejunkies
+$0021EADD 00000001
++Have Protect
+%Credits: Codejunkies
+$0021EB02 00000001
++Have Purify
+%Credits: Codejunkies
+$0021EADC 00000001
++Have Ring Of Abyss
+%Credits: Codejunkies
+$0021EAE1 00000001
++Have Ring Of Breeze
+%Credits: Codejunkies
+$0021EAF3 00000001
++Have Ring Of Chaos
+%Credits: Codejunkies
+$0021EB23 00000001
++Have Ring Of Flame
+%Credits: Codejunkies
+$0021EACC 00000001
++Have Ring Of Glare
+%Credits: Codejunkies
+$0021EB19 00000001
++Have Ring Of Gust
+%Credits: Codejunkies
+$0021EAF4 00000001
++Have Ring Of Heat
+%Credits: Codejunkies
+$0021EACB 00000001
++Have Ring Of Infiniteerno
+%Credits: Codejunkies
+$0021EACD 00000001
++Have Ring Of Insight
+%Credits: Codejunkies
+$0021EB0E 00000001
++Have Ring Of Light
+%Credits: Codejunkies
+$0021EB17 00000001
++Have Ring Of Nature
+%Credits: Codejunkies
+$0021EB09 00000001
++Have Ring Of Night
+%Credits: Codejunkies
+$0021EB22 00000001
++Have Ring Of Rain
+%Credits: Codejunkies
+$0021EADF 00000001
++Have Ring Of Rock
+%Credits: Codejunkies
+$0021EB08 00000001
++Have Ring Of Sea
+%Credits: Codejunkies
+$0021EAE0 00000001
++Have Ring Of Shadow
+%Credits: Codejunkies
+$0021EB21 00000001
++Have Ring Of Shine
+%Credits: Codejunkies
+$0021EB18 00000001
++Have Ring Of Stone
+%Credits: Codejunkies
+$0021EB07 00000001
++Have Ring Of Storm
+%Credits: Codejunkies
+$0021EAF5 00000001
++Have Sacrifice
+%Credits: Codejunkies
+$0021EAE8 00000001
++Have Silence
+%Credits: Codejunkies
+$0021EAC5 00000001
++Have Sonic
+%Credits: Codejunkies
+$0021EAEA 00000001
++Have Spear
+%Credits: Codejunkies
+$0021EAF1 00000001
++Have Sword Breeze
+%Credits: Codejunkies
+$0021EAF8 00000001
++Have Sword Heat
+%Credits: Codejunkies
+$0021EAD0 00000001
++Have Sword Rain
+%Credits: Codejunkies
+$0021EAE4 00000001
++Have Sword Stone
+%Credits: Codejunkies
+$0021EB0C 00000001
++Have Thunder
+%Credits: Codejunkies
+$0021EB12 00000001
++Have Tornado
+%Credits: Codejunkies
+$0021EAEB 00000001
++Have True Sight
+%Credits: Codejunkies
+$0021EB10 00000001
++Have Turbulence
+%Credits: Codejunkies
+$0021EAED 00000001
++Have Unpoison
+%Credits: Codejunkies
+$0021EADB 00000001
++Have Upheaval
+%Credits: Codejunkies
+$0021EAFE 00000001
++Have Vortex
+%Credits: Codejunkies
+$0021EAEC 00000001
++Have Water Breeze
+%Credits: Codejunkies
+$0021EAF7 00000001
++Have Water Dragon
+%Credits: Codejunkies
+$0021EADE 00000001
++Have Water Heat
+%Credits: Codejunkies
+$0021EAD1 00000001
++Have Water Stone
+%Credits: Codejunkies
+$0021EB0B 00000001
++Have Weaken
+%Credits: Codejunkies
+$0021EAC6 00000001
++Have Wind Dragon
+%Credits: Codejunkies
+$0021EAF2 00000001
++Have Wind Heat
+%Credits: Codejunkies
+$0021EACE 00000001
++Have Wind Rain
+%Credits: Codejunkies
+$0021EAE2 00000001
++Have Wind Stone
+%Credits: Codejunkies
+$0021EB0D 00000001
++Have Windcutter
+%Credits: Codejunkies
+$0021EAE9 00000001
++Infinite Magic Rings
+%Credits: Codejunkies
+$0021EB3F 00000063
+!!
+!Weapon Codes:
++Have Cinqueda
+%Credits: Codejunkies
+$0021EA33 00000001
++Have Eternal Sword
+%Credits: Codejunkies
+$0021EA38 00000001
++Have Hunting Sword
+%Credits: Codejunkies
+$0021EA37 00000001
++Have Japanese Weapon
+%Credits: Codejunkies
+$0021EA36 00000001
++Have Kaizer Knuckle
+%Credits: Codejunkies
+$0021EA39 00000001
++Have Knife
+%Credits: Codejunkies
+$0021EA32 00000001
++Have Rapier
+%Credits: Codejunkies
+$0021EA35 00000001
++Have Small Sword
+%Credits: Codejunkies
+$0021EA31 00000001
++Have Stiletto
+%Credits: Codejunkies
+$0021EA34 00000001
+!!
+!!
+

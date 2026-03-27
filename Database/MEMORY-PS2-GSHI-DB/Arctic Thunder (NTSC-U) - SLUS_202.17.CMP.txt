@@ -1,0 +1,91 @@
+^3 = NAME: Arctic Thunder (NTSC-U)
+^2 = GameID: SLUS-20217
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F01CC4B4 001CC4B7
++(M) Must Be On
+%Credits: InterAct
+$F0186BA8 001CC4B7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F01CA628 001CC4B7
+!!
++Have Hidden Modes
+%Credits: Code Master
+$202815A4 00000001
++Infinite Time
+%Credits: Code Master
+$202829D8 00000000
++Max Points
+%Credits: InterAct
+$20281E58 05F5E0FF
+!Max Speed Codes:
++Have Infinite Stage Time
+%Credits: Codejunkies
+$102829D8 00000000
++Lowered Max Speed
+%Credits: Codejunkies
+$102815A2 00003F40
++Super Low Max Speed
+%Credits: Codejunkies
+$102815A2 00003E80
++Super Max Speed
+%Credits: Codejunkies
+$102815A2 00004080
+!!
++Max Speed Modifier (Default 3F800000)
+%Credits: Code Master
+$202815A0 ????????
+!Stat Codes:
++Max Accelerator
+%Credits: Codejunkies
+$1021FC90 00000015
++Max Blast Radius 1
+%Credits: Codejunkies
+$1021FABC 00000015
++Max Blast Radius 2
+%Credits: Codejunkies
+$1021FB28 00000015
++Max Boost
+%Credits: Codejunkies
+$1021FA50 00000015
++Max Chain Length
+%Credits: Codejunkies
+$1021FB70 00000015
++Max Handling
+%Credits: Codejunkies
+$1021FCD8 00000015
++Max Invisibility
+%Credits: Codejunkies
+$1021FB04 00000015
++Max Number Dropped
+%Credits: Codejunkies
+$1021FA98 00000015
++Max Shield Strength
+%Credits: Codejunkies
+$1021FAE0 00000015
++Max Shot Accuracy
+%Credits: Codejunkies
+$1021FA74 00000015
++Max Spray Time
+%Credits: Codejunkies
+$1021FB4C 00000015
++Max Top Speed
+%Credits: Codejunkies
+$1021FCB4 00000015
++Unlock All Battle Arenas
+%Credits: Codejunkies
+$102813D0 00000004
++Unlock All Characters
+%Credits: Codejunkies
+$102813C0 00000012
++Unlock All Tracks
+%Credits: Codejunkies
+$102813C8 0000000B
++Unlock Hidden Modes
+%Credits: Codejunkies
+$102815A4 00000001
+!!
+!!
+

@@ -1,0 +1,50 @@
+^1 = HASH: 7D7D4D9D
+^3 = NAME: Disaster Report
+^2 = GameID: SLUS_205.61
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001D2177
+!!
+!Codes:
++Infinite HP
+%Credits: Code Master
+$20380904 42C80000
++Infinite QP
+%Credits: Code Master
+$20380908 42C80000
++Have All Maps
+%Credits: Code Master
+$2036CC00 FFFFFFFF
+$2036CC04 FFFFFFFF
++Have All Compasses
+%Credits: Code Master
+$203FE8EC FFFFFFFF
+$203FE8F0 FFFFFFF7
+!!
+!Status Screen Codes:
++Always Low Play Time
+%Credits: Code Master
+$204144B4 00000000
++Never Have Saved
+%Credits: Code Master
+$204144B8 00000000
++Saved Only Once
+%Credits: Code Master
+$204144B8 00000001
++No Game Overs
+%Credits: Code Master
+$204144BC 00000000
++No Falls
+%Credits: Code Master
+$204144C0 00000000
++Always Low Distance Traveled
+%Credits: Code Master
+$204144C4 00000000
++Hella Distance Traveled
+%Credits: Code Master
+$204144C4 461C3F9A
++Always Low Water Consumed
+%Credits: Code Master
+$204144C8 00000000
+!!

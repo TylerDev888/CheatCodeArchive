@@ -1,0 +1,578 @@
+^2 = GameID: SLUS_212.01
+^3 = NAME: Tales of Legendia
+!Masters:
++Enable Code (MUST BE ON)
+$90117A50 0C045E3C
++Enable Code (MUST BE ON)
+$9012E9E8 0C0423D4
+!!
+!Jokers:
++Player 1 Controller
+$D04969DC 0000[Joker:PS2]
+!!
++Play Time 0
+$201F9744 704020E8
++Inf Climax (hold L3 For 0)
+$20359B60 AC620024
+$D04969DC 0000FFFD
+$20359B60 AC600024
++Gain Climax For Max
+$202E3718 46020828
++Start Battle With Max Climax
+$2033697C 4600A006
++Costumes Mod (battle)
+$2028AE84 00000000
+$2028AE90 2402[CS]
++Encounters 9999 After Battle
+$20289A00 706210C8
++Speed(on = Start + Up, Off= Start + Down)
+$D04969DC 0000FFE7
+$201135D4 10000003
+$D04969DC 0000FFB7
+$201135D4 14400010
++Item Infinite
+$20288E10 A0C50388
+$20286824 24450000
++Instant Battle Press L2
+$202D46A4 00000000
+$D04969DC 0000FEFF
+$202D46A4 10000002
++Climax Gauge Max (l1)
+$2035C904 3C013F80
+$2035C908 10000038
+$2035C90C 00000000
+$D04969DC 0000FBFF
+$2035C90C AC810024
++All Technique & Skill Max
+$202916F8 241900FF
+$202916FC A0790588
+$20291704 0040180A
+$20291888 241900FF
+$2029188C A0790588
+$20291890 0040180A
++Max Lvl And Stats
+$2028F1DC 24020000
++EXP Multiplier
+$202898C4 00040[Mul]
+$202898C8 00602821
++Max Skills (points)
+$2029200C 704210E8
++1 Hit To Kill ( L3 On R3 Off )
+$D04969DC 0000FFFD
+$202A31E8 70A510E8
+$D04969DC 0000FFFB
+$202A31E8 70A210E8
+Gold Max (shop)
+$202F3124 10000005
+^6 = MODS:
+[CS]
+VALUE>NAME
+0000	Default Clothing 
+0001	Animal Costumes 
+0002	Formalwear
+[/CS]
+[Mul]
+VALUE>NAME
+140	32
+180	64
+1A3	99x
+1c0	128
+200	256
+210	512
+[/Mul]
+[TD]
+VALUE>TitleDigits
+00	# N/A (N/A)
+01	Kind Brother (N/A)
+02	Cowardly Brother (INT +1)
+03	Worthless Brother (INT +2)
+04	Dense Brother (ACC +1)
+05	Still A Brother (LCK +1)
+06	Sleepy Brother (EVA +1)
+07	Despicable Brother (INT +3)
+08	Flower Master (LCK +3)
+09	Puzzle Master (INT +4)
+0A	True Puzzle Master (INT +5)
+0B	Forest Guru (LCK +4)
+0C	Palace Guru (LCK +4)
+0D	Face Anything (HP +30, ATK +4)
+0E	Duct Master (INT +2, DEF +2)
+0F	Baker (DEF +5, ACC +5)
+10	Bread Master (ATK +5, ACC +4)
+11	Fighter (HP +20)
+12	Overlord (HP +30)
+13	Emperor (TP +20)
+14	Battle God (TP +25)
+15	War God (HP +50, TP +25)
+16	Combo Newbie (ATK +3)
+17	Comboist (HP+40)
+18	Combo Expert (TP +25)
+19	Combo Master (HP +50, TP +25)
+1A	Daredevil (EVA +3, ACC +3)
+1B	Sonic Figher (ATK +3, ACC +3)
+1C	Half-Wit (HP +30, EVA +3)
+1D	Indecisive (EVA +3)
+1E	Boorish General (ATK +2)
+1F	Commander (ACC +3)
+20	Lone General (EVA +3)
+21	Unreliable Brother (HP +30)
+22	Excited Brother (ATK +3)
+23	Testosterone (HP +30, ATK +3)
+24	Senel Is Popular (TP +15, DEF +3)
+25	Berserker (HP +30, ATK +5)
+26	Berserk (HP +40, ATK +5)
+27	Combo Conductor (ATK +3)
+28	Iron Master(HP +50, ATK +5)
+29	True Fighter (HP +50)
+2A	Fist Of Lightning (HP +50, ATK +5, ACC +5)
+2B	Old Naturalist (N/A)
+2C	Old Hot-Head (ATK +1)
+2D	Old Maniac (INT +1)
+2E	Old Fighter (ACC +1)
+2F	Old Fogey (ACC +2)
+30	Heihachi (ATK +2)
+31	Old Professor (LCK +1)
+32	Old Flowerman (INT +2)
+33	Custodian (INT +3)
+34	Rare Monster (INT +5, DEF +5)
+35	Researcher (TP +15)
+36	Scholar (TP +20)
+37	Pundit (HP +30)
+38	Sage (HP +40)
+39	Grand Sage (HP +50, TP +25)
+3A	Combo Newbie (ATK +3)
+3B	Comboist (HP +40)
+3C	Combo Expert (TP +25)
+3D	Combo Master (HP +50, TP +25)
+3E	No More Pens (ATK +4)
+3F	The Spice Of Life (INT +5, ACC +3)
+40	Testosterone (HP +30, ATK+3)
+41	Wizard (TP +15, INT +5)
+42	One Shot Kill (ATK +3, INT +3)
+43	Crystal Master (TP +25, INT +5)
+44	Brainy Champ (TP +25, DEF +5, INT +5)
+45	Girl Knight (N/A)
+46	Cranky Knight (ATK +1)
+47	Sinking Knight (EVA +1)
+48	Mooching Knight (HP +10)
+49	Romance Knight (EVA +2)
+4A	Nervous Knight (TP +5)
+4B	Sister Knight (ACC +1)
+4C	Out All Knight (LCK +1)
+4D	Dreaming Girl (LCK +2)
+4E	Punch Line (ACC +3)
+4F	Masked One (DEF +3, INT +3)
+50	Lesser Knight (HP +20)
+51	Greater Knight (HP +30)
+52	Royal Guard (TP +20)
+53	Paladin (TP +25)
+54	Knight Of Legend (HP +50, TP +25)
+55	Combo Newbie (ATK +3)
+56	Comboist (HP +40)
+57	Combo Expert (TP +25)
+58	Combo Master (HP +50, TP +25)
+59	Extravagant Finish (TP +25, ATK +3)
+5A	Rain Down (ACC +4)
+5B	Crimson Rose (INT +3, EVA +3)
+5C	Berserker (HP +30, ATK +5)
+5D	Berserk (HP +40, ATK +4)
+5E	One Shot Kill (ATK +3, INT +3)
+5F	Iron Master (HP +50, ATK +5)
+60	Soul Edge (HP +50, ATK +5, ACC +5)
+61	Treasure Chick (N/A)
+62	Bubbles (DEF +1)
+63	Out Cold Chick (INT +1)
+64	Laughing Chick (TP +5)
+65	Naming Chick (ACC +1)
+66	Pure White Chick (INT +2)
+67	Teacher's Pet Chick (LCK +1)
+68	Mimic Chick (ATK +1)
+69	Love Hunter (ACC +3)
+6A	Scan Master (TP +25, LCK +5)
+6B	Absent Chick (LCK +3)
+6C	Top Gold Digger (TP +20, LCK +2)
+6D	Collector's Soul (INT +5, ACC +4)
+6E	Loaded (HP +50, LCK +5)
+6F	Chatterbox (TP +25)
+70	Pretty Chick (TP +15)
+71	Noisy Chick (TP +20)
+72	Beautiful Chick (HP +30)
+73	Wonderful Chick (HP +40)
+74	Eternal Chick (HP +50, TP +25)
+75	Combo Newbie (ATK +3)
+76	Comboist (HP +40)
+77	Combo Expert (TP +25)
+78	Combo Master (HP +50, TP +25)
+79	Narrow View (ATK +3)
+7A	Indulgent (DEF +4, INT +4)
+7B	Sky Is Blue (EVA +3)
+7C	Wow (TP +25, INT +5)
+7D	Crimson Rose (INT +3, EVA +3)
+7E	Wizard (TP +15, INT +5)
+7F	One Shot Kill (ATK +3, INT +3)
+80	Cystal Master (TP +25, INT +5)
+81	Bubble Master (TP +25, DEF +5, INT +5)
+82	Best Tamer Man (N/A)
+83	Punching Bag Man (EVA +1)
+84	Family Man (DEF +1)
+85	Smelly Man (ACC +1)
+86	Instinct Man (ATK +1)
+87	Beast Man (EVA +2)
+88	Wild Man (HP +10)
+89	Warmhearted Man (ACC +1)
+8A	Pirate (HP +40, INT +3)
+8B	Great Eater (TP +15, ATK +4)
+8C	Boss (HP +20)
+8D	Mischievous Boss (HP +30)
+8E	My Way Boss (TP +20)
+8F	Boss Of The Legacy (TP +25)
+90	Boss Of The World (HP +50, TP +25)
+91	Combo Newbie (ATK +3)
+92	Comboist (HP +40)
+93	Combo Expert (TP +25)
+94	Combo Master (HP +50, TP +25)
+95	Bull's-Eye (ATK +3, ACC +3)
+96	Never Say Never (HP +30, ATK +3)
+97	Insult To Injury (TP +15, DEF +3)
+98	Testosterone (HP +30, ATK +3)
+99	Berserker (HP +30, ATK +5)
+9A	Berserk (HP +40, ATK +4)
+9B	One Shot Kill (ATK +3, INT +3)
+9C	Iron Master (HP +50, ATK +5)
+9D	Brawl Master (HP +50, ATK +5, ACC +5)
+9E	Jay The Unseen (N/A)
+9F	Jay The Taunting (ACC +1)
+A0	Jay The Spineless (DEF +1)
+A1	Jay The Brat (INT +1)
+A2	Jay The Angry (ATK +1)
+A3	Jay The Rebel (EVA +1)
+A4	Jay The Youngest (LCK +1)
+A5	Jay The Cry Baby (ATK +2)
+A6	Home Cooking (EVA +4, LCK +3)
+A7	Starting Up Boy (HP +30)
+A8	Swift Boy (TP +20)
+A9	Sonic Boy (TP +25)
+AA	Light Boy (HP +50, TP +25)
+AB	Combo Newbie (ATK +3)
+AC	Comboist (HP +40)
+AD	Combo Expert (TP+25)
+AE	Combo Master (HP +50, TP +25)
+AF	Picky (DEF +4)
+B0	Testosterone (HP +30, ATK +3)
+B1	Berserker (HP +30, ATK +5)
+B2	Berserk (HP +40, ATK +4)
+B3	One Shot Kill (ATK +3, INT +3)
+B4	Iron Master (HP +50, ATK +5)
+B5	Jay The Assassin (HP +50, ATK +5, ACC +5)
+B6	Mystery Babe (N/A)
+B7	Confusing Babe (DEF +1)
+B8	Careless Babe (ACC +1)
+B9	Singing Babe (LCK +1)
+BA	Germ Babe (ATK +1)
+BB	Easy Going Babe (EVA +1)
+BC	Awakened Babe (INT +1)
+BD	Bath Time (LCK +4)
+BE	Model (TP +20)
+BF	Cover Girl (HP +30)
+C0	Super Model (HP +40)
+C1	Goddess (HP +50, TP +25)
+C2	Combo Newbie (ATK +3)
+C3	Comboist (HP +40)
+C4	Combo Expert (TP +25)
+C5	Combo Master (HP +50, TP +25)
+C6	Hard Drinker (EVA +3)
+C7	Learn Your Lessons (LCK +4)
+C8	Apathy Syndrome (EVA +4, LCK +4)
+C9	Dependent (DEF +3)
+CA	Crimson Rose (INT +3, EVA +3)
+CB	Wizard (TP +15, INT +5)
+CC	One Shot Kill (ATK +3, INT +3)
+CD	Crystal Master (TP +25, INT +5)
+CE	Her Majesty (TP +25, DEF +5, INT +5)
+CF	Praying Girl (N/A)
+D0	Happy Girl (EVA +1)
+D1	Sister Girl (HP +10)
+D2	Jealous Girl (DEF +1)
+D3	Blessing Girl (LCK +1)
+D4	Slapping Girl (ATK +1)
+D5	Mean Girl (TP +5)
+D6	Hope Girl (ACC +1)
+D7	Poster Girl (TP +15, INT +4)
+D8	Agent Of Nerifes (TP +20)
+D9	Child Of The Sea (HP +40)
+DA	Dignified Memories (HP +50, TP +25)
+DB	Combo Newbie (ATK +3)
+DC	Comboist (HP +40)
+DD	Combo Expert (TP +25)
+DE	Combo Master (HP +50, TP +25)
+DF	Item Keeper (EVA +3)
+E0	Prim And Proper (DEF +4)
+E1	Destroy Them (INT +4)
+E2	Brave Girl (TP +15, LCK +3)
+E3	Wizard (TP +15, INT +5)
+E4	Crimson Rose (INT +3, EVA +3)
+E5	Lone Girl (TP +15, EVA +3)
+E6	One Shot Kill (ATK +3, INT +3)
+E7	Crystal Master (TP +25, INT +5)
+E8	Angry Merines (TP +25, DEF +5, INT +5)
+[TD]
+[ITE]
+VALUE>NAME>TYPE
+00	None/Crash	
+01	Iron Bracers	Senel Coolidge
+02	Power Bracers	Senel Coolidge
+03	Poison Bracers	Senel Coolidge
+04	Fire Bolt	Senel Coolidge
+05	Scallop Gear	Senel Coolidge
+06	Heavy Hands	Senel Coolidge
+07	Holy Bracers	Senel Coolidge
+08	Hunter's Beat	Senel Coolidge
+09	Mythril Bracers	Senel Coolidge
+0A	Homing Beats	Senel Coolidge
+0B	Dynamic Arts	Senel Coolidge
+0C	Lei	Senel Coolidge
+0D	Bi-metal	Senel Coolidge
+0E	Ghost Shell	Senel Coolidge
+0F	Aqua Shell	Senel Coolidge
+10	Speed Bracers	Senel Coolidge
+11	Diamond Shell	Senel Coolidge
+12	High Speed Bracers	Senel Coolidge
+13	Breaker	Senel Coolidge
+14	Kaiser Gears	Senel Coolidge
+15	Heaven's Claw	Senel Coolidge
+16	Long Sword	Chloe Valens
+17	Gladius	Chloe Valens
+18	Broad Sword	Chloe Valens
+19	Poison Sword	Chloe Valens
+1A	Claymore	Chloe Valens
+1B	Silver Sword	Chloe Valens
+1C	Ether Sword	Chloe Valens
+1D	Dragon Tooth	Chloe Valens
+1E	Excalibur	Chloe Valens
+1F	Mini-Gelures Sword	Chloe Valens
+20	Baseball Bat	Chloe Valens
+21	Grim Sword	Chloe Valens
+22	Angel's Tear	Chloe Valens
+23	Last Fencer	Chloe Valens
+24	Flamberge	Chloe Valens
+25	Ice Coffin	Chloe Valens
+26	Laser Blade	Chloe Valens
+27	Megant Killer	Chloe Valens
+28	Paper Fan	Chloe Valens
+29	Destroyer	Chloe Valens
+2A	Eternal Sword	Chloe Valens
+2B	Spear	Moses Sandor
+2C	War Javelin	Moses Sandor
+2D	Silver Javelin	Moses Sandor
+2E	Holy Javelin	Moses Sandor
+2F	Mythril Spear	Moses Sandor
+30	Longinus	Moses Sandor
+31	Gae Bolg	Moses Sandor
+32	Thunder Javelin	Moses Sandor
+33	Peepit Spear	Moses Sandor
+34	Earth Javelin	Moses Sandor
+35	Gungnir	Moses Sandor
+36	Knife	Jay
+37	Kochi	Jay
+38	Chizakura	Jay
+39	Gyoten	Jay
+3A	Ogre Sword	Jay
+3B	Fuji	Jay
+3C	Shiden	Jay
+3D	Shinonome	Jay
+3E	Kageboshi	Jay
+3F	Kusanagi Blade	Jay
+40	Hotate	Jay
+41	Hammer	Will Raynard
+42	War Hammer	Will Raynard
+43	Oresoren Hammer	Will Raynard
+44	Pile Driver	Will Raynard
+45	Mythril Hammer	Will Raynard
+46	765kg Hammer	Will Raynard
+47	Express	Will Raynard
+48	Pow Hammer	Will Raynard
+49	Deck Brush	Will Raynard
+4A	Mjolnir	Will Raynard
+4B	Straw	Norma Beatty
+4C	Love Straw	Norma Beatty
+4D	Silver Straw	Norma Beatty
+4E	Peepit Straw	Norma Beatty
+4F	Strike Straw	Norma Beatty
+50	Mythril Straw	Norma Beatty
+51	Love Love Straw	Norma Beatty
+52	Marbled Straw	Norma Beatty
+53	Scope Straw	Norma Beatty
+54	Gold Straw	Norma Beatty
+55	Pterux	Grune
+56	Dory	Grune
+57	Bomba	Grune
+58	Spyra	Grune
+59	Diktyon	Grune
+5A	Temnein	Grune
+5B	Quill	Shirley Fennes
+5C	Chalk	Shirley Fennes
+5D	Brush	Shirley Fennes
+5E	High Grade Pen	Shirley Fennes
+5F	Angelic Quill	Shirley Fennes
+60	Soft Leather	Armor
+61	Hard Leather	Armor
+62	Chain Mail	Armor
+63	Ring Mail	Armor
+64	Lamellar Leather	Armor
+65	Turtle Mail	Armor
+66	Gaet Armor	Armor
+67	Silver Mail	Armor
+68	Dragon Mail	Armor
+69	Mythril Armor	Armor
+6A	Run Mail	Armor
+6B	Prereflex	Armor
+6C	Rare Plate	Armor
+6D	Emp. New Clothes	Armor
+6E	Reflex	Armor
+6F	Star Mail	Armor
+70	Body Paint	Armor
+71	Golden Armor	Armor
+72	Mumbane	Armor
+73	Cloak	Cloaks
+74	Amber Cloak	Cloaks
+75	Peepit Cloak	Cloaks
+76	Galf Cloak	Cloaks
+77	Bunny Dress	Cloaks
+78	Cocktail Dress	Cloaks
+79	Witch's Dress	Cloaks
+7A	Holy Cloak	Cloaks
+7B	Middy Blouse	Cloaks
+7C	Warlock Garb	Cloaks
+7D	Happi	Cloaks
+7E	Star Cloak	Cloaks
+7F	Heavenly Garb	Cloaks
+80	Shaman Dress	Cloaks
+81	Aurora	Cloaks
+82	Robe	Robes
+83	Misty Robe	Robes
+84	Bloody Robe	Robes
+85	Battle Robe	Robes
+86	Scale Robe	Robes
+87	Silk Robe	Robes
+88	Holy Robe	Robes
+89	Rune Robe	Robes
+8A	Bear Suit	Robes
+8B	Spirit Robe	Robes
+8C	Moon Robe	Robes
+8D	Stole	Robes
+8E	Amelia's Love	Robes
+8F	Capoeiracco Robe	Robes
+90	Leather Helm	Helmets
+91	Iron Helm	Helmets
+92	Armet Helm	Helmets
+93	Cross Helm	Helmets
+94	Duel Helm	Helmets
+95	Mythril Helm	Helmets
+96	Rare Helm	Helmets
+97	Star Helm	Helmets
+98	Golden Helm	Helmets
+99	Skeleton Mask	Helmets
+9A	Beret	Hats
+9B	Straw Hat	Hats
+9C	Night Cap	Hats
+9D	Bunny Ears	Hats
+9E	Witch's Hat	Hats
+9F	Rune Beret	Hats
+A0	Silk Hat	Hats
+A1	Eryngi Hat	Hats
+A2	Headband	Hats
+A3	Aifread's Hat	Hats
+A4	Kitty Cap	Hats
+A5	Bear Head	Hats
+A6	Ninja Mask	Hats
+A7	Graduation Hat	Hats
+A8	Baker's Hat	Hats
+A9	Circlet	Circlets
+AA	Pompom Hair Tie	Circlets
+AB	Mythril Circlet	Circlets
+AC	Ribbon	Circlets
+AD	Holy Circlet	Circlets
+AE	Blue Ribbon	Circlets
+AF	Striped Ribbon	Circlets
+B0	Pretty Ribbon	Circlets
+B1	Star Circlet	Circlets
+B2	Magical Ribbon	Circlets
+B3	Angel Halo	Circlets
+B4	Purple Hood	Circlets
+B5	Talisman	Talismans
+B6	Heal Bracelet	Talismans
+B7	Spirit Bangle	Talismans
+B8	Blue Talisman	Talismans
+B9	Stun Bracelet	Talismans
+BA	Stun Charm	Talismans
+BB	Poison Charm	Talismans
+BC	Paralysis Charm	Talismans
+BD	Fire Charm	Talismans
+BE	Freeze Charm	Talismans
+BF	Stone Charm	Talismans
+C0	Restraint Charm	Talismans
+C1	Seal Charm	Talismans
+C2	Panic Charm	Talismans
+C3	Doom Charm	Talismans
+C4	FOE1 Charm	Talismans
+C5	FOE2 Charm	Talismans
+C6	FOE3 Charm	Talismans
+C7	Emerald Ring	Rings
+C8	Faerie Ring	Rings
+C9	Protect Ring	Rings
+CA	Force Ring	Rings
+CB	Resist Ring	Rings
+CC	Reflect Ring	Rings
+CD	Holy Ring	Rings
+CE	Spirit Ring	Rings
+CF	Revive Ring	Rings
+D0	Technical Ring	Rings
+D1	Warrior Crest	Charms
+D2	Rabbit's Foot	Charms
+D3	Holy Symbol	Charms
+D4	Spirit Symbol	Charms
+D5	Dark Seal	Charms
+D6	Demon's Seal	Charms
+D7	Extreme Symbol	Charms
+D8	Mystic Symbol	Charms
+D9	Krona Symbol	Charms
+DA	Attack Symbol	Charms
+DB	Cape	Capes
+DC	Leather Cape	Capes
+DD	Thief's Cape	Capes
+DE	Elven Cape	Capes
+DF	Flare Cape	Capes
+E0	Freeze Cape	Capes
+E1	Thunder Cape	Capes
+E2	Earth Cape	Capes
+E3	Aqua Cape	Capes
+E4	Rune Cape	Capes
+E5	Leather Boots	Boots
+E6	Elven Boots	Boots
+E7	Jet Boots	Boots
+E8	Persian Boots	Boots
+E9	Rebirth Doll	Dolls
+EA	Sephira	Dolls
+EB	Blue Sephira	Dolls
+EC	Black Onyx	Crystals
+ED	Moon Crystal	Crystals
+EE	Magic Mist	Crystals
+EF	Turquoise	Crystals
+F0	Apple Gel	Items?
+F1	Orange Gel	Items?
+F2	Lemon Gel	Items?
+F3	Pineapple Gel	Items?
+F4	Melange Gel	Items?
+F5	Scallop Gel	Items?
+F6	Miracle Gel	Items?
+F7	Life Bottle	Items?
+F8	Panacea Bottle	Items?
+F9	Elixir	Items?
+FA	Flare Bottle	Items?
+FB	Syrup Bottle	Items?
+FC	Shell Bottle	Items?
+FD	Dinei Bottle	Items?
+FE	Acuity Bottle	Items?
+FF	Guard Bottle	Items?
+100	Climax Bottle	Items?
+[/ITE]

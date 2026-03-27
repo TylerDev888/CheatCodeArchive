@@ -1,0 +1,69 @@
+^3 = NAME: Bionicle - The Game (Pal-Unk)
+^2 = GameID: SLES-51956
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F018BCB4 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F018BCB4 0018BCB7
+!!
++Infinite Energy
+%Credits: Codejunkies
+$101FBCB8 0000000C
++Infinite Stamina
+%Credits: Codejunkies
+$1032B21A 00004040
+!Level 1:
++5 Matorans
+%Credits: Codejunkies
+$101FBD78 00000005
++100 Lightstones
+%Credits: Codejunkies
+$101FBD80 00000064
+!!
+!Level 2:
++0 Matorans
+%Credits: Codejunkies
+$101FBD78 00000000
++200 Lightstones
+%Credits: Codejunkies
+$101FBD80 000000C8
+!!
+!Level 3:
++15 Matorans
+%Credits: Codejunkies
+$101FBD78 0000000F
++90 Lightstones
+%Credits: Codejunkies
+$101FBD80 0000005A
+!!
+!Level 4:
++168 Lightstones
+%Credits: Codejunkies
+$101FBD80 000000A8
+!!
+!Level 6:
++6 Matorans
+%Credits: Codejunkies
+$101FBD78 00000006
++170 Lightstones
+%Credits: Codejunkies
+$101FBD80 000000AA
+!!
+!Level 8:
++4 Lightstones
+%Credits: Codejunkies
+$101FBD80 00000004
+!!
++No Damage
+%Credits: luc-ita
+$2014ED6C 03E00008
++Take Lightstones And Hit Enemies Anywhere - Light Effect{Use With Code "No Damage"}
+%Credits: luc-ita
+$20152EEC 100000AE
++Take Lightstones And Hit Enemies Anywhere - Strong Effect{Use With Code "No Damage"}
+%Credits: luc-ita
+$20152D00 10000129
+!!
+

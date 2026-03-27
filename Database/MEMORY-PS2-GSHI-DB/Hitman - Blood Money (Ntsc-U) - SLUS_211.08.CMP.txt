@@ -1,0 +1,367 @@
+^3 = NAME: Hitman - Blood Money (Ntsc-U)
+^2 = GameID: SLUS-21108
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F041A1DC 0041A1DF
++Enable Code (Must Be On)
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$9041A308 00832021
++Enable Code (Must Be On)
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$903B55E8 00832021
++Mastercode
+%Credits: MadCatz
+$902BCB0C 0C1068B8
+!!
+!Activate Cheat Codes:
++God Mode
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$204FED80 00000001
++Infinite Clip
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$204E6288 00000001
++Invisible Mode
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$204FF258 00000001
++Nail Gun Mode
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$2050C6A8 3F800000
++P1 Press L1+Left For Nail Gun Mode Off
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$D052DBC2 0000FB7F
+$2050C6A8 3F800000
++P1 Press L1+Right For Nail Gun Mode On
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$D052DBC2 0000FBDF
+$2050C6A8 3F800000
++P1 Press R1+Down For Invisible Mode Off
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$D052DBC2 0000F7BF
+$204FF258 00000000
++P1 Press R1+Left For God Mode Off
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$D052DBC2 0000F77F
+$204FED80 00000000
++P1 Press R1+Right For God Mode On
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$D052DBC2 0000F7DF
+$204FED80 00000001
++P1 Press R1+Up For Invisible Mode On
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$D052DBC2 0000F7EF
+$204FF258 00000001
+!!
++Agent 47 Doesn't Try To Hide Pistols/Items Around Npc's {<I>This Code Stops Him From Moving Whatever Is In His Right Hand When Somebody Is Near Him. This One Of Those Annoying Features That Was Added To This Game And It Does No Good Because NPC&#39;S Can See Your Weapon Even When 47 Attempts To Hide It, Unless You&#39;Re Using The Invisibility Code</I>}
+%Credits: 47iscool
+$20327D60 00000000
++All Guns Always Have 999 In Clip
+%Credits: 47iscool
+$201B1F58 00000000
++All Weapons-Expert
+%Credits: Codejunkies
+$2063BFF0 0000002F
+$4063CFC0 00040008
+$0000000B 00000001
+$4063D040 00030008
+$00000011 00000001
+$4063D0A0 00060008
+$00000016 00000001
+$4063D160 00080008
+$0000001D 00000001
++All Weapons-Normal
+%Credits: Codejunkies
+$2063A900 0000002F
+$4063B8D0 00040008
+$0000000B 00000001
+$4063B950 00030008
+$00000011 00000001
+$4063B9B0 00060008
+$00000016 00000001
+$4063BA70 00080008
+$0000001D 00000001
++All Weapons-Pro
+%Credits: Codejunkies
+$2063D6E0 0000002F
+$4063E6B0 00040008
+$0000000B 00000001
+$4063E730 00030008
+$00000011 00000001
+$4063E790 00060008
+$00000016 00000001
+$4063E850 00080008
+$0000001D 00000001
++All Weapons-Rookie
+%Credits: Codejunkies
+$20639210 0000002F
+$4063A1E0 00040008
+$0000000B 00000001
+$4063A260 00030008
+$00000011 00000001
+$4063A2C0 00060008
+$00000016 00000001
+$4063A380 00080008
+$0000001D 00000001
++Classic Third-Person Camera (Sort Of)
+%Credits: 47iscool
+$2032E1C8 29CF0000
++Dead Or Ko'd Npc's Animation Freeze
+%Credits: 47iscool
+$20245490 00000000
++Disable Crosshair
+%Credits: 47iscool
+$203A5220 240F0000
++Disable FMV
+%Credits: 47iscool
+$2023D490 24020001
++Disable Several HUD Elements R2 Left On/R2 Right Off
+%Credits: 47iscool
+$D052DBC2 0000FD7F
+$202AD1B8 00000000
+$D052DBC2 0000FDDF
+$202AD1B8 0C0AC206
++Disable Weapon Select Boundaries {<I>This Removes The Bar That Separates Custom Weapons From The Normal Ones In Weapon Select, Also The PIP Cam Is Horitzontal Instead Of Vertical When This Code Is On</I>}
+%Credits: 47iscool
+$203CD020 00000000
++Enable All Levels-Expert
+%Credits: Codejunkies
+$2063BFC8 00000FFF
++Enable All Levels-Normal
+%Credits: Codejunkies
+$2063A8D8 00000FFF
++Enable All Levels-Pro
+%Credits: Codejunkies
+$2063D6B8 00000FFF
++Enable All Levels-Rookie
+%Credits: Codejunkies
+$206391E8 00000FFF
++Gravity Modifier (Used In My WTW Code) {<I>Default Value Is -3 In Floating Point (C0400000) Feel Free To Modify It As You Wish. Only Tested With A Joker Code In-Game. I&#39;M Not Sure If It Will Lock Up The Game In Menus If It&#39;S Always Enabled.</I>}
+%Credits: 47iscool
+$606346A0 ????????
+$00020001 00000528
++Guns Are Useless For Everyone
+%Credits: 47iscool
+$201AF870 00000000
+!Have All Weapon Codes:
++Expert Difficulty
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$E0070022 2063BFF0
+$2063BFF0 00000021
+$4063CDA0 00060008
+$00000002 00000001
+$4063CE60 00120008
+$0000000A 00000001
+$4063D0A0 00090008
+$0000001D 00000001
++Normal Difficulty
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$E0070022 2063A900
+$2063A900 00000021
+$4063B6B0 00060008
+$00000002 00000001
+$4063B770 00120008
+$0000000A 00000001
+$4063B9B0 00090008
+$0000001D 00000001
++Pro Difficulty
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$E0070022 2063D6E0
+$2063D6E0 00000021
+$4063E490 00060008
+$00000002 00000001
+$4063E550 00120008
+$0000000A 00000001
+$4063E790 00090008
+$0000001D 00000001
++Rookie Difficulty
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$E0070022 20639210
+$20639210 00000021
+$40639FC0 00060008
+$00000002 00000001
+$4063A080 00120008
+$0000000A 00000001
+$4063A2C0 00090008
+$0000001D 00000001
+!!
++Infinite Ammo
+%Credits: MadCatz
+$201B3398 00000000
++Infinite Ammo
+%Credits: Codejunkies
+$201B38E0 00000000
++Infinite Cash
+%Credits: Codejunkies
+$203E162C 3C0F0090
++Infinite Health
+%Credits: MadCatz
+$20323434 00000000
++Levitate (L3)
+%Credits: 47iscool
+$E002FFFD 0052DBC2
+$606346A0 41B40000
+$00020001 00000540
++Never Reload
+%Credits: Codejunkies
+$201B3398 25EF0000
++No Weapon/Item Change R2 Left On/R2 Right Off
+%Credits: 47iscool
+$D052DBC2 0000FD7F
+$201BE270 00000000
+$D052DBC2 0000FDDF
+$201BE270 AE740050
++NPC Clipping Off/On R1 Left On/R1 Right Off {<I>Turn On The Code And Knock Out Or Kill An NPC And They Will Fall Through The Ground In Most Areas</I>}
+%Credits: 47iscool
+$E003F77F 0052DBC2
+$20112388 00000000
+$20112398 00000000
+$201123A4 00000000
+$E003F7DF 0052DBC2
+$20112388 E6400000
+$20112398 E6410004
+$201123A4 E6420008
++Remove Weapon Carry Limit (Improved) {<I>This One Is Better As It Requires No Joker Code, Just Don&#39;T Take To Many Or It May Freeze, Six Or Less Should Be Fine</I>}
+%Credits: 47iscool
+$203CD530 00000000
++Skip Videos
+%Credits: 47iscool
+$2042E048 24020001
++Slow NPC Death/Ko Animation
+%Credits: 47iscool
+$20587EF0 3F800000
++Start With 9999 Syringes
+%Credits: 47iscool
+$203DBD48 240F270F
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Always 1St Save
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$20534A28 00000000
++Buying Items Doesn't Decrease Money
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$203E163C 00000000
++Buying Items Increases Money
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$203E162C 01E57823
++Extra Ammo
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$201C5664 02153021
++Infinite Ammo
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$201C5664 26A60000
++Infinite Health
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$20323438 00000000
++Max Infinite Ammo
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$201C5664 240603E7
++Max Money
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$2063A904 05F5E0FF
++Never Reload
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$201B339C 00000000
++Never Reload With Max Clip
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$201B3398 240F03E7
++Quick Money Gain
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$1063A904 0000FFFF
++Slow Motion (Press R2+Up For On; R2+Down For Off)
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$200C0240 3C0800A0
+$200C0244 00000000
+$200C0248 00000000
+$200C024C 00000000
+$200C0250 00000000
+$200C0254 00000000
+$200C0258 1D00FFFD
+$200C025C 2508FFFF
+$200C0260 03E00008
+$200C0264 00000000
+$D052DBC2 0000FDEF
+$2041A34C 08030090
+$D052DBC2 0000FDBF
+$2041A34C 03E00008
+!!
+!Unlock All Mission Codes:
++Expert Difficulty
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$2063BFC8 FFFFFFFF
++Normal Difficulty
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$2063A8D8 FFFFFFFF
++Pro Difficulty
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$2063D6B8 FFFFFFFF
++Rookie Difficulty
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$206391E8 FFFFFFFF
+!!
+!Urban Chaos Demo Codes:
++Extra Ammo
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$20106BDC 00511021
++Infinite Ammo
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$20106BE0 00000000
++Infinite Health
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$202CD438 3C01447A
+$202CD440 AC81008C
++Max Infinite Ammo
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$20106BDC 240203E7
++Never Reload
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$20106E8C 00000000
++Never Reload With Max Clip
+%Credits: Code Master>GameMasterZer0>Lajos Szalay
+$20106E88 24030063
+!!
++Walk Through Walls (Asmv3) (R2+Up On/R2+Down Off) {<I>This Is In Fact The Last Update, It Removes Un-Needed Lines Of Code.<Br>Why Another Update To Remove Lines Of Code You May Ask?<Br>Well, The Code That Was Removed Was A Code That Allows Mr. 47 To Walk On Air.<Br>Don&#39;T Fret Just Yet, As There Is Already A Code In Place That Can Set Gravity<Br>To It&#39;S Normal Level Or Just Stop It Completely. It Also Will Allow Him To Walk On Air Just<Br>As With The Other Code. I Have Tested This Code On Real PS2 Hardware And It Performs<Br>Just The Same As It Did Before, Only It Takes Up Slightly Less Space. And The More<Br>Free Space, The Better.<Br>Also The Code That Was Removed Can&#39;T Be Used Alone, Although It Does Allow<Br>Him To Walk On Air, He Can&#39;T Walk Certain Ways As It Creates Invisible Walls<Br>In Some Areas. Here Is The Code That Was Removed In Case Anyone Wants It:<Br>&Gt;2034Fa8c 00000000&Lt;</I>}
+%Credits: 47iscool
+$20351D64 00000000
+$E004FDEF 0052DBC2
+$201C97D4 00000000
+$20155664 10000028
+$606346A0 00000000
+$00020001 00000528
+$E004FDBF 0052DBC2
+$201C97D4 C6620004
+$20155664 11000028
+$606346A0 C0400000
+$00020001 00000528
+!Weapon slot modifiers!:
++Standard Weapon Slot 1 {<I>Weapon/Item List  Silverballer - 02 Silverballers - 03 W200 Sniper - 04 SMG Tactical - 05 M4 - 06 SP12 Shotgun - 07 Bullseye.22 - 0A Desert Eagle - 0B SLP.40 Pistol - 0C SLP.40.S - 0D Real WW1 Pistol - 0E Prop WW1 Pistol - 0F Nailer - 10 Six Shooter - 11 Snub Nosed - 12 Bull.480 - 13 Custom 1911 - 14 Air Rifle - 16 Mark III - 17 FN-2000 - 18 M14 - 19 Shotgun - 1A Sg552 - 1B Elephant Rifle - 1D Drugunov - 1E Kazo TRG - 1F SAF SMG - 20 MP5 - 21 MP7 - 22 MP9 - 23 TMP - 24 Baseball Bat - 25 Fire Extinguisher - 27 28 - Bowie Knife Kitchen Knife - 2A Thrower - 2B Nail File - 2C Pick Axe - 2E Canesword - 30 Syringe Death Serum - 34 Laxative - 35 Hedge Cutter - 37 Pitchfork - 38 Cello - 56 Keycard Light Control Room - 58 Toolbox - 59 Wardrobe Ticket - 5A Paper Note - 5B Brothel Pass - 5E Martini - 5F Rifle Suitcase - 60 Storage Key - 62 Kitchen Crate - 63 Elevator Keycard - 64 Office Key - 66 Beercase- 67 Hollow Bible - 68 Briefcase - 69 DNA Briefcase - 6A Diamond Briefcase - 6B Payment Briefcase - 6C Bucket Of Chicken - 6D Catering Crate - 6E Donuts - 6F Gift - 71 Rifle Suitcase - 72 Aphrodisiac - 73 Bottle Of Champagne - 75 Liquor - 77 Vintage Port. 1958 - 79 Whiskey - 7B Cake - 7C Liquor - 80 Martini - 81 Glass Of Wine - 82 Admission Paper - 84 Balloon - 85 Diamonds - 89 DNA - 8A Angel Hat - 8C Unicorn Hat - 8D Boat Key - 90 Keycard - 91 Cabin Keycard For 323 - 92 Cabin Keycard For 324 - 93 Cabin Keycard For 304 - 94 Master Keycard - 95 7Th Floor Keycard - 96 Main Building Keycard - 97 West Wing Keycard - 98 Cell Key - 99 Clinic Key - 9A Engine Room Key - 9B Helicopter Key - 9C Mansion Key - 9D Poolhouse Key - 9E Sedan Key - 9F Money - A0 Necklace With Microfilm - A1 Note Rifle - A2 Parcel Pictures - A3 Party Invitation - A4 Lounge Pass - A5 V.I.P Pass - A6 Sheik&#39;S Phone Number - A7 Photo Of Hitman - A8 Photos GOV. Son - A9 Radio - AB Santa&#39;S Sack - AC Sausage - AD Walkie Talkie - AF Camera - B0 Burger - B3 Bottle Of Beer - B5 Flammable Flask - B6 Pyro Flask - B7 Storage Key - B9 Snub Nosed - BA Stiletto - BC Pen - BD Paper - BE Dish Cloth - BF Dumb Bell - C0 Bottle Of Beer - C2 Rifle Case - C3 Photo Of Target - C4 Photo Of Target - C5 Photo Of Target - C6 Syringe Death Serum - C7 Meat Cleaver - C8 Hammer - C9 Shovel - CA Whisky - CB SLR Camera - D3 Video Tape - D5 Tray - D8 Keycard Room 701 - E0 Keycard Room 707 - E3 Paintbrush - E5 Gift Box - E7 Trash Bag - E8 Screwdriver - EB Keycard Rehab - EC Poker Cards - F4 Ratclub Keycard - F7 Keycard Room 803 - F9 Keycard Samantha - FA Universal Keycard - FB 8Th Floor Keycard - FC Keycard - FD Hendrik Schmutzs Room 707 - FE Lighter Fluid - FF</I>}
+%Credits: 47iscool
+$0063A1E0 000000??
++Standard Weapon Slot 2 {<I>Weapon/Item List  Silverballer - 02 Silverballers - 03 W200 Sniper - 04 SMG Tactical - 05 M4 - 06 SP12 Shotgun - 07 Bullseye.22 - 0A Desert Eagle - 0B SLP.40 Pistol - 0C SLP.40.S - 0D Real WW1 Pistol - 0E Prop WW1 Pistol - 0F Nailer - 10 Six Shooter - 11 Snub Nosed - 12 Bull.480 - 13 Custom 1911 - 14 Air Rifle - 16 Mark III - 17 FN-2000 - 18 M14 - 19 Shotgun - 1A Sg552 - 1B Elephant Rifle - 1D Drugunov - 1E Kazo TRG - 1F SAF SMG - 20 MP5 - 21 MP7 - 22 MP9 - 23 TMP - 24 Baseball Bat - 25 Fire Extinguisher - 27 28 - Bowie Knife Kitchen Knife - 2A Thrower - 2B Nail File - 2C Pick Axe - 2E Canesword - 30 Syringe Death Serum - 34 Laxative - 35 Hedge Cutter - 37 Pitchfork - 38 Cello - 56 Keycard Light Control Room - 58 Toolbox - 59 Wardrobe Ticket - 5A Paper Note - 5B Brothel Pass - 5E Martini - 5F Rifle Suitcase - 60 Storage Key - 62 Kitchen Crate - 63 Elevator Keycard - 64 Office Key - 66 Beercase- 67 Hollow Bible - 68 Briefcase - 69 DNA Briefcase - 6A Diamond Briefcase - 6B Payment Briefcase - 6C Bucket Of Chicken - 6D Catering Crate - 6E Donuts - 6F Gift - 71 Rifle Suitcase - 72 Aphrodisiac - 73 Bottle Of Champagne - 75 Liquor - 77 Vintage Port. 1958 - 79 Whiskey - 7B Cake - 7C Liquor - 80 Martini - 81 Glass Of Wine - 82 Admission Paper - 84 Balloon - 85 Diamonds - 89 DNA - 8A Angel Hat - 8C Unicorn Hat - 8D Boat Key - 90 Keycard - 91 Cabin Keycard For 323 - 92 Cabin Keycard For 324 - 93 Cabin Keycard For 304 - 94 Master Keycard - 95 7Th Floor Keycard - 96 Main Building Keycard - 97 West Wing Keycard - 98 Cell Key - 99 Clinic Key - 9A Engine Room Key - 9B Helicopter Key - 9C Mansion Key - 9D Poolhouse Key - 9E Sedan Key - 9F Money - A0 Necklace With Microfilm - A1 Note Rifle - A2 Parcel Pictures - A3 Party Invitation - A4 Lounge Pass - A5 V.I.P Pass - A6 Sheik&#39;S Phone Number - A7 Photo Of Hitman - A8 Photos GOV. Son - A9 Radio - AB Santa&#39;S Sack - AC Sausage - AD Walkie Talkie - AF Camera - B0 Burger - B3 Bottle Of Beer - B5 Flammable Flask - B6 Pyro Flask - B7 Storage Key - B9 Snub Nosed - BA Stiletto - BC Pen - BD Paper - BE Dish Cloth - BF Dumb Bell - C0 Bottle Of Beer - C2 Rifle Case - C3 Photo Of Target - C4 Photo Of Target - C5 Photo Of Target - C6 Syringe Death Serum - C7 Meat Cleaver - C8 Hammer - C9 Shovel - CA Whisky - CB SLR Camera - D3 Video Tape - D5 Tray - D8 Keycard Room 701 - E0 Keycard Room 707 - E3 Paintbrush - E5 Gift Box - E7 Trash Bag - E8 Screwdriver - EB Keycard Rehab - EC Poker Cards - F4 Ratclub Keycard - F7 Keycard Room 803 - F9 Keycard Samantha - FA Universal Keycard - FB 8Th Floor Keycard - FC Keycard - FD Hendrik Schmutzs Room 707 - FE Lighter Fluid - FF</I>}
+%Credits: 47iscool
+$0063A200 000000??
++Standard Weapon Slot 3 {<I>Weapon/Item List  Silverballer - 02 Silverballers - 03 W200 Sniper - 04 SMG Tactical - 05 M4 - 06 SP12 Shotgun - 07 Bullseye.22 - 0A Desert Eagle - 0B SLP.40 Pistol - 0C SLP.40.S - 0D Real WW1 Pistol - 0E Prop WW1 Pistol - 0F Nailer - 10 Six Shooter - 11 Snub Nosed - 12 Bull.480 - 13 Custom 1911 - 14 Air Rifle - 16 Mark III - 17 FN-2000 - 18 M14 - 19 Shotgun - 1A Sg552 - 1B Elephant Rifle - 1D Drugunov - 1E Kazo TRG - 1F SAF SMG - 20 MP5 - 21 MP7 - 22 MP9 - 23 TMP - 24 Baseball Bat - 25 Fire Extinguisher - 27 28 - Bowie Knife Kitchen Knife - 2A Thrower - 2B Nail File - 2C Pick Axe - 2E Canesword - 30 Syringe Death Serum - 34 Laxative - 35 Hedge Cutter - 37 Pitchfork - 38 Cello - 56 Keycard Light Control Room - 58 Toolbox - 59 Wardrobe Ticket - 5A Paper Note - 5B Brothel Pass - 5E Martini - 5F Rifle Suitcase - 60 Storage Key - 62 Kitchen Crate - 63 Elevator Keycard - 64 Office Key - 66 Beercase- 67 Hollow Bible - 68 Briefcase - 69 DNA Briefcase - 6A Diamond Briefcase - 6B Payment Briefcase - 6C Bucket Of Chicken - 6D Catering Crate - 6E Donuts - 6F Gift - 71 Rifle Suitcase - 72 Aphrodisiac - 73 Bottle Of Champagne - 75 Liquor - 77 Vintage Port. 1958 - 79 Whiskey - 7B Cake - 7C Liquor - 80 Martini - 81 Glass Of Wine - 82 Admission Paper - 84 Balloon - 85 Diamonds - 89 DNA - 8A Angel Hat - 8C Unicorn Hat - 8D Boat Key - 90 Keycard - 91 Cabin Keycard For 323 - 92 Cabin Keycard For 324 - 93 Cabin Keycard For 304 - 94 Master Keycard - 95 7Th Floor Keycard - 96 Main Building Keycard - 97 West Wing Keycard - 98 Cell Key - 99 Clinic Key - 9A Engine Room Key - 9B Helicopter Key - 9C Mansion Key - 9D Poolhouse Key - 9E Sedan Key - 9F Money - A0 Necklace With Microfilm - A1 Note Rifle - A2 Parcel Pictures - A3 Party Invitation - A4 Lounge Pass - A5 V.I.P Pass - A6 Sheik&#39;S Phone Number - A7 Photo Of Hitman - A8 Photos GOV. Son - A9 Radio - AB Santa&#39;S Sack - AC Sausage - AD Walkie Talkie - AF Camera - B0 Burger - B3 Bottle Of Beer - B5 Flammable Flask - B6 Pyro Flask - B7 Storage Key - B9 Snub Nosed - BA Stiletto - BC Pen - BD Paper - BE Dish Cloth - BF Dumb Bell - C0 Bottle Of Beer - C2 Rifle Case - C3 Photo Of Target - C4 Photo Of Target - C5 Photo Of Target - C6 Syringe Death Serum - C7 Meat Cleaver - C8 Hammer - C9 Shovel - CA Whisky - CB SLR Camera - D3 Video Tape - D5 Tray - D8 Keycard Room 701 - E0 Keycard Room 707 - E3 Paintbrush - E5 Gift Box - E7 Trash Bag - E8 Screwdriver - EB Keycard Rehab - EC Poker Cards - F4 Ratclub Keycard - F7 Keycard Room 803 - F9 Keycard Samantha - FA Universal Keycard - FB 8Th Floor Keycard - FC Keycard - FD Hendrik Schmutzs Room 707 - FE Lighter Fluid - FF</I>}
+%Credits: 47iscool
+$0063A220 000000??
++Standard Weapon Slot 4 {<I>Weapon/Item List  Silverballer - 02 Silverballers - 03 W200 Sniper - 04 SMG Tactical - 05 M4 - 06 SP12 Shotgun - 07 Bullseye.22 - 0A Desert Eagle - 0B SLP.40 Pistol - 0C SLP.40.S - 0D Real WW1 Pistol - 0E Prop WW1 Pistol - 0F Nailer - 10 Six Shooter - 11 Snub Nosed - 12 Bull.480 - 13 Custom 1911 - 14 Air Rifle - 16 Mark III - 17 FN-2000 - 18 M14 - 19 Shotgun - 1A Sg552 - 1B Elephant Rifle - 1D Drugunov - 1E Kazo TRG - 1F SAF SMG - 20 MP5 - 21 MP7 - 22 MP9 - 23 TMP - 24 Baseball Bat - 25 Fire Extinguisher - 27 28 - Bowie Knife Kitchen Knife - 2A Thrower - 2B Nail File - 2C Pick Axe - 2E Canesword - 30 Syringe Death Serum - 34 Laxative - 35 Hedge Cutter - 37 Pitchfork - 38 Cello - 56 Keycard Light Control Room - 58 Toolbox - 59 Wardrobe Ticket - 5A Paper Note - 5B Brothel Pass - 5E Martini - 5F Rifle Suitcase - 60 Storage Key - 62 Kitchen Crate - 63 Elevator Keycard - 64 Office Key - 66 Beercase- 67 Hollow Bible - 68 Briefcase - 69 DNA Briefcase - 6A Diamond Briefcase - 6B Payment Briefcase - 6C Bucket Of Chicken - 6D Catering Crate - 6E Donuts - 6F Gift - 71 Rifle Suitcase - 72 Aphrodisiac - 73 Bottle Of Champagne - 75 Liquor - 77 Vintage Port. 1958 - 79 Whiskey - 7B Cake - 7C Liquor - 80 Martini - 81 Glass Of Wine - 82 Admission Paper - 84 Balloon - 85 Diamonds - 89 DNA - 8A Angel Hat - 8C Unicorn Hat - 8D Boat Key - 90 Keycard - 91 Cabin Keycard For 323 - 92 Cabin Keycard For 324 - 93 Cabin Keycard For 304 - 94 Master Keycard - 95 7Th Floor Keycard - 96 Main Building Keycard - 97 West Wing Keycard - 98 Cell Key - 99 Clinic Key - 9A Engine Room Key - 9B Helicopter Key - 9C Mansion Key - 9D Poolhouse Key - 9E Sedan Key - 9F Money - A0 Necklace With Microfilm - A1 Note Rifle - A2 Parcel Pictures - A3 Party Invitation - A4 Lounge Pass - A5 V.I.P Pass - A6 Sheik&#39;S Phone Number - A7 Photo Of Hitman - A8 Photos GOV. Son - A9 Radio - AB Santa&#39;S Sack - AC Sausage - AD Walkie Talkie - AF Camera - B0 Burger - B3 Bottle Of Beer - B5 Flammable Flask - B6 Pyro Flask - B7 Storage Key - B9 Snub Nosed - BA Stiletto - BC Pen - BD Paper - BE Dish Cloth - BF Dumb Bell - C0 Bottle Of Beer - C2 Rifle Case - C3 Photo Of Target - C4 Photo Of Target - C5 Photo Of Target - C6 Syringe Death Serum - C7 Meat Cleaver - C8 Hammer - C9 Shovel - CA Whisky - CB SLR Camera - D3 Video Tape - D5 Tray - D8 Keycard Room 701 - E0 Keycard Room 707 - E3 Paintbrush - E5 Gift Box - E7 Trash Bag - E8 Screwdriver - EB Keycard Rehab - EC Poker Cards - F4 Ratclub Keycard - F7 Keycard Room 803 - F9 Keycard Samantha - FA Universal Keycard - FB 8Th Floor Keycard - FC Keycard - FD Hendrik Schmutzs Room 707 - FE Lighter Fluid - FF</I>}
+%Credits: 47iscool
+$0063A240 000000??
++Standard Weapon Slot 5 {<I>Weapon/Item List  Silverballer - 02 Silverballers - 03 W200 Sniper - 04 SMG Tactical - 05 M4 - 06 SP12 Shotgun - 07 Bullseye.22 - 0A Desert Eagle - 0B SLP.40 Pistol - 0C SLP.40.S - 0D Real WW1 Pistol - 0E Prop WW1 Pistol - 0F Nailer - 10 Six Shooter - 11 Snub Nosed - 12 Bull.480 - 13 Custom 1911 - 14 Air Rifle - 16 Mark III - 17 FN-2000 - 18 M14 - 19 Shotgun - 1A Sg552 - 1B Elephant Rifle - 1D Drugunov - 1E Kazo TRG - 1F SAF SMG - 20 MP5 - 21 MP7 - 22 MP9 - 23 TMP - 24 Baseball Bat - 25 Fire Extinguisher - 27 28 - Bowie Knife Kitchen Knife - 2A Thrower - 2B Nail File - 2C Pick Axe - 2E Canesword - 30 Syringe Death Serum - 34 Laxative - 35 Hedge Cutter - 37 Pitchfork - 38 Cello - 56 Keycard Light Control Room - 58 Toolbox - 59 Wardrobe Ticket - 5A Paper Note - 5B Brothel Pass - 5E Martini - 5F Rifle Suitcase - 60 Storage Key - 62 Kitchen Crate - 63 Elevator Keycard - 64 Office Key - 66 Beercase- 67 Hollow Bible - 68 Briefcase - 69 DNA Briefcase - 6A Diamond Briefcase - 6B Payment Briefcase - 6C Bucket Of Chicken - 6D Catering Crate - 6E Donuts - 6F Gift - 71 Rifle Suitcase - 72 Aphrodisiac - 73 Bottle Of Champagne - 75 Liquor - 77 Vintage Port. 1958 - 79 Whiskey - 7B Cake - 7C Liquor - 80 Martini - 81 Glass Of Wine - 82 Admission Paper - 84 Balloon - 85 Diamonds - 89 DNA - 8A Angel Hat - 8C Unicorn Hat - 8D Boat Key - 90 Keycard - 91 Cabin Keycard For 323 - 92 Cabin Keycard For 324 - 93 Cabin Keycard For 304 - 94 Master Keycard - 95 7Th Floor Keycard - 96 Main Building Keycard - 97 West Wing Keycard - 98 Cell Key - 99 Clinic Key - 9A Engine Room Key - 9B Helicopter Key - 9C Mansion Key - 9D Poolhouse Key - 9E Sedan Key - 9F Money - A0 Necklace With Microfilm - A1 Note Rifle - A2 Parcel Pictures - A3 Party Invitation - A4 Lounge Pass - A5 V.I.P Pass - A6 Sheik&#39;S Phone Number - A7 Photo Of Hitman - A8 Photos GOV. Son - A9 Radio - AB Santa&#39;S Sack - AC Sausage - AD Walkie Talkie - AF Camera - B0 Burger - B3 Bottle Of Beer - B5 Flammable Flask - B6 Pyro Flask - B7 Storage Key - B9 Snub Nosed - BA Stiletto - BC Pen - BD Paper - BE Dish Cloth - BF Dumb Bell - C0 Bottle Of Beer - C2 Rifle Case - C3 Photo Of Target - C4 Photo Of Target - C5 Photo Of Target - C6 Syringe Death Serum - C7 Meat Cleaver - C8 Hammer - C9 Shovel - CA Whisky - CB SLR Camera - D3 Video Tape - D5 Tray - D8 Keycard Room 701 - E0 Keycard Room 707 - E3 Paintbrush - E5 Gift Box - E7 Trash Bag - E8 Screwdriver - EB Keycard Rehab - EC Poker Cards - F4 Ratclub Keycard - F7 Keycard Room 803 - F9 Keycard Samantha - FA Universal Keycard - FB 8Th Floor Keycard - FC Keycard - FD Hendrik Schmutzs Room 707 - FE Lighter Fluid - FF</I>}
+%Credits: 47iscool
+$2063A260 000000??
++Standard Weapon Slot 6 {<I>Weapon/Item List  Silverballer - 02 Silverballers - 03 W200 Sniper - 04 SMG Tactical - 05 M4 - 06 SP12 Shotgun - 07 Bullseye.22 - 0A Desert Eagle - 0B SLP.40 Pistol - 0C SLP.40.S - 0D Real WW1 Pistol - 0E Prop WW1 Pistol - 0F Nailer - 10 Six Shooter - 11 Snub Nosed - 12 Bull.480 - 13 Custom 1911 - 14 Air Rifle - 16 Mark III - 17 FN-2000 - 18 M14 - 19 Shotgun - 1A Sg552 - 1B Elephant Rifle - 1D Drugunov - 1E Kazo TRG - 1F SAF SMG - 20 MP5 - 21 MP7 - 22 MP9 - 23 TMP - 24 Baseball Bat - 25 Fire Extinguisher - 27 28 - Bowie Knife Kitchen Knife - 2A Thrower - 2B Nail File - 2C Pick Axe - 2E Canesword - 30 Syringe Death Serum - 34 Laxative - 35 Hedge Cutter - 37 Pitchfork - 38 Cello - 56 Keycard Light Control Room - 58 Toolbox - 59 Wardrobe Ticket - 5A Paper Note - 5B Brothel Pass - 5E Martini - 5F Rifle Suitcase - 60 Storage Key - 62 Kitchen Crate - 63 Elevator Keycard - 64 Office Key - 66 Beercase- 67 Hollow Bible - 68 Briefcase - 69 DNA Briefcase - 6A Diamond Briefcase - 6B Payment Briefcase - 6C Bucket Of Chicken - 6D Catering Crate - 6E Donuts - 6F Gift - 71 Rifle Suitcase - 72 Aphrodisiac - 73 Bottle Of Champagne - 75 Liquor - 77 Vintage Port. 1958 - 79 Whiskey - 7B Cake - 7C Liquor - 80 Martini - 81 Glass Of Wine - 82 Admission Paper - 84 Balloon - 85 Diamonds - 89 DNA - 8A Angel Hat - 8C Unicorn Hat - 8D Boat Key - 90 Keycard - 91 Cabin Keycard For 323 - 92 Cabin Keycard For 324 - 93 Cabin Keycard For 304 - 94 Master Keycard - 95 7Th Floor Keycard - 96 Main Building Keycard - 97 West Wing Keycard - 98 Cell Key - 99 Clinic Key - 9A Engine Room Key - 9B Helicopter Key - 9C Mansion Key - 9D Poolhouse Key - 9E Sedan Key - 9F Money - A0 Necklace With Microfilm - A1 Note Rifle - A2 Parcel Pictures - A3 Party Invitation - A4 Lounge Pass - A5 V.I.P Pass - A6 Sheik&#39;S Phone Number - A7 Photo Of Hitman - A8 Photos GOV. Son - A9 Radio - AB Santa&#39;S Sack - AC Sausage - AD Walkie Talkie - AF Camera - B0 Burger - B3 Bottle Of Beer - B5 Flammable Flask - B6 Pyro Flask - B7 Storage Key - B9 Snub Nosed - BA Stiletto - BC Pen - BD Paper - BE Dish Cloth - BF Dumb Bell - C0 Bottle Of Beer - C2 Rifle Case - C3 Photo Of Target - C4 Photo Of Target - C5 Photo Of Target - C6 Syringe Death Serum - C7 Meat Cleaver - C8 Hammer - C9 Shovel - CA Whisky - CB SLR Camera - D3 Video Tape - D5 Tray - D8 Keycard Room 701 - E0 Keycard Room 707 - E3 Paintbrush - E5 Gift Box - E7 Trash Bag - E8 Screwdriver - EB Keycard Rehab - EC Poker Cards - F4 Ratclub Keycard - F7 Keycard Room 803 - F9 Keycard Samantha - FA Universal Keycard - FB 8Th Floor Keycard - FC Keycard - FD Hendrik Schmutzs Room 707 - FE Lighter Fluid - FF</I>}
+%Credits: 47iscool
+$0063A280 000000??
++Standard Weapon Slot 7 {<I>Silverballer - 02 Silverballers - 03 W200 Sniper - 04 SMG Tactical - 05 M4 - 06 SP12 Shotgun - 07 Bullseye.22 - 0A Desert Eagle - 0B SLP.40 Pistol - 0C SLP.40.S - 0D Real WW1 Pistol - 0E Prop WW1 Pistol - 0F Nailer - 10 Six Shooter - 11 Snub Nosed - 12 Bull.480 - 13 Custom 1911 - 14 Air Rifle - 16 Mark III - 17 FN-2000 - 18 M14 - 19 Shotgun - 1A Sg552 - 1B Elephant Rifle - 1D Drugunov - 1E Kazo TRG - 1F SAF SMG - 20 MP5 - 21 MP7 - 22 MP9 - 23 TMP - 24 Baseball Bat - 25 Fire Extinguisher - 27 28 - Bowie Knife Kitchen Knife - 2A Thrower - 2B Nail File - 2C Pick Axe - 2E Canesword - 30 Syringe Death Serum - 34 Laxative - 35 Hedge Cutter - 37 Pitchfork - 38 Cello - 56 Keycard Light Control Room - 58 Toolbox - 59 Wardrobe Ticket - 5A Paper Note - 5B Brothel Pass - 5E Martini - 5F Rifle Suitcase - 60 Storage Key - 62 Kitchen Crate - 63 Elevator Keycard - 64 Office Key - 66 Beercase- 67 Hollow Bible - 68 Briefcase - 69 DNA Briefcase - 6A Diamond Briefcase - 6B Payment Briefcase - 6C Bucket Of Chicken - 6D Catering Crate - 6E Donuts - 6F Gift - 71 Rifle Suitcase - 72 Aphrodisiac - 73 Bottle Of Champagne - 75 Liquor - 77 Vintage Port. 1958 - 79 Whiskey - 7B Cake - 7C Liquor - 80 Martini - 81 Glass Of Wine - 82 Admission Paper - 84 Balloon - 85 Diamonds - 89 DNA - 8A Angel Hat - 8C Unicorn Hat - 8D Boat Key - 90 Keycard - 91 Cabin Keycard For 323 - 92 Cabin Keycard For 324 - 93 Cabin Keycard For 304 - 94 Master Keycard - 95 7Th Floor Keycard - 96 Main Building Keycard - 97 West Wing Keycard - 98 Cell Key - 99 Clinic Key - 9A Engine Room Key - 9B Helicopter Key - 9C Mansion Key - 9D Poolhouse Key - 9E Sedan Key - 9F Money - A0 Necklace With Microfilm - A1 Note Rifle - A2 Parcel Pictures - A3 Party Invitation - A4 Lounge Pass - A5 V.I.P Pass - A6 Sheik&#39;S Phone Number - A7 Photo Of Hitman - A8 Photos GOV. Son - A9 Radio - AB Santa&#39;S Sack - AC Sausage - AD Walkie Talkie - AF Camera - B0 Burger - B3 Bottle Of Beer - B5 Flammable Flask - B6 Pyro Flask - B7 Storage Key - B9 Snub Nosed - BA Stiletto - BC Pen - BD Paper - BE Dish Cloth - BF Dumb Bell - C0 Bottle Of Beer - C2 Rifle Case - C3 Photo Of Target - C4 Photo Of Target - C5 Photo Of Target - C6 Syringe Death Serum - C7 Meat Cleaver - C8 Hammer - C9 Shovel - CA Whisky - CB SLR Camera - D3 Video Tape - D5 Tray - D8 Keycard Room 701 - E0 Keycard Room 707 - E3 Paintbrush - E5 Gift Box - E7 Trash Bag - E8 Screwdriver - EB Keycard Rehab - EC Poker Cards - F4 Ratclub Keycard - F7 Keycard Room 803 - F9 Keycard Samantha - FA Universal Keycard - FB 8Th Floor Keycard - FC Keycard - FD Hendrik Schmutzs Room 707 - FE Lighter Fluid - FF</I>}
+%Credits: 47iscool
+$0063A2A0 000000??
++Standard Weapon Slot 8 {<I>Silverballer - 02 Silverballers - 03 W200 Sniper - 04 SMG Tactical - 05 M4 - 06 SP12 Shotgun - 07 Bullseye.22 - 0A Desert Eagle - 0B SLP.40 Pistol - 0C SLP.40.S - 0D Real WW1 Pistol - 0E Prop WW1 Pistol - 0F Nailer - 10 Six Shooter - 11 Snub Nosed - 12 Bull.480 - 13 Custom 1911 - 14 Air Rifle - 16 Mark III - 17 FN-2000 - 18 M14 - 19 Shotgun - 1A Sg552 - 1B Elephant Rifle - 1D Drugunov - 1E Kazo TRG - 1F SAF SMG - 20 MP5 - 21 MP7 - 22 MP9 - 23 TMP - 24 Baseball Bat - 25 Fire Extinguisher - 27 28 - Bowie Knife Kitchen Knife - 2A Thrower - 2B Nail File - 2C Pick Axe - 2E Canesword - 30 Syringe Death Serum - 34 Laxative - 35 Hedge Cutter - 37 Pitchfork - 38 Cello - 56 Keycard Light Control Room - 58 Toolbox - 59 Wardrobe Ticket - 5A Paper Note - 5B Brothel Pass - 5E Martini - 5F Rifle Suitcase - 60 Storage Key - 62 Kitchen Crate - 63 Elevator Keycard - 64 Office Key - 66 Beercase- 67 Hollow Bible - 68 Briefcase - 69 DNA Briefcase - 6A Diamond Briefcase - 6B Payment Briefcase - 6C Bucket Of Chicken - 6D Catering Crate - 6E Donuts - 6F Gift - 71 Rifle Suitcase - 72 Aphrodisiac - 73 Bottle Of Champagne - 75 Liquor - 77 Vintage Port. 1958 - 79 Whiskey - 7B Cake - 7C Liquor - 80 Martini - 81 Glass Of Wine - 82 Admission Paper - 84 Balloon - 85 Diamonds - 89 DNA - 8A Angel Hat - 8C Unicorn Hat - 8D Boat Key - 90 Keycard - 91 Cabin Keycard For 323 - 92 Cabin Keycard For 324 - 93 Cabin Keycard For 304 - 94 Master Keycard - 95 7Th Floor Keycard - 96 Main Building Keycard - 97 West Wing Keycard - 98 Cell Key - 99 Clinic Key - 9A Engine Room Key - 9B Helicopter Key - 9C Mansion Key - 9D Poolhouse Key - 9E Sedan Key - 9F Money - A0 Necklace With Microfilm - A1 Note Rifle - A2 Parcel Pictures - A3 Party Invitation - A4 Lounge Pass - A5 V.I.P Pass - A6 Sheik&#39;S Phone Number - A7 Photo Of Hitman - A8 Photos GOV. Son - A9 Radio - AB Santa&#39;S Sack - AC Sausage - AD Walkie Talkie - AF Camera - B0 Burger - B3 Bottle Of Beer - B5 Flammable Flask - B6 Pyro Flask - B7 Storage Key - B9 Snub Nosed - BA Stiletto - BC Pen - BD Paper - BE Dish Cloth - BF Dumb Bell - C0 Bottle Of Beer - C2 Rifle Case - C3 Photo Of Target - C4 Photo Of Target - C5 Photo Of Target - C6 Syringe Death Serum - C7 Meat Cleaver - C8 Hammer - C9 Shovel - CA Whisky - CB SLR Camera - D3 Video Tape - D5 Tray - D8 Keycard Room 701 - E0 Keycard Room 707 - E3 Paintbrush - E5 Gift Box - E7 Trash Bag - E8 Screwdriver - EB Keycard Rehab - EC Poker Cards - F4 Ratclub Keycard - F7 Keycard Room 803 - F9 Keycard Samantha - FA Universal Keycard - FB 8Th Floor Keycard - FC Keycard - FD Hendrik Schmutzs Room 707 - FE Lighter Fluid - FF</I>}
+%Credits: 47iscool
+$0063A2C0 000000??
++Standard Weapon Slot 9 {<I>Silverballer - 02 Silverballers - 03 W200 Sniper - 04 SMG Tactical - 05 M4 - 06 SP12 Shotgun - 07 Bullseye.22 - 0A Desert Eagle - 0B SLP.40 Pistol - 0C SLP.40.S - 0D Real WW1 Pistol - 0E Prop WW1 Pistol - 0F Nailer - 10 Six Shooter - 11 Snub Nosed - 12 Bull.480 - 13 Custom 1911 - 14 Air Rifle - 16 Mark III - 17 FN-2000 - 18 M14 - 19 Shotgun - 1A Sg552 - 1B Elephant Rifle - 1D Drugunov - 1E Kazo TRG - 1F SAF SMG - 20 MP5 - 21 MP7 - 22 MP9 - 23 TMP - 24 Baseball Bat - 25 Fire Extinguisher - 27 28 - Bowie Knife Kitchen Knife - 2A Thrower - 2B Nail File - 2C Pick Axe - 2E Canesword - 30 Syringe Death Serum - 34 Laxative - 35 Hedge Cutter - 37 Pitchfork - 38 Cello - 56 Keycard Light Control Room - 58 Toolbox - 59 Wardrobe Ticket - 5A Paper Note - 5B Brothel Pass - 5E Martini - 5F Rifle Suitcase - 60 Storage Key - 62 Kitchen Crate - 63 Elevator Keycard - 64 Office Key - 66 Beercase- 67 Hollow Bible - 68 Briefcase - 69 DNA Briefcase - 6A Diamond Briefcase - 6B Payment Briefcase - 6C Bucket Of Chicken - 6D Catering Crate - 6E Donuts - 6F Gift - 71 Rifle Suitcase - 72 Aphrodisiac - 73 Bottle Of Champagne - 75 Liquor - 77 Vintage Port. 1958 - 79 Whiskey - 7B Cake - 7C Liquor - 80 Martini - 81 Glass Of Wine - 82 Admission Paper - 84 Balloon - 85 Diamonds - 89 DNA - 8A Angel Hat - 8C Unicorn Hat - 8D Boat Key - 90 Keycard - 91 Cabin Keycard For 323 - 92 Cabin Keycard For 324 - 93 Cabin Keycard For 304 - 94 Master Keycard - 95 7Th Floor Keycard - 96 Main Building Keycard - 97 West Wing Keycard - 98 Cell Key - 99 Clinic Key - 9A Engine Room Key - 9B Helicopter Key - 9C Mansion Key - 9D Poolhouse Key - 9E Sedan Key - 9F Money - A0 Necklace With Microfilm - A1 Note Rifle - A2 Parcel Pictures - A3 Party Invitation - A4 Lounge Pass - A5 V.I.P Pass - A6 Sheik&#39;S Phone Number - A7 Photo Of Hitman - A8 Photos GOV. Son - A9 Radio - AB Santa&#39;S Sack - AC Sausage - AD Walkie Talkie - AF Camera - B0 Burger - B3 Bottle Of Beer - B5 Flammable Flask - B6 Pyro Flask - B7 Storage Key - B9 Snub Nosed - BA Stiletto - BC Pen - BD Paper - BE Dish Cloth - BF Dumb Bell - C0 Bottle Of Beer - C2 Rifle Case - C3 Photo Of Target - C4 Photo Of Target - C5 Photo Of Target - C6 Syringe Death Serum - C7 Meat Cleaver - C8 Hammer - C9 Shovel - CA Whisky - CB SLR Camera - D3 Video Tape - D5 Tray - D8 Keycard Room 701 - E0 Keycard Room 707 - E3 Paintbrush - E5 Gift Box - E7 Trash Bag - E8 Screwdriver - EB Keycard Rehab - EC Poker Cards - F4 Ratclub Keycard - F7 Keycard Room 803 - F9 Keycard Samantha - FA Universal Keycard - FB 8Th Floor Keycard - FC Keycard - FD Hendrik Schmutzs Room 707 - FE Lighter Fluid - FF</I>}
+%Credits: 47iscool
+$0063A2E0 000000??
++Standard Weapon Slot 10 {<I>Silverballer - 02 Silverballers - 03 W200 Sniper - 04 SMG Tactical - 05 M4 - 06 SP12 Shotgun - 07 Bullseye.22 - 0A Desert Eagle - 0B SLP.40 Pistol - 0C SLP.40.S - 0D Real WW1 Pistol - 0E Prop WW1 Pistol - 0F Nailer - 10 Six Shooter - 11 Snub Nosed - 12 Bull.480 - 13 Custom 1911 - 14 Air Rifle - 16 Mark III - 17 FN-2000 - 18 M14 - 19 Shotgun - 1A Sg552 - 1B Elephant Rifle - 1D Drugunov - 1E Kazo TRG - 1F SAF SMG - 20 MP5 - 21 MP7 - 22 MP9 - 23 TMP - 24 Baseball Bat - 25 Fire Extinguisher - 27 28 - Bowie Knife Kitchen Knife - 2A Thrower - 2B Nail File - 2C Pick Axe - 2E Canesword - 30 Syringe Death Serum - 34 Laxative - 35 Hedge Cutter - 37 Pitchfork - 38 Cello - 56 Keycard Light Control Room - 58 Toolbox - 59 Wardrobe Ticket - 5A Paper Note - 5B Brothel Pass - 5E Martini - 5F Rifle Suitcase - 60 Storage Key - 62 Kitchen Crate - 63 Elevator Keycard - 64 Office Key - 66 Beercase- 67 Hollow Bible - 68 Briefcase - 69 DNA Briefcase - 6A Diamond Briefcase - 6B Payment Briefcase - 6C Bucket Of Chicken - 6D Catering Crate - 6E Donuts - 6F Gift - 71 Rifle Suitcase - 72 Aphrodisiac - 73 Bottle Of Champagne - 75 Liquor - 77 Vintage Port. 1958 - 79 Whiskey - 7B Cake - 7C Liquor - 80 Martini - 81 Glass Of Wine - 82 Admission Paper - 84 Balloon - 85 Diamonds - 89 DNA - 8A Angel Hat - 8C Unicorn Hat - 8D Boat Key - 90 Keycard - 91 Cabin Keycard For 323 - 92 Cabin Keycard For 324 - 93 Cabin Keycard For 304 - 94 Master Keycard - 95 7Th Floor Keycard - 96 Main Building Keycard - 97 West Wing Keycard - 98 Cell Key - 99 Clinic Key - 9A Engine Room Key - 9B Helicopter Key - 9C Mansion Key - 9D Poolhouse Key - 9E Sedan Key - 9F Money - A0 Necklace With Microfilm - A1 Note Rifle - A2 Parcel Pictures - A3 Party Invitation - A4 Lounge Pass - A5 V.I.P Pass - A6 Sheik&#39;S Phone Number - A7 Photo Of Hitman - A8 Photos GOV. Son - A9 Radio - AB Santa&#39;S Sack - AC Sausage - AD Walkie Talkie - AF Camera - B0 Burger - B3 Bottle Of Beer - B5 Flammable Flask - B6 Pyro Flask - B7 Storage Key - B9 Snub Nosed - BA Stiletto - BC Pen - BD Paper - BE Dish Cloth - BF Dumb Bell - C0 Bottle Of Beer - C2 Rifle Case - C3 Photo Of Target - C4 Photo Of Target - C5 Photo Of Target - C6 Syringe Death Serum - C7 Meat Cleaver - C8 Hammer - C9 Shovel - CA Whisky - CB SLR Camera - D3 Video Tape - D5 Tray - D8 Keycard Room 701 - E0 Keycard Room 707 - E3 Paintbrush - E5 Gift Box - E7 Trash Bag - E8 Screwdriver - EB Keycard Rehab - EC Poker Cards - F4 Ratclub Keycard - F7 Keycard Room 803 - F9 Keycard Samantha - FA Universal Keycard - FB 8Th Floor Keycard - FC Keycard - FD Hendrik Schmutzs Room 707 - FE Lighter Fluid - FF</I>}
+%Credits: 47iscool
+$0063A300 000000??
+!!
+!!
+

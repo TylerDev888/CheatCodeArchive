@@ -1,0 +1,16 @@
+^2 = GameID: NPEB00110
+^3 = NAME: Crystal Defenders (PSN)
+^5 = APCRED: From SHAkA
+^4 = FILE: DATA-SYS
++Wave 1-999 Money
+$write at 0x000003DE:0x03E7
++999 Crystal
+$write at 0x000003E2:0x03E7
++Wave 2-999 Money
+$write at 0x00000FFA:0x03E7
++999 Crystal
+$write at 0x00000FFE:0x03E7
++Wave 3-999 Money
+$write at 0x00001C16:0x03E7
++999 Crystal
+$write at 0x00001C1A:0x03E7

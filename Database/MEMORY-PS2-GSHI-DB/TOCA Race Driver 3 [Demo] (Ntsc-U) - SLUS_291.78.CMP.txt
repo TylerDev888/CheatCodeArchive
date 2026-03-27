@@ -1,0 +1,22 @@
+^3 = NAME: TOCA Race Driver 3 [Demo] (Ntsc-U)
+^2 = GameID: SLUS-29178
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F041ED3C 0041ED3F
+!!
++Infinite Upgrade Slots
+%Credits: Codejunkies
+$2012F104 00000000
++Start On 2Nd Lap
+%Credits: Codejunkies
+$E0020001 00504614
+$D0504616 00000000
+$20504614 00000002
++Start On 3Rd Lap
+%Credits: Codejunkies
+$E0020001 00504614
+$D0504616 00000000
+$20504614 00000003
+!!
+

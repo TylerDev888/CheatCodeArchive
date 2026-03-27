@@ -1,0 +1,76 @@
+^3 = NAME: Black (Pal-Unk)
+^2 = GameID: SLES-53886
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F029BB40 0029BB43
+!!
++Black Difficulty
+%Credits: Codejunkies
+$20108D6C 24040003
++Infinite Ammo
+%Credits: Codejunkies
+$201FD268 A0455CA0
++Infinite Grenades
+%Credits: Codejunkies
+$2015524C 24020009
+$20155260 00000000
++Infinite Health
+%Credits: Codejunkies
+$200FFF00 3C014500
+$200FFF04 ACC102F8
+$200FFF08 3C014000
+$200FFF0C 0807E536
+$201F94D4 0803FFC0
++Infinite Health Kits
+%Credits: Codejunkies
+$2013CCA4 00000000
+!Level Modifier:
++Graznei Bridge
+%Credits: Codejunkies
+$201229A8 24020007
++Naszran Town
+%Credits: Codejunkies
+$201229A8 24020005
++Nazran Foundry
+%Credits: Codejunkies
+$201229A8 24020003
++Spetriniv Gulag
+%Credits: Codejunkies
+$201229A8 24020008
++Tivliz Asylum
+%Credits: Codejunkies
+$201229A8 24020004
++Treneska Border Crossing
+%Credits: Codejunkies
+$201229A8 24020001
++Veblensk City Street
+%Credits: Codejunkies
+$201229A8 24020000
++Vratska Dockyard
+%Credits: Codejunkies
+$201229A8 24020006
+!!
++Skip Fmvs
+%Credits: Codejunkies
+$20104B90 00000000
+!Speed Modifier:
++Hyper Mode(CRAW) (Press Select+Left)
+%Credits: Codejunkies
+$E101007E 005854DC
+$205A8B1C 3D888889
++Normal Game Speed(CRAW) (Press Select+Down)
+%Credits: Codejunkies
+$E10100BE 005854DC
+$205A8B1C 3D088889
++Quicker Game(CRAW) (Press Select+Right)
+%Credits: Codejunkies
+$E10100DE 005854DC
+$205A8B1C 3D488889
++Slow Motion(CRAW) (Press Select+Up)
+%Credits: Codejunkies
+$E10100EE 005854DC
+$205A8B1C 3C488889
+!!
+!!
+

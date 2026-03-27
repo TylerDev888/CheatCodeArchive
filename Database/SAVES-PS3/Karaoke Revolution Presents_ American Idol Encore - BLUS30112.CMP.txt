@@ -1,0 +1,10 @@
+^2 = GameID: BLUS30112
+^3 = NAME: Karaoke Revolution Presents: American Idol Encore
+^4 = FILE: GAMESAVE
++Update Crc32big:0 For Gamesave (required)
+(set range:0x00000C,0x025FCB)
+$set pointer:eof+1
+$set range:0x00000C,pointer
+$set [hash]:CRC32Big:0
+$set [hash]:xor:FFFFFFFF
+$write at 0x000008:[hash]

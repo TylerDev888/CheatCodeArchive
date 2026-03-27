@@ -1,0 +1,40 @@
+^2 = GameID: CUSA07823
+^3 = NAME: Borderlands 3
+^5 = APCRED: by bucanero
+^4 = FILE: profile
++Decrypt Profile (required)
+$search "BP_DefaultOakProfile_C"
+$set [size]:read(pointer+0x17,4)
+$set [size]:endian_swap
+$set [size]:[size]+0x1A
+$set range:pointer+0x1B,pointer+[size]
+(use profile xor keys)
+$DECRYPT borderlands3(0)
+^4 = FILE: *
++Decrypt Save-game
+$search "OakSaveGame"
+$set [size]:read(pointer+0x0C,4)
+$set [size]:endian_swap
+$set [size]:[size]+0x0F
+$set range:pointer+0x10,pointer+[size]
+(use save-game xor keys)
+$DECRYPT borderlands3(1)
+()
+(cheat codes go here)
+()
+^4 = FILE: profile
++Encrypt Profile (required)
+$search "BP_DefaultOakProfile_C"
+$set [size]:read(pointer+0x17,4)
+$set [size]:endian_swap
+$set [size]:[size]+0x1A
+$set range:pointer+0x1B,pointer+[size]
+$ENCRYPT borderlands3(0)
+^4 = FILE: *
++Encrypt Save-game
+$search "OakSaveGame"
+$set [size]:read(pointer+0x0C,4)
+$set [size]:endian_swap
+$set [size]:[size]+0x0F
+$set range:pointer+0x10,pointer+[size]
+$ENCRYPT borderlands3(1)

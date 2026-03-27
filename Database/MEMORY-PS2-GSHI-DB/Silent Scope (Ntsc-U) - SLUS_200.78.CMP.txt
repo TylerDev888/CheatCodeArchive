@@ -1,0 +1,49 @@
+^3 = NAME: Silent Scope (Ntsc-U)
+^2 = GameID: SLUS-20078
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01AC8F4 0000000E
++(M) Must Be On
+%Credits: Codejunkies
+$F01AC8F4 001AC8F7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00108DEB
+!!
++Always Have 1 Bullet
+%Credits: InterAct
+$102D6922 00000001
++Extra Credits
+%Credits: Code Master
+$20158EBC 24830001
++Infinite Bullets
+%Credits: Code Master
+$102D6922 00000005
++Infinite Credits
+%Credits: Code Master
+$102A1984 00000009
++Infinite Health
+%Credits: InterAct
+$102D68F8 00000192
+$102D68FA 00000192
++Infinite Health
+%Credits: Code Master
+$102D68F8 000003E7
++Infinite Time
+%Credits: InterAct
+$102D6852 00000050
++Infinite Time
+%Credits: Code Master
+$102D6852 000003E7
++Max Score
+%Credits: InterAct
+$202D68D4 05F5E0FF
++No Reload {<I>This Code Will Not Allow You To Break The B.P. Glass At The End Of The Game. The Glass Will Only Break When You Have 1 Round Left In The Clip.</I>}
+%Credits: InterAct
+$102D6922 00000007
++Quick Score Gain
+%Credits: Code Master
+$102D68D4 0000FFFF
+!!
+

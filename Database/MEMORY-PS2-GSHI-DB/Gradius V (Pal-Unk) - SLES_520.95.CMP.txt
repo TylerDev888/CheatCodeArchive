@@ -1,0 +1,25 @@
+^3 = NAME: Gradius V (Pal-Unk)
+^2 = GameID: SLES-52095
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F010EAF4 0010EAF7
+!!
++Infinite Lives Both Players
+%Credits: Codejunkies
+$20289504 00000000
++Invincible After 1 Hit
+%Credits: Codejunkies
+$202CAEA0 240203E7
++Max Score After 1 Hit
+%Credits: Codejunkies
+$2028933C 3C0355F0
++Open All Stages
+%Credits: Codejunkies
+$204A5FA4 01010101
++Start With 99 Lives
+%Credits: Codejunkies
+$203C5164 24060064
+$203C50FC 24060064
+!!
+

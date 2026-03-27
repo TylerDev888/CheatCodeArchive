@@ -1,0 +1,48 @@
+^3 = NAME: MDK 2 - Armageddon (Pal-Unk)
+^2 = GameID: SLES-50248
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0103F90 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0103F90 00103F93
+!!
+!No Damage Codes:
++Doc
+%Credits: Codejunkies
+$2012F430 0C04DA00
++Freeze Time
+%Credits: Codejunkies
+$001EFA44 00000001
++Hyde
+%Credits: Codejunkies
+$2013B890 0C04DA00
++Jetpack Never Runs Out
+%Credits: Codejunkies
+$20149C00 00000000
+$20149BA4 00000000
++Kurt
+%Credits: Codejunkies
+$2013FAB0 0C04DA00
++Max
+%Credits: Codejunkies
+$2014B2F0 00000000
++Max Has Infinite Ammo
+%Credits: Codejunkies
+$2014BBFC 00000000
++Max Has Missiles
+%Credits: Codejunkies
+$2014B8A0 00000000
++Naked Kurt
+%Credits: Codejunkies
+$001F0258 00000001
++Real Shadows
+%Credits: Codejunkies
+$001F0530 00000001
++Vector Mode
+%Credits: Codejunkies
+$001EFBF8 00000003
+!!
+!!
+

@@ -1,0 +1,21 @@
+^3 = NAME: Without Warning (Pal-Unk)
+^2 = GameID: SLES-53716
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F035D854 0035D857
+!!
++Enable FMV Viewer And Level Skip/Select In Pause Menu
+%Credits: Codejunkies
+$204A52C0 00010000
++Infinite Ammo In Gun
+%Credits: Codejunkies
+$201B79A8 00000000
++Infinite Grenades
+%Credits: Codejunkies
+$2016E224 00000000
++Infinite Magazines
+%Credits: Codejunkies
+$201B4958 00000000
+!!
+

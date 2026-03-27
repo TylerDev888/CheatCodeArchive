@@ -1,0 +1,151 @@
+^3 = NAME: Rumble Roses (Pal-Unk)
+^2 = GameID: SLES-52535
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0121D10 00121D13
+!!
+!Fun Fun Fun:
++Ghost Mode
+%Credits: Codejunkies
+$016D6D8C 00000040
++SD Mode
+%Credits: Codejunkies
+$E0070000 116D6C34
+$E0060000 116D6C36
+$616D6C34 00004000
+$00010001 000000E9
+$616D6C34 00004000
+$00010001 000000F3
+$616D6C34 00004000
+$00010001 000000FD
+!!
+!Gallery Codes:
++Aigle
+%Credits: Codejunkies
+$003E290E 00000001
++Aisha
+%Credits: Codejunkies
+$003E2918 00000001
++Anesthesia
+%Credits: Codejunkies
+$003E2916 00000001
++Becky
+%Credits: Codejunkies
+$003E2912 00000001
++Black Belt Demon
+%Credits: Codejunkies
+$003E2909 00000001
++Bloody Shadow
+%Credits: Codejunkies
+$003E290D 00000001
++Candy Cane
+%Credits: Codejunkies
+$003E2913 00000001
++Complete Gallery
+%Credits: Codejunkies
+$103E2906 00000101
+$403E2908 00040001
+$01010101 00000000
+$103E2918 00000101
++Dixie Clemets
+%Credits: Codejunkies
+$003E2911 00000001
++Dr Cutter
+%Credits: Codejunkies
+$003E2917 00000001
++Evil Rose
+%Credits: Codejunkies
+$003E290B 00000001
++Judgement
+%Credits: Codejunkies
+$003E290C 00000001
++Killer Khan
+%Credits: Codejunkies
+$003E290F 00000001
++Makoto
+%Credits: Codejunkies
+$003E2908 00000001
++Miss Spencer
+%Credits: Codejunkies
+$003E2914 00000001
++Mistress Spencer
+%Credits: Codejunkies
+$003E2915 00000001
++Noble Rose
+%Credits: Codejunkies
+$003E290A 00000001
++Reiko
+%Credits: Codejunkies
+$003E2906 00000001
++Rowdy Reiko
+%Credits: Codejunkies
+$003E2907 00000001
++Showbiz
+%Credits: Codejunkies
+$003E2919 00000001
+!!
+!Player 1 Codes:
++Humiliation Gauge Empty
+%Credits: Codejunkies
+$216D6FCC 3F800000
++Humiliation Gauge Full
+%Credits: Codejunkies
+$216D6FC8 00000019
+$216D6FCC 41A00000
+$216D6FD0 000004CF
++Infinite Lethal/Killer Moves
+%Credits: Codejunkies
+$216D6EEC 00000002
++Lethal Move Counter Always Empty
+%Credits: Codejunkies
+$216D6EF4 00000000
++Lethal Move Counter Always Full
+%Credits: Codejunkies
+$216D6EF4 00000063
++No Lethal/Killer Moves
+%Credits: Codejunkies
+$216D6EEC 00000000
+!!
+!Player 2 Codes:
++Enable All Costumes
+%Credits: Codejunkies
+$403E2920 00050001
+$FFFFFFFF 00000000
+$103E2922 0000FFFF
+$403E2924 00040001
+$FFFFFFFF 00000000
+$103E2934 0000FFFF
++Enable Characters-Exhibition Mode
+%Credits: Codejunkies
+$403E28EC 00050001
+$FF01FF01 00000000
+$103E2900 0000FF01
++Enable Characters-Story Mode
+%Credits: Codejunkies
+$103E28D2 0000FF01
+$403E28D4 00040001
+$FF01FF01 00000000
+$103E28E4 0000FF01
++Humiliation Gauge Empty
+%Credits: Codejunkies
+$2156AFCC 3F800000
++Humiliation Gauge Full
+%Credits: Codejunkies
+$2156AFC8 00000019
+$2156AFCC 41A00000
+$2156AFD0 000004CF
++Infinite Lethal/Killer Moves
+%Credits: Codejunkies
+$2156AEEC 00000002
++Lethal Move Counter Always Empty
+%Credits: Codejunkies
+$2156AEF4 00000000
++Lethal Move Counter Always Full
+%Credits: Codejunkies
+$2156AEF4 00000063
++No Lethal/Killer Moves
+%Credits: Codejunkies
+$2156AEEC 00000000
+!!
+

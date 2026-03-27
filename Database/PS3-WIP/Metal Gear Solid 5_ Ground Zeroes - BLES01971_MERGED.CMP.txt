@@ -1,0 +1,15 @@
+^2 = GameID: BLES01971
+^3 = NAME: Metal Gear Solid 5: Ground Zeroes
+^5 = APCRED: encryption/checksum by bucanero
+^4 = FILE: SAVE*
++Decrypt Save Data (required)
+$set range:0x0000,EOF+1
+$DECRYPT MGS5_TPP(0xE13943C4)
+(codes go here)
++Update Md5 Checksum (required)
+$set range:0x0010,EOF+1
+$set [hash]:MD5
+$write at 0x0000:[hash]
++Encrypt Save Data (required)
+$set range:0x0000,EOF+1
+$ENCRYPT MGS5_TPP(0xE13943C4)

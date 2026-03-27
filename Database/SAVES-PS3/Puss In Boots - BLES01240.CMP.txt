@@ -1,0 +1,10 @@
+^2 = GameID: BLES01240
+^3 = NAME: Puss In Boots
+^4 = FILE: GAMESAVE
++Update Crc32big:0 For Gamesave (required)
+(set range:0x000010,0x0001AF)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:CRC32Big:0
+$set [hash]:xor:FFFFFFFF
+$write at 0x000008:[hash]

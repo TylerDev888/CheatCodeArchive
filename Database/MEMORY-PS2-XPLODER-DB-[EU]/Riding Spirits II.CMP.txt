@@ -1,0 +1,38 @@
+^3 = NAME: Riding Spirits II
+!Masters:
++Mastercode
+%Credits: Xploder
+$90104054 0C08073A
+!!
+!Other:
++Unlimited Money
+%Credits: Xploder
+$A00C2000 3C050001
+$A00C2004 00A22821
+$A00C2008 03E00008
+$A00C200C ACA132A0
+$201226BC 0C030800
+$201226C0 2401FFFF
+!!
+!Timer Cheats:
++Enable{Must Be On For Timer Cheats}
+%Credits: Xploder
+$A00C2010 080415FA
+$A00C2014 ACA00000
++(Hold [Select] And Press [L2])
+%Credits: Xploder
+$E001FEFE 0027C0DC
+$201D6FF0 0C030804
++Restart Total Time
+%Credits: Xploder
+$E001FBFE 0027C0DC
+$201D6FF0 0C0415FA
++Reset Lap Time
+%Credits: Xploder
+$E001FDFE 0027C0DC
+$201D7068 0C030804
++Restart Lap Time
+%Credits: Xploder
+$E001F7FE 0027C0DC
+$201D7068 0C0415FA
+!!

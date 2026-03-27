@@ -1,0 +1,19 @@
+^3 = NAME: Pac Man World 2
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 002F0B17
+!!
+!Other:
++Unlimited Health
+%Credits: Xploder
+$104AF77A 000042C8
+!!
+!Maximum:
++Lives
+%Credits: Xploder
+$004AF770 00000063
++Tokens
+%Credits: Xploder
+$104AF7A0 000003E8
+!!

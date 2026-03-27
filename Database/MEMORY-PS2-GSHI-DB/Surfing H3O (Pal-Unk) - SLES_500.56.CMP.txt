@@ -1,0 +1,49 @@
+^3 = NAME: Surfing H3O (Pal-Unk)
+^2 = GameID: SLES-50056
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0101278 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0101278 0010127B
+!!
+!Continues Codes:
++Infinite Continues
+%Credits: Codejunkies
+$1024FD64 00000005
++Never Have Any Continues
+%Credits: Codejunkies
+$E0010000 3024FD64
+$1024FD64 00000000
++Never Have More Than 1 Continue
+%Credits: Codejunkies
+$E0010001 3024FD64
+$1024FD64 00000001
++Never Have More Than 2 Continues
+%Credits: Codejunkies
+$E0010002 3024FD64
+$1024FD64 00000002
++Never Have More Than 3 Continues
+%Credits: Codejunkies
+$E0010003 3024FD64
+$1024FD64 00000003
++Unlock Everything
+%Credits: Codejunkies
+$1024EB20 00000005
+!!
+!Takeoff Codes:
++Infinite Takeoffs
+%Credits: Codejunkies
+$10467664 00000003
++Never Have More Than 1 Takeoff
+%Credits: Codejunkies
+$E0010001 30467664
+$10467664 00000001
++Never Have More Than 2 Takeoffs
+%Credits: Codejunkies
+$E0010002 30467664
+$10467664 00000002
+!!
+!!
+

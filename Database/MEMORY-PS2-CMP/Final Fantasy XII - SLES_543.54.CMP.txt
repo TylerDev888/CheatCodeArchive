@@ -1,0 +1,93 @@
+^2 = GameID: SLES_543.54
+^3 = NAME: Final Fantasy XII
+!Master:
++Enable Code(MUST BE ON)
+$F02164DC 002164DF
++Enable Code(MUST BE ON)
+$9044D7E0 0C1135A0
+!!
+!Jokers:
++Joker 1
+$D056FBDC 0000[Joker:PS2]
++Joker 1
+$D056FE80 0000[Joker:PS2]
+!!
+!Misc:
++Hdl Support With R3 Fmv Unstutter:
+$003B129C 00000000
+$E001FFFB 0056FBDC
+$003B150C 00000001
+$E001FFFB 1056FBDC
+$003B150C 00000000
++Max Gil (sell Item)
+$203248B4 1000000A
++Max Lp (with License)
+$20316254 00000000
++Gain Lp 999 (after Battle)
+$202ED0AC 00000000
++Max EXP (after Battle)
+$202ED088 00000000
++Action Gauge Full
+$2030D104 AEB5070C
+$2030D108 AE150030
++Speed Mod{Press R3 (normal Speed),press R3 + R1 (fast).press R3 + L1 (super Fast)}
+$D056FBDC 0000FFFB
+$1025CA8C 000042D7
+$D056FBDC 0000F7FB
+$1025CA8C 0000424B
+$D056FBDC 0000FBFB
+$1025CA8C 000041F7
++Inf Item usage {Press R1+up to activate,Press R1+Down to deactivate
+$D056FBDC 0000F7EF
+$202F0A80 24060062
+$D056FBDC 0000F7BF
+$202F0A80 0071300A
++Chocobo Turbo Energy Infinite
+$203023E8 26040000
++Chocobo Time 999
+$20302308 3C01461C
++Gain Chain X Time
+$20316AF8 2442[Amount:03E7:HEX:BIG]
++Gain EXP X Times
+$203B60CC 0002A[EXP]
++Gain Lp X Times
+$203B6234 00031[LP]
+$203B623C 00031[LP]
++Enemies Are Disable And Immobilize{Don't Move And Attack, Press R2+up To Activate,press R2+down Deactivate But You Need To Change The Area.}
+$E003FDEF 0056FBDC
+$202F4BD0 24020060
+$202F4BD4 A2020019
+$202F4BD8 24020000
+$E003FDBF 0056FBDC
+$202F4BD0 3C023B9A
+$202F4BD4 3442CA00
+$202F4BD8 0055102A
++Super Slow Time In Mist Knack
+$203B7FF0 3C014120
+$203B8004 00000000
+!!
+!Need Testing:
++All Sky Pirate's Den{Press L3}
+$D056FBDC 0000FFFD
+$2055437C 3FFFFFFF
++All Skills{Press Select-You Need To Have At Least One Skill In Your Inventory}
+$D056FBDC 0000FFFE
+$2054F9B4 FFFFFFFF
+!!
+^6 = MODS:
+[EXP]
+Value>Name
+840	2 times
+880	4 times 
+8C0	8 times 
+900	16 times
+940	32 times
+[/EXP]
+[LP]
+Value>Name
+040	2 times 
+080	4 times 
+0C0	8 times 
+100	16 times 
+140	32 times
+[/LP]

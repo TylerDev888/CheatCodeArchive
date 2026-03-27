@@ -1,0 +1,58 @@
+^3 = NAME: Run Like Hell - Hunt Or Be Hunted (Ntsc-U)
+^2 = GameID: SLUS-20037
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01ADFB8 00280A6F
++(M) Must Be On
+%Credits: Codejunkies
+$F0280A6C 00280A6F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00280A6F
+!!
+!Ammo Codes:
++Ammo Increase If Used
+%Credits: Codejunkies
+$20148488 00431021
++Have Infinite Armor
+%Credits: Codejunkies
+$20173B54 2402000A
+$20173B5C AC620224
++Infinite Ammo
+%Credits: Codejunkies
+$20148488 00000000
++Max Weapon Statistics
+%Credits: Codejunkies
+$20178A14 24820020
+$20178A18 AEA2002C
+$20178CC0 AEA20048
+!!
++Infinite Ammo
+%Credits: InterAct
+$2014848C 00000000
++Infinite Health
+%Credits: InterAct
+$2013F128 00000000
++Infinite Health
+%Credits: Code Master
+$501D56F5 F44A2FB5
+$D214CBBA 10BEF522
+$56E5C8C2 AC0DA99A
+$E8CF8B4B 9BCF718B
+$F895DCFE F40D4000
++View Weapon In Inventory For Max Burst
+%Credits: Code Master
+$20178CC0 AEA20048
++View Weapon In Inventory For Max Clips
+%Credits: Code Master
+$200C0230 8E820090
+$200C0234 03E00008
+$200C0238 AEA20044
+$20178B78 0C03008C
++View Weapon In Inventory For Max Damage
+%Credits: Code Master
+$20178A14 24820020
+$20178A18 AEA2002C
+!!
+

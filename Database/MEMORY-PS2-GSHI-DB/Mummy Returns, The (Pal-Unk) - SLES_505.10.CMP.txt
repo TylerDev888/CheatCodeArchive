@@ -1,0 +1,50 @@
+^3 = NAME: Mummy Returns, The (Pal-Unk)
+^2 = GameID: SLES-50510
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0215F10 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0215F10 00215F13
+!!
++Collision Debug
+%Credits: InterAct
+$20B458D4 64DA29D4
++Infinite Health (1St Life Only -- Imhotep)
+%Credits: InterAct
+$30170715 64DA6B3F
+!Size Codes:
++Big Rick
+%Credits: Codejunkies
+$209DB930 3FF00000
+$209DB934 3FF00000
+$209DB938 3FF00000
++Collision Debug
+%Credits: Codejunkies
+$002CAD2D 00000001
++Mini Rick
+%Credits: Codejunkies
+$209DB930 3E800000
+$209DB934 3E800000
+$209DB938 3E800000
++Show Lighting
+%Credits: Codejunkies
+$002CAD28 00000001
++Show Player Debug
+%Credits: Codejunkies
+$002CAD38 00000001
+!!
+!Works For 1st Life Only:
++Infinite Health
+%Credits: Codejunkies
+$109DB75E 000042CE
++Infinite Health
+%Credits: Codejunkies
+$10985A6E 000042CE
++Infinite Pistol Bullets
+%Credits: Codejunkies
+$109DBE00 00000063
+!!
+!!
+

@@ -1,0 +1,528 @@
+^3 = NAME: Alter Echo (NTSC-U)
+^2 = GameID: SLUS-20465
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F0157DC4 00157DC7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00157DC7
+!!
++Buy New Abilities With No Plasma
+%Credits: Code Master
+$1029D41E 00001000
++Buying New Abilities Cost $0
+%Credits: Code Master
+$2029D270 00000000
++Disable FMV
+%Credits: Code Master
+$202B47D0 24020001
+!Have Move Codes:
++Armageddon
+%Credits: Codejunkies
+$10848680 00000002
++Block
+%Credits: Codejunkies
+$108485E0 00000002
++Boomerang
+%Credits: Codejunkies
+$10848630 00000002
++Bullet Absorb
+%Credits: Codejunkies
+$10848610 00000002
++Buzzsaw
+%Credits: Codejunkies
+$10848640 00000002
++Darting Slash
+%Credits: Codejunkies
+$108485FC 00000002
++Durability
+%Credits: Codejunkies
+$10848660 00000002
++Endurance
+%Credits: Codejunkies
+$1084866C 00000002
++Energy Gun
+%Credits: Codejunkies
+$10848620 00000002
++Fatal Flurry
+%Credits: Codejunkies
+$10848604 00000002
++Flashing Sword
+%Credits: Codejunkies
+$108485D4 00000002
++Gn Rapid Fire
+%Credits: Codejunkies
+$10848624 00000002
++Gn Rocket
+%Credits: Codejunkies
+$10848628 00000002
++Grenade
+%Credits: Codejunkies
+$10848608 00000002
++Gun Cycle
+%Credits: Codejunkies
+$10848694 00000002
++Gun Smash
+%Credits: Codejunkies
+$1084860C 00000002
++Hammer Smash
+%Credits: Codejunkies
+$10848600 00000002
++Hold Bomb
+%Credits: Codejunkies
+$10848618 00000002
++Hold Rocket
+%Credits: Codejunkies
+$1084861C 00000002
++Invisibility
+%Credits: Codejunkies
+$10848648 00000002
++Juggle Slash
+%Credits: Codejunkies
+$108485DC 00000002
++Jump Attack
+%Credits: Codejunkies
+$108485E8 00000002
++Longevity
+%Credits: Codejunkies
+$10848668 00000002
++Mad Spark
+%Credits: Codejunkies
+$10848678 00000002
++Morph Buzzsaw
+%Credits: Codejunkies
+$10848658 00000002
++Morph Hold
+%Credits: Codejunkies
+$10848614 00000002
++Morph Juggle
+%Credits: Codejunkies
+$10848634 00000002
++Morph Lunge
+%Credits: Codejunkies
+$10848654 00000002
++Morph Push
+%Credits: Codejunkies
+$108485F0 00000002
++Morph Stab
+%Credits: Codejunkies
+$108485F4 00000002
++Morph Stomp
+%Credits: Codejunkies
+$10848638 00000002
++Morph Throw
+%Credits: Codejunkies
+$108485E4 00000002
++Neck Crush
+%Credits: Codejunkies
+$1084865C 00000002
++Plast Bullet
+%Credits: Codejunkies
+$10848684 00000002
++Plast Sword
+%Credits: Codejunkies
+$10848674 00000002
++Pounce
+%Credits: Codejunkies
+$10848650 00000002
++Pounce Slap
+%Credits: Codejunkies
+$1084864C 00000002
++Razor Sword
+%Credits: Codejunkies
+$108485D8 00000002
++Roll Rush
+%Credits: Codejunkies
+$108485EC 00000002
++Scorcher
+%Credits: Codejunkies
+$1084868C 00000002
++Seeker
+%Credits: Codejunkies
+$10848688 00000002
++Slap Combo
+%Credits: Codejunkies
+$1084863C 00000002
++Soulfrost
+%Credits: Codejunkies
+$1084867C 00000002
++Storm Shot
+%Credits: Codejunkies
+$10848690 00000002
++Stun Thrust
+%Credits: Codejunkies
+$108485F8 00000002
++Time Warp
+%Credits: Codejunkies
+$10848670 00000002
++Tongue Grab
+%Credits: Codejunkies
+$10848644 00000002
++Torture Shot
+%Credits: Codejunkies
+$1084862C 00000002
++Vitality
+%Credits: Codejunkies
+$10848664 00000002
+!!
+!Have New Ability Codes:
++All Abilities
+%Credits: Code Master
+$408485D4 00310001
+$00000002 00000000
++Armageddon
+%Credits: Code Master
+$20848680 00000002
++Block
+%Credits: Code Master
+$208485E0 00000002
++Boomerang
+%Credits: Code Master
+$20848630 00000002
++Bullet Absorb
+%Credits: Code Master
+$20848610 00000002
++Buzzsaw
+%Credits: Code Master
+$20848640 00000002
++Darting Slash
+%Credits: Code Master
+$208485FC 00000002
++Durability
+%Credits: Code Master
+$20848660 00000002
++Endurance
+%Credits: Code Master
+$2084866C 00000002
++Energy Gun
+%Credits: Code Master
+$20848620 00000002
++Fatal Flurry
+%Credits: Code Master
+$20848604 00000002
++Flashing Sword
+%Credits: Code Master
+$208485D4 00000002
++GN Rapid Fire
+%Credits: Code Master
+$20848624 00000002
++GN Rocket
+%Credits: Code Master
+$20848628 00000002
++Grenade
+%Credits: Code Master
+$20848608 00000002
++Gun Cycle
+%Credits: Code Master
+$20848694 00000002
++Gun Smash
+%Credits: Code Master
+$2084860C 00000002
++Hammer Smash
+%Credits: Code Master
+$20848600 00000002
++Hold Bomb
+%Credits: Code Master
+$20848618 00000002
++Hold Rocket
+%Credits: Code Master
+$2084861C 00000002
++Invisibility
+%Credits: Code Master
+$20848648 00000002
++Juggle Slash
+%Credits: Code Master
+$208485DC 00000002
++Jump Attack
+%Credits: Code Master
+$208485E8 00000002
++Longevity
+%Credits: Code Master
+$20848668 00000002
++Mad Spark
+%Credits: Code Master
+$20848678 00000002
++Morph Buzzsaw
+%Credits: Code Master
+$20848658 00000002
++Morph Hold
+%Credits: Code Master
+$20848614 00000002
++Morph Juggle
+%Credits: Code Master
+$20848634 00000002
++Morph Lunge
+%Credits: Code Master
+$20848654 00000002
++Morph Push
+%Credits: Code Master
+$208485F0 00000002
++Morph Stab
+%Credits: Code Master
+$208485F4 00000002
++Morph Stomp
+%Credits: Code Master
+$20848638 00000002
++Morph Throw
+%Credits: Code Master
+$208485E4 00000002
++Neck Crush
+%Credits: Code Master
+$2084865C 00000002
++Plast Bullet
+%Credits: Code Master
+$20848684 00000002
++Plast Sword
+%Credits: Code Master
+$20848674 00000002
++Pounce
+%Credits: Code Master
+$20848650 00000002
++Pounce Slap
+%Credits: Code Master
+$2084864C 00000002
++Razor Sword
+%Credits: Code Master
+$208485D8 00000002
++Roll Rush
+%Credits: Code Master
+$208485EC 00000002
++Scorcher
+%Credits: Code Master
+$2084868C 00000002
++Seeker
+%Credits: Code Master
+$20848688 00000002
++Slap Combo
+%Credits: Code Master
+$2084863C 00000002
++Soulfrost
+%Credits: Code Master
+$2084867C 00000002
++Storm Shot
+%Credits: Code Master
+$20848690 00000002
++Stun Thrust
+%Credits: Code Master
+$208485F8 00000002
++Time Warp
+%Credits: Code Master
+$20848670 00000002
++Tongue Grab
+%Credits: Code Master
+$20848644 00000002
++Torture Shot
+%Credits: Code Master
+$2084862C 00000002
++Vitality
+%Credits: Code Master
+$20848664 00000002
+!!
++Infinite Double Jumps
+%Credits: Code Master
+$20211C90 24030001
++Infinite Health
+%Credits: MadCatz
+$200C0000 C44100BC
+$200C0004 46000806
+$200C0008 03E00008
+$200C000C E44100B8
+$2011BCB0 0C030000
++Infinite Health
+%Credits: Code Master
+$200C0220 0806192A
+$200C0224 E44100B8
+$2011BCC0 0C030088
++Infinite Plasma
+%Credits: MadCatz
+$200C0010 3C024B18
+$200C0014 3442967F
+$200C0018 AE220250
+$200C001C 3C020098
+$200C0020 3442967F
+$200C0024 03E00008
+$200C0028 AE22024C
+$2011740C 0C030004
++Infinite Polysuit Energy
+%Credits: MadCatz
+$2020A654 AE010038
++Infinite Special Attacks
+%Credits: Code Master
+$20210690 00000000
++Infinite Time Dilation
+%Credits: MadCatz
+$2011BCF8 3C01003C
+$2011BD00 20020090
+$2011BD10 AC225184
+!Level Select Codes:
++Brain: Gherran
+%Credits: Codejunkies
+$103C51F4 0000001C
++Brain: Kess
+%Credits: Codejunkies
+$103C51F4 0000001F
++Brain: Master
+%Credits: Codejunkies
+$103C51F4 00000020
++Brain: Plea
+%Credits: Codejunkies
+$103C51F4 0000001A
++Brain: Toxic 1
+%Credits: Codejunkies
+$103C51F4 0000001D
++Brain: Toxic 2
+%Credits: Codejunkies
+$103C51F4 0000001E
++Brain: Underneath
+%Credits: Codejunkies
+$103C51F4 0000001B
++Breach: Approach
+%Credits: Codejunkies
+$103C51F4 00000027
++Breach: Barriers 1
+%Credits: Codejunkies
+$103C51F4 00000025
++Breach: Barriers 2
+%Credits: Codejunkies
+$103C51F4 00000026
++Breach: Elevator
+%Credits: Codejunkies
+$103C51F4 00000028
++Breach: Landing
+%Credits: Codejunkies
+$103C51F4 00000024
++Breach: Master
+%Credits: Codejunkies
+$103C51F4 0000002B
++Breach: Shield 1
+%Credits: Codejunkies
+$103C51F4 00000029
++Breach: Shield 2
+%Credits: Codejunkies
+$103C51F4 0000002A
++Citadel: Alone
+%Credits: Codejunkies
+$103C51F4 0000002C
++Citadel: Ascent
+%Credits: Codejunkies
+$103C51F4 0000002D
++Citadel: Assault
+%Credits: Codejunkies
+$103C51F4 0000002E
++Citadel: Ending
+%Credits: Codejunkies
+$103C51F4 00000032
++Citadel: Guardian
+%Credits: Codejunkies
+$103C51F4 00000030
++Citadel: Inside
+%Credits: Codejunkies
+$103C51F4 0000002F
++Citadel: Paavo
+%Credits: Codejunkies
+$103C51F4 00000031
++Hunted: Gunship
+%Credits: Codejunkies
+$103C51F4 0000000A
++Hunted: Master
+%Credits: Codejunkies
+$103C51F4 0000000D
++Hunted: Pursuit
+%Credits: Codejunkies
+$103C51F4 0000000B
++Hunted: Reunion
+%Credits: Codejunkies
+$103C51F4 00000009
++Hunted: Showdown
+%Credits: Codejunkies
+$103C51F4 0000000C
++Power: Kess
+%Credits: Codejunkies
+$103C51F4 0000000F
++Power: Master
+%Credits: Codejunkies
+$103C51F4 00000010
++Power: Transmit
+%Credits: Codejunkies
+$103C51F4 0000000E
++Rebirth: Alive
+%Credits: Codejunkies
+$103C51F4 00000000
++Rebirth: Echo
+%Credits: Codejunkies
+$103C51F4 00000001
++Rebirth: Gunplay
+%Credits: Codejunkies
+$103C51F4 00000002
++Rebirth: Master
+%Credits: Codejunkies
+$103C51F4 00000005
++Rebirth: Stealth
+%Credits: Codejunkies
+$103C51F4 00000003
++Rebirth: Time
+%Credits: Codejunkies
+$103C51F4 00000004
++Rescue: Arana
+%Credits: Codejunkies
+$103C51F4 00000021
++Rescue: Forcefield
+%Credits: Codejunkies
+$103C51F4 00000022
++Rescue: Sacrifice
+%Credits: Codejunkies
+$103C51F4 00000023
++Spaceport: Plans 1
+%Credits: Codejunkies
+$103C51F4 00000017
++Spaceport: Plans 2
+%Credits: Codejunkies
+$103C51F4 00000018
++Spaceport: Shuttle
+%Credits: Codejunkies
+$103C51F4 00000019
++Surface: Arana
+%Credits: Codejunkies
+$103C51F4 00000007
++Surface: Master
+%Credits: Codejunkies
+$103C51F4 00000008
++Surface: Search
+%Credits: Codejunkies
+$103C51F4 00000006
++Transit: Ambush
+%Credits: Codejunkies
+$103C51F4 00000012
++Transit: Cooperation
+%Credits: Codejunkies
+$103C51F4 00000015
++Transit: Master
+%Credits: Codejunkies
+$103C51F4 00000016
++Transit: Obstacles
+%Credits: Codejunkies
+$103C51F4 00000014
++Transit: Seedlings
+%Credits: Codejunkies
+$103C51F4 00000013
++Transit: Stome
+%Credits: Codejunkies
+$103C51F4 00000011
+!!
++Load Save For Level Modifier
+%Credits: Code Master
+$203C51F4 000000??
++Max Plasm
+%Credits: Code Master
+$2034E39C 05F5E0FF
+$2034E3A0 4CBEBC1F
+$203C51EC 05F5E0FF
++Max Plasm Score
+%Credits: Codejunkies
+$203C51EC 0098967F
++Quick Plasm Gain
+%Credits: Code Master
+$1034E39C 0000FFFF
+!!
+

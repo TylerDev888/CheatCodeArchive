@@ -1,0 +1,15 @@
+^3 = NAME: Lilie No Atelier Plus - Salburg No Renkinjutsushi 3 (Ntsc-J)
+^2 = GameID: SLPM-65116
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9026BFD8 0C09AF9E
+!!
++Hold Start Button When Opening Movie Is Playing For Debug Menu
+%Credits: punk7890
+$D08BEF90 0000FFF7
+$201E20EC 08097A2C
+$D08BEF90 0000FFFF
+$201E20EC 080789FA
+!!
+

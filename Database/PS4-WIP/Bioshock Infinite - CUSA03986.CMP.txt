@@ -1,0 +1,13 @@
+^2 = GameID: CUSA03986
+^3 = NAME: Bioshock Infinite
+^5 = APCRED: source: xdgmods
+(Automated & simplified file by @officialahmed0)
+^4 = FILE: *
+(Untested - Make sure to backup your save data first)
++God Mode
+$80020004 B28125C1
+$28000032 7FFFFFFF
+$28000036 7FFFFFFF
+$2800003A 7FFFFFFF
+$2800003E 7FFFFFFF
+(Credits to @Dynamite#0001)

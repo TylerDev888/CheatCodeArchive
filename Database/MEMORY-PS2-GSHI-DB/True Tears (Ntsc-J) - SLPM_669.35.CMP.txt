@@ -1,0 +1,17 @@
+^3 = NAME: True Tears (Ntsc-J)
+^2 = GameID: SLPM-66935
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9014F060 0C053BC0
+!!
++Enable Event Select Menu [View Note] {<I>While At The Main Menu, Press L3 + R3 Then Select The Menu Option アルバム (Album).</I>}
+%Credits: punk7890
+$D0160202 0000FFF9
+$2047F854 706D756A
+$D0160202 0000FFF9
+$2047F858 6265645F
+$D0160202 0000FFF9
+$2047F85C 00006775
+!!
+

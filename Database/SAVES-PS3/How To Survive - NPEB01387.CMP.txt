@@ -1,0 +1,12 @@
+^2 = GameID: NPEB01387
+^3 = NAME: How to Survive (PSN)
+^5 = APCRED: From SHAkA
+^4 = FILE: ABBY_DAT
++Abby Max Xp
+$write at 0x0000000D:0x98967F00
+^4 = FILE: JACK_DAT
++Jack Max Xp
+$write at 0x0000000D:0x98967F00
+^4 = FILE: KENJ_DAT
++Kenj Max Xp
+$write at 0x0000000D:0x98967F00

@@ -1,0 +1,32 @@
+^3 = NAME: Off-Road Wide Open (Pal-Unk)
+^2 = GameID: SLES-50232
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0100268 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0100268 0010026B
+!!
++Constant 4 Retries
+%Credits: Codejunkies
+$102E3710 00000004
++Constant 4 Retry's
+%Credits: Codejunkies
+$30B1E2BB 64DA29D5
++Division Standings 99 Points
+%Credits: InterAct
+$30B12BD7 64DA29B6
++Have 99 Points Division Standings
+%Credits: Codejunkies
+$102E7E2C 00000063
++Pots Of Cash
+%Credits: InterAct
+$30B115FB 64DA28EA
+$30B115F9 64DA29EA
++Pots Of Cash
+%Credits: Codejunkies
+$102E6850 0000FFFF
+$102E6852 000000FF
+!!
+

@@ -1,0 +1,233 @@
+^3 = NAME: Urbz, The - Sims In The City (Ntsc-U)
+^2 = GameID: SLUS-21066
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F042C7A4 0042C7A7
++Enable Code (Must Be On)
+%Credits: Code Master
+$9042C85C 0C0F9638
++[M] Must Be On
+%Credits: MadCatz
+$90416048 0C10B1CE
+!!
++Infinite Money
+%Credits: MadCatz
+$200C2020 3C02000F
+$200C2024 3442423F
+$200C2028 03E00008
+$200C202C ACC2007C
+$2027DB54 08030808
++Max All Needs Full (Green)
+%Credits: MadCatz
+$200C2000 3C1B42C8
+$200C2004 449B0000
+$200C2008 03E00008
+$200C200C E48000A8
+$202629D8 00000000
+$202629DC 08030800
++Max All Needs Full (Green) {<I>Press R2 To Activate, And Press R1 Before Talking To People.</I>}
+%Credits: MadCatz
+$200C2000 3C1B42C8
+$200C2004 449B0000
+$200C2008 03E00008
+$200C200C E48000A8
+$E002FDFF 018D4A42
+$202629D8 00000000
+$202629DC 08030800
+$E002F7FF 018D4A42
+$202629D8 03E00008
+$202629DC C48000A8
+!Patch:
++60 FPS
+%Credits: Josh_7774
+$203AD050 28820001
+!!
++Super Urb (Press L2 While In-Game) {<I>This Also Unlocks All Areas!</I>}
+%Credits: MadCatz
+$E003FEFF 018D4A42
+$202004B0 34020064
+$202004B4 A602001C
+$202004B8 0C080052
++Swim Naked
+%Credits: Codejunkies
+$20478070 656B616E
+$20478074 00000064
+$00478078 00000000
+$20478060 656B616E
+$20478064 00000064
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Always Max Urb's Needs
+%Credits: Code Master
+$200C0230 3C0142C8
+$200C0234 AC410000
+$200C0238 54E00001
+$200C023C 27FF0014
+$200C0240 03E00008
+$200C0244 C4440000
+$20262B18 0C03008C
++Change Formal Wear To Become Nude
+%Credits: Code Master
+$20478120 001895EC
++Disable 3D Wall Fade
+%Credits: Code Master
+$204C5248 00000000
++Disable All Objects Moveable
+%Credits: Code Master
+$204C52A0 00000000
++Disable All Player Cheats
+%Credits: Code Master
+$204C52C0 00000000
++Disable Display Anim Names
+%Credits: Code Master
+$204C5238 00000000
++Disable Display Mem Usage
+%Credits: Code Master
+$204C523C 00000000
++Disable Display Motive Values
+%Credits: Code Master
+$204C5258 00000000
++Disable Display Performance Metrics
+%Credits: Code Master
+$204C524C 00000000
++Disable Display Text Boundaries
+%Credits: Code Master
+$204C5250 00000000
++Disable Flash Bounding Boxes
+%Credits: Code Master
+$204C5278 00000000
++Disable Free Items
+%Credits: Code Master
+$204C5288 00000000
++Disable God Mode
+%Credits: Code Master
+$204C52BC 00000000
++Disable New Player Ctrls
+%Credits: Code Master
+$204C5244 00000000
++Disable Object Catalog (All Objects)
+%Credits: Code Master
+$204C528C 00000000
++Disable Object Highlighting
+%Credits: Code Master
+$204C5260 00000001
++Disable Player Inventory Requirements
+%Credits: Code Master
+$204C52B0 00000001
++Disable Unlock All Shopping Items
+%Credits: Code Master
+$204C52A8 00000000
++Disable Unlock All XAM Skins & Ringtones
+%Credits: Code Master
+$204C5290 00000000
++Do Creative Skill In The Nude
+%Credits: Code Master
+$20478158 001895EC
++Do Everything In The Nude {<I>You Have To Change Your Clothes To Do An Event Before You Become Nude.</I>}
+%Credits: Code Master
+$90971DB4 86578019
++Do Mental Skill In The Nude
+%Credits: Code Master
+$2047815C 001895EC
++Enable 3D Wall Fade
+%Credits: Code Master
+$204C5248 00000001
++Enable All Objects Moveable
+%Credits: Code Master
+$204C52A0 00000001
++Enable All Player Cheats
+%Credits: Code Master
+$204C52C0 00000001
++Enable Display Anim Names
+%Credits: Code Master
+$204C5238 00000001
++Enable Display Mem Usage
+%Credits: Code Master
+$204C523C 00000001
++Enable Display Motive Values
+%Credits: Code Master
+$204C5258 00000001
++Enable Display Performance Metrics
+%Credits: Code Master
+$204C524C 00000001
++Enable Display Text Boundaries
+%Credits: Code Master
+$204C5250 00000001
++Enable Flash Bounding Boxes
+%Credits: Code Master
+$204C5278 00000001
++Enable Free Items
+%Credits: Code Master
+$204C5288 00000001
++Enable God Mode
+%Credits: Code Master
+$204C52BC 00000001
++Enable New Player Ctrls
+%Credits: Code Master
+$204C5244 00000001
++Enable Object Catalog (All Objects)
+%Credits: Code Master
+$204C528C 00000001
++Enable Object Highlighting
+%Credits: Code Master
+$204C5260 00000000
++Enable Player Inventory Requirements
+%Credits: Code Master
+$204C52B0 00000000
++Enable Unlock All Shopping Items
+%Credits: Code Master
+$204C52A8 00000001
++Enable Unlock All XAM Skins & Ringtones
+%Credits: Code Master
+$204C5290 00000001
++Max Money
+%Credits: Code Master
+$200C0220 3C03000F
+$200C0224 3463423F
+$200C0228 0809F6D6
+$200C022C 00C0202D
+$2027DB50 08030088
+$2027DB58 AC830074
++Max Reputation
+%Credits: Code Master
+$20200358 00000000
++Money Never Decreases
+%Credits: Code Master
+$2027D15C 00000000
++P1 Hold L3 To Complete Reputation Goal
+%Credits: Code Master
+$D18D4A42 0000FFFD
+$20200358 00000000
+$D18D4A42 0000FFFF
+$20200358 14600003
++Sleep In The Nude
+%Credits: Code Master
+$20478124 001895EC
++Swim In The Nude
+%Credits: Code Master
+$20478118 001895EC
++Urb's Bladder Meter Needs Never Decrease
+%Credits: Code Master
+$201F5B00 00000000
+$201F5C40 00000000
++Urb's Energy Meter Never Decreases
+%Credits: Code Master
+$201F5AC8 00000000
++Urb's Fun Meter Never Decreases
+%Credits: Code Master
+$201F5C38 00000000
++Urb's Hunger Meter Never Decreases
+%Credits: Code Master
+$201F5B78 00000000
++Urb's Hygiene Meter Never Decreases
+%Credits: Code Master
+$201F5C3C 00000000
++Use Money Once For Max Money
+%Credits: Code Master
+$2027D158 00000000
++Workout In The Nude
+%Credits: Code Master
+$2047812C 001895EC
+!!
+!!
+

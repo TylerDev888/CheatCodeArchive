@@ -1,0 +1,44 @@
+^3 = NAME: Bard's Tale (Pal-Unk)
+^2 = GameID: SLES-53154
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01629DC 001629DF
+!!
++9999 Adderstones
+%Credits: Codejunkies
+$105FDA3A 0000270F
++9999 Silver
+%Credits: Codejunkies
+$105FD98C 0000270F
++All Talents
+%Credits: Codejunkies
+$205FDBE4 FFFFFFFF
++All Tunes
+%Credits: Codejunkies
+$205FDBE8 FFFFFFFF
+!Allocation Points Codes:
++Start With 25 Points
+%Credits: Codejunkies
+$2019BDF4 24030019
++Start With 50 Points
+%Credits: Codejunkies
+$2019BDF4 24030032
++Start With 100 Points
+%Credits: Codejunkies
+$2019BDF4 24030064
+!!
++Debug Menu (Press L3)
+%Credits: Codejunkies
+$D063F9C2 0000FFFD
+$205FDF60 00000001
++Infinite Health
+%Credits: Codejunkies
+$201C4A18 E4800068
++Quick Level Up
+%Credits: Codejunkies
+$405FD97C 00070001
+$3E583E58 00000000
+$105FD998 00003E58
+!!
+

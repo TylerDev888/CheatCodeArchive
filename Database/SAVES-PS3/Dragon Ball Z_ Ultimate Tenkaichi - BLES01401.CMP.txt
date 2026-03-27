@@ -1,0 +1,11 @@
+^2 = GameID: BLES01401
+^3 = NAME: Dragon Ball Z: Ultimate Tenkaichi
+^5 = APCRED: by bucanero
+^4 = FILE: SYS-DATA
++Update Checksum For Sys-data (required)
+$set pointer:eof+1
+$set [csum]:0
+$set [csum]:wadd_le(0x0008,pointer)
+$write at 0x0004:[csum]
+$write at 0x0001:[csum]
+$write at 0x0004:0x000000

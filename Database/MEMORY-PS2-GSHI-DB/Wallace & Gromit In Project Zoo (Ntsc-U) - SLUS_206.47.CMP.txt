@@ -1,0 +1,99 @@
+^3 = NAME: Wallace & Gromit In Project Zoo (Ntsc-U)
+^2 = GameID: SLUS-20647
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0468034 00468037
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00468037
+!!
+!Debug Codes:
++Color Bar
+%Credits: Codejunkies
+$2058FFA8 00000001
++Display Debug Behavior
+%Credits: Codejunkies
+$20587750 00000001
++Display Debug Text
+%Credits: Codejunkies
+$2058869C 00000001
++Dumb Blue Thingies
+%Credits: Codejunkies
+$20587758 00000001
++Turn Off Heat Haze Effect
+%Credits: Codejunkies
+$2058ACC0 00000000
+!!
+!This Game Requires A Code Breaker PS2 V7.0 or Higher!:
++Access All Extras
+%Credits: Code Master
+$200C0220 03E00008
+$200C0224 A482013E
+$202B3660 08030088
+$202B3664 2402FFFF
++Can Fire Weapons With No Ammo
+%Credits: Code Master
+$1034BB12 00001000
++Disable FMV
+%Credits: Code Master
+$2046C000 24020001
++Disable Occlusion
+%Credits: Code Master
+$2058E7D0 00000000
++Disable Reverb
+%Credits: Code Master
+$2058E7CC 00000000
++Extra Ammo
+%Credits: Code Master
+$1034BB38 00000001
++Have Most Weapons
+%Credits: Code Master
+$20358B90 24050001
++Infinite Ammo
+%Credits: Code Master
+$2034BB40 00000000
++Infinite Health
+%Credits: Code Master
+$200C0230 24010008
+$200C0234 08081694
+$200C0238 AC410EB4
+$20205770 0C03008C
++Nuts & Bolts Worth 2
+%Credits: Code Master
+$1021A534 00000002
+$1021A5A8 00000002
++Nuts & Bolts Worth 5
+%Credits: Code Master
+$1021A534 00000005
+$1021A5A8 00000005
++Nuts & Bolts Worth 10
+%Credits: Code Master
+$1021A534 0000000A
+$1021A5A8 0000000A
++Nuts & Bolts Worth 20
+%Credits: Code Master
+$1021A534 00000014
+$1021A5A8 00000014
++Nuts & Bolts Worth 50
+%Credits: Code Master
+$1021A534 00000032
+$1021A5A8 00000032
++Nuts & Bolts Worth 100
+%Credits: Code Master
+$1021A534 00000064
+$1021A5A8 00000064
++Pickup 1 Nut & Bolt For Max Quantity
+%Credits: Code Master
+$2021A534 240203E7
+$2021A5A8 240303E7
++Use Ammo Once For Max Ammo
+%Credits: Code Master
+$2034BB38 24020063
+!!
++Unlock All Extras
+%Credits: Codejunkies
+$11400CEE 00002FFF
+$11400CE6 00002FFF
+!!
+

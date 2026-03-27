@@ -1,0 +1,124 @@
+^3 = NAME: MTX Mototrax (Ntsc-U)
+^2 = GameID: SLUS-20399
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F02C3088 002C308B
+$40347CA4 000D0001
+$00000000 00000000
+$20395378 080D1F29
+$20347CD0 080E54DF
+$20347CD4 8E020060
++Enable Code (Must Be On)
+%Credits: Code Master
+$F02C3000 0039535F
+!!
++AR MAX Below 3.14 Fix {<I>You MUST Set This Code ON For The Game To Boot On Version Of AR Max Prior To 3.14.</I>}
+%Credits: Codejunkies
+$2039B180 3C03200F
+$2039B188 8C65FFF8
+$2039B18C 24040079
+$2039B190 24030074
+$2039B194 0000000C
+!Freestyle Mode Codes:
++Max Score
+%Credits: Code Master
+$209B8534 05F5E0FF
++P1 Press L1+Select To Restart Timer
+%Credits: Code Master
+$D0AC4F00 0000FEFE
+$20246E98 AE030054
++P1 Press L1+Select To Stop Timer
+%Credits: Code Master
+$D0AC4F00 0000FBFE
+$20246E98 00000000
++Quick Score Gain
+%Credits: Code Master
+$109B8534 0000FFFF
+!!
++Freeze Timer (Race)
+%Credits: Codejunkies
+$20301E48 00000000
++Max MTX (Free Ride)
+%Credits: Codejunkies
+$20347CA4 3C01000E
+$20347CA8 3C02007B
+$20347CAC AC41BA88
++Max Score (Freestyle)
+%Credits: Codejunkies
+$20347CB0 3C01000E
+$20347CB4 3C02009C
+$20347CB8 AC418534
++No Opponent Races
+%Credits: Codejunkies
+$10305A48 00000002
+!Race Mode Codes:
++Always Low Lap Timer
+%Credits: Code Master
+$20301E4C AC400000
++Always Only 1 Opponent
+%Credits: Code Master
+$20305A4C 00000000
+$10305A54 00000002
++Always Only 2 Opponents
+%Credits: Code Master
+$20305A4C 00000000
+$10305A54 00000003
++Always Only 3 Opponents
+%Credits: Code Master
+$20305A4C 00000000
+$10305A54 00000004
++Always Only 4 Opponents
+%Credits: Code Master
+$20305A4C 00000000
+$10305A54 00000005
++Always Only 5 Opponents
+%Credits: Code Master
+$20305A4C 00000000
+$10305A54 00000006
++Always Only 6 Opponents
+%Credits: Code Master
+$20305A4C 00000000
+$10305A54 00000007
++Always Only 7 Opponents
+%Credits: Code Master
+$20305A4C 00000000
+$10305A54 00000008
++No Opponents
+%Credits: Code Master
+$20305A4C 00000000
++Only Race 1 Lap
+%Credits: Code Master
+$20301E1C AC820034
+!!
++Spider Mode (High Jumps)
+%Credits: Codejunkies
+$20117838 3C014180
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Constant Nosedive
+%Credits: Code Master
+$10117830 00003800
++Constant Wheelie Mode
+%Credits: Code Master
+$10117830 000038A8
++Disable Vsync
+%Credits: Code Master
+$203C1944 00000000
++Max MXTP (Free Ride Mode)
+%Credits: Code Master
+$207ABA88 000F423F
++Stretch Armstrong
+%Credits: Code Master
+$10117838 00004180
++Stretched Character
+%Credits: Code Master
+$10117838 000041C0
++Tiny Mode
+%Credits: Code Master
+$10117838 00004300
+!!
++Ultra Slow Timer (Freestyle)
+%Credits: Codejunkies
+$20246E90 2463FFFF
+!!
+

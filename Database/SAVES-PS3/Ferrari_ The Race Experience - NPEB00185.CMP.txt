@@ -1,0 +1,9 @@
+^2 = GameID: NPEB00185
+^3 = NAME: Ferrari: The Race Experience
+^4 = FILE: SYS-DATA
++Update Add For Sys-data (required)
+$set [csum]:0
+(set [csum]:add(0x00000C,0x112703))
+$set pointer:eof+1
+$set [csum]:add(0x00000C,pointer)
+$write at 0x000008:[csum]

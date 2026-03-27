@@ -1,0 +1,12 @@
+^3 = NAME: We Are (Ntsc-J)
+^2 = GameID: SLPM-66449
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9010FC58 0C043EBE
+!!
++Replace New Game With Debug Menu
+%Credits: punk7890
+$21CEF310 00000004
+!!
+

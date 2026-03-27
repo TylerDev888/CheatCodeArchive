@@ -1,0 +1,39 @@
+^3 = NAME: Metal Arms - Glitch In The System (Pal-Unk)
+^2 = GameID: SLES-51758
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0410DEC 00410DEF
+!!
++Infinite Bombs Use
+%Credits: Codejunkies
+$20218550 24020063
++Infinite Health
+%Credits: Codejunkies
+$200FFF00 3C013F80
+$200FFF04 AC410168
+$200FFF08 2624000C
+$200FFF0C 080B5A98
+$202D6A5C 0803FFC0
++Loads Of Credits
+%Credits: Codejunkies
+$202DABEC 24027000
+$202DABF4 A62203D6
++Press Select+Down For Slow Motion
+%Credits: Codejunkies
+$D054EF02 0000FFBE
+$204BDF08 3E800000
++Press Select+Left For Hyper Mode
+%Credits: Codejunkies
+$D054EF02 0000FF7E
+$204BDF08 40000000
++Press Select+Left For Normal Speed
+%Credits: Codejunkies
+$D054EF02 0000FF7E
+$204BDF08 3F800000
++Press Select+Up For Quick Game
+%Credits: Codejunkies
+$D054EF02 0000FFEE
+$204BDF08 3FC00000
+!!
+

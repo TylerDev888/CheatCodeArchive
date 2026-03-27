@@ -1,0 +1,302 @@
+^2 = GameID: CUSA37565,CUSA37563,CUSA37564,CUSA37562
+^3 = NAME: Atelier Marie Remake: The Alchemist Of Salburg
+^SECONDLAYER: YES
+^4 = FILE: Atelier Marie: Remake - Save (AutoSave|GameData[0-9]+\data.dat)
++Item Quantity Change
+$80010010 41313A3A
+$4F726967 696E616C
+$44617461 00000000
+$92000000 [Items]
+$08000000 000000[Amount:63:HEX:BIG]
++Equipment Quantity Change
+$80010017 41313A3A
+$72656D61 6B655F77
+$6561706F 6E5F7374
+$6F636B00 00000000
+$92000000 [EquipRemake]
+$08000000 000000[Amount:63:HEX:BIG]
+!Day,month,year Mod:
++Year Mod
+%Credits: SkillerCMP
+$80010010 41313A3A
+$4F726967 696E616C
+$44617461 00000000
+$92000000 00000815
+$1800000A 0000[Amount:0000:HEX:LITTLE]
++Month Mod
+%Credits: SkillerCMP
+$80010010 41313A3A
+$4F726967 696E616C
+$44617461 00000000
+$92000000 00000815
+$18000008 0000[Amount:0000:HEX:LITTLE]
++Day Mod
+%Credits: SkillerCMP
+$80010010 41313A3A
+$4F726967 696E616C
+$44617461 00000000
+$92000000 00000815
+$18000006 0000[Amount:0000:HEX:LITTLE<-1FromActualDay>]
+$1800000E 0000[Amount:0000:HEX:LITTLE]
+!!
+^4 = FILE: Atelier Marie: Plus - Save (MarieData([0-9]+)\data.dat) 
++Item Quantity Change
+$80010010 41313A3A
+$4F726967 696E616C
+$44617461 00000000
+$92000000 [Items]
+$08000000 000000[Amount:63:HEX:BIG]
+!Equipment Mod:
++Slot 1
+$80010010 41313A3A
+$4F726967 696E616C
+$44617461 00000000
+$92000000 0000083D
+$18000000 0000[EquipPlus]
++Slot 2
+$80010010 41313A3A
+$4F726967 696E616C
+$44617461 00000000
+$92000000 0000083D
+$18000002 0000[EquipPlus]
++Slot 3
+$80010010 41313A3A
+$4F726967 696E616C
+$44617461 00000000
+$92000000 0000083D
+$18000004 0000[EquipPlus]
++Slot 4
+$80010010 41313A3A
+$4F726967 696E616C
+$44617461 00000000
+$92000000 0000083D
+$18000006 0000[EquipPlus]
++Slot 5
+$80010010 41313A3A
+$4F726967 696E616C
+$44617461 00000000
+$92000000 0000083D
+$18000008 0000[EquipPlus]
++Slot 6
+$80010010 41313A3A
+$4F726967 696E616C
+$44617461 00000000
+$92000000 0000083D
+$1800000A 0000[EquipPlus]
++Slot 7
+$80010010 41313A3A
+$4F726967 696E616C
+$44617461 00000000
+$92000000 0000083D
+$1800000C 0000[EquipPlus]
++Slot 8
+$80010010 41313A3A
+$4F726967 696E616C
+$44617461 00000000
+$92000000 0000083D
+$1800000E 0000[EquipPlus]
+!!
+^6 = MODS:
+[Items]
+VALUE>TYPE>NAME
+000001CE		Cave Water
+000001D0		Kanone Rock
+000001D2		Star Pieces
+000001D4	Synth	Comet Gemstone
+000001D6	Synth	Glasen Ore
+000001D8	Synth	Dragon Fang
+000001DA	Synth	Dragon Tongue
+000001DC	Synth	Nuse
+000001DE	Synth	Fire Sand
+000001E0	Synth	Golden Rock
+000001E2	Synth	Bomb
+000001E4	Synth	Red Neutralizer
+000001E6	Synth	Craft
+000001E8	Synth	Wax
+000001EA	Synth	Sun Pendant
+000001EC	Synth	Stardust
+000001EE	Synth	Solvent
+000001F0	Synth	Megacraft
+000001F2	Synth	Superbomb
+000001F4	Synth	Comet
+000001F6	Synth	Megabomb
+000001F8	Synth	Prism Water
+000001FA	Synth	Spirit Tear
+000001FC	Synth	Hebel Water
+000001FE	Synth	Golden Salmon
+00000200	Synth	Venovine
+00000202	Synth	Distilled Water
+00000204	Synth	Mystica
+00000206	Synth	Altena Water
+00000208	Synth	Blue Neutralizer
+0000020A	Synth	Spirit Glow
+0000020C	Synth	Mystica Leaves
+0000020E	Synth	Power Pills A
+00000210	Synth	Antidote
+00000212		Tonic
+00000214		Power Pills B
+00000216		Spirit Pills B
+00000218		Spirit Pills A
+0000021A		Altena Salve
+0000021C		Divine Flash
+0000021E		Lost Fruit
+00000220		Mystica Tea
+00000222		Elixir
+00000224		Insight
+00000226		Holy Water
+00000228		Ripe Apple
+0000022A		Laughcap
+0000022C		Spinach
+0000022E		Mystery Nuts
+00000230		Chariot Milk
+00000232		Bamboo
+00000234		Puniballs
+00000236		Beehive
+00000238		Dunkelheit
+0000023A		Magic Herb
+0000023C		Uni
+0000023E		Chariot Oil
+00000240		Green Neutralizer
+00000242		Plant Fertilizer
+00000244		Charicheese
+00000246		Living Rope
+00000248		Spinach S
+0000024A		Living Broom
+0000024C		Hair Serum
+0000024E		Tonic of Life
+00000250		Turtle Shells
+00000252		Alberich
+00000254		Dunbathach Herb
+00000256		Fest
+00000258		Salt
+0000025A		Gouache Twig
+0000025C		Linn Drops
+0000025E		Liegen Stones
+00000260		Venoshroom
+00000262		Fairy Wings
+00000264		Lake Crystals
+00000266		Sky Amulet
+00000268		Polishing Powder
+0000026A		Gale Flure
+0000026C		Rain Stone
+0000026E		Dubthach Juice
+00000270		Anesthetic
+00000272		Gouache Coal
+00000274		Veno Powder
+00000276		Bottled Bliss
+00000278		StuneBeGone
+0000027A		Aroma Materia
+0000027C		Time Slate
+0000027E		Lamp
+00000280		Philosopher's Stone
+00000282	Key Items	Filter
+00000284	Key Items	Centrifuge
+00000286	Key Items	Mousetrap
+00000288	Key Items	Basket
+0000028A	Key Items	Glassware
+0000028C	Key Items	Scale
+0000028E	Key Items	Fairy Charm
+00000290	Key Items	Mortar
+00000292	Key Items	Access Pass
+00000294	Key Items	Key Card
+[/Items]
+[EquipPlus]
+VALUE>NAME
+0100	Dagger
+0200	Bandit Sword
+0300	Brodsword
+0400	Longsword
+0500	Glasen Sword
+0600	Knight Blade
+0700	Silver Sword
+0800	Lichtherz
+0900	Long Spear
+0A00	Dubthach
+0B00	Glasen Spear
+0C00	Dreizack
+0D00	Duster
+0E00	Fancy Duster
+0F00	Wood Staff
+1000	Glasen Staff
+1100	Staff of Legend
+1200	Cosmic Staff
+1300	
+1400	
+1500	
+1600	
+1700	
+1800	
+1900	
+1A00	
+1B00	
+1C00	
+1D00	
+1E00	
+1F00	
+2000	
+2100	
+2200	
+2300	
+2400	
+2500	
+2600	Venture Gear
+2700	Leather Armor
+2800	Plated Armor
+2900	Glasen Armor
+2A00	Silver Armor
+2B00	Feather Mail
+2C00	
+2D00	
+2E00	
+2F00	
+[/EquipPlus]
+[EquipRemake]
+VALUE>NAME
+00000020	Dagger
+00000024	Bandit Sword
+00000028	Brodsword
+0000002C	Longsword
+00000030	Glasen Sword
+00000034	Knight Blade
+00000038	Silver Sword
+0000003C	Lichtherz
+00000040	Long Spear
+00000044	Dubthach
+00000048	Glasen Spear
+0000004C	Dreizack
+00000050	Duster
+00000054	Fancy Duster
+00000058	Wood Staff
+0000005C	Glasen Staff
+00000060	Staff of Legend
+00000064	Cosmic Staff
+00000068	
+0000006C	
+00000070	
+00000074	
+00000078	
+0000007C	
+00000080	
+00000084	
+00000088	
+0000008C	
+00000090	
+00000094	
+00000098	
+0000009C	
+000000A0	
+000000A4	
+000000A8	
+000000AC	
+000000B0	
+000000B4	Venture Gear
+000000B8	Leather Armor
+000000BC	Plated Armor
+000000C0	Glasen Armor
+000000C4	Silver Armor
+000000C8	Feather Mail
+000000CC	
+000000D0	
+000000D4	
+000000D8	
+[/EquipRemake]

@@ -1,0 +1,23 @@
+^2 = GameID: SLUS_215.45
+^3 = NAME: Pirates Of The Caribbean At Worlds End
+!Masters:
++Enable Code (MUST BE ON)
+902F4A70 0C0BD244
+!!
++Inf HP
+$2010A6A8 00000000
++Gain/Use For Max (everything){This Works For Anything In The Invintory Screen And Stats}
+$2018F724 AC850004
+$2018F694 AC830004
++Timer Mod/Inf{Value X2 Converted To Float 120 = 2mins 3600 = 60minsnote The Below Time Codes Are Asm Of This Exact Code}
+$20398ADC [Amount:FLOAT:HEX:BIG]
+!Challenge:
++Combat Challenge Inf Time
+$201845A8 00000000
++Combo Challenge Inf Time
+$20184578 00000000
++Loot Challenge Inf Time
+$20184544 00000000
++Unkown Inf Time Code
+$201845DC 00000000
+!!

@@ -1,0 +1,26 @@
+^3 = NAME: Myth Makers - Super Kart GP (Pal-Unk)
+^2 = GameID: SLES-52159
+!Master Codes:
++Enable Code
+%Credits: BigBossman
+$90382160 0C0E0800
++Enable Code (Alternate)
+%Credits: BigBossman
+$9035C31C 0C0DD817
+!!
++Can Select Locked Engine Classes
+%Credits: LuC-iTA
+$2011FBD8 00000000
++Can Select Locked Racers
+%Credits: LuC-iTA
+$20129FDC 00000000
+$20129F18 00000000
++Opponents Don't Move
+%Credits: LuC-iTA
+$204144C4 000A0000
+$200A0000 24010002
+$200A0004 10330003
+$200A000C 03E00008
+$200A0014 27BDFD90
+$200A0018 08063EE2
+$200A001C FFB301E0

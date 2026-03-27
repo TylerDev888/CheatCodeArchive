@@ -1,0 +1,48 @@
+^2 = GameID: PCSB00118,PCSE00020,PCSB00177,PCSE00078
+^3 = NAME: Metal Gear Solid 2 HD
+(by bucanero)
++-- Metal Gear Solid 2 Hd --
+!Decrypt Mgs2:
+^4 = FILE: *MASTER.BIN
++Decode Master.bin (required)
+$set range:0x0000,0x001F
+$DECRYPT mgs_base64
+^4 = FILE: *DATA.BIN
++Decrypt Data.bin (required)
+$set range:0x000004,0x0071A9
+$DECRYPT mgs("2MetalOfSolidSonsLibertyGear")
+\\; decrypt 2nd layer
+$set range:0x000004,0x00159B
+$DECRYPT mgs(0x00)
+$set range:0x0015AA,0x0031A9
+$DECRYPT mgs(0x00)
+$set range:0x0031AA,0x0071A9
+$DECRYPT mgs(0x00)
+(MGS2 cheats should go here)
+!Encrypt Mgs2:
++Update Custom Checksum (required)
+$set range:0x000004,0x00159B
+$set [crc1]:mgs2_checksum
+$set range:0x0015AA,0x0031A9
+$set [crc2]:mgs2_checksum
+$set [crc1]:xor:[crc2]
+$set [crc1]:endian_swap
+$write at 0x0015A6:[crc1]
++Encrypt Data.bin (required)
+\\; encrypt 2nd layer
+$set range:0x000004,0x00159B
+$ENCRYPT mgs(0x00)
+$set range:0x0015AA,0x0031A9
+$ENCRYPT mgs(0x00)
+$set range:0x0031AA,0x0071A9
+$ENCRYPT mgs(0x00)
+$set range:0x000004,0x0071A9
+$set [master_hash]:CRC32
+$ENCRYPT mgs("2MetalOfSolidSonsLibertyGear")
+\\;BLES01419_MGS2/BLES01419_MGS2*/BLUS30847_MGS2/BLUS30847_MGS2*/
+^4 = FILE: *MASTER.BIN
++Encode Master.bin (required)
+$write at 0x0010:[master_hash]
+$set range:0x0000,0x001F
+$ENCRYPT mgs_base64
+!!

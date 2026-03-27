@@ -1,0 +1,23 @@
+^2 = GameID: BLES00222,BLUS30116
+^3 = NAME: Dark Sector
+^4 = FILE: BLES00222\??.SAV
++Update Md5 For 01.sav (required)
+(set range:0x000010,0x0158CB)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]
+^4 = FILE: SETTINGS
++Update Md5 For Settings (required)
+(set range:0x000010,0x0005F5)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]
+^4 = FILE: CONTINUE.SAV
++Update Md5 For Continue.sav (required)
+(set range:0x000010,0x010568)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]

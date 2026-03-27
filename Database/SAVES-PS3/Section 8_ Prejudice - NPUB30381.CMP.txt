@@ -1,0 +1,9 @@
+^2 = GameID: NPUB30381
+^3 = NAME: Section 8: Prejudice (PSN)
+^4 = FILE: PAYLOAD
++Update Sha1 (required)
+(set range:0x000014,0x0005D0)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

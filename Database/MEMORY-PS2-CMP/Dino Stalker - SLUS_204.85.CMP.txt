@@ -1,0 +1,79 @@
+^1 = HASH: 32 8A 37 25 E5 EE D5 F1 31 18 90 30 06 15 D4 E0 C1 7F 23 B8 
+^2 = GameID: SLUS_204.85
+^3 = NAME: Dino Stalker
+%Credits: CMX>Datel>Godshin>lee4>Xploder
+!Masters:
++Enable Code (MUST BE ON)
+$9027087C 0C0A16DD
+!!
+!Misc:
++Skip Fmv (p1 Press Select On Controller Pad 1)
+$20277308 8C620000
+$D068DA02 0000FFFE
+$20277308 24020001
++Infinite Health
+$202F1F14 40A00000
++Quick Score Gain
+$102F1FC4 0000FFFF
++Max Score
+$202F1FC4 0098967F
++Max Recovery Aid
+$202F2078 00000063
++Max Resuscitation
+$202F207C 00000063
++Max Antidote
+$202F2080 00000063
++Have Ample
+$202F2088 00000001
++Max Tachyon
+$202F208C 0000270F
++Never Reload (pad)
+$20133954 00000000
++Never Reload (gun)
+$20133BC0 00000000
++Unlimited Ammunition (pad)
+$2013394C 24420000
++Unlimited Ammunition (gun)
+$20133BB8 24420000
++Infinite Time
+$20219B98 00000000
+$20219BA0 00000000
++Freeze Time
+$20219B8C 24420000
+$20219B90 24A30000
++Inf Power Bullets
+$103C245C 00000063
++No Reload - Normal Gun
+$103C2458 0000000C
++Inf Ammo (all Special Weapons)
+$103C24B8 00000008
+$103C24BC 00000008
+$103C24E8 00000008
+$103C24EC 00000008
++1 Hit Kill Bosses
+$20401B78 00000000
++Infinite Time
+$205DE6A8 0000540E
+$205DE6AC 00053C00
++Combo Counter Never Resets
+$105B8364 00000150
++Max Combo
+$005B8368 000000FF
+!!
+!Result Codes:
++Time Bonus
+$2081ECF0 0098967F
++Dino Bonus
+$2081ECF4 0098967F
++No Damage Bonus
+$2081ECF8 0098967F
+$2081ECDC 0098967F
++99 Dinos Kill
+$1081ECC8 00000063
++Rank S
+$0081ECEC 00000000
++Max End Of Level Score
+$2081ECE0 0098967F
++Total Score
+$2081ECE8 0098967F
+!!

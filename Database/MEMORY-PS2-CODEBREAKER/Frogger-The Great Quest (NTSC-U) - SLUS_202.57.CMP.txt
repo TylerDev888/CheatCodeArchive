@@ -1,0 +1,37 @@
+^1 = HASH: 9206FE2A
+^3 = NAME: Frogger-The Great Quest
+^2 = GameID: SLUS_202.57
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001A369F
+!!
+!Codes:
++Have All Stones
+%Credits: Code Master
+$0044285D 000000FF
++Have All Coins
+%Credits: Code Master
+$00442844 000000FF
+$0044285F 000000FF
+$10442860 0000FFFF
++Have All Gems
+%Credits: Code Master
+$00442845 000000FF
+$10442862 0000FFFF
+$10442864 0000FFFF
++Infinite Stones
+%Credits: Code Master
+$0044283D 00000002
+$1044283E 00000202
+$00442840 00000002
++Have Key
+%Credits: Code Master
+$00442849 00000001
+$00442866 00000001
++Infinite Health
+%Credits: Code Master
+$201325F0 24020064
+$201325F4 03E00008
+$201325F8 AC8202CC
+!!

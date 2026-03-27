@@ -1,0 +1,201 @@
+^3 = NAME: 25 To Life (NTSC-U)
+^2 = GameID: SLUS-21016
+!Master Codes:
++Enabler Code (Must Be On)
+%Credits: Code Master>Lajos Szalay
+$905111F8 00832021
++Enabler Code (Must Be On)
+%Credits: MadCatz
+$90430A34 0C144492
+!!
++Disable Game Timer
+%Credits: Codejunkies
+$2010651C 00000000
++Enable All Levels
+%Credits: Codejunkies
+$406CEFF4 000C0001
+$00000001 00000000
+$206CEFEC 0000000C
++Infinite Ammo
+%Credits: MadCatz
+$201A4628 00000000
++Infinite Ammo
+%Credits: Codejunkies
+$201A421C 00000000
++Infinite Health
+%Credits: MadCatz
+$2010245C E4430000
+!LAN Lobby Codes:
++Can Always Change Teams [LAN]
+$201704B4 00000000
++Can Always Ready Up [LAN]
+$20244C08 1000005D
+!!
+!Player Codes:
++All Guns Full Auto
+$201A43E4 1000001D
++Auto Shoot
+$200A0200 27BDFFF8
+$200A0204 FFBF0000
+$200A0208 3C08001A
+$200A020C 10400004
+$200A0210 00000000
+$200A0214 AD003DCC
+$200A0218 10000004
+$200A021C 00000000
+$200A0220 3C091443
+$200A0224 25290007
+$200A0228 AD093DCC
+$200A022C DFBF0000
+$200A0230 03E00008
+$200A0234 27BD0008
+$2014DF7C 0C028080
++Bullet Particle Color Mod
+%Credits: RENEGADE
+$201B61DC 3C014280
++Bullet Particle Mod
+%Credits: RENEGADE
+$201B6180 3C013E8C
++Grenade Throw Distance
+%Credits: RENEGADE
+$201A74F4 3C014000
++Inf Throwable's
+%Credits: RENEGADE
+$201BBA8C AC820408
+$201BBA90 AC830400
++Infinite Ammo
+$201A4628 24420000
++No Ear Ringing
+%Credits: RENEGADE
+$2019E6F0 1000000B
++No Flashbang Blind
+%Credits: RENEGADE
+$201A510C 3C01BF80
++No Grenade Damage
+$2019C9F8 00000000
+$2019CA28 00000000
+$2019CA50 00000000
+$2019CA80 00000000
++Perfect Shot / No Recoil
+$201A44A0 00000000
++Player Speed Mod
+%Credits: RENEGADE
+$2021032C 3C014100
++Rapid Fire
+%Credits: RENEGADE
+$201A4680 00000000
++Rapid Fire [Autos Only]
+$201A6694 00000000
+$201A2E6C 00000000
++See Through Map [Hold R2]
+$D070DBC2 0000FDFF
+$2039DA80 03E00008
+$D070DBC2 0000FFFF
+$2039DA80 27BDFF60
++Super Jump [Hold X]{200A0108 3C093f80= Jump Acceleration}
+$200A0100 3C0801C6
+$200A0104 C5007DA4
+$200A0108 3C093F80
+$200A010C 44890800
+$200A0110 46000880
+$200A0114 440A1000
+$200A0118 AD0A7DA4
+$200A011C 03E00008
+$D070DBC2 0000BFFF
+$203D9BAC 08028040
+$D070DBC2 0000FFFF
+$203D9BAC 03E00008
++Walk Through Walls
+$204AC470 03E00008
+$204AC474 00000000
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Always Low Game Time
+%Credits: Code Master>Lajos Szalay
+$2010651C AC800038
++Extra Ammo
+%Credits: Code Master>Lajos Szalay
+$20A9B472 A943E7C2
++Infinite Ammo
+%Credits: Code Master>Lajos Szalay
+$201A4200 00000000
++Infinite Grenades
+%Credits: Code Master>Lajos Szalay
+$201A7844 00000000
++Infinite Health
+%Credits: Code Master>Lajos Szalay
+$200C0220 3C0142C8
+$200C0224 54400001
+$200C0228 AC410000
+$200C022C 08040918
+$200C0230 460000C6
+$2010245C 08030088
++Max Infinite Ammo
+%Credits: Code Master>Lajos Szalay
+$201A41F8 240203E7
++Never Reload
+%Credits: Code Master>Lajos Szalay
+$201A462C 00000000
++P1 Press R3+Down To Disable Buster Mode
+%Credits: Code Master>Lajos Szalay
+$D070DBC2 0000FFBB
+$2057C08C 00000000
++P1 Press R3+Up To Enable Buster Mode
+%Credits: Code Master>Lajos Szalay
+$D070DBC2 0000FFEB
+$2057C08C 00000001
++P1 Rapid Fire (All Weapons)
+%Credits: Code Master>Lajos Szalay
+$D070DBC2 0000F7FF
+$201A45DC 00000000
+$D070DBC2 0000FFFF
+$201A45DC AE22042C
+!!
++Unlock All Levels
+%Credits: MadCatz
+$20156548 24020001
+$20156550 AC621F4C
+!Unlock Level Codes:
++All Levels
+%Credits: Code Master>Lajos Szalay
+$406CEFF4 000C0001
+$00000001 00000000
++Apartment
+%Credits: Code Master>Lajos Szalay
+$206CEFF8 00000001
++Casino
+%Credits: Code Master>Lajos Szalay
+$206CF010 00000001
++Club
+%Credits: Code Master>Lajos Szalay
+$20FE7976 37C6BB7A
++Culdesac
+%Credits: Code Master>Lajos Szalay
+$206CF000 00000001
++Downtown
+%Credits: Code Master>Lajos Szalay
+$206CEFFC 00000001
++Hacienda/Bonus-Beatdown
+%Credits: Code Master>Lajos Szalay
+$206CF020 00000001
++Mall
+%Credits: Code Master>Lajos Szalay
+$206CF01C 00000001
++Penthouse
+%Credits: Code Master>Lajos Szalay
+$206CF014 00000001
++Prison
+%Credits: Code Master>Lajos Szalay
+$206CF018 00000001
++Subway
+%Credits: Code Master>Lajos Szalay
+$206CF008 00000001
++Tijuana
+%Credits: Code Master>Lajos Szalay
+$206CF00C 00000001
++Warehouse
+%Credits: Code Master>Lajos Szalay
+$206CEFF4 00000001
+!!
+!!
+

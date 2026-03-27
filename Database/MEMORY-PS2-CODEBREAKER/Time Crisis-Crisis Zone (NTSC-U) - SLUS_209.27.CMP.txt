@@ -1,0 +1,50 @@
+^1 = HASH: E0D4421A
+^3 = NAME: Time Crisis-Crisis Zone
+^2 = GameID: SLUS_209.27
+!Masters:
++Enable Code (Must Be On) [Read Note]
+%Credits: Code Master
+$F0100008 0010ECEF
+!!
+!Codes:
++Infinite Time
+%Credits: Code Master
+$2012EA14 00000000
++P1 Press L1+Select To Stop Timer
+%Credits: Code Master
+$D07B5882 0000FBFE
+$2012EA14 00000000
++P1 Press L2+Select To Restart Timer
+%Credits: Code Master
+$D07B5882 0000FEFE
+$2012EA14 E422C678
++Infinite Health
+%Credits: Code Master
+$2012ED80 00000000
++Infinite Ammo
+%Credits: Code Master
+$2015F2C0 00000000
++1-Hit Death (Non-Boss Enemies)
+%Credits: Code Master
+$2017837C AC800020
++Quick Score Gain
+%Credits: Code Master
+$2020CCD4 240203E7
++Quicker Score Gain
+%Credits: Code Master
+$2020CCD4 2402270F
++Quick Max Score
+%Credits: Code Master
+$2020CCD4 3C020098
+$2020CCD8 3442967F
++Unlock Everything
+%Credits: Code Master
+$408DDA80 00040001
+$FFFFFFFF 00000000
+$208DDAA0 00000009
+$208DDAA4 00000009
++Max Hit (Crisis Missions)
+%Credits: Code Master
+$2079C680 000003E7
+$2079C684 000003E7
+!!

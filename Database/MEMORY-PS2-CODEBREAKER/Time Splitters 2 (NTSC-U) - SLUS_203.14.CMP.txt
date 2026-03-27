@@ -1,0 +1,149 @@
+^1 = HASH: 12532F1C
+^3 = NAME: Time Splitters 2
+^2 = GameID: SLUS_203.14
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0200008 0044D32F
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$9044D32C 0C123E4B
+!!
+!Codes:
++Infinite Ammo
+%Credits: Code Master
+$202DBCA0 00000000
++Extra Ammo
+%Credits: Code Master
+$202DBC9C 00671821
++Never Reload
+%Credits: Code Master
+$202DA928 00000000
++Infinite Alternate Ammo
+%Credits: Code Master
+$202DA908 00000000
++Extra Alternate Ammo
+%Credits: Code Master
+$202DA900 00471021
++Unlock All Single Player Easy Levels
+%Credits: Code Master
+$205CC268 FFFFFFFF
++Unlock All Single Player Normal Levels
+%Credits: Code Master
+$205CC26C FFFFFFFF
++Unlock All Single Player Hard Levels
+%Credits: Code Master
+$205CC270 FFFFFFFF
++Unlock All Challenge Levels
+%Credits: Code Master
+$105CC280 0000FFFF
++Unlock All Arcade Custom Game Types
+%Credits: Code Master
+$105CC282 0000FFFF
+$105CC284 0000FFFF
++Unlock All Characters
+%Credits: Code Master
+$105CC278 0000FFFF
+$205CC290 FFFFFFFF
+$205CC294 FFFFFFFF
+$105CC298 0000FFFF
+$105CC2A2 0000FFFF
+$205CC2A4 FFFFFFFF
++Unlock Everything
+%Credits: Code Master
+$2059D6FC FFFFFFFF
++Infinite Health
+%Credits: Code Master
+$2023FCA4 C44101A0
+$2023FCAC E441019C
++Infinite Armor
+%Credits: Code Master
+$203382FC C4620014
+$20338308 E4620010
++Unlock All Characters
+%Credits: Code Master
+$105CC278 0000FFFF
+$205CC290 FFFFFFFF
+$205CC294 FFFFFFFF
+$105CC298 0000FFFF
+$105CC2A2 0000FFFF
+$205CC2A4 FFFFFFFF
++Activate Cheat Modifier
+%Credits: Code Master
+$1059D708 0000????
++Walk Thru Walls{With This Code, Be Careful You Can Get Stuck Easily.}
+%Credits: Code Master
+$20210708 00000000
++Head Size Modifier (Default 3F80)
+%Credits: Code Master
+$20228220 00000000
+$10228238 0000????
++Hand Size Modifier (Default 4000)
+%Credits: Code Master
+$202282F8 00000000
+$10228310 0000????
++Character Weight Modifier (Default 3FC0)
+%Credits: Code Master
+$20228830 00000000
+$10228840 0000????
++Death Speed Modifier (Default 3F80)
+%Credits: Code Master
+$202C681C 00000000
+$102C6824 0000????
++Rotating Head Speed Modifier (Default 4000)
+%Credits: Code Master
+$20228950 00000000
+$1022896C 0000????
+!!
+!Activate Individual Cheat Codes:
++Big Head Size
+%Credits: Code Master
+$20228220 00000000
++Small Head Size
+%Credits: Code Master
+$2022828C 00000000
++Big Hands
+%Credits: Code Master
+$202282F8 00000000
++Infinite Ammo
+%Credits: Code Master
+$202DA9A8 10000007
++Paintball
+%Credits: Code Master
+$20306670 00000000
+$20307AD4 00000000
++Fat Characters
+%Credits: Code Master
+$20228830 00000000
++All Characters Cloaked
+%Credits: Code Master
+$20323028 00000000
+$2032302C 00000000
++Slow Motion Deaths
+%Credits: Code Master
+$202C681C 00000000
++Cardboard Characters
+%Credits: Code Master
+$202281D4 00000000
++Rotating Heads
+%Credits: Code Master
+$20228950 00000000
++Silly Hats
+%Credits: Code Master
+$202C5470 00000000
+!!
+^6 = MODS:
+Quantity Digits to Accompany Cheat Modifier Codes
+0001 - Unknown?
+0002 - Big Head Size
+0004 - Small Head Size
+0008 - Big Hands
+0010 - Infinite Ammo
+0020 - Paintball
+0040 - Fat Characters
+0080 - Unknown 2?
+0100 - All Characters Cloaked
+0200 - Slow Motion Deaths
+0400 - Cardboard Characters
+0800 - Rotating Heads
+1000 - Silly Hats

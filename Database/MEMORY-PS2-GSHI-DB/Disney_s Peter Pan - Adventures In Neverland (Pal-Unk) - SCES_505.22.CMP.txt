@@ -1,0 +1,63 @@
+^3 = NAME: Disney's Peter Pan - Adventures In Neverland (Pal-Unk)
+^2 = GameID: SCES-50522
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0127810 00127813
+!!
++Get Items From Anywhere
+%Credits: nolberto82
+$2014F7B0 00000000
+!Health Codes:
++99 Crystals
+%Credits: Codejunkies
+$1026C68C 00000000
++99 Fairy Jars
+%Credits: Codejunkies
+$0026C67C 00000063
+$1026C678 0000270F
++99 Keys
+%Credits: Codejunkies
+$1026C6AC 00000063
++All Treasure
+%Credits: Codejunkies
+$1026C69C 0000FFFF
+$1026C69E 0000FFF0
++Always Have Knife
+%Credits: Codejunkies
+$2027F8F0 00000000
++Infinite Health
+%Credits: Codejunkies
+$1027EE26 000040A0
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E0011028 3027EE26
+$1027EE26 00001028
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0012050 3027EE26
+$1027EE26 00002050
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E0013078 3027EE26
+$1027EE26 00003078
++Unlock All Levels
+%Credits: Codejunkies
+$10284E08 00000FFF
+!!
++Infinite Lives
+%Credits: Codejunkies
+$1027EE2A 000041CE
++Invincibility
+%Credits: nolberto82
+$201511AC 1000012E
++Jesus Mode
+%Credits: nolberto82
+$201397C4 0000102D
+$201397DC 0000102D
++Jump In Midair
+%Credits: nolberto82
+$2013E258 100000C0
+$20147D28 10000007
+!!
+

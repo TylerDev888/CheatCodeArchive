@@ -1,0 +1,28 @@
+^2 = GameID: BLES01354
+^3 = NAME: Disney Universe
+^5 = APCRED: From Game Genie For PS3
+^4 = FILE: BLES01354AUTOSAVE*\SAVE.BIN
+(type: hidden)
+^4 = FILE: BLES01354AUTOSAVE*\56600001.DAT
+(dependency: SAVE.BIN)
++Max Money (not Working)
+$80010008 60400000
+$00000002 00000000
+$28000008 05F5E0FF
+^4 = FILE: BLES01354AUTOSAVE*\96600000.DAT
+(dependency: SAVE.BIN)
+^4 = FILE: 56600001.DAT
++Get Crc32 For 56600001.dat (required)
+$set [hash_56600001.DAT]:CRC32
+$set [size_56600001.DAT]:eof+1
+^4 = FILE: 96600000.DAT
++Get Crc32 For 96600000.dat (required)
+$set [hash_96600000.DAT]:CRC32
+$set [size_96600000.DAT]:eof+1
+(dependency: SAVE.BIN)
+^4 = FILE: SAVE.BIN
++Update Crc32 For 56600001.dat And 96600000.dat (required)
+$write at 0x000014:[size_56600001.DAT]
+$write at 0x000018:[hash_56600001.DAT]
+$write at 0x000024:[size_96600000.DAT]
+$write at 0x000028:[hash_96600000.DAT]

@@ -1,0 +1,14 @@
+^3 = NAME: King Of Fighters 2000 & 2001 (PAL)
+^2 = GameID: SLES-52876
+!Master Codes:
++Enable Code (Must Be On) {<I>King Of Fighters 2000</I>}
+%Credits: lee4
+$9010EBD0 0C043A9C
+!!
++Force Videout To 480I Instead Of 240P {<I>King Of Fighters 2000</I>}
+%Credits: lee4
+$201002B4 24110001
+$201002B8 24120002
+$201002C4 24130001
+!!
+

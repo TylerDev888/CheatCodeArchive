@@ -1,0 +1,31 @@
+^3 = NAME: POPS
+^2 = GameID: POPS-00001
+!Master Codes:
++Enable Code
+%Credits: lee4
+$90236EA0 0C08DB50
++Enable Code
+%Credits: lee4
+$902377F4 0C0902EF
++Enable Code
+%Credits: lee4
+$9023783C 00832021
+!!
++Add To PS1 GS 8-Bit {<I>30000000 00??</I>}
+%Credits: lee4
+$01000000 000000??
++Add To PS1 GS 16-Bit {<I>80000000 ????</I>}
+%Credits: lee4
+$11000000 0000????
++RAM Code Activator (Multi-Lines) {<I>*Not Need For ASM Codes ?? = Number Of Lines Required Super Joker Code</I>}
+%Credits: lee4
+$E0??0001 000FF000
++RAM Code Activator (Single-Line) {<I>*Not Need For ASM Codes Required Super Joker Code</I>}
+%Credits: lee4
+$D00FF000 00000001
++Super Joker (On/Off Switch Simulator) {<I>*Not Need For ASM Codes</I>}
+%Credits: lee4
+$200FF000 00000000
+200FF000 00000001
+!!
+

@@ -1,0 +1,8 @@
+^2 = GameID: NPEB00150
+^3 = NAME: Braid (PSN)
+^5 = APCRED: By DarkOverlord
+^4 = FILE: BRAID.SAV
++8 Stars
+$00000018 000000FF
++Speed Run Below 45 Mins - Must Have Completed Game First (unlocks Trophy)
+$write at 37E: A14C0200A14C0200A14C0200

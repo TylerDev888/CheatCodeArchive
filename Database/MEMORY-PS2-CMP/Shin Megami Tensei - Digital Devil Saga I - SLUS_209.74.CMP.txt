@@ -1,0 +1,729 @@
+^1 = Hash: 8E 89 18 6D 1D BF 24 27 76 92 53 14 E6 A1 8B 6E 19 74 48 78
+^2 = GameID: SLUS_209.74
+^3 = NAME: Shin Megami Tensei: Digital Devil Saga I
+!Masters:
++Enable Code (MUST BE ON)
+$9030CE58 0C0C333E
++Enable Code (MUST BE ON)
+$F02F2184 002F2187
++Enable Code (MUST BE ON)
+$0E3C7DF2 1456E7A5
+$F02F2184 002F2187
+!!
+!Joker:
++Player 1 Controller
+$003F9902 0000[Joker:PS2]
+!!
+!Misc Codes:
++Infinite Macca
+%Credits: SkillerCMP
+$2114133C 0098967F
++Max Money When Buy/Sell
+%Credits: SkillerCMP
+$201198E0 ACC5003C
++Random Battles(l1+select To Disable, L2+select To Enable)
+%Credits: CMX
+$D03F9902 0000FBFE
+$2011CC88 00000000
+$D03F9902 0000FEFE
+$2011CC88 A4831364
++Moon Control
+%Credits: Japan Hackers
+$2011CCA4 3C180040
+$2011CCA8 93189DC8
+$2011CCBC 3B020002
++Debug Items - Change How Game Starts{This Will Make It Once U Turn The Game On It Will ....}
+%Credits: SkillerCMP
+$203297DC [DEBUG]
+!!
+!Party Stats Codes:
++When Setting Skill List Full Opening{Start Of New Game}
+%Credits: Japan Hackers
+$202785A8 00000000
+!Party Leader Codes:
++Inf HP/MP (out Of Battle)
+%Credits: SkillerCMP
+$11141D66 000003E7
+$11141D6A 000003E7
++Next Lvl 1
+%Credits: SkillerCMP
+$11141D70 00000001
++Always Good Statis
+%Credits: SkillerCMP
+$11141D6E 00000000
++Max HP/MP
+%Credits: SkillerCMP
+$11141D68 000003E7
+$11141D6C 000003E7
++Max Lvl
+%Credits: SkillerCMP
+$01141D74 00000063
++Max All Stats
+%Credits: SkillerCMP
+$11141D76 00006363
+$21141D78 00636363
++All Skills In Set
+%Credits: SkillerCMP
+$41141DB8 004C0001
+$FFFFFFFF 00000000
+!Skill MOD:
++Slot 1 Skill Modifier
+%Credits: SkillerCMP
+$11141D82 00000[SM]
++Slot 2 Skill Modifier
+%Credits: SkillerCMP
+$11141D84 00000[SM]
++Slot 3 Skill Modifier
+%Credits: SkillerCMP
+$11141D86 00000[SM]
++Slot 4 Skill Modifier
+%Credits: SkillerCMP
+$11141D88 00000[SM]
++Slot 5 Skill Modifier
+%Credits: SkillerCMP
+$11141D8A 00000[SM]
++Slot 6 Skill Modifier
+%Credits: SkillerCMP
+$11141D8C 00000[SM]
++Slot 7 Skill Modifier
+%Credits: SkillerCMP
+$11141D8E 00000[SM]
++Slot 8 Skill Modifier
+%Credits: SkillerCMP
+$11141D90 00000[SM]
+!!
+!!
+!Support 1 Codes:
++Inf HP/MP (out Of Battle)
+%Credits: SkillerCMP
+$11141F0A 000003E7
+$11141F0E 000003E7
++Max HP/MP
+%Credits: SkillerCMP
+$11141F0C 000003E7
+$11141F10 000003E7
++Max Lvl
+%Credits: SkillerCMP
+$01141F18 00000063
++Next Lvl 1
+%Credits: SkillerCMP
+$11141F14 00000001
++Always Good Statis
+%Credits: SkillerCMP
+$11141F12 00000000
++Max All Stats
+%Credits: SkillerCMP
+$11141F1A 00006363
+$21141F1C 00636363
++All Skills In Set
+%Credits: SkillerCMP
+$41141F5C 004C0001
+$FFFFFFFF 00000000
+!Skill MOD:
++Slot 1 Skill Modifier
+%Credits: SkillerCMP
+$11141F26 00000[SM]
++Slot 2 Skill Modifier
+%Credits: SkillerCMP
+$11141F28 00000[SM]
++Slot 3 Skill Modifier
+%Credits: SkillerCMP
+$11141F2A 00000[SM]
++Slot 4 Skill Modifier
+%Credits: SkillerCMP
+$11141F2C 00000[SM]
++Slot 5 Skill Modifier
+%Credits: SkillerCMP
+$11141F2E 00000[SM]
++Slot 6 Skill Modifier
+%Credits: SkillerCMP
+$11141F30 00000[SM]
++Slot 7 Skill Modifier
+%Credits: SkillerCMP
+$11141F32 00000[SM]
++Slot 8 Skill Modifier
+%Credits: SkillerCMP
+$11141F34 00000[SM]
+!!
+!!
+!Support 2 Codes:
++Inf HP/MP (out Of Battle)
+%Credits: SkillerCMP
+$111420AE 000003E7
+$111420B2 000003E7
++Max HP/MP
+%Credits: SkillerCMP
+$111420B0 000003E7
+$111420B4 000003E7
++Max Lvl
+%Credits: SkillerCMP
+$011420BC 00000063
++Next Lvl 1
+%Credits: SkillerCMP
+$111420B8 00000001
++Always Good Statis
+%Credits: SkillerCMP
+$111420B6 00000000
++Max All Stats
+%Credits: SkillerCMP
+$111420BE 00006363
+$211420C0 00636363
++All Skills In Set
+%Credits: SkillerCMP
+$41142100 004C0001
+$FFFFFFFF 00000000
+!Skill MOD:
++Slot 1 Skill Modifier
+%Credits: SkillerCMP
+$111420CA 00000[SM]
++Slot 2 Skill Modifier
+%Credits: SkillerCMP
+$111420CC 00000[SM]
++Slot 3 Skill Modifier
+%Credits: SkillerCMP
+$111420CE 00000[SM]
++Slot 4 Skill Modifier
+%Credits: SkillerCMP
+$111420D0 00000[SM]
++Slot 5 Skill Modifier
+%Credits: SkillerCMP
+$111420D2 00000[SM]
++Slot 6 Skill Modifier
+%Credits: SkillerCMP
+$111420D4 00000[SM]
++Slot 7 Skill Modifier
+%Credits: SkillerCMP
+$111420D6 00000[SM]
++Slot 8 Skill Modifier
+%Credits: SkillerCMP
+$111420D8 00000[SM]
+!!
+!!
+!Support 3 Codes:
++Inf HP/MP (out Of Battle)
+%Credits: SkillerCMP
+$11142252 000003E7
+$11142256 000003E7
++Next Lvl 1
+%Credits: SkillerCMP
+$1114225C 00000001
++Always Good Stats
+%Credits: SkillerCMP
+$1114225A 00000000
++Max HP/MP
+%Credits: SkillerCMP
+$11142254 000003E7
+$11142258 000003E7
++Max Lvl
+%Credits: SkillerCMP
+$01142260 00000063
++Max All Stats
+%Credits: SkillerCMP
+$11142262 00006363
+$21142264 00636363
++All Skills In Set
+%Credits: SkillerCMP
+$411422A4 004C0001
+$FFFFFFFF 00000000
+!!
+!Support 4 Codes:
++Inf HP/MP (out Of Battle)
+%Credits: SkillerCMP
+$111423F6 000003E7
+$111423FA 000003E7
++Next Lvl 1
+%Credits: SkillerCMP
+$11142400 00000001
++Always Good Stats
+%Credits: SkillerCMP
+$111423FE 00000000
++Max HP/MP
+%Credits: SkillerCMP
+$111423F8 000003E7
+$111423FC 000003E7
++Max Lvl
+%Credits: SkillerCMP
+$01142404 00000063
++Max All Stats
+%Credits: SkillerCMP
+$11142406 00006363
+$21142408 00636363
++All Skills In Set
+%Credits: SkillerCMP
+$41142448 004C0001
+$FFFFFFFF 00000000
+!!
+!!
+!Battle Codes:
+!In Battle Codes:
++Inf/Max MP/HP (player)
+%Credits: SkillerCMP
+$201BC490 2406270F
+$201BC4A0 A6660126
+$201BC4D4 2406270F
+$201BC4E4 A666012A
++Never Abnormal Statise
+%Credits: SkillerCMP
+$201BC270 A660012E
+$201BC27C 30047FFF
++1hit Kills Monsters (hp1/Mp0)
+%Credits: SkillerCMP
+$201A1AD0 24030001
+$201A1AD8 24040001
+$201A1AE0 24030000
+$201A1AE8 24040000
++Analyzing Always Successful (only The ?? Enemy)
+%Credits: Japan Hackers
+$201AE7BC 00000000
+$201AE95C 00000000
+$201AEA24 00000000
+$201AEB2C 00000000
+$201AEC4C 00000000
+$201AE990 10000003
+$201AEA58 10000003
++Death In Battle Does Not = Game Over
+%Credits: SkillerCMP
+$201C6B08 0C071ABC
+!!
+!After Battle Codes
+Quick EXP Gain X32 Exp
+%Credits: SkillerCMP
+$201A4428 0011[XX]
+Quick Atma Gain X32
+%Credits: SkillerCMP
+$201A7B98 0011[XX]
+Quick Money Gain X200
+%Credits: SkillerCMP
+$201A7D9C 0010[YY]
+!!
+!!
+!Item Codes:
++Use Item Gain 96
+%Credits: Japan Hackers
+$2011993C 34060060
++Sell Item Gain 96
+%Credits: Japan Hackers
+$20247518 34020060
+$2024754C 34020060
++Have All Norm Items
+%Credits: SkillerCMP
+$20272E04 0040C02D
+$20272E08 340F0062
+$20272E20 54400005
+$20272E24 A30F0000
++Have All Items
+%Credits: SkillerCMP
+$211425A0 63636300
+$401425A4 001A0001
+$63636363 00000000
+$0114260C 00000063
++Have All Ammo
+%Credits: SkillerCMP
+$21142640 63636300
+$40142644 00030001
+$63636363 00000000
+$11142650 00006363
+$21142640 63636300
++Have\Max All Sp Items
+%Credits: SkillerCMP
+$21141C80 FFFFFFFF
+!Individual Items:
+!Consumables:
++Have\Max Ration
+%Credits: SkillerCMP
+$011425A1 00000063
++Have\Max Brave Ration
+%Credits: SkillerCMP
+$011425A2 00000063
++Have\Max Hero Ration
+%Credits: SkillerCMP
+$011425A3 00000063
++Have\Max Graven Shard
+%Credits: SkillerCMP
+$011425A4 00000063
++Have\Max Graven Image
+%Credits: SkillerCMP
+$011425A5 00000063
++Have\Max Medical Kit
+%Credits: SkillerCMP
+$011425A6 00000063
++Have\Max Chakra Drop
+%Credits: SkillerCMP
+$011425A7 00000063
++Have\Max Chakra Elixir
+%Credits: SkillerCMP
+$011425A8 00000063
++Have\Max Chakra Pot
+%Credits: SkillerCMP
+$011425A9 00000063
++Have\Max Great Chakra
+%Credits: SkillerCMP
+$011425AA 00000063
++Have\Max Soma Drop
+%Credits: SkillerCMP
+$011425AB 00000063
++Have\Max Soma
+%Credits: SkillerCMP
+$011425AC 00000063
++Have\Max Muscle Drink
+%Credits: SkillerCMP
+$011425AD 00000063
++Have\Max Revival Bead
+%Credits: SkillerCMP
+$011425AE 00000063
++Have\Max Revival Gem
+%Credits: SkillerCMP
+$011425AF 00000063
++Have\Max Revival Orb
+%Credits: SkillerCMP
+$011425B0 00000063
++Have\Max Dis-Poison
+%Credits: SkillerCMP
+$011425B3 00000063
++Have\Max Dis-Ache
+%Credits: SkillerCMP
+$011425B4 00000063
++Have\Max Dis-Mute
+%Credits: SkillerCMP
+$011425B5 00000063
++Have\Max Dis-Stun
+%Credits: SkillerCMP
+$011425B6 00000063
++Have\Max Dis-Stone
+%Credits: SkillerCMP
+$011425B7 00000063
++Have\Max Dis-Curse
+%Credits: SkillerCMP
+$011425B8 00000063
++Have\Max Panacea
+%Credits: SkillerCMP
+$011425B9 00000063
++Have\Max Odd Morsel
+%Credits: SkillerCMP
+$011425BA 00000063
++Have\Max Moldy Roll
+%Credits: SkillerCMP
+$011425BB 00000063
++Have\Max Rancid Gravy
+%Credits: SkillerCMP
+$011425BC 00000063
++Have\Max Magic Mirror
+%Credits: SkillerCMP
+$011425C0 00000063
++Have\Max Attack Mirror
+%Credits: SkillerCMP
+$011425C1 00000063
++Have\Max Dekaja Rock
+%Credits: SkillerCMP
+$011425C2 00000063
++Have\Max Molotov
+%Credits: SkillerCMP
+$011425C4 00000063
++Have\Max Fire Bomb
+%Credits: SkillerCMP
+$011425C5 00000063
++Have\Max Ice Blast
+%Credits: SkillerCMP
+$011425C6 00000063
++Have\Max Frost Bomb
+%Credits: SkillerCMP
+$011425C7 00000063
++Have\Max Thunder Rod
+%Credits: SkillerCMP
+$011425C8 00000063
++Have\Max Shock Bomb
+%Credits: SkillerCMP
+$011425C9 00000063
++Have\Max Sonic Stone
+%Credits: SkillerCMP
+$011425CA 00000063
++Have\Max Blast
+%Credits: SkillerCMP
+$011425CB 00000063
++Have\Max Land Mine
+%Credits: SkillerCMP
+$011425CC 00000063
++Have\Max Magni Bomb
+%Credits: SkillerCMP
+$011425CD 00000063
++Have\Max Holy Arrow
+%Credits: SkillerCMP
+$011425CE 00000063
++Have\Max Dark Veil
+%Credits: SkillerCMP
+$011425CF 00000063
++Have\Max Al Azif
+%Credits: SkillerCMP
+$011425D0 00000063
++Have\Max Murder Rock
+%Credits: SkillerCMP
+$011425D1 00000063
++Have\Max Wild Card
+%Credits: SkillerCMP
+$011425D4 00000063
++Have\Max Megido Fire
+%Credits: SkillerCMP
+$011425D5 00000063
++Have\Max Wild Bomb
+%Credits: SkillerCMP
+$011425D6 00000063
++Have\Max Spyglass
+%Credits: SkillerCMP
+$011425D8 00000063
++Have\Max Estoma Spray
+%Credits: SkillerCMP
+$011425D9 00000063
++Have\Max Magic Reed
+%Credits: SkillerCMP
+$011425DA 00000063
++Have\Max Core Shield
+%Credits: SkillerCMP
+$011425DB 00000063
++Have\Max Fire Wall
+%Credits: SkillerCMP
+$011425E0 00000063
++Have\Max Ice Wall
+%Credits: SkillerCMP
+$011425E1 00000063
++Have\Max Bolt Wall
+%Credits: SkillerCMP
+$011425E2 00000063
++Have\Max Wind Wall
+%Credits: SkillerCMP
+$011425E3 00000063
++Have\Max Earth Wall
+%Credits: SkillerCMP
+$011425E4 00000063
++Have\Max Power Noise
+%Credits: SkillerCMP
+$011425F0 00000063
++Have\Max Vital Noise
+%Credits: SkillerCMP
+$011425F1 00000063
++Have\Max Magic Noise
+%Credits: SkillerCMP
+$011425F2 00000063
++Have\Max Quick Noise
+%Credits: SkillerCMP
+$011425F3 00000063
++Have\Max Luck Noise
+%Credits: SkillerCMP
+$011425F4 00000063
++Have\Max HP Noise
+%Credits: SkillerCMP
+$011425F5 00000063
++Have\Max MP Noise
+%Credits: SkillerCMP
+$011425F6 00000063
++Have\Max Devil Cell
+%Credits: SkillerCMP
+$01142601 00000063
++Have\Max Active Cell
+%Credits: SkillerCMP
+$01142602 00000063
++Have\Max Error
+%Credits: SkillerCMP
+$01142603 00000063
++Have\Max Code Cell
+%Credits: SkillerCMP
+$01142604 00000063
++Have\Max Quantum Cell
+%Credits: SkillerCMP
+$01142605 00000063
++Have\Max Organic Cell
+%Credits: SkillerCMP
+$01142606 00000063
++Have\Max Theory Cell
+%Credits: SkillerCMP
+$01142607 00000063
++Have\Max Logic Cell
+%Credits: SkillerCMP
+$01142608 00000063
++Have\Max Fusion Cell
+%Credits: SkillerCMP
+$01142609 00000063
++Have\Max Layer Cell
+%Credits: SkillerCMP
+$0114260A 00000063
++Have\Max Entity Cell
+%Credits: SkillerCMP
+$0114260B 00000063
++Have\Max Jack Cell
+%Credits: SkillerCMP
+$0114260C 00000063
+!!
+!Ammo Codes:
++Have\Max Bullet
+%Credits: SkillerCMP
+$01142641 00000063
++Have\Max Charge Shot
+%Credits: SkillerCMP
+$01142642 00000063
++Have\Max Tranq Shot
+%Credits: SkillerCMP
+$01142643 00000063
++Have\Max Shot Shell
+%Credits: SkillerCMP
+$01142644 00000063
++Have\Max Nerve Shot
+%Credits: SkillerCMP
+$01142645 00000063
++Have\Max Frigid Shot
+%Credits: SkillerCMP
+$01142646 00000063
++Have\Max Metal Jacket
+%Credits: SkillerCMP
+$01142647 00000063
++Have\Max Hollow Point
+%Credits: SkillerCMP
+$01142648 00000063
++Have\Max Charm Shot
+%Credits: SkillerCMP
+$01142649 00000063
++Have\Max Iron Shot
+%Credits: SkillerCMP
+$0114264A 00000063
++Have\Max Neutron Shot
+%Credits: SkillerCMP
+$0114264B 00000063
++Have\Max Reserve
+%Credits: SkillerCMP
+$0114264C 00000063
++Have\Max Silver Shot
+%Credits: SkillerCMP
+$0114264D 00000063
++Have\Max Forged Shot
+%Credits: SkillerCMP
+$0114264E 00000063
++Have\Max Dead End
+%Credits: SkillerCMP
+$0114264F 00000063
++Have\Max Theif Shot
+%Credits: SkillerCMP
+$01142650 00000063
++Have\Max Magatama
+%Credits: SkillerCMP
+$01142651 00000063
+!!
+!!
+!!
+!Video Mods:
++Main Starting Video To ??
+%Credits: SkillerCMP
+2037B768 [MOVIE]
+!!
+^6 = MODS:
+[MOVIE]
+VALUE>NAME
+003b1178	"cdrom0:/movie2/end15.ipu"
+003b1198	"cdrom0:/movie2/end14.ipu"
+003b11b8	"cdrom0:/movie2/end13.ipu"
+003b11d8	"cdrom0:/movie2/end12.ipu"
+003b11f8	"cdrom0:/movie2/end11.ipu"
+003b1218	"cdrom0:/movie2/end10.ipu"
+003b1238	"cdrom0:/movie2/end09.ipu"
+003b1258	"cdrom0:/movie2/end08.ipu"
+003b1278	"cdrom0:/movie2/end07.ipu"
+003b1298	"cdrom0:/movie2/end06.ipu"
+003b12b8	"cdrom0:/movie2/end05.ipu"
+003b1358	"cdrom0:/movie2/end04.ipu"
+003b1378	"cdrom0:/movie2/end03.ipu"
+003b1398	"cdrom0:/movie2/end02.ipu"
+003b13b8	"cdrom0:/movie2/end01.ipu"
+003b12d8	"cdrom0:/movie2/title.IPS" (Main Starting)
+003b12f8	"cdrom0:/movie/e663_001.IPS"
+003b1318	"cdrom0:/movie/e657_001.IPS"
+003b1338	"cdrom0:/movie/e613_001.IPS"
+003b13d8	"cdrom0:/movie2/e662_001.IPS"
+003b13f8	"cdrom0:/movie/e613_002.IPS"
+003b1418	"cdrom0:/movie2/e659_001.IPS"
+003b1438	"cdrom0:/movie/e648_001.IPS"
+003b1458	"cdrom0:/movie/e654_003.IPS"
+003b1478	"cdrom0:/movie/e654_002.IPS"
+003b1498	"cdrom0:/movie/e654_001.IPS"
+003b14b8	"cdrom0:/movie/e635_003.IPS"
+003b14d8	"cdrom0:/movie/e632_002.IPS"
+003b14f8	"cdrom0:/movie/e635_002.IPS"
+003b1518	"cdrom0:/movie/e658_001.IPS"
+003b1538	"cdrom0:/movie/e656_001.IPS"
+003b1558	"cdrom0:/movie/e655_001.IPS"
+003b1578	"cdrom0:/movie/e652_001.IPS"
+003b1598	"cdrom0:/movie/e650_001.IPS"
+003b15b8	"cdrom0:/movie/e644_001.IPS"
+003b15d8	"cdrom0:/movie/e642_001.IPS"
+003b15f8	"cdrom0:/movie/e640_001.IPS"
+003b1618	"cdrom0:/movie/e635_001.IPS"
+003b1638	"cdrom0:/movie/e633_002.IPS"
+003b1658	"cdrom0:/movie/e633_001.IPS"
+003b1678	"cdrom0:/movie/e632_001.IPS"
+003b1698	"cdrom0:/movie/e601_001.IPS"
+003b16b8	"cdrom0:/movie/e616_002.IPS"
+003b16d8	"cdrom0:/movie/e626_001.IPS"
+003b16f8	"cdrom0:/movie/e611_001.IPS"
+003b1718	"cdrom0:/movie/e607_001.IPS"
+003b1738	"cdrom0:/movie/e602_001.IPS"
+003b1758	"cdrom0:/movie/e615_001.IPS"
+003b1778	"cdrom0:/movie/626_001.IPS"
+003b1798	"cdrom0:/movie/607_001.IPS"
+003b17b8	"cdrom0:/movie/601_001.IPS"
+003b17d8	"cdrom0:/movie/e600_003.ipu"
+003b17f8	"cdrom0:/movie/e600_002.IPS"
+003b1818	"cdrom0:/movie/e600_001.IPS"
+003b1838	"cdrom0:/movie/e611.IPS"
+003b1850	"cdrom0:/movie/explo.ipu"
+003b1868	"cdrom0:/movie/title3.ipu"
+003b1888	"cdrom0:/movie/e686.IPS"
+003b18a0	"cdrom0:/movie/e684.IPS"
+003b18b8	"cdrom0:/movie/e688.IPS"
+003b18d0	"cdrom0:/movie/title2.IPS"
+003b18f0	"cdrom0:/movie/menu.IPS"
+003b1908	"cdrom0:/movie/e676.IPS"
+003b1920	"cdrom0:/movie/e617.IPS"
+003b1938	"cdrom0:/movie/title1.IPS"
+003b1958	"cdrom0:/movie/e674.IPS"
+003b1970	"cdrom0:/movie/e673_020.IPS"
+003b1990	"cdrom0:/movie2/g_over.IPS"
+003b19b0	"cdrom0:/movie/e658.IPS"
+003b19c8	"cdrom0:/movie/e804_i.IPS"
+003b19e8	"cdrom0:/movie/e804_f.IPS"
+003b1a08	"cdrom0:/movie/e804.IPS"
+003b1a20	"cdrom0:/movie/e616.IPS"
+003b1a38	"cdrom0:/movie/e500_002.ipu"
+003b1a58	"cdrom0:/movie2/log_ani.ipu"
+[/MOVIE]
+[DEBUG]
+VALUE>NAME
+0010A398	Start Game for Instant Extra Game Save Option
+0010A2F8	Wold Map Preview(Character x100)
+0010AA88	DDS Logo Test(Controller Buttons Do Things)
+0010AB08	100% World Map View
+[/DEBUG]
+[XX]
+VALUE>NAME
+8940	x32
+8A00	x256
+8A40	x512
+8A80	x1024
+8B80	X16384
+[/XX]
+[YY]
+VALUE>NAME
+8040	x200
+8080	x400
+80C0	x800
+8100	x1600
+8200	x25600
+[/YY]
+[SM]
+070	Body Rush
+071	Needle Rush
+072	Poison Dart
+181	Fire Storm
+182	Whirlwind
+184	Wind of Hell
+18F	Hima Alaya
+190	Vaikunta
+191	Bhairava
+1A6	Guard
+1A7	Gaea Rage
+[/SM]

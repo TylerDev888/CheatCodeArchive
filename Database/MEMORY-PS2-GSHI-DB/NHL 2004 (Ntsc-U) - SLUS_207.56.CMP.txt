@@ -1,0 +1,1231 @@
+^3 = NAME: NHL 2004 (Ntsc-U)
+^2 = GameID: SLUS-20756
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01BE554 001BE557
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0107108 001BE557
+!!
++All Unlockables
+%Credits: Codejunkies
+$209AF8A8 0FFFFFFF
+!Away Team Stats Modifier Codes:
++Breakaways
+%Credits: Code Master
+$1061E0AA 0000????
++Empty Net Goals
+%Credits: Code Master
+$1061E08C 0000????
++Faceoffs
+%Credits: Code Master
+$1061E090 0000????
++Hits
+%Credits: Code Master
+$1061E0B0 0000????
++Max Breakaways
+%Credits: Code Master
+$1061E0A8 0000????
++Max One-Timers
+%Credits: Code Master
+$1061E0A2 0000????
++Max Passing
+%Credits: Code Master
+$1061E0B2 0000????
++Max Penalty Shots
+%Credits: Code Master
+$1061E0AC 0000????
++Max Powerplays
+%Credits: Code Master
+$1061E094 0000????
++One-Timer Goals
+%Credits: Code Master
+$1061E0A6 0000????
++One-Timers
+%Credits: Code Master
+$1061E0A4 0000????
++Passing
+%Credits: Code Master
+$1061E0B4 0000????
++Penalties
+%Credits: Code Master
+$1061E09C 0000????
++Penalty Minutes
+%Credits: Code Master
+$1061E09E 0000????
++Penalty Shots
+%Credits: Code Master
+$1061E0AE 0000????
++Powerplay Minutes
+%Credits: Code Master
+$1061E09A 0000????
++Powerplays
+%Credits: Code Master
+$1061E096 0000????
++Shorthanted Goals
+%Credits: Code Master
+$1061E088 0000????
++Shots
+%Credits: Code Master
+$1061E080 0000????
++Time On Attack
+%Credits: Code Master
+$1061E0A0 0000????
+!!
++Away Team: Faceoffs: 0
+%Credits: MadCatz
+$1061E090 00000000
++Away Team: Faceoffs: 99
+%Credits: MadCatz
+$1061E090 00000063
++Away Team: Hits: 0
+%Credits: MadCatz
+$1061E0B0 00000000
++Away Team: Hits: 99
+%Credits: MadCatz
+$1061E0B0 00000063
++Away Team: Max PP
+%Credits: MadCatz
+$1061E094 00000063
++Away Team: Pass Rate Always 100
+%Credits: MadCatz
+$1061E0B2 00000063
+$1061E0B4 00000063
++Away Team: PP: 99
+%Credits: MadCatz
+$1061E096 00000063
++Away Team: Score: 0
+%Credits: MadCatz
+$1061E082 00000000
++Away Team: Score: 99
+%Credits: MadCatz
+$1061E082 00000063
++Away Team: Shots: 0
+%Credits: MadCatz
+$1061E080 00000000
++Away Team: Shots: 99
+%Credits: MadCatz
+$1061E080 00000063
+!CPU GM 1 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2CF2 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2D2A 0000FFFF
+$209C2D2C FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2D28 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2CF2 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2D2A 00000000
+$209C2D2C 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2D28 00000000
+!!
+!CPU GM 2 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2D4E 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2D86 0000FFFF
+$209C2D88 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2D84 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2D4E 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2D86 00000000
+$209C2D88 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2D84 00000000
+!!
+!CPU GM 3 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2DAA 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2DE2 0000FFFF
+$209C2DE4 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2DE0 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2DAA 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2DE2 00000000
+$209C2DE4 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2DE0 00000000
+!!
+!CPU GM 4 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2E06 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2E3E 0000FFFF
+$209C2E40 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2E3C 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2E06 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2E3E 00000000
+$209C2E40 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2E3C 00000000
+!!
+!CPU GM 5 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2E62 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2E9A 0000FFFF
+$209C2E9C FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2E98 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2E62 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2E9A 00000000
+$209C2E9C 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2E98 00000000
+!!
+!CPU GM 6 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2EBE 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2EF6 0000FFFF
+$209C2EF8 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2EF4 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2EBE 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2EF6 00000000
+$209C2EF8 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2EF4 00000000
+!!
+!CPU GM 7 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2F1A 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2F52 0000FFFF
+$209C2F54 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2F50 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2F1A 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2F52 00000000
+$209C2F54 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2F50 00000000
+!!
+!CPU GM 8 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2F76 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2FAE 0000FFFF
+$209C2FB0 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2FAC 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2F76 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2FAE 00000000
+$209C2FB0 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2FAC 00000000
+!!
+!CPU GM 9 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2FD2 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C300A 0000FFFF
+$209C300C FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3008 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2FD2 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C300A 00000000
+$209C300C 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3008 00000000
+!!
+!CPU GM 10 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C302E 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C3066 0000FFFF
+$209C3068 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3064 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C302E 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C3066 00000000
+$209C3068 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3064 00000000
+!!
+!CPU GM 11 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C308A 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C30C2 0000FFFF
+$209C30C4 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C30C0 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C308A 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C30C2 00000000
+$209C30C4 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C30C0 00000000
+!!
+!CPU GM 12 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C30E6 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C311E 0000FFFF
+$209C3120 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C311C 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C30E6 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C311E 00000000
+$209C3120 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C311C 00000000
+!!
+!CPU GM 13 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3142 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C317A 0000FFFF
+$209C317C FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3178 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3142 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C317A 00000000
+$209C317C 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3178 00000000
+!!
+!CPU GM 14 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C319E 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C31D6 0000FFFF
+$209C31D8 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C31D4 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C319E 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C31D6 00000000
+$209C31D8 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C31D4 00000000
+!!
+!CPU GM 15 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C31FA 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C3232 0000FFFF
+$209C3234 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3230 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C31FA 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C3232 00000000
+$209C3234 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3230 00000000
+!!
+!CPU GM 16 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3256 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C328E 0000FFFF
+$209C3290 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C328C 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3256 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C328E 00000000
+$209C3290 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C328C 00000000
+!!
+!CPU GM 17 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C32B2 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C32EA 0000FFFF
+$209C32EC FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C32E8 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C32B2 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C32EA 00000000
+$209C32EC 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C32E8 00000000
+!!
+!CPU GM 18 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C330E 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C3346 0000FFFF
+$209C3348 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3344 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C330E 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C3346 00000000
+$209C3348 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3344 00000000
+!!
+!CPU GM 19 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C336A 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C33A2 0000FFFF
+$209C33A4 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C33A0 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C336A 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C33A2 00000000
+$209C33A4 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C33A0 00000000
+!!
+!CPU GM 20 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C33C6 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C33FE 0000FFFF
+$209C3400 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C33FC 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C33C6 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C33FE 00000000
+$209C3400 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C33FC 00000000
+!!
+!CPU GM 21 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3422 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C345A 0000FFFF
+$209C345C FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3458 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3422 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C345A 00000000
+$209C345C 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3458 00000000
+!!
+!CPU GM 22 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C347E 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C34B6 0000FFFF
+$209C34B8 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C34B4 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C347E 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C34B6 00000000
+$209C34B8 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C34B4 00000000
+!!
+!CPU GM 23 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C34DA 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C3512 0000FFFF
+$209C3514 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3510 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C34DA 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C3512 00000000
+$209C3514 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3510 00000000
+!!
+!CPU GM 24 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3536 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C356E 0000FFFF
+$209C3570 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C356C 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3536 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C356E 00000000
+$209C3570 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C356C 00000000
+!!
+!CPU GM 25 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3592 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C35CA 0000FFFF
+$209C35CC FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C35C8 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3592 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C35CA 00000000
+$209C35CC 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C35C8 00000000
+!!
+!CPU GM 26 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C35EE 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C3626 0000FFFF
+$209C3628 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3624 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C35EE 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C3626 00000000
+$209C3628 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3624 00000000
+!!
+!CPU GM 27 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C364A 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C3682 0000FFFF
+$209C3684 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3680 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C364A 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C3682 00000000
+$209C3684 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3680 00000000
+!!
+!CPU GM 28 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C36A6 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C36DE 0000FFFF
+$209C36E0 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C36DC 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C36A6 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C36DE 00000000
+$209C36E0 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C36DC 00000000
+!!
+!CPU GM 29 Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3702 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C373A 0000FFFF
+$209C373C FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3738 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3702 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C373A 00000000
+$209C373C 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C3738 00000000
+!!
++Dynasty Mode: 9999 Upgrade Points
+%Credits: MadCatz
+$218EA4F8 0000270F
+!Home Team Stats Modifier Codes:
++Breakaways
+%Credits: Code Master
+$1061E04E 0000????
++Empty Net Goals
+%Credits: Code Master
+$1061E030 0000????
++Faceoffs
+%Credits: Code Master
+$1061E034 0000????
++Hits
+%Credits: Code Master
+$1061E054 0000????
++Max Breakaways
+%Credits: Code Master
+$1061E04C 0000????
++Max One-Timers
+%Credits: Code Master
+$1061E046 0000????
++Max Passing
+%Credits: Code Master
+$1061E056 0000????
++Max Penalty Shots
+%Credits: Code Master
+$1061E050 0000????
++Max Powerplays
+%Credits: Code Master
+$1061E038 0000????
++One-Timer Goals
+%Credits: Code Master
+$1061E04A 0000????
++One-Timers
+%Credits: Code Master
+$1061E048 0000????
++Passing
+%Credits: Code Master
+$1061E058 0000????
++Penalties
+%Credits: Code Master
+$1061E040 0000????
++Penalty Minutes
+%Credits: Code Master
+$1061E042 0000????
++Penalty Shots
+%Credits: Code Master
+$1061E052 0000????
++Powerplay Minutes
+%Credits: Code Master
+$1061E03E 0000????
++Powerplays
+%Credits: Code Master
+$1061E03A 0000????
++Shorthanted Goals
+%Credits: Code Master
+$1061E02C 0000????
++Shots
+%Credits: Code Master
+$1061E024 0000????
++Time On Attack
+%Credits: Code Master
+$1061E044 0000????
+!!
++Home Team: Faceoffs: 0
+%Credits: MadCatz
+$1061E034 00000000
++Home Team: Faceoffs: 99
+%Credits: MadCatz
+$1061E034 00000063
++Home Team: Hits: 0
+%Credits: MadCatz
+$1061E054 00000000
++Home Team: Hits: 99
+%Credits: MadCatz
+$1061E054 00000063
++Home Team: Pass Rate Always 100
+%Credits: MadCatz
+$1061E056 00000063
+$1061E058 00000063
++Home Team: PP: 99
+%Credits: MadCatz
+$1061E040 00000063
++Home Team: Score: 0
+%Credits: MadCatz
+$1061E026 00000000
++Home Team: Score: 99
+%Credits: MadCatz
+$1061E026 00000063
++Home Team: Shots: 0
+%Credits: MadCatz
+$1061E024 00000000
++Home Team: Shots: 99
+%Credits: MadCatz
+$1061E024 00000063
+!Miscellaneous Codes:
++Away Team Score Modifier
+%Credits: Code Master
+$1061E082 0000????
++Away Team Start With Score Modifier
+%Credits: Code Master
+$D061E082 00000000
+$1061E082 0000????
++Goal's Score Modifier
+%Credits: Code Master
+$103F7780 000000??
++Home Team Score Modifier
+%Credits: Code Master
+$1061E026 0000????
++Home Team Start With Score Modifier
+%Credits: Code Master
+$D061E026 00000000
+$1061E026 0000????
++P1 Press L1+L2 For More Time
+%Credits: Code Master
+$D0644FC2 0000FAFF
+$1061646C 000004B0
++P1 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D0644FC2 0000FBFE
+$20616470 00010001
++P1 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D0644FC2 0000FEFE
+$20616470 00020002
++P1 Press R1+R2 To End Period
+%Credits: Code Master
+$D0644FC2 0000F5FF
+$1061646C 00000001
++P2 Press L1+L2 For More Time
+%Credits: Code Master
+$D06450C2 0000FAFF
+$1061646C 000004B0
++P2 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D06450C2 0000FBFE
+$20616470 00010001
++P2 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D06450C2 0000FEFE
+$20616470 00020002
++P2 Press R1+R2 To End Period
+%Credits: Code Master
+$D06450C2 0000F5FF
+$1061646C 00000001
++P3 Press L1+L2 For More Time
+%Credits: Code Master
+$D06451C2 0000FAFF
+$1061646C 000004B0
++P3 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D06451C2 0000FBFE
+$20616470 00010001
++P3 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D06451C2 0000FEFE
+$20616470 00020002
++P3 Press R1+R2 To End Period
+%Credits: Code Master
+$D06451C2 0000F5FF
+$1061646C 00000001
++P4 Press L1+L2 For More Time
+%Credits: Code Master
+$D06452C2 0000FAFF
+$1061646C 000004B0
++P4 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D06452C2 0000FBFE
+$20616470 00010001
++P4 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D06452C2 0000FEFE
+$20616470 00020002
++P4 Press R1+R2 To End Period
+%Credits: Code Master
+$D06452C2 0000F5FF
+$1061646C 00000001
++P5 Press L1+L2 For More Time
+%Credits: Code Master
+$D06453C2 0000FAFF
+$1061646C 000004B0
++P5 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D06453C2 0000FBFE
+$20616470 00010001
++P5 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D06453C2 0000FEFE
+$20616470 00020002
++P5 Press R1+R2 To End Period
+%Credits: Code Master
+$D06453C2 0000F5FF
+$1061646C 00000001
++P6 Press L1+L2 For More Time
+%Credits: Code Master
+$D06454C2 0000FAFF
+$1061646C 000004B0
++P6 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D06454C2 0000FBFE
+$20616470 00010001
++P6 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D06454C2 0000FEFE
+$20616470 00020002
++P6 Press R1+R2 To End Period
+%Credits: Code Master
+$D06454C2 0000F5FF
+$1061646C 00000001
++P7 Press L1+L2 For More Time
+%Credits: Code Master
+$D06455C2 0000FAFF
+$1061646C 000004B0
++P7 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D06455C2 0000FBFE
+$20616470 00010001
++P7 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D06455C2 0000FEFE
+$20616470 00020002
++P7 Press R1+R2 To End Period
+%Credits: Code Master
+$D06455C2 0000F5FF
+$1061646C 00000001
++P8 Press L1+L2 For More Time
+%Credits: Code Master
+$D06456C2 0000FAFF
+$1061646C 000004B0
++P8 Press L1+Select For 2Nd Period
+%Credits: Code Master
+$D06456C2 0000FBFE
+$20616470 00010001
++P8 Press L2+Select For 3Rd Period
+%Credits: Code Master
+$D06456C2 0000FEFE
+$20616470 00020002
++P8 Press R1+R2 To End Period
+%Credits: Code Master
+$D06456C2 0000F5FF
+$1061646C 00000001
+!!
+!Unlock Unlockable Codes:
++All Unlockables
+%Credits: Code Master
+$20673CE0 01010101
+$20673CE4 01010101
+$10673CE8 00000101
++Big Head Mode
+%Credits: Code Master
+$00673CE2 00000001
++Commentators-Chipmunk Voice
+%Credits: Code Master
+$00673CE6 00000001
++Commentators-Deep Voice
+%Credits: Code Master
+$00673CE1 00000001
++Dynasty Mode-2 GM Office Rewards
+%Credits: Code Master
+$00673CE3 00000001
++Dynasty Mode-2 Upgrade Points
+%Credits: Code Master
+$00673CE0 00000001
++Dynasty Mode-3 Upgrade Points
+%Credits: Code Master
+$00673CE4 00000001
++Dynasty Mode-4 Upgrade Points
+%Credits: Code Master
+$00673CE7 00000001
++Dynasty Mode-5 Upgrade Points
+%Credits: Code Master
+$00673CE8 00000001
++Dynasty Mode-6 Upgrade Points
+%Credits: Code Master
+$00673CE9 00000001
++Mile Wide Stadium
+%Credits: Code Master
+$00673CE5 00000001
+!!
+!Your Team Codes:
++Max Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2C96 00002710
++Max Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2CCE 0000FFFF
+$209C2CD0 FFFFFFFF
++Max W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2CCC 000000C8
++No Experience
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2C96 00000000
++No Staff/Facility Upgrades
+%Credits: Code Master
+$E0024957 009C2C10
+$109C2CCE 00000000
+$209C2CD0 00000000
++No W%
+%Credits: Code Master
+$D09C2C10 00004957
+$109C2CCC 00000000
+!!
+!!
+

@@ -1,0 +1,169 @@
+^3 = NAME: NHL 2K3 - Sega Sports (Ntsc-U)
+^2 = GameID: SLUS-20477
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F053618C 0053618F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0053618F
+!!
++All Goal's Score For Away Team
+%Credits: Code Master
+$20330220 24030004
++All Goal's Score For Home Team
+%Credits: Code Master
+$20330220 24030000
++Always Argue Penalties
+%Credits: floydfan
+$2059FCA0 00000001
++Always Fight
+%Credits: floydfan
+$205914C0 00000001
++Always Grumble About Penalties
+%Credits: floydfan
+$2059FCD4 00000001
+!Away Score Codes:
++Always Score 0
+%Credits: Codejunkies
+$10592CD4 00000000
++Always Score 20
+%Credits: Codejunkies
+$10592CD4 00000014
++The Away Team Wins (Press R1+R2 To Activate)
+%Credits: Codejunkies
+$D065CB02 0000F5FF
+$10592CD0 00000000
+$D065CB02 0000F5FF
+$10592CD4 00000014
+!!
++Away Team Score Modifier
+%Credits: Code Master
+$10592CD4 0000????
+!Away Team Stats Codes:
++Breakaways Modifier
+%Credits: Code Master
+$10CBD930 0000????
++Goals Modifier
+%Credits: Code Master
+$10CBD91C 0000????
++Hits Modifier
+%Credits: Code Master
+$10CBD938 0000????
++Max Breakaways Modifier
+%Credits: Code Master
+$10CBD932 0000????
++Max Passing Modifier
+%Credits: Code Master
+$10CBD934 0000????
++Max Penalties Modifier
+%Credits: Code Master
+$10CBD93A 0000????
++Max Power Plays Modifier
+%Credits: Code Master
+$10CBD924 0000????
++Max Short-Handed Goals Modifier
+%Credits: Code Master
+$10CBD92A 0000????
++Passing Modifier
+%Credits: Code Master
+$10CBD936 0000????
++Penalties Modifier
+%Credits: Code Master
+$10CBD944 0000????
++Power Plays Modifier
+%Credits: Code Master
+$10CBD920 0000????
++Short-Handed Goals Modifier
+%Credits: Code Master
+$10CBD926 0000????
++Shots Modifier
+%Credits: Code Master
+$10CBD91A 0000????
+!!
++Enable Big Heads
+%Credits: floydfan
+$2056E268 00000001
++Goal's Score Modifier
+%Credits: Code Master
+$1033022C 000000??
+!Home Score Codes:
++Always Score 0
+%Credits: Codejunkies
+$10592CD0 00000000
++Always Score 20
+%Credits: Codejunkies
+$10592CD0 00000014
++The Home Team Wins (Press L1+L2 To Activate)
+%Credits: Codejunkies
+$D065CB02 0000FAFF
+$10592CD0 00000014
+$D065CB02 0000FAFF
+$10592CD4 00000000
+!!
++Home Team Score Modifier
+%Credits: Code Master
+$10592CD0 0000????
+!Home Team Stats Codes:
++Breakaways Modifier
+%Credits: Code Master
+$10CBD8EC 0000????
++Goals Modifier
+%Credits: Code Master
+$10CBD8D8 0000????
++Hits Modifier
+%Credits: Code Master
+$10CBD8F4 0000????
++Max Breakaways Modifier
+%Credits: Code Master
+$10CBD8EE 0000????
++Max Passing Modifier
+%Credits: Code Master
+$10CBD8F0 0000????
++Max Penalties Modifier
+%Credits: Code Master
+$10CBD8F6 0000????
++Max Power Plays Modifier
+%Credits: Code Master
+$10CBD8E0 0000????
++Max Short-Handed Goals Modifier
+%Credits: Code Master
+$10CBD8E6 0000????
++Passing Modifier
+%Credits: Code Master
+$10CBD8F2 0000????
++Penalties Modifier
+%Credits: Code Master
+$10CBD900 0000????
++Power Plays Modifier
+%Credits: Code Master
+$10CBD8DC 0000????
++Short-Handed Goals Modifier
+%Credits: Code Master
+$10CBD8E2 0000????
++Shots Modifier
+%Credits: Code Master
+$10CBD8D6 0000????
+!!
++Infinite Time-Outs (Both Teams)
+%Credits: Code Master
+$20356BAC 00000000
++Make Players Invisible
+%Credits: floydfan
+$205A6B1C 00000001
++Maximum Injury Chance (Affects Both Teams)
+%Credits: floydfan
+$205D5934 FFFFFFFF
++Minimum Injury Chance (Affects Both Teams)
+%Credits: floydfan
+$205D5934 00000000
++Start On 2Nd Period
+%Credits: Code Master
+$D0592CC4 00000001
+$10592CC4 00000002
++Start On 3Rd Period
+%Credits: Code Master
+$D0592CC4 00000001
+$10592CC4 00000003
+!!
+

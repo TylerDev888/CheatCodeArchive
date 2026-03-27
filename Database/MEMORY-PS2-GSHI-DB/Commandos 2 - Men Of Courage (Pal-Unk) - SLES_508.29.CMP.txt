@@ -1,0 +1,25 @@
+^3 = NAME: Commandos 2 - Men Of Courage (Pal-Unk)
+^2 = GameID: SLES-50829
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F062455C 0062455F
+!!
+!Dev Flags:
++God Mode
+%Credits: Codejunkies
+$E0020006 00407244
+$D0407246 0000A060
+$20407244 A0620006
++Invisible
+%Credits: Codejunkies
+$E0020006 00407244
+$D0407246 0000A060
+$20407244 A0620007
++Invisible/God Mode
+%Credits: Codejunkies
+$E0020006 00407244
+$D0407246 0000A060
+$20407244 A4660006
+!!
+

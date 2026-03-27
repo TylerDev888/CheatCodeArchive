@@ -1,0 +1,11 @@
+^2 = GameID: BLJM60248
+^3 = NAME: Arcana Heart 3
+^4 = FILE: SYSTEM.DAT
++Update Wadd For System.dat (required)
+$set [csum]:0
+$carry(2)
+(set [csum]:wadd(0x000004,0x001187))
+$set pointer:eof+1
+$set [csum]:wadd(0x000004,pointer)
+$set [csum]:xor:FFFF
+$write at 0x000000:[csum]

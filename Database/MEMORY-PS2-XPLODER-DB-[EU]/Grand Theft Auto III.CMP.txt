@@ -1,0 +1,44 @@
+^3 = NAME: Grand Theft Auto III
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 0011F347
+!!
+!Other:
++All Cars Indestructible
+%Credits: Xploder
+$201AE558 00000000
++Cars Don't Stop At Traffic Lights
+%Credits: Xploder
+$202220C0 03E00008
+$202220C4 24020000
++Stop Daily Clock
+%Credits: Xploder
+$20268860 03E00008
+$20268864 00000000
++Unlock All Weapons{(All Hidden Packages)}
+%Credits: Xploder
+$20511930 00000064
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$40B66810 00020001
+$42C80000 00000000
++Money
+%Credits: Xploder
+$20511928 03FFFFFF
++Time
+%Credits: Xploder
+$202B95C0 00000000
+!!
+!Unlimited Ammunition:
++All Weapons
+%Credits: Xploder
+$201A34E8 00000000
+$201A3508 00000000
++All Weapons Inside Car
+%Credits: Xploder
+$201A2FB4 00000000
+$201A2FD4 00000000
+!!

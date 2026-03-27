@@ -1,0 +1,212 @@
+^3 = NAME: American Chopper (NTSC-U)
+^2 = GameID: SLUS-21069
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F011E470 0011E473
++Enable Code (Must Be On)
+%Credits: Code Master
+$9011E470 0C0A8236
+!!
+!Bonuses Codes:
++Max Clean Driving
+%Credits: Code Master
+$20A45B24 0000EA5F
++Max Enemy Bikers Down
+%Credits: Code Master
+$20A45AA4 0098967F
++Max Max Speed
+%Credits: Code Master
+$20A45B64 0000EA5F
++Max Near Miss Chain X2
+%Credits: Code Master
+$20A45BE4 0098967F
++Max Near Miss Chain X3
+%Credits: Code Master
+$20A45C24 0098967F
++Max Near Miss Chain X4
+%Credits: Code Master
+$20A45C64 0098967F
++Max Near Miss Ultimate Chain
+%Credits: Code Master
+$20A45CA4 0098967F
++Max Near Misses
+%Credits: Code Master
+$20A45BA4 0098967F
++Max Pedestrians Scared
+%Credits: Code Master
+$20A45AE4 0098967F
++Max Police Evasions
+%Credits: Code Master
+$20A45CE4 0098967F
++No Clean Driving
+%Credits: Code Master
+$20A45B24 00000000
++No Enemy Bikers Down
+%Credits: Code Master
+$20A45AA4 00000000
++No Max Speed
+%Credits: Code Master
+$20A45B64 00000000
++No Near Miss Chain X2
+%Credits: Code Master
+$20A45BE4 00000000
++No Near Miss Chain X3
+%Credits: Code Master
+$20A45C24 00000000
++No Near Miss Chain X4
+%Credits: Code Master
+$20A45C64 00000000
++No Near Miss Ultimate Chain
+%Credits: Code Master
+$20A45CA4 00000000
++No Near Misses
+%Credits: Code Master
+$20A45BA4 00000000
++No Pedestrians Scared
+%Credits: Code Master
+$20A45AE4 00000000
++No Police Evasions
+%Credits: Code Master
+$20A45CE4 00000000
+!!
+!Collectables Codes:
++Max Fuel Canisters
+%Credits: Code Master
+$20A459E4 0098967F
++Max Repairs Kits
+%Credits: Code Master
+$20A45A24 0098967F
++No Fuel Canisters
+%Credits: Code Master
+$20A459E4 00000000
++No Repairs Kits
+%Credits: Code Master
+$20A45A24 00000000
+!!
+!MISC:
++Access All Bikes
+%Credits: Code Master
+$202B9180 03E00008
+$202B9184 24020001
++Access All Chapters
+%Credits: Code Master
+$2034CEBC 24020001
++Cars Always Should Avoid You
+%Credits: Code Master
+$202D2F10 03E00008
+$202D2F14 24020001
++Cars Should Never Break Before Crossroads
+%Credits: Code Master
+$202D31C0 03E00008
+$202D31C4 24020000
++Cars Should Never Break To Avoid Collisions
+%Credits: Code Master
+$202D3B00 03E00008
+$202D3B04 24020000
++Idiot AI-Cars
+%Credits: Code Master
+$20230680 03E00008
+$20230684 00000000
++Infinite Style Points
+%Credits: Code Master
+$10A6EC8C 0000FFFF
++Max Style Points
+%Credits: Code Master
+$20A6EC8C 0098967F
+!!
+!Penalties Codes:
++Max Falls
+%Credits: Code Master
+$20A458E4 0098967F
++Max Friendly Bikers Down
+%Credits: Code Master
+$20A45864 0098967F
++Max Pedestrians Down
+%Credits: Code Master
+$20A45924 0098967F
++Max Police Chases Lost
+%Credits: Code Master
+$20A45964 0098967F
++Max Traffic Hits
+%Credits: Code Master
+$20A458A4 0098967F
++No Falls
+%Credits: Code Master
+$20A458E4 00000000
++No Friendly Bikers Down
+%Credits: Code Master
+$20A45864 00000000
++No Pedestrians Down
+%Credits: Code Master
+$20A45924 00000000
++No Police Chases Lost
+%Credits: Code Master
+$20A45964 00000000
++No Traffic Hits
+%Credits: Code Master
+$20A458A4 00000000
+!!
+!Statistics Codes:
++Max Clean Driving
+%Credits: Codejunkies
+$20A45B24 0000176F
++Max Distance Traveled
+%Credits: Code Master
+$20A457E4 0098967F
++Max Distance Traveled
+%Credits: Codejunkies
+$20A457E4 000F423F
++Max Enemy Bikers Down
+%Credits: Codejunkies
+$20A45AA4 000F423F
++Max Fuel Canisters
+%Credits: Codejunkies
+$20A459E4 000F423F
++Max Near Miss Chain X2
+%Credits: Codejunkies
+$20A45BE4 000F423F
++Max Near Miss Chain X3
+%Credits: Codejunkies
+$20A45C24 000F423F
++Max Near Miss Chain X4
+%Credits: Codejunkies
+$20A45C64 000F423F
++Max Near Miss Ultimate Chain
+%Credits: Codejunkies
+$20A45CA4 000F423F
++Max Near Misses
+%Credits: Codejunkies
+$20A45BA4 000F423F
++Max Pedestrians Scared
+%Credits: Codejunkies
+$20A45AE4 000F423F
++Max Police Evasions
+%Credits: Codejunkies
+$20A45CE4 000F423F
++Max Repair Kits
+%Credits: Codejunkies
+$20A45A24 000F423F
++Max Speed
+%Credits: Codejunkies
+$20A45B64 0000176F
++Max Time Played
+%Credits: Code Master
+$20A457A4 0000EA5F
++Max Time Played
+%Credits: Codejunkies
+$20A457A4 0000176F
++Max Total Mission Points
+%Credits: Code Master
+$20A45628 0098967F
++No Distance Traveled
+%Credits: Code Master
+$20A457E4 00000000
++No Time Played
+%Credits: Code Master
+$20A457A4 00000000
++No Total Mission Points
+%Credits: Code Master
+$20A45628 00000000
+!!
+

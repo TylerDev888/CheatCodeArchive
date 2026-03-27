@@ -1,0 +1,1252 @@
+^2 = GameID: CUSA02966,CUSA03237,CUSA03185
+^3 = NAME: Digimon Story: Cyber Sleuth
+^SECONDLAYER: NO
+^4 = FILE: sd000[0-9]\gamedata.bin
+%Credits:Pikafiend>Kitsune>mrsavage86
++Max Stat{<div class="note"><h4>NOTE — Max Stat Block (what to edit)</h4><ul class="bullet-list"><li>Edit only the values on <code>$41...</code>/<code>$42...</code> lines; leave the repeating <code>$400B0240 00000000</code> “stride” lines unchanged.</li><li>Lines labeled “Spacing” are structural—<strong>do not alter</strong>.</li><li>Defaults shown as HEX (DEC). Keep within the game’s caps to avoid odd behavior.</li></ul><table border="1" cellpadding="4" cellspacing="0"><thead><tr><th>Field</th><th>Addr (suffix)</th><th>Default</th><th>Edit?</th></tr></thead><tbody><tr><td>HP Current</td><td>41041F34</td><td>2706 (9990)</td><td>Yes</td></tr><tr><td>HP Spacing</td><td>41041F36</td><td>0000</td><td>No</td></tr><tr><td>HP Max</td><td>41041F38</td><td>2706 (9990)</td><td>Yes</td></tr><tr><td>SP Current</td><td>41041F40</td><td>03E7 (999)</td><td>Yes</td></tr><tr><td>SP Spacing</td><td>41041F42</td><td>0000</td><td>No</td></tr><tr><td>SP Max</td><td>41041F44</td><td>03E7 (999)</td><td>Yes</td></tr><tr><td>ATK (pair)</td><td>42041F4A</td><td>03E7/03E7 (999/999)</td><td>Yes</td></tr><tr><td>DEF</td><td>41041F4E</td><td>03E7 (999)</td><td>Yes</td></tr><tr><td>INT</td><td>41041F52</td><td>03E7 (999)</td><td>Yes</td></tr><tr><td>SPD</td><td>41041F56</td><td>03E7 (999)</td><td>Yes</td></tr><tr><td>ABI</td><td>41041F5A</td><td>0064 (100)</td><td>Yes</td></tr><tr><td>Cam %</td><td>41041F5C</td><td>0064 (100)</td><td>Yes</td></tr></tbody></table><p style="margin-top:6px;">Example shorthand: <code>41041F5C</code> = <em>Cam %</em>. Adjust only the HEX value, keep the stride lines as-is.</p></div>}
+$41041F34 00002706
+$400B0240 00000000
+$41041F36 00000000
+$400B0240 00000000
+$41041F38 00002706
+$400B0240 00000000
+$41041F40 000003E7
+$400B0240 00000000
+$41041F42 00000000
+$400B0240 00000000
+$41041F44 000003E7
+$400B0240 00000000
+$42041F4A 03E703E7
+$400B0240 00000000
+$41041F4E 000003E7
+$400B0240 00000000
+$41041F52 000003E7
+$400B0240 00000000
+$41041F56 000003E7
+$400B0240 00000000
+$41041F5A 00000064
+$400B0240 00000000
+$41041F5C 00000064
+$400B0240 00000000
++Max EXP
+$42041F28 00CF1213
+$400B0240 00000000
++200% Scan
+$410104EA 000000C8
+$40F00004 00000000
++Field Guide (use At Your Own Risk Xp)
+$41043BF0 00000002
+$40FE0008 00000000
++Swap Item
+$92000000 00044A34
+$88010007 000000[Item]
+$00 00000000	
+$A8000003 00000004
+$[Item] 00000000	
++Edit Quantity Of Item
+$92000000 00044A34
+$88010007 000000	
+$[Item]00 00000000	
+$1800000B 0000[Amount:0063:HEX:BIG]	
+^6 = MODS:	
+[Item]
+ID>Item
+01000000	HP Capsule C
+02000000	HP Capsule B
+03000000	HP Capsule A
+04000000	HP Spray C
+05000000	HP Spray B
+06000000	HP Spray A
+07000000	SP Capsule C
+08000000	SP Capsule B
+09000000	SP Capsule A
+0A000000	SP Spray B
+0B000000	SP Spray A
+0C000000	Medical Spray
+0D000000	Medical Spray DX
+0E000000	Poison Recovery
+0F000000	Panic Recovery
+10000000	Paralysis Recovery
+11000000	Sleep Recovery
+12000000	Stun Recovery
+13000000	Sprite Recovery
+14000000	Bug Recovery
+15000000	Multi-Recovery
+16000000	Multi-Recovery DX
+17000000	Revival Capsule
+18000000	Revival Capsule DX
+19000000	Full Revival Spray
+1A000000	ATK Boost
+1B000000	DEF Boost
+1C000000	INT Boost
+1D000000	SPD Boost
+1E000000	HIT Boost
+1F000000	AGL Boost
+20000000	CRT Boost
+21000000	Escape Gate
+32000000	Brave Point E
+33000000	Brave Point D
+34000000	Brave Point C
+35000000	Brave Point B
+36000000	Brave Point A
+37000000	Friendship
+38000000	Friendship DX
+39000000	Home Gate
+3A000000	Export
+3C000000	Digi-Egg of Courage
+3D000000	Digi-Egg of Miracles
+3E000000	Digi-Egg of Destiny
+3F000000	Omni Sword
+40000000	Human Spirit of Flame
+41000000	Beast Spirit of Flame
+42000000	Human Spirit of Light
+43000000	Beast Spirit of Light
+44000000	Digivolution Item 9
+45000000	Digivolution Item 10
+46000000	Topaz
+47000000	Pearl
+48000000	Aquamarine
+49000000	Jade
+4A000000	Alexandrite
+4B000000	Ruby
+4C000000	Sapphire
+4D000000	Emerald
+4E000000	Diamond
+4F000000	Chrome Digizoid
+5A000000	Memory UP
+5B000000	Memory UP DX
+64000000	Durability Patch
+65000000	Lively Patch
+66000000	Fighter Patch
+67000000	Defender Patch
+68000000	Brainy Patch
+69000000	Nimble Patch
+6A000000	Development Patch
+6B000000	Searcher Patch
+6E000000	HP Restraint Chip C
+6F000000	HP Restraint Chip B
+70000000	HP Restraint Chip A
+71000000	SP Restraint Chip C
+72000000	SP Restraint Chip B
+73000000	SP Restraint Chip A
+74000000	ATK Restraint Chip C
+75000000	ATK Restraint Chip B
+76000000	ATK Restraint Chip A
+77000000	DEF Restraint Chip C
+78000000	DEF Restraint Chip B
+79000000	DEF Restraint Chip A
+7A000000	INT Restraint Chip C
+7B000000	INT Restraint Chip B
+7C000000	INT Restraint Chip A
+7D000000	SPD Restraint Chip C
+7E000000	SPD Restraint Chip B
+7F000000	SPD Restraint Chip A
+C8000000	Exciting Meat
+C9000000	Best Meat
+CA000000	Vigor Mushroom
+CB000000	Mental Melon
+CC000000	Power Pine
+CD000000	Aegis Apple
+CE000000	Clever Carrot
+CF000000	Boost Banana
+D0000000	Miracle Meat
+D1000000	Kyoko's Coffee (Rainbow)
+D2000000	Nokia's Strange Candy
+D3000000	Arata's Prized Comic
+D4000000	Yuuko's Grand Feast
+D5000000	DVD: Gangster Girls
+D6000000	Popular Guy's Guide
+D7000000	Vanguard K's Mask
+D8000000	Erika's Tarte Tatin
+D9000000	Ryuji's Bento
+DA000000	Chitose's Cookie
+DB000000	Yu's Chocolate Cake
+DC000000	Yuuko's Omelet
+DD000000	Fei's Warabimochi
+DE000000	Date's Bun
+DF000000	Matayoshi's Milk
+E0000000	Nokia's Kuzumochi
+E1000000	Agumon and Gabumon's Meat
+E2000000	Arata's Muffin
+E3000000	Lillymon's Meat
+E4000000	Renamon's Meat
+E5000000	Beelzemon's Meat
+E6000000	Leomon's Meat
+2D010000	HP Attach E
+2E010000	HP Attach D
+2F010000	HP Attach C
+30010000	HP Attach B
+31010000	HP Attach A
+32010000	SP Attach E
+33010000	SP Attach D
+34010000	SP Attach C
+35010000	SP Attach B
+36010000	SP Attach A
+37010000	ATK Attach E
+38010000	ATK Attach D
+39010000	ATK Attach C
+3A010000	ATK Attach B
+3B010000	ATK Attach A
+3C010000	DEF Attach E
+3D010000	DEF Attach D
+3E010000	DEF Attach C
+3F010000	DEF Attach B
+40010000	DEF Attach A
+41010000	INT Attach E
+42010000	INT Attach D
+43010000	INT Attach C
+44010000	INT Attach B
+45010000	INT Attach A
+46010000	SPD Attach E
+47010000	SPD Attach D
+48010000	SPD Attach C
+49010000	SPD Attach B
+4A010000	SPD Attach A
+4B010000	HIT Attach C
+4C010000	HIT Attach B
+4D010000	HIT Attach A
+4E010000	AGL Attach C
+4F010000	AGL Attach B
+50010000	AGL Attach A
+51010000	CRT Attach C
+52010000	CRT Attach B
+53010000	CRT Attach A
+54010000	Energy Disk
+55010000	Cheerful Disk
+56010000	Tough Disk
+57010000	Soul Disk
+58010000	Charge Disk
+59010000	Oracle Disk
+5A010000	Mind Disk
+5B010000	Mage Disk
+5C010000	Thief Disk
+5D010000	Fighter Disk
+5E010000	Sage Disk
+5F010000	Assassin Disk
+60010000	Bishop Disk
+61010000	Monk Disk
+62010000	Spirit Disk
+63010000	Ranger Disk
+64010000	Feather Disk
+65010000	Gladiator Disk
+66010000	Master Disk
+67010000	Flare Guard
+68010000	Flare Guard DX
+69010000	Aqua Guard
+6A010000	Aqua Guard DX
+6B010000	Plant Guard
+6C010000	Plant Guard DX
+6D010000	Electric Guard
+6E010000	Electric Guard DX
+6F010000	Sand Guard
+70010000	Sand Guard DX
+71010000	Wind Guard
+72010000	Wind Guard DX
+73010000	Shine Guard
+74010000	Shine Guard DX
+75010000	Dark Guard
+76010000	Dark Guard DX
+77010000	Noise Guard
+78010000	Noise Guard DX
+79010000	Master Guard
+7A010000	Poison Barrier
+7B010000	Poison Barrier DX
+7C010000	Panic Barrier
+7D010000	Panic Barrier DX
+7E010000	Paralysis Barrier
+7F010000	Paralysis Barrier DX
+80010000	Sleep Barrier
+81010000	Sleep Barrier DX
+82010000	Stun Barrier
+83010000	Stun Barrier DX
+84010000	Pixel Barrier
+85010000	Pixel Barrier DX
+86010000	Bug Barrier
+87010000	Bug Barrier DX
+88010000	Death Barrier
+89010000	Death Barrier DX
+8A010000	Master Barrier
+8B010000	CAM USB
+8C010000	Ninja USB
+8D010000	Tactician USB
+8E010000	Billionaire USB
+8F010000	Large Capacity USB
+90010000	Researcher USB
+91010000	Yuugo Special Program
+92010000	Memetan Replica
+93010000	Pen Block
+F5010000	Flame Symbol
+F6010000	Water Symbol
+F7010000	Wood Symbol
+F8010000	Earth Symbol
+F9010000	Electric Symbol
+FA010000	Wind Symbol
+FB010000	Sacred Symbol
+FC010000	Dark Night Symbol
+FD010000	Void Symbol
+08020000	Developer Know-How
+09020000	Sleuth's Secret
+0A020000	HP Generator
+0B020000	SP Generator
+0C020000	Sandbag
+0D020000	Punch Bag
+0E020000	Study Room
+0F020000	Treadmill
+10020000	Mega HP Generator
+11020000	Mega SP Generator
+12020000	Top Sandbag
+13020000	Top Punch Bag
+14020000	Top Study Room
+15020000	Top Treadmill
+16020000	Giga HP Generator
+17020000	Giga SP Generator
+18020000	Best Sandbag
+19020000	Best Punch Bag
+1A020000	Best Study Room
+1B020000	Best Treadmill
+59020000	Hot Guy's Cellphone
+5A020000	Boxing Assoc. Card
+5B020000	Small Gear
+5C020000	Ogremon Bone
+5D020000	Growlmon's Noodles
+5E020000	Monster Drawing
+5F020000	Warm Blanket
+60020000	Old Music Box
+61020000	Daily Tokkaido Sport
+62020000	Mystery Herb
+63020000	Lucemon's Wings
+64020000	PlatinumSukamon's ?
+65020000	Virus medicine
+66020000	Data medicine
+67020000	Vaccine medicine
+68020000	Free medicine
+69020000	Datamon Trial Med
+6A020000	Stamp Card
+6B020000	Mystery CD
+6C020000	Syakomon's Shell
+6D020000	WarGreymon's Diary
+6E020000	Someone's Property
+6F020000	Property in a Box
+70020000	Property in a Bag
+71020000	Mysterious URL
+72020000	Horn of Wrath
+73020000	Fang of Gluttony
+74020000	Hair of Lust
+75020000	Wings of Pride
+76020000	Beard of Greed
+77020000	Scales of Envy
+78020000	Nails of Sloth
+79020000	Key Item 33
+7A020000	Key Item 34
+7B020000	Key Item 35
+7C020000	Key Item 36
+7D020000	Key Item 37
+7E020000	Key Item 38
+7F020000	Key Item 39
+80020000	Key Item 40
+81020000	Key Item 41
+82020000	Key Item 42
+83020000	Key Item 43
+84020000	Key Item 44
+85020000	Key Item 45
+86020000	Key Item 46
+87020000	Key Item 47
+88020000	Key Item 48
+89020000	Key Item 49
+8A020000	Key Item 50
+8B020000	Select Coffee Beans
+8C020000	Zaxon Mask
+8D020000	Harmonious Will
+8E020000	Steel Will
+8F020000	IC Card
+90020000	ParallelWorld ICCard
+91020000	Key Item 57
+92020000	Key Item 58
+93020000	Key Item 59
+94020000	Key Item 60
+95020000	Key Item 61
+96020000	Key Item 62
+97020000	Key Item 63
+98020000	Key Item 64
+99020000	Key Item 65
+9A020000	Key Item 66
+9B020000	Key Item 67
+9C020000	Key Item 68
+9D020000	Key Item 69
+9E020000	Advertising Tissue
+9F020000	Jimiken's Autograph
+A0020000	Mirei's Ticket
+A1020000	Key Item 73
+A2020000	Key Item 74
+A3020000	Key Item 75
+A4020000	Key Item 76
+A5020000	Key Item 77
+A6020000	Key Item 78
+A7020000	Key Item 79
+A8020000	Key Item 80
+A9020000	Key Item 81
+AA020000	Key Item 82
+AB020000	Key Item 83
+AC020000	Key Item 84
+AD020000	Key Item 85
+AE020000	Key Item 86
+AF020000	Key Item 87
+B0020000	Key Item 88
+B1020000	Key Item 89
+B2020000	Key Item 90
+B3020000	Key Item 91
+B4020000	Key Item 92
+B5020000	Key Item 93
+B6020000	Key Item 94
+B7020000	Key Item 95
+B8020000	Key Item 96
+B9020000	Key Item 97
+BA020000	Key Item 98
+BB020000	Key Item 99
+BC020000	Avatar Part
+BD020000	Farm Expansion Plugin
+BE020000	Bank Expansion Drive
+BF020000	Farm Development Kit
+21030000	Cyber Sleuth Garb
+22030000	Hudie Coat
+23030000	Inoden School Attire
+24030000	Hudie T-shirt (White)
+25030000	Hudie T-shirt (Blue)
+26030000	Cyber Sleuth T-Shirt (M)
+27030000	Cyber Sleuth T-Shirt (F)
+28030000	Nokia T-shirt
+29030000	Jimiken T-shirt
+2A030000	Net Cafe T-shirt
+2B030000	Agumon T-shirt
+2C030000	Gabumon T-shirt
+2D030000	Gomamon T-shirt
+2E030000	Gatomon T-shirt
+2F030000	Tentomon T-shirt
+30030000	Patamon T-shirt
+31030000	Palmon T-shirt
+32030000	Biyomon T-shirt
+33030000	Tribal Tee (White)
+34030000	Tribal Tee (Black)
+35030000	Twin Skills T-Shirt
+36030000	Lost Skull T-Shirt
+37030000	Framed Skull T-Shirt
+38030000	Game Life T-Shirt
+39030000	Lively T-Shirt
+3A030000	Kowloon T-shirt
+3B030000	U. Kowloon T-shirt
+3C030000	Basketball T-Shirt
+3D030000	Football T-Shirt
+3E030000	Japan Tee (Blossoms)
+3F030000	Japan Tee (Animals)
+40030000	Zaxon T-shirt
+41030000	Demons T-shirt
+42030000	Steam D. T-shirt
+43030000	Black S. T-shirt
+44030000	Akiba F. T-shirt
+45030000	Masked M. T-shirt
+46030000	Nakano S. T-shirt
+47030000	V. Uchida Costume
+48030000	Beelzemon Emblem T-shirt
+49030000	15th Anniversary T-Shirt
+4A030000	20th Anniversary T-Shirt
+4B030000	Summer Camp T-shirt
+4C030000	Summer Camp (p) T-shirt
+4D030000	Summer Lesson T-Shirt
+85030000	Hudie Memory #2
+86030000	Hudie Memory #3
+87030000	Hudie Memory #5
+88030000	Hudie Memory #1
+89030000	Hudie Memory #4
+8A030000	Ryuji Memory #1
+8B030000	Ryuji Memory #2
+8C030000	Chitose Memory
+8D030000	Yu Memory #1
+8E030000	Yu Memory #2
+8F030000	Yu Memory #3
+90030000	Jude Memory
+91030000	Suedou Memory
+92030000	Fei Memory
+93030000	Yuuko Memory
+94030000	Sleuth Memory
+95030000	Ryota Memory
+96030000	Gallantmon Memory
+97030000	Someone's Memory
+98030000	E. Humming Bird Full
+99030000	Happy Hacker Memory #1
+9A030000	Happy Hacker Memory #2
+9B030000	Happy Hacker Memory #3
+9C030000	Happy Hacker Memory #4
+9D030000	Happy Hacker Memory #5
+9E030000	Happy Hacker Memory #6
+9F030000	Happy Hacker Memory #7
+A0030000	Happy Hacker Memory #8
+A1030000	Happy Hacker Memory #9
+A2030000	[p] Memoir #1
+A3030000	[p] Memoir #2
+A4030000	[p] Memoir #3
+A5030000	[p] Memoir #4
+A6030000	[p] Memoir #5
+A7030000	[p] Memoir #6
+A8030000	[p] Memoir #7
+E9030000	Armageddemon Medal
+EA030000	Icemon Medal
+EB030000	Aquilamon Medal
+EC030000	Agunimon Medal
+ED030000	Agumon Medal
+EE030000	Agumon (Blk) Medal
+EF030000	Agumon Expert Medal
+F0030000	Asuramon Medal
+F1030000	Astamon Medal
+F2030000	A Kabuterimon Medal
+F3030000	Anubismon Medal
+F4030000	Scorpiomon Medal
+F5030000	Apocalymon Medal
+F6030000	Apollomon Medal
+F7030000	Arcadiamon Medal
+F8030000	Arukenimon Medal
+F9030000	Gargomon Mega Medal
+FA030000	Aldamon Medal
+FB030000	Alphamon Medal
+FC030000	UF Veedramon Medal
+FD030000	UF Veedramon X Medal
+FE030000	Arbormon Medal
+FF030000	Armadillomon Medal
+00040000	Ankylomon Medal
+01040000	Antylamon Medal
+02040000	Andromon Medal
+03040000	Ebemon Medal
+04040000	Ninjamon Medal
+05040000	King Drasil_7D6 Medal
+06040000	Ikkakumon Medal
+07040000	Vilemon Medal
+08040000	Meteormon Medal
+09040000	Indramon Medal
+0A040000	Infermon Medal
+0B040000	Impmon Medal
+0C040000	IP Dramon DM Medal
+0D040000	IP Dramon PM Medal
+0E040000	IP Dramon FM Medal
+0F040000	Vikemon Medal
+10040000	Vajramon Medal
+11040000	Valkyrimon Medal
+12040000	Myotismon Medal
+13040000	Vikaralamon Medal
+14040000	Wizardmon Medal
+15040000	Witchmon Medal
+16040000	Venusmon Medal
+17040000	V Myotismon Medal
+18040000	Wendigomon Medal
+19040000	WarGreymon Medal
+1A040000	WarGreymon X Medal
+1B040000	Lobomon Medal
+1C040000	Woodmon Medal
+1D040000	Upamon Medal
+1E040000	BurningGreymon Medal
+1F040000	Vulcanusmon Medal
+20040000	Airdramon Medal
+21040000	AeroVeedramon Medal
+22040000	Examon Medal
+23040000	ExTyrannomon Medal
+24040000	ExVeemon Medal
+25040000	Etemon Medal
+26040000	Ebidramon Medal
+27040000	EbiBurgamon Medal
+28040000	Eldradimon Medal
+29040000	Elecmon Medal
+2A040000	Angewomon Medal
+2B040000	Angemon Medal
+2C040000	A-Kazemon Medal
+2D040000	A Garurumon Medal
+2E040000	A Greymon Medal
+2F040000	A Tankmon Medal
+30040000	A-Troymon Medal
+31040000	A-Beetlemon Medal
+32040000	A Volcanomon Medal
+33040000	A Mermaimon Medal
+34040000	A-MegatheriummonMedl
+35040000	A Wisemon Medal
+36040000	Ouryumon Medal
+37040000	Ogremon Medal
+38040000	Okuwamon Medal
+39040000	Octomon Medal
+3A040000	Ogudomon Medal
+3B040000	Otamamon Medal
+3C040000	Ornismon Medal
+3D040000	Ophanimon Medal
+3E040000	Omekamon Medal
+3F040000	Omnimon Medal
+40040000	Omnimon Zwart Medal
+41040000	Omnimon X Medal
+42040000	Guardromon Medal
+43040000	Garbagemon Medal
+44040000	Gaiomon Medal
+45040000	Justimon Medal
+46040000	KaiserGreymon Medal
+47040000	GaoGamon Medal
+48040000	ChaosGallantmon Medal
+49040000	Chaosdramon Medal
+4A040000	Chaosmon Medal
+4B040000	Gaomon Medal
+4C040000	Gazimon Medal
+4D040000	Kabuterimon Medal
+4E040000	Gabumon Medal
+4F040000	Kapurimon Medal
+50040000	Kamemon Medal
+51040000	ShellNumemon Medal
+52040000	Karatenmon Medal
+53040000	Gargomon Medal
+54040000	Garudamon Medal
+55040000	Calmaramon Medal
+56040000	KendoGarurumon Medal
+57040000	Garurumon Medal
+58040000	Gawappamon Medal
+59040000	Gankoomon Medal
+5A040000	Kiwimon Medal
+5B040000	Gigasmon Medal
+5C040000	Gigadramon Medal
+5D040000	Gigimon Medal
+5E040000	Gizamon Medal
+5F040000	Kimeramon Medal
+60040000	CatchMamemon Medal
+61040000	CannonBeemon Medal
+62040000	Candlemon Medal
+63040000	Kyubimon Medal
+64040000	Guilmon Medal
+65040000	Giromon Medal
+66040000	KingEtemon Medal
+67040000	Quetzalmon Medal
+68040000	Kuzuhamon Medal
+69040000	Kudamon Medal
+6A040000	Kunemon Medal
+6B040000	Gummymon Medal
+6C040000	Growlmon Medal
+6D040000	Grapleomon Medal
+6E040000	Gladimon Medal
+6F040000	Kuramon Medal
+70040000	GranKuwagamon Medal
+71040000	GranDracmon Medal
+72040000	GroundLocomon Medal
+73040000	Kurisarimon Medal
+74040000	Gryphonmon Medal
+75040000	Calumon Medal
+76040000	Grademon Medal
+77040000	Greymon Medal
+78040000	Greymon (Blue) Medal
+79040000	Crescemon Medal
+7A040000	Craniamon Medal
+7B040000	Eaglemon Medal
+7C040000	Clockmon Medal
+7D040000	Magnamon Medal
+7E040000	Kuwagamon Medal
+7F040000	Kumbhiramon Medal
+80040000	Gekomon Medal
+81040000	Gesomon Medal
+82040000	Keramon Medal
+83040000	Kerpymon (Blk) Medal
+84040000	Kerpymon (Good) Medal
+85040000	Ceresmon Medal
+86040000	Centarumon Medal
+87040000	GoldNumemon Medal
+88040000	G Veedramon Medal
+89040000	Golemon Medal
+8A040000	Kokatorimon Medal
+8B040000	Kokuwamon Medal
+8C040000	Goldramon Medal
+8D040000	Gotsumon Medal
+8E040000	Gotsumon X Medal
+8F040000	Kotemon Medal
+90040000	Goburimon Medal
+91040000	Gomamon Medal
+92040000	Gorillamon Medal
+93040000	Coronamon Medal
+94040000	Koromon Medal
+95040000	SaberLeomon Medal
+96040000	Cyclonemon Medal
+97040000	Cyberdramon Medal
+98040000	Sakuyamon Medal
+99040000	SakuyamonMaidM Medal
+9A040000	Sagittarimon Medal
+9B040000	Submarimon Medal
+9C040000	Thunderbirdmon Medal
+9D040000	Thundermon Medal
+9E040000	Sandiramon Medal
+9F040000	Sunflowmon Medal
+A0040000	Seadramon Medal
+A1040000	Jesmon Medal
+A2040000	Shellmon Medal
+A3040000	Zhuqiaomon Medal
+A4040000	GeoGreymon Medal
+A5040000	Jijimon Medal
+A6040000	ShineGreymon Medal
+A7040000	S Greymon B Medal
+A8040000	Shaujinmon Medal
+A9040000	Jagamon Medal
+AA040000	Syakomon Medal
+AB040000	Justimon Medal
+AC040000	Shakkoumon Medal
+AD040000	Jyarimon Medal
+AE040000	JumboGamemon Medal
+AF040000	Zephyrmon Medal
+B0040000	Shurimon Medal
+B1040000	Cherrymon Medal
+B2040000	Silphymon Medal
+B3040000	Sinduramon Medal
+B4040000	ZeedGarurumon Medal
+B5040000	Z Millenniummon Medal
+B6040000	Ebonwumon Medal
+B7040000	SuperStarmon Medal
+B8040000	Sukamon Medal
+B9040000	SkullGreymon Medal
+BA040000	SkullSatamon Medal
+BB040000	SkullMammothmon Medal
+BC040000	Susanomon Medal
+BD040000	Starmon Medal
+BE040000	Stingmon Medal
+BF040000	Stegomon Medal
+C0040000	Zudomon Medal
+C1040000	Strikedramon Medal
+C2040000	Snimon Medal
+C3040000	S Angemon Medal
+C4040000	Kentaurosmon Medal
+C5040000	Slayerdramon Medal
+C6040000	Sepikmon Medal
+C7040000	Sephirothmon Medal
+C8040000	Seraphimon Medal
+C9040000	MegaGargomon Medal
+CA040000	Socerimon Medal
+CB040000	DarkTyrannomon Medal
+CC040000	Darkdramon Medal
+CD040000	Targetmon Medal
+CE040000	T-Vespamon Medal
+CF040000	Titamon Medal
+D0040000	DaiPenmon Medal
+D1040000	Taomon Medal
+D2040000	Dragomon Medal
+D3040000	Duskmon Medal
+D4040000	Tanemon Medal
+D5040000	Darcmon Medal
+D6040000	Tankmon Medal
+D7040000	Chirinmon Medal
+D8040000	DemiVeemon Medal
+D9040000	Kumamon Medal
+DA040000	Caturamon Medal
+DB040000	Chuumon Medal
+DC040000	Kokomon Medal
+DD040000	Azulongmon Medal
+DE040000	Tsunomon Medal
+DF040000	Tsumemon Medal
+E0040000	Dianamon Medal
+E1040000	Diaboromon Medal
+E2040000	Digmon Medal
+E3040000	Dinobeemon Medal
+E4040000	Tyrannomon Medal
+E5040000	Gatomon Medal
+E6040000	Creepymon Medal
+E7040000	DeathXmon Medal
+E8040000	Digitamamon Medal
+E9040000	SkullMeramon Medal
+EA040000	Ghoulmon Medal
+EB040000	Devidramon Medal
+EC040000	Devimon Medal
+ED040000	Gallantmon Medal
+EE040000	Gallantmon CM Medal
+EF040000	Gallantmon X Medal
+F0040000	Dynasmon Medal
+F1040000	Dynasmon X Medal
+F2040000	Deramon Medal
+F3040000	Terriermon Medal
+F4040000	Deltamon Medal
+F5040000	Tentomon Medal
+F6040000	ToyAgumon Medal
+F7040000	Leopardmon Medal
+F8040000	Leopardmon LM Medal
+F9040000	Leopardmon X Medal
+FA040000	Toucanmon Medal
+FB040000	Tortomon Medal
+FC040000	Dobermon Medal
+FD040000	Dokugumon Medal
+FE040000	Togemon Medal
+FF040000	Tokomon Medal
+00050000	Dodomon Medal
+01050000	ShogunGekomon Medal
+02050000	Dracmon Medal
+03050000	Drimogemon Medal
+04050000	Dorimon Medal
+05050000	Dorugamon Medal
+06050000	DoruGreymon Medal
+07050000	Dorugoramon Medal
+08050000	Dorumon Medal
+09050000	Knightmon Medal
+0A050000	Nanimon Medal
+0B050000	Datamon Medal
+0C050000	Fake Agumon Ex Medal
+0D050000	Nyaromon Medal
+0E050000	Nyokimon Medal
+0F050000	Numemon Medal
+10050000	Neemon Medal
+11050000	Nefertimon Medal
+12050000	Neptunemon Medal
+13050000	Birdramon Medal
+14050000	HiAndromon Medal
+15050000	Baihumon Medal
+16050000	Paildramon Medal
+17050000	Tapirmon Medal
+18050000	Pagumon Medal
+19050000	Hagurumon Medal
+1A050000	Bakemon Medal
+1B050000	Pajiramon Medal
+1C050000	Bastemon Medal
+1D050000	Patamon Medal
+1E050000	Bacchusmon Medal
+1F050000	Hackmon Medal
+20050000	Budmon Medal
+21050000	Honeybeemon Medal
+22050000	Apemon Medal
+23050000	Babamon Medal
+24050000	Pabumon Medal
+25050000	Barbamon Medal
+26050000	Palmon Medal
+27050000	Parrotmon Medal
+28050000	Baronmon Medal
+29050000	Divermon Medal
+2A050000	Panjyamon Medal
+2B050000	Pandamon Medal
+2C050000	B Golemon Medal
+2D050000	B Stingmon Medal
+2E050000	BanchoMamemon Medal
+2F050000	BanchoLillymon Medal
+30050000	BanchoLeomon Medal
+31050000	Pumpmon Medal
+32050000	Piedmon Medal
+33050000	V Greymon Medal
+34050000	DemiDevimon Medal
+35050000	BigMamemon Medal
+36050000	Piximon Medal
+37050000	Puppetmon Medal
+38050000	Yokomon Medal
+39050000	Biyomon Medal
+3A050000	Firamon Medal
+3B050000	Pharaohmon Medal
+3C050000	Falcomon Medal
+3D050000	Phantomon Medal
+3E050000	Fanglongmon Medal
+3F050000	Veedramon Medal
+40050000	Veemon Medal
+41050000	Kazemon Medal
+42050000	Feresmon Medal
+43050000	Bukamon Medal
+44050000	Pukumon Medal
+45050000	Anubismon Medal
+46050000	Bucchiemon Medal
+47050000	Punimon Medal
+48050000	Flymon Medal
+49050000	PlatinumSukamonMedal
+4A050000	PlatinumNumemonMedal
+4B050000	B WarGreymon Medal
+4C050000	BlackKingNumemonMedl
+4D050000	BlackGatomon Medal
+4E050000	WarGrowlmon Medal
+4F050000	Beetlemon Medal
+50050000	PrinceMamemon Medal
+51050000	Blimpmon Medal
+52050000	BlueMeramon Medal
+53050000	Pururumon Medal
+54050000	Flaremon Medal
+55050000	FlameWizardmon Medal
+56050000	Brakedramon Medal
+57050000	Flamedramon Medal
+58050000	Flamemon Medal
+59050000	Plesiomon Medal
+5A050000	Floramon Medal
+5B050000	Blossomon Medal
+5C050000	Salamon Medal
+5D050000	Puwamon Medal
+5E050000	Vademon Medal
+5F050000	Beowolfmon Medal
+60050000	Pegasusmon Medal
+61050000	Vegiemon Medal
+62050000	Betamon Medal
+63050000	Peckmon Medal
+64050000	H Kabuterimon Medal
+65050000	B Myotismon Medal
+66050000	Beelzemon Medal
+67050000	Beelzemon BM Medal
+68050000	Beelzemon X Medal
+69050000	Belphemon SM Medal
+6A050000	Belphemon RM Medal
+6B050000	Hououmon Medal
+6C050000	Whamon Medal
+6D050000	Hawkmon Medal
+6E050000	H Angemon Medal
+6F050000	Magnadramon Medal
+70050000	P-Chessmon (Blk) Med
+71050000	P-Chessmon (Whi) Med
+72050000	Bokomon Medal
+73050000	Botamon Medal
+74050000	Poyomon Medal
+75050000	MetalKabuterimonMedl
+76050000	Volcanomon Medal
+77050000	Halsemon Medal
+78050000	Boltmon Medal
+79050000	Poromon Medal
+7A050000	BomberNanimon Medal
+7B050000	Mermaimon Medal
+7C050000	MagnaGarurumon Medal
+7D050000	Magnamon Medal
+7E050000	Magnamon X Medal
+7F050000	Makuramon Medal
+80050000	Majiramon Medal
+81050000	M Tyrannomon Medal
+82050000	Mastemon Medal
+83050000	Mushroomon Medal
+84050000	MachGaogamon Medal
+85050000	Mummymon Medal
+86050000	Mamemon Medal
+87050000	MarineAngemon Medal
+88050000	MarineDevimon Medal
+89050000	Marsmon Medal
+8A050000	Mammothmon Medal
+8B050000	Minervamon Medal
+8C050000	Minomon Medal
+8D050000	Mihiramon Medal
+8E050000	M GaoGamon Medal
+8F050000	M GaoGamon BM Medal
+90050000	Millenniummon Medal
+91050000	Machinedramon Medal
+92050000	MegaSeadramon Medal
+93050000	Megadramon Medal
+94050000	Mekanorimon Medal
+95050000	WarGrowlmon Medal
+96050000	Megidramon Medal
+97050000	MetalEtemon Medal
+98050000	MetalGarurumon Medal
+99050000	MGarurumon(Blk)Medal
+9A050000	MetalGarurumonXMedal
+9B050000	MetalGreymon Medal
+9C050000	M Greymon(Blue)Medal
+9D050000	MetalSeadramon Medal
+9E050000	MetalTyrannomonMedal
+9F050000	MetalPhantomon Medal
+A0050000	MetalMamemon Medal
+A1050000	M Gallantmon Medal
+A2050000	Mephistomon Medal
+A3050000	Meramon Medal
+A4050000	Mervamon Medal
+A5050000	Mercurymon Medal
+A6050000	Merukimon Medal
+A7050000	Mojyamon Medal
+A8050000	Motimon Medal
+A9050000	Monochromon Medal
+AA050000	Monodramon Medal
+AB050000	Monzaemon Medal
+AC050000	Crowmon Medal
+AD050000	Frigimon Medal
+AE050000	YukimiBotamon Medal
+AF050000	Unimon Medal
+B0050000	Junomon Medal
+B1050000	Junomon HM Medal
+B2050000	Jupitermon Medal
+B3050000	Jupitermon LM Medal
+B4050000	Yuramon Medal
+B5050000	Lanamon Medal
+B6050000	RizeGreymon Medal
+B7050000	Lighdramon Medal
+B8050000	Lilamon Medal
+B9050000	RustTyranomon Medal
+BA050000	Rapidmon Medal
+BB050000	Rapidmon A Medal
+BC050000	Raptordramon Medal
+BD050000	Lalamon Medal
+BE050000	Leviamon Medal
+BF050000	Deputymon Medal
+C0050000	Lilithmon Medal
+C1050000	Lillymon Medal
+C2050000	Lucemon Medal
+C3050000	Lucemon SM Medal
+C4050000	Lucemon FM Medal
+C5050000	Lucemon Rival Medal
+C6050000	Lunamon Medal
+C7050000	Raremon Medal
+C8050000	Ravemon Medal
+C9050000	Ravemon BM Medal
+CA050000	Loweemon Medal
+CB050000	Leomon Medal
+CC050000	Lekismon Medal
+CD050000	RedVegiemon Medal
+CE050000	Reppamon Medal
+CF050000	LadyDevimon Medal
+D0050000	Renamon Medal
+D1050000	Crusadermon Medal
+D2050000	Locomon Medal
+D3050000	Rosemon Medal
+D4050000	Rosemon BM Medal
+D5050000	Lopmon Medal
+D6050000	Lotosmon Medal
+D7050000	WereGarurumon Medal
+D8050000	Wormmon Medal
+D9050000	Wisemon Medal
+DA050000	Waspmon Medal
+DB050000	Wanyamon Medal
+DC050000	WaruMonzaemon Medal
+DD050000	Archelomon Medal
+DE050000	IceDevimon Medal
+DF050000	Aurumon Medal
+E0050000	Akatorimon Medal
+E1050000	Assaultmon Medal
+E2050000	A-Kabuterimon BL Medal
+E3050000	Argomon U Medal
+E4050000	U-Brachiomon Medal
+E5050000	Alphamon O Medal
+E6050000	Aruraumon Medal
+E7050000	Allomon Medal
+E8050000	Vermilimon Medal
+E9050000	Varodurumon Medal
+EA050000	Wingdramon Medal
+EB050000	Volcdramon Medal
+EC050000	Elephantmon Medal
+ED050000	Otamamon R medal
+EE050000	Opossummon Medal
+EF050000	Orcamon Medal
+F0050000	Orochimon Medal
+F1050000	Gargoylemon Medal
+F2050000	Chaosmon VA medal
+F3050000	Crabmon Medal
+F4050000	Kabukimon Medal
+F5050000	Gabumon B medal
+F6050000	Chameleonmon Medal
+F7050000	Gulfmon Medal
+F8050000	Garurumon B medal
+F9050000	Kangarumon Medal
+FA050000	GigaSeadramon Medal
+FB050000	Cannondramon Medal
+FC050000	Kyaromon Medal
+FD050000	Kyukimon Medal
+FE050000	Kyupimon Medal
+FF050000	KingChessmon Medal
+00060000	Ginryumon Medal
+01060000	C-Angemon Medal
+02060000	Groundramon Medal
+03060000	Grizzlymon Medal
+04060000	Gururumon Medal
+05060000	Cerberusmon Medal
+06060000	Geremon Medal
+07060000	Kenkimon Medal
+08060000	Coredramon BL Medal
+09060000	Coredramon GR Medal
+0A060000	Kogamon Medal
+0B060000	Monmon Medal
+0C060000	Goatmon Medal
+0D060000	KoKabuterimon Medal
+0E060000	Roachmon Medal
+0F060000	Reapermon Medal
+10060000	Commandramon Medal
+11060000	Kongoumon Medal
+12060000	Searchmon Medal
+13060000	Psychemon Medal
+14060000	Weedmon Medal
+15060000	Salamandermon Medal
+16060000	Sangloupmon Medal
+17060000	Zanbamon Medal
+18060000	Sunmon Medal
+19060000	Seasarmon Medal
+1A060000	Sheepmon Medal
+1B060000	Seahomon Medal
+1C060000	Coelamon Medal
+1D060000	Sealsdramon Medal
+1E060000	Shadramon Medal
+1F060000	J-Silphymon Medal
+20060000	ShimaUnimon Medal
+21060000	Xiaomon Medal
+22060000	J-Mojyamon Medal
+23060000	JewelBeemon Medal
+24060000	Suijinmon Medal
+25060000	Swimmon Medal
+26060000	SkullBaluchimon Medal
+27060000	SkullScorpiomon Medal
+28060000	Strabimon Medal
+29060000	SnowGoblimon Medal
+2A060000	Spinomon Medal
+2B060000	Zurumon Medal
+2C060000	Swanmon Medal
+2D060000	SaviorHuckmon Medal
+2E060000	Saberdramon Medal
+2F060000	Sethmon Medal
+30060000	Soulmon Medal
+31060000	Solarmon Medal
+32060000	DS-Starmon Medal
+33060000	DarkLizardmon Medal
+34060000	T-Kabuterimon Medal
+35060000	Tuskmon Medal
+36060000	Tankdramon Medal
+37060000	Choromon Medal
+38060000	Tsukaimon Medal
+39060000	MudFrigimon Medal
+3A060000	Diatrymon Medal
+3B060000	Dinotigermon Medal
+3C060000	Dinohyumon Medal
+3D060000	Dinorexmon Medal
+3E060000	Tylomon Medal
+3F060000	Devitamamon Medal
+40060000	Depthmon Medal
+41060000	ToyAgumon B medal
+42060000	Doumon Medal
+43060000	Turuiemon Medal
+44060000	Togemogumon Medal
+45060000	Doggymon Medal
+46060000	TobuCatmon Medal
+47060000	Dracomon Medal
+48060000	Triceramon Medal
+49060000	K-Chessmon B Medal
+4A060000	K-Chessmon W Medal
+4B060000	NiseDrimogemon Medal
+4C060000	NeoDevimon Medal
+4D060000	Nohemon Medal
+4E060000	Harpymon Medal
+4F060000	P-Volcanomon Medal
+50060000	BaoHuckmon Medal
+51060000	Paomon Medal
+52060000	Butterflymon Medal
+53060000	Pafumon Medal
+54060000	Parasimon Medal
+55060000	Bulbmon Medal
+56060000	Peacockmon Medal
+57060000	Hisyaryumon Medal
+58060000	B-Chessmon Medal
+59060000	Pichimon Medal
+5A060000	Rabbitmon Medal
+5B060000	Pinamon Medal
+5C060000	Pipismon Medal
+5D060000	HippoGryphonmon Medal
+5E060000	Hyogamon Medal
+5F060000	Phascomon Medal
+60060000	Fangmon Medal
+61060000	FanBeemon Medal
+62060000	Fugamon Medal
+63060000	Fujinmon Medal
+64060000	Boogiemon Medal
+65060000	DemiMeramon Medal
+66060000	Petitmon Medal
+67060000	Bucchiemon GR medal
+68060000	Puttimon Medal
+69060000	Pteramon Medal
+6A060000	Pupumon Medal
+6B060000	Flybeemon Medal
+6C060000	Bullmon Medal
+6D060000	Flarerizamon Medal
+6E060000	B-Kuwagamon Medal
+6F060000	Prairiemon Medal
+70060000	Frogmon Medal
+71060000	Puroromon Medal
+72060000	Bearmon Medal
+73060000	Petaldramon Medal
+74060000	Betsumon Medal
+75060000	Bebydomon Medal
+76060000	Velgemon Medal
+77060000	Penguinmon Medal
+78060000	Boarmon Medal
+79060000	Porcupamon Medal
+7A060000	Pokomon Medal
+7B060000	Bommon Medal
+7C060000	Ponchomon Medal
+7D060000	Matadormon Medal
+7E060000	Mametyramon Medal
+7F060000	Mantaraymon Medal
+80060000	Manbomon Medal
+81060000	Mikemon Medal
+82060000	Missimon Medal
+83060000	Minotarumon Medal
+84060000	Moosemon Medal
+85060000	Muchomon Medal
+86060000	M-Millenniummon Medal
+87060000	Musyamon Medal
+88060000	Murmukusmon Medal
+89060000	Moonmon Medal
+8A060000	Maildramon Medal
+8B060000	M-Kuwagamon Medal
+8C060000	MetalPiranimon Medal
+8D060000	Mokumon Medal
+8E060000	Mothmon Medal
+8F060000	MoriShellmon Medal
+90060000	Yasyamon Medal
+91060000	Yanmamon Medal
+92060000	SnowAgumon Medal
+93060000	Youkomon Medal
+94060000	Liamon Medal
+95060000	Raijinmon Medal
+96060000	Raidenmon Medal
+97060000	R-Kabuterimon Medal
+98060000	Rhinomon Medal
+99060000	Rhihimon Medal
+9A060000	Labramon Medal
+9B060000	Lynxmon Medal
+9C060000	Lampmon Medal
+9D060000	Ryudamon Medal
+9E060000	Rinkmon Medal
+9F060000	RookChessmon Medal
+A0060000	Dolphmon Medal
+A1060000	Liollmon Medal
+A2060000	LoaderLiomon Medal
+A3060000	W-Garurumon B medal
+A4060000	WaruSeadramon Medal
+75270000	Cyber Sleuth Goggles
+71300000	Golden Goggles
+D9270000	High-Powered Visor
+D5300000	Golden Visor
+3D280000	Kagami Mochi (W)
+3E280000	Kagami Mochi (R+W)
+39310000	Kagami Mochi (G)
+A1280000	Mirror Motimon Doll
+05290000	Chocolate Heart
+06290000	W. Chocolate Heart
+9D310000	Heart Symbol
+9E310000	Breaking Heart
+01320000	Golden Heart
+65320000	Tulip
+C9320000	Golden Tulip
+CD290000	Taomon's Taoist Hat
+312A0000	Bancho Cap
+952A0000	Police Cap
+962A0000	Captain Hat
+2D330000	Green DigiEgg
+2E330000	Red DigiEgg
+91330000	Gold DigiEgg
+F92A0000	Seadramon Flag
+5D2B0000	Airdramon Flag
+F5330000	Carp Flag
+59340000	Golden Carp Flag
+C12B0000	ShellNumemon Doll
+252C0000	BlackKingNumemon Doll
+BD340000	BK-Numemon Doll (G)
+892C0000	Super Star
+8A2C0000	Blue Star
+8B2C0000	Red Star
+21350000	Triple Star
+ED2C0000	Red Straw Hat
+512D0000	Blue Straw Hat
+85350000	Sunflower
+E9350000	Palmon Flower
+4D360000	Golden Flower
+B52D0000	Moon Dumplings
+B62D0000	Red Moon Dumplings
+B72D0000	Green Moon Dumplings
+B1360000	Mortarboard
+15370000	Golden Mortarboard
+192E0000	Monster Pumpkin
+1A2E0000	Monster Pumpkin B
+79370000	Monster Pumpkin G
+7D2E0000	Pumpkinmon Puppet
+E12E0000	Digi-Bamboo
+E22E0000	Vigor Mushroom
+E32E0000	Poisonous Mushroom
+DD370000	Golden Mushroom
+452F0000	Santa Hat
+462F0000	Black Santa Hat
+472F0000	Green Santa Hat
+41380000	Present Box (W)
+42380000	Present Box (R)
+A5380000	Present Box (G)
+A92F0000	King's Crown
+0D300000	Golden Crown
+0E300000	Silver Crown
+0F300000	Bronze Crown
+[/Item]

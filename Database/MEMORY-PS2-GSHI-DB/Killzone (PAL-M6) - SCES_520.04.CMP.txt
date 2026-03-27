@@ -1,0 +1,37 @@
+^3 = NAME: Killzone (PAL-M6)
+^2 = GameID: SCES-52004
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01470E8 001470EB
+!!
++All Levels Available
+%Credits: Codejunkies
+$201D7704 24020001
++AR Max Below 3.14 Fix
+%Credits: Codejunkies
+$202B6CA8 3C03200F
+$202B6CB0 8C65FFF8
+$202B6CB4 24040079
+$202B6CB8 24030074
+$202B6CBC 0000000C
++Display Coordinates
+%Credits: Codejunkies
+$2047E7E0 24020001
++Display Lock Circle
+%Credits: Codejunkies
+$20479CB8 24020001
++Display Spread Circle
+%Credits: Codejunkies
+$20479D74 24020001
++God Mode
+%Credits: Codejunkies
+$20276E88 24020001
++Infinite Ammo/No Reload
+%Credits: Codejunkies
+$2028BC80 00000000
++Infinite Sprint
+%Credits: Codejunkies
+$2021B640 00000000
+!!
+

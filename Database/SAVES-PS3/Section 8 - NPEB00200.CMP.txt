@@ -1,0 +1,9 @@
+^2 = GameID: NPEB00200
+^3 = NAME: Section 8 (PSN)
+^4 = FILE: PAYLOAD
++Update Sha1 For Payload (required)
+(set range:0x000014,0x00050D)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

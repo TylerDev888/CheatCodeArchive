@@ -1,0 +1,143 @@
+^1 = Hash: 56 8C 3F 13 25 0E 3F 28 E8 95 E9 5B E6 A7 A3 94 24 7B 0C FE 
+^2 = GameID: SLUS_216.87
+^3 = NAME: King of Fighters XI
+!Masters:
+$90109258 0C04243E
++Enable Code (MUST BE ON) (for Ar Max Converting Gameid: 1458 - Region: Usa)
+$F0115F60 00115F63
++Enable Code (MUST BE ON)
+$0E3C7DF2 1456E7A5
+$F0115F60 00115F63
+!!
+!Misc:
++Pal2ntsc (the Game Does Runs In Pal For Like 1 Sec During One Of Logos)
+%Credits: Lee4
+$20100260 24120002
++Shrink Screen
+%Credits: Lee4
+$008B6DC0 00000001
++Freeze Timer
+%Credits: Lee4
+$008A5D28 00000010
++Disable Ai
+%Credits: Lee4
+$008A5D29 00000080
++Unlock Extra Characters
+%Credits: Lee4
+$108AA7C0 0000FFFF
++100% Complete Status
+%Credits: Lee4
+$408AA7D0 00140001
+$FFFFFFFF 00000000
+!Players:
+!Player 1 Codes:
++Infinite Health Character 1
+%Credits: Lee4
+$208A97E4 00700070
++Infinite Health Character 2
+%Credits: Lee4
+$208A9804 00700070
++Infinite Health Character 3
+%Credits: Lee4
+$208A9824 00700070
++Max Power Gauge
+%Credits: Lee4
+$108A96C8 000003E7
++Max Skill Gauge
+%Credits: Lee4
+$108A96CC 000003E7
+!Character Mod Codes:
++Character 1 Mod
+%Credits: Lee4
+$008A97E0 000000[CHAR]
++Character 2 Mod
+%Credits: Lee4
+$008A9800 000000[CHAR]
++Character 3 Mod
+%Credits: Lee4
+$008A9820 000000[CHAR]
+!!
+!!
+!Player 2 Codes:
++1 Hit Kill Character 1
+%Credits: Lee4
+$D08A9A2C 00000070
+$208A9A2C 00000000
++1 Hit Kill Character 2
+%Credits: Lee4
+$D08A9A4C 00000070
+$208A9A4C 00000000
++1 Hit Kill Character 3
+%Credits: Lee4
+$D08A9A6C 00000070
+$208A9A6C 00000000
++No Power Gauge
+%Credits: Lee4
+$108A9910 00000000
++No Skill Gauge
+%Credits: Lee4
+$108A9914 00000000
+!Character Mod Codes:
++Character 1 Mod
+%Credits: Lee4
+$008A9A28 000000[CHAR]
++Character 2 Mod
+%Credits: Lee4
+$008A9A48 000000[CHAR]
++Character 3 Mod
+%Credits: Lee4
+$008A9A68 000000[CHAR]
+!!
+!!
+!!
+[CHAR]
+VALUE>NAME
+00	Ash
+01	Oswald
+02	Shen
+03	Elisabeth
+04	Dulon
+05	Benimaru
+06	Terry
+07	Kim
+08	Duck
+09	Ryo
+0A	Yuri 
+0B	King 
+0C	Jenet 
+0D	Gato
+0E	Griffon
+0F	Ralf 
+10	Clark
+11	Whip
+12	Athena
+13	Kensou
+14	Momoko
+15	Vanessa
+16	Mary
+17	Ramon
+18	Malin
+19	Kasumi
+1A	Eiji
+1B	K' 
+1C	Kula
+1D	Maxima
+1E	Kyo
+1F	Iori
+20	Shingo
+21	Gai
+22	Hayate
+23	Adelheid
+24	Silber
+25	Jazu
+26	Shion
+27	Magaki
+28	Random Team
+29	Mai
+2A	Robert
+2B	MR.BIG
+2C	Geese
+2D	Hotaru
+2E	Tung
+2F	EX Kyo
+[/CHAR]

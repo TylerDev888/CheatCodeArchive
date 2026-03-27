@@ -1,0 +1,54 @@
+^3 = NAME: Contra - Shattered Soldier [Beta] (Ntsc-U)
+^2 = GameID: No
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Contra King
+$F0400008 005D0677
+!!
++Extra Credits
+%Credits: Contra King
+$10430670 00000001
++Extra Lives (Both Players)
+%Credits: Contra King
+$2043579C 24420001
++Infinite Credits
+%Credits: Contra King
+$108F90F4 00000063
++Infinite Lives (Both Players)
+%Credits: Contra King
+$204357A8 00000000
++Infinite Lives P1
+%Credits: Contra King
+$108F9460 00000063
++Infinite Lives P2
+%Credits: Contra King
+$108F9470 00000063
++Invincible (Both Players)
+%Credits: Contra King
+$1043AC4E 00001000
++Jump In Midair
+%Credits: nolberto82
+$200A0000 3C02007C
+$200A0004 9442A844
+$200A0008 30420040
+$200A000C 10400002
+$200A0010 34030010
+$200A0014 A603001A
+$200A0018 DE030018
+$200A001C 3C020010
+$200A0020 0810F0BD
+$2043C2EC 08028000
++Max Score P1
+%Credits: Contra King
+$208F9464 0098967F
++Max Score P2
+%Credits: Contra King
+$208F9474 0098967F
++Quick Score Gain P1
+%Credits: Contra King
+$108F9464 0000FFFF
++Quick Score Gain P2
+%Credits: Contra King
+$108F9474 0000FFFF
+!!
+

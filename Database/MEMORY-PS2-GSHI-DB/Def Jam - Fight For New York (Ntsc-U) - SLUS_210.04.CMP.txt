@@ -1,0 +1,571 @@
+^3 = NAME: Def Jam - Fight For NY (Ntsc-U)
+^2 = GameID: SLUS-21004
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F033D95C 0033D95F
++Enable Code (Must Be On) [Read Note]
+%Credits: Code Master
+$F0100008 0033D95F
++[M] Must Be On
+%Credits: MadCatz
+$9032F36C 0C0CBBD0
+$200C2000 3406270F
+$200C2004 08052C23
+$200C2008 AEC6004C
+!!
++Can Perform Blazin' Move At Any Time - P1
+%Credits: Josh_7774
+$004BCAAE 00000002
++Can Perform Blazin' Move At Any Time - P2
+%Credits: Josh_7774
+$004BDDA6 00000002
++Can Perform Blazin' Move At Any Time - P3
+%Credits: Josh_7774
+$004BF09E 00000002
++Can Perform Blazin' Move At Any Time - P4
+%Credits: Josh_7774
+$004C0396 00000002
++Force Facing Angle South - P1
+%Credits: Josh_7774
+$204BC1C4 00000000
++Force Facing Angle South - P2
+%Credits: Josh_7774
+$204BD4BC 00000000
++Force Facing Angle South - P3
+%Credits: Josh_7774
+$204BE7B4 00000000
++Force Facing Angle South - P4
+%Credits: Josh_7774
+$204BFAAC 00000000
++Infinite Dev Points
+%Credits: Codejunkies
+$208EC208 05F5E0FF
++Mute Bored Announcer Speech
+%Credits: Josh_7774
+$203FD6B0 41480000
++Mute Crowd Ambience
+%Credits: Josh_7774
+$203FD6F8 00000000
++Mute Crowd Speech
+%Credits: Josh_7774
+$203FD6D8 00000000
++Player 1 Can't Escape Submissions {<I>Also Won&#39;T Be Able To Counter &Amp; When Picked Up, You Are Dizzy.</I>}
+%Credits: BigBossman
+$204BC4E8 00000001
+!Player 1 Codes:
++Infinite Health
+%Credits: MadCatz
+$204BC4C0 42C80000
+$204BC4C8 42C80000
++Infinite Health-Head
+%Credits: Codejunkies
+$204BC4C8 44000000
++Infinite Health-Legs
+%Credits: Codejunkies
+$204BC4C0 44000000
++Infinite Momentum/Stamina
+%Credits: MadCatz
+$204BC4D4 42C80000
++Infinite Stamina
+%Credits: Codejunkies
+$204BC9B4 42C80000
++Max Health
+%Credits: MadCatz
+$204BC4C4 42C80000
++Max Reward Points
+%Credits: MadCatz
+$2014B088 08030800
++Max Score
+%Credits: MadCatz
+$204BC5F0 05F5E0FF
++Minimum Stamina
+%Credits: Codejunkies
+$204BC4D4 3F800000
++Never Score
+%Credits: MadCatz
+$204BC5F0 00000000
++No Health
+%Credits: MadCatz
+$204BC4C0 00000000
+$204BC4C4 00000000
+$204BC4C8 00000000
++No Health-Head
+%Credits: Codejunkies
+$204BC4C8 3F800000
++No Health-Legs
+%Credits: Codejunkies
+$204BC4C0 3F800000
++No Momentum/Stamina
+%Credits: MadCatz
+$204BC4D4 00000000
++No Stamina
+%Credits: Codejunkies
+$204BC9B4 40000000
+!!
++Player 2 Can't Escape Submissions
+%Credits: BigBossman
+$204BD7E0 00000001
+!Player 2 Codes:
++Infinite Health
+%Credits: MadCatz
+$204BD7B8 42C80000
+$204BD7C0 42C80000
++Infinite Health-Head
+%Credits: Codejunkies
+$204BD7C0 44000000
++Infinite Health-Legs
+%Credits: Codejunkies
+$204BD7B8 44000000
++Infinite Momentum/Stamina
+%Credits: MadCatz
+$204BD7CC 42C80000
++Infinite Stamina
+%Credits: Codejunkies
+$204BDCAC 42C80000
++Max Health
+%Credits: MadCatz
+$204BD7BC 42C80000
++Max Score
+%Credits: MadCatz
+$204BD8E8 05F5E0FF
++Minimum Stamina
+%Credits: Codejunkies
+$204BD7CC 3F800000
++Never Score
+%Credits: MadCatz
+$204BD8E8 00000000
++No Health
+%Credits: MadCatz
+$204BD7B8 00000000
+$204BD7BC 00000000
+$204BD7C0 00000000
++No Health-Head
+%Credits: Codejunkies
+$204BD7C0 3F800000
++No Health-Legs
+%Credits: Codejunkies
+$204BD7B8 3F800000
++No Momentum/Stamina
+%Credits: MadCatz
+$204BD7CC 00000000
++No Stamina
+%Credits: Codejunkies
+$204BDCAC 40000000
+!!
++Player 3 Can't Escape Submissions
+%Credits: BigBossman
+$204BEAD8 00000001
+!Player 3 Codes:
++Infinite Health-Head
+%Credits: Codejunkies
+$204BEAB8 44000000
++Infinite Health-Legs
+%Credits: Codejunkies
+$204BEAB0 44000000
++Infinite Stamina
+%Credits: Codejunkies
+$204BEFA4 42C80000
++Max Score
+%Credits: Codejunkies
+$204BEBE0 05F5E0FF
++Max Stamina
+%Credits: Codejunkies
+$204BEAC4 42C80000
++Minimum Stamina
+%Credits: Codejunkies
+$204BEAC4 3F800000
++No Health-Head
+%Credits: Codejunkies
+$204BEAB8 3F800000
++No Health-Legs
+%Credits: Codejunkies
+$204BEAB0 3F800000
++No Stamina
+%Credits: Codejunkies
+$204BEFA4 40000000
+!!
++Player 4 Can't Escape Submissions
+%Credits: BigBossman
+$204BFDD0 00000001
+!Player 4 Codes:
++Infinite Health-Head
+%Credits: Codejunkies
+$204BFDB0 44000000
++Infinite Health-Legs
+%Credits: Codejunkies
+$204BFDA8 44000000
++Infinite Stamina
+%Credits: Codejunkies
+$204C029C 42C80000
++Max Score
+%Credits: Codejunkies
+$204BFED8 05F5E0FF
++Max Stamina
+%Credits: Codejunkies
+$204BFDBC 42C80000
++Minimum Stamina
+%Credits: Codejunkies
+$204BFDBC 3F800000
++No Health-Head
+%Credits: Codejunkies
+$204BFDB0 3F800000
++No Health-Legs
+%Credits: Codejunkies
+$204BFDA8 3F800000
++No Stamina
+%Credits: Codejunkies
+$204C029C 40000000
+!!
+!Profile 1 Codes:
++Infinite Cash
+%Credits: Codejunkies
+$208EC200 05F5E0FF
++Infinite Dev Points
+%Credits: Code Master
+$108EC208 0000FFFF
++Infinite Money
+%Credits: Code Master
+$108EC200 0000FFFF
++Infinite Reward Points
+%Credits: Codejunkies
+$208EAB50 0001869F
++Max Cash
+%Credits: MadCatz
+$208EC200 3B9AC9FF
++Max DEV Points
+%Credits: MadCatz
+$208EC208 3B9AC9FF
++Max Dev Points
+%Credits: Code Master
+$108EC208 05F5E0FF
+!!
+!Profile 2 Codes:
++Infinite Dev Points
+%Credits: Code Master
+$108F1B68 0000FFFF
++Infinite Dev Points
+%Credits: Codejunkies
+$208F1B68 05F5E0FF
++Infinite Money
+%Credits: Code Master
+$108F1B60 0000FFFF
++Max Dev Points
+%Credits: Code Master
+$108F1B68 05F5E0FF
++Max Money
+%Credits: Code Master
+$208F1B60 05F5E0FF
+!!
+!Profile 3 Codes:
++Infinite Dev Points
+%Credits: Code Master
+$108F74C8 0000FFFF
++Infinite Dev Points
+%Credits: Codejunkies
+$208F74C8 05F5E0FF
++Infinite Money
+%Credits: Code Master
+$108F74C0 0000FFFF
++Max Dev Points
+%Credits: Code Master
+$108F74C8 05F5E0FF
++Max Money
+%Credits: Code Master
+$208F74C0 05F5E0FF
+!!
+!Profile 4 Codes:
++Infinite Dev Points
+%Credits: Code Master
+$108FCE28 0000FFFF
++Infinite Dev Points
+%Credits: Codejunkies
+$208FCE28 05F5E0FF
++Infinite Money
+%Credits: Code Master
+$108FCE20 0000FFFF
++Max Dev Points
+%Credits: Code Master
+$108FCE28 05F5E0FF
++Max Money
+%Credits: Code Master
+$208FCE20 05F5E0FF
+!!
+!Profile 5 Codes:
++Infinite Dev Points
+%Credits: Code Master
+$10902788 0000FFFF
++Infinite Dev Points
+%Credits: Codejunkies
+$20902788 05F5E0FF
++Infinite Money
+%Credits: Code Master
+$10902780 0000FFFF
++Max Dev Points
+%Credits: Code Master
+$10902788 05F5E0FF
++Max Money
+%Credits: Code Master
+$20902780 05F5E0FF
+!!
+!Profile 6 Codes:
++Infinite Dev Points
+%Credits: Code Master
+$109080E8 0000FFFF
++Infinite Dev Points
+%Credits: Codejunkies
+$209080E8 05F5E0FF
++Infinite Money
+%Credits: Code Master
+$109080E0 0000FFFF
++Max Dev Points
+%Credits: Code Master
+$109080E8 05F5E0FF
++Max Money
+%Credits: Code Master
+$209080E0 05F5E0FF
+!!
+!Profile 7 Codes:
++Infinite Dev Points
+%Credits: Code Master
+$1090DA48 0000FFFF
++Infinite Dev Points
+%Credits: Codejunkies
+$2090DA48 05F5E0FF
++Infinite Money
+%Credits: Code Master
+$1090DA40 0000FFFF
++Max Dev Points
+%Credits: Code Master
+$1090DA48 05F5E0FF
++Max Money
+%Credits: Code Master
+$2090DA40 05F5E0FF
+!!
+!Profile 8 Codes:
++Infinite Dev Points
+%Credits: Code Master
+$109133A8 0000FFFF
++Infinite Dev Points
+%Credits: Codejunkies
+$209133A8 05F5E0FF
++Infinite Money
+%Credits: Code Master
+$109133A0 0000FFFF
++Max Dev Points
+%Credits: Code Master
+$109133A8 05F5E0FF
++Max Money
+%Credits: Code Master
+$209133A0 05F5E0FF
+!!
+!Profile 9 Codes:
++Infinite Dev Points
+%Credits: Code Master
+$10918D08 0000FFFF
++Infinite Money
+%Credits: Code Master
+$10918D00 0000FFFF
++Max Dev Points
+%Credits: Code Master
+$10918D08 05F5E0FF
++Max Money
+%Credits: Code Master
+$20918D00 05F5E0FF
+!!
+!Story Mode Codes:
++Access All Gear
+%Credits: Code Master
+$200C0220 240300FF
+$200C0224 080D85B3
+$200C0228 A0430000
+$203616C8 08030088
++Access All Moves
+%Credits: Code Master
+$200C0230 240200FF
+$200C0234 080D852F
+$200C0238 A0620000
+$203614B8 0803008C
++Buying Gear Doesn't Decrease Overall Money
+%Credits: Code Master
+$201042D0 00000000
++Buying Gear Increases Overall Money
+%Credits: Code Master
+$201042CC 00651021
++Training/Learning Doesn't Decrease Dev Points
+%Credits: Code Master
+$20147474 00000000
++Training/Learning Increases Dev Points
+%Credits: Code Master
+$2014746C 00561021
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Infinite Arm Health P1
+%Credits: Code Master
+$204BC998 42480000
++Infinite Arm Health P2
+%Credits: Code Master
+$204BDC90 42480000
++Infinite Arm Health P3
+%Credits: Code Master
+$204BEF88 42480000
++Infinite Arm Health P4
+%Credits: Code Master
+$204C0280 42480000
++Infinite Head Health P1
+%Credits: Code Master
+$204BC990 42480000
++Infinite Head Health P2
+%Credits: Code Master
+$204BDC88 42480000
++Infinite Head Health P3
+%Credits: Code Master
+$204BEF80 42480000
++Infinite Head Health P4
+%Credits: Code Master
+$204C0278 42480000
++Infinite Health P1
+%Credits: Code Master
+$204BC4C0 43FA0000
+$204BC4C4 43FA0000
+$204BC4C8 43FA0000
++Infinite Health P2
+%Credits: Code Master
+$204BD7B8 43FA0000
+$204BD7BC 43FA0000
+$204BD7C0 43FA0000
++Infinite Health P3
+%Credits: Code Master
+$204BEAB0 43FA0000
+$204BEAB4 43FA0000
+$204BEAB8 43FA0000
++Infinite Health P4
+%Credits: Code Master
+$204BFDA8 43FA0000
+$204BFDAC 43FA0000
+$204BFDB0 43FA0000
++Infinite Leg Health P1
+%Credits: Code Master
+$204BC99C 42480000
++Infinite Leg Health P2
+%Credits: Code Master
+$204BDC94 42480000
++Infinite Leg Health P3
+%Credits: Code Master
+$204BEF8C 42480000
++Infinite Leg Health P4
+%Credits: Code Master
+$204C0284 42480000
++No Arm Health P1
+%Credits: Code Master
+$204BC998 00000000
++No Arm Health P2
+%Credits: Code Master
+$204BDC90 00000000
++No Arm Health P3
+%Credits: Code Master
+$204BEF88 00000000
++No Arm Health P4
+%Credits: Code Master
+$204C0280 00000000
++No Head Health P1
+%Credits: Code Master
+$204BC990 00000000
++No Head Health P2
+%Credits: Code Master
+$204BDC88 00000000
++No Head Health P3
+%Credits: Code Master
+$204BEF80 00000000
++No Head Health P4
+%Credits: Code Master
+$204C0278 00000000
++No Health P1
+%Credits: Code Master
+$204BC4C0 00000000
++No Health P2
+%Credits: Code Master
+$204BD7B8 00000000
++No Health P3
+%Credits: Code Master
+$204BEAB0 00000000
++No Health P4
+%Credits: Code Master
+$204BFDA8 00000000
++No Health Regeneration P1
+%Credits: Code Master
+$204BC4C8 00000000
++No Health Regeneration P2
+%Credits: Code Master
+$204BD7C0 00000000
++No Health Regeneration P3
+%Credits: Code Master
+$204BEAB8 00000000
++No Health Regeneration P4
+%Credits: Code Master
+$204BFDB0 00000000
++No Leg Health P1
+%Credits: Code Master
+$204BC99C 00000000
++No Leg Health P2
+%Credits: Code Master
+$204BDC94 00000000
++No Leg Health P3
+%Credits: Code Master
+$204BEF8C 00000000
++No Leg Health P4
+%Credits: Code Master
+$204C0284 00000000
++No Momentum P3
+%Credits: Code Master
+$204BEAC4 00000000
++No Momentum P4
+%Credits: Code Master
+$204BFDBC 00000000
++Quick Score Gain P1
+%Credits: Code Master
+$104BC5F0 0000FFFF
++Quick Score Gain P2
+%Credits: Code Master
+$104BD8E8 0000FFFF
++Quick Score Gain P3
+%Credits: Code Master
+$104BEBE0 0000FFFF
++Quick Score Gain P4
+%Credits: Code Master
+$104BFED8 0000FFFF
+!!
+!Unlock Rewards Codes:
++Buying Fighters Doesn't Decrease Points
+%Credits: Code Master
+$2014C00C 00000000
++Buying Fighters Increases Points
+%Credits: Code Master
+$2014C008 00621821
++Buying Venues Doesn't Decrease Points
+%Credits: Code Master
+$2014C9CC 00000000
++Buying Venues Increases Points
+%Credits: Code Master
+$2014C9C8 00621821
++Unlock All Fighters
+%Credits: Code Master
+$208EAB24 0000004B
+$408EBDE4 004B0001
+$07000000 00000001
++Unlock All Venues
+%Credits: Code Master
+$208EAB10 00000018
+$408EBD6C 00180001
+$17000000 00000001
+!!
+![ASM]:
++Momentum Regenerates Extremely Quickly (All Players) [ASM]
+%Credits: Josh_7774
+$20306950 00000000
++Running Doesn't Deplete Momentum [ASM]
+%Credits: Josh_7774
+$20306ACC 00000000
+!!
+!!
+

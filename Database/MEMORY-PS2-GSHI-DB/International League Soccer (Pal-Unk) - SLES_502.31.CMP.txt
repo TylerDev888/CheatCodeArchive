@@ -1,0 +1,31 @@
+^3 = NAME: International League Soccer (Pal-Unk)
+^2 = GameID: SLES-50231
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0100688 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0100688 0010068B
+!!
++L2 + R2 Position 1 Score 99 Goals
+%Credits: InterAct
+$D0392E38 0000FCFF
+$002441AC 00000063
++L2 + R2 Position 1 Scores 0 Goals
+%Credits: InterAct
+$D0392E38 0000FAFF
+$002441AC 00000000
++L2 + R2 Position 2 Scores 0 Goals
+%Credits: InterAct
+$D0392E38 0000F5FF
+$002441AD 00000000
++L2 + R2 Position 2 Scores 99 Goals
+%Credits: InterAct
+$D0392E38 0000F3FF
+$002441AD 00000063
++Lead Ball Mode
+%Credits: InterAct
+$10319696 00000000
+!!
+

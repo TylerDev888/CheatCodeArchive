@@ -1,0 +1,43 @@
+^3 = NAME: Great Escape, The (Ntsc-U)
+^2 = GameID: SLUS-20670
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0355F34 00355F37
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00355F37
+!!
++Enable Greatest Escape
+%Credits: Codejunkies
+$104EE0A0 00000001
++Have Level Select
+%Credits: Code Master
+$204EE0A0 00000001
++Infinite Ammo
+%Credits: MadCatz
+$201D688C 00000000
++Infinite Ammo
+%Credits: Codejunkies
+$101D6888 00000000
++Infinite First Aid
+%Credits: Codejunkies
+$101D59F8 00000000
++Infinite Health
+%Credits: MadCatz
+$20149BF0 E4800060
++Infinite Health
+%Credits: Codejunkies
+$20187A3C 3C014370
+$20187A44 AC810060
++Infinite Stick Grenades
+%Credits: Codejunkies
+$101D6554 00000000
++Play All Movies Upon Starting Game
+%Credits: Code Master
+$204EE09C 00000001
++Rapid Fire No Reload
+%Credits: MadCatz
+$201D6928 34020000
+!!
+

@@ -1,0 +1,4988 @@
+^1 = Hash: D1 D8 18 0B 7C 4C 6B BD D6 1D 41 C7 54 BA EF AB 2C B7 49 49
+^2 = GameID: SLUS_210.05
+^3 = NAME: Kingdom Hearts 2 - SLUS_210.05.CMP
+!Masters:
++Enable Code (MUST BE ON)
+$902FD330 0C0C42BD
++Enable Code (MUST BE ON)
+$F02FD330 002FD333
++Enable Code (MUST BE ON)
+$0E3C7DF2 1456E7A5
+$F02FD330 002FD333
+!!
+!Jokers:
++Joker Controller 1
+$0035B55C 0000[Joker:PS2]
+!!
+!Misc Codes:
++Restore HP
+%Credits:Pyriel
+$1019F980 00000005
++Infinite HP
+%Credits:Pyriel
+$200C0000 8C830238
+$200C0004 8C810004
+$200C0008 0023100B
+$200C000C 03E00008
+$200C0010 AC820000
+$201A0138 08030000
++Infinite MP
+%Credits:Pyriel
+$200C0100 8C830238
+$200C0104 8C810184
+$200C0108 0023100B
+$200C010C 08068074
+$200C0110 AC820180
+$201A0200 08030040
++Quick EXP Gain
+%Credits:Pyriel
+$201B5238 25CE[Amount:2710:HEX:BIG]
++Sell Something To Gain "amount" Money
+$2023E648 25EF[Amount:2710:HEX:BIG]
++Buy Something To Gain "amount" Money
+$2023E6D4 25EF[Amount:2710:HEX:BIG]
++Sell Items To Gain Same Amount Sold{Must Have More Then 1 Of The Item}
+$201A1CA8 01D07821
++Buy Something To Get 100 Of It
+$201A1B98 01C56821
++High Score Mod{Modifys Your High Score U Got}
+$11D5D8F0 0000[Amount:2710:HEX:BIG]
++Collect "amount" Points To Win{This Moddifys How Many Points U Have To Get To Win}
+$11D5D8E8 0000[Amount:2710:HEX:BIG]
++Tournaments Score Mod (might Also Be For Other Mini Games){U Need To Set This To A Number 1 Lower Then Max .. Untill I Can Figure Away Around This}
+$11D5D8FC 0000[Amount:2710:HEX:BIG]
++Demyx Points Kill{Press R3 To Set It To 1 Kill Needed}
+$D035B55C 0000FFFB
+$11D5D8FC 00000001
++Collect 1 Coin To Have Max For Coins{Works On Anything U Have To Collect In A Turny And So On ..}
+$201CFA38 08028000
+$200A0000 8E300018
+$200A0004 AE30002C
+$200A0008 08073E8F
++Time Stop Mod{Works For All Mini Games}
+$D035B55C 0000[Joker:PS2]
+$20356F1C 00000000
+$D035B55C 0000[Joker:PS2]
+$20356F1C 00000001
++Time Limit 00:00:00.
+$20356F18 00000000
+$20356F28 00000000
++Extremely Slow Forum Consumption{Use With Max Drive Gauge For Full Affect}
+$20340C94 47C35000
+$20340C98 47C35000
+$21CFCDEC 47C35000
++Battle Lvl 00
+$20340E8C 00000000
++Battle Lvl End Game
+$20340E8C 0015FDF9
++Battle Lvl Deadly
+$20340E8C 001FFFFF
++Degree Of Difficulty{Seems To Only Change How Hard Not Name}
+$0033F338 0000000[DOD]
++Drive Mod{Forms Will Only Work If U Have Them}
+$00340C8C 0000000[DMD]
++Max/Inf Munny
+$2033FE60 000F423F
++Drive = End Game Drive{If U Want More Then 7 Bars Change The 0707 To 0909 Or More}
+$20340C90 0A070764
++Bonus Level
+$00340E68 000000[Amount:FF:HEX:BIG]
++Summoning Mod
+$00340C8D 000000[Amount:FF:HEX:BIG]
++Lvl For Brave Form
+$00340B26 00000007
++Lvl For Wisdom Form
+$00340B4E 00000007
++Lvl For Master Form
+$00340B76 00000007
++Lvl For Final Form
+$00340B9E 00000007
++Lvl For Anti
+$00340BC6 00000007
++Lvl For Summon
+$00340C8E 00000007
++EXP For Brave Form
+$20340B28 000F423F
++EXP For Wisdom Form
+$20340B50 000F423F
++EXP For Master Form
+$20340B78 000F423F
++EXP For Final Form
+$20340BA0 000F423F
++EXP For Anit{Higher The Number More U Will Get The Form Lower Means Less Chance}
+$20340BC8 000[Amount:2710:HEX:BIG]
++EXP For Summon
+$20340E4C 000F423F
++Inf HP
+$200F7000 8C820004
+$200F7004 080682F8
+$200F7008 AC820000
+$201666F8 0C03DC00
++Inf MP
+$201A01F8 00000000
++Max Drive Gauge (when Used)
+$201A02A0 00000000
+$201A02BC 256EFFFF
++Multiply EXP By "med" Times
+$201B5238 0803D400
+$201B523C 00000000
+$200F5000 00042[MED]
+$200F5004 01C47021
+$200F5008 01EE782A
+$200F500C 0806D490
++Infinite Hp-All Characters{Restores HP After Battle}
+%Credits:Armax
+$2019F980 922F0005
++Infinite Mp-All Characters{Restores MP After Battle}
+%Credits:Armax
+$2019F990 922E0007
++Quick Level Up-All Characters
+%Credits:Armax
+$20340E48 0098967F
++All World Treasures Found
+%Credits:Armax
+$2033FDCC FFFFFFFF
+$2033FDD0 FFFFFFFF
+$2033FDD4 FFFFFFFF
+$2033FDD8 FFFFFFFF
+$2033FDDC FFFFFFFF
+$2033FDE0 FFFFFFFF
+$2033FDE4 FFFFFFFF
+$2033FDE8 FFFFFFFF
+$2033FDEC FFFFFFFF
+$2033FDF0 FFFFFFFF
+$2033FDF4 FFFFFFFF
+$2033FDF8 FFFFFFFF
+!!
+!Jimmies Note Book:
++All Maps{Gives U Drives As Well}
+$20340E28 FFFFFFFF
+$20340E2C FFFFFFFF
+$20340E30 FFFFFFFF
++Open All Jiminy's Journal{Its Not To Fill Just To Have}
+$4033FDB0 00040001
+$FFFFFFFF 00000000
++All Heartless Monsters Defeted (jimmies Notes)
+$40340EB0 002F0001
+$000000FF 00000000
++All Nobody Monsters Defeted (jimmies Notes)
+$40341030 000C0001
+$000000FF 00000000
++Monsters Bottom Numbers
+$403410B4 00180001
+$00FF00FF 00000000
+!Individual Notes:
++Heartless - Soldier
+$20340EB0 000000F0
++Heartless - Shadow
+$20340EB4 000000F0
++Heartless - Large Body
+$20340EB8 000000F0
++Heartless - Neo Shadow
+$20340EBC 000000F0
++Heartless - Trick Ghost
+$20340EC0 000000F0
++Heartless - Mad Dog
+$20340EC4 000000F0
++Heartless - Hookbat
+$20340EC8 000000F0
++Heartless - Book Master
+$20340ECC 000000F0
++Heartless - Aeroplane
+$20340ED0 000000F0
++Heartless - Miniature Bomb
+$20340ED4 000000F0
++Heartless - Hammer Body
+$20340ED8 000000F0
++Heartless - Assault Rider
+$20340EDC 000000F0
++Heartless - Night Walker
+$20340EE0 000000F0
++Heartless - Marble Vendor
+$20340EE4 000000F0
++Heartless - Magna Leader
+$20340EE8 000000F0
++Heartless - Eraser
+$20340EEC 000000F0
++Heartless - Fortune Teller
+$20340EF0 000000F0
++Heartless - Luna Bandit
+$20340EF4 000000F0
++Heartless - Hot Rod
+$20340EF8 000000F0
++Heartless - Aiming Cannon
+$20340EFC 000000F0
++Heartless - Rapid Thruster
+$20340F00 000000F0
++Heartless - Living Bone
+$20340F04 000000F0
++Heartless - Terminator
+$20340F08 000000F0
++Heartless - Lance Soldier
+$20340F0C 000000F0
++Heartless - Mole Drill
+$20340F10 000000F0
++Heartless - Morning Star
+$20340F14 000000F0
++Heartless - Shaman
+$20340F18 000000F0
++Heartless - Tornado Step
+$20340F1C 000000F0
++Heartless - Armor Knight
+$20340F20 000000F0
++Heartless - Surveillance
+$20340F24 000000F0
++Heartless - Flare Glove
+$20340F28 000000F0
++Heartless - Ice Cube
+$20340F2C 000000F0
++Heartless - Sword Statue
+$20340F30 000000F0
++Heartless - Axe Statue
+$20340F34 000000F0
++Heartless - Silver Rock
+$20340F38 000000F0
++Heartless - Emerald Blues
+$20340F3C 000000F0
++Heartless - Crimson Jazz
+$20340F40 000000F0
++Heartless - Volt Tower
+$20340F44 000000F0
++Heartless - Blank
+$20340F48 000000F0
++Heartless - Aerial Knocker
+$20340F4C 000000F0
++Heartless - Fat Bandit
+$20340F50 000000F0
++Heartless - Toy Soldier
+$20340F54 000000F0
++Heartless - Wight Knight
+$20340F58 000000F0
++Heartless - Air Pirate
+$20340F5C 000000F0
++Heartless - Crescendo
+$20340F60 000000F0
++Heartless - Creep Plant
+$20340F64 000000F0
++Heartless - Graveyard
+$20340F68 000000F0
++Nobodys - Dusk
+$20341030 000000F0
++Nobodys - Blank
+$20341034 000000F0
++Nobodys - Blank
+$20341038 000000F0
++Nobodys - Dragoon
+$2034103C 000000F0
++Nobodys - Assassin
+$20341040 000000F0
++Nobodys - Samurai
+$20341044 000000F0
++Nobodys - Sniper
+$20341048 000000F0
++Nobodys - Dancer
+$2034104C 000000F0
++Nobodys - Berserker
+$20341050 000000F0
++Nobodys - Gambler
+$20341054 000000F0
++Nobodys - Sorcerer
+$20341058 000000F0
++Nobodys - Creeper
+$2034105C 000000F0
+!!
+!Bottom Number:
++Soldier (bottom Number)
+$103410B2 000000F0
++Large Body (bottom Number 1)
+$103410B4 000000F0
++Large Body (bottom Number 2)
+$103410B6 000000F0
++Hookbat (bottom Number)
+$103410B8 000000F0
++Fourtune Teller (bottom Number)
+$103410BA 000000F0
++Lance Soldier (bottom Number)
+$103410BC 000000F0
++Fat Bandit (bottom Number)
+$103410BE 000000F0
++Miniature Bomb (bottom Number)
+$103410C0 000000F0
++Rapid Thruster (bottom Number)
+$103410C2 000000F0
++Creep Plant (bottom Number)
+$103410C4 000000F0
++Tornado Step (bottom Number)
+$103410C6 000000F0
++Crescendo (bottom Number)
+$103410C8 000000F0
++Magna Loader (bottom Number)
+$103410CA 000000F0
++Silver Rock (bottom Number)
+$103410CC 000000F0
++Air Pirate (bottom Number)
+$103410CE 000000F0
++Neo Shadow (buttom Number)
+$103410D0 000000F0
++Armour Knight (buttom Number)
+$103410D2 000000F0
++Surveillance (bottom Number)
+$103410D4 000000F0
++Aerial Knocker
+$103410D6 000000F0
++Shaman (bottom Number)
+$103410D8 000000F0
++Living Bone (bottom Number 2)
+$103410DA 000000F0
++Dusk (bottom Number)
+$103410DC 000000F0
++Samurai (bottom Number)
+$103410DE 000000F0
++Dragon (bottom Number)
+$103410E0 000000F0
++Sniper (bottom Number)
+$103410E2 000000F0
++Gambler (bottom Number 2)
+$103410E4 000000F0
++Gambler (bottom Number 1)
+$103410E6 000000F0
++Rapid Thruster (bottom Number)
+$103410E8 000000F0
++Blank
+$103410EA 000000F0
++Berserker (bottom Number)
+$103410EC 000000F0
++Volt Tower (bottom Number)
+$103410EE 000000F0
++Blank
+$103410F0 000000F0
++Blank
+$103410F2 000000F0
++Blank
+$103410F4 000000F0
++Morning Star (bottom Number 2)
+$103410F8 000000F0
++Morning Star (bottom Number 1)
+$103410FA 000000F0
++Living Bone (bottom Number 1)
+$103410FC 000000F0
++Dragon (bottom Number 1)
+$103410FE 000000F0
++Blank
+$10341100 000000F0
++Large Body (bottom Number 3)
+$10341102 000000F0
++Marble Vendor (bottom Number4)
+$10341104 000000F0
++Marble Vendor (bottom Number3)
+$10341106 000000F0
++Marble Vendor (bottom Number2)
+$10341108 000000F0
++Marble Vendor (bottom Number1)
+$1034110A 000000F0
++Sword Statue (bottom Number)
+$1034110C 000000F0
++Assassin (bottom Number)
+$1034110E 000000F0
++Axe Statue (bottom Number)
+$10341110 000000F0
+!!
+!!
+!Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}
++Doesn't Seem To Be Anything
+$20340C9C [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Doesn't Seem To Be Anything
+$20340CA0 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Twilight Town
+$20340CA4 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Doesn't Seem To Be Anything
+$20340CA8 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Hollow Bastion
+$20340CAC [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Beasts Castle
+$20340CB0 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Olympus Coliseum
+$20340CB4 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Agrabah
+$20340CB8 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++The Land Of Dragons
+$20340CBC [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++100 Acre Wood
+$20340CC0 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Pride Lands
+$20340CC4 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Atlantica
+$20340CC8 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Disney Castle
+$20340CCC [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Timeless River
+$20340CD0 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Halloween Town
+$20340CD4 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Doesn't Seem To Be Anything
+$20340CD8 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Port Royal
+$20340CDC [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Space Paranoids
+$20340CE0 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++The World That Never Was
+$20340CE4 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]
++Party Mod (all In One) Use This Code And All Worlds Will Have The Same
+$40340C9C 00130001
+$[CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>] 00000000
+!Universal Character Mods:
++Universal Character Mod Slot 1(sora)
+%Credits:Godshin
+$11C95618 0000[UCM]
++Universal Character Mod Slot 2(donald)
+%Credits:Godshin
+$11C9561A 0000[UCM]
++Universal Character Mod Slot 3(goofy)
+%Credits:Godshin
+$11C9561C 0000[UCM]
++Universal Character Mod Slot 4 (/Guest)
+%Credits:Godshin
+$11C9561E 0000[UCM]
++Universal Character Mod Valor-Form
+%Credits:Godshin
+$11CFA404 0000[UCM]
++Universal Character Mod Wisdom Form
+%Credits:Godshin
+$11CFA406 0000[UCM]
++Universal Character Mod Master-Form
+%Credits:Godshin
+$11CFA408 0000[UCM]
++Universal Character Mod Final-Form
+%Credits:Godshin
+$11CFA40A 0000[UCM]
++Universal Character Mod Anti-Form
+%Credits:Godshin
+$11CFA40C 0000[UCM]
++Universal Character Mod King Mickey
+%Credits:Godshin
+$11CFA40E 0000[UCM]
+!!
+!!
+!Gummi Ship Codes:
++Inf HP (gummie Ship)
+%Credits:CMX
+$200C0220 8C820008
+$200C0224 03E00008
+$200C0228 AC820004
+$D1F663C0 000004A8
+$21F663BC 0C030088
++Max Points
+%Credits:CMX
+$D03565C4 00000001
+$21F7801C 05F5E0FF
++Quick Medal Gain
+$D03565C4 00000001
+$21F4C83C 25AD0005
++Medals Never Decrease
+$D03565C4 00000001
+$21F4C70C 00000000
++Have All Deco-Gummies
+$10349BEA 0000FFFF
+$20349BEC FFFFFFFF
+$20349BF4 FFFFFFFF
+$20349BF8 FFFFFFFF
+$10349BFA 0000FFFF
+$10349BFE 0000FFFF
+$20349C00 FFFFFFFF
+$10349C04 0000FFFF
+$00349C06 000000FF
+$20349C08 FFFFFFFF
+$10349C12 0000FFFF
+$40349C14 00030001
+$FFFFFFFF 00000000
+$10349C20 0000FFFF
+$10349C26 0000FFFF
+$20349C28 FFFFFFFF
+$20349C30 FFFFFFFF
+$20349C34 FFFFFFFF
+$00349C38 000000FF
+$00349C45 000000FF
++Have All Material Gummies
+$00349BE1 000000FF
+$10349BE2 0000FFFF
+$00349BE4 000000FF
++Max Allowed Cost Gummie
+$00349C8A 000000[ACG]
++Max Allowed Cost Teeny
+$00349C8F 000000[ACT]
++Max Ap
+$00349C8E 00000063
++Have All Abilitys
+$00349C58 00000001
+$00349C5C 00000001
+$20349C60 01000001
+$20349C68 01010100
+$20349C6C 01010101
+$20349C70 01000101
++All Special Models
+$40349C94 00030001
+$01010101 00000000
++Have All Sample Prints
+$10349CB2 00000101
+$40349CB4 00040001
+$01010101 00000000
+$00349CC4 00000001
+$10349CC6 00000101
+$20349CC8 01010101
+$10349CCC 00000101
+$00349CCE 00000001
+!Gummie - Individual Abilitys:
++Draw
+$00349C58 00000001
++Heal Upgrade
+$00349C5C 00000001
++Auto-Life
+$00349C60 00000001
++Formation Change
+$00349C63 00000001
++Cannon Upgrade
+$00349C69 00000001
++Laser Upgrade
+$00349C6A 00000001
++Slash Upgrade
+$00349C6B 00000001
++Medal Converter
+$00349C6C 00000001
++Auto-Regen
+$00349C6D 00000001
++Auto-Counter
+$00349C6E 00000001
++Cost Converter
+$00349C6F 00000001
++Active Formation
+$00349C70 00000001
++Slash Haste
+$00349C71 00000001
++Slash Precharge
+$00349C73 00000001
+!!
+!Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}
++Flat Helm/G (cpg)
+$00349BEA 000000FF
++Bubble Helm/G (cpg)
+$00349BEB 000000FF
++Solid Helm/G (cpg)
+$00349BEC 000000FF
++Sphere Helm/G (cpg)
+$00349BED 000000FF
++Bridge/G (cpg)
+$00349BEE 000000FF
++Big Bridge/G (cpg)
+$00349BEF 000000FF
++Vernier/G (eg)
+$00349BF4 000000FF
++Booster/G (eg)
+$00349BF5 000000FF
++Thruster/G (eg)
+$00349BF6 000000FF
++Mini-Propeller/G (eg)
+$00349BF7 000000FF
++Propeller/G (eg)
+$00349BF8 000000FF
++Screw Propeller/G (eg)
+$00349BF9 000000FF
++Rotor/G (eg)
+$00349BFA 000000FF
++Large Rotor/G (eg)
+$00349BFB 000000FF
++Tempest/G (wg)
+$00349BFE 000000FF
++Hurricane/G (wg)
+$00349BFF 000000FF
++Typhoon/G (wg)
+$00349C00 000000FF
++Vortex/G (wg)
+$00349C01 000000FF
++Sonic Turbo/G (wg)
+$00349C02 000000FF
++Cyclone/G (wg)
+$00349C03 000000FF
++Storm/G (wg)
+$00349C04 000000FF
++Angel/G (wg)
+$00349C05 000000FF
++Darkness/G (wg)
+$00349C06 000000FF
++Shield/G (shg)
+$00349C08 000000FF
++Large Shield/G (shg)
+$00349C09 000000FF
++Shell/G (shg)
+$00349C0A 000000FF
++Large Shell (shg)
+$00349C0B 000000FF
++Fire/G (pg)
+$00349C12 000000FF
++Fira/G (pg)
+$00349C13 000000FF
++Firaga/G (pg)
+$00349C14 000000FF
++Blizzard/G (pg)
+$00349C15 000000FF
++Blizzara/G (pg)
+$00349C16 000000FF
++Blizzaga/G (pg)
+$00349C17 000000FF
++Gravity/G (pg)
+$00349C18 000000FF
++Gravira/G (pg)
+$00349C19 000000FF
++Graviga/G (pg)
+$00349C1A 000000FF
++Thunder/G (lg)
+$00349C1B 000000FF
++Thundara/G (lg)
+$00349C1C 000000FF
++Thundaga/G (lg)
+$00349C1D 000000FF
++Comet/G (pg)
+$00349C1E 000000FF
++Meteor/G (pg)
+$00349C1F 000000FF
++Ultima/G (lg)
+$00349C20 000000FF
++Drain/G (lg)
+$00349C21 000000FF
++Drill/G (ig)
+$00349C26 000000FF
++Saw/G (ig)
+$00349C27 000000FF
++Orichalcum/G (sg)
+$00349C28 000000FF
++Masamune/G (sg)
+$00349C29 000000FF
++Excalibur/G (sg)
+$00349C2A 000000FF
++Infinity/G (sg)
+$00349C2B 000000FF
++Neon Orb/G (og)
+$00349C30 000000FF
++Neon Bar/G (og)
+$00349C31 000000FF
++Wheel/G (og)
+$00349C32 000000FF
++Parabola/G (og)
+$00349C33 000000FF
++Antenna/G (og)
+$00349C34 000000FF
++Radar/G (og)
+$00349C35 000000FF
++Round Light/G (og)
+$00349C36 000000FF
++Square Light/G (og)
+$00349C37 000000FF
++Crown/G (og)
+$00349C38 000000FF
++Gungnir/G (ig)
+$00349C45 000000FF
+!!
+!Gummie Ships - Individual Special Models:
++Mushroom
+$00349C94 00000001
++Highwind
+$00349C95 00000001
++Pupu
+$00349C96 00000001
++Tonberry
+$00349C97 00000001
++Moogle
+$00349C98 00000001
++Mandragora
+$00349C99 00000001
++Chocobo
+$00349C9A 00000001
++Cactuar
+$00349C9B 00000001
++Cait Sith
+$00349C9C 00000001
++Fenrir
+$00349C9D 00000001
++Kingdom Model
+$00349C9E 00000001
++Secret Model
+$00349C9F 00000001
+!!
+!Gummie Ships - Individual Sample Prints:
++Highwind
+$00349CB2 00000001
++Highwind Lv.1
+$00349CB3 00000001
++Highwind Lv.2
+$00349CB4 00000001
++Highwind Lv.3
+$00349CB5 00000001
++Highwind Lv.4
+$00349CB6 00000001
++Highwind Lv.5
+$00349CB7 00000001
++Highwind Lv.6
+$00349CB8 00000001
++Highwind Lv.7
+$00349CB9 00000001
++Highwind Lv.8
+$00349CBA 00000001
++Highwind Peak
+$00349CBB 00000001
++Falcon Lv.1
+$00349CBC 00000001
++Falcon Lv.2
+$00349CBD 00000001
++Falcon Lv.3
+$00349CBE 00000001
++Falcon Lv.4
+$00349CBF 00000001
++Falcon Lv.5
+$00349CC0 00000001
++Falcon Lv.6
+$00349CC1 00000001
++Falcon Lv.7
+$00349CC2 00000001
++Falcon Lv.8
+$00349CC3 00000001
++Falcon Peak
+$00349CC4 00000001
++Invincible Lv.1
+$00349CC6 00000001
++Invincible Lv.2
+$00349CC7 00000001
++Invincible Lv.3
+$00349CC8 00000001
++Invincible Lv.4
+$00349CC9 00000001
++Invincible Lv.5
+$00349CCA 00000001
++Invincible Lv.6
+$00349CCB 00000001
++Invincible Lv.7
+$00349CCC 00000001
++Invincible Lv.8
+$00349CCD 00000001
++Invincible Peak
+$00349CCE 00000001
+!!
+!Missions:
+!Gummi Track 1:(Asteroid Sweep M1)
++Gummi Score
+$20349520 05F5E0FF
++Kills
+$10349526 0000270F
++Max Medal Lvl
+$0034953A 00000063
++Max Lvl
+$0034953B 0000000A
++Trersure
+$20349540 42C80000
+!!
+!Gummi Track 2:(Asteroid Sweep M2)
++Gummi Score
+$20349560 05F5E0FF
++Kills
+$10349566 0000270F
++Max Medal Lvl
+$0034957A 00000063
++Max Lvl
+$0034957B 0000000A
++Trersure
+$20349580 42C80000
+!!
+!Gummi Track 3:(Asteroid Sweep M3)
++Gummi Score
+$203495A0 05F5E0FF
++Kills
+$103495A6 0000270F
++Max Medal Lvl
+$003495BA 00000063
++Max Lvl
+$003495BB 0000000A
++Trersure
+$203495C0 42C80000
+!!
+!Gummi Track 4:(Stardust Sweep M1)
++Gummi Score
+$203495E0 05F5E0FF
++Kills
+$103495E6 0000270F
++Max Medal Lvl
+$003495FA 00000063
++Max Lvl
+$003495FB 0000000A
++Trersure
+$20349600 42C80000
+!!
+!Gummi Track 5:(Stardust Sweep M2)
++Gummi Score
+$20349620 05F5E0FF
++Kills
+$10349626 0000270F
++Max Medal Lvl
+$0034963A 00000063
++Max Lvl
+$0034963B 0000000A
++Trersure
+$20349640 42C80000
+!!
+!Gummi Track 6:(Stardust Sweep M3)
++Gummi Score
+$20349660 05F5E0FF
++Kills
+$10349666 0000270F
++Max Medal Lvl
+$0034967A 00000063
++Max Lvl
+$0034967B 0000000A
++Trersure
+$20349680 42C80000
+!!
+!Gummi Track 7:(Broken Highway M1)
++Gummi Score
+$203496A0 05F5E0FF
++Kills
+$103496A6 0000270F
++Max Medal Lvl
+$003496BA 00000063
++Max Lvl
+$003496BB 0000000A
++Trersure
+$203496C0 42C80000
+!!
+!Gummi Track 8:(Broken Highway M2)
++Gummi Score
+$203496E0 05F5E0FF
++Kills
+$103496E6 0000270F
++Max Medal Lvl
+$003496FA 00000063
++Max Lvl
+$003496FB 0000000A
++Trersure
+$20349700 42C80000
+!!
+!Gummi Track 9:(Broken Highway M3)
++Gummi Score
+$20349720 05F5E0FF
++Kills
+$10349726 0000270F
++Max Medal Lvl
+$0034973A 00000063
++Max Lvl
+$0034973B 0000000A
++Trersure
+$20349740 42C80000
+!!
+!Gummi Track 10:(Ancient Highway M1)
++Gummi Score
+$20349760 05F5E0FF
++Kills
+$10349766 0000270F
++Max Medal Lvl
+$0034977A 00000063
++Max Lvl
+$0034977B 0000000A
++Trersure
+$20349780 42C80000
+!!
+!Gummi Track 11:(Ancient Highway M2)
++Gummi Score
+$203497A0 05F5E0FF
++Kills
+$103497A6 0000270F
++Max Medal Lvl
+$003497BA 00000063
++Max Lvl
+$003497BB 0000000A
++Trersure
+$203497C0 42C80000
+!!
+!Gummi Track 12:(Ancient Highway M3)
++Gummi Score
+$203497E0 05F5E0FF
++Kills
+$103497E6 0000270F
++Max Medal Lvl
+$003497FA 00000063
++Max Lvl
+$003497FB 0000000A
++Trersure
+$20349800 42C80000
+!!
+!Gummi Track 13:(Phantom Storm M1)
++Gummi Score
+$20349820 05F5E0FF
++Kills
+$10349826 0000270F
++Max Medal Lvl
+$0034983A 00000063
++Max Lvl
+$0034983B 0000000A
++Trersure
+$20349840 42C80000
+!!
+!Gummi Track 14:(Phantom Storm M2)
++Gummi Score
+$20349860 05F5E0FF
++Kills
+$10349866 0000270F
++Max Medal Lvl
+$0034987A 00000063
++Max Lvl
+$0034987B 0000000A
++Trersure
+$20349880 42C80000
+!!
+!Gummi Track 15:(Phantom Storm M3)
++Gummi Score
+$203498A0 05F5E0FF
++Kills
+$103498A6 0000270F
++Max Medal Lvl
+$003498BA 00000063
++Max Lvl
+$003498BB 0000000A
++Trersure
+$203498C0 42C80000
+!!
+!Gummi Track 16:(Sunlight Storm M1)
++Gummi Score
+$203498E0 05F5E0FF
++Kills
+$103498E6 0000270F
++Max Medal Lvl
+$003498FA 00000063
++Max Lvl
+$003498FB 0000000A
++Trersure
+$20349900 42C80000
+!!
+!Gummi Track 17:(Sunlight Storm M2)
++Gummi Score
+$20349920 05F5E0FF
++Kills
+$10349926 0000270F
++Max Medal Lvl
+$0034993A 00000063
++Max Lvl
+$0034993B 0000000A
++Trersure
+$20349940 42C80000
+!!
+!Gummi Track 18:(Sunlight Storm M3)
++Gummi Score
+$20349960 05F5E0FF
++Kills
+$10349966 0000270F
++Max Medal Lvl
+$0034997A 00000063
++Max Lvl
+$0034997B 0000000A
++Trersure
+$20349980 42C80000
+!!
+!Gummi Track 19:(Splash Island M1)
++Gummi Score
+$203499A0 05F5E0FF
++Kills
+$103499A6 0000270F
++Max Medal Lvl
+$003499BA 00000063
++Max Lvl
+$003499BB 0000000A
++Trersure
+$203499C0 42C80000
+!!
+!Gummi Track 20:(Splash Island M2)
++Gummi Score
+$203499E0 05F5E0FF
++Kills
+$103499E6 0000270F
++Max Medal Lvl
+$003499FA 00000063
++Max Lvl
+$003499FB 0000000A
++Trersure
+$20349A00 42C80000
+!!
+!Gummi Track 21:(Splash Island M3)
++Gummi Score
+$20349A20 05F5E0FF
++Kills
+$10349A26 0000270F
++Max Medal Lvl
+$00349A3A 00000063
++Max Lvl
+$00349A3B 0000000A
++Trersure
+$20349A40 42C80000
+!!
+!Gummi Track 22:(Floating Island M1)
++Gummi Score
+$20349A60 05F5E0FF
++Kills
+$10349A66 0000270F
++Max Medal Lvl
+$00349A7A 00000063
++Max Lvl
+$00349A7B 0000000A
++Trersure
+$20349A80 42C80000
+!!
+!Gummi Track 23:(Floating Island M2)
++Gummi Score
+$20349AA0 05F5E0FF
++Kills
+$10349AA6 0000270F
++Max Medal Lvl
+$00349ABA 00000063
++Max Lvl
+$00349ABB 0000000A
++Trersure
+$20349AC0 42C80000
+!!
+!Gummi Track 24:(Floating Island M3)
++Gummi Score
+$20349AE0 05F5E0FF
++Kills
+$10349AE6 0000270F
++Max Medal Lvl
+$00349AFA 00000063
++Max Lvl
+$00349AFB 0000000A
++Trersure
+$20349B00 42C80000
+!!
+!Gummi Track 25:(Assault of the Dreadnought M1)
++Gummi Score
+$20349B20 05F5E0FF
++Kills
+$10349B26 0000270F
++Max Medal Lvl
+$00349B3A 00000063
++Max Lvl
+$00349B3B 0000000A
++Trersure
+$20349B40 42C80000
+!!
+!Gummi Track 26:(Assault of the Dreadnought M2)
++Gummi Score
+$20349B60 05F5E0FF
++Kills
+$10349B66 0000270F
++Max Medal Lvl
+$00349B7A 00000063
++Max Lvl
+$00349B7B 0000000A
++Trersure
+$20349B80 42C80000
+!!
+!Gummi Track 27:(Assault of the Dreadnought M3)
++Gummi Score
+$20349BA0 05F5E0FF
++Kills
+$10349BA6 0000270F
++Max Medal Lvl
+$00349BBA 00000063
++Max Lvl
+$00349BBB 0000000A
++Trersure
+$20349BC0 42C80000
+!!
+!!
+!!items:
++All Bottle Items (98)
+$20340CE8 62626262
+$10340CEC 00006262
+$00340CEE 00000062
+$00340D49 00000062
+$20340DCC 62626262
+$10340DD0 00006262
++Have All Accessories
+$00340CEF 00000062
+$40340CF0 00030001
+$62626262 00000000
+$10340D02 00006262
+$00340D04 00000062
+$10340D06 00006262
+$00340D08 00000062
+$10340D0E 00006262
+$00340D10 00000062
+$10340D14 00006262
+$10340D18 00006262
+$00340D22 00000062
+$10340D24 00006262
+$00340D26 00000062
+$10340D2E 00006262
+$10340D32 00006262
+$00340D39 00000062
+$00340D3F 00000062
+$10340D40 00006262
+$00340D42 00000062
+$20340D44 62626262
+$10340D4A 00006262
+$10340D4C 00006262
+$00340D61 00000062
+$00340D63 00000062
+$10340D64 00006262
+$00340D67 00000062
+$20340D68 62626262
+$10340D6C 00006262
+$00340D6E 00000062
++All Key Items
+$00340D00 00000062
+$00340DA7 00000062
+$20340DA8 62626262
+$20340DAC 62626262
+$10340DB0 00006262
+$00340DB2 00000062
+$00340DB8 00000062
+$10340DBA 00006262
+$10340DBC 00006262
+$10340DDE 00006262
+$10340DE0 00006262
+$00340DE2 00000062
+$10340DFE 00006262
++All Sora Weapons
+$00340D09 00000062
+$10340D0A 00006262
+$10340D0C 00006262
+$00340DE3 00000062
+$00340DE4 00000062
+$00340DE7 00000062
+$40340DE8 00040001
+$62626262 00000000
++All Goofys Weapons
+$00340D11 00000062
+$10340D12 00006262
+$10340D4E 00006262
+$20340D50 62626262
+$10340D54 00006262
+$00340D56 00000062
+$00340DE6 00000062
+$00340DFB 00000062
++All Other Weapons
+$10340D16 00006262
+$00340D1B 00000062
+$10340D1C 00006262
+$00340D1E 00000062
+$10340D28 00006262
+$00340D2A 00000062
++All Donald Weapons
+$00340D2B 00000062
+$00340D57 00000062
+$20340D58 62626262
+$20340D5C 62626262
+$00340D62 00000062
+$00340DE5 00000062
+$00340DFA 00000062
+!Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}
++Potion (po)
+$00340CE8 00000062
++Hi-Potion (po)
+$00340CE9 00000062
++Ether (po)
+$00340CEA 00000062
++Elixir (po)
+$00340CEB 00000062
++Mega-Potion (po)
+$00340CEC 00000062
++Mega-Ether (po)
+$00340CED 00000062
++Megalixir (po)
+$00340CEE 00000062
++Ability Ring (acc)
+$00340CEF 00000062
++Engineer's Ring (acc)
+$00340CF0 00000062
++Technician's Ring (acc)
+$00340CF1 00000062
++Expert's Ring (acc)
+$00340CF2 00000062
++Sardonyx Ring (acc)
+$00340CF3 00000062
++Tourmaline Ring (acc)
+$00340CF4 00000062
++Aquamarine Ring (acc)
+$00340CF5 00000062
++Garnet Ring (acc)
+$00340CF6 00000062
++Diamond Ring (acc)
+$00340CF7 00000062
++Silver Ring (acc)
+$00340CF8 00000062
++Gold Ring (acc)
+$00340CF9 00000062
++Platinum Ring (acc)
+$00340CFA 00000062
++Mythril Ring (acc)
+$00340CFB 00000062
++Torn Pages (ki)
+$00340D00 00000062
++Orichalcum Ring (acc)
+$00340D02 00000062
++Master's Ring (acc)
+$00340D03 00000062
++Moon Amulet (acc)
+$00340D04 00000062
++Star Charm (acc)
+$00340D06 00000062
++Skill Ring (acc)
+$00340D07 00000062
++Skillful Ring (acc)
+$00340D08 00000062
++Kingdom Key (sa)
+$00340D09 00000062
++Oath Keeper (sa)
+$00340D0A 00000062
++Oblivion (sa)
+$00340D0B 00000062
++Detection Saber (sa)
+$00340D0C 00000062
++Edge Of Ultima (sa)
+$00340D0D 00000062
++Soldier Earring (acc)
+$00340D0E 00000062
++Fencer Earring (acc)
+$00340D0F 00000062
++Mage Earring (acc)
+$00340D10 00000062
++Knight's Shield (gy)
+$00340D11 00000062
++Detection Shield (gy)
+$00340D12 00000062
++Test The King (gy)
+$00340D13 00000062
++Slayer Earring (acc)
+$00340D14 00000062
++Cosmic Ring (acc)
+$00340D15 00000062
++Battlefields Of War (or)
+$00340D16 00000062
++Sword Of The Ancestor (or)
+$00340D17 00000062
++Medal (acc)
+$00340D18 00000062
++Cosmic Arts (acc)
+$00340D19 00000062
++Beast's Claw (or)
+$00340D1B 00000062
++Bone Fist (or)
+$00340D1C 00000062
++Proud Fang (or)
+$00340D1D 00000062
++Skill And Crossbones (or)
+$00340D1E 00000062
++Lucky Ring (acc)
+$00340D20 00000062
++Draw Ring (acc)
+$00340D22 00000062
++Elven Bandanna (acc)
+$00340D24 00000062
++Divine Bandanna (acc)
+$00340D25 00000062
++Power Band (acc)
+$00340D26 00000062
++Antiform Dummy (sa) Crash
+$00340D27 00000062
++Scimitar (or)
+$00340D28 00000062
++Way To The Dawn (or)
+$00340D29 00000062
++Identity Disk (or)
+$00340D2A 00000062
++Mage's Staff (dd)
+$00340D2B 00000062
++Buster Band (acc)
+$00340D2E 00000062
++Protect Belt (acc)
+$00340D2F 00000062
++Fake (or)
+$00340D30 00000062
++Fake (sa)
+$00340D31 00000062
++Gaia Belt (acc)
+$00340D32 00000062
++Protect Belt (acc)
+$00340D33 00000062
++Cosmic Belt (acc)
+$00340D39 00000062
++Fire Bangle (acc)
+$00340D3F 00000062
++Fira Bangle (acc)
+$00340D40 00000062
++Firaga Bangle (acc)
+$00340D41 00000062
++Firagun Bangle (acc)
+$00340D42 00000062
++Blizzard Armlet (acc)
+$00340D44 00000062
++Blizzara Armlet (acc)
+$00340D45 00000062
++Blizzaga Armlet (acc)
+$00340D46 00000062
++Blizzagun Armlet (acc)
+$00340D47 00000062
++Tent (po)
+$00340D49 00000062
++Thunder Trinket (acc)
+$00340D4A 00000062
++Thundara Trinket (acc)
+$00340D4B 00000062
++Thundaga Trinket (acc)
+$00340D4C 00000062
++Thundagun Trinket (acc)
+$00340D4D 00000062
++Adamant Shield (gy)
+$00340D4E 00000062
++Chain Gear (gy)
+$00340D4F 00000062
++Ogre Shield (gy)
+$00340D50 00000062
++Falling Star (gy)
+$00340D51 00000062
++Dreamcloud (gy)
+$00340D52 00000062
++Knight Defender (gy)
+$00340D53 00000062
++Genji Shield (gy)
+$00340D54 00000062
++Akashic Record (gy)
+$00340D55 00000062
++Nobody Guard (gy)
+$00340D56 00000062
++Hammer Staff (dd)
+$00340D57 00000062
++Victory Bell (dd)
+$00340D58 00000062
++Meteor Staff (dd)
+$00340D59 00000062
++Comet Staff (dd)
+$00340D5A 00000062
++Lord's Broom (dd)
+$00340D5B 00000062
++Wisdom Wand (dd)
+$00340D5C 00000062
++Rising Dragon (dd)
+$00340D5D 00000062
++Nobody Lance (dd)
+$00340D5E 00000062
++Shaman's Relic (dd)
+$00340D5F 00000062
++Shadow Anklet (acc)
+$00340D61 00000062
++Staff Of Detection (dd)
+$00340D62 00000062
++Dark Anklet (acc)
+$00340D63 00000062
++Midnight Anklet (acc)
+$00340D64 00000062
++Chaos Anklet (acc)
+$00340D65 00000062
++Abas Chain (acc)
+$00340D67 00000062
++Aegis Chain (acc)
+$00340D68 00000062
++Acrisius (acc)
+$00340D69 00000062
++Ribbon (acc)
+$00340D6A 00000062
++Champion Belt (acc)
+$00340D6B 00000062
++Petit Ribbon (acc)
+$00340D6C 00000062
++Acrisius+ (acc)
+$00340D6D 00000062
++Cosmic Chain (acc)
+$00340D6E 00000062
++Blazing Shard (sy)
+$00340D77 00000062
++Blazing Stone (sy)
+$00340D78 00000062
++Blazing Gem (sy)
+$00340D79 00000062
++Blazing Crystal (sy)
+$00340D7A 00000062
++Lightning Shard (sy)
+$00340D7F 00000062
++Lightning Stone (sy)
+$00340D80 00000062
++Lightning Gem (sy)
+$00340D81 00000062
++Lightning Crystal (sy)
+$00340D82 00000062
++Power Shard (sy)
+$00340D83 00000062
++Power Stone (sy)
+$00340D84 00000062
++Power Gem (sy)
+$00340D85 00000062
++Power Crystal (sy)
+$00340D86 00000062
++Lucid Shard (sy)
+$00340D87 00000062
++Lucid Stone (sy)
+$00340D88 00000062
++Lucid Gem (sy)
+$00340D89 00000062
++Lucid Crystal (sy)
+$00340D8A 00000062
++Dense Shard (sy)
+$00340D8B 00000062
++Dense Stone (sy)
+$00340D8C 00000062
++Dense Gem (sy)
+$00340D8D 00000062
++Dense Crystal (sy)
+$00340D8E 00000062
++Twilight Shard (sy)
+$00340D8F 00000062
++Twilight Stone (sy)
+$00340D90 00000062
++Twilight Gem (sy)
+$00340D91 00000062
++Twilight Crystal (sy)
+$00340D92 00000062
++Mythril Shard (sy)
+$00340D93 00000062
++Mythril Stone (sy)
+$00340D94 00000062
++Mythril Gem (sy)
+$00340D95 00000062
++Mythril Crystal (sy)
+$00340D96 00000062
++Bright Shard (sy)
+$00340D97 00000062
++Bright Stone (sy)
+$00340D98 00000062
++Bright Gem (sy)
+$00340D99 00000062
++Bright Crystal (sy)
+$00340D9A 00000062
++Energy Shard (sy)
+$00340D9B 00000062
++Energy Stone (sy)
+$00340D9C 00000062
++Energy Gem (sy)
+$00340D9D 00000062
++Energy Crystal (sy)
+$00340D9E 00000062
++Serenity Shard (sy)
+$00340D9F 00000062
++Serenity Stone (sy)
+$00340DA0 00000062
++Serenity Gem (sy)
+$00340DA1 00000062
++Serenity Crystal (sy)
+$00340DA2 00000062
++Orichalcum+ (sy)
+$00340DA3 00000062
++Munny Pouch (ki)
+$00340DA4 00000062
++Crystal Orb (ki)
+$00340DA5 00000062
++Seifer's Trophy (ki)
+$00340DA6 00000062
++Tournament Poster (ki)
+$00340DA7 00000062
++Poster (ki)
+$00340DA8 00000062
++Letter (ki)
+$00340DA9 00000062
++Namine's Sketches (ki)
+$00340DAA 00000062
++Membership Card (ki)
+$00340DAB 00000062
++Olympus Stone (ki)
+$00340DAC 00000062
++Auron's Statue (ki)
+$00340DAD 00000062
++Cursed Medallion (ki)
+$00340DAE 00000062
++Present (ki)
+$00340DAF 00000062
++Decoy Presents (ki)
+$00340DB0 00000062
++Ice Cream (ki)
+$00340DB1 00000062
++Picture (ki)
+$00340DB2 00000062
++Orichalcum (sy)
+$00340DB3 00000062
++Frost Shard (sy)
+$00340DB4 00000062
++Frost Stone (sy)
+$00340DB5 00000062
++Frost Gem (sy)
+$00340DB6 00000062
++Frost Crystal (sy)
+$00340DB7 00000062
++Mega-Recipe (ki)
+$00340DB8 00000062
++Star Recipe (ki)
+$00340DBA 00000062
++Recovery Recipe (ki)
+$00340DBB 00000062
++Skill Recipe (ki)
+$00340DBC 00000062
++Guard Recipe (ki)
+$00340DBD 00000062
++Dummy 06
+$00340DBE 00000062
++Dummy 07
+$00340DBF 00000062
++Dummy
+$00340DC0 00000062
++Dummy
+$00340DC1 00000062
++Dummy
+$00340DC2 00000062
++Dummy
+$00340DC3 00000062
++Dummy
+$00340DC4 00000062
++Dummy
+$00340DC5 00000062
++Dummy
+$00340DC6 00000062
++Dummy
+$00340DC7 00000062
++Dummy
+$00340DC8 00000062
++Dummy
+$00340DC9 00000062
++Dummy
+$00340DCA 00000062
++Dummy 19
+$00340DCB 00000062
++Drive Recovery (po)
+$00340DCC 00000062
++High Drive Recovery (po)
+$00340DCD 00000062
++Power Boost (po)
+$00340DCE 00000062
++Magic Boost (po)
+$00340DCF 00000062
++Defense Boost (po)
+$00340DD0 00000062
++Ap Boost (po)
+$00340DD1 00000062
++Dark Shard (sy)
+$00340DD2 00000062
++Dark Stone (sy)
+$00340DD3 00000062
++Dark Gem (sy)
+$00340DD4 00000062
++Dark Crystal (sy)
+$00340DD5 00000062
++Dummy 20
+$00340DD6 00000062
++Dummy
+$00340DD7 00000062
++Dummy
+$00340DD8 00000062
++Dummy
+$00340DD9 00000062
++Dummy
+$00340DDA 00000062
++Dummy
+$00340DDB 00000062
++Dummy
+$00340DDC 00000062
++Dummy 27
+$00340DDD 00000062
++Style Recipe (ki)
+$00340DDE 00000062
++Moon Recipe (ki)
+$00340DDF 00000062
++Queen Recipe (ki)
+$00340DE0 00000062
++King Recipe (ki)
+$00340DE1 00000062
++Ultimate Recipe (ki)
+$00340DE2 00000062
++Star Seeker (sa)
+$00340DE3 00000062
++Hidden Dragon (sa)
+$00340DE4 00000062
++Save The Queen (dd)
+$00340DE5 00000062
++Save The King (gy)
+$00340DE6 00000062
++Hero's Crest (sa)
+$00340DE7 00000062
++Monochrome (sa)
+$00340DE8 00000062
++Follow The Wind (sa)
+$00340DE9 00000062
++Circle Of Life (sa)
+$00340DEA 00000062
++Photon Debugger (sa)
+$00340DEB 00000062
++Gull Wing (sa)
+$00340DEC 00000062
++Rumbling Rose (sa)
+$00340DED 00000062
++Guardian Soul (sa)
+$00340DEE 00000062
++Wishing Lamp (sa)
+$00340DEF 00000062
++Decisive Pumpkin (sa)
+$00340DF0 00000062
++Sleeping Lion (sa)
+$00340DF1 00000062
++Sweet Memories (sa)
+$00340DF2 00000062
++Mysterious Abyss (sa)
+$00340DF3 00000062
++Fatal Crest (sa)
+$00340DF4 00000062
++Bond Of Flame (sa)
+$00340DF5 00000062
++Fenrir (sa)
+$00340DF6 00000062
++Ultima Weapon (sa)
+$00340DF7 00000062
++Save The Queen+ (dd)
+$00340DFA 00000062
++Save The King+ (gy)
+$00340DFB 00000062
++Promise Charm
+$00340DFC 00000062
++Munny Pouch
+$00340DFD 00000062
++Hades Cup Trophy
+$00340DFE 00000062
++The Struggle Trophy
+$00340DFF 00000062
+!!
+!!
+!Characters:
+!Sora-Roxas:
++Max EXP
+$2033FEC0 05F5E0FF
++Infinite HP
+$0033FEC4 000000FF
++Max HP
+$0033FEC5 000000FF
++Infinite MP
+$0033FEC6 000000FF
++Max MP
+$0033FEC7 000000FF
++Max Ap
+$0033FEC8 000000FF
++All Stats Base Max +lvl
+$2033FEC8 FFFFFFFF
+$2033FECC FFFFFFFF
++Max Strength
+$0033FEC9 000000FF
++Max Magic
+$0033FECA 000000FF
++Max Defense
+$0033FECB 000000FF
++Level 99
+$0033FECF 00000063
+!Skills Mod:
++Skill Mod 1
+$1033FF14 0000[ABD]
++Skill Mod 2
+$1033FF16 0000[ABD]
++Skill Mod 3
+$1033FF18 0000[ABD]
++Skill Mod 4
+$1033FF1A 0000[ABD]
++Skill Mod 5
+$1033FF1C 0000[ABD]
++Skill Mod 6
+$1033FF1E 0000[ABD]
++Skill Mod 7
+$1033FF20 0000[ABD]
++Skill Mod 8
+$1033FF22 0000[ABD]
++Skill Mod 9
+$1033FF24 0000[ABD]
++Skill Mod 10
+$1033FF26 0000[ABD]
++Skill Mod 11
+$1033FF24 0000[ABD]
++Skill Mod 12
+$1033FF26 0000[ABD]
++Skill Mod 13
+$1033FF28 0000[ABD]
++Skill Mod 14
+$1033FF2A 0000[ABD]
++Skill Mod 15
+$1033FF2C 0000[ABD]
++Skill Mod 16
+$1033FF2E 0000[ABD]
++Skill Mod 17
+$1033FF30 0000[ABD]
++Skill Mod 18
+$1033FF32 0000[ABD]
++Skill Mod 19
+$1033FF34 0000[ABD]
++Skill Mod 20
+$1033FF36 0000[ABD]
++Skill Mod 21
+$1033FF38 0000[ABD]
++Skill Mod 22
+$1033FF3A 0000[ABD]
++Skill Mod 23
+$1033FF38 0000[ABD]
++Skill Mod 24
+$1033FF3A 0000[ABD]
++Skill Mod 25
+$1033FF3C 0000[ABD]
++Skill Mod 26
+$1033FF3E 0000[ABD]
++Skill Mod 27
+$1033FF40 0000[ABD]
++Skill Mod 28
+$1033FF42 0000[ABD]
++Skill Mod 29
+$1033FF44 0000[ABD]
++Skill Mod 30
+$1033FF46 0000[ABD]
++Skill Mod 31
+$1033FF48 0000[ABD]
++Skill Mod 32
+$1033FF4A 0000[ABD]
++Skill Mod 33
+$1033FF4C 0000[ABD]
++Skill Mod 34
+$1033FF4E 0000[ABD]
++Skill Mod 35
+$1033FF4C 0000[ABD]
++Skill Mod 36
+$1033FF4E 0000[ABD]
++Skill Mod 37
+$1033FF50 0000[ABD]
++Skill Mod 38
+$1033FF52 0000[ABD]
++Skill Mod 39
+$1033FF54 0000[ABD]
++Skill Mod 40
+$1033FF56 0000[ABD]
++Skill Mod 41
+$1033FF58 0000[ABD]
++Skill Mod 42
+$1033FF5A 0000[ABD]
++Skill Mod 43
+$1033FF5C 0000[ABD]
++Skill Mod 44
+$1033FF5E 0000[ABD]
++Skill Mod 45
+$1033FF60 0000[ABD]
++Skill Mod 46
+$1033FF62 0000[ABD]
++Skill Mod 47
+$1033FF60 0000[ABD]
++Skill Mod 48
+$1033FF62 0000[ABD]
++Skill Mod 49
+$1033FF64 0000[ABD]
++Skill Mod 50
+$1033FF66 0000[ABD]
++Skill Mod 51
+$1033FF68 0000[ABD]
++Skill Mod 52
+$1033FF6A 0000[ABD]
++Skill Mod 53
+$1033FF6C 0000[ABD]
++Skill Mod 54
+$1033FF6E 0000[ABD]
++Skill Mod 55
+$1033FF70 0000[ABD]
++Skill Mod 56
+$1033FF72 0000[ABD]
++Skill Mod 57
+$1033FF74 0000[ABD]
++Skill Mod 58
+$1033FF76 0000[ABD]
++Skill Mod 59
+$1033FF74 0000[ABD]
++Skill Mod 60
+$1033FF76 0000[ABD]
++Skill Mod 61
+$1033FF78 0000[ABD]
++Skill Mod 62
+$1033FF7A 0000[ABD]
++Skill Mod 63
+$1033FF7C 0000[ABD]
++Skill Mod 64
+$1033FF7E 0000[ABD]
++Skill Mod 65
+$1033FF80 0000[ABD]
++Skill Mod 66
+$1033FF82 0000[ABD]
++Skill Mod 67
+$1033FF84 0000[ABD]
++Skill Mod 68
+$1033FF86 0000[ABD]
+!!
+!Equipment:
++Armor(equiptable Amount)
+$0033FED0 000000[Amount:03:Hex:BIG]
++Ring (equiptable Amount)
+$0033FED1 000000[Amount:03:Hex:BIG]
++Items (equiptable Amount)
+$0033FED2 000000[Amount:03:Hex:BIG]
++???
+$0033FED3 000000[Amount:03:Hex:BIG]
+!Armor:
++Armor 1
+$1033FED4 0000[IEM]
++Armor 2
+$1033FED6 0000[IEM]
++Armor 3
+$1033FED8 0000[IEM]
+!!
+!Rings:
++Rings 1
+$1033FEE4 0000[IEM]
++Rings 2
+$1033FEE6 0000[IEM]
++Rings 3
+$1033FEE8 0000[IEM]
+!!
+!Items:
++Item 1
+$1033FEF4 0000[IEM]
++Item 2
+$1033FEF6 0000[IEM]
++Item 3
+$1033FEF8 0000[IEM]
++Item 4
+$1033FEFA 0000[IEM]
++Item 5
+$1033FEFC 0000[IEM]
++Item 6
+$1033FEFE 0000[IEM]
+!!
+!!
+*Donald
++Max EXP
+$2033FFB4 05F5E0FF
++Infinite HP
+$0033FFB8 000000FF
++Max HP
+$0033FFB9 000000FF
++Infinite MP
+$0033FFBA 000000FF
++Max MP
+$0033FFBB 000000FF
++Max Ap
+$0033FFBC 000000FF
++All Stats Base Max +lvl
+$2033FFBC FFFFFFFF
+$2033FFC0 FFFFFFFF
++Max Strength
+$0033FFBD 000000FF
++Max Magic
+$0033FFBE 000000FF
++Max Defense
+$0033FFBF 000000FF
++Level 99
+$0033FFC3 00000063
+!Skills Mod:
++Skill Mod 1
+$10340008 0000[ABD]
++Skill Mod 2
+$1034000A 0000[ABD]
++Skill Mod 3
+$1034000C 0000[ABD]
++Skill Mod 4
+$1034000E 0000[ABD]
++Skill Mod 5
+$10340010 0000[ABD]
++Skill Mod 6
+$10340012 0000[ABD]
++Skill Mod 7
+$10340014 0000[ABD]
++Skill Mod 8
+$10340016 0000[ABD]
++Skill Mod 9
+$10340018 0000[ABD]
++Skill Mod 10
+$1034001A 0000[ABD]
++Skill Mod 11
+$10340018 0000[ABD]
++Skill Mod 12
+$1034001A 0000[ABD]
++Skill Mod 13
+$1034001C 0000[ABD]
++Skill Mod 14
+$1034001E 0000[ABD]
++Skill Mod 15
+$10340020 0000[ABD]
++Skill Mod 16
+$10340022 0000[ABD]
++Skill Mod 17
+$10340024 0000[ABD]
++Skill Mod 18
+$10340026 0000[ABD]
++Skill Mod 19
+$10340028 0000[ABD]
++Skill Mod 20
+$1034002A 0000[ABD]
++Skill Mod 21
+$1034002C 0000[ABD]
++Skill Mod 22
+$1034002E 0000[ABD]
++Skill Mod 23
+$1034002C 0000[ABD]
++Skill Mod 24
+$1034002E 0000[ABD]
++Skill Mod 25
+$10340030 0000[ABD]
++Skill Mod 26
+$10340032 0000[ABD]
++Skill Mod 27
+$10340034 0000[ABD]
++Skill Mod 28
+$10340036 0000[ABD]
++Skill Mod 29
+$10340038 0000[ABD]
++Skill Mod 30
+$1034003A 0000[ABD]
++Skill Mod 31
+$1034003C 0000[ABD]
++Skill Mod 32
+$1034003E 0000[ABD]
++Skill Mod 33
+$10340040 0000[ABD]
++Skill Mod 34
+$10340042 0000[ABD]
++Skill Mod 35
+$10340040 0000[ABD]
++Skill Mod 36
+$10340042 0000[ABD]
++Skill Mod 37
+$10340044 0000[ABD]
++Skill Mod 38
+$10340046 0000[ABD]
++Skill Mod 39
+$10340048 0000[ABD]
++Skill Mod 40
+$1034004A 0000[ABD]
++Skill Mod 41
+$1034004C 0000[ABD]
++Skill Mod 42
+$1034004E 0000[ABD]
++Skill Mod 43
+$10340050 0000[ABD]
++Skill Mod 44
+$10340052 0000[ABD]
++Skill Mod 45
+$10340054 0000[ABD]
++Skill Mod 46
+$10340056 0000[ABD]
++Skill Mod 47
+$10340054 0000[ABD]
++Skill Mod 48
+$10340056 0000[ABD]
++Skill Mod 49
+$10340058 0000[ABD]
++Skill Mod 50
+$1034005A 0000[ABD]
++Skill Mod 51
+$1034005C 0000[ABD]
++Skill Mod 52
+$1034005E 0000[ABD]
++Skill Mod 53
+$10340060 0000[ABD]
++Skill Mod 54
+$10340062 0000[ABD]
++Skill Mod 55
+$10340064 0000[ABD]
++Skill Mod 56
+$10340066 0000[ABD]
++Skill Mod 57
+$10340068 0000[ABD]
++Skill Mod 58
+$1034006A 0000[ABD]
++Skill Mod 59
+$10340068 0000[ABD]
++Skill Mod 60
+$1034006A 0000[ABD]
++Skill Mod 61
+$1034006C 0000[ABD]
++Skill Mod 62
+$1034006E 0000[ABD]
++Skill Mod 63
+$10340070 0000[ABD]
++Skill Mod 64
+$10340072 0000[ABD]
++Skill Mod 65
+$10340074 0000[ABD]
++Skill Mod 66
+$10340076 0000[ABD]
++Skill Mod 67
+$10340078 0000[ABD]
++Skill Mod 68
+$1034007A 0000[ABD]
+!!
+!Equipment:
++Armor(equiptable Amount)
+$0033FFC4 000000[Amount:03:Hex:BIG]
++Ring (equiptable Amount)
+$0033FFC5 000000[Amount:03:Hex:BIG]
++Items (equiptable Amount)
+$0033FFC6 000000[Amount:03:Hex:BIG]
++???
+$0033FFC7 000000[Amount:03:Hex:BIG]
+!Armor:
++Armor 1
+$1033FFC8 0000[IEM]
++Armor 2
+$1033FFCA 0000[IEM]
++Armor 3
+$1033FFCC 0000[IEM]
+!!
+!Rings:
++Rings 1
+$1033FFD8 0000[IEM]
++Rings 2
+$1033FFDA 0000[IEM]
++Rings 3
+$1033FFDC 0000[IEM]
+!!
+!Items:
++Item 1
+$1033FFE8 0000[IEM]
++Item 2
+$1033FFEA 0000[IEM]
++Item 3
+$1033FFEC 0000[IEM]
++Item 4
+$1033FFEE 0000[IEM]
++Item 5
+$1033FFF0 0000[IEM]
++Item 6
+$1033FFF2 0000[IEM]
+!!
+!!
+*Goofy
++Max EXP
+$203400A8 05F5E0FF
++Infinite HP
+$003400AC 000000FF
++Max HP
+$003400AD 000000FF
++Infinite MP
+$003400AE 000000FF
++Max MP
+$003400AF 000000FF
++Max Ap
+$003400B0 000000FF
++All Stats Base Max +lvl
+$203400B0 FFFFFFFF
+$203400B4 FFFFFFFF
++Max Strength
+$003400B1 000000FF
++Max Magic
+$003400B2 000000FF
++Max Defense
+$003400B3 000000FF
++Level 99
+$003400B7 00000063
+!Skills Mod:
++Skill Mod 1
+$103400FC 0000[ABD]
++Skill Mod 2
+$103400FE 0000[ABD]
++Skill Mod 3
+$10340100 0000[ABD]
++Skill Mod 4
+$10340102 0000[ABD]
++Skill Mod 5
+$10340104 0000[ABD]
++Skill Mod 6
+$10340106 0000[ABD]
++Skill Mod 7
+$10340108 0000[ABD]
++Skill Mod 8
+$1034010A 0000[ABD]
++Skill Mod 9
+$1034010C 0000[ABD]
++Skill Mod 10
+$1034010E 0000[ABD]
++Skill Mod 11
+$1034010C 0000[ABD]
++Skill Mod 12
+$1034010E 0000[ABD]
++Skill Mod 13
+$10340110 0000[ABD]
++Skill Mod 14
+$10340112 0000[ABD]
++Skill Mod 15
+$10340114 0000[ABD]
++Skill Mod 16
+$10340116 0000[ABD]
++Skill Mod 17
+$10340118 0000[ABD]
++Skill Mod 18
+$1034011A 0000[ABD]
++Skill Mod 19
+$1034011C 0000[ABD]
++Skill Mod 20
+$1034011E 0000[ABD]
++Skill Mod 21
+$10340120 0000[ABD]
++Skill Mod 22
+$10340122 0000[ABD]
++Skill Mod 23
+$10340120 0000[ABD]
++Skill Mod 24
+$10340122 0000[ABD]
++Skill Mod 25
+$10340124 0000[ABD]
++Skill Mod 26
+$10340126 0000[ABD]
++Skill Mod 27
+$10340128 0000[ABD]
++Skill Mod 28
+$1034012A 0000[ABD]
++Skill Mod 29
+$1034012C 0000[ABD]
++Skill Mod 30
+$1034012E 0000[ABD]
++Skill Mod 31
+$10340130 0000[ABD]
++Skill Mod 32
+$10340132 0000[ABD]
++Skill Mod 33
+$10340134 0000[ABD]
++Skill Mod 34
+$10340136 0000[ABD]
++Skill Mod 35
+$10340134 0000[ABD]
++Skill Mod 36
+$10340136 0000[ABD]
++Skill Mod 37
+$10340138 0000[ABD]
++Skill Mod 38
+$1034013A 0000[ABD]
++Skill Mod 39
+$1034013C 0000[ABD]
++Skill Mod 40
+$1034013E 0000[ABD]
++Skill Mod 41
+$10340140 0000[ABD]
++Skill Mod 42
+$10340142 0000[ABD]
++Skill Mod 43
+$10340144 0000[ABD]
++Skill Mod 44
+$10340146 0000[ABD]
++Skill Mod 45
+$10340148 0000[ABD]
++Skill Mod 46
+$1034014A 0000[ABD]
++Skill Mod 47
+$10340148 0000[ABD]
++Skill Mod 48
+$1034014A 0000[ABD]
++Skill Mod 49
+$1034014C 0000[ABD]
++Skill Mod 50
+$1034014E 0000[ABD]
++Skill Mod 51
+$10340150 0000[ABD]
++Skill Mod 52
+$10340152 0000[ABD]
++Skill Mod 53
+$10340154 0000[ABD]
++Skill Mod 54
+$10340156 0000[ABD]
++Skill Mod 55
+$10340158 0000[ABD]
++Skill Mod 56
+$1034015A 0000[ABD]
++Skill Mod 57
+$1034015C 0000[ABD]
++Skill Mod 58
+$1034015E 0000[ABD]
++Skill Mod 59
+$1034015C 0000[ABD]
++Skill Mod 60
+$1034015E 0000[ABD]
++Skill Mod 61
+$10340160 0000[ABD]
++Skill Mod 62
+$10340162 0000[ABD]
++Skill Mod 63
+$10340164 0000[ABD]
++Skill Mod 64
+$10340166 0000[ABD]
++Skill Mod 65
+$10340168 0000[ABD]
++Skill Mod 66
+$1034016A 0000[ABD]
++Skill Mod 67
+$1034016C 0000[ABD]
++Skill Mod 68
+$1034016E 0000[ABD]
+!!
+!Equipment:
++Armor(equiptable Amount)
+$003400B8 000000[Amount:03:Hex:BIG]
++Ring (equiptable Amount)
+$003400B9 000000[Amount:03:Hex:BIG]
++Items (equiptable Amount)
+$003400BA 000000[Amount:03:Hex:BIG]
++???
+$003400BB 000000[Amount:03:Hex:BIG]
+!Armor:
++Armor 1
+$103400BC 0000[IEM]
++Armor 2
+$103400BE 0000[IEM]
++Armor 3
+$103400C0 0000[IEM]
+!!
+!Rings:
++Rings 1
+$103400CC 0000[IEM]
++Rings 2
+$103400CE 0000[IEM]
++Rings 3
+$103400D0 0000[IEM]
+!!
+!Items:
++Item 1
+$103400DC 0000[IEM]
++Item 2
+$103400DE 0000[IEM]
++Item 3
+$103400E0 0000[IEM]
++Item 4
+$103400E2 0000[IEM]
++Item 5
+$103400E4 0000[IEM]
++Item 6
+$103400E6 0000[IEM]
+!!
+!!
+!Micky:
++Max EXP
+$2034019C 05F5E0FF
++Infinite HP
+$003401A0 000000FF
++Max HP
+$003401A1 000000FF
++Infinite MP
+$003401A2 000000FF
++Max MP
+$003401A3 000000FF
++Max Ap
+$003401A4 000000FF
++All Stats Base Max +lvl
+$203401A4 FFFFFFFF
+$203401A8 FFFFFFFF
++Max Strength
+$003401A5 000000FF
++Max Magic
+$003401A6 000000FF
++Max Defense
+$003401A7 000000FF
++Level 99
+$003401AB 00000063
+!Skills Mod:
++Skill Mod 1
+$103401F0 0000[ABD]
++Skill Mod 2
+$103401F2 0000[ABD]
++Skill Mod 3
+$103401F4 0000[ABD]
++Skill Mod 4
+$103401F6 0000[ABD]
++Skill Mod 5
+$103401F8 0000[ABD]
++Skill Mod 6
+$103401FA 0000[ABD]
++Skill Mod 7
+$103401FC 0000[ABD]
++Skill Mod 8
+$103401FE 0000[ABD]
++Skill Mod 9
+$10340200 0000[ABD]
++Skill Mod 10
+$10340202 0000[ABD]
++Skill Mod 11
+$10340200 0000[ABD]
++Skill Mod 12
+$10340202 0000[ABD]
++Skill Mod 13
+$10340204 0000[ABD]
++Skill Mod 14
+$10340206 0000[ABD]
++Skill Mod 15
+$10340208 0000[ABD]
++Skill Mod 16
+$1034020A 0000[ABD]
++Skill Mod 17
+$1034020C 0000[ABD]
++Skill Mod 18
+$1034020E 0000[ABD]
++Skill Mod 19
+$10340210 0000[ABD]
++Skill Mod 20
+$10340212 0000[ABD]
++Skill Mod 21
+$10340214 0000[ABD]
++Skill Mod 22
+$10340216 0000[ABD]
++Skill Mod 23
+$10340214 0000[ABD]
++Skill Mod 24
+$10340216 0000[ABD]
++Skill Mod 25
+$10340218 0000[ABD]
++Skill Mod 26
+$1034021A 0000[ABD]
++Skill Mod 27
+$1034021C 0000[ABD]
++Skill Mod 28
+$1034021E 0000[ABD]
++Skill Mod 29
+$10340220 0000[ABD]
++Skill Mod 30
+$10340222 0000[ABD]
++Skill Mod 31
+$10340224 0000[ABD]
++Skill Mod 32
+$10340226 0000[ABD]
++Skill Mod 33
+$10340228 0000[ABD]
++Skill Mod 34
+$1034022A 0000[ABD]
++Skill Mod 35
+$10340228 0000[ABD]
++Skill Mod 36
+$1034022A 0000[ABD]
++Skill Mod 37
+$1034022C 0000[ABD]
++Skill Mod 38
+$1034022E 0000[ABD]
++Skill Mod 39
+$10340230 0000[ABD]
++Skill Mod 40
+$10340232 0000[ABD]
++Skill Mod 41
+$10340234 0000[ABD]
++Skill Mod 42
+$10340236 0000[ABD]
++Skill Mod 43
+$10340238 0000[ABD]
++Skill Mod 44
+$1034023A 0000[ABD]
++Skill Mod 45
+$1034023C 0000[ABD]
++Skill Mod 46
+$1034023E 0000[ABD]
++Skill Mod 47
+$1034023C 0000[ABD]
++Skill Mod 48
+$1034023E 0000[ABD]
++Skill Mod 49
+$10340240 0000[ABD]
++Skill Mod 50
+$10340242 0000[ABD]
++Skill Mod 51
+$10340244 0000[ABD]
++Skill Mod 52
+$10340246 0000[ABD]
++Skill Mod 53
+$10340248 0000[ABD]
++Skill Mod 54
+$1034024A 0000[ABD]
++Skill Mod 55
+$1034024C 0000[ABD]
++Skill Mod 56
+$1034024E 0000[ABD]
++Skill Mod 57
+$10340250 0000[ABD]
++Skill Mod 58
+$10340252 0000[ABD]
++Skill Mod 59
+$10340250 0000[ABD]
++Skill Mod 60
+$10340252 0000[ABD]
++Skill Mod 61
+$10340254 0000[ABD]
++Skill Mod 62
+$10340256 0000[ABD]
++Skill Mod 63
+$10340258 0000[ABD]
++Skill Mod 64
+$1034025A 0000[ABD]
++Skill Mod 65
+$1034025C 0000[ABD]
++Skill Mod 66
+$1034025E 0000[ABD]
++Skill Mod 67
+$10340260 0000[ABD]
++Skill Mod 68
+$10340262 0000[ABD]
+!!
+!Equipment:
++Armor(equiptable Amount)
+$003401AC 000000[Amount:03:Hex:BIG]
++Ring (equiptable Amount)
+$003401AD 000000[Amount:03:Hex:BIG]
++Items (equiptable Amount)
+$003401AE 000000[Amount:03:Hex:BIG]
++???
+$003401AF 000000[Amount:03:Hex:BIG]
+!Armor:
++Armor 1
+$103401B0 0000[IEM]
++Armor 2
+$103401B2 0000[IEM]
++Armor 3
+$103401B4 0000[IEM]
+!!
+!Rings:
++Rings 1
+$103401C0 0000[IEM]
++Rings 2
+$103401C2 0000[IEM]
++Rings 3
+$103401C4 0000[IEM]
+!!
+!Items:
++Item 1
+$103401D0 0000[IEM]
++Item 2
+$103401D2 0000[IEM]
++Item 3
+$103401D4 0000[IEM]
++Item 4
+$103401D6 0000[IEM]
++Item 5
+$103401D8 0000[IEM]
++Item 6
+$103401DA 0000[IEM]
+!!
+!!
+!Auron:
++Max EXP
+$20340290 05F5E0FF
++Infinite HP
+$00340294 000000FF
++Max HP
+$00340295 000000FF
++Infinite MP
+$00340296 000000FF
++Max MP
+$00340297 000000FF
++Max Ap
+$00340298 000000FF
++All Stats Base Max +lvl
+$20340298 FFFFFFFF
+$2034029C FFFFFFFF
++Max Strength
+$00340299 000000FF
++Max Magic
+$0034029A 000000FF
++Max Defense
+$0034029B 000000FF
++Level 99
+$0034029F 00000063
+!Skills Mod:
++Skill Mod 1
+$103402E4 0000[ABD]
++Skill Mod 2
+$103402E6 0000[ABD]
++Skill Mod 3
+$103402E8 0000[ABD]
++Skill Mod 4
+$103402EA 0000[ABD]
++Skill Mod 5
+$103402EC 0000[ABD]
++Skill Mod 6
+$103402EE 0000[ABD]
++Skill Mod 7
+$103402F0 0000[ABD]
++Skill Mod 8
+$103402F2 0000[ABD]
++Skill Mod 9
+$103402F4 0000[ABD]
++Skill Mod 10
+$103402F6 0000[ABD]
++Skill Mod 11
+$103402F4 0000[ABD]
++Skill Mod 12
+$103402F6 0000[ABD]
++Skill Mod 13
+$103402F8 0000[ABD]
++Skill Mod 14
+$103402FA 0000[ABD]
++Skill Mod 15
+$103402FC 0000[ABD]
++Skill Mod 16
+$103402FE 0000[ABD]
++Skill Mod 17
+$10340300 0000[ABD]
++Skill Mod 18
+$10340302 0000[ABD]
++Skill Mod 19
+$10340304 0000[ABD]
++Skill Mod 20
+$10340306 0000[ABD]
++Skill Mod 21
+$10340308 0000[ABD]
++Skill Mod 22
+$1034030A 0000[ABD]
++Skill Mod 23
+$10340308 0000[ABD]
++Skill Mod 24
+$1034030A 0000[ABD]
++Skill Mod 25
+$1034030C 0000[ABD]
++Skill Mod 26
+$1034030E 0000[ABD]
++Skill Mod 27
+$10340310 0000[ABD]
++Skill Mod 28
+$10340312 0000[ABD]
++Skill Mod 29
+$10340314 0000[ABD]
++Skill Mod 30
+$10340316 0000[ABD]
++Skill Mod 31
+$10340318 0000[ABD]
++Skill Mod 32
+$1034031A 0000[ABD]
++Skill Mod 33
+$1034031C 0000[ABD]
++Skill Mod 34
+$1034031E 0000[ABD]
++Skill Mod 35
+$1034031C 0000[ABD]
++Skill Mod 36
+$1034031E 0000[ABD]
++Skill Mod 37
+$10340320 0000[ABD]
++Skill Mod 38
+$10340322 0000[ABD]
++Skill Mod 39
+$10340324 0000[ABD]
++Skill Mod 40
+$10340326 0000[ABD]
++Skill Mod 41
+$10340328 0000[ABD]
++Skill Mod 42
+$1034032A 0000[ABD]
++Skill Mod 43
+$1034032C 0000[ABD]
++Skill Mod 44
+$1034032E 0000[ABD]
++Skill Mod 45
+$10340330 0000[ABD]
++Skill Mod 46
+$10340332 0000[ABD]
++Skill Mod 47
+$10340330 0000[ABD]
++Skill Mod 48
+$10340332 0000[ABD]
++Skill Mod 49
+$10340334 0000[ABD]
++Skill Mod 50
+$10340336 0000[ABD]
++Skill Mod 51
+$10340338 0000[ABD]
++Skill Mod 52
+$1034033A 0000[ABD]
++Skill Mod 53
+$1034033C 0000[ABD]
++Skill Mod 54
+$1034033E 0000[ABD]
++Skill Mod 55
+$10340340 0000[ABD]
++Skill Mod 56
+$10340342 0000[ABD]
++Skill Mod 57
+$10340344 0000[ABD]
++Skill Mod 58
+$10340346 0000[ABD]
++Skill Mod 59
+$10340344 0000[ABD]
++Skill Mod 60
+$10340346 0000[ABD]
++Skill Mod 61
+$10340348 0000[ABD]
++Skill Mod 62
+$1034034A 0000[ABD]
++Skill Mod 63
+$1034034C 0000[ABD]
++Skill Mod 64
+$1034034E 0000[ABD]
++Skill Mod 65
+$10340350 0000[ABD]
++Skill Mod 66
+$10340352 0000[ABD]
++Skill Mod 67
+$10340354 0000[ABD]
++Skill Mod 68
+$10340356 0000[ABD]
+!!
+!Equipment:
++Armor(equiptable Amount)
+$003402A0 000000[Amount:03:Hex:BIG]
++Ring (equiptable Amount)
+$003402A1 000000[Amount:03:Hex:BIG]
++Items (equiptable Amount)
+$003402A2 000000[Amount:03:Hex:BIG]
++???
+$003402A3 000000[Amount:03:Hex:BIG]
+!Armor:
++Armor 1
+$103402A4 0000[IEM]
++Armor 2
+$103402A6 0000[IEM]
++Armor 3
+$103402A8 0000[IEM]
+!!
+!Rings:
++Rings 1
+$103402B4 0000[IEM]
++Rings 2
+$103402B6 0000[IEM]
++Rings 3
+$103402B8 0000[IEM]
+!!
+!Items:
++Item 1
+$103402C4 0000[IEM]
++Item 2
+$103402C6 0000[IEM]
++Item 3
+$103402C8 0000[IEM]
++Item 4
+$103402CA 0000[IEM]
++Item 5
+$103402CC 0000[IEM]
++Item 6
+$103402CE 0000[IEM]
+!!
+!!
+!Mulan:
++Max EXP
+$20340384 05F5E0FF
++Infinite HP
+$00340388 000000FF
++Max HP
+$00340389 000000FF
++Infinite MP
+$0034038A 000000FF
++Max MP
+$0034038B 000000FF
++Max Ap
+$0034038C 000000FF
++All Stats Base Max +lvl
+$2034038C FFFFFFFF
+$20340390 FFFFFFFF
++Max Strength
+$0034038D 000000FF
++Max Magic
+$0034038E 000000FF
++Max Defense
+$0034038F 000000FF
++Level 99
+$00340393 00000063
+!Skills Mod:
++Skill Mod 1
+$103403D8 0000[ABD]
++Skill Mod 2
+$103403DA 0000[ABD]
++Skill Mod 3
+$103403DC 0000[ABD]
++Skill Mod 4
+$103403DE 0000[ABD]
++Skill Mod 5
+$103403E0 0000[ABD]
++Skill Mod 6
+$103403E2 0000[ABD]
++Skill Mod 7
+$103403E4 0000[ABD]
++Skill Mod 8
+$103403E6 0000[ABD]
++Skill Mod 9
+$103403E8 0000[ABD]
++Skill Mod 10
+$103403EA 0000[ABD]
++Skill Mod 11
+$103403E8 0000[ABD]
++Skill Mod 12
+$103403EA 0000[ABD]
++Skill Mod 13
+$103403EC 0000[ABD]
++Skill Mod 14
+$103403EE 0000[ABD]
++Skill Mod 15
+$103403F0 0000[ABD]
++Skill Mod 16
+$103403F2 0000[ABD]
++Skill Mod 17
+$103403F4 0000[ABD]
++Skill Mod 18
+$103403F6 0000[ABD]
++Skill Mod 19
+$103403F8 0000[ABD]
++Skill Mod 20
+$103403FA 0000[ABD]
++Skill Mod 21
+$103403FC 0000[ABD]
++Skill Mod 22
+$103403FE 0000[ABD]
++Skill Mod 23
+$103403FC 0000[ABD]
++Skill Mod 24
+$103403FE 0000[ABD]
++Skill Mod 25
+$10340400 0000[ABD]
++Skill Mod 26
+$10340402 0000[ABD]
++Skill Mod 27
+$10340404 0000[ABD]
++Skill Mod 28
+$10340406 0000[ABD]
++Skill Mod 29
+$10340408 0000[ABD]
++Skill Mod 30
+$1034040A 0000[ABD]
++Skill Mod 31
+$1034040C 0000[ABD]
++Skill Mod 32
+$1034040E 0000[ABD]
++Skill Mod 33
+$10340410 0000[ABD]
++Skill Mod 34
+$10340412 0000[ABD]
++Skill Mod 35
+$10340410 0000[ABD]
++Skill Mod 36
+$10340412 0000[ABD]
++Skill Mod 37
+$10340414 0000[ABD]
++Skill Mod 38
+$10340416 0000[ABD]
++Skill Mod 39
+$10340418 0000[ABD]
++Skill Mod 40
+$1034041A 0000[ABD]
++Skill Mod 41
+$1034041C 0000[ABD]
++Skill Mod 42
+$1034041E 0000[ABD]
++Skill Mod 43
+$10340420 0000[ABD]
++Skill Mod 44
+$10340422 0000[ABD]
++Skill Mod 45
+$10340424 0000[ABD]
++Skill Mod 46
+$10340426 0000[ABD]
++Skill Mod 47
+$10340424 0000[ABD]
++Skill Mod 48
+$10340426 0000[ABD]
++Skill Mod 49
+$10340428 0000[ABD]
++Skill Mod 50
+$1034042A 0000[ABD]
++Skill Mod 51
+$1034042C 0000[ABD]
++Skill Mod 52
+$1034042E 0000[ABD]
++Skill Mod 53
+$10340430 0000[ABD]
++Skill Mod 54
+$10340432 0000[ABD]
++Skill Mod 55
+$10340434 0000[ABD]
++Skill Mod 56
+$10340436 0000[ABD]
++Skill Mod 57
+$10340438 0000[ABD]
++Skill Mod 58
+$1034043A 0000[ABD]
++Skill Mod 59
+$10340438 0000[ABD]
++Skill Mod 60
+$1034043A 0000[ABD]
++Skill Mod 61
+$1034043C 0000[ABD]
++Skill Mod 62
+$1034043E 0000[ABD]
++Skill Mod 63
+$10340440 0000[ABD]
++Skill Mod 64
+$10340442 0000[ABD]
++Skill Mod 65
+$10340444 0000[ABD]
++Skill Mod 66
+$10340446 0000[ABD]
++Skill Mod 67
+$10340448 0000[ABD]
++Skill Mod 68
+$1034044A 0000[ABD]
+!!
+!Equipment:
++Armor(equiptable Amount)
+$00340394 000000[Amount:03:Hex:BIG]
++Ring (equiptable Amount)
+$00340395 000000[Amount:03:Hex:BIG]
++Items (equiptable Amount)
+$00340396 000000[Amount:03:Hex:BIG]
++???
+$00340397 000000[Amount:03:Hex:BIG]
+!Armor:
++Armor 1
+$10340398 0000[IEM]
++Armor 2
+$1034039A 0000[IEM]
++Armor 3
+$1034039C 0000[IEM]
+!!
+!Rings:
++Rings 1
+$103403A8 0000[IEM]
++Rings 2
+$103403AA 0000[IEM]
++Rings 3
+$103403AC 0000[IEM]
+!!
+!Items:
++Item 1
+$103403B8 0000[IEM]
++Item 2
+$103403BA 0000[IEM]
++Item 3
+$103403BC 0000[IEM]
++Item 4
+$103403BE 0000[IEM]
++Item 5
+$103403C0 0000[IEM]
++Item 6
+$103403C2 0000[IEM]
+!!
+!!
+!Aladdin:
++Max EXP
+$20340478 05F5E0FF
++Infinite HP
+$0034047C 000000FF
++Max HP
+$0034047D 000000FF
++Infinite MP
+$0034047E 000000FF
++Max MP
+$0034047F 000000FF
++Max Ap
+$00340480 000000FF
++All Stats Base Max +lvl
+$20340480 FFFFFFFF
+$20340484 FFFFFFFF
++Max Strength
+$00340481 000000FF
++Max Magic
+$00340482 000000FF
++Max Defense
+$00340483 000000FF
++Level 99
+$00340487 00000063
+!Skills Mod:
++Skill Mod 1
+$103404CC 0000[ABD]
++Skill Mod 2
+$103404CE 0000[ABD]
++Skill Mod 3
+$103404D0 0000[ABD]
++Skill Mod 4
+$103404D2 0000[ABD]
++Skill Mod 5
+$103404D4 0000[ABD]
++Skill Mod 6
+$103404D6 0000[ABD]
++Skill Mod 7
+$103404D8 0000[ABD]
++Skill Mod 8
+$103404DA 0000[ABD]
++Skill Mod 9
+$103404DC 0000[ABD]
++Skill Mod 10
+$103404DE 0000[ABD]
++Skill Mod 11
+$103404DC 0000[ABD]
++Skill Mod 12
+$103404DE 0000[ABD]
++Skill Mod 13
+$103404E0 0000[ABD]
++Skill Mod 14
+$103404E2 0000[ABD]
++Skill Mod 15
+$103404E4 0000[ABD]
++Skill Mod 16
+$103404E6 0000[ABD]
++Skill Mod 17
+$103404E8 0000[ABD]
++Skill Mod 18
+$103404EA 0000[ABD]
++Skill Mod 19
+$103404EC 0000[ABD]
++Skill Mod 20
+$103404EE 0000[ABD]
++Skill Mod 21
+$103404F0 0000[ABD]
++Skill Mod 22
+$103404F2 0000[ABD]
++Skill Mod 23
+$103404F0 0000[ABD]
++Skill Mod 24
+$103404F2 0000[ABD]
++Skill Mod 25
+$103404F4 0000[ABD]
++Skill Mod 26
+$103404F6 0000[ABD]
++Skill Mod 27
+$103404F8 0000[ABD]
++Skill Mod 28
+$103404FA 0000[ABD]
++Skill Mod 29
+$103404FC 0000[ABD]
++Skill Mod 30
+$103404FE 0000[ABD]
++Skill Mod 31
+$10340500 0000[ABD]
++Skill Mod 32
+$10340502 0000[ABD]
++Skill Mod 33
+$10340504 0000[ABD]
++Skill Mod 34
+$10340506 0000[ABD]
++Skill Mod 35
+$10340504 0000[ABD]
++Skill Mod 36
+$10340506 0000[ABD]
++Skill Mod 37
+$10340508 0000[ABD]
++Skill Mod 38
+$1034050A 0000[ABD]
++Skill Mod 39
+$1034050C 0000[ABD]
++Skill Mod 40
+$1034050E 0000[ABD]
++Skill Mod 41
+$10340510 0000[ABD]
++Skill Mod 42
+$10340512 0000[ABD]
++Skill Mod 43
+$10340514 0000[ABD]
++Skill Mod 44
+$10340516 0000[ABD]
++Skill Mod 45
+$10340518 0000[ABD]
++Skill Mod 46
+$1034051A 0000[ABD]
++Skill Mod 47
+$10340518 0000[ABD]
++Skill Mod 48
+$1034051A 0000[ABD]
++Skill Mod 49
+$1034051C 0000[ABD]
++Skill Mod 50
+$1034051E 0000[ABD]
++Skill Mod 51
+$10340520 0000[ABD]
++Skill Mod 52
+$10340522 0000[ABD]
++Skill Mod 53
+$10340524 0000[ABD]
++Skill Mod 54
+$10340526 0000[ABD]
++Skill Mod 55
+$10340528 0000[ABD]
++Skill Mod 56
+$1034052A 0000[ABD]
++Skill Mod 57
+$1034052C 0000[ABD]
++Skill Mod 58
+$1034052E 0000[ABD]
++Skill Mod 59
+$1034052C 0000[ABD]
++Skill Mod 60
+$1034052E 0000[ABD]
++Skill Mod 61
+$10340530 0000[ABD]
++Skill Mod 62
+$10340532 0000[ABD]
++Skill Mod 63
+$10340534 0000[ABD]
++Skill Mod 64
+$10340536 0000[ABD]
++Skill Mod 65
+$10340538 0000[ABD]
++Skill Mod 66
+$1034053A 0000[ABD]
++Skill Mod 67
+$1034053C 0000[ABD]
++Skill Mod 68
+$1034053E 0000[ABD]
+!!
+!Equipment:
++Armor(equiptable Amount)
+$00340488 000000[Amount:03:Hex:BIG]
++Ring (equiptable Amount)
+$00340489 000000[Amount:03:Hex:BIG]
++Items (equiptable Amount)
+$0034048A 000000[Amount:03:Hex:BIG]
++???
+$0034048B 000000[Amount:03:Hex:BIG]
+!Armor:
++Armor 1
+$1034048C 0000[IEM]
++Armor 2
+$1034048E 0000[IEM]
++Armor 3
+$10340490 0000[IEM]
+!!
+!Rings:
++Rings 1
+$1034049C 0000[IEM]
++Rings 2
+$1034049E 0000[IEM]
++Rings 3
+$103404A0 0000[IEM]
+!!
+!Items:
++Item 1
+$103404AC 0000[IEM]
++Item 2
+$103404AE 0000[IEM]
++Item 3
+$103404B0 0000[IEM]
++Item 4
+$103404B2 0000[IEM]
++Item 5
+$103404B4 0000[IEM]
++Item 6
+$103404B6 0000[IEM]
+!!
+!!
+!Jack Sparrow:
++Max EXP
+$2034056C 05F5E0FF
++Infinite HP
+$00340570 000000FF
++Max HP
+$00340571 000000FF
++Infinite MP
+$00340572 000000FF
++Max MP
+$00340573 000000FF
++Max Ap
+$00340574 000000FF
++All Stats Base Max +lvl
+$20340574 FFFFFFFF
+$20340578 FFFFFFFF
++Max Strength
+$00340575 000000FF
++Max Magic
+$00340576 000000FF
++Max Defense
+$00340577 000000FF
++Level 99
+$0034057B 00000063
+!Skills Mod:
++Skill Mod 1
+$103405C0 0000[ABD]
++Skill Mod 2
+$103405C2 0000[ABD]
++Skill Mod 3
+$103405C4 0000[ABD]
++Skill Mod 4
+$103405C6 0000[ABD]
++Skill Mod 5
+$103405C8 0000[ABD]
++Skill Mod 6
+$103405CA 0000[ABD]
++Skill Mod 7
+$103405CC 0000[ABD]
++Skill Mod 8
+$103405CE 0000[ABD]
++Skill Mod 9
+$103405D0 0000[ABD]
++Skill Mod 10
+$103405D2 0000[ABD]
++Skill Mod 11
+$103405D0 0000[ABD]
++Skill Mod 12
+$103405D2 0000[ABD]
++Skill Mod 13
+$103405D4 0000[ABD]
++Skill Mod 14
+$103405D6 0000[ABD]
++Skill Mod 15
+$103405D8 0000[ABD]
++Skill Mod 16
+$103405DA 0000[ABD]
++Skill Mod 17
+$103405DC 0000[ABD]
++Skill Mod 18
+$103405DE 0000[ABD]
++Skill Mod 19
+$103405E0 0000[ABD]
++Skill Mod 20
+$103405E2 0000[ABD]
++Skill Mod 21
+$103405E4 0000[ABD]
++Skill Mod 22
+$103405E6 0000[ABD]
++Skill Mod 23
+$103405E4 0000[ABD]
++Skill Mod 24
+$103405E6 0000[ABD]
++Skill Mod 25
+$103405E8 0000[ABD]
++Skill Mod 26
+$103405EA 0000[ABD]
++Skill Mod 27
+$103405EC 0000[ABD]
++Skill Mod 28
+$103405EE 0000[ABD]
++Skill Mod 29
+$103405F0 0000[ABD]
++Skill Mod 30
+$103405F2 0000[ABD]
++Skill Mod 31
+$103405F4 0000[ABD]
++Skill Mod 32
+$103405F6 0000[ABD]
++Skill Mod 33
+$103405F8 0000[ABD]
++Skill Mod 34
+$103405FA 0000[ABD]
++Skill Mod 35
+$103405F8 0000[ABD]
++Skill Mod 36
+$103405FA 0000[ABD]
++Skill Mod 37
+$103405FC 0000[ABD]
++Skill Mod 38
+$103405FE 0000[ABD]
++Skill Mod 39
+$10340600 0000[ABD]
++Skill Mod 40
+$10340602 0000[ABD]
++Skill Mod 41
+$10340604 0000[ABD]
++Skill Mod 42
+$10340606 0000[ABD]
++Skill Mod 43
+$10340608 0000[ABD]
++Skill Mod 44
+$1034060A 0000[ABD]
++Skill Mod 45
+$1034060C 0000[ABD]
++Skill Mod 46
+$1034060E 0000[ABD]
++Skill Mod 47
+$1034060C 0000[ABD]
++Skill Mod 48
+$1034060E 0000[ABD]
++Skill Mod 49
+$10340610 0000[ABD]
++Skill Mod 50
+$10340612 0000[ABD]
++Skill Mod 51
+$10340614 0000[ABD]
++Skill Mod 52
+$10340616 0000[ABD]
++Skill Mod 53
+$10340618 0000[ABD]
++Skill Mod 54
+$1034061A 0000[ABD]
++Skill Mod 55
+$1034061C 0000[ABD]
++Skill Mod 56
+$1034061E 0000[ABD]
++Skill Mod 57
+$10340620 0000[ABD]
++Skill Mod 58
+$10340622 0000[ABD]
++Skill Mod 59
+$10340620 0000[ABD]
++Skill Mod 60
+$10340622 0000[ABD]
++Skill Mod 61
+$10340624 0000[ABD]
++Skill Mod 62
+$10340626 0000[ABD]
++Skill Mod 63
+$10340628 0000[ABD]
++Skill Mod 64
+$1034062A 0000[ABD]
++Skill Mod 65
+$1034062C 0000[ABD]
++Skill Mod 66
+$1034062E 0000[ABD]
++Skill Mod 67
+$10340630 0000[ABD]
++Skill Mod 68
+$10340632 0000[ABD]
+!!
+!Equipment:
++Armor(equiptable Amount)
+$0034057C 000000[Amount:03:Hex:BIG]
++Ring (equiptable Amount)
+$0034057D 000000[Amount:03:Hex:BIG]
++Items (equiptable Amount)
+$0034057E 000000[Amount:03:Hex:BIG]
++???
+$0034057F 000000[Amount:03:Hex:BIG]
+!Armor:
++Armor 1
+$10340580 0000[IEM]
++Armor 2
+$10340582 0000[IEM]
++Armor 3
+$10340584 0000[IEM]
+!!
+!Rings:
++Rings 1
+$10340590 0000[IEM]
++Rings 2
+$10340592 0000[IEM]
++Rings 3
+$10340594 0000[IEM]
+!!
+!Items:
++Item 1
+$103405A0 0000[IEM]
++Item 2
+$103405A2 0000[IEM]
++Item 3
+$103405A4 0000[IEM]
++Item 4
+$103405A6 0000[IEM]
++Item 5
+$103405A8 0000[IEM]
++Item 6
+$103405AA 0000[IEM]
+!!
+!!
+!Beast:
++Max EXP
+$20340660 05F5E0FF
++Infinite HP
+$00340664 000000FF
++Max HP
+$00340665 000000FF
++Infinite MP
+$00340666 000000FF
++Max MP
+$00340667 000000FF
++Max Ap
+$00340668 000000FF
++All Stats Base Max +lvl
+$20340668 FFFFFFFF
+$2034066C FFFFFFFF
++Max Strength
+$00340669 000000FF
++Max Magic
+$0034066A 000000FF
++Max Defense
+$0034066B 000000FF
++Level 99
+$0034066F 00000063
+!Skills Mod:
++Skill Mod 1
+$103406B4 0000[ABD]
++Skill Mod 2
+$103406B6 0000[ABD]
++Skill Mod 3
+$103406B8 0000[ABD]
++Skill Mod 4
+$103406BA 0000[ABD]
++Skill Mod 5
+$103406BC 0000[ABD]
++Skill Mod 6
+$103406BE 0000[ABD]
++Skill Mod 7
+$103406C0 0000[ABD]
++Skill Mod 8
+$103406C2 0000[ABD]
++Skill Mod 9
+$103406C4 0000[ABD]
++Skill Mod 10
+$103406C6 0000[ABD]
++Skill Mod 11
+$103406C4 0000[ABD]
++Skill Mod 12
+$103406C6 0000[ABD]
++Skill Mod 13
+$103406C8 0000[ABD]
++Skill Mod 14
+$103406CA 0000[ABD]
++Skill Mod 15
+$103406CC 0000[ABD]
++Skill Mod 16
+$103406CE 0000[ABD]
++Skill Mod 17
+$103406D0 0000[ABD]
++Skill Mod 18
+$103406D2 0000[ABD]
++Skill Mod 19
+$103406D4 0000[ABD]
++Skill Mod 20
+$103406D6 0000[ABD]
++Skill Mod 21
+$103406D8 0000[ABD]
++Skill Mod 22
+$103406DA 0000[ABD]
++Skill Mod 23
+$103406D8 0000[ABD]
++Skill Mod 24
+$103406DA 0000[ABD]
++Skill Mod 25
+$103406DC 0000[ABD]
++Skill Mod 26
+$103406DE 0000[ABD]
++Skill Mod 27
+$103406E0 0000[ABD]
++Skill Mod 28
+$103406E2 0000[ABD]
++Skill Mod 29
+$103406E4 0000[ABD]
++Skill Mod 30
+$103406E6 0000[ABD]
++Skill Mod 31
+$103406E8 0000[ABD]
++Skill Mod 32
+$103406EA 0000[ABD]
++Skill Mod 33
+$103406EC 0000[ABD]
++Skill Mod 34
+$103406EE 0000[ABD]
++Skill Mod 35
+$103406EC 0000[ABD]
++Skill Mod 36
+$103406EE 0000[ABD]
++Skill Mod 37
+$103406F0 0000[ABD]
++Skill Mod 38
+$103406F2 0000[ABD]
++Skill Mod 39
+$103406F4 0000[ABD]
++Skill Mod 40
+$103406F6 0000[ABD]
++Skill Mod 41
+$103406F8 0000[ABD]
++Skill Mod 42
+$103406FA 0000[ABD]
++Skill Mod 43
+$103406FC 0000[ABD]
++Skill Mod 44
+$103406FE 0000[ABD]
++Skill Mod 45
+$10340700 0000[ABD]
++Skill Mod 46
+$10340702 0000[ABD]
++Skill Mod 47
+$10340700 0000[ABD]
++Skill Mod 48
+$10340702 0000[ABD]
++Skill Mod 49
+$10340704 0000[ABD]
++Skill Mod 50
+$10340706 0000[ABD]
++Skill Mod 51
+$10340708 0000[ABD]
++Skill Mod 52
+$1034070A 0000[ABD]
++Skill Mod 53
+$1034070C 0000[ABD]
++Skill Mod 54
+$1034070E 0000[ABD]
++Skill Mod 55
+$10340710 0000[ABD]
++Skill Mod 56
+$10340712 0000[ABD]
++Skill Mod 57
+$10340714 0000[ABD]
++Skill Mod 58
+$10340716 0000[ABD]
++Skill Mod 59
+$10340714 0000[ABD]
++Skill Mod 60
+$10340716 0000[ABD]
++Skill Mod 61
+$10340718 0000[ABD]
++Skill Mod 62
+$1034071A 0000[ABD]
++Skill Mod 63
+$1034071C 0000[ABD]
++Skill Mod 64
+$1034071E 0000[ABD]
++Skill Mod 65
+$10340720 0000[ABD]
++Skill Mod 66
+$10340722 0000[ABD]
++Skill Mod 67
+$10340724 0000[ABD]
++Skill Mod 68
+$10340726 0000[ABD]
+!!
+!Equipment:
++Armor(equiptable Amount)
+$00340670 000000[Amount:03:Hex:BIG]
++Ring (equiptable Amount)
+$00340671 000000[Amount:03:Hex:BIG]
++Items (equiptable Amount)
+$00340672 000000[Amount:03:Hex:BIG]
++???
+$00340673 000000[Amount:03:Hex:BIG]
+!Armor:
++Armor 1
+$10340674 0000[IEM]
++Armor 2
+$10340676 0000[IEM]
++Armor 3
+$10340678 0000[IEM]
+!!
+!Rings:
++Rings 1
+$10340684 0000[IEM]
++Rings 2
+$10340686 0000[IEM]
++Rings 3
+$10340688 0000[IEM]
+!!
+!Items:
++Item 1
+$10340694 0000[IEM]
++Item 2
+$10340696 0000[IEM]
++Item 3
+$10340698 0000[IEM]
++Item 4
+$1034069A 0000[IEM]
++Item 5
+$1034069C 0000[IEM]
++Item 6
+$1034069E 0000[IEM]
+!!
+!!
+!Jack:
++Max EXP
+$20340754 05F5E0FF
++Infinite HP
+$00340758 000000FF
++Max HP
+$00340759 000000FF
++Infinite MP
+$0034075A 000000FF
++Max MP
+$0034075B 000000FF
++Max Ap
+$0034075C 000000FF
++All Stats Base Max +lvl
+$2034075C FFFFFFFF
+$20340760 FFFFFFFF
++Max Strength
+$0034075D 000000FF
++Max Magic
+$0034075E 000000FF
++Max Defense
+$0034075F 000000FF
++Level 99
+$00340763 00000063
+!Skills Mod:
++Skill Mod 1
+$103407A8 0000[ABD]
++Skill Mod 2
+$103407AA 0000[ABD]
++Skill Mod 3
+$103407AC 0000[ABD]
++Skill Mod 4
+$103407AE 0000[ABD]
++Skill Mod 5
+$103407B0 0000[ABD]
++Skill Mod 6
+$103407B2 0000[ABD]
++Skill Mod 7
+$103407B4 0000[ABD]
++Skill Mod 8
+$103407B6 0000[ABD]
++Skill Mod 9
+$103407B8 0000[ABD]
++Skill Mod 10
+$103407BA 0000[ABD]
++Skill Mod 11
+$103407B8 0000[ABD]
++Skill Mod 12
+$103407BA 0000[ABD]
++Skill Mod 13
+$103407BC 0000[ABD]
++Skill Mod 14
+$103407BE 0000[ABD]
++Skill Mod 15
+$103407C0 0000[ABD]
++Skill Mod 16
+$103407C2 0000[ABD]
++Skill Mod 17
+$103407C4 0000[ABD]
++Skill Mod 18
+$103407C6 0000[ABD]
++Skill Mod 19
+$103407C8 0000[ABD]
++Skill Mod 20
+$103407CA 0000[ABD]
++Skill Mod 21
+$103407CC 0000[ABD]
++Skill Mod 22
+$103407CE 0000[ABD]
++Skill Mod 23
+$103407CC 0000[ABD]
++Skill Mod 24
+$103407CE 0000[ABD]
++Skill Mod 25
+$103407D0 0000[ABD]
++Skill Mod 26
+$103407D2 0000[ABD]
++Skill Mod 27
+$103407D4 0000[ABD]
++Skill Mod 28
+$103407D6 0000[ABD]
++Skill Mod 29
+$103407D8 0000[ABD]
++Skill Mod 30
+$103407DA 0000[ABD]
++Skill Mod 31
+$103407DC 0000[ABD]
++Skill Mod 32
+$103407DE 0000[ABD]
++Skill Mod 33
+$103407E0 0000[ABD]
++Skill Mod 34
+$103407E2 0000[ABD]
++Skill Mod 35
+$103407E0 0000[ABD]
++Skill Mod 36
+$103407E2 0000[ABD]
++Skill Mod 37
+$103407E4 0000[ABD]
++Skill Mod 38
+$103407E6 0000[ABD]
++Skill Mod 39
+$103407E8 0000[ABD]
++Skill Mod 40
+$103407EA 0000[ABD]
++Skill Mod 41
+$103407EC 0000[ABD]
++Skill Mod 42
+$103407EE 0000[ABD]
++Skill Mod 43
+$103407F0 0000[ABD]
++Skill Mod 44
+$103407F2 0000[ABD]
++Skill Mod 45
+$103407F4 0000[ABD]
++Skill Mod 46
+$103407F6 0000[ABD]
++Skill Mod 47
+$103407F4 0000[ABD]
++Skill Mod 48
+$103407F6 0000[ABD]
++Skill Mod 49
+$103407F8 0000[ABD]
++Skill Mod 50
+$103407FA 0000[ABD]
++Skill Mod 51
+$103407FC 0000[ABD]
++Skill Mod 52
+$103407FE 0000[ABD]
++Skill Mod 53
+$10340800 0000[ABD]
++Skill Mod 54
+$10340802 0000[ABD]
++Skill Mod 55
+$10340804 0000[ABD]
++Skill Mod 56
+$10340806 0000[ABD]
++Skill Mod 57
+$10340808 0000[ABD]
++Skill Mod 58
+$1034080A 0000[ABD]
++Skill Mod 59
+$10340808 0000[ABD]
++Skill Mod 60
+$1034080A 0000[ABD]
++Skill Mod 61
+$1034080C 0000[ABD]
++Skill Mod 62
+$1034080E 0000[ABD]
++Skill Mod 63
+$10340810 0000[ABD]
++Skill Mod 64
+$10340812 0000[ABD]
++Skill Mod 65
+$10340814 0000[ABD]
++Skill Mod 66
+$10340816 0000[ABD]
++Skill Mod 67
+$10340818 0000[ABD]
++Skill Mod 68
+$1034081A 0000[ABD]
+!!
+!Equipment:
++Armor(equiptable Amount)
+$00340764 000000[Amount:03:Hex:BIG]
++Ring (equiptable Amount)
+$00340765 000000[Amount:03:Hex:BIG]
++Items (equiptable Amount)
+$00340766 000000[Amount:03:Hex:BIG]
++???
+$00340767 000000[Amount:03:Hex:BIG]
+!Armor:
++Armor 1
+$10340768 0000[IEM]
++Armor 2
+$1034076A 0000[IEM]
++Armor 3
+$1034076C 0000[IEM]
+!!
+!Rings:
++Rings 1
+$10340778 0000[IEM]
++Rings 2
+$1034077A 0000[IEM]
++Rings 3
+$1034077C 0000[IEM]
+!!
+!Items:
++Item 1
+$10340788 0000[IEM]
++Item 2
+$1034078A 0000[IEM]
++Item 3
+$1034078C 0000[IEM]
++Item 4
+$1034078E 0000[IEM]
++Item 5
+$10340790 0000[IEM]
++Item 6
+$10340792 0000[IEM]
+!!
+!!
+!Simba:
++Max EXP
+$20340848 05F5E0FF
++Infinite HP
+$0034084C 000000FF
++Max HP
+$0034084D 000000FF
++Infinite MP
+$0034084E 000000FF
++Max MP
+$0034084F 000000FF
++Max Ap
+$00340850 000000FF
++All Stats Base Max +lvl
+$20340850 FFFFFFFF
+$20340854 FFFFFFFF
++Max Strength
+$00340851 000000FF
++Max Magic
+$00340852 000000FF
++Max Defense
+$00340853 000000FF
++Level 99
+$00340857 00000063
+!Skills Mod:
++Skill Mod 1
+$1034089C 0000[ABD]
++Skill Mod 2
+$1034089E 0000[ABD]
++Skill Mod 3
+$103408A0 0000[ABD]
++Skill Mod 4
+$103408A2 0000[ABD]
++Skill Mod 5
+$103408A4 0000[ABD]
++Skill Mod 6
+$103408A6 0000[ABD]
++Skill Mod 7
+$103408A8 0000[ABD]
++Skill Mod 8
+$103408AA 0000[ABD]
++Skill Mod 9
+$103408AC 0000[ABD]
++Skill Mod 10
+$103408AE 0000[ABD]
++Skill Mod 11
+$103408AC 0000[ABD]
++Skill Mod 12
+$103408AE 0000[ABD]
++Skill Mod 13
+$103408B0 0000[ABD]
++Skill Mod 14
+$103408B2 0000[ABD]
++Skill Mod 15
+$103408B4 0000[ABD]
++Skill Mod 16
+$103408B6 0000[ABD]
++Skill Mod 17
+$103408B8 0000[ABD]
++Skill Mod 18
+$103408BA 0000[ABD]
++Skill Mod 19
+$103408BC 0000[ABD]
++Skill Mod 20
+$103408BE 0000[ABD]
++Skill Mod 21
+$103408C0 0000[ABD]
++Skill Mod 22
+$103408C2 0000[ABD]
++Skill Mod 23
+$103408C0 0000[ABD]
++Skill Mod 24
+$103408C2 0000[ABD]
++Skill Mod 25
+$103408C4 0000[ABD]
++Skill Mod 26
+$103408C6 0000[ABD]
++Skill Mod 27
+$103408C8 0000[ABD]
++Skill Mod 28
+$103408CA 0000[ABD]
++Skill Mod 29
+$103408CC 0000[ABD]
++Skill Mod 30
+$103408CE 0000[ABD]
++Skill Mod 31
+$103408D0 0000[ABD]
++Skill Mod 32
+$103408D2 0000[ABD]
++Skill Mod 33
+$103408D4 0000[ABD]
++Skill Mod 34
+$103408D6 0000[ABD]
++Skill Mod 35
+$103408D4 0000[ABD]
++Skill Mod 36
+$103408D6 0000[ABD]
++Skill Mod 37
+$103408D8 0000[ABD]
++Skill Mod 38
+$103408DA 0000[ABD]
++Skill Mod 39
+$103408DC 0000[ABD]
++Skill Mod 40
+$103408DE 0000[ABD]
++Skill Mod 41
+$103408E0 0000[ABD]
++Skill Mod 42
+$103408E2 0000[ABD]
++Skill Mod 43
+$103408E4 0000[ABD]
++Skill Mod 44
+$103408E6 0000[ABD]
++Skill Mod 45
+$103408E8 0000[ABD]
++Skill Mod 46
+$103408EA 0000[ABD]
++Skill Mod 47
+$103408E8 0000[ABD]
++Skill Mod 48
+$103408EA 0000[ABD]
++Skill Mod 49
+$103408EC 0000[ABD]
++Skill Mod 50
+$103408EE 0000[ABD]
++Skill Mod 51
+$103408F0 0000[ABD]
++Skill Mod 52
+$103408F2 0000[ABD]
++Skill Mod 53
+$103408F4 0000[ABD]
++Skill Mod 54
+$103408F6 0000[ABD]
++Skill Mod 55
+$103408F8 0000[ABD]
++Skill Mod 56
+$103408FA 0000[ABD]
++Skill Mod 57
+$103408FC 0000[ABD]
++Skill Mod 58
+$103408FE 0000[ABD]
++Skill Mod 59
+$103408FC 0000[ABD]
++Skill Mod 60
+$103408FE 0000[ABD]
++Skill Mod 61
+$10340900 0000[ABD]
++Skill Mod 62
+$10340902 0000[ABD]
++Skill Mod 63
+$10340904 0000[ABD]
++Skill Mod 64
+$10340906 0000[ABD]
++Skill Mod 65
+$10340908 0000[ABD]
++Skill Mod 66
+$1034090A 0000[ABD]
++Skill Mod 67
+$1034090C 0000[ABD]
++Skill Mod 68
+$1034090E 0000[ABD]
+!!
+!Equipment:
++Armor(equiptable Amount)
+$00340858 000000[Amount:03:Hex:BIG]
++Ring (equiptable Amount)
+$00340859 000000[Amount:03:Hex:BIG]
++Items (equiptable Amount)
+$0034085A 000000[Amount:03:Hex:BIG]
++???
+$0034085B 000000[Amount:03:Hex:BIG]
+!Armor:
++Armor 1
+$1034085C 0000[IEM]
++Armor 2
+$1034085E 0000[IEM]
++Armor 3
+$10340860 0000[IEM]
+!!
+!Rings:
++Rings 1
+$1034086C 0000[IEM]
++Rings 2
+$1034086E 0000[IEM]
++Rings 3
+$10340870 0000[IEM]
+!!
+!Items:
++Item 1
+$1034087C 0000[IEM]
++Item 2
+$1034087E 0000[IEM]
++Item 3
+$10340880 0000[IEM]
++Item 4
+$10340882 0000[IEM]
++Item 5
+$10340884 0000[IEM]
++Item 6
+$10340886 0000[IEM]
+!!
+!!
+!Tron:
++Max EXP
+$2034093C 05F5E0FF
++Infinite HP
+$00340940 000000FF
++Max HP
+$00340941 000000FF
++Infinite MP
+$00340942 000000FF
++Max MP
+$00340943 000000FF
++Max Ap
+$00340944 000000FF
++All Stats Base Max +lvl
+$20340944 FFFFFFFF
+$20340948 FFFFFFFF
++Max Strength
+$00340945 000000FF
++Max Magic
+$00340946 000000FF
++Max Defense
+$00340947 000000FF
++Level 99
+$0034094B 00000063
+!Skills Mod:
++Skill Mod 1
+$10340990 0000[ABD]
++Skill Mod 2
+$10340992 0000[ABD]
++Skill Mod 3
+$10340994 0000[ABD]
++Skill Mod 4
+$10340996 0000[ABD]
++Skill Mod 5
+$10340998 0000[ABD]
++Skill Mod 6
+$1034099A 0000[ABD]
++Skill Mod 7
+$1034099C 0000[ABD]
++Skill Mod 8
+$1034099E 0000[ABD]
++Skill Mod 9
+$103409A0 0000[ABD]
++Skill Mod 10
+$103409A2 0000[ABD]
++Skill Mod 11
+$103409A0 0000[ABD]
++Skill Mod 12
+$103409A2 0000[ABD]
++Skill Mod 13
+$103409A4 0000[ABD]
++Skill Mod 14
+$103409A6 0000[ABD]
++Skill Mod 15
+$103409A8 0000[ABD]
++Skill Mod 16
+$103409AA 0000[ABD]
++Skill Mod 17
+$103409AC 0000[ABD]
++Skill Mod 18
+$103409AE 0000[ABD]
++Skill Mod 19
+$103409B0 0000[ABD]
++Skill Mod 20
+$103409B2 0000[ABD]
++Skill Mod 21
+$103409B4 0000[ABD]
++Skill Mod 22
+$103409B6 0000[ABD]
++Skill Mod 23
+$103409B4 0000[ABD]
++Skill Mod 24
+$103409B6 0000[ABD]
++Skill Mod 25
+$103409B8 0000[ABD]
++Skill Mod 26
+$103409BA 0000[ABD]
++Skill Mod 27
+$103409BC 0000[ABD]
++Skill Mod 28
+$103409BE 0000[ABD]
++Skill Mod 29
+$103409C0 0000[ABD]
++Skill Mod 30
+$103409C2 0000[ABD]
++Skill Mod 31
+$103409C4 0000[ABD]
++Skill Mod 32
+$103409C6 0000[ABD]
++Skill Mod 33
+$103409C8 0000[ABD]
++Skill Mod 34
+$103409CA 0000[ABD]
++Skill Mod 35
+$103409C8 0000[ABD]
++Skill Mod 36
+$103409CA 0000[ABD]
++Skill Mod 37
+$103409CC 0000[ABD]
++Skill Mod 38
+$103409CE 0000[ABD]
++Skill Mod 39
+$103409D0 0000[ABD]
++Skill Mod 40
+$103409D2 0000[ABD]
++Skill Mod 41
+$103409D4 0000[ABD]
++Skill Mod 42
+$103409D6 0000[ABD]
++Skill Mod 43
+$103409D8 0000[ABD]
++Skill Mod 44
+$103409DA 0000[ABD]
++Skill Mod 45
+$103409DC 0000[ABD]
++Skill Mod 46
+$103409DE 0000[ABD]
++Skill Mod 47
+$103409DC 0000[ABD]
++Skill Mod 48
+$103409DE 0000[ABD]
++Skill Mod 49
+$103409E0 0000[ABD]
++Skill Mod 50
+$103409E2 0000[ABD]
++Skill Mod 51
+$103409E4 0000[ABD]
++Skill Mod 52
+$103409E6 0000[ABD]
++Skill Mod 53
+$103409E8 0000[ABD]
++Skill Mod 54
+$103409EA 0000[ABD]
++Skill Mod 55
+$103409EC 0000[ABD]
++Skill Mod 56
+$103409EE 0000[ABD]
++Skill Mod 57
+$103409F0 0000[ABD]
++Skill Mod 58
+$103409F2 0000[ABD]
++Skill Mod 59
+$103409F0 0000[ABD]
++Skill Mod 60
+$103409F2 0000[ABD]
++Skill Mod 61
+$103409F4 0000[ABD]
++Skill Mod 62
+$103409F6 0000[ABD]
++Skill Mod 63
+$103409F8 0000[ABD]
++Skill Mod 64
+$103409FA 0000[ABD]
++Skill Mod 65
+$103409FC 0000[ABD]
++Skill Mod 66
+$103409FE 0000[ABD]
++Skill Mod 67
+$10340A00 0000[ABD]
++Skill Mod 68
+$10340A02 0000[ABD]
+!!
+!Equipment:
++Armor(equiptable Amount)
+$0034094C 000000[Amount:03:Hex:BIG]
++Ring (equiptable Amount)
+$0034094D 000000[Amount:03:Hex:BIG]
++Items (equiptable Amount)
+$0034094E 000000[Amount:03:Hex:BIG]
++???
+$0034094F 000000[Amount:03:Hex:BIG]
+!Armor:
++Armor 1
+$10340950 0000[IEM]
++Armor 2
+$10340952 0000[IEM]
++Armor 3
+$10340954 0000[IEM]
+!!
+!Rings:
++Rings 1
+$10340960 0000[IEM]
++Rings 2
+$10340962 0000[IEM]
++Rings 3
+$10340964 0000[IEM]
+!!
+!Items:
++Item 1
+$10340970 0000[IEM]
++Item 2
+$10340972 0000[IEM]
++Item 3
+$10340974 0000[IEM]
++Item 4
+$10340976 0000[IEM]
++Item 5
+$10340978 0000[IEM]
++Item 6
+$1034097A 0000[IEM]
+!!
+!!
+!Riku:
++Max EXP
+$20340A30 05F5E0FF
++Infinite HP
+$00340A34 000000FF
++Max HP
+$00340A35 000000FF
++Infinite MP
+$00340A36 000000FF
++Max MP
+$00340A37 000000FF
++Max Ap
+$00340A38 000000FF
++All Stats Base Max +lvl
+$20340A38 FFFFFFFF
+$20340A3C FFFFFFFF
++Max Strength
+$00340A39 000000FF
++Max Magic
+$00340A3A 000000FF
++Max Defense
+$00340A3B 000000FF
++Level 99
+$00340A3F 00000063
+!Skills Mod:
++Skill Mod 1
+$10340A84 0000[ABD]
++Skill Mod 2
+$10340A86 0000[ABD]
++Skill Mod 3
+$10340A88 0000[ABD]
++Skill Mod 4
+$10340A8A 0000[ABD]
++Skill Mod 5
+$10340A8C 0000[ABD]
++Skill Mod 6
+$10340A8E 0000[ABD]
++Skill Mod 7
+$10340A90 0000[ABD]
++Skill Mod 8
+$10340A92 0000[ABD]
++Skill Mod 9
+$10340A94 0000[ABD]
++Skill Mod 10
+$10340A96 0000[ABD]
++Skill Mod 11
+$10340A94 0000[ABD]
++Skill Mod 12
+$10340A96 0000[ABD]
++Skill Mod 13
+$10340A98 0000[ABD]
++Skill Mod 14
+$10340A9A 0000[ABD]
++Skill Mod 15
+$10340A9C 0000[ABD]
++Skill Mod 16
+$10340A9E 0000[ABD]
++Skill Mod 17
+$10340AA0 0000[ABD]
++Skill Mod 18
+$10340AA2 0000[ABD]
++Skill Mod 19
+$10340AA4 0000[ABD]
++Skill Mod 20
+$10340AA6 0000[ABD]
++Skill Mod 21
+$10340AA8 0000[ABD]
++Skill Mod 22
+$10340AAA 0000[ABD]
++Skill Mod 23
+$10340AA8 0000[ABD]
++Skill Mod 24
+$10340AAA 0000[ABD]
++Skill Mod 25
+$10340AAC 0000[ABD]
++Skill Mod 26
+$10340AAE 0000[ABD]
++Skill Mod 27
+$10340AB0 0000[ABD]
++Skill Mod 28
+$10340AB2 0000[ABD]
++Skill Mod 29
+$10340AB4 0000[ABD]
++Skill Mod 30
+$10340AB6 0000[ABD]
++Skill Mod 31
+$10340AB8 0000[ABD]
++Skill Mod 32
+$10340ABA 0000[ABD]
++Skill Mod 33
+$10340ABC 0000[ABD]
++Skill Mod 34
+$10340ABE 0000[ABD]
++Skill Mod 35
+$10340ABC 0000[ABD]
++Skill Mod 36
+$10340ABE 0000[ABD]
++Skill Mod 37
+$10340AC0 0000[ABD]
++Skill Mod 38
+$10340AC2 0000[ABD]
++Skill Mod 39
+$10340AC4 0000[ABD]
++Skill Mod 40
+$10340AC6 0000[ABD]
++Skill Mod 41
+$10340AC8 0000[ABD]
++Skill Mod 42
+$10340ACA 0000[ABD]
++Skill Mod 43
+$10340ACC 0000[ABD]
++Skill Mod 44
+$10340ACE 0000[ABD]
++Skill Mod 45
+$10340AD0 0000[ABD]
++Skill Mod 46
+$10340AD2 0000[ABD]
++Skill Mod 47
+$10340AD0 0000[ABD]
++Skill Mod 48
+$10340AD2 0000[ABD]
++Skill Mod 49
+$10340AD4 0000[ABD]
++Skill Mod 50
+$10340AD6 0000[ABD]
++Skill Mod 51
+$10340AD8 0000[ABD]
++Skill Mod 52
+$10340ADA 0000[ABD]
++Skill Mod 53
+$10340ADC 0000[ABD]
++Skill Mod 54
+$10340ADE 0000[ABD]
++Skill Mod 55
+$10340AE0 0000[ABD]
++Skill Mod 56
+$10340AE2 0000[ABD]
++Skill Mod 57
+$10340AE4 0000[ABD]
++Skill Mod 58
+$10340AE6 0000[ABD]
++Skill Mod 59
+$10340AE4 0000[ABD]
++Skill Mod 60
+$10340AE6 0000[ABD]
++Skill Mod 61
+$10340AE8 0000[ABD]
++Skill Mod 62
+$10340AEA 0000[ABD]
++Skill Mod 63
+$10340AEC 0000[ABD]
++Skill Mod 64
+$10340AEE 0000[ABD]
++Skill Mod 65
+$10340AF0 0000[ABD]
++Skill Mod 66
+$10340AF2 0000[ABD]
++Skill Mod 67
+$10340AF4 0000[ABD]
++Skill Mod 68
+$10340AF6 0000[ABD]
+!!
+!Equipment:
++Armor(equiptable Amount)
+$00340A40 000000[Amount:03:Hex:BIG]
++Ring (equiptable Amount)
+$00340A41 000000[Amount:03:Hex:BIG]
++Items (equiptable Amount)
+$00340A42 000000[Amount:03:Hex:BIG]
++???
+$00340A43 000000[Amount:03:Hex:BIG]
+!Armor:
++Armor 1
+$10340A44 0000[IEM]
++Armor 2
+$10340A46 0000[IEM]
++Armor 3
+$10340A48 0000[IEM]
+!!
+!Rings:
++Rings 1
+$10340A54 0000[IEM]
++Rings 2
+$10340A56 0000[IEM]
++Rings 3
+$10340A58 0000[IEM]
+!!
+!Items:
++Item 1
+$10340A64 0000[IEM]
++Item 2
+$10340A66 0000[IEM]
++Item 3
+$10340A68 0000[IEM]
++Item 4
+$10340A6A 0000[IEM]
++Item 5
+$10340A6C 0000[IEM]
++Item 6
+$10340A6E 0000[IEM]
+!!
+!!
+!!
+^6 = MODS:
+[DOD]
+VALUE>NAME	
+0	Easy 
+1	Standerd
+2	Proud
+[/DOD]
+[DMD]
+VALUE>NAME	
+0	Normal Form 
+1	Valor Form (Must Already Have It First, Or It Can Crash)
+2	Wisdom Form (Must Already Have It First, Or It Can Crash)
+3	Master Form (Must Already Have It First, Or It Can Crash)
+4	Final Form (Must Already Have It First, Or It Can Crash)
+5	Anti-Form
+6	Mickey
+7	Crashes Game
+[/DMD]
+[CMD]
+VALUE>NAME	
+00	Roxas(Start Of The Game)/Sora(Before And After He Gets His New Outfit)
+01	Donald
+02	Goofy
+03	Partner Character(World Specific)/Riku(Twtnw)
+04	Valor Sora/ Valor Roxas( During Roxas' Part Only)
+05	Wisdom Form
+06	Master Form (Crash)
+07	Final Form (Crash)
+08	Anti Form
+09	Micky
+0A	Invisable
+10	Nothing (Put This If U Dont/Can Not Have 4th Character)
+[/CMD]
+[UCM]
+VALUE>NAME	
+0054	Sora
+0055	Sora (Helden-Form / Valor-Form)
+0056	Sora (Weisen-Form / Wisdom Form)
+0057	Sora (Meister-Form / Master-Form)
+0058	Sora (Über-Form / Final-Form)
+0059	Sora (Anti-Form)
+005A	Roxas 
+005B	Micky / Mickey (Mit Kutte / With Coat)
+005C	Donald
+005D	Goofy
+005E	Biest
+005F	Jack (Halloween Town)
+0060	Jack (Christmas Town)
+0061	Simba
+0062	Aladdin
+0063	Mulan
+0064	Ping
+0065	Auron
+0066	Sparrow
+0168	Sora Auf Teppich / Sora On Carpet
+016A	Hercules (Partner!)
+028A	Sora (Löwen-Form / Lion-Form)
+029E	Donald (Halloween Town) (Glitchy)
+029D	Goofy (Halloween Town) (Glitchy)
+02B5	Sora (Halloween Town) (Glitchy)
+0318	Micky / Mickey (Ohne Kutte / Without Coat)
+0323	Roxas (Helden-Form / Valor-Form) (Aka. Dw Roxas)
+0396	Donald (Atlantica) (Könnte Wo Anders AbstEzen / May Crash Elsewhere)
+0397	Goofy (Atlantica) (Könnte Wo Anders AbstEzen / May Crash Elsewhere)
+03BE	Sora (Atlantica) (Könnte Wo Anders AbstEzen / May Crash Elsewhere)
+03E7	Sora (Weisen-Form / Wisdom Form) (Halloween Town) (Glitchy)
+03E8	Sora (Meister-Form / Master-Form) (Halloween Town) (Glitchy)
+03E9	Sora (Über-Form / Final-Form) (Halloween Town) (Halloween Town) (Glitchy)
+03EA	Sora (Anti-Form) (Halloween Town) (Glitchy)
+04BB	Minnie (Partner!)
+04DC	Axel (Partner!)
+04F5	Goofy (Fluss Der Nostalgie / Timeless River) (Glitchy)
+0551	Timon (Partner!)
+0552	Pumbaa (Partner!)
+0554	Goofy (Space Paranoids) (Glitchy)
+055A	Donald (Space Paranoids) (Glitchy)
+05CF	Donald (Fluss Der Nostalgie / Timeless River) (Glitchy)
+05EF	Donald (Möwen-Form / Gull-Form)
+0601	Sora (Karten-Form / Card-Form)
+0602	Sora (WEfel-Form / Dice-Form)
+061B	Goofy (Schildkröten-Form / Turtle-Form)
+061C	Squall / Leon (Partner!)
+0656	Sora (Space Paranoids) (Glitchy)
+0657	Sora (Fluss Der Nostalgie / Timeless River) (Glitchy)
+0663	Winnie Puuh (Auf Soras Schultern) / Winnie The Pooh (On Sora's Shoulders)
+0669	Sora (Helden-Form / Valor-Form) (Space Paranoids) (Glitchy)
+066A	Sora (Helden-Form / Valor-Form) (Fluss Der Nostalgie / Timeless River) (Glitchy)
+066B	Sora (Weisen-Form / Wisdom Form) (Space Paranoids) (Glitchy)
+066C	Sora (Weisen-Form / Wisdom Form) (Fluss Der Nostalgie / Timeless River) (Glitchy)
+066D	Sora (Meister-Form / Master-Form) (Space Paranoids) (Glitchy)
+066E	Sora (Meister-Form / Master-Form) (Fluss Der Nostalgie / Timeless River) (Glitchy)
+066F	Sora (Über-Form / Final-Form) (Space Paranoids) (Glitchy)
+0670	Sora (Über-Form / Final-Form)(Fluss Der Nostalgie / Timeless River) (Glitchy)
+0671	Sora (Anti-Form) (Space Paranoids) (Glitchy)
+0672	Sora (Anti-Form) (Fluss Der Nostalgie / Timeless River) (Glitchy)
+0688	Cloud (Partner!)
+06B0	Yuffie (Partner!)
+06B3	Tifa (Partner!)
+06C1	Sora (Kingdom Hearts I Costume)
+06C2	I-Ah / Eeyore (Partner!)
+06C3	Tigger (Partner!)
+06C4	Piglet (Partner!)
+06C5	Ruuh / Roo (Partner!)
+0764	Micky / Mickey (Ohne Kutte / Without Coat) (Partner!)
+0819	Riku (Nur Party / Only Party)
+081D	Sparrow 
+08D1	Riku (Vom Xemnas Kampf / From Xemnas Battle)
+08D2	Sterbender Sora / Dying Sora (Wenn Er Von Xemnas Elektrisiert Wird / When Xenmas Electrifies Him)
+08F2	Squall / Leon (Partner!) (Buggy)
+08F3	Cloud (Partner!) (Buggy)
+08F4	Tifa (Partner!) (Buggy)
+08F5	Yuffie (Partner!) (Buggy)
+0015	Shan-Yu
+0016	Hayabusa (Shan-Yus Falke / Shan-Yu's Falcon)
+0051	Axel (Twilight Town, 2. Battle)
+007E	Oogie Boogie
+007F	Furcht / Lock
+0080	Angst / Shock
+0081	Schrecken / Barrel
+0133	Twilight-Dorn / Twilight Thorn 
+015C	Dschafar / Jafar (Djinn)
+015D	Hades (1. & 2. Kampf / Battle)
+015E	Hades (3. & Paradox Hades Cup-Kampf / Battle)
+015F	Zerberus / Cerberus 
+0160	Hydra
+0161	Torwächter / Thresholder
+0162	Dunkeltroll / Dark Thorn
+0163	Kettenbalg / Shadow Stalker
+0165	Sturmreiter / Storm Rider
+0166	Illuminator
+0167	Karlo / Pete (Fluss Der Nostalgie / Timeless River
+0284	Kettenbalg Kronleuchter / "Shadow Stalker Chandelier" (Objekt / Object)
+0285	Kettenbalg Säulen / "Shadow Stalker Pillars" (Objekt / Object)
+0299	Shenzi
+029A	Banzai
+029B	Ed
+029C	Scar
+02CE	Das Biest / The Beast
+031B	Demyx (Arena Des Olymps / Olympus Coliseum, 1. Battle)
+035E	Sark
+039A	Hydras Kopf / Hydra's Head
+03C4	Sark (Groß / Large)
+03DB	Karlo / Pete (Fluss Der Nostalgie / Timeless River)
+03E5	Xaldin
+03F7	Barbossa
+040B	Vulkanlord / Volcano Lord
+040C	Blizzardlord / Blizzard Lord
+0459	Bodenbeben / Groundshaker
+04A0	Demyx Wasserklon / Demyx's Water Clone
+04B8	Das Aggressive Programm / The Aggressive Program
+04D7	Hayner
+05CE	Gefängniswärter / Prison Keeper
+05D0	Die Marionette / The Experiment
+05F8	Luxord (Keine Hp Leiste / No Hp-Bar)
+05FF	Luxords Karte / "Luxord's Card"
+0607	Sensenmeister / Grim Reaper (Könnte AbstEzen... / May Crash...)
+0622	Xigbar
+0639	Dschafars Wasserklon (Unverwundbar) / Jafar's Water Clone (Invincible)
+063C	Riku
+0646	Xemnas (1. Battle)
+0647	Karlo / Pete (Fluss Der Nostalgie / Timeless River Battle)
+0678	Cifer / Seifer
+06BB	Karlo / Pete (Megara Battle)
+06BC	Karlo / Pete (Hercules Battle)
+06C9	SaE
+06F2	Sephiroth (Block-Pose / Guard Stance)
+06FA	SaE-Schwert / SaE-Sword (Objekt / Object)
+0710	Die Marionette / The Experiment (Kopf / Head)
+0711	Die Marionette / The Experiment ("Linke / Left Hand") 
+0712	Die Marionette / The Experiment ("Rechte / Right Hand")
+0754	Roxas' Shadow Doppelgaenger
+0812	Hades
+081F	Xemnas (Finale) / Final Xemnas
+082F	Setzer
+0847	Shenzi
+085C	Xemnas (REtung / Armor)
+086C	Vivi (Spielabsturz Nach Dem Sieg / Game Crash After Defeat)
+08B5	Axel (Twilight Town, 1. Battle)
+08B6	Sephiroth
+08D0	Vivi (Spielabsturz Nach Dem Sieg / Game Crash After Defeat)
+08F6	Demyx Wasserklon / Demyx's Water Clone 
+08F7	Demyx (Hollow Bastion, 2. Battle)
+08F8	Squall / Leon
+08F9	Cloud
+08FA	Tifa
+08FB	Yuffie
+090E	Hades (Moiren-Cup / Goddess Of Fate Cup Battle, Hades-Paradox Cup Battle)
+090F	Karlo / Pete (Hades-Paradox Cup Battle)
+0910	Hercules (Titanen-Paradox / Titan-Paradox Cup Battle)
+0239	Speicherpunkt (Mit Weltkarten Option) / Save Point (With World Map Option) 
+023A	Speicherpunkt / Save Point
+05AB	Skateboard (Nur FE Roxas! / Only For Roxas!) (Objekt / Object)
+0816	Skateboard Mini Game Checkpoint (Object)
+081A	Skateboard (Blau / Blue) (Objekt / Object)
+08C0	Skateboard V1 (Halloween Town) (Objekt / Object)
+08C1	Skateboard V2 (Fluss Der Nostalgie / Timless River) (Objekt / Object)
+08C2	Skateboard V3 (Agrabah) (Objekt / Object)
+08C3	Skateboard V4 (Arena Des Olypmps / Olympus Coliseum) (Objekt / Object)
+08C4	Skateboard V5 (Port Royal) (Objekt / Object)
+08C5	Skateboard V6 (Space Paranoids) (Objekt / Object)
+[/UCM]
+[MED]
+VALUE>NAME	
+040	2x
+080	4x
+0C0	8x
+100	16x
+140	32x
+180	64x
+1C0	128x
+[/MED]
+[ACG]
+VALUE>NAME	
+00	700
+01	800
+02	800
+03	900
+04	1000
+05	1100 
+06	1200
+[/ACG]
+[ACT]
+VALUE>NAME	
+00	100
+01	200
+02	300
+03	400
+04	500
+[/ACT]
+[IEM]
+VALUE>NAME	
+0001	Potion
+0002	High-Potion
+0003	Ether
+0004	Elixir
+0005	Mega-Potion
+0006	Mega-Ether
+0007	Mega-Elixir
+0008	Ability Ring
+0009	Engineer's Ring
+000A	Technician's Ring
+000B	Expert's Ring
+000C	Sardonyx Ring
+000D	Tourmaline Ring
+000E	Aquamarine Ring
+000F	Garnet Ring
+0010	Diamond Ring
+0011	Silver Ring
+0012	Gold Ring
+0013	Platinum Ring
+0014	Mythril Ring
+0015	Fire Element
+0016	Blizzard Element
+0017	Thunder Element
+0018	Cure Element
+0019	Ukulele Charm (Summon Stitch)
+001A	Valor Form
+001B	Wisdom Form
+001C	Orichalcum Ring
+001D	Final Form
+001E	Anti-Form
+001F	Master Form
+0020	Torn Pages
+0022	Master's Amulet
+0023	Moon Amulet
+0024	Star Charm
+0026	Skill Ring
+0027	Skillful Ring
+0028	Soldier Earring
+0029	Kingdom Key
+002A	Oathkeeper
+002B	Oblivion
+002C	Detection Saber
+002D	Edge Of Ultima 
+002E	Fencer Earring
+002F	Mage Earring
+0030	Slayer Earring
+0031	Knights Shield
+0032	Detection Shield
+0033	Test The King (Shield)
+0034	Cosmic Ring
+0035	Medal
+0036	Battlefields Of War
+0037	Sword Of Ancestors
+0038	Cosmic Arts
+003B	Beast's Claw
+003C	Bone Fist
+003D	Proud Fang
+003E	Skill And Crossbones
+003F	Lucky Ring
+0041	Draw Ring
+0043	Elven Bandana
+0044	Divine Bandana
+0045	Power Band
+0046	Buster Band
+0047	Anti-Form Dummy
+0048	Scimitar
+0049	Way Of Dawn
+004A	Identity Disk
+004B	Mage's Staff
+004E	Protect Belt
+004F	Gaia Belt
+0050	Fake (Looks Like Sword Of Ancestors)
+0051	Fake (Keyblade,Looks Like Kingdom Key)
+0057	Magnet Element
+0058	Reflect Element
+0059	Navigational Map (Map For Debug Mode???)
+005A	Castle Map
+005B	Basement Map
+005C	Castle Walls Map
+006F	Cosmic Belt
+0070	Encampment Area Map
+0071	Village Area Map
+0072	Cornerstone Hill Map
+0073	Window Of Time Map 2
+0074	Lilliput Map
+0075	Building Site Map
+0076	Mickey's House Map
+0077	Disney Castle Map
+0078	Agrahbah Map
+0079	Cave Of Wonders Map
+007A	Ruins Map
+007B	Undersea Kingdom Map
+007C	Starry Hill Map
+007D	100 Acre Wood Map
+007E	Rabbit's Howse Map
+007F	Piglett's Howse Map
+0080	Kanga's Howse Map
+0081	Spooky Cave Map
+0082	Palace Map
+0083	Tent
+0086	Coliseum Map
+0087	Underworld Map
+0088	Cavern's Map
+008B	Adamant Shield
+008C	Chain Shield
+008D	Ogre Shield
+008E	Falling Star
+008F	Dream Cloud
+0090	Knight Defender
+0091	Genji Shield
+0092	Akashic Record
+0093	Nobody Guard
+0094	Hammer Staff
+0095	Victory Bell
+0096	Meteor Staff
+0097	Comet Staff
+0098	Lord's Broom
+0099	Wisdom Wand
+009A	Rising Dragon
+009B	Nobody Lance
+009C	Shaman's Relic
+009F	Lamp Charm (Summon Aladdin)
+00A0	Feather Charm (Summon Peter Pan)
+00A1	Staff Of Detection (Detects Movement?)
+00AD	Fire Bangle
+00AE	Fira Bangle
+00C5	Firaga Bangle
+00E2	Secret Report 1
+00E3	Secret Report 2
+00E4	Secret Report 3
+00E5	Secret Report 4
+00E6	Secret Report 5
+00E7	Secret Report 6
+00E8	Secret Report 7
+00E9	Secret Report 8 
+00EA	Secret Report 9
+00EB	Secret Report 10
+00EC	Secret Report 11
+00ED	Secret Report 12
+00EE	Secret Report 13
+00FA	Halloween Town Map
+00FB	Naval Map
+00FC	Pride Rock Map
+00FD	Marketplace Map
+00FE	Pit Cell Area Map
+00FF	Twighlight Town Map
+0100	Dark City Map
+0101	Master Strike (Ability)
+0102	Disaster (Ability)
+0103	Endless Magic (Ability)
+0104	(Blank)
+0105	Master Magic (Ability)
+0106	Slapshot (Ability)
+0107	Dodge Slash (Ability)
+0108	Slide Dash (Ability)
+0109	Guard Break (Ability)
+010A	Explosion (Ability)
+010B	Finishing Leap (Ability)
+010C	Counterguard (Ability)
+010D	Aeriel Sweep (Ability)
+010E	Aeriel Spin (Ability)
+010F	Horizontal Slash (Ability)
+0110	Aeriel Finale (Ability)
+0111	Retaliating Slash (Ability)
+0112	Drive Recovery
+0113	High Drive Recovery
+0114	Power Boost
+0115	Magic Boost
+0116	Defense Boost
+0117	Ap Boost
+0118	Dark Shard
+0119	Dark Stone
+011A	Dark Gem
+011B	Dark Crystal
+011C	Firagun Bangle (Def+3, Fire 25%)
+011D	(Blank)
+011E	Blizzard Armlet (Def+1, Ice 20%)
+011F	Blizzara Armlet (Def+2, Ice 20%)
+0120	Blizzaga Armlet (Def+3, Ice 20%)
+0121	Blizzagun Armlet (Def+3, Ice 25%)
+0122	(Blank)
+0123	Thunder Trinket (Def+1, Thunder 20%)
+0124	Thundara Trinket (Def+2, Thunder 20%)
+0125	Thundaga Trinket (Def+3, Thunder 20%)
+0126	Thundagun Trinket (Def+3, Thunder 25%)
+0127	(Blank)
+0128	Shadow Anklet (Def+1, Dark 20%)
+0129	Dark Anklet (Def+2, Dark 20%)
+012A	Midnight Anklet (Def+3, Dark 20%)
+012B	Chaos Anklet (Def+3, Dark 25%)
+012D	Abas Chain (Def+1, F/I/T 20%)
+012E	Aegis Chain (Def+2, F/I/T 20%)
+012F	Acrisius (Def+3, F/I/T 20%)
+0130	Ribbon (Def+4,F/I/T/D 20%)
+0131	Championship Belt (F/I/T 20%)
+0132	Petit Ribbon (Def+4, F/I/T/D 10%)
+0133	Acrisius+ (Def+3, F/I/T 25%)
+0134	Cosmic Chain (Def+3, F/I/T 30%)
+013D	Blaze Shard
+013E	Blaze Stone
+013F	Blaze Gem
+0140	Blaze Crystal
+0145	Lightning Shard
+0146	Lightning Stone
+0147	Lightning Gem
+0148	Lightning Crystal
+0149	Power Shard
+014A	Power Stone
+014B	Power Gem
+014C	Power Crystal
+014D	Lucid Shard
+014E	Lucid Stone
+014F	Lucid Gem
+0150	Lucid Crystal
+0151	Dense Shard
+0152	Dense Stone
+0153	Dense Gem
+0154	Dense Crystal
+0155	Twighlight Shard
+0156	Twilight Stone
+0157	Twilight Gem
+0158	Twilight Crystal
+0159	Mythril Shard
+015A	Mythril Stone
+015B	Mythril Gem
+015C	Mythril Crystal
+015D	Bright Shard
+015E	Bright Stone
+015F	Bright Gem
+0160	Bright Crystal
+0161	Energy Shard
+0162	Energy Stone
+0163	Energy Gem
+0164	Energy Crystal
+0165	Serenity Shard
+0166	Serenity Stone
+0167	Serenity Gem
+0168	Serenity Crystal
+0169	Orichalcum+
+016A	Munny Pouch
+016B	Crystal Orb
+016C	Seifer's Trophy
+016D	Tournament Poster
+016E	Poster
+016F	Letter
+0170	Namine's Sketches
+0171	Membership Card
+0172	Olympus Stone
+0173	Auron's Statue
+0174	Cursed Medallion
+0175	Present
+0176	Decoy Presents
+0177	Ice Cream
+0178	Picture
+0179	Orichalcum
+017A	Frost Shard
+017B	Frost Stone
+017C	Frost Gem
+017D	Frost Crystal
+017E	Rabbit's Howse Map
+017F	Baseball Charm (Summon Chicken Little)
+0180	Struggle Sword
+0181	?
+0182	Auto Wisdom (Ability)
+0183	Auto Master (Ability)
+0184	Auto Final (Ability)
+018F	Summon Boost Skill (Ability)
+0190	Combination Boost
+0191	Experience Boost
+0192	Leaf Bracer
+0193	Magic Lock-On
+0194	No Experience
+0195	Draw
+0196	Jackpot
+0197	Lucky Lucky
+0198	Fire Boost
+0199	Blizzard Boost
+019A	Thunder Boost
+019B	Item Boost
+019C	Mp Rage
+019D	Mp Haste
+019E	Defender
+019F	Second Chance
+01A0	Once More
+01A1	Auto Limit
+01A2	Auto Change
+01A3	Hyper Healing
+[ABD]
+VALUE>NAME	
+052	Guard (Ability)
+05E	Hight Jump Lvl 1 (Ability)
+05F	Hight Jump Lvl 2 (Ability)
+060	Hight Jump Lvl 3 (Ability)
+061	Hight Jump Max (Ability)
+062	Quick Run Lvl 1 (Ability)
+063	Quick Run Lvl 2 (Ability)
+064	Quick Run Lvl 3 (Ability)
+065	Quick Run Max (Ability)
+066	Aeriel Dodge Lvl 1 (Ability)
+067	Aeriel Dodge Lvl 2 (Ability)
+068	Aeriel Dodge Lvl 3 (Ability)
+069	Aeriel Dodge Max (Ability)
+06A	Glide Lvl 1 (Ability)
+06B	Glide Lvl 2 (Ability)
+06C	Glide Lvl 3 (Ability)
+06D	Glide Max (Ability)
+089	Upper Slash (Ability)
+08A	Scan (Ability)
+09E	Aerial Recovery (Ability)
+0A2	Combo Plus (Ability)
+0A3	Air Combo Plus (Ability)
+0A5	Donald Fire (Ability)
+0A6	Donald Blizzerd (Ability)
+0A7	Donald Thunder (Ability)
+0A8	Donald Cure (Ability)
+0B0	Healing Water (Ability)
+0B1	Furious Shout (Ability)
+0BB	Cure Potion (Ability)
+0BE	Healing Herb (Ability)
+0C3	Slow 3 (Ability,Delete)
+0C6	Trinity Limit (Ability)
+0C7	Fantasia (Ability)
+0C8	Flare Force (Ability)
+0C9	Tornado Fusion (Ability)
+0CA	Teamwork (Ability)
+0CB	Trick Fantasy (Ability)
+0CC	Overdrive (Ability)
+0CD	Howling Moon (Ability)
+0CE	Applause, Applause! (Ability)
+0CF	Dragon Blaze (Ability)
+0D0	Eternal Session (Ability)
+0D1	King's Pride (Ability)
+0D2	Treasure Isle (Ability)
+0D3	Complete Compilement (Ability)
+0D7	Pulsing Thunder (Ability)
+0D8	Brave Shot (Ability)
+0D9	Brave Beat (Ability)
+0DA	Sonic Strike (Ability)
+0DB	Sonic End (Ability)
+0DC	Wisdom Shot (Ability)
+0DD	Mobile Action (Ability)
+0DF	Synch Blade (Ability)
+0E0	Magic Haste (Ability)
+0E1	Magic Spice (Ability)
+0F6	Over The Horizon (Ability)
+0F7	Omega Final (Ability)
+0F8	Reflect Dummy (Ability)
+0F9	Upper Dummy (Ability)
+101	Master Strike (Ability)
+102	Disaster (Ability)
+103	Endless Magic (Ability)
+105	Master Magic (Ability)
+106	Slap Shot (Ability)
+107	Dodge Slash (Ability)
+108	Slide Dash (Ability)
+109	Guard Break (Ability)
+10A	Explosion (Ability)
+10B	Finishing Leap (Ability)
+10C	Counterguard (Ability)
+10D	Aerial Sweep (Ability)
+10E	Aerial Spiral (Ability)
+10F	Horizontal Slash (Ability)
+110	Aeriel Finale (Ability)
+111	Reraliation Slash (Ability)
+181	Auto Valor (Ability)
+182	Auto Wisdom (Ability)
+183	Auto Master (Ability)
+184	Auto Final (Ability)
+185	Auto Summon (Ability)
+186	Combo Boost (Ability)
+187	Air Combo Boost (Ability)
+188	Reaction Boost (Ability)
+189	Finishing Plus (Ability)
+18A	Negative Combo (Ability)
+18B	Berserk Charge (Ability)
+18C	Damage Drive (Ability)
+18D	Drive Boost (Ability)
+18E	Form Boost (Ability)
+18F	Summon Boost (Ability)
+190	Combination Boost (Ability)
+191	Experience Boost (Ability)
+192	Leaf Bracer (Ability)
+193	Magic Lock-On (Ability)
+194	No Experience (Ability)
+195	Draw (Ability)
+196	Jack Pot (Ability)
+197	Luck Luck (Ability)
+198	Fire Boost (Ability)
+199	Blizzard Boost (Ability)
+19A	Thunder Boost (Ability)
+19B	Item Boost (Ability)
+19C	Mp Rage (Ability)
+19D	Mp Haste (Ability)
+19E	Defender (Ability)
+19F	Second Change (Ability)
+1A0	Once More (Ability)
+1A1	Auto Limit (Ability)
+1A2	Auto Change (Ability)
+1A3	Hyper Healing (Ability)
+1A4	Auto Healing (Ability)
+1A5	Mp Hastera (Ability)
+1A6	Mp Hastega (Ability)
+1A7	Goofy Tornado (Ability)
+1A8	Unknown 1
+1A9	Goofy Turbo (Ability)
+1AA	Unknown 2
+1AB	Unknown 3
+1AC	Unknown 4
+1AD	Goofy Bash (Ability)
+1AE	Unknown 5
+1AF	Unknown 6
+1B0	Unknown 7
+1B1	Unknown 8
+1B2	Unknown 9
+1B3	Unknown 10
+1B4	Unknown 11
+1B5	Unknown 12
+1B6	Unknown 13
+1B7	Unknown 14
+1B8	Unknown 15
+1B9	Unknown 16
+1BA	Unknown 17
+1BC	Scouting Disk (Ability)
+1BD	Slow 2 (Ability, Deleted)
+1BE	No Mercy (Ability)
+1BF	Rain Storm (Ability)
+1C0	Bone Smash (Ability)
+1C1	Unknown 18
+1C2	Unknown 19
+1C3	Unknown 20
+1C4	Unknown 21
+1C5	Unknown 22
+1C6	Unknown 23
+1C7	Unknown 24
+1C8	Unknown 25
+1C9	Unknown 26
+1CA	Unknown 27
+1CB	Unknown 28
+1CC	Unknown 29
+1CD	Unknown 30
+1CE	Unknown 31
+1CF	Unknown 32
+1D0	Unknown 33
+1D1	Unknown 34
+1D2	Unknown 35
+1D3	Unknown 36
+1D4	Unknown 37
+1D5	Unknown 38
+1D6	Unknown 39
+1D7	Unknown 40
+1D8	Unknown 41
+1D9	Unknown 42
+1DA	Unknown 43
+1DB	Unknown 44
+1DC	Unknown 45
+1DD	Unknown 46
+1DE	Unknown 47
+1DF	Unknown 48
+207	Auto Assault (Ability)
+208	Finishing Blast (Ability)
+209	Combo Upper (Ability)
+20A	Aerial Impulse (Ability)
+20B	Retaliation Smash (Ability)
+20D	Running Tackle (Ability)
+20E	Dash (Ability)
+20F	Final Arcana (Ability)
+211	Final Arts (Ability)
+212	Crime & Punishment (Ability)
+[\ABD]

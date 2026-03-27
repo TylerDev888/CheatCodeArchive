@@ -1,0 +1,1709 @@
+^2 = GameID: CUSA26646,CUSA26647,CUSA26638,CUSA26641
+^3 = NAME: Atelier Lydie & Suelle The Alchemists And The Mysterious Paintings DX
+^SECONDLAYER: YES
+^4 = FILE: GAMEDATA[0-9]{2}\SYSTEM.DAT
+!ITEMS:
++Set Quality To 999 All Items [1-4000]
+%Credits: XxUnkn0wnxX>Lotus
+$8001000F 6D5F756E
+$6974436F 6E746169
+$6E657200 00000000
+$49000018 0000E703
+$49C40026 00000000
+$4901730A 0000E703
+$49C40026 00000000
++Set Quality to 999 All Of Selected Section 
+$[SECTION]
+$6C080001 00000004
+$6A000003 00000000
+$6C020103 00000000
+$6C340003 00000000
+$6C200002 00000026
+$6C120002 00000001
+$6C030002 00000000
+$6C020102 00000000
+$6C300002 00000000
+$4D000004 0000E703
+$13880026 00000000
+$9D000000 FFFFFFFF
++Add/Mod Items To Section
+%Credits: Lotus
+$[SECTION]
+$6C080001 00000004
+$6A000003 00000000
+$6C020103 00000000
+$6C340003 00000000
+$6C200002 00000026
+$6C120002 00000001
+$6C030002 00000000
+$6C020102 00000000
+$6C300002 00000000
+$18000002 0000[IIII<*ITEMID>]
+$28000004 [AMOUNT:3E80000:FLOAT:LITTLE<Quality>]
+$18000008 0000[PPPP<*Traits1>]
+$1800000A 0000[PPPP<*Traits2>]
+$1800000C 0000[PPPP<*Traits3>]
+$1800000E 0000[EEEE<*Effects1>]
+$18000010 0000[EEEE<*Effects2>]
+$18000012 0000[EEEE<*Effects3>]
+$18000014 0000[EEEE<*Effects4>]
+$0800001A 00000080
+$0800001D 000000[AMOUNT:63:HEX:BIG<Item Uses -Consumables & Items>]
+$08000023 000000[AMOUNT:63:HEX:BIG<Item Amount>]
+$9D000000 FFFFFFFF
+!!
+^6 = MODS:
+[SECTION]
+VALUE>NAME
+80010015 ED0E0000 6D5F756E 69744261 736B6574 0000000E D8000000 00000000 92000000 00000011	Basket (Max 120 Slots)
+8001001E F60E0000 6D5F756E 69744261 736B6574 496D706F 7274616E 74000000 0ED80000 00000000 92000000 0000001A	BasketImportant
+80010018 48E60200 6D5F756E 6974436F 6E746169 6E657200 0002E630 00000000	92000000 00000014	m_unitContainer
+80010021 F90E0000 6D5F756E 6974436F 6E746169 6E657249 6D706F72 74616E74 0000000E D8000000 92000000 0000001D	m_unitContainerImportant
+80010022 8E070000 6D5F756E 6974436F 6E746169 6E657245 7870656E 6461626C 65000000 076C0000 92000000 0000001E	m_unitContainerExpendable
+8001001E F60E0000 6D5F756E 6974436F 6E746169 6E657257 6561706F 6E000000 0ED80000 00000000 92000000 0000001A	m_unitContainerWeapon
+8001001D F50E0000 6D5F756E 6974436F 6E746169 6E657241 726D6F72 0000000E D8000000 00000000 92000000 00000019	m_unitContainerArmor
+80010021 D11D0000 6D5F756E 6974436F 6E746169 6E657241 63636573 736F7279 0000001D B0000000 92000000 0000001D	m_unitContainerAccessory
+8001001B 7B660000 6D5F756E 69744578 7465726E 616C4461 74610000 00666000	92000000 00000017	m_unitExternalData
+[/SECTION]
+[IIII]
+VALUE>ITEM
+0000	Taun
+0001	Tall Taun
+0002	Triple Taun
+0003	Mystic Herb
+0004	Cobalt Grass
+0005	Winged Plant
+0006	Golden Tree Leaf
+0007	Uni
+0008	Weiss Wheat
+0009	Moisture Grass
+000A	Wild Cotton
+000B	Princess Grass
+000C	Red Flower
+000D	Blue Flower
+000E	Green Flower
+000F	Yellow Flower
+0010	Purple Flower
+0011	Merveille Rouge
+0012	Dunkelheit
+0013	Star Flower
+0014	Beehive
+0015	Silver Beehive
+0016	Golden Beehive
+0017	Candy Beehive
+0018	Nectar Fruit
+0019	Starfruit
+001A	Blackberry
+001B	Snow Queen
+001C	Slime Mushroom
+001D	Fairy Parasol
+001E	Darkshroom
+001F	Smoke Fungus
+0020	Soil Potato
+0021	Milk
+0022	Fresh Meat
+0023	Beast Meat
+0024	Unknown Egg
+0025	Large Egg
+0026	Wool
+0027	Monster Bird Feather
+0028	Griffon Feather
+0029	Bat Wing
+002A	Turtle Claw
+002B	Animal Hide
+002C	Tough Bone
+002D	Horn
+002E	Big Beast Bone
+002F	Wicked Fang
+0030	Jelly Gem
+0031	Rabbit Fur
+0032	Big Scale
+0033	Wicked Bone
+0034	Lady Bug
+0035	Big Horned Beetle
+0036	Baby Wilm
+0037	Ingot Bug
+0038	Leiden Dragonfly
+0039	Comet Butterfly
+003A	Chestnut Weevil
+003B	Helmeted Grasshopper
+003C	Killer Bee
+003D	Gem Fly
+003E	Pretty Shells
+003F	Wascher
+0040	Butterfly Fish
+0041	Camber
+0042	Sea Snail
+0043	Crab
+0044	Lobster
+0045	Balloon Fish
+0046	Sea Horse
+0047	Old Master
+0048	Master of Ice
+0049	Master of Fire
+004A	Rapier Fish
+004B	Mace Fish
+004C	Blue Puniballs
+004D	Green Puniballs
+004E	Red Puniballs
+004F	Gold Puniballs
+0050	Dragon Scale
+0051	Dragon Core
+0052	Dragon Bloodstone
+0053	Great Tail
+0054	Drinking Water
+0055	Well Water
+0056	Crackling Water
+0057	Zapping Water
+0058	Lakebottom Water
+0059	Suspicious Liquid
+005A	Puni Liquid
+005B	Star Powder Water
+005C	Holy Water
+005D	Eternal Ice
+005E	Paper Scraps
+005F	Church Talisman
+0060	High Class Talisman
+0061	Pious Talisman
+0062	Backen's Bromide
+0063	Plant Oil
+0064	Oil Tree Fruit
+0065	Mineral Oil
+0066	Kifa
+0067	Raven Wood
+0068	Aroma Holts
+0069	Silver Web
+006A	Golden Threads
+006B	Natural Fertilizer
+006C	Red Sand
+006D	Black Sand
+006E	White Sand
+006F	Sand Crystals
+0070	White Ash Stone
+0071	Golden Rock
+0072	Broken Rock
+0073	Gravistone
+0074	Ertona Crystal
+0075	Eisen Ore
+0076	Leiden Ore
+0077	Kupfer Ore
+0078	Kaen Stone
+0079	Hakurei Stone
+007A	Steel Balls
+007B	Black Tree Stone
+007C	Soul Stone
+007D	Ripple Stone
+007E	Magnet Stone
+007F	Kimberlite
+0080	Black Star Stone
+0081	Spirit Rock
+0082	Rainbow Corundum
+0083	Crystal Shards
+0084	Blue Crystal
+0085	Deep Core
+0086	Small Statue of Hagel
+0087	Pendant Rock
+0088	Water Crystal
+0089	Marble Salt
+008A	Lotus
+008B	Lava Ore
+008C	Alberich
+008D	Purple Needles
+008E	Shining Powder
+008F	Old Stone
+0090	Incluse Amber
+0091	Tears of Heaven
+0092	Time Guard Flower
+0093	Ancient Water
+0094	Dragon Eye
+0095	Archeus Anima
+0096	Chaotic Dirt
+0097	Judgement Calling Stone
+0098	Terminus Leaf
+009E	Chariot Milk
+009F	Carrot
+00A0	Junk
+00A1	Mandragora Root
+00B3	Uni Bag
+00B4	Bomb
+00B5	Ice Bomb
+00B6	Lightning Bomb
+00B7	Craft
+00B8	Luft
+00B9	Ori Bomb
+00BA	Stahl Ice Bomb
+00BB	Lightning Crystal
+00BC	Eisen Luft
+00BD	Wandering Globe
+00BE	God's Gift
+00BF	Bursting Gift
+00C0	Heaven's Cleanser
+00C1	N/A
+00C2	Flame of Origin
+00C3	Flame of the End
+00C4	Seal Canvas
+00C5	Spirit-driven Ball
+00C6	Heiter Sturm
+00C7	Schnee Sturm
+00C8	Merry Toy Box
+00D3	Healing Pads
+00D4	Simple Cookies
+00D5	Puni Jelly
+00D6	Healing Elixir
+00D7	Strength Meat
+00D8	Fruit Tea
+00D9	Breezy Aroma
+00DA	Honey Syrup
+00DB	Nectar of Life
+00DC	Elixir of Laawe
+00DD	Mystery Elixir
+00DE	Deluxe Pancakes
+00DF	Sweet Tea
+00E0	Red Puni Jelly
+00E1	Reviving Dew
+00EC	Imp's Mischief
+00ED	Pure Aroma
+00EE	Acid Fog
+00EF	Medea's Poison
+00F0	Dark Water
+00F1	Warding Incense
+00F2	Spirit Weave Cloth
+00F3	Hero's Medicine
+00F4	Triton's Trumpet
+00F5	Himmelle Relief
+00F6	Colorful Powder
+00F7	Thousand Bookmarks
+00F8	Prism Crystal
+00F9	Anfelite
+00FA	Ice Fog Stick
+00FB	Broken Coin
+00FC	Spiral Clock
+00FD	Star Sprinkler
+00FE	Black and White Tarot
+00FF	Pigeon Blood Oil
+010A	Fishing Rod
+010B	High Grade Rod
+010C	Liebel Crown God Rod
+010D	Insect Net
+010E	Light Insect Net
+010F	Water Bag
+0110	Special Nutrient
+0111	Fairy Dust Bag
+0112	Wind God's Bag
+0113	Special Backpack
+0114	Gathering Gloves
+0115	Mining Bomb
+0116	Super-explosive Bomb
+011E	Red Neutralizer
+011F	Blue Neutralizer
+0120	Yellow Neutralizer
+0121	Green Neutralizer
+0122	Purple Neutralizer
+0123	Rainbow Neutralizer
+0124	Distilled Water
+0125	Honey
+0126	Wheat Flour
+0127	Apcol
+0128	Pure Oil
+0129	Zettel
+012A	Tanning Fluid
+012B	Leather
+012C	Multicolor Dye
+012D	Polish
+012E	Alchemic Clay
+012F	Ashes of Origin
+0130	Globe Ball
+0131	Tasty Looking Bait
+0132	Ingot
+0133	Silvalia
+0134	Gold Eisen
+0135	Harmonium
+0136	Cloth
+0137	Moffcloth
+0138	Flugel
+0139	Velvetis
+013A	Raw Jet
+013B	Raw Granate
+013C	Raw Smaragd
+013D	Raw Sapphire
+013E	Raw Ruby
+013F	Raw Diamonds
+0140	Jet
+0141	Granate
+0142	Smaragd
+0143	Sapphire
+0144	Ruby
+0145	Diamonds
+0146	Malmore Comet
+0147	Crimson Stone
+0148	Philosopher's Stones
+0149	Cute Philosopher's Stones
+014A	Activator
+014B	Wahrheit
+014C	Liquid Gold
+014D	Heating Pottery Stone
+014E	Reaction Fats and Oils
+014F	Comet Crest Stone
+0150	Holy Acid
+0151	Dragon Acid
+0152	Deep Blue Stone
+0153	Dream Paintbrushes
+0154	Dream Paintbrushes?
+0155	Paint of Proud Heart
+0156	Paint of High-minded Waters
+0157	Paint of Frozen Phantom
+0158	Paint of Wandering on the Edge
+0159	Paint of Eternal Celestial Land
+015A	Paint of Dreaming Night Sky
+015B	Paint of Sinking Evil Darkness
+015C	Neverending Diary
+015D	Paint of the Two
+015E	Pastels of Unity
+015F	Glittering Pneuma
+0160	Relentless Flame
+0161	Teardrops of Harmony
+0162	Strong Reaction Cauldron
+0163	Samsara Compass
+0164	Commutation
+0165	Rose Crown of Adalet
+0166	Ice Box
+0167	Lightning Finder
+0168	Cold Wind Engine
+0169	Goblet
+016A	Silverware Set
+016B	Stomach-ache Medicine
+016C	Strong Cold Medicine
+016D	Liquefaction Solution
+016E	Energy Alliance
+016F	Bravery Alliance
+0170	Blason of Ferocity
+0171	Blason of Divine Power
+0172	Orb of Speed of Light
+0173	Orb of Divine Speed
+0174	Emblem of Gordian Knot
+0175	Jet Gear
+0176	Smaragd Pommel
+0177	Sapphire Pommel
+0178	Ruby Pommel
+0179	Marble Gear
+017A	Diamond Rune Stone
+017B	Herculean Gear
+017C	Great Warrior Orden
+017D	Bond of Wisdom
+017E	Quartz Gear
+017F	Cabochon Gear
+0181	Sp. Plant Nutrient
+0186	Ravatite Light
+0187	Blizzard Weave
+0188	Concussion Canon
+0189	Tempest Blade
+018A	Immortal Essence
+018B	Herb Fragrance
+018C	Hammer of Peaceful Sleep
+018D	Primal Aqua
+018E	Curtain of Darkness
+018F	Pendulum of Experience
+0190	Quadruple Shield
+0191	Super-speed Wind-up Key
+0192	Light-beam Prism
+0193	Hammer of Eternal Sleep
+0194	Flame Meteor
+0195	Gjallarhorn
+0196	Emergency Smoke Bomb
+0197	All-In Super-Bomb
+0198	Very Deadly Poison
+0199	Linking Chain
+019A	Cosmo Bomb
+019B	Lightning Flash
+019C	Crystal Ice Bomb
+019D	Air Compressor
+019E	Piercing Uni
+019F	Energy Cookie
+01A0	Wandering Earth
+01A1	Cutie Tea
+01A2	Peaceful Aroma
+01A3	The Darkness
+01A4	Velvety Cake
+01A5	Chunk of Soy Meat
+01A6	Big Bang Bomb
+01A7	Absolute Zero
+01A8	Lightning Strike
+01A9	Final Lofter
+01AA	King Puni Jelly
+01AB	Rainbow Veil
+01AC	Breath of Life
+01AD	N/A type Σ
+01B8	Beginner's Staff
+01B9	Whisper Rod
+01BA	Misty Mirage
+01BB	Revere Heart
+01BC	Bloom Spiral
+01BD	Light Glitter
+01BE	Pirate Flare
+01BF	Accel Keeper
+01C0	Liberated Soul
+01C1	Star Suelle
+01C2	Hawkeye Bow
+01C3	Surf Bow
+01C4	Shooting Star
+01C5	Celestial Bow
+01C6	Leitzelstein
+01C7	Blessing Staff
+01C8	Binary Star
+01C9	Blue Wings Mistletoe
+01CA	Magic Lantern of Wisdom
+01CB	Staff of Time and Universe
+01CC	Oracle Blade
+01CD	Klinge Mähne
+01CE	Chevalier Rouge
+01CF	Boar Fang
+01D0	Victory's Favor
+01D1	Summary of Arts
+01D2	Silver Book of Idea
+01D3	Praeteritum
+01D4	Book of Secret Arts Lectalion
+01D5	Book of Darkness Adagies
+01D6	Noble Parasol
+01D7	Belle Corolla
+01D8	Merk Parasol
+01D9	Lady of Tendresse
+01DA	Super Powerful Luciabrella
+01DB	Fire Ring Staff
+01DC	Spinel Blessing
+01DD	Genius Circle
+01DE	Gale Tempester
+01DF	Leinweber's Jeweled Cane
+01EA	Thick Cloth Armor
+01EB	Cotton Armor
+01EC	Colorful Robes
+01ED	Silver Thread Armor
+01EE	Nightshade
+01EF	Leather Armor
+01F0	Yarn Coat
+01F1	Riveted Leather Armor
+01F2	Hard Robes
+01F3	Bone Mail
+01F4	Metal and Leather Mail
+01F5	Scale Armor
+01F6	Alchemic Mail
+01F7	Breast Plate
+01F8	Dragoon Mail
+0203	Gnade Ring
+0204	Angel Ribbon
+0205	Firesoul Talisman
+0206	Windspirit Talisman
+0207	Icedream Talisman
+0208	Lightningphantom Talisman
+0209	Magic Stone Chain
+020A	Knuckle Guard
+020B	Lucky Coin
+020C	Ange Parure
+020D	Liberte Ring
+020E	Sauveur Ring
+020F	Dragon Scale Necklace
+0210	Battle Amulet
+0211	Long Boots
+0212	Gold Long Boots
+021D	New Dream Paintbrushes
+021E	Torn Teddy Bear
+021F	Teddy Bear
+0220	Broken Palette
+0221	Rainbow Palette
+0222	Air Drop
+0223	Bag of Air Drops
+0224	Backen's Broken Key
+0225	Backen's Key
+0226	Colorful Garden Fragments
+0227	Leaf Pattern Fragments
+0228	Shiny Crystal Fragments
+0229	Surging Hell Fire Fragments
+022A	Ancient Frost Fragments
+022B	Coin Pattern Fragments
+022C	Spiral Fragments
+022D	Falling Star Fragments
+022E	Jet Black Tile Fragments
+022F	Bloodstained Fragments
+0230	Sophie's Reference
+0231	Ilmeria's Reference
+0232	Roger's Reference
+0233	Firis' Reference
+0235	Painting World Scrap
+023B	Backen's Poem
+023C	Decorations
+023D	First Creation
+023E	Ore Processing Text
+023F	Encyclopedia of Gems Vol.
+0240	Encyclopedia of Gems Vol.
+0241	Application of Ornaments
+0242	Polishing Glamour
+0243	Protecting the World
+0244	Releasing Hidden Power
+0245	Legendary Materials
+0246	Book of Dragon Divination
+0247	E Rank Test Problem
+0248	Creating Air Drops
+0249	B Rank Test Problem
+024A	Recipe of Hope
+024B	Plachta's Recipe
+024C	Ilmeria's Recipe
+024D	Alt's Recipe
+024E	Firis' Recipe
+024F	Sophie's Recipe
+0250	Ornament Catalogue
+0251	Roger's Idea Note
+0252	Roger's Forbidden Book
+0253	Mother's Recipe Notes
+0254	Ilmeria's Homework
+0255	Book of Firis' Recipes
+0256	Basic Guidebook
+0257	Spirit Fire
+0258	My Way of Life
+0259	Handmade Puppet
+025A	Chick Stuffed Toy
+025B	Cute Stuffed Toy
+025C	Lucia's Request
+025D	Travel Gate
+025E	Growth Medicine
+025F	Portable Tent
+0260	Business License
+0261	Crokenbuffe
+0262	Simple Cookies
+0263	Marriage Registration Form
+0264	List
+0265	Ugly Plushy
+0266	Card Game
+0267	Beckoner of Luck
+026D	Experimental Nutrients
+026E	Gold Tree
+026F	Music Box
+0272	Alt's Textbook
+0274	Rock Cookie
+0275	Flyer
+0276	Ticket
+0277	Roasted Rabbit
+028B	Blitz Core Fire
+028C	Blitz Core Ice
+028D	Blitz Core Thunder
+028E	Blitz Core Wind
+028F	Manly Pickle Stone
+0290	Dimension Bomb
+0291	Omega Craft
+0295	Apple Tart
+0296	Mushroom Stew
+029A	Tonic Powder
+029B	Spark Mallet
+029F	Spiked Boots
+02A0	Special Elixir Nutrients
+02A1	Secret Bag
+02A9	Blason of Genesis
+02AA	Parasim of Courage
+02AB	Sphere of Wisdom
+02AC	Bond of Royalty
+02AD	Argento of Harmony
+02B3	Vetur Caput
+02B4	Sumar Caput
+02B5	Force Regen
+02B6	Absorption Caput
+02B7	Lion's Might
+02BD	Triple Bomb
+02BE	Wind Amber
+02BF	Adamantine Friction
+02C0	Battle Impulse Incense
+02C1	First Aid Kit
+02C7	Miracle Box
+02C8	Nemesis Canvas
+02C9	Super Deadly Ball
+02CA	Blessed Goblet
+02CB	Advent Relief
+02D1	White-Hot Headband
+02D2	Spirit Earrings
+02D3	Monochrome Glasses
+02D4	Time Control Hourglass
+02D5	Radiant Talisman
+02D6	Moonshine Talisman
+02D7	Phoenix Bracelet
+02D8	Treasure Grimoire
+02D9	Camo Cloak
+02DB	Belladonna
+02DC	Night Crown
+02DD	Bloody Spear
+02E5	Blue Ring
+02E6	Purple Ring
+02E7	Yellow Ring
+02E8	Floating Orbs
+02E9	Fragrant Powder
+02EA	Ensnaring Root
+02EB	Blue Sap
+02EC	Chipped Crystal
+02ED	Spirit of Service
+02EE	Ostracon Shell
+02EF	Blue Sky Tear
+02F0	Cannon Fruit
+02F1	Wind Rider Feather
+02F2	Nectar Springwater
+[/IIII]
+[PPPP]
+VALUE>Traits
+0000	Low Price
+0001	Low Price +
+0002	Low Price ++
+0003	Common Item
+0004	Mass Produced
+0005	Bargain
+0006	High Price
+0007	High Price +
+0008	High Price ++
+0009	High Class
+000A	Rare Item
+000B	Overpriced
+000C	Quality Up
+000D	Quality Up +
+000E	Quality Up ++
+000F	Well Made
+0010	Pro Perfection
+0011	Superb Quality
+0012	Destruction Up
+0013	Destruction Up +
+0014	Destruction Up ++
+0015	Big Destruction
+0016	Intense Destruction
+0017	Ultimate Destruction
+0018	Godlike Destruction
+0019	Fixed Power
+001A	Fixed Power +
+001B	Fixed Power ++
+001C	Pain in Numbers
+001D	Damage in Numbers
+001E	Big Damage Numbers
+001F	Destruction Legend
+0020	Increase Sharpness
+0021	Cutting Ability Up
+0022	Increase Aggression
+0023	Recovery Up
+0024	Recovery Up +
+0025	Recovery Up ++
+0026	Great Recovery
+0027	Intense Recovery
+0028	Ultimate Recovery
+0029	Blessed by Gods
+002A	Fixed Recovery
+002B	Fixed Recovery +
+002C	Fixed Recovery ++
+002D	Enhanced Medicine
+002E	Greatly Enhanced Medicine
+002F	Super Enhanced Recovery
+0030	Legendary Recovery
+0031	Critical
+0032	Critical +
+0033	Critical ++
+0034	Critical Finish
+0035	Half Critical
+0036	One Hit Kill
+0037	Stable Effect
+0038	Stable Effect +
+0039	Stable Effect ++
+003A	Stability Emphasis
+003B	Solid Effect
+003C	Boost Expected Value
+003D	Uses +1
+003E	Uses +2
+003F	Multiply
+0040	Uses -1
+0041	Uses -2
+0042	Reduction
+0043	Increase HP
+0044	Boost HP
+0045	Greatly Increase HP
+0046	Full of Life
+0047	Overflowing Life
+0048	Power of Life
+0049	Increase MP
+004A	Boost MP
+004B	Greatly Increase MP
+004C	Magician's Wisdom
+004D	Grand Magician's Wisdom
+004E	Wisdom of the Gods
+004F	Increase HPMP
+0050	Boost HPMP
+0051	Greatly Increase HPMP
+0052	Parameters +10%
+0053	Parameters +12%
+0054	Parameters +15%
+0055	Enhance the Body
+0056	Draw Out Power
+0057	Develop the Body
+0058	Evolve the Body
+0059	Enhance Attack
+005A	Boost Attack
+005B	Enhance Attack Greatly
+005C	Power of Beasts
+005D	Power of Destruction
+005E	Power of Gods
+005F	Enhance Defense
+0060	Boost Defense
+0061	Super Enhance Defense
+0062	Steel Defense
+0063	Diamond Defense
+0064	Dragon Scale Defense
+0065	Enhance Speed
+0066	Boost Speed
+0067	Super Enhance Speed
+0068	Speed of Skanda
+0069	Speed of Gods
+006A	Speed of Light
+006B	Enhance Equipment Effect
+006C	Boost Equipment Effect
+006D	Greatly Enhance Equip Effect
+006E	Brave's Equipment
+006F	Hero's Equipment
+0070	Divine Equipment
+0071	Enhance ATK-DEF
+0072	Enhance ATK-SPD
+0073	Enhance DEF-SPD
+0074	Enhance All Stats
+0075	Boost ATK-DEF
+0076	Boost ATK-SPD
+0077	Boost DEF-SPD
+0078	Boost All Stats
+0079	Extra Boost All Stats
+007A	Almighty Power
+007B	Flawless Body
+007C	Tenacious Body
+007D	Consumed MP -10%
+007E	Consumed MP -15%
+007F	Consumed MP -20%
+0080	Cut Consumed MP
+0081	Lower Consumed MP
+0082	Halve Consumed MP
+0083	Skill Power +10%
+0084	Skill Power +12%
+0085	Skill Power +15%
+0086	Enhance Skills
+0087	Boost Skills
+0088	Greatly Enhance Skills
+0089	Eco Skill Use
+008A	Reduce Skill Cost
+008B	Saving on Skills
+008C	Expert Skill
+008D	Super Skill
+008E	Soul Dwelling
+008F	Blessing of Strength
+0090	Blessing of Protection
+0091	Blessing of Skanda
+009E	Apply Sleep
+009F	Apply Poison
+00A0	Apply Slowness
+00A1	Apply Curse
+00A2	Apply Blindness
+00A3	Apply Burn
+00A4	Apply Healing Block
+00A5	Apply Seal
+00A6	Consume Soul
+00A7	Powerless Curse
+00A8	Defenseless Curse
+00A9	Slowness Curse
+00AA	Absorb Damage
+00AB	Absorb Damage +
+00AC	Absorb Damage ++
+00AD	Absorb HP
+00AE	Steal Life
+00AF	Absorb Soul
+00B0	Overpowered
+00B2	Dragon Menace
+00B3	Spirit Menace
+00B4	Alchemic Menace
+00B5	Forest Creature Menace
+00B6	Tiny Creature Menace
+00B7	Puni Menace
+00B8	Water Creature Menace
+00B9	Air Creature Menace
+00BA	Demon Menace
+00BB	Black Paint Menace
+00BC	God Menace
+00C9	Enhance Finisher
+00CA	Enhance Finisher +
+00CB	Enhance Finisher ++
+00CC	Merciless Blow
+00CD	Relentless Blow
+00CE	Ruthless Blow
+00CF	Area Bonus
+00D0	Area Bonus +
+00D1	Effective vs Many
+00D2	Multi Bonus
+00D3	Few Bonus
+00D4	Few Bonus +
+00D5	Effective vs One
+00D6	Single Bonus
+00D7	Few + Many Bonus
+00D8	Enhance Last
+00D9	Enhance Last +
+00DA	Final Blow
+00DB	Last Strike
+00DC	Compress Count
+00DD	Compress Count +
+00DE	Force Use
+00DF	Final One
+00E0	Boost Count
+00E1	Boost Count +
+00E2	Bonus Count Boost
+00E3	Enhance and Increase
+00E4	Fast Use
+00E5	Fast Use +
+00E6	Sonic Throw
+00E7	Terrific Throw
+00E8	Power Throw
+00E9	Power Throw +
+00EA	Strong Throw
+00EB	Cunning Wit
+00EC	Splendid Glory
+00ED	Benevolent Light
+00EE	Wild Instinct
+00EF	Persistent Faith
+00F0	Empty World
+00F1	Power of Madness
+00F2	Burning Passion
+00F3	Unwavering Spirit
+00F4	Fog of Illusion
+00F5	Bonds of Belief
+00F6	Hammer of Justice
+00F7	Dreadful King
+00F8	Star of Expectation
+00F9	Ray of Hope
+00FA	Awakening Courage
+00FB	Kind Soul
+00FC	Indomitable Soul
+00FD	Follow-up Pain Atk
+00FE	Follow-up Magic Atk
+00FF	Follow-up Fire Atk
+0100	Follow-up Ice Atk
+0101	Follow-up Lightning Atk
+0102	Follow-up Air Atk
+0103	Follow-up Rage Atk
+0104	Follow-up Poison Atk
+0105	Follow-up Burning Atk
+0106	Follow-up Silent Atk
+0107	Follow-up Sleep Atk
+0108	Follow-up Vampire Atk
+0109	Follow-up Power Split
+010A	Follow-up Guard Split
+010B	Follow-up Motion Split
+010C	Follow-up Drain Power
+010D	Follow-up Drain Defense
+010E	Follow-up Drain Motion
+010F	Glass Shield
+0110	Demon's Dominance
+0111	Forbidden Contract
+0112	Shroomtrooper Regen
+0113	Prospector Treasure
+0114	Mountain God Bless
+0115	Lich Form
+0116	Eternal Power
+0117	Shroomking's Regen
+0118	Uncontrolled Aura
+0119	Positive Risk
+011A	Negative Risk
+011B	Devil Shield
+011C	Evil God's Power
+011D	Heightened Soul
+011E	Flow of Gusts
+011F	Alchemic Star
+0120	Force Cure
+0121	Goddess' Curse
+0122	Verdict of Rage
+0123	Heal Stun
+0124	Perpetual Motion
+0125	Barrage Attack
+0126	Skillful Attack
+0127	Persistent Attack
+0138	Remove Attributes
+0139	Nectar of Dusk
+013A	Cure of All Illnesses
+013B	Full of Spirit
+013C	Frozen Delicacy
+013D	Light of Harmony
+013E	Top Grade Hardness
+013F	Diamond Shield
+0140	Tough
+0141	Demonic Power
+0142	Ceaseless Aura
+0143	Top Fashion
+0144	Cool Fashion
+0145	Hot Fashion
+0146	Pure Power
+0147	Dragon Aura
+0148	Dragon Soul
+0149	Dragon's Vitality
+014A	Controls Gravity
+014B	Light as Wind
+014C	Supreme Feel
+014D	Awakening Heal
+014E	Black Abyss
+014F	Ancient Shield
+0150	Aurora Drop
+0151	Twin Powers
+0152	Power of Evolution
+0153	Resonance Blade Sword
+0154	Resonance Blade Sacred
+0155	Resonance Shield Body
+0156	Resonance Shield Guard
+0157	Resonance Art Blink
+0158	Resonance Art Musou
+0159	Resonance All Heaven
+015A	Resonance All Truth
+015B	Red Shine
+015C	Blue Shine
+015D	Green Shine
+015E	Madder Shine
+015F	Black Shine
+0160	White Shine
+0161	Crimson Radiance
+0162	Azure Radiance
+0163	Jade Radiance
+0164	Scarlet Radiance
+0165	Dusk Radiance
+0166	Gold Radiance
+0167	Truth Fortune
+0168	Truth Knowledge
+0169	Truth Memory
+016A	Ultimate Stability
+016B	Ultimate Mobility
+016C	Ultimate Regeneration
+016D	Ultimate Criticality
+016E	Ultimate Conversion
+016F	Ultimate Evolution
+0170	Ultimate Vitality
+0171	Ultimate Mentality
+0172	Ultimate Enhancement
+0173	Ultimate Attack
+0174	Ultimate Defense
+0175	Ultimate Energy
+0176	Ultimate Strength
+0177	Ultimate Accuracy
+0178	Ultimate Evasion
+0179	Ultimate Fire Resistance
+017A	Ultimate Ice Resistance
+017B	Ultimate Thunder Resistance
+017C	Ultimate Air Resistance
+017D	Ultimate Resistance
+017E	Ultimate Support
+017F	Ultimate Compensation
+0180	Ultimate Recovery
+0181	Ultimate Turn-Around
+0182	Ultimate Mitigation
+0183	Ultimate Stunning Force
+0189	Divine Mobility
+018A	Divine Regeneration
+018B	Divine Conversion
+018C	Divine Enhancement
+018D	Divine Attack
+018E	Divine Defense
+018F	Divine Energy
+0190	Divine Strength
+0191	Divine Support
+0192	Divine Turn-Around
+0193	Resonance Blade Master
+0194	Resonance Shield Vajra
+0195	Resonance Art Glory
+0196	Resonance All Creation
+0197	Evil's Bane
+0198	Peerless Strike
+0199	Lightning Throw
+019A	Mighty Throw
+019B	Twin Powers Pair
+019C	Sun's Protection
+019D	Moon's Protection
+019E	Warrior Star
+019F	Holy Sacrifice
+01A0	Rose Fairy's Prayer
+[/PPPP]
+[EEEE]
+VALUE>Effects
+0000	Physical Damage S
+0001	Physical Damage M
+0002	Physical Damage L
+0003	Physical Damage XL
+0004	Savage Impact
+0005	Giant's Blow
+0006	Magical Damage S
+0007	Magical Damage M
+0008	Magical Damage L
+0009	Magical Damage XL
+000A	Raining Light
+000B	Hail of Magic Bullets
+000C	Fire Damage S
+000D	Fire Damage M
+000E	Fire Damage L
+000F	Fire Damage XL
+0010	Fires of Purgatory
+0011	Flames of Hell
+0012	Ice Damage S
+0013	Ice Damage M
+0014	Ice Damage L
+0015	Ice Damage XL
+0016	Ice Age
+0017	Ultimate Cold
+0018	Lightning Damage S
+0019	Lightning Damage M
+001A	Lightning Damage L
+001B	Lightning Damage XL
+001C	Judgment Bolt
+001D	God's Hammer
+001E	Air Damage S
+001F	Air Damage M
+0020	Air Damage L
+0021	Air Damage XL
+0022	Rending Wave
+0023	Storm of Dissolution
+0024	Power of Origin
+0025	Power of Creation
+002E	Light of the End
+002F	Aurora of Ruin
+0030	Falling Uni
+0031	Falling Puni
+0032	Falling Meteors
+0033	Falling ???
+0034	Falling Stars
+0035	Falling Bombs
+0036	Falling Tortoises
+0037	Gift from Heaven
+0038	Steal Some Life
+0039	Steal Life
+003A	Steal Lots of Life
+003B	k Explosion
+003C	m Explosion
+003D	t Explosion
+003E	Infinite Explosion
+003F	Purifying Light
+0040	Soul Burning Flame
+0041	Fusion Effect
+0042	Overwhelming Power
+0043	Spirit Wounding Power
+0044	Spreading Terror
+0045	High Pressure
+0046	Slipping Life
+0047	Heroic Passion
+0048	Heroic Aura
+0049	Heroic Soul
+005B	Piercing Damage S
+005C	Piercing Damage M
+005D	Piercing Damage L
+005E	Hits Vitals
+005F	Blue Flames
+0060	Pinpoint Flare
+0061	Slightly Slow Movement
+0062	Slow Movement
+0063	Greatly Slow Movement
+0064	Expand Effect Area
+0065	Expand Effect Area +
+0066	Expand Effect Area ++
+0067	Alive
+0068	Exhilarating
+0069	Enthusiastic
+006A	Black Bullets
+006B	Shooting Stars
+006C	Treat Hazardous Materials
+0073	Fiery Heart
+0074	Blazing Heart
+0076	Sharp Thorn
+0077	Exploding Thorn
+0078	Piercing Thorn
+008B	HP Recovery XS
+008C	HP Recovery S
+008D	HP Recovery M
+008E	HP Recovery L
+008F	HP Recovery XL
+0090	HP Recovery XXL
+0091	MP Recovery XS
+0092	MP Recovery S
+0093	MP Recovery M
+0094	MP Recovery L
+0095	MP Recovery XL
+0096	MP Recovery XXL
+0097	HPMP Recovery XS
+0098	HPMP Recovery S
+0099	HPMP Recovery M
+009A	HPMP Recovery L
+009B	HPMP Recovery XL
+009C	Calming Aroma
+009D	Sedative Aroma
+009E	Soothing Aroma
+00BD	Eat and Recover XS
+00BE	Eat and Recover S
+00BF	Eat and Recover M
+00C0	Eat and Recover L
+00C1	Eat and Recover XL
+00C2	Eat and Recover XXL
+00C3	A Little Filling
+00C4	Filling
+00C5	Very Filling
+00C6	Hard
+00C7	Difficult to Digest
+00C8	Digests Quickly
+00C9	Unsavory
+00CA	Very Delicious
+00CB	Cold
+00CC	Warm
+00CD	Hot
+00CE	Sloppy
+00CF	Jiggly
+00D0	Unique Texture
+00D1	Crumbly
+00D2	Fluffy
+00D3	Strangely Elastic
+00D5	Boils Automatically
+00D6	Automatic Cooking
+00D7	Fully Automatic Cooking
+00F2	Recovery Bonus XS
+00F3	Recovery Bonus S
+00F4	Recovery Bonus M
+00F5	Recovery Bonus L
+00F6	Refreshing
+00F7	Clears the Mind
+00F8	Awakening
+00F9	Cure Dizziness
+00FA	Stimulating
+00FB	Rejuvenates
+00FC	Recover from KO XS
+00FD	Recover from KO S
+00FE	Recover from KO M
+00FF	Recover from KO L
+0100	Recover from KO XL
+0101	Cures Sleep
+0102	Cures Poison
+0103	Cures Burns
+0104	Cures Slowness
+0105	Cures Curses
+0106	Cures Blindness
+0107	Cures Healing Block
+0108	Cures Seals
+0109	Removes Ailment
+010A	Removes Many Ailments
+010B	Removes All Ailments
+011B	Stirred Heavens Scene
+011C	The Spooky Forest Scene
+011D	Meteor Shower Night Scene
+011E	Shining Ice Hollow Scene
+011F	Surging Flames Scene
+0120	Overflowing Seas Scene
+0121	The Sleeping Castle Scene
+0122	Warping Time Scene
+0123	Monochrome Scene
+0124	Crimson Dyed Scene
+012A	Body Awakening Tone
+012B	Soul Awakening Tone
+012C	Hidden Power
+0132	Angel's Protection S
+0133	Angel's Protection M
+0134	Angel's Protection L
+0135	Spirit's Protection S
+0136	Spirit's Protection M
+0137	Spirit's Protection L
+0138	Goddess' Protection
+0139	Goddess' Blessing
+013A	Reduce Consumption
+013B	Relieve Consumption
+013C	Recycle
+013D	Activate Split
+013E	Activate Scatter
+013F	Activate Division
+0140	Auto Activate 20%
+0141	Auto Activate 30%
+0142	Auto Activate 50%
+0161	Attack Up S
+0162	Attack Up M
+0163	Attack Up L
+0164	Defense Up S
+0165	Defense Up M
+0166	Defense Up L
+0167	Speed Up S
+0168	Speed Up M
+0169	Speed Up L
+016A	All Stats Up S
+016B	All Stats Up M
+016C	All Stats Up L
+016D	Equipment Effect S
+016E	Equipment Effect M
+016F	Equipment Effect L
+0170	Hit Rate Up S
+0171	Hit Rate Up M
+0172	Hit Rate Up L
+0173	Evasion Up S
+0174	Evasion Up M
+0175	Evasion Up L
+0176	Critical Rate Up S
+0177	Critical Rate Up M
+0178	Critical Rate Up L
+0179	Critical Power Up S
+017A	Critical Power Up M
+017B	Critical Power Up L
+017C	Add HP Regen XS
+017D	Add HP Regen S
+017E	Add HP Regen M
+017F	Add HP Regen L
+0180	Add HP Regen XL
+0181	Add HP Regen XXL
+0182	Add MP Regen XS
+0183	Add MP Regen S
+0184	Add MP Regen M
+0185	Add MP Regen L
+0186	Add MP Regen XL
+0187	Add MP Regen XXL
+0188	Temp Stamina Up S
+0189	Temp Stamina Up M
+018A	Temp Stamina Up L
+018E	Auto Revive S
+018F	Auto Revive M
+0190	Auto Revive L
+0191	Repel Ailments S
+0192	Repel Ailments M
+0193	Repel Ailments L
+0194	Cut Wait Time S
+0195	Cut Wait Time M
+0196	Cut Wait Time L
+0197	More Opportunities S
+0198	More Opportunities M
+0199	More Opportunities L
+019A	Enhance HP Heal S
+019B	Enhance HP Heal M
+019C	Enhance HP Heal L
+019D	Medicine of Strength
+019E	Medicine of Endurance
+019F	Medicine of Agility
+01A0	Medicine of Resolve
+01BB	Cause Misfortune
+01BC	Delicious Aroma
+01BD	Appetizing Aroma
+01BE	Tempting Aroma
+01BF	Steal Attack S
+01C0	Steal Attack M
+01C1	Steal Attack L
+01C2	Steal Defense S
+01C3	Steal Defense M
+01C4	Steal Defense L
+01C5	Steal Speed S
+01C6	Steal Speed M
+01C7	Steal Speed L
+01C8	Remove Enhancements
+01C9	Erase Enhancements
+01CA	Purge Enhancements
+01E9	Attack Down S
+01EA	Attack Down M
+01EB	Attack Down L
+01EC	Defense Down S
+01ED	Defense Down M
+01EE	Defense Down L
+01EF	Speed Down S
+01F0	Speed Down M
+01F1	Speed Down L
+01F2	All Stats Down S
+01F3	All Stats Down M
+01F4	All Stats Down L
+01F5	Equipment Effect Down S
+01F6	Equipment Effect Down M
+01F7	Equipment Effect Down L
+01F8	Inflict Sleep S
+01F9	Inflict Sleep M
+01FA	Inflict Sleep L
+01FB	Inflict Poison S
+01FC	Inflict Poison M
+01FD	Inflict Poison L
+01FE	Inflict Burns S
+01FF	Inflict Burns M
+0200	Inflict Burns L
+0201	Inflict Slowness S
+0202	Inflict Slowness M
+0203	Inflict Slowness L
+0204	Inflict Curse S
+0205	Inflict Curse M
+0206	Inflict Curse L
+0207	Inflict Blindness S
+0208	Inflict Blindness M
+0209	Inflict Blindness L
+020A	Block Healing S
+020B	Block Healing M
+020C	Block Healing L
+020D	Inflict Seal S
+020E	Inflict Seal M
+020F	Inflict Seal L
+0210	Inflict Corruption S
+0211	Inflict Corruption M
+0212	Inflict Corruption L
+0213	Reduce All Resistances
+0214	Weak to Fire
+0215	Weak to Ice
+0216	Weak to Thunder
+0217	Weak to Air
+0218	Level Down S
+0219	Level Down M
+021A	Level Down L
+021B	Critical Down
+021C	Weak to Changes
+021D	Weak to Impacts
+021E	Add Stun S
+021F	Add Stun M
+0220	Add Stun L
+0221	Add Stun XL
+0240	Consume HP XS
+0241	Consume HP S
+0242	Consume HP M
+0243	Consume HP L
+0244	Consume HP XL
+0245	Consume MP XS
+0246	Consume MP S
+0247	Consume MP M
+0248	Consume MP L
+0249	Consume MP XL
+025E	Grow Good Materials?
+025F	Grow Great Materials?
+0269	Undetectable
+028E	Move Speed Up S
+028F	Move Speed Up M
+0290	Move Speed Up L
+0291	Fits a Lot
+0292	Fits a Whole Lot
+0293	Avoid Misfortune
+0294	Reduce Misfortune
+0295	Ward Off Misfortune
+0296	Rare Discovery S
+0297	Rare Discovery M
+0298	Rare Discovery L
+0299	Economic Fortune
+029A	Economic Fortune M
+029B	Economic Fortune L
+029C	Health Prayer
+029D	Health Prayer M
+029E	Health Prayer L
+029F	Portable Tornado
+02A0	Breaks Rocks
+02A3	Breaks All Rocks
+02A5	Portable Whirlwind
+02A7	Catches Fish
+02A8	Catches More Fish
+02A9	Catches All Fish
+02AD	Catches Insects
+02AE	Catches Insects Easily
+02AF	Catches All Insects
+02B0	Scoops Some Water
+02B1	Scoops Water
+02B2	Scoops Lots of Water
+02B3	Blows up Rocks
+02B4	Blows up Everything
+02B5	Sends to Container
+02B6	Better Traits?
+02CC	Fighting Spirit Active
+02CD	Fighting Spirit Calm
+02CE	Fighting Words
+02CF	Fighting Chant
+02D0	Fighting Truth
+02D1	Soul Binding Chain
+02D2	Spirit Binding Chain
+02D3	All Binding Chain
+02D4	Angel's Shield
+02D5	God's Shield
+02D6	Hard to Notice
+02D7	Undetectable
+02D8	Draw Attention
+02D9	Gather Attention
+02DA	Progress Time
+02DB	Speed Up Time
+02DC	Accelerate Time
+02DD	Scholar's Wisdom
+02DE	Sage's Wisdom
+02DF	Proof of Fortune
+02E0	Symbol of Fortune
+02E1	Bringer of Fortune
+02E2	Strong in a Pinch
+02E3	Seal of Beasts
+02E4	Soul Awakening
+02E5	Samsara Awakening
+02E6	Seal of Cows
+02E7	Seal of Golems
+02EA	Calm Blessing
+02EB	Pure Blessing
+02EC	Healthy Blessing
+02ED	Conversion Spell
+02EE	Mass Conversion Spell
+02EF	Power Rune
+02F0	Defense Rune
+02F1	Speed Rune
+02F2	Herculean Rune
+02F3	Guardian Rune
+02F4	Swift Gale Rune
+02F5	Weapon Rune
+02F6	Tool Rune
+02F7	Bulwark Rune
+02F8	Speed into Power
+02F9	Awakening of Power
+02FA	Awakening of Soul
+02FB	Seal of Foxes
+02FC	Inner Fire
+02FD	Weakness Maker
+02FE	Weakness Sniper
+02FF	Redistribute Luck
+0300	Blessing of the Wild
+0301	Rune of Criticality
+0306	HP Regen S
+0307	HP Regen M
+0308	HP Regen L
+0309	HP Regen XL
+030A	MP Regen S
+030B	MP Regen M
+030C	MP Regen L
+030D	MP Regen XL
+030E	Max HP Up XS
+030F	Max HP Up S
+0310	Max HP Up M
+0311	Max HP Up L
+0312	Max HP Up XL
+0313	Max MP Up XS
+0314	Max MP Up S
+0315	Max MP Up M
+0316	Max MP Up L
+0317	Max MP Up XL
+0318	Attack Up XS
+0319	Attack Up S
+031A	Attack Up M
+031B	Attack Up L
+031C	Attack Up XL
+031D	Defense Up XS
+031E	Defense Up S
+031F	Defense Up M
+0320	Defense Up L
+0321	Defense Up XL
+0322	Speed Up XS
+0323	Speed Up S
+0324	Speed Up M
+0325	Speed Up L
+0326	Speed Up XL
+0327	Equipment Effect Up XS
+0328	Equipment Effect Up S
+0329	Equipment Effect UP M
+032A	Equipment Effect Up L
+032B	Equipment Effect Up XL
+032C	Hit Rate Up XS
+032D	Hit Rate Up S
+032E	Hit Rate Up M
+032F	Hit Rate Up L
+0330	Hit Rate Up XL
+0331	Evasion Up XS
+0332	Evasion Up S
+0333	Evasion Up M
+0334	Evasion Up L
+0335	Evasion Up XL
+0336	Critical Up XS
+0337	Critical Up S
+0338	Critical Up M
+0339	Critical Up L
+033A	Critical Up XL
+033B	Enhance Critical XS
+033C	Enhance Critical S
+033D	Enhance Critical M
+033E	Enhance Critical L
+033F	Enhance Critical XL
+0340	Enhance Skill S
+0341	Enhance Skill M
+0342	Enhance Skill L
+0343	Enhance Skill XL
+0344	Enhance Items S
+0345	Enhance Items M
+0346	Enhance Items L
+0347	Weaken Items S
+0348	Weaken Items M
+0349	Weaken Items L
+034A	Combo Bonus +2%
+034B	Combo Bonus +4%
+034C	Combo Bonus +6%
+034D	Nullify Sleep
+034E	Nullify Poison
+034F	Nullify Burns
+0350	Nullify Slowness
+0351	Nullify Curses
+0352	Nullify Blindness
+0353	Nullify Healing Block
+0354	Nullify Seals
+0355	Nullify One Hit KO
+0356	Nullify All Ailments
+0357	Protection of Vessel
+0358	Protection of Freedom
+0359	Protection of Peace
+035A	Ailment Resist XS
+035B	Ailment Resist S
+035C	Ailment Resist M
+035D	Ailment Resist L
+035E	Ailment Resist XL
+035F	Avoid KO XS
+0360	Avoid KO S
+0361	Avoid KO M
+0362	Avoid KO L
+0363	Avoid KO XL
+0364	Add Fire Resistance S
+0365	Add Ice Resistance S
+0366	Add Lightning Resistance S
+0367	Add Air Resistance S
+0368	Add Fire Resistance M
+0369	Add Ice Resistance M
+036A	Add Lightning Resistance M
+036B	Add Air Resistance M
+036C	Absorb Damage S
+036D	Absorb Damage M
+036E	Absorb Damage L
+036F	Absorb Damage XL
+0370	Cut Damage S
+0371	Cut Damage M
+0372	Cut Damage L
+0373	Cut Damage XL
+0374	Enhance Stun S
+0375	Enhance Stun M
+0376	Enhance Stun L
+0377	Enhance Stun XL
+0378	Stun Resistance S
+0379	Stun Resistance M
+037A	Stun Resistance L
+037B	Use Opportunity S
+037C	Use Opportunity M
+037D	Use Opportunity L
+037E	Use Opportunity XL
+037F	Chain Effect S
+0380	Chain Effect M
+0381	Chain Effect L
+0382	Chain Effect XL
+0383	Limitless Life Force
+0384	Unyielding Spirit
+0385	Secrets of Strength
+0386	Secrets of Endurance
+0387	Secrets of Agility
+0388	Secrets of Command
+0389	Shadow Double
+038A	Secrets of Wisdom
+038B	Secrets of Alchemy
+038C	Change of Fate
+038D	Epiphany of Life
+038E	God of War's Blessing
+038F	Conqueror's Might
+0390	Phoenix's Breath
+0391	Phoenix's Blessing
+0392	Words of Mercy
+0393	Prayer of Mercy
+0394	Mantra of Mercy
+0395	Fairy's Gift
+0396	Fairy's Blessing
+0397	Fast Action
+0398	Super Fast Action
+0399	Evil Ambition
+039A	Dark Aura
+039B	Moon's Might
+039C	Reflection Counter
+039D	All Stats Increase S
+039E	All Stats Increase M
+039F	All Stats Increase L
+03A1	Add (Gunpowder)
+03A2	Add (Aroma)
+03A3	Add (Medicinal)
+03A4	Add (Food)
+03A5	Add (Oil)
+03E1	Breath of Abyss
+03E2	Radiance of Air Spirit
+03E3	Radiance of Flame Spirit
+03E4	Radiance of Water Spirit
+03E5	Rainbow Mirage
+03E6	Glittering Hoarfrost
+03E7	A Man's Fervor
+03E8	Crystal Fog
+03E9	Sparkling Cold
+03EA	Lion's Intensity
+03EB	Craft Equip - ATK S
+03EC	Craft Equip - ATK M
+03ED	Craft Equip - ATK L
+03EE	Craft Equip - ATK XL
+03EF	Craft Equip - ATK-SPD S
+03F0	Craft Equip - ATK-SPD M
+03F1	Craft Equip - ATK-SPD L
+03F2	Craft Equip - ATK-SPD XL
+03F3	Craft Equip - STR S
+03F4	Craft Equip - STR M
+03F5	Craft Equip - STR L
+03F6	Craft Equip - STR XL
+03F7	Craft Equip - All S
+03F8	Craft Equip - All M
+03F9	Craft Equip - All L
+03FA	Craft Equip - All XL
+03FB	Craft Equip - DEF S
+03FC	Craft Equip - DEF M
+03FD	Craft Equip - DEF L
+03FE	Craft Equip - DEF XL
+03FF	Craft Equip - DEF-SPD S
+0400	Craft Equip - DEF-SPD M
+0401	Craft Equip - DEF-SPD L
+0402	Craft Equip - DEF-SPD XL
+0458	Follow-up Pain Atk
+0459	Follow-up Fire Atk
+045A	Follow-up Ice Atk
+045B	Follow-up Lightning Atk
+045C	Follow-up Rage Atk
+045D	Follow-up Poison Atk
+045E	Follow-up Silent Atk
+045F	Follow-up Sleep Atk
+0460	Follow-up Vampire Atk
+0461	Follow-up Power Split
+0462	Follow-up Guard Split
+0463	Follow-up Motion Split
+0464	Follow-up Drain Power
+0465	Follow-up Drain Defense
+0466	Follow-up Drain Motion
+0467	Follow-up Air Atk
+0468	Follow-up Magic Atk
+0469	Follow-up Burning Atk
+04C7	Reduce MP Consumption
+04C8	Nullify Area Effects
+04C9	Increase Exp Gain
+04CA	Add All Resistances
+04CB	Immediate Action
+04CC	MAX Charge
+04CD	Inflict Deadly Poison
+04CE	Remove Defense
+04CF	Cause Burns
+04D0	Slow Down Movement
+04D1	Cause Immobility
+04D2	Put to Sleep
+04D3	Poison and Put to Sleep
+04D9	Chain of Explosions
+04DA	Big Chain of Explosions
+04DB	Aimed Lightning Strike
+04DC	Focused Lightning Strike
+04DD	Total Freeze
+04DE	Eternal Freeze
+04DF	Cutting Wind
+04E0	Whirlwind Strike
+04E1	Thorns of Light
+04E2	Stabs of Divine Speed
+04E3	Energy Gain
+04E4	Vigor Gain
+04E5	Centrifugal Force Boost
+04E6	Centrifugal Force Destroyer
+04E7	Forest Aroma
+04E8	Calm of Greenery
+04E9	Cooling Breeze
+04EA	Peaceful Air
+04EB	Binding Poison
+04EC	Tentacle Poison
+04ED	Softener
+04EE	Extra Softener
+04EF	Origin Awakening
+04F0	Origin Liberation
+04F1	Megabomb
+04F2	Terabomb
+04F3	Time Freezer
+04F4	Time Labyrinth
+04F5	Delayed Lightning Strike
+04F6	Hail of Roaring Lightning
+04F7	Blinding Gale
+04F8	Downburst
+04F9	Supreme Presence
+04FA	Supreme Discernment
+04FB	White Rainbow Ward
+04FC	Corona Blessing
+04FD	Absolute Healing
+04FE	Time-turning Nectar
+04FF	Despair of World's End
+0500	Light of World Creation
+[/EEEE]

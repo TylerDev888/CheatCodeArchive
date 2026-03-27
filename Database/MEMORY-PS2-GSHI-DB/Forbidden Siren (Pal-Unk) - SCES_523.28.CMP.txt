@@ -1,0 +1,38 @@
+^3 = NAME: Forbidden Siren (Pal-Unk)
+^2 = GameID: SCES-52328
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$901001E8 0C046472
+$90120E6C 0C049AA0
+!!
++60 Hertz
+%Credits: Codejunkies
+$20103188 24120002
++Archives Opened
+%Credits: Codejunkies
+$201F91DC 240A0001
++Disable AI
+%Credits: Codejunkies
+$201550D4 10000016
++Enemies 1 Hit K.O.
+%Credits: Codejunkies
+$201599A8 24030000
++Infinite Ammo
+%Credits: Codejunkies
+$20162590 00000000
++Invincible (Main Character)
+%Credits: Codejunkies
+$2019908C 10000168
++Invincible Npcs {<I>This Code Might Also Give Infinite Health To Some Bosses.</I>}
+%Credits: Codejunkies
+$201599BC 080567A2
++Y-Fix
+%Credits: Codejunkies
+$200FFF00 3C010003
+$200FFF04 0061182F
+$200FFF08 FCA30000
+$200FFF0C 08040E0D
+$20103830 0803FFC0
+!!
+

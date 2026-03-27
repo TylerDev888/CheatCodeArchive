@@ -1,0 +1,34 @@
+^3 = NAME: Surfing H3O (Ntsc-U)
+^2 = GameID: SLUS-20009
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0101368 0010136B
+!!
+!Continues Codes:
++Always Clear Level
+%Credits: Codejunkies
+$10457E28 00000001
++Always Have High Total Score
+%Credits: Codejunkies
+$10457E20 0000FFFF
++Infinite Continues
+%Credits: Codejunkies
+$1024A5E4 00000005
++Infinite Takeoffs
+%Credits: Codejunkies
+$10456AA4 00000002
++Never Have More Than 1 Continue
+%Credits: Codejunkies
+$E0010001 3024A5E4
+$1024A5E4 00000001
++Never Have More Than 2 Continues
+%Credits: Codejunkies
+$E0010002 3024A5E4
+$1024A5E4 00000002
++Never Have More Than 3 Continues
+%Credits: Codejunkies
+$E0010003 3024A5E4
+$1024A5E4 00000003
+!!
+

@@ -1,0 +1,198 @@
+^3 = NAME: Tom & Jerry - War Of The Whiskers (Ntsc-U)
+^2 = GameID: SLUS-20355
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0109768 0016B0D7
++(M) Must Be On
+%Credits: Codejunkies
+$F016B0D4 0016B0D7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0016B0D7
+!!
+!Player 1 Character Modifier Code:
++Butch
+%Credits: Codejunkies
+$11D531F4 00006303
++Duckling
+%Credits: Codejunkies
+$11D531F4 00006305
++Eagle
+%Credits: Codejunkies
+$11D531F4 00006307
++Jerry
+%Credits: Codejunkies
+$11D531F4 00006301
++Lion
+%Credits: Codejunkies
+$11D531F4 0000630A
++Nibbles
+%Credits: Codejunkies
+$11D531F4 00006304
++Robo-Spike
+%Credits: Codejunkies
+$11D531F4 00006309
++Spike
+%Credits: Codejunkies
+$11D531F4 00006302
++Super Jerry
+%Credits: Codejunkies
+$11D531F4 00006308
++Tom
+%Credits: Codejunkies
+$11D531F4 00006300
++Tyke
+%Credits: Codejunkies
+$11D531F4 00006306
+!!
+!Player 2 Character Modifier Code:
++Butch
+%Credits: Codejunkies
+$11D531FC 00006303
++Duckling
+%Credits: Codejunkies
+$11D531FC 00006305
++Eagle
+%Credits: Codejunkies
+$11D531FC 00006307
++Jerry
+%Credits: Codejunkies
+$11D531FC 00006301
++Lion
+%Credits: Codejunkies
+$11D531FC 0000630A
++Nibbles
+%Credits: Codejunkies
+$11D531FC 00006304
++Robo-Spike
+%Credits: Codejunkies
+$11D531FC 00006309
++Spike
+%Credits: Codejunkies
+$11D531FC 00006302
++Super Jerry
+%Credits: Codejunkies
+$11D531FC 00006308
++Tom
+%Credits: Codejunkies
+$11D531FC 00006300
++Tyke
+%Credits: Codejunkies
+$11D531FC 00006306
+!!
+!Unlock Character Codes:
++All Characters
+%Credits: Code Master
+$4021CEE4 000B0001
+$00000001 00000000
++Butch
+%Credits: Code Master
+$2021CEF0 00000001
++Duckling
+%Credits: Code Master
+$2021CEF8 00000001
++Eagle
+%Credits: Code Master
+$2021CF00 00000001
++Jerry
+%Credits: Code Master
+$2021CEE8 00000001
++Lion
+%Credits: Code Master
+$2021CF0C 00000001
++Monster Jerry
+%Credits: Code Master
+$2021CF04 00000001
++Nibbles
+%Credits: Code Master
+$2021CEF4 00000001
++Robot Cat
+%Credits: Code Master
+$2021CF08 00000001
++Spike
+%Credits: Code Master
+$2021CEEC 00000001
++Tom
+%Credits: Code Master
+$2021CEE4 00000001
++Tyke
+%Credits: Code Master
+$2021CEFC 00000001
+!!
++1-Hit Death P1
+%Credits: Code Master
+$D1D558FE 000042C8
+$21D558FC 3F800000
++1-Hit Death P2
+%Credits: Code Master
+$D1D5BD9E 000042C8
+$21D5BD9C 3F800000
++25% Health P1
+%Credits: Code Master
+$D1D558FE 000042C8
+$21D558FC 41C80000
++25% Health P2
+%Credits: Code Master
+$D1D5BD9E 000042C8
+$21D5BD9C 41C80000
++50% Health P1
+%Credits: Code Master
+$D1D558FE 000042C8
+$21D558FC 42480000
++50% Health P2
+%Credits: Code Master
+$D1D5BD9E 000042C8
+$21D5BD9C 42480000
++75% Health P1
+%Credits: Code Master
+$D1D558FE 000042C8
+$21D558FC 42960000
++75% Health P2
+%Credits: Code Master
+$D1D5BD9E 000042C8
+$21D5BD9C 42960000
++Infinite Health P1
+%Credits: Code Master
+$21D558FC 42C80000
++Infinite Health P2
+%Credits: Code Master
+$21D5BD9C 42C80000
++Max Berserk P1
+%Credits: Code Master
+$21D558F0 42C80000
++Max Berserk P2
+%Credits: Code Master
+$21D5BD90 42C80000
++No Berserk P1
+%Credits: Code Master
+$21D558F0 00000000
++No Berserk P2
+%Credits: Code Master
+$21D5BD90 00000000
++No Health P1
+%Credits: Code Master
+$21D558FC 00000000
++No Health P2
+%Credits: Code Master
+$21D5BD9C 00000000
++P1 Needs 1 Win To Win
+%Credits: Code Master
+$D1D515E0 00000000
+$01D515E0 00000001
+$D1D515E0 00000100
+$01D515E0 00000001
++P1 Never Wins
+%Credits: Code Master
+$01D515E0 00000000
++P2 Needs 1 Win To Win
+%Credits: Code Master
+$D1D515E0 00000000
+$01D515E1 00000001
+$D1D515E0 00000001
+$01D515E1 00000001
++P2 Never Wins
+%Credits: Code Master
+$01D515E1 00000000
+!!
+

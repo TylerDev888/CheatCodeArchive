@@ -1,0 +1,106 @@
+^3 = NAME: Tribes - Aerial Assault (Ntsc-U)
+^2 = GameID: SLUS-20149
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F013AAD0 0022DA77
+!!
+!Button Configuration Modifier Codes [Special Note 1]:
++Circle Modifier
+%Credits: Code Master
+$00188A4C 000000??
+$00188A60 000000??
++Down Modifier
+%Credits: Code Master
+$001889EC 000000??
+$00188A00 000000??
++L1 Modifier
+%Credits: Code Master
+$00188974 000000??
+$00188988 000000??
++L2 Modifier {<I>00 - L2 01 - R1 02 - L1 03 - R2 04 - R3 05 - X 07 - Up 08 - Down 0B - Circle 0C - Triangle 17 - Square 18 - Right 19 - Left</I>}
+%Credits: Code Master
+$00188944 000000??
+$00188958 000000??
++Left Modifier
+%Credits: Code Master
+$00188B84 000000??
+$00188B98 000000??
++R1 Modifier
+%Credits: Code Master
+$0018895C 000000??
+$00188970 000000??
++R2 Modifier
+%Credits: Code Master
+$0018898C 000000??
+$001889A0 000000??
++R3 Modifier
+%Credits: Code Master
+$001889A4 000000??
+$001889B8 000000??
++Right Modifier
+%Credits: Code Master
+$00188B6C 000000??
+$00188B80 000000??
++Special Note 1 {<I>With These Codes, A Friend Of Mine Didnt Like His Control Setups So I Took A Bit Of Time And Found Out How The Game Reads The Joypad And Made Some Small Hacks To Change What The Buttons Do. To Make Your X Button Shoot, Use The X Modifier Code, And Put In Place Of The ??&#39;S The Value Of The L2 Button Which Is 00. Get It? Good! Yes Both ??&#39;S Must Be The Same For Each Modifier Code To Work Properly!</I>}
+%Credits: NA
+N/A
++Square Modifier
+%Credits: Code Master
+$00188B54 000000??
+$00188B68 000000??
++Triangle Modifier
+%Credits: Code Master
+$00188A34 000000??
+$00188A48 000000??
++Up Modifier
+%Credits: Code Master
+$001889D4 000000??
+$001889E8 000000??
++X Modifier
+%Credits: Code Master
+$001889BC 000000??
+$001889D0 000000??
+!!
++Always 3Rd Person Mode
+%Credits: Code Master
+$2034E348 00000001
++Display Debug Info
+%Credits: Code Master
+$2035D338 00000001
++Don't Take Damage From Falling Great Distances
+%Credits: Code Master
+$10240C80 0000010B
++Enable Maniac Mode
+%Credits: Code Master
+$20337430 00000001
++Hide HUD
+%Credits: Code Master
+$2035D33C 00000001
++Idiot AI
+%Credits: Code Master
+$20369800 00000001
++Infinite Ammo
+%Credits: Code Master
+$2034E2D8 00000001
++Infinite Jetpack
+%Credits: Code Master
+$20197EF8 00000000
+$20197F14 00000000
+$2015B2FC 00000000
+$2015B35C 00000000
++Legacy Analog Setup
+%Credits: Code Master
+$2018A584 C7A00024
+$2018A5CC C7A3001C
++Never Overheat
+%Credits: Code Master
+$20197E74 00000000
++Player Look Around Speed Modifier (Default 3F800000)
+%Credits: Code Master
+$2034E340 ????????
++Unlock All Levels
+%Credits: Code Master
+$2031A3AC 00000010
+!!
+

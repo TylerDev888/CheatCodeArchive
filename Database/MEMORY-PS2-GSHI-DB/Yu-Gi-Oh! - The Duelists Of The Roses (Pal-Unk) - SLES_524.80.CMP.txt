@@ -1,0 +1,73 @@
+^3 = NAME: Yu-Gi-Oh! - The Duelists Of The Roses (Pal-Unk)
+^2 = GameID: SLES-52480
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0193454 00193457
+!!
++1P 9999 LP
+%Credits: Codejunkies
+$102DAEDA 0000270F
++2P 0 LP
+%Credits: Codejunkies
+$102DB22A 00000000
++2P 1 LP
+%Credits: Codejunkies
+$102DB22A 00000001
+!Battle Map Codes:
++Deck Cost 1
+%Credits: Hacc
+$103029F6 00000001
++Have All Cards In Chest
+%Credits: Hacc
+$20216300 3C036762
+$20216304 34630525
+$20216308 AC830000
++Never Deck Cost To Battle
+%Credits: Hacc
+$10239822 00001000
+!!
++End Match After First Move
+%Credits: Codejunkies
+$201DF828 00000000
+!In-Battle Codes:
++P1 Press L2+R2 For Instant Win
+%Credits: Hacc
+$D02E8E42 0000FCFF
+$102DB22A 00000000
++P2 Press L2+R2 For Instant Win
+%Credits: Hacc
+$D02E8F42 0000FCFF
+$102DAEDA 00000000
+!!
++Infinite Turns
+%Credits: Codejunkies
+$002DB8F3 00000001
++P1 Max Reverse Joker Command
+%Credits: Hacc
+$DE19E790 58B5????
++P2 Max Reverse Joker Command
+%Credits: Hacc
+$DE19EC90 58B5????
+!Replace Intro With...:
++Ending 1
+%Credits: Codejunkies
+$202BDB64 4D444500
+$202BDB68 36415F56
++Ending 2
+%Credits: Codejunkies
+$202BDB64 4D444500
+$202BDB68 36435F56
++Infinite Summon Power Use
+%Credits: Codejunkies
+$201DF904 00000000
++Max Summon Power After Use
+%Credits: Codejunkies
+$200FFF00 24010063
+$200FFF04 A0810341
+$200FFF08 03E00008
+$200FFF10 0C0CFACE
+$201DF908 0803FFC0
+!!
+!!
+

@@ -1,0 +1,53 @@
+^2 = GameID: BLJM60203
+^3 = NAME: Super Street Fighter IV
+(From Game Genie For PS3)
+^4 = FILE: SAVEDATA
++Unlock All Normal Titles
+$42004FA4 01010101
+$40740004 00000000
+$10005174 00000101
++Unlock All Ex Titles
+$10005176 00000101
+$42005178 01010101
+$40070004 00000000
++Unlock All Character Colors
+$42004D4C 01010101
+$40030004 00000000
++Update Crc32 (required)
+(set range:0x000004,0x01226B)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]
+^4 = FILE: SWANSAVE
++Update Crc32 For Swansave (required)
+(set range:0x000004,0x00C184)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]
+^4 = FILE: SWANRPLY
++Update Crc32 For Swanrply (required)
+(set range:0x000004,0x00AC25)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]
+(:SAVEDATA)
+([Unlock All Normal Titles])
+(42004FA4 01010101)
+(40740004 00000000)
+(10005174 00000101)
+([Unlock All EX Titles])
+(10005176 00000101)
+(42005178 01010101)
+(40070004 00000000)
+([Unlock All Character Colors])
+(42004D4C 01010101)
+(40030004 00000000)
+([Update CRC32 (Required)])
+(set range:0x000004,0x01226B)
+(set pointer:eof+1)
+(set range:0x000004,pointer)
+(set [hash]:CRC32)
+(write at 0x000000:[hash])

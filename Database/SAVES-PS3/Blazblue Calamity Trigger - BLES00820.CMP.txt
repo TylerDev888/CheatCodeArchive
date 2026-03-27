@@ -1,0 +1,14 @@
+^2 = GameID: BLES00820
+^3 = NAME: BlazBlue: Calamity Trigger
+^4 = FILE: SYSTEM.DAT
++Unlock All Gallery(by Bucanero)
+$41000160 00000101
+$40510002 00000000
++Update Wadd For System.dat (required)
+$set [csum]:0
+$carry(2)
+(set [csum]:wadd(0x000004,0x0CFD5F))
+$set pointer:eof+1
+$set [csum]:wadd(0x000004,pointer)
+$set [csum]:xor:FFFF
+$write at 0x000000:[csum]

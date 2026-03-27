@@ -1,0 +1,15 @@
+^2 = GameID: NPEB00895
+^3 = NAME: Quantum Conundrum (PSN)
+^4 = FILE: PROFILE.QCP
++Update Crc32big For Profile.qcp (required)
+(set range:0x000008,0x000533)
+$set pointer:eof+1
+$set range:0x000008,pointer
+$set [hash]:CRC32Big
+$write at 0x000004:[hash]
++Update Sha1 For Profile.qcp (required)
+(set range:0x00001C,0x0003BA)
+$set pointer:eof+1
+$set range:0x00001C,pointer
+$set [hash]:SHA1
+$write at 0x000008:[hash]

@@ -1,0 +1,29 @@
+^3 = NAME: Metal Slug 3 (PAL-M5)
+^2 = GameID: SLES-52599
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F011472C 0011472F
+!!
++Freeze Mission Time
+%Credits: Codejunkies
+$2037CE8C 00000000
++Infinite Explosives In Vehicles
+%Credits: Codejunkies
+$203E4C48 00000000
+$204294B4 00000000
++Infinite Explosives On Foot
+%Credits: Codejunkies
+$2040151C 00000000
++Infinite Lives
+%Credits: Codejunkies
+$20423E98 24020063
++Infinite Power Up Ammo
+%Credits: Codejunkies
+$203E73C0 00000000
+$204295E4 00000000
++Invincible Mode
+%Credits: Codejunkies
+$203F7348 00000000
+!!
+

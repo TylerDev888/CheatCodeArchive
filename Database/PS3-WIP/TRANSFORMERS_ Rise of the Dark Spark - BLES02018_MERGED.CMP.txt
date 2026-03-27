@@ -1,0 +1,9 @@
+^2 = GameID: BLES02018
+^3 = NAME: TRANSFORMERS: Rise of the Dark Spark
+^4 = FILE: BLES0218-PROFILE\PAYLOAD
++Update Sha1 For Bles0218-profile\payload
+(set range:0x000014,0x0002D4)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

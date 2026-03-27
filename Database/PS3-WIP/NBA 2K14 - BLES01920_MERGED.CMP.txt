@@ -1,0 +1,9 @@
+^2 = GameID: BLES01920,BLJS10232
+^3 = NAME: NBA 2K14
+^4 = FILE: USERDATA
++Update Crc32 For Userdata (required)
+(set range:0x000004,0x7B6C1D)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

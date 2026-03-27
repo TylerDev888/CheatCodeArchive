@@ -1,0 +1,63 @@
+^3 = NAME: Ico (Ntsc-U)
+^2 = GameID: SCUS-97113
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F024E5D4 0024E5D7
++(M) Must Be On
+%Credits: InterAct
+$F0102520 0024E5D7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0024E5D7
+!!
++Air Walker {<I>Press R1+Select To Walk On Air, And Press R2+Select For Normal Walk.</I>}
+%Credits: Code Master
+$E002F7FE 002811D2
+$201E1728 03E00008
+$201E172C 00000000
+$E002FDFE 002811D2
+$201E1728 27BDFF70
+$201E172C 8F83A418
++Braindead Enemy A.I. {<I>Only A Few Spiders Come Out Of The Blackness, And They Run Away From You.</I>}
+%Credits: InterAct
+$20160720 03E00008
+$20160724 00000000
+$201FBB48 03E00008
+$201FBB4C 00000000
++Normal Walk {<I>Press Select + Cross To Activate.</I>}
+%Credits: Codejunkies
+$E002BFFE 002811D2
+$201E1728 27BDFF70
+$201E172C 8F83A418
++Pause And Press L2 To Save Anywhere
+%Credits: InterAct
+$D02811D2 0000FEFF
+$1063314C 00000019
++Press L1+Select To Save Game
+%Credits: Code Master
+$D02811D2 0000FBFE
+$1063314C 0000001C
++Press Select + X For Normal Walk {<I>Use This To Deactivate The &Quot;Walk On Air&Quot; Code After Falling Or Jumping.</I>}
+%Credits: InterAct
+$E004BFFE 002811D2
+$201E1728 27BDFF70
+$201E172C 8F83A418
++Press Select To Walk On Air
+%Credits: InterAct
+$E004FFFE 002811D2
+$201E1728 03E00008
+$201E172C 00000000
++Stupid Enemy AI
+%Credits: InterAct
+$20160720 03E00008
+$20160724 03E00008
+$201FBB48 03E00008
+$201FBB4C 00000000
++Your Character Can Walk On Air {<I>Press Select To Activate.</I>}
+%Credits: Codejunkies
+$E002FFFE 002811D2
+$201E1728 03E00008
+$201E172C 00000000
+!!
+

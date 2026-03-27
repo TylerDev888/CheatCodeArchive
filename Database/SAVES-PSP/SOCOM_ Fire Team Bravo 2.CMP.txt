@@ -1,0 +1,8 @@
+^2 = GameID: UCUS98645
+^3 = NAME: SOCOM: Fire Team Bravo 2
+^5 = APCRED: PSP
+^4 = FILE: SOCOMFT2.BIN
+(by bucanero)
++Fix Save Owner Socomft2.bin (required)
+$set [wlan]:host_wlan_addr
+$write at 0x0008:[wlan]

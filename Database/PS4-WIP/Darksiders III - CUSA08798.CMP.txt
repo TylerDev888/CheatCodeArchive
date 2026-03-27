@@ -1,0 +1,14 @@
+^2 = GameID: CUSA08798,CUSA08880
+^3 = NAME: Darksiders III
+^5 = APCRED: source: discord
+(Credits: Zeraf3000)
+(Automated & simplified file by @officialahmed0)
+^4 = FILE: *
+(Untested - Make sure to backup your save data first)
++Super Max Weapon Whip Level (255)
+((Whip needs to be at level 2 or higher for this to work))
+$8001000D 56697461
+$6C697479 4368616F
+$73000000 00000000
+$92000000 0000003C
+$0800000D 000000FF

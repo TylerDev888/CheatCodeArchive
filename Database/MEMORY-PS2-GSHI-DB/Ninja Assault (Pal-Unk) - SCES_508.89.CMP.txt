@@ -1,0 +1,46 @@
+^3 = NAME: Ninja Assault (Pal-Unk)
+^2 = GameID: SCES-50889
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01009D8 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F01009D8 001009DB
+!!
++Bonus Mission Game Timer (Controller 1 : D-Pad Left To Freeze Timer; D-Pad Right To Restart Timer)
+%Credits: Codejunkies
+$D0845782 0000FF7F
+$201053B4 00000000
+$D0845782 0000FFDF
+$201053B4 2442FFFF
++Infinite Ammo/No Reload P1 And P2
+%Credits: Codejunkies
+$201077E4 00000000
++Infinite Credits
+%Credits: Codejunkies
+$10A84848 00000009
++Infinite Health
+%Credits: Codejunkies
+$10A7E066 00000100
++Infinite Health P1 And P2
+%Credits: Codejunkies
+$20170B78 00000000
+$20170D28 00000000
++Infinite Ninja Magic
+%Credits: Codejunkies
+$201076B0 00000000
++Monster Score
+%Credits: Codejunkies
+$20A7E078 05F5E0FF
++No Reload
+%Credits: Codejunkies
+$10A7E06A 0000000A
++Unlock Magnum In Story Mode
+%Credits: Codejunkies
+$00A847A9 00000001
++Unlock Shotgun In Story Mode
+%Credits: Codejunkies
+$00A847AA 00000001
+!!
+

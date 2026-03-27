@@ -1,0 +1,64 @@
+^1 = HASH: 56B36513
+^3 = NAME: XGRA-Extreme-G Racing Association
+^2 = GameID: SLUS_206.32
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001ED69F
+!!
+!Codes:
++Infinite Shield Energy
+%Credits: Code Master
+$202B1E20 440FC000
+$202B1E28 440FC000
++Start/Stop Lap Timer{With This Code, You Have To Disable It Before A Race Starts To Start The Race. Press L1+Select To Activate It & Press L2+Select To Deactivate It. Also Note That While Its Enabled, The Gfx Animation For Your Bike When You Hit A Wall Are Frozen Too.}
+%Credits: Code Master
+$D0274E42 0000FBFE
+$20123D18 00000000
+$D0274E42 0000FEFE
+$20123D18 FE020068
+!!
+!Unlock Track Codes:
++Scavenger City-City Circuit
+%Credits: Code Master
+$002A97AD 00000001
++Scavenger City-Outlands Circuit
+%Credits: Code Master
+$002A97AF 00000001
++Vostok, Anatarctica-Vostok Peaks Circuit
+%Credits: Code Master
+$002A97B1 00000001
++Vostok, Anatarctica-Vostok Coastal Circuit
+%Credits: Code Master
+$002A97B3 00000001
++Dunroth's Folly-Dunroth's Folly Circuit
+%Credits: Code Master
+$002A97B5 00000001
++Dunroth's Folly-Dunroth's Rift Circuit
+%Credits: Code Master
+$002A97B7 00000001
++Deep Space E.R.F. Station-Mining Dome Circuit
+%Credits: Code Master
+$002A97B9 00000001
++Deep Space E.R.F. Station-E.R.F. Unit Circuit
+%Credits: Code Master
+$002A97BB 00000001
++Deep Sea Anomaly-Anomaly 17 Circuit
+%Credits: Code Master
+$002A97BD 00000001
++Deep Sea Anomaly-Anomaly 19 Circuit
+%Credits: Code Master
+$002A97BF 00000001
++Santarem, Brazilia-Reacator Circuit
+%Credits: Code Master
+$002A97C1 00000001
++Santarem, Brazilia-Torre Circuit
+%Credits: Code Master
+$002A97C3 00000001
++Culver's Reach-Hellas Ridge Circuit
+%Credits: Code Master
+$002A97C5 00000001
++Culver's Reach-Arabian Ridge Circuit
+%Credits: Code Master
+$002A97C7 00000001
+!!

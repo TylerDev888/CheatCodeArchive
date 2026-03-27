@@ -1,0 +1,5849 @@
+^2 = GameID: SLUS_215.67
+^3 = NAME: Shining Force EXA
+!Masters:
++Enable Code (MUST BE ON){Cb6+/Gs3+/Xp4+/Tox}
+$90105918 0C0415EE
++Enable Code (MUST BE ON){Cb/Gs/Xp}
+$F01A3F24 001A3F27
+!!
++Max G
+$20C548D0 05F5E0FF
++Max Mythril (cyrille)
+$20C556EC 05F5E100
++Max Mythril (toma)
+$20C55490 05F5E100
++Max Mythril (storage)
+$20C548D0 05F5E100
+!How Many Items Shop Holds:{Dont Set To High Can Crash}
++War Items Held
+$004C61F4 000000[Amount:64:HEX:BIG]
++Mage Items Held
+$004C61F5 000000[Amount:64:HEX:BIG]
++Accessory Held
+$004C61F6 000000[Amount:64:HEX:BIG]
++Misc Held
+$004C61F7 000000[Amount:64:HEX:BIG]
+!!
++Shop Does Not Lose Items (buying)
+$20248F68 00000000
++Items Are Free (aka: Skillers Visa)
+$20226428 00000000
+$20226308 00000000
+$2022640C 00000000
++Inf MP
+$201C1BB0 00000000
++Inf HP
+$2022ECE8 00000000
++Foot Speed Maximum
+%Credits: JPN Hackers
+$20229B0C 24010000
++Foot Speed Maximum
+%Credits: JPN Hackers
+$20229B18 240200FF
++Attack Speed Maximum
+%Credits: JPN Hackers
+$2022A484 24010000
++Attack Speed Maximum
+%Credits: JPN Hackers
+$2022A490 241100B6
++Movement S+
+%Credits: JPN Hackers
+$20229B0C 28410001
+$20229B18 240200FA
++Footstep 1
+%Credits: JPN Hackers
+$20229BD4 28410001
+$20229BE0 24020001
++Locomotion S Rank
+%Credits: JPN Hackers
+$20229B00 240200B4
++Attack Range 50m
+%Credits: JPN Hackers
+$201CBCE4 240201F4
++Attack Distance 25.5m{There Is An Effect In Only The Previous Production Similar Protagonist}
+%Credits: JPN Hackers
+$20229CE8 28420001
++Gain Gold For Max
+%Credits: JPN Hackers
+$202263B0 10200001
++Gain Mythril For Max
+%Credits: JPN Hackers
+$20226488 10200001
++Gain EXP For Max
+%Credits: JPN Hackers
+$202241B8 3C053B9A
+$202241BC 34A5C9FF
+$202241C4 10000003
++Gain Gold For Max
+%Credits: JPN Hackers
+$202263B0 00000000
++Gain Mithril For Max
+%Credits: JPN Hackers
+$20226488 00000000
++Obtained Gold Is Xxxx Times
+%Credits: JPN Hackers
+$20226390 00048[OX]
++Obtained Mithril Is Xxxx Times
+%Credits: JPN Hackers
+$20226460 00048[OX]
++Obtained EXP Is Xxxx Times
+%Credits: JPN Hackers
+$202241B0 00048[OX]
++HP Regenration Fast
+%Credits: JPN Hackers
+$201C8DA0 24010001
++MP Regeneration Fast
+%Credits: JPN Hackers
+$201C8ED0 24010001
++MP Does Not Deplete
+%Credits: JPN Hackers
+$201C1BAC 00601823
+$201CD4B8 00A01023
++Using Items Does Not Deplete{Warning: Effects Key Items}
+%Credits: JPN Hackers
+$202AF018 24420000
++All Ally Equipment Obtained{Their Command Ai Actually. May Affect The Game In A Bad Way....}
+%Credits: JPN Hackers
+$202B684C 24020001
+$202B6850 A2020007
++Open Menu For HP/MP Restore
+%Credits: JPN Hackers
+$20200448 8C430490
+$20200458 AC430494
+$20200460 8C430498
+$20200468 AC43049C
+!Cyrille Items(45 Slots):
+!Item Slot 1:
++Item Mod
+$10C556F0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C556F4 0000270F
++Color
+$00C556F6 000000[CO]
++Activate Item (must Have On)
+$00C556F7 00000001
++Addon 1
+$00C556F8 00000[EFF]
++Addon 2
+$00C556F9 00000[EFF]
++Special Addon
+$00C556FA 00000[EFF]
+!!
+!Item Slot 2:
++Item Mod
+$10C556FC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55700 0000270F
++Color
+$00C55702 000000[CO]
++Activate Item (must Have On)
+$00C55703 00000001
++Addon 1
+$00C55704 00000[EFF]
++Addon 2
+$00C55705 00000[EFF]
++Special Addon
+$00C55706 00000[EFF]
+!!
+!Item Slot 3:
++Item Mod
+$10C55708 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5570C 0000270F
++Color
+$00C5570E 000000[CO]
++Activate Item (must Have On)
+$00C5570F 00000001
++Addon 1
+$00C55710 00000[EFF]
++Addon 2
+$00C55711 00000[EFF]
++Special Addon
+$00C55712 00000[EFF]
+!!
+!Item Slot 4:
++Item Mod
+$10C55714 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55718 0000270F
++Color
+$00C5571A 000000[CO]
++Activate Item (must Have On)
+$00C5571B 00000001
++Addon 1
+$00C5571C 00000[EFF]
++Addon 2
+$00C5571D 00000[EFF]
++Special Addon
+$00C5571E 00000[EFF]
+!!
+!Item Slot 5:
++Item Mod
+$10C55720 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55724 0000270F
++Color
+$00C55726 000000[CO]
++Activate Item (must Have On)
+$00C55727 00000001
++Addon 1
+$00C55728 00000[EFF]
++Addon 2
+$00C55729 00000[EFF]
++Special Addon
+$00C5572A 00000[EFF]
+!!
+!Item Slot 6:
++Item Mod
+$10C5572C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55730 0000270F
++Color
+$00C55732 000000[CO]
++Activate Item (must Have On)
+$00C55733 00000001
++Addon 1
+$00C55734 00000[EFF]
++Addon 2
+$00C55735 00000[EFF]
++Special Addon
+$00C55736 00000[EFF]
+!!
+!Item Slot 7:
++Item Mod
+$10C55738 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5573C 0000270F
++Color
+$00C5573E 000000[CO]
++Activate Item (must Have On)
+$00C5573F 00000001
++Addon 1
+$00C55740 00000[EFF]
++Addon 2
+$00C55741 00000[EFF]
++Special Addon
+$00C55742 00000[EFF]
+!!
+!Item Slot 8:
++Item Mod
+$10C55744 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55748 0000270F
++Color
+$00C5574A 000000[CO]
++Activate Item (must Have On)
+$00C5574B 00000001
++Addon 1
+$00C5574C 00000[EFF]
++Addon 2
+$00C5574D 00000[EFF]
++Special Addon
+$00C5574E 00000[EFF]
+!!
+!Item Slot 9:
++Item Mod
+$10C55750 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55754 0000270F
++Color
+$00C55756 000000[CO]
++Activate Item (must Have On)
+$00C55757 00000001
++Addon 1
+$00C55758 00000[EFF]
++Addon 2
+$00C55759 00000[EFF]
++Special Addon
+$00C5575A 00000[EFF]
+!!
+!Item Slot 10:
++Item Mod
+$10C5575C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55760 0000270F
++Color
+$00C55762 000000[CO]
++Activate Item (must Have On)
+$00C55763 00000001
++Addon 1
+$00C55764 00000[EFF]
++Addon 2
+$00C55765 00000[EFF]
++Special Addon
+$00C55766 00000[EFF]
+!!
+!Item Slot 11:
++Item Mod
+$10C55768 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5576C 0000270F
++Color
+$00C5576E 000000[CO]
++Activate Item (must Have On)
+$00C5576F 00000001
++Addon 1
+$00C55770 00000[EFF]
++Addon 2
+$00C55771 00000[EFF]
++Special Addon
+$00C55772 00000[EFF]
+!!
+!Item Slot 12:
++Item Mod
+$10C55774 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55778 0000270F
++Color
+$00C5577A 000000[CO]
++Activate Item (must Have On)
+$00C5577B 00000001
++Addon 1
+$00C5577C 00000[EFF]
++Addon 2
+$00C5577D 00000[EFF]
++Special Addon
+$00C5577E 00000[EFF]
+!!
+!Item Slot 13:
++Item Mod
+$10C55780 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55784 0000270F
++Color
+$00C55786 000000[CO]
++Activate Item (must Have On)
+$00C55787 00000001
++Addon 1
+$00C55788 00000[EFF]
++Addon 2
+$00C55789 00000[EFF]
++Special Addon
+$00C5578A 00000[EFF]
+!!
+!Item Slot 14:
++Item Mod
+$10C5578C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55790 0000270F
++Color
+$00C55792 000000[CO]
++Activate Item (must Have On)
+$00C55793 00000001
++Addon 1
+$00C55794 00000[EFF]
++Addon 2
+$00C55795 00000[EFF]
++Special Addon
+$00C55796 00000[EFF]
+!!
+!Item Slot 15:
++Item Mod
+$10C55798 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5579C 0000270F
++Color
+$00C5579E 000000[CO]
++Activate Item (must Have On)
+$00C5579F 00000001
++Addon 1
+$00C557A0 00000[EFF]
++Addon 2
+$00C557A1 00000[EFF]
++Special Addon
+$00C557A2 00000[EFF]
+!!
+!Item Slot 16:
++Item Mod
+$10C557A4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C557A8 0000270F
++Color
+$00C557AA 000000[CO]
++Activate Item (must Have On)
+$00C557AB 00000001
++Addon 1
+$00C557AC 00000[EFF]
++Addon 2
+$00C557AD 00000[EFF]
++Special Addon
+$00C557AE 00000[EFF]
+!!
+!Item Slot 17:
++Item Mod
+$10C557B0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C557B4 0000270F
++Color
+$00C557B6 000000[CO]
++Activate Item (must Have On)
+$00C557B7 00000001
++Addon 1
+$00C557B8 00000[EFF]
++Addon 2
+$00C557B9 00000[EFF]
++Special Addon
+$00C557BA 00000[EFF]
+!!
+!Item Slot 18:
++Item Mod
+$10C557BC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C557C0 0000270F
++Color
+$00C557C2 000000[CO]
++Activate Item (must Have On)
+$00C557C3 00000001
++Addon 1
+$00C557C4 00000[EFF]
++Addon 2
+$00C557C5 00000[EFF]
++Special Addon
+$00C557C6 00000[EFF]
+!!
+!Item Slot 19:
++Item Mod
+$10C557C8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C557CC 0000270F
++Color
+$00C557CE 000000[CO]
++Activate Item (must Have On)
+$00C557CF 00000001
++Addon 1
+$00C557D0 00000[EFF]
++Addon 2
+$00C557D1 00000[EFF]
++Special Addon
+$00C557D2 00000[EFF]
+!!
+!Item Slot 20:
++Item Mod
+$10C557D4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C557D8 0000270F
++Color
+$00C557DA 000000[CO]
++Activate Item (must Have On)
+$00C557DB 00000001
++Addon 1
+$00C557DC 00000[EFF]
++Addon 2
+$00C557DD 00000[EFF]
++Special Addon
+$00C557DE 00000[EFF]
+!!
+!Item Slot 21:
++Item Mod
+$10C557E0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C557E4 0000270F
++Color
+$00C557E6 000000[CO]
++Activate Item (must Have On)
+$00C557E7 00000001
++Addon 1
+$00C557E8 00000[EFF]
++Addon 2
+$00C557E9 00000[EFF]
++Special Addon
+$00C557EA 00000[EFF]
+!!
+!Item Slot 22:
++Item Mod
+$10C557EC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C557F0 0000270F
++Color
+$00C557F2 000000[CO]
++Activate Item (must Have On)
+$00C557F3 00000001
++Addon 1
+$00C557F4 00000[EFF]
++Addon 2
+$00C557F5 00000[EFF]
++Special Addon
+$00C557F6 00000[EFF]
+!!
+!Item Slot 23:
++Item Mod
+$10C557F8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C557FC 0000270F
++Color
+$00C557FE 000000[CO]
++Activate Item (must Have On)
+$00C557FF 00000001
++Addon 1
+$00C55800 00000[EFF]
++Addon 2
+$00C55801 00000[EFF]
++Special Addon
+$00C55802 00000[EFF]
+!!
+!Item Slot 24:
++Item Mod
+$10C55804 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55808 0000270F
++Color
+$00C5580A 000000[CO]
++Activate Item (must Have On)
+$00C5580B 00000001
++Addon 1
+$00C5580C 00000[EFF]
++Addon 2
+$00C5580D 00000[EFF]
++Special Addon
+$00C5580E 00000[EFF]
+!!
+!Item Slot 25:
++Item Mod
+$10C55810 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55814 0000270F
++Color
+$00C55816 000000[CO]
++Activate Item (must Have On)
+$00C55817 00000001
++Addon 1
+$00C55818 00000[EFF]
++Addon 2
+$00C55819 00000[EFF]
++Special Addon
+$00C5581A 00000[EFF]
+!!
+!Item Slot 26:
++Item Mod
+$10C5581C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55820 0000270F
++Color
+$00C55822 000000[CO]
++Activate Item (must Have On)
+$00C55823 00000001
++Addon 1
+$00C55824 00000[EFF]
++Addon 2
+$00C55825 00000[EFF]
++Special Addon
+$00C55826 00000[EFF]
+!!
+!Item Slot 27:
++Item Mod
+$10C55828 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5582C 0000270F
++Color
+$00C5582E 000000[CO]
++Activate Item (must Have On)
+$00C5582F 00000001
++Addon 1
+$00C55830 00000[EFF]
++Addon 2
+$00C55831 00000[EFF]
++Special Addon
+$00C55832 00000[EFF]
+!!
+!Item Slot 28:
++Item Mod
+$10C55834 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55838 0000270F
++Color
+$00C5583A 000000[CO]
++Activate Item (must Have On)
+$00C5583B 00000001
++Addon 1
+$00C5583C 00000[EFF]
++Addon 2
+$00C5583D 00000[EFF]
++Special Addon
+$00C5583E 00000[EFF]
+!!
+!Item Slot 29:
++Item Mod
+$10C55840 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55844 0000270F
++Color
+$00C55846 000000[CO]
++Activate Item (must Have On)
+$00C55847 00000001
++Addon 1
+$00C55848 00000[EFF]
++Addon 2
+$00C55849 00000[EFF]
++Special Addon
+$00C5584A 00000[EFF]
+!!
+!Item Slot 30:
++Item Mod
+$10C5584C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55850 0000270F
++Color
+$00C55852 000000[CO]
++Activate Item (must Have On)
+$00C55853 00000001
++Addon 1
+$00C55854 00000[EFF]
++Addon 2
+$00C55855 00000[EFF]
++Special Addon
+$00C55856 00000[EFF]
+!!
+!Item Slot 31:
++Item Mod
+$10C55858 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5585C 0000270F
++Color
+$00C5585E 000000[CO]
++Activate Item (must Have On)
+$00C5585F 00000001
++Addon 1
+$00C55860 00000[EFF]
++Addon 2
+$00C55861 00000[EFF]
++Special Addon
+$00C55862 00000[EFF]
+!!
+!Item Slot 32:
++Item Mod
+$10C55864 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55868 0000270F
++Color
+$00C5586A 000000[CO]
++Activate Item (must Have On)
+$00C5586B 00000001
++Addon 1
+$00C5586C 00000[EFF]
++Addon 2
+$00C5586D 00000[EFF]
++Special Addon
+$00C5586E 00000[EFF]
+!!
+!Item Slot 33:
++Item Mod
+$10C55870 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55874 0000270F
++Color
+$00C55876 000000[CO]
++Activate Item (must Have On)
+$00C55877 00000001
++Addon 1
+$00C55878 00000[EFF]
++Addon 2
+$00C55879 00000[EFF]
++Special Addon
+$00C5587A 00000[EFF]
+!!
+!Item Slot 34:
++Item Mod
+$10C5587C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55880 0000270F
++Color
+$00C55882 000000[CO]
++Activate Item (must Have On)
+$00C55883 00000001
++Addon 1
+$00C55884 00000[EFF]
++Addon 2
+$00C55885 00000[EFF]
++Special Addon
+$00C55886 00000[EFF]
+!!
+!Item Slot 35:
++Item Mod
+$10C55888 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5588C 0000270F
++Color
+$00C5588E 000000[CO]
++Activate Item (must Have On)
+$00C5588F 00000001
++Addon 1
+$00C55890 00000[EFF]
++Addon 2
+$00C55891 00000[EFF]
++Special Addon
+$00C55892 00000[EFF]
+!!
+!Item Slot 36:
++Item Mod
+$10C55894 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55898 0000270F
++Color
+$00C5589A 000000[CO]
++Activate Item (must Have On)
+$00C5589B 00000001
++Addon 1
+$00C5589C 00000[EFF]
++Addon 2
+$00C5589D 00000[EFF]
++Special Addon
+$00C5589E 00000[EFF]
+!!
+!Item Slot 37:
++Item Mod
+$10C558A0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C558A4 0000270F
++Color
+$00C558A6 000000[CO]
++Activate Item (must Have On)
+$00C558A7 00000001
++Addon 1
+$00C558A8 00000[EFF]
++Addon 2
+$00C558A9 00000[EFF]
++Special Addon
+$00C558AA 00000[EFF]
+!!
+!Item Slot 38:
++Item Mod
+$10C558AC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C558B0 0000270F
++Color
+$00C558B2 000000[CO]
++Activate Item (must Have On)
+$00C558B3 00000001
++Addon 1
+$00C558B4 00000[EFF]
++Addon 2
+$00C558B5 00000[EFF]
++Special Addon
+$00C558B6 00000[EFF]
+!!
+!Item Slot 39:
++Item Mod
+$10C558B8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C558BC 0000270F
++Color
+$00C558BE 000000[CO]
++Activate Item (must Have On)
+$00C558BF 00000001
++Addon 1
+$00C558C0 00000[EFF]
++Addon 2
+$00C558C1 00000[EFF]
++Special Addon
+$00C558C2 00000[EFF]
+!!
+!Item Slot 40:
++Item Mod
+$10C558C4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C558C8 0000270F
++Color
+$00C558CA 000000[CO]
++Activate Item (must Have On)
+$00C558CB 00000001
++Addon 1
+$00C558CC 00000[EFF]
++Addon 2
+$00C558CD 00000[EFF]
++Special Addon
+$00C558CE 00000[EFF]
+!!
+!Item Slot 41:
++Item Mod
+$10C558D0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C558D4 0000270F
++Color
+$00C558D6 000000[CO]
++Activate Item (must Have On)
+$00C558D7 00000001
++Addon 1
+$00C558D8 00000[EFF]
++Addon 2
+$00C558D9 00000[EFF]
++Special Addon
+$00C558DA 00000[EFF]
+!!
+!Item Slot 42:
++Item Mod
+$10C558DC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C558E0 0000270F
++Color
+$00C558E2 000000[CO]
++Activate Item (must Have On)
+$00C558E3 00000001
++Addon 1
+$00C558E4 00000[EFF]
++Addon 2
+$00C558E5 00000[EFF]
++Special Addon
+$00C558E6 00000[EFF]
+!!
+!Item Slot 43:
++Item Mod
+$10C558E8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C558EC 0000270F
++Color
+$00C558EE 000000[CO]
++Activate Item (must Have On)
+$00C558EF 00000001
++Addon 1
+$00C558F0 00000[EFF]
++Addon 2
+$00C558F1 00000[EFF]
++Special Addon
+$00C558F2 00000[EFF]
+!!
+!Item Slot 44:
++Item Mod
+$10C558F4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C558F8 0000270F
++Color
+$00C558FA 000000[CO]
++Activate Item (must Have On)
+$00C558FB 00000001
++Addon 1
+$00C558FC 00000[EFF]
++Addon 2
+$00C558FD 00000[EFF]
++Special Addon
+$00C558FE 00000[EFF]
+!!
+!Item Slot 45:
++Item Mod
+$10C55900 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55904 0000270F
++Color
+$00C55906 000000[CO]
++Activate Item (must Have On)
+$00C55907 00000001
++Addon 1
+$00C55908 00000[EFF]
++Addon 2
+$00C55909 00000[EFF]
++Special Addon
+$00C5590A 00000[EFF]
+!!
+!!
+!Tomas Items (44 Slots):
+!Item Slot 1:
++Item Mod
+$10C55494 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55498 0000270F
++Color
+$00C5549A 000000[CO]
++Activate Item (must Have On)
+$00C5549B 00000001
++Addon 1
+$00C5549C 00000[EFF]
++Addon 2
+$00C5549D 00000[EFF]
++Special Addon
+$00C5549E 00000[EFF]
+!!
+!Item Slot 2:
++Item Mod
+$10C554A0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C554A4 0000270F
++Color
+$00C554A6 000000[CO]
++Activate Item (must Have On)
+$00C554A7 00000001
++Addon 1
+$00C554A8 00000[EFF]
++Addon 2
+$00C554A9 00000[EFF]
++Special Addon
+$00C554AA 00000[EFF]
+!!
+!Item Slot 3:
++Item Mod
+$10C554AC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C554B0 0000270F
++Color
+$00C554B2 000000[CO]
++Activate Item (must Have On)
+$00C554B3 00000001
++Addon 1
+$00C554B4 00000[EFF]
++Addon 2
+$00C554B5 00000[EFF]
++Special Addon
+$00C554B6 00000[EFF]
+!!
+!Item Slot 4:
++Item Mod
+$10C554B8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C554BC 0000270F
++Color
+$00C554BE 000000[CO]
++Activate Item (must Have On)
+$00C554BF 00000001
++Addon 1
+$00C554C0 00000[EFF]
++Addon 2
+$00C554C1 00000[EFF]
++Special Addon
+$00C554C2 00000[EFF]
+!!
+!Item Slot 5:
++Item Mod
+$10C554C4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C554C8 0000270F
++Color
+$00C554CA 000000[CO]
++Activate Item (must Have On)
+$00C554CB 00000001
++Addon 1
+$00C554CC 00000[EFF]
++Addon 2
+$00C554CD 00000[EFF]
++Special Addon
+$00C554CE 00000[EFF]
+!!
+!Item Slot 6:
++Item Mod
+$10C554D0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C554D4 0000270F
++Color
+$00C554D6 000000[CO]
++Activate Item (must Have On)
+$00C554D7 00000001
++Addon 1
+$00C554D8 00000[EFF]
++Addon 2
+$00C554D9 00000[EFF]
++Special Addon
+$00C554DA 00000[EFF]
+!!
+!Item Slot 7:
++Item Mod
+$10C554DC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C554E0 0000270F
++Color
+$00C554E2 000000[CO]
++Activate Item (must Have On)
+$00C554E3 00000001
++Addon 1
+$00C554E4 00000[EFF]
++Addon 2
+$00C554E5 00000[EFF]
++Special Addon
+$00C554E6 00000[EFF]
+!!
+!Item Slot 8:
++Item Mod
+$10C554E8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C554EC 0000270F
++Color
+$00C554EE 000000[CO]
++Activate Item (must Have On)
+$00C554EF 00000001
++Addon 1
+$00C554F0 00000[EFF]
++Addon 2
+$00C554F1 00000[EFF]
++Special Addon
+$00C554F2 00000[EFF]
+!!
+!Item Slot 9:
++Item Mod
+$10C554F4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C554F8 0000270F
++Color
+$00C554FA 000000[CO]
++Activate Item (must Have On)
+$00C554FB 00000001
++Addon 1
+$00C554FC 00000[EFF]
++Addon 2
+$00C554FD 00000[EFF]
++Special Addon
+$00C554FE 00000[EFF]
+!!
+!Item Slot 10:
++Item Mod
+$10C55500 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55504 0000270F
++Color
+$00C55506 000000[CO]
++Activate Item (must Have On)
+$00C55507 00000001
++Addon 1
+$00C55508 00000[EFF]
++Addon 2
+$00C55509 00000[EFF]
++Special Addon
+$00C5550A 00000[EFF]
+!!
+!Item Slot 11:
++Item Mod
+$10C5550C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55510 0000270F
++Color
+$00C55512 000000[CO]
++Activate Item (must Have On)
+$00C55513 00000001
++Addon 1
+$00C55514 00000[EFF]
++Addon 2
+$00C55515 00000[EFF]
++Special Addon
+$00C55516 00000[EFF]
+!!
+!Item Slot 12:
++Item Mod
+$10C55518 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5551C 0000270F
++Color
+$00C5551E 000000[CO]
++Activate Item (must Have On)
+$00C5551F 00000001
++Addon 1
+$00C55520 00000[EFF]
++Addon 2
+$00C55521 00000[EFF]
++Special Addon
+$00C55522 00000[EFF]
+!!
+!Item Slot 13:
++Item Mod
+$10C55524 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55528 0000270F
++Color
+$00C5552A 000000[CO]
++Activate Item (must Have On)
+$00C5552B 00000001
++Addon 1
+$00C5552C 00000[EFF]
++Addon 2
+$00C5552D 00000[EFF]
++Special Addon
+$00C5552E 00000[EFF]
+!!
+!Item Slot 14:
++Item Mod
+$10C55530 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55534 0000270F
++Color
+$00C55536 000000[CO]
++Activate Item (must Have On)
+$00C55537 00000001
++Addon 1
+$00C55538 00000[EFF]
++Addon 2
+$00C55539 00000[EFF]
++Special Addon
+$00C5553A 00000[EFF]
+!!
+!Item Slot 15:
++Item Mod
+$10C5553C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55540 0000270F
++Color
+$00C55542 000000[CO]
++Activate Item (must Have On)
+$00C55543 00000001
++Addon 1
+$00C55544 00000[EFF]
++Addon 2
+$00C55545 00000[EFF]
++Special Addon
+$00C55546 00000[EFF]
+!!
+!Item Slot 16:
++Item Mod
+$10C55548 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5554C 0000270F
++Color
+$00C5554E 000000[CO]
++Activate Item (must Have On)
+$00C5554F 00000001
++Addon 1
+$00C55550 00000[EFF]
++Addon 2
+$00C55551 00000[EFF]
++Special Addon
+$00C55552 00000[EFF]
+!!
+!Item Slot 17:
++Item Mod
+$10C55554 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55558 0000270F
++Color
+$00C5555A 000000[CO]
++Activate Item (must Have On)
+$00C5555B 00000001
++Addon 1
+$00C5555C 00000[EFF]
++Addon 2
+$00C5555D 00000[EFF]
++Special Addon
+$00C5555E 00000[EFF]
+!!
+!Item Slot 18:
++Item Mod
+$10C55560 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55564 0000270F
++Color
+$00C55566 000000[CO]
++Activate Item (must Have On)
+$00C55567 00000001
++Addon 1
+$00C55568 00000[EFF]
++Addon 2
+$00C55569 00000[EFF]
++Special Addon
+$00C5556A 00000[EFF]
+!!
+!Item Slot 19:
++Item Mod
+$10C5556C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55570 0000270F
++Color
+$00C55572 000000[CO]
++Activate Item (must Have On)
+$00C55573 00000001
++Addon 1
+$00C55574 00000[EFF]
++Addon 2
+$00C55575 00000[EFF]
++Special Addon
+$00C55576 00000[EFF]
+!!
+!Item Slot 20:
++Item Mod
+$10C55578 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5557C 0000270F
++Color
+$00C5557E 000000[CO]
++Activate Item (must Have On)
+$00C5557F 00000001
++Addon 1
+$00C55580 00000[EFF]
++Addon 2
+$00C55581 00000[EFF]
++Special Addon
+$00C55582 00000[EFF]
+!!
+!Item Slot 21:
++Item Mod
+$10C55584 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55588 0000270F
++Color
+$00C5558A 000000[CO]
++Activate Item (must Have On)
+$00C5558B 00000001
++Addon 1
+$00C5558C 00000[EFF]
++Addon 2
+$00C5558D 00000[EFF]
++Special Addon
+$00C5558E 00000[EFF]
+!!
+!Item Slot 22:
++Item Mod
+$10C55590 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55594 0000270F
++Color
+$00C55596 000000[CO]
++Activate Item (must Have On)
+$00C55597 00000001
++Addon 1
+$00C55598 00000[EFF]
++Addon 2
+$00C55599 00000[EFF]
++Special Addon
+$00C5559A 00000[EFF]
+!!
+!Item Slot 23:
++Item Mod
+$10C5559C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C555A0 0000270F
++Color
+$00C555A2 000000[CO]
++Activate Item (must Have On)
+$00C555A3 00000001
++Addon 1
+$00C555A4 00000[EFF]
++Addon 2
+$00C555A5 00000[EFF]
++Special Addon
+$00C555A6 00000[EFF]
+!!
+!Item Slot 24:
++Item Mod
+$10C555A8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C555AC 0000270F
++Color
+$00C555AE 000000[CO]
++Activate Item (must Have On)
+$00C555AF 00000001
++Addon 1
+$00C555B0 00000[EFF]
++Addon 2
+$00C555B1 00000[EFF]
++Special Addon
+$00C555B2 00000[EFF]
+!!
+!Item Slot 25:
++Item Mod
+$10C555B4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C555B8 0000270F
++Color
+$00C555BA 000000[CO]
++Activate Item (must Have On)
+$00C555BB 00000001
++Addon 1
+$00C555BC 00000[EFF]
++Addon 2
+$00C555BD 00000[EFF]
++Special Addon
+$00C555BE 00000[EFF]
+!!
+!Item Slot 26:
++Item Mod
+$10C555C0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C555C4 0000270F
++Color
+$00C555C6 000000[CO]
++Activate Item (must Have On)
+$00C555C7 00000001
++Addon 1
+$00C555C8 00000[EFF]
++Addon 2
+$00C555C9 00000[EFF]
++Special Addon
+$00C555CA 00000[EFF]
+!!
+!Item Slot 27:
++Item Mod
+$10C555CC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C555D0 0000270F
++Color
+$00C555D2 000000[CO]
++Activate Item (must Have On)
+$00C555D3 00000001
++Addon 1
+$00C555D4 00000[EFF]
++Addon 2
+$00C555D5 00000[EFF]
++Special Addon
+$00C555D6 00000[EFF]
+!!
+!Item Slot 28:
++Item Mod
+$10C555D8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C555DC 0000270F
++Color
+$00C555DE 000000[CO]
++Activate Item (must Have On)
+$00C555DF 00000001
++Addon 1
+$00C555E0 00000[EFF]
++Addon 2
+$00C555E1 00000[EFF]
++Special Addon
+$00C555E2 00000[EFF]
+!!
+!Item Slot 29:
++Item Mod
+$10C555E4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C555E8 0000270F
++Color
+$00C555EA 000000[CO]
++Activate Item (must Have On)
+$00C555EB 00000001
++Addon 1
+$00C555EC 00000[EFF]
++Addon 2
+$00C555ED 00000[EFF]
++Special Addon
+$00C555EE 00000[EFF]
+!!
+!Item Slot 30:
++Item Mod
+$10C555F0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C555F4 0000270F
++Color
+$00C555F6 000000[CO]
++Activate Item (must Have On)
+$00C555F7 00000001
++Addon 1
+$00C555F8 00000[EFF]
++Addon 2
+$00C555F9 00000[EFF]
++Special Addon
+$00C555FA 00000[EFF]
+!!
+!Item Slot 31:
++Item Mod
+$10C555FC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55600 0000270F
++Color
+$00C55602 000000[CO]
++Activate Item (must Have On)
+$00C55603 00000001
++Addon 1
+$00C55604 00000[EFF]
++Addon 2
+$00C55605 00000[EFF]
++Special Addon
+$00C55606 00000[EFF]
+!!
+!Item Slot 32:
++Item Mod
+$10C55608 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5560C 0000270F
++Color
+$00C5560E 000000[CO]
++Activate Item (must Have On)
+$00C5560F 00000001
++Addon 1
+$00C55610 00000[EFF]
++Addon 2
+$00C55611 00000[EFF]
++Special Addon
+$00C55612 00000[EFF]
+!!
+!Item Slot 33:
++Item Mod
+$10C55614 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55618 0000270F
++Color
+$00C5561A 000000[CO]
++Activate Item (must Have On)
+$00C5561B 00000001
++Addon 1
+$00C5561C 00000[EFF]
++Addon 2
+$00C5561D 00000[EFF]
++Special Addon
+$00C5561E 00000[EFF]
+!!
+!Item Slot 34:
++Item Mod
+$10C55620 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55624 0000270F
++Color
+$00C55626 000000[CO]
++Activate Item (must Have On)
+$00C55627 00000001
++Addon 1
+$00C55628 00000[EFF]
++Addon 2
+$00C55629 00000[EFF]
++Special Addon
+$00C5562A 00000[EFF]
+!!
+!Item Slot 35:
++Item Mod
+$10C5562C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55630 0000270F
++Color
+$00C55632 000000[CO]
++Activate Item (must Have On)
+$00C55633 00000001
++Addon 1
+$00C55634 00000[EFF]
++Addon 2
+$00C55635 00000[EFF]
++Special Addon
+$00C55636 00000[EFF]
+!!
+!Item Slot 36:
++Item Mod
+$10C55638 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5563C 0000270F
++Color
+$00C5563E 000000[CO]
++Activate Item (must Have On)
+$00C5563F 00000001
++Addon 1
+$00C55640 00000[EFF]
++Addon 2
+$00C55641 00000[EFF]
++Special Addon
+$00C55642 00000[EFF]
+!!
+!Item Slot 37:
++Item Mod
+$10C55644 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55648 0000270F
++Color
+$00C5564A 000000[CO]
++Activate Item (must Have On)
+$00C5564B 00000001
++Addon 1
+$00C5564C 00000[EFF]
++Addon 2
+$00C5564D 00000[EFF]
++Special Addon
+$00C5564E 00000[EFF]
+!!
+!Item Slot 38:
++Item Mod
+$10C55650 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55654 0000270F
++Color
+$00C55656 000000[CO]
++Activate Item (must Have On)
+$00C55657 00000001
++Addon 1
+$00C55658 00000[EFF]
++Addon 2
+$00C55659 00000[EFF]
++Special Addon
+$00C5565A 00000[EFF]
+!!
+!Item Slot 39:
++Item Mod
+$10C5565C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55660 0000270F
++Color
+$00C55662 000000[CO]
++Activate Item (must Have On)
+$00C55663 00000001
++Addon 1
+$00C55664 00000[EFF]
++Addon 2
+$00C55665 00000[EFF]
++Special Addon
+$00C55666 00000[EFF]
+!!
+!Item Slot 40:
++Item Mod
+$10C55668 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5566C 0000270F
++Color
+$00C5566E 000000[CO]
++Activate Item (must Have On)
+$00C5566F 00000001
++Addon 1
+$00C55670 00000[EFF]
++Addon 2
+$00C55671 00000[EFF]
++Special Addon
+$00C55672 00000[EFF]
+!!
+!Item Slot 41:
++Item Mod
+$10C55674 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55678 0000270F
++Color
+$00C5567A 000000[CO]
++Activate Item (must Have On)
+$00C5567B 00000001
++Addon 1
+$00C5567C 00000[EFF]
++Addon 2
+$00C5567D 00000[EFF]
++Special Addon
+$00C5567E 00000[EFF]
+!!
+!Item Slot 42:
++Item Mod
+$10C55680 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55684 0000270F
++Color
+$00C55686 000000[CO]
++Activate Item (must Have On)
+$00C55687 00000001
++Addon 1
+$00C55688 00000[EFF]
++Addon 2
+$00C55689 00000[EFF]
++Special Addon
+$00C5568A 00000[EFF]
+!!
+!Item Slot 43:
++Item Mod
+$10C5568C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55690 0000270F
++Color
+$00C55692 000000[CO]
++Activate Item (must Have On)
+$00C55693 00000001
++Addon 1
+$00C55694 00000[EFF]
++Addon 2
+$00C55695 00000[EFF]
++Special Addon
+$00C55696 00000[EFF]
+!!
+!Item Slot 44:
++Item Mod
+$10C55698 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5569C 0000270F
++Color
+$00C5569E 000000[CO]
++Activate Item (must Have On)
+$00C5569F 00000001
++Addon 1
+$00C556A0 00000[EFF]
++Addon 2
+$00C556A1 00000[EFF]
++Special Addon
+$00C556A2 00000[EFF]
+!!
+!!
+!Storage (250 Slots):
+!Item Slot 1:
++Item Mod
+$10C548D8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C548DC 0000270F
++Color
+$00C548DE 000000[CO]
++Activate Item (must Have On)
+$00C548DF 00000001
++Addon 1
+$00C548E0 00000[EFF]
++Addon 2
+$00C548E1 00000[EFF]
++Special Addon
+$00C548E2 00000[EFF]
+!!
+!Item Slot 2:
++Item Mod
+$10C548E4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C548E8 0000270F
++Color
+$00C548EA 000000[CO]
++Activate Item (must Have On)
+$00C548EB 00000001
++Addon 1
+$00C548EC 00000[EFF]
++Addon 2
+$00C548ED 00000[EFF]
++Special Addon
+$00C548EE 00000[EFF]
+!!
+!Item Slot 3:
++Item Mod
+$10C548F0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C548F4 0000270F
++Color
+$00C548F6 000000[CO]
++Activate Item (must Have On)
+$00C548F7 00000001
++Addon 1
+$00C548F8 00000[EFF]
++Addon 2
+$00C548F9 00000[EFF]
++Special Addon
+$00C548FA 00000[EFF]
+!!
+!Item Slot 4:
++Item Mod
+$10C548FC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54900 0000270F
++Color
+$00C54902 000000[CO]
++Activate Item (must Have On)
+$00C54903 00000001
++Addon 1
+$00C54904 00000[EFF]
++Addon 2
+$00C54905 00000[EFF]
++Special Addon
+$00C54906 00000[EFF]
+!!
+!Item Slot 5:
++Item Mod
+$10C54908 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5490C 0000270F
++Color
+$00C5490E 000000[CO]
++Activate Item (must Have On)
+$00C5490F 00000001
++Addon 1
+$00C54910 00000[EFF]
++Addon 2
+$00C54911 00000[EFF]
++Special Addon
+$00C54912 00000[EFF]
+!!
+!Item Slot 6:
++Item Mod
+$10C54914 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54918 0000270F
++Color
+$00C5491A 000000[CO]
++Activate Item (must Have On)
+$00C5491B 00000001
++Addon 1
+$00C5491C 00000[EFF]
++Addon 2
+$00C5491D 00000[EFF]
++Special Addon
+$00C5491E 00000[EFF]
+!!
+!Item Slot 7:
++Item Mod
+$10C54920 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54924 0000270F
++Color
+$00C54926 000000[CO]
++Activate Item (must Have On)
+$00C54927 00000001
++Addon 1
+$00C54928 00000[EFF]
++Addon 2
+$00C54929 00000[EFF]
++Special Addon
+$00C5492A 00000[EFF]
+!!
+!Item Slot 8:
++Item Mod
+$10C5492C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54930 0000270F
++Color
+$00C54932 000000[CO]
++Activate Item (must Have On)
+$00C54933 00000001
++Addon 1
+$00C54934 00000[EFF]
++Addon 2
+$00C54935 00000[EFF]
++Special Addon
+$00C54936 00000[EFF]
+!!
+!Item Slot 9:
++Item Mod
+$10C54938 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5493C 0000270F
++Color
+$00C5493E 000000[CO]
++Activate Item (must Have On)
+$00C5493F 00000001
++Addon 1
+$00C54940 00000[EFF]
++Addon 2
+$00C54941 00000[EFF]
++Special Addon
+$00C54942 00000[EFF]
+!!
+!Item Slot 10:
++Item Mod
+$10C54944 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54948 0000270F
++Color
+$00C5494A 000000[CO]
++Activate Item (must Have On)
+$00C5494B 00000001
++Addon 1
+$00C5494C 00000[EFF]
++Addon 2
+$00C5494D 00000[EFF]
++Special Addon
+$00C5494E 00000[EFF]
+!!
+!Item Slot 11:
++Item Mod
+$10C54950 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54954 0000270F
++Color
+$00C54956 000000[CO]
++Activate Item (must Have On)
+$00C54957 00000001
++Addon 1
+$00C54958 00000[EFF]
++Addon 2
+$00C54959 00000[EFF]
++Special Addon
+$00C5495A 00000[EFF]
+!!
+!Item Slot 12:
++Item Mod
+$10C5495C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54960 0000270F
++Color
+$00C54962 000000[CO]
++Activate Item (must Have On)
+$00C54963 00000001
++Addon 1
+$00C54964 00000[EFF]
++Addon 2
+$00C54965 00000[EFF]
++Special Addon
+$00C54966 00000[EFF]
+!!
+!Item Slot 13:
++Item Mod
+$10C54968 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5496C 0000270F
++Color
+$00C5496E 000000[CO]
++Activate Item (must Have On)
+$00C5496F 00000001
++Addon 1
+$00C54970 00000[EFF]
++Addon 2
+$00C54971 00000[EFF]
++Special Addon
+$00C54972 00000[EFF]
+!!
+!Item Slot 14:
++Item Mod
+$10C54974 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54978 0000270F
++Color
+$00C5497A 000000[CO]
++Activate Item (must Have On)
+$00C5497B 00000001
++Addon 1
+$00C5497C 00000[EFF]
++Addon 2
+$00C5497D 00000[EFF]
++Special Addon
+$00C5497E 00000[EFF]
+!!
+!Item Slot 15:
++Item Mod
+$10C54980 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54984 0000270F
++Color
+$00C54986 000000[CO]
++Activate Item (must Have On)
+$00C54987 00000001
++Addon 1
+$00C54988 00000[EFF]
++Addon 2
+$00C54989 00000[EFF]
++Special Addon
+$00C5498A 00000[EFF]
+!!
+!Item Slot 16:
++Item Mod
+$10C5498C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54990 0000270F
++Color
+$00C54992 000000[CO]
++Activate Item (must Have On)
+$00C54993 00000001
++Addon 1
+$00C54994 00000[EFF]
++Addon 2
+$00C54995 00000[EFF]
++Special Addon
+$00C54996 00000[EFF]
+!!
+!Item Slot 17:
++Item Mod
+$10C54998 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5499C 0000270F
++Color
+$00C5499E 000000[CO]
++Activate Item (must Have On)
+$00C5499F 00000001
++Addon 1
+$00C549A0 00000[EFF]
++Addon 2
+$00C549A1 00000[EFF]
++Special Addon
+$00C549A2 00000[EFF]
+!!
+!Item Slot 18:
++Item Mod
+$10C549A4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C549A8 0000270F
++Color
+$00C549AA 000000[CO]
++Activate Item (must Have On)
+$00C549AB 00000001
++Addon 1
+$00C549AC 00000[EFF]
++Addon 2
+$00C549AD 00000[EFF]
++Special Addon
+$00C549AE 00000[EFF]
+!!
+!Item Slot 19:
++Item Mod
+$10C549B0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C549B4 0000270F
++Color
+$00C549B6 000000[CO]
++Activate Item (must Have On)
+$00C549B7 00000001
++Addon 1
+$00C549B8 00000[EFF]
++Addon 2
+$00C549B9 00000[EFF]
++Special Addon
+$00C549BA 00000[EFF]
+!!
+!Item Slot 20:
++Item Mod
+$10C549BC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C549C0 0000270F
++Color
+$00C549C2 000000[CO]
++Activate Item (must Have On)
+$00C549C3 00000001
++Addon 1
+$00C549C4 00000[EFF]
++Addon 2
+$00C549C5 00000[EFF]
++Special Addon
+$00C549C6 00000[EFF]
+!!
+!Item Slot 21:
++Item Mod
+$10C549C8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C549CC 0000270F
++Color
+$00C549CE 000000[CO]
++Activate Item (must Have On)
+$00C549CF 00000001
++Addon 1
+$00C549D0 00000[EFF]
++Addon 2
+$00C549D1 00000[EFF]
++Special Addon
+$00C549D2 00000[EFF]
+!!
+!Item Slot 22:
++Item Mod
+$10C549D4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C549D8 0000270F
++Color
+$00C549DA 000000[CO]
++Activate Item (must Have On)
+$00C549DB 00000001
++Addon 1
+$00C549DC 00000[EFF]
++Addon 2
+$00C549DD 00000[EFF]
++Special Addon
+$00C549DE 00000[EFF]
+!!
+!Item Slot 23:
++Item Mod
+$10C549E0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C549E4 0000270F
++Color
+$00C549E6 000000[CO]
++Activate Item (must Have On)
+$00C549E7 00000001
++Addon 1
+$00C549E8 00000[EFF]
++Addon 2
+$00C549E9 00000[EFF]
++Special Addon
+$00C549EA 00000[EFF]
+!!
+!Item Slot 24:
++Item Mod
+$10C549EC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C549F0 0000270F
++Color
+$00C549F2 000000[CO]
++Activate Item (must Have On)
+$00C549F3 00000001
++Addon 1
+$00C549F4 00000[EFF]
++Addon 2
+$00C549F5 00000[EFF]
++Special Addon
+$00C549F6 00000[EFF]
+!!
+!Item Slot 25:
++Item Mod
+$10C549F8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C549FC 0000270F
++Color
+$00C549FE 000000[CO]
++Activate Item (must Have On)
+$00C549FF 00000001
++Addon 1
+$00C54A00 00000[EFF]
++Addon 2
+$00C54A01 00000[EFF]
++Special Addon
+$00C54A02 00000[EFF]
+!!
+!Item Slot 26:
++Item Mod
+$10C54A04 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54A08 0000270F
++Color
+$00C54A0A 000000[CO]
++Activate Item (must Have On)
+$00C54A0B 00000001
++Addon 1
+$00C54A0C 00000[EFF]
++Addon 2
+$00C54A0D 00000[EFF]
++Special Addon
+$00C54A0E 00000[EFF]
+!!
+!Item Slot 27:
++Item Mod
+$10C54A10 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54A14 0000270F
++Color
+$00C54A16 000000[CO]
++Activate Item (must Have On)
+$00C54A17 00000001
++Addon 1
+$00C54A18 00000[EFF]
++Addon 2
+$00C54A19 00000[EFF]
++Special Addon
+$00C54A1A 00000[EFF]
+!!
+!Item Slot 28:
++Item Mod
+$10C54A1C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54A20 0000270F
++Color
+$00C54A22 000000[CO]
++Activate Item (must Have On)
+$00C54A23 00000001
++Addon 1
+$00C54A24 00000[EFF]
++Addon 2
+$00C54A25 00000[EFF]
++Special Addon
+$00C54A26 00000[EFF]
+!!
+!Item Slot 29:
++Item Mod
+$10C54A28 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54A2C 0000270F
++Color
+$00C54A2E 000000[CO]
++Activate Item (must Have On)
+$00C54A2F 00000001
++Addon 1
+$00C54A30 00000[EFF]
++Addon 2
+$00C54A31 00000[EFF]
++Special Addon
+$00C54A32 00000[EFF]
+!!
+!Item Slot 30:
++Item Mod
+$10C54A34 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54A38 0000270F
++Color
+$00C54A3A 000000[CO]
++Activate Item (must Have On)
+$00C54A3B 00000001
++Addon 1
+$00C54A3C 00000[EFF]
++Addon 2
+$00C54A3D 00000[EFF]
++Special Addon
+$00C54A3E 00000[EFF]
+!!
+!Item Slot 31:
++Item Mod
+$10C54A40 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54A44 0000270F
++Color
+$00C54A46 000000[CO]
++Activate Item (must Have On)
+$00C54A47 00000001
++Addon 1
+$00C54A48 00000[EFF]
++Addon 2
+$00C54A49 00000[EFF]
++Special Addon
+$00C54A4A 00000[EFF]
+!!
+!Item Slot 32:
++Item Mod
+$10C54A4C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54A50 0000270F
++Color
+$00C54A52 000000[CO]
++Activate Item (must Have On)
+$00C54A53 00000001
++Addon 1
+$00C54A54 00000[EFF]
++Addon 2
+$00C54A55 00000[EFF]
++Special Addon
+$00C54A56 00000[EFF]
+!!
+!Item Slot 33:
++Item Mod
+$10C54A58 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54A5C 0000270F
++Color
+$00C54A5E 000000[CO]
++Activate Item (must Have On)
+$00C54A5F 00000001
++Addon 1
+$00C54A60 00000[EFF]
++Addon 2
+$00C54A61 00000[EFF]
++Special Addon
+$00C54A62 00000[EFF]
+!!
+!Item Slot 34:
++Item Mod
+$10C54A64 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54A68 0000270F
++Color
+$00C54A6A 000000[CO]
++Activate Item (must Have On)
+$00C54A6B 00000001
++Addon 1
+$00C54A6C 00000[EFF]
++Addon 2
+$00C54A6D 00000[EFF]
++Special Addon
+$00C54A6E 00000[EFF]
+!!
+!Item Slot 35:
++Item Mod
+$10C54A70 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54A74 0000270F
++Color
+$00C54A76 000000[CO]
++Activate Item (must Have On)
+$00C54A77 00000001
++Addon 1
+$00C54A78 00000[EFF]
++Addon 2
+$00C54A79 00000[EFF]
++Special Addon
+$00C54A7A 00000[EFF]
+!!
+!Item Slot 36:
++Item Mod
+$10C54A7C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54A80 0000270F
++Color
+$00C54A82 000000[CO]
++Activate Item (must Have On)
+$00C54A83 00000001
++Addon 1
+$00C54A84 00000[EFF]
++Addon 2
+$00C54A85 00000[EFF]
++Special Addon
+$00C54A86 00000[EFF]
+!!
+!Item Slot 37:
++Item Mod
+$10C54A88 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54A8C 0000270F
++Color
+$00C54A8E 000000[CO]
++Activate Item (must Have On)
+$00C54A8F 00000001
++Addon 1
+$00C54A90 00000[EFF]
++Addon 2
+$00C54A91 00000[EFF]
++Special Addon
+$00C54A92 00000[EFF]
+!!
+!Item Slot 38:
++Item Mod
+$10C54A94 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54A98 0000270F
++Color
+$00C54A9A 000000[CO]
++Activate Item (must Have On)
+$00C54A9B 00000001
++Addon 1
+$00C54A9C 00000[EFF]
++Addon 2
+$00C54A9D 00000[EFF]
++Special Addon
+$00C54A9E 00000[EFF]
+!!
+!Item Slot 39:
++Item Mod
+$10C54AA0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54AA4 0000270F
++Color
+$00C54AA6 000000[CO]
++Activate Item (must Have On)
+$00C54AA7 00000001
++Addon 1
+$00C54AA8 00000[EFF]
++Addon 2
+$00C54AA9 00000[EFF]
++Special Addon
+$00C54AAA 00000[EFF]
+!!
+!Item Slot 40:
++Item Mod
+$10C54AAC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54AB0 0000270F
++Color
+$00C54AB2 000000[CO]
++Activate Item (must Have On)
+$00C54AB3 00000001
++Addon 1
+$00C54AB4 00000[EFF]
++Addon 2
+$00C54AB5 00000[EFF]
++Special Addon
+$00C54AB6 00000[EFF]
+!!
+!Item Slot 41:
++Item Mod
+$10C54AB8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54ABC 0000270F
++Color
+$00C54ABE 000000[CO]
++Activate Item (must Have On)
+$00C54ABF 00000001
++Addon 1
+$00C54AC0 00000[EFF]
++Addon 2
+$00C54AC1 00000[EFF]
++Special Addon
+$00C54AC2 00000[EFF]
+!!
+!Item Slot 42:
++Item Mod
+$10C54AC4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54AC8 0000270F
++Color
+$00C54ACA 000000[CO]
++Activate Item (must Have On)
+$00C54ACB 00000001
++Addon 1
+$00C54ACC 00000[EFF]
++Addon 2
+$00C54ACD 00000[EFF]
++Special Addon
+$00C54ACE 00000[EFF]
+!!
+!Item Slot 43:
++Item Mod
+$10C54AD0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54AD4 0000270F
++Color
+$00C54AD6 000000[CO]
++Activate Item (must Have On)
+$00C54AD7 00000001
++Addon 1
+$00C54AD8 00000[EFF]
++Addon 2
+$00C54AD9 00000[EFF]
++Special Addon
+$00C54ADA 00000[EFF]
+!!
+!Item Slot 44:
++Item Mod
+$10C54ADC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54AE0 0000270F
++Color
+$00C54AE2 000000[CO]
++Activate Item (must Have On)
+$00C54AE3 00000001
++Addon 1
+$00C54AE4 00000[EFF]
++Addon 2
+$00C54AE5 00000[EFF]
++Special Addon
+$00C54AE6 00000[EFF]
+!!
+!Item Slot 45:
++Item Mod
+$10C54AE8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54AEC 0000270F
++Color
+$00C54AEE 000000[CO]
++Activate Item (must Have On)
+$00C54AEF 00000001
++Addon 1
+$00C54AF0 00000[EFF]
++Addon 2
+$00C54AF1 00000[EFF]
++Special Addon
+$00C54AF2 00000[EFF]
+!!
+!Item Slot 46:
++Item Mod
+$10C54AF4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54AF8 0000270F
++Color
+$00C54AFA 000000[CO]
++Activate Item (must Have On)
+$00C54AFB 00000001
++Addon 1
+$00C54AFC 00000[EFF]
++Addon 2
+$00C54AFD 00000[EFF]
++Special Addon
+$00C54AFE 00000[EFF]
+!!
+!Item Slot 47:
++Item Mod
+$10C54B00 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54B04 0000270F
++Color
+$00C54B06 000000[CO]
++Activate Item (must Have On)
+$00C54B07 00000001
++Addon 1
+$00C54B08 00000[EFF]
++Addon 2
+$00C54B09 00000[EFF]
++Special Addon
+$00C54B0A 00000[EFF]
+!!
+!Item Slot 48:
++Item Mod
+$10C54B0C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54B10 0000270F
++Color
+$00C54B12 000000[CO]
++Activate Item (must Have On)
+$00C54B13 00000001
++Addon 1
+$00C54B14 00000[EFF]
++Addon 2
+$00C54B15 00000[EFF]
++Special Addon
+$00C54B16 00000[EFF]
+!!
+!Item Slot 49:
++Item Mod
+$10C54B18 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54B1C 0000270F
++Color
+$00C54B1E 000000[CO]
++Activate Item (must Have On)
+$00C54B1F 00000001
++Addon 1
+$00C54B20 00000[EFF]
++Addon 2
+$00C54B21 00000[EFF]
++Special Addon
+$00C54B22 00000[EFF]
+!!
+!Item Slot 50:
++Item Mod
+$10C54B24 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54B28 0000270F
++Color
+$00C54B2A 000000[CO]
++Activate Item (must Have On)
+$00C54B2B 00000001
++Addon 1
+$00C54B2C 00000[EFF]
++Addon 2
+$00C54B2D 00000[EFF]
++Special Addon
+$00C54B2E 00000[EFF]
+!!
+!Item Slot 51:
++Item Mod
+$10C54B30 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54B34 0000270F
++Color
+$00C54B36 000000[CO]
++Activate Item (must Have On)
+$00C54B37 00000001
++Addon 1
+$00C54B38 00000[EFF]
++Addon 2
+$00C54B39 00000[EFF]
++Special Addon
+$00C54B3A 00000[EFF]
+!!
+!Item Slot 52:
++Item Mod
+$10C54B3C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54B40 0000270F
++Color
+$00C54B42 000000[CO]
++Activate Item (must Have On)
+$00C54B43 00000001
++Addon 1
+$00C54B44 00000[EFF]
++Addon 2
+$00C54B45 00000[EFF]
++Special Addon
+$00C54B46 00000[EFF]
+!!
+!Item Slot 53:
++Item Mod
+$10C54B48 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54B4C 0000270F
++Color
+$00C54B4E 000000[CO]
++Activate Item (must Have On)
+$00C54B4F 00000001
++Addon 1
+$00C54B50 00000[EFF]
++Addon 2
+$00C54B51 00000[EFF]
++Special Addon
+$00C54B52 00000[EFF]
+!!
+!Item Slot 54:
++Item Mod
+$10C54B54 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54B58 0000270F
++Color
+$00C54B5A 000000[CO]
++Activate Item (must Have On)
+$00C54B5B 00000001
++Addon 1
+$00C54B5C 00000[EFF]
++Addon 2
+$00C54B5D 00000[EFF]
++Special Addon
+$00C54B5E 00000[EFF]
+!!
+!Item Slot 55:
++Item Mod
+$10C54B60 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54B64 0000270F
++Color
+$00C54B66 000000[CO]
++Activate Item (must Have On)
+$00C54B67 00000001
++Addon 1
+$00C54B68 00000[EFF]
++Addon 2
+$00C54B69 00000[EFF]
++Special Addon
+$00C54B6A 00000[EFF]
+!!
+!Item Slot 56:
++Item Mod
+$10C54B6C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54B70 0000270F
++Color
+$00C54B72 000000[CO]
++Activate Item (must Have On)
+$00C54B73 00000001
++Addon 1
+$00C54B74 00000[EFF]
++Addon 2
+$00C54B75 00000[EFF]
++Special Addon
+$00C54B76 00000[EFF]
+!!
+!Item Slot 57:
++Item Mod
+$10C54B78 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54B7C 0000270F
++Color
+$00C54B7E 000000[CO]
++Activate Item (must Have On)
+$00C54B7F 00000001
++Addon 1
+$00C54B80 00000[EFF]
++Addon 2
+$00C54B81 00000[EFF]
++Special Addon
+$00C54B82 00000[EFF]
+!!
+!Item Slot 58:
++Item Mod
+$10C54B84 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54B88 0000270F
++Color
+$00C54B8A 000000[CO]
++Activate Item (must Have On)
+$00C54B8B 00000001
++Addon 1
+$00C54B8C 00000[EFF]
++Addon 2
+$00C54B8D 00000[EFF]
++Special Addon
+$00C54B8E 00000[EFF]
+!!
+!Item Slot 59:
++Item Mod
+$10C54B90 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54B94 0000270F
++Color
+$00C54B96 000000[CO]
++Activate Item (must Have On)
+$00C54B97 00000001
++Addon 1
+$00C54B98 00000[EFF]
++Addon 2
+$00C54B99 00000[EFF]
++Special Addon
+$00C54B9A 00000[EFF]
+!!
+!Item Slot 60:
++Item Mod
+$10C54B9C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54BA0 0000270F
++Color
+$00C54BA2 000000[CO]
++Activate Item (must Have On)
+$00C54BA3 00000001
++Addon 1
+$00C54BA4 00000[EFF]
++Addon 2
+$00C54BA5 00000[EFF]
++Special Addon
+$00C54BA6 00000[EFF]
+!!
+!Item Slot 61:
++Item Mod
+$10C54BA8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54BAC 0000270F
++Color
+$00C54BAE 000000[CO]
++Activate Item (must Have On)
+$00C54BAF 00000001
++Addon 1
+$00C54BB0 00000[EFF]
++Addon 2
+$00C54BB1 00000[EFF]
++Special Addon
+$00C54BB2 00000[EFF]
+!!
+!Item Slot 62:
++Item Mod
+$10C54BB4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54BB8 0000270F
++Color
+$00C54BBA 000000[CO]
++Activate Item (must Have On)
+$00C54BBB 00000001
++Addon 1
+$00C54BBC 00000[EFF]
++Addon 2
+$00C54BBD 00000[EFF]
++Special Addon
+$00C54BBE 00000[EFF]
+!!
+!Item Slot 63:
++Item Mod
+$10C54BC0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54BC4 0000270F
++Color
+$00C54BC6 000000[CO]
++Activate Item (must Have On)
+$00C54BC7 00000001
++Addon 1
+$00C54BC8 00000[EFF]
++Addon 2
+$00C54BC9 00000[EFF]
++Special Addon
+$00C54BCA 00000[EFF]
+!!
+!Item Slot 64:
++Item Mod
+$10C54BCC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54BD0 0000270F
++Color
+$00C54BD2 000000[CO]
++Activate Item (must Have On)
+$00C54BD3 00000001
++Addon 1
+$00C54BD4 00000[EFF]
++Addon 2
+$00C54BD5 00000[EFF]
++Special Addon
+$00C54BD6 00000[EFF]
+!!
+!Item Slot 65:
++Item Mod
+$10C54BD8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54BDC 0000270F
++Color
+$00C54BDE 000000[CO]
++Activate Item (must Have On)
+$00C54BDF 00000001
++Addon 1
+$00C54BE0 00000[EFF]
++Addon 2
+$00C54BE1 00000[EFF]
++Special Addon
+$00C54BE2 00000[EFF]
+!!
+!Item Slot 66:
++Item Mod
+$10C54BE4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54BE8 0000270F
++Color
+$00C54BEA 000000[CO]
++Activate Item (must Have On)
+$00C54BEB 00000001
++Addon 1
+$00C54BEC 00000[EFF]
++Addon 2
+$00C54BED 00000[EFF]
++Special Addon
+$00C54BEE 00000[EFF]
+!!
+!Item Slot 67:
++Item Mod
+$10C54BF0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54BF4 0000270F
++Color
+$00C54BF6 000000[CO]
++Activate Item (must Have On)
+$00C54BF7 00000001
++Addon 1
+$00C54BF8 00000[EFF]
++Addon 2
+$00C54BF9 00000[EFF]
++Special Addon
+$00C54BFA 00000[EFF]
+!!
+!Item Slot 68:
++Item Mod
+$10C54BFC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54C00 0000270F
++Color
+$00C54C02 000000[CO]
++Activate Item (must Have On)
+$00C54C03 00000001
++Addon 1
+$00C54C04 00000[EFF]
++Addon 2
+$00C54C05 00000[EFF]
++Special Addon
+$00C54C06 00000[EFF]
+!!
+!Item Slot 69:
++Item Mod
+$10C54C08 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54C0C 0000270F
++Color
+$00C54C0E 000000[CO]
++Activate Item (must Have On)
+$00C54C0F 00000001
++Addon 1
+$00C54C10 00000[EFF]
++Addon 2
+$00C54C11 00000[EFF]
++Special Addon
+$00C54C12 00000[EFF]
+!!
+!Item Slot 70:
++Item Mod
+$10C54C14 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54C18 0000270F
++Color
+$00C54C1A 000000[CO]
++Activate Item (must Have On)
+$00C54C1B 00000001
++Addon 1
+$00C54C1C 00000[EFF]
++Addon 2
+$00C54C1D 00000[EFF]
++Special Addon
+$00C54C1E 00000[EFF]
+!!
+!Item Slot 71:
++Item Mod
+$10C54C20 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54C24 0000270F
++Color
+$00C54C26 000000[CO]
++Activate Item (must Have On)
+$00C54C27 00000001
++Addon 1
+$00C54C28 00000[EFF]
++Addon 2
+$00C54C29 00000[EFF]
++Special Addon
+$00C54C2A 00000[EFF]
+!!
+!Item Slot 72:
++Item Mod
+$10C54C2C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54C30 0000270F
++Color
+$00C54C32 000000[CO]
++Activate Item (must Have On)
+$00C54C33 00000001
++Addon 1
+$00C54C34 00000[EFF]
++Addon 2
+$00C54C35 00000[EFF]
++Special Addon
+$00C54C36 00000[EFF]
+!!
+!Item Slot 73:
++Item Mod
+$10C54C38 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54C3C 0000270F
++Color
+$00C54C3E 000000[CO]
++Activate Item (must Have On)
+$00C54C3F 00000001
++Addon 1
+$00C54C40 00000[EFF]
++Addon 2
+$00C54C41 00000[EFF]
++Special Addon
+$00C54C42 00000[EFF]
+!!
+!Item Slot 74:
++Item Mod
+$10C54C44 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54C48 0000270F
++Color
+$00C54C4A 000000[CO]
++Activate Item (must Have On)
+$00C54C4B 00000001
++Addon 1
+$00C54C4C 00000[EFF]
++Addon 2
+$00C54C4D 00000[EFF]
++Special Addon
+$00C54C4E 00000[EFF]
+!!
+!Item Slot 75:
++Item Mod
+$10C54C50 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54C54 0000270F
++Color
+$00C54C56 000000[CO]
++Activate Item (must Have On)
+$00C54C57 00000001
++Addon 1
+$00C54C58 00000[EFF]
++Addon 2
+$00C54C59 00000[EFF]
++Special Addon
+$00C54C5A 00000[EFF]
+!!
+!Item Slot 76:
++Item Mod
+$10C54C5C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54C60 0000270F
++Color
+$00C54C62 000000[CO]
++Activate Item (must Have On)
+$00C54C63 00000001
++Addon 1
+$00C54C64 00000[EFF]
++Addon 2
+$00C54C65 00000[EFF]
++Special Addon
+$00C54C66 00000[EFF]
+!!
+!Item Slot 77:
++Item Mod
+$10C54C68 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54C6C 0000270F
++Color
+$00C54C6E 000000[CO]
++Activate Item (must Have On)
+$00C54C6F 00000001
++Addon 1
+$00C54C70 00000[EFF]
++Addon 2
+$00C54C71 00000[EFF]
++Special Addon
+$00C54C72 00000[EFF]
+!!
+!Item Slot 78:
++Item Mod
+$10C54C74 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54C78 0000270F
++Color
+$00C54C7A 000000[CO]
++Activate Item (must Have On)
+$00C54C7B 00000001
++Addon 1
+$00C54C7C 00000[EFF]
++Addon 2
+$00C54C7D 00000[EFF]
++Special Addon
+$00C54C7E 00000[EFF]
+!!
+!Item Slot 79:
++Item Mod
+$10C54C80 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54C84 0000270F
++Color
+$00C54C86 000000[CO]
++Activate Item (must Have On)
+$00C54C87 00000001
++Addon 1
+$00C54C88 00000[EFF]
++Addon 2
+$00C54C89 00000[EFF]
++Special Addon
+$00C54C8A 00000[EFF]
+!!
+!Item Slot 80:
++Item Mod
+$10C54C8C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54C90 0000270F
++Color
+$00C54C92 000000[CO]
++Activate Item (must Have On)
+$00C54C93 00000001
++Addon 1
+$00C54C94 00000[EFF]
++Addon 2
+$00C54C95 00000[EFF]
++Special Addon
+$00C54C96 00000[EFF]
+!!
+!Item Slot 81:
++Item Mod
+$10C54C98 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54C9C 0000270F
++Color
+$00C54C9E 000000[CO]
++Activate Item (must Have On)
+$00C54C9F 00000001
++Addon 1
+$00C54CA0 00000[EFF]
++Addon 2
+$00C54CA1 00000[EFF]
++Special Addon
+$00C54CA2 00000[EFF]
+!!
+!Item Slot 82:
++Item Mod
+$10C54CA4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54CA8 0000270F
++Color
+$00C54CAA 000000[CO]
++Activate Item (must Have On)
+$00C54CAB 00000001
++Addon 1
+$00C54CAC 00000[EFF]
++Addon 2
+$00C54CAD 00000[EFF]
++Special Addon
+$00C54CAE 00000[EFF]
+!!
+!Item Slot 83:
++Item Mod
+$10C54CB0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54CB4 0000270F
++Color
+$00C54CB6 000000[CO]
++Activate Item (must Have On)
+$00C54CB7 00000001
++Addon 1
+$00C54CB8 00000[EFF]
++Addon 2
+$00C54CB9 00000[EFF]
++Special Addon
+$00C54CBA 00000[EFF]
+!!
+!Item Slot 84:
++Item Mod
+$10C54CBC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54CC0 0000270F
++Color
+$00C54CC2 000000[CO]
++Activate Item (must Have On)
+$00C54CC3 00000001
++Addon 1
+$00C54CC4 00000[EFF]
++Addon 2
+$00C54CC5 00000[EFF]
++Special Addon
+$00C54CC6 00000[EFF]
+!!
+!Item Slot 85:
++Item Mod
+$10C54CC8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54CCC 0000270F
++Color
+$00C54CCE 000000[CO]
++Activate Item (must Have On)
+$00C54CCF 00000001
++Addon 1
+$00C54CD0 00000[EFF]
++Addon 2
+$00C54CD1 00000[EFF]
++Special Addon
+$00C54CD2 00000[EFF]
+!!
+!Item Slot 86:
++Item Mod
+$10C54CD4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54CD8 0000270F
++Color
+$00C54CDA 000000[CO]
++Activate Item (must Have On)
+$00C54CDB 00000001
++Addon 1
+$00C54CDC 00000[EFF]
++Addon 2
+$00C54CDD 00000[EFF]
++Special Addon
+$00C54CDE 00000[EFF]
+!!
+!Item Slot 87:
++Item Mod
+$10C54CE0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54CE4 0000270F
++Color
+$00C54CE6 000000[CO]
++Activate Item (must Have On)
+$00C54CE7 00000001
++Addon 1
+$00C54CE8 00000[EFF]
++Addon 2
+$00C54CE9 00000[EFF]
++Special Addon
+$00C54CEA 00000[EFF]
+!!
+!Item Slot 88:
++Item Mod
+$10C54CEC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54CF0 0000270F
++Color
+$00C54CF2 000000[CO]
++Activate Item (must Have On)
+$00C54CF3 00000001
++Addon 1
+$00C54CF4 00000[EFF]
++Addon 2
+$00C54CF5 00000[EFF]
++Special Addon
+$00C54CF6 00000[EFF]
+!!
+!Item Slot 89:
++Item Mod
+$10C54CF8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54CFC 0000270F
++Color
+$00C54CFE 000000[CO]
++Activate Item (must Have On)
+$00C54CFF 00000001
++Addon 1
+$00C54D00 00000[EFF]
++Addon 2
+$00C54D01 00000[EFF]
++Special Addon
+$00C54D02 00000[EFF]
+!!
+!Item Slot 90:
++Item Mod
+$10C54D04 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54D08 0000270F
++Color
+$00C54D0A 000000[CO]
++Activate Item (must Have On)
+$00C54D0B 00000001
++Addon 1
+$00C54D0C 00000[EFF]
++Addon 2
+$00C54D0D 00000[EFF]
++Special Addon
+$00C54D0E 00000[EFF]
+!!
+!Item Slot 91:
++Item Mod
+$10C54D10 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54D14 0000270F
++Color
+$00C54D16 000000[CO]
++Activate Item (must Have On)
+$00C54D17 00000001
++Addon 1
+$00C54D18 00000[EFF]
++Addon 2
+$00C54D19 00000[EFF]
++Special Addon
+$00C54D1A 00000[EFF]
+!!
+!Item Slot 92:
++Item Mod
+$10C54D1C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54D20 0000270F
++Color
+$00C54D22 000000[CO]
++Activate Item (must Have On)
+$00C54D23 00000001
++Addon 1
+$00C54D24 00000[EFF]
++Addon 2
+$00C54D25 00000[EFF]
++Special Addon
+$00C54D26 00000[EFF]
+!!
+!Item Slot 93:
++Item Mod
+$10C54D28 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54D2C 0000270F
++Color
+$00C54D2E 000000[CO]
++Activate Item (must Have On)
+$00C54D2F 00000001
++Addon 1
+$00C54D30 00000[EFF]
++Addon 2
+$00C54D31 00000[EFF]
++Special Addon
+$00C54D32 00000[EFF]
+!!
+!Item Slot 94:
++Item Mod
+$10C54D34 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54D38 0000270F
++Color
+$00C54D3A 000000[CO]
++Activate Item (must Have On)
+$00C54D3B 00000001
++Addon 1
+$00C54D3C 00000[EFF]
++Addon 2
+$00C54D3D 00000[EFF]
++Special Addon
+$00C54D3E 00000[EFF]
+!!
+!Item Slot 95:
++Item Mod
+$10C54D40 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54D44 0000270F
++Color
+$00C54D46 000000[CO]
++Activate Item (must Have On)
+$00C54D47 00000001
++Addon 1
+$00C54D48 00000[EFF]
++Addon 2
+$00C54D49 00000[EFF]
++Special Addon
+$00C54D4A 00000[EFF]
+!!
+!Item Slot 96:
++Item Mod
+$10C54D4C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54D50 0000270F
++Color
+$00C54D52 000000[CO]
++Activate Item (must Have On)
+$00C54D53 00000001
++Addon 1
+$00C54D54 00000[EFF]
++Addon 2
+$00C54D55 00000[EFF]
++Special Addon
+$00C54D56 00000[EFF]
+!!
+!Item Slot 97:
++Item Mod
+$10C54D58 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54D5C 0000270F
++Color
+$00C54D5E 000000[CO]
++Activate Item (must Have On)
+$00C54D5F 00000001
++Addon 1
+$00C54D60 00000[EFF]
++Addon 2
+$00C54D61 00000[EFF]
++Special Addon
+$00C54D62 00000[EFF]
+!!
+!Item Slot 98:
++Item Mod
+$10C54D64 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54D68 0000270F
++Color
+$00C54D6A 000000[CO]
++Activate Item (must Have On)
+$00C54D6B 00000001
++Addon 1
+$00C54D6C 00000[EFF]
++Addon 2
+$00C54D6D 00000[EFF]
++Special Addon
+$00C54D6E 00000[EFF]
+!!
+!Item Slot 99:
++Item Mod
+$10C54D70 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54D74 0000270F
++Color
+$00C54D76 000000[CO]
++Activate Item (must Have On)
+$00C54D77 00000001
++Addon 1
+$00C54D78 00000[EFF]
++Addon 2
+$00C54D79 00000[EFF]
++Special Addon
+$00C54D7A 00000[EFF]
+!!
+!Item Slot 100:
++Item Mod
+$10C54D7C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54D80 0000270F
++Color
+$00C54D82 000000[CO]
++Activate Item (must Have On)
+$00C54D83 00000001
++Addon 1
+$00C54D84 00000[EFF]
++Addon 2
+$00C54D85 00000[EFF]
++Special Addon
+$00C54D86 00000[EFF]
+!!
+!Item Slot 101:
++Item Mod
+$10C54D88 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54D8C 0000270F
++Color
+$00C54D8E 000000[CO]
++Activate Item (must Have On)
+$00C54D8F 00000001
++Addon 1
+$00C54D90 00000[EFF]
++Addon 2
+$00C54D91 00000[EFF]
++Special Addon
+$00C54D92 00000[EFF]
+!!
+!Item Slot 102:
++Item Mod
+$10C54D94 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54D98 0000270F
++Color
+$00C54D9A 000000[CO]
++Activate Item (must Have On)
+$00C54D9B 00000001
++Addon 1
+$00C54D9C 00000[EFF]
++Addon 2
+$00C54D9D 00000[EFF]
++Special Addon
+$00C54D9E 00000[EFF]
+!!
+!Item Slot 103:
++Item Mod
+$10C54DA0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54DA4 0000270F
++Color
+$00C54DA6 000000[CO]
++Activate Item (must Have On)
+$00C54DA7 00000001
++Addon 1
+$00C54DA8 00000[EFF]
++Addon 2
+$00C54DA9 00000[EFF]
++Special Addon
+$00C54DAA 00000[EFF]
+!!
+!Item Slot 104:
++Item Mod
+$10C54DAC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54DB0 0000270F
++Color
+$00C54DB2 000000[CO]
++Activate Item (must Have On)
+$00C54DB3 00000001
++Addon 1
+$00C54DB4 00000[EFF]
++Addon 2
+$00C54DB5 00000[EFF]
++Special Addon
+$00C54DB6 00000[EFF]
+!!
+!Item Slot 105:
++Item Mod
+$10C54DB8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54DBC 0000270F
++Color
+$00C54DBE 000000[CO]
++Activate Item (must Have On)
+$00C54DBF 00000001
++Addon 1
+$00C54DC0 00000[EFF]
++Addon 2
+$00C54DC1 00000[EFF]
++Special Addon
+$00C54DC2 00000[EFF]
+!!
+!Item Slot 106:
++Item Mod
+$10C54DC4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54DC8 0000270F
++Color
+$00C54DCA 000000[CO]
++Activate Item (must Have On)
+$00C54DCB 00000001
++Addon 1
+$00C54DCC 00000[EFF]
++Addon 2
+$00C54DCD 00000[EFF]
++Special Addon
+$00C54DCE 00000[EFF]
+!!
+!Item Slot 107:
++Item Mod
+$10C54DD0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54DD4 0000270F
++Color
+$00C54DD6 000000[CO]
++Activate Item (must Have On)
+$00C54DD7 00000001
++Addon 1
+$00C54DD8 00000[EFF]
++Addon 2
+$00C54DD9 00000[EFF]
++Special Addon
+$00C54DDA 00000[EFF]
+!!
+!Item Slot 108:
++Item Mod
+$10C54DDC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54DE0 0000270F
++Color
+$00C54DE2 000000[CO]
++Activate Item (must Have On)
+$00C54DE3 00000001
++Addon 1
+$00C54DE4 00000[EFF]
++Addon 2
+$00C54DE5 00000[EFF]
++Special Addon
+$00C54DE6 00000[EFF]
+!!
+!Item Slot 109:
++Item Mod
+$10C54DE8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54DEC 0000270F
++Color
+$00C54DEE 000000[CO]
++Activate Item (must Have On)
+$00C54DEF 00000001
++Addon 1
+$00C54DF0 00000[EFF]
++Addon 2
+$00C54DF1 00000[EFF]
++Special Addon
+$00C54DF2 00000[EFF]
+!!
+!Item Slot 110:
++Item Mod
+$10C54DF4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54DF8 0000270F
++Color
+$00C54DFA 000000[CO]
++Activate Item (must Have On)
+$00C54DFB 00000001
++Addon 1
+$00C54DFC 00000[EFF]
++Addon 2
+$00C54DFD 00000[EFF]
++Special Addon
+$00C54DFE 00000[EFF]
+!!
+!Item Slot 111:
++Item Mod
+$10C54E00 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54E04 0000270F
++Color
+$00C54E06 000000[CO]
++Activate Item (must Have On)
+$00C54E07 00000001
++Addon 1
+$00C54E08 00000[EFF]
++Addon 2
+$00C54E09 00000[EFF]
++Special Addon
+$00C54E0A 00000[EFF]
+!!
+!Item Slot 112:
++Item Mod
+$10C54E0C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54E10 0000270F
++Color
+$00C54E12 000000[CO]
++Activate Item (must Have On)
+$00C54E13 00000001
++Addon 1
+$00C54E14 00000[EFF]
++Addon 2
+$00C54E15 00000[EFF]
++Special Addon
+$00C54E16 00000[EFF]
+!!
+!Item Slot 113:
++Item Mod
+$10C54E18 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54E1C 0000270F
++Color
+$00C54E1E 000000[CO]
++Activate Item (must Have On)
+$00C54E1F 00000001
++Addon 1
+$00C54E20 00000[EFF]
++Addon 2
+$00C54E21 00000[EFF]
++Special Addon
+$00C54E22 00000[EFF]
+!!
+!Item Slot 114:
++Item Mod
+$10C54E24 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54E28 0000270F
++Color
+$00C54E2A 000000[CO]
++Activate Item (must Have On)
+$00C54E2B 00000001
++Addon 1
+$00C54E2C 00000[EFF]
++Addon 2
+$00C54E2D 00000[EFF]
++Special Addon
+$00C54E2E 00000[EFF]
+!!
+!Item Slot 115:
++Item Mod
+$10C54E30 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54E34 0000270F
++Color
+$00C54E36 000000[CO]
++Activate Item (must Have On)
+$00C54E37 00000001
++Addon 1
+$00C54E38 00000[EFF]
++Addon 2
+$00C54E39 00000[EFF]
++Special Addon
+$00C54E3A 00000[EFF]
+!!
+!Item Slot 116:
++Item Mod
+$10C54E3C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54E40 0000270F
++Color
+$00C54E42 000000[CO]
++Activate Item (must Have On)
+$00C54E43 00000001
++Addon 1
+$00C54E44 00000[EFF]
++Addon 2
+$00C54E45 00000[EFF]
++Special Addon
+$00C54E46 00000[EFF]
+!!
+!Item Slot 117:
++Item Mod
+$10C54E48 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54E4C 0000270F
++Color
+$00C54E4E 000000[CO]
++Activate Item (must Have On)
+$00C54E4F 00000001
++Addon 1
+$00C54E50 00000[EFF]
++Addon 2
+$00C54E51 00000[EFF]
++Special Addon
+$00C54E52 00000[EFF]
+!!
+!Item Slot 118:
++Item Mod
+$10C54E54 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54E58 0000270F
++Color
+$00C54E5A 000000[CO]
++Activate Item (must Have On)
+$00C54E5B 00000001
++Addon 1
+$00C54E5C 00000[EFF]
++Addon 2
+$00C54E5D 00000[EFF]
++Special Addon
+$00C54E5E 00000[EFF]
+!!
+!Item Slot 119:
++Item Mod
+$10C54E60 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54E64 0000270F
++Color
+$00C54E66 000000[CO]
++Activate Item (must Have On)
+$00C54E67 00000001
++Addon 1
+$00C54E68 00000[EFF]
++Addon 2
+$00C54E69 00000[EFF]
++Special Addon
+$00C54E6A 00000[EFF]
+!!
+!Item Slot 120:
++Item Mod
+$10C54E6C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54E70 0000270F
++Color
+$00C54E72 000000[CO]
++Activate Item (must Have On)
+$00C54E73 00000001
++Addon 1
+$00C54E74 00000[EFF]
++Addon 2
+$00C54E75 00000[EFF]
++Special Addon
+$00C54E76 00000[EFF]
+!!
+!Item Slot 121:
++Item Mod
+$10C54E78 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54E7C 0000270F
++Color
+$00C54E7E 000000[CO]
++Activate Item (must Have On)
+$00C54E7F 00000001
++Addon 1
+$00C54E80 00000[EFF]
++Addon 2
+$00C54E81 00000[EFF]
++Special Addon
+$00C54E82 00000[EFF]
+!!
+!Item Slot 122:
++Item Mod
+$10C54E84 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54E88 0000270F
++Color
+$00C54E8A 000000[CO]
++Activate Item (must Have On)
+$00C54E8B 00000001
++Addon 1
+$00C54E8C 00000[EFF]
++Addon 2
+$00C54E8D 00000[EFF]
++Special Addon
+$00C54E8E 00000[EFF]
+!!
+!Item Slot 123:
++Item Mod
+$10C54E90 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54E94 0000270F
++Color
+$00C54E96 000000[CO]
++Activate Item (must Have On)
+$00C54E97 00000001
++Addon 1
+$00C54E98 00000[EFF]
++Addon 2
+$00C54E99 00000[EFF]
++Special Addon
+$00C54E9A 00000[EFF]
+!!
+!Item Slot 124:
++Item Mod
+$10C54E9C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54EA0 0000270F
++Color
+$00C54EA2 000000[CO]
++Activate Item (must Have On)
+$00C54EA3 00000001
++Addon 1
+$00C54EA4 00000[EFF]
++Addon 2
+$00C54EA5 00000[EFF]
++Special Addon
+$00C54EA6 00000[EFF]
+!!
+!Item Slot 125:
++Item Mod
+$10C54EA8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54EAC 0000270F
++Color
+$00C54EAE 000000[CO]
++Activate Item (must Have On)
+$00C54EAF 00000001
++Addon 1
+$00C54EB0 00000[EFF]
++Addon 2
+$00C54EB1 00000[EFF]
++Special Addon
+$00C54EB2 00000[EFF]
+!!
+!Item Slot 126:
++Item Mod
+$10C54EB4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54EB8 0000270F
++Color
+$00C54EBA 000000[CO]
++Activate Item (must Have On)
+$00C54EBB 00000001
++Addon 1
+$00C54EBC 00000[EFF]
++Addon 2
+$00C54EBD 00000[EFF]
++Special Addon
+$00C54EBE 00000[EFF]
+!!
+!Item Slot 127:
++Item Mod
+$10C54EC0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54EC4 0000270F
++Color
+$00C54EC6 000000[CO]
++Activate Item (must Have On)
+$00C54EC7 00000001
++Addon 1
+$00C54EC8 00000[EFF]
++Addon 2
+$00C54EC9 00000[EFF]
++Special Addon
+$00C54ECA 00000[EFF]
+!!
+!Item Slot 128:
++Item Mod
+$10C54ECC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54ED0 0000270F
++Color
+$00C54ED2 000000[CO]
++Activate Item (must Have On)
+$00C54ED3 00000001
++Addon 1
+$00C54ED4 00000[EFF]
++Addon 2
+$00C54ED5 00000[EFF]
++Special Addon
+$00C54ED6 00000[EFF]
+!!
+!Item Slot 129:
++Item Mod
+$10C54ED8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54EDC 0000270F
++Color
+$00C54EDE 000000[CO]
++Activate Item (must Have On)
+$00C54EDF 00000001
++Addon 1
+$00C54EE0 00000[EFF]
++Addon 2
+$00C54EE1 00000[EFF]
++Special Addon
+$00C54EE2 00000[EFF]
+!!
+!Item Slot 130:
++Item Mod
+$10C54EE4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54EE8 0000270F
++Color
+$00C54EEA 000000[CO]
++Activate Item (must Have On)
+$00C54EEB 00000001
++Addon 1
+$00C54EEC 00000[EFF]
++Addon 2
+$00C54EED 00000[EFF]
++Special Addon
+$00C54EEE 00000[EFF]
+!!
+!Item Slot 131:
++Item Mod
+$10C54EF0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54EF4 0000270F
++Color
+$00C54EF6 000000[CO]
++Activate Item (must Have On)
+$00C54EF7 00000001
++Addon 1
+$00C54EF8 00000[EFF]
++Addon 2
+$00C54EF9 00000[EFF]
++Special Addon
+$00C54EFA 00000[EFF]
+!!
+!Item Slot 132:
++Item Mod
+$10C54EFC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54F00 0000270F
++Color
+$00C54F02 000000[CO]
++Activate Item (must Have On)
+$00C54F03 00000001
++Addon 1
+$00C54F04 00000[EFF]
++Addon 2
+$00C54F05 00000[EFF]
++Special Addon
+$00C54F06 00000[EFF]
+!!
+!Item Slot 133:
++Item Mod
+$10C54F08 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54F0C 0000270F
++Color
+$00C54F0E 000000[CO]
++Activate Item (must Have On)
+$00C54F0F 00000001
++Addon 1
+$00C54F10 00000[EFF]
++Addon 2
+$00C54F11 00000[EFF]
++Special Addon
+$00C54F12 00000[EFF]
+!!
+!Item Slot 134:
++Item Mod
+$10C54F14 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54F18 0000270F
++Color
+$00C54F1A 000000[CO]
++Activate Item (must Have On)
+$00C54F1B 00000001
++Addon 1
+$00C54F1C 00000[EFF]
++Addon 2
+$00C54F1D 00000[EFF]
++Special Addon
+$00C54F1E 00000[EFF]
+!!
+!Item Slot 135:
++Item Mod
+$10C54F20 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54F24 0000270F
++Color
+$00C54F26 000000[CO]
++Activate Item (must Have On)
+$00C54F27 00000001
++Addon 1
+$00C54F28 00000[EFF]
++Addon 2
+$00C54F29 00000[EFF]
++Special Addon
+$00C54F2A 00000[EFF]
+!!
+!Item Slot 136:
++Item Mod
+$10C54F2C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54F30 0000270F
++Color
+$00C54F32 000000[CO]
++Activate Item (must Have On)
+$00C54F33 00000001
++Addon 1
+$00C54F34 00000[EFF]
++Addon 2
+$00C54F35 00000[EFF]
++Special Addon
+$00C54F36 00000[EFF]
+!!
+!Item Slot 137:
++Item Mod
+$10C54F38 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54F3C 0000270F
++Color
+$00C54F3E 000000[CO]
++Activate Item (must Have On)
+$00C54F3F 00000001
++Addon 1
+$00C54F40 00000[EFF]
++Addon 2
+$00C54F41 00000[EFF]
++Special Addon
+$00C54F42 00000[EFF]
+!!
+!Item Slot 138:
++Item Mod
+$10C54F44 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54F48 0000270F
++Color
+$00C54F4A 000000[CO]
++Activate Item (must Have On)
+$00C54F4B 00000001
++Addon 1
+$00C54F4C 00000[EFF]
++Addon 2
+$00C54F4D 00000[EFF]
++Special Addon
+$00C54F4E 00000[EFF]
+!!
+!Item Slot 139:
++Item Mod
+$10C54F50 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54F54 0000270F
++Color
+$00C54F56 000000[CO]
++Activate Item (must Have On)
+$00C54F57 00000001
++Addon 1
+$00C54F58 00000[EFF]
++Addon 2
+$00C54F59 00000[EFF]
++Special Addon
+$00C54F5A 00000[EFF]
+!!
+!Item Slot 140:
++Item Mod
+$10C54F5C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54F60 0000270F
++Color
+$00C54F62 000000[CO]
++Activate Item (must Have On)
+$00C54F63 00000001
++Addon 1
+$00C54F64 00000[EFF]
++Addon 2
+$00C54F65 00000[EFF]
++Special Addon
+$00C54F66 00000[EFF]
+!!
+!Item Slot 141:
++Item Mod
+$10C54F68 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54F6C 0000270F
++Color
+$00C54F6E 000000[CO]
++Activate Item (must Have On)
+$00C54F6F 00000001
++Addon 1
+$00C54F70 00000[EFF]
++Addon 2
+$00C54F71 00000[EFF]
++Special Addon
+$00C54F72 00000[EFF]
+!!
+!Item Slot 142:
++Item Mod
+$10C54F74 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54F78 0000270F
++Color
+$00C54F7A 000000[CO]
++Activate Item (must Have On)
+$00C54F7B 00000001
++Addon 1
+$00C54F7C 00000[EFF]
++Addon 2
+$00C54F7D 00000[EFF]
++Special Addon
+$00C54F7E 00000[EFF]
+!!
+!Item Slot 143:
++Item Mod
+$10C54F80 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54F84 0000270F
++Color
+$00C54F86 000000[CO]
++Activate Item (must Have On)
+$00C54F87 00000001
++Addon 1
+$00C54F88 00000[EFF]
++Addon 2
+$00C54F89 00000[EFF]
++Special Addon
+$00C54F8A 00000[EFF]
+!!
+!Item Slot 144:
++Item Mod
+$10C54F8C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54F90 0000270F
++Color
+$00C54F92 000000[CO]
++Activate Item (must Have On)
+$00C54F93 00000001
++Addon 1
+$00C54F94 00000[EFF]
++Addon 2
+$00C54F95 00000[EFF]
++Special Addon
+$00C54F96 00000[EFF]
+!!
+!Item Slot 145:
++Item Mod
+$10C54F98 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54F9C 0000270F
++Color
+$00C54F9E 000000[CO]
++Activate Item (must Have On)
+$00C54F9F 00000001
++Addon 1
+$00C54FA0 00000[EFF]
++Addon 2
+$00C54FA1 00000[EFF]
++Special Addon
+$00C54FA2 00000[EFF]
+!!
+!Item Slot 146:
++Item Mod
+$10C54FA4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54FA8 0000270F
++Color
+$00C54FAA 000000[CO]
++Activate Item (must Have On)
+$00C54FAB 00000001
++Addon 1
+$00C54FAC 00000[EFF]
++Addon 2
+$00C54FAD 00000[EFF]
++Special Addon
+$00C54FAE 00000[EFF]
+!!
+!Item Slot 147:
++Item Mod
+$10C54FB0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54FB4 0000270F
++Color
+$00C54FB6 000000[CO]
++Activate Item (must Have On)
+$00C54FB7 00000001
++Addon 1
+$00C54FB8 00000[EFF]
++Addon 2
+$00C54FB9 00000[EFF]
++Special Addon
+$00C54FBA 00000[EFF]
+!!
+!Item Slot 148:
++Item Mod
+$10C54FBC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54FC0 0000270F
++Color
+$00C54FC2 000000[CO]
++Activate Item (must Have On)
+$00C54FC3 00000001
++Addon 1
+$00C54FC4 00000[EFF]
++Addon 2
+$00C54FC5 00000[EFF]
++Special Addon
+$00C54FC6 00000[EFF]
+!!
+!Item Slot 149:
++Item Mod
+$10C54FC8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54FCC 0000270F
++Color
+$00C54FCE 000000[CO]
++Activate Item (must Have On)
+$00C54FCF 00000001
++Addon 1
+$00C54FD0 00000[EFF]
++Addon 2
+$00C54FD1 00000[EFF]
++Special Addon
+$00C54FD2 00000[EFF]
+!!
+!Item Slot 150:
++Item Mod
+$10C54FD4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54FD8 0000270F
++Color
+$00C54FDA 000000[CO]
++Activate Item (must Have On)
+$00C54FDB 00000001
++Addon 1
+$00C54FDC 00000[EFF]
++Addon 2
+$00C54FDD 00000[EFF]
++Special Addon
+$00C54FDE 00000[EFF]
+!!
+!Item Slot 151:
++Item Mod
+$10C54FE0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54FE4 0000270F
++Color
+$00C54FE6 000000[CO]
++Activate Item (must Have On)
+$00C54FE7 00000001
++Addon 1
+$00C54FE8 00000[EFF]
++Addon 2
+$00C54FE9 00000[EFF]
++Special Addon
+$00C54FEA 00000[EFF]
+!!
+!Item Slot 152:
++Item Mod
+$10C54FEC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54FF0 0000270F
++Color
+$00C54FF2 000000[CO]
++Activate Item (must Have On)
+$00C54FF3 00000001
++Addon 1
+$00C54FF4 00000[EFF]
++Addon 2
+$00C54FF5 00000[EFF]
++Special Addon
+$00C54FF6 00000[EFF]
+!!
+!Item Slot 153:
++Item Mod
+$10C54FF8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C54FFC 0000270F
++Color
+$00C54FFE 000000[CO]
++Activate Item (must Have On)
+$00C54FFF 00000001
++Addon 1
+$00C55000 00000[EFF]
++Addon 2
+$00C55001 00000[EFF]
++Special Addon
+$00C55002 00000[EFF]
+!!
+!Item Slot 154:
++Item Mod
+$10C55004 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55008 0000270F
++Color
+$00C5500A 000000[CO]
++Activate Item (must Have On)
+$00C5500B 00000001
++Addon 1
+$00C5500C 00000[EFF]
++Addon 2
+$00C5500D 00000[EFF]
++Special Addon
+$00C5500E 00000[EFF]
+!!
+!Item Slot 155:
++Item Mod
+$10C55010 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55014 0000270F
++Color
+$00C55016 000000[CO]
++Activate Item (must Have On)
+$00C55017 00000001
++Addon 1
+$00C55018 00000[EFF]
++Addon 2
+$00C55019 00000[EFF]
++Special Addon
+$00C5501A 00000[EFF]
+!!
+!Item Slot 156:
++Item Mod
+$10C5501C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55020 0000270F
++Color
+$00C55022 000000[CO]
++Activate Item (must Have On)
+$00C55023 00000001
++Addon 1
+$00C55024 00000[EFF]
++Addon 2
+$00C55025 00000[EFF]
++Special Addon
+$00C55026 00000[EFF]
+!!
+!Item Slot 157:
++Item Mod
+$10C55028 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5502C 0000270F
++Color
+$00C5502E 000000[CO]
++Activate Item (must Have On)
+$00C5502F 00000001
++Addon 1
+$00C55030 00000[EFF]
++Addon 2
+$00C55031 00000[EFF]
++Special Addon
+$00C55032 00000[EFF]
+!!
+!Item Slot 158:
++Item Mod
+$10C55034 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55038 0000270F
++Color
+$00C5503A 000000[CO]
++Activate Item (must Have On)
+$00C5503B 00000001
++Addon 1
+$00C5503C 00000[EFF]
++Addon 2
+$00C5503D 00000[EFF]
++Special Addon
+$00C5503E 00000[EFF]
+!!
+!Item Slot 159:
++Item Mod
+$10C55040 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55044 0000270F
++Color
+$00C55046 000000[CO]
++Activate Item (must Have On)
+$00C55047 00000001
++Addon 1
+$00C55048 00000[EFF]
++Addon 2
+$00C55049 00000[EFF]
++Special Addon
+$00C5504A 00000[EFF]
+!!
+!Item Slot 160:
++Item Mod
+$10C5504C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55050 0000270F
++Color
+$00C55052 000000[CO]
++Activate Item (must Have On)
+$00C55053 00000001
++Addon 1
+$00C55054 00000[EFF]
++Addon 2
+$00C55055 00000[EFF]
++Special Addon
+$00C55056 00000[EFF]
+!!
+!Item Slot 161:
++Item Mod
+$10C55058 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5505C 0000270F
++Color
+$00C5505E 000000[CO]
++Activate Item (must Have On)
+$00C5505F 00000001
++Addon 1
+$00C55060 00000[EFF]
++Addon 2
+$00C55061 00000[EFF]
++Special Addon
+$00C55062 00000[EFF]
+!!
+!Item Slot 162:
++Item Mod
+$10C55064 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55068 0000270F
++Color
+$00C5506A 000000[CO]
++Activate Item (must Have On)
+$00C5506B 00000001
++Addon 1
+$00C5506C 00000[EFF]
++Addon 2
+$00C5506D 00000[EFF]
++Special Addon
+$00C5506E 00000[EFF]
+!!
+!Item Slot 163:
++Item Mod
+$10C55070 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55074 0000270F
++Color
+$00C55076 000000[CO]
++Activate Item (must Have On)
+$00C55077 00000001
++Addon 1
+$00C55078 00000[EFF]
++Addon 2
+$00C55079 00000[EFF]
++Special Addon
+$00C5507A 00000[EFF]
+!!
+!Item Slot 164:
++Item Mod
+$10C5507C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55080 0000270F
++Color
+$00C55082 000000[CO]
++Activate Item (must Have On)
+$00C55083 00000001
++Addon 1
+$00C55084 00000[EFF]
++Addon 2
+$00C55085 00000[EFF]
++Special Addon
+$00C55086 00000[EFF]
+!!
+!Item Slot 165:
++Item Mod
+$10C55088 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5508C 0000270F
++Color
+$00C5508E 000000[CO]
++Activate Item (must Have On)
+$00C5508F 00000001
++Addon 1
+$00C55090 00000[EFF]
++Addon 2
+$00C55091 00000[EFF]
++Special Addon
+$00C55092 00000[EFF]
+!!
+!Item Slot 166:
++Item Mod
+$10C55094 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55098 0000270F
++Color
+$00C5509A 000000[CO]
++Activate Item (must Have On)
+$00C5509B 00000001
++Addon 1
+$00C5509C 00000[EFF]
++Addon 2
+$00C5509D 00000[EFF]
++Special Addon
+$00C5509E 00000[EFF]
+!!
+!Item Slot 167:
++Item Mod
+$10C550A0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C550A4 0000270F
++Color
+$00C550A6 000000[CO]
++Activate Item (must Have On)
+$00C550A7 00000001
++Addon 1
+$00C550A8 00000[EFF]
++Addon 2
+$00C550A9 00000[EFF]
++Special Addon
+$00C550AA 00000[EFF]
+!!
+!Item Slot 168:
++Item Mod
+$10C550AC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C550B0 0000270F
++Color
+$00C550B2 000000[CO]
++Activate Item (must Have On)
+$00C550B3 00000001
++Addon 1
+$00C550B4 00000[EFF]
++Addon 2
+$00C550B5 00000[EFF]
++Special Addon
+$00C550B6 00000[EFF]
+!!
+!Item Slot 169:
++Item Mod
+$10C550B8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C550BC 0000270F
++Color
+$00C550BE 000000[CO]
++Activate Item (must Have On)
+$00C550BF 00000001
++Addon 1
+$00C550C0 00000[EFF]
++Addon 2
+$00C550C1 00000[EFF]
++Special Addon
+$00C550C2 00000[EFF]
+!!
+!Item Slot 170:
++Item Mod
+$10C550C4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C550C8 0000270F
++Color
+$00C550CA 000000[CO]
++Activate Item (must Have On)
+$00C550CB 00000001
++Addon 1
+$00C550CC 00000[EFF]
++Addon 2
+$00C550CD 00000[EFF]
++Special Addon
+$00C550CE 00000[EFF]
+!!
+!Item Slot 171:
++Item Mod
+$10C550D0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C550D4 0000270F
++Color
+$00C550D6 000000[CO]
++Activate Item (must Have On)
+$00C550D7 00000001
++Addon 1
+$00C550D8 00000[EFF]
++Addon 2
+$00C550D9 00000[EFF]
++Special Addon
+$00C550DA 00000[EFF]
+!!
+!Item Slot 172:
++Item Mod
+$10C550DC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C550E0 0000270F
++Color
+$00C550E2 000000[CO]
++Activate Item (must Have On)
+$00C550E3 00000001
++Addon 1
+$00C550E4 00000[EFF]
++Addon 2
+$00C550E5 00000[EFF]
++Special Addon
+$00C550E6 00000[EFF]
+!!
+!Item Slot 173:
++Item Mod
+$10C550E8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C550EC 0000270F
++Color
+$00C550EE 000000[CO]
++Activate Item (must Have On)
+$00C550EF 00000001
++Addon 1
+$00C550F0 00000[EFF]
++Addon 2
+$00C550F1 00000[EFF]
++Special Addon
+$00C550F2 00000[EFF]
+!!
+!Item Slot 174:
++Item Mod
+$10C550F4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C550F8 0000270F
++Color
+$00C550FA 000000[CO]
++Activate Item (must Have On)
+$00C550FB 00000001
++Addon 1
+$00C550FC 00000[EFF]
++Addon 2
+$00C550FD 00000[EFF]
++Special Addon
+$00C550FE 00000[EFF]
+!!
+!Item Slot 175:
++Item Mod
+$10C55100 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55104 0000270F
++Color
+$00C55106 000000[CO]
++Activate Item (must Have On)
+$00C55107 00000001
++Addon 1
+$00C55108 00000[EFF]
++Addon 2
+$00C55109 00000[EFF]
++Special Addon
+$00C5510A 00000[EFF]
+!!
+!Item Slot 176:
++Item Mod
+$10C5510C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55110 0000270F
++Color
+$00C55112 000000[CO]
++Activate Item (must Have On)
+$00C55113 00000001
++Addon 1
+$00C55114 00000[EFF]
++Addon 2
+$00C55115 00000[EFF]
++Special Addon
+$00C55116 00000[EFF]
+!!
+!Item Slot 177:
++Item Mod
+$10C55118 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5511C 0000270F
++Color
+$00C5511E 000000[CO]
++Activate Item (must Have On)
+$00C5511F 00000001
++Addon 1
+$00C55120 00000[EFF]
++Addon 2
+$00C55121 00000[EFF]
++Special Addon
+$00C55122 00000[EFF]
+!!
+!Item Slot 178:
++Item Mod
+$10C55124 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55128 0000270F
++Color
+$00C5512A 000000[CO]
++Activate Item (must Have On)
+$00C5512B 00000001
++Addon 1
+$00C5512C 00000[EFF]
++Addon 2
+$00C5512D 00000[EFF]
++Special Addon
+$00C5512E 00000[EFF]
+!!
+!Item Slot 179:
++Item Mod
+$10C55130 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55134 0000270F
++Color
+$00C55136 000000[CO]
++Activate Item (must Have On)
+$00C55137 00000001
++Addon 1
+$00C55138 00000[EFF]
++Addon 2
+$00C55139 00000[EFF]
++Special Addon
+$00C5513A 00000[EFF]
+!!
+!Item Slot 180:
++Item Mod
+$10C5513C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55140 0000270F
++Color
+$00C55142 000000[CO]
++Activate Item (must Have On)
+$00C55143 00000001
++Addon 1
+$00C55144 00000[EFF]
++Addon 2
+$00C55145 00000[EFF]
++Special Addon
+$00C55146 00000[EFF]
+!!
+!Item Slot 181:
++Item Mod
+$10C55148 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5514C 0000270F
++Color
+$00C5514E 000000[CO]
++Activate Item (must Have On)
+$00C5514F 00000001
++Addon 1
+$00C55150 00000[EFF]
++Addon 2
+$00C55151 00000[EFF]
++Special Addon
+$00C55152 00000[EFF]
+!!
+!Item Slot 182:
++Item Mod
+$10C55154 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55158 0000270F
++Color
+$00C5515A 000000[CO]
++Activate Item (must Have On)
+$00C5515B 00000001
++Addon 1
+$00C5515C 00000[EFF]
++Addon 2
+$00C5515D 00000[EFF]
++Special Addon
+$00C5515E 00000[EFF]
+!!
+!Item Slot 183:
++Item Mod
+$10C55160 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55164 0000270F
++Color
+$00C55166 000000[CO]
++Activate Item (must Have On)
+$00C55167 00000001
++Addon 1
+$00C55168 00000[EFF]
++Addon 2
+$00C55169 00000[EFF]
++Special Addon
+$00C5516A 00000[EFF]
+!!
+!Item Slot 184:
++Item Mod
+$10C5516C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55170 0000270F
++Color
+$00C55172 000000[CO]
++Activate Item (must Have On)
+$00C55173 00000001
++Addon 1
+$00C55174 00000[EFF]
++Addon 2
+$00C55175 00000[EFF]
++Special Addon
+$00C55176 00000[EFF]
+!!
+!Item Slot 185:
++Item Mod
+$10C55178 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5517C 0000270F
++Color
+$00C5517E 000000[CO]
++Activate Item (must Have On)
+$00C5517F 00000001
++Addon 1
+$00C55180 00000[EFF]
++Addon 2
+$00C55181 00000[EFF]
++Special Addon
+$00C55182 00000[EFF]
+!!
+!Item Slot 186:
++Item Mod
+$10C55184 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55188 0000270F
++Color
+$00C5518A 000000[CO]
++Activate Item (must Have On)
+$00C5518B 00000001
++Addon 1
+$00C5518C 00000[EFF]
++Addon 2
+$00C5518D 00000[EFF]
++Special Addon
+$00C5518E 00000[EFF]
+!!
+!Item Slot 187:
++Item Mod
+$10C55190 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55194 0000270F
++Color
+$00C55196 000000[CO]
++Activate Item (must Have On)
+$00C55197 00000001
++Addon 1
+$00C55198 00000[EFF]
++Addon 2
+$00C55199 00000[EFF]
++Special Addon
+$00C5519A 00000[EFF]
+!!
+!Item Slot 188:
++Item Mod
+$10C5519C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C551A0 0000270F
++Color
+$00C551A2 000000[CO]
++Activate Item (must Have On)
+$00C551A3 00000001
++Addon 1
+$00C551A4 00000[EFF]
++Addon 2
+$00C551A5 00000[EFF]
++Special Addon
+$00C551A6 00000[EFF]
+!!
+!Item Slot 189:
++Item Mod
+$10C551A8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C551AC 0000270F
++Color
+$00C551AE 000000[CO]
++Activate Item (must Have On)
+$00C551AF 00000001
++Addon 1
+$00C551B0 00000[EFF]
++Addon 2
+$00C551B1 00000[EFF]
++Special Addon
+$00C551B2 00000[EFF]
+!!
+!Item Slot 190:
++Item Mod
+$10C551B4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C551B8 0000270F
++Color
+$00C551BA 000000[CO]
++Activate Item (must Have On)
+$00C551BB 00000001
++Addon 1
+$00C551BC 00000[EFF]
++Addon 2
+$00C551BD 00000[EFF]
++Special Addon
+$00C551BE 00000[EFF]
+!!
+!Item Slot 191:
++Item Mod
+$10C551C0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C551C4 0000270F
++Color
+$00C551C6 000000[CO]
++Activate Item (must Have On)
+$00C551C7 00000001
++Addon 1
+$00C551C8 00000[EFF]
++Addon 2
+$00C551C9 00000[EFF]
++Special Addon
+$00C551CA 00000[EFF]
+!!
+!Item Slot 192:
++Item Mod
+$10C551CC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C551D0 0000270F
++Color
+$00C551D2 000000[CO]
++Activate Item (must Have On)
+$00C551D3 00000001
++Addon 1
+$00C551D4 00000[EFF]
++Addon 2
+$00C551D5 00000[EFF]
++Special Addon
+$00C551D6 00000[EFF]
+!!
+!Item Slot 193:
++Item Mod
+$10C551D8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C551DC 0000270F
++Color
+$00C551DE 000000[CO]
++Activate Item (must Have On)
+$00C551DF 00000001
++Addon 1
+$00C551E0 00000[EFF]
++Addon 2
+$00C551E1 00000[EFF]
++Special Addon
+$00C551E2 00000[EFF]
+!!
+!Item Slot 194:
++Item Mod
+$10C551E4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C551E8 0000270F
++Color
+$00C551EA 000000[CO]
++Activate Item (must Have On)
+$00C551EB 00000001
++Addon 1
+$00C551EC 00000[EFF]
++Addon 2
+$00C551ED 00000[EFF]
++Special Addon
+$00C551EE 00000[EFF]
+!!
+!Item Slot 195:
++Item Mod
+$10C551F0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C551F4 0000270F
++Color
+$00C551F6 000000[CO]
++Activate Item (must Have On)
+$00C551F7 00000001
++Addon 1
+$00C551F8 00000[EFF]
++Addon 2
+$00C551F9 00000[EFF]
++Special Addon
+$00C551FA 00000[EFF]
+!!
+!Item Slot 196:
++Item Mod
+$10C551FC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55200 0000270F
++Color
+$00C55202 000000[CO]
++Activate Item (must Have On)
+$00C55203 00000001
++Addon 1
+$00C55204 00000[EFF]
++Addon 2
+$00C55205 00000[EFF]
++Special Addon
+$00C55206 00000[EFF]
+!!
+!Item Slot 197:
++Item Mod
+$10C55208 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5520C 0000270F
++Color
+$00C5520E 000000[CO]
++Activate Item (must Have On)
+$00C5520F 00000001
++Addon 1
+$00C55210 00000[EFF]
++Addon 2
+$00C55211 00000[EFF]
++Special Addon
+$00C55212 00000[EFF]
+!!
+!Item Slot 198:
++Item Mod
+$10C55214 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55218 0000270F
++Color
+$00C5521A 000000[CO]
++Activate Item (must Have On)
+$00C5521B 00000001
++Addon 1
+$00C5521C 00000[EFF]
++Addon 2
+$00C5521D 00000[EFF]
++Special Addon
+$00C5521E 00000[EFF]
+!!
+!Item Slot 199:
++Item Mod
+$10C55220 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55224 0000270F
++Color
+$00C55226 000000[CO]
++Activate Item (must Have On)
+$00C55227 00000001
++Addon 1
+$00C55228 00000[EFF]
++Addon 2
+$00C55229 00000[EFF]
++Special Addon
+$00C5522A 00000[EFF]
+!!
+!Item Slot 200:
++Item Mod
+$10C5522C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55230 0000270F
++Color
+$00C55232 000000[CO]
++Activate Item (must Have On)
+$00C55233 00000001
++Addon 1
+$00C55234 00000[EFF]
++Addon 2
+$00C55235 00000[EFF]
++Special Addon
+$00C55236 00000[EFF]
+!!
+!Item Slot 201:
++Item Mod
+$10C55238 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5523C 0000270F
++Color
+$00C5523E 000000[CO]
++Activate Item (must Have On)
+$00C5523F 00000001
++Addon 1
+$00C55240 00000[EFF]
++Addon 2
+$00C55241 00000[EFF]
++Special Addon
+$00C55242 00000[EFF]
+!!
+!Item Slot 202:
++Item Mod
+$10C55244 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55248 0000270F
++Color
+$00C5524A 000000[CO]
++Activate Item (must Have On)
+$00C5524B 00000001
++Addon 1
+$00C5524C 00000[EFF]
++Addon 2
+$00C5524D 00000[EFF]
++Special Addon
+$00C5524E 00000[EFF]
+!!
+!Item Slot 203:
++Item Mod
+$10C55250 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55254 0000270F
++Color
+$00C55256 000000[CO]
++Activate Item (must Have On)
+$00C55257 00000001
++Addon 1
+$00C55258 00000[EFF]
++Addon 2
+$00C55259 00000[EFF]
++Special Addon
+$00C5525A 00000[EFF]
+!!
+!Item Slot 204:
++Item Mod
+$10C5525C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55260 0000270F
++Color
+$00C55262 000000[CO]
++Activate Item (must Have On)
+$00C55263 00000001
++Addon 1
+$00C55264 00000[EFF]
++Addon 2
+$00C55265 00000[EFF]
++Special Addon
+$00C55266 00000[EFF]
+!!
+!Item Slot 205:
++Item Mod
+$10C55268 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5526C 0000270F
++Color
+$00C5526E 000000[CO]
++Activate Item (must Have On)
+$00C5526F 00000001
++Addon 1
+$00C55270 00000[EFF]
++Addon 2
+$00C55271 00000[EFF]
++Special Addon
+$00C55272 00000[EFF]
+!!
+!Item Slot 206:
++Item Mod
+$10C55274 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55278 0000270F
++Color
+$00C5527A 000000[CO]
++Activate Item (must Have On)
+$00C5527B 00000001
++Addon 1
+$00C5527C 00000[EFF]
++Addon 2
+$00C5527D 00000[EFF]
++Special Addon
+$00C5527E 00000[EFF]
+!!
+!Item Slot 207:
++Item Mod
+$10C55280 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55284 0000270F
++Color
+$00C55286 000000[CO]
++Activate Item (must Have On)
+$00C55287 00000001
++Addon 1
+$00C55288 00000[EFF]
++Addon 2
+$00C55289 00000[EFF]
++Special Addon
+$00C5528A 00000[EFF]
+!!
+!Item Slot 208:
++Item Mod
+$10C5528C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55290 0000270F
++Color
+$00C55292 000000[CO]
++Activate Item (must Have On)
+$00C55293 00000001
++Addon 1
+$00C55294 00000[EFF]
++Addon 2
+$00C55295 00000[EFF]
++Special Addon
+$00C55296 00000[EFF]
+!!
+!Item Slot 209:
++Item Mod
+$10C55298 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5529C 0000270F
++Color
+$00C5529E 000000[CO]
++Activate Item (must Have On)
+$00C5529F 00000001
++Addon 1
+$00C552A0 00000[EFF]
++Addon 2
+$00C552A1 00000[EFF]
++Special Addon
+$00C552A2 00000[EFF]
+!!
+!Item Slot 210:
++Item Mod
+$10C552A4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C552A8 0000270F
++Color
+$00C552AA 000000[CO]
++Activate Item (must Have On)
+$00C552AB 00000001
++Addon 1
+$00C552AC 00000[EFF]
++Addon 2
+$00C552AD 00000[EFF]
++Special Addon
+$00C552AE 00000[EFF]
+!!
+!Item Slot 211:
++Item Mod
+$10C552B0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C552B4 0000270F
++Color
+$00C552B6 000000[CO]
++Activate Item (must Have On)
+$00C552B7 00000001
++Addon 1
+$00C552B8 00000[EFF]
++Addon 2
+$00C552B9 00000[EFF]
++Special Addon
+$00C552BA 00000[EFF]
+!!
+!Item Slot 212:
++Item Mod
+$10C552BC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C552C0 0000270F
++Color
+$00C552C2 000000[CO]
++Activate Item (must Have On)
+$00C552C3 00000001
++Addon 1
+$00C552C4 00000[EFF]
++Addon 2
+$00C552C5 00000[EFF]
++Special Addon
+$00C552C6 00000[EFF]
+!!
+!Item Slot 213:
++Item Mod
+$10C552C8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C552CC 0000270F
++Color
+$00C552CE 000000[CO]
++Activate Item (must Have On)
+$00C552CF 00000001
++Addon 1
+$00C552D0 00000[EFF]
++Addon 2
+$00C552D1 00000[EFF]
++Special Addon
+$00C552D2 00000[EFF]
+!!
+!Item Slot 214:
++Item Mod
+$10C552D4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C552D8 0000270F
++Color
+$00C552DA 000000[CO]
++Activate Item (must Have On)
+$00C552DB 00000001
++Addon 1
+$00C552DC 00000[EFF]
++Addon 2
+$00C552DD 00000[EFF]
++Special Addon
+$00C552DE 00000[EFF]
+!!
+!Item Slot 215:
++Item Mod
+$10C552E0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C552E4 0000270F
++Color
+$00C552E6 000000[CO]
++Activate Item (must Have On)
+$00C552E7 00000001
++Addon 1
+$00C552E8 00000[EFF]
++Addon 2
+$00C552E9 00000[EFF]
++Special Addon
+$00C552EA 00000[EFF]
+!!
+!Item Slot 216:
++Item Mod
+$10C552EC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C552F0 0000270F
++Color
+$00C552F2 000000[CO]
++Activate Item (must Have On)
+$00C552F3 00000001
++Addon 1
+$00C552F4 00000[EFF]
++Addon 2
+$00C552F5 00000[EFF]
++Special Addon
+$00C552F6 00000[EFF]
+!!
+!Item Slot 217:
++Item Mod
+$10C552F8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C552FC 0000270F
++Color
+$00C552FE 000000[CO]
++Activate Item (must Have On)
+$00C552FF 00000001
++Addon 1
+$00C55300 00000[EFF]
++Addon 2
+$00C55301 00000[EFF]
++Special Addon
+$00C55302 00000[EFF]
+!!
+!Item Slot 218:
++Item Mod
+$10C55304 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55308 0000270F
++Color
+$00C5530A 000000[CO]
++Activate Item (must Have On)
+$00C5530B 00000001
++Addon 1
+$00C5530C 00000[EFF]
++Addon 2
+$00C5530D 00000[EFF]
++Special Addon
+$00C5530E 00000[EFF]
+!!
+!Item Slot 219:
++Item Mod
+$10C55310 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55314 0000270F
++Color
+$00C55316 000000[CO]
++Activate Item (must Have On)
+$00C55317 00000001
++Addon 1
+$00C55318 00000[EFF]
++Addon 2
+$00C55319 00000[EFF]
++Special Addon
+$00C5531A 00000[EFF]
+!!
+!Item Slot 220:
++Item Mod
+$10C5531C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55320 0000270F
++Color
+$00C55322 000000[CO]
++Activate Item (must Have On)
+$00C55323 00000001
++Addon 1
+$00C55324 00000[EFF]
++Addon 2
+$00C55325 00000[EFF]
++Special Addon
+$00C55326 00000[EFF]
+!!
+!Item Slot 221:
++Item Mod
+$10C55328 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5532C 0000270F
++Color
+$00C5532E 000000[CO]
++Activate Item (must Have On)
+$00C5532F 00000001
++Addon 1
+$00C55330 00000[EFF]
++Addon 2
+$00C55331 00000[EFF]
++Special Addon
+$00C55332 00000[EFF]
+!!
+!Item Slot 222:
++Item Mod
+$10C55334 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55338 0000270F
++Color
+$00C5533A 000000[CO]
++Activate Item (must Have On)
+$00C5533B 00000001
++Addon 1
+$00C5533C 00000[EFF]
++Addon 2
+$00C5533D 00000[EFF]
++Special Addon
+$00C5533E 00000[EFF]
+!!
+!Item Slot 223:
++Item Mod
+$10C55340 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55344 0000270F
++Color
+$00C55346 000000[CO]
++Activate Item (must Have On)
+$00C55347 00000001
++Addon 1
+$00C55348 00000[EFF]
++Addon 2
+$00C55349 00000[EFF]
++Special Addon
+$00C5534A 00000[EFF]
+!!
+!Item Slot 224:
++Item Mod
+$10C5534C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55350 0000270F
++Color
+$00C55352 000000[CO]
++Activate Item (must Have On)
+$00C55353 00000001
++Addon 1
+$00C55354 00000[EFF]
++Addon 2
+$00C55355 00000[EFF]
++Special Addon
+$00C55356 00000[EFF]
+!!
+!Item Slot 225:
++Item Mod
+$10C55358 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5535C 0000270F
++Color
+$00C5535E 000000[CO]
++Activate Item (must Have On)
+$00C5535F 00000001
++Addon 1
+$00C55360 00000[EFF]
++Addon 2
+$00C55361 00000[EFF]
++Special Addon
+$00C55362 00000[EFF]
+!!
+!Item Slot 226:
++Item Mod
+$10C55364 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55368 0000270F
++Color
+$00C5536A 000000[CO]
++Activate Item (must Have On)
+$00C5536B 00000001
++Addon 1
+$00C5536C 00000[EFF]
++Addon 2
+$00C5536D 00000[EFF]
++Special Addon
+$00C5536E 00000[EFF]
+!!
+!Item Slot 227:
++Item Mod
+$10C55370 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55374 0000270F
++Color
+$00C55376 000000[CO]
++Activate Item (must Have On)
+$00C55377 00000001
++Addon 1
+$00C55378 00000[EFF]
++Addon 2
+$00C55379 00000[EFF]
++Special Addon
+$00C5537A 00000[EFF]
+!!
+!Item Slot 228:
++Item Mod
+$10C5537C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55380 0000270F
++Color
+$00C55382 000000[CO]
++Activate Item (must Have On)
+$00C55383 00000001
++Addon 1
+$00C55384 00000[EFF]
++Addon 2
+$00C55385 00000[EFF]
++Special Addon
+$00C55386 00000[EFF]
+!!
+!Item Slot 229:
++Item Mod
+$10C55388 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5538C 0000270F
++Color
+$00C5538E 000000[CO]
++Activate Item (must Have On)
+$00C5538F 00000001
++Addon 1
+$00C55390 00000[EFF]
++Addon 2
+$00C55391 00000[EFF]
++Special Addon
+$00C55392 00000[EFF]
+!!
+!Item Slot 230:
++Item Mod
+$10C55394 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55398 0000270F
++Color
+$00C5539A 000000[CO]
++Activate Item (must Have On)
+$00C5539B 00000001
++Addon 1
+$00C5539C 00000[EFF]
++Addon 2
+$00C5539D 00000[EFF]
++Special Addon
+$00C5539E 00000[EFF]
+!!
+!Item Slot 231:
++Item Mod
+$10C553A0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C553A4 0000270F
++Color
+$00C553A6 000000[CO]
++Activate Item (must Have On)
+$00C553A7 00000001
++Addon 1
+$00C553A8 00000[EFF]
++Addon 2
+$00C553A9 00000[EFF]
++Special Addon
+$00C553AA 00000[EFF]
+!!
+!Item Slot 232:
++Item Mod
+$10C553AC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C553B0 0000270F
++Color
+$00C553B2 000000[CO]
++Activate Item (must Have On)
+$00C553B3 00000001
++Addon 1
+$00C553B4 00000[EFF]
++Addon 2
+$00C553B5 00000[EFF]
++Special Addon
+$00C553B6 00000[EFF]
+!!
+!Item Slot 233:
++Item Mod
+$10C553B8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C553BC 0000270F
++Color
+$00C553BE 000000[CO]
++Activate Item (must Have On)
+$00C553BF 00000001
++Addon 1
+$00C553C0 00000[EFF]
++Addon 2
+$00C553C1 00000[EFF]
++Special Addon
+$00C553C2 00000[EFF]
+!!
+!Item Slot 234:
++Item Mod
+$10C553C4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C553C8 0000270F
++Color
+$00C553CA 000000[CO]
++Activate Item (must Have On)
+$00C553CB 00000001
++Addon 1
+$00C553CC 00000[EFF]
++Addon 2
+$00C553CD 00000[EFF]
++Special Addon
+$00C553CE 00000[EFF]
+!!
+!Item Slot 235:
++Item Mod
+$10C553D0 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C553D4 0000270F
++Color
+$00C553D6 000000[CO]
++Activate Item (must Have On)
+$00C553D7 00000001
++Addon 1
+$00C553D8 00000[EFF]
++Addon 2
+$00C553D9 00000[EFF]
++Special Addon
+$00C553DA 00000[EFF]
+!!
+!Item Slot 236:
++Item Mod
+$10C553DC 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C553E0 0000270F
++Color
+$00C553E2 000000[CO]
++Activate Item (must Have On)
+$00C553E3 00000001
++Addon 1
+$00C553E4 00000[EFF]
++Addon 2
+$00C553E5 00000[EFF]
++Special Addon
+$00C553E6 00000[EFF]
+!!
+!Item Slot 237:
++Item Mod
+$10C553E8 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C553EC 0000270F
++Color
+$00C553EE 000000[CO]
++Activate Item (must Have On)
+$00C553EF 00000001
++Addon 1
+$00C553F0 00000[EFF]
++Addon 2
+$00C553F1 00000[EFF]
++Special Addon
+$00C553F2 00000[EFF]
+!!
+!Item Slot 238:
++Item Mod
+$10C553F4 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C553F8 0000270F
++Color
+$00C553FA 000000[CO]
++Activate Item (must Have On)
+$00C553FB 00000001
++Addon 1
+$00C553FC 00000[EFF]
++Addon 2
+$00C553FD 00000[EFF]
++Special Addon
+$00C553FE 00000[EFF]
+!!
+!Item Slot 239:
++Item Mod
+$10C55400 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55404 0000270F
++Color
+$00C55406 000000[CO]
++Activate Item (must Have On)
+$00C55407 00000001
++Addon 1
+$00C55408 00000[EFF]
++Addon 2
+$00C55409 00000[EFF]
++Special Addon
+$00C5540A 00000[EFF]
+!!
+!Item Slot 240:
++Item Mod
+$10C5540C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55410 0000270F
++Color
+$00C55412 000000[CO]
++Activate Item (must Have On)
+$00C55413 00000001
++Addon 1
+$00C55414 00000[EFF]
++Addon 2
+$00C55415 00000[EFF]
++Special Addon
+$00C55416 00000[EFF]
+!!
+!Item Slot 241:
++Item Mod
+$10C55418 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5541C 0000270F
++Color
+$00C5541E 000000[CO]
++Activate Item (must Have On)
+$00C5541F 00000001
++Addon 1
+$00C55420 00000[EFF]
++Addon 2
+$00C55421 00000[EFF]
++Special Addon
+$00C55422 00000[EFF]
+!!
+!Item Slot 242:
++Item Mod
+$10C55424 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55428 0000270F
++Color
+$00C5542A 000000[CO]
++Activate Item (must Have On)
+$00C5542B 00000001
++Addon 1
+$00C5542C 00000[EFF]
++Addon 2
+$00C5542D 00000[EFF]
++Special Addon
+$00C5542E 00000[EFF]
+!!
+!Item Slot 243:
++Item Mod
+$10C55430 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55434 0000270F
++Color
+$00C55436 000000[CO]
++Activate Item (must Have On)
+$00C55437 00000001
++Addon 1
+$00C55438 00000[EFF]
++Addon 2
+$00C55439 00000[EFF]
++Special Addon
+$00C5543A 00000[EFF]
+!!
+!Item Slot 244:
++Item Mod
+$10C5543C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55440 0000270F
++Color
+$00C55442 000000[CO]
++Activate Item (must Have On)
+$00C55443 00000001
++Addon 1
+$00C55444 00000[EFF]
++Addon 2
+$00C55445 00000[EFF]
++Special Addon
+$00C55446 00000[EFF]
+!!
+!Item Slot 245:
++Item Mod
+$10C55448 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5544C 0000270F
++Color
+$00C5544E 000000[CO]
++Activate Item (must Have On)
+$00C5544F 00000001
++Addon 1
+$00C55450 00000[EFF]
++Addon 2
+$00C55451 00000[EFF]
++Special Addon
+$00C55452 00000[EFF]
+!!
+!Item Slot 246:
++Item Mod
+$10C55454 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55458 0000270F
++Color
+$00C5545A 000000[CO]
++Activate Item (must Have On)
+$00C5545B 00000001
++Addon 1
+$00C5545C 00000[EFF]
++Addon 2
+$00C5545D 00000[EFF]
++Special Addon
+$00C5545E 00000[EFF]
+!!
+!Item Slot 247:
++Item Mod
+$10C55460 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55464 0000270F
++Color
+$00C55466 000000[CO]
++Activate Item (must Have On)
+$00C55467 00000001
++Addon 1
+$00C55468 00000[EFF]
++Addon 2
+$00C55469 00000[EFF]
++Special Addon
+$00C5546A 00000[EFF]
+!!
+!Item Slot 248:
++Item Mod
+$10C5546C 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55470 0000270F
++Color
+$00C55472 000000[CO]
++Activate Item (must Have On)
+$00C55473 00000001
++Addon 1
+$00C55474 00000[EFF]
++Addon 2
+$00C55475 00000[EFF]
++Special Addon
+$00C55476 00000[EFF]
+!!
+!Item Slot 249:
++Item Mod
+$10C55478 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C5547C 0000270F
++Color
+$00C5547E 000000[CO]
++Activate Item (must Have On)
+$00C5547F 00000001
++Addon 1
+$00C55480 00000[EFF]
++Addon 2
+$00C55481 00000[EFF]
++Special Addon
+$00C55482 00000[EFF]
+!!
+!Item Slot 250:
++Item Mod
+$10C55484 0000[ITE]
++Amount Upgraded/Have (9999)
+$10C55488 0000270F
++Color
+$00C5548A 000000[CO]
++Activate Item (must Have On)
+$00C5548B 00000001
++Addon 1
+$00C5548C 00000[EFF]
++Addon 2
+$00C5548D 00000[EFF]
++Special Addon
+$00C5548E 00000[EFF]
+!!
+!!
+^6 = MODS:
+[OX]
+040	2 times
+080	4 times
+0C0	8 times
+100	16 times
+140	32 times
+180	64 times
+1C0	128 times
+[/OX]
+[CO]
+VALUE>NAME
+00	Nothing
+01	Yellow  (Translusint)
+02	Light Blue  (Translusint)
+03	Green  (Translusint)
+04	Peach  (Translusint)
+05	Red  (Translusint)
+06	Purple  (Translusint)
+07	Dark Blue (Translusint)
+08	Gray  (Translusint)
+0C	White
+0D	Yellow
+0E	Orange/Brown
+0F	Yellow
+10	Blue
+11	Gray
+12	Yellowish
+13	Peach (Lighter)
+16	Sky Blue
+17	Blue Green
+18	Ocean Blue
+1A	White
+1B	Light Purple
+1C	Yellow
+1D	None
+20	Black
+21	Blue
+24	Bright White
+25	Blue
+26	Black
+27	Blue
+28	Blue
+2A	Bright White
+2B	Blue
+2C	Black
+60	Black (Translusint)
+7E	Green (Translusint)
+[/CO]
+[EFF]
+001	Power+20
+002	Power+40
+003	Power+60
+004	Power+100
+005	Inflame
+006	Electric Charge
+007	FreezeBless
+008	Curse
+009	Orc's Weak Spot
+00A	Harpy's Weak Spot
+00B	Lizard's Weak Spot
+00C	Beast's Weak Spot
+00D	Snake's Weak Spot
+00E	Giant's Weak Spot
+00F	Dragon's Weak Spot
+010	Demon's Weak Spot
+011	Robot's Weak Spot
+012	Golem's Weak Spot
+013	Undead's Weak Spot
+014	Anti-Weapon
+015	Anti-Armor
+016	Anti-Wing
+017	Anti-Scale
+018	Anti-Flame
+019	Anti-Lightning
+01A	Anti-Frost
+01B	Anti-Light
+01C	Anti-Darkness
+01D	Crush
+01E	Anti-Multiple
+01F	Character Flaw
+020	Accelerate
+021	Ultrarapid
+022	Godspeed
+023	Brutality
+024	Air Buster
+025	Air Slice
+026	Critical
+027	Critical+
+028	Critical++
+029	Attack+10
+02A	Attack+20
+02B	Attack+30
+02C	Attack+50
+02D	Attack +100
+02E	Striker+10
+02F	Striker+20
+030	Striker+30
+031	Knockback+10
+032	Knockback+20
+033	Knockback+30
+034	Knockdown
+035	Knockdown+
+036	Knockdown++
+037	Chain Attack
+038	Chain Attack+
+039	Life Drain
+03A	Life Drain+
+03B	MP DrainMP 
+03C	Drain+
+03D	Healing 
+03E	Wisdom
+03F	Change Mythril
+040	Flame Seed
+041	Flame Spirit
+042	Flame Element
+043	Thunder Seed
+044	Thunder Spirit
+045	Thunder Element
+046	Ice Seed
+047	Ice Spirit
+048	Ice Element
+049	Shining Seed
+04A	Shining Spirit
+04B	Shining Element
+04C	Dark Seed
+04D	Dark Spirit
+04E	Dark Element
+04F	Chaos Seed
+050	Chaos Spirit
+051	Chaos Element
+052	Sky Slash
+053	Spin Attack
+054	Rush Blade
+055	Impact Crush
+056	Power Press
+057	Counter Straight
+058	Bone Drill
+059	Dark Arrow Lv2
+05A	Grand Uppercut
+05B	Rolling Buster
+05C	Death Critical
+05D	Stun Smash
+05E	Gaia Quake
+05F	Unrivaled Attack
+060	Vital Drain
+061	Blazing Feather
+062	Drain Mana
+063	Avalon Nova
+064	Blaze Lv2
+065	Spark Lv2
+066	Ice Spike Lv1
+067	Shine Lv2
+068	Spark Lv1
+069	Dark Arrow Lv1
+06A	Chaos Gate Lv1
+06B	Hell Blast Lv1
+06C	Fire Breath
+06D	Spark Breath
+06E	Ice Breath
+06F	Stone Breath
+070	Blazing Feather
+071	Ice Arrow
+072	Aura
+073	Charged Shot
+074	Wide Shot
+075	Gatling Arrow
+076	Dark Arrow Lv2
+077	Stone Shell
+078	Ice Shell
+079	Blazing Feather
+07A	Assassin Needle
+07B	Holy Lv2
+07C	Rough-and-Ready
+07D	Death Blow
+07E	Flash of Despair
+07F	Master's Blow
+080	Rising Dragon
+081	Fighter's Fists
+082	Fire Nucleus
+083	Ice Nucleus
+084	Thunder Nucleus
+085	Light Nucleus
+086	Darkness Nucleus
+087	Hymn of Power
+088	Giant's Rage
+089	Heaven and Earth
+08A	Demonic Pact
+08B	Perfect Blow
+08C	Swordmaster's Secret
+08D	Devil Spark
+08E	Orc Slayer
+08F	Lizard Slayer
+090	Harpy Slayer
+091	Feat of Striking
+092	Reincarnation
+093	Darkness Awakened
+094	Technique+20
+095	Technique+40
+096	Technique+60
+097	Technique+100
+098	Balance+10
+099	Balance+20
+09A	Balance+30
+09B	Balance+40
+09C	Balance+50
+09D	Cockatrice Guard
+09E	Basilisk Guard
+09F	Medusa Guard
+0A0	Shield Guard
+0A1	Shield Guard+
+0A2	Counterattack
+0A3	Counterattack+
+0A4	Resist Critical+10
+0A5	Resist Critical+20
+0A6	Resist Critical+30
+0A7	Resist Stun+10
+0A8	Resist Stun+20
+0A9	Resist Stun+30
+0AA	Resist Knockback+10
+0AB	Resist Knockback+20
+0AC	Resist Knockback+30
+0AD	Nullify Knockdown
+0AE	Nullify Float
+0AF	Conceal Weakness
+0B0	Quick Reflex
+0B1	Close Dodge
+0B2	Oracle's Shield
+0B3	Knight's Code
+0B4	Golem's Soul
+0B5	HP+20
+0B6	HP+40
+0B7	HP+60
+0B8	HP+80
+0B9	HP+100
+0BA	Absolute Defense+25
+0BB	Absolute Defense+50
+0BC	Absolute Defense+75
+0BD	Absolute Defense+100
+0BE	Speed Up
+0BF	Speed Up+
+0C0	Float Attack
+0C1	Guard+5
+0C2	Guard+10
+0C3	Guard+15
+0C4	Guard+20
+0C5	Guard+25
+0C6	Quick Recover
+0C7	Quick Recover+
+0C8	Quick Recover++
+0C9	Quicksilver
+0CA	Sign of Life
+0CB	Steel Body
+0CC	Breath of Life
+0CD	Goddess Blessing
+0CE	Unbeatable Courage
+0CF	Third Eye
+0D0	Source of Life
+0D1	Resist Flame
+0D2	Resist Flame+
+0D3	Resist Flame++
+0D4	Resist Flame+++
+0D5	Resist Lightning
+0D6	Resist Lightning+
+0D7	Resist Lightning++
+0D8	Resist Lightning+++
+0D9	Resist Frost
+0DA	Resist Frost+
+0DB	Resist Frost++
+0DC	Resist Frost+++
+0DD	Resist Darkness
+0DE	Resist Darkness+
+0DF	Resist Darkness++
+0E0	Resist Darkness+++
+0E1	Resist Chaos
+0E2	Resist Chaos+
+0E3	Resist Chaos++
+0E4	Resist Chaos+++
+0E5	Intellect+20
+0E6	Intellect+40
+0E7	Intellect+60
+0E8	Intellect+100
+0E9	Soul+10
+0EA	Soul+20
+0EB	Soul+30
+0EC	Soul+40
+0ED	Soul+50
+0EE	Magic Power+10
+0EF	Magic Power+20
+0F0	Magic Power+30
+0F1	Magic Power+40
+0F2	Magic Power+50
+0F3	Ignorant Blessing
+0F4	Elements of Magic
+0F5	Fox Spirit
+0F6	Modest Charm
+0F7	Wizard's Lore
+0F8	Divine Spirit
+0F9	Earth Talisman
+0FA	Magic of Insanity
+0FB	Angel's Smile
+0FC	Angel's Blessing
+0FD	Angel's Kiss
+0FE	Angel's Embrace
+[/EFF]

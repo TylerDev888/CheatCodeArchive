@@ -1,0 +1,44 @@
+^3 = NAME: 4X4 Evolution (PAL-Unk)
+^2 = GameID: SLES-50194
+!Master Codes:
++Enabler Code (Must Be On)
+%Credits: InterAct
+$F023250C 000001FD
++Enabler Code (Must Be On)
+%Credits: Codejunkies
+$F023250C 0023250F
+$202703CC 00000000
+!!
++Finish After 1St Lap
+%Credits: InterAct
+$202564E8 00000000
+!Gravity Codes:
++Moon Gravity
+%Credits: Codejunkies
+$203A18EC 40800000
++Super Gravity
+%Credits: Codejunkies
+$203A18EC 43800000
+!!
++Infinite Cash
+%Credits: InterAct
+$208AE75C FFFFFFFF
++Low Camera Position
+%Credits: InterAct
+$203A1610 00000000
++Only One Lap To Finish The Races
+%Credits: luc-ita
+$203A160C 00000001
++Opponents Don't Move (Read Notes)
+%Credits: luc-ita
+$2099484C 00000001
+$20997190 00000001
+$20999AD4 00000001
+$203A20C4 00000001
++Race Alone
+%Credits: luc-ita
+$20991504 00000001
++Remove Hack Check
+%Credits: InterAct
+$202703CC 00000000
+

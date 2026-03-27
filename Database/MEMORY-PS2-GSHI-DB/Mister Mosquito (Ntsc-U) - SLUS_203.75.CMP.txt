@@ -1,0 +1,120 @@
+^3 = NAME: Mister Mosquito (Ntsc-U)
+^2 = GameID: SLUS-20375
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0168DBC 0010B68F
++(M) Must Be On
+%Credits: Codejunkies
+$F010B68C 0010B68F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0010B68F
+!!
++100% Extra Blood
+%Credits: InterAct
+$1038B654 00000050
++All Colors
+%Credits: InterAct
+$1038B4D8 0000FFFF
++All Extra Tanks
+%Credits: InterAct
+$1038B610 00000010
++Infinite Health
+%Credits: Code Master
+$103992FC 00000028
++Max Extra Tanks
+%Credits: Code Master
+$1038B610 0000000F
++Max Health
+%Credits: Code Master
+$10399300 00000014
+!Mini-Game Codes:
++P1 0 Wins
+%Credits: InterAct
+$007085C0 00000000
++P1 99 Wins
+%Credits: InterAct
+$007085C0 00000063
++P1 Max Rocket Gauge
+%Credits: InterAct
+$1066AA16 00004300
++P1 No Rocket Gauge
+%Credits: InterAct
+$1066AA16 00000000
++P1 Super Jump
+%Credits: InterAct
+$D038DEC2 0000BFFF
+$10707456 0000C400
++P2 0 Wins
+%Credits: InterAct
+$007085C4 00000000
++P2 99 Wins
+%Credits: InterAct
+$007085C4 00000063
++P2 Max Rocket Gauge
+%Credits: InterAct
+$1066AA1A 00004300
++P2 No Rocket Gauge
+%Credits: InterAct
+$1066AA1A 00000000
++P2 Super Jump
+%Credits: InterAct
+$D0391EC2 0000BFFF
+$107079D6 0000C400
+!!
++Quick Suck'n
+%Credits: InterAct
+$1039931E 00004200
+!Reckless Cyclist - P1 Codes:
++Reckless Cyclist: Player 1 Super Jump
+%Credits: InterAct
+$10707456 0000C400
+!!
+!Reckless Cyclist Codes [Special Note 1]:
++Max Rocket Gauge P1
+%Credits: Code Master
+$2066AA14 42C80000
++Max Rocket Gauge P2
+%Credits: Code Master
+$2066AA18 42C80000
++Never Gain Wins P1
+%Credits: Code Master
+$D07085C0 00200002
+$107085C0 00000000
++Never Gain Wins P2
+%Credits: Code Master
+$D07085C4 00200002
+$107085C4 00000000
++No Rocket Gauge P1
+%Credits: Code Master
+$2066AA10 00000000
++No Rocket Gauge P2
+%Credits: Code Master
+$2066AA18 00000000
++P1 Press X For Hover Mode
+%Credits: Code Master
+$D038DEC2 0000BFFF
+$20707456 C3FA0000
++P2 Press X For Hover Mode
+%Credits: Code Master
+$D0391EC2 0000BFFF
+$207079D4 C3FA0000
++Special Note 1 {<I>With These Codes, To Play This Mode, Hold L2 And Keep Rotating The Right Analog Stick Clockwise Until It Takes You Here.</I>}
+%Credits: NA
++Start With Wins Modifier P1
+%Credits: Code Master
+$D07085C0 00000000
+$107085C0 000000??
++Start With Wins Modifier P2
+%Credits: Code Master
+$D07085C4 00000000
+$107085C4 000000??
+!!
+!Rocket Gauge Codes:
+!!
++Suck Blood Quicker
+%Credits: Code Master
+$2039931C 42C80000
+!!
+

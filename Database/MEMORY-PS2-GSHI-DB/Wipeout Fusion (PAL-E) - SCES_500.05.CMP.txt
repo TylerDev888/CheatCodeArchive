@@ -1,0 +1,77 @@
+^3 = NAME: Wipeout Fusion (PAL-E)
+^2 = GameID: SCES-50005
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F018CC38 0021317F
++(M) Must Be On
+%Credits: Codejunkies
+$F021317C 0021317F
++Enable Code
+%Credits: lee4
+$9021317C 0C0894FE
+!!
++All Arcade Gold
+%Credits: InterAct
+$20395CE0 FFFFFFFF
+$20395CE4 FFFFFFFF
++All Arcade/Time
+%Credits: InterAct
+$20394DE8 FFFFFFFF
+$20394DEC FFFFFFFF
++All Challenges Gold
+%Credits: InterAct
+$20395D10 FFFFFFFF
+$20395D14 FFFFFFFF
++All Challenges Open
+%Credits: InterAct
+$20395D48 FFFFFFFF
+$20395D4C FFFFFFFF
++All Teams
+%Credits: InterAct
+$20395D40 0000FFFF
++All Time Trial Gold
+%Credits: InterAct
+$20395CF8 FFFFFFFF
++All Zone Gold
+%Credits: InterAct
+$20395D30 000FFFFF
++Always On Last Lap
+%Credits: InterAct
+$202CD2A8 00000019
++Auto Drive
+%Credits: luc-ita
+$2019E060 00000000
++Infinite Credits
+%Credits: InterAct
+$20394E74 05F5E0FF
++Infinite Proton Cannons
+%Credits: InterAct
+$102CD2F8 00000063
++Infinite Shields
+%Credits: InterAct
+$202CC8EC 421C0000
++Monster Score - Zone
+%Credits: InterAct
+$203787AC 0FFFFFFF
++Open Extra Leagues
+%Credits: InterAct
+$20394DFC 000007FF
++Opponents Don't Move
+%Credits: luc-ita
+$2019EB7C 00000000
+$2019C85C 1000001E
++Race Alone
+%Credits: luc-ita
+$00352E4D 00000001
++Unlock All Weapons
+%Credits: CMX
+$20394DF8 07FFFFFF
++Zone Level 30
+%Credits: InterAct
+$203953D4 0000001E
++Zone/Time Trial Open
+%Credits: InterAct
+$20395D50 00000003
+!!
+

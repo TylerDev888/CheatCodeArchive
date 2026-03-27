@@ -1,0 +1,20 @@
+^3 = NAME: Oshiete! Popotan (Ntsc-J)
+^2 = GameID: SLPM-65535
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9010F9F8 0C043E26
+!!
++New Game = Test Script
+%Credits: punk7890
+$D0BD8F46 00000085
+$20BD8F44 003C0003
++Unlock All CG
+%Credits: punk7890
+$20B13668 FFFFFFFF
+$20B1366C FFFFFFFF
+$20B13670 FFFFFFFF
+$20B13674 FFFFFFFF
+$20B13678 FFFFFFFF
+!!
+

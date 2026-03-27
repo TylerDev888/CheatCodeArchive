@@ -1,0 +1,41 @@
+^3 = NAME: Ys I-II - Eternal Story (Ntsc-J)
+^2 = GameID: SLPS-25206
+!*Codes for the YS I game*:
++Buy Even Without Money
+%Credits: luc-ita
+$20191AE4 10000003
+$20191538 10000003
+$20191318 10000003
+$20191428 10000003
+$201910E4 10000003
++Each Enemy Gives Maximum EXP
+%Credits: luc-ita
+$201D009C 00000000
++Every Enemy Killed, And Every Item Bought, Gives The Maximum Amount Of Money
+%Credits: luc-ita
+$201CFF80 00000000
++Invulnerable
+%Credits: luc-ita
+$201465A0 00000000
+$20146654 00000000
+$201466D8 00000000
+$201466F0 00000000
+!!
+!*Codes for the YS II game*:
++1Hitkill
+%Credits: luc-ita
+$2024E1EC 00000000
++Buy Even Without Money
+%Credits: luc-ita
+$202BC850 24040000
++Invulnerable
+%Credits: luc-ita
+$2020C9E8 00000000
++Kill An Enemy For Maximum EXP
+%Credits: luc-ita
+$2024E3E0 00000000
++Kill An Enemy For Maximum Money
+%Credits: luc-ita
+$2024E428 00000000
+!!
+

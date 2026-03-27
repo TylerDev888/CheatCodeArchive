@@ -1,0 +1,10 @@
+^2 = GameID: BLES02026
+^3 = NAME: Escape Dead Island
+^5 = APCRED: from shaka
+^4 = FILE: SAVE.SAV
++Update Crc32 For Save.sav (required)
+(set range:0x000004,0x004C21)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

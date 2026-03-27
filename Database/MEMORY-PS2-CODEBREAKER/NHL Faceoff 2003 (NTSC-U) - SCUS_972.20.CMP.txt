@@ -1,0 +1,294 @@
+^1 = HASH: E0270201
+^3 = NAME: NHL Faceoff 2003
+^2 = GameID: SCUS_972.20
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00384F6F
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$90384F6C 0C0ED917
+!!
+!Codes:
++Infinite Player Creation Points
+%Credits: Code Master
+$201A4F28 00000000
+$201A4F3C 00000000
++Home Team Score Modifier
+%Credits: Code Master
+$108BEB2E 0000????
++Away Team Score Modifier
+%Credits: Code Master
+$108BEB30 0000????
++Infinite Time-Outs (Both Teams)
+%Credits: Code Master
+$108ACFD8 00000101
++No Time-Outs (Both Teams)
+%Credits: Code Master
+$108ACFD8 00000101
++Home Team Infinite Time-Outs
+%Credits: Code Master
+$008ACFD8 00000001
++Home Team No Time-Outs
+%Credits: Code Master
+$008ACFD8 00000000
++Away Team Infinite Time-Outs
+%Credits: Code Master
+$008ACFD9 00000001
++Away Team No Time-Outs
+%Credits: Code Master
+$008ACFD9 00000000
++All Goal's Score For Home Team
+%Credits: Code Master
+$202CC600 24430000
++All Goal's Score For Away Team
+%Credits: Code Master
+$202CC600 24430002
++Goal's Score Modifier
+%Credits: Code Master
+$102CC60C 000000??
++P1 Press L1+Select For More Time
+%Credits: Code Master
+$E002FBFE 009CE482
+$208AE488 0000000A
+$208AE48C 00000000
++P1 Press L2+Select For Low Time
+%Credits: Code Master
+$E002FEFE 009CE482
+$208AE488 00000000
+$208AE48C 00000001
++P2 Press L1+Select For More Time
+%Credits: Code Master
+$E002FBFE 009CE582
+$208AE488 0000000A
+$208AE48C 00000000
++P2 Press L2+Select For Low Time
+%Credits: Code Master
+$E002FEFE 009CE582
+$208AE488 00000000
+$208AE48C 00000001
++P3 Press L1+Select For More Time
+%Credits: Code Master
+$E002FBFE 009CE682
+$208AE488 0000000A
+$208AE48C 00000000
++P3 Press L2+Select For Low Time
+%Credits: Code Master
+$E002FEFE 009CE682
+$208AE488 00000000
+$208AE48C 00000001
++P4 Press L1+Select For More Time
+%Credits: Code Master
+$E002FBFE 009CE782
+$208AE488 0000000A
+$208AE48C 00000000
++P4 Press L2+Select For Low Time
+%Credits: Code Master
+$E002FEFE 009CE782
+$208AE488 00000000
+$208AE48C 00000001
++P5 Press L1+Select For More Time
+%Credits: Code Master
+$E002FBFE 009CE882
+$208AE488 0000000A
+$208AE48C 00000000
++P5 Press L2+Select For Low Time
+%Credits: Code Master
+$E002FEFE 009CE882
+$208AE488 00000000
+$208AE48C 00000001
++P6 Press L1+Select For More Time
+%Credits: Code Master
+$E002FBFE 009CE982
+$208AE488 0000000A
+$208AE48C 00000000
++P6 Press L2+Select For Low Time
+%Credits: Code Master
+$E002FEFE 009CE982
+$208AE488 00000000
+$208AE48C 00000001
++P7 Press L1+Select For More Time
+%Credits: Code Master
+$E002FBFE 009CEA82
+$208AE488 0000000A
+$208AE48C 00000000
++P7 Press L2+Select For Low Time
+%Credits: Code Master
+$E002FEFE 009CEA82
+$208AE488 00000000
+$208AE48C 00000001
++P8 Press L1+Select For More Time
+%Credits: Code Master
+$E002FBFE 009CEB82
+$208AE488 0000000A
+$208AE48C 00000000
++P8 Press L2+Select For Low Time
+%Credits: Code Master
+$E002FEFE 009CEB82
+$208AE488 00000000
+$208AE48C 00000001
+!!
+!Home Team Stats Codes:
++Score Modifier
+%Credits: Code Master
+$1059C6FA 0000????
+$1059C75A 0000????
++Shots Modifier
+%Credits: Code Master
+$1059C6FE 0000????
+$1059C75E 0000????
++Penalties Modifier
+%Credits: Code Master
+$1059C702 0000????
+$1059C762 0000????
++Max Power Plays Modifier
+%Credits: Code Master
+$1059C706 0000????
+$1059C766 0000????
++Power Plays Modifier
+%Credits: Code Master
+$1059C70A 0000????
+$1059C76A 0000????
++PP Minutes Modifier
+%Credits: Code Master
+$1059C70E 0000????
+$1059C76E 0000????
++PP Shots Modifier
+%Credits: Code Master
+$1059C712 0000????
+$1059C772 0000????
++Short Handed Goals Modifier
+%Credits: Code Master
+$1059C71A 0000????
+$1059C77A 0000????
++Max Breakaways Modifier
+%Credits: Code Master
+$1059C71E 0000????
+$1059C77E 0000????
++Breakaways Modifier
+%Credits: Code Master
+$1059C722 0000????
+$1059C782 0000????
++Max One-Timers Modifier
+%Credits: Code Master
+$1059C726 0000????
+$1059C786 0000????
++One-Timers Modifier
+%Credits: Code Master
+$1059C72A 0000????
+$1059C78A 0000????
++Max Penalty Shots Modifier
+%Credits: Code Master
+$1059C72E 0000????
+$1059C78E 0000????
++Penalty Shots Modifier
+%Credits: Code Master
+$1059C732 0000????
+$1059C792 0000????
++Max Faceoffs Modifier
+%Credits: Code Master
+$1059C736 0000????
+$1059C796 0000????
++Faceoffs Modifier
+%Credits: Code Master
+$1059C73A 0000????
+$1059C79A 0000????
++Checks Modifier
+%Credits: Code Master
+$1059C73E 0000????
+$1059C79E 0000????
++Attack Zone Modifier
+%Credits: Code Master
+$1059C742 0000????
+$1059C7A2 0000????
++Max Passing Modifier
+%Credits: Code Master
+$1059C746 0000????
+$1059C7A6 0000????
++Passing Modifier
+%Credits: Code Master
+$1059C74A 0000????
+$1059C7AA 0000????
+!!
+!Away Team Stats Codes:
++Score Modifier
+%Credits: Code Master
+$1059C6FC 0000????
+$1059C75C 0000????
++Shots Modifier
+%Credits: Code Master
+$1059C700 0000????
+$1059C760 0000????
++Penalties Modifier
+%Credits: Code Master
+$1059C704 0000????
+$1059C764 0000????
++Max Power Plays Modifier
+%Credits: Code Master
+$1059C708 0000????
+$1059C768 0000????
++Power Plays Modifier
+%Credits: Code Master
+$1059C70C 0000????
+$1059C76C 0000????
++PP Minutes Modifier
+%Credits: Code Master
+$1059C710 0000????
+$1059C770 0000????
++PP Shots Modifier
+%Credits: Code Master
+$1059C714 0000????
+$1059C774 0000????
++Short Handed Goals Modifier
+%Credits: Code Master
+$1059C71C 0000????
+$1059C77C 0000????
++Max Breakaways Modifier
+%Credits: Code Master
+$1059C720 0000????
+$1059C780 0000????
++Breakaways Modifier
+%Credits: Code Master
+$1059C724 0000????
+$1059C784 0000????
++Max One-Timers Modifier
+%Credits: Code Master
+$1059C728 0000????
+$1059C788 0000????
++One-Timers Modifier
+%Credits: Code Master
+$1059C72C 0000????
+$1059C78C 0000????
++Max Penalty Shots Modifier
+%Credits: Code Master
+$1059C730 0000????
+$1059C790 0000????
++Penalty Shots Modifier
+%Credits: Code Master
+$1059C734 0000????
+$1059C794 0000????
++Max Faceoffs Modifier
+%Credits: Code Master
+$1059C738 0000????
+$1059C798 0000????
++Faceoffs Modifier
+%Credits: Code Master
+$1059C73C 0000????
+$1059C79C 0000????
++Checks Modifier
+%Credits: Code Master
+$1059C740 0000????
+$1059C7A0 0000????
++Attack Zone Modifier
+%Credits: Code Master
+$1059C744 0000????
+$1059C7A4 0000????
++Max Passing Modifier
+%Credits: Code Master
+$1059C748 0000????
+$1059C7A8 0000????
++Passing Modifier
+%Credits: Code Master
+$1059C74C 0000????
+$1059C7AC 0000????
+!!

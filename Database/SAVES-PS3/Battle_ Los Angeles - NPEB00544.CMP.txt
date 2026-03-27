@@ -1,0 +1,9 @@
+^2 = GameID: NPEB00544
+^3 = NAME: Battle: Los Angeles (PSN)
+^4 = FILE: USER.CFG
+^4 = FILE: TROPHY.CFG
+^4 = FILE: SAVES.CFG
++Update Crc32 For Saves.cfg (required)
+$set range:0x000008,0x000A1F
+$set [hash]:CRC32
+$write at 0x000004:[hash]

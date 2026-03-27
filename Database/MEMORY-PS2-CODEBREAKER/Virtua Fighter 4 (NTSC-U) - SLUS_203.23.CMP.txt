@@ -1,0 +1,282 @@
+^1 = HASH: EA131B57
+^3 = NAME: Virtua Fighter 4
+^2 = GameID: SLUS_203.23
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002E0AF7
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$902E0AF4 0C0BE111
+!!
+!Codes:
++Infinite Time
+%Credits: Code Master
+$20315E0C 44E10000
++Always Low Overall Time
+%Credits: Code Master
+$20315E08 00000000
++Wins Modifier
+%Credits: Code Master
+$10315E70 0000????
++Have All Training Trial Missions Complete
+%Credits: Code Master
+$205EB3B8 FFFFFFFF
+$205EB3BC FFFFFFFF
+$205EB3C0 FFFFFFFF
++Start On Final Stage (Arcade Mode)
+%Credits: Code Master
+$D0315E76 00000000
+$00315E77 0000000C
++Start On Bonus Stage (Arcade Mode)
+%Credits: Code Master
+$D0315E76 00000000
+$00315E77 0000000D
++Character Modifier P1
+%Credits: Code Master
+$0056E190 000000??
++Character Modifier P2
+%Credits: Code Master
+$0056E191 000000??
++Infinite Health P1
+%Credits: Code Master
+$10879C20 000000C9
++No Health P1
+%Credits: Code Master
+$10879C20 00000000
++75% Health P1
+%Credits: Code Master
+$D0879C20 000000C9
+$10879C20 00000096
++50% Health P1
+%Credits: Code Master
+$D0879C20 000000C9
+$10879C20 00000064
++25% Health P1
+%Credits: Code Master
+$D0879C20 000000C9
+$10879C20 00000032
++1-Hit Death P1
+%Credits: Code Master
+$D0879C20 000000C9
+$10879C20 00000001
++P1 Never Wins
+%Credits: Code Master
+$00315E68 00000000
++P1 Starts With 1 Win
+%Credits: Code Master
+$D0315E68 00000000
+$00315E68 00000001
++P1 Starts With 2 Wins
+%Credits: Code Master
+$D0315E68 00000000
+$00315E68 00000002
++P1 Starts With 3 Wins
+%Credits: Code Master
+$D0315E68 00000000
+$00315E68 00000003
++P1 Starts With 4 Wins
+%Credits: Code Master
+$D0315E68 00000000
+$00315E68 00000004
++Infinite Health P2
+%Credits: Code Master
+$1087A3C8 000000C9
++No Health P2
+%Credits: Code Master
+$1087A3C8 00000000
++75% Health P2
+%Credits: Code Master
+$D087A3C8 000000C9
+$1087A3C8 00000096
++50% Health P2
+%Credits: Code Master
+$D087A3C8 000000C9
+$1087A3C8 00000064
++25% Health P2
+%Credits: Code Master
+$D087A3C8 000000C9
+$1087A3C8 00000032
++1-Hit Death P2
+%Credits: Code Master
+$D087A3C8 000000C9
+$1087A3C8 00000001
++P2 Never Wins
+%Credits: Code Master
+$00315E69 00000000
++P2 Starts With 1 Wins
+%Credits: Code Master
+$D0315E69 00000000
+$00315E69 00000001
++P2 Starts With 2 Wins
+%Credits: Code Master
+$D0315E69 00000000
+$00315E69 00000002
++P2 Starts With 3 Wins
+%Credits: Code Master
+$D0315E69 00000000
+$00315E69 00000003
++P2 Starts With 4 Wins
+%Credits: Code Master
+$D0315E69 00000000
+$00315E69 00000004
+!!
+!Created Character Codes:
++Always Grandmaster Rank
+%Credits: Code Master
+$1087869C 0000001A
++Max Wins
+%Credits: Code Master
+$108786A0 0000C350
++No Wins
+%Credits: Code Master
+$108786A0 00000000
++Max Losses
+%Credits: Code Master
+$108786A0 0000C350
++No Losses
+%Credits: Code Master
+$108786A0 00000000
+!!
+!Have Item Codes [Note 1]:
++Item 1
+%Credits: Code Master
+$20590A64 00000001
++Item 2
+%Credits: Code Master
+$20590A68 00000001
++Item 3
+%Credits: Code Master
+$20590A6C 00000001
++Item 4
+%Credits: Code Master
+$20590A70 00000001
++Item 5
+%Credits: Code Master
+$20590A74 00000001
++Item 6
+%Credits: Code Master
+$20590A78 00000001
++Item 7
+%Credits: Code Master
+$20590A7C 00000001
++Item 8
+%Credits: Code Master
+$20590A80 00000001
++Item 9
+%Credits: Code Master
+$20590A84 00000001
++Item 10
+%Credits: Code Master
+$20590A88 00000001
++Item 11
+%Credits: Code Master
+$20590A8C 00000001
++Item 12
+%Credits: Code Master
+$20590A90 00000001
++Item 13
+%Credits: Code Master
+$20590A94 00000001
++Item 14
+%Credits: Code Master
+$20590A98 00000001
++Item 15
+%Credits: Code Master
+$20590A9C 00000001
++Item 16
+%Credits: Code Master
+$20590AA0 00000001
++Item 17
+%Credits: Code Master
+$20590AA4 00000001
++Item 18
+%Credits: Code Master
+$20590AA8 00000001
++Item 19
+%Credits: Code Master
+$20590AAC 00000001
++Item 20
+%Credits: Code Master
+$20590AB0 00000001
++Item 21
+%Credits: Code Master
+$20590AB4 00000001
++Item 22
+%Credits: Code Master
+$20590AB8 00000001
++Item 23
+%Credits: Code Master
+$20590ABC 00000001
++Item 24
+%Credits: Code Master
+$20590AC0 00000001
++Item 25
+%Credits: Code Master
+$20590AC4 00000001
++Item 26
+%Credits: Code Master
+$20590AC8 00000001
++Item 27
+%Credits: Code Master
+$20590ACC 00000001
++Item 28
+%Credits: Code Master
+$20590AD0 00000001
++Item 29
+%Credits: Code Master
+$20590AD4 00000001
++Item 30
+%Credits: Code Master
+$20590AD8 00000001
++Item 31
+%Credits: Code Master
+$20590ADC 00000001
++Item 32
+%Credits: Code Master
+$20590AE0 00000001
++Item 33
+%Credits: Code Master
+$20590AE4 00000001
++Item 34
+%Credits: Code Master
+$20590AE8 00000001
++Item 35
+%Credits: Code Master
+$20590AEC 00000001
++Item 36
+%Credits: Code Master
+$20590AF0 00000001
++Item 37
+%Credits: Code Master
+$20590AF4 00000001
++Item 38
+%Credits: Code Master
+$20590AF8 00000001
++Item 39
+%Credits: Code Master
+$20590AFC 00000001
++Item 40
+%Credits: Code Master
+$20590B00 00000001
++All Items
+%Credits: Code Master
+$40590A64 00280001
+$00000001 00000000
+!!
+^6 = MODS:
+Quantity Digits to Accompany Character Modifier Codes
+00 - Dural
+01 - Akira
+02 - Pai
+03 - Lau
+04 - Wolf
+05 - Jeffry
+06 - Kage
+07 - Vanessa
+08 - Sarah
+09 - Jacky
+0A - Shun
+0B - Lion
+0C - Aoi
+0D - Lei-Fei

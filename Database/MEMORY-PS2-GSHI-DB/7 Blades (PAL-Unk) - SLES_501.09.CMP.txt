@@ -1,0 +1,32 @@
+^3 = NAME: 7 Blades (PAL-Unk)
+^2 = GameID: SLES-50109
+!Master Codes:
++Enabler Code (Must Be On)
+%Credits: InterAct
+$F03B57C0 003C131F
++Enabler Code (Must Be On)
+%Credits: Codejunkies
+$F03C131C 003C131F
+!!
+!Gokuraku - Maru:
++Fill Special Move Meter (Press L2 To Activate)
+%Credits: Codejunkies
+$D0551F42 0000FEFF
+$2051C63C 0000FFFF
++Fill The Berserk Meter (Press R2 To Activate)
+%Credits: Codejunkies
+$D0551F42 0000FDFF
+$2051C63C 00000000
++Have The 7Th Blade
+%Credits: Codejunkies
+$2051C5A4 00000007
++Have The Shotgun And Ammo
+%Credits: Codejunkies
+$20498D70 00000001
+$20498D90 00000064
+!!
++Infinite Health
+%Credits: InterAct
+$20401268 00000100
+$204B675C 01000100
+

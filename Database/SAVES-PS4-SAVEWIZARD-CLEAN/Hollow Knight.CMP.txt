@@ -1,0 +1,673 @@
+^2 = GameID: CUSA13285,CUSA13632
+^3 = NAME: Hollow Knight
+^5 = APCRED: source: WerWolv save editor script
+^4 = FILE: save\.dat
++[Set Geo (Max 99999)]
+$search ""playerData"
+$search next ""geo""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "[AMOUNT:99999:UTF08:TXT]"
++[Set Dream Orbs (Max 99999)]
+$search ""playerData""
+$search next ""dreamOrbs""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "[AMOUNT:99999:UTF08:TXT]"
++[Set Simple Keys]
+$search ""playerData""
+$search next ""simpleKeys""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "[AMOUNT:5:UTF08:TXT]"
++[Set Pale Ore]
+$search ""playerData""
+$search next ""ore""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "[AMOUNT:5:UTF08:TXT]"
++[Set Nail Damage]
+$search ""playerData"
+$search next ""nailDamage""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Nail]
++[Set Max Health]
+$search ""playerData"
+$search next "
+$search next ""maxHealthBase""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "[AMOUNT:9:UTF08:TXT]"
++[Set Charm Notch Slots]
+$search ""playerData"
+$search next ""charmSlots""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "[AMOUNT:99:UTF08:TXT]"
++[Unlock All Abilities]
+$search ""playerData""
+$search next ""hasDash""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "True"
+$search ""playerData""
+$search next ""hasShadowDash""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "True"
+$search ""playerData""
+$search next ""hasWalljump""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "True"
+$search ""playerData""
+$search next ""hasSuperDash""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "True"
+$search ""playerData""
+$search next ""hasDoubleJump""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "True"
+$search ""playerData""
+$search next ""hasDreamNail""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "True"
+$search ""playerData""
+$search next ""hasDreamGate""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "True"
+$search ""playerData""
+$search next ""dreamNailUpgraded""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "True"
+$search ""playerData""
+$search next ""hasAcidArmour""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "True"
+!Abilities
++[Mothwing Cloak (Dash)]
+$search ""playerData"
+$search next ""hasDash""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Shadow Mothwing Cloak]
+$search ""playerData"
+$search next ""hasShadowDash""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Mantis Claw (Wall Jump)]
+$search ""playerData"
+$search next ""hasWalljump""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Crystal Dash (Super Dash)]
+$search ""playerData"
+$search next ""hasSuperDash""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Monarch Wings (Double Jump)]
+$search ""playerData"
+$search next ""hasDoubleJump""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Dream Nail]
+$search ""playerData"
+$search next ""hasDreamNail""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Dream Gate]
+$search ""playerData"
+$search next ""hasDreamGate""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Dream Nail Upgrade]
+$search ""playerData"
+$search next ""dreamNailUpgraded""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Isma's Tear (Acid Armour)]
+$search ""playerData"
+$search next ""hasAcidArmour""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
+!!
+!Charms
++[Gathering Swarm (Charm 1)]
+$search ""playerData"
+$search next ""gotCharm_1""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Wayward Compass (Charm 2)]
+$search ""playerData"
+$search next ""gotCharm_2""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Grubsong (Charm 3)]
+$search ""playerData"
+$search next ""gotCharm_3""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Stalwart Shell (Charm 4)]
+$search ""playerData"
+$search next ""gotCharm_4""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Baldur Shell (Charm 5)]
+$search ""playerData"
+$search next ""gotCharm_5""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Fury of the Fallen (Charm 6)]
+$search ""playerData"
+$search next ""gotCharm_6""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Quick Focus (Charm 7)]
+$search ""playerData"
+$search next ""gotCharm_7""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Lifeblood Heart (Charm 8)]
+$search ""playerData"
+$search next ""gotCharm_8""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Lifeblood Core (Charm 9)]
+$search ""playerData"
+$search next ""gotCharm_9""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Defender's Crest (Charm 10)]
+$search ""playerData"
+$search next ""gotCharm_10""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Flukenest (Charm 11)]
+$search ""playerData"
+$search next ""gotCharm_11""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Thorns of Agony (Charm 12)]
+$search ""playerData"
+$search next ""gotCharm_12""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Mark of Pride (Charm 13)]
+$search ""playerData"
+$search next ""gotCharm_13""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Steady Body (Charm 14)]
+$search ""playerData"
+$search next ""gotCharm_14""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Heavy Blow (Charm 15)]
+$search ""playerData"
+$search next ""gotCharm_15""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Sharp Shadow (Charm 16)]
+$search ""playerData"
+$search next ""gotCharm_16""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Spore Shroom (Charm 17)]
+$search ""playerData"
+$search next ""gotCharm_17""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Longnail (Charm 18)]
+$search ""playerData"
+$search next ""gotCharm_18""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Shaman Stone (Charm 19)]
+$search ""playerData"
+$search next ""gotCharm_19""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Soul Catcher (Charm 20)]
+$search ""playerData"
+$search next ""gotCharm_20""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Soul Eater (Charm 21)]
+$search ""playerData"
+$search next ""gotCharm_21""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Glowing Womb (Charm 22)]
+$search ""playerData"
+$search next ""gotCharm_22""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Fragile/Unbreakable Heart (Charm 23)]
+$search ""playerData"
+$search next ""gotCharm_23""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Fragile/Unbreakable Greed (Charm 24)]
+$search ""playerData"
+$search next ""gotCharm_24""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Fragile/Unbreakable Strength (Charm 25)]
+$search ""playerData"
+$search next ""gotCharm_25""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Nailmaster's Glory (Charm 26)]
+$search ""playerData"
+$search next ""gotCharm_26""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Joni's Blessing (Charm 27)]
+$search ""playerData"
+$search next ""gotCharm_27""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Shape of Unn (Charm 28)]
+$search ""playerData"
+$search next ""gotCharm_28""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Hiveblood (Charm 29)]
+$search ""playerData"
+$search next ""gotCharm_29""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Dream Wielder (Charm 30)]
+$search ""playerData"
+$search next ""gotCharm_30""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Dashmaster (Charm 31)]
+$search ""playerData"
+$search next ""gotCharm_31""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Quick Slash (Charm 32)]
+$search ""playerData"
+$search next ""gotCharm_32""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Spell Twister (Charm 33)]
+$search ""playerData"
+$search next ""gotCharm_33""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Deep Focus (Charm 34)]
+$search ""playerData"
+$search next ""gotCharm_34""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Grubberfly's Elegy (Charm 35)]
+$search ""playerData"
+$search next ""gotCharm_35""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Void Heart (Charm 36)]
+$search ""playerData"
+$search next ""gotCharm_36""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Sprintmaster (Charm 37)]
+$search ""playerData"
+$search next ""gotCharm_37""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Dreamshield (Charm 38)]
+$search ""playerData"
+$search next ""gotCharm_38""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Weaversong (Charm 39)]
+$search ""playerData"
+$search next ""gotCharm_39""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
++[Grimmchild / Carefree Melody (Charm 40)]
+$search ""playerData"
+$search next ""gotCharm_40""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: [Enable]
+!!
++[Unlock All Charms]
+$search ""playerData"
+$search next ""gotCharm_1""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_2""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_3""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_4""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_5""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_6""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_7""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_8""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_9""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_10""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_11""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_12""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_13""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_14""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_15""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_16""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_17""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_18""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_19""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_20""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_21""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_22""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_23""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_24""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_25""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_26""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_27""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_28""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_29""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_30""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_31""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_32""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_33""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_34""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_35""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_36""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_37""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_38""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_39""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+$search next ""gotCharm_40""
+$search next 0x3A
+$set pointer:pointer+1
+$delete next 0:until 0x2C
+$insert next 0: "Enable"
+^6 = MODS:
+[Nail]
+Value>Name
+05	(base)
+09	(upg1)
+0D	(upg2)
+11	(upg3)
+15	(upg4)
+19	(max)
+[/Nail]
+[Enable]
+Value>Enable or Disable
+01	Enable
+00	Disable
+[/Enable]

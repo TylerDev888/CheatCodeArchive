@@ -1,0 +1,74 @@
+^3 = NAME: Looney Tunes Space Race (Ntsc-U)
+^2 = GameID: SLUS-20352
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$C0330098 40DA2FA8
+$20ABEA9C E4F9EE8C
++(M) Must Be On
+%Credits: Codejunkies
+$F0130B74 00130B77
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00130B77
++[M] Must Be On
+%Credits: InterAct
+$F01A63F0 00130B77
+!!
+!Continue Codes:
++Have All Gold Medals
+%Credits: Codejunkies
+$103932BA 0000FFF8
++Infinite Continues
+%Credits: Codejunkies
+$103932E8 00000003
++Infinite Tokens
+%Credits: Codejunkies
+$20393290 05F5E0FF
++Max Race Points
+%Credits: Codejunkies
+$109EEFB0 000003E7
++No More Than 1 Continue
+%Credits: Codejunkies
+$E0010001 303932E8
+$103932E8 00000001
++No More Than 2 Continues
+%Credits: Codejunkies
+$E0010002 303932E8
+$103932E8 00000002
++Unlock All Events
+%Credits: Codejunkies
+$203932B0 FFFFFFFF
++Unlock All Extra Characters
+%Credits: Codejunkies
+$103932A6 000001FF
++Unlock All Galleria Items
+%Credits: Codejunkies
+$203932AC 000FFFFF
++Unlock All Planets
+%Credits: Codejunkies
+$103932A0 0000FFFF
+!!
++Have All Characters
+%Credits: Code Master
+$203932A4 FFFFFFFF
++Have All Galleria Items
+%Credits: Code Master
+$203932AC FFFFFFFF
++Have All Gold Medals (Tournament Mode)
+%Credits: Code Master
+$203932B8 FFFFFFFF
++Have All Planets
+%Credits: Code Master
+$203932A0 FFFFFFFF
++Infinite Tokens
+%Credits: Code Master
+$10393290 0000FFFF
++Max Points (Tournament Mode)
+%Credits: Code Master
+$109EEFB0 0000270F
++Max Tokens
+%Credits: Code Master
+$20393290 3B9AC9FF
+!!
+

@@ -1,0 +1,726 @@
+^1 = Hash: 5B 5C C4 45 6B 65 EA B8 82 AA 11 8E 4D 3C 19 53 34 85 1F DB
+^2 = GameID: SLES_537.02
+^3 = NAME: Resident Evil 4
+!Master:
++Enable Code (MUST BE ON)
+$902A6EA8 0C0A8740
++Enable Code (MUST BE ON)
+$F02A6EA8 002A6EAB
++Enable Code (MUST BE ON)
+$0E3C7DF2 1456E7A5
+$F02A6EA8 002A6EAB
+!!
+!Joker:
++Player 1
+$00451682 0000[Joker:PS2]
+!!
+!Dump Codes:
+!Live Dump:
++Memcard Sub{This Is The Main Section That Never Changes Once This Part Is In It Is Always The Same}
+$200A0000 27BDFFC0
+$200A0004 3C06000A
+$200A0008 FFB20020
+$200A0010 FFB10010
+$200A0014 24C60104
+$200A0018 FFB00000
+$200A0020 FFBF0030
+$200A0028 24070203
+$200A002C 0040802D
+$200A0030 0220282D
+$200A0034 0240302D
+$200A003C 0200202D
+$200A0040 3C050010
+$200A0044 0200202D
+$200A004C 3C060070
+$200A0050 0220282D
+$200A0054 0240302D
+$200A005C 0200202D
+$200A0064 0200202D
+$200A0068 0200282D
+$200A006C 0200302D
+$200A0074 0200202D
+$200A0078 DFBF0030
+$200A007C DFB20020
+$200A0080 DFB10010
+$200A0084 DFB00000
+$200A0088 03E00008
+$200A008C 27BD0040
++Memcardport-Multitap 1-4{This Is For Multitap Port}
+$200A000C 24040000
++Memcardslot-Slot 1-2{Witch Memslot U Saving To}
+$200A001C 24050000
++Start And Stop
+$200A0040 3C050010
+$200A004C 3C060070
++Dump L3
+$D0451682 0000FFFD
+$202A6FD8 08028000
+$D0451682 0010FFFD
+$202A6FD8 03E00008
++Scemcsync
+$200A0038 0C0AA540
+$200A0070 0C0AA540
+$200A0058 0C0AA540
++Scemcopen
+$200A0024 0C0AA472
++Scemcwrite
+$200A0048 0C0AA850
++Scemcclose
+$200A0060 0C0AA4CC
+!!
+!!
+!Misc Codes:
++Toggle Auto Aim V2 On/Off{R1+up=on/R1+down=off, If U Want U Can Change The Digits To This Code There In The Digit Section}
+$D0451682 0000F7EF
+$004311E3 000000[V2AA]
+$D0451682 0000F7BF
+$004311E3 00000000
++Brightness Mod
+$004311EA 000000[BR]
++Inf "x Command((l3 : On R3 : Off) Make Sure To Disable This When Not Picking Up Items It Will Crash The Game If It Goes To A Cutscene . What This Codes Does Is Makes It So That The "x Take" Stays On Screen For The Last Item U Picked Up And It Will Alow U To Keep Hitting X To Keep Getting That Items.. It Works For Anything That Says "x ****". What Is Inf "x Command" Well Lets Start With Say An Item When U Go To Pick It Up It Says "x Take"what Inf "x Command" Does Is Makes It So That "x Take" Never Goes Away. Meaning U Can Pick Up As Much As U Want Of That Items .. Another Things It Does Is Say The When It Says "x To Look" This Will Make It So U Can Always Use That Command .. Untill U Disable The Code With R3)
+%Credits: Szalay
+$D0451682 0000FFFD
+$20221820 00000000
+$D0451682 0000FFFB
+$20221820 AC820004
++Room Mod{Hold Select When Games Loading}
+$1042DCD8 0000[ROOM]
++Weapon Mod{When U Look At Your Items The Gun Image Will Go Back To Normal But Will Till Hold The Same Gun Type .. So Your Fireing Rate And All The Good Things Are The Same}
+$0042DD02 000000[WEP]
++Max/Inf Health (main)
+$1042DCF6 00000960
+$1042DCF8 00000960
++Max/Inf Partners HP
+$1042DCFA 000004B0
+$1042DCFC 000004B0
++Cant Be Hit By Explosions{Character 1}
+%Credits: FloydFan
+$201C1760 00000000
++Immune To Some Fire Damage{Character 1 - #mostly Stuff Your Character Causes}
+%Credits: FloydFan
+$20166F80 00000000
++Enemies Cant Throw Axes
+%Credits: FloydFan
+$20115A58 03E00008
+$20115A5C 00000000
++Enemies Cant Throw Scythes
+%Credits: FloydFan
+$20115C88 03E00008
+$20115C8C 00000000
++Enemies Cant Shoot Arrows
+%Credits: FloydFan
+$20115E60 03E00008
+$20115E64 00000000
++Enemies Cant Shoot Rockets
+%Credits: FloydFan
+$201162F0 03E00008
+$201162F4 00000000
++Invincible V1{L1+up=on/L1+down=off}
+%Credits: FloydFan
+$D0451682 0000FBEF
+$201C2C48 00000000
+$D0451682 0000FBBF
+$201C2C48 0C070B80
++Invincible V2{L1+up=on/L1+down=off, Do Not Use Both Invincible Codes At Sametime}
+%Credits: Hiei-YYH
+$E002FBEF 00451682
+$201C2D00 03E00008
+$201C2D04 00000000
+$E002FBBF 00451682
+$201C2D00 27BDFF90
+$201C2D04 7FB00060
++1-Hit Death (enemies)
+%Credits: FloydFan
+$201C2B84 24020000
++Max/Inf Ptas (money)
+$2042DCEC 3B9AC9FF
++Save Game To Rest Game Time
+$2042DCD4 00000000
++Save Times Amount 0
+$0042DCDA 00000000
++Never Reload
+$2012020C 24420000
++Unlock Everything
+$104311E6 0000FFFF
++Have All Ada Reports
+$004311ED 00000004
++Mercs Score Max
+$203CFCEC 05F5E0FF
++Mercs Time Freeze
+$1041B8E8 00000DD0
++Mercs Max Kills
+$203CFD04 0000270F
++Mercs Max Kills In A Row
+$203CFCF0 0000270F
++Main Character:
+$0042DD0A 0000000[CHMOD]
++Main Clothes
+$0042DD0B 0000000[CHMOD2]
++Partner Clothing
+$0042DD0D 0000000[CHMOD2]
+!!
+!Results
++Times Killed
+$004311B4 00000000
++Unknown Results
+$004311B6 00000000
++Max Enemies Killed
+$204311B8 000003E7
+$204311BC 0000270F
++Perfect Hit Ratio
+$204311C0 00000064
+$204311C4 0000270F
+$204311C8 00000064
+$204311CC 0000270F
+!!
+!Merchant Codes:
+!Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}:
++Slot 1
+$210F67E0 03E700[MITE]
++Slot 2
+$210F67E8 03E700[MITE]
++Slot 3
+$210F67F0 03E700[MITE]
++Slot 4
+$210F67F8 03E700[MITE]
++Slot 5
+$210F6800 03E700[MITE]
++Slot 6
+$210F6808 03E700[MITE]
++Slot 7
+$210F6810 03E700[MITE]
++Slot 8
+$210F6818 03E700[MITE]
++Slot 9
+$210F6820 03E700[MITE]
++Slot 10
+$210F6828 03E700[MITE]
++Slot 11
+$210F6830 03E700[MITE]
++Slot 12
+$210F6838 03E700[MITE]
++Slot 13
+$210F6840 03E700[MITE]
++Slot 14
+$210F6848 03E700[MITE]
++Slot 15
+$210F6850 03E700[MITE]
++Slot 16
+$210F6858 03E700[MITE]
++Slot 17
+$210F6860 03E700[MITE]
++Slot 18
+$210F6868 03E700[MITE]
++Slot 19
+$210F6870 03E700[MITE]
++Slot 20
+$210F6878 03E700[MITE]
++Slot 21
+$210F6880 03E700[MITE]
++Slot 22
+$210F6888 03E700[MITE]
++Slot 23
+$210F6890 03E700[MITE]
++Slot 24
+$210F6898 03E700[MITE]
++Slot 25
+$210F68A0 03E700[MITE]
++Slot 26
+$210F68A8 03E700[MITE]
++Slot 27
+$210F68B0 03E700[MITE]
++Slot 28
+$210F68B8 03E700[MITE]
++Slot 29
+$210F68C0 03E700[MITE]
++Slot 30
+$210F68C8 03E700[MITE]
++Slot 31
+$210F68D0 03E700[MITE]
++Slot 32
+$210F68D8 03E700[MITE]
++Slot 33
+$210F68E0 03E700[MITE]
++Slot 34
+$210F68E8 03E700[MITE]
++Slot 35
+$210F68F0 03E700[MITE]
++Slot 36
+$210F68F8 03E700[MITE]
++Slot 37
+$210F6900 03E700[MITE]
++Slot 38
+$210F6908 03E700[MITE]
++Slot 39
+$210F6910 03E700[MITE]
++Slot 40
+$210F6918 03E700[MITE]
++Slot 41
+$210F6920 03E700[MITE]
++Slot 42
+$210F6928 03E700[MITE]
++Slot 43
+$210F6930 03E700[MITE]
++Slot 44
+$210F6938 03E700[MITE]
++Slot 45
+$210F6940 03E700[MITE]
++Slot 46
+$210F6948 03E700[MITE]
++Slot 47
+$210F6950 03E700[MITE]
++Slot 48
+$210F6958 03E700[MITE]
++Slot 49
+$210F6960 03E700[MITE]
++Slot 50
+$210F6968 03E700[MITE]
++Slot 51
+$210F6970 03E700[MITE]
++Slot 52
+$210F6978 03E700[MITE]
++Slot 53
+$210F6980 03E700[MITE]
++Slot 54
+$210F6988 03E700[MITE]
++Slot 55
+$210F6990 03E700[MITE]
++Slot 56
+$210F6998 03E700[MITE]
++Slot 57
+$210F69A0 03E700[MITE]
++Slot 58
+$210F69A8 03E700[MITE]
++Slot 59
+$210F69B0 03E700[MITE]
++Slot 60
+$210F69B8 03E700[MITE]
++Slot 61
+$210F69C0 03E700[MITE]
++Slot 62
+$210F69C8 03E700[MITE]
++Slot 63
+$210F69D0 03E700[MITE]
++Slot 64
+$210F69D8 03E700[MITE]
+!!
+!Merchent Upgrades Max:
++Handgun
+$210F69E0 03070023
+$110F69E4 00000603
++Shotgun
+$210F69E8 0107002C
+$110F69EC 00000603
++Rifle
+$210F69F0 0107002E
+$110F69F4 00000603
++Tmp
+$210F69F8 01070030
+$110F69FC 00000603
++Punisher
+$210F6A00 03070021
+$110F6A04 00000603
++Red9
+$210F6A08 03070025
+$110F6A0C 00000603
++Blacktail
+$210F6A10 03070027
+$110F6A14 00000603
++Broken Butterfly
+$210F6A18 01070029
+$110F6A1C 00000403
++Rifle (semi-Auto)
+$210F6A20 0206002F
+$110F6A24 00000603
++Riot Gun
+$210F6A28 01070094
+$110F6A2C 00000603
++Mine Thrower
+$210F6A30 01040036
+$110F6A34 00000302
++Striker
+$210F6A38 0106002D
+$110F6A3C 00000703
++Killer7
+$210F6A40 0103002A
+$110F6A44 00000303
++Chicago Typewriter
+$210F6A48 01070034
+$110F6A4C 00000701
++Matilda
+$210F6A50 01070003
+$110F6A54 00000703
++Hand Cannon
+$210F6A58 01070037
+$110F6A5C 00000703
+!!
+!!
+^6 = MODS:
+[ROOM]
+Value>NAME
+0000	First Save 
+0002	Second House Save point
+0003	3rd house Save point
+0012	house with Cavern under it
+0332	Last Battle
+0333	(Some timed thing After last Battle)
+[/ROOM]
+[CHMOD]
+Value>NAME
+0	Leon
+1	Ashley
+2	Ada
+3	Hunk
+4	Krauser
+5	Wesker
+[/CHMOD]
+[CHMOD2]
+Value>NAME>DISCRIPTION
+0	Leon	Bomber Jacket
+1	Leon	No Jacket (too bad it got stolen)
+2	Leon	No Jacket
+3	Leon	RPD uniform 
+4	Leon	Mafia outfit 
+0	Ashley	Hooded sweater top, green mini skirt
+1	Ashley	Pop sensation (No bounce on PS2)
+2	Ashley	Knight Armor Suit (bullet proof plus anti carry away)
+3	Ashley	Hooded sweater top, green mini skirt 
+4	Ashley	Hooded sweater top, green mini skirt 
+0	Ada	Red Mini Skirt (Gun holster ruins the looks of the dress)
+1	Ada	Infiltrate outfit 
+2	Ada	Red Mini Skirt 
+3	Ada	Chinese Red Dress (long red dress)
+4	Ada	Red Mini Skirt
+[/CHMOD2]
+[WEP]
+Value>NAME
+01	Punisher (Circle)
+02	Handgun (Square)
+03	Red9
+04	Blacktail
+05	Broken Butterfly
+06	Killer7
+07	Shotgun
+08	Striker
+09	Rifle
+0A	Auto Rifle
+0B	TMP
+0C	Chicago Typewriter
+0D	Rocket Launcher
+0E	Mine Thrower
+0F	Hand Cannon
+10	Knife 
+11	Matilda 
+12	Beta? (Looks Like A Red9) (Damages you)
+13	Grenades (Unlimited!) 
+14	Beta TMP (Kills Enemies At Your Sides)
+15	Beta Rifle (Beta Scope) 
+16	Incendary Grenades
+17	Flash Grenades
+18	Beta Rifle 
+19	White Eggs
+1A	Super Power Bullets (Kill most enemies with 1 hit)
+1C	Removes Laser Sight
+1E	Beta Rocket Launcher (Beta Scope)
+1F	Pink Eggs
+20	Gold Eggs
+21	Riot Shotgun
+22	Riot Shotgun Ammo (Does no damage)
+27	Rapid Fire (Only works with Handguns)
+2D	Beta Chicago Typewriter
+2E	P.R.L. 412 (PS2 Exclusive)
+2F	P.R.L. 412 (Different sound)
+35	Beta Handgun?
+38	Beta Shotgun (Do not fire)
+3B	Beta Auto-Rifle (No sound)
+3C	TMP (I don't see many differences, except the laser sight)
+44	Beta Grenades? (They work, and Leon's hand turns into the grenade)
+[/WEP]
+[MITE]
+Value>NAME
+05	First Aid Spray
+06	Green Herb
+08	Chicken Egg
+09	Brown Chicken Egg
+0A	Gold Chicken Egg
+0C	Plaga Sample
+12	Green Herb (x2)
+13	Green Herb (x3)
+14	Mixed Herbs (G+R)
+15	Mixed Herbs (G+R+Y)
+16	Mixed Herbs (G+Y)
+19	Red Herb
+1C	Yellow Herb
+95	Black Bass
+97	Black Bass(L)
+A8	Mixed Herbs (R+Y)
+00	Magnum Ammo
+04	Handgun Ammo
+07	Rifle Ammo
+18	Shotgun Shells
+1A	Handcannon Ammo
+20	TMP Ammo
+6A	Chicago Typewriter Ammo
+A0	Rife Ammo (Infrared)
+01	Hand Grenade
+02	Incendiary Grenade
+03	Matilda
+0E	Flash Grenade
+17	Rocket Launcher(Special)
+21	Punisher
+22	Punisher w/ Silencer
+23	Handgun
+24	Handgun w/ Silencer
+25	Red9
+26	Red9 w/ Stock
+27	Blacktail
+28	Blacktail w/ Silencer
+29	Broken Butterfly
+2A	Killer7
+2B	Killer7 w/ Silencer
+2C	Shotgun
+2D	Striker
+2E	Rifle
+2F	Rifle(semi-auto)
+30	TMP
+31	TMP w/ Silencer
+32	TMP w/ Stock
+33	TMP w/ Silencer & Stock
+34	Chicago Typewriter
+35	Rocket Launcher
+36	Mine Thrower
+37	Handcannon
+38	Combat Knife [1x3 graphic]
+3E	Custom TMP
+3F	Silencer(Handgun) [size 2x1]
+40	Red 9
+41	P.R.L 412 (Extra weapon)
+42	Stock (Red 9)
+43	Stock (Tmp)
+44	Scope (Rifle)
+45	Scope (semi-auto rifle)
+46	Mine-Darts
+47	Mine-Darts(homing)
+51	Rifle(semi-auto) w/ Infrared scope
+52	Krauser's Bow
+6B	Rifle + Scope
+6C	Rifle (semi-auto) w/ Scope
+6D	Infinite Launcher
+94	Riot Gun
+99	Rifle w/ Infrared Scope
+AA	Scope (Mine Thrower)
+AB	Mine Thrower + Scope
+C5	Infrared Scope
+56	Velvet Blue
+57	Spinal
+58	Pearl Pendant
+59	Brass Pocket Watch
+5A	Elegant Headdress
+5B	Antique Pipe
+5C	Gold Bangle w/ Pearls
+5D	Amber Ring
+5E	Beerstein
+5F	Green Catseye
+60	Red Catseye
+61	Yellow Catseye
+62	Beerstein w/ (G)
+63	Beerstein w/ (R)
+64	Beerstein w/ (Y)
+65	Beerstein w/ (G,R)
+66	Beerstein w/ (G,Y)
+67	Beerstein w/ (R,Y)
+68	Beerstein w/ (G,R,Y)
+6E	King's Grail
+6F	Queen's Grail
+70	Staff of Royalty
+77	Ruby
+89	Dirty Pearl Pendant
+8A	Dirty Brass Pocket Watch
+8F	Gold Bangle
+90	Elegant Perfume Bottle
+91	Mirror w/ Pearls & Rubies
+93	Elegant Chessboard
+96	Hourglass w/ gold decor
+98	Illuminados Pendant
+9A	Crown
+9B	Crown Jewel
+9C	Royal Insignia
+9D	Crown with Jewels
+9E	Crown with an insignia
+9F	Salazar Family Crown
+A1	Emerald
+A2	Bottle Caps
+B8	Butterfly Lamp
+B9	Green Eye
+BA	Red Eye
+BB	Blue Eye
+BC	Butterfly Lamp w/ (G)
+BD	Butterfly Lamp w/ (R)
+BE	Butterfly Lamp w/ (B)
+BF	Butterfly Lamp w/ (G,R)
+C0	Butterfly Lamp w/ (G,B)
+C1	Butterfly Lamp w/ (R,B)
+C2	Butterfly Lamp w/ (R,G,B)
+C6	Elegant Mask
+C7	Green Gem
+C8	Red Gem
+C9	Purple Gem
+CA	Elegant Mask w/ (G)
+CB	Elegant Mask w/ (R)
+CC	Elegant Mask w/ (P)
+CD	Elegant Mask w/ (G,R)
+CE	Elegant Mask w/ (G,P)
+CF	Elegant Mask w/ (R,P)
+D0	Elegant Mask w/ (R,G,P)
+D1	Golden Lynx
+D2	Green Stone of Judgement
+D3	Red Stone of Faith
+D4	Blue Stone of Treason
+D5	Golden Lynx w/ (G)
+D6	Golden Lynx w/ (R)
+D7	Golden Lynx w/ (B)
+D8	Golden Lynx w/ (G,R)
+D9	Golden Lynx w/ (G,B)
+DA	Golden Lynx w/ (R,B)
+DB	Golden Lynx w/ (G,R,B)
+54	Treasure Map(Castle)
+55	Treasure Map(Island)
+A9	Treasure Map (Village)
+7C	Attache Case S
+7D	Attache Case M
+7E	Attache Case L
+7F	Attache Case XL
+FE	Tactical Vest
+48	Capture Luis Sera
+49	Target Practice
+4A	Luis' Memo
+4B	Castellan Memo
+4C	Female Intruder
+4D	Butler's Memo
+4E	Sample Retrieved
+4F	Ritual Preparation
+50	Luis Memo 2
+AC	Playing Manual 1
+AD	Info on Ashley
+AE	Playing Manual 2
+AF	Alert Order
+B0	About the Blue Medallions
+B1	Chief's Note
+B2	Closure of the Church
+B3	Anonymous Letter
+B4	Playing Manual 3
+B5	Sera and the 3rd Party
+B6	Two Routes
+B7	Village's Last Defense
+F4	Letter from Ada
+F5	Luis' Memo 3
+F6	Paper Airplane
+F7	Our Plan
+F8	Luis' Memo 4
+F9	Krauser's Note
+FA	Luis' Memo 5
+FB	Our Missio
+0F	Salazar Family Insignia
+1D	Stone Tablet
+1E	Lion Ornament
+1F	Goat Ornament
+39	Serpent Ornament
+3A	Moonstone(right half)
+3B	Insignia Key
+3C	Round Insignia
+3D	False Eye
+69	Moonstone(Left Half)
+74	Emergency Lock Card Key
+7A	Blue Moonstone
+7B	Key to the Mine
+80	Golden Sword
+81	Guitar Case
+82	Stone of Sacrifice
+83	Storage Room Card Key
+84	Freezer Card Key
+85	Piece of the Holy Beast, Panther
+86	Piece of the Holy Beast, Serpent
+87	Piece of the Holy Beast, Eagle
+88	Jet-ski Key
+8B	Old Key
+8C	Camp Key
+8D	Dynamite
+92	Waste Disposal Card Key
+A3	Gallery Key
+A4	Emblem (Right galf)
+A5	Emblem (Left half)
+A6	Hexagonal Emblem
+A7	Castle Gate Key
+C3	Prison Key
+C4	Platinum Sword
+DC	Leon w/ rocket launcher
+DD	Leon w/ shotgun
+DE	Leon w/ handgun
+DF	Ashley Graham
+E0	Luis Sera
+E1	Don Jose
+E2	Don Diego
+E3	Don Esteban
+E4	Don Manuel
+E5	Dr. Salvador
+E6	Merchant
+E7	Zealot w/ scythe
+E8	Zealot w/ shield
+E9	Zealot w/ bowgun
+EA	Leader zealot
+EB	Soldier w/ dynamite
+EC	Soldier w/ stun-rod
+ED	Soldier w/ hammer
+EE	Isabel
+EF	Maria
+F0	Ada Wong
+F1	Bella Sisters
+F2	Don Pedro
+F3	J.J.
+0B	"aaa" [Examine: "aaa" Graphic: Bottle of pills]
+0D	Krauser's Knife
+10	"aaa"
+11	"aaa"
+1B	Wristwatch(1) (has an examine graphic)
+53	"aaa"
+71	Gold Bars
+72	Arrows(size 4x1)
+73	Bonus Time
+75	Bonus Points
+76	"aaa"
+78	Treasure Box(S)
+79	Treasure Box(L)
+8E	"aaa"
+FC	"aaa"
+FD	"aaa"
+FF	"aaa"
+[/MITE]
+[V2AA]
+Value>NAME
+00	Always Ratio 4:3 TV (letterbox) Auto Aim Off
+10	Always Ratio 4:3 TV (letterbox) Auto Aim Off
+20	Auto Center Nearest Target on Screen / Aim For Ratio 4:3 TV (letterbox)
+30	Auto Center Nearest Target on Screen / Aim For Ratio 4:3 TV (letterbox)
+40	Always Ratio 16:9 TV (fullscreen / stretched) Auto Aim Off
+50	Always Ratio 16:9 TV (fullscreen / stretched) Auto Aim Off
+60	Auto Center Nearest Target on Screen / Aim For Ratio 16:9 TV (fullscreen / stretched)
+70	Auto Center Nearest Target on Screen / Aim For Ratio 16:9 TV (fullscreen / stretched)
+80	Inverted Aim / For Ratio 4:3 TV (letterbox)
+90	Inverted Aim / For Ratio 4:3 TV (letterbox)
+A0	Inverted Aim / Auto Center Nearest Target on Screen / Aim For Ratio 4:3 TV (letterbox)
+B0	Inverted Aim / Auto Center Nearest Target on Screen / Aim For Ratio 4:3 TV (letterbox)
+C0	Inverted Aim / For Ratio 16:9 TV (fullscreen / stretched)
+D0	Inverted Aim / For Ratio 16:9 TV (fullscreen / stretched)
+E0	Inverted Aim / Auto Center Nearest Target on Screen / Aim For Ratio 16:9 TV (fullscreen / stretched)
+F0	Inverted Aim / Auto Center Nearest Target on Screen / Aim For Ratio 16:9 TV (fullscreen / stretched)
+00	Vibration Off / Knife hold
+04	Vibration Off / Knife toggle
+08	Vibration ON / Knife hold
+0C	Vibration ON / Knife toggle
+[/V2AA]
+[BR]
+Value>NAME
+22	Dark
+40	Normal
+72	Bright
+[/BR]

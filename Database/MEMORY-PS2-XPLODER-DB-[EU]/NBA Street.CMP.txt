@@ -1,0 +1,27 @@
+^3 = NAME: NBA Street
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 00480403
+$F0100008 004803B8
+!!
+!Other:
++Away Team Never Scores
+%Credits: Xploder
+$20303894 24030000
++Home Team Never Scores{(Choose Only One Of The Above)}
+%Credits: Xploder
+$20303894 24030001
++Unlimited Points
+%Credits: Xploder
+$20262DF8 00000000
+$20263130 00000000
+$20263150 00000000
+$2026316C 00000000
+$20263188 00000000
+$202631A4 00000000
+$202631BC 00000000
+$202631E8 00000000
+$20245ABC 00000000
+$20245B44 00000000
+!!

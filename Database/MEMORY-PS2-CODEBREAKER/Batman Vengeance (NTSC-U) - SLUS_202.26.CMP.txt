@@ -1,0 +1,76 @@
+^3 = NAME: Batman Vengeance
+^2 = GameID: SLUS_202.26
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0200008 0024298F
+!!
+!Codes:
++Unlock All Levels
+%Credits: Code Master
+$008470C0 00000017
++Have All Items
+%Credits: Code Master
+$2084713C FFFFFFFF
++Unlock All Movies
+%Credits: Code Master
+$10847144 0000FFFF
++Have All Cheats
+%Credits: Code Master
+$10847146 0000FFFF
++Max Level Scores
+%Credits: Code Master
+$40847148 00030001
+$0A0A0A0A 00000000
++Infinite Health
+%Credits: Code Master
+$0089E35A 000000C8
++Infinite Batarangs
+%Credits: Code Master
+$1089E3A6 0000000F
++Infinite Electric Batarangs
+%Credits: Code Master
+$1089E3A8 0000000F
++Infinite Stunners
+%Credits: Code Master
+$1089E3AA 0000000F
++Infinite Nets
+%Credits: Code Master
+$1089E3AC 0000000F
++Infinite Remote Charges
+%Credits: Code Master
+$1089E3AE 0000000F
++Infinite Flash Bombs
+%Credits: Code Master
+$1089E3B0 0000000F
++Infinite Batcuffs
+%Credits: Code Master
+$1089E3B2 0000000F
++Batman Jump Up Impulsion Power Modifier (Default 41180000)
+%Credits: Code Master
+$20514210 ????????
++Batman Jump Forward Impulsion Power Modifier (Default C0c00000)
+%Credits: Code Master
+$20514218 ????????
++Batman Jump Fall Dist To Hurt Modifier (Default 41400000)
+%Credits: Code Master
+$20514220 ????????
++Batman Glide Forward Acceleration Modifier (Default 3Dcccccd)
+%Credits: Code Master
+$20514228 ????????
++Batman Glide Down Acceleration Modifier (Default 3D4ccccd)
+%Credits: Code Master
+$20514230 ????????
++Batman Glide Turn Smooth Modifier (Default 3D4ccccd)
+%Credits: Code Master
+$20514238 ????????
++Batman Glide Frame Smooth Modifier (Default 3Dcccccd)
+%Credits: Code Master
+$20514240 ????????
++Batman Glide Max X Rotate Modifier (Default 41200000)
+%Credits: Code Master
+$20514248 ????????
++Batman Glide Min Height Modifier (Default 3F000000)
+%Credits: Code Master
+$20514250 ????????
+!!

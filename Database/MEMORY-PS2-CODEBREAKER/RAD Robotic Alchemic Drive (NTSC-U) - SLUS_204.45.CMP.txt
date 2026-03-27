@@ -1,0 +1,37 @@
+^1 = HASH: 25C68D58
+^3 = NAME: RAD Robotic Alchemic Drive
+^2 = GameID: SLUS_204.45
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0017362F
+!!
+!Codes:
++Infinite Health (Everyone)
+%Credits: Code Master
+$2011D9C8 00000000
++Infinite Boost (Everyone)
+%Credits: Code Master
+$2011DB80 00000000
++Infinite Missiles (Everyone)
+%Credits: Code Master
+$20127210 00000000
++Infinite Mech Specials (Everyone)
+%Credits: Code Master
+$2011DB00 00000000
++Infinite Health (Only Players)
+%Credits: Code Master
+$20235218 848200B4
+$2023521C A48200B8
++Infinite Boost (Only Players)
+%Credits: Code Master
+$20232E54 848200BC
+$20232E58 A48200BE
++Infinite Mech Specials (Only Players)
+%Credits: Code Master
+$20235248 848200BC
+$2023524C A48200BE
++Access All Characters
+%Credits: Code Master
+$2020D64C 2402FFFF
+!!

@@ -1,0 +1,65 @@
+^3 = NAME: Mafia (Pal-Unk)
+^2 = GameID: SLES-52282
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F03CE39C 003CE39F
++(M) Must Be On
+%Credits: Codejunkies
+$F03CDC50 003CDC53
+!!
++All Cars - Race Modes
+%Credits: Codejunkies
+$208E7430 FFFFFFFF
+$208E7428 FFFFFFFF
++Disable Cop AI
+%Credits: Codejunkies
+$20370F20 03E00008
+$20370F24 00000000
++Display Debug Info
+%Credits: Codejunkies
+$202F11CC 00000000
++Display Debug Infos
+%Credits: Codejunkies
+$202F121C 00000000
++Idiot Cop AI
+%Credits: Codejunkies
+$20370370 03E00008
+$20370374 00000000
++Infinite Ammo
+%Credits: Codejunkies
+$2047D718 00000000
++Infinite Ammo
+%Credits: Codejunkies
+$2047CFD8 00000000
++Infinite Health
+%Credits: Codejunkies
+$204D65A0 001143D0
++Infinite Health
+%Credits: Codejunkies
+$204D5E20 001143D0
++Infinite Health (Car)
+%Credits: Codejunkies
+$2017109C 00000000
+$201710AC 00000000
++Infinite Time
+%Credits: Codejunkies
+$202AFAB0 00000000
+$202AFAD8 00000000
++Max Cash In Free Ride
+%Credits: Codejunkies
+$20A1A76C 05F5E0FF
++No Cars
+%Credits: Codejunkies
+$20340940 03E00008
+$20340944 00000000
++No Cops
+%Credits: Codejunkies
+$20341140 03E00008
+$20341144 00000000
++No Traffic
+%Credits: Codejunkies
+$20219400 03E00008
+$20219404 00000000
+!!
+

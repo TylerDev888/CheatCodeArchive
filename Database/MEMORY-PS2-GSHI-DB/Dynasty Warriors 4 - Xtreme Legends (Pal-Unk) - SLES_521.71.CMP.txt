@@ -1,0 +1,136 @@
+^3 = NAME: Dynasty Warriors 4 - Xtreme Legends (Pal-Unk)
+^2 = GameID: SLES-52171
+!Master Codes:
++Mastercode {<I>Required Unless On Emulator Such As Pcsx2</I>}
+%Credits: RyTheHexer
+$F0100208 000001FD
+!!
++999 Points/Kos (Challenge) {<I>Don&#39;T Use With Easy Player Level Code As This Hack Exploits The Same KO Game Mechanic That The Other Cheat Uses!</I>}
+%Credits: RyTheHexer
+$10471D78 000003E7
++Always Have True Musou {<I>Don&#39;T Use With Easy Player Level Code As This Hack Exploits The Same KO Game Mechanic That The Other Cheat Uses!</I>}
+%Credits: RyTheHexer
+$00471EFC 0000001B
++Always Use Infinite Musou
+%Credits: RyTheHexer
+$E002DFFF 00583A20
+$201C49FC 00000000
+$201C6D84 00000000
+$E002FFFF 00583A20
+$201C49FC 1462000A
+$201C6D84 A46201E4
++Break Confusion/Fall [L3+Square] {<I>This Actually Forces Way Of Musou Into Item Slot 6, Whether Unlocked Or Not, In Order To Work.</I>}
+%Credits: RyTheHexer
+$D0583A20 00007FFD
+$0053BBFD 00000000
++Easy Bodyguard Level (Complete A Stage) {<I>Adds Extra Points At Each Level End For Easy Levelling.</I>}
+%Credits: RyTheHexer
+$10472748 00000064
++Easy Imperial Seal Stage {<I>This Sets Your Current Crate Destroyed Count To 99, Making It Easier To Find The Seal. You&#39;Ll Still Need To Find Other Fake Valuable Items That Appears First Though (3-4 Times) And Beat Some Officers. But Much Quicker Than Finding 99 Crates Or Waiting Till Final 2 Minutes.</I>}
+%Credits: RyTheHexer
+$004E10D8 00000063
++Easy Level Weapon (Complete A Stage) {<I>This Sets Your Current Crate Destroyed Count To 99, Making It Easier To Find The Seal. You&#39;Ll Still Need To Find Other Fake Valuable Items That Appears First Though (3-4 Times) And Beat Some Officers. But Much Quicker Than Finding 99 Crates Or Waiting Till Final 2 Minutes.</I>}
+%Credits: RyTheHexer
+$10471F02 00008CA0
++Easy Player Level (Complete A Stage) {<I>Adds Extra Points At Each Level End For Easy Levelling. Don&#39;T Use With &#39;999 Challenge&#39; Code As This Hack Exploits The Same KO Game Mechanic That The Other Cheat Uses!</I>}
+%Credits: RyTheHexer
+$10471D78 0000270F
++Freeze Enemies OFF [R3+R2] {<I>Adds Extra Points At Each Level End For Easy Levelling. Don&#39;T Use With &#39;999 Challenge&#39; Code As This Hack Exploits The Same KO Game Mechanic That The Other Cheat Uses!</I>}
+%Credits: RyTheHexer
+$D0583A20 0000FDFB
+$201D93A8 C4450010
++Freeze Enemies ON [L3+R2] {<I>Stops All Enemies From Moving. In Fact Everyone Except P1 Can&#39;T Move. Be Clever With This As It Can Stop Some Events From Progressing.</I>}
+%Credits: RyTheHexer
+$E008FDFD 00583A20
+$200FF000 C4450010
+$200FF004 3C170054
+$200FF008 26F7BBA0
+$200FF00C 12F10003
+$200FF014 3C170010
+$200FF018 C6E5EFFC
+$200FF01C 03E00008
+$201D93A8 0C03FC00
++Get Player Aura + Boosts {<I>This Provides Character (P1) With A Cool Lightning Aura (Lu-Bu Esque!) And Also Gives All Normal Boosts Such As Atk/Def/Spd (Although The Timer Bars Won&#39;T Appear For These). This Won&#39;T Save, So Reboot To Go Back To Normal.</I>}
+%Credits: RyTheHexer
+$2053BD40 00024078
++Higher Allied Morale (Get 2 Kos) {<I>This Hack Allows You To Gain A Massive Morale Boost To Your Team After Killing Only 2 Enemies. What It Actually Does Is Set P1 KO Count (Hidden Value) To 999, Ready For An Easy 1000 KO Morale Boost. Only Works Once Each Level.</I>}
+%Credits: RyTheHexer
+$200FF040 3C170054
+$200FF044 26F7BBA0
+$200FF048 16FE000A
+$200FF04C 3C170010
+$200FF050 241603E7
+$200FF054 86F5F090
+$200FF058 12B60008
+$200FF060 A496003E
+$200FF064 AEF6F090
+$200FF068 0803FC1F
+$200FF074 A480003E
+$200FF07C 3C0351EB
+$200FF080 00122FC2
+$200FF084 03E00008
+$20162624 0C03FC10
+$20162628 00000000
++Infinite Arrows
+%Credits: RyTheHexer
+$1055F0DC 00000063
++Infinite Duel Time OFF [L3+L2] {<I>This Hack Allows You To Gain A Massive Morale Boost To Your Team After Killing Only 2 Enemies. What It Actually Does Is Set P1 KO Count (Hidden Value) To 999, Ready For An Easy 1000 KO Morale Boost. Only Works Once Each Level.</I>}
+%Credits: RyTheHexer
+$D0583A20 0000FEFD
+$20224538 146000AD
++Infinite Duel Time ON [L3+L1] {<I>Must Turn OFF To Complete Duel Sequence After KO-Ing Enemy!</I>}
+%Credits: RyTheHexer
+$D0583A20 0000FBFD
+$20224538 080891FC
++Infinite Gold (Xtreme Mode)
+%Credits: RyTheHexer
+$20469618 000F423F
++Infinite Health {<I>It May Be Possible To Die From Scripted Story Events Etc. Also Falling Out Of The Dual Arena For Example. Works For P1 Only In SP Modes.</I>}
+%Credits: RyTheHexer
+$1053BD7C 000001C2
+$1053BD7E 00001C20
+$1053BD80 00001C20
++Infinite Power-Up Time {<I>It May Be Possible To Die From Scripted Story Events Etc. Also Falling Out Of The Dual Arena For Example. Works For P1 Only In SP Modes.</I>}
+%Credits: RyTheHexer
+$101C72A4 00000000
++One-Hit Enemy Kos (Player Only) {<I>This Is A True One-Hit Kills Mode. Only The Player As Attacker Will Gain An Advantage! P1 Only For SP Use.</I>}
+%Credits: RyTheHexer
+$200FF100 3C0C0054
+$200FF104 258CBBA0
+$200FF108 159E0002
+$200FF110 A60001DE
+$200FF114 860201DE
+$200FF118 00401026
+$200FF11C 03E00008
+$201C6F28 0C03FC40
+$201C6F2C 00000000
++Original Always Loaded (Free + Musou Modes) {<I>This Will Auto-Unlock Free+Musou Modes From The Original DW4 Game. Please Only Use This Is You Legitimately Own Both Games As This Is The Only Way This Is Supposed To Be Available. Using This Hack Can Save A Lot Of Time Swapping Discs!</I>}
+%Credits: RyTheHexer
+$2036689C 00000001
++Reset Stage Timer [L1+L2+R1+R2] {<I>This Will Auto-Unlock Free+Musou Modes From The Original DW4 Game. Please Only Use This Is You Legitimately Own Both Games As This Is The Only Way This Is Supposed To Be Available. Using This Hack Can Save A Lot Of Time Swapping Discs!</I>}
+%Credits: RyTheHexer
+$D0583A20 0000F0FF
+$20472564 00000000
++Skip All Fmvs
+%Credits: RyTheHexer
+$0010AB73 00000000
++Structures - Easy Kill [R3+L1]: {<I>Good To Extra Time On Hard Levels. Also Resetting To Zero Just Before Completion Will Mean Good Bonus Points!</I>}
+%Credits: RyTheHexer
+$D0583A20 0000FBFB
+$001B2AEE 000000FE
++Structures - Reset Codes [L3+R3] {<I>Allows Destruction Of Building And Structures In One Hit. Turn Off When Not Needed.</I>}
+%Credits: RyTheHexer
+$D0583A20 0000FFF9
+$001B2AEE 000000F1
++Super Jump {<I>This Code Will Not Save/Reload Once The Code Is Disabled. Simply Reboot System/Emulator.</I>}
+%Credits: RyTheHexer
+$2053BD94 42700000
++Super Speed {<I>This Code Will Not Save/Reload Once The Code Is Disabled. Simply Reboot System/Emulator.</I>}
+%Credits: RyTheHexer
+$2053BD8C 42340000
++Widescreen Fix
+%Credits: RyTheHexer
+$20139820 3C0243D6
+$2018E290 3C023F2B
+!!
+

@@ -1,0 +1,105 @@
+^3 = NAME: Wave Rally (Ntsc-U)
+^2 = GameID: SLUS-20313
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F02025E4 002025E7
++(M)Must Be On
+%Credits: InterAct
+$F010495C 002025E7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002025E7
++Enable Code (Must Be On)
+%Credits: lee4
+$902025E4 0C088D42
++Enable Code (Must Be On)
+%Credits: lee4
+$9020262C 00832021
+!!
++Always 1St Place
+%Credits: InterAct
+$0066BC70 00000000
++Have Loads Of Race Points (Press Select+R1 To Activate)
+%Credits: Codejunkies
+$D047BD82 0000F7FE
+$106658D0 000001F4
++Max Engine Status
+%Credits: lee4
+$00395ECC 0000000C
++Max Grip Status
+%Credits: lee4
+$00395ED0 0000000C
++Max Handling Status
+%Credits: lee4
+$00395EC8 0000000C
++Max Race Points
+%Credits: Code Master
+$106658D0 000003E7
++Max Race Points
+%Credits: Code Master
+$D06658D2 00000000
+$206658D0 000003E7
++Max Tricks Status
+%Credits: lee4
+$00395ED4 0000000C
++Never Penalty Misses
+%Credits: lee4
+$0066BC24 00000000
+$0066BC28 00000009
++Press Select+R1 For Race Points {<I>Press Select + R1 On The Race Results Screen After The First Race.</I>}
+%Credits: InterAct
+$F0AB6829 64DA30EF
+$30C9057B 64DA2AC5
+!Start On Lap Codes:
++Start On Lap 2
+%Credits: InterAct
+$0066BC38 00000001
++Start On Lap 3
+%Credits: InterAct
+$0066BC38 00000002
++Start On Lap 4
+%Credits: InterAct
+$0066BC38 00000003
++Start On Lap 5
+%Credits: InterAct
+$0066BC38 00000004
++Start On Lap 6
+%Credits: InterAct
+$0066BC38 00000005
++Start On Lap 7
+%Credits: InterAct
+$0066BC38 00000006
++Start On Lap 8
+%Credits: InterAct
+$0066BC38 00000007
++Start On Lap 9
+%Credits: InterAct
+$0066BC38 00000008
++Start On Lap 10
+%Credits: InterAct
+$0066BC38 00000009
++Start On Lap 11
+%Credits: InterAct
+$0066BC38 0000000A
++Start On Lap 12
+%Credits: InterAct
+$0066BC38 0000000B
++Start On Lap 13
+%Credits: InterAct
+$0066BC38 0000000C
++Start On Lap 14
+%Credits: InterAct
+$0066BC38 0000000D
++Start On Lap 15
+%Credits: InterAct
+$0066BC38 0000000E
+!!
++Start On Lap Modifier {<I>F1 - Lap 2<Br>F0 - Lap 3<Br>F3 - Lap 4<Br>F2 - Lap 5<Br>F5 - Lap 6<Br>F4 - Lap 7<Br>F7 - Lap 8<Br>F6 - Lap 9<Br>09 - Lap 10<Br>08 - Lap 11<Br>0B - Lap 12<Br>0A - Lap 13<Br>0D - Lap 14<Br>0C - Lap 15</I>}
+%Credits: InterAct
++Start On Lap Modifier {<I>F1 - Lap 2<Br>F0 - Lap 3<Br>F3 - Lap 4<Br>F2 - Lap 5<Br>F5 - Lap 6<Br>F4 - Lap 7<Br>F7 - Lap 8<Br>F6 - Lap 9<Br>09 - Lap 10<Br>08 - Lap 11<Br>0B - Lap 12<Br>0A - Lap 13<Br>0D - Lap 14<Br>0C - Lap 15</I>}
+%Credits: Code Master
+$D066BC38 00000000
+$1066BC38 000000??
+!!
+

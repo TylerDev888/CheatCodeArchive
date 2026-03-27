@@ -1,0 +1,736 @@
+^3 = NAME: Tales Of Legendia (Ntsc-U)
+^2 = GameID: SLUS-21201
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F012E9E8 0012E9EB
++Enable Code (Must Be On)
+%Credits: Code Master>Skiller
+$9012E9E8 0C0423D4
++Master Code
+%Credits: MadCatz
+$9012E9E8 0C0423D4
+$200C2070 080A2BF9
+$200C2074 94630016
+$2028AFDC 08030808
+!!
+!After Battle:
++Quick Level Up
+%Credits: MadCatz
+$2028B8F8 00621821
+!!
+!Battle Difficulty Modifier Codes:
++Easy
+%Credits: Code Master>Skiller
+$004A90B0 00000004
++Hard
+%Credits: Code Master>Skiller
+$004A90B0 00000006
++Normal
+%Credits: Code Master>Skiller
+$004A90B0 00000005
+!!
+!Character 2 Codes:
++Infinite HP
+%Credits: Code Master>Skiller
+$104A7F1A 0000270F
++Infinite TP
+%Credits: Code Master>Skiller
+$104A7F1C 000003E7
++Level 99
+%Credits: Code Master>Skiller
+$104A7F40 00000063
++Max ACC
+%Credits: Code Master>Skiller
+$104A7F06 000003E7
++Max ACC Plus
+%Credits: Code Master>Skiller
+$104A7F16 000003E7
++Max ATK
+%Credits: Code Master>Skiller
+$104A7F00 0000270F
++Max ATK Plus
+%Credits: Code Master>Skiller
+$104A7F10 0000270F
++Max DEF
+%Credits: Code Master>Skiller
+$104A7F02 0000270F
++Max DEF Plus
+%Credits: Code Master>Skiller
+$104A7F12 0000270F
++Max EVA
+%Credits: Code Master>Skiller
+$104A7F08 000003E7
++Max EVA Plus
+%Credits: Code Master>Skiller
+$104A7F18 000003E7
++Max EXP
+%Credits: Code Master>Skiller
+$204A7EF8 05F5E0FF
++Max HP
+%Credits: Code Master>Skiller
+$104A7EFC 0000270F
++Max INT
+%Credits: Code Master>Skiller
+$104A7F04 000003E7
++Max INT Plus
+%Credits: Code Master>Skiller
+$104A7F14 000003E7
++Max LCK
+%Credits: Code Master>Skiller
+$104A7F0A 00000064
++Max TP
+%Credits: Code Master>Skiller
+$104A7EFE 000003E7
++Title Modifier
+%Credits: Code Master>Skiller
+$104A7F44 000000??
+!!
+!Character 3 Codes:
++Infinite HP
+%Credits: Code Master>Skiller
+$104A7F6E 0000270F
++Infinite TP
+%Credits: Code Master>Skiller
+$104A7F70 000003E7
++Level 99
+%Credits: Code Master>Skiller
+$104A7F94 00000063
++Max ACC
+%Credits: Code Master>Skiller
+$104A7F5A 000003E7
++Max ACC Plus
+%Credits: Code Master>Skiller
+$104A7F6A 000003E7
++Max ATK
+%Credits: Code Master>Skiller
+$104A7F54 0000270F
++Max ATK Plus
+%Credits: Code Master>Skiller
+$104A7F64 0000270F
++Max DEF
+%Credits: Code Master>Skiller
+$104A7F56 0000270F
++Max DEF Plus
+%Credits: Code Master>Skiller
+$104A7F66 0000270F
++Max EVA
+%Credits: Code Master>Skiller
+$104A7F5C 000003E7
++Max EVA Plus
+%Credits: Code Master>Skiller
+$104A7F6C 000003E7
++Max EXP
+%Credits: Code Master>Skiller
+$204A7F4C 05F5E0FF
++Max HP
+%Credits: Code Master>Skiller
+$104A7F50 0000270F
++Max INT
+%Credits: Code Master>Skiller
+$104A7F58 000003E7
++Max INT Plus
+%Credits: Code Master>Skiller
+$104A7F68 000003E7
++Max LCK
+%Credits: Code Master>Skiller
+$104A7F5E 00000064
++Max TP
+%Credits: Code Master>Skiller
+$104A7F52 000003E7
++Title Modifier
+%Credits: Code Master>Skiller
+$104A7F98 000000??
+!!
+!Character 4 Codes:
++Infinite HP
+%Credits: Code Master>Skiller
+$104A7FC2 0000270F
++Infinite TP
+%Credits: Code Master>Skiller
+$104A7FC4 000003E7
++Level 99
+%Credits: Code Master>Skiller
+$104A7FE8 00000063
++Max ACC
+%Credits: Code Master>Skiller
+$104A7FAE 000003E7
++Max ACC Plus
+%Credits: Code Master>Skiller
+$104A7FBE 000003E7
++Max ATK
+%Credits: Code Master>Skiller
+$104A7FA8 0000270F
++Max ATK Plus
+%Credits: Code Master>Skiller
+$104A7FB8 0000270F
++Max DEF
+%Credits: Code Master>Skiller
+$104A7FAA 0000270F
++Max DEF Plus
+%Credits: Code Master>Skiller
+$104A7FBA 0000270F
++Max EVA
+%Credits: Code Master>Skiller
+$104A7FB0 000003E7
++Max EVA Plus
+%Credits: Code Master>Skiller
+$104A7FC0 000003E7
++Max EXP
+%Credits: Code Master>Skiller
+$204A7FA0 05F5E0FF
++Max HP
+%Credits: Code Master>Skiller
+$104A7FA4 0000270F
++Max INT
+%Credits: Code Master>Skiller
+$104A7FAC 000003E7
++Max INT Plus
+%Credits: Code Master>Skiller
+$104A7FBC 000003E7
++Max LCK
+%Credits: Code Master>Skiller
+$104A7FB2 00000064
++Max TP
+%Credits: Code Master>Skiller
+$104A7FA6 000003E7
++Title Modifier
+%Credits: Code Master>Skiller
+$104A7FEC 000000??
+!!
+!Character 5 Codes:
++Infinite HP
+%Credits: Code Master>Skiller
+$104A8016 0000270F
++Infinite TP
+%Credits: Code Master>Skiller
+$104A8018 000003E7
++Level 99
+%Credits: Code Master>Skiller
+$104A803C 00000063
++Max ACC
+%Credits: Code Master>Skiller
+$104A8002 000003E7
++Max ACC Plus
+%Credits: Code Master>Skiller
+$104A8012 000003E7
++Max ATK
+%Credits: Code Master>Skiller
+$104A7FFC 0000270F
++Max ATK Plus
+%Credits: Code Master>Skiller
+$104A800C 0000270F
++Max DEF
+%Credits: Code Master>Skiller
+$104A7FFE 0000270F
++Max DEF Plus
+%Credits: Code Master>Skiller
+$104A800E 0000270F
++Max EVA
+%Credits: Code Master>Skiller
+$104A8004 000003E7
++Max EVA Plus
+%Credits: Code Master>Skiller
+$104A8014 000003E7
++Max EXP
+%Credits: Code Master>Skiller
+$204A7FF4 05F5E0FF
++Max HP
+%Credits: Code Master>Skiller
+$104A7FF8 0000270F
++Max INT
+%Credits: Code Master>Skiller
+$104A8000 000003E7
++Max INT Plus
+%Credits: Code Master>Skiller
+$104A8010 000003E7
++Max LCK
+%Credits: Code Master>Skiller
+$104A8006 00000064
++Max TP
+%Credits: Code Master>Skiller
+$104A7FFA 000003E7
++Title Modifier
+%Credits: Code Master>Skiller
+$104A8040 000000??
+!!
+!Character 6 Codes:
++Infinite HP
+%Credits: Code Master>Skiller
+$104A806A 0000270F
++Infinite TP
+%Credits: Code Master>Skiller
+$104A806C 000003E7
++Level 99
+%Credits: Code Master>Skiller
+$104A8090 00000063
++Max ACC
+%Credits: Code Master>Skiller
+$104A8056 000003E7
++Max ACC Plus
+%Credits: Code Master>Skiller
+$104A8066 000003E7
++Max ATK
+%Credits: Code Master>Skiller
+$104A8050 0000270F
++Max ATK Plus
+%Credits: Code Master>Skiller
+$104A8060 0000270F
++Max DEF
+%Credits: Code Master>Skiller
+$104A8052 0000270F
++Max DEF Plus
+%Credits: Code Master>Skiller
+$104A8062 0000270F
++Max EVA
+%Credits: Code Master>Skiller
+$104A8058 000003E7
++Max EVA Plus
+%Credits: Code Master>Skiller
+$104A8068 000003E7
++Max EXP
+%Credits: Code Master>Skiller
+$204A8048 05F5E0FF
++Max HP
+%Credits: Code Master>Skiller
+$104A804C 0000270F
++Max INT
+%Credits: Code Master>Skiller
+$104A8054 000003E7
++Max INT Plus
+%Credits: Code Master>Skiller
+$104A8064 000003E7
++Max LCK
+%Credits: Code Master>Skiller
+$104A805A 00000064
++Max TP
+%Credits: Code Master>Skiller
+$104A804E 000003E7
++Title Modifier
+%Credits: Code Master>Skiller
+$104A8094 000000??
+!!
+!Character 7 Codes:
++Infinite HP
+%Credits: Code Master>Skiller
+$104A80BE 0000270F
++Infinite TP
+%Credits: Code Master>Skiller
+$104A80C0 000003E7
++Level 99
+%Credits: Code Master>Skiller
+$104A80E4 00000063
++Max ACC
+%Credits: Code Master>Skiller
+$104A80AA 000003E7
++Max ACC Plus
+%Credits: Code Master>Skiller
+$104A80BA 000003E7
++Max ATK
+%Credits: Code Master>Skiller
+$104A80A4 0000270F
++Max ATK Plus
+%Credits: Code Master>Skiller
+$104A80B4 0000270F
++Max DEF
+%Credits: Code Master>Skiller
+$104A80A6 0000270F
++Max DEF Plus
+%Credits: Code Master>Skiller
+$104A80B6 0000270F
++Max EVA
+%Credits: Code Master>Skiller
+$104A80AC 000003E7
++Max EVA Plus
+%Credits: Code Master>Skiller
+$104A80BC 000003E7
++Max EXP
+%Credits: Code Master>Skiller
+$204A809C 05F5E0FF
++Max HP
+%Credits: Code Master>Skiller
+$104A80A0 0000270F
++Max INT
+%Credits: Code Master>Skiller
+$104A80A8 000003E7
++Max INT Plus
+%Credits: Code Master>Skiller
+$104A80B8 000003E7
++Max LCK
+%Credits: Code Master>Skiller
+$104A80AE 00000064
++Max TP
+%Credits: Code Master>Skiller
+$104A80A2 000003E7
++Title Modifier
+%Credits: Code Master>Skiller
+$104A80E8 000000??
+!!
+!Character 8 Codes:
++Infinite HP
+%Credits: Code Master>Skiller
+$104A8112 0000270F
++Infinite TP
+%Credits: Code Master>Skiller
+$104A8114 000003E7
++Level 99
+%Credits: Code Master>Skiller
+$104A8138 00000063
++Max ACC
+%Credits: Code Master>Skiller
+$104A80FE 000003E7
++Max ACC Plus
+%Credits: Code Master>Skiller
+$104A810E 000003E7
++Max ATK
+%Credits: Code Master>Skiller
+$104A80F8 0000270F
++Max ATK Plus
+%Credits: Code Master>Skiller
+$104A8108 0000270F
++Max DEF
+%Credits: Code Master>Skiller
+$104A80FA 0000270F
++Max DEF Plus
+%Credits: Code Master>Skiller
+$104A810A 0000270F
++Max EVA
+%Credits: Code Master>Skiller
+$104A8100 000003E7
++Max EVA Plus
+%Credits: Code Master>Skiller
+$104A8110 000003E7
++Max EXP
+%Credits: Code Master>Skiller
+$204A80F0 05F5E0FF
++Max HP
+%Credits: Code Master>Skiller
+$104A80F4 0000270F
++Max INT
+%Credits: Code Master>Skiller
+$104A80FC 000003E7
++Max INT Plus
+%Credits: Code Master>Skiller
+$104A810C 000003E7
++Max LCK
+%Credits: Code Master>Skiller
+$104A8102 00000064
++Max TP
+%Credits: Code Master>Skiller
+$104A80F6 000003E7
++Title Modifier
+%Credits: Code Master>Skiller
+$104A813C 000000??
+!!
+!Equipment Modifier Codes:
++Acc. 1
+%Credits: Code Master>Skiller
+$104A8076 0000????
++Acc. 1
+%Credits: Code Master>Skiller
+$104A80CA 0000????
++Acc. 1
+%Credits: Code Master>Skiller
+$104A811E 0000????
++Acc. 1
+%Credits: Code Master>Skiller
+$104A7ED2 0000????
++Acc. 1
+%Credits: Code Master>Skiller
+$104A7F26 0000????
++Acc. 1
+%Credits: Code Master>Skiller
+$104A7F7A 0000????
++Acc. 1
+%Credits: Code Master>Skiller
+$104A7FCE 0000????
++Acc. 1
+%Credits: Code Master>Skiller
+$104A8022 0000????
++Acc. 2
+%Credits: Code Master>Skiller
+$104A8078 0000????
++Acc. 2
+%Credits: Code Master>Skiller
+$104A80CC 0000????
++Acc. 2
+%Credits: Code Master>Skiller
+$104A8120 0000????
++Acc. 2
+%Credits: Code Master>Skiller
+$104A7ED4 0000????
++Acc. 2
+%Credits: Code Master>Skiller
+$104A7F28 0000????
++Acc. 2
+%Credits: Code Master>Skiller
+$104A7F7C 0000????
++Acc. 2
+%Credits: Code Master>Skiller
+$104A7FD0 0000????
++Acc. 2
+%Credits: Code Master>Skiller
+$104A8024 0000????
++Body
+%Credits: Code Master>Skiller
+$104A8072 0000????
++Body
+%Credits: Code Master>Skiller
+$104A80C6 0000????
++Body
+%Credits: Code Master>Skiller
+$104A811A 0000????
++Body
+%Credits: Code Master>Skiller
+$104A7ECE 0000????
++Body
+%Credits: Code Master>Skiller
+$104A7F22 0000????
++Body
+%Credits: Code Master>Skiller
+$104A7F76 0000????
++Body
+%Credits: Code Master>Skiller
+$104A7FCA 0000????
++Body
+%Credits: Code Master>Skiller
+$104A801E 0000????
++Head
+%Credits: Code Master>Skiller
+$104A8070 0000????
++Head
+%Credits: Code Master>Skiller
+$104A80C4 0000????
++Head
+%Credits: Code Master>Skiller
+$104A8118 0000????
++Head
+%Credits: Code Master>Skiller
+$104A7ECC 0000????
++Head
+%Credits: Code Master>Skiller
+$104A7F20 0000????
++Head
+%Credits: Code Master>Skiller
+$104A7F74 0000????
++Head
+%Credits: Code Master>Skiller
+$104A7FC8 0000????
++Head
+%Credits: Code Master>Skiller
+$104A801C 0000????
++Weapon
+%Credits: Code Master>Skiller
+$104A8074 0000????
++Weapon
+%Credits: Code Master>Skiller
+$104A80C8 0000????
++Weapon
+%Credits: Code Master>Skiller
+$104A811C 0000????
++Weapon
+%Credits: Code Master>Skiller
+$104A7ED0 0000????
++Weapon
+%Credits: Code Master>Skiller
+$104A7F24 0000????
++Weapon
+%Credits: Code Master>Skiller
+$104A7F78 0000????
++Weapon
+%Credits: Code Master>Skiller
+$104A7FCC 0000????
++Weapon
+%Credits: Code Master>Skiller
+$104A8020 0000????
+!!
+!Grune Codes:
++Max Atk
+%Credits: Codejunkies
+$104A80A2 0000270F
++Max Int
+%Credits: Codejunkies
+$104A80A6 000003E7
++Max Lck
+%Credits: Codejunkies
+$104A80AC 00000064
+!!
+!In-Battle:
++Enabler (Must Be On For The Following)
+%Credits: MadCatz
+$203702A0 0C030800
+$200C2018 03E00008
++Infinite HP
+%Credits: MadCatz
+$200C2000 4486F800
+$200C2004 4680FFE0
+$200C2008 E61F0024
++Infinite TP
+%Credits: MadCatz
+$200C200C 44876800
+$200C2010 46806B60
+$200C2014 E60D0028
++Instant Climax
+%Credits: MadCatz
+$202E3704 3C013F80
+$202E370C 44810000
+!!
+!Miscellanous Codes:
++Always Low Time
+%Credits: Code Master>Skiller
+$204A7E04 00000000
+$204A7E08 00000000
++Default Clothing {<I>If You&#39;Re Playing Through The Game A 2Nd Time And Want To Switch Back To The Character&#39;S Default Clothes Use This Code.</I>}
+%Credits: Requin
+$2028AE84 00000000
+$2028AE09 24020000
++Disable FMV
+%Credits: Code Master>Skiller
+$2012CCA0 24020001
++Formalwear {<I>Characters Will Be Wearing Formalwear In Battles.</I>}
+%Credits: Requin
+$2028AE84 00000000
+$2028AE09 24020002
++Infinite Money
+%Credits: Code Master>Skiller
+$104A7E00 0000FFFF
++Max Combo
+%Credits: Code Master>Skiller
+$204A7E10 05F5E0FF
++Max Encounters
+%Credits: Code Master>Skiller
+$204A7E0C 05F5E0FF
++Max Grade
+%Credits: Code Master>Skiller
+$204A7E20 45BB7FEC
++Max Money
+%Credits: Code Master>Skiller
+$204A7E00 05F5E0FF
++No Combo
+%Credits: Code Master>Skiller
+$204A7E10 00000000
++No Encounters
+%Credits: Code Master>Skiller
+$204A7E0C 00000000
++No Grade
+%Credits: Code Master>Skiller
+$204A7E20 00000000
++Play A Panda {<I>Characters Will Be Wearing Animal Costumes In Battles.</I>}
+%Credits: Skiller
+$2028AE84 00000000
+$2028AE09 24020001
++Start Battle With Max Climax
+%Credits: Code Master>Skiller
+$204A7E3C 3F800000
+!!
+!Quantity Digits:
++Equipment Modifier Digits {<I>0000 - Nothing<Br>0001 - Iron Bracers<Br>0002 - Power Bracers<Br>0003 - Poison Bracers<Br>0004 - Fire Bolt<Br>0005 - Scallop Gear<Br>0006 - Heavy Hands<Br>0007 - Holy Bracers<Br>0008 - Hunter9s Beat<Br>0009 - Mythril Bracers<Br>000A - Homing Beats<Br>000B - Dynamic Arts<Br>000C - Lei<Br>000D - Bi-Metal<Br>000E - Ghost Shell<Br>000F - Aqua Shell<Br>0010 - Speed Bracers<Br>0011 - Diamond Shell<Br>0012 - High Speed Bracers<Br>0013 - Breaker<Br>0014 - Kaiser Gears<Br>0015 - Heaven9s Claw<Br>0016 - Long Sword<Br>0017 - Gladius<Br>0018 - Broad Sword<Br>0019 - Poison Sword<Br>001A - Claymore<Br>001B - Silver Sword<Br>001C - Ether Sword<Br>001D - Dragon Tooth<Br>001E - Excalibur<Br>001F - Mini-Gelures Sword<Br>0020 - Baseball Bat<Br>0021 - Grim Sword<Br>0022 - Angel9s Tear<Br>0023 - Last Fencer<Br>0024 - Flamberge<Br>0025 - Ice Coffin<Br>0026 - Laser Blade<Br>0027 - Megant Killer<Br>0028 - Paper Fan<Br>0029 - Destroyer<Br>002A - Eternal Sword<Br>002B - Spear<Br>002C - War Javelin<Br>002D - Silver Javelin<Br>002E - Holy Javelin<Br>002F - Mythril Spear<Br>0030 - Longinus<Br>0031 - Gae Bolg<Br>0032 - Thunder Javelin<Br>0033 - Peepit Spear<Br>0034 - Earth Javelin<Br>0035 - Gungnir<Br>0036 - Knife<Br>0037 - Kochi<Br>0038 - Chizakura<Br>0039 - Gyoten<Br>003A - Ogre Sword<Br>003B - Fuji<Br>003C - Shiden<Br>003D - Shinonome<Br>003E - Kageboshi<Br>003F - Kusanagi Blade<Br>0040 - Hotate<Br>0041 - Hammer<Br>0042 - War Hammer<Br>0043 - Oresoren Hammer<Br>0044 - Pile Driver<Br>0045 - Mythril Hammer<Br>0046 - 765Kg Hammer<Br>0047 - Express<Br>0048 - Pow Hammer<Br>0049 - Deck Brush<Br>004A - Mjolnir<Br>004B - Straw<Br>004C - Love Straw<Br>004D - Silver Straw<Br>004E - Peepit Straw<Br>004F - Strike Straw<Br>0050 - Mythril Straw<Br>0051 - Love Love Straw<Br>0052 - Marbled Straw<Br>0053 - Scope Straw<Br>0054 - Gold Straw<Br>0055 - Pterux<Br>0056 - Dory<Br>0057 - Bomba<Br>0058 - Spyra<Br>0059 - Diktyon<Br>005A - Temnein<Br>005B - Quill<Br>005C - Chalk<Br>005D - Brush<Br>005E - High Grade Pen<Br>005F - Angelic Quill<Br>0060 - Soft Leather<Br>0061 - Hard Leather<Br>0062 - Chain Mail<Br>0063 - Ring Mail<Br>0064 - Lamellar Leather<Br>0065 - Turtle Mail<Br>0066 - Gaet Armor<Br>0067 - Silver Mail<Br>0068 - Dragon Mail<Br>0069 - Mythril Armor<Br>006A - Rune Mail<Br>006B - Prereflex<Br>006C - Rare Plate<Br>006D - Emp. New Clothes<Br>006E - Reflex<Br>006F - Star Mail<Br>0070 - Body Paint<Br>0071 - Golden Armor<Br>0072 - Mumbane<Br>0073 - Cloak<Br>0074 - Amber Cloak<Br>0075 - Peepit Cloak<Br>0076 - Galf Cloak<Br>0077 - Bunny Dress<Br>0078 - Cocktail Dress<Br>0079 - Witch9s Dress<Br>007A - Holy Cloak<Br>007B - Middy Blouse<Br>007C - Warlock Garb<Br>007D - Happi<Br>007E - Star Cloak<Br>007F - Heavenly Garb<Br>0080 - Shaman Dress<Br>0081 - Aurora<Br>0082 - Robe<Br>0083 - Misty Robe<Br>0084 - Bloody Robe<Br>0085 - Battle Robe<Br>0086 - Scale Robe<Br>0087 - Silk Robe<Br>0088 - Holy Robe<Br>0089 - Rune Robe<Br>008A - Bear Suit<Br>008B - Spirit Robe<Br>008C - Moon Robe<Br>008D - Stole<Br>008E - Amelia9s Love<Br>008F - Capoeiracco Robe<Br>0090 - Leather Helm<Br>0091 - Iron Helm<Br>0092 - Armet Helm<Br>0093 - Cross Helm<Br>0094 - Duel Helm<Br>0095 - Mythril Helm<Br>0096 - Rare Helm<Br>0097 - Star Helm<Br>0098 - Golden Helm<Br>0099 - Skeleton Mask<Br>009A - Beret<Br>009B - Straw Hat<Br>009C - Night Cap<Br>009D - Bunny Ears<Br>009E - Witch9s Hat<Br>009F - Rune Beret<Br>00A0 - Silk Hat<Br>00A1 - Eryngi Hat<Br>00A2 - Headband<Br>00A3 - Aifread9s Hat<Br>00A4 - Kitty Cap<Br>00A5 - Bear Head<Br>00A6 - Ninja Mask<Br>00A7 - Graduation Hat<Br>00A8 - Baker9s Hat<Br>00A9 - Circlet<Br>00AA - Pompom Hair Tie<Br>00AB - Mythril Circlet<Br>00AC - Ribbon<Br>00AD - Holy Circlet<Br>00AE - Blue Ribbon<Br>00AF - Striped Ribbon<Br>00B0 - Pretty Ribbon<Br>00B1 - Star Circlet<Br>00B2 - Magical Ribbon<Br>00B3 - Angel Halo<Br>00B4 - Purple Hood<Br>00B5 - Talisman<Br>00B6 - Heal Bracelet<Br>00B7 - Spirit Bangle<Br>00B8 - Blue Talisman<Br>00B9 - Stun Bracelet<Br>00BA - Stun Charm<Br>00BB - Poison Charm<Br>00BC - Paralysis Charm<Br>00BD - Fire Charm<Br>00BE - Freeze Charm<Br>00BF - Stone Charm<Br>00C0 - Restraint Charm<Br>00C1 - Seal Charm<Br>00C2 - Panic Charm<Br>00C3 - Doom Charm<Br>00C4 - FOE1 Charm<Br>00C5 - FOE2 Charm<Br>00C6 - FOE3 Charm<Br>00C7 - Emerald Ring<Br>00C8 - Faerie Ring<Br>00C9 - Protect Ring<Br>00CA - Force Ring<Br>00CB - Resist Ring<Br>00CC - Reflect Ring<Br>00CD - Holy Ring<Br>00CE - Spirit Ring<Br>00CF - Revive Ring<Br>00D0 - Technical Ring<Br>00D1 - Warrior Crest<Br>00D2 - Rabbit9s Foot<Br>00D3 - Holy Symbol<Br>00D4 - Spirit Symbol<Br>00D5 - Dark Seal<Br>00D6 - Demon9s Seal<Br>00D7 - Extreme Symbol<Br>00D8 - Mystic Symbol<Br>00D9 - Krona Symbol<Br>00DA - Attack Symbol<Br>00DB - Cape<Br>00DC - Leather Cape<Br>00DD - Thief9s Cape<Br>00DE - Elven Cape<Br>00DF - Flare Cape<Br>00E0 - Freeze Cape<Br>00E1 - Thunder Cape<Br>00E2 - Earth Cape<Br>00E3 - Aqua Cape<Br>00E4 - Rune Cape<Br>00E5 - Leather Boots<Br>00E6 - Elven Boots<Br>00E7 - Jet Boots<Br>00E8 - Persian Boots<Br>00E9 - Rebirth Doll<Br>00EA - Sephira<Br>00EB - Blue Sephira<Br>00EC - Black Onyx<Br>00ED - Moon Crystal<Br>00EE - Magic Mist<Br>00EF - Turquoise<Br>00F0 - Apple Gel<Br>00F1 - Orange Gel<Br>00F2 - Lemon Gel<Br>00F3 - Pineapple Gel<Br>00F4 - Melange Gel<Br>00F5 - Scallop Gel<Br>00F6 - Miracle Gel<Br>00F7 - Life Bottle<Br>00F8 - Panacea Bottle<Br>00F9 - Elixir<Br>00FA - Flare Bottle<Br>00FB - Syrup Bottle<Br>00FC - Shell Bottle<Br>00FD - Dinei Bottle<Br>00FE - Acuity Bottle<Br>00FF - Guard Bottle<Br>0100 - Climax Bottle<Br>0101 - Charm Bottle<Br>0102 - Miracle Bottle<Br>0103 - Holy Bottle<Br>0104 - Dark Bottle<Br>0105 - Rune Bottle<Br>0106 - Magic Lens<Br>0107 - All-Divide<Br>0108 - Sage<Br>0109 - Savory<Br>010A - Lavender<Br>010B - Verbena<Br>010C - Rosemary<Br>010D - Saffron<Br>010E - Red Sage<Br>010F - Red Savory<Br>0110 - Red Lavender<Br>0111 - Red Verbena<Br>0112 - Red Rosemary<Br>0113 - Red Saffron<Br>0114 - Red Ores<Br>0115 - Blue Ores<Br>0116 - Purple Ores<Br>0117 - Yellow Ores<Br>0118 - Water Ores<Br>0119 - Black Ores<Br>011A - Abes Wood<Br>011B - Textile<Br>011C - Unicorn9s Horn<Br>011D - Lure<Br>011E - Aifread9s Flag<Br>011F - Clear Shell<Br>0120 - Bread<Br>0121 - Butter<Br>0122 - Jam<Br>0123 - Baguette<Br>0124 - Garlic<Br>0125 - Parsley<Br>0126 - Egg<Br>0127 - Milk<Br>0128 - Ham<Br>0129 - Tuna<Br>012A - Strawberry<Br>012B - Whipped Cream<Br>012C - Lettuce<Br>012D - Tomato<Br>012E - Bun<Br>012F - Hamburger Patty<Br>0130 - Pickles<Br>0131 - Cheese<Br>0132 - Scallop<Br>0133 - Pineapple<Br>0134 - Melon<Br>0135 - Cod<Br>0136 - Bagel<Br>0137 - Cream Cheese<Br>0138 - Salmon<Br>0139 - Beef<Br>013A - Chicken<Br>013B - Hot Dog Bun<Br>013C - Sausage<Br>013D - Cabbage<Br>013E - Noodles<Br>013F - Onion<Br>0140 - Pork<Br>0141 - Sauce<Br>0142 - Mustard<Br>0143 - Baking Set<Br>0144 - Skim Milk<Br>0145 - Red Bean Paste<Br>0146 - Custard Cream<Br>0147 - Chocolate<Br>0148 - Apple<Br>0149 - Banana<Br>014A - Oil<Br>014B - Baking Powder<Br>014C - Mushroom<Br>014D - Curry Powder<Br>014E - Carrot<Br>014F - Pepperoni<Br>0150 - Shrimp<Br>0151 - Squid<Br>0152 - Tofu<Br>0153 - Toban Jiang<Br>0154 - Flan<Br>0155 - Radish<Br>0156 - Toast<Br>0157 - Toast With Jam<Br>0158 - Garlic Toast<Br>0159 - French Toast<Br>015A - Ham Sandwich<Br>015B - Tuna Sandwich<Br>015C - Strawberry Sandwich<Br>015D - Cutlet Sandwich<Br>015E - The Works<Br>015F - Hamburger<Br>0160 - Cheese Burger<Br>0161 - Fish Burger<Br>0162 - Scallop Burger<Br>0163 - Healthy Burger<Br>0164 - Bagel With Lox<Br>0165 - Bagel With Beef<Br>0166 - Bagel With Chicken<Br>0167 - Hot Dog<Br>0168 - Spicy Dog<Br>0169 - Cheese Dog<Br>016A - Lomein Dog<Br>016B - Butter Roll<Br>016C - Red Bean Bun<Br>016D - Cream Doughnut<Br>016E - Chocolate Cornet<Br>016F - Melon Bread<Br>0170 - Chocolate Chip Bread<Br>0171 - Croissant<Br>0172 - Pizza<Br>0173 - Seafood Pizza<Br>0174 - Tropical Pizza<Br>0175 - Spicy Pizza<Br>0176 - Muffin<Br>0177 - Chocolate Chip Muffin<Br>0178 - Churros<Br>0179 - Flan Cake<Br>017A - Apple Pastry<Br>017B - Banana Pastry<Br>017C - Mabo Pastry<Br>017D - Baumkuchen<Br>017E - Crepe<Br>017F - Strawberry Crepe<Br>0180 - Melon Crepe<Br>0181 - Pineapple Crepe<Br>0182 - Scallop Crepe<Br>0183 - Curry Pie<Br>0184 - Mabo Pie<Br>0185 - Mabo Curry Pie<Br>0186 - Fish Stew Bread Bowl<Br>0187 - Meat Stew Bread Bowl<Br>0188 - Collector9s Book<Br>0189 - Basket<Br>018A - Large Basket<Br>018B - World Map<Br>018C - Sorcerer9s Scanner<Br>018D - Sorcerer9s Ring<Br>018E - Moses9 Key<Br>018F - Shirley9s Brooch<Br>0190 - Gemini Shells<Br>0191 - Whisper Crystal<Br>0192 - Card Key<Br>0193 - Operations Report<Br>0194 - Tablet 1<Br>0195 - Tablet 2<Br>0196 - Tablet 3<Br>0197 - Tablet 4<Br>0198 - Harriet9s Flower<Br>0199 - Spider9s Cocoon<Br>019A - Valens9 Sword<Br>019B - Giet9s Charm<Br>019C - Jay9s Bell<Br>019D - Norma9s Notebook<Br>019E - Everlight Fragment<Br>019F - Grune9s Feather<Br>01A0 - Broken Hairpin<Br>01A1 - Bow Key<Br>01A2 - Starboard Key<Br>01A3 - Stern Key<Br>01A4 - Port Key<Br>01A5 - Eres Stone<Br>01A6 - Megant<Br>01A7 - Ere<Br>01A8 - Fiend<Br>01A9 - Egg Bear<Br>01AA - Egg Bear Cub<Br>01AB - Phynx<Br>01AC - Galf<Br>01AD - Base Turtle<Br>01AE - Lizardman<Br>01AF - Diva<Br>01B0 - Peepit<Br>01B1 - Peepit Chick<Br>01B2 - Eryngi<Br>01B3 - Mandrake<Br>01B4 - Hopper<Br>01B5 - Dinowyrm<Br>01B6 - Dandarantula<Br>01B7 - Gelures Sword<Br>01B8 - Gelures Shield<Br>01B9 - Mimic Bed<Br>01BA - Zephyr<Br>01BB - Eggtopus<Br>01BC - Element<Br>01BD - Grand Gaet<Br>01BE - Sea Gaet<Br>01BF - Hill Angler<Br>01C0 - Dragon<Br>01C1 - Gald Shark<Br>01C2 - Automaton<Br>01C3 - Mini-Automaton<Br>01C4 - Nerifes<Br>01C5 - Gentleman<Br>01C6 - Hopperfly<Br>01C7 - Toast<Br>01C8 - Toast With Jam<Br>01C9 - Garlic Toast<Br>01CA - French Toast<Br>01CB - Ham Sandwich<Br>01CC - Tuna Sandwich<Br>01CD - Strawberry Sandwich<Br>01CE - Cutlet Sandwich<Br>01CF - The Works<Br>01D0 - Hamburger<Br>01D1 - Cheese Burger<Br>01D2 - Fish Burger<Br>01D3 - Scallop Burger<Br>01D4 - Healthy Burger<Br>01D5 - Bagel With Lox<Br>01D6 - Bagel With Beef<Br>01D7 - Bagel With Chicken<Br>01D8 - Hot Dog<Br>01D9 - Spicy Dog<Br>01DA - Cheese Dog<Br>01DB - Lomein Dog<Br>01DC - Butter Roll<Br>01DD - Red Bean Bun<Br>01DE - Cream Doughnut<Br>01DF - Chocolate Cornet<Br>01E0 - Melon Bread<Br>01E1 - Chocolate Chip Bread<Br>01E2 - Croissant<Br>01E3 - Pizza<Br>01E4 - Seafood Pizza<Br>01E5 - Tropical Pizza<Br>01E6 - Spicy Pizza<Br>01E7 - Muffin<Br>01E8 - Chocolate Chip Muffin<Br>01E9 - Churros<Br>01EA - Flan Cake<Br>01EB - Apple Pastry<Br>01EC - Banana Pastry<Br>01ED - Mabo Pastry<Br>01EE - Baumkuchen<Br>01EF - Crepe<Br>01F0 - Strawberry Crepe<Br>01F1 - Melon Crepe<Br>01F2 - Pineapple Crepe<Br>01F3 - Scallop Crepe<Br>01F4 - Curry Pie<Br>01F5 - Mabo Pie<Br>01F6 - Mabo Curry Pie<Br>01F7 - Fish Stew Bread Bowl<Br>01F8 - Meat Stew Bread Bowl</I>}
+%Credits: NA
+N/A
+!!
+!Senel Codes:
++Infinite HP
+%Credits: Codejunkies
+$104A7EC6 0000270F
++Infinite Tp
+%Credits: Codejunkies
+$104A7EC8 000003E7
++Max Acc
+%Credits: Codejunkies
+$104A7EB2 000003E7
++Max Atk
+%Credits: Codejunkies
+$104A7EAC 0000270F
++Max Def
+%Credits: Codejunkies
+$104A7EAE 0000270F
++Max Eva
+%Credits: Codejunkies
+$104A7EB4 000003E7
++Max HP
+%Credits: Codejunkies
+$104A7EA8 0000270F
++Max Int
+%Credits: Codejunkies
+$104A7EB0 000003E7
++Max Lck
+%Credits: Codejunkies
+$104A7EB6 00000064
++Max Tp
+%Credits: Codejunkies
+$104A7EAA 000003E7
++Quick Level Up
+%Credits: Codejunkies
+$204A7EA4 05F5E0FF
+!!
+!Senel Coolidge Codes:
++Level 99
+%Credits: Code Master>Skiller
+$104A7EEC 00000063
++Max ACC Plus
+%Credits: Code Master>Skiller
+$104A7EC2 000003E7
++Max ATK Plus
+%Credits: Code Master>Skiller
+$104A7EBC 0000270F
++Max DEF Plus
+%Credits: Code Master>Skiller
+$104A7EBE 0000270F
++Max EVA Plus
+%Credits: Code Master>Skiller
+$104A7EC4 000003E7
++Max INT Plus
+%Credits: Code Master>Skiller
+$104A7EC0 000003E7
++Title Modifier
+%Credits: Code Master>Skiller
+$104A7EF0 000000??
+!!
+!View Character Status For:
++Max ACC
+%Credits: MadCatz
+$200C2050 240103E7
+$200C2054 A4610012
++Max ATK
+%Credits: MadCatz
+$200C2038 2401270F
+$200C203C A461000C
++Max DEF
+%Credits: MadCatz
+$200C2040 2401270F
+$200C2044 A461000E
++Max EVA
+%Credits: MadCatz
+$200C2058 240103E7
+$200C205C A4610014
++Max HP
+%Credits: MadCatz
+$200C2020 2401270F
+$200C2024 A4610008
+$200C2028 A4610026
++Max INT
+%Credits: MadCatz
+$200C2048 240103E7
+$200C204C A4610010
++Max LCK
+%Credits: MadCatz
+$200C2060 24010064
+$200C2064 A4610016
++Max TP
+%Credits: MadCatz
+$200C202C 240103E7
+$200C2030 A461000A
+$200C2034 A4610028
+!!
+!View Status For...:
++Max Gald
+%Credits: MadCatz
+$200C2080 3442E0FF
+$200C2084 03E00008
+$200C2088 AC220000
+$20289894 00430821
+$20289898 08030820
+$2028989C 3C0205F5
+!!
+!!
+

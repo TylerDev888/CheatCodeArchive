@@ -1,0 +1,201 @@
+^2 = GameID: CUSA33825,CUSA33826,CUSA33827,CUSA33824
+^3 = NAME: Final Fantasy III: Pixel Remaster
+^SECONDLAYER: YES
+^4 = FILE: (Slot(20|1[0-9]|[1-9])|System|Slot22)
++Add Item
+$search "normalOwnedItemList\"
+$Insert Next 29: "\\\"{\\\\\\\"contentId\\\\\\\":[Item],\\\\\\\"count\\\\\\\":[Amount:99:UTF08:TXT]}\\\","
++Edit Amount Existing Item
+$search "normalOwnedItemList\"
+$search next "\\\\\\\"contentId\\\\\\\":[Item]"
+$search next ""count\\\\\\\""
+$delete next E:until "}"
+$Insert next E: ":[Amount:99:UTF08:TXT]"
+^6 = MODS:
+[Item]
+ID>Name
+2	Potion
+3	Hi-Potion
+4	Antidote
+5	Eye Drops
+6	Echo Herbs
+7	Gold Needle
+8	Maiden's Kiss
+9	Mallet
+10	Ottershroom
+11	Phoenix Down
+12	Elixir
+13	Gnomish Bread
+14	Magic Key
+15	Gysahl Greens
+16	Antarctic Wind
+17	Zeus's Wrath
+18	Bomb Fragment
+19	Lamia Scale
+20	Bacchus's Cider
+21	Tranquilizer
+22	Bomb Arm
+23	Arctic Wind
+24	Heavenly Wrath
+25	Earthen Drums
+26	Turtle Shell
+27	Demon's Sigh
+28	Black Hole
+29	Black Musk
+30	Lilith's Kiss
+31	Raven's Yawn
+32	Shell Breaker
+33	Silence Seal
+34	Sheep Pillow
+35	Shining Curtain
+36	Chocobo's Wrath
+37	White Musk
+51	Knife
+52	Dagger
+53	Mythril Knife
+54	Main Gauche
+55	Orichalcum
+56	Air Knife
+57	Golden Sword
+58	Longsword
+59	Wightslayer
+60	Mythril Sword
+61	Serpent Sword
+62	Tyrfing
+63	Salamand Sword
+64	Freezing Blade
+65	Royal Sword
+66	Blood Sword
+67	Ancient Sword
+68	Defender
+69	Break Blade
+70	Excalibur
+71	Ragnarok
+72	Onion Sword
+73	Ashura
+74	Kotetsu
+75	Kiku-Ichimonji
+76	Masamune
+77	Staff
+78	Fire Staff
+79	Ice Staff
+80	Light Staff
+81	Golem Staff
+82	Rune Staff
+83	Elder Staff
+84	Mythril Rod
+85	Ice Rod
+86	Light Rod
+87	Fire Rod
+88	Omnirod
+89	Bow
+90	Great Bow
+91	Killer Bow
+92	Rune Bow
+93	Yoichi Bow
+94	Wooden Arrow
+95	Holy Arrow
+96	Iron Arrow
+97	Ice Arrow
+98	Fire Arrow
+99	Light Arrow
+100	Medusa Arrow
+101	Yoichi Arrow
+102	Book of Ice
+103	Book of Light
+104	Book of Fire
+105	Tome of Ice
+106	Tome of Light
+107	Tome of Fire
+108	Nunchaku
+109	Tonfa
+110	Sansetsukon
+111	Cat Claws
+112	Kaiser Knuckles
+113	Wyvern Claws
+114	Faerie Claws
+115	Hellish Claws
+116	Thorian Hammer
+117	Morning Star
+118	Triton Hammer
+119	Battleaxe
+120	Dual Tomahawk
+121	Dual Haken
+122	Thunder Spear
+123	Wind Spear
+124	Blood Lance
+125	Holy Lance
+126	Boomerang
+127	Moonring Blade
+128	Shuriken
+129	Diamond Bell
+130	Earthen Bell
+131	Rune Bell
+132	Madhura Harp
+133	Lamia Harp
+134	Loki Harp
+139	Leather Shield
+140	Mythril Shield
+141	Ice Shield
+142	Heroic Shield
+143	Demon Shield
+144	Diamond Shield
+145	Aegis Shield
+146	Genji Shield
+147	Crystal Shield
+148	Onion Shield
+149	Leather Cap
+150	Mythril Helm
+151	Shell Helm
+152	Headband
+153	Ice Helm
+154	Feathered Hat
+155	Scholar Hat
+156	Black Cowl
+157	Chakra Band
+158	Dragon Helm
+159	Viking Helm
+160	Diamond Helm
+161	Ribbon
+162	Genji Helm
+163	Crystal Helm
+164	Onion Helm
+165	Rusty Mail
+166	Vest
+167	Leather Armor
+168	Mythril Armor
+169	Mage Robe
+170	Shell Armor
+171	Ice Armor
+172	Scholar Robe
+173	Kenpo Gi
+174	Flame Mail
+175	Knight Armor
+176	Black Garb
+177	Reflective Mail
+178	Black Robe
+179	White Robe
+180	Bard Vest
+181	Black Belt Gi
+182	Gaia Vest
+183	Dragon Mail
+184	Viking Mail
+185	Demon Mail
+186	Diamond Mail
+187	Genji Armor
+188	Crystal Mail
+189	Onion Armor
+190	Bronze Bracers
+191	Mythril Bracers
+192	Mythril Gloves
+193	Gauntlets
+194	Thief Gloves
+195	Rune Bracers
+196	Diamond Bracers
+197	Power Bracers
+198	Diamond Gloves
+199	Protect Ring
+200	Genji Gloves
+201	Crystal Gloves
+202	Onion Gauntlets
+[/Item]

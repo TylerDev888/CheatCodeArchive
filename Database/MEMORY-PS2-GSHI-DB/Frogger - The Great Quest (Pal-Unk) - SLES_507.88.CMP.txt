@@ -1,0 +1,57 @@
+^3 = NAME: Frogger - The Great Quest (Pal-Unk)
+^2 = GameID: SLES-50788
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0112C64 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0112C64 00112C67
+!!
++Disable Baddies Ai
+%Credits: Codejunkies
+$201E9D54 00000000
++Display Framerate
+%Credits: Codejunkies
+$00202C78 00000001
++Display Frogger Pos
+%Credits: Codejunkies
+$00202C44 00000001
++Frogger Cost 1
+%Credits: Codejunkies
+$102057E4 00000001
++Invulnerable Frogger
+%Credits: Codejunkies
+$00202590 00000001
++Max Amethyst Value
+%Credits: Codejunkies
+$00222966 000000FF
++Max Copper Coins Value
+%Credits: Codejunkies
+$1022296C 000003E8
++Max Diamond Value
+%Credits: Codejunkies
+$10222960 000003E8
++Max Gold Coins Value
+%Credits: Codejunkies
+$10222968 000003E8
++Max Ruby Value
+%Credits: Codejunkies
+$10222964 000003E8
++Max Sapphire Value
+%Credits: Codejunkies
+$00222962 000000FF
++Max Silver Coins Value
+%Credits: Codejunkies
+$1022296A 000003E8
++Positivie The Mosquito Cost 1
+%Credits: Codejunkies
+$10205834 00000001
++Rolling Rapid Creeks Cost 1
+%Credits: Codejunkies
+$10205884 00000001
++Skip Fmvs
+%Credits: Codejunkies
+$00202800 00000001
+!!
+

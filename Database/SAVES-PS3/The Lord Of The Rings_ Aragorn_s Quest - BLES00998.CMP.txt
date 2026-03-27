@@ -1,0 +1,22 @@
+^2 = GameID: BLES00998
+^3 = NAME: The Lord of the Rings: Aragorn's Quest
+^4 = FILE: LOTR.DAT
++Update Crc32 For Lotr.dat (required)
+(set range:0x000000,0x03E393)
+$set pointer:eof-3
+$set range:0x000000,pointer
+$set [hash]:CRC32
+$set [hash]:xor:FFFFFFFF
+(write at 0x03E394:[hash])
+$set pointer:eof-3
+$write next (0):[hash]
+^4 = FILE: CUTSFLAG.DAT
++Update Crc32 For Cutsflag.dat (required)
+(set range:0x000000,0x000137)
+$set pointer:eof-3
+$set range:0x000000,pointer
+$set [hash]:CRC32
+$set [hash]:xor:FFFFFFFF
+(write at 0x000138:[hash])
+$set pointer:eof-3
+$write next (0):[hash]

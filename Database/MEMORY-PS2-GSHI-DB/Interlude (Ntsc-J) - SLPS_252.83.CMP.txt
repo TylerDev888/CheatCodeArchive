@@ -1,0 +1,12 @@
+^3 = NAME: Interlude (Ntsc-J)
+^2 = GameID: SLPS-25283
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9040FC38 0C103EB6
+!!
++Enable Debug Mode [Note] {<I>* Holding L1 + R1 When The Game Is First Starting Up Will Send You To A Debug Screen<Br>* Holding Select When The Game Is First Starting Up Will Send You To A System Debug Information Screen.<Br>* Starting A New Game Will Open A Debug Menu.</I>}
+%Credits: punk7890
+$2048AD28 00000001
+!!
+

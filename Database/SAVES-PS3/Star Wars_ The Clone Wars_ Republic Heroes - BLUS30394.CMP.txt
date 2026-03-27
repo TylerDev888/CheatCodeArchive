@@ -1,0 +1,12 @@
+^2 = GameID: BLUS30394
+^3 = NAME: Star Wars: The Clone Wars: Republic Heroes
+(By Dark Nacho)
+^4 = FILE: SAVE.DAT
++9999 Points
+$20001F58 0000270F
++Update Crc32 For Save.dat (required)
+(set range:0x000004,0x005003)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

@@ -1,0 +1,45 @@
+^3 = NAME: Red Card Football (Pal-Unk)
+^2 = GameID: SLES-50711
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0000000 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F015A7F0 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F015A7F0 0015A7F3
+!!
++Away Forwards Are Speedy
+%Credits: Codejunkies
+$203E2D48 41800000
+$203E2A18 41800000
++Away Keeper Is Rooted To The Spot
+%Credits: Codejunkies
+$203E3110 00000018
++Ball Moon Jump (Hold L2)
+%Credits: InterAct
+$D03F7F42 0000FEFF
+$203DE9E4 40C001CE
++Home Forwards Are Speedy
+%Credits: Codejunkies
+$203DFD78 41800000
+$203E0708 41800000
++Home Keeper Is Rooted To The Spot
+%Credits: Codejunkies
+$203E0E00 00000018
++Player 1 - Score 99
+%Credits: InterAct
+$D03EF5B4 00000000
+$003E77D8 00000063
+$D03EF5B4 00000001
+$003E77EC 00000063
++Player 1 Full Boost
+%Credits: InterAct
+$D03EF5B4 00000000
+$203E78C0 42C80000
+$D03EF5B4 00000001
+$203E78C4 42C80000
+!!
+

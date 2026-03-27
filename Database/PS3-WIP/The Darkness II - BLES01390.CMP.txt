@@ -1,0 +1,18 @@
+^2 = GameID: BLES01390
+^3 = NAME: The Darkness II
+(Keha)
+^4 = FILE: CONTINUE.SAV
++Essence 999 *3 Figures Of Current Price
+$search 0x54616C656E74506F696E74733D:1
+$write next D: 393939
++Essence 9999 *4 Figures Of Current Price
+$search 0x54616C656E74506F696E74733D:1
+$write next D: 39393939
++Essence 99999 *5 Figures Of Current Price
+$search 0x54616C656E74506F696E74733D:1
+$write next D: 3939393939
++Update Md5 Hashes (required)
+$set pointer:eof
+$set range:0x10, pointer+1
+$set [md5]:md5
+$write at 0x0:[md5]

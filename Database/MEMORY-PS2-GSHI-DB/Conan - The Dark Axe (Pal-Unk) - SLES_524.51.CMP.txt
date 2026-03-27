@@ -1,0 +1,27 @@
+^3 = NAME: Conan - The Dark Axe (Pal-Unk)
+^2 = GameID: SLES-52451
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0275DE8 00275DEB
+!!
++Infinite Health
+%Credits: Codejunkies
+$E0030000 102D9930
+$E0020000 102D9932
+$602D9930 000042C8
+$00010001 00000057
++Infinite Skill/Xp Points
+%Credits: Codejunkies
+$E0030000 102D9930
+$E0020000 102D9932
+$602D9930 0000270F
+$00010001 00000380
++Infinite Stamina
+%Credits: Codejunkies
+$E0030000 102D9930
+$E0020000 102D9932
+$602D9930 000042C8
+$00010001 000001C9
+!!
+

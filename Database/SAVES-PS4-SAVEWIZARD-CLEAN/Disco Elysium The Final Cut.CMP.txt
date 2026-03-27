@@ -1,0 +1,48 @@
+^2 = GameID: CUSA26506,CUSA26591,CUSA34014
+^3 = NAME: Disco Elysium: The Final Cut
+^SECONDLAYER: YES(ZIP)
+^4 = FILE: (DiscoElysiumSaveData|[0-9a-f]+\(.+\.ntwtf|[0-9a-f]+)\.zip)
++Attributes
+$800[Attribute]000C 494E4954
+$49414C5F 44494345
+$0800002D 0000003[Quantity]
++Health Healing Item
+$8001000C 6865616C
+$696E6750 6F6F6C73
+$0800002A 0000003[Quantity]
++Morale Healing Item
+$8001000C 6865616C
+$696E6750 6F6F6C73
+$88010004 564F4C49
+$0800000B 0000003[Quantity]
++Unlock A Thought{Need To Stack About 50 Times Or Stack A Few And Use Code Multiple Times You Don't Have To Change The 1 After 800 You Are Replacing What You Are Searching For Each Time}
+$8001001C 554E4B4E
+$4F574E22 2C0A2020
+$20202020 20202020
+$20202020 20202274
+$A8000000 00000026
+$4B4E4F57 4E222C0A
+$20202020 20202020
+$20202020 20202020
+$2274696D 654C6566
+$74223A20 30300000
+^6 = MODS:
+[Attribute]
+Value>Attribute
+1	intellect
+2	psyche
+3	physique
+4	motoric
+[/Attribute]
+[Quantity]
+Value>Amount
+1	1
+2	2
+3	3
+4	4
+5	5
+6	6
+7	7
+8	8
+9	9
+[/Quantity]

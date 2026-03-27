@@ -1,0 +1,9 @@
+^2 = GameID: BCES00002
+^3 = NAME: Genji: Days of the Blade
+^4 = FILE: USR-DATA
++Update Add For Usr-data (required)
+$set [csum]:0
+(set [csum]:add(0x000010,0x00FFFF))
+$set pointer:eof+1
+$set [csum]:add(0x000010,pointer)
+$write at 0x00000C:[csum]

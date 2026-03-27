@@ -1,0 +1,1085 @@
+^2 = GameID: CUSA24782, CUSA36157, CUSA37521, CUSA37522
+^3 = NAME: Persona 3 Reload
+^5 = APCRED:
+^4 = FILE: ue4savegame\.ps4\.sav
++Edit Characters Max Exp
+$8001000C [Char]010100
+$03000000 B4020000
+$92000000 0000000C
+$28000054 05F5E0FF
++Edit Main Characters Personas
+$8001000C 00010100
+$03000000 B4020000
+$92000000 00000058
+$92000000 [Slot]
+$18000002 0000[Persona]
+$28000008 [Amount:05F5E0FF:HEX:BIG<Exp>]
+$1800000C 0000[Skill<Skill 1>]
+$1800000E 0000[Skill<Skill 2>]
+$18000010 0000[Skill<Skill 3>]
+$18000012 0000[Skill<Skill 4>]
+$18000014 0000[Skill<Skill 5>]
+$18000016 0000[Skill<Skill 6>]
+$18000018 0000[Skill<Skill 7>]
+$1800001A 0000[Skill<Skill 8>]
+$0800001C 000000[Amount:63:HEX:BIG<St>]
+$0800001D 000000[Amount:63:HEX:BIG<Ma>]
+$0800001E 000000[Amount:63:HEX:BIG<En>]
+$0800001F 000000[Amount:63:HEX:BIG<Ag>]
+$08000020 000000[Amount:63:HEX:BIG<Lu>]
++Edit Persona in Compendium
+$8001000C 53000100
+$01000000 00570000
+$92000000 0000000C
+$92000000 [CompSlot]
+$28000008 [Amount:05F5E0FF:HEX:BIG<Exp>]
+$1800000C 0000[Skill<Skill 1>]
+$1800000E 0000[Skill<Skill 2>]
+$18000010 0000[Skill<Skill 3>]
+$18000012 0000[Skill<Skill 4>]
+$18000014 0000[Skill<Skill 5>]
+$18000016 0000[Skill<Skill 6>]
+$18000018 0000[Skill<Skill 7>]
+$1800001A 0000[Skill<Skill 8>]
+$0800001C 000000[Amount:63:HEX:BIG<St>]
+$0800001D 000000[Amount:63:HEX:BIG<Ma>]
+$0800001E 000000[Amount:63:HEX:BIG<En>]
+$0800001F 000000[Amount:63:HEX:BIG<Ag>]
+$08000020 000000[Amount:63:HEX:BIG<Lu>]
+
+^6 = MODS:
+[Char]
+00	Makoto Yuki(MC)
+01	Yukari
+02	Junpei
+03	Akihiko
+04	Mitsuru
+05	Fuuka
+06	Aigis
+07	Ken
+08	Koromaru
+09	Shinjiro
+[/Char]
+[Slot]
+Value>Slot
+00000000	Slot 1
+00000030	Slot 2
+00000060	Slot 3
+00000090	Slot 4
+000000C0	Slot 5
+000000F0	Slot 6
+00000120	Slot 7
+00000150	Slot 8
+00000180	Slot 9
+000001B0	Slot 10
+000001E0	Slot 11
+00000210	Slot 12
+[/Slot]
+[Persona]
+Value>Persona
+0001	Io
+0002	Isis
+0003	Hermes
+0004	Trismegistus
+0005	Polydeuces
+0006	Caesar
+0007	Penthesilea
+0008	Artemisia
+0009	Lucia
+000A	Juno
+000B	Palladion
+000C	Athena
+000D	Nemesis
+000E	Kala-Nemi
+000F	Castor
+0010	Cerberus
+0023	Archangel
+0024	Asura
+0025	Atavaka
+0026	Attis
+0027	Atropos
+0028	Ananta
+0029	Anubis
+002A	Abaddon
+002B	Apsaras
+002C	Arahabaki
+002D	Ara Mitama
+002E	Alice
+002F	Alilat
+0030	Inugami
+0031	Incubus
+0032	Virtue
+0033	Vasuki
+0034	Valkyrie
+0035	Vishnu
+0036	Uriel
+0037	Eligor
+0038	Angel
+0039	Okuninushi
+003A	Odin
+003B	Ose
+003C	Oni
+003D	Oberon
+003E	Omoikane
+003F	Orthrus
+0040	Orpheus
+0041	Orpheus Telos
+0042	Orobas
+0043	Onmoraki
+0044	Kali
+0045	Ganesha
+0046	Hua Po
+0047	Gabriel
+0048	Garuda
+0049	Ganga
+004A	Kaiwan
+004B	Kikuri-hime
+004C	Chimera
+004D	Cybele
+004E	Girimekhala
+004F	King Frost
+0050	Queen Medb
+0051	Cu Chulainn
+0052	Kumbhanda
+0053	Kushi Mitama
+0054	Kurama Tengu
+0055	Gurulu
+0056	Clotho
+0057	Quetzalcoatl
+0058	Genbu
+0059	Koumokuten
+005A	Kohryu
+005B	Saki Mitama
+005C	Succubus
+005D	Satan
+005E	Sati
+005F	Saturnus
+0060	Samael
+0061	Sarasvati
+0062	Thunderbird
+0063	Sandalphon
+0064	Sandman
+0065	Siegfried
+0066	Shiisaa
+0067	Shiva
+0068	Shiki-Ouji
+0069	Jikokuten
+006A	Black Frost
+006B	Jatayu
+006C	Jack Frost
+006D	Jack-o'-Lantern
+006E	Chi You
+006F	Silky
+0070	Scathach
+0071	Skadi
+0072	Suzaku
+0073	Susano-o
+0074	Slime
+0075	Surt
+0076	Qitian Dasheng
+0077	Seiryu
+0078	Setanta
+0079	Seth
+007A	Zouchouten
+007B	Throne
+007C	Dakini
+007D	Daisoujou
+007E	Take-Mikazuchi
+007F	Take-Minakata
+0080	Thanatos
+0081	Tam Lin
+0082	Chernobog
+0083	Dionysus
+0084	Titania
+0085	Decarabia
+0086	Thoth
+0087	Thor
+0088	Dominion
+0089	Trumpeter
+008A	Naga
+008B	Naga Raja
+008C	Narcissus
+008D	Nidhoggr
+008E	Nigi Mitama
+008F	Neko Shogun
+0090	Nekomata
+0091	Nebiros
+0092	Norn
+0093	Baal Zebul
+0094	Parvati
+0095	High Pixie
+0096	Pazuzu
+0097	Hanuman
+0098	Baphomet
+0099	Hariti
+009A	Barong
+009B	Power
+009C	Pixie
+009D	Pisaca
+009E	Bishamonten
+009F	Byakko
+00A0	Fortuna
+00A1	Forneus
+00A2	Futsunushi
+00A3	Flauros
+00A4	Principality
+00A5	Pale Rider
+00A6	Hecatoncheires
+00A7	Berith
+00A8	Hell Biker
+00A9	Beelzebub
+00AA	Belphegor
+00AB	Houou
+00AC	Horus
+00AD	White Rider
+00AE	Mara
+00AF	Mother Harlot
+00B0	Masakado
+00B1	Mada
+00B2	Matador
+00B3	Michael
+00B4	Mishaguji
+00B5	Mitra
+00B6	Mithras
+00B7	Messiah
+00B8	Metatron
+00B9	Melchizedek
+00BA	Mokoi
+00BB	Mothman
+00BC	Mot
+00BD	Yakshini
+00BE	Yatagarasu
+00BF	Yamata-no-Orochi
+00C0	Unicorn
+00C2	Yurlungur
+00C3	Rakshasa
+00C4	Lakshmi
+00C5	Lachesis
+00C6	Raphael
+00C7	Lamia
+00C8	Rangda
+00C9	Leanan Sidhe
+00CA	Lilith
+00CB	Lilim
+00CC	Lucifer
+00CD	Helel
+00CE	Legion
+00CF	Loa
+00D0	Loki
+00DD	Moros
+00DE	Medea
+00DF	Hypnos
+00E8	Surt
+00E9	Jack Frost
+00EA	Thor
+00EB	Cu Chulainn
+00EC	Metatron
+00ED	Alice
+00EE	Nebiros
+00EF	Masakado
+00F0	Pixie
+012C	Arsène
+012D	Captain Kidd
+012E	Zorro
+012F	Carmen
+0130	Goemon
+0131	Johanna
+0132	Milady
+0133	Robin Hood
+0134	Cendrillon
+0135	Satanael
+0136	Seiten Taisei
+0137	Mercurius
+0138	Hecate
+0139	Kamu Susano-o
+013A	Anat
+013B	Astarte
+013C	Loki
+013D	Vanadis
+013E	Izanagi
+013F	Magatsu-Izanagi
+0140	Kaguya
+[/Persona]
+[CompSlot]
+Value>Persona
+0030	Io
+0060	Isis
+0090	Hermes
+00C0	Trismegistus
+00F0	Polydeuces
+0120	Caesar
+0150	Penthesilea
+0180	Artemisia
+01B0	Lucia
+01E0	Juno
+0210	Palladion
+0240	Athena
+0270	Nemesis
+02A0	Kala-Nemi
+02D0	Castor
+0300	Cerberus
+0690	Archangel
+06C0	Asura
+06F0	Atavaka
+0720	Attis
+0750	Atropos
+0780	Ananta
+07B0	Anubis
+07E0	Abaddon
+0810	Apsaras
+0840	Arahabaki
+0870	Ara Mitama
+08A0	Alice
+08D0	Alilat
+0900	Inugami
+0930	Incubus
+0960	Virtue
+0990	Vasuki
+09C0	Valkyrie
+09F0	Vishnu
+0A20	Uriel
+0A50	Eligor
+0A80	Angel
+0AB0	Okuninushi
+0AE0	Odin
+0B10	Ose
+0B40	Oni
+0B70	Oberon
+0BA0	Omoikane
+0BD0	Orthrus
+0C00	Orpheus
+0C30	Orpheus Telos
+0C60	Orobas
+0C90	Onmoraki
+0CC0	Kali
+0CF0	Ganesha
+0D20	Hua Po
+0D50	Gabriel
+0D80	Garuda
+0DB0	Ganga
+0DE0	Kaiwan
+0E10	Kikuri-hime
+0E40	Chimera
+0E70	Cybele
+0EA0	Girimekhala
+0ED0	King Frost
+0F00	Queen Medb
+0F30	Cu Chulainn
+0F60	Kumbhanda
+0F90	Kushi Mitama
+0FC0	Kurama Tengu
+0FF0	Gurulu
+1020	Clotho
+1050	Quetzalcoatl
+1080	Genbu
+10B0	Koumokuten
+10E0	Kohryu
+1110	Saki Mitama
+1140	Succubus
+1170	Satan
+11A0	Sati
+11D0	Saturnus
+1200	Samael
+1230	Sarasvati
+1260	Thunderbird
+1290	Sandalphon
+12C0	Sandman
+12F0	Siegfried
+1320	Shiisaa
+1350	Shiva
+1380	Shiki-Ouji
+13B0	Jikokuten
+13E0	Black Frost
+1410	Jatayu
+1440	Jack Frost
+1470	Jack-o'-Lantern
+14A0	Chi You
+14D0	Silky
+1500	Scathach
+1530	Skadi
+1560	Suzaku
+1590	Susano-o
+15C0	Slime
+15F0	Surt
+1620	Qitian Dasheng
+1650	Seiryu
+1680	Setanta
+16B0	Seth
+16E0	Zouchouten
+1710	Throne
+1740	Dakini
+1770	Daisoujou
+17A0	Take-Mikazuchi
+17D0	Take-Minakata
+1800	Thanatos
+1830	Tam Lin
+1860	Chernobog
+1890	Dionysus
+18C0	Titania
+18F0	Decarabia
+1920	Thoth
+1950	Thor
+1980	Dominion
+19B0	Trumpeter
+19E0	Naga
+1A10	Naga Raja
+1A40	Narcissus
+1A70	Nidhoggr
+1AA0	Nigi Mitama
+1AD0	Neko Shogun
+1B00	Nekomata
+1B30	Nebiros
+1B60	Norn
+1B90	Baal Zebul
+1BC0	Parvati
+1BF0	High Pixie
+1C20	Pazuzu
+1C50	Hanuman
+1C80	Baphomet
+1CB0	Hariti
+1CE0	Barong
+1D10	Power
+1D40	Pixie
+1D70	Pisaca
+1DA0	Bishamonten
+1DD0	Byakko
+1E00	Fortuna
+1E30	Forneus
+1E60	Futsunushi
+1E90	Flauros
+1EC0	Principality
+1EF0	Pale Rider
+1F20	Hecatoncheires
+1F50	Berith
+1F80	Hell Biker
+1FB0	Beelzebub
+1FE0	Belphegor
+2010	Houou
+2040	Horus
+2070	White Rider
+20A0	Mara
+20D0	Mother Harlot
+2100	Masakado
+2130	Mada
+2160	Matador
+2190	Michael
+21C0	Mishaguji
+21F0	Mitra
+2220	Mithras
+2250	Messiah
+2280	Metatron
+22B0	Melchizedek
+22E0	Mokoi
+2310	Mothman
+2340	Mot
+2370	Yakshini
+23A0	Yatagarasu
+23D0	Yamata-no-Orochi
+2400	Unicorn
+2460	Yurlungur
+2490	Rakshasa
+24C0	Lakshmi
+24F0	Lachesis
+2520	Raphael
+2550	Lamia
+2580	Rangda
+25B0	Leanan Sidhe
+25E0	Lilith
+2610	Lilim
+2640	Lucifer
+2670	Helel
+26A0	Legion
+26D0	Loa
+2700	Loki
+2970	Moros
+29A0	Medea
+29D0	Hypnos
+2B80	Surt
+2BB0	Jack Frost
+2BE0	Thor
+2C10	Cu Chulainn
+2C40	Metatron
+2C70	Alice
+2CA0	Nebiros
+2CD0	Masakado
+2D00	Pixie
+3840	Arsène
+3870	Captain Kidd
+38A0	Zorro
+38D0	Carmen
+3900	Goemon
+3930	Johanna
+3960	Milady
+3990	Robin Hood
+39C0	Cendrillon
+39F0	Satanael
+3A20	Seiten Taisei
+3A50	Mercurius
+3A80	Hecate
+3AB0	Kamu Susano-o
+3AE0	Anat
+3B10	Astarte
+3B40	Loki
+3B70	Vanadis
+3BA0	Izanagi
+3BD0	Magatsu-Izanagi
+3C00	Kaguya
+[/CompSlot]
+[Skill]
+Value>Skill>Description
+000A	Agi	Deals weak Fire damage to 1 foe.
+000B	Agilao	Deals medium Fire damage to 1 foe.
+000C	Agidyne	Deals heavy Fire damage to 1 foe.
+000D	Maragi	Deals weak Fire damage to all foes.
+000E	Maragion	Deals medium Fire damage to all foes.
+000F	Maragidyne	Deals heavy Fire damage to all foes.
+0010	Inferno	Deals severe Fire damage to 1 foe.
+0012	Maralagidyne	Deals heavy Fire damage to all foes. Low chance of inflicting Charm.
+0014	Bufu	Deals weak Ice damage to 1 foe. Low chance of inflicting Freeze.
+0015	Bufula	Deals medium Ice damage to 1 foe. Low chance of inflicting Freeze.
+0016	Bufudyne	Deals heavy Ice damage to 1 foe. Low chance of inflicting Freeze.
+0017	Mabufu	Deals weak Ice damage to all foes. Low chance of inflicting Freeze.
+0018	Mabufula	Deals medium Ice damage to all foes. Low chance of inflicting Freeze.
+0019	Mabufudyne	Deals heavy Ice damage to all foes. Low chance of inflicting Freeze.
+001A	Diamond Dust	Deals severe Ice damage to 1 foe. Medium chance of inflicting Freeze.
+001E	Garu	Deals weak Wind damage to 1 foe.
+001F	Garula	Deals medium Wind damage to 1 foe.
+0020	Garudyne	Deals heavy Wind damage to 1 foe.
+0021	Magaru	Deals weak Wind damage to all foes.
+0022	Magarula	Deals medium Wind damage to all foes.
+0023	Magarudyne	Deals heavy Wind damage to all foes.
+0024	Panta Rhei	Deals severe Wind damage to 1 foe.
+0028	Zio	Deals weak Electric damage to 1 foe. Low chance of inflicting Shock.
+0029	Zionga	Deals medium Electric damage to 1 foe. Low chance of inflicting Shock.
+002A	Ziodyne	Deals heavy Electric damage to 1 foe. Low chance of inflicting Shock.
+002B	Mazio	Deals weak Electric damage to all foes. Low chance of inflicting Shock.
+002C	Mazionga	Deals medium Electric damage to all foes. Low chance of inflicting Shock.
+002D	Maziodyne	Deals heavy Electric damage to all foes. Low chance of inflicting Shock.
+002E	Thunder Reign	Deals severe Electric damage to 1 foe. Medium chance of inflicting Shock.
+0032	Hama	Low chance of Light instakill to 1 foe.
+0033	Hamaon	Medium chance of Light instakill to 1 foe.
+0034	Mahama	Low chance of Light instakill to all foes.
+0035	Mahamaon	Medium chance of Light instakill to all foes.
+0036	Samsara	High chance of Light instakill to all foes.
+0038	Kouha	Deals weak Light damage to 1 foe.
+0039	Kouga	Deals medium Light damage to 1 foe.
+003A	Kougaon	Deals heavy Light damage to 1 foe.
+003B	Makouha	Deals weak Light damage to all foes.
+003C	Makouga	Deals medium Light damage to all foes.
+003D	Makougaon	Deals heavy Light damage to all foes.
+003E	Divine Judgement	Light attack that reduces HP of 1 foe by 50%.
+0040	Mudo	Low chance of Dark instakill to 1 foe.
+0041	Mudoon	Medium chance of Dark instakill to 1 foe.
+0042	Mamudo	Low chance of Dark instakill to all foes.
+0043	Mamudoon	Medium chance of Dark instakill to all foes.
+0044	Die For Me!	High chance of Dark instakill to all foes.
+0046	Eiha	Deals weak Dark damage to 1 foe.
+0047	Eiga	Deals medium Dark damage to 1 foe.
+0048	Eigaon	Deals heavy Dark damage to 1 foe.
+0049	Maeiha	Deals weak Dark damage to all foes.
+004A	Maeiga	Deals medium Dark damage to all foes.
+004B	Maeigaon	Deals heavy Dark damage to all foes.
+004C	Demonic Decree	Dark attack that reduces HP of 1 foe by 50%.
+004E	Megido	Deals medium Almighty damage to all foes.
+004F	Megidola	Deals heavy Almighty damage to all foes.
+0050	Megidolaon	Deals severe Almighty damage to all foes.
+0051	Black Viper	Deals massive Almighty damage to 1 foe.
+0052	Morning Star	Deals massive Almighty damage to all foes.
+0055	Poisma	High chance of Poison to 1 foe.
+0056	Poison Mist	Medium chance of Poison to all foes.
+0057	Marin Karin	High chance of Charm to 1 foe.
+0058	Sexy Dance	Medium chance of Charm to all foes.
+0059	Bewilder	High chance of Distress to 1 foe.
+005A	Eerie Sound	Medium chance of Distress to all foes.
+005B	Pulinpa	High chance of Confuse to 1 foe.
+005C	Tentarafoo	Medium chance of Confuse to all foes.
+005D	Evil Touch	High chance of Fear to 1 foe.
+005E	Evil Smile	Medium chance of Fear to all foes.
+005F	Provoke	High chance of Rage to 1 foe.
+0060	Infuriate	Medium chance of Rage to all foes.
+0064	Ghastly Wail	Instakill all foes afflicted with Fear.
+0065	Foul Breath	Increase chance of inflicting ailments to 1 foe.
+0066	Stagnant Air	Increase chance of inflicting ailments to all combatants.
+0067	Life Drain	Drain some HP from 1 foe, restoring the user's HP.
+0068	Spirit Drain	Drain some SP from 1 foe, restoring the user's SP.
+0069	Virus Breath	Medium Almighty damage with medium chance of Poison to all foes.
+006E	Power Slash	Deals weak Slash damage to 1 foe.
+006F	Fatal End	Deals medium Slash damage to 1 foe. Low chance of inflicting Fear.
+0070	Tempest Slash	Deals weak Slash damage to 1 foe (1-4 hits).
+0071	Vacuum Slash	Deals weak Slash damage to all foes.
+0072	Blade of Fury	Deals weak Slash damage to all foes (2-4 hits).
+0073	Deathbound	Deals heavy Slash damage to all foes.
+0074	Brave Blade	Deals severe Slash damage to 1 foe.
+0075	Vorpal Blade	Deals severe Slash damage to all foes.
+0076	Heaven's Blade	Deals severe Slash damage to 1 foe. High chance of critical.
+0077	Getsu-ei	Medium Slash damage to 1 foe. More damage when closer to a full moon.
+0078	Zan-ei	Medium Slash damage to 1 foe. More damage when closer to a new moon.
+0079	Neuro Slash	Deals medium Slash damage to all foes. Low chance of Confuse.
+007D	Bash	Deals weak Strike damage to 1 foe.
+007E	Assault Dive	Deals medium Strike damage to 1 foe.
+007F	Gigantic Fist	Deals heavy Strike damage to 1 foe.
+0080	Swift Strike	Deals weak Strike damage to all foes (1-2 hits).
+0081	Herculean Strike	Deals heavy Strike damage to all foes.
+0082	Heat Wave	Deals heavy Strike damage to all foes.
+0083	God's Hand	Deals massive Strike damage to 1 foe.
+0084	Akasha Arts	Deals heavy Strike damage to all foes (1-2 hits).
+0085	Sonic Punch	Deals weak Strike damage to 1 foe. Low chance of inflicting Distress.
+008B	Single Shot	Deals weak Pierce damage to 1 foe.
+008C	Holy Arrow	Deals weak Pierce damage to 1 foe. Low chance of Charm.
+008D	Torrent Shot	Deals weak Pierce damage to 1 foe (2-4 hits).
+008E	Vile Assault	Deals heavy Pierce damage to 1 foe. More damage to downed foe.
+008F	Arrow Rain	Deals weak Pierce damage to all foes (1-4 hits).
+0090	Myriad Arrows	Deals weak Pierce damage to all foes (2-5 hits).
+0091	Cruel Attack	Deals medium Pierce damage to 1 foe. More damage to downed foe.
+0092	Primal Force	Deals severe Pierce damage to 1 foe.
+0093	Pralaya	Deals severe Pierce damage to all foes. Medium chance of Fear.
+0094	Poison Arrow	Deals heavy Pierce damage to 1 foe. Medium chance of Poison.
+009B	Dia	Slightly restores 1 ally's HP.
+009C	Diarama	Moderately restores 1 ally's HP.
+009D	Diarahan	Fully restores 1 ally's HP.
+00A0	Media	Slightly restores party's HP.
+00A1	Mediarama	Moderately restores party's HP.
+00A2	Mediarahan	Fully restores party's HP.
+00A3	Salvation	Fully restores party's HP and cures all ailments besides KO.
+00A5	Recarm	Revives 1 fallen ally with 50% HP.
+00A6	Samarecarm	Revives 1 fallen ally with full HP.
+00A7	Recarmdra	Fully restores party's HP. User's HP is reduced to 1.
+00AA	Patra	Cures Distress/Confuse/Charm/Rage/Fear for 1 ally.
+00AB	Me Patra	Cures Distress/Confuse/Charm/Rage/Fear for all allies.
+00AC	Baisudi	Cures Freeze/Shock/Poison/Down/Dizzy for 1 ally.
+00AD	Mabaisudi	Cures Freeze/Shock/Poison/Down/Dizzy for all allies.
+00B0	Amrita Shower	Cures all ailments besides KO for all allies.
+00B1	Amrita Drop	Cures all ailments besides KO for 1 ally.
+00B4	Tarukaja	Increases 1 ally's Attack for 3 turns.
+00B5	Rakukaja	Increases 1 ally's Defense for 3 turns.
+00B6	Sukukaja	Increases 1 ally's Accuracy/Evasion for 3 turns.
+00B9	Matarukaja	Increases party's Attack for 3 turns.
+00BA	Marakukaja	Increases party's Defense for 3 turns.
+00BB	Masukukaja	Increases party's Accuracy/Evasion for 3 turns.
+00BC	Heat Riser	Increases 1 ally's Attack, Defense, and Accuracy/Evasion for 3 turns.
+00BE	Tarunda	Decreases 1 foe's Attack for 3 turns.
+00BF	Rakunda	Decreases 1 foe's Defense for 3 turns.
+00C0	Sukunda	Decreases 1 foe's Accuracy/Evasion for 3 turns.
+00C3	Matarunda	Decreases all foes' Attack for 3 turns.
+00C4	Marakunda	Decreases all foes' Defense for 3 turns.
+00C5	Masukunda	Decreases all foes' Accuracy/Evasion for 3 turns.
+00C6	Debilitate	Decreases 1 foe's Attack, Defense, and Accuracy/Evasion for 3 turns.
+00C8	Dekaja	Nullify stat buffs for all foes.
+00C9	Dekunda	Nullify stat debuffs for all allies.
+00CD	Charge	Next physical attack will deal more than double the damage.
+00CE	Concentrate	Next magic attack will deal more than double the damage.
+00CF	Bloody Charge	Consumes HP to increase critical rate and next physical attack damage.
+00D2	Rebellion	Increases 1 ally's critical rate for 3 turns.
+00D3	Revolution	Greatly increases all allies and foes' critical rate for 3 turns.
+00D7	Tetrakarn	Erect a barrier for 1 ally that repels 1 physical attack.
+00D8	Makarakarn	Erect a barrier for 1 ally that repels 1 (non-Almighty) magic attack.
+00DC	Fire Break	Negate Fire resistance of all foes for 3 turns.
+00DD	Ice Break	Negate Ice resistance of all foes for 3 turns.
+00DE	Wind Break	Negate Wind resistance of all foes for 3 turns.
+00DF	Elec Break	Negate Electric resistance of all foes for 3 turns.
+00E6	Sinful Shell	Massive Almighty damage and medium chance of Dark instakill to all foes.
+00E7	Wild Thunder	Deals severe Electric damage to all foes. Low chance of inflicting Shock.
+00E8	Vacuum Wave	Deals severe Wind damage to all foes.
+00E9	Blazing Hell	Deals severe Fire damage to all foes.
+00EA	Ice Age	Deals severe Ice damage to all foes. Low chance of inflicting Freeze.
+00EB	Cosmic Flare	Deals severe Almighty damage to all foes.
+00EC	One-shot Kill	Deals severe Pierce damage to 1 foe. High chance of critical.
+00ED	Rebellion Blade	Deals massive Almighty damage to 1 foe. More damage to downed foe.
+00EE	Masquerade	Medium Slash damage to all foes (2 hits). High chance of critical.
+00EF	Cross Slash	Deals medium Slash damage to 1 foe (2 hits).
+00F0	Magatsu Mandala	Heavy Dark damage with medium chance of Fear or Confuse to all foes.
+00F1	Shining Arrows	Deals weak Light damage to all foes (4-8 hits).
+00F5	Full Analysis	Fully reveal the affinities of 1 foe.
+00F6	Escape Route	Return to the entrance of Tartarus.
+00F7	Jamming	Prevents detection by enemies until entering battle or changing floors.
+00F8	Tartarus Search	Fully reveals the current floor and provides a shortcut to the next floor.
+00F9	Sylphid Aura	Increases party's Attack, Defense, and Accuracy/ Evasion in the next battle.
+00FA	Shock Noise	Inflicts Distress on all foes on the current floor.
+0104	Cadenza	Restores 50% HP and increases Accuracy/Evasion for all allies.
+0105	Jack Brothers	Deals medium Almighty damage to all foes. High chance of inflicting Down.
+0106	King and I	Heavy Ice damage to all foes, ignoring resistances. Medium chance of Freeze.
+0107	Best Friends	Next physical/magic attack will deal more than double damage for 1 ally.
+0108	Scarlet Havoc	Deals severe Slash damage to all foes, ignoring resistances.
+0109	Trickster	Massive Almighty damage to all foes. High chance of inflicting an ailment.
+010A	Armageddon	Ultimate Almighty damage to all foes, but reduces user's HP and SP to 1.
+0118	Cyclone Arrow	Deals severe Wind damage to 1 foe, ignoring resistances.
+0119	Hack n' Blast	Deals severe Slash damage to 1 foe, ignoring resistances.
+011A	Lightning Spike	Deals heavy Electric damage to all foes, ignoring resistances.
+011B	Blizzard Edge	Deals severe Ice damage to 1 foe, ignoring resistances.
+011C	Oracle	Grants 1 random positive effect to all allies.
+011D	Orgia Mode	Heavy Pierce dmg to all foes, ignoring resistances. Ignores orders for a time.
+011E	Divine Retribution	Deals severe Light damage to 1 foe, ignoring resistances.
+011F	Hound of Hades	Deals severe Dark damage to 1 foe, ignoring resistances.
+0120	Bleeding Fury	Deals severe Strike damage to 1 foe, ignoring resistances.
+0124	Tranquility	Next magic attack will deal more than double the damage for all allies.
+0125	Blaze of Life	Massive Fire damage to 1 foe, ignoring resistances. Fully restores user's HP.
+0126	Electric Onslaught	Severe Elec damage to 1 foe, ignoring resistances. High chance of Shock.
+0127	Blade of Execution	Massive Almighty damage to 1 foe and decreases all of their stats.
+0128	Revelation	Grants 1 random enhanced positive effect to all allies.
+0129	Maximum Firepower	Deals severe Pierce damage to 1 foe, ignoring resistances.
+012A	Divine Intervention	Revives party, fully restores allies' HP, and will reflect 1 attack.
+012B	Power Howling	Next physical attack will deal more than double the damage for all allies.
+0136	All-Out Attack	
+0137	Slash Attack	
+0138	Strike Attack	
+0139	Pierce Attack	
+013A	Fire Attack	
+013B	Ice Attack	
+013C	Electric Attack	
+013D	Wind Attack	
+013E	Light Attack	
+013F	Dark Attack	
+0140	Almighty Attack	
+0141	Summon	
+0142	Ice Storm	
+0143	Invitation to Chaos	
+0144	Doomsday Doctrine	
+0145	Paradigm Shift	
+0146	Heartbreaker	
+0147	Seductive Breath	
+0148	Holy Arrow	
+0149	Unite	
+014A	Separate	
+014B	Restore	
+014C	Armor-Piercing Shell	
+014D	High-Explosive Shell	
+014E	Frag Grenade	
+014F	Lightning Grenade	
+0150	Flash Grenade	
+0151	Flame Grenade	
+0152	Shock Grenade	
+0153	EX Flash Grenade	
+0154	Weakness Scan	
+0155	Potent Stim Injection	
+0156	Paradise of Quietus	
+0157	Pierce Attack	
+0158	Slash Attack	
+0159	Megidolaon	
+015A	Poison Mist	
+015B	Charging Complete	
+015C	Accelerated Charging	
+015D	High-Volt Current	
+015E	Mega Spark	
+015F	Giga Spark	
+0160	Tera Spark	
+0161	Megidolaon	
+0162	Neuro Slash	
+0163	Megidola	
+0164	Initiate Charging	
+0172	Sweep	
+0173	Sunder	
+0174	Night Queen	
+0175	Apocalypse	
+0176	Ice Storm	
+0177	Doomsday Doctrine	
+0178	Heartbreaker	
+0179	Tera Spark	
+017A	High-Volt Current	
+017B	Grim Transcendence	
+017C	Mobius Rondo	
+0182	Summon	
+0186	Death	
+0187	Great Seal	Unleashes the power within to seal Nyx.
+018F	Mahama	
+0190	Life Drain	
+0191	Myriad Arrows	
+0192	Spirit Drain	
+0193	Evil Smile	
+0194	Infuriate	
+0195	Spring of Life	
+0196	Sexy Dance	
+0197	Life Drain	
+0198	Slash Attack	
+0199	Strike Attack	
+019A	Pierce Attack	
+019B	Ziodyne	
+019C	Soul Drain	
+019D	Mahamaon	
+019E	Mamudoon	
+019F	Life Drain	
+01A0	Spirit Drain	
+01A1	Hamaon	
+01A2	Mudoon	
+01A3	Diarama	
+01A4	Assault Dive	
+01A5	Megidolaon	
+01A6	Tentarafoo	
+01A7	Neuro Slash	
+01F5	Drop Money	
+01F6	Drop Item	
+01F7	Freeze (low)	
+01F8	Freeze (med)	
+01F9	Freeze (high)	
+01FA	Shock (low)	
+01FB	Shock (med)	
+01FC	Shock (high)	
+01FD	Confuse (low)	
+01FE	Confuse (med)	
+01FF	Confuse (high)	
+0200	Fear (low)	
+0201	Fear (med)	
+0202	Fear (high)	
+0203	Distress (low)	
+0204	Distress (med)	
+0205	Distress (high)	
+0206	Charm (low)	
+0207	Charm (med)	
+0208	Charm (high)	
+0209	Rage (low)	
+020A	Rage (med)	
+020B	Rage (high)	
+020C	Poison (low)	
+020D	Poison (med)	
+020E	Poison (high)	
+020F	All Ailments (low)	
+0210	All Ailments (med)	
+0211	All Ailments (high)	
+0258	Medicine	
+0259	Bead	
+025A	Bead Chain	
+025B	Precious Egg	
+025C	Potent Medicine	
+025D	Medical Powder	
+025E	Muscle Drink	
+025F	Odd Morsel	
+0260	Rancid Gravy	
+0261	Umugi Water	
+0262	Bread	
+0263	Cutlet Sandwich	
+0264	Snuff Soul	
+0265	Chewing Soul	
+0266	Soma	
+0267	SP Drink	
+0268	Dis-Poison	
+0269	Dis-Rage	
+026A	Dis-Charm	
+0278	Purifying Rice	
+0279	Curse Paper	
+027A	Flame Magatama	
+027B	Frigid Magatama	
+027C	Shock Magatama	
+027D	Gale Magatama	
+027E	Homunculus	
+027F	Plume of Gold	
+0280	Life Stone	
+0281	Mega Kudzu	
+0282	Value Medicine	
+0283	First Aid Kit M	
+0284	Soul Drop	
+0285	Kouga Gem	
+0286	Makouha Gem	
+0287	Eiga Gem	
+0288	Maeiha Gem	
+0289	Holy Magatama	
+028A	Malice Magatama	
+028B	Dis-Distress	
+028C	Dis-Confuse	
+028D	Dis-Fear	
+028E	Amrita Gem	
+028F	Defrost Powder	
+0290	Antistatic Paper	
+0291	Smelling Salts	
+0292	Weird Takoyaki	
+0293	HP Drink	
+0294	Single-target Dekunda	
+029A	Soul Spinach	
+029B	Leafy Soul Spinach	
+029C	Golden Tomato	
+029D	Big Golden Tomato	
+029E	Tiny Golden Tomato	
+029F	Golden Tomato EX	
+02A0	Platinum Tomato	
+02BC	Resist Slash	Increase resistance to Slash damage. Negates Slash weakness.
+02BD	Null Slash	Nullify Slash damage.
+02BE	Repel Slash	Reflect Slash damage back to the foe.
+02BF	Drain Slash	Absorb incoming Slash damage so that it heals instead of harms.
+02C0	Resist Strike	Increase resistance to Strike damage. Negates Strike weakness.
+02C1	Null Strike	Nullify Strike damage.
+02C2	Repel Strike	Reflect Strike damage back to the foe.
+02C3	Drain Strike	Absorb incoming Strike damage so that it heals instead of harms.
+02C4	Resist Pierce	Increase resistance to Pierce damage. Negates Pierce weakness.
+02C5	Null Pierce	Nullify Pierce damage.
+02C6	Repel Pierce	Reflect Pierce damage back to the foe.
+02C7	Drain Pierce	Absorb incoming Pierce damage so that it heals instead of harms.
+02C8	Resist Fire	Increase resistance to Fire damage. Negates Fire weakness.
+02C9	Null Fire	Nullify Fire damage.
+02CA	Repel Fire	Reflect Fire damage back to the foe.
+02CB	Drain Fire	Absorb incoming Fire damage so that it heals instead of harms.
+02CC	Resist Ice	Increase resistance to Ice damage. Negates Ice weakness.
+02CD	Null Ice	Nullify Ice damage.
+02CE	Repel Ice	Reflect Ice damage back to the foe.
+02CF	Drain Ice	Absorb incoming Ice damage so that it heals instead of harms.
+02D0	Resist Wind	Increase resistance to Wind damage. Negates Wind weakness.
+02D1	Null Wind	Nullify Wind damage.
+02D2	Repel Wind	Reflect Wind damage back to the foe.
+02D3	Drain Wind	Absorb incoming Wind damage so that it heals instead of harms.
+02D4	Resist Elec	Increase resistance to Electric damage. Negates Electric weakness.
+02D5	Null Elec	Nullify Electric damage.
+02D6	Repel Elec	Reflect Electric damage back to the foe.
+02D7	Drain Elec	Absorb incoming Electric damage so that it heals instead of harms.
+02D8	Resist Light	Increase resistance to Light damage. Negates Light weakness.
+02D9	Null Light	Nullify Light damage and instakills.
+02DA	Repel Light	Reflect Light damage and instakills back to the foe.
+02DB	Drain Light	Absorb incoming Light damage so that it heals instead of harms.
+02DC	Resist Dark	Increase resistance to Dark damage. Negates Dark weakness.
+02DD	Null Dark	Nullify Dark damage and instakills.
+02DE	Repel Dark	Reflect Dark damage and instakills back to the foe.
+02DF	Drain Dark	Absorb incoming Dark damage so that it heals instead of harms.
+02E2	Resist Dizzy	Decrease chances of being afflicted with Dizzy.
+02E3	Null Dizzy	Protects completely from being afflicted with Dizzy.
+02E4	Resist Poison	Decrease chances of being afflicted with Poison.
+02E5	Null Poison	Protects completely from being afflicted with Poison.
+02E6	Resist Charm	Decrease chances of being afflicted with Charm.
+02E7	Null Charm	Protects completely from being afflicted with Charm.
+02E8	Resist Distress	Decrease chances of being afflicted with Distress.
+02E9	Null Distress	Protects completely from being afflicted with Distress.
+02EA	Resist Confuse	Decrease chances of being afflicted with Confuse.
+02EB	Null Confuse	Protects completely from being afflicted with Confuse.
+02EC	Resist Fear	Decrease chances of being afflicted with Fear.
+02ED	Null Fear	Protects completely from being afflicted with Fear.
+02EE	Resist Rage	Decrease chances of being afflicted with Rage.
+02EF	Null Rage	Protects completely from being afflicted with Rage.
+02F0	Resist Freeze	Decrease chances of being afflicted with Freeze.
+02F1	Null Freeze	Protects completely from being afflicted with Freeze.
+02F2	Resist Shock	Decrease chances of being afflicted with Shock.
+02F3	Null Shock	Protects completely from being afflicted with Shock.
+02F4	Unshaken Will	Protects completely from Confuse/Fear/Charm/ Distress/Rage.
+02F5	Resist Ailments	Decrease chances of being afflicted with any ailment except Dizzy.
+02F7	Dodge Slash	Increase Evasion against Slash skills.
+02F8	Evade Slash	Greatly increase Evasion against Slash skills. Does not stack.
+02F9	Dodge Strike	Increase Evasion against Strike skills.
+02FA	Evade Strike	Greatly increase Evasion against Strike skills. Does not stack.
+02FB	Dodge Pierce	Increase Evasion against Pierce skills.
+02FC	Evade Pierce	Greatly increase Evasion against Pierce skills. Does not stack.
+02FD	Dodge Fire	Increase Evasion against Fire skills.
+02FE	Evade Fire	Greatly increase Evasion against Fire skills. Does not stack.
+02FF	Dodge Ice	Increase Evasion against Ice skills.
+0300	Evade Ice	Greatly increase Evasion against Ice skills. Does not stack.
+0301	Dodge Wind	Increase Evasion against Wind skills.
+0302	Evade Wind	Greatly increase Evasion against Wind skills. Does not stack.
+0303	Dodge Elec	Increase Evasion against Electric skills.
+0304	Evade Elec	Greatly increase Evasion against Electric skills. Does not stack.
+0305	Dodge Light	Increase Evasion against non-instakill Light skills.
+0306	Evade Light	Greatly increase Evasion against non-instakill Light skills. Does not stack.
+0307	Dodge Dark	Increase Evasion against non-instakill Dark skills.
+0308	Evade Dark	Greatly increase Evasion against non-instakill Dark skills. Does not stack.
+030B	Counter	10% chance of reflecting physical skills.
+030C	Counterstrike	15% chance of reflecting physical skills. Does not stack.
+030D	High Counter	20% chance of reflecting physical skills. Does not stack.
+0310	Regenerate 1	Automatically recover 2% of max HP each turn in battle.
+0311	Regenerate 2	Automatically recover 4% of max HP each turn in battle.
+0312	Regenerate 3	Automatically recover 6% of max HP each turn in battle.
+0314	Invigorate 1	Automatically recover 3 SP each turn in battle.
+0315	Invigorate 2	Automatically recover 5 SP each turn in battle.
+0316	Invigorate 3	Automatically recover 7 SP each turn in battle.
+0318	Slash Boost	Automatically strengthen Slash skills by 25%.
+0319	Slash Amp	Automatically strengthen Slash skills by 50%. Can stack.
+031A	Strike Boost	Automatically strengthen Strike skills by 25%.
+031B	Strike Amp	Automatically strengthen Strike skills by 50%. Can stack.
+031C	Pierce Boost	Automatically strengthen Pierce skills by 25%.
+031D	Pierce Amp	Automatically strengthen Pierce skills by 50%. Can stack.
+031E	Fire Boost	Automatically strengthen Fire skills by 25%.
+031F	Fire Amp	Automatically strengthen Fire skills by 50%. Can stack.
+0320	Ice Boost	Automatically strengthen Ice skills by 25%.
+0321	Ice Amp	Automatically strengthen Ice skills by 50%. Can stack.
+0322	Wind Boost	Automatically strengthen Wind skills by 25%.
+0323	Wind Amp	Automatically strengthen Wind skills by 50%. Can stack.
+0324	Elec Boost	Automatically strengthen Electric skills by 25%.
+0325	Elec Amp	Automatically strengthen Electric skills by 50%. Can stack.
+0326	Light Boost	Automatically strengthen Light skills by 25%.
+0327	Light Amp	Automatically strengthen Light skills by 50%. Can stack.
+0328	Dark Boost	Automatically strengthen Dark skills by 25%.
+0329	Dark Amp	Automatically strengthen Dark skills by 50%. Can stack.
+032B	Dizzy Boost	Increase chances of inflicting Dizzy.
+032C	Poison Boost	Increase chances of inflicting Poison.
+032D	Charm Boost	Increase chances of inflicting Charm.
+032E	Distress Boost	Increase chances of inflicting Distress.
+032F	Confuse Boost	Increase chances of inflicting Confuse.
+0330	Fear Boost	Increase chances of inflicting Fear.
+0331	Rage Boost	Increase chances of inflicting Rage.
+0332	Freeze Boost	Increase chances of inflicting Freeze.
+0333	Shock Boost	Increase chances of inflicting Shock.
+0334	Ailment Boost	Increase chances of inflicting ailments.
+0335	Hama Boost	Increase chances of instakill with Hama skills.
+0336	Mudo Boost	Increase chances of instakill with Mudo skills.
+0339	Auto Tarukaja	Temporarily increases user's Attack at the start of battle.
+033A	Auto Rakukaja	Temporarily increases user's Defense at the start of battle.
+033B	Auto Sukukaja	Temporarily increases user's Accuracy/Evasion at the start of battle.
+033C	Auto Mataru	Temporarily increases party's Attack at the start of battle.
+033D	Auto Maraku	Temporarily increases party's Defense at the start of battle.
+033E	Auto Masuku	Temporarily increases party's Accuracy/Evasion at the start of battle.
+033F	Auto Rebellion	Temporarily increases user's critical rate at the start of battle.
+0341	Sharp Student	Halves the chance of taking a critical hit.
+0342	Apt Pupil	Doubles the chance of dealing a critical hit.
+0343	Endure	Survive a fatal blow with 1 HP remaining.
+0344	Enduring Soul	Survive a fatal blow with HP fully recovered.
+0346	Life Aid	Recover 8% of max HP and SP after winning a battle.
+0347	Victory Cry	Fully recover HP and SP after winning a battle.
+0349	Divine Grace	Greatly increases the effect of healing skills.
+034A	Angelic Grace	Increases Evasion against Fire/Ice/Wind/Electric/ Light/Dark skills.
+034B	Raging Tiger	Increases Attack while afflicted by Rage.
+034C	Vidyaraja's Blessing	Increases Evasion against Slash/Strike/Pierce skills.
+034D	Growth 1	Earn 25% EXP, even when not participating in battle.
+034E	Growth 2	Earn 50% EXP, even when not participating in battle.
+034F	Growth 3	Earn 100% EXP, even when not participating in battle.
+0350	Ali Dance	Greatly reduces the hit rate of incoming attacks.
+0351	Firm Stance	Reduces incoming damage by half, but cannot dodge any attacks.
+0352	Survive Light	Medium chance to survive 1 Light instakill attack with 1 HP remaining.
+0353	Endure Light	Automatically survive 1 Light instakill attack with 1 HP remaining.
+0354	Survive Dark	Medium chance to survive 1 Dark instakill attack with 1 HP remaining.
+0355	Endure Dark	Automatically survive 1 Dark instakill attack with 1 HP remaining.
+0356	Survival Trick	Automatically survive 1 magic instakill attack with 1 HP remaining.
+0358	Arms Master	Reduces the HP cost of physical skills by half.
+0359	Spell Master	Reduces the SP cost of magic skills by half.
+035F	Almighty Boost	Automatically strengthen Almighty skills by 25%.
+0360	Almighty Amp	Automatically strengthen Almighty skills by 50%. Can stack.
+0361	Magic Ability	Automatically strengthen non-Almighty magic skills by 25%. Can stack.
+0362	Magic Mastery	Automatically strengthen non-Almighty magic skills by 50%. Can stack.
+0365	Fast Heal	Halves the time needed to recover from ailments.
+0366	Insta-Heal	Recover from ailments in 1 turn.
+0367	Resist Phys	Increase resistance to physical damage. Negates physical weaknesses.
+0368	Null Phys	Nullify physical damage.
+036B	Slash Driver	Automatically strengthen Slash skills by 75%. Can stack.
+036C	Strike Driver	Automatically strengthen Strike skills by 75%. Can stack.
+036D	Pierce Driver	Automatically strengthen Pierce skills by 75%. Can stack.
+036E	Fire Driver	Automatically strengthen Fire skills by 75%. Can stack.
+036F	Ice Driver	Automatically strengthen Ice skills by 75%. Can stack.
+0370	Elec Driver	Automatically strengthen Electric skills by 75%. Can stack.
+0371	Wind Driver	Automatically strengthen Wind skills by 75%. Can stack.
+0372	Light Driver	Automatically strengthen Light skills by 75%. Can stack.
+0373	Dark Driver	Automatically strengthen Dark skills by 75%. Can stack.
+0374	Crit Rate Boost	Increases critical rate.
+0375	Crit Rate Amp	Greatly increases critical rate.
+0376	Anti-Fire Master	Resists Fire for 3 turns at the start of battle.
+0377	Anti-Ice Master	Resists Ice for 3 turns at the start of battle.
+0378	Anti-Electric Master	Resists Electric for 3 turns at the start of battle.
+0379	Anti-Wind Master	Resists Wind for 3 turns at the start of battle.
+037A	Soul Shift	When Shifting to an ally, that ally recovers 5 SP.
+037B	Soul Chain	Recover 5 SP when on the receiving end of a Shift.
+037C	Soul Link	Recover 8 SP when on the receiving end of a Shift.
+037D	Shift Boost	Attack up by 10% until end of turn when on the receiving end of a Shift.
+037E	Shift Amp	Attack up by 20% until end of turn when on the receiving end of a Shift.
+037F	Drain Ability	Doubles the effect of Life Drain and Spirit Drain.
+0380	Single-Target Boost	Increases power of attacks that target 1 foe by 15%.
+0381	Multi-Target Boost	Increases power of attacks that target all foes by 15%.
+0385	Weakness Boost	Increases damage when striking a foe's weakness.
+0386	Weakness Amp	Greatly increases damage when striking a foe's weakness.
+0387	Healing Master	Reduces the SP cost of recovery skills to 50% of their normal SP cost.
+0388	Healing Apex	Reduces the SP cost of recovery skills to 25% of their normal SP cost.
+0389	Critical Boost	Increases critical rate and increases critical hit strength.
+038A	Critical Amp	Greatly increases critical rate and greatly increases critical hit strength.
+038B	Buff Boost	Increases the effects of buffs on self.
+038C	Buff Amp	Greatly increases the effects of buffs on self.
+038D	Ailment Burst	Increases critical rate on foes with ailments (with Mitsuru in battle).
+038E	Ailment Surge	Greatly increases critical rate on foes with ailments (with Mitsuru in battle).
+038F	Weakness Buffer	Reduces damage taken when an ally's weakness is struck.
+0390	Weakness Mitigator	Greatly reduces damage taken when an ally's weakness is struck.
+0391	Phys Boost	Strengthens physical skills.
+0392	Phys Amp	Greatly strengthens physical skills.
+0393	Spirit Refresh	Automatically recover 5 SP each turn in battle.
+0394	Spirit Restore	Automatically recover 10 SP each turn in battle.
+0395	Auto Sukunda	Lowers Accuracy/Evasion of 1 random foe for 3 turns when a battle starts.
+0396	Auto Masukunda	Lowers Accuracy/Evasion of all foes for 3 turns when a battle starts.
+0397	Auto Bolster	Temporarily increases Attack and Defense of self at the start of battle.
+0398	Auto Heat Riser	Temporarily increases all stats of self at the start of battle.
+[/Skill]

@@ -1,0 +1,10 @@
+^2 = GameID: BLUS31324
+^3 = NAME: TRANSFORMERS: Rise of the Dark Spark
+^5 = APCRED: From aldotools
+^4 = FILE: BLUS31324-PROFILE\PAYLOAD
++Update Sha1 For Blus31324-profile\payload
+(set range:0x000014,0x0002D4)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

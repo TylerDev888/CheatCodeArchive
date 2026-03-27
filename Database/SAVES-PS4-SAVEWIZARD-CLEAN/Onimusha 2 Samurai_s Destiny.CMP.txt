@@ -1,0 +1,367 @@
+^2 = GameID: CUSA49799
+^3 = NAME: Onimusha 2 Samurai's Destiny
+^4 = FILE: data001Slot\.bin
++Have Item And Edit Quantity
+$80[Slot]000C 68F5946E
+$498352DF 04000000
+$88010010 24F1802C
+$FFFFFFFF 11000000
+$08000000 00000000
+$[Item]0010 433C22C3
+$FD72B6DC 03000000
+$01000000 00000000
+$08000010 000000[AMOUNT:63:HEX:BIG]
+!Loading Codes
++Amount of Times Saved
+$80[Slot]000C 21000000
+$2BC2D911 F8F7D11F
+$8801000C 77DF61CD 
+$03000000 01000000
+$0800000C 000000[AMOUNT:01:HEX:BIG]
++Max MP
+$80[Slot]000C 21000000
+$2BC2D911 F8F7D11F
+$8801000C 3DEE1653 
+$05000000 02000000
+$1800000C 0000[AMOUNT:270F:HEX:BIG]
++Max Health
+$80[Slot]000C 21000000
+$2BC2D911 F8F7D11F
+$8801000C BBC5E4DB 
+$05000000 02000000
+$1800000C 0000[AMOUNT:270F:HEX:BIG]	
++Health
+$80[Slot]000C 21000000
+$2BC2D911 F8F7D11F
+$8801000C B3A5BA6A 
+$05000000 02000000
+$1800000C 0000[AMOUNT:270F:HEX:BIG]
++Current MP 
+$80[Slot]000C 21000000
+$2BC2D911 F8F7D11F
+$8801000C 83A4D406 
+$05000000 02000000
+$1800000C 0000[AMOUNT:270F:HEX:BIG]	
++Soul (On Load Screen)
+$80[Slot]000C 21000000
+$2BC2D911 F8F7D11F
+$8801000C B99F991F 
+$08000000 04000000
+$2800000C [AMOUNT:05F5E0FF:HEX:BIG]
++Edit Character
+$80[Slot]000C 21000000
+$2BC2D911 F8F7D11F
+$8801000C C7D1589D
+$04000000 01000000
+$0800000C 000000[Char]
+!!
+
+^6 = MODS:
+[Slot]
+Value>Save Slot
+01	Slot 1 Save and Auto Save 
+02	Slot 2
+03	Slot 3
+04	Slot 4
+05	Slot 5
+06	Slot 6
+07	Slot 7
+08	Slot 8
+09	Slot 9
+0A	Slot 10
+0B	Slot 11
+0C	Slot 12
+0D	Slot 13
+0E	Slot 14
+0F	Slot 15
+10	Slot 16
+11	Slot 17
+12	Slot 18
+13	Slot 19
+14	Slot 20
+[/Slot]
+[Char]
+Value>Character
+00	Jubei
+01	Jubei Oni
+02	Oyu
+03	Kotaro
+04	Magoichi
+05	Ekei
+[/Char]
+[Item]
+Value>Name>Type
+8801	None	Items
+8802	Herb	Items
+8803	Medicine	Items
+8804	Secret Medicine	Items
+8805	Perfect Medicine	Items
+8806	Magic Liquid	Items
+8807	Special Magic Liquid	Items
+8808	Super Magic Liquid	Items
+8809	Mountain Permit	Items
+880A	Red Ring	Items
+880B	Niter	Gift
+880C	Map to Niter	Pictures
+880D	Incense	Gift
+880E	Talisman	Items
+880F	Fluorite	Items
+8810	Vision Staff	Items	
+8812	Red Stone Peg	Items
+8813	Blue Stone Peg	Items
+8814	Tokichiro's Memo #3	Documents
+8815	Stamina Drink	Gift
+8816	Saiga Bomb	Items	
+8818	Dango	Gift
+8819	Conch Shell	Gift
+881A	Tokichiro's Memo #2	Documents
+881B	Tokichiro's Memo #1	Documents
+881C	Wonder Flower	Gift	
+881F	Black Beer	Gift
+8820	Vodka	Gift
+8821	Sake From Kaga	Gift
+8822	Wine	Gift
+8823	Oolong Tea	Gift
+8824	Tea	Gift
+8825	Castella	Gift
+8826	Pickled Plums	Gift
+8827	Bread	Gift
+8828	Canteloupe	Gift
+8829	Music Box	Gift
+882A	Kiseru	Gift
+882B	Glass	Gift
+882C	Globe	Gift
+882D	European Hat	Gift
+882E	Crown	Gift
+882F	Emblem	Gift
+8830	Kaleidoscope	Gift
+8831	Huqin	Gift
+8832	Copper Coin	Gift
+8833	Ancient Coin	Gift
+8834	Silver Coin	Gift
+8835	Gold Coin	Gift
+8836	Brown Egg	Gift
+8837	Broken Bell	Gift
+8838	Folding Fan	Gift
+8839	Abacus	Gift
+883A	Raw Fish	Gift
+883B	Recorder	Gift
+883C	The Analects	Gift
+8848	Taiheiki	Gift
+8849	Book of Short Stories	Gift
+884A	The Art of War	Gift
+884B	Brown Chick	Gift
+884C	Tale of the Heike	Gift
+884D	Naughty Novel	Gift
+884E	Power Jewl	Items
+884F	Magic Jewel	Items
+8850	Comb	Gift	
+8852	Wind Bell	Gift
+8853	Couple's Ring	Gift
+8854	Telescope	Gift
+8855	Tengu Mask	Gift
+8856	Compass	Gift
+8857	Pocket Watch	Gift
+8858	Dice	Gift
+8859	Ancient Documents	Gift
+885A	Plant Encyclopedia	Gift
+885B	Love Potion	Gift
+885C	Camo	Gift
+885D	Hair Ornament	Gift
+885E	Loaded DIce	Gift
+885F	Gourd	Gift
+8860	Tanegashima	Weapons
+8861	Tri-Barrel	Weapons
+8862	Bow	Weapons
+8863	Mirror	Gift
+8864	Crystal Ball	Gift
+8865	Great Powder Tube	Items
+8866	Red Wedge	Items
+8867	Blue Wedge	Items
+8868	Green Wedge	Items
+8869	Purple Wedge	Items
+886A	Tube for Pigeon Leg	Gift
+886B	Black Pills	Gift
+886C	Sugar Candy	Gift
+886D	Salt	Gift
+886E	Grilled FIsh	Gift
+886F	Watermelon	Gift
+8870	Pickled Vegetables	Gift
+8871	Wasabi	Gift
+8872	Unique Mushrooms	Gift
+8873	Rouge	Gift
+8874	Fur Skin	Gift
+8875	Scarf	Gift
+8876	Persian Carpet	Gift
+8877	Raizo Mandala	Gift
+8878	Playing Cards	Gift
+8879	Textile Fabrics	Gift
+887A	Cloth	Gift
+887B	Fossilized bone	Items
+887C	Hair Oil	Gift
+887D	Brown Chicken	Gift
+887E	Calligraphy Kit	Gift
+887F	Bouquet	Gift
+8880	Wilted Flower	Gift
+8881	Rotten Fish	Gift	
+8883	Chalk	Gift
+8884	Purify Charm	Items
+8885	Needle Bullets	Items	
+8887	Ring of Takajo	Items
+88BF	Yagyu Sword	Weapon
+88C0	Buraitou Lv.1 	Weapon
+88C1	Buraitou Lv.2	Weapon
+88C2	Buraitou Lv.3	Weapon
+88C3	Hyoujin-Yari Lv.1	Weapon
+88C4	Hyoujin-Yari Lv.2	Weapon
+88C5	Hyoujin-Yari Lv.3	Weapon	
+88C9	Senpumaru Lv.1	Weapon
+88CA	Senpumaru Lv.2	Weapon
+88CB	Senpumaru Lv.3	Weapon
+88D6	Hat & Sunglasses	Armor
+88D7	Yagyu Armor Lv.1	Armor
+88D8	Yagyu Armor Lv.2	Armor
+88D9	Yagyu Armor Lv.3	Armor
+88DA	Yagyu Greaves Lv.1	Armor
+88DB	Yagyu Greaves Lv.2	Armor
+88DC	Yagyu Greaves Lv.3	Armor
+88DD	Yagyu Gauntlets Lv.1	Armor
+88DE	Yagyu Gauntlets Lv.2	Armor
+88DF	Yagyu Gauntlets Lv.3	Armor	
+88E1	Phirangi	Gift	
+88E4	River Fish	Gift	
+88E6	Silver Armor	Gift	
+88E9	Hard Boots	Gift	
+88EF	Gabishi	Gift	
+88F2	Ekei's Keepsake	Items	
+88F7	Kien Kyahan	Gift
+88FA	Keimyo Hachimaki	Gift	
+88FD	Houtengeki	Gift
+8900	70's Set	Items	
+8902	Ashura Garment	Gift
+8905	Fudo Leg Guard	Gift
+890B	Goraishinki	Gift	
+8911	Pirate Costume	Gift		
+8914	Western Greaves	Gift	
+8919	Red Necklace	Armor
+891A	Blue Necklace	Armor
+891B	Yellow Necklace	Armor
+891C	Green Necklace	Armor
+891D	White Necklace	Armor
+891E	Black Necklace	Armor
+891F	Purple Necklace	Armor
+8920	Orange Necklace	Armor
+8921	Charity Orb	Items
+8922	Faith Orb	Items
+8923	Honesty Orb	Items
+8924	Respect Orb	Items
+8925	Strength Orb	Items
+8926	Bronze Mask (Right)	Items
+8927	Bronze Mask (Left)	Items
+8928	Gold Scale	Items
+8929	Gold Egg	Gift
+892A	Cherry Blossom Key	Items
+892B	Crescent Key	Items
+892C	Sacred Flute	Items
+892D	Nobunaga's Knowledge	Items
+892E	Nobunaga's Reign	Items
+892F	Nobunaga's Dignity	Items
+8930	Fashionable Goods 2	Items
+8931	Scarlet Key	Items
+8932	Key Plate	Items
+8933	Circle Key	Items
+8934	Golden Key	Items
+8935	Fancy Paper	Gift
+8936	Snake Key	Items
+8939	Normal Bullet	Items
+893A	Burst Bullet	Items	
+893D	Normal Arrow	Items
+893E	Fire Arrow	Items
+8941	Yagyu Village Map	Maps
+8942	Imasho Town Map	Maps
+8943	Gold Mine Map	Maps
+8944	Demon Cave Map	Maps
+8945	Gifu Castle Keep Tower Map	Maps
+8946	Gifu Castle East Area Map	Maps
+8947	Fog Valley Map	Maps
+8948	Qnigashima 1F Map	Maps
+8949	Onigashima Underground Map	Maps
+894A	Onigashima Passages Map	Maps
+894B	Play Instructions	Documents
+894C	Giving Items	Documents
+894D	Demon Wall Scroll	Documents
+894E	Book of Fortinbras	Documents
+894F	Jujudormah's Diary	Documents
+8950	On Onigashima	Documents
+8951	The Oni's Super Weapon	Documents
+8952	Elvator Instructions	Documents
+8953	Gogandantess's Barrier	Documents
+8954	Four Guardians: Right 	Pictures
+8955	Four Guardians: Left	Pictures
+8956	Four Guardians Painting	Pictures
+8957	The Five Oni Orbs	Documents
+8958	The Demons' History	Documents
+8959	Hunting Schedule	Documents
+895A	Humans As Food	Documents
+895B	The Golden Evil Statue	Documents
+895C	Tokichiro's Diary	Documents
+895D	Guildenstern's Book	Documents
+895E	Rotten River Fish	Gift
+895F	Buraitou Vol. 1	Items
+8960	Buraitou Vol. 2	Items
+8961	Buraitou Vol. 3	Items
+8962	Hyoujin-Yari Vol. 1	Items
+8963	Hyoujin-Yari Vol. 2	Items
+8964	Hyoujin-Yari Vol. 3	Items
+8965	Senpumaru Vol. 1	Items
+8966	Senpumaru Vol. 2	Items
+8967	Senpumaru Vol. 3	Items
+8968	Dokutsui Vol. 1	Items
+8969	Dokutsui Vol. 2	Items
+896A	Dokutsui Vol. 3	Items
+896E	Buraitou's Secret	Items
+896F	Hyoujin-Yari's Secret	Items
+8970	Senpumaru's Secret	Items
+8971	Dokoutsui's Secret	Items
+8972	Rekka-Ken's Secret	Items
+8973	Red Soul Bracelet	Items
+8974	Green Soul Bracelet	Items
+8975	Blue Soul Bracelet	Items
+8976	Yellow Soul Bracelet	Items
+8977	Pickaxe	Gifts
+8978	Rhino Beetle	Gifts
+8979	Golden Chick	Gifts
+897A	Frog	Gifts
+897B	Deet Antlers	Gifts
+897C	Funa Sushi	Gifts
+897D	Treasure Box	Gifts
+897E	Fork	Gifts
+897F	Egg	Gifts
+8980	Chick	Gifts
+8981	Chicken	Gifts
+8982	Lemon	Gifts
+8983	Red Parrot	Gifts
+8984	Green Parrot	Gifts
+8985	Blue Parrot	Gifts
+8986	Golden Chicken	Gifts
+8987	Film 1	Items
+8988	Film 2	Items
+8989	Film 3	Items
+898A	Film 4	Items
+898B	Film 5	Items
+898C	Film 6	Items
+898D	Film 7	Items
+898E	Film 8	Items
+898F	Film 9	Items
+8990	Film 10	Items
+8991	Film 11	Items
+8992	Film 12	Items
+8993	Film 13	Items
+8994	Film 14	Items
+8995	Film 15	Items
+8996	Film 16	Items
+8997	Film 17	Items
+8998	Film 18	Items
+8999	Film 19	Items
+899A	Film 20	Items
+[/Item]

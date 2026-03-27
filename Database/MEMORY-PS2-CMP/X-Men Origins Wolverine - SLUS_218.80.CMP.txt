@@ -1,0 +1,142 @@
+^1 = Hash: BC 11 78 E7 E0 DB 51 D6 86 40 4E 2E 8D 64 03 8E 98 73 5D 8A 
+^2 = GameID: SLUS_218.80
+^3 = NAME: X-Men Origins Wolverine
+!Masters:
++Enable Code (MUST BE ON)
+$90502690 0C14094C
+!!
+!Misc Codes:
++Inf HP
+$002208C4 0000006C
++Lots Of Blob Coins
+$00B6580C 00000063
+$00B65AC4 00000063
++No Xp Spent (when U Leave The Screen It Refills)
+$002AE33E 00000020
+$003136B0 8E0203C4
++EXP Multipliers
+$200A0000 02242023
+$200A0004 00042[MOD1]
+$200A0008 080C3B4E
+$2030ED30 08028000
++Max EXP (needs Full Testing)
+$20B65824 05F5E0FF
+$20B65828 05F5E0FF
+!!
+!Upgrades:
++Health Increase Max
+$00B65844 0000003F
++Health Recharge Max
+$00B65850 0000001F
++Combat Damage Max
+$00B6585C 0000001F
++Rage! Max
+$00B65868 0000000F
++Bullet Resistance Max
+$00B65874 0000000F
++Toughness Max
+$00B65880 0000000F
++Fetal Senses Duration Max
+$00B6588C 0000000F
++Fetal Senses Recharge Max
+$00B65898 0000000F
++Weapon X Atacks: Spin Cycle Max
+$00B658A4 0000000F
++Grab Finishers: Separate Max
+$00B658B0 00000003
++Lunge Attacks: Punishing Max
+$00B658BC 0000000F
++Fetal Senses Duration Max
+$00B6588C 0000000F
++Fetal Senses Recharge Max
+$00B65898 0000000F
+!!
+!Must Die 1 Time For Below To Take Affect:
++Max EXP
+$20B6556C 05F5E0FF
+$20B65570 05F5E0FF
+!Upgrades:
++Health Increase Max
+$00B6558C 0000003F
++Health Recharge Max
+$00B65598 0000001F
++Combat Damage Max
+$00B655A4 0000001F
++Rage! Max
+$00B655B0 0000000F
++Bullet Resistance Max
+$00B655BC 0000000F
++Toughness Max
+$00B655C8 0000000F
++Fetal Senses Duration Max
+$00B655D4 0000000F
++Fetal Senses Recharge Max
+$00B655E0 0000000F
++Weapon X Atacks: Spin Cycle Max
+$00B655EC 0000000F
++Grab Finishers: Separate Max
+$00B655F8 00000003
++Lunge Attacks: Punishing Max
+$00B65604 0000000F
++Fetal Senses Duration Max
+$00B655D4 0000000F
++Fetal Senses Recharge Max
+$00B655E0 0000000F
+!!
+!!
+!Active In Game Cheats:
++Speedy Player (memory)
+$0095F504 00000001
++Speedy Player (asm)
+$0015618C 00000001
++Speedy Player Speed Mod
+$10156194 0000[Amount:447A:HEX:BIG]
++Invulnerable (memory)
+$0095F524 00000001
++Invulnerable (asm)
+$0021E744 00000001
++Invulnerable Ai (memory)
+$0095F544 00000001
++Invulnerable Ai (asm)
+$0021E77C 00000001
++One Shot Kills (memory)
+$0095F564 00000001
++One Shot Kills (asm)
+$0021E7D4 00000001
++Show Held Weapon Name (memory)
+$0095F584 00000001
++Show Held Weapon Name (asm)
+$0023A464 00000001
++Show Ai State (memory)
+$0095F5A4 00000001
++Show Ai State (asm)
+$0023A56C 00000001
++No Ai Attacking (memory)
+$0095F5C4 00000001
++No Ai Attacking (asm)
+$00135BFA 00000000
++No Ai Moving (memory)
+$0095F5E4 00000001
++No Ai Moving (asm)
+$00134022 00000000
++Show Damage Strings (memory)
+$0095F684 00000001
++Show Damage Strings (asm)
+$0021E6BC 00000001
+!!
+^6 = MODS:
+[MOD1]
+VALUE>NAME
+040	2X
+080	4x
+0C0	8x
+100	16x
+140	32x
+180	64x
+1C0	128X
+200	256X
+240	512X
+280	1024X
+2C0	2048X
+300	4096X
+[/MOD1]

@@ -1,0 +1,11 @@
+^2 = GameID: BLUS31028
+^3 = NAME: NBA 2K13
+^4 = FILE: USERDATA
++Max Fans
+$2068833C 3B9AC9FF
++Update Crc32 (required)
+(set range:0x000004,0x737206)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

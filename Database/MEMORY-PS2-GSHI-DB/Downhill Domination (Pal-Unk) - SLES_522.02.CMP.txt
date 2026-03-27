@@ -1,0 +1,37 @@
+^3 = NAME: Downhill Domination (Pal-Unk)
+^2 = GameID: SLES-52202
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$9010A1B8 0C06E8DC
+$9024F104 0C096868
+!!
++60 Hertz
+%Credits: Codejunkies
+$101BC95C 00000002
++Max Money
+%Credits: Codejunkies
+$2013C850 3C010100
+$2013C854 AC612208
++Max Power
+%Credits: Codejunkies
+$202DC35C 42C80000
++Max Score After 1 Jump
+%Credits: Codejunkies
+$201EA328 3C014960
+$201EA338 44811000
++Press X+Up For Hyper Mode; X+Down For Normal Speed
+%Credits: Codejunkies
+$D068E902 0000BFEF
+$2024DC04 00000000
+$D068E902 0000BFBF
+$2024DC04 0C09833C
++Y Fix
+%Credits: Codejunkies
+$20224DCC 0803FFC0
+$200FFF00 3C010003
+$200FFF04 0041102F
+$200FFF08 FC820000
+$200FFF0C 08089374
+!!
+

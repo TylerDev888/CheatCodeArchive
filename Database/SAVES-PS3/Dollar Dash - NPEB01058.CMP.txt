@@ -1,0 +1,12 @@
+^2 = GameID: NPEB01058
+^3 = NAME: Dollar Dash (PSN)
+^5 = APCRED: From SHAkA
+^4 = FILE: PAYLOAD
++Max Money
+$write at 0x00000113:0x98967F00
++Update Sha1 For Payload (required)
+(set range:0x000014,0x0000CA)
+$set pointer:eof+1
+$set range:0x000014,pointer
+$set [hash]:SHA1
+$write at 0x000000:[hash]

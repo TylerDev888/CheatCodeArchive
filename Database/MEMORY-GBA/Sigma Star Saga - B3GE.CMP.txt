@@ -1,0 +1,75 @@
+^2 = GameID: AGB-B3GE-USA
+^3 = NAME: Sigma Star Saga
+^4 = FILE: NTSC
+!Enable Code:
++Possible Enable Code (Pad method)
+%Credits: SkillerCMP
+$0000DB77 000A
+$1000386C 0007
++Possible Enable Code (Pad method)
+%Credits: SkillerCMP
+$0000DB77 000A
+$10003F2E 0007
++Possible Enable Code (Pad method)
+%Credits: SkillerCMP
+$0000DB77 000A
+$1005630E 0007
+Possible Enabler Code
+%Credits: GMO
+$0000DB77 000A
+$10003870 0007
+!!
+!Joker:
++Joker(Ship)
+%Credit: SkillerCMP
+$730007E8 [Joker:GBA]
++All Joker(Human/Ship)
+%Credit: SkillerCMP
+$73000C68 [Joker:GBA]
+$730011D4 [Joker:GBA]
+$73001638 [Joker:GBA]
+$73001F54 [Joker:GBA]
+!!
++Low Time
+%Credits: GMO
+3300229C 0000
+!Human:
++Inf Health (Human) (Fixed)
+%Credit: SkillerCMP
+$830027B4 0044
+$83006FF8 0044
++Invencible (Human)
+%Credit: SkillerCMP
+$33002799 00E8
++lvl 99
+%Credit: SkillerCMP
+$8300702C 0062
+Quick Level Up
+%Credits: GMO
+$830071F0 0001
+$830071F2 0000
+Infinite Health
+%Credits: GMO
+$330027B4 0044
+!!
+!Ship:
++Invencible (Ship)
+%Credit: Hiei-YYH
+$330002D8 0002
++Inf Health (Fixed)
+%Credit: SkillerCMP
+$830002E0 4400
++Raped Fire Weapon A
+%Credit: SkillerCMP
+$3300077C 00FF
++Raped Fire Weapon B
+%Credit: SkillerCMP
+$330007E0 00FF
++Have All Weapons and Types
+%Credits: GMO
+$4300773C FFFF
+$00000008 0002
++Infinite Health
+%Credits: GMO
+$330002E1 0044
+!!

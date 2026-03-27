@@ -1,0 +1,49 @@
+^3 = NAME: Contra - Shattered Soldier (PAL-M3)
+^2 = GameID: SLES-51284
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F05E030C 005E030F
+!!
+!Always Use... (This Code Makes The Game Harder):
++Flame Gun
+%Credits: Codejunkies
+$009139D0 00000001
++Grenade Gun
+%Credits: Codejunkies
+$009139D0 00000003
++Rapid Fire Gun
+%Credits: Codejunkies
+$009139D0 00000000
+!!
+!P1 Lives Codes:
++Always Have No Credits
+%Credits: Codejunkies
+$2042FC98 A0402534
++Infinite Lives
+%Credits: Codejunkies
+$00913BC0 00000063
++Max Score
+%Credits: Codejunkies
+$20913BC4 00980000
++Never Have Any Lives
+%Credits: Codejunkies
+$E0010000 30913BC0
+$10913BC0 00000000
++Never Have More Than 1 Life
+%Credits: Codejunkies
+$E0010001 30913BC0
+$10913BC0 00000001
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E0010002 30913BC0
+$10913BC0 00000002
++P1 Is Invincible After 1 Hit
+%Credits: Codejunkies
+$00913A0C 00000009
++P2 Infinite Lives
+%Credits: Codejunkies
+$00913BD0 00000063
+!!
+!!
+

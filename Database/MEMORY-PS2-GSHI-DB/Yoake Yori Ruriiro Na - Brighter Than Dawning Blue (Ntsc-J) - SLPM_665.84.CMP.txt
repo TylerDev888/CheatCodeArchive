@@ -1,0 +1,24 @@
+^3 = NAME: Yoake Yori Ruriiro Na - Brighter Than Dawning Blue (Ntsc-J)
+^2 = GameID: SLPM-66584
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$901842A0 0C061050
+!!
++New Game, Save, Load Game = Debug Menu
+%Credits: punk7890
+$20284A60 00000000
+$20284A64 00000000
++Unlock All CG
+%Credits: punk7890
+$4028498C 002C0001
+$FFFFFFFF 00000000
++Unlock All Main Menu Items
+%Credits: punk7890
+$10282340 0000FFFF
++Unlock All Music
+%Credits: punk7890
+$20284A48 FFFFFFFF
+$20284A4C FFFFFFFF
+!!
+

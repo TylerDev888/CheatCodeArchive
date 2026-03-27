@@ -1,0 +1,40 @@
+^2 = GameID: CUSA05333,CUSA09124,CUSA06038,CUSA05486,CUSA08933,CUSA06351,CUSA09983,CUSA09994
+^3 = NAME: Elder Scrolls V: Skyrim
+^SECONDLAYER: YES
+^4 = FILE: SD(U[0-9a-f]{1,2}[a-f]?|QQS[0-9A-F]{8}0{4})/SAVEDATA.DAT
+{<ul><li><b>READ READ READ:</b></li><li>If any of these codes break your save, restore to a previous point and change <code>05000000</code> to <code>04000000</code>.</li><li>If it fails again, send me your save.</li><li>The EXP cheat should work regardless.</li><li><b>DON’T FORGET TO BACKUP YOUR SAVES!</b></li><li><b>Side Note:</b> A few users reported that the default “Max Gold” in Save Wizard can corrupt their save. Avoid using it with these codes to help narrow down any issues.</li></ul>}
++All Skills Level 100
+%Credits: Dynamite
+$8001000C 05000000
+$00000000 06000000
+$4A00000C 42C80000
+$40120008 00000000
++Carry Weight 1000000000
+%Credits: Dynamite
+$8001000C 05000000
+$00000000 06000000
+$88020004 20000000
+$28000004 4E6E6B23
++Health/Magicka/Stamina 1000000000
+%Credits: Dynamite
+$8001000C 05000000
+$00000000 06000000
+$4A00009C 4E6E6B28
+$40060008 00000000
++ADD 100,000 EXP: - Can be used multiple times
+%Credits: Dynamite
+$8001000A 80BF0000
+$00000000 80BF0000
+$28000034 47C35000
+$28000038 00000000
++Max Perk ᴀʟᴍɪɢʜᴛʏ 11:11
+%Credits: Dynamite
+$80010008 00000041
+$37464137 00000000
+$8801000C 01000000
+$00000000 00000000
+$2800000C 000000FF
++Skyrim Item Swap{<div><ul><li>Put an <b>Iron Arrow</b> in an empty barrel, then <b>save your game</b>.</li><li>Use the item ID list on the site below to find what you need.</li><li><b>PC item IDs</b> are the <b>last 5 digits</b> of the ID shown on the site.</li><li><b>PS4 format:</b> reverse the PC ID and add the prefix <code>04</code>–<code>01</code> as needed.</li><li><b>Example:</b> <code>1396B</code> (Daedric Armor) → reverse + format → <code>016B3941</code></li><li>Item ID list: <a href="https://en.uesp.net/wiki/Skyrim:Item" target="_blank" rel="noopener">https://en.uesp.net/wiki/Skyrim:Item</a></li></ul></div>}
+%Credits: DANILO
+$80010004 41397D01
+$28000000 01xxxx4x

@@ -1,0 +1,20 @@
+^2 = GameID: ULUS10366,NPUH10041
+^3 = NAME: Valhalla Knights 2 \ Battle Stance
+^5 = APCRED: PSP
+{http://web.save-editor.com/bbs/patchcode/psp/bbs.cgi?list=pickup&num=2813#}
+^4 = FILE: *
++Possession Money 999999g
+$20000008 000F423F
++Status All 99 {physical Strength Wisdom Resistance Vitality Quickness Dexterity Luck}
+$40000063 00000063
+$40070001 00000000
+!Occupation Lv99:
++Fi (Fighter)
+$00000074 00000063
++Ma (Mage)
+$00000075 00000063
++Pr (Priest)
+$00000076 00000063
++Th Mo (Monk)
+$00000078 00000063
+!!

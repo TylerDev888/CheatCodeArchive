@@ -1,0 +1,12 @@
+^2 = GameID: NPEB01238
+^3 = NAME: Urban Trial Freestyle (PSN)
+^5 = APCRED: From SHAkA
+^4 = FILE: SYS-DATA
++Max Cash
+$write at 0x000002A3:0x1869F069
++Update Dwadd For Sys-data (required)
+$set [csum]:0
+(set [csum]:dwadd(0x000078,0x0E7FFF))
+$set pointer:eof+1
+$set [csum]:dwadd(0x000078,pointer)
+$write at 0x000034:[csum]

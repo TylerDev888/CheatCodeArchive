@@ -1,0 +1,90 @@
+^2 = GameID: CUSA05070
+^3 = NAME: Yakuza 0
+^5 = APCRED: source:krustytoe@hackinformer
+^4 = FILE: *
+(Untested - Make sure to backup your save data first)
++--kiryu Codes--
++Kiryu - Dragon Of Dojima Style At Max
+$1000745E 000003E7
+$10007462 0000FFFF
+$10007464 0000FFFF
+$10007466 0000FFFF
++Kiryu - Max All Items In Storage (item Only)
+$4000833A 00000063
+$40960010 00000000
++Kiryu - All Weapons In Storage Have Infinite Durability
+$41009C36 0000FFFF
+$40C80010 00000000
+$41009C38 0000FFFF
+$40C80010 00000000
++Kiryu - Have Golden Gun In Slot 1 (weapons)
+$1000CE34 00000168
+$1000CE36 0000FFFF
+$1000CE38 0000FFFF
+$0000CE3A 00000001
++Kiryu - Have Steel Business Card In Slot 2 (weapons)
+$1000CE44 0000013F
+$1000CE46 0000FFFF
+$1000CE48 0000FFFF
+$0000CE4A 00000001
++Kiryu - Have War God Talisman In Slot 1 (gear/accessory)
+$1000D014 000001AD
+$0000D01A 00000001
++Kiryu - Have Amon Sunglasses In Slot 2 (gear/accessory)
+$1000D024 000001C5
+$0000D02A 00000001
++--majima Codes--
++Majima - Mad Dog Style At Max
+$1000785E 000003E7
+$10007862 0000FFFF
+$10007864 0000FFFF
+$10007866 0000FFFF
++Majima - Max All Items In Storage (item Only)
+$40008FBA 00000063
+$40960010 00000000
++Majima - Max All Material Parts (majima)
+$4000D1F6 00000001
+$40600010 00000000
+$4100D1FA 000003E7
+$40600010 00000000
++Majima - All Weapons In Storage Have Infinite Durability
+$4100A8B6 0000FFFF
+$40C80010 00000000
+$4100A8B8 0000FFFF
+$40C80010 00000000
++Majima - Have Golden Gun In Slot 1 (weapons)
+$1000CF24 00000168
+$1000CF26 0000FFFF
+$1000CF28 0000FFFF
+$0000CF2A 00000001
++Majima - Have Steel Business Card In Slot 2 (weapons)
+$1000CF34 0000013F
+$1000CF36 0000FFFF
+$1000CF38 0000FFFF
+$0000CF3A 00000001
++Majima - Have War God Talisman In Slot 1 (gear/accessory)
+$1000D104 000001AD
+$0000D10A 00000001
++Majima - Have Amon Sunglasses In Slot 2 (gear/accessory)
+$1000D114 000001C5
+$0000D11A 00000001
++Easy Difficulty
+$1000040C 00000000
++Normal Difficulty
+$1000040C 00000101
++Hard Difficulty
+$1000040C 00000202
++Legend Difficulty
+$1000040C 00000303
++Kiryu - Dragon Of Dojima Style At Max
+$1000745E 000003E7
+$10007462 0000FFFF
+$10007464 0000FFFF
+$10007466 0000FFFF
++Majima - Mad Dog Of Shimano Style At Max
+$1000785E 000003E7
+$10007862 0000FFFF
+$10007864 0000FFFF
+$10007866 0000FFFF
+(Note: Can be use without unlocking style too)
+(Note: This will make you extremely Over Power)

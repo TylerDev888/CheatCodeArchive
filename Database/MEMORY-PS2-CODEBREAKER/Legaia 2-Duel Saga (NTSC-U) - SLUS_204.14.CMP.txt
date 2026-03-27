@@ -1,0 +1,2880 @@
+^1 = HASH: F2EEC598
+^3 = NAME: Legaia 2-Duel Saga
+^2 = GameID: SLUS_204.14
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master>Pyriel
+$F0100008 002C9B07
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master>Pyriel
+$902C9B04 0C0B707C
+!!
+!Character Codes:
+!Lang Codes:
++Max HP
+%Credits: Code Master>Pyriel
+$103FB7D0 0000270F
++Infinite HP
+%Credits: Code Master>Pyriel
+$103FB7D2 0000270F
++Max Infinite HP
+%Credits: Code Master>Pyriel
+$203FB7D0 270F270F
++Max MP
+%Credits: Code Master>Pyriel
+$103FB7D4 0000270F
++Infinite MP
+%Credits: Code Master>Pyriel
+$103FB7D6 0000270F
++Max Infinite MP
+%Credits: Code Master>Pyriel
+$203FB7D4 270F270F
++Max STR
+%Credits: Code Master>Pyriel
+$103FB7D8 000003E7
++Max Defense High
+%Credits: Code Master>Pyriel
+$103FB7DA 000003E7
++Max Defense Low
+%Credits: Code Master>Pyriel
+$103FB7DC 000003E7
++Max INT
+%Credits: Code Master>Pyriel
+$103FB7DE 000003E7
++Max MEN
+%Credits: Code Master>Pyriel
+$103FB7E0 000003E7
++Max AGL
+%Credits: Code Master>Pyriel
+$103FB7E2 000003E7
++Max CHA
+%Credits: Code Master>Pyriel
+$103FB7E4 000003E7
++Max Total Weight
+%Credits: Code Master>Pyriel
+$003FB7F0 000000FF
++Always Low Current Weight
+%Credits: Code Master>Pyriel
+$003FB7F1 00000000
++Max AP
+%Credits: Code Master>Pyriel
+$003FB7F2 000000FF
++Infinite AP
+%Credits: Code Master>Pyriel
+$003FB7F3 000000FF
++Max Infinite AP
+%Credits: Code Master>Pyriel
+$103FB7F2 0000FFFF
++Have All Nicknames
+%Credits: Code Master>Pyriel
+$203FDD30 C0001FFF
+$203FDD34 7FFFFFFF
++Quick Level Up
+%Credits: Code Master>Pyriel
+$103FDD3C 0000FFFF
++Max EXP
+%Credits: Code Master>Pyriel
+$203FDD3C 0098967F
++Max Origin EXP
+%Credits: Code Master>Pyriel
+$203FDD40 05F5E0FF
++Always 1 For Next Level
+%Credits: Code Master>Pyriel
+$203FDD44 00000001
++Sword Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FDDD0 00000???
++Armor Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FDDD2 00000???
++Gloves Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FDDD4 00000???
++Shoes Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FDDD6 00000???
++Other Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FDDD8 00000???
++Have All Origin Abilities
+%Credits: Code Master>Pyriel
+$203FDE20 03020105
+$203FDE24 00000504
++Have All Arts
+%Credits: Code Master>Pyriel
+$203FDE30 02011900
+$203FDE34 06050403
+$203FDE38 0A090807
+$203FDE3C 0E0D0C0B
+$203FDE40 1211100F
+$203FDE44 16151413
+$203FDE48 00191817
++Level 99
+%Credits: Code Master>Pyriel
+$003FDE52 00000063
+!!
+!Maya Codes:
++Max HP
+%Credits: Code Master>Pyriel
+$103FB818 0000270F
++Infinite HP
+%Credits: Code Master>Pyriel
+$103FB81A 0000270F
++Max Infinite HP
+%Credits: Code Master>Pyriel
+$203FB818 270F270F
++Max MP
+%Credits: Code Master>Pyriel
+$103FB81C 0000270F
++Infinite MP
+%Credits: Code Master>Pyriel
+$103FB81E 0000270F
++Max Infinite MP
+%Credits: Code Master>Pyriel
+$203FB81C 270F270F
++Max STR
+%Credits: Code Master>Pyriel
+$103FB820 000003E7
++Max Defense High
+%Credits: Code Master>Pyriel
+$103FB822 000003E7
++Max Defense Low
+%Credits: Code Master>Pyriel
+$103FB824 000003E7
++Max INT
+%Credits: Code Master>Pyriel
+$103FB826 000003E7
++Max MEN
+%Credits: Code Master>Pyriel
+$103FB828 000003E7
++Max AGL
+%Credits: Code Master>Pyriel
+$103FB82A 000003E7
++Max CHA
+%Credits: Code Master>Pyriel
+$103FB82C 000003E7
++Max Total Weight
+%Credits: Code Master>Pyriel
+$003FB838 000000FF
++Always Low Current Weight
+%Credits: Code Master>Pyriel
+$003FB839 00000000
++Max AP
+%Credits: Code Master>Pyriel
+$003FB83A 000000FF
++Infinite AP
+%Credits: Code Master>Pyriel
+$003FB83B 000000FF
++Max Infinite AP
+%Credits: Code Master>Pyriel
+$103FB83A 0000FFFF
++Have All Nicknames
+%Credits: Code Master>Pyriel
+$203FDF08 C0001FFF
+$203FDF0C 0001FFFF
++Quick Level Up
+%Credits: Code Master>Pyriel
+$103FDF14 0000FFFF
++Max EXP
+%Credits: Code Master>Pyriel
+$203FDF14 0098967F
++Max Origin EXP
+%Credits: Code Master>Pyriel
+$203FDF18 05F5E0FF
++Always 1 For Next Level
+%Credits: Code Master>Pyriel
+$203FDF1C 00000001
++Sword Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FDFA8 00000???
++Armor Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FDFAA 00000???
++Gloves Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FDFAC 00000???
++Shoes Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FDFAE 00000???
++Other Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FDFB0 00000???
++Have All Origin Abilities
+%Credits: Code Master>Pyriel
+$203FDFF8 13121105
+$203FDFFC 00001514
++Have All Arts
+%Credits: Code Master>Pyriel
+$203FE008 7A791B00
+$203FE00C 7E7D7C7B
+$203FE010 8281807F
+$203FE014 86858483
+$203FE018 8A898887
+$203FE01C 8E8D8C8B
+$203FE020 9291908F
+$103FE024 00000093
++Level 99
+%Credits: Code Master>Pyriel
+$003FE02A 00000063
+!!
+!Kazan Codes:
++Max HP
+%Credits: Code Master>Pyriel
+$103FB860 0000270F
++Infinite HP
+%Credits: Code Master>Pyriel
+$103FB862 0000270F
++Max Infinite HP
+%Credits: Code Master>Pyriel
+$203FB860 270F270F
++Max MP
+%Credits: Code Master>Pyriel
+$103FB864 0000270F
++Infinite MP
+%Credits: Code Master>Pyriel
+$103FB866 0000270F
++Max Infinite MP
+%Credits: Code Master>Pyriel
+$203FB864 270F270F
++Max STR
+%Credits: Code Master>Pyriel
+$103FB868 000003E7
++Max Defense High
+%Credits: Code Master>Pyriel
+$103FB86A 000003E7
++Max Defense Low
+%Credits: Code Master>Pyriel
+$103FB86C 000003E7
++Max INT
+%Credits: Code Master>Pyriel
+$103FB86E 000003E7
++Max MEN
+%Credits: Code Master>Pyriel
+$103FB870 000003E7
++Max AGL
+%Credits: Code Master>Pyriel
+$103FB872 000003E7
++Max CHA
+%Credits: Code Master>Pyriel
+$103FB874 000003E7
++Max Total Weight
+%Credits: Code Master>Pyriel
+$003FB880 000000FF
++Always Low Current Weight
+%Credits: Code Master>Pyriel
+$003FB881 00000000
++Max AP
+%Credits: Code Master>Pyriel
+$003FB882 000000FF
++Infinite AP
+%Credits: Code Master>Pyriel
+$003FB883 000000FF
++Max Infinite AP
+%Credits: Code Master>Pyriel
+$103FB882 0000FFFF
++Have All Nicknames
+%Credits: Code Master>Pyriel
+$203FE0E0 C0001FFF
+$203FE0E4 00007FFF
++Quick Level Up
+%Credits: Code Master>Pyriel
+$103FE0EC 0000FFFF
++Max EXP
+%Credits: Code Master>Pyriel
+$203FE0EC 0098967F
++Max Origin EXP
+%Credits: Code Master>Pyriel
+$203FE0F0 05F5E0FF
++Always 1 For Next Level
+%Credits: Code Master>Pyriel
+$203FE0F4 00000001
++Sword Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FE180 00000???
++Armor Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FE182 00000???
++Gloves Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FE184 00000???
++Shoes Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FE186 00000???
++Other Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FE188 00000???
++Have All Origin Abilities
+%Credits: Code Master>Pyriel
+$203FE1D0 23222104
+$203FE1D4 00000024
++Have All Arts
+%Credits: Code Master>Pyriel
+$203FE1E0 201F1500
+$203FE1E4 24232221
+$203FE1E8 28272625
+$203FE1EC 2C2B2A29
+$203FE1F0 302F2E2D
+$203FE1F4 00333231
++Level 99
+%Credits: Code Master>Pyriel
+$003FE202 00000063
+!!
+!Sharon Codes:
++Max HP
+%Credits: Code Master>Pyriel
+$103FB8A8 0000270F
++Infinite HP
+%Credits: Code Master>Pyriel
+$103FB8AA 0000270F
++Max Infinite HP
+%Credits: Code Master>Pyriel
+$203FB8A8 270F270F
++Max MP
+%Credits: Code Master>Pyriel
+$103FB8AC 0000270F
++Infinite MP
+%Credits: Code Master>Pyriel
+$103FB8AE 0000270F
++Max Infinite MP
+%Credits: Code Master>Pyriel
+$203FB8AC 270F270F
++Max STR
+%Credits: Code Master>Pyriel
+$103FB8B0 000003E7
++Max Defense High
+%Credits: Code Master>Pyriel
+$103FB8B2 000003E7
++Max Defense Low
+%Credits: Code Master>Pyriel
+$103FB8B4 000003E7
++Max INT
+%Credits: Code Master>Pyriel
+$103FB8B6 000003E7
++Max MEN
+%Credits: Code Master>Pyriel
+$103FB8B8 000003E7
++Max AGL
+%Credits: Code Master>Pyriel
+$103FB8BA 000003E7
++Max CHA
+%Credits: Code Master>Pyriel
+$103FB8BC 000003E7
++Max Total Weight
+%Credits: Code Master>Pyriel
+$003FB8C8 000000FF
++Always Low Current Weight
+%Credits: Code Master>Pyriel
+$003FB8C9 00000000
++Max AP
+%Credits: Code Master>Pyriel
+$003FB8CA 000000FF
++Infinite AP
+%Credits: Code Master>Pyriel
+$003FB8CB 000000FF
++Max Infinite AP
+%Credits: Code Master>Pyriel
+$103FB8CA 0000FFFF
++Have All Nicknames
+%Credits: Code Master>Pyriel
+$203FE2B8 C0001FFF
+$203FE2BC 00001FFF
++Quick Level Up
+%Credits: Code Master>Pyriel
+$103FE2C4 0000FFFF
++Max EXP
+%Credits: Code Master>Pyriel
+$203FE2C4 0098967F
++Max Origin EXP
+%Credits: Code Master>Pyriel
+$203FE2C8 05F5E0FF
++Always 1 For Next Level
+%Credits: Code Master>Pyriel
+$203FE2CC 00000001
++Sword Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FE358 00000???
++Armor Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FE35A 00000???
++Gloves Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FE35C 00000???
++Shoes Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FE35E 00000???
++Other Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FE360 00000???
++Have All Origin Abilities
+%Credits: Code Master>Pyriel
+$203FE3A8 31323303
+$203FE3A0 00000000
++Have All Arts
+%Credits: Code Master>Pyriel
+$203FE3B8 3E3D1700
+$203FE3BC 4241403F
+$203FE3C0 46454443
+$203FE3C4 4A494847
+$203FE3C8 4E4D4C4B
+$203FE3CC 5251504F
+$103FE3D0 00000053
++Level 99
+%Credits: Code Master>Pyriel
+$003FE3DA 00000063
+!!
+!Ayne Codes:
++Max HP
+%Credits: Code Master>Pyriel
+$103FB8F0 0000270F
++Infinite HP
+%Credits: Code Master>Pyriel
+$103FB8F2 0000270F
++Max Infinite HP
+%Credits: Code Master>Pyriel
+$203FB8F0 270F270F
++Max MP
+%Credits: Code Master>Pyriel
+$103FB8F4 0000270F
++Infinite MP
+%Credits: Code Master>Pyriel
+$103FB8F6 0000270F
++Max Infinite MP
+%Credits: Code Master>Pyriel
+$203FB8F4 270F270F
++Max STR
+%Credits: Code Master>Pyriel
+$103FB8F8 000003E7
++Max Defense High
+%Credits: Code Master>Pyriel
+$103FB8FA 000003E7
++Max Defense Low
+%Credits: Code Master>Pyriel
+$103FB8FC 000003E7
++Max INT
+%Credits: Code Master>Pyriel
+$103FB8FE 000003E7
++Max MEN
+%Credits: Code Master>Pyriel
+$103FB900 000003E7
++Max AGL
+%Credits: Code Master>Pyriel
+$103FB902 000003E7
++Max CHA
+%Credits: Code Master>Pyriel
+$103FB904 000003E7
++Max Total Weight
+%Credits: Code Master>Pyriel
+$003FB910 000000FF
++Always Low Current Weight
+%Credits: Code Master>Pyriel
+$003FB911 00000000
++Max AP
+%Credits: Code Master>Pyriel
+$003FB912 000000FF
++Infinite AP
+%Credits: Code Master>Pyriel
+$003FB913 000000FF
++Max Infinite AP
+%Credits: Code Master>Pyriel
+$103FB912 0000FFFF
++Have All Nicknames
+%Credits: Code Master>Pyriel
+$203FE490 C0001FFF
+$203FE494 000003FF
++Quick Level Up
+%Credits: Code Master>Pyriel
+$103FE49C 0000FFFF
++Max EXP
+%Credits: Code Master>Pyriel
+$203FE49C 0098967F
++Max Origin EXP
+%Credits: Code Master>Pyriel
+$203FE4A0 05F5E0FF
++Always 1 For Next Level
+%Credits: Code Master>Pyriel
+$203FE4A4 00000001
++Sword Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FE530 00000???
++Armor Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FE532 00000???
++Gloves Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FE534 00000???
++Shoes Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FE536 00000???
++Other Equipped Modifier
+%Credits: Code Master>Pyriel
+$103FE538 00000???
++Have All Origin Abilities
+%Credits: Code Master>Pyriel
+$203FE580 43424106
+$203FE584 00464544
++Have All Arts
+%Credits: Code Master>Pyriel
+$203FE590 5C5B0E00
+$203FE594 605F5E5D
+$203FE598 64636261
+$203FE59C 68676665
+$003FE5A0 00000000
++Level 99
+%Credits: Code Master>Pyriel
+$003FE5B2 00000063
+!!
+!!
+!Other Codes:
+!Character 1 Codes:
++Max HP
+%Credits: Code Master>Pyriel
+$1041752C 0000270F
++Max MP
+%Credits: Code Master>Pyriel
+$10417530 0000270F
++Max STR
+%Credits: Code Master>Pyriel
+$10417538 000003E7
++Max Defense High
+%Credits: Code Master>Pyriel
+$20417540 000003E7
++Max Defense Low
+%Credits: Code Master>Pyriel
+$20417544 000003E7
++Max INT
+%Credits: Code Master>Pyriel
+$20417548 000003E7
++Max MEN
+%Credits: Code Master>Pyriel
+$2041754C 000003E7
++Max AGL
+%Credits: Code Master>Pyriel
+$20417550 000003E7
++Max CHA
+%Credits: Code Master>Pyriel
+$20417554 000003E7
++Infinite HP
+%Credits: Code Master>Pyriel
+$10417560 0000270F
++Infinite MP
+%Credits: Code Master>Pyriel
+$10417564 0000270F
++Infinite AP
+%Credits: Code Master>Pyriel
+$2041758C 00000064
+!!
+!Character 2 Codes:
++Max HP
+%Credits: Code Master>Pyriel
+$104175DC 0000270F
++Max MP
+%Credits: Code Master>Pyriel
+$104175E0 0000270F
++Max STR
+%Credits: Code Master>Pyriel
+$104175E8 000003E7
++Max Defense High
+%Credits: Code Master>Pyriel
+$204175F0 000003E7
++Max Defense Low
+%Credits: Code Master>Pyriel
+$204175F4 000003E7
++Max INT
+%Credits: Code Master>Pyriel
+$204175F8 000003E7
++Max MEN
+%Credits: Code Master>Pyriel
+$204175FC 000003E7
++Max AGL
+%Credits: Code Master>Pyriel
+$20417600 000003E7
++Max CHA
+%Credits: Code Master>Pyriel
+$20417604 000003E7
++Infinite HP
+%Credits: Code Master>Pyriel
+$10417610 0000270F
++Infinite MP
+%Credits: Code Master>Pyriel
+$10417614 0000270F
++Infinite AP
+%Credits: Code Master>Pyriel
+$2041763C 00000064
+!!
+!Character 3 Codes:
++Max HP
+%Credits: Code Master>Pyriel
+$1041768C 0000270F
++Max MP
+%Credits: Code Master>Pyriel
+$10417690 0000270F
++Max STR
+%Credits: Code Master>Pyriel
+$10417698 000003E7
++Max Defense High
+%Credits: Code Master>Pyriel
+$204176A0 000003E7
++Max Defense Low
+%Credits: Code Master>Pyriel
+$204176A4 000003E7
++Max INT
+%Credits: Code Master>Pyriel
+$204176A8 000003E7
++Max MEN
+%Credits: Code Master>Pyriel
+$204176AC 000003E7
++Max AGL
+%Credits: Code Master>Pyriel
+$204176B0 000003E7
++Max CHA
+%Credits: Code Master>Pyriel
+$204176B4 000003E7
++Infinite HP
+%Credits: Code Master>Pyriel
+$104176C0 0000270F
++Infinite MP
+%Credits: Code Master>Pyriel
+$104176C4 0000270F
++Infinite AP
+%Credits: Code Master>Pyriel
+$204176EC 00000064
+!!
+!Item Modifier Codes (Part 1):
++Slot 1
+%Credits: Code Master>Pyriel
+$103FC52C 00000???
++Slot 2
+%Credits: Code Master>Pyriel
+$103FC52D 00000???
++Slot 3
+%Credits: Code Master>Pyriel
+$103FC52E 00000???
++Slot 4
+%Credits: Code Master>Pyriel
+$103FC52F 00000???
++Slot 5
+%Credits: Code Master>Pyriel
+$103FC530 00000???
++Slot 6
+%Credits: Code Master>Pyriel
+$103FC531 00000???
++Slot 7
+%Credits: Code Master>Pyriel
+$103FC532 00000???
++Slot 8
+%Credits: Code Master>Pyriel
+$103FC533 00000???
++Slot 9
+%Credits: Code Master>Pyriel
+$103FC534 00000???
++Slot 10
+%Credits: Code Master>Pyriel
+$103FC535 00000???
++Slot 11
+%Credits: Code Master>Pyriel
+$103FC536 00000???
++Slot 12
+%Credits: Code Master>Pyriel
+$103FC537 00000???
++Slot 13
+%Credits: Code Master>Pyriel
+$103FC538 00000???
++Slot 14
+%Credits: Code Master>Pyriel
+$103FC539 00000???
++Slot 15
+%Credits: Code Master>Pyriel
+$103FC53A 00000???
++Slot 16
+%Credits: Code Master>Pyriel
+$103FC53B 00000???
++Slot 17
+%Credits: Code Master>Pyriel
+$103FC53C 00000???
++Slot 18
+%Credits: Code Master>Pyriel
+$103FC53D 00000???
++Slot 19
+%Credits: Code Master>Pyriel
+$103FC53E 00000???
++Slot 20
+%Credits: Code Master>Pyriel
+$103FC53F 00000???
++Slot 21
+%Credits: Code Master>Pyriel
+$103FC540 00000???
++Slot 22
+%Credits: Code Master>Pyriel
+$103FC541 00000???
++Slot 23
+%Credits: Code Master>Pyriel
+$103FC542 00000???
++Slot 24
+%Credits: Code Master>Pyriel
+$103FC543 00000???
++Slot 25
+%Credits: Code Master>Pyriel
+$103FC544 00000???
++Slot 26
+%Credits: Code Master>Pyriel
+$103FC545 00000???
++Slot 27
+%Credits: Code Master>Pyriel
+$103FC546 00000???
++Slot 28
+%Credits: Code Master>Pyriel
+$103FC547 00000???
++Slot 29
+%Credits: Code Master>Pyriel
+$103FC548 00000???
++Slot 30
+%Credits: Code Master>Pyriel
+$103FC549 00000???
++Slot 31
+%Credits: Code Master>Pyriel
+$103FC54A 00000???
++Slot 32
+%Credits: Code Master>Pyriel
+$103FC54B 00000???
++Slot 33
+%Credits: Code Master>Pyriel
+$103FC54C 00000???
++Slot 34
+%Credits: Code Master>Pyriel
+$103FC54D 00000???
++Slot 35
+%Credits: Code Master>Pyriel
+$103FC54E 00000???
++Slot 36
+%Credits: Code Master>Pyriel
+$103FC54F 00000???
++Slot 37
+%Credits: Code Master>Pyriel
+$103FC550 00000???
++Slot 38
+%Credits: Code Master>Pyriel
+$103FC551 00000???
++Slot 39
+%Credits: Code Master>Pyriel
+$103FC552 00000???
++Slot 40
+%Credits: Code Master>Pyriel
+$103FC553 00000???
++Slot 41
+%Credits: Code Master>Pyriel
+$103FC554 00000???
++Slot 42
+%Credits: Code Master>Pyriel
+$103FC555 00000???
++Slot 43
+%Credits: Code Master>Pyriel
+$103FC556 00000???
++Slot 44
+%Credits: Code Master>Pyriel
+$103FC557 00000???
++Slot 45
+%Credits: Code Master>Pyriel
+$103FC558 00000???
++Slot 46
+%Credits: Code Master>Pyriel
+$103FC559 00000???
++Slot 47
+%Credits: Code Master>Pyriel
+$103FC55A 00000???
++Slot 48
+%Credits: Code Master>Pyriel
+$103FC55B 00000???
++Slot 49
+%Credits: Code Master>Pyriel
+$103FC55C 00000???
++Slot 50
+%Credits: Code Master>Pyriel
+$103FC55D 00000???
++Slot 51
+%Credits: Code Master>Pyriel
+$103FC55E 00000???
++Slot 52
+%Credits: Code Master>Pyriel
+$103FC55F 00000???
++Slot 53
+%Credits: Code Master>Pyriel
+$103FC560 00000???
++Slot 54
+%Credits: Code Master>Pyriel
+$103FC561 00000???
++Slot 55
+%Credits: Code Master>Pyriel
+$103FC562 00000???
++Slot 56
+%Credits: Code Master>Pyriel
+$103FC563 00000???
++Slot 57
+%Credits: Code Master>Pyriel
+$103FC564 00000???
++Slot 58
+%Credits: Code Master>Pyriel
+$103FC565 00000???
++Slot 59
+%Credits: Code Master>Pyriel
+$103FC566 00000???
++Slot 60
+%Credits: Code Master>Pyriel
+$103FC567 00000???
++Slot 61
+%Credits: Code Master>Pyriel
+$103FC568 00000???
++Slot 62
+%Credits: Code Master>Pyriel
+$103FC569 00000???
++Slot 63
+%Credits: Code Master>Pyriel
+$103FC56A 00000???
++Slot 64
+%Credits: Code Master>Pyriel
+$103FC56B 00000???
++Slot 65
+%Credits: Code Master>Pyriel
+$103FC56C 00000???
++Slot 66
+%Credits: Code Master>Pyriel
+$103FC56D 00000???
++Slot 67
+%Credits: Code Master>Pyriel
+$103FC56E 00000???
++Slot 68
+%Credits: Code Master>Pyriel
+$103FC56F 00000???
++Slot 69
+%Credits: Code Master>Pyriel
+$103FC570 00000???
++Slot 70
+%Credits: Code Master>Pyriel
+$103FC571 00000???
++Slot 71
+%Credits: Code Master>Pyriel
+$103FC572 00000???
++Slot 72
+%Credits: Code Master>Pyriel
+$103FC573 00000???
++Slot 73
+%Credits: Code Master>Pyriel
+$103FC574 00000???
++Slot 74
+%Credits: Code Master>Pyriel
+$103FC575 00000???
++Slot 75
+%Credits: Code Master>Pyriel
+$103FC576 00000???
++Slot 76
+%Credits: Code Master>Pyriel
+$103FC577 00000???
++Slot 77
+%Credits: Code Master>Pyriel
+$103FC578 00000???
++Slot 78
+%Credits: Code Master>Pyriel
+$103FC579 00000???
++Slot 79
+%Credits: Code Master>Pyriel
+$103FC57A 00000???
++Slot 80
+%Credits: Code Master>Pyriel
+$103FC57B 00000???
++Slot 81
+%Credits: Code Master>Pyriel
+$103FC57C 00000???
++Slot 82
+%Credits: Code Master>Pyriel
+$103FC57D 00000???
++Slot 83
+%Credits: Code Master>Pyriel
+$103FC57E 00000???
++Slot 84
+%Credits: Code Master>Pyriel
+$103FC57F 00000???
++Slot 85
+%Credits: Code Master>Pyriel
+$103FC580 00000???
++Slot 86
+%Credits: Code Master>Pyriel
+$103FC581 00000???
++Slot 87
+%Credits: Code Master>Pyriel
+$103FC582 00000???
++Slot 88
+%Credits: Code Master>Pyriel
+$103FC583 00000???
++Slot 89
+%Credits: Code Master>Pyriel
+$103FC584 00000???
++Slot 90
+%Credits: Code Master>Pyriel
+$103FC585 00000???
++Slot 91
+%Credits: Code Master>Pyriel
+$103FC586 00000???
++Slot 92
+%Credits: Code Master>Pyriel
+$103FC587 00000???
++Slot 93
+%Credits: Code Master>Pyriel
+$103FC588 00000???
++Slot 94
+%Credits: Code Master>Pyriel
+$103FC589 00000???
++Slot 95
+%Credits: Code Master>Pyriel
+$103FC58A 00000???
++Slot 96
+%Credits: Code Master>Pyriel
+$103FC58B 00000???
++Slot 97
+%Credits: Code Master>Pyriel
+$103FC58C 00000???
++Slot 98
+%Credits: Code Master>Pyriel
+$103FC58D 00000???
++Slot 99
+%Credits: Code Master>Pyriel
+$103FC58E 00000???
++Slot 100
+%Credits: Code Master>Pyriel
+$103FC58F 00000???
+!!
+!Item Modifier Codes (Part 2):
++Slot 101
+%Credits: Code Master>Pyriel
+$103FC590 00000???
++Slot 102
+%Credits: Code Master>Pyriel
+$103FC591 00000???
++Slot 103
+%Credits: Code Master>Pyriel
+$103FC592 00000???
++Slot 104
+%Credits: Code Master>Pyriel
+$103FC593 00000???
++Slot 105
+%Credits: Code Master>Pyriel
+$103FC594 00000???
++Slot 106
+%Credits: Code Master>Pyriel
+$103FC595 00000???
++Slot 107
+%Credits: Code Master>Pyriel
+$103FC596 00000???
++Slot 108
+%Credits: Code Master>Pyriel
+$103FC597 00000???
++Slot 109
+%Credits: Code Master>Pyriel
+$103FC598 00000???
++Slot 110
+%Credits: Code Master>Pyriel
+$103FC599 00000???
++Slot 111
+%Credits: Code Master>Pyriel
+$103FC59A 00000???
++Slot 112
+%Credits: Code Master>Pyriel
+$103FC59B 00000???
++Slot 113
+%Credits: Code Master>Pyriel
+$103FC59C 00000???
++Slot 114
+%Credits: Code Master>Pyriel
+$103FC59D 00000???
++Slot 115
+%Credits: Code Master>Pyriel
+$103FC59E 00000???
++Slot 116
+%Credits: Code Master>Pyriel
+$103FC59F 00000???
++Slot 117
+%Credits: Code Master>Pyriel
+$103FC5A0 00000???
++Slot 118
+%Credits: Code Master>Pyriel
+$103FC5A1 00000???
++Slot 119
+%Credits: Code Master>Pyriel
+$103FC5A2 00000???
++Slot 120
+%Credits: Code Master>Pyriel
+$103FC5A3 00000???
++Slot 121
+%Credits: Code Master>Pyriel
+$103FC5A4 00000???
++Slot 122
+%Credits: Code Master>Pyriel
+$103FC5A5 00000???
++Slot 123
+%Credits: Code Master>Pyriel
+$103FC5A6 00000???
++Slot 124
+%Credits: Code Master>Pyriel
+$103FC5A7 00000???
++Slot 125
+%Credits: Code Master>Pyriel
+$103FC5A8 00000???
++Slot 126
+%Credits: Code Master>Pyriel
+$103FC5A9 00000???
++Slot 127
+%Credits: Code Master>Pyriel
+$103FC5AA 00000???
++Slot 128
+%Credits: Code Master>Pyriel
+$103FC5AB 00000???
++Slot 129
+%Credits: Code Master>Pyriel
+$103FC5AC 00000???
++Slot 130
+%Credits: Code Master>Pyriel
+$103FC5AD 00000???
++Slot 131
+%Credits: Code Master>Pyriel
+$103FC5AE 00000???
++Slot 132
+%Credits: Code Master>Pyriel
+$103FC5AF 00000???
++Slot 133
+%Credits: Code Master>Pyriel
+$103FC5B0 00000???
++Slot 134
+%Credits: Code Master>Pyriel
+$103FC5B1 00000???
++Slot 135
+%Credits: Code Master>Pyriel
+$103FC5B2 00000???
++Slot 136
+%Credits: Code Master>Pyriel
+$103FC5B3 00000???
++Slot 137
+%Credits: Code Master>Pyriel
+$103FC5B4 00000???
++Slot 138
+%Credits: Code Master>Pyriel
+$103FC5B5 00000???
++Slot 139
+%Credits: Code Master>Pyriel
+$103FC5B6 00000???
++Slot 140
+%Credits: Code Master>Pyriel
+$103FC5B7 00000???
++Slot 141
+%Credits: Code Master>Pyriel
+$103FC5B8 00000???
++Slot 142
+%Credits: Code Master>Pyriel
+$103FC5B9 00000???
++Slot 143
+%Credits: Code Master>Pyriel
+$103FC5BA 00000???
++Slot 144
+%Credits: Code Master>Pyriel
+$103FC5BB 00000???
++Slot 145
+%Credits: Code Master>Pyriel
+$103FC5BC 00000???
++Slot 146
+%Credits: Code Master>Pyriel
+$103FC5BD 00000???
++Slot 147
+%Credits: Code Master>Pyriel
+$103FC5BE 00000???
++Slot 148
+%Credits: Code Master>Pyriel
+$103FC5BF 00000???
++Slot 149
+%Credits: Code Master>Pyriel
+$103FC5C0 00000???
++Slot 150
+%Credits: Code Master>Pyriel
+$103FC5C1 00000???
++Slot 151
+%Credits: Code Master>Pyriel
+$103FC5C2 00000???
++Slot 152
+%Credits: Code Master>Pyriel
+$103FC5C3 00000???
++Slot 153
+%Credits: Code Master>Pyriel
+$103FC5C4 00000???
++Slot 154
+%Credits: Code Master>Pyriel
+$103FC5C5 00000???
++Slot 155
+%Credits: Code Master>Pyriel
+$103FC5C6 00000???
++Slot 156
+%Credits: Code Master>Pyriel
+$103FC5C7 00000???
++Slot 157
+%Credits: Code Master>Pyriel
+$103FC5C8 00000???
++Slot 158
+%Credits: Code Master>Pyriel
+$103FC5C9 00000???
++Slot 159
+%Credits: Code Master>Pyriel
+$103FC5CA 00000???
++Slot 160
+%Credits: Code Master>Pyriel
+$103FC5CB 00000???
++Slot 161
+%Credits: Code Master>Pyriel
+$103FC5CC 00000???
++Slot 162
+%Credits: Code Master>Pyriel
+$103FC5CD 00000???
++Slot 163
+%Credits: Code Master>Pyriel
+$103FC5CE 00000???
++Slot 164
+%Credits: Code Master>Pyriel
+$103FC5CF 00000???
++Slot 165
+%Credits: Code Master>Pyriel
+$103FC5D0 00000???
++Slot 166
+%Credits: Code Master>Pyriel
+$103FC5D1 00000???
++Slot 167
+%Credits: Code Master>Pyriel
+$103FC5D2 00000???
++Slot 168
+%Credits: Code Master>Pyriel
+$103FC5D3 00000???
++Slot 169
+%Credits: Code Master>Pyriel
+$103FC5D4 00000???
++Slot 170
+%Credits: Code Master>Pyriel
+$103FC5D5 00000???
++Slot 171
+%Credits: Code Master>Pyriel
+$103FC5D6 00000???
++Slot 172
+%Credits: Code Master>Pyriel
+$103FC5D7 00000???
++Slot 173
+%Credits: Code Master>Pyriel
+$103FC5D8 00000???
++Slot 174
+%Credits: Code Master>Pyriel
+$103FC5D9 00000???
++Slot 175
+%Credits: Code Master>Pyriel
+$103FC5DA 00000???
++Slot 176
+%Credits: Code Master>Pyriel
+$103FC5DB 00000???
++Slot 177
+%Credits: Code Master>Pyriel
+$103FC5DC 00000???
++Slot 178
+%Credits: Code Master>Pyriel
+$103FC5DD 00000???
++Slot 179
+%Credits: Code Master>Pyriel
+$103FC5DE 00000???
++Slot 180
+%Credits: Code Master>Pyriel
+$103FC5DF 00000???
++Slot 181
+%Credits: Code Master>Pyriel
+$103FC5E0 00000???
++Slot 182
+%Credits: Code Master>Pyriel
+$103FC5E1 00000???
++Slot 183
+%Credits: Code Master>Pyriel
+$103FC5E2 00000???
++Slot 184
+%Credits: Code Master>Pyriel
+$103FC5E3 00000???
++Slot 185
+%Credits: Code Master>Pyriel
+$103FC5E4 00000???
++Slot 186
+%Credits: Code Master>Pyriel
+$103FC5E5 00000???
++Slot 187
+%Credits: Code Master>Pyriel
+$103FC5E6 00000???
++Slot 188
+%Credits: Code Master>Pyriel
+$103FC5E7 00000???
++Slot 189
+%Credits: Code Master>Pyriel
+$103FC5E8 00000???
++Slot 190
+%Credits: Code Master>Pyriel
+$103FC5E9 00000???
++Slot 191
+%Credits: Code Master>Pyriel
+$103FC5EA 00000???
++Slot 192
+%Credits: Code Master>Pyriel
+$103FC5EB 00000???
++Slot 193
+%Credits: Code Master>Pyriel
+$103FC5EC 00000???
++Slot 194
+%Credits: Code Master>Pyriel
+$103FC5ED 00000???
++Slot 195
+%Credits: Code Master>Pyriel
+$103FC5EE 00000???
++Slot 196
+%Credits: Code Master>Pyriel
+$103FC5EF 00000???
++Slot 197
+%Credits: Code Master>Pyriel
+$103FC5F0 00000???
++Slot 198
+%Credits: Code Master>Pyriel
+$103FC5F1 00000???
++Slot 199
+%Credits: Code Master>Pyriel
+$103FC5F2 00000???
++Slot 200
+%Credits: Code Master>Pyriel
+$103FC5F3 00000???
+!!
+!Max Item Codes (Part 1):
++Slot 1
+%Credits: Code Master>Pyriel
+$003FCE8C 00000063
++Slot 2
+%Credits: Code Master>Pyriel
+$003FCE8D 00000063
++Slot 3
+%Credits: Code Master>Pyriel
+$003FCE8E 00000063
++Slot 4
+%Credits: Code Master>Pyriel
+$003FCE8F 00000063
++Slot 5
+%Credits: Code Master>Pyriel
+$003FCE90 00000063
++Slot 6
+%Credits: Code Master>Pyriel
+$003FCE91 00000063
++Slot 7
+%Credits: Code Master>Pyriel
+$003FCE92 00000063
++Slot 8
+%Credits: Code Master>Pyriel
+$003FCE93 00000063
++Slot 9
+%Credits: Code Master>Pyriel
+$003FCE94 00000063
++Slot 10
+%Credits: Code Master>Pyriel
+$003FCE95 00000063
++Slot 11
+%Credits: Code Master>Pyriel
+$003FCE96 00000063
++Slot 12
+%Credits: Code Master>Pyriel
+$003FCE97 00000063
++Slot 13
+%Credits: Code Master>Pyriel
+$003FCE98 00000063
++Slot 14
+%Credits: Code Master>Pyriel
+$003FCE99 00000063
++Slot 15
+%Credits: Code Master>Pyriel
+$003FCE9A 00000063
++Slot 16
+%Credits: Code Master>Pyriel
+$003FCE9B 00000063
++Slot 17
+%Credits: Code Master>Pyriel
+$003FCE9C 00000063
++Slot 18
+%Credits: Code Master>Pyriel
+$003FCE9D 00000063
++Slot 19
+%Credits: Code Master>Pyriel
+$003FCE9E 00000063
++Slot 20
+%Credits: Code Master>Pyriel
+$003FCE9F 00000063
++Slot 21
+%Credits: Code Master>Pyriel
+$003FCEA0 00000063
++Slot 22
+%Credits: Code Master>Pyriel
+$003FCEA1 00000063
++Slot 23
+%Credits: Code Master>Pyriel
+$003FCEA2 00000063
++Slot 24
+%Credits: Code Master>Pyriel
+$003FCEA3 00000063
++Slot 25
+%Credits: Code Master>Pyriel
+$003FCEA4 00000063
++Slot 26
+%Credits: Code Master>Pyriel
+$003FCEA5 00000063
++Slot 27
+%Credits: Code Master>Pyriel
+$003FCEA6 00000063
++Slot 28
+%Credits: Code Master>Pyriel
+$003FCEA7 00000063
++Slot 29
+%Credits: Code Master>Pyriel
+$003FCEA8 00000063
++Slot 30
+%Credits: Code Master>Pyriel
+$003FCEA9 00000063
++Slot 31
+%Credits: Code Master>Pyriel
+$003FCEAA 00000063
++Slot 32
+%Credits: Code Master>Pyriel
+$003FCEAB 00000063
++Slot 33
+%Credits: Code Master>Pyriel
+$003FCEAC 00000063
++Slot 34
+%Credits: Code Master>Pyriel
+$003FCEAD 00000063
++Slot 35
+%Credits: Code Master>Pyriel
+$003FCEAE 00000063
++Slot 36
+%Credits: Code Master>Pyriel
+$003FCEAF 00000063
++Slot 37
+%Credits: Code Master>Pyriel
+$003FCEB0 00000063
++Slot 38
+%Credits: Code Master>Pyriel
+$003FCEB1 00000063
++Slot 39
+%Credits: Code Master>Pyriel
+$003FCEB2 00000063
++Slot 40
+%Credits: Code Master>Pyriel
+$003FCEB3 00000063
++Slot 41
+%Credits: Code Master>Pyriel
+$003FCEB4 00000063
++Slot 42
+%Credits: Code Master>Pyriel
+$003FCEB5 00000063
++Slot 43
+%Credits: Code Master>Pyriel
+$003FCEB6 00000063
++Slot 44
+%Credits: Code Master>Pyriel
+$003FCEB7 00000063
++Slot 45
+%Credits: Code Master>Pyriel
+$003FCEB8 00000063
++Slot 46
+%Credits: Code Master>Pyriel
+$003FCEB9 00000063
++Slot 47
+%Credits: Code Master>Pyriel
+$003FCEBA 00000063
++Slot 48
+%Credits: Code Master>Pyriel
+$003FCEBB 00000063
++Slot 49
+%Credits: Code Master>Pyriel
+$003FCEBC 00000063
++Slot 50
+%Credits: Code Master>Pyriel
+$003FCEBD 00000063
++Slot 51
+%Credits: Code Master>Pyriel
+$003FCEBE 00000063
++Slot 52
+%Credits: Code Master>Pyriel
+$003FCEBF 00000063
++Slot 53
+%Credits: Code Master>Pyriel
+$003FCEC0 00000063
++Slot 54
+%Credits: Code Master>Pyriel
+$003FCEC1 00000063
++Slot 55
+%Credits: Code Master>Pyriel
+$003FCEC2 00000063
++Slot 56
+%Credits: Code Master>Pyriel
+$003FCEC3 00000063
++Slot 57
+%Credits: Code Master>Pyriel
+$003FCEC4 00000063
++Slot 58
+%Credits: Code Master>Pyriel
+$003FCEC5 00000063
++Slot 59
+%Credits: Code Master>Pyriel
+$003FCEC6 00000063
++Slot 60
+%Credits: Code Master>Pyriel
+$003FCEC7 00000063
++Slot 61
+%Credits: Code Master>Pyriel
+$003FCEC8 00000063
++Slot 62
+%Credits: Code Master>Pyriel
+$003FCEC9 00000063
++Slot 63
+%Credits: Code Master>Pyriel
+$003FCECA 00000063
++Slot 64
+%Credits: Code Master>Pyriel
+$003FCECB 00000063
++Slot 65
+%Credits: Code Master>Pyriel
+$003FCECC 00000063
++Slot 66
+%Credits: Code Master>Pyriel
+$003FCECD 00000063
++Slot 67
+%Credits: Code Master>Pyriel
+$003FCECE 00000063
++Slot 68
+%Credits: Code Master>Pyriel
+$003FCECF 00000063
++Slot 69
+%Credits: Code Master>Pyriel
+$003FCED0 00000063
++Slot 70
+%Credits: Code Master>Pyriel
+$003FCED1 00000063
++Slot 71
+%Credits: Code Master>Pyriel
+$003FCED2 00000063
++Slot 72
+%Credits: Code Master>Pyriel
+$003FCED3 00000063
++Slot 73
+%Credits: Code Master>Pyriel
+$003FCED4 00000063
++Slot 74
+%Credits: Code Master>Pyriel
+$003FCED5 00000063
++Slot 75
+%Credits: Code Master>Pyriel
+$003FCED6 00000063
++Slot 76
+%Credits: Code Master>Pyriel
+$003FCED7 00000063
++Slot 77
+%Credits: Code Master>Pyriel
+$003FCED8 00000063
++Slot 78
+%Credits: Code Master>Pyriel
+$003FCED9 00000063
++Slot 79
+%Credits: Code Master>Pyriel
+$003FCEDA 00000063
++Slot 80
+%Credits: Code Master>Pyriel
+$003FCEDB 00000063
++Slot 81
+%Credits: Code Master>Pyriel
+$003FCEDC 00000063
++Slot 82
+%Credits: Code Master>Pyriel
+$003FCEDD 00000063
++Slot 83
+%Credits: Code Master>Pyriel
+$003FCEDE 00000063
++Slot 84
+%Credits: Code Master>Pyriel
+$003FCEDF 00000063
++Slot 85
+%Credits: Code Master>Pyriel
+$003FCEE0 00000063
++Slot 86
+%Credits: Code Master>Pyriel
+$003FCEE1 00000063
++Slot 87
+%Credits: Code Master>Pyriel
+$003FCEE2 00000063
++Slot 88
+%Credits: Code Master>Pyriel
+$003FCEE3 00000063
++Slot 89
+%Credits: Code Master>Pyriel
+$003FCEE4 00000063
++Slot 90
+%Credits: Code Master>Pyriel
+$003FCEE5 00000063
++Slot 91
+%Credits: Code Master>Pyriel
+$003FCEE6 00000063
++Slot 92
+%Credits: Code Master>Pyriel
+$003FCEE7 00000063
++Slot 93
+%Credits: Code Master>Pyriel
+$003FCEE8 00000063
++Slot 94
+%Credits: Code Master>Pyriel
+$003FCEE9 00000063
++Slot 95
+%Credits: Code Master>Pyriel
+$003FCEEA 00000063
++Slot 96
+%Credits: Code Master>Pyriel
+$003FCEEB 00000063
++Slot 97
+%Credits: Code Master>Pyriel
+$003FCEEC 00000063
++Slot 98
+%Credits: Code Master>Pyriel
+$003FCEED 00000063
++Slot 99
+%Credits: Code Master>Pyriel
+$003FCEEE 00000063
++Slot 100
+%Credits: Code Master>Pyriel
+$003FCEEF 00000063
+!!
+!Max Item Codes (Part 2):
++Slot 101
+%Credits: Code Master>Pyriel
+$003FCEF0 00000063
++Slot 102
+%Credits: Code Master>Pyriel
+$003FCEF1 00000063
++Slot 103
+%Credits: Code Master>Pyriel
+$003FCEF2 00000063
++Slot 104
+%Credits: Code Master>Pyriel
+$003FCEF3 00000063
++Slot 105
+%Credits: Code Master>Pyriel
+$003FCEF4 00000063
++Slot 106
+%Credits: Code Master>Pyriel
+$003FCEF5 00000063
++Slot 107
+%Credits: Code Master>Pyriel
+$003FCEF6 00000063
++Slot 108
+%Credits: Code Master>Pyriel
+$003FCEF7 00000063
++Slot 109
+%Credits: Code Master>Pyriel
+$003FCEF8 00000063
++Slot 110
+%Credits: Code Master>Pyriel
+$003FCEF9 00000063
++Slot 111
+%Credits: Code Master>Pyriel
+$003FCEFA 00000063
++Slot 112
+%Credits: Code Master>Pyriel
+$003FCEFB 00000063
++Slot 113
+%Credits: Code Master>Pyriel
+$003FCEFC 00000063
++Slot 114
+%Credits: Code Master>Pyriel
+$003FCEFD 00000063
++Slot 115
+%Credits: Code Master>Pyriel
+$003FCEFE 00000063
++Slot 116
+%Credits: Code Master>Pyriel
+$003FCEFF 00000063
++Slot 117
+%Credits: Code Master>Pyriel
+$003FCF00 00000063
++Slot 118
+%Credits: Code Master>Pyriel
+$003FCF01 00000063
++Slot 119
+%Credits: Code Master>Pyriel
+$003FCF02 00000063
++Slot 120
+%Credits: Code Master>Pyriel
+$003FCF03 00000063
++Slot 121
+%Credits: Code Master>Pyriel
+$003FCF04 00000063
++Slot 122
+%Credits: Code Master>Pyriel
+$003FCF05 00000063
++Slot 123
+%Credits: Code Master>Pyriel
+$003FCF06 00000063
++Slot 124
+%Credits: Code Master>Pyriel
+$003FCF07 00000063
++Slot 125
+%Credits: Code Master>Pyriel
+$003FCF08 00000063
++Slot 126
+%Credits: Code Master>Pyriel
+$003FCF09 00000063
++Slot 127
+%Credits: Code Master>Pyriel
+$003FCF0A 00000063
++Slot 128
+%Credits: Code Master>Pyriel
+$003FCF0B 00000063
++Slot 129
+%Credits: Code Master>Pyriel
+$003FCF0C 00000063
++Slot 130
+%Credits: Code Master>Pyriel
+$003FCF0D 00000063
++Slot 131
+%Credits: Code Master>Pyriel
+$003FCF0E 00000063
++Slot 132
+%Credits: Code Master>Pyriel
+$003FCF0F 00000063
++Slot 133
+%Credits: Code Master>Pyriel
+$003FCF10 00000063
++Slot 134
+%Credits: Code Master>Pyriel
+$003FCF11 00000063
++Slot 135
+%Credits: Code Master>Pyriel
+$003FCF12 00000063
++Slot 136
+%Credits: Code Master>Pyriel
+$003FCF13 00000063
++Slot 137
+%Credits: Code Master>Pyriel
+$003FCF14 00000063
++Slot 138
+%Credits: Code Master>Pyriel
+$003FCF15 00000063
++Slot 139
+%Credits: Code Master>Pyriel
+$003FCF16 00000063
++Slot 140
+%Credits: Code Master>Pyriel
+$003FCF17 00000063
++Slot 141
+%Credits: Code Master>Pyriel
+$003FCF18 00000063
++Slot 142
+%Credits: Code Master>Pyriel
+$003FCF19 00000063
++Slot 143
+%Credits: Code Master>Pyriel
+$003FCF1A 00000063
++Slot 144
+%Credits: Code Master>Pyriel
+$003FCF1B 00000063
++Slot 145
+%Credits: Code Master>Pyriel
+$003FCF1C 00000063
++Slot 146
+%Credits: Code Master>Pyriel
+$003FCF1D 00000063
++Slot 147
+%Credits: Code Master>Pyriel
+$003FCF1E 00000063
++Slot 148
+%Credits: Code Master>Pyriel
+$003FCF1F 00000063
++Slot 149
+%Credits: Code Master>Pyriel
+$003FCF20 00000063
++Slot 150
+%Credits: Code Master>Pyriel
+$003FCF21 00000063
++Slot 151
+%Credits: Code Master>Pyriel
+$003FCF22 00000063
++Slot 152
+%Credits: Code Master>Pyriel
+$003FCF23 00000063
++Slot 153
+%Credits: Code Master>Pyriel
+$003FCF24 00000063
++Slot 154
+%Credits: Code Master>Pyriel
+$003FCF25 00000063
++Slot 155
+%Credits: Code Master>Pyriel
+$003FCF26 00000063
++Slot 156
+%Credits: Code Master>Pyriel
+$003FCF27 00000063
++Slot 157
+%Credits: Code Master>Pyriel
+$003FCF28 00000063
++Slot 158
+%Credits: Code Master>Pyriel
+$003FCF29 00000063
++Slot 159
+%Credits: Code Master>Pyriel
+$003FCF2A 00000063
++Slot 160
+%Credits: Code Master>Pyriel
+$003FCF2B 00000063
++Slot 161
+%Credits: Code Master>Pyriel
+$003FCF2C 00000063
++Slot 162
+%Credits: Code Master>Pyriel
+$003FCF2D 00000063
++Slot 163
+%Credits: Code Master>Pyriel
+$003FCF2E 00000063
++Slot 164
+%Credits: Code Master>Pyriel
+$003FCF2F 00000063
++Slot 165
+%Credits: Code Master>Pyriel
+$003FCF30 00000063
++Slot 166
+%Credits: Code Master>Pyriel
+$003FCF31 00000063
++Slot 167
+%Credits: Code Master>Pyriel
+$003FCF32 00000063
++Slot 168
+%Credits: Code Master>Pyriel
+$003FCF33 00000063
++Slot 169
+%Credits: Code Master>Pyriel
+$003FCF34 00000063
++Slot 170
+%Credits: Code Master>Pyriel
+$003FCF35 00000063
++Slot 171
+%Credits: Code Master>Pyriel
+$003FCF36 00000063
++Slot 172
+%Credits: Code Master>Pyriel
+$003FCF37 00000063
++Slot 173
+%Credits: Code Master>Pyriel
+$003FCF38 00000063
++Slot 174
+%Credits: Code Master>Pyriel
+$003FCF39 00000063
++Slot 175
+%Credits: Code Master>Pyriel
+$003FCF3A 00000063
++Slot 176
+%Credits: Code Master>Pyriel
+$003FCF3B 00000063
++Slot 177
+%Credits: Code Master>Pyriel
+$003FCF3C 00000063
++Slot 178
+%Credits: Code Master>Pyriel
+$003FCF3D 00000063
++Slot 179
+%Credits: Code Master>Pyriel
+$003FCF3E 00000063
++Slot 180
+%Credits: Code Master>Pyriel
+$003FCF3F 00000063
++Slot 181
+%Credits: Code Master>Pyriel
+$003FCF40 00000063
++Slot 182
+%Credits: Code Master>Pyriel
+$003FCF41 00000063
++Slot 183
+%Credits: Code Master>Pyriel
+$003FCF42 00000063
++Slot 184
+%Credits: Code Master>Pyriel
+$003FCF43 00000063
++Slot 185
+%Credits: Code Master>Pyriel
+$003FCF44 00000063
++Slot 186
+%Credits: Code Master>Pyriel
+$003FCF45 00000063
++Slot 187
+%Credits: Code Master>Pyriel
+$003FCF46 00000063
++Slot 188
+%Credits: Code Master>Pyriel
+$003FCF47 00000063
++Slot 189
+%Credits: Code Master>Pyriel
+$003FCF48 00000063
++Slot 190
+%Credits: Code Master>Pyriel
+$003FCF49 00000063
++Slot 191
+%Credits: Code Master>Pyriel
+$003FCF4A 00000063
++Slot 192
+%Credits: Code Master>Pyriel
+$003FCF4B 00000063
++Slot 193
+%Credits: Code Master>Pyriel
+$003FCF4C 00000063
++Slot 194
+%Credits: Code Master>Pyriel
+$003FCF4D 00000063
++Slot 195
+%Credits: Code Master>Pyriel
+$003FCF4E 00000063
++Slot 196
+%Credits: Code Master>Pyriel
+$003FCF4F 00000063
++Slot 197
+%Credits: Code Master>Pyriel
+$003FCF50 00000063
++Slot 198
+%Credits: Code Master>Pyriel
+$003FCF51 00000063
++Slot 199
+%Credits: Code Master>Pyriel
+$003FCF52 00000063
++Slot 200
+%Credits: Code Master>Pyriel
+$003FCF53 00000063
+!!
+!Misc. Codes:
++Infinite Money
+%Credits: Code Master>Pyriel
+$103FC3B8 0000FFFF
++Max Money
+%Credits: Code Master>Pyriel
+$203FC3B8 0098967F
++Save Anywhere
+%Credits: Code Master>Pyriel
+$10422D28 00000001
++No Random Battles
+%Credits: Code Master>Pyriel
+$102BC80E 00001000
++Walk Twice As Fast
+%Credits: Code Master>Pyriel
+$204A3EA0 40000000
+!!
+!Character Modifier Codes:
++Slot 1
+%Credits: Code Master>Pyriel
+$003FDC9C 000000??
++Slot 2
+%Credits: Code Master>Pyriel
+$003FDC9D 000000??
++Slot 3
+%Credits: Code Master>Pyriel
+$003FDC9E 000000??
++Backup Slot 1
+%Credits: Code Master>Pyriel
+$003FDC9F 000000??
++Backup Slot 2
+%Credits: Code Master>Pyriel
+$003FDCA0 000000??
+!!
+!!
+^6 = MODS:
+Quantity Digits to Accompany Character Modifier Codes
+00 - Lang
+01 - Maya
+02 - Kazan
+03 - Sharon
+04 - Ayne
+05 - Galvan
+Quantity Digits to Accompany Equipment/Item Modifier Codes
+000 - Nothing
+001 - Poison Charm
+002 - Vigor Charm
+003 - Speed Charm
+004 - Pickpocket Charm
+005 - Sharpshoot Charm
+006 - Venom Charm
+007 - Dodge Charm
+008 - Jab Charm
+009 - Armor Charm
+00A - Flexible Charm
+00B - Cool Jewel
+00C - Tiger Jewel
+00D - Chance Jewel
+00E - Power Jewel
+00F - Avarice Jewel
+010 - Lucky Jewel
+011 - Charge Jewel
+012 - Winner's Jewel
+013 - Feeble Jewel
+014 - Dark Jewel
+015 - Poison Ring
+016 - Venom Ring
+017 - Eagle Ring
+018 - Black Ring
+019 - Barricade Ring
+01A - Rot Ring
+01B - Handmaiden's Ring
+01C - Valor Ring
+01D - Wizard's Ring
+01E - Guard Ring
+01F - Stone Bangle
+020 - Assault Bangle
+021 - White Bangle
+022 - Adept Bangle
+023 - Bonus Bangle
+024 - Armor Bangle
+025 - Wisdom Bangle
+026 - Hero Bangle
+027 - Banshee Bangle
+028 - Beggar's Bangle
+029 - Passion Necklace
+02A - Tough Necklace
+02B - Babble Necklace
+02C - Nomadic Necklace
+02D - Power Necklace
+02E - Dream Necklace
+02F - Hero's Necklace
+030 - Fugitive Necklace
+031 - Savior Necklace
+032 - Doomed Necklace
+033 - Plague Orb
+034 - Savior Orb
+035 - Saintly Orb
+036 - Survival Orb
+037 - Holy Orb
+038 - Hunter's Orb
+039 - Guardian Orb
+03A - Origin Orb
+03B - Ascetic's Orb
+03C - Life-giving Orb
+03D - Guardian Symbol
+03E - Gold Symbol
+03F - Last Hit Symbol
+040 - Vampire Symbol
+041 - Seeker's Symbol
+042 - Prosperous Symbol
+043 - Sage Symbol
+044 - Warlock Symbol
+045 - Redeeming Symbol
+046 - Leech Symbol
+047 - Protection Badge
+048 - Knockout Badge
+049 - Rest Badge
+04A - Dead End Badge
+04B - Alarm Badge
+04C - Hit Badge
+04D - Iron Wall Badge
+04E - Holy Badge
+04F - Gremlin Badge
+050 - Extract Badge
+051 - Gladiator Ribbon
+052 - Magician's Ribbon
+053 - Kamikaze Ribbon
+054 - Master's Ribbon
+055 - Healing Ribbon
+056 - Winged Ribbon
+057 - Muscle Ribbon
+058 - Sagely Ribbon
+059 - Tireless Ribbon
+05A - Faust Ribbon
+05B - Plague Earring
+05C - Arts Earring
+05D - Sureshot Earring
+05E - Getaway Earring
+05F - Hermit's Earring
+060 - Rogue's Earring
+061 - Counter Earring
+062 - Rich Earring
+063 - Gambler's Earring
+064 - Flash Earring
+12D - Long Sword
+12E - Broad Sword
+12F - Hammer Blade
+130 - Rusted Sword
+131 - Lightning Sword
+132 - Hero Blade
+133 - Poison Sword
+134 - Lizard Killer
+135 - Gold Sword
+136 - Heavy Cleaver
+137 - Lightsilver
+138 - Assassin Blade
+139 - Viking Sword
+13A - Iron Sword
+13B - Amber Smash
+13C - Fire Edge
+13D - Venom Blade
+13E - Ice Sword
+13F - Spider's Bite
+140 - Crusader Heart
+141 - Double Getter
+142 - Steel Saber
+143 - Skeleton Saber
+144 - Fang Rapier
+145 - Holy Basher
+146 - Ancient Sword
+147 - Misfortune
+148 - Damascus Blade
+149 - Flame Brand
+14A - Quantumbael
+14B - Scarface
+14C - Soulbreaker
+14D - Vapor Blade
+14E - Deva's Sword
+14F - Mad Triumph
+150 - Strike Forge
+151 - Last Dragon
+152 - Force Veil
+153 - Gaia Blade
+154 - Overkill
+155 - Violator
+156 - Sixteenth Night
+157 - Holy Rhodis
+158 - Magic Tyrant
+159 - Thousand Saga
+15A - Doombringer
+15B - Tempest
+15C - God Era
+15D - Nine Emperors
+15E - Judgement Day
+15F - Mail Jacket
+160 - Padded Jacket
+161 - Leather Chest
+162 - Leather Armor
+163 - Gorgeous Jacket
+164 - Hard Leather Vest
+165 - Metal Jacket
+166 - Tattered Vest
+167 - Spit Guard
+168 - Lizard Chest Guard
+169 - Bandit Mail
+16A - Chain Jacket
+16B - Plate Jacket
+16C - Speed King
+16D - Bone Jacket
+16E - Studded Plate
+16F - Golden Vest
+170 - Valor Plate
+171 - Silver Plate
+172 - War Chestplate
+173 - Titan's Armor
+174 - Flare Jacket
+175 - Saint Garb
+176 - Beastlord Armor
+177 - Life-Armor
+178 - Last Element
+179 - Demon Armor
+17A - Ultimate Plate
+17B - Sacred Heart
+17C - Raging Roar
+17D - Bandage
+17E - Leather Gloves
+17F - Studded Knuckles
+180 - Formal Brace
+181 - Padded Gloves
+182 - Wet Gloves
+183 - Power Gloves
+184 - Knuckle Guard
+185 - Leather Brace
+186 - Elegant Sleeves
+187 - Gauntlets
+188 - Emerald Gloves
+189 - Goldfingers
+18A - Cyclone Gauntlets
+18B - Kaiser Knuckles
+18C - Steel Fists
+18D - Bladefists
+18E - Heavy Gauntlets
+18F - Silver Guards
+190 - Holy Gloves
+191 - Aura Gauntlets
+192 - War Handguard
+193 - Shining Gloves
+194 - Omega Fists
+195 - Black Gauntlets
+196 - Ruler's Gauntlets
+197 - Warrior's Hand
+198 - Guardian's Arm
+199 - Divine Arm Guard
+19A - Divine Hope
+19B - Normal Shoes
+19C - Skunky Shoes
+19D - Short Boots
+19E - Suede Boots
+19F - Long Boots
+1A0 - Hard Leather Boots
+1A1 - Battle Greaves
+1A2 - Chain Leggings
+1A3 - Iron Geta Shoes
+1A4 - Gold Leggings
+1A5 - Bandit Greaves
+1A6 - Shadow Boots
+1A7 - Gold Leg Guard
+1A8 - Whirlwind Shoes
+1A9 - Plate Leggings
+1AA - Feather Boots
+1AB - Protector Boots
+1AC - Steel Leggings
+1AD - Silver Greaves
+1AE - Dazzling Leggings
+1AF - War Leggings
+1B0 - Warrior's Boots
+1B1 - Dark Hunter Shoes
+1B2 - Duel Leggings
+1B3 - Shoes Of Virtue
+1B4 - Glaring Leggings
+1B5 - Evil Boots
+1B6 - Ruler Leggings
+1B7 - Stone Alpines
+1B8 - Valiant Peace
+1B9 - None
+1BA - Dyed Clothes
+1BB - Native Clothes
+1BC - Dirty Clothes
+1BD - Gorgeous Dress
+1BE - Silk Robe
+1BF - Leather-Shoulders
+1C0 - Lizard Cloak
+1C1 - Thunder Robe
+1C2 - Forest Cloak
+1C3 - Beast Mantle
+1C4 - Metal Cloak
+1C5 - Feather Robe
+1C6 - Sorcerer's Robe
+1C7 - Amber Cloak
+1C8 - Blue Water Robe
+1C9 - Silver Robe
+1CA - White Garb
+1CB - Vampire's Robe
+1CC - Empress Robe
+1CD - Maiden's Robe
+1CE - Aura Cloak
+1CF - Saint's Garb
+1D0 - Dark Princess
+1D1 - Shining Robe
+1D2 - Heavenly Robe
+1D3 - Heavenly Silk
+1D4 - Alus' Robe
+1D8 - None
+1D9 - Simple Cloth Shoes
+1DA - Leather Boots
+1DB - Worn-Out Shoes
+1DC - Wooden Shoes
+1DD - Purple Boots
+1DE - Silly Shoes
+1DF - Hot Boots
+1E0 - Platform Boots
+1E1 - Rubber Soles
+1E2 - Spiked Shoes
+1E3 - Wind Boots
+1E4 - Chain Sandals
+1E5 - Jeweled Pumps
+1E6 - Scorching Boots
+1E7 - Boots Of Wisdom
+1E8 - Blue Leather Shoes
+1E9 - Arrest Boots
+1EA - Elemental Shoes
+1EB - Starlight Boots
+1EC - Barrier Soles
+1ED - Wiseman's Socks
+1EE - Wizard's Shoes
+1EF - Shadow Leapers
+1F0 - Five-Star Shoes
+1F1 - Treasure Shoes
+1F2 - Goddess' Heels
+1F3 - Heavenly Shoes
+1F7 - None
+1F8 - Simple Doublet
+1F9 - Foul Doublet
+1FA - Black Belt Doublet
+1FB - Gold Dragon
+1FC - Serpent Doublet
+1FD - Leather Doublet
+1FE - Gold Cross
+1FF - Venom Fist
+200 - Fiery Red Doublet
+201 - Jet Black Outfit
+202 - Safari Outfit
+203 - Blue Dragon
+204 - Sun Fighter
+205 - Cyclone Doublet
+206 - Knuckle Sleeper
+207 - Combat Outfit
+208 - Leon King Doublet
+209 - Lightning Outfit
+20A - Cursed Shadow
+20B - God Fist Doublet
+20C - Fighting Spirit
+20D - Death Duel
+20E - Seven Stars
+216 - None
+217 - Straw Sandals
+218 - Old Sandals
+219 - Kung Fu Shoes
+21A - Red Ball Shoes
+21B - Dark Shadow Shoes
+21C - Fighting Shoes
+21D - Sneaking Shoes
+21E - Golden Chips
+21F - Chainmail Sandals
+220 - Wedge Spikes
+221 - Forest Boots
+222 - Dragon Shoes
+223 - White Silver Shoes
+224 - Martial Art Shoes
+225 - Gaia Soles
+226 - Lifespring Shoes
+227 - Leon Pathfinders
+228 - Steel Shoes
+229 - Thunder Shoes
+22A - Grappler Soles
+22B - Raging Fire
+22C - Dark Stalkers
+22D - Dragonlord Shoes
+235 - Talwar
+236 - Blue Dragon Katana
+237 - Useless Toy Katana
+238 - Sharp Saber
+239 - Rusted Katana
+23A - Shock Ripper
+23B - Demon Gleamer
+23C - Impervious Blade
+23D - Shamshir
+23E - Red Scorpion
+23F - Moonlight Blade
+240 - Endgame Katana
+241 - Silver Bell
+242 - Beast Slayer
+243 - Wind Slicer
+244 - Maneater
+245 - Malice
+246 - Godthunder
+247 - Night Striker
+248 - Soulbinder
+249 - Black Viper
+24A - Sakura Katana
+24B - Exorcist Katana
+24C - Dark Matter
+24D - Godblade Radwell
+253 - Leather Chest
+254 - Slimy Chest
+255 - Hard Breastplate
+256 - Enamel Bustier
+257 - Tiger Bikini
+258 - Cyclone Bustier
+259 - Laminated Plate
+25A - Gold Bikini
+25B - Lion Heart
+25C - Silver Bikini
+25D - Dynamite Bikini
+25E - Knight Breastguard
+25F - Wonder Bikini
+260 - Black Chest
+261 - Iron Princess
+267 - Skin Gloves
+268 - Slimy Gloves
+269 - Thick Gloves
+26A - Spike Gloves
+26B - Lace Gloves
+26C - Fang Guard
+26D - Plate Gloves
+26E - Pure White Sleeves
+26F - Lioness Gloves
+270 - Stone God Gloves
+271 - Gala Sleeves
+272 - Aura Arms
+273 - Bizzare Gloves
+274 - Wild Sakura
+275 - Queen Sleeves
+27B - Wood Blocks
+27C - Marine Pumps
+27D - Sticky Shoes
+27E - Flared Sandals
+27F - Fishnet Tights
+280 - Lizard Sandals
+281 - Pirate Boots
+282 - Gold Pumps
+283 - Emerald Sandals
+284 - Steel Platforms
+285 - Wing Heels
+286 - Deep Blue
+287 - Burning Chips
+288 - Black Shades
+289 - Queen Heels
+28F - Giant Stone Axe
+290 - Unwieldy Axe
+291 - Massive Axe
+292 - Shot Hammer
+293 - Earth Axe
+294 - Bloodthirsty Axe
+295 - Steel Hammer
+296 - Giant Flash Axe
+297 - Giant Lion Axe
+298 - Crusader Axe
+299 - Raging Axe
+29A - Sealed Axe
+29B - Giant Demon Axe
+2A3 - Warrior Fauld
+2A4 - Fool's Skirt
+2A5 - Sun Fauld
+2A6 - Violet Fauld
+2A7 - Valor Fauld
+2A8 - Silver Fauld
+2A9 - Underworld Fauld
+2AA - Evil Banishers
+2AD - Wind Armbands
+2AE - Tight Armbands
+2AF - Venus Armbands
+2B0 - Red Lotus Armbands
+2B1 - Iron Armbands
+2B2 - Guardian Armbands
+2B3 - Roaring Flash
+2B4 - Holy Armbands
+2BC - Heal Powder
+2BD - Heal Leaf
+2BE - Heal Potion
+2BF - Heal Bottle
+2C0 - Restore Leaf
+2C1 - Restore Blossom
+2C2 - Restore Potion
+2C4 - Magic Powder
+2C5 - Magic Potion
+2C6 - Magic Bottle
+2C8 - Bronze Barome
+2C9 - Silver Barome
+2CA - Golden Barome
+2CC - Spirit's Blessing
+2CD - Angel's Blessing
+2CE - Goddess's Blessing
+2CF - Ultimate Blessing
+2D0 - Poison Cure
+2D1 - Venom Cure
+2D2 - Plague Cure
+2D3 - Sleep Cure
+2D4 - Stun Cure
+2D5 - Paralysis Cure
+2D6 - Blind Cure
+2D7 - Confusion Cure
+2D8 - Berserk Cure
+2D9 - Fear Cure
+2DA - Seal Cure
+2DB - Spellbind Cure
+2DC - Bewitch Cure
+2DD - Petrify Cure
+2DE - Toxin Remedy
+2DF - Physical Remedy
+2E0 - Mental Remedy
+2E1 - Curse Remedy
+2E2 - Panacea
+2E4 - Revival Elixir
+2E5 - Revival Bottle
+2E6 - Resurrect Bottle
+2E8 - Angels' Miracle
+2E9 - Goddess's Miracle
+2EA - Ultimate Miracle
+2EC - Sour Bloom
+2ED - Bitter Seed
+2F0 - Attack Oil
+2F1 - Attack Bottle
+2F2 - Guard Oil
+2F3 - Guard Bottle
+2F4 - Wisdom Oil
+2F5 - Wisdom Bottle
+2F6 - Mind Oil
+2F7 - Mind Bottle
+2F8 - Quick Oil
+2F9 - Quick Bottle
+2FA - Fame Oil
+2FB - Fame Bottle
+2FC - Boost Oil
+2FD - Boost Bottle
+2FE - StrongMenWeakWalls
+2FF - WeakMenStrongWalls
+300 - Hitde Poison
+301 - Dekna Poison
+302 - Donzu Poison
+303 - Hakshi Poison
+304 - Large Rice Ball
+305 - Doplin Lunch
+306 - Homemade Lunch
+307 - Smirm's Vodgai
+308 - Tatsnam Juice
+309 - Working Lunch
+30A - Snowland Lunch
+30B - Dream Burger
+30C - Double Dream
+30D - King Dream
+30E - Dream Shake
+30F - Dream Fries
+310 - Dream Nuggets
+311 - Dream Sandwich
+312 - Kravia Kabob
+313 - Grilled Lunch
+314 - Sailor's Lunch
+315 - Tanza Tea Cake
+316 - Meat Gyoza
+317 - Meat Bun
+318 - Traditional Ramen
+319 - PaiPai's Lunch
+31A - Kinzan Juice
+31B - Smirm's Tonic
+31C - Paradise Lunch
+322 - Courageous Heart
+323 - Maiden's Heart
+324 - Sage's Handbook
+325 - Merchant's Soul
+329 - Magic Booster
+32A - Magic Transformer
+32D - Attack Booster
+32E - Attack Transformer
+32F - Burning Heart
+331 - Vaccine Syringe
+332 - Life Syringe
+335 - Invincibility Pill
+336 - Unassailable Pill
+337 - Transparent Pill
+338 - Blessing Pill
+33A - Rainbow Capsule
+33B - Scroll Of Identity
+33E - Poison Draught
+33F - Venom Draught
+340 - Plague Draught
+341 - Sleep Draught
+342 - Stun Draught
+343 - Paralysis Draught
+344 - Blinding Draught
+345 - Confusion Draught
+346 - Berserk Draught
+347 - Fear Draught
+348 - Seal Draught
+349 - Spellbind Draught
+34A - Bewitch Draught
+34B - Petrify Draught
+35C - StoneCrush Scroll
+35D - IceNeedle Scroll
+35E - FlameBurst Scroll
+35F - SlicingWind Scroll
+360 - LightFlash Scroll
+361 - ShadowLurk Scroll
+362 - BoltStrike Scroll
+394 - Flag Of Retreat
+395 - Quick Escape Charm
+398 - Heaven's Path
+399 - Heaven's Gate
+39A - Hell's Path
+39B - Leaf Of Stamina
+39C - Fruit Of Stamina
+39D - Leaf Of Mysticism
+39E - Fruit Of Mysticism
+39F - Leaf Of Vigor
+3A0 - Fruit Of Vigor
+3A1 - Leaf Of Defiance
+3A2 - Fruit Of Defiance
+3A3 - Leaf Of Sagacity
+3A4 - Fruit Of Sagacity
+3A5 - Leaf Of Mentality
+3A6 - Fruit Of Mentality
+3A7 - Leaf Of Swiftness
+3A8 - Fruit Of Swiftness
+3A9 - Leaf Of Appeal
+3AA - Fruit Of Appeal
+3AB - Fruit Of The Gods
+3AC - Confidence Tonic
+3AD - Confidence+ Tonic
+3AE - Timid Tonic
+3AF - Timid+ Tonic
+3B0 - Blowfish Weed
+3B1 - Zg-p"1 3B2 - Dead Flowers 3B3 - Rotten Fruit 3B4 - Bitter Fruit 3B5 - Fertilizer 3E0 - Cooking Today 3E1 - Darakin Rag-Autumn 3E2 - Uppercrust Dessert 3E3 - Boundless Love 3E4 - Prehistoric Study 3E5 - On The Road Again 3E6 - Darakin Rag-Winter 3E7 - Old Map 3E8 - Adventurer's Log 1 3E9 - Adventurer's Log 2 3EA - Adventurer's Log 3 3EB - Explorer's Notes 1 3EC - Explorer's Notes 2 3ED - Explorer's Notes 3 3EE - Enjoying Gardening 3EF - Crazy About Stew 3F0 - Popular Edo Dishes 3F1 - The Royal Gourmet 3F2 - Leather Helm 3F3 - Hero's Bandana 3F4 - Faceplate 3F5 - Brass Rerebrace 3F6 - Kilt 3F7 - Steel Headband 3F8 - Knee Guards 3F9 - Pauldrons 3FA - Steel Helmet No.10 3FB - Gorget 3FC - Ogre Mask 3FD - Commander's Helmet 3FE - Cloth Hat 3FF - Leather Gauntlets 400 - Leather Hood 401 - Feathered Hat 402 - Cotton Leg Wraps 403 - Elbow Pads 404 - Long Underwear 405 - Magical Panties 406 - Shamaness Headband 407 - Maid's Apron 408 - Cloth Headband 409 - Leather Taping 40A - Leather Greaves 40B - Half-gauntlets 40C - Ruffian's Headband 40D - Battle Sash 40E - Red Loincloth 40F - Battle Sash No.100 410 - Bandit's Bandana 411 - Cowboy Hat 412 - Silk Armband 413 - Golden Tights 414 - Leather Panties 415 - Master's Garter 416 - Leather Girdle 417 - Headset 418 - Iron Fists 419 - Gold Mail 41A - Cast-off Chrysalis 41B - Wolf's Tooth 41C - Winding Vine 41D - Feather Of Death 41E - Bad-smelling Flank 41F - Rock-hard Muscles 420 - Joprian 3rd Order 421 - Joprian 2nd Order 422 - Joprian 1st Order 423 - Electric Fin 424 - Beast's Leg 425 - Very Hard Egg 426 - Tsuchinoko 427 - Bat Wing 428 - Viscous Liquid 429 - Very Hard Bone 42A - Gamedius Crystal 42B - Gleaming Talon 42C - Ghoul's Skull 42D - Cute Tail 42E - Big Bean 42F - Fragrant Pollen 430 - Gubner Tube 431 - Diamond Tooth 432 - Venomous Pollen 433 - Monster's Pride 434 - Hawk Eye 435 - Zonansk Sphere 436 - King Cracker 437 - Bonarl Sac 438 - Digger's Hand 439 - Eerie Egg 43A - Radiant Sphere 43B - Black Bean 43C - Sleeping Pollen 43D - Brantle Tube 43E - Neblesk Organ 43F - Flame Sac 440 - Robnant Crystal 441 - Demon's Skull 442 - Reptilian Teeth 443 - Weight Sac 444 - Thorny Shell 445 - Ancient Talisman 446 - Blue Crest 447 - Red Crest 448 - Golden Crest 449 - Dark Muscles 44A - Gaseous Spores 44B - Burning Spike 44C - Hellflame Sac 44D - Demon's Horns 44E - Giant Eyeball 44F - Kiserium Organ 450 - Lightning Crystal 451 - Demonic Aggregate 455 - Lyps' Tear 456 - Maspergu Tube 457 - Friendship Ring 458 - Doplin's Cloak 459 - Green Glow Moss 45A - Gross Guts 45B - Red Emblem 45C - Calamity Horn 45D - Musky, For Men 45E - ThunderStone Shard 45F - Photo Of Marienne 460 - Black Bouquet 461 - Everlasting Lava 462 - Old Wooden Sword 463 - Stained Portrait 464 - Golden Emblem 465 - Ominous Helmet 466 - Vake Rose 467 - Ball Of Beginning 46A - L'il Lisa Doll 46B - Doplin Doll 46C - Doplin Coin 46D - Ancient Writing 46E - Blood-sucker Mask 46F - Golden Apple 470 - Old Mattock 471 - Fire Spirit Pot 472 - Wind-handle Staff 473 - Black Heart 4A6 - Wool Bedspread 4A7 - Palatial Bed 4A8 - Big Child's Bed 4A9 - Futon Bedding 4AA - Kodama's Bonsai 4AB - Diamond Temple 4AC - Lady Borgiov 4AD - Priscilla Poster 4AE - Noa's Adventure 4AF - Hanging Scroll 4B0 - Handwoven Carpet 4B1 - Tiger Skin Rug 4B2 - Pink Carpet 4B3 - Tatami Mats 4B4 - Wooden Table 4B5 - Obsidian Table 4B6 - Whimsical Table 4B7 - Jinjaro Plant 4B8 - Tekecha Plant 4B9 - Shigezo's Bonsai 4BA - Particle Monitor 4BB - Inscribed Sword 4BC - Rixelian Plant 4BD - Venus 4BE - Dimension Linker 4BF - Big Bear 4C0 - PonPon 4C1 - Donjak 4C4 - Superhero Tinio 4C5 - Meow Kitty 4CE - Golden Dragon 4CF - Filot Plate 4D0 - Mysterious Clock 4D1 - Rosanne's Clock 4D2 - Diamond Ring 4D3 - Gem-covered Dress 4D4 - Monster Fossil 4D5 - Rozmed Tablet 4D6 - Statue Of Arkuslam 4D7 - St. Joprian's Cup 4D8 - Cabey River 4D9 - A Meal With Romleo 4DA - Wretched Ponelot 4DB - Degenerate Reality 4DC - Morning Glory 4DD - Ephemeral Hopes 4DE - Count Rembreau 4DF - Lady Chelsey 4E0 - Flower In Buraje 4E1 - Dolpheii Forever 4E2 - Gorda Wood 4E3 - Zuvel Fur 4E4 - Morus Spring Water 4E5 - Noth Rock 4E6 - Izumo Bronze 4E7 - Alma Iron Ore 4E8 - Black Star Sand 4E9 - Gorum Hemp Cloth 4EA - Zonark Weed 4EB - Sodan Poison Cloth 4EC - Darm Sheet Metal 4ED - Raw Ruby 4EE - Jubon Rock 4EF - Broot Shell 4F0 - Rock Demon's Tears 4F1 - Oble Gold Dust 4F2 - Jedo Metal 4F3 - Telma Crystal 4F4 - Condark Mercury 4F5 - Venom Star 4F6 - Zoar Hide 4F7 - Raw Tourmaline 4F8 - White Stardust 4F9 - Unkar Stone 4FA - Bodiga Silk Cloth 4FB - Zorda Hide 4FC - Wenit Holy Water 4FD - Raw Emerald 4FE - Suzna Ice Stone 4FF - Maubourg Iron 500 - Cress Rock 501 - Zestia Leaf 502 - Silver Stone 503 - Cherry-red Cloth 504 - Requal White Cloth 505 - Meezus Liquid 506 - Jonel Sap 507 - Iron Polish Powder 508 - Hellbeast Bone 509 - Iron Fang Stone 50A - Galma Gold Dust 50B - Meriah Crystal 50C - Holy Stone 50D - Moble Silver Cloth 50E - Demarn Amber 50F - Vigantes Fur 510 - Heaven Stone 511 - Nervel Carcass 512 - Chabu Liquid 513 - Lonkon Powder 514 - Cib Silver Crystal 515 - Gelatin Oil 516 - Raw Alexandrite 517 - Edo Steel 518 - Liaza Magic Cloth 519 - Dark Stone 51A - Gold Scarab Powder 51B - Calemb Grass 51C - Desant Silver 51D - Suvick Cord 51E - Tonki Iron Sand 51F - Chabel Iron Ore 520 - Purple Ice Crystal 521 - Barl Iron Ore 522 - Sevti Sheet Metal 523 - Guwo Solution 524 - Chibe Gold Bullion 525 - EarthThunder Stone 526 - Vigasoma 527 - Gan Meteorite Iron 528 - Yahku Holy Cloth 529 - Ragrude Crystal 52A - Mad Venom 52B - Force Crystal 52C - Raw Diamond 52D - Earth Dragon Wing 52E - Eternal Flame 52F - Eben Silver Ore 530 - Beldnuk 531 - Meteorite 532 - Fargoh Cloth 533 - Holy King's Gem 534 - Immortality Potion 535 - Black Opal 536 - Wind Spirit Stone 537 - Gabnas Leather 538 - Yumyl God Water 539 - Orhalcon Stone 53A - BlackDemon's Heart 53B - Red-hot Stone 53C - Kiness Life Water 53D - Belkran Stone 53E - Cle Meteorite Iron 53F - Sand Dragon's Eye 540 - Lord Crystal 541 - Ndiga King Stone 542 - Miraculous Vaunusk 543 - Evil Jungo Stone 544 - Anvenus Gem 545 - Heaven's Secret 578 - Beef 579 - Premium Beef 57A - Pork 57B - Poultry 57C - Animal Meat 57D - Monster Meat 57E - Vegetables 57F - Fish 580 - Shellfish 581 - Shrimp 582 - Egg 583 - Lobster 584 - Crab 585 - Milk 586 - Cheese 587 - Cream 588 - Bread 589 - Rice 58A - Pasta 58B - Southern Noodles 58C - Fruit 58D - Cooking Oil 58E - Red Pepper 58F - Spices 590 - Herbs 591 - Miso 592 - Tofu 593 - Dessert Set 594 - Soup Broth Set 595 - Cookie Set 596 - Curry Set 597 - Chocolate 598 - Cocoa Powder 599 - Red Wine 59A - White Wine 59B - Pie Dough 59C - Suspicious Meat 59D - Creepy Mushroom 640 - Sunset Seed 641 - Stink Bulb 642 - Refreshing Seed 643 - Lyps Seed 644 - Ominous Seed 645 - Royal Seed 646 - Meat-like Bulb 647 - Southern-wind Seed 648 - Regular Fertilizer 649 - Magic Fertilizer 64A - Mega Fertilizer 67C - Wind Talisman 67D - Emblem Of Nobility 67E - Red Gate Key 67F - Blue Gate Key 680 - Yellow Gate Key 681 - Aqualith 682 - Pyrolith 683 - Aerolith 684 - Mizel Red Sand 685 - Kravian Pass 686 - Lightning Tear 687 - ThunderWind Stone 688 - Gold Key 689 - Prison Key 68A - Blue Sky Shard 68B - Pedometer 68C - Golden Groneh 68D - Lypster 68E - Gunang Weed 68F - Star Bandana 690 - Reik Flowers 691 - Divine Scarlet Gem 692 - Divine BlueIce Gem 693 - Divine Gem Of Dawn 694 - Camping Kit 6A4 - Secrets Of Fang 6A5 - Secrets Of Thunder 6A6 - Secrets Of Dragon 6A7 - Spell Of Light 6A8 - Spell Of Earth 6A9 - Spell Of Water 6AA - Spell Of Fire 6AB - Spell Of Dark 6AC - Spell Of Thunder 6AD - Way Of Rage 6AE - Way Of Quake 6AF - Way Of Thunder 6B0 - Book Of Fear 6B1 - Book Of Eden 6B2 - Book Of Rose 6B3 - Heaven's Teachings 6B4 - Earth's Teachings
+3B2 - Dead Flowers
+3B3 - Rotten Fruit
+3B4 - Bitter Fruit
+3B5 - Fertilizer
+3E0 - Cooking Today
+3E1 - Darakin Rag-Autumn
+3E2 - Uppercrust Dessert
+3E3 - Boundless Love
+3E4 - Prehistoric Study
+3E5 - On The Road Again
+3E6 - Darakin Rag-Winter
+3E7 - Old Map
+3E8 - Adventurer's Log 1
+3E9 - Adventurer's Log 2
+3EA - Adventurer's Log 3
+3EB - Explorer's Notes 1
+3EC - Explorer's Notes 2
+3ED - Explorer's Notes 3
+3EE - Enjoying Gardening
+3EF - Crazy About Stew
+3F0 - Popular Edo Dishes
+3F1 - The Royal Gourmet
+3F2 - Leather Helm
+3F3 - Hero's Bandana
+3F4 - Faceplate
+3F5 - Brass Rerebrace
+3F6 - Kilt
+3F7 - Steel Headband
+3F8 - Knee Guards
+3F9 - Pauldrons
+3FA - Steel Helmet No.10
+3FB - Gorget
+3FC - Ogre Mask
+3FD - Commander's Helmet
+3FE - Cloth Hat
+3FF - Leather Gauntlets
+400 - Leather Hood
+401 - Feathered Hat
+402 - Cotton Leg Wraps
+403 - Elbow Pads
+404 - Long Underwear
+405 - Magical Panties
+406 - Shamaness Headband
+407 - Maid's Apron
+408 - Cloth Headband
+409 - Leather Taping
+40A - Leather Greaves
+40B - Half-gauntlets
+40C - Ruffian's Headband
+40D - Battle Sash
+40E - Red Loincloth
+40F - Battle Sash No.100
+410 - Bandit's Bandana
+411 - Cowboy Hat
+412 - Silk Armband
+413 - Golden Tights
+414 - Leather Panties
+415 - Master's Garter
+416 - Leather Girdle
+417 - Headset
+418 - Iron Fists
+419 - Gold Mail
+41A - Cast-off Chrysalis
+41B - Wolf's Tooth
+41C - Winding Vine
+41D - Feather Of Death
+41E - Bad-smelling Flank
+41F - Rock-hard Muscles
+420 - Joprian 3rd Order
+421 - Joprian 2nd Order
+422 - Joprian 1st Order
+423 - Electric Fin
+424 - Beast's Leg
+425 - Very Hard Egg
+426 - Tsuchinoko
+427 - Bat Wing
+428 - Viscous Liquid
+429 - Very Hard Bone
+42A - Gamedius Crystal
+42B - Gleaming Talon
+42C - Ghoul's Skull
+42D - Cute Tail
+42E - Big Bean
+42F - Fragrant Pollen
+430 - Gubner Tube
+431 - Diamond Tooth
+432 - Venomous Pollen
+433 - Monster's Pride
+434 - Hawk Eye
+435 - Zonansk Sphere
+436 - King Cracker
+437 - Bonarl Sac
+438 - Digger's Hand
+439 - Eerie Egg
+43A - Radiant Sphere
+43B - Black Bean
+43C - Sleeping Pollen
+43D - Brantle Tube
+43E - Neblesk Organ
+43F - Flame Sac
+440 - Robnant Crystal
+441 - Demon's Skull
+442 - Reptilian Teeth
+443 - Weight Sac
+444 - Thorny Shell
+445 - Ancient Talisman
+446 - Blue Crest
+447 - Red Crest
+448 - Golden Crest
+449 - Dark Muscles
+44A - Gaseous Spores
+44B - Burning Spike
+44C - Hellflame Sac
+44D - Demon's Horns
+44E - Giant Eyeball
+44F - Kiserium Organ
+450 - Lightning Crystal
+451 - Demonic Aggregate
+455 - Lyps' Tear
+456 - Maspergu Tube
+457 - Friendship Ring
+458 - Doplin's Cloak
+459 - Green Glow Moss
+45A - Gross Guts
+45B - Red Emblem
+45C - Calamity Horn
+45D - Musky, For Men
+45E - ThunderStone Shard
+45F - Photo Of Marienne
+460 - Black Bouquet
+461 - Everlasting Lava
+462 - Old Wooden Sword
+463 - Stained Portrait
+464 - Golden Emblem
+465 - Ominous Helmet
+466 - Vake Rose
+467 - Ball Of Beginning
+46A - L'il Lisa Doll
+46B - Doplin Doll
+46C - Doplin Coin
+46D - Ancient Writing
+46E - Blood-sucker Mask
+46F - Golden Apple
+470 - Old Mattock
+471 - Fire Spirit Pot
+472 - Wind-handle Staff
+473 - Black Heart
+4A6 - Wool Bedspread
+4A7 - Palatial Bed
+4A8 - Big Child's Bed
+4A9 - Futon Bedding
+4AA - Kodama's Bonsai
+4AB - Diamond Temple
+4AC - Lady Borgiov
+4AD - Priscilla Poster
+4AE - Noa's Adventure
+4AF - Hanging Scroll
+4B0 - Handwoven Carpet
+4B1 - Tiger Skin Rug
+4B2 - Pink Carpet
+4B3 - Tatami Mats
+4B4 - Wooden Table
+4B5 - Obsidian Table
+4B6 - Whimsical Table
+4B7 - Jinjaro Plant
+4B8 - Tekecha Plant
+4B9 - Shigezo's Bonsai
+4BA - Particle Monitor
+4BB - Inscribed Sword
+4BC - Rixelian Plant
+4BD - Venus
+4BE - Dimension Linker
+4BF - Big Bear
+4C0 - PonPon
+4C1 - Donjak
+4C4 - Superhero Tinio
+4C5 - Meow Kitty
+4CE - Golden Dragon
+4CF - Filot Plate
+4D0 - Mysterious Clock
+4D1 - Rosanne's Clock
+4D2 - Diamond Ring
+4D3 - Gem-covered Dress
+4D4 - Monster Fossil
+4D5 - Rozmed Tablet
+4D6 - Statue Of Arkuslam
+4D7 - St. Joprian's Cup
+4D8 - Cabey River
+4D9 - A Meal With Romleo
+4DA - Wretched Ponelot
+4DB - Degenerate Reality
+4DC - Morning Glory
+4DD - Ephemeral Hopes
+4DE - Count Rembreau
+4DF - Lady Chelsey
+4E0 - Flower In Buraje
+4E1 - Dolpheii Forever
+4E2 - Gorda Wood
+4E3 - Zuvel Fur
+4E4 - Morus Spring Water
+4E5 - Noth Rock
+4E6 - Izumo Bronze
+4E7 - Alma Iron Ore
+4E8 - Black Star Sand
+4E9 - Gorum Hemp Cloth
+4EA - Zonark Weed
+4EB - Sodan Poison Cloth
+4EC - Darm Sheet Metal
+4ED - Raw Ruby
+4EE - Jubon Rock
+4EF - Broot Shell
+4F0 - Rock Demon's Tears
+4F1 - Oble Gold Dust
+4F2 - Jedo Metal
+4F3 - Telma Crystal
+4F4 - Condark Mercury
+4F5 - Venom Star
+4F6 - Zoar Hide
+4F7 - Raw Tourmaline
+4F8 - White Stardust
+4F9 - Unkar Stone
+4FA - Bodiga Silk Cloth
+4FB - Zorda Hide
+4FC - Wenit Holy Water
+4FD - Raw Emerald
+4FE - Suzna Ice Stone
+4FF - Maubourg Iron
+500 - Cress Rock
+501 - Zestia Leaf
+502 - Silver Stone
+503 - Cherry-red Cloth
+504 - Requal White Cloth
+505 - Meezus Liquid
+506 - Jonel Sap
+507 - Iron Polish Powder
+508 - Hellbeast Bone
+509 - Iron Fang Stone
+50A - Galma Gold Dust
+50B - Meriah Crystal
+50C - Holy Stone
+50D - Moble Silver Cloth
+50E - Demarn Amber
+50F - Vigantes Fur
+510 - Heaven Stone
+511 - Nervel Carcass
+512 - Chabu Liquid
+513 - Lonkon Powder
+514 - Cib Silver Crystal
+515 - Gelatin Oil
+516 - Raw Alexandrite
+517 - Edo Steel
+518 - Liaza Magic Cloth
+519 - Dark Stone
+51A - Gold Scarab Powder
+51B - Calemb Grass
+51C - Desant Silver
+51D - Suvick Cord
+51E - Tonki Iron Sand
+51F - Chabel Iron Ore
+520 - Purple Ice Crystal
+521 - Barl Iron Ore
+522 - Sevti Sheet Metal
+523 - Guwo Solution
+524 - Chibe Gold Bullion
+525 - EarthThunder Stone
+526 - Vigasoma
+527 - Gan Meteorite Iron
+528 - Yahku Holy Cloth
+529 - Ragrude Crystal
+52A - Mad Venom
+52B - Force Crystal
+52C - Raw Diamond
+52D - Earth Dragon Wing
+52E - Eternal Flame
+52F - Eben Silver Ore
+530 - Beldnuk
+531 - Meteorite
+532 - Fargoh Cloth
+533 - Holy King's Gem
+534 - Immortality Potion
+535 - Black Opal
+536 - Wind Spirit Stone
+537 - Gabnas Leather
+538 - Yumyl God Water
+539 - Orhalcon Stone
+53A - BlackDemon's Heart
+53B - Red-hot Stone
+53C - Kiness Life Water
+53D - Belkran Stone
+53E - Cle Meteorite Iron
+53F - Sand Dragon's Eye
+540 - Lord Crystal
+541 - Ndiga King Stone
+542 - Miraculous Vaunusk
+543 - Evil Jungo Stone
+544 - Anvenus Gem
+545 - Heaven's Secret
+578 - Beef
+579 - Premium Beef
+57A - Pork
+57B - Poultry
+57C - Animal Meat
+57D - Monster Meat
+57E - Vegetables
+57F - Fish
+580 - Shellfish
+581 - Shrimp
+582 - Egg
+583 - Lobster
+584 - Crab
+585 - Milk
+586 - Cheese
+587 - Cream
+588 - Bread
+589 - Rice
+58A - Pasta
+58B - Southern Noodles
+58C - Fruit
+58D - Cooking Oil
+58E - Red Pepper
+58F - Spices
+590 - Herbs
+591 - Miso
+592 - Tofu
+593 - Dessert Set
+594 - Soup Broth Set
+595 - Cookie Set
+596 - Curry Set
+597 - Chocolate
+598 - Cocoa Powder
+599 - Red Wine
+59A - White Wine
+59B - Pie Dough
+59C - Suspicious Meat
+59D - Creepy Mushroom
+640 - Sunset Seed
+641 - Stink Bulb
+642 - Refreshing Seed
+643 - Lyps Seed
+644 - Ominous Seed
+645 - Royal Seed
+646 - Meat-like Bulb
+647 - Southern-wind Seed
+648 - Regular Fertilizer
+649 - Magic Fertilizer
+64A - Mega Fertilizer
+67C - Wind Talisman
+67D - Emblem Of Nobility
+67E - Red Gate Key
+67F - Blue Gate Key
+680 - Yellow Gate Key
+681 - Aqualith
+682 - Pyrolith
+683 - Aerolith
+684 - Mizel Red Sand
+685 - Kravian Pass
+686 - Lightning Tear
+687 - ThunderWind Stone
+688 - Gold Key
+689 - Prison Key
+68A - Blue Sky Shard
+68B - Pedometer
+68C - Golden Groneh
+68D - Lypster
+68E - Gunang Weed
+68F - Star Bandana
+690 - Reik Flowers
+691 - Divine Scarlet Gem
+692 - Divine BlueIce Gem
+693 - Divine Gem Of Dawn
+694 - Camping Kit
+6A4 - Secrets Of Fang
+6A5 - Secrets Of Thunder
+6A6 - Secrets Of Dragon
+6A7 - Spell Of Light
+6A8 - Spell Of Earth
+6A9 - Spell Of Water
+6AA - Spell Of Fire
+6AB - Spell Of Dark
+6AC - Spell Of Thunder
+6AD - Way Of Rage
+6AE - Way Of Quake
+6AF - Way Of Thunder
+6B0 - Book Of Fear
+6B1 - Book Of Eden
+6B2 - Book Of Rose
+6B3 - Heaven's Teachings
+6B4 - Earth's Teachings

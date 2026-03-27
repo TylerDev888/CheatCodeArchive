@@ -1,0 +1,114 @@
+^3 = NAME: Lupin The 3Rd - Treasure Of The Sorcerer King (Ntsc-U)
+^2 = GameID: SLUS-20683
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F024EFFC 0024EFFF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0024EFFF
++[M] Must Be On
+%Credits: MadCatz
+$90235470 0C096491
+!!
++Always Low Danger Meter
+%Credits: Code Master
+$2028E72C 00000000
++Disposition Document
+%Credits: MadCatz
+$0028CC12 00000001
++Extra Ammo (Shot Shells & Sleep Cylinders)
+%Credits: Code Master
+$101B883C 00000001
++Extra Dummy Dolls
+%Credits: Code Master
+$10193500 00000001
++Have All Items/Equips
+%Credits: Code Master
+$20161F78 24A20000
+$20161F7C 24440000
+$20161F98 24030001
+$20161FA0 00000000
+$20161FA4 A4430050
+!Have Costume:
++Guard
+%Credits: Codejunkies
+$1028CD26 00000001
++Guest
+%Credits: Codejunkies
+$1028CCC6 00000001
++Policeman
+%Credits: Codejunkies
+$1028CC36 00000001
++Raven Kreuz
+%Credits: Codejunkies
+$1028CD4A 00000001
++Riot Police
+%Credits: Codejunkies
+$1028CD3E 00000001
++Traveler
+%Credits: Codejunkies
+$1028CC4E 00000001
++Zerrigata
+%Credits: Codejunkies
+$1028CC42 00000001
+!!
++Have Max All Items/Equips
+%Credits: Code Master
+$20161F78 24A20000
+$20161F7C 24440000
+$20161F98 24030063
+$20161FA0 00000000
+$20161FA4 A4430050
++Infinite Ammo
+%Credits: MadCatz
+$201B883C 000000FF
++Infinite Ammo (Shot Shells & Sleep Cylinders)
+%Credits: Code Master
+$201B8848 00000000
++Infinite Dummies
+%Credits: Codejunkies
+$1028CB9A 00000009
++Infinite Dummy Dolls
+%Credits: Code Master
+$20193508 00000000
++Infinite Dummy Dolls
+%Credits: MadCatz
+$20193500 000000FF
++Infinite First Aid
+%Credits: Codejunkies
+$1028CB76 00000009
++Infinite Health
+%Credits: Code Master
+$2028C9F8 00000000
++Infinite Health
+%Credits: Codejunkies
+$201628FC 00000000
++Infinite Stamina
+%Credits: MadCatz
+$2028C9F8 000003E8
++Low Danger-O-Meter
+%Credits: Codejunkies
+$10163894 00000000
+!Max Item Codes (Upon Pickup):
++Dummy Doll
+%Credits: Code Master
+$1028CB9A 00000063
++First Aid Kit (High Level)
+%Credits: Code Master
+$1028CC66 00000063
++First Aid Kit (Low Level)
+%Credits: Code Master
+$1028CB76 00000063
+!!
++Never Reload (9Mm Parabellum & Golden Bullets)
+%Credits: Code Master
+$201B87CC 00000000
++Never Reload (Shot Shells & Sleep Cylinders)
+%Credits: Code Master
+$201B8824 00000000
++Security Manual
+%Credits: MadCatz
+$0028CC06 00000001
+!!
+

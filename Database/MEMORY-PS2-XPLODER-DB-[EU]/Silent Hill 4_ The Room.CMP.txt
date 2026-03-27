@@ -1,0 +1,2507 @@
+^3 = NAME: Silent Hill 4: The Room
+!Masters:
++Mastercode
+%Credits: Xploder
+$902CC1A8 0C0461B0
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$2026FB44 E6410008
++Ammunition
+%Credits: Xploder
+$201B1DC0 00000000
+!!
+!Always:
++Super Strong Hit
+%Credits: Xploder
+$201DC5B4 3C0142C8
+$201DC5B8 44810800
+$201DC5C0 E661022C
++1St Save
+%Credits: Xploder
+$202BF5E0 24030000
++Press UP To Cycle Weapons In Slot 1{(NOTE: You Will Lose The Item Already In Slot1)}
+%Credits: Xploder
+$A00C0008 13121110
+$A00C000C 2D251514
+$A00C0010 31302F2E
+$A00C0014 35343332
+$A00C0018 83828180
+$A00C001C 00000084
+$A00C1FFC 3C0A01EC
+$A00C2000 8D4AF440
+$A00C2004 3C08000C
+$A00C2008 3C09005D
+$A00C200C 954B0102
+$A00C2010 316B0010
+$A00C2014 000B582B
+$A00C2018 240C0000
+$A00C201C 8D0D0000
+$A00C2020 116D0006
+$A00C2024 00000000
+$A00C2028 15A00003
+$A00C202C 00000000
+$A00C2030 10000002
+$A00C2034 018D6026
+$A00C2038 01A06020
+$A00C203C AD0B0000
+$A00C2040 1180000D
+$A00C2044 8D0D0004
+$A00C2048 25AD0001
+$A00C204C 21AEFFEB
+$A00C2050 05C30001
+$A00C2054 240D0000
+$A00C2058 AD0D0004
+$A00C205C 010D4021
+$A00C2060 910A0008
+$A00C2064 000A5400
+$A00C2068 354A03E7
+$A00C206C AD2A38B4
+$A00C2070 3C0A3F00
+$A00C2074 AD2A38B8
+$A00C2078 03E00008
+$2026FF7C 080307FF
+!!
+!Have In Slot 1:
++Pistol Bullets
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00010063
++Revolver Bullets
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00020063
++Silver Bullets
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00030063
++Holy Candle
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00040001
++Sword Of Obedience
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00050001
++Saint Medallion
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00080001
++Nutrition Drink
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00090001
++Ampoule
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 000A0001
++Portable Medical Kit
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 000B0001
++Pistol
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00100063
++Richard's Revolver
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00110063
++Steel Pipe
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00120001
++Paper-Cutting Knife
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00130001
++Aluminum Bat
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00140001
++Driver
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00150001
++Broken Driver
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00160001
++3-Wood Club
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00170001
++Broken 3-Wood
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00180001
++3-Iron
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00190001
++Broken 3-Iron
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 001A0001
++4-Iron
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 001B0001
++Broken 4-Iron
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 001C0001
++5-Iron
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 001D0001
++Broken 5-Iron
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 001E0001
++6-Iron
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 001F0001
++Broken 6-Iron
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00200001
++7-Iron
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00210001
++Broken 7-Iron
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00220001
++8-Iron
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00230001
++Broken 8-Iron
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00240001
++9-Iron
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00250001
++Broken 9-Iron
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00260001
++Pitching Wedge
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00270001
++Broken Pitching Wedge
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00280001
++Sand Wedge
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00290001
++Broken Sand Wedge
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 002A0001
++Putter
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 002B0001
++Broken Putter
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 002C0001
++Wine Bottle
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 002D0001
++Broken Wine Bottle
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 002E0001
++Spade
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 002F0001
++Rusty Axe
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00300001
++Pickaxe Of Despair
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00310001
++Stun Gun
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00320001
++Bug Spray
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00330001
++Torch
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00340001
++Chainsaw
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00350001
++Keys Of Liberation
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 003C0001
++Lynch Street Line Coin
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 003D0001
++Chocolate Milk
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 003E0001
++Blood-Inscribed Spade
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 003F0001
+$105D38B6 0000003F
++Rusted Bloody Key
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00400001
++Red Paper
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00410001
++Torn Red Paper
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00470001
++Superintendent's Key
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 004A0001
++Locker Key #106
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 004B0001
++Skinned Mike Cassette
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 004C0001
++Doll Key
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 004D0001
++Succubus Talisman
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 004E0001
++Hospital Room Key
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 004F0001
++Something With Japanese Symbols On It
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00500001
++Small Key
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00510001
++Cynthia's Commuter Ticket
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00520001
++Shabby Doll
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00530001
++Apartment Keys
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00540001
++Crested Medallion
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00550001
++Pickaxe Of Hope
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00560001
++Umbilical Cord
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00570001
++Spear Of The Holy Mother
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00580001
++White Box-Looking Thing
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00590001
++Toy Key
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 005A0001
++Filthy Coin
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 005B0001
++1 Coin
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 005C0001
++Murder Scene Key
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 005D0001
++Train Handle
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 005E0001
++Doll's Head
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 005F0001
++Doll's Right Arm
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00600001
++Doll's Left Arm
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00610001
++Doll's Right Leg
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00620001
++Doll's Left Leg
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00630001
++Water Prison Generator Room Key
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00640001
++Prisoner's Shirt
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00650001
++Billiard Ball
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00660001
++Stuffed Cat
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00670001
++Volleyball
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00680001
++Cake Candles
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00690001
++Ghost's Key
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 006B0001
++Dirty Stone
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 006C0001
++Channeling Stone
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00710001
++Temptation Placard
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00760001
++Source Placard
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00770001
++Watchfulness Placard
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00780001
++Chaos Placard
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00790001
++Albert's Sports Key
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 007A0001
++Nurse Uniform
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 007B0001
++Water Prison Exit Key
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 007C0001
++Eileen's Bag
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00800001
++Submachine Gun
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00810001
++Nightstick
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00820001
++Riding Crop
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00830001
++Chain
+%Credits: Xploder
+$205D38B0 3F800000
+$205D38B4 00840001
+!!
+!Have In Slot 2:
++Pistol Bullets
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00010063
++Revolver Bullets
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00020063
++Silver Bullets
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00030063
++Holy Candle
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00040001
++Sword Of Obedience
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00050001
++Saint Medallion
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00080001
++Nutrition Drink
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00090001
++Ampoule
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 000A0001
++Portable Medical Kit
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 000B0001
++Pistol
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00100063
++Richard's Revolver
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00110063
++Steel Pipe
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00120001
++Paper-Cutting Knife
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00130001
++Aluminum Bat
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00140001
++Driver
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00150001
++Broken Driver
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00160001
++3-Wood Club
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00170001
++Broken 3-Wood
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00180001
++3-Iron
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00190001
++Broken 3-Iron
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 001A0001
++4-Iron
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 001B0001
++Broken 4-Iron
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 001C0001
++5-Iron
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 001D0001
++Broken 5-Iron
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 001E0001
++6-Iron
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 001F0001
++Broken 6-Iron
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00200001
++7-Iron
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00210001
++Broken 7-Iron
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00220001
++8-Iron
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00230001
++Broken 8-Iron
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00240001
++9-Iron
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00250001
++Broken 9-Iron
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00260001
++Pitching Wedge
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00270001
++Broken Pitching Wedge
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00280001
++Sand Wedge
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00290001
++Broken Sand Wedge
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 002A0001
++Putter
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 002B0001
++Broken Putter
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 002C0001
++Wine Bottle
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 002D0001
++Broken Wine Bottle
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 002E0001
++Spade
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 002F0001
++Rusty Axe
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00300001
++Pickaxe Of Despair
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00310001
++Stun Gun
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00320001
++Bug Spray
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00330001
++Torch
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00340001
++Chainsaw
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00350001
++Keys Of Liberation
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 003C0001
++Lynch Street Line Coin
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 003D0001
++Chocolate Milk
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 003E0001
++Blood-Inscribed Spade
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 003F0001
+$105D38BE 0000003F
++Rusted Bloody Key
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00400001
++Red Paper
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00410001
++Torn Red Paper
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00470001
++Superintendent's Key
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 004A0001
++Locker Key #106
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 004B0001
++Skinned Mike Cassette
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 004C0001
++Doll Key
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 004D0001
++Succubus Talisman
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 004E0001
++Hospital Room Key
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 004F0001
++Something With Japanese Symbols On It
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00500001
++Small Key
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00510001
++Cynthia's Commuter Ticket
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00520001
++Shabby Doll
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00530001
++Apartment Keys
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00540001
++Crested Medallion
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00550001
++Pickaxe Of Hope
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00560001
++Umbilical Cord
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00570001
++Spear Of The Holy Mother
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00580001
++White Box-Looking Thing
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00590001
++Toy Key
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 005A0001
++Filthy Coin
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 005B0001
++1 Coin
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 005C0001
++Murder Scene Key
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 005D0001
++Train Handle
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 005E0001
++Doll's Head
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 005F0001
++Doll's Right Arm
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00600001
++Doll's Left Arm
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00610001
++Doll's Right Leg
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00620001
++Doll's Left Leg
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00630001
++Water Prison Generator Room Key
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00640001
++Prisoner's Shirt
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00650001
++Billiard Ball
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00660001
++Stuffed Cat
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00670001
++Volleyball
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00680001
++Cake Candles
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00690001
++Ghost's Key
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 006B0001
++Dirty Stone
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 006C0001
++Channeling Stone
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00710001
++Temptation Placard
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00760001
++Source Placard
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00770001
++Watchfulness Placard
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00780001
++Chaos Placard
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00790001
++Albert's Sports Key
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 007A0001
++Nurse Uniform
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 007B0001
++Water Prison Exit Key
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 007C0001
++Eileen's Bag
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00800001
++Submachine Gun
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00810001
++Nightstick
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00820001
++Riding Crop
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00830001
++Chain
+%Credits: Xploder
+$205D38B8 3F800000
+$205D38BC 00840001
+!!
+!Have In Slot 3:
++Pistol Bullets
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00010063
++Revolver Bullets
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00020063
++Silver Bullets
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00030063
++Holy Candle
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00040001
++Sword Of Obedience
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00050001
++Saint Medallion
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00080001
++Nutrition Drink
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00090001
++Ampoule
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 000A0001
++Portable Medical Kit
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 000B0001
++Pistol
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00100063
++Richard's Revolver
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00110063
++Steel Pipe
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00120001
++Paper-Cutting Knife
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00130001
++Aluminum Bat
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00140001
++Driver
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00150001
++Broken Driver
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00160001
++3-Wood Club
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00170001
++Broken 3-Wood
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00180001
++3-Iron
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00190001
++Broken 3-Iron
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 001A0001
++4-Iron
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 001B0001
++Broken 4-Iron
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 001C0001
++5-Iron
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 001D0001
++Broken 5-Iron
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 001E0001
++6-Iron
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 001F0001
++Broken 6-Iron
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00200001
++7-Iron
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00210001
++Broken 7-Iron
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00220001
++8-Iron
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00230001
++Broken 8-Iron
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00240001
++9-Iron
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00250001
++Broken 9-Iron
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00260001
++Pitching Wedge
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00270001
++Broken Pitching Wedge
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00280001
++Sand Wedge
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00290001
++Broken Sand Wedge
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 002A0001
++Putter
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 002B0001
++Broken Putter
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 002C0001
++Wine Bottle
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 002D0001
++Broken Wine Bottle
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 002E0001
++Spade
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 002F0001
++Rusty Axe
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00300001
++Pickaxe Of Despair
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00310001
++Stun Gun
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00320001
++Bug Spray
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00330001
++Torch
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00340001
++Chainsaw
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00350001
++Keys Of Liberation
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 003C0001
++Lynch Street Line Coin
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 003D0001
++Chocolate Milk
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 003E0001
++Blood-Inscribed Spade
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 003F0001
+$105D38C6 0000003F
++Rusted Bloody Key
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00400001
++Red Paper
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00410001
++Torn Red Paper
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00470001
++Superintendent's Key
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 004A0001
++Locker Key #106
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 004B0001
++Skinned Mike Cassette
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 004C0001
++Doll Key
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 004D0001
++Succubus Talisman
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 004E0001
++Hospital Room Key
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 004F0001
++Something With Japanese Symbols On It
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00500001
++Small Key
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00510001
++Cynthia's Commuter Ticket
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00520001
++Shabby Doll
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00530001
++Apartment Keys
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00540001
++Crested Medallion
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00550001
++Pickaxe Of Hope
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00560001
++Umbilical Cord
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00570001
++Spear Of The Holy Mother
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00580001
++White Box-Looking Thing
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00590001
++Toy Key
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 005A0001
++Filthy Coin
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 005B0001
++1 Coin
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 005C0001
++Murder Scene Key
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 005D0001
++Train Handle
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 005E0001
++Doll's Head
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 005F0001
++Doll's Right Arm
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00600001
++Doll's Left Arm
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00610001
++Doll's Right Leg
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00620001
++Doll's Left Leg
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00630001
++Water Prison Generator Room Key
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00640001
++Prisoner's Shirt
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00650001
++Billiard Ball
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00660001
++Stuffed Cat
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00670001
++Volleyball
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00680001
++Cake Candles
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00690001
++Ghost's Key
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 006B0001
++Dirty Stone
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 006C0001
++Channeling Stone
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00710001
++Temptation Placard
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00760001
++Source Placard
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00770001
++Watchfulness Placard
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00780001
++Chaos Placard
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00790001
++Albert's Sports Key
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 007A0001
++Nurse Uniform
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 007B0001
++Water Prison Exit Key
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 007C0001
++Eileen's Bag
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00800001
++Submachine Gun
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00810001
++Nightstick
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00820001
++Riding Crop
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00830001
++Chain
+%Credits: Xploder
+$205D38C0 3F800000
+$205D38C4 00840001
+!!
+!Have In Slot 4:
++Pistol Bullets
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00010063
++Revolver Bullets
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00020063
++Silver Bullets
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00030063
++Holy Candle
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00040001
++Sword Of Obedience
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00050001
++Saint Medallion
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00080001
++Nutrition Drink
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00090001
++Ampoule
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 000A0001
++Portable Medical Kit
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 000B0001
++Pistol
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00100063
++Richard's Revolver
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00110063
++Steel Pipe
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00120001
++Paper-Cutting Knife
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00130001
++Aluminum Bat
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00140001
++Driver
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00150001
++Broken Driver
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00160001
++3-Wood Club
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00170001
++Broken 3-Wood
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00180001
++3-Iron
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00190001
++Broken 3-Iron
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 001A0001
++4-Iron
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 001B0001
++Broken 4-Iron
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 001C0001
++5-Iron
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 001D0001
++Broken 5-Iron
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 001E0001
++6-Iron
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 001F0001
++Broken 6-Iron
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00200001
++7-Iron
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00210001
++Broken 7-Iron
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00220001
++8-Iron
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00230001
++Broken 8-Iron
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00240001
++9-Iron
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00250001
++Broken 9-Iron
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00260001
++Pitching Wedge
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00270001
++Broken Pitching Wedge
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00280001
++Sand Wedge
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00290001
++Broken Sand Wedge
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 002A0001
++Putter
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 002B0001
++Broken Putter
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 002C0001
++Wine Bottle
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 002D0001
++Broken Wine Bottle
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 002E0001
++Spade
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 002F0001
++Rusty Axe
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00300001
++Pickaxe Of Despair
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00310001
++Stun Gun
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00320001
++Bug Spray
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00330001
++Torch
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00340001
++Chainsaw
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00350001
++Keys Of Liberation
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 003C0001
++Lynch Street Line Coin
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 003D0001
++Chocolate Milk
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 003E0001
++Blood-Inscribed Spade
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 003F0001
+$105D38CE 0000003F
++Rusted Bloody Key
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00400001
++Red Paper
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00410001
++Torn Red Paper
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00470001
++Superintendent's Key
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 004A0001
++Locker Key #106
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 004B0001
++Skinned Mike Cassette
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 004C0001
++Doll Key
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 004D0001
++Succubus Talisman
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 004E0001
++Hospital Room Key
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 004F0001
++Something With Japanese Symbols On It
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00500001
++Small Key
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00510001
++Cynthia's Commuter Ticket
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00520001
++Shabby Doll
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00530001
++Apartment Keys
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00540001
++Crested Medallion
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00550001
++Pickaxe Of Hope
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00560001
++Umbilical Cord
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00570001
++Spear Of The Holy Mother
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00580001
++White Box-Looking Thing
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00590001
++Toy Key
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 005A0001
++Filthy Coin
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 005B0001
++1 Coin
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 005C0001
++Murder Scene Key
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 005D0001
++Train Handle
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 005E0001
++Doll's Head
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 005F0001
++Doll's Right Arm
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00600001
++Doll's Left Arm
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00610001
++Doll's Right Leg
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00620001
++Doll's Left Leg
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00630001
++Water Prison Generator Room Key
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00640001
++Prisoner's Shirt
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00650001
++Billiard Ball
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00660001
++Stuffed Cat
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00670001
++Volleyball
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00680001
++Cake Candles
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00690001
++Ghost's Key
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 006B0001
++Dirty Stone
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 006C0001
++Channeling Stone
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00710001
++Temptation Placard
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00760001
++Source Placard
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00770001
++Watchfulness Placard
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00780001
++Chaos Placard
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00790001
++Albert's Sports Key
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 007A0001
++Nurse Uniform
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 007B0001
++Water Prison Exit Key
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 007C0001
++Eileen's Bag
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00800001
++Submachine Gun
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00810001
++Nightstick
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00820001
++Riding Crop
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00830001
++Chain
+%Credits: Xploder
+$205D38C8 3F800000
+$205D38CC 00840001
+!!
+!Have In Slot 5:
++Pistol Bullets
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00010063
++Revolver Bullets
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00020063
++Silver Bullets
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00030063
++Holy Candle
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00040001
++Sword Of Obedience
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00050001
++Saint Medallion
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00080001
++Nutrition Drink
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00090001
++Ampoule
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 000A0001
++Portable Medical Kit
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 000B0001
++Pistol
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00100063
++Richard's Revolver
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00110063
++Steel Pipe
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00120001
++Paper-Cutting Knife
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00130001
++Aluminum Bat
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00140001
++Driver
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00150001
++Broken Driver
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00160001
++3-Wood Club
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00170001
++Broken 3-Wood
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00180001
++3-Iron
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00190001
++Broken 3-Iron
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 001A0001
++4-Iron
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 001B0001
++Broken 4-Iron
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 001C0001
++5-Iron
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 001D0001
++Broken 5-Iron
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 001E0001
++6-Iron
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 001F0001
++Broken 6-Iron
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00200001
++7-Iron
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00210001
++Broken 7-Iron
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00220001
++8-Iron
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00230001
++Broken 8-Iron
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00240001
++9-Iron
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00250001
++Broken 9-Iron
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00260001
++Pitching Wedge
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00270001
++Broken Pitching Wedge
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00280001
++Sand Wedge
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00290001
++Broken Sand Wedge
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 002A0001
++Putter
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 002B0001
++Broken Putter
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 002C0001
++Wine Bottle
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 002D0001
++Broken Wine Bottle
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 002E0001
++Spade
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 002F0001
++Rusty Axe
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00300001
++Pickaxe Of Despair
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00310001
++Stun Gun
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00320001
++Bug Spray
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00330001
++Torch
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00340001
++Chainsaw
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00350001
++Keys Of Liberation
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 003C0001
++Lynch Street Line Coin
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 003D0001
++Chocolate Milk
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 003E0001
++Blood-Inscribed Spade
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 003F0001
+$105D38D6 0000003F
++Rusted Bloody Key
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00400001
++Red Paper
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00410001
++Torn Red Paper
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00470001
++Superintendent's Key
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 004A0001
++Locker Key #106
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 004B0001
++Skinned Mike Cassette
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 004C0001
++Doll Key
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 004D0001
++Succubus Talisman
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 004E0001
++Hospital Room Key
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 004F0001
++Something With Japanese Symbols On It
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00500001
++Small Key
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00510001
++Cynthia's Commuter Ticket
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00520001
++Shabby Doll
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00530001
++Apartment Keys
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00540001
++Crested Medallion
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00550001
++Pickaxe Of Hope
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00560001
++Umbilical Cord
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00570001
++Spear Of The Holy Mother
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00580001
++White Box-Looking Thing
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00590001
++Toy Key
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 005A0001
++Filthy Coin
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 005B0001
++1 Coin
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 005C0001
++Murder Scene Key
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 005D0001
++Train Handle
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 005E0001
++Doll's Head
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 005F0001
++Doll's Right Arm
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00600001
++Doll's Left Arm
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00610001
++Doll's Right Leg
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00620001
++Doll's Left Leg
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00630001
++Water Prison Generator Room Key
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00640001
++Prisoner's Shirt
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00650001
++Billiard Ball
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00660001
++Stuffed Cat
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00670001
++Volleyball
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00680001
++Cake Candles
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00690001
++Ghost's Key
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 006B0001
++Dirty Stone
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 006C0001
++Channeling Stone
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00710001
++Temptation Placard
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00760001
++Source Placard
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00770001
++Watchfulness Placard
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00780001
++Chaos Placard
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00790001
++Albert's Sports Key
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 007A0001
++Nurse Uniform
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 007B0001
++Water Prison Exit Key
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 007C0001
++Eileen's Bag
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00800001
++Submachine Gun
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00810001
++Nightstick
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00820001
++Riding Crop
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00830001
++Chain
+%Credits: Xploder
+$205D38D0 3F800000
+$205D38D4 00840001
+!!
+!Have In Slot 6:
++Pistol Bullets
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00010063
++Revolver Bullets
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00020063
++Silver Bullets
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00030063
++Holy Candle
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00040001
++Sword Of Obedience
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00050001
++Saint Medallion
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00080001
++Nutrition Drink
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00090001
++Ampoule
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 000A0001
++Portable Medical Kit
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 000B0001
++Pistol
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00100063
++Richard's Revolver
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00110063
++Steel Pipe
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00120001
++Paper-Cutting Knife
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00130001
++Aluminum Bat
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00140001
++Driver
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00150001
++Broken Driver
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00160001
++3-Wood Club
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00170001
++Broken 3-Wood
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00180001
++3-Iron
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00190001
++Broken 3-Iron
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 001A0001
++4-Iron
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 001B0001
++Broken 4-Iron
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 001C0001
++5-Iron
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 001D0001
++Broken 5-Iron
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 001E0001
++6-Iron
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 001F0001
++Broken 6-Iron
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00200001
++7-Iron
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00210001
++Broken 7-Iron
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00220001
++8-Iron
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00230001
++Broken 8-Iron
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00240001
++9-Iron
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00250001
++Broken 9-Iron
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00260001
++Pitching Wedge
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00270001
++Broken Pitching Wedge
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00280001
++Sand Wedge
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00290001
++Broken Sand Wedge
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 002A0001
++Putter
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 002B0001
++Broken Putter
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 002C0001
++Wine Bottle
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 002D0001
++Broken Wine Bottle
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 002E0001
++Spade
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 002F0001
++Rusty Axe
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00300001
++Pickaxe Of Despair
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00310001
++Stun Gun
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00320001
++Bug Spray
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00330001
++Torch
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00340001
++Chainsaw
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00350001
++Keys Of Liberation
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 003C0001
++Lynch Street Line Coin
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 003D0001
++Chocolate Milk
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 003E0001
++Blood-Inscribed Spade
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 003F0001
+$105D38DE 0000003F
++Rusted Bloody Key
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00400001
++Red Paper
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00410001
++Torn Red Paper
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00470001
++Superintendent's Key
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 004A0001
++Locker Key #106
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 004B0001
++Skinned Mike Cassette
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 004C0001
++Doll Key
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 004D0001
++Succubus Talisman
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 004E0001
++Hospital Room Key
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 004F0001
++Something With Japanese Symbols On It
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00500001
++Small Key
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00510001
++Cynthia's Commuter Ticket
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00520001
++Shabby Doll
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00530001
++Apartment Keys
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00540001
++Crested Medallion
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00550001
++Pickaxe Of Hope
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00560001
++Umbilical Cord
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00570001
++Spear Of The Holy Mother
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00580001
++White Box-Looking Thing
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00590001
++Toy Key
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 005A0001
++Filthy Coin
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 005B0001
++1 Coin
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 005C0001
++Murder Scene Key
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 005D0001
++Train Handle
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 005E0001
++Doll's Head
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 005F0001
++Doll's Right Arm
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00600001
++Doll's Left Arm
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00610001
++Doll's Right Leg
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00620001
++Doll's Left Leg
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00630001
++Water Prison Generator Room Key
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00640001
++Prisoner's Shirt
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00650001
++Billiard Ball
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00660001
++Stuffed Cat
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00670001
++Volleyball
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00680001
++Cake Candles
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00690001
++Ghost's Key
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 006B0001
++Dirty Stone
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 006C0001
++Channeling Stone
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00710001
++Temptation Placard
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00760001
++Source Placard
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00770001
++Watchfulness Placard
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00780001
++Chaos Placard
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00790001
++Albert's Sports Key
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 007A0001
++Nurse Uniform
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 007B0001
++Water Prison Exit Key
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 007C0001
++Eileen's Bag
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00800001
++Submachine Gun
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00810001
++Nightstick
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00820001
++Riding Crop
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00830001
++Chain{(NOTE: Only Select One Item Per Slot)}
+%Credits: Xploder
+$205D38D8 3F800000
+$205D38DC 00840001
+!!

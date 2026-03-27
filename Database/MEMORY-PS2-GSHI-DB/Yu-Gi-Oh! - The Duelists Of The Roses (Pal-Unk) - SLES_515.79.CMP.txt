@@ -1,0 +1,68 @@
+^3 = NAME: Yu-Gi-Oh! - The Duelists Of The Roses (Pal-Unk)
+^2 = GameID: SLES-51579
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0193454 00193457
+!!
+!Player 1 Codes:
++Player 1 1 LP
+%Credits: Codejunkies
+$102DAEDA 00000001
++Player 1 9999 Lp
+%Credits: Codejunkies
+$102DAEDA 0000270F
++Press L3 For Extra Move
+%Credits: Codejunkies
+$D02E8E42 0000FFFB
+$102DB9E6 00000000
+!!
+!Player 2 LP Codes:
++End Match After First Move
+%Credits: Codejunkies
+$201DF828 00000000
++Infinite Turns
+%Credits: Codejunkies
+$002DB8F3 00000001
++Player 2 0 LP
+%Credits: Codejunkies
+$102DB22A 00000000
++Player 2 1 LP
+%Credits: Codejunkies
+$102DB22A 00000001
++Player 2 9999 Lp
+%Credits: Codejunkies
+$102DB22A 0000270F
+!!
+!Replace Intro Into...:
++Deck Cost 1
+%Credits: Codejunkies
+$103029F6 00000001
++Ending 1
+%Credits: Codejunkies
+$202BDB64 4D444500
+$202BDB68 36415F56
++Ending 2
+%Credits: Codejunkies
+$202BDB64 4D444500
+$202BDB68 36435F56
++Improved Framerate/Animations
+%Credits: Codejunkies
+$20209228 00000000
++Infinite Summon Power Use
+%Credits: Codejunkies
+$201DF904 00000000
++Max Summon Power After Use
+%Credits: Codejunkies
+$200FFF00 24010063
+$200FFF04 A0810341
+$200FFF08 03E00008
+$200FFF10 0C0CFACE
+$201DF908 0803FFC0
++Unlock All Cards
+%Credits: Codejunkies
+$20216308 3C035237
+$2021630C 34638B9C
+$20216310 AC830000
+!!
+

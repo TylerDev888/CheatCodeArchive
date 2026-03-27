@@ -1,0 +1,15 @@
+^3 = NAME: Sega Ages 2500 Series Vol.22 - Advanced Daisenryaku - Doitsu Dengeki Sakusen (Ntsc-J)
+^2 = GameID: SLPM-62708
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$90111030 0C0443B4
+!!
++Replace First Map In Standard Mode With Test Map
+%Credits: punk7890
+$E0030901 008D2080
+$208D2084 54534554
+$208D2088 2E31305F
+$208D208C 004D4353
+!!
+

@@ -1,0 +1,34 @@
+^3 = NAME: Super Farm (Pal-Unk)
+^2 = GameID: SLES-51678
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F03A45AC 003A45AF
+!!
+!AI Difficulty Modifier:
++AI Always Easy
+%Credits: Codejunkies
+$204D973C 00000001
++AI Always Hard
+%Credits: Codejunkies
+$204D973C 3F19999A
++AI Always Meduim
+%Credits: Codejunkies
+$204D973C 3E99999A
++AI Always Ultimate
+%Credits: Codejunkies
+$204D973C 3F800000
++Display Debug
+%Credits: Codejunkies
+$104DA61C 0000FFFF
+!!
++Open Cheat Menu (Use The Cheat Menu To Unlock Everything)
+%Credits: Codejunkies
+$203E34B4 00000000
+$203E3510 00000000
+$203E3538 00000000
++Show AI Level
+%Credits: Codejunkies
+$004D9A32 00000001
+!!
+

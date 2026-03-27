@@ -1,0 +1,9 @@
+^2 = GameID: BLES00289
+^3 = NAME: THE INCREDIBLE HULK
+^4 = FILE: HULK.SAV
++Update Crc32 For Hulk.sav (required)
+(set range:0xC,0x005E9F)
+$set pointer:eof+1
+$set range:0xC,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

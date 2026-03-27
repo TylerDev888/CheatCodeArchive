@@ -1,0 +1,98 @@
+^3 = NAME: Marvel Vs Capcom 2
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 0010D95B
+!!
+!Player 1 - Main Character:
++Unlimited Health
+%Credits: Xploder
+$104F34B4 00000090
++Always Full Combo Gauge{(Only Select One Of The Following)}
+%Credits: Xploder
+$104D28C6 00000090
++Always Combo Level 0
+%Credits: Xploder
+$004D28CA 00000000
++Always Combo Level 1
+%Credits: Xploder
+$004D28CA 00000001
++Always Combo Level 2
+%Credits: Xploder
+$004D28CA 00000002
++Always Combo Level 3
+%Credits: Xploder
+$004D28CA 00000003
++Always Combo Level 4
+%Credits: Xploder
+$004D28CA 00000004
++Always Combo Level 5
+%Credits: Xploder
+$004D28CA 00000005
+!!
+!Player 1 - Second Character:
++Unlimited Health
+%Credits: Xploder
+$104F4024 00000090
+!!
+!Player 1 - Third Character:
++Unlimited Health
+%Credits: Xploder
+$104F4B94 00000090
+!!
+!Player 2 - Main Character:
++Unlimited Health
+%Credits: Xploder
+$104F3A6C 00000090
++Always Full Combo Gauge{(Only Select One Of The Following)}
+%Credits: Xploder
+$104D28C8 00000090
++Always Combo Level 0
+%Credits: Xploder
+$004D28CB 00000000
++Always Combo Level 1
+%Credits: Xploder
+$004D28CB 00000001
++Always Combo Level 2
+%Credits: Xploder
+$004D28CB 00000002
++Always Combo Level 3
+%Credits: Xploder
+$004D28CB 00000003
++Always Combo Level 4
+%Credits: Xploder
+$004D28CB 00000004
++Always Combo Level 5
+%Credits: Xploder
+$004D28CB 00000005
+!!
+!Player 2 - Second Character:
++Unlimited Health
+%Credits: Xploder
+$104F45DC 00000090
+!!
+!Player 2 - Third Character:
++Unlimited Health
+%Credits: Xploder
+$104F514C 00000090
++Unlimited Points
+%Credits: Xploder
+$104F8F62 0000270F
+!!
+!Have:
++All Characters
+%Credits: Xploder
+$204F5300 FFFFFFFF
+$204F5304 FFFFFFFF
++All Gallery
+%Credits: Xploder
+$204F8F84 FFFFFFFF
+$204F8F88 FFFFFFFF
++All Colours
+%Credits: Xploder
+$204F5308 FFFFFFFF
+$204F530C FFFFFFFF
++All Stages
+%Credits: Xploder
+$004D276A 00000007
+!!

@@ -1,0 +1,181 @@
+^1 = Hash: 59 8A 95 5D FE 1D DA 5C 63 D6 89 11 CC FD 02 DC 4B B9 91 B8
+^2 = GameID: SLUS_217.23
+^3 = NAME: Fatal Fury Battle Archives 2
+!Masters:
++Enable Code (MUST BE ON)
+$90179C50 0C05E6BC
+!!
+!Jokers:
++Player 1 Controller
+$D025EE9C 0000[Joker:PS2]
++Player 2 Controller
+$D025EF9C 0000[Joker:PS2]
+!!
++Player 1 Character Modifier
+%Credits: Lee4
+$00A038E0 000000[CHA]
++Player 2 Character Modifier
+%Credits: Lee4
+$00A039E0 000000[CHA]
+^4 = FILE: REAL BOUT 1
++Japanese.
+%Credits: Lee4
+$D03BFAB0 00000000
+$00A114E6 00000000
++English.
+%Credits: Lee4
+$D03BFAB0 00000000
+$00A114E6 00000001
+!Player:
+!Player 1:
++Infinite HP
+%Credits: Lee4
+$D03BFAB0 00000000
+$00A03958 000000C0
++Infinite Power
+%Credits: Lee4
+$D03BFAB0 00000000
+$10A0398A 00003C3C
++Player 2 No Hp.(player 1 Press Start)
+%Credits: Lee4
+$E0020000 003BFAB0
+$D025EE9C 0000FFF7
+$00A03A58 00000000
+!!
+!Player 2:
++Infinite HP
+%Credits: Lee4
+$D03BFAB0 00000000
+$00A03A58 000000C0
++Infinite Power
+%Credits: Lee4
+$D03BFAB0 00000000
+$10A03A8A 00003C3C
++Player 1 No Hp.(player 2 Press Start)
+%Credits: Lee4
+$E0020000 003BFAB0
+$D025EF9C 0000FFF7
+$00A03958 00000000
++No Power.
+%Credits: Lee4
+$D03BFAB0 00000000
+$10A03A8A 00000000
+!!
+!!
+^4 = FILE: REAL BOUT Special
++Japanese
+%Credits: Lee4
+$D03BFAB0 00000001
+$00A114E6 00000000
++English
+%Credits: Lee4
+$D03BFAB0 00000001
+$00A114E6 00000001
+!Player:
+!Player 1:
++Infinite HP
+%Credits: Lee4
+$D03BFAB0 00000001
+$00A0395A 000000C0
++Infinite Power
+%Credits: Lee4
+$D03BFAB0 00000001
+$10A0398C 00003C3C
++Player 2 No Hp(player 1 Press Start)
+%Credits: Lee4
+$E0020001 003BFAB0
+$D025EE9C 0000FFF7
+$00A03A5A 00000000
+!!
+!Player 2:
++Infinite HP
+%Credits: Lee4
+$D03BFAB0 00000001
+$00A03A5A 000000C0
++Infinite Power
+%Credits: Lee4
+$D03BFAB0 00000001
+$10A03A8C 00003C3C
++No Power
+%Credits: Lee4
+$D03BFAB0 00000001
+$10A03A8C 00000000
++Player 1 No Hp(player 2 Press Start)
+%Credits: Lee4
+$E0020001 003BFAB0
+$D025EF9C 0000FFF7
+$00A0395A 00000000
+!!
+!!
+^4 = FILE: REAL BOUT 2
++Japanese
+%Credits: Lee4
+$D03BFAB0 00000002
+$00A114E8 00000000
++English
+%Credits: Lee4
+$D03BFAB0 00000002
+$00A114E8 00000001
+!Player:
+!Player 1:
++Infinite HP
+%Credits: Lee4
+$D03BFAB0 00000002
+$00A0395A 000000C0
++Infinite Power
+%Credits: Lee4
+$D03BFAB0 00000002
+$10A0398C 00003C3C
++Player 1 No Health(player 2 Press Start)
+%Credits: Lee4
+$E0020002 003BFAB0
+$D025EF9C 0000FFF7
+$00A0395A 00000000
+!!
+!Player 2:
++Infinite Health
+%Credits: Lee4
+$D03BFAB0 00000002
+$00A03A5A 000000C0
++Infinite Power
+%Credits: Lee4
+$D03BFAB0 00000002
+$10A03A8C 00003C3C
++Player 2 No Health(player 1 Press Start
+%Credits: Lee4
+$E0020002 003BFAB0
+$D025EE9C 0000FFF7
+$00A03A5A 00000000
++No Power
+%Credits: Lee4
+$D03BFAB0 00000002
+$10A03A8C 00000000
+!!
+!!
+^6 = MODS:
+[CHA]
+Value>Name
+01	Terry Bogard
+02	Andy Bogard
+03	Joe Higashi
+04	Mai Shiranui
+05	Geese Howard*
+06	Sokaku Mochizuki
+07	Bob Wilson
+08	Hon-Fu
+09	Blue Mary
+0A	Franco Bash
+0B	Ryuji Yamazaki
+0C	Jin Chonshu
+0D	Jin Chonrei
+0E	Duck King
+0F	Kim Kaphwan
+10	Billy Kane
+11	Cheng Sinzan
+12	Tung Fu Rue
+13	Laurence Blood
+14	Wolfgang Krauser*
+15	Rick Strowd
+16	Li Xiangfei
+17	Alfred*
+[/CHA]

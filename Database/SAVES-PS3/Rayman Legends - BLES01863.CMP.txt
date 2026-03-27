@@ -1,0 +1,9 @@
+^2 = GameID: BLES01863
+^3 = NAME: Rayman Legends
+^5 = APCRED: From SHAkA
+^4 = FILE: SYS-DATA
++Max Lums
+$write at 0x00002A99:0x3B9AC9FF
++Max Lums
+$search 0xFB5A99A7:1
+$write next (+56):0x7FFFFFFF

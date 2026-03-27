@@ -1,0 +1,47 @@
+^3 = NAME: NBA Live 2003 (Pal-Unk)
+^2 = GameID: SLES-51198
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F02C8E94 002C8E97
+!!
++Away Team Scores 0 (Press Select+Right To Activate)
+%Credits: Codejunkies
+$D0579A42 0000FFDE
+$104AEEB4 00000000
++Away Team Scores 200 (Press Select+Left To Activate)
+%Credits: Codejunkies
+$D0579A42 0000FF7E
+$104AEEB4 000000C8
+!Court Modifier:
++Always Play In The Gym
+%Credits: Codejunkies
+$205797BC 00000002
++Always Play In The Stadium
+%Credits: Codejunkies
+$205797BC 00000003
++Always Play In The Urban Court
+%Credits: Codejunkies
+$205797BC 00000001
++Always Play On The Beach Court {<I>Playing A Full Game On This Level Will Cause Some Screen Corruption.</I>}
+%Credits: Codejunkies
+$205797BC 00000000
+!!
++Home Team Scores 0 (Press Select+Down To Activate)
+%Credits: Codejunkies
+$D0579A42 0000FFBE
+$104AED94 00000000
++Home Team Scores 200 (Press Select+Up To Activate)
+%Credits: Codejunkies
+$D0579A42 0000FFEE
+$104AED94 000000C8
++More Time (Press R1+R2+L1+L2+Select To Activate)
+%Credits: Codejunkies
+$D0579A42 0000F0FE
+$20499400 00004650
++Skip To End Of Quarter (Press R1+R2+L1+L2 To Activate)
+%Credits: Codejunkies
+$D0579A42 0000F0FF
+$20499400 00000000
+!!
+

@@ -1,0 +1,974 @@
+^3 = NAME: Fatal Frame (Ntsc-U)
+^2 = GameID: SLUS-20388
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F010B300 0022DC5F
++(M) Must Be On
+%Credits: Codejunkies
+$F022DC5C 0022DC5F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0022DC67
+!!
++1-Hit Death (Enemies)
+%Credits: Code Master
+$D0252E98 0003000A
+$10252E98 00000001
+$D02536F8 0003000A
+$102536F8 00000001
++Always Low Game Time
+%Credits: Code Master
+$202522F8 00000000
++Black And White Visuals {<I>0 - Off 1 - On  This Is How The Game Normally Looks When You Use Mafuyu When You Start A New Game. You Can Easily Turn It On And Off With A Button Combination, It Needs To Be Set Before You Start Playing.</I>}
+%Credits: bungholio
+$0026C813 0000000?
++Blur Modifier (L2 + Down = Increase, L2 + Left = Decrease) {<I>It&#39;S Interesting To See. Things Start Getting A Little Blurry, Then The Center Of The Screen Becomes A Growing White Circle That Can Cover The Whole Screen.</I>}
+%Credits: bungholio
+$D0252402 00400140
+$30200010 0026C7E0
+$D0252402 00400180
+$30300010 0026C7E0
++Blurry Visuals {<I>This Is Definitely Not The Same As The Above Code. I&#39;M Not Sure What This Is, But You Can Freeze It With
+$003563BC 00000000
+!Camera Codes:
++Have Type-7 Film
+%Credits: Codejunkies
+$00254360 00000063
++Have Type-14 Film
+%Credits: Codejunkies
+$00254361 00000063
++Have Type-37 Film
+%Credits: Codejunkies
+$00254362 00000063
++Have Type-74 Film
+%Credits: Codejunkies
+$00254363 00000063
++Have Type-90 Film
+%Credits: Codejunkies
+$00254364 00000063
++Max Max Value
+%Credits: Code Master
+$00265CE9 00000003
++Max Range
+%Credits: Code Master
+$00265CE8 00000003
++Max Speed
+%Credits: Code Master
+$00265CEA 00000003
++Unlock All Bonus Functions
+%Credits: Codejunkies
+$20265CEC 02020202
++Unlock All Special Functions
+%Credits: Codejunkies
+$20265CF0 02020202
+$00265CF4 00000002
++Unlock Chase Function
+%Credits: Codejunkies
+$00265CF1 00000002
++Unlock None Function
+%Credits: Codejunkies
+$00265CF3 00000002
++Unlock Paralyze Function
+%Credits: Codejunkies
+$00265CEE 00000002
++Unlock Search Function
+%Credits: Codejunkies
+$00265CEF 00000002
++Unlock See Function
+%Credits: Codejunkies
+$00265CED 00000002
++Unlock Sense Function
+%Credits: Codejunkies
+$00265CF0 00000002
++Unlock Slow Function
+%Credits: Codejunkies
+$00265CEC 00000002
++Unlock Zero Function
+%Credits: Codejunkies
+$00265CF4 00000002
++Unlock Zoom Function
+%Credits: Codejunkies
+$00265CF2 00000002
+!!
+!Camera Upgrade Codes:
++Level 1 Max Value
+%Credits: InterAct
+$00265CE9 00000000
++Level 1 Range
+%Credits: InterAct
+$00265CE8 00000000
++Level 1 Speed
+%Credits: InterAct
+$00265CEA 00000000
++Level 2 Max Value
+%Credits: InterAct
+$00265CE9 00000001
++Level 2 Range
+%Credits: InterAct
+$00265CE8 00000001
++Level 2 Speed
+%Credits: InterAct
+$00265CEA 00000001
++Level 3 Max Value
+%Credits: InterAct
+$00265CE9 00000002
++Level 3 Range
+%Credits: InterAct
+$00265CE8 00000002
++Level 3 Speed
+%Credits: InterAct
+$00265CEA 00000002
++Max Basic Performance
+%Credits: InterAct
+$20265CE8 00030303
+!!
+!Enable Camera Functions:
++Enable All Special Functions
+%Credits: InterAct
+$20265CF0 02020202
+!!
+!Have Bonus Camera Options Codes:
++All Options
+%Credits: Code Master
+$00265CEB 00000002
+$20265CEC 02020202
++Pressure
+%Credits: Code Master
+$00265CEB 00000002
+!!
+!Have Notebook Codes:
++Black Notebook Scrap 1
+%Credits: Code Master
+$00254246 00000003
++Black Notebook Scrap 2
+%Credits: Code Master
+$00254247 00000003
++Black Notebook Scrap 3
+%Credits: Code Master
+$00254248 00000003
++Black Notebook Scrap 4
+%Credits: Code Master
+$00254249 00000003
++Black Notebook Scrap 5
+%Credits: Code Master
+$0025424A 00000003
++Black Notebook Scrap 6
+%Credits: Code Master
+$0025424B 00000003
++Child's Writing
+%Credits: Code Master
+$00254245 00000003
++Kirie's Diary 1
+%Credits: Code Master
+$00254228 00000003
++Kirie's Diary 2
+%Credits: Code Master
+$00254229 00000003
++Kirie's Diary 3
+%Credits: Code Master
+$0025422A 00000003
++Kirie's Diary 4
+%Credits: Code Master
+$0025422B 00000003
++Kirie's Diary 5
+%Credits: Code Master
+$0025422C 00000003
++Kirie's Diary 6
+%Credits: Code Master
+$0025422D 00000003
++Lady's Diary Scrap 1
+%Credits: Code Master
+$00254240 00000003
++Lady's Diary Scrap 2
+%Credits: Code Master
+$00254241 00000003
++Lady's Diary Scrap 3
+%Credits: Code Master
+$00254242 00000003
++Mafuyu's Notes 1
+%Credits: Code Master
+$0025422F 00000003
++Mafuyu's Notes 2
+%Credits: Code Master
+$00254230 00000003
++Mafuyu's Notes 3
+%Credits: Code Master
+$00254231 00000003
++Mafuyu's Notes 4
+%Credits: Code Master
+$00254232 00000003
++Mafuyu's Notes 5
+%Credits: Code Master
+$00254233 00000003
++Mafuyu's Notes 6
+%Credits: Code Master
+$00254234 00000003
++Mafuyu's Notes 7
+%Credits: Code Master
+$00254235 00000003
++Old Diary Scrap 1
+%Credits: Code Master
+$0025423B 00000003
++Old Diary Scrap 2
+%Credits: Code Master
+$0025423C 00000003
++Old Diary Scrap 3
+%Credits: Code Master
+$0025423D 00000003
++Old Diary Scrap 4
+%Credits: Code Master
+$0025423E 00000003
++Priest's Writings 1
+%Credits: Code Master
+$00254236 00000003
++Priest's Writings 2
+%Credits: Code Master
+$00254237 00000003
++Priest's Writings 3
+%Credits: Code Master
+$00254238 00000003
++Priest's Writings 4
+%Credits: Code Master
+$00254239 00000003
++Red Notebook Scrap 1
+%Credits: Code Master
+$0025424D 00000003
++Red Notebook Scrap 2
+%Credits: Code Master
+$0025424E 00000003
++Red Notebook Scrap 3
+%Credits: Code Master
+$0025424F 00000003
++Red Notebook Scrap 4
+%Credits: Code Master
+$00254250 00000003
++Red Notebook Scrap 5
+%Credits: Code Master
+$00254251 00000003
++Red Notebook Scrap 6
+%Credits: Code Master
+$00254252 00000003
++Red Notebook Scrap 7
+%Credits: Code Master
+$00254253 00000003
++Research Notes 1
+%Credits: Code Master
+$00254255 00000003
++Research Notes 2
+%Credits: Code Master
+$00254256 00000003
++Research Notes 3
+%Credits: Code Master
+$00254257 00000003
++Research Notes 4
+%Credits: Code Master
+$00254258 00000003
++Research Notes 5
+%Credits: Code Master
+$00254259 00000003
++Special Notebo
+%Credits: NA
+N/A
++Unknown
+%Credits: Code Master
+$0025422E 00000003
++Unknown 2
+%Credits: Code Master
+$0025423A 00000003
++Unknown 3
+%Credits: Code Master
+$0025423F 00000003
++Unknown 4
+%Credits: Code Master
+$00254244 00000003
++Unknown 5
+%Credits: Code Master
+$0025424C 00000003
++Unknown 6
+%Credits: Code Master
+$00254254 00000003
++Yae's Death Note
+%Credits: Code Master
+$00254243 00000003
+!!
+!Have Photo Codes:
++Boy Pulled Into Clock Photo
+%Credits: InterAct
+$0025446F 00000003
++Demon Tag Scroll
+%Credits: InterAct
+$00254489 00000003
++Foot Of Staircase? Photo
+%Credits: InterAct
+$00254468 00000003
++Furious-Looking Mask
+%Credits: InterAct
+$00254488 00000003
++Girl Pulled Into Well Photo
+%Credits: InterAct
+$0025446A 00000003
++Girl Pulled Thru Door Photo
+%Credits: InterAct
+$0025446E 00000003
++Gravestone In Photo
+%Credits: InterAct
+$00254483 00000003
++Huge Altar? Photo
+%Credits: InterAct
+$0025445B 00000003
++Huge Stone Monument
+%Credits: InterAct
+$00254482 00000003
++Japanese Doll Shelf Photo
+%Credits: InterAct
+$00254467 00000003
++Key In The Photo
+%Credits: InterAct
+$00254471 00000003
++Light Thru Crevice Photo
+%Credits: InterAct
+$00254472 00000003
++Lit Garden Lantern Photo
+%Credits: InterAct
+$00254479 00000003
++Mask On The Pillar Photo
+%Credits: InterAct
+$0025445C 00000003
++On The Beam? Photo
+%Credits: InterAct
+$00254473 00000003
++Ornamental Lion Mask
+%Credits: InterAct
+$0025447A 00000003
++Photo Of Character?1
+%Credits: InterAct
+$00254484 00000003
++Photo Of Character?2
+%Credits: InterAct
+$00254485 00000003
++Photo Of Character?3
+%Credits: InterAct
+$00254486 00000003
++Photo Of Character?4
+%Credits: InterAct
+$00254487 00000003
++Row Of Candlesticks Photo
+%Credits: InterAct
+$0025446D 00000003
++Row Of Garden Lanterns
+%Credits: InterAct
+$0025447F 00000003
++Row Of Japanese Dolls Photo
+%Credits: InterAct
+$00254477 00000003
++Rubbish Heap In Photo
+%Credits: InterAct
+$00254474 00000003
++Sand With No Mirror
+%Credits: InterAct
+$0025447B 00000003
++Scroll In The Photo
+%Credits: InterAct
+$0025447D 00000003
++Shinto Gate In Photo
+%Credits: InterAct
+$0025445F 00000003
++Shinto House Altar? Photo
+%Credits: InterAct
+$00254470 00000003
++Some Stone Monument? Photo
+%Credits: InterAct
+$00254475 00000003
++Stoen Burial Mound? Photo
+%Credits: InterAct
+$0025446C 00000003
++Stone Burial Mound
+%Credits: InterAct
+$00254481 00000003
++Stone Monument In Photo
+%Credits: InterAct
+$00254480 00000003
++Stone On The Well Photo
+%Credits: InterAct
+$0025446B 00000003
++Storehouse? Photo
+%Credits: InterAct
+$00254465 00000003
++Waterfall In Photo
+%Credits: InterAct
+$00254469 00000003
+!!
+!Have Photos Codes:
++Boy Pulled Into Clock
+%Credits: Code Master
+$0025426F 00000003
++Demon Tag Scroll
+%Credits: Code Master
+$00254289 00000003
++Foot Of Staircase?
+%Credits: Code Master
+$00254268 00000003
++Furious-Looking Mask
+%Credits: Code Master
+$00254288 00000003
++Girl Pulled Into Well
+%Credits: Code Master
+$0025426A 00000003
++Girl Pulled Thru Door
+%Credits: Code Master
+$0025426E 00000003
++Graveston In Photo
+%Credits: Code Master
+$00254283 00000003
++Huge Altar?
+%Credits: Code Master
+$0025425B 00000003
++Huge Stone Monument
+%Credits: Code Master
+$00254282 00000003
++Japanese Doll Shelf
+%Credits: Code Master
+$00254267 00000003
++Key In The Photo
+%Credits: Code Master
+$00254271 00000003
++Light Thru Crevice
+%Credits: Code Master
+$00254272 00000003
++Lit Garden Lantern
+%Credits: Code Master
+$00254279 00000003
++Mask On The Pillar
+%Credits: Code Master
+$0025425C 00000003
++On The Beam?
+%Credits: Code Master
+$00254273 00000003
++Ornamental Lion Mask
+%Credits: Code Master
+$0025427A 00000003
++Photo Of Character? 1
+%Credits: Code Master
+$00254284 00000003
++Photo Of Character? 2
+%Credits: Code Master
+$00254285 00000003
++Photo Of Character? 3
+%Credits: Code Master
+$00254286 00000003
++Photo Of Character? 4
+%Credits: Code Master
+$00254287 00000003
++Row Of Candlesticks
+%Credits: Code Master
+$0025426D 00000003
++Row Of Gardenlanterns
+%Credits: Code Master
+$0025427F 00000003
++Row Of Japanese Dolls
+%Credits: Code Master
+$00254277 00000003
++Rubbish Heap In Photo
+%Credits: Code Master
+$00254274 00000003
++Scroll In The Photo
+%Credits: Code Master
+$0025427D 00000003
++Shinto Gate In Photo
+%Credits: Code Master
+$0025425F 00000003
++Shinto House Altar?
+%Credits: Code Master
+$00254270 00000003
++Some Stone Monument?
+%Credits: Code Master
+$00254275 00000003
++Stand With No Mirror
+%Credits: Code Master
+$0025427B 00000003
++Stone Burial Mound
+%Credits: Code Master
+$00254281 00000003
++Stone Burial Mound?
+%Credits: Code Master
+$0025426C 00000003
++Stone On The Well
+%Credits: Code Master
+$0025426B 00000003
++Stonemonument Inphoto
+%Credits: Code Master
+$00254280 00000003
++Storehouse?
+%Credits: Code Master
+$00254265 00000003
++Unknown
+%Credits: Code Master
+$0025425A 00000003
++Unknown 2
+%Credits: Code Master
+$0025425D 00000003
++Unknown 3
+%Credits: Code Master
+$0025425E 00000003
++Unknown 4
+%Credits: Code Master
+$00254260 00000003
++Unknown 5
+%Credits: Code Master
+$00254261 00000003
++Unknown 6
+%Credits: Code Master
+$00254262 00000003
++Unknown 7
+%Credits: Code Master
+$00254263 00000003
++Unknown 8
+%Credits: Code Master
+$00254264 00000003
++Unknown 9
+%Credits: Code Master
+$00254266 00000003
++Unknown 10
+%Credits: Code Master
+$00254276 00000003
++Unknown 11
+%Credits: Code Master
+$00254278 00000003
++Unknown 12
+%Credits: Code Master
+$0025427C 00000003
++Unknown 13
+%Credits: Code Master
+$0025427E 00000003
++Waterwheel In Photo
+%Credits: Code Master
+$00254269 00000003
+!!
+!Have Scraps Codes:
++Camera Controls 1
+%Credits: Code Master
+$002544AD 00000003
++Camera Controls 2
+%Credits: Code Master
+$002544AE 00000003
++Power-Ups
+%Credits: Code Master
+$002544B0 00000003
++Shooting Ghosts
+%Credits: Code Master
+$002544AF 00000003
+!!
+!Health Codes:
++Have A Huge Score
+%Credits: Codejunkies
+$20265CF8 0098967F
++Infinite Health
+%Credits: Codejunkies
+$10252AA4 000001F4
++Never Have More Than 50 HP
+%Credits: Codejunkies
+$E0010032 30252AA4
+$10252AA4 00000032
++Never Have More Than 100 HP
+%Credits: Codejunkies
+$E0010064 30252AA4
+$10252AA4 00000064
++Never Have More Than 200 HP
+%Credits: Codejunkies
+$E00100C8 30252AA4
+$10252AA4 000000C8
++Never Have More Than 300 HP
+%Credits: Codejunkies
+$E001012C 30252AA4
+$10252AA4 0000012C
+!!
+!Infinite Items Codes:
++Angry Mask
+%Credits: InterAct
+$0025438A 00000063
++Angry Mask 2
+%Credits: InterAct
+$002543A3 00000063
++Black Carving
+%Credits: InterAct
+$0025436B 00000063
++Blinding Mask
+%Credits: InterAct
+$0025438F 00000063
++Blue Carving
+%Credits: InterAct
+$0025436C 00000063
++Blue Tape 1
+%Credits: InterAct
+$00254374 00000063
++Blue Tape 2
+%Credits: InterAct
+$002543A1 00000063
++Brass Key
+%Credits: InterAct
+$00254370 00000063
++Bronze Key
+%Credits: InterAct
+$00254390 00000063
++Camera
+%Credits: InterAct
+$00254369 00000063
++Ceremonialrope
+%Credits: InterAct
+$0025436F 00000063
++Editor's Photo
+%Credits: InterAct
+$0025437D 00000063
++Family Photo
+%Credits: InterAct
+$0025437C 00000063
++Gold Carving
+%Credits: InterAct
+$00254378 00000063
++Happy Mask
+%Credits: InterAct
+$0025438C 00000063
++Headless Buddha
+%Credits: InterAct
+$00254379 00000063
++Herbal Medicine
+%Credits: InterAct
+$00254366 00000063
++Holy Mirror
+%Credits: InterAct
+$0025439B 00000063
++Joyful Mask
+%Credits: InterAct
+$00254389 00000063
++Kagome Doll
+%Credits: InterAct
+$0025436D 00000063
++Kirie Photo
+%Credits: InterAct
+$00254386 00000063
++Kirie's Hairpin
+%Credits: InterAct
+$00254388 00000063
++Kotosheetmusic
+%Credits: InterAct
+$00254371 00000063
++Lighter
+%Credits: InterAct
+$00254385 00000063
++Mask/Reflection
+%Credits: InterAct
+$0025438E 00000063
++Master's Seal
+%Credits: InterAct
+$0025436E 00000063
++Matches
+%Credits: InterAct
+$00254382 00000063
++Mirror/Piece
+%Credits: InterAct
+$0025437B 00000063
++Mirror/Piece 2
+%Credits: InterAct
+$00254391 00000063
++Mirror/Piece 3
+%Credits: InterAct
+$00254398 00000063
++Mirror/Piece 4
+%Credits: InterAct
+$00254399 00000063
++Mirror/Piece 5
+%Credits: InterAct
+$0025439A 00000063
++Moon Incense
+%Credits: InterAct
+$002543A2 00000063
++Purple Carving
+%Credits: InterAct
+$0025437A 00000063
++Red Handmirror
+%Credits: InterAct
+$0025436A 00000063
++Red Tape 1
+%Credits: InterAct
+$00254373 00000063
++Red Tape 2
+%Credits: InterAct
+$0025439E 00000063
++Red Tape 3
+%Credits: InterAct
+$0025439F 00000063
++Red Tape 4
+%Credits: InterAct
+$002543A0 00000063
++Sacred Water
+%Credits: InterAct
+$00254367 00000063
++Sad Mask
+%Credits: InterAct
+$0025438B 00000063
++Scroll
+%Credits: InterAct
+$00254387 00000063
++Spirit Stone
+%Credits: InterAct
+$00254365 00000063
++Stone Mirror
+%Credits: InterAct
+$00254368 00000063
++Tape Recorder
+%Credits: InterAct
+$00254372 00000063
++Teal Carving
+%Credits: InterAct
+$00254377 00000063
++White Tape 1
+%Credits: InterAct
+$0025439C 00000063
++White Tape 2
+%Credits: InterAct
+$0025439D 00000063
+!!
+!Item Codes:
++Have Blind Demon Ritual
+%Credits: Codejunkies
+$00254491 00000003
++Have Document On Binding
+%Credits: Codejunkies
+$0025448F 00000003
++Have Five Buddhas Document
+%Credits: Codejunkies
+$0025448D 00000003
++Have Five Stones Document
+%Credits: Codejunkies
+$0025448E 00000003
++Have News Clipping
+%Credits: Codejunkies
+$002544AB 00000003
++Have News Clipping
+%Credits: Codejunkies
+$002544A6 00000003
+$002544A7 00000003
++Have Old News Article
+%Credits: Codejunkies
+$002544A8 00000003
+$002544A9 00000003
+$002544AA 00000003
++Have Priest's Manual 1
+%Credits: Codejunkies
+$00254496 00000003
++Have Priest's Manual 2
+%Credits: Codejunkies
+$00254497 00000003
++Have Priest's Manual 3
+%Credits: Codejunkies
+$00254498 00000003
++Have Reasearch Notes 1
+%Credits: Codejunkies
+$00254455 00000003
++Have Reasearch Notes 2
+%Credits: Codejunkies
+$00254456 00000003
++Have Reasearch Notes 3
+%Credits: Codejunkies
+$00254457 00000003
++Have Reasearch Notes 4
+%Credits: Codejunkies
+$00254458 00000003
++Have Reasearch Notes 5
+%Credits: Codejunkies
+$00254459 00000003
++Have Research Scrap 1
+%Credits: Codejunkies
+$0025449A 00000003
++Have Research Scrap 2
+%Credits: Codejunkies
+$0025449B 00000003
++Have Research Scrap 3
+%Credits: Codejunkies
+$0025449C 00000003
++Have Research Scrap 4
+%Credits: Codejunkies
+$0025449D 00000003
++Have Research Scrap 5
+%Credits: Codejunkies
+$0025449E 00000003
++Have Research Scrap 6
+%Credits: Codejunkies
+$0025449F 00000003
++Have Research Scrap 7
+%Credits: Codejunkies
+$002544A0 00000003
++Have Research Scrap 8
+%Credits: Codejunkies
+$002544A1 00000003
++Have Research Scrap 9
+%Credits: Codejunkies
+$002544A2 00000003
++Have Research Scrap 10
+%Credits: Codejunkies
+$002544A3 00000003
++Have Strangling Ritual
+%Credits: Codejunkies
+$00254490 00000003
++Have The Calamity
+%Credits: Codejunkies
+$00254492 00000003
+!!
+!Max Item Codes:
++Blood-Stained Notebook
+%Credits: Code Master
+$00254380 00000063
++Blood-Stained Scrapbook
+%Credits: Code Master
+$0025437F 00000063
++Book Of Folklore About The Himuro Family
+%Credits: Code Master
+$00254383 00000063
++Demon Tag Girls Photo
+%Credits: Code Master
+$0025438D 00000063
++Old Rie Paper With Puzzling Words
+%Credits: Code Master
+$00254384 00000063
++Photo Of The Editor, Ogata
+%Credits: Code Master
+$00254375 00000063
++Picture Of Door With Humuro Family Crest
+%Credits: Code Master
+$00254376 00000063
++Small Notebook
+%Credits: Code Master
+$00254381 00000063
++Sturdy Notebook
+%Credits: Code Master
+$0025437E 00000063
++Unknown 1
+%Credits: Code Master
+$00254392 00000063
++Unknown 2
+%Credits: Code Master
+$00254393 00000063
++Unknown 3
+%Credits: Code Master
+$00254394 00000063
++Unknown 4
+%Credits: Code Master
+$00254395 00000063
++Unknown 5
+%Credits: Code Master
+$00254396 00000063
++Unknown 6
+%Credits: Code Master
+$00254397 00000063
++Unknown 8
+%Credits: Code Master
+$002543A4 00000063
++Unknown 9
+%Credits: Code Master
+$002543A5 00000063
+!!
+!Scraps Codes:
++News Clipping
+%Credits: InterAct
+$002544A6 00000003
++News Clipping
+%Credits: InterAct
+$002544A7 00000003
++Old News Article
+%Credits: InterAct
+$002544A8 00000003
++Old News Article
+%Credits: InterAct
+$002544A9 00000003
++Old News Article
+%Credits: InterAct
+$002544AA 00000003
+!!
+. There&#39;s different slight visual things from address 0035639c to 003563d0 that also aren&#39;t the thing I&#39;m looking for.</i>} by bungholio , CRYPT_CRAW
+003563C4 00000001
++Camera Charge Always Max {<I>No Ghost Ever Survives A 2Nd Shot. It Causes 250 Damage And Gives You 9999 Points For Every Shot That You Take That Damages A Ghost. Right Next To That Address Is Also The Currently Equipped Film Amount Too. It Was Either 00252Aca Or 00252Acb.</I>}
+%Credits: bungholio
+$00252AC8 000000FF
++Chapter Skip {<I>That Should Allow You To Quickly Beat The Game To Be Able To Use The Options..L2 + Up = Intro With Mafuyu, L2 + Right = 1St Night, L2 + Down = 2Nd Night, L2 + Left = 3Rd Night, R2 + Up = Final Night, R2 + Right = Press This While Playing To Instantly Go To That Chapter.</I>}
+%Credits: bungholio
+$D0252402 0000FEEF
+$00252A74 00000000
+$D0252402 0000FEDF
+$00252A74 00000001
+$D0252402 0000FEBF
+$00252A74 00000002
+$D0252402 0000FE7F
+$00252A74 00000003
+$D0252402 0000FDEF
+$00252A74 00000004
+$D0252402 0000FDDF
+$00252A70 00000000
++Character Select
+%Credits: bungholio
+$00345C00 0000000?
++Complete Ghost List
+%Credits: bungholio
+$4033F6F8 00360001
+$00010001 00000000
++Completed Game Menu
+%Credits: bungholio
+$00252A76 00000001
++Costume Modifier
+%Credits: bungholio
+$00356318 000000??
++Debug Stuff {<I>I Have No Idea Of What Any Of The Junk Is.</I>}
+%Credits: bungholio
+$40265D00 006B0001
+$00000001 00000000
++Difficulty Modifier {<I>That Should Allow You To Quickly Beat The Game To Be Able To Use The Options.</I>}
+%Credits: bungholio
+$00252A75 0000000?
++Freeze Ghost (L2 + Up = On, L2 + Right = Off)
+%Credits: bungholio
+$D0252402 00400110
+$00252E93 00000010
+$D0252402 00400120
+$00252E93 00000000
++Invert Colors {<I>0 = Normal Anything That Isn&#39;T 0 = Nightmare</I>}
+%Credits: bungholio
+$00252AA3 000000FF
++Joker
+%Credits: bungholio
+$D0252402 0000????
++Max High Score (Battle Mode)
+%Credits: Code Master
+$203577F0 0098967F
++Max Score (Battle Mode)
+%Credits: Code Master
+$203577F8 0098967F
++Maximum Light Source Radius
+%Credits: bungholio
+$1026C7F8 00000000
++Minimum Light Source Radius {<I>When You Take Damage, The Screen Inverts Colors For A Few Seconds. Use The Infinite Health Code With This. Use This With A Joker Command.</I>}
+%Credits: bungholio
+$1026C7F8 0000FFFF
++Never Limp {<I>It Doesn&#39;T Really Increase The Brightness. It Changes How Far Light Extends From Light Sources. If You Set It To Minimum, It&#39;S Definitely Not Pitch Black But You Will Have Trouble Seeing Some Stuff Unless You Are Walking Around While Looking Through Your Camera.   There Are Quite A Bit Of Different Visual Modifications From Address 0026C7e0 To 0026C820. They Aren&#39;T That Special. One Of Them Made A Translucent Stretched Image Of Other Camera Viewpoints On The Screen, Another Messed With How Dim Lights Were, And Another Only Worked With The Black And White Visual Mode To Increase That Weird Old Static Looking Noise Effect On The Screen.</I>}
+%Credits: bungholio
+$20252AA8 00000000
++Quick Score Gain
+%Credits: Code Master
+$10265CF8 0000FFFF
++Quick Score Gain (Battle Mode)
+%Credits: Code Master
+$103577F8 0000FFFF
++Redundant And Unnecessary Infinite Health
+%Credits: bungholio
+$202065E8 03E00008
+$202065EC 00000000
++Unlock All Story Mode Options {<I>You Need To Beat The Game Once To Load A Game And Get The Menu That Allows You To Use All 3 Costumes, Skip Chapters, And Play Nightmare Difficulty.</I>}
+%Credits: bungholio
+$00356319 000000FF
++Weak Ghosts
+%Credits: InterAct
+$D02536F8 0003000F
+$102536F8 00000001
+$D0252E98 0003000F
+$10252E98 00000001
+!!
+

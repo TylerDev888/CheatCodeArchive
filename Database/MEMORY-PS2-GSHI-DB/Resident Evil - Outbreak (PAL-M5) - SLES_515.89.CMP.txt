@@ -1,0 +1,70 @@
+^3 = NAME: Resident Evil - Outbreak (PAL-M5)
+^2 = GameID: SLES-51589
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F017E3A8 0017E3AB
+!!
++Collection Complete
+%Credits: Codejunkies
+$2032D33C FFFFFFFF
+$2032D340 FFFFFFFF
+$2032D344 FFFFFFFF
+$2032D348 FFFFFFFF
+$2032D34C FFFFFFFF
+$2032D350 FFFFFFFF
++Collection Opened
+%Credits: Codejunkies
+$2032D31C FFFFFFFF
+$2032D320 FFFFFFFF
+$2032D324 FFFFFFFF
+$2032D328 FFFFFFFF
+$2032D32C FFFFFFFF
+$2032D330 FFFFFFFF
++Fast Moves
+%Credits: Codejunkies
+$20464CF0 3FC00000
++Giant Hero
+%Credits: Codejunkies
+$20464CB4 3FC00000
+$20464CB8 3FC00000
+$20464CBC 3FC00000
++Infinite & Max Health
+%Credits: Codejunkies
+$E0020024 0056DFB8
+$D056DFBA 00008602
+$20465144 270F270F
++Infinite Ammo
+%Credits: Codejunkies
+$E0020024 0056DFB8
+$D056DFBA 00008602
+$2056DFBC 00000000
++Low Virus Percentage
+%Credits: Codejunkies
+$204657C4 00000000
+!Main Character Animations:
++Fast Hero/Anims
+%Credits: Codejunkies
+$204657D8 3FC00000
+$204657DC 3FC00000
++Ultra Fast Hero/Anims
+%Credits: Codejunkies
+$204657D8 40800000
+$204657DC 40800000
++Very Fast Hero/Anims
+%Credits: Codejunkies
+$204657D8 40000000
+$204657DC 40000000
+!!
++Max Collection Points
+%Credits: Codejunkies
+$2032AFC0 05F00000
++Unlock, Characters From File 1, 2 & 3 {<I>Backup Save Before Using (Because The Bug Below Saves). Don&#39;T Try To Highlight A Character Above MAC, Or Below Mr. Black.</I>}
+%Credits: Jay007
+$2032AFC4 FFFFFFFF
+$2032AFC8 FFFFFFFF
+$2032AFCC FFFFFFFF
+$2032AFD0 FFFFFFFF
+$2032AFD4 FFFFFFFF
+!!
+

@@ -1,0 +1,1483 @@
+^3 = NAME: Dragon Quest VIII - Journey Of The Cursed King (Pal-Unk)
+^2 = GameID: SLES-53974
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0164E3C 00164E3F
+!!
++All Attributes
+%Credits: Codejunkies
+$20207B14 24020001
+$20207B34 24020001
++All Items In Bag (99)
+%Credits: Codejunkies
+$10409DD0 00000001
+$10409FCE 00000002
+$10409DD2 00000063
+$10409FD0 00000063
+$1040A1CC 00000100
+$1040A2D6 00000101
+$10409DD2 00000063
+$10409EDC 00000063
+!Always Have 1 Item:
++Have 1 Item In Slot 1
+%Credits: Codejunkies
+$10409DD2 00000001
++Have 1 Item In Slot 2
+%Credits: Codejunkies
+$10409DD6 00000001
++Have 1 Item In Slot 3
+%Credits: Codejunkies
+$10409DDA 00000001
++Have 1 Item In Slot 4
+%Credits: Codejunkies
+$10409DDE 00000001
++Have 1 Item In Slot 5
+%Credits: Codejunkies
+$10409DE2 00000001
++Have 1 Item In Slot 6
+%Credits: Codejunkies
+$10409DE6 00000001
++Have 1 Item In Slot 7
+%Credits: Codejunkies
+$10409DEA 00000001
++Have 1 Item In Slot 8
+%Credits: Codejunkies
+$10409DEE 00000001
++Have 1 Item In Slot 9
+%Credits: Codejunkies
+$10409DF2 00000001
++Have 1 Item In Slot 10
+%Credits: Codejunkies
+$10409DF6 00000001
++Have 1 Item In Slot 11
+%Credits: Codejunkies
+$10409DFA 00000001
++Have 1 Item In Slot 12
+%Credits: Codejunkies
+$10409DFE 00000001
+!!
+!Always Have 9 Items:
++Have 9 Items In Slot 1
+%Credits: Codejunkies
+$10409DD2 00000009
++Have 9 Items In Slot 2
+%Credits: Codejunkies
+$10409DD6 00000009
++Have 9 Items In Slot 3
+%Credits: Codejunkies
+$10409DDA 00000009
++Have 9 Items In Slot 4
+%Credits: Codejunkies
+$10409DDE 00000009
++Have 9 Items In Slot 5
+%Credits: Codejunkies
+$10409DE2 00000009
++Have 9 Items In Slot 6
+%Credits: Codejunkies
+$10409DE6 00000009
++Have 9 Items In Slot 7
+%Credits: Codejunkies
+$10409DEA 00000009
++Have 9 Items In Slot 8
+%Credits: Codejunkies
+$10409DEE 00000009
++Have 9 Items In Slot 9
+%Credits: Codejunkies
+$10409DF2 00000009
++Have 9 Items In Slot 10
+%Credits: Codejunkies
+$10409DF6 00000009
++Have 9 Items In Slot 11
+%Credits: Codejunkies
+$10409DFA 00000009
++Have 9 Items In Slot 12
+%Credits: Codejunkies
+$10409DFE 00000009
+!!
+!Always Have 999 Items:
++Have 999 Items In Slot 1
+%Credits: Codejunkies
+$10409DD2 000003E7
++Have 999 Items In Slot 2
+%Credits: Codejunkies
+$10409DD6 000003E7
++Have 999 Items In Slot 3
+%Credits: Codejunkies
+$10409DDA 000003E7
++Have 999 Items In Slot 4
+%Credits: Codejunkies
+$10409DDE 000003E7
++Have 999 Items In Slot 5
+%Credits: Codejunkies
+$10409DE2 000003E7
++Have 999 Items In Slot 6
+%Credits: Codejunkies
+$10409DE6 000003E7
++Have 999 Items In Slot 7
+%Credits: Codejunkies
+$10409DEA 000003E7
++Have 999 Items In Slot 8
+%Credits: Codejunkies
+$10409DEE 000003E7
++Have 999 Items In Slot 9
+%Credits: Codejunkies
+$10409DF2 000003E7
++Have 999 Items In Slot 10
+%Credits: Codejunkies
+$10409DF6 000003E7
++Have 999 Items In Slot 11
+%Credits: Codejunkies
+$10409DFA 000003E7
++Have 999 Items In Slot 12
+%Credits: Codejunkies
+$10409DFE 000003E7
+!!
+!Angelo Codes:
++Full HP
+%Credits: Codejunkies
+$20409CAC 000003E7
++Full MP
+%Credits: Codejunkies
+$20409CB4 000003E7
++Max Agi
+%Credits: Codejunkies
+$10409CDA 000003E7
++Max HP
+%Credits: Codejunkies
+$20409CA8 000003E7
++Max MP
+%Credits: Codejunkies
+$20409CB0 000003E7
++Max Res
+%Credits: Codejunkies
+$10409CDC 000003E7
++Max Skill 1
+%Credits: Codejunkies
+$10409CE2 000003E7
++Max Skill 2
+%Credits: Codejunkies
+$10409CE4 000003E7
++Max Skill 3
+%Credits: Codejunkies
+$10409CE6 000003E7
++Max Skill 4
+%Credits: Codejunkies
+$10409CE8 000003E7
++Max Skill 5
+%Credits: Codejunkies
+$10409CEA 000003E7
++Max Str
+%Credits: Codejunkies
+$10409CD8 000003E7
++Max Wis
+%Credits: Codejunkies
+$10409CDE 000003E7
++Quick Level Up
+%Credits: Codejunkies
+$20409CC0 05F5E0FF
+!!
+!Experience Per Battle Codes:
++100 XP
+%Credits: Codejunkies
+$20369170 24010064
+$20369174 AC410000
+$20369178 AFA100D0
++1000 XP
+%Credits: Codejunkies
+$20369170 240103E8
+$20369174 AC410000
+$20369178 AFA100D0
++9999 XP
+%Credits: Codejunkies
+$20369170 2401270F
+$20369174 AC410000
+$20369178 AFA100D0
++30000 XP
+%Credits: Codejunkies
+$20369170 24017530
+$20369174 AC410000
+$20369178 AFA100D0
+!!
+!Hero Codes:
++Full HP
+%Credits: Codejunkies
+$20409B74 000003E7
++Full MP
+%Credits: Codejunkies
+$20409B7C 000003E7
++Max Agi
+%Credits: Codejunkies
+$10409BA2 000003E7
++Max Boomerangs
+%Credits: Codejunkies
+$10409BAE 000003E7
++Max Courage
+%Credits: Codejunkies
+$10409BB2 000003E7
++Max Fistycuffs
+%Credits: Codejunkies
+$10409BB0 000003E7
++Max HP
+%Credits: Codejunkies
+$20409B70 000003E7
++Max MP
+%Credits: Codejunkies
+$20409B78 000003E7
++Max Res
+%Credits: Codejunkies
+$10409BA4 000003E7
++Max Spears
+%Credits: Codejunkies
+$10409BAC 000003E7
++Max Str
+%Credits: Codejunkies
+$10409BA0 000003E7
++Max Swords
+%Credits: Codejunkies
+$10409BAA 000003E7
++Max Wis
+%Credits: Codejunkies
+$10409BA6 000003E7
++Quick Level Up
+%Credits: Codejunkies
+$20409B88 05F5E0FF
+!!
+!Hero Size Modifier Codes:
++Giant Hero
+%Credits: Codejunkies
+$20B65880 3FC00000
+$20B65884 3FC00000
+$20B65888 3FC00000
++Paper Thin
+%Credits: Codejunkies
+$20B65888 3E000000
++Tiny Hero
+%Credits: Codejunkies
+$20B65880 3F000000
+$20B65884 3F000000
+$20B65888 3F000000
+!!
+!In Battle Codes:
++Infinite Health And MP
+%Credits: Codejunkies
+$202A1F3C 0C03FFC0
+$200FFF00 240503E8
+$200FFF04 AE050004
+$200FFF08 AE050008
+$200FFF0C 03E00008
+$200FFF10 A605000E
++Infinite Health {<I>Use In Battle Codes With Max &Amp; Full HP/MP Codes.</I>}
+%Credits: Codejunkies
+$202A1F3C 0C03FFC0
+$200FFF00 240503E8
+$200FFF04 AE050004
+$200FFF08 AE050008
+$200FFF0C 03E00008
++Infinite MP
+%Credits: Codejunkies
+$202A1F3C 0C03FFC0
+$200FFF00 240503E8
+$200FFF10 A605000E
+$200FFF0C 03E00008
+!!
++Infinite Gold
+%Credits: Codejunkies
+$20409B40 05F5E0FF
+!Jessica Codes:
++Full HP
+%Credits: Codejunkies
+$20409C44 000003E7
++Full MP
+%Credits: Codejunkies
+$20409C4C 000003E7
++Max Agi
+%Credits: Codejunkies
+$10409C72 000003E7
++Max HP
+%Credits: Codejunkies
+$20409C40 000003E7
++Max MP
+%Credits: Codejunkies
+$20409C48 000003E7
++Max Res
+%Credits: Codejunkies
+$10409C74 000003E7
++Max Skill 1
+%Credits: Codejunkies
+$10409C7A 000003E7
++Max Skill 2
+%Credits: Codejunkies
+$10409C7C 000003E7
++Max Skill 3
+%Credits: Codejunkies
+$10409C7E 000003E7
++Max Skill 4
+%Credits: Codejunkies
+$10409C80 000003E7
++Max Skill 5
+%Credits: Codejunkies
+$10409C82 000003E7
++Max Str
+%Credits: Codejunkies
+$10409C70 000003E7
++Max Wis
+%Credits: Codejunkies
+$10409C76 000003E7
++Quick Level Up
+%Credits: Codejunkies
+$20409C58 05F5E0FF
+!!
+!Max Stats All Codes:
++Max ?
+%Credits: Codejunkies
+$202054F0 10000059
++Max Agi
+%Credits: Codejunkies
+$202054C0 1000005F
++Max HP
+%Credits: Codejunkies
+$20205500 10000057
++Max MP
+%Credits: Codejunkies
+$20205510 10000055
++Max Res
+%Credits: Codejunkies
+$202054D0 1000005D
++Max Str
+%Credits: Codejunkies
+$202054B0 10000061
++Max Weapon Stats
+%Credits: Codejunkies
+$2020766C 08081DB1
+$20207670 240303E7
++Max Wis
+%Credits: Codejunkies
+$202054E0 1000005B
+!!
++No Random Battles (L3 To Disable; R3 To Enable Battles)
+%Credits: Codejunkies
+$D03FAFB4 00000200
+$20302394 00000000
+$D03FAFB4 00000400
+$20302394 14A00003
++Receive 999 Items When Buying Some (In Bag)
+%Credits: Codejunkies
+$2020706C 240303E7
+$202070BC 240303E7
+!Slot 1 Item Modifier Codes:
++Ability Ring
+%Credits: Codejunkies
+$10409DD0 000000E0
++Angel Cheese
+%Credits: Codejunkies
+$10409DD0 0000014D
++Angel's Robe
+%Credits: Codejunkies
+$10409DD0 0000009D
++Antidotal Herb
+%Credits: Codejunkies
+$10409DD0 00000106
++Argon Heart
+%Credits: Codejunkies
+$10409DD0 0000015D
++Argon Ring
+%Credits: Codejunkies
+$10409DD0 0000016B
++Armor Secco Essence
+%Credits: Codejunkies
+$10409DD0 00000114
++Assassin's Dagger
+%Credits: Codejunkies
+$10409DD0 00000021
++Bandana
+%Credits: Codejunkies
+$10409DD0 000000BC
++Bandit Axe
+%Credits: Codejunkies
+$10409DD0 0000003C
++Bandit Grass Skirt
+%Credits: Codejunkies
+$10409DD0 00000069
++Bandit Mail
+%Credits: Codejunkies
+$10409DD0 0000008F
++Bardiche Of Binding
+%Credits: Codejunkies
+$10409DD0 00000055
++Bastard Sword
+%Credits: Codejunkies
+$10409DD0 00000010
++Battle Axe
+%Credits: Codejunkies
+$10409DD0 0000003E
++Battle Fork
+%Credits: Codejunkies
+$10409DD0 0000002C
++Baumren's Bell
+%Credits: Codejunkies
+$10409DD0 0000012D
++Big Boss Shield
+%Credits: Codejunkies
+$10409DD0 000000B6
++Blizzard Blade
+%Credits: Codejunkies
+$10409DD0 0000000D
++Blue Orb
+%Credits: Codejunkies
+$10409DD0 0000017A
++Bone Shield
+%Credits: Codejunkies
+$10409DD0 000000B2
++Boomerang
+%Credits: Codejunkies
+$10409DD0 00000031
++Boxer Short
+%Credits: Codejunkies
+$10409DD0 0000006B
++Bronze Armour
+%Credits: Codejunkies
+$10409DD0 00000081
++Bronze Helmet
+%Credits: Codejunkies
+$10409DD0 000000C7
++Bronze Knife
+%Credits: Codejunkies
+$10409DD0 0000001E
++Bronze Shield
+%Credits: Codejunkies
+$10409DD0 000000A7
++Bunny Ears
+%Credits: Codejunkies
+$10409DD0 000000C3
++Bunny Suit
+%Credits: Codejunkies
+$10409DD0 00000072
++Bunny Tail
+%Credits: Codejunkies
+$10409DD0 00000129
++C-C-Cold Cheese
+%Credits: Codejunkies
+$10409DD0 00000145
++Catholicon Ring
+%Credits: Codejunkies
+$10409DD0 00000100
++Chain Mail
+%Credits: Codejunkies
+$10409DD0 00000080
++Chain Whip
+%Credits: Codejunkies
+$10409DD0 0000004C
++Cheiron's Bow
+%Credits: Codejunkies
+$10409DD0 00000066
++Chilly Cheese
+%Credits: Codejunkies
+$10409DD0 00000143
++Chimaera Wing
+%Credits: Codejunkies
+$10409DD0 00000115
++Chunky Cheese
+%Credits: Codejunkies
+$10409DD0 00000150
++Cloak Of Evasion
+%Credits: Codejunkies
+$10409DD0 00000071
++Cold Cheese
+%Credits: Codejunkies
+$10409DD0 00000144
++Conqueror's Axe
+%Credits: Codejunkies
+$10409DD0 0000003F
++Cool Cheese
+%Credits: Codejunkies
+$10409DD0 00000142
++Copper Monster Coin
+%Credits: Codejunkies
+$10409DD0 0000017E
++Copper Sword
+%Credits: Codejunkies
+$10409DD0 00000003
++Coral Hairpin
+%Credits: Codejunkies
+$10409DD0 000000C8
++Cowpat
+%Credits: Codejunkies
+$10409DD0 00000130
++Crimson Robe
+%Credits: Codejunkies
+$10409DD0 0000009F
++Crytal Ball
+%Credits: Codejunkies
+$10409DD0 00000153
++Cured Cheese
+%Credits: Codejunkies
+$10409DD0 0000014C
++Cypress Stick {<I>Slot 1 Represents The First Item In Your Bag.</I>}
+%Credits: Codejunkies
+$10409DD0 00000001
++Dagger
+%Credits: Codejunkies
+$10409DD0 0000001F
++Dancer's Costume
+%Credits: Codejunkies
+$10409DD0 0000006C
++Dancer's Mail
+%Credits: Codejunkies
+$10409DD0 00000087
++Dangerous Bustier
+%Credits: Codejunkies
+$10409DD0 0000007B
++Dark Robe
+%Credits: Codejunkies
+$10409DD0 00000079
++Darktree Leaf
+%Credits: Codejunkies
+$10409DD0 00000168
++Demon Spear
+%Credits: Codejunkies
+$10409DD0 0000002E
++Demon Whip
+%Credits: Codejunkies
+$10409DD0 0000004F
++Devil's Tail
+%Credits: Codejunkies
+$10409DD0 000000F2
++Divine Bustier
+%Credits: Codejunkies
+$10409DD0 0000007C
++Double Edged Sword
+%Credits: Codejunkies
+$10409DD0 00000012
++Dragon Dug
+%Credits: Codejunkies
+$10409DD0 00000131
++Dragon Mail
+%Credits: Codejunkies
+$10409DD0 00000089
++Dragon Robe
+%Credits: Codejunkies
+$10409DD0 000000A1
++Dragon Scale
+%Credits: Codejunkies
+$10409DD0 00000103
++Dragon Shield
+%Credits: Codejunkies
+$10409DD0 000000AE
++Dragon Slayer
+%Credits: Codejunkies
+$10409DD0 0000000C
++Dragon Slayer Recipe
+%Credits: Codejunkies
+$10409DD0 0000016F
++Dragonsbane
+%Credits: Codejunkies
+$10409DD0 0000000B
++Dragontail Whip
+%Credits: Codejunkies
+$10409DD0 0000004D
++Dragovian Armour
+%Credits: Codejunkies
+$10409DD0 00000095
++Dragovian Helm
+%Credits: Codejunkies
+$10409DD0 000000DC
++Dragovian Kind Sword
+%Credits: Codejunkies
+$10409DD0 00000016
++Dragovian Shield
+%Credits: Codejunkies
+$10409DD0 000000BA
++Dragovian Sword
+%Credits: Codejunkies
+$10409DD0 00000015
++Dream Blade
+%Credits: Codejunkies
+$10409DD0 00000006
++Eagle Dagger
+%Credits: Codejunkies
+$10409DD0 00000027
++Echo Flute
+%Credits: Codejunkies
+$10409DD0 0000016C
++Edged Boomerang
+%Credits: Codejunkies
+$10409DD0 00000033
++Elevating Shoes
+%Credits: Codejunkies
+$10409DD0 00000104
++Elfin Elixir
+%Credits: Codejunkies
+$10409DD0 00000118
++Eros' Bow
+%Credits: Codejunkies
+$10409DD0 00000067
++Eros' Bow Recipe
+%Credits: Codejunkies
+$10409DD0 0000016D
++Falcon Blade
+%Credits: Codejunkies
+$10409DD0 00000007
++Falcon Knife
+%Credits: Codejunkies
+$10409DD0 00000024
++Fallen Angel Rapier
+%Credits: Codejunkies
+$10409DD0 0000001B
++Farmer's Scythe
+%Credits: Codejunkies
+$10409DD0 00000052
++Feathered Cap
+%Credits: Codejunkies
+$10409DD0 000000C0
++Fishnet Stockings
+%Credits: Codejunkies
+$10409DD0 000000F3
++Flail Of Destruction
+%Credits: Codejunkies
+$10409DD0 00000048
++Flail Of Furry
+%Credits: Codejunkies
+$10409DD0 00000047
++Flame Shield
+%Credits: Codejunkies
+$10409DD0 00000181
++Flametang Boomerang
+%Credits: Codejunkies
+$10409DD0 00000037
++Flowing Dress
+%Credits: Codejunkies
+$10409DD0 0000009B
++Fresh Milk
+%Credits: Codejunkies
+$10409DD0 00000137
++Full Moon Ring
+%Credits: Codejunkies
+$10409DD0 000000FC
++Full Plate Armor
+%Credits: Codejunkies
+$10409DD0 00000085
++Fur Hood
+%Credits: Codejunkies
+$10409DD0 000000C6
++Fur Poncho
+%Credits: Codejunkies
+$10409DD0 00000070
++Garter
+%Credits: Codejunkies
+$10409DD0 000000F4
++Giant Mallet
+%Credits: Codejunkies
+$10409DD0 00000041
++Gigant Armour
+%Credits: Codejunkies
+$10409DD0 00000092
++Godbird Sceptre
+%Credits: Codejunkies
+$10409DD0 00000175
++Godbird's Soulstone
+%Credits: Codejunkies
+$10409DD0 00000167
++Goddess Ring
+%Credits: Codejunkies
+$10409DD0 000000E6
++Goddess Shield
+%Credits: Codejunkies
+$10409DD0 000000B9
++Gold Bracer
+%Credits: Codejunkies
+$10409DD0 000000EA
++Gold Card
+%Credits: Codejunkies
+$10409DD0 00000177
++Gold Monster Coin
+%Credits: Codejunkies
+$10409DD0 00000180
++Gold Nugget
+%Credits: Codejunkies
+$10409DD0 0000012E
++Gold Ring
+%Credits: Codejunkies
+$10409DD0 000000E3
++Gold Rosary
+%Credits: Codejunkies
+$10409DD0 000000F6
++Golden Axe
+%Credits: Codejunkies
+$10409DD0 0000003D
++Golden Tiara
+%Credits: Codejunkies
+$10409DD0 000000D8
++Gospel Ring
+%Credits: Codejunkies
+$10409DD0 000000E7
++Great Big Argon Heart
+%Credits: Codejunkies
+$10409DD0 0000015E
++Great Bow
+%Credits: Codejunkies
+$10409DD0 00000063
++Great Helm
+%Credits: Codejunkies
+$10409DD0 000000D9
++Greater Panacea
+%Credits: Codejunkies
+$10409DD0 0000010B
++Green Orb
+%Credits: Codejunkies
+$10409DD0 0000017B
++Gringham Whip
+%Credits: Codejunkies
+$10409DD0 00000051
++Hades Helm
+%Credits: Codejunkies
+$10409DD0 000000CF
++Hairband
+%Credits: Codejunkies
+$10409DD0 000000BE
++Happy Hat
+%Credits: Codejunkies
+$10409DD0 000000CE
++Hard Cheese
+%Credits: Codejunkies
+$10409DD0 0000014E
++Heavy Armour
+%Credits: Codejunkies
+$10409DD0 0000008C
++Heavy Hatchet
+%Credits: Codejunkies
+$10409DD0 00000054
++Hell Sabre
+%Credits: Codejunkies
+$10409DD0 00000019
++Hell Scythe
+%Credits: Codejunkies
+$10409DD0 00000056
++Hermes Hat
+%Credits: Codejunkies
+$10409DD0 000000CB
++Hero Spear
+%Credits: Codejunkies
+$10409DD0 0000002F
++Highly Strung Cheese
+%Credits: Codejunkies
+$10409DD0 00000151
++Holy Lance
+%Credits: Codejunkies
+$10409DD0 00000029
++Holy Silve Rapier
+%Credits: Codejunkies
+$10409DD0 0000001A
++Holy Talisman
+%Credits: Codejunkies
+$10409DD0 000000FA
++Holy Water
+%Credits: Codejunkies
+$10409DD0 00000116
++Hunter's Bow
+%Credits: Codejunkies
+$10409DD0 00000062
++Ice Shield
+%Credits: Codejunkies
+$10409DD0 00000182
++Icicle Dirk
+%Credits: Codejunkies
+$10409DD0 00000022
++Illuminated Sea Chart
+%Credits: Codejunkies
+$10409DD0 00000165
++Imp Knife
+%Credits: Codejunkies
+$10409DD0 00000025
++Imp Knife Recipe
+%Credits: Codejunkies
+$10409DD0 0000016E
++Iron Armour
+%Credits: Codejunkies
+$10409DD0 00000083
++Iron Axe
+%Credits: Codejunkies
+$10409DD0 00000039
++Iron Cuirass
+%Credits: Codejunkies
+$10409DD0 00000082
++Iron Headgear
+%Credits: Codejunkies
+$10409DD0 000000D6
++Iron Helmet
+%Credits: Codejunkies
+$10409DD0 000000C5
++Iron Lance
+%Credits: Codejunkies
+$10409DD0 00000028
++Iron Mask
+%Credits: Codejunkies
+$10409DD0 000000CA
++Iron Nail
+%Credits: Codejunkies
+$10409DD0 0000012F
++Iron Shield
+%Credits: Codejunkies
+$10409DD0 000000A9
++Jessica's Letter
+%Credits: Codejunkies
+$10409DD0 00000155
++Jessica's Outfit
+%Credits: Codejunkies
+$10409DD0 0000007D
++King Axe
+%Credits: Codejunkies
+$10409DD0 0000003A
++Kitty Shield
+%Credits: Codejunkies
+$10409DD0 000000A6
++Kran Spinels
+%Credits: Codejunkies
+$10409DD0 00000162
++Lady's Ring
+%Credits: Codejunkies
+$10409DD0 000000F5
++Leather Armour
+%Credits: Codejunkies
+$10409DD0 0000007E
++Leather Cape
+%Credits: Codejunkies
+$10409DD0 00000098
++Leather Dress
+%Credits: Codejunkies
+$10409DD0 0000006E
++Leather Hat
+%Credits: Codejunkies
+$10409DD0 000000BD
++Leather Kilt
+%Credits: Codejunkies
+$10409DD0 0000006D
++Leather Shield
+%Credits: Codejunkies
+$10409DD0 000000A3
++Leather Whip
+%Credits: Codejunkies
+$10409DD0 0000004A
++Lesser Panacea
+%Credits: Codejunkies
+$10409DD0 0000010A
++Life Bracer
+%Credits: Codejunkies
+$10409DD0 000000E8
++Light Shield
+%Credits: Codejunkies
+$10409DD0 000000AA
++Lightning Staff
+%Credits: Codejunkies
+$10409DD0 00000059
++Liquid Metal Armour
+%Credits: Codejunkies
+$10409DD0 00000094
++Liquid Metal Sword
+%Credits: Codejunkies
+$10409DD0 00000011
++Lizard Humour
+%Credits: Codejunkies
+$10409DD0 0000015B
++Long Spear
+%Credits: Codejunkies
+$10409DD0 0000002A
++Magic Armour
+%Credits: Codejunkies
+$10409DD0 0000008A
++Magic Beast Hide
+%Credits: Codejunkies
+$10409DD0 00000136
++Magic Bikini
+%Credits: Codejunkies
+$10409DD0 00000074
++Magic Key
+%Credits: Codejunkies
+$10409DD0 00000126
++Magic Mirror
+%Credits: Codejunkies
+$10409DD0 0000015F
++Magic Shield
+%Credits: Codejunkies
+$10409DD0 000000AD
++Magic Vestment
+%Credits: Codejunkies
+$10409DD0 0000009A
++Magic Water
+%Credits: Codejunkies
+$10409DD0 00000117
++Magical Hat
+%Credits: Codejunkies
+$10409DD0 000000CD
++Magical Mace
+%Credits: Codejunkies
+$10409DD0 00000060
++Magical Skirt
+%Credits: Codejunkies
+$10409DD0 00000077
++Magma Staff
+%Credits: Codejunkies
+$10409DD0 0000005B
++Marta's Bag
+%Credits: Codejunkies
+$10409DD0 00000164
++Medicinal Herb
+%Credits: Codejunkies
+$10409DD0 00000105
++Megaton Hammer
+%Credits: Codejunkies
+$10409DD0 00000046
++Mercury Rapier
+%Credits: Codejunkies
+$10409DD0 0000001D
++Mercury's Bandana
+%Credits: Codejunkies
+$10409DD0 000000D2
++Metal Kibd Armor
+%Credits: Codejunkies
+$10409DD0 00000096
++Metal King Helm
+%Credits: Codejunkies
+$10409DD0 000000DE
++Metal King Shield
+%Credits: Codejunkies
+$10409DD0 000000BB
++Metal King Spear
+%Credits: Codejunkies
+$10409DD0 00000030
++Metal Wing Boomerang
+%Credits: Codejunkies
+$10409DD0 00000034
++Meteorite Bracer
+%Credits: Codejunkies
+$10409DD0 000000E1
++Mighty Armlet
+%Credits: Codejunkies
+$10409DD0 000000E9
++Mild Cheese
+%Credits: Codejunkies
+$10409DD0 0000014B
++Mini Medal
+%Credits: Codejunkies
+$10409DD0 00000123
++Miracle Sword
+%Credits: Codejunkies
+$10409DD0 0000000E
++Mirror Armour
+%Credits: Codejunkies
+$10409DD0 00000093
++Mirror Shield
+%Credits: Codejunkies
+$10409DD0 000000B3
++Monster Arena Key
+%Credits: Codejunkies
+$10409DD0 00000174
++Moon Axe
+%Credits: Codejunkies
+$10409DD0 0000003B
++Moon's Mercy
+%Credits: Codejunkies
+$10409DD0 00000110
++Moonshadow Harp
+%Credits: Codejunkies
+$10409DD0 00000159
++Moonwort Bulb
+%Credits: Codejunkies
+$10409DD0 00000107
++Morrie's Memo 1
+%Credits: Codejunkies
+$10409DD0 00000171
++Morrie's Memo 2
+%Credits: Codejunkies
+$10409DD0 00000172
++Morrie's Memo 3
+%Credits: Codejunkies
+$10409DD0 00000173
++Mystifying Misture
+%Credits: Codejunkies
+$10409DD0 00000111
++Mythrill Helm
+%Credits: Codejunkies
+$10409DD0 000000D1
++Nook Grass
+%Credits: Codejunkies
+$10409DD0 00000166
++Oaken Club
+%Credits: Codejunkies
+$10409DD0 00000040
++Odin's Bow
+%Credits: Codejunkies
+$10409DD0 00000065
++Ogre Shield
+%Credits: Codejunkies
+$10409DD0 000000B4
++Orichalcum
+%Credits: Codejunkies
+$10409DD0 00000128
++Partisan
+%Credits: Codejunkies
+$10409DD0 0000002B
++Phantom Mask
+%Credits: Codejunkies
+$10409DD0 000000DA
++Pirate Hat
+%Credits: Codejunkies
+$10409DD0 000000C9
++Plain Cheese
+%Credits: Codejunkies
+$10409DD0 0000013C
++Plain Clothes
+%Credits: Codejunkies
+$10409DD0 00000068
++Platinium Headgear
+%Credits: Codejunkies
+$10409DD0 000000CC
++Platinium Sword
+%Credits: Codejunkies
+$10409DD0 00000005
++Platinum Mail
+%Credits: Codejunkies
+$10409DD0 0000008E
++Pointy Hat
+%Credits: Codejunkies
+$10409DD0 000000BF
++Poison Moth Knife
+%Credits: Codejunkies
+$10409DD0 00000020
++Poison Needle
+%Credits: Codejunkies
+$10409DD0 00000023
++Posh Waistcost
+%Credits: Codejunkies
+$10409DD0 00000076
++Pot Lid
+%Credits: Codejunkies
+$10409DD0 000000A2
++Power Shield
+%Credits: Codejunkies
+$10409DD0 000000B0
++Prayer Ring
+%Credits: Codejunkies
+$10409DD0 000000E4
++Premium Mould
+%Credits: Codejunkies
+$10409DD0 0000013B
++Princess' Robe
+%Credits: Codejunkies
+$10409DD0 000000A0
++Purple Orb
+%Credits: Codejunkies
+$10409DD0 0000017D
++Ragin Bull Helm
+%Credits: Codejunkies
+$10409DD0 000000D7
++Rapier
+%Credits: Codejunkies
+$10409DD0 00000017
++Razor Wing Boomerang
+%Credits: Codejunkies
+$10409DD0 00000035
++Recovery Ring
+%Credits: Codejunkies
+$10409DD0 000000E5
++Red Mould
+%Credits: Codejunkies
+$10409DD0 00000139
++Red Orb
+%Credits: Codejunkies
+$10409DD0 00000179
++Reinforced Boomerang
+%Credits: Codejunkies
+$10409DD0 00000032
++Rennet Powder
+%Credits: Codejunkies
+$10409DD0 00000138
++Ring Of Awakening
+%Credits: Codejunkies
+$10409DD0 000000FB
++Ring Of Clarity
+%Credits: Codejunkies
+$10409DD0 000000FD
++Ring Of Immunity
+%Credits: Codejunkies
+$10409DD0 000000FF
++Ring Of Truth
+%Credits: Codejunkies
+$10409DD0 000000FE
++Robe Of Serenity
+%Credits: Codejunkies
+$10409DD0 00000099
++Rock Salt
+%Credits: Codejunkies
+$10409DD0 00000132
++Rockbomb Shard
+%Credits: Codejunkies
+$10409DD0 00000119
++Rose-Root
+%Credits: Codejunkies
+$10409DD0 0000010C
++Rose-Wort
+%Credits: Codejunkies
+$10409DD0 0000010D
++Ruby Of Protection
+%Credits: Codejunkies
+$10409DD0 000000ED
++Ruinous Shield
+%Credits: Codejunkies
+$10409DD0 000000B7
++Rune Staff
+%Credits: Codejunkies
+$10409DD0 0000005E
++Rusty Old Sword
+%Credits: Codejunkies
+$10409DD0 00000014
++Sacred Armour
+%Credits: Codejunkies
+$10409DD0 00000090
++Sage's Robe
+%Credits: Codejunkies
+$10409DD0 0000009C
++Sage's Stone
+%Credits: Codejunkies
+$10409DD0 0000011A
++Saint's Ashes
+%Credits: Codejunkies
+$10409DD0 00000134
++Saintess Shield
+%Credits: Codejunkies
+$10409DD0 000000B1
++Sand Of Serenity
+%Credits: Codejunkies
+$10409DD0 0000015A
++Sandstorm Spear
+%Credits: Codejunkies
+$10409DD0 0000002D
++Scale Armour
+%Credits: Codejunkies
+$10409DD0 0000007F
++Scale Shield
+%Credits: Codejunkies
+$10409DD0 000000A4
++Scholar Cap
+%Credits: Codejunkies
+$10409DD0 000000D3
++Scholar Specs
+%Credits: Codejunkies
+$10409DD0 000000EF
++Scorching Cheese
+%Credits: Codejunkies
+$10409DD0 00000140
++Scourge Whip
+%Credits: Codejunkies
+$10409DD0 00000050
++Seed Of Agility
+%Credits: Codejunkies
+$10409DD0 0000011D
++Seed Of Defence
+%Credits: Codejunkies
+$10409DD0 0000011E
++Seed Of Life
+%Credits: Codejunkies
+$10409DD0 00000121
++Seed Of Magic
+%Credits: Codejunkies
+$10409DD0 00000122
++Seed Of Skill
+%Credits: Codejunkies
+$10409DD0 00000120
++Seed Of Strengh
+%Credits: Codejunkies
+$10409DD0 0000011C
++Seed Of Wisdom
+%Credits: Codejunkies
+$10409DD0 0000011F
++Shamshir Of Light
+%Credits: Codejunkies
+$10409DD0 0000001C
++Shimmering Dress
+%Credits: Codejunkies
+$10409DD0 00000078
++Short Bow
+%Credits: Codejunkies
+$10409DD0 00000064
++Silk Bustier
+%Credits: Codejunkies
+$10409DD0 00000073
++Silk Robe
+%Credits: Codejunkies
+$10409DD0 00000097
++Silver Cuirass
+%Credits: Codejunkies
+$10409DD0 00000086
++Silver Mail
+%Credits: Codejunkies
+$10409DD0 00000088
++Silver Monster Coin
+%Credits: Codejunkies
+$10409DD0 0000017F
++Silver Orb
+%Credits: Codejunkies
+$10409DD0 00000178
++Silver Platter
+%Credits: Codejunkies
+$10409DD0 000000A5
++Silver Shield
+%Credits: Codejunkies
+$10409DD0 000000B5
++Silver Tiara
+%Credits: Codejunkies
+$10409DD0 000000C2
++Skull Helm
+%Credits: Codejunkies
+$10409DD0 000000DB
++Skull Ring
+%Credits: Codejunkies
+$10409DD0 000000F9
++Sledgehammer
+%Credits: Codejunkies
+$10409DD0 00000042
++Slime Crown
+%Credits: Codejunkies
+$10409DD0 000000D0
++Slime Earrings
+%Credits: Codejunkies
+$10409DD0 000000F1
++Snakeskin Whip
+%Credits: Codejunkies
+$10409DD0 0000004B
++Soft Cheese
+%Credits: Codejunkies
+$10409DD0 0000014F
++Soldier's Sword
+%Credits: Codejunkies
+$10409DD0 00000002
++Sorcerer's Ring
+%Credits: Codejunkies
+$10409DD0 000000F8
++Spangled Dress
+%Credits: Codejunkies
+$10409DD0 00000075
++Special Antidote
+%Credits: Codejunkies
+$10409DD0 0000010F
++Special Medecine
+%Credits: Codejunkies
+$10409DD0 00000109
++Spicy Cheese
+%Credits: Codejunkies
+$10409DD0 0000013E
++Spiked Armour
+%Credits: Codejunkies
+$10409DD0 0000008D
++Spiked Steel Whip
+%Credits: Codejunkies
+$10409DD0 0000004E
++Staff Of Antimagic
+%Credits: Codejunkies
+$10409DD0 0000005D
++Staff Of Divine Wrath
+%Credits: Codejunkies
+$10409DD0 0000005A
++Staff Of Resurection
+%Credits: Codejunkies
+$10409DD0 0000005F
++Steel Broadsword
+%Credits: Codejunkies
+$10409DD0 00000004
++Steel Shield
+%Credits: Codejunkies
+$10409DD0 000000AC
++Stell Scythe
+%Credits: Codejunkies
+$10409DD0 00000057
++Stone Axe
+%Credits: Codejunkies
+$10409DD0 00000038
++Stone Hardhat
+%Credits: Codejunkies
+$10409DD0 000000C4
++Stone Sword
+%Credits: Codejunkies
+$10409DD0 00000161
++Strengh Ring
+%Credits: Codejunkies
+$10409DD0 000000E2
++Strong Antidote
+%Credits: Codejunkies
+$10409DD0 0000010E
++Strong Medecine
+%Credits: Codejunkies
+$10409DD0 00000108
++Sun Crown
+%Credits: Codejunkies
+$10409DD0 000000DD
++Sun Mirror
+%Credits: Codejunkies
+$10409DD0 00000160
++Super Spicy Cheese
+%Credits: Codejunkies
+$10409DD0 0000013F
++Swallotail
+%Credits: Codejunkies
+$10409DD0 00000036
++Sword Breaker
+%Credits: Codejunkies
+$10409DD0 00000026
++Templar Captain's Ring
+%Credits: Codejunkies
+$10409DD0 00000169
++Templar's Ring
+%Credits: Codejunkies
+$10409DD0 00000156
++Templar's Shield
+%Credits: Codejunkies
+$10409DD0 000000A8
++Templar's Sword
+%Credits: Codejunkies
+$10409DD0 00000018
++Templar's Uniform
+%Credits: Codejunkies
+$10409DD0 0000006F
++Thanatos Shield
+%Credits: Codejunkies
+$10409DD0 000000B8
++The Big Book Of Barriers
+%Credits: Codejunkies
+$10409DD0 00000163
++Thief's Key
+%Credits: Codejunkies
+$10409DD0 00000125
++Thief's Key Recipe
+%Credits: Codejunkies
+$10409DD0 00000170
++Thinking Cap
+%Credits: Codejunkies
+$10409DD0 000000D5
++Thorn Whip
+%Credits: Codejunkies
+$10409DD0 00000049
++Timbrel Of Tension
+%Credits: Codejunkies
+$10409DD0 0000012A
++Titan Blet
+%Credits: Codejunkies
+$10409DD0 000000EE
++Tool Bag
+%Credits: Codejunkies
+$10409DD0 00000154
++Tough Guy Tattoo
+%Credits: Codejunkies
+$10409DD0 000000F0
++Turban
+%Credits: Codejunkies
+$10409DD0 000000C1
++Turtoise Shell
+%Credits: Codejunkies
+$10409DD0 00000084
++Uber Double Edge
+%Credits: Codejunkies
+$10409DD0 00000013
++Uber Falcon Blade
+%Credits: Codejunkies
+$10409DD0 00000008
++Uber Miracle Sword
+%Credits: Codejunkies
+$10409DD0 0000000F
++Uber War Hammer
+%Credits: Codejunkies
+$10409DD0 00000044
++Ultime Key
+%Credits: Codejunkies
+$10409DD0 00000127
++Velvet Cape
+%Credits: Codejunkies
+$10409DD0 0000009E
++Venus Tear
+%Credits: Codejunkies
+$10409DD0 00000158
++War Hammer
+%Credits: Codejunkies
+$10409DD0 00000043
++Waterweed Mould
+%Credits: Codejunkies
+$10409DD0 0000013A
++Wayfarer's Clothes
+%Credits: Codejunkies
+$10409DD0 0000006A
++White Shield
+%Credits: Codejunkies
+$10409DD0 000000AB
++Wing Of Bat
+%Credits: Codejunkies
+$10409DD0 00000135
++Wizard's Staff
+%Credits: Codejunkies
+$10409DD0 00000058
++World Map
+%Credits: Codejunkies
+$10409DD0 00000157
++Yellow Orb
+%Credits: Codejunkies
+$10409DD0 0000017C
++Yggdrasil Dew
+%Credits: Codejunkies
+$10409DD0 00000113
++Yggdrasil Leaf
+%Credits: Codejunkies
+$10409DD0 00000112
++Zombie Mail
+%Credits: Codejunkies
+$10409DD0 0000008B
++Zombie Slayer
+%Credits: Codejunkies
+$10409DD0 0000000A
++Zombiesbane
+%Credits: Codejunkies
+$10409DD0 00000009
+!!
+!Yangus Codes:
++Full HP
+%Credits: Codejunkies
+$20409BDC 000003E7
++Full MP
+%Credits: Codejunkies
+$20409BE4 000003E7
++Max Agi
+%Credits: Codejunkies
+$10409C0A 000003E7
++Max Axes
+%Credits: Codejunkies
+$10409C12 000003E7
++Max Clubs
+%Credits: Codejunkies
+$10409C14 000003E7
++Max Courage
+%Credits: Codejunkies
+$10409C1A 000003E7
++Max Fistycuffs
+%Credits: Codejunkies
+$10409C18 000003E7
++Max HP
+%Credits: Codejunkies
+$20409BD8 000003E7
++Max MP
+%Credits: Codejunkies
+$20409BE0 000003E7
++Max Res
+%Credits: Codejunkies
+$10409C0C 000003E7
++Max Scythes
+%Credits: Codejunkies
+$10409C16 000003E7
++Max Str
+%Credits: Codejunkies
+$10409C08 000003E7
++Max Wis
+%Credits: Codejunkies
+$10409C0E 000003E7
++Quick Level Up
+%Credits: Codejunkies
+$20409BF0 05F5E0FF
+!!
+!!
+

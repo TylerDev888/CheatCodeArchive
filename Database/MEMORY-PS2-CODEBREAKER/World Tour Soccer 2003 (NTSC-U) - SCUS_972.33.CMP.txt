@@ -1,0 +1,180 @@
+^1 = HASH: D41EE761
+^3 = NAME: World Tour Soccer 2003
+^2 = GameID: SCUS_972.33
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0043D7A7
+!!
+!Codes:
++Home Team Score Modifier
+%Credits: Code Master
+$0050399A 000000??
++Home Team Start With Score Modifier
+%Credits: Code Master
+$D050399A 00000000
+$0050399A 000000??
++Away Team Score Modifier
+%Credits: Code Master
+$005035B0 000000??
++Away Team Start With Score Modifier
+%Credits: Code Master
+$D05035B0 00000000
+$005035B0 000000??
++P1 Press L1+Select For Time Low 1St Half
+%Credits: Code Master
+$D062E6C2 0000FBFE
+$105584B0 00000000
++P1 Press L2+Select To End 1St Half
+%Credits: Code Master
+$D062E6C2 0000FEFE
+$105584B0 00003820
++P1 Press R1+Select For Time Low 2Nd Half
+%Credits: Code Master
+$D062E6C2 0000F7FE
+$105584B0 00003840
++P1 Press R2+Select To End 2Nd Half
+%Credits: Code Master
+$D062E6C2 0000FDFE
+$105584B0 00007040
++P2 Press L1+Select For Time Low 1St Half
+%Credits: Code Master
+$D062E842 0000FBFE
+$105584B0 00000000
++P2 Press L2+Select To End 1St Half
+%Credits: Code Master
+$D062E842 0000FEFE
+$105584B0 00003820
++P2 Press R1+Select For Time Low 2Nd Half
+%Credits: Code Master
+$D062E842 0000F7FE
+$105584B0 00003840
++P2 Press R2+Select To End 2Nd Half
+%Credits: Code Master
+$D062E842 0000FDFE
+$105584B0 00007040
++P3 Press L1+Select For Time Low 1St Half
+%Credits: Code Master
+$D062E9C2 0000FBFE
+$105584B0 00000000
++P3 Press L2+Select To End 1St Half
+%Credits: Code Master
+$D062E9C2 0000FEFE
+$105584B0 00003820
++P3 Press R1+Select For Time Low 2Nd Half
+%Credits: Code Master
+$D062E9C2 0000F7FE
+$105584B0 00003840
++P3 Press R2+Select To End 2Nd Half
+%Credits: Code Master
+$D062E9C2 0000FDFE
+$105584B0 00007040
++P4 Press L1+Select For Time Low 1St Half
+%Credits: Code Master
+$D062EB42 0000FBFE
+$105584B0 00000000
++P4 Press L2+Select To End 1St Half
+%Credits: Code Master
+$D062EB42 0000FEFE
+$105584B0 00003820
++P4 Press R1+Select For Time Low 2Nd Half
+%Credits: Code Master
+$D062EB42 0000F7FE
+$105584B0 00003840
++P4 Press R2+Select To End 2Nd Half
+%Credits: Code Master
+$D062EB42 0000FDFE
+$105584B0 00007040
++P5 Press L1+Select For Time Low 1St Half
+%Credits: Code Master
+$D062ECC2 0000FBFE
+$105584B0 00000000
++P5 Press L2+Select To End 1St Half
+%Credits: Code Master
+$D062ECC2 0000FEFE
+$105584B0 00003820
++P5 Press R1+Select For Time Low 2Nd Half
+%Credits: Code Master
+$D062ECC2 0000F7FE
+$105584B0 00003840
++P5 Press R2+Select To End 2Nd Half
+%Credits: Code Master
+$D062ECC2 0000FDFE
+$105584B0 00007040
++P6 Press L1+Select For Time Low 1St Half
+%Credits: Code Master
+$D062EE42 0000FBFE
+$105584B0 00000000
++P6 Press L2+Select To End 1St Half
+%Credits: Code Master
+$D062EE42 0000FEFE
+$105584B0 00003820
++P6 Press R1+Select For Time Low 2Nd Half
+%Credits: Code Master
+$D062EE42 0000F7FE
+$105584B0 00003840
++P6 Press R2+Select To End 2Nd Half
+%Credits: Code Master
+$D062EE42 0000FDFE
+$105584B0 00007040
++P7 Press L1+Select For Time Low 1St Half
+%Credits: Code Master
+$D062EFC2 0000FBFE
+$105584B0 00000000
++P7 Press L2+Select To End 1St Half
+%Credits: Code Master
+$D062EFC2 0000FEFE
+$105584B0 00003820
++P7 Press R1+Select For Time Low 2Nd Half
+%Credits: Code Master
+$D062EFC2 0000F7FE
+$105584B0 00003840
++P7 Press R2+Select To End 2Nd Half
+%Credits: Code Master
+$D062EFC2 0000FDFE
+$105584B0 00007040
++P8 Press L1+Select For Time Low 1St Half
+%Credits: Code Master
+$D062F142 0000FBFE
+$105584B0 00000000
++P8 Press L2+Select To End 1St Half
+%Credits: Code Master
+$D062F142 0000FEFE
+$105584B0 00003820
++P8 Press R1+Select For Time Low 2Nd Half
+%Credits: Code Master
+$D062F142 0000F7FE
+$105584B0 00003840
++P8 Press R2+Select To End 2Nd Half
+%Credits: Code Master
+$D062F142 0000FDFE
+$105584B0 00007040
+!!
+!Home Team Stats Modifier Codes:
++Corners Won
+%Credits: Code Master
+$105031AE 0000????
++Shots On Target
+%Credits: Code Master
+$105031B6 0000????
++Shots Wide
+%Credits: Code Master
+$105031B8 0000????
++Offside Ruling
+%Credits: Code Master
+$105031BE 0000????
+!!
+!Away Team Stats Modifier Codes:
++Corners Won
+%Credits: Code Master
+$105031B0 0000????
++Shots On Target
+%Credits: Code Master
+$105031BA 0000????
++Shots Wide
+%Credits: Code Master
+$105031BC 0000????
++Offside Ruling
+%Credits: Code Master
+$105031C0 0000????
+!!

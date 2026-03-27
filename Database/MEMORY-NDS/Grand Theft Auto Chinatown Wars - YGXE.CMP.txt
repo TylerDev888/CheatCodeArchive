@@ -1,0 +1,449 @@
+^2 = GameID: YGXE
+^3 = NAME: Grand Theft Auto: Chinatown Wars
+^4 = FILE: NTSC(Action Replay/Codebreaker/Game Genie)
+{CarShop-Seller <--- Yes u can put a helli in this Car Change section and swap .. and yes u can fly it :) No trying to get it out since its already out}
++Inf Timer
+$22059892 00000063
+$22059786 00000063
++Timer Start/Stop(L+R+Up Stop L+R+Down Start)
+$94000130 FCBF0000
+$22059786 00000063
+$22059892 00000063
+$D2000000 00000000
+$94000130 FC7F0000
+$22059786 00000060
+$22059892 00000060
+$D2000000 00000000
++Inf Ammo
+$120C8f58 00001E00
+$120C8f64 00001E00
+!Ambulance Codes:
++Inf Patients Bar
+$92220e84 1E410000
+$12220e84 00001E01
+$D2000000 00000000
++One Patient Per Wave
+$922246F8 61500000
+$02224ea4 00000001
+$D2000000 00000000
++Large Save Ratio
+$922246F8 61500000
+$1222496C 000001F4
+$D2000000 00000000
+!!
+!Taxi Codes:
++Inf Tip Bar
+$92221AE8 38200000
+$12221AE8 00003800
+$D2000000 00000000
+$92221AE8 1A400000
+$12221A86 00001E00
+$D2000000 00000000
+!!
+!Tattoo Shop Codes:
++Tattoo Xamount
+$92221380 41540000
+$0222156C ????????
+$D2000000 00000000
++Compleat 1 Tattoo to get 20
+$922363d0 1C490000
+$122363d0 00002114
+$D2000000 00000000
+!!
+Weapon Codes (Must Have Weapon in Slot)
+Have Flame Thrower Slot 5(L+Down)
+$62340BA4 00000000
+$94000130 FD7F0000
+$B2340BA4 00000000
+$00000000 02163584
+$00000014 027E0080
+$D2000000 00000000
+Have MiniGun Slot 5(L+Right)
+$62340BA4 00000000
+$94000130 FDEF0000
+$B2340BA4 00000000
+$00000000 02162F68
+$D2000000 00000000
+Have RPG Slot 5(L+up)
+$62340BA4 00000000
+$94000130 FDBF0000
+$B2340BA4 00000000
+$00000000 021632A4
+$D2000000 00000000
+!Active Garage:(Affects Garage you Last tuched)
++Garage Car Parked Front ways
+$2221b830 00000000
++Garage Car Proof Mod
+$2221b831 000000[PROOF]
++Garage Car Mod
+$1221b834 0000[CAR]
+!Individual Garages:(Following will work if u are just loading Or have activated another Safe house garage)
+!Cerveza Hights Garages:
++Garage Car Parked Front ways
+$2221B594 00000000
++Garage Car Proof Mod
+$2221B595 000000[PROOF]
++Garage Car Mod
+$1221B58C 0000[CAR]
+!!
+!Garage 2:
++Garage Car Parked Front ways
+$2221B5A4 00000000
++Garage Car Proof Mod
+$2221B5A5 000000[PROOF]
++Garage Car Mod
+$1221B59C 0000[CAR]
+!!!Garage 3::
++Garage Car Parked Front ways
+$2221B5B4 00000000
++Garage Car Proof Mod
+$2221B5B5 000000[PROOF]
++Garage Car Mod
+$1221B5AC 0000[CAR]
+!!
+!Little Bay:
++Garage Car Parked Front ways
+$2221B5C4 00000000
++Garage Car Proof Mod
+$2221B5C5 000000[PROOF]
++Garage Car Mod
+$1221B5BC 0000[CAR]
+!!
+!Garage 5:
++Garage Car Parked Front ways
+$2221B5D4 00000000
++Garage Car Proof Mod
+$2221B5D5 000000[PROOF]
++Garage Car Mod
+$1221B5CC 0000[CAR]
+!!
+!Garage 6:
++Garage Car Parked Front ways
+$2221B5E4 00000000
++Garage Car Proof Mod
+$2221B5E5 000000[PROOF]
++Garage Car Mod
+$1221B5DC 0000[CAR]
+!!
+!Garage 7:
++Garage Car Parked Front ways
+$2221B5F4 00000000
++Garage Car Proof Mod
+$2221B5F5 000000[PROOF]
++Garage Car Mod
+$1221B5EC 0000[CAR]
+!!
+!Garage 8
++Garage Car Parked Front ways
+$2221B604 00000000
++Garage Car Proof Mod
+$2221B5F5 000000[PROOF]
++Garage Car Mod
+$1221B5FC 0000[CAR]
+!!
+!Garage 9
++Garage Car Parked Front ways
+$2221B614 00000000
++Garage Car Proof Mod
+$2221B615 000000[PROOF]
++Garage Car Mod
+$1221B60C 0000[CAR]
+!!
+!Garage 10
++Garage Car Parked Front ways
+$2221B624 00000000
++Garage Car Proof Mod
+$2221B625 000000[PROOF]
++Garage Car Mod
+$1221B61C 0000[CAR]
+!!
+!Garage 11
++Garage Car Parked Front ways
+$2221B634 00000000
++Garage Car Proof Mod
+$2221B635 000000[PROOF]
++Garage Car Mod
+$1221B62C 0000[CAR]
+!!
+!Garage 12
++Garage Car Parked Front ways
+$2221B644 00000000
++Garage Car Proof Mod
+$2221B645 000000[PROOF]
++Garage Car Mod
+$1221B63C 0000[CAR]
+!!
+!Garage 13
++Garage Car Parked Front ways
+$2221B654 00000000
++Garage Car Proof Mod
+$2221B655 000000[PROOF]
++Garage Car Mod
+$1221B64C 0000[CAR]
+!!
+!Garage 14
++Garage Car Parked Front ways
+$2221B664 00000000
++Garage Car Proof Mod
+$2221B665 000000[PROOF]
++Garage Car Mod
+$1221B65C 0000[CAR]
+!!!Garage 15:
++Garage Car Parked Front ways
+$2221B674 00000000
++Garage Car Proof Mod
+$2221B675 000000[PROOF]
++Garage Car Mod
+$1221B66C 0000[CAR]
+!!!Garage 16:
++Garage Car Parked Front ways
+$2221B684 00000000
++Garage Car Proof Mod
+$2221B685 000000[PROOF]
++Garage Car Mod
+$1221B67C 0000[CAR]
+!!!Garage 17:
++Garage Car Parked Front ways
+$2221B694 00000000
++Garage Car Proof Mod
+$2221B695 000000[PROOF]
++Garage Car Mod
+$1221B68C 0000[CAR]
+!!!Garage 18:
++Garage Car Parked Front ways
+$2221B6A4 00000000
++Garage Car Proof Mod
+$2221B6A5 000000[PROOF]
++Garage Car Mod
+$1221B69C 0000[CAR]
+!!!Garage 19:
++Garage Car Parked Front ways
+$2221B6B4 00000000
++Garage Car Proof Mod
+$2221B6B5 000000[PROOF]
++Garage Car Mod
+$1221B6AC 0000[CAR]
+!!!Garage 20:
++Garage Car Parked Front ways
+$2221B6C4 00000000
++Garage Car Proof Mod
+$2221B6C5 000000[PROOF]
++Garage Car Mod
+$1221B6BC 0000[CAR]
+!!!Garage 21:
++Garage Car Parked Front ways
+$2221B6D4 00000000
++Garage Car Proof Mod
+$2221B6D5 000000[PROOF]
++Garage Car Mod
+$1221B6CC 0000[CAR]
+!!
+!!
+!CarShop(Seller):
++Have All Cars for Sale
+$92222A30 00000000
+$C0000000 00000007
+$02222A60 00000000
+$DC000000 00000004
+$D2000000 00000000
++Cars Are Free
+$92222A30 00000000
+$C0000000 0000001E
+$02222A80 00000000
+$DC000000 00000004
+$D2000000 00000000
+!Change Cars
++Change Hearse
+$92222A30 00000000
+$02222AF8 0000[CAR]
+$D2000000 00000000
++Change Limo
+$92222A30 00000000
+$02222AFC 0000[CAR]
+$D2000000 00000000
++Change NRG 900
+$92222A30 00000000
+$02222B00 0000[CAR]
+$D2000000 00000000
++Change Patriot
+$92222A30 00000000
+$02222B04 0000[CAR]
+$D2000000 00000000
++Change Bulldozer
+$92222A30 00000000
+$02222B08 0000[CAR]
+$D2000000 00000000
++Change Cognoscenti
+$92222A30 00000000
+$02222B0C 0000[CAR]
+$D2000000 00000000
++Sabre GT
+$92222A30 00000000
+$02222B10 0000[CAR]
+$D2000000 00000000
++Turismo
+$92222A30 00000000
+$02222B14 0000[CAR]
+$D2000000 00000000
++Banshee
+$92222A30 00000000
+$02222B18 0000[CAR]
+$D2000000 00000000
++Hellenbach
+$92222A30 00000000
+$02222B1C 0000[CAR]
+$D2000000 00000000
++Comet
+$92222A30 00000000
+$02222B20 0000[CAR]
+$D2000000 00000000
++Infernus
+$92222A30 00000000
+$02222B24 0000[CAR]
+$D2000000 00000000
++Resolution X
+$92222A30 00000000
+$02222B28 0000[CAR]
+$D2000000 00000000
++MK GT9
+$92222A30 00000000
+$02222B2C 0000[CAR]
+$D2000000 00000000
++500 XLR8
+$92222A30 00000000
+$02222B30 0000[CAR]
+$D2000000 00000000
++Style SR
+$92222A30 00000000
+$02222B34 0000[CAR]
+$D2000000 00000000
++CityScape
+$92222A30 00000000
+$02222B38 0000[CAR]
+$D2000000 00000000
++Go Kart
+$92222A30 00000000
+$02222B3C 0000[CAR]
+$D2000000 00000000
++Formula R
+$92222A30 00000000
+$02222B40 0000[CAR]
+$D2000000 00000000
++Rhino
+$92222A30 00000000
+$02222B44 0000[CAR]
+$D2000000 00000000
++BulletProof Patriot
+$92222A30 00000000
+$02222B48 0000[CAR]
+$D2000000 00000000
+^6 = MODS:
+[CAR]
+VALUE>NAME
+0001	Blista
+0002	Dukes
+0003	Helli (Was not able to get it out of the
+0004	Noose Enforcer
+0005	Buccaneer
+0006	Fire Truck
+0007	Rhino
+0008	Ambulance
+0009	Burrito
+000A	Flatbed
+000B	Boat
+000C	Angel Motorcycle
+000D	Cabbie
+000E	Hellenback
+000F	Tanker
+0010	Banshee
+0011	Comet
+0012	Police Patrol
+0013	Yankee (Blue)
+0014	Turismo
+0015	Cognoscenti
+0016	Chavos
+0017	Cavalcade
+0018	Cavalcade FXT
+0019	Bobcat
+001A	Recovery
+001B	Formula R
+001C	Resolution X
+001D	Mk GT9
+001E	500 XLR8
+001F	Style SR
+0020	CityScape
+0021	Bulldozer
+0022	FBI Rancher
+0023	Boat
+0024	Coast Guard Dinghy
+0025	Coast Guard Launch
+0026	Destroyer
+0027	Dinghy
+0028	Bus
+0029	Resolution X mini
+002A	Gumshoe
+002B	Wet Skii
+002C	Cruiser
+002D	Helicopter
+002E	Burrito (Red)
+002F	Burrito (White)
+0030	Burrito (Blue/White)
+0031	Burrito (Red/White]
+0032	Burrito (Green)
+0033	Go Kart
+0034	Yankee (White/Blue)
+0035	Yankee (Star)
+0036	Yankee (Yellow)
+0037	Yankee (Red)
+0038	Yankee (White\Grey)
+0039	Infernus
+003A	Patriot
+003B	Sabre GT
+003C	Stallion
+003D	Sultan
+003E	Pyote
+003F	Ingot
+0040	Perennial
+0041	Hearse
+0042	Limo
+0043	Admiral
+0044	Banshee
+0045	Burrito (White)
+0046	Burrito (Black)
+0047	Angel Van (Red)
+0048	Bobcat (Green/Red)
+0049	Burrito (Ladder)
+004A	Burrito (Yellow)
+004B	Burrito (Purple)
+004C	Burrito (mini)
+004D	Burrito (blk Sunroof)
+004E	Burrito (Orange)
+004F	Burrito (Tan)
+0050	Burrito (Lt.Purple)
+0051	Chavos (Blue/Black)
+0052	Cognoscenti (Sunroof)
+0053	Comet (Neon Lights)
+0054	Turismo
+0055	Dukes (Blower)
+0056	Cavalcade FXT (Yellow)
+0057	Hellenbach (Purple/White)
+0058	Manana (Green)
+0059	NRG 900 (Motorcycle)
+005A	Alphamail
+005B	Angel (Blue Motorcycle)
+005C	Baggage Handler
+005D	Chopper (Motorcycle)
+005E	Voodoo
+005F	HELI
+0060	Boat
+0061	Angel (Black Motorcycle)
+0062	Sanchez (Dirt Bike)
+0063	Boat
+0064	Dragon Wagon
+0065	Cognosenti (Purple)
+0066	Recovery (Red)
+[/CAR]
+[PROOF]
+VALUE>NAME
+01	Bulletproof
+[/PROOF]

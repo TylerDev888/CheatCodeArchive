@@ -1,0 +1,29 @@
+^1 = HASH: E1FCDA9D
+^3 = NAME: Home Alone
+^2 = GameID: SLES-54469
+!Masters:
++Enable Code (MUST BE ON) {SceSifSendCMD}
+$902176B8 0C085D56
++Enable Code (MUST BE ON) {main}
+$90105E44 0C04D260
+!!
++Invisible To Enemies
+%Credits: LuC-iTA
+$2011C234 10000063
+$201297A4 1000001E
+$202BF1A0 00124B28
++Infinite Ammo
+%Credits: LuC-iTA
+$2012A3C0 00000000
++1HitKill
+%Credits: LuC-iTA
+$2011C1B0 AE000010
++No Damage
+%Credits: LuC-iTA
+$2012C974 00000000
++Instantly Lock Doors/Windows
+%Credits: LuC-iTA
+$20129F28 00000000
++Lock Doors/Windows Even Without Toolboxes
+%Credits: LuC-iTA
+$20129E3C 00000000

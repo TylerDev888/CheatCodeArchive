@@ -1,0 +1,244 @@
+^3 = NAME: Killer 7 (Ntsc-U)
+^2 = GameID: SLUS-21154
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0124F88 00124F8B
++Enable Code (Must Be On)
+%Credits: Code Master
+$90124F88 0C04A302
+!!
+!Character Codes:
++All Characters Available
+%Credits: Codejunkies
+$1061C870 00000FFF
+$1061C874 0000FFFF
++Team Members Always Alive
+%Credits: Codejunkies
+$2061C868 00000000
+$2061C86C FFFFFFFF
+!!
+!Con Smith:
++Max Criticals
+%Credits: Codejunkies
+$2061C4EC 00000005
++Max Power
+%Credits: Codejunkies
+$2061C3FC 00000005
++Max Speed
+%Credits: Codejunkies
+$2061C44C 00000005
++Max Waver
+%Credits: Codejunkies
+$2061C49C 00000005
+!!
+!Con Smith Codes:
++Max All Levels
+%Credits: Code Master
+$4061C3FC 00040014
+$00000009 00000000
++Max Criticals Level
+%Credits: Code Master
+$2061C4EC 00000009
++Max Power Level
+%Credits: Code Master
+$2061C3FC 00000009
++Max Speed Level
+%Credits: Code Master
+$2061C44C 00000009
++Max Waver Level
+%Credits: Code Master
+$2061C49C 00000009
+!!
+!Coyote Smith:
++Max Criticals
+%Credits: Codejunkies
+$2061C50C 00000005
++Max Power
+%Credits: Codejunkies
+$2061C41C 00000005
++Max Speed
+%Credits: Codejunkies
+$2061C46C 00000005
++Max Waver
+%Credits: Codejunkies
+$2061C4BC 00000005
+!!
+!Coyote Smith Codes:
++Max All Levels
+%Credits: Code Master
+$4061C41C 00040014
+$00000009 00000000
++Max Criticals Level
+%Credits: Code Master
+$2061C50C 00000009
++Max Power Level
+%Credits: Code Master
+$2061C41C 00000009
++Max Speed Level
+%Credits: Code Master
+$2061C46C 00000009
++Max Waver Level
+%Credits: Code Master
+$2061C4BC 00000009
+!!
+!Dan Smith:
++Max Criticals
+%Credits: Codejunkies
+$2061C4DC 00000005
++Max Power
+%Credits: Codejunkies
+$2061C3EC 00000005
++Max Speed
+%Credits: Codejunkies
+$2061C43C 00000005
++Max Waver
+%Credits: Codejunkies
+$2061C48C 00000005
+!!
+!Dan Smith Codes:
++Max All Levels
+%Credits: Code Master
+$4061C3EC 00040014
+$00000009 00000000
++Max Criticals Level
+%Credits: Code Master
+$2061C4DC 00000009
++Max Power Level
+%Credits: Code Master
+$2061C3EC 00000009
++Max Speed Level
+%Credits: Code Master
+$2061C43C 00000009
++Max Waver Level
+%Credits: Code Master
+$2061C48C 00000009
+!!
++Infinite Health
+%Credits: Codejunkies
+$20207174 00000000
++Infinite Health (All Characters)
+%Credits: MadCatz
+$20209C14 10000005
+$20209C2C 340403E7
+$20209C30 A62202B8
+!Kaede Smith:
++Max Criticals
+%Credits: Codejunkies
+$2061C514 00000005
++Max Power
+%Credits: Codejunkies
+$2061C424 00000005
++Max Speed
+%Credits: Codejunkies
+$2061C474 00000005
++Max Waver
+%Credits: Codejunkies
+$2061C4C4 00000005
+!!
+!Kaede Smith Codes:
++Max All Levels
+%Credits: Code Master
+$4061C424 00040014
+$00000009 00000000
++Max Criticals Level
+%Credits: Code Master
+$2061C514 00000009
++Max Power Level
+%Credits: Code Master
+$2061C424 00000009
++Max Speed Level
+%Credits: Code Master
+$2061C474 00000009
++Max Waver Level
+%Credits: Code Master
+$2061C4C4 00000009
+!!
+!Kevin Smith:
++Max Criticals
+%Credits: Codejunkies
+$2061C51C 00000005
++Max Power
+%Credits: Codejunkies
+$2061C42C 00000005
++Max Speed
+%Credits: Codejunkies
+$2061C47C 00000005
++Max Waver
+%Credits: Codejunkies
+$2061C4CC 00000005
+!!
+!Kevin Smith Codes:
++Max All Levels
+%Credits: Code Master
+$4061C42C 00040014
+$00000009 00000000
++Max Criticals Level
+%Credits: Code Master
+$2061C51C 00000009
++Max Invisibility Level
+%Credits: Code Master
+$2061C4CC 00000009
++Max Power Level
+%Credits: Code Master
+$2061C42C 00000009
++Max Speed Level
+%Credits: Code Master
+$2061C47C 00000009
+!!
+!Mask De Smith:
++Max Criticals
+%Credits: Codejunkies
+$2061C524 00000005
++Max Power
+%Credits: Codejunkies
+$2061C434 00000005
++Max Speed
+%Credits: Codejunkies
+$2061C484 00000005
++Max Waver
+%Credits: Codejunkies
+$2061C4D4 00000005
+!!
+!Mask De Smith Codes:
++Max All Levels
+%Credits: Code Master
+$4061C434 00040014
+$00000009 00000000
++Max Power Level
+%Credits: Code Master
+$2061C434 00000009
++Max Range Level
+%Credits: Code Master
+$2061C524 00000009
++Max Speed Level
+%Credits: Code Master
+$2061C484 00000009
++Max Waver Level
+%Credits: Code Master
+$2061C4D4 00000009
+!!
++Max Opponents Defeated
+%Credits: Codejunkies
+$1061C564 000003E7
++Max Serum
+%Credits: Codejunkies
+$1067FD96 0000270F
++Never Reload
+%Credits: MadCatz
+$201FC6A4 24420000
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Have All Smiths Personalities
+%Credits: Code Master
+$2061C870 FFFFFFFF
+$2061C874 FFFFFFFF
++Infinite Health
+%Credits: Code Master
+$201FB8C0 24020096
+$201FB8C4 A64202B8
++Never Reload
+%Credits: Code Master
+$201FC6AC 00000000
+!!
+!!
+

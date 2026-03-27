@@ -1,0 +1,1543 @@
+^2 = GameID: CUSA32171,CUSA00163
+^3 = NAME: Like A Dragon: Ishin!
+^SECONDLAYER: YES
+^4 = FILE: save[0-9]+\data.ps4.sav
+{Other Info Can be Found @ https://docs.google.com/spreadsheets/d/1gPjLWUgMDRs85Jc9orKQ2NURqRJAZz3tLoNgBJmt08s/edit?gid=0#gid=0]
++Seal Upgarde(Armour){It Seems Sw Codes For Materials Misses The Last Seal For Enhancing}
+$00013CDA 00000063
++Mass Fill Storage (429 Slots)
+$42007AC4 0000[AMOUNT:0063:HEX:BIG<StartingID>]
+$40C80018 00000001
+$41007ACA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
+$40C80018 000000[AMOUNT:00:HEX:BIG<SET COUNT IF U WANT OR SET 00 for Noraml>]
+!Item/Equipment Mod{{Pick And Fill In All The Ones U Want To Use And Add Them To The Collector}}
++Pointer To Equipment Type Address
+$92000000 [ZZZZZZZZ]
+$88010008 [YYYY<CURRENT To MOD>][TYPE]
++Item MOD
+$18000000 0000[YYYY<*ITEM YOU WANT>]
++Amount Change
+$08000006 000000[Amount:63:HEX:BIG]
++Change Quality Of Item
+$08000009 000000[Amount:04:HEX:BIG<MAX 01-04>]
+!Seals:
+!Seal 1:
++MOD
+$0800000A 000000[SS<MOD>]
++Level
+$0800000B 000000[Amount:04:HEX:BIG<MAX 01-03 or 0B>]
+!!
+!Seal 2:
++MOD
+$0800000C 000000[SS<MOD>]
++Level
+$0800000D 000000[Amount:04:HEX:BIG<MAX 01-03 or 0B>]
+!!
+!Seal 3:
++MOD
+$0800000E 000000[SS<MOD>]
++Level
+$0800000F 000000[Amount:04:HEX:BIG<MAX 01-03 or 0B>]
+!!
+!Seal 4:
++MOD
+$08000010 000000[SS<MOD>]
++Level
+$08000011 000000[Amount:04:HEX:BIG<MAX 01-03 or 0B>]
+!!
+!Seal 5:
++MOD
+$08000012 000000[SS<MOD>]
++Level
+$08000013 000000[Amount:04:HEX:BIG<MAX 01-03 or 0B>]
+!!
+!Seal 6:
++MOD
+$08000014 000000[SS<MOD>]
++Level
+$08000015 000000[Amount:04:HEX:BIG<MAX 01-03 or 0B>]
+!!
+!Seal 7:
++MOD
+$08000016 000000[SS<MOD>]
++Level
+$08000017 000000[Amount:04:HEX:BIG<MAX 01-03 or 0B>]
+!!
+!!
+!!
+!Individual Inventory Storage Box (430 Slot):
++Slot 1
+$10007AC4 0000[YYYY<*ItemID>]
+$00007ACA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 2
+$10007ADC 0000[YYYY<*ItemID>]
+$00007AE2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 3
+$10007AF4 0000[YYYY<*ItemID>]
+$00007AFA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 4
+$10007B0C 0000[YYYY<*ItemID>]
+$00007B12 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 5
+$10007B24 0000[YYYY<*ItemID>]
+$00007B2A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 6
+$10007B3C 0000[YYYY<*ItemID>]
+$00007B42 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 7
+$10007B54 0000[YYYY<*ItemID>]
+$00007B5A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 8
+$10007B6C 0000[YYYY<*ItemID>]
+$00007B72 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 9
+$10007B84 0000[YYYY<*ItemID>]
+$00007B8A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 10
+$10007B9C 0000[YYYY<*ItemID>]
+$00007BA2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 11
+$10007BB4 0000[YYYY<*ItemID>]
+$00007BBA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 12
+$10007BCC 0000[YYYY<*ItemID>]
+$00007BD2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 13
+$10007BE4 0000[YYYY<*ItemID>]
+$00007BEA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 14
+$10007BFC 0000[YYYY<*ItemID>]
+$00007C02 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 15
+$10007C14 0000[YYYY<*ItemID>]
+$00007C1A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 16
+$10007C2C 0000[YYYY<*ItemID>]
+$00007C32 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 17
+$10007C44 0000[YYYY<*ItemID>]
+$00007C4A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 18
+$10007C5C 0000[YYYY<*ItemID>]
+$00007C62 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 19
+$10007C74 0000[YYYY<*ItemID>]
+$00007C7A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 20
+$10007C8C 0000[YYYY<*ItemID>]
+$00007C92 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 21
+$10007CA4 0000[YYYY<*ItemID>]
+$00007CAA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 22
+$10007CBC 0000[YYYY<*ItemID>]
+$00007CC2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 23
+$10007CD4 0000[YYYY<*ItemID>]
+$00007CDA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 24
+$10007CEC 0000[YYYY<*ItemID>]
+$00007CF2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 25
+$10007D04 0000[YYYY<*ItemID>]
+$00007D0A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 26
+$10007D1C 0000[YYYY<*ItemID>]
+$00007D22 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 27
+$10007D34 0000[YYYY<*ItemID>]
+$00007D3A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 28
+$10007D4C 0000[YYYY<*ItemID>]
+$00007D52 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 29
+$10007D64 0000[YYYY<*ItemID>]
+$00007D6A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 30
+$10007D7C 0000[YYYY<*ItemID>]
+$00007D82 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 31
+$10007D94 0000[YYYY<*ItemID>]
+$00007D9A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 32
+$10007DAC 0000[YYYY<*ItemID>]
+$00007DB2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 33
+$10007DC4 0000[YYYY<*ItemID>]
+$00007DCA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 34
+$10007DDC 0000[YYYY<*ItemID>]
+$00007DE2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 35
+$10007DF4 0000[YYYY<*ItemID>]
+$00007DFA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 36
+$10007E0C 0000[YYYY<*ItemID>]
+$00007E12 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 37
+$10007E24 0000[YYYY<*ItemID>]
+$00007E2A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 38
+$10007E3C 0000[YYYY<*ItemID>]
+$00007E42 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 39
+$10007E54 0000[YYYY<*ItemID>]
+$00007E5A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 40
+$10007E6C 0000[YYYY<*ItemID>]
+$00007E72 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 41
+$10007E84 0000[YYYY<*ItemID>]
+$00007E8A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 42
+$10007E9C 0000[YYYY<*ItemID>]
+$00007EA2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 43
+$10007EB4 0000[YYYY<*ItemID>]
+$00007EBA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 44
+$10007ECC 0000[YYYY<*ItemID>]
+$00007ED2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 45
+$10007EE4 0000[YYYY<*ItemID>]
+$00007EEA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 46
+$10007EFC 0000[YYYY<*ItemID>]
+$00007F02 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 47
+$10007F14 0000[YYYY<*ItemID>]
+$00007F1A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 48
+$10007F2C 0000[YYYY<*ItemID>]
+$00007F32 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 49
+$10007F44 0000[YYYY<*ItemID>]
+$00007F4A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 50
+$10007F5C 0000[YYYY<*ItemID>]
+$00007F62 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 51
+$10007F74 0000[YYYY<*ItemID>]
+$00007F7A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 52
+$10007F8C 0000[YYYY<*ItemID>]
+$00007F92 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 53
+$10007FA4 0000[YYYY<*ItemID>]
+$00007FAA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 54
+$10007FBC 0000[YYYY<*ItemID>]
+$00007FC2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 55
+$10007FD4 0000[YYYY<*ItemID>]
+$00007FDA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 56
+$10007FEC 0000[YYYY<*ItemID>]
+$00007FF2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 57
+$10008004 0000[YYYY<*ItemID>]
+$0000800A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 58
+$1000801C 0000[YYYY<*ItemID>]
+$00008022 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 59
+$10008034 0000[YYYY<*ItemID>]
+$0000803A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 60
+$1000804C 0000[YYYY<*ItemID>]
+$00008052 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 61
+$10008064 0000[YYYY<*ItemID>]
+$0000806A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 62
+$1000807C 0000[YYYY<*ItemID>]
+$00008082 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 63
+$10008094 0000[YYYY<*ItemID>]
+$0000809A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 64
+$100080AC 0000[YYYY<*ItemID>]
+$000080B2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 65
+$100080C4 0000[YYYY<*ItemID>]
+$000080CA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 66
+$100080DC 0000[YYYY<*ItemID>]
+$000080E2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 67
+$100080F4 0000[YYYY<*ItemID>]
+$000080FA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 68
+$1000810C 0000[YYYY<*ItemID>]
+$00008112 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 69
+$10008124 0000[YYYY<*ItemID>]
+$0000812A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 70
+$1000813C 0000[YYYY<*ItemID>]
+$00008142 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 71
+$10008154 0000[YYYY<*ItemID>]
+$0000815A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 72
+$1000816C 0000[YYYY<*ItemID>]
+$00008172 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 73
+$10008184 0000[YYYY<*ItemID>]
+$0000818A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 74
+$1000819C 0000[YYYY<*ItemID>]
+$000081A2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 75
+$100081B4 0000[YYYY<*ItemID>]
+$000081BA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 76
+$100081CC 0000[YYYY<*ItemID>]
+$000081D2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 77
+$100081E4 0000[YYYY<*ItemID>]
+$000081EA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 78
+$100081FC 0000[YYYY<*ItemID>]
+$00008202 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 79
+$10008214 0000[YYYY<*ItemID>]
+$0000821A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 80
+$1000822C 0000[YYYY<*ItemID>]
+$00008232 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 81
+$10008244 0000[YYYY<*ItemID>]
+$0000824A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 82
+$1000825C 0000[YYYY<*ItemID>]
+$00008262 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 83
+$10008274 0000[YYYY<*ItemID>]
+$0000827A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 84
+$1000828C 0000[YYYY<*ItemID>]
+$00008292 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 85
+$100082A4 0000[YYYY<*ItemID>]
+$000082AA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 86
+$100082BC 0000[YYYY<*ItemID>]
+$000082C2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 87
+$100082D4 0000[YYYY<*ItemID>]
+$000082DA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 88
+$100082EC 0000[YYYY<*ItemID>]
+$000082F2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 89
+$10008304 0000[YYYY<*ItemID>]
+$0000830A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 90
+$1000831C 0000[YYYY<*ItemID>]
+$00008322 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 91
+$10008334 0000[YYYY<*ItemID>]
+$0000833A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 92
+$1000834C 0000[YYYY<*ItemID>]
+$00008352 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 93
+$10008364 0000[YYYY<*ItemID>]
+$0000836A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 94
+$1000837C 0000[YYYY<*ItemID>]
+$00008382 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 95
+$10008394 0000[YYYY<*ItemID>]
+$0000839A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 96
+$100083AC 0000[YYYY<*ItemID>]
+$000083B2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 97
+$100083C4 0000[YYYY<*ItemID>]
+$000083CA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 98
+$100083DC 0000[YYYY<*ItemID>]
+$000083E2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 99
+$100083F4 0000[YYYY<*ItemID>]
+$000083FA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 100
+$1000840C 0000[YYYY<*ItemID>]
+$00008412 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 101
+$10008424 0000[YYYY<*ItemID>]
+$0000842A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 102
+$1000843C 0000[YYYY<*ItemID>]
+$00008442 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 103
+$10008454 0000[YYYY<*ItemID>]
+$0000845A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 104
+$1000846C 0000[YYYY<*ItemID>]
+$00008472 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 105
+$10008484 0000[YYYY<*ItemID>]
+$0000848A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 106
+$1000849C 0000[YYYY<*ItemID>]
+$000084A2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 107
+$100084B4 0000[YYYY<*ItemID>]
+$000084BA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 108
+$100084CC 0000[YYYY<*ItemID>]
+$000084D2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 109
+$100084E4 0000[YYYY<*ItemID>]
+$000084EA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 110
+$100084FC 0000[YYYY<*ItemID>]
+$00008502 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 111
+$10008514 0000[YYYY<*ItemID>]
+$0000851A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 112
+$1000852C 0000[YYYY<*ItemID>]
+$00008532 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 113
+$10008544 0000[YYYY<*ItemID>]
+$0000854A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 114
+$1000855C 0000[YYYY<*ItemID>]
+$00008562 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 115
+$10008574 0000[YYYY<*ItemID>]
+$0000857A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 116
+$1000858C 0000[YYYY<*ItemID>]
+$00008592 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 117
+$100085A4 0000[YYYY<*ItemID>]
+$000085AA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 118
+$100085BC 0000[YYYY<*ItemID>]
+$000085C2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 119
+$100085D4 0000[YYYY<*ItemID>]
+$000085DA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 120
+$100085EC 0000[YYYY<*ItemID>]
+$000085F2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 121
+$10008604 0000[YYYY<*ItemID>]
+$0000860A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 122
+$1000861C 0000[YYYY<*ItemID>]
+$00008622 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 123
+$10008634 0000[YYYY<*ItemID>]
+$0000863A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 124
+$1000864C 0000[YYYY<*ItemID>]
+$00008652 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 125
+$10008664 0000[YYYY<*ItemID>]
+$0000866A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 126
+$1000867C 0000[YYYY<*ItemID>]
+$00008682 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 127
+$10008694 0000[YYYY<*ItemID>]
+$0000869A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 128
+$100086AC 0000[YYYY<*ItemID>]
+$000086B2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 129
+$100086C4 0000[YYYY<*ItemID>]
+$000086CA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 130
+$100086DC 0000[YYYY<*ItemID>]
+$000086E2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 131
+$100086F4 0000[YYYY<*ItemID>]
+$000086FA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 132
+$1000870C 0000[YYYY<*ItemID>]
+$00008712 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 133
+$10008724 0000[YYYY<*ItemID>]
+$0000872A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 134
+$1000873C 0000[YYYY<*ItemID>]
+$00008742 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 135
+$10008754 0000[YYYY<*ItemID>]
+$0000875A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 136
+$1000876C 0000[YYYY<*ItemID>]
+$00008772 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 137
+$10008784 0000[YYYY<*ItemID>]
+$0000878A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 138
+$1000879C 0000[YYYY<*ItemID>]
+$000087A2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 139
+$100087B4 0000[YYYY<*ItemID>]
+$000087BA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 140
+$100087CC 0000[YYYY<*ItemID>]
+$000087D2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 141
+$100087E4 0000[YYYY<*ItemID>]
+$000087EA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 142
+$100087FC 0000[YYYY<*ItemID>]
+$00008802 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 143
+$10008814 0000[YYYY<*ItemID>]
+$0000881A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 144
+$1000882C 0000[YYYY<*ItemID>]
+$00008832 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 145
+$10008844 0000[YYYY<*ItemID>]
+$0000884A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 146
+$1000885C 0000[YYYY<*ItemID>]
+$00008862 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 147
+$10008874 0000[YYYY<*ItemID>]
+$0000887A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 148
+$1000888C 0000[YYYY<*ItemID>]
+$00008892 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 149
+$100088A4 0000[YYYY<*ItemID>]
+$000088AA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 150
+$100088BC 0000[YYYY<*ItemID>]
+$000088C2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 151
+$100088D4 0000[YYYY<*ItemID>]
+$000088DA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 152
+$100088EC 0000[YYYY<*ItemID>]
+$000088F2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 153
+$10008904 0000[YYYY<*ItemID>]
+$0000890A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 154
+$1000891C 0000[YYYY<*ItemID>]
+$00008922 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 155
+$10008934 0000[YYYY<*ItemID>]
+$0000893A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 156
+$1000894C 0000[YYYY<*ItemID>]
+$00008952 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 157
+$10008964 0000[YYYY<*ItemID>]
+$0000896A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 158
+$1000897C 0000[YYYY<*ItemID>]
+$00008982 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 159
+$10008994 0000[YYYY<*ItemID>]
+$0000899A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 160
+$100089AC 0000[YYYY<*ItemID>]
+$000089B2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 161
+$100089C4 0000[YYYY<*ItemID>]
+$000089CA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 162
+$100089DC 0000[YYYY<*ItemID>]
+$000089E2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 163
+$100089F4 0000[YYYY<*ItemID>]
+$000089FA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 164
+$10008A0C 0000[YYYY<*ItemID>]
+$00008A12 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 165
+$10008A24 0000[YYYY<*ItemID>]
+$00008A2A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 166
+$10008A3C 0000[YYYY<*ItemID>]
+$00008A42 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 167
+$10008A54 0000[YYYY<*ItemID>]
+$00008A5A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 168
+$10008A6C 0000[YYYY<*ItemID>]
+$00008A72 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 169
+$10008A84 0000[YYYY<*ItemID>]
+$00008A8A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 170
+$10008A9C 0000[YYYY<*ItemID>]
+$00008AA2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 171
+$10008AB4 0000[YYYY<*ItemID>]
+$00008ABA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 172
+$10008ACC 0000[YYYY<*ItemID>]
+$00008AD2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 173
+$10008AE4 0000[YYYY<*ItemID>]
+$00008AEA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 174
+$10008AFC 0000[YYYY<*ItemID>]
+$00008B02 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 175
+$10008B14 0000[YYYY<*ItemID>]
+$00008B1A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 176
+$10008B2C 0000[YYYY<*ItemID>]
+$00008B32 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 177
+$10008B44 0000[YYYY<*ItemID>]
+$00008B4A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 178
+$10008B5C 0000[YYYY<*ItemID>]
+$00008B62 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 179
+$10008B74 0000[YYYY<*ItemID>]
+$00008B7A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 180
+$10008B8C 0000[YYYY<*ItemID>]
+$00008B92 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 181
+$10008BA4 0000[YYYY<*ItemID>]
+$00008BAA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 182
+$10008BBC 0000[YYYY<*ItemID>]
+$00008BC2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 183
+$10008BD4 0000[YYYY<*ItemID>]
+$00008BDA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 184
+$10008BEC 0000[YYYY<*ItemID>]
+$00008BF2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 185
+$10008C04 0000[YYYY<*ItemID>]
+$00008C0A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 186
+$10008C1C 0000[YYYY<*ItemID>]
+$00008C22 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 187
+$10008C34 0000[YYYY<*ItemID>]
+$00008C3A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 188
+$10008C4C 0000[YYYY<*ItemID>]
+$00008C52 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 189
+$10008C64 0000[YYYY<*ItemID>]
+$00008C6A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 190
+$10008C7C 0000[YYYY<*ItemID>]
+$00008C82 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 191
+$10008C94 0000[YYYY<*ItemID>]
+$00008C9A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 192
+$10008CAC 0000[YYYY<*ItemID>]
+$00008CB2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 193
+$10008CC4 0000[YYYY<*ItemID>]
+$00008CCA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 194
+$10008CDC 0000[YYYY<*ItemID>]
+$00008CE2 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 195
+$10008CF4 0000[YYYY<*ItemID>]
+$00008CFA 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 196
+$10008D0C 0000[YYYY<*ItemID>]
+$00008D12 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 197
+$10008D24 0000[YYYY<*ItemID>]
+$00008D2A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 198
+$10008D3C 0000[YYYY<*ItemID>]
+$00008D42 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 199
+$10008D54 0000[YYYY<*ItemID>]
+$00008D5A 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
++Slot 200
+$10008D6C 0000[YYYY<*ItemID>]
+$00008D72 000000[AMOUNT:63:HEX:BIG<AMOUNT>]
+!!
+^6 = MODS:
+[ZZZZZZZZ]
+VALUE>CATEGORY
+00007704	Inventory Players Section (28 Slots )(Sigle items per Slot only)
+00007AC4	Inventory Storage Box (200 Slot)
+00008DE4	Inventory Key Items (200 Slot)
+0000A314	Equipment Swords\Katana (200 Slots)
+0000B5D4	Equipment Special (200 Slots)
+0000C894	Equipment Gun (200 Slots)
+0000DB54	Equipment Ammo (200 Slots)
+0000EE14	Equipment Accessory\Headband (200 Slots)
+000100D4	Equipment Armour\Breastplate (200 Slots)
+00011394	Equipment Gauntlet (200 Slots)
+00012654	Produce (20 Slots)
+00012954	SeaFood (20 Slots)
+00012DD4	Materials (200 Slots)
+00014094	(10 Slots)
+[/ZZZZZZZZ]
+[TYPE]
+VALUE>NAME
+FFFFFFFF010000000000	Weapon
+00000000010000000000	Armour/Gauntlet/Accessory
+00000000[AMOUNT:63:HEX:BIG]0000000000	Inventory Storage
+[/TYPE]
+[YYYY]
+VALUE>NAME
+0200	Staminan X(Pending)
+1C00	"Test Sword"
+1D00	"Test Dos"
+1E00	"Test Tonfa"
+1F00	"Test Calistick"
+2000	"Test Stick"
+2100	"Test Hammer"
+2200	"Test Nunchucks"
+2300	"Test Bat"
+2400	"Test Gun"
+2500	"Test Bayonet"
+2F00	Wooden Tags
+3000	Mahjong Sticks
+3100	Casino Chip
+3200	Shogi Points
+3300	Prize Tickets
+3700	Vitality Pill
+3800	Deluxe Vitality Pill
+3900	Special Vitality Pill
+3A00	Passion Pill
+3B00	Deluxe Passion Pill
+3C00	Special Vitality Pill
+3D00	All- Purpose Medicine
+3E00	Deluxe All- Purpose Medicine
+3F00	Special All- Purpose Medicine
+4000	Ultra All- Purpose Medicine
+4100	Sober Capsule
+4200	Hunger Capsule
+4300	Strawberry
+4400	Turnip
+4500	Pumpkin
+4600	Cabbage
+4700	Cucumber
+4900	Sweet Potato
+4A00	Taro
+4B00	Potato
+4D00	Broad Been 
+4E00	Onion
+4F00	Hot Pepper
+5000	Tomato
+5100	Eggplant
+5200	Carrot
+5300	Garlic
+5400	Green Onion
+5500	Bok Choy
+5600	Spinach
+5700	Daikon
+5800	Ginger
+5900	Burdock Root
+5A00	Bundle Blade
+5B00	Nameless Sword
+5C00	Worn Sword
+5D00	Ebony Sword
+5E00	Ivory Sword
+5F00	Rusted Conqueror's Sword
+6000	Rusted Divine Sword
+6100	Rusted Yamato
+6200	Keen Blade
+6300	Handy Blade
+6400	Yoshiyki
+6500	Yaksha Blade
+6600	Elegance
+6700	Stonecarver
+6800	Vulpecula
+6900	Tunasmith
+6A00	Radiant Drunkard
+6B00	Black Ships' Bane
+6C00	Missilecutter
+6D00	King of Beasts
+6E00	Eternal Gold
+6F00	Celestial Steed
+7000	Shiranui
+7100	Crane Princess
+7200	Sakura Storm
+7300	Korgarasu-maru
+7400	Skink Lizard
+7500	Samonji
+7600	Light of Heaven
+7700	Firefly
+7800	The Radish
+7900	Jelly Blade
+7A00	Juzu-Maru
+7B00	Dotanuki
+7C00	Close Shave
+7D00	Suijin's Demise
+8100	TideTurner
+8400	Kiku Ichimonji
+8500	Kotetsu
+8700	Morning Gale
+8800	Masamune
+8900	Muramasa
+8A00	Legion Slayer
+8B00	ThunderStop
+8C00	Sparkling Jelly Blade
+8D00	Mikazuki Munechika
+8E00	Okanehira
+8F00	Oni-maru
+9000	Otenta
+9100	Murasame
+9200	Blossoming Bud
+9300	Dragon Slayer
+9400	Dojigiri
+9500	Ame-no-Murakumo
+9600	Futsu-no-Mitama
+9700	Blade of the Shogun
+9800	Imported Revolver
+9900	Domestic Revolver
+9A00	Worn Pistol
+9C00	Watershot
+9D00	Cloudy Skies
+9E00	Rusted Pistol
+9F00	Wooden Gun
+A300	Reflection
+A400	Winter Winds
+A500	Peashooter
+A600	Chopstick Gun
+AC00	Sturm Und Drang
+AD00	Cherry Blossom
+AE00	Serenity
+AF00	Nio
+B000	Cuckoo
+B500	Weeping Sakura
+B600	Daylight
+B700	Indestructible Truth
+B800	Normal Rounds
+B900	Spring in Full Bloom
+BA00	Vortex
+BE00	Flame Rounds
+BF00	Thunder Rounds
+C000	Enhanced Rounds
+C100	Flash Rounds
+C200	Poison Rounds
+C300	Acid Rounds
+C400	Leather Gauntlets
+C500	Wooden Gauntlets
+C600	Leather Breastplate
+C700	Wooden Breastplate
+C800	White Headband
+C900	Wooden Hachigane
+CA00	Crucian Carp
+CB00	Carp
+CC00	Nishikigoi
+CD00	Ghost Koi
+CE00	Electric Catfish
+CF00	Rainbow Trout
+D000	Salmon
+D100	Stringfish
+D200	Softshell Turtle
+D300	Freshwater Eel
+D600	Sweetfish
+D700	Crawfish
+D800	Marlin
+D900	Bluefin Tuna
+DA00	Squid
+DB00	Righteye Flounder
+DC00	Sea Bream
+DD00	Scorpionfish
+DE00	Thread-sail Filefish
+DF00	Tiger Prawn
+E000	Conger Eel
+E100	Goby
+E200	Great White Shark
+E300	Oarfish
+E400	Spider-Crab
+E500	Common Octopus
+E600	Porcupinefish
+EC00	Japanese Puffer
+EE00	Whitebait
+EF00	Order: Any (Number of Items)
+F000	Order: Any (Number of Types)
+F100	Order:Melon
+F200	Order: Potato
+F900	Order: Any Recovery Items
+FA00	Order: Orderr Recover Items Per Type
+FB00	Order: Katana (Number of Items)
+FC00	Order: Katana (Number of Types)
+FD00	Order: Gun (Number of Items)
+FE00	Order: Gun (Number of Types)
+FF00	Order: Any Rounds
+0001	Order: One Round Per Type
+0101	Order: Spear (Number of Items)
+0201	Order: Spear (Number of Types)
+0301	Order: Odachi (Number of Items)
+0401	Order: Odachi (Number of Types)
+0501	Ginseng
+0601	Homade Pickles
+0701	Premium Homamade Pickles
+0801	Katemeshi
+0901	Premium Katemeshi
+0A01	Hearty Miso Soup
+0B01	Premium Hearty Miso Soup
+0C01	Healthy Omusubi
+0D01	Premium Healthy Omusubi
+0E01	Invigorating Miso Soup
+0F01	Premium Invigorating Miso Soup
+1001	Power Stew
+1101	Preium Power Strew
+1201	Spicy MIso Sefood Hot Pot
+1301	Premium Spicy MIso Sefood Hot Pot
+1401	True Grit Chirashi Sushi
+1501	Premium True Grit Chirashi Sushi
+1601	Refreshing Kakiage
+1701	Premium Refreshing Kakiage
+1801	Tekka Stew
+1901	Premium Tekka Stew
+1A01	Refreshing Vegetable Salad
+1B01	Premium Refreshing Vegetable Salad
+1C01	Thoroughly Grilled Fish
+1D01	Premium Thoroughly Grilled Fish
+1E01	Fisherman's Teppoyaki
+1F01	Premium Fisherman's Teppoyaki
+2001	Spirit Stew
+2101	Premium Spirit Stew
+2201	Blissful Udon
+2301	Premium Blissful Udon
+2401	Shrewd Castella
+2501	Premium Shrewd Castella
+2601	Hanamaru Box
+2701	Premium Hanamaru Box
+2801	Demonic Bento
+2901	Premium Demonic Bento
+2A01	Food Be Thy Medicine Box
+2B01	Premium Food Be Thy Medicine Box
+2C01	Super Spicy Chanko Nabe
+2D01	Premium Super Spicy Chanko Nabe
+2E01	Egg
+2F01	Udon Flour
+3001	Honey
+3101	Ginkgo
+3201	High Revolver
+3301	Model 2 
+3401	Iron Grinder
+3501	Quickfire
+3601	Model 3
+3701	Reinforced Warrior
+3801	Double Strike
+3901	Heartbeat
+3A01	Sword Crusher
+3B01	Model 10
+3C01	Raging Bullet
+3D01	Soul Beat
+3E01	Spirit Smasher
+3F01	Double Flash
+4001	Model 14
+4101	Dragon Hawk
+4201	Straight Spear
+4301	Thousands Spear
+4401	Doll on a Stick
+4501	Sturdy Spear
+4601	Cross Spear
+4701	Great Writing Brush
+4801	Cloudpiercer
+4901	Spirit of Japan
+4A01	Lightning Needle
+4B01	Fiver Ring Crusher
+4C01	GIant Chikuwa
+4D01	Otegine
+4E01	Nihongo
+4F01	Tonbokiri
+5001	White Dragon
+5101	Odachi
+5201	Centered Odachi
+5301	Orsechopper
+5401	Battle-Axe
+5501	Exorcism Greatsword
+5601	Sledgehammer
+5701	Decorated Hagoita
+5801	Jumbo Saw
+5901	Bonbori Lantern
+5A01	Demon Smasher
+5B01	Haja-no-Ontachi
+5C01	Nenekiri-maru
+5D01	Cannon
+5E01	Bronze Cannon
+5F01	Mortar
+6101	Karakuri Cannon
+6201	Destroyer of Lands
+6301	Electromagnetic Cannon
+6401	Phoenix Cannon
+6501	Iron Gauntlets
+6601	Sacred Wood Gauntlets
+6701	Steel Gauntlets
+6801	Violent Wind Gauntlets
+6901	Orochi Gauntlets
+6A01	Hidden Blade Gauntlets
+6B01	Spiny Spider Gauntlets
+6C01	Sakura Gauntlets
+6D01	Unbridled Fury Gauntlets
+6E01	Unbreakable Stance Gauntlets
+6F01	Iron Breast Plate
+7001	Fighter's Binding
+7101	Bladeproof Breastplate
+7201	Bulletproof Breastplate
+7301	Fireman's Breastplate
+7401	Herbalist's Binding
+7501	Brawler's Binding
+7601	Celestial Garb
+7701	Purgatory
+7801	Furinkazan
+7901	True Grit Emblem
+7A01	Iron Hachigane
+7B01	Embroidered Headband
+7C01	Red Headband
+7D01	Herculean Strength Emblem
+7E01	Blood-Soaked Headband
+7F01	Amulet of the Gods
+8001	Fighting Spirit Emblem
+8101	Floral Headband
+8201	Devine Dragon Emblem
+8301	Pigeon Cannon
+8401	Iron Scrap
+8501	Metal Sheet
+8601	Precious Steel
+8701	Silver Scrap
+8801	Gold Nugget
+8901	Gold Chunk
+8A01	Platinum Filings
+8B01	Platinum Chunk
+8C01	Rainbow Shard
+8D01	Misshapen Screw
+8E01	New Screw
+8F01	Worn Out Cogwheel
+9001	Exquisite Cogwheel
+9101	Rusty Spring
+9201	Small Wind-up Device
+9301	Mechanical Parts
+9401	Broken Compass
+9501	Precise Machinery
+9601	Dead Branch
+9701	Solid Wood
+9801	Soft Lumber
+9901	Sturdy Lumber
+9A01	Driftwood
+9B01	Thousand-Year Tree Branch
+9C01	Sacred Wood
+9D01	Quality Hide
+9E01	Beautiful Pelt
+9F01	Wild Silk
+A001	Beast’s Tail
+A101	Fine Horse’s Mane
+A201	Vermilion Fabric
+A301	Fine Silk Fabric
+A401	European Fabric
+A501	Rainbow Fabric
+A601	Grinding Stone
+A701	Iron Hammer
+A801	Bronze Hammer
+A901	Silver Hammer
+AA01	Gold Hammer
+AB01	Charcoal
+AC01	Volcanic Rock Fragment
+AD01	Ceramic Sake Bottle
+AE01	Crooked Magnet
+AF01	Cloudy Hand Mirror
+B001	Cracked Cutting Board
+B101	Lime Powder
+B201	Beautiful Leaf
+B301	Amber
+B401	Picture of a Ghost
+B501	Gold Dust
+B601	Lead Chunk
+B701	Emerald
+B801	Pearl
+B901	Elegant Hair Ornament
+BA01	Obsidian Chunk
+BB01	Carved Wooden Bear
+BC01	Ominous Prayer Beads
+BD01	Fluorite
+BE01	Broken Awl
+BF01	Ronin’s Hair Tie
+C001	Straw Effigy
+C101	Water God Stone
+C201	Flint Stone
+C401	Killer’s Handcuffs
+C501	Marksman’s Fan
+C601	Bloodstained Cloth
+C701	Aquamarine
+C801	Gold Seal
+C901	Charming Doll
+CA01	Tear of the Dragon
+CB01	Crystal
+CC01	Phoenix Feather
+CD01	Ancient Amulet
+CE01	Crimson Bead
+CF01	Eye of the Dragon
+D001	Golden Medicine Case
+D101	Great Serpent Skin
+D201	Godslayer’s Talisman
+D301	Dragon Whisker
+D401	Dragon Fang
+D501	Jet Black Belt
+D601	Firework Ball
+D701	Fresh-Out-The-Pot Udon
+D801	Bukkake Udon With Grated Daikon
+D901	Bukkake Udon WIth Soft-Boiled Egg
+DA01	Kake Udon
+DB01	Kitsune Udon
+DC01	Oroshi Shoyu Udon
+DD01	Sesame Inari
+DE01	Red Fuji Soba
+E101	Red Ginger Tempura Soba
+E301	Special Fuji Soba
+E501	Seafood Chirashi Bowl
+E601	Special Tuna Bowl
+E701	Special Sushi Zanmai
+E801	Tuna Zanmai
+EA01	Fish Market Platter
+EB01	Miso-Marinated Black Cod
+EC01	Chawanmushi
+ED01	Simmered Red Bream
+EE01	Beer
+EF01	Umeshu
+F001	Watami Sake
+F101	Watami Special Shochu
+F201	Green Tea
+F301	Pickled! Grilled! Thrilled! Mackerel
+F501	Seared Squid
+F601	Wasabi and Cucumber Octopus
+F701	Stubborn As a Mule! Todu
+F801	Fresh Vegetables With Special Wasabi Miso
+F901	Rolled Omelette
+FA01	Grilled Chicken Skewers Platte
+FB01	Beer
+FC01	Sake Hanako Muso
+FD01	Red Wine With Ice
+FE01	Green Tea
+0002	Dried Salmon Filllets
+0102	Broiled Saffron Cod
+0202	Shoyu and Bonito Onigiri
+0502	Chilled Tofu With Wasabi
+0602	Sake Steamed Clams
+0A02	Kamatora MIxed Pot
+0B02	Chicken Kamameshi
+0C02	Premium Kamameshi
+0D02	Unagi Mabushi
+0E02	Clam Kamameshi
+0F02	Sea Bream Kamameshi
+1002	Amazake
+1102	Doburoku
+1202	Zenzai
+1302	Three Color Dango
+1402	Grilled Dango
+1502	Yomogi Manju
+1602	Chazuke
+1702	Ohagi
+1802	Tokoroten
+1902	Kuzukiri
+1A02	Warabimochi
+1B02	Shippoku Matsu Set
+1C02	Shippoku TakeSet
+1D02	Shippoku Ume Set
+1E02	Shippoku Lunch Set
+1F02	Fushimi Sake
+2002	Nada Sake
+2102	Saijo Sake
+2202	Satsuma Shochu
+2302	Grabe Wine
+2402	Tofu Dengaku
+2502	Potato Stew
+2602	Inari Sushi
+2702	Grilled Conger
+2802	Pickles
+2902	Boiled Tofu
+2A02	Potato Sake
+2B02	Sobagaki
+2C02	Ujishige
+2D02	Platinum Plate
+2E02	Gold Plate
+2F02	Silver Plate
+3002	Bronze Plate
+3102	Iron Plate
+3202	Brown Metal Dust
+3302	Black Metal Dust
+3402	White Metal Dust
+3502	Silver Metal Dust
+3602	Gold Metal Dust
+3702	Green Metal Dust
+3802	Gray Metal Dust
+3902	Bronze Metal Dust
+3A02	Chestnut Manju
+3B02	Whole Machker Sushi
+3C02	Tosa Sake
+3D02	Tosa Sake
+3E02	Chestnut Shochu
+3F02	Katsuo Tataki
+4002	Platter Dish
+4102	Thieves' Porridge
+4202	Pickled Eggplant
+4302	Wooden Katana
+4402	Ointment
+4502	Pooled Sake
+4702	Monkey Booze
+4802	Ladies' Sake
+4902	Mystery Meat Stew
+4A02	Black Dango
+4B02	Grilled Bugs
+4C02	Fainting Stew
+4D02	Secret Stew
+4E02	Provincial Dojo Certificate
+4F02	Snake Eyepatch
+5002	Torn Haori
+5102	Out-of-season Plum
+5202	Umeboshi
+5302	Meager Kitchen
+5402	Standard Kitchen
+5502	Deluxe Kitchen
+5602	Professional Kitchen
+5702	Orange
+5802	Bait
+5902	Fertilizer
+5A02	Book of Revelations: Flash
+5B02	Book of Revelations: Spree
+5C02	Book of Revelations: Frenzy
+5D02	Book of Revelations: Evasion
+5E02	Book of Revelations: Gust
+5F02	Book of Revelations: Smash
+6002	Book of Revelations: Throw
+6102	Book of Revelations: Strike
+6202	Worn Magical Sword
+6302	Golden Sword
+6402	Last of the Dragons
+6502	Golden Gun
+6602	Shinsengumi Enjoyment Set
+6702	Ryoma Growth Support Kit
+6802	Sword Upgrade Materials Kit
+6902	Gun Upgrade Materials Kit
+6A02	Third Division Armament Expapansion Kit
+6B02	The Dragon of Dojima Skin
+6C02	Japanese Swords & Cannon Set
+6D02	Elite Generals Trooper Card Bundle
+6E02	Bonechewer Katana
+6F02	Waterdrop Katana
+7002	Snowcap Katana
+7102	Poet Immortal Katana
+7202	Dragon's Clutch Katana
+7302	Remunerative Materials Kit
+7402	dummy(Kamurocho Enjoy Pack 07.)
+7502	dummy(Kamurocho Enjoy Pack 08.)
+7602	Grape Wine
+7702	Shaoxing Wine
+7802	Sweet Potato Shochu
+7902	Nada Refined Sake
+7A02	Itami Sake
+7B02	Itami Morohaku
+7C02	Fushimi Refined Sake
+7D02	Doburoku
+7E02	Daifuku Mochi
+7F02	Yomogi Manju
+8002	Konpeito
+8102	Nigirimeshi
+8202	Dried Rice
+8302	Hattai
+8402	Ohagi
+8502	Rakugan
+8602	Yokan
+8702	Akari's Omusubi
+8802	Longevity Pill
+8902	Natto
+8A02	Bone
+8B02	Shunga
+8C02	Revolutionary Croquette
+8D02	Loincloth
+8E02	Alertness Hood
+8F02	Pot Detector
+9002	Gion Hood
+9102	Tranquil Towel
+9202	Inviting Hat
+9302	Rogue's Mask
+9402	Virtuous Hood
+9502	Double Worship Talisman
+9602	Ebisu's Eboshi
+9702	Berserker Charm
+9802	Nishikigoi Amulet
+9902	War God Amulet
+9A02	Persimmon
+9B02	Fig
+9C02	Roasted Chestnut
+9D02	Bento Lunch Set
+9E02	Koshi Bento
+9F02	Inari Sushi
+A002	Scrap Paper
+A102	Pill Bug
+A202	Worm
+A302	Haruka's Castella
+A402	Haruka's Omusubi
+A502	Red Water
+A602	Yellow Water
+A702	Blue Water
+A802	Green Water
+A902	Training Water
+AA02	Red Dango
+AB02	Yellow Dango
+AC02	Blue Dango
+AD02	Green Dango
+AE02	Training Dango
+AF02	Red Daifuku
+B002	Yellow Daifuku
+B102	Blue Daifuku
+B202	Green Daifuku
+B302	Training Daifuku
+B402	Lively Yellow
+B502	Noble Forest
+B602	Priest's Omusubi(Questionable Attempt)
+B702	Priest's Omusubi(Decent Attenot)
+B802	Priest's Omusubi(Earnest Attempt)
+B902	Priest's Omusubi(Noble Attempt)
+BA02	Priest's Omusubi(Excellent Attempt)
+BB02	Priest's Omusubi(Masterful Attempt)
+BC02	Diligence Records
+BD02	Fresh Well Water
+BE02	Split and Dried Mackerel
+BF02	Bukkake Ikura Bowl
+C002	Rolled Omelette
+C102	Curry Katsudon
+C202	Croquette Soba
+C302	Tempura
+C402	Niboshi Ramen
+C502	Katsudon
+C602	Bluefin Five Ways Sushi
+C702	9-Piece Sashimi Meal
+C802	Tempura Udon
+C902	Tsukimi Udon
+CA02	Kitsune Udon
+CB02	Tanuki Udon
+CC02	Quality Bait
+CD02	Special Bait
+CE02	Top-grade Bait
+CF02	Odachi Scroll
+D002	Spear Scroll
+D102	Cannon Scroll
+D202	Tranquil Water
+D302	Sakura in Bloom
+D402	Lustrous Violet Star
+D502	Cleansing Water
+D602	Spirit Sake
+D702	Enlightenment Manju
+D802	Regular's Ticket
+D902	Sacrifice Stone
+DA02	Friendship Pill
+DB02	Liquid Friendship
+DC02	dummy(Soba Flour)
+DD02	Scarecrow Carving
+DE02	Premium Revolutionary Croquette
+DF02	Shogoin Yatsuhashi (with Signature Handbag)
+E002	Shogoin Yatsuhashi (48 pieces)
+E102	Shogoin Shimo No Hashi (with Signature Handbag)
+E202	Shogoin Manju (6 pieces)
+E302	Beef Udon
+E402	Kamatora Mixed Pot
+E502	Chicken Kamameshi
+E602	Premium Kamameshi
+E702	Unagi Mabushi
+E802	Clam Kamameshi
+E902	Sea Bream Kamameshi
+EA02	Kijin-maru Kunishige
+EB02	Black Ship Cannon
+EC02	Flame Rounds
+ED02	Thunder Rounds
+EE02	Enhanced Rounds
+EF02	Flash Rounds
+F002	Poison Rounds
+F102	Acid Rounds
+F202	1,000 mon
+F302	1 ryo
+F402	Cash in 1,000 Pts.
+F502	Cash in 10,000 Pts.
+F602	Courier's Parcel(It's Going to Kasnkichi, In Yashikimachi.)
+F702	10 Points for Betting
+F802	100 Points for Betting
+F902	Bloody Sheen
+FA02	Golden Statue
+FB02	Courier's Parcel(It's Going to Yakichi, In North Umekojicho.)
+FC02	Courier's Parcel(It's Going to Tome, In North Fushimi.)
+FD02	Courier's Parcel(It's Going to Ofuka, In North Fushimi.)
+FE02	Courier's Parcel(It's Going to Sankichi, In North Fushimi.)
+FF02	Courier's Parcel(It's Going to Keisuke, In North Fushimi.)
+0003	Courier's Parcel(It's Going to Tome, In Yashikimachi.)
+0103	Courier's Parcel(It's Going to Ofuka, In Yashikimachi.)
+0203	Courier's Parcel(It's Going to Sankichi, In Yashikimachi.)
+0303	Courier's Parcel(It's Going to Keisuke, In Yashikimachi.)
+0403	Courier's Parcel(It's Going to Yoshiko, In Sannocho.)
+0503	Courier's Parcel(It's Going to Kimi, In Sannocho.)
+0603	Courier's Parcel(It's Going to Gennosuke, In Sannocho.)
+0703	Courier's Parcel(It's Going to Hatsutaro, In Sannocho.)
+0803	Courier's Parcel(It's Going to Yoshiko, In Umekojicho.)
+0903	Courier's Parcel(It's Going to Kimi, In Umekojicho.)
+0A03	Courier's Parcel(It's Going to Gennosuke, In Umekojicho.)
+0B03	Courier's Parcel(It's Going to Hatsutaro, In Umekojicho.)
+0C03	Courier's Parcel(It's Going to Tae, In Kawaramachi.)
+0D03	Courier's Parcel(It's Going to Hana, In Kawaramachi.)
+0E03	Courier's Parcel(It's Going to Tsuguemon, In Kawaramachi.)
+0F03	Courier's Parcel(It's Going to Yunosuke, In Kawaramachi.)
+1003	Courier's Parcel(It's Going to Tae, In Ginryu Dojo.)
+1103	Courier's Parcel(It's Going to Hana, In Ginryu Dojo.)
+1203	Courier's Parcel(It's Going to Tsuguemon, In Ginryu Dojo.)
+1303	Courier's Parcel(It's Going to Yunosuke, In Ginryu Dojo.)
+1403	Courier's Parcel(It's Going to Kyuzo, In The Mukurogai Riverside.)
+1503	Courier's Parcel(It's Going to Dansaburo, In The Mukurogai Riverside.)
+1603	Courier's Parcel(It's Going to Sadakichi, In The Mukurogai Riverside.)
+1703	Courier's Parcel(It's Going to Kyuzo, On the Uper Level of Mukurogai.)
+1803	Courier's Parcel(It's Going to Dansaburo, On the Uper Level of Mukurogai.)
+1903	Courier's Parcel(It's Going to Sadakichi, On the Uper Level of Mukurogai.)
+1A03	Manly Love Bento
+1B03	Promotion Jewel
+1C03	Sphere Seal: Educated
+1D03	Sphere Seal: Loyalty
+1E03	Sphere Seal: Corporal
+1F03	Sphere Seal: Attack
+2003	Sphere Seal: Fierce Attack
+2103	Sphere Seal: Pierce
+2203	Sphere Seal: Crush
+2303	Sphere Seal: Madness
+2403	Square Seal: Raging Flame
+2503	Square Seal: Champion
+2603	Sword Seal: Mighty
+2703	Sword Seal: Composure
+2803	Sword Seal: Fierce Diety
+2903	Gun Seal: Double Shot
+2A03	Exclusive Seal: Rapid Fire
+2B03	Exclusive Seal: Flash Fire
+2C03	Square Seal: Brawl
+2D03	Square Seal: Fierce Battle
+2E03	Exclusive Seal: Grip
+2F03	Sphere Seal: Drunken Craze
+3003	Sphere Seal: Fighting Spirit
+3103	Sphere Seal: On the Brink
+3203	Sphere Seal: Special Moves
+3303	Square Seal: Drunken Craze
+3403	Square Seal: Fighting Spirit
+3503	Square Seal: On the Brink
+3603	Square Seal: Special Moves
+3703	Exclusive Seal: Calm
+3803	Gun Seal: Sure Shot
+3903	Exclusive Seal: Tiger
+3A03	Exclusive Seal: Kiku
+3B03	Exclusive Seal: Ujishige
+3C03	Sphere Seal: Elements
+3D03	Sphere Seal: Bewitched
+3E03	Exclusive Seal: Flame
+3F03	Exclusive Seal: Wind
+4003	Exclusive Seal: Thunder
+4103	Exclusive Seal: Light
+4203	Exclusive Seal: Poison
+4303	Square Seal: Reversal
+4403	Square Seal: Bleached Cloth
+4503	Square Seal: Chain Mail
+4603	Sphere Seal: Endurance
+4703	Sphere Seal: Adamantine
+4803	Exclusive Seal: Bullets
+4903	Exclusive Seal: Blades
+4A03	Square Seal: Durable
+4B03	Square Seal: Fireproof
+4C03	Square Seal: Antidote
+4D03	Square Seal: Hemostasis
+4E03	Square Seal: Awakened
+4F03	Sphere Seal: Experience
+5003	Square Seal: Experience
+5103	Sphere Seal: Greed
+5203	Exclusive Seal: Damned
+5303	Square Seal: Heavy Drinker
+5403	Square Seal: Reverence
+5503	Square Seal: Virtuous
+5603	Exclusive Seal: Sense
+5703	Exclusive Seal: Perception
+5803	Exclusive Seal: Scout
+5903	Exclusive Seal: Conflict
+5A03	Exclusive Seal: Coin
+5B03	Sphere Seal: Repentance
+5C03	Square Seal: Blessing
+5D03	Sphere Seal: Kiwami
+5E03	Square Seal: Kiwami
+5F03	Kiwami Hammer
+6003	Bonechewer
+6103	Waterdrop
+6203	Dragon's Clutch
+6303	Poet Immortal
+6403	Snowcap
+[/YYYY]
+[SS]
+VALUE>CATEGORY>NAME
+01	Seals	Sphere Seal: Educated
+02	Seals	Sphere Seal: Loyalty
+03	Seals	Sphere Seal: Corporal
+04	Seals	Sphere Seal: Attack
+05	Seals	Sphere Seal: Fierce Attack
+06	Seals	Sphere Seal: Pierce
+07	Seals	Sphere Seal: Crush
+08	Seals	Sphere Seal: Madness
+09	Seals	Square Seal: Raging Flame
+0A	Seals	Square Seal: Champion
+0B	Seals	Sword Seal: Mighty
+0C	Seals	Sword Seal: Composure
+0D	Seals	Sword Seal: Fierce Deity
+0E	Seals	Gun Seal: Double Shot
+0F	Seals	Exclusive Seal: Rapid fire
+10	Seals	Exclusive Seal: Flash Fire
+11	Seals	Square Seal: Brawl
+12	Seals	Square Seal: Fierce Battle
+13	Seals	Exclusive Seal:Grip
+14	Seals	Sphere Seal: Drunken Craze
+15	Seals	Sphere Seal: Fighting Spirit
+16	Seals	Sphere Seal: On the Brink
+17	Seals	Sphere Seal: Special Moves
+18	Seals	Sqaure Seal: Drunken Craze
+19	Seals	Square Seal: Fighting Spirit
+1A	Seals	Square Seal: On the Brink
+1B	Seals	Square Seal: Special Moves
+1C	Seals	Exclusive Seal: Calm
+1D	Seals	Gun Seal: Sure Shot
+1E	Seals	Exclusive Seal: Tiger
+1F	Seals	Exclusive Seal: Kiku
+20	Seals	Exclusive Seal: Ujishige
+21	Seals	Sphere Seal: Elements
+22	Seals	Sphere Seal: Bewitched
+23	Seals	Exclusive Seal:Flame
+24	Seals	Exclusive Seal: Wind
+25	Seals	Exclusive Seal: Thunder
+26	Seals	Exclusive Seal: Light
+27	Seals	Exclusive Seal: Poison
+28	Seals	Square Seal: Reversal
+29	Seals	Square Seal: Bleached Cloth
+2A	Seals	Square Seal: Chain Mail
+2B	Seals	Sphere Seal: Endurance
+2C	Seals	Sphere Seal: Adamantine
+2D	Seals	Exclusive Seal: Bullets
+2E	Seals	Exclusive Seal: Blades
+2F	Seals	Square Seal: Durable
+30	Seals	Square Seal: Fireproof
+31	Seals	Square Seal: Antidote
+32	Seals	Square Seal: Hemostasis
+33	Seals	Square Seal: Awakened
+34	Seals	Sphere Seal: Experience
+35	Seals	Square Seal: Experience
+36	Seals	Sphere Seal: Greed
+37	Seals	Exclusive Seal: Damned
+38	Seals	Square Seal: Heavy Drinker
+39	Seals	Square Seal: Reverence
+3A	Seals	Sqaure Seal: Virtuous
+3B	Seals	Exclusive Seal: Sense
+3C	Seals	Exclusive Seal: Perception
+3D	Seals	Exclusive Seal: Scout
+3E	Seals	Exclusive Seal: Conflict
+3F	Seals	Exclusive Seal: Coin
+40	Seals	Sphere Seal: Change of heart
+41	Seals	Square Seal: Blessing
+42	Seals	Sphere Seal: Kiwami
+43	Seals	Square Seal: Kiwami
+[/SS]

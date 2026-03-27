@@ -1,0 +1,51 @@
+^2 = GameID: SLUS_218.01
+^3 = NAME: Need For Speed Undercover
+%Credits: Azagthoth>SkillerCMP>lee4:Porting
+!Masters:
++Enable Code (MUST BE ON)
+$905766E8 0C15D962
+$200A0000 3C010064
+$200A0004 8C217080
+$200A0008 1020001B
+$200A0010 8C210000
+$200A007C 03E00008
+$20576BBC 08028000
+!!
+!Jokers:
++Player 2 Controller
+$00AB7182 0000[Joker:PS2]
++Player 2 Controller (normal)
+$00AB7158 0000[Joker:PS2]
+!!
++Max/Inf Money
+$200A0018 3C0205F5
+$200A001C 3442E0FF
+$200A0020 AC22004C
++High Rank
+$200A0018 3C0205F5
+$200A001C 3442E0FF
+$200A0024 AC220050
++Max Money (memory Testing)
+$20AB3778 05F5E0FF
++High Rank
+$20AB377C 05F5E0FF
++Buying Parts Doesnt Decrease Cash
+$2060C298 24060000
+$2060C2B8 24060000
++Buying Parts Increases Cash
+$2060C298 0220302D
+$2060C2B8 0220302D
++Infinite Nos Usage
+$20416178 00000000
++Freeze Timers
+$20459B2C 00000000
++Infinite Speedbreaker
+$2045B6F8 00000000
++Open All Parts/Cars/Races/Challenges**not Saveable
+$00690594 00000001
++Idiot Racer Ai
+$20148E7C 1000000D
++Disable Traffic & Cop Ai
+$201376BC 10000011
++No Racers
+$20368A74 24020000

@@ -1,0 +1,38 @@
+^3 = NAME: Dragonball Z: Budokai
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 0010B037
+!!
+!Player 1:
++Unlimited Health
+%Credits: Xploder
+$5057A294 00000004
+$5057A290 00000000
++Unlimited KI
+%Credits: Xploder
+$5057A29C 00000004
+$5057A298 00000000
+!!
+!Player 2:
++Unlimited Health
+%Credits: Xploder
+$50580894 00000004
+$50580890 00000000
++Unlimited KI
+%Credits: Xploder
+$5058089C 00000004
+$50580898 00000000
+!!
+!Have All:
++Physical Capsules
+%Credits: Xploder
+$205E9D30 01010101
++Ability Capsules
+%Credits: Xploder
+$205E9D28 01010101
+$205E9D2D 01010101
++Unlock All Characters
+%Credits: Xploder
+$20361E44 00FFFFFF
+!!

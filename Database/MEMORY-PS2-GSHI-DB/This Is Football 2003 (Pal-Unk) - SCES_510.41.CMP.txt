@@ -1,0 +1,31 @@
+^3 = NAME: This Is Football 2003 (Pal-Unk)
+^2 = GameID: SCES-51041
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F042FE8C 0042FE8F
+!!
++Away Team Score 0 (Press R1 To Activate)
+%Credits: Codejunkies
+$D05FC702 0000F7FF
+$104D377A 00000000
++Away Team Score 99 (Press R2 To Activate)
+%Credits: Codejunkies
+$D05FC702 0000FDFF
+$104D377A 00000063
++Home Team Score 0 (Press L1 To Activate)
+%Credits: Codejunkies
+$D05FC702 0000FBFF
+$104D3390 00000000
++Home Team Score 99 (Press L2 To Activate)
+%Credits: Codejunkies
+$D05FC702 0000FEFF
+$104D3390 00000063
++Infinite Cash - Liverpool
+%Credits: Codejunkies
+$205A423C 05F5E0FF
++Infinite Cash - Stoke
+%Credits: Codejunkies
+$205A4514 05F5E0FF
+!!
+

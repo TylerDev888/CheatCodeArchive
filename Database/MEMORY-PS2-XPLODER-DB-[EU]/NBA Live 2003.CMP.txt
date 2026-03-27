@@ -1,0 +1,26 @@
+^3 = NAME: NBA Live 2003
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 002C8E97
+!!
+!Home Team:
++Maximum Score
+%Credits: Xploder
+$20F12D7C 0000270F
+$201E13A0 2402270F
++No Score
+%Credits: Xploder
+$201E13A0 24020000
+$20F12D7C 00000000
+!!
+!Away Team:
++Maximum Score
+%Credits: Xploder
+$20F12D80 0000270F
+$201E13A8 2403270F
++No Score
+%Credits: Xploder
+$20F12D80 00000000
+$201E13A8 24030000
+!!

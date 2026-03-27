@@ -1,0 +1,39 @@
+^3 = NAME: Motogp '08 (Ntsc-U)
+^2 = GameID: SLUS-21811
+!Master Codes:
++Enable Code
+%Credits: BigBossman
+$90109E90 0C04274C
++Enable Code (Alternate)
+%Credits: BigBossman
+$901564A0 0C048FF4
++Enable Code (Alternate)
+%Credits: BigBossman
+$9038DFA4 0C040B2C
+!!
++Opponents Don't Drive
+%Credits: LuC-iTA
+$2031114C 34420001
++Auto Drive
+%Credits: LuC-iTA
+$203111B8 34420002
++Hitting Walls Doesn't Make You Fall Off The Bike
+%Credits: LuC-iTA
+$20311374 10000103
++Hitting Opponents Doesn't Make You Fall Off The Bike
+%Credits: LuC-iTA
+$20309AE0 1000015C
++Opponents Don't Move{Use Either This Code Or The "Stupid AI" Code}
+$202C9680 08028000
+$200A0000 8C8102A8
+$200A0004 14200003
+$200A000C 03E00008
+$200A0014 080B25A2
+$200A0018 C48300BC
++Stupid AI{Use Either This Code Or The "Opponents Don't Move" Code}
+$202C9680 08028000
+$200A0000 8C8102A8
+$200A0004 14200003
+$200A000C AC800068
+$200A0014 080B25A2
+$200A0018 C48300BC

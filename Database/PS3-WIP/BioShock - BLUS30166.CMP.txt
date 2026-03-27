@@ -1,0 +1,17 @@
+^2 = GameID: BLUS30166
+^3 = NAME: BioShock
+^5 = APCRED: From Game Genie For PS3
+^4 = FILE: BLUS30166-*\MAINSAVE.BSG
++Decompress Save (required)
+$Decompress(*, 15)
++Max Money(you Must Have At Least 1 Dollar To Use This Cheat.)
+$80010008 02000000
+$00220000 00000000
+$18000008 0000270F
++Max Adam(you Must Have At Least 1 Adam Use This Cheat.)
+$80010008 02000000
+$00220000 00000000
+$18000012 0000270F
+^4 = FILE: MAINSAVE.BSG
++Compress Save (required)
+$Compress(*)

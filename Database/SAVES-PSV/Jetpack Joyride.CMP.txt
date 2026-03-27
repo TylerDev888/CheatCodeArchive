@@ -1,0 +1,13 @@
+^2 = GameID: PCSB00244,PCSE00213
+^3 = NAME: Jetpack Joyride (EUR)
+^5 = APCRED: Credits: Slade
+^4 = FILE: JETPACK.SAV
++9,999,999 Credits("The Credits cheat can be used only when the player has few coins.")
+$20000050 0098967F
++Update Crc32 For Jetpack.sav (required)
+(crc32 is stored in little-endian)
+$set pointer:eof+1
+$set range:0x04,pointer
+$set [crc]:crc32
+$set [crc]:endian_swap
+$write at 0x00:[crc]

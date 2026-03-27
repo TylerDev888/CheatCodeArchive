@@ -1,0 +1,11 @@
+^2 = GameID: NPEB00066
+^3 = NAME: Lumines Supernova (PSN)
+^4 = FILE: SYS-DATA
++Update Crc32 For Sys-data (required)
+(set range:0x000000,0x00EDEF)
+$set pointer:eof-3
+$set range:0x000000,pointer
+$set [hash]:CRC32
+(write at 0x00EDF0:[hash])
+$set pointer:eof-3
+$write next (0):[hash]

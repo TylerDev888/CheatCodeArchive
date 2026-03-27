@@ -1,0 +1,66 @@
+^3 = NAME: Tak 2 - The Staff Of Dreams (Pal-Unk)
+^2 = GameID: SLES-53129
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F044DF64 0044DF67
+!!
+!Head Codes:
++Big Head (Press L3+Up)
+%Credits: Codejunkies
+$E10400ED 0054B1C2
+$E0030000 105495D4
+$E0020000 105495D6
+$605495D4 00003FE0
+$00010001 000036BD
++Big Head Mullet Mode (Press L3+Down)
+%Credits: Codejunkies
+$E10400BD 0054B1C2
+$E0030000 105495D4
+$E0020000 105495D6
+$605495D4 00004040
+$00010001 000036BD
++Normal Head (Press L3+Left)
+%Credits: Codejunkies
+$E104007D 0054B1C2
+$E0030000 105495D4
+$E0020000 105495D6
+$605495D4 00003F80
+$00010001 000036BD
+!!
+!Pause To De-Activate Any Of The Game Engine Speed Codes:
++Even Slower Motion (Press R3+Down)
+%Credits: Codejunkies
+$E10100BB 0054B1C2
+$21FEAB28 3E800000
++Hyper Mode (Press R3+Right)
+%Credits: Codejunkies
+$E10100DB 0054B1C2
+$21FEAB28 40000000
++Quicker Game (Press R3+Left)
+%Credits: Codejunkies
+$E101007B 0054B1C2
+$21FEAB28 3FC00000
++Slow Motion (Press R3+Up)
+%Credits: Codejunkies
+$E10100EB 0054B1C2
+$21FEAB28 3F000000
+!!
++Display Profiler Gauges
+%Credits: Codejunkies
+$20178360 00000000
++Infinite Health
+%Credits: Codejunkies
+$E0030000 105495D4
+$E0020000 105495D6
+$605495D4 00003F80
+$00010001 00000131
++Moon Jump
+%Credits: Codejunkies
+$E10400BF 0054B1C3
+$E0030000 105495D4
+$E0020000 105495D6
+$605495D4 00004060
+$00010001 00000043
+!!
+

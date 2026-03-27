@@ -1,0 +1,20 @@
+^3 = NAME: Knight Rider
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 001896C7
+!!
+!Other:
++Unlimited Time In Timed Missions{(Don't Activate On Slingshot Mission)}
+%Credits: Xploder
+$20108CBC 00000000
+$20108CC0 00000000
+$2010654C 00000000
+$20106550 00000000
++No Damage
+%Credits: Xploder
+$200C0000 3E000008
+$200C0004 E480035C
+$20380B20 08030000
+$20380B24 44800000
+!!

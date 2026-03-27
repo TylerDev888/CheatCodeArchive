@@ -1,0 +1,151 @@
+^3 = NAME: ATV Off-Road Fury 2 (NTSC-U)
+^2 = GameID: SCUS-97369
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F037506C 0037506F
++(M) Must Be On
+%Credits: Codejunkies
+$F03607B0 0037506F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0037506F
++Enable Code (Must Be On)
+%Credits: Combusto Dragon
+$9037506C 0C0DA82A
+!!
++Access All Atv's
+%Credits: Code Master
+$20270148 24010001
+$2027014C A0E10000
++Access All Equipment
+%Credits: Code Master
+$20270244 24010001
+$20270248 A1A10000
++Access All Games
+%Credits: Code Master
+$2026C380 00000000
+$2026D0A4 00000000
++Access All Tracks
+%Credits: Code Master
+$2026C340 24010001
+$2026C344 A0410000
++Aggressive AI Always Disabled
+%Credits: Code Master
+$20536C78 00000000
++Aggressive AI Always Enabled
+%Credits: Code Master
+$20536C78 00000001
++Agressive AI
+%Credits: Code Master
+$201F909C 00000000
+!AI Aggression Codes:
++AI Is Not Aggressive
+%Credits: Codejunkies
+$10536C78 00000000
++Unlock All Championship Events
+%Credits: Codejunkies
+$116A4564 00000101
+$116A4570 00000101
+$116A457C 00000101
+$116A4594 00000101
+$116A45A0 00000101
+$116A45AC 00000101
+$116A45B8 00000101
+$116A45C4 00000101
+$116A45D0 00000101
+$116A45DC 00000101
+$116A45E8 00000101
+$116A45F4 00000101
+$116A4600 00000101
+$116A460C 00000101
+$116A4618 00000101
+!!
++All Out AI
+%Credits: Code Master
+$201F90C4 00000000
++All Out AI Always Disabled
+%Credits: Code Master
+$20537EE0 00000000
++All Out AI Always Enabled
+%Credits: Code Master
+$20537EE0 00000001
++Allow Points For Wheelies
+%Credits: Code Master
+$201E5A9C 00000000
++Allow Points For Wheelies Always Disabled
+%Credits: Code Master
+$20537ED8 00000000
++Allow Points For Wheelies Always Enabled
+%Credits: Code Master
+$20537ED8 00000001
++Can Always Buy Items (Unlock Items)
+%Credits: Code Master
+$20320BB0 3C0205F5
+$20320BB4 3442E0FF
++Disable Land Wrecks
+%Credits: Code Master
+$201E7F70 00000000
++Enable All Atvs
+%Credits: Codejunkies
+$2143B138 01010101
+$2143B13C 01010101
+$2143B140 01010101
+$2143B144 01010101
++Enable All Equipment
+%Credits: Codejunkies
+$214DE360 01010101
+$214DE364 01010101
+$214DE368 01010101
+$114DE36C 00000101
++Enable All Games
+%Credits: Codejunkies
+$2145B320 01010101
+$2145B324 01010101
+$2145B328 01010101
++Enable All Tracks
+%Credits: Codejunkies
+$21451F20 01010101
+$21451F24 01010101
+$214DED20 01010101
+$214DED24 01010101
++Land Wrecks Always Disabled
+%Credits: Code Master
+$20536C74 00000000
++Land Wrecks Always Enabled
+%Credits: Code Master
+$20536C74 00000001
++Points Don't Decrease When Buying Items (Unlock Items)
+%Credits: Code Master
+$20320BC0 00000000
++Stop Action Replay Cam Enabled
+%Credits: Code Master
+$201F33F8 00000000
++Stop Action Replay Cam Enabled Always Disabled
+%Credits: Code Master
+$20537EDC 00000000
++Stop Action Replay Cam Enabled Always Enabled
+%Credits: Code Master
+$20537EDC 00000001
++Widescreen Aspect Ratio
+%Credits: Code Master
+$2021328C 00000000
++Widescreen Aspect Ratio Always Disabled
+%Credits: Code Master
+$20536C7C 00000000
++Widescreen Aspect Ratio Always Enabled
+%Credits: Code Master
+$20536C7C 00000001
++Wrecks Are Disabled
+%Credits: Codejunkies
+$10536C74 00000000
+!Wrecks Codes:
++AI Is Aggressive
+%Credits: Codejunkies
+$10536C78 00000001
++Wrecks Are Enabled
+%Credits: Codejunkies
+$10536C74 00000001
+!!
+!!
+

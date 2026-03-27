@@ -1,0 +1,14 @@
+^2 = GameID: BLES01902
+^3 = NAME: PAYDAY 2
+^4 = FILE: INFO.BIN
++Update Md5 For Info.bin (required)
+$set pointer:lastbyte-0xF
+$set range:0x000004,pointer
+$set [hash]:MD5
+$write next (0):[hash]
+^4 = FILE: HEADER.BIN
++Update Md5 For Header.bin (required)
+$set pointer:lastbyte-0xF
+$set range:0x000004,pointer
+$set [hash]:MD5
+$write next (0):[hash]

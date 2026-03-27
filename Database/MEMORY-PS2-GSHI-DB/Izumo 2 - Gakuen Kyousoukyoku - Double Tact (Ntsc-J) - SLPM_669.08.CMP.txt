@@ -1,0 +1,14 @@
+^3 = NAME: Izumo 2 - Gakuen Kyousoukyoku - Double Tact (Ntsc-J)
+^2 = GameID: SLPM-66908
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$902103A0 0C084090
+!!
++Enable Debug Menu [View Note] {<I>You Will Enter The Debug Menu When You First Start Up The Game. At Any Time, To Go Back To It, Press And Hold Select Button While Entering Any Mode, Such As The Options Menu.</I>}
+%Credits: punk7890
+$0010D880 00000000
+$D04CFD82 0000FFFE
+$2027F86C 00000000
+!!
+

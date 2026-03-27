@@ -1,0 +1,14 @@
+^2 = GameID: BLES00516
+^3 = NAME: Afro Samurai
+^5 = APCRED: From Game Genie For PS3
+^4 = FILE: AFRO_0.SAV
++Unlock All Treasures
+$420000E4 01010101
+$40130004 00000000
++Update Crc32:0 (required)
+$set pointer:eof-4
+$set range:0x000000,pointer
+$set [hash]:CRC32:0
+$set [hash]:xor:FFFFFFFF
+$set pointer:eof-4
+$write next (0):[hash]

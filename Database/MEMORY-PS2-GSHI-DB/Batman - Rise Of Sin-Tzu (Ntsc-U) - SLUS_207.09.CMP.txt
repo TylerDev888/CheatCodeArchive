@@ -1,0 +1,373 @@
+^3 = NAME: Batman - Rise Of Sin-Tzu (Ntsc-U)
+^2 = GameID: SLUS-20709
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F011F444 0011F447
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0011F447
++Enable Code (Must Be On)
+%Credits: lee4
+$9011F414 00832021
+!!
+!Jokers:
++Player 1 Controller
+%Credits: lee4
+$D056AB02 0000????
+!!
++Access All Upgrades
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B84 0000000F
+!Alternative Costumes Codes:
++Batgirl
+%Credits: lee4
+$60576BB8 00000001
+$00000001 00000C80
++Batman
+%Credits: lee4
+$60576BB8 00000001
+$00000001 0000B590
++Nightwing
+%Credits: lee4
+$60576BB8 00000001
+$00000001 0002FCA0
++Robin
+%Credits: lee4
+$60576BB8 00000001
+$00000001 00000210
+!!
++Disable AI [(Disabled When Thugs Are Stuck SEL=OFF Start=ON)]
+%Credits: Codejunkies
+$E002FFF7 0056AB02
+$20202B08 24020000
+$20202AFC 00000000
+$E002FFFE 0056AB02
+$20202B08 24020001
+$20202AFC 10400004
++Extra Continues
+%Credits: Code Master
+$1023999C 00000001
++Freeze Timers
+%Credits: Codejunkies
+$2036FB10 03E00008
+$2036FB14 00000000
++Infinite Continues
+%Credits: Code Master
+$20290B68 00000000
++Infinite Health
+%Credits: Code Master
+$200C0220 00A01821
+$200C0224 AC850034
+$200C0228 03E00008
+$200C022C AC850038
+$2028E14C 0C030088
+$2028E150 240503E8
+!Infinite Tokens Codes:
++Infinite Bronze Tokens
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6AF8 000003E7
++Infinite Bronze Tokens
+%Credits: Codejunkies
+$208CAAEC 00000063
++Infinite Bronze Tokens
+%Credits: lee4
+$608C2E74 000003E7
+$00010001 0000031C
++Infinite Dk Tokens
+%Credits: Codejunkies
+$208CAAE8 00000063
++Infinite Gold Tokens
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6AF4 000003E7
++Infinite Gold Tokens
+%Credits: Codejunkies
+$208CAAF4 00000063
++Infinite Gold Tokens
+%Credits: lee4
+$608C2E74 000003E7
+$00010001 00000318
++Infinite Green Tokens
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6AE8 000003E7
++Infinite Green Tokens
+%Credits: lee4
+$608C2E74 000003E7
+$00010001 0000030C
++Infinite Platinum Tokens
+%Credits: Codejunkies
+$208CAAF8 00000063
++Infinite Red Tokens
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6AEC 000003E7
++Infinite Red Tokens
+%Credits: lee4
+$608C2E74 000003E7
+$00010001 00000310
++Infinite Silver Tokens
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6AF0 000003E7
++Infinite Silver Tokens
+%Credits: Codejunkies
+$208CAAF0 00000063
++Infinite Silver Tokens
+%Credits: lee4
+$608C2E74 000003E7
+$00010001 00000314
++Infinite: Bronze Unlock Tokens
+%Credits: MadCatz
+$208CAAEC 000003E7
++Infinite: Gold Unlock Tokens
+%Credits: MadCatz
+$208CAAF4 000003E7
++Infinite: Green Unlock Tokens
+%Credits: MadCatz
+$208CAAE8 000003E7
++Infinite: Silver Unlock Tokens
+%Credits: MadCatz
+$208CAAF0 000003E7
++Infinite: White Unlock Tokens
+%Credits: MadCatz
+$208CAAF8 000003E7
+!!
+!Infinite Upgrade Points:
++Buying Upgrades Doesn't Decrease Upgrade Points
+%Credits: Code Master
+$202C84C0 00000000
++Buying Upgrades Increases Upgrade Points
+%Credits: Code Master
+$202C84BC 00661821
++Infinite: Upgrade Points
+%Credits: MadCatz
+$202C84B8 3C03000F
+$202C84BC 3463423F
+!!
++Infinite: Lives
+%Credits: MadCatz
+$20290B64 20100009
++Infinite: Smoke Bombs
+%Credits: MadCatz
+$2028B5F0 20020063
++Invincible [(Disabled Before Going Through Doors SEL=OFF Start=ON)]
+%Credits: Codejunkies
+$D056AB02 0000FFF7
+$20235A70 10000003
+$D056AB02 0000FFFE
+$20235A70 16000003
+!Level 5 Upgrades Open:
++Batgirl
+%Credits: Codejunkies
+$208CACB0 0000000F
++Batgirl
+%Credits: lee4
+$608C2E74 0000000F
+$00000001 000004D4
++Batman
+%Credits: Codejunkies
+$208CAB84 0000000F
++Batman
+%Credits: lee4
+$608C2E74 0000000F
+$00000001 000003A8
++Nightwing
+%Credits: Codejunkies
+$208CABEC 0000000F
++Nightwing
+%Credits: lee4
+$608C2E74 0000000F
+$00000001 00000410
++Robin
+%Credits: Codejunkies
+$208CABE8 0000000F
++Robin
+%Credits: lee4
+$608C2E74 0000000F
+$00000001 0000040C
+!!
+!Max Upgrade Points Codes:
++Batgirl
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B94 05F5E0FF
++Batgirl
+%Credits: Codejunkies
+$208CACB8 000F3E58
++Batgirl
+%Credits: lee4
+$608C2E74 05F5E0FF
+$00020001 000003B8
++Batman
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B88 05F5E0FF
++Batman
+%Credits: Codejunkies
+$208CAB88 000F3E58
++Batman
+%Credits: lee4
+$608C2E74 05F5E0FF
+$00020001 000003AC
++Nightwing
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B90 05F5E0FF
++Nightwing
+%Credits: Codejunkies
+$208CABF4 000F3E58
++Nightwing
+%Credits: lee4
+$608C2E74 05F5E0FF
+$00020001 000003B4
++Robin
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B8C 05F5E0FF
++Robin
+%Credits: Codejunkies
+$208CABF0 000F3E58
++Robin
+%Credits: lee4
+$608C2E74 05F5E0FF
+$00020001 000003B0
+!!
+!Unlock All Moves Codes:
++Batgirl
+%Credits: Code Master
+$E0026AD0 008C6ADC
+$208C6BA4 FFFFFFFF
+$208C6BB4 FFFFFFFF
++Batgirl
+%Credits: Codejunkies
+$208CACC4 73FFFFFF
+$208CACD4 0000003F
++Batgirl
+%Credits: lee4
+$608C2E74 FFFFFFFF
+$00020001 000003C8
+$608C2E74 FFFFFFFF
+$00020001 000003D8
++Batman
+%Credits: Code Master
+$E0026AD0 008C6ADC
+$208C6B98 FFFFFFFF
+$208C6BA8 FFFFFFFF
++Batman
+%Credits: Codejunkies
+$208CAB98 73FFFFFF
+$008CABA8 0000003F
++Batman
+%Credits: lee4
+$608C2E74 FFFFFFFF
+$00020001 000003BC
+$608C2E74 FFFFFFFF
+$00020001 000003CC
++Nightwing
+%Credits: Code Master
+$E0026AD0 008C6ADC
+$208C6BA0 FFFFFFFF
+$208C6BB0 FFFFFFFF
++Nightwing
+%Credits: Codejunkies
+$208CAC04 73FFFFFF
+$008CAC14 0000003F
++Nightwing
+%Credits: lee4
+$608C2E74 FFFFFFFF
+$00020001 000003C4
+$608C2E74 FFFFFFFF
+$00020001 000003D4
++Robin
+%Credits: Code Master
+$E0026AD0 008C6ADC
+$208C6B9C FFFFFFFF
+$208C6BAC FFFFFFFF
++Robin
+%Credits: Codejunkies
+$208CAC00 73FFFFFF
+$008CAC10 0000003F
++Robin
+%Credits: lee4
+$608C2E74 FFFFFFFF
+$00020001 000003C0
+$608C2E74 FFFFFFFF
+$00020001 000003D0
+!!
+!Unlock Codes:
++All Bonus Features
+%Credits: Codejunkies
+$208CAB10 FFFFFFFF
+$208CAB18 FFFFFFFF
++All Trophy Room Items
+%Credits: Codejunkies
+$208CAAFC 00FFFFFF
+$208CAB00 000000FF
+$208CAB04 FFFFFFFF
+$208CAB08 00003FFF
+$208CAB0C 03FFFFFF
+$208CAB14 00007FFF
++Unlock All 3D Models
+%Credits: lee4
+$608C2E74 FFFFFFFF
+$00020001 00000320
+$608C2E74 FFFFFFFF
+$00020001 00000324
++Unlock All 3D Models (Heroes/Gadgets/Vehicles)
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6AFC FFFFFFFF
++Unlock All 3D Models (Villians)
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B00 FFFFFFFF
++Unlock All Cinematics
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B10 FFFFFFFF
++Unlock All Cinematics
+%Credits: lee4
+$608C2E74 FFFFFFFF
+$00020001 00000334
++Unlock All Concept Art
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B14 FFFFFFFF
++Unlock All Concept Art
+%Credits: lee4
+$608C2E74 FFFFFFFF
+$00020001 00000338
++Unlock All Extra Bonus Features
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B18 FFFFFFFF
++Unlock All Extra Bonus Features
+%Credits: lee4
+$608C2E74 FFFFFFFF
+$00020001 0000033C
++Unlock All Graphic Novels
+%Credits: Code Master
+$E0026AD0 008C6ADC
+$208C6B04 FFFFFFFF
+$208C6B08 FFFFFFFF
++Unlock All Graphic Novels
+%Credits: lee4
+$608C2E74 FFFFFFFF
+$00020001 00000328
+$608C2E74 FFFFFFFF
+$00020001 0000032C
++Unlock All Toys
+%Credits: Code Master
+$D08C6ADC 00006AD0
+$208C6B0C FFFFFFFF
++Unlock All Toys
+%Credits: lee4
+$608C2E74 FFFFFFFF
+$00020001 00000330
+!!
+!!
+

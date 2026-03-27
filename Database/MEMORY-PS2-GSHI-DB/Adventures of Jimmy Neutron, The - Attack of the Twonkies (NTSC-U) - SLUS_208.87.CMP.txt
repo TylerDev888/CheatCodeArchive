@@ -1,0 +1,74 @@
+^3 = NAME: Adventures Of Jimmy Neutron, The - Attack Of The Twonkies (NTSC-U)
+^2 = GameID: SLUS-20887
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00123513
++[M] Must Be On
+%Credits: MadCatz
+$90147370 0C048D26
+!!
+!A Comet Cometh:
++Max Exploration
+%Credits: MadCatz
+$2096F60C 000F423F
++Max Inventions
+%Credits: MadCatz
+$2096F600 000F423F
++Max Objectives
+%Credits: MadCatz
+$2096F608 000F423F
++Max Pick Ups
+%Credits: MadCatz
+$2096F604 000F423F
+!!
++Infinite Gizmo Power
+%Credits: MadCatz
+$200C2018 3C1B3F80
+$200C201C 449B0800
+$200C2020 08077676
+$200C2024 E6610094
+$201DD9D4 08030806
+$2016FDC8 00000000
++Max Genius Points
+%Credits: MadCatz
+$200C2000 3403270F
+$200C2004 080D0DCC
+$200C2008 AE230B70
+$2034372C 08030800
+!MISC:
++Equipping Gadgets Doesn't Decrease Battery
+%Credits: Code Master
+$201E5090 00000000
+$201E50AC 00000000
++Infinite Health/Ship Health (When Flying It)
+%Credits: Code Master
+$201E4FF8 00000000
+$201E500C 00000000
++Infinite Ship Health From Bosses
+%Credits: Code Master
+$202BADF0 00000000
+$202BAE40 00000000
+$202BAE88 00000000
++P1 Press L1+Select For Infinite Shoes Gadget Usage
+%Credits: Code Master
+$D048B802 0000FBFE
+$2016FDC8 00000000
++P1 Press L2+Select For Normal Shoes Gadget Usage
+%Credits: Code Master
+$D048B802 0000FEFE
+$2016FDC8 E6010A18
++Quick Genius Points Gain
+%Credits: Code Master
+$202B3190 2463270F
++Quick Stats Gain
+%Credits: Code Master
+$202B3174 2463270F
++View Report Card For Max Stats On Completed Levels
+%Credits: Code Master
+$202B39EC 3C0205F5
+$202B3A84 3442E0FF
+$202B3A88 AE02000C
+!!
+!!
+

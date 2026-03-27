@@ -1,0 +1,434 @@
+^2 = GameID: CUSA17584,CUSA17573,CUSA17040,CUSA17590
+^3 = NAME: Fairy Tail
+^SECONDLAYER: YES
+^4 = FILE: save\user_data_[0-9]+\.dat
++Item Swap By Searching For Current Items Id And Quantity
+$80010008 23494E44
+$14000000 00000000
+$88010008 [Item<Current Item>]
+$[Amount:0100:HEX:LITTLE<Current Item Amount>]0000 00000000
+$A8000000 00000006
+$[Item<New Item>] [Amount:6300:HEX:LITTLE<New Item Amount>]0000
+^6 = MODS:
+[Item]
+Item>Item Name>Type
+00000000	Wizard Lacrima	Lacrima - G1
+01000000	Wizard Lacrima	Lacrima - G2
+02000000	Wizard Lacrima	Lacrima - G3
+03000000	Wizard Lacrima	Lacrima - G4
+04000000	Wizard Core	Lacrima - G5
+05000000	Accelerator Lacrima	Lacrima - G1
+06000000	Accelerator Lacrima	Lacrima - G2
+07000000	Accelerator Lacrima	Lacrima - G3
+08000000	Accelerator Lacrima	Lacrima - G4
+09000000	Accelerator core	Lacrima - G5
+0A000000	Lucky Lacrima	Lacrima - G1
+0B000000	Lucky Lacrima	Lacrima - G2
+0C000000	Lucky Lacrima	Lacrima - G3
+0D000000	Lucky Lacrima	Lacrima - G4
+0E000000	Lucky Core	Lacrima - G5
+0F000000	Flame Lacrima	Lacrima - G1
+10000000		Lacrima - G2
+11000000		Lacrima - G3
+12000000		Lacrima - G4
+13000000	Flame Core	Lacrima - G5
+14000000	Freeze Lacrima	Lacrima - G1
+15000000		Lacrima - G2
+16000000		Lacrima - G3
+17000000		Lacrima - G4
+18000000	Freeze Core	Lacrima - G5
+19000000	Lightning Lacrima	Lacrima - G1
+1A000000		Lacrima - G2
+1B000000		Lacrima - G3
+1C000000		Lacrima - G4
+1D000000	Lightning Core	Lacrima - G5
+1E000000	Curse Lacrima	Lacrima - G1
+1F000000		Lacrima - G2
+20000000		Lacrima - G3
+21000000		Lacrima - G4
+22000000	Curse Core	Lacrima - G5
+23000000	Poison Lacrima	Lacrima - G1
+24000000		Lacrima - G2
+25000000		Lacrima - G3
+26000000		Lacrima - G4
+27000000	Poison Core	Lacrima - G5
+28000000	Fear Lacrima 	Lacrima - G1
+29000000	Fear Lacrima 	Lacrima - G2
+2A000000	Fear Lacrima 	Lacrima - G3
+2B000000	Fear Lacrima 	Lacrima - G4
+2C000000	Fear Core	Lacrima - G5
+2D000000	Forefront Lacrima	Lacrima - G1
+2E000000	Forefront Lacrima	Lacrima - G2
+2F000000	Forefront Lacrima	Lacrima - G3
+30000000	Forefront Lacrima	Lacrima - G4
+31000000	Forefront Core	Lacrima - G5
+32000000	Energy Lacrima	Lacrima - G1
+33000000	Energy Lacrima	Lacrima - G2
+34000000	Energy Lacrima	Lacrima - G3
+35000000	Energy Lacrima	Lacrima - G4
+36000000	Energy Core	Lacrima - G5
+37000000	Mind Lacrima	Lacrima - G1
+38000000	Mind Lacrima	Lacrima - G2
+39000000	Mind Lacrima	Lacrima - G3
+3A000000	Mind Lacrima	Lacrima - G4
+3B000000	Mind Core	Lacrima - G5
+3C000000	Protection Lacrima	Lacrima - G1
+3D000000	Protection Lacrima	Lacrima - G2
+3E000000	Protection Lacrima	Lacrima - G3
+3F000000	Protection Lacrima	Lacrima - G4
+40000000	Protection Core	Lacrima - G5
+41000000	Atraction Lacrima	Lacrima - G1
+42000000	Atraction Lacrima	Lacrima - G2
+43000000	Atraction Lacrima	Lacrima - G3
+44000000	Atraction Lacrima	Lacrima - G4
+45000000	Attraction Core	Lacrima - G5
+46000000	HIdden Lacrima	Lacrima - G1
+47000000	HIdden Lacrima	Lacrima - G2
+48000000	HIdden Lacrima	Lacrima - G3
+49000000	HIdden Lacrima	Lacrima - G4
+4A000000	Hidden Core	Lacrima - G5
+4B000000	Storm and Stress *	Lacrima - G5
+4C000000	Fine-Tuned *	Lacrima - G5
+4D000000	Fortress *	Lacrima - G5
+4E000000	Calm and Collected *	Lacrima - G5
+4F000000	Two Birds, One Stone	Lacrima – G5
+50000000	Get Rich Quick	Lacrima – G5
+51000000	Rare Lacrima	Ingredients
+52000000	Bold as Brass *	Lacrima – G5
+53000000	Sharp as a Tack *	Lacrima – G5
+54000000	Pomp and Circumstance *	Lacrima – G5
+55000000	All-Or-Nothing	Lacrima – G5
+56000000	Unstoppable Force	Lacrima – G5
+57000000	Immovable Object *	Lacrima – G5
+58000000	Indomitable	Lacrima – G5
+59000000	Army Of One *	Lacrima – G5
+5A000000	Dilligence	Lacrima – G5
+5B000000	Small Salve	Consumables
+5C000000	Medium Salve	Consumables
+5D000000	Large Salve	Consumables
+5E000000	Soothing Perfume	Consumables
+5F000000	Small Bottled Ethernano	Consumables
+60000000	Medium Bottled Ethernano	Consumables
+61000000	Large Bottled Ethernano	Consumables
+62000000	Magic Perfume	Consumables
+63000000	Revival Remedy	Consumables
+64000000	Perfect Revival Remedy	Consumables
+65000000	Burn Ointment	Consumables
+66000000	Warming Draught	Consumables
+67000000	Anti-Paralytic	Consumables
+68000000	Purifying Elixir	Consumables
+69000000	Antidote	Consumables
+6A000000	Liquid Bravery	Consumables
+6B000000	Miracle Cure	Consumables
+6C000000	Condensed Ether	Consumables
+6D000000	Super Condensed Ether	Consumables
+6E000000	Aqueous Rock	Ingredients
+6F000000	Igneous Rock	Ingredients
+70000000	Magicae Rock	Ingredients
+71000000	Draconian Rock	Ingredients
+72000000	Chrysanthus	Ingredients
+73000000	Sea Berry	Ingredients
+74000000	Advance	Ingredients
+75000000	Speciosus	Ingredients
+76000000	Water	Ingredients
+77000000	Drinking Water	Ingredients
+78000000	Suspicious Liquid	Ingredients
+79000000	Dark Water	Ingredients
+7A000000	Plain Prune	Ingredients
+7B000000	Green Orange	Ingredients
+7C000000	Red Blueberry	Ingredients
+7D000000	Dragon Slayer Fruit	Ingredients
+7E000000	Bent Claw	Ingredients
+7F000000	Honed Claw	Ingredients
+80000000	Sharp Claw	Ingredients
+81000000	Captivating Claw	Ingredients
+82000000	Chipped Fang	Ingredients
+83000000	Hard Fang	Ingredients
+84000000	Sharp Fang	Ingredients
+85000000	Gleaming Fang	Ingredients
+86000000	Torn Hide	Ingredients
+87000000	Thick Hide	Ingredients
+88000000	Tough Hide	Ingredients
+89000000	Sinister Hide	Ingredients
+8A000000	Decayed Scale	Ingredients
+8B000000	Soft Scale	Ingredients
+8C000000	Durable Scale	Ingredients
+8D000000	Gloomy Scale	Ingredients
+8E000000	Gray's Clothes	Valuables
+8F000000	Picture of Wendy	Valuables
+90000000	New Picture of Wendy	Valuables
+91000000	Rainbow Feather	Valuables
+92000000	Exquisite Sweets	Valuables
+93000000	Suspicious Herb	Valuables
+94000000	Limited-Edition Sound Pod	Valuables
+95000000	Appetizing Meat	Valuables
+96000000	Laxus' Sound Pod	Valuables
+97000000	Mirajane's Sheet Music	Valuables
+98000000	Research Material	Valuables
+99000000	Suspicious Lacrima	Valuables
+9A000000	Appetizing Vegatable	Valuables
+9B000000	Rust-Proof Oil	Valuables
+9C000000	Supremely-Scented Flower	Valuables
+9D000000	Blue Ore	Valuables
+9E000000	Magnolia Flower	Valuables
+9F000000	Rare Frog	Valuables
+A0000000	Mysterious Figure Trace 1	Valuables
+A1000000	Mysterious Figure Trace 2	Valuables
+A2000000	Mysterious Figure Trace 3	Valuables
+A3000000	Book Page	Valuables
+A4000000	Book Page	Valuables
+A5000000	Book Page	Valuables
+A6000000	Book Page	Valuables
+A7000000	Book Page	Valuables
+A8000000	Book Page	Valuables
+A9000000	Beach Treasure	Valuables
+AA000000	Beach Treasure	Valuables
+AB000000	Beach Treasure	Valuables
+AC000000	Precious Metal	Valuables
+AD000000	Trash	Valuables
+AE000000	Appetizing Wild Plant	Valuables
+AF000000	Appetizing Mushroom	Valuables
+B0000000	Appetizing Fruit	Valuables
+B1000000	Tenrou Investigation Report 1	Valuables
+B2000000	Tenrou Investigation Report 2	Valuables
+B3000000	Tenrou Investigation Report 3	Valuables
+B4000000	Tenrou Investigation Report 4	Valuables
+B5000000	Tenrou Island Flower Seed	Valuables
+B6000000	Mystic Thread	Valuables
+C1000000	Regular Planks	Valuables
+C2000000	Quality Planks	Valuables
+C3000000	Superior Planks	Valuables
+C4000000	Luxurious Planks	Valuables
+C5000000	Top-Grade Planks	Valuables
+C6000000	Regular Pots	Valuables
+C7000000	Quality Pots	Valuables
+C8000000	Superior Pots	Valuables
+C9000000	Luxurious Pots	Valuables
+CA000000	Top-Grade Pots	Valuables
+CB000000	Regular Flasks	Valuables
+CC000000	Quality Flasks	Valuables
+CD000000	Superior Flasks	Valuables
+CE000000	Luxurious Flasks	Valuables
+CF000000	Top-Grade Flasks	Valuables
+D0000000	Regular Crates	Valuables
+D1000000	Quality Crates	Valuables
+D2000000	Superior Crates	Valuables
+D3000000	Luxurious Crates	Valuables
+D4000000	Top-Grade Crates	Valuables
+D5000000	Regular Books	Valuables
+D6000000	Quality Books	Valuables
+D7000000	Superior Books	Valuables
+D8000000	Luxurious Books	Valuables
+D9000000	Top-Grade Books	Valuables
+DA000000	Regular Bricks	Valuables
+DB000000	Quality Bricks	Valuables
+DC000000	Superior Bricks	Valuables
+DD000000	Luxurious Bricks	Valuables
+DE000000	Top-Grade Bricks	Valuables
+DF000000	Regular Glasses	Valuables
+E0000000	Quality Glasses	Valuables
+E1000000	Superior Glasses	Valuables
+E2000000	Luxurious Glasses	Valuables
+E3000000	Top-Grade Glasses	Valuables
+E4000000	Regular Tablecloths	Valuables
+E5000000	Quality Tablecloths	Valuables
+E6000000	Superior Tablecloths	Valuables
+E7000000	Luxurious Tablecloths	Valuables
+E8000000	Top-Grade Tablecloths	Valuables
+E9000000	Regular Flooring	Valuables
+EA000000	Quality Flooring	Valuables
+EB000000	Superior Flooring	Valuables
+EC000000	Luxurious Flooring	Valuables
+ED000000	Top-Grade Flooring	Valuables
+EE000000	Regular Stone	Valuables
+EF000000	Quality Stone	Valuables
+F0000000	Superior Stone	Valuables
+F1000000	Luxurious Stone	Valuables
+F2000000	Top-Grade Stone	Valuables
+F3000000	Celestial Spirit Key	Valuables
+F4000000	Delicious Candy	Valuables
+F5000000	Sparkling Candy	Valuables
+F6000000	Wizard Lacrima	Lacrima – G1
+F7000000	Accelerator Lacrima	Lacrima – G1
+F8000000	Lucky Lacrima	Lacrima – G1
+F9000000	Energy Lacrima	Lacrima – G1
+FA000000	Mind Lacrima	Lacrima – G1
+FB000000	Dilligence	Lacrima - G5
+FC000000	Dilligence	Lacrima - G5
+FD000000	WIzard Lacrima	Lacrima - G1
+FE000000	Accelerator Lacrima	Lacrima - G1
+FF000000	Lucky Lacrima	Lacrima - G1
+00010000	Energy Lacrima	Lacrima - G1
+01010000	Mind Lacrima	Lacrima - G1
+02010000	Protection Lacrima	Lacrima – G1
+03010000	Protection Lacrima	Lacrima – G1
+04010000	Protection Lacrima	Lacrima – G1
+05010000	Protection Lacrima	Lacrima – G1
+06010000	Protection Lacrima	Lacrima – G1
+07010000	Protection Lacrima	Lacrima – G1
+08010000	Protection Lacrima	Lacrima – G1
+09010000	Protection Lacrima	Lacrima – G1
+0A010000	Protection Lacrima	Lacrima – G1
+0B010000	Protection Lacrima	Lacrima – G1
+0C010000	Protection Lacrima	Lacrima – G1
+0D010000	Protection Lacrima	Lacrima – G1
+0E010000	Protection Lacrima	Lacrima – G1
+0F010000	Protection Lacrima	Lacrima – G1
+10010000	Protection Lacrima	Lacrima – G1
+11010000	Protection Lacrima	Lacrima – G1
+12010000	Protection Lacrima	Lacrima – G1
+13010000	Protection Lacrima	Lacrima – G1
+14010000	Protection Lacrima	Lacrima – G1
+15010000	Protection Lacrima	Lacrima – G1
+16010000	Protection Lacrima	Lacrima – G1
+17010000	Protection Lacrima	Lacrima – G1
+18010000	Protection Lacrima	Lacrima – G1
+19010000	Protection Lacrima	Lacrima – G1
+1A010000	Lacrima of the Fire Dragon 	Lacrima - G1
+1B010000	Lacrima of the Fire Dragon 	Lacrima - G2
+1C010000	Lacrima of the Fire Dragon 	Lacrima - G3
+1D010000	Lacrima of the Fire Dragon 	Lacrima - G4
+1E010000	Core of the Fire Dragon 	Lacrima - G5
+1F010000	Lacrima of the Celestial Spirits	Lacrima - G1
+20010000	Lacrima of the Celestial Spirits	Lacrima - G2
+21010000	Lacrima of the Celestial Spirits	Lacrima - G3
+22010000	Lacrima of the Celestial Spirits	Lacrima - G4
+23010000	Core of the Celestial Spirits	Lacrima - G5
+24010000	Lacrima of the Knight	Lacrima - G1
+25010000	Lacrima of the Knight	Lacrima - G2
+26010000	Lacrima of the Knight	Lacrima - G3
+27010000	Lacrima of the Knight	Lacrima - G4
+28010000	Core of the Knight	Lacrima - G5
+29010000	Ice Crystal Lacrima	Lacrima - G1
+2A010000	Ice Crystal Lacrima	Lacrima - G2
+2B010000	Ice Crystal Lacrima	Lacrima - G3
+2C010000	Ice Crystal Lacrima	Lacrima - G4
+2D010000	Ice Crystal Core	Lacrima - G5
+2E010000	Lacrima of the Sky Dragon	Lacrima - G1
+2F010000	Lacrima of the Sky Dragon	Lacrima - G2
+30010000	Lacrima of the Sky Dragon	Lacrima - G3
+31010000	Lacrima of the Sky Dragon	Lacrima - G4
+32010000	Core of the Sky Dragon	Lacrima - G5
+33010000	Lacrima of the Thunder Dragon	Lacrima - G1
+34010000	Lacrima of the Thunder Dragon	Lacrima - G2
+35010000	Lacrima of the Thunder Dragon	Lacrima - G3
+36010000	Lacrima of the Thunder Dragon	Lacrima - G4
+37010000	Core of the Thunder Dragon	Lacrima - G5
+38010000	Lacrima of the Iron Dragon	Lacrima - G1
+39010000	Lacrima of the Iron Dragon	Lacrima - G2
+3A010000	Lacrima of the Iron Dragon	Lacrima - G3
+3B010000	Lacrima of the Iron Dragon	Lacrima - G4
+3C010000	Core of the Iron Dragon	Lacrima - G5
+3D010000	Heavenly Body Lacrima	Lacrima - G1
+3E010000	Heavenly Body Lacrima	Lacrima - G2
+3F010000	Heavenly Body Lacrima	Lacrima - G3
+40010000	Heavenly Body Lacrima	Lacrima - G4
+41010000	Heavenly Body Core	Lacrima - G5
+42010000	Water Lacrima	Lacrima - G1
+43010000	Water Lacrima	Lacrima - G2
+44010000	Water Lacrima	Lacrima - G3
+45010000	Water Lacrima	Lacrima - G4
+46010000	Water Core	Lacrima - G5
+47010000	Lacrima of the Demon	Lacrima - G1
+48010000	Lacrima of the Demon	Lacrima - G2
+49010000	Lacrima of the Demon	Lacrima - G3
+4A010000	Lacrima of the Demon	Lacrima - G4
+4B010000	Core of the Demon	Lacrima - G5
+4C010000	Purifying Lacrima	Lacrima – G1
+4D010000	Purifying Charm	Lacrima – G2
+4E010000	Purifying Amulet	Lacrima – G3
+4F010000	Purifying Talisman	Lacrima – G4
+50010000	Purifying Core	Lacrima – G5
+51010000	Lacrima of the Sky God	Lacrima - G1
+52010000	Lacrima of the Sky God	Lacrima - G2
+53010000	Lacrima of the Sky God	Lacrima - G3
+54010000	Lacrima of the Sky God	Lacrima - G4
+55010000	Core of the Sky God	Lacrima - G5
+56010000	Lacrima of the warrior	Lacrima - G1
+57010000	Lacrima of the warrior	Lacrima - G2
+58010000	Lacrima of the warrior	Lacrima - G3
+59010000	Lacrima of the warrior	Lacrima - G4
+5A010000	Core of the warrior	Lacrima - G5
+5B010000	Handsome Lacrima	Lacrima - G1
+5C010000	Handsome Lacrima	Lacrima - G2
+5D010000	Handsome Lacrima	Lacrima - G3
+5E010000	Handsome Lacrima	Lacrima - G4
+5F010000	Handsome Core	Lacrima - G5
+60010000	Lacrima of the White Dragon	Lacrima - G1
+61010000	Lacrima of the White Dragon	Lacrima - G2
+62010000	Lacrima of the White Dragon	Lacrima - G3
+63010000	Lacrima of the White Dragon	Lacrima - G4
+64010000	Core of the White Dragon	Lacrima - G5
+65010000	Lacrima of the Shadow Dragon	Lacrima - G1
+66010000	Lacrima of the Shadow Dragon	Lacrima - G2
+67010000	Lacrima of the Shadow Dragon	Lacrima - G3
+68010000	Lacrima of the Shadow Dragon	Lacrima - G4
+69010000	Core of the Shadow Dragon	Lacrima - G5
+6A010000	Animal Lacrima	Lacrima – G1
+6B010000	Animal Charm	Lacrima – G2
+6C010000	Animal Amulet	Lacrima – G3
+6D010000	Animal Talisman	Lacrima – G4
+6E010000	Animal Core	Lacrima – G5
+6F010000	Lacrima Of The Scholar	Lacrima – G1
+70010000	Charm Of The Scholar	Lacrima – G2
+71010000	Amulet Of The Scholar	Lacrima – G3
+72010000	Talisman Of The Scholar	Lacrima – G4
+73010000	Core Of The Scholar	Lacrima – G5
+74010000	Manly Lacrima	Lacrima – G1
+75010000	Manly Charm	Lacrima – G5
+76010000	Manly Amulet	Lacrima – G5
+77010000	Manly Talisman	Lacrima – G5
+78010000	Manly Core	Lacrima – G5
+79010000	Icy Lacrima	Lacrima – G5
+7A010000	Icy Charm	Lacrima – G5
+7B010000	Icy Amulet	Lacrima – G5
+7C010000	Icy Talisman	Lacrima – G5
+7D010000	Icy Core	Lacrima – G5
+7E010000	Lacrima Fragment	Ingredients
+7F010000	Lacrima Shard	Ingredients
+80010000	Lacrima Aggregate	Ingredients
+81010000	Shining Lacrima	Ingredients
+82010000	Fortress **	Lacrima – G5
+83010000	Fortress ***	Lacrima – G5
+84010000	Calm And Collected **	Lacrima – G5
+85010000	Calm And Collected ***	Lacrima – G5
+86010000	Bold As Brass **	Lacrima – G5
+87010000	Bold As Brass ***	Lacrima – G5
+88010000	Sharp As A Tack **	Lacrima – G5
+89010000	Sharp As A Tack ***	Lacrima – G5
+8A010000	Pomp and Circumstance **	Lacrima – G5
+8B010000	Pomp and Circumstance ***	Lacrima – G5
+8C010000	Immovable Object **	Lacrima – G5
+8D010000	Immovable Object ***	Lacrima – G5
+8E010000	Indomitable **	Lacrima – G5
+8F010000	Indomitable ***	Lacrima – G5
+90010000	Army Of One **	Lacrima – G5
+91010000	Army Of One ***	Lacrima – G5
+92010000	Storm And Stress **	Lacrima – G5
+93010000	Storm And Stress ***	Lacrima – G5
+94010000	Fine-Tuned **	Lacrima – G5
+95010000	Fine-Tuned ***	Lacrima – G5
+96010000	Lacrima Basics for Dummies	Valuables
+97010000	Lacrima Journal: Volume 1	Valuables
+98010000	Lacrima Application For Dummies	Valuables
+99010000	Lacrima journal: Special Issue	Valuables
+9A010000	Lacrima Development for Dummies	Valuables
+9B010000	Lacrima Journal: Final Issue	Valuables
+9C010000	Mastering Lacrima Research	Valuables
+9D010000	Illustrated History of Magic	Valuables
+9E010000	Trends From the Magic World	Valuables
+9F010000	Secrets of the Dragon Slayers	Valuables
+A0010000	Idiot-Proof Guide to Dating	Valuables
+A1010000	Fiore's Most Popular Wizards	Valuables
+A2010000	Lookin’ Good With Lacrima	Valuables
+A3010000	Dangerous Fauna Guide	Valuables
+A4010000	The Grammer Of Magic	Valuables
+A5010000	Manly Guide To Fighting Wild	Valuables
+A6010000	The Ice-Make Wizard’s Bible	Valuables
+A7010000	Grace Befitting a King	Valuables
+A8010000	The Stars' Guidance	Valuables
+A9010000	Armours Around the World	Valuables
+AA010000	Etherious Rituals	Valuables
+AB010000	Ballard of the Great Hero	Valuables
+AC010000	Gold Celestial Spriit Key	Valuables
+[/Item]

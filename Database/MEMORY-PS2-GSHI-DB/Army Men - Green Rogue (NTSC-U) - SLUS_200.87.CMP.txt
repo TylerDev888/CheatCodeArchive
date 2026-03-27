@@ -1,0 +1,56 @@
+^3 = NAME: Army Men - Green Rogue (NTSC-U)
+^2 = GameID: SLUS-20087
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F010403C 0010403F
++(M) Must Be On
+%Credits: InterAct
+$F010403C 000001FD
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100040 001209A7
+!!
+!Bio Strike Codes:
++Infinite Bio Strike
+%Credits: Codejunkies
+$00227FC4 00000008
++Never Have Any Bio Strikes
+%Credits: Codejunkies
+$00227FC4 00000000
+!!
++Character Is Invincible
+%Credits: Codejunkies
+$001681D8 00000001
++Infinite Continues P1
+%Credits: Code Master
+$2022609C 00000005
++Infinite Continues P2
+%Credits: Code Master
+$202260A0 00000005
++Infinite Lives P1
+%Credits: Code Master
+$20226094 00000003
++Infinite Lives P2
+%Credits: Code Master
+$20226098 00000003
++Max Bio Level P1
+%Credits: Code Master
+$20227FC4 00000009
++Max Bio Level P2
+%Credits: Code Master
+$20227FC8 00000009
++Max Score P1
+%Credits: Code Master
+$2022608C 05F5E0FF
++Max Score P2
+%Credits: Code Master
+$20226090 05F5E0FF
++Quick Score Gain P1
+%Credits: Code Master
+$1022608C 000000FF
++Quick Score Gain P2
+%Credits: Code Master
+$10226090 000000FF
+!!
+

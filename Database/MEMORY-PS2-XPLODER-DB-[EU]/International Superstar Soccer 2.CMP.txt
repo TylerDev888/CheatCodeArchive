@@ -1,0 +1,31 @@
+^3 = NAME: International Superstar Soccer 2
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 00121FC7
+!!
+!Other:
++Goalie Never Moves
+%Credits: Xploder
+$102DD870 2809401D
+!!
+!Player 1:
++Scores 9 Goals
+%Credits: Xploder
+$D02B5502 0000FBFF
+$002D9910 28096809
++Score No Goals
+%Credits: Xploder
+$D02B5502 0000FEFF
+$002D9910 28096800
+!!
+!Player 2:
++Scores 9 Goals
+%Credits: Xploder
+$D02B5502 0000F7FF
+$002DAD88 28096809
++Scores No Goals
+%Credits: Xploder
+$D02B5502 0000FDFF
+$002DAD88 28096800
+!!

@@ -1,0 +1,258 @@
+^3 = NAME: Kinnikuman Generations (Ntsc-J)
+^2 = GameID: SLPS-20369
+!Master Codes:
++Master Code
+%Credits: BigBossman
+$90299BF8 0C0A66A6
++Master Code (Alternate)
+%Credits: BigBossman
+$90100560 0C0A1ADC
+!!
++P1 Press Select To Stand Up Instantly {<I>Don&#39;T Activate The Code When You Are Being Pinned.</I>}
+%Credits: BigBossman
+$D142C782 0000FFFE
+$002BC50C 00000001
++P2 Press Select To Stand Up Instantly
+%Credits: BigBossman
+$D142C882 0000FFFE
+$002BD024 00000001
++P3 Press Select To Stand Up Instantly
+%Credits: BigBossman
+$D142C982 0000FFFE
+$002BDB3C 00000001
++P4 Press Select To Stand Up Instantly
+%Credits: BigBossman
+$D142CA82 0000FFFE
+$002BE654 00000001
++Player 1 Attire Modifier {<I>Not Every Character Has An Alternate Attire. If A Character Is Designated To Have An Alternate Attire, But Doesn&#39;T Have One &Amp; Is Selected, A Different Character Will Take Their Place Even If It Hasn&#39;T Been Unlocked Yet. Values: 00 - Normal Attire 01 - Alternate Attire (If Available)</I>}
+%Credits: BigBossman
+$00423F24 000000??
++Player 1 Character Modifier (Alternate) {<I>Values -  00 - Kid Muscle 01 - Terry Kenyon 02 - Wally Tusket 03 - Dik Dik Van Dik 04 - Kevin Mask 05 - Jaeger 06 - Checkmate 07 - Eskara 08 - Hanzo 09 - Bone Cold 0A - King Muscle 0B - Terryman 0C - Ramenman 0D - Buffaloman 0E - Robin Mask 0F - Broken Jr. 10 - Sunshine 11 - Warsman 12 - Ninja Ned 13 - Skullduggery 14 - Shivano 15 - Manitoban 16 - Specialman 17 - Blackhole 18 - Starface 19 - Sosumi 1A - Bettelebomb 1B - Neptuneman 1C - Big Budo 1D - Prince Lou Ow 1E - Rogue Shogun 1F - Lord Muscle 20 - Lord Wrangler 21 - Lomeinman 22 - Barracuda 23 - Poseidon 24 - Sunshine Supreme 25 - Commander King 26 - Street Scapper 27 - Buffalo Rampage 28 - Gold Rogue 29 - Grandpa 2A - Vance Mcmadd 2B - Comrade Turbinski 2C - Ricardo 2D - Chojin Kid 2E - Lord Flash 2F - Ricardo, Lord Of Darkness 30 - Froze</I>}
+%Credits: BigBossman
+$00423F14 000000??
++Player 1 Infinite Chojin Power
+%Credits: BigBossman
+$102BC550 00000A00
++Player 1 Infinite Health
+%Credits: BigBossman
+$102BC548 00000960
++Player 1 Infinite Muscle Power
+%Credits: BigBossman
+$202BC560 451C4000
++Player 1 Is Stunned After 1 Hit
+%Credits: BigBossman
+$002BC55A 00000001
++Player 1 Modifier {<I>Values -<Br>00 - Kid Muscle<Br>01 - Terry Kenyon<Br>02 - Wally Tusket<Br>03 - Dik Dik Van Dik<Br>04 - Kevin Mask<Br>05 - Jeager<Br>06 - Checkmate<Br>07 - Eskara<Br>08 - Hanzo<Br>09 - Bone Cold<Br>0A - King Muscle (Red Trunks)<Br>0B - King Muscle (White Trunks)<Br>0C - Terryman (Blue Trunks)<Br>0D - Terryman (Red Trunks)<Br>0E - Ramenman (With Shirt)<Br>0F - Ramenman (Shirtless)<Br>10 - Buffaloman (With Both Horns, No Shoulder Pad)<Br>11 - Buffaloman (With Broken Horn &Amp; Shoulder Pad)<Br>12 - Robin Mask (Silver &Amp; Red Attire)<Br>13 - Robin Mask (Purple &Amp; Red Top &Amp; Mask With Black Trunks)<Br>14 - Brocken Jr. (Green Attire)<Br>15 - Brocken Jr. (Forest Green Attire)<Br>16 - Sunshine<Br>17 - Warsman (Black &Amp; Brown Attire)<Br>18 - Warsman (Black &Amp; Gray Attire)<Br>19 - Ninja Ned<Br>1A - Skullduggery<Br>1B - Shivano (Blue Skin )<Br>1C - Shivano (Flesh Colored )<Br>1D - Manitoban (Red &Amp; White Attire)<Br>1E - Manitoban (Green &Amp; White Attire)<Br>1F - Specialman (Gray Attire)<Br>20 - Specialman (Blue Shirt With Flesh Colored Pants &Amp; Blue Trim)<Br>21 - Blackhole<Br>22 - Starface<Br>23 - Sosumi<Br>24 - Beetlebomb (Yellow Trunks)<Br>25 - Beetlebomb (Red Trunks)<Br>26 - Neptuneman (Red Vest, White Leggings<Br>27 - Neptuneman (Green Vest, Yellow Leggings)<Br>28 - Big Budo (Green Top, White Chest Plate, &Amp; Blue Pants)<Br>29 - Big Budo (Blue Top, Red Chest Plate, &Amp; White Pants)<Br>2A - Prince Lou Ow<Br>2B - Rogue Shogun<Br>2C - Lord Muscle<Br>2D - Lord Wrangler<Br>2E - Lomeinman (Green Attire)<Br>2F - Lomeinman (Red Attire With Shoulder Pad)<Br>30 - Barracuda<Br>31 - Poseidon (Green Top, White Chest Plate, &Amp; Blue Pants)5<Br>32 - Poseidon (Blue Top, Red Chest Plate, &Amp; White Pants)<Br>33 - Sunshine Supreme<Br>34 - Commander King Muscle<Br>35 - Street Scrapper<Br>36 - Buffalo Rampage<Br>37 - Gold Rogue<Br>38 - Grandpa<Br>39 - Grandpa (Warsman Attire)<Br>3A - Vance Mcmadd<Br>3B - Comrade Turbinski<Br>3C - Ricardo<Br>3D - Chojin Kid New Costume<Br>3E - Lord Flash<Br>3F - Ricardo Lord Of Darkness</I>}
+%Credits: BigBossman
+$002BA764 000000??
++Player 2 Attire Modifier
+%Credits: BigBossman
+$00423F28 000000??
++Player 2 Character Modifier (Alternate)
+%Credits: BigBossman
+$00423F18 000000??
++Player 2 Infinite Chojin Power
+%Credits: BigBossman
+$102BD068 00000A00
++Player 2 Infinite Health
+%Credits: BigBossman
+$102BD060 00000960
++Player 2 Infinite Muscle Power
+%Credits: BigBossman
+$202BD078 451C4000
++Player 2 Is Stunned After 1 Hit
+%Credits: BigBossman
+$002BD072 00000001
++Player 2 Modifier
+%Credits: BigBossman
+$002BA768 000000??
++Player 3 Attire Modifier
+%Credits: BigBossman
+$00423F2C 000000??
++Player 3 Character Modifier (Alternate)
+%Credits: BigBossman
+$00423F1C 000000??
++Player 3 Infinite Chojin Power
+%Credits: BigBossman
+$102BDB80 00000A00
++Player 3 Infinite Health
+%Credits: BigBossman
+$102BDB78 00000960
++Player 3 Infinite Muscle Power
+%Credits: BigBossman
+$202BDB90 451C4000
++Player 3 Is Stunned After 1 Hit
+%Credits: BigBossman
+$002BDB8A 00000001
++Player 3 Modifier
+%Credits: BigBossman
+$002BA76C 000000??
++Player 4 Attire Modifier
+%Credits: BigBossman
+$00423F30 000000??
++Player 4 Character Modifier (Alternate)
+%Credits: BigBossman
+$00423F20 000000??
++Player 4 Infinite Chojin Power
+%Credits: BigBossman
+$102BE698 00000A00
++Player 4 Infinite Health
+%Credits: BigBossman
+$102BE690 00000960
++Player 4 Infinite Muscle Power
+%Credits: BigBossman
+$202BE6A8 451C4000
++Player 4 Is Stunned After 1 Hit
+%Credits: BigBossman
+$002CE6A2 00000001
++Player 4 Modifier
+%Credits: BigBossman
+$002BA770 000000??
+!Unlock Character Codes:
++Barracuda
+%Credits: BigBossman
+$102B0800 00000001
++Beetlebomb
+%Credits: BigBossman
+$102B07E0 00000001
++Big Budo
+%Credits: BigBossman
+$102B07E8 00000001
++Blackhole
+%Credits: BigBossman
+$102B07D4 00000001
++Bone Cold
+%Credits: BigBossman
+$102B079C 00000001
++Brocken Jr.
+%Credits: BigBossman
+$102B07B4 00000001
++Buffalo Man
+%Credits: BigBossman
+$102B07AC 00000001
++Buffalo Rampage
+%Credits: BigBossman
+$102B0814 00000001
++Checkmate
+%Credits: BigBossman
+$102B0790 00000001
++Chojin Kid
+%Credits: BigBossman
+$102B082C 00000001
++Commander King Muscle
+%Credits: BigBossman
+$102B080C 00000001
++Comrade Turbinski
+%Credits: BigBossman
+$102B0824 00000001
++Dik Dik Van Dik
+%Credits: BigBossman
+$102B0784 00000001
++Eskara
+%Credits: BigBossman
+$102B0794 00000001
++Gold Rogue
+%Credits: BigBossman
+$102B0818 00000001
++Grandpa
+%Credits: BigBossman
+$102B081C 00000001
++Hanzo
+%Credits: BigBossman
+$102B0798 00000001
++Jeager
+%Credits: BigBossman
+$102B078C 00000001
++Kevin Mask
+%Credits: BigBossman
+$102B0788 00000001
++Kid Muscle
+%Credits: BigBossman
+$102B0778 00000001
++King Muscle
+%Credits: BigBossman
+$102B07A0 00000001
++Lomeinman
+%Credits: BigBossman
+$102B07FC 00000001
++Lord Flash
+%Credits: BigBossman
+$102B0830 00000001
++Lord Muscle
+%Credits: BigBossman
+$102B07F4 00000001
++Lord Wrangler
+%Credits: BigBossman
+$102B07F8 00000001
++Manitoban
+%Credits: BigBossman
+$102B07CC 00000001
++Neptuneman
+%Credits: BigBossman
+$102B07E4 00000001
++Ninja Ned
+%Credits: BigBossman
+$102B07C0 00000001
++Poseidon
+%Credits: BigBossman
+$102B0804 00000001
++Prince Lou Ow
+%Credits: BigBossman
+$102B07EC 00000001
++Ramenman
+%Credits: BigBossman
+$102B07A8 00000001
++Ricardo
+%Credits: BigBossman
+$102B0828 00000001
++Ricardo Lord Of Darkness
+%Credits: BigBossman
+$102B0834 00000001
++Robin Mask
+%Credits: BigBossman
+$102B07B0 00000001
++Rogue Shogun
+%Credits: BigBossman
+$102B07F0 00000001
++Shivano
+%Credits: BigBossman
+$102B07C8 00000001
++Skullduggery
+%Credits: BigBossman
+$102B07C4 00000001
++Sosumi
+%Credits: BigBossman
+$102B07DC 00000001
++Specialman
+%Credits: BigBossman
+$102B07D0 00000001
++Starface
+%Credits: BigBossman
+$102B07D8 00000001
++Street Scapper
+%Credits: BigBossman
+$102B0810 00000001
++Sunshine
+%Credits: BigBossman
+$102B07B8 00000001
++Sunshine Supreme
+%Credits: BigBossman
+$102B0808 00000001
++Terry Kenyon
+%Credits: BigBossman
+$102B077C 00000001
++Terryman
+%Credits: BigBossman
+$102B07A4 00000001
++Vance Mcmadd
+%Credits: BigBossman
+$102B0820 00000001
++Wally Tusket
+%Credits: BigBossman
+$102B0780 00000001
++Warsman
+%Credits: BigBossman
+$102B07BC 00000001
+!!
+!!
+

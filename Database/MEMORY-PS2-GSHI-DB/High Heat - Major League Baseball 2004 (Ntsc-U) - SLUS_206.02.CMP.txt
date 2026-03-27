@@ -1,0 +1,517 @@
+^3 = NAME: High Heat - Major League Baseball 2004 (Ntsc-U)
+^2 = GameID: SLUS-20602
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 003B5C27
++[M] Must Be On
+%Credits: Codejunkies
+$F03B5C24 003B5C27
+!!
+!Away Team Only:
++1 Ball To Walk
+%Credits: Codejunkies
+$D19765B4 00000001
+$D19765C0 00000000
+$119765C0 00000003
++1 Out Per Inning
+%Credits: Codejunkies
+$D19765B4 00000001
+$D19765BC 00000000
+$119765BC 00000002
++1 Strike Per Out
+%Credits: Codejunkies
+$D19765B4 00000001
+$D19765C4 00000000
+$119765C4 00000002
++2 Balls To Walk
+%Credits: Codejunkies
+$D19765B4 00000001
+$D19765C0 00000000
+$119765C0 00000002
++2 Outs Per Inning
+%Credits: Codejunkies
+$D19765B4 00000001
+$D19765BC 00000000
+$119765BC 00000001
++2 Strikes Per Out
+%Credits: Codejunkies
+$D19765B4 00000001
+$D19765C4 00000000
+$119765C4 00000001
++3 Balls To Walk
+%Credits: Codejunkies
+$D19765B4 00000001
+$D19765C0 00000000
+$119765C0 00000001
++Ball Crushed
+%Credits: Codejunkies
+$D19765B4 00000001
+$103E6DC6 00004400
++Ball Tapped
+%Credits: Codejunkies
+$D19765B4 00000001
+$103E6DC6 000041A0
++Every Hit-1B
+%Credits: Codejunkies
+$D19765B4 00000001
+$103E6DD0 00000003
++Every Hit-2B
+%Credits: Codejunkies
+$D19765B4 00000001
+$103E6DD0 00000004
++Every Hit-3B
+%Credits: Codejunkies
+$D19765B4 00000001
+$103E6DD0 00000005
++Every Hit-Fly Out
+%Credits: Codejunkies
+$D19765B4 00000001
+$103E6DD0 00000008
++Every Hit-Foul
+%Credits: Codejunkies
+$D19765B4 00000001
+$103E6DD0 00000002
++Every Hit-Hr
+%Credits: Codejunkies
+$D19765B4 00000001
+$103E6DD0 00000006
++Every Hit-Weak
+%Credits: Codejunkies
+$D19765B4 00000001
+$103E6DD0 00000001
++High Winds
+%Credits: Codejunkies
+$D19765B4 00000001
+$1041A146 00004400
++Never Make Contact
+%Credits: Codejunkies
+$D19765B4 00000001
+$103E6DD0 00000000
++No Balls
+%Credits: Codejunkies
+$D19765B4 00000001
+$119765C0 00000000
++No Strikes
+%Credits: Codejunkies
+$D19765B4 00000001
+$119765C4 00000000
++Wind Behind Batter
+%Credits: Codejunkies
+$D19765B4 00000001
+$2041A140 43B40000
+!!
+!Away Team Only Codes:
++1 Ball And You Walk
+%Credits: Code Master
+$E0020001 019765B4
+$D19765C0 00000000
+$119765C0 00000003
++1 Out And You Are Out
+%Credits: Code Master
+$E0020001 019765B4
+$D19765BC 00000000
+$119765BC 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020001 019765B4
+$D19765C4 00000000
+$119765C4 00000002
++2 Balls And You Walk
+%Credits: Code Master
+$E0020001 019765B4
+$D19765C0 00000000
+$119765C0 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020001 019765B4
+$D19765BC 00000000
+$119765BC 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020001 019765B4
+$D19765C4 00000000
+$119765C4 00000001
++3 Balls And You Walk
+%Credits: Code Master
+$E0020001 019765B4
+$D19765C0 00000000
+$119765C0 00000001
++Always Full Count
+%Credits: Code Master
+$E0020001 019765B4
+$119765C0 00000003
+$119765C4 00000002
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030001 019765B4
+$119765BC 00000002
+$119765C0 00000003
+$119765C4 00000002
++Infinite Outs
+%Credits: Code Master
+$D19765B4 00000001
+$119765BC 00000000
+!!
+!Away Team Score:
++Away Scores 0
+%Credits: Codejunkies
+$119765D0 00000000
++Away Scores 50
+%Credits: Codejunkies
+$119765D0 00000032
+!!
+!Away Team Starts With...:
++10 Runs
+%Credits: Codejunkies
+$D19765D0 00000000
+$119765D0 0000000A
++2 Runs
+%Credits: Codejunkies
+$D19765D0 00000000
+$119765D0 00000002
++5 Runs
+%Credits: Codejunkies
+$D19765D0 00000000
+$119765D0 00000005
+!!
+!Both Team Codes:
++1 Ball And You Walk
+%Credits: Code Master
+$D19765C0 00000000
+$119765C0 00000003
++1 Out And You Are Out
+%Credits: Code Master
+$D19765BC 00000000
+$119765BC 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$D19765C4 00000000
+$119765C4 00000002
++2 Balls And You Walk
+%Credits: Code Master
+$D19765C0 00000000
+$119765C0 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$D19765BC 00000000
+$119765BC 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$D19765C4 00000000
+$119765C4 00000001
++3 Balls And You Walk
+%Credits: Code Master
+$D19765C0 00000000
+$119765C0 00000001
++Always Full Count
+%Credits: Code Master
+$119765C0 00000003
+$119765C4 00000002
++Always Full Count & 2 Outs
+%Credits: Code Master
+$119765BC 00000002
+$119765C0 00000003
+$119765C4 00000002
++Infinite Balls
+%Credits: Code Master
+$119765C0 00000000
++Infinite Outs
+%Credits: Code Master
+$119765BC 00000000
++Infinite Strikes
+%Credits: Code Master
+$119765C4 00000000
++Ball Crushed
+%Credits: Codejunkies
+$103E6DC6 00004400
++Ball Tapped
+%Credits: Codejunkies
+$103E6DC6 000041A0
++Every Hit-1B
+%Credits: Codejunkies
+$103E6DD0 00000003
++Every Hit-2B
+%Credits: Codejunkies
+$103E6DD0 00000004
++Every Hit-3B
+%Credits: Codejunkies
+$103E6DD0 00000005
++Every Hit-Fly Out
+%Credits: Codejunkies
+$103E6DD0 00000008
++Every Hit-Foul
+%Credits: Codejunkies
+$103E6DD0 00000002
++Every Hit-Hr
+%Credits: Codejunkies
+$103E6DD0 00000006
++Every Hit-Weak
+%Credits: Codejunkies
+$103E6DD0 00000001
++High Winds
+%Credits: Codejunkies
+$103DD7A6 00004400
+$1041A146 00004400
++High Winds
+%Credits: Codejunkies
+$1041A146 00004400
++Home Scores 0
+%Credits: Codejunkies
+$119765CC 00000000
++Home Scores 50
+%Credits: Codejunkies
+$119765CC 00000032
++Home Start W/10
+%Credits: Codejunkies
+$D19765CC 00000000
+$119765CC 0000000A
++Home Start W/2
+%Credits: Codejunkies
+$D19765CC 00000000
+$119765CC 00000002
++Home Start W/5
+%Credits: Codejunkies
+$D19765CC 00000000
+$119765CC 00000005
++Never Make Contact
+%Credits: Codejunkies
+$103E6DD0 00000000
++Start In 2Nd Inning
+%Credits: Codejunkies
+$D19765B8 00000001
+$119765B8 00000002
++Start In 3Rd Inning
+%Credits: Codejunkies
+$D19765B8 00000001
+$119765B8 00000003
++Start In 4Th Inning
+%Credits: Codejunkies
+$D19765B8 00000001
+$119765B8 00000004
++Start In 5Th Inning
+%Credits: Codejunkies
+$D19765B8 00000001
+$119765B8 00000005
++Start In 6Th Inning
+%Credits: Codejunkies
+$D19765B8 00000001
+$119765B8 00000006
++Start In 7Th Inning
+%Credits: Codejunkies
+$D19765B8 00000001
+$119765B8 00000007
++Start In 8Th Inning
+%Credits: Codejunkies
+$D19765B8 00000001
+$119765B8 00000008
++Start In 9Th Inning
+%Credits: Codejunkies
+$D19765B8 00000001
+$119765B8 00000009
++Wind Behind Batter
+%Credits: Codejunkies
+$2041A140 43B40000
+!!
+!Do Not Use More Than One Code For The Home Team Or The Away Team. If A Generic Code Is Used, Then No Others Should Be Activated With It!:
++1 Ball To Walk For The Home Team Only
+%Credits: Codejunkies
+$E0020000 019765B4
+$D19765C0 00000000
+$119765C0 00000003
++1 Out Per Inning For The Home Team Only
+%Credits: Codejunkies
+$E0020000 019765B4
+$D19765BC 00000000
+$119765BC 00000002
++1 Strike Per Out For The Home Team Only
+%Credits: Codejunkies
+$E0020000 019765B4
+$D19765C4 00000000
+$119765C4 00000002
++2 Balls To Walk For The Home Team Only
+%Credits: Codejunkies
+$E0020000 019765B4
+$D19765C0 00000000
+$119765C0 00000002
++2 Outs Per Inning For The Home Team Only
+%Credits: Codejunkies
+$E0020000 019765B4
+$D19765BC 00000000
+$119765BC 00000001
++2 Strikes Per Out For The Home Team Only
+%Credits: Codejunkies
+$E0020000 019765B4
+$D19765C4 00000000
+$119765C4 00000001
++3 Balls To Walk For The Home Team Only
+%Credits: Codejunkies
+$E0020000 019765B4
+$D19765C0 00000000
+$119765C0 00000001
++Every Hit Is A Base Hit For The Home Team Only
+%Credits: Codejunkies
+$D19765B4 00000000
+$103E6DD0 00000003
++Every Hit Is A Double For The Home Team Only
+%Credits: Codejunkies
+$D19765B4 00000000
+$103E6DD0 00000004
++Every Hit Is A Fly Out For The Home Team Only
+%Credits: Codejunkies
+$D19765B4 00000000
+$103E6DD0 00000008
++Every Hit Is A Foul For The Home Team Only
+%Credits: Codejunkies
+$D19765B4 00000000
+$103E6DD0 00000002
++Every Hit Is A Home Run For The Home Team Only
+%Credits: Codejunkies
+$D19765B4 00000000
+$103E6DD0 00000006
++Every Hit Is A Triple For The Home Team Only
+%Credits: Codejunkies
+$D19765B4 00000000
+$103E6DD0 00000005
++Every Hit Is Weak For The Home Team Only
+%Credits: Codejunkies
+$D19765B4 00000000
+$103E6DD0 00000001
++High Winds For The Home Team Only
+%Credits: Codejunkies
+$D19765B4 00000000
+$1041A146 00004400
++Never Make Contact For The Home Team Only
+%Credits: Codejunkies
+$D19765B4 00000000
+$103E6DD0 00000000
++No Balls For The Home Team Only
+%Credits: Codejunkies
+$D19765B4 00000000
+$119765C0 00000000
++No Strikes For The Home Team Only
+%Credits: Codejunkies
+$D19765B4 00000000
+$119765C4 00000000
++The Ball Is Crushed For The Home Team Only
+%Credits: Codejunkies
+$D19765B4 00000000
+$103E6DC6 00004400
++The Ball Is Tapped For The Home Team Only
+%Credits: Codejunkies
+$D19765B4 00000000
+$103E6DC6 000041A0
++The Wind Is Behind The Batter For The Home Team Only
+%Credits: Codejunkies
+$D19765B4 00000000
+$2041A140 43B40000
+!!
+!Home Team Only:
++1 Ball To Walk
+%Credits: Codejunkies
+$D19765B4 00000000
+$D19765C0 00000000
+$119765C0 00000003
++1 Out Per Inning
+%Credits: Codejunkies
+$D19765B4 00000000
+$D19765BC 00000000
+$119765BC 00000002
++1 Strike Per Out
+%Credits: Codejunkies
+$D19765B4 00000000
+$D19765C4 00000000
+$119765C4 00000002
++2 Balls To Walk
+%Credits: Codejunkies
+$D19765B4 00000000
+$D19765C0 00000000
+$119765C0 00000002
++2 Outs Per Inning
+%Credits: Codejunkies
+$D19765B4 00000000
+$D19765BC 00000000
+$119765BC 00000001
++2 Strikes Per Out
+%Credits: Codejunkies
+$D19765B4 00000000
+$D19765C4 00000000
+$119765C4 00000001
++3 Balls To Walk
+%Credits: Codejunkies
+$D19765B4 00000000
+$D19765C0 00000000
+$119765C0 00000001
+!!
+!Home Team Only Codes:
++Always Full Count
+%Credits: Code Master
+$E0020000 019765B4
+$119765C0 00000003
+$119765C4 00000002
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030000 019765B4
+$119765BC 00000002
+$119765C0 00000003
+$119765C4 00000002
++Infinite Outs
+%Credits: Code Master
+$D19765B4 00000000
+$119765BC 00000000
+!!
++Away Team Score Modifier
+%Credits: Code Master
+$119765D0 0000????
++Away Team Start With Runs Modifier
+%Credits: Code Master
+$D19765D0 00000000
+$119765D0 0000????
++Away Team Wins Instantly {<I>Pressr1+R2 To Activate.</I>}
+%Credits: Codejunkies
+$D0591382 0000F5FF
+$119765CC 00000000
+$D0591382 0000F5FF
+$119765D0 00000032
++Home Team Score Modifier
+%Credits: Code Master
+$119765CC 0000????
++Home Team Start With Runs Modifier
+%Credits: Code Master
+$D19765CC 00000000
+$119765CC 0000????
++Home Team Wins Instantly {<I>Press L1+L2 To Activate.</I>}
+%Credits: Codejunkies
+$D0591382 0000FAFF
+$119765CC 00000032
+$D0591382 0000FAFF
+$119765D0 00000000
++P1 Press L1+R1 For No Outs, No Strikes & 3 Balls
+%Credits: Code Master
+$E003F3FF 00591382
+$119765BC 00000000
+$119765C0 00000003
+$119765C4 00000000
++P1 Press L2+R2 For 2 Outs, 2 Strikes & No Balls
+%Credits: Code Master
+$E003FCFF 00591382
+$119765BC 00000002
+$119765C0 00000000
+$119765C4 00000002
++P2 Press L1+R1 For No Outs, No Strikes & 3 Balls
+%Credits: Code Master
+$E003F3FF 00591482
+$119765BC 00000000
+$119765C0 00000003
+$119765C4 00000000
++P2 Press L2+R2 For 2 Outs, 2 Strikes & No Balls
+%Credits: Code Master
+$E003FCFF 00591482
+$119765BC 00000002
+$119765C0 00000000
+$119765C4 00000002
++Start On Inning Modifier (02-09)
+%Credits: Code Master
+$D19765B8 00000001
+$119765B8 000000??
+!!

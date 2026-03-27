@@ -1,0 +1,73 @@
+^1 = HASH: E157ACB8
+^3 = NAME: Monsters, Inc.
+^2 = GameID: SCUS_971.23
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master>StalkerX
+$F0100008 00159457
+!!
+!Codes:
++Start With 999 Screams
+%Credits: Code Master>StalkerX
+$D0B00620 00000000
+$10B00620 000003E7
++Get 1 Scream For 999 Screams
+%Credits: Code Master>StalkerX
+$D0B00620 00000001
+$10B00620 000003E7
++Infinite Health
+%Credits: Code Master>StalkerX
+$10B00622 00000005
++Start With 4 Canisters
+%Credits: Code Master>StalkerX
+$D0B00628 00000000
+$10B00628 00000004
++Start With 4 Mice
+%Credits: Code Master>StalkerX
+$D0B0062A 00000000
+$10B0062A 00000004
++Always Have 999 Screams
+%Credits: Code Master>StalkerX
+$201BB090 240303E7
+$201BB09C A6630010
+!!
+!Unlock Level Codes:
++Mailroom
+%Credits: Code Master>StalkerX
+$20AFD928 00000001
++Main Street
+%Credits: Code Master>StalkerX
+$20AFD950 00000001
++Sulley's Apartment
+%Credits: Code Master>StalkerX
+$20AFD978 00000001
++Garbage Disposal
+%Credits: Code Master>StalkerX
+$20AFD9B4 00000001
++Himalayas
+%Credits: Code Master>StalkerX
+$20AFD9F0 00000001
++Door Vault
+%Credits: Code Master>StalkerX
+$20AFDA04 00000001
++Showdown
+%Credits: Code Master>StalkerX
+$20AFDA18 00000001
+!!
+!Unlock Bonus Level Codes:
++Tot Bot Scare Fair
+%Credits: Code Master>StalkerX
+$20AFD944 00000032
++Canister Catastrophe
+%Credits: Code Master>StalkerX
+$20AFD96C 0000003C
++Closet Chaos
+%Credits: Code Master>StalkerX
+$20AFD9A8 00000046
++Furry Scurry
+%Credits: Code Master>StalkerX
+$20AFD9E4 00000050
++Yeti Says
+%Credits: Code Master>StalkerX
+$20AFD9F8 0000005A
+!!

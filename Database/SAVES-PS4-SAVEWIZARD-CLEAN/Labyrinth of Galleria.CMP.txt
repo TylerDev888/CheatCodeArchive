@@ -1,0 +1,3749 @@
+^2 = GameID: CUSA13995,CUSA32312,CUSA32313
+^3 = NAME: Labyrinth of Galleria 
+^4 = FILE: data[0-9]+\.bin
++Set Games Version Number to 1.00 for Re-Regioning
+$20000000 00000100
++Item - Amount Mod
+$80010004 [Item]
+$08000004 000000[AMOUNT:63:HEX:BIG<Amount>]
++Item/Equipment Swap (Swap with same type)
+$80010004 [Item<Item You have>]
+$A8000000 00000004
+$[Item<Item You have>] 00000000
++Max HP First 50 Puppets
+$42000470 0001869F
+$40320473 00000000
++Max DP First 50 Puppets
+$42000474 0001869F
+$40320473 00000000
++Max Strength First 50 Puppets
+$42000478 0001869F
+$40320473 00000000
++Max Constitution First 50 puppets
+$4200047C 0001869F
+$40320473 00000000
++Max DMP First 50 puppets
+$42000480 0001869F
+$40320473 00000000
++Max Agility First 50 puppets
+$42000484 0001869F
+$40320473 00000000
++Max Dexterity First 50 puppets
+$42000488 0001869F
+$40320473 00000000
++Max Charm First 50 puppets
+$4200048C 0001869F
+$40320473 00000000
++Max Luck First 50 puppets
+$42000490 0001869F
+$40320473 00000000
++Progress Points
+$200EA599 0001869F
++Pact Exp
+$80[AMOUNT:01:HEX:BIG<Instance>]0004 [Pact]
+$18000031 0000[AMOUNT:270F:HEX:BIG<Amount>]
++Change Number Of Pact Skill Slots
+$80[AMOUNT:01:HEX:BIG<Instance>]0004 [Pact]
+$08000033 000000[AMOUNT:0A:HEX:BIG<Instance>]
++Edit Pact Skills
+$80[AMOUNT:01:HEX:BIG<Instance>]0004 [Pact]
+$18000044 0000[Skill<Skill 1>]
+$18000048 0000[Skill<Skill 2>]
+$1800004C 0000[Skill<Skill 3>]
+$18000050 0000[Skill<Skill 4>]
+$18000054 0000[Skill<Skill 5>]
+$18000058 0000[Skill<Skill 6>]
+$1800005C 0000[Skill<Skill 7>]
+$18000060 0000[Skill<Skill 8>]
+$18000064 0000[Skill<Skill 9>]
+$18000068 0000[Skill<Skill 10>]
+
+^6 = MODS:
+[Item]
+Value>Item Name>Type
+898A0100	Mugwort Balm	Consumable - HP
+8A8A0100	Mandragora Balm	Consumable - HP
+8B8A0100	Mana Balm	Consumable - HP
+8C8A0100	Mugwart Soul Balm	Consumable - HP
+8D8A0100	Mandragora Soul Balm	Consumable - HP
+8E8A0100	Mana Soul Balm	Consumable - HP
+8F8A0100	Lunar Peach Revival	Consumable - HP
+908A0100	Pupper Repair Solution	Consumable - HP
+918A0100	Body Repair Bug	Consumable - HP
+928A0100	Moon Serpent's Blood	Consumable - HP
+938A0100	E's Special Basket	Consumable - HP
+948A0100	E's Cheese Sandwich	Consumable - HP
+958A0100	E's Sourdough	Consumable - HP
+968A0100	E's Tomato Quiche	Consumable - HP
+978A0100	E's Bacon Salad	Consumable - HP
+988A0100	E's Woodfired Lasagna	Consumable - HP
+998A0100	E's Mutton Stew	Consumable - HP
+9A8A0100	E's Classic Coupe	Consumable - HP
+9B8A0100	E's Chicken Leg	Consumable - HP
+9C8A0100	E's Olive Pizza	Consumable - HP
+9D8A0100	E's Herb Pie	Consumable - HP
+718E0100	Jitter Bug	Consumable - Revive
+728E0100	E's Energy Milk	Consumable - Revive
+59920100	Poison Tonic	Consumable - Heal Poison
+41960100	Confuse Tonic	Consumable - Heal Confuse
+299A0100	Abyss Tonic	Consumable - Heal Abyss
+119E0100	Stench Tonic	Consumable - Heal Stench
+F9A10100	Panacea Pills	Consumable - Heals All
+FAA10100	E's Berry Cake	Consumable - Heals All
+B1AD0100	Crunch Garlic	Consumable - Battle - Less Attacks On You
+B2AD0100	E's Cheese	Consumable - Battle - Less Attacks On You
+99B10100	Platinum Spoon	Consumable - Field - Less Battles
+9AB10100	Golden Spoon	Consumable - Field - Less Battles
+9BB10100	Silver Spoon	Consumable - Field - Less Battles
+9CB10100	E's Honeycomb	Consumable - Field - Less Battles
+81B50100	Love Perfume	Consumable - Battle - Increases Rapport
+82B50100	Infatuating Perfume	Consumable - Battle - Increases Rapport
+83B50100	E's Baked Tart	Consumable - Battle - Increases Rapport
+84B50100	Debug Rapport Up	Consumable - Battle - Increases Rapport
+69B90100	Bat Blood	Consumable - Battle - Decrease Rapport
+6AB90100	Debug Rapport Down	Consumable - Battle - Decrease Rapport
+51BD0100	Daylily Incense	Consumable - Battle - Resets Rapport
+39C10100	Fire Veil	Consumable - Battle
+3AC10100	Fire Robe	Consumable - Battle
+21C50100	Mud Veil	Consumable - Battle
+21C50100	Mud Veil	Consumable - Battle
+22C50100	Mud Robe	Consumable - Battle
+22C50100	Mud Robe	Consumable - Battle
+09C90100	Fog Veil	Consumable - Battle
+0AC90100	Fog Robe	Consumable - Battle
+F1CC0100	Rat Tail	Consumable - Battle
+F2CC0100	E's Pudding	Consumable - Battle
+D9D00100	Bitter Absinthe	Consumable - Battle
+DAD00100	Tunderfrog Bloodwine	Consumable - Battle
+DBD00100	Cantarella Icewine	Consumable - Battle
+DCD00100	E's Berry Donut	Consumable - Battle
+DDD00100	E's Cultured Butter	Consumable - Battle
+DED00100	E's Star Orange	Consumable - Battle
+C1D40100	Witch's Mushroom	Consumable - Battle
+C2D40100	E's Ripened Grapes	Consumable - Battle
+A9D80100	Charred Gecko	Consumable - Battle
+AAD80100	E's Nut Brittle	Consumable - Battle
+91DC0100	Stench Vial	Consumable - Battle
+92DC0100	Poison Vial	Consumable - Battle
+93DC0100	Illusion Vial	Consumable - Battle
+94DC0100	Abyss Vial	Consumable - Battle
+79E00100	Witch's Bell	Consumable - Field
+49E80100	Rock	Loot
+4AE80100	Treasure Chest	Loot
+4BE80100	Cotton-Eating Bug	Loot
+4CE80100	Decayed Bones	Loot
+4DE80100	Lumpy Blue Stone	Loot
+4EE80100	Mudstone	Loot
+4FE80100	Monster Quill	Loot
+50E80100	Green Cheese	Loot
+51E80100	Large Green Pear	Loot
+52E80100	Mana Herb	Loot
+53E80100	Fine Porcelain	Loot
+54E80100	Requiem Incense	Loot
+55E80100	Gemstone	Loot
+56E80100	Pale Moonlit Cup	Loot
+57E80100	Bronze Ingot	Loot
+58E80100	Shiny Pickaxe	Loot
+59E80100	Pupa Coffin	Loot
+5AE80100	All-Rounder Lock	Loot
+5BE80100	Nameless Flower	Loot
+5CE80100	Big Moth	Loot
+5DE80100	Wild Pumpkin	Loot
+5EE80100	Red Brick (Ruined)	Loot
+5FE80100	Demon Mucus	Loot
+60E80100	Mint Tablet	Loot
+61E80100	Ancient Bird's Quill	Loot
+62E80100	Azure Monument	Loot
+63E80100	Magical Mirror	Loot
+64E80100	Intense Catnip	Loot
+66E80100	Radio	Loot
+67E80100	Red Brick (Usable)	Loot
+68E80100	Wicked Idol	Loot
+69E80100	Special Daily Cartier!	Loot
+6AE80100	Golden Moth Statue	Loot
+6BE80100	Rotten Egg	Loot
+6CE80100	Unripe Apple	Loot
+6DE80100	Demon's Claw	Loot
+6EE80100	Iron Ocarina	Loot
+6FE80100	Iron Ore	Loot
+70E80100	Amphora Wine	Loot
+71E80100	Spice Case	Loot
+72E80100	King, Witch , and Thug	Loot
+73E80100	Liquid-Filled Container	Loot
+74E80100	Crimson Monument	Loot
+75E80100	Phoenix Fabric	Loot
+76E80100	Mana Thread	Loot
+77E80100	Golden Apple	Loot
+78E80100	Apse Lock	Loot
+79E80100	100-Day Old Bread	Loot
+7AE80100	Authentic Lens	Loot
+7BE80100	Dams Lauren Painting	Loot
+7CE80100	Teardrop Bitter Tart	Loot
+7DE80100	Giant Monster's Horn	Loot
+7EE80100	Secret Document	Loot
+7FE80100	Protective Beast Idol	Loot
+80E80100	Silver Ingot	Loot
+81E80100	Dead Fish	Loot
+82E80100	Fatty Liver	Loot
+83E80100	Monster Dung	Loot
+84E80100	Magic Carpet	Loot
+85E80100	Monster Bird's Beak	Loot
+86E80100	Colorful Scarf	Loot
+87E80100	Talking Rabbit Plush	Loot
+88E80100	Tattered Undies	Loot
+89E80100	Oddly-Shaped Pen	Loot
+8AE80100	Leather Flash	Loot
+8BE80100	Black Rose	Loot
+8CE80100	Moon Tarot	Loot
+8DE80100	Repository Lock	Loot
+8EE80100	Painting Knife	Loot
+8FE80100	Black Rat Corpse	Loot
+90E80100	Stinky Thing	Loot
+91E80100	Empty Chest	Loot
+92E80100	Moulin Rouge	Loot
+93E80100	Beautiful Molars	Loot
+94E80100	Bad Brandy	Loot
+95E80100	Red Whiskey	Loot
+96E80100	Hanged Man Tarot	Loot
+97E80100	Golden Bug Statue	Loot
+98E80100	Spinster's Scarf	Loot
+99E80100	Pot	Loot
+9AE80100	Sexy Rat Model	Loot
+9BE80100	Clover	Loot
+9CE80100	Greed Leaf	Loot
+9DE80100	Dead Mandragora	Loot
+9EE80100	Red Flower	Loot
+9FE80100	Fake Mandragora	Loot
+A0E80100	Yellow Flower	Loot
+A1E80100	Enemall Seeds	Loot
+A2E80100	Beehive	Loot
+A3E80100	Fool Tarot	Loot
+A4E80100	Kidney Beans	Loot
+A5E80100	Blue Morpho	Loot
+A6E80100	Mandragora	Loot
+A7E80100	Dry Grass	Loot
+A8E80100	Huge Potato	Loot
+A9E80100	Pillbug	Loot
+AAE80100	Roasted Locust	Loot
+ABE80100	Monster Meatbone	Loot
+ACE80100	Large Milk Tank	Loot
+ADE80100	Body Bag	Loot
+AEE80100	Seedling	Loot
+AFE80100	Lamb Sausage	Loot
+B0E80100	Temperance Tarot	Loot
+B1E80100	Golden Locust Statue	Loot
+B2E80100	Yellow Ocarina	Loot
+B3E80100	Tri-Colored Balloons	Loot
+B4E80100	Happy Gift	Loot
+B5E80100	Recorder	Loot
+B6E80100	Black Heels	Loot
+B7E80100	Raw Black Garlic	Loot
+B8E80100	Chocolate Bunny	Loot
+B9E80100	Casu Martzu	Loot
+BAE80100	Sour Honey	Loot
+BBE80100	King's Ring	Loot
+BCE80100	Sun Tarot	Loot
+BDE80100	Big Tongue	Loot
+BEE80100	Witch's Eyeball	Loot
+BFE80100	Randy Candy	Loot
+C0E80100	Devil's Red Fruit	Loot
+C1E80100	Double Cherries Cake	Loot
+C2E80100	See-Through Mirror	Loot
+C3E80100	Fine Bottle of Ale	Loot
+C4E80100	Butter Macaron	Loot
+C5E80100	Panty Scrunchie	Loot
+C6E80100	Present to Myself	Loot
+C7E80100	Fine Wine	Loot
+C8E80100	Star Tarot	Loot
+C9E80100	Final Bacon	Loot
+CAE80100	Sweet Potato Tart	Loot
+CBE80100	Chocolate Coin	Loot
+CCE80100	Rabbit Plush	Loot
+CDE80100	Punishing Whip	Loot
+CEE80100	Dental Pliers	Loot
+CFE80100	Lost Item	Loot
+D0E80100	Tree Frog	Loot
+D1E80100	Cloudy Liquid	Loot
+D2E80100	Thread of Misfortune	Loot
+D3E80100	Magic Blue Thread	Loot
+D4E80100	Azurite Ring	Loot
+D5E80100	Chocolate Acorn	Loot
+D6E80100	Sweet 'n Sour Orange	Loot
+D7E80100	Golden Frog Statue	Loot
+D8E80100	Happiness Share	Loot
+D9E80100	Brittle Heart	Loot
+DAE80100	Gold Ingot	Loot
+DBE80100	Spider Snack	Loot
+DCE80100	Dried Onion	Loot
+DDE80100	Horse Chestnut	Loot
+DEE80100	Dream Candy	Loot
+DFE80100	Wind-Cutting Remex	Loot
+E0E80100	Magic Ink	Loot
+E1E80100	Cloudy Candy	Loot
+E2E80100	Mysterious Hat Box	Loot
+E3E80100	Automaton Gear	Loot
+E4E80100	Golden Spider Statue	Loot
+E5E80100	Witch's Iron Pot	Loot
+E7E80100	Nihilistic Crow Relief	Loot
+E8E80100	Bridal Wreath	Loot
+E9E80100	Galleria Garden Leaf	Loot
+EAE80100	Cute Dung	Loot
+EBE80100	Wild Choker	Loot
+ECE80100	Void Swamp Crab	Loot
+EDE80100	Fermented Leaves	Loot
+EEE80100	Uru Butterfly	Loot
+EFE80100	Berry Macaron	Loot
+F0E80100	Red Magical Gem	Loot
+F1E80100	Epicure Cheese	Loot
+F2E80100	Grand Chamber Pot	Loot
+F3E80100	Red Yarn of Fate	Loot
+F4E80100	White Flower	Loot
+F5E80100	Mint Macaron	Loot
+F6E80100	Void Berry Potato	Loot
+F7E80100	Blue Moon Grass	Loot
+F8E80100	Gray Wig	Loot
+F9E80100	Purgatory Collection	Loot
+FAE80100	Galleria Vase	Loot
+FBE80100	Empress' Burial Urn	Loot
+FCE80100	Kamie's Prayer	Loot
+FDE80100	Birds of 26,000 Worlds	Loot
+FEE80100	Sun Mushroom	Loot
+FFE80100	Ancient Claw	Loot
+00E90100	Old Woman's Cauldron	Loot
+01E90100	Reg Magical Stone	Loot
+02E90100	Magic Bucket	Loot
+03E90100	Holy Keepsake	Loot
+04E90100	Fermented Tomato	Loot
+05E90100	Golden Compass	Loot
+06E90100	Extinct Thick Leather	Loot
+07E90100	Fragrant Dried Bug	Loot
+08E90100	Winter's Witch Stone	Loot
+09E90100	Black Butterfly	Loot
+0AE90100	Celestial Globe	Loot
+0BE90100	Prophet's Staff	Loot
+0CE90100	Witch Misflora	Loot
+0DE90100	Gold Swallow's Thread	Loot
+0EE90100	Scarlet Midnight Sun	Loot
+0FE90100	Old Pocketwatch	Loot
+10E90100	Witch's Stew Pot	Loot
+11E90100	Unknown Bird Bone	Loot
+12E90100	Unknown Human Bone	Loot
+13E90100	Mana Frog	Loot
+14E90100	School Leather Bag	Loot
+15E90100	Lucky Clover	Loot
+16E90100	Mana Testament	Loot
+31EC0100	Love and Courage	Consumable - Books
+32EC0100	Kuki's Adventure	Consumable - Books
+33EC0100	Love is All You Need	Consumable - Books
+34EC0100	Dying: Why It's Bad	Consumable - Books
+35EC0100	Early, Early, Early!	Consumable - Books
+36EC0100	The Futility of Living	Consumable - Books
+37EC0100	Veni, Vidi, Vici!	Consumable - Books
+38EC0100	Old Man & the Swamp	Consumable - Books
+39EC0100	The Art of Sirs	Consumable - Books
+3AEC0100	Rocks Sure Are Neat	Consumable - Books
+3BEC0100	Never Be Wrong Again	Consumable - Books
+3CEC0100	Foolish Grasshopper	Consumable - Books
+3DEC0100	Severed Head's Tales	Consumable - Books
+3EEC0100	Dance of the Dolls	Consumable - Books
+3FEC0100	Foribidden Love	Consumable - Books
+40EC0100	Everything Will Be OK	Consumable - Books
+41EC0100	Bow Before Me, Fools	Consumable - Books
+42EC0100	Memoirs of a Runaway	Consumable - Books
+43EC0100	10 Steps To Freedom	Consumable - Books
+44EC0100	The Cave Witch	Consumable - Books
+45EC0100	Your Finances	Consumable - Books
+46EC0100	The Saddest Puppy	Consumable - Books
+47EC0100	Crippled By Indecision	Consumable - Books
+48EC0100	Working the Fields	Consumable - Books
+49EC0100	The Lonely Rabbit	Consumable - Books
+4AEC0100	100 Ways to Kill A Bug	Consumable - Books
+4BEC0100	Demons Among Us	Consumable - Books
+4CEC0100	This World Is Mine	Consumable - Books
+4DEC0100	Dinner Comedies	Consumable - Books
+4EEC0100	Adult Appetites	Consumable - Books
+4FEC0100	The Clown's Garden	Consumable - Books
+50EC0100	Ordinary Days	Consumable - Books
+51EC0100	Desert Death	Consumable - Books
+52EC0100	Inya To the Skies!	Consumable - Books
+53EC0100	The Carpenter Ant	Consumable - Books
+54EC0100	Five Codes	Consumable - Books
+55EC0100	How to Win a War	Consumable - Books
+56EC0100	Fool's Theory	Consumable - Books
+57EC0100	Antithesis Evolutionary	Consumable - Books
+58EC0100	My New Principles!	Consumable - Books
+59EC0100	I Want to Quit	Consumable - Books
+5AEC0100	Worldly Pleasures	Consumable - Books
+5BEC0100	Meek Rabbit's Journey	Consumable - Books
+5CEC0100	Grandma's Memoir	Consumable - Books
+5DEC0100	I love the Sun!	Consumable - Books
+5EEC0100	My Promise With God	Consumable - Books
+5FEC0100	What a World!	Consumable - Books
+60EC0100	Adnormal Advice	Consumable - Books
+19F00100	Shift (Brave)	Consumables - Book
+1AF00100	Shift (Hotblodded)	Consumables - Book
+1BF00100	Shift (Pure)	Consumables - Book
+1CF00100	Shift (Childlike)	Consumables - Book
+1DF00100	Shift (Wise)	Consumables - Book
+1EF00100	Shift (Nihilistic)	Consumables - Book
+1FF00100	Shift (Reckless)	Consumables - Book
+20F00100	Shift (Stickler)	Consumables - Book
+21F00100	Shift (Zealous)	Consumables - Book
+22F00100	Shift (Contrary)	Consumables - Book
+23F00100	Shift (Stubborn	Consumables - Book
+24F00100	Shift (Fickle)	Consumables - Book
+25F00100	Shift (Cheerful)	Consumables - Book
+26F00100	Shift (Happy)	Consumables - Book
+27F00100	Shift (Passionate)	Consumables - Book
+28F00100	Shift (Optimistic)	Consumables - Book
+29F00100	Shift (Arrogant)	Consumables - Book
+2AF00100	Shift (Determined)	Consumables - Book
+2BF00100	Shift (Selfish)	Consumables - Book
+2CF00100	Shift (Earnest)	Consumables - Book
+2DF00100	Shift (Precise)	Consumables - Book
+2EF00100	Shift (Tolerant)	Consumables - Book
+2FF00100	Shift (Neurotic)	Consumables - Book
+30F00100	Shift (Reliable)	Consumables - Book
+31F00100	Shift (Loner)	Consumables - Book
+32F00100	Shift (Gloomy)	Consumables - Book
+33F00100	Shift (Rational)	Consumables - Book
+34F00100	Shift (Egotistical)	Consumables - Book
+35F00100	Shift (Mischievous)	Consumables - Book
+36F00100	Shift (Perverted)	Consumables - Book
+37F00100	Shift (Clown)	Consumables - Book
+38F00100	Shift (Average)	Consumables - Book
+39F00100	Shift (Good-Natured)	Consumables - Book
+3AF00100	Shift (Excitable)	Consumables - Book
+3BF00100	Shift (Hard Worker)	Consumables - Book
+3CF00100	Shift (Fiery)	Consumables - Book
+3DF00100	Shift (Belligerent)	Consumables - Book
+3EF00100	Shift (Dominant)	Consumables - Book
+3FF00100	Shift (Indecisive)	Consumables - Book
+40F00100	Shift (Insensitive)	Consumables - Book
+41F00100	Shift (Lazy)	Consumables - Book
+42F00100	Shift (Indulgent)	Consumables - Book
+43F00100	Shift (Timid)	Consumables - Book
+44F00100	Shift (Pampered)	Consumables - Book
+45F00100	Shift (Busybody)	Consumables - Book
+46F00100	Shift (Noble)	Consumables - Book
+47F00100	Shift (Morbid)	Consumables - Book
+48F00100	Shift (Weird)	Consumables - Book
+01F40100	Puppet Parts	Consumables - Parts
+06F40100	Junk Parts	Consumables - Parts
+07F40100	Poor Parts	Consumables - Parts
+08F40100	Standard Parts	Consumables - Parts
+09F40100	Superior Parts	Consumables - Parts
+0AF40100	Premium Parts	Consumables - Parts
+0BF40100	Disassembly Fluid	Consumables - Parts
+E9F70100	Small Soul	Soul Vials
+EAF70100	Small Soul / CI	Soul Vials
+EBF70100	Small Soul / CII	Soul Vials
+ECF70100	Small Soul / CIII	Soul Vials
+D1FB0100	Strange Glazed Vase	Artifacts
+D2FB0100	Bag of Antiques	Artifacts
+D3FB0100	Antique Dagger	Artifacts
+D4FB0100	Gold-Dust Hourglass	Artifacts
+D5FB0100	Mido the Great's Bust	Artifacts
+D6FB0100	Prized Necklace	Artifacts
+D7FB0100	Fool's Crown	Artifacts
+D8FB0100	Pink Slip	Artifacts
+D9FB0100	Truth-Revealing Torch	Artifacts
+DAFB0100	Blue Celestial Globe	Artifacts
+DBFB0100	Antique Mask	Artifacts
+DCFB0100	Tritonus	Artifacts
+DDFB0100	Gold Lily	Artifacts
+DEFB0100	Witch's Violin	Artifacts
+DFFB0100	Rock	Artifacts
+E0FB0100	Soiled Undergarments	Artifacts
+E1FB0100	Cassowary Feather	Artifacts
+E2FB0100	Life Scales	Artifacts
+E3FB0100	Mystery Gift	Artifacts
+E4FB0100	Monkey's Paw	Artifacts
+E5FB0100	Head Sculpture	Artifacts
+E6FB0100	Treasure Barrel	Artifacts
+E7FB0100	Blue Rose	Artifacts
+E8FB0100	Golden Chalice	Artifacts
+E9FB0100	Witch's Grimoire	Artifacts
+EAFB0100	Cat's Eye	Artifacts
+EBFB0100	Magical Bouquet	Artifacts
+ECFB0100	Witch's Mabinogion	Artifacts
+EDFB0100	Red Crest	Artifacts
+EEFB0100	Anima Herb	Artifacts
+EFFB0100	Blue Crest	Artifacts
+F0FB0100	Witch's Grand Guignol	Artifacts
+F1FB0100	See Salt	Artifacts
+F2FB0100	Sea Salt	Artifacts
+B9FF0100	Pardon	Consumables
+BAFF0100	Poriginal Sin Fruit	Consumables
+A1030200	Mascunol Fruit Liqueur	Consumables - Gender Change
+A2030200	Femunol Fruit Liqueur	Consumables - Gender Change
+89070200	Paper Purified Doll	Consumables - Replacement
+8A070200	Replacement Doll	Consumables - Replacement
+710B0200	Friendship Ring	Rings
+720B0200	Comrade Ring	Rings
+730B0200	Rival Ring	Rings
+740B0200	Memory Ring	Rings
+750B0200	Lover Ring	Rings
+760B0200	Betrothal Ring	Rings
+770B0200	Engagement Ring	Rings
+780B0200	Brotherly Ring	Rings
+790B0200	Sisterly Ring	Rings
+7A0B0200	Gemini Ring	Rings
+7B0B0200	Family Ring	Rings
+7C0B0200	Grand Ring	Rings
+7D0B0200	Couple's Ring	Rings
+7E0B0200	Cousin Ring	Rings
+7F0B0200	In-Law's Ring	Rings
+800B0200	Cup Ring	Rings
+810B0200	Hierarchical Ring	Rings
+820B0200	Master Ring	Rings
+830B0200	Lord & Servant Ring	Rings
+840B0200	Control Ring	Rings
+850B0200	Stewerd's Ring	Rings
+860B0200	Revenge Ring	Rings
+870B0200	Cult Leader's Ring	Rings
+880B0200	Pet's Ring	Rings
+890B0200	Knight's Tale Ring	Rings
+8A0B0200	Duo Ring	Rings
+8B0B0200	Gap Ring	Rings
+8C0B0200	Love-Hate Ring	Rings
+8D0B0200	Unrequited Ring	Rings
+8E0B0200	Lust Ring	Rings
+8F0B0200	Obedience Ring	Rings
+900B0200	Protection Ring	Rings
+590F0200	Silver Master Key	Consumables - Keys
+5A0F0200	Gold Master Key	Consumables - Keys
+5B0F0200	Uru Master Key	Consumables - Keys
+5C0F0200	Red Master Key	Consumables - Keys
+5D0F0200	Single-Use Key 05	Consumables - Keys
+5E0F0200	Single-Use Key 06	Consumables - Keys
+5F0F0200	Single-Use Key 07	Consumables - Keys
+600F0200	Single-Use Key 08	Consumables - Keys
+610F0200	Single-Use Key 09	Consumables - Keys
+620F0200	Single-Use Key 10	Consumables - Keys
+630F0200	Single-Use Key 11	Consumables - Keys
+640F0200	Single-Use Key 12	Consumables - Keys
+650F0200	Single-Use Key 13	Consumables - Keys
+660F0200	Single-Use Key 14	Consumables - Keys
+670F0200	Single-Use Key 15	Consumables - Keys
+680F0200	Single-Use Key 16	Consumables - Keys
+690F0200	Single-Use Key 17	Consumables - Keys
+6A0F0200	Single-Use Key 18	Consumables - Keys
+6B0F0200	Single-Use Key 19	Consumables - Keys
+6C0F0200	Single-Use Key 20	Consumables - Keys
+41130200	Rare Star Animus	Valuables
+42130200	Rare Star Animus II	Valuables
+43130200	Rare Stealth Animus	Valuables
+44130200	Rare Stealth AnimusII	Valuables
+45130200	Rare Drama Animus	Valuables
+46130200	Rare Drama Animus II	Valuables
+47130200	Rare Magic Stealth	Valuables
+48130200	Rare Magic Stealth II	Valuables
+49130200	Rare Protect Animus	Valuables
+4A130200	Rare Protect Animus II	Valuables
+4B130200	Rare Hunting Animus	Valuables
+4C130200	Rare Hunting Animus II	Valuables
+4D130200	Rare Black Animus	Valuables
+4E130200	Rare Death Animus	Valuables
+4F130200	Rare Cat Animus	Valuables
+50130200	Rare Cat Animus II	Valuables
+51130200	Rare Advent Animus	Valuables
+52130200	Rare Advent Animus II	Valuables
+53130200	Rare Language Animus	Valuables
+54130200	Rare Alchemy Animus	Valuables
+C9260200	Tar Barrel Meat A1	Meat
+CA260200	Carnivo Meat A1	Meat
+CB260200	Kakape Meat A1	Meat
+CC260200	Colow Meat A1	Meat
+CD260200	Dooma Meat A1	Meat
+CE260200	Toad Meat A1	Meat
+CF260200	Wiccard Meat A1	Meat
+D0260200	Basila Meat A1	Meat
+D5260200	Chinny Meat A1	Meat
+D6260200	Enemall Meat A1	Meat
+D7260200	Ashatri Meat A1	Meat
+D9260200	Kotsubo Meat A1	Meat
+DA260200	Muta Beast Meat A1	Meat
+DB260200	Momochichi Meat A1	Meat
+DC260200	Hormone Meat A1	Meat
+DD260200	Casaburi Meat A1	Meat
+DE260200	Armored Fish Meat A1	Meat
+DF260200	Iron Fish Meat A1	Meat
+E0260200	Shim Meat A1	Meat
+E1260200	Nablus Meat A1	Meat
+E2260200	Moon Meat A1	Meat
+E3260200	Rattle Meat A1	Meat
+E4260200	Happy Meat A1	Meat
+E5260200	Magic Stone Meat A1	Meat
+E6260200	Dias Meat A1	Meat
+E7260200	Tunder Colt Meat A1	Meat
+E8260200	Masked Demon Meat A1	Meat
+E9260200	Nuke Thermos Meat A1	Meat
+EA260200	Magic Pot Meat A1	Meat
+EB260200	Astro Meat A1	Meat
+EF260200	Chimney Meat A1	Meat
+F5260200	Demon Flea Meat A1	Meat
+F9260200	Boo Meat A1	Meat
+FD260200	Riddy Meat A1	Meat
+FE260200	Alabaster Meat A1	Meat
+FF260200	Caterpil Meat A1	Meat
+00270200	Brave Caterpil Meat A1	Meat
+02270200	Abyssal Shroom Meat A1	Meat
+08270200	Red Toad Meat A1	Meat
+0B270200	Treasure Shell Meat A1	Meat
+0C270200	Treasure Shell Meat A1	Meat
+0D270200	Caffy Meat A1	Meat
+13270200	AM Module II Meat A1	Meat
+15270200	Violent Module Meat A1	Meat
+16270200	Ancient Fish Meat A1	Meat
+17270200	Parasite Weed Meat A1	Meat
+18270200	Mana Fruit Meat A1	Meat
+1A270200	Sea Salt Meat A1	Meat
+1D270200	Pillar Meat A1	Meat
+1F270200	Magic Coin Meat A1	Meat
+21270200	Hangman Meat A1	Meat
+22270200	Bot Meat A1	Meat
+23270200	Bittern Meat A1	Meat
+24270200	Bittern G Meat A1	Meat
+27270200	Magic Egg M Meat A1	Meat
+29270200	Evil God Hand Meat A1	Meat
+2C270200	Blue Treasure Meat A1	Meat
+2D270200	Red Treasure Meat A1	Meat
+2E270200	Gold Treasure Meat A1	Meat
+2F270200	Shinigami Meat A1	Meat
+32270200	Stone Painting Meat A1	Meat
+35270200	Magic Tree Meat A1	Meat
+37270200	Meat Soldier Meat A1	Meat
+39270200	K HHH Meat A1	Meat
+3A270200	Wind King Don Meat A1	Meat
+3F270200	Damukoro Meat A1	Meat
+42270200	Dark Relic Meat A1	Meat
+44270200	Magic Coin II Meat A1	Meat
+45270200	Kai Shim Meat A1	Meat
+48270200	Red Worm Meat A1	Meat
+4B270200	Magic Egg L Meat A1	Meat
+4C270200	Golden Demon Meat A1	Meat
+4E270200	Damu Shim Meat A1	Meat
+4F270200	Sapon Meat A1	Meat
+50270200	Steel Buuzu Meat A1	Meat
+51270200	Mynga Meat A1	Meat
+52270200	Pet Torso Meat A1	Meat
+53270200	Riddle B Meat A1	Meat
+54270200	Pin I - Slash Meat A1	Meat
+55270200	Pin I - Blunt Meat A1	Meat
+56270200	Pin I - Pierce Meat A1	Meat
+57270200	Pin II - Flame Meat A1	Meat
+58270200	Pin II - Mud Meat A1	Meat
+59270200	Pin II - Fog Meat A1	Meat
+5A270200	Hydro Meat A1	Meat
+5B270200	Belmur Meat A1	Meat
+5C270200	Lady Statue Meat A1	Meat
+5D270200	Sculpture Head Meat A1	Meat
+5E270200	Discordance I Meat A1	Meat
+5F270200	Discordance II Meat A1	Meat
+60270200	Discordance III Meat A1	Meat
+61270200	Discordance IV Meat A1	Meat
+62270200	Discordance V Meat A1	Meat
+63270200	Discordance VI Meat A1	Meat
+64270200	Discordance VII Meat A1	Meat
+65270200	Discordance VIII Meat A1	Meat
+66270200	Discordance IX Meat A1	Meat
+68270200	Hazaburi Meat A1	Meat
+69270200	White Basilite Meat A1	Meat
+6A270200	Super Cha Meat A1	Meat
+6C270200	Deer King Meat A1	Meat
+72270200	Fetaleelings Meat A1	Meat
+77270200	Wa-Ra Meat A1	Meat
+7B270200	The Marquis Meat A1	Meat
+7D270200	Unknown Meat A1	Meat
+7E270200	Ghilruda Meat A1	Meat
+7F270200	Ma-Gia Meat A1	Meat
+82270200	Gartan Meat A1	Meat
+8A270200	Vetton Meat A1	Meat
+91270200	Manatine Meat A1	Meat
+94270200	Sweet Meat A1	Meat
+96270200	Nachiroux Meat A1	Meat
+A2270200	Geaux Meat A1	Meat
+A4270200	Gara Beast Meat A1	Meat
+A5270200	Oblivion Meat A1	Meat
+A6270200	Oblivion Meat A1	Meat
+A7270200	Oblivion Meat A1	Meat
+A8270200	King's Sword Meat A1	Meat
+AB270200	Abyssal Beast Meat A1	Meat
+AC270200	Parasite Weed Meat A1	Meat
+AD270200	Dark Horse Meat A1	Meat
+AE270200	Spirit Jar Meat A1	Meat
+AF270200	Chaos Meat A1	Meat
+B1270200	Gartan Meat A1	Meat
+B2270200	Gartan Meat A1	Meat
+B3270200	Gartan Meat A1	Meat
+B4270200	Twin Swords Meat A1	Meat
+B5270200	Succum Meat A1	Meat
+BE270200	Dooma Meat A1	Meat
+BF270200	Toad Meat A1	Meat
+C0270200	Toad Meat A1	Meat
+C1270200	Toad Meat A1	Meat
+C2270200	Wiccard Meat A1	Meat
+C3270200	Wiccard Meat A1	Meat
+C4270200	Wiccard Meat A1	Meat
+C5270200	Wiccard Meat A1	Meat
+C6270200	Wiccard Meat A1	Meat
+C7270200	Wiccard Meat A1	Meat
+C8270200	Wiccard Meat A1	Meat
+C9270200	Wiccard Meat A1	Meat
+CA270200	Wiccard Meat A1	Meat
+CB270200	Wiccard Meat A1	Meat
+CC270200	Wiccard Meat A1	Meat
+CD270200	Wiccard Meat A1	Meat
+CE270200	Wiccard Meat A1	Meat
+CF270200	Wiccard Meat A1	Meat
+D0270200	Wiccard Meat A1	Meat
+D1270200	Wiccard Meat A1	Meat
+D2270200	Wiccard Meat A1	Meat
+D3270200	Basila Meat A1	Meat
+D4270200	Basila Meat A1	Meat
+D5270200	Basila Meat A1	Meat
+D6270200	Basila Meat A1	Meat
+D8270200	Chin King Meat A1	Meat
+D9270200	Chinny Meat A1	Meat
+DA270200	Pale Muta Meat A1	Meat
+DB270200	Iron Fish Meat A1	Meat
+DC270200	Shim Meat A1	Meat
+DD270200	Neblus Meat A1	Meat
+DE270200	Moon Meat A1	Meat
+DF270200	Moon Meat A1	Meat
+E0270200	Rattle Meat A1	Meat
+E1270200	Happy Meat A1	Meat
+E2270200	Magic Stone Meat A1	Meat
+E3270200	Dias Meat A1	Meat
+E4270200	Nuke Thermos Meat A1	Meat
+E5270200	Astro Meat A1	Meat
+EA270200	Demon Flea Meat A1	Meat
+EB270200	Boo Meat A1	Meat
+EC270200	Boo Meat A1	Meat
+ED270200	Boo Meat A1	Meat
+EE270200	Caterpil Meat A1	Meat
+F0270200	Caterpil Meat A1	Meat
+F3270200	Red Toad Meat A1	Meat
+F4270200	Caffy Meat A1	Meat
+F8270200	AM Module II Meat A1	Meat
+F9270200	Parasite Weed Meat A1	Meat
+FA270200	Magic Coin Meat A1	Meat
+FB270200	Hangman Meat A1	Meat
+FC270200	Bot Meat A1	Meat
+FD270200	Evil God Hand Meat A1	Meat
+00280200	Meat Soldier Meat A1	Meat
+01280200	Meat Soldier Meat A1	Meat
+04280200	K HHH Meat A1	Meat
+05280200	K HHH Meat A1	Meat
+06280200	Wind King Don Meat A1	Meat
+07280200	Wind King Don Meat A1	Meat
+08280200	Dark Relic Meat A1	Meat
+09280200	Magic Egg L Meat A1	Meat
+0A280200	Golden Demon Meat A1	Meat
+0B280200	Damu Shim Meat A1	Meat
+0C280200	Damu Shim Meat A1	Meat
+0D280200	Munga Meat A1	Meat
+0E280200	Belmur Meat A1	Meat
+0F280200	Super Cha Meat A1	Meat
+13280200	Ceci Meat A1	Meat
+14280200	Ma-Gia Meat A1	Meat
+17280200	Gartan Meat A1	Meat
+1D280200	Manatine Meat A1	Meat
+1F280200	Sweet Meat A1	Meat
+20280200	Garara Beast Meat A1	Meat
+21280200	Dark Horse Meat A1	Meat
+22280200	Chaos Meat A1	Meat
+23280200	Chaos Meat A1	Meat
+24280200	Chaos Meat A1	Meat
+25280200	Gartan Meat A1	Meat
+26280200	Gartan Meat A1	Meat
+27280200	Gartan Meat A1	Meat
+29280200	Booster Meat A1	Meat
+2A280200	Large Boost Meat A1	Meat
+2B280200	XL Boost Meat A1	Meat
+2C280200	Super Boost Meat A1	Meat
+2D280200	Violent Module Meat A1	Meat
+2E280200	Shinigami Meat A1	Meat
+2F280200	Bot Meat A1	Meat
+30280200	Ma-Gia Meat A1	Meat
+B12A0200	Tar Barrel Meat A2	Meat
+B22A0200	Carnivo Meat A2	Meat
+B32A0200	Kakape Meat A2	Meat
+B42A0200	Colow Meat A2	Meat
+B52A0200	Dooma Meat A2	Meat
+B62A0200	Toad Meat A2	Meat
+B72A0200	Wiccard Meat A2	Meat
+B82A0200	Basila Meat A2	Meat
+BD2A0200	Chinny Meat A2	Meat
+BE2A0200	Enemall Meat A2	Meat
+BF2A0200	Ashatri Meat A2	Meat
+C12A0200	Kotsubo Meat A2	Meat
+C22A0200	Muta Beast Meat A2	Meat
+C32A0200	Momochichi Meat A2	Meat
+C42A0200	Hormone Meat A2	Meat
+C52A0200	Casaburi Meat A2	Meat
+C62A0200	Armored Fish Meat A2	Meat
+C72A0200	Iron Fish Meat A2	Meat
+C82A0200	Shim Meat A2	Meat
+C92A0200	Nablus Meat A2	Meat
+CA2A0200	Moon Meat A2	Meat
+CB2A0200	Rattle Meat A2	Meat
+CC2A0200	Happy Meat A2	Meat
+CD2A0200	Magic Stone Meat A2	Meat
+CE2A0200	Dias Meat A2	Meat
+CF2A0200	Tunder Colt Meat A2	Meat
+D02A0200	Masked Demon Meat A2	Meat
+D12A0200	Nuke Thermos Meat A2	Meat
+D22A0200	Magic Pot Meat A2	Meat
+D32A0200	Astro Meat A2	Meat
+D72A0200	Chimney Meat A2	Meat
+DD2A0200	Demon Flea Meat A2	Meat
+E12A0200	Boo Meat A2	Meat
+E52A0200	Riddy Meat A2	Meat
+E62A0200	Alabaster Meat A2	Meat
+E72A0200	Caterpil Meat A2	Meat
+E82A0200	Brave Caterpil Meat A2	Meat
+EA2A0200	Abyssal Shroom Meat A2	Meat
+F02A0200	Red Toad Meat A2	Meat
+F32A0200	Treasure Shell Meat A2	Meat
+F42A0200	Treasure Shell Meat A2	Meat
+F52A0200	Caffy Meat A2	Meat
+FB2A0200	AM Module II Meat A2	Meat
+FD2A0200	Violent Module Meat A2	Meat
+FE2A0200	Ancient Fish Meat A2	Meat
+FF2A0200	Parasite Weed Meat A2	Meat
+002B0200	Mana Fruit Meat A2	Meat
+022B0200	Sea Salt Meat A2	Meat
+052B0200	Pillar Meat A2	Meat
+072B0200	Magic Coin Meat A2	Meat
+092B0200	Hangman Meat A2	Meat
+0A2B0200	Bot Meat A2	Meat
+0B2B0200	Bittern Meat A2	Meat
+0C2B0200	Bittern G Meat A2	Meat
+0F2B0200	Magic Egg M Meat A2	Meat
+112B0200	Evil God Hand Meat A2	Meat
+142B0200	Blue Treasure Meat A2	Meat
+152B0200	Red Treasure Meat A2	Meat
+162B0200	Gold Treasure Meat A2	Meat
+172B0200	Shinigami Meat A2	Meat
+1A2B0200	Stone Painting Meat A2	Meat
+1D2B0200	Magic Tree Meat A2	Meat
+1F2B0200	Meat Soldier Meat A2	Meat
+212B0200	K HHH Meat A2	Meat
+222B0200	Wind King Don Meat A2	Meat
+272B0200	Damukoro Meat A2	Meat
+2A2B0200	Dark Relic Meat A2	Meat
+2C2B0200	Magic Coin II Meat A2	Meat
+2D2B0200	Kai Shim Meat A2	Meat
+302B0200	Red Worm Meat A2	Meat
+332B0200	Magic Egg L Meat A2	Meat
+342B0200	Golden Demon Meat A2	Meat
+362B0200	Damu Shim Meat A2	Meat
+372B0200	Sapon Meat A2	Meat
+382B0200	Steel Buuzu Meat A2	Meat
+392B0200	Mynga Meat A2	Meat
+3A2B0200	Pet Torso Meat A2	Meat
+3B2B0200	Riddle B Meat A2	Meat
+3C2B0200	Pin I - Slash Meat A2	Meat
+3D2B0200	Pin I - Blunt Meat A2	Meat
+3E2B0200	Pin I - Pierce Meat A2	Meat
+3F2B0200	Pin II - Flame Meat A2	Meat
+402B0200	Pin II - Mud Meat A2	Meat
+412B0200	Pin II - Fog Meat A2	Meat
+422B0200	Hydro Meat A2	Meat
+432B0200	Belmur Meat A2	Meat
+442B0200	Lady Statue Meat A2	Meat
+452B0200	Sculpture Head Meat A2	Meat
+462B0200	Discordance I Meat A2	Meat
+472B0200	Discordance II Meat A2	Meat
+482B0200	Discordance III Meat A2	Meat
+492B0200	Discordance IV Meat A2	Meat
+4A2B0200	Discordance V Meat A2	Meat
+4B2B0200	Discordance VI Meat A2	Meat
+4C2B0200	Discordance VII Meat A2	Meat
+4D2B0200	Discordance VIII Meat A2	Meat
+4E2B0200	Discordance IX Meat A2	Meat
+502B0200	Hazaburi Meat A2	Meat
+512B0200	White Basilite Meat A2	Meat
+522B0200	Super Cha Meat A2	Meat
+542B0200	Deer King Meat A2	Meat
+5A2B0200	Fetaleelings Meat A2	Meat
+5F2B0200	Wa-Ra Meat A2	Meat
+632B0200	The Marquis Meat A2	Meat
+652B0200	Unknown Meat A2	Meat
+662B0200	Ghilruda Meat A2	Meat
+672B0200	Ma-Gia Meat A2	Meat
+6A2B0200	Gartan Meat A2	Meat
+722B0200	Vetton Meat A2	Meat
+792B0200	Manatine Meat A2	Meat
+7C2B0200	Sweet Meat A2	Meat
+7E2B0200	Nachiroux Meat A2	Meat
+8A2B0200	Geaux Meat A2	Meat
+8C2B0200	Gara Beast Meat A2	Meat
+8D2B0200	Oblivion Meat A2	Meat
+8E2B0200	Oblivion Meat A2	Meat
+8F2B0200	Oblivion Meat A2	Meat
+902B0200	King's Sword Meat A2	Meat
+932B0200	Abyssal Beast Meat A2	Meat
+942B0200	Parasite Weed Meat A2	Meat
+952B0200	Dark Horse Meat A2	Meat
+962B0200	Spirit Jar Meat A2	Meat
+972B0200	Chaos Meat A2	Meat
+992B0200	Gartan Meat A2	Meat
+9A2B0200	Gartan Meat A2	Meat
+9B2B0200	Gartan Meat A2	Meat
+9C2B0200	Twin Swords Meat A2	Meat
+9D2B0200	Succum Meat A2	Meat
+A62B0200	Dooma Meat A2	Meat
+A72B0200	Toad Meat A2	Meat
+A82B0200	Toad Meat A2	Meat
+A92B0200	Toad Meat A2	Meat
+AA2B0200	Wiccard Meat A2	Meat
+AB2B0200	Wiccard Meat A2	Meat
+AC2B0200	Wiccard Meat A2	Meat
+AD2B0200	Wiccard Meat A2	Meat
+AE2B0200	Wiccard Meat A2	Meat
+AF2B0200	Wiccard Meat A2	Meat
+B02B0200	Wiccard Meat A2	Meat
+B12B0200	Wiccard Meat A2	Meat
+B22B0200	Wiccard Meat A2	Meat
+B32B0200	Wiccard Meat A2	Meat
+B42B0200	Wiccard Meat A2	Meat
+B52B0200	Wiccard Meat A2	Meat
+B62B0200	Wiccard Meat A2	Meat
+B72B0200	Wiccard Meat A2	Meat
+B82B0200	Wiccard Meat A2	Meat
+B92B0200	Wiccard Meat A2	Meat
+BA2B0200	Wiccard Meat A2	Meat
+BB2B0200	Basila Meat A2	Meat
+BC2B0200	Basila Meat A2	Meat
+BD2B0200	Basila Meat A2	Meat
+BE2B0200	Basila Meat A2	Meat
+C02B0200	Chin King Meat A2	Meat
+C12B0200	Chinny Meat A2	Meat
+C22B0200	Pale Muta Meat A2	Meat
+C32B0200	Iron Fish Meat A2	Meat
+C42B0200	Shim Meat A2	Meat
+C52B0200	Neblus Meat A2	Meat
+C62B0200	Moon Meat A2	Meat
+C72B0200	Moon Meat A2	Meat
+C82B0200	Rattle Meat A2	Meat
+C92B0200	Happy Meat A2	Meat
+CA2B0200	Magic Stone Meat A2	Meat
+CB2B0200	Dias Meat A2	Meat
+CC2B0200	Nuke Thermos Meat A2	Meat
+CD2B0200	Astro Meat A2	Meat
+D22B0200	Demon Flea Meat A2	Meat
+D32B0200	Boo Meat A2	Meat
+D42B0200	Boo Meat A2	Meat
+D52B0200	Boo Meat A2	Meat
+D62B0200	Caterpil Meat A2	Meat
+D82B0200	Caterpil Meat A2	Meat
+DB2B0200	Red Toad Meat A2	Meat
+DC2B0200	Caffy Meat A2	Meat
+E02B0200	AM Module II Meat A2	Meat
+E12B0200	Parasite Weed Meat A2	Meat
+E22B0200	Magic Coin Meat A2	Meat
+E32B0200	Hangman Meat A2	Meat
+E42B0200	Bot Meat A2	Meat
+E52B0200	Evil God Hand Meat A2	Meat
+E82B0200	Meat Soldier Meat A2	Meat
+E92B0200	Meat Soldier Meat A2	Meat
+EC2B0200	K HHH Meat A2	Meat
+ED2B0200	K HHH Meat A2	Meat
+EE2B0200	Wind King Don Meat A2	Meat
+EF2B0200	Wind King Don Meat A2	Meat
+F02B0200	Dark Relic Meat A2	Meat
+F12B0200	Magic Egg L Meat A2	Meat
+F22B0200	Golden Demon Meat A2	Meat
+F32B0200	Damu Shim Meat A2	Meat
+F42B0200	Damu Shim Meat A2	Meat
+F52B0200	Munga Meat A2	Meat
+F62B0200	Belmur Meat A2	Meat
+F72B0200	Super Cha Meat A2	Meat
+FB2B0200	Ceci Meat A2	Meat
+FC2B0200	Ma-Gia Meat A2	Meat
+FF2B0200	Gartan Meat A2	Meat
+052C0200	Manatine Meat A2	Meat
+072C0200	Sweet Meat A2	Meat
+082C0200	Garara Beast Meat A2	Meat
+092C0200	Dark Horse Meat A2	Meat
+0A2C0200	Chaos Meat A2	Meat
+0B2C0200	Chaos Meat A2	Meat
+0C2C0200	Chaos Meat A2	Meat
+0D2C0200	Gartan Meat A2	Meat
+0E2C0200	Gartan Meat A2	Meat
+0F2C0200	Gartan Meat A2	Meat
+112C0200	Booster Meat A2	Meat
+122C0200	Large Boost Meat A2	Meat
+132C0200	XL Boost Meat A2	Meat
+142C0200	Super Boost Meat A2	Meat
+152C0200	Violent Module Meat A2	Meat
+162C0200	Shinigami Meat A2	Meat
+172C0200	Bot Meat A2	Meat
+182C0200	Ma-Gia Meat A2	Meat
+992E0200	Tar Barrel Meat A3	Meat
+9A2E0200	Carnivo Meat A3	Meat
+9B2E0200	Kakape Meat A3	Meat
+9C2E0200	Colow Meat A3	Meat
+9D2E0200	Dooma Meat A3	Meat
+9E2E0200	Toad Meat A3	Meat
+9F2E0200	Wiccard Meat A3	Meat
+A02E0200	Basila Meat A3	Meat
+A52E0200	Chinny Meat A3	Meat
+A62E0200	Enemall Meat A3	Meat
+A72E0200	Ashatri Meat A3	Meat
+A92E0200	Kotsubo Meat A3	Meat
+AA2E0200	Muta Beast Meat A3	Meat
+AB2E0200	Momochichi Meat A3	Meat
+AC2E0200	Hormone Meat A3	Meat
+AD2E0200	Casaburi Meat A3	Meat
+AE2E0200	Armored Fish Meat A3	Meat
+AF2E0200	Iron Fish Meat A3	Meat
+B02E0200	Shim Meat A3	Meat
+B12E0200	Nablus Meat A3	Meat
+B22E0200	Moon Meat A3	Meat
+B32E0200	Rattle Meat A3	Meat
+B42E0200	Happy Meat A3	Meat
+B52E0200	Magic Stone Meat A3	Meat
+B62E0200	Dias Meat A3	Meat
+B72E0200	Tunder Colt Meat A3	Meat
+B82E0200	Masked Demon Meat A3	Meat
+B92E0200	Nuke Thermos Meat A3	Meat
+BA2E0200	Magic Pot Meat A3	Meat
+BB2E0200	Astro Meat A3	Meat
+BF2E0200	Chimney Meat A3	Meat
+C52E0200	Demon Flea Meat A3	Meat
+C92E0200	Boo Meat A3	Meat
+CD2E0200	Riddy Meat A3	Meat
+CE2E0200	Alabaster Meat A3	Meat
+CF2E0200	Caterpil Meat A3	Meat
+D02E0200	Brave Caterpil Meat A3	Meat
+D22E0200	Abyssal Shroom Meat A3	Meat
+D82E0200	Red Toad Meat A3	Meat
+DB2E0200	Treasure Shell Meat A3	Meat
+DC2E0200	Treasure Shell Meat A3	Meat
+DD2E0200	Caffy Meat A3	Meat
+E32E0200	AM Module II Meat A3	Meat
+E52E0200	Violent Module Meat A3	Meat
+E62E0200	Ancient Fish Meat A3	Meat
+E72E0200	Parasite Weed Meat A3	Meat
+E82E0200	Mana Fruit Meat A3	Meat
+EA2E0200	Sea Salt Meat A3	Meat
+ED2E0200	Pillar Meat A3	Meat
+EF2E0200	Magic Coin Meat A3	Meat
+F12E0200	Hangman Meat A3	Meat
+F22E0200	Bot Meat A3	Meat
+F32E0200	Bittern Meat A3	Meat
+F42E0200	Bittern G Meat A3	Meat
+F72E0200	Magic Egg M Meat A3	Meat
+F92E0200	Evil God Hand Meat A3	Meat
+FC2E0200	Blue Treasure Meat A3	Meat
+FD2E0200	Red Treasure Meat A3	Meat
+FE2E0200	Gold Treasure Meat A3	Meat
+FF2E0200	Shinigami Meat A3	Meat
+022F0200	Stone Painting Meat A3	Meat
+052F0200	Magic Tree Meat A3	Meat
+072F0200	Meat Soldier Meat A3	Meat
+092F0200	K HHH Meat A3	Meat
+0A2F0200	Wind King Don Meat A3	Meat
+0F2F0200	Damukoro Meat A3	Meat
+122F0200	Dark Relic Meat A3	Meat
+142F0200	Magic Coin II Meat A3	Meat
+152F0200	Kai Shim Meat A3	Meat
+182F0200	Red Worm Meat A3	Meat
+1B2F0200	Magic Egg L Meat A3	Meat
+1C2F0200	Golden Demon Meat A3	Meat
+1E2F0200	Damu Shim Meat A3	Meat
+1F2F0200	Sapon Meat A3	Meat
+202F0200	Steel Buuzu Meat A3	Meat
+212F0200	Mynga Meat A3	Meat
+222F0200	Pet Torso Meat A3	Meat
+232F0200	Riddle B Meat A3	Meat
+242F0200	Pin I - Slash Meat A3	Meat
+252F0200	Pin I - Blunt Meat A3	Meat
+262F0200	Pin I - Pierce Meat A3	Meat
+272F0200	Pin II - Flame Meat A3	Meat
+282F0200	Pin II - Mud Meat A3	Meat
+292F0200	Pin II - Fog Meat A3	Meat
+2A2F0200	Hydro Meat A3	Meat
+2B2F0200	Belmur Meat A3	Meat
+2C2F0200	Lady Statue Meat A3	Meat
+2D2F0200	Sculpture Head Meat A3	Meat
+2E2F0200	Discordance I Meat A3	Meat
+2F2F0200	Discordance II Meat A3	Meat
+302F0200	Discordance III Meat A3	Meat
+312F0200	Discordance IV Meat A3	Meat
+322F0200	Discordance V Meat A3	Meat
+332F0200	Discordance VI Meat A3	Meat
+342F0200	Discordance VII Meat A3	Meat
+352F0200	Discordance VIII Meat A3	Meat
+362F0200	Discordance IX Meat A3	Meat
+382F0200	Hazaburi Meat A3	Meat
+392F0200	White Basilite Meat A3	Meat
+3A2F0200	Super Cha Meat A3	Meat
+3C2F0200	Deer King Meat A3	Meat
+422F0200	Fetaleelings Meat A3	Meat
+472F0200	Wa-Ra Meat A3	Meat
+4B2F0200	The Marquis Meat A3	Meat
+4D2F0200	Unknown Meat A3	Meat
+4E2F0200	Ghilruda Meat A3	Meat
+4F2F0200	Ma-Gia Meat A3	Meat
+522F0200	Gartan Meat A3	Meat
+5A2F0200	Vetton Meat A3	Meat
+612F0200	Manatine Meat A3	Meat
+642F0200	Sweet Meat A3	Meat
+662F0200	Nachiroux Meat A3	Meat
+722F0200	Geaux Meat A3	Meat
+742F0200	Gara Beast Meat A3	Meat
+752F0200	Oblivion Meat A3	Meat
+762F0200	Oblivion Meat A3	Meat
+772F0200	Oblivion Meat A3	Meat
+782F0200	King's Sword Meat A3	Meat
+7B2F0200	Abyssal Beast Meat A3	Meat
+7C2F0200	Parasite Weed Meat A3	Meat
+7D2F0200	Dark Horse Meat A3	Meat
+7E2F0200	Spirit Jar Meat A3	Meat
+7F2F0200	Chaos Meat A3	Meat
+812F0200	Gartan Meat A3	Meat
+822F0200	Gartan Meat A3	Meat
+832F0200	Gartan Meat A3	Meat
+842F0200	Twin Swords Meat A3	Meat
+852F0200	Succum Meat A3	Meat
+8E2F0200	Dooma Meat A3	Meat
+8F2F0200	Toad Meat A3	Meat
+902F0200	Toad Meat A3	Meat
+912F0200	Toad Meat A3	Meat
+922F0200	Wiccard Meat A3	Meat
+932F0200	Wiccard Meat A3	Meat
+942F0200	Wiccard Meat A3	Meat
+952F0200	Wiccard Meat A3	Meat
+962F0200	Wiccard Meat A3	Meat
+972F0200	Wiccard Meat A3	Meat
+982F0200	Wiccard Meat A3	Meat
+992F0200	Wiccard Meat A3	Meat
+9A2F0200	Wiccard Meat A3	Meat
+9B2F0200	Wiccard Meat A3	Meat
+9C2F0200	Wiccard Meat A3	Meat
+9D2F0200	Wiccard Meat A3	Meat
+9E2F0200	Wiccard Meat A3	Meat
+9F2F0200	Wiccard Meat A3	Meat
+A02F0200	Wiccard Meat A3	Meat
+A12F0200	Wiccard Meat A3	Meat
+A22F0200	Wiccard Meat A3	Meat
+A32F0200	Basila Meat A3	Meat
+A42F0200	Basila Meat A3	Meat
+A52F0200	Basila Meat A3	Meat
+A62F0200	Basila Meat A3	Meat
+A82F0200	Chin King Meat A3	Meat
+A92F0200	Chinny Meat A3	Meat
+AA2F0200	Pale Muta Meat A3	Meat
+AB2F0200	Iron Fish Meat A3	Meat
+AC2F0200	Shim Meat A3	Meat
+AD2F0200	Neblus Meat A3	Meat
+AE2F0200	Moon Meat A3	Meat
+AF2F0200	Moon Meat A3	Meat
+B02F0200	Rattle Meat A3	Meat
+B12F0200	Happy Meat A3	Meat
+B22F0200	Magic Stone Meat A3	Meat
+B32F0200	Dias Meat A3	Meat
+B42F0200	Nuke Thermos Meat A3	Meat
+B52F0200	Astro Meat A3	Meat
+BA2F0200	Demon Flea Meat A3	Meat
+BB2F0200	Boo Meat A3	Meat
+BC2F0200	Boo Meat A3	Meat
+BD2F0200	Boo Meat A3	Meat
+BE2F0200	Caterpil Meat A3	Meat
+C02F0200	Caterpil Meat A3	Meat
+C32F0200	Red Toad Meat A3	Meat
+C42F0200	Caffy Meat A3	Meat
+C82F0200	AM Module II Meat A3	Meat
+C92F0200	Parasite Weed Meat A3	Meat
+CA2F0200	Magic Coin Meat A3	Meat
+CB2F0200	Hangman Meat A3	Meat
+CC2F0200	Bot Meat A3	Meat
+CD2F0200	Evil God Hand Meat A3	Meat
+D02F0200	Meat Soldier Meat A3	Meat
+D12F0200	Meat Soldier Meat A3	Meat
+D42F0200	K HHH Meat A3	Meat
+D52F0200	K HHH Meat A3	Meat
+D62F0200	Wind King Don Meat A3	Meat
+D72F0200	Wind King Don Meat A3	Meat
+D82F0200	Dark Relic Meat A3	Meat
+D92F0200	Magic Egg L Meat A3	Meat
+DA2F0200	Golden Demon Meat A3	Meat
+DB2F0200	Damu Shim Meat A3	Meat
+DC2F0200	Damu Shim Meat A3	Meat
+DD2F0200	Munga Meat A3	Meat
+DE2F0200	Belmur Meat A3	Meat
+DF2F0200	Super Cha Meat A3	Meat
+E32F0200	Ceci Meat A3	Meat
+E42F0200	Ma-Gia Meat A3	Meat
+E72F0200	Gartan Meat A3	Meat
+ED2F0200	Manatine Meat A3	Meat
+EF2F0200	Sweet Meat A3	Meat
+F02F0200	Garara Beast Meat A3	Meat
+F12F0200	Dark Horse Meat A3	Meat
+F22F0200	Chaos Meat A3	Meat
+F32F0200	Chaos Meat A3	Meat
+F42F0200	Chaos Meat A3	Meat
+F52F0200	Gartan Meat A3	Meat
+F62F0200	Gartan Meat A3	Meat
+F72F0200	Gartan Meat A3	Meat
+F92F0200	Booster Meat A3	Meat
+FA2F0200	Large Boost Meat A3	Meat
+FB2F0200	XL Boost Meat A3	Meat
+FC2F0200	Super Boost Meat A3	Meat
+FD2F0200	Violent Module Meat A3	Meat
+FE2F0200	Shinigami Meat A3	Meat
+FF2F0200	Bot Meat A3	Meat
+00300200	Ma-Gia Meat A3	Meat
+81320200	Tar Barrel Meat A4	Meat
+82320200	Carnivo Meat A4	Meat
+83320200	Kakape Meat A4	Meat
+84320200	Colow Meat A4	Meat
+85320200	Dooma Meat A4	Meat
+86320200	Toad Meat A4	Meat
+87320200	Wiccard Meat A4	Meat
+88320200	Basila Meat A4	Meat
+8D320200	Chinny Meat A4	Meat
+8E320200	Enemall Meat A4	Meat
+8F320200	Ashatri Meat A4	Meat
+91320200	Kotsubo Meat A4	Meat
+92320200	Muta Beast Meat A4	Meat
+93320200	Momochichi Meat A4	Meat
+94320200	Hormone Meat A4	Meat
+95320200	Casaburi Meat A4	Meat
+96320200	Armored Fish Meat A4	Meat
+97320200	Iron Fish Meat A4	Meat
+98320200	Shim Meat A4	Meat
+99320200	Nablus Meat A4	Meat
+9A320200	Moon Meat A4	Meat
+9B320200	Rattle Meat A4	Meat
+9C320200	Happy Meat A4	Meat
+9D320200	Magic Stone Meat A4	Meat
+9E320200	Dias Meat A4	Meat
+9F320200	Tunder Colt Meat A4	Meat
+A0320200	Masked Demon Meat A4	Meat
+A1320200	Nuke Thermos Meat A4	Meat
+A2320200	Magic Pot Meat A4	Meat
+A3320200	Astro Meat A4	Meat
+A7320200	Chimney Meat A4	Meat
+AD320200	Demon Flea Meat A4	Meat
+B1320200	Boo Meat A4	Meat
+B5320200	Riddy Meat A4	Meat
+B6320200	Alabaster Meat A4	Meat
+B7320200	Caterpil Meat A4	Meat
+B8320200	Brave Caterpil Meat A4	Meat
+BA320200	Abyssal Shroom Meat A4	Meat
+C0320200	Red Toad Meat A4	Meat
+C3320200	Treasure Shell Meat A4	Meat
+C4320200	Treasure Shell Meat A4	Meat
+C5320200	Caffy Meat A4	Meat
+CB320200	AM Module II Meat A4	Meat
+CD320200	Violent Module Meat A4	Meat
+CE320200	Ancient Fish Meat A4	Meat
+CF320200	Parasite Weed Meat A4	Meat
+D0320200	Mana Fruit Meat A4	Meat
+D2320200	Sea Salt Meat A4	Meat
+D5320200	Pillar Meat A4	Meat
+D7320200	Magic Coin Meat A4	Meat
+D9320200	Hangman Meat A4	Meat
+DA320200	Bot Meat A4	Meat
+DB320200	Bittern Meat A4	Meat
+DC320200	Bittern G Meat A4	Meat
+DF320200	Magic Egg M Meat A4	Meat
+E1320200	Evil God Hand Meat A4	Meat
+E4320200	Blue Treasure Meat A4	Meat
+E5320200	Red Treasure Meat A4	Meat
+E6320200	Gold Treasure Meat A4	Meat
+E7320200	Shinigami Meat A4	Meat
+EA320200	Stone Painting Meat A4	Meat
+ED320200	Magic Tree Meat A4	Meat
+EF320200	Meat Soldier Meat A4	Meat
+F1320200	K HHH Meat A4	Meat
+F2320200	Wind King Don Meat A4	Meat
+F7320200	Damukoro Meat A4	Meat
+FA320200	Dark Relic Meat A4	Meat
+FC320200	Magic Coin II Meat A4	Meat
+FD320200	Kai Shim Meat A4	Meat
+00330200	Red Worm Meat A4	Meat
+03330200	Magic Egg L Meat A4	Meat
+04330200	Golden Demon Meat A4	Meat
+06330200	Damu Shim Meat A4	Meat
+07330200	Sapon Meat A4	Meat
+08330200	Steel Buuzu Meat A4	Meat
+09330200	Mynga Meat A4	Meat
+0A330200	Pet Torso Meat A4	Meat
+0B330200	Riddle B Meat A4	Meat
+0C330200	Pin I - Slash Meat A4	Meat
+0D330200	Pin I - Blunt Meat A4	Meat
+0E330200	Pin I - Pierce Meat A4	Meat
+0F330200	Pin II - Flame Meat A4	Meat
+10330200	Pin II - Mud Meat A4	Meat
+11330200	Pin II - Fog Meat A4	Meat
+12330200	Hydro Meat A4	Meat
+13330200	Belmur Meat A4	Meat
+14330200	Lady Statue Meat A4	Meat
+15330200	Sculpture Head Meat A4	Meat
+16330200	Discordance I Meat A4	Meat
+17330200	Discordance II Meat A4	Meat
+18330200	Discordance III Meat A4	Meat
+19330200	Discordance IV Meat A4	Meat
+1A330200	Discordance V Meat A4	Meat
+1B330200	Discordance VI Meat A4	Meat
+1C330200	Discordance VII Meat A4	Meat
+1D330200	Discordance VIII Meat A4	Meat
+1E330200	Discordance IX Meat A4	Meat
+20330200	Hazaburi Meat A4	Meat
+21330200	White Basilite Meat A4	Meat
+22330200	Super Cha Meat A4	Meat
+24330200	Deer King Meat A4	Meat
+2A330200	Fetaleelings Meat A4	Meat
+2F330200	Wa-Ra Meat A4	Meat
+33330200	The Marquis Meat A4	Meat
+35330200	Unknown Meat A4	Meat
+36330200	Ghilruda Meat A4	Meat
+37330200	Ma-Gia Meat A4	Meat
+3A330200	Gartan Meat A4	Meat
+42330200	Vetton Meat A4	Meat
+49330200	Manatine Meat A4	Meat
+4C330200	Sweet Meat A4	Meat
+4E330200	Nachiroux Meat A4	Meat
+5A330200	Geaux Meat A4	Meat
+5C330200	Gara Beast Meat A4	Meat
+5D330200	Oblivion Meat A4	Meat
+5E330200	Oblivion Meat A4	Meat
+5F330200	Oblivion Meat A4	Meat
+60330200	King's Sword Meat A4	Meat
+63330200	Abyssal Beast Meat A4	Meat
+64330200	Parasite Weed Meat A4	Meat
+65330200	Dark Horse Meat A4	Meat
+66330200	Spirit Jar Meat A4	Meat
+67330200	Chaos Meat A4	Meat
+69330200	Gartan Meat A4	Meat
+6A330200	Gartan Meat A4	Meat
+6B330200	Gartan Meat A4	Meat
+6C330200	Twin Swords Meat A4	Meat
+6D330200	Succum Meat A4	Meat
+76330200	Dooma Meat A4	Meat
+77330200	Toad Meat A4	Meat
+78330200	Toad Meat A4	Meat
+79330200	Toad Meat A4	Meat
+7A330200	Wiccard Meat A4	Meat
+7B330200	Wiccard Meat A4	Meat
+7C330200	Wiccard Meat A4	Meat
+7D330200	Wiccard Meat A4	Meat
+7E330200	Wiccard Meat A4	Meat
+7F330200	Wiccard Meat A4	Meat
+80330200	Wiccard Meat A4	Meat
+81330200	Wiccard Meat A4	Meat
+82330200	Wiccard Meat A4	Meat
+83330200	Wiccard Meat A4	Meat
+84330200	Wiccard Meat A4	Meat
+85330200	Wiccard Meat A4	Meat
+86330200	Wiccard Meat A4	Meat
+87330200	Wiccard Meat A4	Meat
+88330200	Wiccard Meat A4	Meat
+89330200	Wiccard Meat A4	Meat
+8A330200	Wiccard Meat A4	Meat
+8B330200	Basila Meat A4	Meat
+8C330200	Basila Meat A4	Meat
+8D330200	Basila Meat A4	Meat
+8E330200	Basila Meat A4	Meat
+90330200	Chin King Meat A4	Meat
+91330200	Chinny Meat A4	Meat
+92330200	Pale Muta Meat A4	Meat
+93330200	Iron Fish Meat A4	Meat
+94330200	Shim Meat A4	Meat
+95330200	Neblus Meat A4	Meat
+96330200	Moon Meat A4	Meat
+97330200	Moon Meat A4	Meat
+98330200	Rattle Meat A4	Meat
+99330200	Happy Meat A4	Meat
+9A330200	Magic Stone Meat A4	Meat
+9B330200	Dias Meat A4	Meat
+9C330200	Nuke Thermos Meat A4	Meat
+9D330200	Astro Meat A4	Meat
+A2330200	Demon Flea Meat A4	Meat
+A3330200	Boo Meat A4	Meat
+A4330200	Boo Meat A4	Meat
+A5330200	Boo Meat A4	Meat
+A6330200	Caterpil Meat A4	Meat
+A8330200	Caterpil Meat A4	Meat
+AB330200	Red Toad Meat A4	Meat
+AC330200	Caffy Meat A4	Meat
+B0330200	AM Module II Meat A4	Meat
+B1330200	Parasite Weed Meat A4	Meat
+B2330200	Magic Coin Meat A4	Meat
+B3330200	Hangman Meat A4	Meat
+B4330200	Bot Meat A4	Meat
+B5330200	Evil God Hand Meat A4	Meat
+B8330200	Meat Soldier Meat A4	Meat
+B9330200	Meat Soldier Meat A4	Meat
+BC330200	K HHH Meat A4	Meat
+BD330200	K HHH Meat A4	Meat
+BE330200	Wind King Don Meat A4	Meat
+BF330200	Wind King Don Meat A4	Meat
+C0330200	Dark Relic Meat A4	Meat
+C1330200	Magic Egg L Meat A4	Meat
+C2330200	Golden Demon Meat A4	Meat
+C3330200	Damu Shim Meat A4	Meat
+C4330200	Damu Shim Meat A4	Meat
+C5330200	Munga Meat A4	Meat
+C6330200	Belmur Meat A4	Meat
+C7330200	Super Cha Meat A4	Meat
+CB330200	Ceci Meat A4	Meat
+CC330200	Ma-Gia Meat A4	Meat
+CF330200	Gartan Meat A4	Meat
+D5330200	Manatine Meat A4	Meat
+D7330200	Sweet Meat A4	Meat
+D8330200	Garara Beast Meat A4	Meat
+D9330200	Dark Horse Meat A4	Meat
+DA330200	Chaos Meat A4	Meat
+DB330200	Chaos Meat A4	Meat
+DC330200	Chaos Meat A4	Meat
+DD330200	Gartan Meat A4	Meat
+DE330200	Gartan Meat A4	Meat
+DF330200	Gartan Meat A4	Meat
+E1330200	Booster Meat A4	Meat
+E2330200	Large Boost Meat A4	Meat
+E3330200	XL Boost Meat A4	Meat
+E4330200	Super Boost Meat A4	Meat
+E5330200	Violent Module Meat A4	Meat
+E6330200	Shinigami Meat A4	Meat
+E7330200	Bot Meat A4	Meat
+E8330200	Ma-Gia Meat A4	Meat
+69360200	Tar Barrel Meat A5	Meat
+6A360200	Carnivo Meat A5	Meat
+6B360200	Kakape Meat A5	Meat
+6C360200	Colow Meat A5	Meat
+6D360200	Dooma Meat A5	Meat
+6E360200	Toad Meat A5	Meat
+6F360200	Wiccard Meat A5	Meat
+70360200	Basila Meat A5	Meat
+75360200	Chinny Meat A5	Meat
+76360200	Enemall Meat A5	Meat
+77360200	Ashatri Meat A5	Meat
+79360200	Kotsubo Meat A5	Meat
+7A360200	Muta Beast Meat A5	Meat
+7B360200	Momochichi Meat A5	Meat
+7C360200	Hormone Meat A5	Meat
+7D360200	Casaburi Meat A5	Meat
+7E360200	Armored Fish Meat A5	Meat
+7F360200	Iron Fish Meat A5	Meat
+80360200	Shim Meat A5	Meat
+81360200	Nablus Meat A5	Meat
+82360200	Moon Meat A5	Meat
+83360200	Rattle Meat A5	Meat
+84360200	Happy Meat A5	Meat
+85360200	Magic Stone Meat A5	Meat
+86360200	Dias Meat A5	Meat
+87360200	Tunder Colt Meat A5	Meat
+88360200	Masked Demon Meat A5	Meat
+89360200	Nuke Thermos Meat A5	Meat
+8A360200	Magic Pot Meat A5	Meat
+8B360200	Astro Meat A5	Meat
+8F360200	Chimney Meat A5	Meat
+95360200	Demon Flea Meat A5	Meat
+99360200	Boo Meat A5	Meat
+9D360200	Riddy Meat A5	Meat
+9E360200	Alabaster Meat A5	Meat
+9F360200	Caterpil Meat A5	Meat
+A0360200	Brave Caterpil Meat A5	Meat
+A2360200	Abyssal Shroom Meat A5	Meat
+A8360200	Red Toad Meat A5	Meat
+AB360200	Treasure Shell Meat A5	Meat
+AC360200	Treasure Shell Meat A5	Meat
+AD360200	Caffy Meat A5	Meat
+B3360200	AM Module II Meat A5	Meat
+B5360200	Violent Module Meat A5	Meat
+B6360200	Ancient Fish Meat A5	Meat
+B7360200	Parasite Weed Meat A5	Meat
+B8360200	Mana Fruit Meat A5	Meat
+BA360200	Sea Salt Meat A5	Meat
+BD360200	Pillar Meat A5	Meat
+BF360200	Magic Coin Meat A5	Meat
+C1360200	Hangman Meat A5	Meat
+C2360200	Bot Meat A5	Meat
+C3360200	Bittern Meat A5	Meat
+C4360200	Bittern G Meat A5	Meat
+C7360200	Magic Egg M Meat A5	Meat
+C9360200	Evil God Hand Meat A5	Meat
+CC360200	Blue Treasure Meat A5	Meat
+CD360200	Red Treasure Meat A5	Meat
+CE360200	Gold Treasure Meat A5	Meat
+CF360200	Shinigami Meat A5	Meat
+D2360200	Stone Painting Meat A5	Meat
+D5360200	Magic Tree Meat A5	Meat
+D7360200	Meat Soldier Meat A5	Meat
+D9360200	K HHH Meat A5	Meat
+DA360200	Wind King Don Meat A5	Meat
+DF360200	Damukoro Meat A5	Meat
+E2360200	Dark Relic Meat A5	Meat
+E4360200	Magic Coin II Meat A5	Meat
+E5360200	Kai Shim Meat A5	Meat
+E8360200	Red Worm Meat A5	Meat
+EB360200	Magic Egg L Meat A5	Meat
+EC360200	Golden Demon Meat A5	Meat
+EE360200	Damu Shim Meat A5	Meat
+EF360200	Sapon Meat A5	Meat
+F0360200	Steel Buuzu Meat A5	Meat
+F1360200	Mynga Meat A5	Meat
+F2360200	Pet Torso Meat A5	Meat
+F3360200	Riddle B Meat A5	Meat
+F4360200	Pin I - Slash Meat A5	Meat
+F5360200	Pin I - Blunt Meat A5	Meat
+F6360200	Pin I - Pierce Meat A5	Meat
+F7360200	Pin II - Flame Meat A5	Meat
+F8360200	Pin II - Mud Meat A5	Meat
+F9360200	Pin II - Fog Meat A5	Meat
+FA360200	Hydro Meat A5	Meat
+FB360200	Belmur Meat A5	Meat
+FC360200	Lady Statue Meat A5	Meat
+FD360200	Sculpture Head Meat A5	Meat
+FE360200	Discordance I Meat A5	Meat
+FF360200	Discordance II Meat A5	Meat
+00370200	Discordance III Meat A5	Meat
+01370200	Discordance IV Meat A5	Meat
+02370200	Discordance V Meat A5	Meat
+03370200	Discordance VI Meat A5	Meat
+04370200	Discordance VII Meat A5	Meat
+05370200	Discordance VIII Meat A5	Meat
+06370200	Discordance IX Meat A5	Meat
+08370200	Hazaburi Meat A5	Meat
+09370200	White Basilite Meat A5	Meat
+0A370200	Super Cha Meat A5	Meat
+0C370200	Deer King Meat A5	Meat
+12370200	Fetaleelings Meat A5	Meat
+17370200	Wa-Ra Meat A5	Meat
+1B370200	The Marquis Meat A5	Meat
+1D370200	Unknown Meat A5	Meat
+1E370200	Ghilruda Meat A5	Meat
+1F370200	Ma-Gia Meat A5	Meat
+22370200	Gartan Meat A5	Meat
+2A370200	Vetton Meat A5	Meat
+31370200	Manatine Meat A5	Meat
+34370200	Sweet Meat A5	Meat
+36370200	Nachiroux Meat A5	Meat
+42370200	Geaux Meat A5	Meat
+44370200	Gara Beast Meat A5	Meat
+45370200	Oblivion Meat A5	Meat
+46370200	Oblivion Meat A5	Meat
+47370200	Oblivion Meat A5	Meat
+48370200	King's Sword Meat A5	Meat
+4B370200	Abyssal Beast Meat A5	Meat
+4C370200	Parasite Weed Meat A5	Meat
+4D370200	Dark Horse Meat A5	Meat
+4E370200	Spirit Jar Meat A5	Meat
+4F370200	Chaos Meat A5	Meat
+51370200	Gartan Meat A5	Meat
+52370200	Gartan Meat A5	Meat
+53370200	Gartan Meat A5	Meat
+54370200	Twin Swords Meat A5	Meat
+55370200	Succum Meat A5	Meat
+5E370200	Dooma Meat A5	Meat
+5F370200	Toad Meat A5	Meat
+60370200	Toad Meat A5	Meat
+61370200	Toad Meat A5	Meat
+62370200	Wiccard Meat A5	Meat
+63370200	Wiccard Meat A5	Meat
+64370200	Wiccard Meat A5	Meat
+65370200	Wiccard Meat A5	Meat
+66370200	Wiccard Meat A5	Meat
+67370200	Wiccard Meat A5	Meat
+68370200	Wiccard Meat A5	Meat
+69370200	Wiccard Meat A5	Meat
+6A370200	Wiccard Meat A5	Meat
+6B370200	Wiccard Meat A5	Meat
+6C370200	Wiccard Meat A5	Meat
+6D370200	Wiccard Meat A5	Meat
+6E370200	Wiccard Meat A5	Meat
+6F370200	Wiccard Meat A5	Meat
+70370200	Wiccard Meat A5	Meat
+71370200	Wiccard Meat A5	Meat
+72370200	Wiccard Meat A5	Meat
+73370200	Basila Meat A5	Meat
+74370200	Basila Meat A5	Meat
+75370200	Basila Meat A5	Meat
+76370200	Basila Meat A5	Meat
+78370200	Chin King Meat A5	Meat
+79370200	Chinny Meat A5	Meat
+7A370200	Pale Muta Meat A5	Meat
+7B370200	Iron Fish Meat A5	Meat
+7C370200	Shim Meat A5	Meat
+7D370200	Neblus Meat A5	Meat
+7E370200	Moon Meat A5	Meat
+7F370200	Moon Meat A5	Meat
+80370200	Rattle Meat A5	Meat
+81370200	Happy Meat A5	Meat
+82370200	Magic Stone Meat A5	Meat
+83370200	Dias Meat A5	Meat
+84370200	Nuke Thermos Meat A5	Meat
+85370200	Astro Meat A5	Meat
+8A370200	Demon Flea Meat A5	Meat
+8B370200	Boo Meat A5	Meat
+8C370200	Boo Meat A5	Meat
+8D370200	Boo Meat A5	Meat
+8E370200	Caterpil Meat A5	Meat
+90370200	Caterpil Meat A5	Meat
+93370200	Red Toad Meat A5	Meat
+94370200	Caffy Meat A5	Meat
+98370200	AM Module II Meat A5	Meat
+99370200	Parasite Weed Meat A5	Meat
+9A370200	Magic Coin Meat A5	Meat
+9B370200	Hangman Meat A5	Meat
+9C370200	Bot Meat A5	Meat
+9D370200	Evil God Hand Meat A5	Meat
+A0370200	Meat Soldier Meat A5	Meat
+A1370200	Meat Soldier Meat A5	Meat
+A4370200	K HHH Meat A5	Meat
+A5370200	K HHH Meat A5	Meat
+A6370200	Wind King Don Meat A5	Meat
+A7370200	Wind King Don Meat A5	Meat
+A8370200	Dark Relic Meat A5	Meat
+A9370200	Magic Egg L Meat A5	Meat
+AA370200	Golden Demon Meat A5	Meat
+AB370200	Damu Shim Meat A5	Meat
+AC370200	Damu Shim Meat A5	Meat
+AD370200	Munga Meat A5	Meat
+AE370200	Belmur Meat A5	Meat
+AF370200	Super Cha Meat A5	Meat
+B3370200	Ceci Meat A5	Meat
+B4370200	Ma-Gia Meat A5	Meat
+B7370200	Gartan Meat A5	Meat
+BD370200	Manatine Meat A5	Meat
+BF370200	Sweet Meat A5	Meat
+C0370200	Garara Beast Meat A5	Meat
+C1370200	Dark Horse Meat A5	Meat
+C2370200	Chaos Meat A5	Meat
+C3370200	Chaos Meat A5	Meat
+C4370200	Chaos Meat A5	Meat
+C5370200	Gartan Meat A5	Meat
+C6370200	Gartan Meat A5	Meat
+C7370200	Gartan Meat A5	Meat
+C9370200	Booster Meat A5	Meat
+CA370200	Large Boost Meat A5	Meat
+CB370200	XL Boost Meat A5	Meat
+CC370200	Super Boost Meat A5	Meat
+CD370200	Violent Module Meat A5	Meat
+CE370200	Shinigami Meat A5	Meat
+CF370200	Bot Meat A5	Meat
+D0370200	Ma-Gia Meat A5	Meat
+513A0200	Tar Barrel Meat A6	Meat
+523A0200	Carnivo Meat A6	Meat
+533A0200	Kakape Meat A6	Meat
+543A0200	Colow Meat A6	Meat
+553A0200	Dooma Meat A6	Meat
+563A0200	Toad Meat A6	Meat
+573A0200	Wiccard Meat A6	Meat
+583A0200	Basila Meat A6	Meat
+5D3A0200	Chinny Meat A6	Meat
+5E3A0200	Enemall Meat A6	Meat
+5F3A0200	Ashatri Meat A6	Meat
+613A0200	Kotsubo Meat A6	Meat
+623A0200	Muta Beast Meat A6	Meat
+633A0200	Momochichi Meat A6	Meat
+643A0200	Hormone Meat A6	Meat
+653A0200	Casaburi Meat A6	Meat
+663A0200	Armored Fish Meat A6	Meat
+673A0200	Iron Fish Meat A6	Meat
+683A0200	Shim Meat A6	Meat
+693A0200	Nablus Meat A6	Meat
+6A3A0200	Moon Meat A6	Meat
+6B3A0200	Rattle Meat A6	Meat
+6C3A0200	Happy Meat A6	Meat
+6D3A0200	Magic Stone Meat A6	Meat
+6E3A0200	Dias Meat A6	Meat
+6F3A0200	Tunder Colt Meat A6	Meat
+703A0200	Masked Demon Meat A6	Meat
+713A0200	Nuke Thermos Meat A6	Meat
+723A0200	Magic Pot Meat A6	Meat
+733A0200	Astro Meat A6	Meat
+773A0200	Chimney Meat A6	Meat
+7D3A0200	Demon Flea Meat A6	Meat
+813A0200	Boo Meat A6	Meat
+853A0200	Riddy Meat A6	Meat
+863A0200	Alabaster Meat A6	Meat
+873A0200	Caterpil Meat A6	Meat
+883A0200	Brave Caterpil Meat A6	Meat
+8A3A0200	Abyssal Shroom Meat A6	Meat
+903A0200	Red Toad Meat A6	Meat
+933A0200	Treasure Shell Meat A6	Meat
+943A0200	Treasure Shell Meat A6	Meat
+953A0200	Caffy Meat A6	Meat
+9B3A0200	AM Module II Meat A6	Meat
+9D3A0200	Violent Module Meat A6	Meat
+9E3A0200	Ancient Fish Meat A6	Meat
+9F3A0200	Parasite Weed Meat A6	Meat
+A03A0200	Mana Fruit Meat A6	Meat
+A23A0200	Sea Salt Meat A6	Meat
+A53A0200	Pillar Meat A6	Meat
+A73A0200	Magic Coin Meat A6	Meat
+A93A0200	Hangman Meat A6	Meat
+AA3A0200	Bot Meat A6	Meat
+AB3A0200	Bittern Meat A6	Meat
+AC3A0200	Bittern G Meat A6	Meat
+AF3A0200	Magic Egg M Meat A6	Meat
+B13A0200	Evil God Hand Meat A6	Meat
+B43A0200	Blue Treasure Meat A6	Meat
+B53A0200	Red Treasure Meat A6	Meat
+B63A0200	Gold Treasure Meat A6	Meat
+B73A0200	Shinigami Meat A6	Meat
+BA3A0200	Stone Painting Meat A6	Meat
+BD3A0200	Magic Tree Meat A6	Meat
+BF3A0200	Meat Soldier Meat A6	Meat
+C13A0200	K HHH Meat A6	Meat
+C23A0200	Wind King Don Meat A6	Meat
+C73A0200	Damukoro Meat A6	Meat
+CA3A0200	Dark Relic Meat A6	Meat
+CC3A0200	Magic Coin II Meat A6	Meat
+CD3A0200	Kai Shim Meat A6	Meat
+D03A0200	Red Worm Meat A6	Meat
+D33A0200	Magic Egg L Meat A6	Meat
+D43A0200	Golden Demon Meat A6	Meat
+D63A0200	Damu Shim Meat A6	Meat
+D73A0200	Sapon Meat A6	Meat
+D83A0200	Steel Buuzu Meat A6	Meat
+D93A0200	Mynga Meat A6	Meat
+DA3A0200	Pet Torso Meat A6	Meat
+DB3A0200	Riddle B Meat A6	Meat
+DC3A0200	Pin I - Slash Meat A6	Meat
+DD3A0200	Pin I - Blunt Meat A6	Meat
+DE3A0200	Pin I - Pierce Meat A6	Meat
+DF3A0200	Pin II - Flame Meat A6	Meat
+E03A0200	Pin II - Mud Meat A6	Meat
+E13A0200	Pin II - Fog Meat A6	Meat
+E23A0200	Hydro Meat A6	Meat
+E33A0200	Belmur Meat A6	Meat
+E43A0200	Lady Statue Meat A6	Meat
+E53A0200	Sculpture Head Meat A6	Meat
+E63A0200	Discordance I Meat A6	Meat
+E73A0200	Discordance II Meat A6	Meat
+E83A0200	Discordance III Meat A6	Meat
+E93A0200	Discordance IV Meat A6	Meat
+EA3A0200	Discordance V Meat A6	Meat
+EB3A0200	Discordance VI Meat A6	Meat
+EC3A0200	Discordance VII Meat A6	Meat
+ED3A0200	Discordance VIII Meat A6	Meat
+EE3A0200	Discordance IX Meat A6	Meat
+F03A0200	Hazaburi Meat A6	Meat
+F13A0200	White Basilite Meat A6	Meat
+F23A0200	Super Cha Meat A6	Meat
+F43A0200	Deer King Meat A6	Meat
+FA3A0200	Fetaleelings Meat A6	Meat
+FF3A0200	Wa-Ra Meat A6	Meat
+033B0200	The Marquis Meat A6	Meat
+053B0200	Unknown Meat A6	Meat
+063B0200	Ghilruda Meat A6	Meat
+073B0200	Ma-Gia Meat A6	Meat
+0A3B0200	Gartan Meat A6	Meat
+123B0200	Vetton Meat A6	Meat
+193B0200	Manatine Meat A6	Meat
+1C3B0200	Sweet Meat A6	Meat
+1E3B0200	Nachiroux Meat A6	Meat
+2A3B0200	Geaux Meat A6	Meat
+2C3B0200	Gara Beast Meat A6	Meat
+2D3B0200	Oblivion Meat A6	Meat
+2E3B0200	Oblivion Meat A6	Meat
+2F3B0200	Oblivion Meat A6	Meat
+303B0200	King's Sword Meat A6	Meat
+333B0200	Abyssal Beast Meat A6	Meat
+343B0200	Parasite Weed Meat A6	Meat
+353B0200	Dark Horse Meat A6	Meat
+363B0200	Spirit Jar Meat A6	Meat
+373B0200	Chaos Meat A6	Meat
+393B0200	Gartan Meat A6	Meat
+3A3B0200	Gartan Meat A6	Meat
+3B3B0200	Gartan Meat A6	Meat
+3C3B0200	Twin Swords Meat A6	Meat
+3D3B0200	Succum Meat A6	Meat
+463B0200	Dooma Meat A6	Meat
+473B0200	Toad Meat A6	Meat
+483B0200	Toad Meat A6	Meat
+493B0200	Toad Meat A6	Meat
+4A3B0200	Wiccard Meat A6	Meat
+4B3B0200	Wiccard Meat A6	Meat
+4C3B0200	Wiccard Meat A6	Meat
+4D3B0200	Wiccard Meat A6	Meat
+4E3B0200	Wiccard Meat A6	Meat
+4F3B0200	Wiccard Meat A6	Meat
+503B0200	Wiccard Meat A6	Meat
+513B0200	Wiccard Meat A6	Meat
+523B0200	Wiccard Meat A6	Meat
+533B0200	Wiccard Meat A6	Meat
+543B0200	Wiccard Meat A6	Meat
+553B0200	Wiccard Meat A6	Meat
+563B0200	Wiccard Meat A6	Meat
+573B0200	Wiccard Meat A6	Meat
+583B0200	Wiccard Meat A6	Meat
+593B0200	Wiccard Meat A6	Meat
+5A3B0200	Wiccard Meat A6	Meat
+5B3B0200	Basila Meat A6	Meat
+5C3B0200	Basila Meat A6	Meat
+5D3B0200	Basila Meat A6	Meat
+5E3B0200	Basila Meat A6	Meat
+603B0200	Chin King Meat A6	Meat
+613B0200	Chinny Meat A6	Meat
+623B0200	Pale Muta Meat A6	Meat
+633B0200	Iron Fish Meat A6	Meat
+643B0200	Shim Meat A6	Meat
+653B0200	Neblus Meat A6	Meat
+663B0200	Moon Meat A6	Meat
+673B0200	Moon Meat A6	Meat
+683B0200	Rattle Meat A6	Meat
+693B0200	Happy Meat A6	Meat
+6A3B0200	Magic Stone Meat A6	Meat
+6B3B0200	Dias Meat A6	Meat
+6C3B0200	Nuke Thermos Meat A6	Meat
+6D3B0200	Astro Meat A6	Meat
+723B0200	Demon Flea Meat A6	Meat
+733B0200	Boo Meat A6	Meat
+743B0200	Boo Meat A6	Meat
+753B0200	Boo Meat A6	Meat
+763B0200	Caterpil Meat A6	Meat
+783B0200	Caterpil Meat A6	Meat
+7B3B0200	Red Toad Meat A6	Meat
+7C3B0200	Caffy Meat A6	Meat
+803B0200	AM Module II Meat A6	Meat
+813B0200	Parasite Weed Meat A6	Meat
+823B0200	Magic Coin Meat A6	Meat
+833B0200	Hangman Meat A6	Meat
+843B0200	Bot Meat A6	Meat
+853B0200	Evil God Hand Meat A6	Meat
+883B0200	Meat Soldier Meat A6	Meat
+893B0200	Meat Soldier Meat A6	Meat
+8C3B0200	K HHH Meat A6	Meat
+8D3B0200	K HHH Meat A6	Meat
+8E3B0200	Wind King Don Meat A6	Meat
+8F3B0200	Wind King Don Meat A6	Meat
+903B0200	Dark Relic Meat A6	Meat
+913B0200	Magic Egg L Meat A6	Meat
+923B0200	Golden Demon Meat A6	Meat
+933B0200	Damu Shim Meat A6	Meat
+943B0200	Damu Shim Meat A6	Meat
+953B0200	Munga Meat A6	Meat
+963B0200	Belmur Meat A6	Meat
+973B0200	Super Cha Meat A6	Meat
+9B3B0200	Ceci Meat A6	Meat
+9C3B0200	Ma-Gia Meat A6	Meat
+9F3B0200	Gartan Meat A6	Meat
+A53B0200	Manatine Meat A6	Meat
+A73B0200	Sweet Meat A6	Meat
+A83B0200	Garara Beast Meat A6	Meat
+A93B0200	Dark Horse Meat A6	Meat
+AA3B0200	Chaos Meat A6	Meat
+AB3B0200	Chaos Meat A6	Meat
+AC3B0200	Chaos Meat A6	Meat
+AD3B0200	Gartan Meat A6	Meat
+AE3B0200	Gartan Meat A6	Meat
+AF3B0200	Gartan Meat A6	Meat
+B13B0200	Booster Meat A6	Meat
+B23B0200	Large Boost Meat A6	Meat
+B33B0200	XL Boost Meat A6	Meat
+B43B0200	Super Boost Meat A6	Meat
+B53B0200	Violent Module Meat A6	Meat
+B63B0200	Shinigami Meat A6	Meat
+B73B0200	Bot Meat A6	Meat
+B83B0200	Ma-Gia Meat A6	Meat
+393E0200	Tar Barrel Meat A7	Meat
+3A3E0200	Carnivo Meat A7	Meat
+3B3E0200	Kakape Meat A7	Meat
+3C3E0200	Colow Meat A7	Meat
+3D3E0200	Dooma Meat A7	Meat
+3E3E0200	Toad Meat A7	Meat
+3F3E0200	Wiccard Meat A7	Meat
+403E0200	Basila Meat A7	Meat
+453E0200	Chinny Meat A7	Meat
+463E0200	Enemall Meat A7	Meat
+473E0200	Ashatri Meat A7	Meat
+493E0200	Kotsubo Meat A7	Meat
+4A3E0200	Muta Beast Meat A7	Meat
+4B3E0200	Momochichi Meat A7	Meat
+4C3E0200	Hormone Meat A7	Meat
+4D3E0200	Casaburi Meat A7	Meat
+4E3E0200	Armored Fish Meat A7	Meat
+4F3E0200	Iron Fish Meat A7	Meat
+503E0200	Shim Meat A7	Meat
+513E0200	Nablus Meat A7	Meat
+523E0200	Moon Meat A7	Meat
+533E0200	Rattle Meat A7	Meat
+543E0200	Happy Meat A7	Meat
+553E0200	Magic Stone Meat A7	Meat
+563E0200	Dias Meat A7	Meat
+573E0200	Tunder Colt Meat A7	Meat
+583E0200	Masked Demon Meat A7	Meat
+593E0200	Nuke Thermos Meat A7	Meat
+5A3E0200	Magic Pot Meat A7	Meat
+5B3E0200	Astro Meat A7	Meat
+5F3E0200	Chimney Meat A7	Meat
+653E0200	Demon Flea Meat A7	Meat
+693E0200	Boo Meat A7	Meat
+6D3E0200	Riddy Meat A7	Meat
+6E3E0200	Alabaster Meat A7	Meat
+6F3E0200	Caterpil Meat A7	Meat
+703E0200	Brave Caterpil Meat A7	Meat
+723E0200	Abyssal Shroom Meat A7	Meat
+783E0200	Red Toad Meat A7	Meat
+7B3E0200	Treasure Shell Meat A7	Meat
+7C3E0200	Treasure Shell Meat A7	Meat
+7D3E0200	Caffy Meat A7	Meat
+833E0200	AM Module II Meat A7	Meat
+853E0200	Violent Module Meat A7	Meat
+863E0200	Ancient Fish Meat A7	Meat
+873E0200	Parasite Weed Meat A7	Meat
+883E0200	Mana Fruit Meat A7	Meat
+8A3E0200	Sea Salt Meat A7	Meat
+8D3E0200	Pillar Meat A7	Meat
+8F3E0200	Magic Coin Meat A7	Meat
+913E0200	Hangman Meat A7	Meat
+923E0200	Bot Meat A7	Meat
+933E0200	Bittern Meat A7	Meat
+943E0200	Bittern G Meat A7	Meat
+973E0200	Magic Egg M Meat A7	Meat
+993E0200	Evil God Hand Meat A7	Meat
+9C3E0200	Blue Treasure Meat A7	Meat
+9D3E0200	Red Treasure Meat A7	Meat
+9E3E0200	Gold Treasure Meat A7	Meat
+9F3E0200	Shinigami Meat A7	Meat
+A23E0200	Stone Painting Meat A7	Meat
+A53E0200	Magic Tree Meat A7	Meat
+A73E0200	Meat Soldier Meat A7	Meat
+A93E0200	K HHH Meat A7	Meat
+AA3E0200	Wind King Don Meat A7	Meat
+AF3E0200	Damukoro Meat A7	Meat
+B23E0200	Dark Relic Meat A7	Meat
+B43E0200	Magic Coin II Meat A7	Meat
+B53E0200	Kai Shim Meat A7	Meat
+B83E0200	Red Worm Meat A7	Meat
+BB3E0200	Magic Egg L Meat A7	Meat
+BC3E0200	Golden Demon Meat A7	Meat
+BE3E0200	Damu Shim Meat A7	Meat
+BF3E0200	Sapon Meat A7	Meat
+C03E0200	Steel Buuzu Meat A7	Meat
+C13E0200	Mynga Meat A7	Meat
+C23E0200	Pet Torso Meat A7	Meat
+C33E0200	Riddle B Meat A7	Meat
+C43E0200	Pin I - Slash Meat A7	Meat
+C53E0200	Pin I - Blunt Meat A7	Meat
+C63E0200	Pin I - Pierce Meat A7	Meat
+C73E0200	Pin II - Flame Meat A7	Meat
+C83E0200	Pin II - Mud Meat A7	Meat
+C93E0200	Pin II - Fog Meat A7	Meat
+CA3E0200	Hydro Meat A7	Meat
+CB3E0200	Belmur Meat A7	Meat
+CC3E0200	Lady Statue Meat A7	Meat
+CD3E0200	Sculpture Head Meat A7	Meat
+CE3E0200	Discordance I Meat A7	Meat
+CF3E0200	Discordance II Meat A7	Meat
+D03E0200	Discordance III Meat A7	Meat
+D13E0200	Discordance IV Meat A7	Meat
+D23E0200	Discordance V Meat A7	Meat
+D33E0200	Discordance VI Meat A7	Meat
+D43E0200	Discordance VII Meat A7	Meat
+D53E0200	Discordance VIII Meat A7	Meat
+D63E0200	Discordance IX Meat A7	Meat
+D83E0200	Hazaburi Meat A7	Meat
+D93E0200	White Basilite Meat A7	Meat
+DA3E0200	Super Cha Meat A7	Meat
+DC3E0200	Deer King Meat A7	Meat
+E23E0200	Fetaleelings Meat A7	Meat
+E73E0200	Wa-Ra Meat A7	Meat
+EB3E0200	The Marquis Meat A7	Meat
+ED3E0200	Unknown Meat A7	Meat
+EE3E0200	Ghilruda Meat A7	Meat
+EF3E0200	Ma-Gia Meat A7	Meat
+F23E0200	Gartan Meat A7	Meat
+FA3E0200	Vetton Meat A7	Meat
+013F0200	Manatine Meat A7	Meat
+043F0200	Sweet Meat A7	Meat
+063F0200	Nachiroux Meat A7	Meat
+123F0200	Geaux Meat A7	Meat
+143F0200	Gara Beast Meat A7	Meat
+153F0200	Oblivion Meat A7	Meat
+163F0200	Oblivion Meat A7	Meat
+173F0200	Oblivion Meat A7	Meat
+183F0200	King's Sword Meat A7	Meat
+1B3F0200	Abyssal Beast Meat A7	Meat
+1C3F0200	Parasite Weed Meat A7	Meat
+1D3F0200	Dark Horse Meat A7	Meat
+1E3F0200	Spirit Jar Meat A7	Meat
+1F3F0200	Chaos Meat A7	Meat
+213F0200	Gartan Meat A7	Meat
+223F0200	Gartan Meat A7	Meat
+233F0200	Gartan Meat A7	Meat
+243F0200	Twin Swords Meat A7	Meat
+253F0200	Succum Meat A7	Meat
+2E3F0200	Dooma Meat A7	Meat
+2F3F0200	Toad Meat A7	Meat
+303F0200	Toad Meat A7	Meat
+313F0200	Toad Meat A7	Meat
+323F0200	Wiccard Meat A7	Meat
+333F0200	Wiccard Meat A7	Meat
+343F0200	Wiccard Meat A7	Meat
+353F0200	Wiccard Meat A7	Meat
+363F0200	Wiccard Meat A7	Meat
+373F0200	Wiccard Meat A7	Meat
+383F0200	Wiccard Meat A7	Meat
+393F0200	Wiccard Meat A7	Meat
+3A3F0200	Wiccard Meat A7	Meat
+3B3F0200	Wiccard Meat A7	Meat
+3C3F0200	Wiccard Meat A7	Meat
+3D3F0200	Wiccard Meat A7	Meat
+3E3F0200	Wiccard Meat A7	Meat
+3F3F0200	Wiccard Meat A7	Meat
+403F0200	Wiccard Meat A7	Meat
+413F0200	Wiccard Meat A7	Meat
+423F0200	Wiccard Meat A7	Meat
+433F0200	Basila Meat A7	Meat
+443F0200	Basila Meat A7	Meat
+453F0200	Basila Meat A7	Meat
+463F0200	Basila Meat A7	Meat
+483F0200	Chin King Meat A7	Meat
+493F0200	Chinny Meat A7	Meat
+4A3F0200	Pale Muta Meat A7	Meat
+4B3F0200	Iron Fish Meat A7	Meat
+4C3F0200	Shim Meat A7	Meat
+4D3F0200	Neblus Meat A7	Meat
+4E3F0200	Moon Meat A7	Meat
+4F3F0200	Moon Meat A7	Meat
+503F0200	Rattle Meat A7	Meat
+513F0200	Happy Meat A7	Meat
+523F0200	Magic Stone Meat A7	Meat
+533F0200	Dias Meat A7	Meat
+543F0200	Nuke Thermos Meat A7	Meat
+553F0200	Astro Meat A7	Meat
+5A3F0200	Demon Flea Meat A7	Meat
+5B3F0200	Boo Meat A7	Meat
+5C3F0200	Boo Meat A7	Meat
+5D3F0200	Boo Meat A7	Meat
+5E3F0200	Caterpil Meat A7	Meat
+603F0200	Caterpil Meat A7	Meat
+633F0200	Red Toad Meat A7	Meat
+643F0200	Caffy Meat A7	Meat
+683F0200	AM Module II Meat A7	Meat
+693F0200	Parasite Weed Meat A7	Meat
+6A3F0200	Magic Coin Meat A7	Meat
+6B3F0200	Hangman Meat A7	Meat
+6C3F0200	Bot Meat A7	Meat
+6D3F0200	Evil God Hand Meat A7	Meat
+703F0200	Meat Soldier Meat A7	Meat
+713F0200	Meat Soldier Meat A7	Meat
+743F0200	K HHH Meat A7	Meat
+753F0200	K HHH Meat A7	Meat
+763F0200	Wind King Don Meat A7	Meat
+773F0200	Wind King Don Meat A7	Meat
+783F0200	Dark Relic Meat A7	Meat
+793F0200	Magic Egg L Meat A7	Meat
+7A3F0200	Golden Demon Meat A7	Meat
+7B3F0200	Damu Shim Meat A7	Meat
+7C3F0200	Damu Shim Meat A7	Meat
+7D3F0200	Munga Meat A7	Meat
+7E3F0200	Belmur Meat A7	Meat
+7F3F0200	Super Cha Meat A7	Meat
+833F0200	Ceci Meat A7	Meat
+843F0200	Ma-Gia Meat A7	Meat
+873F0200	Gartan Meat A7	Meat
+8D3F0200	Manatine Meat A7	Meat
+8F3F0200	Sweet Meat A7	Meat
+903F0200	Garara Beast Meat A7	Meat
+913F0200	Dark Horse Meat A7	Meat
+923F0200	Chaos Meat A7	Meat
+933F0200	Chaos Meat A7	Meat
+943F0200	Chaos Meat A7	Meat
+953F0200	Gartan Meat A7	Meat
+963F0200	Gartan Meat A7	Meat
+973F0200	Gartan Meat A7	Meat
+993F0200	Booster Meat A7	Meat
+9A3F0200	Large Boost Meat A7	Meat
+9B3F0200	XL Boost Meat A7	Meat
+9C3F0200	Super Boost Meat A7	Meat
+9D3F0200	Violent Module Meat A7	Meat
+9E3F0200	Shinigami Meat A7	Meat
+9F3F0200	Bot Meat A7	Meat
+A03F0200	Ma-Gia Meat A7	Meat
+21420200	Tar Barrel Meat A8	Meat
+22420200	Carnivo Meat A8	Meat
+23420200	Kakape Meat A8	Meat
+24420200	Colow Meat A8	Meat
+25420200	Dooma Meat A8	Meat
+26420200	Toad Meat A8	Meat
+27420200	Wiccard Meat A8	Meat
+28420200	Basila Meat A8	Meat
+2D420200	Chinny Meat A8	Meat
+2E420200	Enemall Meat A8	Meat
+2F420200	Ashatri Meat A8	Meat
+31420200	Kotsubo Meat A8	Meat
+32420200	Muta Beast Meat A8	Meat
+33420200	Momochichi Meat A8	Meat
+34420200	Hormone Meat A8	Meat
+35420200	Casaburi Meat A8	Meat
+36420200	Armored Fish Meat A8	Meat
+37420200	Iron Fish Meat A8	Meat
+38420200	Shim Meat A8	Meat
+39420200	Nablus Meat A8	Meat
+3A420200	Moon Meat A8	Meat
+3B420200	Rattle Meat A8	Meat
+3C420200	Happy Meat A8	Meat
+3D420200	Magic Stone Meat A8	Meat
+3E420200	Dias Meat A8	Meat
+3F420200	Tunder Colt Meat A8	Meat
+40420200	Masked Demon Meat A8	Meat
+41420200	Nuke Thermos Meat A8	Meat
+42420200	Magic Pot Meat A8	Meat
+43420200	Astro Meat A8	Meat
+47420200	Chimney Meat A8	Meat
+4D420200	Demon Flea Meat A8	Meat
+51420200	Boo Meat A8	Meat
+55420200	Riddy Meat A8	Meat
+56420200	Alabaster Meat A8	Meat
+57420200	Caterpil Meat A8	Meat
+58420200	Brave Caterpil Meat A8	Meat
+5A420200	Abyssal Shroom Meat A8	Meat
+60420200	Red Toad Meat A8	Meat
+63420200	Treasure Shell Meat A8	Meat
+64420200	Treasure Shell Meat A8	Meat
+65420200	Caffy Meat A8	Meat
+6B420200	AM Module II Meat A8	Meat
+6D420200	Violent Module Meat A8	Meat
+6E420200	Ancient Fish Meat A8	Meat
+6F420200	Parasite Weed Meat A8	Meat
+70420200	Mana Fruit Meat A8	Meat
+72420200	Sea Salt Meat A8	Meat
+75420200	Pillar Meat A8	Meat
+77420200	Magic Coin Meat A8	Meat
+79420200	Hangman Meat A8	Meat
+7A420200	Bot Meat A8	Meat
+7B420200	Bittern Meat A8	Meat
+7C420200	Bittern G Meat A8	Meat
+7F420200	Magic Egg M Meat A8	Meat
+81420200	Evil God Hand Meat A8	Meat
+84420200	Blue Treasure Meat A8	Meat
+85420200	Red Treasure Meat A8	Meat
+86420200	Gold Treasure Meat A8	Meat
+87420200	Shinigami Meat A8	Meat
+8A420200	Stone Painting Meat A8	Meat
+8D420200	Magic Tree Meat A8	Meat
+8F420200	Meat Soldier Meat A8	Meat
+91420200	K HHH Meat A8	Meat
+92420200	Wind King Don Meat A8	Meat
+97420200	Damukoro Meat A8	Meat
+9A420200	Dark Relic Meat A8	Meat
+9C420200	Magic Coin II Meat A8	Meat
+9D420200	Kai Shim Meat A8	Meat
+A0420200	Red Worm Meat A8	Meat
+A3420200	Magic Egg L Meat A8	Meat
+A4420200	Golden Demon Meat A8	Meat
+A6420200	Damu Shim Meat A8	Meat
+A7420200	Sapon Meat A8	Meat
+A8420200	Steel Buuzu Meat A8	Meat
+A9420200	Mynga Meat A8	Meat
+AA420200	Pet Torso Meat A8	Meat
+AB420200	Riddle B Meat A8	Meat
+AC420200	Pin I - Slash Meat A8	Meat
+AD420200	Pin I - Blunt Meat A8	Meat
+AE420200	Pin I - Pierce Meat A8	Meat
+AF420200	Pin II - Flame Meat A8	Meat
+B0420200	Pin II - Mud Meat A8	Meat
+B1420200	Pin II - Fog Meat A8	Meat
+B2420200	Hydro Meat A8	Meat
+B3420200	Belmur Meat A8	Meat
+B4420200	Lady Statue Meat A8	Meat
+B5420200	Sculpture Head Meat A8	Meat
+B6420200	Discordance I Meat A8	Meat
+B7420200	Discordance II Meat A8	Meat
+B8420200	Discordance III Meat A8	Meat
+B9420200	Discordance IV Meat A8	Meat
+BA420200	Discordance V Meat A8	Meat
+BB420200	Discordance VI Meat A8	Meat
+BC420200	Discordance VII Meat A8	Meat
+BD420200	Discordance VIII Meat A8	Meat
+BE420200	Discordance IX Meat A8	Meat
+C0420200	Hazaburi Meat A8	Meat
+C1420200	White Basilite Meat A8	Meat
+C2420200	Super Cha Meat A8	Meat
+C4420200	Deer King Meat A8	Meat
+CA420200	Fetaleelings Meat A8	Meat
+CF420200	Wa-Ra Meat A8	Meat
+D3420200	The Marquis Meat A8	Meat
+D5420200	Unknown Meat A8	Meat
+D6420200	Ghilruda Meat A8	Meat
+D7420200	Ma-Gia Meat A8	Meat
+DA420200	Gartan Meat A8	Meat
+E2420200	Vetton Meat A8	Meat
+E9420200	Manatine Meat A8	Meat
+EC420200	Sweet Meat A8	Meat
+EE420200	Nachiroux Meat A8	Meat
+FA420200	Geaux Meat A8	Meat
+FC420200	Gara Beast Meat A8	Meat
+FD420200	Oblivion Meat A8	Meat
+FE420200	Oblivion Meat A8	Meat
+FF420200	Oblivion Meat A8	Meat
+00430200	King's Sword Meat A8	Meat
+03430200	Abyssal Beast Meat A8	Meat
+04430200	Parasite Weed Meat A8	Meat
+05430200	Dark Horse Meat A8	Meat
+06430200	Spirit Jar Meat A8	Meat
+07430200	Chaos Meat A8	Meat
+09430200	Gartan Meat A8	Meat
+0A430200	Gartan Meat A8	Meat
+0B430200	Gartan Meat A8	Meat
+0C430200	Twin Swords Meat A8	Meat
+0D430200	Succum Meat A8	Meat
+16430200	Dooma Meat A8	Meat
+17430200	Toad Meat A8	Meat
+18430200	Toad Meat A8	Meat
+19430200	Toad Meat A8	Meat
+1A430200	Wiccard Meat A8	Meat
+1B430200	Wiccard Meat A8	Meat
+1C430200	Wiccard Meat A8	Meat
+1D430200	Wiccard Meat A8	Meat
+1E430200	Wiccard Meat A8	Meat
+1F430200	Wiccard Meat A8	Meat
+20430200	Wiccard Meat A8	Meat
+21430200	Wiccard Meat A8	Meat
+22430200	Wiccard Meat A8	Meat
+23430200	Wiccard Meat A8	Meat
+24430200	Wiccard Meat A8	Meat
+25430200	Wiccard Meat A8	Meat
+26430200	Wiccard Meat A8	Meat
+27430200	Wiccard Meat A8	Meat
+28430200	Wiccard Meat A8	Meat
+29430200	Wiccard Meat A8	Meat
+2A430200	Wiccard Meat A8	Meat
+2B430200	Basila Meat A8	Meat
+2C430200	Basila Meat A8	Meat
+2D430200	Basila Meat A8	Meat
+2E430200	Basila Meat A8	Meat
+30430200	Chin King Meat A8	Meat
+31430200	Chinny Meat A8	Meat
+32430200	Pale Muta Meat A8	Meat
+33430200	Iron Fish Meat A8	Meat
+34430200	Shim Meat A8	Meat
+35430200	Neblus Meat A8	Meat
+36430200	Moon Meat A8	Meat
+37430200	Moon Meat A8	Meat
+38430200	Rattle Meat A8	Meat
+39430200	Happy Meat A8	Meat
+3A430200	Magic Stone Meat A8	Meat
+3B430200	Dias Meat A8	Meat
+3C430200	Nuke Thermos Meat A8	Meat
+3D430200	Astro Meat A8	Meat
+42430200	Demon Flea Meat A8	Meat
+43430200	Boo Meat A8	Meat
+44430200	Boo Meat A8	Meat
+45430200	Boo Meat A8	Meat
+46430200	Caterpil Meat A8	Meat
+48430200	Caterpil Meat A8	Meat
+4B430200	Red Toad Meat A8	Meat
+4C430200	Caffy Meat A8	Meat
+50430200	AM Module II Meat A8	Meat
+51430200	Parasite Weed Meat A8	Meat
+52430200	Magic Coin Meat A8	Meat
+53430200	Hangman Meat A8	Meat
+54430200	Bot Meat A8	Meat
+55430200	Evil God Hand Meat A8	Meat
+58430200	Meat Soldier Meat A8	Meat
+59430200	Meat Soldier Meat A8	Meat
+5C430200	K HHH Meat A8	Meat
+5D430200	K HHH Meat A8	Meat
+5E430200	Wind King Don Meat A8	Meat
+5F430200	Wind King Don Meat A8	Meat
+60430200	Dark Relic Meat A8	Meat
+61430200	Magic Egg L Meat A8	Meat
+62430200	Golden Demon Meat A8	Meat
+63430200	Damu Shim Meat A8	Meat
+64430200	Damu Shim Meat A8	Meat
+65430200	Munga Meat A8	Meat
+66430200	Belmur Meat A8	Meat
+67430200	Super Cha Meat A8	Meat
+6B430200	Ceci Meat A8	Meat
+6C430200	Ma-Gia Meat A8	Meat
+6F430200	Gartan Meat A8	Meat
+75430200	Manatine Meat A8	Meat
+77430200	Sweet Meat A8	Meat
+78430200	Garara Beast Meat A8	Meat
+79430200	Dark Horse Meat A8	Meat
+7A430200	Chaos Meat A8	Meat
+7B430200	Chaos Meat A8	Meat
+7C430200	Chaos Meat A8	Meat
+7D430200	Gartan Meat A8	Meat
+7E430200	Gartan Meat A8	Meat
+7F430200	Gartan Meat A8	Meat
+81430200	Booster Meat A8	Meat
+82430200	Large Boost Meat A8	Meat
+83430200	XL Boost Meat A8	Meat
+84430200	Super Boost Meat A8	Meat
+85430200	Violent Module Meat A8	Meat
+86430200	Shinigami Meat A8	Meat
+87430200	Bot Meat A8	Meat
+88430200	Ma-Gia Meat A8	Meat
+09460200	Tar Barrel Meat A8	Meat
+0A460200	Carnivo Meat A8	Meat
+0B460200	Kakape Meat A8	Meat
+0C460200	Colow Meat A8	Meat
+0D460200	Dooma Meat A8	Meat
+0E460200	Toad Meat A8	Meat
+0F460200	Wiccard Meat A8	Meat
+10460200	Basila Meat A8	Meat
+15460200	Chinny Meat A8	Meat
+16460200	Enemall Meat A8	Meat
+17460200	Ashatri Meat A8	Meat
+19460200	Kotsubo Meat A8	Meat
+1A460200	Muta Beast Meat A8	Meat
+1B460200	Momochichi Meat A8	Meat
+1C460200	Hormone Meat A8	Meat
+1D460200	Casaburi Meat A8	Meat
+1E460200	Armored Fish Meat A8	Meat
+1F460200	Iron Fish Meat A8	Meat
+20460200	Shim Meat A8	Meat
+21460200	Nablus Meat A8	Meat
+22460200	Moon Meat A8	Meat
+23460200	Rattle Meat A8	Meat
+24460200	Happy Meat A8	Meat
+25460200	Magic Stone Meat A8	Meat
+26460200	Dias Meat A8	Meat
+27460200	Tunder Colt Meat A8	Meat
+28460200	Masked Demon Meat A8	Meat
+29460200	Nuke Thermos Meat A8	Meat
+2A460200	Magic Pot Meat A8	Meat
+2B460200	Astro Meat A8	Meat
+2F460200	Chimney Meat A8	Meat
+35460200	Demon Flea Meat A8	Meat
+39460200	Boo Meat A8	Meat
+3D460200	Riddy Meat A8	Meat
+3E460200	Alabaster Meat A8	Meat
+3F460200	Caterpil Meat A8	Meat
+40460200	Brave Caterpil Meat A8	Meat
+42460200	Abyssal Shroom Meat A8	Meat
+48460200	Red Toad Meat A8	Meat
+4B460200	Treasure Shell Meat A8	Meat
+4C460200	Treasure Shell Meat A8	Meat
+4D460200	Caffy Meat A8	Meat
+53460200	AM Module II Meat A8	Meat
+54460200	Violent Module Meat A8	Meat
+55460200	Ancient Fish Meat A8	Meat
+56460200	Parasite Weed Meat A8	Meat
+57460200	Mana Fruit Meat A8	Meat
+58460200	Sea Salt Meat A8	Meat
+5A460200	Pillar Meat A8	Meat
+5D460200	Magic Coin Meat A8	Meat
+5F460200	Hangman Meat A8	Meat
+61460200	Bot Meat A8	Meat
+62460200	Bittern Meat A8	Meat
+63460200	Bittern G Meat A8	Meat
+67460200	Magic Egg M Meat A8	Meat
+69460200	Evil God Hand Meat A8	Meat
+6C460200	Blue Treasure Meat A8	Meat
+6D460200	Red Treasure Meat A8	Meat
+6E460200	Gold Treasure Meat A8	Meat
+6F460200	Shinigami Meat A8	Meat
+72460200	Stone Painting Meat A8	Meat
+75460200	Magic Tree Meat A8	Meat
+77460200	Meat Soldier Meat A8	Meat
+79460200	K HHH Meat A8	Meat
+7A460200	Wind King Don Meat A8	Meat
+7F460200	Damukoro Meat A8	Meat
+82460200	Dark Relic Meat A8	Meat
+84460200	Magic Coin II Meat A8	Meat
+85460200	Kai Shim Meat A8	Meat
+88460200	Red Worm Meat A8	Meat
+8B460200	Magic Egg L Meat A8	Meat
+8C460200	Golden Demon Meat A8	Meat
+8E460200	Damu Shim Meat A8	Meat
+8F460200	Sapon Meat A8	Meat
+90460200	Steel Buuzu Meat A8	Meat
+91460200	Mynga Meat A8	Meat
+92460200	Pet Torso Meat A8	Meat
+93460200	Riddle B Meat A8	Meat
+94460200	Pin I - Slash Meat A8	Meat
+95460200	Pin I - Blunt Meat A8	Meat
+96460200	Pin I - Pierce Meat A8	Meat
+97460200	Pin II - Flame Meat A8	Meat
+98460200	Pin II - Mud Meat A8	Meat
+99460200	Pin II - Fog Meat A8	Meat
+9A460200	Hydro Meat A8	Meat
+9B460200	Belmur Meat A8	Meat
+9C460200	Lady Statue Meat A8	Meat
+9D460200	Sculpture Head Meat A8	Meat
+9E460200	Discordance I Meat A8	Meat
+9F460200	Discordance II Meat A8	Meat
+A0460200	Discordance III Meat A8	Meat
+A1460200	Discordance IV Meat A8	Meat
+A2460200	Discordance V Meat A8	Meat
+A3460200	Discordance VI Meat A8	Meat
+A4460200	Discordance VII Meat A8	Meat
+A5460200	Discordance VIII Meat A8	Meat
+A6460200	Discordance IX Meat A8	Meat
+A8460200	Hazaburi Meat A8	Meat
+A9460200	White Basilite Meat A8	Meat
+AA460200	Super Cha Meat A8	Meat
+AC460200	Deer King Meat A8	Meat
+B2460200	Fetaleelings Meat A8	Meat
+B7460200	Wa-Ra Meat A8	Meat
+BB460200	The Marquis Meat A8	Meat
+BD460200	Unknown Meat A8	Meat
+BE460200	Ghilruda Meat A8	Meat
+BF460200	Ma-Gia Meat A8	Meat
+C2460200	Gartan Meat A8	Meat
+CA460200	Vetton Meat A8	Meat
+D1460200	Manatine Meat A8	Meat
+D4460200	Sweet Meat A8	Meat
+D6460200	Nachiroux Meat A8	Meat
+E2460200	Geaux Meat A8	Meat
+E4460200	Gara Beast Meat A8	Meat
+E5460200	Oblivion Meat A8	Meat
+E6460200	Oblivion Meat A8	Meat
+E7460200	Oblivion Meat A8	Meat
+E8460200	King's Sword Meat A8	Meat
+EB460200	Abyssal Beast Meat A8	Meat
+EC460200	Parasite Weed Meat A8	Meat
+ED460200	Dark Horse Meat A8	Meat
+EE460200	Spirit Jar Meat A8	Meat
+EF460200	Chaos Meat A8	Meat
+F1460200	Gartan Meat A8	Meat
+F2460200	Gartan Meat A8	Meat
+F3460200	Gartan Meat A8	Meat
+F4460200	Twin Swords Meat A8	Meat
+F5460200	Succum Meat A8	Meat
+FE460200	Dooma Meat A8	Meat
+FF460200	Toad Meat A8	Meat
+00470200	Toad Meat A8	Meat
+01470200	Toad Meat A8	Meat
+02470200	Wiccard Meat A8	Meat
+03470200	Wiccard Meat A8	Meat
+04470200	Wiccard Meat A8	Meat
+05470200	Wiccard Meat A8	Meat
+06470200	Wiccard Meat A8	Meat
+07470200	Wiccard Meat A8	Meat
+08470200	Wiccard Meat A8	Meat
+09470200	Wiccard Meat A8	Meat
+0A470200	Wiccard Meat A8	Meat
+0B470200	Wiccard Meat A8	Meat
+0C470200	Wiccard Meat A8	Meat
+0D470200	Wiccard Meat A8	Meat
+0E470200	Wiccard Meat A8	Meat
+0F470200	Wiccard Meat A8	Meat
+10470200	Wiccard Meat A8	Meat
+11470200	Wiccard Meat A8	Meat
+12470200	Wiccard Meat A8	Meat
+13470200	Basila Meat A8	Meat
+14470200	Basila Meat A8	Meat
+15470200	Basila Meat A8	Meat
+16470200	Basila Meat A8	Meat
+18470200	Chin King Meat A8	Meat
+19470200	Chinny Meat A8	Meat
+1A470200	Pale Muta Meat A8	Meat
+1B470200	Iron Fish Meat A8	Meat
+1C470200	Shim Meat A8	Meat
+1D470200	Neblus Meat A8	Meat
+1E470200	Moon Meat A8	Meat
+1F470200	Moon Meat A8	Meat
+20470200	Rattle Meat A8	Meat
+21470200	Happy Meat A8	Meat
+22470200	Magic Stone Meat A8	Meat
+23470200	Dias Meat A8	Meat
+24470200	Nuke Thermos Meat A8	Meat
+25470200	Astro Meat A8	Meat
+2A470200	Demon Flea Meat A8	Meat
+2B470200	Boo Meat A8	Meat
+2C470200	Boo Meat A8	Meat
+2D470200	Boo Meat A8	Meat
+2E470200	Caterpil Meat A8	Meat
+30470200	Caterpil Meat A8	Meat
+33470200	Red Toad Meat A8	Meat
+34470200	Caffy Meat A8	Meat
+38470200	AM Module II Meat A8	Meat
+39470200	Parasite Weed Meat A8	Meat
+3A470200	Magic Coin Meat A8	Meat
+3B470200	Hangman Meat A8	Meat
+3C470200	Bot Meat A8	Meat
+3D470200	Evil God Hand Meat A8	Meat
+40470200	Meat Soldier Meat A8	Meat
+41470200	Meat Soldier Meat A8	Meat
+44470200	K HHH Meat A8	Meat
+45470200	K HHH Meat A8	Meat
+46470200	Wind King Don Meat A8	Meat
+47470200	Wind King Don Meat A8	Meat
+48470200	Dark Relic Meat A8	Meat
+49470200	Magic Egg L Meat A8	Meat
+4A470200	Golden Demon Meat A8	Meat
+4B470200	Damu Shim Meat A8	Meat
+4C470200	Damu Shim Meat A8	Meat
+4D470200	Munga Meat A8	Meat
+4E470200	Belmur Meat A8	Meat
+4F470200	Super Cha Meat A8	Meat
+53470200	Ceci Meat A8	Meat
+54470200	Ma-Gia Meat A8	Meat
+57470200	Gartan Meat A8	Meat
+5D470200	Manatine Meat A8	Meat
+5F470200	Sweet Meat A8	Meat
+60470200	Garara Beast Meat A8	Meat
+61470200	Dark Horse Meat A8	Meat
+62470200	Chaos Meat A8	Meat
+63470200	Chaos Meat A8	Meat
+64470200	Chaos Meat A8	Meat
+65470200	Gartan Meat A8	Meat
+66470200	Gartan Meat A8	Meat
+67470200	Gartan Meat A8	Meat
+69470200	Booster Meat A8	Meat
+6A470200	Large Boost Meat A8	Meat
+6B470200	XL Boost Meat A8	Meat
+6C470200	Super Boost Meat A8	Meat
+6D470200	Violent Module Meat A8	Meat
+6E470200	Shinigami Meat A8	Meat
+6F470200	Bot Meat A8	Meat
+70470200	Ma-Gia Meat A8	Meat
+F1490200	Talisman	Valubles
+F2490200	Mystery Crystal	Valubles
+F3490200	Magic Chalk	Consumables
+F4490200	Open Bridcage Casket	Valubles
+F5490200	Birdcage Key	Valubles
+F6490200	Rueful Fig	Valubles
+F7490200	Magic Herbs	Valubles
+F8490200	Iron Epitaph	Valubles
+F9490200	Swamp Crab	Valubles
+FA490200	Monster Mucus	Valubles
+FB490200	Blood Gem	Valubles
+FC490200	Dusk Myrrh	Valubles
+FD490200	Moonlight Mushroom	Valubles
+FE490200	Golden Slime Mold	Valubles
+FF490200	False Snake Egg	Valubles
+004A0200	Birdcage Casket	Valubles
+014A0200	Empty Vial	Valubles
+024A0200	Sliced Woodchip	Valubles
+034A0200	Ancient Tool	Valubles
+044A0200	Crimson Robe	Valubles
+054A0200	Pot of Honey	Valubles
+064A0200	Destiny Scarf	Valubles
+074A0200	Magic Leaves	Valubles
+084A0200	Golden Garlic	Valubles
+094A0200	Antique Bag	Valubles
+0A4A0200	Hanging Fruit	Valubles
+0B4A0200	Bracco Leaves	Valubles
+0C4A0200	Bloody Demon Mucus	Valubles
+0D4A0200	Bisque Doll	Valubles
+0E4A0200	Red Stone Dust	Valubles
+0F4A0200	Emerald Megnat	Valubles
+104A0200	Mana Pot	Valubles
+114A0200	Sad Letter	Valubles
+124A0200	Otherworldly Book	Valubles
+134A0200	Bloodstained Mittens	Valubles
+144A0200	Saint's Red Wine	Valubles
+154A0200	Rare Pills	Valubles
+164A0200	Black Cat Ornament	Valubles
+174A0200	Special Ticket	Valubles
+184A0200	Fake Special Ticket	Valubles
+194A0200	Caciocavallo	Valubles
+1A4A0200	Pumpkin Panties	Valubles
+1B4A0200	Magic Blue Thread	Valubles
+1C4A0200	Roasted Trout	Valubles
+1D4A0200	Soul Bottle	Valubles
+1E4A0200	Ghostwritten Request	Valubles
+1F4A0200	Bloody Handkerchief	Valubles
+204A0200	Confession Bouquet	Valubles
+214A0200	Surprise Anchor	Valubles
+224A0200	Golden Milking Pail	Valubles
+234A0200	Fresh Milled Rice	Valubles
+244A0200	Godly Wheat Seeds	Valubles
+254A0200	Godly Wheat	Valubles
+264A0200	Life Tarot	Valubles
+274A0200	Entry Ticket	Valubles
+284A0200	Special Premium Entry Ticket	Valubles
+294A0200	Love Key	Valubles
+2A4A0200	VIP Card	Valubles
+2B4A0200	Suspicious Sweets	Valubles
+2C4A0200	Tongzi Egg	Valubles
+2D4A0200	Codebreaker's Tome	Valubles
+2E4A0200	Gray Wig	Valubles
+2F4A0200	Memorial Woodpipe	Valubles
+304A0200	Witch's Token	Valubles
+314A0200	Token Ticket	Valubles
+334A0200	Otherworldly Sample	Valubles
+344A0200	Sage Salle's Bust	Valubles
+354A0200	Merchant's Compote	Valubles
+364A0200	Masque Neck Vase	Valubles
+374A0200	Cranbiana's Cup	Valubles
+384A0200	Nuby's Skull	Valubles
+394A0200	Star Emperor's Stuff	Valubles
+3A4A0200	Starry Sea Vase	Valubles
+3B4A0200	King's Chese Piece	Valubles
+3C4A0200	No. 9 Monument Slab	Valubles
+3D4A0200	Green Bird Beast Cloth	Valubles
+3E4A0200	Guillotine Dice	Valubles
+3F4A0200	Empress' Chair	Valubles
+404A0200	Perpetual Clock	Valubles
+414A0200	Death of Civilizations	Valubles
+424A0200	Queen Lira's Tiara	Valubles
+434A0200	Otherworld Image	Valubles
+444A0200	Molg Island Image	Valubles
+454A0200	Consort's Earrings	Valubles
+464A0200	Queen's Jewelry	Valubles
+474A0200	Amu-Inscribed Bureau	Valubles
+484A0200	Abyssal Conch Shell	Valubles
+494A0200	Marian's Harp	Valubles
+4A4A0200	Binark VII's Royal Stuff	Valubles
+4B4A0200	Giant Fire Lizard Egg	Valubles
+4C4A0200	St. Min's Demon Mask	Valubles
+4D4A0200	Testorant	Valubles
+4E4A0200	Ancient Coin of Est	Valubles
+4F4A0200	Screw Of Ghalaya	Valubles
+504A0200	Suuya's Mirror	Valubles
+514A0200	Clairvoyance Medallion	Valubles
+524A0200	Ancient Sage's Book	Valubles
+534A0200	Vase of Merkatza	Valubles
+544A0200	Man-eating Wardrobe	Valubles
+554A0200	Catalog Obscura	Valubles
+564A0200	Acceptable Curio	Valubles
+B84A0200	Narthex Chest Key	Valubles
+B94A0200	Apse Chest Key	Valubles
+BA4A0200	Marquis' Chest Key	Valubles
+BB4A0200	Metropolis Chest Key	Valubles
+BC4A0200	Theater Master Key	Valubles
+BD4A0200	Pizar Ticket	Valubles
+BE4A0200	Gallery Chest Key	Valubles
+BF4A0200	Nemu Chest Key	Valubles
+C04A0200	Prison Master Key	Valubles
+C14A0200	Imperial Garden Chest Key	Valubles
+C24A0200	Hallway Chest Key	Valubles
+C34A0200	Uru Manor Chest Key	Valubles
+C44A0200	Corridor Key	Valubles
+C54A0200	Apartment Key	Valubles
+C64A0200	Cartiervita Chest Key	Valubles
+C74A0200	Cathedral Chest Key	Valubles
+C84A0200	Ashen Chest Key	Valubles
+C94A0200	Suspicious Chest Key	Valubles
+CA4A0200	Apse Chest Key II	Valubles
+CB4A0200	Apse Chest Key III	Valubles
+CC4A0200	Yellow Chest Key	Valubles
+CD4A0200	Crimson Chest Key	Valubles
+CE4A0200	Indigo Chest Key	Valubles
+CF4A0200	Narthex Chest Key II	Valubles
+D04A0200	Apartment Key II	Valubles
+62710200	Fog of Flesh	Donum Pact
+63710200	Tragic Death	Donum Pact
+64710200	King's Decreee	Donum Pact
+65710200	D Bittern Crush	Donum Pact
+66710200	Trial Magic 6166	Donum Pact
+67710200	116-Qmega	Donum Pact
+68710200	Calculminate	Donum Pact
+69710200	Flame Dance	Donum Pact
+6A710200	Mud Fling	Donum Pact
+6B710200	Lamp Fog	Donum Pact
+6C710200	Wind Blade	Donum Pact
+6D710200	Rock Smasher	Donum Pact
+6E710200	Spear	Donum Pact
+6F710200	Flame Dance II	Donum Pact
+70710200	Mud Fling II	Donum Pact
+71710200	Lamp Fog II	Donum Pact
+72710200	Wind Blade	Donum Pact
+73710200	Rock Crusher	Donum Pact
+74710200	Grand Spear	Donum Pact
+75710200	Flame Dancer III	Donum Pact
+76710200	Mud Fling III	Donum Pact
+77710200	Lamp Fog III	Donum Pact
+78710200	Grand Wind Blade	Donum Pact
+79710200	Super Rock Crusher	Donum Pact
+7A710200	Devil-Mask Spear	Donum Pact
+7B710200	Flame Dancer III+	Donum Pact
+7C710200	Mud Fling III+	Donum Pact
+7D710200	Lamp Fog III+	Donum Pact
+7E710200	116-Alpha	Donum Pact
+7F710200	116-Scalar Beta	Donum Pact
+80710200	116-Vector Pi	Donum Pact
+81710200	Flame Dance IV	Donum Pact
+82710200	Mud Fling IV	Donum Pact
+83710200	Lamp Fog IV	Donum Pact
+84710200	Cleanse: Slash-Fog	Donum Pact
+85710200	Verdance: Strike-mud	Donum Pact
+86710200	Flare: Pierce-Fire	Donum Pact
+87710200	Mad Moonlight	Donum Pact
+88710200	Cat Rush	Donum Pact
+89710200	Head Crush	Donum Pact
+8A710200	Black Goat Strike	Donum Pact
+8B710200	Pyrophoric Gas	Donum Pact
+8C710200	Poisonous Pandemic	Donum Pact
+8D710200	Piercing Stem Shot	Donum Pact
+8E710200	Cursed Poison Attack	Donum Pact
+8F710200	Divine Flame	Donum Pact
+90710200	Burning Stage	Donum Pact
+91710200	Chastisement	Donum Pact
+92710200	Beehive Cluster	Donum Pact
+93710200	White Mist	Donum Pact
+94710200	Mud Leaf Tea	Donum Pact
+95710200	Sensual Spear	Donum Pact
+96710200	Sexy Wrestling	Donum Pact
+97710200	Eyes of the Abyss	Donum Pact
+98710200	Fantasy Fog Tale	Donum Pact
+99710200	Festive Rock Crusher	Donum Pact
+9A710200	Abyssal Rondo	Donum Pact
+9B710200	Purgatory's Hellfire	Donum Pact
+9C710200	Black Syrup Fever	Donum Pact
+9D710200	Charge	Donum Pact
+9E710200	Random Charge	Donum Pact
+9F710200	All Charge	Donum Pact
+A0710200	All Rushing Charge	Donum Pact
+A1710200	All Suicidal Charge	Donum Pact
+A2710200	Fame Dabce IV	Donum Pact
+A3710200	Kelchen Riehi	Donum Pact
+A4710200	Maya Maya	Donum Pact
+A5710200	Nerdy Donna	Donum Pact
+A6710200	Incite	Donum Pact
+A7710200	Incite II	Donum Pact
+A8710200	Incite III	Donum Pact
+A9710200	Tactical Incite	Donum Pact
+AA710200	Iron Hide Incite	Donum Pact
+AB710200	Cruel Cat's Incite	Donum Pact
+AC710200	Sexy Incite	Donum Pact
+AD710200	Poor Incite	Donum Pact
+AE710200	Meaty Incite	Donum Pact
+AF710200	Sun's Guidance	Donum Pact
+B0710200	Unearthed Fortune	Donum Pact
+B1710200	Unearthed Fortune II	Donum Pact
+B2710200	Unearthed Fortune II	Donum Pact
+B3710200	Persistent Hunter	Donum Pact
+B4710200	Hate Marker	Donum Pact
+B5710200	Maestro's Camouflage	Donum Pact
+B6710200	Hate Mark	Donum Pact
+B7710200	Hostile Dance	Donum Pact
+B8710200	Flate Seal	Donum Pact
+B9710200	Body Odor	Donum Pact
+BA710200	Lucky Feather Arrow	Donum Pact
+BB710200	Casual Disconnect	Donum Pact
+BC710200	Blame Game	Donum Pact
+BD710200	Hate Mark	Donum Pact
+BE710200	Brand Of Hatred	Donum Pact
+BF710200	Hate Mark II	Donum Pact
+C0710200	Hide	Donum Pact
+C1710200	Lunatic Edge	Donum Pact
+C2710200	Enhanced Attack	Donum Pact
+C3710200	Enhanced Attack II	Donum Pact
+C4710200	Song of Valor	Donum Pact
+C5710200	Enhanced Attack III	Donum Pact
+C6710200	Lunatic Edge II	Donum Pact
+C7710200	Vanguard Sharpen	Donum Pact
+C8710200	Full Moon Cookie	Donum Pact
+C9710200	Oath of Allegiance	Donum Pact
+CA710200	Lunatic Edge III	Donum Pact
+CB710200	Vanguard Sharpen II	Donum Pact
+CC710200	Warrior of Love+	Donum Pact
+CD710200	Lunatic Lover	Donum Pact
+CE710200	Softening	Donum Pact
+CF710200	Area Softening	Donum Pact
+D0710200	Cookout Diarrhea	Donum Pact
+D1710200	Softening II	Donum Pact
+D2710200	Bouncy Carnival	Donum Pact
+D3710200	Softening III	Donum Pact
+D4710200	Death Scene	Donum Pact
+D5710200	Area Softening III	Donum Pact
+D6710200	Hardening Prevention	Donum Pact
+D7710200	Hymn Of Protection	Donum Pact
+D8710200	Vanguard Protect+	Donum Pact
+D9710200	Hardened Prevention II	Donum Pact
+DA710200	Goddess's Protection	Donum Pact
+DB710200	Instant Ironization	Donum Pact
+DC710200	Goddess's Protection	Donum Pact
+DD710200	Rock-Hard Touch	Donum Pact
+DE710200	Vanguard Protect+ II	Donum Pact
+DF710200	Hardened Prevention III	Donum Pact
+E0710200	Vanguard Protect+ III	Donum Pact
+E1710200	Lucky Charm of Courage	Donum Pact
+E2710200	Meat Curtain	Donum Pact
+E3710200	Haste	Donum Pact
+E4710200	Triail of the Stars	Donum Pact
+E5710200	Haste Rearguard	Donum Pact
+E6710200	Hast All	Donum Pact
+E7710200	Hast II	Donum Pact
+E8710200	Haste Vanguard II	Donum Pact
+E9710200	Haste III	Donum Pact
+EA710200	Haste Vanguard III	Donum Pact
+EB710200	Cosmic Clock	Donum Pact
+EC710200	Slow-Foot	Donum Pact
+ED710200	All Slow-Foot	Donum Pact
+EE710200	Slow-Foot II	Donum Pact
+EF710200	Area Slow-Foot II	Donum Pact
+F0710200	Slow-Foot III	Donum Pact
+F1710200	Area Slow-Foot III	Donum Pact
+F2710200	Meow!	Donum Pact
+F3710200	Laughing Stage	Donum Pact
+F4710200	Mother's Scolding	Donum Pact
+F5710200	Black Cat Rondo	Donum Pact
+F6710200	Nyaaa	Donum Pact
+F7710200	Focus	Donum Pact
+F8710200	Vanguard Focus	Donum Pact
+F9710200	Focus II	Donum Pact
+FA710200	Focus II	Donum Pact
+FB710200	Focus III	Donum Pact
+FC710200	Dizzy	Donum Pact
+FD710200	Dizzy II	Donum Pact
+FE710200	Blinding	Donum Pact
+FF710200	Star Avoidance	Donum Pact
+00720200	Avoidance II	Donum Pact
+01720200	Afterimage	Donum Pact
+02720200	Arcanum Afterimage	Donum Pact
+03720200	Portal Maneuver	Donum Pact
+04720200	Avoidance III	Donum Pact
+05720200	Underworld Adhesive	Donum Pact
+06720200	Adhesive II	Donum Pact
+07720200	Trial Magic : Adhesive 56	Donum Pact
+08720200	Shooting Star	Donum Pact
+09720200	Forsaken Eyes	Donum Pact
+0A720200	Evil Eye's Precise Shot	Donum Pact
+0B720200	Lucky Hit	Donum Pact
+0C720200	Cracked Star	Donum Pact
+0D720200	Goretic High	Donum Pact
+0E720200	Stamina	Donum Pact
+0F720200	Miasma Slime	Donum Pact
+10720200	Iron Slash-Blunt Resist	Donum Pact
+11720200	Divine Protection	Donum Pact
+12720200	Doe Sketch	Donum Pact
+13720200	Stag Sketch	Donum Pact
+14720200	Stamina II	Donum Pact
+15720200	Will II	Donum Pact
+16720200	Human Pillar	Donum Pact
+17720200	Vanguard Stamina II	Donum Pact
+18720200	Vanguard Will II	Donum Pact
+19720200	Immortal Resistance	Donum Pact
+1A720200	Magia Cloud	Donum Pact
+1B720200	Nectar Disease	Donum Pact
+1C720200	Love Power	Donum Pact
+1D720200	Will III	Donum Pact
+1E720200	Vanguard Stamina III	Donum Pact
+1F720200	Sun's Blessings	Donum Pact
+20720200	Rearguard Stamina II	Donum Pact
+21720200	Iron Hide Incite	Donum Pact
+22720200	Starry Eyes	Donum Pact
+23720200	Wall of Sunlight	Donum Pact
+24720200	Serious Mode	Donum Pact
+25720200	Supercharge	Donum Pact
+26720200	Apotheosis	Donum Pact
+27720200	Secret Shot Game	Donum Pact
+28720200	Alice Mode	Donum Pact
+29720200	Awakening	Donum Pact
+2A720200	Supercharge II	Donum Pact
+2B720200	Thunder Emperor 2	Donum Pact
+2C720200	Supercharge III	Donum Pact
+2D720200	Supercharge III ++	Donum Pact
+2E720200	Trial Magic P775	Donum Pact
+2F720200	Bestial Wrath 333	Donum Pact
+30720200	Bestial Wrath 666	Donum Pact
+31720200	Meat Doll	Donum Pact
+32720200	Contract Supercharge	Donum Pact
+33720200	Witch's Supercharge	Donum Pact
+34720200	Poison Trap	Donum Pact
+35720200	Illusion Trap	Donum Pact
+36720200	Canfusion Trap	Donum Pact
+37720200	Startle Trap	Donum Pact
+38720200	Stench Trap	Donum Pact
+39720200	Trap Disguise Type I	Donum Pact
+3A720200	Trap Disguise Type II	Donum Pact
+3B720200	Vanguard Protect	Donum Pact
+3C720200	Protect	Donum Pact
+3D720200	Vanguard Protect II	Donum Pact
+3E720200	Human Shield	Donum Pact
+3F720200	Disgraceful Lucky Charm	Donum Pact
+40720200	Surrogate	Donum Pact
+41720200	Immortal, But…	Donum Pact
+42720200	Protect III	Donum Pact
+43720200	Vanguard Protect III	Donum Pact
+44720200	Surrogate III	Donum Pact
+45720200	Vanguard Protect IV	Donum Pact
+46720200	Human Sacrifice	Donum Pact
+47720200	Meat Shield	Donum Pact
+48720200	Surrogate	Donum Pact
+49720200	Purification	Donum Pact
+4B720200	Vanguard Debuff - Undo	Donum Pact
+4C720200	Trial Magic 214 ++	Donum Pact
+4D720200	Amaterasu Protection	Donum Pact
+4E720200	Rear Debuff - Undo	Donum Pact
+4F720200	Block - Hit	Donum Pact
+50720200	Block - Magic	Donum Pact
+51720200	Block - Physical	Donum Pact
+52720200	Block - Hit	Donum Pact
+53720200	Block - Slash	Donum Pact
+54720200	Block - Pierce	Donum Pact
+55720200	Block II - Slash	Donum Pact
+56720200	Block Hit - Paste	Donum Pact
+57720200	Block II - Flame	Donum Pact
+58720200	Block II - Mud	Donum Pact
+59720200	Block II - Fog	Donum Pact
+5A720200	Block II - Pierce	Donum Pact
+5B720200	Block III - Hit	Donum Pact
+5C720200	Block III - Pierce	Donum Pact
+5D720200	Block III - Flame	Donum Pact
+5E720200	Block III - Mud	Donum Pact
+5F720200	Block III - Fog	Donum Pact
+60720200	Block III - Flame	Donum Pact
+61720200	Block III - Fog	Donum Pact
+62720200	Block III - Slash	Donum Pact
+63720200	Block III - Mud	Donum Pact
+64720200	Block III - Flame	Donum Pact
+65720200	Block III - Mud	Donum Pact
+66720200	Block III - Fog	Donum Pact
+67720200	Block III - Hit	Donum Pact
+68720200	Block III - Slash	Donum Pact
+69720200	Block III - Pierce	Donum Pact
+6A720200	Block IV - Hit	Donum Pact
+6B720200	Trial Magic - Bulwark	Donum Pact
+6C720200	Tin of Greed	Donum Pact
+6D720200	Tin of Suffering	Donum Pact
+6E720200	Tin of Infancy	Donum Pact
+6F720200	Tin of Wisdom	Donum Pact
+70720200	Tin of Pleasure	Donum Pact
+71720200	Tin of Innocence	Donum Pact
+72720200	Tin of Courage	Donum Pact
+73720200	Tin of Wealth	Donum Pact
+74720200	Tin of Love	Donum Pact
+75720200	Massacre Flame	Donum Pact
+76720200	Bloodletting	Donum Pact
+77720200	Beehive Cluster	Donum Pact
+78720200	Stolen Fate	Donum Pact
+79720200	Bloodletting	Donum Pact
+7A720200	Trial Magic 8485	Donum Pact
+7B720200	Parasite Inhalation	Donum Pact
+7C720200	Blodletting II	Donum Pact
+7D720200	Trial Magic 8485++	Donum Pact
+7E720200	Bloody Steel	Donum Pact
+7F720200	Bloody Steel II	Donum Pact
+80720200	Bloody High	Donum Pact
+81720200	Titillating Terror	Donum Pact
+82720200	Matchless Power	Donum Pact
+83720200	Bug Bomb	Donum Pact
+84720200	Spring of Courage	Donum Pact
+85720200	Loving Devotion	Donum Pact
+86720200	Karma Violence	Donum Pact
+87720200	Flowing Veil	Donum Pact
+88720200	Flowing Veil: Shield	Donum Pact
+89720200	Thought Robbery	Donum Pact
+8A720200	Peace Robbery	Donum Pact
+8B720200	Rite of Sacrifice	Donum Pact
+8C720200	Boost Robbery	Donum Pact
+8D720200	Harden Robbery	Donum Pact
+8E720200	Focus Robbery	Donum Pact
+8F720200	AVD Robbery	Donum Pact
+90720200	Trial Magic 12848	Donum Pact
+91720200	Flesh Control	Donum Pact
+92720200	Heretical Weak Body	Donum Pact
+93720200	Flame Storm	Donum Pact
+94720200	Floral Rush	Donum Pact
+95720200	Defend: Phys. Barrier	Donum Pact
+96720200	Defend: Magic Barrier	Donum Pact
+97720200	Assist: Attack Boost	Donum Pact
+98720200	Assist: Accuracy	Donum Pact
+99720200	Assist: Solid Guard	Donum Pact
+9A720200	Support: Heal	Donum Pact
+9B720200	Support: Status	Donum Pact
+9C720200	Support: Heal	Donum Pact
+9D720200	Support: Nullify Buff	Donum Pact
+9E720200	Support: Undo Rage	Donum Pact
+9F720200	Support: Heal	Donum Pact
+A0720200	Assist: Hate	Donum Pact
+A1720200	Assist: Hate	Donum Pact
+A2720200	Assist: Hate	Donum Pact
+A3720200	Solo: Spell	Donum Pact
+A4720200	Absorb Attack: Spell	Donum Pact
+A5720200	Solo: Abnormal	Donum Pact
+A6720200	Area: Abnormal	Donum Pact
+A7720200	Solo: Phys.	Donum Pact
+A8720200	Area: Phys.	Donum Pact
+A9720200	Manly Meat Bullet	Donum Pact
+AA720200	Block - Flaming Shot	Donum Pact
+AB720200	Fighter's Counter	Donum Pact
+AC720200	Moon Counter	Donum Pact
+AD720200	Returning Flaming Star	Donum Pact
+AE720200	Kitty Punch Counter	Donum Pact
+AF720200	Black Goat Mud	Donum Pact
+B0720200	Ill Fog Swap	Donum Pact
+B1720200	Double Return	Donum Pact
+B2720200	Tragic Stage	Donum Pact
+B3720200	Rebel's Magic Counter	Donum Pact
+B4720200	Gentle Tit for Tat	Donum Pact
+B5720200	Ressentiment Play	Donum Pact
+B6720200	Black Lily Disgrace	Donum Pact
+B7720200	Fighter's Counter II	Donum Pact
+B8720200	Secret Optimal Slash	Donum Pact
+B9720200	Awakened Counter	Donum Pact
+BA720200	Counter Magic Reprise	Donum Pact
+BB720200	Nebula Counter	Donum Pact
+BC720200	Causal Revenge	Donum Pact
+BD720200	Mud Counterattack	Donum Pact
+BE720200	Love and Courage	Donum Pact
+BF720200	Magic Counter: Match	Donum Pact
+C0720200	Black Cat Counter	Donum Pact
+C1720200	Fighter's Counter III	Donum Pact
+C2720200	Traveling De-Stress	Donum Pact
+C3720200	Revenge Meat	Donum Pact
+C4720200	Pierce Counterattack	Donum Pact
+C5720200	Trial Magic C0131	Donum Pact
+C6720200	Sanka Tuuli	Donum Pact
+C7720200	Far Counterattack	Donum Pact
+C8720200	Trial Magic C11	Donum Pact
+C9720200	Regen Technique	Donum Pact
+CA720200	Hardening Prevention	Donum Pact
+CB720200	Softening	Donum Pact
+CC720200	GateKeeper's Proof	Donum Pact
+CD720200	Rapid Boost	Donum Pact
+CE720200	Eagle Eye	Donum Pact
+CF720200	Animus Snatch	Donum Pact
+D0720200	Treasure Seeker	Donum Pact
+D1720200	Heart of Wisdom	Donum Pact
+D2720200	Clown's Spectacle	Donum Pact
+D3720200	Magic Trick	Donum Pact
+D4720200	Pain, Go Away	Donum Pact
+D5720200	Panic Circus	Donum Pact
+D6720200	Emergency Regen	Donum Pact
+D7720200	Shadow Dodge	Donum Pact
+D8720200	Shadow Avatar	Donum Pact
+D9720200	Ready-to-Eat Dolce	Donum Pact
+DA720200	Seet charge	Donum Pact
+DB720200	Magic Tempest	Donum Pact
+DC720200	Law: Dizzying Mist	Donum Pact
+DD720200	Law: Weak Adhesion	Donum Pact
+DE720200	Law: Weak Attack	Donum Pact
+DF720200	Big Horn	Donum Pact
+E0720200	Mode Change	Donum Pact
+E1720200	Deactivate Limiter	Donum Pact
+E2720200	Prima Reborn	Donum Pact
+E3720200	Wild Escape	Donum Pact
+E4720200	Absolute Evasion	Donum Pact
+E5720200	Battle Cheer Dance	Donum Pact
+E6720200	Everyone's Happy	Donum Pact
+E7720200	Eclipse Light	Donum Pact
+E8720200	Lunar Eclipse	Donum Pact
+E9720200	Golden Blessing	Donum Pact
+EA720200	Quick Step	Donum Pact
+21740200	Counter	Donum Pact
+8B740200	Test Restore	Donum Pact
+8C740200	Test Hate	Donum Pact
+8D740200	Test Cover	Donum Pact
+8E740200	Test Reflx	Donum Pact
+91740200	Test Summon	Donum Pact
+93740200	Test Provoke	Donum Pact
+94740200	Test Golem	Donum Pact
+A3740200	Test Attack: % Used	Donum Pact
+A4740200	Test Attack: PS Used	Donum Pact
+A5740200	Explode: Bo-Bomb	Donum Pact
+A6740200	Explode: Tick-Bomb	Donum Pact
+B7740200	Explode: Bo-Bomb	Donum Pact
+B8740200	Explode: Tick-Bomb	Donum Pact
+B9740200	Explode: Tinkle	Donum Pact
+BA740200	Explode: Deco-Bomb	Donum Pact
+C1740200	Test Summon 1	Donum Pact
+C2740200	Test Summon 2	Donum Pact
+C3740200	Test Summon 3	Donum Pact
+C4740200	Test Summon 4	Donum Pact
+C5740200	Test Summon 5	Donum Pact
+C6740200	Test Summon 6	Donum Pact
+C7740200	Test Summon 7	Donum Pact
+C8740200	Test Summon 8	Donum Pact
+C9740200	Test Summon 9	Donum Pact
+CA740200	Test Summon 10	Donum Pact
+CB740200	Test Summon 11	Donum Pact
+CC740200	Test Summon 12	Donum Pact
+CD740200	Test Summon 13	Donum Pact
+CE740200	Test Summon 14	Donum Pact
+CF740200	Test Summon 15	Donum Pact
+D0740200	Test Summon 16	Donum Pact
+D1740200	Test Summon 17	Donum Pact
+D2740200	Test Summon 18	Donum Pact
+D3740200	Test Summon 19	Donum Pact
+D4740200	Test Summon 20	Donum Pact
+D5740200	Test Summon 21	Donum Pact
+D6740200	Test Summon 22	Donum Pact
+D7740200	Test Summon 23	Donum Pact
+D8740200	Test Summon 24	Donum Pact
+E1930400	1. Witch's Soul Pact	Coven/Pact
+E2930400	2. Fighter's Soul Pact	Coven/Pact
+E3930400	3. Guardian's Soul Pact	Coven/Pact
+E4930400	4. Raider's Soul Pact	Coven/Pact
+E5930400	5. Healer's Soul Pact	Coven/Pact
+E6930400	6. Apprentice's Soul Pact	Coven/Pact
+E7930400	7. Moon Strike Soul Pact	Coven/Pact
+E8930400	8. Sun Ward Soul Pact	Coven/Pact
+E9930400	9. Magic Master's Soul Pact	Coven/Pact
+EA930400	10. Star's Soul Pact	Coven/Pact
+EB930400	11. Tactician's Soul Pact	Coven/Pact
+EC930400	12. Witch Platoon's Soul Pact	Coven/Pact
+ED930400	13. Guard's Soul Pact	Coven/Pact
+EE930400	14. Armed Soldier's Soul Pact	Coven/Pact
+EF930400	15. Cat's Meow Soul Pact	Coven/Pact
+F0930400	16. Fugitive's Soul Pact	Coven/Pact
+F1930400	17. Great Scouts' Soul Pact	Coven/Pact
+F2930400	18. Black Goat's Soul Pact	Coven/Pact
+F3930400	19. Chatty Soul Pact	Coven/Pact
+F4930400	20. Witch Troop's Soul Pact	Coven/Pact
+F5930400	21. Trapper's Soul Pact	Coven/Pact
+F6930400	22. Emergency Food Squad's Soul Pact	Coven/Pact
+F7930400	23. Social Parasite's Soul Pact	Coven/Pact
+F8930400	24. Peerless Strongarm's Soul Pact	Coven/Pact
+F9930400	25. Flower Archer Festival Soul Pact	Coven/Pact
+FA930400	26. Diseased Soul Pact	Coven/Pact
+FB930400	27. Choir's Soul Pact	Coven/Pact
+FC930400	28. Massacre Soul Pact	Coven/Pact
+FD930400	29. Iron Wall Soul Pact	Coven/Pact
+FE930400	30. Deadly Poison Bug's Soul Pact	Coven/Pact
+FF930400	31. Gartan's Soul Pact	Coven/Pact
+01940400	32. Witch Battalion's Soul Pact	Coven/Pact
+02940400	33	Coven/Pact
+03940400	34	Coven/Pact
+04940400	35	Coven/Pact
+05940400	36	Coven/Pact
+06940400	37	Coven/Pact
+07940400	38	Coven/Pact
+08940400	39	Coven/Pact
+09940400	40	Coven/Pact
+0A940400	41. Grand Magic Master's Soul Pact	Coven/Pact
+0B940400	42	Coven/Pact
+0C940400	43	Coven/Pact
+0D940400	44	Coven/Pact
+0E940400	45	Coven/Pact
+0F940400	46	Coven/Pact
+10940400	47	Coven/Pact
+11940400	48	Coven/Pact
+12940400	49	Coven/Pact
+13940400	50	Coven/Pact
+14940400	51	Coven/Pact
+17940400	52	Coven/Pact
+18940400	53	Coven/Pact
+19940400	54	Coven/Pact
+1A940400	55	Coven/Pact
+1B940400	56	Coven/Pact
+1C940400	57. Awakening Soul Pact	Coven/Pact
+1D940400	58. Sculptor's Soul Pact	Coven/Pact
+1E940400	59. Men's Elegy Soul Pact	Coven/Pact
+1F940400	60. Grand Magic Division's Soul Pact	Coven/Pact
+20940400	61. Great Nebula Soul Pact	Coven/Pact
+21940400	62. Karmic Cycle Soul Pact	Coven/Pact
+22940400	63. Lord Galleria's Soul Pact	Coven/Pact
+23940400	64. Shining Drama Soul Pact	Coven/Pact
+24940400	65	Coven/Pact
+25940400	66. Thunder Arts Squad's Soul Pact	Coven/Pact
+26940400	67. White Clover Soul Pact	Coven/Pact
+27940400	68. Lucky Soul Pact	Coven/Pact
+28940400	69. Large Family's Soul Pact	Coven/Pact
+29940400	70. White Soul Pact	Coven/Pact
+2A940400	71. Hermit's Soul Pact	Coven/Pact
+2B940400	72. Purgatory Cycle Soul Pact	Coven/Pact
+2C940400	73. Jewelry Box Soul Pact	Coven/Pact
+2D940400	74. Black Soul Pact	Coven/Pact
+2E940400	75. Recipe Soul Pact	Coven/Pact
+2F940400	76. Witch Brigade's Soul Pact	Coven/Pact
+30940400	77. Love and Courage Soul Pact	Coven/Pact
+31940400	78	Coven/Pact
+32940400	79. Kamii Pact	Coven/Pact
+33940400	80	Coven/Pact
+34940400	81	Coven/Pact
+35940400	82	Coven/Pact
+36940400	83	Coven/Pact
+37940400	84	Coven/Pact
+38940400	85. Fighter's Soul Pact 2	Coven/Pact
+39940400	86. Guardian's Soul Pact 2	Coven/Pact
+3A940400	87. Raider's Soul Pact 2	Coven/Pact
+3B940400	88. Healer's Soul Pact 2	Coven/Pact
+3C940400	89. Soul Pact 333	Coven/Pact
+3D940400	90. Soul Pact 666	Coven/Pact
+3E940400	91. Bandit Lord's Soul Pact	Coven/Pact
+3F940400	92. Greater Social Parasite's Soul Pact	Coven/Pact
+40940400	93. Nomadic Soul Pact	Coven/Pact
+41940400	94. Old Soul Pact	Coven/Pact
+42940400	95. Meaty Soul Pact	Coven/Pact
+43940400	96. Ur Soul Pact	Coven/Pact
+44940400	97. Heretic's Soul Pact	Coven/Pact
+45940400	98. Black Page Soul Pact	Coven/Pact
+46940400	99. Polka's Soul Pact	Coven/Pact
+47940400	100. Daughter's Soul Pact	Coven/Pact
+48940400	101. Sun Maiden's Soul Pact	Coven/Pact
+49940400	102. Mysterious Soul Pact	Coven/Pact
+4A940400	103.Nachiroux's Soul Pact	Coven/Pact
+4B940400	104	Coven/Pact
+4C940400	105.Denial Breakers' Soul Pact	Coven/Pact
+4D940400	106	Coven/Pact
+4E940400	107	Coven/Pact
+4F940400	108	Coven/Pact
+50940400	109	Coven/Pact
+51940400	110. White Page Soul Pact 1	Coven/Pact
+52940400	111. Abundant Experience Soul Pact	Coven/Pact
+53940400	112. Abundant Experience Soul Pact G	Coven/Pact
+54940400	113	Coven/Pact
+55940400	114	Coven/Pact
+56940400	115	Coven/Pact
+57940400	116. Cat Brigade's Soul Pact 1	Coven/Pact
+58940400	117. Cat Brigade's Soul Pact 2	Coven/Pact
+[/Item]
+[Pact]
+Value>Pact Name
+E1930400	Witch
+E2930400	Fighter
+E3930400	Guardian
+E4930400	Raider
+E5930400	Healer
+E6930400	Apprentice
+E7930400	Moon Strike
+E8930400	Sun Ward
+E9930400	MMaster
+EA930400	Star
+EB930400	Tactician
+EC930400	Witch Platoon
+ED930400	Guard
+EE930400	Armed Soldier
+EF930400	Cat Meow
+F0930400	Fugitive
+F1930400	GreatScouts
+F2930400	Black Goat
+F3930400	Chatty
+F4930400	WitchTroop
+F5930400	Trapper
+F6930400	Food Squad
+F7930400	Parasite
+F8930400	Strongarm
+F9930400	FlArcher
+FA930400	Diseased
+FB930400	Choir
+FC930400	Massacre
+FD930400	Iron Wall
+FE930400	Poison Bug
+FF930400	Gartan
+01940400	Witch Battalion
+0A940400	GMMaster
+1C940400	Awakening
+1D940400	Sculptor
+1E940400	Men Elegy
+1F940400	Grand Magic Division
+20940400	Great Nebula
+21940400	Karmic Cycle
+22940400	Lord Galleria
+23940400	Shining Drama
+25940400	Thunder Arts Squad
+26940400	White Clover
+27940400	Lucky Soul
+28940400	Large FamilyPact
+29940400	White Soul
+2A940400	Hermit Soul
+2B940400	Purgatory Cycle
+2C940400	Jewelry Box
+2D940400	Black Soul
+2E940400	Recipe Soul
+2F940400	Witch Brigade
+30940400	Love And Courage
+32940400	Kamii
+38940400	Fighter 2
+39940400	Guardian 2
+3A940400	Raider 2
+3B940400	Healer 2
+3C940400	Soul 333
+3D940400	Soul 666
+3E940400	Bandit Lord
+3F940400	Social Parasite
+40940400	Nomadic
+41940400	Old Soul
+42940400	Meaty Soul
+43940400	Ur Soul
+44940400	Heretic
+45940400	Black Page
+46940400	Polka
+47940400	Daughter
+48940400	Sun Maiden
+49940400	Mysterious Soul
+4A940400	Nachiroux Soul
+4C940400	Denial Breakers
+51940400	White Page
+52940400	Abundant Experience
+53940400	Abundant Experience G
+57940400	Cat Brigade 1
+58940400	Cat Brigade 2
+[/Pact]
+[Skill]
+Value>Skill
+0001	Instant Aid
+0002	Heal
+0003	Instant Aid
+0004	Vanguard Heal
+0005	Vanguard Heal
+0006	Coven Heal
+0007	Groomed
+0008	Hope Of Bravery
+0009	Large Snack Order
+000A	Delicious Gossip
+000B	Vanguard Heal
+000C	Rearguard Heal
+000D	Delivery Box Lunch
+000E	Victory Banquet
+000F	Fantastic Beverage
+0010	Critical Heal
+0011	Song Of Praise
+0012	Critical Measures
+0013	Heal II
+0014	Vanguard Heal II
+0015	Hygiene Heal
+0016	Vanguard Heal II
+0017	Rearguard Heal II
+0018	Soothing Stage
+0019	Snuggly Hug
+001A	Heal II
+001B	Heal All II
+001C	Heal All II
+001D	Heal III
+001E	Gradual Heal Self III
+001F	Vanguard Heal III
+0020	Gradual Heal Self III
+0021	Gradual Heal III
+0022	Immortal Soul
+0023	Emergency Heal III
+0024	Coven Heal III
+0025	Vanguard Heal III
+0026	Deep Family Bond
+0027	Vanguard Heal III
+0028	Rearguard Heal III
+0029	Vanguard Heal III
+002A	Heal All III
+002B	Coven Heal II
+002C	Heal Self II
+002D	Heal Self III
+002E	Heal Self II
+002F	Heal Iv
+0030	Coven Heal Iv
+0031	Vanguard Heal Iv
+0032	Feel Better
+0033	Immortal Soul
+0034	Poison Purge
+0035	Abyss Purge
+0036	Floral Shower
+0037	Coven Abyss Purge
+0038	Coven Poison Purge
+0039	Vanguard Tranquillizer
+003A	Divine Healing
+003B	Majestic
+003C	Vanguard Poison Purge
+003D	Vanguard Abyss Purge
+003E	Heresy Heal Omega
+003F	End Of A Dream
+0040	Heresy Heal Self Omega
+0041	Fortune Reversal
+0042	Loving Care
+0043	Philanthropic Healing
+0044	Mad Sacrifice
+0045	All Poison Purge
+0046	All Abyss Purge
+0047	Healing Sunlight
+0048	Sinner's Miracle
+0049	Divine Karma
+004A	Vanguard Heal
+004B	Art Of Fight
+004C	Great Escape
+004D	Machina Support I
+004E	Machina Explosive I
+004F	Machina Decoy I
+0050	Machina Decoy I
+0051	Machina Cheer II
+0052	Machina Decoy Bomb
+0053	Machina Support II
+0054	Machina Cheer III
+0055	Machina Fortress I
+0056	Machina Wall II
+0057	Machina Fortress II
+0058	Machina Magic Barrier III
+0059	Machina Support III
+005A	Machina Fortress III
+005B	Machine Decoy
+005C	Machine Explosion
+005D	Machine Cheer I
+005E	Bitten Snake
+005F	Rebel Against God
+0060	G Bittern Crush
+0061	Bloodlet
+0062	Fog Of Flesh
+0063	Tragic Death
+0064	King's Decree
+0065	D Bitten Crush
+0066	Trial Magic 6166
+0067	116-Omega
+0068	Calculminate
+0069	Flame Dance
+006A	Mud Fling
+006B	Lamp Frog
+006C	Wind Blade
+006D	Rock Smasher
+006E	Spear
+006F	Flame Dance II
+0070	Mud Fling II
+0071	Lamp Frog II
+0072	Wind Blade
+0073	Rock Crusher
+0074	Grand Spear
+0075	Flame Dance
+0076	Mud Fling III
+0077	Lamp Frog III
+0078	Grand Wind Blade
+0079	Super Rock Crusher
+007A	Devil-Mask Spear
+007B	Flame Dance III+
+007C	Mud Fling III+
+007D	Lamp Frog III+
+007E	116-Alpha
+007F	116-Scaler Beta
+0080	116-Vector Gamma
+0081	Flame Dance Iv
+0082	Mud Fling Iv
+0083	Lamp Frog Iv
+0084	Cleanse:Slash-Fog
+0085	Verdance:Strike -mud
+0086	Flare:Piece-Fire
+0087	Mad Moonlight
+0088	Cat Rush
+0089	Head Crush
+008A	Black Goat Strike
+008B	Pyrophoric Gas
+008C	Poisonous Pandemic
+008D	Piercing Stem Shot
+008E	Cursed Poison Attack
+008F	Divine Flame
+0090	Burning Stage
+0091	Chastisement
+0092	Beehive Cluster
+0093	White Mist
+0094	Mud Leaf Tea
+0095	Sensual Spear
+0096	Sexy Wrestling
+0097	Eyes Of The Abyss
+0098	Fantasy Fog Tale
+0099	Festive Rock Crusher
+009A	Abyssal Rondo
+009B	Purgatory's Hellfire
+009C	Black Syrup Fever
+009D	Charge
+009E	Random Charge
+009F	All Charge
+00A0	All Rushing Charge
+00A1	All Suicidal Charge
+00A2	Flame Dance Iv
+00A3	Kelchen Riehl
+00A4	Maya Maya
+00A5	Nerdy Donna
+00A6	Incite
+00A7	Incite II
+00A8	Incite III
+00A9	Tactical Incite
+00AA	Iron Hide Incite
+00AB	Cruel Cat's Incite
+00AC	Sexy Incite
+00AD	Poor Incite
+00AE	Meaty Incite
+00AF	Sun's Guidance
+00B0	Unearthed Fortune
+00B1	Unearthed Fortune II
+00B2	Unearthed Fortune II
+00B3	Persistent Hunter
+00B4	Hate Marker
+00B5	Maestro's Camouflage
+00B6	Hate Mark
+00B7	Hostile Dance
+00B8	Flat Seal
+00B9	Body Odour
+00BA	Lucky Feather Arrow
+00BB	Casual Disconnect
+00BC	Blame Game
+00BD	Hate Mark
+00BE	Brand Of Hatred
+00BF	Hate Mark II
+00C0	Hide
+00C1	Lunatic Edge
+00C2	Enhance Attack
+00C3	Enhance Attack II
+00C4	Song Of Valour
+00C5	Enhance Attack III
+00C6	Lunatic Edge II
+00C7	Vanguard Sharpening
+00C8	Full Moon Cookie
+00C9	Full Moon Cookie
+00CA	Oath Of Allegiance
+00CB	Lunatic Edge
+00CC	Vanguard Sharpen II
+00CD	Warrior Of Love+
+00CE	Lunatic Lover
+00CF	Softening
+00D0	Area Softening
+00D1	Cookout Diarrhea
+00D2	Softening II
+00D3	Bouncy Carnival
+00D4	Softening III
+00D5	Death Scene
+00D6	Area Softening III
+00D7	Hardened Prevention
+00D8	Hymn Of Protection
+00D9	Vanguard Protect+
+00DA	Hardened Prevention II
+00DB	Goddess's Protection
+00DC	Instant Ironization
+00DD	Goddess's Protection
+00DE	Rock-Hard Touch
+00DF	Vanguard Protect+ II
+00E0	Hardened Prevention III
+00E1	Vanguard Protect+III
+00E2	Lucky Charm Of Courage
+00E3	Meat Curtain
+00E4	Haste
+00E5	Trail Of The Stars
+00E6	Haste Rearguard
+00E7	Hasten All
+00E8	Haste II
+00E9	Haste Vanguard II
+00EA	Haste III
+00EB	Haste Vanguard III
+00EC	Cosmic Clock
+00ED	Slow-Foot
+00EE	All Slow-Foot
+00EF	Slow-Foot II
+00F0	Area Slow-Foot II
+00F1	Slow-Foot III
+00F2	Area Slow-Foot III
+00F3	Meow!
+00F4	Laughing Stage
+00F5	Mother's Scolding
+00F6	Black Cat Rondo
+00F7	Nyaaa
+00F8	Focus
+00F9	Vanguard Focus
+00FA	Focus II
+00FB	Focus III
+00FC	Focus III
+00FD	Dizzy
+00FE	Dizzy II
+00FF	Blinding
+0100	Star Avoidance
+0101	Avoidance II
+0102	Afterimage
+0103	Arcanum Afterimage
+0104	Portal Manoeuvrer
+0105	Avoidance III
+0106	Underworld Adhesive
+0107	Adhesive
+0108	Trial Magic:Adhesive
+0109	Shooting Star
+010A	Forsaken Eyes
+010B	Evil Eye's Precise Shot
+010C	Lucky Hit
+010D	Cracked Star
+010E	Goretic High
+010F	Stamina
+0110	Miasma Slime
+0111	Iron Slash-Blunt Resist
+0112	Divine Protection
+0113	Doe Sketch
+0114	Stag Sketch
+0115	Stamina II
+0116	Will II
+0117	Human Pillar
+0118	Vanguard Stamina II
+0119	Vanguard Will II
+011A	Immortal Resistance
+011B	Magia Cloud
+011C	Nectar Disease
+011D	Love Power
+011E	Will III
+011F	Vanguard Stamina III
+0120	Sun's Blessing
+0121	Rearguard Stamina II
+0122	Iron Hide
+0123	Starry Eyes
+0124	Wall Of Sunlight
+0125	Serious Mode
+0126	Supercharge
+0127	Apotheosis
+0128	Secret Shot Game
+0129	Alice Mode
+012A	Awakening
+012B	Supercharge II
+012C	Thunder Emperor 2
+012D	Supercharge III
+012E	Supercharge III ++
+012F	Trial Magic P775
+0130	Bestial Wrath 333
+0131	Bestial Wrath 666
+0132	Meat Doll
+0133	Contract Supercharge
+0134	Witch's Supercharge
+0135	Poison Trap
+0136	Illusion Trap
+0137	Confusion Trap
+0138	Startle Trap
+0139	Stench Trap
+013A	Trap Disguise Type I
+013B	Trap Disguise Type II
+013C	Vanguard Protect
+013D	Protect
+013E	Vanguard Protect II
+013F	Human Shield
+0140	Disgraceful Lucky Charm
+0141	Surrogate
+0142	Immortal,But..
+0143	Protect III
+0144	Vanguard Protect III
+0145	Surrogate III
+0146	Vanguard Protect Iv
+0147	Human Sacrifice
+0148	Meat Shield
+0149	Surrogate
+014A	Purification
+014B	*
+014C	Vanguard Debuff-Undo
+014D	Trial Magic 214++
+014E	Amaterasu Protection
+014F	Rear Debuff-Undo
+0150	Block-Hit
+0151	Block-Magic
+0152	Block-Physical
+0153	Block-Hit
+0154	Block-Slash
+0155	Block-Pierce
+0156	Block II-Slash
+0157	Block-Hit-Paste
+0158	Block II-Flame
+0159	Block II-Mud
+015A	Block II-Fog
+015B	Block II-Pierce
+015C	Block III-Hit
+015D	Block III-Pierce
+015E	Block III-Flame
+015F	Block III-Mud
+0160	Block III-Fog
+0161	Block III-Flame
+0162	Block III-Fog
+0163	Block III-Slash
+0164	Block III-Mud
+0165	Block III-Flame
+0166	Block III-Mud
+0167	Block III-Fog
+0168	Block III-Hit
+0169	Block III-Slash
+016A	Block III-Pierce
+016B	Block Iv-Hit
+016C	Trial Magic-Bulwark
+016D	Tin Of Greed
+016E	Tin Of Suffering
+016F	Tin Of Infancy
+0170	Tin Of Wisdom
+0171	Tin Of Pleasure
+0172	Tin Of Innocence
+0173	Tin Of Courage
+0174	Tin Of Wealth
+0175	Tin Of Love
+0176	Massacre Flame
+0177	Bloodletting
+0178	Beehive Cluster
+0179	Stolen Fate
+017A	Bloodletting
+017B	Trial Magic 8485
+017C	Parasite Inhalation
+017D	Bloodletting II
+017E	Trial Magic 8485++
+017F	Bloody Steel
+0180	Bloody Steel II
+0181	Bloody High
+0182	Titillating Terror
+0183	Matchless Power
+0184	Bug Bomb
+0185	Spring Of Courage
+0186	Loving Devotion
+0187	Karma Violence
+0188	Flowing Veil
+0189	Flowing Veil:Shield
+018A	Thought Robbery
+018B	Peace Robbery
+018C	Rite Of Sacrifice
+018D	Boost Robbery
+018E	Harden Robbery
+018F	Focus Robbery
+0190	Avd Robbery
+0191	Trial Magic 12848
+0192	Flesh Control
+0193	Heretical Weak Body
+0194	Flame Storm
+0195	Floral Rush
+0196	Defend:Phys.Barrier
+0197	Defend:Magic.Barrier
+0198	Assist:Attack Boost
+0199	Assist:Accuracy
+019A	Assist:Solid Guard
+019B	Support:Heal
+019C	Support:Status
+019D	Support:Heal
+019E	Support:Nullify Buff
+019F	Support:Undo Rage
+01A0	Support:Heal
+01A1	Assist:Hate
+01A2	Assist:Hate
+01A3	Assist:Hate
+01A4	Solo:Spell
+01A5	Absorb Attack:Spell
+01A6	Solo:Abnormal
+01A7	Area:Abnormal
+01A8	Solo:Phys
+01A9	Area:Phys
+01AA	Manly Meat Bullet
+01AB	Block-Flaming Shot
+01AC	Fighter's Counter
+01AD	Moon Counter
+01AE	Returning Flame Star
+01AF	Kitty Punch Counter
+01B0	Black Goat Mud
+01B1	Ill Fog Swap
+01B2	Double Return
+01B3	Tragic Stage
+01B4	Rebel's Counter
+01B5	Gentle Tit For Tat
+01B6	Ressentiment Play
+01B7	Black Lily Disgrace
+01B8	Fighter's Counter
+01B9	Secret Optimal Slash
+01BA	Awakened Counter
+01BB	Counter Magic Reprise
+01BC	Nebula Counter
+01BD	Causal Revenge
+01BE	Mud Counterattack
+01BF	Love And Courage
+01C0	Magic Counter:Match
+01C1	Black Cat Counter
+01C2	Fighter's Counter II
+01C3	Travelling De-Stress
+01C4	Revenge Meat
+01C5	Pierce Counterattack
+01C6	Trial Magic C0131
+01C7	Sanka Tuuli
+01C8	Far Counterattack
+01C9	Trial Magic C11
+01CA	Regen Technique
+01CB	Hardening
+01CC	Softening
+01CD	Gatekeeper's Proof
+01CE	Rapid Boost
+01CF	Eagle Eye
+01D0	Animus Snatch
+01D1	Treasure Seeker
+01D2	Heart Of Wisdom
+01D3	Clown's Spectacle
+01D4	Magic Trick
+01D5	Pain, Go Away
+01D6	Panic Circus
+01D7	Emergency Regen
+01D8	Shadow Dodge
+01D9	Shadow Avatar
+01DA	Ready-To-Eat Dolce
+01DB	Sweet Charge
+01DC	Magia Tempest
+01DD	Law:Dizzy Mist
+01DE	Law:Weak Adhesion
+01DF	Law:Weak Attack
+01E0	Big Horn
+01E1	Mode Change
+01E2	Deactivate Limiter
+01E3	Prima Reborn
+01E4	Wild Escape
+01E5	Absolute Evasion
+01E6	Battle Cheer Dance
+01E7	Everyone's Happy
+01E8	Eclipse Light
+01E9	Lunar Eclipse
+01EA	Golden Blessing
+01EB	Quick Step
+[/Skill]

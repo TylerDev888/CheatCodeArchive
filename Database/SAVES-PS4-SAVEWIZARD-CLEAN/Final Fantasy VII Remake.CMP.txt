@@ -1,0 +1,691 @@
+^2 = GameID: CUSA07211,CUSA07187,CUSA16170,CUSA07052
+^3 = NAME: Final Fantasy VII Remake
+^SECONDLAYER: NO
+^4 = FILE: ff7remake\user.dat
+{https://docs.google.com/spreadsheets/d/1njF36gS_i723WuQiDkM4A_M64kJNDxbZiuXdr7xX86E}
+%Credits: Skiller>InfinityArts>Jimmy>khuong
++Unlock All Weapon Abilities
+$400345E6 0000000A
+$40170002 00000000
++Enemy Intel/Assessed.
+$42042FBC FFFFFFFF
+$43DC0008 00000000
++Enemy Killed.
+$40042FC0 000000[AMOUNT:FF:HEX:BIG]
+$43DC0008 00000000
+!Dress Mod:
++Cloud
+$0004288A 000000[CL]
++Tifa
+$0004288B 000000[TF]
++Aerith
+$1004288C 0000[AR]
+!!
++Add Amount of each Cloud's books
+$95000000 00034DD0
+$8801000C 00000000
+$00000000 FFFFFFFF
+$4A000000 5E970000
+$400E0018 00000050
+$4A000008 0000013C
+$400E0018 00000001
+$4A00000C [AMOUNT:05F5E0FF:HEX:BIG]
+$400E0018 00000000
+$4A000010 00000002
+$400E0018 00000000
++Add Amount of each Barret's books
+$95000000 00034DD0
+$8801000C 00000000
+$00000000 FFFFFFFF
+$4A000000 5E971000
+$400E0018 00000050
+$4A000008 0000014B
+$400E0018 00000001
+$4A00000C [AMOUNT:05F5E0FF:HEX:BIG]
+$400E0018 00000000
+$4A000010 00000002
+$400E0018 00000000
++Add Amount of each Tifa's Books
+$95000000 00034DD0
+$8801000C 00000000
+$00000000 FFFFFFFF
+$4A000000 5E972000
+$400E0018 00000050
+$4A000008 0000015A
+$400E0018 00000001
+$4A00000C [AMOUNT:05F5E0FF:HEX:BIG]
+$400E0018 00000000
+$4A000010 00000002
+$400E0018 00000000
++Add Amount of each REE's Books
+$95000000 00034DD0
+$8801000C 00000000
+$00000000 FFFFFFFF
+$4A000000 5E973000
+$400E0018 00000050
+$4A000008 00000169
+$400E0018 00000001
+$4A00000C [AMOUNT:05F5E0FF:HEX:BIG]
+$400E0018 00000000
+$4A000010 00000002
+$400E0018 00000000
++Add 10x of all Materia
+$95000000 00001840
+$4A000000 00010901
+$400C0020 00000000
+$4A000004 00002711
+$400C0020 00000001
+$4A000008 0001869F
+$400C0020 00000000
+$4A000180 00010901
+$40070020 00000000
+$4A000184 00002AF9
+$40070020 00000001
+$4A000188 0001869F
+$40070020 00000000
+$4A000260 00010901
+$40060020 00000000
+$4A000264 00002EE1
+$40060020 00000001
+$4A000268 0001869F
+$40060020 00000000
+$4A000320 00010901
+$40120020 00000000
+$4A000324 000032C9
+$40120020 00000001
+$4A000328 0001869F
+$40120020 00000000
+$4A000560 00010901
+$40090020 00000000
+$4A000564 000036B1
+$40090020 00000001
+$4A000568 0001869F
+$40090020 00000000
+$58000000 00000680
+$58000680 00000000
+$58000000 00000680
+$58000D00 00000000
+$58000000 00000680
+$58001380 00000000
+$58000000 00000680
+$58001A00 00000000
+$58000000 00000680
+$58002080 00000000
+$58000000 00000680
+$58002700 00000000
+$58000000 00000680
+$58002D80 00000000
+$58000000 00000680
+$58003400 00000000
+$58000000 00000680
+$58003A80 00000000
+$4A000010 5E97A000
+$42080020 00000032
+$4A000018 00000001
+$42080020 00000001
++Add All Weapons{Does not add starting weapons, so if you've somehow lost those, you're on your own.For best results, use at the start of the game after you unlock the equipment menu only.  Re-equip weapons before trying to upgrade or the game will crash.}
+$95000000 00000F90
+$4A000000 000003EA
+$40050010 00000001
+$4A000050 000007D2
+$40050010 00000001
+$4A0000A0 00000BBA
+$40050010 00000001
+$4A0000F0 00000FA2
+$40050010 00000001
+$4A000004 0000000D
+$40140010 00000001
+$95000000 00041044
+$4A000000 000003EA
+$40050030 00000001
+$4A0000F0 000007D2
+$40050030 00000001
+$4A0001E0 00000BBA
+$40050030 00000001
+$4A0002D0 00000FA2
+$40050030 00000001
+$4A00000C FFFFFFFF
+$40140030 00000000
+$4A000010 FFFFFFFF
+$40140030 00000000
+$4A000014 FFFFFFFF
+$40140030 00000000
+$4A000018 FFFFFFFF
+$40140030 00000000
+$4A00001C FFFFFFFF
+$40140030 00000000
+$4A000020 FFFFFFFF
+$40140030 00000000
+$4A000024 FFFFFFFF
+$40140030 00000000
+$4A000028 FFFFFFFF
+$40140030 00000000
+$42001740 FFFFFFFF
+$40080020 00000000
+$42001744 FFFFFFFF
+$40080020 00000000
+$42001748 FFFFFFFF
+$40080020 00000000
++Item Mod
+$95000000 00034DD0
+$8801000C 00000000
+$00000000 FFFFFFFF
+$A8000000 00000014
+$[EPOCH:CURRENT:HEX:LITTLE] 00000000
+$[ITEMID] [AMOUNT:0F27:HEX:LITTLE]0000
+$AA000000 00000000
++Max Stats
+$95000000 0000[CHAR]
+$08000000 00000000
+$08000001 00000000
+$08000002 00000004
+$08000003 000000FF
+$4A000010 0000270F
+$40040004 00000000
+$28000020 3B9AC9FF
+$4A000028 0001869F
+$40050004 00000000
+$95000000 0000[CHAR2]
+$4A000000 0001869F
+$40040004 00000000
++Optimal All Max Stats	
+$95000000 00000030
+$28000000 FF040000
+$4A000010 0000270F
+$40040004 00000000
+$28000020 3B9AC9FF
+$4A000028 0001869F
+$40050004 00000000
+$95000000 00000070
+$28000000 FF040000
+$4A000010 0000270F
+$40040004 00000000
+$28000020 3B9AC9FF
+$4A000028 0001869F
+$40050004 00000000
+$95000000 000000B0
+$28000000 FF040000
+$4A000010 0000270F
+$40040004 00000000
+$28000020 3B9AC9FF
+$4A000028 0001869F
+$40050004 00000000
+$95000000 000000F0
+$28000000 FF040000
+$4A000010 0000270F
+$40040004 00000000
+$28000020 3B9AC9FF
+$4A000028 0001869F
+$40050004 00000000
+$95000000 00000130
+$28000000 FF040000
+$4A000010 0000270F
+$40040004 00000000
+$28000020 3B9AC9FF
+$4A000028 0001869F
+$40050004 00000000
+$95000000 00000230
+$4A000000 0001869F
+$40140004 00000000
+^6 = MODS:
+[CHAR]
+VALUE>NAME
+0030	Cloud
+0070	Barret
+00B0	Tifa
+00F0	Aerith
+0130	Red XIII
+[\CHAR]
+[CHAR2]
+VALUE>NAME
+0230	Cloud
+0240	Barret
+0250	Tifa
+0260	Aerith
+0270	Red XIII
+[\CHAR2]
+[CL]
+VALUE>NAME
+04	Black Dress
+08	Blue
+10	White
+[/CL]
+[TF]
+VALUE>NAME
+10	Blue Dress
+20	Dress
+40	Japan Dress
+[/TF]
+[AR]
+VALUE>NAME
+0040	Pink 1
+0050	Pink 2
+0100	Red Dress
+[/AR]
+[ITEMID]
+VALUE>NAME
+62230000	Superstar Belt
+63230000	Mako Crystal
+39230000	Power Wristguards
+3A230000	Bulletproof Vest
+3B230000	Earrings
+3C230000	Talisman
+3D230000	Headband
+3E230000	Star Pendant
+3F230000	Fury Ring
+40230000	Revival Earrings
+41230000	Whistlewind Scarf
+42230000	Mythical Amulet
+43230000	Healing Carcanet
+44230000	Clarity Pendant
+45230000	Transference Module
+46230000	Spectral Cogwheel
+47230000	Moogle's Amulet
+48230000	Enfeeblement Ring
+49230000	Crescent Moon Charm
+4A230000	Champion Belt
+4B230000	Protective Boots
+4C230000	Circlet
+4D230000	Tarot Cards
+4E230000	Otherworldly Crystal
+4F230000	Salvation Badge
+5A230000	Enchanted Ring
+5B230000	Supernatural Wristguards
+5C230000	Survival Vest
+5D230000	Platinum Earrings
+5E230000	Timeworn Talisman
+64230000	Götterdämmerung
+69230000	Kindred Cord
+6A230000	Ribbon
+6B230000	Gozu Drive
+6C230000	Mezu Drive
+55230000	Seraphic Earrings
+5F230000	Midgar Bangle
+60230000	Shinra Bangle
+61230000	Corneo Armlet
+29230000	Bronze Bangle
+2A230000	Iron Bangle
+2B230000	Titanium Bangle
+2C230000	Gothic Bangle
+2D230000	Cog Bangle
+2E230000	Chain Bangle
+2F230000	Leather Bracer
+30230000	Studded Bracer
+31230000	Heavy-Duty Bracer
+32230000	Supreme Bracer
+33230000	Iron Maiden
+34230000	Mesmeric Bracelet
+35230000	Mythril Bracelet
+36230000	Sorcerer’s Armlet
+37230000	Rune Armlet
+38230000	Astral Cuff
+50230000	Star Bracelet
+51230000	Caliginous Bracelet
+52230000	Magician’s Bracelet
+53230000	Geometric Bracelet
+54230000	Force Bracelet
+65230000	Ninja Armlet
+66230000	Chthonian Armlet
+67230000	Volant Armlet
+68230000	Firebird Armlet
+10020000	Starter Board
+11020000	Sorcerer Board I
+12020000	Battalion Board I
+13020000	Assassin Board I
+14020000	Sorcerer Board II
+15020000	Battalion Board II
+16020000	Assassin Board II
+17020000	Assassin Board III
+18020000	Battalion Board III
+19020000	Grandmaster Board
+1A020000	Security Officer (Vanguard)
+1B020000	Elite Security Officer (Vanguard)
+1C020000	Helitrooper (Vanguard)
+1D020000	Elite Helitrooper (Vanguard)
+1E020000	Shock Trooper (Vanguard)
+1F020000	Cutter (Vanguard)
+20020000	Guard Dog (Vanguard)
+21020000	Security Officer Barracks (Vanguard)
+22020000	Grenadier (Ranged)
+23020000	Elite Grenadier (Ranged)
+24020000	Elite Shock Trooper (Ranged)
+25020000	Sweeper (Ranged)
+26020000	Slug-Ray (Ranged)
+27020000	Monodrive (Ranged)
+28020000	Sentry Ray (Ranged)
+29020000	Missile Launcher (Ranged)
+2A020000	Grenadier Barracks (Ranged)
+2B020000	Slug-Ray Facility (Ranged)
+2C020000	Riot Trooper (Defense)
+2D020000	Elite Riot Trooper (Defense)
+2E020000	Blast-Ray (Defense)
+2F020000	Armored Shock Trooper (Defense)
+30020000	Helicopter (Defense)
+31020000	Sentry Gun Prototype (Defense)
+32020000	Sentry Gun (Defense)
+33020000	Sledgeworm (Defense)
+34020000	M.O.T.H. Unit (Defense)
+35020000	Riot Trooper Barracks (Defense)
+14000000	Gil
+01000000	Potion
+02000000	Hi-potion
+03000000	Ether
+04000000	Turbo Ether
+05000000	Elixir
+06000000	Phoenix Down
+07000000	Antidote
+08000000	Echo Mist
+09000000	Adrenaline
+0A000000	Sedative
+0B000000	Remedy
+0C000000	Celeris
+0D000000	Grenade
+0E000000	Spiderweb
+0F000000	Hazardous Material
+10000000	Big Bomber
+11000000	Molotov Cocktail
+12000000	Orb of Gravity
+13000000	Smelling Salts
+15000000	Maiden's Kiss
+16000000	Mega-Potion
+1F000000	Ai Programing Core
+20000000	Fuzzy Wuzzy
+21000000	Mr. Cuddlesworth
+32000000	Fire Damage (General)
+33000000	Ice Damage (Fixed)
+34000000	Lightning Damage (STR)
+35000000	Wind Damage (Owner Max Hp Percentage)
+36000000	Earth Damage (HP Percentage)
+37000000	Holy Damage
+38000000	Dark Damage
+39000000	Non-Elemental Damage
+3A000000	Fire Damage (Physical)
+3B000000	Ice Damage (Physical)
+3C000000	Lightning Damage (Physical)
+3D000000	Wind Damage (Physical)
+3E000000	Earth Damage (Physical)
+3F000000	Holy Damage (Physical)
+40000000	Dark Damage (Physical)
+41000000	Non-Elemental Damage (Physical)
+42000000	0 Damage Spell (General)
+43000000	0 Damage Physical Attack (Fixed)
+44000000	Reflect
+45000000	Shield
+46000000	Pierce Reflect
+47000000	Nullify Reflect
+48000000	Pierce Shield
+49000000	Nullify Shield
+4A000000	Toad
+4B000000	Toad All
+4C000000	Maiden's Kiss (All)
+64000000	Sector 5 Reactor Card
+66000000	Tournament Entry Form
+67000000	Madam M's Endorsement
+68000000	Andrea's Endorsement
+6F000000	Shinra ID Card
+73000000	Grappling Gun
+74000000	Grappling Gun
+75000000	Key to the Sewers
+76000000	Moogle Medal
+77000000	Sam’s Coin
+78000000	Shinra Keycard
+79000000	Hojo's Research Lab Keycard
+7A000000	Combat Analyzer
+7B000000	Watch Security Key
+7C000000	Handmade Necklace
+7E000000	Behemoth Horn
+7F000000	Medicinal Flowers
+84000000	Sam's Delivery Lifetime Pass
+8B000000	Madam M’s Requests
+8C000000	Sam's Requests
+8D000000	The Sauce
+8E000000	Medicine Voucher
+8F000000	VIP Card
+90000000	Yellow Flower
+94000000	Graveyard Key
+95000000	Guardian Angel’s Calling Cards
+96000000	Vialabrew
+97000000	Crimson Spike
+98000000	Bottle of Antiemetic
+99000000	Deodorizing Tablets
+9A000000	Packets of Antacid
+9B000000	Moogle Membership Card
+9C000000	Gysahl Greens
+9D000000	Doctor's List
+9E000000	Moogle's Mortar
+9F000000	Map to the Hideout
+A0000000	Ruby Tiara
+A1000000	Diamond Tiara
+A2000000	Emerald Tiara
+A3000000	Johnny's Wallet
+A4000000	Corneo Vault Key
+A5000000	Shinra Keycard
+A6000000	Shinra Keycard
+A7000000	Shinra Keycard
+A8000000	Shinra Executive Keycard
+A9000000	Letter from the Guardian Angel
+AA000000	Andrea's Earrings
+AB000000	Real Calling Card
+AC000000	Fake Calling Card
+AD000000	Corneo Vault Note
+AE000000	Condor Coin
+AF000000	Da-chao Beans
+B0000000	Interplate ID Card
+B1000000	Shinra Employee ID Card
+B2000000	The Happy Turtle Newsletter 1
+B3000000	The Happy Turtle Newsletter 2
+B4000000	The Happy Turtle Newsletter 3
+B5000000	The Happy Turtle Newsletter 4
+B6000000	The Happy Turtle Newsletter 5
+B7000000	The Happy Turtle Newsletter 6
+B8000000	List of Flyer Clues
+B9000000	Note from Zhijie
+3C010000	The Art of Swordplay Vol. I
+3D010000	The Art of Swordplay Vol. II
+3E010000	The Art of Swordplay Vol. III
+3F010000	The Art of Swordplay Vol. IV
+40010000	The Art of Swordplay Vol. V
+41010000	The Art of Swordplay Vol. VI
+42010000	The Art of Swordplay Vol. VII
+43010000	The Art of Swordplay Vol. VIII
+44010000	The Art of Swordplay Vol. IX
+45010000	The Art of Swordplay Vol. X
+46010000	The Art of Swordplay Vol. XI
+47010000	The Art of Swordplay Vol. XII
+48010000	The Art of Swordplay Vol. XIII
+49010000	The Art of Swordplay Vol. XIV
+4B010000	Sharpshooter's Companion Vol. I
+4C010000	Sharpshooter's Companion Vol. II
+4D010000	Sharpshooter's Companion Vol. III
+4E010000	Sharpshooter's Companion Vol. IV
+4F010000	Sharpshooter's Companion Vol. V
+50010000	Sharpshooter's Companion Vol. VI
+51010000	Sharpshooter's Companion Vol. VII
+52010000	Sharpshooter's Companion Vol. VIII
+53010000	Sharpshooter's Companion Vol. IX
+54010000	Sharpshooter's Companion Vol. X
+55010000	Sharpshooter's Companion Vol. XI
+56010000	Sharpshooter's Companion Vol. XII
+57010000	Sharpshooter's Companion Vol. XIII
+58010000	Sharpshooter's Companion Vol. XIV
+5A010000	Way of the First Vol. I
+5B010000	Way of the First Vol. II
+5C010000	Way of the First Vol. III
+5D010000	Way of the First Vol. IV
+5E010000	Way of the First Vol. V
+5F010000	Way of the First Vol. VI
+60010000	Way of the First Vol. VII
+61010000	Way of the First Vol. VIII
+62010000	Way of the First Vol. IX
+63010000	Way of the First Vol. X
+64010000	Way of the First Vol. XI
+65010000	Way of the First Vol. XII
+66010000	Way of the First Vol. XIII
+67010000	Way of the First Vol. XIV
+69010000	Telluric Scriptures Vol. I
+6A010000	Telluric Scriptures Vol. II
+6B010000	Telluric Scriptures Vol. III
+6C010000	Telluric Scriptures Vol. IV
+6D010000	Telluric Scriptures Vol. V
+6E010000	Telluric Scriptures Vol. VI
+6F010000	Telluric Scriptures Vol. VII
+70010000	Telluric Scriptures Vol. VIII
+71010000	Telluric Scriptures Vol. IX
+72010000	Telluric Scriptures Vol. X
+73010000	Telluric Scriptures Vol. XI
+74010000	Telluric Scriptures Vol. XII
+75010000	Telluric Scriptures Vol. XIII
+76010000	Telluric Scriptures Vol. XIV
+7C010000	Legacy: Ascension
+7D010000	Legacy: Catastrophe
+7E010000	Legacy: Dolphin Flurry
+7F010000	Legacy: Planet's Protection
+F4010000	Secrets of the Ninja Vol. I
+F5010000	Secrets of the Ninja Vol. II
+F6010000	Secrets of the Ninja Vol. III
+F7010000	Secrets of the Ninja Vol. IV
+F8010000	Secrets of the Ninja Vol. V
+F9010000	Secrets of the Ninja Vol. VI
+FA010000	Secrets of the Ninja Vol. VII
+FB010000	Secrets of the Ninja Vol. VIII
+FC010000	Secrets of the Ninja Vol. IX
+FD010000	Secrets of the Ninja Vol. X
+FE010000	Secrets of the Ninja Vol. XI
+FF010000	Secrets of the Ninja Vol. XII
+00020000	Secrets of the Ninja Vol. XIII
+01020000	Secrets of the Ninja Vol. XIV
+02020000	Secrets of the Staff Vol. I
+03020000	Secrets of the Staff Vol. II
+04020000	Secrets of the Staff Vol. III
+05020000	Secrets of the Staff Vol. IV
+06020000	Secrets of the Staff Vol. V
+07020000	Secrets of the Staff Vol. VI
+08020000	Secrets of the Staff Vol. VII
+09020000	Secrets of the Staff Vol. VIII
+0A020000	Secrets of the Staff Vol. IX
+0B020000	Secrets of the Staff Vol. X
+0C020000	Secrets of the Staff Vol. XI
+0D020000	Secrets of the Staff Vol. XII
+0E020000	Secrets of the Staff Vol. XIII
+0F020000	Secrets of the Staff Vol. XIV
+E12E0000	Steal Materia
+E22E0000	Assess Materia
+E32E0000	Enemy Skill Materia
+E42E0000	Chakra Materia
+E52E0000	Prayer Materia
+E62E0000	ATB Boost Materia
+C9320000	HP Up Materia
+CA320000	MP Up Materia
+CB320000	Magic Up Materia
+CC320000	Luck Up Materia
+CD320000	Gil Up Materia
+CE320000	EXP Up Materia
+CF320000	Item Master Materia
+D0320000	ATB Stagger Materia
+D1320000	First Strike Materia
+D2320000	Steadfast Block Materia
+D3320000	Skill Master Materia
+D4320000	Deadly Dodge Materia
+D5320000	Parry Materia
+D6320000	ATB Assist Materia
+D7320000	Auto-Cure Materia
+D8320000	Provoke Materia
+D9320000	Pedometer Materia
+DA320000	Refocus Materia
+11270000	Healing Materia
+12270000	Cleansing Materia
+13270000	Revival Materia
+14270000	Fire Materia
+15270000	Ice Materia
+16270000	Lightning Materia
+17270000	Wind Materia
+18270000	Poison Materia
+19270000	Binding Materia
+1A270000	Time Materia
+1B270000	Barrier Materia
+1C270000	Subversion Materia
+B1360000	Chocobo & Moogle Materia
+B2360000	Shiva Materia
+B3360000	Ifrit Materia
+B4360000	Leviathan Materia
+B5360000	Bahamut Materia
+B6360000	Fat Chocobo Materia
+B7360000	Carbuncle Materia
+B8360000	Cactuar Materia
+B9360000	Chocobo Chick Materia
+BA360000	Ramuh Materia
+F92A0000	Magnify Materia
+FA2A0000	Elemental Materia
+FB2A0000	Warding Materia
+FC2A0000	HP Absorption Materia
+FD2A0000	MP Absorption Materia
+FE2A0000	Synergy Materia
+FF2A0000	AP Up Materia
+002B0000	Ninja Cannonball Materia
+00010000	1. The Prelude
+01010000	1. The Prelude
+02010000	4. Berret's Theme
+04010000	27. Hip Hop De Chocobo
+05010000	5. Lurking in the Darkness
+06010000	28. Stamp
+08010000	18. Electric De Chocobo
+09010000	2. Bombing Mission
+0A010000	21. Cat Sith's Theme
+0B010000	23. Descendant of Shinobi
+0C010000	20. Gold Saucer
+0E010000	19. Casta Del Sol
+10010000	10. Honeybee Inn
+11010000	17. Farm Boy
+12010000	12. Fight On!
+13010000	11. Don of the Slums
+14010000	9. The Oppressed
+16010000	6. Let the Battles Begin!
+1A010000	15. On Our Way Out
+1B010000	14. Main Theme of FFVII
+1C010000	30. Stand up
+1D010000	16. Good Night, Untill Tomorrow
+1E010000	24. Wutai
+1F010000	7. Turks’ Theme
+20010000	13. The Chase
+21010000	22. Cosmo Canyon
+24010000	29. The Midgar Blues
+27010000	26. Let the Battles Begin! -REMAKE-
+2C010000	3. Tifa’s Theme
+2D010000	25. Tango of Tears
+2E010000	8. Under the Rotting Pizza
+2F010000	31. Scarlet’s Theme
+C0110000	Stand Up
+D0110000	Good Night, Until Tomorrow
+A10F0000	Guard Stick
+A20F0000	Silver Staff
+A30F0000	Bladed Staff
+A40F0000	Mythril Rod
+A50F0000	Reinforced Staff
+A60F0000	Arcane Scepter
+D1070000	Gatilg Gun
+D2070000	Light Machine Gun
+D3070000	Steel Pincers
+D4070000	Big Bertha
+D5070000	EKG Cannon
+D6070000	Wrecking Ball
+E9030000	Buster Sword
+EA030000	Iron Blade
+EB030000	HardEdge
+EC030000	MythrilSaber
+ED030000	TwinStinger
+EE030000	NailBat
+89130000	Mythril Collar
+670D0000	Indurate Staff
+F51F0000	Marshalist's Staff
+6B250000	Djinn Staff
+B90B0000	Leather Gloves
+BA0B0000	Metal Knuckles
+BB0B0000	Feathered Gloves
+BC0B0000	Mythril Claws
+BD0B0000	Purple Pain
+BE0B0000	Sonic Strikers
+4F070000	Steel Reaper
+5F0D0000	4-Point Shuriken
+5E0F0000	Cacstar
+D0190000	Boomerang
+[/ITEMID]

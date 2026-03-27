@@ -1,0 +1,49 @@
+^3 = NAME: Driven (Pal-Unk)
+^2 = GameID: SLES-50390
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0137680 001C7F97
++(M) Must Be On
+%Credits: Codejunkies
+$F01C7F94 001C7F97
+!!
+!Lives Codes:
++Cockpit Wheels
+%Credits: Codejunkies
+$20100EAC 00000000
++Constant Zone Time
+%Credits: Codejunkies
+$1031E154 00000064
++Float Head/Wobble Mode
+%Credits: Codejunkies
+$2011B79C 00000000
++Infinite Lives
+%Credits: Codejunkies
+$1031E0F4 00000005
++Never Have More Than 1 Life
+%Credits: Codejunkies
+$E0010001 3031E0F4
+$1031E0F4 00000001
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E0010002 3031E0F4
+$1031E0F4 00000002
++Never Have More Than 3 Lives
+%Credits: Codejunkies
+$E0010003 3031E0F4
+$1031E0F4 00000003
++Never Have More Than 4 Lives
+%Credits: Codejunkies
+$E0010004 3031E0F4
+$1031E0F4 00000004
++No Wind Resistance
+%Credits: Codejunkies
+$2012F0B8 03E00008
+$2012F0BC 00000000
++Unlock All Story Levels
+%Credits: Codejunkies
+$103CBBCC 0000FFFF
+!!
+!!
+

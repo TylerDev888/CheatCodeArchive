@@ -1,0 +1,280 @@
+^2 = GameID: CUSA48262,CUSA52898
+^3 = NAME: Lunar Remastered Collection
+^SECONDLAYER: YES{Checksum}
+^4 = FILE: Lunar: Silver Star Story: (card[0-9]+LUNAR[0-9]+\GAME.BIN)
++Max Money
+$20000714 0098967F
++Add Item
+$95000000 00000698
+$88010001 00000000
+$08000000 000000[Item]
++Character 0 Max Stats
+$A0000318 00000014
+$E703E703 E703E703
+$E703E703 E703E703
+$E703FFFF 00000000
+$00000334 000000FF
++Alex Max Stats
+$A0000358 00000014
+$E703E703 E703E703
+$E703E703 E703E703
+$E703FFFF 00000000
+$00000374 000000FF
++Nash Max Stats
+$A0000398 00000014
+$E703E703 E703E703
+$E703E703 E703E703
+$E703FFFF 00000000
+$000003B4 000000FF
++Jessica Max Stats
+$A00003D8 00000014
+$E703E703 E703E703
+$E703E703 E703E703
+$E703FFFF 00000000
+$000003F4 000000FF
++Mia Max Stats
+$A0000418 00000014
+$E703E703 E703E703
+$E703E703 E703E703
+$E703FFFF 00000000
+$00000434 000000FF
++Kyle Max Stats
+$A0000458 00000014
+$E703E703 E703E703
+$E703E703 E703E703
+$E703FFFF 00000000
+$00000474 000000FF
++Luna Max Stats
+$A0000498 00000014
+$E703E703 E703E703
+$E703E703 E703E703
+$E703FFFF 00000000
+$000004B4 000000FF
++Ramus Max Stats
+$A00004D8 00000014
+$E703E703 E703E703
+$E703E703 E703E703
+$E703FFFF 00000000
+$000004F4 000000FF
++Ghaleon Max Stats
+$A0000518 00000014
+$E703E703 E703E703
+$E703E703 E703E703
+$E703FFFF 00000000
+$00000534 000000FF
++Laike Max Stats
+$A0000558 00000014
+$E703E703 E703E703
+$E703E703 E703E703
+$E703FFFF 00000000
+$00000574 000000FF
++Tempest Max Stats
+$A0000598 00000014
+$E703E703 E703E703
+$E703E703 E703E703
+$E703FFFF 00000000
+$000005B4 000000FF
++Alex Dragon Master Max Stats
+$A00005D8 00000014
+$E703E703 E703E703
+$E703E703 E703E703
+$E703FFFF 00000000
+$000005F4 000000FF
+^4 = FILE: Lunar 2: Eternal Blue: (card[0-9]+SAVEDATA\GAME.BIN)
++Max Money
+$200009C4 0098967F
++Hiro Max Xp
+$20000314 05F5E0FF
++Ronfar Max Xp
+$200003D8 05F5E0FF
++Jean Max Xp
+$2000049C 05F5E0FF
++Leo Max Xp
+$20000560 05F5E0FF
++Lemina Max Xp
+$20000624 05F5E0FF
++Gwyn Max Xp
+$200006E8 05F5E0FF
++Lucia Max Xp
+$200007AC 05F5E0FF
+^6 = MODS: 
+[Item]
+ID>Name>Type
+01	Dagger	Equipment
+02	Short Sword	Equipment
+03	Long Sword	Equipment
+04	Broad Sword	Equipment
+05	Saber	Equipment
+06	Ice Blade	Equipment
+07	Silver Sword	Equipment
+08	Samurai Blade	Equipment
+09	Flame Sword	Equipment
+0A	Bastard Sword	Equipment
+0B	Great Sword	Equipment
+0C	Wind Sword	Equipment
+0D	Crystal Sword	Equipment
+0E	Dark Sword	Equipment
+0F	Master Sword	Equipment
+10	Insane Sword	Equipment
+11	Althena's Sword	Equipment
+12	Mace	Equipment
+13	Flail	Equipment
+14	Ice Mace	Equipment
+15	Water Mace	Equipment
+16	Judgment Mace	Equipment
+17	Holy Mace	Equipment
+18	Dark Mace	Equipment
+19	Sling	Equipment
+1A	Poison Darts	Equipment
+1B	Small Bow	Equipment
+1C	Battle Bow	Equipment
+1D	Stone Bow	Equipment
+1E	Holy Bow	Equipment
+1F	Pixie's Bow	Equipment
+20	Dream Bow	Equipment
+21	Starlight Bow	Equipment
+22	Fortune Cane	Equipment
+23	Water Cane	Equipment
+24	Fire Cane	Equipment
+25	Dream Cane	Equipment
+26	Ice Cane	Equipment
+27	Ethereal Cane	Equipment
+28	Sage's Cane	Equipment
+29	Wind Cane	Equipment
+2A	Dragon Cane	Equipment
+2C	Peasant Clothes	Equipment
+2D	Heavy Clothes	Equipment
+2E	Leather Clothes	Equipment
+2F	Leather Armor	Equipment
+30	Iron Armor	Equipment
+31	Chain Mail	Equipment
+32	Steel Armor	Equipment
+33	Holy Armor	Equipment
+34	Silver Armor	Equipment
+35	Carapace Armor	Equipment
+36	Dark Armor	Equipment
+37	Insane Armor	Equipment
+38	Dragon Armor	Equipment
+39	Cool Clothes	Equipment
+3A	Purity Clothes	Equipment
+3B	Sage's Clothes	Equipment
+3C	Radiance Clothes	Equipment
+3D	Saint Clothes	Equipment
+3E	Holy Clothes	Equipment
+3F	Robe	Equipment
+40	Magic Robe	Equipment
+41	Sorcerer's Robe	Equipment
+42	Intelligent Robe	Equipment
+43	Saint's Robe	Equipment
+44	Wisdom Robe	Equipment
+45	Spirit Robe	Equipment
+46	Sage's Robe	Equipment
+47	Holy Robe	Equipment
+48	Aegis Robe	Equipment
+4A	Garbage Can Lid	Equipment
+4B	Wooden Shield	Equipment
+4C	Iron Shield	Equipment
+4D	Silver Shield	Equipment
+4E	Steel Shield	Equipment
+4F	Holy Shield	Equipment
+50	Dark Shield	Equipment
+51	Insane Shield	Equipment
+52	Dragon Shield	Equipment
+53	Iron Bracelet	Equipment
+54	Silver Bracelet	Equipment
+55	White Bracelet	Equipment
+56	Crystal Bracelet	Equipment
+57	Jewel Bracelet	Equipment
+58	Star Bracelet	Equipment
+59	Stone Bracelet	Equipment
+5A	Iron Armlet	Equipment
+5B	Steel Armlet	Equipment
+5C	Silver Armlet	Equipment
+5D	Crystal Armlet	Equipment
+5E	Rainbow Armlet	Equipment
+5F	Dragon Armlet	Equipment
+60	Hell Armlet	Equipment
+61	Fire Armlet	Equipment
+62	Wind Armlet	Equipment
+63	Detonator Armlet	Equipment
+64	Spook Armlet	Equipment
+66	Scarf	Equipment
+67	Hat	Equipment
+68	Headband	Equipment
+69	Iron Helmet	Equipment
+6A	Steel Helmet	Equipment
+6B	Holy Helmet	Equipment
+6C	Dark Helmet	Equipment
+6D	Insane Helmet	Equipment
+6E	Dragon Helmet	Equipment
+6F	Bandanna	Equipment
+70	Fruity Bandanna	Equipment
+71	Spirit Bandanna	Equipment
+72	Lucky Bandanna	Equipment
+73	Dragon Bandanna	Equipment
+74	Holy Bandanna	Equipment
+75	Jade Hairpin	Equipment
+76	Rainbow Tiara	Equipment
+77	Ruby Tiara	Equipment
+78	Fire Tiara	Equipment
+79	Spook Hairpin	Equipment
+7A	Holy Hairpin	Equipment
+7B	Phantom Ribbon	Equipment
+7D	Wrath Ring	Equipment
+7E	Crystal Pendant	Equipment
+7F	Healing Ring	Equipment
+80	Chiro's Tail	Equipment
+81	Fresh Ring	Equipment
+82	Refresher Ring	Equipment
+83	Angel Ring	Equipment
+84	Tri-Ring	Equipment
+85	Ice Pendant	Equipment
+86	Flame Ring	Equipment
+87	Barrier Ring	Equipment
+88	Hell Ring	Equipment
+89	Fortune Ring	Equipment
+8A	Shiro's Tail	Equipment
+8B	Gale Ring	Equipment
+8C	Ghaleon's Tear	Equipment
+8D	Protection Ring	Equipment
+8E	Devil Pendant	Equipment
+8F	Spirit Talisman	Equipment
+90	Dragon Wings	Equipment
+91	Luna's Bromide 1	Equipment
+92	Luna's Bromide 2	Equipment
+93	Mia's Bromide 1	Equipment
+94	Mia's Bromide 2	Equipment
+95	Mia's Bromide 3	Equipment
+96	Mia's Bromide 4	Equipment
+97	Jess' Bromide 1	Equipment
+98	Jess' Bromide 2	Equipment
+99	Jess' Bromide 3	Equipment
+9A	Jess' Bromide 4	Equipment
+9B	Xenobia Bromide	Equipment
+9C	Herb	Equipment
+9D	Healing Nut	Equipment
+9E	Star Light	Equipment
+9F	Silver Light	Equipment
+A0	Angel's Tear	Equipment
+A1	Cleaning Water	Equipment
+A2	Antidote	Equipment
+A3	Holy Water	Equipment
+A4	Dragonfly Wing	Equipment
+A5	Phacia's Bromide	Equipment
+A6	Soap	Equipment
+A7	Royce's Bromide	Equipment
+A8	Alex's Ocarina	Equipment
+A9	Dragon Ring	Equipment
+AA	Dragon Diamond	Equipment
+AB	Sea Chart	Equipment
+AC	Application	Equipment
+AD	Althena's Mirror	Equipment
+AE	Old Notebook	Equipment
+AF	Thieve's Guide	Equipment
+B0	Thieve's Crest	Equipment
+B1	Balloon Blueprint	Equipment
+B2	Fluffy Bug	Equipment
+B3	Dragon Necklace	Equipment
+B4	Balloon Engine	Equipment
+B5	Rememberizer	Equipment
+[/Item]

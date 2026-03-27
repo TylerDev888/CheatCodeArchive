@@ -1,0 +1,116 @@
+^3 = NAME: Call Of Duty 3 (Ntsc-U)
+^2 = GameID: SLUS-21426
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F03F01D4 003F01D7
++Enable Code (Must Be On)
+%Credits: Code Master>Lajos Szalay
+$903F0300 00832021
++Enable Code (Must Be On)
+%Credits: Code Master>Lajos Szalay
+$904FBE18 00832021
+!!
+!Armax Fix:
++Fix
+$E00E3624 003F01D4
+$E00D0C10 003F01D6
+$202BD9E4 08104C6C
+$204131B0 3C040160
+$204131B4 3C050008
+$204131B8 0C10044F
+$204131BC 3C060008
+$204131C0 0C103FB6
+$204131C4 0000202D
+$204131C8 3C050160
+$204131CC 3C040008
+$204131D0 0C10044F
+$204131D4 3C060008
+$204131D8 080AF67B
+$204131DC 00000000
+!!
++Infinite Ammo
+%Credits: Codejunkies
+$E0020001 00551038
+$D055103A 00000000
+$2022971C 00000000
+!Multi-Player Codes:
++Extra Ammo
+%Credits: Code Master>Lajos Szalay
+$D023DBB0 00001821
+$2023DBB8 00521021
++Infinite Ammo
+%Credits: Code Master>Lajos Szalay
+$D023DBB0 00001821
+$2023DBBC 00000000
++Infinite Health
+%Credits: Code Master>Lajos Szalay
+$E002982D 00101C40
+$20101C74 8E62034C
+$20101C78 AE620350
++Max Infinite Ammo
+%Credits: Code Master>Lajos Szalay
+$D023DBB0 00001821
+$2023DBB8 240203E7
++Never Reload With Max Clip/Grenades
+%Credits: Code Master>Lajos Szalay
+$D023DC10 0000802D
+$2023DC40 24020063
++Never Reload/Infinite Grenades
+%Credits: Code Master>Lajos Szalay
+$D023DC10 0000802D
+$2023DC48 00000000
+!!
++Never Reload
+%Credits: Codejunkies
+$E0020001 00551038
+$D055103A 00000000
+$202297A4 00000000
+!Single-Player Codes:
++Extra Ammo
+%Credits: Code Master>Lajos Szalay
+$D0229714 00001821
+$202297AC 00521021
++God Mode
+%Credits: Code Master>Lajos Szalay
+$E006902D 00101CD0
+$200C0220 8E410268
+$200C0224 34210001
+$200C0228 AE410268
+$200C022C 03E00008
+$200C0230 8E530200
+$20101CF0 0C030088
++Infinite Ammo
+%Credits: Code Master>Lajos Szalay
+$D0229714 00001821
+$20229720 00000000
++Infinite Health
+%Credits: Code Master>Lajos Szalay
+$E002902D 00101CD0
+$20101D04 8E6202FC
+$20101D08 AE4202F8
++Max Infinite Ammo
+%Credits: Code Master>Lajos Szalay
+$D0229714 00001821
+$2022971C 240203E7
++Never Reload With Max Clip/Grenades
+%Credits: Code Master>Lajos Szalay
+$D0229774 0000802D
+$202297A4 24020063
++Never Reload/Infinite Grenades
+%Credits: Code Master>Lajos Szalay
+$D0229774 0000802D
+$202297AC 00000000
++Unlock All Chapters/Bonus Materials
+%Credits: Code Master>Lajos Szalay
+$D0100238 0000F7F7
+$2049C944 0000000E
+!!
++Unlock All Levels
+%Credits: Codejunkies
+$0049C944 0000000E
+!!
+^3 = NAME: Call Of Duty 3 (Ntsc-U)
+^2 = GameID: SLUS-21426
+!!
+

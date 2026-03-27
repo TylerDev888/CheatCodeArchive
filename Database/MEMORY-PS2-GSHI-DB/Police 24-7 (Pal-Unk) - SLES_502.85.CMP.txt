@@ -1,0 +1,50 @@
+^3 = NAME: Police 24-7 (Pal-Unk)
+^2 = GameID: SLES-50285
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0132F98 0010C83F
++(M) Must Be On
+%Credits: Codejunkies
+$F010C83C 0010C83F
+!!
+!Continues Codes:
++Another Story Open
+%Credits: Codejunkies
+$102C33A0 00000001
++Infinite Continues
+%Credits: Codejunkies
+$103A2F10 00000003
++Infinite Time
+%Credits: Codejunkies
+$103A69F8 00000999
++Never More Than 1 Continue
+%Credits: Codejunkies
+$E0010001 303A2F10
+$103A2F10 00000001
++Never More Than 2 Continues
+%Credits: Codejunkies
+$E0010002 303A2F10
+$103A2F10 00000002
++Rank: Commissioner
+%Credits: Codejunkies
+$103A6A24 00000909
+!!
+!Lives Codes:
++Infinite Lives
+%Credits: Codejunkies
+$103A6A28 00000003
++Never More Than 1 Life
+%Credits: Codejunkies
+$E0010001 303A6A28
+$103A6A28 00000001
++Never More Than 2 Lives
+%Credits: Codejunkies
+$E0010002 303A6A28
+$103A6A28 00000002
+!!
++No Reload
+%Credits: Codejunkies
+$103A6CF0 00000808
+!!
+

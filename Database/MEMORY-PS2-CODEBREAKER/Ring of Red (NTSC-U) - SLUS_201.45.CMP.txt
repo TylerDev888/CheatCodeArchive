@@ -1,0 +1,39 @@
+^1 = HASH: EB653BE2
+^3 = NAME: Ring Of Red
+^2 = GameID: SLUS_201.45
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0014183F
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$9014183C 0C05109F
+!!
+!Codes:
++Max Accuracy
+%Credits: Code Master
+$20CEFC68 43000000
++Always Loaded
+%Credits: Code Master
+$20CEFC70 00000000
++Infinite Health
+%Credits: Code Master
+$10CEFCDC 0000012C
++Infinite Health (Allies)
+%Credits: Code Master
+$40CEFCEC 00030001
+$00000078 00000000
++Max Specials
+%Credits: Code Master
+$10CEFCFA 0000000A
++Infinite Specials
+%Credits: Code Master
+$10CEFCF8 0000000A
++Quick Death-Enemies
+%Credits: Code Master
+$10CF00F8 00000000
++No Enemy Troops
+%Credits: Code Master
+$40CF0108 00030001
+$00000000 00000000
+!!

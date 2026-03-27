@@ -1,0 +1,2601 @@
+^3 = NAME: R-Type Final (Ntsc-U)
+^2 = GameID: SLUS-20780
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01223EC 001223EF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001223EF
++[M] Must Be On
+%Credits: MadCatz
+$90126B88 0C0488E4
+!!
+!AI Record Codes:
++Current Losing Streak Modifier
+%Credits: Code Master
+$202F2D04 ????????
++Current Win Streak Modifier
+%Credits: Code Master
+$202F2D00 ????????
++Longest Losing Streak Modifier
+%Credits: Code Master
+$202F2D0C ????????
++Longest Win Streak Modifier
+%Credits: Code Master
+$202F2D08 ????????
++Perfect Wins Modifier
+%Credits: Code Master
+$202F2D28 ????????
++Record VS CPU % Modifier
+%Credits: Code Master
+$202F2D18 ????????
++Record VS CPU L Modifier
+%Credits: Code Master
+$202F2D14 ????????
++Record VS CPU W Modifier
+%Credits: Code Master
+$202F2D10 ????????
++Record VS Pilot % Modifier
+%Credits: Code Master
+$202F2D24 ????????
++Record VS Pilot L Modifier
+%Credits: Code Master
+$202F2D20 ????????
++Record VS Pilot W Modifier
+%Credits: Code Master
+$202F2D1C ????????
+!!
++Always Have Missiles
+%Credits: Codejunkies
+$2054636C 00000002
++Always Have Missles
+%Credits: Code Master
+$2054636C 00000001
++Bydo Lab Research Complete
+%Credits: Codejunkies
+$202F95AC 000003E8
+$402F3660 001E0018
+$00040004 00000000
+$402F3800 001E0018
+$0A0B07B8 00000000
++Enter R Museum To Unlock All Ships
+%Credits: Code Master
+$2015CF7C 90410000
+$2015CF80 00230825
+$2015CF84 A0410000
+$2015CF88 24020000
++Extra Lives
+%Credits: Code Master
+$10182508 00000001
++Gallery Complete
+%Credits: Codejunkies
+$202F354C FFFFFFFF
++Hit Anywhere {<I>Doesn&#39;T Work Against Some Enemies. Hold R1 To Disable Against Bosses To Be Able To Hit Them. Invincible Against Enemy/Bosses Collisions But Projectiles Do</I>}
+%Credits: nolberto82
+$20164110 00000000
+$20163FC0 00000000
+$E0020008 002A0800
+$20164110 10400006
+$20163FC0 10400006
+$201C5E20 1000003F
+$203177C8 10000031
++Infinite Credits
+%Credits: MadCatz
+$202E6754 00000063
++Infinite Credits
+%Credits: Codejunkies
+$202E6754 00000009
++Infinite Health
+%Credits: MadCatz
+$2030746C 00000001
++Infinite Lives
+%Credits: MadCatz
+$202E6758 00000009
++Infinite Special Weapons
+%Credits: Codejunkies
+$20546390 47000000
++Instant Beam Charge
+%Credits: MadCatz
+$20545790 00004348
++Instant Beam High Charge
+%Credits: Code Master
+$20545790 43480000
++Invincible {<I>Enemies Die Upon You Running Into Them. (Not Bosses/Sub Bosses.)</I>}
+%Credits: Code Master
+$101C5036 00001000
+$101C5E66 00001000
+$101C5F86 00001000
+$101C60BE 00001000
+$101C6F2A 00001000
++Max Dose
+%Credits: MadCatz
+$20546390 45BB8000
++Max Dose
+%Credits: Codejunkies
+$20546390 7FFFFFFF
++Max Enemy Defeats (Bydo Lab)
+%Credits: Codejunkies
+$402F37FC 001E0018
+$05F5E0FF 00000000
+!Max Record Info Codes:
++Special Weapon Usage
+%Credits: Codejunkies
+$202F2CF8 0001869F
++Total Launches
+%Credits: Codejunkies
+$202F2D50 0001869F
++Total Wave Cannon Points
+%Credits: Codejunkies
+$202F2CF4 05F5E0FF
+!!
++Max Score
+%Credits: MadCatz
+$202E6744 0098967F
++Normal Shots Pierce Through Enemies
+%Credits: nolberto82
+$203177C8 10000031
++Quick Score Gain
+%Credits: Code Master
+$102E6744 0000FFFF
+!Ship In Hangar Slot 1:
++Achilleus
+%Credits: Codejunkies
+$202FE5B0 00000040
++Albatross
+%Credits: Codejunkies
+$202FE5B0 0000002A
++Amphibian
+%Credits: Codejunkies
+$202FE5B0 00000050
++Amphibian II
+%Credits: Codejunkies
+$202FE5B0 00000051
++Amphibian Iii
+%Credits: Codejunkies
+$202FE5B0 00000052
++Andromalius
+%Credits: Codejunkies
+$202FE5B0 00000029
++Arrow-Head
+%Credits: Codejunkies
+$202FE5B0 00000000
++Arvanche
+%Credits: Codejunkies
+$202FE5B0 0000005D
++Asanogawa
+%Credits: Codejunkies
+$202FE5B0 00000022
++Asklepios
+%Credits: Codejunkies
+$202FE5B0 0000003F
++Bydo System Alpha
+%Credits: Codejunkies
+$202FE5B0 00000053
++Bydo System Beta
+%Credits: Codejunkies
+$202FE5B0 00000054
++Bydo System Gamma
+%Credits: Codejunkies
+$202FE5B0 00000055
++Charon
+%Credits: Codejunkies
+$202FE5B0 00000048
++Chiron
+%Credits: Codejunkies
+$202FE5B0 0000003D
++Claw Claw
+%Credits: Codejunkies
+$202FE5B0 0000005E
++Concertmaster
+%Credits: Codejunkies
+$202FE5B0 0000001E
++Creberus
+%Credits: Codejunkies
+$202FE5B0 00000046
++Cross The Rubicon
+%Credits: Codejunkies
+$202FE5B0 00000044
++Curtain Call
+%Credits: Codejunkies
+$202FE5B0 00000063
++Cyber Nova
+%Credits: Codejunkies
+$202FE5B0 0000003B
++Daedalus
+%Credits: Codejunkies
+$202FE5B0 00000030
++Dantalion
+%Credits: Codejunkies
+$202FE5B0 00000049
++Delicatessen
+%Credits: Codejunkies
+$202FE5B0 0000000D
++Delta
+%Credits: Codejunkies
+$202FE5B0 00000001
++Diamond Wedding
+%Credits: Codejunkies
+$202FE5B0 00000061
++Digitalius
+%Credits: Codejunkies
+$202FE5B0 0000004A
++Digitalius II
+%Credits: Codejunkies
+$202FE5B0 0000004B
++Digitalius Iii
+%Credits: Codejunkies
+$202FE5B0 0000004C
++Dinner Bell
+%Credits: Codejunkies
+$202FE5B0 0000000E
++Disaster Report
+%Credits: Codejunkies
+$202FE5B0 00000016
++Dominions
+%Credits: Codejunkies
+$202FE5B0 00000012
++Duckbill
+%Credits: Codejunkies
+$202FE5B0 00000035
++Echidna
+%Credits: Codejunkies
+$202FE5B0 00000045
++Eclipse
+%Credits: Codejunkies
+$202FE5B0 0000002F
++Escort Time
+%Credits: Codejunkies
+$202FE5B0 00000005
++Frogman
+%Credits: Codejunkies
+$202FE5B0 0000003C
++Future World
+%Credits: Codejunkies
+$202FE5B0 0000002B
++Garuda
+%Credits: Codejunkies
+$202FE5B0 00000032
++Golden Selection
+%Credits: Codejunkies
+$202FE5B0 0000005F
++Grand Finale
+%Credits: Codejunkies
+$202FE5B0 00000064
++Grsce Note
+%Credits: Codejunkies
+$202FE5B0 0000001C
++Hades
+%Credits: Codejunkies
+$202FE5B0 00000047
++Hakusan
+%Credits: Codejunkies
+$202FE5B0 00000021
++Happy Days
+%Credits: Codejunkies
+$202FE5B0 00000014
++Herkales
+%Credits: Codejunkies
+$202FE5B0 00000042
++Hot Conductor
+%Credits: Codejunkies
+$202FE5B0 0000001D
++Hyllos
+%Credits: Codejunkies
+$202FE5B0 00000043
++Iason
+%Credits: Codejunkies
+$202FE5B0 0000003E
++Kaguya
+%Credits: Codejunkies
+$202FE5B0 00000034
++Kenrokuen
+%Credits: Codejunkies
+$202FE5B0 00000023
++King's Mind
+%Credits: Codejunkies
+$202FE5B0 00000007
++Kiwi Berry
+%Credits: Codejunkies
+$202FE5B0 00000036
++Ladylove
+%Credits: Codejunkies
+$202FE5B0 00000002
++Last Dancer
+%Credits: Codejunkies
+$202FE5B0 00000062
++Leo
+%Credits: Codejunkies
+$202FE5B0 0000000F
++Leo II
+%Credits: Codejunkies
+$202FE5B0 00000010
++Mad Forest
+%Credits: Codejunkies
+$202FE5B0 0000004D
++Mad Forest II
+%Credits: Codejunkies
+$202FE5B0 0000004E
++Mad Forest Iii
+%Credits: Codejunkies
+$202FE5B0 0000004F
++Metallic Dawn
+%Credits: Codejunkies
+$202FE5B0 00000059
++Metallic Dawn II
+%Credits: Codejunkies
+$202FE5B0 0000005A
++Midnight Eye
+%Credits: Codejunkies
+$202FE5B0 00000024
++Misty Lady
+%Credits: Codejunkies
+$202FE5B0 00000057
++Morning Glory
+%Credits: Codejunkies
+$202FE5B0 00000004
++Morning Star
+%Credits: Codejunkies
+$202FE5B0 0000001B
++Mr Heli
+%Credits: Codejunkies
+$202FE5B0 0000003A
++Mysty Lady II
+%Credits: Codejunkies
+$202FE5B0 00000058
++Neoptolemos
+%Credits: Codejunkies
+$202FE5B0 00000041
++No Chaser
+%Credits: Codejunkies
+$202FE5B0 0000002E
++Northern Lights
+%Credits: Codejunkies
+$202FE5B0 00000020
++Owl-Light
+%Credits: Codejunkies
+$202FE5B0 00000025
++Peace Maker
+%Credits: Codejunkies
+$202FE5B0 0000002C
++Platinum Heart
+%Credits: Codejunkies
+$202FE5B0 00000060
++Platonic Love
+%Credits: Codejunkies
+$202FE5B0 00000056
++Pow Armor
+%Credits: Codejunkies
+$202FE5B0 00000038
++Pow Armor II
+%Credits: Codejunkies
+$202FE5B0 00000039
++Powered Silence
+%Credits: Codejunkies
+$202FE5B0 00000027
++Princedom
+%Credits: Codejunkies
+$202FE5B0 00000006
++Principalities
+%Credits: Codejunkies
+$202FE5B0 00000011
++Ragnarok
+%Credits: Codejunkies
+$202FE5B0 0000000B
++Ragnarok II
+%Credits: Codejunkies
+$202FE5B0 0000000C
++Scope Duck
+%Credits: Codejunkies
+$202FE5B0 00000037
++Sexy Dynamite
+%Credits: Codejunkies
+$202FE5B0 0000005B
++Sexy Dynamite II
+%Credits: Codejunkies
+$202FE5B0 0000005C
++Shooting Star
+%Credits: Codejunkies
+$202FE5B0 0000001A
++Sleipnir
+%Credits: Codejunkies
+$202FE5B0 00000019
++Songoku
+%Credits: Codejunkies
+$202FE5B0 00000033
++Srtider
+%Credits: Codejunkies
+$202FE5B0 00000017
++Stayer
+%Credits: Codejunkies
+$202FE5B0 00000018
++Strike Bomber
+%Credits: Codejunkies
+$202FE5B0 0000000A
++Sunday Strike
+%Credits: Codejunkies
+$202FE5B0 00000009
++Sweet Luna
+%Credits: Codejunkies
+$202FE5B0 00000026
++Sweet Memories
+%Credits: Codejunkies
+$202FE5B0 00000015
++Tears Shower
+%Credits: Codejunkies
+$202FE5B0 0000001F
++Tropical Angel
+%Credits: Codejunkies
+$202FE5B0 0000002D
++Unchained Silence
+%Credits: Codejunkies
+$202FE5B0 00000028
++Valkrie
+%Credits: Codejunkies
+$202FE5B0 00000031
++War-Head
+%Credits: Codejunkies
+$202FE5B0 00000008
++Wave Master
+%Credits: Codejunkies
+$202FE5B0 00000003
++Wise Man
+%Credits: Codejunkies
+$202FE5B0 00000013
+!!
+!Ship In Hangar Slot 2:
++Achilleus
+%Credits: Codejunkies
+$202FE6E0 0000003F
++Achilleus
+%Credits: Codejunkies
+$202FE810 00000040
++Albatross
+%Credits: Codejunkies
+$202FE6E0 00000029
++Albatross
+%Credits: Codejunkies
+$202FE810 0000002A
++Amphibian
+%Credits: Codejunkies
+$202FE6E0 0000004F
++Amphibian
+%Credits: Codejunkies
+$202FE810 00000050
++Amphibian II
+%Credits: Codejunkies
+$202FE6E0 00000050
++Amphibian II
+%Credits: Codejunkies
+$202FE810 00000051
++Amphibian Iii
+%Credits: Codejunkies
+$202FE6E0 00000051
++Amphibian Iii
+%Credits: Codejunkies
+$202FE810 00000052
++Andromalius
+%Credits: Codejunkies
+$202FE6E0 00000028
++Andromalius
+%Credits: Codejunkies
+$202FE810 00000029
++Arrow-Head
+%Credits: Codejunkies
+$202FE810 00000000
++Arvanche
+%Credits: Codejunkies
+$202FE6E0 0000005C
++Arvanche
+%Credits: Codejunkies
+$202FE810 0000005D
++Asanogawa
+%Credits: Codejunkies
+$202FE6E0 00000021
++Asanogawa
+%Credits: Codejunkies
+$202FE810 00000022
++Asklepios
+%Credits: Codejunkies
+$202FE6E0 0000003E
++Asklepios
+%Credits: Codejunkies
+$202FE810 0000003F
++Bydo System Alpha
+%Credits: Codejunkies
+$202FE6E0 00000052
++Bydo System Alpha
+%Credits: Codejunkies
+$202FE810 00000053
++Bydo System Beta
+%Credits: Codejunkies
+$202FE6E0 00000053
++Bydo System Beta
+%Credits: Codejunkies
+$202FE810 00000054
++Bydo System Gamma
+%Credits: Codejunkies
+$202FE6E0 00000054
++Bydo System Gamma
+%Credits: Codejunkies
+$202FE810 00000055
++Charon
+%Credits: Codejunkies
+$202FE6E0 00000047
++Charon
+%Credits: Codejunkies
+$202FE810 00000048
++Chiron
+%Credits: Codejunkies
+$202FE6E0 0000003C
++Chiron
+%Credits: Codejunkies
+$202FE810 0000003D
++Claw Claw
+%Credits: Codejunkies
+$202FE6E0 0000005D
++Claw Claw
+%Credits: Codejunkies
+$202FE810 0000005E
++Concertmaster
+%Credits: Codejunkies
+$202FE6E0 0000001D
++Concertmaster
+%Credits: Codejunkies
+$202FE810 0000001E
++Creberus
+%Credits: Codejunkies
+$202FE6E0 00000045
++Creberus
+%Credits: Codejunkies
+$202FE810 00000046
++Cross The Rubicon
+%Credits: Codejunkies
+$202FE6E0 00000043
++Cross The Rubicon
+%Credits: Codejunkies
+$202FE810 00000044
++Curtain Call
+%Credits: Codejunkies
+$202FE6E0 00000062
++Curtain Call
+%Credits: Codejunkies
+$202FE810 00000063
++Cyber Nova
+%Credits: Codejunkies
+$202FE6E0 0000003A
++Cyber Nova
+%Credits: Codejunkies
+$202FE810 0000003B
++Daedalus
+%Credits: Codejunkies
+$202FE6E0 0000002F
++Daedalus
+%Credits: Codejunkies
+$202FE810 00000030
++Dantalion
+%Credits: Codejunkies
+$202FE6E0 00000048
++Dantalion
+%Credits: Codejunkies
+$202FE810 00000049
++Delicatessen
+%Credits: Codejunkies
+$202FE6E0 0000000C
++Delicatessen
+%Credits: Codejunkies
+$202FE810 0000000D
++Delta
+%Credits: Codejunkies
+$202FE6E0 00000000
++Delta
+%Credits: Codejunkies
+$202FE810 00000001
++Diamond Wedding
+%Credits: Codejunkies
+$202FE6E0 00000060
++Diamond Wedding
+%Credits: Codejunkies
+$202FE810 00000061
++Digitalius
+%Credits: Codejunkies
+$202FE6E0 00000049
++Digitalius
+%Credits: Codejunkies
+$202FE810 0000004A
++Digitalius II
+%Credits: Codejunkies
+$202FE6E0 0000004A
++Digitalius II
+%Credits: Codejunkies
+$202FE810 0000004B
++Digitalius Iii
+%Credits: Codejunkies
+$202FE6E0 0000004B
++Digitalius Iii
+%Credits: Codejunkies
+$202FE810 0000004C
++Dinner Bell
+%Credits: Codejunkies
+$202FE6E0 0000000D
++Dinner Bell
+%Credits: Codejunkies
+$202FE810 0000000E
++Disaster Report
+%Credits: Codejunkies
+$202FE6E0 00000015
++Disaster Report
+%Credits: Codejunkies
+$202FE810 00000016
++Dominions
+%Credits: Codejunkies
+$202FE6E0 00000011
++Dominions
+%Credits: Codejunkies
+$202FE810 00000012
++Duckbill
+%Credits: Codejunkies
+$202FE6E0 00000034
++Duckbill
+%Credits: Codejunkies
+$202FE810 00000035
++Echidna
+%Credits: Codejunkies
+$202FE6E0 00000044
++Echidna
+%Credits: Codejunkies
+$202FE810 00000045
++Eclipse
+%Credits: Codejunkies
+$202FE6E0 0000002E
++Eclipse
+%Credits: Codejunkies
+$202FE810 0000002F
++Escort Time
+%Credits: Codejunkies
+$202FE6E0 00000004
++Escort Time
+%Credits: Codejunkies
+$202FE810 00000005
++Frogman
+%Credits: Codejunkies
+$202FE6E0 0000003B
++Frogman
+%Credits: Codejunkies
+$202FE810 0000003C
++Future World
+%Credits: Codejunkies
+$202FE6E0 0000002A
++Future World
+%Credits: Codejunkies
+$202FE810 0000002B
++Garuda
+%Credits: Codejunkies
+$202FE6E0 00000031
++Garuda
+%Credits: Codejunkies
+$202FE810 00000032
++Golden Selection
+%Credits: Codejunkies
+$202FE6E0 0000005E
++Golden Selection
+%Credits: Codejunkies
+$202FE810 0000005F
++Grand Finale
+%Credits: Codejunkies
+$202FE6E0 00000063
++Grand Finale
+%Credits: Codejunkies
+$202FE810 00000064
++Grsce Note
+%Credits: Codejunkies
+$202FE6E0 0000001B
++Grsce Note
+%Credits: Codejunkies
+$202FE810 0000001C
++Hades
+%Credits: Codejunkies
+$202FE6E0 00000046
++Hades
+%Credits: Codejunkies
+$202FE810 00000047
++Hakusan
+%Credits: Codejunkies
+$202FE6E0 00000020
++Hakusan
+%Credits: Codejunkies
+$202FE810 00000021
++Happy Days
+%Credits: Codejunkies
+$202FE6E0 00000013
++Happy Days
+%Credits: Codejunkies
+$202FE810 00000014
++Herkales
+%Credits: Codejunkies
+$202FE6E0 00000041
++Herkales
+%Credits: Codejunkies
+$202FE810 00000042
++Hot Conductor
+%Credits: Codejunkies
+$202FE6E0 0000001C
++Hot Conductor
+%Credits: Codejunkies
+$202FE810 0000001D
++Hyllos
+%Credits: Codejunkies
+$202FE6E0 00000042
++Hyllos
+%Credits: Codejunkies
+$202FE810 00000043
++Iason
+%Credits: Codejunkies
+$202FE6E0 0000003D
++Iason
+%Credits: Codejunkies
+$202FE810 0000003E
++Kaguya
+%Credits: Codejunkies
+$202FE6E0 00000033
++Kaguya
+%Credits: Codejunkies
+$202FE810 00000034
++Kenrokuen
+%Credits: Codejunkies
+$202FE6E0 00000022
++Kenrokuen
+%Credits: Codejunkies
+$202FE810 00000023
++King's Mind
+%Credits: Codejunkies
+$202FE6E0 00000006
++King's Mind
+%Credits: Codejunkies
+$202FE810 00000007
++Kiwi Berry
+%Credits: Codejunkies
+$202FE6E0 00000035
++Kiwi Berry
+%Credits: Codejunkies
+$202FE810 00000036
++Ladylove
+%Credits: Codejunkies
+$202FE6E0 00000001
++Ladylove
+%Credits: Codejunkies
+$202FE810 00000002
++Last Dancer
+%Credits: Codejunkies
+$202FE6E0 00000061
++Last Dancer
+%Credits: Codejunkies
+$202FE810 00000062
++Leo
+%Credits: Codejunkies
+$202FE6E0 0000000E
++Leo
+%Credits: Codejunkies
+$202FE810 0000000F
++Leo II
+%Credits: Codejunkies
+$202FE6E0 0000000F
++Leo II
+%Credits: Codejunkies
+$202FE810 00000010
++Mad Forest
+%Credits: Codejunkies
+$202FE6E0 0000004C
++Mad Forest
+%Credits: Codejunkies
+$202FE810 0000004D
++Mad Forest II
+%Credits: Codejunkies
+$202FE6E0 0000004D
++Mad Forest II
+%Credits: Codejunkies
+$202FE810 0000004E
++Mad Forest Iii
+%Credits: Codejunkies
+$202FE6E0 0000004E
++Mad Forest Iii
+%Credits: Codejunkies
+$202FE810 0000004F
++Metallic Dawn
+%Credits: Codejunkies
+$202FE6E0 00000058
++Metallic Dawn
+%Credits: Codejunkies
+$202FE810 00000059
++Metallic Dawn II
+%Credits: Codejunkies
+$202FE6E0 00000059
++Metallic Dawn II
+%Credits: Codejunkies
+$202FE810 0000005A
++Midnight Eye
+%Credits: Codejunkies
+$202FE6E0 00000023
++Midnight Eye
+%Credits: Codejunkies
+$202FE810 00000024
++Misty Lady
+%Credits: Codejunkies
+$202FE6E0 00000056
++Misty Lady
+%Credits: Codejunkies
+$202FE810 00000057
++Morning Glory
+%Credits: Codejunkies
+$202FE6E0 00000003
++Morning Glory
+%Credits: Codejunkies
+$202FE810 00000004
++Morning Star
+%Credits: Codejunkies
+$202FE6E0 0000001A
++Morning Star
+%Credits: Codejunkies
+$202FE810 0000001B
++Mr Heli
+%Credits: Codejunkies
+$202FE6E0 00000039
++Mr Heli
+%Credits: Codejunkies
+$202FE810 0000003A
++Mysty Lady II
+%Credits: Codejunkies
+$202FE6E0 00000057
++Mysty Lady II
+%Credits: Codejunkies
+$202FE810 00000058
++Neoptolemos
+%Credits: Codejunkies
+$202FE6E0 00000040
++Neoptolemos
+%Credits: Codejunkies
+$202FE810 00000041
++No Chaser
+%Credits: Codejunkies
+$202FE6E0 0000002D
++No Chaser
+%Credits: Codejunkies
+$202FE810 0000002E
++Northern Lights
+%Credits: Codejunkies
+$202FE6E0 0000001F
++Northern Lights
+%Credits: Codejunkies
+$202FE810 00000020
++Owl-Light
+%Credits: Codejunkies
+$202FE6E0 00000024
++Owl-Light
+%Credits: Codejunkies
+$202FE810 00000025
++Peace Maker
+%Credits: Codejunkies
+$202FE6E0 0000002B
++Peace Maker
+%Credits: Codejunkies
+$202FE810 0000002C
++Platinum Heart
+%Credits: Codejunkies
+$202FE6E0 0000005F
++Platinum Heart
+%Credits: Codejunkies
+$202FE810 00000060
++Platonic Love
+%Credits: Codejunkies
+$202FE6E0 00000055
++Platonic Love
+%Credits: Codejunkies
+$202FE810 00000056
++Pow Armor
+%Credits: Codejunkies
+$202FE6E0 00000037
++Pow Armor
+%Credits: Codejunkies
+$202FE810 00000038
++Pow Armor II
+%Credits: Codejunkies
+$202FE6E0 00000038
++Pow Armor II
+%Credits: Codejunkies
+$202FE810 00000039
++Powered Silence
+%Credits: Codejunkies
+$202FE6E0 00000026
++Powered Silence
+%Credits: Codejunkies
+$202FE810 00000027
++Princedom
+%Credits: Codejunkies
+$202FE6E0 00000005
++Princedom
+%Credits: Codejunkies
+$202FE810 00000006
++Principalities
+%Credits: Codejunkies
+$202FE6E0 00000010
++Principalities
+%Credits: Codejunkies
+$202FE810 00000011
++Ragnarok
+%Credits: Codejunkies
+$202FE6E0 0000000A
++Ragnarok
+%Credits: Codejunkies
+$202FE810 0000000B
++Ragnarok II
+%Credits: Codejunkies
+$202FE6E0 0000000B
++Ragnarok II
+%Credits: Codejunkies
+$202FE810 0000000C
++Scope Duck
+%Credits: Codejunkies
+$202FE6E0 00000036
++Scope Duck
+%Credits: Codejunkies
+$202FE810 00000037
++Sexy Dynamite
+%Credits: Codejunkies
+$202FE6E0 0000005A
++Sexy Dynamite
+%Credits: Codejunkies
+$202FE810 0000005B
++Sexy Dynamite II
+%Credits: Codejunkies
+$202FE6E0 0000005B
++Sexy Dynamite II
+%Credits: Codejunkies
+$202FE810 0000005C
++Shooting Star
+%Credits: Codejunkies
+$202FE6E0 00000019
++Shooting Star
+%Credits: Codejunkies
+$202FE810 0000001A
++Sleipnir
+%Credits: Codejunkies
+$202FE6E0 00000018
++Sleipnir
+%Credits: Codejunkies
+$202FE810 00000019
++Songoku
+%Credits: Codejunkies
+$202FE6E0 00000032
++Songoku
+%Credits: Codejunkies
+$202FE810 00000033
++Srtider
+%Credits: Codejunkies
+$202FE6E0 00000016
++Srtider
+%Credits: Codejunkies
+$202FE810 00000017
++Stayer
+%Credits: Codejunkies
+$202FE6E0 00000017
++Stayer
+%Credits: Codejunkies
+$202FE810 00000018
++Strike Bomber
+%Credits: Codejunkies
+$202FE6E0 00000009
++Strike Bomber
+%Credits: Codejunkies
+$202FE810 0000000A
++Sunday Strike
+%Credits: Codejunkies
+$202FE6E0 00000008
++Sunday Strike
+%Credits: Codejunkies
+$202FE810 00000009
++Sweet Luna
+%Credits: Codejunkies
+$202FE6E0 00000025
++Sweet Luna
+%Credits: Codejunkies
+$202FE810 00000026
++Sweet Memories
+%Credits: Codejunkies
+$202FE6E0 00000014
++Sweet Memories
+%Credits: Codejunkies
+$202FE810 00000015
++T:Ship In Hangar Slot 3
+%Credits: Codejunkies
+$202FE6E0 00000064
++Tears Shower
+%Credits: Codejunkies
+$202FE6E0 0000001E
++Tears Shower
+%Credits: Codejunkies
+$202FE810 0000001F
++Tropical Angel
+%Credits: Codejunkies
+$202FE6E0 0000002C
++Tropical Angel
+%Credits: Codejunkies
+$202FE810 0000002D
++Unchained Silence
+%Credits: Codejunkies
+$202FE6E0 00000027
++Unchained Silence
+%Credits: Codejunkies
+$202FE810 00000028
++Valkrie
+%Credits: Codejunkies
+$202FE6E0 00000030
++Valkrie
+%Credits: Codejunkies
+$202FE810 00000031
++War-Head
+%Credits: Codejunkies
+$202FE6E0 00000007
++War-Head
+%Credits: Codejunkies
+$202FE810 00000008
++Wave Master
+%Credits: Codejunkies
+$202FE6E0 00000002
++Wave Master
+%Credits: Codejunkies
+$202FE810 00000003
++Wise Man
+%Credits: Codejunkies
+$202FE6E0 00000012
++Wise Man
+%Credits: Codejunkies
+$202FE810 00000013
+!!
+!Ship In Hangar Slot 4:
++Achilleus
+%Credits: Codejunkies
+$202FE940 00000040
++Albatross
+%Credits: Codejunkies
+$202FE940 0000002A
++Amphibian
+%Credits: Codejunkies
+$202FE940 00000050
++Amphibian II
+%Credits: Codejunkies
+$202FE940 00000051
++Amphibian Iii
+%Credits: Codejunkies
+$202FE940 00000052
++Andromalius
+%Credits: Codejunkies
+$202FE940 00000029
++Arrow-Head
+%Credits: Codejunkies
+$202FE940 00000000
++Arvanche
+%Credits: Codejunkies
+$202FE940 0000005D
++Asanogawa
+%Credits: Codejunkies
+$202FE940 00000022
++Asklepios
+%Credits: Codejunkies
+$202FE940 0000003F
++Bydo System Alpha
+%Credits: Codejunkies
+$202FE940 00000053
++Bydo System Beta
+%Credits: Codejunkies
+$202FE940 00000054
++Bydo System Gamma
+%Credits: Codejunkies
+$202FE940 00000055
++Charon
+%Credits: Codejunkies
+$202FE940 00000048
++Chiron
+%Credits: Codejunkies
+$202FE940 0000003D
++Claw Claw
+%Credits: Codejunkies
+$202FE940 0000005E
++Concertmaster
+%Credits: Codejunkies
+$202FE940 0000001E
++Creberus
+%Credits: Codejunkies
+$202FE940 00000046
++Cross The Rubicon
+%Credits: Codejunkies
+$202FE940 00000044
++Curtain Call
+%Credits: Codejunkies
+$202FE940 00000063
++Cyber Nova
+%Credits: Codejunkies
+$202FE940 0000003B
++Daedalus
+%Credits: Codejunkies
+$202FE940 00000030
++Dantalion
+%Credits: Codejunkies
+$202FE940 00000049
++Delicatessen
+%Credits: Codejunkies
+$202FE940 0000000D
++Delta
+%Credits: Codejunkies
+$202FE940 00000001
++Diamond Wedding
+%Credits: Codejunkies
+$202FE940 00000061
++Digitalius
+%Credits: Codejunkies
+$202FE940 0000004A
++Digitalius II
+%Credits: Codejunkies
+$202FE940 0000004B
++Digitalius Iii
+%Credits: Codejunkies
+$202FE940 0000004C
++Dinner Bell
+%Credits: Codejunkies
+$202FE940 0000000E
++Disaster Report
+%Credits: Codejunkies
+$202FE940 00000016
++Dominions
+%Credits: Codejunkies
+$202FE940 00000012
++Duckbill
+%Credits: Codejunkies
+$202FE940 00000035
++Echidna
+%Credits: Codejunkies
+$202FE940 00000045
++Eclipse
+%Credits: Codejunkies
+$202FE940 0000002F
++Escort Time
+%Credits: Codejunkies
+$202FE940 00000005
++Frogman
+%Credits: Codejunkies
+$202FE940 0000003C
++Future World
+%Credits: Codejunkies
+$202FE940 0000002B
++Garuda
+%Credits: Codejunkies
+$202FE940 00000032
++Golden Selection
+%Credits: Codejunkies
+$202FE940 0000005F
++Grand Finale
+%Credits: Codejunkies
+$202FE940 00000064
++Grsce Note
+%Credits: Codejunkies
+$202FE940 0000001C
++Hades
+%Credits: Codejunkies
+$202FE940 00000047
++Hakusan
+%Credits: Codejunkies
+$202FE940 00000021
++Happy Days
+%Credits: Codejunkies
+$202FE940 00000014
++Herkales
+%Credits: Codejunkies
+$202FE940 00000042
++Hot Conductor
+%Credits: Codejunkies
+$202FE940 0000001D
++Hyllos
+%Credits: Codejunkies
+$202FE940 00000043
++Iason
+%Credits: Codejunkies
+$202FE940 0000003E
++Kaguya
+%Credits: Codejunkies
+$202FE940 00000034
++Kenrokuen
+%Credits: Codejunkies
+$202FE940 00000023
++King's Mind
+%Credits: Codejunkies
+$202FE940 00000007
++Kiwi Berry
+%Credits: Codejunkies
+$202FE940 00000036
++Ladylove
+%Credits: Codejunkies
+$202FE940 00000002
++Last Dancer
+%Credits: Codejunkies
+$202FE940 00000062
++Leo
+%Credits: Codejunkies
+$202FE940 0000000F
++Leo II
+%Credits: Codejunkies
+$202FE940 00000010
++Mad Forest
+%Credits: Codejunkies
+$202FE940 0000004D
++Mad Forest II
+%Credits: Codejunkies
+$202FE940 0000004E
++Mad Forest Iii
+%Credits: Codejunkies
+$202FE940 0000004F
++Metallic Dawn
+%Credits: Codejunkies
+$202FE940 00000059
++Metallic Dawn II
+%Credits: Codejunkies
+$202FE940 0000005A
++Midnight Eye
+%Credits: Codejunkies
+$202FE940 00000024
++Misty Lady
+%Credits: Codejunkies
+$202FE940 00000057
++Morning Glory
+%Credits: Codejunkies
+$202FE940 00000004
++Morning Star
+%Credits: Codejunkies
+$202FE940 0000001B
++Mr Heli
+%Credits: Codejunkies
+$202FE940 0000003A
++Mysty Lady II
+%Credits: Codejunkies
+$202FE940 00000058
++Neoptolemos
+%Credits: Codejunkies
+$202FE940 00000041
++No Chaser
+%Credits: Codejunkies
+$202FE940 0000002E
++Northern Lights
+%Credits: Codejunkies
+$202FE940 00000020
++Owl-Light
+%Credits: Codejunkies
+$202FE940 00000025
++Peace Maker
+%Credits: Codejunkies
+$202FE940 0000002C
++Platinum Heart
+%Credits: Codejunkies
+$202FE940 00000060
++Platonic Love
+%Credits: Codejunkies
+$202FE940 00000056
++Pow Armor
+%Credits: Codejunkies
+$202FE940 00000038
++Pow Armor II
+%Credits: Codejunkies
+$202FE940 00000039
++Powered Silence
+%Credits: Codejunkies
+$202FE940 00000027
++Princedom
+%Credits: Codejunkies
+$202FE940 00000006
++Principalities
+%Credits: Codejunkies
+$202FE940 00000011
++Ragnarok
+%Credits: Codejunkies
+$202FE940 0000000B
++Ragnarok II
+%Credits: Codejunkies
+$202FE940 0000000C
++Scope Duck
+%Credits: Codejunkies
+$202FE940 00000037
++Sexy Dynamite
+%Credits: Codejunkies
+$202FE940 0000005B
++Sexy Dynamite II
+%Credits: Codejunkies
+$202FE940 0000005C
++Shooting Star
+%Credits: Codejunkies
+$202FE940 0000001A
++Sleipnir
+%Credits: Codejunkies
+$202FE940 00000019
++Songoku
+%Credits: Codejunkies
+$202FE940 00000033
++Srtider
+%Credits: Codejunkies
+$202FE940 00000017
++Stayer
+%Credits: Codejunkies
+$202FE940 00000018
++Strike Bomber
+%Credits: Codejunkies
+$202FE940 0000000A
++Sunday Strike
+%Credits: Codejunkies
+$202FE940 00000009
++Sweet Luna
+%Credits: Codejunkies
+$202FE940 00000026
++Sweet Memories
+%Credits: Codejunkies
+$202FE940 00000015
++Tears Shower
+%Credits: Codejunkies
+$202FE940 0000001F
++Tropical Angel
+%Credits: Codejunkies
+$202FE940 0000002D
++Unchained Silence
+%Credits: Codejunkies
+$202FE940 00000028
++Valkrie
+%Credits: Codejunkies
+$202FE940 00000031
++War-Head
+%Credits: Codejunkies
+$202FE940 00000008
++Wave Master
+%Credits: Codejunkies
+$202FE940 00000003
++Wise Man
+%Credits: Codejunkies
+$202FE940 00000013
+!!
+!Ship In Hangar Slot 5:
++Achilleus
+%Credits: Codejunkies
+$202FEA70 00000040
++Albatross
+%Credits: Codejunkies
+$202FEA70 0000002A
++Amphibian
+%Credits: Codejunkies
+$202FEA70 00000050
++Amphibian II
+%Credits: Codejunkies
+$202FEA70 00000051
++Amphibian Iii
+%Credits: Codejunkies
+$202FEA70 00000052
++Andromalius
+%Credits: Codejunkies
+$202FEA70 00000029
++Arrow-Head
+%Credits: Codejunkies
+$202FEA70 00000000
++Arvanche
+%Credits: Codejunkies
+$202FEA70 0000005D
++Asanogawa
+%Credits: Codejunkies
+$202FEA70 00000022
++Asklepios
+%Credits: Codejunkies
+$202FEA70 0000003F
++Bydo System Alpha
+%Credits: Codejunkies
+$202FEA70 00000053
++Bydo System Beta
+%Credits: Codejunkies
+$202FEA70 00000054
++Bydo System Gamma
+%Credits: Codejunkies
+$202FEA70 00000055
++Charon
+%Credits: Codejunkies
+$202FEA70 00000048
++Chiron
+%Credits: Codejunkies
+$202FEA70 0000003D
++Claw Claw
+%Credits: Codejunkies
+$202FEA70 0000005E
++Concertmaster
+%Credits: Codejunkies
+$202FEA70 0000001E
++Creberus
+%Credits: Codejunkies
+$202FEA70 00000046
++Cross The Rubicon
+%Credits: Codejunkies
+$202FEA70 00000044
++Curtain Call
+%Credits: Codejunkies
+$202FEA70 00000063
++Cyber Nova
+%Credits: Codejunkies
+$202FEA70 0000003B
++Daedalus
+%Credits: Codejunkies
+$202FEA70 00000030
++Dantalion
+%Credits: Codejunkies
+$202FEA70 00000049
++Delicatessen
+%Credits: Codejunkies
+$202FEA70 0000000D
++Delta
+%Credits: Codejunkies
+$202FEA70 00000001
++Diamond Wedding
+%Credits: Codejunkies
+$202FEA70 00000061
++Digitalius
+%Credits: Codejunkies
+$202FEA70 0000004A
++Digitalius II
+%Credits: Codejunkies
+$202FEA70 0000004B
++Digitalius Iii
+%Credits: Codejunkies
+$202FEA70 0000004C
++Dinner Bell
+%Credits: Codejunkies
+$202FEA70 0000000E
++Disaster Report
+%Credits: Codejunkies
+$202FEA70 00000016
++Dominions
+%Credits: Codejunkies
+$202FEA70 00000012
++Duckbill
+%Credits: Codejunkies
+$202FEA70 00000035
++Echidna
+%Credits: Codejunkies
+$202FEA70 00000045
++Eclipse
+%Credits: Codejunkies
+$202FEA70 0000002F
++Escort Time
+%Credits: Codejunkies
+$202FEA70 00000005
++Frogman
+%Credits: Codejunkies
+$202FEA70 0000003C
++Future World
+%Credits: Codejunkies
+$202FEA70 0000002B
++Garuda
+%Credits: Codejunkies
+$202FEA70 00000032
++Golden Selection
+%Credits: Codejunkies
+$202FEA70 0000005F
++Grand Finale
+%Credits: Codejunkies
+$202FEA70 00000064
++Grsce Note
+%Credits: Codejunkies
+$202FEA70 0000001C
++Hades
+%Credits: Codejunkies
+$202FEA70 00000047
++Hakusan
+%Credits: Codejunkies
+$202FEA70 00000021
++Happy Days
+%Credits: Codejunkies
+$202FEA70 00000014
++Herkales
+%Credits: Codejunkies
+$202FEA70 00000042
++Hot Conductor
+%Credits: Codejunkies
+$202FEA70 0000001D
++Hyllos
+%Credits: Codejunkies
+$202FEA70 00000043
++Iason
+%Credits: Codejunkies
+$202FEA70 0000003E
++Kaguya
+%Credits: Codejunkies
+$202FEA70 00000034
++Kenrokuen
+%Credits: Codejunkies
+$202FEA70 00000023
++King's Mind
+%Credits: Codejunkies
+$202FEA70 00000007
++Kiwi Berry
+%Credits: Codejunkies
+$202FEA70 00000036
++Ladylove
+%Credits: Codejunkies
+$202FEA70 00000002
++Last Dancer
+%Credits: Codejunkies
+$202FEA70 00000062
++Leo
+%Credits: Codejunkies
+$202FEA70 0000000F
++Leo II
+%Credits: Codejunkies
+$202FEA70 00000010
++Mad Forest
+%Credits: Codejunkies
+$202FEA70 0000004D
++Mad Forest II
+%Credits: Codejunkies
+$202FEA70 0000004E
++Mad Forest Iii
+%Credits: Codejunkies
+$202FEA70 0000004F
++Metallic Dawn
+%Credits: Codejunkies
+$202FEA70 00000059
++Metallic Dawn II
+%Credits: Codejunkies
+$202FEA70 0000005A
++Midnight Eye
+%Credits: Codejunkies
+$202FEA70 00000024
++Misty Lady
+%Credits: Codejunkies
+$202FEA70 00000057
++Morning Glory
+%Credits: Codejunkies
+$202FEA70 00000004
++Morning Star
+%Credits: Codejunkies
+$202FEA70 0000001B
++Mr Heli
+%Credits: Codejunkies
+$202FEA70 0000003A
++Mysty Lady II
+%Credits: Codejunkies
+$202FEA70 00000058
++Neoptolemos
+%Credits: Codejunkies
+$202FEA70 00000041
++No Chaser
+%Credits: Codejunkies
+$202FEA70 0000002E
++Northern Lights
+%Credits: Codejunkies
+$202FEA70 00000020
++Owl-Light
+%Credits: Codejunkies
+$202FEA70 00000025
++Peace Maker
+%Credits: Codejunkies
+$202FEA70 0000002C
++Platinum Heart
+%Credits: Codejunkies
+$202FEA70 00000060
++Platonic Love
+%Credits: Codejunkies
+$202FEA70 00000056
++Pow Armor
+%Credits: Codejunkies
+$202FEA70 00000038
++Pow Armor II
+%Credits: Codejunkies
+$202FEA70 00000039
++Powered Silence
+%Credits: Codejunkies
+$202FEA70 00000027
++Princedom
+%Credits: Codejunkies
+$202FEA70 00000006
++Principalities
+%Credits: Codejunkies
+$202FEA70 00000011
++Ragnarok
+%Credits: Codejunkies
+$202FEA70 0000000B
++Ragnarok II
+%Credits: Codejunkies
+$202FEA70 0000000C
++Scope Duck
+%Credits: Codejunkies
+$202FEA70 00000037
++Sexy Dynamite
+%Credits: Codejunkies
+$202FEA70 0000005B
++Sexy Dynamite II
+%Credits: Codejunkies
+$202FEA70 0000005C
++Shooting Star
+%Credits: Codejunkies
+$202FEA70 0000001A
++Sleipnir
+%Credits: Codejunkies
+$202FEA70 00000019
++Songoku
+%Credits: Codejunkies
+$202FEA70 00000033
++Srtider
+%Credits: Codejunkies
+$202FEA70 00000017
++Stayer
+%Credits: Codejunkies
+$202FEA70 00000018
++Strike Bomber
+%Credits: Codejunkies
+$202FEA70 0000000A
++Sunday Strike
+%Credits: Codejunkies
+$202FEA70 00000009
++Sweet Luna
+%Credits: Codejunkies
+$202FEA70 00000026
++Sweet Memories
+%Credits: Codejunkies
+$202FEA70 00000015
++Tears Shower
+%Credits: Codejunkies
+$202FEA70 0000001F
++Tropical Angel
+%Credits: Codejunkies
+$202FEA70 0000002D
++Unchained Silence
+%Credits: Codejunkies
+$202FEA70 00000028
++Valkrie
+%Credits: Codejunkies
+$202FEA70 00000031
++War-Head
+%Credits: Codejunkies
+$202FEA70 00000008
++Wave Master
+%Credits: Codejunkies
+$202FEA70 00000003
++Wise Man
+%Credits: Codejunkies
+$202FEA70 00000013
+!!
+!Ship In Hangar Slot 6:
++Achilleus
+%Credits: Codejunkies
+$202FEBA0 00000040
++Albatross
+%Credits: Codejunkies
+$202FEBA0 0000002A
++Amphibian
+%Credits: Codejunkies
+$202FEBA0 00000050
++Amphibian II
+%Credits: Codejunkies
+$202FEBA0 00000051
++Amphibian Iii
+%Credits: Codejunkies
+$202FEBA0 00000052
++Andromalius
+%Credits: Codejunkies
+$202FEBA0 00000029
++Arrow-Head
+%Credits: Codejunkies
+$202FEBA0 00000000
++Arvanche
+%Credits: Codejunkies
+$202FEBA0 0000005D
++Asanogawa
+%Credits: Codejunkies
+$202FEBA0 00000022
++Asklepios
+%Credits: Codejunkies
+$202FEBA0 0000003F
++Bydo System Alpha
+%Credits: Codejunkies
+$202FEBA0 00000053
++Bydo System Beta
+%Credits: Codejunkies
+$202FEBA0 00000054
++Bydo System Gamma
+%Credits: Codejunkies
+$202FEBA0 00000055
++Charon
+%Credits: Codejunkies
+$202FEBA0 00000048
++Chiron
+%Credits: Codejunkies
+$202FEBA0 0000003D
++Claw Claw
+%Credits: Codejunkies
+$202FEBA0 0000005E
++Concertmaster
+%Credits: Codejunkies
+$202FEBA0 0000001E
++Creberus
+%Credits: Codejunkies
+$202FEBA0 00000046
++Cross The Rubicon
+%Credits: Codejunkies
+$202FEBA0 00000044
++Curtain Call
+%Credits: Codejunkies
+$202FEBA0 00000063
++Cyber Nova
+%Credits: Codejunkies
+$202FEBA0 0000003B
++Daedalus
+%Credits: Codejunkies
+$202FEBA0 00000030
++Dantalion
+%Credits: Codejunkies
+$202FEBA0 00000049
++Delicatessen
+%Credits: Codejunkies
+$202FEBA0 0000000D
++Delta
+%Credits: Codejunkies
+$202FEBA0 00000001
++Diamond Wedding
+%Credits: Codejunkies
+$202FEBA0 00000061
++Digitalius
+%Credits: Codejunkies
+$202FEBA0 0000004A
++Digitalius II
+%Credits: Codejunkies
+$202FEBA0 0000004B
++Digitalius Iii
+%Credits: Codejunkies
+$202FEBA0 0000004C
++Dinner Bell
+%Credits: Codejunkies
+$202FEBA0 0000000E
++Disaster Report
+%Credits: Codejunkies
+$202FEBA0 00000016
++Dominions
+%Credits: Codejunkies
+$202FEBA0 00000012
++Duckbill
+%Credits: Codejunkies
+$202FEBA0 00000035
++Echidna
+%Credits: Codejunkies
+$202FEBA0 00000045
++Eclipse
+%Credits: Codejunkies
+$202FEBA0 0000002F
++Escort Time
+%Credits: Codejunkies
+$202FEBA0 00000005
++Frogman
+%Credits: Codejunkies
+$202FEBA0 0000003C
++Future World
+%Credits: Codejunkies
+$202FEBA0 0000002B
++Garuda
+%Credits: Codejunkies
+$202FEBA0 00000032
++Golden Selection
+%Credits: Codejunkies
+$202FEBA0 0000005F
++Grand Finale
+%Credits: Codejunkies
+$202FEBA0 00000064
++Grsce Note
+%Credits: Codejunkies
+$202FEBA0 0000001C
++Hades
+%Credits: Codejunkies
+$202FEBA0 00000047
++Hakusan
+%Credits: Codejunkies
+$202FEBA0 00000021
++Happy Days
+%Credits: Codejunkies
+$202FEBA0 00000014
++Herkales
+%Credits: Codejunkies
+$202FEBA0 00000042
++Hot Conductor
+%Credits: Codejunkies
+$202FEBA0 0000001D
++Hyllos
+%Credits: Codejunkies
+$202FEBA0 00000043
++Iason
+%Credits: Codejunkies
+$202FEBA0 0000003E
++Kaguya
+%Credits: Codejunkies
+$202FEBA0 00000034
++Kenrokuen
+%Credits: Codejunkies
+$202FEBA0 00000023
++King's Mind
+%Credits: Codejunkies
+$202FEBA0 00000007
++Kiwi Berry
+%Credits: Codejunkies
+$202FEBA0 00000036
++Ladylove
+%Credits: Codejunkies
+$202FEBA0 00000002
++Last Dancer
+%Credits: Codejunkies
+$202FEBA0 00000062
++Leo
+%Credits: Codejunkies
+$202FEBA0 0000000F
++Leo II
+%Credits: Codejunkies
+$202FEBA0 00000010
++Mad Forest
+%Credits: Codejunkies
+$202FEBA0 0000004D
++Mad Forest II
+%Credits: Codejunkies
+$202FEBA0 0000004E
++Mad Forest Iii
+%Credits: Codejunkies
+$202FEBA0 0000004F
++Metallic Dawn
+%Credits: Codejunkies
+$202FEBA0 00000059
++Metallic Dawn II
+%Credits: Codejunkies
+$202FEBA0 0000005A
++Midnight Eye
+%Credits: Codejunkies
+$202FEBA0 00000024
++Misty Lady
+%Credits: Codejunkies
+$202FEBA0 00000057
++Morning Glory
+%Credits: Codejunkies
+$202FEBA0 00000004
++Morning Star
+%Credits: Codejunkies
+$202FEBA0 0000001B
++Mr Heli
+%Credits: Codejunkies
+$202FEBA0 0000003A
++Mysty Lady II
+%Credits: Codejunkies
+$202FEBA0 00000058
++Neoptolemos
+%Credits: Codejunkies
+$202FEBA0 00000041
++No Chaser
+%Credits: Codejunkies
+$202FEBA0 0000002E
++Northern Lights
+%Credits: Codejunkies
+$202FEBA0 00000020
++Owl-Light
+%Credits: Codejunkies
+$202FEBA0 00000025
++Peace Maker
+%Credits: Codejunkies
+$202FEBA0 0000002C
++Platinum Heart
+%Credits: Codejunkies
+$202FEBA0 00000060
++Platonic Love
+%Credits: Codejunkies
+$202FEBA0 00000056
++Pow Armor
+%Credits: Codejunkies
+$202FEBA0 00000038
++Pow Armor II
+%Credits: Codejunkies
+$202FEBA0 00000039
++Powered Silence
+%Credits: Codejunkies
+$202FEBA0 00000027
++Princedom
+%Credits: Codejunkies
+$202FEBA0 00000006
++Principalities
+%Credits: Codejunkies
+$202FEBA0 00000011
++Ragnarok
+%Credits: Codejunkies
+$202FEBA0 0000000B
++Ragnarok II
+%Credits: Codejunkies
+$202FEBA0 0000000C
++Scope Duck
+%Credits: Codejunkies
+$202FEBA0 00000037
++Sexy Dynamite
+%Credits: Codejunkies
+$202FEBA0 0000005B
++Sexy Dynamite II
+%Credits: Codejunkies
+$202FEBA0 0000005C
++Shooting Star
+%Credits: Codejunkies
+$202FEBA0 0000001A
++Sleipnir
+%Credits: Codejunkies
+$202FEBA0 00000019
++Songoku
+%Credits: Codejunkies
+$202FEBA0 00000033
++Srtider
+%Credits: Codejunkies
+$202FEBA0 00000017
++Stayer
+%Credits: Codejunkies
+$202FEBA0 00000018
++Strike Bomber
+%Credits: Codejunkies
+$202FEBA0 0000000A
++Sunday Strike
+%Credits: Codejunkies
+$202FEBA0 00000009
++Sweet Luna
+%Credits: Codejunkies
+$202FEBA0 00000026
++Sweet Memories
+%Credits: Codejunkies
+$202FEBA0 00000015
++Tears Shower
+%Credits: Codejunkies
+$202FEBA0 0000001F
++Tropical Angel
+%Credits: Codejunkies
+$202FEBA0 0000002D
++Unchained Silence
+%Credits: Codejunkies
+$202FEBA0 00000028
++Valkrie
+%Credits: Codejunkies
+$202FEBA0 00000031
++War-Head
+%Credits: Codejunkies
+$202FEBA0 00000008
++Wave Master
+%Credits: Codejunkies
+$202FEBA0 00000003
++Wise Man
+%Credits: Codejunkies
+$202FEBA0 00000013
+!!
+!Ship In Hangar Slot 7:
++Achilleus
+%Credits: Codejunkies
+$202FECD0 00000040
++Albatross
+%Credits: Codejunkies
+$202FECD0 0000002A
++Amphibian
+%Credits: Codejunkies
+$202FECD0 00000050
++Amphibian II
+%Credits: Codejunkies
+$202FECD0 00000051
++Amphibian Iii
+%Credits: Codejunkies
+$202FECD0 00000052
++Andromalius
+%Credits: Codejunkies
+$202FECD0 00000029
++Arrow-Head
+%Credits: Codejunkies
+$202FECD0 00000000
++Arvanche
+%Credits: Codejunkies
+$202FECD0 0000005D
++Asanogawa
+%Credits: Codejunkies
+$202FECD0 00000022
++Asklepios
+%Credits: Codejunkies
+$202FECD0 0000003F
++Bydo System Alpha
+%Credits: Codejunkies
+$202FECD0 00000053
++Bydo System Beta
+%Credits: Codejunkies
+$202FECD0 00000054
++Bydo System Gamma
+%Credits: Codejunkies
+$202FECD0 00000055
++Charon
+%Credits: Codejunkies
+$202FECD0 00000048
++Chiron
+%Credits: Codejunkies
+$202FECD0 0000003D
++Claw Claw
+%Credits: Codejunkies
+$202FECD0 0000005E
++Concertmaster
+%Credits: Codejunkies
+$202FECD0 0000001E
++Creberus
+%Credits: Codejunkies
+$202FECD0 00000046
++Cross The Rubicon
+%Credits: Codejunkies
+$202FECD0 00000044
++Curtain Call
+%Credits: Codejunkies
+$202FECD0 00000063
++Cyber Nova
+%Credits: Codejunkies
+$202FECD0 0000003B
++Daedalus
+%Credits: Codejunkies
+$202FECD0 00000030
++Dantalion
+%Credits: Codejunkies
+$202FECD0 00000049
++Delicatessen
+%Credits: Codejunkies
+$202FECD0 0000000D
++Delta
+%Credits: Codejunkies
+$202FECD0 00000001
++Diamond Wedding
+%Credits: Codejunkies
+$202FECD0 00000061
++Digitalius
+%Credits: Codejunkies
+$202FECD0 0000004A
++Digitalius II
+%Credits: Codejunkies
+$202FECD0 0000004B
++Digitalius Iii
+%Credits: Codejunkies
+$202FECD0 0000004C
++Dinner Bell
+%Credits: Codejunkies
+$202FECD0 0000000E
++Disaster Report
+%Credits: Codejunkies
+$202FECD0 00000016
++Dominions
+%Credits: Codejunkies
+$202FECD0 00000012
++Duckbill
+%Credits: Codejunkies
+$202FECD0 00000035
++Echidna
+%Credits: Codejunkies
+$202FECD0 00000045
++Eclipse
+%Credits: Codejunkies
+$202FECD0 0000002F
++Escort Time
+%Credits: Codejunkies
+$202FECD0 00000005
++Frogman
+%Credits: Codejunkies
+$202FECD0 0000003C
++Future World
+%Credits: Codejunkies
+$202FECD0 0000002B
++Garuda
+%Credits: Codejunkies
+$202FECD0 00000032
++Golden Selection
+%Credits: Codejunkies
+$202FECD0 0000005F
++Grand Finale
+%Credits: Codejunkies
+$202FECD0 00000064
++Grsce Note
+%Credits: Codejunkies
+$202FECD0 0000001C
++Hades
+%Credits: Codejunkies
+$202FECD0 00000047
++Hakusan
+%Credits: Codejunkies
+$202FECD0 00000021
++Happy Days
+%Credits: Codejunkies
+$202FECD0 00000014
++Herkales
+%Credits: Codejunkies
+$202FECD0 00000042
++Hot Conductor
+%Credits: Codejunkies
+$202FECD0 0000001D
++Hyllos
+%Credits: Codejunkies
+$202FECD0 00000043
++Iason
+%Credits: Codejunkies
+$202FECD0 0000003E
++Kaguya
+%Credits: Codejunkies
+$202FECD0 00000034
++Kenrokuen
+%Credits: Codejunkies
+$202FECD0 00000023
++King's Mind
+%Credits: Codejunkies
+$202FECD0 00000007
++Kiwi Berry
+%Credits: Codejunkies
+$202FECD0 00000036
++Ladylove
+%Credits: Codejunkies
+$202FECD0 00000002
++Last Dancer
+%Credits: Codejunkies
+$202FECD0 00000062
++Leo
+%Credits: Codejunkies
+$202FECD0 0000000F
++Leo II
+%Credits: Codejunkies
+$202FECD0 00000010
++Mad Forest
+%Credits: Codejunkies
+$202FECD0 0000004D
++Mad Forest II
+%Credits: Codejunkies
+$202FECD0 0000004E
++Mad Forest Iii
+%Credits: Codejunkies
+$202FECD0 0000004F
++Metallic Dawn
+%Credits: Codejunkies
+$202FECD0 00000059
++Metallic Dawn II
+%Credits: Codejunkies
+$202FECD0 0000005A
++Midnight Eye
+%Credits: Codejunkies
+$202FECD0 00000024
++Misty Lady
+%Credits: Codejunkies
+$202FECD0 00000057
++Morning Glory
+%Credits: Codejunkies
+$202FECD0 00000004
++Morning Star
+%Credits: Codejunkies
+$202FECD0 0000001B
++Mr Heli
+%Credits: Codejunkies
+$202FECD0 0000003A
++Mysty Lady II
+%Credits: Codejunkies
+$202FECD0 00000058
++Neoptolemos
+%Credits: Codejunkies
+$202FECD0 00000041
++No Chaser
+%Credits: Codejunkies
+$202FECD0 0000002E
++Northern Lights
+%Credits: Codejunkies
+$202FECD0 00000020
++Owl-Light
+%Credits: Codejunkies
+$202FECD0 00000025
++Peace Maker
+%Credits: Codejunkies
+$202FECD0 0000002C
++Platinum Heart
+%Credits: Codejunkies
+$202FECD0 00000060
++Platonic Love
+%Credits: Codejunkies
+$202FECD0 00000056
++Pow Armor
+%Credits: Codejunkies
+$202FECD0 00000038
++Pow Armor II
+%Credits: Codejunkies
+$202FECD0 00000039
++Powered Silence
+%Credits: Codejunkies
+$202FECD0 00000027
++Princedom
+%Credits: Codejunkies
+$202FECD0 00000006
++Principalities
+%Credits: Codejunkies
+$202FECD0 00000011
++Ragnarok
+%Credits: Codejunkies
+$202FECD0 0000000B
++Ragnarok II
+%Credits: Codejunkies
+$202FECD0 0000000C
++Scope Duck
+%Credits: Codejunkies
+$202FECD0 00000037
++Sexy Dynamite
+%Credits: Codejunkies
+$202FECD0 0000005B
++Sexy Dynamite II
+%Credits: Codejunkies
+$202FECD0 0000005C
++Shooting Star
+%Credits: Codejunkies
+$202FECD0 0000001A
++Sleipnir
+%Credits: Codejunkies
+$202FECD0 00000019
++Songoku
+%Credits: Codejunkies
+$202FECD0 00000033
++Srtider
+%Credits: Codejunkies
+$202FECD0 00000017
++Stayer
+%Credits: Codejunkies
+$202FECD0 00000018
++Strike Bomber
+%Credits: Codejunkies
+$202FECD0 0000000A
++Sunday Strike
+%Credits: Codejunkies
+$202FECD0 00000009
++Sweet Luna
+%Credits: Codejunkies
+$202FECD0 00000026
++Sweet Memories
+%Credits: Codejunkies
+$202FECD0 00000015
++Tears Shower
+%Credits: Codejunkies
+$202FECD0 0000001F
++Tropical Angel
+%Credits: Codejunkies
+$202FECD0 0000002D
++Unchained Silence
+%Credits: Codejunkies
+$202FECD0 00000028
++Valkrie
+%Credits: Codejunkies
+$202FECD0 00000031
++War-Head
+%Credits: Codejunkies
+$202FECD0 00000008
++Wave Master
+%Credits: Codejunkies
+$202FECD0 00000003
++Wise Man
+%Credits: Codejunkies
+$202FECD0 00000013
+!!
+!Ship In Hangar Slot 8:
++Achilleus
+%Credits: Codejunkies
+$202FEE00 00000040
++Albatross
+%Credits: Codejunkies
+$202FEE00 0000002A
++Amphibian
+%Credits: Codejunkies
+$202FEE00 00000050
++Amphibian II
+%Credits: Codejunkies
+$202FEE00 00000051
++Amphibian Iii
+%Credits: Codejunkies
+$202FEE00 00000052
++Andromalius
+%Credits: Codejunkies
+$202FEE00 00000029
++Arrow-Head
+%Credits: Codejunkies
+$202FEE00 00000000
++Arvanche
+%Credits: Codejunkies
+$202FEE00 0000005D
++Asanogawa
+%Credits: Codejunkies
+$202FEE00 00000022
++Asklepios
+%Credits: Codejunkies
+$202FEE00 0000003F
++Bydo System Alpha
+%Credits: Codejunkies
+$202FEE00 00000053
++Bydo System Beta
+%Credits: Codejunkies
+$202FEE00 00000054
++Bydo System Gamma
+%Credits: Codejunkies
+$202FEE00 00000055
++Charon
+%Credits: Codejunkies
+$202FEE00 00000048
++Chiron
+%Credits: Codejunkies
+$202FEE00 0000003D
++Claw Claw
+%Credits: Codejunkies
+$202FEE00 0000005E
++Concertmaster
+%Credits: Codejunkies
+$202FEE00 0000001E
++Creberus
+%Credits: Codejunkies
+$202FEE00 00000046
++Cross The Rubicon
+%Credits: Codejunkies
+$202FEE00 00000044
++Curtain Call
+%Credits: Codejunkies
+$202FEE00 00000063
++Cyber Nova
+%Credits: Codejunkies
+$202FEE00 0000003B
++Daedalus
+%Credits: Codejunkies
+$202FEE00 00000030
++Dantalion
+%Credits: Codejunkies
+$202FEE00 00000049
++Delicatessen
+%Credits: Codejunkies
+$202FEE00 0000000D
++Delta
+%Credits: Codejunkies
+$202FEE00 00000001
++Diamond Wedding
+%Credits: Codejunkies
+$202FEE00 00000061
++Digitalius
+%Credits: Codejunkies
+$202FEE00 0000004A
++Digitalius II
+%Credits: Codejunkies
+$202FEE00 0000004B
++Digitalius Iii
+%Credits: Codejunkies
+$202FEE00 0000004C
++Dinner Bell
+%Credits: Codejunkies
+$202FEE00 0000000E
++Disaster Report
+%Credits: Codejunkies
+$202FEE00 00000016
++Dominions
+%Credits: Codejunkies
+$202FEE00 00000012
++Duckbill
+%Credits: Codejunkies
+$202FEE00 00000035
++Echidna
+%Credits: Codejunkies
+$202FEE00 00000045
++Eclipse
+%Credits: Codejunkies
+$202FEE00 0000002F
++Escort Time
+%Credits: Codejunkies
+$202FEE00 00000005
++Frogman
+%Credits: Codejunkies
+$202FEE00 0000003C
++Future World
+%Credits: Codejunkies
+$202FEE00 0000002B
++Garuda
+%Credits: Codejunkies
+$202FEE00 00000032
++Golden Selection
+%Credits: Codejunkies
+$202FEE00 0000005F
++Grand Finale
+%Credits: Codejunkies
+$202FEE00 00000064
++Grsce Note
+%Credits: Codejunkies
+$202FEE00 0000001C
++Hades
+%Credits: Codejunkies
+$202FEE00 00000047
++Hakusan
+%Credits: Codejunkies
+$202FEE00 00000021
++Happy Days
+%Credits: Codejunkies
+$202FEE00 00000014
++Herkales
+%Credits: Codejunkies
+$202FEE00 00000042
++Hot Conductor
+%Credits: Codejunkies
+$202FEE00 0000001D
++Hyllos
+%Credits: Codejunkies
+$202FEE00 00000043
++Iason
+%Credits: Codejunkies
+$202FEE00 0000003E
++Kaguya
+%Credits: Codejunkies
+$202FEE00 00000034
++Kenrokuen
+%Credits: Codejunkies
+$202FEE00 00000023
++King's Mind
+%Credits: Codejunkies
+$202FEE00 00000007
++Kiwi Berry
+%Credits: Codejunkies
+$202FEE00 00000036
++Ladylove
+%Credits: Codejunkies
+$202FEE00 00000002
++Last Dancer
+%Credits: Codejunkies
+$202FEE00 00000062
++Leo
+%Credits: Codejunkies
+$202FEE00 0000000F
++Leo II
+%Credits: Codejunkies
+$202FEE00 00000010
++Mad Forest
+%Credits: Codejunkies
+$202FEE00 0000004D
++Mad Forest II
+%Credits: Codejunkies
+$202FEE00 0000004E
++Mad Forest Iii
+%Credits: Codejunkies
+$202FEE00 0000004F
++Metallic Dawn
+%Credits: Codejunkies
+$202FEE00 00000059
++Metallic Dawn II
+%Credits: Codejunkies
+$202FEE00 0000005A
++Midnight Eye
+%Credits: Codejunkies
+$202FEE00 00000024
++Misty Lady
+%Credits: Codejunkies
+$202FEE00 00000057
++Morning Glory
+%Credits: Codejunkies
+$202FEE00 00000004
++Morning Star
+%Credits: Codejunkies
+$202FEE00 0000001B
++Mr Heli
+%Credits: Codejunkies
+$202FEE00 0000003A
++Mysty Lady II
+%Credits: Codejunkies
+$202FEE00 00000058
++Neoptolemos
+%Credits: Codejunkies
+$202FEE00 00000041
++No Chaser
+%Credits: Codejunkies
+$202FEE00 0000002E
++Northern Lights
+%Credits: Codejunkies
+$202FEE00 00000020
++Owl-Light
+%Credits: Codejunkies
+$202FEE00 00000025
++Peace Maker
+%Credits: Codejunkies
+$202FEE00 0000002C
++Platinum Heart
+%Credits: Codejunkies
+$202FEE00 00000060
++Platonic Love
+%Credits: Codejunkies
+$202FEE00 00000056
++Pow Armor
+%Credits: Codejunkies
+$202FEE00 00000038
++Pow Armor II
+%Credits: Codejunkies
+$202FEE00 00000039
++Powered Silence
+%Credits: Codejunkies
+$202FEE00 00000027
++Princedom
+%Credits: Codejunkies
+$202FEE00 00000006
++Principalities
+%Credits: Codejunkies
+$202FEE00 00000011
++Ragnarok
+%Credits: Codejunkies
+$202FEE00 0000000B
++Ragnarok II
+%Credits: Codejunkies
+$202FEE00 0000000C
++Scope Duck
+%Credits: Codejunkies
+$202FEE00 00000037
++Sexy Dynamite
+%Credits: Codejunkies
+$202FEE00 0000005B
++Sexy Dynamite II
+%Credits: Codejunkies
+$202FEE00 0000005C
++Shooting Star
+%Credits: Codejunkies
+$202FEE00 0000001A
++Sleipnir
+%Credits: Codejunkies
+$202FEE00 00000019
++Songoku
+%Credits: Codejunkies
+$202FEE00 00000033
++Srtider
+%Credits: Codejunkies
+$202FEE00 00000017
++Stayer
+%Credits: Codejunkies
+$202FEE00 00000018
++Strike Bomber
+%Credits: Codejunkies
+$202FEE00 0000000A
++Sunday Strike
+%Credits: Codejunkies
+$202FEE00 00000009
++Sweet Luna
+%Credits: Codejunkies
+$202FEE00 00000026
++Sweet Memories
+%Credits: Codejunkies
+$202FEE00 00000015
++Tears Shower
+%Credits: Codejunkies
+$202FEE00 0000001F
++Tropical Angel
+%Credits: Codejunkies
+$202FEE00 0000002D
++Unchained Silence
+%Credits: Codejunkies
+$202FEE00 00000028
++Valkrie
+%Credits: Codejunkies
+$202FEE00 00000031
++War-Head
+%Credits: Codejunkies
+$202FEE00 00000008
++Wave Master
+%Credits: Codejunkies
+$202FEE00 00000003
++Wise Man
+%Credits: Codejunkies
+$202FEE00 00000013
+!!
+!Total Record Codes:
++Max Cleared Times
+%Credits: Code Master
+$202F2D50 0000270F
++Max Launches Times
+%Credits: Code Master
+$202F2D58 0001869F
++Max Total Play Time
+%Credits: Code Master
+$202F2C9C ????????
+!!
++Unlock Ships
+%Credits: MadCatz
+$402C7310 00200001
+$FFFFFFFF 00000000
++VS. AI Mode: Player 1 Max Life
+%Credits: MadCatz
+$203073F8 45DAC000
++VS. AI Mode: Player 2 Max Life
+%Credits: MadCatz
+$2030A868 45DAC000
+!!
+

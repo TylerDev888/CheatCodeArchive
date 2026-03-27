@@ -1,0 +1,10 @@
+^2 = GameID: NPUB30957
+^3 = NAME: Guilty Gear XX Accent Core Plus (PSN)
+^4 = FILE: SYSTEM.DAT
++Update Wadd For System.dat(required)
+$set pointer:EOF+1
+(set [csum]:wadd(0x000004,0x002AF7))
+$set [csum]:wadd(0x000004,pointer)
+$set [csum]:right([csum],2)
+$write at 0x00:[csum]
+(Missing another checksum info which at address 0x04)

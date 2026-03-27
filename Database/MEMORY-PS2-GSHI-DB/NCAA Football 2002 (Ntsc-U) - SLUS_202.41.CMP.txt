@@ -1,0 +1,308 @@
+^3 = NAME: NCAA Football 2002 (Ntsc-U)
+^2 = GameID: SLUS-20241
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01E0238 0037279F
++(M) Must Be On
+%Credits: Codejunkies
+$F037279C 0037279F
+!!
++Always 1St Down
+%Credits: Code Master
+$20175500 24020001
++Always 4Th Down
+%Credits: Code Master
+$20175500 24020004
++Away Team Always Has The Ball
+%Credits: Code Master
+$201758C0 24020001
+!Away Team Only Codes:
++2-Point Conversions Score Modifier
+%Credits: Code Master
+$D046DC68 00000000
+$10200760 00000002
++Extra Point's Score Modifier
+%Credits: Code Master
+$D046DC68 00000000
+$10200764 00000001
++Field Goal's Score Modifier
+%Credits: Code Master
+$D046DC68 00000000
+$10200238 00000003
++Safety's Score Modifier
+%Credits: Code Master
+$D046DC68 00000000
+$102008BC 0000FFFE
++Touch Down's Score Modifier
+%Credits: Code Master
+$E0030000 0046DC68
+$10200484 00000006
+!!
++Away Team Score Modifier
+%Credits: Code Master
+$1043CFCC 0000????
++Away Team Start With Score Modifier
+%Credits: Code Master
+$D043CFCC 00000000
+$1043CFCC 0000????
+!Both Team Codes:
++2-Point Conversions Score Modifier
+%Credits: Code Master
+$10200760 000000??
++Extra Point's Score Modifier
+%Credits: Code Master
+$10200764 000000??
++Field Goal's Score Modifier
+%Credits: Code Master
+$10200238 000000??
++Home/Away Team Only Codes Activator {<I>This Code Must Be On For The Home/Away Team Only Codes.</I>}
+%Credits: Code Master
+$203FEA28 3C010040
+$203FEA2C 03E00008
+$203FEA30 AC22EA48
+$201758C0 080FFA8A
++Safety's Score Modifier
+%Credits: Code Master
+$102008BC 0000FF??
++Touch Down's Score Modifier
+%Credits: Code Master
+$10200484 000000??
+!!
++Buy Pennants With No Credits
+%Credits: Code Master
+$201B5B0C 24020001
++Code Breaker Version 1-5 Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00372877
++Code Breaker Version 6+ Enable Code (Must Be On)
+%Credits: Code Master
+$90372874 0C0CDF4E
++Home Team Always Has The Ball
+%Credits: Code Master
+$201758C0 24020000
+!Home Team Only Codes:
++2-Point Conversions Score Modifier
+%Credits: Code Master
+$D046DC68 00000001
+$10200760 00000002
++Extra Point's Score Modifier
+%Credits: Code Master
+$D046DC68 00000001
+$10200764 00000001
++Field Goal's Score Modifier
+%Credits: Code Master
+$D046DC68 00000001
+$10200238 00000003
++Safety's Score Modifier
+%Credits: Code Master
+$D046DC68 00000001
+$102008BC 0000FFFE
++Touch Down's Score Modifier
+%Credits: Code Master
+$E0030001 0046DC68
+$10200484 00000006
+!!
++Home Team Score Modifier
+%Credits: Code Master
+$1043CFC8 0000????
++Home Team Start With Score Modifier
+%Credits: Code Master
+$D043CFC8 00000000
+$1043CFC8 0000????
++Infinite Campus Credits {<I>Create A NEW Profile Or Load A Single Existing Profile To Acquire 9999 Campus Credits.</I>}
+%Credits: InterAct
+$D1B6F400 0020270F
+$11B6F400 0000270F
+$D1B6F170 0020270F
+$11B6F170 0000270F
+$D1B4A210 0020270F
+$11B4A210 0000270F
++P1 Press L2+Select For 1St Down
+%Credits: Code Master
+$D044A082 0000FEFE
+$20175500 24020001
+$D044A082 0000FFFF
+$20175500 8C620030
++P1 Press R1+Select To Disable Timers
+%Credits: Code Master
+$D044A082 0000F7FE
+$201F61B8 00000000
++P1 Press R2+Select To Enable Timers
+%Credits: Code Master
+$D044A082 0000FDFE
+$201F61B8 2442FFFF
++P1 Press Select+L2 For 4Th Down
+%Credits: Code Master
+$D044A082 0000FDFE
+$20175500 24020004
+$D044A082 0000FFFF
+$20175500 8C620030
++P2 Press L2+Select For 1St Down
+%Credits: Code Master
+$D044A182 0000FEFE
+$20175500 24020001
+$D044A182 0000FFFF
+$20175500 8C620030
++P2 Press R1+Select To Disable Timers
+%Credits: Code Master
+$D044A182 0000F7FE
+$201F61B8 00000000
++P2 Press R2+Select To Enable Timers
+%Credits: Code Master
+$D044A182 0000FDFE
+$201F61B8 2442FFFF
++P2 Press Select+L2 For 4Th Down
+%Credits: Code Master
+$D044A182 0000FDFE
+$20175500 24020004
+$D044A182 0000FFFF
+$20175500 8C620030
++P3 Press L2+Select For 1St Down
+%Credits: Code Master
+$D044A282 0000FEFE
+$20175500 24020001
+$D044A282 0000FFFF
+$20175500 8C620030
++P3 Press R1+Select To Disable Timers
+%Credits: Code Master
+$D044A282 0000F7FE
+$201F61B8 00000000
++P3 Press R2+Select To Enable Timers
+%Credits: Code Master
+$D044A282 0000FDFE
+$201F61B8 2442FFFF
++P3 Press Select+L2 For 4Th Down
+%Credits: Code Master
+$D044A282 0000FDFE
+$20175500 24020004
+$D044A282 0000FFFF
+$20175500 8C620030
++P4 Press L2+Select For 1St Down
+%Credits: Code Master
+$D044A382 0000FEFE
+$20175500 24020001
+$D044A382 0000FFFF
+$20175500 8C620030
++P4 Press R1+Select To Disable Timers
+%Credits: Code Master
+$D044A382 0000F7FE
+$201F61B8 00000000
++P4 Press R2+Select To Enable Timers
+%Credits: Code Master
+$D044A382 0000FDFE
+$201F61B8 2442FFFF
++P4 Press Select+L2 For 4Th Down
+%Credits: Code Master
+$D044A382 0000FDFE
+$20175500 24020004
+$D044A382 0000FFFF
+$20175500 8C620030
++P5 Press L2+Select For 1St Down
+%Credits: Code Master
+$D044A482 0000FEFE
+$20175500 24020001
+$D044A482 0000FFFF
+$20175500 8C620030
++P5 Press R1+Select To Disable Timers
+%Credits: Code Master
+$D044A482 0000F7FE
+$201F61B8 00000000
++P5 Press R2+Select To Enable Timers
+%Credits: Code Master
+$D044A482 0000FDFE
+$201F61B8 2442FFFF
++P5 Press Select+L2 For 4Th Down
+%Credits: Code Master
+$D044A482 0000FDFE
+$20175500 24020004
+$D044A482 0000FFFF
+$20175500 8C620030
++P6 Press L2+Select For 1St Down
+%Credits: Code Master
+$D044A582 0000FEFE
+$20175500 24020001
+$D044A582 0000FFFF
+$20175500 8C620030
++P6 Press R1+Select To Disable Timers
+%Credits: Code Master
+$D044A582 0000F7FE
+$201F61B8 00000000
++P6 Press R2+Select To Enable Timers
+%Credits: Code Master
+$D044A582 0000FDFE
+$201F61B8 2442FFFF
++P6 Press Select+L2 For 4Th Down
+%Credits: Code Master
+$D044A582 0000FDFE
+$20175500 24020004
+$D044A582 0000FFFF
+$20175500 8C620030
++P7 Press L2+Select For 1St Down
+%Credits: Code Master
+$D044A682 0000FEFE
+$20175500 24020001
+$D044A682 0000FFFF
+$20175500 8C620030
++P7 Press R1+Select To Disable Timers
+%Credits: Code Master
+$D044A682 0000F7FE
+$201F61B8 00000000
++P7 Press R2+Select To Enable Timers
+%Credits: Code Master
+$D044A682 0000FDFE
+$201F61B8 2442FFFF
++P7 Press Select+L2 For 4Th Down
+%Credits: Code Master
+$D044A682 0000FDFE
+$20175500 24020004
+$D044A682 0000FFFF
+$20175500 8C620030
++P8 Press L2+Select For 1St Down
+%Credits: Code Master
+$D044A782 0000FEFE
+$20175500 24020001
+$D044A782 0000FFFF
+$20175500 8C620030
++P8 Press R1+Select To Disable Timers
+%Credits: Code Master
+$D044A782 0000F7FE
+$201F61B8 00000000
++P8 Press R2+Select To Enable Timers
+%Credits: Code Master
+$D044A782 0000FDFE
+$201F61B8 2442FFFF
++P8 Press Select+L2 For 4Th Down
+%Credits: Code Master
+$D044A782 0000FDFE
+$20175500 24020004
+$D044A782 0000FFFF
+$20175500 8C620030
+!Team 1 Codes:
++Always Score 0
+%Credits: Codejunkies
+$1043CFCC 00000000
++Always Score 99
+%Credits: Codejunkies
+$1043CFCC 00000063
+!!
+!Team 2 Codes:
++Always Score 0
+%Credits: Codejunkies
+$106338E4 00000000
+$1043CFC8 00000000
++Always Score 99
+%Credits: Codejunkies
+$106338E4 00000063
+$1043CFC8 00000063
++Infinite Credits
+%Credits: Codejunkies
+$E001270F 21B6F400
+$11B6F400 0000270F
+$E001270F 21B6F170
+$11B6F170 0000270F
+$E001270F 21B4A210
+$11B4A210 0000270F
+!!
+!!
+

@@ -1,0 +1,723 @@
+^1 = HASH: EB7854F1
+^3 = NAME: True Crime-Streets Of LA
+^2 = GameID: SLUS_205.50
+!Masters:
++Code Breaker Version 1-4Enable Code (Must Be On)
+%Credits: Code Master>ModsteR
+$F03867E0 0038AE5F
+$D0080234 0000003D
+$20080234 00000000
++Code Breaker Version 5Enable Code (Must Be On)
+%Credits: Code Master>ModsteR
+$F03867E0 0038AE5F
+$D00802AC 0000003D
+$200802AC 00000000
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master>ModsteR
+$9038AE5C 0C0E12CC
+!!
+!HUGE NOTE: The Enable Code is Code Breaker Revision specific, there are currently 3 different Enable Codes. Use the Enable Code for your Version Code Breaker. If you dont know what version you have, then you probably have Version 1-4 that doesnt have a version # on the CD itself, I believe V5 & V6 have a version number stamped onto the CD. Version 7+ is easy to tell apart, because it is silver on the bottom of the disc.:
++Infinite Health
+%Credits: Code Master>ModsteR
+$20228C18 ACC101D0
++Never Reload
+%Credits: Code Master>ModsteR
+$2023AC48 00000000
+$2023B274 00000000
++L1+Select For More Time
+%Credits: Code Master>ModsteR
+$D0497102 0000FBFE
+$2075D260 00033DB0
++L2+Select For No Time
+%Credits: Code Master>ModsteR
+$D0497102 0000FEFE
+$2075D260 00000000
++R1+Select To Stop Timer
+%Credits: Code Master>ModsteR
+$D0497102 0000F7FE
+$201FC0C4 00000000
++R2+Select To Start Timer
+%Credits: Code Master>ModsteR
+$D0497102 0000FDFE
+$201FC0C4 AC8201D0
++Display Position Info
+%Credits: Code Master>ModsteR
+$20479788 00000001
++Quick Badge Gain
+%Credits: Code Master>ModsteR
+$2049F480 00000063
++Max Badges
+%Credits: Code Master>ModsteR
+$2049F484 000003E7
++Max Yin Yang
+%Credits: Code Master>ModsteR
+$2049F488 00000063
++Have All Guns & Upgrades Unlocked
+%Credits: Code Master>ModsteR
+$2075D488 FFFFFFFF
++Have All Attacks & Grapples Unlocked
+%Credits: Code Master>ModsteR
+$2075D4E4 FFFFFFFF
++Have All Maneuvers Unlocked
+%Credits: Code Master>ModsteR
+$2075D51C FFFFFFFF
++Have All Cars Unlocked
+%Credits: Code Master>ModsteR
+$2075D524 00000003
++Character Modifier (00-14)
+%Credits: Code Master>ModsteR
+$2075DA28 000000??
++Population Modifier{With This Code, It Turns Every Character You Come Across In The Game To Whoever You Want Them To Be. :)}
+%Credits: Code Master>ModsteR
+$201F7ED8 240400??
++Super Character Modifier{With This Code, You Can Choose A Helluva Lot More Characters Than The Other Code. :)}
+%Credits: Code Master>ModsteR
+$201F7F08 240400??
+$201F7F0C 0C078B60
+$201F7F10 03A02821
+$201F7F14 0807DFE0
+$201F7F18 0040882D
+!!
+!Cop Stats Codes:
++Reward Points-Total Points Modifier
+%Credits: Code Master>ModsteR
+$2075D414 ????????
++Reward Points-Points Earned Modifier
+%Credits: Code Master>ModsteR
+$2075D418 ????????
++Reward Points-Points Charged Modifier
+%Credits: Code Master>ModsteR
+$2075D41C ????????
++Good/Bad Cop-Good Deeds Modifier
+%Credits: Code Master>ModsteR
+$2075D424 ????????
++Good/Bad Cop-Bad Deeds Modifier
+%Credits: Code Master>ModsteR
+$2075D428 ????????
++Success Rate-Perps Engaged Modifier
+%Credits: Code Master>ModsteR
+$2075D430 ????????
++Success Rate-Perps Apprehended Modifier
+%Credits: Code Master>ModsteR
+$2075D434 ????????
++Cop Instinct-Citizens Inspected Modifier
+%Credits: Code Master>ModsteR
+$2075D438 ????????
++Cop Instinct-Citizens Guilty Modifier
+%Credits: Code Master>ModsteR
+$2075D43C ????????
++Cop Instinct-Citizens Innocent Modifier
+%Credits: Code Master>ModsteR
+$2075D440 ????????
++Reward Points-24-7 Visits Modifier
+%Credits: Code Master>ModsteR
+$2075D460 ????????
++Initiative-Crime Alerts Modifier
+%Credits: Code Master>ModsteR
+$2075D464 ????????
++Initiative-Crimes Pursued Modifier
+%Credits: Code Master>ModsteR
+$2075D46C ????????
+!!
+!Driving Stats Codes:
++Recklessness-Vehicles Totaled Modifier
+%Credits: Code Master>ModsteR
+$2075D528 ????????
++Driving Log-Total Driving Time Modifier
+%Credits: Code Master>ModsteR
+$2075D53C ????????
++Driving Log-Miles Driven Modifier (3F800000-58000000)
+%Credits: Code Master>ModsteR
+$2075D540 ????????
++Recklessness-Citizens Run Over Modifier
+%Credits: Code Master>ModsteR
+$2075D550 ????????
++Master Driver-Maneuvers Performed Modifier
+%Credits: Code Master>ModsteR
+$2075D554 ????????
+!!
+!Gunplay Stats Codes:
++Loose Cannon-Perps Shot Modifier
+%Credits: Code Master>ModsteR
+$2075D444 ????????
++Loose Cannon-Citizens Shot Modifier
+%Credits: Code Master>ModsteR
+$2075D448 ????????
++Accuracy-Bullets Fired Modifier
+%Credits: Code Master>ModsteR
+$2075D4B0 ????????
++Accuracy-Bullets Hit Modifier
+%Credits: Code Master>ModsteR
+$2075D4B8 ????????
++Precision Shots-Precision Shots Fired Modifier
+%Credits: Code Master>ModsteR
+$2075D4C4 ????????
++Precision Shots-Head Hits Modifier
+%Credits: Code Master>ModsteR
+$2075D4C8 ????????
++Precision Shots-Limb Hits Modifier
+%Credits: Code Master>ModsteR
+$2075D4CC ????????
++Precision Shots-Tire Hits Modifier
+%Credits: Code Master>ModsteR
+$2075D4DC ????????
++Precision Shots-Gas Tank Hits Modifier
+%Credits: Code Master>ModsteR
+$2075D4E0 ????????
+!!
+!Combat Stats Codes:
++Whup-Ass Rating-Defeats Modifier
+%Credits: Code Master>ModsteR
+$2075D42C ????????
++Combat Log-Punches Performed Modifier
+%Credits: Code Master>ModsteR
+$2075D4F4 ????????
++Combat Log-Kicks Performed Modifier
+%Credits: Code Master>ModsteR
+$2075D4F8 ????????
++Combat Log-Grapples Performed Modifier
+%Credits: Code Master>ModsteR
+$2075D4FC ????????
++Combat Log-Jump-Kicks Performed Modifier
+%Credits: Code Master>ModsteR
+$2075D500 ????????
++Strategy-Attacks Connected Modifier
+%Credits: Code Master>ModsteR
+$2075D504 ????????
++Strategy-Hits Received Modifier
+%Credits: Code Master>ModsteR
+$2075D510 ????????
++Strategy-Hits Blocked Modifier
+%Credits: Code Master>ModsteR
+$2075D514 ????????
+!!
+!Have Mission Solved Codes:
++Triad Violence-Overall
+%Credits: Code Master>ModsteR
+$2075D560 00000003
++Triad Violence-Shooting Practice
+%Credits: Code Master>ModsteR
+$2075D5C4 00000002
++Triad Violence-Rushing To Eod
+%Credits: Code Master>ModsteR
+$2075D5C8 00000002
++Triad Violence-Driving For Chow
+%Credits: Code Master>ModsteR
+$2075D5CC 00000002
++Triad Violence-Triad Muscle
+%Credits: Code Master>ModsteR
+$2075D5D0 00000002
++Triad Violence-Finale-Rosie Trouble
+%Credits: Code Master>ModsteR
+$2075D5D4 00000002
++Triad Violence-All Missions
+%Credits: Code Master>ModsteR
+$2075D560 00000003
+$4075D5C4 00050001
+$00000002 00000000
++Mean Streets-Overall
+%Credits: Code Master>ModsteR
+$2075D568 00000003
++Mean Streets-Cruising For Leads
+%Credits: Code Master>ModsteR
+$2075D5F8 00000002
++Mean Streets-Dojo Attacker
+%Credits: Code Master>ModsteR
+$2075D5FC 00000002
++Mean Streets-Red Lantern Rush
+%Credits: Code Master>ModsteR
+$2075D600 00000002
++Mean Streets-Bar Brawl
+%Credits: Code Master>ModsteR
+$2075D604 00000002
++Mean Streets-Chasing Triad Thug
+%Credits: Code Master>ModsteR
+$2075D608 00000002
++Mean Streets-Driving To Jimmy's
+%Credits: Code Master>ModsteR
+$2075D60C 00000002
++Mean Streets-Sneaking In
+%Credits: Code Master>ModsteR
+$2075D610 00000002
++Mean Streets-Jimmy's Ambush
+%Credits: Code Master>ModsteR
+$2075D614 00000002
++Mean Streets-Finale-Sniper Assassin
+%Credits: Code Master>ModsteR
+$2075D618 00000002
++Mean Streets-The Arsonist
+%Credits: Code Master>ModsteR
+$2075D61C 00000002
++Mean Streets-Bonus Cruisin'
+%Credits: Code Master>ModsteR
+$2075D620 00000002
++Mean Streets-All Missions
+%Credits: Code Master>ModsteR
+$2075D568 00000003
+$4075D5F8 000B0001
+$00000002 00000000
++International Ties-Overall
+%Credits: Code Master>ModsteR
+$2075D570 00000003
++International Ties-Off To Chong's
+%Credits: Code Master>ModsteR
+$2075D630 00000002
++International Ties-Tailing Chong's Limo
+%Credits: Code Master>ModsteR
+$2075D634 00000002
++International Ties-A Stakeout Gone Bad
+%Credits: Code Master>ModsteR
+$2075D638 00000002
++International Ties-Driving To Spa
+%Credits: Code Master>ModsteR
+$2075D63C 00000002
++International Ties-Spa Infiltration
+%Credits: Code Master>ModsteR
+$2075D640 00000002
++International Ties-Shower Room Antics
+%Credits: Code Master>ModsteR
+$2075D644 00000002
++International Ties-Finale-The Accomplice
+%Credits: Code Master>ModsteR
+$2075D648 00000002
++International Ties-Russkie Trouble
+%Credits: Code Master>ModsteR
+$2075D64C 00000002
++International Ties-All Missions
+%Credits: Code Master>ModsteR
+$2075D570 00000003
+$4075D630 00080001
+$00000002 00000001
++Russian Face-Off-Overall
+%Credits: Code Master>ModsteR
+$2075D578 00000003
++Russian Face-Off-En Route To Autoshop
+%Credits: Code Master>ModsteR
+$2075D668 00000002
++Russian Face-Off-Grease Monkeys
+%Credits: Code Master>ModsteR
+$2075D66C 00000002
++Russian Face-Off-Chasing Francis
+%Credits: Code Master>ModsteR
+$2075D670 00000002
++Russian Face-Off-Off To The Gulag
+%Credits: Code Master>ModsteR
+$2075D674 00000002
++Russian Face-Off-Another Way In
+%Credits: Code Master>ModsteR
+$2075D678 00000002
++Russian Face-Off-Disco Inferno
+%Credits: Code Master>ModsteR
+$2075D67C 00000002
++Russian Face-Off-Cary In Trouble
+%Credits: Code Master>ModsteR
+$2075D680 00000002
++Russian Face-Off-Finale-Vandal Wrath
+%Credits: Code Master>ModsteR
+$2075D684 00000002
++Russian Face-Off-Alley Brawl
+%Credits: Code Master>ModsteR
+$2075D688 00000002
++Russian Face-Off-All Missions
+%Credits: Code Master>ModsteR
+$2075D578 00000003
+$4075D668 00090001
+$00000002 00000000
++The Rescue-Overall
+%Credits: Code Master>ModsteR
+$2075D580 00000003
++The Rescue-Tailing Suspect Cop
+%Credits: Code Master>ModsteR
+$2075D6A0 00000002
++The Rescue-Bum Encounter
+%Credits: Code Master>ModsteR
+$2075D6A4 00000002
++The Rescue-Meeting Rafferty
+%Credits: Code Master>ModsteR
+$2075D6A8 00000002
++The Rescue-Butcher Shop Rush
+%Credits: Code Master>ModsteR
+$2075D6AC 00000002
++The Rescue-On The Chopping Block
+%Credits: Code Master>ModsteR
+$2075D6B0 00000002
++The Rescue-Slaughterhouse
+%Credits: Code Master>ModsteR
+$2075D6B4 00000002
++The Rescue-Finale-The Great Escape
+%Credits: Code Master>ModsteR
+$2075D6B8 00000002
++The Rescue-The Peking Duck
+%Credits: Code Master>ModsteR
+$2075D6BC 00000002
++The Rescue-All Missions
+%Credits: Code Master>ModsteR
+$2075D580 00000003
+$4075D6A0 00080001
+$00000002 00000000
++House Of Wu-Overall
+%Credits: Code Master>ModsteR
+$2075D588 00000003
++House Of Wu-Off To Wu's Place
+%Credits: Code Master>ModsteR
+$2075D6D8 00000002
++House Of Wu-Up The Food Chain
+%Credits: Code Master>ModsteR
+$2075D6DC 00000002
++House Of Wu-Kitchen Inspection
+%Credits: Code Master>ModsteR
+$2075D6E0 00000002
++House Of Wu-Seeking Ancient Wu
+%Credits: Code Master>ModsteR
+$2075D6E4 00000002
++House Of Wu-Inner Demons
+%Credits: Code Master>ModsteR
+$2075D6E8 00000002
++House Of Wu-Die Die My Concubine
+%Credits: Code Master>ModsteR
+$2075D6EC 00000002
++House Of Wu-Finale-Nightmare
+%Credits: Code Master>ModsteR
+$2075D6F0 00000002
++House Of Wu-Tunnel Vision
+%Credits: Code Master>ModsteR
+$2075D6F4 00000002
++House Of Wu-All Missions
+%Credits: Code Master>ModsteR
+$2075D588 00000003
+$4075D6D8 00080001
+$00000002 00000000
++Finding Rocky-Overall
+%Credits: Code Master>ModsteR
+$2075D590 00000003
++Finding Rocky-In The Driver's Seat
+%Credits: Code Master>ModsteR
+$2075D710 00000002
++Finding Rocky-Pressing Rafferty
+%Credits: Code Master>ModsteR
+$2075D714 00000002
++Finding Rocky-On Rafferty's Tail
+%Credits: Code Master>ModsteR
+$2075D718 00000002
++Finding Rocky-Escaping The Feds
+%Credits: Code Master>ModsteR
+$2075D71C 00000002
++Finding Rocky-Rafferty's Date
+%Credits: Code Master>ModsteR
+$2075D720 00000002
++Finding Rocky-Eavesdropping
+%Credits: Code Master>ModsteR
+$2075D724 00000002
++Finding Rocky-Finale-Father's Killer
+%Credits: Code Master>ModsteR
+$2075D728 00000002
++Finding Rocky-FBI Goons
+%Credits: Code Master>ModsteR
+$2075D72C 00000002
++Finding Rocky-Bonus Cruisin'
+%Credits: Code Master>ModsteR
+$2075D730 00000002
++Finding Rocky-All Missions
+%Credits: Code Master>ModsteR
+$2075D590 00000003
+$4075D710 00090001
+$00000002 00000000
++Retribution-Overall
+%Credits: Code Master>ModsteR
+$2075D598 00000003
++Retribution-The Girlfriend Angle
+%Credits: Code Master>ModsteR
+$2075D748 00000002
++Retribution-Back To The Gulag
+%Credits: Code Master>ModsteR
+$2075D74C 00000002
++Retribution-Rocky's Trap
+%Credits: Code Master>ModsteR
+$2075D750 00000002
++Retribution-Driving To Airport
+%Credits: Code Master>ModsteR
+$2075D754 00000002
++Retribution-Hangar Showdown
+%Credits: Code Master>ModsteR
+$2075D758 00000002
++Retribution-Jetting Away
+%Credits: Code Master>ModsteR
+$2075D75C 00000002
++Retribution-Finale-Puppet Master
+%Credits: Code Master>ModsteR
+$2075D760 00000002
++Retribution-Chopper Ambush
+%Credits: Code Master>ModsteR
+$2075D764 00000002
++Retribution-Ending Movie
+%Credits: Code Master>ModsteR
+$2075D768 00000002
++Retribution-All Missions
+%Credits: Code Master>ModsteR
+$2075D598 00000003
+$4075D748 00090001
+$00000002 00000000
++Con Girls-Overall
+%Credits: Code Master>ModsteR
+$2075D5A0 00000003
++Con Girls-Strip Club Detour
+%Credits: Code Master>ModsteR
+$2075D780 00000002
++Con Girls-Cat Fight
+%Credits: Code Master>ModsteR
+$2075D784 00000002
++Con Girls-Cruising For Lola
+%Credits: Code Master>ModsteR
+$2075D788 00000002
++Con Girls-The Driving Test
+%Credits: Code Master>ModsteR
+$2075D78C 00000002
++Con Girls-Police Getaway
+%Credits: Code Master>ModsteR
+$2075D790 00000002
++Con Girls-Busting Lola
+%Credits: Code Master>ModsteR
+$2075D794 00000002
++Con Girls-Finale-Sniper Redux
+%Credits: Code Master>ModsteR
+$2075D798 00000002
++Con Girls-Lola Rush
+%Credits: Code Master>ModsteR
+$2075D79C 00000002
++Con Girls-Five Laps
+%Credits: Code Master>ModsteR
+$2075D7A0 00000002
++Con Girls-All Missions
+%Credits: Code Master>ModsteR
+$2075D5A0 00000003
+$4075D780 00090001
+$00000002 00000000
++High-Rise Terror-Overall
+%Credits: Code Master>ModsteR
+$2075D5A8 00000003
++High-Rise Terror-The Airport Lead
+%Credits: Code Master>ModsteR
+$2075D7B8 00000002
++High-Rise Terror-Chasing Assassins
+%Credits: Code Master>ModsteR
+$2075D7BC 00000002
++High-Rise Terror-A Race Downtown
+%Credits: Code Master>ModsteR
+$2075D7C0 00000002
++High-Rise Terror-Bank Standoff
+%Credits: Code Master>ModsteR
+$2075D7C4 00000002
++High-Rise Terror-Lobby Firefight
+%Credits: Code Master>ModsteR
+$2075D7C8 00000002
++High-Rise Terror-Hostage Crisis
+%Credits: Code Master>ModsteR
+$2075D7CC 00000002
++High-Rise Terror-Finale-Bad Politics
+%Credits: Code Master>ModsteR
+$2075D7D0 00000002
++High-Rise Terror-Going Up
+%Credits: Code Master>ModsteR
+$2075D7D4 00000002
++High-Rise Terror-Ending Movie
+%Credits: Code Master>ModsteR
+$2075D7D8 00000002
++High-Rise Terror-All Missions
+%Credits: Code Master>ModsteR
+$2075D5A8 00000003
+$4075D7B8 00090001
+$00000002 00000000
++Rampage-Overall
+%Credits: Code Master>ModsteR
+$2075D5B0 00000003
++Rampage-Revenge Rush
+%Credits: Code Master>ModsteR
+$2075D7F0 00000002
++Rampage-Rocky's Getaway
+%Credits: Code Master>ModsteR
+$2075D7F4 00000002
++Rampage-The Bodyguard
+%Credits: Code Master>ModsteR
+$2075D7F8 00000002
++Rampage-Wu's Turn
+%Credits: Code Master>ModsteR
+$2075D7FC 00000002
++Rampage-Payback
+%Credits: Code Master>ModsteR
+$2075D800 00000002
++Rampage-Off To The Airport
+%Credits: Code Master>ModsteR
+$2075D804 00000002
++Rampage-Finale-Rocky's Loot
+%Credits: Code Master>ModsteR
+$2075D808 00000002
++Rampage-Gulag Goons
+%Credits: Code Master>ModsteR
+$2075D80C 00000002
++Rampage-All Missions
+%Credits: Code Master>ModsteR
+$2075D5B0 00000003
+$4075D7F0 00080001
+$00000002 00000000
++Blood Money-Overall
+%Credits: Code Master>ModsteR
+$2075D5B8 00000003
++Blood Money-Race To Rocky's Lair
+%Credits: Code Master>ModsteR
+$2075D828 00000002
++Blood Money-Kinks In The Path
+%Credits: Code Master>ModsteR
+$2075D82C 00000002
++Blood Money-Freak Show
+%Credits: Code Master>ModsteR
+$2075D830 00000002
++Blood Money-Rosie's Ransom
+%Credits: Code Master>ModsteR
+$2075D834 00000002
++Blood Money-Escaping Masterson
+%Credits: Code Master>ModsteR
+$2075D838 00000002
++Blood Money-Chinatown Showdown
+%Credits: Code Master>ModsteR
+$2075D83C 00000002
++Blood Money-Finale-Last Stand
+%Credits: Code Master>ModsteR
+$2075D840 00000002
++Blood Money-Ending Movie
+%Credits: Code Master>ModsteR
+$2075D844 00000002
++Blood Money-All Missions
+%Credits: Code Master>ModsteR
+$2075D5B8 00000003
+$4075D828 00080001
+$00000002 00000000
+!!
+^6 = MODS:
+Quantity Digits to Accompany Character Modifier Code
+00 - Normal Costume
+01 - Officer Johnson
+02 - Police Chief
+03 - Police Officer
+04 - SWAT Guy
+05 - Commando
+06 - Lola
+07 - Bum
+08 - Boxer
+09 - Gangster
+0A - Biker Guy
+0B - Nick's Brother
+0C - Your Partner
+0D - Blindfolded Donkey
+0E - Bald Guy In Tanktop
+0F - Vampire/Corpse
+10 - Chinese Guy
+11 - Chef
+12 - Pimp
+13 - Glowing Chinese Lady With Tatoo's
+14 - Your Partner In Lingerie
+Quantity Digits to Accompany Population/Super Character Modifier
+40 - NICK
+41 - NICKGYM
+42 - NICKSPF
+43 - OLDWU
+44 - ASIABGRL
+45 - ASIACOOK
+46 - ACOOKUND
+47 - ASIANMBS
+48 - ASIANMOM
+49 - AMOMWHTE
+4A - ASIANPOP
+4B - APOPCOAC
+4C - APOPOLD
+4D - ASIAPUNK
+4E - ASIANTHG
+4F - ASIANWKR
+50 - AWRKRUND
+51 - BCBANKER
+52 - BATHER
+53 - BCHVENDR
+54 - BIGCHONG
+55 - BIKER
+56 - BIKNIGRL
+57 - BIKIBLCK
+58 - BOXER
+59 - BOXBEACH
+5A - BUMBLACK
+5B - BUM
+5C - BSNSMAN
+5D - BSNMNBLK
+5E - BSNMNFED
+5F - CARY
+60 - CHIEF
+61 - CHBBYCOP
+62 - CHCPHNDY
+63 - COMMANDO
+64 - CNCUBINE
+65 - CONVICT
+66 - DEMON
+67 - DMNATRIX
+68 - DRAGON
+69 - FIREMAN
+6A - GANGSTA
+6B - GANGALT
+6C - GARDENER
+6D - GARDDLVR
+6E - GENERAL
+6F - GIRLFRND
+70 - GRLFHOOK
+71 - GRANDPA
+72 - GRAPABLK
+73 - HIPSTER
+74 - HIPBEACH
+75 - HOOKER
+76 - HOOKLATN
+77 - JIMMYFU
+78 - KARATEKA
+79 - LOLA
+7A - LOLABIKE
+7B - MRKTNGGY
+7C - MKGYHISP
+7D - MASTRSON
+7E - MECHANIC
+7F - MECHHISP
+80 - MEXICAN
+81 - MISHA
+82 - MISHASPA
+83 - MSHAPERV
+84 - MUTANT
+85 - PARAMEDC
+86 - PIMP
+87 - PMPBMWMN
+88 - POLICEMN
+89 - PLCMNHIS
+8A - PLCMNPST
+8B - PONYTLMN
+8C - RAFFERTY
+8D - ROCKER
+8E - ROCKY
+8F - ROCKYSPA
+90 - ROSIECST
+91 - ROSIE
+92 - STRTFGTR
+93 - SFCALTRN
+94 - STRETPNK
+95 - STPNKBLK
+96 - STRIPPER
+97 - STRPRGYP
+98 - SUPERMDL
+99 - SWAT
+9A - SWATMLTA
+9B - TOUGHGUY
+9C - TGUYBLCK
+9D - UPSCLWMN
+9E - USCLHISP
+9F - WRESTLER
+A0 - KARAMAST
+A1 - BOXRCHMP
+A2 - BOXERGLV
+A3 - SNOOP
+A4 - GIRLFRNH
+A5 - ASIAPNKH
+A6 - NICKH
+A7 - NICKSPFH
+A8 - ROSIEBDG

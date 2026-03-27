@@ -1,0 +1,47 @@
+^3 = NAME: Wave Rally (Ntsc-J)
+^2 = GameID: SLPS-20170
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: lee4
+$902072FC 0C08A082
++Enable Code (Must Be On)
+%Credits: lee4
+$90207344 00832021
+!!
++Finish In 1St Place
+%Credits: lee4
+$006D3E30 00000000
++Max Engine Status
+%Credits: lee4
+$0039B574 0000000C
++Max Grip Status
+%Credits: lee4
+$0039B578 0000000C
++Max Handling Status
+%Credits: lee4
+$0039B570 0000000C
++Max Race Points
+%Credits: lee4
+$D06CDA52 00000000
+$206CDA50 000003E7
++Max Tricks Status
+%Credits: lee4
+$0039B57C 0000000C
++Never Penalty Misses
+%Credits: lee4
+$006D3DE4 00000000
+$006D3DE8 00000009
++P1 Vibration OFF
+%Credits: lee4
+$0033EC00 00000000
+$0039BA20 00000000
++P2 Vibration OFF
+%Credits: lee4
+$0033EC04 00000000
+$0039BA24 00000000
++Start On Lap 3
+%Credits: lee4
+$D06D3DF8 00000000
+$106D3DF8 00000002
+!!
+

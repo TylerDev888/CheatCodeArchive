@@ -1,0 +1,114 @@
+^3 = NAME: Unlimited Saga (PAL-E)
+^2 = GameID: SLES-51606
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F071616C 0071616F
++(M) Must Be On
+%Credits: Codejunkies
+$F071616C 0071616F
+$207D929C 240103E7
+$200FFF0C 24010063
+$200FFF28 24030063
+$200FFF2C 081F64A8
+$207D9298 0803FFC0
+!!
++A Recovery Status
+%Credits: Codejunkies
+$200FFF1C 24010005
+$200FFF20 A0610004
++Infinite Health
+%Credits: Codejunkies
+$200FFF00 A4610000
++Infinite KR
+%Credits: Codejunkies
+$20871FA0 05F00000
++Infinite LP
+%Credits: Codejunkies
+$200FFF10 A0610005
++Max Health
+%Credits: Codejunkies
+$200FFF04 A4610002
++Max LP
+%Credits: Codejunkies
+$200FFF14 A0610006
++Must Be On For Health - Lp
+%Credits: Codejunkies
+$207D929C 240103E7
+$200FFF0C 24010063
+$200FFF28 24030063
+$200FFF2C 081F64A8
+$207D9298 0803FFC0
++Quick Animations
+%Credits: Codejunkies
+$207898E8 24020005
+!Replace Intro FMV Into...:
++FMV 1
+%Credits: Codejunkies
+$20818360 00000FA0
++FMV 2
+%Credits: Codejunkies
+$20818360 00009CD1
++FMV 3
+%Credits: Codejunkies
+$20818360 00010092
++FMV 4
+%Credits: Codejunkies
+$20818360 00017023
++FMV 5
+%Credits: Codejunkies
+$20818360 0001DFEC
++FMV 6
+%Credits: Codejunkies
+$20818360 00024F9D
++FMV 7
+%Credits: Codejunkies
+$20818360 0002BF4E
++FMV 8
+%Credits: Codejunkies
+$20818360 00034597
++FMV 9
+%Credits: Codejunkies
+$20818360 000424E9
++FMV 10
+%Credits: Codejunkies
+$20818360 0004B24A
++FMV 11
+%Credits: Codejunkies
+$20818360 00053C63
++FMV 12
+%Credits: Codejunkies
+$20818360 0007298D
++FMV 13
+%Credits: Codejunkies
+$20818360 00074DC6
++FMV 14
+%Credits: Codejunkies
+$20818360 00075A07
++FMV 15
+%Credits: Codejunkies
+$20818360 00076778
++FMV 16
+%Credits: Codejunkies
+$20818360 00077811
++FMV 17
+%Credits: Codejunkies
+$20818360 0007B0CA
++FMV 18
+%Credits: Codejunkies
+$20818360 0007BCEB
++FMV 19
+%Credits: Codejunkies
+$20818360 0007C4D4
++FMV 20
+%Credits: Codejunkies
+$20818360 000863E5
+!!
++Slow Roulette
+%Credits: Codejunkies
+$207EE374 3C033333
++Ultra Slow Roulette
+%Credits: Codejunkies
+$207EE374 3C031111
+!!
+

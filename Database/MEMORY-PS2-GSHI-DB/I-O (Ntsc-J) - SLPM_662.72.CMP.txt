@@ -1,0 +1,14 @@
+^3 = NAME: I-O (Ntsc-J)
+^2 = GameID: SLPM-66272
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$90205D98 0C08170E
+!!
++Enable Debug Menu [View Note] {<I>With The Code On, You Will Enter The Debug Menu When You First Start Up The Game. At Anytime, To Go Back To It, Press And Hold Select Button While Entering Any Mode, Such As The Options Menu.</I>}
+%Credits: punk7890
+$0010D4B0 00000000
+$D0478782 0000FFFE
+$202727E4 00000000
+!!
+

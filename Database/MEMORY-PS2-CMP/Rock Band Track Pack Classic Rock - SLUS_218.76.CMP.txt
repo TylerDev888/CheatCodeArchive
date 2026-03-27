@@ -1,0 +1,21 @@
+^2 = GameID: SLUS_218.76
+^3 = NAME: Rock Band Track Pack Classic Rock
+%Credits: FNG>SkillerCMP:Porting
+!Masters:
++Enable Code (MUST BE ON)
+$90376960 0C0DDA00
+!!
+!Misc Codes:
++Entire Band - Infinite Overdrive
+$2019CBD4 460C0000
++Instrument Rock Meter - Never Fail
+$201B5640 46001840
++Vocal Rock Meter - Never Fail
+$201B56B0 46001840
++Strum to Gain & Never Lose{Does not work for Vocalist}.
+$201C0C20 0C07074A
+!Note Multiplier:{!warning: Note Streak Will Always Be 0 Instrument Note Streak Codes: Does Not Work For Vocalist.}
++1 Note Hit = "amount" Notes
+$101C1D2C 0000[Amount:2710:HEX:BIG]
+!!
+!!

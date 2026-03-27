@@ -1,0 +1,958 @@
+^1 = Hash: 23 63 92 DC 9F A8 1A 75 89 16 49 1F B4 ED 57 3D 90 E8 95 4C
+^2 = GameID: SLUS-21423
+^3 = NAME: Grand Theft Auto-Liberty City Stories
+!Masters:
++Enable Code (MUST BE ON)
+$90380278 0C0E0046
++Enable Code (MUST BE ON){Ar2v2/Gs2v2}
+$0E3C7DF2 1456E7A5
+$F0380278 0000000E
++Enable Code (MUST BE ON)
+$F0380278 0000000E
+!!
+!Jokers:
++Player 1 Controller
+$D060B8C2 0000[JOKER:PS2]
++Player 1 Controller
+$D060B942 0000[JOKER:PS2]
++Player 2 Controller
+$D060BA82 0000[JOKER:PS2]
++Player 2 Controller
+$D060BB02 0000[JOKER:PS2]
+!!
+!Memory Dump:
+!Live Dump:
++Memcard Sub{This Is The Main Section That Never Changes Once This Part Is In It Is Always The Same}
+$200A0000 27BDFFC0
+$200A0004 3C06000A
+$200A0008 FFB20020
+$200A0010 FFB10010
+$200A0014 24C60104
+$200A0018 FFB00000
+$200A0020 FFBF0030
+$200A0028 24070203
+$200A002C 0040802D
+$200A0030 0220282D
+$200A0034 0240302D
+$200A003C 0200202D
+$200A0040 3C050010
+$200A0044 0200202D
+$200A004C 3C060070
+$200A0050 0220282D
+$200A0054 0240302D
+$200A005C 0200202D
+$200A0064 0200202D
+$200A0068 0200282D
+$200A006C 0200302D
+$200A0074 0200202D
+$200A0078 DFBF0030
+$200A007C DFB20020
+$200A0080 DFB10010
+$200A0084 DFB00000
+$200A0088 03E00008
+$200A008C 27BD0040
++Memcardport-Multitap 1-4{This Is For Multitap Port}
+$200A000C 24040000
++Memcardslot-Slot 1-2{Witch Memslot U Saving To}
+$200A001C 24050000
++Start And Stop
+$200A0040 3C05[Amount:0010:HEX:BIG<Start>]
+$200A004C 3C06[Amount:0070:HEX:BIG<Size-End>]
++Live Dump
+$200A0038 0C0D9C56
+$200A0070 0C0D9C56
+$200A0058 0C0D9C56
+$200A0024 0C0D9AFE
+$200A0048 0C0D9BF8
+$200A0060 0C0D9B56
+$D060B8C2 0000FFFD
+$203607CC 08028000
+$D060B8C2 0010FFFD
+$203607CC 03E00008
+!!
+!Save Dump:
++Save Dump
+$20367078 3C03[Amount:0010:HEX:BIG<Start>]
+$2036707C 3C05[Amount:0070:HEX:BIG<Size-End>]
+2063AB18 [Amount:0010:HEX:BIG<Start>]0000
+2063AB0C [Amount:0070:HEX:BIG<Size-End>]0000
+$203679B4 24020000
+!!
+!!
+!Misc Codes:
++Can Not Be Arrested
+%Credit: Azagthoth
+$203551E0 03E00008
+$203551E4 00000000
+$20355418 03E00008
+$2035541C 00000000
++Infinite Cash
+%Credit: Armax
+$20408EFC 05F5E0FF
+$20408F00 05F5E0FF
++Infinite Ammo
+%Credit: Armax
+$202A2E30 24420000
++Never Reload
+%Credit: Armax
+$202A2DCC 24420000
++Restore Health (select+r1)
+%Credit: Armax
+$E003FFFE 0060B942
+$20408CF0 32533100
+$20408CF4 31325831
+$20408CF8 32533120
++Restore Armor (start+r1)
+%Credit: Armax
+$E003FFF7 0060B942
+$20408CF0 32583100
+$20408CF4 31324331
+$20408CF8 20323232
++Game Speed Mod
+%Credit: Armax
+203D9CE4 [Amount:40000000:FLOAT:BIG]
++Infinite Ammo (in Car) **ported**
+%Credit: Azagthoth
+$202A31C4 24420000
+$202A3224 24420000
++Press Left To Disable Out Of Car Timer
+%Credit: Armax
+$D060B942 0000FF7F
+$2010D9C8 00000000
++Press Right To Enable Out Of Car Timer
+%Credit: Armax
+$D060B942 0000FFDF
+$2010D9C8 AE630000
++Press Up To Disable Mission Timer
+%Credit: Armax
+$D060B942 0000FFEF
+$202E4058 00000000
++Press Down To Enable Mission Timer
+%Credit: Armax
+$D060B942 0000FFBF
+$202E4058 AC620000
++Armor Never Decreases (seems To Affect Peds To)
+%Credit: Armax
+$201C2AFC 00000000
++Bike Tires Mod{3f800000 = Normal Size}
+%Credit: Armax
+203D0908 [Amount:3F800000:FLOAT:BIG<SIZE>]
+!!
+!Gravity:
++Reverse Gravity While Pressing L1
+%Credit: EdisonCarter
+$102BCF60 00003C00
+$D060B8C2 0000FBFF
+$102BCF60 0000BC00
++Double Gravity While Pressing L1
+%Credit: EdisonCarter
+$102BCF60 00003C00
+$D060B8C2 0000FBFF
+$102BCF60 00003C80
+!!
+!World Codes:
++Smoke From Exhaust Is Red
+%Credit: Azagthoth
+$201CC91C 24844460
++Collision Smoke Is Red
+%Credit: Azagthoth
+$201CCD9C 24844460
++Never Fall Off Your Bike
+%Credit: EdisonCarter
+$20155D18 24020000
+$201577C8 24020000
+$201C5934 24020000
++Rocket Boost
+%Credit: EdisonCarter
+$200FFF4C 3C0EXXXX
+$200FFF50 3C01003E
+$200FFF54 448E3000
+$200FFF58 C4279B8C
+$200FFF5C 46073182
+$200FFF60 C6270010
+$200FFF64 460639C2
+$200FFF68 C6280070
+$200FFF6C 46074200
+$200FFF70 E6280070
+$200FFF74 C6270014
+$200FFF78 460639C2
+$200FFF7C C6280074
+$200FFF80 46074200
+$200FFF84 E6280074
+$200FFF88 C6270018
+$200FFF8C 460639C2
+$200FFF90 C6280078
+$200FFF94 46074200
+$200FFF98 E6280078
+$200FFF9C 03E00008
+$200FFFA0 DFB100B8
+$202BCF80 DFB100B8
+$D060B8C2 0000BFFF
+$202BCF80 0C03FFD3
++Tons Of Rampage Time (max)
+%Credit: Azagthoth
+$203D9FB0 7FFF0000
++One Kill Needed To Complete Rampage
+%Credit: Azagthoth
+$003D9FB8 00000001
++Helicopters After You (mod)
+%Credit: Azagthoth
+$202F4EE8 03E00008
+$202F4EEC 2402[Amount:0006:HEX:BIG]
++Disable Horn Sound
+%Credit: Azagthoth
+$101A314E 00001000
++Pedestrians Never Feel Threatened
+%Credit: Azagthoth
+$201D3FB0 03E00008
+$201D3FB4 00000000
++Infinite Health & Armor (everyone)
+%Credit: Azagthoth
+$201C1F78 03E00008
+$201C1F7C 00000000
++Disable Sirens & Alarms Sounds
+%Credit: Azagthoth
+$101A33F6 00001000
++Jump (mod)
+%Credit: Azagthoth
+$101EFA14 0000[Amount:3F80:HEX:BIG]
++Take No Damage From Falling From High Places
+%Credit: Azagthoth
+$201DB8CC 00000000
+$201DB97C 00000000
++Gangs Never Feel Threatened
+%Credit: Azagthoth
+$20318140 03E00008
+$20318144 00000000
++Idiot Ai-Civilians
+%Credit: Azagthoth
+$202661C8 03E00008
+$202661CC 00000000
++Idiot Ai-Firemen
+%Credit: Azagthoth
+$202942B8 03E00008
+$202942BC 00000000
++Idiot Ai-Medics
+%Credit: Azagthoth
+$202E4B58 03E00008
+$202E4B5C 00000000
++Cops Get Out And Walk Away
+%Credit: Azagthoth
+$20354DC8 03E00008
+$20354DCC 00000000
++Idiot Ai-Cops(cops Get Out Of Cars And Walk Away)
+%Credit: Azagthoth
+$20353C48 03E00008
+$20353C4C 00000000
++No Damage To Collisions(Your Car Only)
+%Credit: Azagthoth
+$201258AC 00000000
+$201258C0 00000000
+$201258D0 00000000
++No Car Damage
+%Credit: Azagthoth
+$2012A33C 00000000
++All Cars Receive No Damage To Collisions
+%Credit: Azagthoth
+$20125470 03E00008
+$20125474 00000000
++All Cars Are Immune To Weapons
+%Credit: Azagthoth
+$20328F18 03E00008
+$20328F1C 00000000
++Only You Car Is Immune To Weapons
+%Credit: Azagthoth
+$20328FB8 00000000
+$20328FCC 00000000
++Cars Never Blow Up(infinite Car Burn)
+%Credit: Azagthoth
+$20137BA0 03E00008
+$20137BA4 00000000
++No Visual Car Damage
+%Credit: HF*
+$2032FE10 03E00008
+$2032FE14 00000000
++Car Tires Never Pop
+%Credit: Azagthoth
+$2032FC58 00000000
++No Motorcycle Damage From Crashing
+%Credit: Azagthoth
+$20155920 03E00008
+$20155924 00000000
++Motorcyles Never Blow Up(infinite Burn)
+%Credit: Azagthoth
+$20161230 03E00008
+$20161234 00000000
++Motorcycle Tires Never Pop
+%Credit: Azagthoth
+$201616B8 03E00008
+$201616BC 00000000
++Boats Never Blow Up
+%Credit: Azagthoth
+$20182ED8 03E00008
+$20182EDC 00000000
+!!
+!Button Cheat Codes:
+!Button Cheat Mods:
++Money Cheat Gives Max Money (l1, R1, Triangle, L1, R1, Circle, L1, R1)
+%Credit: Skiller
+$1016DBC4 000005F5
+$1016DBCC 0000E0FF
++Rhino Cheat Spawns ??? (l1, L1, Left, L1, L1, Right, Triangle, Circle)
+%Credit: EdisonCarter
+$1016D4F4 000000[CAR]
++Trashmaster Cheat Spawns ??? (triangle, Circle, Down, Triangle, Circle, Up, L1, L1)
+%Credit: EdisonCarter
+$1016D514 000000[CAR]
++Weapon Set 1 (weapon Mod){Note 1 + Up, Square, Square, Down, Left, Square, Square, Right > Brass Knuckles, Knife, Molotov, 9mm, Shotgun, Tec-9, Ak, Flamethrower, Sniper Rifle}
+%Credit: EdisonCarter
+$1016C90C 000000[WEP]
+$1016C928 000000[WEP]
+$1016C944 000000[WEP]
+$1016C960 000000[WEP]
+$1016C97C 000000[WEP]
+$1016C998 000000[WEP]
+$1016C9B4 000000[WEP]
+$1016C9D0 000000[WEP]
+$1016C9E8 000000[WEP]
++Weapon Set 2 (weapon Mod){(note 1) Up, Circle, Circle, Down, Left, Circle, Circle, Right Katana, Remote Grenades, Magnum, Sawn-Off Shotgun, Uzi, M4, Rocket Launcher, Sniper Rifle W/Laser Scope}
+%Credit: EdisonCarter>Skiller
+$1016CB44 000000[WEP]
+$1016CB60 000000[WEP]
+$1016CB7C 000000[WEP]
+$1016CB98 000000[WEP]
+$1016CBB4 000000[WEP]
+$1016CBD0 000000[WEP]
+$1016CBEC 000000[WEP]
+$1016CC04 000000[WEP]
++Weapon Set 3 (weapon Mod){(note 1) Up, X, X, Down, Left, X, X, Right Chainsaw, Grenades, Magnum, Combat Shotgun, Smg, M4, Minigun, Sniper Rifle W/Laser Scope}
+%Credit: EdisonCarter>Skiller
+$1016CD54 000000[WEP]
+$1016CD70 000000[WEP]
+$1016CD8C 000000[WEP]
+$1016CDA8 000000[WEP]
+$1016CDC4 000000[WEP]
+$1016CDE0 000000[WEP]
+$1016CDFC 000000[WEP]
+$1016CE14 000000[WEP]
++Weapon Set 1 (ammo Mod){(note 2) Up, Square, Square, Down, Left, Square, Square, Right}
+%Credit: EdisonCarter>Skiller
+$1016C910 0000270F
+$1016C92C 0000270F
+$1016C948 0000270F
+$1016C964 0000270F
+$1016C980 0000270F
+$1016C99C 0000270F
+$1016C9B8 0000270F
+$1016C9D4 0000270F
+$1016C9EC 0000270F
++Weapon Set 2 (ammo Mod){(note 2) Up, Circle, Circle, Down, Left, Circle, Circle, Right}
+%Credit: EdisonCarter>Skiller
+$1016CB48 0000270F
+$1016CB64 0000270F
+$1016CB80 0000270F
+$1016CB9C 0000270F
+$1016CBB8 0000270F
+$1016CBD4 0000270F
+$1016CBF0 0000270F
+$1016CC08 0000270F
++Weapon Set 3 (ammo Mod){(note 2) Up, X, X, Down, Left, X, X, Right}
+%Credit: EdisonCarter>Skiller
+$1016CD58 0000270F
+$1016CD74 0000270F
+$1016CD90 0000270F
+$1016CDAC 0000270F
+$1016CDC8 0000270F
+$1016CDE4 0000270F
+$1016CE00 0000270F
+$1016CE18 0000270F
+!!
+!Always Active Button Cheats:
++Unknown Cheat 1
+$003D02DC 00000001
++Unknown Cheat 2
+$003D02E0 00000001
++Unknown Cheat 3
+$003D02E4 00000001
++Unknown Cheat 4
+$003D02E8 00000001
++Unknown Cheat 5
+$003D4E84 00000001
++Big Head Mode
+$003D4E88 00000001
++Pedestrians Follow Mode
+$003D4E8C 00000001
++Homicidal Drivers
+$003D56E8 00000001
+$003D56EC 00000001
++All Lights Green
+$003D6480 00000001
++All Black Cars
+$003D7430 00000001
++All White Cars
+$003D7434 00000001
++Pedestrians Have Weapons
+$003D7CE4 00000001
+Invisible Car Bodies
+$003D88B8 00000001
++Exploding Cars
+$003D88BC 00000001
+Super Car Traction
+$003D88C0 00000001
++Unknown Cheat 6
+$003D88C4 00000001
++Unknown Cheat 7
+$003D88C8 00000001
++Unknown Cheat 8
+$003D88CC 00000001
++Drive On Water
+$003D88D0 00000001
++Unknown Cheat 9
+$003D88D4 00000001
++Unknown Cheat 10
+$003D88D8 00000001
++Unknown Cheat 11
+$003D88DC 00000001
++Super Fast Time Mode
+$003D91F0 00000001
++Unknown Cheat 12
+$003D9CE8 00000001
+!!
+!!
+!Player:
++Activator (MUST BE ON){For Fallowing Codes To Work}
+%Credit: Skiller>Pyriel
+$D0408E40 00100000
+$203607CC 08028000
+$200A0000 3C010041
+$200A0004 3C190044
+$200A0008 8C218E40
+$200A000C 8F39C794
+$200A00C0 1321002F
+$200A0180 03E00008
+$200A0010 3C02447A
+$200A0014 3C032000
+$200A0018 24040000
+$200A001C 240500E2
+$200A0020 2406000F
+$200A0024 24070006
+$200A00C8 3C020000
+$200A00CC 3C030000
+$200A00D0 24040000
+$200A00D4 24050010
+$200A00D8 24060002
+$200A00DC 24070000
++Infinite HP (nothing Kills U Don't Fall In Water)
+%Credit: PSP Codemakers
+$200A0038 AC2204B8
++Infinite Vest (nothing Kills U Don't Fall In Water)
+%Credit: PSP Codemakers
+$200A003C AC2204BC
++No Reload All Weapons
+%Credit: PSP Codemakers
+$200A0040 A02405EC
+$200A0044 A0240608
+$200A0048 A0240624
+$200A004C A0240640
+$200A0050 A024065C
+$200A0054 A0240668
+$200A0058 A0240674
++Invisible Toni (shadow Only)
+%Credit: PSP Codemakers
+$200A005C A025019A
++Toni Always Bleeding
+%Credit: PSP Codemakers
+$200A0060 A0260197
++Moon Jump
+%Credit: PSP Codemakers
+$200A0064 AC2300D0
++Never Wanted (only Turn On One Wanted Code)
+%Credit: PSP Codemakers
+$200A0068 A0240810
++Always Wanted (max) (only Turn On One Wanted Code)
+%Credit: PSP Codemakers
+$200A006C A0270810
++Police Brutality (more Aggressive To U)
+%Credit: PSP Codemakers
+$200A0070 AC24080C
+!Player Car:
++Car Never Flips Over
+%Credit: PSP Codemakers
+$200A00F0 AF220008
+$200A00F4 AF220018
++No Damage
+%Credit: PSP Codemakers
+$200A00F8 A3240140
++Vehicle Invisible/Toni
+%Credit: PSP Codemakers
+$200A00FC A3250046
++Car Floats (hold Select+r1 To Make Car Float
+%Credit: PSP Codemakers
+$D060B942 0000F7FE
+$200A0100 A3240142
+$D060B942 0010F7FE
+$200A0100 A3260142
++Power Breaks (hold L3 To Activate)
+%Credit: PSP Codemakers
+$E002FFFD 0060B942
+$200A0104 AF220070
+$200A0108 AF220074
+!!
+!!
+!Garage Mods
+!Portland Safehouse Garage:
+!Car 1:
++Car Mod
+%Credit: Skiller
+$006619A0 000000[CAR]
++Proofing
+%Credit: Vettefan8
+$006619C0 000000[PRO]
++Top Of Car Color
+%Credit: Skiller>Vettefan88
+$006619C4 000000[COL]
++Bottom Of Car Color
+%Credit: Skiller
+$006619C5 000000[COL]
+!!
+!Car 2:
++Car Mod
+%Credit: Skiller
+$006619CC 000000[CAR]
++Proofing
+%Credit: Vettefan88
+$006619EC 000000[PRO]
++Top Of Car Color
+%Credit: Skiller
+$006619F0 000000[COL]
++Bottom Of Car Color
+%Credit: Skiller
+$006619F1 000000[COL]
+!!
+!!
+!Staunton Garage:
+!Car 1:
++Car Mod
+%Credit: Skiller
+$00661A50 000000[CAR]
++Proofing
+%Credit: Vettefan88
+$00661A70 000000[PRO]
++Top Of Car Color
+%Credit: Skiller
+$00661A74 000000[COL]
++Bottom Of Car Color
+%Credit: Skiller
+$00661A75 000000[COL]
+!!
+!Car 2:
++Car Mod
+%Credit: Skiller
+$00661A7C 000000[CAR]
++Proofing
+%Credit: Vettefan88
+$00661A9C 000000[PRO]
++Top Of Car Color
+%Credit: Skiller
+$00661AA0 000000[COL]
++Bottom Of Car Color
+%Credit: Skiller
+$00661AA1 000000[COL]
+!!
+!Car 3:
++Car Mod
+%Credit: Skiller
+$00661AA8 000000[CAR]
++Proofing
+%Credit: Vettefan88
+$00661AC8 000000[PRO]
++Top Of Car Color
+%Credit: Skiller
+$00661ACC 000000[COL]
++Bottom Of Car Color
+%Credit: Skiller
+$00661ACD 000000[COL]
+!!
+!!
+!Ssv Safehouse Garage:
+!Car 1:
++Car Mod
+%Credit: Skiller
+$00661B00 000000[CAR]
++Proofing
+%Credit: Vettefan88
+$00661B20 000000[PRO]
++Top Of Car Color
+%Credit: Skiller
+$00661B24 000000[COL]
++Bottom Of Car Color
+%Credit: Skiller
+$00661B25 000000[COL]
+!!
+!Car 2:
++Car Mod
+%Credit: Skiller
+$00661B2C 000000[CAR]
++Proofing
+%Credit: Vettefan88
+$00661B4C 000000[PRO]
++Top Of Car Color
+%Credit: Skiller
+$00661B50 000000[COL]
++Bottom Of Car Color
+%Credit: Skiller
+$00661B51 000000[COL]
+!!
+!Car 3:
++Car Mod
+%Credit: Skiller
+$00661B58 000000[CAR]
++Proofing
+%Credit: Skiller
+$00661B78 000000[PRO]
++Top Of Car Color
+%Credit: Skiller
+$00661B7C 000000[COL]
++Bottom Of Car Color
+%Credit: Skiller
+$00661B7D 000000[COL]
+!!
+!!
+!!
+!Stats:
++Percentage Completed 100% (gives You The Goods)
+$203D9E58 447A0000
++Mission Attempts
+$203D9E80 0098967F
++Rampages Passed
+$203D9EAC 00000014
+$203D9EB8 00000014
++People You've Wasted
+$203D9E44 0098967F
++People Wasted By Others
+$203D9E40 0098967F
++Cars Exploded
+$203D9E48 0098967F
++Boats Destroyed
+$203D9E4C 0098967F
++Helicopter Destroyed
+$203D9E54 0098967F
++Total Number Of Wanted Stars Attained
+$203D9E60 0098967F
++Bullets Fired
+$203D9E50 0098967F
++Bullets That Hit
+$203D9E5C 0098967F
++Max Insane Jump Flips
+$203D9E6C 0098967F
++Max Insane Jump Rotation
+$203D9E70 0098967F
++Unique Jumps Completed
+$203D9E78 0000001A
+$203D9E7C 0000001A
++Criminals Killed On Vigilante Mission
+$203D9E98 0098967F
++Highest Vigilante Level
+$203D9E94 0098967F
++People Saved In An Ambulance
+$203D9E90 0098967F
++Highest Paramedic Level
+$203D9E9C 0098967F
++Passengers Dropped Off
+$203D9E88 0098967F
++Crash Made In Taxi
+$203D9E8C 0098967F
++Total Fires Extinguished
+$203D9EA4 0098967F
++Highest Firefighter Level
+$203D9EA0 0098967F
++Photos Taken
+$203D9EA8 0098967F
++Most Kills In Rc Triad Take Down
+$203D9EB4 0098967F
++Most Time Left In Karmageddon
+$203D9EB0 00000E0F
++Seagulls Sniped
+$203D9EC0 0098967F
++Max Insane Jump Dist.(m) **float**
+203D9E64 [Amount:447A0000:FLOAT:BIG]
++Max Insane Jump Height (m) **float**
+203D9E68 [Amount:447A0000:FLOAT:BIG]
++Kgs Of Explosives Used
+203D9D80 [Amount:05F5E0FF:HEX:BIG]
++Tires Popped
+203D9C94 [Amount:05F5E0FF:HEX:BIG]
++Cars Crushed
+203D9D84 [Amount:05F5E0FF:HEX:BIG]
++Bikes Sold
+203D9F44 [Amount:05F5E0FF:HEX:BIG]
++Cash Made Selling Bikes
+203D9F48 [Amount:05F5E0FF:HEX:BIG]
++Sprayings
+203D9D78 [Amount:05F5E0FF:HEX:BIG]
++Times Busted
+203D9BE8 [Amount:05F5E0FF:HEX:BIG]
++Number Of Saves
+203D9E34 [Amount:05F5E0FF:HEX:BIG]
++Days Passed In Game
+203D9DE0 [Amount:05F5E0FF:HEX:BIG]
++Total Number Of Wanted Stars Evaded
+203D9D74 [Amount:05F5E0FF:HEX:BIG]
++Hospital Visits
+203D9BE4 [Amount:05F5E0FF:HEX:BIG]
++Number Of Headshots
+203D9D98 [Amount:05F5E0FF:HEX:BIG]
++Distance Traveled On Foot **float**
+203D9BDC [Amount:447A0000:FLOAT:BIG]
++Distanced Traveled By Car **float**
+203D9BD0 [Amount:447A0000:FLOAT:BIG]
++Distance Traveled By Bike **float**
+203D9BD4 [Amount:447A0000:FLOAT:BIG]
++Distance Traveled By Boat **float**
+203D9BD8 [Amount:447A0000:FLOAT:BIG]
++Longest Wheelie Time (sec)
+203D9BB0 [Amount:05F5E0FF:HEX:BIG]
++Longest Wheeling Distance (m)**float**
+203D9BB4 [Amount:447A0000:FLOAT:BIG]
++Longest Stopie Time (sec)
+203D9BB8 [Amount:05F5E0FF:HEX:BIG]
++Longest Stopie Distance( M)**float**
+203D9BBC [Amount:447A0000:FLOAT:BIG]
++Longest Face Plant Distance (m)**float**
+203D9F00 [Amount:447A0000:FLOAT:BIG]
++Longest 2 Wheels Time (sec)
+203D9BA8 [Amount:05F5E0FF:HEX:BIG]
++Longest 2 Wheels Distance (m)**float**
+203D9BAC [Amount:447A0000:FLOAT:BIG]
++Cars Sold
+203D9F3C [Amount:05F5E0FF:HEX:BIG]
++Cash Made Selling Cars
+203D9F40 [Amount:05F5E0FF:HEX:BIG]
++Total Cash Made On 'slash Tv'
+203D9F58 [Amount:05F5E0FF:HEX:BIG]
++Opponents Killed In 'slash Tv'
+203D9F5C [Amount:05F5E0FF:HEX:BIG]
++Cash Made Collecting Trash
+203D9F70 [Amount:05F5E0FF:HEX:BIG]
++Number Of 'avenging Angel' Missions Passed
+203D9F7C [Amount:05F5E0FF:HEX:BIG]
++Total 'avenging Angel' Justice Dished Out
+203D9F78 [Amount:05F5E0FF:HEX:BIG]
++Highest 'avenging Angel' Level
+203D9F88 [Amount:05F5E0FF:HEX:BIG]
++Outfit Changes
+203D9FA0 [Amount:05F5E0FF:HEX:BIG]
++Weapon Budget**float**
+203D9EC4 [Amount:447A0000:FLOAT:BIG]
++Property Destroyed
+203D9C90 [Amount:05F5E0FF:HEX:BIG]
++Cars Found For 'love Media'
+$203D9F4C 00000010
+$203D9F50 00000010
++Pizzas Delivered**float**
+203D9ED0 [Amount:447A0000:FLOAT:BIG]
++Noodles Delivered**float**
+203D9ED4 [Amount:447A0000:FLOAT:BIG]
++Cash Made From Tourists**float**
+203D9ED8 [Amount:447A0000:FLOAT:BIG]
++Tourists Taken To Tourists Spots**float**
+203D9EDC [Amount:447A0000:FLOAT:BIG]
++Highest Score In ' Scrap Yard Challenge'**float**
+203D9EF0 [Amount:447A0000:FLOAT:BIG]
++Highest Score In '9mm Mayhem'**float**
+203D9EF4 [Amount:447A0000:FLOAT:BIG]
++Highest Score In 'scooter Shooter'**float**
+203D9EF8 [Amount:447A0000:FLOAT:BIG]
++Highest Score In 'awol Angel'**float**
+203D9EFC [Amount:447A0000:FLOAT:BIG]
++Most Kills In 'rc Triad Take-Down'
+203D9EB4 [Amount:447A0000:FLOAT:BIG]
++Fish Fed
+203D9D94 [Amount:05F5E0FF:HEX:BIG]
++Auto Repair And Painting Budget**float**
+203D9D7C [Amount:447A0000:FLOAT:BIG][Amount:447A0000:FLOAT:BIG]
++Property Destroyed
+203D9C90 [Amount:05F5E0FF:HEX:BIG]
+!!
+!Other:
++100% Accuracy
+$203D9E50 00000064
+$203D9E5C 00000064
++Change Cash To Double Hex (00000000:00000000)
+$203D66C8 382E3825
+$203D66CC 3A3A2078
+$203D66D0 2E382520
+$203D66D4 00007838
++Change Cash To Hex (00000000)
+$003D66CC 00000078
++Showed Rampage Timer In Hex (00:00)
+$003D6459 00000078
+$003D645E 00000078
+!!
+^6 = MODS:
+[COL]
+VALUE>NAME
+00	Black
+01	White
+02	Police Car Blue
+03	Cherry Red
+04	Midnight Blue
+05	Temple Curtain Purple
+06	Taxi Yellow
+07	Triking Blue
+08	White
+09	Gray
+0A	Blue
+3E	Pink
+3F	Gray White
+40	White
+65	Black
+[/COL]
+[PRO]
+VALUE>NAME
+F1	Bullet Proof
+F2	Fire Proof
+F3	Bullet Proof + Fire Proof
+F4	Explosion Proof
+F5	Explosion Proof + Bullet Proof
+F6	Explosion Proof + Fire Proof
+F7	Bullet Proof + Fire Proof + Explosion Proof
+F8	Damage Proof
+F9	Damage Proof + Bullet Proof
+FA	Damage Proof + Fire Proof
+FB	Damage Proof + Bullet Proof + Fire Proof
+FC	Damage Proof + Explosion Proof
+FD	Damage Proof + Bullet Proof + Explosion Proof
+FE	Damage Proof + Fire Proof + Explosion Proof
+FF	Damage Proof + Bullet Proof + Fire Proof + Explosion Proof
+[/PRO]
+[CAR]
+VALUE>NAME>WORKS
+82	DEIMOS SP	Works
+83	LANDSTALKER	Works
+84	IDAHO	Works
+85	STINGER	Works
+86	LINERUNNER	Works
+87	PERENIAL	Works
+88	SENTINEL	Works
+89	PATRIOT	Works
+8A	FIRETRUCK	Works
+8B	TRASHMASTER	Works
+8C	STRETCH	Works
+8D	MANANA	Works
+8E	INFERNUS	Works
+8F	BLISTA	Works
+90	PONY	Works
+91	MULE	Works
+92	CHEETAH	Works
+93	AMBULANCE	Works
+94	FBI CRUISER	Works
+95	MOONBEAM	Works
+96	ESPERANTO	Works
+97	TAXI	Works
+98	KURUMA	Works
+99	BOBCAT	Works
+9A	MR WHOOPEE	Works
+9B	BF INJECTION	Works
+9C	HEARSE	Works
+9D	POLICE	Works
+9E	ENFORCER	Works
+9F	SECURICAR	Works
+A0	BANSHEE	Works
+A1	BUS	Works
+A2	RHINO	Works
+A3	BARRACKS OL	Works
+A4	DODO	Works
+A5	COACH	Works
+A6	CABBIE	Works
+A7	STALLION	Works
+A8	RUMPO	Works
+A9	RCBANDT	Works
+AA	TRIAD FISH VAN	Works
+AB	MR WONGS	Works
+AC	LEONE SENTINEL	Works
+AD	YARDIE LOBO	
+AE	YAKUZA STINGER	Works
+AF	DIABLO STALLION	Works
+B0	CARTEL CRUISER	Works
+B1	HOODS RUMP XL	Works
+B2	PANLANTIC	Works
+B3	FLATBED	Works
+B4	YANKEE	Works
+B5	BICKEL'76	Works
+B6	TOYZ	Works
+B7	CMPAIN RUMPO	Works
+B8	BALLOTVAN	Works
+B9	HELLENBACH GT	Works
+BA	PHOBOS VT	Works
+BB	V8 GHOST	Works
+BC	BARRACKS OL	Works
+BD	THUNDER-ROD	Works
+BE	SINDACCO ARGENTO	Works
+BF	FORELLI EXSESS	Works
+C0	FERRY	
+C1	GHOST	
+C2	SPEEDER	
+C3	REEFER	
+C4	PREDATOR	
+C5	TRAIN	
+C6	HELI (ESCAPE)	
+C7	INVISIBLE HELI	Works
+C8	AEROPL (AIRTRAIN)	
+C9	DODO (DEADDODO)	
+CA	ANGEL	Works
+CB	PIZZABO	Works
+CC	NOODLBO	Works
+CD	PCJ600	Works
+CE	FAGGIO	Works
+CF	FREEWAY	Works
+D0	ANGEL2	Works
+D1	SANCH2	Works
+D2	SANCHEZ	Works
+D3	RCGOBLI	Works
+D4	RCRAIDE	Works
+D5	HUNTER	Works
+D6	MAVERIC	Works
+D7	POLICE MAVERIC	Works
+D8	VC NEWS MAVERIC	Works
+[/CAR]
+[WEP]
+VALUE>NAME
+00	Fist
+01	Brass Knuckles
+02	Screw Driver
+03	Golf Club
+04	Night Stick
+05	Knife
+06	Baseball Bat
+07	Hammer
+08	Meat Cleaver
+09	Machete
+0A	Katana
+0B	Chainsaw
+0C	Detonator Bomb
+0D	Grenade
+0E	Tear Gas (Smoke Bomb)
+0F	Molotov Cocktail
+10	Missile (No Damage)
+11	Colt 45
+12	Colt Python
+13	Stubby Shotgun
+14	Chrome Shotgun
+15	Spaz 12 Shotgun
+16	Tec-9
+17	Uzi 9mm
+18	Ingram Mac 10
+19	MP5
+1A	Colt M4
+1B	Ruger
+1C	Sniper Rifle
+1D	PSG-1
+1E	Rocket Launcher
+1F	Flame Thrower
+20	M60(0-50 Ammo)
+21	Gattling Gun
+22	Remote Control
+23	M60(100-100 Ammo)
+24	Camera
+[/WEP]

@@ -1,0 +1,19 @@
+^2 = GameID: BLES01697
+^3 = NAME: Alien: Isolation
+^5 = APCRED: by bucanero
+^4 = FILE: STHEFILE
++Update Sha1 Xor64 For Sthefile (required)
+$set [off1]:read(0x18, 4)
+$set [off2]:read(0x1C, 4)
+$set pointer:[off1]+[off2]-1
+$set range:0x20,pointer
+$set [csum]:sha1_xor64
+$write at 0x08:[csum]
+^4 = FILE: OTHEFILE
++Update Sha1 Xor64 For Othefile (required)
+$set [off1]:read(0x18, 4)
+$set [off2]:read(0x1C, 4)
+$set pointer:[off1]+[off2]-1
+$set range:0x20,pointer
+$set [csum]:sha1_xor64
+$write at 0x08:[csum]

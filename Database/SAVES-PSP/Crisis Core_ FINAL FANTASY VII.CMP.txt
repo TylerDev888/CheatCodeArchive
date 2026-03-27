@@ -1,0 +1,62 @@
+^2 = GameID: ULES01044,ULES01045,ULES01046,ULES01047,ULES01048
+^3 = NAME: Crisis Core: FINAL FANTASY VII
+^5 = APCRED: PSP
+{Simplified by @Officialahmed}
+{http://web.save-editor.com/bbs/patchcode/psp/bbs.cgi?list=pickup&num=2277#}
+^4 = FILE: *
+!Items:
+!Item MOD:
++Item 1
+$10000D58 0000[ITEM]
++Item 2
+$10000D5C 0000[ITEM]
++Item 3
+$10000D60 0000[ITEM]
++Item 4
+$10000D64 0000[ITEM]
++Item 5
+$10000D68 0000[ITEM]
++Item 6
+$10000D6C 0000[ITEM]
++Item 7
+$10000D70 0000[ITEM]
++Item 8
+$10000D74 0000[ITEM]
++Item 9
+$10000D78 0000[ITEM]
++Item 10
+$10000D7C 0000[ITEM]
+!!
+!Item Amount:
++Item 1
+$00000D5A 00000063
++Item 2
+$00000D5E 00000063
++Item 3
+$00000D62 00000063
++Item 4
+$00000D66 00000063
++Item 5
+$00000D6A 00000063
++Item 6
+$00000D6E 00000063
++Item 7
+$00000D72 00000063
++Item 8
+$00000D76 00000063
++Item 9
+$00000D7A 00000063
++Item 10
+$00000D7E 00000063
+!!
+!!
+^6 = MODS:
+[ITEM]
+VALUE>NAME
+2000	Potion
+2001	High Potion
+2002	Expo
+2003	Ether
+2004	Soma
+2005	Universal Medicine
+[/ITEM]

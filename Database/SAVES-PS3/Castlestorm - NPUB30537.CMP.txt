@@ -1,0 +1,5 @@
+^2 = GameID: NPUB30537
+^3 = NAME: CastleStorm (PSN)
+^4 = FILE: PROFILE.DAT
++Max Money
+$write at 0x0000000D:0x3B9AC9FF

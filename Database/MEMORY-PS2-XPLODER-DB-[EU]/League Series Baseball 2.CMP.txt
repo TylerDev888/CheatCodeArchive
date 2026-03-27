@@ -1,0 +1,20 @@
+^3 = NAME: League Series Baseball 2
+!Masters:
++Mastercode
+%Credits: Xploder
+$901D04C8 0C08C608
+!!
+!Other:
++Clear 'Strikes'
+%Credits: Xploder
+$D0550182 0000FDEF
+$2054D3EC 00000000
++Clear 'No Balls'
+%Credits: Xploder
+$D0550182 0000FD7F
+$2054D3F0 00000000
++Clear 'Outs'
+%Credits: Xploder
+$D0550182 0000FDBF
+$2054D3F4 00000000
+!!

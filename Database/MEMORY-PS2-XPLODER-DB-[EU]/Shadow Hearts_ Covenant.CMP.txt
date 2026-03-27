@@ -1,0 +1,427 @@
+^3 = NAME: Shadow Hearts: Covenant
+!Masters:
++Mastercode
+%Credits: Xploder
+$9022E088 0C08B848
+$200C2018 081ABB71
+$200C201C 8C630130
+$E0020130 006AEDBC
+$206AEDC0 00000000
+$206AEDBC 08030800
+!!
+!Infinite:
++HP
+%Credits: Xploder
+$200C2000 240103E7
+$200C2004 AC610130
++MP
+%Credits: Xploder
+$200C2008 94610134
+$200C200C A4610136
++SP
+%Credits: Xploder
+$200C2010 94610138
+$200C2014 A461013A
+!!
+!Have:
++Max Cash
+%Credits: Xploder
+$20102D30 05F5E0FF
+$20102D34 05F5E0FF
++Always 00:00 Time
+%Credits: Xploder
+$20102D38 00000000
+!!
+!Max:
++Level
+%Credits: Xploder
+$0010052F 00000063
++HP
+%Credits: Xploder
+$10100548 000003E7
++MP
+%Credits: Xploder
+$1010054C 000003E7
++SP
+%Credits: Xploder
+$00100550 00000063
++EXP
+%Credits: Xploder
+$20100568 05F5E0FF
++STR
+%Credits: Xploder
+$00100552 00000063
++VIT
+%Credits: Xploder
+$00100553 00000063
++AGL
+%Credits: Xploder
+$00100556 00000063
++INT
+%Credits: Xploder
+$00100554 00000063
++POW
+%Credits: Xploder
+$00100555 00000063
++LUC
+%Credits: Xploder
+$00100557 00000063
++Level
+%Credits: Xploder
+$001009AF 00000063
++HP
+%Credits: Xploder
+$101009C8 000003E7
++MP
+%Credits: Xploder
+$101009CC 000003E7
++SP
+%Credits: Xploder
+$001009D0 00000063
++EXP
+%Credits: Xploder
+$201009E8 05F5E0FF
++STR
+%Credits: Xploder
+$001009D2 00000063
++VIT
+%Credits: Xploder
+$001009D3 00000063
++AGL
+%Credits: Xploder
+$001009D6 00000063
++INT
+%Credits: Xploder
+$001009D4 00000063
++POW
+%Credits: Xploder
+$001009D5 00000063
++LUC
+%Credits: Xploder
+$001009D7 00000063
++Level
+%Credits: Xploder
+$0010016F 00000063
++HP
+%Credits: Xploder
+$10100188 000003E7
++MP
+%Credits: Xploder
+$1010018C 000003E7
++SP
+%Credits: Xploder
+$00100190 00000063
++EXP
+%Credits: Xploder
+$201001A8 05F5E0FF
++STR
+%Credits: Xploder
+$00100192 00000063
++VIT
+%Credits: Xploder
+$00100193 00000063
++AGL
+%Credits: Xploder
+$00100196 00000063
++INT
+%Credits: Xploder
+$00100194 00000063
++POW
+%Credits: Xploder
+$00100195 00000063
++LUC
+%Credits: Xploder
+$00100197 00000063
++Level
+%Credits: Xploder
+$001002EF 00000063
++HP
+%Credits: Xploder
+$10100308 000003E7
++MP
+%Credits: Xploder
+$1010030C 000003E7
++SP
+%Credits: Xploder
+$00100310 00000063
++EXP
+%Credits: Xploder
+$20100328 05F5E0FF
++STR
+%Credits: Xploder
+$00100312 00000063
++VIT
+%Credits: Xploder
+$00100313 00000063
++AGL
+%Credits: Xploder
+$00100316 00000063
++INT
+%Credits: Xploder
+$00100314 00000063
++POW
+%Credits: Xploder
+$00100315 00000063
++LUC
+%Credits: Xploder
+$00100317 00000063
++Level
+%Credits: Xploder
+$0010022F 00000063
++HP
+%Credits: Xploder
+$10100248 000003E7
++MP
+%Credits: Xploder
+$1010024C 000003E7
++SP
+%Credits: Xploder
+$00100250 00000063
++EXP
+%Credits: Xploder
+$20100268 05F5E0FF
++STR
+%Credits: Xploder
+$00100252 00000063
++VIT
+%Credits: Xploder
+$00100253 00000063
++AGL
+%Credits: Xploder
+$00100256 00000063
++INT
+%Credits: Xploder
+$00100254 00000063
++POW
+%Credits: Xploder
+$00100255 00000063
++LUC
+%Credits: Xploder
+$00100257 00000063
+!!
+!Have Item:
++Thera Leaf
+%Credits: Xploder
+$00100BEC 00000063
+$00100DEC 00000063
++Thera Seed
+%Credits: Xploder
+$00100BED 00000063
+$00100DED 00000063
++Thera Root
+%Credits: Xploder
+$00100BEE 00000063
+$00100DEE 00000063
++Thera Extract
+%Credits: Xploder
+$00100BEF 00000063
+$00100DEF 00000063
++Mana Leaf
+%Credits: Xploder
+$00100BF0 00000063
+$00100DF0 00000063
++Mana Seed
+%Credits: Xploder
+$00100BF1 00000063
+$00100DF1 00000063
++Mana Root
+%Credits: Xploder
+$00100BF2 00000063
+$00100DF2 00000063
++Mana Extract
+%Credits: Xploder
+$00100BF3 00000063
+$00100DF3 00000063
++Pure Leaf
+%Credits: Xploder
+$00100BF4 00000063
+$00100DF4 00000063
++Pure Seed
+%Credits: Xploder
+$00100BF5 00000063
+$00100DF5 00000063
++Pure Root
+%Credits: Xploder
+$00100BF6 00000063
+$00100DF6 00000063
++Pure Extract
+%Credits: Xploder
+$00100BF7 00000063
+$00100DF7 00000063
++Soul Benediction
+%Credits: Xploder
+$00100BF8 00000063
+$00100DF8 00000063
++Phoenix Tail
+%Credits: Xploder
+$00100BF9 00000063
+$00100DF9 00000063
++Daphne Fruit
+%Credits: Xploder
+$00100BFA 00000063
+$00100DFA 00000063
++Talisman Of Luck
+%Credits: Xploder
+$00100BFB 00000063
+$00100DFB 00000063
++Talsmn. Of Mercy
+%Credits: Xploder
+$00100BFC 00000063
+$00100DFC 00000063
++Seal Of Life
+%Credits: Xploder
+$00100BFD 00000001
+$00100DFD 00000001
++Seal Of Aura
+%Credits: Xploder
+$00100BFE 00000001
+$00100DFE 00000001
++Seal Of The Soul
+%Credits: Xploder
+$00100BFF 00000001
+$00100DFF 00000001
++Seal Of The Urn
+%Credits: Xploder
+$00100C00 00000001
+$00100E00 00000001
++Seal Of Strength
+%Credits: Xploder
+$00100C01 00000001
+$00100E01 00000001
++Seal Of Vitality
+%Credits: Xploder
+$00100C02 00000001
+$00100E02 00000001
++Seal Of Speed
+%Credits: Xploder
+$00100C03 00000001
+$00100E03 00000001
++Seal Of Wisdom
+%Credits: Xploder
+$00100C04 00000001
+$00100E04 00000001
++Seal Of Force
+%Credits: Xploder
+$00100C05 00000001
+$00100E05 00000001
++Seal Of Luck
+%Credits: Xploder
+$00100C06 00000001
+$00100E06 00000001
++Third Key
+%Credits: Xploder
+$00100C07 00000001
+$00100E07 00000001
++Fifth Key
+%Credits: Xploder
+$00100C08 00000001
+$00100E08 00000001
++Seventh Key
+%Credits: Xploder
+$00100C09 00000001
+$00100E09 00000001
++Eternal Key
+%Credits: Xploder
+$00100C0A 00000001
+$00100E0A 00000001
++Tent
+%Credits: Xploder
+$00100C0C 00000001
+$00100E0C 00000001
++Bat's Gold
+%Credits: Xploder
+$00100C0D 00000001
+$00100E0D 00000001
++Strongoids
+%Credits: Xploder
+$00100C0E 00000001
+$00100E0E 00000001
++Getitup!
+%Credits: Xploder
+$00100C0F 00000001
+$00100E0F 00000001
++Soul Drop
+%Credits: Xploder
+$00100C10 00000063
+$00100E10 00000063
++Silver Angel
+%Credits: Xploder
+$00100C11 00000001
+$00100E11 00000001
++Lottery Ticket
+%Credits: Xploder
+$00100C12 00000001
+$00100E12 00000001
++Tissues
+%Credits: Xploder
+$00100C13 00000063
+$00100E13 00000063
++Valuable Gem
+%Credits: Xploder
+$00100C14 00000001
+$00100E14 00000001
++Azure Orb
+%Credits: Xploder
+$00100C15 00000001
+$00100E15 00000001
++Solomon's Key
+%Credits: Xploder
+$00100C3D 00000001
+$00100E3D 00000001
++Leo Tile
+%Credits: Xploder
+$00100C3F 00000001
+$00100E3F 00000001
++Star Key
+%Credits: Xploder
+$00100C40 00000001
+$00100E40 00000001
++Shanghai Heaven
+%Credits: Xploder
+$00100C41 00000001
+$00100E41 00000001
++Adhesive
+%Credits: Xploder
+$00100C42 00000001
+$00100E42 00000001
++Thief's Weight
+%Credits: Xploder
+$00100C43 00000001
+$00100E43 00000001
++Locker 1 Key
+%Credits: Xploder
+$00100C45 00000001
+$00100E45 00000001
++Queen
+%Credits: Xploder
+$00100C46 00000001
+$00100E46 00000001
++RIN Stone
+%Credits: Xploder
+$00100C47 00000001
+$00100E47 00000001
++ZEN Stone
+%Credits: Xploder
+$00100C48 00000001
+$00100E48 00000001
++Hieroglyphics
+%Credits: Xploder
+$00100C49 00000001
+$00100E49 00000001
++Purple Bondage
+%Credits: Xploder
+$00100C4A 00000001
+$00100E4A 00000001
++Super Piroshki
+%Credits: Xploder
+$00100C4B 00000001
+$00100E4B 00000001
++Mr. Sax
+%Credits: Xploder
+$00100C4E 00000001
+$00100E4E 00000001
++Nibelung Scene 6
+%Credits: Xploder
+$00100C50 00000001
+$00100E50 00000001
+!!

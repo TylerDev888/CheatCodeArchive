@@ -1,0 +1,82 @@
+^3 = NAME: Men In Black 2 - Alien Escape (PAL-E)
+^2 = GameID: No
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0295C60 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0295C60 00295C63
+!!
++Infinite Health
+%Credits: Codejunkies
+$208E498C 42C80000
+!Lives Codes:
++Infinite Lives
+%Credits: Codejunkies
+$208E4984 00000003
++Never Have More Than 2 Lives
+%Credits: Codejunkies
+$E0020002 308E4984
+$E0010000 308E4986
+$208E4984 00000002
++Never Have More Than 5 Lives
+%Credits: Codejunkies
+$E0020005 308E4984
+$E0010000 308E4986
+$208E4984 00000005
++Never Have More Than 9 Lives
+%Credits: Codejunkies
+$E0020009 308E4984
+$E0010000 308E4986
+$208E4984 00000009
+!!
++Monster Score
+%Credits: Codejunkies
+$208E49B8 501502F9
++No Body Agent Jay
+%Credits: Codejunkies
+$203E2560 03E00008
+$203E2564 00000000
++Unlock Everything
+%Credits: Codejunkies
+$20608028 01010101
+$2060802C 01010101
+!Xeno Bombs Codes:
++Bullets Can't Hit
+%Credits: Codejunkies
+$2017DBF0 03E00008
+$2017DBF4 00000000
++Enemies Can't Shoot
+%Credits: Codejunkies
+$2070516C 00000000
++Have Stupid Opponents
+%Credits: Codejunkies
+$206E3380 00000000
++Infinite Xeno Bombs
+%Credits: Codejunkies
+$208E49AC 00000009
++Maniac Runner
+%Credits: Codejunkies
+$20705078 3FFF0000
++Never Have More Than 1 Xeno Bomb
+%Credits: Codejunkies
+$E0020001 308E49AC
+$E0010000 308E49AE
+$208E49AC 00000001
++Never Have More Than 5 Xeno Bombs
+%Credits: Codejunkies
+$E0020005 308E49AC
+$E0010000 308E49AE
+$208E49AC 00000005
++No Clipping
+%Credits: Codejunkies
+$20183A40 03E00008
+$20183A44 00000000
++No Pickup Timer
+%Credits: Codejunkies
+$20280EF0 03E00008
+$20280EF4 00000000
+!!
+!!
+

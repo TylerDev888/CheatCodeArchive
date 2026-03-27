@@ -1,0 +1,2721 @@
+^3 = NAME: Dynasty Warriors 4 (Ntsc-U)
+^2 = GameID: SLUS-20653
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F02062D0 002062D3
++[M] Must Be On
+%Credits: InterAct
+$F0100008 002062D3
+!!
+!Arrows Codes:
++Infinite Arrows
+%Credits: Codejunkies
+$1052512C 00000063
++Infinite Arrows
+%Credits: Codejunkies
+$1052535C 00000063
++Max Bodyguard Points For Kessen
+%Credits: Codejunkies
+$10432816 0000270F
++Max Bodyguard Points For Koei
+%Credits: Codejunkies
+$10432756 0000270F
++Max Bodyguard Points For Mystery
+%Credits: Codejunkies
+$104327B6 0000270F
++Max Bodyguard Points For Rotk
+%Credits: Codejunkies
+$104326F6 0000270F
++Never Have More Than 3 Arrows
+%Credits: Codejunkies
+$E0010003 3052512C
+$1052512C 00000003
++Never Have More Than 3 Arrows
+%Credits: Codejunkies
+$E0010003 3052535C
+$1052535C 00000003
++Never Have More Than 5 Arrows
+%Credits: Codejunkies
+$E0010005 3052512C
+$1052512C 00000005
++Never Have More Than 5 Arrows
+%Credits: Codejunkies
+$E0010005 3052535C
+$1052535C 00000005
++Never Have More Than 10 Arrows
+%Credits: Codejunkies
+$E001000A 3052512C
+$1052512C 0000000A
++Never Have More Than 10 Arrows
+%Credits: Codejunkies
+$E001000A 3052535C
+$1052535C 0000000A
++Unlock All Levels In Free Mode
+%Credits: Codejunkies
+$2042BD98 FFFFFFFF
+$2042BD9C FFFFFFFF
+$2042BDA0 FFFFFFFF
++Unlock All Movies
+%Credits: Codejunkies
+$20432220 3FFFFFFF
+!!
+!Character Equipment Slot Modifiers:
++Cao Cao - Harness Slot Modifier {<I>These Codes Modify Equipment In Each Character&#39;S Equipment Slots. You Can Still Remove Or Change The Items. You Can Put Special Items In A Slot Designated For An Orb Or Harness &Amp; Still Get The Effect Of That Item. You Can Also Do The Same Thing by putting an orb or a harness in one of the special item slots. Its even possible to have two or more different orbs, with elemental effects added to your weapons, however you may not see multiple effects at once. At one point, you might see a fiery effect &amp; at another, you might see a poison effect (depending on what you choose). Putting two or more harnesses in won&#39;t affect things any.<br>Values -<br>00 - Peacock Urn<br>01 - Dragon Amulet<br>02 - Tiger Amulet<br>03 - Tortoise Amulet<br>04 - Speed Scroll<br>05 - Wing Boots<br>06 - Huang&#39;s Bow<br>07 - Nanman Armor<br>08 - Horned Helm<br>09 - Cavalry Armor<br>0A - Seven Star Sash<br>0B - Elixir<br>0C - Herbal Remedy<br>0D - Fire Orb<br>0E - Lightning Orb<br>0F - Vorpal Orb<br>10 - Ice Orb<br>11 - Blast Orb<br>12 - Poison Orb<br>13 - Red Hare Harness<br>14 - Hex Mark Harness<br>15 - Storm Harness<br>16 - Shadow Harness<br>17 - Elephant Harness<br>18 - Art Of War<br>19 - Survival Guide<br>1A - Bodyguard Manual<br>1B - Way Of Musou<br>1C - Power Scroll<br>1D - Wind Scroll<br>1E - Fire Arrows<br>1F - Charge Bracer</i>}
+%Credits: BigBossman
+$00432358 000000??
++Cao Cao - Orb Slot Modifier
+%Credits: BigBossman
+$00432359 000000??
++Cao Cao - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$0043235A 000000??
+$0043235B 000000??
+$0043235C 000000??
+$0043235D 000000??
+$0043235E 000000??
+$0043235F 000000??
++Cao Ren - Harness Slot Modifier
+%Credits: BigBossman
+$004325F8 000000??
++Cao Ren - Orb Slot Modifier
+%Credits: BigBossman
+$004325F9 000000??
++Cao Ren - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004325FA 000000??
+$004325FB 000000??
+$004325FC 000000??
+$004325FD 000000??
+$004325FE 000000??
+$004325FF 000000??
++Da Qiao - Harness Slot Modifier
+%Credits: BigBossman
+$004325C8 000000??
++Da Qiao - Orb Slot Modifier
+%Credits: BigBossman
+$004325C9 000000??
++Da Qiao - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004325CA 000000??
+$004325CB 000000??
+$004325CC 000000??
+$004325CD 000000??
+$004325CE 000000??
+$004325CF 000000??
++Dian Wei - Harness Slot Modifier
+%Credits: BigBossman
+$004322B0 000000??
++Dian Wei - Orb Slot Modifier
+%Credits: BigBossman
+$004322B1 000000??
++Dian Wei - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004322B2 000000??
+$004322B3 000000??
+$004322B4 000000??
+$004322B5 000000??
+$004322B6 000000??
+$004322B7 000000??
++Diao Chan - Harness Slot Modifier
+%Credits: BigBossman
+$00432328 000000??
++Diao Chan - Orb Slot Modifier
+%Credits: BigBossman
+$00432329 000000??
++Diao Chan - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$0043232A 000000??
+$0043232B 000000??
+$0043232C 000000??
+$0043232D 000000??
+$0043232E 000000??
+$0043232F 000000??
++Dong Zhuo - Harness Slot Modifier
+%Credits: BigBossman
+$004323E8 000000??
++Dong Zhuo - Orb Slot Modifier
+%Credits: BigBossman
+$004323E9 000000??
++Dong Zhuo - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004323EA 000000??
+$004323EB 000000??
+$004323EC 000000??
+$004323ED 000000??
+$004323EE 000000??
+$004323EF 000000??
++Edit 1 - Harness Slot Modifier
+%Credits: BigBossman
+$00432640 000000??
++Edit 1 - Orb Slot Modifier
+%Credits: BigBossman
+$00432641 000000??
++Edit 1 - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$00432642 000000??
+$00432643 000000??
+$00432644 000000??
+$00432645 000000??
+$00432646 000000??
+$00432647 000000??
++Edit 2 - Harness Slot Modifier
+%Credits: BigBossman
+$00432658 000000??
++Edit 2 - Orb Slot Modifier
+%Credits: BigBossman
+$00432659 000000??
++Edit 2 - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$0043265A 000000??
+$0043265B 000000??
+$0043265C 000000??
+$0043265D 000000??
+$0043265E 000000??
+$0043265F 000000??
++Edit 3 - Harness Slot Modifier
+%Credits: BigBossman
+$00432670 000000??
++Edit 3 - Orb Slot Modifier
+%Credits: BigBossman
+$00432671 000000??
++Edit 3 - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$00432672 000000??
+$00432673 000000??
+$00432674 000000??
+$00432675 000000??
+$00432676 000000??
+$00432677 000000??
++Edit 4 - Harness Slot Modifier
+%Credits: BigBossman
+$00432688 000000??
++Edit 4 - Orb Slot Modifier
+%Credits: BigBossman
+$00432689 000000??
++Edit 4 - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$0043268A 000000??
+$0043268B 000000??
+$0043268C 000000??
+$0043268D 000000??
+$0043268E 000000??
+$0043268F 000000??
++Gan Ning - Harness Slot Modifier
+%Credits: BigBossman
+$004324A8 000000??
++Gan Ning - Orb Slot Modifier
+%Credits: BigBossman
+$004324A9 000000??
++Gan Ning - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004324AA 000000??
+$004324AB 000000??
+$004324AC 000000??
+$004324AD 000000??
+$004324AE 000000??
+$004324AF 000000??
++Guan Yu - Harness Slot Modifier
+%Credits: BigBossman
+$00432268 000000??
++Guan Yu - Orb Slot Modifier
+%Credits: BigBossman
+$00432269 000000??
++Guan Yu - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$0043226A 000000??
+$0043226B 000000??
+$0043226C 000000??
+$0043226D 000000??
+$0043226E 000000??
+$0043226F 000000??
++Huang Gai - Harness Slot Modifier
+%Credits: BigBossman
+$00432538 000000??
++Huang Gai - Orb Slot Modifier
+%Credits: BigBossman
+$00432539 000000??
++Huang Gai - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$0043253A 000000??
+$0043253B 000000??
+$0043253C 000000??
+$0043253D 000000??
+$0043253E 000000??
+$0043253F 000000??
++Huang Zhong - Harness Slot Modifier
+%Credits: BigBossman
+$00432430 000000??
++Huang Zhong - Orb Slot Modifier
+%Credits: BigBossman
+$00432431 000000??
++Huang Zhong - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$00432432 000000??
+$00432433 000000??
+$00432434 000000??
+$00432435 000000??
+$00432436 000000??
+$00432437 000000??
++Jiang Wei - Harness Slot Modifier
+%Credits: BigBossman
+$004324C0 000000??
++Jiang Wei - Orb Slot Modifier
+%Credits: BigBossman
+$004324C1 000000??
++Jiang Wei - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004324C2 000000??
+$004324C3 000000??
+$004324C4 000000??
+$004324C5 000000??
+$004324C6 000000??
+$004324C7 000000??
++Liu Bei - Harness Slot Modifier
+%Credits: BigBossman
+$004323A0 000000??
++Liu Bei - Orb Slot Modifier
+%Credits: BigBossman
+$004323A1 000000??
++Liu Bei - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004323A2 000000??
+$004323A3 000000??
+$004323A4 000000??
+$004323A5 000000??
+$004323A6 000000??
+$004323A7 000000??
++Lu Bu - Harness Slot Modifier
+%Credits: BigBossman
+$00432370 000000??
++Lu Bu - Orb Slot Modifier
+%Credits: BigBossman
+$00432371 000000??
++Lu Bu - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$00432372 000000??
+$00432373 000000??
+$00432374 000000??
+$00432375 000000??
+$00432376 000000??
+$00432377 000000??
++Lu Meng - Harness Slot Modifier
+%Credits: BigBossman
+$00432490 000000??
++Lu Meng - Orb Slot Modifier
+%Credits: BigBossman
+$00432491 000000??
++Lu Meng - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$00432492 000000??
+$00432493 000000??
+$00432494 000000??
+$00432495 000000??
+$00432496 000000??
+$00432497 000000??
++Lu Xun - Harness Slot Modifier
+%Credits: BigBossman
+$004322F8 000000??
++Lu Xun - Orb Slot Modifier
+%Credits: BigBossman
+$004322F9 000000??
++Lu Xun - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004322FA 000000??
+$004322FB 000000??
+$004322FC 000000??
+$004322FD 000000??
+$004322FE 000000??
+$004322FF 000000??
++Ma Chao - Harness Slot Modifier
+%Credits: BigBossman
+$00432418 000000??
++Ma Chao - Orb Slot Modifier
+%Credits: BigBossman
+$00432419 000000??
++Ma Chao - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$0043241A 000000??
+$0043241B 000000??
+$0043241C 000000??
+$0043241D 000000??
+$0043241E 000000??
+$0043241F 000000??
++Meng Huo - Harness Slot Modifier
+%Credits: BigBossman
+$00432598 000000??
++Meng Huo - Orb Slot Modifier
+%Credits: BigBossman
+$00432599 000000??
++Meng Huo - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$0043259A 000000??
+$0043259B 000000??
+$0043259C 000000??
+$0043259D 000000??
+$0043259E 000000??
+$0043259F 000000??
++Pang Tong - Harness Slot Modifier
+%Credits: BigBossman
+$00432580 000000??
++Pang Tong - Orb Slot Modifier
+%Credits: BigBossman
+$00432581 000000??
++Pang Tong - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$00432582 000000??
+$00432583 000000??
+$00432584 000000??
+$00432585 000000??
+$00432586 000000??
+$00432587 000000??
++Sim Yi - Harness Slot Modifier
+%Credits: BigBossman
+$00432478 000000??
++Sim Yi - Orb Slot Modifier
+%Credits: BigBossman
+$00432479 000000??
++Sim Yi - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$0043247A 000000??
+$0043247B 000000??
+$0043247C 000000??
+$0043247D 000000??
+$0043247E 000000??
+$0043247F 000000??
++Sun Ce - Harness Slot Modifier
+%Credits: BigBossman
+$00432550 000000??
++Sun Ce - Orb Slot Modifier
+%Credits: BigBossman
+$00432551 000000??
++Sun Ce - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$00432552 000000??
+$00432553 000000??
+$00432554 000000??
+$00432555 000000??
+$00432556 000000??
+$00432557 000000??
++Sun Jian - Harness Slot Modifier
+%Credits: BigBossman
+$004323B8 000000??
++Sun Jian - Orb Slot Modifier
+%Credits: BigBossman
+$004323B9 000000??
++Sun Jian - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004323BA 000000??
+$004323BB 000000??
+$004323BC 000000??
+$004323BD 000000??
+$004323BE 000000??
+$004323BF 000000??
++Sun Quan - Harness Slot Modifier
+%Credits: BigBossman
+$004323D0 000000??
++Sun Quan - Orb Slot Modifier
+%Credits: BigBossman
+$004323D1 000000??
++Sun Quan - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004323D2 000000??
+$004323D3 000000??
+$004323D4 000000??
+$004323D5 000000??
+$004323D6 000000??
+$004323D7 000000??
++Sun Shang Xiang - Harness Slot Modifier
+%Credits: BigBossman
+$00432388 000000??
++Sun Shang Xiang - Orb Slot Modifier
+%Credits: BigBossman
+$00432389 000000??
++Sun Shang Xiang - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$0043238A 000000??
+$0043238B 000000??
+$0043238C 000000??
+$0043238D 000000??
+$0043238E 000000??
+$0043238F 000000??
++Taishi Ci - Harness Slot Modifier
+%Credits: BigBossman
+$00432310 000000??
++Taishi Ci - Orb Slot Modifier
+%Credits: BigBossman
+$00432311 000000??
++Taishi Ci - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$00432312 000000??
+$00432313 000000??
+$00432314 000000??
+$00432315 000000??
+$00432316 000000??
+$00432317 000000??
++Wei Yan - Harness Slot Modifier
+%Credits: BigBossman
+$00432568 000000??
++Wei Yan - Orb Slot Modifier
+%Credits: BigBossman
+$00432569 000000??
++Wei Yan - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$0043256A 000000??
+$0043256B 000000??
+$0043256C 000000??
+$0043256D 000000??
+$0043256E 000000??
+$0043256F 000000??
++Xiahou Dun - Harness Slot Modifier
+%Credits: BigBossman
+$00432298 000000??
++Xiahou Dun - Orb Slot Modifier
+%Credits: BigBossman
+$00432299 000000??
++Xiahou Dun - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$0043229A 000000??
+$0043229B 000000??
+$0043229C 000000??
+$0043229D 000000??
+$0043229E 000000??
+$0043229F 000000??
++Xiahou Yuan - Harness Slot Modifier
+%Credits: BigBossman
+$00432448 000000??
++Xiahou Yuan - Orb Slot Modifier
+%Credits: BigBossman
+$00432449 000000??
++Xiahou Yuan - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$0043244A 000000??
+$0043244B 000000??
+$0043244C 000000??
+$0043244D 000000??
+$0043244E 000000??
+$0043244F 000000??
++Xiao Qiao - Harness Slot Modifier
+%Credits: BigBossman
+$004325E0 000000??
++Xiao Qiao - Orb Slot Modifier
+%Credits: BigBossman
+$004325E1 000000??
++Xiao Qiao - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004325E2 000000??
+$004325E3 000000??
+$004325E4 000000??
+$004325E5 000000??
+$004325E6 000000??
+$004325E7 000000??
++Xu Huang - Harness Slot Modifier
+%Credits: BigBossman
+$004324F0 000000??
++Xu Huang - Orb Slot Modifier
+%Credits: BigBossman
+$004324F1 000000??
++Xu Huang - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004324F2 000000??
+$004324F3 000000??
+$004324F4 000000??
+$004324F5 000000??
+$004324F6 000000??
+$004324F7 000000??
++Xu Zhu - Harness Slot Modifier
+%Credits: BigBossman
+$004322C8 000000??
++Xu Zhu - Orb Slot Modifier
+%Credits: BigBossman
+$004322C9 000000??
++Xu Zhu - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004322CA 000000??
+$004322CB 000000??
+$004322CC 000000??
+$004322CD 000000??
+$004322CE 000000??
+$004322CF 000000??
++Yuan Shao - Harness Slot Modifier
+%Credits: BigBossman
+$00432400 000000??
++Yuan Shao - Orb Slot Modifier
+%Credits: BigBossman
+$00432401 000000??
++Yuan Shao - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$00432402 000000??
+$00432403 000000??
+$00432404 000000??
+$00432405 000000??
+$00432406 000000??
+$00432407 000000??
++Yue Ying - Harness Slot Modifier
+%Credits: BigBossman
+$00432628 000000??
++Yue Ying - Orb Slot Modifier
+%Credits: BigBossman
+$00432629 000000??
++Yue Ying - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$0043262A 000000??
+$0043262B 000000??
+$0043262C 000000??
+$0043262D 000000??
+$0043262E 000000??
+$0043262F 000000??
++Zhang Fei - Harness Slot Modifier
+%Credits: BigBossman
+$00432280 000000??
++Zhang Fei - Orb Slot Modifier
+%Credits: BigBossman
+$00432281 000000??
++Zhang Fei - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$00432282 000000??
+$00432283 000000??
+$00432284 000000??
+$00432285 000000??
+$00432286 000000??
+$00432287 000000??
++Zhang He - Harness Slot Modifier
+%Credits: BigBossman
+$00432508 000000??
++Zhang He - Orb Slot Modifier
+%Credits: BigBossman
+$00432509 000000??
++Zhang He - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$0043250A 000000??
+$0043250B 000000??
+$0043250C 000000??
+$0043250D 000000??
+$0043250E 000000??
+$0043250F 000000??
++Zhang Jiao - Harness Slot Modifier
+%Credits: BigBossman
+$004324D8 000000??
++Zhang Jiao - Orb Slot Modifier
+%Credits: BigBossman
+$004324D9 000000??
++Zhang Jiao - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004324DA 000000??
+$004324DB 000000??
+$004324DC 000000??
+$004324DD 000000??
+$004324DE 000000??
+$004324DF 000000??
++Zhang Liao - Harness Slot Modifier
+%Credits: BigBossman
+$00432460 000000??
++Zhang Liao - Orb Slot Modifier
+%Credits: BigBossman
+$00432461 000000??
++Zhang Liao - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$00432462 000000??
+$00432463 000000??
+$00432464 000000??
+$00432465 000000??
+$00432466 000000??
+$00432467 000000??
++Zhao Yun - Harness Slot Modifier
+%Credits: BigBossman
+$00432250 000000??
++Zhao Yun - Orb Slot Modifier
+%Credits: BigBossman
+$00432251 000000??
++Zhao Yun - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$00432252 000000??
+$00432253 000000??
+$00432254 000000??
+$00432255 000000??
+$00432256 000000??
+$00432257 000000??
++Zhen Ji-Wei - Harness Slot Modifier
+%Credits: BigBossman
+$00432520 000000??
++Zhen Ji-Wei - Orb Slot Modifier
+%Credits: BigBossman
+$00432521 000000??
++Zhen Ji-Wei - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$00432522 000000??
+$00432523 000000??
+$00432524 000000??
+$00432525 000000??
+$00432526 000000??
+$00432527 000000??
++Zhou Tai - Harness Slot Modifier
+%Credits: BigBossman
+$00432610 000000??
++Zhou Tai - Orb Slot Modifier
+%Credits: BigBossman
+$00432611 000000??
++Zhou Tai - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$00432612 000000??
+$00432613 000000??
+$00432614 000000??
+$00432615 000000??
+$00432616 000000??
+$00432617 000000??
++Zhou Yu - Harness Slot Modifier
+%Credits: BigBossman
+$004322E0 000000??
++Zhou Yu - Orb Slot Modifier
+%Credits: BigBossman
+$004322E1 000000??
++Zhou Yu - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004322E2 000000??
+$004322E3 000000??
+$004322E4 000000??
+$004322E5 000000??
+$004322E6 000000??
+$004322E7 000000??
++Zhu Rong - Harness Slot Modifier
+%Credits: BigBossman
+$004325B0 000000??
++Zhu Rong - Orb Slot Modifier
+%Credits: BigBossman
+$004325B1 000000??
++Zhu Rong - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$004325B2 000000??
+$004325B3 000000??
+$004325B4 000000??
+$004325B5 000000??
+$004325B6 000000??
+$004325B7 000000??
++Zhuge Liang - Harness Slot Modifier
+%Credits: BigBossman
+$00432340 000000??
++Zhuge Liang - Orb Slot Modifier
+%Credits: BigBossman
+$00432341 000000??
++Zhuge Liang - Special Item Slot 1 - 6 Modifiers
+%Credits: BigBossman
+$00432342 000000??
+$00432343 000000??
+$00432344 000000??
+$00432345 000000??
+$00432346 000000??
+$00432347 000000??
+!!
+!Character Max Attack Codes:
++Cao Cao
+%Credits: Code Master>Ryan Toluchanian
+$00432353 000000FF
++Cao Ren
+%Credits: Code Master>Ryan Toluchanian
+$004325F3 000000FF
++Da Qiao
+%Credits: Code Master>Ryan Toluchanian
+$004325C3 000000FF
++Dian Wei
+%Credits: Code Master>Ryan Toluchanian
+$004322AB 000000FF
++Diao Chan
+%Credits: Code Master>Ryan Toluchanian
+$00432323 000000FF
++Dong Zhuo
+%Credits: Code Master>Ryan Toluchanian
+$004323E3 000000FF
++Gan Ning
+%Credits: Code Master>Ryan Toluchanian
+$004324A3 000000FF
++Guan Yu
+%Credits: Code Master>Ryan Toluchanian
+$00432263 000000FF
++Huang Gai
+%Credits: Code Master>Ryan Toluchanian
+$00432533 000000FF
++Huang Zhong
+%Credits: Code Master>Ryan Toluchanian
+$0043242B 000000FF
++Jiang Wei
+%Credits: Code Master>Ryan Toluchanian
+$004324BB 000000FF
++Liu Bei
+%Credits: Code Master>Ryan Toluchanian
+$0043239B 000000FF
++Lu Bu
+%Credits: Code Master>Ryan Toluchanian
+$0043236B 000000FF
++Lu Meng
+%Credits: Code Master>Ryan Toluchanian
+$0043248B 000000FF
++Lu Xun
+%Credits: Code Master>Ryan Toluchanian
+$004322F3 000000FF
++Ma Chao
+%Credits: Code Master>Ryan Toluchanian
+$00432413 000000FF
++Meng Huo
+%Credits: Code Master>Ryan Toluchanian
+$00432593 000000FF
++Pang Tong
+%Credits: Code Master>Ryan Toluchanian
+$0043257B 000000FF
++Sim Yi
+%Credits: Code Master>Ryan Toluchanian
+$00432473 000000FF
++Sun Ce
+%Credits: Code Master>Ryan Toluchanian
+$0043254B 000000FF
++Sun Jian
+%Credits: Code Master>Ryan Toluchanian
+$004323B3 000000FF
++Sun Quan
+%Credits: Code Master>Ryan Toluchanian
+$004323CB 000000FF
++Sun Shang Xiang
+%Credits: Code Master>Ryan Toluchanian
+$00432383 000000FF
++Taishi Ci
+%Credits: Code Master>Ryan Toluchanian
+$0043230B 000000FF
++Wei Yan
+%Credits: Code Master>Ryan Toluchanian
+$00432563 000000FF
++Xiahou Dun
+%Credits: Code Master>Ryan Toluchanian
+$00432293 000000FF
++Xiahou Yuan
+%Credits: Code Master>Ryan Toluchanian
+$00432443 000000FF
++Xiao Qiao
+%Credits: Code Master>Ryan Toluchanian
+$004325DB 000000FF
++Xu Huang
+%Credits: Code Master>Ryan Toluchanian
+$004324EB 000000FF
++Xu Zhu
+%Credits: Code Master>Ryan Toluchanian
+$004322C3 000000FF
++Yuan Shao
+%Credits: Code Master>Ryan Toluchanian
+$004323FB 000000FF
++Yue Ying
+%Credits: Code Master>Ryan Toluchanian
+$00432623 000000FF
++Zhang Fei
+%Credits: Code Master>Ryan Toluchanian
+$0043227B 000000FF
++Zhang He
+%Credits: Code Master>Ryan Toluchanian
+$00432503 000000FF
++Zhang Jiao
+%Credits: Code Master>Ryan Toluchanian
+$004324D3 000000FF
++Zhang Liao
+%Credits: Code Master>Ryan Toluchanian
+$0043245B 000000FF
++Zhao Yun
+%Credits: Code Master>Ryan Toluchanian
+$0043224B 000000FF
++Zhen Ji-Wei
+%Credits: Code Master>Ryan Toluchanian
+$0043251B 000000FF
++Zhou Tai
+%Credits: Code Master>Ryan Toluchanian
+$0043260B 000000FF
++Zhou Yu
+%Credits: Code Master>Ryan Toluchanian
+$004322DB 000000FF
++Zhu Rong
+%Credits: Code Master>Ryan Toluchanian
+$004325AB 000000FF
++Zhuge Liang
+%Credits: Code Master>Ryan Toluchanian
+$0043233B 000000FF
+!!
+!Character Max Defense Codes:
++Cao Cao
+%Credits: Code Master>Ryan Toluchanian
+$00432354 000000FF
++Cao Ren
+%Credits: Code Master>Ryan Toluchanian
+$004325F4 000000FF
++Da Qiao
+%Credits: Code Master>Ryan Toluchanian
+$004325C4 000000FF
++Dian Wei
+%Credits: Code Master>Ryan Toluchanian
+$004322AC 000000FF
++Diao Chan
+%Credits: Code Master>Ryan Toluchanian
+$00432324 000000FF
++Dong Zhuo
+%Credits: Code Master>Ryan Toluchanian
+$004323E4 000000FF
++Gan Ning
+%Credits: Code Master>Ryan Toluchanian
+$004324A4 000000FF
++Guan Yu
+%Credits: Code Master>Ryan Toluchanian
+$00432264 000000FF
++Huang Gai
+%Credits: Code Master>Ryan Toluchanian
+$00432534 000000FF
++Huang Zhong
+%Credits: Code Master>Ryan Toluchanian
+$0043242C 000000FF
++Jiang Wei
+%Credits: Code Master>Ryan Toluchanian
+$004324BC 000000FF
++Liu Bei
+%Credits: Code Master>Ryan Toluchanian
+$0043239C 000000FF
++Lu Bu
+%Credits: Code Master>Ryan Toluchanian
+$0043236C 000000FF
++Lu Meng
+%Credits: Code Master>Ryan Toluchanian
+$0043248C 000000FF
++Lu Xun
+%Credits: Code Master>Ryan Toluchanian
+$004322F4 000000FF
++Ma Chao
+%Credits: Code Master>Ryan Toluchanian
+$00432414 000000FF
++Meng Huo
+%Credits: Code Master>Ryan Toluchanian
+$00432594 000000FF
++Pang Tong
+%Credits: Code Master>Ryan Toluchanian
+$0043257C 000000FF
++Sim Yi
+%Credits: Code Master>Ryan Toluchanian
+$00432474 000000FF
++Sun Ce
+%Credits: Code Master>Ryan Toluchanian
+$0043254C 000000FF
++Sun Jian
+%Credits: Code Master>Ryan Toluchanian
+$004323B4 000000FF
++Sun Quan
+%Credits: Code Master>Ryan Toluchanian
+$004323CC 000000FF
++Sun Shang Xiang
+%Credits: Code Master>Ryan Toluchanian
+$00432384 000000FF
++Taishi Ci
+%Credits: Code Master>Ryan Toluchanian
+$0043230C 000000FF
++Wei Yan
+%Credits: Code Master>Ryan Toluchanian
+$00432564 000000FF
++Xiahou Dun
+%Credits: Code Master>Ryan Toluchanian
+$00432294 000000FF
++Xiahou Yuan
+%Credits: Code Master>Ryan Toluchanian
+$00432444 000000FF
++Xiao Qiao
+%Credits: Code Master>Ryan Toluchanian
+$004325DC 000000FF
++Xu Huang
+%Credits: Code Master>Ryan Toluchanian
+$004324EC 000000FF
++Xu Zhu
+%Credits: Code Master>Ryan Toluchanian
+$004322C4 000000FF
++Yuan Shao
+%Credits: Code Master>Ryan Toluchanian
+$004323FC 000000FF
++Yue Ying
+%Credits: Code Master>Ryan Toluchanian
+$00432624 000000FF
++Zhang Fei
+%Credits: Code Master>Ryan Toluchanian
+$0043227C 000000FF
++Zhang He
+%Credits: Code Master>Ryan Toluchanian
+$00432504 000000FF
++Zhang Jiao
+%Credits: Code Master>Ryan Toluchanian
+$004324D4 000000FF
++Zhang Liao
+%Credits: Code Master>Ryan Toluchanian
+$0043245C 000000FF
++Zhao Yun
+%Credits: Code Master>Ryan Toluchanian
+$0043224C 000000FF
++Zhen Ji-Wei
+%Credits: Code Master>Ryan Toluchanian
+$0043251C 000000FF
++Zhou Tai
+%Credits: Code Master>Ryan Toluchanian
+$0043260C 000000FF
++Zhou Yu
+%Credits: Code Master>Ryan Toluchanian
+$004322DC 000000FF
++Zhu Rong
+%Credits: Code Master>Ryan Toluchanian
+$004325AC 000000FF
++Zhuge Liang
+%Credits: Code Master>Ryan Toluchanian
+$0043233C 000000FF
+!!
+!Character Max Life Codes:
++Cao Cao
+%Credits: Code Master>Ryan Toluchanian
+$00432351 000000FF
++Cao Ren
+%Credits: Code Master>Ryan Toluchanian
+$004325F1 000000FF
++Da Qiao
+%Credits: Code Master>Ryan Toluchanian
+$004325C1 000000FF
++Dian Wei
+%Credits: Code Master>Ryan Toluchanian
+$004322A9 000000FF
++Diao Chan
+%Credits: Code Master>Ryan Toluchanian
+$00432321 000000FF
++Dong Zhuo
+%Credits: Code Master>Ryan Toluchanian
+$004323E1 000000FF
++Gan Ning
+%Credits: Code Master>Ryan Toluchanian
+$004324A1 000000FF
++Guan Yu
+%Credits: Code Master>Ryan Toluchanian
+$00432261 000000FF
++Huang Gai
+%Credits: Code Master>Ryan Toluchanian
+$00432531 000000FF
++Huang Zhong
+%Credits: Code Master>Ryan Toluchanian
+$00432429 000000FF
++Jiang Wei
+%Credits: Code Master>Ryan Toluchanian
+$004324B9 000000FF
++Liu Bei
+%Credits: Code Master>Ryan Toluchanian
+$00432399 000000FF
++Lu Bu
+%Credits: Code Master>Ryan Toluchanian
+$00432369 000000FF
++Lu Meng
+%Credits: Code Master>Ryan Toluchanian
+$00432489 000000FF
++Lu Xun
+%Credits: Code Master>Ryan Toluchanian
+$004322F1 000000FF
++Ma Chao
+%Credits: Code Master>Ryan Toluchanian
+$00432411 000000FF
++Meng Huo
+%Credits: Code Master>Ryan Toluchanian
+$00432591 000000FF
++Pang Tong
+%Credits: Code Master>Ryan Toluchanian
+$00432579 000000FF
++Sim Yi
+%Credits: Code Master>Ryan Toluchanian
+$00432471 000000FF
++Sun Ce
+%Credits: Code Master>Ryan Toluchanian
+$00432549 000000FF
++Sun Jian
+%Credits: Code Master>Ryan Toluchanian
+$004323B1 000000FF
++Sun Quan
+%Credits: Code Master>Ryan Toluchanian
+$004323C9 000000FF
++Sun Shang Xiang
+%Credits: Code Master>Ryan Toluchanian
+$00432381 000000FF
++Taishi Ci
+%Credits: Code Master>Ryan Toluchanian
+$00432309 000000FF
++Wei Yan
+%Credits: Code Master>Ryan Toluchanian
+$00432561 000000FF
++Xiahou Dun
+%Credits: Code Master>Ryan Toluchanian
+$00432291 000000FF
++Xiahou Yuan
+%Credits: Code Master>Ryan Toluchanian
+$00432441 000000FF
++Xiao Qiao
+%Credits: Code Master>Ryan Toluchanian
+$004325D9 000000FF
++Xu Huang
+%Credits: Code Master>Ryan Toluchanian
+$004324E9 000000FF
++Xu Zhu
+%Credits: Code Master>Ryan Toluchanian
+$004322C1 000000FF
++Yuan Shao
+%Credits: Code Master>Ryan Toluchanian
+$004323F9 000000FF
++Yue Ying
+%Credits: Code Master>Ryan Toluchanian
+$00432621 000000FF
++Zhang Fei
+%Credits: Code Master>Ryan Toluchanian
+$00432279 000000FF
++Zhang He
+%Credits: Code Master>Ryan Toluchanian
+$00432501 000000FF
++Zhang Jiao
+%Credits: Code Master>Ryan Toluchanian
+$004324D1 000000FF
++Zhang Liao
+%Credits: Code Master>Ryan Toluchanian
+$00432459 000000FF
++Zhao Yun
+%Credits: Code Master>Ryan Toluchanian
+$00432249 000000FF
++Zhen Ji-Wei
+%Credits: Code Master>Ryan Toluchanian
+$00432519 000000FF
++Zhou Tai
+%Credits: Code Master>Ryan Toluchanian
+$00432609 000000FF
++Zhou Yu
+%Credits: Code Master>Ryan Toluchanian
+$004322D9 000000FF
++Zhu Rong
+%Credits: Code Master>Ryan Toluchanian
+$004325A9 000000FF
++Zhuge Liang
+%Credits: Code Master>Ryan Toluchanian
+$00432339 000000FF
+!!
+!Character Max Musou Codes:
++Cao Cao
+%Credits: Code Master>Ryan Toluchanian
+$00432352 000000FF
++Cao Ren
+%Credits: Code Master>Ryan Toluchanian
+$004325F2 000000FF
++Da Qiao
+%Credits: Code Master>Ryan Toluchanian
+$004325C2 000000FF
++Dian Wei
+%Credits: Code Master>Ryan Toluchanian
+$004322AA 000000FF
++Diao Chan
+%Credits: Code Master>Ryan Toluchanian
+$00432322 000000FF
++Dong Zhuo
+%Credits: Code Master>Ryan Toluchanian
+$004323E2 000000FF
++Gan Ning
+%Credits: Code Master>Ryan Toluchanian
+$004324A2 000000FF
++Guan Yu
+%Credits: Code Master>Ryan Toluchanian
+$00432262 000000FF
++Huang Gai
+%Credits: Code Master>Ryan Toluchanian
+$00432532 000000FF
++Huang Zhong
+%Credits: Code Master>Ryan Toluchanian
+$0043242A 000000FF
++Jiang Wei
+%Credits: Code Master>Ryan Toluchanian
+$004324BA 000000FF
++Liu Bei
+%Credits: Code Master>Ryan Toluchanian
+$0043239A 000000FF
++Lu Bu
+%Credits: Code Master>Ryan Toluchanian
+$0043236A 000000FF
++Lu Meng
+%Credits: Code Master>Ryan Toluchanian
+$0043248A 000000FF
++Lu Xun
+%Credits: Code Master>Ryan Toluchanian
+$004322F2 000000FF
++Ma Chao
+%Credits: Code Master>Ryan Toluchanian
+$00432412 000000FF
++Meng Huo
+%Credits: Code Master>Ryan Toluchanian
+$00432592 000000FF
++Pang Tong
+%Credits: Code Master>Ryan Toluchanian
+$0043257A 000000FF
++Sim Yi
+%Credits: Code Master>Ryan Toluchanian
+$00432472 000000FF
++Sun Ce
+%Credits: Code Master>Ryan Toluchanian
+$0043254A 000000FF
++Sun Jian
+%Credits: Code Master>Ryan Toluchanian
+$004323B2 000000FF
++Sun Quan
+%Credits: Code Master>Ryan Toluchanian
+$004323CA 000000FF
++Sun Shang Xiang
+%Credits: Code Master>Ryan Toluchanian
+$00432382 000000FF
++Taishi Ci
+%Credits: Code Master>Ryan Toluchanian
+$0043230A 000000FF
++Wei Yan
+%Credits: Code Master>Ryan Toluchanian
+$00432562 000000FF
++Xiahou Dun
+%Credits: Code Master>Ryan Toluchanian
+$00432292 000000FF
++Xiahou Yuan
+%Credits: Code Master>Ryan Toluchanian
+$00432442 000000FF
++Xiao Qiao
+%Credits: Code Master>Ryan Toluchanian
+$004325DA 000000FF
++Xu Huang
+%Credits: Code Master>Ryan Toluchanian
+$004324EA 000000FF
++Xu Zhu
+%Credits: Code Master>Ryan Toluchanian
+$004322C2 000000FF
++Yuan Shao
+%Credits: Code Master>Ryan Toluchanian
+$004323FA 000000FF
++Yue Ying
+%Credits: Code Master>Ryan Toluchanian
+$00432622 000000FF
++Zhang Fei
+%Credits: Code Master>Ryan Toluchanian
+$0043227A 000000FF
++Zhang He
+%Credits: Code Master>Ryan Toluchanian
+$00432502 000000FF
++Zhang Jiao
+%Credits: Code Master>Ryan Toluchanian
+$004324D2 000000FF
++Zhang Liao
+%Credits: Code Master>Ryan Toluchanian
+$0043245A 000000FF
++Zhao Yun
+%Credits: Code Master>Ryan Toluchanian
+$0043224A 000000FF
++Zhen Ji-Wei
+%Credits: Code Master>Ryan Toluchanian
+$0043251A 000000FF
++Zhou Tai
+%Credits: Code Master>Ryan Toluchanian
+$0043260A 000000FF
++Zhou Yu
+%Credits: Code Master>Ryan Toluchanian
+$004322DA 000000FF
++Zhu Rong
+%Credits: Code Master>Ryan Toluchanian
+$004325AA 000000FF
++Zhuge Liang
+%Credits: Code Master>Ryan Toluchanian
+$0043233A 000000FF
+!!
+!Character Max Points/Rank Codes:
++Cao Cao
+%Credits: Code Master>Ryan Toluchanian
+$20432360 0001869F
++Cao Ren
+%Credits: Code Master>Ryan Toluchanian
+$20432600 0001869F
++Da Qiao
+%Credits: Code Master>Ryan Toluchanian
+$204325D0 0001869F
++Dian Wei
+%Credits: Code Master>Ryan Toluchanian
+$204322B8 0001869F
++Diao Chan
+%Credits: Code Master>Ryan Toluchanian
+$20432330 0001869F
++Dong Zhuo
+%Credits: Code Master>Ryan Toluchanian
+$204323F0 0001869F
++Gan Ning
+%Credits: Code Master>Ryan Toluchanian
+$204324B0 0001869F
++Guan Yu
+%Credits: Code Master>Ryan Toluchanian
+$20432270 0001869F
++Huang Gai
+%Credits: Code Master>Ryan Toluchanian
+$20432540 0001869F
++Huang Zhong
+%Credits: Code Master>Ryan Toluchanian
+$20432438 0001869F
++Jiang Wei
+%Credits: Code Master>Ryan Toluchanian
+$204324C8 0001869F
++Liu Bei
+%Credits: Code Master>Ryan Toluchanian
+$204323A8 0001869F
++Lu Bu
+%Credits: Code Master>Ryan Toluchanian
+$20432378 0001869F
++Lu Meng
+%Credits: Code Master>Ryan Toluchanian
+$20432498 0001869F
++Lu Xun
+%Credits: Code Master>Ryan Toluchanian
+$20432300 0001869F
++Ma Chao
+%Credits: Code Master>Ryan Toluchanian
+$20432420 0001869F
++Meng Huo
+%Credits: Code Master>Ryan Toluchanian
+$204325A0 0001869F
++Pang Tong
+%Credits: Code Master>Ryan Toluchanian
+$20432588 0001869F
++Sim Yi
+%Credits: Code Master>Ryan Toluchanian
+$20432480 0001869F
++Sun Ce
+%Credits: Code Master>Ryan Toluchanian
+$20432558 0001869F
++Sun Jian
+%Credits: Code Master>Ryan Toluchanian
+$204323C0 0001869F
++Sun Quan
+%Credits: Code Master>Ryan Toluchanian
+$204323D8 0001869F
++Sun Shang Xiang
+%Credits: Code Master>Ryan Toluchanian
+$20432390 0001869F
++Taishi Ci
+%Credits: Code Master>Ryan Toluchanian
+$20432318 0001869F
++Wei Yan
+%Credits: Code Master>Ryan Toluchanian
+$20432570 0001869F
++Xiahou Dun
+%Credits: Code Master>Ryan Toluchanian
+$204322A0 0001869F
++Xiahou Yuan
+%Credits: Code Master>Ryan Toluchanian
+$20432450 0001869F
++Xiao Qiao
+%Credits: Code Master>Ryan Toluchanian
+$204325E8 0001869F
++Xu Huang
+%Credits: Code Master>Ryan Toluchanian
+$204324F8 0001869F
++Xu Zhu
+%Credits: Code Master>Ryan Toluchanian
+$204322D0 0001869F
++Yuan Shao
+%Credits: Code Master>Ryan Toluchanian
+$20432408 0001869F
++Yue Ying
+%Credits: Code Master>Ryan Toluchanian
+$20432630 0001869F
++Zhang Fei
+%Credits: Code Master>Ryan Toluchanian
+$20432288 0001869F
++Zhang He
+%Credits: Code Master>Ryan Toluchanian
+$20432510 0001869F
++Zhang Jiao
+%Credits: Code Master>Ryan Toluchanian
+$204324E0 0001869F
++Zhang Liao
+%Credits: Code Master>Ryan Toluchanian
+$20432468 0001869F
++Zhao Yun
+%Credits: Code Master>Ryan Toluchanian
+$20432258 0001869F
++Zhen Ji-Wei
+%Credits: Code Master>Ryan Toluchanian
+$20432528 0001869F
++Zhou Tai
+%Credits: Code Master>Ryan Toluchanian
+$20432618 0001869F
++Zhou Yu
+%Credits: Code Master>Ryan Toluchanian
+$204322E8 0001869F
++Zhu Rong
+%Credits: Code Master>Ryan Toluchanian
+$204325B8 0001869F
++Zhuge Liang
+%Credits: Code Master>Ryan Toluchanian
+$20432348 0001869F
+!!
+!Character Max Special Item Slots Open:
++Cao Cao {<I>These Codes Modify Equipment In Each Character&#39;S Equipment Slots. You Can Still Remove Or Change The Items. You Can Put Special Items In A Slot Designated For An Orb Or Harness &Amp; Still Get The Effect Of That Item. You Can Also Do The Same Thing by putting an orb or a harness in one of the special item slots. Its even possible to have two or more different orbs, with elemental effects added to your weapons, however you may not see multiple effects at once. At one point, you might see a fiery effect &amp; at another, you might see a poison effect (depending on what you choose). Putting two or more harnesses in won&#39;t affect things any.<br>Values -<br>00 - Peacock Urn<br>01 - Dragon Amulet<br>02 - Tiger Amulet<br>03 - Tortoise Amulet<br>04 - Speed Scroll<br>05 - Wing Boots<br>06 - Huang&#39;s Bow<br>07 - Nanman Armor<br>08 - Horned Helm<br>09 - Cavalry Armor<br>0A - Seven Star Sash<br>0B - Elixir<br>0C - Herbal Remedy<br>0D - Fire Orb<br>0E - Lightning Orb<br>0F - Vorpal Orb<br>10 - Ice Orb<br>11 - Blast Orb<br>12 - Poison Orb<br>13 - Red Hare Harness<br>14 - Hex Mark Harness<br>15 - Storm Harness<br>16 - Shadow Harness<br>17 - Elephant Harness<br>18 - Art Of War<br>19 - Survival Guide<br>1A - Bodyguard Manual<br>1B - Way Of Musou<br>1C - Power Scroll<br>1D - Wind Scroll<br>1E - Fire Arrows<br>1F - Charge Bracer</i>}
+%Credits: BigBossman
+$00432356 00000006
++Cao Ren
+%Credits: BigBossman
+$004325F6 00000006
++Da Qiao
+%Credits: BigBossman
+$004325C6 00000006
++Dian Wei
+%Credits: BigBossman
+$004322AE 00000006
++Diao Chan
+%Credits: BigBossman
+$00432326 00000006
++Dong Zhuo
+%Credits: BigBossman
+$004323E6 00000006
++Edit 1
+%Credits: BigBossman
+$0043263E 00000006
++Edit 2
+%Credits: BigBossman
+$00432656 00000006
++Edit 3
+%Credits: BigBossman
+$0043266E 00000006
++Edit 4
+%Credits: BigBossman
+$00432686 00000006
++Gan Ning
+%Credits: BigBossman
+$004324A6 00000006
++Guan Yu
+%Credits: BigBossman
+$00432266 00000006
++Huang Gai
+%Credits: BigBossman
+$00432536 00000006
++Huang Zhong
+%Credits: BigBossman
+$0043242E 00000006
++Jiang Wei
+%Credits: BigBossman
+$004324BE 00000006
++Liu Bei
+%Credits: BigBossman
+$0043239E 00000006
++Lu Bu
+%Credits: BigBossman
+$0043236E 00000006
++Lu Meng
+%Credits: BigBossman
+$0043248E 00000006
++Lu Xun
+%Credits: BigBossman
+$004322F6 00000006
++Ma Chao
+%Credits: BigBossman
+$00432416 00000006
++Meng Huo
+%Credits: BigBossman
+$00432596 00000006
++Pang Tong
+%Credits: BigBossman
+$0043257E 00000006
++Sim Yi
+%Credits: BigBossman
+$00432476 00000006
++Sun Ce
+%Credits: BigBossman
+$0043254E 00000006
++Sun Jian
+%Credits: BigBossman
+$004323B6 00000006
++Sun Quan
+%Credits: BigBossman
+$004323CE 00000006
++Sun Shang Xiang
+%Credits: BigBossman
+$00432386 00000006
++Taishi Ci
+%Credits: BigBossman
+$0043230E 00000006
++Wei Yan
+%Credits: BigBossman
+$00432566 00000006
++Xiahou Dun
+%Credits: BigBossman
+$00432296 00000006
++Xiahou Yuan
+%Credits: BigBossman
+$00432446 00000006
++Xiao Qiao
+%Credits: BigBossman
+$004325DE 00000006
++Xu Huang
+%Credits: BigBossman
+$004324EE 00000006
++Xu Zhu
+%Credits: BigBossman
+$004322C6 00000006
++Yuan Shao
+%Credits: BigBossman
+$004323FE 00000006
++Yue Ying
+%Credits: BigBossman
+$00432626 00000006
++Zhang Fei
+%Credits: BigBossman
+$0043227E 00000006
++Zhang He
+%Credits: BigBossman
+$00432506 00000006
++Zhang Jiao
+%Credits: BigBossman
+$004324D6 00000006
++Zhang Liao
+%Credits: BigBossman
+$0043245E 00000006
++Zhao Yun
+%Credits: BigBossman
+$0043224E 00000006
++Zhen Ji-Wei
+%Credits: BigBossman
+$0043251E 00000006
++Zhou Tai
+%Credits: BigBossman
+$0043260E 00000006
++Zhou Yu
+%Credits: BigBossman
+$004322DE 00000006
++Zhu Rong
+%Credits: BigBossman
+$004325AE 00000006
++Zhuge Liang
+%Credits: BigBossman
+$0043233E 00000006
+!!
+!Character Max Weapon Exp Codes:
++Cao Cao
+%Credits: Code Master>Ryan Toluchanian
+$1043293E 0000FFFF
++Cao Ren
+%Credits: Code Master>Ryan Toluchanian
+$10432976 0000FFFF
++Da Qiao
+%Credits: Code Master>Ryan Toluchanian
+$10432972 0000FFFF
++Dian Wei
+%Credits: Code Master>Ryan Toluchanian
+$10432930 0000FFFF
++Diao Chan
+%Credits: Code Master>Ryan Toluchanian
+$1043293A 0000FFFF
++Dong Zhuo
+%Credits: Code Master>Ryan Toluchanian
+$1043294A 0000FFFF
++Edit 1
+%Credits: Code Master>Ryan Toluchanian
+$1043297C 0000FFFF
++Edit 2
+%Credits: Code Master>Ryan Toluchanian
+$1043297E 0000FFFF
++Edit 3
+%Credits: Code Master>Ryan Toluchanian
+$10432980 0000FFFF
++Edit 4
+%Credits: Code Master>Ryan Toluchanian
+$10432982 0000FFFF
++Edit 5
+%Credits: Code Master>Ryan Toluchanian
+$10432984 0000FFFF
++Gan Ning
+%Credits: Code Master>Ryan Toluchanian
+$1043295A 0000FFFF
++Guan Yu
+%Credits: Code Master>Ryan Toluchanian
+$1043292A 0000FFFF
++Huang Gai
+%Credits: Code Master>Ryan Toluchanian
+$10432966 0000FFFF
++Huang Zhong
+%Credits: Code Master>Ryan Toluchanian
+$10432950 0000FFFF
++Jiang Wei
+%Credits: Code Master>Ryan Toluchanian
+$1043295C 0000FFFF
++Liu Bei
+%Credits: Code Master>Ryan Toluchanian
+$10432944 0000FFFF
++Lu Bu
+%Credits: Code Master>Ryan Toluchanian
+$10432940 0000FFFF
++Lu Meng
+%Credits: Code Master>Ryan Toluchanian
+$10432958 0000FFFF
++Lu Xun
+%Credits: Code Master>Ryan Toluchanian
+$10432936 0000FFFF
++Ma Chao
+%Credits: Code Master>Ryan Toluchanian
+$1043294E 0000FFFF
++Meng Huo
+%Credits: Code Master>Ryan Toluchanian
+$1043296E 0000FFFF
++Pang Tong
+%Credits: Code Master>Ryan Toluchanian
+$1043296C 0000FFFF
++Sim Yi
+%Credits: Code Master>Ryan Toluchanian
+$10432956 0000FFFF
++Sun Ce
+%Credits: Code Master>Ryan Toluchanian
+$10432968 0000FFFF
++Sun Jian
+%Credits: Code Master>Ryan Toluchanian
+$10432946 0000FFFF
++Sun Quan
+%Credits: Code Master>Ryan Toluchanian
+$10432948 0000FFFF
++Sun Shang Xiang
+%Credits: Code Master>Ryan Toluchanian
+$10432942 0000FFFF
++Taishi Ci
+%Credits: Code Master>Ryan Toluchanian
+$10432938 0000FFFF
++Wei Yan
+%Credits: Code Master>Ryan Toluchanian
+$1043296A 0000FFFF
++Xiahou Dun
+%Credits: Code Master>Ryan Toluchanian
+$1043292E 0000FFFF
++Xiahou Yuan
+%Credits: Code Master>Ryan Toluchanian
+$10432952 0000FFFF
++Xiao Qiao
+%Credits: Code Master>Ryan Toluchanian
+$10432974 0000FFFF
++Xu Huang
+%Credits: Code Master>Ryan Toluchanian
+$10432960 0000FFFF
++Xu Zhu
+%Credits: Code Master>Ryan Toluchanian
+$10432932 0000FFFF
++Yuan Shao
+%Credits: Code Master>Ryan Toluchanian
+$1043294C 0000FFFF
++Yue Ying
+%Credits: Code Master>Ryan Toluchanian
+$1043297A 0000FFFF
++Zhang Fei
+%Credits: Code Master>Ryan Toluchanian
+$1043292C 0000FFFF
++Zhang He
+%Credits: Code Master>Ryan Toluchanian
+$10432962 0000FFFF
++Zhang Jiao
+%Credits: Code Master>Ryan Toluchanian
+$1043295E 0000FFFF
++Zhang Liao
+%Credits: Code Master>Ryan Toluchanian
+$10432954 0000FFFF
++Zhao Yun
+%Credits: Code Master>Ryan Toluchanian
+$10432928 0000FFFF
++Zhen Ji-Wei
+%Credits: Code Master>Ryan Toluchanian
+$10432964 0000FFFF
++Zhou Tai
+%Credits: Code Master>Ryan Toluchanian
+$10432978 0000FFFF
++Zhou Yu
+%Credits: Code Master>Ryan Toluchanian
+$10432934 0000FFFF
++Zhu Rong
+%Credits: Code Master>Ryan Toluchanian
+$10432970 0000FFFF
++Zhuge Liang
+%Credits: Code Master>Ryan Toluchanian
+$1043293C 0000FFFF
+!!
+!Character Points Codes:
++Bodyguard 1
+%Credits: Codejunkies
+$10432648 0000FDE8
++Bodyguard 2
+%Credits: Codejunkies
+$10432660 0000FDE8
++Bodyguard 3
+%Credits: Codejunkies
+$10432678 0000FDE8
++Bodyguard 4
+%Credits: Codejunkies
+$10432690 0000FDE8
++Cao Cao
+%Credits: Codejunkies
+$10432360 0000FDE8
++Cao Ren
+%Credits: Codejunkies
+$10432600 0000FDE8
++Da Qiao
+%Credits: Codejunkies
+$104325D0 0000FDE8
++Dian Wei
+%Credits: Codejunkies
+$104322B8 0000FDE8
++Diao Chan
+%Credits: Codejunkies
+$10432330 0000FDE8
++Dong Zhuo
+%Credits: Codejunkies
+$104323F0 0000FDE8
++Gan Ning
+%Credits: Codejunkies
+$104324B0 0000FDE8
++Guan Yu
+%Credits: Codejunkies
+$10432270 0000FDE8
++Huang Gai
+%Credits: Codejunkies
+$10432540 0000FDE8
++Huang Zhong
+%Credits: Codejunkies
+$10432438 0000FDE8
++Jiang Wei
+%Credits: Codejunkies
+$104324C8 0000FDE8
++Liu Bei
+%Credits: Codejunkies
+$104323A8 0000FDE8
++Lu Bu
+%Credits: Codejunkies
+$10432378 0000FDE8
++Lu Meng
+%Credits: Codejunkies
+$10432498 0000FDE8
++Lu Xun
+%Credits: Codejunkies
+$10432300 0000FDE8
++Ma Chao
+%Credits: Codejunkies
+$10432420 0000FDE8
++Meng Huo
+%Credits: Codejunkies
+$104325A0 0000FDE8
++Pang Tong
+%Credits: Codejunkies
+$10432588 0000FDE8
++Sima Yi
+%Credits: Codejunkies
+$10432480 0000FDE8
++Sun Ce
+%Credits: Codejunkies
+$10432558 0000FDE8
++Sun Jian
+%Credits: Codejunkies
+$104323C0 0000FDE8
++Sun Quan
+%Credits: Codejunkies
+$104323D8 0000FDE8
++Sun Shang Xiang
+%Credits: Codejunkies
+$10432390 0000FDE8
++Taishi Ci
+%Credits: Codejunkies
+$10432318 0000FDE8
++Wei Yan
+%Credits: Codejunkies
+$10432570 0000FDE8
++Xiahou Dun
+%Credits: Codejunkies
+$104322A0 0000FDE8
++Xiahou Yuan
+%Credits: Codejunkies
+$10432450 0000FDE8
++Xiao Qiao
+%Credits: Codejunkies
+$104325E8 0000FDE8
++Xu Huang
+%Credits: Codejunkies
+$104324F8 0000FDE8
++Xu Zhu
+%Credits: Codejunkies
+$104322D0 0000FDE8
++Yuan Shao
+%Credits: Codejunkies
+$10432408 0000FDE8
++Yue Ying
+%Credits: Codejunkies
+$10432630 0000FDE8
++Zhang Fei
+%Credits: Codejunkies
+$10432288 0000FDE8
++Zhang He
+%Credits: Codejunkies
+$10432510 0000FDE8
++Zhang Jiao
+%Credits: Codejunkies
+$104324E0 0000FDE8
++Zhang Liao
+%Credits: Codejunkies
+$10432468 0000FDE8
++Zhao Yun
+%Credits: Codejunkies
+$10432258 0000FDE8
++Zhen Ji
+%Credits: Codejunkies
+$10432528 0000FDE8
++Zhou Tai
+%Credits: Codejunkies
+$10432618 0000FDE8
++Zhou Yu
+%Credits: Codejunkies
+$104322E8 0000FDE8
++Zhu Rong
+%Credits: Codejunkies
+$104325B8 0000FDE8
++Zhuge Liang
+%Credits: Codejunkies
+$10432348 0000FDE8
+!!
+!Enable Characters:
++Bodyguard 1
+%Credits: Codejunkies
+$00432638 00000001
++Bodyguard 2
+%Credits: Codejunkies
+$00432650 00000001
++Bodyguard 3
+%Credits: Codejunkies
+$00432668 00000001
++Bodyguard 4
+%Credits: Codejunkies
+$00432680 00000001
++Cao Cao
+%Credits: Codejunkies
+$00432350 00000001
++Cao Ren
+%Credits: Codejunkies
+$004325F0 00000001
++Da Qiao
+%Credits: Codejunkies
+$004325C0 00000001
++Dian Wei
+%Credits: Codejunkies
+$004322A8 00000001
++Diao Chan
+%Credits: Codejunkies
+$00432320 00000001
++Dong Zhuo
+%Credits: Codejunkies
+$004323E0 00000001
++Gan Ning
+%Credits: Codejunkies
+$004324A0 00000001
++Guan Yu
+%Credits: Codejunkies
+$00432260 00000001
++Huang Gai
+%Credits: Codejunkies
+$00432530 00000001
++Huang Zhong
+%Credits: Codejunkies
+$00432428 00000001
++Jiang Wei
+%Credits: Codejunkies
+$004324B8 00000001
++Liu Bei
+%Credits: Codejunkies
+$00432398 00000001
++Lu Bu
+%Credits: Codejunkies
+$00432368 00000001
++Lu Meng
+%Credits: Codejunkies
+$00432488 00000001
++Lu Xun
+%Credits: Codejunkies
+$004322F0 00000001
++Ma Chao
+%Credits: Codejunkies
+$00432410 00000001
++Meng Huo
+%Credits: Codejunkies
+$00432590 00000001
++Pang Tong
+%Credits: Codejunkies
+$00432578 00000001
++Sima Yi
+%Credits: Codejunkies
+$00432470 00000001
++Sun Ce
+%Credits: Codejunkies
+$00432548 00000001
++Sun Jian
+%Credits: Codejunkies
+$004323B0 00000001
++Sun Quan
+%Credits: Codejunkies
+$004323C8 00000001
++Sun Shang Xiang
+%Credits: Codejunkies
+$00432380 00000001
++Taishi Ci
+%Credits: Codejunkies
+$00432308 00000001
++Wei Yan
+%Credits: Codejunkies
+$00432560 00000001
++Xiahou Dun
+%Credits: Codejunkies
+$00432290 00000001
++Xiahou Yuan
+%Credits: Codejunkies
+$00432440 00000001
++Xiao Qiao
+%Credits: Codejunkies
+$004325D8 00000001
++Xu Huang
+%Credits: Codejunkies
+$004324E8 00000001
++Xu Zhu
+%Credits: Codejunkies
+$004322C0 00000001
++Yuan Shao
+%Credits: Codejunkies
+$004323F8 00000001
++Yue Ying
+%Credits: Codejunkies
+$00432620 00000001
++Zhang Fei
+%Credits: Codejunkies
+$00432278 00000001
++Zhang He
+%Credits: Codejunkies
+$00432500 00000001
++Zhang Jiao
+%Credits: Codejunkies
+$004324D0 00000001
++Zhang Liao
+%Credits: Codejunkies
+$00432458 00000001
++Zhao Yun
+%Credits: Codejunkies
+$00432248 00000001
++Zhen Ji
+%Credits: Codejunkies
+$00432518 00000001
++Zhou Tai
+%Credits: Codejunkies
+$00432608 00000001
++Zhou Yu
+%Credits: Codejunkies
+$004322D8 00000001
++Zhu Rong
+%Credits: Codejunkies
+$004325A8 00000001
++Zhuge Liang
+%Credits: Codejunkies
+$00432338 00000001
+!!
++Health Bar Name Modifier {<I>Values &Quot;0000&Quot; To &Quot;0027&Quot; Are The Normal Playable Character Names. Values &Quot;0028&Quot; To &Quot;0109&Quot; Are For Other Officers That Make Appearances In The Game On The Battlefield. Values &Quot;0120&Quot; To &Quot;0149&Quot; Are Soldiers&#39; Roles, Ranks, Or Types. Values &Quot;014A To &Quot;0152&Quot; Are Various Objects That Appear In The Game. Values &Quot;160&Quot; To &Quot;0163&Quot; Are The Created Officers, Values &Quot;0164&Quot; To &Quot;0183&Quot; Are Bodyguards From Various Units. Values That I Skipped Over Just Simply Leave A Blank Over The Energy Bar.<Br>Values -<Br>0000 - Zhao Yun<Br>0001 - Guan Yu<Br>0002 - Zhang Fei<Br>0003 - Xiahou Dun<Br>0004 - Dian Wei<Br>0005 - Xu Zhu<Br>0006 - Zhou Yu<Br>0007 - Lu Xun<Br>0008 - Taishi Ci<Br>0009 - Diao Chan<Br>000A - Zhuge Liang<Br>000B - Cao Cao<Br>000C - Lu Bu<Br>000D - Sun Shang Xiang<Br>000E - Liu Bei<Br>000F - Sun Jian<Br>0010 - Sun Quan<Br>0011 - Dong Zhuo<Br>0012 - Yuan Shao<Br>0013 - Ma Chao<Br>0014 - Huang Zhong<Br>0015 - Xiahou Yuan<Br>0016 - Zhang Liao<Br>0017 - Sima Yi<Br>0018 - Lu Meng<Br>0019 - Gan Ning<Br>001A - Jiang Wei<Br>001B - Zhang Jiao<Br>001C - Xu Huang<Br>001D - Zhang He<Br>001E - Zhen Ji<Br>001F - Huang Gai<Br>0020 - Sun Ce<Br>0021 - Wei Yan<Br>0022 - Pang Tong<Br>0023 - Meng Huo<Br>0024 - Zhu Rong<Br>0025 - Da Qiao<Br>0026 - Xiao Qiao<Br>0027 - Cao Ren<Br>0028 - Zhou Tai<Br>0029 - Yue Ying<Br>002A - Ahui Nan<Br>002B - Yin Shang<Br>002C - Yin Li<Br>002D - Yu Jin<Br>002E - Yu Mi<Br>002F - Yuan Yin<Br>0030 - Yuan Xi<Br>0031 - Yuan Shu<Br>0032 - Yuan Shang<Br>0033 - Yuan Tan<Br>0034 - Wang Zhi<Br>0035 - Wang Ping<Br>0036 - Wang Fu<Br>0037 - Wang Fang<Br>0038 - Wang Lang<Br>0039 - Kuai Liang<Br>003A - Jia Kui<Br>003B - He Yi<Br>003C - Jia Xu<Br>003D - Guo Jia<Br>003E - Guo Si<Br>003F - Yue Jiu<Br>0040 - Yue Jin<Br>0041 - Guo Tu<Br>0042 - Xiahou Wei<Br>0043 - Xiahou En<Br>0044 - Xiahou He<Br>0045 - Xiahou Hui<Br>0046 - Xiahou Shang<Br>0047 - Xiahou De<Br>0048 - Xiahou Ba<Br>0049 - He Jin<Br>004A - Hua Xiong<Br>004B - Guan Hai<Br>004C - Han Xuan<Br>004D - Guan Xing<Br>004E - Han Hao<Br>004F - Guan Suo<Br>0050 - Han Sui<Br>0051 - Han Xian<Br>0052 - Han Dang<Br>0053 - Han Fu<Br>0054 - Guan Ping<Br>0055 - Han Meng<Br>0056 - Jian Yong<Br>0057 - Yan Liang<Br>0058 - Wei Xu<Br>0059 - Niou Fu<Br>005A - Gong Zhi<Br>005B - Ji Ling<Br>005C - Jinhaun Sanjie<Br>005D - Jin Xuan<Br>005E - Xing Daorong<Br>005F - Yan Yan<Br>0060 - Yan Zheng<Br>0061 - Yan Baihu<Br>0062 - Yan Yu<Br>0063 - Gao Gan<Br>0064 - Kong Xiu<Br>0065 - Gao Shun<Br>0066 - Huang Shao<Br>0067 - Gao Sheng<Br>0068 - Gao Xiang<Br>0069 - Hou Cheng<Br>006A - Hou Xuan<Br>006B - Huang Zu<Br>006C - Gongsun Zan<Br>006D - Gao Ding<Br>006E - Gao Pei<Br>006F - Huangfu Song<Br>0070 - Gao Lan<Br>0071 - Hu Zhi<Br>0072 - Hu Che Er<Br>0073 - Hu Zhen<Br>0074 - Wu Tugu<Br>0075 - Hu Ban<Br>0076 - Wu Lan<Br>0077 - Cai Mao<Br>0078 - Sima Zhao<Br>0079 - Sha Moke<Br>007A - Zhou Xin<Br>007B - Zhou Cang<Br>007C - Zhou Fang<Br>007D - Zhu Huan<Br>007E - Zhu Jun<Br>007F - Zhu Ran<Br>0080 - Zhu Zhi<Br>0081 - Zhu Bao<Br>0082 - Zhu Ling<Br>0083 - Xun Yu<Br>0084 - Chunyu Qiong<Br>0085 - Xun Chen<Br>0086 - Xun You<Br>0087 - Jiang Qin<Br>0088 - Xu Rong<Br>0089 - Zhuge Jin<Br>008A - Xu Shu<Br>008B - Xu Sheng<Br>008C - Qin Qi<Br>008D - Shen Pei<Br>008E - Xin Pi<Br>008F - Xin Ping<Br>0090 - Cheng Yi<Br>0091 - Xue Li<Br>0092 - Quan Zong<Br>0093 - Cao An Min<Br>0094 - Cao Xiu<Br>0095 - Song Xian<Br>0096 - Cao Ang<Br>0097 - Cao Hong<Br>0098 - Cao Zhang<Br>0099 - Cao Zhen<Br>009A - Zang Ba<Br>009B - Cao Pi<Br>009C - Ju Shou<Br>009D - Sun Qian<Br>009E - Sun Shao<Br>009F - Dailai Dongzhu<Br>00A0 - King Duosi<Br>00A1 - Zhang Ying<Br>00A2 - Zhang Hu<Br>00A3 - Zhang Ji<Br>00A4 - Zhang Xiu<Br>00A5 - Zhang Cheng<Br>00A6 - Zhao Cen<Br>00A7 - Zhang Ren<Br>00A8 - Zhao Fan<Br>00A9 - Zhang Pu<Br>00AA - Zhang Bao<Br>00AB - Zhang Bao (Duplicate)<Br>00AC - Zhangmancheng<Br>00AD - Zhang Yi<Br>00AE - Zhang Liang<Br>00AF - Zhang Lu<Br>00B0 - Chen Ying<Br>00B1 - Chen Heng<Br>00B2 - Chen Ji<Br>00B3 - Chen Gong<Br>00B4 - Chen Jiu<Br>00B5 - Chen Shi<Br>00B6 - Chen Sheng<Br>00B7 - Chen Lan<Br>00B8 - Cheng Yu<Br>00B9 - Cheng Yuanzhi<Br>00BA - Cheng Yin<Br>00BB - Cheng Pu<Br>00BC - Ding Feng<Br>00BD - Tian Feng<Br>00BE - Deng Ai<Br>00BF - Deng Xian<Br>00C0 - Dong Xi<Br>00C1 - Dong Tu Ne<Br>00C2 - Dong Min<Br>00C3 - Deng Mao<Br>00C4 - Deng Long<Br>00C5 - Xiahou Mao<Br>00C6 - Pei Yuan Shao<Br>00C7 - Bo Zhang<Br>00C8 - Ma Zun<Br>00C9 - Ma Su<Br>00CA - Ma Dai<Br>00CB - Ma Liang<Br>00CC - Pan Zhang<Br>00CD - Fan Chou<Br>00CE - Fan Neng<Br>00CF - Fei Guan<Br>00D0 - Mi Zhu<Br>00D1 - Mi Fang<Br>00D2 - Fu Shi Ren<Br>00D3 - Wen Chou<Br>00D4 - Bian Xi<Br>00D5 - Mang Yachang<Br>00D6 - Feng Ji<Br>00D7 - Fa Zheng<Br>00D8 - Pang De<Br>00D9 - Bao Long<Br>00DA - King Mulu<Br>00DB - Man Chong<Br>00DC - Meng Jie<Br>00DD - Meng Da<Br>00DE - Meng You<Br>00DF - Yang Huai<Br>00E0 - Yong Kai<Br>00E1 - Yang Qiu<Br>00E2 - Yang Xiu<Br>00E3 - Yang Feng<Br>00E4 - Yang Feng (Duplicate)<Br>00E5 - Yang Ling<Br>00E6 - Lei Tong<Br>00E7 - Lei Bo<Br>00E8 - Li Jue<Br>00E9 - Li Kan<Br>00EA - Li Yan<Br>00EB - Li Ru<Br>00EC - Li Su<Br>00ED - Li Dian<Br>00EE - Li Feng<Br>00EF - Li Meng<Br>00F0 - Liu Han<Br>00F1 - Liu Qi<Br>00F2 - Liu Xun<Br>00F3 - Liu Xian<Br>00F4 - Liu Xun (Duplicate)<Br>00F5 - Liu Zhang<Br>00F6 - Liu Du<Br>00F7 - Liu Biao<Br>00F8 - Liu Pi<Br>00F9 - Liu Feng<Br>00FA - Liu Yong<Br>00FB - Lu Wei Kuang<Br>00FC - Liao Hua<Br>00FD - Liang Gang<Br>00FE - Liang Xu<Br>00FF - Ling Cao<Br>0100 - Ling Tong<Br>0101 - Lu Gong<Br>0102 - Lu Kuang<Br>0103 - Lu Xiang<Br>0104 - Leng Bao<Br>0105 - Lu Su<Br>0106 - Su Fei<Br>0108 - Lu Kai<Br>0109 - Liu Ye<Br>0120 - Gate Captain<Br>0121 - Supply Captain<Br>0122 - Guard Captain<Br>0123 - Task Leader<Br>0124 - Messenger<Br>0125 - Carriage<Br>0126 - Private<Br>0127 - Corporal<Br>0128 - Sergeant<Br>0129 - Major<Br>012A - Guard<Br>012B - Elite Guard<Br>012C - Archer<Br>012D - First Bow<Br>012E - Crossbow<Br>012F - First Crossbow<Br>0130 - Gate Troop<Br>0131 - Supply Troop<Br>0132 - Lady Guard<Br>0133 - Lady Captain<Br>0134 - Lady Archer<Br>0135 - Lady First Bow<Br>0136 - Task Force<Br>0137 - Bombadier<Br>0138 - Amazon<Br>0139 - Head Amazon<Br>013A - Handmaiden<Br>013B - Peasant<Br>013C - Infantry<Br>013D - Captain<Br>013E - Lieutenant<Br>013F - Archer (Duplicate)<Br>0140 - First Bow (Duplicate)<Br>0141 - Handmaiden (Duplicate)<Br>0142 - Infantry (Duplicate)<Br>0143 - Warrior<Br>0144 - Crossbow (Duplicate)<Br>0145 - First Crossbow (Duplicate)<Br>0146 - Armor Troop<Br>0147 - Armor Captain<Br>0148 - Amazon (Duplicate)<Br>0149 - Head Amazon (Duplicate)<Br>014A - Horse<Br>014B - Elephant<Br>014C - Siege Ramp<Br>014D - Bridgelayer<Br>014E - Catapult<Br>014F - Ram<Br>0150 - Arbalest<Br>0151 - Juggernaut<Br>0152 - Wood Ox<Br>0160 - Created Officer #1<Br>0161 - Created Officer #2<Br>0162 - Created Officer #3<Br>0163 - Created Officer #4<Br>0164 - Body Guard # 1<Br>0165 - Body Guard # 2<Br>0166 - Body Guard # 3<Br>0167 - Body Guard # 4<Br>0168 - Body Guard # 5<Br>0169 - Body Guard # 6<Br>016A - Body Guard # 7<Br>016B - Body Guard # 8<Br>016C - Nobunaga<Br>016D - Sho<Br>016E - Shiga<Br>016F - Jean-Luc<Br>0170 - U-1<Br>0171 - Gawoo<Br>0172 - Leyasu<Br>0173 - Sanzo<Br>0174 - Kevin<Br>0175 - Arnold<Br>0176 - Clint<Br>0177 - Forest<Br>0178 - Nicolas<Br>0179 - Liam<Br>017A - Vigo<Br>017B - Toshiro<Br>017C - Mei<Br>017D - Himiko<Br>017E - Li Li<Br>017F - Mei Mei<Br>0180 - Luo Luo<Br>0181 - Hu Zhi<Br>0182 - Cai<Br>0183 - Sun Li</I>}
+%Credits: BigBossman
+$105FBFE4 000000??
+!Health Codes:
++Bodyguard 1 Infinite Health
+%Credits: Codejunkies
+$1050436C 0000008C
+$1050436E 000008C0
+$10504370 000008C0
++Bodyguard 1 Infinite Musou
+%Credits: Codejunkies
+$10504372 0000008C
+$10504374 000008C0
++Bodyguard 2 Infinite Health
+%Credits: Codejunkies
+$1050458C 0000008C
+$1050458E 000008C0
+$10504590 000008C0
++Bodyguard 2 Infinite Musou
+%Credits: Codejunkies
+$10504592 0000008C
+$10504594 000008C0
++Bodyguard 3 Infinite Health
+%Credits: Codejunkies
+$105047AC 0000008C
+$105047AE 000008C0
+$105047B0 000008C0
++Bodyguard 3 Infinite Musou
+%Credits: Codejunkies
+$105047B2 0000008C
+$105047B4 000008C0
++Bodyguard 4 Infinite Health
+%Credits: Codejunkies
+$105049CC 0000008C
+$105049CE 000008C0
+$105049D0 000008C0
++Bodyguard 4 Infinite Musou
+%Credits: Codejunkies
+$105049D2 0000008C
+$105049D4 000008C0
++Bodyguard 5 Infinite Health
+%Credits: Codejunkies
+$10504BEC 0000008C
+$10504BEE 000008C0
+$10504BF0 000008C0
++Bodyguard 5 Infinite Musou
+%Credits: Codejunkies
+$10504BF2 0000008C
+$10504BF4 000008C0
++Bodyguard 6 Infinite Health
+%Credits: Codejunkies
+$10504E0C 0000008C
+$10504E0E 000008C0
+$10504E10 000008C0
++Bodyguard 6 Infinite Musou
+%Credits: Codejunkies
+$10504E12 0000008C
+$10504E14 000008C0
++Bodyguard 7 Infinite Health
+%Credits: Codejunkies
+$1050502C 0000008C
+$1050502E 000008C0
+$10505030 000008C0
++Bodyguard 7 Infinite Musou
+%Credits: Codejunkies
+$10505032 0000008C
+$10505034 000008C0
++Bodyguard 8 Infinite Health
+%Credits: Codejunkies
+$1050524C 0000008C
+$1050524E 000008C0
+$10505250 000008C0
++Bodyguard 8 Infinite Musou
+%Credits: Codejunkies
+$10505252 0000008C
+$10505254 000008C0
++Infinite Health
+%Credits: Codejunkies
+$1050414C 000000A5
+$1050414E 00000A50
+$10504150 00000A50
++Infinite Musou
+%Credits: Codejunkies
+$10504152 00000087
+$10504154 00000870
++Never Have Above 10% Health
+%Credits: Codejunkies
+$E001000B 3050414C
+$1050414C 0000000B
++Never Have Above 25% Health
+%Credits: Codejunkies
+$E0010029 3050414C
+$1050414C 00000029
++Never Have Above 50% Health
+%Credits: Codejunkies
+$E0010052 3050414C
+$1050414C 00000052
+!!
++Infinite Arrows (Player 2)
+%Credits: InterAct
+$104AEAA0 00000063
++Infinite Life (Player 1)
+%Credits: InterAct
+$1050414E 00001B00
+$1050414C 000001B0
++Infinite Life (Player 2)
+%Credits: InterAct
+$105047AE 00001B00
+$105047AC 000001B0
++Infinite Max Knockout Count (Player 2)
+%Credits: InterAct
+$1043C18A 0000270F
++Infinite Musou (Player 1)
+%Credits: InterAct
+$10504154 00000C00
+$10504152 000000C0
++Infinite Musou (Player 2)
+%Credits: InterAct
+$105047B4 00000C00
+$105047B2 000000C0
+!Item Codes:
++7 Star Sash 20
+%Credits: Codejunkies
+$00432990 00000013
++Art Of War
+%Credits: Codejunkies
+$0043299E 00000000
++Blast Orb 4
+%Credits: Codejunkies
+$00432997 00000003
++Bodyguard Manual
+%Credits: Codejunkies
+$004329A0 00000000
++Cavalry Armor 20
+%Credits: Codejunkies
+$0043298F 00000013
++Charge Bracer
+%Credits: Codejunkies
+$004329A5 00000000
++Dragon Amulet 20
+%Credits: Codejunkies
+$00432987 00000013
++Elephant Harness
+%Credits: Codejunkies
+$0043299D 00000000
++Elixir 20
+%Credits: Codejunkies
+$00432991 00000013
++Fire Arrows
+%Credits: Codejunkies
+$004329A4 00000000
++Fire Orb 4
+%Credits: Codejunkies
+$00432993 00000003
++Have All Items
+%Credits: InterAct
+$10432986 00006262
+$40432988 00070001
+$62626262 00000000
+$104329A4 00006262
++Have Harnesses: Hex Mark Harness
+%Credits: InterAct
+$0043299A 00000000
++Have Harnesses: Red Hare Harness
+%Credits: InterAct
+$00432999 00000000
++Have Harnesses: Shadow Harness
+%Credits: InterAct
+$0043299C 00000000
++Have Harnesses: Storm Harness
+%Credits: InterAct
+$0043299B 00000000
++Have Orbs: Blast Orb
+%Credits: InterAct
+$00432997 00000062
++Have Orbs: Fire Orb
+%Credits: InterAct
+$00432993 00000062
++Have Orbs: Ice Orb
+%Credits: InterAct
+$00432996 00000062
++Have Orbs: Lightning Orb
+%Credits: InterAct
+$00432994 00000062
++Have Orbs: Poison Orb
+%Credits: InterAct
+$00432998 00000062
++Have Orbs: Vorpal Orb
+%Credits: InterAct
+$00432995 00000062
++Have Special Items: Cavalry Armor
+%Credits: InterAct
+$0043298F 00000062
++Have Special Items: Dragon Amulet
+%Credits: InterAct
+$00432987 00000062
++Have Special Items: Elixir
+%Credits: InterAct
+$00432991 00000062
++Have Special Items: Herbal Remedy
+%Credits: InterAct
+$00432992 00000062
++Have Special Items: Horned Helm
+%Credits: InterAct
+$0043298E 00000062
++Have Special Items: Huang's Bow
+%Credits: InterAct
+$0043298C 00000062
++Have Special Items: Nanman Armor
+%Credits: InterAct
+$0043298D 00000062
++Have Special Items: Peacock Urn
+%Credits: InterAct
+$00432986 00000062
++Have Special Items: Power Scroll
+%Credits: InterAct
+$004329A2 00000000
++Have Special Items: Seven Star Sash
+%Credits: InterAct
+$00432990 00000062
++Have Special Items: Speed Scroll
+%Credits: InterAct
+$0043298A 00000062
++Have Special Items: Survival Guide
+%Credits: InterAct
+$0043299F 00000000
++Have Special Items: Tiger Amulet
+%Credits: InterAct
+$00432988 00000062
++Have Special Items: Tortoise Amulet
+%Credits: InterAct
+$00432989 00000062
++Have Special Items: Way Of Musou
+%Credits: InterAct
+$004329A1 00000000
++Have Special Items: Wind Scroll
+%Credits: InterAct
+$004329A3 00000000
++Have Special Items: Wing Boots
+%Credits: InterAct
+$0043298B 00000062
++Herbal Remedy 20
+%Credits: Codejunkies
+$00432992 00000013
++Horned Helm 20
+%Credits: Codejunkies
+$0043298E 00000013
++Huang's Bow 20
+%Credits: Codejunkies
+$0043298C 00000013
++Ice Orb 4
+%Credits: Codejunkies
+$00432996 00000003
++Lightning Orb 4
+%Credits: Codejunkies
+$00432994 00000003
++Nanman Armor 20
+%Credits: Codejunkies
+$0043298D 00000013
++Peacock Urn 20
+%Credits: Codejunkies
+$00432986 00000013
++Poison Orb 4
+%Credits: Codejunkies
+$00432998 00000003
++Speed Scroll 20
+%Credits: Codejunkies
+$0043298A 00000013
++Tiger Amulet 20
+%Credits: Codejunkies
+$00432988 00000013
++Tortoise Amulet 20
+%Credits: Codejunkies
+$00432989 00000013
++Vorpal Orb 4
+%Credits: Codejunkies
+$00432995 00000003
++Wing Boots 20
+%Credits: Codejunkies
+$0043298B 00000013
+!!
+!Max Attributes Codes:
++(Zhang Jiao)
+%Credits: InterAct
+$004324D6 000000FF
++Max Attack (Zhen Ji-Wei)
+%Credits: InterAct
+$0043241B 000000FF
++Max Defense (Zhen Ji-Wei)
+%Credits: InterAct
+$0043241C 000000FF
++Max Life (Cao Cao)
+%Credits: InterAct
+$00432351 00000001
++Max Life (Pang Tong)
+%Credits: InterAct
+$00432579 00000001
++Max Life (Taishi Ci)
+%Credits: InterAct
+$00432309 00000001
++Max Musou (Zhen Ji-Wei)
+%Credits: InterAct
+$0043241A 000000FF
++Max Rank (Cao Cao)
+%Credits: InterAct
+$20432360 0001FFFF
++Max Rank (Cao Ren)
+%Credits: InterAct
+$20432600 0001FFFF
++Max Rank (Da Qiao)
+%Credits: InterAct
+$204325D0 0001FFFF
++Max Rank (Dian Wei)
+%Credits: InterAct
+$204322B8 0001FFFF
++Max Rank (Diao Chan)
+%Credits: InterAct
+$20432330 0001FFFF
++Max Rank (Dong Zhuo)
+%Credits: InterAct
+$204323F0 0001FFFF
++Max Rank (Gan Ning)
+%Credits: InterAct
+$204324B0 0001FFFF
++Max Rank (Guan Yu)
+%Credits: InterAct
+$20432270 0001FFFF
++Max Rank (Huang Gai)
+%Credits: InterAct
+$20432540 0001FFFF
++Max Rank (Huang Zhong)
+%Credits: InterAct
+$20432438 0001FFFF
++Max Rank (Jiang Wei)
+%Credits: InterAct
+$204324C8 0001FFFF
++Max Rank (Liu Bei)
+%Credits: InterAct
+$204323A8 0001FFFF
++Max Rank (Lu Bu)
+%Credits: InterAct
+$20432378 0001FFFF
++Max Rank (Lu Meng)
+%Credits: InterAct
+$20432498 0001FFFF
++Max Rank (Lu Xun)
+%Credits: InterAct
+$20432300 0001FFFF
++Max Rank (Ma Chao)
+%Credits: InterAct
+$20432420 0001FFFF
++Max Rank (Meng Huo)
+%Credits: InterAct
+$204325A0 0001FFFF
++Max Rank (Pang Tong)
+%Credits: InterAct
+$20432588 0001FFFF
++Max Rank (Sim Yi)
+%Credits: InterAct
+$20432480 0001FFFF
++Max Rank (Sun Ce)
+%Credits: InterAct
+$20432558 0001FFFF
++Max Rank (Sun Jian)
+%Credits: InterAct
+$204323C0 0001FFFF
++Max Rank (Sun Quan)
+%Credits: InterAct
+$204323D8 0001FFFF
++Max Rank (Sun Shang Xiang)
+%Credits: InterAct
+$20432390 0001FFFF
++Max Rank (Taishi Ci)
+%Credits: InterAct
+$20432318 0001FFFF
++Max Rank (Wei Yan)
+%Credits: InterAct
+$20432570 0001FFFF
++Max Rank (Xiahou Dun)
+%Credits: InterAct
+$204322A0 0001FFFF
++Max Rank (Xiahou Yuan)
+%Credits: InterAct
+$20432450 0001FFFF
++Max Rank (Xiao Qiao)
+%Credits: InterAct
+$204325E8 0001FFFF
++Max Rank (Xu Huang)
+%Credits: InterAct
+$204325F8 0001FFFF
++Max Rank (Xu Zhu)
+%Credits: InterAct
+$204322D0 0001FFFF
++Max Rank (Yuan Shao)
+%Credits: InterAct
+$20432408 0001FFFF
++Max Rank (Yue Ying)
+%Credits: InterAct
+$20432630 0001FFFF
++Max Rank (Zhang Fei)
+%Credits: InterAct
+$20432288 0001FFFF
++Max Rank (Zhang He)
+%Credits: InterAct
+$20432510 0001FFFF
++Max Rank (Zhang Jiao)
+%Credits: InterAct
+$204324E0 0001FFFF
++Max Rank (Zhang Liao)
+%Credits: InterAct
+$20432468 0001FFFF
++Max Rank (Zhao Yun)
+%Credits: InterAct
+$20432258 0001FFFF
++Max Rank (Zhen Ji-Wei)
+%Credits: InterAct
+$20432528 0001FFFF
++Max Rank (Zhou Tai)
+%Credits: InterAct
+$20432618 0001FFFF
++Max Rank (Zhou Yu)
+%Credits: InterAct
+$204322E8 0001FFFF
++Max Rank (Zhu Rong)
+%Credits: InterAct
+$204325B8 0001FFFF
++Max Rank (Zhuge Liang)
+%Credits: InterAct
+$20432348 0001FFFF
++Max Special (Cao Cao)
+%Credits: InterAct
+$00432356 000000FF
++Max Special (Cao Ren)
+%Credits: InterAct
+$004325F6 000000FF
++Max Special (Da Qiao)
+%Credits: InterAct
+$004325C6 000000FF
++Max Special (Dian Wei)
+%Credits: InterAct
+$004322AE 000000FF
++Max Special (Diao Chan)
+%Credits: InterAct
+$00432326 000000FF
++Max Special (Dong Zhuo)
+%Credits: InterAct
+$004323E6 000000FF
++Max Special (Gan Ning)
+%Credits: InterAct
+$004324A6 000000FF
++Max Special (Guan Yu)
+%Credits: InterAct
+$00432266 000000FF
++Max Special (Huang Gai)
+%Credits: InterAct
+$00432536 000000FF
++Max Special (Huang Zhong)
+%Credits: InterAct
+$0043242E 000000FF
++Max Special (Jiang Wei)
+%Credits: InterAct
+$004324BE 000000FF
++Max Special (Liu Bei)
+%Credits: InterAct
+$0043239E 000000FF
++Max Special (Lu Bu)
+%Credits: InterAct
+$0043236E 000000FF
++Max Special (Lu Meng)
+%Credits: InterAct
+$0043248E 000000FF
++Max Special (Lu Xun)
+%Credits: InterAct
+$004322F6 000000FF
++Max Special (Ma Chao)
+%Credits: InterAct
+$00432416 000000FF
++Max Special (Meng Huo)
+%Credits: InterAct
+$00432596 000000FF
++Max Special (Pang Tong)
+%Credits: InterAct
+$0043257E 000000FF
++Max Special (Sim Yi)
+%Credits: InterAct
+$00432476 000000FF
++Max Special (Sun Ce)
+%Credits: InterAct
+$0043254E 000000FF
++Max Special (Sun Jian)
+%Credits: InterAct
+$004323B6 000000FF
++Max Special (Sun Quan)
+%Credits: InterAct
+$004323CE 000000FF
++Max Special (Sun Shang Xiang)
+%Credits: InterAct
+$00432386 000000FF
++Max Special (Taishi Ci)
+%Credits: InterAct
+$0043230E 000000FF
++Max Special (Wei Yan)
+%Credits: InterAct
+$00432566 000000FF
++Max Special (Xiahou Dun)
+%Credits: InterAct
+$00432296 000000FF
++Max Special (Xiahou Yuan)
+%Credits: InterAct
+$00432446 000000FF
++Max Special (Xiao Qiao)
+%Credits: InterAct
+$004325DE 000000FF
++Max Special (Xu Huang)
+%Credits: InterAct
+$004324EE 000000FF
++Max Special (Xu Zhu)
+%Credits: InterAct
+$004322C6 000000FF
++Max Special (Yuan Shao)
+%Credits: InterAct
+$004323FE 000000FF
++Max Special (Yue Ying)
+%Credits: InterAct
+$00432626 000000FF
++Max Special (Zhang Fei)
+%Credits: InterAct
+$0043227E 000000FF
++Max Special (Zhang He)
+%Credits: InterAct
+$00432506 000000FF
++Max Special (Zhang Liao)
+%Credits: InterAct
+$0043245E 000000FF
++Max Special (Zhao Yun)
+%Credits: InterAct
+$0043224E 000000FF
++Max Special (Zhen Ji-Wei)
+%Credits: InterAct
+$0043241E 000000FF
++Max Special (Zhou Tai)
+%Credits: InterAct
+$0043260E 000000FF
++Max Special (Zhou Yu)
+%Credits: InterAct
+$004322DE 000000FF
++Max Special (Zhu Rong)
+%Credits: InterAct
+$004325AE 000000FF
++Max Special (Zhuge Liang)
+%Credits: InterAct
+$0043233E 000000FF
+!!
+!Miscellaneous Codes:
++Aggressive Enemies & Allies!
+%Credits: Code Master>Ryan Toluchanian
+$1015AA88 00000001
+$1015AA20 00000001
+$1015AA80 00000001
+$1015AA48 00000001
++Bodyguards Have Same Weapon As Your Character
+%Credits: Code Master>Ryan Toluchanian
+$1013AA3C 00000001
+$1013AAB4 00000001
++Can Always Do Musou Move (Press Circle)
+%Credits: Code Master>Ryan Toluchanian
+$201B6B1C 00000000
++Have All Movies
+%Credits: Code Master>Ryan Toluchanian
+$20432220 FFFFFFFF
++Infinite Arrows P1
+%Credits: Code Master>Ryan Toluchanian
+$0052512C 00000063
++Infinite Arrows P2
+%Credits: Code Master>Ryan Toluchanian
+$0052535C 00000063
++Infinite Attack X2 P1 (On Pickup)
+%Credits: Code Master>Ryan Toluchanian
+$10504120 00000708
++Infinite Attack X2 P2 (On Pickup)
+%Credits: Code Master>Ryan Toluchanian
+$10504340 00000708
++Infinite Defense X2 P1 (On Pickup)
+%Credits: Code Master>Ryan Toluchanian
+$10504124 00000708
++Infinite Defense X2 P2 (On Pickup)
+%Credits: Code Master>Ryan Toluchanian
+$10504344 00000708
++Infinite Health P1
+%Credits: Code Master>Ryan Toluchanian
+$1050414E 00001C00
++Infinite Health P2
+%Credits: Code Master>Ryan Toluchanian
+$1050436E 00001C00
++Infinite Musou P1
+%Credits: Code Master>Ryan Toluchanian
+$10504154 00000C00
++Infinite Musou P2
+%Credits: Code Master>Ryan Toluchanian
+$10504374 00000C00
++Infinite Speed Up P1 (On Pickup)
+%Credits: Code Master>Ryan Toluchanian
+$10504128 00000708
++Infinite Speed Up P2 (On Pickup)
+%Credits: Code Master>Ryan Toluchanian
+$10504348 00000708
++Max Health P1
+%Credits: Code Master>Ryan Toluchanian
+$1050414C 000001C0
++Max Health P2
+%Credits: Code Master>Ryan Toluchanian
+$1050436C 000001C0
++Max Infinite Health P1
+%Credits: Code Master>Ryan Toluchanian
+$2050414C 01C01C00
++Max Infinite Health P2
+%Credits: Code Master>Ryan Toluchanian
+$2050436C 01C01C00
++Max Infinite Musou P1
+%Credits: Code Master>Ryan Toluchanian
+$10504152 000000C0
+$10504154 00000C00
++Max Infinite Musou P2
+%Credits: Code Master>Ryan Toluchanian
+$10504372 000000C0
+$10504374 00000C00
++Max K.O. Count P1
+%Credits: Code Master>Ryan Toluchanian
+$1043BFA8 0000270F
++Max Musou P1
+%Credits: Code Master>Ryan Toluchanian
+$10504152 000000C0
++Max Musou P2
+%Credits: Code Master>Ryan Toluchanian
+$10504372 000000C0
++Player 1 Has All Orb Powers
+%Credits: BigBossman
+$00504111 0000004E
++Player 1 Moves Much Faster
+%Credits: BigBossman
+$2050415C 42066667
++Player 2 Has All Orb Powers
+%Credits: BigBossman
+$00504771 0000004E
++Player 2 Moves Much Faster
+%Credits: BigBossman
+$205047BC 42066667
+!!
+!Player 1 Codes:
++Bodyguards Have 999 Kills
+%Credits: Codejunkies
+$1043C978 000003E7
++Infinite Time Def X2
+%Credits: Codejunkies
+$10504124 0000069D
++Infinite Time Musou Max
+%Credits: Codejunkies
+$1050412C 0000069D
++Infinite Time Off X2
+%Credits: Codejunkies
+$10504120 0000069D
++Infinite Time Speed Up
+%Credits: Codejunkies
+$10504128 0000069D
+!!
+!Weapon Codes:
++Ancients Sword
+%Credits: Codejunkies
+$10432934 0000C350
++Blink
+%Credits: Codejunkies
+$1043295C 0000C350
++Blue Moon Dragon
+%Credits: Codejunkies
+$1043292A 0000C350
++Comet Strike
+%Credits: Codejunkies
+$1043296A 0000C350
++Dark Feather
+%Credits: Codejunkies
+$10432956 0000C350
++Dark Moon Flute
+%Credits: Codejunkies
+$10432964 0000C350
++Dark Shadow
+%Credits: Codejunkies
+$10432966 0000C350
++Diva
+%Credits: Codejunkies
+$1043293A 0000C350
++Dusk
+%Credits: Codejunkies
+$10432978 0000C350
++Eclipse
+%Credits: Codejunkies
+$10432984 0000C350
++Enforcer Rod
+%Credits: Codejunkies
+$10432952 0000C350
++Falcon
+%Credits: Codejunkies
+$10432936 0000C350
++Fierce Dragon
+%Credits: Codejunkies
+$10432928 0000C350
++Fu Xi's Sword
+%Credits: Codejunkies
+$1043297C 0000C350
++Gold Moon Dragon
+%Credits: Codejunkies
+$10432944 0000C350
++Gold Wyvern
+%Credits: Codejunkies
+$10432954 0000C350
++Horror
+%Credits: Codejunkies
+$1043294A 0000C350
++Inferno
+%Credits: Codejunkies
+$10432970 0000C350
++King Of Beasts
+%Credits: Codejunkies
+$1043296E 0000C350
++Kirin Fang
+%Credits: Codejunkies
+$1043292E 0000C350
++Mad Bull
+%Credits: Codejunkies
+$10432930 0000C350
++Marauder
+%Credits: Codejunkies
+$10432960 0000C350
++Master Wolf
+%Credits: Codejunkies
+$10432948 0000C350
++Nu Wa's Rapier
+%Credits: Codejunkies
+$1043297E 0000C350
++Oblivion
+%Credits: Codejunkies
+$1043297A 0000C350
++Oracle Sword
+%Credits: Codejunkies
+$10432950 0000C350
++Overlord
+%Credits: Codejunkies
+$10432968 0000C350
++Peacock Feather
+%Credits: Codejunkies
+$1043293C 0000C350
++Phoenix Tail
+%Credits: Codejunkies
+$10432980 0000C350
++Phoenix Talon
+%Credits: Codejunkies
+$10432962 0000C350
++Qiao Beauty
+%Credits: Codejunkies
+$10432972 0000C350
++Qiao Grace
+%Credits: Codejunkies
+$10432974 0000C350
++Roc
+%Credits: Codejunkies
+$10432976 0000C350
++Savage Tiger
+%Credits: Codejunkies
+$10432946 0000C350
++Sea Master
+%Credits: Codejunkies
+$1043295A 0000C350
++Sky Scorcher
+%Credits: Codejunkies
+$10432940 0000C350
++Sol Chakram
+%Credits: Codejunkies
+$10432942 0000C350
++Stallion Fury
+%Credits: Codejunkies
+$1043294E 0000C350
++Stone Crusher
+%Credits: Codejunkies
+$10432932 0000C350
++Sword Of Kings
+%Credits: Codejunkies
+$1043294C 0000C350
++Tiger Slayer
+%Credits: Codejunkies
+$10432938 0000C350
++Tornado Staff
+%Credits: Codejunkies
+$1043296C 0000C350
++Typhoon
+%Credits: Codejunkies
+$10432982 0000C350
++Viper Blade
+%Credits: Codejunkies
+$1043292C 0000C350
++Volcano Staff
+%Credits: Codejunkies
+$1043295E 0000C350
++White Tiger
+%Credits: Codejunkies
+$10432958 0000C350
++Wrath Of Heaven
+%Credits: Codejunkies
+$1043293E 0000C350
+!!
+!!
+

@@ -1,0 +1,92 @@
+^3 = NAME: Superman - Shadow Of Apokolips (Ntsc-U)
+^2 = GameID: SLUS-20235
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F020478C 0020478F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0020478F
+!!
+!Activate Cheat Codes:
++Double Enemy Health
+%Credits: Code Master
+$2037DDC4 00000001
++Half Enemy Health
+%Credits: Code Master
+$2037DDEC 00000001
++Infinite Health
+%Credits: Code Master
+$2037DD74 00000001
++Infinite Power
+%Credits: Code Master
+$2037DD9C 00000001
+!!
++Have All Biography
+%Credits: InterAct
+$202D5E78 24030001
++Have All Movies
+%Credits: InterAct
+$202D6C2C 24030001
++Have Concept Movie Art
+%Credits: InterAct
+$202D73BC 24030001
++Have Level Attack All Levels
+%Credits: InterAct
+$202D4CA0 24030001
++Hella Speed
+%Credits: Code Master
+$20329C0C 41000000
++Infinite Health
+%Credits: Code Master
+$200C0220 3C01447A
+$200C0224 AC610034
+$200C0228 03E00008
+$200C022C C4610034
+$202CC3CC 0C030088
++Infinite Super Powers
+%Credits: InterAct
+$20161AD4 3C034348
+$20161AD8 44830000
++Infinite Super Powers
+%Credits: Code Master
+$811E5C66 D2C6B595
+$5BDFBF7E DE87CC60
+$4FFC33CB 371E9C25
+$1A18AEF4 7A2860FA
+$8D8F3D85 8372A59A
+$9D52A068 39CCAA37
++More Speed
+%Credits: Code Master
+$20329C0C 40000000
++Press Select+Up For Quick Mode {<I>Press Select+Down To Deactivate.</I>}
+%Credits: InterAct
+$D037F902 0000FFEE
+$20329C0C 40800000
+$D037F902 0000FFBE
+$20329C0C 3F800000
++Super Speed
+%Credits: Code Master
+$20329C0C 40800000
++Turn Speedy Animations Off (Press Select+Down To Activate)
+%Credits: Codejunkies
+$D037F902 0000FFBE
+$20329C0C 3F800000
++Turn Speedy Animations On (Press Select+Up To Activate)
+%Credits: Codejunkies
+$D037F902 0000FFEE
+$20329C0C 40800000
++Unlock All Biographies
+%Credits: Code Master
+$20335694 00000001
++Unlock All Level Attacks
+%Credits: Code Master
+$20335690 00000001
++Unlock All Movies (Movie Theatre)
+%Credits: Code Master
+$20335698 00000001
++Unlock Concept Art Movie
+%Credits: Code Master
+$203356A0 00000001
+!!
+

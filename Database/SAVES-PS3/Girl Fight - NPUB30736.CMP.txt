@@ -1,0 +1,6 @@
+^2 = GameID: NPUB30736
+^3 = NAME: Girl Fight (PSN)
+^5 = APCRED: From SHAkA
+^4 = FILE: PRG-DATA
++Max Money
+$write at 0x00005270:0x3B9AC9FF

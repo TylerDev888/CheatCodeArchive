@@ -1,0 +1,30 @@
+^3 = NAME: Police Chase Down (Pal-Unk)
+^2 = GameID: SLES-51864
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F015CDD4 0015CDD7
++Enable Code
+%Credits: BigBossman
+$90181C18 0C0606AE
++Enable Code (Alternate)
+%Credits: BigBossman
+$9015CDD4 0C05E4FA
++Enable Code (Alternate)
+%Credits: BigBossman
+$9010024C 0C05C3DC
+!!
++Freeze Timer
+%Credits: Codejunkies
+$2018C610 011905B2
++Infinite Ammo/No Reload
+%Credits: Codejunkies
+$0018F588 0000001E
++Infinite Gun Magazines
+%Credits: Codejunkies
+$0018F58A 00000063
++Infinite VIP HP
+%Credits: Codejunkies
+$2018F90C 00000640
+!!
+

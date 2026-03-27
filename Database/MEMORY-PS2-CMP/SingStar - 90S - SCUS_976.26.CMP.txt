@@ -1,0 +1,30 @@
+^2 = GameID: SCUS_976.26
+^3 = NAME: SingStar: 90S
+!Masters:
++Enable Code (MUST BE ON)
+$902B8930 0C0AE1F4
+!!
+!Misc Codes:
+!Codes Affect All Players:
++Notes Multiplyer
+%Credits: SkillerCMP
+$20146C08 08028000
+$20146C0C 00000000
+$200A0000 00021[MOD1]
+$200A0004 AE220030
+$200A0008 08051B03
+$200A000C 8C8300E8
+!!
+!!
+^6 = MODS:
+[MOD1]
+VALUE>NAME
+040	2x
+080	4X
+0C0	8x
+100	16
+140	32x
+180	64x
+1C0	128x
+200	256x
+[/MOD1]

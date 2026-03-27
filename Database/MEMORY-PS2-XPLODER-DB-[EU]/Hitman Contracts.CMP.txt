@@ -1,0 +1,28 @@
+^3 = NAME: Hitman Contracts
+!Masters:
++Mastercode
+%Credits: Xploder
+$90450C0C 0C1172ED
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$200C2000 E6020E90
+$200C2004 03E00008
+$200C2008 C6010E90
+$203A37FC 0C030800
++Ammunition (No Reload)
+%Credits: Xploder
+$2020F9AC 00000000
++Saves
+%Credits: Xploder
+$2037E11C 24003634
+!!
+!Unlock:
++Levels
+%Credits: Xploder
+$D0483D42 0000FFFE
+$2041F9E8 24020001
+$D0483D42 0010FFFE
+$2041F9E8 0040F809
+!!

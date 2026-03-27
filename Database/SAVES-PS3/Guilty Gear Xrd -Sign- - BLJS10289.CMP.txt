@@ -1,0 +1,12 @@
+^2 = GameID: BLJS10289
+^3 = NAME: Guilty Gear Xrd -SIGN-
+^4 = FILE: SYSTEM.DAT
++Max Medals(by Easko)
+$2000B5C4 0098967F
++Max W$ Money(by Bucanero)
+$2000D6AC 0098967F
++Update Crc32 For System.dat (required)(by Chaoszage)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]

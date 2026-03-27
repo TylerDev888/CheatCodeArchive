@@ -1,0 +1,198 @@
+^3 = NAME: Cabela's Alaskan Adventures (Ntsc-U)
+^2 = GameID: SLUS-21384
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F012A81C 0012A81F
++Enable Code (Must Be On)
+%Credits: Code Master
+$9012A9BC 0C041188
+!!
+!Adventure Mode Codes:
++Buying Items Doesn't Decrease Credits
+%Credits: Code Master
+$2052D044 00000000
++Buying Items Increases Credits
+%Credits: Code Master
+$2052D040 00641821
++Infinite Credits
+%Credits: Code Master
+$10730F78 0000FFFF
++Max Credits
+%Credits: Code Master
+$20730F78 05F5E0FF
+!!
+!Gameplay Options:
++Aim Help On
+%Credits: Codejunkies
+$2072FDA0 00000001
++Animal Radar Off
+%Credits: Codejunkies
+$2072FD9C 00000000
++Animal Radar On
+%Credits: Codejunkies
+$2072FD9C 00000001
++Autoclaim Off
+%Credits: Codejunkies
+$2072FDA4 00000000
++Autoclaim On
+%Credits: Codejunkies
+$2072FDA4 00000001
++Bullet Cam Off
+%Credits: Codejunkies
+$2072FD94 00000000
++Bullet Cam On
+%Credits: Codejunkies
+$2072FD94 00000001
++Hud Off
+%Credits: Codejunkies
+$2072FD8C 00000000
++Hud On
+%Credits: Codejunkies
+$2072FD8C 00000001
++Subtitles Off
+%Credits: Codejunkies
+$2072FD90 00000000
++Subtitles On
+%Credits: Codejunkies
+$2072FD90 00000001
++Tip-Up Timer Off
+%Credits: Codejunkies
+$2072FD98 00000000
++Tip-Up Timer On
+%Credits: Codejunkies
+$2072FD98 00000001
+!!
++Infinite Ammo
+%Credits: Codejunkies
+$20599C20 24420000
++Infinite Cash
+%Credits: Codejunkies
+$20730F78 000F423F
+!Interior Alaska Codes:
++Have All Contests
+%Credits: Code Master
+$10730F44 00000002
++Have All Fishing
+%Credits: Code Master
+$10730F34 00000002
++Have All Hunts
+%Credits: Code Master
+$10730F14 00000003
++Have All Special Hunts
+%Credits: Code Master
+$10730F24 00000003
+!!
++Never Reload
+%Credits: Codejunkies
+$20599C38 24620000
++Press L2+Down To Unfreeze Animals
+%Credits: Codejunkies
+$D0706A42 0000FEBF
+$2070B710 00000000
++Press L2+Left For Clipping On
+%Credits: Codejunkies
+$D0706A42 0000FEDF
+$2070B710 00000000
++Press L2+Right For Clipping Off
+%Credits: Codejunkies
+$D0706A42 0000FE7F
+$2070B710 00000001
++Press L2+Up To Freeze Animals
+%Credits: Codejunkies
+$D0706A42 0000FEEF
+$2070B710 00000001
+!South Central Alaska Codes:
++Have All Contests
+%Credits: Code Master
+$10730F46 00000002
++Have All Fishing
+%Credits: Code Master
+$10730F36 00000002
++Have All Hunts
+%Credits: Code Master
+$10730F16 00000003
++Have All Special Hunts
+%Credits: Code Master
+$10730F26 00000006
+!!
+!Southeastern Alaska Codes:
++Have All Contests
+%Credits: Code Master
+$10730F48 00000002
++Have All Fishing
+%Credits: Code Master
+$10730F38 00000002
++Have All Hunts
+%Credits: Code Master
+$10730F18 00000003
++Have All Special Hunts
+%Credits: Code Master
+$10730F28 00000006
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Aim Help Always Off
+%Credits: Code Master
+$2072FDA0 00000000
++Always Max Sensitivity
+%Credits: Code Master
+$2072FD88 42C80000
++Can Zoom Ultra Close
+%Credits: Code Master
+$105B234C 00000000
+$205B28C0 3C0142C8
+$205B28C8 AC41007C
++God Mode
+%Credits: Code Master
+$2070B718 00000001
++Infinite Health
+%Credits: Code Master
+$2058C4AC 3C0142C8
+$2058C4B4 AC81017C
++Infinite Stamina
+%Credits: Code Master
+$2058CC64 00000000
+$2058CC8C 00000000
+$2058CCAC 00000000
++Invert Axis Always Off
+%Credits: Code Master
+$2072FD80 00000000
++Invert Axis Always On
+%Credits: Code Master
+$2072FD80 00000001
++Never Reload
+%Credits: Code Master
+$20599BF0 00000000
+$20599C24 00000000
+$20599C3C 00000000
++P1 Press L1+Select To Enable No Clipping
+%Credits: Code Master
+$D07069C2 0000FBFE
+$2070B710 00000001
++P1 Press L2+Select To Disble No Clipping
+%Credits: Code Master
+$D07069C2 0000FEFE
+$2070B710 00000000
++Vibrations Always Off
+%Credits: Code Master
+$2072FD84 00000000
++Vibrations Always On
+%Credits: Code Master
+$2072FD84 00000001
+!!
+!Western Arctic Codes:
++Have All Contests
+%Credits: Code Master
+$10730F42 00000002
++Have All Fishing
+%Credits: Code Master
+$10730F32 00000002
++Have All Hunts
+%Credits: Code Master
+$10730F12 00000003
++Have All Special Hunts
+%Credits: Code Master
+$10730F22 00000003
+!!
+!!
+

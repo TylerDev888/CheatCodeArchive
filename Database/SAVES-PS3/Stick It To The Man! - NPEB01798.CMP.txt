@@ -1,0 +1,6 @@
+^2 = GameID: NPEB01798
+^3 = NAME: Stick It To The Man! (PSN)
+^5 = APCRED: From SHAkA
+^4 = FILE: APPDATA.DAT
++Unlock All Levels
+$write at 0x000000B0:0x3130

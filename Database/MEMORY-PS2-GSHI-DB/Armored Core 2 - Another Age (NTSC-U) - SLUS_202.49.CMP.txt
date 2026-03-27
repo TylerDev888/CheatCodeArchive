@@ -1,0 +1,663 @@
+^3 = NAME: Armored Core 2 - Another Age (NTSC-U)
+^2 = GameID: SLUS-20249
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F02C390C 002C390F
++(M) Must Be On
+%Credits: InterAct
+$F0100138 002C390F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002C390F
+!!
++Able To Make Overweight Mechs
+%Credits: Code Master
+$1048F3E0 0000270F
+$1048F6E2 0000270F
+$1048FAF8 0000270F
++Audio Region Voice-Over Modifier
+%Credits: AceKombat
+$0031A992 000000??
+!Cash Codes:
++Infinite AP
+%Credits: Codejunkies
+$10306F44 00009999
++Infinite Back Ammo
+%Credits: Codejunkies
+$10307888 00000063
+$10307908 00000063
++Infinite Inside Ammo
+%Credits: Codejunkies
+$10307988 00000063
++Infinite Optional Parts Slots
+%Credits: Codejunkies
+$104DA28C 00000000
++Infinite Power
+%Credits: Codejunkies
+$10306F48 00009999
++Infinite Right Ammo
+%Credits: Codejunkies
+$10307808 00000063
++Max Cash
+%Credits: Codejunkies
+$2031A700 05F5E0FF
++Never Have More Than 5,000 Cash
+%Credits: Codejunkies
+$E0021388 3031A700
+$E0010000 3031A702
+$2031A700 00001388
++Never Have More Than 10,000 Cash
+%Credits: Codejunkies
+$E0022710 3031A700
+$E0010000 3031A702
+$2031A700 00002710
++Never Have More Than 25,000 Cash
+%Credits: Codejunkies
+$E00261A8 3031A700
+$E0010000 3031A702
+$2031A700 000061A8
++Never Have More Than 50,000 Cash
+%Credits: Codejunkies
+$E002C350 3031A700
+$E0010000 3031A702
+$2031A700 0000C350
++Never Have More Than 75,000 Cash
+%Credits: Codejunkies
+$E00224F8 3031A700
+$E0010001 3031A702
+$2031A700 000124F8
++Never Have More Than 100,000 Cash
+%Credits: Codejunkies
+$E00286A0 3031A700
+$E0010001 3031A702
+$2031A700 000186A0
++Overweight Mechs Are Allowed
+%Credits: Codejunkies
+$1048FAF8 0000270F
+$1048F6E2 0000270F
+$1048F3E0 0000270F
+!!
++Extra Ammo
+%Credits: Code Master
+$1014E7C8 00000001
+!Extra Body Parts:
++Extra Arm Units L
+%Credits: Codejunkies
+$20483FB0 01010101
+$20483FB4 01010101
+$10483FB8 00000101
++Extra Arm Units R
+%Credits: Codejunkies
+$20483F70 01010101
+$20483F74 01010101
+$20483F78 01010101
+$20483F7C 01010101
+$20483F80 01010101
+$20483F84 01010101
+$20483F88 01010101
+$00483F8C 00000001
++Extra Arms
+%Credits: Codejunkies
+$20483CF0 01010101
+$20483CF4 01010101
+$20483CF8 01010101
+$20483CFC 01010101
+$20483D00 01010101
+$20483D04 00010101
++Extra Back Units L
+%Credits: Codejunkies
+$20483F30 02020202
+$20483F34 02020202
+$20483F38 02020202
+$20483F3C 02020202
+$20483F40 02020202
+$20483F44 02020202
+$20483F48 02020202
+$20483F4C 02020202
+$20483F50 02020202
+$20483F54 02020202
+$10483F58 00000202
++Extra Back Units R
+%Credits: Codejunkies
+$20483EF0 02020202
+$20483EF4 02020202
+$20483EF8 02020202
+$20483EFC 02020202
+$20483F00 02020202
+$20483F04 02020202
+$20483F08 02020202
+$20483F0C 02020202
+$20483F10 02020202
+$20483F14 02020202
+$10483F18 00000202
++Extra Boosters
+%Credits: Codejunkies
+$20483D70 01010101
+$20483D74 00010101
++Extra Cores
+%Credits: Codejunkies
+$00483CB0 00000001
+$10483CB2 00000101
+$10483CB4 00000101
++Extra Extensions
+%Credits: Codejunkies
+$20483EB0 01010101
+$20483EB4 01010101
+$10483EB8 00000101
++Extra FCS
+%Credits: Codejunkies
+$20483DB0 01010101
+$20483DB4 01010101
+$10483DB8 00000101
++Extra Generators
+%Credits: Codejunkies
+$20483DF0 01010101
+$20483DF4 01010101
++Extra Heads
+%Credits: Codejunkies
+$20483C70 01010101
+$20483C74 01010101
+$20483C78 01010101
+$10483C7C 00000101
++Extra Inside Parts
+%Credits: Codejunkies
+$20483E70 01010101
+$20483E74 01010101
+$10483E78 00000101
++Extra Legs
+%Credits: Codejunkies
+$20483D30 01010101
+$20483D34 01010101
+$20483D38 01010101
+$20483D3C 01010101
+$20483D40 01010101
+$20483D44 01010101
+$20483D48 01010101
+$20483D4C 01010101
+$20483D50 00010101
++Extra Optional Parts
+%Credits: Codejunkies
+$20483FF0 01010101
+$20483FF4 01010101
+$20483FF8 01010101
+$20483FFC 01010101
++Extra Radiators
+%Credits: Codejunkies
+$20483E30 01010101
+$20483E34 01010101
+!!
++Extra Generators
+%Credits: InterAct
+$20483DF0 01010101
+$20483DF4 01010101
+$20483E30 01010101
+$20483E34 01010101
++Have All Arm Units R
+%Credits: Code Master
+$40483F70 00070001
+$01010101 00000000
+$00483F8C 00000001
++Have All Arms
+%Credits: Code Master
+$40483CF0 00060001
+$01010101 00000000
++Have All Back Units L
+%Credits: Code Master
+$40483F30 000A0001
+$02020202 00000000
+$10483F58 00000202
++Have All Back Units R
+%Credits: Code Master
+$40483EF0 000A0001
+$02020202 00000000
+$10483F18 00000202
++Have All Heads
+%Credits: Code Master
+$40483C70 00030001
+$01010101 00000000
+$10483C7C 00000101
++Have All Legs
+%Credits: Code Master
+$48EE25B6 07DC6348
+$351094A4 1C5D6197
+$59219353 3754A457
+$196A96ED 5FEBD431
++Have All Optional Parts
+%Credits: Code Master
+$40483FF0 00030001
+$01010101 00000000
+$20483FFC 01010101
++Human Plus Upgrades
+%Credits: InterAct
+$1031A706 0000FFFF
++Infinite Ammo
+%Credits: Code Master
+$2014E7CC 00000000
++Infinite AP
+%Credits: Code Master
+$10306F44 00009C3C
++Infinite Money
+%Credits: Code Master
+$1031A700 0000FFFF
++Infinite Power
+%Credits: Code Master
+$10306F48 00009C3C
++Infinite Right Ammo
+%Credits: Code Master
+$10307808 000003E7
++Max Back Ammo
+%Credits: Code Master
+$1030788A 00000063
+$1030790A 00000063
++Max Infinite Back Ammo
+%Credits: Code Master
+$20307888 00630063
+$20307908 00630063
++Max Infinite Right Ammo
+%Credits: Code Master
+$20307808 03E703E7
++Max Right Ammo
+%Credits: Code Master
+$1030780A 000003E7
++Menu BGM Modifier
+%Credits: AceKombat
+$001FF960 000000??
+!Objective Complete Codes:
++All Objectives
+%Credits: Code Master
+$1031A8F2 00000202
+$4031A8F4 00180001
+$02020202 00000000
+$1031A954 00000202
++Objective 1
+%Credits: Code Master
+$0031A8F2 00000002
++Objective 2
+%Credits: Code Master
+$0031A8F3 00000002
++Objective 3
+%Credits: Code Master
+$0031A8F4 00000002
++Objective 4
+%Credits: Code Master
+$0031A8F5 00000002
++Objective 5
+%Credits: Code Master
+$0031A8F6 00000002
++Objective 6
+%Credits: Code Master
+$0031A8F7 00000002
++Objective 7
+%Credits: Code Master
+$0031A8F8 00000002
++Objective 8
+%Credits: Code Master
+$0031A8F9 00000002
++Objective 9
+%Credits: Code Master
+$0031A8FA 00000002
++Objective 10
+%Credits: Code Master
+$0031A8FB 00000002
++Objective 11
+%Credits: Code Master
+$0031A8FC 00000002
++Objective 12
+%Credits: Code Master
+$0031A8FD 00000002
++Objective 13
+%Credits: Code Master
+$0031A8FE 00000002
++Objective 14
+%Credits: Code Master
+$0031A8FF 00000002
++Objective 15
+%Credits: Code Master
+$0031A900 00000002
++Objective 16
+%Credits: Code Master
+$0031A901 00000002
++Objective 17
+%Credits: Code Master
+$0031A902 00000002
++Objective 18
+%Credits: Code Master
+$0031A903 00000002
++Objective 19
+%Credits: Code Master
+$0031A904 00000002
++Objective 20
+%Credits: Code Master
+$0031A905 00000002
++Objective 21
+%Credits: Code Master
+$0031A906 00000002
++Objective 22
+%Credits: Code Master
+$0031A907 00000002
++Objective 23
+%Credits: Code Master
+$0031A908 00000002
++Objective 24
+%Credits: Code Master
+$0031A909 00000002
++Objective 25
+%Credits: Code Master
+$0031A90A 00000002
++Objective 26
+%Credits: Code Master
+$0031A90B 00000002
++Objective 27
+%Credits: Code Master
+$0031A90C 00000002
++Objective 28
+%Credits: Code Master
+$0031A90D 00000002
++Objective 29
+%Credits: Code Master
+$0031A90E 00000002
++Objective 30
+%Credits: Code Master
+$0031A90F 00000002
++Objective 31
+%Credits: Code Master
+$0031A910 00000002
++Objective 32
+%Credits: Code Master
+$0031A911 00000002
++Objective 33
+%Credits: Code Master
+$0031A912 00000002
++Objective 34
+%Credits: Code Master
+$0031A913 00000002
++Objective 35
+%Credits: Code Master
+$0031A914 00000002
++Objective 36
+%Credits: Code Master
+$0031A915 00000002
++Objective 37
+%Credits: Code Master
+$0031A916 00000002
++Objective 38
+%Credits: Code Master
+$0031A917 00000002
++Objective 39
+%Credits: Code Master
+$0031A918 00000002
++Objective 40
+%Credits: Code Master
+$0031A919 00000002
++Objective 41
+%Credits: Code Master
+$0031A91A 00000002
++Objective 42
+%Credits: Code Master
+$0031A91B 00000002
++Objective 43
+%Credits: Code Master
+$0031A91C 00000002
++Objective 44
+%Credits: Code Master
+$0031A91D 00000002
++Objective 45
+%Credits: Code Master
+$0031A91E 00000002
++Objective 46
+%Credits: Code Master
+$0031A91F 00000002
++Objective 47
+%Credits: Code Master
+$0031A920 00000002
++Objective 48
+%Credits: Code Master
+$0031A921 00000002
++Objective 49
+%Credits: Code Master
+$0031A922 00000002
++Objective 50
+%Credits: Code Master
+$0031A923 00000002
++Objective 51
+%Credits: Code Master
+$0031A924 00000002
++Objective 52
+%Credits: Code Master
+$0031A925 00000002
++Objective 53
+%Credits: Code Master
+$0031A926 00000002
++Objective 54
+%Credits: Code Master
+$0031A927 00000002
++Objective 55
+%Credits: Code Master
+$0031A928 00000002
++Objective 56
+%Credits: Code Master
+$0031A929 00000002
++Objective 57
+%Credits: Code Master
+$0031A92A 00000002
++Objective 58
+%Credits: Code Master
+$0031A92B 00000002
++Objective 59
+%Credits: Code Master
+$0031A92C 00000002
++Objective 60
+%Credits: Code Master
+$0031A92D 00000002
++Objective 61
+%Credits: Code Master
+$0031A92E 00000002
++Objective 62
+%Credits: Code Master
+$0031A92F 00000002
++Objective 63
+%Credits: Code Master
+$0031A930 00000002
++Objective 64
+%Credits: Code Master
+$0031A931 00000002
++Objective 65
+%Credits: Code Master
+$0031A932 00000002
++Objective 66
+%Credits: Code Master
+$0031A933 00000002
++Objective 67
+%Credits: Code Master
+$0031A934 00000002
++Objective 68
+%Credits: Code Master
+$0031A935 00000002
++Objective 69
+%Credits: Code Master
+$0031A936 00000002
++Objective 70
+%Credits: Code Master
+$0031A937 00000002
++Objective 71
+%Credits: Code Master
+$0031A938 00000002
++Objective 72
+%Credits: Code Master
+$0031A939 00000002
++Objective 73
+%Credits: Code Master
+$0031A93A 00000002
++Objective 74
+%Credits: Code Master
+$0031A93B 00000002
++Objective 75
+%Credits: Code Master
+$0031A93C 00000002
++Objective 76
+%Credits: Code Master
+$0031A93D 00000002
++Objective 77
+%Credits: Code Master
+$0031A93E 00000002
++Objective 78
+%Credits: Code Master
+$0031A93F 00000002
++Objective 79
+%Credits: Code Master
+$0031A940 00000002
++Objective 80
+%Credits: Code Master
+$0031A941 00000002
++Objective 81
+%Credits: Code Master
+$0031A942 00000002
++Objective 82
+%Credits: Code Master
+$0031A943 00000002
++Objective 83
+%Credits: Code Master
+$0031A944 00000002
++Objective 84
+%Credits: Code Master
+$0031A945 00000002
++Objective 85
+%Credits: Code Master
+$0031A946 00000002
++Objective 86
+%Credits: Code Master
+$0031A947 00000002
++Objective 87
+%Credits: Code Master
+$0031A948 00000002
++Objective 88
+%Credits: Code Master
+$0031A949 00000002
++Objective 89
+%Credits: Code Master
+$0031A94A 00000002
++Objective 90
+%Credits: Code Master
+$0031A94B 00000002
++Objective 91
+%Credits: Code Master
+$0031A94C 00000002
++Objective 92
+%Credits: Code Master
+$0031A94D 00000002
++Objective 93
+%Credits: Code Master
+$0031A94E 00000002
++Objective 94
+%Credits: Code Master
+$0031A94F 00000002
++Objective 95
+%Credits: Code Master
+$0031A950 00000002
++Objective 96
+%Credits: Code Master
+$0031A951 00000002
++Objective 97
+%Credits: Code Master
+$0031A952 00000002
++Objective 98
+%Credits: Code Master
+$0031A953 00000002
++Objective 99
+%Credits: Code Master
+$0031A954 00000002
++Objective 100
+%Credits: Code Master
+$0031A955 00000002
+!!
+!Parts For Sale In Shop Codes:
++Have All Arm Units L
+%Credits: Code Master
+$204847B0 01010101
+$204847B4 01010101
+$104847B8 00000101
++Have All Arm Units R
+%Credits: Code Master
+$40484770 00070001
+$01010101 00000000
+$0048478C 00000001
++Have All Arms
+%Credits: Code Master
+$404844F0 00060001
+$01010101 00000000
++Have All Back Units L
+%Credits: Code Master
+$40484730 000A0001
+$02020202 00000000
+$10484758 00000202
++Have All Back Units R
+%Credits: Code Master
+$404846F0 000A0001
+$02020202 00000000
+$10484718 00000202
++Have All Boosters
+%Credits: Code Master
+$20484570 01010101
+$20484574 00010101
++Have All Cores
+%Credits: Code Master
+$004844B0 00000001
+$104844B2 00000101
+$104844B4 00000101
++Have All Extensions
+%Credits: Code Master
+$204846B0 01010101
+$204846B4 01010101
+$104846B8 00000101
++Have All FCS
+%Credits: Code Master
+$204845B0 01010101
+$204845B4 01010101
+$104845B8 00000101
++Have All Generators
+%Credits: Code Master
+$204845F0 01010101
+$204845F4 01010101
++Have All Heads
+%Credits: Code Master
+$40484470 00030001
+$01010101 00000000
+$1048447C 00000101
++Have All Inside Parts
+%Credits: Code Master
+$20484670 01010101
+$20484674 01010101
+$10484678 00000101
++Have All Legs
+%Credits: Code Master
+$D6B024BF DD379D31
+$351094A4 1C5D6197
+$66515FFF EBD574D9
+$3775971F 2290B5E4
++Have All Optional Parts
+%Credits: Code Master
+$404847F0 00030001
+$01010101 00000000
+$204847FC 01010101
++Have All Radiators
+%Credits: Code Master
+$20484630 01010101
+$20484634 01010101
+!!
+!System Info Codes:
++Max Sorties
+%Credits: Code Master
+$1031A70A 000003E7
++Max Successful Sorties
+%Credits: Code Master
+$1031A70C 000003E7
+!!
++Weak Opp 1 Arena
+%Credits: InterAct
+$1030ABE4 00000001
++Weak Opp 2 Arena
+%Credits: InterAct
+$1030E884 00000001
+!!
+

@@ -1,0 +1,16 @@
+^2 = GameID: BLES01613
+^3 = NAME: LEGO Batman 2: DC Super Heroes
+^5 = APCRED: From Game Genie For PS3
+^4 = FILE: GAME1
++Max Studs
+$80010010 45610000
+$00000000 00000000
+$000186A0 00000000
+$28000108 000000E8
+$2800010C D4A50FFF
++Update Checksum For Game1 (required)
+$set pointer:eof+1
+$set range:0x10,pointer
+$set [hash]:fnv1:0xFFFFFFFF
+$set [hash]:xor:FFFFFFFF
+$write at 0x000C:[hash]

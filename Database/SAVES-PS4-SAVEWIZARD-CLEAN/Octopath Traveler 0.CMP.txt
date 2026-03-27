@@ -1,0 +1,2331 @@
+^2 = GameID: CUSA53477,CUSA54196,CUSA53480
+^3 = NAME: Octopath Traveler 0
+^SECONDLAYER: YES
+^4 = FILE: SaveData[0-9]+\ue4savegame.ps4.sav
+{MORE INFO CAN BE FOUND ON https://docs.google.com/spreadsheets/d/1viG65GKS0OoQA9bLtFIrFVJO7aufuGCv7GBLTdAxtIo}
+%Credits: FearLess Cheat Engine:DIGITS
+!Character:
++Current Job Points
+%Credits: Skiller
+$8001004B 00000050
+$434D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[CHMOD] 06000000
+$4E6F774A 70000C00
+$0000496E 7450726F
+$70657274 79000000
+$00000400 00000000
+$2800004B [Amount:05F5E0FF:HEX:BIG]
++Current Exp
+%Credits: Skiller
+$80010028 00000050
+$434D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[CHMOD] 00000000
+$88010021 04000000
+$45787000 0C000000
+$496E7450 726F7065
+$72747900 00000000
+$04000000 00000000
+$28000021 [Amount:05F5E0FF:HEX:BIG]
++Current HP
+%Credits: Skiller
+$80010028 00000050
+$434D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[CHMOD] 00000000
+$88010023 06000000
+$4E6F7748 70000C00
+$0000496E 7450726F
+$70657274 79000000
+$00000400 00000000
+$28000023 [Amount:0000270F:HEX:BIG]
++Current SP
+%Credits: Skiller
+$80010028 00000050
+$434D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[CHMOD] 00000000
+$88010023 06000000
+$4E6F7753 70000C00
+$0000496E 7450726F
+$70657274 79000000
+$00000400 00000000
+$28000023 [Amount:0000270F:HEX:BIG]
+!Additional:
++HP
+%Credits: Skiller
+$80010028 00000050
+$434D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[CHMOD] 00000000
+$8801002A 0D000000
+$41646469 74696F6E
+$616C4850 000C0000
+$00496E74 50726F70
+$65727479 00000000
+$00040000 00000000
+$2800002A [Amount:0000270F:HEX:BIG]
++SP
+%Credits: Skiller
+$80010028 00000050
+$434D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[CHMOD] 00000000
+$8801002A 0D000000
+$41646469 74696F6E
+$616C5350 000C0000
+$00496E74 50726F70
+$65727479 00000000
+$00040000 00000000
+$2800002A [Amount:0000270F:HEX:BIG]
++Atk
+%Credits: Skiller
+$80010028 00000050
+$434D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[CHMOD] 00000000
+$8801002B 0E000000
+$41646469 74696F6E
+$616C4174 6B000C00
+$0000496E 7450726F
+$70657274 79000000
+$00000400 00000000
+$2800002B [Amount:0000270F:HEX:BIG]
++Def
+%Credits: Skiller
+$80010028 00000050
+$434D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[CHMOD] 00000000
+$8801002B 0E000000
+$41646469 74696F6E
+$616C4465 66000C00
+$0000496E 7450726F
+$70657274 79000000
+$00000400 00000000
+$2800002B [Amount:0000270F:HEX:BIG]
++Magic Atk
+%Credits: Skiller
+$80010028 00000050
+$434D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[CHMOD] 00000000
+$88010030 13000000
+$41646469 74696F6E
+$616C4D61 67696341
+$746B000C 00000049
+$6E745072 6F706572
+$74790000 00000004
+$00000000 00000000
+$28000030 [Amount:0000270F:HEX:BIG]
++Magic Def
+%Credits: Skiller
+$80010028 00000050
+$434D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[CHMOD] 00000000
+$88010030 13000000
+$41646469 74696F6E
+$616C4D61 67696344
+$6566000C 00000049
+$6E745072 6F706572
+$74790000 00000004
+$00000000 00000000
+$28000030 [Amount:0000270F:HEX:BIG]
++Agi
+%Credits: Skiller
+$80010028 00000050
+$434D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[CHMOD] 00000000
+$8801002B 0E000000
+$41646469 74696F6E
+$616C4167 69000C00
+$0000496E 7450726F
+$70657274 79000000
+$00000400 00000000
+$2800002B [Amount:0000270F:HEX:BIG]
++Crt
+%Credits: Skiller
+$80010028 00000050
+$434D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[CHMOD] 00000000
+$8801002B 0E000000
+$41646469 74696F6E
+$616C4372 74000C00
+$0000496E 7450726F
+$70657274 79000000
+$00000400 00000000
+$2800002B [Amount:0000270F:HEX:BIG]
++Hit
+%Credits: Skiller
+$80010028 00000050
+$434D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[CHMOD] 00000000
+$8801002B 0E000000
+$41646469 74696F6E
+$616C4869 74000C00
+$0000496E 7450726F
+$70657274 79000000
+$00000400 00000000
+$2800002B [Amount:0000270F:HEX:BIG]
++Avd
+%Credits: Skiller
+$80010028 00000050
+$434D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[CHMOD] 00000000
+$8801002B 0E000000
+$41646469 74696F6E
+$616C4176 64000C00
+$0000496E 7450726F
+$70657274 79000000
+$00000400 00000000
+$2800002B [Amount:0000270F:HEX:BIG]
+!!
+!!
+!Items:
++Item Swap
+%Credits: Pj1980
+$80010028 00497465
+$6D4D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[ITED<ITEM TO SWAP>] 00000000 
+$28000024 [ITED<*WANT ITEM>]
++Change Item Quantity
+%Credits: Pj1980
+$80010028 00497465
+$6D4D7364 4944000C
+$00000049 6E745072
+$6F706572 74790000
+$00000004 00000000
+$[ITED] 00000000 
+$08000049 000000[Amount:63:HEX:BIG]
+!!
+^6 = MODS:
+[CHMOD]
+VALUE>NAME
+84030000	PC(900)
+85030000	PC/Warrior(901)
+86030000	PC/Apothecary(902)
+87030000	PC/Thief(903)
+88030000	PC/Scholar(904)
+89030000	PC/Cleric(905)
+8A030000	PC/Hunter(906)
+8B030000	PC/Merchant(907)
+8C030000	PC/Dancer(908)
+8D030000	PC/Novice Watch Member(909)
+E9030000	Princess Elrica(1001)
+EA030000	Princess Alaune(1002)
+EB030000	Bargello(1003)
+EC030000	Pierro Della(1004)
+ED030000	Fra(1005)
+EE030000	Sazantos the Flameguard(1006)
+EF030000	Sazantos the Flameguard(1007)
+F0030000	Sazantos the Flameguard(1008)
+F1030000	Sazantos the Flameguard(1009)
+F2030000	Laurana(1010)
+D8070000	Sazantos(2008)
+D9070000	El(2009)
+DA070000	Sazantos(2010)
+75270000	Viator(10101)
+D9270000	Reime(10201)
+3E280000	Ludo(10302)
+A2280000	Carinda(10402)
+07290000	Celsus(10503)
+6B290000	Heidne(10603)
+D0290000	Esperre(10704)
+342A0000	Macy(10804)
+992A0000	Phenn(10905)
+FD2A0000	Delitia(11005)
+622B0000	Pius(11106)
+C62B0000	Laurana(11206)
+D02B0000	Laurana(11216)
+2B2C0000	Xerc(11307)
+8F2C0000	Alexia(11407)
+F42C0000	Goodwin(11508)
+582D0000	Saoirse(11608)
+854E0000	Olberic(20101)
+EA4E0000	Tressa(20202)
+4F4F0000	Therion(20303)
+B44F0000	Alfyn(20404)
+19500000	H'aanit(20505)
+7E500000	Ophilia(20606)
+E3500000	Cyrus(20707)
+48510000	Primrose(20808)
+97750000	Bargello(30103)
+FF750000	Alaune(30207)
+5D760000	Richard(30301)
+C7760000	Solon(30407)
+25770000	Eltrix(30501)
+ED770000	Rondo(30701)
+58780000	Tatloch(30808)
+0C9D0000	Stia(40204)
+169D0000	Stia(40214)
+B5C30000	Sazantos(50101)
+BFC30000	Sazantos(50111)
+C0C30000	Sazantos(50112)
+19C40000	El(50201)
+CBEA0000	Isla(60107)
+CCEA0000	Richard(60108)
+CDEA0000	Heidne(60109)
+CEEA0000	Therion(60110)
+CFEA0000	Alfyn(60111)
+D0EA0000	Olberic(60112)
+D1EA0000	Sazantos(60113)
+D2EA0000	Sazantos(60114)
+D3EA0000	Sazantos(60115)
+[/CHMOD]
+[ITED]
+VALUE>NAME
+888A0100	Makeshift Sword
+898A0100	Long Sword
+8A8A0100	Iron Sword
+8B8A0100	Broadsword
+8C8A0100	Feather Sabre
+8D8A0100	Iron Blade
+8E8A0100	Silver Sword
+8F8A0100	Spirit Sword
+908A0100	Greatsword
+918A0100	Magic Eater
+928A0100	Champion's Sword
+938A0100	Falcon Sword
+948A0100	Heavy Blade
+958A0100	Bastard Sword
+968A0100	Eagle Sabre
+978A0100	Scorpion Blade
+988A0100	Little Crow
+998A0100	Moonblade
+9A8A0100	Warrior's Sword
+9B8A0100	Snipe Sabre
+9C8A0100	Crescent Sabre
+9D8A0100	Refined Sword
+9E8A0100	Knight's Sword
+9F8A0100	Divine Blade
+A08A0100	Platinum Sword
+A18A0100	Enchanted Edge
+A28A0100	Angel Sabre
+A38A0100	Reaper's Blade
+A48A0100	Carnage Blade
+A58A0100	Great Blade
+A68A0100	Limbus Sword
+A78A0100	Deathly Blade
+A88A0100	Trinity Sword
+A98A0100	Enchanted Sword
+AA8A0100	Guardian's Sword
+AB8A0100	Dragon Sabre
+AC8A0100	Evil Slayer
+AD8A0100	Forbidden Blade
+AE8A0100	Blade of Hope
+AF8A0100	Giant's Blade
+B08A0100	Divine Splendor
+B18A0100	Storm Blade
+B28A0100	Battle-Tested Blade
+B38A0100	Demon Blade Fisteralda
+B48A0100	Sacred Blade Fisteralda
+EC8A0100	Sword of the Watch
+708E0100	Makeshift Spear
+718E0100	Spear
+728E0100	Iron Spear
+738E0100	Bone Spear
+748E0100	War Spear
+758E0100	Arcane Glaive
+D48E0100	Memorial Harpoon
+768E0100	Silver Spear
+778E0100	Sandstorm Spear
+788E0100	Steel Lance
+798E0100	Slashing Glaive
+7A8E0100	Sunlands Spear
+7B8E0100	Partisan
+7C8E0100	Bandit's Spear
+7D8E0100	Heavy Lance
+7E8E0100	Light Spear
+7F8E0100	Master Harpoon
+808E0100	Soldier's Spear
+818E0100	Jaguar Lance
+828E0100	Black Iron Trident
+838E0100	Heavy Bone Spear
+848E0100	Bridge Lance
+858E0100	Scorched Bone Spear
+868E0100	Hedgehog Spear
+878E0100	Magus Glaive
+888E0100	Elemental Glaive
+898E0100	Imperial Lance
+8A8E0100	Paladin's Lance
+8B8E0100	Platinum Spear
+8C8E0100	Nightmare Glaive
+8D8E0100	Refined Spear
+8E8E0100	Limbus Spear
+8F8E0100	Heavy Longspear
+908E0100	Jade Lance
+918E0100	Soul Glaive
+928E0100	Guardian's Spear
+938E0100	Rare Metal Glaive
+948E0100	Venom Lance
+958E0100	Forbidden Spear
+968E0100	Spear of Hope
+978E0100	Gravity Lance
+988E0100	Tradewinds Spear
+998E0100	Tempest Spear
+9A8E0100	Battle-Tested Spear
+58920100	Makeshift Knife
+59920100	Dagger
+5A920100	Iron Dagger
+5B920100	Stinging Dagger
+5C920100	Arcane Knife
+5D920100	Befuddling Dagger
+5E920100	Falcon Dagger
+5F920100	Piercing Dagger
+60920100	Silver Dagger
+61920100	Quartz Dagger
+62920100	Swordbreaker
+63920100	Anchorite's Knife
+64920100	Chainbreaker
+65920100	Crescent Dagger
+66920100	Corsair's Knife
+67920100	Jade Dagger
+68920100	Drifting Dagger
+69920100	Stealthy Knife
+6A920100	Black Dagger
+6B920100	Obsidian Dagger
+6C920100	Rune Knife
+6D920100	Gaolbreaker
+6E920100	Diamond Dagger
+6F920100	Justice Breaker
+70920100	Crimson Dagger
+71920100	Champion Seeker
+72920100	Soul Knife
+73920100	Assassin's Dagger
+74920100	Doombreaker
+75920100	High House Dagger
+76920100	Limbus Dagger
+77920100	Meteorite Dagger
+78920100	Enforcer's Machete
+79920100	Breaker of Worlds
+7A920100	Guardian's Dagger
+7B920100	Legion Dagger
+7C920100	Dagger of Seclusion
+7D920100	Forbidden Dagger
+7E920100	Dagger of Hope
+7F920100	Ruinous Dagger
+80920100	Viper Dagger
+81920100	Deathclaw Dagger
+82920100	Battle-Tested Dagger
+40960100	Makeshift Axe
+41960100	Handaxe
+42960100	Iron Axe
+43960100	War Axe
+44960100	Arcane Hatchet
+45960100	Silver-Laden Axe
+46960100	Guard's Great Axe
+47960100	Battle Hatchet
+48960100	Cleaver
+49960100	Helmcleaver
+4A960100	Heavy Axe
+4B960100	Noxious Spider Axe
+4C960100	Hunter's Handaxe
+4D960100	Steel Axe
+4E960100	Francisca
+4F960100	Enchanted Axe
+50960100	Frost Axe
+51960100	Viking Axe
+52960100	Silver Axe
+53960100	Guardian's Axe
+54960100	Bone Cleaver
+55960100	Horn Cleaver
+56960100	Soul Hatchet
+57960100	Rock Cleaver
+58960100	Bear Cleaver
+59960100	Graviton Axe
+5A960100	Grand Cleaver
+5B960100	Inferno Axe
+5C960100	Elemental Hatchet
+5D960100	Dual Axe
+5E960100	Limbus Axe
+5F960100	Hill Cleaver
+60960100	Adamantine Hatchet
+61960100	Gargantuan Axe
+62960100	Guardian's Greataxe
+63960100	Ogre Cleaver
+64960100	Bloody Axe
+65960100	Forbidden Axe
+66960100	Axe of Hope
+67960100	Savage Greataxe
+68960100	Hero's Axe
+69960100	Spirit Axe
+6A960100	Battle-Tested Axe
+289A0100	Makeshift Bow
+299A0100	Longbow
+2A9A0100	Composite Bow
+2B9A0100	Giant Bow
+2C9A0100	Stone Bow
+2D9A0100	Wolf's Bow
+2E9A0100	Arcane Bow
+2F9A0100	Killer Bow
+309A0100	Magus's Bow
+319A0100	Heavy Bow
+329A0100	Knight's Greatbow
+339A0100	Mirage Bow
+349A0100	Soul Bow
+359A0100	Tomahawk Bow
+369A0100	Marksman's Longbow
+379A0100	Elemental Bow
+389A0100	Battle Bow
+399A0100	Rapid Bow
+3A9A0100	Raging Bow
+3B9A0100	Sandstorm Bow
+3C9A0100	Huntress's Longbow
+3D9A0100	Exotic Bow
+3E9A0100	Armor Crusher
+3F9A0100	Brilliant Bow
+409A0100	Raging Beast
+419A0100	Pirate's Longbow
+429A0100	Augmented Bow of the Falcon
+439A0100	Master's Longbow
+449A0100	Rune Bow
+459A0100	Adamantine Bow
+469A0100	Limbus Bow
+479A0100	Yeti's Longbow
+489A0100	Swiftstrike Bow
+499A0100	Holy Longbow
+4A9A0100	Guardian's Bow
+4B9A0100	Evening Mist
+4C9A0100	Leviathan Greatbow
+4D9A0100	Forbidden Greatbow
+4E9A0100	Bow of Hope
+4F9A0100	Woodland Bow
+509A0100	Primeval Bow of Storms
+519A0100	Moonlit Bow
+529A0100	Battle-Tested Bow
+109E0100	Makeshift Staff
+119E0100	Staff
+129E0100	Stone Rod
+139E0100	Light Staff
+149E0100	Quartz Rod
+159E0100	Mace
+169E0100	Laurel Staff
+179E0100	Lapis Rod
+189E0100	Oak Staff
+199E0100	Flail
+1A9E0100	Pole Mace
+1B9E0100	Psychic Staff
+1C9E0100	Conjurer's Staff
+1D9E0100	Staff of Wonders
+1E9E0100	Searing Staff
+1F9E0100	Ebony Staff
+209E0100	Jade Staff
+219E0100	Ivory Staff
+229E0100	Chain Flail
+239E0100	Trick Staff
+249E0100	Illusionist's Staff
+259E0100	Obsidian Staff
+269E0100	Aegis Mace
+279E0100	Sapphire Rod
+289E0100	Sledgehammer
+299E0100	Sturdy Sapphire Rod
+2A9E0100	Bloody Staff
+2B9E0100	Morningstar
+2C9E0100	Magic Breaker
+2D9E0100	Meteorite Rod
+2E9E0100	Limbus Rod
+2F9E0100	Giant's Club
+309E0100	Staff of the Sacred Church
+319E0100	Enchanted Rod
+329E0100	Guardian's Staff
+339E0100	Absolute Zero Staff
+349E0100	Wizard's Rod
+359E0100	Forbidden Staff
+369E0100	Staff of Hope
+379E0100	Rough-Hewn Rod
+389E0100	Sunshadow Staff
+399E0100	Staff of Discipline
+3A9E0100	Battle-Tested Staff
+F8A10100	Makeshift Fan
+F9A10100	Oaken Fan
+FAA10100	Zephyrean Fan
+FBA10100	Copper Fan
+FCA10100	Chakram
+FDA10100	Iron Fan
+FEA10100	Viper's Chakram
+FFA10100	Silver Fan
+00A20100	Pigeon Feather
+01A20100	Plum Blossom Fan
+02A20100	Gold Fan
+03A20100	Tiger Fan
+04A20100	Crosswind Fan
+05A20100	Venomous Chakram
+06A20100	Exotic Fan
+07A20100	Steel Fan
+08A20100	Crow Feather
+09A20100	Clergyman's Fan
+0AA20100	Whirlwind Fan
+0BA20100	Sundering Fan
+0CA20100	Black Chakram
+0DA20100	Assassin's Chakram
+0EA20100	Acacian Fan
+0FA20100	Aeolian Fan
+10A20100	Adamantine Fan
+11A20100	Hypnochakram
+12A20100	Umbral Fan
+13A20100	Harpy Feather
+14A20100	Fan of Tempests
+15A20100	Eagle Feather
+16A20100	Limbus Fan
+17A20100	Scorpion Chakram
+18A20100	Ebon Songstress
+19A20100	Principal
+1AA20100	Guardian's Fan
+1BA20100	Emperor's Fan
+1CA20100	Fan of the Dragon Princess
+1DA20100	Forbidden Fan
+1EA20100	Fan of Hope
+1FA20100	Divine Chakram
+20A20100	Divine Windstorm Fan
+21A20100	Evenfall Fan
+22A20100	Battle-Tested Fan
+E0A50100	Makeshift Tome
+E1A50100	Philosophy Tome
+E2A50100	Ancient Grimoire
+E3A50100	Alchemy Tome
+E4A50100	Secrets of Sleep: Volume I
+E5A50100	Basic Tactical Tome
+E6A50100	Spirit Tome
+E7A50100	History of Orsterra
+E8A50100	Basic Apothecarial Tome
+E9A50100	Tome of Knowledge
+EAA50100	Reinforced Tome
+EBA50100	Tale of the Princess and the Knight
+ECA50100	Necronomicon
+EDA50100	Encyclopedia of Herbs
+EEA50100	Tome of the Arcane I
+EFA50100	Secrets of Sleep: Volume II
+F0A50100	Intermediate Tactical Tome
+F1A50100	Intermediate Apothecarial Tome
+F2A50100	Steelbound Tome
+F3A50100	Elemental Grimoire
+F4A50100	Tales of Adventures Afar
+F5A50100	Twelve Divine Scriptures
+F6A50100	Introduction to Martial Arts
+F7A50100	Tome of the Arcane II
+F8A50100	Bloody Tome
+F9A50100	Advanced Tactical Tome
+FAA50100	Aelfric's Scriptures
+FBA50100	Rune Grimoire
+FCA50100	Studies of Anatomy
+FDA50100	Secrets of Sleep: Volume III
+FEA50100	Limbus Grimoire
+FFA50100	Truth of Origin
+00A60100	Book of Eastern Medicine
+01A60100	Introduction to Foreign Martial Arts
+02A60100	Guardian's Tome
+03A60100	Soul Requiem
+04A60100	Spellbound Tome
+05A60100	Forbidden Tome
+06A60100	Tome of Hope
+07A60100	Tome of Heaven and Earth
+08A60100	Dualfrost Tome
+09A60100	Solaris Tome
+0AA60100	Battle-Worn Tome
+C0D40100	Leather Hat
+C1D40100	Leather Helm
+C2D40100	Ordinary Hat
+C3D40100	Feathered Hat
+C4D40100	Silver Hairpiece
+C5D40100	Black Cap
+C6D40100	Bronze Helm
+C7D40100	Pointed Hat
+C8D40100	Circlet
+C9D40100	Sturdy Helm
+CAD40100	Headgear
+CBD40100	Iron Helm
+CCD40100	Flying Helm
+CDD40100	Fighter's Headband
+CED40100	Snowy Hood
+CFD40100	Saintly Tiara
+D0D40100	Chakra Band
+D1D40100	Falcon Hat
+D2D40100	Silver Helm
+D3D40100	Hasty Helm
+D4D40100	Lady's Tiara
+D5D40100	Horned Helm
+D6D40100	Antique Ceremonial Mask
+D7D40100	Starlight Hat
+D8D40100	Elder's Circlet
+D9D40100	Silent Bandanna
+DAD40100	Cursed Helm
+DBD40100	Gold Hairpiece
+DCD40100	Grand Helm
+DDD40100	Bishop's Hat
+DED40100	Fur Cap
+DFD40100	Enchanted Circlet
+E0D40100	Elemental Hat
+E1D40100	Oasis Hat
+E2D40100	Imperial Helm
+E3D40100	Platinum Helm
+E4D40100	Hypnos Crown
+E5D40100	Adamantine Hat
+E6D40100	Crystal Helm
+E7D40100	Champion's Helm
+9C340300	Collector's Hat
+4D950400	Anchorite's Hat
+55950400	Dragon Cap
+D0FB0100	Leather Vest
+D1FB0100	Robe
+D2FB0100	Leather Armor
+D3FB0100	Old Armor
+D4FB0100	Traditional Dancer Garb
+D5FB0100	Bronze Vest
+D6FB0100	Wind Attire
+D7FB0100	Black Attire
+D8FB0100	Bronze Armor
+D9FB0100	Copper Breastplate
+DAFB0100	Linen Robe
+DBFB0100	Quality Vest
+DCFB0100	Peacebringer's Garb
+DDFB0100	Sturdy Vest
+DEFB0100	Sturdy Armor
+DFFB0100	Snowy Cape
+E0FB0100	Iron Vest
+E1FB0100	Iron Armor
+E2FB0100	Fur Robe
+E3FB0100	Silver Vest
+E4FB0100	Charm Robe
+E5FB0100	Falcon Garb
+E6FB0100	Silver Armor
+E7FB0100	White Wolf Scarf
+E8FB0100	Spiked Armor
+E9FB0100	Grand Vest
+EAFB0100	Fur Coat
+EBFB0100	Elemental Light Armor
+ECFB0100	Silent Cape
+EDFB0100	Elemental Heavy Armor
+EEFB0100	Exotic Garb
+EFFB0100	Grand Armor
+F0FB0100	Elemental Robe
+F1FB0100	Imperial Vest
+F2FB0100	Ethereal Dancer Garb
+F3FB0100	Quartz Robe
+F4FB0100	Platinum Vest
+F5FB0100	High House's Armor
+F6FB0100	Rainbow Robe
+F7FB0100	Vest of Joy
+F8FB0100	Imperial Armor
+F9FB0100	Ornate Costume
+FAFB0100	Dragon's Vest
+FBFB0100	Ardante Attire
+FCFB0100	Primeval Robe
+FDFB0100	Platinum Armor
+FEFB0100	Crystal Vest
+FFFB0100	Lord's Robe
+00FC0100	Anchorite's Robe
+01FC0100	Cursed Armor
+02FC0100	Sorcerer's Robe
+03FC0100	Champion's Armor
+04FC0100	Villager's Clothes
+B0AD0100	Buckler
+B1AD0100	Small Shield
+B2AD0100	Round Shield
+B3AD0100	Sturdy Shield
+B4AD0100	Evasive Shield
+B5AD0100	Iron Shield
+B6AD0100	Weathered Treasure Shield
+B7AD0100	Kite Shield
+B8AD0100	Tattered Sacred Shield
+B9AD0100	Silver Shield
+BAAD0100	Plate Shield
+BBAD0100	Spiked Shield
+BCAD0100	High House Shield
+BDAD0100	Commander's Shield
+BEAD0100	Tower Shield
+BFAD0100	Diamond Shield
+C0AD0100	Elemental Shield
+C1AD0100	Sun Shield
+C2AD0100	Knight's Shield
+C3AD0100	Force Shield
+C4AD0100	Quartz Shield
+C5AD0100	Giant Shield
+C6AD0100	Leviathan Shield
+C7AD0100	Gargantuan Shield
+C8AD0100	Adamantine Shield
+C9AD0100	Battle-Tested Shield
+CAAD0100	Forbidden Shield
+CBAD0100	Cursed Shield
+CCAD0100	Champion's Shield
+56950400	Dragon Shield
+F0490200	Empowering Necklace
+F1490200	Empowering Bracelet
+F2490200	Empowering Cuffs
+F3490200	Empowering Earring
+F4490200	Stimulating Necklace
+F5490200	Stimulating Bracelet
+F6490200	Stimulating Cuffs
+F7490200	Stimulating Earring
+F8490200	Protective Necklace
+F9490200	Protective Bracelet
+FA490200	Protective Cuffs
+FB490200	Protective Earring
+FC490200	Unerring Necklace
+FD490200	Unerring Bracelet
+FE490200	Unerring Cuffs
+FF490200	Unerring Earring
+004A0200	Enlightening Necklace
+014A0200	Enlightening Bracelet
+024A0200	Enlightening Cuffs
+034A0200	Enlightening Earring
+044A0200	Sprightly Necklace
+054A0200	Sprightly Bracelet
+064A0200	Sprightly Cuffs
+074A0200	Sprightly Earring
+084A0200	Critical Necklace
+094A0200	Critical Bracelet
+0A4A0200	Critical Cuffs
+0B4A0200	Critical Earring
+0C4A0200	Crest of Hornburg
+0D4A0200	Jade Ring
+0E4A0200	Ancient Necklace
+0F4A0200	Traveler's Charm
+104A0200	Librarian's Amulet
+114A0200	Gold Earring
+124A0200	Shadowsage Necklace
+134A0200	Divine Halo
+144A0200	Mighty Belt
+154A0200	Battle Charm
+164A0200	Elemental Augmentor
+174A0200	Amulet of Granatt
+184A0200	Silver Locket
+194A0200	Mark of Fortitude
+1A4A0200	Physical Belt
+1B4A0200	Guardian Amulet
+1C4A0200	Elemental Ward
+1D4A0200	Mental Belt
+1E4A0200	Blessed Blazon
+1F4A0200	Blazon of Protection
+204A0200	Tattered Shoes
+214A0200	Falcon Gloves
+224A0200	Crescent Moon Necklace
+234A0200	Royal Hawk's Claw
+244A0200	Ward of the Knight Ardante
+254A0200	Rainbow Shell Charm
+264A0200	Rosary of Redemption
+274A0200	Amulet of the Nomad
+284A0200	Eye of Calamity
+294A0200	Champion's Belt
+2A4A0200	Victory Ring
+2B4A0200	Gale Feather
+2C4A0200	Hand-Sewn Gloves
+2D4A0200	Scarlet Stone of Protection
+2E4A0200	Foreign Ring
+2F4A0200	Imperial Scarf
+304A0200	Fire Amulet
+314A0200	Inferno Amulet
+324A0200	Ice Amulet
+334A0200	Blizzard Amulet
+344A0200	Lightning Amulet
+354A0200	Thunderstorm Amulet
+364A0200	Wind Amulet
+374A0200	Tempest Amulet
+384A0200	Light Amulet
+394A0200	Gleaming Amulet
+3A4A0200	Dark Amulet
+3B4A0200	Void Amulet
+3C4A0200	Flameguard's Charm
+3D4A0200	Champion's Charm
+5A4A0200	Sailor's Charm
+5B4A0200	Antidote Stone
+5C4A0200	Wakeful Stone
+5D4A0200	Articulate Stone
+5E4A0200	Bright Stone
+59340300	Lively Charm
+5F4A0200	Calming Stone
+604A0200	Congealing Stone
+614A0200	Fortifying Stone
+56340300	SP Cleansing Stone
+57340300	Invigorating Stone
+624A0200	Vivifying Stone
+644A0200	Beastly Scarf
+654A0200	Dragon's Scarf
+4A4A0200	Charm of Compassion
+4B4A0200	Finisher's Claws
+4C4A0200	Enfeebling Amulet
+4D4A0200	Blessing in Disguise
+4F4A0200	Fang of Ferocity
+504A0200	Brooch of Resolution
+514A0200	Spirit Scarf
+524A0200	Prosperity Charm
+534A0200	EXP Augmentor
+544A0200	JP Augmentor
+554A0200	Brooch of Joy
+564A0200	Lucky Coin
+584A0200	Alluring Ribbon
+594A0200	Spurning Ribbon
+54340300	Proof of Valor
+5A340300	Rebellious Collar
+5B340300	Tears of Hope
+5C340300	Bloodsoaked Cup
+5D340300	Royal Cuffs
+5E340300	Academy Insignia
+5F340300	Memorial Pendant
+60340300	Kitty Cape
+61340300	Seal of Oath
+62340300	Contrition of Wealth
+63340300	Seal of the Sacred Flame
+64340300	Famous Actress's Necklace
+65340300	Illusory Cape
+66340300	Pendant of the Skies
+67340300	Belt of the Seas
+68340300	Anklet of the Sands
+6A340300	Champion's Mark
+6B340300	Assistant's Amulet
+6C340300	Blissful Amulet
+6D340300	Sandstorm Plague Mandible
+6E340300	Contrition of Power
+6F340300	Mark of Salvation
+70340300	Contrition of Fame
+46830100	Fighter's Wristband
+47830100	Promise Charm
+48830100	Sacred Flame Charm
+74950400	Yaya's Hairpin
+75950400	Aqeeq Charm
+76950400	Prince of Thieves Necklace
+77950400	Man-Eating Miser's Ring
+374B0200	Helmcleaver Mastery
+384B0200	Downward Slash Mastery
+394B0200	Cross Strike Mastery
+3A4B0200	Vacuum Slice Mastery
+3B4B0200	Retreating Strike Mastery
+3C4B0200	Twofold Slash Mastery
+3D4B0200	Upending Strike Mastery
+3E4B0200	Trifold Slash Mastery
+3F4B0200	Sublime Slash Mastery
+404B0200	Stormblade Mastery
+414B0200	Level Slash Mastery
+424B0200	Swiftstrike Mastery
+434B0200	Flash of Malice Mastery
+444B0200	Vanguard Steel Mastery
+454B0200	Wild Blade Mastery
+464B0200	Aggressive Slash Mastery
+474B0200	Torrential Strike Mastery
+484B0200	Talon Strike Mastery
+4A4B0200	Vengeful Blade Mastery
+4B4B0200	Counter Posture Mastery
+4C4B0200	Spearhead Mastery
+4D4B0200	Vanguard Spear Mastery
+4E4B0200	Penetrating Thrust Mastery
+4F4B0200	Deadly Thrust Mastery
+504B0200	Piercing Thrust Mastery
+514B0200	Peerless Strike Mastery
+524B0200	Double Thrust Mastery
+534B0200	Arm-Crippling Thrust Mastery
+544B0200	Leg-Crippling Thrust Mastery
+554B0200	Crippling Thrust Mastery
+564B0200	Spear Sweep Mastery
+574B0200	Lunar Arc Mastery
+584B0200	Spear Whirl Mastery
+594B0200	Thousand Spears Mastery
+5A4B0200	Hya! Hya! Hya! Mastery
+5B4B0200	Wild Thrust Mastery
+5D4B0200	Reaping Slash Mastery
+5E4B0200	Reaping Thrash Mastery
+5F4B0200	Serpent's Fang Mastery
+604B0200	HP Thief Mastery
+614B0200	SP Thief Mastery
+624B0200	Double Edge Mastery
+634B0200	Tri-Edge Mastery
+644B0200	Frenzied Rampage Mastery
+654B0200	Lethal Thrust Mastery
+664B0200	Winding Throw Mastery
+674B0200	Dagger Dance Mastery
+684B0200	Dancing Leaves Mastery
+694B0200	Double Throw Mastery
+6A4B0200	Triple Throw Mastery
+6B4B0200	Utsusemi Dance Mastery
+6C4B0200	Wild Knives Mastery
+6E4B0200	Chop Wood Mastery
+6F4B0200	Amputation Mastery
+704B0200	Poisonous Touch Mastery
+714B0200	Cross Cleave Mastery
+724B0200	Vigorous Strike Mastery
+734B0200	Last Stand Mastery
+744B0200	Pulverizing Blow Mastery
+754B0200	Twin Bash Mastery
+764B0200	Spinning Axe Mastery
+774B0200	Full Swing Mastery
+784B0200	Spiral Swing Mastery
+794B0200	Boomerang Toss Mastery
+7A4B0200	Thundering Cleave Mastery
+510D0300	Fireball Mastery
+520D0300	Fire Storm Mastery
+530D0300	Icewind Mastery
+540D0300	Blizzard Mastery
+550D0300	Lightning Bolt Mastery
+560D0300	Lightning Blast Mastery
+570D0300	Tornado Mastery
+580D0300	Maelstrom Mastery
+590D0300	Luminescence Mastery
+5A0D0300	Blinding Light Mastery
+5B0D0300	Duskfall Mastery
+5C0D0300	Duskblight Mastery
+5D0D0300	First Aid Mastery
+5E0D0300	Expert First Aid Mastery
+5F0D0300	Pray Mastery
+600D0300	Divine Speed Mastery
+610D0300	Sidestep Mastery
+620D0300	Paralysis Formula Mastery
+630D0300	Share SP Mastery
+640D0300	Analyze Mastery
+650D0300	Goad Mastery
+660D0300	Max. HP +500 Mastery
+670D0300	Max. SP +50 Mastery
+680D0300	Phys. Atk. +50 Mastery
+690D0300	Elem. Atk. +50 Mastery
+6A0D0300	Phys. Def. +50 Mastery
+6B0D0300	Elem. Def. +50 Mastery
+6C0D0300	Speed +50 Mastery
+6D0D0300	Evasion +50 Mastery
+6E0D0300	Accuracy +50 Mastery
+6F0D0300	Crit. +50 Mastery
+700D0300	Vim and Vigor Mastery
+710D0300	Second Wind Mastery
+720D0300	Invigorating Attack Mastery
+730D0300	Healing Item Expertise Mastery
+740D0300	Conserve Magic Mastery
+750D0300	Evil Ward Mastery
+760D0300	Augmented Break Mastery
+770D0300	Price of Power Mastery
+780D0300	Surpassing Power Mastery
+790D0300	Detect Danger Mastery
+74340300	Hilt Strike Mastery
+75340300	Inhibit Offense Mastery
+76340300	Greater Heal Mastery
+77340300	BP in Adversity Mastery
+78340300	Eye for an Eye Mastery
+80340300	Steal Mastery
+81340300	Shadow Bind Mastery
+82340300	Master of Shadows Mastery
+83340300	Charging Strike Mastery
+84340300	Repeated Shot Mastery
+85340300	Double Arc Mastery
+86340300	Brain Bash Mastery
+87340300	Sweep Mastery
+88340300	Soporific Ice Fog Mastery
+89340300	Levin's Refrain Mastery
+8A340300	Storm's Refrain Mastery
+8B340300	Thunder's Refrain Mastery
+8C340300	Sweeping Gale Mastery
+8D340300	Wondrous Veil Mastery
+8E340300	Healing Light Mastery
+8F340300	Ethereal Healing Mastery
+90340300	Rallying Cry Mastery
+91340300	Focus Mastery
+92340300	Stout Wall Mastery
+93340300	Evasive Stance Mastery
+94340300	Parry Mastery
+95340300	Song of Battle Mastery
+96340300	Dance of Mist Mastery
+97340300	Dance of Sloughs Mastery
+98340300	Provoke Mastery
+99340300	Negotiation Mastery
+9A340300	Moonlit Repose Mastery
+9B340300	Appraisal Mastery
+F8930400	Judicious Blade Mastery
+F9930400	Reckless Strike Mastery
+FA930400	Reaper's Blade Mastery
+FB930400	Assault Mastery
+FC930400	Surprise Attack Mastery
+FD930400	Mafioso Mastery
+FE930400	Assassination Mastery
+FF930400	Recuperating Smash Mastery
+00940400	Fading Strike Mastery
+01940400	Immobilizing Shot Mastery
+02940400	Retreating Shot Mastery
+03940400	True Strike Mastery
+04940400	Piercing Shadow Mastery
+05940400	First Shot Mastery
+06940400	Arrow of Fortune Mastery
+07940400	Radiant Arrow Mastery
+08940400	Double Shot Mastery
+09940400	Two-Tiered Shot Mastery
+0A940400	Avenging Triple Shot Mastery
+0B940400	Stream of Arrows Mastery
+0C940400	Soaring Javelin Mastery
+0D940400	Mystic Shot Mastery
+0E940400	Arrow Volley Mastery
+0F940400	Arrowstorm Mastery
+10940400	Rippling Blow Mastery
+11940400	Stray Arrows Mastery
+12940400	Devastating Shot Mastery
+13940400	Rippling Shot Mastery
+14940400	Rain of Arrows Mastery
+15940400	Elemental Break Mastery
+16940400	Smashing Strike Mastery
+17940400	Mystical Staff Mastery
+18940400	Batter Mastery
+19940400	Repeated Whirling Bash Mastery
+1A940400	Haphazard Bash Mastery
+1B940400	Knock Out Mastery
+1C940400	Flower's Grace Mastery
+1D940400	Fan Frenzy Mastery
+1E940400	Swirling Arc Mastery
+1F940400	Spiral Dance Mastery
+20940400	Wild Strike Mastery
+21940400	Wild Blow Mastery
+22940400	Captivating Step Mastery
+23940400	Elemental Bash Mastery
+24940400	Arcane Tome Mastery
+25940400	Heavy Tome Mastery
+26940400	Pontificate Mastery
+27940400	Tumultuous Tome Toss Mastery
+28940400	Double Slap Mastery
+29940400	Triple Slap Mastery
+2A940400	Double Slam Mastery
+2B940400	Triple Slam Mastery
+2C940400	Quadruple Slam Mastery
+2D940400	Toxic Dust Mastery
+2E940400	Maiming Bite Mastery
+2F940400	Soporific Fang Mastery
+30940400	Ruinous Kick Mastery
+31940400	Poison Breath Mastery
+32940400	Rage Mastery
+33940400	Golden Underarm Throw Mastery
+34940400	Eye Gouge Mastery
+35940400	Savage Claw Mastery
+36940400	Rampage Mastery
+37940400	Shield Burst Mastery
+38940400	Smite of Fury Mastery
+39940400	Repeated Bash Mastery
+3A940400	Stunning Strike Mastery
+3B940400	Run Rampant Mastery
+3C940400	Counter Position Mastery
+3D940400	Cleansing Fire Mastery
+3E940400	Wildfire Mastery
+3F940400	Purging Flame Mastery
+40940400	Fiendish Flame Mastery
+41940400	Spark of Fire Mastery
+42940400	Hellish Flame Mastery
+43940400	Dragonfire Mastery
+44940400	Hellfire Mastery
+45940400	Ignis Ardere Mastery
+46940400	Flames of Judgment Mastery
+47940400	Wild Infernal Blade Mastery
+48940400	Wild Fiery Blow Mastery
+49940400	Icicle Mastery
+4A940400	Frosty Refrain Mastery
+4B940400	Ice Blast Mastery
+4C940400	Ice Boulder Mastery
+4D940400	Nocturne of Icy Slumber Mastery
+4E940400	Trade Blizzard Mastery
+4F940400	Mass Ice Blast Mastery
+50940400	Glacies Claudere Mastery
+51940400	Hailstorm Mastery
+52940400	Ice Fog Mastery
+53940400	Avalanche of Frost Mastery
+54940400	Thunderbird Mastery
+55940400	Lightning's Call Mastery
+56940400	Thunderquake Mastery
+57940400	Thunderbeast Mastery
+58940400	Song of Booming Thunder Mastery
+59940400	Thunderclap Mastery
+5A940400	Tonitrus Canere Mastery
+5B940400	Swiftbolt Mastery
+5C940400	Song of Roaring Thunder Mastery
+5E940400	Song of Winds Mastery
+5F940400	Tradewinds Mastery
+60940400	Wind's Breath Mastery
+61940400	Wind Slash Mastery
+62940400	Song of Howling Winds Mastery
+63940400	Trade Tempest Mastery
+64940400	Windblast Mastery
+65940400	Ventus Saltare Mastery
+66940400	Great Winds Mastery
+67940400	Tune of the Tempest Mastery
+68940400	Swirling Storm Mastery
+69940400	Holy Light Mastery
+6A940400	Divine Light Mastery
+6B940400	Light of Judgment Mastery
+6C940400	Virtuous Light Mastery
+6D940400	Cleansing Light Mastery
+6F940400	Lux Congerere Mastery
+71940400	Radiant Light Mastery
+72940400	Transcendent Light Mastery
+73940400	Heaven's Vengeance Mastery
+74940400	Darkest Night Mastery
+75940400	Moonlight Waltz Mastery
+76940400	Song of Lunar Shadow Mastery
+77940400	Dark Strike Mastery
+78940400	Night Ode Mastery
+7A940400	Veil of Darkness Mastery
+7C940400	Tenebrae Operire Mastery
+7D940400	Song of Nightfall Mastery
+7E940400	Curse of Shadow Mastery
+7F940400	Shadow of Remorse Mastery
+80940400	Arcane Shot Mastery
+81940400	Element Break Mastery
+82940400	Arcane Explosion Mastery
+83940400	Arcane Meteor Mastery
+84940400	Arcane Comet Mastery
+85940400	Element Thief Mastery
+86940400	Rest Mastery
+87940400	Sacred Flame's Blessing Mastery
+89940400	Vivify Mastery
+8A940400	Revive Mastery
+8B940400	Resurrect Mastery
+8C940400	Healing Touch Mastery
+8D940400	Heal Wounds Mastery
+8E940400	Arcane Healing Mastery
+8F940400	Heal More Mastery
+90940400	Dance of Repose Mastery
+91940400	Heal All Mastery
+92940400	Rehabilitate Mastery
+93940400	Dance of Respite Mastery
+94940400	Sacred Flame's Grace Mastery
+95940400	Prayer for Rain Mastery
+96940400	Abide Mastery
+97940400	Lion Dance Mastery
+98940400	Offensive Maneuver Mastery
+99940400	Focus Energy Mastery
+9A940400	Bolster Mastery
+9B940400	Dark Panther Dance Mastery
+9C940400	Peacock Strut Mastery
+9E940400	Mole Dance Mastery
+9F940400	Stalwart Veil Mastery
+A0940400	Stalwart Aura Mastery
+A1940400	Defensive Maneuver Mastery
+A2940400	Invoke Sacred Flame Mastery
+A3940400	Starsong Mastery
+A4940400	Sheltering Veil Mastery
+A5940400	Defensive Command Mastery
+A6940400	Guardian Aura Mastery
+A7940400	Evasion Command Mastery
+A8940400	Coney Caper Mastery
+A9940400	Porcupine Stomp Mastery
+AB940400	Panther Dance Mastery
+AC940400	Take Aim Mastery
+AD940400	Almighty Mastery
+AE940400	Stroke of Genius Mastery
+AF940400	Recuperate Mastery
+B0940400	Holy Flame Mastery
+B2940400	Sacred Flame's Protection Mastery
+B3940400	Sacred Shield Mastery
+B4940400	Celestial Veil Mastery
+B6940400	Reflective Veil Mastery
+B7940400	Dance of Immunity Mastery
+B8940400	Song of Blessings Mastery
+B9940400	Shackle Foe Mastery
+BA940400	Oppression Mastery
+BB940400	Armor Corrosive Mastery
+BC940400	Gospel of Debilitation Mastery
+BD940400	Lower Defenses Mastery
+BE940400	Disintegrating Dance Mastery
+BF940400	Eerie Smile Mastery
+C0940400	Mind Sap Mastery
+C1940400	Gospel of Attrition Mastery
+C2940400	Empoison Mastery
+C3940400	Toxify Mastery
+C4940400	Song of Slumber Mastery
+C5940400	Song of Darkness Mastery
+C6940400	Virulent Fog Mastery
+C7940400	Beguiling Dance Mastery
+C8940400	Ensnare Mastery
+C9940400	Collect Mastery
+CA940400	Donate BP Mastery
+CB940400	Donate Charge Mastery
+CC940400	Greater Distribution Mastery
+CD940400	Analyze All Mastery
+CE940400	Weak to Poison Mastery
+CF940400	Abating Orb Mastery
+D0940400	Ultimate Stance Mastery
+D2940400	Borrow BP Mastery
+D3940400	Incidental Analysis Mastery
+D4940400	Incidental Attack Mastery
+D5940400	Incidental Heal Mastery
+D6940400	Incidental Steal Mastery
+D7940400	Boon of Healing Mastery
+D8940400	Persistence Mastery
+D9940400	The Show Goes On Mastery
+DA940400	Extended Enfeeblement Mastery
+DB940400	Exacerbate Mastery
+DC940400	Prolonged Ailment Mastery
+DD940400	Heightened Healing Mastery
+DE940400	Recover SP Mastery
+DF940400	Invigorating Break Mastery
+E0940400	Inspiriting Break Mastery
+E1940400	Boosting Break Mastery
+E2940400	Saving Grace Mastery
+E3940400	Encore Mastery
+E4940400	Foresight Mastery
+E5940400	Vigorous Victor Mastery
+E6940400	Resurrection Mastery
+E7940400	Defiant Spirit Mastery
+E8940400	Perseverance Mastery
+E9940400	Extra Items Mastery
+EA940400	Extra Experience Mastery
+EB940400	Extra JP Mastery
+EC940400	Extra Leaves Mastery
+ED940400	BP Luck Mastery
+EE940400	SP Luck Mastery
+F0940400	Snatch Mastery
+F1940400	Sage's Wisdom Mastery
+F2940400	The Strength to Protect Mastery
+F3940400	Fierce Rush Mastery
+F4940400	Soulstone Expertise Mastery
+F5940400	Sheer Focus Mastery
+F6940400	Peak Performance Mastery
+F7940400	Master of Offense Mastery
+F8940400	SP Saver Mastery
+FA940400	Stronger Strikes Mastery
+FB940400	Fortitude Mastery
+FC940400	Bolstering Break Mastery
+FD940400	Amplifying Break Mastery
+FE940400	Ruthless Assault Mastery
+FF940400	Blessing of Restoration Mastery
+00950400	The Ring's Grace Mastery
+01950400	Stalwart Stance Mastery
+02950400	Resilient Stance Mastery
+03950400	Inspiriting Stance Mastery
+04950400	Unsung Hero Mastery
+05950400	Vast Energy Mastery
+06950400	Back Row Support Mastery
+07950400	Sniper Mastery
+08950400	Mystic Breath Mastery
+09950400	Rear Second Wind Mastery
+0A950400	Encourage Mastery
+0B950400	Back Row Protection Mastery
+0C950400	Second Serving Mastery
+0D950400	Salt the Wound Mastery
+0E950400	Patience Mastery
+0F950400	High Morale Mastery
+10950400	A Step Ahead Mastery
+11950400	Elemental Counter Mastery
+12950400	Rechant Mastery
+13950400	Unbridled Courage Mastery
+15950400	Study Foe Mastery
+16950400	Boost-Start Mastery
+17950400	Back Row Dancer Mastery
+18950400	Invigorate and Inspire Mastery
+19950400	Battle Refinement Mastery
+1A950400	Invigorate Mastery
+1B950400	Hang Tough Mastery
+1C950400	Narrow Escape Mastery
+1D950400	Iron Will Mastery
+1E950400	Resist Ailments Mastery
+1F950400	Entrap Mastery
+20950400	BP Recovery on Break Mastery
+21950400	More Rare Monsters Mastery
+22950400	Purification Mastery
+23950400	Reciprocate Mastery
+24950400	Of Equal Might Mastery
+25950400	Stat Swap Mastery
+26950400	Preventative Measures Mastery
+27950400	Monster Magnet Mastery
+29950400	Supporting Strike Mastery
+2A950400	Cover Mastery
+2B950400	Bodyguard Mastery
+2C950400	Lasting Memory Mastery
+33950400	Ultimate Support Mastery
+34950400	SP Recovery Mastery
+35950400	BP Regeneration Mastery
+36950400	Augmented Boost Mastery
+37950400	Elemental Expertise Mastery
+38950400	Physical Prowess Mastery
+39950400	Elemental Edge Mastery
+3A950400	Ultimate Charge Mastery
+3B950400	Immeasurable Power Mastery
+3C950400	Spirit of the Stage Mastery
+3F950400	Angelic Ward Mastery
+40950400	Evasive Maneuvers Mastery
+41950400	Brutal Sweep Mastery
+42950400	Twin Strike Mastery
+43950400	Blade of Vengeance Mastery
+44950400	Triple Strike Mastery
+45950400	Light Dragon Shot Mastery
+46950400	Twin Shot Mastery
+47950400	Healing Prayer Mastery
+48950400	Weaken Foundation Mastery
+4A950400	Formidable Stance Mastery
+4F950400	Leadership Mastery
+B1950400	Triple Arc Mastery
+B2950400	Enshroud Mastery
+BD950400	HP Recovery Up Mastery
+F5950400	Celebration of the Arts Mastery
+C0CA0000	Healing Grape
+64FC0100	Healing Grape (M)
+65FC0100	Healing Grape Bunch
+C14A0200	Grape Leaf
+C3CA0000	Inspiriting Plum
+66FC0100	Inspiriting Plum (M)
+67FC0100	Inspiriting Plum Basket
+C24A0200	Plum Leaf
+68FC0100	Energizing Pomegranate
+69FC0100	Energizing Pomegranate (M)
+6AFC0100	Energizing Pomegranate (L)
+6BFC0100	Refreshing Jam
+C34A0200	Revitalizing Jam
+C44A0200	Rejuvenating Jam
+C54A0200	Reinvigorating Jam
+C64A0200	Pomegranate Leaf
+C74A0200	Red Apple
+6CFC0100	Olive of Life
+CBCA0000	Olive of Life (M)
+6DFC0100	Olive of Life (L)
+6EFC0100	Almighty Olive
+6FFC0100	Herb of Healing
+70FC0100	Herb of Clamor
+71FC0100	Herb of Light
+73FC0100	Herb of Awakening
+74FC0100	Herb of Valor
+75FC0100	Herb of Vigor
+79340300	Herb of Mending
+7A340300	Herb of Fortification
+7B340300	Herb of SP Aid
+C84A0200	Herb of Vitality
+C94A0200	Cleansing Leaf
+CA4A0200	Candy
+CB4A0200	Tree Nut
+CC4A0200	Raspberry
+CD4A0200	Wheat Bread
+CE4A0200	Octopath Rolls
+76FC0100	Bottle of Poison Dust
+77FC0100	Bottle of Blinding Dust
+7D340300	Bottle of Sanguine Dust
+79FC0100	Bottle of Sleeping Dust
+CF4A0200	Bottle of Numbing Dust
+7AFC0100	Fire Soulstone
+7BFC0100	Fire Soulstone (M)
+7CFC0100	Fire Soulstone (L)
+D14A0200	Fire Soulstone (XL)
+7DFC0100	Ice Soulstone
+7EFC0100	Ice Soulstone (M)
+7FFC0100	Ice Soulstone (L)
+D24A0200	Ice Soulstone (XL)
+80FC0100	Thunder Soulstone
+81FC0100	Thunder Soulstone (M)
+82FC0100	Thunder Soulstone (L)
+D34A0200	Thunder Soulstone (XL)
+83FC0100	Wind Soulstone
+84FC0100	Wind Soulstone (M)
+85FC0100	Wind Soulstone (L)
+D44A0200	Wind Soulstone (XL)
+86FC0100	Light Soulstone
+87FC0100	Light Soulstone (M)
+88FC0100	Light Soulstone (L)
+D54A0200	Light Soulstone (XL)
+89FC0100	Shadow Soulstone
+8AFC0100	Shadow Soulstone (M)
+8BFC0100	Shadow Soulstone (L)
+D64A0200	Shadow Soulstone (XL)
+D74A0200	Almighty Soulstone
+8CFC0100	Nourishing Nut
+8DFC0100	Nourishing Nut (M)
+8EFC0100	Nourishing Nut (L)
+8FFC0100	Invigorating Nut
+90FC0100	Invigorating Nut (M)
+91FC0100	Invigorating Nut (L)
+92FC0100	Fortifying Nut
+93FC0100	Fortifying Nut (M)
+94FC0100	Fortifying Nut (L)
+95FC0100	Magic Nut
+96FC0100	Magic Nut (M)
+97FC0100	Magic Nut (L)
+98FC0100	Tough Nut
+99FC0100	Tough Nut (M)
+9AFC0100	Tough Nut (L)
+9BFC0100	Resistant Nut
+9CFC0100	Resistant Nut (M)
+9DFC0100	Resistant Nut (L)
+9EFC0100	Light Nut
+9FFC0100	Light Nut (M)
+A0FC0100	Light Nut (L)
+A1FC0100	Critical Nut
+A2FC0100	Critical Nut (M)
+A3FC0100	Critical Nut (L)
+A4FC0100	Sharp Nut
+A5FC0100	Sharp Nut (M)
+A6FC0100	Sharp Nut (L)
+A7FC0100	Slippery Nut
+A8FC0100	Slippery Nut (M)
+A9FC0100	Slippery Nut (L)
+85130100	Bone
+D84A0200	Empty Coin Pouch
+D94A0200	Pebble
+86130100	Dirty Ball of Cloth
+8C130100	Mysterious Seed
+8F130100	Weathered Boots
+8D130100	Fish Tooth
+90130100	Necklace
+8B130100	Glass Marble
+92130100	Handkerchief
+93130100	Hip Flask
+7B130100	Mysterious Ore
+9E130100	Feather Duster
+98130100	Portrait with a Kiss
+96130100	Light Coin Pouch
+87130100	Rigid Wire
+7C130100	Imitation Gold Ore
+88130100	Quill
+89130100	Scrap of Rope
+9F130100	Glossy Gold Coin
+91130100	Hardened Bread
+AE190100	Fragrant Fertilizer
+A2130100	Cloth Map
+9C110100	Shiny Stone
+97130100	Jug
+A0130100	Hyper Tonic
+4D120100	Mohair
+D7110100	Large Fang
+A1130100	Monster Perfume
+A3130100	Stuffed Toy
+A4130100	Tagged Collar
+A5130100	Rusty Cup
+AD190100	Praying Doll
+B3130100	Stylish Leather Bag
+76190100	Whetstone
+7D130100	Wood Carving
+A6130100	Fine Quill
+A7130100	Poysenberry
+B1130100	Cutlery Set
+A8130100	Hairbrush
+A9130100	Large Feather
+AA130100	Small Cup
+7E130100	Stone Sculpture
+CC130100	Straw Rope
+B6130100	Cheap Whiskey
+B7130100	Crude Poetry
+7F130100	Painting
+AB130100	Coin Pouch
+B5130100	Broken Goldwork
+80130100	Incense Burner
+75190100	Gold Dust
+BA190100	Used Fishing Rod
+B7190100	Handwoven Basket
+CF130100	Red Dream Diary
+5C190100	Popular Romance Novel
+7C190100	Polished Silver Clock
+AC130100	Copper Lantern
+AD130100	Polished Handmirror
+AE130100	Bag of Odds and Ends
+81130100	Dubious Gold Ore
+70190100	Cheap Wine
+AF130100	Introduction to Adventuring
+DA4A0200	Introduction to Business
+CD130100	Candle
+6E190100	Epic Tale
+82130100	Old Coin
+90190100	Emperor Crab
+B8190100	Unglazed Pottery
+BB190100	Giant Dried Fish
+6F190100	Assorted Tasty Fruits
+8F190100	Ambrosial Milk
+B0130100	Heavy Coin Pouch
+B8130100	Small Goldwork
+B9130100	Good Whiskey
+BA130100	Inspiring Poetry
+B9190100	Exquisite Silverwork
+83130100	Rare Stone
+76130100	Bronze-Filled Pouch
+DB4A0200	Vivid Jewel
+84130100	Fool's Gold Ore
+8D190100	Alpaca Fleece Fabric
+BC190100	Cait Furball
+6D190100	Complex Tome
+B4130100	Freshly Shorn Fleece
+BC130100	Quality Whiskey
+77130100	Timepiece
+BD130100	Heartwarming Poetry
+BB130100	Large Goldwork
+71190100	Good Wine
+78130100	Silver-Filled Pouch
+DC4A0200	Ambitious Coin Pouch
+BD190100	Catsip
+BE130100	Giant Goldwork
+7D190100	Old Tome
+BF130100	Superior Whiskey
+AC190100	Vivid Woven Wool
+C0130100	Rousing Poetry
+CE130100	Overflowing Coin Pouch
+79130100	Dazzling Artwork
+C7130100	Old Painting
+72190100	Quality Wine
+DD4A0200	Gold Nugget
+7A130100	Cat's Eye
+C8130100	Rare Tome
+B2130100	Stylish Gold Coin
+8E190100	Quality Ingredients
+DE4A0200	Commemorative Coin
+99130100	Commemorative Gold Coin
+73190100	Superior Wine
+9A130100	Gold-Filled Pouch
+9B130100	Platinum Coin
+9C130100	Jewel Bag
+9D130100	Heavy Gold Nugget
+CA130100	Goddess Sculpture
+DF4A0200	Sunken Gold Statue
+B4950400	White Grape Blossom
+B6950400	Copper Coin
+B7950400	Silver Coin
+B8950400	Gold Coin
+B9950400	Aged Wine
+BA950400	Broken Bottle
+BB950400	Broken Frying Pan
+72C40000	Ring of Aelfric the Flamebringer
+46C40000	Ring of Draefendi, the Huntress
+47C40000	Ring of Brand, the Thunderblade
+48C40000	Ring of Aeber, Prince of Thieves
+49C40000	Ring of Alephan, the Scholarking
+ABC40000	Ring of Bifelgan, the Trader
+ACC40000	Ring of Sealticge, Lady of Grace
+ADC40000	Ring of Dohter, the Charitable
+1FC40000	Key to Auguste's Villa
+5FC40000	Bell Amulet
+20C40000	Documentation of Tytos's Crimes
+21C40000	Adorabloom
+45C40000	Key to Herminia's Manse
+68C40000	Alaune's Letter of Accusation
+5EC40000	White Grape Blossom
+84C40000	Town Information
+19960400	Town Information
+1A960400	Town Information
+85C40000	The Have-Not's Proof
+60C40000	Clergy's Information
+67C40000	Clergy's Information
+61C40000	Rinyuu's Information
+62C40000	Phina's Information
+63C40000	Miza's Information
+64C40000	Dmitri's Information
+65C40000	Sazantos's Information
+66C40000	Rondo's Information
+88C40000	Documentation of Tytos's Crimes
+8BC40000	Manuscript Page
+A2C40000	The Legend of Saint Odypus
+A3C40000	The Three Flames
+E7C40000	Edoras Soldier's Curse
+E8C40000	Burned Man's Curse
+F1C40000	Enraged Prostitute's Curse
+F2C40000	Taviani's Curse
+F3C40000	Wounded Syndicate Member's Curse
+1D960400	(Unlocalized)
+F25F0100	Azure Flamestone
+FD5F0100	Liber Magicae Alexiae
+BC820100	Bouquet of Hollowlilies
+BD820100	Nourishing Root
+BE820100	Foreign Tome
+C1820100	Mysterious Ancient Text
+C2820100	Bernstein Records
+BE950400	White Silk Handkerchief
+4C830100	Letter Fragment
+5CFC0100	Crested Key
+5DFC0100	Crested Key
+5EFC0100	Crested Key
+5FFC0100	Crested Key
+60FC0100	Crested Key
+61FC0100	Crested Key
+62FC0100	Crested Key
+63FC0100	Crested Key
+3E4A0200	Donescia
+3F4A0200	Apothecary's Tools
+684A0200	Key to the Large Door
+6A4A0200	Brass Key
+6B4A0200	Drawbridge Key (Left)
+6C4A0200	Drawbridge Key (Right)
+364B0200	Secret Invitation
+7B4B0200	Script of the Archmagus
+7C4B0200	Script of the Warbringer
+7D4B0200	Script of the Starseer
+7E4B0200	Script of the Runeblade
+53340300	Rusted Dagger
+55340300	Snowgrass Root
+EC930400	Antique Jewelry Box
+ED930400	Apinea
+EE930400	Avinea
+EF930400	The Queen Orsa
+F5930400	Rainbow Soulstone
+F6930400	「神秘の鍵」カウント用アイテム
+1B960400	(Unlocalized)
+1C960400	(Unlocalized)
+49950400	Warm Blanket
+57950400	Rosso's Powder
+58950400	Valuable Gem
+59950400	Sewing Set
+5A950400	Maa'fa's Collar
+5B950400	Tuna
+5C950400	Molly's Hair Ornament
+5D950400	Wish Upon the Shooting Star
+5E950400	Esperre's Father's Letter
+5F950400	Damaged Sacred Seal
+60950400	Yaya's Hairpin
+61950400	Crest of a Ruined Nation
+62950400	Worn Bow
+63950400	A Little Prayer
+64950400	Cursed Dagger
+65950400	Arcangelo's Pirate Flag
+66950400	Ancient Tome
+67950400	Tough Baked Treat
+68950400	Augite Pendant
+69950400	Light Elemental Crystal
+6A950400	Memorial Play Ticket
+6B950400	Bisque Salamander Figure
+6C950400	Arena Medal
+6D950400	Arena Medal
+6E950400	Healing Hot Springs
+6F950400	The King and the Golden Dust
+70950400	Adrift in the Vast River
+71950400	Monster Trap
+72950400	Heavenly Jewel
+73950400	Crimson Stone
+B0950400	Ship's Repair Fee
+78950400	Noble Horned Beast Statue
+79950400	Overflowing Golden Chalice
+7A950400	Valiant Winged Lion Statue
+7B950400	Ancient Model Ship
+7C950400	Blessed Sheep Stuffed Toy
+7D950400	Cat God's Statue
+7E950400	The Days of Donescu
+7F950400	Brave Warrior's Pot
+80950400	Great Pirate Arcangelo's Helm
+81950400	Timebend Crystal
+82950400	Floating Stone
+86950400	Traveling Music Score I
+87950400	Traveling Music Score II
+88950400	Traveling Music Score III
+89950400	Traveling Music Score IV
+8A950400	Traveling Music Score V
+8B950400	Traveling Music Score VI
+8C950400	Traveling Music Score VII
+8D950400	Traveling Music Score VIII
+8E950400	Battle Music Score I
+8F950400	Intense Battle Music Score I
+90950400	Battle Music Score V
+91950400	Battle Music Score VI
+92950400	Intense Battle Music Score II
+93950400	Intense Battle Music Score III
+94950400	Intense Battle Music Score IV
+95950400	Unmarked Isle Music Score
+96950400	Master of Wealth Music Score
+97950400	Master of Power Music Score
+98950400	Master of Fame Music Score
+99950400	Master of All Music Score
+9A950400	Bestower of Wealth Music Score
+9B950400	Bestower of Power Music Score
+9C950400	Bestower of Fame Music Score
+9D950400	Battle Music Score VII
+9E950400	Battle Music Score IV
+9F950400	Arena Music Score I
+A0950400	Arena Music Score II
+A1950400	Bestower of All Music Score I
+A2950400	Guardians of Light Music Score
+A3950400	Hell Battle Music Score
+A4950400	Maidens' Isle Music Score
+A5950400	The Heavens Battle Music Score
+A6950400	Bestower of All Music Score II
+A7950400	Introductory Music Score
+A8950400	Creational Music Score
+A9950400	Wishvale Music Score
+AA950400	Battle Music Score II
+AB950400	Battle Music Score III
+AC950400	Battle Music Score VIII
+AD950400	Champions Music Score
+AE950400	The Final Music Score
+7E340300	Collection Point Info
+7F340300	Collection Point Info
+43C40000	Collection Point Info
+44C40000	Collection Point Info
+27C50000	Collection Point Info
+2DC50000	Collection Point Info
+32C40000	Collection Point Info
+34C40000	Collection Point Info
+35C40000	Collection Point Info
+38C40000	Collection Point Info
+51C40000	Collection Point Info
+C3950400	Collection Point Info
+C4950400	Collection Point Info
+C5950400	Collection Point Info
+C6950400	Collection Point Info
+3BC40000	Collection Point Info
+1E960400	Snowman
+C7950400	Collection Point Info
+C8950400	Collection Point Info
+C9950400	Collection Point Info
+CA950400	Collection Point Info
+CB950400	Collection Point Info
+CC950400	Collection Point Info
+CD950400	Collection Point Info
+CE950400	Collection Point Info
+CF950400	Collection Point Info
+D0950400	Collection Point Info
+D1950400	Collection Point Info
+D2950400	Collection Point Info
+D3950400	Collection Point Info
+D4950400	Collection Point Info
+D5950400	Collection Point Info
+D6950400	Collection Point Info
+D7950400	Collection Point Info
+D8950400	Collection Point Info
+D9950400	Collection Point Info
+DA950400	Collection Point Info
+DB950400	Collection Point Info
+DC950400	Collection Point Info
+DD950400	Collection Point Info
+DE950400	Collection Point Info
+DF950400	Collection Point Info
+E0950400	Collection Point Info
+E1950400	Collection Point Info
+E2950400	Collection Point Info
+E3950400	Collection Point Info
+E4950400	Collection Point Info
+E5950400	Collection Point Info
+E6950400	Collection Point Info
+E7950400	Collection Point Info
+E8950400	Collection Point Info
+E9950400	Collection Point Info
+EA950400	Collection Point Info
+EB950400	Collection Point Info
+EC950400	Collection Point Info
+ED950400	Collection Point Info
+EE950400	Collection Point Info
+EF950400	Collection Point Info
+F0950400	Collection Point Info
+F1950400	Collection Point Info
+F2950400	Collection Point Info
+F3950400	Collection Point Info
+17960400	Collection Point Info
+01770100	Additional Smithy Recipe
+02770100	Additional Smithy Recipe
+03770100	Additional Smithy Recipe
+04770100	Additional Smithy Recipe
+05770100	Additional Smithy Recipe
+06770100	Additional Smithy Recipe
+07770100	Additional Smithy Recipe
+08770100	Additional Smithy Recipe
+09770100	Additional Smithy Recipe
+0A770100	Additional Smithy Recipe
+0B770100	Additional Smithy Recipe
+0C770100	Additional Smithy Recipe
+0D770100	Additional Smithy Recipe
+0F770100	Additional Smithy Recipe
+10770100	Additional Smithy Recipe
+14770100	Additional Smithy Recipe
+BC950400	Additional Smithy Recipe
+C1950400	Additional Smithy Recipe
+C2950400	Additional Smithy Recipe
+86C40000	Confessional Information
+87C40000	Missing Person's Information
+89C40000	Tarset's Secret
+8AC40000	Tarset's Information
+C0C40000	Song of Red Hill
+E9C40000	Information About a Slaughter
+F4C40000	Late Syndicate Member's Information
+444A0200	Tips on Vegetable Farming
+404A0200	Dedicated Cleric's Information
+804B0200	Deacon Guillaume's Information
+7F4B0200	Ivan's Information
+814B0200	Cause of the Fire
+58340300	Primrose's Information
+EB930400	Information About the Pendant
+83950400	Apothecary's Secret
+84950400	The Ticket's Whereabouts
+85950400	How to Capture Eelfish
+E1730100	Valore Recipe Book
+E2730100	Emberglow Recipe Book
+E3730100	Theatropolis Recipe Book
+E4730100	Rippletide Recipe Book
+E5730100	Cragspear Recipe Book
+E6730100	Clearbrook Recipe Book
+E7730100	Sunshade Recipe Book
+E8730100	Shepherds Rock Recipe Book
+E9730100	Flamesgrace Recipe Book
+EA730100	Victors Hollow Recipe Book
+EB730100	Donescu Recipe Book
+EC730100	Sufrataljah Recipe Book
+ED730100	Grandport Recipe Book
+EE730100	Atlasdam Recipe Book
+EF730100	Berecain Recipe Book
+F0730100	Good-Luck Omelette Recipe
+F1730100	<favorite_dish_name> Recipe
+F2730100	Rinyuu's Stew Recipe
+F3730100	Berry Pie Recipe
+F4730100	Tressalad Recipe
+2E950400	Roast Iridove Recipe
+2F950400	Chicken Skewer Recipe
+30950400	River Bean Patty Recipe
+4B950400	Tomato Salad Recipe
+29110300	Fence Designs
+2A110300	Sturdy Fence Designs
+2B110300	Sandbag Design
+2C110300	Pot Designs
+2D110300	Decorated Streetlight Design
+2E110300	Eerie Streetlight Design
+2F110300	Vase Designs
+30110300	Luxurious Vase Designs
+31110300	Cart Designs
+32110300	Fountain Designs
+33110300	Grand Fountain Designs
+34110300	Basket and Crate Designs
+35110300	Apple Basket Designs
+36110300	Angel Statue Designs
+37110300	Foreign Statue Design
+38110300	World Flag Designs
+39110300	Weapon Display Designs
+3A110300	Armor Display Designs
+3B110300	Windmill Design
+3C110300	Otherworldly Decoration Designs
+15960400	Festive Decoration Designs
+16960400	Bottle Designs
+18960400	Sacred Candlestick Design
+C9770100	List of Valore Trade Goods
+CA770100	List of Emberglow Trade Goods
+CB770100	List of Theatropolis Trade Goods
+CC770100	List of Rippletide Trade Goods
+CD770100	List of Cragspear Trade Goods
+CE770100	List of Clearbrook Trade Goods
+CF770100	List of Sunshade Trade Goods
+D0770100	List of Shepherds Rock Trade Goods
+D1770100	List of Flamesgrace Trade Goods
+D2770100	List of Victors Hollow Trade Goods
+D3770100	List of Donescu Trade Goods
+D4770100	List of Sufrataljah Trade Goods
+D5770100	List of Grandport Trade Goods
+D7770100	List of Atlasdam Trade Goods
+D8770100	List of Berecain Trade Goods
+0F960400	List of Agapea Trade Goods
+65770100	Valore Equipment Archive
+66770100	Emberglow Equipment Archive
+67770100	Theatropolis Equipment Archive
+68770100	Rippletide Equipment Archive
+69770100	Cragspear Equipment Archive
+6A770100	Clearbrook Equipment Archive
+6B770100	Sunshade Equipment Archive
+6C770100	Shepherds Rock Equipment Archive
+6D770100	Flamesgrace Equipment Archive
+6E770100	Victors Hollow Equipment Archive
+6F770100	Donescu Equipment Archive
+70770100	Sufrataljah Equipment Information
+71770100	Grandport Equipment Archive
+73770100	Atlasdam Equipment Archive
+74770100	Berecain Equipment Archive
+78770100	Agapea Equipment Archive
+50950400	Tytos Cathedral Equipment Archive
+79770100	Hell Equipment Archive
+20CB0000	Frostlands House Blueprints
+21CB0000	Frostlands Establishment Blueprints
+22CB0000	Flatlands House Blueprints
+23CB0000	Flatlands Establishment Blueprints
+24CB0000	Coastlands House Blueprints
+25CB0000	Coastlands Establishment Blueprints
+26CB0000	Cliftlands House Blueprints
+27CB0000	Cliftlands Establishment Blueprints
+28CB0000	Riverlands House Blueprints
+29CB0000	Riverlands Establishment Blueprints
+2ACB0000	Sunlands House Blueprints
+2BCB0000	Sunlands Establishment Blueprints
+2CCB0000	Sufrataljah House Blueprints
+2DCB0000	Sufrataljah Establishment Blueprints
+2ECB0000	Highlands House Blueprints
+2FCB0000	Highlands Establishment Blueprints
+30CB0000	Berecain House Blueprints
+31CB0000	Berecain Establishment Blueprints
+32CB0000	Agapea House Blueprints
+33CB0000	Agapea Establishment Blueprints
+3E830100	<favorite_dish_name>
+3F830100	<favorite_dish_name>
+40830100	<favorite_dish_name>
+41830100	<favorite_dish_name>
+42830100	<favorite_dish_name>
+43830100	<favorite_dish_name>
+44830100	<favorite_dish_name>
+45830100	<favorite_dish_name>
+7D730100	Chicken Skewers
+7E730100	Stewed Chicken & Tomatoes
+7F730100	Cabbage Rolls
+80730100	Sautéed Veal
+81730100	Lamb Bourguignon
+82730100	Grilled Fish
+83730100	Fried Plounder
+84730100	Marinated Octopus & Plounder
+85730100	Paella
+86730100	Seafood Acqua Pazza
+87730100	Fried Potato Wedges
+88730100	River Bean Patties
+89730100	Cream Pasta
+8A730100	Pepperoni Pizza
+8B730100	Curry with Rice
+8C730100	Tomato Salad
+8D730100	Green Salad
+8E730100	Bean Salad
+8F730100	Grilled Beef Lettuce Wraps
+90730100	Ratatouille
+91730100	Embershroom Soup
+92730100	Potage
+93730100	Milk Soup
+94730100	Sausage Stew
+95730100	Bouillabaisse
+96730100	Grape Juice
+97730100	Grape Ice Cream
+98730100	Apple Pie
+99730100	Fruit Yogurt
+9A730100	Fruit Trays
+9B730100	Lucky Fried Eggs
+9C730100	Good-Luck Omelettes
+9D730100	Prosperous Scotch Eggs
+9E730100	Nourishing Garlic Rice
+9F730100	Rejuvenating Seafood Sauté
+A0730100	Meat & Veggie Stir-Fry
+A1730100	Mushroom & Riverbean Omelettes
+A2730100	Premium Mutton Stew
+A3730100	Grilled Chicken
+A4730100	Exotic Savory Pizza
+A5730100	Marinated Seafood Salad
+A6730100	Clam & Fish Meunière
+A7730100	Special Fruit Tart
+A8730100	Rinyuu's Stew
+A9730100	Berry Pie
+AA730100	Tressalad
+F7930400	Roast Iridove
+914A0200	Chicken
+924A0200	Cow
+934A0200	Sheep
+944A0200	Pig
+9B4A0200	Broccoli Seed
+9C4A0200	Paprika Seed
+9D4A0200	Grape Seed
+9E4A0200	Cabbage Seed
+9F4A0200	Embershroom Bed
+A04A0200	Potato Seed
+A14A0200	Tomato Seed
+A24A0200	Lettuce Seed
+A34A0200	Carrot Seed
+A44A0200	River Bean Seed
+A54A0200	Rice Seed
+A64A0200	Lemon Seed
+A74A0200	Wheat Seed
+A84A0200	Strawberry Seed
+A94A0200	Orange Seed
+AA4A0200	Garlic Seed
+AB4A0200	Onion Seed
+AC4A0200	Apple Seed
+AD4A0200	Blueberry Seed
+AE4A0200	Enhancement Nut Seed
+954A0200	Egg
+964A0200	Chicken Meat
+974A0200	Pork
+984A0200	Milk
+994A0200	Beef
+9A4A0200	Mutton
+4C950400	Iridove
+1C4B0200	Broccoli
+1D4B0200	Paprika
+1E4B0200	Grape Bunch
+1F4B0200	Cabbage
+204B0200	Embershroom
+214B0200	Potato
+224B0200	Tomato
+234B0200	Lettuce
+244B0200	Carrot
+254B0200	River Bean
+264B0200	Rice
+274B0200	Lemon
+284B0200	Wheat
+294B0200	Strawberry
+2A4B0200	Orange
+2B4B0200	Garlic
+2C4B0200	Onion
+2D4B0200	Apple
+2E4B0200	Blueberry
+2F4B0200	Plounder
+304B0200	Silver-Eyed Fish
+314B0200	Shrimp
+324B0200	Squid
+334B0200	Octopus
+344B0200	Clam
+354B0200	Spices
+905F0100	no data.
+15FC0100	Lumber
+2FFC0100	Quality Lumber
+30FC0100	Stone
+31FC0100	Quality Stone
+32FC0100	Cloth
+33FC0100	Quality Cloth
+34FC0100	Metal
+35FC0100	Quality Metal
+36FC0100	Musician's Instrument
+37FC0100	Monster Trap
+16FC0100	Strange Key
+17FC0100	Clay
+38FC0100	Flower
+39FC0100	Silver Ingot
+3AFC0100	Gold Ingot
+3BFC0100	Radiant Cornerstone
+F0930400	Octopus Suction Cup
+F1930400	Cat Whisker
+F4930400	Food Ration
+C6130100	Curious Antiques
+11960400	Hollow Nightmare
+12960400	Divine Spiritual Essence
+13960400	Harvest Bag
+14960400	Storage Bag
+C3820100	Well
+C4820100	Fountain
+C5820100	Small Fountain
+C6820100	Grand Fountain
+C7820100	Lavish Fountain
+C8820100	Decorative Stone Marker
+C9820100	Simple Vase
+CA820100	Lavish Vase
+CB820100	Tall Vase
+CC820100	Flower Pot
+CD820100	Ceramic Vase
+CE820100	Porcelain Vase
+CF820100	Bench
+D0820100	Table
+D1820100	Chair
+D2820100	Barrel (Vertical)
+D3820100	Barrel (Horizontal)
+D4820100	Piled Barrels
+D5820100	Wooden Crate
+D6820100	Piled Wooden Crates
+D7820100	Pot
+D8820100	Large Pot
+D9820100	Rope
+DA820100	Bottle
+DB820100	Large Bottle
+DC820100	Sandbag
+DD820100	Piled Sandbags
+DE820100	Firewood
+DF820100	Clothesline
+E0820100	Western Clothesline
+E1820100	Beast Pelt
+E2820100	Bulletin Board
+E3820100	Cart
+E4820100	Wagon
+E6820100	Stagecoach
+E7820100	Basket of Eggs
+E8820100	Basket of Grapes
+E9820100	Basket of Red Apples
+EA820100	Basket of Green Apples
+EB820100	Food Basket
+ED820100	Bag of Onions
+EE820100	Bag of Apples
+EF820100	Bag of Bread
+F5820100	Chicken Run
+F6820100	Crate of Bottles
+F8820100	Game Hoist
+F9820100	Crate of Crabs
+FA820100	Gladiator Statue (Left)
+51950400	Gladiator Statue (Right)
+FB820100	Theatrical Statue (Left)
+52950400	Theatrical Statue (Right)
+FC820100	Angel Statue (Left)
+53950400	Angel Statue (Right)
+06830100	Pardis Statue
+07830100	Westerling Statue
+08830100	Sacred Beast Statue (Left)
+54950400	Sacred Beast Statue (Right)
+09830100	Snowman
+0A830100	Flag of Victors Hollow
+0B830100	Flag of Theatropolis
+0C830100	Flag of Wold
+0D830100	Flag of Emberglow
+0E830100	Flag of Grandport
+0F830100	Grandport Naval Flag
+10830100	Flag of Edoras
+11830100	Flag of Altinia
+12830100	Flag of Riven
+13830100	Bonfire
+14830100	Stone Bonfire
+E2930400	Decorated Streetlight
+E3930400	Eerie Streetlight
+15830100	Sword Display
+16830100	Bow Display
+17830100	Axe Display
+18830100	Polearm Display
+19830100	Shield Display
+1A830100	Helm Display
+1B830100	Armor Display
+1C830100	Barrel of Weapons
+1D830100	Weapon Rack
+1E830100	Barricade
+E4930400	Fresh Foods Stall
+E5930400	Antiques Stall
+E6930400	Firewood Rack
+E7930400	Windmill
+1F830100	Wooden Fence
+20830100	Ranch Fence
+21830100	Rope Fence
+22830100	Log Fence
+23830100	Stone Railing
+24830100	Stone Fence
+25830100	Metal Fence
+27830100	Sundries Bag
+28830100	Flower Bouquet
+2A830100	Conifer Tree
+2B830100	Snowy Conifer Tree
+2C830100	Large Hardwood Tree
+2D830100	Grand Hardwood Tree
+2E830100	Hardwood Tree
+2F830100	Cactus
+30830100	Barren Tree
+31830100	Bush
+32830100	Large Bush
+33830100	Underbrush
+34830100	Brushwood
+35830100	White Flowers
+36830100	Purple Flowers
+37830100	Blue Flowers
+38830100	Yellow Flowers
+39830100	Lilac Flowers
+3A830100	Red Flower Patch
+DB090300	Lavender Patch
+DC090300	White and Purple Flower Patch
+DD090300	Tree Stump
+DE090300	Log
+DF090300	Stone Flower Bed
+E8930400	Brick Flower Bed
+E9930400	Stone Planter
+EA930400	Brick Planter
+E0090300	Fir Tree
+E1090300	Exotic Tree
+E2090300	Rock
+E3090300	Eerie Statue
+E4090300	Silver Octopuff Statue
+E5090300	Gold Octopuff Statue
+E6090300	Silver Cait Statue
+E7090300	Gold Cait Statue
+E8090300	Silver Scales
+E9090300	Gold Scales
+EA090300	Tome of Records
+EC090300	Treasure Chest
+F9090300	Margot's Farming Tool
+EF090300	Silver Farming Tool
+F0090300	Gold Farming Tool
+FA090300	Margot's Food Trough
+F1090300	Silver Food Trough
+F2090300	Gold Food Trough
+F3090300	Harvest Box
+F4090300	Harvest Box (Large)
+F5090300	Harvest Box (Grand)
+F6090300	Storage Box
+F7090300	Storage Box (Large)
+F8090300	Storage Box (Grand)
+420D0300	Dirt
+430D0300	Cobbles
+440D0300	Grass
+450D0300	Cobblestone
+460D0300	Ornate Cobblestone
+470D0300	Big Ornate Cobblestone
+480D0300	White Cobblestone
+490D0300	Church Motif Cobblestone
+4A0D0300	Big Church Motif Cobblestone
+4B0D0300	Sand
+4C0D0300	White Sand
+4D0D0300	Yellow Cobblestone
+4E0D0300	Desert Motif Cobblestone
+4F0D0300	Snow
+500D0300	Volcanic Soil
+10960400	Fan Motif Cobblestone
+89C70000	House
+91C70000	House (Large)
+99C70000	House (Grand)
+72C70000	Ranch
+75C70000	Training Ground
+78C70000	Salon
+7BC70000	Museum
+7EC70000	Monster Arena
+81C70000	Strange House
+F6950400	Blue Octopuff Statue
+F7950400	Blue Cait Statue
+F8950400	Table with Roasted Chicken
+F9950400	Table with a Feast
+FA950400	Table with Wine
+FB950400	Table with Whiskey
+FC950400	Table with Bread
+FD950400	Festive Arch
+FE950400	Large Festive Arch
+FF950400	Festive Flag
+00960400	Grand Vase
+01960400	Large Turnip
+02960400	Fresh Tomatoes
+03960400	Fresh Potatoes
+04960400	Mystical Bonfire
+05960400	Mystical Plant
+06960400	Large Mystical Plant
+07960400	Shade Plant
+08960400	Large Shade Plant
+09960400	Mystical Vase
+0A960400	Tranquil Plant
+0B960400	Tranquil Bonfire
+0C960400	Herald's Horn Statue (Left)
+0D960400	Herald's Horn Statue (Right)
+0E960400	Sacred Candlestick
+419C0000	#N/A
+429C0000	#N/A
+439C0000	Auguste's Journal
+449C0000	Someone's Journal
+459C0000	Lord Scarabe's Journal
+489C0000	The Accursed Night
+499C0000	Salomon's Journal
+4A9C0000	History of Wishvale
+4B9C0000	Lavore's Journal
+4C9C0000	Yusia's Journal
+4D9C0000	Yaya's Journal
+4E9C0000	Miza's Journal
+4F9C0000	Velnorte's Journal
+509C0000	Lebrandt's Journal
+519C0000	King Jennish's Journal
+529C0000	Rinyuu's Journal
+549C0000	Finis's Journal
+559C0000	Twelve Heavenly Scriptures: Book 1
+569C0000	Twelve Heavenly Scriptures: Book 2
+579C0000	Twelve Heavenly Scriptures: Book 3
+589C0000	Twelve Heavenly Scriptures: Book 4
+599C0000	Twelve Heavenly Scriptures: Book 5
+5A9C0000	Twelve Heavenly Scriptures: Book 6
+5B9C0000	Twelve Heavenly Scriptures: Book 7
+5C9C0000	Twelve Heavenly Scriptures: Book 8
+5D9C0000	Twelve Heavenly Scriptures: Book 9
+5E9C0000	Twelve Heavenly Scriptures: Book 10
+5F9C0000	Twelve Heavenly Scriptures: Book 11
+609C0000	Twelve Heavenly Scriptures: Book 12
+619C0000	Twelve Heavenly Scriptures: Apocryph
+629C0000	The Defenders of Ash - Preface
+639C0000	The Defenders of Ash - Lab Report 1
+649C0000	The Defenders of Ash - Lab Report 2
+659C0000	The Defenders of Ash - Postscript
+669C0000	Scrawled Note
+679C0000	The Corruption of Power
+689C0000	The Corruption of Wealth
+699C0000	The Corruption of Fame
+6A9C0000	Pharamea's Journal
+6B9C0000	A Priestess's Journal
+F4950400	Lyblac's Journal
+[/ITED]

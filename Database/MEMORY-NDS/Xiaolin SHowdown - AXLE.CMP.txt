@@ -1,0 +1,38 @@
+^2 = GameID: AXLE
+^3 = NAME: Xiaolin Showdown
+^4 = FILE: NTSC(Action Replay/Codebreaker/Game Genie)
+!Mini Games:
+!Wind Hockey:
++Player 1 (win after 1 Goal)
+$0212DBE0 00000005
++Player 2 (win after 1 Goal)
+$0212DBE2 00000005
+!!
+!Boulder Basho:
++Quick Score Gain
+$020ED838 000000FF
++Super Quick Score Gain
+$120ED838 0000FFFF
++Max INf Lives
+$020ED820 00000063
++Always have Extended bat (2)
+$020ED856 00000001
++Always have Max bat (6) (Fits all screen)
+$020ED856 00000001
++Multiplyers 255
+$120ED826 0000FEFE
++3 Balls
+$020ED4DD 00000001
++Steel Balls
+$020ED4DF 00000001
++Sticky Balls
+$020ED4E1 00000001
++Crazy world (Gives everything){{Needs Joker ON/OFF - Do not turn this on when Starting the mini game it will mess up the time count down turn on once ball starts moving}}
+$00000000 0000[Joker:NDS]
+$020ED4e0 00000001
+$00000000 0000[Joker:NDS]
+$020ED4e0 00000000
++No timer count down
+$020ED830 00000000
+!!
+!!

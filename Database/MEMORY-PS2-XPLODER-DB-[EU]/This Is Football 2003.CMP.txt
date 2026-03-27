@@ -1,0 +1,26 @@
+^3 = NAME: This Is Football 2003
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 0042FE8F
+!!
+!Home Team:
++Scores 9 Goals
+%Credits: Xploder
+$D05FC702 2809FAFF
+$004D3390 28096809
++Scores No Goals
+%Credits: Xploder
+$D05FC702 2809F5FF
+$004D3390 28096800
+!!
+!Away Team:
++Scores 9 Goals
+%Credits: Xploder
+$D05FC702 2809F3FF
+$004D377A 28096809
++Scores No Goals
+%Credits: Xploder
+$D05FC702 2809FCFF
+$004D377A 28096800
+!!

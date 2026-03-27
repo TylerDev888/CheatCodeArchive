@@ -1,0 +1,269 @@
+^2 = GameID: CUSA05933,CUSA05786,CUSA05409
+^3 = NAME: Kingdom Hearts HD I.5 And II.5 Remix
+^SECONDLAYER: YES{Kingdom Hearts: Final Mix - Is the only one with No SecondLayer}
+^4 = FILE: Kingdom Hearts: Final Mix CUSA0(5933|5786|5409)-KINGDOMHEARTS(NA|EN|JP)\SAVE0.DAT
++Edit Item
+$92000000 0000049A
+$080000[Item] 000000[Amount:64:HEX:BIG]
+^4 = FILE: Kingdom Hearts 2: Final Mix CUSA0(5933|5786|5409)-KINGDOMHEARTS2(USA|EUN|JPN)\SAVE0.DAT
+^4 = FILE: Re:Chain Of Memories CUSA0(5933|5786|5409)-KINGDOMHEARTSReC(U|E|J)\SAVE0.DAT
+^4 = FILE: Birth By Sleep: Final Mix (BLUS31460|BLES02070|BLJM61220)-ULJM05775-G[0-9]{4}\SAVEDATA.DAT
+^6 = MODS:
+[Item]
+Offset>Type>Name
+00	Consumable	Potion
+01	Consumable	Hi-Potion
+02	Consumable	Ether
+03	Consumable	Elixir
+04	Unused	
+05	Consumable	Mega-Potion
+06	Consumable	Mega-Ether
+07	Consumable	Megalixir
+08	Synthesis	Fury Stone
+09	Synthesis	Power Stone
+0A	Synthesis	Energy Stone
+0B	Synthesis	Blazing Stone
+0C	Synthesis	Frost Stone
+0D	Synthesis	Lightning Stone
+0E	Synthesis	Dazzling Stone
+0F	Synthesis	Stormy Stone
+10	Accessory	Protect Chain
+11	Accessory	Protera Chain
+12	Accessory	Protega Chain
+13	Accessory	Fire Ring
+14	Accessory	Fira Ring
+15	Accessory	Firaga Ring
+16	Accessory	Blizzard Ring
+17	Accessory	Blizzara Ring
+18	Accessory	Blizzaga Ring
+19	Accessory	Thunder Ring
+1A	Accessory	Thundara Ring
+1B	Accessory	Thundaga Ring
+1C	Accessory	Ability Stud
+1D	Accessory	Guard Earring
+1E	Accessory	Master Earring
+1F	Accessory	Chaos Ring
+20	Accessory	Dark Ring
+21	Accessory	Element Ring
+22	Accessory	Three Stars
+23	Accessory	Power Chain
+24	Accessory	Golem Chain
+25	Accessory	Titan Chain
+26	Accessory	Energy Bangle
+27	Accessory	Angel Bangle
+28	Accessory	Gaia Bangle
+29	Accessory	Magic Armlet
+2A	Accessory	Rune Armlet
+2B	Accessory	Atlas Armlet
+2C	Accessory	Heartguard
+2D	Accessory	Ribbon
+2E	Accessory	Crystal Crown
+2F	Accessory	Brave Warrior
+30	Accessory	Ifrit's Horn
+31	Accessory	Inferno Band
+32	Accessory	White Fang
+33	Accessory	Ray of Light
+34	Accessory	Holy Circlet
+35	Accessory	Raven's Claw
+36	Accessory	Omega Arts
+37	Accessory	EXP Earring
+38	Unused	
+39	Accessory	EXP Ring
+3A	Accessory	EXP Bracelet
+3B	Accessory	EXP Necklace
+3C	Accessory	Firagun Band
+3D	Accessory	Blizzagun Band
+3E	Accessory	Thundagun Band
+3F	Accessory	Ifrit Belt
+40	Accessory	Shiva Belt
+41	Accessory	Ramuh Belt
+42	Accessory	Moogle Badge
+43	Accessory	Cosmic Arts
+44	Accessory	Royal Crown
+45	Accessory	Prime Cap
+46	Accessory	Obsidian Ring
+47	Unused	
+48	Unused	
+49	Unused	
+4A	Unused	
+4B	Unused	
+4C	Unused	
+4D	Unused	
+4E	Unused	
+4F	Unused	
+50	Keyblade	Kingdom Key
+51	Keyblade	Dream Sword
+52	Keyblade	Dream Shield
+53	Keyblade	Dream Rod
+54	Keyblade	Wooden Sword
+55	Keyblade	Jungle King
+56	Keyblade	Three Wishes
+57	Keyblade	Fairy Harp
+58	Keyblade	Pumpkinhead
+59	Keyblade	Crabclaw
+5A	Keyblade	Divine Rose
+5B	Keyblade	Spellbinder
+5C	Keyblade	Olympia
+5D	Keyblade	Lionheart
+5E	Keyblade	Metal Chocobo
+5F	Keyblade	Oathkeeper
+60	Keyblade	Oblivion
+61	Keyblade	Lady Luck
+62	Keyblade	Wishing Star
+63	Keyblade	Ultima Weapon
+64	Keyblade	Diamond Dust
+65	Keyblade	One-Winged Angel
+66	Staff	Mage's Staff
+67	Staff	Morning Star
+68	Staff	Shooting Star
+69	Staff	Magus Staff
+6A	Staff	Wisdom Staff
+6B	Staff	Warhammer
+6C	Staff	Silver Mallet
+6D	Staff	Grand Mallet
+6E	Staff	Lord Fortune
+6F	Staff	Violetta
+70	Staff	Dream Rod
+71	Staff	Save the Queen
+72	Staff	Wizard's Relic
+73	Staff	Meteor Strike
+74	Staff	Fantasista
+75	Staff	????
+76	Shield	Knight's Shield
+77	Shield	Mythril Shield
+78	Shield	Onyx Shield
+79	Shield	Stout Shield
+7A	Shield	Golem Shield
+7B	Shield	Adamant Shield
+7C	Shield	Smasher
+7D	Shield	Gigas Fist
+7E	Shield	Genji Shield
+7F	Shield	Herc's Shield
+80	Shield	Dream Shield
+81	Shield	Save the King
+82	Shield	Defender
+83	Shield	Mighty Shield
+84	Shield	Seven Elements
+85	Shield	????
+86	Weapon	Spear
+87	Weapon	No Weapon
+88	Weapon	Scimitar
+89	Weapon	No Weapon
+8A	Weapon	No Weapon
+8B	Weapon	Dagger
+8C	Weapon	Claws
+8D	Boost	Tent
+8E	Boost	Camping Set
+8F	Boost	Cottage
+90	Unused	
+91	Unused	
+92	Unused	
+93	Unused	
+94	Report	Ansem's Report 11
+95	Report	Ansem's Report 12
+96	Report	Ansem's Report 13
+97	Boost	Power Up
+98	Boost	Defense Up
+99	Boost	AP Up
+9A	Synthesis	Serenity Power
+9B	Synthesis	Dark Matter
+9C	Synthesis	Mythril Stone
+9D	Recipe	Fire Arts
+9E	Recipe	Blizzard Arts
+9F	Recipe	Thunder Arts
+A0	Recipe	Cure Arts
+A1	Recipe	Gravity Arts
+A2	Recipe	Stop Arts
+A3	Recipe	Aero Arts
+A4	Recipe	Shiitank Rank
+A5	Recipe	Matsutake Rank
+A6	Recipe	Mystery Mold
+A7	Report	Ansem's Report 1
+A8	Report	Ansem's Report 2
+A9	Report	Ansem's Report 3
+AA	Report	Ansem's Report 4
+AB	Report	Ansem's Report 5
+AC	Report	Ansem's Report 6
+AD	Report	Ansem's Report 7
+AE	Report	Ansem's Report 8
+AF	Report	Ansem's Report 9
+B0	Report	Ansem's Report 10
+B1	KeyItem	Khama Vol. 8
+B2	KeyItem	Salegg Vol. 6
+B3	KeyItem	Azal Vol. 3
+B4	KeyItem	Mava Vol. 3
+B5	KeyItem	Mava Vol. 6
+B6	KeyItem	Theon Vol. 6
+B7	KeyItem	Nahara Vol. 5
+B8	KeyItem	Hafet Vol. 4
+B9	KeyItem	Empty Bottle
+BA	KeyItem	Old Book
+BB	KeyItem	Emblem Piece
+BC	KeyItem	Emblem Piece 2
+BD	KeyItem	Emblem Piece 3
+BE	KeyItem	Emblem Piece 4
+BF	KeyItem	Log
+C0	KeyItem	Cloth
+C1	KeyItem	Rope
+C2	KeyItem	Seagull Egg
+C3	KeyItem	Fish
+C4	KeyItem	Mushroom
+C5	KeyItem	Coconut
+C6	KeyItem	Drinking Water
+C7	KeyItem	Navi-G Piece 1
+C8	KeyItem	Navi-G Piece 2
+C9	KeyItem	Navi-Gummi 1
+CA	KeyItem	Navi-G Piece 3
+CB	KeyItem	Navi-G Piece 4
+CC	KeyItem	Navi-Gummi 2
+CD	Summon	Watergleam
+CE	Summon	Naturespark
+CF	Summon	Fireglow
+D0	Summon	Earthshine
+D1	KeyItem	Crystal Trident
+D2	KeyItem	Postcard
+D3	KeyItem	Torn Page 1
+D4	KeyItem	Torn Page 2
+D5	KeyItem	Torn Page 3
+D6	KeyItem	Torn Page 4
+D7	KeyItem	Torn Page 5
+D8	KeyItem	Slide 1
+D9	KeyItem	Slide 2
+DA	KeyItem	Slide 3
+DB	KeyItem	Slide 4
+DC	KeyItem	Slide 5
+DD	KeyItem	Slide 6
+DE	KeyItem	Footprints
+DF	KeyItem	Claw Marks
+E0	KeyItem	Stench
+E1	KeyItem	Antenna
+E2	KeyItem	Forget-Me-Not
+E3	KeyItem	Jack-In-The-Box
+E4	KeyItem	Entry Pass
+E5	KeyItem	Hero License
+E6	Synthesis	Pretty Stone
+E7	Unused	N41
+E8	Synthesis	Lucid Shard
+E9	Synthesis	Lucid Gem
+EA	Synthesis	Lucid Crystal
+EB	Synthesis	Spirit Shard
+EC	Synthesis	Spirit Gem
+ED	Synthesis	Power Shard
+EE	Synthesis	Power Gem
+EF	Synthesis	Power Crystal
+F0	Synthesis	Blaze Shard
+F1	Synthesis	Blaze Gem
+F2	Synthesis	Frost Shard
+F3	Synthesis	Frost Gem
+F4	Synthesis	Thunder Shard
+F5	Synthesis	Thunder Gem
+F6	Synthesis	Shiny Crystal
+F7	Synthesis	Bright Shard
+F8	Synthesis	Bright Gem
+F9	Synthesis	Bright Crystal
+FA	Synthesis	Mystery Goo
+FB	Synthesis	Gale
+FC	Synthesis	Mythril Shard
+FD	Synthesis	Mythril
+FE	Synthesis	Orichalcum
+[/Item]

@@ -1,0 +1,28 @@
+^2 = GameID: CUSA00218,CUSA00211
+^3 = NAME: Metal Gear Solid 5: Ground Zeroes
+^5 = APCRED: encryption/checksum by bucanero
+^4 = FILE: SAVE*
+!CUSA00218:
++CUSA00218 - Decrypt Save Data (required)
+$set range:0x0000,EOF+1
+$DECRYPT MGS5_TPP(0xEA11D524)
++CUSA00218 - Update Md5 Checksum (required)
+$set range:0x0010,EOF+1
+$set [hash]:MD5
+$write at 0x0000:[hash]
++CUSA00218 - Encrypt Save Data (required)
+$set range:0x0000,EOF+1
+$ENCRYPT MGS5_TPP(0xEA11D524)
+!!
+!CUSA00211:
++CUSA00211 - Decrypt Save Data (required)
+$set range:0x0000,EOF+1
+$DECRYPT MGS5_TPP(0xD2225CCB)
++CUSA00211 - Update Md5 Checksum (required)
+$set range:0x0010,EOF+1
+$set [hash]:MD5
+$write at 0x0000:[hash]
++CUSA00211 - Encrypt Save Data (required)
+$set range:0x0000,EOF+1
+$ENCRYPT MGS5_TPP(0xD2225CCB)
+!!

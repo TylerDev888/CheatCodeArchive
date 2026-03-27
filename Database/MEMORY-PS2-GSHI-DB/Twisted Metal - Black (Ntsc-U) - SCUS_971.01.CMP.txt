@@ -1,0 +1,72 @@
+^3 = NAME: Twisted Metal - Black (Ntsc-U)
+^2 = GameID: SCUS-97101
++Infinite Special Energy {<I>Shoot Freeze Missiles And Whatever Else As Much As You Want. Worked For Me.</I>}
+%Credits: bungholio
+$204FB4C4 00000000
+$204FB4C8 00000000
+$204FB4CC 00000000
+$204FB4D0 00000000
+$204FB4D4 00000000
+$204FB4D8 00000000
++Max Starting Lives In 1 Player Challenge Mode {<I>The Lives Counter Only Goes To 4 At The Most, So It Just Keeps Counting Down To 0 And Then Resetting To 4 And Counting Down To 0 And Repeating. It&#39;S Not A Bug.</I>}
+%Credits: bungholio
+$10160F44 0000FFFF
++Max Starting Lives In 1 Player Story Mode [65535 Lives] {<I>The Lives Counter Only Goes To 4 At The Most, So It Just Keeps Counting Down To 0 And Then Resetting To 4 And Counting Down To 0 And Repeating. It&#39;S Not A Bug.</I>}
+%Credits: bungholio
+$10160F38 0000FFFF
++Max Starting Lives In 2 Player Split Screen Coop {<I>The Lives Counter Only Goes To 4 At The Most, So It Just Keeps Counting Down To 0 And Then Resetting To 4 And Counting Down To 0 And Repeating. It&#39;S Not A Bug.</I>}
+%Credits: bungholio
+$10160F54 0000FFFF
++Player 1 - Die Instantly [Use With Joker] {<I>Either Address Is Fine. Use  Along With Either Of These Codes To &#39;Explode With Water&#39;.</I>}
+%Credits: bungholio
+$00257FC7 000000FF
+$00257FC5 000000FF
+$00257FC6 000000FF
++Player 1 - Drive Through Walls Easily, But Can't Use Special Moves {<I>Just Deactivate Them With The Joker Command With 00 If You Want To Use Freeze Missiles And Stuff. Only Works On Junkyard, Minion&#39;S Stadium, Prison Ship, Snowy Roads, Drive-In Movie, Abandoned Skyscrapers, And Warhawk&#39;S Rooftop</I>}
+%Credits: bungholio
+$00257FD0 000000FF
++Player 1 - Flying Mode + Perfect Controls, Too! {<I>Only Works On Junkyard, Minion&#39;S Stadium, Prison Ship, Snowy Roads, Drive-In Movie, Abandoned Skyscrapers, And Warhawk&#39;S Rooftop</I>}
+%Credits: bungholio
+$10257F32 00000000
++Player 1 - Instant Brake Even In Air
+%Credits: bungholio
+$40257F10 00040001
+$00000000 00000000
++Player 1 - Turn On All Cheat Codes, Infinite Special Meter {<I>Only Works On Junkyard, Minion&#39;S Stadium, Prison Ship, Snowy Roads, Drive-In Movie, Abandoned Skyscrapers, And Warhawk&#39;S Rooftop</I>}
+%Credits: bungholio
+$00257FDC 000000FF
++Player 1 Can't Be Frozen {<I>Only Works On Junkyard, Minion&#39;S Stadium, Prison Ship, Snowy Roads, Drive-In Movie, Abandoned Skyscrapers, And Warhawk&#39;S Rooftop</I>}
+%Credits: bungholio
+$00257FD3 00000000
++Player 1 Joker
+%Credits: bungholio
+$D066F202 0000????
++Player 1'S Cloak Is Always Active {<I>Only Works On Junkyard, Minion&#39;S Stadium, Prison Ship, Snowy Roads, Drive-In Movie, Abandoned Skyscrapers, And Warhawk&#39;S Rooftop</I>}
+%Credits: bungholio
+$00257FD7 000000FF
++Player 1'S Shield Is Always Active {<I>Only Works On Junkyard, Minion&#39;S Stadium, Prison Ship, Snowy Roads, Drive-In Movie, Abandoned Skyscrapers, And Warhawk&#39;S Rooftop</I>}
+%Credits: bungholio
+$00257FD4 00000001
++Player 2 - Drive Through Walls Easily, But Can't Use Special Moves {<I>Just Deactivate Them With The Joker Command With 00 If You Want To Use Freeze Missiles And Stuff. Only Works On Junkyard, Minion&#39;S Stadium, Prison Ship, Snowy Roads, Drive-In Movie, Abandoned Skyscrapers, And Warhawk&#39;S Rooftop</I>}
+%Credits: bungholio
+$0025ACD0 000000FF
++Player 2 - Flying Mode + Perfect Controls, Too! {<I>Only Works On Junkyard, Minion&#39;S Stadium, Prison Ship, Snowy Roads, Drive-In Movie, Abandoned Skyscrapers, And Warhawk&#39;S Rooftop</I>}
+%Credits: bungholio
+$1025AC32 00000000
++Player 2 - Turn On All Cheat Codes, Infinite Special Meter {<I>Only Works On Junkyard, Minion&#39;S Stadium, Prison Ship, Snowy Roads, Drive-In Movie, Abandoned Skyscrapers, And Warhawk&#39;S Rooftop</I>}
+%Credits: bungholio
+$0025ACDC 000000FF
++Player 2 Can't Be Frozen {<I>Only Works On Junkyard, Minion&#39;S Stadium, Prison Ship, Snowy Roads, Drive-In Movie, Abandoned Skyscrapers, And Warhawk&#39;S Rooftop</I>}
+%Credits: bungholio
+$0025ACD3 00000000
++Player 2 Joker
+%Credits: bungholio
+$D066F302 0000????
++Player 2'S Cloak Is Always Active {<I>Only Works On Junkyard, Minion&#39;S Stadium, Prison Ship, Snowy Roads, Drive-In Movie, Abandoned Skyscrapers, And Warhawk&#39;S Rooftop</I>}
+%Credits: bungholio
+$0025ACD7 000000FF
++Player 2'S Shield Is Always Active {<I>Only Works On Junkyard, Minion&#39;S Stadium, Prison Ship, Snowy Roads, Drive-In Movie, Abandoned Skyscrapers, And Warhawk&#39;S Rooftop</I>}
+%Credits: bungholio
+$0025ACD4 00000001
+!!
+

@@ -1,0 +1,28 @@
+^2 = GameID: BLJS10329
+^3 = NAME: Guilty Gear Xrd -REVELATOR- / REV 2
+^5 = APCRED: by bucanero
+^4 = FILE: SYS2ND.DAT
+!- Revelator 2 -:
++Max W$ Money
+$2000E150 0098967F
++Unlock Artwork Gallery
+$4100CA40 00000505
+$40100002 00000000
++Unlock Movie Gallery
+$4000CAC0 00000005
+$403B0001 00000000
++Unlock Voice Gallery
+$4100CB40 00000005
+$408B0001 00000000
++Unlock Music Gallery
+$4100CC40 00000505
+$401C0002 00000000
++Unlock Character Gallery
+$4100CCC0 00000707
+$401A0002 00000000
++Update Crc32 For Sys2nd.dat (required)(by Bucanero)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:CRC32
+$write at 0x000004:[hash]
+!!

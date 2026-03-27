@@ -1,0 +1,62 @@
+^2 = GameID: W8KE
+^3 = NAME: Arkanoid Plus!
+!All Modes:
++Inf Lives
+%Credits: Skiller
+$02035D40 00000000
++Gain Lives
+%Credits: Skiller
+$02035D40 00000001
++Max Score
+%Credits: Skiller
+$04033B64 3C0005F5
+$04033B68 6000E0FF
++Finish Stage{Untested On Dlc}
+%Credits: Skiller
+$0059A68D 00000001
++Press - To Open Clear Gates (again To Close){Untested On Dlc}
+%Credits: Skiller
+$285F82EA 00001000
+$0059A68D 00000000
+$CC000000 00000001
+$0059A68D 00000001
+$E0000000 80008000
++Always Have ?? Pad
+%Credits: Skiller
+$C2040F3C 00000002
+$3860[PAD] 90650020
+$60000000 00000000
++On Pickup Ball = Lazer Ball{This Will Also Make Multi Ball All Lazer}
+%Credits: Skiller
+$C201DB54 00000002
+$38600001 90650000
+$60000000 00000000
++Always Have Lazer Ball{This Will Also Make Multi Ball All Lazer}
+%Credits: Skiller
+$C2018E54 00000002
+$38A00001 90A40000
+$60000000 00000000
+!Arcade Mode Codes:
++Game Time Does Not Move
+%Credits: Skiller
+$04035AD4 60000000
++Round Timer Does Not Move
+%Credits: Skiller
+$04035ADC 60000000
+!!
+!Time Mode Codes:
++Level Time
+%Credits: Skiller
+$04035B84 60000000
++Time Limit
+%Credits: Skiller
+$04035B88 60000000
+!!
+^6 = MODS:
+[PAD]
+VALUE>NAME
+0000	Normal Pad
+0001	Long Pad
+0002	Shooter Pad
+0003	Mini Pad
+[PAD]

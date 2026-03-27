@@ -1,0 +1,18 @@
+^2 = GameID: CUSA16563,CUSA16554,CUSA16653
+^3 = NAME: Dusk Diver
+^SECONDLAYER: NO
+^4 = FILE: SLOT([0-9]+|AUTOSAVE)\ue4savegame.ps4.sav
++Infinite Health{Need To Unlock All The Upgrades In The Skill Menu First. Also, Health Bar Will Dissapear If This Works}
+%Credits:Zeraf3000
+$80010012 436F6E76
+$656E696E 63654275
+$79546F74 616C0000
+$88010002 48500000
+$28000003 000003E7
++Max Money{Must Have Some First}
+%Credits:Zeraf3000 
+$80010005 4D6F6E65
+$79000000 00000000
+$8801000B 496E7450
+$726F7065 72747900
+$28000015 000F423F

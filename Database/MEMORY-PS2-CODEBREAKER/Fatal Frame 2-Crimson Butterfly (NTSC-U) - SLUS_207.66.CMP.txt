@@ -1,0 +1,955 @@
+^1 = HASH: 9A51B627
+^3 = NAME: Fatal Frame 2-Crimson Butterfly
+^2 = GameID: SLUS_207.66
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0023C917
+!!
+!Other Codes:
+!Basic Functions Codes:
++Range-1 Spirit Orb
+%Credits: Code Master
+$002BE192 00000001
++Range-2 Spirit Orbs
+%Credits: Code Master
+$002BE192 00000002
++Range-3 Spirit Orbs
+%Credits: Code Master
+$002BE192 00000003
++Range-Max Level
+%Credits: Code Master
+$002BE191 00000003
++Accumulation-1 Spirit Orb
+%Credits: Code Master
+$002BE194 00000001
++Accumulation-2 Spirit Orbs
+%Credits: Code Master
+$002BE194 00000002
++Accumulation-3 Spirit Orbs
+%Credits: Code Master
+$002BE194 00000003
++Accumulation-Max Level
+%Credits: Code Master
+$002BE1BE 00000003
++Sensitivity-1 Spirit Orb
+%Credits: Code Master
+$002BE193 00000001
++Sensitivity-2 Spirit Orbs
+%Credits: Code Master
+$002BE193 00000002
++Sensitivity-3 Spirit Orbs
+%Credits: Code Master
+$002BE193 00000003
++Sensitivity-Max Level
+%Credits: Code Master
+$002BE190 00000003
+!!
+!Power-Up Lens Codes:
++Have All Lens
+%Credits: Code Master
+$202BE1AC FFFFFFFF
++Slow-1 Spirit Orb
+%Credits: Code Master
+$002BE196 00000001
++Slow-2 Spirit Orbs
+%Credits: Code Master
+$002BE196 00000002
++Slow-3 Spirit Orbs
+%Credits: Code Master
+$002BE196 00000003
++Slow-Max Level
+%Credits: Code Master
+$002BE1B5 00000003
++Stun-1 Spirit Orb
+%Credits: Code Master
+$002BE197 00000001
++Stun-2 Spirit Orbs
+%Credits: Code Master
+$002BE197 00000002
++Stun-3 Spirit Orbs
+%Credits: Code Master
+$002BE197 00000003
++Stun-Max Level
+%Credits: Code Master
+$002BE1B6 00000003
++See-1 Spirit Orb
+%Credits: Code Master
+$002BE198 00000001
++See-2 Spirit Orbs
+%Credits: Code Master
+$002BE198 00000002
++See-3 Spirit Orbs
+%Credits: Code Master
+$002BE198 00000003
++See-Max Level
+%Credits: Code Master
+$002BE1B7 00000003
++Track-1 Spirit Orb
+%Credits: Code Master
+$002BE199 00000001
++Track-2 Spirit Orbs
+%Credits: Code Master
+$002BE199 00000002
++Track-3 Spirit Orbs
+%Credits: Code Master
+$002BE199 00000003
++Track-Max Level
+%Credits: Code Master
+$002BE1B8 00000003
++Stop-1 Spirit Orb
+%Credits: Code Master
+$002BE19A 00000001
++Stop-2 Spirit Orbs
+%Credits: Code Master
+$002BE19A 00000002
++Stop-3 Spirit Orbs
+%Credits: Code Master
+$002BE19A 00000003
++Stop-Max Level
+%Credits: Code Master
+$002BE1B9 00000003
++Blast-1 Spirit Orb
+%Credits: Code Master
+$002BE19B 00000001
++Blast-2 Spirit Orbs
+%Credits: Code Master
+$002BE19B 00000002
++Blast-3 Spirit Orbs
+%Credits: Code Master
+$002BE19B 00000003
++Blast-Max Level
+%Credits: Code Master
+$002BE1BA 00000003
++Zero-1 Spirit Orb
+%Credits: Code Master
+$002BE19C 00000001
++Zero-2 Spirit Orbs
+%Credits: Code Master
+$002BE19C 00000002
++Zero-3 Spirit Orbs
+%Credits: Code Master
+$002BE19C 00000003
++Zero-Max Level
+%Credits: Code Master
+$002BE1BB 00000003
++Crush-1 Spirit Orb
+%Credits: Code Master
+$002BE19D 00000001
++Crush-2 Spirit Orbs
+%Credits: Code Master
+$002BE19D 00000002
++Crush-3 Spirit Orbs
+%Credits: Code Master
+$002BE19D 00000003
++Crush-Max Level
+%Credits: Code Master
+$002BE1BC 00000003
++Serial-1 Spirit Orb
+%Credits: Code Master
+$002BE19E 00000001
++Serial-2 Spirit Orbs
+%Credits: Code Master
+$002BE19E 00000002
++Serial-3 Spirit Orbs
+%Credits: Code Master
+$002BE19E 00000003
++Serial-Max Level
+%Credits: Code Master
+$002BE1BD 00000003
+!!
+!Have File-Maps Codes:
++All God's Village Map
+%Credits: Code Master
+$003CB056 00000002
++Osaka House Map
+%Credits: Code Master
+$003CB057 00000002
++Kurosawa House Map
+%Credits: Code Master
+$003CB058 00000002
++All Maps
+%Credits: Code Master
+$103CB056 00000202
+$003CB058 00000002
+!!
+!Have File-Notebook Codes:
++Bound Diary 1
+%Credits: Code Master
+$003CAFC0 00000002
++Bound Diary 2
+%Credits: Code Master
+$003CAFC1 00000002
++Bound Diary 3
+%Credits: Code Master
+$003CAFC2 00000002
++Bound Diary 4
+%Credits: Code Master
+$003CAFC3 00000002
++Bound Diary 5
+%Credits: Code Master
+$003CAFC4 00000002
++Butterfly Diary 1
+%Credits: Code Master
+$003CAFC5 00000002
++Butterfly Diary 2
+%Credits: Code Master
+$003CAFC6 00000002
++Butterfly Diary 3
+%Credits: Code Master
+$003CAFC7 00000002
++Butterfly Diary 4
+%Credits: Code Master
+$003CAFC8 00000002
++Butterfly Diary 5
+%Credits: Code Master
+$003CAFC9 00000002
++Butterfly Diary 6
+%Credits: Code Master
+$003CAFCA 00000002
++Crimson Diary 1
+%Credits: Code Master
+$003CAFCB 00000002
++Crimson Diary 2
+%Credits: Code Master
+$003CAFCC 00000002
++Crimson Diary 3
+%Credits: Code Master
+$003CAFCD 00000002
++Crimson Diary 4
+%Credits: Code Master
+$003CAFCE 00000002
++Green Diary 1
+%Credits: Code Master
+$003CAFCF 00000002
++Green Diary 2
+%Credits: Code Master
+$003CAFD0 00000002
++Green Diary 3
+%Credits: Code Master
+$003CAFD1 00000002
++Green Diary 4
+%Credits: Code Master
+$003CAFD2 00000002
++Green Diary 5
+%Credits: Code Master
+$003CAFD3 00000002
++Violet Diary 1
+%Credits: Code Master
+$003CAFD4 00000002
++Violet Diary 2
+%Credits: Code Master
+$003CAFD5 00000002
++Violet Diary 3
+%Credits: Code Master
+$003CAFD6 00000002
++Village Report 1
+%Credits: Code Master
+$103CAFD8 00000002
++Village Report 1
+%Credits: Code Master
+$103CAFDA 00000002
++Village Report 3
+%Credits: Code Master
+$103CAFDC 00000002
++Village Report 4
+%Credits: Code Master
+$103CAFDE 00000002
++Village Report 5
+%Credits: Code Master
+$003CAFE0 00000002
++Bloody Memo
+%Credits: Code Master
+$003CAFE1 00000002
++Woman's Notebook 1
+%Credits: Code Master
+$003CAFE2 00000002
++Woman's Notebook 2
+%Credits: Code Master
+$003CAFE3 00000002
++Woman's Notebook 3
+%Credits: Code Master
+$003CAFE4 00000002
++Woman's Notebook 4
+%Credits: Code Master
+$003CAFE5 00000002
++Woman's Notebook 5
+%Credits: Code Master
+$003CAFE6 00000002
++Woman's Notebook 6
+%Credits: Code Master
+$003CAFE7 00000002
++Woman's Notebook 7
+%Credits: Code Master
+$003CAFE8 00000002
++Woman's Notebook 8
+%Credits: Code Master
+$003CAFE9 00000002
++All Notebooks
+%Credits: Code Master
+$403CAFC0 00050001
+$02020202 00000000
+$103CAFD4 00000202
+$003CAFD6 00000002
+$203CAFD8 00020002
+$203CAFDC 00020002
+$203CAFE0 02020202
+$203CAFE4 02020202
+$103CAFE8 00000202
+!!
+!Have File-Old Books Codes:
++Crimson Wing Tome
+%Credits: Code Master
+$003CB014 00000002
++Taboo Tome
+%Credits: Code Master
+$003CB015 00000002
++Twin Tome
+%Credits: Code Master
+$003CB016 00000002
++Disaster Tome
+%Credits: Code Master
+$003CB017 00000002
++Ritual Tome
+%Credits: Code Master
+$003CB018 00000002
++Ceremony Master's Note 1
+%Credits: Code Master
+$003CB019 00000002
++Ceremony Master's Note 2
+%Credits: Code Master
+$003CB01A 00000002
++Ceremony Master's Note 3
+%Credits: Code Master
+$003CB01B 00000002
++Ceremony Master's Note 4
+%Credits: Code Master
+$003CB01C 00000002
++Ceremony Master's Note 5
+%Credits: Code Master
+$003CB01D 00000002
++Doll Maker Note 1
+%Credits: Code Master
+$003CB01E 00000002
++Doll Maker Note 2
+%Credits: Code Master
+$003CB01F 00000002
++Doll Maker Note 3
+%Credits: Code Master
+$003CB020 00000002
++Doll Maker Note 4
+%Credits: Code Master
+$003CB021 00000002
++Doll Maker Note 5
+%Credits: Code Master
+$003CB022 00000002
++Camera Obscura Pointers
+%Credits: Code Master
+$003CB023 00000002
++Spirit Stone Radio Pointers
+%Credits: Code Master
+$003CB024 00000002
++Folklorist 1
+%Credits: Code Master
+$003CB025 00000002
++Folklorist 2
+%Credits: Code Master
+$003CB026 00000002
++Folklorist 3
+%Credits: Code Master
+$003CB027 00000002
++Folklorist 4
+%Credits: Code Master
+$003CB028 00000002
++Folklorist 5
+%Credits: Code Master
+$003CB029 00000002
++Folklorist 6
+%Credits: Code Master
+$003CB02A 00000002
++Folklorist 7
+%Credits: Code Master
+$003CB02B 00000002
++Folklorist 8
+%Credits: Code Master
+$003CB02C 00000002
++Folklorist 9
+%Credits: Code Master
+$003CB02D 00000002
++Folklorist 10
+%Credits: Code Master
+$003CB02E 00000002
++Folklorist 11
+%Credits: Code Master
+$003CB030 00000002
++Folklorist 12
+%Credits: Code Master
+$003CB031 00000002
++All Old Books
+%Credits: Code Master
+$403CB014 00060001
+$02020202 00000000
+$103CB02C 00000202
+$003CB02E 00000002
+$103CB030 00000202
+!!
+!Have File-Photos Codes:
++Girl Goes Into Wall
+%Credits: Code Master
+$003CB03C 00000002
++Grave Shadow
+%Credits: Code Master
+$003CB03D 00000002
++Gravestone
+%Credits: Code Master
+$003CB03E 00000002
++Storehouse Woman
+%Credits: Code Master
+$003CB03F 00000002
++Escaping Twins
+%Credits: Code Master
+$003CB040 00000002
++Altar
+%Credits: Code Master
+$003CB041 00000002
++Twins & Girl
+%Credits: Code Master
+$003CB042 00000002
++Facing Twins
+%Credits: Code Master
+$003CB043 00000002
++Family Altar
+%Credits: Code Master
+$003CB044 00000002
++Face In The Well
+%Credits: Code Master
+$003CB045 00000002
++Well
+%Credits: Code Master
+$003CB046 00000002
++White-Haired Boy
+%Credits: Code Master
+$003CB047 00000002
++Warped Twins
+%Credits: Code Master
+$003CB048 00000002
++Doll Stand
+%Credits: Code Master
+$003CB049 00000002
++Bloody Wall
+%Credits: Code Master
+$003CB04A 00000002
++Statue Butterfly
+%Credits: Code Master
+$003CB04B 00000002
++Gate Butterfly
+%Credits: Code Master
+$003CB04C 00000002
++Slashed Man
+%Credits: Code Master
+$003CB04D 00000002
++Coal Brazier
+%Credits: Code Master
+$003CB04E 00000002
++Warped Face Lady
+%Credits: Code Master
+$003CB04F 00000002
++Couple
+%Credits: Code Master
+$003CB050 00000002
++All Photos
+%Credits: Code Master
+$403CB03C 00050001
+$02020202 00000000
+$003CB050 00000002
+!!
+!Have File-Scraps Codes:
++Final Letter
+%Credits: Code Master
+$003CAFEA 00000002
++Charred Notes
+%Credits: Code Master
+$003CAFEE 00000002
++Design Plans
+%Credits: Code Master
+$003CAFEF 00000002
++Mayu's Note
+%Credits: Code Master
+$003CAFF1 00000002
++News Clipping
+%Credits: Code Master
+$003CAFFC 00000002
++Small News Clipping
+%Credits: Code Master
+$003CAFFD 00000002
++Spirit Orb
+%Credits: Code Master
+$003CAFFE 00000002
++The 'Slow' Lens
+%Credits: Code Master
+$003CB000 00000002
++The 'Stun' Lens
+%Credits: Code Master
+$003CB001 00000002
++The 'See' Lens
+%Credits: Code Master
+$003CB002 00000002
++The 'Track' Lens
+%Credits: Code Master
+$003CB003 00000002
++The 'Stop' Lens
+%Credits: Code Master
+$003CB004 00000002
++The 'Blast' Lens
+%Credits: Code Master
+$003CB005 00000002
++The 'Zero' Lens
+%Credits: Code Master
+$003CB006 00000002
++The 'Crush' Lens
+%Credits: Code Master
+$003CB007 00000002
++The 'Serial' Lens
+%Credits: Code Master
+$003CB008 00000002
++The 'Instant' Function
+%Credits: Code Master
+$003CB00A 00000002
++The 'Evade' Function
+%Credits: Code Master
+$003CB00B 00000002
++The 'Save' Function
+%Credits: Code Master
+$003CB00C 00000002
++The 'Sense' Function
+%Credits: Code Master
+$003CB00D 00000002
++The 'Measure' Function
+%Credits: Code Master
+$003CB00E 00000002
++The 'Switch' Function
+%Credits: Code Master
+$003CB00F 00000002
++The 'Alarm' Function
+%Credits: Code Master
+$003CB010 00000002
++The 'Zoom' Function
+%Credits: Code Master
+$003CB011 00000002
++Basic Camera Operation
+%Credits: Code Master
+$003CB012 00000002
++Spirit Capture
+%Credits: Code Master
+$003CB013 00000002
++All Scraps
+%Credits: Code Master
+$003CAFEA 00000002
+$103CAFEE 00000202
+$003CAFF1 00000002
+$103CAFFC 00000202
+$003CAFFE 00000002
+$203CB000 02020202
+$203CB004 02020202
+$003CB008 00000002
+$103CB00A 00000202
+$203CB00C 02020202
+$203CB010 02020202
+!!
+!Have Memo Codes:
++Lost Village
+%Credits: Code Master
+$20404028 00000002
++Lost Couple
+%Credits: Code Master
+$20404030 00000002
++Trapped Boy
+%Credits: Code Master
+$20404038 00000002
++Hidden Ceremony
+%Credits: Code Master
+$20404040 00000002
++Twin Doll
+%Credits: Code Master
+$20404048 00000002
++Massacre
+%Credits: Code Master
+$20404050 00000002
++Twin Shrine Maidens
+%Credits: Code Master
+$20404058 00000002
++Crimson Sacrifice
+%Credits: Code Master
+$20404060 00000002
++The Repentance
+%Credits: Code Master
+$20404068 00000002
++Secret Site
+%Credits: Code Master
+$20404070 00000002
++Crimson Butterfly
+%Credits: Code Master
+$20404078 00000002
++The Cave
+%Credits: Code Master
+$20404080 00000002
++The Camera Obscura
+%Credits: Code Master
+$20404088 00000002
++Chitose Tachibana
+%Credits: Code Master
+$20404090 00000002
++One Remained
+%Credits: Code Master
+$20404098 00000002
++One Girl
+%Credits: Code Master
+$204040A0 00000002
++Folklorist
+%Credits: Code Master
+$204040A8 00000002
++Twin Order
+%Credits: Code Master
+$204040B0 00000002
++Twin Shrine
+%Credits: Code Master
+$204040B8 00000002
++Spirit Stone Radio
+%Credits: Code Master
+$204040C0 00000002
++All Memos
+%Credits: Code Master
+$40404028 00140002
+$00000002 00000000
+!!
+!Have Radio Codes:
++Mayu's Charm 1
+%Credits: Code Master
+$00372140 00000002
++Mayu's Charm 2
+%Credits: Code Master
+$00372141 00000002
++Mayu's Charm 3
+%Credits: Code Master
+$00372142 00000002
++Mayu's Charm 4
+%Credits: Code Master
+$00372143 00000002
++Mayu's Charm 5
+%Credits: Code Master
+$00372144 00000002
++Mayu's Charm 6
+%Credits: Code Master
+$00372145 00000002
++Mayu's Charm 7
+%Credits: Code Master
+$00372146 00000002
++Mayu's Charm 8
+%Credits: Code Master
+$00372147 00000002
++Mayu's Charm 9
+%Credits: Code Master
+$00372148 00000002
++Mayu's Charm 10
+%Credits: Code Master
+$00372149 00000002
++Mayu's Charm 11
+%Credits: Code Master
+$0037214A 00000002
++Fluorite 1
+%Credits: Code Master
+$0037214B 00000002
++Fluorite 2
+%Credits: Code Master
+$0037214C 00000002
++Fluorite 3
+%Credits: Code Master
+$0037214D 00000002
++Fluorite 4
+%Credits: Code Master
+$0037214E 00000002
++Crystal Ore
+%Credits: Code Master
+$0037214F 00000002
++Lazulite 1
+%Credits: Code Master
+$00372150 00000002
++Lazulite 2
+%Credits: Code Master
+$00372151 00000002
++Chrysocolla 1
+%Credits: Code Master
+$00372152 00000002
++Chrysocolla 2
+%Credits: Code Master
+$00372153 00000002
++Red Speckled Crystal
+%Credits: Code Master
+$00372154 00000002
++Dolomite
+%Credits: Code Master
+$00372155 00000002
++Blue Crystal
+%Credits: Code Master
+$00372156 00000002
++Pale Purple Crystal
+%Credits: Code Master
+$00372157 00000002
++Aragonite
+%Credits: Code Master
+$00372158 00000002
++Sard
+%Credits: Code Master
+$00372159 00000002
++Garnet
+%Credits: Code Master
+$0037215A 00000002
++Prehnite
+%Credits: Code Master
+$0037215B 00000002
++Aragnite (Small)
+%Credits: Code Master
+$0037215C 00000002
++Green Crystal
+%Credits: Code Master
+$0037215D 00000002
++Spodumene
+%Credits: Code Master
+$0037215E 00000002
++Chrysoberyl
+%Credits: Code Master
+$0037215F 00000002
++Moonstone
+%Credits: Code Master
+$00372160 00000002
++Dimly Glowing Crystal
+%Credits: Code Master
+$00372161 00000002
++Glowing Yellow Crystal
+%Credits: Code Master
+$00372162 00000002
++Glowing Red Crystal
+%Credits: Code Master
+$00372163 00000002
++Glowing Blue Crystal
+%Credits: Code Master
+$00372164 00000002
++Faintly Glowing Crystal
+%Credits: Code Master
+$00372165 00000002
++Glowing Green Crystal
+%Credits: Code Master
+$00372166 00000002
++Glowing Purple Crystal
+%Credits: Code Master
+$00372167 00000002
++All Radios
+%Credits: Code Master
+$40372140 000A0001
+$02020202 00000000
+!!
+!Max Item Codes:
++Type-14 Film
+%Credits: Code Master
+$202BD00C 00000063
++Type-61 Film
+%Credits: Code Master
+$202BD014 00000063
++Type-90 Film
+%Credits: Code Master
+$202BD01C 00000063
++Type-Zero Film
+%Credits: Code Master
+$202BD024 00000063
++Herbal Medicine
+%Credits: Code Master
+$202BD02C 00000063
++Sacred Water
+%Credits: Code Master
+$202BD034 00000063
++Stone Mirror
+%Credits: Code Master
+$202BD03C 00000063
++Moon Grass
+%Credits: Code Master
+$202BD044 00000063
++Moon Incense
+%Credits: Code Master
+$202BD04C 00000063
+!!
+!Have Item Codes:
++Ther Camera Obscura
+%Credits: Code Master
+$202BD054 00000001
++Flashlight
+%Credits: Code Master
+$202BD05C 00000001
++Twin Statue Key R
+%Credits: Code Master
+$202BD064 00000001
++Twin Statue Key L
+%Credits: Code Master
+$202BD06C 00000001
++Miyako's Diary
+%Credits: Code Master
+$202BD074 00000001
++Miyako's Diary 2
+%Credits: Code Master
+$202BD07C 00000001
++Old Book
+%Credits: Code Master
+$202BD084 00000001
++Statue Photo
+%Credits: Code Master
+$202BD08C 00000001
++Osaka House Map
+%Credits: Code Master
+$202BD094 00000001
++Twin Doll Heads
+%Credits: Code Master
+$202BD09C 00000001
++Butterfly Key
+%Credits: Code Master
+$202BD0A4 00000001
++Diamond Stack Key
+%Credits: Code Master
+$202BD0AC 00000001
++Diamond Link Key
+%Credits: Code Master
+$202BD0B4 00000001
++Hammer Key
+%Credits: Code Master
+$202BD0BC 00000001
++Ginger Key
+%Credits: Code Master
+$202BD0C4 00000001
++Crimson Wing Tome
+%Credits: Code Master
+$202BD0CC 00000001
++Taboo Tome
+%Credits: Code Master
+$202BD0D4 00000001
++Twin Tome
+%Credits: Code Master
+$202BD0DC 00000001
++Disaster Tome
+%Credits: Code Master
+$202BD0E4 00000001
++Ritual Tome
+%Credits: Code Master
+$202BD0EC 00000001
++Light Key
+%Credits: Code Master
+$202BD0F4 00000001
++Shadow Key
+%Credits: Code Master
+$202BD0FC 00000001
++Rusty Key
+%Credits: Code Master
+$202BD104 00000001
++Crimson Ball
+%Credits: Code Master
+$202BD10C 00000001
++Film Reel 1
+%Credits: Code Master
+$202BD114 00000001
++Film Reel 2
+%Credits: Code Master
+$202BD11C 00000001
++Film Reel 3
+%Credits: Code Master
+$202BD124 00000001
++Film Reel 4
+%Credits: Code Master
+$202BD12C 00000001
++Film Reel 5
+%Credits: Code Master
+$202BD134 00000001
++Film Reel 6
+%Credits: Code Master
+$202BD13C 00000001
++Film Reel 7
+%Credits: Code Master
+$202BD144 00000001
++Bell Key
+%Credits: Code Master
+$202BD14C 00000001
++Doll's Head
+%Credits: Code Master
+$202BD154 00000001
++Doll's Right Arm
+%Credits: Code Master
+$202BD15C 00000001
++Doll's Left Arm
+%Credits: Code Master
+$202BD164 00000001
++Glass Eyes
+%Credits: Code Master
+$202BD16C 00000001
++Tachibana Crest
+%Credits: Code Master
+$202BD174 00000001
++Tsuchihara Crest
+%Credits: Code Master
+$202BD17C 00000001
++Kiryu Crest
+%Credits: Code Master
+$202BD184 00000001
++Osaka Crest
+%Credits: Code Master
+$202BD18C 00000001
++Spirit Stone Radio
+%Credits: Code Master
+$202BD194 00000001
++Black Bag
+%Credits: Code Master
+$202BD19C 00000001
++Design Plans
+%Credits: Code Master
+$202BD1A4 00000001
++Red Cord Doll
+%Credits: Code Master
+$202BD1AC 00000001
++Paulownia Key
+%Credits: Code Master
+$202BD1B4 00000001
++Octagon Key
+%Credits: Code Master
+$202BD1BC 00000001
++Master's Key
+%Credits: Code Master
+$202BD1C4 00000001
++Bloody Ring
+%Credits: Code Master
+$202BD1CC 00000001
+!!
+!Misc. Codes:
++Max Health
+%Credits: Code Master
+$202E0DBC 0001869F
++Infinite Health
+%Credits: Code Master
+$202E0DB8 0001869F
++Max Spirit Orbs
+%Credits: Code Master
+$20344250 00000063
++Always Low Game Play Time
+%Credits: Code Master
+$20408E30 00000000
+$20408E34 00000000
+$20408E38 00000000
++Max Total Score
+%Credits: Code Master
+$20408E3C 000F423F
+$20408E40 000F423F
++Photos Taken Modifier
+%Credits: Code Master
+$20408E44 0000????
++Always No Defeated
+%Credits: Code Master
+$20408E48 00000000
++Max High Score
+%Credits: Code Master
+$20408E4C 0001869F
+!!
+!!

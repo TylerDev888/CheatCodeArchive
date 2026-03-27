@@ -1,0 +1,45 @@
+^3 = NAME: Hokuto No Ken (Ntsc-J)
+^2 = GameID: SLPM-66660
+!Master Codes:
++Enable Code
+%Credits: lee4
+$9029A448 0C046952
++Enable Code
+%Credits: lee4
+$F029A448 0000000E
++Master Code
+%Credits: VisitntX
+$F01234DC 000001FD
+$F01234DC 0000000E
+!!
++Hit Anywhere Both Players
+%Credits: nolberto82
+$201385B4 00000000
++Infinite Energy
+%Credits: VisitntX
+$00AAED58 000000C0
+$00AAED5E 000000C0
+$01E6F1A4 000000C0
+$01E6F1AA 000000C0
++Invincibility P1 {<I>Projectiles Won&#39;T Hurt Either Fighter</I>}
+%Credits: nolberto82
+$20138514 02B4102A
+$20138518 5040004F
++P1 Aura
+%Credits: lee4
+$20AAED70 ????????
++P1 Boost
+%Credits: lee4
+$20AAEDA0 00??0001
++P2 Aura
+%Credits: lee4
+$20AB0D90 ????????
++P2 Boost
+%Credits: lee4
+$20AB0DC0 00??0001
++P2 HP
+%Credits: lee4
+$20AB0D78 000000??
+$20AB0D7C 00??0001
+!!
+

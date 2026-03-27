@@ -1,0 +1,62 @@
+^3 = NAME: Silent Hill 2 (PAL-M6)
+^2 = GameID: SLES-50382
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F020FA2C 001A3023
++(M) Must Be On
+%Credits: Codejunkies
+$F01A3020 001A3023
+!!
+!For The Following Codes To Work, You Need To Have One Of These Items:
++Infinite Ampoules
+%Credits: Codejunkies
+$D1125C72 00000001
+$11125C72 00000063
++Infinite First Aid Kit
+%Credits: Codejunkies
+$D1125C70 00000001
+$11125C70 00000063
++Infinite Health Drinks
+%Credits: Codejunkies
+$D1125C6E 00000001
+$11125C6E 00000063
+!!
++Always 0 Saves
+%Credits: InterAct
+$0122B8FA 00000000
++Have All Items (Press L2+R2 To Activate)
+%Credits: Codejunkies
+$D103AB02 0000FCFF
+$11125C62 0000FFFF
+$D103AB02 0000FCFF
+$11125C64 0000FFFF
+$D103AB02 0000FCFF
+$11125C66 0000FFFF
+$D103AB02 0000FCFF
+$11125C68 0000FFFF
++Have All Weapons (Press L1+L2 To Activate)
+%Credits: Codejunkies
+$D103AB02 0000FAFF
+$11125C60 0000FD50
++Infinite Health
+%Credits: InterAct
+$203EDEF4 42C80000
+$203EDEF8 42C80000
++Low Total Time
+%Credits: InterAct
+$1122B906 00000001
++Shoot For Infinite Hand Gun Ammo {<I>For The Infinite Item Codes To Work, You Must Have At Least One Of The Item In Question.</I>}
+%Credits: InterAct
+$D103AB02 0000BDFF
+$11125C74 0000000A
++Shoot For Infinite Rifle Ammo
+%Credits: InterAct
+$D103AB02 0000BDFF
+$11125C7C 00000004
++Shoot For Infinite Shotgun Ammo
+%Credits: InterAct
+$D103AB02 0000BDFF
+$11125C78 00000006
+!!
+

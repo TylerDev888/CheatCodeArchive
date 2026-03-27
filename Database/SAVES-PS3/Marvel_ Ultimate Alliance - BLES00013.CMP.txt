@@ -1,0 +1,12 @@
+^2 = GameID: BLES00013
+^3 = NAME: Marvel: Ultimate Alliance
+^5 = APCRED: From Game Genie For PS3
+^4 = FILE: BLES00013-F-OPTIONS\SYS-DATA
++Unlock All Characters
+$200002E4 FFFFFFFF
++Unlock All Costumes
+$200003E0 FFFFFFFF
+$100003E4 0000FFFF
+^4 = FILE: BLES00013-L-*\SYS-DATA
++Max S.h.i.e.l.d. Credits
+$20000100 05F5E0FF

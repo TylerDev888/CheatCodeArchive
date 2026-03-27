@@ -1,0 +1,15 @@
+^3 = NAME: Picodrive V1.51B
+^2 = GameID: No
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: lee4
+$90308F00 0C0C236A
+!!
++MD PAR RAM Pointer {<I>Yyyy + 500Hex Ex. Ff803c = 803C = 853C Only PAR RAM Codes Starts With Ffyyyy:Xx Will Work.</I>}
+%Credits: lee4
+$6032F6E4 000000??
++Sega CD RAM Pointer {<I>Yyyyy + 20000Hex<Br>Ex. 0007D6c4 = 0009D6c4</I>}
+%Credits: lee4
+$60472210 000000??
+!!
+

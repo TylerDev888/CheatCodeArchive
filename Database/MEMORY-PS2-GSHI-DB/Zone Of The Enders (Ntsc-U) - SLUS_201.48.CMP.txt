@@ -1,0 +1,118 @@
+^3 = NAME: Zone Of The Enders (Ntsc-U)
+^2 = GameID: SLUS-20148
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F02003EC 000001FD
+!!
++0 Continues Used
+%Credits: InterAct
+$1048EF4A 00000000
++0 Saves Used
+%Credits: InterAct
+$1048EF48 00000000
++9999 Defeated
+%Credits: InterAct
+$1048EF46 0000270F
++Almost Unstoppable
+%Credits: InterAct
+$0048EF01 000000FF
++Always Very Hard
+%Credits: InterAct
+$0048EF00 00000003
++Code Breaker Version 1-5 Enable Code (Must Be On)
+%Credits: Code Master
+$F0200008 0047A467
++Code Breaker Version 6+ Enable Code (Must Be On)
+%Credits: Code Master
+$9047A464 0C11EE9A
+!Have Weapons Equipped Codes:
++Press L2 + D-Pad LEFT = Decoy Equipped
+%Credits: InterAct
+$D04AA442 0000FE7F
+$1048EF2A 00000009
++Press L2 + D-Pad Right = Mummy Equipped
+%Credits: InterAct
+$D04AA442 0000FEDF
+$1048EF2A 0000000A
++Press L2 + L1 = Comet Equipped
+%Credits: InterAct
+$D04AA442 0000FAFF
+$1048EF2A 00000006
++Press L2 + O = Bounder Equipped
+%Credits: InterAct
+$D04AA442 0000DEFF
+$1048EF2A 00000003
++Press L2 + R1 = Gauntlet Equipped
+%Credits: InterAct
+$D04AA442 0000F6FF
+$1048EF2A 00000007
++Press L2 + R2 = Sniper Equipped
+%Credits: InterAct
+$D04AA442 0000FCFF
+$1048EF2A 00000008
++Press L2 + Square = Halbered Equipped
+%Credits: InterAct
+$D04AA442 00007EFF
+$1048EF2A 00000005
++Press L2 + Triangle = Phalanx Equipped
+%Credits: InterAct
+$D04AA442 0000EEFF
+$1048EF2A 00000004
++Press L2 + X = Geyser Equipped
+%Credits: InterAct
+$D04AA442 0000BEFF
+$1048EF2A 00000002
++Press L2 = Javelin Equipped
+%Credits: InterAct
+$D04AA442 0000FEFF
+$1048EF2A 00000001
+!!
+!Infinite Items Codes:
++Infinite Bounder
+%Credits: InterAct
+$1048EF32 000003E7
++Infinite Comet
+%Credits: InterAct
+$1048EF38 000003E7
++Infinite Decoy
+%Credits: InterAct
+$1048EF3E 000003E7
++Infinite Gauntlet
+%Credits: InterAct
+$1048EF3A 000003E7
++Infinite Geyser
+%Credits: InterAct
+$1048EF30 000003E7
++Infinite Halberd
+%Credits: InterAct
+$1048EF36 000003E7
++Infinite Javelin
+%Credits: InterAct
+$1048EF2E 000003E7
++Infinite Mummy
+%Credits: InterAct
+$1048EF40 000003E7
++Infinite Phalanx
+%Credits: InterAct
+$1048EF34 000003E7
++Infinite Sniper
+%Credits: InterAct
+$1048EF3C 000003E7
+!!
+!No Casualties Codes:
++City 2
+%Credits: Code Master
+$1049D58A 00004180
++Town 2
+%Credits: Code Master
+$1049D44A 00004130
++Town 3
+%Credits: Code Master
+$1049D44A 00004170
++Weapon Modifier {<I>01 - Javelin 02 - Geyser 03 - Bounder 04 - Phalanx 05 - Halberd 06 - Comet 07 - Gauntlet 08 - Sniper 09 - Decoy 0A - Mummy</I>}
+%Credits: Code Master
+$1048EF2A 000000??
+!!
+!!
+

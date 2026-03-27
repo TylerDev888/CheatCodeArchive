@@ -1,0 +1,78 @@
+^3 = NAME: Godzilla Unleashed (Ntsc-U)
+^2 = GameID: SLUS-21707
+!Chapter 3 Frozen Terror:
++1 Hit Kill(Crystals)
+%Credits: Azagthoth
+$2027BAB4 AE200158
++Infinite Energy (All Players)
+%Credits: Azagthoth
+$202A1160 AE210B44
++P1 Activator {<I>Must Be On</I>}
+%Credits: Azagthoth
+$200A0000 3C010055
+$200A0004 8C21F064
+$200A0008 10200008
+$200A0010 3C04447A
+$200A0014 3C053F80
+$200A0018 3C0641F0
+$200A002C 03E00008
+$20339E84 08028000
++P1 Infinite Critchal Mass(Red Bar)
+%Credits: Azagthoth
+$200A0024 AC260BB8
++P1 Infinite Energy (Yellow Bar)
+%Credits: Azagthoth
+$200A0020 AC250B44
++P1 Infinite Health
+%Credits: Azagthoth
+$200A001C AC240B38
++P2 COM Red 1 Hit Kill
+%Credits: Azagthoth
+$200A0068 AC600B38
++P2 COM Red Activator {<I>Must Be On</I>}
+%Credits: Azagthoth
+$200A0040 3C030055
+$200A0044 8C63F648
+$200A0048 10600009
+$200A0050 3C04447A
+$200A0054 3C053F80
+$200A0058 3C0641F0
+$200A0070 03E00008
+$2033CA10 08028010
++P2 COM Red Infinite Critical Mass(Red Bar)
+%Credits: Azagthoth
+$200A0064 AC660BB8
++P2 COM Red Infinite Energy(Yellow Bar)
+%Credits: Azagthoth
+$200A0060 AC650B44
++P2 COM Red Infinite Health
+%Credits: Azagthoth
+$200A005C AC640B38
++P3 COM Green 1 Hit Kill
+%Credits: Azagthoth
+$200A00A8 AF200B38
++P3 COM Green Activator {<I>Must Be On</I>}
+%Credits: Azagthoth
+$200A0080 3C190055
+$200A0084 8F39FC2C
+$200A0088 13200009
+$200A0090 3C04447A
+$200A0094 3C053F80
+$200A0098 3C0641F0
+$200A00B0 03E00008
+$2033C9EC 08028020
++P3 COM Green Infinite Critcal Mass(Red Bar)
+%Credits: Azagthoth
+$200A00A4 AF260BB8
++P3 COM Green Infinite Energy(Yellow Bar)
+%Credits: Azagthoth
+$200A00A0 AF250B44
++P3 COM Green Infinite Health
+%Credits: Azagthoth
+$200A009C AF240B38
+!!
++Timer Stops
+%Credits: Azagthoth
+$201D0FC4 00000000
+!!
+

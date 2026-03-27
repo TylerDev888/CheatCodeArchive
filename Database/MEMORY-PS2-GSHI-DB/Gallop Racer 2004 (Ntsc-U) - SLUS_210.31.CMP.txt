@@ -1,0 +1,269 @@
+^3 = NAME: Gallop Racer 2004 (Ntsc-U)
+^2 = GameID: SLUS-21031
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F02E5C54 002E5C57
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 002E5C57
++[M] Must Be On
+%Credits: MadCatz
+$9020C310 0C0B96CC
+!!
+!Enable Lessons:
++All Lessons Enabled
+%Credits: Codejunkies
+$40432D70 00040001
+$01010101 00000000
++Closer
+%Credits: Codejunkies
+$00432D75 00000001
++Corners And Straights
+%Credits: Codejunkies
+$00432D79 00000001
++Eval Details
+%Credits: Codejunkies
+$00432D77 00000001
++Eval Points
+%Credits: Codejunkies
+$00432D76 00000001
++Front
+%Credits: Codejunkies
+$00432D72 00000001
++Head-To-Head
+%Credits: Codejunkies
+$00432D7F 00000001
++Judging Pace
+%Credits: Codejunkies
+$00432D71 00000001
++Middle
+%Credits: Codejunkies
+$00432D74 00000001
++Preceder
+%Credits: Codejunkies
+$00432D73 00000001
++Quick Pass
+%Credits: Codejunkies
+$00432D7C 00000001
++Reading Your Lap Time
+%Credits: Codejunkies
+$00432D70 00000001
++Recovering Over-Eager Horse
+%Credits: Codejunkies
+$00432D7D 00000001
++Recovering Wild Horse
+%Credits: Codejunkies
+$00432D7E 00000001
++Rough
+%Credits: Codejunkies
+$00432D7B 00000001
++Slope
+%Credits: Codejunkies
+$00432D7A 00000001
++Traversing
+%Credits: Codejunkies
+$00432D78 00000001
+!!
+!Horses At Start Position Codes:
++P1 Press L1+Down For Horse 3 At Start
+%Credits: Code Master
+$D0342F00 0000FBBF
+$20387050 00000000
++P1 Press L1+Left For Horse 4 At Start
+%Credits: Code Master
+$D0342F00 0000FB7F
+$20387140 00000000
++P1 Press L1+Right For Horse 2 At Start
+%Credits: Code Master
+$D0342F00 0000FBDF
+$20386F60 00000000
++P1 Press L1+Up For Horse 1 At Start
+%Credits: Code Master
+$D0342F00 0000FBEF
+$20386E70 00000000
++P1 Press L2+Down For Horse 7 At Start
+%Credits: Code Master
+$D0342F00 0000FEBF
+$20387410 00000000
++P1 Press L2+Left For Horse 8 At Start
+%Credits: Code Master
+$D0342F00 0000FE7F
+$20387500 00000000
++P1 Press L2+Right For Horse 6 At Start
+%Credits: Code Master
+$D0342F00 0000FEDF
+$20387320 00000000
++P1 Press L2+Up For Horse 5 At Start
+%Credits: Code Master
+$D0342F00 0000FEEF
+$20387230 00000000
++P1 Press R1+Down For Horse 11 At Start
+%Credits: Code Master
+$D0342F00 0000F7BF
+$203877D0 00000000
++P1 Press R1+Left For Horse 12 At Start
+%Credits: Code Master
+$D0342F00 0000F77F
+$203878C0 00000000
++P1 Press R1+Right For Horse 10 At Start
+%Credits: Code Master
+$D0342F00 0000F7DF
+$203876E0 00000000
++P1 Press R1+Up For Horse 9 At Start
+%Credits: Code Master
+$D0342F00 0000F7EF
+$203875F0 00000000
++P1 Press R2+Up For Horse 13 At Start
+%Credits: Code Master
+$D0342F00 0000FDEF
+$203879B0 00000000
+!!
+!Month Modifier Codes:
++Month 1
+%Credits: Code Master
+$004125C2 00000000
++Month 2
+%Credits: Code Master
+$004125C2 00000001
++Month 3
+%Credits: Code Master
+$004125C2 00000002
++Month 4
+%Credits: Code Master
+$004125C2 00000003
++Month 5
+%Credits: Code Master
+$004125C2 00000004
++Month 6
+%Credits: Code Master
+$004125C2 00000005
++Month 7
+%Credits: Code Master
+$004125C2 00000006
++Month 8
+%Credits: Code Master
+$004125C2 00000007
++Month 9
+%Credits: Code Master
+$004125C2 00000008
++Month 10
+%Credits: Code Master
+$004125C2 00000009
++Month 11
+%Credits: Code Master
+$004125C2 0000000A
++Month 12
+%Credits: Code Master
+$004125C2 0000000B
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Get A Head Start
+%Credits: Code Master
+$200C0220 8C226E70
+$200C0224 3C034440
+$200C0228 0043102B
+$200C022C 54400001
+$200C0230 AC236E70
+$200C0234 0808E117
+$200C0238 C4206E70
+$20238458 08030088
++Get A Larger Head Start
+%Credits: Code Master
+$200C0220 8C226E70
+$200C0224 3C034480
+$200C0228 0043102B
+$200C022C 54400001
+$200C0230 AC236E70
+$200C0234 0808E117
+$200C0238 C4206E70
+$20238458 08030088
++Infinite Gold
+%Credits: Code Master
+$10B47D38 0000FFFF
++Infinite Total Points
+%Credits: Code Master
+$10B47D30 0000FFFF
++Infinite Whip Usage
+%Credits: Code Master
+$201C0B60 AE20000C
+$201C0B84 AE200010
+$201C0BAC AE200014
++Max Consis EXP
+%Credits: Code Master
+$20B47D5C 05F5E0FF
++Max Feel EXP
+%Credits: Code Master
+$20B47D50 05F5E0FF
++Max Gold
+%Credits: Code Master
+$20B47D38 05F5E0FF
++Max Pos EXP
+%Credits: Code Master
+$20B47D54 05F5E0FF
++Max Spurt EXP
+%Credits: Code Master
+$20B47D58 05F5E0FF
++Max Start EXP
+%Credits: Code Master
+$20B47D4C 05F5E0FF
++Max Total Points
+%Credits: Code Master
+$20B47D30 05F5E0FF
++Never Banned
+%Credits: Code Master
+$00B47D2E 00000000
++P1 Press L1+Select To Stop Timer {<I>This Code Must Be Off Before You Can Start Out Of The Gate.</I>}
+%Credits: Code Master
+$D0342F00 0000FBFE
+$2021D1C0 00000000
++P1 Press L2+Select To Restart Timer
+%Credits: Code Master
+$D0342F00 0000FEFE
+$2021D1C0 AF82C418
+!!
+!Week Modifier Codes:
++Week 1
+%Credits: Code Master
+$004125C3 00000000
++Week 2
+%Credits: Code Master
+$004125C3 00000001
++Week 3
+%Credits: Code Master
+$004125C3 00000002
++Week 4
+%Credits: Code Master
+$004125C3 00000003
+!!
+!Year Modifier Codes:
++Year 1
+%Credits: Code Master
+$104125C0 00000000
++Year 2
+%Credits: Code Master
+$104125C0 00000001
++Year 3
+%Credits: Code Master
+$104125C0 00000002
++Year 4
+%Credits: Code Master
+$104125C0 00000003
++Year 5
+%Credits: Code Master
+$104125C0 00000004
++Year 10
+%Credits: Code Master
+$104125C0 00000009
++Year 20
+%Credits: Code Master
+$104125C0 00000013
++Year 50
+%Credits: Code Master
+$104125C0 00000031
++Year 100
+%Credits: Code Master
+$104125C0 00000063
+!!
+!!
+

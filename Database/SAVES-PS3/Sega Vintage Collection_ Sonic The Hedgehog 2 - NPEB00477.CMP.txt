@@ -1,0 +1,9 @@
+^2 = GameID: NPEB00477
+^3 = NAME: SEGA Vintage Collection: Sonic The Hedgehog 2
+^4 = FILE: PAYLOAD
++Update Crc32 For Payload (required)
+(set range:0x000004,0x0B8479)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

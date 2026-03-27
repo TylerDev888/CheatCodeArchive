@@ -1,0 +1,8 @@
+^2 = GameID: BLES01870
+^3 = NAME: F1 2013
+^4 = FILE: SECUINFO.BIN
++Update Crc32 For Secuinfo.bin (required)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

@@ -1,0 +1,15 @@
+^2 = GameID: BLES01791
+^3 = NAME: Painkiller: Hell & Damnation
+^4 = FILE: PKSAVE
++Shotgun Ammo 32767 By Chaoszage
+$search "Shotgun"
+$write next A:7FFF
++Soul Reaper Ammo 32767 By Chaoszage
+$search "SoulReaper"
+$write next D:7FFF
++Armor 32767 By Chaoszage
+$search "PainItem"
+$write next (-6):7FFF
++Halt 32767 By Chaoszage
+$search "PainItem"
+$write next (-14):7FFF

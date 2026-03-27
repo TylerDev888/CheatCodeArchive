@@ -1,0 +1,51 @@
+^3 = NAME: Kingdom Hearts (PAL-I)
+^2 = GameID: SCES-50970
++1Hitkill (Read Notes) {<I>Use With &Quot;Sora And Allies Are Invulnerable&Quot;</I>}
+%Credits: luc-ita
+$20140EE8 ACA0003C
+$201414A0 AE00003C
+$20140AAC AE00003C
++Always Full Life For Sora And Allies
+%Credits: luc-ita
+$20239EB4 AC50003C
+$20239EBC 2A020079
++Buy Even Without Munny (Accessories Shop And Object Shop)
+%Credits: luc-ita
+$20229DB4 00000000
++Heartless Don't Appear
+%Credits: luc-ita
+$2014E444 00000000
++Joker Command
+%Credits: luc-ita
+$D02C05D5 000000??
++Jump In Mid-Air V2 {<I>Press And Hold Square For Levitate</I>}
+%Credits: luc-ita
+$200A0000 8C620000
+$200A0004 C4400014
+$200A0008 3C09C2C8
+$200A000C 44890800
+$200A0010 46000FC0
+$200A0014 E45F0014
+$200A0018 0805B78E
+$2016DE34 8C620000
+$E0030020 002C05D5
+$2016DE34 08028000
+$603567C0 00000001
+$00020001 00000070
++Jump In Mid-Air {<I>Press Square Repeatedly To Jump, Press And Hold To Fly In Mid-Air</I>}
+%Credits: luc-ita
+$E0040020 002C05D5
+$603567C0 00000000
+$00020001 00000014
+$603567C0 00000001
+$00020001 00000070
++Sora And Allies Are Invulnerable
+%Credits: luc-ita
+$20154424 1000007A
++The Gummiship Pass Through Objects And Enemies {<I>Activate With Triangle ONLY When The Gummiship Appears</I>}
+%Credits: luc-ita
+$E0021480 00F2AB0E
+$D02C05D5 00000010
+$20F2AB0C 100000A5
+!!
+

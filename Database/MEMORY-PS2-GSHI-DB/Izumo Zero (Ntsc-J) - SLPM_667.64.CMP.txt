@@ -1,0 +1,16 @@
+^3 = NAME: Izumo Zero (Ntsc-J)
+^2 = GameID: SLPM-66764
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$903CE118 0C0F37EE
+!!
++Boot To Debug Menu
+%Credits: punk7890
+$0038F970 0000003C
+$1038F978 00003178
+$203C3178 6E69616D
+$203C317C 6265645F
+$203C3180 00006775
+!!
+

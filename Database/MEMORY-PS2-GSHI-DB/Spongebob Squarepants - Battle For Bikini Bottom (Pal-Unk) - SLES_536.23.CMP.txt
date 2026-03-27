@@ -1,0 +1,32 @@
+^3 = NAME: Spongebob Squarepants - Battle For Bikini Bottom (Pal-Unk)
+^2 = GameID: SLES-53623
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01B080C 001B080F
+!!
+!Pants Codes:
++10 Lost Socks
+%Credits: Codejunkies
+$2052E134 0000000A
+$2052E078 0000000A
++Infinite Pants (Health)
+%Credits: Codejunkies
+$2052DC10 00000003
++Press L2 To Set Pants To 3 {<I>Use This Code When The Infinite Pants Code Causes You To Get Stuck When Your Character Should Die.</I>}
+%Credits: Codejunkies
+$D0532D42 0000FEFF
+$2052DC10 00000003
++Press R2 To Set Pants To 0 {<I>Use This Code When The Infinite Pants Code Causes You To Get Stuck When Your Character Should Die.</I>}
+%Credits: Codejunkies
+$D0532D42 0000FDFF
+$2052DC10 00000000
+!!
++999 Golden Stapulas
+%Credits: Codejunkies
+$2052E074 000003E7
++9999 Shiney Objects
+%Credits: Codejunkies
+$2052E070 0000270F
+!!
+

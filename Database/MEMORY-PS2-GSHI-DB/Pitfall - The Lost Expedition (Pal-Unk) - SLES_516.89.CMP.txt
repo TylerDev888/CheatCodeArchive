@@ -1,0 +1,16 @@
+^3 = NAME: Pitfall - The Lost Expedition (Pal-Unk)
+^2 = GameID: SLES-51689
++Buy Even Without Idols
+%Credits: luc-ita
+$20181D14 24020001
++Disable AI Of Ground Mouths And Some Other Npcs (Read Notes) {<I>Activate With Select+Triangle<Br>Deactivate With R1+Triangle<Br>In Some Cases You Need To Disable The Code To Continue With The Game.<Br>In Other Cases, Instead, It&#39;S Useful To Get Eaten.<Br>When The Mouth Closes Again For A Moment, After Spitting You Out, Activate The Code, So The Mouth Then Stays Closed</I>}
+%Credits: luc-ita
+$D0572A02 0000EFFE
+$20111F78 10000020
+$D0572A02 0000E7FF
+$20111F78 52600020
++Infinite Health
+%Credits: luc-ita
+$20181B40 8C820684
+!!
+

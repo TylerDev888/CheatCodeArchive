@@ -1,0 +1,29 @@
+^2 = GameID: CUSA27945,CUSA29836,CUSA29833
+^3 = NAME: Dandy Ace
+^SECONDLAYER: NO
+^4 = FILE: Menu Save SaveFile[0-9]+\save_[0-9]+.sav
+^4 = FILE: State File - RUN StateFile[0-9]+\state_[0-9]+.sav	
++Current Equipped Cards Tier Modifier{This Will Affect Both Your Main Cards And Your Upgrade (secondary) Cards. Level Xv Seems To Be The Highest Level You Can Go Before The Game Glitching Or Crashing.}
+%Credits:Zeraf
+$8001004E 47616D65
+$53746174 65506C61
+$79657253 6B696C6C
+$536C6F74 05000000
+$09736C6F 74496E64
+$65780773 6B696C6C
+$49640973 6B696C6C
+$54696572 09757067
+$72616465 49640B75
+$70677261 64655469
+$65720000 00000000
+$18000064 0000000E
+$18000081 0000000E
+$1800009E 0000000E
+$180000BB 0000000E
+$1800006C 0000000E
+$18000089 0000000E
+$180000A6 0000000E
+$180000C3 0000000E
++Negative Health (infinite){"your Health Will Display As Negative But It'll Be Infinite. Equipping A Trinket That Affects Health, Or Using The ""refill"" Option At The Start Of Each Level Will Reset It To Normal. Also, Health Will Reset To Normal No Matter What At The Beginning Of Each New Run So You'll Have To Reapply The Code"}
+%Credits:Zeraf
+$20000402 5368D4A5

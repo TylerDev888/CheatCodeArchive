@@ -1,0 +1,92 @@
+^3 = NAME: Mummy Returns, The (Ntsc-U)
+^2 = GameID: SLUS-20253
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0161D18 00220DBF
++(M) Must Be On
+%Credits: Codejunkies
+$F0220DBC 00220DBF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00220DBF
+!!
++1-Hit Death (Enemies)
+%Credits: Code Master
+$002CBBB4 00000001
++Debug Info Manipulator {<I>With This Code, Press L1+R1 To Display The Debug Info &Amp; Press L2+R2 To Hide The Debug Info.</I>}
+%Credits: Code Master
+$D02DE842 0000F3FF
+$002CAA2D 00000001
+$D02DE842 0000FCFF
+$002CAA2D 00000000
++Debug Info Off: Press Select+L2
+%Credits: Codejunkies
+$F0B595E9 64DA3FEF
+$20B457D4 64DA29E9
++Debug Info: Press Select+L1
+%Credits: Codejunkies
+$F0B595E9 64DA3CEF
+$20B457D4 64DA29D4
++Display Debug Informations (Press Select+L1 To Activate; Select+L2 To Stop)
+%Credits: Codejunkies
+$D02DE842 0000FBFE
+$002CAA2D 00000001
+$D02DE842 0000FEFE
+$002CAA2D 00000000
++Infinite Ammo
+%Credits: InterAct
+$002CBBB5 00000001
++Infinite Ammo
+%Credits: InterAct
+$20B4665C 64DA29D4
++Infinite Health
+%Credits: InterAct
+$002CBBB0 00000001
++Infinite Health (Enemies)
+%Credits: Code Master
+$002CBBB1 00000001
++Invincible Enemies
+%Credits: InterAct
+$20B46658 64DA29D4
++No Clipping Manipulator {<I>With This Code, Press R1+R2 To Activate It, And Press L1+L2 To Deactivate It. It Can Be Very Tricky And If You Deactivate It In Certain Spots (Like Inside A Wall), You&#39;Ll Fall Thru The Floor, So Be Careful!</I>}
+%Credits: Code Master
+$D02DE842 0000F5FF
+$002CBBB3 00000001
+$D02DE842 0000FAFF
+$002CBBB3 00000000
++Press Select+L1 For Debug Info On {<I>Very Cool Code. Allows You To Watch PS2 &Quot;Think&Quot;.</I>}
+%Credits: InterAct
+$D02DE842 0000FBFE
+$002CAA2D 00000001
++Press Select+L2 For Debug Info Off
+%Credits: InterAct
+$D02DE842 0000FEFE
+$002CAA2D 00000000
++Press Select+R1 To Walk Through Walls
+%Credits: InterAct
+$D02DE842 0000F7FE
+$002CBBB3 00000001
++Press Select+R1 To Walk Through Walls
+%Credits: InterAct
+$F0B595E9 64DA30EF
+$20B4665E 64DA29D4
++Press Select+R2 To Turn Walk Through Walls Off
+%Credits: InterAct
+$D02DE842 0000FDFE
+$002CBBB3 00000000
++Press Select+R2 To Turn Walk Through Walls Off
+%Credits: InterAct
+$F0B595E9 64DA3EEF
+$20B4665E 64DA29E9
++Transparency
+%Credits: Code Master
+$002CBBB2 00000001
++Walk Through Walls (Press Select+R1 To Activate; Select+R2 To Stop)
+%Credits: Codejunkies
+$D02DE842 0000F7FE
+$002CBBB3 00000001
+$D02DE842 0000FDFE
+$002CBBB3 00000000
+!!
+

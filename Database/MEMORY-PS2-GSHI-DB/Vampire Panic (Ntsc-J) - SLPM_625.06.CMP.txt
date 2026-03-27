@@ -1,0 +1,15 @@
+^3 = NAME: Vampire Panic (Ntsc-J)
+^2 = GameID: SLPM-62506
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$90111810 0C0445AC
+!!
++Debug Menu (Hold L3 + R3 While The Game Is First Booting Up)
+%Credits: punk7890
+$D03CEB82 0000FFF9
+$201A4A48 2404001C
+$D03CEB82 0000FFFF
+$201A4A48 8C24C4F8
+!!
+

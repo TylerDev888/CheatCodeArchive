@@ -1,0 +1,74 @@
+^1 = HASH: 2B8BB86B
+^3 = NAME: Star Wars-Super Bombad Racing
+^2 = GameID: SLUS_200.43
+!Masters:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0200008 0021C37B
+!!
+!Codes:
++Always Low Time
+%Credits: Code Master
+$202BE4D4 00000000
++Infinite Boost (Everyone)
+%Credits: Code Master
+$202BD7A4 3C014120
+$202BD7AC AE61005C
++Infinite Boost (Human Players)
+%Credits: Code Master
+$202533FC 3C014120
+$20253404 AE01005C
++Infinite Energy (Human Players)
+%Credits: Code Master
+$200C0220 8C82002C
+$200C0224 3C014080
+$200C0228 AC4100CC
+$200C022C 03E00008
+$200C0230 C44000CC
+$202536D0 0C030088
++Unlock All Circuits/Courses
+%Credits: Code Master
+$2023E834 24050001
++Character Modifier P1
+%Credits: Code Master
+$203F206C 000000??
++Character Modifier P2
+%Credits: Code Master
+$203F2070 000000??
++Character Modifier P3
+%Credits: Code Master
+$203F2074 000000??
++Character Modifier P4
+%Credits: Code Master
+$203F2078 000000??
++Activate Cheat Modifier
+%Credits: Code Master
+$103F2148 0000????
+!!
+^6 = MODS:
+Quantity Digits to Accompany Character Modifier Codes
+00 - Anakin Skywalker
+01 - Darth Maul
+02 - Boss Nass
+03 - Master Yoda
+04 - Sebulba
+05 - Jar Jar Binks
+06 - Queen Amidala
+07 - Obi-Wan Kenobi
+08 - Darth Vader
+09 - Battle Tank
+0A - Boba Fett / Tank
+Quantity Digits to Accompany Activate Cheat Modifier Code
+0000 - Nothing
+0001 - Space Freighter Arena Unlocked
+0002 - Shark Races Mode
+0004 - Kaadu Mode
+0008 - ?
+0010 - Slip N Slide Mode
+0020 - Super Honk Mode
+0040 - ?
+0080 - All Death Star Mode
+0100 - Super Spinning Mode
+0200 - Infinite Boost Mode
+0400 - Super Arena Mode
+0800 - Backward Facing Mode

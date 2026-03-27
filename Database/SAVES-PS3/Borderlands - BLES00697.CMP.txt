@@ -1,0 +1,36 @@
+^2 = GameID: BLES00697
+^3 = NAME: Borderlands
+^5 = APCRED: From Game Genie For PS3
+(Same patches may not be supported by BSD yet)
+^4 = FILE: BLES00697-PROFILE\PAYLOAD
+^4 = FILE: BLES00697-SAVE-*\SAVE*.SAV
++Level 50 (not Working)
+$62000000 0000000F
+$62100000 00000013
+$62400000 00000032
++Max Exp (not Working)(*** Not Supported By Bsd ***)
+$62000000 0000000F
+$62100000 00000017
+$62400000 05F5E100
++Max Skills Points (not Working)
+$62000000 0000000F
+$62100000 0000001B
+$62400000 0000006A
++Max Money (not Working)
+$62000000 0000000F
+$62100000 00000023
+$62400000 05F5E0FF
++Unlock Playthrough 2 (not Working)
+$62000000 0000000F
+$62100000 00000027
+$62400000 00000001
+(From Keha World)
++Lilith And Roland - Xp 99999999
+$search 436C6173735F
+$write next 11: 05F5E0FF
++Lilith And Roland - Skill Points 99
+$search 436C6173735F
+$write next 15: 00000063
++Lilith And Roland - Money 9999999
+$search 436C6173735F
+$write next 1D: 0098967F

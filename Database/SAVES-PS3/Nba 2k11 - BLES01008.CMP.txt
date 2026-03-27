@@ -1,0 +1,9 @@
+^2 = GameID: BLES01008
+^3 = NAME: NBA 2K11
+^5 = APCRED: By unostar
+!My Player:
+^4 = FILE: USERDATA
++Skill Points (99999999)
+$write at 0xC:05F5E0FF
+$write at 0xC924:05F5E0FF
+!!

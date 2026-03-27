@@ -1,0 +1,21 @@
+^2 = GameID: WD9E
+^3 = NAME: Castlevania The Adventure Rebirth
+{<div class="note"><h4>Digits for WIP Codes</h4><p>Format: <code>ID = Weapon</code></p><h5>Special Weapon</h5><table border="1" cellpadding="4" cellspacing="0"><thead><tr><th>ID (Hex)</th><th>Weapon</th></tr></thead><tbody><tr><td>0C</td><td>Cross</td></tr><tr><td>0D</td><td>Knife</td></tr><tr><td>0E</td><td>Axe</td></tr><tr><td>0F</td><td>Timer</td></tr><tr><td>10</td><td>Holy Water</td></tr><tr><td>13</td><td>Key</td></tr></tbody></table><h5>Chain Mod</h5><table border="1" cellpadding="4" cellspacing="0"><thead><tr><th>ID (Hex)</th><th>Weapon/Mod</th></tr></thead><tbody><tr><td>00</td><td>Wip</td></tr><tr><td>01</td><td>Chain Wip</td></tr><tr><td>02</td><td>Chain Wip/Fire</td></tr><tr><td>03</td><td>Fire (not used)</td></tr></tbody></table></div>}
++Inf HP (asm Version)
+%Credits: Skiller
+$040A0598 60000000
++One Pick Up For Flame Wip
+%Credits: Skiller
+$040A368C 38600001
++Inf Magic (flame)
+%Credits: Skiller
+$044979D4 00000700
++Inf Timer
+%Credits: Skiller
+$044979CC 0000A1AB
++Inf Lives
+%Credits: Skiller
+$004979BF 0000000A
++Quick Score Gain
+%Credits: Skiller
+$024979C2 0000FFFF

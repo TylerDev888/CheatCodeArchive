@@ -1,0 +1,756 @@
+^1 = Hash: 11 B3 AF 42 5E 75 F5 38 C4 DA D7 7D 80 AA 5A F1 0F AF 5A 1B
+^2 = GameID: SLUS_216.41
+^3 = NAME: Innocent Life: A Futuristic Harvest Moon Special Edition
+!Masters:
++Enable Code (MUST BE ON)
+$90192D60 0C064B00
+!!
+!Misc Codes:
++Set Holding To Nothing
+$2026255C 00000000
++Max Money
+$202619B8 0098967F
++Inf Pp
+$10261D80 000000C8
++Inf Water
+$20161214 00401023
++Inf Seeds
+$2015947C 00401023
+!!
+!Time/Enviroment Codes:
++Day Never Changes
+$20121BE8 00000000
++Inf Time
+$20121BF4 AC60012C
++Season Mod
+$001BF4D4 000000[TS]
++Days Mod
+$001BF4D8 000000[Amount:14:HEX:BIG]
++Hours
+$001BF4DC 000000[TH]
++Mins
+$001BF4E0 000000[Amount:14:HEX:BIG]
++Seconds
+$001BF4E4 000000[Amount:14:HEX:BIG]
+!!
+!Stats:
++Max Challenge
+$00261D84 00000064
++Max Love
+$00261D86 00000064
++Max Intelligence
+$00261D88 00000064
+Cooking
+$00261D8A 00000064
++Max Creativity
+$00261D8C 00000064
++Max Humor
+$00261D8E 00000064
++Max Watering Can
+$20261DBC 011E847E
++Max Hoe
+$20261DD8 011E847E
++Max Hammer
+$20261DF4 011E847E
++Max Axe
+$20261E2C 011E847E
++Max Sickle
+$20261E10 011E847E
++Max Fishing Pole
+$20261E48 011E847E
+!!
+!Inventory:
+!Items Slots Amount:
++Slot 01 Max
+$0026257C 00000009
++Slot 02 Max
+$00262580 00000009
++Slot 03 Max
+$00262584 00000009
++Slot 04 Max
+$00262588 00000009
++Slot 05 Max
+$0026258C 00000009
++Slot 06 Max
+$00262590 00000009
++Slot 07 Max
+$00262594 00000009
++Slot 08 Max
+$00262598 00000009
++Slot 09 Max
+$0026259C 00000009
++Slot 10 Max
+$002625A0 00000009
++Slot 11 Max
+$002625A4 00000009
++Slot 12 Max
+$002625A8 00000009
++Slot 13 Max
+$002625AC 00000009
++Slot 14 Max
+$002625B0 00000009
++Slot 15 Max
+$002625B4 00000009
++Slot 16 Max
+$002625B8 00000009
++Slot 17 Max
+$002625BC 00000009
++Slot 18 Max
+$002625C0 00000009
++Slot 19 Max
+$002625C4 00000009
++Slot 20 Max
+$002625C8 00000009
+!!
+!Items Mod Slots:
++Slot 01 Mod
+$1026257E 0000[ITM]
++Slot 02 Mod
+$10262582 0000[ITM]
++Slot 03 Mod
+$10262586 0000[ITM]
++Slot 04 Mod
+$1026258A 0000[ITM]
++Slot 05 Mod
+$1026258E 0000[ITM]
++Slot 06 Mod
+$10262592 0000[ITM]
++Slot 07 Mod
+$10262596 0000[ITM]
++Slot 08 Mod
+$1026259A 0000[ITM]
++Slot 09 Mod
+$1026259E 0000[ITM]
++Slot 10 Mod
+$102625A2 0000[ITM]
++Slot 11 Mod
+$102625A6 0000[ITM]
++Slot 12 Mod
+$102625AA 0000[ITM]
++Slot 13 Mod
+$102625AE 0000[ITM]
++Slot 14 Mod
+$102625B2 0000[ITM]
++Slot 15 Mod
+$102625B6 0000[ITM]
++Slot 16 Mod
+$102625BA 0000[ITM]
++Slot 17 Mod
+$102625BE 0000[ITM]
++Slot 18 Mod
+$102625C2 0000[ITM]
++Slot 19 Mod
+$102625C6 0000[ITM]
++Slot 20 Mod
+$102625CA 0000[ITM]
+!!
+!Bag Items:{This Sets Your Item Slot To A Seed Bag..}
++Slot 01 Mod
+$2026257C 5781[BTM]
++Slot 02 Mod
+$20262580 5781[BTM]
++Slot 03 Mod
+$20262584 5781[BTM]
++Slot 04 Mod
+$20262588 5781[BTM]
++Slot 05 Mod
+$2026258C 5781[BTM]
++Slot 06 Mod
+$20262590 5781[BTM]
++Slot 07 Mod
+$20262594 5781[BTM]
++Slot 08 Mod
+$20262598 5781[BTM]
++Slot 09 Mod
+$2026259C 5781[BTM]
++Slot 10 Mod
+$202625A0 5781[BTM]
++Slot 11 Mod
+$202625A4 5781[BTM]
++Slot 12 Mod
+$202625A8 5781[BTM]
++Slot 13 Mod
+$202625AC 5781[BTM]
++Slot 14 Mod
+$202625B0 5781[BTM]
++Slot 15 Mod
+$202625B4 5781[BTM]
++Slot 16 Mod
+$202625B8 5781[BTM]
++Slot 17 Mod
+$202625BC 5781[BTM]
++Slot 18 Mod
+$202625C0 5781[BTM]
++Slot 19 Mod
+$202625C4 5781[BTM]
++Slot 20 Mod
+$202625C8 5781[BTM]
+!!
+!Item Box:
++Strawberry
+$10264062 000003E7
++Turnip
+$10264066 000003E7
++Potato
+$1026406A 000003E7
++Cabbage
+$1026406E 000003E7
++Cucumber
+$10264072 000003E7
++Asparagus
+$10264076 000003E7
++Pineapple
+$1026408A 000003E7
++Watermelon
+$1026408E 000003E7
++Melon
+$10264092 000003E7
++Tomato
+$10264096 000003E7
++Corn
+$1026409A 000003E7
++Squash
+$1026409E 000003E7
++Onion
+$102640A2 000003E7
++Green Pea
+$102640A6 000003E7
++Lemon
+$102640AA 000003E7
+Eggplant
+$102640B2 000003E7
++Sweet Potato
+$102640B6 000003E7
++Green Pepper
+$102640BA 000003E7
++Carrot
+$102640BE 000003E7
++Hot Pepper
+$102640C2 000003E7
++Tangerine
+$102640C6 000003E7
++Kiwi
+$102640CA 000003E7
++Kale
+$102640DA 000003E7
++Tulip
+$102640FE 000003E7
++Hyacinth
+$10264102 000003E7
++Pansy
+$10264106 000003E7
++Sunflower
+$10264112 000003E7
++Rose
+$10264116 000003E7
++Cosmos
+$10264126 000003E7
++Cat's Tail
+$1026412A 000003E7
++Poinsettia
+$1026413A 000003E7
++Peppermint
+$10264146 000003E7
++Basil
+$1026414A 000003E7
++Lavender
+$1026414E 000003E7
++Rosemary
+$10264152 000003E7
++Chamomile
+$10264156 000003E7
++Black Truffle
+$10264176 000003E7
++Porcini
+$1026417A 000003E7
++Enoki
+$1026417E 000003E7
++Shimeji
+$10264182 000003E7
++Wood Ear
+$10264186 000003E7
++White Wood Ear
+$1026418A 000003E7
++Matsuake
+$1026418E 000003E7
++Fly Agaric
+$10264192 000003E7
++Purple Shimeji
+$10264196 000003E7
++Papaya
+$102641A2 000003E7
++Banana
+$102641A6 000003E7
++Rambutan
+$102641AA 000003E7
++Cacao
+$102641AE 000003E7
++Fig
+$102641B2 000003E7
++Olive
+$102641B6 000003E7
++Mock Strawberry
+$102641BA 000003E7
++Persimmon
+$102641BE 000003E7
++Chestnut
+$102641C2 000003E7
++Peach
+$102641C6 000003E7
++Blueberry
+$102641CA 000003E7
++Apple
+$102641CE 000003E7
++Pawpaw
+$102641D2 000003E7
++Pepino
+$102641D6 000003E7
++Lily Bell
+$102641E2 000003E7
++Lily
+$102641E6 000003E7
++Herb
+$102641F2 000003E7
++Poisonous Herb
+$102641F6 000003E7
++Weed
+$102641FA 000003E7
++Rock
+$102641FE 000003E7
++Stick
+$10264202 000003E7
++Strane Moss
+$10264206 000003E7
++Dog Poo
+$1026420A 000003E7
++Dead Plant
+$1026420E 000003E7
++Wood
+$10264212 000003E7
++Stone
+$10264216 000003E7
++Azure Stone
+$1026421A 000003E7
++Ochre Stone
+$1026421E 000003E7
++Crimson Stone
+$10264222 000003E7
++Blue Stone
+$10264226 000003E7
++Yellow Stone
+$1026422A 000003E7
++Red Stone
+$1026422E 000003E7
++Blue Jewel
+$10264232 000003E7
++Yellow Jewel
+$10264236 000003E7
++Red Jewel
+$1026423A 000003E7
++Purple Jewel
+$1026423E 000003E7
++Green Jewel
+$10264242 000003E7
++Orange Jewel
+$10264246 000003E7
++Black Jewel
+$1026424A 000003E7
++Earth Power Sand
+$1026424E 000003E7
++Giant Wood
+$10264266 000003E7
++Volcano Ore
+$1026426A 000003E7
++Easter Ore
+$1026426E 000003E7
++Plain Ore
+$10264272 000003E7
++Harvest Basket
+$1026428E 000003E7
++Bas&ket 20s
+$10264292 000003E7
++Bas&ket 40h
+$10264296 000003E7
++Bas&ket 60t
+$1026429A 000003E7
++Bas&ket Cart
+$1026429E 000003E7
++Bas&ket Cart L
+$102642A2 000003E7
++Bas&ket Cart H
+$102642A6 000003E7
++Bas&ket Rail I
+$102642AA 000003E7
++Bas&ket Rail T
+$102642AE 000003E7
++Bas&ket Rail L
+$102642B2 000003E7
++Rail Stopper
+$102642B6 000003E7
++Convey-R Dx
+$102642BA 000003E7
++Convey-R Dxpro
+$102642BE 000003E7
++Convey-R Carry
+$102642C2 000003E7
++Carry Super
+$102642C6 000003E7
++Convey-R Box
+$102642CA 000003E7
++Auto Unit
+$102642CE 000003E7
++Convey-R Dxpro2
+$102642D2 000003E7
++Doctor's Watering Can
+$102642DE 000003E7
++Masami's Watering Can
+$102642E2 000003E7
++Mansoon Watering Can
+$102642E6 000003E7
++Iron Hoe
+$102642EA 000003E7
++Master's Hoe
+$102642EE 000003E7
++Enchanted Hoe
+$102642F2 000003E7
++Iron Hammer
+$102642F6 000003E7
++Easter Hammer
+$102642FA 000003E7
++Earth Hammer
+$102642FE 000003E7
++Iron Sickle
+$10264302 000003E7
++Volcano Sickle
+$10264306 000003E7
++Flame Sickle
+$1026430A 000003E7
++Iron Axe
+$1026430E 000003E7
++Master's Axe
+$10264312 000003E7
++Giant's Axe
+$10264316 000003E7
++Seed Bag
+$1026431A 000003E7
++Liberta's Dictionary
+$1026432E 000003E7
++Spirit Book
+$10264332 000003E7
++Power Soles
+$10264336 000003E7
++Snow Soles
+$1026433A 000003E7
++Water Crest
+$1026433E 000003E7
++Forest Crest
+$10264342 000003E7
++Fire Crest
+$10264346 000003E7
++White Dish Set
+$1026434A 000003E7
++Silver Dish Set
+$1026434E 000003E7
++Mystery Dish Set
+$10264352 000003E7
++Boomerang
+$10264356 000003E7
++Water Pistol
+$1026435A 000003E7
++Angel Ribbon
+$1026435E 000003E7
++Cool Pins
+$10264362 000003E7
++Mother's Touch
+$10264366 000003E7
++Shiny Coat
+$1026436A 000003E7
++Healthy Color
+$1026436E 000003E7
++Surprising Seeds
+$10264372 000003E7
++Blue Egg
+$10264376 000003E7
++Balloon Tent
+$1026437A 000003E7
++Grain Family Key
+$1026437E 000003E7
++Scale Pack
+$10264382 000003E7
++Milk
+$10264386 000003E7
++Cheese
+$1026438A 000003E7
++Mayonnaise
+$1026438E 000003E7
++Egg
+$10264392 000003E7
++Wool
+$10264396 000003E7
+!!
+!Seed Box:
++Strawberry
+$10264060 000003E7
++Turnip
+$10264064 000003E7
++Potato
+$10264068 000003E7
++Cabbage
+$1026406C 000003E7
++Cucumber
+$10264070 000003E7
++Asparagus
+$10264074 000003E7
++Pineapple
+$10264088 000003E7
++Watermelon
+$1026408C 000003E7
++Melon
+$10264090 000003E7
++Tomato
+$10264094 000003E7
++Corn
+$10264098 000003E7
++Squash
+$1026409C 000003E7
++Onion
+$102640A0 000003E7
++Green Pea
+$102640A4 000003E7
++Lemon
+$102640A8 000003E7
++Eggplant
+$102640B0 000003E7
++Sweet Potato
+$102640B4 000003E7
++Green Pepper
+$102640B8 000003E7
++Carrot
+$102640BC 000003E7
++Hot Pepper
+$102640C0 000003E7
++Tangerine
+$102640C4 000003E7
++Kiwi
+$102640C8 000003E7
++Kale
+$102640D8 000003E7
++Tulip
+$102640FC 000003E7
++Hyacinth
+$10264100 000003E7
++Pansy
+$10264104 000003E7
++Sunflower
+$10264110 000003E7
++Rose
+$10264114 000003E7
++Cosmos
+$10264124 000003E7
++Cat's Tail
+$10264128 000003E7
++Poinsettia
+$10264138 000003E7
+!!
+!!
+^6 = MODS:
+[ITM]
+VALUE>NAME
+0081	Strawberry
+0101	Tuenip
+0181	Potato
+0201	Cabbage
+0281	Cucumber
+0301	Asparagus
+0580	Pineapple
+0601	Watermelon
+0681	Melon
+0701	Tomato
+0781	Corn
+0801	Squash
+0881	Onion
+0901	Green Pea
+0981	Lemon
+0A81	Eggplant
+0B01	Sweet Potato
+0B81	Green Pepper
+0C01	Carrot
+0C81	Hot Pepper
+0D01	Tangerine
+0D81	Kiwi
+0F81	Kale
+3281	Herb
+3301	Poisonous Herb
+3381	Weed
+3501	Strange Moss
+3601	Dead Plant
+3781	Azure Stone
+3801	Ochte Stone
+3881	Crimson Stone
+3901	Blue Stone
+3981	Yellow Stone
+3A01	Red Stone
+3A81	Blue Jewel
+3B01	Yellow Jewel
+3B81	Red Jewel
+3C01	Purple Jewel
+3C81	Green Jewel
+3D01	Orange Jewel
+3D81	Black Jewel
+3E01	Earth Power Sand Jewel
+4180	Valcano Ore
+4201	Easter Ore
+4281	Plain Ore
+4981	Bas&ket Rail 1
+4A81	Bas&ket Rail L
+5001	Doctor's WC
+5081	Masami's WC
+5181	Iron Hoe
+5101	Monsoon Watering Can
+5201	Master's Hoe
+5281	Enchanted Hoe
+5301	Iron Hammer
+5381	Easter Hammer
+5481	Iron Sickle
+5401	Earth Hammer
+5501	Volcano Sickle
+5581	Flame Sickle
+5601	Iron Axe
+5681	Master's Axe
+5701	Giant's Axe
+5781	Seed Bag
+5A01	Liberta's Dictionary
+5B01	Power Soles
+5B81	Snow Soles
+5C01	Water Crest
+5C01	Forest crest
+5D01	Fire Crest
+5F01	Boomerang
+5F81	Water pistol
+6001	Angel Ribbon
+6081	Cool Pins
+6101	Mother's Touch
+6181	Shiny Coat
+6201	Healthy Color
+6281	Surprising Seeds
+6301	Blue Egg
+6381	Balloon Tent
+6401	Grain Family key
+6481	Scale Pack
+6501	Milk
+6581	Cheese
+6601	Mayonnaise
+6681	Egg
+[/ITM]
+[BTM]
+VALUE>NAME
+0089	Strawberry Seeds
+0109	Turnip Seeds
+0189	Potato Seeds
+0209	Cabbage Seeds
+0289	Cucumber Seeds
+0309	Asparagus Seeds
+0389	nothing
+0409	Nothing
+0489	nothing
+0509	nothing
+0589	Pineapple Seeds
+0609	Watermelon Seeds
+0689	Melon Seeds
+0709	Tomato Seeds
+0789	Corn Seeds
+0809	Squash Seeds
+0889	Onion Seeds
+0909	Green Pea Seeds
+0989	Lemon Seed
+0A09	nothing
+0A89	Eggplant Seeds
+0B09	Sweet Potato Seeds
+0B89	Green Pepper Seeds
+0C09	Carrot Seeds
+0C89	Hot Peppers Seeds
+0D09	Tangerine Seed
+0D89	Kiwi Seed
+0F89	Kale Seeds
+1409	Tulip Bulbs
+1489	Hyacinth Bulbs
+1509	Pansy Seeds
+1689	Sunflowers Seeds
+1709	Rose Seeds
+1909	Cosmos Seeds
+1989	Cat's Tail Seeds
+1B89	Poinsettia Seeds
+1D09	Peppermint Seeds
+1D89	Basil seeds
+1E09	Lavender Seeds
+1E89	Rosemary Seeds
+1F09	Chamomile Seeds
+2309	Black Truffle Seeds
+2389	Porcini Seeds
+2409	Enoki Seeds
+2489	Shimeji Seeds
+2509	Wood Ear Seeds
+2589	White Wood Ear Seeds
+2609	Matsutake Seed
+2689	Fly Agaric Seeds
+2709	Purple Shimeji Seeds
+2889	Papaya Seeds
+2909	Banana Seeds
+2989	Rumbutan Seeds
+2A09	Cacao Seeds
+2A89	Fig Seeds
+2B09	Olive Seeds
+2B89	Mock Strawberry Seeds
+2C09	Persimmon Seeds
+2C89	Chestnut Seeds
+2D09	Peach Seeds
+2D89	Blueberry Seeds
+2E09	Apple Seeds
+2E89	PawPaw Seeds
+2F09	Pepino Seeds
+3089	Lily Beil Seeds
+3109	Lily Seeds
+3289	Herb Seeds
+3309	poisonous Herb Seeds
+3389	Weed Seeds
+3409	Rock Seeds
+3489	Stick Seeds
+3509	Strange Moss Seeds
+3589	Dog Poo Seeds
+3609	Dead plant Seeds
+3689	Wood Seeds
+3709	Stone Seeds
+3789	Azures Stone Seeds
+3809	Ochre Stone Seeds
+3889	Crimson Stone Seeds
+3909	Blue Stone Seeds
+3989	Yellow Stone Seeds
+3A09	Red Stone Seeds
+3A89	Blue Jewel Seeds
+3B09	Yellow Jewel Seeds
+3B89	Red Jewel Seeds
+3C09	Purple Jewel seeds
+3C89	Green Jewel Seeds
+3D09	Orange Jewel Seeds
+3D89	Black Jewel Seeds
+3E09	Earth Power Sand Seeds
+[/BTM]
+[TS]
+VALUE>NAME
+00	Spring
+01	Summer
+02	Autumn
+03	Winter
+[/TS]
+[TH]
+VALUE>NAME
+00	Very Late (12AM)
+02	Message from Dr.hope! (2AM)
+04	Morning bell (4AM)
+06	Morning Bell2(6am)
+0A	Afternoon Bell (10Am)
+10	Evening Bell (4pm)
+14	Night Bell (8PM)
+17	Its getting Very late
+18	12am
+[/TH]

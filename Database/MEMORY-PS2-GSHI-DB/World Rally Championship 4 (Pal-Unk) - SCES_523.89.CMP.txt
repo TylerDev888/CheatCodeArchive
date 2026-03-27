@@ -1,0 +1,19 @@
+^3 = NAME: World Rally Championship 4 (Pal-Unk)
+^2 = GameID: SCES-52389
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$904007E0 0080F809
+!!
++AR Max Below 3.14 Fix
+%Credits: Codejunkies
+$20100008 3C03200F
+$2010000C 8C65FFF8
+$20100010 24040079
+$20100014 24030074
+$20100018 0000000C
++Ultra Slow Timer
+%Credits: Codejunkies
+$2017D350 0C05889A
+!!
+

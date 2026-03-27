@@ -1,0 +1,169 @@
+^3 = NAME: Killzone (Ntsc-U)
+^2 = GameID: SCUS-97402
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F0147108 0014710B
++Enable Code (Must Be On)
+%Credits: Code Master
+$902AD0B0 00832021
++[M] Must Be On
+%Credits: MadCatz
+$90416764 0C0AB440
+!!
+!Activate Cheat Codes:
++Big Head Mode
+%Credits: Code Master
+$00514022 00000001
++God Mode
+%Credits: Code Master
+$005DA45D 00000001
++Lock Circle
+%Credits: Code Master
+$005DA460 00000001
++P1 Press L2+Select For Victory On Current Level
+%Credits: Code Master
+$D07C4602 0000FEFE
+$00514024 00000001
+$D07C4602 0000FFFF
+$00514024 00000000
++Show Coordinates
+%Credits: Code Master
+$005DA462 00000001
++Spread Circle
+%Credits: Code Master
+$005DA461 00000001
+!!
++All Levels Available
+%Credits: Codejunkies
+$201D723C 24020001
++Ar Max Below 3.14 Fix
+%Credits: Codejunkies
+$202B62A8 3C03200F
+$202B62B0 8C65FFF8
+$202B62B4 24040079
+$202B62B8 24030074
+$202B62BC 0000000C
+!ASM Codes:
++Auto Fire
+%Credits: RENEGADE
+$2028AB98 00000000
++No Recoil
+%Credits: RENEGADE
+$2028AF4C AE000158
+!!
++Display Coordinates
+%Credits: Codejunkies
+$2047DC44 24020001
++Display Lock Circle
+%Credits: Codejunkies
+$20479118 24020001
++Display Spread Circle
+%Credits: Codejunkies
+$204791D4 24020001
++God Mode
+%Credits: Codejunkies
+$202768F8 24020001
++Have Guns Don't Overheat
+%Credits: MadCatz
+$200C2040 44800800
+$200C2044 44816000
+$200C2048 03E00008
+$200C204C E7C1010C
+$2047CF40 0C030810
++Infinite Ammo (No Reload)
+%Credits: MadCatz
+$2028B670 00000000
++Infinite Health
+%Credits: MadCatz
+$201F86D4 00000000
+$201F86E4 C6200230
+$201F86E8 C6210240
+$201F86EC E621023C
++Infinite Stamina
+%Credits: MadCatz
+$2023F59C 3C0142C8
+$2023F5A4 E441030C
+$2023F5A8 46010834
++Max Primary Ammo
+%Credits: MadCatz
+$200C2010 8FC200EC
+$200C2014 240103E7
+$200C2018 03E00008
+$200C201C AC410004
+$2047BC64 0C030804
++Max Secondary Ammo
+%Credits: MadCatz
+$200C2000 8C6100F0
+$200C2004 24060063
+$200C2008 03E00008
+$200C200C AC260000
+$2047D82C 0C030800
+$2047D830 00000000
++Mission Complete (Press L2+Down To Complete Mission)
+%Credits: MadCatz
+$D07C4602 0000FEBF
+$00514024 00000001
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Always Max Health Can Be Recovered
+%Credits: Code Master
+$200C0220 3C0144C8
+$200C0224 AC410230
+$200C0228 03E00008
+$200C022C C4440230
+$2047AC08 0C030088
++Always Max Primary Ammo
+%Credits: Code Master
+$2047BB0C 240403E7
+$2047BB10 AC440000
++Always Max Secondary Ammo
+%Credits: Code Master
+$2047D830 24060063
+$2047D834 AC460000
++Always Objective Succeeded
+%Credits: Code Master
+$201CCDB0 080733AC
+$201CCDB4 00000000
++Extra Ammo
+%Credits: Code Master
+$202899D4 00431023
++Guns Never Overheat
+%Credits: Code Master
+$2028AEF4 AE00010C
++Halo-Legacy Mode Control Setting
+%Credits: Code Master
+$00416DF0 00000004
+$00416EB0 00000006
++Infinite Ammo
+%Credits: Code Master
+$202899D8 00000000
++Infinite Health
+%Credits: Code Master
+$200C0230 3C0144C8
+$200C0234 AC41022C
+$200C0238 03E00008
+$200C023C C441022C
+$2047AC10 0C03008C
++Infinite Stamina
+%Credits: Code Master
+$2021B220 E642030C
++Max Infinite Ammo
+%Credits: Code Master
+$202899D4 240203E7
++Never Reload
+%Credits: Code Master
+$2028B674 00000000
++P1 Press L2+Up To Skip FMV
+%Credits: Code Master
+$D07C4602 0000FEEF
+$203CD868 24020001
+$D07C4602 0000FFFF
+$203CD868 8C620000
++Unlock All Levels
+%Credits: Code Master
+$201D7234 00821821
+$201D7238 24020001
+$201D723C AC6202D4
+!!
+!!
+

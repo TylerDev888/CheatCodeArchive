@@ -1,0 +1,131 @@
+^3 = NAME: Tokyo Xtreme Racer Zero (Ntsc-U)
+^2 = GameID: SLUS-20189
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0126308 0000000E
++(M) Must Be On
+%Credits: Codejunkies
+$F0126308 0012630B
++Enable Code (Must Be On)
+%Credits: Code Master>StalkerX
+$F0100008 001121AF
+!!
+!Opposition Sp Codes:
++999 Days
+%Credits: Codejunkies
+$D0750C1A 00000002
+$1037DD86 000003E7
++Always Control Car {<I>Overtake Your Opponent Before The Race Even Begins.</I>}
+%Credits: Codejunkies
+$10742380 00000000
++Infinite SP
+%Credits: Codejunkies
+$D0608B02 0000FFFE
+$207508FC 004C4B40
++Max Total Miles
+%Credits: Codejunkies
+$D0750C1A 00000002
+$1037DDBA 00007F00
++No SP
+%Credits: Codejunkies
+$D0608B02 0000FFFE
+$207508FC 00000000
++Quick Mile Gain
+%Credits: Codejunkies
+$D0750C1A 00000002
+$1037DC60 0000FFFF
+!!
+!Player 1 SP Codes:
++Infinite SP
+%Credits: Codejunkies
+$D0608B02 0000FFFE
+$207508F8 004C4B40
++No SP
+%Credits: Codejunkies
+$D0608B02 0000FFFE
+$207508F8 00000000
+!!
++999 Days
+%Credits: InterAct
+$1037DD86 000003E7
++Always Low Time
+%Credits: Code Master>StalkerX
+$D07508B2 00000075
+$20750900 00000000
++Auto Pilot Always On
+%Credits: Code Master>StalkerX
+$D0742372 00000074
+$10742380 00000004
++Auto Pilot Never On
+%Credits: Code Master>StalkerX
+$D0742372 00000074
+$10742380 00000000
++Infinite Money
+%Credits: Code Master>StalkerX
+$1037DD88 0000FFFF
++Infinite SP P1
+%Credits: Code Master>StalkerX
+$D07508B2 00000075
+$207508F8 004C4B40
++Infinite SP Rival
+%Credits: Code Master>StalkerX
+$D07508B2 00000075
+$207508FC 004C4B40
++Max Cash
+%Credits: InterAct
+$1037DD8A 0000000F
++Max Days
+%Credits: Code Master>StalkerX
+$1037DD86 0000270F
++Max Miles
+%Credits: InterAct
+$1037DDBA 00007F00
++Max Money
+%Credits: Code Master>StalkerX
+$2037DD88 000F423F
++Max Odometer Meter
+%Credits: Code Master>StalkerX
+$2037DC60 6022ED00
++Max Total Mileage
+%Credits: Code Master>StalkerX
+$2037DDB8 6022ED00
++Max Trip Meter
+%Credits: Code Master>StalkerX
+$D0742372 00000074
+$20742B68 00189BC6
++No SP P1
+%Credits: Code Master>StalkerX
+$D07508B2 00000075
+$207508F8 00000000
++No SP Rival
+%Credits: Code Master>StalkerX
+$D07508B2 00000075
+$207508FC 00000000
++Opponent Always Loses SP
+%Credits: Code Master>StalkerX
+$20188FF4 00000000
++P1: Infinite SP
+%Credits: InterAct
+$D0750900 0020003C
+$207508F8 004C4B40
++P1: No SP
+%Credits: InterAct
+$D0750900 0020003C
+$207508F8 00000000
++P2: Infinite SP
+%Credits: InterAct
+$D0750900 0020003C
+$207508FC 004C4B40
++P2: No SP
+%Credits: InterAct
+$E001550C 1092362E
+$E0009E30 10923630
++P2: No SP
+%Credits: InterAct
+$207508FC 00000000
++Quick Mile Gain
+%Credits: InterAct
+$1037DC60 0000FFFF
+!!
+

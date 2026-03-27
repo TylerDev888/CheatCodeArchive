@@ -1,0 +1,28 @@
+^3 = NAME: Tsuki Wa Higashi Ni Ha Wa Nishi Na - Operation Sanctuary (Ntsc-J)
+^2 = GameID: SLPM-65717
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$9010F578 0C043D06
+!!
++Unlock All Bustup
+%Credits: punk7890
+$41E34F10 00080001
+$00000001 00000000
++Unlock All CG
+%Credits: punk7890
+$41E34D70 000C0001
+$FFFFFFFF 00000000
++Unlock All Menu Options
+%Credits: punk7890
+$21E34EF8 00000001
+$21E34EFC 00000001
+$21E34F00 00000001
+$21E34F04 00000001
+$21E34F08 00000001
++Unlock All Omake
+%Credits: punk7890
+$41E34F30 000C0001
+$00000001 00000000
+!!
+

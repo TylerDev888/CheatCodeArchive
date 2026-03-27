@@ -1,0 +1,284 @@
+^3 = NAME: Burnout (Ntsc-U)
+^2 = GameID: SLUS-20307
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01000A4 00126FAF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00126FAF
+!!
+!After Race Codes (Championship Race):
++Always Low Fastest Lap
+%Credits: Code Master
+$202D0F90 00000000
+$202D0F94 00000000
++Always Low Total Time
+%Credits: Code Master
+$202D0EB0 00000000
+$202D0EB4 00000000
++Average Speed Modifier
+%Credits: Code Master
+$202D1070 ????????
++Insurance Damage Modifier
+%Credits: Code Master
+$202D1150 ????????
++Score Modifier
+%Credits: Code Master
+$202D1230 ????????
+!!
+!After Race Codes (Single Race):
++Always Low Fastest Lap
+%Credits: Code Master
+$202D26F0 00000000
+$202D26F4 00000000
++Always Low Total Time
+%Credits: Code Master
+$202D2610 00000000
+$202D2614 00000000
++Average Speed Modifier
+%Credits: Code Master
+$202D27D0 ????????
++Insurance Damage Modifier
+%Credits: Code Master
+$202D28B0 ????????
++Score Modifier
+%Credits: Code Master
+$202D2990 ????????
+!!
++Best Championship
+%Credits: InterAct
+$202D0EB0 00000000
+$202D0EB0 00000001
+$202D0F90 00000000
+$202D0F94 00000001
+$202D1070 05F5E0FF
+$202D1150 05F5E0FF
+$202D1230 05F5E0FF
+$20303760 65646F43
+$20303764 79422073
+$20303768 6D614720
+$2030376C 61685365
+$20303770 00006B72
++Best Stats Single Race
+%Credits: InterAct
+$202D2610 00000000
+$202D2614 00000001
+$202D26F0 00000000
+$202D26F4 00000001
+$202D27D0 05F5E0FF
+$202D28B0 05F5E0FF
+$202D2990 05F5E0FF
++Color Select Is Always Active When Selecting Cars{This Allows The Color Select To Stay Active Even When Selecting A Vehicle Designated As "Special". However, This Will Not Change The Color Of The Tow Truck Or Bus. In Order Disable The Color Select For All Vehicles, Change The Value To "01".}
+%Credits: BigBossman
+$003A14AC 00000005
++Fall Through Ground (Hold L3)
+%Credits: 47iscool
+$201CBE20 27BDFE90
+$201CBE24 7FBF0050
+$E002FFFD 004EA48A
+$201CBE20 03E00008
+$201CBE24 00000000
+!Have Car Codes:
++All Cars
+%Credits: Code Master
+$403791F4 000A0001
+$00000000 00000000
++Bus
+%Credits: Code Master
+$00379218 00000000
++Fire Engine
+%Credits: Code Master
+$00379214 00000000
++Muscle
+%Credits: BigBossman
+$00379200 00000000
++Pickup
+%Credits: BigBossman
+$0037920C 00000000
++Roadster
+%Credits: Code Master
+$003791FC 00000000
++Saloon
+%Credits: BigBossman
+$00379208 00000000
++Saloon GT
+%Credits: Code Master
+$00379204 00000000
++Sports Coupe
+%Credits: BigBossman
+$003791F8 00000000
++Supermini
+%Credits: BigBossman
+$003791F4 00000000
++Tow Truck
+%Credits: Code Master
+$00379210 00000000
+!!
+!Have Championship Track Codes:
++All Tracks
+%Credits: Code Master
+$4037925C 00060001
+$00000000 00000000
++Big Run Grand Prix
+%Credits: Code Master
+$00379260 00000000
++Euro Marathon
+%Credits: Code Master
+$0037926C 00000000
++Savage Streets Grand Prix
+%Credits: Code Master
+$00379264 00000000
++Twilight Grand Prix
+%Credits: Code Master
+$00379268 00000000
++USA Marathon
+%Credits: Code Master
+$00379270 00000000
+!!
+!Have Face Off Codes:
++All Face Offs
+%Credits: Code Master
+$4037928C 00040001
+$00000000 00000000
++Face Off 1
+%Credits: Code Master
+$0037928C 00000000
++Face Off 2
+%Credits: Code Master
+$00379290 00000000
++Face Off 3
+%Credits: Code Master
+$00379294 00000000
++Face Off 4
+%Credits: Code Master
+$00379298 00000000
+!!
++Have Survival
+%Credits: Code Master
+$0037929C 00000000
+!Have Track Codes:
++All Tracks
+%Credits: Code Master
+$4037921C 00100001
+$00000000 00000000
++Cliffhanger
+%Credits: Code Master
+$00379228 00000000
++Country Chaos
+%Credits: Code Master
+$00379234 00000000
++Euro Marathon
+%Credits: Code Master
+$00379254 00000000
++Euro Marathon EX
+%Credits: Code Master
+$00379258 00000000
++Gridlock USA
+%Credits: Code Master
+$0037922C 00000000
++Hillside Pass
+%Credits: Code Master
+$00379224 00000000
++Midnight Run
+%Credits: Code Master
+$00379244 00000000
++Night Shift
+%Credits: Code Master
+$00379230 00000000
++Rush Hour
+%Credits: Code Master
+$00379220 00000000
++Sunset River
+%Credits: Code Master
+$00379250 00000000
++Twilight Harbor
+%Credits: Code Master
+$0037924C 00000000
++USA Marathon
+%Credits: Code Master
+$00379238 00000000
++USA Marathon EX
+%Credits: Code Master
+$0037923C 00000000
+!!
++Infinite Credits
+%Credits: Code Master
+$1037ED50 000003E7
++Infinite Credits
+%Credits: InterAct
+$102CF610 0000270F
+$102D00C0 0000270F
+$1037ED50 0000270F
++Infinite Turbo
+%Credits: Code Master
+$203A76DC 42C80000
++Infinite Turbo All Races
+%Credits: InterAct
+$103A76DE 000042C8
++Perfect Stats - Championship
+%Credits: Codejunkies
+$202D0EB0 00000000
+$202D0EB0 00000001
+$202D0F90 00000000
+$202D0F94 00000001
+$202D1070 05F5E0FF
+$202D1150 05F5E0FF
+$202D1230 05F5E0FF
++Player Car Modifier[MOD1]
+%Credits: BigBossman
+$003A14AC 000000??
++Press L1 Faster Acceleration
+%Credits: InterAct
+$D04EA542 0000F7FF
+$203A9134 45000000
++Press R1+X For Nitrous Boost
+%Credits: Code Master
+$D04EA542 0000B7FF
+$203A9134 453B8000
++Timer Freeze Dpad Up On/Dpad Down Off
+%Credits: 47iscool
+$D04EA48A 0000FFEF
+$20129A3C 00000000
+$D04EA48A 0000FFBF
+$20129A3C AC820010
++Unlock All Cars
+%Credits: InterAct
+$20379200 00000000
+$20379204 00000000
+$20379208 00000000
+$2037920A 00000000
+$2037920C 00000000
+$20379210 00000000
+$20379214 00000000
+$20379218 00000000
++Unlock All Face Offs
+%Credits: InterAct
+$0037928C 00000000
+$00379290 00000000
+$00379294 00000000
+$00379298 00000000
++Unlock All Tracks
+%Credits: InterAct
+$00379224 00000000
+$0037922C 00000000
+$00379234 00000000
+$0037923C 00000000
+$00379244 00000000
+$0037924C 00000000
+!!
+^6 = MODS:
+[MOD1]
+00	Supermini
+01	Sports Coupe
+02	Roadster
+03	Muscle
+04	Saloon GT
+05	Saloon
+06	Pickup
+07	Tow Truck
+08	Fire Engine (Froze)
+09	Bus
+0A	FROZE
+[/MOD1]
+

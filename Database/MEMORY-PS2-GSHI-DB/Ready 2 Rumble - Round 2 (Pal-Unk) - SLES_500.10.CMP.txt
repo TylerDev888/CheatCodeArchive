@@ -1,0 +1,110 @@
+^3 = NAME: Ready 2 Rumble - Round 2 (Pal-Unk)
+^2 = GameID: SLES-50010
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01072F8 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F01072F8 001072FB
+!!
+!Cash Codes:
++Have Max Cash
+%Credits: Codejunkies
+$101D9258 0000FFFF
++Have Max Dex
+%Credits: Codejunkies
+$101D926A 0000447A
++Have Max End
+%Credits: Codejunkies
+$101D9266 0000447A
++Have Max Experience
+%Credits: Codejunkies
+$101D926E 0000447A
++Have Max Stam
+%Credits: Codejunkies
+$101D9262 0000447A
++Have Max Stn
+%Credits: Codejunkies
+$101D925E 0000447A
++Never More Than 99 Cash
+%Credits: Codejunkies
+$E0010063 301D9258
+$101D9258 00000063
++Never More Than 999 Cash
+%Credits: Codejunkies
+$E00103E7 301D9258
+$101D9258 000003E7
++Never More Than 9999 Cash
+%Credits: Codejunkies
+$E001270F 301D9258
+$101D9258 0000270F
++Unlock All Characters
+%Credits: Codejunkies
+$101EC59C 00000003
+$101EC5A0 00000003
+$101EC5A4 00000003
+$101EC5A8 00000003
+$101EC5AC 00000003
+$101EC5B0 00000003
+$101EC5B4 00000003
+$101EC5B8 00000003
+$101EC5BC 00000003
+$101EC5C0 00000003
+$101EC5C4 00000003
+$101EC5C8 00000003
+!!
+!Player 1 Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$101EEF30 00000064
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E0010019 301EEF30
+$101EEF30 00000019
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0010032 301EEF30
+$101EEF30 00000032
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E001004B 301EEF30
+$101EEF30 0000004B
+!!
+!Player 2 Health Codes:
++Infinite Health
+%Credits: Codejunkies
+$101F17A0 00000064
++Never Have More Than 25% Health
+%Credits: Codejunkies
+$E0010019 301F17A0
+$101F17A0 00000019
++Never Have More Than 50% Health
+%Credits: Codejunkies
+$E0010032 301F17A0
+$101F17A0 00000032
++Never Have More Than 75% Health
+%Credits: Codejunkies
+$E001004B 301F17A0
+$101F17A0 0000004B
++Player 1 1 Hit K.O.
+%Credits: Codejunkies
+$101EEF30 00000001
++Player 1 Has No Stamina
+%Credits: Codejunkies
+$101EEF34 00000000
++Player 1 Recovers Quickly
+%Credits: Codejunkies
+$101EEF34 00000064
++Player 2 1 Hit K.O.
+%Credits: Codejunkies
+$101F17A0 00000001
++Player 2 Has No Stamina
+%Credits: Codejunkies
+$101F17A4 00000000
++Player 2 Recovers Quickly
+%Credits: Codejunkies
+$101F17A4 00000064
+!!
+!!
+

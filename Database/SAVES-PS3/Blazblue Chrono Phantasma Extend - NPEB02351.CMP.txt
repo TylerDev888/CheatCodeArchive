@@ -1,0 +1,16 @@
+^2 = GameID: NPEB02351
+^3 = NAME: BlazBlue: Chronophantasma Extend (PSN)
+^5 = APCRED: by bucanero
+^4 = FILE: SYSTEM.DAT
++999999p$
+$20007F70 000F423F
++Unlock All Gallery
+$420001A0 02020202
+$40B00004 00000000
++Update Wadd For System.dat (required)
+$set [csum]:0
+$carry(2)
+$set pointer:eof+1
+$set [csum]:wadd(0x000004,pointer)
+$set [csum]:xor:FFFF
+$write at 0x000000:[csum]

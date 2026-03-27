@@ -1,0 +1,44 @@
+^3 = NAME: Mobile Light Force 2 (Ntsc-U)
+^2 = GameID: SLUS-20608
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$901D7008 0C075BAA
++Enable Code (Must Be On)
+%Credits: Code Master>StalkerX
+$F0100008 001D8207
+!!
++Enable Debug Menu {<I>Start A Normal Mode Game For This To Appear On-Screen.</I>}
+%Credits: punk7890
+$2013ECE4 00000000
+$2013ED20 00000000
++Extra Credits
+%Credits: Code Master>StalkerX
+$101397D0 00000001
++Infinite Bombs
+%Credits: Code Master>StalkerX
+$1031E0A6 00000005
++Infinite Credits
+%Credits: Code Master>StalkerX
+$20285D1C 00000009
++Infinite Health
+%Credits: Code Master>StalkerX
+$1031E03C 00000003
++Infinite Time
+%Credits: Code Master>StalkerX
+$20287424 0000EA24
++Instant Boss Death
+%Credits: Code Master>StalkerX
+$2018D2E8 24040000
+$2018D2EC AC640014
++Max Items
+%Credits: Code Master>StalkerX
+$2031E0D8 0001869F
++Max Score
+%Credits: Code Master>StalkerX
+$2031E060 05F5E0FF
++Quick Score Gain
+%Credits: Code Master>StalkerX
+$1031E060 0000FFFF
+!!
+

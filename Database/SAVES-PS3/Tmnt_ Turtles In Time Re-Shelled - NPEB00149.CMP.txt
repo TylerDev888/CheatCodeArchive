@@ -1,0 +1,8 @@
+^2 = GameID: NPEB00149
+^3 = NAME: TMNT: Turtles in Time Re-Shelled (PSN)
+^5 = APCRED: From SHAkA
+^4 = FILE: SAVEGM01.DAT
++Max Points,this Will Pop Trophy
+$write at 0x00000002:0x1F3F0000
++9999 Life
+$write at 0x00000012:0x270F0000

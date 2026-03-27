@@ -1,0 +1,39 @@
+^3 = NAME: Star Wars - Super Bombad Racing (Pal-Unk)
+^2 = GameID: SLES-50206
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F031D58C 0021C37B
++(M) Must Be On
+%Credits: Codejunkies
+$F021C378 0021C37B
+!!
+!Only Use One 'Race As..' Code At A Time:
++Race As Aat Battle Tank
+%Credits: Codejunkies
+$203F20F4 00000001
++Race As Boba Fett
+%Credits: Codejunkies
+$203F20F4 00000002
++Race As Darth Vader
+%Credits: Codejunkies
+$203F206C 00000008
++Spinning Racers
+%Credits: Codejunkies
+$203F2148 00000100
++Tiny Racers
+%Credits: Codejunkies
+$203F2148 00000040
+!!
++Always On Lap 3
+%Credits: Codejunkies
+$40396FD4 0056E7A8
+$009FFAA8 00000000
++Fly Mode
+%Credits: InterAct
+$00256DE7 00000014
++Infinite Boost
+%Credits: InterAct
+$202BC3EC 00000000
+!!
+

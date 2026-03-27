@@ -1,0 +1,26 @@
+^2 = GameID: BLAS50731
+^3 = NAME: Super Robot Taisen OG Saga Masoukishin F COFFIN OF THE END
+(cheat data from savedata.jp,BSD cheats by chaoszage)
+^4 = FILE: DATA-BIN
++Red:use 1 Cheat At A Time Only
++Red:always Go To Option Setting And Set The Setting Before Going To Battle,let Increase To 3 Byte Again Else It Will Be Frozen
+!Quick Mode:
++More Gold, Setting<->gold
+$set [G]:read(0x48F0,4)
+$set [S]:read(0x48E8,4)
+$write at 0x48F0:[S]
+$write at 0x48E8:[G]
+!Manual Mode:
++Red:please Visit Http://bruteforcesavedata.forumms.net/t1139-super-robot-taisen-og-saga-masoukishin-f-coffin-of
++4byte Swap,fill In Your Desire Cheat Into 0xaaaa
+$set [G]:read(0xAAAA,4)
+$set [S]:read(0x48E8,4)
+$write at 0xAAAA:[S]
+$write at 0x48E8:[G]
++2byte Swap,fill In Your Desire Cheat Into 0xaaaa(partial Working)
+$set [G]:read(0xAAAA,2)
+$set [S]:read(0x495E,2)
+$write at 0xAAAA:[S]
+$write at 0x495E:[G]
+!!
+!!

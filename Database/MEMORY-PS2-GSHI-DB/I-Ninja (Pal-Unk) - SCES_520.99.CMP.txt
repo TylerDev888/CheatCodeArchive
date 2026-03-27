@@ -1,0 +1,39 @@
+^3 = NAME: I-Ninja (Pal-Unk)
+^2 = GameID: SCES-52099
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F018DDD4 0018DDD7
++Enable Code
+%Credits: punk7890
+$90193620 0C064D30
+!!
++Enable Debug Options [View Note] {<I>Visit This Page For More Information On What This Activates: Https://Tcrf.Net/I-Ninja_(Gamecube,_Playstation_2)</I>}
+%Credits: punk7890
+$20120A00 24020075
++Infinite Coinage
+%Credits: Codejunkies
+$1032D23C 000003E7
++Infinite Health
+%Credits: Codejunkies
+$2032D1C8 44000000
++Max Coinage
+%Credits: Codejunkies
+$1032D248 0000270F
++Max Continues
+%Credits: Codejunkies
+$1032D268 000003E7
++Max Health
+%Credits: Codejunkies
+$2032D1CC 44000000
++Max Score
+%Credits: Codejunkies
+$2032D260 05F5E0FF
++Open Debug Option: Flag Setters {<I>Go To The Beach To Find The Debug Flags (Green Boxes).</I>}
+%Credits: Codejunkies
+$001FDC40 00000008
++PAL To NTSC (60Hz)
+%Credits: punk7890
+$2018B3A8 24120002
+!!
+

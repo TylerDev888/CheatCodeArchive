@@ -1,0 +1,234 @@
+^1 = HASH: 69952C2E
+^3 = NAME: Triple Play Baseball
+^2 = GameID: SLUS_201.68
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0031845B
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$90318458 0C0C8B7F
+!!
+!Codes:
++Home Team Score Modifier
+%Credits: Code Master
+$00393728 000000??
++Home Team Hits Modifier
+%Credits: Code Master
+$00393729 000000??
++Home Team Errors Modifier
+%Credits: Code Master
+$0039372A 000000??
++Away Team Score Modifier
+%Credits: Code Master
+$00393734 000000??
++Away Team Hits Modifier
+%Credits: Code Master
+$00393735 000000??
++Away Team Errors Modifier
+%Credits: Code Master
+$00393736 000000??
++Home Team Start With Runs Modifier
+%Credits: Code Master
+$D0393728 00000000
+$00393728 000000??
++Home Team Start With Hits Modifier
+%Credits: Code Master
+$D0393728 00000000
+$00393729 000000??
++Home Team Start With Errors Modifier
+%Credits: Code Master
+$D039372A 00000000
+$0039372A 000000??
++Away Team Start With Runs Modifier
+%Credits: Code Master
+$D0393734 00000000
+$00393734 000000??
++Away Team Start With Hits Modifier
+%Credits: Code Master
+$D0393734 00000000
+$00393735 000000??
++Away Team Start With Errors Modifier
+%Credits: Code Master
+$D0393736 00000000
+$00393736 000000??
+!!
+!Both Team Codes:
++Gravity Accel Sec Modifier (Default Fe000000)
+%Credits: Code Master
+$20380128 ????????
++Infinite Strikes
+%Credits: Code Master
+$00393B29 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$D0393B28 00000000
+$00393B29 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$D0393B28 00000000
+$00393B29 00000001
++Infinite Balls
+%Credits: Code Master
+$00393B2A 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$D0393B2A 00000000
+$00393B2A 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$D0393B2A 00000000
+$00393B2A 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$D0393B2A 00000000
+$00393B2A 00000001
++Infinite Outs
+%Credits: Code Master
+$00393B2B 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$D0393B2A 00000000
+$00393B2B 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$D0393B2A 00000000
+$00393B2B 00000001
++Always Full Count
+%Credits: Code Master
+$00393B29 00000002
+$00393B2A 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$00393B29 00000002
+$00393B2A 00000003
+$00393B2B 00000002
+!!
+!Home Team Only Codes:
++Gravity Accel Sec Modifier (Default Fe000000)
+%Credits: Code Master
+$E0010001 0038A7E4
+$20380128 ????????
++Infinite Strikes
+%Credits: Code Master
+$E0010001 0038A7E4
+$00393B29 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020001 0038A7E4
+$D0393B28 00000000
+$00393B29 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020001 0038A7E4
+$D0393B28 00000000
+$00393B29 00000001
++Infinite Balls
+%Credits: Code Master
+$E0010001 0038A7E4
+$00393B2A 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0020001 0038A7E4
+$D0393B2A 00000000
+$00393B2A 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$E0020001 0038A7E4
+$D0393B2A 00000000
+$00393B2A 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$E0020001 0038A7E4
+$D0393B2A 00000000
+$00393B2A 00000001
++Infinite Outs
+%Credits: Code Master
+$E0010001 0038A7E4
+$00393B2B 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$E0020001 0038A7E4
+$D0393B2A 00000000
+$00393B2B 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020001 0038A7E4
+$D0393B2A 00000000
+$00393B2B 00000001
++Always Full Count
+%Credits: Code Master
+$E0020001 0038A7E4
+$00393B29 00000002
+$00393B2A 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030001 0038A7E4
+$00393B29 00000002
+$00393B2A 00000003
+$00393B2B 00000002
+!!
+!Away Team Only Codes:
++Gravity Accel Sec Modifier (Default Fe000000)
+%Credits: Code Master
+$E0010000 0038A7E4
+$20380128 ????????
++Infinite Strikes
+%Credits: Code Master
+$E0010000 0038A7E4
+$00393B29 00000000
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020000 0038A7E4
+$D0393B28 00000000
+$00393B29 00000002
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020000 0038A7E4
+$D0393B28 00000000
+$00393B29 00000001
++Infinite Balls
+%Credits: Code Master
+$E0010000 0038A7E4
+$00393B2A 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0020000 0038A7E4
+$D0393B2A 00000000
+$00393B2A 00000003
++2 Balls And You Walk
+%Credits: Code Master
+$E0020000 0038A7E4
+$D0393B2A 00000000
+$00393B2A 00000002
++3 Balls And You Walk
+%Credits: Code Master
+$E0020000 0038A7E4
+$D0393B2A 00000000
+$00393B2A 00000001
++Infinite Outs
+%Credits: Code Master
+$E0010000 0038A7E4
+$00393B2B 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$E0020000 0038A7E4
+$D0393B2A 00000000
+$00393B2B 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020000 0038A7E4
+$D0393B2A 00000000
+$00393B2B 00000001
++Always Full Count
+%Credits: Code Master
+$E0020000 0038A7E4
+$00393B29 00000002
+$00393B2A 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030000 0038A7E4
+$00393B29 00000002
+$00393B2A 00000003
+$00393B2B 00000002
+!!

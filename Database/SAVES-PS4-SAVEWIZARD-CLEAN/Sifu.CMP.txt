@@ -1,0 +1,28 @@
+^2 = GameID: CUSA25761,CUSA25761
+^3 = NAME: Sifu
+^SECONDLAYER: YES
+^4 = FILE: SifuSaveGame[0-9]+\ue4savegame.ps4.sav
+{{<div style="border:2px solid #c00;padding:10px;border-radius:8px;"><b style="color:#c00;">IMPORTANT NOTE:</b> <ul><li><b>Negative Age</b> has been patched as of <b>game version 1.08</b>, which also makes <b>Pendant Charges</b> useless.</li><li><b>This only works on versions prior to 1.08.</b></li><li>Before applying these, make sure you only have <b>Profile</b> and <b>Savegame0</b> files on your console (delete any other saves/backups, as the game may load those instead).</li><li>Copy <b>Savegame0</b> (or <b>Savegame1</b> for Slot 2, etc.) <b>only</b> to your USB, then apply these.</li></ul></div>}}
++Super Negative Age{<b>Note:</b> <ul><li>This sets your age to <b>-99 million</b>.</li><li>Each time you die, the game subtracts years from your age—those “lost” years will come off the negative value first.</li><li>Result: you won’t start aging normally again until you’ve died <b>thousands of times</b> (enough to work back up toward zero).</li></ul>}
+$80010013 45436861
+$72616374 65725374
+$61743A3A 41676500
+$28000014 CCBEBC22
+$80030013 45436861
+$72616374 65725374
+$61743A3A 41676500
+$28000014 CCBEBC22
++Super Pendant Charges{<b>Note:</b> <ul><li>This sets your <b>Pendant Charges</b> to <b>99 million uses</b> (you normally only get <b>5</b> legitimately in-game).</li><li>The only reliable way to test if it worked is to <b>die once</b>. You won’t see the pendant’s length change in the UI.</li><li>When you use the pendant, you should notice that <b>no beads break</b>—that’s the sign the code applied correctly.</li><li>If your <b>death count</b> starts getting too high, reset it at a <b>shrine</b> or use Save Wizard’s <b>death reset</b> code.</li></ul>}
+$80010024 45436861
+$72616374 65725374
+$61743A3A 50656E64
+$616E7443 68617267
+$65735265 66696C6C
+$28000025 4CBEBC20
+$80010023 45436861
+$72616374 65725374
+$61743A3A 50656E64
+$616E7443 68617267
+$65734C69 6D697400
+$28000024 4CBEBC20
+^4 = FILE: 	SifuProfile\ue4savegame.ps4.sav

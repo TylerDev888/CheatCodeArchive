@@ -1,0 +1,9 @@
+^2 = GameID: BLES00066
+^3 = NAME: Pirates of the Caribbean: At World's End
+^4 = FILE: SAVE.DAT
++Update Crc32 (required)
+(set range:0x000004,0x184F17)
+$set pointer:eof+1
+$set range:0x000004,pointer
+$set [hash]:CRC32
+$write at 0x000000:[hash]

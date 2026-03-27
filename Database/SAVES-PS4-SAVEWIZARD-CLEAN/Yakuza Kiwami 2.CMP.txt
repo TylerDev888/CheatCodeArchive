@@ -1,0 +1,841 @@
+^2 = GameID: CUSA08776, CUSA10634, CUSA10706
+^3 = NAME: Yakuza Kiwami 2
+^4 = FILE: data\.sav
++Add Item
+$search 0x22706C61796572223A
+$search next 0x2263617272795F6974656D22
+$search next 0x226D5F6C69737422
+$Insert Next (A): "{".ver":0,"m_count":[Amount:9999:UTF08:TXT],"m_item_id":[ID]},"
+^6 = MODS:
+[ID]
+VALUE>ITEM
+1302	Blue-green juice
+1303	Vitamin C Energy Drink
+1304	Genmaicha (280ml)
+1305	Genmaicha (500ml)
+1306	Grape
+1307	Grape (500ml)
+1308	Hojicha (280ml)
+1309	Hojicha (500ml)
+1310	White Soda
+1311	Cafe Mocha
+1312	Extreme Drink
+1313	Strong Tea (280ml)
+1314	Strong Tea (500ml)
+1315	Muscle Soda
+1317	Clear Marine
+1318	Tropical Ultra Melon
+1319	100% mandarin juice
+1320	Tea
+1321	Poseidon Power
+1322	Lucky Soda
+1323	Lemon Squash
+1324	Cider
+1325	Sengoku Coffee
+1327	School
+1328	Melted snow water, a blessing from the forest
+1329	can
+1330	can
+1331	can
+1332	can
+1333	can
+1334	can
+1335	can
+1336	can
+1337	can
+1338	can
+1339	can
+1340	can
+1341	can
+1342	Boss Luxury Lightly Sweetened
+1343	Boss Unsweetened Black
+1344	CC Lemon
+1345	GREEN DA・KA・RA
+1347	Iyemon Special Tea
+1348	Suntory Black Oolong Tea
+1349	Suntory Tennensui (Southern Alps)
+1350	Suntory Natural Mineral Water (Oku-Daisen)
+1351	Boss Rainbow Mountain
+1353	Dragon God's Amulet
+1358	Talisman of Discipline
+1359	Warrior's Talisman
+1367	Natural Stone Bracelet (Blue)
+1369	Leather Bracelet
+1371	Natural Stone Bracelet (Red)
+1372	Four Gods Breath
+1373	Genbu Breath
+1374	Azure Dragon Breath
+1375	Suzaku Breath
+1376	White Tiger Breath
+1377	Natural Stone Bracelet (White)
+1378	Blood-Rust Chainmail
+1379	Rusty Chainmail
+1380	Chainmail
+1381	Dragon's Eye
+1385	Ankle Cast
+1386	Yakuza Training Cast
+1387	Wrist Cast
+1391	Ueyama insole
+1393	Military Insoles
+1394	Ueyama's mouthguard
+1399	Charismatic Photos
+1401	Bloodstained Sarashi
+1402	ragon'sSash
+1403	Fighting Sarashi
+1404	Chivalrous Sarashi
+1408	Tough Mobile Phone
+1409	Pure White Briefs
+1410	Bulletproof Vest
+1411	Military bulletproof vest
+1412	Stab-proof vest
+1413	Military stab-proof vest
+1414	Kamiyama Protective Vest
+1415	Unnamed Sword
+1434	Chicken Broth Pho
+1435	JANJAN Sauce Yakisoba
+1436	Super Cup Large Squid Fried Noodles
+1437	Super Cup Chicken Soy Sauce
+1438	Seaweed Ramen
+1439	Vermicelli Wonton Soup
+1440	Healthy Balanced Lunch Box
+1441	Makunouchi bento
+1442	Pork cutlet bento
+1443	Premium Yakiniku Bento
+1444	Special Fried Noodles
+1447	Rainbow Manju
+1448	Purple Manju
+1449	Orange Manju
+1450	Red Manju
+1451	Blue Manju
+1452	Green Manju
+1453	Imuraya's Anman
+1456	Imuraya's Meat Buns
+1457	Imuraya Pizza Bun
+1458	Kelp rice ball
+1459	Salmon rice ball
+1460	Tuna rice ball
+1461	Sake
+1462	Oden Assortment
+1463	Sushi Packing
+1464	Square bottle
+1465	The Malts
+1466	Haraher Half
+1467	Haraher RX
+1468	Staminan X
+1469	Staminan XX
+1470	Staminan Royal
+1471	Staminan Royal (bonus item)
+1472	Stamina Spark
+1473	Tauriner
+1474	Tauriner+
+1475	Tauriner++
+1476	Tauriner Maximum
+1477	Toughness Infinity
+1478	Toughness Z
+1479	Toughness ZZ
+1480	Book of Charms
+1481	Book of Spirit
+1482	Book of Muscles
+1483	Book of Agility
+1484	Book of Techniques
+1485	Copper plate
+1486	Gold Plate
+1487	Iron Plate
+1488	Paper Plates
+1489	Platinum Plate
+1490	Silver Plate
+1491	Buoy
+1492	garbage
+1493	Beautiful driftwood
+1494	Large driftwood
+1495	Rotten Driftwood
+1496	Small Driftwood
+1497	Chipped Shell
+1498	Beautiful shells
+1499	Small Shell
+1500	small shells
+1501	Wakame
+1502	Pocket tissues
+1503	Draft beer
+1505	Beef bowl (large)
+1506	Beef bowl (regular)
+1507	Beef Plate
+1508	Beef bowl (special)
+1509	Miso soup
+1510	Original Beef Curry
+1511	Blue Mountain
+1512	Special Shortcake
+1513	Blended Coffee
+1514	Earl Grey
+1515	Mocha
+1517	Neapolitan
+1518	Chocolate Parfait
+1519	Strawberry Parfait
+1520	Sandwich Set
+1521	Ballantine's 30 Year Old
+1522	Hakushu 12th year
+1523	Hibiki 17 years
+1524	Hibiki 30th anniversary
+1525	Laphroaig 10 Year Old
+1526	The Premium Malt's
+1527	The Macallan 30 Year Old
+1528	VSOP
+1529	Suntory Old Whisky
+1530	Yamazaki 18th year
+1547	Baguette Sandwich
+1548	Cappuccino
+1549	Cheesecake
+1550	Chocolate Cake
+1551	Club Sandwich
+1552	Croissant
+1553	Espresso
+1554	Matcha Latte
+1555	Milk Tea
+1556	Original Cake
+1557	Original Bread
+1558	Special Bread
+1559	Sandwich
+1560	Special limited edition cake
+1561	Toast
+1562	curry rice
+1563	Chilled Kitsune Soba
+1564	Chilled Tanuki Soba
+1565	Kakesoba
+1566	Pork cutlet bowl
+1567	Morisoba
+1568	Special Fuji Soba
+1569	Tentama Soba
+1571	Blood Orange Highball
+1572	Raw Cassiole
+1574	Cheese Mentaiko
+1576	Jim Beam Highball
+1577	The Kaku Highball
+1578	French fries with sour cream
+1579	The Premium Malt's Draft
+1580	Octopus and avocado with yuzu pepper
+1581	Roaring Octopus
+1582	Absolutely delicious! Takoyaki
+1583	Negi-octopus
+1584	Teritama
+1585	Acupuncture
+1586	Sauce Fried Noodles
+1588	Stone-grilled bibimbap
+1589	Kalbi
+1590	Skirt steak
+1591	Grilled Hormone
+1592	Seafood Platter
+1593	Kimchi Platter
+1594	Loin
+1596	Special Kalbi
+1597	Special Skirt Steak
+1598	Premium Loin
+1599	Special Tongue Salt
+1600	Salted Tongue
+1601	Roasted Garlic
+1602	Yukgaejang soup
+1603	Fried rice
+1604	Char siu rice bowl
+1605	Gyoza
+1606	Kyushu Tonkotsu Ramen
+1607	Char Siu Tonkotsu Ramen
+1608	Braised pork tonkotsu ramen
+1610	Fillet steak 200g ( 9 yen per 1g)
+1611	Ribeye steak 300g ( 7.3 yen per gram)
+1612	Salad
+1613	Sirloin steak 200g ( 8.5 yen per 1g)
+1614	soup
+1615	Wild Hamburger 300g
+1616	Wild Steak 300g
+1650	Stick salad
+1651	Stir-fried chicken with green peppers
+1652	Chinese noodles
+1653	Shrimp in Chili Sauce
+1654	Sesame dumplings
+1655	Gomoku fried rice
+1656	Original Fried Gyoza
+1657	Stir-fried pork
+1658	Mapo tofu
+1659	Stir-fried liver and leek
+1660	Sichuan Dandan Noodles
+1661	Sweet and Sour Pork
+1662	Fluffy and creamy Tianjin rice
+1663	Fried Noodles
+1664	Cappuccino
+1665	Cheesecake
+1666	Chocolate Cake
+1667	Croissant
+1668	Espresso
+1669	Milk Tea
+1670	sandwich
+1671	Toast
+1672	Nagasaki Champon
+1674	Fried rice
+1676	5 gyoza
+1677	Thick Noodle Sara Udon
+1678	Spicy Champon
+1679	Nagasaki Sara Udon
+1680	Snack Sara Udon
+1681	Vegetable Chanpon
+1682	Vegetable-packed shabu-shabu udon
+1683	Vegetable soup
+1684	Braised pork burger
+1685	King's Smile Burger
+1686	Tuna Burger
+1688	Smile Potato
+1689	Smile Salad
+1690	Smile Shake
+1691	ilB
+1691	Smile Burger
+1692	Teriyaki Smile Burger
+1709	Luxury Shrimp Soup
+1710	Flower flyer
+1711	Kiwami Seafood Bowl
+1712	Extremely Nigiri
+1713	Kiwami Chirashi
+1714	Miyabi Nigiri
+1715	Nishiki nigiri
+1716	Clear soup
+1718	Tuna bowl
+1719	Seafood Chirashi Rice Bowl
+1720	Specially Selected Tuna Bowl
+1721	Tuna Feast
+1722	Special Selection Sushi Zanmai
+1725	Wetteburger
+1726	Vette Egg Burger
+1727	Iced Lemon Tea
+1729	Vette Original Coffee
+1730	Tomato Onion Soup
+1731	Wild Avocado Burger
+1732	Wild Burger
+1733	Wild Chicken Burger
+1734	Wild Fried Chicken
+1736	Oolong tea
+1737	Orange Juice
+1748	carefully selected marinated mackerel
+1749	Draft Beer & Whiskey Bakhai
+1750	Draft beer (medium)
+1751	Cassis Oolong
+1752	Choregi Salad
+1753	Edamame
+1754	Fresh Grapefruit Sour <Medium>
+1755	Kyoho Sour <Medium>
+1756	Gyokuro Green Tea Mix (Medium)
+1757	Kaku Highball
+1758	Assorted Skewers
+1761	argeportionofstirfriedbeansprots
+1761	Large portion of stir-fried bean sprouts
+1762	Oolong tea
+1763	Assorted sashimi
+1766	Salt-fried noodles
+1767	Shishamo with roe
+1768	Advanced Arrow
+1769	Beginner's Arrow
+1770	Intermediate Arrow
+1771	Master's Arrow
+1772	Fresh Lettuce Sandwich
+1773	Egg and tuna sandwich
+1778	Ramen
+1779	Char Siu Ramen
+1780	Tetchiri
+1781	Top Techiri
+1782	Tessa
+1783	Fugu Tempura
+1784	Fried pufferfish
+1789	Tetchiri Set Benten
+1790	Tetchiri Set Daikoku
+1791	Natural Tetchiri Set Ebisu
+1792	Natural Tetchiri Set Hotei
+1796	Nigiri Zen
+1803	Gyukaku Kalbi
+1805	King Skirt Steak
+1807	Japanese Black Beef Short Ribs
+1808	Marbled Tongue with Salt
+1809	Four carefully selected dishes
+1812	Kalbi rice
+1813	Crab Suki
+1814	Crab Shabu-Shabu
+1815	Grilled crab (2 kinds)
+1816	Princess crab sushi
+1818	Crab sushi assortment
+1826	akoyakiwithlargeoctopus
+1826	Takoyaki with large octopus
+1827	Akashiyaki, a famous dish
+1828	Akashiyaki with green onions
+1829	Famous Surprise Takoyaki
+1830	Takumi's Takoyaki
+1831	Today's soup
+1832	Assorted Sashimi
+1833	Kaiseki warmth
+1834	Kaiseki Hannari
+1835	Snow crab full course
+1837	Grilled marbled Wagyu beef
+1838	Original Kushikatsu
+1839	Quail
+1841	Asparagus
+1842	Onion
+1844	Octopus
+1845	kiss
+1846	Lotus root
+1848	meatballs
+1850	Chicken fillet with garlic
+1851	shrimp
+1852	Scallops
+1856	Sotenbori Set
+1857	Hogenji Temple Set
+1858	Children's Drawings
+1859	Haruka's photo 1
+1860	Haruka's photo 2
+1861	Green Box
+1862	shares
+1863	Lee Ryu-jeong's photo
+1864	Dirty Videos
+1865	Suspicious Video
+1867	Letter from Furumai
+1868	Professor Saeki's book
+1869	Miki's photo
+1870	Yagi's photo
+1871	Kajiwara's photo
+1872	Kojima Photo
+1872	ojimaPhoto
+1873	Auntie's Candy
+1874	Cosmic Warrior Figure No.1
+1875	Cosmic Warrior Figure No.2
+1876	Cosmic Warrior Figure No.3
+1877	Cosmic Warrior Figure No.4
+1878	Cosmic Warrior Figure No.5
+1879	Cosmic Warrior Figure No.6
+1880	Cosmic Warrior Figure No.7
+1881	Cosmic Warrior Figure No.8
+1882	Cosmic Warrior Figure No.9
+1883	Cosmic Warrior Figure No.10
+1884	Cosmic Warrior Figure No. 11
+1885	Cosmic Warrior Figure No. 12
+1886	Michael Naoya's self-produced CD
+1887	Chic Fountain Pen
+1888	Luxury Women's Boots
+1889	Pink Scarf
+1890	Gorky Terayama "Tag Match Lecture"
+1891	Gorky Terayama "King of Strength"
+1892	Gorky Terayama "If I Shake"
+1894	Book of Secrets
+1895	Book of Secrets
+1896	Book of Secrets
+1897	Yuya's Promise
+1898	Book of Secrets
+1899	Traffic Safety Charm
+1900	Employment Prayers
+1901	mobile phone
+1902	Kamurocho Locker Key
+1903	Sotenbori Locker Key
+1904	Gambling House
+1905	Casino Chips
+1906	Women's underwear
+1907	Bandages
+1914	Kamurocho Locker Key A1
+1915	Kamurocho Locker Key B1
+1916	Kamurocho Locker Key C1
+1917	Kamurocho Locker Key D1
+1918	Kamurocho Locker Key E1
+1919	Kamurocho Locker Key F1
+1920	Kamurocho Locker Key G1
+1921	Kamurocho Locker Key H1
+1922	Kamurocho Locker Key I1
+1923	Kamurocho Locker Key J1
+1924	Kamurocho Locker Key A2
+1925	Kamurocho Locker Key B2
+1926	Kamurocho Locker Key C2
+1927	Kamurocho Locker Key D2
+1928	Kamurocho Locker Key E2
+1929	Kamurocho Locker Key F2
+1930	Kamurocho Locker Key G2
+1931	Kamurocho Locker Key H2
+1932	Kamurocho Locker Key I2
+1933	Kamurocho Locker Key J2
+1934	Kamurocho Locker Key A3
+1935	Kamurocho Locker Key B3
+1936	Kamurocho Locker Key C3
+1937	Kamurocho Locker Key D3
+1938	Kamurocho Locker Key E3
+1939	Kamurocho Locker Key F3
+1940	Kamurocho Locker Key G3
+1941	Kamurocho Locker Key H3
+1942	Kamurocho Locker Key I3
+1943	Kamurocho Locker Key J3
+1944	Kamurocho Locker Key A4
+1945	Kamurocho Locker Key B4
+1946	Kamurocho Locker Key C4
+1947	Kamurocho Locker Key D4
+1948	Kamurocho Locker Key E4
+1949	Kamurocho Locker Key F4
+1950	Kamurocho Locker Key G4
+1951	Kamurocho Locker Key H4
+1952	Kamurocho Locker Key I4
+1953	Kamurocho Locker Key J4
+1954	Kamurocho Locker Key A5
+1955	Kamurocho Locker Key B5
+1956	Kamurocho Locker Key C5
+1957	Kamurocho Locker Key D5
+1958	Kamurocho Locker Key E5
+1959	Kamurocho Locker Key F5
+1960	Kamurocho Locker Key G5
+1961	Kamurocho Locker Key H5
+1962	Kamurocho Locker Key I5
+1963	Kamurocho Locker Key J5
+1964	Sotenbori Locker Key A1
+1965	Sotenbori Locker Key B1
+1966	Sotenbori Locker Key C1
+1967	Sotenbori Locker Key D1
+1968	Sotenbori Locker Key E1
+1969	Sotenbori Locker Key F1
+1970	Sotenbori Locker Key G1
+1971	Sotenbori Locker Key H1
+1972	Sotenbori Locker Key I1
+1973	Sotenbori Locker Key J1
+1974	Sotenbori Locker Key A2
+1975	Sotenbori Locker Key B2
+1976	Sotenbori Locker Key C2
+1977	Sotenbori Locker Key D2
+1978	Sotenbori Locker Key E2
+1979	Sotenbori Locker Key F2
+1980	Sotenbori Locker Key G2
+1981	Sotenbori Locker Key H2
+1982	Sotenbori Locker Key I2
+1983	Sotenbori Locker Key J2
+1984	Sotenbori Locker Key A3
+1985	Sotenbori Locker Key B3
+1986	Sotenbori Locker Key C3
+1987	Sotenbori Locker Key D3
+1988	Sotenbori Locker Key E3
+1989	Sotenbori Locker Key F3
+1990	Sotenbori Locker Key G3
+1991	Sotenbori Locker Key H3
+1992	Sotenbori Locker Key I3
+1993	Sotenbori Locker Key J3
+1994	Sotenbori Locker Key A4
+1995	Sotenbori Locker Key B4
+1996	Sotenbori Locker Key C4
+1997	Sotenbori Locker Key D4
+1998	Sotenbori Locker Key E4
+1999	Sotenbori Locker Key F4
+2000	Sotenbori Locker Key G4
+2001	Sotenbori Locker Key H4
+2002	Sotenbori Locker Key I4
+2003	Sotenbori Locker Key J4
+2004	Sotenbori Locker Key A5
+2005	Sotenbori Locker Key B5
+2006	Sotenbori Locker Key C5
+2007	Sotenbori Locker Key D5
+2008	Sotenbori Locker Key E5
+2009	Sotenbori Locker Key F5
+2010	Sotenbori Locker Key G5
+2011	Sotenbori Locker Key H5
+2012	Sotenbori Locker Key I5
+2013	Sotenbori Locker Key J5
+2014	Toilet Sensor
+2016	Demon Flame Dosu
+2017	She's a Little Devil Sister
+2018	Enchanting Pink Stage
+2019	Widow's husband killed by a giant anteater
+2020	Newlywed Love Story
+2021	Catch the Bunny
+2022	Super Kung Fu Man
+2023	Amazing! Hidden Treasures of the Philippines
+2024	Karate Master! Shishiro Segata
+2025	Drunken Fist Legend! The Ultimate Champagne!
+2026	Fighting Guide! From today on, you'll be unstoppable!
+2027	Yakuza Story
+2028	Sunken Ship
+2029	Mask & Ripper
+2030	The Stalker
+2031	Crazy Bat
+2032	Leather Jacket
+2033	Metal Jacket
+2034	Sengoku Chain Mail
+2035	Iron Plate Breastplate
+2036	Strong Chainmail
+2037	Spirit Dogi
+2038	Titanium Breastplate
+2039	Shunshin Best
+2040	Komaki style dogi
+2041	Sacred Tree Body Replica
+2042	Sacred Tree Trunk
+2043	Insulated Shirt
+2044	Tough Suit
+2045	Red Sarashi
+2046	Blue Insole
+2047	Green Trunks
+2048	Super Strength Loincloth
+2049	Rugged Belly Warmer
+2050	Lightweight Sole
+2051	Metal Leg Guards
+2052	Sengoku loincloth
+2053	Guts loincloth
+2054	Shunshin Insole
+2055	Komaki Style Insole
+2056	Black Belt
+2057	Natural Stone Bracelet (Green)
+2058	Super Strength Ring
+2059	Fighting Belt
+2060	Rugged Breath
+2061	Lightweight Belt
+2062	Metal Gloves
+2063	Sengoku Tenugui
+2064	Military Belt
+2065	Strength Ring
+2066	Titanium Bracelet
+2067	Komaki Style Gloves
+2068	Champion's Ring
+2069	Spy Gloves
+2070	Double Return Ring
+2071	Calm Mind Hand Towel
+2072	Haruka's Necklace
+2073	Japanese diver's watch
+2074	Sunflower Amulet
+2075	Haruka's Amulet
+2076	Kishimojin Amulet
+2077	Substitute Stone
+2078	Golf Swing Secrets
+2079	The Ultimate Guide to Golf Swing
+2080	Bat Swing Secrets
+2081	The Ultimate Bat Swing Secrets
+2082	Ultimate Throwing Secret Book
+2083	The Ultimate Secret of Carrying Tiger Drop
+2084	The ultimate secret of powerful throws
+2085	The Book of Ultimate Strength
+2086	Kawachi-ryu Kai-nage Secrets
+2087	Lotus Spearmanship Secret Book
+2088	Gohei Hasu's Secret Book
+2089	Lotus Family Hard Body Technique Book
+2090	Lotus Family Flash Spirit Strike Secret Book
+2091	Ballantine's 17 Year Old
+2092	Ballantine's 12 Year Old
+2093	Yamazaki 25 years
+2094	Yamazaki 12 years
+2095	Hakushu 18 years
+2096	Hakushu
+2097	Hibiki 21st year
+2098	Bowmore 12 Year Old
+2099	Glenfiddich 12 Year Old
+2100	The Malt's
+2101	Carlsberg
+2102	The Macallan 25 Year Old
+2103	The Macallan 12 Year Old
+2104	XO Deluxe
+2105	VO
+2106	Courvoisier XO
+2107	Kyouzuki
+2108	Beefeater
+2110	Guide rod
+2111	Crowbar
+2112	Hammer
+2113	Special Baton
+2114	Special Baton
+2115	Slapper
+2116	Iron
+2117	Black Shaft
+2118	Akagi Club
+2119	Golden Shaft
+2120	Switchblade
+2121	Long Dagger
+2122	Gofune's Short Sword
+2123	Ninja knife
+2124	Chinese knife
+2125	Gyuto
+2126	Forbidden Poisoned Short Sword
+2127	Metal Bat
+2128	Boss's Bat
+2129	Iron Pipe
+2130	Iron Club
+2131	Crutches
+2132	Fighting Spirit Bat
+2133	Oak Wooden Sword
+2134	Purple-black wood sword
+2135	Sacred Tree Wooden Sword
+2136	Old Blue Dragon Sword
+2137	Blue Dragon Sword
+2138	Liu Family Qinglong Sword
+2139	Demon Sword Extreme
+2140	Master Sword Shadow Master
+2141	Famous Sword Cherry Blossom Snowstorm
+2142	Demon Sword No Moon
+2142	SdNM
+2143	Myototsu Myogetsu
+2144	Muramasa Sword
+2145	saw
+2146	Photon Blade RG
+2147	Magic Sword Kagutsuchi
+2148	Crushing Hammer
+2149	My Bowl
+2150	100 pound my bowl
+2151	Boss's My Bowl
+2152	Pliers
+2153	Modified Iron
+2154	Modified stove
+2155	Lamp Stand
+2156	Electric kettle
+2157	Octagonal Bar
+2158	Iron Spear
+2159	Shotgun
+2160	Furumaki Family Matchlock Gun
+2161	Magic Gun Fireball
+2162	Brass knuckles
+2163	Strength Knuckle
+2164	Dragon's Iron Fist
+2165	G.B.H.G
+2166	Grenade
+2167	Incendiary Grenade
+2168	Flashbang
+2169	Stun Grenade
+2170	Stun Gun
+2171	High-voltage stun gun
+2172	Modified Burner
+2173	Insecticides
+2174	Hardball
+2175	table salt
+2176	Mysterious Syringe
+2177	Tonfa
+2178	Phantom Tonfa
+2179	Oryu Tonfa
+2180	Skull Tonfa
+2181	Imported and Modified Tonfa
+2184	double shaft
+2185	Double Spiker
+2186	Twin Dragon Drumstick
+2187	blSd
+2187	Double Stand
+2188	Double Fire
+2189	Photon Blade W
+2190	Old-fashioned automatic pistol
+2191	Modified Model Gun
+2192	DRAGON-SP
+2193	Coma Gun
+2195	Spicy mixed noodles
+2196	Beef and Mixed Ramen
+2197	Salted beef tongue
+2198	Grilled Sangen pork with honey and black pepper
+2199	Aged premium loin steak
+2200	Cheese Fondue Chicken Basil
+2201	Plum and Shiso Cold Noodles
+2202	Gyukaku Ice Cream
+2203	Cheese
+2204	Bowling Secrets
+2205	Cosmic Warrior Figure
+2206	Kokoroiki
+2207	Kyoto-style sukiyaki
+2208	Kyoto vegetable tempura
+2210	Stamina Light
+2211	Toughness Light
+2212	Ai Ai
+2213	Gong Gong
+2214	Mee Mee
+2215	Baby
+2216	Bun-chan the Java Sparrow (White)
+2217	Bun-chan the Java Sparrow (Pink)
+2218	Jumbo Bun-chan
+2219	Little Cat (Red)
+2220	Tiny Cat (Tiger)
+2221	Little Cat (Blue)
+2222	Little Cat (Amesho)
+2223	Little Cat (Mike)
+2224	Robot Section Chief
+2225	Robot Manager
+2226	Pink Lemonade (Chuhai)
+2227	Fruit Dew (Chuhai)
+2228	Fugu Kaiseki
+2229	Fugu Kaiseki Kotobuki
+2230	Relaxing Kaiseki Meal
+2231	hiPlSt
+2231	Sushi Plum Set
+2232	Sushi Takezen
+2233	Premium Nigiri Set
+2234	Soft Lunch Box
+2235	Premium Sushi Bento
+2236	Mini Kaiseki Hana Kudzu
+2237	Sushi Kaiseki Chitose Course Moon
+2238	Kaiseki Nishiki Course
+2239	Deep fried king crab
+2240	Kani-suki Course Kazuki
+2241	Crab Sukiyaki Course Mochizuki
+2242	Crab Suki Course Moonlight
+2243	Crab Kaiseki Ariake
+2244	Crab Kaiseki Crystal
+2245	Crab Kaiseki Yugiri
+2246	Elegant Crab Kaiseki
+2247	Shishamo with roe
+2248	Unrivaled Tile
+2249	Arashi's Yokan
+2250	Doshippins
+2251	Lucky Hanafuda
+2252	BJ's Charm
+2253	Burst Amulet
+2254	Royal Joker
+2255	Shogi Basics
+2256	Fried Chicken Bento
+2257	Pork cutlet sandwich
+2258	Clubhouse Sandwich
+2259	Melon bread
+2260	Milk
+2261	8 takoyaki
+2262	12 takoyaki
+2263	20 takoyaki
+2264	Tanuki Soba
+2265	Spaghetti with meat sauce
+2266	Frankfurt
+2267	Homemade Cookies
+2268	Pudding
+2269	Turmeric tablets
+2270	Hangover Tablets
+2271	Haruka's Candy
+2272	Haruka's Chocolate
+2273	Nutritious Tonic - Shokaiou
+2274	Feeling Refreshing - Hakuou
+2275	Nutritional Supplement: Emperor Seiriku
+2275	utritionalSupplement:EmperorSeiriku
+2276	Haruka's First Aid Kit
+2277	Haruka's Marbles
+2279	Amano Building Key
+2280	Storage Room Key
+2281	Newspaper
+2282	Mahjong Winning Book
+2283	Rifle Bullets
+2284	Phone Number Memo
+2285	Ryoma's Piece
+2286	Demon Flame Snatcher
+2287	Demon Flame Wakizashi
+2288	Majima Construction President's Award
+2289	Imuraya Curry Bun
+2290	Imuraya Yokan (Kuri)
+2291	Imuraya Castella
+2292	Azuki Bar
+2300	Cheese Fondue Chicken Basil
+2301	to 2335 -
+2336	Petawanko (Golden Retriever)
+2337	Petawanko (French Bulldog)
+2339	Cute Pants
+2344	Locker Key Watcher
+2345	Shinmi-an Shareholder Coupon
+2347	Extra Bonus
+2348	Cursed Video (?)
+2349	Hidden Camera Video
+2358	Cherry Blossom Tile
+2423	Illegally modified batons
+2424	Rocket Launcher
+2425	Extreme Machine Gun
+2434	Shogi Basics
+2437	Ultimate Secret Book
+2438	Majima's Magic Bun
+2439	LightningReleaseDosu
+2440	Cursed Tonfa
+2441	Regular bat
+2444	Italian luxury ring
+2445	Swiss luxury watch
+2446	Safety Bat
+2447	Master Bat
+2448	Ultimate Weapon Scroll
+2449	Pochitaro's photo
+2450	Bob's Autographed Ball
+2451	Gold Robo President
+2850	Reward Gold Coin
+2851	Reward Plate
+2852	Reward Gun
+[/ID]

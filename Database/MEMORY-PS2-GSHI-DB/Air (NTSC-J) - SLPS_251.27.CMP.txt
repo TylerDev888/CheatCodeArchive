@@ -1,0 +1,12 @@
+^3 = NAME: Air (NTSC-J)
+^2 = GameID: SLPS-25127
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$901A4978 0C069206
+!!
++Enable Debug Menu In Pause Menu{Once Debug Is Toggled On, Start A New Game To Appear In Another Debug Menu.}
+%Credits: punk7890
+$201AEDD0 00000001
+$20253F48 00000001
+

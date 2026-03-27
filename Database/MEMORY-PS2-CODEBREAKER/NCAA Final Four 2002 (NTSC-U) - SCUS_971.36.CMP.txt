@@ -1,0 +1,423 @@
+^1 = HASH: 3397DEFC
+^3 = NAME: NCAA Final Four 2002
+^2 = GameID: SCUS_971.36
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0020FEAF
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$9020FEAC 0C08C9E2
+!!
+!Codes:
++Home Team Score Modifier
+%Credits: Code Master
+$1026F640 0000????
++Home Team Start With Score Modifier
+%Credits: Code Master
+$D026F640 00000000
+$1026F640 0000????
++Away Team Score Modifier
+%Credits: Code Master
+$1027015C 0000????
++Away Team Start With Score Modifier
+%Credits: Code Master
+$D027015C 00000000
+$1027015C 0000????
++Home Team Infinite Time-Outs
+%Credits: Code Master
+$1026F664 00000005
++Home Team No Time-Outs
+%Credits: Code Master
+$1026F664 00000000
++Away Team Infinite Time-Outs
+%Credits: Code Master
+$10270138 00000005
++Away Team No Time-Outs
+%Credits: Code Master
+$10270138 00000000
++Infinite Time-Outs (Both Teams)
+%Credits: Code Master
+$20127900 00000000
++Free Throw's Score Modifier
+%Credits: Code Master
+$1015D1C8 000000??
++2-Pointer's Score Modifier
+%Credits: Code Master
+$1015D1CC 000000??
++3-Pointer's Score Modifier
+%Credits: Code Master
+$1015D1C0 000000??
++Home Team Shot's Score Modifier
+%Credits: Code Master
+$10276B20 000000??
++Away Team Shot's Score Modifier
+%Credits: Code Master
+$10276ACC 000000??
++P1 Press L1+L2 For More Time
+%Credits: Code Master
+$D032F9C2 0000FAFF
+$1027A3F8 0000000A
++P1 Press R1+R2 To End Half
+%Credits: Code Master
+$D032F9C2 0000F5FF
+$1027A3F8 00000100
++P2 Press L1+L2 For More Time
+%Credits: Code Master
+$D032FAC2 0000FAFF
+$1027A3F8 0000000A
++P2 Press R1+R2 To End Half
+%Credits: Code Master
+$D032FAC2 0000F5FF
+$1027A3F8 00000100
++P3 Press L1+L2 For More Time
+%Credits: Code Master
+$D032FBC2 0000FAFF
+$1027A3F8 0000000A
++P3 Press R1+R2 To End Half
+%Credits: Code Master
+$D032FBC2 0000F5FF
+$1027A3F8 00000100
++P4 Press L1+L2 For More Time
+%Credits: Code Master
+$D032FCC2 0000FAFF
+$1027A3F8 0000000A
++P4 Press R1+R2 To End Half
+%Credits: Code Master
+$D032FCC2 0000F5FF
+$1027A3F8 00000100
++P5 Press L1+L2 For More Time
+%Credits: Code Master
+$D032FDC2 0000FAFF
+$1027A3F8 0000000A
++P5 Press R1+R2 To End Half
+%Credits: Code Master
+$D032FDC2 0000F5FF
+$1027A3F8 00000100
++P6 Press L1+L2 For More Time
+%Credits: Code Master
+$D032FEC2 0000FAFF
+$1027A3F8 0000000A
++P6 Press R1+R2 To End Half
+%Credits: Code Master
+$D032FEC2 0000F5FF
+$1027A3F8 00000100
++P7 Press L1+L2 For More Time
+%Credits: Code Master
+$D032FFC2 0000FAFF
+$1027A3F8 0000000A
++P7 Press R1+R2 To End Half
+%Credits: Code Master
+$D032FFC2 0000F5FF
+$1027A3F8 00000100
++P8 Press L1+L2 For More Time
+%Credits: Code Master
+$D03300C2 0000FAFF
+$1027A3F8 0000000A
++P8 Press R1+R2 To End Half
+%Credits: Code Master
+$D03300C2 0000F5FF
+$1027A3F8 00000100
++Start On 2Nd Half
+%Credits: Code Master
+$D027A3F0 00000000
+$1027A3F0 00000001
++P1 Press L1+Select For Very Low Shot Clock
+%Credits: Code Master
+$D032F9C2 0000FBFE
+$1027A3F4 00000023
++P1 Press R1+Select For More Shot Clock
+%Credits: Code Master
+$D032F9C2 0000F7FE
+$1027A3F4 00000001
++P2 Press L1+Select For Very Low Shot Clock
+%Credits: Code Master
+$D032FAC2 0000FBFE
+$1027A3F4 00000023
++P2 Press R1+Select For More Shot Clock
+%Credits: Code Master
+$D032FAC2 0000F7FE
+$1027A3F4 00000001
++P3 Press L1+Select For Very Low Shot Clock
+%Credits: Code Master
+$D032FBC2 0000FBFE
+$1027A3F4 00000023
++P3 Press R1+Select For More Shot Clock
+%Credits: Code Master
+$D032FBC2 0000F7FE
+$1027A3F4 00000001
++P4 Press L1+Select For Very Low Shot Clock
+%Credits: Code Master
+$D032FCC2 0000FBFE
+$1027A3F4 00000023
++P4 Press R1+Select For More Shot Clock
+%Credits: Code Master
+$D032FCC2 0000F7FE
+$1027A3F4 00000001
++P5 Press L1+Select For Very Low Shot Clock
+%Credits: Code Master
+$D032FDC2 0000FBFE
+$1027A3F4 00000023
++P5 Press R1+Select For More Shot Clock
+%Credits: Code Master
+$D032FDC2 0000F7FE
+$1027A3F4 00000001
++P6 Press L1+Select For Very Low Shot Clock
+%Credits: Code Master
+$D032FEC2 0000FBFE
+$1027A3F4 00000023
++P6 Press R1+Select For More Shot Clock
+%Credits: Code Master
+$D032FEC2 0000F7FE
+$1027A3F4 00000001
++P7 Press L1+Select For Very Low Shot Clock
+%Credits: Code Master
+$D032FFC2 0000FBFE
+$1027A3F4 00000023
++P7 Press R1+Select For More Shot Clock
+%Credits: Code Master
+$D032FFC2 0000F7FE
+$1027A3F4 00000001
++P8 Press L1+Select For Very Low Shot Clock
+%Credits: Code Master
+$D03300C2 0000FBFE
+$1027A3F4 00000023
++P8 Press R1+Select For More Shot Clock
+%Credits: Code Master
+$D03300C2 0000F7FE
+$1027A3F4 00000001
+!!
+!Player Creation Codes:
++Infinite Creation Points
+%Credits: Code Master
+$002C65E0 00000063
++Max Strength
+%Credits: Code Master
+$002C65BB 00000063
++Max Shooting
+%Credits: Code Master
+$002C65BC 00000063
++Max Free Throw
+%Credits: Code Master
+$002C65BD 00000063
++Max Leaping
+%Credits: Code Master
+$002C65BE 00000063
++Max Stealing
+%Credits: Code Master
+$002C65BF 00000063
++Max Quickness
+%Credits: Code Master
+$002C65C0 00000063
++Max Shot Blocking
+%Credits: Code Master
+$002C65C1 00000063
++Max Passing
+%Credits: Code Master
+$002C65C2 00000063
++Max Speed
+%Credits: Code Master
+$002C65C3 00000063
++Max Ball Handling
+%Credits: Code Master
+$002C65C4 00000063
++Max Range
+%Credits: Code Master
+$002C65C5 00000063
++Max Clutch
+%Credits: Code Master
+$002C65C6 00000063
++Max Stamina
+%Credits: Code Master
+$002C65C7 00000063
++Max Off Rebounding
+%Credits: Code Master
+$002C65C8 00000063
++Max Def Rebounding
+%Credits: Code Master
+$002C65C9 00000063
++Max All Stats
+%Credits: Code Master
+$002C65BB 00000063
+$402C65BC 00030001
+$63636363 00000000
+$102C65C8 00006363
+!!
+!Home Team Score Modifier Codes (Season Calendar):
++Game 1
+%Credits: Code Master
+$102C0AEA 0000????
++Game 2
+%Credits: Code Master
+$102C0AEE 0000????
++Game 3
+%Credits: Code Master
+$102C0AF2 0000????
++Game 4
+%Credits: Code Master
+$102C0AF6 0000????
++Game 5
+%Credits: Code Master
+$102C0AFA 0000????
++Game 6
+%Credits: Code Master
+$102C0AFE 0000????
++Game 7
+%Credits: Code Master
+$102C0B02 0000????
++Game 8
+%Credits: Code Master
+$102C0B06 0000????
++Game 9
+%Credits: Code Master
+$102C0B0A 0000????
++Game 10
+%Credits: Code Master
+$102C0B0E 0000????
++Game 11
+%Credits: Code Master
+$102C0B12 0000????
++Game 12
+%Credits: Code Master
+$102C0B16 0000????
++Game 13
+%Credits: Code Master
+$102C0B1A 0000????
++Game 14
+%Credits: Code Master
+$102C0B1E 0000????
++Game 15
+%Credits: Code Master
+$102C0B22 0000????
++Game 16
+%Credits: Code Master
+$102C0B26 0000????
++Game 17
+%Credits: Code Master
+$102C0B2A 0000????
++Game 18
+%Credits: Code Master
+$102C0B2E 0000????
++Game 19
+%Credits: Code Master
+$102C0B32 0000????
++Game 20
+%Credits: Code Master
+$102C0B36 0000????
++Game 21
+%Credits: Code Master
+$102C0B3A 0000????
++Game 22
+%Credits: Code Master
+$102C0B3E 0000????
++Game 23
+%Credits: Code Master
+$102C0B42 0000????
++Game 24
+%Credits: Code Master
+$102C0B46 0000????
++Game 25
+%Credits: Code Master
+$102C0B4A 0000????
++Game 26
+%Credits: Code Master
+$102C0B4E 0000????
++Game 27
+%Credits: Code Master
+$102C0B52 0000????
++Game 28
+%Credits: Code Master
+$102C0B56 0000????
++Game 29
+%Credits: Code Master
+$102C0B5A 0000????
+!!
+!Away Team Score Modifier Codes (Season Calendar):
++Game 1
+%Credits: Code Master
+$102C0AEC 0000????
++Game 2
+%Credits: Code Master
+$102C0AF0 0000????
++Game 3
+%Credits: Code Master
+$102C0AF4 0000????
++Game 4
+%Credits: Code Master
+$102C0AF8 0000????
++Game 5
+%Credits: Code Master
+$102C0AFC 0000????
++Game 6
+%Credits: Code Master
+$102C0B00 0000????
++Game 7
+%Credits: Code Master
+$102C0B04 0000????
++Game 8
+%Credits: Code Master
+$102C0B08 0000????
++Game 9
+%Credits: Code Master
+$102C0B0C 0000????
++Game 10
+%Credits: Code Master
+$102C0B10 0000????
++Game 11
+%Credits: Code Master
+$102C0B14 0000????
++Game 12
+%Credits: Code Master
+$102C0B18 0000????
++Game 13
+%Credits: Code Master
+$102C0B1C 0000????
++Game 14
+%Credits: Code Master
+$102C0B20 0000????
++Game 15
+%Credits: Code Master
+$102C0B24 0000????
++Game 16
+%Credits: Code Master
+$102C0B28 0000????
++Game 17
+%Credits: Code Master
+$102C0B2C 0000????
++Game 18
+%Credits: Code Master
+$102C0B30 0000????
++Game 19
+%Credits: Code Master
+$102C0B34 0000????
++Game 20
+%Credits: Code Master
+$102C0B38 0000????
++Game 21
+%Credits: Code Master
+$102C0B3C 0000????
++Game 22
+%Credits: Code Master
+$102C0B40 0000????
++Game 23
+%Credits: Code Master
+$102C0B44 0000????
++Game 24
+%Credits: Code Master
+$102C0B48 0000????
++Game 25
+%Credits: Code Master
+$102C0B4C 0000????
++Game 26
+%Credits: Code Master
+$102C0B50 0000????
++Game 27
+%Credits: Code Master
+$102C0B54 0000????
++Game 28
+%Credits: Code Master
+$102C0B58 0000????
++Game 29
+%Credits: Code Master
+$102C0B5C 0000????
+!!

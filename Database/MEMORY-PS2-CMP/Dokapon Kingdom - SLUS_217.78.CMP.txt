@@ -1,0 +1,787 @@
+^1 = Hash: 23 63 92 DC 9F A8 1A 75 89 16 49 1F B4 ED 57 3D 90 E8 95 4C
+^2 = GameID: SLUS_217.78
+^3 = NAME: Dokapon Kingdom
+%Credits: Rebel:Digits>Potty:Digits
+!Masters:
++Enable Code (MUST BE ON)
+$9031AD98 0C0C6B0E
+!!
+!Player 1(your Player):
++Max Money
+%Credits: SkillerCMP
+$20544CD8 3B9AC9FF
++Inf HP (max)
+%Credits: SkillerCMP
+$10544B14 0000270F
++Inf Current HP{If They Hit U For More HP Then U Have U Will Die}
+%Credits: SkillerCMP
+$200A0000 24010032
+$200A0004 2402000A
+$200A0008 3C030054
+$200A000C 34634B14
+$200A0010 94640010
+$200A0014 10600004
+$200A001C 00821018
+$200A0020 00220820
+$200A0024 A4610000
+$200A002C 03E00008
+$2031B26C 08028000
++Current EXP
+%Credits: SkillerCMP
+$20544CE4 [Amount:05F5E0FF:HEX:BIG]
+!Stats:{Use At Your Own Risk Iv Had Some Odd Things Happen With The Flowing Codes Not Able To Get Away From The Upgrade Screen :(}
++Max At
+%Credits: SkillerCMP
+$10544B1C 000003E7
++Max Df
+%Credits: SkillerCMP
+$10544B1E 000003E7
++Max Mg
+%Credits: SkillerCMP
+$10544B20 000003E7
++Max Sp
+%Credits: SkillerCMP
+$10544B22 000003E7
++Max HP
+%Credits: SkillerCMP
+$10544B24 000003E7
+!!
+!Mod Codes:
++CPU/Human Character Mod{00 = Cpu, 01=human}
+%Credits: SkillerCMP
+$00544B4C 000000[Amount:00:HEX:BIG]
++Sex Mod
+%Credits: SkillerCMP
+$00544B3C 000000[SEX]
++Job Class Mod
+%Credits: SkillerCMP
+$00544B40 000000[JOB]
++Hair Color Mod
+%Credits: SkillerCMP
+$00544B44 000000[COL]
++Weapon Mod
+%Credits: SkillerCMP
+$00544B9A 000000[WEP]
++Arms Mod
+%Credits: SkillerCMP
+$00544B9B 000000[ARM]
++Attack Skill Skills 1 Mod
+%Credits: SkillerCMP
+$00544B9E 000000[SKI]
++Defensive Skills 2 Mod
+%Credits: SkillerCMP
+$00544B9F 000000[SK2]
++Accesories Mod
+%Credits: SkillerCMP
+$00544B9C 000000[ACC]
+!Items Mods:
++Item Mod Slot 1
+%Credits: SkillerCMP
+$00544BA0 0000[ITEM]
++Item Mod Slot 2
+%Credits: SkillerCMP
+$00544BAC 0000[ITEM]
++Item Mod Slot 3
+%Credits: SkillerCMP
+$00544BB8 0000[ITEM]
++Item Mod Slot 4
+%Credits: SkillerCMP
+$00544BC4 0000[ITEM]
++Item Mod Slot 5
+%Credits: SkillerCMP
+$00544BD0 0000[ITEM]
++Item Mod Slot 6
+%Credits: SkillerCMP
+$00544BDC 0000[ITEM]
++Item Mod Slot 7
+%Credits: SkillerCMP
+$00544BE8 0000[ITEM]
++Item Mod Slot 8
+%Credits: SkillerCMP
+$00544BF4 0000[ITEM]
++Item Mod Slot 9
+%Credits: SkillerCMP
+$00544C00 0000[ITEM]
++Item Mod Slot 10
+%Credits: SkillerCMP
+$00544C0C 0000[ITEM]
++Item Mod Slot 11
+%Credits: SkillerCMP
+$00544C18 0000[ITEM]
++Item Mod Slot 12
+%Credits: SkillerCMP
+$00544C24 0000[ITEM]
+!!
+!Magic Mods:
++Magic Mod Slot 1
+%Credits: SkillerCMP
+$00544C30 0000[MAG]
++Magic Mod Slot 2
+%Credits: SkillerCMP
+$00544C31 0000[MAG]
++Magic Mod Slot 3
+%Credits: SkillerCMP
+$00544C32 0000[MAG]
++Magic Mod Slot 4
+%Credits: SkillerCMP
+$00544C33 0000[MAG]
++Magic Mod Slot 5
+%Credits: SkillerCMP
+$00544C34 0000[MAG]
++Magic Mod Slot 6
+%Credits: SkillerCMP
+$00544C35 0000[MAG]
++Magic Mod Slot 7
+%Credits: SkillerCMP
+$00544C36 0000[MAG]
++Magic Mod Slot 8
+%Credits: SkillerCMP
+$00544C37 0000[MAG]
++Magic Mod Slot 9
+%Credits: SkillerCMP
+$00544C38 0000[MAG]
++Magic Mod Slot 10
+%Credits: SkillerCMP
+$00544C39 0000[MAG]
++Magic Mod Slot 11
+%Credits: SkillerCMP
+$00544C3A 0000[MAG]
++Magic Mod Slot 12
+%Credits: SkillerCMP
+$00544C3B 0000[MAG]
+!!
+!Jobs:
+!Warrior:
++Job Open
+%Credits: SkillerCMP
+$00544B58 00000001
++Job Level/Rate Of Pay
+%Credits: SkillerCMP
+$00544B5C 000000[Amount:FF:HEX:BIG]
++Battle Skill Mod
+%Credits: SkillerCMP
+$00544B5A 000000[BS]
+!!
+!Magician:
++Job Open
+%Credits: SkillerCMP
+$00544B5E 00000001
++Level/Rate Of Pay
+%Credits: SkillerCMP
+$00544B62 000000[Amount:FF:HEX:BIG]
++Battle Skill Mod
+%Credits: SkillerCMP
+$00544B60 000000[BS]
+!!
+!Thief:
++Job Open
+%Credits: SkillerCMP
+$00544B64 00000001
++Job Level/Rate Of Pay
+%Credits: SkillerCMP
+$00544B68 000000[Amount:FF:HEX:BIG]
++Battle Skill Mod
+%Credits: SkillerCMP
+$00544B66 000000[BS]
+!!
+!Cleric:
++Job Open
+%Credits: SkillerCMP
+$00544B6A 00000001
++Job Level/Rate Of Pay
+%Credits: SkillerCMP
+$00544B6E 000000[Amount:FF:HEX:BIG]
++Battle Skill Mod
+%Credits: SkillerCMP
+$00544B6C 000000[BS]
+!!
+!Spellsword:
++Job Open
+%Credits: SkillerCMP
+$00544B70 00000001
++Job Level/Rate Of Pay
+%Credits: SkillerCMP
+$00544B74 000000[Amount:FF:HEX:BIG]
++Battle Skill Mod
+%Credits: SkillerCMP
+$00544B72 000000[BS]
+!!
+!Alchemist:
+Job Open
+%Credits: SkillerCMP
+$00544B76 00000001
++Job Level/Rate Of Pay
+%Credits: SkillerCMP
+$00544B7A 000000[Amount:FF:HEX:BIG]
++Battle Skill Mod
+%Credits: SkillerCMP
+$00544B78 000000[BS]
+!!
+!Ninja:
++Job Open
+%Credits: SkillerCMP
+$00544B7C 00000001
++Job Level/Rate Of Pay
+%Credits: SkillerCMP
+$00544B80 000000[Amount:FF:HEX:BIG]
++Battle Skill Mod
+%Credits: SkillerCMP
+$00544B7E 000000[BS]
+!!
+!Monk:
+Job Open
+%Credits: SkillerCMP
+$00544B82 00000001
++Job Level/Rate Of Pay
+%Credits: SkillerCMP
+$00544B86 000000[Amount:FF:HEX:BIG]
++Battle Skill Mod
+%Credits: SkillerCMP
+$00544B84 000000[BS]
+!!
+!Acrobat:
++Job Open
+%Credits: SkillerCMP
+$00544B88 00000001
++Job Level/Rate Of Pay
+%Credits: SkillerCMP
+$00544B8C 000000[Amount:FF:HEX:BIG]
++Battle Skill Mod
+%Credits: SkillerCMP
+$00544B8A 000000[BS]
+!!
+!Robo Knight:
++Job Open
+%Credits: SkillerCMP
+$00544B8E 00000001
+Job Level/Rate of Pay
+%Credits: SkillerCMP
+$00544B92 000000[Amount:FF:HEX:BIG]
+Battle Skill Mod
+%Credits: SkillerCMP
+$00544B90 000000[BS]
+!!
+!Hero:
+Job Open
+%Credits: SkillerCMP
+$00544B94 00000001
++Job Level/Rate Of Pay
+%Credits: SkillerCMP
+$00544B98 000000[Amount:FF:HEX:BIG]
++Battle Skill Mod
+%Credits: SkillerCMP
+$00544B96 000000[BS]
+!!
+!!
+!!
+^6 = MODS:
+[SEX]
+VALUE>NAME
+00	Dude
+01	Girl
+[/SEX]
+[JOB]
+VALUE>NAME
+00	Warror
+01	Magician
+02	Thief
+03	Cleric
+04	Spellsword
+05	Alchemist
+06	Ninja
+07	Monk
+08	Acrobat
+09	Robo Knight
+0A	Hero
+[/JOB]
+[COL]
+VALUE>NAME
+00	Red
+01	Blue
+02	Green
+03	Yellow
+04	Purple
+05	White
+06	Black 
+07	Red
+[/COL]
+[ARM]
+VALUE>NAME
+01	Wooden Shield
+02	Leather Shield
+03	Buckler
+04	Bronze Shield
+05	Lead Shield
+06	Wabbit Shield
+07	Scale Shield
+08	Copper Shield
+09	Soldier Shield
+0A	Furry Shield
+0B	Iron Shield
+0C	Shinobi Shield
+0D	Large Shield
+0E	Shield
+0F	Warrior Shield
+10	Knight Shield
+11	Black Shield
+12	Paladin Shield
+13	Silver Shield
+14	Mirror Shield
+15	Binder
+16	Shell Shield
+17	Golden Shield
+18	Dokagon Shield
+19	Ragnarok Shield
+1A	Moon Shield
+1B	Tower Shield
+1C	Girly Shield
+1D	Dural Shield
+1E	Metal Guard
+1F	Sun Shield
+20	Cursed Shield
+21	Hero Shield
+22	Mecha Guard
+23	Aura Shield
+24	Athena's Shield
+25	Dragon Shield
+26	Dark Shield
+27	Dokapon Shield
+28	Demon Shield
+[/ARM]
+[WEP]
+VALUE>NAME
+01	Knife
+02	Dagger
+03	Longsword
+04	Hand Axe
+05	Rapier
+06	Spear
+07	Brass Knuckle
+08	Fairy Wand
+09	Gladius
+0A	Dragon Guandao
+0B	Mace
+0C	Smith's Hammer
+0D	Sleep Bow
+0E	Saber
+0F	Crimson Wand
+10	Trident
+11	Battle Fist
+12	Dream Rod
+13	Pistol Crossbow
+14	Scimitar
+15	Silver Sword
+16	Battleaxe
+17	Thunder Blade
+18	Poison Fist
+19	Long Spear
+1A	Ichimonji Katana
+1B	Crossbow
+1C	Chi Knuckle
+1D	Warhammer
+1E	Cyber Saber
+1F	Estoc
+20	Longbow
+21	Flambard
+22	Crimson Candle
+23	Dokagon Sword
+24	Repeater
+25	Thunder Axe
+26	Kitten Mitten
+27	Exorcism Spear
+28	Shamshir
+29	Dancing Blade
+2A	Great Axe
+2B	Elven Bow
+2C	Maul
+2D	Combat Knife
+2E	Greatsword
+2F	Arbalest
+30	Partisan
+31	Halberd
+32	Deadly Dagger
+33	Rune Staff
+34	Drill Lance
+35	Toy Hammer
+36	Dragonslayer
+37	Dark Sword
+38	Soul Eater
+39	Aura Knuckle
+3A	Underworld Staff
+3B	Divine Fist
+3C	No-Recoil Cannon
+3D	Great Tempest
+3E	Dokapon Sword
+3F	Flare Lance
+40	Nihilist Sword
+41	Draco Blade
+42	Chevalier
+43	Punisher
+[/WEP]
+[SKI]
+VALUE>NAME
+01	Scorch
+02	Scorcher
+03	Giga Blaze
+04	Zap
+05	Zapper
+06	Lectro Beam
+07	Chill
+08	Chiller
+09	Ice Barrage
+0A	Gust
+0B	Guster
+0C	F5 Storm
+0D	Mirror Image
+0E	Teleport
+0F	Aurora
+10	Curse
+11	Sleepy
+12	Blind
+13	Banish
+14	Drain
+15	Swap
+16	Pickpocket
+17	Rust
+[/SKI]
+[ACC]
+VALUE>NAME
+01	Power Gloves
+02	Guard Gloves
+03	Spirit Gloves
+04	Speed Gloves
+05	Vital Gloves
+06	Warm Gloves
+07	Air Ring
+08	Ring of Power
+09	Ring of Defence
+0A	Ring of Speed
+0B	Ring of Magic
+0C	Dokapon Ring
+0D	Squid Ring
+0E	Angel Ring
+0F	Fire Bracelet
+10	Ice Bracelet
+11	Elec Bracelet
+12	Wind Bracelet
+13	Crystal Choker
+14	Mirror Necklace
+15	Dodge Necklace
+16	Angel Choker
+17	Galoshes
+18	Heart Slippers
+19	Hero Boots
+1A	Gold Shoes
+1B	Leopard Bandana
+1C	Zebra Bandana
+1D	Nice Guy Badge
+1E	Wallace Badge
+1F	Criminal Studs
+20	Dokapon Crown
+21	Overlord's Crown
+[/ACC]
+[SK2]
+VALUE>NAME
+01	M Guard
+02	M Guard +
+03	M Guard DX
+04	Refresh
+05	Refresh +
+06	Refresh DX
+07	Super Cure
+08	Seal Magic
+09	Seal Magic +
+0A	Shock
+0B	Mirror
+0C	MG Charge
+0D	At Charge
+0E	DF Charge
+0F	SP Charge
+10	Charge All
+11	Charm
+12	Bounce
+13	Super Bounce
+[/SK2]
+[ITEM]
+VALUE>NAME
+01	1 Crystal
+02	2 Crystal
+03	3 Crystal
+04	4 Crystal
+05	5 Crystal
+06	6 Crystal
+07	Multi crystal
+08	2 Spinner
+09	3 Spinner
+0A	4 Spinner
+0B	5 Spinner
+0C	Super Spinner
+0D	Town Warp
+0E	Store Warp
+0F	Guided Warp
+10	Field Warp
+11	Potion
+12	Elixir
+13	Revival
+14	Panacea
+15	Soul Mop
+16	Miracle Serum
+17	Sti-Bru
+18	Phyoose
+19	Invigorade
+1A	Jesta
+1B	Magic Medicine
+1C	Trap Dodger
+1D	Reveal
+1E	Vanish
+1F	Deathblock
+20	Magic Key
+21	Skeleton Key
+22	Magic Mirror
+23	Mattock
+24	Roadblock Rock
+25	Rock Costume
+26	Trap
+27	Item Trickster
+28	Money Trickster
+29	Charm Potion
+2A	White Arrow
+2B	Gold Bug
+2C	Cunning Disguise
+2D	Contract
+2E	Angel Wings
+2F	Show Ticket
+30	Lost Technology
+31	Hero License
+32	Blackmail
+33	Big Bug
+34	Nitroglycerin
+35	Passport
+36	Antidote
+37	Royal Ring
+38	Dokapon Orb
+39	Piggy Bank
+3A	Wabbit
+3B	-- -- -- --
+3C	Salamander Bug
+3D	-- -- -- --
+3E	Monroe Flower
+3F	Fashion Mag # 1
+40	Fashion Mag # 2
+41	Fashion Mag # 3
+42	Fashion Mag # 4
+43	Fashion Mag # 5
+44	Fashion Mag # 6
+45	Fashion Mag # 7
+46	Fashion Mag # 8
+47	Khan's Dog
+48	Rhine Dog
+49	Yukon Dog
+4A	Cusco Dog
+4B	Strom Dog
+4C	Kalar Dog
+4D	Bathur Dog
+4E	Dried Kusaya
+4F	Ningyoyaki
+50	Natto
+51	Xishan Duck
+52	Shark Fin Soup
+53	Kimchi
+54	Dolsot Bibimbap
+55	Dried Mango
+56	Khan Combo
+57	Potato Juice
+58	Caviar
+59	Beef Stroganoff
+5A	Borscht
+5B	Kebab
+5C	Pierogi
+5D	Holy Curry
+5E	Garonne Wine
+5F	Cerdo Loco
+60	Truffles
+61	Pizza
+62	Tiramisu
+63	Foie Gras
+64	Bleu Cheese
+65	Pistachio
+66	Sachertorte
+67	Bagel
+68	Frankfurters
+69	Roast Beef
+6A	Pickled Herring
+6B	Seward Salmon
+6C	Raw Oysters
+6D	King's Burger
+6E	5th Street Bun
+6F	Corn on the Cob
+70	Hot Dog
+71	Astronaut Food
+72	777 Steak
+73	Avocado
+74	Taco
+75	Canal Banana
+76	Worm Candy
+77	Dried Oranges
+78	Churrasco
+79	Soybeans
+7A	Mate Tea
+7B	Chicha Morada
+7C	Szechuan Shrimp
+7D	Quetzal Coin
+7E	Piranha
+7F	Saltena
+80	Polar Soup
+81	Smoked Bird
+82	Kiviak
+83	Penguin Treat
+84	Congo Curry
+85	Pyramid Bread
+86	Fried Scorpion
+87	Oasis Water
+88	Ostrich Soup
+89	Fruit Juice
+8A	White Ant
+8B	Lagenes Cake
+8C	Cape Catsup
+8D	Meat of Hope
+8E	Koala Cookies
+8F	Ulu Dumplings
+90	Tropical Juice
+91	Torochica Juice
+92	Ayer's Candy
+93	Rice Noodles
+94	Bonbon
+95	Gray Trout Sushi
+96	Jade
+97	Ruby
+98	Sapphire
+99	Emerald
+9A	Tourmaline
+9B	Diamond
+9C	Opal
+9E	Black Diamond
+9F	Ningyoyaki
+A0	Natto
+A1	Xishan Duck
+A2	Shark Fin Soup
+A3	Kimchi
+A4	Dolsot Bibimbap
+A5	Dried Mango
+A6	-- -- -- --
+A7	-- -- -- --
+A8	-- -- -- --
+A9	-- -- -- --
+AA	-- -- -- --
+AB	-- -- -- --
+AC	-- -- -- --
+AD	-- -- -- --
+AE	-- -- -- --
+AF	-- -- -- --
+B0	-- -- -- --
+B1	-- -- -- --
+B2	-- -- -- --
+B3	-- -- -- --
+B4	-- -- -- --
+B5	-- -- -- --
+B6	-- -- -- --
+B7	-- -- -- --
+B8	-- -- -- --
+B9	-- -- -- --
+BA	-- -- -- --
+BB	-- -- -- --
+BC	-- -- -- --
+BD	-- -- -- --
+BE	-- -- -- --
+BF	-- -- -- --
+[/ITEM]
+[MAG]
+VALUE>NAME
+01	Magma
+02	Magma +
+03	Magma DX
+04	Ice
+05	Ice+
+06	Ice DX
+07	Volt
+08	Volt +
+09	Volt DX
+0A	Flash Bomb
+0B	Atrophy
+0C	Tenderize
+0D	Slow
+0E	Daze
+0F	Down
+10	Time Out
+11	Cobra Strike
+12	Cobra Storm
+13	Fraidy Cat
+14	Blistered Feet
+15	Sleepy Time
+16	Curse
+17	Curse All
+18	Lock
+19	Lockdown
+1A	Death Call
+1B	Squall
+1C	Typhoon
+1D	Transfer
+1E	Come Here
+1F	Psychokineses
+20	Conjure
+21	Town Conjure
+22	Conjure All
+23	Purse Cutter
+24	Vacuum
+25	Mix-Up
+26	Mystery
+[/MAG]
+[BS]
+VALUE>NAME. 
+01	Charge
+02	Muscle
+03	Overload
+04	Meditate
+05	Celerity
+06	Toughen
+07	Chakra
+08	Soul Fire
+09	Afterburn
+0A	Guard
+0B	Poison
+0C	Virus
+0D	Restrict
+0E	Sing
+0F	Howl
+10	Squeeze
+11	Petrify
+12	Will Bind
+13	Steal
+14	Rob
+15	Escape
+16	Glory
+17	Heal
+18	Prayer
+19	Pierce
+1A	Alchemy
+1B	Sneak hit
+1C	Power Poke
+1D	Wail
+1E	Debug
+1F	Decoy
+20	Play Dumb
+21	???? (Says Random Skill)
+22	Copy 
+23	Transform
+24	Harden
+25	Breath
+26	Waterfall
+27	Brimstone
+28	Tornado
+29	Tsunami
+2A	Thunder
+2B	HeckFire
+2C	Quake
+2D	Delete
+2E	Strikeout
+[/BS]

@@ -1,0 +1,32 @@
+^3 = NAME: WTA Tour Tennis (Pal-Unk)
+^2 = GameID: SLES-50283
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0100418 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0100418 0010041B
+!!
+!Player 1 Points Codes:
++1 Point To Win Game
+%Credits: Codejunkies
+$10428B04 00000004
++Always Score 0
+%Credits: Codejunkies
+$10428B04 00000000
+!!
+!Player 2 Points Codes:
++1 Point To Win Game
+%Credits: Codejunkies
+$10428B68 00000004
++Always Score 0
+%Credits: Codejunkies
+$10428B68 00000000
++Player 1 Is A Giant Tennis Monster
+%Credits: Codejunkies
+$204D6800 40200000
+$2052E400 40200000
+!!
+!!
+

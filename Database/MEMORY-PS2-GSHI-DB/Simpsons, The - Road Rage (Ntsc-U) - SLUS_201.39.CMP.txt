@@ -1,0 +1,73 @@
+^3 = NAME: Simpsons, The - Road Rage (Ntsc-U)
+^2 = GameID: SLUS-20139
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0030FF5F
+!!
+!Have Character Codes:
++All Characters
+%Credits: Code Master
+$40320980 000C0001
+$00000001 00000000
++Apu
+%Credits: Code Master
+$20320988 00000001
++Barney
+%Credits: Code Master
+$2032098C 00000001
++Chief Wiggum
+%Credits: Code Master
+$20320998 00000001
++Flanders
+%Credits: Code Master
+$2032099C 00000001
++Groundskeeper Willie
+%Credits: Code Master
+$20320980 00000001
++Homer 2
+%Credits: Code Master
+$203209A0 00000001
++Krusty The Klown
+%Credits: Code Master
+$20320984 00000001
++Moe
+%Credits: Code Master
+$20320990 00000001
++Otto
+%Credits: Code Master
+$20320994 00000001
++Professor Frink
+%Credits: Code Master
+$203209AC 00000001
++Reverend Lovejoy
+%Credits: Code Master
+$203209A4 00000001
++Snake
+%Credits: Code Master
+$203209A8 00000001
+!!
++Infinite Money
+%Credits: Code Master
+$1032085C 0000FFFF
+$1032ECF0 0000FFFF
++Instant Pickup & Dropoff
+%Credits: Code Master
+$20331B54 45C80000
++Max Money
+%Credits: Code Master
+$2032085C 000F423F
+$2032ECF0 000F423F
++Press L1+L2 For More Time
+%Credits: Code Master
+$D0485EC2 0000FAFF
+$20320EB0 0007FFFF
++Press R1+R2 For No Time
+%Credits: Code Master
+$D0485EC2 0000F5FF
+$20320EB0 00000000
++Unlock All Missions (Mission Mode)
+%Credits: Code Master
+$20320908 0000000A
+!!
+

@@ -1,0 +1,34 @@
+^2 = GameID: BLJM60522
+^3 = NAME: World Soccer: Winning Eleven 2013
+^5 = APCRED: From Bokosuka Games
+^4 = FILE: BLJM60522ML*\DATA.BIN
++Master League - Money Yen 999,999,900,000
+$001B75FF 000000E8
+$201B7600 D4A38960
++Master League - Gp 999,900
+$201B82C0 000F41DC
++Master League - Check Sum Update Crc32
+$write at 0x8: 00000000
+$set range:0x0,0x891987
+$set [hash]:crc32
+$write at 0x8:[hash]
+^4 = FILE: BLJM60522BL*\DATA.BIN
++Become A Legend - Money Yen 999,999,900,000
+$001B82C7 000000E8
+$201B82C8 D4A38960
++Become A Legend - Gp 999,900
+$201B82C0 000F41DC
++Become A Legend - Check Sum Update Crc32
+$write at 0x8: 00000000
+$set range:0x0,0x891987
+$set [hash]:crc32
+$write at 0x8:[hash]
+^4 = FILE: BLJM60522EOPTION/DATA.BIN
++System Data - Consumption Item All 99
+$400123B9 00000063
+$40210002 00000000
++System Data - Check Sum Update Crc32
+$write at 0x8: 00000000
+$set range:0x0,0x6E3BF
+$set [hash]:crc32
+$write at 0x8:[hash]

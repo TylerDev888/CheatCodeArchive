@@ -1,0 +1,205 @@
+^3 = NAME: Guilty Gear X (PAL-E)
+^2 = GameID: SLES-50591
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F01001E4 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F01001E4 001001E7
+!!
+!Character Modifier Codes:
++Hyper Mode (Press L2+Select To Activate; Select+R2 To Stop)
+%Credits: Codejunkies
+$D01F7240 00000102
+$20199604 14400010
+$D01F7240 00000101
+$20199604 10000004
++P2 Always Anji
+%Credits: Codejunkies
+$1057605A 0000000D
++P2 Always Axle
+%Credits: Codejunkies
+$1057605A 00000005
++P2 Always Baiken
+%Credits: Codejunkies
+$1057605A 00000009
++P2 Always Chipp
+%Credits: Codejunkies
+$1057605A 00000007
++P2 Always Dizzy
+%Credits: Codejunkies
+$10576058 00000010
++P2 Always Faust
+%Credits: Codejunkies
+$1057605A 0000000A
++P2 Always Jam
+%Credits: Codejunkies
+$1057605A 0000000C
++P2 Always Johnny
+%Credits: Codejunkies
+$10576058 0000000E
++P2 Always Ky
+%Credits: Codejunkies
+$1057605A 00000002
++P2 Always May
+%Credits: Codejunkies
+$1057605A 00000003
++P2 Always Millia
+%Credits: Codejunkies
+$1057605A 00000004
++P2 Always Potemkin
+%Credits: Codejunkies
+$1057605A 00000006
++P2 Always Sol
+%Credits: Codejunkies
+$1057605A 00000001
++P2 Always Testament
+%Credits: Codejunkies
+$1057605A 0000000B
++P2 Always Venom
+%Credits: Codejunkies
+$1057605A 0000000F
++P2 Always Zato
+%Credits: Codejunkies
+$1057605A 00000008
+!!
++Hyper Mode Off (Press Select+R2) {<I>Use Both Hyper Codes, Turn Off During Loading.</I>}
+%Credits: InterAct
+$D01F7240 00000101
+$20199604 10000004
++Hyper Mode On (Press Select+L2) {<I>Use Both Hyper Codes, Turn Off During Loading.</I>}
+%Credits: InterAct
+$D01F7240 00000102
+$20199604 14400010
++Max Tension Gauge P2
+%Credits: InterAct
+$1053BBD0 00003000
++P2 Always Dizzy
+%Credits: InterAct
+$1057605A 00000010
++P2 Always Johnny
+%Credits: InterAct
+$1057605A 0000000E
+!Play As Character Codes:
++Play As Anji {<I>For All Of These &Quot;Play As Character&Quot; Codes, Press L1+R1+R2+L2 In Game To Modify Character For Next Battle.</I>}
+%Credits: InterAct
+$D01F7240 0000000F
+$10576058 0000000D
++Play As Axle
+%Credits: InterAct
+$D01F7240 0000000F
+$10576058 00000005
++Play As Baiken
+%Credits: InterAct
+$D01F7240 0000000F
+$10576058 00000009
++Play As Chipp
+%Credits: InterAct
+$D01F7240 0000000F
+$10576058 00000007
++Play As Dizzy
+%Credits: InterAct
+CE479E56BCA99B3
+$D01F7240 0000000F
++Play As Faust
+%Credits: InterAct
+$D01F7240 0000000F
+$10576058 0000000A
++Play As Jam
+%Credits: InterAct
+$D01F7240 0000000F
+$10576058 0000000C
++Play As Johnny
+%Credits: InterAct
+$D01F7240 0000000F
+$10576058 0000000E
++Play As Ky
+%Credits: InterAct
+$D01F7240 0000000F
+$10576058 00000002
++Play As May
+%Credits: InterAct
+$D01F7240 0000000F
+$10576058 00000003
++Play As Millia
+%Credits: InterAct
+$D01F7240 0000000F
+$10576058 00000004
++Play As Potemkin
+%Credits: InterAct
+$D01F7240 0000000F
+$10576058 00000006
++Play As Sol
+%Credits: InterAct
+$D01F7240 0000000F
+$10576058 00000001
++Play As Testament
+%Credits: InterAct
+$D01F7240 0000000F
+$10576058 0000000B
++Play As Venom
+%Credits: InterAct
+$D01F7240 0000000F
+$10576058 0000000F
++Play As Zato
+%Credits: InterAct
+$D01F7240 0000000F
+$10576058 00000008
+!!
++Play As Dizzy (Press L1+R1+R2+L2)
+%Credits: Codejunkies
+$D01F7240 0000000F
+$10576058 00000010
+!Player 1 Codes:
++Infinite Double Jump
+%Credits: Codejunkies
+$1053BB68 00000808
++Max Score
+%Credits: Codejunkies
+$2053BA7C 7FF00000
++Max Survival Level
+%Credits: Codejunkies
+$11DF6200 000003E7
++Max Tension Gauge
+%Credits: Codejunkies
+$1053BB10 0000308D
++P1 Always Win After 1St Round
+%Credits: Codejunkies
+$1053BA28 00000000
+$1053BA30 0000FFFF
+!!
+!Player 2 Codes:
++Infinite Double Jump P2
+%Credits: Codejunkies
+$1053BC28 00000808
++No Tension Gauge P2
+%Credits: Codejunkies
+$1053BBD0 00000000
++P2 Never Wins
+%Credits: Codejunkies
+$1053BA30 0000FFFF
++P2 Remains K.O. Longer
+%Credits: Codejunkies
+$1053BC36 000000FF
+!!
+!Press R1+R2+L1+L2 In Game To Modify The Character For The Next Battle:
+!!
++Press Select+Up For Timer Up
+%Credits: InterAct
+$D01F7240 00001100
+$10576144 00000010
++Slow Motion {<I>Press Select+L1 To Activate And Select+R1 To Disactive.</I>}
+%Credits: InterAct
+$D01F7240 00000104
+$2019961C 10000000
+$D01F7240 00000108
+$2019961C 1000000C
++Timer Goes Quicker
+%Credits: InterAct
+$00576144 00000010
++Unlock Characters
+%Credits: InterAct
+$20576F50 00000002
+!!
+

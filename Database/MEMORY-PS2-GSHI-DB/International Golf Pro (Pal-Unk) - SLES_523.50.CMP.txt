@@ -1,0 +1,14 @@
+^3 = NAME: International Golf Pro (Pal-Unk)
+^2 = GameID: SLES-52350
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F024E090 0024E093
+!!
++Always On 1St Shot
+%Credits: Codejunkies
+$E0020000 10386280
+$E0010000 10386282
+$20386280 00000000
+!!
+

@@ -1,0 +1,13 @@
+^3 = NAME: Snes-Station [HDD2]
+^2 = GameID: No
+!Master Codes:
++Enable Code (Must Be On)
+%Credits: lee4
+$9019F28C 0C067C4E
+!!
++PAR RAM Pointer {<I>Only PAR RAM Codes Starts With 7Eyyyyxx Will Work.<Br>Download Modified SNES-Station &Amp; PGEN by FFgriever<br>http://psx-scene.com/forums/showpost.php?p=447296&amp;postcount=4</i>}
+%Credits: lee4
+00000001 0000YYYY
+$6034E2B0 000000??
+!!
+

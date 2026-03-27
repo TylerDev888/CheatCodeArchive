@@ -1,0 +1,9 @@
+^2 = GameID: BLES00973
+^3 = NAME: Hasbro Family Game Night 3
+^4 = FILE: PROFILE.DAT
++Update Dwadd (required)
+$set [csum]:0
+(set [csum]:dwadd(0x000004,0x0007FF))
+$set pointer:eof+1
+$set [csum]:dwadd(0x000004,pointer)
+$write at 0x000000:[csum]

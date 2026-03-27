@@ -1,0 +1,18 @@
+^2 = GameID: UCES01411,UCUS98760
+^3 = NAME: InviZimals: Shadow Zone
+^5 = APCRED: PSP
+(codes & checksum reversed by bucanero)
+^4 = FILE: GAMEDATA
++Update Save Owner To Current Psp
+$set [wlan]:host_wlan_addr
+$write at 0x0034:[wlan]
++Lock Save To Current Psp
+$00000030 00000001
++Unlock Save To Any Psp
+$00000030 00000000
++Update Custom Adler32 (required)
+$write at 0x000C:0x99547688
+$set range:0x0000,EOF+1
+$set [hash]:Adler32:0x00000000
+$set [hash]:endian_swap
+$write at 0x000C:[hash]

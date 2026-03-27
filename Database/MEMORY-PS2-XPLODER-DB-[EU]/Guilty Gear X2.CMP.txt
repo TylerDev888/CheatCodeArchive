@@ -1,0 +1,22 @@
+^3 = NAME: Guilty Gear X2
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 0024A20F
+!!
+!Other:
++Disable Total Timer{(Survival Mode Only)}
+%Credits: Xploder
+$201099A8 00000000
+!!
+!Unlimited:
++Strength (Player 1)
+%Credits: Xploder
+$21E6E816 000001A4
++Strength (Player 2)
+%Credits: Xploder
+$21E6E91A 000001A4
++Time
+%Credits: Xploder
+$20153F50 00000000
+!!

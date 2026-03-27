@@ -1,0 +1,63 @@
+^3 = NAME: Rogue Ops (Ntsc-U)
+^2 = GameID: SLUS-20746
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F035A94C 0035A94F
++Enable Code (Must Be On)
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$F0100008 0035A94F
+!!
++Activate All Cheats
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$2043ECD8 0000FFFF
++All Cheats On
+%Credits: Codejunkies
+$2043ECD8 FFFFFFFF
++Big Weapons
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$201B89E0 00000000
++Blue Enemies
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$1016E962 00001000
++Disable FMV
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$20350C18 24020001
++Display FPS
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$2043C9DC 00000001
++Extra Ammo
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$201AACB0 00451021
++Half Damage Taken
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$201C3CD0 00000000
+$201C3CD4 00000000
++Infinite Ammo
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$201AACB4 00000000
++Infinite Battery
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$203BD20C 00000000
++Infinite Health
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$201C57BC C4800014
+$201C57C0 E4800018
++Invincible (Can't Be Shot)
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$201C3B80 03E00008
+$201C3B84 00000000
++Language Modifier {<I>00 - Japanese<Br>01 - English<Br>02 - French<Br>03 - Italian<Br>04 - German<Br>05 - Spanish<Br>06 - Dutch<Br>07 - Portuguese</I>}
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$202B68A0 240200??
++Max Ammo Upon Reload
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$201AAB14 00000000
++Max Infinite Ammo
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$201AACB0 24020063
++Never Reload
+%Credits: Code Master>GameMasterZer0>Lajos Szalay>tab
+$201AACC8 00000000
+!!
+

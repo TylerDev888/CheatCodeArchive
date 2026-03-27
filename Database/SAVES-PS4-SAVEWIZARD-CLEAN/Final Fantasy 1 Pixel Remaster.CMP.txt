@@ -1,0 +1,120 @@
+^2 = GameID: CUSA33817,CUSA33816,CUSA33818,CUSA33819
+^3 = NAME: Final Fantasy: Pixel Remaster
+^SECONDLAYER: YES
+^4 = FILE: (Slot(20|1[0-9]|[1-9])|System|Slot22)
++Add Item
+$search "normalOwnedItemList\"
+$Insert Next 29: "\\\"{\\\\\\\"contentId\\\\\\\":[Item],\\\\\\\"count\\\\\\\":[Amount:99:UTF08:TXT]}\\\","
++Edit Amount Existing Item
+$search "normalOwnedItemList\"
+$search next "\\\\\\\"contentId\\\\\\\":[Item]"
+$search next ""count\\\\\\\""
+$delete next E:until "}"
+$Insert next E: ":[Amount:99:UTF08:TXT]"
+^6 = MODS:
+[Item]
+ID>Name
+2	Potion
+3	Hi-Potion
+4	X-Potion
+5	Ether
+7	Dry Ether
+8	Elixir
+10	Phoenix Down
+11	Antidote
+12	Eye Drops
+13	Echo Grass
+14	Gold Needle
+15	Remedy
+17	Sleeping Bag
+18	Tent
+19	Cottage
+32	Giant's Tonic
+34	Strength Tonic
+35	Protect Drink
+36	Speed Drink
+63	Knife
+64	Dagger
+65	Mythril Knife
+67	Cat Claws
+71	Rapier
+72	Saber
+73	Broadsword
+74	Werebuster
+75	Rune Blade
+76	Wyrmkiller
+77	Coral Sword
+78	Longsword
+79	Great Sword
+80	Razer
+81	Mythril Sword
+82	Vorpal Sword
+83	Flame Sword
+86	Ice Brand
+87	Defender
+89	Sun Blade
+92	Excalibur
+96	Scimitar
+97	Falchion
+100	Sasuke's Blade
+103	Masamune
+104	Nunchaku
+105	Iron Nunchaku
+106	Battle Axe
+107	Great Axe
+109	Mythril Axe
+110	Light Axe
+114	Hammer
+115	Mythril Hammer
+116	Thor's Hammer
+118	Staff
+119	Healing Staff
+120	Power Staff
+121	Mage's Staff
+122	Crosier
+123	Wizard's Staff
+130	None
+131	None
+132	None
+133	None
+134	Clothes
+136	White Robe
+137	Black Robe
+145	Leather Armor
+146	Chain Mail
+147	Mythril Mail
+148	Iron Armor
+149	Ice Armor
+150	Flame Mail
+151	Knight's Armor
+153	Diamond Armor
+154	Dragon Mail
+156	Copper Armlet
+157	Silver Armlet
+158	Ruby Armlet
+160	Diamond Armlet
+161	Leather Shield
+162	Buckler
+163	Iron Shield
+164	Mythril Shield
+165	Ice Shield
+166	Flame Shield
+168	Diamond Shield
+170	Aegis Shield
+173	Protect Cloak
+175	Leather Cap
+183	Ribbon
+184	Helm
+185	Great Helm
+186	Healing Helm
+187	Mythril Helm
+188	Diamond Helm
+191	Leather Gloves
+192	Bronze Gloves
+193	Steel Gloves
+194	Gauntlets
+195	Giant's Gloves
+197	Mythril Gloves
+198	Diamond Gloves
+202	Protect Ring
+[/Item]

@@ -1,0 +1,70 @@
+^3 = NAME: World Destruction League - Thunder Tanks (Ntsc-U)
+^2 = GameID: SLUS-20005
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0100374 0000000E
++(M) Must Be On
+%Credits: Codejunkies
+$F0100374 00100377
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100040 001AFB5B
+!!
+!Activate Cheat Codes:
++Attack Of The Blur
+%Credits: Code Master
+$1021C95C 00000001
++Banana Effect
+%Credits: Code Master
+$1021C964 00000001
++Have All Weapons
+%Credits: Code Master
+$1021C944 00000001
++High Speed Shrapnel
+%Credits: Code Master
+$1021C960 00000001
++Homing Missiles
+%Credits: Code Master
+$1021C958 00000001
++Invincibility P1
+%Credits: Code Master
+$1021C940 00000001
++Matrix Camera
+%Credits: Code Master
+$1021C950 00000001
++Pig Missiles
+%Credits: Code Master
+$1021C94C 00000001
++Power Up Frenzy
+%Credits: Code Master
+$1021C954 00000001
++Reverse Gravity
+%Credits: Code Master
+$1021C948 00000001
+!!
++Infinite Lives
+%Credits: InterAct
+$20F40A0C 00000001
+![ASM]:
++AI Doesn't Shoot You [ASM]
+%Credits: Josh_7774
+$D011E298 0C048F5E
+$2011E298 00000000
++Infinite Ammo (Special Weapons) [ASM]
+%Credits: Josh_7774
+$D013EA08 AC820000
+$2013EA08 00000000
++Kills Counter Doesn't Increment (Use For Endless Deathmatches) [ASM]
+%Credits: Josh_7774
+$D0103B28 ACE30000
+$20103B28 00000000
++Select + Up To Turn Off AI Shooting You, Select + Down To Turn Back On [ASM]
+%Credits: Josh_7774
+$D1EBFA02 0000FFEE
+$2011E298 00000000
+$D1EBFA02 0000FFBE
+$2011E298 0C048F5E
+!!
+!!
+

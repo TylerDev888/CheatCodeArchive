@@ -1,0 +1,206 @@
+^3 = NAME: Ready 2 Rumble Boxing - Round 2 (Ntsc-U)
+^2 = GameID: SLUS-20054
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01072F8 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F01072F8 001072FB
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 00197B7F
+!!
++1-Hit Death P1
+%Credits: Code Master
+$D01EE8A0 00000064
+$101EE8A0 00000001
++1-Hit Death P2
+%Credits: Code Master
+$D01F1110 00000064
+$101F1132 00000001
++25% Health P1
+%Credits: Code Master
+$D01EE8A0 00000064
+$101EE8A0 00000019
++25% Health P2
+%Credits: Code Master
+$D01F1110 00000064
+$101F1132 00000019
++50% Health P1
+%Credits: Code Master
+$D01EE8A0 00000064
+$101EE8A0 00000032
++50% Health P2
+%Credits: Code Master
+$D01F1110 00000064
+$101F1132 00000032
++75% Health P1
+%Credits: Code Master
+$D01EE8A0 00000064
+$101EE8A0 0000004B
++75% Health P2
+%Credits: Code Master
+$D01F1110 00000064
+$101F1132 0000004B
+!Championship Mode Codes:
++Infinite Money
+%Credits: Code Master
+$101D8BD8 0000FFFF
++Max Dexterity
+%Credits: Code Master
+$101D8BEA 0000447A
++Max Endurance
+%Credits: Code Master
+$101D8BE6 0000447A
++Max Experience
+%Credits: Code Master
+$101D8BEE 0000447A
++Max Stamina
+%Credits: Code Master
+$101D8BE2 0000447A
++Max Strength
+%Credits: Code Master
+$101D8BDE 0000447A
++Training Sway Bag Max Score
+%Credits: BigBossman
+$202063D8 05F5E0FF
+!!
++Have All Characters
+%Credits: Code Master
+$401EBF0C 000B0001
+$00000003 00000000
+!Infinite Health Codes:
++1 Hit To Knockout
+%Credits: Codejunkies
+$101EE8A0 00000001
++1 Hit To Knockout
+%Credits: Codejunkies
+$101F1110 00000001
++Infinite Health
+%Credits: Codejunkies
+$101EE8A0 00000064
++Infinite Health
+%Credits: Codejunkies
+$101F1110 00000064
++Never Above 10% Health
+%Credits: Codejunkies
+$E0010007 301EE8A0
+$101EE8A0 00000007
++Never Above 10% Health
+%Credits: Codejunkies
+$E0010007 301F1110
+$101F1110 00000007
++Never Above 25% Health
+%Credits: Codejunkies
+$E0010019 301EE8A0
+$101EE8A0 00000019
++Never Above 25% Health
+%Credits: Codejunkies
+$E0010019 301F1110
+$101F1110 00000019
++Never Above 50% Health
+%Credits: Codejunkies
+$E0010032 301EE8A0
+$101EE8A0 00000032
++Never Above 50% Health
+%Credits: Codejunkies
+$E0010032 301F1110
+$101F1110 00000032
++Never Above 75% Health
+%Credits: Codejunkies
+$E001004B 301EE8A0
+$101EE8A0 0000004B
++Never Above 75% Health
+%Credits: Codejunkies
+$E001004B 301F1110
+$101F1110 0000004B
+!!
++Infinite Time To Continue {<I>In Arcade Mode.</I>}
+%Credits: BigBossman
+$001F6C44 000000??
++No Health P1
+%Credits: Code Master
+$101EE8A0 00000000
++No Health P2
+%Credits: Code Master
+$101F1110 00000000
++Number Of Boxers Modifier In Team Battle Mode {<I>You Can Modify The Number Of Boxers To Be Less Than 4 Or More Than 10. Just Don&#39;T Go Above 12 (Higher Than Value &Quot;0C&Quot;) Or Else The Game Will Freeze When It Goes To The Boxer Select Screen.</I>}
+%Credits: BigBossman
+$00205D5C 000000??
++Number Of Players Modifier In Tournament Mode {<I>It&#39;S Possible To Select More Than 8 Players, However It Is Unknown The Max Number Is. Setting It To 1 Or 2 Players Will Cause It To Freeze At The Tournament Tree.</I>}
+%Credits: BigBossman
+$00206434 000000??
++Player 1 Costume Modifier
+%Credits: BigBossman
+$001EE930 000000??
++Player 1 Has Max Rumble Power-Up
+%Credits: BigBossman
+$00204F68 00000013
++Player 1 Modifier {<I>Values -  00 - Afro Thunder 01 - Selene Strike 02 - Boris &Quot;The Bear&Quot; Knokimov 03 - Butcher Brown 04 - Angel &Quot;Raging&Quot; Rivera 05 - Mama Tua  06 - Joey T. 07 - Jet Chin 08 - Lulu Valentine 09 - J.R. Flurry 0A - Johnny Blood 0B - &Quot;Big&Quot; Willy Johnson 0C - Freak E. Delete 0D - Michael Jackson 0E - G.C. Thunder 0F - &Quot;Wild&Quot; Stubby Corley 10 - Shaquille O&#39;Neal 11 - Freedom Brock 12 - Rocket Samchay 13 - Robox Rese4 14 - Mr. President 15 - The First Lady 16 - Rumbleman  17 - Shadow Shadow &Quot;Default&Quot; (Solid, White Featureless Boxer Model, Can&#39;T Throw Punches) 18 - Michael Buffer (Ring Announcer, Standing With A Microphone, Can&#39;T Throw Punches) 19 - Julie Girl &Quot;Default&Quot; (Swimsuit Model Wearing Boxing Gloves, Can&#39;T Throw Punches, Freezes When Hit) 1A - Fuzzy B. (Trainer, Sitting, Messed Up Left Arm, Can&#39;T Throw Punches) 1B - Franz Boronitz (Referee, Standing, Can&#39;T Throw Punches) 1C - Froze</I>}
+%Credits: BigBossman
+$001EC12C 000000??
++Player 2 Modifier
+%Credits: BigBossman
+$001EE99C 000000??
++Player 2 Never Gets Rumble Power-Up
+%Credits: BigBossman
+$00204F6C 00000000
++Press L1 & Select To Reset Round Timer
+%Credits: BigBossman
+$D02074C2 0000FBFE
+$10204F80 00002A30
++Press L2 & Select To End The Round
+%Credits: BigBossman
+$D02074C2 0000FEFE
+$10204F80 00000000
++Press R1 & Select For The Ref To Count 10
+%Credits: BigBossman
+$D02074C2 0000F7FE
+$10E36366 0000000A
++Press R2 & Select To Reset The 10-Count
+%Credits: BigBossman
+$D02074C2 0000FDFE
+$10E36366 00000001
++Round Modifier {<I>This Can Be Used With A Joker Code To Change Rounds Mid-Match.</I>}
+%Credits: BigBossman
+$00205458 000000??
++Round Time Modifier In Options {<I>Values Can Be Selected For Different Lengths Of Time. You Can Also Go Well Beyond The Normal Selectable Limits. Values -  03 - 15 Seconds  07 - 30 Seconds  0A - 45 Seconds 0E - 60 Seconds  11 - 75 Seconds 15 - 90 Seconds  18 - 105 Seconds  1C - 120 Seconds  1F - 135 Seconds  23 - 150 Seconds  26 - 165 Seconds  2A - 180 Seconds</I>}
+%Credits: BigBossman
+$001F6C4D 000000??
++Rounds Modifier In Options {<I>You Can Set The Maximum Number Of Rounds Beyond The Normal Selectable Amount.</I>}
+%Credits: BigBossman
+$001F6C48 000000??
+!Stamina Codes:
++All Characters Unlocked
+%Credits: Codejunkies
+$101EBF0C 00000003
+$101EBF10 00000003
+$101EBF14 00000003
+$101EBF18 00000003
+$101EBF1C 00000003
+$101EBF20 00000003
+$101EBF24 00000003
+$101EBF28 00000003
+$101EBF2C 00000003
+$101EBF30 00000003
+$101EBF34 00000003
++No Stamina
+%Credits: Codejunkies
+$101EE8A4 00000000
++No Stamina
+%Credits: Codejunkies
+$101F1114 00000000
++Quick Recovery
+%Credits: Codejunkies
+$101EE8A4 00000064
++Quick Recovery
+%Credits: Codejunkies
+$101F1114 00000064
++Start At Championship Bout {<I>Print Codes  Code Requests</I>}
+%Credits: Codejunkies
+$D02052D0 00000000
+$102052D0 0000000B
+!!
+!!
+

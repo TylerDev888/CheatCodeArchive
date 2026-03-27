@@ -1,0 +1,78 @@
+^1 = HASH: A6B59CA2
+^3 = NAME: NHL Hitz Pro 20-04
+^2 = GameID: SLUS_206.91
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0012052F
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$9012052C 0C041126
+!!
+!Codes:
++Goal's Score Modifier
+%Credits: Code Master
+$10203544 000000??
++All Goal's Score For Home Team
+%Credits: Code Master
+$20203538 24020000
++All Goal's Score For Away Team
+%Credits: Code Master
+$20203538 24020004
++Disable Checking
+%Credits: Code Master
+$201D3B90 03E00008
+$201D3B94 00000000
++Infinite Turbo (All Players)
+%Credits: Code Master
+$201C6D84 00000000
+$201C6EB4 00000000
+$201C6EEC 00000000
+$201C6BFC 00000000
++Offsides Always On
+%Credits: Code Master
+$203F4954 00000001
++Offsides Always Off
+%Credits: Code Master
+$203F4954 00000000
++Puck Gravity Modifier (Default 411Ccccd)
+%Credits: Code Master
+$203F4D48 ????????
++High Max Turbo
+%Credits: Code Master
+$203F4BF8 447A0000
++Super Max Puck Speed
+%Credits: Code Master
+$203F73F0 447A0000
++Invisible Heads
+%Credits: Code Master
+$20155C10 03E00008
+$20155C14 00000000
++Idiot Players AI
+%Credits: Code Master
+$201803C0 03E00008
+$201803C4 00000000
++Never Offside
+%Credits: Code Master
+$2018C1F0 03E00008
+$2018C1F4 00000000
++Always Never Stressed
+%Credits: Code Master
+$201C7648 AC803474
++Harder Shots
+%Credits: Code Master
+$201D7540 00000000
+$101D7548 000042C8
++Very Harder Shots
+%Credits: Code Master
+$201D7540 00000000
+$101D7548 00004348
++Ultra Hard Shots
+%Credits: Code Master
+$201D7540 00000000
+$101D7548 0000447A
++Unlock All Cheats
+%Credits: Code Master
+$2032BD98 2402FFFF
+$2032BD9C AEA203E0
+!!

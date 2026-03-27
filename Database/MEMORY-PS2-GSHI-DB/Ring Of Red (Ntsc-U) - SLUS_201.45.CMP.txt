@@ -1,0 +1,78 @@
+^3 = NAME: Ring Of Red (Ntsc-U)
+^2 = GameID: SLUS-20145
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01001CC 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F01001CC 001001CF
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0014183F
+!!
+!Health Codes:
++99% Accuracy
+%Credits: Codejunkies
+$10CEFC6A 00004300
++Always Loaded
+%Credits: Codejunkies
+$20CEFC70 00000000
++Have Easy Kills
+%Credits: Codejunkies
+$10CF00F8 00000000
++Health Never Above 10%
+%Credits: Codejunkies
+$E0010013 30CEFCDC
+$10CEFCDC 00000013
++Health Never Above 25%
+%Credits: Codejunkies
+$E001004B 30CEFCDC
+$10CEFCDC 0000004B
++Health Never Above 50%
+%Credits: Codejunkies
+$E0010096 30CEFCDC
+$10CEFCDC 00000096
++Health Never Above 75%
+%Credits: Codejunkies
+$E00100C8 30CEFCDC
+$10CEFCDC 000000C8
++Infinite Specials
+%Credits: Codejunkies
+$10CEFCF8 0000000A
++Max Special Shells
+%Credits: Codejunkies
+$10CEFCFA 0000000A
++No Enemy Troops
+%Credits: Codejunkies
+$10CF0108 00000000
+$10CF010C 00000000
+$10CF0110 00000000
++Troops Have Infinite Health
+%Credits: Codejunkies
+$10CEFCEC 00000078
+$10CEFCF0 00000078
+$10CEFCF4 00000078
+!!
++Infinite Health
+%Credits: InterAct
+$10CEFCDC 0000012C
+$10CEFCEC 00000078
+$10CEFCF0 00000078
+$10CEFCF4 00000078
++Infinite Health
+%Credits: InterAct
+$10CEFCDC 0000012C
++Infinite Health (Allies)
+%Credits: Code Master
+$40CEFCEC 00030001
+$00000078 00000000
++Max Accuracy
+%Credits: Code Master
+$20CEFC68 43000000
++No Enemy Troops
+%Credits: Code Master
+$40CF0108 00030001
+$00000000 00000000
+!!
+

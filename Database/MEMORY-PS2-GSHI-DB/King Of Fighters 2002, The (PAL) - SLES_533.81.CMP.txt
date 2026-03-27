@@ -1,0 +1,60 @@
+^3 = NAME: King Of Fighters 2002, The (PAL)
+^2 = GameID: SLES-53381
+!Master Codes:
++Mastercode
+%Credits: GodShin
+$903A6A4C 0C0E4686
+!!
++Freeze Timer
+%Credits: lee4
+$00962F20 000000FF
++Have All Time Attack Challenges Completed
+%Credits: lee4>CMX
+$209717F0 00000028
++Hit Anywhere (Both Players)
+%Credits: lee4>CMX
+$201B0474 00000000
++Hit Anywhere P1 & P2 Cant Hit P2
+%Credits: lee4>CMX
+$201B0468 30820400
+$201B046C 38420400
++Hit Anywhere P1 & P2 Cant Hit P2
+%Credits: lee4>CMX
+$201B0468 30820400
+$201B046C 00000000
++Infinite Time (ASM)
+%Credits: Azagthoth
+$2019FB04 00000000
++Infinite Time (RAM)
+%Credits: Azagthoth
+$00962F28 00000090
++P1 Infinite Health
+%Credits: GodShin
+$0096EDE8 00000066
++P1 Special Bar Full
+%Credits: GodShin
+$0096ED99 00000048
++P1 Special Level 3
+%Credits: GodShin
+$0096EE93 00000003
++P2 Infinite Health
+%Credits: GodShin
+$0096EFF8 00000066
++P2 Special Bar Full
+%Credits: GodShin
+$0096EFA9 00000048
++P2 Special Level 3
+%Credits: GodShin
+$0096F0A3 00000003
++Pal2ntsc
+%Credits: GodShin
+$2038A748 24120002
++Unlock All Character Art Gallery
+%Credits: lee4>CMX
+$209712E8 FFFFFFFF
+$009712EC 000000FF
++Unlock All Characters
+%Credits: lee4>CMX
+$20971814 FFFFFFFF
+!!
+

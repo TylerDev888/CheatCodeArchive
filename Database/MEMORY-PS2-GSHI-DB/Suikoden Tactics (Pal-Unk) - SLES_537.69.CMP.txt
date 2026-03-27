@@ -1,0 +1,97 @@
+^3 = NAME: Suikoden Tactics (Pal-Unk)
+^2 = GameID: SLES-53769
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F03845A4 003845A7
+!!
+!In Battle Codes:
++Infinite Health
+%Credits: Codejunkies
+$200FFF80 8462001C
+$200FFF84 A4620008
++Max Def
+%Credits: Codejunkies
+$200FFFB8 24012000
+$200FFFBC A4610006
++Max Eva
+%Credits: Codejunkies
+$200FFF9C A4610024
++Max Experience (Level 50)
+%Credits: Codejunkies
+$200FFFB0 3401C34F
+$200FFFB4 A4610000
++Max Luc
+%Credits: Codejunkies
+$200FFFAC A461002C
++Max Mag
+%Credits: Codejunkies
+$200FFF90 A4610022
++Max Mdf
+%Credits: Codejunkies
+$200FFFA0 A4610028
++Max Pdf
+%Credits: Codejunkies
+$200FFF98 A4610026
++Max Skl
+%Credits: Codejunkies
+$200FFF94 A4610020
++Max Spd
+%Credits: Codejunkies
+$200FFFA4 A461002A
++Max Str
+%Credits: Codejunkies
+$200FFFA8 A461001E
++Must Be On For In Battle Codes {<I>This Code Must Be ON For Any In Battle Codes To Be Activated.</I>}
+%Credits: Codejunkies
+$200FFFD0 080BB110
+$200FFFD4 94620008
+$202EC43C 0803FFE0
+$200FFF88 240103E7
+!!
+!Super Item Modifier Codes:
++Max Item {<I>Press Select On Any Highlighted Item To Receive 99. The Super Item Code Must Be ON For This Code To Be Activated.</I>}
+%Credits: Codejunkies
+$E10200FE 004A3206
+$200FFF30 24030063
+$200FFF34 A6230002
+$E10100FE 104A3206
+$200FFF34 00000000
++Super Item {<I>To Use The Super Item Modifier Code, Go Into A Town, And Go To The Outfitter Then Select The Option &#39;Sell&#39;, Then &#39;Caravan&#39;. Press R3,L3 Or Select On That List For Different Effects.<Br>Press L3 To Turn Highlighted Item Into Next Item In The List. Press R3 For Reverse Effect.</I>}
+%Credits: Codejunkies
+$200FFF44 080BC7C0
+$20361710 0C03FFC0
+$100FFF02 00002484
+$100FFF06 00002403
+$200FFF08 10640003
+$200FFF10 A6240000
+$E10200FD 004A3206
+$100FFF00 00000001
+$100FFF04 00000135
+$E10200FB 004A3206
+$100FFF00 0000FFFF
+$100FFF04 00000000
+$E10200FD 104A3206
+$E10100FB 104A3206
+$100FFF00 00000000
+!!
++1 Hit Kills Enemies
+%Credits: Codejunkies
+$200FFE40 24020001
+$200FFE44 A4620006
+$200FFE48 080BB897
+$202EE258 0803FF90
++Infinite Health
+%Credits: Codejunkies
+$200FFF80 8462001C
+$200FFF84 A4620008
+$200FFFD0 080BB110
+$202EC43C 0803FFE0
++Infinite Skill Points
+%Credits: Codejunkies
+$10685CF0 0000270F
++Max Cash
+%Credits: Codejunkies
+$20685CF8 05F0AB00
+!!
+

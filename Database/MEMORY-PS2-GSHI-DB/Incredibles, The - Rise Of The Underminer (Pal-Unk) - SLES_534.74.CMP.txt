@@ -1,0 +1,80 @@
+^3 = NAME: Incredibles, The - Rise Of The Underminer (Pal-Unk)
+^2 = GameID: SLES-53474
++2Hitskill
+%Credits: luc-ita
+$202BEBD8 10000040
++Earn Upgrade Points To Have Max Quantity
+%Credits: luc-ita
+$20233CC0 10000003
++Fly Mode (Read Notes) {<I>Use Either This Or The Other Code Don&#39;T Use Together Activate With R3+Select Deactivate With L3+Select Move Normally, Go Up And Down With Triangle And Square Buttons</I>}
+%Credits: luc-ita
+$D05B0042 0000FFFA
+$0065AAF8 00000001
+$D05B0042 0000FFFC
+$0065AAF8 00000000
++Fly Mode - Alternate Mode (Read Notes) {<I>Use Either This Or The Other Code Don&#39;T Use Together Activate With R3+Select Deactivate With L3+Select</I>}
+%Credits: luc-ita
+$D05B0042 0000FFFA
+$0065A8F6 00000000
+$D05B0042 0000FFFA
+$006595B6 00000000
+$D05B0042 0000FFFC
+$0065A8F6 00000001
+$D05B0042 0000FFFC
+$006595B6 00000001
++Immediate Recovery After Death
+%Credits: luc-ita
+$2042209C 00000000
+$204220D4 8462001E
+!Internal Cheats:
++Unlimitednukes (Cheat Nukes)
+%Credits: luc-ita
+$005AE86F 00000001
++Unlock All Levels
+%Credits: luc-ita
+$00596F00 00000001
+!!
+!Internal Debug Features:
++Allowmastercheats (Read Notes) {<I>With L1+R1+Dpad Down Activate/Deactivate The Fly Mode For The Character In Use --- While L1+R1+Dpad Left Activates The Gadvancebossstage Byte But I Haven&#39;T Found Out What The In-Game Effects Are --- This Feature Also Enables Other Hidden Cheats: CA, CB, CC, CD, CE, CF, CG, CH, CI, CJ, CK, CL, CM, CN, CO Donea, Doneb Hudbegone, LL, Nuke, Unstoppable Xxxxx, XXXX, XXX, XX, X --- Cx Codes Move The Player Forward From Checkpoint To Checkpoint In Each Level Donea And Doneb Haven&#39;T Found The Purpose Of Them Hudbegone Disables HUD LL Same Of Levellocksmith Cheat Nuke Activates Unlimitednukes Unstoppable Activates Invincibility The X Codes Give You 1, 10, 100, 1000, 10000 Of XP</I>}
+%Credits: luc-ita
+$005AE9AD 00000001
++Disable HUD
+%Credits: luc-ita
+$005AE939 00000000
++Displaypaddebuginfo
+%Credits: luc-ita
+$205963F0 00000001
++Nocutscenes
+%Credits: luc-ita
+$005AE861 00000001
++Nomovies
+%Credits: luc-ita
+$005AE9A4 00000001
++Nomusic
+%Credits: luc-ita
+$005AE860 00000001
++Play The Demo Instead Of The Full Game
+%Credits: luc-ita
+$205AE9B0 00000001
+!!
++Invulnerable (Read Notes) {<I>If You Fall You Don&#39;T Die And Go Off The Map Press Select+Triangle To Die And Return To The Level</I>}
+%Credits: luc-ita
+$005AE944 00000000
+$202393E0 38420001
+$D05B0042 0000EFFE
+$202393E0 34020001
++Jump In Midair (Read Notes) {<I>Jump With R2+X</I>}
+%Credits: luc-ita
+$2024656C AE6201D4
+$D05B0042 0000BDFF
+$2024656C 00000000
+$D05B0042 0000FDFF
+$2024656C 00000000
++Jump To Levitate (Read Notes) {<I>Hold Down The Jump Button To Jump Normally<Br>Press One Time For The Character To Go Up<Br>To Go Down Hold Down The Jump Button Again</I>}
+%Credits: luc-ita
+$20242F40 10000003
++Slow Descent From Jumping
+%Credits: luc-ita
+$20242C94 3C03C000
+!!
+

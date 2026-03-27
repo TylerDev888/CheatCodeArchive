@@ -1,0 +1,12 @@
+^2 = GameID: BLES01921
+^3 = NAME: Diablo III
+^5 = APCRED: From twerkformiley
+^4 = FILE: ACCOUNT.DAT
++Decrypt Account.dat (required)
+$set range:0x000000,eof+1
+$DECRYPT diablo3
++Paragon Xp Boost
+$write at 0x000001F6:0xFFAB9D7B
++Encrypt Account.dat (required)
+$set range:0x000000,eof+1
+$ENCRYPT diablo3

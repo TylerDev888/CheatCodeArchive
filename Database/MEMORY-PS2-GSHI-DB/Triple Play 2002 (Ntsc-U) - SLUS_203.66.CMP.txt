@@ -1,0 +1,988 @@
+^3 = NAME: Triple Play 2002 (Ntsc-U)
+^2 = GameID: SLUS-20366
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F010173C 0031845C
++(M) Must Be On
+%Credits: InterAct
+$F0101178 003360F7
++(M) Must Be On
+%Credits: Codejunkies
+$F03360F4 003360F7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 003360F7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0031845B
+!!
+!Always 3-2 Codes:
++Always 3-2 Pitch For The Away Only
+%Credits: Codejunkies
+$D03C7A3E 00000001
+$003C7A62 00000003
+$D03C7A3E 00000001
+$003C7A61 00000002
++Always 3-2 Pitch For The Home Only
+%Credits: Codejunkies
+$D03C7A3E 00000000
+$003C7A62 00000003
+$D03C7A3E 00000000
+$003C7A61 00000002
+!!
+!Away Only Codes:
++1 Ball To Walk - Away
+%Credits: InterAct
+$D038A7E4 00000000
+$D0393B2A 00000000
+$00393B2A 00000003
++1 Out Per Inning - Away
+%Credits: InterAct
+$D038A7E4 00000000
+$D0393B2B 00000000
+$00393B2B 00000002
++1 Strike Per Out - Away
+%Credits: InterAct
+$D038A7E4 00000000
+$D0393B29 00000000
+$00393B29 00000002
++2 Balls To Walk - Away
+%Credits: InterAct
+$D038A7E4 00000000
+$D0393B2A 00000000
+$00393B2A 00000002
++2 Outs Per Inning - Away
+%Credits: InterAct
+$D038A7E4 00000000
+$D0393B2B 00000000
+$00393B2B 00000001
++2 Strikes Per Out - Away
+%Credits: InterAct
+$D038A7E4 00000000
+$D0393B29 00000000
+$00393B29 00000001
++3 Balls To Walk - Away
+%Credits: InterAct
+$D038A7E4 00000000
+$D0393B2A 00000000
+$00393B2A 00000001
++Easy Home Run - Away
+%Credits: InterAct
+$D038A7E4 00000000
+$20380128 FF600000
+$D038A7E4 00000001
+$20380128 FE000000
+!!
+!Away Team Ball Codes:
++1 Ball To Walk
+%Credits: Codejunkies
+$E0020001 003C7A3E
+$D03C7A62 00000000
+$003C7A62 00000003
++2 Balls To Walk
+%Credits: Codejunkies
+$E0020001 003C7A3E
+$D03C7A62 00000000
+$003C7A62 00000002
++3 Balls To Walk
+%Credits: Codejunkies
+$E0020001 003C7A3E
+$D03C7A62 00000000
+$003C7A62 00000001
++No Balls
+%Credits: Codejunkies
+$D03C7A3E 00000001
+$003C7A62 00000000
+!!
+!Away Team Codes:
++Away Team 1St Run Is A Grand Slam
+%Credits: InterAct
+$D0393734 00000001
+$10393734 00000004
++Away Team Score 0
+%Credits: InterAct
+$10393734 00000000
++Away Team Score 50
+%Credits: InterAct
+$10393734 00000032
++Score 0
+%Credits: Codejunkies
+$103C762C 00000000
++Score 50
+%Credits: Codejunkies
+$103C762C 00000032
+!!
+!Away Team Inning Codes:
++1 Out Per Inning
+%Credits: Codejunkies
+$E0020001 003C7A3E
+$D03C7A62 00000000
+$003C7A63 00000002
++2 Outs Per Inning
+%Credits: Codejunkies
+$E0020001 003C7A3E
+$D03C7A62 00000000
+$003C7A63 00000001
+!!
+!Away Team Only Codes:
++1 Ball And You Walk
+%Credits: Code Master
+$E0020001 003BBA74
+$D03C7A62 00000000
+$003C7A62 00000003
++1 Out And You Are Out
+%Credits: Code Master
+$E0020001 003BBA74
+$D03C7A62 00000000
+$003C7A63 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020001 003BBA74
+$D03C7A60 00000000
+$003C7A61 00000002
++2 Balls And You Walk
+%Credits: Code Master
+$E0020001 003BBA74
+$D03C7A62 00000000
+$003C7A62 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020001 003BBA74
+$D03C7A62 00000000
+$003C7A63 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020001 003BBA74
+$D03C7A60 00000000
+$003C7A61 00000001
++3 Balls And You Walk
+%Credits: Code Master
+$E0020001 003BBA74
+$D03C7A62 00000000
+$003C7A62 00000001
++Always Full Count
+%Credits: Code Master
+$E0020001 003BBA74
+$003C7A61 00000002
+$003C7A62 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030001 003BBA74
+$003C7A61 00000002
+$003C7A62 00000003
+$003C7A63 00000002
++Infinite Balls
+%Credits: Code Master
+$D03BBA74 00000001
+$003C7A62 00000000
++Infinite Outs
+%Credits: Code Master
+$D03BBA74 00000001
+$003C7A63 00000000
++Infinite Strikes
+%Credits: Code Master
+$D03BBA74 00000001
+$003C7A61 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0020000 0038A7E4
+$D0393B2A 00000000
+$00393B2A 00000003
++1 Out And You Are Out
+%Credits: Code Master
+$E0020000 0038A7E4
+$D0393B2A 00000000
+$00393B2B 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020000 0038A7E4
+$D0393B28 00000000
+$00393B29 00000002
++2 Balls And You Walk
+%Credits: Code Master
+$E0020000 0038A7E4
+$D0393B2A 00000000
+$00393B2A 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020000 0038A7E4
+$D0393B2A 00000000
+$00393B2B 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020000 0038A7E4
+$D0393B28 00000000
+$00393B29 00000001
++3 Balls And You Walk
+%Credits: Code Master
+$E0020000 0038A7E4
+$D0393B2A 00000000
+$00393B2A 00000001
++Always Full Count
+%Credits: Code Master
+$E0020000 0038A7E4
+$00393B29 00000002
+$00393B2A 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030000 0038A7E4
+$00393B29 00000002
+$00393B2A 00000003
+$00393B2B 00000002
++Gravity Accel Sec Modifier (Default Fe000000)
+%Credits: Code Master
+$D038A7E4 00000000
+$20380128 ????????
++Infinite Balls
+%Credits: Code Master
+$D038A7E4 00000000
+$00393B2A 00000000
++Infinite Outs
+%Credits: Code Master
+$D038A7E4 00000000
+$00393B2B 00000000
++Infinite Strikes
+%Credits: Code Master
+$D038A7E4 00000000
+$00393B29 00000000
+!!
+!Away Team Runs Codes:
++1St Run Is A Grand Slam For The Away Team
+%Credits: Codejunkies
+$D03C762C 00000001
+$103C762C 00000004
++1St Run Is A Grand Slam For The Home Team
+%Credits: Codejunkies
+$D03C7620 00000001
+$103C7620 00000004
++Always 3-2 Pitch
+%Credits: Codejunkies
+$003C7A62 00000003
+$003C7A61 00000002
++One Chance Mode
+%Credits: Codejunkies
+$003C7A62 00000003
+$003C7A61 00000002
+$003C7A63 00000002
++Start With 10 Runs
+%Credits: Codejunkies
+$D03C762C 00000000
+$103C762C 0000000A
++Start With 5 Runs
+%Credits: Codejunkies
+$D03C762C 00000000
+$103C762C 00000005
+!!
+!Away Team Stike Codes:
++1 Strike Per Out
+%Credits: Codejunkies
+$E0020001 003C7A3E
+$D03C7A60 00000000
+$003C7A61 00000002
++2 Strikes Per Out
+%Credits: Codejunkies
+$E0020001 003C7A3E
+$D03C7A60 00000000
+$003C7A61 00000001
++No Strikes
+%Credits: Codejunkies
+$D03C7A3E 00000001
+$003C7A61 00000000
+!!
+!Ball Codes:
++1 Ball To Walk
+%Credits: Codejunkies
+$D03C7A62 00000000
+$003C7A62 00000003
++2 Balls To Walk
+%Credits: Codejunkies
+$D03C7A62 00000000
+$003C7A62 00000002
++3 Balls To Walk
+%Credits: Codejunkies
+$D03C7A62 00000000
+$003C7A62 00000001
++No Balls
+%Credits: Codejunkies
+$003C7A62 00000000
+!!
+!Ball/Strikes/Outs Codes:
++1 Ball To Walk
+%Credits: InterAct
+$D0393B2A 00000000
+$00393B2A 00000003
++1 Out Per Inning
+%Credits: InterAct
+$D0393B2B 00000000
+$00393B2B 00000002
++1 Strike Per Out
+%Credits: InterAct
+$D0393B29 00000000
+$00393B29 00000002
++2 Balls To Walk
+%Credits: InterAct
+$D0393B2A 00000000
+$00393B2A 00000002
++2 Outs Per Inning
+%Credits: InterAct
+$D0393B2B 00000000
+$00393B2B 00000001
++2 Strikes Per Out
+%Credits: InterAct
+$D0393B29 00000000
+$00393B29 00000001
++3 Balls To Walk
+%Credits: InterAct
+$D0393B2A 00000000
+$00393B2A 00000001
+!!
+!Both Team Codes:
++1 Out And You Are Out
+%Credits: Code Master
+$D03C7A62 00000000
+$003C7A63 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$D03C7A60 00000000
+$003C7A61 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$D03C7A62 00000000
+$003C7A63 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$D03C7A60 00000000
+$003C7A61 00000001
++Always Full Count
+%Credits: Code Master
+$003C7A61 00000002
+$003C7A62 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$003C7A61 00000002
+$003C7A62 00000003
+$003C7A63 00000002
++Infinite Outs
+%Credits: Code Master
+$003C7A63 00000000
++Infinite Strikes
+%Credits: Code Master
+$003C7A61 00000000
++1 Out And You Are Out
+%Credits: Code Master
+$D0393B2A 00000000
+$00393B2B 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$D0393B28 00000000
+$00393B29 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$D0393B2A 00000000
+$00393B2B 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$D0393B28 00000000
+$00393B29 00000001
++Always Full Count
+%Credits: Code Master
+$00393B29 00000002
+$00393B2A 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$00393B29 00000002
+$00393B2A 00000003
+$00393B2B 00000002
++Gravity Accel Sec Modifier (Default Fe000000)
+%Credits: Code Master
+$20380128 ????????
++Infinite Balls
+%Credits: Code Master
+$00393B2A 00000000
++Infinite Outs
+%Credits: Code Master
+$00393B2B 00000000
++Infinite Strikes
+%Credits: Code Master
+$00393B29 00000000
+!!
+!Home Only Codes:
++1 Ball To Walk - Home
+%Credits: InterAct
+$D038A7E4 00000001
+$D0393B2A 00000000
+$00393B2A 00000003
++1 Out Per Inning - Home
+%Credits: InterAct
+$D038A7E4 00000001
+$D0393B2B 00000000
+$00393B2B 00000002
++1 Strike Per Out - Home
+%Credits: InterAct
+$D038A7E4 00000001
+$D0393B29 00000000
+$00393B29 00000002
++2 Balls To Walk - Home
+%Credits: InterAct
+$D038A7E4 00000001
+$D0393B2A 00000000
+$00393B2A 00000002
++2 Outs Per Inning - Home
+%Credits: InterAct
+$D038A7E4 00000001
+$D0393B2B 00000000
+$00393B2B 00000001
++2 Strikes Per Out - Home
+%Credits: InterAct
+$D038A7E4 00000001
+$D0393B29 00000000
+$00393B29 00000001
++3 Balls To Walk - Home
+%Credits: InterAct
+$D038A7E4 00000001
+$D0393B2A 00000000
+$00393B2A 00000001
++Easy Home Run - Home
+%Credits: InterAct
+$D038A7E4 00000001
+$20380128 FF600000
+$D038A7E4 00000000
+$20380128 FE000000
+!!
+!Home Run Derby 1st Batter Codes:
++0 Home Runs
+%Credits: Codejunkies
+$103C7BA6 00000000
++Start With 10 Home Runs
+%Credits: Codejunkies
+$D03C7BA6 00000000
+$103C7BA6 0000000A
+!!
+!Home Run Derby 2nd Batter Codes:
++0 Home Runs
+%Credits: Codejunkies
+$103C7BA8 00000000
++Start With 10 Home Runs
+%Credits: Codejunkies
+$D03C7BA8 00000000
+$103C7BA8 0000000A
+!!
+!Home Run Derby Mode Codes:
++1 Out And You Are Out
+%Credits: Code Master
+$D03C7BE4 00000000
+$003C7BE4 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$D03C7BE4 00000000
+$003C7BE4 00000001
++Infinite Outs
+%Credits: Code Master
+$003C7BE4 00000000
++P1 Home Runs Modifier
+%Credits: Code Master
+$103C7BA6 000000??
++P1 Start With Home Runs Modifier
+%Credits: Code Master
+$D03C7BA6 00000000
+$103C7BA6 000000??
++P2 Home Runs Modifier
+%Credits: Code Master
+$103C7BA8 000000??
++P2 Start With Home Runs Modifier
+%Credits: Code Master
+$D03C7BA8 00000000
+$103C7BA8 000000??
+!!
+!Home Run Derby Out Codes:
++Start With 5 Outs
+%Credits: Codejunkies
+$D03C7BE4 00000000
+$103C7BE4 00000005
++Start With 9 Outs
+%Credits: Codejunkies
+$D03C7BE4 00000000
+$103C7BE4 00000009
+!!
+!Home Team Ball Codes:
++1 Ball To Walk
+%Credits: Codejunkies
+$E0020000 003C7A3E
+$D03C7A62 00000000
+$003C7A62 00000003
++2 Balls To Walk
+%Credits: Codejunkies
+$E0020000 003C7A3E
+$D03C7A62 00000000
+$003C7A62 00000002
++3 Balls To Walk
+%Credits: Codejunkies
+$E0020000 003C7A3E
+$D03C7A62 00000000
+$003C7A62 00000001
++No Balls
+%Credits: Codejunkies
+$D03C7A3E 00000000
+$003C7A62 00000000
+!!
+!Home Team Codes:
++Home Team 1St Run And Grand Slam
+%Credits: InterAct
+$D0393728 00000001
+$10393728 00000004
++Home Team Score 0
+%Credits: InterAct
+$10393728 00000000
++Home Team Score 50
+%Credits: InterAct
+$10393728 00000032
++Home Team Start With 5 Runs
+%Credits: InterAct
+$D0393728 00000000
+$10393728 00000005
+$D0393734 00000000
+$10393734 00000005
++Score 0
+%Credits: Codejunkies
+$103C7620 00000000
++Score 50
+%Credits: Codejunkies
+$103C7620 00000032
+!!
+!Home Team Inning Codes:
++1 Out Per Inning
+%Credits: Codejunkies
+$E0020000 003C7A3E
+$D03C7A62 00000000
+$003C7A63 00000002
++2 Outs Per Inning
+%Credits: Codejunkies
+$E0020000 003C7A3E
+$D03C7A62 00000000
+$003C7A63 00000001
+!!
+!Home Team Only Codes:
++1 Ball And You Walk
+%Credits: Code Master
+$E0020000 003BBA74
+$D03C7A62 00000000
+$003C7A62 00000003
++1 Out And You Are Out
+%Credits: Code Master
+$E0020000 003BBA74
+$D03C7A62 00000000
+$003C7A63 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020000 003BBA74
+$D03C7A60 00000000
+$003C7A61 00000002
++2 Balls And You Walk
+%Credits: Code Master
+$E0020000 003BBA74
+$D03C7A62 00000000
+$003C7A62 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020000 003BBA74
+$D03C7A62 00000000
+$003C7A63 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020000 003BBA74
+$D03C7A60 00000000
+$003C7A61 00000001
++3 Balls And You Walk
+%Credits: Code Master
+$E0020000 003BBA74
+$D03C7A62 00000000
+$003C7A62 00000001
++Always Full Count
+%Credits: Code Master
+$E0020000 003BBA74
+$003C7A61 00000002
+$003C7A62 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030000 003BBA74
+$003C7A61 00000002
+$003C7A62 00000003
+$003C7A63 00000002
++Infinite Balls
+%Credits: Code Master
+$D03BBA74 00000000
+$003C7A62 00000000
++Infinite Outs
+%Credits: Code Master
+$D03BBA74 00000000
+$003C7A63 00000000
++Infinite Strikes
+%Credits: Code Master
+$D03BBA74 00000000
+$003C7A61 00000000
++1 Ball And You Walk
+%Credits: Code Master
+$E0020001 0038A7E4
+$D0393B2A 00000000
+$00393B2A 00000003
++1 Out And You Are Out
+%Credits: Code Master
+$E0020001 0038A7E4
+$D0393B2A 00000000
+$00393B2B 00000002
++1 Strike And You Are Out
+%Credits: Code Master
+$E0020001 0038A7E4
+$D0393B28 00000000
+$00393B29 00000002
++2 Balls And You Walk
+%Credits: Code Master
+$E0020001 0038A7E4
+$D0393B2A 00000000
+$00393B2A 00000002
++2 Outs And You Are Out
+%Credits: Code Master
+$E0020001 0038A7E4
+$D0393B2A 00000000
+$00393B2B 00000001
++2 Strikes And You Are Out
+%Credits: Code Master
+$E0020001 0038A7E4
+$D0393B28 00000000
+$00393B29 00000001
++3 Balls And You Walk
+%Credits: Code Master
+$E0020001 0038A7E4
+$D0393B2A 00000000
+$00393B2A 00000001
++Always Full Count
+%Credits: Code Master
+$E0020001 0038A7E4
+$00393B29 00000002
+$00393B2A 00000003
++Always Full Count & 2 Outs
+%Credits: Code Master
+$E0030001 0038A7E4
+$00393B29 00000002
+$00393B2A 00000003
+$00393B2B 00000002
++Gravity Accel Sec Modifier (Default Fe000000)
+%Credits: Code Master
+$D038A7E4 00000001
+$20380128 ????????
++Infinite Balls
+%Credits: Code Master
+$D038A7E4 00000001
+$00393B2A 00000000
++Infinite Outs
+%Credits: Code Master
+$D038A7E4 00000001
+$00393B2B 00000000
++Infinite Strikes
+%Credits: Code Master
+$D038A7E4 00000001
+$00393B29 00000000
+!!
+!Home Team Runs Codes:
++Start With 10 Runs
+%Credits: Codejunkies
+$D03C7620 00000000
+$103C7620 0000000A
++Start With 5 Runs
+%Credits: Codejunkies
+$D03C7620 00000000
+$103C7620 00000005
+!!
+!Home Team Strike Codes:
++1 Strike Per Out
+%Credits: Codejunkies
+$E0020000 003C7A3E
+$D03C7A60 00000000
+$003C7A61 00000002
++2 Strikes Per Out
+%Credits: Codejunkies
+$E0020000 003C7A3E
+$D03C7A60 00000000
+$003C7A61 00000001
++No Strikes
+%Credits: Codejunkies
+$D03C7A3E 00000000
+$003C7A61 00000000
+!!
+!One Chance Codes:
++One Chance Mode For The Away Only
+%Credits: Codejunkies
+$D03C7A3E 00000001
+$003C7A62 00000003
+$D03C7A3E 00000001
+$003C7A61 00000002
+$D03C7A3E 00000001
+$003C7A63 00000002
++One Chance Mode For The Home Only
+%Credits: Codejunkies
+$D03C7A3E 00000000
+$003C7A62 00000003
+$D03C7A3E 00000000
+$003C7A61 00000002
+$D03C7A3E 00000000
+$003C7A63 00000002
+!!
+!Score Codes:
++Away Team Start With 5 Runs
+%Credits: InterAct
+$D0393734 00000000
+$10393734 00000005
++Home Team Start With 5 Runs
+%Credits: InterAct
+$D0393728 00000000
+$10393728 00000005
+!!
++1 Ball And Walk - Away Only
+%Credits: InterAct
+$D03C7A3F 00000001
+$D03C7A62 00000000
+$003C7A62 00000003
++1 Ball And Walk - Home Only
+%Credits: InterAct
+$D03C7A3F 00000000
+$D03C7A62 00000000
+$003C7A62 00000003
++1 Out And Change - Away Only
+%Credits: InterAct
+$D03C7A3F 00000001
+$D03C7A63 00000000
+$003C7A63 00000002
++1 Out And Change - Home Only
+%Credits: InterAct
+$D03C7A3F 00000000
+$D03C7A63 00000000
+$003C7A63 00000002
++1 Out Per Inning
+%Credits: InterAct
+$D03C7A63 00000000
+$003C7A63 00000002
++1 Strike And Out - Away Only
+%Credits: InterAct
+$D03C7A3F 00000001
+$D03C7A61 00000000
+$003C7A61 00000002
++1 Strike And Out - Home Only
+%Credits: InterAct
+$D03C7A3F 00000000
+$D03C7A61 00000000
+$003C7A61 00000002
++1 Strike Per Out
+%Credits: InterAct
+$D03C7A61 00000000
+$003C7A61 00000002
++2 Balls And Walk - Away Only
+%Credits: InterAct
+$D03C7A3F 00000001
+$D03C7A62 00000000
+$003C7A62 00000002
++2 Balls And Walk - Home Only
+%Credits: InterAct
+$D03C7A3F 00000000
+$D03C7A62 00000000
+$003C7A62 00000002
++2 Outs And Change - Away Only
+%Credits: InterAct
+$D03C7A3F 00000001
+$D03C7A63 00000000
+$003C7A63 00000001
++2 Outs And Change - Home Only
+%Credits: InterAct
+$D03C7A3F 00000000
+$D03C7A63 00000000
+$003C7A63 00000001
++2 Outs Per Inning
+%Credits: InterAct
+$D03C7A63 00000000
+$003C7A63 00000001
++2 Strikes And Out - Away Only
+%Credits: InterAct
+$D03C7A3F 00000001
+$D03C7A61 00000000
+$003C7A61 00000001
++2 Strikes And Out - Home Only
+%Credits: InterAct
+$D03C7A3F 00000000
+$D03C7A61 00000000
+$003C7A61 00000001
++2 Strikes Per Out
+%Credits: InterAct
+$D03C7A61 00000000
+$003C7A61 00000001
++3 Balls And Walk - Away Only
+%Credits: InterAct
+$D03C7A3F 00000001
+$D03C7A62 00000000
+$003C7A62 00000001
++3 Balls And Walk - Home Only
+%Credits: InterAct
+$D03C7A3F 00000000
+$D03C7A62 00000000
+$003C7A62 00000001
++Always 3 - 2 Pitch - Away Only
+%Credits: InterAct
+$D03C7A3F 00000001
+$003C7A62 00000003
+$D03C7A3F 00000001
+$003C7A61 00000002
++Always 3 - 2 Pitch - Home Only
+%Credits: InterAct
+$D03C7A3F 00000000
+$003C7A62 00000003
+$D03C7A3F 00000000
+$003C7A61 00000002
++Away Team Errors Modifier
+%Credits: Code Master
+$003C762E 000000??
++Away Team Errors Modifier
+%Credits: Code Master
+$00393736 000000??
++Away Team Hits Modifier
+%Credits: Code Master
+$003C762D 000000??
++Away Team Hits Modifier
+%Credits: Code Master
+$00393735 000000??
++Away Team Score Modifier
+%Credits: Code Master
+$003C762C 000000??
++Away Team Score Modifier
+%Credits: Code Master
+$00393734 000000??
++Away Team Start With Errors Modifier
+%Credits: Code Master
+$D03C762E 00000000
+$003C762E 000000??
++Away Team Start With Errors Modifier
+%Credits: Code Master
+$D0393736 00000000
+$00393736 000000??
++Away Team Start With Hits Modifier
+%Credits: Code Master
+$D03C762C 00000000
+$003C762D 000000??
++Away Team Start With Hits Modifier
+%Credits: Code Master
+$D0393734 00000000
+$00393735 000000??
++Away Team Start With Runs Modifier
+%Credits: Code Master
+$D03C762C 00000000
+$003C762C 000000??
++Away Team Start With Runs Modifier
+%Credits: Code Master
+$D0393734 00000000
+$00393734 000000??
++Batter 1 10 HR - HRD
+%Credits: InterAct
+$103C7BA8 00000000
+$D03C7BA6 00000000
+$103C7BA6 0000000A
++Easy Home Run Mode
+%Credits: InterAct
+$20380128 FF600000
++Home Team Errors Modifier
+%Credits: Code Master
+$003C7622 000000??
++Home Team Errors Modifier
+%Credits: Code Master
+$0039372A 000000??
++Home Team Hits Modifier
+%Credits: Code Master
+$003C7621 000000??
++Home Team Hits Modifier
+%Credits: Code Master
+$00393729 000000??
++Home Team Score Modifier
+%Credits: Code Master
+$003C7620 000000??
++Home Team Score Modifier
+%Credits: Code Master
+$00393728 000000??
++Home Team Start With Errors Modifier
+%Credits: Code Master
+$D03C7622 00000000
+$003C7622 000000??
++Home Team Start With Errors Modifier
+%Credits: Code Master
+$D039372A 00000000
+$0039372A 000000??
++Home Team Start With Hits Modifier
+%Credits: Code Master
+$D03C7620 00000000
+$003C7621 000000??
++Home Team Start With Hits Modifier
+%Credits: Code Master
+$D0393728 00000000
+$00393729 000000??
++Home Team Start With Runs Modifier
+%Credits: Code Master
+$D03C7620 00000000
+$003C7620 000000??
++Home Team Start With Runs Modifier
+%Credits: Code Master
+$D0393728 00000000
+$00393728 000000??
++No Balls - Away Only
+%Credits: InterAct
+$D03C7A3F 00000001
+$003C7A62 00000000
++No Balls - Home Only
+%Credits: InterAct
+$D03C7A3F 00000000
+$003C7A62 00000000
++No Strikes - Away Only
+%Credits: InterAct
+$D03C7A3F 00000001
+$003C7A61 00000000
++No Strikes - Home Only
+%Credits: InterAct
+$D03C7A3F 00000000
+$003C7A61 00000000
++One Chance Mode - Away Only
+%Credits: InterAct
+$D03C7A3F 00000001
+$003C7A62 00000003
+$D03C7A3F 00000001
+$003C7A61 00000002
+$D03C7A3F 00000001
+$003C7A63 00000002
++One Chance Mode - Home Only
+%Credits: InterAct
+$D03C7A3F 00000000
+$003C7A62 00000003
+$D03C7A3F 00000000
+$003C7A61 00000002
+$D03C7A3F 00000000
+$003C7A63 00000002
++P1 Press L1+R1 For No Outs, No Strikes & 3 Balls
+%Credits: Code Master
+$E0030005 003E988C
+$003C7A61 00000000
+$003C7A62 00000003
+$003C7A63 00000000
++P1 Press L2+R2 For 2 Outs, 2 Strikes & No Balls
+%Credits: Code Master
+$E003000A 003E988C
+$003C7A61 00000002
+$003C7A62 00000000
+$003C7A63 00000002
++P2 Press L1+R1 For No Outs, No Strikes & 3 Balls
+%Credits: Code Master
+$E0030005 003E989C
+$003C7A61 00000000
+$003C7A62 00000003
+$003C7A63 00000000
++P2 Press L2+R2 For 2 Outs, 2 Strikes & No Balls
+%Credits: Code Master
+$E003000A 003E989C
+$003C7A61 00000002
+$003C7A62 00000000
+$003C7A63 00000002
+!!
+

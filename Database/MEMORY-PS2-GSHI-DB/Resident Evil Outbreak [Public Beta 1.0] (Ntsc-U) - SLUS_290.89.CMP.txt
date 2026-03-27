@@ -1,0 +1,1800 @@
+^3 = NAME: Resident Evil Outbreak [Public Beta 1.0] (Ntsc-U)
+^2 = GameID: SLUS-29089
++Animation Sequence Picker Player 1 {<I>Use A Joker With It.  Different Values Made Different Things Happen. With Cindy I Made Her Throw Nothing, Limp, Collapse, Walk Backwards, And Whatever Else. Mostly Useless.</I>}
+%Credits: bungholio
+$004A674B 000000??
++Enemies Can't Touch Player 1 {<I>I Tried This On A Few Zombies. They Tried To Attack Me, But Nothing Happened To Me. Thanatos Also Couldn&#39;T Hit Me, Or Jump And Land On Me. I Doubt Anything Can Harm You.  I Also Found Out 004A67d2 00000080 Allows You To Be Hit by enemies, but they couldn&#39;t grab me.</i>}
+%Credits: bungholio
+$004A6752 00000020
++Enemies Don't Notice Player 1 (Because You Are Dead) (L2+UP=ON, L2+DOWN=OFF) {<I>Warning! THIS IS Buggy I Only Used This by zombies and they ignored me, but the other players didn&#39;t. It had a side effect of not letting you access the start menu or fire weapons while it&#39;s on, because the game thinks you are dead. You also died if a movie played while this was on. I never beat a level with this code on, it&#39;s mostly useless.</i>}
+%Credits: bungholio
+$D02B079C 0000FEEF
+$004A6751 00000001
+$D02B079C 0000FEBF
+$004A6751 00000000
++Have All Files {<I>That Will Give You All The Files On The Current Level, And They Do Count As Completed Events When You Finish The Level. The Maximum Amount Of Files On A Level Is 16, And I&#39;M Assuming They Don&#39;T Skip Any Digits. But If They Do, 204B9c80 Ffffffff Will Fix That.</I>}
+%Credits: bungholio
+$104B9C00 0000FFFF
++Number Of Players Present {<I>Set It To 1 For 1 Player, 2 For 2 Players, And So On. I Doubt 5 Works Though. I See Why It Was Mentioned As Buggy At Bioflames. It&#39;S Basically Like Controlling 2 Of Yourself. If You Pick Kevin, You Will Start With 2 Kevin&#39;S In The Same Spot That Do The Same Thing. I&#39;M Was Trying To Find Something To Turn On The Computer AI For Player 4, But I Gave Up Because I Can&#39;T Find It.</I>}
+%Credits: bungholio
+$004BAE20 0000000?
++Player 1 Alternative Costume Modifier {<I>00 = Didn&#39;T Notice Anything 01 = When I Picked Kevin, He Was Wearing A White T-Shirt And Blue Jeans. Then I Picked Cindy, And She Was Wearing A Light Blue Shirt And White Pants And Black Sandals.  There&#39;S Probably A Few More Higher Values, But I Doubt It Goes Above 5.</I>}
+%Credits: bungholio
+$004A676C 000000??
++Player 1 Character Model Modifier {<I>0000 - Normal 0001 - Mac 0002 - Rodrigez 0003 - Conrad 0004 - Hunk:B 0005 - Hunk 0006 - Miguel 0007 - &Quot;Unfinished Character&Quot; 0008 - U.S.S.1 0009 - &Quot;Cannot LOAD&Quot; 000A - Arnold 000B - Matt 000C - Billy 000D - Hursh 000E - &Quot;Doctor&Quot; 000F - &Quot;Cannot LOAD&Quot; 0010 - &Quot;Cannot LOAD&Quot; 0011 - Peter 0012 - Marvin 0013 - Fred 0014 - Andy 0015 - &Quot;Cannot LOAD&Quot; 0016 - Jean 0017 - Tonny 0018 - &Quot;Injured COP&Quot; 0019 - Keeper1 001A - Keeper2 001B - Austin 001C - Clint 001D - Bone 001E - Bob 001F - &Quot;Bloody GUY&Quot; 0020 - Nathan 0021 - Samuel 0022 - &Quot;Cannot LOAD&Quot; 0023 - Will 0024 - &Quot;Zombie WILL?&Quot; 0025 - Roger 0026 - &Quot;Cannot LOAD&Quot; 0027 - Carter 0028 - Greg 0029 - Scholar1 002A - Scholar2 002B - Jake 002C - Gary 002D - Man9 002E - &Quot;Cannot LOAD&Quot; 002F - Micky 0030 - Al 0031 - Maskman 0032 - Al:B 0033 - Ben 0034 - &Quot;Little GIRL&Quot; 0035 - Regan 0036 - Regan:B 0037 - Monica 0038 - Rinda 0039 - Rita 003A - &Quot;Cannot LOAD&Quot; 003B - Mary 003C - Kate 003D - &Quot;Cannot LOAD&Quot; 003E - &Quot;Cannot LOAD&Quot; 003F - Danny 0040 - Danny:B 0041 - Gill 0042 - Gill:B 0043 - &Quot;Cannot LOAD&Quot; 0044 - &Quot;Cannot LOAD&Quot; 0045 - &Quot;Cannot LOAD&Quot; 0046 - &Quot;BALD Doctor&Quot; 0047 - &Quot;Cannot LOAD&Quot; 0048 - &Quot;Cannot LOAD&Quot; 0049 - &Quot;Cindy&Quot; 004A - Doctor4 004B - &Quot;Cannot LOAD&Quot; 004C - &Quot;Cannot LOAD&Quot; 004D - &Quot;Cannot LOAD&Quot; 004E - &Quot;Cannot LOAD&Quot; 004F - &Quot;Cannot LOAD&Quot; 0050 - 0051 - Kurt 0052 - Kurt:B   If They Are In Quotes, They Had No Name Or I Couldn&#39;T Load Them. There Are More. Also This Only Modifies Your Character&#39;S Appearance, You&#39;Ll Still Sound Like And Have The Same Animations Of The Player You Pick.</I>}
+%Credits: bungholio
+$104A6764 0000????
++Player 1 Character Type Modifier {<I>00 = Kevin 01 = Mark 02 = Jim 03 = George 04 = David 05 = Alyssa 06 = Yoko 07 = Cindy 08 Or Higher = Don&#39;T Try It, They Don&#39;T Exist So The Game Won&#39;T Start</I>}
+%Credits: bungholio
+$004A6748 000000??
++Player 1 Damage Modifier [Or Is It Multiplier?] {<I>I Set It To 4Fffffff And Every Enemy Died No Matter How I Hit Them. If I Tackled Or Stomped On Something It Died And Disappeared. You Can&#39;T Use This To Open Doors In 1 Hit Though, I Tried.</I>}
+%Credits: bungholio
+$204A6774 ????????
+!Player 1 Item Slot Modifiers:
++!- Item Values
+%Credits: nobody
+02 - Iron Pipe
+03 - Curved Iron Pipe
+04 - Green Herb
+05 - Red Herb
+06 - Red Herb
+07 - Handgun Rounds (30)
+08 - G. Launcher0Burst Rounds (4)
+09 - First Aid Spray
+0a - Handgun (15)
+0b - Green Herb
+0c - Handgun Rounds (30)
+0d - Burst Rounds (4)
+0e - Blue Herb
+0f - Assault Rifle Magazine (30)
+10 - First Aid Spray
+11 - Handgun Rounds (30)
+12 - Red Herb
+13 - Green Herb
+14 - Iron Pipe
+15 - Green Herb
+16 - First Aid Spray
+17 - G. Launcher-Burst Rounds (4)
+18 - Green Herb
+19 - Handgun Rounds (30)
+1a - 45 Auto Rounds (7)
+1b - Anti Virus (L) (1)
+1c - Burst Rounds (4)
+1d - Burst Rounds (4)
+1e - Handgun (15)
+1f - Blue Herbs
+20 - Blue Herbs
+21 - Iron Pipe
+22 - Folding Knife
+23 - 45 Auto Rounds (7)
+24 - Assault Rifle (30)
+25 - Green Herb
+26 - Blue Herb
+27 - Green Herb
+28 - Red Herb
+29 - Lighter
+2a - Handgun Rounds (30)
+2b - Green Herb
+2c - Iron Pipe
+2d - First Aid Spray
+2e - Handgun Magazine (15)
+2f - Assault Rifle (30)
+30 - Handgun Rounds (30)
+31 - Red Herb
+32 - Assault Rifle Magazine (30)
+33 - First Aid Spray
+34 - Green Herb
+35 - Anti Virus (L) (1)
+36 - Handgun Rounds (30)
+37 - Iron Pipe
+38 - Blue Herb
+39 - Blue Herb
+3a - Red Herb
+3b - Green Herb
+3c - Green Herb
+3d - Handgun (12)
+3e - Pesticide Spray (9)
+3f - Iron Pipe
+40 - Assault Rifle Magazine (30)
+41 - Blue Herb
+42 - First Aid Spray
+43 - Assault Rifle Magazine (30)
+44 - First Aid Spray
+45 - Anti Virus (L) (1)
+46 - Antidote (1)
+47 - Handgun Rounds (30)
+48 - Red Herb
+49 - Blue Herb
+4a - Blue Herb
+4b - Burst Rounds (4)
+4c - Assault Rifle Magazine (30)
+4d - Green Herb
+4e - Green Herb
+4f - Green Herb
+50 - Red Herb
+51 - Green Herb
+52 - Iron Pipe
+53 - First Aid Spray
+54 - First Aid Spray
+55 - Handgun Rounds (30)
+56 - Handgun Magazine (15)
+57 - Blue Herb
+58 - Handgun (15)
+59 - 45 Auto Rounds (14)
+5a - Burst Rounds (10)
+5b - Iron Pipe
+5c - First Aid Spray
+5d - First Aid Spray
+5e - Rocket Launcher (1)
+5f - Assault Rifle Magazine (30)
+60 - First Aid Spray
+61 - Handgun Rounds (30)
+62 - Handgun Rounds (30)
+63 - Burst Rounds (10)
+64 - Folding Knife
+65 - First Aid Spray
+66 - Handgun Rounds (50)
+67 - Green Herb
+68 - Green Herb
+69 - Red Herb
+6a - Handgun (15)
+6b - Burst Rounds (10)
+6c - Ampule Shooter (0)
+6d - First Aid Spray
+6e - Handgun Rounds (50)
+6f - Assualt Rifle Magazine (30)
+70 - Iron Pipe
+71 - First Aid Spray
+72 - Pesticide Spray (9)
+73 - Pesticide Spray (9)
+74 - Anti Virus (L) (1)
+75 - Anti Virus (L) (1)
+76 - Recovery Medicine (L) (1)
+77 - Assualt Rifle Magazine (30)
+78 - Assault Rifle (30)
+79 - Lighter
+7a - Red Herb
+7b - Iron Pipe
+7c - Assualt Rifle Magazine (30)
+7d - Handgun (15)
+7e - First Aid Spray
+7f - Anti Virus (L) (1)
+80 - Anti Virus (1)
+81 - Handgun Rounds (30)
+82 - Green Herb
+83 - Recovery Medicine (L) (1)
+84 - First Aid Spray
+85 - Handgun Rounds (30)
+86 - Green Herb
+87 - Iron Pipe
+88 - Green Herb
+89 - Blue Herb
+8a - Handgun Rounds (30)
+8b - G. Launcher-Burst Rounds (4)
+8c - Red Herb
+8d - Handgun (15)
+8e - Anti Virus (1)
+8f - Green Herb
+90 - Blue Herb
+91 - Iron Pipe
+92 - Handgun Rounds (30)
+93 - Blue Herb
+94 - Pesticide Spray (9)
+95 - Folding knife
+96 - Antidote (1)
+97 - Green Herb
+98 - Handgun Rounds (30)
+99 - Lighter
+9a - Handgun Rounds (30)
+9b - First Aid Spray
+9c - Handgun Rounds (30)
+9d - Handgun (15)
+9e - First Aid Spray
+9f - Anti Virus (L) (1)
+a0 - Anti Virus (1)
+a1 - Red Herb
+a2 - Daylight
+a3 - Daylight
+a4 - Daylight
+a5 - Daylight
+a6 - Daylight
+a7 - Iron Pipe
+a8 - 45 Auto Round (7)
+a9 - Assault Rifle (30)
+aa - Assault Rifle Magazine (30)
+ab - Burst Rounds (4)
+ac - G. Launcher-Burst Rounds (4)
+ad - First Aid Spray
+ae - Handgun (15)
+af - Reagent Case
+b0 - Sealed Reagent Case
+b1 - V-Poison
+b2 - Card Key
+b3 - Brass Spectacles
+b4 - Red Jewel
+b5 - T-Blood
+b6 - T-Blood
+b7 - Blue Jewel
+b8 - Daylight
+b9 - Daylight
+ba - Daylight
+bb - Daylight
+bc - Daylight
+bd - Daylight
+be - Daylight
+bf - Daylight
+c0 - Daylight
+c1 - Daylight
+c2 - Daylight
+c3 - Key With A Red Tag
+01 - Folding Knife
+02 - Curved Iron Pipe
+03 - Green Herb
+04 - Red Herb
+05 - Iron Pipe
+06 - G. Launcher-Burst Rounds (4)
+07 - First Aid Spray
+08 - Handgun (15)
+09 - Green Herb
+0a - Handgun Rounds (15)
+0b - Blue Herb
+0c - Assault Rifle Magazine (30)
+0d - Handgun rounds (15)
+0e - Red Herb
+0f - Green Herb
+10 - G. Launcher-Burst Rounds (4)
+11 - Green Herb
+12 - 45 Auto Rounds (5)
+13 - Anti Virus (L) (1)
+14 - Blue Herb
+15 - Handgun (15)
+16 - Green Herb
+17 - Iron Pipe
+18 - Folding Knife
+19 - 45 Auto Rounds (5)
+1a - Assault Rifle (30)
+1b - Green Herb
+1c - Blue Herb
+1d - Red Herb
+1e - Handgun Rounds (15)
+1f - Green Herb
+20 - Iron Pipe
+21 - Handgun Magazine (15)
+22 - Assault Rifle (30)
+23 - Handgun Rounds (15)
+24 - Red Herb
+25 - First Aid Spray
+26 - Green Herb
+27 - Anti Virus (L) (1)
+28 - Handgun Rounds (15)
+29 - Blue Herb
+2a - Red Herb
+2b - Green Herb
+2c - Handgun (15)
+2d - Curved Iron Pipe
+2e - Blue Herb
+2f - Green Herb
+30 - Anti Virus (L) (1)
+31 - First Aid Spray
+32 - Handgun Rounds (15)
+33 - Blue Herb
+34 - Burst Rounds (2)
+35 - Assault Rifle Magazine (30)
+36 - Green Herb
+37 - Green Herb
+38 - Iron Pipe
+39 - First Aid Spray
+3a - Green Herb
+3b - Handgun Rounds (15)
+3c - Card Key
+3d - Blue Herb
+3e - Handgun (15)
+3f - Folding Knife
+40 - Iron Pipe
+41 - Folding Knife
+42 - Rocket Launcher (1)
+43 - Assault Rifle Magazine (30)
+44 - First Aid Spray
+45 - Iron Pipe
+46 - Handgun Rounds (15)
+47 - Burst Rounds (4)
+48 - Folding Knife
+49 - Iron Pipe
+4a - Green Herb
+4b - Red Herb
+4c - Handgun (15)
+4d - Burst Rounds (2)
+4e - Ampule Shooter (0)
+4f - Green Herb
+50 - Handgun Rounds (15)
+51 - Assault Rifle Magazine (10)
+52 - Iron Pipe
+53 - First Aid Spray
+54 - Pesticide Spray (9)
+55 - Pesticide Spray (9)
+56 - Anti Virus (L) (1)
+57 - Recovery Medicine (1)
+58 - Assault Rifle Magazine (30)
+59 - Handgun (15)
+5a - Lighter
+5b - Red Herb
+5c - Iron Pipe
+5d - Assault Rifle Magazine (30)
+5e - Folding Knife
+5f - Anti Virus (L) (1)
+60 - Anti Virus (1)
+61 - Handgun Rounds (15)
+62 - Green Herb
+63 - Recovery Medicine (1)
+64 - First Aid Spray
+65 - Handgun Rounds (15)
+66 - Red Herb
+67 - Green Herb
+68 - Iron Pipe
+69 - Green Herb
+6a - Handgun Rounds (15)
+6b - Handgun (15)
+6c - Blue Herb
+6d - Anti Virus (1)
+6e - Green Herb
+6f - Blue Herb
+70 - Iron Pipe
+71 - Blue Herb
+72 - Antidote (1)
+73 - Green Herb
+74 - Handgun Rounds (15)
+75 - Lighter
+76 - First Aid Spray
+77 - Handgun Rounds (15)
+78 - Anti Virus (L) (1)
+79 - Recovery Medicine (L) (1)
+7a - Red Herb
+7b - Daylight
+7c - Daylight
+7d - Daylight
+7e - Daylight
+7f - Daylight
+80 - Iron Pipe
+81 - Assault Rifle Magazine (30)
+82 - Burst Rounds (4)
+83 - Green Herb
+84 - Handgun (5)
+85 - Reagent Case
+86 - Sealed Reagent Case
+87 - V-Poison
+88 - Brass Spectacles
+89 - Red Jewel
+8a - T-Blood
+8b - T-Blood
+8c - Blue Jewel
+8d - Daylight
+8e - Daylight
+8f - Daylight
+90 - Daylight
+91 - Daylight
+92 - Daylight
+93 - Daylight
+94 - Daylight
+95 - Daylight
+96 - Daylight
+97 - Daylight
+98 - Key With A Red Tag
+01 - Folding Knife
+02 - Iron Pipe
+03 - Green Herb
+04 - Red Herb
+05 - G. Launcher-Burst Rounds (4)
+06 - First Aid Spray
+07 - Handgun (15)
+08 - Green Herb
+09 - Handgun Rounds (20)
+0a - Burst Rounds (2)
+0b - Blue Herb
+0c - Assault Rifle Magazine (30)
+0d - Handgun Rounds (15)
+0e - Red Herb
+0f - Green Herb
+10 - Iron Pipe
+11 - Green Herb
+12 - First Aid Spray
+13 - G. Launcher-Burst Rounds (4)
+14 - Handgun Rounds (20)
+15 - 45 Auto Rounds (7)
+16 - Anti Virus (L) (1)
+17 - Burst Rounds (2)
+18 - Green Herb
+19 - Handgun (15)
+1a - Blue Herb
+1b - Blue Herb
+1c - Iron Pipe
+1d - Folding Knife
+1e - 45 Auto Rounds (7)
+1f - Assault Rifle (30)
+20 - Green Herb
+21 - Blue Herb
+22 - Red Herb
+23 - Curved Iron Pipe
+24 - Green Herb
+25 - Iron Pipe
+26 - First Aid Spray
+27 - Handgun Magazine (15)
+28 - Assault Rifle (30)
+29 - Handgun Rounds (20)
+2a - Red Herb
+2b - Assault Rifle Magazine (30)
+2c - First aid Spray
+2d - Green Herb
+2e - Anti Virus (L) (1)
+2f - Handgun Rounds (20)
+30 - Iron Pipe
+31 - Blue Herb
+32 - Blue Herb
+33 - Green Herb
+34 - Handgun (12)
+35 - Pesticide Spray (9)
+36 - Handgun Rounds (20)
+37 - Blue Herb
+38 - Anti Virus (L) (1)
+39 - First Aid Spray
+3a - Antidote (1)
+3b - Handgun Rounds (15)
+3c - Red Herb
+3d - Blue Herb
+3e - Burst Rounds (4)
+3f - Assault Rifle Magazine (30)
+40 - Green Herb
+41 - Green Herb
+42 - Green Herb
+43 - Red Herb
+44 - Iron Pipe
+45 - First Aid Spray
+46 - Handgun Rounds (15)
+47 - Handgun Magazine (15)
+48 - Blue Herb
+49 - Handgun (15)
+4a - 45 Auto Rounds (5)
+4b - Burst Rounds (4)
+4c - Iron Pipe
+4d - First Aid Spray
+4e - First Aid Spray
+4f - Rocket Launcher (1)
+50 - Assault Rifle Magazine (30)
+51 - First Aid Spray
+52 - Handgun Rounds (20)
+53 - Handgun Rounds (20)
+54 - Burst Rounds (4)
+55 - Folding Knife
+56 - First Aid Spray
+57 - Handgun Rounds (20)
+58 - Green Herb
+59 - Green Herb
+5a - Red Herb
+5b - Handgun (15)
+5c - Burst Rounds (4)
+5d - Ampule Shooter (0)
+5e - Handgun Rounds (20)
+5f - Assault Rifle Magazine (30)
+60 - Iron Pipe
+61 - First Aid Spray
+62 - Pesticide Spray (9)
+63 - Anti Virus (L) (1)
+64 - Anti Virus (L) (1)
+65 - Recovery Medicine (L) (1)
+66 - Assault Rifle Magazine (30)
+67 - Handgun (15)
+68 - Lighter
+69 - Red Herb
+6a - Iron Pipe
+6b - Assault Rifle Magazine (30)
+6c - Folding Knife
+6d - First Aid Spray
+6e - Anti Virus (L) (1)
+6f - Anti Virus (1)
+70 - Handgun Rounds (15)
+71 - Green Herb
+72 - Recovery Medicine (L) (1)
+73 - First Aid Spray
+74 - Handgun Rounds (15)
+75 - Green Herb
+76 - Green Herb
+77 - Blue Herb
+78 - Handgun Rounds (15)
+79 - red Herb
+7a - Handgun (10)
+7b - Anti Virus (1)
+7c - Green Herb
+7d - Blue Herb
+7e - Iron Pipe
+7f - Blue Herb
+80 - Pesticide Spray (9)
+81 - Antidote (1)
+82 - Green Herb
+83 - Handgun Rounds (15)
+84 - Lighter
+85 - Handgun Rounds (15)
+86 - Handgun Rounds (15)
+87 - Anti Virus (L) (1)
+88 - Recovery Medicine (L) (1)
+89 - Red Herb
+8a - Daylight
+8b - Daylight
+8c - Daylight
+8d - Daylight
+8e - Daylight
+8f - Iron Pipe
+90 - 45 Auto Rounds (7)
+91 - Assault Rifle (30)
+92 - First Aid Spray
+93 - G. Launcher-Burst Rounds (4)
+94 - First Aid Spray
+95 - Handgun (15)
+96 - Reagent Case
+97 - Sealed Reagent Case
+98 - V-Poison
+99 - Card Key
+9a - Brass Spectacles
+9b - Red Jewel
+9c - T-Blood
+9d - Blue Herb
+9e - Iron Pipe
+9f - Blue Herb
+a0 - Pesticide Spray (9)
+a1 - Daylight
+a2 - Daylight
+a3 - Daylight
+a4 - Daylight
+a5 - Daylight
+a6 - Daylight
+a7 - Daylight
+a8 - Daylight
+a9 - Daylight
+aa - Key With A Red Tag
+01 - Folding Knife
+02 - Curved Iron Pipe
+03 - Green Herb
+04 - Blue Herb
+05 - Iron Pipe
+06 - Handgun rounds (10)
+07 - G. Launcher-Burst Rounds (4)
+08 - Blue Herb
+09 - Blue Herb
+0a - Brass Spectacles
+0b - Red Herb
+0c - Green Herb
+0d - Green Herb
+0e - Green Herb
+0f - Anti Virus (1)
+10 - First Aid Spray
+11 - Burst Rounds (2)
+12 - Handgun Rounds (10)
+13 - Folding Knife
+14 - Green Herb
+15 - Curved Iron Pipe
+16 - Folding Knife
+17 - Handgun Rounds (10)
+18 - Green Herb
+19 - Blue Herb
+1a - Handgun Rounds (10)
+1b - Blue Herb
+1c - Curved Iron Pipe
+1d - First Aid Spray
+1e - Handgun Rounds (10)
+1f - Assault Rifle (30)
+20 - Red Herb
+21 - Anti Virus (1)
+22 - Iron Pipe
+23 - Red Herb
+24 - Green Herb
+25 - Folding Knife
+26 - Handgun Rounds
+27 - Blue Herb
+28 - Green Herb
+29 - Anti Virus (1)
+2a - Blue Herb
+2b - Burst Rounds (2)
+2c - Assault Rifle Magazine (30)
+2d - Green Herb
+2e - Iron Pipe
+2f - First Aid Spray
+30 - Handgun Magazine (15)
+31 - Card Key
+32 - Handgun (15)
+33 - Folding Knife
+34 - Iron Pipe
+35 - Folding Knife
+36 - Rocket Launcher (1)
+37 - First Aid Spray
+38 - Handgun Rounds (15)
+39 - Burst Rounds (3)
+3a - Folding Knife
+3b - Iron Pipe
+3c - Green Herb
+3d - Handgun (15)
+3e - Ampule Shooter (0)
+3f - Handgun Rounds (10)
+40 - Iron Pipe
+41 - Iron Pipe
+42 - Pesticide Spray (9)
+43 - Anti Virus (L) (1)
+44 - Assault Rifle Magazine (30)
+45 - Handgun Rounds (10)
+46 - Light
+47 - Red Herb
+48 - Assault Rifle Magazine (20)
+49 - Handgun (0)
+4a - Anti Virus (L) (1)
+4b - Anti Virus (1)
+4c - Blue Herb
+4d - Handgun Magazine (15)
+4e - Red Herb
+4f - Green Herb
+50 - Green Herb
+51 - First Aid Spray
+52 - G. Launcher-Burst Rounds (4)
+53 - Anti Virus (1)
+54 - Iron Pipe
+55 - Green Herb
+56 - Pesticide Spray (9)
+57 - Iron Pipe
+58 - Green Herb
+59 - Handgun Rounds (10)
+5a - Lighter
+5b - Handgun Rounds (10)
+5c - First Aid Spray
+5d - Anti Virus (L) (1)
+5e - Recovery Medicine (L) (1)
+5f - Blue Herb
+60 - Daylight
+61 - Daylight
+62 - Daylight
+63 - Daylight
+64 - Daylight
+65 - 45 Auto Rounds (5)
+66 - Green Herb
+67 - Handgun (1)
+68 - Reagent Case
+69 - Sealed Reagent Case
+6a - V-Poison
+6b - Red Jewel
+6c - T-Blood
+6d - T-Blood
+6e - Blue Jewel
+6f - Daylight
+70 - Daylight
+71 - Daylight
+72 - Daylight
+73 - Daylight
+74 - Daylight
+75 - Daylight
+76 - Daylight
+77 - Daylight
+78 - Daylight
+79 - Daylight
+7a - Key With A Red Tag
+01 - Charlie's ID Tag
+02 - Len's ID Tag
+03 - Silver Key
+04 - Gold Key
+05 - Security Rook Card Key
+06 - Red Jewel
+07 - Red Jewel
+08 - Red Jewel
+09 - Red Jewel
+0a - First Aid Spray
+0b - Concrete Piece
+0c - Handgun (15)
+0d - Green Herb
+0e - Handgun (15)
+0f - Iron Pipe
+10 - Shotgun (7)
+11 - First Aid Spray
+12 - Green Herb
+13 - First Aid Spray
+14 - Blue Herb
+15 - Red Herb
+16 - Shotgun (7)
+17 - Red Herb
+18 - Blue Herb
+19 - First Aid Spray
+1a - Shotgun Rounds (7)
+1b - Shotgun Rounds (7)
+1c - First Aid Spray
+1d - Handgun Rounds (30)
+1e - Shotgun Rounds (7)
+1f - 45 Auto Rounds (7)
+20 - Green Herb
+21 - Acid Rounds (4)
+22 - Handgun Rounds (30)
+23 - Green Herb
+24 - Green Herb
+25 - Handgun Rounds (30)
+26 - Iron Pipe
+27 - Green Herb
+28 - Anti Virus (1)
+29 - First Aid Spray
+2a - Green Herb
+2b - Handgun Rounds (30)
+2c - 45 Auto Rounds (14)
+2d - First Aid Spray
+2e - Handgun (15)
+2f - Handgun Rounds (30)
+30 - Shotgun Rounds (7)
+31 - Anti Virus (1)
+32 - Red Herb
+33 - Iron Pipe
+34 - Shotgun Rounds (7)
+35 - Green Herb
+36 - Green Herb
+37 - Blue Herb
+38 - Red Herb
+39 - Iron Pipe
+3a - Blue Herb
+3b - Green Herb
+3c - Shotgun Rounds (7)
+3d - G. Launcher-Acid Rounds (7)
+3e - Shotgun Rounds (7)
+3f - Acid Rounds (4)
+40 - 45 Auto Rounds (7)
+41 - Concrete Piece
+42 - Concrete Piece
+43 - Shotgun (7)
+44 - Battery
+45 - Battery
+46 - Anti Virus (L) (1)
+47 - First Aid Spray
+48 - Concrete Piece
+49 - Concrete Piece
+4a - Green Herb
+4b - Green Herb
+4c - Shotgun Rounds (7)
+4d - Shotgun Rounds (7)
+4e - Butcher Knife
+4f - Iron Pipe
+50 - Iron Pipe
+51 - First Aid Spray
+01 - Charlie's ID Tag
+02 - Len's ID Tag
+03 - Silver Key
+04 - Gold Key
+05 - Security Room Card Key
+06 - Red Jewel
+07 - Red Jewel
+08 - Red Jewel
+09 - Red Jewel
+0a - Green Herb
+0b - Concrete Piece
+0c - Green Herb
+0d - Iron Pipe
+0e - Curved Iron Pipe
+0f - Curved Iron Pipe
+10 - Handgun (15)
+11 - Blue Herb
+12 - Green Herb
+13 - Shotgun (7)
+14 - Red Herb
+15 - Shotgun Rounds (5)
+16 - Shotgun Rounds (5)
+17 - Shotgun Rounds (5)
+18 - Green Herb
+19 - Acid Rounds (2)
+1a - Green Herb
+1b - Handgun Rounds (15)
+1c - Iron Pipe
+1d - Green Herb
+1e - Red Herb
+1f - Handgun Rounds (15)
+20 - 45 Auto Rounds (2)
+21 - First Aid Spray
+22 - Butcher Knife
+23 - Handgun Rounds (15)
+24 - Anti Virus (1)
+25 - Red Herb
+26 - Shotgun Rounds (5)
+27 - Green Herb
+28 - Red Herb
+29 - Iron Pipe
+2a - Blue Herb
+2b - Green Herb
+2c - G. Launcher-Acid Rounds (2)
+2d - Shotgun Rounds (5)
+2e - 45 Auto Rounds (2)
+2f - Concrete Piece
+30 - Shotgun (7)
+31 - Battery
+32 - Battery
+33 - Anti Virus (L) (1)
+34 - Concrete Piece
+35 - First Aid Spray
+36 - Green Herb
+37 - Shotgun Rounds (5)
+38 - Butcher Knife
+39 - Iron Pipe
+3a - Curved Iron Pipe
+3b - First Aid Spray
+01 - Charlie's ID Tag
+02 - Len's ID Tag
+03 - Silver Key
+04 - Gold Key
+05 - Security Room Card Key
+06 - Red Jewel
+07 - Red Jewel
+08 - Red Jewel
+09 - Red Jewel
+0a - Green Herb
+0b - Concrete Piece
+0c - Handgun (15)
+0d - Green Herb
+0e - Handgun (15)
+0f - Iron Pipe
+10 - Green Herb
+11 - First Aid Spray
+12 - Blue Herb
+13 - Red Herb
+14 - Shotgun (7)
+15 - Handgun Rounds (15)
+16 - Green Herb
+17 - Shotgun Rounds (5)
+18 - Shotgun Rounds (5)
+19 - Green Herb
+1a - Hangun Rounds (15)
+1b - Shotgun Rounds (5)
+1c - Green Herb
+1d - Acid Rounds (4)
+1e - Handgun Rounds (15)
+1f - Green Herb
+20 - Green Herb
+21 - Handgun Rounds (15)
+22 - Iron Pipe
+23 - Green Herb
+24 - Anti Virus (1)
+25 - Blue Herb
+26 - Handgun Rounds (15)
+27 - 45 Auto Rounds (5)
+28 - First Aid Spray
+29 - Handgun Rounds (15)
+2a - Shotgun Rounds (5)
+2b - Anti Virus (1)
+2c - Red Herb
+2d - Shotgun (7)
+2e - Shotgun Rounds (5)
+2f - Green Herb
+30 - Blue Herb
+31 - Red Herb
+32 - Iron Pipe
+33 - Blue Herb
+34 - Green Herb
+35 - Shotgun Rounds (5)
+36 - G. Launcher-Acid Rounds (5)
+37 - Shotgun Rounds (5)
+38 - Red Herb
+39 - 45 Auto Rounds (5)
+3a - Concrete Piece
+3b - Concrete Piece
+3c - Shotgun (7)
+3d - Battery
+3e - Battery
+3f - Anti Virus (L) (1)
+40 - First Aid Spray
+41 - Green Herb
+42 - Green Herb
+43 - Shotgun Rounds (5)
+44 - Butcher Knife
+45 - Iron Pipe
+46 - First Aid Spray
+01 - Charlie's ID Tag
+02 - Len's ID Tag
+03 - Silver Key
+04 - Gold Key
+05 - Security Room Card Key
+06 - Red Jewel
+07 - Red Jewel
+08 - Red Jewel
+09 - Red Jewel
+0a - Green Herb
+0b - Iron Pipe
+0c - Curved Iron Pipe
+0d - Iron Pipe
+0e - Handgun (15)
+0f - Blue Herb
+10 - Green Herb
+11 - Blue Herb
+12 - Green Herb
+13 - Curved Iron Pipe
+14 - Red Herb
+15 - Shotgun Rounds (3)
+16 - Shotgun Rounds (3)
+17 - Green Herb
+18 - Blue Herb
+19 - Handgun Rounds (10)
+1a - Green Herb
+1b - Anti Virus (1)
+1c - First Aid Spray
+1d - First Aid Spray
+1e - 45 Auto Rounds (4)
+1f - Shotgun (1)
+20 - Handgun Rounds (10)
+21 - Anti Virus (1)
+22 - Red Herb
+23 - Shotgun Rounds (3)
+24 - Blue Herb
+25 - Green Herb
+26 - Shotgun Rounds (3)
+27 - Shotgun (1)
+28 - Shotgun Rounds (3)
+29 - Red Herb
+2a - Concrete Piece
+2b - Butcher Knife
+2c - Battery
+2d - Anti Virus (L) (1)
+2e - Green Herb
+2f - Concrete Piece
+30 - Butcher Knife
+31 - Iron Pipe
+32 - Green Herb
+01 - Handgun SG (13)
+02 - First Aid Spray
+03 - Green Herb
+04 - Handgun Rounds (24)
+05 - Iron Pipe
+06 - UMB No.3
+07 - VP-017
+08 - Handgun SG (13)
+09 - First Aid Spray
+0a - Handgun Rounds (24)
+0b - Valve Handle
+0c - Iron Pipe
+0d - Frozen Wrench
+0e - Survival Knife
+0f - Handgun Rounds (24)
+10 - Anti Virus (L) (1)
+11 - First Aid Spray
+12 - Blue Herb
+13 - Blue Herb
+14 - Handgun Rounds (24)
+15 - Green Herb
+16 - Shotgun (7)
+17 - Green Herb
+18 - Handgun Rounds (24)
+19 - First Aid Spray
+1a - Turn Table Key
+1b - Lab Cardkey
+1c - Shotgun Rounds (12)
+1d - Iron Pipe
+1e - Shotgun (7)
+1f - Green Herb
+20 - First Aid Spray
+21 - Gray Chemical Bottle (3)
+22 - Blowtorch
+23 - Handgun Rounds (60)
+24 - Shotgun Rounds (24)
+25 - First Aid Spray
+26 - First Aid Spray
+27 - Handgun SG (13)
+28 - Iron Pipe
+29 - Green Herb
+2a - 45 Auto Rounds (12)
+2b - Iron Pipe
+2c - Blue Herb
+2d - Handgun Rounds (24)
+2e - First Aid Spray
+2f - Shotgun (7)
+30 - First Aid Spray
+31 - Green Herb
+32 - Magnum Handgun (7)
+33 - Red Herb
+34 - Broken Shotgun
+35 - Yellow Chemical Bottle (3)
+36 - Blue Herb
+37 - Gray Chemical Bottle (3)
+38 - Yellow Chemical Bottle (3)
+01 - Handgun SG (10)
+02 - Green Herb
+03 - Green Herb
+04 - Handgun Rounds (12)
+05 - Survival Knife
+06 - UMB No.3
+07 - VP-017
+08 - Handgun SG (10)
+09 - First Aid Spray
+0a - Handgun Rounds (12)
+0b - Valve Handle
+0c - Frozen Wrench
+0d - Survival Knife
+0e - Handgun Rounds (12)
+0f - Anti Virus (1)
+10 - Red Herb
+11 - Blue Herb
+12 - Handgun Rounds (12)
+13 - Green Herb
+14 - Shotgun (7)
+15 - Red Herbs
+16 - Handgun Rounds (12)
+17 - Green Herb
+18 - Turn Table Key
+19 - Lab Cardkey
+1a - Shotgun Rounds (7)
+1b - Red Herb
+1c - Iron Pipe
+1d - Shotgun (7)
+1e - Blowtorch
+1f - Handgun Rounds (24)
+20 - Shotgun Rounds (10)
+21 - First Aid Spray
+22 - Green Herb
+23 - Green Herb
+24 - Handgun SG (10)
+25 - Iron Pipe
+26 - Green Herb
+27 - Shotgun Rounds (7)
+28 - Iron Pipe
+29 - Blue Herb
+2a - Handgun Rounds (12)
+2b - First Aid Spray
+2c - Shotgun (7)
+2d - Green Herb
+2e - Green Herb
+2f - Magnum Handgun (3)
+30 - Blue Herb
+31 - Broken Shotgun
+32 - Yellow Chemical Bottle (3)
+33 - Gray Chemical Bottle (3)
+34 - Yellow Chemical Bottle (3)
+01 - Handgun SG (13)
+02 - First Aid Spray
+03 - Green Herb
+04 - Handgun Rounds (16)
+05 - Iron Pipe
+06 - UMB No.3
+07 - VP-017
+08 - Handgun SG (13)
+09 - First Aid Spray
+0a - Handgun Rounds (16)
+0b - Valve Handle
+0c - Frozen Wrench
+0d - Survival Knife
+0e - Handgun Rounds (20)
+0f - Anti Virus (1)
+10 - First Aid Spray
+11 - Blue Herb
+12 - Blue Herb
+13 - Handgun Rounds (20)
+14 - Green Herb
+15 - Shotgun (7)
+16 - Green Herb
+17 - Handgun Rounds (16)
+18 - Green Herb
+19 - Turn Table Key
+1a - Lab Cardkey
+1b - Shotgun Rounds (7)
+1c - Iron Pipe
+1d - Shotgun (7)
+1e - First Aid Spray
+1f - Gray Chemical Bottle (3)
+20 - Blowtorch
+21 - Handgun Rounds (30)
+22 - Shotgun Rounds (12)
+23 - First Aid Spray
+24 - First Aid Spray
+25 - Handgun SG (13)
+26 - Iron Pipe
+27 - Green Herb
+28 - Shotgun Rounds (7)
+29 - Iron Pipe
+2a - Blue Herb
+2b - Handgun Rounds (16)
+2c - First Aid Spray
+2d - Shotgun (7)
+2e - Red Herb
+2f - Green Herb
+30 - Magnum Handgun (5)
+31 - Blue Herb
+32 - Handgun Rounds (16)
+33 - Broken Shotgun
+34 - Yellow Chemical Bottle (3)
+35 - Blue Herb
+36 - Gray Chemical Bottle (3)
+37 - Yellow Chemical Bottle (3)
+01 - Handgun SG (10)
+02 - Green Herb
+03 - Handgun SG (10)
+04 - UMB No.3
+05 - VP-017
+06 - Handgun Rounds (10)
+07 - Green Herb
+08 - Green Herb
+09 - Frozen Wrench
+0a - Survival Knife
+0b - Handgun Rounds (10)
+0c - Green Herb
+0d - First Aid Spray
+0e - Green Herb
+0f - Blue Herb
+10 - Handgun Rounds (10)
+11 - Green Herb
+12 - Shotgun (7)
+13 - Green Herb
+14 - Green Herb
+15 - Iron Pipe
+16 - Green Herb
+17 - Turn Table Key
+18 - Lab Cardkey
+19 - Handgun Rounds (10)
+1a - Green Herb
+1b - Iron Pipe
+1c - Gray Chemical Bottle (5)
+1d - Handgun Rounds (10)
+1e - Handgun Rounds (10)
+1f - Handgun SG (10)
+20 - Blowtorch
+21 - Handgun Rounds (18)
+22 - Shotgun Rounds (7)
+23 - First Aid Spray
+24 - Iron Pipe
+25 - Iron Pipe
+26 - Iron Pipe
+27 - Green Herb
+28 - Green Herb
+29 - Gray Chemical Bottle (2)
+2a - Red Herb
+2b - First Aid Spray
+2c - Green Herb
+2d - Magnum Handgun (1)
+2e - Blue Herb
+2f - Broken Shotgun
+30 - Valve Handle
+31 - Yellow Chemical Bottle (2)
+32 - Iron Pipe
+33 - Yellow Chemical Bottle (2)
+34 - Gray Chemical Bottle (2)
+01 - First Aid Spray
+02 - Butcher Knife
+03 - Handgun (15)
+04 - First Aid Spray
+05 - Green Herb
+06 - Handgun Rounds (30)
+07 - Handgun Rounds (30)
+08 - 45 Auto Rounds (14)
+09 - Blue Herb
+0a - Iron Pipe
+0b - Handgun Rounds (30)
+0c - Handgun Rounds (30)
+0d - Scrub Brush
+0e - Green Herb
+0f - Handgun Rounds (30)
+10 - Nail Gun (20)
+11 - Red Herb
+12 - Key With Blue Tag
+13 - Anti Virus (1)
+14 - Green Herb
+15 - Wooden Pole
+16 - Blue Herb
+17 - Handgun Rounds (30)
+18 - Green Herb
+19 - Lighter
+1a - Shotgun (7)
+1b - Handgun Rounds (30)
+1c - Magnum Revolver (6)
+1d - Blue Herb
+1e - Handgun Rounds (30)
+1f - Iron Pipe
+20 - Green Herb
+21 - Forklift Key
+22 - First Aid Spray
+23 - Storage Room Key
+24 - Green Herb
+25 - Handgun (15)
+26 - First Aid Spray
+27 - Handgun Magazine (15)
+28 - Red Herb
+29 - Raccoon Today
+2a - Green Herb
+2b - Handgun Rounds (30)
+2c - First Aid Spray
+2d - Green Herb
+2e - Shotgun (7)
+2f - Iron Pipe
+30 - Handgun Rounds (30)
+31 - First Aid Spray
+32 - Shotgun Rounds (14)
+33 - Shotgun (7)
+34 - Lighter
+35 - Spear
+36 - Red Herb
+37 - Blue Herb
+38 - Green Herb
+39 - Red Herb
+3a - Green Herb
+3b - Red Herb
+3c - Blue Herb
+3d - Magnum Revolver (6)
+3e - Detonator Handle
+3f - Detonator Main Unit
+40 - Handgun (15)
+41 - Green Herb
+42 - Shotgun Rounds (14)
+43 - Alcohol Bottle
+44 - Magnum Revolver Rounds (6)
+45 - Staff Room Key
+46 - Shotgun (7)
+47 - Shotgun (7)
+48 - Pesticide Spray (9)
+49 - Alcohol Bottle
+4a - Alcohol Bottle
+4b - Raccoon Today
+4c - Raccoon Today
+4d - Alcohol Bottle
+4e - Handgun Rounds (30)
+4f - 45 Auto Rounds (14)
+50 - Magnum Revolver (6)
+51 - First Aid Spray
+52 - First Aid Spray
+53 - Shotgun Rounds (21)
+54 - Shotgun Rounds (21)
+55 - Lighter
+56 - Handgun (15)
+01 - Blue Herb
+02 - Butcher Knife
+03 - First Aid Spray
+04 - Green Herb
+05 - 45 Auto Rounds (7)
+06 - Blue Herb
+07 - Iron Pipe
+08 - Iron Pipe
+09 - Scrub Brush
+0a - Green Herb
+0b - Nail Gun (20)
+0c - Anti Virus (1)
+0d - Green Herb
+0e - Wooden Pole
+0f - Red Herb
+10 - Handgun (10)
+11 - Lighter
+12 - Handgun (10)
+13 - Blue Herb
+14 - Forklift Key
+15 - Key With Blue Tag
+16 - Handgun Rounds (10)
+17 - Iron Pipe
+18 - Green Herb
+19 - Alcohol Bottle
+1a - Green Herb
+1b - Storage Room Key
+1c - Green Herb
+1d - Handgun (15)
+1e - First Aid Spray
+1f - Handgun Magazine (15)
+20 - Green Herb
+21 - Raccoon Today
+22 - Staff Room Key
+23 - Blue Herb
+24 - First Aid Spray
+25 - Green Herb
+26 - Shotgun (7)
+27 - Blue Herb
+28 - Shotgun Rounds (7)
+29 - First Aid Spray
+2a - Handgun Rounds (10)
+2b - Shotgun (7)
+2c - Lighter
+2d - Spear
+2e - Red Herb
+2f - Blue Herb
+30 - Green Herb
+31 - Green Herb
+32 - Red Herb
+33 - Blue Herb
+34 - Magnum Revolver (6)
+35 - Detonator Handle
+36 - Handgun (15)
+37 - Green Herb
+38 - Handgun Rounds (10)
+39 - Handgun Rounds (10)
+3a - Shotgun (7)
+3b - Pesticide Spray (9)
+3c - Alcohol Bottle
+3d - Alcohol Bottle
+3e - Raccoon Today
+3f - Detonator Main Unit
+40 - Handgun Rounds (10)
+41 - Handgun Rounds (10)
+42 - 45 Auto Rounds (5)
+43 - Handgun (15)
+44 - First Aid Spray
+45 - Shotgun Rounds (7)
+46 - Lighter
+47 - Handgun (15)
+01 - Green Herb
+02 - Butcher Knife
+03 - Handgun (15)
+04 - First Aid Spray
+05 - Green Herb
+06 - 45 Auto Rounds (14)
+07 - Blue Herb
+08 - Handgun Rounds (15)
+09 - Iron Pipe
+0a - Iron Pipe
+0b - Scrub Brush
+0c - Green Herb
+0d - Nail Gun (20)
+0e - Red Herb
+0f - Key With Blue Tag
+10 - Anti Virus (1)
+11 - Green Herb
+12 - Wooden Pole
+13 - Blue Herb
+14 - Handgun Rounds (15)
+15 - Green Herb
+16 - Lighter
+17 - Handgun (15)
+18 - Handgun Rounds (15)
+19 - Shotgun (7)
+1a - Blue Herb
+1b - Handgun Rounds (15)
+1c - Iron Pipe
+1d - Green Herb
+1e - Forklift Key
+1f - First Aid Spray
+20 - Storage Room Key
+21 - Green Herb
+22 - Handgun (15)
+23 - First Aid Spray
+24 - Handgun Magazine (15)
+25 - Red Herb
+26 - Raccoon Today
+27 - Green Herb
+28 - Handgun Rounds (15)
+29 - Green Herb
+2a - Shotgun (7)
+2b - Iron Pipe
+2c - Handgun Rounds (15)
+2d - First Aid Spray
+2e - Shotgun Rounds (7)
+2f - Shotgun (7)
+30 - Lighter
+31 - Spear
+32 - Red Herb
+33 - Blue Herb
+34 - Green Herb
+35 - Red Herb
+36 - Green Herb
+37 - Red Herb
+38 - Blue Herb
+39 - Magnum Revolver (6)
+3a - Detonator Handle
+3b - Detonator Main Unit
+3c - Handgun (15)
+3d - Green Herb
+3e - Handgun Rounds (15)
+3f - Alcohol Bottle
+40 - Shotgun Rounds (7)
+41 - Staff Room Key
+42 - Shotgun (7)
+43 - Pesticide Spray (9)
+44 - Alcohol Bottle
+45 - Alcohol Bottle
+46 - Raccoon Today
+47 - Raccoon Today
+48 - Alcohol Bottle
+49 - Handgun Rounds (30)
+4a - 45 Auto Rounds (14)
+4b - First Aid Spray
+4c - First Aid Spray
+4d - 45 Auto Rounds (14)
+4e - 45 Auto Rounds (14)
+4f - First Aid Spray
+50 - Handgun (15)
+01 - Blue Herb
+02 - Butcher Knife
+03 - Green Herb
+04 - Blue Herb
+05 - Green Herb
+06 - Iron Pipe
+07 - Iron Pipe
+08 - Scrub Brush
+09 - Nail Gun (20)
+0a - Anti Virus (1)
+0b - Green Herb
+0c - Red Herb
+0d - 45 Auto Rounds (5)
+0e - Lighter
+0f - First Aid Spray
+10 - Forklift Key
+11 - Key With Blue Tag
+12 - Storage Room Key
+13 - Green Herb
+14 - Alcohol Bottle
+15 - Blue Herb
+16 - Green Herb
+17 - Handgun (10)
+18 - First Aid Spray
+19 - Handgun Magazine (15)
+1a - Raccoon Today
+1b - Staff Room Key
+1c - Iron Pipe
+1d - Handgun (15)
+1e - Iron Pipe
+1f - Handgun Rounds (10)
+20 - Butcher Knife
+21 - Green Herb
+22 - Shotgun (4)
+23 - Lighter
+24 - Spear
+25 - Blue Herb
+26 - Red Herb
+27 - Green Herb
+28 - Blue Herb
+29 - Green Herb
+2a - Detonator Handle
+2b - Handgun (10)
+2c - Green Herb
+2d - Handgun Rounds (10)
+2e - Handgun Rounds (10)
+2f - Pesticide Spray
+30 - Alcohol Bottle
+31 - Alcohol Bottle
+32 - Raccoon Today
+33 - Detonator Main Unit
+34 - Handgun Rounds (10)
+35 - Handgun (15)
+36 - First Aid Spray
+37 - Shotgun Rounds (7)
+38 - Lighter
+39 - Handgun (15)
+01 - Male Nurse's Diary
+02 - Handgun (15)
+03 - Blood Pack
+04 - Blood Pack
+05 - Blood Pack
+06 - Blood Pack
+07 - Blood Pack
+08 - Blood Pack
+09 - Card Key Level 2
+0a - Card Key Level 1
+0b - Padlock Key
+0c - Researcher's Diary
+0d - Investigation Request
+0e - First Aid Spray
+0f - Anti Virus (L) (1)
+10 - Scrub Brush
+11 - Scrub Brush
+12 - Scrub Brush
+13 - Scrub Brush
+14 - Handgun Rounds (30)
+15 - Handgun Rounds (30)
+16 - Handgun Rounds (30)
+17 - Handgun (15)
+18 - Handgun Magazine (15)
+19 - Green Herb
+1a - Green Herb
+1b - Green Herb
+1c - Green Herb
+1d - Green Herb
+1e - Green Herb
+1f - Green Herb
+20 - Red Herb
+21 - Blue Herb
+22 - Blue Herb
+23 - Blue Herb
+24 - Blue Herb
+25 - Red Herb
+26 - Red Herb
+27 - Red Herb
+28 - Red Herb
+29 - Red Herb
+2a - First Aid Spray
+2b - Hemostat (1)
+2c - Hemostat (1)
+2d - First Aid Spray
+2e - First Aid Spray
+2f - First Aid Spray
+30 - Iron Pipe
+31 - Iron Pipe
+32 - Butcher Knife
+33 - Green Herb
+34 - Green Herb
+35 - First Aid Spray
+36 - First Aid Spray
+37 - Recovery Medicine Base
+38 - Recovery Medicine Base
+39 - Recovery Medicine Base
+3a - Recovery Medicine Base
+3b - Handgun (15)
+3c - Handgun Rounds (30)
+3d - Red Herb
+3e - Stick
+3f - Handgun Rounds (30)
+40 - Anti Virus (1)
+41 - Recovery Medicine (L) (1)
+42 - Burst Handgun (20)
+43 - Sub Machinegun (20)
+44 - Handgun Rounds (30)
+45 - Green Herb
+46 - Handgun Rounds (30)
+47 - Handgun Rounds (30)
+48 - Handgun Rounds (30)
+49 - Crutch
+4a - Crutch
+4b - First Aid Spray
+4c - Crutch
+01 - Male Nurse's Diary
+02 - Handgun (15)
+03 - Blood Pack
+04 - Blood Pack
+05 - Blood Pack
+06 - Blood Pack
+07 - Blood Pack
+08 - Card Key Level 2
+09 - Card Key Level 1
+0a - Padlock Key
+0b - Researcher's Diary
+0c - Investigation Request
+0d - First Aid Spray
+0e - Anti Virus (1)
+0f - Anti Virus (1)
+10 - Scrub Brush
+11 - Scrub Brush
+12 - Scrub Brush
+13 - Handgun Rounds (10)
+14 - Green Herb
+15 - Green Herb
+16 - Green Herb
+17 - Green Herb
+18 - Blue Herb
+19 - Blue Herb
+1a - Blue Herb
+1b - Blue Herb
+1c - Blue Herb
+1d - Red Herb
+1e - Red Herb
+1f - Blue Herb
+20 - Red Herb
+21 - Hemostat (1)
+22 - Hemostat (1)
+23 - First Aid Spray
+24 - First Aid Spray
+25 - Iron Pipe
+26 - Iron Pipe
+27 - Handgun Rounds (10)
+28 - First Aid Spray
+29 - Recovery Medicine Base
+2a - Recovery Medicine Base
+2b - Recovery Medicine Base
+2c - Butcher Knife
+2d - Handgun Magazine (15)
+2e - Red Herb
+2f - Stick
+30 - Handgun Rounds (10)
+31 - Recovery Medicine (1)
+32 - Hemostat (1)
+33 - Handgun (15)
+34 - Burst Handgun (20)
+35 - Handgun Rounds (10)
+36 - Butcher Knife
+37 - Handgun Rounds (10)
+38 - Crutch
+39 - Handgun Rounds (10)
+3a - Crutch!
+01 - Male Nurse's Diary
+02 - Handgun (15)
+03 - Blood Pack
+04 - Blood Pack
+05 - Blood Pack
+06 - Blood Pack
+07 - Blood Pack
+08 - Blood Pack
+09 - Card Key Level 2
+0a - Card Key Level 1
+0b - Padlock Key
+0c - Researcher's Diary
+0d - Investigation Request
+0e - First Aid Spray
+0f - Anti Virus (L) (1)
+10 - Scrub Brush
+11 - Scrub Brush
+12 - Scrub Brush
+13 - Handgun Rounds (15)
+14 - Handgun Rounds (15)
+15 - Handgun Rounds (15)
+16 - Handgun (15)
+17 - Green Herb
+18 - Green Herb
+19 - Green Herb
+1a - Green Herb
+1b - Green Herb
+1c - Green Herb
+1d - Blue Herb
+1e - Blue Herb
+1f - Blue Herb
+20 - Blue Herb
+21 - Blue Herb
+22 - Red Herb
+23 - Red Herb
+24 - Red Herb
+25 - Red Herb
+26 - First Aid Spray
+27 - Hemostat (1)
+28 - Hemostat (1)
+29 - First Aid Spray
+2a - First Aid Spray
+2b - First Aid Spray
+2c - Iron Pipe
+2d - Iron Pipe
+2e - Butcher Knife
+2f - Green Herb
+30 - First Aid Spray
+31 - First Aid Spray
+32 - Recovery Medicine Base
+33 - Recovery Medicine Base
+34 - Recovery Medicine Base
+35 - Recovery Medicine Base
+36 - Handgun Magazine (15)
+37 - Handgun Rounds (15)
+38 - Red Herb
+39 - Stick
+3a - Handgun Rounds (15)
+3b - Recovery Medicine (L) (1)
+3c - Recovery Medicine (1)
+3d - Burst Handgun (20)
+3e - Sub Machinegun (20)
+3f - Handgun Rounds (15)
+40 - Green Herb
+41 - Handgun Rounds (20)
+42 - Crutch
+43 - Crutch
+44 - Crutch
+01 - Male Nurse's Diary
+02 - Handgun (10)
+03 - Blood Pack
+04 - Blood Pack
+05 - Blood Pack
+06 - Blood Pack
+07 - Blood Pack
+08 - Hemostat (1)
+09 - Card Key Level 2
+0a - Card Key Level 1
+0b - Padlock Key
+0c - Researcher's Diary
+0d - Investigation Request
+0e - Handgun (10)
+0f - Anti Virus (1)
+10 - Anti Virus (1)
+11 - Scrub Brush
+12 - Scrub Brush
+13 - Hemostat (1)
+14 - Stick
+15 - Blue Herb
+16 - Green Herb
+17 - Blue Herb
+18 - Green Herb
+19 - Green Herb
+1a - Blue Herb
+1b - Blue Herb
+1c - Blue Herb
+1d - Red Herb
+1e - Green Herb
+1f - Hemostat (1)
+20 - Scrub Brush
+21 - Iron Pipe
+22 - Iron Pipe
+23 - Red Herb
+24 - Green Herb
+25 - First Aid Spray
+26 - Recovery Medicine Base
+27 - Recovery Medicine Base
+28 - Recovery Medicine Base
+29 - Handgun Magazine (15)
+2a - Red Herb
+2b - Stick
+2c - Handgun Rounds (10)
+2d - Recovery Medicine (1)
+2e - Hemostat (1)
+2f - Handgun Magazine (15)
+30 - Burst Handgun (12)
+31 - Handgun Rounds (10)
+32 - Butcher Knife
+33 - Butcher Knife
+34 - Crutch
+35 - Handgun Rounds (10)
+36 - Handgun Rounds (10)
+37 - Crutch!
+which level you are on, and difficulty.
+Once you go past those digits, you'll
+get items that your character and the
+other 2 players have. You can't use the
+"45 For Kevin" if you aren't Kevin,
+and you can't use the "Handgun For Mark"
+if you aren't Mark. As far as I can tell
+you can use Jim's Coin. But I don't know
+if you can use the other items if you aren't
+the character those items are meant for.
+Some of the items are useless too, don't waste
+your time getting ammo with it because you can't
+use it. Just use infinite health. I'll also
+highlight the rocket launcher in Decisions,
+Decisions too since it works but isn't in the game.
+I also forgot that a few addresses below
+these item slot codes there's a code that
+forces every item that can be picked up
+to become a certain item, but that's mostly worthless.
++Player 1 Item Slot 1
+%Credits: bungholio
+$004A6834 000000??
++Player 1 Item Slot 2
+%Credits: bungholio
+$004A6835 000000??
++Player 1 Item Slot 3
+%Credits: bungholio
+$004A6836 000000??
++Player 1 Item Slot 4
+%Credits: bungholio
+$004A6837 000000??
++Player 1 Special Item Slot
+%Credits: bungholio
+$004A6838 000000??
++Player 1 Yoko Item Slot 5
+%Credits: bungholio
+$004A6839 000000??
++Player 1 Yoko Item Slot 6
+%Credits: bungholio
+$004A683A 000000??
++Player 1 Yoko Item Slot 7
+%Credits: bungholio
+$004A683B 000000??
++Player 1 Yoko Item Slot 8
+%Credits: bungholio
+$004A683C 000000??
+!!
++Player 1 Speed Modifier #1 {<I>If You Turn While Moving You Will Move At Normal Speed.  Values: 3Ff00000 - Super Slow 40000000 - Slow 40400000 - Medium 40800000 - Fast 4Fffffff - Super Fast, You Can Go Through Walls Even</I>}
+%Credits: bungholio
+$204A6758 ????????
++Player 1 Speed Modifier #2 {<I>Also A Speed Code, But You Don&#39;T Move At Normal Speed While Turning.</I>}
+%Credits: bungholio
+$204A6770 ????????
++Player 1 Status Modifier {<I>00 - Fine, When Knocked Down You Keep Looping The Falling Down Animation Forever 01 - Poison, Same Looping 02 - Bleeding, Same Looping 03 - Bleeding Again?, Same Looping 04 - Fine, Same Looping 05 - Poison, The Game Skipped The Picking Me Up Animation 06 - Bleed, Same 07 - Bleed, Same 08 - Fine, Dying Animation Keeps Repeating When You&#39;Re Crawling 09 - Poison, Same 0C - Fine, Same Dying Animation Loop 10 - Fine, When I Was Knocked Down It Immediately Skipped To The Crawling, And The AI&#39;S Ignored Me As If I Wasn&#39;T There. When I Died My Character Kept Looping The Dying Animation Forever So The Level Never Ended. 14 - Fine 18 - Fine 1C - Fine 20 - Fine, Couldn&#39;T Access Start Menu 24 - Fine, Couldn&#39;T Access Start Menu 28 - Ff - Instantly Fell To The Floor And Couldn&#39;T Move  Some Of Them Even Killed Me Instantly, But I Don&#39;T Remember Which Ones. It&#39;S Useless.</I>}
+%Credits: bungholio
+$004A6750 000000??
++Player 1 Virus Gauge Modifier #1 {<I>I&#39;M Assuming The Codes On The Main Cmgsccc Site Prevent The Virus Gauge From Increasing Over Time Or From Enemy Attacks, But This Forces Your Virus Gauge To 0 Always. Not Too Useful.</I>}
+%Credits: bungholio
+$204A675C ????????
++Player 1 Virus Gauge Modifier #2 {<I>4Fffffff = Virus Gauge At 0% And The Cells Didn&#39;T Move 00000001 = About The Same, But After A Movie It Went To .02% And Stayed There And The Virus Gauge Was Still Frozen. I&#39;M Very Sure I Experimented With This Code Further And Forgot To Write It Down, But I Think It Stops The Virus Gauge From Increasing. So If You Use This With A Joker Command, You Can Stop It From Increasing Whenever You Want, But It&#39;S Still Useless.</I>}
+%Credits: bungholio
+$204A6768 ????????
++Player 1 Walk Through Walls {<I>If You Get To A Spot Where Your Character Keeps Being Forced To Exit A Room Through The Door They Just Came In, Make Sure To Run In The Opposite Direction Of That Door When You Enter The Room.</I>}
+%Credits: bungholio
+$204A6860 FFFFFFFF
+$204A687C FFFFFFFF
++Rapid Fire Player 1 {<I>You&#39;Ll Kill Anything In Less Than 3 Seconds With Infinite Ammo And This.</I>}
+%Credits: bungholio
+$D02B079C 0000B7FF
+$004A6753 000000FF
+!Scenario Completion Codes:
++Completed Events Modifier 1 Of 2
+%Credits: bungholio
+$203B7B78 ????????
++Completed Events Modifier 2 Of 2 {<I>Just Set Both Of Them To All F&#39;S To Have All Events Completed And Probably Get More Than A 100% Completion Ratio</I>}
+%Credits: bungholio
+$203B7B7C ????????
++Determines Whether Your Result Points Are A New Best Record {<I>0 - Result Points Aren&#39;T A New Best Record Ff - Result Points Are A New Best Record</I>}
+%Credits: bungholio
+$003B7B85 000000??
++Determines Whether Your Scenario Completion Time Is A New Best Record {<I>0 - Play Time Isn&#39;T A New Best Record Ff - Play Time Is A New Best Record</I>}
+%Credits: bungholio
+$003B7206 000000??
++No Damage Clear
+%Credits: bungholio
+$003B7B74 00000000
++No Weapon Clear
+%Credits: bungholio
+$003B7B75 00000000
++Result Points Modifier
+%Credits: bungholio
+$203B7B34 ????????
++Scenario Completion Time Rank Modifier {<I>0 - F Rank 1 - E Rank 2 - D Rank 3 - C Rank 4 - B Rank 5 - A Rank 6 - S Rank</I>}
+%Credits: bungholio
+$003B7B87 000000??
++Survivor Modifier {<I>0 - 0/3 1 - 1/3 2 - 2/3 3 - 3/3</I>}
+%Credits: bungholio
+$003B7B76 000000??
+!!
+!!
+

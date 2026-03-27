@@ -1,0 +1,17 @@
+^2 = GameID: AGB-AYPE-USA
+^3 = NAME: Sega Arcade Gallery
+^4 = FILE: NTSC
+!After Burner:
++Max Score
+$0200CB00:1869F
++Inf Missels 
+$030027B4:32
++Inf Continues
+$030027B3:0A
++Inf Lives
+$030027B1:32
+!!
+!Super Hang-On:
++Stage
+$030027B3:0A
+!!

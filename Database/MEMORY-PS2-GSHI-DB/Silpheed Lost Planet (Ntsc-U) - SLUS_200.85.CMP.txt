@@ -1,0 +1,35 @@
+^3 = NAME: Silpheed Lost Planet (Ntsc-U)
+^2 = GameID: SLUS-20085
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0137B00 00266B0B
++(M) Must Be On
+%Credits: Codejunkies
+$F0266B08 00266B0B
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0120008 00266B0B
+!!
++All Weapons
+%Credits: InterAct
+$102BF52C 0000FFFF
++Have All Weapons
+%Credits: Code Master
+$202BF52C FFFFFFFF
++Infinite Shield
+%Credits: InterAct
+$002BF4D4 0000000A
++Infinite Shields
+%Credits: Code Master
+$102BF4D4 0000000A
++Max Score
+%Credits: Code Master
+$21F41C00 05F5E0FF
+$21F41C08 05F5E0FF
++Quick Score Gain
+%Credits: Code Master
+$11F41C00 0000FFFF
+$11F41C08 0000FFFF
+!!
+

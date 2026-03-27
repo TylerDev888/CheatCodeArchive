@@ -1,0 +1,249 @@
+^1 = HASH: DBD09DD4
+^3 = NAME: Mark Of Kri
+^2 = GameID: SCUS_971.40
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master>Floydfan>The GFCC
+$F0100008 0036A8EF
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master>Floydfan>The GFCC
+$9036A8EC 0C0E0903
+!!
+!Codes:
++Infinite Health
+%Credits: Code Master>Floydfan>The GFCC
+$203DBBC8 00000001
++Idiot AI
+%Credits: Code Master>Floydfan>The GFCC
+$201C5130 03E00008
+$201C5134 00000000
++Infinite Arrows
+%Credits: Code Master>Floydfan>The GFCC
+$20183C80 00000000
++Extra Arrows
+%Credits: Code Master>Floydfan>The GFCC
+$10183C7C 00000001
++P1 Press L1+Select To Enable Walk Thru Walls
+%Credits: Code Master>Floydfan>The GFCC
+$E002FBFE 01F0E946
+$20192F88 03E00008
+$20192F8C 00000000
++P1 Press L2+Select To Disable Walk Thru Walls
+%Credits: Code Master>Floydfan>The GFCC
+$E002FEFE 01F0E946
+$20192F88 27BDFFC0
+$20192F8C FFB20020
++Running Speed Modifier (Default 41B80165)
+%Credits: Code Master>Floydfan>The GFCC
+$203DC0B8 ????????
++Infinite Save Scrolls
+%Credits: Code Master>Floydfan>The GFCC
+$20288E20 24020004
+$20288E28 A0431D40
++Disable Weapon Wall Collisions
+%Credits: Code Master>Floydfan>The GFCC
+$2018AE70 03E00008
+$2018AE74 00000000
++Disable Wall Collisions
+%Credits: Code Master>Floydfan>The GFCC
+$2018B6C0 03E00008
+$2018B6C4 00000000
++AI Can�T See You
+%Credits: Code Master>Floydfan>The GFCC
+$20218F28 03E00008
+$20218F2C 00000000
++AI Can�T Sense You
+%Credits: Code Master>Floydfan>The GFCC
+$20218FC0 03E00008
+$20218FC4 00000000
++AI Can�T Hear You
+%Credits: Code Master>Floydfan>The GFCC
+$20219058 03E00008
+$2021905C 00000000
++Enemies Can�T Block Your Attacks
+%Credits: Code Master>Floydfan>The GFCC
+$201BBD80 03E00008
+$201BBD84 00000000
++AI Can�T Blow Horns
+%Credits: Code Master>Floydfan>The GFCC
+$201BF7A8 03E00008
+$201BF7AC 00000000
++AI Can�T Blow Big Horns
+%Credits: Code Master>Floydfan>The GFCC
+$201BF580 03E00008
+$201BF584 00000000
++AI Can�T Shoot Arrows
+%Credits: Code Master>Floydfan>The GFCC
+$201BB5C8 03E00008
+$201BB5CC 00000000
++AI Can�T Steal Weapons
+%Credits: Code Master>Floydfan>The GFCC
+$201D06B0 03E00008
+$201D06B4 00000000
++AI Can�T Defend Against Counter/Throw
+%Credits: Code Master>Floydfan>The GFCC
+$201BAD48 03E00008
+$201BAD4C 00000000
++AI No Alert Troops
+%Credits: Code Master>Floydfan>The GFCC
+$201CB348 03E00008
+$201CB34C 00000000
++AI No Alert Groups
+%Credits: Code Master>Floydfan>The GFCC
+$201D1C48 03E00008
+$201D1C4C 00000000
++AI No Alert Patrols
+%Credits: Code Master>Floydfan>The GFCC
+$201C0EE0 03E00008
+$201C0EE4 00000000
++AI No Agitated Alert
+%Credits: Code Master>Floydfan>The GFCC
+$201C2148 03E00008
+$201C214C 00000000
++AI No Cautious Alert
+%Credits: Code Master>Floydfan>The GFCC
+$201C17A0 03E00008
+$201C17A4 00000000
++Armor Of Enemies Disabled
+%Credits: Code Master>Floydfan>The GFCC
+$201B4F40 03E00008
+$201B4F44 00000000
++Birds Don�T Runaway
+%Credits: Code Master>Floydfan>The GFCC
+$201F3680 03E00008
+$201F3684 00000000
++Birds Don�T Take Off
+%Credits: Code Master>Floydfan>The GFCC
+$201F29C8 03E00008
+$201F29CC 00000000
++AI Can�T Update Visibility Of Player
+%Credits: Code Master>Floydfan>The GFCC
+$201B9C28 03E00008
+$201B9C2C 00000000
++AI Doesn�T Attack You
+%Credits: Code Master>Floydfan>The GFCC
+$20197B58 03E00008
+$20197B5C 00000000
++Show Excite Info
+%Credits: Code Master>Floydfan>The GFCC
+$203DBC40 00000001
++Show Debug Env Collision Wire Frame Info
+%Credits: Code Master>Floydfan>The GFCC
+$203DBAE0 00000001
++Skip Pre-Level Movie
+%Credits: Code Master>Floydfan>The GFCC
+$20434FD4 00000001
++Pickup 1 Save Scroll For Max Save Scrolls
+%Credits: Code Master>Floydfan>The GFCC
+$10219E04 00000008
++Disable SCEA Screen
+%Credits: Code Master>Floydfan>The GFCC
+$202D73EC 00000000
++Disable Studio Screen
+%Credits: Code Master>Floydfan>The GFCC
+$202D73F4 00000000
++Disable Legal Screen
+%Credits: Code Master>Floydfan>The GFCC
+$202D73FC 00000000
++Disable Intro Movie
+%Credits: Code Master>Floydfan>The GFCC
+$202D7438 00000000
++Disable FMV
+%Credits: Code Master>Floydfan>The GFCC
+$2036E8D0 24020001
++Infinite Time Attack Time (Arenas)
+%Credits: Code Master>Floydfan>The GFCC
+$20436D08 41F00000
++P1 Hold L1+R2 For More Body Count Time (Body Count Arena){With This Code, After You Defeat The Enemies, Just Let The Time Run Out To Complete It.}
+%Credits: Code Master>Floydfan>The GFCC
+$D1F0E946 0000F3FF
+$20436D0C 42C80000
++Start With All Weapons
+%Credits: Code Master>Floydfan>The GFCC
+$20436D18 00000006
++Press Start For Pregame Debug Menu{With This Code, It Makes Your Character Fall Through The Floor, So Its Not Very Useful, And It Seems A Lot Of The Options Have Been Disabled As Well.}
+%Credits: Code Master>Floydfan>The GFCC
+$203C38D4 00161810
++Press Select For Debug Menu
+%Credits: Code Master>Floydfan>The GFCC
+$203DBAA8 00000001
++Unlock All Outfits/Arenas/Cheats
+%Credits: Code Master>Floydfan>The GFCC
+$20436C68 FFFFFFFF
++Unlock All Movies & Art
+%Credits: Code Master>Floydfan>The GFCC
+$20436C6C FFFFFFFF
++Invisible Characters & Enemies{With This Code, You Can Only See The Shadows & Weapons.}
+%Credits: Code Master>Floydfan>The GFCC
+$202FA170 03E00008
+$202FA174 00000000
++Always Wear Outfit Modifier
+%Credits: Code Master>Floydfan>The GFCC
+$00436C70 000000??
++Activate Cheat Modifier
+%Credits: Code Master>Floydfan>The GFCC
+$00436C71 000000??
+!!
+!Activate In-Game Cheat Codes:
++Can Open Most Doors
+%Credits: Code Master>Floydfan>The GFCC
+$101E760E 00001000
++Can Always Return To Inn
+%Credits: Code Master>Floydfan>The GFCC
+$202A3510 00000000
++Invincible (0400)
+%Credits: Code Master>Floydfan>The GFCC
+$10127CD2 00001000
++Infinite Arrows (2000)
+%Credits: Code Master>Floydfan>The GFCC
+$10183C7A 00001000
+$202CA788 00000000
++Tougher Enemies (0100)
+%Credits: Code Master>Floydfan>The GFCC
+$2018EF10 00000000
+$201B6A2C 00000000
++Wimpy Enemies (1000)
+%Credits: Code Master>Floydfan>The GFCC
+$201B66AC 00000000
++Arena Enemies Idiot AI (0200)
+%Credits: Code Master>Floydfan>The GFCC
+$101BA912 00001000
++Full Max Health/Power (4000)
+%Credits: Code Master>Floydfan>The GFCC
+$20200D2C 00000000
+$20219130 00000000
+$202CA748 00000000
+!!
+!Have Baumusu's Challenge Complete Codes:
++Challenge 1
+%Credits: Code Master>Floydfan>The GFCC
+$203D90B4 00000001
++Challenge 2
+%Credits: Code Master>Floydfan>The GFCC
+$203D90C0 00000001
++Challenge 3
+%Credits: Code Master>Floydfan>The GFCC
+$203D90CC 00000001
++Challenge 4
+%Credits: Code Master>Floydfan>The GFCC
+$203D90D8 00000001
++Challenge 5
+%Credits: Code Master>Floydfan>The GFCC
+$203D90E4 00000001
+!!
+^6 = MODS:
+Quantity Digits to Accompany Outfit Modifier Code
+00 - Default
+01 - War Paint (Conan Rau)
+02 - Kabuki Rau
+04 - Winter Fresh Rau
+08 - Fire Ant Rau
+10 - Undead Rau
+20 - Surfer Rau
+Quantity Digits to Accompany Activate Cheat Modifier Code
+01 - Tough Enemies
+02 - Arena AI Off
+04 - Invincible
+10 - WeakEnemies
+20 - Infinite Arrows
+40 - Full Health Power-Ups

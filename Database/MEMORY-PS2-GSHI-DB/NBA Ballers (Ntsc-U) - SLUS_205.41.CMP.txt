@@ -1,0 +1,549 @@
+^3 = NAME: NBA Ballers (Ntsc-U)
+^2 = GameID: SLUS-20541
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01190AC 001190AF
+$2027A67C 0803FFC0
+$200FFF14 0809E9A1
+$200FFF10 AE020000
+$200FFF08 00561021
+$20755F88 4754454E
+$20755F8C 4D5C4955
+$20755F90 4C55444F
+$20755F94 495C5345
+$20755F98 5052504F
+$20755F9C 2E303832
+$20755FA0 00474D49
++Enable Code (Must Be On)
+%Credits: Code Master
+$901190AC 0C043876
++[M] Must Be On
+%Credits: MadCatz
+$90161B34 0C04643C
+!!
++Alternate [M] Must Be On {<I>For 3.0 Users Who Are Having Trouble With The Main [M] Code.</I>}
+%Credits: MadCatz
+$F0100008 00161B37
++Infinite House
+%Credits: MadCatz
+$200C2000 3C1B3F80
+$200C2004 449B6000
+$200C2008 E64C0BE0
+$200C200C 0806950D
+$201A5430 08030800
++Infinite Juice
+%Credits: MadCatz
+$201A51F0 E6220BDC
+!Inside Stuff Codes:
++Buying Cars Doesn't Decrease Balance
+%Credits: Code Master
+$203A72D8 00000000
+$203A72DC 00000000
++Buying Cribs Doesn't Decrease Balance
+%Credits: Code Master
+$2029C824 00000000
+$2029C830 00000000
++Have All Ballers Cinema-Film Vault
+%Credits: Code Master
+$20709B7C FFFFFFFF
+$20709B80 FFFFFFFF
++Have All Ballers Cinema-Film Vault
+%Credits: Code Master
+$2070821C FFFFFFFF
+$20708220 FFFFFFFF
++Have All Ballers Cinema-Film Vault
+%Credits: Code Master
+$207068BC FFFFFFFF
+$207068C0 FFFFFFFF
++Have All Ballers Cinema-Film Vault
+%Credits: Code Master
+$20704F5C FFFFFFFF
+$20704F60 FFFFFFFF
++Have All Ballers Signed
+%Credits: Code Master
+$40709B04 00070001
+$FFFFFFFF 00000000
++Have All Ballers Signed
+%Credits: Code Master
+$407081A4 00070001
+$FFFFFFFF 00000000
++Have All Ballers Signed
+%Credits: Code Master
+$40706844 00070001
+$FFFFFFFF 00000000
++Have All Ballers Signed
+%Credits: Code Master
+$40704EE4 00070001
+$FFFFFFFF 00000000
++Have All Collectibles-Big Shots
+%Credits: Code Master
+$20709B2C FFFFFFFF
+$10709B30 0000FFFF
++Have All Collectibles-Big Shots
+%Credits: Code Master
+$207081CC FFFFFFFF
+$107081D0 0000FFFF
++Have All Collectibles-Big Shots
+%Credits: Code Master
+$2070686C FFFFFFFF
+$10706870 0000FFFF
++Have All Collectibles-Big Shots
+%Credits: Code Master
+$20704F0C FFFFFFFF
+$10704F10 0000FFFF
++Have All Collectibles-Friends
+%Credits: Code Master
+$00706869 000000FF
+$1070686A 0000FFFF
++Have All Collectibles-Friends
+%Credits: Code Master
+$00704F09 000000FF
+$10704F0A 0000FFFF
++Have All Collectibles-Friends
+%Credits: Code Master
+$00709B29 000000FF
+$10709B2A 0000FFFF
++Have All Collectibles-Friends
+%Credits: Code Master
+$007081C9 000000FF
+$107081CA 0000FFFF
++Have All Collectibles-Magazines
+%Credits: Code Master
+$20709B20 FFFFFFFF
+$20709B24 FFFFFFFF
+$00709B28 000000FF
++Have All Collectibles-Magazines
+%Credits: Code Master
+$207081C0 FFFFFFFF
+$207081C4 FFFFFFFF
+$007081C8 000000FF
++Have All Collectibles-Magazines
+%Credits: Code Master
+$20706860 FFFFFFFF
+$20706864 FFFFFFFF
+$00706868 000000FF
++Have All Collectibles-Magazines
+%Credits: Code Master
+$20704F00 FFFFFFFF
+$20704F04 FFFFFFFF
+$00704F08 000000FF
++Have All Collectibles-Midway
+%Credits: Code Master
+$10709B32 0000FFFF
+$10709B34 0000FFFF
++Have All Collectibles-Midway
+%Credits: Code Master
+$107081D2 0000FFFF
+$107081D4 0000FFFF
++Have All Collectibles-Midway
+%Credits: Code Master
+$10706872 0000FFFF
+$10706874 0000FFFF
++Have All Collectibles-Midway
+%Credits: Code Master
+$10704F12 0000FFFF
+$10704F14 0000FFFF
++Max Balance
+%Credits: Code Master
+$20709B38 05F5E0FF
+$20709B3C 05F5E0FF
++Max Balance
+%Credits: Code Master
+$207081D8 05F5E0FF
+$207081DC 05F5E0FF
++Max Balance
+%Credits: Code Master
+$20706878 05F5E0FF
+$2070687C 05F5E0FF
++Max Balance
+%Credits: Code Master
+$20704F18 05F5E0FF
+$20704F1C 05F5E0FF
++Quick Balance Gain
+%Credits: Code Master
+$10709B38 0000FFFF
+$10709B3C 0000FFFF
++Quick Balance Gain
+%Credits: Code Master
+$107081D8 0000FFFF
+$107081DC 0000FFFF
++Quick Balance Gain
+%Credits: Code Master
+$10706878 0000FFFF
+$1070687C 0000FFFF
++Quick Balance Gain
+%Credits: Code Master
+$10704F18 0000FFFF
+$10704F1C 0000FFFF
++Signing A Baller Doesn't Decrease Balance
+%Credits: Code Master
+$2029C47C 00000000
+$2029C484 00000000
++Unlock All Cribs
+%Credits: Code Master
+$20709B00 FFFFFFFF
++Unlock All Cribs
+%Credits: Code Master
+$207081A0 FFFFFFFF
++Unlock All Cribs
+%Credits: Code Master
+$20706840 FFFFFFFF
++Unlock All Cribs
+%Credits: Code Master
+$20704EE0 FFFFFFFF
++Unlock All Garage-Cars
+%Credits: Code Master
+$207081E4 FFFFFFFF
+$007085E8 000000FF
++Unlock All Garage-Cars
+%Credits: Code Master
+$20706884 FFFFFFFF
+$00706C88 000000FF
++Unlock All Garage-Cars
+%Credits: Code Master
+$20709B44 FFFFFFFF
+$00709F48 000000FF
++Unlock All Garage-Cars
+%Credits: Code Master
+$20704F24 FFFFFFFF
+$00705328 000000FF
+!!
++Inside Stuff: Max: Cash
+%Credits: MadCatz
+$20709B38 3B9AC9FF
+$20709B3C 3B9AC9FF
++Max Cash
+%Credits: Codejunkies
+$202E1210 0803FF80
+$202E1214 3C1105F0
+$200FFE00 AE11004C
+$200FFE04 080B8498
+$200FFE08 AE110048
++Player 1: Press L1 + L2 For 20 Points
+%Credits: MadCatz
+$D07DC540 0000FEFF
+$21136B58 00000014
++Player 1: Press L2 For 10 Points
+%Credits: MadCatz
+$D07DC540 0000FEFF
+$21136B58 0000000A
++Player 1: Press L3 To Reset Opponents Score
+%Credits: MadCatz
+$D07DC540 0000FFFD
+$21136B5C 00000000
++Player 1: Ultimate Score Code
+%Credits: MadCatz
+$2027A678 8E220000
+$2027A680 AE220000
++Player 2 Never Scores
+%Credits: Codejunkies
+$200FFF00 14170004
++Profile 1: Rags To Riches: Max: Cash
+%Credits: MadCatz
+$2070AEEC 3B9AC9FF
++Profile 1: Rags To Riches: Max: Stats
+%Credits: MadCatz
+$01B82624 00000023
+$01B82670 00000023
+$01B826BC 00000023
+$01B82708 00000023
+$01B82754 00000023
+$01B827A0 00000023
+$01B827EC 00000023
+$01B82838 00000023
+$01B82884 00000023
+$01B828D0 00000023
+$01B8291C 00000023
+$01B82926 00000023
+$01B829B4 00000023
+$01B82A00 00000023
+$01B82A4C 00000023
+$01B82A98 00000023
+!Rags To Riches Codes:
++Change Stat Once For Max Stat
+%Credits: Code Master
+$202B3D48 24040023
++Change Stat Once For Max Stat
+%Credits: Code Master
+$202B23E8 24040023
++Change Stat Once For Max Stat
+%Credits: Code Master
+$202B0A88 24040023
++Change Stat Once For Max Stat
+%Credits: Code Master
+$202AF128 24040023
++Infinite Skill Points
+%Credits: Code Master
+$203AACD4 00000000
++Infinite Skill Points
+%Credits: Code Master
+$203A9374 00000000
++Infinite Skill Points
+%Credits: Code Master
+$203A7A14 00000000
++Infinite Skill Points
+%Credits: Code Master
+$203A60B4 00000000
++Max Balance
+%Credits: Code Master
+$2070AEEC 05F5E0FF
++Max Balance
+%Credits: Code Master
+$2070958C 05F5E0FF
++Max Balance
+%Credits: Code Master
+$20449AC4 42D4B0C4
++Max Balance
+%Credits: Code Master
+$207062CC 05F5E0FF
++Quick Balance Gain
+%Credits: Code Master
+$1070AEEC 0000FFFF
++Quick Balance Gain
+%Credits: Code Master
+$1070958C 0000FFFF
++Quick Balance Gain
+%Credits: Code Master
+$10707C2C 0000FFFF
++Quick Balance Gain
+%Credits: Code Master
+$107062CC 0000FFFF
++Unlock All Specials
+%Credits: Code Master
+$2070AFAC 00000000
++Unlock All Specials
+%Credits: Code Master
+$2070964C 00000000
++Unlock All Specials
+%Credits: Code Master
+$C0CD869A 7F9B8974
++Unlock All Specials
+%Credits: Code Master
+$2070638C 00000000
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Access All Cribs
+%Credits: Code Master
+$202E1888 24020001
++Infinite Juice (All Players)
+%Credits: Code Master
+$201A5348 00000000
++Infinite Shot Clock
+%Credits: Code Master
+$207C2BB4 00000000
++P1 Press L1+Select For Full Shot Clock
+%Credits: Code Master
+$D07BC542 0000FBFE
+$207C2BB4 00000000
++P1 Press L2+Select For Expired Shot Clock
+%Credits: Code Master
+$D07BC542 0000FEFE
+$207C2BB4 447A0000
++P2 Press L1+Select For Full Shot Clock
+%Credits: Code Master
+$D07BC702 0000FBFE
+$207C2BB4 00000000
++P2 Press L2+Select For Expired Shot Clock
+%Credits: Code Master
+$D07BC702 0000FEFE
+$207C2BB4 447A0000
++P3 Press L1+Select For Full Shot Clock
+%Credits: Code Master
+$D07BC8C2 0000FBFE
+$207C2BB4 00000000
++P3 Press L2+Select For Expired Shot Clock
+%Credits: Code Master
+$D07BC8C2 0000FEFE
+$207C2BB4 447A0000
++P4 Press L1+Select For Full Shot Clock
+%Credits: Code Master
+$D07BCA82 0000FBFE
+$207C2BB4 00000000
++P4 Press L2+Select For Expired Shot Clock
+%Credits: Code Master
+$D07BCA82 0000FEFE
+$207C2BB4 447A0000
++P5 Press L1+Select For Full Shot Clock
+%Credits: Code Master
+$D07BCC42 0000FBFE
+$207C2BB4 00000000
++P5 Press L2+Select For Expired Shot Clock
+%Credits: Code Master
+$D07BCC42 0000FEFE
+$207C2BB4 447A0000
++P6 Press L1+Select For Full Shot Clock
+%Credits: Code Master
+$D07BCE02 0000FBFE
+$207C2BB4 00000000
++P6 Press L2+Select For Expired Shot Clock
+%Credits: Code Master
+$D07BCE02 0000FEFE
+$207C2BB4 447A0000
++P7 Press L1+Select For Full Shot Clock
+%Credits: Code Master
+$D07BCFC2 0000FBFE
+$207C2BB4 00000000
++P7 Press L2+Select For Expired Shot Clock
+%Credits: Code Master
+$D07BCFC2 0000FEFE
+$207C2BB4 447A0000
++P8 Press L1+Select For Full Shot Clock
+%Credits: Code Master
+$D07BD182 0000FBFE
+$207C2BB4 00000000
++P8 Press L2+Select For Expired Shot Clock
+%Credits: Code Master
+$D07BD182 0000FEFE
+$207C2BB4 447A0000
++Shot Clock Length X1/2
+%Credits: Code Master
+$207C2BA8 40F00000
++Shot Clock Length X2
+%Credits: Code Master
+$207C2BA8 41F00000
++Shot Clock Length X4
+%Credits: Code Master
+$207C2BA8 42700000
+!!
++Unlock: All Big Shots
+%Credits: MadCatz
+$20709B2C FFFFFFFF
++Unlock: All Cars
+%Credits: MadCatz
+$20709B44 FFFFFFFF
+$20709B48 FFFFFFFF
++Unlock: All Film Vault
+%Credits: MadCatz
+$20709B7C FFFFFFFF
++Unlock: All Friends
+%Credits: MadCatz
+$20709B28 FFFFFFFF
++Unlock: All Magazines
+%Credits: MadCatz
+$20709B20 FFFFFFFF
++Unlock: All Midway
+%Credits: MadCatz
+$20709B30 FFFFFFFF
++Unlock: All Sign A Ballers
+%Credits: MadCatz
+$20709B04 FFFFFFFF
+$20709B08 FFFFFFFF
+$20709B0C FFFFFFFF
+$20709B10 FFFFFFFF
+$20709B14 FFFFFFFF
+$20709B18 FFFFFFFF
+$20709B1C FFFFFFFF
+!Use Only One of These Codes At A Time:
++P1 & P3 Never Score
+%Credits: Code Master
+$200C0220 ACA00000
+$200C0224 ACA00008
+$200C0228 0809E6A1
+$200C022C 8CA40000
+$20279A80 08030088
++P1 Never Scores
+%Credits: Code Master
+$200C0220 ACA00000
+$200C0224 0809E6A1
+$200C0228 8CA40000
+$20279A80 08030088
++P1 Starts With 2
+%Credits: Code Master
+$200C0220 8CA40000
+$200C0224 54800001
+$200C0228 24040002
+$200C022C 0809E6A1
+$200C0230 ACA40000
+$20279A80 08030088
++P1 Starts With 5
+%Credits: Code Master
+$200C0220 8CA40000
+$200C0224 54800001
+$200C0228 24040005
+$200C022C 0809E6A1
+$200C0230 ACA40000
+$20279A80 08030088
++P1 Starts With 10
+%Credits: Code Master
+$200C0220 8CA40000
+$200C0224 54800001
+$200C0228 2404000A
+$200C022C 0809E6A1
+$200C0230 ACA40000
+$20279A80 08030088
++P2 & P3 Never Score
+%Credits: Code Master
+$200C0220 ACA00004
+$200C0224 ACA00008
+$200C0228 0809E6A1
+$200C022C 8CA40000
+$20279A80 08030088
++P2 Never Scores
+%Credits: Code Master
+$200C0220 ACA00004
+$200C0224 0809E6A1
+$200C0228 8CA40000
+$20279A80 08030088
++P2 Starts With 2
+%Credits: Code Master
+$200C0220 8CA40004
+$200C0224 54800001
+$200C0228 24040002
+$200C022C 0809E6A1
+$200C0230 ACA40004
+$20279A80 08030088
++P2 Starts With 5
+%Credits: Code Master
+$200C0220 8CA40004
+$200C0224 54800001
+$200C0228 24040005
+$200C022C 0809E6A1
+$200C0230 ACA40004
+$20279A80 08030088
++P2 Starts With 10
+%Credits: Code Master
+$200C0220 8CA40004
+$200C0224 54800001
+$200C0228 2404000A
+$200C022C 0809E6A1
+$200C0230 ACA40004
+$20279A80 08030088
++P3 Never Scores
+%Credits: Code Master
+$200C0220 ACA00008
+$200C0224 0809E6A1
+$200C0228 8CA40000
+$20279A80 08030088
++P3 Starts With 2
+%Credits: Code Master
+$200C0220 8CA40008
+$200C0224 54800001
+$200C0228 24040002
+$200C022C 0809E6A1
+$200C0230 ACA40008
+$20279A80 08030088
++P3 Starts With 5
+%Credits: Code Master
+$200C0220 8CA40008
+$200C0224 54800001
+$200C0228 24040005
+$200C022C 0809E6A1
+$200C0230 ACA40008
+$20279A80 08030088
++P3 Starts With 10
+%Credits: Code Master
+$200C0220 8CA40008
+$200C0224 54800001
+$200C0228 2404000A
+$200C022C 0809E6A1
+$200C0230 ACA40008
+$20279A80 08030088
+!!
+!You Must Have 'Player 2 Never Scores' Code On In Order To Use The Following Code:
++Player 1 Wins After One Shoot
+%Credits: Codejunkies
+$200FFF0C 2402000C
+!!
+!!
+

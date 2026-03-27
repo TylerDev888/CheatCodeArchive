@@ -1,0 +1,510 @@
+^3 = NAME: Return To Castle Wolfenstein - Operation Resurrection (Ntsc-U)
+^2 = GameID: SLUS-20297
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01EDC44 001EDC47
++Enable Code (Must Be On)
+%Credits: Code Master>StalkerX
+$F0100008 001EDC47
+!!
++9,999,999 Health
+%Credits: MadCatz
+$20B7793C 0098967F
++999 Bonus Points
+%Credits: MadCatz
+$10BCCCD0 000003E7
++Always Have 99 Loaded
+%Credits: Code Master>StalkerX
+$200C0240 24130063
+$200C0244 AC530208
+$200C0248 03E00008
+$200C024C 24636650
+$20118144 0C030090
+!Ammo Codes:
++Colt
+%Credits: Codejunkies
+$105C6908 0000270F
+$105C6808 0000270F
++Fg-42
+%Credits: Codejunkies
+$105C68F0 0000270F
+$105C67EC 0000270F
++Flamethrower
+%Credits: Codejunkies
+$105C6900 0000270F
++Grenades (Allied)
+%Credits: Codejunkies
+$105C6914 0000270F
++Grenades (German)
+%Credits: Codejunkies
+$105C68F4 0000270F
++Luger
+%Credits: Codejunkies
+$105C68E4 0000270F
+$105C67E4 0000270F
++Mauser
+%Credits: Codejunkies
+$105C68EC 0000270F
+$105C67EC 0000270F
++MP-40
+%Credits: Codejunkies
+$105C68E8 0000270F
+$105C67E4 0000270F
++Panzerfaust
+%Credits: Codejunkies
+$105C68F8 0000270F
+$105C67F8 0000270F
++Sten
+%Credits: Codejunkies
+$105C6910 0000270F
+$105C6810 0000270F
++Tesla
+%Credits: Codejunkies
+$105C6904 0000270F
++Thompson
+%Credits: Codejunkies
+$105C690C 0000270F
+$105C6808 0000270F
++Venom
+%Credits: Codejunkies
+$105C68FC 0000270F
+$105C67FC 0000270F
+!!
++Ancient Ruins: Infinite Health
+%Credits: MadCatz
+$209EA89C 000003E7
+!Bonus Awards Codes:
++Infinite Bonus Points
+%Credits: Code Master>StalkerX
+$205C6A54 0000270F
++Max Ammo
+%Credits: Code Master>StalkerX
+$205C6A60 00000004
++Max Armor
+%Credits: Code Master>StalkerX
+$205C6A5C 00000004
+$205C6A6C 00000001
++Max Health
+%Credits: Code Master>StalkerX
+$205C6A58 00000004
+$205C6A70 00000001
++Start With Patch {<I>Ammo Codes  Pass 1 Level To Enable</I>}
+%Credits: Code Master>StalkerX
+$205C6A68 00000001
++Start With Wine
+%Credits: Code Master>StalkerX
+$205C6A64 00000001
+!!
++Burial Chamber: Infinite Health
+%Credits: MadCatz
+$20AC572C 000003E7
++Buried Alive: Infinite Health
+%Credits: MadCatz
+$20BA9B0C 000003E7
++Castle Keep: Infinite Health
+%Credits: MadCatz
+$20C8C6EC 000003E7
++Catacombs: Infinite Health
+%Credits: MadCatz
+$20C18C0C 000003E7
++Crypt: Infinite Health
+%Credits: MadCatz
+$20B1440C 000003E7
++Dark Secret - Part 2: Infinite Health
+%Credits: MadCatz
+$20AF4D4C 000003E7
+$20B4B198 000003E7
++Dark Secret: Infinite Health
+%Credits: MadCatz
+$20B17150 000003E7
++Defiled Church: Infinite Armor
+%Credits: MadCatz
+$20C82838 000003E7
++Defiled Church: Infinite Health
+%Credits: MadCatz
+$20C13B7C 000003E7
++Escape! - Part One: Infinite Health
+%Credits: MadCatz
+$20C4EFBC 000003E7
++Escape! - Part Two: Infinite Health
+%Credits: MadCatz
+$20C8CB0C 000003E7
++Extra Ammo
+%Credits: Code Master>StalkerX
+$201BBFDC 00501021
++Extra Weapons
+%Credits: Codejunkies
+$205C6C78 FFFFFFFF
+$205C6C7C FFFFFFFF
++Eye Of Anubis: Infinite Health
+%Credits: MadCatz
+$20AB008C 000003E7
++Forest Compound: Infinite Armor
+%Credits: MadCatz
+$20A8B4D8 000003E7
++Forest Compound: Infinite Health
+%Credits: MadCatz
+$20A436DC 000003E7
++Have All Weapons
+%Credits: Code Master>StalkerX
+$200C0220 2405885C
+$200C0224 AC650324
+$200C0228 03E00008
+$200C022C AFA50000
+$2012B7B4 0C030088
++Have Binoculars
+%Credits: Code Master>StalkerX
+$201BE324 24020002
+$201BE328 AC6200EC
++Have Super Armor
+%Credits: Codejunkies
+$205C6A5C 00000F9B
+$205C6A6C 00000001
++Have Super Health
+%Credits: Codejunkies
+$205C6A58 00000F9B
+$205C6A70 00000001
++Hold L1 To Moon Jump
+%Credits: Josh_7774
+$D0554042 0000FBFF
+$60236978 43800000
+$00020000 00000028
++Infinite Ammo
+%Credits: MadCatz
+$201BC460 340203E7
++Infinite Armor
+%Credits: Code Master>StalkerX
+$20118864 241203E7
+$2011886C ACD200E8
+$20118870 00000000
++Infinite Armor
+%Credits: Josh_7774
+$D0236430 00300500
+$60236978 7F7FFFFF
+$00020000 000000E8
++Infinite Health
+%Credits: Code Master>StalkerX
+$201B0E70 240203E7
+$201B0E74 AE2202BC
++Infinite Health
+%Credits: Josh_7774
+$D0236430 00300500
+$60236974 7F7FFFFF
+$00020000 000002BC
++Infinite Wine/Patch (On Pickup)
+%Credits: Code Master>StalkerX
+$20117E94 24100BB8
+$20117E98 AC700308
+!Level 1 Codes:
++Have All Weapons
+%Credits: Codejunkies
+$10BCCA74 0000885F
++Have Armor
+%Credits: Codejunkies
+$10BCC838 000003E7
++Have Binoculars
+%Credits: Codejunkies
+$10BCC83C 00000002
++Have Colt
+%Credits: Codejunkies
+$10BCC884 0000270F
+$10BCC984 000003E7
++Have Grenades
+%Credits: Codejunkies
+$10BCC870 0000000F
++Have Luger
+%Credits: Codejunkies
+$10BCC860 0000270F
+$10BCC960 000003E7
++Have Mauser
+%Credits: Codejunkies
+$10BCC868 0000270F
+$10BCC968 000003E7
++Have MP-40
+%Credits: Codejunkies
+$10BCC860 0000270F
+$10BCC964 000003E7
++Have Patch
+%Credits: Codejunkies
+$10BCCA60 00000063
++Have Wine
+%Credits: Codejunkies
+$10BCCA5C 00000063
++Infinite Health
+%Credits: Codejunkies
+$10B7793C 000003E7
++Max Health
+%Credits: Codejunkies
+$10BCC834 000003E7
+!!
+!Level 2 Codes:
++Have All Weapons
+%Credits: Codejunkies
+$10C00004 0000885F
++Have Armor
+%Credits: Codejunkies
+$10BFFDC8 000003E7
++Have Binoculars
+%Credits: Codejunkies
+$10BFFDCC 00000002
++Have Colt
+%Credits: Codejunkies
+$10BFFE14 0000270F
+$10BFFF14 000003E7
++Have Grenades
+%Credits: Codejunkies
+$10BFFEFC 0000000F
++Have Luger
+%Credits: Codejunkies
+$10BFFDF0 0000270F
+$10BFFEF0 000003E7
++Have Mauser
+%Credits: Codejunkies
+$10BFFDF8 0000270F
+$10BFFEF8 000003E7
++Have MP-40
+%Credits: Codejunkies
+$10BFFDF0 0000270F
+$10BFFEF4 000003E7
++Have Patch
+%Credits: Codejunkies
+$10BFFFF0 00000063
++Have Wine
+%Credits: Codejunkies
+$10BFFFEC 00000063
++Max Health
+%Credits: Codejunkies
+$10BFFDD4 000003E7
+!!
+!Level 3 Codes:
++Have All Weapons
+%Credits: Codejunkies
+$10B5E4F4 0000D85E
++Have Armor
+%Credits: Codejunkies
+$10B5E2B8 000003E7
++Have Binoculars
+%Credits: Codejunkies
+$10B5E2BC 00000002
++Have Colt
+%Credits: Codejunkies
+$10B5E304 0000270F
+$10B5E404 000003E7
++Have Grenades
+%Credits: Codejunkies
+$10B5E3F0 0000000F
++Have Luger
+%Credits: Codejunkies
+$10B5E2E0 0000270F
+$10B5E3E0 000003E7
++Have Mauser
+%Credits: Codejunkies
+$10B5E2E8 0000270F
+$10B5E3E8 000003E7
++Have MP-40
+%Credits: Codejunkies
+$10B5E2E0 0000270F
+$10B5E3E4 000003E7
++Have Patch
+%Credits: Codejunkies
+$10B5E4E0 00000063
++Have Thompson
+%Credits: Codejunkies
+$10B5E304 0000270F
+$10B5E408 000003E7
++Have Wine
+%Credits: Codejunkies
+$10B5E4DC 00000063
++Max Health
+%Credits: Codejunkies
+$10B5E2B4 000003E7
+!!
+!Level 4 Codes:
++Have All Weapons
+%Credits: Codejunkies
+$10A2D394 0000885E
++Have Armor
+%Credits: Codejunkies
+$10A2D158 000003E7
++Have Binoculars
+%Credits: Codejunkies
+$10A2D15C 00000002
++Have Colt
+%Credits: Codejunkies
+$10A2D1A4 0000270F
+$10A2D2A4 000003E7
++Have Grenades A
+%Credits: Codejunkies
+$10A2D290 0000000F
++Have Luger
+%Credits: Codejunkies
+$10A2D180 0000270F
+$10A2D280 000003E7
++Have Mauser
+%Credits: Codejunkies
+$10A2D188 0000270F
+$10A2D288 000003E7
++Have MP-40
+%Credits: Codejunkies
+$10A2D180 0000270F
+$10A2D284 000003E7
++Have Patch
+%Credits: Codejunkies
+$10A2D380 00000063
++Have Thompson
+%Credits: Codejunkies
+$10A2D1A4 0000270F
+$10A2D2A8 000003E7
++Have Wine
+%Credits: Codejunkies
+$10A2D37C 00000063
++Max Health
+%Credits: Codejunkies
+$10A2D154 000003E7
+!!
+!Level 5 Codes:
++Have All Weapons
+%Credits: Codejunkies
+$10B12424 0000885E
++Have Armor
+%Credits: Codejunkies
+$10B121E8 000003E7
++Have Binoculars
+%Credits: Codejunkies
+$10B121EC 00000002
++Have Colt
+%Credits: Codejunkies
+$10B12234 0000270F
+$10B12334 000003E7
++Have Grenades
+%Credits: Codejunkies
+$10B12320 0000000F
++Have Health
+%Credits: Codejunkies
+$10B121E4 000003E7
++Have Luger
+%Credits: Codejunkies
+$10B12210 0000270F
+$10B12310 000003E7
++Have Mauser
+%Credits: Codejunkies
+$10B12218 0000270F
+$10B12318 000003E7
++Have MP-40
+%Credits: Codejunkies
+$10B12310 0000270F
+$10B12314 000003E7
++Have Patch
+%Credits: Codejunkies
+$10B12410 00000063
++Have Thompson
+%Credits: Codejunkies
+$10B12234 0000270F
+$10B12338 000003E7
++Have Wine
+%Credits: Codejunkies
+$10B1240C 00000063
+!!
++Max Ammo Cap
+%Credits: Codejunkies
+$205C6A60 00000F9B
++Max Bonus Points
+%Credits: Codejunkies
+$105C6A54 0000270F
++Max Health
+%Credits: Code Master>StalkerX
+$2010A7BC 240203E7
+$2010A7C0 AC8200E4
++Max Infinite Ammo
+%Credits: Code Master>StalkerX
+$200C0234 2410270F
+$200C0238 03E00008
+$200C023C AC500108
+$20118228 0C03008D
+!Patch:
++60 FPS
+%Credits: Josh_7774
+$2017437C 2C420001
+!!
++Rapid Fire
+%Credits: Josh_7774
+$D0236430 00300500
+$60236978 00000000
+$00020000 0000002C
++Ras El-Hadid - Part One: Infinite Health
+%Credits: MadCatz
+$20B7793C 000003E7
++Ras El-Hadid - Part One: Inifinite Armor (On Pick Up)
+%Credits: MadCatz
+$20BCC838 000003E7
++Ras El-Hadid - Part Three: Infinite Health
+%Credits: MadCatz
+$20AEE4EC 000003E7
++Ras El-Hadid - Part Two: Infinite Armor
+%Credits: MadCatz
+$20BFFDC8 000003E7
++Ras El-Hadid - Part Two: Infinite Health
+%Credits: MadCatz
+$20B93FEC 000003E7
++The Beast: Infinite Armor
+%Credits: MadCatz
+$209A3918 000003E7
++The Beast: Infinite Health
+%Credits: MadCatz
+$209725AC 000003E7
++Tram Ride: Infinite Health
+%Credits: MadCatz
+$20ADE62C 000003E7
+$20B87918 000003E7
+![ASM]:
++Can Look Straight Up & Down [ASM]
+%Credits: Josh_7774
+$201BD918 3C0142B3
+$201BD934 3C01C2B3
++Can Move Around While Zoomed In [ASM]
+%Credits: Josh_7774
+$201BE248 24140000
+$201BE258 00000000
++Disable Fall Damage [ASM]
+%Credits: Josh_7774
+$201BA59C 3C017FFF
+$201BA5C8 3C017FFF
+$201BA5F4 3C017FFF
+$201BA630 3C017FFF
+$201BA66C 3C017FFF
++Disable View Feedback When Damaged [ASM]
+%Credits: Josh_7774
+$2012EFA0 00000000
++Getting Hit Doesn't Push You Around [ASM]
+%Credits: Josh_7774
+$201C478C 00000000
+$201C47A0 00000000
+$201C47B8 00000000
++Infinite Ammo - No Reload [ASM]
+%Credits: Josh_7774
+$201BC464 00000000
++Infinite Ammo [ASM]
+%Credits: Josh_7774
+$201BBFE4 00000000
++No View Recoil When Firing Weapons [ASM]
+%Credits: Josh_7774
+$2012ED00 00000000
+$201C16C4 00000000
++No View Tilting When Moving [ASM]
+%Credits: Josh_7774
+$2012F064 3C010000
+$2012F068 34210000
+$2012F238 3C010000
+$2012F23C 34210000
++Slower Bobbing [ASM]
+%Credits: Josh_7774
+$201BB468 3C013E8C
+$201BB558 3C013E8C
+$201BB834 30630040
++Weapons Never Overheat [ASM]
+%Credits: Josh_7774
+$201BCFEC 00000000
+!!
+!!
+

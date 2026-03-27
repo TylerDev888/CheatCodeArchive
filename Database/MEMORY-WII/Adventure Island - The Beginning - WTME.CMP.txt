@@ -1,0 +1,28 @@
+^2 = GameID: WTME
+^3 = NAME: Adventure Island - The Beginning
++Inf Lives
+%Credits: Skiller
+$0406648C 60000000
++Inf HP
+%Credits: Skiller
+$04070284 60000000
+$040697E8 60000000
++Lives Max
+%Credits: Skiller
+$0032C78F 00000063
++Food Gained Max
+%Credits: Skiller
+$0032C78B 00000063
++Always Have Weapons X
+%Credits: Skiller
+$0058B720 0000[WE]
+^6 = MODS:
+[WE]
+VALUE>NAME
+0000	None
+0001	Axe
+0002	Bommerange
+0003	Spear
+0004	FireBall
+0005	Bomb
+[/WE]

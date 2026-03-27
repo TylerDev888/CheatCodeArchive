@@ -1,0 +1,32 @@
+^2 = GameID: BLES01388,BLJS10137,BLUS30743
+^3 = NAME: The Darkness II
+^5 = APCRED: From Game Genie For PS3 & Keha World
+^4 = FILE: SETTINGS
+^4 = FILE: CONTINUE.SAV
++Essence 999 *3 Figures Of Current Price
+$search 0x54616C656E74506F696E74733D:1
+$write next D: 393939
++Essence 9999 *4 Figures Of Current Price
+$search 0x54616C656E74506F696E74733D:1
+$write next D: 39393939
++Essence 99999 *5 Figures Of Current Price
+$search 0x54616C656E74506F696E74733D:1
+$write next D: 3939393939
++Unlock New Game+
+$8001000C 4861734E
+$65774761 6D65506C
+$08000013 00000031
+^4 = FILE: CONTINUE.SAV
++Update Md5 In Continue.sav (required)
+(set range:0x000010,0x0244F7)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]
+^4 = FILE: SETTINGS
++Update Md5 In Settings (required)
+(set range:0x000010,0x005CA1)
+$set pointer:eof+1
+$set range:0x000010,pointer
+$set [hash]:MD5
+$write at 0x000000:[hash]

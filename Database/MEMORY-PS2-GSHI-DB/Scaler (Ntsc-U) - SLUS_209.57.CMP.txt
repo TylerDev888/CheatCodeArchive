@@ -1,0 +1,53 @@
+^3 = NAME: Scaler (Ntsc-U)
+^2 = GameID: SLUS-20957
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F012C2E4 0012C2E7
++Enable Code (Must Be On)
+%Credits: Code Master
+$9012C2E4 0C04E66A
+!!
+!This Game Requires A Code Breaker PS2 V7.0 Or Higher!:
++Have All Abilities
+%Credits: Code Master
+$2045BAD4 FFFFFFFF
++Have All Crystal Gems
+%Credits: Code Master
+$1045BA4E 0000FFFF
+$4045BA50 00030001
+$FFFFFFFF 00000000
++Have All Eggs
+%Credits: Code Master
+$2045BA3C FFFFFFFF
++Infinite Electric Bombs
+%Credits: Code Master
+$0045B795 00000006
++Infinite Health {<I>If You Fall In The Water, Hold Select To Die.</I>}
+%Credits: Code Master
+$D041A326 0010FFFE
+$2031D8A4 41200000
++Max Electric Bombs
+%Credits: Code Master
+$0045BA95 00000005
++Max Klokkies Counter
+%Credits: Code Master
+$2045BA38 000F423F
+!!
++All Abilities
+%Credits: Codejunkies
+$0045BAD4 0000000C
++All Gems
+%Credits: Codejunkies
+$0045BA4F 000000FF
+$2045BA50 FFFFFFFF
+$2045BA57 FFFFFFFF
+$2045BA58 0FFFFFFF
++Infinite Electric Bombs
+%Credits: Codejunkies
+$0045B795 00000001
++Infinite Health {<I>If You Fall In The Water, Hold Select To Die.</I>}
+%Credits: Codejunkies
+$2031D8A4 40400000
+!!
+

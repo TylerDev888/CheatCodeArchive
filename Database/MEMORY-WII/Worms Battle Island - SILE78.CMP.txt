@@ -1,0 +1,30 @@
+^2 = GameID: SILE78
+^3 = NAME: Worms Battle Island
++Inf HP/99
+%Credits: Skiller
+$C2921EDC 00000003
+$2D9D0001 418E000C
+$38800063 B083008A
+$A083008A 00000000
++Freeze Turn Timer (b And Up)
+%Credits: Skiller
+$284D2F7A 00000408
+$0492D490 38030000
+$E0000000 80008000
++Un-Freeze Turn Timer (b And Down)
+%Credits: Skiller
+$284D2F7A 00000404
+$0492D490 3803FFDF
+$E0000000 80008000
++Suicide Squad (instant Win Player 1){Works If U Have A Team Of 4.. (anything After 4 Turns Into Suicide Squad .. Dont Use With Soul Servivor}
+%Credits: Skiller
+$C296A408 00000003
+$2D9F0003 408D000C
+$38800000 9083008A
+$A083008A 00000000
++Soul Servivor (instant Win Player 1){That Only 1 Of Your Worms Will Live To Tell This Story. Dont Use With Suicide Squad}
+%Credits: Skiller
+$C296A408 00000003
+$2D9F0000 408D000C
+$38800000 9083008A
+$A083008A 00000000

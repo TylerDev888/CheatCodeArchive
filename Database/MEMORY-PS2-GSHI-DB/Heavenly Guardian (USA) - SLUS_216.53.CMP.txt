@@ -1,0 +1,81 @@
+^3 = NAME: Heavenly Guardian (USA)
+^2 = GameID: SLUS-21653
+!Master Codes:
++Enable Code
+%Credits: Skiller
+$90138D88 0C04E30A
+!!
+!2 Player Mode Codes:
++P1 Inf HP
+%Credits: lee4
+$204A742C 000000F0
++P1 Invincible
+%Credits: lee4
+$2064ECF8 000000FF
++P1 Max HP
+%Credits: lee4
+$204A741C 000000F0
++P1 Max Score
+%Credits: lee4
+$20495760 05F5E0FF
++P2 Inf HP
+%Credits: lee4
+$204A7430 000000F0
++P2 Invincible
+%Credits: lee4
+$206502C0 000000FF
++P2 Max HP
+%Credits: lee4
+$204A7420 000000F0
++P2 Max Lives
+%Credits: lee4
+$00495774 00000009
++P2 Max Score
+%Credits: lee4
+$20495764 05F5E0FF
++P2 Special Max
+%Credits: lee4
+$104957B4 000003E8
++P2 Weapon Mod {<I>1:Green Snowflake Weapon 2:Red Weapon 3:Spikes Weapon 4:Way Spikes</I>}
+%Credits: lee4
+$004957BC 0000000?
+!!
+!Player 1 Codes:
++9 Lives
+%Credits: Skiller
+$00495770 00000009
++Inf Health
+%Credits: Skiller
+$201282A0 00000000
++Inf Lifes
+%Credits: Skiller
+$2012863C 00000000
++Inf Special
+%Credits: Skiller
+$20129CDC 00000000
++Max Score
+%Credits: Skiller
+$20495778 05F5E0FF
++Special Max
+%Credits: Skiller
+$104957B0 000003E8
+!!
+!Player 1 Weapons Codes:
++Add ? To Your Weapon {<I>5:Speed 6:Distince</I>}
+%Credits: Skiller
+$404957C4 00040001
+$0000000? 00000000
++Always Have Weapon {<I>1:Green Snowflake Weapon<Br>2:Red Weapon<Br>3:Spikes Weapon<Br>4:Way Spikes</I>}
+%Credits: Skiller
+$004957B8 0000000?
+!!
++Enable All Stage Select Levels (Including Unused Stages)
+%Credits: punk7890
+$206FBF30 FFFFFFFF
+$0010EBF0 000000FF
+$0010ECB8 00000001
+$0010EC88 00000009
++Replace Boss Attack With BGM Test
+%Credits: punk7890
+$0013405C 0000000F
+!!

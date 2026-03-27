@@ -1,0 +1,399 @@
+^3 = NAME: Clock Tower 3 (Ntsc-U)
+^2 = GameID: SLUS-20633
+!Master Codes:
++(M)
+%Credits: Codejunkies
+$F182452C 0182452F
++Enable Code (Must Be On)
+%Credits: Code Master
+$F1810008 0182452F
+!!
++Always Empty Panic Meter
+%Credits: Code Master
+$21940E74 00000000
+!Boss Battle Codes:
++Inf Vitality
+%Credits: Codejunkies
+$11A4C4E4 00000320
++Weak Bosses
+%Credits: Codejunkies
+$11A4CFE4 00000001
+!!
++Can't Be Grabbed
+%Credits: Code Master>floydfan
+$218FBB50 03E00008
+$218FBB54 00000000
++Can't Be Hit
+%Credits: Code Master>floydfan
+$218FC2F0 03E00008
+$218FC2F4 00000000
++Have Invisibility Band
+%Credits: Code Master
+$2193F9A8 00000003
++Have Lavender Water
+%Credits: Code Master
+$2193F9A0 00000001
++Have Sigil Stone
+%Credits: Code Master
+$2193F9A4 00000002
+!Holy Water Codes:
++Infinite Holy Water
+%Credits: Codejunkies
+$11941288 00000005
++Never Have Any Bottles Of Holy Water
+%Credits: Codejunkies
+$E0010000 31941288
+$11941288 00000000
++Never Have More Than 1 Bottle Of Holy Water
+%Credits: Codejunkies
+$E0010001 31941288
+$11941288 00000001
++Never Have More Than 2 Bottles Of Holy Water
+%Credits: Codejunkies
+$E0010002 31941288
+$11941288 00000002
++Never Have More Than 3 Bottles Of Holy Water
+%Credits: Codejunkies
+$E0010003 31941288
+$11941288 00000003
++Never Have More Than 4 Bottles Of Holy Water
+%Credits: Codejunkies
+$E0010004 31941288
+$11941288 00000004
+!!
++Infinite Binding Arrows (Boss Battles)
+%Credits: Code Master>floydfan
+$2193F790 00000002
++Infinite Health (Boss Battle)
+%Credits: Code Master
+$21A4C4E4 00000320
++Infinite Holy Water
+%Credits: InterAct
+$21941288 00000005
++Infinite Invisibility Band
+%Credits: InterAct
+$2193F9A8 00000003
+$0192E859 00000063
+!Infinite Item Codes:
++Item 1
+%Credits: Codejunkies
+$0192E829 00000063
++Item 2
+%Credits: Codejunkies
+$0192E841 00000063
++Item 3
+%Credits: Codejunkies
+$0192E859 00000063
++Item 4
+%Credits: Codejunkies
+$0192E871 00000063
++Item 5
+%Credits: Codejunkies
+$0192E889 00000063
++Item 6
+%Credits: Codejunkies
+$0192E8A1 00000063
++Item 7
+%Credits: Codejunkies
+$0192E8B9 00000063
++Item 8
+%Credits: Codejunkies
+$0192E8D1 00000063
++Item 9
+%Credits: Codejunkies
+$0192E8E9 00000063
++Item 10
+%Credits: Codejunkies
+$0192E901 00000063
++Item 11
+%Credits: Codejunkies
+$0192E919 00000063
++Item 12
+%Credits: Codejunkies
+$0192E931 00000063
+!!
++Infinite Lavender Water
+%Credits: InterAct
+$2193F9A0 00000001
+$0192E829 00000063
++Infinite Repellant Arrows
+%Credits: InterAct
+$2193F85C 00000063
+$2193F860 00000063
++Infinite Repellant Arrows (Boss Battles)
+%Credits: Code Master>floydfan
+$2193F790 00000001
++Infinite Sigil Stone
+%Credits: InterAct
+$2193F9A4 00000002
+$0192E841 00000063
++Instant Boss Death (Boss Battles)
+%Credits: Code Master
+$2187057C 24020001
+!Item Modifier Codes:
++Slot 4
+%Credits: Code Master
+$2193F9AC 000000??
++Slot 5
+%Credits: Code Master
+$2193F9B0 000000??
++Slot 6
+%Credits: Code Master
+$2193F9B4 000000??
++Slot 7
+%Credits: Code Master
+$2193F9B8 000000??
++Slot 8
+%Credits: Code Master
+$2193F9BC 000000??
++Slot 9
+%Credits: Code Master
+$2193F9C0 000000??
++Slot 10
+%Credits: Code Master
+$2193F9C4 000000??
++Slot 11
+%Credits: Code Master
+$2193F9C8 000000??
++Slot 12
+%Credits: Code Master
+$2193F9CC 000000??
+!!
+!Key Item Modifier Codes:
++Slot 1
+%Credits: Code Master
+$2193F940 000000??
++Slot 2
+%Credits: Code Master
+$2193F944 000000??
++Slot 3
+%Credits: Code Master
+$2193F948 000000??
++Slot 4
+%Credits: Code Master
+$2193F94C 000000??
++Slot 5
+%Credits: Code Master
+$2193F950 000000??
++Slot 6
+%Credits: Code Master
+$2193F954 000000??
++Slot 7
+%Credits: Code Master
+$2193F958 000000??
++Slot 8
+%Credits: Code Master
+$2193F95C 000000??
++Slot 9
+%Credits: Code Master
+$2193F960 000000??
++Slot 10
+%Credits: Code Master
+$2193F964 000000??
++Slot 11
+%Credits: Code Master
+$2193F968 000000??
++Slot 12
+%Credits: Code Master
+$2193F96C 000000??
++Slot 13
+%Credits: Code Master
+$2193F970 000000??
++Slot 14
+%Credits: Code Master
+$2193F974 000000??
++Slot 15
+%Credits: Code Master
+$2193F978 000000??
++Slot 16
+%Credits: Code Master
+$2193F97C 000000??
++Slot 17
+%Credits: Code Master
+$2193F980 000000??
++Slot 18
+%Credits: Code Master
+$2193F984 000000??
+!!
++Killers Don't Come Around Much
+%Credits: Code Master>floydfan
+$21862170 03E00008
+$21862174 00000000
++Killers Donâ€™T Follow You
+%Credits: Code Master>floydfan
+$2187E3D0 03E00008
+$2187E3D4 00000000
++Max Repellant Arrow
+%Credits: Code Master
+$2193F85C 00000063
++Max Repellant Arrow
+%Credits: Code Master
+$2193F860 00000063
++No Fear
+%Credits: Codejunkies
+$11940E76 00000000
++P1 Press L2+Down To Deactivate Walk Thru Walls
+%Credits: Code Master>floydfan
+$E002FEBF 0193E602
+$218B1A40 27BDFF30
+$218B1A44 00051880
++P1 Press L2+Up To Activate Walk Thru Walls
+%Credits: Code Master>floydfan
+$E002FEEF 0193E602
+$218B1A40 03E00008
+$218B1A44 00000000
++P1 Press R2+Down To Dectivate Killers Leave You Alone
+%Credits: Code Master>floydfan
+$D193E602 0000FDBF
+$21864194 0C61994C
++P1 Press R2+Up To Activate Killers Leave You Alone
+%Credits: Code Master>floydfan
+$D193E602 0000FDEF
+$21864194 00000000
+!Slot 12 Codes:
++Charred Skull
+%Credits: Codejunkies
+$1193F9CC 0000000F
++Daughter's Letter
+%Credits: Codejunkies
+$1193F9CC 0000000A
++Engagement Ring
+%Credits: Codejunkies
+$1193F9CC 00000005
++Film
+%Credits: Codejunkies
+$1193F9CC 00000009
++Gold Fountain Pen
+%Credits: Codejunkies
+$1193F9CC 00000006
++Half Heart Pendant
+%Credits: Codejunkies
+$1193F9CC 00000007
++Invisibility Band
+%Credits: Codejunkies
+$1193F9CC 00000003
++Lavender Water
+%Credits: Codejunkies
+$1193F9CC 00000001
++Photo Of A Child
+%Credits: Codejunkies
+$1193F9CC 0000000E
++Photo Of Mother
+%Credits: Codejunkies
+$1193F9CC 0000000C
++Release Form
+%Credits: Codejunkies
+$1193F9CC 0000000D
++Sigil Stone
+%Credits: Codejunkies
+$1193F9CC 00000002
++Spectacles
+%Credits: Codejunkies
+$1193F9CC 0000000B
++Teddy Bear
+%Credits: Codejunkies
+$1193F9CC 00000008
+!!
+!Slot 18 Codes:
++A Crest
+%Credits: Codejunkies
+$1193F984 00000026
++Card Key
+%Credits: Codejunkies
+$1193F984 00000016
++Compass Of Light
+%Credits: Codejunkies
+$1193F984 0000001E
++Compass Of Shadows
+%Credits: Codejunkies
+$1193F984 00000019
++Crowbar
+%Credits: Codejunkies
+$1193F984 00000017
++D Crest
+%Credits: Codejunkies
+$1193F984 00000024
++Dick's Desk Key
+%Credits: Codejunkies
+$1193F984 0000000B
++Dick's Room Key
+%Credits: Codejunkies
+$1193F984 00000011
++Earth Rooder Stone
+%Credits: Codejunkies
+$1193F984 0000001C
++Hexagon Wrench
+%Credits: Codejunkies
+$1193F984 0000000D
++Invitation
+%Credits: Codejunkies
+$1193F984 00000003
++Kitchen Key
+%Credits: Codejunkies
+$1193F984 0000000C
++Labeled Key A
+%Credits: Codejunkies
+$1193F984 00000020
++Labeled Key B
+%Credits: Codejunkies
+$1193F984 00000023
++Labeled Key C
+%Credits: Codejunkies
+$1193F984 00000021
++Looking Glass
+%Credits: Codejunkies
+$1193F984 00000022
++Master Key
+%Credits: Codejunkies
+$1193F984 00000004
++Matches
+%Credits: Codejunkies
+$1193F984 00000005
++May's Room Key
+%Credits: Codejunkies
+$1193F984 00000001
++N Crest
+%Credits: Codejunkies
+$1193F984 00000025
++Pliers
+%Credits: Codejunkies
+$1193F984 00000006
++Pocket Watch
+%Credits: Codejunkies
+$1193F984 00000007
++Red Drawer Key
+%Credits: Codejunkies
+$1193F984 00000002
++Rubber Gloves
+%Credits: Codejunkies
+$1193F984 00000018
++Sacred Bottle
+%Credits: Codejunkies
+$1193F984 0000000A
++Sea Rooder Stone
+%Credits: Codejunkies
+$1193F984 0000001D
++Shawl
+%Credits: Codejunkies
+$1193F984 00000013
++Sky Rooder Stone
+%Credits: Codejunkies
+$1193F984 0000001B
++Strange Mask
+%Credits: Codejunkies
+$1193F984 00000012
++Toolbox Key
+%Credits: Codejunkies
+$1193F984 0000000E
++Wardrobe Key
+%Credits: Codejunkies
+$1193F984 00000027
++Winding Keys
+%Credits: Codejunkies
+$1193F984 0000000F
++Worker's Key
+%Credits: Codejunkies
+$1193F984 00000015
+!!
+!!
+

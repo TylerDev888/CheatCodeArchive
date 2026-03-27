@@ -1,0 +1,24 @@
+^3 = NAME: Charlie's Angels
+!Masters:
++Mastercode
+%Credits: Xploder
+$F0100008 001B5707
+!!
+!Unlimited:
++Health
+%Credits: Xploder
+$201674AC 0220A823
++Lives
+%Credits: Xploder
+$2017FB30 200F0009
+$2017FB44 AE0F0030
+!!
+!Always Have:
++Angel Enhanced Time
+%Credits: Xploder
+$D020873A 00000000
+$1020873A 00001100
++Unlock All Bonus Material
+%Credits: Xploder
+$10208860 0000FFFF
+!!

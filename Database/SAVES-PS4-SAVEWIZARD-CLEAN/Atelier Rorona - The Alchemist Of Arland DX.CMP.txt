@@ -1,0 +1,3006 @@
+^2 = GameID: CUSA14023,CUSA13089,CUSA13915,CUSA14011
+^3 = NAME: Atelier Rorona: The Alchemist Of Arland DX
+^SECONDLAYER: NO
+^4 = FILE: GAMEDATA[0-9]{2}\USR-DATA.dat
+!ITEMS:
++Set Container Quality To 2000
+%Credits: Lotus
+$80010008 07000000
+$D0890100 00000000
+$92000000 000012C8
+$4A000008 42F00000
+$47CF0030 00000000
++Set Basket Quality to 100 All Items
+%Credits: Lotus
+$80010008 07000000
+$D0890100 00000000
+$92000000 00000008
+$4A000008 42F00000
+$40630030 00000000
++Add Items to Basket/Container{SET To NONE For Traits\Effects if you dont want any)
+%Credits: Lotus
+$80010008 07000000
+$D0890100 00000000
+$92000000 [TYPE]
+$28000000 00000895
+$28000004 0000[IIII<*ITEMID>]
+$28000008 [AMOUNT:3E80000:FLOAT:BIG<Quality>]
+$2800000C [TTTT<*Traits1>]
+$28000010 [TTTT<*Traits2>]
+$28000014 [TTTT<*Traits3>]
+$28000018 [TTTT<*Traits4>]
+$2800001C [TTTT<*Traits5>]
+$28000020 [EEEE<*Effects1>]
+$28000024 [EEEE<*Effects2>]
+$28000028 [EEEE<*Effects3>]
+$0800002C [AMOUNT:FFFFFFFF:HEX:BIG]
+!!
+^6 = MODS:
+[TYPE]
+00[CONTAINER]	CONTAINER 2000 Slots
+00[BASKET] BASKET 100 Slots
+[/TYPE]
+[BASKET]
+VALUE>TYPE>SLOT
+000008	Basket	Slot1
+000038	Basket	Slot2
+000068	Basket	Slot3
+000098	Basket	Slot4
+0000C8	Basket	Slot5
+0000F8	Basket	Slot6
+000128	Basket	Slot7
+000158	Basket	Slot8
+000188	Basket	Slot9
+0001B8	Basket	Slot10
+0001E8	Basket	Slot11
+000218	Basket	Slot12
+000248	Basket	Slot13
+000278	Basket	Slot14
+0002A8	Basket	Slot15
+0002D8	Basket	Slot16
+000308	Basket	Slot17
+000338	Basket	Slot18
+000368	Basket	Slot19
+000398	Basket	Slot20
+0003C8	Basket	Slot21
+0003F8	Basket	Slot22
+000428	Basket	Slot23
+000458	Basket	Slot24
+000488	Basket	Slot25
+0004B8	Basket	Slot26
+0004E8	Basket	Slot27
+000518	Basket	Slot28
+000548	Basket	Slot29
+000578	Basket	Slot30
+0005A8	Basket	Slot31
+0005D8	Basket	Slot32
+000608	Basket	Slot33
+000638	Basket	Slot34
+000668	Basket	Slot35
+000698	Basket	Slot36
+0006C8	Basket	Slot37
+0006F8	Basket	Slot38
+000728	Basket	Slot39
+000758	Basket	Slot40
+000788	Basket	Slot41
+0007B8	Basket	Slot42
+0007E8	Basket	Slot43
+000818	Basket	Slot44
+000848	Basket	Slot45
+000878	Basket	Slot46
+0008A8	Basket	Slot47
+0008D8	Basket	Slot48
+000908	Basket	Slot49
+000938	Basket	Slot50
+000968	Basket	Slot51
+000998	Basket	Slot52
+0009C8	Basket	Slot53
+0009F8	Basket	Slot54
+000A28	Basket	Slot55
+000A58	Basket	Slot56
+000A88	Basket	Slot57
+000AB8	Basket	Slot58
+000AE8	Basket	Slot59
+000B18	Basket	Slot60
+000B48	Basket	Slot61
+000B78	Basket	Slot62
+000BA8	Basket	Slot63
+000BD8	Basket	Slot64
+000C08	Basket	Slot65
+000C38	Basket	Slot66
+000C68	Basket	Slot67
+000C98	Basket	Slot68
+000CC8	Basket	Slot69
+000CF8	Basket	Slot70
+000D28	Basket	Slot71
+000D58	Basket	Slot72
+000D88	Basket	Slot73
+000DB8	Basket	Slot74
+000DE8	Basket	Slot75
+000E18	Basket	Slot76
+000E48	Basket	Slot77
+000E78	Basket	Slot78
+000EA8	Basket	Slot79
+000ED8	Basket	Slot80
+000F08	Basket	Slot81
+000F38	Basket	Slot82
+000F68	Basket	Slot83
+000F98	Basket	Slot84
+000FC8	Basket	Slot85
+000FF8	Basket	Slot86
+001028	Basket	Slot87
+001058	Basket	Slot88
+001088	Basket	Slot89
+0010B8	Basket	Slot90
+0010E8	Basket	Slot91
+001118	Basket	Slot92
+001148	Basket	Slot93
+001178	Basket	Slot94
+0011A8	Basket	Slot95
+0011D8	Basket	Slot96
+001208	Basket	Slot97
+001238	Basket	Slot98
+001268	Basket	Slot99
+001298	Basket	Slot100
+[/BASKET]
+[CONTAINER]
+VALUE>TYPE>SLOT
+0012C8	Continer	Slot1
+0012F8	Continer	Slot2
+001328	Continer	Slot3
+001358	Continer	Slot4
+001388	Continer	Slot5
+0013B8	Continer	Slot6
+0013E8	Continer	Slot7
+001418	Continer	Slot8
+001448	Continer	Slot9
+001478	Continer	Slot10
+0014A8	Continer	Slot11
+0014D8	Continer	Slot12
+001508	Continer	Slot13
+001538	Continer	Slot14
+001568	Continer	Slot15
+001598	Continer	Slot16
+0015C8	Continer	Slot17
+0015F8	Continer	Slot18
+001628	Continer	Slot19
+001658	Continer	Slot20
+001688	Continer	Slot21
+0016B8	Continer	Slot22
+0016E8	Continer	Slot23
+001718	Continer	Slot24
+001748	Continer	Slot25
+001778	Continer	Slot26
+0017A8	Continer	Slot27
+0017D8	Continer	Slot28
+001808	Continer	Slot29
+001838	Continer	Slot30
+001868	Continer	Slot31
+001898	Continer	Slot32
+0018C8	Continer	Slot33
+0018F8	Continer	Slot34
+001928	Continer	Slot35
+001958	Continer	Slot36
+001988	Continer	Slot37
+0019B8	Continer	Slot38
+0019E8	Continer	Slot39
+001A18	Continer	Slot40
+001A48	Continer	Slot41
+001A78	Continer	Slot42
+001AA8	Continer	Slot43
+001AD8	Continer	Slot44
+001B08	Continer	Slot45
+001B38	Continer	Slot46
+001B68	Continer	Slot47
+001B98	Continer	Slot48
+001BC8	Continer	Slot49
+001BF8	Continer	Slot50
+001C28	Continer	Slot51
+001C58	Continer	Slot52
+001C88	Continer	Slot53
+001CB8	Continer	Slot54
+001CE8	Continer	Slot55
+001D18	Continer	Slot56
+001D48	Continer	Slot57
+001D78	Continer	Slot58
+001DA8	Continer	Slot59
+001DD8	Continer	Slot60
+001E08	Continer	Slot61
+001E38	Continer	Slot62
+001E68	Continer	Slot63
+001E98	Continer	Slot64
+001EC8	Continer	Slot65
+001EF8	Continer	Slot66
+001F28	Continer	Slot67
+001F58	Continer	Slot68
+001F88	Continer	Slot69
+001FB8	Continer	Slot70
+001FE8	Continer	Slot71
+002018	Continer	Slot72
+002048	Continer	Slot73
+002078	Continer	Slot74
+0020A8	Continer	Slot75
+0020D8	Continer	Slot76
+002108	Continer	Slot77
+002138	Continer	Slot78
+002168	Continer	Slot79
+002198	Continer	Slot80
+0021C8	Continer	Slot81
+0021F8	Continer	Slot82
+002228	Continer	Slot83
+002258	Continer	Slot84
+002288	Continer	Slot85
+0022B8	Continer	Slot86
+0022E8	Continer	Slot87
+002318	Continer	Slot88
+002348	Continer	Slot89
+002378	Continer	Slot90
+0023A8	Continer	Slot91
+0023D8	Continer	Slot92
+002408	Continer	Slot93
+002438	Continer	Slot94
+002468	Continer	Slot95
+002498	Continer	Slot96
+0024C8	Continer	Slot97
+0024F8	Continer	Slot98
+002528	Continer	Slot99
+002558	Continer	Slot100
+002588	Continer	Slot101
+0025B8	Continer	Slot102
+0025E8	Continer	Slot103
+002618	Continer	Slot104
+002648	Continer	Slot105
+002678	Continer	Slot106
+0026A8	Continer	Slot107
+0026D8	Continer	Slot108
+002708	Continer	Slot109
+002738	Continer	Slot110
+002768	Continer	Slot111
+002798	Continer	Slot112
+0027C8	Continer	Slot113
+0027F8	Continer	Slot114
+002828	Continer	Slot115
+002858	Continer	Slot116
+002888	Continer	Slot117
+0028B8	Continer	Slot118
+0028E8	Continer	Slot119
+002918	Continer	Slot120
+002948	Continer	Slot121
+002978	Continer	Slot122
+0029A8	Continer	Slot123
+0029D8	Continer	Slot124
+002A08	Continer	Slot125
+002A38	Continer	Slot126
+002A68	Continer	Slot127
+002A98	Continer	Slot128
+002AC8	Continer	Slot129
+002AF8	Continer	Slot130
+002B28	Continer	Slot131
+002B58	Continer	Slot132
+002B88	Continer	Slot133
+002BB8	Continer	Slot134
+002BE8	Continer	Slot135
+002C18	Continer	Slot136
+002C48	Continer	Slot137
+002C78	Continer	Slot138
+002CA8	Continer	Slot139
+002CD8	Continer	Slot140
+002D08	Continer	Slot141
+002D38	Continer	Slot142
+002D68	Continer	Slot143
+002D98	Continer	Slot144
+002DC8	Continer	Slot145
+002DF8	Continer	Slot146
+002E28	Continer	Slot147
+002E58	Continer	Slot148
+002E88	Continer	Slot149
+002EB8	Continer	Slot150
+002EE8	Continer	Slot151
+002F18	Continer	Slot152
+002F48	Continer	Slot153
+002F78	Continer	Slot154
+002FA8	Continer	Slot155
+002FD8	Continer	Slot156
+003008	Continer	Slot157
+003038	Continer	Slot158
+003068	Continer	Slot159
+003098	Continer	Slot160
+0030C8	Continer	Slot161
+0030F8	Continer	Slot162
+003128	Continer	Slot163
+003158	Continer	Slot164
+003188	Continer	Slot165
+0031B8	Continer	Slot166
+0031E8	Continer	Slot167
+003218	Continer	Slot168
+003248	Continer	Slot169
+003278	Continer	Slot170
+0032A8	Continer	Slot171
+0032D8	Continer	Slot172
+003308	Continer	Slot173
+003338	Continer	Slot174
+003368	Continer	Slot175
+003398	Continer	Slot176
+0033C8	Continer	Slot177
+0033F8	Continer	Slot178
+003428	Continer	Slot179
+003458	Continer	Slot180
+003488	Continer	Slot181
+0034B8	Continer	Slot182
+0034E8	Continer	Slot183
+003518	Continer	Slot184
+003548	Continer	Slot185
+003578	Continer	Slot186
+0035A8	Continer	Slot187
+0035D8	Continer	Slot188
+003608	Continer	Slot189
+003638	Continer	Slot190
+003668	Continer	Slot191
+003698	Continer	Slot192
+0036C8	Continer	Slot193
+0036F8	Continer	Slot194
+003728	Continer	Slot195
+003758	Continer	Slot196
+003788	Continer	Slot197
+0037B8	Continer	Slot198
+0037E8	Continer	Slot199
+003818	Continer	Slot200
+003848	Continer	Slot201
+003878	Continer	Slot202
+0038A8	Continer	Slot203
+0038D8	Continer	Slot204
+003908	Continer	Slot205
+003938	Continer	Slot206
+003968	Continer	Slot207
+003998	Continer	Slot208
+0039C8	Continer	Slot209
+0039F8	Continer	Slot210
+003A28	Continer	Slot211
+003A58	Continer	Slot212
+003A88	Continer	Slot213
+003AB8	Continer	Slot214
+003AE8	Continer	Slot215
+003B18	Continer	Slot216
+003B48	Continer	Slot217
+003B78	Continer	Slot218
+003BA8	Continer	Slot219
+003BD8	Continer	Slot220
+003C08	Continer	Slot221
+003C38	Continer	Slot222
+003C68	Continer	Slot223
+003C98	Continer	Slot224
+003CC8	Continer	Slot225
+003CF8	Continer	Slot226
+003D28	Continer	Slot227
+003D58	Continer	Slot228
+003D88	Continer	Slot229
+003DB8	Continer	Slot230
+003DE8	Continer	Slot231
+003E18	Continer	Slot232
+003E48	Continer	Slot233
+003E78	Continer	Slot234
+003EA8	Continer	Slot235
+003ED8	Continer	Slot236
+003F08	Continer	Slot237
+003F38	Continer	Slot238
+003F68	Continer	Slot239
+003F98	Continer	Slot240
+003FC8	Continer	Slot241
+003FF8	Continer	Slot242
+004028	Continer	Slot243
+004058	Continer	Slot244
+004088	Continer	Slot245
+0040B8	Continer	Slot246
+0040E8	Continer	Slot247
+004118	Continer	Slot248
+004148	Continer	Slot249
+004178	Continer	Slot250
+0041A8	Continer	Slot251
+0041D8	Continer	Slot252
+004208	Continer	Slot253
+004238	Continer	Slot254
+004268	Continer	Slot255
+004298	Continer	Slot256
+0042C8	Continer	Slot257
+0042F8	Continer	Slot258
+004328	Continer	Slot259
+004358	Continer	Slot260
+004388	Continer	Slot261
+0043B8	Continer	Slot262
+0043E8	Continer	Slot263
+004418	Continer	Slot264
+004448	Continer	Slot265
+004478	Continer	Slot266
+0044A8	Continer	Slot267
+0044D8	Continer	Slot268
+004508	Continer	Slot269
+004538	Continer	Slot270
+004568	Continer	Slot271
+004598	Continer	Slot272
+0045C8	Continer	Slot273
+0045F8	Continer	Slot274
+004628	Continer	Slot275
+004658	Continer	Slot276
+004688	Continer	Slot277
+0046B8	Continer	Slot278
+0046E8	Continer	Slot279
+004718	Continer	Slot280
+004748	Continer	Slot281
+004778	Continer	Slot282
+0047A8	Continer	Slot283
+0047D8	Continer	Slot284
+004808	Continer	Slot285
+004838	Continer	Slot286
+004868	Continer	Slot287
+004898	Continer	Slot288
+0048C8	Continer	Slot289
+0048F8	Continer	Slot290
+004928	Continer	Slot291
+004958	Continer	Slot292
+004988	Continer	Slot293
+0049B8	Continer	Slot294
+0049E8	Continer	Slot295
+004A18	Continer	Slot296
+004A48	Continer	Slot297
+004A78	Continer	Slot298
+004AA8	Continer	Slot299
+004AD8	Continer	Slot300
+004B08	Continer	Slot301
+004B38	Continer	Slot302
+004B68	Continer	Slot303
+004B98	Continer	Slot304
+004BC8	Continer	Slot305
+004BF8	Continer	Slot306
+004C28	Continer	Slot307
+004C58	Continer	Slot308
+004C88	Continer	Slot309
+004CB8	Continer	Slot310
+004CE8	Continer	Slot311
+004D18	Continer	Slot312
+004D48	Continer	Slot313
+004D78	Continer	Slot314
+004DA8	Continer	Slot315
+004DD8	Continer	Slot316
+004E08	Continer	Slot317
+004E38	Continer	Slot318
+004E68	Continer	Slot319
+004E98	Continer	Slot320
+004EC8	Continer	Slot321
+004EF8	Continer	Slot322
+004F28	Continer	Slot323
+004F58	Continer	Slot324
+004F88	Continer	Slot325
+004FB8	Continer	Slot326
+004FE8	Continer	Slot327
+005018	Continer	Slot328
+005048	Continer	Slot329
+005078	Continer	Slot330
+0050A8	Continer	Slot331
+0050D8	Continer	Slot332
+005108	Continer	Slot333
+005138	Continer	Slot334
+005168	Continer	Slot335
+005198	Continer	Slot336
+0051C8	Continer	Slot337
+0051F8	Continer	Slot338
+005228	Continer	Slot339
+005258	Continer	Slot340
+005288	Continer	Slot341
+0052B8	Continer	Slot342
+0052E8	Continer	Slot343
+005318	Continer	Slot344
+005348	Continer	Slot345
+005378	Continer	Slot346
+0053A8	Continer	Slot347
+0053D8	Continer	Slot348
+005408	Continer	Slot349
+005438	Continer	Slot350
+005468	Continer	Slot351
+005498	Continer	Slot352
+0054C8	Continer	Slot353
+0054F8	Continer	Slot354
+005528	Continer	Slot355
+005558	Continer	Slot356
+005588	Continer	Slot357
+0055B8	Continer	Slot358
+0055E8	Continer	Slot359
+005618	Continer	Slot360
+005648	Continer	Slot361
+005678	Continer	Slot362
+0056A8	Continer	Slot363
+0056D8	Continer	Slot364
+005708	Continer	Slot365
+005738	Continer	Slot366
+005768	Continer	Slot367
+005798	Continer	Slot368
+0057C8	Continer	Slot369
+0057F8	Continer	Slot370
+005828	Continer	Slot371
+005858	Continer	Slot372
+005888	Continer	Slot373
+0058B8	Continer	Slot374
+0058E8	Continer	Slot375
+005918	Continer	Slot376
+005948	Continer	Slot377
+005978	Continer	Slot378
+0059A8	Continer	Slot379
+0059D8	Continer	Slot380
+005A08	Continer	Slot381
+005A38	Continer	Slot382
+005A68	Continer	Slot383
+005A98	Continer	Slot384
+005AC8	Continer	Slot385
+005AF8	Continer	Slot386
+005B28	Continer	Slot387
+005B58	Continer	Slot388
+005B88	Continer	Slot389
+005BB8	Continer	Slot390
+005BE8	Continer	Slot391
+005C18	Continer	Slot392
+005C48	Continer	Slot393
+005C78	Continer	Slot394
+005CA8	Continer	Slot395
+005CD8	Continer	Slot396
+005D08	Continer	Slot397
+005D38	Continer	Slot398
+005D68	Continer	Slot399
+005D98	Continer	Slot400
+005DC8	Continer	Slot401
+005DF8	Continer	Slot402
+005E28	Continer	Slot403
+005E58	Continer	Slot404
+005E88	Continer	Slot405
+005EB8	Continer	Slot406
+005EE8	Continer	Slot407
+005F18	Continer	Slot408
+005F48	Continer	Slot409
+005F78	Continer	Slot410
+005FA8	Continer	Slot411
+005FD8	Continer	Slot412
+006008	Continer	Slot413
+006038	Continer	Slot414
+006068	Continer	Slot415
+006098	Continer	Slot416
+0060C8	Continer	Slot417
+0060F8	Continer	Slot418
+006128	Continer	Slot419
+006158	Continer	Slot420
+006188	Continer	Slot421
+0061B8	Continer	Slot422
+0061E8	Continer	Slot423
+006218	Continer	Slot424
+006248	Continer	Slot425
+006278	Continer	Slot426
+0062A8	Continer	Slot427
+0062D8	Continer	Slot428
+006308	Continer	Slot429
+006338	Continer	Slot430
+006368	Continer	Slot431
+006398	Continer	Slot432
+0063C8	Continer	Slot433
+0063F8	Continer	Slot434
+006428	Continer	Slot435
+006458	Continer	Slot436
+006488	Continer	Slot437
+0064B8	Continer	Slot438
+0064E8	Continer	Slot439
+006518	Continer	Slot440
+006548	Continer	Slot441
+006578	Continer	Slot442
+0065A8	Continer	Slot443
+0065D8	Continer	Slot444
+006608	Continer	Slot445
+006638	Continer	Slot446
+006668	Continer	Slot447
+006698	Continer	Slot448
+0066C8	Continer	Slot449
+0066F8	Continer	Slot450
+006728	Continer	Slot451
+006758	Continer	Slot452
+006788	Continer	Slot453
+0067B8	Continer	Slot454
+0067E8	Continer	Slot455
+006818	Continer	Slot456
+006848	Continer	Slot457
+006878	Continer	Slot458
+0068A8	Continer	Slot459
+0068D8	Continer	Slot460
+006908	Continer	Slot461
+006938	Continer	Slot462
+006968	Continer	Slot463
+006998	Continer	Slot464
+0069C8	Continer	Slot465
+0069F8	Continer	Slot466
+006A28	Continer	Slot467
+006A58	Continer	Slot468
+006A88	Continer	Slot469
+006AB8	Continer	Slot470
+006AE8	Continer	Slot471
+006B18	Continer	Slot472
+006B48	Continer	Slot473
+006B78	Continer	Slot474
+006BA8	Continer	Slot475
+006BD8	Continer	Slot476
+006C08	Continer	Slot477
+006C38	Continer	Slot478
+006C68	Continer	Slot479
+006C98	Continer	Slot480
+006CC8	Continer	Slot481
+006CF8	Continer	Slot482
+006D28	Continer	Slot483
+006D58	Continer	Slot484
+006D88	Continer	Slot485
+006DB8	Continer	Slot486
+006DE8	Continer	Slot487
+006E18	Continer	Slot488
+006E48	Continer	Slot489
+006E78	Continer	Slot490
+006EA8	Continer	Slot491
+006ED8	Continer	Slot492
+006F08	Continer	Slot493
+006F38	Continer	Slot494
+006F68	Continer	Slot495
+006F98	Continer	Slot496
+006FC8	Continer	Slot497
+006FF8	Continer	Slot498
+007028	Continer	Slot499
+007058	Continer	Slot500
+007088	Continer	Slot501
+0070B8	Continer	Slot502
+0070E8	Continer	Slot503
+007118	Continer	Slot504
+007148	Continer	Slot505
+007178	Continer	Slot506
+0071A8	Continer	Slot507
+0071D8	Continer	Slot508
+007208	Continer	Slot509
+007238	Continer	Slot510
+007268	Continer	Slot511
+007298	Continer	Slot512
+0072C8	Continer	Slot513
+0072F8	Continer	Slot514
+007328	Continer	Slot515
+007358	Continer	Slot516
+007388	Continer	Slot517
+0073B8	Continer	Slot518
+0073E8	Continer	Slot519
+007418	Continer	Slot520
+007448	Continer	Slot521
+007478	Continer	Slot522
+0074A8	Continer	Slot523
+0074D8	Continer	Slot524
+007508	Continer	Slot525
+007538	Continer	Slot526
+007568	Continer	Slot527
+007598	Continer	Slot528
+0075C8	Continer	Slot529
+0075F8	Continer	Slot530
+007628	Continer	Slot531
+007658	Continer	Slot532
+007688	Continer	Slot533
+0076B8	Continer	Slot534
+0076E8	Continer	Slot535
+007718	Continer	Slot536
+007748	Continer	Slot537
+007778	Continer	Slot538
+0077A8	Continer	Slot539
+0077D8	Continer	Slot540
+007808	Continer	Slot541
+007838	Continer	Slot542
+007868	Continer	Slot543
+007898	Continer	Slot544
+0078C8	Continer	Slot545
+0078F8	Continer	Slot546
+007928	Continer	Slot547
+007958	Continer	Slot548
+007988	Continer	Slot549
+0079B8	Continer	Slot550
+0079E8	Continer	Slot551
+007A18	Continer	Slot552
+007A48	Continer	Slot553
+007A78	Continer	Slot554
+007AA8	Continer	Slot555
+007AD8	Continer	Slot556
+007B08	Continer	Slot557
+007B38	Continer	Slot558
+007B68	Continer	Slot559
+007B98	Continer	Slot560
+007BC8	Continer	Slot561
+007BF8	Continer	Slot562
+007C28	Continer	Slot563
+007C58	Continer	Slot564
+007C88	Continer	Slot565
+007CB8	Continer	Slot566
+007CE8	Continer	Slot567
+007D18	Continer	Slot568
+007D48	Continer	Slot569
+007D78	Continer	Slot570
+007DA8	Continer	Slot571
+007DD8	Continer	Slot572
+007E08	Continer	Slot573
+007E38	Continer	Slot574
+007E68	Continer	Slot575
+007E98	Continer	Slot576
+007EC8	Continer	Slot577
+007EF8	Continer	Slot578
+007F28	Continer	Slot579
+007F58	Continer	Slot580
+007F88	Continer	Slot581
+007FB8	Continer	Slot582
+007FE8	Continer	Slot583
+008018	Continer	Slot584
+008048	Continer	Slot585
+008078	Continer	Slot586
+0080A8	Continer	Slot587
+0080D8	Continer	Slot588
+008108	Continer	Slot589
+008138	Continer	Slot590
+008168	Continer	Slot591
+008198	Continer	Slot592
+0081C8	Continer	Slot593
+0081F8	Continer	Slot594
+008228	Continer	Slot595
+008258	Continer	Slot596
+008288	Continer	Slot597
+0082B8	Continer	Slot598
+0082E8	Continer	Slot599
+008318	Continer	Slot600
+008348	Continer	Slot601
+008378	Continer	Slot602
+0083A8	Continer	Slot603
+0083D8	Continer	Slot604
+008408	Continer	Slot605
+008438	Continer	Slot606
+008468	Continer	Slot607
+008498	Continer	Slot608
+0084C8	Continer	Slot609
+0084F8	Continer	Slot610
+008528	Continer	Slot611
+008558	Continer	Slot612
+008588	Continer	Slot613
+0085B8	Continer	Slot614
+0085E8	Continer	Slot615
+008618	Continer	Slot616
+008648	Continer	Slot617
+008678	Continer	Slot618
+0086A8	Continer	Slot619
+0086D8	Continer	Slot620
+008708	Continer	Slot621
+008738	Continer	Slot622
+008768	Continer	Slot623
+008798	Continer	Slot624
+0087C8	Continer	Slot625
+0087F8	Continer	Slot626
+008828	Continer	Slot627
+008858	Continer	Slot628
+008888	Continer	Slot629
+0088B8	Continer	Slot630
+0088E8	Continer	Slot631
+008918	Continer	Slot632
+008948	Continer	Slot633
+008978	Continer	Slot634
+0089A8	Continer	Slot635
+0089D8	Continer	Slot636
+008A08	Continer	Slot637
+008A38	Continer	Slot638
+008A68	Continer	Slot639
+008A98	Continer	Slot640
+008AC8	Continer	Slot641
+008AF8	Continer	Slot642
+008B28	Continer	Slot643
+008B58	Continer	Slot644
+008B88	Continer	Slot645
+008BB8	Continer	Slot646
+008BE8	Continer	Slot647
+008C18	Continer	Slot648
+008C48	Continer	Slot649
+008C78	Continer	Slot650
+008CA8	Continer	Slot651
+008CD8	Continer	Slot652
+008D08	Continer	Slot653
+008D38	Continer	Slot654
+008D68	Continer	Slot655
+008D98	Continer	Slot656
+008DC8	Continer	Slot657
+008DF8	Continer	Slot658
+008E28	Continer	Slot659
+008E58	Continer	Slot660
+008E88	Continer	Slot661
+008EB8	Continer	Slot662
+008EE8	Continer	Slot663
+008F18	Continer	Slot664
+008F48	Continer	Slot665
+008F78	Continer	Slot666
+008FA8	Continer	Slot667
+008FD8	Continer	Slot668
+009008	Continer	Slot669
+009038	Continer	Slot670
+009068	Continer	Slot671
+009098	Continer	Slot672
+0090C8	Continer	Slot673
+0090F8	Continer	Slot674
+009128	Continer	Slot675
+009158	Continer	Slot676
+009188	Continer	Slot677
+0091B8	Continer	Slot678
+0091E8	Continer	Slot679
+009218	Continer	Slot680
+009248	Continer	Slot681
+009278	Continer	Slot682
+0092A8	Continer	Slot683
+0092D8	Continer	Slot684
+009308	Continer	Slot685
+009338	Continer	Slot686
+009368	Continer	Slot687
+009398	Continer	Slot688
+0093C8	Continer	Slot689
+0093F8	Continer	Slot690
+009428	Continer	Slot691
+009458	Continer	Slot692
+009488	Continer	Slot693
+0094B8	Continer	Slot694
+0094E8	Continer	Slot695
+009518	Continer	Slot696
+009548	Continer	Slot697
+009578	Continer	Slot698
+0095A8	Continer	Slot699
+0095D8	Continer	Slot700
+009608	Continer	Slot701
+009638	Continer	Slot702
+009668	Continer	Slot703
+009698	Continer	Slot704
+0096C8	Continer	Slot705
+0096F8	Continer	Slot706
+009728	Continer	Slot707
+009758	Continer	Slot708
+009788	Continer	Slot709
+0097B8	Continer	Slot710
+0097E8	Continer	Slot711
+009818	Continer	Slot712
+009848	Continer	Slot713
+009878	Continer	Slot714
+0098A8	Continer	Slot715
+0098D8	Continer	Slot716
+009908	Continer	Slot717
+009938	Continer	Slot718
+009968	Continer	Slot719
+009998	Continer	Slot720
+0099C8	Continer	Slot721
+0099F8	Continer	Slot722
+009A28	Continer	Slot723
+009A58	Continer	Slot724
+009A88	Continer	Slot725
+009AB8	Continer	Slot726
+009AE8	Continer	Slot727
+009B18	Continer	Slot728
+009B48	Continer	Slot729
+009B78	Continer	Slot730
+009BA8	Continer	Slot731
+009BD8	Continer	Slot732
+009C08	Continer	Slot733
+009C38	Continer	Slot734
+009C68	Continer	Slot735
+009C98	Continer	Slot736
+009CC8	Continer	Slot737
+009CF8	Continer	Slot738
+009D28	Continer	Slot739
+009D58	Continer	Slot740
+009D88	Continer	Slot741
+009DB8	Continer	Slot742
+009DE8	Continer	Slot743
+009E18	Continer	Slot744
+009E48	Continer	Slot745
+009E78	Continer	Slot746
+009EA8	Continer	Slot747
+009ED8	Continer	Slot748
+009F08	Continer	Slot749
+009F38	Continer	Slot750
+009F68	Continer	Slot751
+009F98	Continer	Slot752
+009FC8	Continer	Slot753
+009FF8	Continer	Slot754
+00A028	Continer	Slot755
+00A058	Continer	Slot756
+00A088	Continer	Slot757
+00A0B8	Continer	Slot758
+00A0E8	Continer	Slot759
+00A118	Continer	Slot760
+00A148	Continer	Slot761
+00A178	Continer	Slot762
+00A1A8	Continer	Slot763
+00A1D8	Continer	Slot764
+00A208	Continer	Slot765
+00A238	Continer	Slot766
+00A268	Continer	Slot767
+00A298	Continer	Slot768
+00A2C8	Continer	Slot769
+00A2F8	Continer	Slot770
+00A328	Continer	Slot771
+00A358	Continer	Slot772
+00A388	Continer	Slot773
+00A3B8	Continer	Slot774
+00A3E8	Continer	Slot775
+00A418	Continer	Slot776
+00A448	Continer	Slot777
+00A478	Continer	Slot778
+00A4A8	Continer	Slot779
+00A4D8	Continer	Slot780
+00A508	Continer	Slot781
+00A538	Continer	Slot782
+00A568	Continer	Slot783
+00A598	Continer	Slot784
+00A5C8	Continer	Slot785
+00A5F8	Continer	Slot786
+00A628	Continer	Slot787
+00A658	Continer	Slot788
+00A688	Continer	Slot789
+00A6B8	Continer	Slot790
+00A6E8	Continer	Slot791
+00A718	Continer	Slot792
+00A748	Continer	Slot793
+00A778	Continer	Slot794
+00A7A8	Continer	Slot795
+00A7D8	Continer	Slot796
+00A808	Continer	Slot797
+00A838	Continer	Slot798
+00A868	Continer	Slot799
+00A898	Continer	Slot800
+00A8C8	Continer	Slot801
+00A8F8	Continer	Slot802
+00A928	Continer	Slot803
+00A958	Continer	Slot804
+00A988	Continer	Slot805
+00A9B8	Continer	Slot806
+00A9E8	Continer	Slot807
+00AA18	Continer	Slot808
+00AA48	Continer	Slot809
+00AA78	Continer	Slot810
+00AAA8	Continer	Slot811
+00AAD8	Continer	Slot812
+00AB08	Continer	Slot813
+00AB38	Continer	Slot814
+00AB68	Continer	Slot815
+00AB98	Continer	Slot816
+00ABC8	Continer	Slot817
+00ABF8	Continer	Slot818
+00AC28	Continer	Slot819
+00AC58	Continer	Slot820
+00AC88	Continer	Slot821
+00ACB8	Continer	Slot822
+00ACE8	Continer	Slot823
+00AD18	Continer	Slot824
+00AD48	Continer	Slot825
+00AD78	Continer	Slot826
+00ADA8	Continer	Slot827
+00ADD8	Continer	Slot828
+00AE08	Continer	Slot829
+00AE38	Continer	Slot830
+00AE68	Continer	Slot831
+00AE98	Continer	Slot832
+00AEC8	Continer	Slot833
+00AEF8	Continer	Slot834
+00AF28	Continer	Slot835
+00AF58	Continer	Slot836
+00AF88	Continer	Slot837
+00AFB8	Continer	Slot838
+00AFE8	Continer	Slot839
+00B018	Continer	Slot840
+00B048	Continer	Slot841
+00B078	Continer	Slot842
+00B0A8	Continer	Slot843
+00B0D8	Continer	Slot844
+00B108	Continer	Slot845
+00B138	Continer	Slot846
+00B168	Continer	Slot847
+00B198	Continer	Slot848
+00B1C8	Continer	Slot849
+00B1F8	Continer	Slot850
+00B228	Continer	Slot851
+00B258	Continer	Slot852
+00B288	Continer	Slot853
+00B2B8	Continer	Slot854
+00B2E8	Continer	Slot855
+00B318	Continer	Slot856
+00B348	Continer	Slot857
+00B378	Continer	Slot858
+00B3A8	Continer	Slot859
+00B3D8	Continer	Slot860
+00B408	Continer	Slot861
+00B438	Continer	Slot862
+00B468	Continer	Slot863
+00B498	Continer	Slot864
+00B4C8	Continer	Slot865
+00B4F8	Continer	Slot866
+00B528	Continer	Slot867
+00B558	Continer	Slot868
+00B588	Continer	Slot869
+00B5B8	Continer	Slot870
+00B5E8	Continer	Slot871
+00B618	Continer	Slot872
+00B648	Continer	Slot873
+00B678	Continer	Slot874
+00B6A8	Continer	Slot875
+00B6D8	Continer	Slot876
+00B708	Continer	Slot877
+00B738	Continer	Slot878
+00B768	Continer	Slot879
+00B798	Continer	Slot880
+00B7C8	Continer	Slot881
+00B7F8	Continer	Slot882
+00B828	Continer	Slot883
+00B858	Continer	Slot884
+00B888	Continer	Slot885
+00B8B8	Continer	Slot886
+00B8E8	Continer	Slot887
+00B918	Continer	Slot888
+00B948	Continer	Slot889
+00B978	Continer	Slot890
+00B9A8	Continer	Slot891
+00B9D8	Continer	Slot892
+00BA08	Continer	Slot893
+00BA38	Continer	Slot894
+00BA68	Continer	Slot895
+00BA98	Continer	Slot896
+00BAC8	Continer	Slot897
+00BAF8	Continer	Slot898
+00BB28	Continer	Slot899
+00BB58	Continer	Slot900
+00BB88	Continer	Slot901
+00BBB8	Continer	Slot902
+00BBE8	Continer	Slot903
+00BC18	Continer	Slot904
+00BC48	Continer	Slot905
+00BC78	Continer	Slot906
+00BCA8	Continer	Slot907
+00BCD8	Continer	Slot908
+00BD08	Continer	Slot909
+00BD38	Continer	Slot910
+00BD68	Continer	Slot911
+00BD98	Continer	Slot912
+00BDC8	Continer	Slot913
+00BDF8	Continer	Slot914
+00BE28	Continer	Slot915
+00BE58	Continer	Slot916
+00BE88	Continer	Slot917
+00BEB8	Continer	Slot918
+00BEE8	Continer	Slot919
+00BF18	Continer	Slot920
+00BF48	Continer	Slot921
+00BF78	Continer	Slot922
+00BFA8	Continer	Slot923
+00BFD8	Continer	Slot924
+00C008	Continer	Slot925
+00C038	Continer	Slot926
+00C068	Continer	Slot927
+00C098	Continer	Slot928
+00C0C8	Continer	Slot929
+00C0F8	Continer	Slot930
+00C128	Continer	Slot931
+00C158	Continer	Slot932
+00C188	Continer	Slot933
+00C1B8	Continer	Slot934
+00C1E8	Continer	Slot935
+00C218	Continer	Slot936
+00C248	Continer	Slot937
+00C278	Continer	Slot938
+00C2A8	Continer	Slot939
+00C2D8	Continer	Slot940
+00C308	Continer	Slot941
+00C338	Continer	Slot942
+00C368	Continer	Slot943
+00C398	Continer	Slot944
+00C3C8	Continer	Slot945
+00C3F8	Continer	Slot946
+00C428	Continer	Slot947
+00C458	Continer	Slot948
+00C488	Continer	Slot949
+00C4B8	Continer	Slot950
+00C4E8	Continer	Slot951
+00C518	Continer	Slot952
+00C548	Continer	Slot953
+00C578	Continer	Slot954
+00C5A8	Continer	Slot955
+00C5D8	Continer	Slot956
+00C608	Continer	Slot957
+00C638	Continer	Slot958
+00C668	Continer	Slot959
+00C698	Continer	Slot960
+00C6C8	Continer	Slot961
+00C6F8	Continer	Slot962
+00C728	Continer	Slot963
+00C758	Continer	Slot964
+00C788	Continer	Slot965
+00C7B8	Continer	Slot966
+00C7E8	Continer	Slot967
+00C818	Continer	Slot968
+00C848	Continer	Slot969
+00C878	Continer	Slot970
+00C8A8	Continer	Slot971
+00C8D8	Continer	Slot972
+00C908	Continer	Slot973
+00C938	Continer	Slot974
+00C968	Continer	Slot975
+00C998	Continer	Slot976
+00C9C8	Continer	Slot977
+00C9F8	Continer	Slot978
+00CA28	Continer	Slot979
+00CA58	Continer	Slot980
+00CA88	Continer	Slot981
+00CAB8	Continer	Slot982
+00CAE8	Continer	Slot983
+00CB18	Continer	Slot984
+00CB48	Continer	Slot985
+00CB78	Continer	Slot986
+00CBA8	Continer	Slot987
+00CBD8	Continer	Slot988
+00CC08	Continer	Slot989
+00CC38	Continer	Slot990
+00CC68	Continer	Slot991
+00CC98	Continer	Slot992
+00CCC8	Continer	Slot993
+00CCF8	Continer	Slot994
+00CD28	Continer	Slot995
+00CD58	Continer	Slot996
+00CD88	Continer	Slot997
+00CDB8	Continer	Slot998
+00CDE8	Continer	Slot999
+00CE18	Continer	Slot1000
+00CE48	Continer	Slot1001
+00CE78	Continer	Slot1002
+00CEA8	Continer	Slot1003
+00CED8	Continer	Slot1004
+00CF08	Continer	Slot1005
+00CF38	Continer	Slot1006
+00CF68	Continer	Slot1007
+00CF98	Continer	Slot1008
+00CFC8	Continer	Slot1009
+00CFF8	Continer	Slot1010
+00D028	Continer	Slot1011
+00D058	Continer	Slot1012
+00D088	Continer	Slot1013
+00D0B8	Continer	Slot1014
+00D0E8	Continer	Slot1015
+00D118	Continer	Slot1016
+00D148	Continer	Slot1017
+00D178	Continer	Slot1018
+00D1A8	Continer	Slot1019
+00D1D8	Continer	Slot1020
+00D208	Continer	Slot1021
+00D238	Continer	Slot1022
+00D268	Continer	Slot1023
+00D298	Continer	Slot1024
+00D2C8	Continer	Slot1025
+00D2F8	Continer	Slot1026
+00D328	Continer	Slot1027
+00D358	Continer	Slot1028
+00D388	Continer	Slot1029
+00D3B8	Continer	Slot1030
+00D3E8	Continer	Slot1031
+00D418	Continer	Slot1032
+00D448	Continer	Slot1033
+00D478	Continer	Slot1034
+00D4A8	Continer	Slot1035
+00D4D8	Continer	Slot1036
+00D508	Continer	Slot1037
+00D538	Continer	Slot1038
+00D568	Continer	Slot1039
+00D598	Continer	Slot1040
+00D5C8	Continer	Slot1041
+00D5F8	Continer	Slot1042
+00D628	Continer	Slot1043
+00D658	Continer	Slot1044
+00D688	Continer	Slot1045
+00D6B8	Continer	Slot1046
+00D6E8	Continer	Slot1047
+00D718	Continer	Slot1048
+00D748	Continer	Slot1049
+00D778	Continer	Slot1050
+00D7A8	Continer	Slot1051
+00D7D8	Continer	Slot1052
+00D808	Continer	Slot1053
+00D838	Continer	Slot1054
+00D868	Continer	Slot1055
+00D898	Continer	Slot1056
+00D8C8	Continer	Slot1057
+00D8F8	Continer	Slot1058
+00D928	Continer	Slot1059
+00D958	Continer	Slot1060
+00D988	Continer	Slot1061
+00D9B8	Continer	Slot1062
+00D9E8	Continer	Slot1063
+00DA18	Continer	Slot1064
+00DA48	Continer	Slot1065
+00DA78	Continer	Slot1066
+00DAA8	Continer	Slot1067
+00DAD8	Continer	Slot1068
+00DB08	Continer	Slot1069
+00DB38	Continer	Slot1070
+00DB68	Continer	Slot1071
+00DB98	Continer	Slot1072
+00DBC8	Continer	Slot1073
+00DBF8	Continer	Slot1074
+00DC28	Continer	Slot1075
+00DC58	Continer	Slot1076
+00DC88	Continer	Slot1077
+00DCB8	Continer	Slot1078
+00DCE8	Continer	Slot1079
+00DD18	Continer	Slot1080
+00DD48	Continer	Slot1081
+00DD78	Continer	Slot1082
+00DDA8	Continer	Slot1083
+00DDD8	Continer	Slot1084
+00DE08	Continer	Slot1085
+00DE38	Continer	Slot1086
+00DE68	Continer	Slot1087
+00DE98	Continer	Slot1088
+00DEC8	Continer	Slot1089
+00DEF8	Continer	Slot1090
+00DF28	Continer	Slot1091
+00DF58	Continer	Slot1092
+00DF88	Continer	Slot1093
+00DFB8	Continer	Slot1094
+00DFE8	Continer	Slot1095
+00E018	Continer	Slot1096
+00E048	Continer	Slot1097
+00E078	Continer	Slot1098
+00E0A8	Continer	Slot1099
+00E0D8	Continer	Slot1100
+00E108	Continer	Slot1101
+00E138	Continer	Slot1102
+00E168	Continer	Slot1103
+00E198	Continer	Slot1104
+00E1C8	Continer	Slot1105
+00E1F8	Continer	Slot1106
+00E228	Continer	Slot1107
+00E258	Continer	Slot1108
+00E288	Continer	Slot1109
+00E2B8	Continer	Slot1110
+00E2E8	Continer	Slot1111
+00E318	Continer	Slot1112
+00E348	Continer	Slot1113
+00E378	Continer	Slot1114
+00E3A8	Continer	Slot1115
+00E3D8	Continer	Slot1116
+00E408	Continer	Slot1117
+00E438	Continer	Slot1118
+00E468	Continer	Slot1119
+00E498	Continer	Slot1120
+00E4C8	Continer	Slot1121
+00E4F8	Continer	Slot1122
+00E528	Continer	Slot1123
+00E558	Continer	Slot1124
+00E588	Continer	Slot1125
+00E5B8	Continer	Slot1126
+00E5E8	Continer	Slot1127
+00E618	Continer	Slot1128
+00E648	Continer	Slot1129
+00E678	Continer	Slot1130
+00E6A8	Continer	Slot1131
+00E6D8	Continer	Slot1132
+00E708	Continer	Slot1133
+00E738	Continer	Slot1134
+00E768	Continer	Slot1135
+00E798	Continer	Slot1136
+00E7C8	Continer	Slot1137
+00E7F8	Continer	Slot1138
+00E828	Continer	Slot1139
+00E858	Continer	Slot1140
+00E888	Continer	Slot1141
+00E8B8	Continer	Slot1142
+00E8E8	Continer	Slot1143
+00E918	Continer	Slot1144
+00E948	Continer	Slot1145
+00E978	Continer	Slot1146
+00E9A8	Continer	Slot1147
+00E9D8	Continer	Slot1148
+00EA08	Continer	Slot1149
+00EA38	Continer	Slot1150
+00EA68	Continer	Slot1151
+00EA98	Continer	Slot1152
+00EAC8	Continer	Slot1153
+00EAF8	Continer	Slot1154
+00EB28	Continer	Slot1155
+00EB58	Continer	Slot1156
+00EB88	Continer	Slot1157
+00EBB8	Continer	Slot1158
+00EBE8	Continer	Slot1159
+00EC18	Continer	Slot1160
+00EC48	Continer	Slot1161
+00EC78	Continer	Slot1162
+00ECA8	Continer	Slot1163
+00ECD8	Continer	Slot1164
+00ED08	Continer	Slot1165
+00ED38	Continer	Slot1166
+00ED68	Continer	Slot1167
+00ED98	Continer	Slot1168
+00EDC8	Continer	Slot1169
+00EDF8	Continer	Slot1170
+00EE28	Continer	Slot1171
+00EE58	Continer	Slot1172
+00EE88	Continer	Slot1173
+00EEB8	Continer	Slot1174
+00EEE8	Continer	Slot1175
+00EF18	Continer	Slot1176
+00EF48	Continer	Slot1177
+00EF78	Continer	Slot1178
+00EFA8	Continer	Slot1179
+00EFD8	Continer	Slot1180
+00F008	Continer	Slot1181
+00F038	Continer	Slot1182
+00F068	Continer	Slot1183
+00F098	Continer	Slot1184
+00F0C8	Continer	Slot1185
+00F0F8	Continer	Slot1186
+00F128	Continer	Slot1187
+00F158	Continer	Slot1188
+00F188	Continer	Slot1189
+00F1B8	Continer	Slot1190
+00F1E8	Continer	Slot1191
+00F218	Continer	Slot1192
+00F248	Continer	Slot1193
+00F278	Continer	Slot1194
+00F2A8	Continer	Slot1195
+00F2D8	Continer	Slot1196
+00F308	Continer	Slot1197
+00F338	Continer	Slot1198
+00F368	Continer	Slot1199
+00F398	Continer	Slot1200
+00F3C8	Continer	Slot1201
+00F3F8	Continer	Slot1202
+00F428	Continer	Slot1203
+00F458	Continer	Slot1204
+00F488	Continer	Slot1205
+00F4B8	Continer	Slot1206
+00F4E8	Continer	Slot1207
+00F518	Continer	Slot1208
+00F548	Continer	Slot1209
+00F578	Continer	Slot1210
+00F5A8	Continer	Slot1211
+00F5D8	Continer	Slot1212
+00F608	Continer	Slot1213
+00F638	Continer	Slot1214
+00F668	Continer	Slot1215
+00F698	Continer	Slot1216
+00F6C8	Continer	Slot1217
+00F6F8	Continer	Slot1218
+00F728	Continer	Slot1219
+00F758	Continer	Slot1220
+00F788	Continer	Slot1221
+00F7B8	Continer	Slot1222
+00F7E8	Continer	Slot1223
+00F818	Continer	Slot1224
+00F848	Continer	Slot1225
+00F878	Continer	Slot1226
+00F8A8	Continer	Slot1227
+00F8D8	Continer	Slot1228
+00F908	Continer	Slot1229
+00F938	Continer	Slot1230
+00F968	Continer	Slot1231
+00F998	Continer	Slot1232
+00F9C8	Continer	Slot1233
+00F9F8	Continer	Slot1234
+00FA28	Continer	Slot1235
+00FA58	Continer	Slot1236
+00FA88	Continer	Slot1237
+00FAB8	Continer	Slot1238
+00FAE8	Continer	Slot1239
+00FB18	Continer	Slot1240
+00FB48	Continer	Slot1241
+00FB78	Continer	Slot1242
+00FBA8	Continer	Slot1243
+00FBD8	Continer	Slot1244
+00FC08	Continer	Slot1245
+00FC38	Continer	Slot1246
+00FC68	Continer	Slot1247
+00FC98	Continer	Slot1248
+00FCC8	Continer	Slot1249
+00FCF8	Continer	Slot1250
+00FD28	Continer	Slot1251
+00FD58	Continer	Slot1252
+00FD88	Continer	Slot1253
+00FDB8	Continer	Slot1254
+00FDE8	Continer	Slot1255
+00FE18	Continer	Slot1256
+00FE48	Continer	Slot1257
+00FE78	Continer	Slot1258
+00FEA8	Continer	Slot1259
+00FED8	Continer	Slot1260
+00FF08	Continer	Slot1261
+00FF38	Continer	Slot1262
+00FF68	Continer	Slot1263
+00FF98	Continer	Slot1264
+00FFC8	Continer	Slot1265
+00FFF8	Continer	Slot1266
+010028	Continer	Slot1267
+010058	Continer	Slot1268
+010088	Continer	Slot1269
+0100B8	Continer	Slot1270
+0100E8	Continer	Slot1271
+010118	Continer	Slot1272
+010148	Continer	Slot1273
+010178	Continer	Slot1274
+0101A8	Continer	Slot1275
+0101D8	Continer	Slot1276
+010208	Continer	Slot1277
+010238	Continer	Slot1278
+010268	Continer	Slot1279
+010298	Continer	Slot1280
+0102C8	Continer	Slot1281
+0102F8	Continer	Slot1282
+010328	Continer	Slot1283
+010358	Continer	Slot1284
+010388	Continer	Slot1285
+0103B8	Continer	Slot1286
+0103E8	Continer	Slot1287
+010418	Continer	Slot1288
+010448	Continer	Slot1289
+010478	Continer	Slot1290
+0104A8	Continer	Slot1291
+0104D8	Continer	Slot1292
+010508	Continer	Slot1293
+010538	Continer	Slot1294
+010568	Continer	Slot1295
+010598	Continer	Slot1296
+0105C8	Continer	Slot1297
+0105F8	Continer	Slot1298
+010628	Continer	Slot1299
+010658	Continer	Slot1300
+010688	Continer	Slot1301
+0106B8	Continer	Slot1302
+0106E8	Continer	Slot1303
+010718	Continer	Slot1304
+010748	Continer	Slot1305
+010778	Continer	Slot1306
+0107A8	Continer	Slot1307
+0107D8	Continer	Slot1308
+010808	Continer	Slot1309
+010838	Continer	Slot1310
+010868	Continer	Slot1311
+010898	Continer	Slot1312
+0108C8	Continer	Slot1313
+0108F8	Continer	Slot1314
+010928	Continer	Slot1315
+010958	Continer	Slot1316
+010988	Continer	Slot1317
+0109B8	Continer	Slot1318
+0109E8	Continer	Slot1319
+010A18	Continer	Slot1320
+010A48	Continer	Slot1321
+010A78	Continer	Slot1322
+010AA8	Continer	Slot1323
+010AD8	Continer	Slot1324
+010B08	Continer	Slot1325
+010B38	Continer	Slot1326
+010B68	Continer	Slot1327
+010B98	Continer	Slot1328
+010BC8	Continer	Slot1329
+010BF8	Continer	Slot1330
+010C28	Continer	Slot1331
+010C58	Continer	Slot1332
+010C88	Continer	Slot1333
+010CB8	Continer	Slot1334
+010CE8	Continer	Slot1335
+010D18	Continer	Slot1336
+010D48	Continer	Slot1337
+010D78	Continer	Slot1338
+010DA8	Continer	Slot1339
+010DD8	Continer	Slot1340
+010E08	Continer	Slot1341
+010E38	Continer	Slot1342
+010E68	Continer	Slot1343
+010E98	Continer	Slot1344
+010EC8	Continer	Slot1345
+010EF8	Continer	Slot1346
+010F28	Continer	Slot1347
+010F58	Continer	Slot1348
+010F88	Continer	Slot1349
+010FB8	Continer	Slot1350
+010FE8	Continer	Slot1351
+011018	Continer	Slot1352
+011048	Continer	Slot1353
+011078	Continer	Slot1354
+0110A8	Continer	Slot1355
+0110D8	Continer	Slot1356
+011108	Continer	Slot1357
+011138	Continer	Slot1358
+011168	Continer	Slot1359
+011198	Continer	Slot1360
+0111C8	Continer	Slot1361
+0111F8	Continer	Slot1362
+011228	Continer	Slot1363
+011258	Continer	Slot1364
+011288	Continer	Slot1365
+0112B8	Continer	Slot1366
+0112E8	Continer	Slot1367
+011318	Continer	Slot1368
+011348	Continer	Slot1369
+011378	Continer	Slot1370
+0113A8	Continer	Slot1371
+0113D8	Continer	Slot1372
+011408	Continer	Slot1373
+011438	Continer	Slot1374
+011468	Continer	Slot1375
+011498	Continer	Slot1376
+0114C8	Continer	Slot1377
+0114F8	Continer	Slot1378
+011528	Continer	Slot1379
+011558	Continer	Slot1380
+011588	Continer	Slot1381
+0115B8	Continer	Slot1382
+0115E8	Continer	Slot1383
+011618	Continer	Slot1384
+011648	Continer	Slot1385
+011678	Continer	Slot1386
+0116A8	Continer	Slot1387
+0116D8	Continer	Slot1388
+011708	Continer	Slot1389
+011738	Continer	Slot1390
+011768	Continer	Slot1391
+011798	Continer	Slot1392
+0117C8	Continer	Slot1393
+0117F8	Continer	Slot1394
+011828	Continer	Slot1395
+011858	Continer	Slot1396
+011888	Continer	Slot1397
+0118B8	Continer	Slot1398
+0118E8	Continer	Slot1399
+011918	Continer	Slot1400
+011948	Continer	Slot1401
+011978	Continer	Slot1402
+0119A8	Continer	Slot1403
+0119D8	Continer	Slot1404
+011A08	Continer	Slot1405
+011A38	Continer	Slot1406
+011A68	Continer	Slot1407
+011A98	Continer	Slot1408
+011AC8	Continer	Slot1409
+011AF8	Continer	Slot1410
+011B28	Continer	Slot1411
+011B58	Continer	Slot1412
+011B88	Continer	Slot1413
+011BB8	Continer	Slot1414
+011BE8	Continer	Slot1415
+011C18	Continer	Slot1416
+011C48	Continer	Slot1417
+011C78	Continer	Slot1418
+011CA8	Continer	Slot1419
+011CD8	Continer	Slot1420
+011D08	Continer	Slot1421
+011D38	Continer	Slot1422
+011D68	Continer	Slot1423
+011D98	Continer	Slot1424
+011DC8	Continer	Slot1425
+011DF8	Continer	Slot1426
+011E28	Continer	Slot1427
+011E58	Continer	Slot1428
+011E88	Continer	Slot1429
+011EB8	Continer	Slot1430
+011EE8	Continer	Slot1431
+011F18	Continer	Slot1432
+011F48	Continer	Slot1433
+011F78	Continer	Slot1434
+011FA8	Continer	Slot1435
+011FD8	Continer	Slot1436
+012008	Continer	Slot1437
+012038	Continer	Slot1438
+012068	Continer	Slot1439
+012098	Continer	Slot1440
+0120C8	Continer	Slot1441
+0120F8	Continer	Slot1442
+012128	Continer	Slot1443
+012158	Continer	Slot1444
+012188	Continer	Slot1445
+0121B8	Continer	Slot1446
+0121E8	Continer	Slot1447
+012218	Continer	Slot1448
+012248	Continer	Slot1449
+012278	Continer	Slot1450
+0122A8	Continer	Slot1451
+0122D8	Continer	Slot1452
+012308	Continer	Slot1453
+012338	Continer	Slot1454
+012368	Continer	Slot1455
+012398	Continer	Slot1456
+0123C8	Continer	Slot1457
+0123F8	Continer	Slot1458
+012428	Continer	Slot1459
+012458	Continer	Slot1460
+012488	Continer	Slot1461
+0124B8	Continer	Slot1462
+0124E8	Continer	Slot1463
+012518	Continer	Slot1464
+012548	Continer	Slot1465
+012578	Continer	Slot1466
+0125A8	Continer	Slot1467
+0125D8	Continer	Slot1468
+012608	Continer	Slot1469
+012638	Continer	Slot1470
+012668	Continer	Slot1471
+012698	Continer	Slot1472
+0126C8	Continer	Slot1473
+0126F8	Continer	Slot1474
+012728	Continer	Slot1475
+012758	Continer	Slot1476
+012788	Continer	Slot1477
+0127B8	Continer	Slot1478
+0127E8	Continer	Slot1479
+012818	Continer	Slot1480
+012848	Continer	Slot1481
+012878	Continer	Slot1482
+0128A8	Continer	Slot1483
+0128D8	Continer	Slot1484
+012908	Continer	Slot1485
+012938	Continer	Slot1486
+012968	Continer	Slot1487
+012998	Continer	Slot1488
+0129C8	Continer	Slot1489
+0129F8	Continer	Slot1490
+012A28	Continer	Slot1491
+012A58	Continer	Slot1492
+012A88	Continer	Slot1493
+012AB8	Continer	Slot1494
+012AE8	Continer	Slot1495
+012B18	Continer	Slot1496
+012B48	Continer	Slot1497
+012B78	Continer	Slot1498
+012BA8	Continer	Slot1499
+012BD8	Continer	Slot1500
+012C08	Continer	Slot1501
+012C38	Continer	Slot1502
+012C68	Continer	Slot1503
+012C98	Continer	Slot1504
+012CC8	Continer	Slot1505
+012CF8	Continer	Slot1506
+012D28	Continer	Slot1507
+012D58	Continer	Slot1508
+012D88	Continer	Slot1509
+012DB8	Continer	Slot1510
+012DE8	Continer	Slot1511
+012E18	Continer	Slot1512
+012E48	Continer	Slot1513
+012E78	Continer	Slot1514
+012EA8	Continer	Slot1515
+012ED8	Continer	Slot1516
+012F08	Continer	Slot1517
+012F38	Continer	Slot1518
+012F68	Continer	Slot1519
+012F98	Continer	Slot1520
+012FC8	Continer	Slot1521
+012FF8	Continer	Slot1522
+013028	Continer	Slot1523
+013058	Continer	Slot1524
+013088	Continer	Slot1525
+0130B8	Continer	Slot1526
+0130E8	Continer	Slot1527
+013118	Continer	Slot1528
+013148	Continer	Slot1529
+013178	Continer	Slot1530
+0131A8	Continer	Slot1531
+0131D8	Continer	Slot1532
+013208	Continer	Slot1533
+013238	Continer	Slot1534
+013268	Continer	Slot1535
+013298	Continer	Slot1536
+0132C8	Continer	Slot1537
+0132F8	Continer	Slot1538
+013328	Continer	Slot1539
+013358	Continer	Slot1540
+013388	Continer	Slot1541
+0133B8	Continer	Slot1542
+0133E8	Continer	Slot1543
+013418	Continer	Slot1544
+013448	Continer	Slot1545
+013478	Continer	Slot1546
+0134A8	Continer	Slot1547
+0134D8	Continer	Slot1548
+013508	Continer	Slot1549
+013538	Continer	Slot1550
+013568	Continer	Slot1551
+013598	Continer	Slot1552
+0135C8	Continer	Slot1553
+0135F8	Continer	Slot1554
+013628	Continer	Slot1555
+013658	Continer	Slot1556
+013688	Continer	Slot1557
+0136B8	Continer	Slot1558
+0136E8	Continer	Slot1559
+013718	Continer	Slot1560
+013748	Continer	Slot1561
+013778	Continer	Slot1562
+0137A8	Continer	Slot1563
+0137D8	Continer	Slot1564
+013808	Continer	Slot1565
+013838	Continer	Slot1566
+013868	Continer	Slot1567
+013898	Continer	Slot1568
+0138C8	Continer	Slot1569
+0138F8	Continer	Slot1570
+013928	Continer	Slot1571
+013958	Continer	Slot1572
+013988	Continer	Slot1573
+0139B8	Continer	Slot1574
+0139E8	Continer	Slot1575
+013A18	Continer	Slot1576
+013A48	Continer	Slot1577
+013A78	Continer	Slot1578
+013AA8	Continer	Slot1579
+013AD8	Continer	Slot1580
+013B08	Continer	Slot1581
+013B38	Continer	Slot1582
+013B68	Continer	Slot1583
+013B98	Continer	Slot1584
+013BC8	Continer	Slot1585
+013BF8	Continer	Slot1586
+013C28	Continer	Slot1587
+013C58	Continer	Slot1588
+013C88	Continer	Slot1589
+013CB8	Continer	Slot1590
+013CE8	Continer	Slot1591
+013D18	Continer	Slot1592
+013D48	Continer	Slot1593
+013D78	Continer	Slot1594
+013DA8	Continer	Slot1595
+013DD8	Continer	Slot1596
+013E08	Continer	Slot1597
+013E38	Continer	Slot1598
+013E68	Continer	Slot1599
+013E98	Continer	Slot1600
+013EC8	Continer	Slot1601
+013EF8	Continer	Slot1602
+013F28	Continer	Slot1603
+013F58	Continer	Slot1604
+013F88	Continer	Slot1605
+013FB8	Continer	Slot1606
+013FE8	Continer	Slot1607
+014018	Continer	Slot1608
+014048	Continer	Slot1609
+014078	Continer	Slot1610
+0140A8	Continer	Slot1611
+0140D8	Continer	Slot1612
+014108	Continer	Slot1613
+014138	Continer	Slot1614
+014168	Continer	Slot1615
+014198	Continer	Slot1616
+0141C8	Continer	Slot1617
+0141F8	Continer	Slot1618
+014228	Continer	Slot1619
+014258	Continer	Slot1620
+014288	Continer	Slot1621
+0142B8	Continer	Slot1622
+0142E8	Continer	Slot1623
+014318	Continer	Slot1624
+014348	Continer	Slot1625
+014378	Continer	Slot1626
+0143A8	Continer	Slot1627
+0143D8	Continer	Slot1628
+014408	Continer	Slot1629
+014438	Continer	Slot1630
+014468	Continer	Slot1631
+014498	Continer	Slot1632
+0144C8	Continer	Slot1633
+0144F8	Continer	Slot1634
+014528	Continer	Slot1635
+014558	Continer	Slot1636
+014588	Continer	Slot1637
+0145B8	Continer	Slot1638
+0145E8	Continer	Slot1639
+014618	Continer	Slot1640
+014648	Continer	Slot1641
+014678	Continer	Slot1642
+0146A8	Continer	Slot1643
+0146D8	Continer	Slot1644
+014708	Continer	Slot1645
+014738	Continer	Slot1646
+014768	Continer	Slot1647
+014798	Continer	Slot1648
+0147C8	Continer	Slot1649
+0147F8	Continer	Slot1650
+014828	Continer	Slot1651
+014858	Continer	Slot1652
+014888	Continer	Slot1653
+0148B8	Continer	Slot1654
+0148E8	Continer	Slot1655
+014918	Continer	Slot1656
+014948	Continer	Slot1657
+014978	Continer	Slot1658
+0149A8	Continer	Slot1659
+0149D8	Continer	Slot1660
+014A08	Continer	Slot1661
+014A38	Continer	Slot1662
+014A68	Continer	Slot1663
+014A98	Continer	Slot1664
+014AC8	Continer	Slot1665
+014AF8	Continer	Slot1666
+014B28	Continer	Slot1667
+014B58	Continer	Slot1668
+014B88	Continer	Slot1669
+014BB8	Continer	Slot1670
+014BE8	Continer	Slot1671
+014C18	Continer	Slot1672
+014C48	Continer	Slot1673
+014C78	Continer	Slot1674
+014CA8	Continer	Slot1675
+014CD8	Continer	Slot1676
+014D08	Continer	Slot1677
+014D38	Continer	Slot1678
+014D68	Continer	Slot1679
+014D98	Continer	Slot1680
+014DC8	Continer	Slot1681
+014DF8	Continer	Slot1682
+014E28	Continer	Slot1683
+014E58	Continer	Slot1684
+014E88	Continer	Slot1685
+014EB8	Continer	Slot1686
+014EE8	Continer	Slot1687
+014F18	Continer	Slot1688
+014F48	Continer	Slot1689
+014F78	Continer	Slot1690
+014FA8	Continer	Slot1691
+014FD8	Continer	Slot1692
+015008	Continer	Slot1693
+015038	Continer	Slot1694
+015068	Continer	Slot1695
+015098	Continer	Slot1696
+0150C8	Continer	Slot1697
+0150F8	Continer	Slot1698
+015128	Continer	Slot1699
+015158	Continer	Slot1700
+015188	Continer	Slot1701
+0151B8	Continer	Slot1702
+0151E8	Continer	Slot1703
+015218	Continer	Slot1704
+015248	Continer	Slot1705
+015278	Continer	Slot1706
+0152A8	Continer	Slot1707
+0152D8	Continer	Slot1708
+015308	Continer	Slot1709
+015338	Continer	Slot1710
+015368	Continer	Slot1711
+015398	Continer	Slot1712
+0153C8	Continer	Slot1713
+0153F8	Continer	Slot1714
+015428	Continer	Slot1715
+015458	Continer	Slot1716
+015488	Continer	Slot1717
+0154B8	Continer	Slot1718
+0154E8	Continer	Slot1719
+015518	Continer	Slot1720
+015548	Continer	Slot1721
+015578	Continer	Slot1722
+0155A8	Continer	Slot1723
+0155D8	Continer	Slot1724
+015608	Continer	Slot1725
+015638	Continer	Slot1726
+015668	Continer	Slot1727
+015698	Continer	Slot1728
+0156C8	Continer	Slot1729
+0156F8	Continer	Slot1730
+015728	Continer	Slot1731
+015758	Continer	Slot1732
+015788	Continer	Slot1733
+0157B8	Continer	Slot1734
+0157E8	Continer	Slot1735
+015818	Continer	Slot1736
+015848	Continer	Slot1737
+015878	Continer	Slot1738
+0158A8	Continer	Slot1739
+0158D8	Continer	Slot1740
+015908	Continer	Slot1741
+015938	Continer	Slot1742
+015968	Continer	Slot1743
+015998	Continer	Slot1744
+0159C8	Continer	Slot1745
+0159F8	Continer	Slot1746
+015A28	Continer	Slot1747
+015A58	Continer	Slot1748
+015A88	Continer	Slot1749
+015AB8	Continer	Slot1750
+015AE8	Continer	Slot1751
+015B18	Continer	Slot1752
+015B48	Continer	Slot1753
+015B78	Continer	Slot1754
+015BA8	Continer	Slot1755
+015BD8	Continer	Slot1756
+015C08	Continer	Slot1757
+015C38	Continer	Slot1758
+015C68	Continer	Slot1759
+015C98	Continer	Slot1760
+015CC8	Continer	Slot1761
+015CF8	Continer	Slot1762
+015D28	Continer	Slot1763
+015D58	Continer	Slot1764
+015D88	Continer	Slot1765
+015DB8	Continer	Slot1766
+015DE8	Continer	Slot1767
+015E18	Continer	Slot1768
+015E48	Continer	Slot1769
+015E78	Continer	Slot1770
+015EA8	Continer	Slot1771
+015ED8	Continer	Slot1772
+015F08	Continer	Slot1773
+015F38	Continer	Slot1774
+015F68	Continer	Slot1775
+015F98	Continer	Slot1776
+015FC8	Continer	Slot1777
+015FF8	Continer	Slot1778
+016028	Continer	Slot1779
+016058	Continer	Slot1780
+016088	Continer	Slot1781
+0160B8	Continer	Slot1782
+0160E8	Continer	Slot1783
+016118	Continer	Slot1784
+016148	Continer	Slot1785
+016178	Continer	Slot1786
+0161A8	Continer	Slot1787
+0161D8	Continer	Slot1788
+016208	Continer	Slot1789
+016238	Continer	Slot1790
+016268	Continer	Slot1791
+016298	Continer	Slot1792
+0162C8	Continer	Slot1793
+0162F8	Continer	Slot1794
+016328	Continer	Slot1795
+016358	Continer	Slot1796
+016388	Continer	Slot1797
+0163B8	Continer	Slot1798
+0163E8	Continer	Slot1799
+016418	Continer	Slot1800
+016448	Continer	Slot1801
+016478	Continer	Slot1802
+0164A8	Continer	Slot1803
+0164D8	Continer	Slot1804
+016508	Continer	Slot1805
+016538	Continer	Slot1806
+016568	Continer	Slot1807
+016598	Continer	Slot1808
+0165C8	Continer	Slot1809
+0165F8	Continer	Slot1810
+016628	Continer	Slot1811
+016658	Continer	Slot1812
+016688	Continer	Slot1813
+0166B8	Continer	Slot1814
+0166E8	Continer	Slot1815
+016718	Continer	Slot1816
+016748	Continer	Slot1817
+016778	Continer	Slot1818
+0167A8	Continer	Slot1819
+0167D8	Continer	Slot1820
+016808	Continer	Slot1821
+016838	Continer	Slot1822
+016868	Continer	Slot1823
+016898	Continer	Slot1824
+0168C8	Continer	Slot1825
+0168F8	Continer	Slot1826
+016928	Continer	Slot1827
+016958	Continer	Slot1828
+016988	Continer	Slot1829
+0169B8	Continer	Slot1830
+0169E8	Continer	Slot1831
+016A18	Continer	Slot1832
+016A48	Continer	Slot1833
+016A78	Continer	Slot1834
+016AA8	Continer	Slot1835
+016AD8	Continer	Slot1836
+016B08	Continer	Slot1837
+016B38	Continer	Slot1838
+016B68	Continer	Slot1839
+016B98	Continer	Slot1840
+016BC8	Continer	Slot1841
+016BF8	Continer	Slot1842
+016C28	Continer	Slot1843
+016C58	Continer	Slot1844
+016C88	Continer	Slot1845
+016CB8	Continer	Slot1846
+016CE8	Continer	Slot1847
+016D18	Continer	Slot1848
+016D48	Continer	Slot1849
+016D78	Continer	Slot1850
+016DA8	Continer	Slot1851
+016DD8	Continer	Slot1852
+016E08	Continer	Slot1853
+016E38	Continer	Slot1854
+016E68	Continer	Slot1855
+016E98	Continer	Slot1856
+016EC8	Continer	Slot1857
+016EF8	Continer	Slot1858
+016F28	Continer	Slot1859
+016F58	Continer	Slot1860
+016F88	Continer	Slot1861
+016FB8	Continer	Slot1862
+016FE8	Continer	Slot1863
+017018	Continer	Slot1864
+017048	Continer	Slot1865
+017078	Continer	Slot1866
+0170A8	Continer	Slot1867
+0170D8	Continer	Slot1868
+017108	Continer	Slot1869
+017138	Continer	Slot1870
+017168	Continer	Slot1871
+017198	Continer	Slot1872
+0171C8	Continer	Slot1873
+0171F8	Continer	Slot1874
+017228	Continer	Slot1875
+017258	Continer	Slot1876
+017288	Continer	Slot1877
+0172B8	Continer	Slot1878
+0172E8	Continer	Slot1879
+017318	Continer	Slot1880
+017348	Continer	Slot1881
+017378	Continer	Slot1882
+0173A8	Continer	Slot1883
+0173D8	Continer	Slot1884
+017408	Continer	Slot1885
+017438	Continer	Slot1886
+017468	Continer	Slot1887
+017498	Continer	Slot1888
+0174C8	Continer	Slot1889
+0174F8	Continer	Slot1890
+017528	Continer	Slot1891
+017558	Continer	Slot1892
+017588	Continer	Slot1893
+0175B8	Continer	Slot1894
+0175E8	Continer	Slot1895
+017618	Continer	Slot1896
+017648	Continer	Slot1897
+017678	Continer	Slot1898
+0176A8	Continer	Slot1899
+0176D8	Continer	Slot1900
+017708	Continer	Slot1901
+017738	Continer	Slot1902
+017768	Continer	Slot1903
+017798	Continer	Slot1904
+0177C8	Continer	Slot1905
+0177F8	Continer	Slot1906
+017828	Continer	Slot1907
+017858	Continer	Slot1908
+017888	Continer	Slot1909
+0178B8	Continer	Slot1910
+0178E8	Continer	Slot1911
+017918	Continer	Slot1912
+017948	Continer	Slot1913
+017978	Continer	Slot1914
+0179A8	Continer	Slot1915
+0179D8	Continer	Slot1916
+017A08	Continer	Slot1917
+017A38	Continer	Slot1918
+017A68	Continer	Slot1919
+017A98	Continer	Slot1920
+017AC8	Continer	Slot1921
+017AF8	Continer	Slot1922
+017B28	Continer	Slot1923
+017B58	Continer	Slot1924
+017B88	Continer	Slot1925
+017BB8	Continer	Slot1926
+017BE8	Continer	Slot1927
+017C18	Continer	Slot1928
+017C48	Continer	Slot1929
+017C78	Continer	Slot1930
+017CA8	Continer	Slot1931
+017CD8	Continer	Slot1932
+017D08	Continer	Slot1933
+017D38	Continer	Slot1934
+017D68	Continer	Slot1935
+017D98	Continer	Slot1936
+017DC8	Continer	Slot1937
+017DF8	Continer	Slot1938
+017E28	Continer	Slot1939
+017E58	Continer	Slot1940
+017E88	Continer	Slot1941
+017EB8	Continer	Slot1942
+017EE8	Continer	Slot1943
+017F18	Continer	Slot1944
+017F48	Continer	Slot1945
+017F78	Continer	Slot1946
+017FA8	Continer	Slot1947
+017FD8	Continer	Slot1948
+018008	Continer	Slot1949
+018038	Continer	Slot1950
+018068	Continer	Slot1951
+018098	Continer	Slot1952
+0180C8	Continer	Slot1953
+0180F8	Continer	Slot1954
+018128	Continer	Slot1955
+018158	Continer	Slot1956
+018188	Continer	Slot1957
+0181B8	Continer	Slot1958
+0181E8	Continer	Slot1959
+018218	Continer	Slot1960
+018248	Continer	Slot1961
+018278	Continer	Slot1962
+0182A8	Continer	Slot1963
+0182D8	Continer	Slot1964
+018308	Continer	Slot1965
+018338	Continer	Slot1966
+018368	Continer	Slot1967
+018398	Continer	Slot1968
+0183C8	Continer	Slot1969
+0183F8	Continer	Slot1970
+018428	Continer	Slot1971
+018458	Continer	Slot1972
+018488	Continer	Slot1973
+0184B8	Continer	Slot1974
+0184E8	Continer	Slot1975
+018518	Continer	Slot1976
+018548	Continer	Slot1977
+018578	Continer	Slot1978
+0185A8	Continer	Slot1979
+0185D8	Continer	Slot1980
+018608	Continer	Slot1981
+018638	Continer	Slot1982
+018668	Continer	Slot1983
+018698	Continer	Slot1984
+0186C8	Continer	Slot1985
+0186F8	Continer	Slot1986
+018728	Continer	Slot1987
+018758	Continer	Slot1988
+018788	Continer	Slot1989
+0187B8	Continer	Slot1990
+0187E8	Continer	Slot1991
+018818	Continer	Slot1992
+018848	Continer	Slot1993
+018878	Continer	Slot1994
+0188A8	Continer	Slot1995
+0188D8	Continer	Slot1996
+018908	Continer	Slot1997
+018938	Continer	Slot1998
+018968	Continer	Slot1999
+018998	Continer	Slot2000
+[\CONTAINER]
+[IIII]
+VALUE>NAME
+FFFFFFFF	None
+00000000	Craft
+01000000	Bomb
+02000000	Tera Bomb
+03000000	Ice Bomb
+04000000	Lightning Bomb
+05000000	Globe
+06000000	Blitz Symbol
+07000000	Meteor
+08000000	Barrel
+09000000	Bag Bomb
+0A000000	Balbomb
+0B000000	Cannon
+0C000000	Beast Statue
+0D000000	Purifier
+0E000000	Pinwheel
+0F000000	Himmelstern
+10000000	Armillary Sphere
+11000000	Indelible Bomb
+12000000	Insoluble Bomb
+13000000	Perpetual Bomb
+14000000	Nonstop Globe
+15000000	Infinity Meteor
+16000000	Witch Salve
+17000000	Auto Alarm
+18000000	Spirit's Breath
+19000000	Shellper Horn
+1A000000	Dark Water
+1B000000	Absorb Guard
+1C000000	Time Lithograph
+1D000000	Healing Salve
+1E000000	Nectar
+1F000000	Mind Water
+20000000	Drachen Elixir
+21000000	Secret Remedy
+22000000	Elixir
+23000000	Merulixir
+24000000	Mystery Ankh
+25000000	Healing Bell
+26000000	Cabbage Soup
+27000000	Blank Stew
+28000000	Black Tea
+29000000	Danish
+2A000000	Passionate Soup
+2B000000	Special Meat
+2C000000	God's Supper
+2D000000	Iksel Plate
+2E000000	Meister Tarte
+2F000000	Mont Blanc
+30000000	Happy Cookie
+31000000	Alchemy Candy
+32000000	Plain Pie
+33000000	Meat Pie
+34000000	Berry Pie
+35000000	Cream Pie
+36000000	Honey Pie
+37000000	Cabbage Pie
+38000000	Tea Pie
+39000000	Mushroom Pie
+3A000000	Seafood Pie
+3B000000	Ice Pie
+3C000000	Living Pie
+3D000000	Pielixir
+3E000000	Piemeteor
+3F000000	Dunkelpiet
+40000000	Ruby Pie
+41000000	Dark Pie
+42000000	Dragon Pie
+43000000	Golden Pie
+44000000	Supplement
+45000000	Zettel
+46000000	Alchemy Coal
+47000000	Polish Powder
+48000000	Pure Oil
+49000000	Healing Aroma
+4A000000	Crimson Dye
+4B000000	Tar Liquid
+4C000000	Arland Crystal
+4D000000	Alchemy Yeast
+4E000000	Clear Gelatin
+4F000000	Honey
+50000000	Pure Poison
+51000000	Rainbow Oil
+52000000	Magic Paint
+53000000	Komet
+54000000	Wisemanipedia
+55000000	Graceful Crystal
+56000000	Samsara Gear
+57000000	One Powder
+58000000	Ruby Prism
+59000000	Gold
+5A000000	Handmade Instrument
+5B000000	Mystery Potion
+5C000000	Hallow Ring
+5D000000	Seventh Torus
+5E000000	Dragon Hourglass
+5F000000	True Dragon Hourglass
+60000000	Windraider
+61000000	Tonic
+62000000	Air Drop
+63000000	Wild Scent
+64000000	Medicine Seed
+65000000	Ingredient Seed
+66000000	Plant Seed
+67000000	Mineral Seed
+68000000	Poison Seed
+69000000	Powder Seed
+6A000000	Oil Seed
+6B000000	Thread Seed
+6C000000	Mystery Seed
+6D000000	Happy Basket
+6E000000	Spring Cup
+6F000000	Secret Bag
+70000000	Blessed Coin
+71000000	Goddess Statue
+72000000	Harvest Glove
+73000000	Traveler Shoes
+74000000	Fate Talisman
+75000000	Flying Carpet
+76000000	Lady's Dumbbell
+77000000	Stylish Cauldron
+78000000	Marinizer
+79000000	Gnardi Ring
+7A000000	Rune Stone
+7B000000	Mercurius Eye
+7C000000	Spirit Necklace
+7D000000	Bandit Bandana
+7E000000	Gibate Ankh
+7F000000	Angel Charm
+80000000	Bunny Tail
+81000000	Victory Charm
+82000000	Reverse Torque
+83000000	Pocket Watch
+84000000	Promise Band
+85000000	Speed Belt
+86000000	Heroic Medal
+87000000	Mythical Ring
+88000000	Warrior Mask
+89000000	Fantastic Wig
+8A000000	Friends Necklace
+8B000000	Ingot
+8C000000	Tinc
+8D000000	Dry Metal
+8E000000	Ster Metal
+8F000000	Golteisen
+90000000	Silvatine
+91000000	Platine
+92000000	Halmolium
+93000000	Cloth
+94000000	Nylonfeather
+95000000	Silkis
+96000000	Muffcot
+97000000	Polywool
+98000000	Tanbeash
+99000000	Scale Cloth
+9A000000	Velvetis
+9B000000	Fishcraft
+9C000000	Ether Ink
+9D000000	Totori Brunch
+9E000000	Mystic Prow
+9F000000	Magic Sword
+A0000000	Puni Bomb
+A1000000	New Land Ration
+A2000000	Rime Crystal
+A3000000	Chim Doll
+B8000000	Nuse
+B9000000	Magic Grass
+BA000000	Eicheloa
+BB000000	Mudhead
+BC000000	Eiche
+BD000000	Candied Branch
+BE000000	Beehive
+BF000000	Pebble
+C0000000	Uni
+C1000000	Triberries
+C2000000	Cobaltberry
+C3000000	Fest
+C4000000	Phlogiston
+C5000000	Iron Clay
+C6000000	Fuel Dirt
+C7000000	Glow Grass
+C8000000	Stim Stone
+C9000000	Snow Stone
+CA000000	Gravistone
+CB000000	Chainweb
+CC000000	Poisonhead
+CD000000	Cotton Flower
+CE000000	Some Egg
+CF000000	Quake Crystal
+D0000000	Milky Sap
+D1000000	Sour Apple
+D2000000	Mystery Mushroom
+D3000000	Forgotten Bone
+D4000000	Some Slough
+D5000000	Glow Sand
+D6000000	Swirly Shell
+D7000000	Prism Coral
+D8000000	Foamy Water
+D9000000	Mermaid Tear
+DA000000	Sunny Crystal
+DB000000	Metal Ore
+DC000000	Star Piece
+DD000000	Hiding Cloud
+DE000000	Dreamy Crown
+DF000000	Night Lady
+E0000000	Dunkelheit
+E1000000	Original Gem
+E2000000	Marinelite
+E3000000	Sea Puddle
+E4000000	Shadow Grass
+E5000000	Dark Coral
+E6000000	Midnight Flower
+E7000000	Tar Fruit
+E8000000	Oil Fruit
+E9000000	Flower Nectar
+EA000000	Puniball
+EB000000	Beast Fur
+EC000000	Dead Beast
+ED000000	Small Sardine
+EE000000	Mandra Root
+EF000000	Audra's Tail
+F0000000	Pendelook
+F1000000	Dark Dew
+F2000000	Beast Skin
+F3000000	Isle Amber
+F4000000	Dragon Horn
+F5000000	Dragon Scale
+F6000000	Flour
+F7000000	Salt
+F8000000	Water
+F9000000	Forest Cabbage
+FA000000	Globe Sphere
+FB000000	Shining Saucer
+FC000000	World Spirit
+FD000000	Ancient Dragon Horn
+FE000000	Helmet
+FF000000	Broken Item
+13010000	C. Ingredients
+14010000	Ticket
+15010000	Pretty Stone
+16010000	Raptorstein
+17010000	Old Letter
+18010000	Bathing Suits
+19010000	Rental Outfit
+1A010000	Vacation Outfit
+1B010000	Special Outfit
+1E010000	Alchemy Staff
+1F010000	Siphon Rod
+20010000	Spirit Staff
+21010000	Angel Staff
+22010000	Legendary Staff
+23010000	Seven Star Staff
+24010000	Normal Bullet
+25010000	Strong Bullet
+26010000	Special Bullet
+27010000	Colored Bullet
+28010000	White Bullet
+29010000	CSP
+2A010000	Knight Sword
+2B010000	Heavy Sword
+2C010000	Alloy Sword
+2D010000	Wizard Sword
+2E010000	Scale Sword
+2F010000	Eternal Sword
+30010000	Normal Pan
+31010000	Training Wok
+32010000	Non-Stick Pan
+33010000	Artisan Pan
+34010000	Master Pan
+35010000	Three Star Pan
+36010000	Knuckle
+37010000	Manly Iron
+38010000	Shadow Glove
+39010000	Metal Glove
+3A010000	Risky Gauntlet
+3B010000	Weaved Bracelet
+3C010000	Silver Bracelet
+3D010000	Rune Bracelet
+3E010000	Spiritual Bracelet
+3F010000	Gold Bracelet
+40010000	Secret Staff
+41010000	Kamisori-Maru
+42010000	The Tweeche
+43010000	Hawk Talon
+44010000	King Spinner
+45010000	Alchemy Staff Totori
+46010000	Ocean Staff
+47010000	Witch Staff
+48010000	Holy Winged Staff
+49010000	Student's Staff
+4A010000	Settler' Staff
+4B010000	Bejewled Staff
+4C010000	Legendary Staff Meruru
+4D010000	New World Staff
+4E010000	Alchemist Staff
+4F010000	Twin Blades
+50010000	Shadow Blades
+51010000	Demon Fangs
+52010000	Heartbreaker
+53010000	Zen Handaz
+56010000	Dharma Ring
+57010000	Samsara Ring
+58010000	Transcendant Ring
+5E010000	Normal Threads
+5F010000	Traveler's Wear
+60010000	Artisan Outfit
+61010000	Silky Outfit
+62010000	Silky Chain
+63010000	Dragon Wear
+64010000	Blessed Costume
+65010000	Cloth Skirt
+66010000	Durable Skirt
+67010000	Velvet Dress
+68010000	Madame's Dress
+69010000	Rose Maiden
+6A010000	Gorgeous Dress
+6B010000	Saint Robe
+6C010000	Gentleman's Coat
+6D010000	Leather Coat
+6E010000	Dandy Coat
+6F010000	Guard Jacket
+70010000	Chief's Jacket
+71010000	Dragoon Cape
+72010000	Aurora Suit
+73010000	
+74010000	Work Clothes
+75010000	Full Metal Jacket
+76010000	Night Cloak
+77010000	Sun Cloak
+78010000	Wanderer's Cape
+79010000	Heroic Cape
+[/IIII]
+[TTTT]
+VALUE>NAME
+FFFFFFFF	None
+00000000	Price Up Lv1
+01000000	Price Up Lv2
+02000000	Price Up Lv3
+03000000	Finest Goods
+04000000	Limited Time
+05000000	Royal Treatment
+06000000	Price Down Lv1
+07000000	Price Down Lv2
+08000000	Price Down Lv3
+09000000	On Sale
+0A000000	Discounted
+0B000000	Bargain Bin
+0C000000	Cost +1
+0D000000	Cost +2
+0E000000	Cost +3
+0F000000	Expand
+10000000	Enhance
+11000000	Maximize
+12000000	Lasts Lv1
+13000000	Lasts Lv2
+14000000	Warranty
+15000000	Quality Lv1
+16000000	Quality Lv2
+17000000	Quality Lv3
+18000000	Hand-Crafted
+19000000	Professional
+1A000000	Ultra Quality
+21000000	Forceful Lv1
+22000000	Forceful LV2
+23000000	Forceful Lv3
+24000000	Very Painful
+25000000	Destroyer
+26000000	Demolisher
+27000000	Heal Lv1
+28000000	Heal Lv2
+29000000	Heal Lv3
+2A000000	Fast Heal
+2B000000	Mender
+2C000000	Recovery
+2D000000	Critical Lv1
+2E000000	Critical LV2
+2F000000	Critical Lv3
+30000000	Satisfactory
+31000000	Sure Shot
+32000000	Mortal Blow
+33000000	Stable Lv1
+34000000	Stable Lv2
+35000000	Established
+36000000	Judgement Lv1
+37000000	Judgement Lv2
+38000000	Declaration
+39000000	Success Lv1
+3A000000	Success Lv2
+3B000000	Beginner
+3C000000	Living
+3D000000	Lively
+3E000000	Pepped Up
+3F000000	Usage +1
+40000000	Usage +2
+41000000	Usage +3
+42000000	Big
+43000000	Jumbo
+44000000	Monstrous
+45000000	Rank Boost Lv1
+46000000	Rank Boost Lv2
+47000000	Rank Boost Lv3
+48000000	Rank Fortify
+49000000	Rank Bonus
+4A000000	Rank Special
+4B000000	Swarm Slayer Lv1
+4C000000	Swarm Slayer Lv2
+4D000000	Swarm Slayer Lv3
+4E000000	Swarm Slayer S
+4F000000	Swarm Slayer M
+50000000	Swarm Slayer L
+51000000	Loner Slayer Lv1
+52000000	Loner Slayer Lv2
+53000000	Loner Slayer Lv3
+54000000	Swarm Slayer S
+55000000	Swarm Slayer M
+56000000	Swarm Slayer L
+57000000	Last Boost Lv1
+58000000	Last Boost Lv2
+59000000	Final Strike
+5A000000	Condense Lv1
+5B000000	Condense Lv2
+5C000000	Final Strike
+5D000000	Adjust Lv1
+5E000000	Adjust Lv2
+5F000000	Count Bonus
+60000000	Rapid Lv1
+61000000	Rapid Lv2
+62000000	Sonic Throw
+63000000	Timed Lv
+64000000	Timed Lv
+65000000	Item Clone
+66000000	Extend Range Lv1
+67000000	Extend Range LV2
+68000000	All Range
+69000000	Reduce Range Lv1
+6A000000	Reduce Range Lv2
+6B000000	Squeeze Range
+72000000	Hp +10
+73000000	Hp +20
+74000000	HP +30
+75000000	HP Charge
+76000000	HP Boost
+77000000	Life Guard
+78000000	MP +10
+79000000	MP +20
+7A000000	MP +30
+7B000000	MP Boost
+7C000000	MP Charge
+7D000000	Mental Guard
+7E000000	Attack +3
+7F000000	Attack +6
+80000000	Attack +9
+81000000	Attack Charge
+82000000	Attack Boost
+83000000	Power Hitter
+84000000	Defense +3
+85000000	Defense +6
+86000000	Defense +9
+87000000	Defense Charge
+88000000	Defense Boost
+89000000	Defender
+8A000000	Speed +5
+8B000000	Speed +10
+8C000000	Speed +15
+8D000000	Speed Charge
+8E000000	Speed Boost
+8F000000	Speed Star
+90000000	Stats +2
+91000000	Stats +4
+92000000	Stats +6
+93000000	Stats Charge
+94000000	Stats +10
+95000000	Stats Power
+96000000	MP Cost -10%
+97000000	Mp Cost -15%
+98000000	MP Cost -20%
+99000000	MP Cost Cut
+9A000000	MP Cost Pack
+9B000000	Eco-Skill
+9C000000	Skill -10%
+9D000000	Skill -15%
+9E000000	Skill -20%
+9F000000	Skill Charge
+A0000000	Skill Boost
+A1000000	Master Skill
+A2000000	Fire+
+A3000000	Ice+
+A4000000	Earth+
+A5000000	Lightning+
+A6000000	Red+Blue
+A7000000	Green+Gold
+A8000000	Spirit Power
+A9000000	Deity Power
+AA000000	Puni Repel
+AB000000	Animal Repel
+AC000000	Human Repel
+AD000000	Beast Repel
+AE000000	Dragon Repel
+AF000000	Demon Repel
+B0000000	Spirit Repel
+B1000000	Inflict Poison
+B2000000	Poison Flame
+B3000000	Inflict Sleep
+B4000000	Snowstorm
+B5000000	Inflict Blind
+B6000000	Thunderbolt
+B7000000	Inflict Curse
+B8000000	Earth Soul
+B9000000	Inflict Slow
+BA000000	Time Spirit
+BB000000	Convert Lv1
+BC000000	Convert Lv2
+BD000000	Convert Lv3
+BE000000	Absorb HP
+BF000000	Life Giver
+C0000000	Vitality Drain
+C1000000	Resist Fire Lv1
+C2000000	Resist Fire Lv2
+C3000000	Resist Ice Lv1
+C4000000	Resist Ice Lv2
+C5000000	Resist Lightning Lv1
+C6000000	Resist Lightning Lv2
+C7000000	Resist Earth Lv1
+C8000000	Resist Earth LV2
+C9000000	Red+Blue Shield
+CA000000	Green+Gold Shield
+CB000000	Red+Blue Barrier
+CC000000	Green+Gold Barrier
+D3000000	Exploding Spikes
+D4000000	Burning Vapor
+D5000000	Chain Explosion
+D6000000	??? (Powerful Ice Damage)
+D7000000	??? (Powerful Lightning Damage)
+D8000000	??? (Adds Powerful Earth Damage)
+D9000000	Pure Power
+DA000000	Dripping Venom
+DB000000	Induces Sleep
+DC000000	Steals Vision
+DD000000	Exhausting
+DE000000	Solvent
+DF000000	Melt
+E0000000	Binding
+E1000000	Soul Steal
+E2000000	Wound Healing
+E3000000	Recovery Aura
+E4000000	Clever Heal
+E5000000	Wake Up
+E6000000	Cure-All
+E7000000	Light As Air
+E8000000	Heavyweight
+E9000000	Sturdy
+EA000000	Lightweight
+EB000000	Fire Power
+EC000000	Ice Power
+ED000000	Lightning Power
+EE000000	Earth Power
+EF000000	Rainbow Power
+F0000000	Spiritflower Energy
+F7000000	Vessel Essence
+F8000000	Flame Essence
+F9000000	Ice Essence
+FA000000	Wind Essence
+FB000000	Earth Essence
+FC000000	White Essence
+FD000000	Black Essence
+FE000000	Day Essence
+FF000000	Night Essence
+00010000	Holy Essence
+01010000	Demon Essence
+02010000	Sun Essence
+03010000	Moon Essence
+04010000	Star Essence
+05010000	Sky Essence
+06010000	Godbreaker
+07010000	God Blessing
+08010000	Auto-Use
+09010000	Multi Bonus
+0A010000	Single Bonus
+0B010000	Final Ace
+0C010000	Gamble Gain
+0D010000	Many Prizes
+0E010000	Mach Timer
+0F010000	Auto-Material
+10010000	Range Booster
+11010000	Restrain Power
+12010000	Fatal Pain
+13010000	Soul Eater
+14010000	Heroic Mind
+15010000	Veteran Skill
+16010000	Sonic Move
+17010000	Hard Coat
+18010000	Elemental Guard
+19010000	Special Guard
+[/TTTT]
+[EEEE]
+VALUE>NAME
+FFFFFFFF	None
+00000000	Attack XS
+01000000	Attack S
+02000000	Attack M
+03000000	Attack L
+04000000	Attack XL
+05000000	Fire S
+06000000	Fire M
+07000000	Fire L
+08000000	Fire XL
+09000000	Explosion damage
+0A000000	Ice S
+0B000000	Ice M
+0C000000	Ice L
+0D000000	Ice XL
+0E000000	Lightning S
+0F000000	Lightning M
+10000000	Lightning L
+11000000	Lightning XL
+12000000	Earth S
+13000000	Earth M
+14000000	Earth damage L
+15000000	Earth damage XL
+16000000	Element damage
+17000000	Falling Stars
+18000000	Falling Puni
+19000000	Falling Meteors
+1A000000	Falling Uni
+1B000000	Falling ???
+1C000000	Teeny Cannonball
+1D000000	Cannonball
+1E000000	Grand Cannonball
+1F000000	Wolf Statue
+20000000	Bird Statue
+21000000	Demon Beast Statue
+22000000	Dragon Statue
+23000000	Uni Filled
+24000000	Spiky Filled
+25000000	Meteor Filled
+26000000	Cute bomb
+27000000	Scary bomb
+28000000	Cask
+29000000	Power Keg
+2A000000	Waste barrel
+2B000000	Dead Effect
+2C000000	Acidic
+2D000000	Sticky
+2E000000	Target Poisoned
+2F000000	Target wounded
+30000000	Sulfuric
+31000000	Dragon Power
+32000000	Dragon Flavor
+33000000	Tri-Suffer
+34000000	Flowing magic
+35000000	Item Effect+
+36000000	Flurry
+37000000	Cyclone
+38000000	Isle Fishy
+39000000	Puni Explosion
+3A000000	Magic sword strike
+3B000000	Powerful taste
+3C000000	Robust Taste
+3D000000	Hasty taste
+3E000000	HP Eater S
+3F000000	HP Eater M
+40000000	HP Eater L
+41000000	MP Eater S
+42000000	MP Eater M
+43000000	MP Eater L
+44000000	Consumption Ease
+45000000	Max HP UP
+46000000	Max MP UP
+47000000	Attack Up
+48000000	Defense Up
+49000000	Speed Up
+4A000000	Narrow Range
+4B000000	Attack plus
+4C000000	Defense plus
+4D000000	Speed plus
+4E000000	Fire Resist Plus
+4F000000	Ice Resist Plus
+50000000	Lightning Resist plus
+51000000	Earth Resist Plus
+52000000	Attack Down
+53000000	Defense Down
+54000000	Speed Down
+55000000	Fire Resist Down
+56000000	Ice Resist Down
+57000000	Thunder Resist Down
+58000000	Earth Resist Down
+59000000	Sleepy
+5A000000	Coma
+5B000000	Poisonous
+5C000000	Venomous
+5D000000	Slow
+5E000000	Curse
+5F000000	Blind
+60000000	Null Buff
+61000000	Attack Absorb
+62000000	Defense Absorb
+63000000	Level Absorb S
+64000000	Level Absorb M
+65000000	Level Absorb L
+66000000	Life Absorb S
+67000000	Life Absorb M
+68000000	Life Absorb L
+69000000	Knockback S
+6A000000	Knockback M
+6B000000	Knockback L
+6C000000	One Hit Wonder
+6D000000	Auto-Sleep Recovery
+6E000000	Auto-KO Recovery
+6F000000	Auto-KO Recovery+
+70000000	Ailment Reduction
+71000000	Ailment Reduction+
+72000000	Damage Reduction
+73000000	Damage Reduction+
+74000000	Fall Back
+75000000	HP recovery XS
+76000000	HP recovery S
+77000000	HP recovery M
+78000000	HP recovery L
+79000000	HP recovery XL
+7A000000	MP recovery XS
+7B000000	MP recovery S
+7C000000	MP recovery M
+7D000000	MP Recovery L
+7E000000	MP Recovery XL
+7F000000	Tasty Recovery XS
+80000000	Tasty recovery S
+81000000	Tasty Recovery M
+82000000	Tasty Recovery L
+83000000	Tasty Recovery XL
+84000000	Scaled recovery S
+85000000	Scaled recovery M
+86000000	Scaled Recovery L
+87000000	KO Recovery S
+88000000	KO Recovery M
+89000000	KO Recovery L
+8A000000	HP Temp+
+8B000000	HP Healing S
+8C000000	HP Healing M
+8D000000	HP Healing L
+8E000000	HP Healing XL
+8F000000	Sleep Recovery
+90000000	Poison Recovery
+91000000	Slow Recovery
+92000000	Curse Recovery
+93000000	Blind Recovery
+94000000	Ailment Recovery
+95000000	Time Blessed
+96000000	Time Advancing
+97000000	Time Delaying
+98000000	Salty
+99000000	Sweet
+9A000000	Balanced
+9B000000	Very sweet
+9C000000	Melty
+9D000000	Heavenly
+9E000000	Tangy
+9F000000	Bitter
+A0000000	Crimson Gem
+A1000000	Indigo Gem
+A2000000	Jade Gem
+A3000000	Ivory Gem
+A4000000	Diamond
+A5000000	Deep Salt
+A6000000	Tasty sweetness
+A7000000	Bringing Taste
+A8000000	Bringing Power
+A9000000	Glowing Charm
+AA000000	Warps Space-time?
+AB000000	Warps Space-time
+AC000000	Ointment
+AD000000	Stimulant
+AE000000	Panacea
+AF000000	Poison
+B0000000	Weaken body
+B1000000	Airy
+B2000000	Heavy
+B3000000	Sturdy
+B4000000	lightweight
+B5000000	Dangerous
+B6000000	Blessing of the Spirit
+B7000000	Prismatic Blessing
+B8000000	Wrath of Spirits
+B9000000	Thorns
+BA000000	Saccharine
+BB000000	Slighty Sweet
+BC000000	Mysterious Power
+C4000000	Spring Liquid
+C5000000	Good Spring Liquid
+C6000000	Spring Food
+C7000000	Good Spring Food
+C8000000	Bad Rumors
+C9000000	Good Rumors
+CA000000	Wonderful Rumors
+CB000000	Good Fortune
+CC000000	Great Learner
+CD000000	Emergency Escape
+CE000000	Free Transfer
+CF000000	Rot Reduction
+D0000000	Rot Prevention
+D1000000	Enhancement
+D2000000	Fast Enhancement
+D3000000	Jog
+D4000000	Sprint
+D5000000	Trail Guide
+D6000000	Gathering master
+D7000000	Skilled Gatherer
+D8000000	Pro Gatherer
+D9000000	Emits Air
+DA000000	Emits Lots of Air
+DB000000	Endless air
+DC000000	Economic
+DD000000	Masterfully Economic
+DE000000	Tempers Strength
+DF000000	Workshop Wings
+E0000000	Breathe underwater
+E1000000	Vulture Away
+E2000000	Item Level Up
+E3000000	Item Level Up+
+E4000000	Item Quality Up
+E5000000	Item Quality Up+
+E6000000	Item Trait Up
+E7000000	Item Trait Up+
+E8000000	Power Rune
+E9000000	Protection Rune
+EA000000	Speed Rune
+EB000000	Strength Rune
+EC000000	Defense Rune
+ED000000	Gale Rune
+EE000000	Head Turner
+EF000000	Loot Chance+
+F0000000	Loot Chance++
+F1000000	Loot Trait Lv+
+F2000000	Loot Trait Lv++
+F3000000	Loot Quality+
+F4000000	Loot Quality++
+F5000000	Muscle Atrophy
+F6000000	Invincible Retreat
+F7000000	First Chance
+F8000000	Bandit's Intuition
+F9000000	Blessed Action
+FA000000	Divine Miracle
+FB000000	Mysterious Doings
+FC000000	Auto Revival
+FD000000	Auto Revival+
+FE000000	Power of Trust
+FF000000	HP/MP Switch
+00010000	HP damage Switch
+01010000	Whirlwind Motion
+02010000	Speed of Sound
+03010000	Super Fast Motion
+04010000	Assist+
+05010000	Spirit of Strength
+06010000	Hero Soul
+07010000	Soul of Hero
+08010000	Will Resistance
+[/EEEE]

@@ -1,0 +1,30 @@
+^3 = NAME: Dragonball Z Budokai - Tenkaichi 2 (Pal-Unk)
+^2 = GameID: SLES-54164
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F01001E8 001001EB
+!!
++Infinite Health
+%Credits: Codejunkies
+$20125108 8C410004
+$2012510C AC410000
++Infinite Ki
+%Credits: Codejunkies
+$20125128 8C410010
+$2012512C AC41000C
++Max Cash After Buying A Capsule
+%Credits: Codejunkies
+$2024802C 3C070098
++Max Cash After Selling A Capsule
+%Credits: Codejunkies
+$20299170 24A30000
++Unlock All Items, Capsules And Scenarii (Go To Z Item List To Activate)
+%Credits: Codejunkies
+$200FFF40 3C0103E7
+$200FFF44 34210001
+$200FFF48 AC410000
+$200FFF4C 08094890
+$2025223C 0803FFD0
+!!
+

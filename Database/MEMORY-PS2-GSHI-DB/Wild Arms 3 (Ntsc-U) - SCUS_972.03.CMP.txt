@@ -1,0 +1,2775 @@
+^3 = NAME: Wild Arms 3 (Ntsc-U)
+^2 = GameID: SCUS-97203
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F010CF88 0010D977
++(M) Must Be On
+%Credits: Codejunkies
+$F010D974 0010D977
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0010D977
+!!
+!Arm Specs Codes:
++BLT Modifier
+%Credits: Code Master
+$10664C22 0000????
++BLT Modifier
+%Credits: Code Master
+$10664A12 0000????
++BLT Modifier
+%Credits: Code Master
+$10664B72 0000????
++BLT Modifier
+%Credits: Code Master
+$10664AC2 0000????
++Minus WGT Modifier
+%Credits: Code Master
+$10664C24 0000????
++Minus WGT Modifier
+%Credits: Code Master
+$10664A14 0000????
++Minus WGT Modifier
+%Credits: Code Master
+$10664B74 0000????
++Minus WGT Modifier
+%Credits: Code Master
+$10664AC4 0000????
++Plus HIT Modifier
+%Credits: Code Master
+$10664C1E 0000????
++Plus HIT Modifier
+%Credits: Code Master
+$10664A0E 0000????
++Plus HIT Modifier
+%Credits: Code Master
+$10664B6E 0000????
++Plus HIT Modifier
+%Credits: Code Master
+$10664ABE 0000????
++Plus SHT Modifier
+%Credits: Code Master
+$10664C1C 0000????
++Plus SHT Modifier
+%Credits: Code Master
+$10664A0C 0000????
++Plus SHT Modifier
+%Credits: Code Master
+$10664B6C 0000????
++Plus SHT Modifier
+%Credits: Code Master
+$10664ABC 0000????
++Times CRT Modifier
+%Credits: Code Master
+$10664C26 0000????
++Times CRT Modifier
+%Credits: Code Master
+$10664A16 0000????
++Times CRT Modifier
+%Credits: Code Master
+$10664B76 0000????
++Times CRT Modifier
+%Credits: Code Master
+$10664AC6 0000????
+!!
+!Clive Codes:
++20 BLT
+%Credits: Codejunkies
+$10664B72 00000014
+++300 Hit
+%Credits: Codejunkies
+$10664B6E 0000012C
+++300 SHT
+%Credits: Codejunkies
+$10664B6C 0000012C
++-20 Wgt
+%Credits: Codejunkies
+$10664B74 00000014
++Condition Green
+%Credits: Codejunkies
+$20664B58 00000000
++Full HP After Battle
+%Credits: Codejunkies
+$10664B48 0000270F
++Full HP In Battle
+%Credits: Codejunkies
+$10596450 0000270F
++Infinite Fp
+%Credits: Codejunkies
+$10596454 00000064
++Infinite Shots
+%Credits: Codejunkies
+$1059646E 0000270F
++Max Aim
+%Credits: Codejunkies
+$10664B88 0000270F
++Max Att
+%Credits: Codejunkies
+$10664B86 0000270F
++Max Def
+%Credits: Codejunkies
+$10664B7C 0000270F
++Max Eva
+%Credits: Codejunkies
+$10664B82 0000270F
++Max Fp
+%Credits: Codejunkies
+$10664B8C 00000064
++Max HP
+%Credits: Codejunkies
+$10664B50 0000270F
++Max Mag
+%Credits: Codejunkies
+$10664B7E 0000270F
++Max Mgr
+%Credits: Codejunkies
+$10664B80 0000270F
++Max Rfx
+%Credits: Codejunkies
+$10664B84 0000270F
++Max Vit
+%Credits: Codejunkies
+$10664B8E 00000064
++X2.0 Crt
+%Credits: Codejunkies
+$10664B76 00000014
+!!
+!Clive Winslet Codes:
++Infinite FP
+%Credits: Code Master
+$20596454 00000064
++Infinite HP
+%Credits: Code Master
+$20596450 0000270F
++Infinite HP
+%Credits: Code Master
+$20664B48 0000270F
++Max AIM
+%Credits: Code Master
+$10644B88 000003E7
++Max ATT
+%Credits: Code Master
+$10644B86 000003E7
++Max DEF
+%Credits: Code Master
+$10664B7C 000003E7
++Max EVA
+%Credits: Code Master
+$10644B82 000003E7
++Max EXP
+%Credits: Code Master
+$20664B44 05F5E0FF
++Max HP
+%Credits: Code Master
+$20664B50 0000270F
++Max MAG
+%Credits: Code Master
+$10644B7E 000003E7
++Max MGR
+%Credits: Code Master
+$10644B80 000003E7
++Max RFX
+%Credits: Code Master
+$10644B84 000003E7
++Quick EXP Gain
+%Credits: Code Master
+$10664B44 0000FFFF
+!!
+!CLIVE: TOOLS:
++Aqua Wisp2-Slot 1
+%Credits: Codejunkies
+$10664B90 0000000C
++Aqua Wisp2-Slot 2
+%Credits: Codejunkies
+$10664B92 0000000C
++Aqua Wisp-Slot 1
+%Credits: Codejunkies
+$10664B90 00000001
++Aqua Wisp-Slot 2
+%Credits: Codejunkies
+$10664B92 00000001
++Aqua Wisp-Slot 3
+%Credits: Codejunkies
+$10664B94 00000001
++Brave Seal-Slot 1
+%Credits: Codejunkies
+$10664B90 00000009
++Brave Seal-Slot 2
+%Credits: Codejunkies
+$10664B92 00000009
++Brave Seal-Slot 3
+%Credits: Codejunkies
+$10664B94 00000009
++Cosmic Cog-Slot 1
+%Credits: Codejunkies
+$10664B90 00000007
++Cosmic Cog-Slot 2
+%Credits: Codejunkies
+$10664B92 00000007
++Cosmic Cog-Slot 3
+%Credits: Codejunkies
+$10664B94 00000007
++Fiery Rage-Slot 1
+%Credits: Codejunkies
+$10664B90 00000002
++Fiery Rage-Slot 2
+%Credits: Codejunkies
+$10664B92 00000002
++Fiery Rage-Slot 3
+%Credits: Codejunkies
+$10664B94 00000002
++Flash Hit-Slot 1
+%Credits: Codejunkies
+$10664B90 00000005
++Flash Hit-Slot 2
+%Credits: Codejunkies
+$10664B92 00000005
++Flash Hit-Slot 3
+%Credits: Codejunkies
+$10664B94 00000005
++Gale Claw-Slot 1
+%Credits: Codejunkies
+$10664B90 00000003
++Gale Claw-Slot 2
+%Credits: Codejunkies
+$10664B92 00000003
++Gale Claw-Slot 3
+%Credits: Codejunkies
+$10664B94 00000003
++Hope Shard-Slot 1
+%Credits: Codejunkies
+$10664B90 0000000A
++Hope Shard-Slot 2
+%Credits: Codejunkies
+$10664B92 0000000A
++Hope Shard-Slot 3
+%Credits: Codejunkies
+$10664B94 0000000A
++Love Charm-Slot 1
+%Credits: Codejunkies
+$10664B90 00000008
++Love Charm-Slot 2
+%Credits: Codejunkies
+$10664B92 00000008
++Love Charm-Slot 3
+%Credits: Codejunkies
+$10664B94 00000008
++Lucky Hand-Slot 1
+%Credits: Codejunkies
+$10664B90 00000006
++Lucky Hand-Slot 2
+%Credits: Codejunkies
+$10664B92 00000006
++Lucky Hand-Slot 3
+%Credits: Codejunkies
+$10664B94 00000006
++Lust Jaw-Slot 1
+%Credits: Codejunkies
+$10664B90 0000000B
++Lust Jaw-Slot 2
+%Credits: Codejunkies
+$10664B92 0000000B
++Lust Jaw-Slot 3
+%Credits: Codejunkies
+$10664B94 0000000B
++Moon Spark-Slot 1
+%Credits: Codejunkies
+$10664B90 00000004
++Moon Spark-Slot 2
+%Credits: Codejunkies
+$10664B92 00000004
++Moon Spark-Slot 3
+%Credits: Codejunkies
+$10664B94 00000004
++Terra Roar-Slot 1
+%Credits: Codejunkies
+$10664B90 00000000
++Terra Roar-Slot 2
+%Credits: Codejunkies
+$10664B92 00000000
++Terra Roar-Slot 3
+%Credits: Codejunkies
+$10664B94 00000000
+!!
+!Experience After Battle Codes:
++Big Experience After Battle
+%Credits: Codejunkies
+$10669B50 0000270F
+$10669B58 0000270F
+$20669B5C 0000270F
+$10669B60 0000270F
+$10669B64 0000270F
++Insane Experience After Battle
+%Credits: Codejunkies
+$20669B50 05F5E0FF
+$20669B58 05F5E0FF
+$20669B5C 05F5E0FF
+$20669B60 05F5E0FF
+$20669B64 05F5E0FF
+!!
+!Gallows Carradine Codes:
++Always Condition Green!
+%Credits: Code Master
+$20664C08 00000000
++Infinite FP
+%Credits: Code Master
+$20598EB4 00000064
++Infinite HP
+%Credits: Code Master
+$20664BF8 0000270F
++Infinite HP
+%Credits: Code Master
+$20598EB0 0000270F
++Max AIM
+%Credits: Code Master
+$10644C38 000003E7
++Max ATT
+%Credits: Code Master
+$10644C36 000003E7
++Max DEF
+%Credits: Code Master
+$10664C2C 000003E7
++Max EVA
+%Credits: Code Master
+$10644C32 000003E7
++Max EXP
+%Credits: Code Master
+$20664BF4 05F5E0FF
++Max Fp/Level
+%Credits: Code Master
+$10664C3C 00000064
++Max HP
+%Credits: Code Master
+$20664C00 0000270F
++Max MAG
+%Credits: Code Master
+$10644C2E 000003E7
++Max MGR
+%Credits: Code Master
+$10644C30 000003E7
++Max RFX
+%Credits: Code Master
+$10644C34 000003E7
++Max VIT
+%Credits: Code Master
+$10664C3E 00000064
++Quick EXP Gain
+%Credits: Code Master
+$10664BF4 0000FFFF
+!!
+!Gallows Codes:
++20 BLT
+%Credits: Codejunkies
+$10664C22 00000014
+++300 Hit
+%Credits: Codejunkies
+$10664C1E 0000012C
+++300 SHT
+%Credits: Codejunkies
+$10664C1C 0000012C
++-25 Wgt
+%Credits: Codejunkies
+$10664C24 00000019
++Full HP After Battle
+%Credits: Codejunkies
+$10664BF8 0000270F
++Full HP In Battle
+%Credits: Codejunkies
+$10598EB0 0000270F
++Infinite Fp
+%Credits: Codejunkies
+$10598EB4 00000064
++Infinite Shots
+%Credits: Codejunkies
+$10598ECE 0000270F
++Max Aim
+%Credits: Codejunkies
+$10664C38 0000270F
++Max Att
+%Credits: Codejunkies
+$10664C36 0000270F
++Max Def
+%Credits: Codejunkies
+$10664C2C 0000270F
++Max Eva
+%Credits: Codejunkies
+$10664C32 0000270F
++Max HP
+%Credits: Codejunkies
+$10664C00 0000270F
++Max Mag
+%Credits: Codejunkies
+$10664C2E 0000270F
++Max Mgr
+%Credits: Codejunkies
+$10664C30 0000270F
++Max Rfx
+%Credits: Codejunkies
+$10664C34 0000270F
++X2.0 Crt
+%Credits: Codejunkies
+$10664C26 00000014
+!!
+!GALLOWS: TOOLS:
++Aqua Wisp2-Slot 1
+%Credits: Codejunkies
+$10664C40 0000000C
++Aqua Wisp2-Slot 2
+%Credits: Codejunkies
+$10664C42 0000000C
++Aqua Wisp2-Slot 3
+%Credits: Codejunkies
+$10664C44 0000000C
++Aqua Wisp-Slot 1
+%Credits: Codejunkies
+$10664C40 00000001
++Aqua Wisp-Slot 2
+%Credits: Codejunkies
+$10664C42 00000001
++Aqua Wisp-Slot 3
+%Credits: Codejunkies
+$10664C44 00000001
++Brave Seal-Slot 1
+%Credits: Codejunkies
+$10664C40 00000009
++Brave Seal-Slot 2
+%Credits: Codejunkies
+$10664C42 00000009
++Brave Seal-Slot 3
+%Credits: Codejunkies
+$10664C44 00000009
++Cosmic Cog-Slot 1
+%Credits: Codejunkies
+$10664C40 00000007
++Cosmic Cog-Slot 2
+%Credits: Codejunkies
+$10664C42 00000007
++Cosmic Cog-Slot 3
+%Credits: Codejunkies
+$10664C44 00000007
++Fiery Rage-Slot 1
+%Credits: Codejunkies
+$10664C40 00000002
++Fiery Rage-Slot 2
+%Credits: Codejunkies
+$10664C42 00000002
++Fiery Rage-Slot 3
+%Credits: Codejunkies
+$10664C44 00000002
++Flash Hit-Slot 1
+%Credits: Codejunkies
+$10664C40 00000005
++Flash Hit-Slot 2
+%Credits: Codejunkies
+$10664C42 00000005
++Flash Hit-Slot 3
+%Credits: Codejunkies
+$10664C44 00000005
++Gale Claw-Slot 1
+%Credits: Codejunkies
+$10664C40 00000003
++Gale Claw-Slot 2
+%Credits: Codejunkies
+$10664C42 00000003
++Gale Claw-Slot 3
+%Credits: Codejunkies
+$10664C44 00000003
++Hope Shard-Slot 1
+%Credits: Codejunkies
+$10664C40 0000000A
++Hope Shard-Slot 2
+%Credits: Codejunkies
+$10664C42 0000000A
++Hope Shard-Slot 3
+%Credits: Codejunkies
+$10664C44 0000000A
++Love Charm-Slot 1
+%Credits: Codejunkies
+$10664C40 00000008
++Love Charm-Slot 2
+%Credits: Codejunkies
+$10664C42 00000008
++Love Charm-Slot 3
+%Credits: Codejunkies
+$10664C44 00000008
++Lucky Hand-Slot 1
+%Credits: Codejunkies
+$10664C40 00000006
++Lucky Hand-Slot 2
+%Credits: Codejunkies
+$10664C42 00000006
++Lucky Hand-Slot 3
+%Credits: Codejunkies
+$10664C44 00000006
++Lust Jaw-Slot 1
+%Credits: Codejunkies
+$10664C40 0000000B
++Lust Jaw-Slot 2
+%Credits: Codejunkies
+$10664C42 0000000B
++Lust Jaw-Slot 3
+%Credits: Codejunkies
+$10664C44 0000000B
++Moon Spark-Slot 1
+%Credits: Codejunkies
+$10664C40 00000004
++Moon Spark-Slot 2
+%Credits: Codejunkies
+$10664C42 00000004
++Moon Spark-Slot 3
+%Credits: Codejunkies
+$10664C44 00000004
++Terra Roar-Slot 1
+%Credits: Codejunkies
+$10664C40 00000000
++Terra Roar-Slot 2
+%Credits: Codejunkies
+$10664C42 00000000
++Terra Roar-Slot 3
+%Credits: Codejunkies
+$10664C44 00000000
+!!
+!Infinite Items:
++Adventure 1 - Slot 131
+%Credits: Codejunkies
+$10668838 0000009B
+$1066883A 000003E7
++Adventure 2 - Slot 132
+%Credits: Codejunkies
+$10668842 0000009C
+$10668844 000003E7
++Adventure 3 - Slot 133
+%Credits: Codejunkies
+$1066884C 0000009D
+$1066884E 000003E7
++Adventure 4 - Slot 134
+%Credits: Codejunkies
+$10668856 0000009E
+$10668858 000003E7
++Adventure 5 - Slot 135
+%Credits: Codejunkies
+$10668860 0000009F
+$10668862 000003E7
++Adventure 6 - Slot 136
+%Credits: Codejunkies
+$1066886A 000000A0
+$1066886C 000003E7
++Adventure 7 - Slot 137
+%Credits: Codejunkies
+$10668874 000000A1
+$10668876 000003E7
++Adventure 8 - Slot 138
+%Credits: Codejunkies
+$1066887E 000000A2
+$10668880 000003E7
++Adventure 9 - Slot 139
+%Credits: Codejunkies
+$10668888 000000A3
+$1066888A 000003E7
++Adventure 10 - Slot 140
+%Credits: Codejunkies
+$10668892 000000A4
+$10668894 000003E7
++Adventure 11 - Slot 141
+%Credits: Codejunkies
+$1066889C 000000A5
+$1066889E 000003E7
++Alarm Clock - Slot 43
+%Credits: Codejunkies
+$106684C8 0000002B
+$106684CA 000003E7
++Ambrosia - Slot 16
+%Credits: Codejunkies
+$106683BA 0000000F
+$106683BC 000003E7
++Amulet - Slot 88
+%Credits: Codejunkies
+$1066868A 00000058
+$1066868C 000003E7
++Andro Seal - Slot 106
+%Credits: Codejunkies
+$1066873E 00000082
+$10668740 000003E7
++Antidote - Slot 5
+%Credits: Codejunkies
+$1066834C 00000004
+$1066834E 000003E7
++Ap Ammo - Slot 63
+%Credits: Codejunkies
+$10668590 0000003F
+$10668592 000003E7
++Aqua Wisp 2
+%Credits: Codejunkies
+$10664B94 0000000C
++Arctic Blade - Slot 58
+%Credits: Codejunkies
+$1066855E 0000003A
+$10668560 000003E7
++Ark Scepter - Slot 104
+%Credits: Codejunkies
+$1066872A 00000080
+$1066872C 000003E7
++Baselard - Slot 65
+%Credits: Codejunkies
+$106685A4 00000041
+$106685A6 000003E7
++Big Grab Bag - Slot 23
+%Credits: Codejunkies
+$10668400 00000016
+$10668402 000003E7
++Black Pass - Slot 105
+%Credits: Codejunkies
+$10668734 00000081
+$10668736 000003E7
++Blue Bracer - Slot 39
+%Credits: Codejunkies
+$106684A0 00000027
+$106684A2 000003E7
++Bone - Slot 129
+%Credits: Codejunkies
+$10668824 00000099
+$10668826 000003E7
++Booster Kit - Slot 93
+%Credits: Codejunkies
+$106686BC 00000060
+$106686BE 000003E7
++Breath Mint - Slot 11
+%Credits: Codejunkies
+$10668388 0000000A
+$1066838A 000003E7
++Bullet Clip - Slot 62
+%Credits: Codejunkies
+$10668586 0000003E
+$10668588 000003E7
++Cait's Boots - Slot 69
+%Credits: Codejunkies
+$106685CC 00000045
+$106685CE 000003E7
++Call Whistle - Slot 32
+%Credits: Codejunkies
+$1066845A 00000020
+$1066845C 000003E7
++Card Key - Slot 124
+%Credits: Codejunkies
+$106687F2 00000094
+$106687F4 000003E7
++Chronograph - Slot 146
+%Credits: Codejunkies
+$106688CE 000000B3
+$106688D0 000003E7
++Clear Chime - Slot 40
+%Credits: Codejunkies
+$106684AA 00000028
+$106684AC 000003E7
++Comet Mark - Slot 81
+%Credits: Codejunkies
+$10668644 00000051
+$10668646 000003E7
++Corpse Ring - Slot 122
+%Credits: Codejunkies
+$106687DE 00000092
+$106687E0 000003E7
++Crisis Arm - Slot 67
+%Credits: Codejunkies
+$106685B8 00000043
+$106685BA 000003E7
++Cute Ribbon - Slot 71
+%Credits: Codejunkies
+$106685E0 00000047
+$106685E2 000003E7
++Dark Gem - Slot 102
+%Credits: Codejunkies
+$10668716 00000069
+$10668718 000003E7
++Dark Ring - Slot 55
+%Credits: Codejunkies
+$10668540 00000037
+$10668542 000003E7
++Dist Dims - Slot 82
+%Credits: Codejunkies
+$1066864E 00000052
+$10668650 000003E7
++Dragon Fossil - Slot 115
+%Credits: Codejunkies
+$10668798 0000008B
+$1066879A 000003E7
++Dragon Idol - Slot 110
+%Credits: Codejunkies
+$10668766 00000086
+$10668768 000003E7
++Dream Key - Slot 127
+%Credits: Codejunkies
+$10668810 00000097
+$10668812 000003E7
++Dried Flower - Slot 83
+%Credits: Codejunkies
+$10668658 00000053
+$1066865A 000003E7
++Duplicator - Slot 26
+%Credits: Codejunkies
+$1066841E 0000001A
+$10668420 000003E7
++Earth Gem - Slot 95
+%Credits: Codejunkies
+$106686D0 00000062
+$106686D2 000003E7
++Earth Ring - Slot 48
+%Credits: Codejunkies
+$106684FA 00000030
+$106684FC 000003E7
++Ebony Shadow - Slot 79
+%Credits: Codejunkies
+$10668630 0000004F
+$10668632 000003E7
++Elder Record - Slot 74
+%Credits: Codejunkies
+$106685FE 0000004A
+$10668600 000003E7
++Evergreen - Slot 77
+%Credits: Codejunkies
+$1066861C 0000004D
+$1066861E 000003E7
++Ex File Key - Slot 94
+%Credits: Codejunkies
+$106686C6 00000061
+$106686C8 000003E7
++Exodus Orb - Slot 27
+%Credits: Codejunkies
+$10668428 0000001B
+$1066842A 000003E7
++Figurine 1 - Slot 117
+%Credits: Codejunkies
+$106687AC 0000008D
+$106687AE 000003E7
++Figurine 2 - Slot 118
+%Credits: Codejunkies
+$106687B6 0000008E
+$106687B8 000003E7
++Figurine 3 - Slot 119
+%Credits: Codejunkies
+$106687C0 0000008F
+$106687C2 000003E7
++Figurine 4 - Slot 120
+%Credits: Codejunkies
+$106687CA 00000090
+$106687CC 000003E7
++Figurine 5 - Slot 121
+%Credits: Codejunkies
+$106687D4 00000091
+$106687D6 000003E7
++Fire Gem - Slot 97
+%Credits: Codejunkies
+$106686E4 00000064
+$106686E6 000003E7
++Fire Ring - Slot 51
+%Credits: Codejunkies
+$10668518 00000033
+$1066851A 000003E7
++Force Unit - Slot 73
+%Credits: Codejunkies
+$106685F4 00000049
+$106685F6 000003E7
++Full Carrot - Slot 19
+%Credits: Codejunkies
+$106683D8 00000012
+$106683DA 000003E7
++Full Libra - Slot 47
+%Credits: Codejunkies
+$106684F0 0000002F
+$106684F2 000003E7
++Gal Hat - Slot 87
+%Credits: Codejunkies
+$10668680 00000057
+$10668682 000003E7
++Gella Card - Slot 21
+%Credits: Codejunkies
+$106683EC 00000014
+$106683EE 000003E7
++Gimel Coin - Slot 25
+%Credits: Codejunkies
+$10668414 00000018
+$10668416 000003E7
++Goddess Idol - Slot 112
+%Credits: Codejunkies
+$1066877A 00000088
+$1066877C 000003E7
++Gold License - Slot 130
+%Credits: Codejunkies
+$1066882E 0000009A
+$10668830 000003E7
++Golden Dawn - Slot 90
+%Credits: Codejunkies
+$1066869E 0000005A
+$106686A0 000003E7
++Grab Bag - Slot 22
+%Credits: Codejunkies
+$106683F6 00000015
+$106683F8 000003E7
++Growth Egg - Slot 34
+%Credits: Codejunkies
+$1066846E 00000022
+$10668470 000003E7
++Gunstar Sign - Slot 57
+%Credits: Codejunkies
+$10668554 00000039
+$10668556 000003E7
++Hazel Spring - Slot 38
+%Credits: Codejunkies
+$10668496 00000026
+$10668498 000003E7
++Heal Berry - Slot 1
+%Credits: Codejunkies
+$10668324 00000000
+$10668326 000003E7
++Heart Leaf - Slot 42
+%Credits: Codejunkies
+$106684BE 0000002A
+$106684C0 000003E7
++Holy Ankh - Slot 45
+%Credits: Codejunkies
+$106684DC 0000002D
+$106684DE 000003E7
++Holy Grail - Slot 46
+%Credits: Codejunkies
+$106684DC 0000002E
+$106684DE 000003E7
++Holy Mother - Slot 125
+%Credits: Codejunkies
+$106687FC 00000095
+$106687FE 000003E7
++Holy Root - Slot 15
+%Credits: Codejunkies
+$106683B0 0000000E
+$106683B2 000003E7
++Ice Gem - Slot 100
+%Credits: Codejunkies
+$10668702 00000067
+$10668704 000003E7
++Ice Ring - Slot 50
+%Credits: Codejunkies
+$1066850E 00000032
+$10668510 000003E7
++Id Card - Slot 144
+%Credits: Codejunkies
+$106688BA 000000B1
+$106688BC 000003E7
++Item Scope - Slot 33
+%Credits: Codejunkies
+$10668464 00000021
+$10668466 000003E7
++Kizim Fire - Slot 107
+%Credits: Codejunkies
+$10668748 00000083
+$1066874A 000003E7
++Last Letter - Slot 126
+%Credits: Codejunkies
+$10668806 00000096
+$10668808 000003E7
++Left Half - Slot 142
+%Credits: Codejunkies
+$106688A6 000000AF
+$106688A8 000003E7
++Light Gem - Slot 101
+%Credits: Codejunkies
+$1066870C 00000068
+$1066870E 000003E7
++Light Ring - Slot 54
+%Credits: Codejunkies
+$10668536 00000036
+$10668538 000003E7
++Lion Idol - Slot 111
+%Credits: Codejunkies
+$10668770 00000087
+$10668772 000003E7
++Lion Shield - Slot 60
+%Credits: Codejunkies
+$10668572 0000003C
+$10668574 000003E7
++Lucky Card - Slot 20
+%Credits: Codejunkies
+$106683E2 00000013
+$106683E4 000003E7
++Lvl Apple - Slot 24
+%Credits: Codejunkies
+$1066840A 00000017
+$1066840C 000003E7
++Magic Candle - Slot 78
+%Credits: Codejunkies
+$10668626 0000004E
+$10668628 000003E7
++Magicleanser - Slot 13
+%Credits: Codejunkies
+$1066839C 0000000C
+$1066839E 000003E7
++Map Scope - Slot 30
+%Credits: Codejunkies
+$10668446 0000001E
+$10668448 000003E7
++Map Shred - Slot 123
+%Credits: Codejunkies
+$106687E8 00000093
+$106687EA 000003E7
++Medicine - Slot 6
+%Credits: Codejunkies
+$10668356 00000005
+$10668358 000003E7
++Mega Berry - Slot 3
+%Credits: Codejunkies
+$10668338 00000002
+$1066833A 000003E7
++Memo Pen - Slot 41
+%Credits: Codejunkies
+$106684B4 00000029
+$106684B6 000003E7
++Migrant Seal - Slot 92
+%Credits: Codejunkies
+$106686B2 0000005F
+$106686B4 000003E7
++Mini Carrot - Slot 18
+%Credits: Codejunkies
+$106683CE 00000011
+$106683D0 000003E7
++Missanga - Slot 86
+%Credits: Codejunkies
+$10668676 00000056
+$10668678 000003E7
++Moonstone - Slot 37
+%Credits: Codejunkies
+$1066848C 00000025
+$1066848E 000003E7
++Name Tag - Slot 35
+%Credits: Codejunkies
+$10668478 00000023
+$1066847A 000003E7
++Necronomicon - Slot 80
+%Credits: Codejunkies
+$1066863A 00000050
+$1066863C 000003E7
++Nectar - Slot 14
+%Credits: Codejunkies
+$106683A6 0000000D
+$106683A8 000003E7
++Nine Lives - Slot 66
+%Credits: Codejunkies
+$106685AE 00000042
+$106685B0 000003E7
++Old Terminal - Slot 128
+%Credits: Codejunkies
+$1066881A 00000098
+$1066881C 000003E7
++Paperback - Slot 114
+%Credits: Codejunkies
+$1066878E 0000008A
+$10668790 000003E7
++Peppy Acorn - Slot 10
+%Credits: Codejunkies
+$1066837E 00000009
+$10668380 000003E7
++Pinwheel - Slot 8
+%Credits: Codejunkies
+$1066836A 00000007
+$1066836C 000003E7
++Pixie Dust - Slot 7
+%Credits: Codejunkies
+$10668360 00000006
+$10668362 000003E7
++Pocketbook - Slot 84
+%Credits: Codejunkies
+$10668662 00000054
+$10668664 000003E7
++Potion Berry - Slot 2
+%Credits: Codejunkies
+$1066832E 00000001
+$10668330 000003E7
++Power Boost - Slot 72
+%Credits: Codejunkies
+$106685EA 00000048
+$106685EC 000003E7
++Prism Crown - Slot 56
+%Credits: Codejunkies
+$1066854A 00000038
+$1066854C 000003E7
++Prism Stick - Slot 70
+%Credits: Codejunkies
+$106685D6 00000046
+$106685D8 000003E7
++Pulbo Calbo - Slot 68
+%Credits: Codejunkies
+$106685C2 00000044
+$106685C4 000003E7
++Red Gloves - Slot 145
+%Credits: Codejunkies
+$106688C4 000000B2
+$106688C6 000003E7
++Revive Fruit - Slot 4
+%Credits: Codejunkies
+$10668342 00000003
+$10668344 000003E7
++Right Half - Slot 108
+%Credits: Codejunkies
+$10668752 00000084
+$10668754 000003E7
++Robber's Ego - Slot 89
+%Credits: Codejunkies
+$10668694 00000059
+$10668696 000003E7
++Secret Note - Slot 75
+%Credits: Codejunkies
+$10668608 0000004B
+$1066860A 000003E7
++Seed Powder - Slot 12
+%Credits: Codejunkies
+$10668392 0000000B
+$10668394 000003E7
++Sheriff Star - Slot 91
+%Credits: Codejunkies
+$106686A8 0000005B
+$106686AA 000003E7
++Sonar Kit - Slot 36
+%Credits: Codejunkies
+$10668482 00000024
+$10668484 000003E7
++Soul Feather - Slot 44
+%Credits: Codejunkies
+$106684D2 0000002C
+$106684D4 000003E7
++Suitcase - Slot 143
+%Credits: Codejunkies
+$106688B0 000000B0
+$106688B2 000003E7
++Sunset Red - Slot 76
+%Credits: Codejunkies
+$10668612 0000004C
+$10668614 000003E7
++Talisman - Slot 64
+%Credits: Codejunkies
+$1066859A 00000040
+$1066859C 000003E7
++Taped Photo - Slot 109
+%Credits: Codejunkies
+$1066875C 00000085
+$1066875E 000003E7
++Teardrop - Slot 116
+%Credits: Codejunkies
+$106687A2 0000008C
+$106687A4 000003E7
++Teleport Orb - Slot 28
+%Credits: Codejunkies
+$10668432 0000001C
+$10668434 000003E7
++Thunder Gem - Slot 99
+%Credits: Codejunkies
+$106686F8 00000066
+$106686FA 000003E7
++Thunder Ring - Slot 53
+%Credits: Codejunkies
+$1066852C 00000035
+$1066852E 000003E7
++Tiny Flower - Slot 17
+%Credits: Codejunkies
+$106683C4 00000010
+$106683C6 000003E7
++Toy Hammer - Slot 9
+%Credits: Codejunkies
+$10668374 00000008
+$10668376 000003E7
++Tracker - Slot 29
+%Credits: Codejunkies
+$1066843C 0000001D
+$1066843E 000003E7
++Vambrace - Slot 59
+%Credits: Codejunkies
+$10668568 0000003B
+$1066856A 000003E7
++Violator - Slot 61
+%Credits: Codejunkies
+$1066857C 0000003D
+$1066857E 000003E7
++Warp Star - Slot 103
+%Credits: Codejunkies
+$10668720 0000006A
+$10668722 000003E7
++Water Gem - Slot 96
+%Credits: Codejunkies
+$106686DA 00000063
+$106686DC 000003E7
++Water Ring - Slot 49
+%Credits: Codejunkies
+$10668504 00000031
+$10668506 000003E7
++Weather Vane - Slot 85
+%Credits: Codejunkies
+$1066866C 00000055
+$1066866E 000003E7
++Whateley Key - Slot 147
+%Credits: Codejunkies
+$106688D8 000000B4
+$106688DA 000003E7
++Wind Gem - Slot 98
+%Credits: Codejunkies
+$106686EE 00000065
+$106686F0 000003E7
++Wind Ring - Slot 52
+%Credits: Codejunkies
+$10668522 00000034
+$10668524 000003E7
++Wolf Idol - Slot 113
+%Credits: Codejunkies
+$10668784 00000089
+$10668786 000003E7
++World Screen - Slot 31
+%Credits: Codejunkies
+$10668450 0000001F
+$10668452 000003E7
+!!
+!Item Modifier Codes (Part 1):
++Slot 1
+%Credits: Code Master
+$10668324 000000??
++Slot 2
+%Credits: Code Master
+$1066832E 000000??
++Slot 3
+%Credits: Code Master
+$10668338 000000??
++Slot 4
+%Credits: Code Master
+$10668342 000000??
++Slot 5
+%Credits: Code Master
+$1066834C 000000??
++Slot 6
+%Credits: Code Master
+$10668356 000000??
++Slot 7
+%Credits: Code Master
+$10668360 000000??
++Slot 8
+%Credits: Code Master
+$1066836A 000000??
++Slot 9
+%Credits: Code Master
+$10668374 000000??
++Slot 10
+%Credits: Code Master
+$1066837E 000000??
++Slot 11
+%Credits: Code Master
+$10668388 000000??
++Slot 12
+%Credits: Code Master
+$10668392 000000??
++Slot 13
+%Credits: Code Master
+$1066839C 000000??
++Slot 14
+%Credits: Code Master
+$106683A6 000000??
++Slot 15
+%Credits: Code Master
+$106683B0 000000??
++Slot 16
+%Credits: Code Master
+$106683BA 000000??
++Slot 17
+%Credits: Code Master
+$106683C4 000000??
++Slot 18
+%Credits: Code Master
+$106683CE 000000??
++Slot 19
+%Credits: Code Master
+$106683D8 000000??
++Slot 20
+%Credits: Code Master
+$106683E2 000000??
++Slot 21
+%Credits: Code Master
+$106683EC 000000??
++Slot 22
+%Credits: Code Master
+$106683F6 000000??
++Slot 23
+%Credits: Code Master
+$10668400 000000??
++Slot 24
+%Credits: Code Master
+$1066840A 000000??
++Slot 25
+%Credits: Code Master
+$10668414 000000??
++Slot 26
+%Credits: Code Master
+$1066841E 000000??
++Slot 27
+%Credits: Code Master
+$10668428 000000??
++Slot 28
+%Credits: Code Master
+$10668432 000000??
++Slot 29
+%Credits: Code Master
+$1066843C 000000??
++Slot 30
+%Credits: Code Master
+$10668446 000000??
++Slot 31
+%Credits: Code Master
+$10668450 000000??
++Slot 32
+%Credits: Code Master
+$1066845A 000000??
++Slot 33
+%Credits: Code Master
+$10668464 000000??
++Slot 34
+%Credits: Code Master
+$1066846E 000000??
++Slot 35
+%Credits: Code Master
+$10668478 000000??
++Slot 36
+%Credits: Code Master
+$10668482 000000??
++Slot 37
+%Credits: Code Master
+$1066848C 000000??
++Slot 38
+%Credits: Code Master
+$10668496 000000??
++Slot 39
+%Credits: Code Master
+$106684A0 000000??
++Slot 40
+%Credits: Code Master
+$106684AA 000000??
++Slot 41
+%Credits: Code Master
+$106684B4 000000??
++Slot 42
+%Credits: Code Master
+$106684BE 000000??
++Slot 43
+%Credits: Code Master
+$106684C8 000000??
++Slot 44
+%Credits: Code Master
+$106684D2 000000??
++Slot 45
+%Credits: Code Master
+$106684DC 000000??
++Slot 46
+%Credits: Code Master
+$106684E6 000000??
++Slot 47
+%Credits: Code Master
+$106684F0 000000??
++Slot 48
+%Credits: Code Master
+$106684FA 000000??
++Slot 49
+%Credits: Code Master
+$10668504 000000??
++Slot 50
+%Credits: Code Master
+$1066850E 000000??
++Slot 51
+%Credits: Code Master
+$10668518 000000??
++Slot 52
+%Credits: Code Master
+$10668522 000000??
++Slot 53
+%Credits: Code Master
+$1066852C 000000??
++Slot 54
+%Credits: Code Master
+$10668536 000000??
++Slot 55
+%Credits: Code Master
+$10668540 000000??
++Slot 56
+%Credits: Code Master
+$1066854A 000000??
++Slot 57
+%Credits: Code Master
+$10668554 000000??
++Slot 58
+%Credits: Code Master
+$1066855E 000000??
++Slot 59
+%Credits: Code Master
+$10668568 000000??
++Slot 60
+%Credits: Code Master
+$10668572 000000??
++Slot 61
+%Credits: Code Master
+$1066857C 000000??
++Slot 62
+%Credits: Code Master
+$10668586 000000??
++Slot 63
+%Credits: Code Master
+$10668590 000000??
++Slot 64
+%Credits: Code Master
+$1066859A 000000??
++Slot 65
+%Credits: Code Master
+$106685A4 000000??
++Slot 66
+%Credits: Code Master
+$106685AE 000000??
++Slot 67
+%Credits: Code Master
+$106685B8 000000??
++Slot 68
+%Credits: Code Master
+$106685C2 000000??
++Slot 69
+%Credits: Code Master
+$106685CC 000000??
++Slot 70
+%Credits: Code Master
+$106685D6 000000??
++Slot 71
+%Credits: Code Master
+$106685E0 000000??
++Slot 72
+%Credits: Code Master
+$106685EA 000000??
++Slot 73
+%Credits: Code Master
+$106685F4 000000??
++Slot 74
+%Credits: Code Master
+$106685FE 000000??
++Slot 75
+%Credits: Code Master
+$10668608 000000??
++Slot 76
+%Credits: Code Master
+$10668612 000000??
++Slot 77
+%Credits: Code Master
+$1066861C 000000??
++Slot 78
+%Credits: Code Master
+$10668626 000000??
++Slot 79
+%Credits: Code Master
+$10668630 000000??
++Slot 80
+%Credits: Code Master
+$1066863A 000000??
++Slot 81
+%Credits: Code Master
+$10668644 000000??
++Slot 82
+%Credits: Code Master
+$1066864E 000000??
++Slot 83
+%Credits: Code Master
+$10668658 000000??
++Slot 84
+%Credits: Code Master
+$10668662 000000??
++Slot 85
+%Credits: Code Master
+$1066866C 000000??
++Slot 86
+%Credits: Code Master
+$10668676 000000??
++Slot 87
+%Credits: Code Master
+$10668680 000000??
++Slot 88
+%Credits: Code Master
+$1066868A 000000??
++Slot 89
+%Credits: Code Master
+$10668694 000000??
++Slot 90
+%Credits: Code Master
+$1066869E 000000??
++Slot 91
+%Credits: Code Master
+$106686A8 000000??
++Slot 92
+%Credits: Code Master
+$106686B2 000000??
++Slot 93
+%Credits: Code Master
+$106686BC 000000??
++Slot 94
+%Credits: Code Master
+$106686C6 000000??
++Slot 95
+%Credits: Code Master
+$106686D0 000000??
++Slot 96
+%Credits: Code Master
+$106686DA 000000??
++Slot 97
+%Credits: Code Master
+$106686E4 000000??
++Slot 98
+%Credits: Code Master
+$106686EE 000000??
++Slot 99
+%Credits: Code Master
+$106686F8 000000??
++Slot 100
+%Credits: Code Master
+$10668702 000000??
+!!
+!Item Modifier Codes (Part 2):
++Slot 101
+%Credits: Code Master
+$1066870C 000000??
++Slot 102
+%Credits: Code Master
+$10668716 000000??
++Slot 103
+%Credits: Code Master
+$10668720 000000??
++Slot 104
+%Credits: Code Master
+$1066872A 000000??
++Slot 105
+%Credits: Code Master
+$10668734 000000??
++Slot 106
+%Credits: Code Master
+$1066873E 000000??
++Slot 107
+%Credits: Code Master
+$10668748 000000??
++Slot 108
+%Credits: Code Master
+$10668752 000000??
++Slot 109
+%Credits: Code Master
+$1066875C 000000??
++Slot 110
+%Credits: Code Master
+$10668766 000000??
++Slot 111
+%Credits: Code Master
+$10668770 000000??
++Slot 112
+%Credits: Code Master
+$1066877A 000000??
++Slot 113
+%Credits: Code Master
+$10668784 000000??
++Slot 114
+%Credits: Code Master
+$1066878E 000000??
++Slot 115
+%Credits: Code Master
+$10668798 000000??
++Slot 116
+%Credits: Code Master
+$106687A2 000000??
++Slot 117
+%Credits: Code Master
+$106687AC 000000??
++Slot 118
+%Credits: Code Master
+$106687B6 000000??
++Slot 119
+%Credits: Code Master
+$106687C0 000000??
++Slot 120
+%Credits: Code Master
+$106687CA 000000??
++Slot 121
+%Credits: Code Master
+$106687D4 000000??
++Slot 122
+%Credits: Code Master
+$106687DE 000000??
++Slot 123
+%Credits: Code Master
+$106687E8 000000??
++Slot 124
+%Credits: Code Master
+$106687F2 000000??
++Slot 125
+%Credits: Code Master
+$106687FC 000000??
++Slot 126
+%Credits: Code Master
+$10668806 000000??
++Slot 127
+%Credits: Code Master
+$10668810 000000??
++Slot 128
+%Credits: Code Master
+$1066881A 000000??
++Slot 129
+%Credits: Code Master
+$10668824 000000??
++Slot 130
+%Credits: Code Master
+$1066882E 000000??
++Slot 131
+%Credits: Code Master
+$10668838 000000??
++Slot 132
+%Credits: Code Master
+$10668842 000000??
++Slot 133
+%Credits: Code Master
+$1066884C 000000??
++Slot 134
+%Credits: Code Master
+$10668856 000000??
++Slot 135
+%Credits: Code Master
+$10668860 000000??
++Slot 136
+%Credits: Code Master
+$1066886A 000000??
++Slot 137
+%Credits: Code Master
+$10668874 000000??
++Slot 138
+%Credits: Code Master
+$1066887E 000000??
++Slot 139
+%Credits: Code Master
+$10668888 000000??
++Slot 140
+%Credits: Code Master
+$10668892 000000??
++Slot 141
+%Credits: Code Master
+$1066889C 000000??
++Slot 142
+%Credits: Code Master
+$106688A6 000000??
++Slot 143
+%Credits: Code Master
+$106688B0 000000??
++Slot 144
+%Credits: Code Master
+$106688BA 000000??
++Slot 145
+%Credits: Code Master
+$106688C4 000000??
++Slot 146
+%Credits: Code Master
+$106688CE 000000??
++Slot 147
+%Credits: Code Master
+$106688D8 000000??
++Slot 148
+%Credits: Code Master
+$106688E2 000000??
++Slot 149
+%Credits: Code Master
+$106688EC 000000??
++Slot 150
+%Credits: Code Master
+$106688F6 000000??
++Slot 151
+%Credits: Code Master
+$10668900 000000??
++Slot 152
+%Credits: Code Master
+$1066890A 000000??
++Slot 153
+%Credits: Code Master
+$10668914 000000??
++Slot 154
+%Credits: Code Master
+$1066891E 000000??
++Slot 155
+%Credits: Code Master
+$10668928 000000??
++Slot 156
+%Credits: Code Master
+$10668932 000000??
++Slot 157
+%Credits: Code Master
+$1066893C 000000??
++Slot 158
+%Credits: Code Master
+$10668946 000000??
++Slot 159
+%Credits: Code Master
+$10668950 000000??
++Slot 160
+%Credits: Code Master
+$1066895A 000000??
++Slot 161
+%Credits: Code Master
+$10668964 000000??
++Slot 162
+%Credits: Code Master
+$1066896E 000000??
++Slot 163
+%Credits: Code Master
+$10668978 000000??
++Slot 164
+%Credits: Code Master
+$10668982 000000??
++Slot 165
+%Credits: Code Master
+$1066898C 000000??
++Slot 166
+%Credits: Code Master
+$10668996 000000??
++Slot 167
+%Credits: Code Master
+$106689A0 000000??
++Slot 168
+%Credits: Code Master
+$106689AA 000000??
++Slot 169
+%Credits: Code Master
+$106689B4 000000??
++Slot 170
+%Credits: Code Master
+$106689BE 000000??
++Slot 171
+%Credits: Code Master
+$106689C8 000000??
++Slot 172
+%Credits: Code Master
+$106689D2 000000??
++Slot 173
+%Credits: Code Master
+$106689DC 000000??
++Slot 174
+%Credits: Code Master
+$106689E6 000000??
++Slot 175
+%Credits: Code Master
+$106689F0 000000??
++Slot 176
+%Credits: Code Master
+$106689FA 000000??
++Slot 177
+%Credits: Code Master
+$10668A04 000000??
++Slot 178
+%Credits: Code Master
+$10668A0E 000000??
++Slot 179
+%Credits: Code Master
+$10668A18 000000??
++Slot 180
+%Credits: Code Master
+$10668A22 000000??
+!!
+!Jet Codes:
++20 BLT
+%Credits: Codejunkies
+$10664AC2 00000014
+++300 Hit
+%Credits: Codejunkies
+$10664ABE 0000012C
+++300 SHT
+%Credits: Codejunkies
+$10664ABC 0000012C
++-20 Wgt
+%Credits: Codejunkies
+$10664AC4 00000014
++Condition Green
+%Credits: Codejunkies
+$20664AA8 00000000
++Full HP After Battle
+%Credits: Codejunkies
+$10664A98 0000270F
++Full HP In Battle
+%Credits: Codejunkies
+$105939F0 0000270F
++Infinite Fp
+%Credits: Codejunkies
+$105939F4 00000064
++Infinite Shots
+%Credits: Codejunkies
+$10593A0E 0000270F
++Max Aim
+%Credits: Codejunkies
+$10664AD8 0000270F
++Max Att
+%Credits: Codejunkies
+$10664AD6 0000270F
++Max Def
+%Credits: Codejunkies
+$10664ACC 0000270F
++Max Eva
+%Credits: Codejunkies
+$10664AD2 0000270F
++Max Fp
+%Credits: Codejunkies
+$10664ADC 00000064
++Max HP
+%Credits: Codejunkies
+$10664AA0 0000270F
++Max Mag
+%Credits: Codejunkies
+$10664ACE 0000270F
++Max Mgr
+%Credits: Codejunkies
+$10664AD0 0000270F
++Max Rfx
+%Credits: Codejunkies
+$10664AD4 0000270F
++Max Vit
+%Credits: Codejunkies
+$10664ADE 00000064
++X2.0 Crt
+%Credits: Codejunkies
+$10664AC6 00000014
+!!
+!Jet Enduro Codes:
++Infinite FP
+%Credits: Code Master
+$205939F4 00000064
++Infinite HP
+%Credits: Code Master
+$205939F0 0000270F
++Infinite HP
+%Credits: Code Master
+$20664A98 0000270F
++Max AIM
+%Credits: Code Master
+$10644AD8 000003E7
++Max ATT
+%Credits: Code Master
+$10644AD6 000003E7
++Max DEF
+%Credits: Code Master
+$10664ACC 000003E7
++Max EVA
+%Credits: Code Master
+$10644AD2 000003E7
++Max EXP
+%Credits: Code Master
+$20664A94 05F5E0FF
++Max HP
+%Credits: Code Master
+$20664AA0 0000270F
++Max MAG
+%Credits: Code Master
+$10644ACE 000003E7
++Max MGR
+%Credits: Code Master
+$10644AD0 000003E7
++Max RFX
+%Credits: Code Master
+$10644AD4 000003E7
++Quick EXP Gain
+%Credits: Code Master
+$10664A94 0000FFFF
+!!
+!JET: TOOLS:
++Aqua Wisp2-Slot 1
+%Credits: Codejunkies
+$10664AE0 0000000C
++Aqua Wisp2-Slot 2
+%Credits: Codejunkies
+$10664AE2 0000000C
++Aqua Wisp2-Slot 3
+%Credits: Codejunkies
+$10664AE4 0000000C
++Aqua Wisp-Slot 1
+%Credits: Codejunkies
+$10664AE0 00000001
++Aqua Wisp-Slot 2
+%Credits: Codejunkies
+$10664AE2 00000001
++Aqua Wisp-Slot 3
+%Credits: Codejunkies
+$10664AE4 00000001
++Brave Seal-Slot 1
+%Credits: Codejunkies
+$10664AE0 00000009
++Brave Seal-Slot 2
+%Credits: Codejunkies
+$10664AE2 00000009
++Brave Seal-Slot 3
+%Credits: Codejunkies
+$10664AE4 00000009
++Cosmic Cog-Slot 1
+%Credits: Codejunkies
+$10664AE0 00000007
++Cosmic Cog-Slot 2
+%Credits: Codejunkies
+$10664AE2 00000007
++Cosmic Cog-Slot 3
+%Credits: Codejunkies
+$10664AE4 00000007
++Fiery Rage-Slot 1
+%Credits: Codejunkies
+$10664AE0 00000002
++Fiery Rage-Slot 2
+%Credits: Codejunkies
+$10664AE2 00000002
++Fiery Rage-Slot 3
+%Credits: Codejunkies
+$10664AE4 00000002
++Flash Hit-Slot 1
+%Credits: Codejunkies
+$10664AE0 00000005
++Flash Hit-Slot 2
+%Credits: Codejunkies
+$10664AE2 00000005
++Flash Hit-Slot 3
+%Credits: Codejunkies
+$10664AE4 00000005
++Gale Claw-Slot 1
+%Credits: Codejunkies
+$10664AE0 00000003
++Gale Claw-Slot 2
+%Credits: Codejunkies
+$10664AE2 00000003
++Gale Claw-Slot 3
+%Credits: Codejunkies
+$10664AE4 00000003
++Hope Shard-Slot 1
+%Credits: Codejunkies
+$10664AE0 0000000A
++Hope Shard-Slot 2
+%Credits: Codejunkies
+$10664AE2 0000000A
++Hope Shard-Slot 3
+%Credits: Codejunkies
+$10664AE4 0000000A
++Love Charm-Slot 1
+%Credits: Codejunkies
+$10664AE0 00000008
++Love Charm-Slot 2
+%Credits: Codejunkies
+$10664AE2 00000008
++Love Charm-Slot 3
+%Credits: Codejunkies
+$10664AE4 00000008
++Lucky Hand-Slot 1
+%Credits: Codejunkies
+$10664AE0 00000006
++Lucky Hand-Slot 2
+%Credits: Codejunkies
+$10664AE2 00000006
++Lucky Hand-Slot 3
+%Credits: Codejunkies
+$10664AE4 00000006
++Lust Jaw-Slot 1
+%Credits: Codejunkies
+$10664AE0 0000000B
++Lust Jaw-Slot 2
+%Credits: Codejunkies
+$10664AE2 0000000B
++Lust Jaw-Slot 3
+%Credits: Codejunkies
+$10664AE4 0000000B
++Moon Spark-Slot 1
+%Credits: Codejunkies
+$10664AE0 00000004
++Moon Spark-Slot 2
+%Credits: Codejunkies
+$10664AE2 00000004
++Moon Spark-Slot 3
+%Credits: Codejunkies
+$10664AE4 00000004
++Terra Roar-Slot 1
+%Credits: Codejunkies
+$10664AE0 00000000
++Terra Roar-Slot 2
+%Credits: Codejunkies
+$10664AE2 00000000
++Terra Roar-Slot 3
+%Credits: Codejunkies
+$10664AE4 00000000
+!!
+!Max Item Codes (Part 1):
++Slot 1
+%Credits: Code Master
+$10668326 00000063
++Slot 2
+%Credits: Code Master
+$10668330 00000063
++Slot 3
+%Credits: Code Master
+$1066833A 00000063
++Slot 4
+%Credits: Code Master
+$10668344 00000063
++Slot 5
+%Credits: Code Master
+$1066834E 00000063
++Slot 6
+%Credits: Code Master
+$10668358 00000063
++Slot 7
+%Credits: Code Master
+$10668362 00000063
++Slot 8
+%Credits: Code Master
+$1066836C 00000063
++Slot 9
+%Credits: Code Master
+$10668376 00000063
++Slot 10
+%Credits: Code Master
+$10668380 00000063
++Slot 11
+%Credits: Code Master
+$1066838A 00000063
++Slot 12
+%Credits: Code Master
+$10668394 00000063
++Slot 13
+%Credits: Code Master
+$1066839E 00000063
++Slot 14
+%Credits: Code Master
+$106683A8 00000063
++Slot 15
+%Credits: Code Master
+$106683B2 00000063
++Slot 16
+%Credits: Code Master
+$106683BC 00000063
++Slot 17
+%Credits: Code Master
+$106683C6 00000063
++Slot 18
+%Credits: Code Master
+$106683D0 00000063
++Slot 19
+%Credits: Code Master
+$106683DA 00000063
++Slot 20
+%Credits: Code Master
+$106683E4 00000063
++Slot 21
+%Credits: Code Master
+$106683EE 00000063
++Slot 22
+%Credits: Code Master
+$106683F8 00000063
++Slot 23
+%Credits: Code Master
+$10668402 00000063
++Slot 24
+%Credits: Code Master
+$1066840C 00000063
++Slot 25
+%Credits: Code Master
+$10668416 00000063
++Slot 26
+%Credits: Code Master
+$10668420 00000063
++Slot 27
+%Credits: Code Master
+$1066842A 00000063
++Slot 28
+%Credits: Code Master
+$10668434 00000063
++Slot 29
+%Credits: Code Master
+$1066843E 00000063
++Slot 30
+%Credits: Code Master
+$10668448 00000063
++Slot 31
+%Credits: Code Master
+$10668452 00000063
++Slot 32
+%Credits: Code Master
+$1066845C 00000063
++Slot 33
+%Credits: Code Master
+$10668466 00000063
++Slot 34
+%Credits: Code Master
+$10668470 00000063
++Slot 35
+%Credits: Code Master
+$1066847A 00000063
++Slot 36
+%Credits: Code Master
+$10668484 00000063
++Slot 37
+%Credits: Code Master
+$1066848E 00000063
++Slot 38
+%Credits: Code Master
+$10668498 00000063
++Slot 39
+%Credits: Code Master
+$106684A2 00000063
++Slot 40
+%Credits: Code Master
+$106684AC 00000063
++Slot 41
+%Credits: Code Master
+$106684B6 00000063
++Slot 42
+%Credits: Code Master
+$106684C0 00000063
++Slot 43
+%Credits: Code Master
+$106684CA 00000063
++Slot 44
+%Credits: Code Master
+$106684D4 00000063
++Slot 45
+%Credits: Code Master
+$106684DE 00000063
++Slot 46
+%Credits: Code Master
+$106684E8 00000063
++Slot 47
+%Credits: Code Master
+$106684F2 00000063
++Slot 48
+%Credits: Code Master
+$106684FC 00000063
++Slot 49
+%Credits: Code Master
+$10668506 00000063
++Slot 50
+%Credits: Code Master
+$10668510 00000063
++Slot 51
+%Credits: Code Master
+$1066851A 00000063
++Slot 52
+%Credits: Code Master
+$10668524 00000063
++Slot 53
+%Credits: Code Master
+$1066852E 00000063
++Slot 54
+%Credits: Code Master
+$10668538 00000063
++Slot 55
+%Credits: Code Master
+$10668542 00000063
++Slot 56
+%Credits: Code Master
+$1066854C 00000063
++Slot 57
+%Credits: Code Master
+$10668556 00000063
++Slot 58
+%Credits: Code Master
+$10668560 00000063
++Slot 59
+%Credits: Code Master
+$1066856A 00000063
++Slot 60
+%Credits: Code Master
+$10668574 00000063
++Slot 61
+%Credits: Code Master
+$1066857E 00000063
++Slot 62
+%Credits: Code Master
+$10668588 00000063
++Slot 63
+%Credits: Code Master
+$10668592 00000063
++Slot 64
+%Credits: Code Master
+$1066859C 00000063
++Slot 65
+%Credits: Code Master
+$106685A6 00000063
++Slot 66
+%Credits: Code Master
+$106685B0 00000063
++Slot 67
+%Credits: Code Master
+$106685BA 00000063
++Slot 68
+%Credits: Code Master
+$106685C4 00000063
++Slot 69
+%Credits: Code Master
+$106685CE 00000063
++Slot 70
+%Credits: Code Master
+$106685D8 00000063
++Slot 71
+%Credits: Code Master
+$106685E2 00000063
++Slot 72
+%Credits: Code Master
+$106685EC 00000063
++Slot 73
+%Credits: Code Master
+$106685F6 00000063
++Slot 74
+%Credits: Code Master
+$10668600 00000063
++Slot 75
+%Credits: Code Master
+$1066860A 00000063
++Slot 76
+%Credits: Code Master
+$10668614 00000063
++Slot 77
+%Credits: Code Master
+$1066861E 00000063
++Slot 78
+%Credits: Code Master
+$10668628 00000063
++Slot 79
+%Credits: Code Master
+$10668632 00000063
++Slot 80
+%Credits: Code Master
+$1066863C 00000063
++Slot 81
+%Credits: Code Master
+$10668646 00000063
++Slot 82
+%Credits: Code Master
+$10668650 00000063
++Slot 83
+%Credits: Code Master
+$1066865A 00000063
++Slot 84
+%Credits: Code Master
+$10668664 00000063
++Slot 85
+%Credits: Code Master
+$1066866E 00000063
++Slot 86
+%Credits: Code Master
+$10668678 00000063
++Slot 87
+%Credits: Code Master
+$10668682 00000063
++Slot 88
+%Credits: Code Master
+$1066868C 00000063
++Slot 89
+%Credits: Code Master
+$10668696 00000063
++Slot 90
+%Credits: Code Master
+$106686A0 00000063
++Slot 91
+%Credits: Code Master
+$106686AA 00000063
++Slot 92
+%Credits: Code Master
+$106686B4 00000063
++Slot 93
+%Credits: Code Master
+$106686BE 00000063
++Slot 94
+%Credits: Code Master
+$106686C8 00000063
++Slot 95
+%Credits: Code Master
+$106686D2 00000063
++Slot 96
+%Credits: Code Master
+$106686DC 00000063
++Slot 97
+%Credits: Code Master
+$106686E6 00000063
++Slot 98
+%Credits: Code Master
+$106686F0 00000063
++Slot 99
+%Credits: Code Master
+$106686FA 00000063
++Slot 100
+%Credits: Code Master
+$10668704 00000063
+!!
+!Max Item Codes (Part 2):
++Slot 101
+%Credits: Code Master
+$1066870E 00000063
++Slot 102
+%Credits: Code Master
+$10668718 00000063
++Slot 103
+%Credits: Code Master
+$10668722 00000063
++Slot 104
+%Credits: Code Master
+$1066872C 00000063
++Slot 105
+%Credits: Code Master
+$10668736 00000063
++Slot 106
+%Credits: Code Master
+$10668740 00000063
++Slot 107
+%Credits: Code Master
+$1066874A 00000063
++Slot 108
+%Credits: Code Master
+$10668754 00000063
++Slot 109
+%Credits: Code Master
+$1066875E 00000063
++Slot 110
+%Credits: Code Master
+$10668768 00000063
++Slot 111
+%Credits: Code Master
+$10668772 00000063
++Slot 112
+%Credits: Code Master
+$1066877C 00000063
++Slot 113
+%Credits: Code Master
+$10668786 00000063
++Slot 114
+%Credits: Code Master
+$10668790 00000063
++Slot 115
+%Credits: Code Master
+$1066879A 00000063
++Slot 116
+%Credits: Code Master
+$106687A4 00000063
++Slot 117
+%Credits: Code Master
+$106687AE 00000063
++Slot 118
+%Credits: Code Master
+$106687B8 00000063
++Slot 119
+%Credits: Code Master
+$106687C2 00000063
++Slot 120
+%Credits: Code Master
+$106687CC 00000063
++Slot 121
+%Credits: Code Master
+$106687D6 00000063
++Slot 122
+%Credits: Code Master
+$106687E0 00000063
++Slot 123
+%Credits: Code Master
+$106687EA 00000063
++Slot 124
+%Credits: Code Master
+$106687F4 00000063
++Slot 125
+%Credits: Code Master
+$106687FE 00000063
++Slot 126
+%Credits: Code Master
+$10668808 00000063
++Slot 127
+%Credits: Code Master
+$10668812 00000063
++Slot 128
+%Credits: Code Master
+$1066881C 00000063
++Slot 129
+%Credits: Code Master
+$10668826 00000063
++Slot 130
+%Credits: Code Master
+$10668830 00000063
++Slot 131
+%Credits: Code Master
+$1066883A 00000063
++Slot 132
+%Credits: Code Master
+$10668844 00000063
++Slot 133
+%Credits: Code Master
+$1066884E 00000063
++Slot 134
+%Credits: Code Master
+$10668858 00000063
++Slot 135
+%Credits: Code Master
+$10668862 00000063
++Slot 136
+%Credits: Code Master
+$1066886C 00000063
++Slot 137
+%Credits: Code Master
+$10668876 00000063
++Slot 138
+%Credits: Code Master
+$10668880 00000063
++Slot 139
+%Credits: Code Master
+$1066888A 00000063
++Slot 140
+%Credits: Code Master
+$10668894 00000063
++Slot 141
+%Credits: Code Master
+$1066889E 00000063
++Slot 142
+%Credits: Code Master
+$106688A8 00000063
++Slot 143
+%Credits: Code Master
+$106688B2 00000063
++Slot 144
+%Credits: Code Master
+$106688BC 00000063
++Slot 145
+%Credits: Code Master
+$106688C6 00000063
++Slot 146
+%Credits: Code Master
+$106688D0 00000063
++Slot 147
+%Credits: Code Master
+$106688DA 00000063
++Slot 148
+%Credits: Code Master
+$106688E4 00000063
++Slot 149
+%Credits: Code Master
+$106688EE 00000063
++Slot 150
+%Credits: Code Master
+$106688F8 00000063
++Slot 151
+%Credits: Code Master
+$10668902 00000063
++Slot 152
+%Credits: Code Master
+$1066890C 00000063
++Slot 153
+%Credits: Code Master
+$10668916 00000063
++Slot 154
+%Credits: Code Master
+$10668920 00000063
++Slot 155
+%Credits: Code Master
+$1066892A 00000063
++Slot 156
+%Credits: Code Master
+$10668934 00000063
++Slot 157
+%Credits: Code Master
+$1066893E 00000063
++Slot 158
+%Credits: Code Master
+$10668948 00000063
++Slot 159
+%Credits: Code Master
+$10668952 00000063
++Slot 160
+%Credits: Code Master
+$1066895C 00000063
++Slot 161
+%Credits: Code Master
+$10668966 00000063
++Slot 162
+%Credits: Code Master
+$10668970 00000063
++Slot 163
+%Credits: Code Master
+$1066897A 00000063
++Slot 164
+%Credits: Code Master
+$10668984 00000063
++Slot 165
+%Credits: Code Master
+$1066898E 00000063
++Slot 166
+%Credits: Code Master
+$10668998 00000063
++Slot 167
+%Credits: Code Master
+$106689A2 00000063
++Slot 168
+%Credits: Code Master
+$106689AC 00000063
++Slot 169
+%Credits: Code Master
+$106689B6 00000063
++Slot 170
+%Credits: Code Master
+$106689C0 00000063
++Slot 171
+%Credits: Code Master
+$106689CA 00000063
++Slot 172
+%Credits: Code Master
+$106689D4 00000063
++Slot 173
+%Credits: Code Master
+$106689DE 00000063
++Slot 174
+%Credits: Code Master
+$106689E8 00000063
++Slot 175
+%Credits: Code Master
+$106689F2 00000063
++Slot 176
+%Credits: Code Master
+$106689FC 00000063
++Slot 177
+%Credits: Code Master
+$10668A06 00000063
++Slot 178
+%Credits: Code Master
+$10668A10 00000063
++Slot 179
+%Credits: Code Master
+$10668A1A 00000063
++Slot 180
+%Credits: Code Master
+$10668A24 00000063
+!!
+!Miscellaneous Codes:
++Always Low Time
+%Credits: Code Master
+$20664890 00000000
++Infinite ECN
+%Credits: Code Master
+$20664EF0 0000000A
++Infinite Gella
+%Credits: Code Master
+$10664EEC 0000FFFF
++Infinite Item Usage
+%Credits: Code Master
+$2018D4B8 00000000
++Max Gella
+%Credits: Code Master
+$20664EEC 0098967F
+!!
++No Random Encounters
+%Credits: Codejunkies
+$D04DFC4A 0000A000
+$104DFC4A 00008000
+!Page 1:
++Infinite Ecn
+%Credits: Codejunkies
+$00664EF0 00000063
++Low Time
+%Credits: Codejunkies
+$20664890 00000001
++Max Gella
+%Credits: Codejunkies
+$20664EEC 05F5E0FF
+!!
+!Quantity Digits:
++Item Modifier Quantity Digits {<I>00 - Heal Berry 01 - Potion Berry 02 - Mega Berry 03 - Revive Fruit 04 - Antidote 05 - Medicine 06 - Pixie Dust 07 - Pinwheel 08 - Toy Hammer 09 - Peppy Acorn 0A - Breath Mint 0B - Seed Powder 0C - Magicleanser 0D - Nectar 0E - Holy Root 0F - Ambrosia 10 - Tiny Flower 11 - Mini Carrot 12 - Full Carrot 13 - Lucky Card 14 - Gella Card 15 - Grab Bag 16 - Big Grab Bag 17 - LVL Apple 18 - Gimel Coin 19 - Relic Coin 1A - Duplicator 1B - Exodus Orb 1C - Teleport Orb 1D - Tracker 1E - Map Scope 1F - World Screen 20 - Call Whistle 21 - Item Scope 22 - Growth Egg 23 - Name Tag 24 - Sonar Kit 25 - Moonstone 26 - Hazel Sprig 27 - Blue Bracer 28 - Clear Chime 29 - Memo Pen 2A - Heart Leaf 2B - Alarm Clock 2C - Soul Feather 2D - Holy Ankh 2E - Holy Grail 2F - Full Libra 30 - Earth Ring 31 - Water Ring 32 - Ice Ring 33 - Fire Ring 34 - Wind Ring 35 - Thunder Ring 36 - Light Ring 37 - Dark Ring 38 - Prism Crown 39 - Gunstar Sign 3A - Arctic Blade 3B - Vambrace 3C - Lion Shield 3D - Violator 3E - Bullet Clip 3F - AP Ammo 40 - Talisman 41 - Baselard 42 - Nine Lives 43 - Crisis Arm 44 - Pulbo Calbo 45 - Cait&#39;S Boots 46 - Prism Stick 47 - Cute Ribbon 48 - Power Boost 49 - Force Unit 4A - Elder Record 4B - Secret Note 4C - Sunset Red 4D - Evergreen 4E - Magic Candle 4F - Ebony Shadow 50 - Necronomicon 51 - Comet Mark 52 - Dist Dims 53 - Dried Flower 54 - Pocketbook 55 - Weather Vane 56 - Missanga 57 - 10-Gal Hat 58 - Amulet 59 - Robber&#39;S Ego 5A - Golden Dawn 5B - Sheriff Star 5F - Migrant Seal 60 - Booster Kit 61 - EX File Key 62 - Earth Gem 63 - Water Gem 64 - Fire Gem 65 - Wind Gem 66 - Thunder Gem 67 - Ice Gem 68 - Light Gem 69 - Dark Gem 6A - Warp Star 80 - Ark Scepter 81 - Black Pass 82 - Andro Seal 83 - Kizim Fire 84 - Right Half 85 - Taped Photo 86 - Dragon Idol 87 - Lion Idol 88 - Goddess Idol 89 - Wolf Idol 8A - Paperback 8B - Dragon Fossil 8C - Teardrop 8D - Figurine 1 8E - Figurine 2 8F - Figurine 3 90 - Figurine 4 91 - Figurine 5 92 - Corpse Ring 93 - Map Shred 94 - Card Key 95 - Holy Mother 96 - Last Letter 97 - Dream Key 98 - Old Terminal 99 - Bone 9A - Gold License 9B - Adventure 1 9C - Adventure 2 9D - Adventure 3 9E - Adventure 4 9F - Adventure 5 A0 - Adventure 6 A1 - Adventure 7 A2 - Adventure 8 A3 - Adventure 9 A4 - Adventure 10 A5 - Adventure 11 AF - Left Half B0 - Suitcase B1 - ID Card B2 - Red Gloves B3 - Chronograph B4 - Whateley Key</I>}
+%Credits: NA
+!!
+!Slot 1:
++Aqua Wisp
+%Credits: Codejunkies
+$10664A30 00000001
++Aqua Wisp 2
+%Credits: Codejunkies
+$10664A30 0000000C
++Brave Seal
+%Credits: Codejunkies
+$10664A30 00000009
++Cosmic Cog
+%Credits: Codejunkies
+$10664A30 00000007
++Fiery Rage
+%Credits: Codejunkies
+$10664A30 00000002
++Flash Hit
+%Credits: Codejunkies
+$10664A30 00000005
++Gale Claw
+%Credits: Codejunkies
+$10664A30 00000003
++Hope Shard
+%Credits: Codejunkies
+$10664A30 0000000A
++Love Charm
+%Credits: Codejunkies
+$10664A30 00000008
++Lucky Hand
+%Credits: Codejunkies
+$10664A30 00000006
++Lust Jaw
+%Credits: Codejunkies
+$10664A30 0000000B
++Moon Spark
+%Credits: Codejunkies
+$10664A30 00000004
++Terra Roar
+%Credits: Codejunkies
+$10664A30 00000000
+!!
+!Slot 2:
++Aqua Wisp
+%Credits: Codejunkies
+$10664A32 00000001
++Aqua Wisp 2
+%Credits: Codejunkies
+$10664A32 0000000C
++Brave Sea
+%Credits: Codejunkies
+$10664A32 00000009
++Cosmic Cog
+%Credits: Codejunkies
+$10664A32 00000007
++Fiery Rage
+%Credits: Codejunkies
+$10664A32 00000002
++Flash Hit
+%Credits: Codejunkies
+$10664A32 00000005
++Gale Claw
+%Credits: Codejunkies
+$10664A32 00000003
++Hope Shard
+%Credits: Codejunkies
+$10664A32 0000000A
++Love Charm
+%Credits: Codejunkies
+$10664A32 00000008
++Lucky Hand
+%Credits: Codejunkies
+$10664A32 00000006
++Lust Jaw
+%Credits: Codejunkies
+$10664A32 0000000B
++Moon Spark
+%Credits: Codejunkies
+$10664A32 00000004
++Terra Roar
+%Credits: Codejunkies
+$10664A32 00000000
+!!
+!Slot 3:
++Aqua Wisp
+%Credits: Codejunkies
+$10664A34 00000001
++Aqua Wisp 2
+%Credits: Codejunkies
+$10664A34 0000000C
++Brave Seal
+%Credits: Codejunkies
+$10664A34 00000009
++Cosmic Cog
+%Credits: Codejunkies
+$10664A34 00000007
++Fiery Rage
+%Credits: Codejunkies
+$10664A34 00000002
++Flash Hit
+%Credits: Codejunkies
+$10664A34 00000005
++Gale Claw
+%Credits: Codejunkies
+$10664A34 00000003
++Hope Shard
+%Credits: Codejunkies
+$10664A34 0000000A
++Love Charm
+%Credits: Codejunkies
+$10664A34 00000008
++Lucky Hand
+%Credits: Codejunkies
+$10664A34 00000006
++Lust Jaw
+%Credits: Codejunkies
+$10664A34 0000000B
++Moon Spark
+%Credits: Codejunkies
+$10664A34 00000004
++Terra Roar
+%Credits: Codejunkies
+$10664A34 00000000
+!!
+!Tool Equipped Modifier Codes:
++Slot 1
+%Credits: Code Master
+$10664C46 0000????
++Slot 1
+%Credits: Code Master
+$10664A36 0000????
++Slot 1
+%Credits: Code Master
+$10664B96 0000????
++Slot 1
+%Credits: Code Master
+$10664AE6 0000????
++Slot 2
+%Credits: Code Master
+$10664C48 0000????
++Slot 2
+%Credits: Code Master
+$10664A38 0000????
++Slot 2
+%Credits: Code Master
+$10664B98 0000????
++Slot 2
+%Credits: Code Master
+$10664AE8 0000????
++Slot 3
+%Credits: Code Master
+$10664C4A 0000????
++Slot 3
+%Credits: Code Master
+$10664A3A 0000????
++Slot 3
+%Credits: Code Master
+$10664B9A 0000????
++Slot 3
+%Credits: Code Master
+$10664AEA 0000????
+!!
+!Tool Modifier Codes:
++Slot 1
+%Credits: Code Master
+$10664C40 0000????
++Slot 1
+%Credits: Code Master
+$10664A30 0000????
++Slot 1
+%Credits: Code Master
+$10664B90 0000????
++Slot 1
+%Credits: Code Master
+$10664AE0 0000????
++Slot 2
+%Credits: Code Master
+$10664C42 0000????
++Slot 2
+%Credits: Code Master
+$10664A32 0000????
++Slot 2
+%Credits: Code Master
+$10664B92 0000????
++Slot 2
+%Credits: Code Master
+$10664AE2 0000????
++Slot 3
+%Credits: Code Master
+$10664C44 0000????
++Slot 3
+%Credits: Code Master
+$10664A34 0000????
++Slot 3
+%Credits: Code Master
+$10664B94 0000????
++Slot 3
+%Credits: Code Master
+$10664AE4 0000????
+!!
+!Virginia Codes:
++20 BLT
+%Credits: InterAct
+$10664A12 00000014
+++300 HIT
+%Credits: InterAct
+$10664A0E 0000012C
+++300 SHT
+%Credits: InterAct
+$10664A0C 0000012C
++-15 WGT
+%Credits: InterAct
+$10664A14 0000000F
++Condition Green
+%Credits: InterAct
+$206649F8 00000000
++Full HP After Battle
+%Credits: InterAct
+$106649E8 0000270F
++Full HP In Battle
+%Credits: InterAct
+$10590F90 0000270F
++Infinite FP
+%Credits: InterAct
+$10590F94 00000064
++Infinite Shots
+%Credits: InterAct
+$10590FAE 0000270F
++Max AIM
+%Credits: InterAct
+$10664A28 0000270F
++Max ATT
+%Credits: InterAct
+$10664A26 0000270F
++Max DEF
+%Credits: InterAct
+$10664A1C 0000270F
++Max EVA
+%Credits: InterAct
+$10664A22 0000270F
++Max FP
+%Credits: InterAct
+$10664A2C 00000064
++Max HP
+%Credits: InterAct
+$106649F0 0000270F
++Max MAG
+%Credits: InterAct
+$10664A1E 0000270F
++Max MGR
+%Credits: InterAct
+$10664A20 0000270F
++Max RFX
+%Credits: InterAct
+$10664A24 0000270F
++Max VIT
+%Credits: InterAct
+$10664A2E 00000064
++X2.0 CRT
+%Credits: InterAct
+$10664A16 00000014
+!!
+!Virginia Maxwell Codes:
++Infinite FP
+%Credits: Code Master
+$20590F94 00000064
++Infinite HP
+%Credits: Code Master
+$20590F90 0000270F
++Infinite HP
+%Credits: Code Master
+$206649E8 0000270F
++Max AIM
+%Credits: Code Master
+$10644A28 000003E7
++Max ATT
+%Credits: Code Master
+$10644A26 000003E7
++Max DEF
+%Credits: Code Master
+$10664A1C 000003E7
++Max EVA
+%Credits: Code Master
+$10644A22 000003E7
++Max EXP
+%Credits: Code Master
+$206649E4 05F5E0FF
++Max HP
+%Credits: Code Master
+$206649F0 0000270F
++Max MAG
+%Credits: Code Master
+$10644A1E 000003E7
++Max MGR
+%Credits: Code Master
+$10644A20 000003E7
++Max RFX
+%Credits: Code Master
+$10644A24 000003E7
++Quick EXP Gain
+%Credits: Code Master
+$106649E4 0000FFFF
+!!
+!!
+

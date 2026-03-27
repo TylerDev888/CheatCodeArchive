@@ -1,0 +1,28 @@
+^2 = GameID: AGB-BANE-USA
+^3 = NAME: Van Hellsing
+^4 = FILE: NTSC
++Red Keys
+$03004B2C 0004
++Health
+$33004B1C 0050
++1-Hit Kill All Bosses
+$33001E4C 0000
+$33001c30 0000
+$33001CE4 0000
+$33001B7C 0000
++Press A Turn Into Werewolf
+$33001140 0000
++Have Pistol
+$33001140 0002
++Press Up+R For Cross Bow 
+$74000130 02BF
+$33001140 0003
++Press Down+R For Lightning Gun 
+$74000130 027F
+$33001140 0004 
++No Reloading Regular Gun 
+$73004A6C 0006
+$83004A6C 0001 
++Quick Charge Lightning Gun 
+$73004B64 0001
+$83004B64 0100 

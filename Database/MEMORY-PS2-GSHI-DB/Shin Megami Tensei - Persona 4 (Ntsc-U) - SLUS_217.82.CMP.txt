@@ -1,0 +1,26 @@
+^3 = NAME: Shin Megami Tensei - Persona 4 (Ntsc-U)
+^2 = GameID: SLUS-21782
++All Positive Arcana Effects - Press Start To Enable, Select To Disable {<I>Grants More EXP, More Money, Map Visible. High Preemptive Attack Chance, Etc.  Turn Off When Getting A Arcana Chance Effect After The Shuffle.</I>}
+%Credits: DarkSerge
+$E002FFF7 008C0142
+$2079B44C 00405108
+$1079B450 00000551
+$E002FFFE 008C0142
+$2079B44C 00000000
+$1079B450 00000000
++Arcana Effect Modifier - Press Start To Enable, Select To Disable {<I>AA == 00 No Effect 01 Gain More EXP 02 Gain 1 EXP 04 Persona Cards More Likely During Suffle 08 Penalty Cards More Likely  BB == 00 No Effect 01 Gain More Money After Battle 02 Gain Less Money After Battle 10 Money Drops With Treasure Chests 20 Shadows Appear While Opening Treasure Chests 40 One More Chance Will Apear More Often 80 One More Chance Will Appear Less Often  XX == 00 No Effect 40 HP Set To 1, Sp Refilled, Sent Back To Entrance 80 HP Refilled, Sp Set To 1, Sent Back To Entrance  YY = 00 No Effect 01 Powerful Shadows Disappear From Area 02 Powerful Shadows Appear More Often In Dungeon 40 Whole Map Becomes Visible 80 No Map  ZZ = 00 No Effect 01 All Analysis Info Shown 02 No Analysis Info Shown 10 High Preemptive Attack 20 Enemy Has High Preemptive Attack Chance 40 Reverse Chance Nulled 80 High Reverse Chance  You Can Have Muliple Effects On For Each Address At The Same Time. To Do That Just Add 2 Or More Values From The Same Letter With A Hex Calculator. Like If You Wanted More Money, Money Drops From Treasure Chests And One More Chance Happens More Often Just Add 01 + 10 + 40 Together(Which Is 51) And Put The Result Of That In ZZ</I>}
+%Credits: DarkSerge
+2079B44C ??YYZZ08
+$E002FFF7 008C0142
+$1079B450 0000AABB
+$E002FFFE 008C0142
+$2079B44C 00000000
+$1079B450 00000000
++Enable Debug Options - Press Square To Enable, X To Disable {<I>??<Br>00=No Option<Br>C0=Debug Off<Br>F4= Normal<Br>FF=Debug On<Br>This Enables The Debug Options In Some Places. Like The Last Option On The In Dungeon Menu, It Lets You Go Up A Floor, Go Down A Floor, Or Go To The Entrance. There&#39;S Also A Floor Jump Option At The Dungeon Entrance That Gives You A Error When You Select It. Also When You Try To Enter A Dungeon It Gives You Debug Info About The Npcs. There Is Also A Skip Forward A Day Option At The MC&#39;S House Which Can Be Accessed Right Outside His House (All Of These Options Are Seen When You Press Square For The Normal Area/Room Jump Menu)<Br>If Its Anything Like P3 The Code Above Is Savable.</I>}
+%Credits: DarkSerge
+$D08C0142 00007FFF
+$0079B34C 000000FF
+$D08C0142 0000BFFF
+$0079B34C 000000??
+!!
+

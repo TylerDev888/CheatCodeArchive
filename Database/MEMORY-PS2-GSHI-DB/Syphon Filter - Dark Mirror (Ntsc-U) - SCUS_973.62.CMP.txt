@@ -1,0 +1,30 @@
+^3 = NAME: Syphon Filter - Dark Mirror (Ntsc-U)
+^2 = GameID: SCUS-97362
+!Master Codes:
++Master Code
+%Credits: BigBossman
+$90112C50 0C044ABC
+!!
+![ASM]:
++Infinite Ammo (Explosive) [ASM]
+%Credits: Josh_7774
+$2034E0E4 00000000
++Infinite Ammo (Sniper) [ASM]
+%Credits: Josh_7774
+$2034E0F4 00000000
++Infinite Ammo - No Reload [ASM]
+%Credits: Josh_7774
+$201FC274 00000000
++Infinite Ammo [ASM]
+%Credits: Josh_7774
+$2028767C 00000000
++Semi-Rapid Fire [ASM]
+%Credits: Josh_7774
+$20286EA4 00000000
+!!
++Infinite Health (Pointer)
+%Credits: Josh_7774
+$605E7FA0 7FFFFFFF
+$00020000 000026AC
+!!
+

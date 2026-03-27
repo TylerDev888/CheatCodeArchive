@@ -1,0 +1,7 @@
+^2 = GameID: BCES00078
+^3 = NAME: Heavenly Sword
+^4 = FILE: USERDATA.DAT
++Update Crc32 For Userdata.dat (required)
+$set range:0x000004,0x00783F
+$set [hash]:CRC32
+$write at 0x000000:[hash]

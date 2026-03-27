@@ -1,0 +1,11 @@
+^2 = GameID: BLUS30333
+^3 = NAME: JASF: Jane's Advanced Strike Fighters
+^4 = FILE: JASF
++Update Add (required)
+$set [csum]:0
+(set [csum]:add(0x000000,0x007FFB))
+$set pointer:eof-3
+$set [csum]:add(0x000000,pointer)
+(write at 0x007FFC:[hash])
+$set pointer:eof-3
+$write next (0):[csum]

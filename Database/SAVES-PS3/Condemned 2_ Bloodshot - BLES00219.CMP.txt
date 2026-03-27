@@ -1,0 +1,11 @@
+^2 = GameID: BLES00219
+^3 = NAME: Condemned 2: Bloodshot
+^4 = FILE: FILENAME.SAV
++Update Add For Filename.sav (required)
+$set [csum]:0
+(set [csum]:add(0x000000,0x0BFFBF))
+$set pointer:eof-8
+$set [csum]:add(0x000000,pointer)
+(write at 0x0BFF70:[csum])
+$set pointer:eof-7
+$write next (0):[csum]

@@ -1,0 +1,51 @@
+^1 = HASH: F7EBA26D
+^3 = NAME: Dai Senryaku VII-Exceed Modern Military Tactics
+^2 = GameID: SLUS_213.52
+!Masters:
++Enable Code (Must Be On) [Read Note]
+%Credits: Skiller
+$90256898 0C0959CE
+$200A0000 15400023
+$200A0008 3C100001
+$200A000C 3610869F
+$200A0078 8CD00000
+$200A007C 0806299F
+$200A0080 25CEF248
+$200A00F8 1000FFDF
+$2018A678 08028000
+$2018A67C 00000000
+!!
+!Codes:
++Max Infinite Funds
+%Credits: Skiller
+$200A0010 ACD00000
++Max Infinite Fuel
+%Credits: Skiller
+$200A0014 ACD00004
++Zero Funds-Enemies
+%Credits: Skiller
+$200A0090 ACC00000
++Zero Fuel-Enemies
+%Credits: Skiller
+$200A0094 ACC00004
++Always Able To Move
+%Credits: Skiller
+$10137CC8 00000000
++Max Infinite Ammo
+%Credits: Skiller
+$201F448C 240F0009
+!!
+!Infinite HP Codes:
++P1 Press Select When Your Attacking
+%Credits: Skiller
+$D0443642 0000FFFE
+$201F28E0 00000000
+$D0443642 0010FFFE
+$201F28E0 A56D0000
++P1 Press L2 When Your Defending
+%Credits: Skiller
+$D0443642 0000FEFF
+$201F28EC 00000000
+$D0443642 0010FEFF
+$201F28EC A54E0000
+!!

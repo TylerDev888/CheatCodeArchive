@@ -1,0 +1,653 @@
+^3 = NAME: Death By Degrees
+!Masters:
++Mastercode
+%Credits: Xploder
+$901DF54C 0C045CE0
+$200C2034 03E00008
+$200C2038 3C024120
+$2012E16C 0C030800
+!!
+!Infinite:
++Health
+%Credits: Xploder
+$200C2000 8C610000
+$200C2004 AC610004
++Focus
+%Credits: Xploder
+$200C2008 8C610008
+$200C200C AC61000C
++Air
+%Credits: Xploder
+$200C2010 8C610010
+$200C2014 AC610014
++Time
+%Credits: Xploder
+$203EE624 46001046
+$203EE8E4 46001046
++Health
+%Credits: Xploder
+$202548B4 8E8104D0
+$202548B8 AE8104D8
++Partners Health
+%Credits: Xploder
+$202548E4 00540821
+$202548E8 C420095C
+$2025490C 24020064
+$20254910 AC22095C
++Ammo
+%Credits: Xploder
+$20252870 00000000
++Time
+%Credits: Xploder
+$20251EA0 00000000
+$20468D44 00000000
++Battery Power
+%Credits: Xploder
+$20288944 E60121C4
++Time
+%Credits: Xploder
+$20468D44 00000000
+!!
+!Have:
++One Hit Kill
+%Credits: Xploder
+$2015DBB4 8E2200B4
++All Items
+%Credits: Xploder
+$200C2040 24010063
+$200C2044 A0410000
+$200C2048 08092FFA
+$200C204C 00011020
+$2024BF8C 00000000
+$2024BF88 08030810
++All Skills
+%Credits: Xploder
+$200C2050 00851821
+$200C2054 24150001
+$200C2058 03E00008
+$200C205C A0754CC4
+$20391FCC 00000000
+$20391FC8 0C030814
++All Fingerprints
+%Credits: Xploder
+$2024BFA8 2002FFFF
+$2024BFAC A0620000
+!!
+!Max:
++Level
+%Credits: Xploder
+$200C2018 2401270F
+$200C201C AC610020
++Skill Points
+%Credits: Xploder
+$200C2020 3C01000F
+$200C2024 2421423F
+$200C2028 AC610024
++Max Combo
+%Credits: Xploder
+$200C202C 240103E7
+$200C2030 AC61002C
+!!
+!Unlock:
++All Menu Items
+%Credits: Xploder
+$202369F8 24030001
+$20236A00 AE230000
+!!
+!View Weapons For:
++Max Weapon/Melee Slots
+%Credits: Xploder
+$20346EEC 24050008
+$20346EF4 A4654BD0
++Infinite Weapons
+%Credits: Xploder
+$2034669C 24010002
+$203466A0 A0414BDA
+$203466A4 03E00008
+$203466A8 00011020
+!!
+!Have Weapons/Melee:
++Enabler
+%Credits: Xploder
+$200C2100 00060001
+$200C2104 00080002
+$200C2108 00020004
+$200C210C 00050005
+$200C2110 000B0006
+$200C2114 000C0007
+$200C2118 000D0009
+$200C211C 000E000A
+$200C2120 24674BD0
+$200C2124 3C08000C
+$200C2220 080D1BB9
+$200C2224 0000382D
+$20346EDC 08030848
+!!
+!Have Weapon in Slot 1:
++9Mm Handgun
+%Credits: Xploder
+$200C212C ACE00004
++9Mm 3Rb Handgun
+%Credits: Xploder
+$200C2128 8D012100
+$200C212C ACE10004
++.44Mm Magnum
+%Credits: Xploder
+$200C2128 8D012104
+$200C212C ACE10004
++9Mm Sub Machinegun
+%Credits: Xploder
+$200C2128 8D012108
+$200C212C ACE10004
++5.56Mm Assault Rifle
+%Credits: Xploder
+$200C2128 8D01210C
+$200C212C ACE10004
++12 Gauge Shotgun
+%Credits: Xploder
+$200C2128 8D012110
+$200C212C ACE10004
++40Mm Grenade Launcher
+%Credits: Xploder
+$200C2128 8D012114
+$200C212C ACE10004
++Hand Grenade
+%Credits: Xploder
+$200C2128 8D012118
+$200C212C ACE10004
++Stun Grenade
+%Credits: Xploder
+$200C2128 8D01211C
+$200C212C ACE10004
+!!
+!Have Weapon in Slot 2:
++9Mm Handgun
+%Credits: Xploder
+$200C2134 ACE0000C
++9Mm 3Rb Handgun
+%Credits: Xploder
+$200C2130 8D012100
+$200C2134 ACE1000C
++.44Mm Magnum
+%Credits: Xploder
+$200C2130 8D012104
+$200C2134 ACE1000C
++9Mm Sub Machinegun
+%Credits: Xploder
+$200C2130 8D012108
+$200C2134 ACE1000C
++5.56Mm Assault Rifle
+%Credits: Xploder
+$200C2130 8D01210C
+$200C2134 ACE1000C
++12 Gauge Shotgun
+%Credits: Xploder
+$200C2130 8D012110
+$200C2134 ACE1000C
++40Mm Grenade Launcher
+%Credits: Xploder
+$200C2130 8D012114
+$200C2134 ACE1000C
++Hand Grenade
+%Credits: Xploder
+$200C2130 8D012118
+$200C2134 ACE1000C
++Stun Grenade
+%Credits: Xploder
+$200C2130 8D01211C
+$200C2134 ACE1000C
+!!
+!Have Weapon in Slot 3:
++9Mm Handgun
+%Credits: Xploder
+$200C213C ACE00014
++9Mm 3Rb Handgun
+%Credits: Xploder
+$200C2138 8D012100
+$200C213C ACE10014
++.44Mm Magnum
+%Credits: Xploder
+$200C2138 8D012104
+$200C213C ACE10014
++9Mm Sub Machinegun
+%Credits: Xploder
+$200C2138 8D012108
+$200C213C ACE10014
++5.56Mm Assault Rifle
+%Credits: Xploder
+$200C2138 8D01210C
+$200C213C ACE10014
++12 Gauge Shotgun
+%Credits: Xploder
+$200C2138 8D012110
+$200C213C ACE10014
++40Mm Grenade Launcher
+%Credits: Xploder
+$200C2138 8D012114
+$200C213C ACE10014
++Hand Grenade
+%Credits: Xploder
+$200C2138 8D012118
+$200C213C ACE10014
++Stun Grenade
+%Credits: Xploder
+$200C2138 8D01211C
+$200C213C ACE10014
+!!
+!Have Weapon in Slot 4:
++9Mm Handgun
+%Credits: Xploder
+$200C2144 ACE0001C
++9Mm 3Rb Handgun
+%Credits: Xploder
+$200C2140 8D012100
+$200C2144 ACE1001C
++.44Mm Magnum
+%Credits: Xploder
+$200C2140 8D012104
+$200C2144 ACE1001C
++9Mm Sub Machinegun
+%Credits: Xploder
+$200C2140 8D012108
+$200C2144 ACE1001C
++5.56Mm Assault Rifle
+%Credits: Xploder
+$200C2140 8D01210C
+$200C2144 ACE1001C
++12 Gauge Shotgun
+%Credits: Xploder
+$200C2140 8D012110
+$200C2144 ACE1001C
++40Mm Grenade Launcher
+%Credits: Xploder
+$200C2140 8D012114
+$200C2144 ACE1001C
++Hand Grenade
+%Credits: Xploder
+$200C2140 8D012118
+$200C2144 ACE1001C
++Stun Grenade
+%Credits: Xploder
+$200C2140 8D01211C
+$200C2144 ACE1001C
+!!
+!Have Weapon in Slot 5:
++9Mm Handgun
+%Credits: Xploder
+$200C214C ACE00024
++9Mm 3Rb Handgun
+%Credits: Xploder
+$200C2148 8D012100
+$200C214C ACE10024
++.44Mm Magnum
+%Credits: Xploder
+$200C2148 8D012104
+$200C214C ACE10024
++9Mm Sub Machinegun
+%Credits: Xploder
+$200C2148 8D012108
+$200C214C ACE10024
++5.56Mm Assault Rifle
+%Credits: Xploder
+$200C2148 8D01210C
+$200C214C ACE10024
++12 Gauge Shotgun
+%Credits: Xploder
+$200C2148 8D012110
+$200C214C ACE10024
++40Mm Grenade Launcher
+%Credits: Xploder
+$200C2148 8D012114
+$200C214C ACE10024
++Hand Grenade
+%Credits: Xploder
+$200C2148 8D012118
+$200C214C ACE10024
++Stun Grenade
+%Credits: Xploder
+$200C2148 8D01211C
+$200C214C ACE10024
+!!
+!Have Weapon in Slot 6:
++9Mm Handgun
+%Credits: Xploder
+$200C2154 ACE0002C
++9Mm 3Rb Handgun
+%Credits: Xploder
+$200C2150 8D012100
+$200C2154 ACE1002C
++.44Mm Magnum
+%Credits: Xploder
+$200C2150 8D012104
+$200C2154 ACE1002C
++9Mm Sub Machinegun
+%Credits: Xploder
+$200C2150 8D012108
+$200C2154 ACE1002C
++5.56Mm Assault Rifle
+%Credits: Xploder
+$200C2150 8D01210C
+$200C2154 ACE1002C
++12 Gauge Shotgun
+%Credits: Xploder
+$200C2150 8D012110
+$200C2154 ACE1002C
++40Mm Grenade Launcher
+%Credits: Xploder
+$200C2150 8D012114
+$200C2154 ACE1002C
++Hand Grenade
+%Credits: Xploder
+$200C2150 8D012118
+$200C2154 ACE1002C
++Stun Grenade
+%Credits: Xploder
+$200C2150 8D01211C
+$200C2154 ACE1002C
+!!
+!Have Weapon in Slot 7:
++9Mm Handgun
+%Credits: Xploder
+$200C215C ACE00034
++9Mm 3Rb Handgun
+%Credits: Xploder
+$200C2158 8D012100
+$200C215C ACE10034
++.44Mm Magnum
+%Credits: Xploder
+$200C2158 8D012104
+$200C215C ACE10034
++9Mm Sub Machinegun
+%Credits: Xploder
+$200C2158 8D012108
+$200C215C ACE10034
++5.56Mm Assault Rifle
+%Credits: Xploder
+$200C2158 8D01210C
+$200C215C ACE10034
++12 Gauge Shotgun
+%Credits: Xploder
+$200C2158 8D012110
+$200C215C ACE10034
++40Mm Grenade Launcher
+%Credits: Xploder
+$200C2158 8D012114
+$200C215C ACE10034
++Hand Grenade
+%Credits: Xploder
+$200C2158 8D012118
+$200C215C ACE10034
++Stun Grenade
+%Credits: Xploder
+$200C2158 8D01211C
+$200C215C ACE10034
+!!
+!Have Weapon in Slot 8:
++9Mm Handgun
+%Credits: Xploder
+$200C2164 ACE0003C
++9Mm 3Rb Handgun
+%Credits: Xploder
+$200C2160 8D012100
+$200C2164 ACE1003C
++.44Mm Magnum
+%Credits: Xploder
+$200C2160 8D012104
+$200C2164 ACE1003C
++9Mm Sub Machinegun
+%Credits: Xploder
+$200C2160 8D012108
+$200C2164 ACE1003C
++5.56Mm Assault Rifle
+%Credits: Xploder
+$200C2160 8D01210C
+$200C2164 ACE1003C
++12 Gauge Shotgun
+%Credits: Xploder
+$200C2160 8D012110
+$200C2164 ACE1003C
++40Mm Grenade Launcher
+%Credits: Xploder
+$200C2160 8D012114
+$200C2164 ACE1003C
++Hand Grenade
+%Credits: Xploder
+$200C2160 8D012118
+$200C2164 ACE1003C
++Stun Grenade
+%Credits: Xploder
+$200C2160 8D01211C
+$200C2164 ACE1003C
+!!
+!Have Melee Weapon in Slot 1:
++Katana
+%Credits: Xploder
+$200C216C ACE00048
++Dotanuki
+%Credits: Xploder
+$200C2168 8D012100
+$200C216C ACE10048
++Ripper Blade
+%Credits: Xploder
+$200C2168 8D012104
+$200C216C ACE10048
++Tonfa
+%Credits: Xploder
+$200C2168 8D012108
+$200C216C ACE10048
++Throwing Knife
+%Credits: Xploder
+$200C2168 8D012110
+$200C216C ACE10048
++Needle Knife
+%Credits: Xploder
+$200C2168 8D012114
+$200C216C ACE10048
++Poison Ampule
+%Credits: Xploder
+$200C2168 8D012118
+$200C216C ACE10048
+!!
+!Have Melee Weapon in Slot 2:
++Katana
+%Credits: Xploder
+$200C2174 ACE00050
++Dotanuki
+%Credits: Xploder
+$200C2170 8D012100
+$200C2174 ACE10050
++Ripper Blade
+%Credits: Xploder
+$200C2170 8D012104
+$200C2174 ACE10050
++Tonfa
+%Credits: Xploder
+$200C2170 8D012108
+$200C2174 ACE10050
++Throwing Knife
+%Credits: Xploder
+$200C2170 8D012110
+$200C2174 ACE10050
++Needle Knife
+%Credits: Xploder
+$200C2170 8D012114
+$200C2174 ACE10050
++Poison Ampule
+%Credits: Xploder
+$200C2170 8D012118
+$200C2174 ACE10050
+!!
+!Have Melee Weapon in Slot 3:
++Katana
+%Credits: Xploder
+$200C217C ACE00058
++Dotanuki
+%Credits: Xploder
+$200C2178 8D012100
+$200C217C ACE10058
++Ripper Blade
+%Credits: Xploder
+$200C2178 8D012104
+$200C217C ACE10058
++Tonfa
+%Credits: Xploder
+$200C2178 8D012108
+$200C217C ACE10058
++Throwing Knife
+%Credits: Xploder
+$200C2178 8D012110
+$200C217C ACE10058
++Needle Knife
+%Credits: Xploder
+$200C2178 8D012114
+$200C217C ACE10058
++Poison Ampule
+%Credits: Xploder
+$200C2178 8D012118
+$200C217C ACE10058
+!!
+!Have Melee Weapon in Slot 4:
++Katana
+%Credits: Xploder
+$200C2184 ACE00060
++Dotanuki
+%Credits: Xploder
+$200C2180 8D012100
+$200C2184 ACE10060
++Ripper Blade
+%Credits: Xploder
+$200C2180 8D012104
+$200C2184 ACE10060
++Tonfa
+%Credits: Xploder
+$200C2180 8D012108
+$200C2184 ACE10060
++Throwing Knife
+%Credits: Xploder
+$200C2180 8D012110
+$200C2184 ACE10060
++Needle Knife
+%Credits: Xploder
+$200C2180 8D012114
+$200C2184 ACE10060
++Poison Ampule
+%Credits: Xploder
+$200C2180 8D012118
+$200C2184 ACE10060
+!!
+!Have Melee Weapon in Slot 5:
++Katana
+%Credits: Xploder
+$200C218C ACE00068
++Dotanuki
+%Credits: Xploder
+$200C2188 8D012100
+$200C218C ACE10068
++Ripper Blade
+%Credits: Xploder
+$200C2188 8D012104
+$200C218C ACE10068
++Tonfa
+%Credits: Xploder
+$200C2188 8D012108
+$200C218C ACE10068
++Throwing Knife
+%Credits: Xploder
+$200C2188 8D012110
+$200C218C ACE10068
++Needle Knife
+%Credits: Xploder
+$200C2188 8D012114
+$200C218C ACE10068
++Poison Ampule
+%Credits: Xploder
+$200C2188 8D012118
+$200C218C ACE10068
+!!
+!Have Melee Weapon in Slot 6:
++Katana
+%Credits: Xploder
+$200C2194 ACE00070
++Dotanuki
+%Credits: Xploder
+$200C2190 8D012100
+$200C2194 ACE10070
++Ripper Blade
+%Credits: Xploder
+$200C2190 8D012104
+$200C2194 ACE10070
++Tonfa
+%Credits: Xploder
+$200C2190 8D012108
+$200C2194 ACE10070
++Throwing Knife
+%Credits: Xploder
+$200C2190 8D012110
+$200C2194 ACE10070
++Needle Knife
+%Credits: Xploder
+$200C2190 8D012114
+$200C2194 ACE10070
++Poison Ampule
+%Credits: Xploder
+$200C2190 8D012118
+$200C2194 ACE10070
+!!
+!Have Melee Weapon in Slot 7:
++Katana
+%Credits: Xploder
+$200C219C ACE00078
++Dotanuki
+%Credits: Xploder
+$200C2198 8D012100
+$200C219C ACE10078
++Ripper Blade
+%Credits: Xploder
+$200C2198 8D012104
+$200C219C ACE10078
++Tonfa
+%Credits: Xploder
+$200C2198 8D012108
+$200C219C ACE10078
++Throwing Knife
+%Credits: Xploder
+$200C2198 8D012110
+$200C219C ACE10078
++Needle Knife
+%Credits: Xploder
+$200C2198 8D012114
+$200C219C ACE10078
++Poison Ampule
+%Credits: Xploder
+$200C2198 8D012118
+$200C219C ACE10078
+!!
+!Have Melee Weapon in Slot 8:
++Katana
+%Credits: Xploder
+$200C2200 ACE00080
++Dotanuki
+%Credits: Xploder
+$200C2200 8D012100
+$200C2204 ACE10080
++Ripper Blade
+%Credits: Xploder
+$200C2200 8D012104
+$200C2204 ACE10080
++Tonfa
+%Credits: Xploder
+$200C2200 8D012108
+$200C2204 ACE10080
++Throwing Knife
+%Credits: Xploder
+$200C2200 8D012110
+$200C2204 ACE10080
++Needle Knife
+%Credits: Xploder
+$200C2200 8D012114
+$200C2204 ACE10080
++Poison Ampule{(NOTE: Select Only One Weapon Per Slot!!) (NOTE: You Cannot Discard These Weapons!)}
+%Credits: Xploder
+$200C2200 8D012118
+$200C2204 ACE10080
+!!

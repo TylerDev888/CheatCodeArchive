@@ -1,0 +1,86 @@
+^3 = NAME: Thunder Strike - Operation Phoenix (Pal-Unk)
+^2 = GameID: No
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0100158 00151FBF
++(M) Must Be On
+%Credits: Codejunkies
+$F0151FBC 00151FBF
+!!
+!Slot 1 Ammo Codes:
++Infinite Ammo
+%Credits: Codejunkies
+$104261F0 00000032
++Never Have More Than 10 Ammo
+%Credits: Codejunkies
+$E001000A 304261F0
+$104261F0 0000000A
++Never Have More Than 15 Ammo
+%Credits: Codejunkies
+$E001000F 304261F0
+$104261F0 0000000F
++Never Have More Than 25 Ammo
+%Credits: Codejunkies
+$E0010019 304261F0
+$104261F0 00000019
++Never Have More Than 5 Ammo
+%Credits: Codejunkies
+$E0010005 304261F0
+$104261F0 00000005
+!!
+!Slot 2 Ammo Codes:
++Infinite Ammo
+%Credits: Codejunkies
+$104261F4 00000032
++Never Have More Than 10 Ammo
+%Credits: Codejunkies
+$E001000A 304261F4
+$104261F4 0000000A
++Never Have More Than 15 Ammo
+%Credits: Codejunkies
+$E001000F 304261F4
+$104261F4 0000000F
++Never Have More Than 25 Ammo
+%Credits: Codejunkies
+$E0010019 304261F4
+$104261F4 00000019
++Never Have More Than 5 Ammo
+%Credits: Codejunkies
+$E0010005 304261F4
+$104261F4 00000005
+!!
+!Slot 3 Ammo Codes:
++Infinite Ammo
+%Credits: Codejunkies
+$104261F8 00000032
++Never Have More Than 10 Ammo
+%Credits: Codejunkies
+$E001000A 304261F8
+$104261F8 0000000A
++Never Have More Than 15 Ammo
+%Credits: Codejunkies
+$E001000F 304261F8
+$104261F8 0000000F
++Never Have More Than 25 Ammo
+%Credits: Codejunkies
+$E0010019 304261F8
+$104261F8 00000019
++Never Have More Than 5 Ammo
+%Credits: Codejunkies
+$E0010005 304261F8
+$104261F8 00000005
+!!
++Infinite Armour
+%Credits: InterAct
+$1056848E 0000437A
+$1174D882 0000437A
++Mega Merits
+%Credits: InterAct
+$1056812C 0000FFFF
+$1056812E 000000FF
++No Gun Overheat
+%Credits: InterAct
+$1056847C 00000000
+!!
+

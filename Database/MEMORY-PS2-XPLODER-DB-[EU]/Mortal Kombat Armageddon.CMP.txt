@@ -1,0 +1,49 @@
+^3 = NAME: Mortal Kombat Armageddon
+!Masters:
++Mastercode
+%Credits: Xploder
+$90222178 0C046556
+!!
+!Other:
++Player 1 Infinite Health
+%Credits: Xploder
+$20664738 3F800000
++Player 1 No Health
+%Credits: Xploder
+$20664738 00000000
++Player 2 Infinite Health
+%Credits: Xploder
+$20664780 3F800000
++Player 2 No Health
+%Credits: Xploder
+$20664780 00000000
++Infinite Fight Time
+%Credits: Xploder
+$206648E0 00000063
+!!
+!Konquest:
++Press R2+Select To Restore Health And Special Power
+%Credits: Xploder
+$E004FDFE 006AEDC2
+$20BBFD64 40400000
+$20BBFD68 40400000
+$20BBFD9C 40400000
+$20BBFDA0 40400000
++Infinite Gold Koins
+%Credits: Xploder
+$206B3CB0 05F5E0FF
+!!
+!Unlock:
++Everything Inside The Krypt
+%Credits: Xploder
+$406B3CC4 00090001
+$FFFFFFFF 00000000
++All Characters
+%Credits: Xploder
+$20664B08 FFFFFFFF
+$20664B0C FFFFFFFF
++All Arenas
+%Credits: Xploder
+$20664B10 FFFFFFFF
+$20664B14 FFFFFFFF
+!!

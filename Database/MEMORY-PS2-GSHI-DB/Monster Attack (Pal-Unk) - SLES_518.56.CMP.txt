@@ -1,0 +1,24 @@
+^3 = NAME: Monster Attack (Pal-Unk)
+^2 = GameID: SLES-51856
+!Master Codes:
++Enable Code
+%Credits: punk7890
+$90159478 0C0564C6
+!!
++Force Progressive Display Mode (Need Skip Movies On)
+%Credits: punk7890
+$2014D48C 24110002
++Invincibility
+%Credits: nolberto82
+$2018D748 30440000
++No Reload
+%Credits: nolberto82
+$201C4D4C 00000000
++PAL To NTSC (60Hz)
+%Credits: punk7890
+$2014D490 24120002
++Skip Movies
+%Credits: punk7890
+$2013A200 03E00008
+!!
+

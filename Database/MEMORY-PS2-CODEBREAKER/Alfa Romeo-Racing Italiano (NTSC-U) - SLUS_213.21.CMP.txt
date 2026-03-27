@@ -1,0 +1,42 @@
+^1 = HASH: 22FB53FF
+^3 = NAME: Alfa Romeo-Racing Italiano
+^2 = GameID: SLUS_213.21
+!Masters:
++Enable Code (Must Be On) [Read Note]
+%Credits: Code Master
+$90492E28 0C0F353A
+!!
+!Codes:
++Unlock All Skills
+%Credits: Code Master
+$204452D0 24020000
+$204452D4 03E00008
+$204452D8 AC82031C
++Infinite Skill Points
+%Credits: Code Master
+$204461DC 00000000
++Extra Skill Points
+%Credits: Code Master
+$104461D8 00000001
++Max Infinite Skill Points
+%Credits: Code Master
+$204461D8 2402270F
++Press L1+Select To Rest Race Timer
+%Credits: Code Master
+$D05A5C9C 0000FBFE
+$202B063C AC600008
+$D05A5C9C 0000FFFF
+$202B063C E4600008
++No Car Damage From Collisions
+%Credits: Code Master
+$202E6E48 00000000
++No Car Damage From Driving Offroad
+%Credits: Code Master
+$202E77E8 00000000
++Infinite Tiger Effect
+%Credits: Code Master
+$102E7866 00001000
++Always Best Driver Condition
+%Credits: Code Master
+$102E789E 00001000
+!!

@@ -1,0 +1,35 @@
+^3 = NAME: Who Wants To Be A Millionaire - 2Nd Edition (Pal-Unk)
+^2 = GameID: SLES-50495
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F013FCB8 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F013FD80 0013FD83
++(M) Must Be On
+%Credits: Codejunkies
+$F013FCB8 0013FCBB
+!!
++50:50 Lifeline Removes All Wrong Answers
+%Credits: nolberto82
+$20128F50 00000000
+$20128F60 AE140000
++Any Answer Is Correct
+%Credits: nolberto82
+$20130F88 00401821
++Have Infinite Lifelines
+%Credits: Codejunkies
+$20134D88 24020001
+$20134D7C 24020001
++Infinite Lifelines
+%Credits: InterAct
+$2027F6A0 00000001
+$2027F6A4 00000001
+$2027F69C 00000001
++Infinite Lifelines
+%Credits: Codejunkies
+$20134D7C 24020001
+$20134D88 24020001
+!!
+

@@ -1,0 +1,50 @@
+^3 = NAME: Sky Odyssey (Pal-Unk)
+^2 = GameID: SCES-50105
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01017EC 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F01017EC 001017EF
+!!
+!Fuel Codes:
++All Planes Open
+%Credits: Codejunkies
+$2038FC78 FFFFFFFF
+$2038FC7C FFFFFFFF
++All Special GFX Open
+%Credits: Codejunkies
+$20392210 FFFFFFFF
+$20392214 FFFFFFFF
+$20392218 FFFFFFFF
++Infinite Fuel
+%Credits: Codejunkies
+$1038213A 000042C8
++Never More Than 25% Fuel
+%Credits: Codejunkies
+$E00110B2 3038213A
+$1038213A 000010B2
++Never More Than 50% Fuel
+%Credits: Codejunkies
+$E0012164 3038213A
+$1038213A 00002164
++Never More Than 75% Fuel
+%Credits: Codejunkies
+$E0013216 3038213A
+$1038213A 00003216
+!!
++All Planes Open
+%Credits: InterAct
+$1038213A 000042C8
+$2038FC78 FFFFFFFF
++All Special GFX Open
+%Credits: InterAct
+$2038FC7C FFFFFFFF
+$20392210 FFFFFFFF
+$20392214 FFFFFFFF
++Infinite Fuel
+%Credits: InterAct
+$102BF32C 0000FFFF
+!!
+

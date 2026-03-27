@@ -1,0 +1,184 @@
+^1 = HASH: E21404E2
+^3 = NAME: Getaway, The
+^2 = GameID: SCUS_971.33
+!Masters:
++Code Breaker Version 1-5Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 0030E6BF
++Code Breaker Version 6+Enable Code (Must Be On)
+%Credits: Code Master
+$9030E6BC 0C0C4639
+!!
+!Codes:
++Idiot AI
+%Credits: Code Master
+$2015D644 00000000
++Infinite Ammo
+%Credits: Code Master
+$201751C0 00000000
++Enemies Dont Shoot
+%Credits: Code Master
+$20178E70 03E00008
+$20178E74 00000000
++Never Reload
+%Credits: Code Master
+$201AD938 00000000
+$201AD9D0 00000000
++Infinite Health
+%Credits: Code Master
+$2018E4CC 3C0140C0
+$2018E4DC AE010360
++Immune To Bullets
+%Credits: Code Master
+$201ACBA0 03E00008
+$201ACBA4 00000000
++Unlock Extra Features
+%Credits: Code Master
+$20392708 00000002
++Drive Thru Cars
+%Credits: Code Master
+$202EA530 00000000
++Drive Thru Telephone Polls/Stop Lights/Lamp Posts
+%Credits: Code Master
+$202F4814 00000000
++Walk Thru Walls
+%Credits: Code Master
+$101CE69E 00001000
+$101D0D9E 00001000
++Drive Thru Walls
+%Credits: Code Master
+$101C15B6 00001000
++Walk & Drive Thru Walls
+%Credits: Code Master
+$001C60E4 00000000
++Load Game To Access All Levels
+%Credits: Code Master
+$103932B2 00000018
++Civilians Turn Into Cops On Foot
+%Credits: Code Master
+$00104EB4 00000002
++Civilians Turn Into Cops In Cars
+%Credits: Code Master
+$00104EB4 00000003
++Civilians Turn Into Nurses
+%Credits: Code Master
+$00104EB4 00000004
++Civilians Turn Into Pure Generics
+%Credits: Code Master
+$00104EB4 00000005
++Cops On Foot Turn Into Civilians
+%Credits: Code Master
+$00104F24 00000001
++Cops On Foot Turn Into Cops In Cars
+%Credits: Code Master
+$00104F24 00000003
++Cops On Foot Turn Into Nurses
+%Credits: Code Master
+$00104F24 00000004
++Cops On Foot Turn Into Pure Generics
+%Credits: Code Master
+$00104F24 00000005
++Cops In Cars Turn Into Civilians
+%Credits: Code Master
+$00104EF0 00000001
++Cops In Cars Turn Into Cops On Foot
+%Credits: Code Master
+$00104EF0 00000002
++Cops In Cars Turn Into Nurses
+%Credits: Code Master
+$00104EF0 00000004
++Cops In Cars Turn Into Pure Generics
+%Credits: Code Master
+$00104EF0 00000005
++Nurses Turn Into Civilians
+%Credits: Code Master
+$00104ED4 00000001
++Nurses Turn Into Cops On Foot
+%Credits: Code Master
+$00104ED4 00000002
++Nurses Turn Into Cops In Cars
+%Credits: Code Master
+$00104ED4 00000003
++Nurses Turn Into Pure Generics
+%Credits: Code Master
+$00104ED4 00000005
++Pure Generics Turn Into Civilians
+%Credits: Code Master
+$00104F14 00000001
++Pure Generics Turn Into Cops On Foot
+%Credits: Code Master
+$00104F14 00000002
++Pure Generics Turn Into Cops In Cars
+%Credits: Code Master
+$00104F14 00000003
++Pure Generics Turn Into Nurses
+%Credits: Code Master
+$00104F14 00000004
++Load Game For Level Modifier
+%Credits: Code Master
+$1039270C 000000??
++Faster Characters
+%Credits: Code Master
+$203741F8 42000000
++Ultra Fast Characters
+%Credits: Code Master
+$203741F8 41C00000
++Hella Ultra Fast Characters
+%Credits: Code Master
+$203741F8 42C80000
++Super Slow Characters
+%Credits: Code Master
+$203741F8 3F000000
+!!
+!Character Movement Toggle Codes:
++Faster Characters Toggle{With This Code, Press L1+Select To Enable It, And Press L2+Select To Disable It.}
+%Credits: Code Master
+$D03DCD42 0000FBFE
+$203741F8 42000000
+$D03DCD42 0000FEFE
+$203741F8 42700000
++Ultra Fast Characters Toggle{With This Code, Press R1+Select To Enable It, And Press R2+Select To Disable It.}
+%Credits: Code Master
+$D03DCD42 0000F7FE
+$203741F8 41C00000
+$D03DCD42 0000FDFE
+$203741F8 42700000
++Ultra Fast Characters Toggle{With This Code, Press Up+Select To Enable It, And Press Down+Select To Disable It.}
+%Credits: Code Master
+$D03DCD42 0000FFEE
+$203741F8 41400000
+$D03DCD42 0000FFBE
+$203741F8 42700000
++Super Slow Characters Toggle{With This Code, Press Left+Select To Enable It, And Press Right+Select To Disable It.}
+%Credits: Code Master
+$D03DCD42 0000FF7E
+$203741F8 42C80000
+$D03DCD42 0000FFDE
+$203741F8 42700000
+!!
+^6 = MODS:
+Quantity Digits to Accompany Load Game For Level Modifier Code
+01 - The Frightener
+02 - Burning Bridges
+03 - Art Appreciation
+04 - Aiding And Abetting
+05 - Taxi For Mr Chai?
+06 - Out Of The Frying Pan
+07 - Filthy Business
+08 - A Touch Of Class
+09 - The Cowgirl And The Cash
+0A - A Cat In A Bag
+0B - The Prodigal Son
+0C - Aboard The Sol Vita
+0D - The Bargain Basement
+0E - Show Some Remorse
+0F - Disturbance In Soho
+10 - Painting The Town Red
+11 - Escort Duty
+12 - The Vigilante
+13 - Stalking Mccormack
+14 - Do The World A Favour
+15 - The Jolson Files
+16 - Meet Mark Hammond
+17 - Showdown With Jake
+18 - Land Of Hope And Glory

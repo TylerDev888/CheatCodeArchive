@@ -1,0 +1,30 @@
+^3 = NAME: Tough Dark Fight (Ntsc-J)
+^2 = GameID: SLPM-62613
+!Master Codes:
++Enable Code
+%Credits: BigBossman
+$902A30D8 0C0A8BDE
++Enable Code (Alternate)
+%Credits: BigBossman
+$902B0040 0C0A573F
+!!
++Player 1 Infinite Health
+%Credits: BigBossman
+$10440E2A 000042C8
++Player 1 Modifier {<I>Values -<Br>00 - Kiichi Miyazawa<Br>01 - Seiko Miyazawa<Br>02 - Jichan<Br>03 - Kiryu Miyazawa<Br>04 - Keybo<Br>05 - Jarunee Sukapatana<Br>06 - Noel Richard<Br>07 - Jacob Ozon<Br>08 - Alan Strode<Br>09 - Shizuku Tsukumo<Br>0A - Lee Kaleng<Br>0B - Lee Kafai<Br>0C - Duke Terashima<Br>0D - Froze</I>}
+%Credits: BigBossman
+$003E5EB0 000000??
++Player 1 Wins Fights By Winning 1 Round
+%Credits: BigBossman
+$0038F228 00000002
++Player 2 Modifier
+%Credits: BigBossman
+$003E5EB4 000000??
++Player 2 Never Wins Rounds
+%Credits: BigBossman
+$0038F22C 00000000
++Player 2 No Health
+%Credits: BigBossman
+$10441A7A 00000000
+!!
+

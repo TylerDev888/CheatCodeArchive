@@ -1,0 +1,41 @@
+^3 = NAME: F1 2001 (Ntsc-U)
+^2 = GameID: SLUS-20264
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F01000D8 001171B7
++(M) Must Be On
+%Credits: Codejunkies
+$F01171B4 001171B7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001171B7
+!!
++All Races Are One Lap Only
+%Credits: Codejunkies
+$10376010 00000001
++Have Track Challenge Complete
+%Credits: Code Master
+$403B2750 00050001
+$64646464 00000000
++Have Training Complete
+%Credits: Code Master
+$403B2738 00060001
+$64646464 00000000
++Track Chal. Complete
+%Credits: InterAct
+$203B2750 64646464
+$203B2754 64646464
+$203B2758 64646464
+$203B275C 64646464
+$203B2760 64646464
++Training Challenges Are Complete
+%Credits: Codejunkies
+$203B2738 64646464
+$203B273C 64646464
+$203B2740 64646464
+$203B2744 64646464
+$203B2748 64646464
+$203B274C 64646464
+!!
+

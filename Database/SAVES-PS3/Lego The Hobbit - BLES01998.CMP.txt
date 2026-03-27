@@ -1,0 +1,10 @@
+^2 = GameID: BLES01998
+^3 = NAME: LEGO The Hobbit
+^5 = APCRED: by bucanero
+^4 = FILE: GAME1
++Update Checksum For Game1 (required)
+$set pointer:eof+1
+$set range:0x14,pointer
+$set [hash]:fnv1:0xFFFFFFFF
+$set [hash]:xor:FFFFFFFF
+$write at 0x0010:[hash]

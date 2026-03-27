@@ -1,0 +1,28 @@
+^2 = GameID: PCSE00608,PCSF00728,PCSG00594
+^3 = NAME: Resident Evil: Revelations 2 (USA)
+^5 = APCRED: Credits: Bucanero
+^4 = FILE: data/data0000.bin
++Decompress Data0000.bin (required)
+\\Decompress(0x00000000, 15)
+^4 = FILE: ~extracted\00000000.dat
+(cheats go here)
++Update Dwadd Checksum (required)
+$set [csum]:0
+$set [csum]:dwadd_le(0x000010,0x1279AF)
+$set [csum]:endian_swap
+$write at 0x000008:[csum]
++Update Sha1 Hash (required)
+(set range:0x000010,0x1279AF)
+(set [hash]:SHA1)
+(write at 0x127590:[hash])
+$set pointer:eof-0x1F
+$set range:0x0010,pointer
+$set [hash]:SHA1
+$write next (0):[hash]
+$set range:pointer,pointer+0x14
+\\endian_swap(4)
+^4 = FILE: data/data0000.bin
++Fix Compression (required)
+\\delete at 0x00:0x4000
++Compress Data0000.bin (required)
+\\Compress(0x00000000)

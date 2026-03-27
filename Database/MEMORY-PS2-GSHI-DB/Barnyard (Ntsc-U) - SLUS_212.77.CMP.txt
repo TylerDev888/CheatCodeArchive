@@ -1,0 +1,60 @@
+^3 = NAME: Barnyard (Ntsc-U)
+^2 = GameID: SLUS-21277
+!Master Codes:
++(M) Must Be On
+%Credits: Codejunkies
+$F04B2344 004B2347
++Enable Code (Must Be On)
+%Credits: Code Master
+$904B2470 00832021
++Enable Code (Must Be On)
+%Credits: Lucas Souza LX
+$904B2344 0C1101B0
+!!
++All Extras Unlocked
+%Credits: Codejunkies
+$20C615BC FFFFFFFF
+$20C615E4 FFFFFFFF
++Infinite Milk Ammo
+%Credits: Codejunkies
+$20421084 00000000
+$20421088 00000000
++Infinite Stamina-Running
+%Credits: Codejunkies
+$20EA25EC 40A00000
+!MISC:
++Infinite Milk Supply
+%Credits: Code Master
+$20421088 00000000
++Infinite Stamina
+%Credits: Code Master
+$20EA25EC 00000000
++Max Gopher Bucks
+%Credits: Code Master
+$20EA25E0 0000270F
+$20EA25E4 0000270F
++Unlock All Bonus/Antics
+%Credits: Code Master
+$20C615BC FFFFFFFF
+!!
+!Skin Modifier Codes:
++In Antics Play As[MOD1]
+%Credits: Lucas Souza LX
+$213C7424 000000??
+$213C7254 000000??
++Start A New Game To Play As[MOD1]
+%Credits: Lucas Souza LX
+$21A57520 000000??
+!!
+!!
+^6 = MODS:
+[MOD1]
+00 - American Cow
+01 - Angus Cow
+02 - Beefmaster Cow
+03 - Spaniard Cow
+04 - Longhorn Cow
+05 - Brahman Cow
+06 - Holstein Cow
+[/MOD1]
+

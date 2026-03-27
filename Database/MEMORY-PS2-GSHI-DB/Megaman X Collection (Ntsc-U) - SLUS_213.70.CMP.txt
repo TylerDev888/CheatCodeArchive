@@ -1,0 +1,1785 @@
+^3 = NAME: Megaman X Collection (Ntsc-U)
+^2 = GameID: SLUS-21370
+!Master Codes:
++(M)
+%Credits: lee4
+$9010F6A8 0C04BE40
++(M) Must Be On
+%Credits: Codejunkies
+$F012F72C 0012F72F
++Enable Code (Must Be On)
+%Credits: Code Master
+$9012F8B0 00832021
+!!
++Force Videout To 480I Instead Of 240P {<I>*Some HDTV Dont Support 240P Videoput</I>}
+%Credits: lee4
+$2014499C 24110001
+$201449A0 24120002
+$201449AC 24130000
+!Have Armor Codes:
++All Armors
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CB9 000000FF
++All Armors
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A301 000000FF
++Armor 1
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CB9 00000001
++Armor 1
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A301 00000001
++Armor 2
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CB9 00000002
++Armor 2
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A301 00000002
++Armor 3
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CB9 00000004
++Armor 3
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A301 00000004
++Armor 4
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CB9 00000008
++Armor 4
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A301 00000008
++Armor 5
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CB9 00000010
++Armor 5
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A301 00000010
++Armor 6
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CB9 00000020
++Armor 6
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A301 00000020
++Armor 7
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CB9 00000040
++Armor 7
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A301 00000040
++Armor 8
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CB9 00000080
++Armor 8
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A301 00000080
+!!
+!Have Part Codes:
++All Parts
+%Credits: Code Master
+$D0662E84 00000006
+$20C0A2E4 FFFFFFFF
++Anti-Virus Guard
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E4 00000080
++Burst Shots
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E5 00000008
++Buster Plus
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E5 00000001
++Hyper Dash
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E4 00000010
++Jumper
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E4 00000008
++Quick Charge
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E5 00000020
++Shock Buffer
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E6 00000002
++Shot Eraser
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E6 00000001
++Speed Shot
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E5 00000002
++Speedster
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E4 00000004
++Super Recover
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E4 00000040
++Ultimate Buster
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E5 00000010
++Virus Buster
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E5 00000004
++W-Energy Saver
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E4 00000020
++Z-Saber Extend
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E5 00000080
++Z-Saber Plus
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2E5 00000040
+!!
+!Have Part Equipped Codes:
++All Parts
+%Credits: Code Master
+$E0020007 00662E84
+$70B63BDC 0010FFFC
+$70B63BDE 001003FF
++All Parts Equipped
+%Credits: Code Master
+$E0020006 00662E84
+$70C0A1FC 0010FFFC
+$70C0A1FE 00000003
++Anti-Virus Guard
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FC 00000080
++Burst Shots
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FD 00000008
++Buster Plus
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDC 00000080
++Buster Plus
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FD 00000001
++D-Converter
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDD 00000008
++D. Barrier
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDD 00000004
++Energy Saver
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDC 00000020
++Hyper Dash
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDC 00000010
++Hyper Dash
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FC 00000010
++Hyper Drive
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDD 00000010
++Jumper
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDC 00000008
++Jumper
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FC 00000008
++Life Recover
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDD 00000080
++Master Saber
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDF 00000002
++Over Drive
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDE 00000002
++Power Drive
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDD 00000020
++Quick Charge
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDE 00000010
++Quick Charge
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FD 00000020
++Rapid S
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDE 00000004
++Saber Extend
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDE 00000080
++Saber Plus
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDE 00000040
++Shock Buffer
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDD 00000002
++Shock Buffer
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FE 00000002
++Shot Eraser
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDF 00000001
++Shot Eraser
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FE 00000001
++Speed Recover
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDC 00000040
++Speed Shot
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDD 00000001
++Speed Shot
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FD 00000002
++Speedster
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDC 00000004
++Speedster
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FC 00000004
++Super Recover
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FC 00000040
++U. Buster
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDE 00000008
++Ultimate Buster
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FD 00000010
++Virus Buster
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FD 00000004
++W-Energy Saver
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FC 00000020
++W. Recover
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDE 00000001
++Weapon Drive
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDD 00000040
++Weapon Plus
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BDE 00000020
++Z-Saber Extend
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FD 00000080
++Z-Saber Plus
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1FD 00000040
+!!
+!Have Parts Codes:
++All Parts
+%Credits: Code Master
+$D0662E84 00000007
+$20B63CC0 FFFFFFFF
++Buster Plus
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC0 00000080
++D-Converter
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC1 00000008
++D. Barrier
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC1 00000004
++Energy Saver
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC0 00000020
++Hyper Dash
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC0 00000010
++Hyper Drive
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC1 00000010
++Jumper
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC0 00000008
++Life Recover
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC1 00000080
++Master Saber
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC3 00000002
++Over Drive
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC2 00000002
++Power Drive
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC1 00000020
++Quick Charge
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC2 00000010
++Rapid S
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC2 00000004
++Saber Extend
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC2 00000080
++Saber Plus
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC2 00000040
++Shock Buffer
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC1 00000002
++Shot Eraser
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC3 00000001
++Speed Recover
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC0 00000040
++Speed Shot
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC1 00000001
++Speedster
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC0 00000004
++U. Buster
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC2 00000008
++W. Recover
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC2 00000001
++Weapon Drive
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC1 00000040
++Weapon Plus
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CC2 00000020
+!!
+!Have Sub-Tank Codes:
++All Sub-Tanks
+%Credits: Code Master
+$D0662E84 00000006
+$70B63CBB 00000070
++All Sub-Tanks
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2DF 00000007
++Equip Tank 1
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CBB 00000010
++Equip Tank 1
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2DF 00000001
++Equip Tank 2
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CBB 00000020
++Equip Tank 2
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2DF 00000002
++Weapon Tank
+%Credits: Code Master
+$D0662E84 00000007
+$70B63CBB 00000040
++Weapon Tank
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A2DF 00000004
+!!
+!Have Weapon Codes:
++Acid B.
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB5B 00000040
++Aiming Laser/Rakuhouha
+%Credits: Code Master
+$D0662E84 00000005
+$70996D89 00000020
++All Weapons
+%Credits: Code Master
+$D0662E84 00000007
+$00B63BB9 000000FF
+$70B63BD7 00000001
++All Weapons
+%Credits: Code Master
+$D0662E84 00000005
+$00996D89 000000FF
++All Weapons
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A1C9 000000FF
++B. Cutter
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31D4 00000040
++Bubble. S
+%Credits: Code Master
+$D0662E84 00000003
+$70FE31FD 00000040
++C-Shot/C-Sword
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1C9 00000001
++C. Sting
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31CA 00000040
++Crystal. H
+%Credits: Code Master
+$D0662E84 00000003
+$70FE31FB 00000040
++Dark Hold
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1C9 00000002
++Double Cyclone/Tenkuuha
+%Credits: Code Master
+$D0662E84 00000005
+$70996D89 00000040
++E. Spark
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31D2 00000040
++Escape. 0
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31D8 000000C0
++F-Laser/C-Flasher
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1C9 00000020
++Fire. W
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31CE 00000040
++Frost S.
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB67 00000040
++Frost Tower/Hyouretsuzan
+%Credits: Code Master
+$D0662E84 00000005
+$70996D89 00000002
++G. Crush
+%Credits: Code Master
+$D0662E84 00000003
+$70FE320B 00000040
++G. Well
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB65 00000040
++Giga Attack
+%Credits: Code Master
+$70B63BD7 00000001
++Goo Shaver/F-Splasher
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1C9 00000004
++Ground Dash/Sentsuizan
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BB9 00000010
++Ground Fire/Quake Blazer
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1C9 00000008
++Ground Hunter/Hienkyaku
+%Credits: Code Master
+$D0662E84 00000005
+$70996D89 00000010
++Guard Shell/Guard Shell
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BB9 00000040
++Homing. T
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31C8 00000040
++Hyper. C
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB6B 00000040
++I. Tracer
+%Credits: Code Master
+$D0662E84 00000003
+$70FE320D 00000040
++Ice Burst/Hydroga
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BB9 00000002
++Lightning Web/Raijingeki
+%Credits: Code Master
+$D0662E84 00000005
+$70996D89 00000001
++Magma Blade/Shoenzan
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BB9 00000004
++Magnet. M
+%Credits: Code Master
+$D0662E84 00000003
+$70FE3207 00000040
++Metal Anchor/Rakukojin
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BB9 00000008
++Meteor Rain/Ensuizan
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BB9 00000020
++P. Bomb
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB5D 00000040
++R. Shield
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31CC 00000040
++Ray Arrow/Rekkoha
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BB9 00000080
++Ray S.
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB63 00000040
++Rising Fire/Ryuenjin
+%Credits: Code Master
+$D0662E84 00000005
+$70996D89 00000008
++S. Blade
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB61 00000040
++S. Burner
+%Credits: Code Master
+$D0662E84 00000003
+$70FE3209 00000040
++S. Chain
+%Credits: Code Master
+$D0662E84 00000003
+$70FE3205 00000040
++S. Ice
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31D6 00000040
++S. Slicer
+%Credits: Code Master
+$D0662E84 00000003
+$70FE3203 00000040
++S. Wheel
+%Credits: Code Master
+$D0662E84 00000003
+$70FE3201 00000040
++Silk. S
+%Credits: Code Master
+$D0662E84 00000003
+$70FE31FF 00000040
++Soul Body/Kuuenbu
+%Credits: Code Master
+$D0662E84 00000005
+$70996D89 00000004
++Spike Ball/Twin Dream
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1C9 00000040
++Storm. T
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31D0 00000040
++T. Fang
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB69 00000040
++Tri-Thunder/E-Blade
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1C9 00000010
++Triad T.
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB5F 00000040
++Twin Slasher/Shippuuga
+%Credits: Code Master
+$D0662E84 00000005
+$70996D89 00000080
++Wing Spiral/W-Shredder
+%Credits: Code Master
+$D0662E84 00000006
+$70C0A1C9 00000080
++Yammar Option
+%Credits: Code Master
+$D0662E84 00000007
+$70B63BB9 00000001
+!!
+!Infinite Ammo Codes:
++Acid B.
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB5B 0000001C
++Aiming Laser
+%Credits: Code Master
+$D0662E84 00000005
+$00996D7E 00000030
++B. Cutter
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31D4 0000001C
++Bubble. S
+%Credits: Code Master
+$D0662E84 00000003
+$70FE31FD 0000001C
++C-Shot
+%Credits: Code Master
+$D0662E84 00000006
+$10C0A1AA 00000120
++C. Sting
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31CA 0000001C
++Crystal. H
+%Credits: Code Master
+$D0662E84 00000003
+$70FE31FB 0000001C
++Dark Hold
+%Credits: Code Master
+$D0662E84 00000006
+$10C0A1AC 00000120
++Double Cyclone
+%Credits: Code Master
+$D0662E84 00000005
+$00996D7F 00000030
++E. Spark
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31D2 0000001C
++Escape. 0
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31D8 0000001C
++F-Laser
+%Credits: Code Master
+$D0662E84 00000006
+$10C0A1B4 00000120
++Fire. W
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31CE 0000001C
++Frost S.
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB67 0000001C
++Frost Tower
+%Credits: Code Master
+$D0662E84 00000005
+$00996D7A 00000030
++G. Crush
+%Credits: Code Master
+$D0662E84 00000003
+$70FE320B 0000001C
++G. Well
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB65 0000001C
++Giga Attack
+%Credits: Code Master
+$D0662E84 00000007
+$10B63B98 00000180
++Goo Shaver
+%Credits: Code Master
+$D0662E84 00000006
+$10C0A1AE 00000120
++Ground Dash/Rekkoha
+%Credits: Code Master
+$D0662E84 00000007
+$10B63BA2 00000180
++Ground Fire
+%Credits: Code Master
+$D0662E84 00000006
+$10C0A1B0 00000120
++Ground Hunter
+%Credits: Code Master
+$D0662E84 00000005
+$00996D7D 00000030
++Guard Shell
+%Credits: Code Master
+$D0662E84 00000007
+$10B63BA6 00000180
++Homing. T
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31C8 0000001C
++Hyper. C
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB6B 0000001C
++I. Tracer
+%Credits: Code Master
+$D0662E84 00000003
+$70FE320D 0000001C
++Ice Burst/Rakukojin
+%Credits: Code Master
+$D0662E84 00000007
+$10B63B9C 00000180
++Lightning Web
+%Credits: Code Master
+$D0662E84 00000005
+$00996D79 00000030
++Magma Blade/Yammar Option
+%Credits: Code Master
+$D0662E84 00000007
+$10B63B9E 00000180
++Magnet. M
+%Credits: Code Master
+$D0662E84 00000003
+$70FE3207 0000001C
++Metal Anchor/Guard Shell
+%Credits: Code Master
+$D0662E84 00000007
+$10B63BA0 00000180
++Meteor Rain
+%Credits: Code Master
+$D0662E84 00000007
+$10B63BA4 00000180
++P. Bomb
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB5D 0000001C
++R. Shield
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31CC 0000001C
++Ray Arrow
+%Credits: Code Master
+$D0662E84 00000007
+$10B63BA8 00000180
++Ray S.
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB63 0000001C
++Rising Fire
+%Credits: Code Master
+$D0662E84 00000005
+$00996D7C 00000030
++S. Blade
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB61 0000001C
++S. Burner
+%Credits: Code Master
+$D0662E84 00000003
+$70FE3209 0000001C
++S. Chain
+%Credits: Code Master
+$D0662E84 00000003
+$70FE3205 0000001C
++S. Ice
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31D6 0000001C
++S. Slicer
+%Credits: Code Master
+$D0662E84 00000003
+$70FE3203 0000001C
++S. Wheel
+%Credits: Code Master
+$D0662E84 00000003
+$70FE3201 0000001C
++Silk. S
+%Credits: Code Master
+$D0662E84 00000003
+$70FE31FF 0000001C
++Soul Body
+%Credits: Code Master
+$D0662E84 00000005
+$00996D7B 00000030
++Spike Ball
+%Credits: Code Master
+$D0662E84 00000006
+$10C0A1B6 00000120
++Storm. T
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31D0 0000001C
++T. Fang
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB69 0000001C
++Tri-Thunder
+%Credits: Code Master
+$D0662E84 00000006
+$10C0A1B2 00000120
++Triad T.
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB5F 0000001C
++Twin Slasher
+%Credits: Code Master
+$D0662E84 00000005
+$00996D80 00000030
++Wing Spiral
+%Credits: Code Master
+$D0662E84 00000006
+$10C0A1B8 00000120
++Yammar Option/Hydroga
+%Credits: Code Master
+$D0662E84 00000007
+$10B63B9A 00000180
+!!
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: MasterGrand
+$2073A760 00000000
+$2073A764 00000000
+$206D2400 00000000
+$206D2454 00000000
+!Max Infinite Ammo Codes:
++Acid B.
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB5B 0000005C
++B. Cutter
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31D4 0000005C
++Bubble. S
+%Credits: Code Master
+$D0662E84 00000003
+$70FE31FD 0000005C
++C. Sting
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31CA 0000005C
++Crystal. H
+%Credits: Code Master
+$D0662E84 00000003
+$70FE31FB 0000005C
++E. Spark
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31D2 0000005C
++Escape. 0
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31D8 000000DC
++Fire. W
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31CE 0000005C
++Frost S.
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB67 0000005C
++G. Crush
+%Credits: Code Master
+$D0662E84 00000003
+$70FE320B 0000005C
++G. Well
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB65 0000005C
++Homing. T
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31C8 0000005C
++Hyper. C
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB6B 0000005C
++I. Tracer
+%Credits: Code Master
+$D0662E84 00000003
+$70FE320D 0000005C
++Magnet. M
+%Credits: Code Master
+$D0662E84 00000003
+$70FE3207 0000005C
++P. Bomb
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB5D 0000005C
++R. Shield
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31CC 0000005C
++Ray S.
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB63 0000005C
++S. Blade
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB61 0000005C
++S. Burner
+%Credits: Code Master
+$D0662E84 00000003
+$70FE3209 0000005C
++S. Chain
+%Credits: Code Master
+$D0662E84 00000003
+$70FE3205 0000005C
++S. Ice
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31D6 0000005C
++S. Slicer
+%Credits: Code Master
+$D0662E84 00000003
+$70FE3203 0000005C
++S. Wheel
+%Credits: Code Master
+$D0662E84 00000003
+$70FE3201 0000005C
++Silk. S
+%Credits: Code Master
+$D0662E84 00000003
+$70FE31FF 0000005C
++Storm. T
+%Credits: Code Master
+$D0662E84 00000002
+$70FE31D0 0000005C
++T. Fang
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB69 0000005C
++Triad T.
+%Credits: Code Master
+$D0662E84 00000004
+$7087FB5F 0000005C
+!!
+!Mega Man Battle & Chase Codes:
++Inf Time
+%Credits: lee4
+$D0662EA2 00006278
+$2070C540 00000000
++P1 Inf Buster Fire
+%Credits: lee4
+$D0662EA2 00006278
+$00714567 00000078
++P1 Turbo Speed (P1 Press X)
+%Credits: lee4
+$E0026278 00662EA2
+$D01A4582 0000BFFF
+$007144FE 000000FF
++P2 Inf Buster Fire
+%Credits: lee4
+$D0662EA2 00006278
+$007146B3 00000078
++P2 Turbo Speed (P2 Press X)
+%Credits: lee4
+$E0026278 00662EA2
+$D01A4682 0000BFFF
+$0071464A 000000FF
+!!
+!Mega Man X2 Codes:
++Infinite Bubble S
+%Credits: Codejunkies
+$00FE31FD 0000005C
++Infinite C Crush
+%Credits: Codejunkies
+$00FE320B 0000005C
++Infinite Crystal H
+%Credits: Codejunkies
+$00FE31FB 0000005C
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: Codejunkies
+$E1010010 20FE1C3F
+$00FE1C3F 00000010
++Infinite I Tracer
+%Credits: Codejunkies
+$00FE320D 0000005C
++Infinite Lives
+%Credits: Codejunkies
+$00FE31F3 00000009
++Infinite Magnet M
+%Credits: Codejunkies
+$00FE3207 0000005C
++Infinite S Burner
+%Credits: Codejunkies
+$00FE3209 0000005C
++Infinite S Chain
+%Credits: Codejunkies
+$00FE3205 0000005C
++Infinite S Slicer
+%Credits: Codejunkies
+$00FE3203 0000005C
++Infinite S Wheel
+%Credits: Codejunkies
+$00FE3201 0000005C
++Infinite Silk S
+%Credits: Codejunkies
+$00FE31FF 0000005C
+!!
+!Mega Man X3 Codes:
++Infinite Acid B
+%Credits: Codejunkies
+$0087FB5B 0000005C
++Infinite Frost S
+%Credits: Codejunkies
+$0087FB67 0000005C
++Infinite G Well
+%Credits: Codejunkies
+$0087FB65 0000005C
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: Codejunkies
+$E101009C 208804A1
+$008804A1 0000009C
++Infinite Hyper C
+%Credits: Codejunkies
+$0087FB6B 0000005C
++Infinite Lives
+%Credits: Codejunkies
+$0087FB53 00000009
++Infinite P Bomb
+%Credits: Codejunkies
+$0087FB5D 0000005C
++Infinite Ray S
+%Credits: Codejunkies
+$0087FB63 0000005C
++Infinite S Blade
+%Credits: Codejunkies
+$0087FB61 0000005C
++Infinite T Fang
+%Credits: Codejunkies
+$0087FB69 0000005C
++Infinite Triad T
+%Credits: Codejunkies
+$0087FB5F 0000005C
+!!
+!Mega Man X4 Codes:
++All Weapons
+%Credits: Codejunkies
+$10996D88 0000FFFF
++Infinite Aiming Laser
+%Credits: Codejunkies
+$00996D7E 00000030
++Infinite Double Cyclone
+%Credits: Codejunkies
+$00996D7F 00000030
++Infinite Frost Tower
+%Credits: Codejunkies
+$00996D7A 00000030
++Infinite Ground Hunter
+%Credits: Codejunkies
+$00996D7D 00000030
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: Codejunkies
+$E0012020 20996D2C
+$10996D2C 00002020
++Infinite Lightning Web
+%Credits: Codejunkies
+$00996D79 00000030
++Infinite Lives
+%Credits: Codejunkies
+$00996E04 00000009
++Infinite Rising Fire
+%Credits: Codejunkies
+$00996D7C 00000030
++Infinite Soul Body
+%Credits: Codejunkies
+$00996D7B 00000030
++Infinite Twin Slasher
+%Credits: Codejunkies
+$00996D80 00000030
+!!
+!Mega Man X5 Codes:
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: Codejunkies
+$E0012020 20C0A15C
+$10C0A15C 00002020
++Infinite Lives
+%Credits: Codejunkies
+$00C0A2A5 00000063
+!!
+!Mega Man X6 Codes:
++Infinite Ammo
+%Credits: Codejunkies
+$40B63B98 00080001
+$01200120 00000000
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: Codejunkies
+$E0012020 20B63B4C
+$10B63B4C 00002020
++Infinite Lives
+%Credits: Codejunkies
+$00B63C89 00000003
+!!
+!Mega Man X Codes:
++Infinite B Cutter
+%Credits: Codejunkies
+$00FE31D4 0000005C
++Infinite C Sting
+%Credits: Codejunkies
+$00FE31CA 0000005C
++Infinite E Spark
+%Credits: Codejunkies
+$00FE31D2 0000005C
++Infinite Fire W
+%Credits: Codejunkies
+$00FE31CE 0000005C
++Infinite Homing T
+%Credits: Codejunkies
+$00FE31C8 0000005C
++Infinite Lives
+%Credits: Codejunkies
+$00FE31C0 00000009
++Infinite R Shield
+%Credits: Codejunkies
+$00FE31CC 0000005C
++Infinite S Ice
+%Credits: Codejunkies
+$00FE31D6 0000005C
++Infinite Storm T
+%Credits: Codejunkies
+$00FE31D0 0000005C
+!!
+!Mega Man X Rank Modifier Codes:
++A
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDD 00000004
++A
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30A 00000004
++B
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDD 00000005
++B
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30A 00000005
++C
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDD 00000006
++C
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30A 00000006
++D
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDD 00000007
++D
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30A 00000007
++GA
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDD 00000002
++GA
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30A 00000002
++MEH
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30A 00000000
++PA
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDD 00000001
++PA
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30A 00000001
++SA
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDD 00000003
++SA
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30A 00000003
++UH
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDD 00000000
+!!
+!Megaman X:
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: MadCatz
+$00FE1E0F 00000010
+!!
+!Megaman X2:
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: MadCatz
+$00FE1C3F 00000010
+!!
+!MegaMan X2 Codes:
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: Code Master
+$E0020003 00662E84
+$D01A4582 0010FFFE
+$00FE1C3F 00000010
++Infinite Lives
+%Credits: Code Master
+$D0662E84 00000003
+$00FE31F3 00000009
++Invincible
+%Credits: Code Master
+$D0662E84 00000003
+$00FE1C48 00000008
++P1 Press X For Moon Jump
+%Credits: Code Master
+$E0020003 00662E84
+$D01A4582 0000BFFF
+$10FE1C34 00000300
+!!
++Megaman X2 SNES PAR Pointer
+%Credits: lee4
+$E0023278 00662EA2
+$60588060 000000??
+$00000001 0000????
+!Megaman X3:
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: MadCatz
+$008804A1 00000090
+!!
+!MegaMan X3 Codes:
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: Code Master
+$E0020004 00662E84
+$D01A4582 0010FFFE
+$008804A1 00000010
++Infinite Lives
+%Credits: Code Master
+$D0662E84 00000004
+$0087FB53 00000009
++Invincible
+%Credits: Code Master
+$D0662E84 00000004
+$008804AA 00000008
++P1 Press X For Moon Jump
+%Credits: Code Master
+$E0020004 00662E84
+$D01A4582 0000BFFF
+$10880494 00000300
+!!
+!Megaman X4:
++Infinite Ammo
+%Credits: MadCatz
+$40996D78 00040001
+$30303030 00000000
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: MadCatz
+$00996D2C 00000020
++Unlock All Weapons
+%Credits: MadCatz
+$00996D89 000000FF
+$00996D77 00000002
+!!
+!MegaMan X4 Codes:
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: Code Master
+$E0020005 00662E84
+$D01A4582 0010FFFE
+$10996D2C 00002020
++Infinite Lives
+%Credits: Code Master
+$D0662E84 00000005
+$00996E04 00000009
++Invincible
+%Credits: Code Master
+$D0662E84 00000005
+$10996D30 00003500
++P1 Press L1+L2 To Enable Jump Floating
+%Credits: Code Master
+$E0040005 00662E84
+$D01A4582 0000FAFF
+$200C0000 00000001
+$D00C0000 00000001
+$10996D40 00000008
++P1 Press R1+R2 To Disable Jump Floating
+%Credits: Code Master
+$E0020005 00662E84
+$D01A4582 0000F5FF
+$200C0000 00000001
++P1 Press X For Higher Jumps
+%Credits: Code Master
+$E0020005 00662E84
+$D01A4582 0000BFFF
+$30300002 00996CDE
++P1 Press X For Super Jumps
+%Credits: Code Master
+$E0020005 00662E84
+$D01A4582 0000BFFF
+$30300004 00996CDE
++P1 Press X For Ultra Jumps {<I>When Falling, P1 Press X Again To Start Rising In The Air.</I>}
+%Credits: Code Master
+$E0020005 00662E84
+$D01A4582 0000BFFF
+$30300008 00996CDE
+!!
+!Megaman X5:
++Infinite Ammo
+%Credits: MadCatz
+$40C0A1A8 00080001
+$01200120 00000000
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: MadCatz
+$00C0A15C 00000020
++Infinite Lives
+%Credits: MadCatz
+$00C0A2A5 00000009
++Unlock All Weapons
+%Credits: MadCatz
+$00C0A1C9 000000FF
+$00C0A1FA 00000004
+!!
+!MegaMan X5 Codes:
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: Code Master
+$E0020006 00662E84
+$D01A4582 0010FFFE
+$00C0A15C 0000003C
++Infinite Lives
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A2A5 00000009
++Invincible {<I>P1 Hold Select For A Bit And Walk With The Analog Stick If You Need To Disable Invincibility To Enter A Door.</I>}
+%Credits: Code Master
+$D0662E84 00000006
+$10C0A160 00003500
++Max Health Capacity (Mega Man X)
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A2A7 0000003C
++Max Health Capacity (Zero)
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A2A8 0000003C
++Max Weapon Capacity (Mega Man X)
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A2B3 0000003C
++Max Weapon Capacity (Zero)
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A2B4 0000003C
++P1 Press L1+Down To Disable Infinite Health
+%Credits: Code Master
+$E0020006 00662E84
+$D01A4582 0000FBBF
+$100C0000 00000000
++P1 Press L1+L2 To Enable Jump Floating
+%Credits: Code Master
+$E0040006 00662E84
+$D01A4582 0000FAFF
+$100C0004 00000001
+$D00C0004 00000001
+$10C0A170 00000008
++P1 Press L1+Left To Disable Invincibility
+%Credits: Code Master
+$E0020006 00662E84
+$D01A4582 0000FB7F
+$100C0002 00000000
++P1 Press L1+Right To Enable Invincibility
+%Credits: Code Master
+$E0040006 00662E84
+$D01A4582 0000FBDF
+$100C0002 00000001
+$D00C0002 00000001
+$10C0A160 00003500
++P1 Press L1+Up To Enable Infinite Health
+%Credits: Code Master
+$E0040006 00662E84
+$D01A4582 0000FBEF
+$100C0000 00000001
+$D00C0000 00000001
+$00C0A15C 0000003C
++P1 Press R1+R2 To Disable Jump Floating
+%Credits: Code Master
+$E0020006 00662E84
+$D01A4582 0000F5FF
+$100C0004 00000001
++P1 Press X For Higher Jumps
+%Credits: Code Master
+$E0020006 00662E84
+$D01A4582 0000BFFF
+$30300002 00C0A10E
++P1 Press X For Super Jumps
+%Credits: Code Master
+$E0020006 00662E84
+$D01A4582 0000BFFF
+$30300004 00C0A10E
++P1 Press X For Ultra Jumps {<I>When Falling, P1 Press X Again To Start Rising In The Air.</I>}
+%Credits: Code Master
+$E0020006 00662E84
+$D01A4582 0000BFFF
+$30300008 00C0A10E
+!!
+!Megaman X6:
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: MadCatz
+$00B63B4C 00000020
++Infinite Lives
+%Credits: MadCatz
+$00B63C89 00000009
++Unlock All Weapons
+%Credits: MadCatz
+$00B63BB9 000000FF
+!!
+!MegaMan X6 Codes:
++Always Low Time
+%Credits: Code Master
+$D0662E84 00000007
+$20B63CE0 00000000
++Have All Reploids Rescued
+%Credits: Code Master
+$40B63D28 00100001
+$22222222 00000000
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: Code Master
+$E0020007 00662E84
+$D01A4582 0010FFFE
+$00B63B4C 0000003C
++Infinite Lives
+%Credits: Code Master
+$D0662E84 00000007
+$00B63C89 00000009
++Invincible {<I>P1 Hold Select For A Bit And Walk With The Analog Stick If You Need To Disable Invincibility To Enter A Door.</I>}
+%Credits: Code Master
+$D0662E84 00000007
+$10B63B50 00003500
++Max Health Capacity (Mega Man X)
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CAB 0000003C
++Max Health Capacity (Zero)
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CAC 0000003C
++Max Souls Collected (Mega Man X)
+%Credits: Code Master
+$D0662E84 00000007
+$10B63D22 0000270F
++Max Souls Collected (Zero)
+%Credits: Code Master
+$D0662E84 00000007
+$10B63D24 0000270F
++Max Weapon Capacity (Mega Man X & Zero)
+%Credits: Code Master
+$D0662E84 00000007
+$10B63C3A 00000180
++P1 Press L1+Down To Disable Infinite Health
+%Credits: Code Master
+$E0020007 00662E84
+$D01A4582 0000FBBF
+$100C0000 00000000
++P1 Press L1+L2 To Enable Jump Floating
+%Credits: Code Master
+$E0040007 00662E84
+$D01A4582 0000FAFF
+$100C0004 00000001
+$D00C0004 00000001
+$10B63B60 00000008
++P1 Press L1+Left To Disable Invincibility
+%Credits: Code Master
+$E0020007 00662E84
+$D01A4582 0000FB7F
+$100C0002 00000000
++P1 Press L1+Right To Enable Invincibility
+%Credits: Code Master
+$E0040007 00662E84
+$D01A4582 0000FBDF
+$100C0002 00000001
+$D00C0002 00000001
+$10B63B50 00003500
++P1 Press L1+Up To Enable Infinite Health
+%Credits: Code Master
+$E0040007 00662E84
+$D01A4582 0000FBEF
+$100C0000 00000001
+$D00C0000 00000001
+$00B63B4C 0000003C
++P1 Press R1+R2 To Disable Jump Floating
+%Credits: Code Master
+$E0020007 00662E84
+$D01A4582 0000F5FF
+$100C0004 00000001
++P1 Press X For Higher Jumps
+%Credits: Code Master
+$E0020007 00662E84
+$D01A4582 0000BFFF
+$30300002 00B63AFE
++P1 Press X For Super Jumps
+%Credits: Code Master
+$E0020007 00662E84
+$D01A4582 0000BFFF
+$30300004 00B63AFE
++P1 Press X For Ultra Jumps {<I>When Falling, P1 Press X Again To Start Rising In The Air.</I>}
+%Credits: Code Master
+$E0020007 00662E84
+$D01A4582 0000BFFF
+$30300008 00B63AFE
+!!
+!MegaMan X Codes:
++Infinite Health {<I>Don&#39;T Pick Item Drop Health</I>}
+%Credits: Code Master
+$E0020002 00662E84
+$D01A4582 0010FFFE
+$00FE1E0F 00000010
++Infinite Lives
+%Credits: Code Master
+$D0662E84 00000002
+$00FE31C0 00000009
++Invincible
+%Credits: Code Master
+$D0662E84 00000002
+$00FE1E18 00000008
++P1 Press X For Moon Jump
+%Credits: Code Master
+$E0020002 00662E84
+$D01A4582 0000BFFF
+$10FE1E04 00000300
+!!
++Megaman X SNES PAR Pointer
+%Credits: lee4
+$E0023178 00662EA2
+$60588060 000000??
+$00000001 0000????
+!Unlock Codes:
++Unlock Mega Man Battle & Chase
+%Credits: Code Master
+$D0662E84 00000001
+$00669980 00000001
+!!
+!Unlock Gallery Codes:
++All Gallery
+%Credits: Code Master
+$D0662E84 00000001
+$206699C4 FFFFFFFF
++Hint 1
+%Credits: Code Master
+$D0662E84 00000001
+$706699C6 00000002
++Hint 2
+%Credits: Code Master
+$D0662E84 00000001
+$706699C6 00000004
++Hint 3
+%Credits: Code Master
+$D0662E84 00000001
+$706699C6 00000008
++Images 1
+%Credits: Code Master
+$D0662E84 00000001
+$706699C4 00000001
++Images 2
+%Credits: Code Master
+$D0662E84 00000001
+$706699C4 00000002
++Images 3
+%Credits: Code Master
+$D0662E84 00000001
+$706699C4 00000004
++Images 4
+%Credits: Code Master
+$D0662E84 00000001
+$706699C4 00000008
++Images 5
+%Credits: Code Master
+$D0662E84 00000001
+$706699C4 00000010
++Images 6
+%Credits: Code Master
+$D0662E84 00000001
+$706699C4 00000020
++Images 7
+%Credits: Code Master
+$D0662E84 00000001
+$706699C4 00000040
++Images 8
+%Credits: Code Master
+$D0662E84 00000001
+$706699C4 00000080
++Music 1
+%Credits: Code Master
+$D0662E84 00000001
+$706699C5 00000002
++Music 2
+%Credits: Code Master
+$D0662E84 00000001
+$706699C5 00000004
++Music 3
+%Credits: Code Master
+$D0662E84 00000001
+$706699C5 00000008
++Music 4
+%Credits: Code Master
+$D0662E84 00000001
+$706699C5 00000010
++Music 5
+%Credits: Code Master
+$D0662E84 00000001
+$706699C5 00000020
++Music 6
+%Credits: Code Master
+$D0662E84 00000001
+$706699C5 00000040
++Music 7
+%Credits: Code Master
+$D0662E84 00000001
+$706699C5 00000080
++Music 8
+%Credits: Code Master
+$D0662E84 00000001
+$706699C6 00000001
++Staff
+%Credits: Code Master
+$D0662E84 00000001
+$706699C5 00000001
+!!
+!Zero Rank Modifier Codes:
++A
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDE 00000004
++A
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30B 00000004
++B
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDE 00000005
++B
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30B 00000005
++C
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDE 00000006
++C
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30B 00000006
++D
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDE 00000007
++D
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30B 00000007
++GA
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDE 00000002
++GA
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30B 00000002
++MEH
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30B 00000000
++PA
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDE 00000001
++PA
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30B 00000001
++SA
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDE 00000003
++SA
+%Credits: Code Master
+$D0662E84 00000006
+$00C0A30B 00000003
++UH
+%Credits: Code Master
+$D0662E84 00000007
+$00B63CDE 00000000
+!!
+!!
+

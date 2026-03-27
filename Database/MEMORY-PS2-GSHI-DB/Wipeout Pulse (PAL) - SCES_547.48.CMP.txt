@@ -1,0 +1,37 @@
+^3 = NAME: Wipeout Pulse (PAL)
+^2 = GameID: SCES-54748
+!Master Codes:
++Enable Code (Must On Be)
+%Credits: lee4
+$90241C68 00431021
++Enable Code (Must On Be) Alt.
+%Credits: lee4
+$9023ADC0 0C08EB18
++Enable Code (Must On Be) Alt.
+%Credits: lee4
+$90241BE8 0C040B4A
+!!
++Auto Drive
+%Credits: luc-ita
+$20150064 10000007
++Opponents Don't Move
+%Credits: luc-ita
+$2015E344 00000000
++P1 Inf Energy
+%Credits: lee4
+$602E0CD8 43480000
+$00020001 00000118
++P1 Inf Energy Alt.
+%Credits: lee4
+$602E24F0 43480000
+$00020001 00000118
++P1 Inf Energy Alt.
+%Credits: lee4
+$602E2830 43480000
+$00020001 00000118
++P1 Inf Energy Alt.
+%Credits: lee4
+$6033C37C 43480000
+$00020001 00000118
+!!
+

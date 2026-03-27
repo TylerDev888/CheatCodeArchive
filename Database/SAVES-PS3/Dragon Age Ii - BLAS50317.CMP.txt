@@ -1,0 +1,8 @@
+^2 = GameID: BLAS50317
+^3 = NAME: Dragon Age II
+([Money 999999999])
+(search 0x0000039FFFFFFFFF)
+(write next 0x18:0x3B9AC9FF)
++Money 999999999(from Chaoszage)
+$search 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+$write next 0x30:0x3B9AC9FF

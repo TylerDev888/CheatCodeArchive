@@ -1,0 +1,18 @@
+^3 = NAME: Syberia (Pal-Unk)
+^2 = GameID: SLES-51393
+!Master Codes:
++Enable Code
+%Credits: lee4
+$901428F8 0C0509E6
+!!
++Pal2ntsc
+%Credits: lee4
+$2013FEE0 34050002
+$2013FEE4 24030002
+$2013FEE8 0000000C
+$2013FEEC 03E00008
++Y-Fix (FMV)
+%Credits: lee4
+$00136448 00000000
+!!
+

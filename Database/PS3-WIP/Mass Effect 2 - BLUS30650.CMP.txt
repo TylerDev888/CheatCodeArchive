@@ -1,0 +1,30 @@
+^2 = GameID: BLUS30650
+^3 = NAME: Mass Effect 2
+^5 = APCRED: From Keha World
+^4 = FILE: AUTO
+(*xxxxxxxx=The present Credit (Hexadecimal number / Big Endian))
+(*yy=The present Medigel (Hexadecimal number / Big Endian))
++Credit / Medigel / Palladium / Iridium / Platinum / Elementzero 9999999 (template)
+$search xxxxxxxx000000yy
+$write next 0: 0098967F0098967F0098967F0098967F0098967F0098967F
+^4 = FILE: AUTO
++Update Crc32big - Auto (required)
+$set pointer:eof-3
+$set range:0x000000,pointer
+$set [hash]:CRC32Big
+$set pointer:eof-3
+$write next (0):[hash]
+^4 = FILE: CHAPTER
++Update Crc32big - Chapter (required)
+$set pointer:eof-3
+$set range:0x000000,pointer
+$set [hash]:CRC32Big
+$set pointer:eof-3
+$write next (0):[hash]
+^4 = FILE: SAVE*
++Update Crc32big - Save* (required)
+$set pointer:eof-3
+$set range:0x000000,pointer
+$set [hash]:CRC32Big
+$set pointer:eof-3
+$write next (0):[hash]

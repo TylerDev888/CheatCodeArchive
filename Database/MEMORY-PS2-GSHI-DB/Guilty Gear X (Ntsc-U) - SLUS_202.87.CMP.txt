@@ -1,0 +1,131 @@
+^3 = NAME: Guilty Gear X (Ntsc-U)
+^2 = GameID: SLUS-20287
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0100118 001997F7
++(M) Must Be On
+%Credits: Codejunkies
+$F01997F4 001997F7
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001997F7
+!!
++Always Full Tension Gauge P1
+%Credits: Code Master
+$10539C90 0000270F
+$10539D44 0000270F
++Always Full Tension Gauge P2
+%Credits: Code Master
+$10539D50 0000270F
+$10539E04 0000270F
++Disable Blocking Both Players
+%Credits: nolberto82
+$B5C2FB64 263C154D
+!Dizzy Codes:
++Never Be Dizzied
+%Credits: Codejunkies
+$10539CF6 00000000
++Never Be Dizzied
+%Credits: Codejunkies
+$10539DB6 00000000
++Super Dizzied
+%Credits: Codejunkies
+$10539CF6 000000E7
++Super Dizzied
+%Credits: Codejunkies
+$10539DB6 000000E7
+!!
+!Guard Codes:
++Guard Is Very Strong
+%Credits: Codejunkies
+$10539CAA 00000000
++Guard Is Very Strong
+%Credits: Codejunkies
+$10539D6A 00000000
++Guard Is Very Weak
+%Credits: Codejunkies
+$10539CAA 00000080
++Guard Is Very Weak
+%Credits: Codejunkies
+$10539D6A 00000080
+!!
++Guilty Gear Mode And Extra Characters {<I>Play 1 Round In Survival Mode To Unlock Guilty Gear Mode As Well As The Characters Dizzy &Amp; Testament.<Br>You DO NOT Have To Win The Round In Survival Mode To Successfully Unlock These Extras.</I>}
+%Credits: InterAct
+$11DF3D00 0000270F
++Hit Anywhere Both Players
+%Credits: nolberto82
+$99CA2BED 54CDD556
++Infinite Time
+%Credits: Code Master
+$1056D034 00001770
+!Jump Codes:
++Always Have Blue Trails
+%Credits: Codejunkies
+$10539C9A 00000001
++Always Have Blue Trails
+%Credits: Codejunkies
+$10539D5A 00000001
++Battle In Deep Space
+%Credits: Codejunkies
+$1053A3D6 00000000
+$1053A3DA 00000000
+$1053A3DE 00000000
++Have Infinite Jumps
+%Credits: Codejunkies
+$10539CE8 00000101
++Have Infinite Jumps
+%Credits: Codejunkies
+$10539DA8 00000101
++Have Less Jumps
+%Credits: Codejunkies
+$10539CE8 00000000
++Have Less Jumps
+%Credits: Codejunkies
+$10539DA8 00000000
+!!
++Max Score P2
+%Credits: Code Master
+$20539CBC 05F5E0FF
++P1 Always Dizzy (Upon 1St Dizzy)
+%Credits: Code Master
+$10539CF6 000000E8
+!P1 Codes:
++P1: Max Tension
+%Credits: InterAct
+$10539C90 00002710
+$10539D44 00002710
++P1: No Tension
+%Credits: InterAct
+$10539C90 00000000
+$10539D44 00000000
+!!
++P2 Always Dizzy (Upon 1St Dizzy)
+%Credits: Code Master
+$10539DB6 000000E8
+!P2 Codes:
++P2: Infinite Time
+%Credits: InterAct
+$1056D034 00001715
++P2: Max Tension
+%Credits: InterAct
+$10539D50 00002710
+$10539E04 00002710
++P2: No Tension
+%Credits: InterAct
+$10539D50 00000000
+$10539E04 00000000
+!!
+!Player 1 Codes:
++Max Score
+%Credits: Codejunkies
+$20539BFC 05F5E0FF
+!!
++Quick Score Gain
+%Credits: Code Master
+$10539BFC 0000FFFF
++Quick Score Gain P2
+%Credits: Code Master
+$10539CBC 0000FFFF
+!!
+

@@ -1,0 +1,105 @@
+^3 = NAME: Tiger Woods PGA Tour 2001 (Ntsc-U)
+^2 = GameID: SLUS-20104
+!Master Codes:
++(M) Must Be On
+%Credits: InterAct
+$F0178818 000001FD
++(M) Must Be On
+%Credits: Codejunkies
+$F0178818 0017881B
++Enable Code (Must Be On)
+%Credits: Code Master
+$F0100008 001C638B
+!!
++Always 9 Strokes Recorded P1
+%Credits: Code Master
+$21CE02EC 00000009
++Always 9 Strokes Recorded P2
+%Credits: Code Master
+$21CE03AC 00000009
++Always 9 Strokes Recorded P3
+%Credits: Code Master
+$21CE046C 00000009
++Always 9 Strokes Recorded P4
+%Credits: Code Master
+$21CE052C 00000009
++Always Hole In One P1
+%Credits: Code Master
+$21CE02EC 00000000
++Always Hole In One P2
+%Credits: Code Master
+$21CE03AC 00000000
++Always Hole In One P3
+%Credits: Code Master
+$21CE046C 00000000
++Always Hole In One P4
+%Credits: Code Master
+$21CE052C 00000000
++Easy Tour Challenges
+%Credits: InterAct
+$01CDF693 00000001
+$21CDF694 01010101
+$21CDF698 01010101
+$21CDF69C 01010101
+$21CDF6A0 01010101
+$01CDF6A4 00000001
++Low Strokes Round 1 {<I>With This Code, You&#39;Ll Notice That During Play Your Strokes Are Added Up As They Normally Would, But If You Check Your Score Card, You&#39;Ll Have Only 1 Stroke Per Hole.</I>}
+%Credits: InterAct
+$E00C0040 0028950C
+$01CDF693 00000001
+$21CDF694 01010101
+$21CDF698 01010101
+$21CDF69C 01010101
+$21CDF6A0 01010101
+$01CDF6A4 00000001
++Low Strokes Round 1 {<I>With This Code, You&#39;Ll Notice That During Play Your Strokes Are Added Up As They Normally Would, But If You Check Your Score Card, You&#39;Ll Have Only 1 Stroke Per Hole.</I>}
+%Credits: Codejunkies
+$E0060040 0028950C
+$01CDF693 00000001
+$21CDF694 01010101
+$21CDF698 01010101
+$21CDF69C 01010101
+$21CDF6A0 01010101
+$01CDF6A4 00000001
++Low Strokes Round 2
+%Credits: InterAct
+$E00A0040 0028950C
+$21CDF6A4 01010101
+$21CDF6A8 01010101
+$21CDF6AC 01010101
+$21CDF6B0 01010101
+$21CDF6B4 01010101
++Low Strokes Round 2
+%Credits: Codejunkies
+$E0050040 0028950C
+$21CDF6A4 01010101
+$21CDF6A8 01010101
+$21CDF6AC 01010101
+$21CDF6B0 01010101
+$21CDF6B4 01010101
++Low Strokes Round 3
+%Credits: InterAct
+$E00C0040 0028950C
+$01CDF6B7 00000001
+$21CDF6B8 01010101
+$21CDF6BC 01010101
+$21CDF6C0 01010101
+$21CDF6C4 01010101
+$01CDF6C8 00000001
++Low Strokes Round 3
+%Credits: Codejunkies
+$E0060040 0028950C
+$01CDF6B7 00000001
+$21CDF6B8 01010101
+$21CDF6BC 01010101
+$21CDF6C0 01010101
+$21CDF6C4 01010101
+$01CDF6C8 00000001
++Only One Shot Recorded (All Players)
+%Credits: Code Master
+$20164D14 00000000
++Shots Worth Modifier (All Players)
+%Credits: Code Master
+$10164D10 000000??
+!!
+
