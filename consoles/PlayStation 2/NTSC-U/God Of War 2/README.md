@@ -691,7 +691,7 @@ E002F0EF 0032F45C
 
 ### Enemy Speed
 **Author:** FloydFan  
-**Notes:** [Various Speed Modifiers:{<span Class=\
+**Notes:** It is advised to use these codes with joker commands. The game will automatically restore the default speed for all modifiers; you do not need a separate joker command to return any code to its default speed.
 
 ```
 202D80CC [Amount:40000000:FLOAT:BIG]
@@ -701,7 +701,7 @@ E002F0EF 0032F45C
 
 ### Kratos
 **Author:** FloydFan  
-**Notes:** [Various Speed Modifiers:{<span Class=\
+**Notes:** It is advised to use these codes with joker commands. The game will automatically restore the default speed for all modifiers; you do not need a separate joker command to return any code to its default speed.
 
 ```
 202D80D0 [Amount:40000000:FLOAT:BIG]

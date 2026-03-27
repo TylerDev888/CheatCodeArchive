@@ -12,22 +12,22 @@ source: ""
 
 cheats:
   - name: "Player 1 - Wiimote"
-    notes: "[Jokers: {<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li><code>xxxx</Code> = Button Value(s). Replace Each <code>x</Code> With The Hex For The Buttons You Want.</Li><li><code>mmmm</Code> = Mask. Replace Each <code>m</Code> With The Computed Mask Value.</Li><li>compute The Mask In Hex:..."
+    notes: "xxxx = Button Value(s), replace each x with the hex for the buttons you want. mmmm = Mask, replace each m with the computed mask value."
     codes:
       - "006593E8 0000[Joker:WII]"
 
   - name: "Player 1 - Classic"
-    notes: "[Jokers: {<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li><code>xxxx</Code> = Button Value(s). Replace Each <code>x</Code> With The Hex For The Buttons You Want.</Li><li><code>mmmm</Code> = Mask. Replace Each <code>m</Code> With The Computed Mask Value.</Li><li>compute The Mask In Hex:..."
+    notes: "xxxx = Button Value(s), replace each x with the hex for the buttons you want. mmmm = Mask, replace each m with the computed mask value."
     codes:
       - "006593DC 0000[Joker:WII]"
 
   - name: "Player 2 - Wiimote"
-    notes: "[Jokers: {<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li><code>xxxx</Code> = Button Value(s). Replace Each <code>x</Code> With The Hex For The Buttons You Want.</Li><li><code>mmmm</Code> = Mask. Replace Each <code>m</Code> With The Computed Mask Value.</Li><li>compute The Mask In Hex:..."
+    notes: "xxxx = Button Value(s), replace each x with the hex for the buttons you want. mmmm = Mask, replace each m with the computed mask value."
     codes:
       - "00659738 0000[Joker:WII]"
 
   - name: "Player 2 - Classic"
-    notes: "[Jokers: {<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li><code>xxxx</Code> = Button Value(s). Replace Each <code>x</Code> With The Hex For The Buttons You Want.</Li><li><code>mmmm</Code> = Mask. Replace Each <code>m</Code> With The Computed Mask Value.</Li><li>compute The Mask In Hex:..."
+    notes: "xxxx = Button Value(s), replace each x with the hex for the buttons you want. mmmm = Mask, replace each m with the computed mask value."
     codes:
       - "0065972C 0000[Joker:WII]"
 

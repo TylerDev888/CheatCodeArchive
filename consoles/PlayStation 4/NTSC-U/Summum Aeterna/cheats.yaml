@@ -12,7 +12,7 @@ source: ""
 
 cheats:
   - name: "Switness"
-    notes: "[Stats:{{<div class=\"sw-codes\"><p style=\"margin:0 0 6px 0;font-weight:800;color:#c00;\">Must apply the <strong>corresponding SW code</strong> with each of these <strong>(at the same time)</strong>.</p><h4>Example</h4><p>SW code gives you <code>99999</code>. To set it to <code>300</code>, express i..."
+    notes: "Must apply the corresponding SW code with each of these at the same time. Example: SW code gives you 99999. To set it to 300, express it as a 3-digit ASCII value (e.g., 300 = 300)."
     codes:
       - "8001003A 4B696E67"
       - "4C657665 6C50726F"
@@ -28,7 +28,7 @@ cheats:
       - "[Amount:00300:ASCII:LITTLE<Amount 1-5>]00000000"
 
   - name: "Super Critical Chance"
-    notes: "[Stats:{{<div class=\"sw-codes\"><p style=\"margin:0 0 6px 0;font-weight:800;color:#c00;\">Must apply the <strong>corresponding SW code</strong> with each of these <strong>(at the same time)</strong>.</p><h4>Example</h4><p>SW code gives you <code>99999</code>. To set it to <code>300</code>, express i..."
+    notes: "Must apply the corresponding SW code with each of these at the same time. Example: SW code gives you 99999. To set it to 300, express it as a 3-digit ASCII value (e.g., 300 = 300)."
     codes:
       - "80010046 4B696E67"
       - "4C657665 6C50726F"
@@ -46,7 +46,7 @@ cheats:
       - "[Amount:00300:ASCII:HEX]00000000"
 
   - name: "Spartan Defence"
-    notes: "[Stats:{{<div class=\"sw-codes\"><p style=\"margin:0 0 6px 0;font-weight:800;color:#c00;\">Must apply the <strong>corresponding SW code</strong> with each of these <strong>(at the same time)</strong>.</p><h4>Example</h4><p>SW code gives you <code>99999</code>. To set it to <code>300</code>, express i..."
+    notes: "Must apply the corresponding SW code with each of these at the same time. Example: SW code gives you 99999. To set it to 300, express it as a 3-digit ASCII value (e.g., 300 = 300)."
     codes:
       - "8001003C 4B696E67"
       - "4C657665 6C50726F"
@@ -62,7 +62,7 @@ cheats:
       - "[Amount:00300:ASCII:HEX]00000000"
 
   - name: "Master Torturer"
-    notes: "[Stats:{{<div class=\"sw-codes\"><p style=\"margin:0 0 6px 0;font-weight:800;color:#c00;\">Must apply the <strong>corresponding SW code</strong> with each of these <strong>(at the same time)</strong>.</p><h4>Example</h4><p>SW code gives you <code>99999</code>. To set it to <code>300</code>, express i..."
+    notes: "Must apply the corresponding SW code with each of these at the same time. Example: SW code gives you 99999. To set it to 300, express it as a 3-digit ASCII value (e.g., 300 = 300)."
     codes:
       - "80010042 4B696E67"
       - "4C657665 6C50726F"
@@ -79,7 +79,7 @@ cheats:
       - "[Amount:00300:ASCII:HEX]00000000"
 
   - name: "Longevity"
-    notes: "[Stats:{{<div class=\"sw-codes\"><p style=\"margin:0 0 6px 0;font-weight:800;color:#c00;\">Must apply the <strong>corresponding SW code</strong> with each of these <strong>(at the same time)</strong>.</p><h4>Example</h4><p>SW code gives you <code>99999</code>. To set it to <code>300</code>, express i..."
+    notes: "Must apply the corresponding SW code with each of these at the same time. Example: SW code gives you 99999. To set it to 300, express it as a 3-digit ASCII value (e.g., 300 = 300)."
     codes:
       - "80010043 4B696E67"
       - "4C657665 6C50726F"
@@ -96,7 +96,7 @@ cheats:
       - "[Amount:00300:ASCII:HEX]00000000"
 
   - name: "Healthy Food"
-    notes: "[Stats:{{<div class=\"sw-codes\"><p style=\"margin:0 0 6px 0;font-weight:800;color:#c00;\">Must apply the <strong>corresponding SW code</strong> with each of these <strong>(at the same time)</strong>.</p><h4>Example</h4><p>SW code gives you <code>99999</code>. To set it to <code>300</code>, express i..."
+    notes: "Must apply the corresponding SW code with each of these at the same time. Example: SW code gives you 99999. To set it to 300, express it as a 3-digit ASCII value (e.g., 300 = 300)."
     codes:
       - "80010040 4B696E67"
       - "4C657665 6C50726F"
@@ -113,7 +113,7 @@ cheats:
       - "[Amount:00300:ASCII:HEX]00000000"
 
   - name: "Healer Chest"
-    notes: "[Stats:{{<div class=\"sw-codes\"><p style=\"margin:0 0 6px 0;font-weight:800;color:#c00;\">Must apply the <strong>corresponding SW code</strong> with each of these <strong>(at the same time)</strong>.</p><h4>Example</h4><p>SW code gives you <code>99999</code>. To set it to <code>300</code>, express i..."
+    notes: "Must apply the corresponding SW code with each of these at the same time. Example: SW code gives you 99999. To set it to 300, express it as a 3-digit ASCII value (e.g., 300 = 300)."
     codes:
       - "8001003E 4B696E67"
       - "4C657665 6C50726F"
@@ -130,7 +130,7 @@ cheats:
       - "[Amount:00300:ASCII:HEX]00000000"
 
   - name: "Guardian Angel"
-    notes: "[Stats:{{<div class=\"sw-codes\"><p style=\"margin:0 0 6px 0;font-weight:800;color:#c00;\">Must apply the <strong>corresponding SW code</strong> with each of these <strong>(at the same time)</strong>.</p><h4>Example</h4><p>SW code gives you <code>99999</code>. To set it to <code>300</code>, express i..."
+    notes: "Must apply the corresponding SW code with each of these at the same time. Example: SW code gives you 99999. To set it to 300, express it as a 3-digit ASCII value (e.g., 300 = 300)."
     codes:
       - "80010042 4B696E67"
       - "4C657665 6C50726F"
@@ -147,7 +147,7 @@ cheats:
       - "[Amount:00300:ASCII:HEX]00000000"
 
   - name: "Exploitation"
-    notes: "[Stats:{{<div class=\"sw-codes\"><p style=\"margin:0 0 6px 0;font-weight:800;color:#c00;\">Must apply the <strong>corresponding SW code</strong> with each of these <strong>(at the same time)</strong>.</p><h4>Example</h4><p>SW code gives you <code>99999</code>. To set it to <code>300</code>, express i..."
+    notes: "Must apply the corresponding SW code with each of these at the same time. Example: SW code gives you 99999. To set it to 300, express it as a 3-digit ASCII value (e.g., 300 = 300)."
     codes:
       - "80010049 4B696E67"
       - "4C657665 6C50726F"
@@ -165,7 +165,7 @@ cheats:
       - "[Amount:00300:ASCII:HEX]00000000"
 
   - name: "Empowered Curse"
-    notes: "[Stats:{{<div class=\"sw-codes\"><p style=\"margin:0 0 6px 0;font-weight:800;color:#c00;\">Must apply the <strong>corresponding SW code</strong> with each of these <strong>(at the same time)</strong>.</p><h4>Example</h4><p>SW code gives you <code>99999</code>. To set it to <code>300</code>, express i..."
+    notes: "Must apply the corresponding SW code with each of these at the same time. Example: SW code gives you 99999. To set it to 300, express it as a 3-digit ASCII value (e.g., 300 = 300)."
     codes:
       - "80010041 4B696E67"
       - "4C657665 6C50726F"
@@ -182,7 +182,7 @@ cheats:
       - "[Amount:00300:ASCII:HEX]00000000"
 
   - name: "Critical Chance"
-    notes: "[Stats:{{<div class=\"sw-codes\"><p style=\"margin:0 0 6px 0;font-weight:800;color:#c00;\">Must apply the <strong>corresponding SW code</strong> with each of these <strong>(at the same time)</strong>.</p><h4>Example</h4><p>SW code gives you <code>99999</code>. To set it to <code>300</code>, express i..."
+    notes: "Must apply the corresponding SW code with each of these at the same time. Example: SW code gives you 99999. To set it to 300, express it as a 3-digit ASCII value (e.g., 300 = 300)."
     codes:
       - "80010041 4B696E67"
       - "4C657665 6C50726F"
@@ -199,7 +199,7 @@ cheats:
       - "[Amount:00300:ASCII:HEX]00000000"
 
   - name: "Basic Attack"
-    notes: "[Stats:{{<div class=\"sw-codes\"><p style=\"margin:0 0 6px 0;font-weight:800;color:#c00;\">Must apply the <strong>corresponding SW code</strong> with each of these <strong>(at the same time)</strong>.</p><h4>Example</h4><p>SW code gives you <code>99999</code>. To set it to <code>300</code>, express i..."
+    notes: "Must apply the corresponding SW code with each of these at the same time. Example: SW code gives you 99999. To set it to 300, express it as a 3-digit ASCII value (e.g., 300 = 300)."
     codes:
       - "80010040 4B696E67"
       - "4C657665 6C50726F"
@@ -216,7 +216,7 @@ cheats:
       - "[Amount:00300:ASCII:HEX]00000000"
 
   - name: "Accurate Hit"
-    notes: "[Stats:{{<div class=\"sw-codes\"><p style=\"margin:0 0 6px 0;font-weight:800;color:#c00;\">Must apply the <strong>corresponding SW code</strong> with each of these <strong>(at the same time)</strong>.</p><h4>Example</h4><p>SW code gives you <code>99999</code>. To set it to <code>300</code>, express i..."
+    notes: "Must apply the corresponding SW code with each of these at the same time. Example: SW code gives you 99999. To set it to 300, express it as a 3-digit ASCII value (e.g., 300 = 300)."
     codes:
       - "80010043 4B696E67"
       - "4C657665 6C50726F"
