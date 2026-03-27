@@ -1,4 +1,4 @@
-# PSP — PAL
+# PSP  -  PAL
 
 ## Games (A-Z)
 

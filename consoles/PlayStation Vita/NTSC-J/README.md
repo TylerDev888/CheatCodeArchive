@@ -1,4 +1,4 @@
-# PlayStation Vita — NTSC-J
+# PlayStation Vita  -  NTSC-J
 
 ## Games (A-Z)
 

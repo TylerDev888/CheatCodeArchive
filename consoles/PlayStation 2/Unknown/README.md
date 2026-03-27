@@ -1,4 +1,4 @@
-# PlayStation 2 — Unknown
+# PlayStation 2  -  Unknown
 
 ## Games (A-Z)
 

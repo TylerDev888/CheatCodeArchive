@@ -1,4 +1,4 @@
-# PlayStation 4 — NTSC-U
+# PlayStation 4  -  NTSC-U
 
 ## Games (A-Z)
 

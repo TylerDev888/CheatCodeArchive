@@ -1,4 +1,4 @@
-# PlayStation Vita — NTSC-U
+# PlayStation Vita  -  NTSC-U
 
 ## Games (A-Z)
 

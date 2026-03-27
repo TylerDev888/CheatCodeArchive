@@ -1,4 +1,4 @@
-# PlayStation Vita — Unknown
+# PlayStation Vita  -  Unknown
 
 ## Games (A-Z)
 

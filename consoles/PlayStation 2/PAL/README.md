@@ -1,4 +1,4 @@
-# PlayStation 2 — PAL
+# PlayStation 2  -  PAL
 
 ## Games (A-Z)
 

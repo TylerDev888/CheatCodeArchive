@@ -1,4 +1,4 @@
-# PlayStation Vita — PAL
+# PlayStation Vita  -  PAL
 
 ## Games (A-Z)
 

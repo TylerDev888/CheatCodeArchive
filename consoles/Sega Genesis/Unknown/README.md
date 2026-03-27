@@ -1,4 +1,4 @@
-# Sega Genesis — Unknown
+# Sega Genesis  -  Unknown
 
 ## Games (A-Z)
 

@@ -1,4 +1,4 @@
-# PlayStation 3 — PAL
+# PlayStation 3  -  PAL
 
 ## Games (A-Z)
 

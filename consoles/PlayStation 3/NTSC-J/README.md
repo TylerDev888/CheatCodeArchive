@@ -1,4 +1,4 @@
-# PlayStation 3 — NTSC-J
+# PlayStation 3  -  NTSC-J
 
 ## Games (A-Z)
 

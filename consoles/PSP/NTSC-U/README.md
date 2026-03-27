@@ -1,4 +1,4 @@
-# PSP — NTSC-U
+# PSP  -  NTSC-U
 
 ## Games (A-Z)
 
